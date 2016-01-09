@@ -1,0 +1,13 @@
+[
+  {
+    "name": "This is the name of the quarterly",
+    "description": "This is the description",
+    "path": "2015-04"
+  },
+
+  {
+    "name": "This is the name of the quarterly 2",
+    "description": "This is the description 2",
+    "path": "2016-01"
+  }
+]
