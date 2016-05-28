@@ -10,7 +10,8 @@ var SOURCE_PATH = "src/",
     DIST_PATH = "dist/",
     DIST_INFO_FILE = "info.json",
     DIST_COVER_FILE = "cover.png",
-    DIST_EXTENSION = "html";
+    DIST_EXTENSION = "html",
+    DIST_S3 = "https://s3-us-west-2.amazonaws.com/com.cryart.sabbathschool";
 
 
 var processLang = function(path){
@@ -28,6 +29,9 @@ var processLang = function(path){
     var quarterly_info = yamljs.load(quarterly_path + "/" + SOURCE_INFO_FILE);
     quarterly_info.lessons = [];
 
+    fs.copySync(quarterly_path + "/" + SOURCE_COVER_FILE, quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_COVER_FILE);
+    quarterly_info.cover = DIST_S3 + "/" + quarterly_path.replace(SOURCE_PATH, "") + "/" + DIST_COVER_FILE;
+
     for (var j = 0; j < quarterly.length; j++){
       var extension = quarterly[j].split(".").pop();
       if (extension != SOURCE_EXTENSION) continue;
@@ -40,9 +44,9 @@ var processLang = function(path){
       quarterly_info.lessons.push(quarterly_md.meta);
     }
     lang_info.push(quarterly_info);
-    fs.copySync(quarterly_path + "/" + SOURCE_COVER_FILE, quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_COVER_FILE);
 
   }
+
   fswf(path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(lang_info));
 };
 
