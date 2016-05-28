@@ -2,8 +2,8 @@ language: node_js
 node_js:
 - '4'
 script: node compile.js
-provider: s3
 deploy:
+  provider: s3
   access_key_id: AKIAIJQZXYPFA2TPPBJQ
   bucket: com.cryart.sabbathschool
   skip_cleanup: true
