@@ -1,5 +1,5 @@
 var metaMarked =    require('meta-marked'),
-    fs =            require('fs'),
+    fs =            require('fs-extra'),
     yamljs =        require('yamljs'),
     fswf =          require('safe-write-file');
 
@@ -40,6 +40,7 @@ var processLang = function(path){
       quarterly_info.lessons.push(quarterly_md.meta);
     }
     lang_info.push(quarterly_info);
+    fs.copySync(quarterly_path + "/" + SOURCE_COVER_FILE, quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_COVER_FILE);
 
   }
   fswf(path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(lang_info));
