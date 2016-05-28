@@ -1,4 +1,11 @@
 language: node_js
 node_js:
-  - "4"
+- '4'
 script: node compile.js
+provider: s3
+deploy:
+  access_key_id: AKIAIJQZXYPFA2TPPBJQ
+  bucket: com.cryart.sabbathschool
+  skip_cleanup: true
+  secret_access_key:
+    secure: Te6KptQIUzQlFevxkiOAhLh2+2gxxmMTxQ91Fd90AByaH65tCYt5Y8/iudS+vXsPu9SGIOoHE0mKdSKR5rlxGMnL2w3cPw4nXKN8aZ8czCruydVR5XPxR0mON6sYLxoM3kfg/GaBr9yv37or8gqKh+5CIi95BdtGd2ttS0V6p9tJxrMKFhinM2PyPZ8ZYJFj3AqWmjm5bV4DYNtjsxVnhzKAyZAIRP8Sm4CxH1cQ9PPkBO25keFIN2M2mtj+IrMRjHFDe/BjN7PcFXuM7pYO3AYS4Q7ADg9iZoOnoDmIH5PjQEGryWQ6TCGwNeQQeXN+qgiFxJfzyFlJbJ4+DWZI1dPZkLtVlAUXA7C76DrKsiTiTrlTS5rmPx8V327ZtAaJk7OyzE8ufTJ6YX0T9oQsu2hgD+YblObUnrqNlF17+9hq53lkptRNGGT2gzmUeGIQ1cTGv9o5USQdLeo6mM6ulw3SG4PCMdEKeUu/ibq/6qTi8KEHP+Cd18fgSW/6V0/WFH8EJBp2m1ow1CKz64D3z2qDVPjLWfRJUpVAxvr6YxsZZPO8WgH03fxgCMoKlPIqWieZxGwEsqndwg7rkNa/t9cFrt/SxMkzvRcl4LvSOQ+q+SCcyAfNeVFMnrMDQ2llM676svIpxfOaZ4s9lu8fjcYhVXt12vRelXMIJZazJec=
