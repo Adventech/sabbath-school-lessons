@@ -1,7 +1,7 @@
-var metaMarked =    require('meta-marked'),
-    fs =            require('fs-extra'),
-    yamljs =        require('yamljs'),
-    fswf =          require('safe-write-file');
+var metaMarked =    require("meta-marked"),
+    fs =            require("fs-extra"),
+    yamljs =        require("yamljs"),
+    fswf =          require("safe-write-file");
 
 var SOURCE_PATH = "src/",
     SOURCE_INFO_FILE = "info.yml",
@@ -40,7 +40,7 @@ var processLang = function(path){
           quarterly_md = metaMarked(fs.readFileSync(quarterly_path + "/" + quarterly[j], "utf-8"));
 
       fswf(day_path, quarterly_md.html);
-      quarterly_md.meta.path = day_path;
+      quarterly_md.meta.path = DIST_S3 + "/" + quarterly_path.replace(SOURCE_PATH, "") + "/" + quarterly[j].replace(SOURCE_EXTENSION, DIST_EXTENSION);
       quarterly_info.lessons.push(quarterly_md.meta);
     }
     lang_info.push(quarterly_info);
