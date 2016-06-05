@@ -43,6 +43,7 @@ var processLang = function(path){
       quarterly_md.meta.path = DIST_S3 + "/" + quarterly_path.replace(SOURCE_PATH, "") + "/" + quarterly[j].replace(SOURCE_EXTENSION, DIST_EXTENSION);
       quarterly_info.lessons.push(quarterly_md.meta);
     }
+    fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(quarterly_info));
     lang_info.push(quarterly_info);
 
   }
