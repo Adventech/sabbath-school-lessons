@@ -27,6 +27,7 @@ var processLang = function(path){
     var quarterly = fs.readdirSync(quarterly_path);
 
     var quarterly_info = yamljs.load(quarterly_path + "/" + SOURCE_INFO_FILE);
+    quarterly_info.id = quarterly_path.replace(SOURCE_PATH, "");
     quarterly_info.lessons = [];
 
     fs.copySync(quarterly_path + "/" + SOURCE_COVER_FILE, quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_COVER_FILE);
@@ -43,6 +44,7 @@ var processLang = function(path){
       quarterly_md.meta.path = DIST_S3 + "/" + quarterly_path.replace(SOURCE_PATH, "") + "/" + quarterly[j].replace(SOURCE_EXTENSION, DIST_EXTENSION);
       quarterly_info.lessons.push(quarterly_md.meta);
     }
+
     fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(quarterly_info));
     delete quarterly_info.lessons;
     lang_info.push(quarterly_info);
