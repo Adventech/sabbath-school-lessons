@@ -44,6 +44,7 @@ var processLang = function(path){
       quarterly_info.lessons.push(quarterly_md.meta);
     }
     fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(quarterly_info));
+    delete quarterly_info.lessons;
     lang_info.push(quarterly_info);
 
   }
