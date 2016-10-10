@@ -4,12 +4,16 @@
   "description": "",
   "main": "compile.js",
   "dependencies": {
+    "crypto": "0.0.3",
     "fs-extra": "^0.30.0",
     "meta-marked": "^0.4.1",
+    "moment": "^2.15.1",
     "safe-write-file": "^1.1.0",
     "yamljs": "^0.2.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "optimist": "^0.6.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
