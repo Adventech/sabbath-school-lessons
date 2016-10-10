@@ -108,8 +108,6 @@ for (var i = 0; i < languages.length; i++){
 
 }
 
-
 api_info.checksum = createChecksum(JSON.stringify(api_info));
 api_info.last_modified = Date.now();
 fswf(DIST_PATH+ "/" + DIST_INFO_FILE, JSON.stringify(api_info));
-
