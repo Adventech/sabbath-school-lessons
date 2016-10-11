@@ -49,6 +49,7 @@ var processLang = function(path){
       var lessons = fs.readdirSync(lesson_dir);
 
       var lesson_md_info = yamljs.load(lesson_dir + "/" + SOURCE_INFO_FILE);
+      lesson_md_info.id = lesson_dir.replace(SOURCE_PATH, "");
       lesson_md_info.days = [];
 
       for (var k = 0; k < lessons.length; k++){
@@ -62,7 +63,9 @@ var processLang = function(path){
         lesson_md_info.days.push(lesson_md.meta);
 
         var lesson_contents = {};
+
         lesson_contents = lesson_md.meta;
+        lesson_contents.id = lesson_dir.replace(SOURCE_PATH, "") + "/" + lessons[k].replace("."+SOURCE_EXTENSION, "");
         lesson_contents.html = lesson_md.html;
 
         lesson_contents.checksum = createChecksum(JSON.stringify(lesson_contents));
