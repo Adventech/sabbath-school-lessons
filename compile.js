@@ -69,14 +69,14 @@ var processLang = function(path){
         lesson_contents.html = lesson_md.html;
 
         lesson_contents.checksum = createChecksum(JSON.stringify(lesson_contents));
-        lesson_contents.last_modified = Date.now();
+        lesson_contents.lastModified = Date.now();
         fswf(day_path, JSON.stringify(lesson_contents));
         delete lesson_contents.html;
 
       }
 
       lesson_md_info.checksum = createChecksum(JSON.stringify(lesson_md_info));
-      lesson_md_info.last_modified = Date.now();
+      lesson_md_info.lastModified = Date.now();
       fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + "/" + quarterly[j] + "/" + DIST_INFO_FILE, JSON.stringify(lesson_md_info));
       delete lesson_md_info.days;
       lesson_md_info.path = quarterly_path.replace(SOURCE_PATH, "") + "/" + quarterly[j] + "/" + DIST_INFO_FILE;
@@ -86,7 +86,7 @@ var processLang = function(path){
     quarterly_info.path = quarterly_path.replace(SOURCE_PATH, "") + "/" + DIST_INFO_FILE;
 
     quarterly_info.checksum = createChecksum(JSON.stringify(quarterly_info));
-    quarterly_info.last_modified = Date.now();
+    quarterly_info.lastModified = Date.now();
     fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(quarterly_info));
     delete quarterly_info.lessons;
     lang_info.quarterlies.push(quarterly_info);
@@ -94,7 +94,7 @@ var processLang = function(path){
 
 
   lang_info.checksum = createChecksum(JSON.stringify(lang_info));
-  lang_info.last_modified = Date.now();
+  lang_info.lastModified = Date.now();
   fswf(path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(lang_info));
 };
 
@@ -112,5 +112,5 @@ for (var i = 0; i < languages.length; i++){
 }
 
 api_info.checksum = createChecksum(JSON.stringify(api_info));
-api_info.last_modified = Date.now();
+api_info.lastModified = Date.now();
 fswf(DIST_PATH+ "/" + DIST_INFO_FILE, JSON.stringify(api_info));
