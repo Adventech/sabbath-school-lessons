@@ -9,7 +9,7 @@ var metaMarked =    require("meta-marked"),
     yamljs =        require("yamljs"),
     fswf =          require("safe-write-file");
 
-var API_HOST = "https://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.com/api/",
+var API_HOST = "http://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.com/api/",
     API_VERSION = "v1",
     SOURCE_DIR = "src/",
     SOURCE_INFO_FILE = "info.yml",
