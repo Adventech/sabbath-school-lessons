@@ -27,7 +27,8 @@ var create_languages_api = function(){
       _languages = fs.readdirSync(SOURCE_DIR)
 
   for (var i = 0; i < _languages.length; i++){
-    (fs.lstatSync(SOURCE_DIR + _languages[i]).isDirectory()) && languages.push(_languages[i]);
+    if (!fs.lstatSync(SOURCE_DIR + _languages[i]).isDirectory()) continue;
+    languages.push(yamljs.load(SOURCE_DIR + "/" + _languages[i] + "/" + SOURCE_INFO_FILE));
   }
 
   fswf(DIST_DIR + "/languages/index.json", JSON.stringify(languages));
@@ -52,7 +53,8 @@ var create_days_api = function(language, quarterly, lesson){
         day = _read.meta,
         read = {};
 
-    day.id = language + "/" + quarterly + "/" + lesson + "/" + _day;
+    day.id = _day;
+    day.index = language + "/" + quarterly + "/" + lesson + "/" + _day;
     day.path = language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day;
     day.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day;
     day.read_path = language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read";
@@ -85,7 +87,8 @@ var create_lessons_api = function(language, quarterly){
     if (!fs.lstatSync(WORKING_DIR + "/" + _lessons[i]).isDirectory()) continue;
     var lesson = {};
     lesson.lesson = yamljs.load(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_INFO_FILE);
-    lesson.lesson.id = language + "/" + quarterly + "/" + _lessons[i];
+    lesson.lesson.id = _lessons[i];
+    lesson.lesson.index = language + "/" + quarterly + "/" + _lessons[i];
     lesson.lesson.path = language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i];
     lesson.lesson.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i];
     lesson.days = create_days_api(language, quarterly, _lessons[i]);
@@ -113,7 +116,8 @@ var create_quarterlies_api = function(language){
 
     var quarterly = {};
     quarterly.quarterly = yamljs.load(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_INFO_FILE);
-    quarterly.quarterly.id = language + "/" + _quarterlies[i];
+    quarterly.quarterly.id = _quarterlies[i];
+    quarterly.quarterly.index = language + "/" + _quarterlies[i];
     quarterly.quarterly.path = language + "/quarterlies/" + _quarterlies[i];
     quarterly.quarterly.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + _quarterlies[i];
     quarterly.quarterly.cover = API_HOST + API_VERSION + "/" + quarterly.quarterly.path + "/" + SOURCE_COVER_FILE;
@@ -131,5 +135,5 @@ var create_quarterlies_api = function(language){
 var languages = create_languages_api();
 
 for (var i = 0; i < languages.length; i++){
-  create_quarterlies_api(languages[i]);
+  create_quarterlies_api(languages[i].code);
 }
