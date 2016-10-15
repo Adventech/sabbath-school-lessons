@@ -1,116 +1,135 @@
 #!/usr/bin/env node
+
+/**
+ * Created by vitalik on 16-10-15.
+ */
+
 var metaMarked =    require("meta-marked"),
     fs =            require("fs-extra"),
     yamljs =        require("yamljs"),
     fswf =          require("safe-write-file");
 
-var SOURCE_PATH = "src/",
+var API_HOST = "https://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.com/api/",
+    API_VERSION = "v1",
+    SOURCE_DIR = "src/",
     SOURCE_INFO_FILE = "info.yml",
-    SOURCE_EXTENSION = "md",
     SOURCE_COVER_FILE = "cover.png",
-    DIST_PATH = "dist/",
-    DIST_INFO_FILE = "info.json",
-    DIST_COVER_FILE = "cover.png",
-    DIST_EXTENSION = "json";
+    SOURCE_EXTENSION = "md",
+    DIST_DIR = "dist/api/" + API_VERSION + "/";
 
-var crypto = require("crypto");
+var create_languages_api = function(){
+  /**
+   * Creating languages API
+   *
+   * /api/v1/languages
+   */
+  var languages = [],
+      _languages = fs.readdirSync(SOURCE_DIR)
 
-function createChecksum(str){
-  return crypto
-    .createHash("sha256")
-    .update(str, "utf8")
-    .digest("hex")
-}
-
-
-var processLang = function(path){
-  var quarterlies = fs.readdirSync(path).reverse(),
-      lang_info = { "quarterlies": [] };
-
-  for (var i = 0; i < quarterlies.length; i++){
-    var quarterly_path = path + "/" + quarterlies[i];
-    if (!fs.lstatSync(quarterly_path).isDirectory()) continue;
-    if (!fs.lstatSync(quarterly_path + "/" + SOURCE_INFO_FILE).isFile()) continue;
-    if (!fs.lstatSync(quarterly_path + "/" + SOURCE_COVER_FILE).isFile()) continue;
-
-    var quarterly = fs.readdirSync(quarterly_path);
-
-    var quarterly_info = yamljs.load(quarterly_path + "/" + SOURCE_INFO_FILE);
-    quarterly_info.id = quarterly_path.replace(SOURCE_PATH, "");
-    quarterly_info.lessons = [];
-
-    fs.copySync(quarterly_path + "/" + SOURCE_COVER_FILE, quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_COVER_FILE);
-    quarterly_info.cover = quarterly_path.replace(SOURCE_PATH, "") + "/" + DIST_COVER_FILE;
-
-    for (var j = 0; j < quarterly.length; j++){
-      var lesson_dir = quarterly_path + "/" + quarterly[j];
-      if (!fs.lstatSync(lesson_dir).isDirectory()) continue;
-
-      var lessons = fs.readdirSync(lesson_dir);
-
-      var lesson_md_info = yamljs.load(lesson_dir + "/" + SOURCE_INFO_FILE);
-      lesson_md_info.id = lesson_dir.replace(SOURCE_PATH, "");
-      lesson_md_info.days = [];
-
-      for (var k = 0; k < lessons.length; k++){
-        var extension = lessons[k].split(".").pop();
-        if (extension != SOURCE_EXTENSION) continue;
-
-        var day_path = lesson_dir.replace(SOURCE_PATH, DIST_PATH) + "/" + lessons[k].replace(SOURCE_EXTENSION, DIST_EXTENSION),
-          lesson_md = metaMarked(fs.readFileSync(lesson_dir + "/" + lessons[k], "utf-8"));
-
-        lesson_md.meta.path = day_path.replace(DIST_PATH, "");
-        lesson_md_info.days.push(lesson_md.meta);
-
-        var lesson_contents = {};
-
-        lesson_contents = lesson_md.meta;
-        lesson_contents.id = lesson_dir.replace(SOURCE_PATH, "") + "/" + lessons[k].replace("."+SOURCE_EXTENSION, "");
-        lesson_contents.html = lesson_md.html;
-
-        lesson_contents.checksum = createChecksum(JSON.stringify(lesson_contents));
-        lesson_contents.lastModified = Date.now();
-        fswf(day_path, JSON.stringify(lesson_contents));
-        delete lesson_contents.html;
-
-      }
-
-      lesson_md_info.checksum = createChecksum(JSON.stringify(lesson_md_info));
-      lesson_md_info.lastModified = Date.now();
-      fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + "/" + quarterly[j] + "/" + DIST_INFO_FILE, JSON.stringify(lesson_md_info));
-      delete lesson_md_info.days;
-      lesson_md_info.path = quarterly_path.replace(SOURCE_PATH, "") + "/" + quarterly[j] + "/" + DIST_INFO_FILE;
-      quarterly_info.lessons.push(lesson_md_info);
-    }
-
-    quarterly_info.path = quarterly_path.replace(SOURCE_PATH, "") + "/" + DIST_INFO_FILE;
-
-    quarterly_info.checksum = createChecksum(JSON.stringify(quarterly_info));
-    quarterly_info.lastModified = Date.now();
-    fswf(quarterly_path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(quarterly_info));
-    delete quarterly_info.lessons;
-    lang_info.quarterlies.push(quarterly_info);
+  for (var i = 0; i < _languages.length; i++){
+    (fs.lstatSync(SOURCE_DIR + _languages[i]).isDirectory()) && languages.push(_languages[i]);
   }
 
-
-  lang_info.checksum = createChecksum(JSON.stringify(lang_info));
-  lang_info.lastModified = Date.now();
-  fswf(path.replace(SOURCE_PATH, DIST_PATH) + "/" + DIST_INFO_FILE, JSON.stringify(lang_info));
+  fswf(DIST_DIR + "/languages/index.json", JSON.stringify(languages));
+  return languages;
 };
 
+var create_days_api = function(language, quarterly, lesson){
+  /**
+   * Create Days API
+   */
 
-var languages = fs.readdirSync(SOURCE_PATH),
-    api_info = {
-      "languages": []
-    };
+  var WORKING_DIR = SOURCE_DIR + language + "/" + quarterly + "/" + lesson,
+      days = [],
+      _days = fs.readdirSync(WORKING_DIR);
+
+  for (var i = 0; i < _days.length; i++){
+    var extension = _days[i].split(".").pop(),
+        _day = _days[i].replace("." + SOURCE_EXTENSION, "");
+    if (extension != SOURCE_EXTENSION) continue;
+
+    var _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8")),
+        day = _read.meta,
+        read = {};
+
+    day.id = language + "/" + quarterly + "/" + lesson + "/" + _day;
+    day.path = language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day;
+    day.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day;
+    day.read_path = language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read";
+    day.full_read_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read";
+
+    read.content = _read.html;
+    read.verses = [];
+
+    fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/index.json", JSON.stringify(day));
+    fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read/index.json", JSON.stringify(read));
+    //fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read/index.html", read.content);
+    days.push(day);
+  }
+
+  fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/index.json", JSON.stringify(days));
+  return days;
+};
+
+var create_lessons_api = function(language, quarterly){
+  /**
+   * Create Lessons API
+   * language - @type {string}
+   */
+
+  var WORKING_DIR = SOURCE_DIR + language + "/" + quarterly,
+      lessons = [],
+      _lessons = fs.readdirSync(WORKING_DIR);
+
+  for (var i = 0; i < _lessons.length; i++){
+    if (!fs.lstatSync(WORKING_DIR + "/" + _lessons[i]).isDirectory()) continue;
+    var lesson = {};
+    lesson.lesson = yamljs.load(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_INFO_FILE);
+    lesson.lesson.id = language + "/" + quarterly + "/" + _lessons[i];
+    lesson.lesson.path = language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i];
+    lesson.lesson.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i];
+    lesson.days = create_days_api(language, quarterly, _lessons[i]);
+
+    fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i] + "/index.json", JSON.stringify(lesson));
+    lessons.push(lesson.lesson);
+  }
+
+  fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/index.json", JSON.stringify(lessons));
+  return lessons;
+};
+
+var create_quarterlies_api = function(language){
+  /**
+   * Create Quarterlies API
+   * @type {string} language code. Ex: 'en'
+   */
+  var WORKING_DIR = SOURCE_DIR + language,
+      quarterlies = [],
+      _quarterlies = fs.readdirSync(WORKING_DIR).reverse();
+
+  for (var i = 0; i < _quarterlies.length; i++){
+    if (!fs.lstatSync(WORKING_DIR + "/" + _quarterlies[i]).isDirectory()) continue;
+    fs.copySync(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE);
+
+    var quarterly = {};
+    quarterly.quarterly = yamljs.load(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_INFO_FILE);
+    quarterly.quarterly.id = language + "/" + _quarterlies[i];
+    quarterly.quarterly.path = language + "/quarterlies/" + _quarterlies[i];
+    quarterly.quarterly.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + _quarterlies[i];
+    quarterly.quarterly.cover = API_HOST + API_VERSION + "/" + quarterly.quarterly.path + "/" + SOURCE_COVER_FILE;
+
+    quarterly.lessons = create_lessons_api(language, _quarterlies[i]);
+
+    fswf(DIST_DIR + language + "/quarterlies/" + _quarterlies[i] + "/index.json", JSON.stringify(quarterly));
+    quarterlies.push(quarterly.quarterly);
+  }
+
+  fswf(DIST_DIR + language + "/quarterlies/index.json", JSON.stringify(quarterlies));
+  return quarterlies;
+};
+
+var languages = create_languages_api();
 
 for (var i = 0; i < languages.length; i++){
-  if (!fs.lstatSync(SOURCE_PATH + languages[i]).isDirectory()) continue;
-  processLang(SOURCE_PATH + languages[i]);
-  api_info.languages.push(languages[i]);
-
+  create_quarterlies_api(languages[i]);
 }
-
-api_info.checksum = createChecksum(JSON.stringify(api_info));
-api_info.lastModified = Date.now();
-fswf(DIST_PATH+ "/" + DIST_INFO_FILE, JSON.stringify(api_info));
