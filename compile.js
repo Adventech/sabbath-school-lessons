@@ -116,6 +116,7 @@ var create_quarterlies_api = function(language){
 
     var quarterly = {};
     quarterly.quarterly = yamljs.load(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_INFO_FILE);
+    quarterly.quarterly.lang = language;
     quarterly.quarterly.id = _quarterlies[i];
     quarterly.quarterly.index = language + "/" + _quarterlies[i];
     quarterly.quarterly.path = language + "/quarterlies/" + _quarterlies[i];
