@@ -39,7 +39,6 @@ var API_HOST = "http://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.c
     FIREBASE_DATABASE_DAYS = "days",
     FIREBASE_DATABASE_READ = "reads";
 
-
 var lastModified = process.argv.slice(2);
 
 var changeCheck = function(path){
