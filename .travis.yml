@@ -4,6 +4,8 @@ node_js:
 before_install:
 - openssl aes-256-cbc -K $encrypted_4aaf4da0a921_key -iv $encrypted_4aaf4da0a921_iv -in deploy-creds.json.enc -out deploy-creds.json -d
 script: node compile.js $TRAVIS_COMMIT_RANGE
+before_deploy:
+- mkdir dist
 deploy:
   provider: s3
   access_key_id: AKIAIJQZXYPFA2TPPBJQ
