@@ -43,8 +43,8 @@ var API_HOST = "http://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.c
 var lastModified = process.argv.slice(2);
 
 var changeCheck = function(path){
-  if (!lastModified) return false;
-  return exec('git log --since="'+lastModified+'" '+path).toString().length>0;
+  if (!lastModified.length>0) return false;
+  return exec('git log --since="'+lastModified[0]+'" '+path).toString().length>0;
 };
 
 var create_languages_api = function(){
@@ -229,7 +229,7 @@ for (var i = 0; i < languages.length; i++){
 }
 
 // Not syncing with Firebase if not run with argument. Argument is commit range
-if (lastModified){
+if (lastModified.length>0){
   async.series(firebaseDeploymentTasks,
   function(err, results) {
     db.goOffline();
