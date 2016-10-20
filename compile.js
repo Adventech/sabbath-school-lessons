@@ -235,5 +235,9 @@ if (changeCheck(SOURCE_DIR)){
       function(err, results) {
         db.goOffline();
       });
+  } else {
+    db.goOffline();
   }
+} else {
+  db.goOffline();
 }
