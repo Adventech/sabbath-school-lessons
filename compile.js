@@ -41,6 +41,8 @@ var API_HOST = "http://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.c
 
 var lastModified = process.argv.slice(2);
 
+console.log(lastModified);
+
 var changeCheck = function(path){
   if (!lastModified.length>0) return false;
   return exec('git log --since="'+lastModified[0]+'" '+path).toString().length>0;
