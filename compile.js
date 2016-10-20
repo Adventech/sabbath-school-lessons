@@ -45,7 +45,7 @@ console.log(lastModified);
 
 var changeCheck = function(path){
   if (!lastModified.length>0) return false;
-  return exec('git log --since="'+lastModified[0]+'" '+path).toString().length>0;
+  return exec('git log '+lastModified[0]+' '+path).toString().length>0;
 };
 
 var create_languages_api = function(){
