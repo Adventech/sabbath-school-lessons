@@ -222,17 +222,18 @@ var create_quarterlies_api = function(language){
   return quarterlies;
 };
 
-var languages = create_languages_api();
+if (changeCheck(SOURCE_DIR)){
+  var languages = create_languages_api();
 
-for (var i = 0; i < languages.length; i++){
-  create_quarterlies_api(languages[i].code);
-}
+  for (var i = 0; i < languages.length; i++){
+    create_quarterlies_api(languages[i].code);
+  }
 
 // Not syncing with Firebase if not run with argument. Argument is commit range
-if (lastModified.length>0){
-  async.series(firebaseDeploymentTasks,
-  function(err, results) {
-    db.goOffline();
-  });
+  if (lastModified.length>0){
+    async.series(firebaseDeploymentTasks,
+      function(err, results) {
+        db.goOffline();
+      });
+  }
 }
-
