@@ -4,8 +4,11 @@
   "description": "",
   "main": "compile.js",
   "dependencies": {
+    "async": "^2.1.2",
     "crypto": "0.0.3",
+    "firebase": "^3.5.0",
     "fs-extra": "^0.30.0",
+    "git-utils": "^4.1.2",
     "meta-marked": "^0.4.1",
     "moment": "^2.15.1",
     "safe-write-file": "^1.1.0",
