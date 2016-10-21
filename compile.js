@@ -13,23 +13,13 @@ var exec = require('child_process').execSync,
 var firebase = require("firebase"),
     async = require("async");
 
-firebase.initializeApp({
-  databaseURL: "https://blistering-inferno-8720.firebaseio.com",
-  serviceAccount: "deploy-creds.json",
-  databaseAuthVariableOverride: {
-    uid: "deploy"
-  }
-});
-
-var db = firebase.database(),
-    firebaseDeploymentTasks = [];
-
-var API_HOST = "http://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.com/api/",
+var API_HOST = "https://sabbath-school.adventech.io/api/",
     API_VERSION = "v1",
     SOURCE_DIR = "src/",
     SOURCE_INFO_FILE = "info.yml",
     SOURCE_COVER_FILE = "cover.png",
     SOURCE_EXTENSION = "md",
+    QUARTERLY_COVER = "images/quarterly_cover.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
     FIREBASE_DATABASE_LANGUAGES = "languages",
     FIREBASE_DATABASE_QUARTERLIES = "quarterlies",
@@ -39,10 +29,30 @@ var API_HOST = "http://com.cryart.sabbathschool.s3-website-us-west-2.amazonaws.c
     FIREBASE_DATABASE_DAYS = "days",
     FIREBASE_DATABASE_READ = "reads";
 
-var lastModified = process.argv.slice(2);
+var lastModified = process.argv.slice(2),
+    db;
+
+if (lastModified.length>0){
+  firebase.initializeApp({
+    databaseURL: "https://blistering-inferno-8720.firebaseio.com",
+    serviceAccount: "deploy-creds.json",
+    databaseAuthVariableOverride: {
+      uid: "deploy"
+    }
+  });
+
+  db = firebase.database();
+} else {
+  db = {
+    goOffline: function(){}
+  }
+}
+
+
+  var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
-  if (!lastModified.length>0) return false;
+  if (!lastModified.length>0) return true;
   return exec('git log '+lastModified[0]+' '+path).toString().length>0;
 };
 
@@ -57,7 +67,7 @@ var create_languages_api = function(){
 
   for (var i = 0; i < _languages.length; i++){
     if (!fs.lstatSync(SOURCE_DIR + _languages[i]).isDirectory()) continue;
-    languages.push(yamljs.load(SOURCE_DIR + "/" + _languages[i] + "/" + SOURCE_INFO_FILE));
+    languages.push(yamljs.load(SOURCE_DIR + _languages[i] + "/" + SOURCE_INFO_FILE));
   }
 
   firebaseDeploymentTasks.push(function(cb){
@@ -143,6 +153,14 @@ var create_lessons_api = function(language, quarterly){
     lesson.lesson.index = language + "-" + quarterly + "-" + _lessons[i];
     lesson.lesson.path = language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i];
     lesson.lesson.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i];
+    lesson.lesson.cover = "";
+
+    try {
+      fs.lstatSync(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
+      fs.copySync(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
+      lesson.lesson.cover = API_HOST + API_VERSION + "/" + lesson.lesson.path + "/" + SOURCE_COVER_FILE;
+    } catch (err) {}
+
     lesson.days = create_days_api(language, quarterly, _lessons[i]);
 
     lessons.push(lesson.lesson);
@@ -179,11 +197,15 @@ var create_quarterlies_api = function(language){
       quarterlies = [],
       _quarterlies = fs.readdirSync(WORKING_DIR).reverse();
 
-
-
   for (var i = 0; i < _quarterlies.length; i++){
     if (!fs.lstatSync(WORKING_DIR + "/" + _quarterlies[i]).isDirectory()) continue;
-    fs.copySync(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE);
+
+    try {
+      fs.lstatSync(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE);
+      fs.copySync(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE);
+    } catch (err){
+      fs.copySync(QUARTERLY_COVER, DIST_DIR + language + "/quarterlies/" + _quarterlies[i] + "/" + SOURCE_COVER_FILE);
+    }
 
     var quarterly = {};
     quarterly.quarterly = yamljs.load(WORKING_DIR + "/" + _quarterlies[i] + "/" + SOURCE_INFO_FILE);
