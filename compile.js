@@ -105,6 +105,9 @@ var create_days_api = function(language, quarterly, lesson){
     day.read_path = language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read";
     day.full_read_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read";
 
+    read.id = day.id;
+    read.index = day.index;
+    read.title = day.title;
     read.content = _read.html;
     read.verses = [];
 
