@@ -62,13 +62,13 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
     if (quarterlyTeacherComments){
       fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/teacher-comments.md",
-        "---\ntitle:  Teacher Comments\n---\n\nWrite teacher comments for this lesson using Markdown format here"
+        "---\ntitle:  Teacher Comments\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\nWrite teacher comments for this lesson using Markdown format here"
       );
     }
 
     if (quarterlyInsideStory){
       fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/inside-story.md",
-        "---\ntitle:  Inside Story\n---\n\nWrite inside story for this lesson using Markdown format here"
+        "---\ntitle:  Inside Story\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\nWrite inside story for this lesson using Markdown format here"
       );
     }
     if (lessonCover){
