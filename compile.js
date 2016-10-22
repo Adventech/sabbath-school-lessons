@@ -52,6 +52,7 @@ if (lastModified.length>0){
   var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
+  return true;
   if (!lastModified.length>0) return true;
   return exec('git log '+lastModified[0]+' '+path).toString().length>0;
 };
@@ -106,6 +107,7 @@ var create_days_api = function(language, quarterly, lesson){
     day.full_read_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read";
 
     read.id = day.id;
+    read.date = day.date;
     read.index = day.index;
     read.title = day.title;
     read.content = _read.html;
