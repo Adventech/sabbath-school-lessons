@@ -3,7 +3,7 @@ title:  Inside Story
 date:   07/10/2016
 ---
 
-## The Conversion of a Convict. Part 2
+### The Conversion of a Convict. Part 2
 
 Alexandru went to Norway, where he began drug dealing. He was nearly killed twice and thought it was Satan’s power that made him invincible.
 

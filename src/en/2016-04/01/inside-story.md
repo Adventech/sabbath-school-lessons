@@ -3,9 +3,8 @@ title:  Inside Story
 date:   30/09/2016
 ---
 
-## The Conversion of a Convict
+### The Conversion of a Convict. Part 1
 
-### Part 1
 Alexandru Marin was known among law enforcement officers in much of Romania. His name and picture appeared in police stations throughout the country. He spent more than a third of his life in prison.
 
 Alexandru didn’t fit the typical image of a hardened criminal. Well- educated, multilingual, a promising artist and designer, Alexandru’s future was full of promise. His older brother was a national champion athlete before he committed suicide at age 18. Marin was only 15 at the time. His grieving parents showered all their love and hopes for the future on their younger son. But he made friends with the wrong young people.
