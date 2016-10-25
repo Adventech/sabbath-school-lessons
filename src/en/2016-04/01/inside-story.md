@@ -1,7 +1,9 @@
 ---
-title:  Inside Story. The Conversion of a Convict
+title:  Inside Story
 date:   30/09/2016
 ---
+
+## The Conversion of a Convict
 
 ### Part 1
 Alexandru Marin was known among law enforcement officers in much of Romania. His name and picture appeared in police stations throughout the country. He spent more than a third of his life in prison.
