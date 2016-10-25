@@ -49,7 +49,7 @@ if (lastModified.length>0){
 }
 
 
-  var firebaseDeploymentTasks = [];
+var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
   return true;
