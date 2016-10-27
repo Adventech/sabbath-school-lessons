@@ -35,7 +35,7 @@ function pad(n) {
 function createLanguageFolder(quarterlyLanguage){
   console.log("Necessary directory not found. Creating...");
   fs.mkdirSync(SRC_PATH + quarterlyLanguage);
-  fswf(SRC_PATH+ "/" + quarterlyLanguage + "/info.yml", "---\n  language: \"Language\"\n  code: \""+ quarterlyLanguage +"\"");
+  fswf(SRC_PATH+ "/" + quarterlyLanguage + "/info.yml", "---\n  name: \"Language Name\"\n  code: \""+ quarterlyLanguage +"\"");
   console.log("Necessary " + quarterlyLanguage + " directory created");
 }
 
