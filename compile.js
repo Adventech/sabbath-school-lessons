@@ -21,13 +21,13 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     SOURCE_EXTENSION = "md",
     QUARTERLY_COVER = "images/quarterly_cover.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
-    FIREBASE_DATABASE_LANGUAGES = "languages",
-    FIREBASE_DATABASE_QUARTERLIES = "quarterlies",
-    FIREBASE_DATABASE_QUARTERLY_INFO = "quarterly-info",
-    FIREBASE_DATABASE_LESSONS = "lessons",
-    FIREBASE_DATABASE_LESSON_INFO = "lesson-info",
-    FIREBASE_DATABASE_DAYS = "days",
-    FIREBASE_DATABASE_READ = "reads";
+    FIREBASE_DATABASE_LANGUAGES = "/api/" + API_VERSION + "/languages",
+    FIREBASE_DATABASE_QUARTERLIES = "/api/" + API_VERSION + "/quarterlies",
+    FIREBASE_DATABASE_QUARTERLY_INFO = "/api/" + API_VERSION + "/quarterly-info",
+    FIREBASE_DATABASE_LESSONS = "/api/" + API_VERSION + "/lessons",
+    FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
+    FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
+    FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
 var lastModified = process.argv.slice(2),
     db;
