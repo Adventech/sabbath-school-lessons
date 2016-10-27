@@ -109,10 +109,10 @@ var create_days_api = function(language, quarterly, lesson){
     read.date = day.date;
     read.index = day.index;
     read.title = day.title;
-    read.verses = day.verses;
+    read.bible = day.bible;
     read.content = _read.html;
 
-    delete day.verses;
+    delete day.bible;
 
     days.push(day);
 
