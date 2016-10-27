@@ -52,6 +52,8 @@ if (lastModified.length>0){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
+  /// REMOVE BEFORE PUSH
+  return true;
   if (!lastModified.length>0) return true;
   return exec('git log '+lastModified[0]+' '+path).toString().length>0;
 };
@@ -110,6 +112,14 @@ var create_days_api = function(language, quarterly, lesson){
     read.index = day.index;
     read.title = day.title;
     read.bible = day.bible;
+
+    if (!read.bible){
+      read.bible = {
+        "name": "",
+        "verses": {}
+      }
+    }
+
     read.content = _read.html;
 
     delete day.bible;
