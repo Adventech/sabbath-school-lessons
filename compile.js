@@ -52,7 +52,6 @@ if (lastModified.length>0){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
-  return true;
   if (!lastModified.length>0) return true;
   return exec('git log '+lastModified[0]+' '+path).toString().length>0;
 };
