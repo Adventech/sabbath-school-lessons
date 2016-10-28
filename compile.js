@@ -112,10 +112,10 @@ var create_days_api = function(language, quarterly, lesson){
     read.bible = day.bible;
 
     if (!read.bible){
-      read.bible = {
+      read.bible = [{
         "name": "",
         "verses": {}
-      }
+      }]
     }
 
     read.content = _read.html;
