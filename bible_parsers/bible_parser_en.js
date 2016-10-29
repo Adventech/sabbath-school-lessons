@@ -37,11 +37,9 @@ function scrape(verseKey, verseFind, version, cb){
           redis_client.quit();
 
           var result = {};
-          result[verseKey] = reply;
+          result[verseKey] = output;
 
-          //setTimeout(function(){
           cb(null, result);
-          //}, 300);
         }
       );
     } else {
