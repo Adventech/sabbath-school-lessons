@@ -5,9 +5,11 @@
  */
 
 var exec = require('child_process').execSync,
-    metaMarked =    require("meta-marked"),
+    ent = require('ent'),
+    marked =        require("marked"),
     fs =            require("fs-extra"),
     yamljs =        require("yamljs"),
+    yaml =          require("js-yaml"),
     fswf =          require("safe-write-file");
 
 var firebase = require("firebase"),
@@ -48,6 +50,31 @@ if (lastModified.length>0){
   }
 }
 
+function splitInput(str) {
+  if (str.slice(0, 3) !== '---') return;
+
+  var matcher = /\n(\.{3}|-{3})/g;
+  var metaEnd = matcher.exec(str);
+
+  return metaEnd && [str.slice(0, metaEnd.index), str.slice(matcher.lastIndex)];
+}
+
+var metaMarked = function(src, opt, callback) {
+  if (Object.prototype.toString.call(src) !== '[object String]')
+    throw new TypeError('First parameter must be a string.');
+
+  var mySplitInput = splitInput(src);
+
+  return mySplitInput ?  {
+    meta : yaml.safeLoad(mySplitInput[0]),
+    html : marked(mySplitInput[1], opt, callback),
+    markdown: mySplitInput[1]
+  } : {
+    meta : null,
+    html : marked(src, opt, callback),
+    markdown: src
+  };
+};
 
 var firebaseDeploymentTasks = [];
 
@@ -89,12 +116,21 @@ var create_days_api = function(language, quarterly, lesson){
       days = [],
       _days = fs.readdirSync(WORKING_DIR);
 
+  // Custom inline level renderer.
+  // For the purpose of decoding HTML entities inside code block
+  // We use codeblock for different purpose :P
+
+  var renderer = new marked.Renderer();
+  renderer.codespan = function(text) {
+    return '<code>' + ent.decode(text) + '</code>';
+  };
+
   for (var i = 0; i < _days.length; i++){
     var extension = _days[i].split(".").pop(),
         _day = _days[i].replace("." + SOURCE_EXTENSION, "");
     if (extension != SOURCE_EXTENSION) continue;
 
-    var _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8")),
+    var _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8"), {renderer: renderer}),
         day = _read.meta,
         read = {};
 

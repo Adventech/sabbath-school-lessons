@@ -6,9 +6,11 @@
   "dependencies": {
     "async": "^2.1.2",
     "crypto": "0.0.3",
+    "ent": "^2.2.0",
     "firebase": "^3.5.0",
     "fs-extra": "^0.30.0",
-    "meta-marked": "^0.4.1",
+    "js-yaml": "^3.6.1",
+    "marked": "^0.3.6",
     "moment": "^2.15.1",
     "safe-write-file": "^1.1.0",
     "yamljs": "^0.2.7"
