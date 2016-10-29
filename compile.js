@@ -104,11 +104,12 @@ var create_days_api = function(language, quarterly, lesson){
         _day = _days[i].replace("." + SOURCE_EXTENSION, "");
     if (extension != SOURCE_EXTENSION) continue;
 
-    var _read, day, read;
+    var _read, day, read, found_bible_edition = false;
 
     try {
       fs.lstatSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE);
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE, "utf-8"), {renderer: renderer});
+      found_bible_edition = true;
     } catch (err) {
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8"), {renderer: renderer});
     }
@@ -143,7 +144,11 @@ var create_days_api = function(language, quarterly, lesson){
 
     days.push(day);
 
-    if (!changeCheck(WORKING_DIR + "/" + _days[i])) continue;
+    if (found_bible_edition) {
+      if (!changeCheck(WORKING_DIR + "/" + _days[i]) && !changeCheck(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE)) continue;
+    } else {
+      if (!changeCheck(WORKING_DIR + "/" + _days[i])) continue;
+    }
 
     fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/index.json", JSON.stringify(day));
     fswf(DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + lesson + "/days/" + _day + "/read/index.json", JSON.stringify(read));
