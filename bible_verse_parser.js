@@ -15,7 +15,7 @@ var fs            = require("fs"),
     metaMarked    = require("meta-marked"),
     fswf          = require("safe-write-file"),
     yamljs        = require("yamljs"),
-    parser        = require("./bible_parsers/"+argv.l+"/bible_parser_en");
+    parser        = require("./bible_parsers/bible_parser_"+argv.l);
 
 
 var SOURCE_EXTENSION = "md";
