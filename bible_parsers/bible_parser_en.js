@@ -84,7 +84,7 @@ function parse_en(read, callback){
             }
           }
 
-          read.replace(new RegExp(verse, "ig"), f_verse);
+          read = read.replace(new RegExp(verse, "ig"), f_verse);
           verse = customTrim(f_verse, " ;,()<>.");
         }
       }
