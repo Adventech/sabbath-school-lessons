@@ -11,7 +11,6 @@ var customTrim = function(s, charlist) {
 
 function scrape(verseKey, verseFind, version, cb){
   var redis_client = redis.createClient();
-  //var url = "http://mobile.legacy.biblegateway.com/passage/?search=" + encodeURIComponent(verseFind) + "&version=LUTH1545";
   var url = "https://www.academic-bible.com/en/online-bibles/luther-bible-1984/read-the-bible-text/bibel/text/lesen/?tx_buhbibelmodul_bibletext[scripture]=" + encodeURIComponent(verseFind);
 
   redis_client.get(url, function(err, reply) {
@@ -28,16 +27,6 @@ function scrape(verseKey, verseFind, version, cb){
 
           var output = "";
           var $ = cheerio.load(body, {decodeEntities: false});
-
-          //$(".passage-wrap").find(".heading > h3, .passage").each(function(i, e){
-          //  $(e).find(".footnote, .footnotes").remove();
-          //  $(e).removeAttr("class");
-          //  $(e).removeAttr("id");
-          //  $(e).find("p, span, div, sup").removeAttr("class");
-          //  $(e).find("p, span, div, sup").removeAttr("id");
-          //  output += $("<div></div>").html($(e).clone()).html();
-          //});
-
 
           output += "<h3>" + $(".location .name").text() + "</h3>";
           output += "<h3>" + $(".location .scripture").text() + "</h3>";
@@ -103,6 +92,8 @@ function parse_de(read, callback){
         verse = verse.slice(0,1) + verse.slice(2,verse.length);
       }
 
+      read = read.replace(new RegExp(old_verse, "ig"), verse);
+
       var german_verse_replacement = [
         {"s": "1 Mo ", "r": "1 Mose "},
         {"s": "2 Mo ", "r": "2 Mose "},
@@ -166,7 +157,7 @@ function parse_de(read, callback){
       return b.length - a.length;
     });
 
-    for (var i = 0; i < verses_parsed.length; i++){
+    for (var i = 0; i < verses_parsed.length; i++) {
 
       var final_verse = verses_parsed[i].replace(/\.|\#|\$|\/|\[|\]/g, '').replace(/–/g, "-"),
           find_verse = verses_parsed[i].replace(/–/g, "-");
