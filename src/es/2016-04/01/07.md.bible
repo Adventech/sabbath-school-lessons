@@ -5,8 +5,8 @@ bible:
     -
         name: RVR1960
         verses:
-            '2 Pedro 1:12': "<h3>2 Pedro 1:12</h3><div class=\"passage version-RVR1960 result-text-style-normal text-html \">\n<p><span id=\"es-RVR1960-30493\" class=\"text 2Pet-1-12\"><sup class=\"versenum\">12&#xA0;</sup>Por esto, yo no dejar&#xE9; de recordaros siempre estas cosas, aunque vosotros las sep&#xE1;is, y est&#xE9;is confirmados en la verdad presente. </span></p></div>"
-            'Job 42:11': "<h3>Job 42:11</h3><div class=\"passage version-RVR1960 result-text-style-normal text-html \">\n<p><span id=\"es-RVR1960-13934\" class=\"text Job-42-11\"><sup class=\"versenum\">11&#xA0;</sup>Y vinieron a &#xE9;l todos sus hermanos y todas sus hermanas, y todos los que antes le hab&#xED;an conocido, y comieron con &#xE9;l pan en su casa, y se condolieron de &#xE9;l, y le consolaron de todo aquel mal que Jehov&#xE1; hab&#xED;a tra&#xED;do sobre &#xE9;l; y cada uno de ellos le dio una pieza de dinero y un anillo de oro. </span></p></div>"
+            '2 Pedro 1:12': "<h3>2 Pedro 1:12</h3><div>\n<p><span><sup>12&#xA0;</sup>Por esto, yo no dejar&#xE9; de recordaros siempre estas cosas, aunque vosotros las sep&#xE1;is, y est&#xE9;is confirmados en la verdad presente. </span></p></div>"
+            'Job 42:11 A': ""
 
 ---
 
@@ -16,5 +16,5 @@ A pesar de las terribles calamidades que cayeron sobre él, Job se mantuvo  el y
 
 ### PREGUNTAS PARA DIALOGAR
 - ```¿Qué signi ca “revelación progresiva”? ¿Qué otros ejemplos hay del modo en que actúa esta idea? Por ejemplo, uno comienza aprendiendo los números, a contar. Después, aprendemos cómo sumar, restar, multiplicar y dividir esos nú- meros. Luego, vamos a cosas más profundas como el álgebra, la geometría y el cálculo, y todo opera con aquellos números básicos. ¿De qué manera esta ana- logía nos ayuda a comprender la idea de la revelación progresiva en teología?```
-- ```Lee <a class="verse" verse="Job 42:11">Job 42:11</a>. A lo largo de los siglos, los comentadores se preguntaron dónde estuvieron los parientes y los amigos de Job durante la época de su mayor necesidad. Ellos vinieron después de que su fortuna hubo cambiado, cuando las cosas le iban mucho mejor. ¿Qué tiene de malo este cuadro?```
+- ```Lee <a class="verse" verse="Job 42:11 A">Job 42:11. A</a> lo largo de los siglos, los comentadores se preguntaron dónde estuvieron los parientes y los amigos de Job durante la época de su mayor necesidad. Ellos vinieron después de que su fortuna hubo cambiado, cuando las cosas le iban mucho mejor. ¿Qué tiene de malo este cuadro?```
 - ```¿Cuántos  nales tristes conoces ahora, y qué esperanza te da la Cruz de que estos no son el  nal de esas historias?```

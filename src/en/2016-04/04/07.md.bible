@@ -5,11 +5,11 @@ bible:
     -
         name: NKJV
         verses:
-            'Eph 5:2': "<h3>Ephesians 5:2</h3><div class=\"passage version-NKJV result-text-style-normal text-html \">\n<p><span id=\"en-NKJV-29307\" class=\"text Eph-5-2\"><sup class=\"versenum\">2&#xA0;</sup>And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma.</span></p></div>"
+            'Eph 5:2': "<h3>Ephesians 5:2</h3><div>\n<p><span><sup class=\"versenum\">2&#xA0;</sup>And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma.</span></p></div>"
     -
         name: KJV
         verses:
-            'Eph 5:2': "<h3>Ephesians 5:2</h3><div class=\"passage version-KJV result-text-style-normal text-html \">\n<p><span id=\"en-KJV-29307\" class=\"text Eph-5-2\"><sup class=\"versenum\">2&#xA0;</sup>And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.</span></p></div>"
+            'Eph 5:2': "<h3>Ephesians 5:2</h3><div>\n<p><span><sup class=\"versenum\">2&#xA0;</sup>And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.</span></p></div>"
 
 ---
 

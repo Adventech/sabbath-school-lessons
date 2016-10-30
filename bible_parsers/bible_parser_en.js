@@ -30,6 +30,10 @@ function scrape(verseKey, verseFind, version, cb){
 
           $(".passage-wrap").find(".heading > h3, .passage").each(function(i, e){
             $(e).find(".footnote, .footnotes").remove();
+            $(e).removeAttr("class");
+            $(e).removeAttr("id");
+            $(e).find("p, span, div, sup").removeAttr("class");
+            $(e).find("p, span, div, sup").removeAttr("id");
             output += $("<div></div>").html($(e).clone()).html();
           });
 
