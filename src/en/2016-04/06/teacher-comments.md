@@ -3,9 +3,7 @@ title:  Teachers Comments
 date:   04/11/2016
 ---
 
-### Beautiful in God’s Time: Part 1
-
-#### _The Lesson in Brief_
+### _The Lesson in Brief_
 
 **Key Texts**: Job 4:1–21, Matthew 7:1
 
