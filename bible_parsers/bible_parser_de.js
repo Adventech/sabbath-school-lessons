@@ -48,6 +48,9 @@ function scrape(verseKey, verseFind, version, cb){
             $(e).find("span").removeAttr("class");
             $(e).find("span").removeAttr("data-location");
             $(e).find("span").removeAttr("id");
+            $(e).find("blockquote").each(function(i, e){
+              $(e).replaceWith($(e).text());
+            });
             main += $(e).html();
           });
 
@@ -55,6 +58,9 @@ function scrape(verseKey, verseFind, version, cb){
             $(".markdown").find("span").removeAttr("class");
             $(".markdown").find("span").removeAttr("data-location");
             $(".markdown").find("span").removeAttr("id");
+            $(".markdown").find("blockquote").each(function(i, e){
+              $(e).replaceWith($(e).text());
+            });
             main += $(".markdown").html();
           }
 
