@@ -6,11 +6,11 @@ bible:
         name: UKR.
         verses:
             '1 до коринтян 3:19': "<h3>1 до коринтян 3:19</h3><div class=\"passage version-UKR result-text-style-normal text-html \">\n<p class=\"verse\"><span id=\"uk-UKR-28430\" class=\"text 1Cor-3-19\"><sup class=\"versenum\">19\_</sup>Цьогосвітня бо мудрість у Бога глупота, бо написано: Він ловить премудрих у хитрощах їхніх!</span></p></div>"
-            'Псалмимиал 37:10': ""
-            'Псалмимиал 34:19': ""
-            'Псалмимиал 34:6': ""
             'До євреїв 12:5': "<h3>До євреїв 12:5</h3><div class=\"passage version-UKR result-text-style-normal text-html \">\n<p class=\"verse\"><span id=\"uk-UKR-30218\" class=\"text Heb-12-5\"><sup class=\"versenum\">5\_</sup>і забули нагад, що говорить до вас, як синів: Мій сину, не нехтуй Господньої кари, і не знемагай, коли Він докоряє тобі.</span></p></div>"
+            'Псалми 37:10': "<h3>Псалми 37:10</h3><div class=\"passage version-UKR result-text-style-normal text-html \">\n<p class=\"verse\"><span id=\"uk-UKR-14461\" class=\"text Ps-37-10\"><sup class=\"versenum\">10\_</sup>А ще трохи й не буде безбожного, і будеш дивитись на місце його і не буде його,</span></p></div>"
             'Від Луки 1:52': "<h3>Від Луки 1:52</h3><div class=\"passage version-UKR result-text-style-normal text-html \">\n<p class=\"verse\"><span id=\"uk-UKR-24946\" class=\"text Luke-1-52\"><sup class=\"versenum\">52\_</sup>Він могутніх скидає з престолів, підіймає покірливих,</span></p></div>"
+            'Псалми 34:19': "<h3>Псалми 34:19</h3><div class=\"passage version-UKR result-text-style-normal text-html \">\n<p class=\"verse\"><span id=\"uk-UKR-14408\" class=\"text Ps-34-19\"><sup class=\"versenum\">19\_</sup>(34-20) Багато лихого для праведного, та його визволяє Господь з них усіх:</span></p></div>"
+            'Псалми 34:6': "<h3>Псалми 34:6</h3><div class=\"passage version-UKR result-text-style-normal text-html \">\n<p class=\"verse\"><span id=\"uk-UKR-14395\" class=\"text Ps-34-6\"><sup class=\"versenum\">6\_</sup>(34-7) Цей убогий взивав, і Господь його вислухав, і від усіх його бід його визволив.</span></p></div>"
 
 ---
 
@@ -22,7 +22,7 @@ bible:
 
 Як наведені тексти відображають думки, виражені в 5-му розділі книги Йова?
 
-```<a class="verse" verse="Псалмимиал 37:10">Псалмимиал. 37:10</a>```
+```<a class="verse" verse="Псалми 37:10">Псалми. 37:10</a>```
  	
 ```Прип. 26:2``` 	
 
@@ -30,10 +30,10 @@ bible:
 
 ```<a class="verse" verse="1 до коринтян 3:19">1 до коринтян. 3:19</a>``` 	
 
-```<a class="verse" verse="Псалмимиал 34:6">Псалмимиал. 34:6</a>``` 	
+```<a class="verse" verse="Псалми 34:6">Псалми. 34:6</a>``` 	
 
 ```<a class="verse" verse="До євреїв 12:5">До євреїв. 12:5</a>``` 	
 
 ```Осії 6:1``` 	
 
-```<a class="verse" verse="Псалмимиал 34:19">Псалмимиал. 34:19</a>``` 	
+```<a class="verse" verse="Псалми 34:19">Псалми. 34:19</a>``` 	
