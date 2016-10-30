@@ -106,8 +106,6 @@ function parse_es(read, callback){
         verse = new_verse;
       }
 
-      verse = verse.replace(" y ", ", ");
-
       for (var sr = 0; sr < spanish_verse_replacement.length; sr++){
         if (verse.indexOf(spanish_verse_replacement[sr]["s"]) == 0){
           var new_verse = verse.replace(spanish_verse_replacement[sr]["s"], spanish_verse_replacement[sr]["r"]);
