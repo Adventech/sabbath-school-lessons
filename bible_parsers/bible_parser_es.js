@@ -105,7 +105,7 @@ function parse_es(read, callback){
       for (var sr = 0; sr < spanish_verse_replacement.length; sr++){
         if (verse.indexOf(spanish_verse_replacement[sr]["s"]) == 0){
           var new_verse = verse.replace(spanish_verse_replacement[sr]["s"], spanish_verse_replacement[sr]["r"]);
-          read.replace(new RegExp(verse, "ig"), new_verse);
+          read = read.replace(new RegExp(verse, "ig"), new_verse);
           verse = new_verse;
         }
       }
