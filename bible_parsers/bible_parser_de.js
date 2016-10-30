@@ -11,7 +11,8 @@ var customTrim = function(s, charlist) {
 
 function scrape(verseKey, verseFind, version, cb){
   var redis_client = redis.createClient();
-  var url = "http://mobile.legacy.biblegateway.com/passage/?search=" + encodeURIComponent(verseFind) + "&version=LUTH1545";
+  //var url = "http://mobile.legacy.biblegateway.com/passage/?search=" + encodeURIComponent(verseFind) + "&version=LUTH1545";
+  var url = "https://www.academic-bible.com/en/online-bibles/luther-bible-1984/read-the-bible-text/bibel/text/lesen/?tx_buhbibelmodul_bibletext[scripture]=" + encodeURIComponent(verseFind);
 
   redis_client.get(url, function(err, reply) {
     if (!reply){
@@ -28,14 +29,36 @@ function scrape(verseKey, verseFind, version, cb){
           var output = "";
           var $ = cheerio.load(body, {decodeEntities: false});
 
-          $(".passage-wrap").find(".heading > h3, .passage").each(function(i, e){
-            $(e).find(".footnote, .footnotes").remove();
-            $(e).removeAttr("class");
-            $(e).removeAttr("id");
-            $(e).find("p, span, div, sup").removeAttr("class");
-            $(e).find("p, span, div, sup").removeAttr("id");
-            output += $("<div></div>").html($(e).clone()).html();
+          //$(".passage-wrap").find(".heading > h3, .passage").each(function(i, e){
+          //  $(e).find(".footnote, .footnotes").remove();
+          //  $(e).removeAttr("class");
+          //  $(e).removeAttr("id");
+          //  $(e).find("p, span, div, sup").removeAttr("class");
+          //  $(e).find("p, span, div, sup").removeAttr("id");
+          //  output += $("<div></div>").html($(e).clone()).html();
+          //});
+
+
+          output += "<h3>" + $(".location .name").text() + "</h3>";
+          output += "<h3>" + $(".location .scripture").text() + "</h3>";
+
+          var main = "";
+
+          $(".highlight").each(function(i, e){
+            $(e).find("span").removeAttr("class");
+            $(e).find("span").removeAttr("data-location");
+            $(e).find("span").removeAttr("id");
+            main += $(e).html();
           });
+
+          if (!main.length){
+            $(".markdown").find("span").removeAttr("class");
+            $(".markdown").find("span").removeAttr("data-location");
+            $(".markdown").find("span").removeAttr("id");
+            main += $(".markdown").html();
+          }
+
+          output += main;
 
           redis_client.set(url, output);
           redis_client.quit();
@@ -143,7 +166,7 @@ function parse_de(read, callback){
           find_verse = verses_parsed[i].replace(/–/g, "-");
       read = read.replace(new RegExp('(?!<a[^>]*?>)('+verses_parsed[i]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+final_verse+'">'+find_verse+'</a>');
       (function(verseKey, verseFind){scrape_tasks_ukr.push(function(cb){
-        scrape(verseKey, verseFind, "UKR", cb);
+        scrape(verseKey, verseFind, "LUTH1984", cb);
       })})(final_verse, find_verse);
     }
 
@@ -155,7 +178,7 @@ function parse_de(read, callback){
             for (var attrname in results[i]) { verses[attrname] = results[i][attrname]; }
           }
 
-          callback(null, {"name": "LUTH1545", "verses": verses, "read": read});
+          callback(null, {"name": "LUTH1984", "verses": verses, "read": read});
         });
       }
     ], function(err, result){
