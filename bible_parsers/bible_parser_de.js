@@ -11,7 +11,7 @@ var customTrim = function(s, charlist) {
 
 function scrape(verseKey, verseFind, version, cb){
   var redis_client = redis.createClient();
-  var url = "https://www.academic-bible.com/en/online-bibles/luther-bible-1984/read-the-bible-text/bibel/text/lesen/?tx_buhbibelmodul_bibletext[scripture]=" + encodeURIComponent(verseFind);
+  var url = "https://www.academic-bible.com/en/online-bibles/luther-bible-1984/read-the-bible-text/bibel/text/lesen/?tx_buhbibelmodul_bibletext[scripture]=" + encodeURIComponent(verseFind); 
 
   redis_client.get(url, function(err, reply) {
     if (!reply){
