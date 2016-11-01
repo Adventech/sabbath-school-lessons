@@ -45,7 +45,7 @@ var argv = require("optimist")
 var lastModified = argv.l,
     branch = argv.b;
 
-if (lastModified.length>0){
+if (lastModified){
 
   if (branch.toLowerCase() == "master"){
     firebase.initializeApp({
@@ -76,8 +76,7 @@ if (lastModified.length>0){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
-  if (!lastModified.length>0) return true;
-  return exec('git log '+lastModified[0]+' '+path).toString().length>0;
+  return exec('git log '+lastModified+' '+path).toString().length>0;
 };
 
 var create_languages_api = function(){
@@ -312,7 +311,7 @@ if (changeCheck(SOURCE_DIR)){
   }
 
 // Not syncing with Firebase if not run with argument. Argument is commit range
-  if (lastModified.length>0){
+  if (lastModified){
     async.series(firebaseDeploymentTasks,
       function(err, results) {
         db.goOffline();
