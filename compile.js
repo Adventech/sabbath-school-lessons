@@ -31,17 +31,40 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
-var lastModified = process.argv.slice(2),
-    db;
+var argv = require("optimist")
+  .usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
+  "Usage: $0 -l [string] -b [string]")
+  .alias({"l": "lastModified", "b": "branch"})
+  .describe({
+    "l": "lastModified",
+    "b": "branch"
+  })
+  .demand(["l", "b"])
+  .argv;
+
+var lastModified = argv.l,
+    branch = argv.b;
 
 if (lastModified.length>0){
-  firebase.initializeApp({
-    databaseURL: "https://blistering-inferno-8720.firebaseio.com",
-    serviceAccount: "deploy-creds.json",
-    databaseAuthVariableOverride: {
-      uid: "deploy"
-    }
-  });
+
+  if (branch.toLowerCase() == "master"){
+    firebase.initializeApp({
+      databaseURL: "https://blistering-inferno-8720.firebaseio.com",
+      serviceAccount: "deploy-creds.json",
+      databaseAuthVariableOverride: {
+        uid: "deploy"
+      }
+    });
+  } else {
+    firebase.initializeApp({
+      databaseURL: "https://sabbath-school-stage.firebaseio.com",
+      serviceAccount: "deploy-creds-stage.json",
+      databaseAuthVariableOverride: {
+        uid: "deploy"
+      }
+    });
+  }
+
 
   db = firebase.database();
 } else {

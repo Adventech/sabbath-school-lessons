@@ -3,7 +3,8 @@ node_js:
 - '4'
 before_install:
 - openssl aes-256-cbc -K $encrypted_4aaf4da0a921_key -iv $encrypted_4aaf4da0a921_iv -in deploy-creds.json.enc -out deploy-creds.json -d
-script: node compile.js $TRAVIS_COMMIT_RANGE
+- openssl aes-256-cbc -K $encrypted_4aaf4da0a921_key -iv $encrypted_4aaf4da0a921_iv -in deploy-creds-stage.json.enc -out deploy-creds-stage.json -d
+script: node compile.js $TRAVIS_COMMIT_RANGE $TRAVIS_BRANCH
 before_script:
 - mkdir dist
 deploy:
