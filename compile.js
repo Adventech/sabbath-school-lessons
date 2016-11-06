@@ -45,30 +45,32 @@ var argv = require("optimist")
 var lastModified = argv.l,
     branch = argv.b;
 
-if (lastModified){
-
-  if (branch.toLowerCase() == "master"){
-    firebase.initializeApp({
-      databaseURL: "https://blistering-inferno-8720.firebaseio.com",
-      serviceAccount: "deploy-creds.json",
-      databaseAuthVariableOverride: {
-        uid: "deploy"
-      }
-    });
-  } else {
-    firebase.initializeApp({
-      databaseURL: "https://sabbath-school-stage.firebaseio.com",
-      serviceAccount: "deploy-creds-stage.json",
-      databaseAuthVariableOverride: {
-        uid: "deploy"
-      }
-    });
-  }
-
-
+if (branch.toLowerCase() == "master"){
+  firebase.initializeApp({
+    databaseURL: "https://blistering-inferno-8720.firebaseio.com",
+    serviceAccount: "deploy-creds.json",
+    databaseAuthVariableOverride: {
+      uid: "deploy"
+    }
+  });
+  db = firebase.database();
+} else if (branch.toLowerCase() == "stage") {
+  firebase.initializeApp({
+    databaseURL: "https://sabbath-school-stage.firebaseio.com",
+    serviceAccount: "deploy-creds-stage.json",
+    databaseAuthVariableOverride: {
+      uid: "deploy"
+    }
+  });
   db = firebase.database();
 } else {
   db = {
+    ref: function(){
+      return {
+        set: function(){}
+      }
+    },
+
     goOffline: function(){}
   }
 }
@@ -255,7 +257,13 @@ var create_quarterlies_api = function(language){
    */
   var WORKING_DIR = SOURCE_DIR + language,
       quarterlies = [],
-      _quarterlies = fs.readdirSync(WORKING_DIR).reverse();
+      _quarterlies = fs.readdirSync(WORKING_DIR).sort(function(a, b){
+        if (a.length === 7) a = a + "_";
+        if (a < b) return -1;
+        if (a > b) return 1;
+
+        return 0;
+      }).reverse();
 
   for (var i = 0; i < _quarterlies.length; i++){
     if (!fs.lstatSync(WORKING_DIR + "/" + _quarterlies[i]).isDirectory()) continue;
