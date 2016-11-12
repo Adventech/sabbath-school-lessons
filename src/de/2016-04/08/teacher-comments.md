@@ -1,6 +1,6 @@
 ---
 title:  Lehrerteil
-date:   11/11/2016
+date:   18/11/2016
 ---
 
 ####  Die Lektion in Kürze
