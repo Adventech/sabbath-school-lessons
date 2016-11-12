@@ -4,3 +4,5 @@
   human_date: "Dördüncü çeyrek 2016"
   start_date: "24/09/2016"
   end_date: "30/12/2016"
+  color_primary: "#962a54"
+  color_primary_dark: "#390e16"
