@@ -110,7 +110,8 @@ function parse_de(read, callback){
         {"s": "Jes ", "r": "Jesaja "},
         {"s": "Offb ", "r": "Offenbarung "},
         {"s": "Spr ", "r": "Sprueche "},
-        {"s": "Hes ", "r": "Hesekiel "}
+        {"s": "Hes ", "r": "Hesekiel "},
+        {"s": "Hbr ", "r": "Hebr "}
       ];
 
       for (var sr = 0; sr < german_verse_replacement.length; sr++){
