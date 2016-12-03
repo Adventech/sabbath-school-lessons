@@ -28,7 +28,10 @@ function scrape(verseKey, verseFind, version, cb){
           var output = "";
           var $ = cheerio.load(body, {decodeEntities: false});
 
-          $(".passage-wrap").find(".heading > h3, .passage").each(function(i, e){
+          $(".publisher-info-bottom").remove();
+          $(".passage-display-version").remove();
+
+          $(".passage-wrap > .passage-content").find(".passage-display, p").each(function(i, e){
             $(e).find(".footnote, .footnotes").remove();
             $(e).removeAttr("class");
             $(e).removeAttr("id");
