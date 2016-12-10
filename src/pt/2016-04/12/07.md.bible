@@ -1,6 +1,12 @@
 ---
-title:  ESTUDO ADICIONAL
-date:   16/12/2016
+title: 'ESTUDO ADICIONAL'
+date: 16/12/2016
+bible:
+    -
+        name: AA
+        verses:
+            'Rom 8:32': '<h1> <span>Romanos 8:32</span></h1><p> <span><sup>32&#xA0;</sup>Aquele que nem mesmo a seu pr&#xF3;prio Filho poupou, antes, o entregou por todos n&#xF3;s, como nos n&#xE3;o dar&#xE1; tamb&#xE9;m com ele todas <i class="added">as coisas?</i> </span> </p>'
+
 ---
 
 #### ESTUDO ADICIONAL
@@ -11,6 +17,6 @@ date:   16/12/2016
 
 `De que outras formas acha que a vida e a morte de Jesus responderam a perguntas que o livro de Job deixou por responder?`
 
-`Pense melhor acerca do que a Cruz nos revela sobre o caráter de Deus, especialmente quando percebemos que Aquele que nos criou foi Aquele que morreu por nós na cruz. Porque deveria esta realidade dar-nos muito mais esperança e muito mais consolo, independentemente das provações que estamos a enfrentar? De que modo pode esta verdade espantosa ensinar-nos a confiar em Deus e na Sua bondade? (Veja Rom. 8:32.)`
+`Pense melhor acerca do que a Cruz nos revela sobre o caráter de Deus, especialmente quando percebemos que Aquele que nos criou foi Aquele que morreu por nós na cruz. Porque deveria esta realidade dar-nos muito mais esperança e muito mais consolo, independentemente das provações que estamos a enfrentar? De que modo pode esta verdade espantosa ensinar-nos a confiar em Deus e na Sua bondade? (Veja <a class="verse" verse="Rom 8:32">Rom. 8:32</a>.)`
 
 `Como vimos, o livro de Job mostrou, entre outras coisas, que o Grande Conflito é uma questão cósmica e que o conflito entre Cristo e Satanás tem uma dimensão que vai para além da própria Terra. Imagine o que deve ter sido para as criaturas celestes, que conheciam Jesus apenas na Sua glória celestial, vê-l’O passar por aquilo que Ele passou na cruz. De que modo meditarmos nesta ideia espantosa nos ajuda a obtermos uma grande apreciação pelo que nos foi dado em Jesus?`
