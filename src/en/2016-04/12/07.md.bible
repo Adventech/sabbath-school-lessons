@@ -1,6 +1,16 @@
 ---
-title:  Further Thought
-date:   16/12/2016
+title: 'Further Thought'
+date: 16/12/2016
+bible:
+    -
+        name: NKJV
+        verses:
+            'Rom 8:32': '<h1> <span>Romans 8:32</span></h1><p> <span><sup>32&#xA0;</sup>He who did not spare His own Son, but delivered Him up for us all, how shall He not with Him also freely give us all things? </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Rom 8:32': '<h1> <span>Romans 8:32</span></h1><p><span><sup>32&#xA0;</sup>He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?</span></p>'
+
 ---
 
 #### Further Thought
@@ -13,6 +23,6 @@ date:   16/12/2016
 
 - `What are other ways that you can think of regarding how the life and death of Jesus answered questions that the book of Job left unanswered?`
 
-- `Think over what the Cross reveals to us about the character of God, especially when we realize that the One who created us was the One who died for us on the cross. Why should this reality give us so much hope and comfort, regardless of whatever trials we are facing? How can this amazing truth teach us to trust in God and in His goodness? (See Rom. 8:32.)`
+- `Think over what the Cross reveals to us about the character of God, especially when we realize that the One who created us was the One who died for us on the cross. Why should this reality give us so much hope and comfort, regardless of whatever trials we are facing? How can this amazing truth teach us to trust in God and in His goodness? (See <a class="verse" verse="Rom 8:32">Rom. 8:32</a>.)`
 
 - `As we saw, the book of Job showed, among other things, that the great controversy is a cosmic issue and that the conflict between Christ and Satan has a dimension that goes beyond the earth itself. Imagine what it must have been like for heavenly creatures, who knew Jesus only in His heavenly glory, to see Him go through what He did on the cross. How can dwelling on this amazing idea help us to come to a great appreciation of what we have been given in Jesus?`
