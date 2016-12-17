@@ -111,7 +111,8 @@ function parse_de(read, callback){
         {"s": "Offb ", "r": "Offenbarung "},
         {"s": "Spr ", "r": "Sprueche "},
         {"s": "Hes ", "r": "Hesekiel "},
-        {"s": "Hbr ", "r": "Hebr "}
+        {"s": "Hbr ", "r": "Hebr "},
+        {"s": "Apostel ", "r": "Apostelgeschichte "}
       ];
 
       for (var sr = 0; sr < german_verse_replacement.length; sr++){
