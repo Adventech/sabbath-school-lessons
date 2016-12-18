@@ -38,6 +38,7 @@ function scrape(verseKey, verseFind, version, cb){
             $(e).find("p, span, div, sup").removeAttr("class");
             $(e).find("p, span, div, sup").removeAttr("id");
             output += $("<div></div>").html($(e).clone()).html();
+            output = output.replace("h1>", "h3>");
           });
 
           redis_client.set(url, output);
