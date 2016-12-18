@@ -38,6 +38,7 @@ function scrape(verseKey, verseFind, version, cb){
             $(e).find("p, span, div, sup").removeAttr("class");
             $(e).find("p, span, div, sup").removeAttr("id");
             output += $("<div></div>").html($(e).clone()).html();
+            output = output.replace("h1>", "h3>");
           });
 
           redis_client.set(url, output);
@@ -78,7 +79,8 @@ function parse_fr(read, callback){
         {"s": "Apo.", "r": "Ap."},
         {"s": "Za.", "r": "Zac."},
         {"s": "Zach.", "r": "Zac."},
-        {"s": "Jug.", "r": "Jg."}
+        {"s": "Jug.", "r": "Jg."},
+        {"s": "Nom. ", "r": "Nm. "}
       ];
 
       for (var sr = 0; sr < french_verse_replacement.length; sr++){
