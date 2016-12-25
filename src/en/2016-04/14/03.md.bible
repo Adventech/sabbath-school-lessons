@@ -1,0 +1,48 @@
+---
+title: 'Evil Being'
+date: 26/12/2016
+bible:
+    -
+        name: NKJV
+        verses:
+            'Luke 22:3, 31': '<h3> <span>Luke 22:3</span></h3><p><span><sup>3&#xA0;</sup>Then Satan entered Judas, surnamed Iscariot, who was numbered among the twelve. </span> </p><h3> <span>Luke 22:31</span></h3><p><span><sup>31&#xA0;</sup>And the Lord said, <span>&#x201C;Simon, Simon! Indeed, Satan has asked for you, that he may sift <i>you</i> as wheat.</span> </span> </p>'
+            'Matt 13:39': '<h3> <span>Matthew 13:39</span></h3><p> <span><sup>39&#xA0;</sup><span>The enemy who sowed them is the devil, the harvest is the end of the age, and the reapers are the angels.</span> </span> </p>'
+            'Rev 12:12': '<h3> <span>Revelation 12:12</span></h3><p> <span><sup>12&#xA0;</sup>Therefore rejoice, O heavens, and you who dwell in them! Woe to the inhabitants of the earth and the sea! For the devil has come down to you, having great wrath, because he knows that he has a short time.&#x201D;</span></p>'
+            'Matt 4:10': '<h3> <span>Matthew 4:10</span></h3><p><span><sup>10&#xA0;</sup>Then Jesus said to him, <span>&#x201C;Away with you,</span><span> Satan! For it is written, &#x2018;You shall worship the <span style="font-variant: small-caps">Lord</span> your God, and Him only you shall serve.&#x2019;&#x201D;</span></span></p>'
+            'Luke 13:16': '<h3> <span>Luke 13:16</span></h3><p> <span><sup>16&#xA0;</sup><span>So ought not this woman, being a daughter of Abraham, whom Satan has bound&#x2014;think of it&#x2014;for eighteen years, be loosed from this bond on the Sabbath?&#x201D;</span> </span> </p>'
+            '1 Pet 5:8': '<h3> <span>1 Peter 5:8</span></h3><p><span><sup>8&#xA0;</sup>Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour. </span> </p>'
+            'Luke 8:12': '<h3> <span>Luke 8:12</span></h3><p> <span><sup>12&#xA0;</sup><span>Those by the wayside are the ones who hear; then the devil comes and takes away the word out of their hearts, lest they should believe and be saved.</span> </span> </p>'
+            'Acts 5:3': '<h3> <span>Acts 5:3</span></h3><p> <span><sup>3&#xA0;</sup>But Peter said, &#x201C;Ananias, why has Satan filled your heart to lie to the Holy Spirit and keep back <i>part</i> of the price of the land for yourself? </span> </p>'
+            'Job 1:1': '<h3> <span>Job 1:1</span></h3><p><span><span>1&#xA0;</span>There was a man in the land of Uz, whose name <i>was</i> Job; and that man was blameless and upright, and one who feared God and shunned evil. </span> </p>'
+            'Job 2:8': '<h3> <span>Job 2:8</span></h3><p> <span><sup>8&#xA0;</sup>And he took for himself a potsherd with which to scrape himself while he sat in the midst of the ashes.</span></p>'
+    -
+        name: KJV
+        verses:
+            'Luke 22:3, 31': '<h3> <span>Luke 22:3</span></h3><p><span><sup>3&#xA0;</sup>Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.</span></p><h3> <span>Luke 22:31</span></h3><p><span><sup>31&#xA0;</sup>And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:</span></p>'
+            'Matt 13:39': '<h3> <span>Matthew 13:39</span></h3><p><span><sup>39&#xA0;</sup>The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.</span></p>'
+            'Rev 12:12': '<h3> <span>Revelation 12:12</span></h3><p><span><sup>12&#xA0;</sup>Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.</span></p>'
+            'Matt 4:10': '<h3> <span>Matthew 4:10</span></h3><p><span><sup>10&#xA0;</sup>Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.</span></p>'
+            'Luke 13:16': '<h3> <span>Luke 13:16</span></h3><p><span><sup>16&#xA0;</sup>And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?</span></p>'
+            '1 Pet 5:8': '<h3> <span>1 Peter 5:8</span></h3><p><span><sup>8&#xA0;</sup>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:</span></p>'
+            'Luke 8:12': '<h3> <span>Luke 8:12</span></h3><p><span><sup>12&#xA0;</sup>Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.</span></p>'
+            'Acts 5:3': '<h3> <span>Acts 5:3</span></h3><p><span><sup>3&#xA0;</sup>But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?</span></p>'
+            'Job 1:1': '<h3> <span>Job 1:1</span></h3><p><span><span>1&#xA0;</span>There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.</span></p>'
+            'Job 2:8': '<h3> <span>Job 2:8</span></h3><p><span><sup>8&#xA0;</sup>And he took him a potsherd to scrape himself withal; and he sat down among the ashes.</span></p>'
+
+---
+
+### Evil Being
+
+One of the great questions that has challenged human thinking deals with evil. Though some philosophers and even religionists have denied the existence of evil or think we should at least abandon the term, most people would disagree. Evil is real; it’s a part of this world. Though we can argue over what is or is not evil, most of us (to paraphrase a U.S. Supreme Court justice in another context) “know it when we see it.” 
+
+Evil is sometimes put into two broad classes: natural and moral. Natural evil is defined as the kind that arises from natural disasters, such as when earthquakes or floods or pestilences bring suffering. Moral evil results from deliberate actions of other human beings, such as murder or robbery.
+
+All sorts of theories, ancient and modern, attempt to account for the existence of evil. As Seventh-day Adventists, we believe that the Bible teaches that evil originated in the fall of a created being, Satan. The popular culture, aided by materialistic philosophical speculations, has denied the idea of Satan. But one can do so only by rejecting the clear testimony of Scripture, which depicts Satan as a real being out to do humans as much harm as possible. 
+
+This is a truth especially revealed in the book of Job.
+
+`Read <a class="verse" verse="Job 1:1">Job 1:1</a> to <a class="verse" verse="Job 2:8">Job 2:8</a>. How do these two chapters help us to understand the role of Satan in the evil that’s so prevalent in the world?`
+
+In Job’s case, Satan was directly responsible for the evil, both moral and natural, that fell upon this man. But what we see in the book of Job doesn’t necessarily mean that every example of evil or suffering is directly related to demonic activity. The fact is, as with the characters in the book of Job, we just don’t know all the reasons for the terrible things that happen. In fact, the name of “Satan” never even came up in the dialogues regarding Job’s misfortunes. The speakers blamed God, they blamed Job, but never Satan himself. Nevertheless, the book of Job should show us who is responsible in the end for the evil on the earth.
+
+`What do the following texts tell us about the reality of Satan? <a class="verse" verse="Rev 12:12">Rev. 12:12</a>; <a class="verse" verse="Matt 4:10">Matt. 4:10</a>; <a class="verse" verse="Matt 13:39">Matt. 13:39</a>; <a class="verse" verse="Luke 8:12">Luke 8:12</a>; <a class="verse" verse="Luke 13:16">Luke 13:16</a>; <a class="verse" verse="Luke 22:3, 31">Luke 22:3, 31</a>; <a class="verse" verse="Acts 5:3">Acts 5:3</a>; <a class="verse" verse="1 Pet 5:8">1 Pet. 5:8</a>. More important, what examples do you have of Satan’s influence in your life? How can you be protected against him?`
