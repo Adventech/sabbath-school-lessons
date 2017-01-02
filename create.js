@@ -28,6 +28,53 @@ var SRC_PATH = "src/",
     LESSON_COVER = "images/lesson_cover.png",
     DATE_FORMAT = "DD/MM/YYYY";
 
+var LOCALE_VARS = {
+
+  "daily_lesson_title": {
+    "de": "Tägliche Lektion",
+    "en": "Daily Lesson",
+    "es": "Lección",
+    "fr": "Leçon quotidienne",
+    "pt": "Lição",
+    "ru": "Урок",
+    "tr": "Ders",
+    "uk": "Урок"
+  },
+
+  "empty_placeholder": {
+    "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
+    "en": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
+    "es": "### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>",
+    "fr": "### <center>Nous travaillons sur cette leçon.</center>\n<center>Revenez plus tard, s'il vous plaît.</center>",
+    "pt": "### <center>Estamos a trabalhar sobre esta lição.</center>\n<center>Volte mais tarde, por favor.</center>",
+    "ru": "### <center>Мы подготавливаем данный урок</center>\n<center>Попробуйте позже</center>",
+    "tr": "### <center>Biz bu derste üzerinde çalışıyoruz.</center>\n<center>Lütfen daha sonra gelin.</center>",
+    "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>"
+  },
+
+  "teacher_comments": {
+    "de": "Lehrerteil",
+    "en": "Teacher Comments",
+    "es": "Teacher Comments",
+    "fr": "Commentaires Moniteurs",
+    "pt": "Moderador",
+    "ru": "Комментарий для Учителей",
+    "tr": "Teacher Comments",
+    "uk": "Teacher Comments"
+  },
+
+  "inside_story": {
+    "de": "Mit Gott erlebt",
+    "en": "Inside Story",
+    "es": "Inside Story",
+    "fr": "Histoire",
+    "pt": "Inside Story",
+    "ru": "Миссионерская история",
+    "tr": "Inside Story",
+    "uk": "Місіонерська історія"
+  }
+};
+
 function pad(n) {
   return (n < 10) ? ("0" + n) : n;
 }
@@ -55,20 +102,20 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
     for (var j = 1; j <= 7; j++){
       fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/" + pad(j) + ".md",
-        "---\ntitle:  Daily Lesson Title\ndate:   "+moment(start_date).format(DATE_FORMAT)+"\n---\n\nWrite lesson contents using Markdown format here"
+        "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguage]+"\ndate:   "+moment(start_date).format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
       start_date = moment(start_date).add(1, "d");
     }
 
     if (quarterlyTeacherComments){
       fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/teacher-comments.md",
-        "---\ntitle:  Teacher Comments\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\nWrite teacher comments for this lesson using Markdown format here"
+        "---\ntitle:  "+LOCALE_VARS["teacher_comments"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
     }
 
     if (quarterlyInsideStory){
       fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/inside-story.md",
-        "---\ntitle:  Inside Story\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\nWrite inside story for this lesson using Markdown format here"
+        "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
     }
     if (lessonCover){
