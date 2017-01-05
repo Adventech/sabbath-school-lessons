@@ -23,25 +23,25 @@ _* ER - Easy Reading_
 
 ### Language Roadmap
 
-[ ] Add Arabic Language
-[ ] Add Farsi Language
-[ ] Add Hebrew Language
-[ ] Add Estonian Language
-[ ] Add Danish Language
-[ ] Add Romanian Language
-[ ] Add Bulgarian Language
-[ ] Add Norwegian Language
-[ ] Add Japanese Language
-[ ] Add Korean Language
-[ ] Add Chinese Simplified Language
-[ ] Add Afrikaans Language
-[ ] Add Malayalam Language
-[ ] Add Nepali Language
-[ ] Add SiSwati Language
-[ ] Add Sesotho Language
-[ ] Add Tamil Language
-[ ] Add Xhosa Language
-[ ] Add Zulu Language
+- [ ] Add Arabic Language
+- [ ] Add Farsi Language
+- [ ] Add Hebrew Language
+- [ ] Add Estonian Language
+- [ ] Add Danish Language
+- [ ] Add Romanian Language
+- [ ] Add Bulgarian Language
+- [ ] Add Norwegian Language
+- [ ] Add Japanese Language
+- [ ] Add Korean Language
+- [ ] Add Chinese Simplified Language
+- [ ] Add Afrikaans Language
+- [ ] Add Malayalam Language
+- [ ] Add Nepali Language
+- [ ] Add SiSwati Language
+- [ ] Add Sesotho Language
+- [ ] Add Tamil Language
+- [ ] Add Xhosa Language
+- [ ] Add Zulu Language
  
 ## Contributing
 
