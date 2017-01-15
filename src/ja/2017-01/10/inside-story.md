@@ -1,6 +1,6 @@
 ---
-title:  undefined
-date:   10/03/2017
+title:  Inside Story
+date:   19/03/2017
 ---
 
-undefined
+### <center>この日課は完了されています。　後でここに返ってください。</center>
