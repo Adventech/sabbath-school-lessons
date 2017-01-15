@@ -1,6 +1,6 @@
 ---
 title:  Inside Story
-date:   26/03/2017
+date:   17/03/2017
 ---
 
 ### <center>この日課は完了されています。　後でここに返ってください。</center>
