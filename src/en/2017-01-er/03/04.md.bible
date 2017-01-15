@@ -1,0 +1,50 @@
+---
+title: 'HINTS IN THE BIBLE'
+date: 17/01/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            '1 Corinthians 6:19, 20': '<h3> <span>1 Corinthians 6:19</span></h3><p> <span><sup>19&#xA0;</sup>Or do you not know that your body is the temple of the Holy Spirit <i>who is</i> in you, whom you have from God, and you are not your own? </span> </p><h3> <span>1 Corinthians 6:20</span></h3><p> <span><sup>20&#xA0;</sup>For you were bought at a price; therefore glorify God in your body and in your spirit, which are God&#x2019;s.</span></p>'
+            '1 Corinthians 3:16, 17': '<h3> <span>1 Corinthians 3:16</span></h3><p><span><sup>16&#xA0;</sup>Do you not know that you are the temple of God and <i>that</i> the Spirit of God dwells in you? </span> </p><h3> <span>1 Corinthians 3:17</span></h3><p> <span><sup>17&#xA0;</sup>If anyone defiles the temple of God, God will destroy him. For the temple of God is holy, which <i>temple</i> you are.</span></p>'
+            '1 Corinthians 12:28': '<h3> <span>1 Corinthians 12:28</span></h3><p> <span><sup>28&#xA0;</sup>And God has appointed these in the church: first apostles, second prophets, third teachers, after that miracles, then gifts of healings, helps, administrations, varieties of tongues. </span> </p>'
+            '1 Corinthians 12:11': '<h3> <span>1 Corinthians 12:11</span></h3><p> <span><sup>11&#xA0;</sup>But one and the same Spirit works all these things, distributing to each one individually as He wills.</span></p>'
+            'Deuteronomy 32:12': '<h3> <span>Deuteronomy 32:12</span></h3><p><span><sup>12&#xA0;</sup><i>So</i> the <span style="font-variant: small-caps">Lord</span> alone led him,</span><br><span>And <i>there was</i> no foreign god with him.</span></p>'
+            'Isaiah 63:10–14': '<h3> <span>Isaiah 63:10-14</span></h3><p><span><sup>10&#xA0;</sup>But they rebelled and grieved His Holy Spirit;</span><br><span>So He turned Himself against them as an enemy,</span><br><span><i>And</i> He fought against them.</span></p><p><span><sup>11&#xA0;</sup>Then he remembered the days of old,</span><br><span>Moses <i>and</i> his people, <i>saying:</i></span><br><span>&#x201C;Where <i>is</i> He who brought them up out of the sea</span><br><span>With the shepherd of His flock?</span><br><span>Where <i>is</i> He who put His Holy Spirit within them,</span><br><span><sup>12&#xA0;</sup>Who led <i>them</i> by the right hand of Moses,</span><br><span>With His glorious arm,</span><br><span>Dividing the water before them</span><br><span>To make for Himself an everlasting name,</span><br><span><sup>13&#xA0;</sup>Who led them through the deep,</span><br><span>As a horse in the wilderness,</span><br><span><i>That</i> they might not stumble?&#x201D;</span></p><p><span><sup>14&#xA0;</sup>As a beast goes down into the valley,</span><br><span><i>And</i> the Spirit of the <span style="font-variant: small-caps">Lord</span> causes him to rest,</span><br><span>So You lead Your people,</span><br><span>To make Yourself a glorious name.</span></p>'
+            'Numbers 14:11': '<h3> <span>Numbers 14:11</span></h3><p><span><sup>11&#xA0;</sup>Then the <span style="font-variant: small-caps">Lord</span> said to Moses: &#x201C;How long will these people reject Me? And how long will they not believe Me, with all the signs which I have performed among them? </span> </p>'
+            'Isaiah 63:10': '<h3> <span>Isaiah 63:10</span></h3><p><span><sup>10&#xA0;</sup>But they rebelled and grieved His Holy Spirit;</span><br><span>So He turned Himself against them as an enemy,</span><br><span><i>And</i> He fought against them.</span></p>'
+    -
+        name: KJV
+        verses:
+            '1 Corinthians 6:19, 20': '<h3> <span>1 Corinthians 6:19</span></h3><p><span><sup>19&#xA0;</sup>What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?</span></p><h3> <span>1 Corinthians 6:20</span></h3><p><span><sup>20&#xA0;</sup>For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God&apos;s.</span></p>'
+            '1 Corinthians 3:16, 17': '<h3> <span>1 Corinthians 3:16</span></h3><p><span><sup>16&#xA0;</sup>Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?</span></p><h3> <span>1 Corinthians 3:17</span></h3><p><span><sup>17&#xA0;</sup>If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.</span></p>'
+            '1 Corinthians 12:28': '<h3> <span>1 Corinthians 12:28</span></h3><p><span><sup>28&#xA0;</sup>And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.</span></p>'
+            '1 Corinthians 12:11': '<h3> <span>1 Corinthians 12:11</span></h3><p><span><sup>11&#xA0;</sup>But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.</span></p>'
+            'Deuteronomy 32:12': '<h3> <span>Deuteronomy 32:12</span></h3><p><span><sup>12&#xA0;</sup>So the <span style="font-variant: small-caps">Lord</span> alone did lead him, and there was no strange god with him.</span></p>'
+            'Isaiah 63:10–14': '<h3> <span>Isaiah 63:10-14</span></h3><p><span><sup>10&#xA0;</sup>But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them.</span></p><p><span><sup>11&#xA0;</sup>Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?</span></p><p><span><sup>12&#xA0;</sup>That led them by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?</span></p><p><span><sup>13&#xA0;</sup>That led them through the deep, as an horse in the wilderness, that they should not stumble?</span></p><p><span><sup>14&#xA0;</sup>As a beast goeth down into the valley, the Spirit of the <span style="font-variant: small-caps">Lord</span> caused him to rest: so didst thou lead thy people, to make thyself a glorious name.</span></p>'
+            'Numbers 14:11': '<h3> <span>Numbers 14:11</span></h3><p><span><sup>11&#xA0;</sup>And the <span style="font-variant: small-caps">Lord</span> said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?</span></p>'
+            'Isaiah 63:10': '<h3> <span>Isaiah 63:10</span></h3><p><span><sup>10&#xA0;</sup>But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them.</span></p>'
+
+---
+
+### HINTS IN THE BIBLE
+
+(<a class="verse" verse="Isaiah 63:10–14">Isaiah 63:10–14</a>)
+
+There are many verses that point to the Holy Spirit in the Bible. These verses refer not only to the Holy Spirit but also to God.
+
+`Read <a class="verse" verse="Isaiah 63:10–14">Isaiah 63:10–14</a>. Compare these verses with <a class="verse" verse="Numbers 14:11">Numbers 14:11</a> and <a class="verse" verse="Deuteronomy 32:12">Deuteronomy 32:12</a>. To whom was the writer referring in these passages? What does this fact tell us about how the Holy Spirit is God?`
+
+<a class="verse" verse="Isaiah 63:10">Isaiah 63:10</a> tells us the people “rebelled” (fought) against the Holy Spirit. The people caused the Spirit to grieve over their sins. However, the same story in <a class="verse" verse="Numbers 14:11">Numbers 14:11</a> says, “The Lord said to Moses, ‘How long will these people not respect me?’ ” (NIrV). And in <a class="verse" verse="Deuteronomy 32:12">Deuteronomy 32:12</a>, we are told, “The Lord was the only one who led Israel. No other god was with them” (NIrV). Obviously, the Bible writers thought that God and the Holy Spirit were equal to each other. 
+
+`Compare <a class="verse" verse="1 Corinthians 3:16, 17">1 Corinthians 3:16, 17</a> with <a class="verse" verse="1 Corinthians 6:19, 20">1 Corinthians 6:19, 20</a>. Compare <a class="verse" verse="1 Corinthians 12:11">1 Corinthians 12:11</a> with <a class="verse" verse="1 Corinthians 12:28">1 Corinthians 12:28</a> also. How are the Holy Spirit and God referred to in the same way in these verses? What same thing are these verses saying about both God and the Holy Spirit?`
+
+In <a class="verse" verse="1 Corinthians 3:16, 17">1 Corinthians 3:16, 17</a>, Paul uses language that is much the same as the language he uses in <a class="verse" verse="1 Corinthians 6:19, 20">1 Corinthians 6:19, 20</a>. For Paul, to have the Holy Spirit is to have God Himself live within one’s heart. Paul puts the wording “God’s temple” (NIV) on the same level as the temple “of the Holy Spirit” (NIV). By doing so, Paul points out that the Holy Spirit is God.
+
+In <a class="verse" verse="1 Corinthians 12:11">1 Corinthians 12:11</a>, Paul writes that it is the Holy Spirit who gives the spiritual gifts to each believer. A few verses later in <a class="verse" verse="1 Corinthians 12:28">1 Corinthians 12:28</a>, we are told that it is God who gives the gifts. The basic message is clear: the Holy Spirit does the same work that God does. This truth offers powerful proof that the Holy Spirit is equal to God.
+
+`Read again <a class="verse" verse="Numbers 14:11">Numbers 14:11</a>. In what ways might the situation described in this verse be applied to us today? Think about the miracles that God has worked in our church. Think about all the reasons He has given us to believe. How can we make sure we are not doing today what God’s people did thousands of years ago?`
+
+##### DEFINITIONS
+
+5. **grieve**—to feel terrible pain and sorrow; to mourn.
