@@ -18,6 +18,7 @@ Below is current list of languages and capabilities implemented
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇹🇷 Turkish|✅ Yes|❌ No|❌ No|❌ No|
 |🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|
+|🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|
  
 _* ER - Easy Reading_
 
@@ -31,7 +32,6 @@ _* ER - Easy Reading_
 - [ ] Add Romanian Language
 - [ ] Add Bulgarian Language
 - [ ] Add Norwegian Language
-- [ ] Add Japanese Language
 - [ ] Add Korean Language
 - [ ] Add Chinese Simplified Language
 - [ ] Add Afrikaans Language
