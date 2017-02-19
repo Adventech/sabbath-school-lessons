@@ -1,6 +1,16 @@
 ---
-title:  ADDITIONAL THOUGHT
-date:   24/02/2017
+title: 'ADDITIONAL THOUGHT'
+date: 24/02/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Romans 12:3': '<h3> <span>Romans 12:3</span></h3><p><span><sup>3&#xA0;</sup>For I say, through the grace given to me, to everyone who is among you, not to think <i>of himself</i> more highly than he ought to think, but to think soberly, as God has dealt to each one a measure of faith. </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Romans 12:3': '<h3> <span>Romans 12:3</span></h3><p><span><sup>3&#xA0;</sup>For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.</span></p>'
+
 ---
 
 #### ADDITIONAL THOUGHT
@@ -19,4 +29,4 @@ And, finally, Ellen G. White writes, “Here is how Christ worked. He preached t
 
 `Why are miracles not a safe guide for knowing what truth is? What do we need along with them?` 
 
-`What important advice does Paul give to us in Romans 12:3? How “highly” should we think of ourselves?`
+`What important advice does Paul give to us in <a class="verse" verse="Romans 12:3">Romans 12:3</a>? How “highly” should we think of ourselves?`
