@@ -1,6 +1,16 @@
 ---
-title:  Further Thought
-date:   03/03/2017
+title: 'Further Thought'
+date: 03/03/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Phil 2:3, 4': '<h3> <span>Philippians 2:3</span></h3><p> <span><sup>3&#xA0;</sup><i>Let</i> nothing <i>be done</i> through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself. </span> </p><h3> <span>Philippians 2:4</span></h3><p> <span><sup>4&#xA0;</sup>Let each of you look out not only for his own interests, but also for the interests of others.</span></p>'
+    -
+        name: KJV
+        verses:
+            'Phil 2:3, 4': '<h3> <span>Philippians 2:3</span></h3><p><span><sup>3&#xA0;</sup>Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.</span></p><h3> <span>Philippians 2:4</span></h3><p><span><sup>4&#xA0;</sup>Look not every man on his own things, but every man also on the things of others.</span></p>'
+
 ---
 
 #### Further Thought
@@ -11,7 +21,7 @@ date:   03/03/2017
 
 ### Discussion Questions:
 
-`What does Ellen G. White mean when she says that “every individual is striving to become a center of influence”? Why is that such a natural tendency of all of us, and what can we do to fight this tendency in our own lives? (See also Phil. 2:3, 4.)`
+`What does Ellen G. White mean when she says that “every individual is striving to become a center of influence”? Why is that such a natural tendency of all of us, and what can we do to fight this tendency in our own lives? (See also <a class="verse" verse="Phil 2:3, 4">Phil. 2:3, 4</a>.)`
 
 `Some argue that what will really unite us is service, not doctrine. In fact, they argue that doctrine tends to divide people; thus, it should not be made prominent. But why can’t there be unity in mission and service if there is division in doctrine? Why is a commonly shared faith a powerful factor for united and effective mission?`
 
