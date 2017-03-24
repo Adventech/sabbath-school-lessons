@@ -1,0 +1,46 @@
+---
+title: 'The Work of the Holy Spirit'
+date: 18/03/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Hebrews 4:15, 16': '<h3> <span>Hebrews 4:15</span></h3><p> <span><sup>15&#xA0;</sup>For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all <i>points</i> tempted as <i>we are, yet</i> without sin. </span> </p><h3> <span>Hebrews 4:16</span></h3><p> <span><sup>16&#xA0;</sup>Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need.</span></p>'
+            '1 John 5:12, 13': '<h3> <span>1 John 5:12</span></h3><p> <span><sup>12&#xA0;</sup>He who has the Son has life; he who does not have the Son of God does not have life. </span> </p><h3> <span>1 John 5:13</span></h3><p> <span><sup>13&#xA0;</sup>These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may <i>continue to</i> believe in the name of the Son of God.</span></p>'
+            '1 Peter 5:8, 9': '<h3> <span>1 Peter 5:8</span></h3><p><span><sup>8&#xA0;</sup>Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour. </span> </p><h3> <span>1 Peter 5:9</span></h3><p> <span><sup>9&#xA0;</sup>Resist him, steadfast in the faith, knowing that the same sufferings are experienced by your brotherhood in the world. </span> </p>'
+            'John 16:8–11': '<h3> <span>John 16:8-11</span></h3><p> <span><sup>8&#xA0;</sup><span>And when He has come, He will convict the world of sin, and of righteousness, and of judgment:</span> </span> <span><sup>9&#xA0;</sup><span>of sin, because they do not believe in Me;</span> </span> <span><sup>10&#xA0;</sup><span>of righteousness, because I go to My Father and you see Me no more;</span> </span> <span><sup>11&#xA0;</sup><span>of judgment, because the ruler of this world is judged.</span></span></p>'
+            'Romans 15:13': '<h3> <span>Romans 15:13</span></h3><p><span><sup>13&#xA0;</sup>Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope by the power of the Holy Spirit.</span></p>'
+            'Romans 5:10': '<h3> <span>Romans 5:10</span></h3><p> <span><sup>10&#xA0;</sup>For if when we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life. </span> </p>'
+            'Psalm 31:24': '<h3> <span>Psalm 31:24</span></h3><p><span><sup>24&#xA0;</sup>Be of good courage,</span><br><span>And He shall strengthen your heart,</span><br><span>All you who hope in the <span style="font-variant: small-caps">Lord</span>.</span></p>'
+            'John 14:26': '<h3> <span>John 14:26</span></h3><p> <span><sup>26&#xA0;</sup><span>But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all things that I said to you.</span> </span> </p>'
+            'John 16:8': '<h3> <span>John 16:8</span></h3><p> <span><sup>8&#xA0;</sup><span>And when He has come, He will convict the world of sin, and of righteousness, and of judgment:</span> </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Hebrews 4:15, 16': '<h3> <span>Hebrews 4:15</span></h3><p><span><sup>15&#xA0;</sup>For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.</span></p><h3> <span>Hebrews 4:16</span></h3><p><span><sup>16&#xA0;</sup>Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.</span></p>'
+            '1 John 5:12, 13': '<h3> <span>1 John 5:12</span></h3><p><span><sup>12&#xA0;</sup>He that hath the Son hath life; and he that hath not the Son of God hath not life.</span></p><h3> <span>1 John 5:13</span></h3><p><span><sup>13&#xA0;</sup>These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.</span></p>'
+            '1 Peter 5:8, 9': '<h3> <span>1 Peter 5:8</span></h3><p><span><sup>8&#xA0;</sup>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:</span></p><h3> <span>1 Peter 5:9</span></h3><p><span><sup>9&#xA0;</sup>Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.</span></p>'
+            'John 16:8–11': '<h3> <span>John 16:8-11</span></h3><p><span><sup>8&#xA0;</sup>And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:</span></p><p><span><sup>9&#xA0;</sup>Of sin, because they believe not on me;</span></p><p><span><sup>10&#xA0;</sup>Of righteousness, because I go to my Father, and ye see me no more;</span></p><p><span><sup>11&#xA0;</sup>Of judgment, because the prince of this world is judged.</span></p>'
+            'Romans 15:13': '<h3> <span>Romans 15:13</span></h3><p><span><sup>13&#xA0;</sup>Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.</span></p>'
+            'Romans 5:10': '<h3> <span>Romans 5:10</span></h3><p><span><sup>10&#xA0;</sup>For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.</span></p>'
+            'Psalm 31:24': '<h3> <span>Psalm 31:24</span></h3><p><span><sup>24&#xA0;</sup>Be of good courage, and he shall strengthen your heart, all ye that hope in the <span style="font-variant: small-caps">Lord</span>.</span></p>'
+            'John 14:26': '<h3> <span>John 14:26</span></h3><p><span><sup>26&#xA0;</sup>But the Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.</span></p>'
+            'John 16:8': '<h3> <span>John 16:8</span></h3><p><span><sup>8&#xA0;</sup>And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:</span></p>'
+
+---
+
+### The Work of the Holy Spirit
+
+### READ FOR THIS WEEK’S LESSON
+<a class="verse" verse="John 16:8–11">John 16:8–11</a>; <a class="verse" verse="Romans 5:10">Romans 5:10</a>; <a class="verse" verse="Hebrews 4:15, 16">Hebrews 4:15, 16</a>; <a class="verse" verse="1 Peter 5:8, 9">1 Peter 5:8, 9</a>; <a class="verse" verse="1 John 5:12, 13">1 John 5:12, 13</a>; <a class="verse" verse="Psalm 31:24">Psalm 31:24</a>.
+
+> <p>MEMORY VERSE</p>
+> “May the God who gives hope fill you with great joy. May you have perfect peace as you trust in him. May the power of the Holy Spirit fill you with hope” (<a class="verse" verse="Romans 15:13">Romans 15:13</a>, NIrV).
+
+WE NOW COME TO THE END of our study this quarter on the Holy Spirit and living a spiritual life. We will look at one other important work of the Spirit in this last lesson. It is a work that has not yet received our attention. 
+
+Jesus told the disciples that He would go to the Father. And He promised to send them the Holy Spirit: “ ‘But the Father will send the Friend in my name to help you. The Friend is the Holy Spirit. He will teach you all things. He will remind you of everything I have said to you’ ” (<a class="verse" verse="John 14:26">John 14:26</a>, NIrV). 
+
+Jesus said that the Holy Spirit is a parakletos, that is, a “helper,” “comforter,” or a “go-between.” In other words, He works in our behalf. At the same time, Jesus also announced the work that this Go-Between would do. The Spirit “ ‘will prove that the world’s people are guilty. He will prove their guilt concerning sin and godliness [holiness] and judgment’ ” (<a class="verse" verse="John 16:8">John 16:8</a>, NIrV). 
+
+During our final week, we will study in more detail this special work of the Holy Spirit. We will learn how His work relates to the hope we have that our salvation is certain. We will learn how this work relates to the hope of the Second Coming. 
