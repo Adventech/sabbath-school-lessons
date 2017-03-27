@@ -7,7 +7,7 @@ var argv = require("optimist")
     "p": "Path to scan for .md files and parse. Not recursive",
     "l": "Parse language"
   })
-  .demand(["f"])
+  .demand(["p"])
   .default({ "l" : "en" })
   .argv;
 
@@ -54,4 +54,4 @@ function processParsing(path){
   }
 }
 
-processParsing(argv.f);
+processParsing(argv.p);
