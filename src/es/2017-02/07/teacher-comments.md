@@ -84,7 +84,7 @@ Pedro les recuerda a sus lectores que no están solos cuando enfrentan la ira de
 
 **Considera:** Satanás (el dragón) está particularmente enojado con aquellos que, en los últimos días, guardan los Mandamientos de Dios y tienen el testimonio de Jesús (Apoc. 12:17). Como soldados de Cristo, necesitamos permanecer sobrios y en alerta. ¿De qué forma puedo vivir como soldado al servicio de Dios mientras vivo en territorio enemigo?
 
-*8Preguntas para dialogar:**
+**Preguntas para dialogar:**
 
 1. ¿Qué espíritu mostramos en nuestras relaciones con otros, ya sea que seamos líderes espirituales, jóvenes o cualquier otro miembro de iglesia?
 
