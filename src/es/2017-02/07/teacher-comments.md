@@ -5,97 +5,109 @@ date:   12/05/2017
 
 ### El sábado enseñaré...
 
->**Texto Clave:** 1 Pedro 1:18-21.
+> **Texto Clave:** 1 Pedro 5:1-6.
  
 ### Enseña a tu clase a:
 
-**Saber:** Ver que Jesucristo está en el centro de la teología y de las enseñanzas de Pedro, incluyendo Su condición de Mesías, Su sufrimiento y muerte, Su resurrección, y Su segunda venida.
+**Saber:** Reconocer que la humildad es un componente fundamental para un liderazgo y un servicio eficaz a favor del prójimo.
 
-**Sentir:** Comprender el privilegio de ser llamado por Dios para participar de los sufrimientos de Cristo, y experimentar fe y esperanza en la gloria que nos será revelada a Su regreso.
+**Sentir:** Valorar, en el ejemplo de Jesús, el espíritu de humildad y de servicio por amor, y desear manifestar lo mismo a otros.
 
-**Hacer:** Renunciar a una forma de vida sin propósito y cumplir fielmente con lo que es bueno: servir a otros con amor.
+**Hacer:** Responder al llamado a humillarse bajo la poderosa mano de Dios para que pueda utilizar eficazmente a cada uno en su obra.
 
 ### Bosquejo de la Lección
 
-1. **Saber:** Jesús como Mesías, Redentor y Señor
-A. ¿Qué aspectos específicos de la vida y ministerio de Jesús destaca Pedro en esta epístola?
-B. ¿Cuál parece ser el interés principal de Pedro en sus referencias a la vida y ministerio de Jesús?         
+1. **Saber:** El liderazgo cristiano eficaz.
+A. ¿Cuáles son el espíritu y la actitud que Pedro invita a los líderes de la iglesia a mostrar?
+B. Pedro llama a los ancianos a cumplir dos funciones específicas, ¿cuáles son? (Compara con Hech. 20:28.)
 
-2. **Sentir:** El llamado a seguir los pasos de Jesús.
-A. ¿En qué contexto específico Pedro llama a sus lectores a seguir los pasos de Jesús?
-B. ¿De qué manera el cumplimiento de las profecías del Antiguo Testamento en Jesús influyen en nuestras decisiones de seguir a Jesús hoy?
+2. **Sentir:** El llamado a la humildad y el servicio.
+A. Según el consejo de 1 Pedro 5:2 y 3, ¿cuáles son las tres actitudes específicas que los ancianos deberían tener?
+B. ¿Qué actitud espera Pedro de todos sus lectores (1 Ped. 5:5, 6)?
 
-3. **Hacer:** Preparación para el regreso de Jesús.
-A. ¿Qué les aconseja hacer Pedro a sus lectores para prepararse para el regreso de Jesús?
-B. ¿Cómo vemos el juicio venidero? ¿Con miedo o con gran interés?
+3. **Hacer:** Humillarse bajo la poderosa mano de Dios.
+A. ¿De qué maneras los líderes de la iglesia pueden dar ejemplo de un liderazgo de servicio mientras que, al mismo tiempo, son obispos?
+B. ¿Qué espera Pedro de los jóvenes de la iglesia con relación a los ancianos (1 Ped. 5:5)?
 
 ### Resumen
 
-Pedro entreteje un claro mensaje sobre Jesús en todas sus reflexiones. Jesús es el Mesías Divino de la profecía del Antiguo Testamento, enviado para redimir a su pueblo de su pecaminosa manera de vivir por su propio sacrificio. El resucitó de entre los muertos y pronto se manifestará nuevamente en gloria. La esperanza de los cristianos está en él.
-
+En la iglesia, los ancianos cumplen la función tanto de pastor como de obispo. Pedro hace un llamado a un espíritu de humildad y de servicio en los líderes, como así también en todos los creyentes, ya sean jóvenes o ancianos. A su debido tiempo, Dios exaltará a aquellos que se humillaron bajo su mano poderosa.
+ 
 ### CICLO DE APRENDIZAJE
 
-**Textos destacados:** 1 Pedro 1:3-9.
+**Textos destacados:** 1 Pedro 5:5, 6, 10.
 
-**Concepto clave para el crecimiento espiritual:** Dios ha hecho renacer a los cristianos a una esperanza viva por medio de la resurrección de Jesucristo de los muertos. Esta esperanza incluye una herencia en el cielo que nunca se marchitará ni podrá ser destruida o contaminada. Es preservada para nosotros que estamos protegidos por el escudo de la fe por el poder de Dios hasta que llegue la salvación que será revelada cuando regrese Cristo. Alabamos a Dios con alegría por esta esperanza de salvación, y nuestra conducta se transforma a la espera de las glorias que nos serán reveladas. Amamos a Jesús, y nos amamos unos a otros. Sobrellevamos las pruebas con paciente firmeza. Confiamos en Dios y Su Palabra, y, finalmente, recibimos el propósito de nuestra fe, la salvación de nuestra alma.
+**Concepto clave para el crecimiento espiritual:** La iglesia necesita buenos líderes que sean eficientes en su doble función de cuidadores y obispos. Como tales, necesitan ser humildes, y estar deseosos de servir y dispuestos a ser ejemplos en vez de tiranos. Los ancianos son llamados a mostrar su espíritu de servicio. Los jóvenes son llamados a someterse a este tipo de liderazgo. Todos son llamados a vestirse de humildad. La feligresía que muestra este espíritu de humildad y servicio será fuerte y se mantendrá firme mientras Dios los exalta frente a la comunidad.
 
 ### PASO 1: ¡Motiva!
 
-**Solo para los maestros:** Jesús transformó la vida de Pedro. Pedro era naturalmente atrevido, presuntuoso, impetuoso y directo. A menudo hablaba antes de pensar bien sus palabras. Como resultado, hizo promesas que no pudo cumplir y terminó negando a su Señor. Sin embargo, a diferencia de Judas, en vez de perder la esperanza y rendirse, Pedro se arrepintió y buscó una nueva experiencia con Cristo, convirtiéndose en uno de sus más ferviente seguidores y defensores. Pedro fue quizá el líder más destacado de la iglesia primitiva hasta que Pablo cobró notoriedad como apóstol a los gentiles. Pablo consideraba que Pedro era una de las principales “columnas” de la iglesia (Gál. 2:9). Pedro sabía quién era Jesús y el poder de Jesús en la vida. No es sorprendente que su epístola esté llena de pasajes que hablan de la importancia de Jesús en la vida del creyente.
+**Sólo para los maestros:** La iglesia primitiva tenía una estructura de organización mínima. Los apóstoles fueron los primeros líderes, pero la iglesia superó rápidamente la capacidad de los apóstoles para administrarla adecuadamente. Hechos 6:1 al 6 describe el primer intento por incorporar nuevos líderes para compartir las responsabilidades con más eficacia. Más tarde, estos hombres fueron llamados “diáconos” (*diakonoi*), que significa “aquellos que ministran las necesidades de otros”. Posteriormente, los apóstoles también tuvieron la necesidad de designar líderes espirituales en cada congregación (Hech. 14:23; Tito 1:5). Estos hombres fueron conocidos como “ancianos” (*presbyteroi*) que, literalmente, significa hombres mayores y de experiencia. Los apóstoles eran líderes itinerantes, mientras que los ancianos eran líderes de iglesias locales. Según Hechos 15, estos dos grupos se unieron por primera vez para representar a la iglesia en el Concilio de Jerusalén.
 
-**Diálogo inicial:** Pide a la clase que lean juntos 1 Pedro 1:3 al 9, 18 y 21. Invita a los miembros a identificar los diferentes elementos del proceso de salvación que son mencionados en estos pasajes, y su conexión con la vida y la obra de Jesús.
+**Diálogo inicial:** Invita a la clase a leer Hechos 20:17, 18, y 28 al 31. Hablen sobre las funciones que Pablo esperaba que estos ancianos cumplieran en la iglesia y compárenlas con lo que Pedro esperaba de los ancianos de las iglesias a las que estaba escribiendo.
 
+**Preguntas para dialogar:**
+
+1. ¿Qué funciones tienen en común las dos descripciones?
+
+2. ¿Qué revela esto sobre la terminología utilizada?
+ 
 ### PASO 2: ¡Explora!
 
-**Solo para los maestros:** La vida y la obra de Jesús permea toda la primera epístola de Pedro. Pero el foco central en la vida y obra de Jesús se encuentra en 1 Pedro 3:18, más precisamente, la muerte de Jesús por nuestros pecados y su posterior resurrección a la vida en el Espíritu. Existen diez referencias explícitas al sufrimiento y la muerte de Jesús en la epístola (1 Ped. 1:2, 11, 19; 2:21, 23, 24; 3:18; 4:1, 13; 5:1), con al menos una referencia en cada capítulo. Y existen cuatro referencias explícitas a Su resurrección (1 Ped. 1:3, 21; 3:18, 21). Además, hay una referencia a Su ascensión (1 Ped. 3:22) y cinco a Su segunda venida (1 Ped. 1:5, 7, 13; 5:1, 4).
+**Solo para los maestros:** En 1 Pedro 5:1 al 3, se usan tres términos especiales para los líderes de la iglesia: ancianos, obispos y pastores del rebaño, siendo los dos últimos términos expresados en forma de verboides. Los tres mismos términos son utilizados también en Hechos 20:28. El primero, “ancianos”, fue tratado anteriormente. Esta designación era una terminología común usada para los líderes de iglesia locales. En el Antiguo Testamento, los ancianos se desempeñaban como consejeros y jueces de los feligreses. Los ancianos (“obispos”) debían tener cualidades específicas para desempeñarse como líderes espirituales en la iglesia del Nuevo Testamento (1 Tim. 3:1-7; Tito 1:6-9). Pedro se refiere a sí mismo como un “anciano también” (*sympresbyteros*), identificándose así con ellos (1 Ped. 5:1).
+El segundo y el tercer término son funcionales y están expresados como verboides. “Pastores” o “apacentad” (*poimainō*, 1 Ped. 5:2) describen una función de cuidado, porque es el pastor (*poimēn*) quien guía al rebaño a las pasturas. En 1 Pedro 2:25, Jesús es llamado “el Pastor de vuestras almas”. En 1 Pedro 5:4, se lo llama “el Príncipe de los pastores” (*archipoimēn*), indicando que los pastores y los ancianos deben trabajar bajo su autoridad y guía. Hebreos 13:20 llama a Jesús “el gran Pastor de las ovejas” (NVI), y él se llamó a sí mismo “el buen pastor” (Juan 10:11, 14), poniéndose como ejemplo para otros.
+Otra frase que utiliza Pedro es “cuiden como pastores” (1 Ped. 5:2, NVI), o “cuiden ustedes de las personas que Dios dejó a su cargo” (*episkopeō*, TLA), una frase que indica una función de supervisión o gestión. En 1 Pedro 2:25, Jesús es llamado “el Pastor y Obispo” (*episkopos*) de nuestras almas. Las funciones de liderazgo espiritual que debieran cumplir los ancianos son las mismas que Jesús ejerce al cuidar de nuestras almas. No es llamativo que Hebreos 13:17 amoneste a los creyentes: “Obedeced a vuestros pastores, y sujetaos a ellos; porque ellos velan por vuestras almas, como quienes han de dar cuenta”.
 
 #### Comentario de la Biblia
 
-**I. El sufrimiento y la muerte de Jesús**
-*(Repasa, con tu clase, 1 Ped. 1:18, 19; 2:24; 3:18.)*
+**I. Cualidades de los líderes de iglesia eficaces**
+*(Repasa, con tu clase, 1 Ped. 5:1-4.)*
 
-La mayoría de las referencias a la vida y obra de Jesús hacen alusión a Su sufrimiento y muerte. Su sufrimiento es el más mencionado, mayormente como un ejemplo para aquellos que también están sufriendo (1 Ped. 1:11, 12; 2:21-23; 4:1, 13-16), pero la muerte de Jesús como un sacrificio por nuestros pecados es teológicamente más significativa para nuestra salvación (1 Ped. 1:18, 19; 2:24; 3:18). Estos pasajes enseñan una expiación sustitutiva para pagar el precio de la redención por nuestros pecados. Fuera del sacrificio sustitutivo de Jesús, no había otra provisión para nuestra salvación. Este acuerdo es la única forma en que podemos acercarnos a Dios (1 Ped. 3:18; Juan 14:6; Hech. 4:10-12; Heb. 9:27, 28; 10:19-22).
+Siendo anciano él mismo, Pedro apela a los otros ancianos para cuidar el rebaño de Dios que está bajo su responsabilidad, de manera tal que ninguna oveja de Cristo se pierda. Entonces, cuando regrese el Príncipe de los Pastores, recibirán una corona incorruptible de gloria. Existen tres condiciones bajo las cuales los ancianos deben servir: (1) voluntariamente, no por un deber u obligación; (2) con afán de servir, no con expectativas de beneficios monetarios; (3) humildemente, no como amos del rebaño, sino liderando con su ejemplo.
 
-**Considera:** ¿Cuánto tiempo diario o semanal dedico a la contemplación del sufrimiento y de la muerte de Jesús?
+**Considera:** ¿De qué maneras Jesús, el Príncipe de los pastores, fue un ejemplo de estas tres condiciones?
 
-**II. Resurrección de Jesús**
-*(Repasa, con tu clase, 1 Ped. 1:3, 21; 3:18, 21)*
+**II. Consejos a los miembros**
+*(Repasa, con tu clase, 1 Ped. 5:5-7.)*
 
-Aún con la importancia que la muerte de Jesús tiene para nuestra salvación, ésta hubiera sido en vano sin Su resurrección (1 Ped. 1:3; 3:21; 1 Cor. 15:14, 17-19). Tenemos esperanza de vida eterna porque no está muerto, sino que ha resucitado (Mat. 28:5, 6; Luc. 24:5, 6) y se ha convertido en las “primicias de los que durmieron” (1 Cor. 15:20). Es en Su resurrección que tenemos la seguridad de nuestra futura resurrección a vida eterna. Pedro comprende claramente este principio y lo sostiene ante sus lectores como la base de su esperanza, sin importar el sufrimiento o incluso la muerte que puedan padecer en esta vida.
+Los más jóvenes deben someterse a la autoridad de sus mayores y compartir el mismo espíritu de poner primero los intereses del prójimo. Dicho sometimiento debe reflejar los consejos previos de Pedro, en 1 Pedro 2:13 al 3:7.
 
-**Considera:** En Romanos 6:4, Pablo no sólo hace de la resurrección de Jesús nuestra única esperanza de vida eterna a futuro, sino también una forma de nueva vida espiritual en el presente. ¿En qué se fundamenta la esperanza de nuestra vida eterna?
+Finalmente, se instruye a todos que se vistan de humildad en sus relaciones, según la amonestación en 1 Pedro 3:10 al 12, basada en Proverbios 3:34. Dado que Dios se opone al orgulloso y desea dar su gracia al humilde, se aconseja que todos se humillen ante Dios y aguarden a que él los exalte a su debido tiempo. Aunque hoy en día, así como en aquel entonces, la humildad se asocia generalmente con la pobreza y una condición social baja, los creyentes no deben preocuparse por esas cosas. Solo necesitan permitir que Dios se preocupe por su bienestar, porque él cuida de ellos y pueden confiar en que satisfará sus necesidades.
 
-**III. La ascensión y el regreso de Cristo**
-*(Repasa, con tu clase, 1 Ped. 1:5, 7, 13; 3:22; 5:1, 4.)*
+**Considera:** ¿De qué maneras concretas puedo vestirme de humildad en mis relaciones interpersonales?
 
-Además del sufrimiento, muerte y resurrección de Jesús, Pedro señala otros momentos importantes en la vida y obra de Jesús. En 1 Pedro 3:22, se refiere a la ascensión de Jesús y hasta insinúa Su ministerio como sumo sacerdote cuando afirma que “está a la diestra de Dios” (Compara con Hech. 5:31; Heb. 8:1; 9:24; 10:11, 12). Luego hace cinco referencias a la segunda venida de Cristo, a la que describe como Su revelación en gloria en el tiempo postrero (1 Ped. 1:5, 7, 13; 5:1), o su manifestación (1 Ped. 5:4). Esta manifestación en gloria es la culminación de todas las esperanzas de los cristianos (Tito 2:13). Será la herencia bendita que ha sido reservada para nosotros en el cielo; la que hemos estado buscando y para la que hemos sido llamados (1 Ped. 1:4; 3:9).
+**III. Vivir en el terreno del diablo**
+*(Repasa, con tu clase, 1 Ped. 5:8-11.)*
 
-**Considera:** Jesús era generalmente conocido como Jesucristo (Cristo, el Ungido, el Mesías). De este modo, Pedro proclama repetidamente que Jesús es el Mesías prometido en la profecía del Antiguo Testamento, y lo señala claramente en 1 Pedro 1:10 al 12. ¿De qué modo es Jesús para mí el Mesías prometido, con todo lo que este nombre representa?
+Dios se preocupa por nosotros; no obstante, al mismo tiempo, no debemos olvidar que vivimos en territorio enemigo. Por lo tanto, estamos obligados a tener autocontrol y estar alertas porque nuestro enemigo, el diablo, es como un león, rugiente, rondando y “buscando a quién devorar” (1 Ped. 5:8, NVI). Los leones acechan a su presa furtivamente. Se mantienen ocultos hasta el último minuto y atacan. No podremos ser conscientes del peligro a menos que permanezcamos alertas, con una mente lúcida y ejerciendo autocontrol de modo que nada obstaculice nuestra capacidad de orar (1 Ped. 4:7). No solo necesitamos permanecer alertas y conscientes, sino que también se nos llama a resistirlo “firmes en la fe” (1 Ped. 5:9).
 
-**Preguntas para reflexionar:**
+Pedro les recuerda a sus lectores que no están solos cuando enfrentan la ira del enemigo, porque “sus hermanos en todo el mundo están soportando la misma clase de sufrimientos” (1 Ped. 5:9, NVI). Sí, Pedro concluye diciendo que “después de que ustedes hayan sufrido un poco de tiempo, Dios mismo, el Dios de toda gracia..., los restaurará y los hará fuertes, firmes y estables” (1 Ped. 5:10, NVI). Nuestra fuerza no está en nosotros mismos, sino en nuestro Dios, quien nos llamó a su gloria eterna.
 
-1. ¿Qué rol juega la referencia de Pedro a los profetas del Antiguo Testamento y sus predicciones en 1 Pedro 1:10 al 12 con respecto de su énfasis en Jesús, Su vida y Su ministerio?
+**Considera:** Satanás (el dragón) está particularmente enojado con aquellos que, en los últimos días, guardan los Mandamientos de Dios y tienen el testimonio de Jesús (Apoc. 12:17). Como soldados de Cristo, necesitamos permanecer sobrios y en alerta. ¿De qué forma puedo vivir como soldado al servicio de Dios mientras vivo en territorio enemigo?
 
-2. Al señalar los sufrimientos y la muerte de Jesús como el foco principal de su epístola, ¿por qué, en 1 Pedro 3:15, Pedro aprovecha la oportunidad para animar a sus lectores a “santificar a Dios el Señor” en sus corazones?
+*8Preguntas para dialogar:**
+
+1. ¿Qué espíritu mostramos en nuestras relaciones con otros, ya sea que seamos líderes espirituales, jóvenes o cualquier otro miembro de iglesia?
+
+2. ¿Qué precauciones estamos tomando para mantener el autocontrol, estar alertas y tener una mente clara? ¿De qué manera podemos darnos cuenta de los métodos del diablo? ¿Estamos velando en oración? ¿De qué modo?
 
 ### PASO 3: ¡Aplica!
 
-**Solo para los maestros:** A menudo nos resulta más fácil concentrarnos más en cuestiones doctrinales que de relaciones. La lección de esta semana se centra en ambas, deteniéndose en algunos momentos de la vida de Jesús que son importantes para nuestra salvación, y también en la relación personal de Pedro con Jesús que fue transformadora para su propia vida y ministerio. Al enseñar esta lección, asegúrate que no se descuiden las cuestiones de relaciones priorizando los textos que abordan los temas doctrinales para la salvación. Busca la oportunidad de conversar sobre la relación que Pedro tenía con Jesús, que lo llevó a que Jesús sea el centro de su epístola. No deje de personalizar la relación de Pedro con Jesús. ¿De qué forma hemos hecho que Cristo sea el Señor de nuestros corazones?
+**Solo para los maestros:** La iglesia de hoy está mucho más estructurada que la iglesia primitiva. Este alto nivel de organización es necesario debido a las complejidades que existen en la iglesia y en el mundo. Los ancianos del Nuevo Testamento eran, esencialmente, lo mismo que los pastores y los obispos (ver, por ej., 1 Tim. 3:1, 2; Tito 1:7; 1 Ped. 2:25), y ejercían ambas funciones. Los únicos otros líderes espirituales eran los apóstoles y los diáconos aunque, aparentemente, estos últimos se encargaban mas de las cuestiones prácticas y de las necesidades materiales de la iglesia, mientras que los apóstoles y los ancianos ejercían una función específicamente espiritual o religiosa (Hech. 6:1-4; 15:2, 4, 22, 23; 16:4; 1 Tim. 5:17).
 
 #### Preguntas para reflexionar:
 
-1. ¿Cuáles fueron los factores decisivos en la conversión de Pedro que lo hicieron el líder espiritual que llegó a ser, poniendo a Jesús en el centro de su enseñanza y su esperanza?
+1. ¿Cuál es la base para el sistema representativo en la organización de la iglesia y con qué principios bíblicos se relaciona?
 
-2. Cuando aceptamos que Jesús sea Cristo y Señor de nuestro corazón, debemos esforzarnos por tener una relación significativa con El. Si no lo hemos hecho, ¿qué podemos hacer para comenzar una esperanza viva en Jesús?
-
-#### Actividad:
-
-Invita a la clase a leer 1 Pedro 4:1, 2, 7 y 8; y 5:6 al 10. Analicen de qué maneras el ejemplo de Jesús debería tener una influencia transformadora en nuestras vidas como la tuvo en la vida de Pedro. ¿Cómo verá nuestra comunidad nuestra relación con Jesús, basándose en lo que observan en nosotros? ¿Qué cambios necesitamos hacer?
-
-### PASO 4: ¡Crea!
-
-**Solo para los maestros:** Pedro abre su epístola señalando los cambios que Dios quiere que hagamos en nuestras vidas. Dios nos ha elegido a través de la obra santificadora del Espíritu, para obediencia a Jesucristo y aspersión (limpieza metafórica) con su sangre (1 Ped. 1:2). “Según su grande misericordia nos hizo renacer para una esperanza viva, por la resurrección de Jesucristo de los muertos para una herencia incorruptible, incontaminada e inmarcesible” (1 Ped. 1:3, 4). Después de describir cómo estos cambios sucederán en nuestras vidas y cómo podemos reclamar esa esperanza viva, Pedro cierra su epístola asegurando a sus lectores que el Dios de toda gracia “los restaurará y los hará fuertes, firmes y estables” (1 Ped. 5:10, NVI). “Esta [restauración]”, según confirma a sus lectores en 1 Pedro 5:12 “es la verdadera gracia de Dios. Manténganse firmes en ella” (NVI).
+2. ¿Por qué podemos tener confianza en que Dios dirige permanente el liderazgo en su iglesia? ¿Qué interés tiene Jesús, el Príncipe de los pastores, en guiar a su rebaño en condiciones de seguridad?
 
 #### Actividades:
 
-Con tu clase, desarrolla una estrategia para que la verdadera gracia de Dios, tal como fue revelada por medio de la vida y el ministerio de Jesucristo, pueda ser proclamada a la comunidad de tu iglesia, ofreciéndoles un nuevo nacimiento a una esperanza viva y una herencia que no se corromperá ni se marchitará con el tiempo. ¿Cómo puede el mensaje de 1 Pedro cumplir un propósito en esa estrategia?
+Invita a tu clase a leer 1 Timoteo 5:17 y Hebreos 13:7 y 17. Conversen sobre las formas en las que los miembros de la clase pueden mostrar apoyo y aprecio por los líderes espirituales de la iglesia. Planea poner en práctica, pronto, al menos una idea concreta.
+
+### PASO 4: ¡Crea!
+
+**Solo para los maestros:** Muchos miembros de iglesia tienen poco conocimiento de la estructura organizacional de la Iglesia Adventista del Séptimo Día y de que funciona, fundamentalmente, sobre una base de elección de representantes y aportes financieros de los niveles locales hacia arriba. Quizá tampoco sepan que, una vez que la estructura se mantiene por un tiempo determinado, existen controles descendentes para buscar el equilibrio y que son implementados hasta las siguientes elecciones en asambleas o sesiones de la Asociación General. Puede resultar útil revisar algunos conceptos básicos sobre las formas en las que se establecen el liderazgo y la autoridad en la Iglesia Adventista, de modo que haya una mejor comprensión del proceso de funcionamiento de la iglesia y por qué está organizada de cierta manera. El Manual de la Iglesia es una herramienta útil para entender este tema.
+
+#### Actividades:
+
+Si tienes los recursos, crea un organigrama de los niveles de liderazgo y autoridad de la Iglesia Adventista del Séptimo Día. Muestra cómo la autoridad se ejerce en ambas direcciones dentro de la organización de la iglesia, sin que ni un solo individuo (a excepción de Cristo) o entidad posea la máxima autoridad.
