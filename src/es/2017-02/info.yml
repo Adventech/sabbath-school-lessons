@@ -4,3 +4,5 @@
   human_date: "Segundo Trimestre del 2017"
   start_date: "25/03/2017"
   end_date: "23/06/2017"
+  color_primary: "#098d80"
+  color_primary_dark: "#1b5650"
