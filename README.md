@@ -15,7 +15,7 @@ Below is current list of languages and capabilities implemented
 |🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇵🇹 🇧🇷 Portuguese|✅ Yes|✅ Yes|❌ No|✅ Yes|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|❌ No|
+|🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|
 |🇹🇷 Turkish|✅ Yes|❌ No|❌ No|❌ No|
 |🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|
