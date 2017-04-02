@@ -1,0 +1,44 @@
+---
+title: 'Masters and Slaves'
+date: 17/04/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            '1 Peter 2:18–23': '<h3> <span>1 Peter 2:18-23</span></h3><p><span><sup>18&#xA0;</sup>Servants, <i>be</i> submissive to <i>your</i> masters with all fear, not only to the good and gentle, but also to the harsh. </span> <span><sup>19&#xA0;</sup>For this <i>is</i> commendable, if because of conscience toward God one endures grief, suffering wrongfully. </span> <span><sup>20&#xA0;</sup>For what credit <i>is it</i> if, when you are beaten for your faults, you take it patiently? But when you do good and suffer, if you take it patiently, this <i>is</i> commendable before God. </span> <span><sup>21&#xA0;</sup>For to this you were called, because Christ also suffered for us, leaving us an example, that you should follow His steps:</span></p><p><span><sup>22&#xA0;</sup><span>&#x201C;Who committed no sin,</span></span><br><span><span>Nor was deceit found in His mouth&#x201D;</span>; </span></p><p><span><sup>23&#xA0;</sup>who, when He was reviled, did not revile in return; when He suffered, He did not threaten, but committed <i>Himself</i> to Him who judges righteously; </span> </p>'
+            '1 Pet 2:18–20': '<h3> <span>1 Peter 2:18-20</span></h3><p><span><sup>18&#xA0;</sup>Servants, <i>be</i> submissive to <i>your</i> masters with all fear, not only to the good and gentle, but also to the harsh. </span> <span><sup>19&#xA0;</sup>For this <i>is</i> commendable, if because of conscience toward God one endures grief, suffering wrongfully. </span> <span><sup>20&#xA0;</sup>For what credit <i>is it</i> if, when you are beaten for your faults, you take it patiently? But when you do good and suffer, if you take it patiently, this <i>is</i> commendable before God. </span> </p>'
+            'Ephesians 6:5': '<h3> <span>Ephesians 6:5</span></h3><p><span><sup>5&#xA0;</sup>Bondservants, be obedient to those who are your masters according to the flesh, with fear and trembling, in sincerity of heart, as to Christ; </span> </p>'
+            '1 Peter 2:18': '<h3> <span>1 Peter 2:18</span></h3><p><span><sup>18&#xA0;</sup>Servants, <i>be</i> submissive to <i>your</i> masters with all fear, not only to the good and gentle, but also to the harsh. </span> </p>'
+            '1 Pet 2:23': '<h3> <span>1 Peter 2:23</span></h3><p><span><sup>23&#xA0;</sup>who, when He was reviled, did not revile in return; when He suffered, He did not threaten, but committed <i>Himself</i> to Him who judges righteously; </span> </p>'
+            'Rom 3:24': '<h3> <span>Romans 3:24</span></h3><p> <span><sup>24&#xA0;</sup>being justified freely by His grace through the redemption that is in Christ Jesus, </span> </p>'
+            'Col 1:14': '<h3> <span>Colossians 1:14</span></h3><p> <span><sup>14&#xA0;</sup>in whom we have redemption through His blood, the forgiveness of sins.</span></p>'
+            'Eph 1:7': '<h3> <span>Ephesians 1:7</span></h3><p><span><sup>7&#xA0;</sup>In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace </span> </p>'
+    -
+        name: KJV
+        verses:
+            '1 Peter 2:18–23': '<h3> <span>1 Peter 2:18-23</span></h3><p><span><sup>18&#xA0;</sup>Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.</span></p><p><span><sup>19&#xA0;</sup>For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.</span></p><p><span><sup>20&#xA0;</sup>For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.</span></p><p><span><sup>21&#xA0;</sup>For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:</span></p><p><span><sup>22&#xA0;</sup>Who did no sin, neither was guile found in his mouth:</span></p><p><span><sup>23&#xA0;</sup>Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:</span></p>'
+            '1 Pet 2:18–20': '<h3> <span>1 Peter 2:18-20</span></h3><p><span><sup>18&#xA0;</sup>Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.</span></p><p><span><sup>19&#xA0;</sup>For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.</span></p><p><span><sup>20&#xA0;</sup>For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.</span></p>'
+            'Ephesians 6:5': '<h3> <span>Ephesians 6:5</span></h3><p><span><sup>5&#xA0;</sup>Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;</span></p>'
+            '1 Peter 2:18': '<h3> <span>1 Peter 2:18</span></h3><p><span><sup>18&#xA0;</sup>Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.</span></p>'
+            '1 Pet 2:23': '<h3> <span>1 Peter 2:23</span></h3><p><span><sup>23&#xA0;</sup>Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:</span></p>'
+            'Rom 3:24': '<h3> <span>Romans 3:24</span></h3><p><span><sup>24&#xA0;</sup>Being justified freely by his grace through the redemption that is in Christ Jesus:</span></p>'
+            'Col 1:14': '<h3> <span>Colossians 1:14</span></h3><p><span><sup>14&#xA0;</sup>In whom we have redemption through his blood, even the forgiveness of sins:</span></p>'
+            'Eph 1:7': '<h3> <span>Ephesians 1:7</span></h3><p><span><sup>7&#xA0;</sup>In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;</span></p>'
+
+---
+
+### Masters and Slaves
+
+`Read <a class="verse" verse="1 Peter 2:18–23">1 Peter 2:18–23</a>. How do we today understand the difficult content of these verses? What principle can we take from them for ourselves?`
+
+A careful reading of <a class="verse" verse="1 Peter 2:18–23">1 Peter 2:18–23</a> reveals that rather than an endorsement of slavery, the texts give spiritual counsel on how to think about difficult circumstances that, at the time, could not be changed.
+
+The word translated as “servant” or “slave” in <a class="verse" verse="1 Peter 2:18">1 Peter 2:18</a>, oiketes, is used specifically for domestic slaves. The more usual word for slave, doulos, is used in <a class="verse" verse="Ephesians 6:5">Ephesians 6:5</a>, a passage that gives similar advice to slaves.
+
+In the highly stratified Roman Empire, slaves were considered a legal possession under the absolute control of their master, who could treat them well or cruelly. Slaves came from a number of sources: defeated armies, children of slaves, or those “sold” to pay off their debts. Some slaves were given great responsibility. Some managed the large estates of their owners. Others managed their owners’ property and business interests, and some even educated their masters’ children. 
+
+A slave’s freedom could be purchased, in which case the slave was described as “redeemed.” Paul uses this language to describe what Jesus has done for us (<a class="verse" verse="Eph 1:7">Eph. 1:7</a>, <a class="verse" verse="Rom 3:24">Rom. 3:24</a>, <a class="verse" verse="Col 1:14">Col. 1:14</a>).
+
+It is important to remember that a number of early Christians were slaves. As such, they found themselves caught in a system that they could not change. Those unfortunate enough to have harsh and unreasonable masters were in particularly difficult situations; even those with better masters could face trying circumstances. Peter’s instructions to all Christians who were slaves are consistent with other statements in the New Testament. They should submit and endure, just as Christ submitted and endured (<a class="verse" verse="1 Pet 2:18–20">1 Pet. 2:18–20</a>). There is no credit for those suffering punishment for having done wrong. No, the real spirit of Christ is revealed when they are suffering unjustly. Like Jesus, at such times Christians are not to return abuse, nor to threaten, but entrust themselves to God, who will judge justly (<a class="verse" verse="1 Pet 2:23">1 Pet. 2:23</a>).
+
+`What practical applications can we make from what Peter wrote here? Does it mean, then, that we never stand up for our rights? Bring your answer to class on Sabbath.`
