@@ -1,3 +1,3 @@
 #!/bin/bash
 
-aws s3 sync dist/ $1 --acl "public-read" --region us-east-1
+aws s3 sync dist/ s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1
