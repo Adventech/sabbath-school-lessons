@@ -14,6 +14,7 @@ before_deploy:
   - './awscli-bundle/install -b ~/bin/aws'
 deploy:
   provider: script
+  skip_cleanup: true
   script: aws s3 sync dist/ s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1
   on:
     branch: stage
