@@ -2,18 +2,22 @@ language: node_js
 node_js:
 - '4'
 before_install:
-- openssl aes-256-cbc -K $encrypted_4aaf4da0a921_key -iv $encrypted_4aaf4da0a921_iv -in deploy-creds.tar.enc -out deploy-creds.tar -d
+- openssl aes-256-cbc -K $encrypted_4aaf4da0a921_key -iv $encrypted_4aaf4da0a921_iv
+  -in deploy-creds.tar.enc -out deploy-creds.tar -d
 - tar xvf deploy-creds.tar
 script: node compile.js -l $TRAVIS_COMMIT_RANGE -b $TRAVIS_BRANCH
 before_script:
 - mkdir dist
+before_deploy:
+  - 'curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip"'
+  - 'unzip awscli-bundle.zip'
+  - './awscli-bundle/install -b ~/bin/aws'
 deploy:
-  provider: s3
-  access_key_id: AKIAIJQZXYPFA2TPPBJQ
-  bucket: "com.cryart.sabbathschool"
-  skip_cleanup: true
-  acl: public_read
-  local_dir: dist
-  region: us-west-2
-  secret_access_key:
-    secure: Te6KptQIUzQlFevxkiOAhLh2+2gxxmMTxQ91Fd90AByaH65tCYt5Y8/iudS+vXsPu9SGIOoHE0mKdSKR5rlxGMnL2w3cPw4nXKN8aZ8czCruydVR5XPxR0mON6sYLxoM3kfg/GaBr9yv37or8gqKh+5CIi95BdtGd2ttS0V6p9tJxrMKFhinM2PyPZ8ZYJFj3AqWmjm5bV4DYNtjsxVnhzKAyZAIRP8Sm4CxH1cQ9PPkBO25keFIN2M2mtj+IrMRjHFDe/BjN7PcFXuM7pYO3AYS4Q7ADg9iZoOnoDmIH5PjQEGryWQ6TCGwNeQQeXN+qgiFxJfzyFlJbJ4+DWZI1dPZkLtVlAUXA7C76DrKsiTiTrlTS5rmPx8V327ZtAaJk7OyzE8ufTJ6YX0T9oQsu2hgD+YblObUnrqNlF17+9hq53lkptRNGGT2gzmUeGIQ1cTGv9o5USQdLeo6mM6ulw3SG4PCMdEKeUu/ibq/6qTi8KEHP+Cd18fgSW/6V0/WFH8EJBp2m1ow1CKz64D3z2qDVPjLWfRJUpVAxvr6YxsZZPO8WgH03fxgCMoKlPIqWieZxGwEsqndwg7rkNa/t9cFrt/SxMkzvRcl4LvSOQ+q+SCcyAfNeVFMnrMDQ2llM676svIpxfOaZ4s9lu8fjcYhVXt12vRelXMIJZazJec=
+  provider: script
+  script: s3deploy.sh s3://sabbath-school-stage.adventech.io
+  on:
+    branch: stage
+env:
+  global:
+  - secure: ZetrKtuVC6+fF57g+o0nq2t4nckuXTzlO33jNYo70PAYnwzeVfDImcVebmyhbGx8zAu8PIwh/YVCD+BVm4yTQpEk5ldWU1f6YD6B2hCtT8KKmeIBSCRl2EwK9uJfzLW2hXmULjLi8Vyfj02hR35QqxhT2dtcnSQJxXwBeHBhBN+Z6wLxshbMz2WaLZPXHMYP4k6khXNCNMcqdMkQjBPREX+R18wuKKKgxHHZRHmZbhXV23afQvpLceW32TO+XbN98VLFgFj2dDod3LAbr3UO3QDnO6JQDTsb01gf5Towxl+4yvLiSVbz9FEjxosjPZ12of/FixR9iLGeZcmD+TRTMrXR94lPrczdezn0RSBG8uvZbXbnVsk8C0bFUlUiyZyo5SdulYvbUCGUGFB++g01xd3L4nCWQDKf2aISQ6mGze6LESH9kr+9P7GJ8I+qMmnZWBu3Zju1lDaZDqMuHTLPJqUgDi2OpIe+9y/2FpOr3fgPq/OBoEhwuDODifuXx3fZdmaoFoadbWJbs4Ey85iirpQxhZ7s/5bVvFx3/vAdtrihLgtzZ3UuZi85GmXVImDCqFxAFOdgQaurSs7+coxQJ7UndwRIy+lp8iTsThXAj+ukV5CChFwMUytogchyJCJSET7sqq0qzCMQNw0YSWTxH1UrCRlmjTBwvI42rYqQey8=
+  - secure: ZXITlidXIumuagGvAL40jnls8E3ga7+OR9CfoQtnZ6W1Kadfvcerw9XE58qFHlY1q5WddgYKnoCX/jOMUrCd4COc/oBVzhk5PcORqc+cK4tklZjg6eqNjQpEGgZTEXuNB8HrEu46n3SYY6KUT0Q41W3uQNGa2jGj6HO/J0zsjBfXr8jFIl9H18IisiYmrhlyiV6qhiD4BWypGrW0nHf1OPilYIV5K2K++NEEF2FhrG/QyHwDQQN+0XKINpCap/KHYQLUB/JNcsFBtVEM9qvUwE0iSf1p2UdlbRUGDhuDeGM+uImbKQk/f/ae2zcTvTzvc1vYXO6l2YMX4sOu0uHV5BDnEmgVJpwmOsMcpGaHO9Rp3S70wFsot9kMrbfbYUJ0711ZDhKCNIKMvPDQisPrRClZYUf2JCrkL4KZQTTeB7USr0UP8OpNEHPHYv73wciRCcJ3E27iGiuEUqZ2iYQUz94WwNtUZ73MJtxpzkwcLUd1FqiyQSFRJJzIm5+kDpaDIlKvGdktnwlgYyUJUBy2w5IHeAWTh3gIpyzjpzsEObWj0j/3yQuPnhX05JsjelfMHnGmzpRLauY5sktVMkJrKecqfOkCjnBjR49vsI83XCYC9SCyEJqnKzBCBVRVkQebuGLcv3oEOJCHA2G9z3sembKJ4xdCIHBy/XLja8YksVc=
