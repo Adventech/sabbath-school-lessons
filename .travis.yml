@@ -14,7 +14,7 @@ before_deploy:
   - './awscli-bundle/install -b ~/bin/aws'
 deploy:
   provider: script
-  script: ./s3deploy.sh s3://sabbath-school-stage.adventech.io
+  script: ./s3deploy.sh 's3://sabbath-school-stage.adventech.io'
   on:
     branch: stage
 env:
