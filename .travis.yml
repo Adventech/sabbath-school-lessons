@@ -13,11 +13,16 @@ before_deploy:
   - 'unzip awscli-bundle.zip'
   - './awscli-bundle/install -b ~/bin/aws'
 deploy:
-  provider: script
-  skip_cleanup: true
-  script: aws s3 sync dist/ s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1
-  on:
-    branch: stage
+  - provider: script
+    skip_cleanup: true
+    script: aws s3 sync dist/ s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1
+    on:
+      branch: stage
+  - provider: script
+    skip_cleanup: true
+    script: aws s3 sync dist/ s3://sabbath-school.adventech.io --acl "public-read" --region us-east-1
+    on:
+      branch: master
 env:
   global:
   - secure: ZetrKtuVC6+fF57g+o0nq2t4nckuXTzlO33jNYo70PAYnwzeVfDImcVebmyhbGx8zAu8PIwh/YVCD+BVm4yTQpEk5ldWU1f6YD6B2hCtT8KKmeIBSCRl2EwK9uJfzLW2hXmULjLi8Vyfj02hR35QqxhT2dtcnSQJxXwBeHBhBN+Z6wLxshbMz2WaLZPXHMYP4k6khXNCNMcqdMkQjBPREX+R18wuKKKgxHHZRHmZbhXV23afQvpLceW32TO+XbN98VLFgFj2dDod3LAbr3UO3QDnO6JQDTsb01gf5Towxl+4yvLiSVbz9FEjxosjPZ12of/FixR9iLGeZcmD+TRTMrXR94lPrczdezn0RSBG8uvZbXbnVsk8C0bFUlUiyZyo5SdulYvbUCGUGFB++g01xd3L4nCWQDKf2aISQ6mGze6LESH9kr+9P7GJ8I+qMmnZWBu3Zju1lDaZDqMuHTLPJqUgDi2OpIe+9y/2FpOr3fgPq/OBoEhwuDODifuXx3fZdmaoFoadbWJbs4Ey85iirpQxhZ7s/5bVvFx3/vAdtrihLgtzZ3UuZi85GmXVImDCqFxAFOdgQaurSs7+coxQJ7UndwRIy+lp8iTsThXAj+ukV5CChFwMUytogchyJCJSET7sqq0qzCMQNw0YSWTxH1UrCRlmjTBwvI42rYqQey8=
