@@ -8,7 +8,7 @@
     "cheerio": "^0.22.0",
     "crypto": "0.0.3",
     "ent": "^2.2.0",
-    "firebase": "^3.5.0",
+    "firebase": "3.5.0",
     "fs-extra": "^0.30.0",
     "meta-marked": "^0.4.2",
     "moment": "^2.15.1",
