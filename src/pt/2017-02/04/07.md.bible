@@ -1,6 +1,13 @@
 ---
-title:  Estudo adicional
-date:   21/04/2017
+title: 'Estudo adicional'
+date: 21/04/2017
+bible:
+    -
+        name: AA
+        verses:
+            '1 Pedro 2:21-25': '<h3> <span>1 Pedro 2:21-25</span></h3><p> <span><sup>21&#xA0;</sup>Porque para isto sois chamados, pois tamb&#xE9;m Cristo padeceu por n&#xF3;s, deixando-nos o exemplo, para que sigais as suas pisadas, </span> <span><sup>22&#xA0;</sup>o qual n&#xE3;o cometeu pecado, nem na sua boca se achou engano, </span> <span><sup>23&#xA0;</sup>o qual, quando o injuriavam, n&#xE3;o injuriava e, quando padecia, n&#xE3;o amea&#xE7;ava, mas entregava-se &#xE0;quele que julga justamente, </span> <span><sup>24&#xA0;</sup>levando ele mesmo em seu corpo os nossos pecados sobre o madeiro, para que, mortos para os pecados, pud&#xE9;ssemos viver para a justi&#xE7;a; e pelas suas feridas fostes sarados. </span> <span><sup>25&#xA0;</sup>Porque &#xE9;reis como ovelhas desgarradas; mas, agora, tendes voltado ao Pastor e Bispo da vossa alma.</span></p>'
+            '1 Pedro 2:17': '<h3> <span>1 Pedro 2:17</span></h3><p> <span><sup>17&#xA0;</sup>Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai o rei.</span></p>'
+
 ---
 
 #### Estudo adicional 
@@ -17,6 +24,6 @@ Ellen G. White defendia que os adventistas do sétimo dia deveriam ser bons cida
 
 `Conhece casos de cristãos que, em vez de ajudar a transformar os males da sociedade, condescenderam com eles e até mesmo os justificaram? Que lições aprendemos com essas histórias?`
 
-`1 Pedro 2:17 diz: “Honrai o imperador”. Naquele tempo, o imperador provavelmente fosse Nero, um dos mais vis e corruptos de toda uma linhagem de homens também vis e corruptos. O que isso nos ensina?`
+`<a class="verse" verse="1 Pedro 2:17">1 Pedro 2:17</a> diz: “Honrai o imperador”. Naquele tempo, o imperador provavelmente fosse Nero, um dos mais vis e corruptos de toda uma linhagem de homens também vis e corruptos. O que isso nos ensina?`
 
-`Leia 1 Pedro 2:21-25. Como esses versos resumem a mensagem do evangelho? Que esperança eles nos oferecem? Qual chamado eles nos fazem? Será que temos obedecido ao que eles nos mandam?`
+`Leia <a class="verse" verse="1 Pedro 2:21-25">1 Pedro 2:21-25</a>. Como esses versos resumem a mensagem do evangelho? Que esperança eles nos oferecem? Qual chamado eles nos fazem? Será que temos obedecido ao que eles nos mandam?`
