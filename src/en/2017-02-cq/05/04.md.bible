@@ -1,11 +1,21 @@
 ---
-title:  If You Suffer Because You’re a Christian
-date:   25/04/2017
+title: 'If You Suffer Because You’re a Christian'
+date: 25/04/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            '1 Pet 4:16': '<h3> <span>1 Peter 4:16</span></h3><p> <span><sup>16&#xA0;</sup>Yet if <i>anyone suffers</i> as a Christian, let him not be ashamed, but let him glorify God in this matter.</span></p>'
+    -
+        name: KJV
+        verses:
+            '1 Pet 4:16': '<h3> <span>1 Peter 4:16</span></h3><p><span><sup>16&#xA0;</sup>Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.</span></p>'
+
 ---
 
 ### If You Suffer Because You’re a Christian
 
-1 Pet. 4:16
+<a class="verse" verse="1 Pet 4:16">1 Pet. 4:16</a>
 
 Blood loss, physiological shock, nerve damage, pericardial effusion, suffocation— all are words used to define the effects of a crucifixion.<sup>1</sup> Even the word excruciating derives from the Latin term for crucifixion. We are familiar with this most violent form of torture because Jesus Christ was crucified on a cross. His suffering was real.
 

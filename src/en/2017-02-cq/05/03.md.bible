@@ -1,11 +1,21 @@
 ---
-title:  A Heart Changed
-date:   24/04/2017
+title: 'A Heart Changed'
+date: 24/04/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'John 5:29': '<h3> <span>John 5:29</span></h3><p> <span><sup>29&#xA0;</sup><span>and come forth&#x2014;those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation.</span> </span> </p>'
+    -
+        name: KJV
+        verses:
+            'John 5:29': '<h3> <span>John 5:29</span></h3><p><span><sup>29&#xA0;</sup>And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation.</span></p>'
+
 ---
 
 ### A Heart Changed
 
-John 5:29
+<a class="verse" verse="John 5:29">John 5:29</a>
 
 Sin can be overwhelming and overbearing if we believe we must take it on by ourselves. Thankfully, this is not the case. It is only through the power and strength of Jesus Christ that we can overcome the sin in our lives.
 
