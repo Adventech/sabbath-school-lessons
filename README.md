@@ -1,8 +1,16 @@
 [![Build Status](https://travis-ci.org/Adventech/sabbath-school-lessons.svg?branch=master)](https://travis-ci.org/Adventech/sabbath-school-lessons)
 
+
 # Sabbath School Lessons
 
 This repository contains all lessons for the Sabbath School app (for all platforms).
+
+## Acknowledgments 
+
+Thank you for supporting Open Source with your service:
+
+- [JetBrains](https://www.jetbrains.com/)
+- [BrowserStack](www.browserstack.com) ![Alt text](https://avatars0.githubusercontent.com/u/1119453?v=3&s=20)
 
 ## Languages matrix
 
