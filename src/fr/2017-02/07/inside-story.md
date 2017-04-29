@@ -5,8 +5,7 @@ date:   12/05/2017
 
 ### Dieu est un mari fidèle: 2e partie
 
-Quatre mois plus tard mon mari est tombé malade, se plaignant des douleurs dans son estomac et à la  poitrine. Il voulait aller à l’hôpital; donc, je suis allée trouver quelqu’un qui pourrait l’y emmener. Alors
-que j’étais partie, il mourut dans les bras de nos deux enfants ainés, sept et huit ans. 
+Quatre mois plus tard mon mari est tombé malade, se plaignant des douleurs dans son estomac et à la  poitrine. Il voulait aller à l’hôpital; donc, je suis allée trouver quelqu’un qui pourrait l’y emmener. Alors que j’étais partie, il mourut dans les bras de nos deux enfants ainés, sept et huit ans. 
 
 Je suis retournée pour trouver mon mari mort et mes enfants pleurant et confus. Je devins pleine de rage contre  Dieu. « Comment cela peut-il arriver alors que je venais juste de donner ma vie à Dieu? » me demandais-je.  Mais aucune réponse ne vint. Je voulus mourir aussi. D’autres devaient prendre soin de mes enfants et faire les  arrangements de services funéraires. En quelque sorte nous en aurons fini à l’enterrement. Puis cette réalité me  frappe: il est parti. Je n’ai pas de travail et j’ai cinq enfants à ma charge. Comment survivrons-nous? 
 
