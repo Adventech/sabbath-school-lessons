@@ -16,17 +16,21 @@ date:   12/05/2017
 **Agir:** Prendre en considération l’appel à s’humilier sous la puissante main de Dieu afin qu’Il puisse nous  utiliser efficacement. 
 
 ### Plan de l’étude:
+
 **1. Savoir:** Le leadeurship chrétien efficace.
-A.  Quel esprit et quelle attitude Pierre demande-t-il aux dirigeants de l’église de manifester?
-B. Quelles sont les deux fonctions spécifiques que Pierre appelle les anciens à remplir? (Comparer avec Actes  20:28.)
+
+- A.  Quel esprit et quelle attitude Pierre demande-t-il aux dirigeants de l’église de manifester?
+- B. Quelles sont les deux fonctions spécifiques que Pierre appelle les anciens à remplir? (Comparer avec Actes  20:28.)
 
 **2. Ressentir:** L’appel à l’humilité et au service.
-A. Quelles sont les trois attitudes spécifiques mentionnées dans 1 Pierre 5:2, 3 que les anciens doivent avoir?
-B. Quelle attitude Pierre attend-il de tous ses lecteurs (1 Pierre 5:5, 6)?
+
+- A. Quelles sont les trois attitudes spécifiques mentionnées dans 1 Pierre 5:2, 3 que les anciens doivent avoir?
+- B. Quelle attitude Pierre attend-il de tous ses lecteurs (1 Pierre 5:5, 6)?
 
 **3. Agir:** Humiliez-vous sous la puissante main de Dieu.
-A. Par quels moyens les leadeurs de l’église peuvent-ils être un modèle du leadeurship serviteur et en même temps fonctionner comme des surveillants?
-B. Qu’attend Pierre des jeunes de l’église dans leurs relations avec les plus âgés (1 Pierre 5:5)?
+
+- A. Par quels moyens les leadeurs de l’église peuvent-ils être un modèle du leadeurship serviteur et en même temps fonctionner comme des surveillants?
+- B. Qu’attend Pierre des jeunes de l’église dans leurs relations avec les plus âgés (1 Pierre 5:5)?
 
 **Résumé:** Les anciens fonctionnent comme des bergers (pasteurs) et surveillants dans les églises. Pierre demande un  esprit d’humilité et de service en matière de leadeurship, et envers tous les croyants, qu’ils soient jeunes ou  vieux. Dieu élèvera en Son temps tous ceux qui s’humilient sous Sa main puissante.
 
@@ -75,7 +79,6 @@ Pierre rappelle à ses lecteurs qu’ils ne sont pas seuls face à la colère de
 **Discussion:**
 
 1. Quel esprit affichons-nous dans nos relations avec les autres, que nous soyons des leadeurs spirituels, des  personnes plus jeunes ou tout autre membre de l’église.
-
 2. Quelles mesures prenons-nous pour être vigilants, avoir un esprit clair et une maitrise de soi? Quels sont les moyens par lesquels nous pouvons être au courant des méthodes du diable? Comment veillons-nous par la  prière?
 
 ### ÉTAPE 3—Appliquer
@@ -83,8 +86,8 @@ Pierre rappelle à ses lecteurs qu’ils ne sont pas seuls face à la colère de
 **Pour les moniteurs:** L’église actuelle est beaucoup plus structurée que l’église primitive. Ce haut degré  d’organisation est nécessaire en raison de la complexité qui existe dans l’église et dans le monde. Les anciens  dans le Nouveau Testament étaient essentiellement les mêmes que les pasteurs et les surveillants (« évêques »  ; voir, par exemple 1 Timothée 3:1, 2; Tite 1:7 ; 1 Pie. 2:25), exerçant les deux fonctions. Les seuls autres chefs  spirituels étaient les apôtres et les diacres; ces derniers étant chargés de la gestion des biens matériels et  pratiques de l’église, tandis que les apôtres et les anciens exerçaient des fonctions spécifiquement spirituelles  ou religieuses (Actes 6:1-4 ; 15:2, 4, 6, 22, 23 ; 16:4 ; 1 Tim. 5:17). 
 
 **À méditer:**
-1. Quel est le fondement de notre système représentatif de l’organisation de l’église et quels principes  bibliques sont associés à cela? 
 
+1. Quel est le fondement de notre système représentatif de l’organisation de l’église et quels principes  bibliques sont associés à cela? 
 2. Pourquoi pouvons-nous avoir confiance en la direction continue de Dieu dans le leadeurship de Son église?  Quel intérêt Jésus, le grand Berger, a-t-Il en menant Son troupeau en sécurité? 
 
 **Activité:** Demandez à la classe de lire 1 Timothée, 5:17 et Hébreux 13:7, 17. Discutez des moyens par  lesquels les membres de la classe peuvent donner leur soutien et leur appréciation aux chefs spirituels de  l’église. Planifiez de mettre au moins une idée tangible en action bientôt. 

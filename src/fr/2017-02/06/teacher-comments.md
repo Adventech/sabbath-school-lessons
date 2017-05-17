@@ -18,17 +18,16 @@ date:   05/05/2017
 ### Plan de l’étude:
 
 1. **Savoir: S’attendre aux épreuves et aux souffrances.**
-A. Pourquoi les croyants doivent-ils s’attendre aux épreuves comme un élément normal de la vie chrétienne?
-B. Comment le conseil de Pierre s’accorde-t-il avec d’autres textes du Nouveau Testament? (*Voir Matthieu 5:10-12; 24:9; Jean 15:20; 2 Cor. 12:10; 2  Timothée 3:12; 1 Pierre 1:6, 7; Jacques 1:2-4, 12.*) 
+- A. Pourquoi les croyants doivent-ils s’attendre aux épreuves comme un élément normal de la vie chrétienne?
+- B. Comment le conseil de Pierre s’accorde-t-il avec d’autres textes du Nouveau Testament? (*Voir Matthieu 5:10-12; 24:9; Jean 15:20; 2 Cor. 12:10; 2  Timothée 3:12; 1 Pierre 1:6, 7; Jacques 1:2-4, 12.*) 
 
 2. **Ressentir: Se réjouir en endurant les épreuves.**
-A. Pourquoi, selon Pierre, un croyant doit-il se réjouir dans les épreuves? 
-B. Comment devrions-nous répondre à ceux qui nous insultent à cause du  nom de Christ?
+- A. Pourquoi, selon Pierre, un croyant doit-il se réjouir dans les épreuves? 
+- B. Comment devrions-nous répondre à ceux qui nous insultent à cause du  nom de Christ?
 
 3. **Agir: S’engager à être fidèle.**
-A. Quelle est la différence entre le désir d’être fidèle et un engagement à
-être fidèle?
-B. Pourquoi Pierre mentionne-t-il notre Créateur « fidèle » (*1 Pie. 4:19*)? (*Comparez avec Apo. 3:14*). Quelles sont les implications de notre engagement à être fidèles?
+- A. Quelle est la différence entre le désir d’être fidèle et un engagement àêtre fidèle?
+- B. Pourquoi Pierre mentionne-t-il notre Créateur « fidèle » (*1 Pie. 4:19*)? (*Comparez avec Apo. 3:14*). Quelles sont les implications de notre engagement à être fidèles?
 
 ###Résumé
 
@@ -66,14 +65,13 @@ Les versets 14 et 16 contiennent deux propositions au conditionnel introduites p
 
 **III. Un temps de jugement** (*Relisez 1 Pierre 4:17, 18, avec votre classe*).
 
- Dans 1 Pierre 4:17, Pierre fournit la justification de la raison pour laquelle es lecteurs doivent s’attendre à une épreuve de feu en ce moment. Il l’a déjà  expliqué, « la fin de toutes choses est proche » (*1 Pierre 4:7*). Dans son  eschatologie, il envisage un jugement précédant la venue, comme celui  prophétisé par Ézéchiel 9, qui commencera par la maison de Dieu  (maintenant l’église plutôt que le temple). Ce jugement purifiera les membres  de la maison de Dieu en séparant les méchants de ceux « qui soupirent et  qui gémissent à cause de toutes les abominations qui s’y commettent. »  (*Ézéchiel 9:4, LSG*). L’épreuve ardente de la persécution assumera une telle  fonction. Ézéchiel 9:6 rapporte les paroles de l’homme vêtu de lin: « Commencez [le massacre] par Mon sanctuaire! Ils commencèrent par les  anciens qui étaient devant la maison ». En citant Proverbes 11:31 pour cadrer  le contexte, Pierre demande: « Or, si c’est par nous qu’il [le jugement]  commence, quelle sera la fin de ceux qui n’obéissent pas à l’évangile de  Dieu? » (*1 Pie. 4:17, LSG*). 
+Dans 1 Pierre 4:17, Pierre fournit la justification de la raison pour laquelle es lecteurs doivent s’attendre à une épreuve de feu en ce moment. Il l’a déjà  expliqué, « la fin de toutes choses est proche » (*1 Pierre 4:7*). Dans son  eschatologie, il envisage un jugement précédant la venue, comme celui  prophétisé par Ézéchiel 9, qui commencera par la maison de Dieu  (maintenant l’église plutôt que le temple). Ce jugement purifiera les membres  de la maison de Dieu en séparant les méchants de ceux « qui soupirent et  qui gémissent à cause de toutes les abominations qui s’y commettent. »  (*Ézéchiel 9:4, LSG*). L’épreuve ardente de la persécution assumera une telle  fonction. Ézéchiel 9:6 rapporte les paroles de l’homme vêtu de lin: « Commencez [le massacre] par Mon sanctuaire! Ils commencèrent par les  anciens qui étaient devant la maison ». En citant Proverbes 11:31 pour cadrer  le contexte, Pierre demande: « Or, si c’est par nous qu’il [le jugement]  commence, quelle sera la fin de ceux qui n’obéissent pas à l’évangile de  Dieu? » (*1 Pie. 4:17, LSG*). 
  
 **Considérez ceci:** Dans Ézéchiel 8, nous lisons que Dieu montre au  prophète, en vision, quatre grandes choses détestables qui sont commises  dans la maison de Dieu (le temple de Jérusalem), au point de L’irriter.  Ézéchiel 9 rapporte le jugement de Dieu sur Son peuple qui a commis ces  abominations dans Sa maison. Dieu demande à l’homme vêtu de lin avec  l’encrier du scribe à ses côtés : « Passe au milieu de la ville, au milieu de  Jérusalem, et fais une marque sur le front des hommes qui soupirent et qui  gémissent à cause de toutes les abominations qui s’y commettent » (*Ézéchiel  9:4, LSG*). Puis, six hommes avec des armes de destruction dans leurs mains  furent incités à suivre l’homme vêtu de lin à travers la ville et de tuer tous  sans pitié. « Mais n’approchez pas de quiconque aura sur lui la marque »  (*Ézéchiel 9:6, LSG*). Pierre voit en cela une illustration du jugement commençant par la maison de Dieu. Que symbolise cette marque, et  pourquoi le peuple de Dieu cherchera avec ferveur à la recevoir? 
 
 **Discussion:**
 
 1. Quelle est notre attitude envers les épreuves et les souffrances dans notre vie?
-
 2. Pourquoi devons-nous nous confier à Dieu comme notre fidèle Créateur et continuer à faire ce qui est juste, tout en luttant contre les épreuves  difficiles?
 
 ### ÉTAPE 3—Appliquer
@@ -81,10 +79,9 @@ Les versets 14 et 16 contiennent deux propositions au conditionnel introduites p
 **Pour les moniteurs:** Pierre écrit, en citant Proverbes 11:31: « Et si le juste se sauve avec peine, que deviendront l’impie et le pécheur? » (*1 Pie. 4:18, LSG*). Cette condition est pourtant une réalité, car en effet, c’est avec peine qu’une personne juste sera sauvée. Que veut dire l’Écriture par cette déclaration? Certains ont insisté sur le fait qu’il est plus facile d’être sauvé que d’être perdu. Comment le chrétien doit-il comprendre cette  problématique? 
 
 **À méditer:**
+
 1. Si je me trouve en train de me demander pourquoi je devrais endurer des  épreuves dans la vie, pourquoi cette attitude est-elle mauvaise? 
-
 2. Qu’est-ce qui doit arriver dans ma vie pour me permettre d’avoir la bonne  attitude lors des épreuves à venir? Comment répondrais-je actuellement à  ces épreuves?
-
 3. Comment Dieu est-Il un Créateur fidèle et digne de confiance dans ma propre vie? 
 
 **Activité:** Discutez avec la classe à propos des régions du monde où les  chrétiens souffrent actuellement pour leur foi et de la façon dont ils font  face à la persécution. Organisez des groupes de prière pour intercéder pour eux et pour les membres de la classe qui font face ou qui feront bientôt face  aux épreuves. 
