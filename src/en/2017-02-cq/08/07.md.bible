@@ -1,11 +1,21 @@
 ---
-title:  Tell About Jesus
-date:   19/05/2017
+title: 'Tell About Jesus'
+date: 19/05/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Matt 4:19': '<h3> <span>Matthew 4:19</span></h3><p> <span><sup>19&#xA0;</sup>Then He said to them, <span>&#x201C;Follow Me, and I will make you fishers of men.&#x201D;</span> </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Matt 4:19': '<h3> <span>Matthew 4:19</span></h3><p><span><sup>19&#xA0;</sup>And he saith unto them, Follow me, and I will make you fishers of men.</span></p>'
+
 ---
 
 ### Tell About Jesus
 
-Matt. 4:19
+<a class="verse" verse="Matt 4:19">Matt. 4:19</a>
 
 **CONCLUDE**
 

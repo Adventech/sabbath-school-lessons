@@ -1,11 +1,21 @@
 ---
-title:  Dying to Live
-date:   24/05/2017
+title: 'Dying to Live'
+date: 24/05/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Gal 2:20': '<h3> <span>Galatians 2:20</span></h3><p> <span><sup>20&#xA0;</sup>I have been crucified with Christ; it is no longer I who live, but Christ lives in me; and the <i>life</i> which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself for me. </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Gal 2:20': '<h3> <span>Galatians 2:20</span></h3><p><span><sup>20&#xA0;</sup>I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.</span></p>'
+
 ---
 
 ### Dying to Live
 
-Gal. 2:20
+<a class="verse" verse="Gal 2:20">Gal. 2:20</a>
 
 It feels like just yesterday—the day I died. None of my friends from junior high school had chosen my high school. When second semester began, I met a new friend in general science class, and she introduced me to several new people. My high school experience changed in an instant. I hadn’t realized how alone I felt until I made friends. When one of those new friends asked me whether I was going to the skating rink uptown that night, I died.
 
