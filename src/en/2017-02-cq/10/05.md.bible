@@ -1,11 +1,21 @@
 ---
-title:  The Sun Is Rising
-date:   31/05/2017
+title: 'The Sun Is Rising'
+date: 31/05/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            '2 Pet 1:19': '<h3> <span>2 Peter 1:19</span></h3><p><span><sup>19&#xA0;</sup>And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts; </span> </p>'
+    -
+        name: KJV
+        verses:
+            '2 Pet 1:19': '<h3> <span>2 Peter 1:19</span></h3><p><span><sup>19&#xA0;</sup>We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:</span></p>'
+
 ---
 
 ### The Sun Is Rising
 
-2 Pet. 1:19
+<a class="verse" verse="2 Pet 1:19">2 Pet. 1:19</a>
 
 One of the oldest adages found in English says, “You can lead a horse to water, but you can’t make it drink.” This aphorism is certainly true in the Christian life. A person can easily adopt the activities of Christianity, such as going to church, singing Christian songs, owning a Bible, or even memorizing its verses. But having true faith in a saving relationship with Christ is altogether a different object.
 
