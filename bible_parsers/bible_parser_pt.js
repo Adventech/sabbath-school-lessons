@@ -111,6 +111,7 @@ function parse_pt(read, callback){
         {"s": "Apoc.", "r": "Ap."},
         {"s": "I Tim.", "r": "1 Tim."},
         {"s": "II Tim.", "r": "2 Tim."},
+        {"s": "Jo ", "r": "João "}
       ];
 
       var verse = customTrim(verses[i], " ;,()<>.:-");
