@@ -4,7 +4,11 @@ date:   23/06/2017
 ---
 
 ### Mère d’une multitude: 3e partie
+<<<<<<< HEAD
 \
+=======
+
+>>>>>>> d7d276eb4afc7e55700a107ae6dcb9f02232a0ea
 Le pasteur dans la ville natale de Pierre nous dit que l’église planifiait des réunions d’évangélisation, et Pierre  promit de participer. Par la suite, le pasteur m’informa que Pierre avait été baptisé et qu’il fréquentait  fidèlement l’église. Une brebis perdue avait retrouvé le chemin de sa maison. 
 
 D’autres garçons dans notre groupe ont quitté la ville, promettant de rentrer chez eux. 
