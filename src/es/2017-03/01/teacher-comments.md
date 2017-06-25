@@ -1,6 +1,10 @@
 ---
 title:  Teacher Comments
+<<<<<<< HEAD
 date:   31/03/2017
+=======
+date:   30/06/2017
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 ---
 
 **Texto Clave:** Hechos 11:18.
@@ -16,15 +20,27 @@ date:   31/03/2017
 ### Bosquejo de la Lección
 
 1. **Saber: Id a todo el mundo**
+<<<<<<< HEAD
+=======
+
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 A. ¿Qué circunstancias rodearon el desarrollo del ministerio de la joven iglesia a los gentiles?
 B. ¿Por qué la predicación del evangelio a los gentiles fue una práctica tan revolucionaria para los primeros cristianos y cómo respondieron ellos a este desafío?
 
 2. **Sentir: Desafíos y tensiones**
+<<<<<<< HEAD
+=======
+
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 A. ¿Qué efecto tuvieron las persecuciones de Pablo en la iglesia primitiva?
 B. ¿En qué variedad de formas respondieron los líderes de la iglesia primitiva al transformador llamado de Pablo al ministerio del evangelismo?
 C. ¿Cómo resolvió la joven iglesia las tensiones que surgieron por el cambiante ministerio de la evangelización a los gentiles?
 
 3. **Hacer: Apto para el servicio**
+<<<<<<< HEAD
+=======
+
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 A. ¿Qué transformaciones necesitamos a fin de ser aptos para el ministerio?
 B. ¿Cómo podríamos aprender a adaptarnos, como lo hizo la iglesia primitiva, a los cambios por los que pasa el ministerio del evangelismo?
 C. ¿A qué desafíos diferentes nos enfrentamos como iglesia tardía y qué transformaciones necesitamos?
@@ -55,9 +71,15 @@ Esta semana estudiaremos a alguien que estaba siguiendo este rumbo: Saulo de Tar
 
 **I. El observador culpable**
 
+<<<<<<< HEAD
 *(Repasa, con tu clase, Hechos 7:58 y 8:1-5.)*
 
 En inglés hay una expresión: *“I’ll hold your coat for you”* [Yo sostendré tu manto]. Así como muchas otras expresiones, es posible que haya venido de la Biblia; en este caso, de Hechos 7:58. Puede ser utilizada en una de dos formas. Una puede ser una aprobación de un acto de violencia o agresión que la persona no está dispuesta a realizar por sí misma, o puede ser un comentario mordaz acerca de la sed de sangre de una persona que nunca asumiría el riesgo de derramarla ella misma.
+=======
+*(Repasa, con tu clase, Hech. 7:5-8 y 8:1-5.)*
+
+En inglés hay una expresión: *“I’ll hold your coat for you”* [Yo sostendré tu manto]. Así como muchas otras expresiones, es posible que haya venido de la Biblia; en este caso, de Hechos 7:5-8. Puede ser utilizada en una de dos formas. Una puede ser una aprobación de un acto de violencia o agresión que la persona no está dispuesta a realizar por sí misma, o puede ser un comentario mordaz acerca de la sed de sangre de una persona que nunca asumiría el riesgo de derramarla ella misma.
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 
 Como cristianos y estudiosos de la Biblia, vemos a Saulo de Tarso como un gran perseguidor. Pero sabemos poco acerca de él o de sus actividades previas a los eventos relatados en estos versículos. ¿Tenía una opinión tajante acerca de los primeros cristianos antes de ver a Esteban predicar? Obviamente, la predicación de Esteban fue suficiente para motivarlo a tomar ciertas medidas, pero ¿por qué? ¿Sentía atracción por el mensaje al mismo tiempo que sentía rechazo? ¿Sabía que era verdad, aunque intentaba forzarse a sí mismo y a otros a creer que no lo era?
 
@@ -75,11 +97,19 @@ Considera: ¿Has tomado una mala decisión alguna vez? ¿Una decisión que tuvo 
 
 Es acertado referirnos al evento mencionado o discutido en los pasajes citados como una conversión, pero no es realmente adecuado. Las palabras bíblicas que generalmente traducimos como “conversión” (sub en hebreo y epistrofe en griego, respectivamente) hacen referencia a un regreso a Dios o al camino que lleva hacia Dios. Como tal, es un acto de la voluntad, con la ayuda de Dios o de su Espíritu.
 
+<<<<<<< HEAD
 Pablo, por otro lado, no volvió sino que más bien se le hizo volver. Hasta el momento en que el Cristo vivo se le aparece y lo incapacita, no vemos señales de un cambio de corazón en Saulo. Los capítulos 8 y 9 no nos dicen nada acerca de su estado interno. Vemos mucho de su estado exterior, descripto vívidamente en términos que evocan un feroz animal predador (Hech. 8:3). ¿Estaba trabajando el Espíritu Santo en él? Sin dudas, pero verlo hubiera requerido una fe más grande que la que tenía o tiene la mayoría de la gente.
+=======
+Pablo, por otro lado, no volvió sino que más bien se le hizo volver. Hasta el momento en que el Cristo vivo se le aparece y lo incapacita, no vemos señales de un cambio de corazón en Saulo. Los capítulos 8 y 9 no nos dicen nada acerca de su estado interno. Vemos mucho de su estado exterior, descripto vívidamente en términos que evocan un feroz animal predador (Hechos  8:3). ¿Estaba trabajando el Espíritu Santo en él? Sin dudas, pero verlo hubiera requerido una fe más grande que la que tenía o tiene la mayoría de la gente.
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 
 La experiencia que tuvo Saulo fue una conversión que resultó en un giro dramático de su camino anterior. Y aunque el llamado y la experiencia fueron abrumadoras y la idea misma al lector le puede resultar absurda, Saulo podría, al menos en teoría, haberla rechazado. ¿Pero qué sucedió en realidad? En primer lugar, Saulo fue privado de sus facultades, incluida su vista. Dios le quitó las cosas de las que Saulo dependía. Todo lo que pudo hacer fue sentarse y escuchar. Y cuando Dios finalmente tuvo toda su atención, le dio a Saulo una revelación, una revelación que luego describió en varios lugares como un destello del Cristo resucitado.
 
 Aunque hubo muchos escépticos, Pablo no vaciló en relacionar su experiencia a la de los apóstoles que habían caminado y hablado con Jesucristo durante su ministerio en la tierra.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
 Jesucristo le dio lo mejor que tenía a Saulo, un hombre que merecía lo peor. Para algunos, su generosidad puede haber sido desconcertante o inclusive indignante. Pero si uno es consciente de su condición de pecador necesitado de la gracia, la conversión de Saulo demuestra cuán ilimitada y poderosa es la gracia.
 
 **Considera:** Mientras que todos afirmamos creer en la gracia de Dios, a veces podemos estar tentados a imaginar que Jesús la concede en cucharadas estrictamente medidas. ¿Por qué nos vemos tentados a pensar de esta manera? ¿Cuándo podemos llegar a desear que eso fuera así?
@@ -108,4 +138,8 @@ Solo para los maestros: La historia de Saulo es más que nada una historia de la
 
 En nuestras vidas, todos los días nos enfrentamos a situaciones o a personas desafiantes. ¿Cómo reaccionamos? ¿Nos encolerizamos? ¿Decimos ciertas palabras o frases cuando pensamos que nadie las puede escuchar? ¿Alimentamos nuestro rencor en silencio?
 
+<<<<<<< HEAD
 La semana que viene, piensa en la gracia cuando te enfrentes a una situación o relación desafiante. Considérala como una oportunidad de aprendizaje o una oportunidad para practicar cómo mostrar la gracia. Cuando los pensamientos habituales entren en tu mente y salgan de tu boca, piensa y di algo en lugar de eso. Protege tus pensamientos con un versículo bíblico aplicable a la situación. Comparte tu experiencia la próxima semana. ¿Cómo el practicar la gracia cambió tu forma de actuar y de sentir durante esas situaciones?
+=======
+La semana que viene, piensa en la gracia cuando te enfrentes a una situación o relación desafiante. Considérala como una oportunidad de aprendizaje o una oportunidad para practicar cómo mostrar la gracia. Cuando los pensamientos habituales entren en tu mente y salgan de tu boca, piensa y di algo en lugar de eso. Protege tus pensamientos con un versículo bíblico aplicable a la situación. Comparte tu experiencia la próxima semana. ¿Cómo el practicar la gracia cambió tu forma de actuar y de sentir durante esas situaciones?
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010

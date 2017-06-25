@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
   title: "El evangelio en Gálatas"
   description: "Muchos eruditos creen que Gálatas puede haber sido la primera carta de Pablo, escrita quizás en el año 49 d.C. Este libro podría ser el documento cristiano más antiguo conocido. Hecho y Gálatas dejan en claro que la iglesia primitiva se encontraba en fiera batalla sobre la naturaleza de la salvación, especialmente en el caso de los gentiles. Este trimestre acompañaremos al apóstol Pablo en su súplica a los Gálatas, para que permanezcan fieles a Jesús. Al mismo tiempo, también nos da la oportunidad de reflexionar en nuestra propia comprensión de las verdades que abrieron el camino para el inevitable quiebre de Martín Lutero con Roma, y la restauración del evangelio bíblico."
   human_date: "Tercer trimestre de 2017"
@@ -6,3 +7,12 @@
   end_date: "22/09/2017"
   color_primary: "#dc8b68"
   color_primary_dark: "#995a3e"
+=======
+  title: "El Evangelio En Gálatas"
+  description: "La Guía de Estudio de la Biblia para este trimestre nos invita a acompañar al apóstol Pablo al suplicarles a los Gálatas que permanecieran fieles a Jesús. Al mismo tiempo, también nos da la oportunidad de reflexionar en nuestra comprensión de las verdades que abrieron el camino para la ruptura inevitable de Martín Lutero con Roma, y la restauración del evangelio bíblico."
+  human_date: "Julio - Septiembre 2017"
+  start_date: "24/06/2017"
+  end_date: "29/09/2017"
+  color_primary: "#C19051"
+  color_primary_dark: "#8F6334"
+>>>>>>> 32845bed471302325a19a9d7d442e528f83c7010
