@@ -223,7 +223,7 @@ var create_lessons_api = function(language, quarterly){
     try {
       fs.lstatSync(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
       fs.copySync(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
-      lesson.lesson.cover = API_HOST + API_VERSION + "/" + lesson.lesson.path + "/" + SOURCE_COVER_FILE;
+      lesson.lesson.cover = API_HOST + API_VERSION + "/" + lesson.lesson.path + "/" + SOURCE_COVER_FILE + "?"+ Math.round((new Date()).getTime() / 1000);
     } catch (err) {}
 
     lesson.days = create_days_api(language, quarterly, _lessons[i]);
@@ -285,7 +285,7 @@ var create_quarterlies_api = function(language){
     quarterly.quarterly.index = language + "-" + _quarterlies[i];
     quarterly.quarterly.path = language + "/quarterlies/" + _quarterlies[i];
     quarterly.quarterly.full_path = API_HOST + API_VERSION + "/" + language + "/quarterlies/" + _quarterlies[i];
-    quarterly.quarterly.cover = API_HOST + API_VERSION + "/" + quarterly.quarterly.path + "/" + SOURCE_COVER_FILE;
+    quarterly.quarterly.cover = API_HOST + API_VERSION + "/" + quarterly.quarterly.path + "/" + SOURCE_COVER_FILE + "?"+ Math.round((new Date()).getTime() / 1000);
 
     quarterly.lessons = create_lessons_api(language, _quarterlies[i]);
 
