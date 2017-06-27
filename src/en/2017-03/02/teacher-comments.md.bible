@@ -1,11 +1,25 @@
 ---
-title:  Teacher Comments
-date:   07/07/2017
+title: 'Teacher Comments'
+date: 07/07/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Galatians 1:11–24': '<h3> <span>Galatians 1:11-24</span></h3><p><span><sup>11&#xA0;</sup>But I make known to you, brethren, that the gospel which was preached by me is not according to man. </span> <span><sup>12&#xA0;</sup>For I neither received it from man, nor was I taught <i>it,</i> but <i>it came</i> through the revelation of Jesus Christ.</span></p><p><span><sup>13&#xA0;</sup>For you have heard of my former conduct in Judaism, how I persecuted the church of God beyond measure and <i>tried to</i> destroy it. </span> <span><sup>14&#xA0;</sup>And I advanced in Judaism beyond many of my contemporaries in my own nation, being more exceedingly zealous for the traditions of my fathers.</span></p><p><span><sup>15&#xA0;</sup>But when it pleased God, who separated me from my mother&#x2019;s womb and called <i>me</i> through His grace, </span> <span><sup>16&#xA0;</sup>to reveal His Son in me, that I might preach Him among the Gentiles, I did not immediately confer with flesh and blood, </span> <span><sup>17&#xA0;</sup>nor did I go up to Jerusalem to those <i>who were</i> apostles before me; but I went to Arabia, and returned again to Damascus.</span></p><p><span><sup>18&#xA0;</sup>Then after three years I went up to Jerusalem to see Peter, and remained with him fifteen days. </span> <span><sup>19&#xA0;</sup>But I saw none of the other apostles except James, the Lord&#x2019;s brother. </span> <span><sup>20&#xA0;</sup>(Now <i>concerning</i> the things which I write to you, indeed, before God, I do not lie.)</span></p><p><span><sup>21&#xA0;</sup>Afterward I went into the regions of Syria and Cilicia. </span> <span><sup>22&#xA0;</sup>And I was unknown by face to the churches of Judea which <i>were</i> in Christ. </span> <span><sup>23&#xA0;</sup>But they were hearing only, &#x201C;He who formerly persecuted us now preaches the faith which he once <i>tried to</i> destroy.&#x201D; </span> <span><sup>24&#xA0;</sup>And they glorified God in me.</span></p>'
+            '2 Peter 3:15, 16': '<h3> <span>2 Peter 3:15</span></h3><p> <span><sup>15&#xA0;</sup>and consider <i>that</i> the longsuffering of our Lord <i>is</i> salvation&#x2014;as also our beloved brother Paul, according to the wisdom given to him, has written to you, </span> </p><h3> <span>2 Peter 3:16</span></h3><p> <span><sup>16&#xA0;</sup>as also in all his epistles, speaking in them of these things, in which are some things hard to understand, which untaught and unstable <i>people</i> twist to their own destruction, as <i>they do</i> also the rest of the Scriptures.</span></p>'
+            'Galatians 1:10': '<h3> <span>Galatians 1:10</span></h3><p><span><sup>10&#xA0;</sup>For do I now persuade men, or God? Or do I seek to please men? For if I still pleased men, I would not be a bondservant of Christ.</span></p>'
+    -
+        name: KJV
+        verses:
+            'Galatians 1:11–24': '<h3> <span>Galatians 1:11-24</span></h3><p><span><sup>11&#xA0;</sup>But I certify you, brethren, that the gospel which was preached of me is not after man.</span></p><p><span><sup>12&#xA0;</sup>For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.</span></p><p><span><sup>13&#xA0;</sup>For ye have heard of my conversation in time past in the Jews&apos; religion, how that beyond measure I persecuted the church of God, and wasted it:</span></p><p><span><sup>14&#xA0;</sup>And profited in the Jews&apos; religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.</span></p><p><span><sup>15&#xA0;</sup>But when it pleased God, who separated me from my mother&apos;s womb, and called me by his grace,</span></p><p><span><sup>16&#xA0;</sup>To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:</span></p><p><span><sup>17&#xA0;</sup>Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.</span></p><p><span><sup>18&#xA0;</sup>Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.</span></p><p><span><sup>19&#xA0;</sup>But other of the apostles saw I none, save James the Lord&apos;s brother.</span></p><p><span><sup>20&#xA0;</sup>Now the things which I write unto you, behold, before God, I lie not.</span></p><p><span><sup>21&#xA0;</sup>Afterwards I came into the regions of Syria and Cilicia;</span></p><p><span><sup>22&#xA0;</sup>And was unknown by face unto the churches of Judaea which were in Christ:</span></p><p><span><sup>23&#xA0;</sup>But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.</span></p><p><span><sup>24&#xA0;</sup>And they glorified God in me.</span></p>'
+            '2 Peter 3:15, 16': '<h3> <span>2 Peter 3:15</span></h3><p><span><sup>15&#xA0;</sup>And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;</span></p><h3> <span>2 Peter 3:16</span></h3><p><span><sup>16&#xA0;</sup>As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.</span></p>'
+            'Galatians 1:10': '<h3> <span>Galatians 1:10</span></h3><p><span><sup>10&#xA0;</sup>For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.</span></p>'
+
 ---
 
 ### _The Lesson in Brief_
 
-**Key Texts**: Galatians 1:10
+**Key Texts**: <a class="verse" verse="Galatians 1:10">Galatians 1:10</a>
 
 #### **The Student Will:**
 
@@ -51,7 +65,7 @@ The world in which Paul wrote Galatians was not so different. There were many pe
 
 ### **Bible Commentary**
 
-**I. “According to the Wisdom Given to Him . . .”** (Review 2 Peter 3:15, 16 with your class.)
+**I. “According to the Wisdom Given to Him . . .”** (Review <a class="verse" verse="2 Peter 3:15, 16">2 Peter 3:15, 16</a> with your class.)
 
 Most well-informed Bible students are aware that the earliest Christians knew no other Scriptures than the Old Testament and that the New Testament, as we know it, did not take shape until the second century at the earliest. Yet, 2 Peter refers to the letters of Paul as scriptures, or at least implies such status by equating them with “other scriptures.” Some scholars have, therefore, proposed a late date for 2 Peter, even denying Peter’s authorship. How could the author know, they ask, that the letters of Paul would be accorded the status of Scripture?
 
@@ -63,7 +77,7 @@ This point brings us to the specific situation Paul addresses in Galatians. The 
 
 **Consider This**: How is the attitude shown toward Paul by his opponents seen in attempts to undermine the authority of the Scriptures today?
 
-**II. Paul’s Authority** (Review Galatians 1:11–24 with your class.)
+**II. Paul’s Authority** (Review <a class="verse" verse="Galatians 1:11–24">Galatians 1:11–24</a> with your class.)
 
 As we have seen, Paul’s opponents attacked him on the basis of his personal qualities and the soundness of his calling and teachings.
 
