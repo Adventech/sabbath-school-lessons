@@ -38,7 +38,7 @@ function scrape(verseKey, verseFind, version, cb){
               var raw = $(e).text().trim();
               raw = raw.substr(0, (raw.indexOf("\n")>-1) ? raw.indexOf("\n") : raw.length);
 
-              if (raw.indexOf("Паралельные места") == -1){
+              if (raw.indexOf("Параллельные места") == -1){
                 v_t.push("<h3>"+raw+"</h3><p>");
               }
             });
