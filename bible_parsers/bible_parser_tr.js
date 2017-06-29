@@ -148,7 +148,7 @@ function scrape(verseKey, verseFind, version, cb){
 }
 
 function parse_tr(read, callback){
-  var bible_books = "Yar|Çık|Lev|Say|Yas|Yşu|Hak|Rut|1Sa|2Sa|1Kr|2Kr|1 Ta|1Ta|2Ta|Ezr|Neh|Est|Eyü|Mez|Özd|Vai|Ezg|Yşa|Yer|Ağı|Hez|Dan|Hoş|Yoe|Amo|Ova|Yun|Mik|Nah|Hab|Sef|Hag|Zek|Mal|Mat|Mar|Luk|Yu|Elç|Rom|1Ko|2Ko|Gal|Ef|Flp|Kol|1Se|2Se|1Ti|2Ti|Tit|Flm|İbr|Yak|1Pe|2Pe|1Yu|2Yu|3Yu|Yah|Va";
+  var bible_books = "Yar|Çık|Lev|Say|Yas|Yşu|Hak|Rut|1Sa|2Sa|1Kr|2Kr|1 Ta|1Ta|2Ta|Ezr|Neh|Est|Eyü|Mez|Özd|Vai|Ezg|Yşa|Yer|Ağı|Hez|Dan|Hoş|Yoe|Amo|Ova|Yun|Mik|Nah|Hab|Sef|Hag|Zek|Mal|Mat|Mar|Luk|Yu|Elç|Rom|1Ko|2Ko|Gal|Ef|Flp|Kol|1Se|2Se|1Ti|2Ti|Tit|Flm|İbr|Yak|1Pe|2Pe|1Yu|2Yu|3Yu|Yah|Va|Tekvin|Çıkış|Levililer|Sayılar|Tesniye|Yeşu|Hakimler|Rut|1 ?\.?Samuel|2 ?\.?Samuel|1 ?\.?Krallar|2 ?\.?Krallar|1 ?\.?Paralipomenon|2 ?\.?Paralipomenon|Ezra|Nehemya|Esther|Eyüp|Zebur|Atasözleri|Eski ?\.?Ahit'te ?\.?Hazreti ?\.?Süleyman'a ?\.?yazılan ?\.?kitap|Süleyman'ın ?\.?Şarkısı|İşaya|Yeremya|Ağıtlar ?\.?Kitabı|Hezekiel|Daniel|Hoşea|Yoel|Amos|Obadya|Yunus|Mika|Nahum|Habakkuk|Sefanya|Hagay|Zekeriya|Malaki|Matta|Markos|Luke|Yuhanna|Resullerin ?\.?işleri|Romalılar|1 ?\.?Korintoslulara|2 ?\.?Korintoslulara|1 ?\.?Korintliler|2 ?\.?Korintliler|Galatlar|Efesliler|Filipililer|Koloseliler|1 ?\.?Selanikliler|2 ?\.?Selanikliler|1 ?\.?Timoteosa|2 ?\.?Timoteosa|Titusa|Filimona|İbraniler|Yakub|1 ?\.?Petrus|2 ?\.?Petrus|1 ?\.?Yuhanna|2 ?\.?Yuhanna|3 ?\.?Yuhanna|Yahuda|Vahiy";
   var bible_regexp = new RegExp("(("+bible_books+")\\.?\\ ([0-9\\.;,: \\-\\–](?!"+bible_books+"))+)", "ig");
   var bible_book_regexp = new RegExp("("+bible_books+")\\.?", "ig");
 
@@ -208,6 +208,75 @@ function parse_tr(read, callback){
 
 
         var tr_verse_replacement = [
+            {"s": "Tekvin", "r": "Gen"},
+            {"s": "Çıkış", "r": "Exod"},
+            {"s": "Levililer", "r": "Lev"},
+            {"s": "Sayılar", "r": "Num"},
+            {"s": "Tesniye", "r": "Deut"},
+            {"s": "Yeşu", "r": "Josh"},
+            {"s": "Hakimler", "r": "Judg"},
+            {"s": "Rut", "r": "Ruth"},
+            {"s": "1 Samuel", "r": "1Sam"},
+            {"s": "2 Samuel", "r": "2Sam"},
+            {"s": "1 Krallar", "r": "1Kgs"},
+            {"s": "2 Krallar", "r": "2Kgs"},
+            {"s": "1 Paralipomenon", "r": "1Chr"},
+            {"s": "2 Paralipomenon", "r": "2Chr"},
+            {"s": "Ezra", "r": "Ezra"},
+            {"s": "Nehemya", "r": "Neh"},
+            {"s": "Esther", "r": "Esth"},
+            {"s": "Eyüp", "r": "Job"},
+            {"s": "Zebur", "r": "Ps"},
+            {"s": "Atasözleri", "r": "Prov"},
+            {"s": "Eski Ahit'te Hazreti Süleyman'a yazılan kitap", "r": "Eccl"},
+            {"s": "Süleyman'ın Şarkısı", "r": "Song"},
+            {"s": "İşaya", "r": "Isa"},
+            {"s": "Yeremya", "r": "Jer"},
+            {"s": "Ağıtlar Kitabı", "r": "Lam"},
+            {"s": "Hezekiel", "r": "Ezek"},
+            {"s": "Daniel", "r": "Dan"},
+            {"s": "Hoşea", "r": "Hos"},
+            {"s": "Yoel", "r": "Joel"},
+            {"s": "Amos", "r": "Amos"},
+            {"s": "Obadya", "r": "Obad"},
+            {"s": "Yunus", "r": "Jonah"},
+            {"s": "Mika", "r": "Mic"},
+            {"s": "Nahum", "r": "Nah"},
+            {"s": "Habakkuk", "r": "Hab"},
+            {"s": "Sefanya", "r": "Zeph"},
+            {"s": "Hagay", "r": "Hag"},
+            {"s": "Zekeriya", "r": "Zech"},
+            {"s": "Malaki", "r": "Mal"},
+            {"s": "Matta", "r": "Mat"},
+            {"s": "Markos", "r": "Mark"},
+            {"s": "Luke", "r": "Luke"},
+            {"s": "Yuhanna", "r": "John"},
+            {"s": "Resullerin işleri", "r": "Acts"},
+            {"s": "Romalılar", "r": "Rom"},
+            {"s": "1 ?.?Korintoslulara", "r": "1Cor"},
+            {"s": "2 ?.?Korintoslulara", "r": "2Cor"},
+            {"s": "1 ?.?Korintliler", "r": "1Cor"},
+            {"s": "2 ?.?Korintliler", "r": "2Cor"},
+            {"s": "Galatlar", "r": "Gal"},
+            {"s": "Efesliler", "r": "Eph"},
+            {"s": "Filipililer", "r": "Phil"},
+            {"s": "Koloseliler", "r": "Col"},
+            {"s": "1 ?.?Selanikliler", "r": "1Thess"},
+            {"s": "2 ?.?Selanikliler", "r": "2Thess"},
+            {"s": "1 ?.?Timoteosa", "r": "1Tim"},
+            {"s": "2 ?.?Timoteosa", "r": "2Tim"},
+            {"s": "Titusa", "r": "Titus"},
+            {"s": "Filimona", "r": "Phlm"},
+            {"s": "İbraniler", "r": "Heb"},
+            {"s": "Yakub", "r": "Jas"},
+            {"s": "1 ?.?Petrus", "r": "1Pet"},
+            {"s": "2 ?.?Petrus", "r": "2Pet"},
+            {"s": "1 ?.?Yuhanna", "r": "1John"},
+            {"s": "2 ?.?Yuhanna", "r": "2John"},
+            {"s": "3 ?.?Yuhanna", "r": "3John"},
+            {"s": "Yahuda", "r": "Jude"},
+            {"s": "Vahiy", "r": "Rev"},
+
             {"s": "Yar", "r": "Gen"},
             {"s": "Çık", "r": "Exod"},
             {"s": "Lev", "r": "Lev"},
@@ -275,12 +344,15 @@ function parse_tr(read, callback){
             {"s": "3Yu", "r": "3John"},
             {"s": "Yah", "r": "Jude"},
             {"s": "Va", "r": "Rev"}
+
+
         ];
 
         for (var sr = 0; sr < tr_verse_replacement.length; sr++){
-            if (find_verse.indexOf(tr_verse_replacement[sr]["s"]) == 0){
-                var new_verse = find_verse.replace(new RegExp(tr_verse_replacement[sr]["s"], "g"), tr_verse_replacement[sr]["r"]);
+            if (find_verse.match(new RegExp(tr_verse_replacement[sr]["s"], "ig"))){
+                var new_verse = find_verse.replace(new RegExp(tr_verse_replacement[sr]["s"], "ig"), tr_verse_replacement[sr]["r"]);
                 find_verse = new_verse;
+                break;
             }
         }
 
