@@ -1,0 +1,50 @@
+---
+title: 'The Law and the Believer'
+date: 10/08/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Galatians 3:25': '<h3> <span>Galatians 3:25</span></h3><p> <span><sup>25&#xA0;</sup>But after faith has come, we are no longer under a tutor.</span></p>'
+            'Rom 6:14, 15': '<h3> <span>Romans 6:14</span></h3><p> <span><sup>14&#xA0;</sup>For sin shall not have dominion over you, for you are not under law but under grace.</span></p><h3> <span>Romans 6:15</span></h3><p><span><sup>15&#xA0;</sup>What then? Shall we sin because we are not under law but under grace? Certainly not! </span> </p>'
+            'Romans 8:1–3': '<h3> <span>Romans 8:1-3</span></h3><p><span><span>8&#xA0;</span><i>There is</i> therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit. </span> <span><sup>2&#xA0;</sup>For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death. </span> <span><sup>3&#xA0;</sup>For what the law could not do in that it was weak through the flesh, God <i>did</i> by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh, </span> </p>'
+            '1 Thess 4:1': '<h3> <span>1 Thessalonians 4:1</span></h3><p><span><span>4&#xA0;</span>Finally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God; </span> </p>'
+            'Romans 8:4': '<h3> <span>Romans 8:4</span></h3><p> <span><sup>4&#xA0;</sup>that the righteous requirement of the law might be fulfilled in us who do not walk according to the flesh but according to the Spirit. </span> </p>'
+            'John 8:34': '<h3> <span>John 8:34</span></h3><p><span><sup>34&#xA0;</sup>Jesus answered them, <span>&#x201C;Most assuredly, I say to you, whoever commits sin is a slave of sin.</span> </span> </p>'
+            'Gal 5:18': '<h3> <span>Galatians 5:18</span></h3><p> <span><sup>18&#xA0;</sup>But if you are led by the Spirit, you are not under the law.</span></p>'
+            'Heb 8:10': '<h3> <span>Hebrews 8:10</span></h3><p> <span><sup>10&#xA0;</sup><span>For this</span> <i>is</i> <span>the covenant that I will make with the house of Israel after those days, says the <span style="font-variant: small-caps">Lord</span>: I will put My laws in their mind and write them on their hearts; and I will be their God, and they shall be My people.</span> </span> </p>'
+            'Gal 3:25': '<h3> <span>Galatians 3:25</span></h3><p> <span><sup>25&#xA0;</sup>But after faith has come, we are no longer under a tutor.</span></p>'
+            'Rom 8:3': '<h3> <span>Romans 8:3</span></h3><p> <span><sup>3&#xA0;</sup>For what the law could not do in that it was weak through the flesh, God <i>did</i> by sending His own Son in the likeness of sinful flesh, on account of sin: He condemned sin in the flesh, </span> </p>'
+            'Rom 8:4': '<h3> <span>Romans 8:4</span></h3><p> <span><sup>4&#xA0;</sup>that the righteous requirement of the law might be fulfilled in us who do not walk according to the flesh but according to the Spirit. </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Galatians 3:25': '<h3> <span>Galatians 3:25</span></h3><p><span><sup>25&#xA0;</sup>But after that faith is come, we are no longer under a schoolmaster.</span></p>'
+            'Rom 6:14, 15': '<h3> <span>Romans 6:14</span></h3><p><span><sup>14&#xA0;</sup>For sin shall not have dominion over you: for ye are not under the law, but under grace.</span></p><h3> <span>Romans 6:15</span></h3><p><span><sup>15&#xA0;</sup>What then? shall we sin, because we are not under the law, but under grace? God forbid.</span></p>'
+            'Romans 8:1–3': '<h3> <span>Romans 8:1-3</span></h3><p><span><span>8&#xA0;</span>There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.</span></p><p><span><sup>2&#xA0;</sup>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</span></p><p><span><sup>3&#xA0;</sup>For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:</span></p>'
+            '1 Thess 4:1': '<h3> <span>1 Thessalonians 4:1</span></h3><p><span><span>4&#xA0;</span>Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.</span></p>'
+            'Romans 8:4': '<h3> <span>Romans 8:4</span></h3><p><span><sup>4&#xA0;</sup>That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.</span></p>'
+            'John 8:34': '<h3> <span>John 8:34</span></h3><p><span><sup>34&#xA0;</sup>Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.</span></p>'
+            'Gal 5:18': '<h3> <span>Galatians 5:18</span></h3><p><span><sup>18&#xA0;</sup>But if ye be led of the Spirit, ye are not under the law.</span></p>'
+            'Heb 8:10': '<h3> <span>Hebrews 8:10</span></h3><p><span><sup>10&#xA0;</sup>For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:</span></p>'
+            'Gal 3:25': '<h3> <span>Galatians 3:25</span></h3><p><span><sup>25&#xA0;</sup>But after that faith is come, we are no longer under a schoolmaster.</span></p>'
+            'Rom 8:3': '<h3> <span>Romans 8:3</span></h3><p><span><sup>3&#xA0;</sup>For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:</span></p>'
+            'Rom 8:4': '<h3> <span>Romans 8:4</span></h3><p><span><sup>4&#xA0;</sup>That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.</span></p>'
+
+---
+
+_<a class="verse" verse="Gal 3:25">Gal. 3:25</a>_
+
+Many have interpreted Paul’s comment in <a class="verse" verse="Galatians 3:25">Galatians 3:25</a> as a complete dismissal of the law. This makes little sense, however, in light of Paul’s positive comments about the law elsewhere in the Bible.
+
+What does he mean then?
+
+First, we are no longer under the law’s condemnation (<a class="verse" verse="Rom 8:3">Rom. 8:3</a>). As believers, we are in Christ and enjoying the privilege of being under grace (<a class="verse" verse="Rom 6:14, 15">Rom. 6:14, 15</a>). This gives us the liberty of serving Christ wholeheartedly, without fear of being condemned for mistakes we might make in the process. This is what true freedom in the gospel is. This freedom is something radically different from no longer having to obey the law at all—which is what some people claim is “freedom” in Christ. But disobedience to the law, instead, is sin—and sin is anything but freedom (<a class="verse" verse="John 8:34">John 8:34</a>).
+
+`Read <a class="verse" verse="Romans 8:1–3">Romans 8:1–3</a>. What does it mean to be no longer condemned by the law? How should this wonderful truth impact how we live?`
+
+As a result of being forgiven through Christ, our relationship to the law is now different. We are now called to live a life that is pleasing to Him (<a class="verse" verse="1 Thess 4:1">1 Thess. 4:1</a>); Paul refers to this as being led by the Spirit (<a class="verse" verse="Gal 5:18">Gal. 5:18</a>). This does not mean that the moral law is no longer applicable— that was never the issue. How could it be when we have seen so clearly that the law is what defines sin?
+
+Instead, because the law is a transcript of God’s character, by obeying the law we simply reflect His character. But more than that, we follow not just a set of rules but the example of Jesus, who does for us what the law itself could never do: He writes the law on our hearts (<a class="verse" verse="Heb 8:10">Heb. 8:10</a>) and makes it possible for the righteous requirement of the law to be fulfilled in us (<a class="verse" verse="Rom 8:4">Rom. 8:4</a>). That is, through our relationship with Jesus, we have the power to obey the law as never before.
+
+`Read <a class="verse" verse="Romans 8:4">Romans 8:4</a>. What is Paul saying here? How have you seen this promise manifested in your own life? At the same time, despite whatever positive changes you have experienced, why must salvation always be based on what Christ has done for us and nothing else?`
