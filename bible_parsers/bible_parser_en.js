@@ -61,7 +61,7 @@ function scrape(verseKey, verseFind, version, cb){
 
 function parse_en(read, callback){
   var bible_books = "Gen|Exod|Exod|Lev|Num|Deut|Josh|Judg|Ruth|1 ?Sam|2 ?Sam|1 ?Kgs|2 ?Kgs|1 ?Chr|2 ?Chr|1 ?Chron|2 ?Chron|Ezra|Neh|Esth|Job|Ps|Prov|Eccl|Song|Isa|Jer|Lam|Ezek|Dan|Hos|Joel|Amos|Obad|Jonah|Mic|Nah|Hab|Zeph|Hag|Zech|Mal|Matt|Mark|Luke|John|Acts|Rom|1 ?Cor|2 ?Cor|Gal|Eph|Phil|Col|1 ?Thess|2 ?Thess|1 ?Tim|2 ?Tim|Titus|Phlm|Heb|Jas|1 ?Pet|2 ?Pet|1 ?John|2 ?John|3 ?John|Jude|Rev|Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|Ruth|1 Samuel|2 Samuel|1 Kings|2 Kings|1 Chronicles|2 Chronicles|Ezra|Nehemiah|Esther|Job|Psalms|Psalm|Proverbs|Ecclesiastes|Song of Solomon|Isaiah|Jeremiah|Lamentations|Ezekiel|Daniel|Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans|1 Corinthians|2 Corinthians|Galatians|Ephesians|Philippians|Colossians|1 Thessalonians|2 Thessalonians|1 Timothy|2 Timothy|Titus|Philemon|Hebrews|James|1 Peter|2 Peter|1 John|2 John|3 John|Jude|Revelation";
-  var bible_regexp = new RegExp("(("+bible_books+")\\.?\\ ([0-9\\.;,: \\-\\–](?!"+bible_books+"))+)", "ig");
+  var bible_regexp = new RegExp("(("+bible_books+")\\.?\\ ([0-9\\.;,: \\-\\–](\ and\ )?(?!"+bible_books+"))+)", "ig");
   var bible_book_regexp = new RegExp("("+bible_books+")\\.?", "ig");
 
   var verses = read.match(bible_regexp),
@@ -73,6 +73,12 @@ function parse_en(read, callback){
   if (verses){
     for (var i = 0; i < verses.length; i++){
       var verse = customTrim(verses[i], " ;,()<>.:-");
+
+      if (verse.indexOf(" and ") > 0){
+          var new_verse = verse.replace(" and ", ", ");
+          read = read.replace(new RegExp(verse, "ig"), new_verse);
+          verse = new_verse;
+      }
 
       if (((verse.split(",").length - 1) > 1) || (((verse.split(",").length - 1) == 1) && (verse.split("-").length - 1) > 0)){
         var tmp = verse.match(bible_book_regexp);
