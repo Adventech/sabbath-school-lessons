@@ -1,11 +1,19 @@
 ---
-title:  Auxiliar para o professor
-date:   07/07/2017
+title: Moderador
+date: 07/07/2017
+bible:
+    -
+        name: AA
+        verses:
+            'Gálatas 1:10': '<h3> <span>G&#xE1;latas 1:10</span></h3><p><span><sup>10&#xA0;</sup>Porque persuado eu agora a homens ou a Deus? Ou procuro agradar a homens? Se estivesse ainda agradando aos homens, n&#xE3;o seria servo de Cristo. </span> </p>'
+            '2Pe 3:15, 16': '<h3> <span>2 Pedro 3:15</span></h3><p> <span><sup>15&#xA0;</sup>e tende por salva&#xE7;&#xE3;o a longanimidade de nosso Senhor, como tamb&#xE9;m o nosso amado irm&#xE3;o Paulo vos escreveu, segundo a sabedoria que lhe foi dada, </span> </p><h3> <span>2 Pedro 3:16</span></h3><p> <span><sup>16&#xA0;</sup>falando disto, como em todas as <i class="added">suas</i> ep&#xED;stolas, entre as quais h&#xE1; pontos dif&#xED;ceis de entender, que os indoutos e inconstantes torcem e igualmente as outras Escrituras, para sua pr&#xF3;pria perdi&#xE7;&#xE3;o. </span> </p>'
+            'Gl 1:11-24': '<h3> <span>G&#xE1;latas 1:11-24</span></h3><p> <span><sup>11&#xA0;</sup>Mas fa&#xE7;o-vos saber, irm&#xE3;os, que o evangelho que por mim foi anunciado n&#xE3;o &#xE9; segundo os homens, </span> <span><sup>12&#xA0;</sup>porque n&#xE3;o o recebi, nem aprendi de homem algum, mas pela revela&#xE7;&#xE3;o de Jesus Cristo. </span> <span><sup>13&#xA0;</sup>Porque <i class="added">j&#xE1;</i> ouvistes qual foi antigamente a minha conduta no juda&#xED;smo, como sobremaneira perseguia a igreja de Deus e a assolava. </span> <span><sup>14&#xA0;</sup>E, na minha na&#xE7;&#xE3;o, excedia em juda&#xED;smo a muitos da minha idade, sendo extremamente zeloso das tradi&#xE7;&#xF5;es de meus pais. </span> <span><sup>15&#xA0;</sup>Mas, quando aprouve a Deus, que desde o ventre de minha m&#xE3;e me separou e me chamou pela sua gra&#xE7;a, </span> <span><sup>16&#xA0;</sup>revelar seu Filho em mim, para que o pregasse entre os gentios, n&#xE3;o consultei carne nem sangue, </span> <span><sup>17&#xA0;</sup>nem tornei a Jerusal&#xE9;m, a ter com os que <i class="added">j&#xE1;</i> antes de mim eram ap&#xF3;stolos, mas parti para a Ar&#xE1;bia e voltei outra vez a Damasco.</span></p><p><span><sup>18&#xA0;</sup>Depois, passados tr&#xEA;s anos, fui a Jerusal&#xE9;m para ver a Pedro e fiquei com ele quinze dias. </span> <span><sup>19&#xA0;</sup>E n&#xE3;o vi a nenhum outro dos ap&#xF3;stolos, sen&#xE3;o a Tiago, irm&#xE3;o do Senhor. </span> <span><sup>20&#xA0;</sup>Ora, <i class="added">acerca</i> do que vos escrevo, eis que diante de Deus testifico que n&#xE3;o minto. </span> <span><sup>21&#xA0;</sup>Depois, fui para as partes da S&#xED;ria e da Cil&#xED;cia. </span> <span><sup>22&#xA0;</sup>E n&#xE3;o era conhecido de vista das igrejas da Judeia, que estavam em Cristo; </span> <span><sup>23&#xA0;</sup>mas somente tinham ouvido <i class="added">dizer:</i> Aquele que j&#xE1; nos perseguiu anuncia, agora, a f&#xE9; que, antes, destru&#xED;a. </span> <span><sup>24&#xA0;</sup>E glorificavam a Deus a respeito de mim.</span></p>'
+
 ---
 
 ### Resumo da Lição
 
-**Texto-chave**: Gálatas 1:10
+**Texto-chave**: <a class="verse" verse="Gálatas 1:10">Gálatas 1:10</a>
 
 #### O aluno deverá
 
@@ -33,7 +41,7 @@ date:   07/07/2017
 
 ##### Motivação
 
-**Focalizando as Escrituras**: Gálatas 1:10
+**Focalizando as Escrituras**: <a class="verse" verse="Gálatas 1:10">Gálatas 1:10</a>
 
 **Conceito-chave para o crescimento espiritual**: O evangelho pregado por Paulo ainda é o fundamento inabalável para a fé cristã. Tudo na nossa vida deve ser submetido à sua autoridade.
 
@@ -51,7 +59,7 @@ O mundo em que Paulo escreveu aos gálatas não era muito diferente. Havia muita
 
 **Comentário bíblico**
 
-**I. “Segundo a sabedoria que lhe foi dada...”** (Recapitule com a classe 2Pe 3:15, 16.)
+**I. “Segundo a sabedoria que lhe foi dada...”** (Recapitule com a classe <a class="verse" verse="2Pe 3:15, 16">2Pe 3:15, 16</a>.)
 
 A maioria dos estudantes da Bíblia bem informados está ciente de que os primeiros cristãos não conheciam outras Escrituras, senão as do Antigo Testamento, e de que o Novo Testamento, como o conhecemos, não se formou até o segundo século, pelo menos. No entanto, Pedro, em sua segunda epístola, referiu-se às cartas de Paulo como Escrituras, ou pelo menos sugeriu esse status, ao compará-las com as “outras Escrituras”. Por isso, alguns estudiosos têm proposto uma data tardia para a carta de 2 Pedro, até mesmo negando sua autoria. Eles perguntam: Como o autor poderia saber que as cartas de Paulo receberiam o status de Escrituras?
 
@@ -63,7 +71,7 @@ Esse ponto nos leva à situação específica abordada por Paulo em Gálatas. A 
 
 **Pense nisto**: Como a atitude demonstrada a Paulo por seus adversários é vista hoje nas tentativas de enfraquecer a autoridade das Escrituras?
 
-**II. A autoridade de Paulo** (Recapitule com a classe Gl 1:11-24.)
+**II. A autoridade de Paulo** (Recapitule com a classe <a class="verse" verse="Gl 1:11-24">Gl 1:11-24</a>.)
 
 Como vimos, os adversários de Paulo o atacaram com base em suas qualidades pessoais e na integridade da sua vocação e ensinamentos. Superficialmente, seus ataques violentos poderiam ter sido atrativos às pessoas do ambiente greco-romano do primeiro século. Paulo não havia conhecido Jesus durante Sua vida na Terra, o que ele mesmo admitia. Assim, quer gostasse ou não, ele não podia ser visto da mesma forma que, por exemplo, Pedro.
 
