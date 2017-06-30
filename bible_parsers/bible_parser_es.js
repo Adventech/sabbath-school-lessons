@@ -60,7 +60,7 @@ function scrape(verseKey, verseFind, version, cb){
 }
 
 function parse_es(read, callback){
-  var bible_books = "Gén|Gn|Éxod|Éx|Éxo|Lev|Lv|Núm|Nm|Deut|Dt|Jos|Jue|Juec|Jc|Rut|Rt|1 ?Sam|1 ?Sm|2 ?Sam|2 ?Sm|1 ?Rey|1 ?Re|2 ?Rey|2 ?Re|1 ?Cró|1 ?Cr|2 ?Cró|2 ?Cr|Esd|Neh|Ne|Est|Job|Sal|Prov|Pro|Ecl|Cant|Isa|Jer|Jr|Lam|Ez|Eze|Dan|Dn|Ose|Jl|Am|Abd|Jon|Miq|Mi|Miq|Nah|Na|Hab|Sof|So|Ag|Zac|Za|Mal|Mat|Mt|Mar|Luc|Lc|Juan|Jn|Hech|Hechos|Hch|He|Rom|1 ?Cor|1 ?Co|2 ?Cor|2 ?Co|Gál|Efes|Ef|Efe|Fil|Flp|Col|1 ?Tes|2 ?Tes|1 ?Tim|2 ?Tim|Tit|Ti|Filem|Flm|Heb|Sant|Stgo|St|1 ?Pe|2 ?Pe|1 ?Ped|2 ?Ped|1 ?Jn|2 ?Jn|3 ?Jn|Jds|Jud|Apoc|Ap|Génesis|Éxodo|Levítico|Números|Deuteronomio|Josué|Jueces|Rut|1 ?Samuel|2 ?Samuel|1 ?Reyes|2 ?Reyes|1 ?Crónicas|2 ?Crónicas|Esdras|Nehemías|Ester|Job|Salmo|Salmos|Proverbios|Eclesiastés|Cantar de los Cantares|Isaías|Jeremías|Lamentaciones|Ezequiel|Daniel|Oseas|Joel|Amós|Abdías|Jonás|Miqueas|Nahún|Habacuc|Sofonías|Ageo|Zacarías|Malaquías|Mateo|Marcos|Lucas|Juan|Hechos de los Apóstoles|Romanos|1 ?Corintios|2 ?Corintios|Gálatas|Efesios|Filipenses|Colosenses|1 ?Tesalonicenses|2 ?Tesalonicenses|1 ?Timoteo|2 ?Timoteo|Tito|Filemón|Hebreos|Santiago|1 ?Pedro|2 ?Pedro|Primera de ?Pedro|Segunda de ?Pedro|1 ?Juan|2 ?Juan|3 ?Juan|Judas|Apocalipsis";
+  var bible_books = "Gén|Gn|Éxod|Éx|Éxo|Lev|Lv|Núm|Nm|Deut|Dt|Jos|Jue|Juec|Jc|Rut|Rt|1 ?Sam|1 ?Sm|2 ?Sam|2 ?Sm|1 ?Rey|1 ?Re|2 ?Rey|2 ?Re|1 ?Cró|1 ?Cr|2 ?Cró|2 ?Cr|Esd|Neh|Ne|Est|Job|Sal|Prov|Pro|Ecl|Cant|Isa|Jer|Jr|Lam|Ez|Eze|Dan|Dn|Ose|Jl|Am|Abd|Jon|Miq|Mi|Miq|Nah|Na|Hab|Sof|Ag|Zac|Za|Mal|Mat|Mt|Mar|Luc|Lc|Juan|Jn|Hech|Hechos|Hch|He|Rom|1 ?Cor|1 ?Co|2 ?Cor|2 ?Co|Gál|Efes|Ef|Efe|Fil|Flp|Col|1 ?Tes|2 ?Tes|1 ?Tim|2 ?Tim|Tit|Ti|Filem|Flm|Heb|Sant|Stgo|St|1 ?Pe|2 ?Pe|1 ?Ped|2 ?Ped|1 ?Jn|2 ?Jn|3 ?Jn|Jds|Jud|Apoc|Ap|Génesis|Éxodo|Levítico|Números|Deuteronomio|Josué|Jueces|Rut|1 ?Samuel|2 ?Samuel|1 ?Reyes|2 ?Reyes|1 ?Crónicas|2 ?Crónicas|Esdras|Nehemías|Ester|Job|Salmo|Salmos|Proverbios|Eclesiastés|Cantar de los Cantares|Isaías|Jeremías|Lamentaciones|Ezequiel|Daniel|Oseas|Joel|Amós|Abdías|Jonás|Miqueas|Nahún|Habacuc|Sofonías|Ageo|Zacarías|Malaquías|Mateo|Marcos|Lucas|Juan|Hechos de los Apóstoles|Romanos|1 ?Corintios|2 ?Corintios|Gálatas|Efesios|Filipenses|Colosenses|1 ?Tesalonicenses|2 ?Tesalonicenses|1 ?Timoteo|2 ?Timoteo|Tito|Filemón|Hebreos|Santiago|1 ?Pedro|2 ?Pedro|Primera de ?Pedro|Segunda de ?Pedro|1 ?Juan|2 ?Juan|3 ?Juan|Judas|Apocalipsis";
   var bible_regexp = new RegExp("(("+bible_books+")\\.?\\ ([0-9\\.;,: \\-\\–](\ al\ )?(\ y\ )?(\ a\ )?(?!"+bible_books+"))+)", "ig");
   var bible_book_regexp = new RegExp("("+bible_books+")\\.?", "ig");
 
@@ -73,7 +73,7 @@ function parse_es(read, callback){
     for (var i = 0; i < verses.length; i++){
 
       var spanish_verse_replacement = [
-        {"s": "Gál.", "r": "Gálatas"},
+        {"s": "Gál\ ", "r": "Gálatas "},
         {"s": "Gál.", "r": "Gálatas"},
         {"s": "Hech.", "r": "Hch."},
         {"s": "Miq.", "r": "Mi."},
@@ -117,8 +117,8 @@ function parse_es(read, callback){
       }
 
       for (var sr = 0; sr < spanish_verse_replacement.length; sr++){
-        if (verse.indexOf(spanish_verse_replacement[sr]["s"]) == 0){
-          var new_verse = verse.replace(spanish_verse_replacement[sr]["s"], spanish_verse_replacement[sr]["r"]);
+        if (verse.indexOf(spanish_verse_replacement[sr]["s"]) >= 0){
+            var new_verse = verse.replace(new RegExp(spanish_verse_replacement[sr]["s"], "ig"), spanish_verse_replacement[sr]["r"]);
           read = read.replace(new RegExp(verse, "ig"), new_verse);
           verse = new_verse;
         }
@@ -146,6 +146,15 @@ function parse_es(read, callback){
           verse = customTrim(f_verse, " ;,()<>.");
         }
       }
+
+      for (var sr = 0; sr < spanish_verse_replacement.length; sr++){
+          if (verse.indexOf(spanish_verse_replacement[sr]["s"]) >= 0){
+              var new_verse = verse.replace(new RegExp(spanish_verse_replacement[sr]["s"], "ig"), spanish_verse_replacement[sr]["r"]);
+              read = read.replace(new RegExp(verse, "ig"), new_verse);
+              verse = new_verse;
+          }
+      }
+
       if (verse.length > 0 && verse.match(/\d/g)) {
         verses_parsed.push(verse);
       }
