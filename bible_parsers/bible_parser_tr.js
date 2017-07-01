@@ -148,7 +148,7 @@ function scrape(verseKey, verseFind, version, cb){
 }
 
 function parse_tr(read, callback){
-  var bible_books = "Yar|Çık|Lev|Say|Yas|Yşu|Hak|Rut|1Sa|2Sa|1Kr|2Kr|1 Ta|1Ta|2Ta|Ezr|Neh|Est|Eyü|Mez|Özd|Vai|Ezg|Yşa|Yer|Ağı|Hez|Dan|Hoş|Yoe|Amo|Ova|Yun|Mik|Nah|Hab|Sef|Hag|Zek|Mal|Mat|Mar|Luk|Yu|Elç|Rom|1Ko|2Ko|Gal|Ef|Flp|Kol|1Se|2Se|1Ti|2Ti|Tit|Flm|İbr|Yak|1Pe|2Pe|1Yu|2Yu|3Yu|Yah|Va|Tekvin|Çıkış|Levililer|Sayılar|Tesniye|Yeşu|Hakimler|Rut|1 ?\.?Samuel|2 ?\.?Samuel|1 ?\.?Krallar|2 ?\.?Krallar|1 ?\.?Paralipomenon|2 ?\.?Paralipomenon|Ezra|Nehemya|Esther|Eyüp|Zebur|Atasözleri|Eski ?\.?Ahit'te ?\.?Hazreti ?\.?Süleyman'a ?\.?yazılan ?\.?kitap|Süleyman'ın ?\.?Şarkısı|İşaya|Yeremya|Ağıtlar ?\.?Kitabı|Hezekiel|Daniel|Hoşea|Yoel|Amos|Obadya|Yunus|Mika|Nahum|Habakkuk|Sefanya|Hagay|Zekeriya|Malaki|Matta|Markos|Luke|Yuhanna|Resullerin ?\.?işleri|Romalılar|1 ?\.?Korintoslulara|2 ?\.?Korintoslulara|1 ?\.?Korintliler|2 ?\.?Korintliler|Galatlar|Efesliler|Filipililer|Koloseliler|1 ?\.?Selanikliler|2 ?\.?Selanikliler|1 ?\.?Timoteosa|2 ?\.?Timoteosa|Titusa|Filimona|İbraniler|Yakub|1 ?\.?Petrus|2 ?\.?Petrus|1 ?\.?Yuhanna|2 ?\.?Yuhanna|3 ?\.?Yuhanna|Yahuda|Vahiy";
+  var bible_books = "Yar|Çık|Lev|Say|Yas|Yşu|Hak|Rut|1Sa|2Sa|1Kr|2Kr|1 Ta|1Ta|2Ta|Ezr|Neh|Est|Eyü|Mez|Özd|Vai|Ezg|Yşa|Yer|Ağı|Hez|Dan|Hoş|Yoe|Amo|Ova|Yun|Mik|Nah|Hab|Sef|Hag|Zek|Mal|Mat|Mar|Luk|Yu|Elç|Rom|1Ko|2Ko|Gal|Ef|Flp|Kol|1Se|2Se|1Ti|2Ti|Tit|Flm|İbr|Yak|1Pe|2Pe|1Yu|2Yu|3Yu|Yah|Va|Tekvin|Çıkış|Levililer|Sayılar|Tesniye|Yeşu|Hakimler|Rut|1 ?\.?Samuel|2 ?\.?Samuel|1 ?\.?Krallar|2 ?\.?Krallar|1 ?\.?Paralipomenon|2 ?\.?Paralipomenon|Ezra|Nehemya|Esther|Eyüp|Zebur|Atasözleri|Eski ?\.?Ahit'te ?\.?Hazreti ?\.?Süleyman'a ?\.?yazılan ?\.?kitap|Süleyman'ın ?\.?Şarkısı|İşaya|Yeremya|Ağıtlar ?\.?Kitabı|Hezekiel|Daniel|Hoşea|Yoel|Amos|Obadya|Yunus|Mika|Nahum|Habakkuk|Sefanya|Hagay|Zekeriya|Malaki|Matta|Markos|Luke|Yuhanna|Resullerin ?\.?işleri|Romalılar|1 ?\.?Korintoslulara|2 ?\.?Korintoslulara|1 ?\.?Korintliler|2 ?\.?Korintliler|Galatyalılar|Galatlar|Efesliler|Filipililer|Koloseliler|1 ?\.?Selanikliler|2 ?\.?Selanikliler|1 ?\.?Timoteosa|2 ?\.?Timoteosa|Titusa|Filimona|İbraniler|Yakub|1 ?\.?Petrus|2 ?\.?Petrus|1 ?\.?Yuhanna|2 ?\.?Yuhanna|3 ?\.?Yuhanna|Yahuda|Vahiy";
   var bible_regexp = new RegExp("(("+bible_books+")\\.?\\ ([0-9\\.;,: \\-\\–](?!"+bible_books+"))+)", "ig");
   var bible_book_regexp = new RegExp("("+bible_books+")\\.?", "ig");
 
@@ -258,6 +258,7 @@ function parse_tr(read, callback){
             {"s": "1 ?.?Korintliler", "r": "1Cor"},
             {"s": "2 ?.?Korintliler", "r": "2Cor"},
             {"s": "Galatlar", "r": "Gal"},
+            {"s": "Galatyalılar", "r": "Gal"},
             {"s": "Efesliler", "r": "Eph"},
             {"s": "Filipililer", "r": "Phil"},
             {"s": "Koloseliler", "r": "Col"},
