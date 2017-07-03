@@ -20,7 +20,7 @@ Below is current list of languages and capabilities implemented
 |:--|:-:|:-:|:-:|:-:|:-:|
 |🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
+|🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|❌ No|
 |🇮🇩 Indonesian|✅ Yes|❌ No|❌ No|❌ No|❌ No|
 |🇵🇹 🇧🇷 Portuguese|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
