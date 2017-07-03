@@ -21,35 +21,37 @@ Below is current list of languages and capabilities implemented
 |🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
+|🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|
+|🇮🇩 Indonesian|✅ Yes|❌ No|❌ No|❌ No|
 |🇵🇹 🇧🇷 Portuguese|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|
 |🇹🇷 Turkish|✅ Yes|❌ No|❌ No|❌ No|
 |🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|
-|🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|
+
  
 _* ER - Easy Reading_
 
 ### Language Roadmap
 
-- [ ] Add Arabic Language
-- [ ] Add Farsi Language
-- [ ] Add Hebrew Language
-- [ ] Add Estonian Language
-- [ ] Add Danish Language
-- [ ] Add Romanian Language
-- [ ] Add Bulgarian Language
-- [ ] Add Norwegian Language
-- [ ] Add Korean Language
-- [ ] Add Chinese Simplified Language
-- [ ] Add Afrikaans Language
-- [ ] Add Malayalam Language
-- [ ] Add Nepali Language
-- [ ] Add SiSwati Language
-- [ ] Add Sesotho Language
-- [ ] Add Tamil Language
-- [ ] Add Xhosa Language
-- [ ] Add Zulu Language
+- [ ] Add Bulgarian Language 🇧🇬
+- [ ] Add Romanian Language 🇷🇴
+- [ ] Add Arabic Language 🇸🇦
+- [ ] Add Farsi Language 🇮🇷
+- [ ] Add Hebrew Language 🇮🇱
+- [ ] Add Estonian Language 🇪🇪
+- [ ] Add Danish Language 🇩🇰
+- [ ] Add Norwegian Language 🇳🇴
+- [ ] Add Korean Language 🇰🇷
+- [ ] Add Chinese Simplified Language 🇨🇳
+- [ ] Add Afrikaans Language 🇿🇦
+- [ ] Add Malayalam Language 🇧🇳 🇲🇾
+- [ ] Add Nepali Language 🇳🇵
+- [ ] Add SiSwati Language 🇸🇿
+- [ ] Add Sesotho Language 🇱🇸
+- [ ] Add Tamil Language 🇮🇳
+- [ ] Add Xhosa Language 🇿🇦
+- [ ] Add Zulu Language 🇿🇦
  
 ## Contributing
 
