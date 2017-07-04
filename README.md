@@ -10,46 +10,48 @@ This repository contains all lessons for the Sabbath School app (for all platfor
 Thank you for supporting Open Source with your service:
 
 - [JetBrains](https://www.jetbrains.com/)
-- [BrowserStack](www.browserstack.com) ![Alt text](https://avatars0.githubusercontent.com/u/1119453?v=3&s=20)
+- [BrowserStack](https://www.browserstack.com) ![Alt text](https://avatars0.githubusercontent.com/u/1119453?v=3&s=20)
 
 ## Languages matrix
 
 Below is current list of languages and capabilities implemented
 
-| Language  | Adult Lesson | Bible verses | Inside Story | Teacher Edition |
-|:--|:-:|:-:|:-:|:-:|
-|🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇵🇹 🇧🇷 Portuguese|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|
-|🇹🇷 Turkish|✅ Yes|❌ No|❌ No|❌ No|
-|🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|
-|🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|
+| Language  | Adult Lesson | Bible verses | Inside Story | Teacher Edition | Youth Lesson |
+|:--|:-:|:-:|:-:|:-:|:-:|
+|🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
+|🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
+|🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
+|🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|❌ No|
+|🇮🇩 Indonesian|✅ Yes|❌ No|❌ No|❌ No|❌ No|
+|🇵🇹 🇧🇷 Portuguese|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
+|🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
+|🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
+|🇹🇷 Turkish|✅ Yes|❌ No|❌ No|✅ Yes|❌ No|
+|🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
+
  
 _* ER - Easy Reading_
 
 ### Language Roadmap
 
-- [ ] Add Arabic Language
-- [ ] Add Farsi Language
-- [ ] Add Hebrew Language
-- [ ] Add Estonian Language
-- [ ] Add Danish Language
-- [ ] Add Romanian Language
-- [ ] Add Bulgarian Language
-- [ ] Add Norwegian Language
-- [ ] Add Korean Language
-- [ ] Add Chinese Simplified Language
-- [ ] Add Afrikaans Language
-- [ ] Add Malayalam Language
-- [ ] Add Nepali Language
-- [ ] Add SiSwati Language
-- [ ] Add Sesotho Language
-- [ ] Add Tamil Language
-- [ ] Add Xhosa Language
-- [ ] Add Zulu Language
+- [ ] Add Bulgarian Language 🇧🇬
+- [ ] Add Romanian Language 🇷🇴
+- [ ] Add Arabic Language 🇸🇦
+- [ ] Add Farsi Language 🇮🇷
+- [ ] Add Hebrew Language 🇮🇱
+- [ ] Add Estonian Language 🇪🇪
+- [ ] Add Danish Language 🇩🇰
+- [ ] Add Norwegian Language 🇳🇴
+- [ ] Add Korean Language 🇰🇷
+- [ ] Add Chinese Simplified Language 🇨🇳
+- [ ] Add Afrikaans Language 🇿🇦
+- [ ] Add Malayalam Language 🇧🇳 🇲🇾
+- [ ] Add Nepali Language 🇳🇵
+- [ ] Add SiSwati Language 🇸🇿
+- [ ] Add Sesotho Language 🇱🇸
+- [ ] Add Tamil Language 🇮🇳
+- [ ] Add Xhosa Language 🇿🇦
+- [ ] Add Zulu Language 🇿🇦
  
 ## Contributing
 
