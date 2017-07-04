@@ -1,9 +1,19 @@
 ---
-title:  Faith Expressed Through Love
-date:   10/07/2017
+title: 'Faith Expressed Through Love'
+date: 10/07/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Gal 5:6': '<h3> <span>Galatians 5:6</span></h3><p> <span><sup>6&#xA0;</sup>For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love.</span></p>'
+    -
+        name: KJV
+        verses:
+            'Gal 5:6': '<h3> <span>Galatians 5:6</span></h3><p><span><sup>6&#xA0;</sup>For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.</span></p>'
+
 ---
 
-**Testimony** Gal. 5:6
+**Testimony** <a class="verse" verse="Gal 5:6">Gal. 5:6</a>
 
 “Certain Jews from Judea raised a general consternation among the believing Gentiles by agitating the question of circumcision.They asserted with great assurance, that none could be saved without being circumcised and keeping the whole ceremonial law.”1 Thus the false brothers were slow “to discern to the end of that which had been abolished by the death of Christ, . . . rendering valueless the divinely appointed ceremonies and sacrifices of the Jewish religion.”2
 
