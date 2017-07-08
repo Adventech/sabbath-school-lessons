@@ -16,7 +16,7 @@ var argv = require("optimist")
     "k": "Create lesson cover placeholder images"
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
-  .default({ "l" : "en", "c": 13, "u": false, "i": true, "k": false })
+  .default({ "l" : "en", "c": 13, "u": false, "i": false, "k": false })
   .argv;
 
 var fs     =  require("fs-extra"),
