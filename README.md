@@ -18,12 +18,14 @@ Below is current list of languages and capabilities implemented
 
 | Language  | Adult Lesson | Bible verses | Inside Story | Teacher Edition | Youth Lesson |
 |:--|:-:|:-:|:-:|:-:|:-:|
+|🇧🇬 Bulgarian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇯🇵 Japanese|✅ Yes|❌ No|❌ No|❌ No|❌ No|
 |🇮🇩 Indonesian|✅ Yes|❌ No|❌ No|❌ No|❌ No|
 |🇵🇹 🇧🇷 Portuguese|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
+|🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
 |🇹🇷 Turkish|✅ Yes|❌ No|❌ No|✅ Yes|❌ No|
@@ -34,12 +36,12 @@ _* ER - Easy Reading_
 
 ### Language Roadmap
 
-- [ ] Add Bulgarian Language 🇧🇬
-- [ ] Add Romanian Language 🇷🇴
 - [ ] Add Arabic Language 🇸🇦
 - [ ] Add Farsi Language 🇮🇷
 - [ ] Add Hebrew Language 🇮🇱
 - [ ] Add Estonian Language 🇪🇪
+- [ ] Add Italian Language 🇮🇹
+- [ ] Add Thai Language 🇹🇭
 - [ ] Add Danish Language 🇩🇰
 - [ ] Add Norwegian Language 🇳🇴
 - [ ] Add Korean Language 🇰🇷
