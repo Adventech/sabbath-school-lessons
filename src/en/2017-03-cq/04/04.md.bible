@@ -1,9 +1,19 @@
 ---
-title:  Learning in the School of Christ
-date:   18/07/2017
+title: 'Learning in the School of Christ'
+date: 18/07/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            'Eph 2:8': '<h3> <span>Ephesians 2:8</span></h3><p> <span><sup>8&#xA0;</sup>For by grace you have been saved through faith, and that not of yourselves; <i>it is</i> the gift of God, </span> </p>'
+    -
+        name: KJV
+        verses:
+            'Eph 2:8': '<h3> <span>Ephesians 2:8</span></h3><p><span><sup>8&#xA0;</sup>For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:</span></p>'
+
 ---
 
-**Testimony**: Eph. 2:8
+**Testimony**: <a class="verse" verse="Eph 2:8">Eph. 2:8</a>
 
 Ellen White’s writings contain much thought and extensive discussion on the topic of salvation by faith and the role of works.
 
