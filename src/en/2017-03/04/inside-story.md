@@ -15,11 +15,11 @@ The bishop’s answer puzzled David even more. Why was the bishop unwilling to d
 
 On arriving home, David shared his perplexity with Swarna. “The Bible says plainly that we should keep the seventh day holy. But the bishop couldn’t give me a satisfying answer to why we worship on Sunday. I don’t know what to do.”
 
-“Perhapsweshould fast andprayaboutit,”Swarnasuggested. “If we’vebeen worshiping on the wrong day, God will show us.”As David and Swarna fasted and prayed, the conviction remained that they should worship on the seventh-day Sabbath.
+“Perhaps we should fast and pray about it,” Swarna suggested. “If we’ve been worshiping on the wrong day, God will show us.”As David and Swarna fasted and prayed, the conviction remained that they should worship on the seventh-day Sabbath.
 
 The next day a visitor came to their house. “Have you ever heard of a church that worships on Saturday, the seventh day of the week?” David asked him.
 
-“Yes,”thevisitorreplied. “There’sachurchinCalcuttathatholdsserviceson Saturday.”The visitor gave the church’s address.
+“Yes,”the visitor replied. “There’s a church in Calcutta that holds services on Saturday.” The visitor gave the church’s address.
 
 The next Saturday morning, David and Swarna went to Calcutta and found the church. They were delighted to find people there studying the Bible. After the service, the couple visited with a businessman named John and his wife. During their conversation, David and Swarna told them of their search for truth. “We want someone to come to our home to tell us more about why you keep Saturday,” David said.
 
