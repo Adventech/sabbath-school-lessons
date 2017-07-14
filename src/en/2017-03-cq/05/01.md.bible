@@ -1,14 +1,26 @@
 ---
-title:  Old Testament Faith
-date:   22/07/2017
+title: 'Old Testament Faith'
+date: 22/07/2017
+bible:
+    -
+        name: NKJV
+        verses:
+            '1 Pet 1:18, 19': '<h3> <span>1 Peter 1:18</span></h3><p> <span><sup>18&#xA0;</sup>knowing that you were not redeemed with corruptible things, <i>like</i> silver or gold, from your aimless conduct <i>received</i> by tradition from your fathers, </span> </p><h3> <span>1 Peter 1:19</span></h3><p> <span><sup>19&#xA0;</sup>but with the precious blood of Christ, as of a lamb without blemish and without spot. </span> </p>'
+            'Gal 3:13': '<h3> <span>Galatians 3:13</span></h3><p><span><sup>13&#xA0;</sup>Christ has redeemed us from the curse of the law, having become a curse for us (for it is written, <span>&#x201C;Cursed</span> <i>is</i> <span>everyone who hangs on a tree&#x201D;</span>),</span> </p>'
+    -
+        name: KJV
+        verses:
+            '1 Pet 1:18, 19': '<h3> <span>1 Peter 1:18</span></h3><p><span><sup>18&#xA0;</sup>Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;</span></p><h3> <span>1 Peter 1:19</span></h3><p><span><sup>19&#xA0;</sup>But with the precious blood of Christ, as of a lamb without blemish and without spot:</span></p>'
+            'Gal 3:13': '<h3> <span>Galatians 3:13</span></h3><p><span><sup>13&#xA0;</sup>Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:</span></p>'
+
 ---
 
 > <p></p>
-> “Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, ‘Cursed is everyone who is hanged on a tree’ ” (Gal. 3:13, ESV).
+> “Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, ‘Cursed is everyone who is hanged on a tree’ ” (<a class="verse" verse="Gal 3:13">Gal. 3:13</a>, ESV).
 
 **Redeemed for Better**
 
-**Introduction**: 1 Pet. 1:18, 19
+**Introduction**: <a class="verse" verse="1 Pet 1:18, 19">1 Pet. 1:18, 19</a>
 
 The story of Chris Napier touched me on the subject of redemption. Chris had a very rough past as a child.He lost his father at the tender age of three, a situation that eventually pushed him to street life. Soon he turned into a violent drug addict.
 
