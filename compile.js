@@ -224,7 +224,13 @@ var create_lessons_api = function(language, quarterly){
       fs.lstatSync(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
       fs.copySync(WORKING_DIR + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
       lesson.lesson.cover = API_HOST + API_VERSION + "/" + lesson.lesson.path + "/" + SOURCE_COVER_FILE + "?"+ Math.round((new Date()).getTime() / 1000);
-    } catch (err) {}
+    } catch (err) {
+        try {
+            fs.lstatSync("images/global/" + quarterly + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
+            fs.copySync("images/global/" + quarterly + "/" + _lessons[i] + "/" + SOURCE_COVER_FILE, DIST_DIR + language + "/quarterlies/" + quarterly + "/lessons/" + _lessons[i] + "/" + SOURCE_COVER_FILE);
+            lesson.lesson.cover = API_HOST + API_VERSION + "/" + lesson.lesson.path + "/" + SOURCE_COVER_FILE + "?"+ Math.round((new Date()).getTime() / 1000);
+        } catch (err3) {}
+    }
 
     lesson.days = create_days_api(language, quarterly, _lessons[i]);
 
