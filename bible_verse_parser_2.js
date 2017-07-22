@@ -27,6 +27,10 @@ var config = {
         "jlb"
     ],
 
+    "in": [
+        "alkitab"
+    ],
+
     "zh": [
         "cuvs"
     ]
@@ -50,7 +54,7 @@ function processParsing (path){
             var lang = argv.l,
                 bibleVersion = config[lang][bibleVersionIterator],
                 bibleRegex = bibleSearch.getBibleRegex(lang, bibleVersion),
-                bibleReferenceMatches = read.markdown.match(new RegExp(bibleRegex.regex, "ig")),
+                bibleReferenceMatches = read.markdown.match(new RegExp(bibleRegex.regex, "g")),
                 resultRead = read.markdown,
                 resultBible = {};
 
@@ -76,12 +80,16 @@ function processParsing (path){
                 }
 
                 if (result.length){
-                    resultBible["verses"][verse] = result;
-                    resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+bibleReferenceMatches[j]+'">'+bibleReferenceMatches[j]+'</a>');
+                    var firebaseReadyMatch = bibleReferenceMatches[j].replace(/\.|\#|\$|\/|\[|\]/g, '');
+                    resultBible["verses"][firebaseReadyMatch] = result;
+                    resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+firebaseReadyMatch+'">'+bibleReferenceMatches[j]+'</a>');
                 }
             }
 
-            meta.bible.push(resultBible);
+            if (Object.keys(resultBible["verses"]).length){
+                meta.bible.push(resultBible);
+            }
+
         }
 
         if (meta.bible.length <= 0){
