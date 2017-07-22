@@ -25,6 +25,10 @@ var config = {
 
     "ja": [
         "jlb"
+    ],
+
+    "zh": [
+        "cuvs"
     ]
 };
 
@@ -61,13 +65,22 @@ function processParsing (path){
 
             for (var j = 0; j < bibleReferenceMatches.length; j++){
                 var verse = bibleReferenceMatches[j].trim();
-                resultBible["verses"][verse] = bibleSearch.search(lang, bibleVersion, verse);
-                resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+bibleReferenceMatches[j]+'">'+bibleReferenceMatches[j]+'</a>');
+                var reference = bibleSearch.search(lang, bibleVersion, verse);
+
+                if (reference["verses"]){
+                    resultBible["verses"][verse] = reference["header"] + reference["verses"];
+                    resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+bibleReferenceMatches[j]+'">'+bibleReferenceMatches[j]+'</a>');
+                }
             }
 
             meta.bible.push(resultBible);
         }
-        fswf(path + "/" + mds[i] + ".biblez", "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
+
+        if (meta.bible.length <= 0){
+            delete meta.bible;
+        } else {
+            fswf(path + "/" + mds[i] + ".bible", "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
+        }
     }
 }
 
