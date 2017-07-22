@@ -12,6 +12,10 @@ Thank you for supporting Open Source with your service:
 - [JetBrains](https://www.jetbrains.com/)
 - [BrowserStack](https://www.browserstack.com) ![Alt text](https://avatars0.githubusercontent.com/u/1119453?v=3&s=20)
 
+## API
+
+Yes, it exists. [Click here](https://adventech-sabbath-school.api-docs.io/v1/getting-started) to check it out.
+
 ## Languages matrix
 
 Below is current list of languages and capabilities implemented
@@ -19,6 +23,7 @@ Below is current list of languages and capabilities implemented
 | Language  | Adult Lesson | Bible verses | Inside Story | Teacher Edition | Youth Lesson |
 |:--|:-:|:-:|:-:|:-:|:-:|
 |🇧🇬 Bulgarian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
+|🇨🇳 Chinese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
@@ -45,7 +50,7 @@ _* ER - Easy Reading_
 - [ ] Add Danish Language 🇩🇰
 - [ ] Add Norwegian Language 🇳🇴
 - [ ] Add Korean Language 🇰🇷
-- [ ] Add Chinese Simplified Language 🇨🇳
+- [x] Add Chinese Simplified Language 🇨🇳
 - [ ] Add Afrikaans Language 🇿🇦
 - [ ] Add Malayalam Language 🇧🇳 🇲🇾
 - [ ] Add Nepali Language 🇳🇵
