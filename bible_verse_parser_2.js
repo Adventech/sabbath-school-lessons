@@ -65,10 +65,18 @@ function processParsing (path){
 
             for (var j = 0; j < bibleReferenceMatches.length; j++){
                 var verse = bibleReferenceMatches[j].trim();
-                var reference = bibleSearch.search(lang, bibleVersion, verse);
+                var reference = bibleSearch.search(lang, bibleVersion, verse),
+                    result = "";
 
-                if (reference["verses"]){
-                    resultBible["verses"][verse] = reference["header"] + reference["verses"];
+
+                for (var k = 0; k < reference.results.length; k++){
+                    if (reference.results[k]["verses"]){
+                        result += reference.results[k]["header"] + reference.results[k]["verses"];
+                    }
+                }
+
+                if (result.length){
+                    resultBible["verses"][verse] = result;
                     resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+bibleReferenceMatches[j]+'">'+bibleReferenceMatches[j]+'</a>');
                 }
             }
