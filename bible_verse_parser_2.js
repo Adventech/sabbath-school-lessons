@@ -28,7 +28,7 @@ var config = {
     ],
 
     "ja": [
-        "jlb"
+        "kougo-yaku"
     ],
 
     "in": [
