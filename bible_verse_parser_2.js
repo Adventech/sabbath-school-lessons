@@ -23,6 +23,10 @@ var config = {
         "kjv"
     ],
 
+    "fr": [
+        "lsg"
+    ],
+
     "ja": [
         "jlb"
     ],
