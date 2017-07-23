@@ -35,6 +35,10 @@ var config = {
         "alkitab"
     ],
 
+    "ro": [
+        "rmnn"
+    ],
+
     "zh": [
         "cuvs"
     ]
