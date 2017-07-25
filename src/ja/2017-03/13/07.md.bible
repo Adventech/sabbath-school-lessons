@@ -6,6 +6,10 @@ bible:
         name: KOUGO-YAKU
         verses:
             ガラ6：5: '<h3>ガラテヤ人への手紙 6:5</h3><span>5</span> 人はそれぞれ、自分自身の重荷を負うべきである。'
+    -
+        name: JLB
+        verses:
+            ガラ6：5: '<h3>ガラテヤ人への手紙 6:5</h3><sup class="versenum">5 </sup>人はみな、それぞれ自分の分をわきまえ、自分の分を果たすべきです。'
 
 ---
 
