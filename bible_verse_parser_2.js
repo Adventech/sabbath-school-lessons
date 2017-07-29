@@ -28,7 +28,8 @@ var config = {
     ],
 
     "ja": [
-        "kougo-yaku"
+        "kougo-yaku",
+        "jlb"
     ],
 
     "in": [
