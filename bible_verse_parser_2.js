@@ -39,6 +39,14 @@ var config = {
         "rmnn"
     ],
 
+    "ru": [
+        "rusv"
+    ],
+
+    "tr": [
+        "kitab"
+    ],
+
     "zh": [
         "cuvs"
     ]
