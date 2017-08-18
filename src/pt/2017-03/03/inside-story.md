@@ -3,24 +3,20 @@ title:  Informativo
 date:   14/07/2017
 ---
 
-#### Resgate no rio: parte 2
+Queridos irmãos e irmãs,
 
-A atmosfera ficou tensa. Alguns dos Rowdies ameaçaram os candidatos batismais com palitos. "Nós não queremos cristãos na nossa aldeia!", Gritou um homem. "Nós temos nossos próprios deuses e nossos próprios modos de culto. Você não deve seguir esses homens que vieram ensinar sua religião. Você deve continuar no caminho de nossos antepassados".
+Infelizmente estamos descontinuando o suporte ao Português por tempo indeterminado, devido a várias notificações recebidas do departamento jurídico da CPB (Casa Publicadora Brasileira).
 
-"Não parece que teremos um batismo hoje", um dos pastores sussurrou aos outros pastores. Talvez eles tivessem que voltar em outro dia.
+Retiramos todo o texto deles, fizemos a nossa própria tradução, mas eles alegam que são os únicos autorizados a traduzir e vender a Lição. Certamente não temos essa autorização, mas nosso foco é distribuir a palavra de Deus e não obter lucros.
 
-Naquele momento, os pastores ouviram a voz de uma jovem mulher subir acima dos gritos de raiva da multidão. Foi Rebecca Tudu, um dos candidatos batismais. "Ninguém vai me impedir de ser batizado hoje!", Ela gritou. "Vivemos num país livre. Eu adorarei qualquer Deus que eu escolher. Eu escolho Jesus Cristo, e eu vou ser batizado hoje, quer goste ou não! "
+Uma vez que nosso aplicativo é de Open-Source, gratuito, criado e mantido de forma voluntária, não tenho outra explicação senão a oportunidade perdida de ganhar mais dinheiro por trás do nome de Deus que os está dirigindo.
 
-Com essas palavras, Rebecca marchou através da multidão e em direção ao site batismal. Nenhum dos homens se moveu para detê-la. Ao ver seu espírito destemido, outros 15 candidatos de batismo a seguiram.
+Nossa missão é proclamar e glorificar a Deus e não ser rebelde (Provérbios 17:11)
 
-Aqueles 16 novos crentes foram batizados naquele dia enquanto os aldeões irritados olhavam. Os crentes, fortalecidos pelo Espírito Santo e a ação valente de Rebecca, assumiram uma posição ousada para Jesus Cristo.
+Nossa missão é seguir seu exemplo, nos humilhar e continuar orando pelo Senhor para dar proteção e orientação. (Salmos 121:1-2)
 
-Benjamin estava entre aqueles batizados naquele dia. Seu batismo levou outro milagre a sua vida. Antes de seu batismo, sua visão era tão pobre que mal podia ver. Mas, após o batismo, a visão melhorou, e agora ele é capaz de ler a Bíblia sem dificuldade.
+Nossa missão é nunca minar a obra de ninguém, mas fazer tudo para a glória de Deus (1 Coríntios 10:31)
 
-"Duas vezes Deus se revelou a mim", Benjamin testemunhou. "Não tenho dúvidas de que Deus está vivo e ouve minhas orações". Benjamin passa a maior parte do tempo dando seu testemunho ao povo nas aldeias próximas.
+Embora seja muito desafiador, desmotivador e desanimador, mas com o apoio do nosso Deus, estamos dispostos a continuar trabalhando para Deus até o fim. Ele nos deu dons, e vamos usa-los para sua distribuir sua mensagem por meio da tecnologia.
 
-Uma semana depois do seu batismo, Rebecca foi até a aldeia natal para contar aos pais o que havia aprendido nas últimas semanas. Ela compartilhou as verdades bíblicas que ela apreciou e contou sobre a excitação no dia do batismo. Seus pais estavam ansiosos para aprender mais sobre Deus e pediram a Rebecca que convidasse os pastores para visitar sua aldeia e ensiná-los.
-
-Os pastores vieram e estudaram com os pais de Rebecca por várias semanas. Um dia feliz, Rebecca ficou junto a uma margem do rio e viu seus pais serem batizados. Seus dois irmãos também tomaram sua posição, junto com outros de sua aldeia.
-
-_O autor, C. S. Marandi, foi o presidente da Secção Bihar, Ranchi, Bihar, Índia, antes da sua aposentadoria._
+- Seus amigos do Adventech.

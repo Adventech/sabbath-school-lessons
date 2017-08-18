@@ -18,17 +18,37 @@ var fs            = require("fs"),
     bibleSearch   = require("adventech-bible-tools");
 
 var config = {
+    "bg": [
+        "bg1940"
+    ],
     "en": [
         "nkjv",
         "kjv"
     ],
 
+    "fr": [
+        "lsg"
+    ],
+
     "ja": [
+        "kougo-yaku",
         "jlb"
     ],
 
     "in": [
         "alkitab"
+    ],
+
+    "ro": [
+        "rmnn"
+    ],
+
+    "ru": [
+        "rusv"
+    ],
+
+    "tr": [
+        "kitab"
     ],
 
     "zh": [
