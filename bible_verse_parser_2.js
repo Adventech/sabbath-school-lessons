@@ -21,6 +21,10 @@ var config = {
     "bg": [
         "bg1940"
     ],
+    "da": [
+        "bibelen",
+        "dn1933"
+    ],
     "en": [
         "nkjv",
         "kjv"
