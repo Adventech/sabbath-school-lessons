@@ -3,18 +3,18 @@ title: 'Loven og den troende'
 date: 10/08/2017
 bible:
     -
-        name: BIBELEN
+        name: BPH
         verses:
-            'Rom 8,1-3 ': '<h3>Romerne 8,1-3</h3><span>1</span> Så er der da nu ingen Fordømmelse for dem, som ere i Kristus Jesus.<span>2</span> Thi Livets Ånds Lov frigjorde mig i Kristus Jesus fra Syndens og Dødens Lov.<span>3</span> Thi det, som var Loven umuligt, det, hvori den var afmægtig ved Kødet, det gjorde Gud, idet han sendte sin egen Søn i syndigt Køds Lighed og for Syndens Skyld og således domfældte Synden i Kødet,'
-            '1 Thess 4,1': '<h3>Esajas 4,1</h3><span>1</span> Syv Kvinder skal på hin Dag gribe fat i een Mand og sige: "Vi vil æde vort eget Brød og holde os selv med Klæder, blot vi må bære dit Navn. Tag Vanæren fra os!"'
-            'Rom 6,14-15': '<h3>Romerne 6,14-15</h3><span>14</span> Thi Synd skal ikke herske over eder I ere jo ikke under Lov, men under Nåde.<span>15</span> Hvad da? skulde vi Synde, fordi vi ikke ere under Lov, men under Nåde? Det være langt fra!'
-            'Gal 3,25 ': '<h3>Galaterne 3,25</h3><span>25</span> Men efter at Troen er kommen, ere vi ikke mere under Tugtemester.'
-            'Hebr 8,10': '<h3>Hebræerne 8,10</h3><span>10</span> Thi dette er den Pagt, som jeg vil oprette med Israels Hus efter de Dage, siger Herren: Jeg vil give mine Love i deres Sind, og jeg vil indskrive dem i deres Hjerte, og jeg vil være deres Gud, og de skulle være mit Folk.'
-            'Rom 8,4 ': '<h3>Romerne 8,4</h3><span>4</span> for at Lovens Krav skulde opfyldes i os, som ikke vandre efter Kødet, men efter Ånden.'
-            'Joh 8,34': '<h3>Johannes 8,34</h3><span>34</span> Jesus svarede dem: "Sandelig, sandelig, siger jeg eder, hver den, som gør Synden, er Syndens Træl.'
-            'Gal 5,18': '<h3>Galaterne 5,18</h3><span>18</span> Men når I drives af Ånden, ere I ikke under Loven.'
-            'Rom 8,3': '<h3>Romerne 8,3</h3><span>3</span> Thi det, som var Loven umuligt, det, hvori den var afmægtig ved Kødet, det gjorde Gud, idet han sendte sin egen Søn i syndigt Køds Lighed og for Syndens Skyld og således domfældte Synden i Kødet,'
-            'Rom 8,4': '<h3>Romerne 8,4</h3><span>4</span> for at Lovens Krav skulde opfyldes i os, som ikke vandre efter Kødet, men efter Ånden.'
+            'Rom 8,1-3 ': '<h3>Romerne 8,1-3</h3><span class="chapternum">8 </span>Så er der da nu ingen fordømmelse for dem, der tilhører Jesus Kristus. <sup class="versenum">2 </sup>For gennem Kristus er jeg blevet sat fri ved den Ånds kraft, som bringer liv, og jeg lever ikke længere under syndens lov, som bringer død. <sup class="versenum">3 </sup>Loven var ikke stærk nok til at sejre over menneskets syndige natur, men Gud gav os sejr. Han sendte jo sin egen Søn ind i denne verden, for at han skulle leve under samme vilkår, som vi syndige mennesker levede under, og han gjorde ham til syndebuk for os alle. På den måde blev synden, som var i mennesket, dømt til døden. '
+            '1 Thess 4,1': '<h3>Esajas 4,1</h3><span class="chapternum">4 </span>Til den tid vil der være så få mænd tilbage, at syv kvinder vil gribe fat i én mand og råbe: „Vi skal nok forsørge os selv—bare vi må bære dit navn, så vi ikke skal vanæres ved at være ugifte og barnløse!”'
+            'Rom 6,14-15': '<h3>Romerne 6,14-15</h3><sup class="versenum">14 </sup>Synden skal ikke herske over jer, for I lever ikke under loven, men under Guds nåde.<sup class="versenum">15 </sup>„Skal vi så bare synde løs, fordi vi ikke lever under loven, men under Guds nåde?” spørger nogen måske. På ingen måde! '
+            'Gal 3,25 ': '<h3>Galaterne 3,25</h3><sup class="versenum">25 </sup>Og nu, da vi <em>er</em> kommet til tro, behøver vi ikke længere at blive bevogtet af den jødiske lov.'
+            'Hebr 8,10': '<h3>Hebræerne 8,10</h3><sup class="versenum">10 </sup>Den ny pagt, som jeg vil oprette med Israels folk engang i fremtiden, indeholder følgende løfte: Jeg vil lægge mine love i deres sind og skrive dem på deres hjerter. Jeg vil være deres Gud, og de skal være mit folk. '
+            'Rom 8,4 ': '<h3>Romerne 8,4</h3><sup class="versenum">4 </sup>Derfor kan vi, som nu lever under Åndens ledelse—og ikke under syndens herredømme—opfylde lovens gode hensigt. '
+            'Joh 8,34': '<h3>Johannes 8,34</h3><sup class="versenum">34 </sup>Jesus svarede: „Det siger jeg jer: Enhver, som lever i synd, er slave af synden. '
+            'Gal 5,18': '<h3>Galaterne 5,18</h3><sup class="versenum">18 </sup>Men hvis I virkelig er ledt af Helligånden, behøver I ikke loven til at holde styr på jer.'
+            'Rom 8,3': '<h3>Romerne 8,3</h3><sup class="versenum">3 </sup>Loven var ikke stærk nok til at sejre over menneskets syndige natur, men Gud gav os sejr. Han sendte jo sin egen Søn ind i denne verden, for at han skulle leve under samme vilkår, som vi syndige mennesker levede under, og han gjorde ham til syndebuk for os alle. På den måde blev synden, som var i mennesket, dømt til døden. '
+            'Rom 8,4': '<h3>Romerne 8,4</h3><sup class="versenum">4 </sup>Derfor kan vi, som nu lever under Åndens ledelse—og ikke under syndens herredømme—opfylde lovens gode hensigt. '
     -
         name: DN1933
         verses:

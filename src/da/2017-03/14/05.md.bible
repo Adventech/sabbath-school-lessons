@@ -3,16 +3,16 @@ title: 'En ny skabelse'
 date: 27/09/2017
 bible:
     -
-        name: BIBELEN
+        name: BPH
         verses:
-            '2 Kor 5,17 ': '<h3>2 Korinterne 5,17</h3><span>17</span> Derfor, om nogen er i Kristus, da er han en ny Skabning; det gamle er forbigangent, se, det er blevet nyt!'
-            'Matt 23,27': '<h3>Matthæus 23,27</h3><span>27</span> Ve eder, I skriftkloge og Farisæere, I Hyklere! thi I ere ligesom kalkede Grave, der jo synes dejlige udvendigt,men indvendigt ere fulde af døde Ben og al Urenhed.'
-            'Gal 6,15, ': '<h3>Galaterne 6,15</h3><span>15</span> Thi hverken Omskærelse eller Forhud er noget, men en ny Skabning.'
-            'Gal 5,2-4': '<h3>Galaterne 5,2-4</h3><span>2</span> Se, jeg, Paulus, siger eder, at dersom I lade eder omskære, vil Kristus intet gavne eder.<span>3</span> Men jeg vidner atter for hvert Menneske, som lader sig omskære, at han er skyldig at opfylde hele Loven.<span>4</span> I ere tabte for Kristus, I, som retfærdiggøres ved Loven; I ere faldne ud af Nåden.'
-            'Gal 6,15;': '<h3>Galaterne 6,15</h3><span>15</span> Thi hverken Omskærelse eller Forhud er noget, men en ny Skabning.'
-            'Hebr 4,13': '<h3>Hebræerne 4,13</h3><span>13</span> Og ingen Skabning er usynlig for hans Åsyn; men alle Ting ere nøgne og udspændte for hans Øjne, hvem vi stå til Regnskab.'
-            'Joh 3,5-8': '<h3>Johannes 3,5-8</h3><span>5</span> Jesus svarede: "Sandelig, sandelig, siger jeg dig, uden nogen bliver født af Vand og Ånd, kan han ikke komme ind i Guds Rige.<span>6</span> Hvad der er født af Kødet, er Kød; og hvad der er født af Ånden, er Ånd.<span>7</span> Forundre dig ikke over, at jeg sagde til dig: I må fødes på ny.<span>8</span> Vinden blæser, hvorhen den vil, og du hører dens Susen, men du ved ikke, hvorfra den kommer, og hvor den farer hen; således er det med hver den, som er født af Ånden."'
-            'Rom 8,22': '<h3>Romerne 8,22</h3><span>22</span> Thi vi vide, at hele Skabningen tilsammen sukker og er tilsammen i Veer indtil nu.'
+            '2 Kor 5,17 ': '<h3>2 Korinterne 5,17</h3><sup class="versenum">17 </sup>Den, der kommer til tro på Kristus, bliver et nyt menneske. Det gamle liv er forbi, et nyt liv er begyndt. '
+            'Matt 23,27': '<h3> Matthæus 23,27</h3><sup class="versenum">27 </sup>Ve jer selvretfærdige farisæere og skriftlærde, for I er som hvidkalkede gravkamre, der udvendigt ser fine ud, men indvendigt er fyldt op med skeletter og lig, der er gået i forrådnelse. '
+            'Gal 6,15, ': '<h3>Galaterne 6,15</h3><sup class="versenum">15 </sup>Om man er omskåret eller ej har intet at gøre med at blive accepteret af Gud. Det, der betyder noget, er, om et menneske har modtaget det nye, åndelige liv.'
+            'Gal 5,2-4': '<h3>Galaterne 5,2-4</h3><sup class="versenum">2 </sup>Hør hvad jeg, Paulus, siger til jer: Hvis I lader jer omskære for at få Gud til at acceptere jer, så gavner Kristi død jer ikke. <sup class="versenum">3 </sup>Jeg vil sige det helt klart til ethvert menneske, som lader sig omskære for at blive som jøderne: Så er du også nødt til at overholde alle de jødiske lovregler! <sup class="versenum">4 </sup>I, der søger at blive accepteret af Gud ved at følge de jødiske love, har afbrudt forbindelsen med Kristus. I har sagt nej til Guds nåde! '
+            'Gal 6,15;': '<h3>Galaterne 6,15</h3><sup class="versenum">15 </sup>Om man er omskåret eller ej har intet at gøre med at blive accepteret af Gud. Det, der betyder noget, er, om et menneske har modtaget det nye, åndelige liv.'
+            'Hebr 4,13': '<h3>Hebræerne 4,13</h3><sup class="versenum">13 </sup>Ingen kan gemme sig for Gud. Alt ligger åbent og udbredt for hans øjne, og vi skal engang stå til regnskab over for ham.'
+            'Joh 3,5-8': '<h3>Johannes 3,5-8</h3><sup class="versenum">5 </sup>Jesus svarede: „Det siger jeg dig: Det er kun, hvis et menneske bliver født af både vand og ånd, at det kan komme ind i Guds rige. <sup class="versenum">6 </sup>Et menneske føder et menneskebarn, men Guds Ånd føder et åndeligt barn. <sup class="versenum">7 </sup>Du skal ikke være så forundret over, at jeg sagde, at I skal fødes igen. <sup class="versenum">8 </sup>Tænk på vinden. Den blæser, hvorhen den vil. Du kan ikke se, hvor den kommer fra, eller hvor den skal hen, men du kan høre dens susen. Sådan er det også, når Guds Ånd giver et menneske åndeligt liv.”'
+            'Rom 8,22': '<h3>Romerne 8,22</h3><sup class="versenum">22 </sup>Vi ved, at alt det skabte til stadighed stønner og vrider sig som i veer. '
     -
         name: DN1933
         verses:

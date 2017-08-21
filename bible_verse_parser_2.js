@@ -22,7 +22,7 @@ var config = {
         "bg1940"
     ],
     "da": [
-        "bibelen",
+        "bph",
         "dn1933"
     ],
     "en": [

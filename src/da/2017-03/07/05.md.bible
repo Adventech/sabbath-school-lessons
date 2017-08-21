@@ -3,12 +3,12 @@ title: 'Loven som opdrager'
 date: 09/08/2017
 bible:
     -
-        name: BIBELEN
+        name: BPH
         verses:
-            'Gal 3,23 ': '<h3>Galaterne 3,23</h3><span>23</span> Men førend Troen kom, holdtes vi indelukkede under Lovens Bevogtning til den Tro, som skulde åbenbares,'
-            'Matt 5,28;': '<h3>Matthæus 5,28</h3><span>28</span> Men jeg siger eder, at hver den, som ser på en Kvinde for at begære hende, har allerede bedrevet Hor med hende i sit Hjerte.'
-            'Gal 3,24': '<h3>Galaterne 3,24</h3><span>24</span> så at Loven er bleven os en Tugtemester til Kristus, for at vi skulde blive retfærdiggjorte af Tro.'
-            'Rom 7,6': '<h3>Romerne 7,6</h3><span>6</span> Men nu ere vi løste fra Loven, idet vi ere bortdøde fra det, hvori vi holdtes nede, så at vi tjene i Åndens nye Væsen og ikke i Bogstavens gamle Væsen.'
+            'Gal 3,23 ': '<h3>Galaterne 3,23</h3><sup class="versenum">23 </sup>Indtil det at tro på Kristus blev en mulighed, levede vi jøder som i et fangenskab og blev bevogtet af loven. '
+            'Matt 5,28;': '<h3> Matthæus 5,28</h3><sup class="versenum">28 </sup>Men <em>jeg</em> siger jer, at enhver mand, der ser på en kvinde med tanker om utroskab, han har allerede begået ægteskabsbrud i sit hjerte. '
+            'Gal 3,24': '<h3>Galaterne 3,24</h3><sup class="versenum">24 </sup>Den skulle holde os i skak, indtil Kristus kom, og vi dermed kunne blive accepteret af Gud på grundlag af vores tro på ham. '
+            'Rom 7,6': '<h3>Romerne 7,6</h3><sup class="versenum">6 </sup>Men nu er vi løst fra loven. Vi er frigjort fra det, som bandt os, så vi nu kan tjene Gud på en helt ny måde—ved at lytte til Guds Ånd—i stedet for den gamle måde, som var bundet til lovens bogstav.'
     -
         name: DN1933
         verses:

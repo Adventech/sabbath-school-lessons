@@ -3,16 +3,16 @@ title: 'Bær hinandens byrder'
 date: 19/09/2017
 bible:
     -
-        name: BIBELEN
+        name: BPH
         verses:
-            'Matt 7,12 ': '<h3>Matthæus 7,12</h3><span>12</span> Altså, alt hvad I ville, at Menneskene skulle gøre imod eder, det skulle også I gøre imod dem; thi dette er Loven og Profeterne.'
-            'Gal 6,2-5;': '<h3>Galaterne 6,2-5</h3><span>2</span> Bærer hverandres Byrder og opfylder således Kristi Lov!<span>3</span> Thi når nogen mener, at han er noget, skønt han intet er, da bedrager han sig selv.<span>4</span> Men hver prøve sin egen Gerning, og da skal han have sin Ros i Forhold til sig selv alene, og ikke til Næsten;<span>5</span> thi hver skal bære sin egen Byrde.'
-            'Matt 20,12': '<h3>Matthæus 20,12</h3><span>12</span> Disse sidste have kun arbejdet een Time, og du har gjort dem lige med os, som have båret Dagens Byrde og Hede.'
-            'Rom 15,1;': '<h3>Romerne 15,1</h3><span>1</span> Men vi, som ere stærke, bør bære de svages Skrøbeligheder og ikke være os selv til Behag.'
-            'Gal 6,2, ': '<h3>Galaterne 6,2</h3><span>2</span> Bærer hverandres Byrder og opfylder således Kristi Lov!'
-            'Gal 6,1 ': '<h3>Galaterne 6,1</h3><span>1</span> Brødre! om også et Menneske bliver overrasket af nogen Forsyndelse, da hjælper en sådan til Rette, I åndelige! med Sagtmodigheds Ånd, og se til dig selv, at ikke også du bliver fristet!'
-            '2 Kor 7,6': '<h3>2 Korinterne 7,6</h3><span>6</span> Men han, som trøster de nedbøjede, Gud, han trøstede os ved Titus''s Komme;'
-            'Gal 6,3': '<h3>Galaterne 6,3</h3><span>3</span> Thi når nogen mener, at han er noget, skønt han intet er, da bedrager han sig selv.'
+            'Matt 7,12 ': '<h3> Matthæus 7,12</h3><sup class="versenum">12 </sup>Sådan som I ønsker, at andre skal gøre mod jer, sådan skal I gøre mod dem. Det er Toraen og Profeterne i en nøddeskal.'
+            'Gal 6,2-5;': '<h3>Galaterne 6,2-5</h3><sup class="versenum">2 </sup>Vær med til at bære hinandens byrder. På den måde opfylder I Kristi kærlighedslov.<sup class="versenum">3 </sup>Hvis I tror for meget om jer selv, bedrager I jer selv. <sup class="versenum">4 </sup>I må hver især vurdere jeres egne handlinger. Er I tilfredse med dem, kan I være glade. Men lad være at sammenligne jer med hinanden. <sup class="versenum">5 </sup>I må tage det ansvar på jer, som I hver især har fået.'
+            'Matt 20,12': '<h3> Matthæus 20,12</h3><sup class="versenum">12 </sup>‚Jamen, de sidste dér har jo kun været i arbejde i én time, og du har givet dem lige så meget som os, der har slidt i det hele dagen og kæmpet os igennem middagsheden.’'
+            'Rom 15,1;': '<h3>Romerne 15,1</h3><span class="chapternum">15 </span>Vi, som er „stærke”, skal bære over med andres svagheder og ikke kun tænke på os selv. '
+            'Gal 6,2, ': '<h3>Galaterne 6,2</h3><sup class="versenum">2 </sup>Vær med til at bære hinandens byrder. På den måde opfylder I Kristi kærlighedslov.'
+            'Gal 6,1 ': '<h3>Galaterne 6,1</h3><span class="chapternum">6 </span>Hvis nogen af jer kommer til at gøre et fejltrin, skal I andre, som er stærkere i Ånden, hjælpe vedkommende op igen, men gør det nænsomt. Glem ikke, at det kunne have været jer selv, som faldt for en fristelse. '
+            '2 Kor 7,6': '<h3>2 Korinterne 7,6</h3><sup class="versenum">6 </sup>Men Gud, som styrker de nedtrykte, gav os ny styrke, da Titus kom. '
+            'Gal 6,3': '<h3>Galaterne 6,3</h3><sup class="versenum">3 </sup>Hvis I tror for meget om jer selv, bedrager I jer selv. '
     -
         name: DN1933
         verses:
