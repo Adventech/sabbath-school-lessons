@@ -17,6 +17,12 @@ var fs            = require("fs"),
     yamljs        = require("yamljs"),
     bibleSearch   = require("adventech-bible-tools");
 
+String.prototype.customTrim = function(charlist) {
+    var tmp = this.replace(new RegExp("^[" + charlist + "]+"), "");
+    tmp = tmp.replace(new RegExp("[" + charlist + "]+$"), "")
+    return tmp;
+};
+
 var config = {
     "bg": [
         "bg1940"
@@ -92,7 +98,7 @@ function processParsing (path){
             });
 
             for (var j = 0; j < bibleReferenceMatches.length; j++){
-                var verse = bibleReferenceMatches[j].trim();
+                var verse = bibleReferenceMatches[j].customTrim(" .;,");
                 var reference = bibleSearch.search(lang, bibleVersion, verse),
                     result = "";
 
