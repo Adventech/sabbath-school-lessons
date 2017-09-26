@@ -263,10 +263,18 @@ var create_days_api = function(language, quarterly, lesson){
 
     try {
       fs.lstatSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE);
+    } catch (err) {
+      if (changeCheck(WORKING_DIR + "/" + _days[i]) && !generated_bible_verse) {
+         create_bible_references(WORKING_DIR + "/" + _days[i], language);
+         generated_bible_verse = true;
+      }
+    }
+
+    try {
+      fs.lstatSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE);
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE, "utf-8"), {renderer: renderer});
       found_bible_edition = true;
     } catch (err) {
-      if (changeCheck(WORKING_DIR + "/" + _days[i]) && !generated_bible_verse) { create_bible_references(WORKING_DIR + "/" + _days[i], language); generated_bible_verse = true; }
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8"), {renderer: renderer});
     }
 
