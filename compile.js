@@ -259,14 +259,14 @@ var create_days_api = function(language, quarterly, lesson){
         _day = _days[i].replace("." + SOURCE_EXTENSION, "");
     if (extension != SOURCE_EXTENSION) continue;
 
-    var _read, day, read, found_bible_edition = false;
+    var _read, day, read, found_bible_edition = false, generated_bible_verse = false;
 
     try {
       fs.lstatSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE);
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE, "utf-8"), {renderer: renderer});
       found_bible_edition = true;
     } catch (err) {
-      if (changeCheck(WORKING_DIR + "/" + _days[i])) { create_bible_references(WORKING_DIR + "/" + _days[i], language); }
+      if (changeCheck(WORKING_DIR + "/" + _days[i]) && !generated_bible_verse) { create_bible_references(WORKING_DIR + "/" + _days[i], language); generated_bible_verse = true; }
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8"), {renderer: renderer});
     }
 
@@ -300,7 +300,7 @@ var create_days_api = function(language, quarterly, lesson){
 
     days.push(day);
 
-    if (found_bible_edition) {
+    if (found_bible_edition && !generated_bible_verse) {
       if (!changeCheck(WORKING_DIR + "/" + _days[i]) && !changeCheck(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE)) continue;
     } else {
       if (!changeCheck(WORKING_DIR + "/" + _days[i])) continue;
