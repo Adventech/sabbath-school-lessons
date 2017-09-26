@@ -146,6 +146,7 @@ if (branch.toLowerCase() == "master"){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
+  if (path.indexOf("2017-04") >= 0) return true;
   if (lastModified == "force") return true;
   return exec('git log '+lastModified+' '+path).toString().length>0;
 };
@@ -232,7 +233,7 @@ var create_bible_references = function(path, language){
     if (meta.bible.length <= 0){
         delete meta.bible;
     } else {
-        fswf(path + "." + SOURCE_EXTENSION_BIBLE, "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
+        fs.writeFileSync(path + "." + SOURCE_EXTENSION_BIBLE, "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
     }
 };
 
