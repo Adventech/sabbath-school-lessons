@@ -9,7 +9,8 @@ var exec = require('child_process').execSync,
     metaMarked =    require("meta-marked"),
     fs =            require("fs-extra"),
     yamljs =        require("yamljs"),
-    fswf =          require("safe-write-file");
+    fswf =          require("safe-write-file"),
+    bibleSearch   = require("adventech-bible-tools");
 
 var firebase = require("firebase"),
     async = require("async");
@@ -30,6 +31,61 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
+
+
+var BIBLE_PARSER_CONFIG = {
+    "bg": [
+        "bg1940"
+    ],
+
+    "da": [
+        "bph",
+        "dn1933"
+    ],
+
+    "de": [
+        "luth1545",
+        "luth1912"
+    ],
+
+    "en": [
+        "nkjv",
+        "kjv"
+    ],
+
+    "es": [
+        "rvr1960"
+    ],
+
+    "fr": [
+        "lsg"
+    ],
+
+    "ja": [
+        "kougo-yaku",
+        "jlb"
+    ],
+
+    "in": [
+        "alkitab"
+    ],
+
+    "ro": [
+        "rmnn"
+    ],
+
+    "ru": [
+        "rusv"
+    ],
+
+    "tr": [
+        "kitab"
+    ],
+
+    "zh": [
+        "cuvs"
+    ]
+};
 
 var argv = require("optimist")
   .usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
@@ -84,6 +140,12 @@ var changeCheck = function(path){
   return exec('git log '+lastModified+' '+path).toString().length>0;
 };
 
+String.prototype.customTrim = function(charlist) {
+    var tmp = this.replace(new RegExp("^[" + charlist + "]+"), "");
+    tmp = tmp.replace(new RegExp("[" + charlist + "]+$"), "")
+    return tmp;
+};
+
 var create_languages_api = function(){
   /**
    * Creating languages API
@@ -106,6 +168,64 @@ var create_languages_api = function(){
 
   fswf(DIST_DIR + "/languages/index.json", JSON.stringify(languages));
   return languages;
+};
+
+var create_bible_references = function(path, language){
+    var read = metaMarked(fs.readFileSync(path, "utf-8")),
+        meta = read.meta;
+
+    meta.bible = [];
+
+    if (!(language in BIBLE_PARSER_CONFIG)) return;
+
+    console.log(language);
+
+    for (var bibleVersionIterator = 0; bibleVersionIterator < BIBLE_PARSER_CONFIG[language].length; bibleVersionIterator++){
+        var bibleVersion = BIBLE_PARSER_CONFIG[language][bibleVersionIterator],
+            bibleRegex = bibleSearch.getBibleRegex(language, bibleVersion),
+            bibleReferenceMatches = read.markdown.match(new RegExp(bibleRegex.regex, "g")),
+            resultRead = read.markdown,
+            resultBible = {};
+
+        resultBible["name"] = bibleVersion.toUpperCase();
+        resultBible["verses"] = {};
+
+        if (!bibleReferenceMatches) { continue; }
+
+        bibleReferenceMatches = bibleReferenceMatches.sort(function(a,b){
+            return b.length - a.length;
+        });
+
+        for (var j = 0; j < bibleReferenceMatches.length; j++){
+            var verse = bibleReferenceMatches[j].customTrim(" .;,");
+            var reference = bibleSearch.search(language, bibleVersion, verse),
+                result = "";
+
+
+            for (var k = 0; k < reference.results.length; k++){
+                if (reference.results[k]["verses"]){
+                    result += reference.results[k]["header"] + reference.results[k]["verses"];
+                }
+            }
+
+            if (result.length){
+                var firebaseReadyMatch = bibleReferenceMatches[j].replace(/\.|\#|\$|\/|\[|\]/g, '');
+                resultBible["verses"][firebaseReadyMatch] = result;
+                resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+firebaseReadyMatch+'">'+bibleReferenceMatches[j]+'</a>');
+            }
+        }
+
+        if (Object.keys(resultBible["verses"]).length){
+            meta.bible.push(resultBible);
+        }
+
+    }
+
+    if (meta.bible.length <= 0){
+        delete meta.bible;
+    } else {
+        fswf(path + "." + SOURCE_EXTENSION_BIBLE, "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
+    }
 };
 
 var create_days_api = function(language, quarterly, lesson){
@@ -138,6 +258,7 @@ var create_days_api = function(language, quarterly, lesson){
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE, "utf-8"), {renderer: renderer});
       found_bible_edition = true;
     } catch (err) {
+      create_bible_references(WORKING_DIR + "/" + _days[i], language);
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8"), {renderer: renderer});
     }
 
