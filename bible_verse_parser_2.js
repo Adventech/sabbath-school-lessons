@@ -32,6 +32,7 @@ var config = {
         "dn1933"
     ],
     "en": [
+        "nasb",
         "nkjv",
         "kjv"
     ],
