@@ -49,6 +49,7 @@ var BIBLE_PARSER_CONFIG = {
     ],
 
     "en": [
+        "nasb",
         "nkjv",
         "kjv"
     ],
@@ -66,6 +67,11 @@ var BIBLE_PARSER_CONFIG = {
         "jlb"
     ],
 
+    "pt": [
+        "arc",
+        "nvi-pt"
+    ],
+
     "in": [
         "alkitab"
     ],
@@ -80,6 +86,10 @@ var BIBLE_PARSER_CONFIG = {
 
     "tr": [
         "kitab"
+    ],
+
+    "uk": [
+        "ukr"
     ],
 
     "zh": [
@@ -178,8 +188,6 @@ var create_bible_references = function(path, language){
 
     if (!(language in BIBLE_PARSER_CONFIG)) return;
 
-    console.log(language);
-
     for (var bibleVersionIterator = 0; bibleVersionIterator < BIBLE_PARSER_CONFIG[language].length; bibleVersionIterator++){
         var bibleVersion = BIBLE_PARSER_CONFIG[language][bibleVersionIterator],
             bibleRegex = bibleSearch.getBibleRegex(language, bibleVersion),
@@ -258,7 +266,7 @@ var create_days_api = function(language, quarterly, lesson){
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE, "utf-8"), {renderer: renderer});
       found_bible_edition = true;
     } catch (err) {
-      create_bible_references(WORKING_DIR + "/" + _days[i], language);
+      if (changeCheck(WORKING_DIR + "/" + _days[i])) { create_bible_references(WORKING_DIR + "/" + _days[i], language); }
       _read = metaMarked(fs.readFileSync(WORKING_DIR + "/" + _days[i], "utf-8"), {renderer: renderer});
     }
 
