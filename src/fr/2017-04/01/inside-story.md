@@ -1,28 +1,32 @@
 ---
 title:  Histoire
-date:   30/06/2017
+date:   06/10/2017
 ---
 
-#### Histoires missionnaires et bien plus
+### Sauvé par le sabbat
 
-Chaque trimestre, le Bureau de la Mission Adventiste vous apporte de passionnantes histoires missionnaires dans le Guide d’Étude Biblique de l’École du Sabbat adulte. Saviez-vous qu’en plus de ces histoires, nous fournissons aussi gratuitement un certain nombre d’autres ressources contenant des histoires de la grande mission? Toutes les ressources énumérées ci-dessous sont disponibles pour téléchargement gratuit sur www.adventistmission.org/ resources.
+André a grandi dans la ville ukrainienne occidentale de Loutsk. À l’école, il a fait la connaissance de Pavel, un  étudiant qui fréquentait l’Église Adventiste du Septième Jour. Étant un incroyant, André ne pensait pas grand- chose à propos de quand et où les gens allaient à l’église. 
 
-- **La Mission Trimestrielle des Jeunes et des Adultes**, mettant en phase les passionnantes histoires missionnaires chaque semaine pour partager à l’École du Sabbat, dans les services d’adoration des explorateurs à l’école et à la maison, et plus.
-- **La Mission Trimestrielle des Enfants.** Outre des histoires passionnantes de mission pour les enfants, les recettes, l’artisanat et les jeux sont inclus. Cet excellent matériel peut être utilisé pour enseigner l’École du Sabbat des enfants, pour les services d’adoration des enfants à l’école, à la maison et plus.
-- **Mission Projecteur**. Produit par le Bureau de la Mission adventiste à la Conférence Générale, ces programmes courts vous donnent un aperçu direct des endroits où sont utilisées vos offrandes missionnaires et vous donnent l’occasion de rencontrer certaines personnes qui bénéficieront de votre générosité.
+Après avoir terminé leurs études secondaires, André et Pavel voulurent étudier à l’Académie Nationale des Arts  de Lviv, alors ils allèrent à Lviv pour passer l’examen d’entrée à l’Académie. Après avoir terminé l’examen, les  deux décidèrent de marcher autour du campus. 
 
-En plus de visiter les sites des projets des offrandes du treizième sabbat, Mission Projecteur vous mènera à un certain nombre d’endroits où vos offrandes missionnaires régulières font une différence.
+Soudain, un avis important sur une annonce attira leur attention. Il y aurait un spectacle aérien commémorant  le 60e anniversaire de la 14e armée de l’Air ukrainienne. L’évènement se tiendrait à l’Aérodrome de Sknyliv, à  six kilomètres du centre Lviv. 
 
-Le DVD Mission Projecteur est très populaire et conçu pour être projeté au cours de l’École du Sabbat, avant le service d’adoration, lors des programmes des jeunes, des réunions de prière et plus encore. Il est absolument gratuit et disponible sur le site Web de la Mission Adventiste.
+Avec enthousiasme, André et Pavel commencèrent à lire attentivement l’avis pour plus de détails. Puis, Pavel  remarqua la date du spectacle aérien: le 27 juillet 2002. Réalisant que ce jour serait un samedi, il décida qu’il  n’irait pas au défilé. 
 
-**Projets du Treizième Sabbat**
+« André, je vais à l’église le 27 juillet – veux-tu venir avec moi? » demanda Pavel. 
 
-Ce trimestre, l’offrande du treizième sabbat se rendra à la Division d’Asie du Sud (SUD) et sera bénéfique pour les projets suivants en Inde :
+Ce fut le tour d’André d’examiner attentivement la situation. Il voulait vraiment aller à ce spectacle, mais il y  avait quelque chose de si sincère dans l’invitation de Pavel, au point qu’André décida d’accepter. Il se demandait qu’est-ce qui pouvait être si spécial au sujet de l’église au point que Pavel choisisse d’y aller plutôt  que d’aller au défilé. 
 
-1. **Centre de formation à Ibrahimpatnam**. Ce centre de formation sera utilisé pour des programmes de formation des membres laïcs. L’auditorium sera au rez-de-chaussée, avec des dortoirs dans les deuxième et troisième étages.
-2. **Dortoirs des filles au Lycée adventiste du septième jour à Dimapur**. Ce lycée adventiste a commencé il y a sept ans. Les dortoirs des filles sont maintenant nécessaires pour accueillir plus d’étudiants.
-3. **Dortoirs des filles au Lycée de James Memorial à Prakasapuram Tamil Nadu**. Le bâtiment actuel peut accueillir 100 filles et n’est pas assez grand pour répondre à la demande.
-4. **Quatorze nouvelles salles de classe au lycée adventiste du septième jour à Vellarada**. Les salles de classe actuelles sont très vieilles et construites avec des murs de boue et un toit en tôle d’étain. Les normes de construction du ministère de l’éducation n’autorisent plus la tenue des classes dans les bâtiments en toit d’étain. Les nouvelles salles de classe permettront à l’école de fonctionner à nouveau.
-5. **Construction de nouvelles salles de classe au Lycée adventiste du septième jour de Hatkanangale**. Cette école est ouverte en 1931 comme l’une des plus prestigieuses du pays. Cependant, les salles de classe sont vieilles et ont besoin d’être remplacées.
+En réfléchissant à cette première visite à l’Église Adventiste du Septième Jour, André se rappela plus tard: «  nous y avons passé toute la journée, et j’ai vraiment aimé l’église. » 
 
-**Merci de votre généreux soutien à la mission!**
+Ce que Pavel et André ne savaient pas était que, alors qu’ils étaient à l’église, la pire catastrophe aérienne au  spectacle dans l’histoire se déroulait à l’aérodrome de Sknyliv. 
+
+Avec plus de 10 000 spectateurs, à 12:52, un avion Su-27, piloté par deux experts pilotes, s’est écrasé et  explosé dans la foule des spectateurs. 
+
+Soixante-dix-sept spectateurs furent tués, dont 28 enfants. 543 spectateurs furent blessés, dont 100 des  personnes blessées et hospitalisées connurent des traumatismes crâniens, des brulures et des fractures osseuses. 
+
+Quand André a appris la nouvelle le lendemain, il était stupéfait. « Cet évènement m’a fait comprendre que  j’aurais pu y mourir ou être gravement blessé. Je suis devenu ami avec les nombreux jeunes à l’église Adventiste, « et après avoir fréquenté l’église régulièrement pendant un an, j’ai décidé d’être baptisé. » 
+
+Plus tard, André a décidé de changer ses plans de carrière et a étudié au Centre Adventiste de l’Enseignement  Supérieur à Bucha en Ukraine, pour devenir un pasteur. En 2004, une partie de l’offrande du treizième sabbat a  aidé à construire un dortoir à Bucha.
+
+En 2014, l’offrande du treizième sabbat a aidé à construire ou à agrandir les écoles à Lviv, Tcherkassy et  Vinnitsa, en Ukraine, et à établir un complexe éducatif à Dnipropetrovsk. Merci de soutenir cette importante offrande. 
