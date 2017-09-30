@@ -25,4 +25,4 @@ Ce trimestre, l’offrande du treizième sabbat se rendra à la Division d’Asi
 4. **Quatorze nouvelles salles de classe au lycée adventiste du septième jour à Vellarada**. Les salles de classe actuelles sont très vieilles et construites avec des murs de boue et un toit en tôle d’étain. Les normes de construction du ministère de l’éducation n’autorisent plus la tenue des classes dans les bâtiments en toit d’étain. Les nouvelles salles de classe permettront à l’école de fonctionner à nouveau.
 5. **Construction de nouvelles salles de classe au Lycée adventiste du septième jour de Hatkanangale**. Cette école est ouverte en 1931 comme l’une des plus prestigieuses du pays. Cependant, les salles de classe sont vieilles et ont besoin d’être remplacées.
 
-**Merci de votre généreux soutien à la mission!*
+**Merci de votre généreux soutien à la mission!**
