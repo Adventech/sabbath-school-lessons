@@ -31,6 +31,12 @@ var config = {
         "bph",
         "dn1933"
     ],
+
+    "de": [
+        "luth1545",
+        "luth1912"
+    ],
+
     "en": [
         "nasb",
         "nkjv",
