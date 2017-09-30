@@ -70,7 +70,9 @@ var config = {
 
     "zh": [
         "cuvs"
-    ]
+    ],
+
+    "uk": ["ukr"]
 };
 
 var SOURCE_EXTENSION = "md";
