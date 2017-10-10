@@ -6,7 +6,6 @@ date:   20/10/2017
 ### El sábado enseñaré...
 
 **Texto Clave:** Romanos 3:23.
- 
 
 #### Enseña a tu clase a:
 
