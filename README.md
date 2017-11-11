@@ -5,6 +5,10 @@
 
 This repository contains all lessons for the Sabbath School app (for all platforms).
 
+## Contribution
+
+[Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
+
 ## Acknowledgments 
 
 Thank you for supporting Open Source with your service:
