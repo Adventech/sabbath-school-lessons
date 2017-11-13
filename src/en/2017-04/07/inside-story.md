@@ -15,9 +15,7 @@ The second person who had tried to kill him became permanently disabled and the 
 
 As the new year drew near, Vasily geared up for the big parties that would take place—two weeks of drinking vodka and smoking.
 
-But this year, it wasn’t the same. Vasily no longer enjoyed the partying. At
-
-the end of two weeks, he had had enough. Was I born for such a dirty life? he asked himself. The answer was a decided, No! I need a new life!
+But this year, it wasn’t the same. Vasily no longer enjoyed the partying. At the end of two weeks, he had had enough. "Was I born for such a dirty life?" he asked himself. The answer was a decided, No! I need a new life!
 
 Falling to his knees, he prayed that God would help him. Somehow he was able to obtain a Bible, and with the Bible in hand, he went to each of his friends, inviting them to come with him to the forest for three days. Two friends decided to join him.
 
