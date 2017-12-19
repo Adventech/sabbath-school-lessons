@@ -3,26 +3,26 @@ title:  Histoire
 date:   22/12/2017
 ---
 
-### Sauvé dans le ciel: 1e partie
+### Sauv&eacute; dans le ciel: 1e partie
 
-**NDLR: pasteur Nikolai Zhukaljuk a servi l’Église Adventiste du Septième Jour pendant plus de 40 ans comme pasteur, écrivain, éditeur, et ancien président de l’Union des Fédérations d’Ukraine. Dans l’histoire ci-dessous, il partage un moment crucial de son temps dans l’armée soviétique.**
+**NDLR: pasteur Nikolai Zhukaljuk a servi lâ€™Ã‰glise Adventiste du SeptiÃ¨me Jour pendant plus de 40 ans comme pasteur, Ã©crivain, Ã©diteur, et ancien prÃ©sident de lâ€™Union des FÃ©dÃ©rations dâ€™Ukraine. Dans lâ€™histoire ci-dessous, il partage un moment crucial de son temps dans lâ€™armÃ©e soviÃ©tique.**
  
-Mon temps de service militaire obligatoire dans l’armée soviétique était presque terminé. 
+Mon temps de service militaire obligatoire dans lâ€™armÃ©e soviÃ©tique Ã©tait presque terminÃ©. 
 
-Une de mes responsabilités était de servir comme journaliste pour le journal militaire. Mes supérieurs étaient satisfaits de mon travail et je voulais continuer comme rédacteur en chef. Ils m’ont offert un appartement à Leningrad, qui pendant ce temps était très difficile à avoir. 
+Une de mes responsabilitÃ©s Ã©tait de servir comme journaliste pour le journal militaire. Mes supÃ©rieurs Ã©taient satisfaits de mon travail et je voulais continuer comme rÃ©dacteur en chef. Ils mâ€™ont offert un appartement Ã  Leningrad, qui pendant ce temps Ã©tait trÃ¨s difficile Ã  avoir. 
 
-Il n’y avait qu’une seule condition – je devais devenir un communiste.
+Il nâ€™y avait quâ€™une seule condition â€“ je devais devenir un communiste.
 
-À l’époque soviétique, personne ne pouvait travailler dans de telles positions sans être communiste. 
+Ã€ lâ€™Ã©poque soviÃ©tique, personne ne pouvait travailler dans de telles positions sans Ãªtre communiste. 
 
-Dans quelques jours, je fus invité à rencontrer le général. Il me dit: « Vous pouvez continuer avec le service militaire. Nous vous donnerons le grade d’officier, et vous pouvez rester avec nous. Vous aurez des voyages d’affaires dans différents lieux et vous travaillerez avec le camp militaire. Vous pouvez rester dans l’armée et travailler ici. » 
+Dans quelques jours, je fus invitÃ© Ã  rencontrer le gÃ©nÃ©ral. Il me dit: Â« Vous pouvez continuer avec le service militaire. Nous vous donnerons le grade dâ€™officier, et vous pouvez rester avec nous. Vous aurez des voyages dâ€™affaires dans diffÃ©rents lieux et vous travaillerez avec le camp militaire. Vous pouvez rester dans lâ€™armÃ©e et travailler ici. Â» 
 
-Alors, j’avais deux propositions – devenir un rédacteur en chef ou un officier militaire. C’était une grande tentation – je pensais à ce que ce serait de devenir un officier et à tout ce que je recevrais. D’autre part, avoir un appartement à Léningrad était un rêve pour moi! 
+Alors, jâ€™avais deux propositions â€“ devenir un rÃ©dacteur en chef ou un officier militaire. Câ€™Ã©tait une grande tentation â€“ je pensais Ã  ce que ce serait de devenir un officier et Ã  tout ce que je recevrais. Dâ€™autre part, avoir un appartement Ã  LÃ©ningrad Ã©tait un rÃªve pour moi! 
 
-J’ai sérieusement envisagé d’accepter une de ces offres, même si cela signifierait renoncer à ma foi en Dieu et devenir un communiste. 
+Jâ€™ai sÃ©rieusement envisagÃ© dâ€™accepter une de ces offres, mÃªme si cela signifierait renoncer Ã  ma foi en Dieu et devenir un communiste. 
 
-À ce moment-là, j’ai également servi comme un parachutiste militaire et participé à environ 80 opérations de parachutistes. Un jour, alors que nous nous sommes préparés pour une autre opération, le commandant en chef me dit: « je vais passer en premier, et vous serez le dernier d’entre eux à sauter. Nous aurons 15 soldats entre toi et moi. » Les parachutes de tous les soldats devant moi s’ouvriraient automatiquement, mais j’aurais besoin d’ouvrir le mien manuellement. Je me dis que ce serait bien, je suis courageux, je suis très expérimenté, j’ai fait cela plusieurs fois déjà. 
+Ã€ ce moment-lÃ , jâ€™ai Ã©galement servi comme un parachutiste militaire et participÃ© Ã  environ 80 opÃ©rations de parachutistes. Un jour, alors que nous nous sommes prÃ©parÃ©s pour une autre opÃ©ration, le commandant en chef me dit: Â« je vais passer en premier, et vous serez le dernier dâ€™entre eux Ã  sauter. Nous aurons 15 soldats entre toi et moi. Â» Les parachutes de tous les soldats devant moi sâ€™ouvriraient automatiquement, mais jâ€™aurais besoin dâ€™ouvrir le mien manuellement. Je me dis que ce serait bien, je suis courageux, je suis trÃ¨s expÃ©rimentÃ©, jâ€™ai fait cela plusieurs fois dÃ©jÃ . 
 
-J’ai sauté le dernier. Après une brève chute libre, j’ai tiré le noeud du cordon. Rien ne se passa. Essayant de ne pas paniquer, je suis arrivé au cordon d’urgence et je tirai le noeud. Encore une fois, aucun parachute n’apparut. Il n’y avait rien d’autre que le ciel bleu en haut et le sol en bas. J’ai compris que c’était la fin. Le sentiment qui me submergeait à cet endroit est quelque chose que seule une personne dans le ciel peut comprendre. 
+Jâ€™ai sautÃ© le dernier. AprÃ¨s une brÃ¨ve chute libre, jâ€™ai tirÃ© le noeud du cordon. Rien ne se passa. Essayant de ne pas paniquer, je suis arrivÃ© au cordon dâ€™urgence et je tirai le noeud. Encore une fois, aucun parachute nâ€™apparut. Il nâ€™y avait rien dâ€™autre que le ciel bleu en haut et le sol en bas. Jâ€™ai compris que câ€™Ã©tait la fin. Le sentiment qui me submergeait Ã  cet endroit est quelque chose que seule une personne dans le ciel peut comprendre. 
 
-À suivre ....
+Ã€ suivre ....
