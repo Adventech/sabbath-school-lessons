@@ -4,7 +4,7 @@ date:   29/12/2017
 ---
 
 
-### Sauvé dans le ciel: 2e partie
+### Sauv&eacute; dans le ciel: 2e partie
 
 J’ouvrai mon manteau lourd et essayai de l’utiliser pour briser ma chute libre. Puis je commençai à faire une prière sérieuse que je n’avais jamais faite, croyant qu’elle allait probablement être ma dernière: 
 
