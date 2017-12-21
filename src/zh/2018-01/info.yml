@@ -4,3 +4,5 @@
   human_date: "2018年第1季"
   start_date: "30/12/2017"
   end_date: "30/03/2018"
+  color_primary: "#938910"
+  color_primary_dark: "#2D2A05"
