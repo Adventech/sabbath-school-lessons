@@ -92,8 +92,12 @@ var LOCALE_VARS = {
     "uk": "Місіонерська історія",
     "ja": "Inside Story",
     "zh": "Inside Story"
-  }
+  },
 };
+
+var primary = "#ffffff",
+    dark = "#000000";
+
 
 function pad(n) {
   return (n < 10) ? ("0" + n) : n;
@@ -145,7 +149,7 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
   start_date = moment(start_date).add(-1, "d");
 
-  fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"");
+  fswf(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \""+primary+"\"\n  color_primary_dark: \""+dark+"\"");
   fs.copySync(QUARTERLY_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/cover.png");
 
   console.log("File structure for new quarterly created");
