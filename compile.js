@@ -4,13 +4,15 @@
  * Created by vitalik on 16-10-15.
  */
 
-var exec = require('child_process').execSync,
-    ent =           require('ent'),
-    metaMarked =    require("meta-marked"),
-    fs =            require("fs-extra"),
-    yamljs =        require("yamljs"),
-    fswf =          require("safe-write-file"),
-    bibleSearch   = require("adventech-bible-tools");
+var exec                = require('child_process').execSync,
+    ent                 = require('ent'),
+    metaMarked          = require("meta-marked"),
+    fs                  = require("fs-extra"),
+    yamljs              = require("yamljs"),
+    fswf                = require("safe-write-file"),
+    bibleSearch         = require("adventech-bible-tools"),
+    bibleSearchBCV      = require("adventech-bible-tools/bible_tools_bcv"),
+    bibleHelpers        = require("adventech-bible-tools/bible_helpers");
 
 var firebase = require("firebase"),
     async = require("async");
@@ -31,7 +33,6 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
-
 
 var BIBLE_PARSER_CONFIG = {
     "bg": [
@@ -183,6 +184,62 @@ var create_languages_api = function(){
 
 var create_bible_references = function(path, language){
     var read = metaMarked(fs.readFileSync(path, "utf-8")),
+        meta = read.meta;
+
+    meta.bible = [];
+
+    if (!(language in BIBLE_PARSER_CONFIG)) return;
+
+    for (var bibleVersionIterator = 0; bibleVersionIterator < BIBLE_PARSER_CONFIG[language].length; bibleVersionIterator++){
+        var bibleVersion = BIBLE_PARSER_CONFIG[language][bibleVersionIterator],
+            bibleRegex = bibleSearch.getBibleRegex(language, bibleVersion),
+            bibleReferenceMatches = read.markdown.match(new RegExp(bibleRegex.regex, "g")),
+            resultRead = read.markdown,
+            resultBible = {};
+
+        resultBible["name"] = bibleVersion.toUpperCase();
+        resultBible["verses"] = {};
+
+        if (!bibleReferenceMatches) { continue; }
+
+        bibleReferenceMatches = bibleReferenceMatches.sort(function(a,b){
+            return b.length - a.length;
+        });
+
+        for (var j = 0; j < bibleReferenceMatches.length; j++){
+            var verse = bibleReferenceMatches[j].customTrim(" .;,");
+            var reference = bibleSearch.search(language, bibleVersion, verse),
+                result = "";
+
+
+            for (var k = 0; k < reference.results.length; k++){
+                if (reference.results[k]["verses"]){
+                    result += reference.results[k]["header"] + reference.results[k]["verses"];
+                }
+            }
+
+            if (result.length){
+                var firebaseReadyMatch = bibleReferenceMatches[j].replace(/\.|\#|\$|\/|\[|\]/g, '');
+                resultBible["verses"][firebaseReadyMatch] = result;
+                resultRead = resultRead.replace(new RegExp('(?!<a[^>]*?>)('+bibleReferenceMatches[j]+')(?![^<]*?</a>)', "g"), '<a class="verse" verse="'+firebaseReadyMatch+'">'+bibleReferenceMatches[j]+'</a>');
+            }
+        }
+
+        if (Object.keys(resultBible["verses"]).length){
+            meta.bible.push(resultBible);
+        }
+
+    }
+
+    if (meta.bible.length <= 0){
+        delete meta.bible;
+    } else {
+        fs.writeFileSync(path + "." + SOURCE_EXTENSION_BIBLE, "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
+    }
+};
+
+var create_bible_references_bcv = function(path, language){
+    var read = metaMarked(fs.readFileSync(path, "utf-8")),
         meta = read.meta,
         readReplaced = false;
 
@@ -190,14 +247,19 @@ var create_bible_references = function(path, language){
 
     if (!(language in BIBLE_PARSER_CONFIG)) return;
 
-    console.log(path, language)
-
     for (var bibleVersionIterator = 0; bibleVersionIterator < BIBLE_PARSER_CONFIG[language].length; bibleVersionIterator++){
         var bibleVersion = BIBLE_PARSER_CONFIG[language][bibleVersionIterator],
             resultRead = read.markdown,
             resultBible = {};
 
-        var result = bibleSearch.search(language, bibleVersion, resultRead);
+        try {
+            var result = bibleSearchBCV.search(language, bibleVersion, resultRead);
+        } catch (err){
+            if (err.sender === "bibleParserBCVMissingLanguage"){
+                console.log(path, language);
+                create_bible_references(path, language);
+            }
+        }
 
         if (!result) continue;
 
@@ -250,7 +312,7 @@ var create_days_api = function(language, quarterly, lesson){
       fs.lstatSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE);
     } catch (err) {
       if (changeCheck(WORKING_DIR + "/" + _days[i]) && !generated_bible_verse) {
-         create_bible_references(WORKING_DIR + "/" + _days[i], language);
+         create_bible_references_bcv(WORKING_DIR + "/" + _days[i], language);
          generated_bible_verse = true;
       }
     }
