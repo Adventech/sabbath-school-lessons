@@ -147,8 +147,9 @@ if (branch.toLowerCase() == "master"){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
-
-  if (lastModified == "force") return true;
+  if (lastModified === "force"){
+    return true;
+  }
   return exec('git log '+lastModified+' '+path).toString().length>0;
 };
 
