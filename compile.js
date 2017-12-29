@@ -4,13 +4,15 @@
  * Created by vitalik on 16-10-15.
  */
 
-var exec = require('child_process').execSync,
-    ent =           require('ent'),
-    metaMarked =    require("meta-marked"),
-    fs =            require("fs-extra"),
-    yamljs =        require("yamljs"),
-    fswf =          require("safe-write-file"),
-    bibleSearch   = require("adventech-bible-tools");
+var exec                = require('child_process').execSync,
+    ent                 = require('ent'),
+    metaMarked          = require("meta-marked"),
+    fs                  = require("fs-extra"),
+    yamljs              = require("yamljs"),
+    fswf                = require("safe-write-file"),
+    bibleSearch         = require("adventech-bible-tools"),
+    bibleSearchBCV      = require("adventech-bible-tools/bible_tools_bcv"),
+    bibleHelpers        = require("adventech-bible-tools/bible_helpers");
 
 var firebase = require("firebase"),
     async = require("async");
@@ -31,7 +33,6 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
-
 
 var BIBLE_PARSER_CONFIG = {
     "bg": [
@@ -146,8 +147,9 @@ if (branch.toLowerCase() == "master"){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
-  if (path.indexOf("2017-04") >= 0) return true;
-  if (lastModified == "force") return true;
+  if (lastModified === "force"){
+    return true;
+  }
   return exec('git log '+lastModified+' '+path).toString().length>0;
 };
 
@@ -237,6 +239,51 @@ var create_bible_references = function(path, language){
     }
 };
 
+var create_bible_references_bcv = function(path, language){
+    var read = metaMarked(fs.readFileSync(path, "utf-8")),
+        meta = read.meta,
+        readReplaced = false;
+
+    meta.bible = [];
+
+    if (!(language in BIBLE_PARSER_CONFIG)) return;
+
+    for (var bibleVersionIterator = 0; bibleVersionIterator < BIBLE_PARSER_CONFIG[language].length; bibleVersionIterator++){
+        var bibleVersion = BIBLE_PARSER_CONFIG[language][bibleVersionIterator],
+            resultRead = read.markdown,
+            resultBible = {};
+
+        try {
+            var result = bibleSearchBCV.search(language, bibleVersion, resultRead);
+        } catch (err){
+            if (err.sender === "bibleParserBCVMissingLanguage"){
+                console.log(path, language);
+                create_bible_references(path, language);
+            }
+        }
+
+        if (!result) continue;
+
+        if (!readReplaced){
+            resultRead = result.output;
+            readReplaced = true;
+        }
+
+        resultBible["name"] = bibleVersion.toUpperCase();
+
+        if (result.verses.length){
+            resultBible["verses"] = result.verses.reduce(function(result,item){var key=Object.keys(item)[0]; result[key]=item[key]; return result;},{});
+            meta.bible.push(resultBible);
+        }
+    }
+
+    if (meta.bible.length <= 0){
+        delete meta.bible;
+    } else {
+        fs.writeFileSync(path + "." + SOURCE_EXTENSION_BIBLE, "---\n" + yamljs.stringify(meta, 4) + "\n---" + resultRead);
+    }
+};
+
 var create_days_api = function(language, quarterly, lesson){
   /**
    * Create Days API
@@ -266,7 +313,7 @@ var create_days_api = function(language, quarterly, lesson){
       fs.lstatSync(WORKING_DIR + "/" + _days[i] + "." + SOURCE_EXTENSION_BIBLE);
     } catch (err) {
       if (changeCheck(WORKING_DIR + "/" + _days[i]) && !generated_bible_verse) {
-         create_bible_references(WORKING_DIR + "/" + _days[i], language);
+         create_bible_references_bcv(WORKING_DIR + "/" + _days[i], language);
          generated_bible_verse = true;
       }
     }
