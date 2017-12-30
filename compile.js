@@ -241,8 +241,7 @@ var create_bible_references = function(path, language){
 
 var create_bible_references_bcv = function(path, language){
     var read = metaMarked(fs.readFileSync(path, "utf-8")),
-        meta = read.meta,
-        readReplaced = false;
+        meta = read.meta;
 
     meta.bible = [];
 
@@ -257,17 +256,13 @@ var create_bible_references_bcv = function(path, language){
             var result = bibleSearchBCV.search(language, bibleVersion, resultRead);
         } catch (err){
             if (err.sender === "bibleParserBCVMissingLanguage"){
-                console.log(path, language);
                 create_bible_references(path, language);
             }
         }
 
         if (!result) continue;
 
-        if (!readReplaced){
-            resultRead = result.output;
-            readReplaced = true;
-        }
+        resultRead = result.output;
 
         resultBible["name"] = bibleVersion.toUpperCase();
 
