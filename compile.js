@@ -98,6 +98,8 @@ var BIBLE_PARSER_CONFIG = {
     ]
 };
 
+var BIBLE_PARSER_IGNORE_BCV = ["uk", "ja"];
+
 var argv = require("optimist")
   .usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
   "Usage: $0 -l [string] -b [string]")
@@ -240,6 +242,11 @@ var create_bible_references = function(path, language){
 };
 
 var create_bible_references_bcv = function(path, language){
+    if (BIBLE_PARSER_IGNORE_BCV.indexOf(language) >= 0){
+        create_bible_references(path, language);
+        return;
+    }
+
     var read = metaMarked(fs.readFileSync(path, "utf-8")),
         meta = read.meta;
 
