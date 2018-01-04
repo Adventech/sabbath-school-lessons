@@ -11,13 +11,13 @@ date:   27/04/2018
   *	Jesus og apostlene troede på GT’s Gud!
     *	Hvad kan vi lære af, hvordan de opfattede Gud og Skriften?
 
-``
+` `
 
 *	Tænk over, hvordan Bibelen åbenbarer Gud som en person.
   *	Find eksempler, hvor Gud er sammenlignet med en far, en mor, en bror, en søn, en ven etc.
   *	Hvilken betydning har det for vores forhold til andre personer, at vi derved kan blive mindet om, hvad Gud er – eller måske ikke er?
 
-``
+` `
 
 **Uddybende spørgsmål**
 
@@ -28,11 +28,11 @@ date:   27/04/2018
 
 *	Hvilke forskelle kan du finde mellem ”fader/far“ i almindelig menneskelig betydning og det, vi mener, når vi taler om Gud?
 
-``
+` `
 
 *	Taler Bibelen nogensinde om Gud som moder? Find et eksempel.
 
-``
+` `
 
 * Hvilken betydning har det for frelsen, at Jesus ikke blot var et skabt væsen, men fra evighed et med Gud?
 
@@ -42,14 +42,14 @@ date:   27/04/2018
 
 * Hvordan vil du fortælle om Gud som vores far til et menneske, hvis jordiske far har misbrugt og tyranniseret det?
 
-``
+` `
 
 **Personligt kristenliv**
 
 *	Kan andre mennesker se lidt af Guds karakter og væremåde i den måde, du er som person, og lære lidt om ham gennem deres forhold til dig?
   *	Bed Gud om at hjælpe dig til at ligne ham lidt mere.
 
-``
+` `
 
 **Ord og udtryk**
 

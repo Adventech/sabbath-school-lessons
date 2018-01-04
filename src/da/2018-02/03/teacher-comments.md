@@ -7,11 +7,11 @@ date:   20/04/2018
 
 * Find to eksempler, hvor Det Nye Testamente anvender Det Gamle Testamente. Del jeres eksempler sammen i klassen.
 
-``
+` `
 
 * Åbenbaringens Bog beskriver Jesus på mange flere måder end dem, vi finder i mandagsafsnittet. Prøv at skrive nogle flere af Jesu titler eller karakteristika fra bogen ned og del dem med klassen.
 
-``
+` `
 
 **Uddybende spørgsmål**
 
@@ -22,13 +22,13 @@ date:   20/04/2018
   *	Sammenlign disse kapitler med de historiske beretninger i Daniel 1-6.
     * Hvad er forskellen?
 
-``
+` `
 
 *	Der er ingen tvivl om Jesu centrale rolle i Åbenbaringsbogen.
   *	Hvordan synes du beskrivelsen af Jesus i denne bog er i sammenligning med beskrivelsen af Jesus i de fire evangelier? Lægges der vægt på de samme sider af Jesus væsen? Kommer der andre frem?
   *	Hvordan tror du, at de første kristne opfattede bogen? Var den en opmuntring, og gav den håb? Eller var dens budskab skræmmende?
 
-``
+` `
 
 **Personligt kristenliv**
 
@@ -36,7 +36,7 @@ date:   20/04/2018
   *	Guds tanke er, at vi, når den tid er nær, skal kunne ”løfte vores hoveder“ (Luk 21,28) og med glæde se frem til vores forløsning.
   *	Hvad kan du og jeg gøre for at hjælpe hinanden til at se de positive sider af de skræmmende fremtidsprofetier i Bibelen?
 
-``
+` `
 
 **Forstå det bedre**
 
@@ -49,7 +49,7 @@ Den er inddelt i to dele:
 
 Læg også mærke til, hvordan netop syv og fire er tal, som igennem bogen anvendes i forbindelse med henholdsvis kirken og verden.
 
-``
+` `
 
 **Ord og udtryk**
 
@@ -63,7 +63,7 @@ MYSTERIUM er også et græsk ord (*mysterion*), sandsynligvis til og med et lån
 
 APOKALYPSIS betyder at ”afdække“. Ordet dækker altså et mysterium i den anden betydning af de ovennævnte. Gud har åbenbaret hemmeligheder, som derfor ikke er hemmeligheder for os længere.
 
-``
+` `
 
 **Noter**
 
