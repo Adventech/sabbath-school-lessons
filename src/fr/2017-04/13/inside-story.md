@@ -3,30 +3,31 @@ title:  Histoire
 date:   29/12/2017
 ---
 
-### Sauvé dans le ciel: 2e partie
 
-J’ouvrai mon manteau lourd et essayai de l’utiliser pour briser ma chute libre. Puis je commençai à faire une prière sérieuse que je n’avais jamais faite, croyant qu’elle allait probablement être ma dernière: 
+### Sauv&eacute; dans le ciel: 2e partie
 
-« Dieu, il n’y a rien que je puisse faire pour me sauver, mais j’ai vraiment envie de voir Ta main en ce moment. » 
+Jâ€™ouvrai mon manteau lourd et essayai de lâ€™utiliser pour briser ma chute libre. Puis je commenÃ§ai Ã  faire une priÃ¨re sÃ©rieuse que je nâ€™avais jamais faite, croyant quâ€™elle allait probablement Ãªtre ma derniÃ¨re: 
 
-Je réalisai alors que la pire chose que j’avais jamais fait était la décision de quitter Dieu. Qu’est-ce qui m’arrivait maintenant? Un appartement à Leningrad et tous les honneurs militaires dans le monde n’avaient plus d’importance. 
+Â« Dieu, il nâ€™y a rien que je puisse faire pour me sauver, mais jâ€™ai vraiment envie de voir Ta main en ce moment. Â» 
 
-En levant mes yeux, je pus voir le parachute ouvert de mon commandant. Tout d’un coup, un petit vent vint et me poussa tout droit dans son parachute! 
+Je rÃ©alisai alors que la pire chose que jâ€™avais jamais fait Ã©tait la dÃ©cision de quitter Dieu. Quâ€™est-ce qui mâ€™arrivait maintenant? Un appartement Ã  Leningrad et tous les honneurs militaires dans le monde nâ€™avaient plus dâ€™importance. 
 
-Mais on ne pouvait pas rester sur un seul parachute pour longtemps. Quand je glissais, mon commandant m’attrapa et me tint au poignet avec une barre de fer! Nous étions en chute libre, et il me dit comment tenir mes pieds afin que nous puissions nous poser en toute sécurité. Après l’atterrissage, nous étions emmenés en toute urgence à l’hôpital avec des blessures mineures.
+En levant mes yeux, je pus voir le parachute ouvert de mon commandant. Tout dâ€™un coup, un petit vent vint et me poussa tout droit dans son parachute! 
 
-Le lendemain, un article parut dans le journal au sujet de cette expérience extraordinaire. Tout le monde reconnut que des choses pareilles ne pouvaient pas se produire de soit. C’était un miracle. 
+Mais on ne pouvait pas rester sur un seul parachute pour longtemps. Quand je glissais, mon commandant mâ€™attrapa et me tint au poignet avec une barre de fer! Nous Ã©tions en chute libre, et il me dit comment tenir mes pieds afin que nous puissions nous poser en toute sÃ©curitÃ©. AprÃ¨s lâ€™atterrissage, nous Ã©tions emmenÃ©s en toute urgence Ã  lâ€™hÃ´pital avec des blessures mineures.
 
-Dès lors, mes prières étaient différentes de ce qu’elles avaient été avant. Deux semaines plus tard, lors de mon rendez-vous avec le général, ma réponse était prête.
+Le lendemain, un article parut dans le journal au sujet de cette expÃ©rience extraordinaire. Tout le monde reconnut que des choses pareilles ne pouvaient pas se produire de soit. Câ€™Ã©tait un miracle. 
 
-Quand je suis entré dans son bureau, il me regarda et sourit. Il était rassuré que j’étais d’accord de sa proposition. 
+DÃ¨s lors, mes priÃ¨res Ã©taient diffÃ©rentes de ce quâ€™elles avaient Ã©tÃ© avant. Deux semaines plus tard, lors de mon rendez-vous avec le gÃ©nÃ©ral, ma rÃ©ponse Ã©tait prÃªte.
 
-« Monsieur le Commandant », lui dis-je, « j’ai pensé à votre généreuse offre, mais j’ai décidé de ne pas rester dans l’armée. » 
+Quand je suis entrÃ© dans son bureau, il me regarda et sourit. Il Ã©tait rassurÃ© que jâ€™Ã©tais dâ€™accord de sa proposition. 
 
-Choqué, il demanda: « Qu’allez-vous faire? »
+Â« Monsieur le Commandant Â», lui dis-je, Â« jâ€™ai pensÃ© Ã  votre gÃ©nÃ©reuse offre, mais jâ€™ai dÃ©cidÃ© de ne pas rester dans lâ€™armÃ©e. Â» 
 
-« Eh bien, Monsieur le Commandant, je vais suivre l’appel du parti. J’irai dans de nouveaux endroits et cultiver de nouveaux territoires ». A cette époque, les communistes voulaient aménager des terrains en Sibérie et ils encourageaient les gens à s’y installer. 
+ChoquÃ©, il demanda: Â« Quâ€™allez-vous faire? Â»
 
-Le général me regarda. « Eh bien, soldat, j’ai vu beaucoup de gens fous, mais tu es le plus fou de tous! » 
+Â« Eh bien, Monsieur le Commandant, je vais suivre lâ€™appel du parti. Jâ€™irai dans de nouveaux endroits et cultiver de nouveaux territoires Â». A cette Ã©poque, les communistes voulaient amÃ©nager des terrains en SibÃ©rie et ils encourageaient les gens Ã  sâ€™y installer. 
 
-*Après son passage dans l’armée, pasteur Zhukaljuk a travaillé secrètement comme un pasteur et organisait l’oeuvre clandestine d’édition des livres religieux et des documents pour les croyants adventistes du septième jour dans l’Union Soviétique. Lui et son épouse, Evguénia, ont été emprisonnés pour ce travail et libérés par la suite. Ils sont mariés depuis 63 ans”.* 
+Le gÃ©nÃ©ral me regarda. Â« Eh bien, soldat, jâ€™ai vu beaucoup de gens fous, mais tu es le plus fou de tous! Â» 
+
+*AprÃ¨s son passage dans lâ€™armÃ©e, pasteur Zhukaljuk a travaillÃ© secrÃ¨tement comme un pasteur et organisait lâ€™oeuvre clandestine dâ€™Ã©dition des livres religieux et des documents pour les croyants adventistes du septiÃ¨me jour dans lâ€™Union SoviÃ©tique. Lui et son Ã©pouse, EvguÃ©nia, ont Ã©tÃ© emprisonnÃ©s pour ce travail et libÃ©rÃ©s par la suite. Ils sont mariÃ©s depuis 63 ansâ€.* 

@@ -1,0 +1,13 @@
+---
+title:  Histoire
+date:   26/01/2018
+---
+
+### Un ange transporte des briques
+*par Andrew McChesney, Mission Adventiste*
+
+Dans la ville ukrainienne de Buzke, Vladimir Moskolenko donna un coup de coude à sa femme, Galina, qui se éveilla. Il avait eu un rêve inhabituel à partager. « Je me trouvais avec des blocs de béton dans mes mains » dit-il. « Ils étaient si lourds. Puis tout à coup un grand ange, beau et brillant se tenait devant moi. Il me sourit. Et il mit ses mains sur les miennes, transporta les briques et les souleva ». Galina Moskolenko se redressa. Elle priait pour avoir 5000 dollars pour payer des blocs de béton afin de transformer un bâtiment abandonné en une Église Adventiste du Septième Jour dans leur ville de 1 400 habitants. « Écoute, une aide financière est probablement en cours », déclara Moskolenko. « Je ne sais pas d’où elle viendra, mais je sais qu’elle vient ». Deux jours plus tard, un membre d’église les appela et dit: « il y a trois amis qui me visitent de Pologne. » Moskolenko dit à son mari: « Voici notre argent arrive ». Le jour du sabbat, les visiteurs polonais écoutèrent le sermon de Moskolenko. Après le coucher du soleil, elle leur parla de ce besoin. Un virement bancaire de 5 000 dollars arriva quelques jours plus tard. La belle église de Buzke, ouverte en 2016 après 11 ans de construction, a été construite par la prière et les miracles, dit Moskolenko. 
+
+Un couple adventiste originaire d’Australie a offert 2 000 dollars pour un nouveau toit. La Division Eurasienne et la Fédération locale financèrent les fonds de mission. Des membres d’église aux États-Unis et en République Tchèque contribuèrent également. Dieu et Ses anges sont intervenus à plusieurs reprises, dit Moskolenko, 54 ans. Elle parla d’une confrontation bureaucratique, après que les autorités locales eurent rejeté une demande de créer une deuxième fenêtre dans le mur. « J’ai prié à ce sujet et pensé: Dieu, s’il Te plait, aide-nous à faire un trou dans le mur », dit-elle. Puis quelque chose d’intéressant se passa. « Nous commençâmes à réparer l’unique fenêtre existante et une fissure se créa dans le mur », dit-elle. « Le mur entier allait s’effondrer. Alors nos travailleurs apportèrent rapidement un tracteur avec quelque chose pour soutenir le mur. Mais alors qu’ils travaillaient pour soutenir le mur, il s’effondra comme si un ange avait dit: ‘’toi va-t-en!’’ », dit Moskolenko, avec une chiquenaude. 
+
+Et elle ajouta: « voilà ce qui arrive quand vous faites de votre mieux et en ayant confiance en Dieu: Il accomplit l’impossible ». 
