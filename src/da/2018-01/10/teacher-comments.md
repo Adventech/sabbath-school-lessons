@@ -8,7 +8,7 @@ date:   09/03/2018
 *	Denne sabbat kan være en god anledning til at besvare spørgsmål eller se på detaljer, som er samlet fra kvartalets studium
   *	Lad nogle af klassens medlemmer forberede spørgsmål eller/og inviter en person med forvaltningsbaggrund på besøg i klassen
 
-``
+` `
 
 **Uddybende spørgsmål**
 
@@ -16,11 +16,11 @@ date:   09/03/2018
   *	Drøft hvilke områder du/I finder er mest centrale mht. forvaltning!
   *	Findes der områder i livet, som ikke har med forvaltning at gøre? Hvilke ville det fx være?
 
-``
+` `
 
 *	Hvilke teologiske eller bibelske principper er med til at gøre forvaltning betydningsfuld?
 
-``
+` `
 
 **Personligt kristenliv**
 
@@ -42,18 +42,18 @@ date:   09/03/2018
 
 *	Føj evt. andre kategorier til listen.
 
-``
+` `
 
 **Til at tænke over**
 
 *	Alt hvad jeg har, er blevet givet mig, ligesom tjenerne i Jesu lignelse (Matt 25,14-30) eller Nebukadnezars kongemagt (Dan 2,37). At Gud giver mig sine gaver er et udtryk for hans kærlighed. At de kommer fra ham betyder, at jeg er ansvarlig for, hvordan jeg behandler dem. Det er, hvad Guds dom ved verdens ende også indebærer.
 
-``
+` `
 
 *	Ingen af os har forvaltet alt, hvad vi har modtaget, som vi burde have gjort. Vi frelses derfor alene af Guds nåde. Derfor kan den troende trygt se dommen i møde.
 
-``
+` `
 
 **Noter**
 
-``
+` `
