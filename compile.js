@@ -85,6 +85,10 @@ var BIBLE_PARSER_CONFIG = {
         "rusv"
     ],
 
+    "sr": [
+        "biblija"
+    ],
+
     "tr": [
         "kitab"
     ],
