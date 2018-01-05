@@ -4,7 +4,7 @@
   "description": "",
   "main": "compile.js",
   "dependencies": {
-    "adventech-bible-tools": "gitn+https://github.com/Adventech/bible-tools.git",
+    "adventech-bible-tools": "git+https://github.com/Adventech/bible-tools.git",
     "async": "^2.1.2",
     "cheerio": "^0.22.0",
     "crypto": "0.0.3",
