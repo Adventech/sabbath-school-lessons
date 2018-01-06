@@ -153,6 +153,7 @@ if (branch.toLowerCase() == "master"){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
+  if (path.indexOf("2018-01") >= 0) return true;
   if (lastModified === "force"){
     return true;
   }
