@@ -85,6 +85,10 @@ var BIBLE_PARSER_CONFIG = {
         "rusv"
     ],
 
+    "sr": [
+        "biblija"
+    ],
+
     "tr": [
         "kitab"
     ],
@@ -149,6 +153,7 @@ if (branch.toLowerCase() == "master"){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
+  if (path.indexOf("2018-01") >= 0) return true;
   if (lastModified === "force"){
     return true;
   }

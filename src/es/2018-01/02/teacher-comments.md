@@ -7,7 +7,7 @@ date:   12/01/2018
 
 **TEXTO CLAVE:** MATEO 13:22.
 
-#### ENSEÑA A TU CLASE A:
+#### Enseña a tu clase a:
 
 **Saber:** Reconocer el engaño de las riquezas y del consumismo.
 
@@ -15,7 +15,7 @@ date:   12/01/2018
 
 **Hacer:** Desarrollar planes para un estilo de vida centrado en el contentamiento y la gratitud por la generosa provisión de Dios.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Las riquezas engañosas**
 A. ¿Por qué es tan fácil juzgar las posesiones que otros acumulan, pero somos tan ciegos cuando se trata de nuestra propia condición espiritual?
@@ -35,7 +35,7 @@ C. ¿Qué prácticas cotidianas fundamentales deben incorporarse en nuestro esti
 
 Para reemplazar la codicia con el contentamiento, debemos tomar decisiones que permitan a Dios ejercer un control total sobre nuestra vida. 
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 **Concepto clave para el crecimiento espiritual:** El engaño de las riquezas inevitablemente nos alcanzará, si no nos rendimos diariamente a la influencia del Espíritu Santo.
 
