@@ -3,7 +3,7 @@ title:  Teacher Comments
 date:   02/02/2018
 ---
 
-### EL SÁBADO ENSEÑARÉ...
+### El Sábado enseñaré...
 
 
 **TEXTO CLAVE:** 1 TESALONICENSES 2:4
@@ -16,7 +16,7 @@ date:   02/02/2018
 
 **Hacer:** Elaborar una descripción personal que sirva como guía para su participación personal como mayordomos.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Definición de la mayordomía**
 A. ¿Cuál era el papel de un mayordomo en el Antiguo Testamento, en comparación con el Nuevo Testamento?
@@ -36,7 +36,7 @@ C. ¿Cómo debiéramos explicar nuestras decisiones de mayordomía a familiares 
 
 Los componentes básicos de la mayordomía bíblica están integrados en la vida de los creyentes fieles cuyas historias están registradas en la Escritura. La antorcha de la mayordomía ha pasado de generación en generación; ahora es nuestro turno de vivir como mayordomos fieles, y pasar la antorcha a la próxima generación. 
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 **Concepto clave para el crecimiento espiritual:** Los mayordomos fieles se preocupan por buscar el mayor beneficio para su Supervisor, Dios.
 

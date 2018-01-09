@@ -3,11 +3,11 @@ title:  Teacher Comments
 date:   09/02/2018
 ---
 
-### EL SÁBADO ENSEÑARÉ...
+### El Sábado enseñaré...
 
 **TEXTO CLAVE:** 1 CORINTIOS 4:1, 2
 
-#### ENSEÑA A TU CLASE A:
+#### Enseña a tu clase a:
 
 **Saber:** Identificar las características de un mayordomo cristiano. 
 
@@ -15,7 +15,7 @@ date:   09/02/2018
 
 **Hacer:** Proponerse tomar medidas tangibles para integrar estas particularidades a su experiencia diaria.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Identificar las particularidades de un mayordomo**
 A. ¿Cuál es la esencia de la fidelidad y la lealtad?
@@ -35,7 +35,7 @@ C. ¿Cómo podemos demostrar los beneficios espirituales de una mayordomía aut�
 
 Al igual que un blanco ofrece objetivos para el arquero, así también nuestra lección proporciona metas para todos aquellos que buscan el camino de una mayordomía comprometida. Cuando se integran a la vida, estas características de la verdadera mayordomía forman la base para el propósito, el éxito, el significado y el sentido de pertenencia. 
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 **Concepto clave para el crecimiento espiritual:** La fidelidad es un requisito divino. Sin esta, ningún ser humano puede lograr una paz duradera ni disfrutar de la realización espiritual.
 

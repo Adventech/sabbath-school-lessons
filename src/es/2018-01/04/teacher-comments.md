@@ -3,11 +3,11 @@ title:  Teacher Comments
 date:   26/01/2018
 ---
 
-### EL SÁBADO ENSEÑARÉ...
+### El Sábado enseñaré...
 
 **TEXTO CLAVE:** PROVERBIOS 11:4, 18.
 
-#### ENSEÑA A TU CLASE A:
+#### Enseña a tu clase a:
 
 **Saber:** Descubrir el método de Dios para escapar de la mundanalidad.
 
@@ -15,7 +15,7 @@ date:   26/01/2018
 
 **Hacer:** Cultivar una nueva orientación personal, para desalentar un retorno a la mundanalidad.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Conocer a Jesús**
 A. ¿De qué manera el estudio de la Biblia reorganiza nuestras prioridades e inspira la renovación espiritual?
@@ -36,7 +36,7 @@ C. ¿Qué medidas podemos tomar para tener una vida espiritual próspera?
 
 Cultivar la vida espiritual es la única manera segura de escapar de la mundanalidad. El estudio de la Biblia, la oración, el servicio cristiano, la comunión cristiana y el acto de considerar las maravillas de la naturaleza, pueden contribuir a reformar nuestra cosmovisión y llamarnos a la plenitud espiritual. 
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 **Concepto clave para el crecimiento espiritual:** La vida espiritual solo prospera cuando los creyentes cultivan intencionalmente aquellas prácticas que crean intimidad espiritual con su Creador y Redentor.
 
