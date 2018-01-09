@@ -3,11 +3,11 @@ title:  Teacher Comments
 date:   05/01/2018
 ---
 
-### EL SÁBADO ENSEÑARÉ...
+### El Sábado enseñaré...
 
 **TEXTO CLAVE:** ROMANOS 12:2.
 
-#### ENSEÑA A TU CLASE A:
+#### Enseña a tu clase a:
 
 **Saber:** Discernir la diferencia entre la apreciación adecuada del mundo material y las posesiones por un lado, y los peligros del materialismo por el otro.
 
@@ -15,7 +15,7 @@ date:   05/01/2018
 
 **Hacer:** Proponerse hacer todo lo posible para garantizar que sus posesiones sean usadas para glorificar a Dios en vez de a sí mismos.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Comprender el propósito de las posesiones**
 A. ¿Qué podemos hacer para protegernos de la tentación de amar nuestras posesiones, en lugar de amar por sobre todo a Aquel que nos concede las bendiciones materiales?
@@ -34,7 +34,7 @@ B. ¿Qué decisiones prácticas podemos tomar para protegernos de la tentación 
 
 Dios dio bendiciones materiales para el disfrute y el desarrollo del carácter. Cuando las usamos para honrar a Dios y ayudar a quienes él creó, somos bendecidos. Cuando nos volvemos materialistas, perdemos esa bendición. 
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 Concepto clave para el crecimiento espiritual: Al conformarnos al mundo mediante el amor al yo y el materialismo, interferimos con el designio de Dios de transformarnos por medio de la renovación de nuestro entendimiento.
 

@@ -3,11 +3,11 @@ title:  Teacher Comments
 date:   19/01/2018
 ---
 
-### EL SÁBADO ENSEÑARÉ...
+### El Sábado enseñaré...
 
 **TEXTO CLAVE:** FILIPENSES 2:911.
 
-#### ENSEÑA A TU CLASE A:
+#### Enseña a tu clase a:
 
 **Saber:** Reconocer que Dios es el Creador, el único que debe ser adorado por sobre su creación.
 
@@ -15,7 +15,7 @@ date:   19/01/2018
 
 **Hacer:** Adorar al Creador/Redentor celestial, que manifiesta continuamente su amor hacia la humanidad a través de su provisión diaria.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Los atributos divinos**
 A. ¿Quién es Dios, según es retratado y revelado en la Biblia?
@@ -36,7 +36,7 @@ C. Si no existe ningún creador, ¿qué opciones de adoración tiene la gente?
 
 La humanidad fue concebida para la adoración. Esa adoración puede orientarse hacia el yo, hacia las cosas creadas o hacia el Creador. Solo la última opción aporta satisfacción duradera, un verdadero sentido de pertenencia en el universo y un profundo sentido de propósito.
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 **Concepto clave para el crecimiento espiritual:** Los seres humanos fueron creados para adorar. Este impulso se cumple satisfactoriamente cuando la adoración se dirige hacia Dios, no hacia cualquier otra cosa creada por él.
 

@@ -3,11 +3,11 @@ title:  Teacher Comments
 date:   16/02/2018
 ---
 
-### EL SÁBADO ENSEÑARÉ...
+### El Sábado enseñaré...
 
 **TEXTO CLAVE:** LEVÍTICO 27:30
 
-#### ENSEÑA A TU CLASE A:
+#### Enseña a tu clase a:
 
 **Saber:** Creer que ser honestos con Dios reporta un gran sentido de integridad personal y desarrolla una vida llena de fe.
 
@@ -15,7 +15,7 @@ date:   16/02/2018
 
 **Hacer:** Decidir devolver el diezmo por todas las razones sugeridas anteriormente.
 
-#### BOSQUEJO DE LA LECCIÓN
+#### Bosquejo de la lección
 
 **I. Saber: Tener fe para ser honesto en todo**
 A. ¿Por qué motivo es importante ser honesto incluso en las pequeñas cosas de la vida?
@@ -35,7 +35,7 @@ C. ¿Cómo se relaciona la práctica de diezmar con el reavivamiento y la reform
 
 La antigua práctica de devolver un diezmo honesto data de la época de los patriarcas, y fue aprobada por Jesucristo mismo. Ofrece a hombres y mujeres modernos el privilegio de vivir en sociedad con Dios.
 
-### CICLO DE APRENDIZAJE
+### Ciclo de aprendizaje
 
 **Concepto clave para el crecimiento espiritual:** Ser honesto con Dios mediante la práctica de diezmar exhibe confianza en él, y ofrece a los creyentes una oportunidad ilimitada de comunión creciente con Dios.
 
