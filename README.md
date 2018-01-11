@@ -38,7 +38,7 @@ Below is current list of languages and capabilities implemented
 |🇳🇴 Norwegian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
+|🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
 |🇹🇷 Turkish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
@@ -83,7 +83,7 @@ _* CQ - Collegiate Quarterly_
 - [ ] Add Italian Language 🇮🇹
 - [ ] Add Thai Language 🇹🇭
 - [x] Add Danish Language 🇩🇰
-- [x] Add Norwegian Language 🇳🇴
+- [ ] Add Norwegian Language 🇳🇴
 - [ ] Add Korean Language 🇰🇷
 - [x] Add Chinese Simplified Language 🇨🇳
 - [ ] Add Afrikaans Language 🇿🇦
