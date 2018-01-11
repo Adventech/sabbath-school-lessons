@@ -41,6 +41,7 @@ var LOCALE_VARS = {
     "fr": "Leçon quotidienne",
     "ms": "Pelajaran",
     "no": "Lekse",
+    "ko": "교훈",
     "pt": "Lição",
     "ro": "Lecție zilnică",
     "ru": "Урок",
@@ -60,6 +61,7 @@ var LOCALE_VARS = {
     "fr": "### <center>Nous travaillons sur cette leçon.</center>\n<center>Revenez plus tard, s'il vous plaît.</center>",
     "ms": "### <center>Kami sedang menjalankan pelajaran ini.</center>\n<center>Sila balik kemudian.</center>",
     "no": "### <center>Vi jobber med denne leksjonen.</center>\n<center>Prøv igjen senere.</center>",
+    "ko": "### <center>우리는이 공과를 위해 노력하고있다..</center>\n<center>나중에 다시 시도 해주십시오..</center>",
     "pt": "### <center>Estamos a trabalhar sobre esta lição.</center>\n<center>Volte mais tarde, por favor.</center>",
     "ro": "### <center>Lucrăm la această lecție.</center>\n<center>Te rog intoarce-te mai tarziu.</center>",
     "ru": "### <center>Мы подготавливаем данный урок</center>\n<center>Попробуйте позже</center>",
@@ -79,6 +81,7 @@ var LOCALE_VARS = {
     "fr": "Commentaires Moniteurs",
     "ms": "Teacher Comments",
     "no": "Teacher Comments",
+    "ko": "교사의 의견",
     "pt": "Moderador",
     "ro": "Teacher Comments",
     "ru": "Комментарий для Учителей",
@@ -98,6 +101,7 @@ var LOCALE_VARS = {
     "fr": "Histoire",
     "ms": "Inside Story",
     "no": "Misjonsfortelling",
+    "ko": "선교 이야기",
     "pt": "Inside Story",
     "ro": "Inside Story",
     "ru": "Миссионерская история",
@@ -106,7 +110,7 @@ var LOCALE_VARS = {
     "uk": "Місіонерська історія",
     "ja": "Inside Story",
     "zh": "Inside Story"
-  },
+  }
 };
 
 function pad(n) {

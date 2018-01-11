@@ -77,6 +77,10 @@ var BIBLE_PARSER_CONFIG = {
         "alkitab"
     ],
 
+    "ko": [
+        "krv"
+    ],
+
     "ms": [
         "alkitab"
     ],
