@@ -81,6 +81,10 @@ var BIBLE_PARSER_CONFIG = {
         "alkitab"
     ],
 
+    "no": [
+        "nb-bibelen-1930"
+    ],
+
     "ro": [
         "rmnn"
     ],
