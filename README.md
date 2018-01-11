@@ -35,6 +35,7 @@ Below is current list of languages and capabilities implemented
 |🇯🇵 Japanese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇮🇩 Indonesian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇲🇾 Malay|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
+|🇳🇴 Norwegian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
@@ -59,10 +60,12 @@ Below is current list of languages and capabilities implemented
 | 🇮🇩  |  ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇯🇵  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇲🇾  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🇳🇴  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇷🇴  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇷🇺  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇷🇺 -AY |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇷🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🇷🇸 -CQ |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇹🇷  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇺🇦  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇨🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -80,7 +83,7 @@ _* CQ - Collegiate Quarterly_
 - [ ] Add Italian Language 🇮🇹
 - [ ] Add Thai Language 🇹🇭
 - [x] Add Danish Language 🇩🇰
-- [ ] Add Norwegian Language 🇳🇴
+- [x] Add Norwegian Language 🇳🇴
 - [ ] Add Korean Language 🇰🇷
 - [x] Add Chinese Simplified Language 🇨🇳
 - [ ] Add Afrikaans Language 🇿🇦
