@@ -18,17 +18,25 @@ date:   12/01/2018
 #### Bosquejo de la lección
 
 **I. Saber: Las riquezas engañosas**
+
 A. ¿Por qué es tan fácil juzgar las posesiones que otros acumulan, pero somos tan ciegos cuando se trata de nuestra propia condición espiritual?
+
 B. ¿Por qué el “evangelio de la prosperidad” de muchos televangelistas ha tenido tanto éxito en desviar la atención de la iglesia de hacer discípulos a acumular riquezas?
+
 C. ¿Cuáles son los tres pasos en el proceso de la codicia?
 
 **II. Sentir: Experimentar el autocontrol**
+
 A. ¿Cómo podemos experimentar el control del Espíritu Santo sobre nuestras necesidades y deseos, cuando hay descontento por todas partes a nuestro alrededor?
+
 B. ¿Qué actitudes ante la vida pueden fomentar el espíritu manso y suave que naturalmente promueve el contentamiento? 
 
 **III.Hacer: Planificar una vida de contentamiento**
+
 A. ¿Cuáles son los elementos esenciales de un plan de vida que perpetúe el contentamiento?
+
 B. ¿Cómo podemos separar las necesidades de los deseos, las carencias de las preferencias, o lo básico de lo lujoso y accesorio? 
+
 C. ¿Qué prácticas cotidianas fundamentales deben incorporarse en nuestro estilo de vida, para implementar con éxito un plan para un estilo de vida piadoso?
 
 #### Resumen: 
@@ -53,8 +61,7 @@ Otro hombre, cuya salud no era tan buena, prestó atención a sus dolores y mole
 
 ##### Comentario de la Biblia
 
-**I. Teología y práctica distorsionadas**
-*(Repasa, con tu clase, Mateo 13:3-7, 22).*
+**I. Teología y práctica distorsionadas** *(Repasa, con tu clase, Mateo 13:3-7, 22).*
 
 Jesús presenta una imagen de la vida espiritual en Mateo 13:3 al 7 que se abre con una tremenda promesa, pero que se desvanece con resultados decepcionantes. No existe ninguna posibilidad para el primer grupo mencionado en este pasaje, porque no hay receptividad espiritual (las aves comen la semilla). Al segundo grupo le va mejor, pero carece de los recursos adecuados para lograr que crezca la semilla más allá de un brote. El tercer grupo tiene la receptividad espiritual y los recursos necesarios para el crecimiento, pero antes de que la semilla crezca, esos recursos son desviados hacia el materialismo, y las cosas espirituales se ahogan. 
 
@@ -62,8 +69,7 @@ Los mejores jardines son aquellos en los que el jardinero se ha tomado el tiempo
 
 **Considera:** ¿Qué hay en la naturaleza del materialismo que hace que sea más difícil de detectar que otros pecados? ¿En qué sentido la teología de la prosperidad es potencialmente dañina para la iglesia? 
 
-**II. Los pasos de la codicia**
-*(Repasa, con tu clase, Génesis 3:1-6).*
+**II. Los pasos de la codicia** *(Repasa, con tu clase, Génesis 3:1-6).*
 
 La lección identifica tres pasos específicos que da toda persona que cae en la codicia.
 
@@ -91,8 +97,8 @@ El paso final de caer en la codicia es el paso hacia la acción, el punto de ven
 **Sólo para los maestros:** Una forma en que los creyentes “pone[n] la mira en las cosas de arriba” para llenar el espacio ocupado por el materialismo, es centrarse en Jesús. Una manera de enfocarnos en Jesús es compartir las buenas nuevas, y cuidar “de estos mis hermanos más pequeños” (Mateo 25:40). Planifica actividades que nos ayuden a concentrarnos en Jesús a través del servicio. 
 
 **Actividades:**
-Ministerio eclesiástico:
 
+Ministerio eclesiástico:
 1. Pide al pastor una lista de personas que no pueden asistir a la iglesia debido a una enfermedad física. Visítenlas.
 2. Ofrézcanse a organizar una excursión llena de diversión para los niños más pequeños de la iglesia. 
 3. Ayuden a los directivos de Conquistadores a limpiar y organizar sus materiales.
