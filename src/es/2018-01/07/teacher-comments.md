@@ -5,7 +5,7 @@ date:   16/02/2018
 
 ### El Sábado enseñaré...
 
-**TEXTO CLAVE:** LEVÍTICO 27:30
+**Texto Clave:** Levítico 27:30
 
 #### Enseña a tu clase a:
 
@@ -18,17 +18,25 @@ date:   16/02/2018
 #### Bosquejo de la lección
 
 **I. Saber: Tener fe para ser honesto en todo**
+
 A. ¿Por qué motivo es importante ser honesto incluso en las pequeñas cosas de la vida?
+
 B. ¿Cómo se relaciona la honestidad con una vida basada en la confianza (fe)?
+
 C. ¿Cómo se relaciona la práctica de diezmar con los conceptos de honestidad y confianza (fe)?
 
 **II. Sentir: Libertad mediante la honestidad y la confianza**
+
 A. ¿En qué medida la honestidad nos permite experimentar una conciencia limpia?
+
 B. La práctica de diezmar ¿cómo podría desarrollar una atmósfera de fe y dependencia de Dios?
 
 **III.Hacer: La práctica de diezmar perfecciona**
+
 A. ¿Cuáles son las recompensas espirituales y prácticas de devolver un diezmo honesto?
+
 B. ¿Por qué razón los creyentes deben resistir la tentación de devolver el diezmo solo cuando sea “conveniente”?
+
 C. ¿Cómo se relaciona la práctica de diezmar con el reavivamiento y la reforma?
 
 #### Resumen: 
@@ -53,8 +61,7 @@ Los tiempos eran difíciles. Ella casi había agotado todos sus recursos. Al igu
 
 ##### Comentario de la Biblia
 
-**I. Una cuestión de honestidad**
-*(Repasa, con tu clase, Levítico27:30; Malaquías3:8-12; Lucas16:10; Hebreos7:2-10).*
+**I. Una cuestión de honestidad** *(Repasa, con tu clase, Levítico27:30; Malaquías3:8-12; Lucas16:10; Hebreos7:2-10).*
 
 La Biblia nos dice que el diezmo “es cosa dedicada a Jehová” (Levítico 27:30). El concepto de santidad está arraigado en la palabra hebrea kadosh, que significa “apartado”. En otras palabras, hay cosas que están separadas, o apartadas, del uso común cotidiano para propósitos especiales o sagrados. La porción de ingresos llamada diezmo definitivamente no pertenece al creyente: por designación divina, ese diez por ciento es de Dios desde el primer momento. No lo santificamos al darlo; es santo (separado para los propósitos de Dios), ya sea que lo devolvamos o no. 
 
@@ -64,8 +71,7 @@ Malaquías declara: “¿Robará el hombre a Dios? Pues vosotros me habéis roba
 
 **Considera:** Según Malaquías, ¿qué significa robar a Dios? ¿En qué otros aspectos los cristianos roban a Dios algo que es legítimamente suyo?  
 
-**II. Una cuestión de fe**
-*(Repasa, con tu clase, Génesis 22:1-12; 28:14-22; Lucas 11:42; Hebreos 12:2).*
+**II. Una cuestión de fe** *(Repasa, con tu clase, Génesis 22:1-12; 28:14-22; Lucas 11:42; Hebreos 12:2).*
 
 La palabra que comúnmente se traduce como “fe” en el Nuevo Testamento, pistis, a veces se la visualiza desde la perspectiva de la fidelidad, o desde el punto de vista de la creencia. La forma verbal pisteuein suele traducirse como “creer”. En la práctica, tanto la creencia (fe) como la fidelidad están involucradas en la relación Dios/ser humano. A veces, la “creencia” se entiende como asentimiento al testimonio, mientras que la “fe” se entiende como asentimiento al testimonio unido a la confianza. 
 
@@ -80,15 +86,10 @@ Como se dijo anteriormente, las relaciones son calles de doble sentido. ¿Podemo
 **Sólo para los maestros:** ¿Cuánto de la Cruz hay en tu bolsillo? Los cristianos afirman que la salvación es solo por la fe. Los creyentes dicen que nuestros esfuerzos no pueden mejorar ni contribuir a esa salvación en lo más mínimo; solo debemos confiar en Dios. Ese es el mensaje de la Cruz. Sin embargo, cuando de finanzas se trata, el mensaje parece cambiar. Pasa a ser: “Dios cuida de quienes se cuidan”. Muchos actúan como si su credo fuera confiar un poco en Dios, pero más en su bolsillo. 
 
 **Preguntas de aplicación:**
-
 1. ¿Qué relación podrían tener nuestros hábitos de diezmar con nuestra verdadera experiencia de salvación?
-
 2. ¿Cómo pueden asegurarse los creyentes de que sus expresiones de fe vayan acompañadas de acciones de abnegación?
-
 3. La devolución de un diezmo honesto ¿cómo podría realmente mejorar mi crecimiento espiritual?
-
 4. La devolución de un diezmo honesto ¿cómo podría realmente influir sobre los no creyentes, para que se interesen en la historia de Jesús?
-
 5. ¿En qué sentido la devolución del diezmo se relaciona con el llamado de Cristo a “busca[r] primeramente el reino” (Mateo 6:33)?
 
 #### 4: ¡Crea!
