@@ -18,18 +18,27 @@ date:   19/01/2018
 #### Plan de l’étude:
 
 **I. Savoir: Les attributs divins**
+
 A. Qui est Dieu, selon le portrait divin révélé dans les Écritures?
+
 B. Quels rôles spécifiques Christ a-t-Il assumés?
+
 C. Par quel raisonnement Dieu peut-Il réclamer le droit d’appartenance sur nos vies?
 
 **II. Ressentir: Jésus-Christ, propriétaire et ami**
+
 A. Comment le double rôle de Christ comme propriétaire et ami amé-liore-t-il notre relation avec Lui?
+
 B. Comment le fait que Jésus ait créé le monde affecte-t-Il notre appréciation de l’univers créé et ses composantes matérielles?
+
 C. Comment pouvons-nous profiter d’une expérience plus profonde, plus intime avec notre Créateur?
 
 **III. Agir: Jésus, digne d’adoration**
+
 A. Comment pouvons-nous démontrer notre adoration à Dieu de façon créative, de manière à refléter Sa puissance créatrice?
+
 B. Comment pouvons-nous partager efficacement notre dévotion à Christ avec des gens qui ne croient pas à la création?
+
 C. S’il n’y a point de Créateur, quels choix d’adorations les gens auront-ils?
 
 #### Résumé: 
@@ -63,8 +72,7 @@ Cette leçon explore la position biblique ou les déclarations au sujet de Dieu.
 
 ##### Commentaire biblique
 
-**I. Le Créateur** 
-*(Relisez Genèse 1:1; Psaume 33:6-9; Ésaïe 45:11, 12; Jérémie 51:15; et Colossiens 1:13-18 avec la classe.)*
+**I. Le Créateur** *(Relisez Genèse 1:1; Psaume 33:6-9; Ésaïe 45:11, 12; Jérémie 51:15; et Colossiens 1:13-18 avec la classe.)*
 
 Plusieurs commentateurs reconnaissent que la christologie la plus développée de Paul apparait dans son épitre aux Colossiens, où il présente à la fois les attributs créateurs et rédempteurs de Christ. De nombreux chercheurs pensent que Paul écrivait pour contrer une hérésie naissante qui contenait beaucoup des aspects d’un système de croyance appelé gnosticisme. Le dictionnaire biblique de Harper Collins décrit le gnosticisme comme « un terme générique pour une variété de mouvements religieux des premiers siècles de l’ère chrétienne. Bien que la théologie, la pratique rituelle et l’éthique de ces groupes différaient considérablement, tous prétendaient offrir le salut en délivrant les gens des liens oppressifs de l’existence matérielle grâce à la gnose, ou « le savoir ». Paul Achtemeier, ed., (c’est l’auteur qui souligne), The HarperCollins Bible Dictionary, 1996, p. 380. 
 
@@ -74,8 +82,7 @@ Toutefois, l’Écriture enseigne que le monde matériel, étant donné qu’il 
 
 **Considérez ceci:** Qu’enseigne l’Écriture sur le monde matériel, et comment cet enseignement affecte-t-il nos modes de vie et nos pratiques? D’autre part, comment l’idée erronée selon laquelle le monde matériel est originellement mauvais affecte-t-elle notre style de vie chrétien et nos pratiques? 
 
-**II. Le Rédempteur** 
-*(Relisez 1 Thessaloniciens 1:10; 1 Pierre 1:18; Hébreux 2:14, 15; et Galates 3:13 avec la classe.)*
+**II. Le Rédempteur** *(Relisez 1 Thessaloniciens 1:10; 1 Pierre 1:18; Hébreux 2:14, 15; et Galates 3:13 avec la classe.)*
 
 L’ordre de Dieu de L’adorer comme Créateur est fortement lié au monde matériel. C’est parce qu’Il nous a créés comme des créatures physiques et fait le monde matériel pour notre plus grand plaisir que nous Lui devons allégeance et adoration. De même, l’ordre de Dieu à L’adorer comme Rédempteur est fortement lié aux aspects émotionnels et spirituels de notre être. L’épitre aux Hébreux suggère que le caractère incarné de Christ – ce qui Lui a permis de s’identifier totalement à l’humanité en adoptant un corps de chair et de sang réel – est essentiel à la rédemption. L’auteur des Hébreux ne voit aucune contradiction notoire entre le monde matériel et le monde spirituel. Le véritable conflit est entre le bien et le mal, entre l’adoration authentique et l’adoration de soi. 
 
@@ -92,13 +99,9 @@ Une fois, Jésus parlait à un pharisien nommé Simon, en disant: « Un créanci
 **À méditer:**
 
 1. Que nous dit le principe « Vous ne vous appartenez point à vous-mêmes; vous avez été rachetés à un grand prix » (1 Cor. 6:19, 20, LSG) sur nos décisions et nos choix?
-
 2. Étant donné qu’adorer Dieu étend Son droit de propriété sur tout ce que nous possédons, quelles transformations d’attitudes devons-nous faire?
-
 3. Puisque, honorer Dieu implique le fait de prendre soin de la nature qu’Il a créée, quelles habitudes devons-nous changer?
-
 4. Comment pouvons-nous savoir ou non, si nous sommes en danger d’aimer les dons plus que le Dispensateur? Que pouvons-nous faire pour éviter d’affectionner les dons matériels de Dieu, plutôt que d’affectionner Dieu Lui-même? 
-
 5. Comment les autres peuvent être encouragés à adopter un mode de vie de générosité qui conduit les dons matériels de Dieu à Ses desseins?
 
 #### ÉTAPE 4 — Créer
