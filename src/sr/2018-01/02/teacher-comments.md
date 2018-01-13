@@ -11,7 +11,7 @@ date:   12/01/2018
 
 - **Saznati:** Prepoznaće varljivost bogatstva i konzumerizma, što će im pomoći da izbegnu sotonin uticaj.
 - **Osetiti:** Iskusiće samokontrolu ili, još bolje, Božje upravljanje u oblasti želja, potreba i težnji.
-- **Činiti:** Negovaće stil života koji je usredsređen na iskazivanje zadovoljstva i zahvalnosti za Božje velikodušno staranje. 
+- **Činiti:** Negovaće stil života koji je usredsređen na iskazivanje zadovoljstva i zahvalnosti za Božje velikodušno staranje.
 
 **Smernice za proučavanje**:
 
@@ -57,7 +57,7 @@ Drugi čovek, koji nije bio toliko dobrog zdravlja, obraćao je pažnju na bolov
 
 Isus u Matej 13,3-7 predstavlja sliku duhovnog života koja započinje silnim obećanjem, ali se završava razočaravajućim ishodom. Nikakva šansa ne postoji za prvu grupu ljudi spomenutu u ovom tekstu, jer kod njih nema duhovne prijemčivosti (ptice su pojele seme). Druga grupa je u boljem položaju, ali joj nedostaju odgovarajuća sredstva kako bi seme izraslo više od izdanka. Treća grupa je duhovno prijemčiva i ima potrebna sredstva za rast; međutim, pre nego što izraste, ova sredstva se pretvaraju u materijalizam, i ono što je duhovno biva ugušeno.
 
-Najbolje bašte su one u kojima je baštovan posvetio vreme pažljivom uklanjanju korova. U suprotnom, korov uzima hranljive sastojke potrebne biljci, i ona ili gladuje ili biva ugušena. Nažalost, postoji opšteprihvaćena teologija koja neguje sebičnost pod velom izgradnje vere. Poznata kao teologija napretka, ova lažna teologija, poput svake druge krivotvorine, sadrži istinu u određenoj meri koja je pažljivo izmešana sa zabludom. Bog želi da napredujemo (3. Jovanova 2) i u materijalnom smislu blagoslovio je mnoge vernike u toku istorije (Avrama, Jova, Voza, da navedemo samo nekoliko). Problem je u tome što ova teologija uči da naša davanja obavezuju Boga da nas učini bogatima. Što više dajemo, više primamo. Vernik je podstaknut da daje ne iz duhovnog načela, već iz sebične želje da stekne još više novca.
+Najbolje bašte su one u kojima je baštovan posvetio vreme pažljivom uklanjanju korova. U suprotnom, korov uzima hranljive sastojke potrebne biljci, i ona ili gladuje ili biva ugušena. Nažalost, postoji opšteprihvaćena teologija koja neguje sebičnost pod velom izgradnje vere. Poznata kao teologija napretka, ova lažna teologija, poput svake druge krivotvorine, sadrži istinu u određenoj meri koja je pažljivo izmešana sa zabludom. Bog želi da napredujemo (3. Jovanova 1,2) i u materijalnom smislu blagoslovio je mnoge vernike u toku istorije (Avrama, Jova, Voza, da navedemo samo nekoliko). Problem je u tome što ova teologija uči da naša davanja obavezuju Boga da nas učini bogatima. Što više dajemo, više primamo. Vernik je podstaknut da daje ne iz duhovnog načela, već iz sebične želje da stekne još više novca.
 
 **Razmislite o ovome:** Šta je to u prirodi materijalizma zbog čega ga je teže uočiti od ostalih greha? Kako teologija napretka nanosi moguću štetu Crkvi?
 

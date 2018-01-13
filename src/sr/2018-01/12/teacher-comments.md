@@ -81,7 +81,7 @@ Kakvim načelima nas uči četvrta zapovest o tome kako treba da provodimo vreme
 
 **III Zdrave navike**
 
-(Podsetite se u razredu sledećih tekstova: 3. Jovanova 1-3; Otkrivenje 21,1-5; 1. Korinćanima 9,24-27)
+(Podsetite se u razredu sledećih tekstova: 3. Jovanova 1,1-3; Otkrivenje 21,1-5; 1. Korinćanima 9,24-27)
 
 Rad (vežba) u ravnoteži sa odmorom (Subotom) ustanovljen je u vreme stvaranja, pre nego što se greh pojavio (1. Mojsijeva 2,3-15). Savet u vezi sa konzumiranjem alkohola (Priče 20,1; 23,29-35), seksualnom moralnošću (3. Mojsijeva 18; 1. Korinćanima 6,18-20), i različitim bolestima (na primer, 3. Mojsijeva 14), uz dodatni savet u vezi sa drugim fizičkim pitanjima, naglašava važnost uspostavljanja zdravih navika. Hrišćanska pristavska služba to zahteva.
 
