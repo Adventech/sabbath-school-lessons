@@ -18,17 +18,25 @@ date:   16/02/2018
 #### Plan de l’étude:
 
 **I. Savoir: Avoir la foi pour être honnête en toutes choses**
+
 A. Pourquoi est-il important d’être honnête même dans les petites choses de la vie?
+
 B. Comment l’honnêteté est-elle liée à une vie construite sur la confiance (la foi)?
+
 C. Comment la pratique de la dime est-elle liée aux notions d’honnêteté et de confiance (la foi)?
 
 **II. Ressentir: La liberté à travers l’honnêteté et la confiance**
+
 A. Comment l’honnêteté nous apporte-t-elle l’expérience de la conscience claire?
+
 B. Comment la pratique de la dime peut-elle nourrir un climat de foi et de dépendance de Dieu?
 
 **III. Agir: La dime – c’est en forgeant qu’on devient forgeron**
+
 A. Quelles sont les récompenses spirituelles et pratiques du fait de rendre une dime honnête?
+
 B. Pourquoi les croyants devraient-ils résister à la tentation de retourner la dime seulement quand cela leur « convient »?
+
 C. Comment la pratique de la dime est-elle liée au réveil et à la réforme?
 
 #### Résumé: 
