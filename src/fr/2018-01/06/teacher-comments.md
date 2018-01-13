@@ -18,17 +18,25 @@ date:   09/02/2018
 #### Plan de l’étude:
 
 **I. Savoir: Identifier les marques d’un intendant**
+
 A. Quelle est le bien fondé de la fidélité et de la loyauté?
+
 B. Quelle est l’essence de l’intégrité?
+
 C. Quelle est l’importance de l’obéissance et de la fiabilité?
 
 **II. Ressentir: Faire l’expérience de la vie d’un économe authentique**
+
 A. Comment pouvons-nous favoriser la réplication de l’économat authentique, dans nos propres vies, puis dans l’église?
+
 B. Comment pouvons-nous nourrir spirituellement les jeunes chrétiens qui désirent réellement être des économes de Dieu?
 
 **III. Agir: Créer une atmosphère d’intendance**
+
 A. Comment pouvons-nous rendre l’économat attrayant et digne d’intérêt pour ceux qui n’ont jamais fait l’expérience?
+
 B. Comment pouvons-nous illustrer les principes de l’économat afin que l’image soit claire et non complexe?
+
 C. Comment pouvons-nous démontrer les avantages spirituels de l’économat authentique?
 
 #### Résumé: 
@@ -90,9 +98,7 @@ Voir une image plus complète du caractère et de la personnalité de Dieu nous 
 **À méditer**
 
 1. Quelles pratiques pouvons-nous adopter pour nous aider à faire plus confiance à Dieu?
-
 2. Quels changements pouvons-nous apporter pour que Dieu nous fasse plus confiance? 
-
 3. Quels plans l’église peut-elle développer pour cultiver et encourager ces deux choses susmentionnées?
 
 #### ÉTAPE 4—Créer
