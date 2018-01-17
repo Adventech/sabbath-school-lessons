@@ -59,6 +59,10 @@ var BIBLE_PARSER_CONFIG = {
         "rvr1960"
     ],
 
+    "fa": [
+        "opv-1896"
+    ],
+
     "fr": [
         "lsg"
     ],
