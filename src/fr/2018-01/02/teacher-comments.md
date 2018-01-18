@@ -87,7 +87,7 @@ L’étape finale de la marche vers la convoitise est l’étape de l’action, 
 
 #### ÉTAPE 3—Appliquer
 
-Coin du moniteur: La pratique de la méditation biblique, la prière et le service chrétien forment des barrières contre nos tendances naturelles à la convoitise. À travers la maitrise de soi – qui pour le chrétien n’est rien de moins que la complète soumission au contrôle divin – nos pensées, nos passions, et nos énergies peuvent être guidées à utiliser les bénédictions maté- rielles de Dieu conformément à Son désir. N’oublions pas que la création de Dieu des choses matérielles a été faite avec Sa bénédiction. Ces choses ne sont pas mauvaises en soi. Quand nous adorons la création de Dieu au lieu d’adorer Dieu Lui-même, c’est là que le problème se pose. 
+**Coin du moniteur:** La pratique de la méditation biblique, la prière et le service chrétien forment des barrières contre nos tendances naturelles à la convoitise. À travers la maitrise de soi – qui pour le chrétien n’est rien de moins que la complète soumission au contrôle divin – nos pensées, nos passions, et nos énergies peuvent être guidées à utiliser les bénédictions maté- rielles de Dieu conformément à Son désir. N’oublions pas que la création de Dieu des choses matérielles a été faite avec Sa bénédiction. Ces choses ne sont pas mauvaises en soi. Quand nous adorons la création de Dieu au lieu d’adorer Dieu Lui-même, c’est là que le problème se pose. 
 
 **À méditer:**
 1. Puisque la maitrise de soi est essentiellement l’abandon au divin contrôle, quelles choses pratiques peuvent être faites pour lever les barrières à l’Esprit Saint?
