@@ -35,6 +35,9 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
 var BIBLE_PARSER_CONFIG = {
+    "ar": [
+        "svd"
+    ],
     "bg": [
         "bg1940"
     ],

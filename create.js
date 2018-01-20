@@ -33,6 +33,7 @@ var SRC_PATH = "src/",
 var LOCALE_VARS = {
 
   "daily_lesson_title": {
+    "ar": "درس",
     "bg": "Дневен урок",
     "da": "Lektie",
     "de": "Tägliche Lektion",
@@ -54,6 +55,7 @@ var LOCALE_VARS = {
   },
 
   "empty_placeholder": {
+    "ar": "### <center>ونحن نعمل على هذا الدرس.</center>\n<center>يرجى العودة لاحقا.</center>",
     "bg": "### <center>Работим по този урок.</center>\n<center>Моля, върнете се по-късно.</center>",
     "da": "### <center>Vi arbejder på denne lektion.</center>\n<center>Prøv igen senere.</center>",
     "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
@@ -75,6 +77,7 @@ var LOCALE_VARS = {
   },
 
   "teacher_comments": {
+    "ar": "Teacher comments",
     "bg": "Учител коментира.",
     "da": "Aktiviteter og dialog",
     "de": "Lehrerteil",
@@ -96,6 +99,7 @@ var LOCALE_VARS = {
   },
 
   "inside_story": {
+    "ar": "Inside story",
     "bg": "Разказ",
     "da": "Missionsberetning",
     "de": "Mit Gott erlebt",
