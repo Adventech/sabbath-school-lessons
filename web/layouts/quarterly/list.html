@@ -40,7 +40,7 @@
             var start_date = moment(lessons[i].start_date, "YYYY-MM-DD"),
                 end_date = moment(lessons[i].end_date, "YYYY-MM-DD");
 
-            if (moment().isBetween(start_date, end_date, "hour", "[]")){
+            if (moment().isBetween(start_date, end_date, "day", "[]")){
                 document.location = "{{.Site.BaseURL}}" + lessons[i].path + "/0" + dow_mapping[moment().format("E")];
             }
         }
