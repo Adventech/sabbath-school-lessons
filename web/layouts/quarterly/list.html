@@ -32,7 +32,7 @@
                 end_date = moment(lessons[i].end_date, "YYYY-MM-DD");
 
             if (moment().isBetween(start_date, end_date)){
-                document.location = "{{.Site.BaseURL}}/" + lessons[i].path + "/0" + moment().format("E");
+                document.location = "{{.Site.BaseURL}}" + lessons[i].path + "/0" + moment().format("E");
             }
         }
     }

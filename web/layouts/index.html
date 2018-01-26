@@ -12,7 +12,7 @@
         detectedLang = (navigator.language || navigator.userLanguage || defaultLang).split("-")[0],
         cookieLang = Cookies.get("ss_lang"),
         redirect = function(lang){
-            document.location = "/" + lang;
+            document.location = lang;
             Cookies.set("ss_lang", lang);
         };
 
