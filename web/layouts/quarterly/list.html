@@ -3,6 +3,15 @@
 {{ partial "top_menu.html" . }}
 
 <script type="text/javascript">
+    var dow_mapping = {
+        "1": "3",
+        "2": "4",
+        "3": "5",
+        "4": "6",
+        "5": "7",
+        "6": "1",
+        "7": "2"
+    };
     var checkField = function(field){
         var url = window.location.href;
         if(url.indexOf(field) != -1)
@@ -31,8 +40,8 @@
             var start_date = moment(lessons[i].start_date, "YYYY-MM-DD"),
                 end_date = moment(lessons[i].end_date, "YYYY-MM-DD");
 
-            if (moment().isBetween(start_date, end_date)){
-                document.location = "{{.Site.BaseURL}}" + lessons[i].path + "/0" + moment().format("E");
+            if (moment().isBetween(start_date, end_date, "hour", "[]")){
+                document.location = "{{.Site.BaseURL}}" + lessons[i].path + "/0" + dow_mapping[moment().format("E")];
             }
         }
     }
