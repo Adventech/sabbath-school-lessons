@@ -13,7 +13,7 @@ var bible = {
         "name": "{{$element.name}}",
         "verses": {
             {{ range $versesIndex, $versesElement := $element.verses }}
-                {{$versesIndex}}: {{($versesElement | htmlUnescape | safeHTML)}},
+                {{$versesIndex}}: {{($versesElement | safeHTML)}},
             {{ end }}
         }
     },
