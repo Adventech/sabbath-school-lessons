@@ -228,8 +228,13 @@
     left: 40px;
 }
 
-.ss-wrapper h3 {
+.ss-wrapper h3, .ss-wrapper h2 {
     font-variant: small-caps;
+    margin-bottom: 20px !important;
+}
+
+.ss-wrapper h3:not(:first-child), .ss-wrapper h2:not(:first-child) {
+    margin-top: 30px !important;
 }
 
 .ss-wrapper sup {
