@@ -16,6 +16,7 @@ before_deploy:
   - 'unzip awscli-bundle.zip'
   - './awscli-bundle/install -b ~/bin/aws'
   - 'node compile-web.js'
+  - 'if [ "$TRAVIS_BRANCH" = "stage" ] ; then sed -i -e "s/sabbath-school\.adventech\.io/sabbath-school-stage\.adventech\.io/g" config.toml; fi'
   - 'cd web && hugo -DF'
   - 'cd .. && mv -v web/public/* dist/'
 deploy:
