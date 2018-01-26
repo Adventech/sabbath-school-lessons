@@ -1,0 +1,16 @@
+<header class="header">
+    <div class="container py-3">
+        <nav class="navbar px-0">
+            <p class="h4">{{ $.Param (print (substr $.Dir 0 2) ".title") }}</p>
+
+            {{ if gt ($.Param (substr $.Dir 0 2)) 0 }}
+
+            <form class="form-inline">
+                <a href="/language" class="btn btn-lg btn-outline-secondary" style="font-family: 'Lato', sans-serif !important">
+                    {{ $.Param (print (substr $.Dir 0 2) ".lang") }}
+                </a>
+            </form>
+            {{ end }}
+        </nav>
+    </div>
+</header>

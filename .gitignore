@@ -2,3 +2,6 @@
 .idea
 node_modules
 dist
+web/public
+web/content/*
+!web/content/language
