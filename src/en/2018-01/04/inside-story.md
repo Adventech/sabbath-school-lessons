@@ -23,7 +23,7 @@ On Sabbath, the Polish visitors listened to Moskolenko’s sermon. After sundown
 
 A bank transfer of 5,000 arrived several days later.
 
-The gleaming Buzke church, which opened in 2016 after 11 years of construction, was built on prayer and miracles, Moskolenko said. An Adventist couple from Australia provided $2,000 fora new roof. The Euro-Asia Division and the local conference provided mission funds. U.S. and Czech church members also contributed.
+The gleaming Buzke church, which opened in 2016 after 11 years of construction, was built on prayer and miracles, Moskolenko said. An Adventist couple from Australia provided 2,000 fora new roof. The Euro-Asia Division and the local conference provided mission funds. U.S. and Czech church members also contributed.
 
 God and His angels intervened repeatedly, said Moskolenko, 54. She told of a bureaucratic showdown after local authorities rejected a request to knock a hole in a wall to create a second window. “I prayed about it and thought: ‘God, please help us knock a hole in the wall,’” she said.
 
