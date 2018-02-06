@@ -5,7 +5,7 @@ date:   16/02/2018
 
 **One Visit, 9 Baptisms**
 
-`By Yolanda Martinez Santos`
+*By Yolanda Martinez Santos*
 
 Erica’s husband didn’t seem pleased when he found his wife and me studying the Bible in their home in the U.S. state of California.
 
@@ -35,4 +35,4 @@ Erica later told me that when I knocked on her door that first time, she had bee
 
 “If you had never knocked on my door, none of this would have happened”, Erica said. “God, You have answered my call!”
 
-`Yolanda Martinez Santos is a Bible worker in California.`
+*Yolanda Martinez Santos is a Bible worker in California.*
