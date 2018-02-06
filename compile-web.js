@@ -18,6 +18,10 @@ var BIBLE_PARSER_CONFIG = {
         "bg1940"
     ],
 
+    "cs": [
+        "kralická-1613"
+    ],
+
     "da": [
         "bph",
         "dn1933"
