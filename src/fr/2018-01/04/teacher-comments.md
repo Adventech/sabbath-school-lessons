@@ -18,18 +18,27 @@ date:   26/01/2018
 #### Plan de l’étude:
 
 **I. Savoir: Connaitre Jésus**
+
 A. Comment l’étude des Écritures réoriente-t-elle nos priorités et inspire le renouvèlement spirituel?
+
 B. Comment la prière peut-elle être orientée afin d’aller au-delà d’une simple liste de désirs humains pour devenir un instrument de transformation spirituelle?
+
 C. Quel est le rôle de la sagesse dans la maitrise de la mondanité?
+
 D. Comment l’Esprit Saint oeuvre-t-Il avec le Père et le Fils pour réorienter et rediriger nos vies?
 
 **II. Ressentir: Sentir la présence de Jésus**
+
 A. Comment pouvons-nous cultiver une sensation plus profonde de la pré-sence de Dieu dans nos vies?
+
 B. Comment pouvons-nous développer une appréciation plus intense du rôle de l’Esprit Saint dans le renouvèlement spirituel? 
 
 **III. Agir: Démontrer notre dévotion**
+
 A. Comment réagissons-nous à l’invitation de faire l’expérience du renouvè-lement spirituel?
+
 B. Comment les chrétiens doivent-ils éviter les instabilités émotionnelles afin de maintenir une expérience continuellement croissante?
+
 C. Quelles mesures pouvons-nous prendre afin d’avoir des vies spirituelles en plein essor?
 
 #### Résumé: 
@@ -85,17 +94,11 @@ La sagesse est plus que l’information ou la simple connaissance. Elle inclut l
 **À méditer:**
 
 1. Comment puis-je devenir plus consistant dans l’étude de la Bible?
-
 2. Comment puis-je passer plus de temps à prier sans être ennuyé ou inutilement répétitif?
-
 3. Quelles sont les mesures concrètes que je peux prendre pour m’aider à cultiver la sagesse?
-
 4. Comment l’interaction avec les croyants ayant le même objectif peutelle améliorer mes habitudes d’étude de la Bible et ma vie de prière?
-
 5. Comment l’étude de l’histoire de l’église pourrait-elle m’aider à développer une plus grande sagesse?
-
 6. Quelle influence un long moment passé avec Dieu pourrait-elle avoir sur ma croissance spirituelle?
-
 7. Comment l’application des principes bibliques à travers le service pourrait-elle améliorer mon renouvèlement spirituel?
 
 #### ÉTAPE 4—Créer
@@ -105,9 +108,6 @@ La sagesse est plus que l’information ou la simple connaissance. Elle inclut l
 **Activités:**
 
 1. Demandez à des amis de vous prendre vue pendant que vous priez, pendant que vous étudiez la Bible ou pendant que vous pratiquez votre foi dans le service chrétien. Prenez les meilleures photos et affichez-les sur votre réfrigérateur ou votre table de chevet – tout endroit où vous les verrez souvent afin de vous encourager à continuer.
-
 2. Créez un coin d’adoration dans votre maison, dans votre lieu de travail ou tout autre espace personnel pour l’étude de la Bible et la prière personnelle. Réservez le coin uniquement à cette fin.
-
 3. Pendant votre temps d’étude de la Bible, commencez à créer une liste d’idées pour le service chrétien. Fondez cette liste sur des recherches bibliques, plutôt que sur juste « des besoins » que vous voyez dans votre communauté.
-
 4. Commencez un journal de prière qui inclut une place pour un résumé de vos conversations avec Dieu et la date à laquelle chacune a eu lieu. Si vous faites des demandes, laissez un espace pour des notations plus tard dans lesquelles vous reconnaitrez que Dieu a répondu à votre prière.  

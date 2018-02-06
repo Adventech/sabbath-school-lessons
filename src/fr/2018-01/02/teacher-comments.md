@@ -18,17 +18,25 @@ date:   12/01/2018
 #### Plan de l’étude:
 
 **I. Savoir: Les richesses trompeuses**
+
 A. Pourquoi est-il si facile de porter un jugement concernant les possessions que d’autres accumulent, tout en étant aveugle quand il s’agit de notre propre condition spirituelle?
+
 B. Pourquoi l’évangile de la prospérité de nombreux télévangélistes a si bien réussi en détournant l’attention de l’église vers le fait de faire des disciples pour accumuler des richesses? 
+
 C. Quels sont les trois étapes dans le processus de la convoitise?
 
 **II. Ressentir: Faire l’expérience de la maitrise de soi**
+
 A. Comment pouvons-nous éprouver le contrôle de l’Esprit Saint sur nos besoins et nos désirs dans ce monde de mécontentement? 
+
 B. Quelles attitudes sur la vie peuvent nourrir l’esprit doux et humble, et qui favorisent naturellement le contentement? 
 
 **III. Agir: Planifier une vie de satisfaction**
+
 A. Quels sont les éléments essentiels d’un plan de vie qui perpétuera une vie de satisfaction?
+
 B. Comment pouvons-nous mettre la différence entre les besoins et les désirs, les nécessités et les préférences ou les choses fondamentales et les ornements? 
+
 C. Quelles sont les choses pratiques fondamentales quotidiennes qui devraient être intégrées à notre mode de vie afin de mettre en œuvre avec succès un plan d’une vie pieuse?
 
 #### Résumé: 
@@ -79,14 +87,11 @@ L’étape finale de la marche vers la convoitise est l’étape de l’action, 
 
 #### ÉTAPE 3—Appliquer
 
-Coin du moniteur: La pratique de la méditation biblique, la prière et le service chrétien forment des barrières contre nos tendances naturelles à la convoitise. À travers la maitrise de soi – qui pour le chrétien n’est rien de moins que la complète soumission au contrôle divin – nos pensées, nos passions, et nos énergies peuvent être guidées à utiliser les bénédictions maté- rielles de Dieu conformément à Son désir. N’oublions pas que la création de Dieu des choses matérielles a été faite avec Sa bénédiction. Ces choses ne sont pas mauvaises en soi. Quand nous adorons la création de Dieu au lieu d’adorer Dieu Lui-même, c’est là que le problème se pose. 
+**Coin du moniteur:** La pratique de la méditation biblique, la prière et le service chrétien forment des barrières contre nos tendances naturelles à la convoitise. À travers la maitrise de soi – qui pour le chrétien n’est rien de moins que la complète soumission au contrôle divin – nos pensées, nos passions, et nos énergies peuvent être guidées à utiliser les bénédictions maté- rielles de Dieu conformément à Son désir. N’oublions pas que la création de Dieu des choses matérielles a été faite avec Sa bénédiction. Ces choses ne sont pas mauvaises en soi. Quand nous adorons la création de Dieu au lieu d’adorer Dieu Lui-même, c’est là que le problème se pose. 
 
 **À méditer:**
-
 1. Puisque la maitrise de soi est essentiellement l’abandon au divin contrôle, quelles choses pratiques peuvent être faites pour lever les barrières à l’Esprit Saint?
-
 2. Comment la culture des autres dons spirituels peut contribuer au développement de la maitrise de soi qui est nécessaire pour surmonter la convoitise? 
-
 3. Quelles sont certaines des approches utiles pour l’application de la maitrise de soi pour chacune des trois étapes qui mènent à la convoitise?
 
 #### ÉTAPE 4 — Créer
@@ -96,12 +101,19 @@ Coin du moniteur: La pratique de la méditation biblique, la prière et le servi
 ##### Activités:
 
 **Le ministère d’église:**
+
 A. Demandez au pasteur la liste des personnes qui ne peuvent plus venir à l’église à cause d’une infirmité physique. Rendez-leur visite.
+
 B. Proposez d’organiser une sortie amusante pour les jeunes enfants dans l’église.
+
 C. Aidez vos leadeurs des éclaireurs à nettoyer et à organiser leur équipement?  
 
 **Le ministère individuel:**
+
 A. Préparez et servez de la nourriture dans un foyer aux sans-abris.
+
 B. Organisez une activité de collecte de fonds pour un organisme à but lucratif.
+
 C. Aidez une famille locale ou un organisme à rénover une maison pour les nécessiteux.
+
 D. Visitez et encouragez les gens dans une prison locale.

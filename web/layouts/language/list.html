@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+
+{{ partial "top_menu.html" . }}
+
+<main role="main">
+    <div>
+        <div class="container">
+            <div class="py-5">
+                <a href="javascript:history.back()">← Go back</a>
+            </div>
+            <div class="row align-items-center">
+                {{ range .Params.languages }}
+                    <div class="col-lg-3 col-md-4 text-center py-5 ss-language-item bg-white">
+                        <a class="ss-lang" data="{{.code}}" href="/{{ .code }}">
+                            <p class="font-weight-bold p-0 m-0 ss-language-name-native">{{ .native }}</p>
+                            <p class="p-0 m-0 ss-language-name-en">{{ .en }}</p>
+                        </a>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</main>
+
+<script type="text/javascript">
+    $(".ss-lang").click(function(){
+       Cookies.set("ss_lang", $(this).attr("data"));
+    });
+</script>
+
+{{ partial "footer.html" . }}
