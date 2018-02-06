@@ -19,7 +19,7 @@ var BIBLE_PARSER_CONFIG = {
     ],
 
     "cs": [
-        "kralická-1613"
+        "kralicka-1613"
     ],
 
     "da": [
