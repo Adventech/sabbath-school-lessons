@@ -53,6 +53,7 @@ var LOCALE_VARS = {
     "uk": "Урок",
     "ja": "日課",
     "zh": "每日课程",
+    "ht": "每日課程"
   },
 
   "empty_placeholder": {
@@ -76,6 +77,7 @@ var LOCALE_VARS = {
     "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>",
     "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
     "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
+    "ht": "### <center>我們正在學習這一課。請稍後再來。</center>"
   },
 
   "teacher_comments": {
@@ -98,7 +100,8 @@ var LOCALE_VARS = {
     "tr": "Teacher Comments",
     "uk": "Teacher Comments",
     "ja": "Teacher Comments",
-    "zh": "Teacher Comments"
+    "zh": "Teacher Comments",
+    "ht": "Teacher Comments"
   },
 
   "inside_story": {
@@ -121,7 +124,8 @@ var LOCALE_VARS = {
     "tr": "Inside Story",
     "uk": "Місіонерська історія",
     "ja": "Inside Story",
-    "zh": "Inside Story"
+    "zh": "Inside Story",
+    "ht": "Inside Story"
   }
 };
 
