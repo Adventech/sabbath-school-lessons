@@ -59,6 +59,6 @@ languages:
     en: Arabic
     code: ar
   - native: Český
-  	en: Czech
-  	code: cs
+    en: Czech
+    code: cs
 ---
