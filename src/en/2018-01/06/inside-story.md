@@ -3,28 +3,41 @@ title:  Inside Story
 date:   09/02/2018
 ---
 
-**Finding Ellen White in the Mideast**
+**The Stubborn Bride**
 
-*by Chanmin Chung*
+*By Andrew McChesney, Adventist Mission*
 
-Ahmet felt a strange impression to look for a Seventh-day Adventist church in a major Middle Eastern city where Adventists are not allowed to witness in public or distribute literature door-to-door.
+*Knock, knock.
+Knock, knock.*
 
-Ahmet, who was visiting his ill father, had never met an Adventist, visited an Adventist church, or heard of Adventist beliefs.
+Elisha Athota, a construction worker, opened the front door of his house in Vanukuru in central India. Outside stood a man and a woman Elisha had never seen before.
 
-“The impression came again and again,” said Ahmet, a former Muslim who had converted to Christianity four years earlier.
+“We want to ask you something very important,” the man said. “We want you to marry our daughter. Her name is Solomi.”
 
-Following the impression, he set off in search of the church. Little did he know that only 30 Adventists are known to live in the city of 10 million people. (Adventist Mission is not identifying the city or Ahmet by his real name to safeguard the Adventist work in the region.)
+Elisha was surprised. He wanted to get married, but he never expected to find a wife this way. Elisha spoke with the two strangers for a few minutes. Then he shook his head. “I cannot marry your daughter,” he said.
 
-Finally, Ahmet found the Adventist church, stepped into the entrance area, and knocked on the inner door. He was met with silence.
+Elisha explained to the parents that he was a Seventh-day Adventist and only wanted to marry a woman who kept his faith. The parents assured him that their daughter would become an Adventist. Elisha and Solomi (pictured below) liked each other, and after a while the two were married.
 
-“Nobody was there except Ellen White books,” Ahmet said.
+“But after the marriage, she broke the promise that her parents had made,” Elisha said in an interview at the headquarters of the Adventist Church’s South Andhra Section, with Solomi seated at his side.
 
-Local church members had placed a bookrack with free literature inside the church entrance, an area that is not considered a public space legally and therefore is available for witnessing. Ahmet felt convicted to pick up The Victory of Love, a book containing several chapters of The Great Controversy by Adventist Church cofounder Ellen White.
+Solomi said she had been unconvinced that Saturday was the biblical Sabbath, so she kept attending her Sunday church.
 
-Returning to his father’s home, Ahmet wondered whether the Spirit of the Lord had led him to the church. When he finished reading the book three days later, he concluded that White’s words were in harmony with the Bible. He found church contact information on the last page of the book and asked for more information. Soon he received a copy of White’s book Patriarchs and Prophets. After that he read The Great Controversy, The Acts of the Apostles, Thoughts From the Mount of Blessing, and his favorite, The Desire of Ages. After reading those books, Ahmet decided to become an Adventist, and today wants everyone to know about Ellen White.
+Her husband sank into discouragement. He didn’t know what to do. Seeing his sadness, Solomi began to pray that God to reveal to her whether Saturday or Sunday was the true Sabbath.
 
-“I will tell everyone: Ellen White is a prophet of God,” he said.
+Around that time, an Adventist pastor showed up at her church. The pastor was visiting various churches in the area, passing out religious literature.
 
-Even more, Ahmet said he wants to share the clearer picture of God’s love that he has learned in these books. He is reaching out to people from his country who have never heard the gospel.
+The pastor gave Solomi some literature and encouraged her to visit his church the next Sabbath. When she came, he began Bible studies that explained the difference between Saturday and Sunday.
 
-Ahmet’s story has encouraged local church leaders to maintain their efforts to share White’s writings. “We need to do all we can to share the treasure we have,” said Rick McEdward, president of the Middle East and North Africa Union.
+Five months after the wedding, Solomi embraced the Sabbath. Today she and her husband are full-time Bible workers.
+
+Elisha said he realizes now the importance of following the advice of Paul in 2 Corinthians 6:14: “Do not be unequally yoked together with unbelievers.” (NKJV).
+
+“If your potential spouse doesn’t agree to keep the Sabbath, don’t take the risk of getting married,” he said. “Marry someone of your own faith.”
+
+But if a mistake is made or something goes wrong, don’t lose hope, he said.
+
+“I really regretted my marriage decision at first, but now I am very happy,” he said.
+
+Solomi said she also was filled with joy.
+
+“We are most happy about one thing: We are now able to teach the Sabbath truth to many people,” she said.

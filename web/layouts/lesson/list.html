@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+
+{{ partial "top_menu.html" . }}
+
+<main role="main">
+    <div class="container pt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-5 text-center text-md-right mb-5 mb-md-0">
+                <img src="{{ .Params.Cover }}" class="img-fluid" style="border-radius: 10px; height: 340px" />
+                <p class="mt-5"><a class="h5 font-weight-bold text-secondary" href="{{ $.Parent.URL }}?archive">{{ $.Param (print (substr $.Dir 0 2) ".archive") }} →</a></p>
+            </div>
+            <div class="col-lg-8 col-md-7">
+                <p class="h3" style="font-family: 'Lato', sans-serif !important; color: #333">{{ .Params.Title }}</p>
+                <p style="color: #B3B3B3; font-family: 'Lato', sans-serif !important; ">{{ .Params.Human_Date }}</p>
+                <p>{{ .Params.Description }}</p>
+
+                <div class="pt-5">
+                {{ range $index, $element := .Params.Lessons }}
+                    {{ with $.Site.GetPage "page" $element.path_index }}
+                        <div class="pt-2 ss-quarterly-lesson position-relative pl-4">
+                            <div class="ss-quarterly-lesson-line"></div>
+                            <div class="ss-quarterly-lesson-dot-outline"></div>
+
+                            <strong class="text-secondary">Lesson {{ add $index 1 }}.</strong>
+                            <span class="text-secondary ss-quarterly-lesson-start-date ss-quarterly-lesson-start-date-{{$index}}">{{ $element.start_date }}</span> -
+                            <span class="text-secondary ss-quarterly-lesson-end-date ss-quarterly-lesson-end-date-{{$index}}">{{ $element.end_date }}</span>
+
+                            <script type="text/javascript">
+                                $(function(){
+                                    moment.locale('{{substr $.Dir 0 2}}');
+                                    $(".ss-quarterly-lesson-start-date-{{$index}}").html(moment('{{ dateFormat "02/01/2006" $element.start_date }}', 'DD/MM/YYYY').format('DD MMM'));
+                                    $(".ss-quarterly-lesson-end-date-{{$index}}").html(moment('{{ dateFormat "02/01/2006" $element.end_date }}', 'DD/MM/YYYY').format('DD MMM'));
+                                })
+                            </script>
+                            <p><a href="{{ .URL }}">{{ .Title }}</a></p>
+                        </div>
+                    {{ end}}
+                {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

@@ -5,7 +5,7 @@ date:   09/02/2018
 
 ### El Sábado enseñaré...
 
-**TEXTO CLAVE:** 1 CORINTIOS 4:1, 2
+**Texto Clave:** 1 Corintios 4:1, 2
 
 #### Enseña a tu clase a:
 
@@ -18,17 +18,25 @@ date:   09/02/2018
 #### Bosquejo de la lección
 
 **I. Saber: Identificar las particularidades de un mayordomo**
+
 A. ¿Cuál es la esencia de la fidelidad y la lealtad?
+
 B. ¿Cuál es el fundamento de la integridad?
+
 C. ¿Cuál es la importancia de la obediencia y la honradez?
 
 **II. Sentir: Experimentar la vida de un mayordomo auténtico**
+
 A. ¿Cómo podemos fomentar la reproducción de una auténtica mayordomía, primero en nuestra propia vida y luego en toda la iglesia?
+
 B. ¿Cómo podemos fomentar la maduración de los jóvenes cristianos que en verdad desean ser mayordomos de Dios?
 
 **III.Hacer: Crear una atmósfera de mayordomía**
+
 A. ¿Cómo podemos hacer que la mayordomía sea atractiva e interesante para quienes nunca la han experimentado?
+
 B. ¿Cómo podemos ilustrar los principios de la mayordomía para que la idea sea clara y no demasiado compleja?
+
 C. ¿Cómo podemos demostrar los beneficios espirituales de una mayordomía auténtica?
 
 #### Resumen: 
@@ -55,8 +63,7 @@ Ahora, haz la aplicación espiritual: pide a los miembros de la clase que, sin l
 
 ##### Comentario de la Biblia
 
-**I. Fidelidad y lealtad**
-*(Repasa, con tu clase, 1 Corintios 4:1, 2; Hebreos 11:8-12, 17-19; Apocalipsis 2:10; Mateo 6:24; 1 Crónicas 28:9).*
+**I. Fidelidad y lealtad** *(Repasa, con tu clase, 1 Corintios 4:1, 2; Hebreos 11:8-12, 17-19; Apocalipsis 2:10; Mateo 6:24; 1 Crónicas 28:9).*
 
 Pablo escribe: “Ahora bien, alguien que recibe el cargo de administrador debe ser fiel. En cuanto a mí, me importa muy poco cómo me califiquen ustedes o cualquier autoridad humana. Ni siquiera confío en mi propio juicio en este sentido” (1 Corintios 4:2, 3, NTV). Cuando se miden la fidelidad y la lealtad, la única opinión que cuenta es la de Dios. Los seres humanos pecaminosos, como anhelan ser aprobados y aceptados, a menudo pierden de vista este hecho y tratan de complacer a la iglesia, a sus amigos, a sus compañeros de trabajo, a sus compañeros de clase o a sus pares. 
 
@@ -66,15 +73,13 @@ En esta actitud de obstinación es donde Ananías y Safira fracasaron. A menudo 
 
 **Considera:** A la luz de las trágicas historias de Ananías y Safira, y del joven rico, ¿qué resguardos debemos tomar para asegurarnos de no tener lealtades divididas? 
 
-**II. La integridad**
-*(Repasa, con tu clase, Hebreos 9:14; 10:19-22; 1 Timoteo 4:1, 2; Romanos 2:14, 15; Salmo 40:7, 8).*
+**II. La integridad** *(Repasa, con tu clase, Hebreos 9:14; 10:19-22; 1 Timoteo 4:1, 2; Romanos 2:14, 15; Salmo 40:7, 8).*
 
 Una conciencia limpia es consecuencia inevitable de una cosa: la integridad. La integridad es una valoración de la entereza y la solidez. Puede referirse a lealtades indivisas o a un estado intacto del ser. Sin integridad es absolutamente imposible poseer una conciencia limpia. La palabra griega de a que deriva el término conciencia es syneidesis, composición de las palabras syn, que significa “con”, y oida, que significa “saber”. Cada vez que el yo que proyectamos al mundo es diferente de la persona que realmente somos, esa crisis de integridad nos hace susceptibles a la esquizofrenia y a otras formas de deterioro mental, e incluso produce síntomas físicos. Feliz es la persona auténtica y genuina delante de Dios. 
 
 **Considera:** ¿En qué medida ser susceptibles a la crítica nos ayuda a validar nuestra integridad?
 
-**III. La obediencia y la integridad**
-*(Repasa, con tu clase, 1 Juan 5:2; Romanos 1:5, 10:16, 17; Lucas 16:10-12; 1 Crónicas 9:26, 27).*
+**III. La obediencia y la integridad** *(Repasa, con tu clase, 1 Juan 5:2; Romanos 1:5, 10:16, 17; Lucas 16:10-12; 1 Crónicas 9:26, 27).*
 
 La obediencia es, quizá, la prueba más pura de la confianza. J. H. Sammis seguramente entendió esa relación, cuando escribió la letra del clásico himno de Daniel Towner: “Al andar con Jesús” (Himnario adventista, edición 2009, Nº 488). La obediencia, o hacer lo que otro dice que hagamos, se basa en una relación de confianza con otra persona que es aceptada como autoridad. 
 
@@ -90,9 +95,7 @@ El hecho de ver un panorama más completo del carácter y la personalidad de Dio
 
 **Preguntas de aplicación:**
 1. ¿Qué prácticas podríamos adoptar, que nos ayuden a confiar más en Dios?
-
 2. ¿Qué cambios podríamos hacer, con el propósito de que Dios pueda confiar más en nosotros?
-
 3. ¿Qué planes podría promover la iglesia para fomentar nuestra confianza en Dios, y la confianza de Dios hacia nosotros?
 
 #### 4: ¡Crea!
@@ -100,5 +103,4 @@ El hecho de ver un panorama más completo del carácter y la personalidad de Dio
 **Sólo para los maestros:** Nos han dicho que no tenemos nada que temer a menos que olvidemos cómo Dios nos ha guiado y enseñado en el pasado. Como establecimos que la obediencia depende de la confianza y que la confianza depende de la relación, el componente final, la clase debiera repasar esa relación entre la confianza y la obediencia, centrándose en cómo Dios nos ha guiado personalmente. 
 
 **Actividad:**
-
 1. La clase compartirá testimonios personales sobre la conducción y la instrucción de Dios, resaltando cómo esto ha construido la confianza. Pide a los miembros que compartan cómo esto los alentó a ser obedientes. 

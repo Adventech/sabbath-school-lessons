@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+<script type="text/javascript">
+    var available_languages = [
+        {{ with $langs := $.Site.GetPage "section" "language" }}
+            {{ range $index, $element := $langs.Params.languages}}
+                {{$element.code}},
+            {{end}}
+        {{ end }}
+        ],
+        defaultLang = "en",
+        detectedLang = (navigator.language || navigator.userLanguage || defaultLang).split("-")[0],
+        cookieLang = Cookies.get("ss_lang"),
+        redirect = function(lang){
+            document.location = lang;
+            Cookies.set("ss_lang", lang);
+        };
+
+    if (cookieLang){
+        redirect(cookieLang);
+    } else if (available_languages.indexOf(detectedLang) >= 0){
+        redirect(detectedLang);
+    } else {
+        redirect(defaultLang);
+    }
+</script>

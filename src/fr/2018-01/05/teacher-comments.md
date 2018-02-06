@@ -18,16 +18,23 @@ date:   02/02/2018
 #### Plan de l’étude:
 
 **I. Savoir: Qu’est-ce qu’un économat?**
+
 A. Quel était le rôle d’un économe dans l’Ancien Testament, comparativement au Nouveau Testament?
+
 B. Qu’est ce qui était confié aux économes aux temps bibliques?
+
 C. Quelle est notre responsabilité en tant qu’économes?
 
 **II. Ressentir: L’appel universel**
+
 A. Comment pouvons-nous accomplir fidèlement notre vocation dans ce monde actuel?
+
 B. Comment pouvons-nous expérimenter la ferveur des intendants bibliques pour la mission?
 
 **III. Agir: Les modèles d’économat**
+
 A. Quels éléments du modèle biblique d’économat devons-nous intégrer dans le système de l’économat contemporain?
+
 B. Quels sont les domaines clés de la vie qui doivent être inclus dans les plans de notre économat personnel?
 
 #### Résumé: 
@@ -46,13 +53,26 @@ Les composants de base de l’économat biblique sont intégrés dans la vie des
 
 **Liste des mots qui définissent éventuellement le rôle d’un économe antique:**
 
-- Propriétaire / Entrepreneur / Président
-- Employé / Esclave / Président Directeur général
-- Gérant / Serviteur /  Opérateur d’usine
-- Superviseur Contremaitre Chef d’équipe
-- Gardien / Vice-président / Salarié
-- Ouvrier agricole / Titulaire / Professionnel
-- Comptable / Directeur financier
+- Propriétaire 
+- Employé 
+- Gérant 
+- Superviseur 
+- Gardien 
+- Ouvrier agricole 
+- Comptable 
+- Entrepreneur 
+- Esclave 
+- Serviteur 
+- Contremaitre 
+- Vice-président 
+- Titulaire 
+- Directeur financier
+- Président
+- Président Directeur général
+- Opérateur d’usine
+- Chef d’équipe
+- Salarié
+- Professionnel
 
 Ajoutez d’autres termes de leadeurship qui s’adaptent mieux à votre contexte économique et supprimez de la liste ci-dessus, ceux qui ne correspondent pas. Notez les meilleures idées qui découlent de la discussion en classe. Comparez-les avec les informations bibliques vues au cours de l’étude de la leçon. Si possible, écrivez vos idées dans un endroit où tous les membres de la classe peuvent les voir. 
 
@@ -93,15 +113,10 @@ Paul a embrassé sa responsabilité d’administration de l’Évangile et n’a
 **À méditer:**
 
 1. Comment les chrétiens modernes peuvent-ils éprouver la ferveur que Paul et les disciples de Christ ont eue pour administrer la vérité spirituelle de notre monde?
-
 2. Quelles sont les caractéristiques des intendants fidèles dans la société contemporaine?
-
 3. Quelles mesures pratiques devons-nous prendre pour garantir que les intérêts de Christ sont primordiaux et les nôtre ne sont que secondaires?
- 
 4. Quelle promesse de l’Esprit Saint doit nous encourager dans notre économat chrétien?
-
 5. Paul dit que nous ne nous appartenons pas parce que nous avons été rachetés à un grand prix. Comment le fait de méditer sur cette réalité peut motiver notre économat chrétien?
-
 6. Comment pouvons-nous étendre notre influence en tant qu’économes fidèles afin que d’autres imitent notre exemple?
 
 #### ÉTAPE 4—Créer
@@ -111,5 +126,4 @@ Paul a embrassé sa responsabilité d’administration de l’Évangile et n’a
 **Activités:**
 
 1. Préparez un plan sur le sujet d’aujourd’hui que vous pouvez partager avec un groupe de jeunes. Incluez des histoires de votre expérience personnelle de foi, en étant honnête au sujet des moments où vous avez placé votre intérêt au-dessus de ceux de votre Maitre. Incluez des histoires au sujet de comment Dieu vous a béni sur les plans matériel et spirituel lorsque vous avez placé les intérêts de Dieu à la première position. 
-
 2. Analysez les besoins de votre communauté, puis sélectionnez une zone où vous pouvez faire la différence, selon vos dons et talents uniques que Dieu vous a confiés.

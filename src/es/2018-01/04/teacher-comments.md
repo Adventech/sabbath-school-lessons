@@ -5,7 +5,7 @@ date:   26/01/2018
 
 ### El Sábado enseñaré...
 
-**TEXTO CLAVE:** PROVERBIOS 11:4, 18.
+**Texto Clave:** Proverbios 11:4, 18.
 
 #### Enseña a tu clase a:
 
@@ -18,21 +18,30 @@ date:   26/01/2018
 #### Bosquejo de la lección
 
 **I. Saber: Conocer a Jesús**
+
 A. ¿De qué manera el estudio de la Biblia reorganiza nuestras prioridades e inspira la renovación espiritual?
+
 B. ¿Cómo podemos orientar la oración para que trascienda de una mera lista de deseos humanos y se convierta en un instrumento de transformación espiritual?
+
 C. ¿Cuál es el papel de la sabiduría para superar la mundanalidad?
+
 D. ¿Cómo trabaja el Espíritu Santo con el Padre y el Hijo para reorientar y redirigir nuestra vida?
 
 **II. Sentir: Percibir la presencia de Jesús**
+
 A. ¿Cómo podemos cultivar un sentido más profundo de la presencia de Dios en nuestra vida?
+
 B. ¿Cómo podemos desarrollar una apreciación más intensa del papel del Espíritu Santo en nuestra renovación espiritual?
 
 **III.Hacer: Demostrar nuestra devoción**
+
 A. ¿Cómo respondemos a la invitación de experimentar la renovación espiritual?
+
 B. ¿Cómo evitan los cristianos los picos y los valles emocionales, para fomentar una experiencia de crecimiento constante? 
+
 C. ¿Qué medidas podemos tomar para tener una vida espiritual próspera?
 
-####Resumen: 
+#### Resumen: 
 
 Cultivar la vida espiritual es la única manera segura de escapar de la mundanalidad. El estudio de la Biblia, la oración, el servicio cristiano, la comunión cristiana y el acto de considerar las maravillas de la naturaleza, pueden contribuir a reformar nuestra cosmovisión y llamarnos a la plenitud espiritual. 
 
@@ -56,8 +65,7 @@ Este principio también se aplica a la vida espiritual. A menos que el cristiano
 
 Pablo, que en los primeros capítulos de Romanos se explayó sobre las formas en que Jesús satisface los justos requisitos de la Ley, ahora afirma con valentía que estas exigencias pueden cumplirse en nosotros. La diferencia entre la vida antes de ser cristianos y la nueva vida, es la dirección o la orientación de nuestro pensamiento; y los resultados difieren tanto como la vida de la muerte. ¿Qué prácticas nos ayudan a concentrarnos en las cosas de arriba?
 
-**I. Vocabulario celestial**
-*(Repasa, con tu clase, Salmo 119:11; Juan 5:39; 20:31; Lucas 24:27; 1 Tesalonicenses 2:13).*
+**I. Vocabulario celestial** *(Repasa, con tu clase, Salmo 119:11; Juan 5:39; 20:31; Lucas 24:27; 1 Tesalonicenses 2:13).*
 
 >“Oh, cantádmelas otra vez,
 >bellas palabras de vida.
@@ -74,8 +82,7 @@ El valor de la Biblia en el desarrollo espiritual es incalculable. La Escritura 
 
 **Considera:** ¿Cómo nos salvaguarda la Biblia contra el pecado?
 
-**II. Comunicación celestial**
-*(Repasa, con tu clase, Efesios 6:18; Marcos 11:24; Lucas 11:1-13).*
+**II. Comunicación celestial** *(Repasa, con tu clase, Efesios 6:18; Marcos 11:24; Lucas 11:1-13).*
 
 Se dice que el clérigo inglés Samuel Chadwick afirmó: “La única preocupación del diablo es evitar que los cristianos oren. No le teme a nada sin oración: al estudio sin oración, al trabajo sin oración, ni a la religión sin oración. Se burla de nuestro grandes esfuerzos, se burla de nuestra sabiduría, pero tiembla cuando oramos”. Pocas veces se ha planteado la importancia de la oración con más elocuencia. Jesús, el único ser humano perfecto de la historia, se adentraba en las colinas de Judea en busca de soledad para orar. Si el Hijo perfecto de Dios necesitaba de una constante comunión con Dios para sobrellevar las vicisitudes del día, ¿cómo puede ser que nosotros, mortales imperfectos y pecadores, consideremos que la oración sea tan irrelevante? Si, por cierto, la oración es abrir el corazón a Dios como a un amigo, ¿por qué descuidaríamos un privilegio tan grande, especialmente teniendo en cuenta quién es este Amigo? 
 
@@ -83,8 +90,7 @@ El hermano de Jesús, Santiago, declara: “La oración de fe salvará al enferm
 
 **Considera:** ¿Cómo triunfarían los ejércitos en la batalla sin una buena comunicación? ¿Cuán bien esperamos que nos vaya en nuestra batalla en contra de Satanás, sin una buena comunicación con nuestro Comandante?
 
-**III. Sabiduría de arriba**
-*(Repasa, con tu clase, 1 Reyes 3:9-14; Proverbios 8:11; 24:13, 14; 1 Corintios 3:19).*
+**III. Sabiduría de arriba** *(Repasa, con tu clase, 1 Reyes 3:9-14; Proverbios 8:11; 24:13, 14; 1 Corintios 3:19).*
 
 La sabiduría es más que información o mero conocimiento. Incorpora la capacidad de tomar decisiones y juicios razonables, basados en el conocimiento y la experiencia. Implica una riqueza de conocimientos acumulados a lo largo del tiempo, que han sido aplicados y probados en diferentes situaciones y en diferentes períodos. A menudo sugiere un contexto social, como cuando Salomón pidió sabiduría a Dios a fin de guiar a la nación de Israel en forma eficiente. ¿Quién podría estar en mejor posición para obtener sabiduría que el cristiano que tiene acceso directo al divino Anciano de Días, quien desde la eternidad tiene conocimiento y experiencia infinitos? 
 
@@ -97,17 +103,11 @@ La sabiduría es más que información o mero conocimiento. Incorpora la capacid
 **Preguntas de aplicación:**
 
 1. ¿Cómo puedo ser más constante en el estudio de la Biblia?
-
 2. ¿Cómo puedo pasar más tiempo en oración sin aburrirme ni hacer repeticiones innecesarias?
-
 3. ¿Cuáles son los pasos prácticos que puedo dar, que me ayuden a desarrollar la sabiduría?
-
 4. La interacción con creyentes que comparten mis creencias ¿cómo puede mejorar mis hábitos de estudio de la Biblia y mi vida de oración? 
-
 5. ¿En qué medida el estudio de la historia de la iglesia podría ayudarme a desarrollar más sabiduría?
-
 6. ¿Qué influencia podría tener en mi crecimiento espiritual pasar un largo período junto con Dios?
-
 7. ¿Cómo podría mejorar mi renovación espiritual el uso de los principios bíblicos a través del servicio?
 
 #### 4: ¡Crea!
@@ -117,9 +117,6 @@ La sabiduría es más que información o mero conocimiento. Incorpora la capacid
 **Actividades:**
 
 1. Pide a tus amigos que te tomen fotos orando, estudiando la Biblia o viviendo tu fe en el servicio cristiano. Escoge las mejores, y colócalas en el refrigerador o en la mesita de noche, en cualquier lugar donde las veas a menudo para animarte a continuar.
-
 2. Arma un rincón de culto en tu hogar, tu trabajo o en otro espacio personal, para el estudio personal de la Biblia y la oración. Dedica ese rincón solo para ese propósito. 
-
 3. Durante tu horario de estudio de la Biblia, comienza a escribir una lista de ideas para el servicio cristiano. Basa esta lista en la exploración de las Escrituras, no solo en las “necesidades” que ves en tu comunidad. 
-
 4. Inicia un diario de oración que incluya un espacio para resumir tus conversaciones con Dios y la fecha de cada anotación. Si haces pedidos, deja espacio para anotaciones posteriores en las que reconozcas que Dios ha respondido las oraciones. 
