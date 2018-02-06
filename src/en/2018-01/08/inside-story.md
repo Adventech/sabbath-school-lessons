@@ -5,7 +5,7 @@ date:   23/02/2018
 
 **Why I Live for Refugees**
 
-`By Terri Saelee`
+*By Terri Saelee*
 
 Several students neared decisions for baptism at the end of my third year of teaching English at a camp of 50,000 refugees in Thailand.
 
@@ -27,4 +27,4 @@ Her response was immediate. “Terri”, she said, “I will never tell you to c
 
 Tears streamed down my cheeks as I sat in post office. I praised God for a mother who loved so much. My mother wanted to see me, but she had already made the sacrifice in her heart. The salvation of souls was so important to her that she would give up seeing me again.
 
-`Terri Saelee is director of the North American Division’s Adventist Refugee and Immigrant Ministries, which got jumpstarted with a Thirteenth Sabbath Offering in 2011. Under her leadership, more than 140 new churches comprised of refugees have opened across North America.`
+*Terri Saelee is director of the North American Division’s Adventist Refugee and Immigrant Ministries, which got jumpstarted with a Thirteenth Sabbath Offering in 2011. Under her leadership, more than 140 new churches comprised of refugees have opened across North America.*
