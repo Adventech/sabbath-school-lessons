@@ -35,6 +35,7 @@ var LOCALE_VARS = {
   "daily_lesson_title": {
     "ar": "درس",
     "bg": "Дневен урок",
+    "cs": "Lekce",
     "da": "Lektie",
     "de": "Tägliche Lektion",
     "en": "Daily Lesson",
@@ -57,6 +58,7 @@ var LOCALE_VARS = {
   "empty_placeholder": {
     "ar": "### <center>ونحن نعمل على هذا الدرس.</center>\n<center>يرجى العودة لاحقا.</center>",
     "bg": "### <center>Работим по този урок.</center>\n<center>Моля, върнете се по-късно.</center>",
+    "cs": "### <center>Na této lekci pracujeme.</center>\n<center>Prosim zkuste to znovu pozdeji.</center>",
     "da": "### <center>Vi arbejder på denne lektion.</center>\n<center>Prøv igen senere.</center>",
     "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
     "en": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
@@ -79,6 +81,7 @@ var LOCALE_VARS = {
   "teacher_comments": {
     "ar": "Teacher comments",
     "bg": "Учител коментира.",
+     "cs": "Teacher comments",
     "da": "Aktiviteter og dialog",
     "de": "Lehrerteil",
     "en": "Teacher Comments",
@@ -101,6 +104,7 @@ var LOCALE_VARS = {
   "inside_story": {
     "ar": "Inside story",
     "bg": "Разказ",
+    "cs": "Inside story",
     "da": "Missionsberetning",
     "de": "Mit Gott erlebt",
     "en": "Inside Story",
