@@ -25,7 +25,6 @@ Jaikaran eagerly checked himself in for treatment. He was 46.
 
 Progress was slow, but he claimed biblical promises daily. His three favorites were: “You will keep him in perfect peace whose mind is stayed on You, because he trusts in You” (Isaiah 26:3); “I will not leave you are forsake you” (Joshua 1:5); and “But seek first the kingdom of God and all His righteousness, and all these things shall be added to you” (Matthew 6:33).
 
-
 He also prayed for the Lord to bind together his family and bind the family closer to the Lord.
 
 At the end of the rehab program, Jaikaran’s estranged wife came to pick him up and drive him to his mother’s house. But when his wife saw he was a new man, she unexpectedly took him home. Both ended up getting baptized.
