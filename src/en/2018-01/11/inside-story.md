@@ -35,4 +35,4 @@ Eventually, tensions eased at home. Wilfred received a state scholarship to furt
 
 “I know that I am the apple of God’s eye”, she said. “He will see me through anything.”
 
-`A portion of the Thirteenth Sabbath Offering in first quarter 2018 will go toward a new church for the University of the South Caribbean, which has never owned a church building and worships in an auditorium.`
+*A portion of the Thirteenth Sabbath Offering in first quarter 2018 will go toward a new church for the University of the South Caribbean, which has never owned a church building and worships in an auditorium.*
