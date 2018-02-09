@@ -55,4 +55,10 @@ languages:
   - native: 中文
     en: Chinese
     code: zh
+  - native: عربى
+    en: Arabic
+    code: ar
+  - native: Český
+    en: Czech
+    code: cs
 ---

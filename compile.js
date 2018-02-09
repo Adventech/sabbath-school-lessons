@@ -42,6 +42,10 @@ var BIBLE_PARSER_CONFIG = {
         "bg1940"
     ],
 
+    "cs": [
+        "kralicka-1613"
+    ],
+
     "da": [
         "bph",
         "dn1933"

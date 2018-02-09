@@ -18,6 +18,10 @@ var BIBLE_PARSER_CONFIG = {
         "bg1940"
     ],
 
+    "cs": [
+        "kralicka-1613"
+    ],
+
     "da": [
         "bph",
         "dn1933"
@@ -112,7 +116,6 @@ var walkSync = function(dir, filelist) {
         if (fs.statSync(dir + file).isDirectory()) {
 
             if ((dir+file).match(/src\/([a-z]{2})$/)){
-                console.log(dir+file);
                 var quarterlies = fs.readdirSync(dir+file),
                     quarterliesOutput = {
                         quarterlies: [],
@@ -189,7 +192,6 @@ var walkSync = function(dir, filelist) {
             }
 
             if (extension === SOURCE_EXTENSION){
-                console.log("Processing", dir+file);
 
                 var read = metaMarked(fs.readFileSync(dir + file, "utf-8")),
                     dest = dir.replace(SOURCE, DEST),
