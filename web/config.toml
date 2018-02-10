@@ -136,3 +136,10 @@ title = "Sabbath School"
 	all = "Бачити все"
 	archive = "Архів уроку"
 	lang = "🇺🇦 Українська"
+
+[params.cs]
+	title = "Sobotní škola"
+	back = "Zadní"
+	all = "Všechny lekce"
+	archive = "Archiv hodin"
+	lang = "🇨🇿 Česky"
