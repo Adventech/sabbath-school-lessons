@@ -1,4 +1,4 @@
-﻿---
+---
 title:  Histoire
 date:   30/03/2018
 ---
