@@ -50,6 +50,10 @@ var BIBLE_PARSER_CONFIG = {
         "lsg"
     ],
 
+    "he": [
+        "em-1865"
+    ],
+
     "ja": [
         "kougo-yaku",
         "jlb"

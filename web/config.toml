@@ -143,3 +143,10 @@ title = "Sabbath School"
 	all = "Všechny lekce"
 	archive = "Archiv hodin"
 	lang = "🇨🇿 Česky"
+
+[params.he]
+	title = "ספר שבת"
+	back = "תחזור"
+	all = "כל השיעורים"
+	archive = "ארכיון השיעור"
+	lang = "🇮🇱 עִברִית"
