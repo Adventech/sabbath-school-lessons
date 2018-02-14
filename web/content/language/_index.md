@@ -61,7 +61,7 @@ languages:
   - native: Český
     en: Czech
     code: cs
-  - native: Hebrew
+  - native: עִברִית
     en: Hebrew
     code: he
 ---
