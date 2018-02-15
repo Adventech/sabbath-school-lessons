@@ -100,6 +100,10 @@ var BIBLE_PARSER_CONFIG = {
         "alkitab"
     ],
 
+    "ne": [
+        "erv"
+    ],
+
     "no": [
         "nb-bibelen-1930"
     ],

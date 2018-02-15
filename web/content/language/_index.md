@@ -64,4 +64,7 @@ languages:
   - native: עִברִית
     en: Hebrew
     code: he
+  - native: नेपाली
+    en: Nepali
+    code: ne
 ---
