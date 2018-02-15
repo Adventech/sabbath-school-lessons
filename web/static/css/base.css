@@ -1,16 +1,32 @@
-* {
-    font-family: 'PT Serif', serif !important;
+body {
+    font-size:18px; font-family: 'Lato', sans-serif !important;
     color: #333;
 }
 
 .sabbath-school-reader {
-    border-radius: 4px;
+    border-radius: 5px;
     border: 1px solid #E5E5E5;
 }
 
+.no-border-btn {
+    color: black;
+}
+
 img.ss-cover {
-    border-radius: 10px;
-    width: 130px;
+    border-radius: 5px;
+    width: 160px;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.3);
+}
+
+.ss-header-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.ss-header-date {
+    color: rgba(255, 255, 255, 0.6);
+    text-transform: uppercase;
 }
 
 .ss-menu-lesson-title {
@@ -47,6 +63,8 @@ img.ss-cover {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 5px 5px 0 0;
+    position: relative;
 }
 
 .ss-divider {
@@ -95,11 +113,16 @@ img.ss-cover {
 }
 
 .ss-quarterlies-quarterly {
-    border-radius:5px; border:1px solid #EAEAEA
+    border-radius:5px;
+
 }
 
 .ss-quarterlies-quarterly-cover {
-    border-radius:5px;background-position: center center; height:340px; background-size: cover;
+    border-radius:5px;
+    background-position: center center; 
+    height:340px; 
+    background-size: cover;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.3);
 }
 
 .ss-quarterlies-quarterly-title {
@@ -122,6 +145,35 @@ img.ss-cover {
     border-bottom: 1px solid #E5E5E5;
 }
 
-.navbar p {
+.navbar .brand {
+    margin-top: 10px
+}
+
+.navbar a {
     font-family: 'Lato', sans-serif !important;
+    font-weight: 700;
+}
+
+.navbar a:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+.navbar .logo {
+    width: 36px;
+    height: 36px;
+    background: url(/img/logo.svg);
+    display: inline-block;
+    vertical-align: middle;
+    margin: -4px 10px 0 0;
+    opacity: .8
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
+    font-weight: 700  !important;
+    font-family: 'PT Serif', serif !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
 }
