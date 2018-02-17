@@ -21,9 +21,9 @@ Peters rationalized that people were thinking about mission service after the U.
 
 The next day, her father called her and said, “Maybe you should go where God leads you.” He said was pleased with the recent changes in her life.
 
-Peters prayed angrily that night. She didn’t want to risk her job for the mission trip to Guyana. She asked for a third sign: that God provide the U.S. $450 needed for the trip.
+Peters prayed angrily that night. She didn’t want to risk her job for the mission trip to Guyana. She asked for a third sign: that God provide the U.S. 450 needed for the trip.
 
-The next day, the last day of the conference, a stranger handed Peters a white envelope and walked off. “When I looked inside, it was a check for $450, the exact amount I needed for the trip”, she said.
+The next day, the last day of the conference, a stranger handed Peters a white envelope and walked off. “When I looked inside, it was a check for 450, the exact amount I needed for the trip”, she said.
 
 Peters ended up staying in Guyana for 1 ½ years, teaching at a mission school. Since then, Peters has been going on short- and long-term mission trips nonstop, pausing only to raise funds for the next trip. In 2014, Adventist Church president Ted N.C. Wilson presented her with an award for her work with the church’s One Year in Mission program.
 
