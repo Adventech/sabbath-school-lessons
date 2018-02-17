@@ -80,9 +80,9 @@ title = "Sabbath School"
 	title = "安息日学校"
 	back = "戻る"
 	all = "すべてを見る"
-	todaysLesson = "今日のレッスン"
+	todaysLesson = "今日の課"
 	current = "現在"
-	archive = "レッスンアーカイブ"
+	archive = "課のアーカイブ"
 	lang = "🇯🇵 日本語"
 
 [params.ko]
