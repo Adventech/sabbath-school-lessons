@@ -2,73 +2,51 @@
 
 {{ partial "top_menu.html" . }}
 
-<script type="text/javascript">
-    var dow_mapping = {
-        "1": "3",
-        "2": "4",
-        "3": "5",
-        "4": "6",
-        "5": "7",
-        "6": "1",
-        "7": "2"
-    };
-    var checkField = function(field){
-        var url = window.location.href;
-        if(url.indexOf(field) != -1)
-            return true;
-        return false
-    };
-
-{{ range $qIndex, $q := (first 1 .Params.quarterlies) }}
-    {{ $p := $.Site.GetPage "section" (print $q.path) }}
-
-    var lessons = [
-    {{ range $lIndex, $l := $p.Params.lessons }}
-    {
-        "start_date": '{{ $l.start_date}}',
-        "end_date": '{{ $l.end_date}}',
-        "path": '{{$l.path}}'
-    },
-    {{ end }}
-{{ end }}
-
-    ];
-
-    if (!checkField("archive")){
-        for(var i = 0; i < lessons.length; i++){
-
-            var start_date = moment(lessons[i].start_date, "YYYY-MM-DD"),
-                end_date = moment(lessons[i].end_date, "YYYY-MM-DD");
-
-            if (moment().isBetween(start_date, end_date, "day", "[]")){
-                document.location = "{{.Site.BaseURL}}" + lessons[i].path + "/0" + dow_mapping[moment().format("E")];
-            }
-        }
-    }
-</script>
-
 <main role="main">
     <div>
-        <div class="container">
-            <div class="py-5">
-                <a href="javascript:history.back()">← {{ $.Param (print (substr $.Dir 0 2) ".back") }}</a>
+        <div class="container container pt-3">
+            <div class="py-2">
+                <h2>{{ $.Param (print (substr $.Dir 0 2) ".current") }}</h2>
             </div>
             <div class="row">
                 {{ range $index, $element := .Params.quarterlies }}
+                {{ $t := (time $element.end_date) }}
+                {{ if $t.After now }}
                 <div class="col-lg-4 col-md-5 col-sm-6 mb-md-5 col-xl-3">
                     <div class="m-auto ss-quarterlies-wrapper">
-                        <div class="p-4 ss-quarterlies-quarterly">
+                        <div class="p-3 ss-quarterlies-quarterly">
                             <a href="/{{$element.path}}">
-                                <div class="ss-quarterlies-quarterly-cover" style="background-image:url('{{$element.cover}}')"></div>
+                                <div class="ss-quarterlies-quarterly-cover" style="background-image: url('{{$element.cover}}'); margin-bottom: 15px"></div>
                             </a>
-                        </div>
-                        <div class="p-4">
-                            <a href="/{{$element.path}}" class="m-0 p-0 ss-quarterlies-quarterly-title" style="">{{ $element.title }}</a>
-                            <p class="p-0 mt-2 ss-quarterlies-quarterly-date">{{ $element.human_date }}</p>
+                            <a href="/{{$element.path}}" class="h5 m-0 p-0 ss-quarterlies-quarterly-title" style="">{{ $element.title }}</a>
+                            <p class="p-0 mt-2 ss-quarterlies-quarterly-date text-uppercase">{{ $element.human_date }}</p>
+                            <a href="/{{$element.path}}?today" class="btn btn-outline-secondary btn-lg" role="button" aria-pressed="true">{{ $.Param (print (substr $.Dir 0 2) ".todaysLesson") }}</a>
                         </div>
                     </div>
                 </div>
-
+                {{ end }}
+                {{ end }}
+            </div>
+            <div class="py-2">
+                <h2>{{ $.Param (print (substr $.Dir 0 2) ".archive") }}</h2>
+            </div>
+            <div class="row">
+                {{ range $index, $element := .Params.quarterlies }}
+                {{ $t := (time $element.end_date) }}
+                {{ if $t.After now }}
+                {{ else }}
+                <div class="col-lg-4 col-md-5 col-sm-6 mb-md-5 col-xl-3">
+                    <div class="m-auto ss-quarterlies-wrapper">
+                        <div class="p-3 ss-quarterlies-quarterly">
+                            <a href="/{{$element.path}}">
+                                <div class="ss-quarterlies-quarterly-cover" style="background-image: url('{{$element.cover}}'); margin-bottom: 15px"></div>
+                            </a>
+                            <a href="/{{$element.path}}" class="h5 m-0 p-0 ss-quarterlies-quarterly-title" style="">{{ $element.title }}</a>
+                            <p class="p-0 mt-2 ss-quarterlies-quarterly-date text-uppercase">{{ $element.human_date }}</p>
+                        </div>
+                    </div>
+                </div>
+                {{ end }}
                 {{ end }}
             </div>
         </div>

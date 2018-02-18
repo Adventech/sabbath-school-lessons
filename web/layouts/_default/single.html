@@ -3,37 +3,63 @@
 {{ partial "top_menu.html" . }}
 
 {{ $url := .URL }}
+{{ $primaryColor := .Parent.Params.color_primary }}
+
 <script type="text/javascript">
-
-var bible = {
-
-{{ range $index, $element := $.Params.bible }}
-
-    "{{$element.name}}": {
-        "name": "{{$element.name}}",
-        "verses": {
-            {{ range $versesIndex, $versesElement := $element.verses }}
-                {{$versesIndex}}: {{($versesElement | safeHTML)}},
-            {{ end }}
-        }
-    },
-{{ end }}
-
-};
+    var bible = {
+    {{ range $index, $element := $.Params.bible }}
+        "{{$element.name}}": {
+            "name": "{{$element.name}}",
+            "verses": {
+                {{ range $versesIndex, $versesElement := $element.verses }}
+                    {{$versesIndex}}: {{($versesElement | safeHTML)}},
+                {{ end }}
+            }
+        },
+    {{ end }}
+    };
 
 var defaultBibleVersion = Object.keys(bible)[0];
 </script>
 
+
+<style type="text/css">
+    .tintColorLnk {
+        color: {{ $primaryColor }};
+        font-weight: bold;
+        font-size: 1rem
+    }
+    .tintColorLnk:hover {
+        color: {{ $primaryColor }};
+    }
+</style>
+
 <main role="main">
     <div>
-        <div class="container">
+        <div class="container pt-4">
             <div class="row">
                 <div class="col-lg-10 col-md-9">
                     <div class="sabbath-school-reader ss-wrapper-light p-0 mb-5">
-                        <div class="ss-menu-day-cover" style="background-image:url('{{.Params.Cover}}')"></div>
-                        <div class="p-lg-5 p-md-3">
-                            <div class="px-lg-5 px-md-3">
-                                <p class="h2 font-weight-bold p-4 p-sm-4">{{ .Title }}</p>
+                        <div class="ss-menu-day-cover" style="background-image:url('{{.Params.Cover}}')">
+                            <div class="ss-header-content">
+                                {{ range $index, $element := (readDir (print "./content/" $.Dir))}}
+                                {{ with $.Site.GetPage "page" (print $.Dir .Name) }}
+                                {{ if eq $url .URL }}
+                                <time class="pl-4 ss-header-date ss-menu-day-header" datetime="{{ .Date }}">{{ dateFormat "02/01/2006" .Date }}</time>
+                                <script type="text/javascript">
+                                    $(function(){
+                                        moment.locale('{{substr $.Dir 0 2}}');
+                                        $(".ss-menu-day-header").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, MMMM DD'));
+                                    });
+                                </script>
+                                {{ end }}
+                                {{ end }}
+                                {{ end }}
+                                <h1 class="pl-4 pb-4" style="color: white">{{ .Title }}</h1>    
+                            </div>
+                        </div>
+                        <div class="p-3">
+                            <div class="py-2">
                                 <div class="ss-wrapper">
                                     <div class="ss-wrapper-font ss-wrapper-pt-serif">
                                         <div class="ss-wrapper-size ss-wrapper-medium">
@@ -49,15 +75,14 @@ var defaultBibleVersion = Object.keys(bible)[0];
                 </div>
 
                 <div class="col-lg-2 col-md-3 pl-3 order-md-first">
-                    <div class="sticky">
-                        <p class="mt-3 text-secondary"><span class="font-weight-bold text-secondary">{{ .Parent.Title }}</span></p>
-                        <img class="img-fluid ss-cover" src="{{ .Parent.Params.cover }}" />
-
-                        <p class="mt-3 text-secondary">{{ .Params.Lesson.Title }}</p>
-
-                        <a class="text-secondary" href="{{ $.Parent.URL }}" style="font-size: 13px;">{{ $.Param (print (substr $.Dir 0 2) ".all") }} →</a>
-
-                        <div class="ss-menu mt-5">
+                    <div class="sticky pb-4">
+                        <div class="mb-4">
+                            <a class="text-secondary" href="{{ $.Parent.URL }}">
+                                <img class="img-fluid ss-cover" src="{{ .Parent.Params.cover }}" />
+                                <p class="mt-2 text-secondary"><span class="font-weight-bold text-secondary">{{ .Parent.Title }}</span></p>
+                            </a>
+                        </div>
+                        <div class="ss-menu">
                             {{ range $index, $element := (readDir (print "./content/" $.Dir))}}
                             {{ with $.Site.GetPage "page" (print $.Dir .Name) }}
                             <div class="pt-0 pb-3 text-secondary ss-menu-day">
@@ -77,12 +102,12 @@ var defaultBibleVersion = Object.keys(bible)[0];
                                 <script type="text/javascript">
                                     $(function(){
                                         moment.locale('{{substr $.Dir 0 2}}');
-                                        $(".ss-menu-day-{{$index}}").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, DD MMM'));
+                                        $(".ss-menu-day-{{$index}}").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, MMMM DD'));
                                     })
                                 </script>
                                 {{ end }}
 
-                                <a href="{{ .URL }}">{{ .Title }}</a>
+                                <a href="{{ .URL }}" class="tintColorLnk">{{ .Title }}</a>
                             </div>
                             {{ end }}
                             {{ end }}
