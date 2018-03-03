@@ -37,7 +37,7 @@ Die alte Praxis, einen ehrlichen Zehnten zu geben, reicht bis in die Zeit der Pa
 
 Gott gegenüber durch das Zehntengeben ehrlich zu sein zeigt Vertrauen in ihn und bietet den Gläubigen unbegrenzte Möglichkeiten, die Beziehung zu Gott zu fördern. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Nutze die folgende Geschichte aus der Bibel, um zu zeigen, wie Gott seine Kinder segnet, wenn sie ihm treu den Zehnten zurückgeben – selbst unter äußerst schwierigen Umstän-den. 
 
@@ -49,7 +49,7 @@ Da betrat der Prophet Elia die Szene. Er bat die Witwe um einen Gefallen, einen 
 
 Bitte ein oder zwei Gesprächsteilnehmer, eine moderne glaubensstärkende Geschichte über Menschen zu erzählen, die dachten, sie könnten keinen ehrlichen Zehnten geben, aber aus Glauben handelnd ihn trotzdem gaben und von Gott für ihre Treue belohnt wur-den. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Gottes Treue steht schon immer außer Zweifel, aber sie wird stets angezweifelt. Ist das ein Widerspruch? 
 
@@ -81,7 +81,7 @@ Wie bereits gesagt ist Beziehung keine Einbahnstraße. Können wir Gott vertraue
 
 Was lehrt uns der Glaube, der sich im Zehntengeben ausdrückt, über den Glauben, der an der Erlösung beteiligt ist? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Wie viel Kreuz steckt in deiner Brieftasche? Christen behaupten, dass Erlösung allein durch den Glauben geschieht. Gläubige sagen, dass unsere Bemühungen kein Stückchen zur Erlösung beitragen oder sie besser machen können. Wir müssen allein Gott vertrau-en. Das ist die Botschaft des Kreuzes. Doch wenn es an die Finanzen geht, scheint sich die Botschaft zu verändern. Sie wird zu: „Gott kümmert sich um diejenigen, die sich um sich selbst kümmern.“ Viele handeln so, als würde ihr Glaubensbekenntnis lauten, Gott in gewissen Dingen zu vertrauen, ihrer Brieftasche jedoch weit mehr zu vertrauen. 
 
@@ -93,7 +93,7 @@ Wie viel Kreuz steckt in deiner Brieftasche? Christen behaupten, dass Erlösung 
 4. Wie könnte ein ehrliches Zehntengeben Nichtgläubige beeinflussen, sich mit Jesus zu beschäftigen? 
 5. In welcher Beziehung steht das Zehntengeben zu Christi Aufruf „Trachtet zuerst nach dem Reich Gottes“ (Mt 6,33)? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Zehntengeben ist eine geistliche Entscheidung, die Ehrlichkeit und Glauben beinhaltet. Hebräer 11 sagt uns, dass es ohne Glauben unmöglich ist, Gott zu gefallen. Man könnte auch kaum sagen, dass es möglich wäre, Gott ohne Ehrlichkeit zu gefallen. Ermutige die Gesprächsteilnehmer, beides zu erleben. 
 

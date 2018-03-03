@@ -37,7 +37,7 @@ Ein geistliches Leben zu pflegen ist der einzig sichere Weg, um der Weltlichkeit
 
 Geistliches Leben gedeiht nur, wenn Gläubige bewusst die Praktiken kultivieren, die geistliche Nähe zu ihrem Schöpfer-Erlöser schaffen. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Gärtner und Landwirte wissen, wie wichtig es ist, beständig in Kontakt mit dem Boden zu bleiben. Ziehe eine Pflanze aus der Erde und sie wird sterben. Die Wurzeln – das Fun-dament der Pflanze – können ohne die Nährstoffe, die sie durch ständigen Kontakt mit der Erde bekommen, kein Leben erhalten und keine Samen produzieren. Die physikalische Nähe der Wurzeln zum Boden ist entscheidend, damit die Pflanze leben kann. Licht und Feuchtigkeit spielen genauso eine Rolle, aber solange die Wurzeln nicht sicher in ihrer nährstoffreichen Erde verankert sind, nutzen die anderen positiven Faktoren wenig. 
 
@@ -47,7 +47,7 @@ Dieses Prinzip trifft auch auf das geistliche Leben zu. Wenn ein Christ nicht na
 
 Entwurzle eine Woche vor dieser Studienbetrachtung eine Pflanze (eine Grasart oder Un-kraut eignen sich dafür prima) und lasse sie sterben und in der Sonne trocknen. Bringe die tote Pflanze und eine kleine Topfpflanze in den Gesprächskreis mit. Wenn sich deine Gruppe im Freien trifft, wo Pflanzen wachsen, brauchst du die lebendige, eingetopfte Pflanze nicht mitbringen, sondern kannst zum Zweck der Verdeutlichung auf die Pflanzen um euch herum verweisen. Frage die Gesprächsteilnehmer, was die tote Pflanze mit einer lebendigen gemeinsam hat. Die Antworten können sich auf die Form, die Größe und möglicherweise die Farbe der Pflanze beziehen. Bitte die Teilnehmer, die grundlegenden Unterschiede zwischen den beiden Pflanzen zu benennen. Frage, woran es gelegen haben könnte, dass die Pflanze starb. Stellt Vergleiche mit dem geistlichen Leben an, nachdem du den Anwesenden mitgeteilt hast, dass das Entwurzeln die Pflanze sterben ließ. Was wird mit unserem geistlichen Leben geschehen, wenn wir nicht anhaltend Gottes Gnade durch die Mittel empfangen, die er uns zur Verfügung stellt? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Eine der bemerkenswertesten Aussagen der Bibel findet sich in Römer 8,4–6: „Damit die Gerechtigkeit, die das Gesetz fordert, in uns erfüllt werde, die wir nun nicht nach dem Fleisch wandeln, sondern nach dem Geist. Denn die da fleischlich sind, die sind fleischlich gesinnt; die aber geistlich sind, die sind geistlich gesinnt. Denn fleischlich gesinnt sein ist der Tod, doch geistlich gesinnt sein ist Leben und Friede.“ (Hervorhebung zugefügt) Nachdem Paulus in den ersten Kapiteln des Römerbriefs aufgezeigt hatte, auf welche Weise Jesus die gerechten Anforderungen des Gesetzes erfüllt hatte, machte er nun wagemutig geltend, dass diese Anforderungen jetzt in uns erfüllt werden sollen. Der Unterschied zwischen dem Leben vor der Bekehrung und dem neuen Leben liegt in der Richtung und dem Fokus unseres Denkens; und die Resultate unterscheiden sich so sehr wie Leben und Tod. Welche Gewohnheiten helfen uns, uns auf die himmlischen Dinge zu konzentrieren? 
 
@@ -79,7 +79,7 @@ Weisheit ist mehr als Information oder reines Wissen. Sie beinhaltet die Fähigk
 
 Wie kann der Heilige Geist uns führen, göttliche Weisheit anzuwenden? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Die Studienbetrachtung dieser Woche ist sehr wichtig für unsere Entwicklung als Gläubige, aber wenn nichts weiter als eine interessante Diskussion stattfindet, haben wir völlig versagt. Wenn wir in unserem geistlichen Wachstum Erfolg haben wollen, müssen die Gesprächsteilnehmer praktische Möglichkeiten finden, wie sie Gebet und Bibelstudium in ihr Leben integrieren können. 
 
@@ -93,7 +93,7 @@ Die Studienbetrachtung dieser Woche ist sehr wichtig für unsere Entwicklung als
 6. Welchen Einfluss könnte eine längere Zeitspanne, die ich mit Gott verbringe, auf mein geistliches Wachstum haben? 
 7. Wie könnte das Beschäftigen mit biblischen Prinzipien im Gottesdienst meine geistliche Erneuerung voranbringen? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Ermutige zu Aktionen, die Gebet und Bibelstudium in den Alltag der Anwesenden einbinden. 
 

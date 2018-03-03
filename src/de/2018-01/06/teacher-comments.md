@@ -37,7 +37,7 @@ So wie eine Zielscheibe einem Bogenschützen ein Ziel vorgibt, gibt unsere Studi
 
 Gottes vorgegebene Voraussetzung für uns ist es, treu zu sein. Ohne Treue kann kein Mensch dauerhaften Frieden erreichen und geistliche Verwirklichung genießen. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Jede sportliche Betätigung beinhaltet gewisse Übungen, die beherrscht werden müssen,um Erfolg zu haben. Diese Übungen werden mit wachsender Fertigkeit wiederholt, bis sie schließlich meisterlich beherrscht werden. Manche Fähigkeiten fallen leichter als ande-re, und nur mit großer Anstrengung meistern wir diejenigen, die uns nicht so sehr liegen; doch durch anhaltende Bemühungen werden selbst diese angelernten Verhaltensweisen fast instinktiv werden. 
 
@@ -49,7 +49,7 @@ Wähle einen Beruf, der den Gesprächsteilnehmern gut bekannt ist. Bitte die Anw
 
 Übertrage dies nun auf das Geistliche: Bitte die Gesprächsteilnehmer, eine Liste der Eigenschaften zusammenzutragen, die für einen christlichen Haushalter entscheidend sind, ohne euch von der Aufzählung in dieser Studienbetrachtung beschränken zu las-sen. Warum sind diese Eigenschaften notwendig und wie tragen sie dazu bei, dass ein Haushalter seine Aufgaben bewältigt? Wie wird die Funktion des Haushalters beeinträchtigt, wenn diese Eigenschaften fehlen? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Die Studienbetrachtung dieser Woche isoliert einige der Schlüsselmerkmale eines christ-lichen Haushalters. Weitere Eigenschaften können zweifellos angeführt werden, aber unsere Liste gibt uns die Möglichkeit, sich in viele der Grundanforderungen für erfolgreiche Haushalterschaft zu vertiefen. Der Übersicht halber verwendet der folgende Kommentar diese Gruppierungen: a. Treue und Loyalität, b. Integrität (ein reines Gewissen) und c. Gehorsam und Vertrauenswürdigkeit. 
 
@@ -85,7 +85,7 @@ Wenn wir ein umfassenderes Bild von Gottes Charakter und Persönlichkeit bekomme
 
 Wie hängen Vertrauen und Vertrauenswürdigkeit zusammen? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Das unverzichtbare Kennzeichen eines Haushalters ist eine Beziehung zum Eigentümer. Diese mag nicht perfekt sein, aber sie muss zu einem gewissen Grad vorhanden sein. Wenn wir die in dieser Studienbetrachtung erwähnten Kennzeichen in unser Leben integrieren, können wir den größten Frieden und die vollkommenste Zufriedenheit erleben, die dieses Leben zu bieten hat. 
 
@@ -95,7 +95,7 @@ Das unverzichtbare Kennzeichen eines Haushalters ist eine Beziehung zum Eigentü
 2. Welche Veränderungen können wir vornehmen, sodass Gott uns mehr vertrauen kann? 
 3. Welche Pläne könnte die Gemeinde entwickeln, um beide oben genannten Punkte zu fördern und dazu zu ermutigen? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Uns wurde gesagt, dass wir nichts zu fürchten hätten, außer wir vergäßen, wie Gott uns in der Vergangenheit geführt und was er uns gelehrt hat. Weil wir herausgefunden haben, dass Gehorsam von Vertrauen abhängt und Vertrauen von Beziehung, sollte die letzte Komponente des Bibelgesprächs sich mit der Beziehung zwischen Vertrauen und Gehorsam befassen und sich darauf konzentrieren, wie Gott uns persönlich geführt hat. 
 

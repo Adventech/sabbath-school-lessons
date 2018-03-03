@@ -37,7 +37,7 @@ Gott segnet auf materielle Weise, damit wir uns daran erfreuen und unseren Chara
 
 Wenn wir uns der Welt durch Egoismus und Materialismus anpassen, wirkt sich dies stö-rend auf Gottes Absicht aus, uns durch die Erneuerung unseres Sinns zu verändern. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Diese Studienbetrachtung führt in unser Studium über Haushalterschaft ein. Sie beschäftigt sich mit dem größten Stolperstein treuen Dienstes für einen Christen: Materialismus. Materialismus definiert sich im Sinn unseres Studiums als die Hauptbeschäftigung mit dem Materiellen oder dessen Betonung statt mit intellektuellen oder geistlichen Dingen. Bei Materialismus geht es nicht hauptsächlich darum, wie viel jemand hat; es geht um die Einstellung des Betreffenden zu dem, was er hat. 
 
@@ -47,7 +47,7 @@ Hiob war ein äußerst reicher Mann mit großem Besitz. Aber er brachte Gott fre
 
 Bitte die Anwesenden, sich vorzustellen, sie wären wieder fünf Jahre alt. Sie sollen sich nun auf ein, höchstens zwei Dinge oder Spielsachen konzentrieren, die sie damals be-saßen. Frage nach, ob sie diese Dinge immer noch haben. Findet nun heraus, wie vie-len der Anwesenden es in der vergangenen Nacht den Schlaf geraubt hat, dass sie diese Gegenstände nicht mehr besitzen. Frage nach, warum diese Schätze der Kindheit nicht mehr so wichtig sind wie damals. Vielleicht, weil neuere Gedanken und Wünsche ihr Interesse an den Kindheitsschätzen abgelöst haben? Oder weil sie reifer geworden sind und ihre Aufmerksamkeit nun wichtigeren Dingen gilt? Paulus schrieb, dass eine Erneue-rung unserer Sinne von Gott die Angepasstheit an diese Welt überwindet. Eine solche geistliche Reife lässt materielle Besitztümer kindisch und unwichtig erscheinen. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Haushalterschaft und Materialismus betreffen nicht nur emotionale und geistliche Aspekte des Charakters, sie haben auch eine geistige Dimension. Salomo stellte fest: „Denn in seinem Herzen ist er berechnend; er spricht zu dir: Iss und trink!, und sein Herz ist doch nicht mit dir.“ (Spr 23,7) Die geistliche Veränderung, die Gott beabsichtigt, geschieht durch Denken, durch unsere Denkprozesse. Diese Neuausrichtung des Verstands ermöglicht es uns, unsere Aufmerksamkeit auf himmlische statt auf irdische Dinge zu richten. Während wir also die materiellen Güter unserer Welt schätzen, sind wir gleichzeitig frei, dem Geistlichen – dem Gott des Himmels – zu dienen, der uns alle Güter gibt. 
 
@@ -79,7 +79,7 @@ Laut Johannes hält diese Welt eine dreifache Versuchung bereit. Die erste ist �
 
 Wie definierte Johannes „die Welt“ in 1. Johannes 2,15–17? Was meint er mit seiner An-weisung an die Gläubigen, die Welt zu hassen? Definiert, was Johannes mit „der Augen Lust“, „des Fleisches Lust“ und „hoffärtiges Leben“ meinte. Warum werden wir angewie-sen, sie zu vermeiden? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Es ist relativ einfach, über das Übel des Materialismus zu sprechen, jedoch eine viel größere Herausforderung, seinen alles durchdringenden Einfluss auf unser Leben auszumerzen. Uns umgibt eine überkommerzialisierte Gesellschaft mit ihren Versuchungen. Sprecht über konkrete Möglichkeiten, wie Christen auf den Himmel fokussiert bleiben können, während sie die materiellen Segnungen, die Gott ihnen anvertraut hat, nutzen. 
 
@@ -91,7 +91,7 @@ Es ist relativ einfach, über das Übel des Materialismus zu sprechen, jedoch ei
 4. Auf welche Weise könnte das Zusammensein mit anderen Gläubigen dem Einzelnen helfen, ein praktikables Gleichgewicht bei der Verwendung materieller Segnungen zu entwickeln, ohne dem Materialismus zu erliegen? 
 5. Welche Rolle spielen Gebet und Bibelstudium dabei, einen Christen vor Extremen zu schützen? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Unser Umgang mit Geld spricht Bände über unsere wirklichen Werte und Vorlieben. Die Leute können über geistliche Werte sprechen, aber wenn man sich ihren Kreditkartenauszug ansieht, wird die Wahrheit offensichtlich. Empfehle den Gesprächsteilnehmern, die folgenden Aktionen als „Augenöffner“. 
 
