@@ -28,4 +28,4 @@ date:   23/03/2018
 
 _충청합회 괴산교회 차민지_
 
-![](url)
+![](https://raw.githubusercontent.com/imasaru/sabbath-school-lessons/c18fa231f8c9b393274418a456d0580fa04bca51/src/ko/2018-01/12/inside-story.jpg)
