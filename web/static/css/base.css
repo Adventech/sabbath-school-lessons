@@ -1,0 +1,179 @@
+body {
+    font-size:18px; font-family: 'Lato', sans-serif !important;
+    color: #333;
+}
+
+.sabbath-school-reader {
+    border-radius: 5px;
+    border: 1px solid #E5E5E5;
+}
+
+.no-border-btn {
+    color: black;
+}
+
+img.ss-cover {
+    border-radius: 5px;
+    width: 160px;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.3);
+}
+
+.ss-header-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.ss-header-date {
+    color: rgba(255, 255, 255, 0.6);
+    text-transform: uppercase;
+}
+
+.ss-menu-lesson-title {
+    color: #717A82 !important;
+}
+
+.ss-menu {
+    font-size: 13px;
+}
+
+.ss-menu-day {
+    position: relative;
+}
+
+.ss-menu-day-dot {
+    width: 9px; height: 9px; border-radius:100%; background-color:#B9B9B9; position: absolute; top: 5px; left: -30px;
+}
+
+.ss-menu-day-dot-outline {
+    width: 9px; height: 9px; border-radius:100%; border: 1px solid #B9B9B9; background-color: #FCFCFC; position: absolute; top: 5px; left: -30px; z-index: 1;
+}
+
+.ss-menu-day-line {
+    position: absolute; top: 7px; bottom: -5px; left: -26px; border-left: 1px dashed #B9B9B9;
+}
+
+.ss-menu-day:last-child .ss-menu-day-line {
+    display: none
+}
+
+.ss-menu-day-cover {
+    width: 100%;
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px 5px 0 0;
+    position: relative;
+}
+
+.ss-divider {
+    border-bottom: 1px dashed #b9b9b9;
+}
+
+.ss-language-item {
+    border: 2px solid #fcfcfc !important;
+
+}
+
+.ss-language-item:hover {
+    z-index: 1;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0 0 54px 2px rgba(216,216,216,0.50);
+}
+
+.ss-language-item a:hover{
+    text-decoration: none !important;
+}
+
+.ss-language-name-native {
+    font-size: 27px; color: #717A82;
+}
+
+.ss-language-name-en {
+    font-size:18px; font-family: 'Lato', sans-serif !important; font-weight: 400; color: #E3E3E3;
+}
+
+.ss-quarterly-lessons {}
+.ss-quarterly-lesson-dot-outline {
+    left: 0; top:15px; width: 9px; height: 9px; border-radius:100%; border: 1px solid #B9B9B9; background-color: #FCFCFC; position: absolute;
+}
+.ss-quarterly-lesson-line {
+    left: 0; border-left: 1px dashed #ccc; margin-left:4px; position: absolute; bottom:-30px; top: 20px;
+}
+.ss-quarterly-lesson:last-child .ss-quarterly-lesson-line {
+    display: none;
+}
+
+.ss-quarterly-lesson-start-date, .ss-quarterly-lesson-end-date {text-transform: capitalize}
+
+.ss-quarterlies-wrapper {
+    width: 255px;
+}
+
+.ss-quarterlies-quarterly {
+    border-radius:5px;
+
+}
+
+.ss-quarterlies-quarterly-cover {
+    border-radius:5px;
+    background-position: center center; 
+    height:340px; 
+    background-size: cover;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.3);
+}
+
+.ss-quarterlies-quarterly-title {
+    font-family: 'Lato', sans-serif !important; color: #333333
+}
+
+.ss-quarterlies-quarterly-date {
+    font-family: 'Lato', sans-serif !important;
+    font-size: 13px;
+    color: #B3B3B3
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 40px;
+}
+
+.navbar {
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.navbar .brand {
+    margin-top: 10px
+}
+
+.navbar a {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 700;
+}
+
+.navbar a:hover {
+    text-decoration: none;
+    color: #333;
+}
+
+.navbar .logo {
+    width: 36px;
+    height: 36px;
+    background: url(/img/logo.svg);
+    display: inline-block;
+    vertical-align: middle;
+    margin: -4px 10px 0 0;
+    opacity: .8
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 
+    font-weight: 700  !important;
+    font-family: 'PT Serif', serif !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}

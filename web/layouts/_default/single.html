@@ -1,0 +1,162 @@
+{{ partial "header.html" . }}
+
+{{ partial "top_menu.html" . }}
+
+{{ $url := .URL }}
+{{ $primaryColor := .Parent.Params.color_primary }}
+
+<script type="text/javascript">
+    var bible = {
+    {{ range $index, $element := $.Params.bible }}
+        "{{$element.name}}": {
+            "name": "{{$element.name}}",
+            "verses": {
+                {{ range $versesIndex, $versesElement := $element.verses }}
+                    {{$versesIndex}}: {{($versesElement | safeHTML)}},
+                {{ end }}
+            }
+        },
+    {{ end }}
+    };
+
+var defaultBibleVersion = Object.keys(bible)[0];
+</script>
+
+
+<style type="text/css">
+    .tintColorLnk {
+        color: {{ $primaryColor }};
+        font-weight: bold;
+        font-size: 1rem
+    }
+    .tintColorLnk:hover {
+        color: {{ $primaryColor }};
+    }
+</style>
+
+<main role="main">
+    <div>
+        <div class="container pt-4">
+            <div class="row">
+                <div class="col-lg-10 col-md-9">
+                    <div class="sabbath-school-reader ss-wrapper-light p-0 mb-5">
+                        <div class="ss-menu-day-cover" style="background-image:url('{{.Params.Cover}}')">
+                            <div class="ss-header-content">
+                                {{ range $index, $element := (readDir (print "./content/" $.Dir))}}
+                                {{ with $.Site.GetPage "page" (print $.Dir .Name) }}
+                                {{ if eq $url .URL }}
+                                <time class="pl-4 ss-header-date ss-menu-day-header" datetime="{{ .Date }}">{{ dateFormat "02/01/2006" .Date }}</time>
+                                <script type="text/javascript">
+                                    $(function(){
+                                        moment.locale('{{substr $.Dir 0 2}}');
+                                        $(".ss-menu-day-header").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, MMMM DD'));
+                                    });
+                                </script>
+                                {{ end }}
+                                {{ end }}
+                                {{ end }}
+                                <h1 class="pl-4 pb-4" style="color: white">{{ .Title }}</h1>    
+                            </div>
+                        </div>
+                        <div class="p-3">
+                            <div class="py-2">
+                                <div class="ss-wrapper">
+                                    <div class="ss-wrapper-font ss-wrapper-pt-serif">
+                                        <div class="ss-wrapper-size ss-wrapper-medium">
+                                            <div class="ss-wrapper-theme ss-wrapper-light">
+                                                {{ (.Content | htmlUnescape | safeHTML) }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-3 pl-3 order-md-first">
+                    <div class="sticky pb-4">
+                        <div class="mb-4">
+                            <a class="text-secondary" href="{{ $.Parent.URL }}">
+                                <img class="img-fluid ss-cover" src="{{ .Parent.Params.cover }}" />
+                                <p class="mt-2 text-secondary"><span class="font-weight-bold text-secondary">{{ .Parent.Title }}</span></p>
+                            </a>
+                        </div>
+                        <div class="ss-menu">
+                            {{ range $index, $element := (readDir (print "./content/" $.Dir))}}
+                            {{ with $.Site.GetPage "page" (print $.Dir .Name) }}
+                            <div class="pt-0 pb-3 text-secondary ss-menu-day">
+                                {{ if eq $url .URL }}
+                                <div class="ss-menu-day-dot"></div>
+                                {{ end }}
+
+                                {{ if ne $url .URL }}
+                                <div class="ss-menu-day-dot-outline"></div>
+                                {{ end }}
+
+                                <div class="ss-menu-day-line"></div>
+
+                                {{ if lt $index 7 }}
+                                <p class="m-0 p-0 font-weight-bold ss-menu-day-{{$index}}" style="text-transform: capitalize">{{ dateFormat "02/01/2006" .Date }}</p>
+
+                                <script type="text/javascript">
+                                    $(function(){
+                                        moment.locale('{{substr $.Dir 0 2}}');
+                                        $(".ss-menu-day-{{$index}}").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, MMMM DD'));
+                                    })
+                                </script>
+                                {{ end }}
+
+                                <a href="{{ .URL }}" class="tintColorLnk">{{ .Title }}</a>
+                            </div>
+                            {{ end }}
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="modal" id="bible" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document" style="margin: 0 auto; height: 100%;">
+        <div class="modal-content" style="height: auto; min-height: 100%; border: 0; border-radius: 0;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="ss-wrapper">
+                    <div class="ss-wrapper-font ss-wrapper-pt-serif">
+                        <div class="ss-wrapper-size ss-wrapper-medium">
+                            <div class="ss-wrapper-theme ss-wrapper-light">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function(){
+        $(".verse").click(function(){
+            $("#bible .ss-wrapper-theme").html(bible[defaultBibleVersion]["verses"][$(this).attr("verse")])
+            $("#bible").modal("show");
+        });
+    })
+</script>
+
+<!--<script type="text/javascript">-->
+<!--$(function(){-->
+<!--$("code").each(function(i,e){-->
+<!--$(e).html($.parseHTML($(e).text()));-->
+<!--});-->
+<!--})-->
+<!--</script>-->
+
+{{ partial "footer.html" . }}

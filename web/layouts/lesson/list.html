@@ -1,0 +1,104 @@
+{{ partial "header.html" . }}
+
+{{ partial "top_menu.html" . }}
+
+{{ $primaryColor := .Params.Color_primary }}
+{{ $secondaryColor := .Params.Color_primary_dark }}
+
+<script type="text/javascript">
+    var dow_mapping = {
+        "1": "3",
+        "2": "4",
+        "3": "5",
+        "4": "6",
+        "5": "7",
+        "6": "1",
+        "7": "2"
+    };
+
+    var checkField = function(field) {
+        var url = window.location.href;
+        if(url.indexOf(field) != -1)
+            return true;
+        return false
+    };
+
+    var lessons = [
+    {{ range $lIndex, $l := .Params.lessons }}
+    {
+        "start_date": '{{ $l.start_date}}',
+        "end_date": '{{ $l.end_date}}',
+        "path": '{{$l.path}}'
+    },
+    {{ end }}
+    ];
+
+    if (checkField("today")) {
+        for(var i = 0; i < lessons.length; i++) {
+            var start_date = moment(lessons[i].start_date, "YYYY-MM-DD"),
+                end_date = moment(lessons[i].end_date, "YYYY-MM-DD");
+
+            if (moment().isBetween(start_date, end_date, "day", "[]")) {
+                document.location = "{{.Site.BaseURL}}" + lessons[i].path + "/0" + dow_mapping[moment().format("E")];
+            }
+        }
+    }
+</script>
+
+<style type="text/css">
+    .tintColorBtn {
+        color: {{ $primaryColor }}; 
+        border-color: {{ $primaryColor }}
+    }
+    .tintColorBtn:hover {
+        color: white; 
+        background-color: {{ $primaryColor }};
+        border-color: {{ $primaryColor }}
+    }
+</style>
+
+<main role="main">
+    <div class="container pt-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-5 text-center text-md-right mb-5 mb-md-0">
+                <img src="{{ .Params.Cover }}" class="img-fluid ss-quarterlies-quarterly-cover" style="border-radius: 10px; height: 340px" />
+                {{ $t := (time .Params.end_date) }}
+                {{ if $t.After now }}
+                <p class="mt-5"><a href="?today" class="btn btn btn-outline-secondary btn-lg tintColorBtn" role="button" aria-pressed="true">{{ $.Param (print (substr $.Dir 0 2) ".todaysLesson") }}</a></p>
+                {{ end }}
+            </div>
+            <div class="col-lg-8 col-md-7">
+                <date class="text-uppercase" style="color: rgba(0,0,0,0.5);">{{ .Params.Human_Date }}</date>
+                <h1 style="color: #333">{{ .Params.Title }}</h1>
+                <p class="pt-2">{{ .Params.Description }}</p>
+
+                <div class="pt-3 pb-5">
+                {{ range $index, $element := .Params.Lessons }}
+                    {{ with $.Site.GetPage "page" $element.path_index }}
+                        <div class="pb-4 ss-quarterly-lesson position-relative pl-4">
+                            <div class="ss-quarterly-lesson-line"></div>
+                            <div class="ss-quarterly-lesson-dot-outline"></div>
+
+                            <script type="text/javascript">
+                                $(function(){
+                                    moment.locale('{{substr $.Dir 0 2}}');
+                                    $(".ss-quarterly-lesson-start-date-{{$index}}").html(moment('{{ dateFormat "02/01/2006" $element.start_date }}', 'DD/MM/YYYY').format('DD MMM'));
+                                    $(".ss-quarterly-lesson-end-date-{{$index}}").html(moment('{{ dateFormat "02/01/2006" $element.end_date }}', 'DD/MM/YYYY').format('DD MMM'));
+                                })
+                            </script>
+                            <div style="float: left; margin-right: 1rem;">
+                                <span class="h2 text-secondary">{{ add $index 1 }}</span>
+                            </div>
+                            <div>
+                                <h5 style="margin-bottom: 0"><a href="{{ .URL }}" style="color: {{ $primaryColor }}">{{ .Title }}</a></h5>
+                                <span class="text-secondary ss-quarterly-lesson-start-date ss-quarterly-lesson-start-date-{{$index}}">{{ $element.start_date }}</span> -
+                                <span class="text-secondary ss-quarterly-lesson-end-date ss-quarterly-lesson-end-date-{{$index}}">{{ $element.end_date }}</span>
+                            </div>
+                        </div>
+                    {{ end}}
+                {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

@@ -6,9 +6,12 @@
   "dependencies": {
     "adventech-bible-tools": "git+https://github.com/Adventech/bible-tools.git",
     "async": "^2.1.2",
+    "change-case": "^3.0.1",
     "cheerio": "^0.22.0",
+    "columnify": "^1.5.4",
     "crypto": "0.0.3",
     "ent": "^2.2.0",
+    "esrever": "^0.2.0",
     "firebase": "3.5.0",
     "fs-extra": "^0.30.0",
     "meta-marked": "^0.4.2",

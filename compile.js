@@ -35,8 +35,15 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
 var BIBLE_PARSER_CONFIG = {
+    "ar": [
+        "svd"
+    ],
     "bg": [
         "bg1940"
+    ],
+
+    "cs": [
+        "kralicka-1613"
     ],
 
     "da": [
@@ -59,8 +66,16 @@ var BIBLE_PARSER_CONFIG = {
         "rvr1960"
     ],
 
+    "fa": [
+        "opv-1896"
+    ],
+
     "fr": [
         "lsg"
+    ],
+
+    "he": [
+        "em-1865"
     ],
 
     "ja": [
@@ -75,6 +90,22 @@ var BIBLE_PARSER_CONFIG = {
 
     "in": [
         "alkitab"
+    ],
+
+    "ko": [
+        "krv"
+    ],
+
+    "ms": [
+        "alkitab"
+    ],
+
+    "ne": [
+        "erv"
+    ],
+
+    "no": [
+        "nb-bibelen-1930"
     ],
 
     "ro": [
@@ -102,7 +133,7 @@ var BIBLE_PARSER_CONFIG = {
     ]
 };
 
-var BIBLE_PARSER_IGNORE_BCV = ["uk", "ja"];
+var BIBLE_PARSER_IGNORE_BCV = ["ja"];
 
 var argv = require("optimist")
   .usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
@@ -153,7 +184,6 @@ if (branch.toLowerCase() == "master"){
 var firebaseDeploymentTasks = [];
 
 var changeCheck = function(path){
-  if (path.indexOf("2018-01") >= 0) return true;
   if (lastModified === "force"){
     return true;
   }

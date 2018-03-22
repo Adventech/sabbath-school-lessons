@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>{{ with .Title }}{{ . }} - {{ end }}{{ $.Param (print (substr $.Dir 0 2) ".title") }}</title>
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    <meta name="description" content="Adventech ministry. We are committed to doing our ministry through technology. Uniting our Seventh-day Adventist Church, proclaim good news to this world by means of technology and advancements in communications and witness Jesus’ second coming.">
+
+    <meta itemprop="name" content="Adventech">
+    <meta itemprop="description" content="We are committed to doing our ministry through technology. Uniting our Seventh-day Adventist Church, proclaim good news to this world by means of technology and advancements in communications and witness Jesus’ second coming.">
+
+    <meta name="og:title" content="Adventech">
+    <meta name="og:description" content="We are committed to doing our ministry through technology. Uniting our Seventh-day Adventist Church, proclaim good news to this world by means of technology and advancements in communications and witness Jesus’ second coming.">
+    <meta name="og:image" content="https://adventech.io/images/adventech-graph-image.png">
+    <meta name="og:url" content="https://adventech.io">
+    <meta name="og:site_name" content="Adventech - Technology to spread the Gospel">
+    <meta name="og:type" content="website">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+    <meta name="theme-color" content="#000">
+
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/base.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/reader.css">
+
+    <script src="{{ .Site.BaseURL }}js/moment-with-locales.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/jquery-3.3.1.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/js.cookie.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
+</head>
+<body dir="auto" class="bg-light">

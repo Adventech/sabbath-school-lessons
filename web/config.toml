@@ -1,0 +1,203 @@
+baseURL = "https://sabbath-school.adventech.io/"
+languageCode = "en"
+title = "Sabbath School"
+
+# very ugly, but quicker way to implement i18n using config
+[params]
+[params.en]
+	title = "Sabbath School"
+	back = "Go back"
+	all = "See all"
+	todaysLesson = "Today's Lesson"
+	current = "Current"
+	archive = "Lesson archive"
+	lang = "🇺🇸 English"
+
+[params.ar]
+	title = "مدرسة السبت"
+	back = "عُد"
+	all = "اظهار الكل"
+	todaysLesson = "درس اليوم"
+	current = "تيار"
+	archive = "أرشيف الدرس"
+	lang = "🇸🇦 عربى"
+
+[params.bg]
+	title = "Съботно Училище"
+	back = "Върни се"
+	all = "Виж всички"
+	todaysLesson = "Днешният урок"
+	current = "Текущ"
+	archive = "Виж всички"
+	lang = "🇧🇬 Български"
+
+[params.zh]
+	title = "安息日学"
+	back = "回去"
+	all = "查看全部"
+	todaysLesson = "今天的课程"
+	current = "当前"
+	archive = "课程档案"
+	lang = "🇨🇳 中文"
+
+[params.da]
+	title = "Sabbatsskole"
+	back = "Gå tilbage"
+	all = "Se alt"
+	todaysLesson = "Dagens lektion"
+	current = "Nuværende"
+	archive = "Lektion arkiv"
+	lang = "🇩🇰 Dansk"
+
+[params.fr]
+	title = "École du Sabbat"
+	back = "Retourner"
+	all = "Voir tout"
+	todaysLesson = "Leçon d'aujourd'hui"
+	current = "Actuel"
+	archive = "Archive des leçons"
+	lang = "🇫🇷 Français"
+
+[params.de]
+	title = "Sabbatschule"
+	back = "Geh zurück"
+	all = "Alles sehen"
+	todaysLesson = "Die heutige Lektion"
+	current = "Strom"
+	archive = "Unterrichtsarchiv"
+	lang = "🇩🇪 Deutsche"
+
+[params.in]
+	title = "Sekolah Sabat"
+	back = "Kembali"
+	all = "Lihat semua"
+	todaysLesson = "Pelajaran hari ini"
+	current = "Saat ini"
+	archive = "Arsip pelajaran"
+	lang = "🇮🇩 Bahasa Indonesia"
+
+[params.ja]
+	title = "安息日学校"
+	back = "戻る"
+	all = "すべてを見る"
+	todaysLesson = "今日の課"
+	current = "現在"
+	archive = "課のアーカイブ"
+	lang = "🇯🇵 日本語"
+
+[params.ko]
+	title = "안식일 학교"
+	back = "돌아 가기"
+	all = "모두보기"
+	todaysLesson = "오늘의 수업"
+	current = "흐름"
+	archive = "강의 아카이브"
+	lang = "🇰🇷 한국어"
+
+[params.ms]
+	title = "Sekolah Sabat"
+	back = "Pergi balik"
+	all = "Lihat semua"
+	todaysLesson = "Pelajaran Hari Ini"
+	current = "Semasa"
+	archive = "Arkib pelajaran"
+	lang = "🇲🇾 Bahasa Melayu"
+
+[params.no]
+	title = "Sabbatsskole"
+	back = "Gå tilbake"
+	all = "Se alt"
+	todaysLesson = "Dagens leksjon"
+	current = "Nåværende"
+	archive = "Leksjonsarkiv"
+	lang = "🇳🇴 Norsk"
+
+[params.fa]
+	title = "مدرسه سبت"
+	back = "برگرد"
+	all = "همه را ببین"
+	todaysLesson = "درس امروز"
+	current = "جاری"
+	archive = "آرشیو درس"
+	lang = "🇮🇷 فارسی"
+
+[params.ro]
+	title = "Școala de Sabat"
+	back = "Întoarce-te"
+	all = "Vezi toate"
+	todaysLesson = "Lecția de astăzi"
+	current = "Actual"
+	archive = "Arhiva lecțiilor"
+	lang = "🇷🇴 Română"
+
+[params.ru]
+	title = "Субботняя Школа"
+	back = "Назад"
+	all = "Все уроки"
+	todaysLesson = "Сегодняшний урок"
+	current = "Текущий"
+	archive = "Архив уроков"
+	lang = "🇷🇺 Русский"
+
+[params.sr]
+	title = "Subotna škola"
+	back = "Vratiti se"
+	all = "Sve lekcije"
+	todaysLesson = "Današnja lekcija"
+	current = "Trenutni"
+	archive = "Lekcije Arhiva"
+	lang = "🇷🇸 Srpski"
+
+[params.es]
+	title = "Escuela Sabática"
+	back = "Regresa"
+	all = "Ver todo"
+	todaysLesson = "La lección de hoy"
+	current = "Corriente"
+	archive = "Archivo de la lección"
+	lang = "🇪🇸 Español"
+
+[params.tr]
+	title = "Sebt Okulu"
+	back = "Geri dön"
+	all = "Hepsini gör"
+	todaysLesson = "Bugünün dersi"
+	current = "Şimdiki"
+	archive = "Ders arşivi"
+	lang = "🇹🇷 Türk"
+
+[params.uk]
+	title = "Суботня Школа"
+	back = "Повертайся"
+	all = "Бачити все"
+	todaysLesson = "Сьогоднішній урок"
+	current = "Струм"
+	archive = "Архів уроку"
+	lang = "🇺🇦 Українська"
+
+[params.cs]
+	title = "Sobotní škola"
+	back = "Zadní"
+	all = "Všechny lekce"
+	todaysLesson = "Dnešní lekce"
+	current = "Aktuální"
+	archive = "Archiv hodin"
+	lang = "🇨🇿 Česky"
+
+[params.he]
+	title = "ספר שבת"
+	back = "תחזור"
+	all = "כל השיעורים"
+	todaysLesson = "השיעור של היום"
+	current = "נוֹכְחִי"
+	archive = "ארכיון השיעור"
+	lang = "🇮🇱 עִברִית"
+
+[params.ne]
+	title = "सब्बाथ स्कूल"
+	back = "पछाडी जाउ"
+	all = "सबै पाठहरू हेर्नुहोस्"
+	todaysLesson = "आजको पाठ"
+	current = "वर्तमान"
+	archive = "पाठ संग्रह"
+	lang = "🇳🇵 नेपाली"

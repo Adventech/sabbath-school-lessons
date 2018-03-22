@@ -33,12 +33,20 @@ var SRC_PATH = "src/",
 var LOCALE_VARS = {
 
   "daily_lesson_title": {
+    "ar": "درس",
     "bg": "Дневен урок",
+    "cs": "Lekce",
     "da": "Lektie",
     "de": "Tägliche Lektion",
     "en": "Daily Lesson",
     "es": "Lección",
+    "fa": "درس",
     "fr": "Leçon quotidienne",
+    "he": "שיעור",
+    "ms": "Pelajaran",
+    "ne": "पाठ",
+    "no": "Lekse",
+    "ko": "교훈",
     "pt": "Lição",
     "ro": "Lecție zilnică",
     "ru": "Урок",
@@ -47,15 +55,24 @@ var LOCALE_VARS = {
     "uk": "Урок",
     "ja": "日課",
     "zh": "每日课程",
+    "ht": "每日課程"
   },
 
   "empty_placeholder": {
+    "ar": "### <center>ونحن نعمل على هذا الدرس.</center>\n<center>يرجى العودة لاحقا.</center>",
     "bg": "### <center>Работим по този урок.</center>\n<center>Моля, върнете се по-късно.</center>",
+    "cs": "### <center>Na této lekci pracujeme.</center>\n<center>Prosim zkuste to znovu pozdeji.</center>",
     "da": "### <center>Vi arbejder på denne lektion.</center>\n<center>Prøv igen senere.</center>",
     "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
     "en": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
     "es": "### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>",
+    "fa": "### <center>ما در این درس کار می کنیم</center>\n<center>لطفا بعدا بیا</center>",
     "fr": "### <center>Nous travaillons sur cette leçon.</center>\n<center>Revenez plus tard, s'il vous plaît.</center>",
+    "he": "### <center>אנחנו עובדים על השיעור הזה</center>\n<center>בבקשה תחזור מאוחר יותר</center>",
+    "ms": "### <center>Kami sedang menjalankan pelajaran ini.</center>\n<center>Sila balik kemudian.</center>",
+    "ne": "### <center>हामी यस पाठमा काम गरिरहेका छौं</center>\n<center>फेरी प्रयास गर्नु होला</center>",
+    "no": "### <center>Vi jobber med denne leksjonen.</center>\n<center>Prøv igjen senere.</center>",
+    "ko": "### <center>우리는이 공과를 위해 노력하고있다..</center>\n<center>나중에 다시 시도 해주십시오..</center>",
     "pt": "### <center>Estamos a trabalhar sobre esta lição.</center>\n<center>Volte mais tarde, por favor.</center>",
     "ro": "### <center>Lucrăm la această lecție.</center>\n<center>Te rog intoarce-te mai tarziu.</center>",
     "ru": "### <center>Мы подготавливаем данный урок</center>\n<center>Попробуйте позже</center>",
@@ -64,15 +81,24 @@ var LOCALE_VARS = {
     "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>",
     "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
     "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
+    "ht": "### <center>我們正在學習這一課。請稍後再來。</center>"
   },
 
   "teacher_comments": {
+    "ar": "Teacher comments",
     "bg": "Учител коментира.",
+    "cs": "Teacher comments",
     "da": "Aktiviteter og dialog",
     "de": "Lehrerteil",
     "en": "Teacher Comments",
     "es": "Teacher Comments",
+    "fa": "Teacher Comments",
     "fr": "Commentaires Moniteurs",
+    "he": "Teacher Comments",
+    "ms": "Komen Guru",
+    "ne": "Teacher Comments",
+    "no": "Teacher Comments",
+    "ko": "교사의 의견",
     "pt": "Moderador",
     "ro": "Teacher Comments",
     "ru": "Комментарий для Учителей",
@@ -80,16 +106,25 @@ var LOCALE_VARS = {
     "tr": "Teacher Comments",
     "uk": "Teacher Comments",
     "ja": "Teacher Comments",
-    "zh": "Teacher Comments"
+    "zh": "Teacher Comments",
+    "ht": "Teacher Comments"
   },
 
   "inside_story": {
+    "ar": "Inside story",
     "bg": "Разказ",
+    "cs": "Inside story",
     "da": "Missionsberetning",
     "de": "Mit Gott erlebt",
     "en": "Inside Story",
     "es": "Inside Story",
+    "fa": "داستانهای ای نداران",
     "fr": "Histoire",
+    "he": "Inside Story",
+    "ms": "Inside Story",
+    "ne": "कथा",
+    "no": "Misjonsfortelling",
+    "ko": "선교 이야기",
     "pt": "Inside Story",
     "ro": "Inside Story",
     "ru": "Миссионерская история",
@@ -97,8 +132,9 @@ var LOCALE_VARS = {
     "tr": "Inside Story",
     "uk": "Місіонерська історія",
     "ja": "Inside Story",
-    "zh": "Inside Story"
-  },
+    "zh": "Inside Story",
+    "ht": "Inside Story"
+  }
 };
 
 function pad(n) {

@@ -38,7 +38,7 @@ Um Habgier durch Zufriedenheit zu ersetzen, müssen wir Entscheidungen treffen, 
 
 Die Verlogenheit des Reichtums wird uns unweigerlich übermannen, wenn wir uns nicht täglich dem Einfluss des Heiligen Geistes unterstellen. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Die Studienbetrachtung dieser Woche führt das in der vorherigen Studienbetrachtung eingeführte Thema weiter aus, indem sie sich nun auf die emotionale Auswirkung des Materialismus konzentriert: Unzufriedenheit, Missbehagen, Habgier, Begehren, Fantasieren über Materielles und die Liebe dazu. Welches Thema könnte für unser Zeitalter passender sein? Im Hinblick auf die letzte Zeit warnte Jesus: „Hütet euch aber, dass eure Herzen nicht beschwert werden durch Rausch und Saufen und mit täglichen Sorgen.“ 
 
@@ -52,7 +52,7 @@ In der ersten Geschichte geht es um einen relativ gesunden Mann. Er bewegte sich
 
 Ein anderer Mann, der gesundheitlich nicht ganz so auf der Höhe war, beachtete seine Schmerzen und Beschwerden und suchte einen Arzt auf. Untersuchungen zeigten ein Krebsgeschwür im ersten Stadium. Eine intensive und zuweilen schmerzhafte Behand-lung rettete dem Mann das Leben. Wie wichtig ist es, dass die Sündenkrankheit des Mate-rialismus und der Konformität mit der Welt früh diagnostiziert wird, bevor sie tödlich ist? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Begierde und Habgier haben das christliche Zeugnis oft gefährdet und Ressourcen, diefür Gottes Sache investiert worden wären, umgeleitet. Wenn diesem Übel erlaubt wird, unerkannt im Leben des Gläubigen zu wachsen, werden Energie und Finanzen für selbstsüchtige Zwecke missbraucht. Das Traurigste dabei ist, dass diese Sünden unerkannt bleiben. Mörder wissen, dass sie getötet haben. Ehebrecher kennen ihre Sünde. Aber oft leben die Begehrlichen und Habgierigen in „seliger Unwissenheit“ ihrer Sündhaftigkeit. Nur sorgfältiges Hinterfragen unserer Motive und Handlungen unter der Führung des Heiligen Geistes können uns unseren wahren Zustand offenbaren. Die Gemeinde in Laodizea hielt sich selbst für reich und wohlhabend, war aber in Wirklichkeit bedauernswert, geistlich arm und blind fr ihren wahren Zustand. 
 
@@ -82,7 +82,7 @@ Der letzte Schritt, dem Begehren zu verfallen, ist der aktive Schritt, der Punkt
 
 Warum ist es einfacher, sich im ersten Schritt von der Gier abzuwenden als im dritten? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Die Gewohnheiten der Bibelmeditation, des Gebets und des christlichen Dienstes sind Barrieren gegen unsere natürlichen Neigungen zum Begehren. Durch Selbstkontrolle – die für einen Christen nichts anderes ist, als sich völlig der göttlichen Kontrolle zu unterstellen – können unsere Gedanken, Wünsche und unsere Energie dahin geleitet werden, Gottes materielle Segnungen in Einklang mit seinem Willen zu nutzen. Wir dürfen nicht vergessen, dass Gottes Schöpfung der materiellen Dinge mit seinem Segen bekleidet ist. Sie sind nicht aus sich heraus schlecht. Das Problem entsteht dann, wenn wir Gottes Schöpfung verehren statt Gott selbst. 
 
@@ -92,7 +92,7 @@ Die Gewohnheiten der Bibelmeditation, des Gebets und des christlichen Dienstes s
 2. Auf welche Weise könnte der Ausbau anderer geistlicher Gaben zur Entwicklung der Selbstkontrolle beitragen, die notwendig ist, um Habsucht zu überwinden? 
 3. Welche hilfreichen Ansätze fallen euch ein, um bei jedem der drei Schritte, die zum Begehren führen, Selbstkontrolle auszuüben? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Eine Möglichkeit für Gläubige, „nach dem zu trachten, was im Himmel ist“, besteht darin, den Raum, den der Materialismus besetzt, auszufüllen, indem man sich auf Jesus konzentriert. Eine Möglichkeit, um sich auf Jesus zu fokussieren, besteht darin, das Evangelium weiterzugeben und sich um die „Geringsten“ zu kümmern (Mt 25,40), denn dadurch die-nen wir Jesus selbst. Plant Aktionen, die euch helfen, euch durch Dienen auf Jesus zu konzentrieren. 
 

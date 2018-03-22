@@ -5,7 +5,7 @@ date:   19/01/2018
 
 ### El Sábado enseñaré...
 
-**TEXTO CLAVE:** FILIPENSES 2:911.
+**TEXTO CLAVE:** Filipenses 2:9-11.
 
 #### Enseña a tu clase a:
 
@@ -18,21 +18,30 @@ date:   19/01/2018
 #### Bosquejo de la lección
 
 **I. Saber: Los atributos divinos**
+
 A. ¿Quién es Dios, según es retratado y revelado en la Biblia?
+
 B. ¿Qué roles específicos asumió Cristo?
+
 C. ¿Sobre la base de qué razonamiento puede Dios reclamar que nuestra vida le pertenece?
 
 **II. Sentir: Jesucristo, dueño y amigo**
+
 A. ¿En qué sentido el doble rol de Cristo como dueño y amigo mejora nuestra relación con él?
+
 B. El hecho de que Jesús haya creado el mundo ¿cómo afecta nuestro aprecio por el universo creado y sus componentes materiales?
+
 C. ¿Cómo podemos disfrutar de una experiencia más profunda e íntima con nuestro Creador?
 
 **III.Hacer: Jesús, objeto de adoración**
+
 A. ¿De qué forma podemos demostrar nuestra adoración a Dios en forma creativa, que refleje su poder creador?
+
 B. ¿Cómo podemos compartir eficazmente nuestra devoción por Cristo con quienes no creen en la creación?
+
 C. Si no existe ningún creador, ¿qué opciones de adoración tiene la gente?
 
-####Resumen: 
+#### Resumen: 
 
 La humanidad fue concebida para la adoración. Esa adoración puede orientarse hacia el yo, hacia las cosas creadas o hacia el Creador. Solo la última opción aporta satisfacción duradera, un verdadero sentido de pertenencia en el universo y un profundo sentido de propósito.
 
@@ -63,8 +72,7 @@ La lección actual explora las posturas o las declaraciones bíblicas acerca de 
 
 ##### Comentario de la Biblia
 
-**I. Creador**
-*(Repasa, con tu clase, Génesis 1:1; Salmo 33:6-9; Isaías 45:11, 12; Jeremías 51:15; Colosenses 1:13-18).*
+**I. Creador** *(Repasa, con tu clase, Génesis 1:1; Salmo 33:6-9; Isaías 45:11, 12; Jeremías 51:15; Colosenses 1:13-18).*
 
 Muchos comentaristas reconocen que la cristología más desarrollada de Pablo aparece en su Epístola a los Colosenses, donde presenta los aspectos creadores y redentores de Cristo. Muchos eruditos creen que Pablo escribió para contrarrestar una herejía en ciernes, que contenía muchos aspectos de un sistema de creencias llamado gnosticismo. El diccionario bíblico Harper Collins describe el gnosticismo como “un término genérico para una variedad de movimientos religiosos de los primeros siglos de la era cristiana. Aunque la teología, la práctica ritual y la ética de estos grupos diferían considerablemente, todos pretendían ofrecer la salvación de los lazos opresivos de la existencia material a través de la gnosis, o el ‘conocimiento’” (P. Achtemeier, ed. The Harper Collins Bible Dictionary, p. 380; énfasis añadido). 
 
@@ -74,8 +82,7 @@ Sin embargo, la Biblia enseña que el mundo material, puesto que fluyó de las m
 
 **Considera:** ¿Qué enseña la Biblia acerca del mundo material, y cómo esta enseñanza afecta nuestro estilo de vida y nuestras prácticas? Por otra parte, ¿cómo afectaría nuestro estilo de vida y nuestras prácticas cristianas la idea errónea de que el mundo material es inherentemente malo? 
 
-**II. Redentor**
-*(Repasa, con tu clase, 1 Tesalonicenses 1:10; 1 Pedro 1:18; Hebreos 2:14, 15; Gálatas 3:13).*
+**II. Redentor** *(Repasa, con tu clase, 1 Tesalonicenses 1:10; 1 Pedro 1:18; Hebreos 2:14, 15; Gálatas 3:13).*
 
 El derecho de Dios a que lo adoremos como Creador está fuertemente ligado al mundo material. Debido a que él nos creó como criaturas físicas y proporcionó el mundo material para nuestro placer, le debemos nuestra lealtad y adoración. Asimismo, el derecho de Dios a que lo adoremos como Redentor está fuertemente ligado a los aspectos emocionales y espirituales de nuestro ser. Hebreos sugiere que el carácter del Cristo encarnado (que le permitió identificarse completamente con la humanidad, al adoptar un cuerpo material de carne y hueso) es fundamental para la redención. El escritor no ve ningún conflicto sustancial entre los reinos material y espiritual. El verdadero conflicto está entre el bien y el mal, entre la adoración auténtica y la adoración propia. 
 
@@ -92,13 +99,9 @@ Una vez Jesús habló a un fariseo llamado Simón, diciendo: “Un acreedor ten�
 **Preguntas de aplicación:**
 
 1. ¿En qué medida el principio de “Ustedes no son sus propios dueños; fueron comprados por un precio. Por tanto, honren con su cuerpo a Dios” (1 Corintios 6:19, 20, NVI) participa de nuestras decisiones y preferencias? 
-
 2. Dado que la adoración a Dios extiende su dominio a todo lo que poseemos, ¿qué cambios de actitud debemos asumir? 
-
 3. Dado que honrar a Dios implica cuidar del mundo natural que él creó, ¿qué hábitos debemos cambiar? 
-
 4. ¿Cómo podemos evaluar si estamos o no en peligro de amar los dones más que al Dador? ¿Qué podemos hacer para protegernos de dar a los dones materiales de Dios el afecto que solo Dios debiera recibir?
-
 5. ¿Cómo podemos alentar a otros a adoptar un estilo de vida desinteresado, que canalice los dones materiales de Dios para sus propósitos divinos? 
 
 #### 4: ¡Crea!
@@ -108,5 +111,4 @@ Una vez Jesús habló a un fariseo llamado Simón, diciendo: “Un acreedor ten�
 **Actividades:**
 
 1. Planifiquen un proyecto que honre a Dios para beneficiar a otros con dinero (recursos), obtenido solo de los participantes. Consulten la sección “¡Crea!” de la lección de la semana anterior para obtener sugerencias específicas, pero no se limiten a ellas. 
-
 2. Compongan o entonen cantos que exalten a Jesús como Creador y Redentor. Planifiquen una reunión u organicen un lugar donde puedan entonarlos o interpretarlos como, por ejemplo, el culto de recepción de sábado, un asilo de ancianos, etcétera.  
