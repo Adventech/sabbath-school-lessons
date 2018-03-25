@@ -43,7 +43,7 @@ var BIBLE_PARSER_CONFIG = {
     ],
 
     "cs": [
-        "kralická-1613"
+        "kralicka-1613"
     ],
 
     "da": [
@@ -74,6 +74,10 @@ var BIBLE_PARSER_CONFIG = {
         "lsg"
     ],
 
+    "he": [
+        "em-1865"
+    ],
+
     "ja": [
         "kougo-yaku",
         "jlb"
@@ -94,6 +98,10 @@ var BIBLE_PARSER_CONFIG = {
 
     "ms": [
         "alkitab"
+    ],
+
+    "ne": [
+        "erv"
     ],
 
     "no": [

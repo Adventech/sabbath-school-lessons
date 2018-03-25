@@ -38,7 +38,7 @@ Die Menschheit ist zur Anbetung geschaffen. Diese Anbetung kann sich auf sich se
 
 Menschen wurden zur Anbetung geschaffen. Diesem Impuls wird zufriedenstellend nachgegeben, wenn die Anbetung Gott zugewandt ist und nicht den Dingen, die er geschaffen hat. 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Die Alternativen sind eindeutig: Man kann nicht Gott und dem Mammon dienen. Der Mammon ist an sich nicht schlecht. Er ist nicht mit Satan oder dem Teufel gleichzusetzen, wie manche meinen. Es ist ein aramäisches Wort, das aus dem griechischen Text des Neuen Testaments geborgt wurde und Besitz oder Reichtum bezeichnet. Viele moderneÜbersetzungen verwenden das Wort „Geld“ statt „Mammon“. 
 
@@ -53,7 +53,7 @@ Dem Mammon zu dienen ist jedoch schlecht. Ein berühmter Sänger sang in den 196
 
 Bitte die Gesprächsteilnehmer, die folgenden Bibelstellen vorzulesen: Psalm 50,10–11; Haggai 2,8; Matthäus 6,31–34; 7,7–11 und Johannes 3,16. Sprecht nun über Gottes „Be-schränkungen“ wie auch über seine Großzügigkeit den Menschen gegenüber. Vergleicht Gottes Kapital mit unserem beschränkten Einkommen. Sprecht über die emotionalen Bedürfnisse, die Gott erfüllen kann, Geld aber nicht. Warum ergibt es angesichts des-sen, was ihr besprochen habt, vom praktischen Standpunkt aus gesehen mehr Sinn, Gott anzubeten als den Mammon? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 In öffentlichen Debatten tragen zwei sich widersprechende Gruppen ihre besten Ar-gumente für ihre Ansichten vor und versuchen, die Argumente der Gegner, die ihrer eigenen Sichtweise widersprechen, zu diskreditieren. Die erfolgreichsten Debattierer kennen nicht nur ihre eigenen Ansichten, sondern auch die der Gegenseite so gut, dass sie sowohl deren Stärken als auch deren Schwächen verstehen. 
 
@@ -83,7 +83,7 @@ Einmal sprach Jesus mit einem Pharisäer namens Simon und sagte zu ihm: „Ein G
 
 Worauf gründet sich Gottes Anspruch auf Anbetung? Anbetung bedeutet mehr als einmal die Woche in der Gemeinde zu singen und die Bibel zu studieren. Wie kann ein Gläubiger deshalb Gott durch die finanziellen Entscheidungen, die er unter der Woche trifft, anbeten? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Mache den Gesprächsteilnehmern bewusst, dass die Herrschaft Christi sich auf jeden Bereich unseres Daseins ausdehnt. Verwende die folgenden Fragen, um ein Gespräch anzuregen, das die Gläubigen ermutigt, alle Bereiche ihres Alltags der Herrschaft Christi zu unterstellen. 
 
@@ -95,7 +95,7 @@ Mache den Gesprächsteilnehmern bewusst, dass die Herrschaft Christi sich auf je
 4. Wie können wir einschätzen, ob wir in der Gefahr stehen, die Gaben mehr zu lieben als den Geber? Was können wir tun, um uns davor zu schützen, Gottes materiellen Gaben die Wertschätzung entgegenzubringen, die allein Gott zusteht? 
 5. Wie können andere ermutigt werden, einen selbstlosen Lebensstil anzunehmen, der Gottes materielle Gaben für seinen von ihm vorgesehenen Zweck verwendet? 
 
-**Hinweis fr den Gesprächsleiter** 
+**Hinweis für den Gesprächsleiter** 
 
 Während wir nicht gleichzeitig Gott und dem Mammon dienen können, können wir den Mammon nutzen, um Gott zu dienen. Gott ruft uns sogar genau dazu auf. Wenn wir dies nicht tun, entehren wir ihn. In Matthäus 25,14–30 erzählte Jesus eine Geschichte von drei Dienern, denen verschiedene Geldbeträge anvertraut wurden. Einer erhielt fünf Einhei-ten, ein anderer zwei und ein weiterer eine Einheit. Der Eigentümer ging fort, doch bei seiner Rückkehr verlangte er Rechenschaft über das Geld, das er in die Diener investiert hatte. Zwei Diener hatten ihr Geld verdoppelt, aber der dritte war tatenlos geblieben. Als Folge davon wurde er verbannt. Echter christlicher Dienst verlangt von uns, die Gaben, die uns anvertraut wurden, zu vermehren. 
 

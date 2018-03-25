@@ -69,7 +69,7 @@ Nuestro estudio de esta semana se centra en varios hábitos que son característ
 
 ##### Comentario de la Biblia
 
-**I. Dios primero** *(Repasa, con tu clase, Éxo. 20:3; Jer. 29:13; Mat. 6:33; 22:37, 38; Hech. 17:28; Efe. 5:15-17; Col. 3:23; Luc. 12:35-48; Heb. 10:25, 11:10).*
+**I. Dios primero** *(Repasa, con tu clase, Exo. 20:3; Jer. 29:13; Mat. 6:33; 22:37, 38; Hech. 17:28; Efe. 5:15-17; Col. 3:23; Luc. 12:35-48; Heb. 10:25, 11:10).*
 
 El hecho de buscar a Dios en primer lugar indica confianza. Esa confianza se demuestra mediante una vida comprometida con la oración. Las oraciones y las meditaciones matinales han alimentado la vida espiritual de muchos creyentes. Estas almas devotas ponen habitualmente a Dios primero en su agenda diaria; de este modo, los cristianos hacen de Dios su máxima prioridad. La Biblia nos dice que Dios precede a todas las demás cosas en la vida (Mat. 6:33), sustituye gobiernos (Col. 1:16), y debemos anteponerlo por encima de la familia y de la vida misma (Luc. 14:26).
 
@@ -91,7 +91,7 @@ El trabajo, la familia, el descanso y la adoración parecen ser los temas domina
 
 El trabajo (ejercicio), equilibrado con el descanso (el sábado), se estableció en la Creación antes de la entrada del pecado (Gén. 2:3-15). Los consejos sobre el consumo de bebidas (Prov. 20:1, 23:29-35), la moralidad sexual (Lev. 18; 1 Cor. 6:18-20) y diversas enfermedades (por ejemplo, Lev. 14) subrayan la importancia de establecer hábitos saludables. La mayordomía cristiana lo exige.
 
-Pablo admiraba la disciplina atlética, y utilizó la carrera para ilustrar principios espirituales relacionados con el autocontrol (1 Cor. 9:24-27; 2 Tim. 4:7; Heb. 12:1-3). La promesa de Dios para el antiguo Israel es igualmente significativa para el Israel moderno: “Si oyeres atentamente la voz de Jehová tu Dios, e hicieres lo recto delante de sus ojos, y dieres oído a sus mandamientos, y guardares todos sus estatutos, ninguna enfermedad de las que envié a los egipcios te enviaré a ti; porque yo soy Jehová tu sanador” (Éxo. 15:26).
+Pablo admiraba la disciplina atlética, y utilizó la carrera para ilustrar principios espirituales relacionados con el autocontrol (1 Cor. 9:24-27; 2 Tim. 4:7; Heb. 12:1-3). La promesa de Dios para el antiguo Israel es igualmente significativa para el Israel moderno: “Si oyeres atentamente la voz de Jehová tu Dios, e hicieres lo recto delante de sus ojos, y dieres oído a sus mandamientos, y guardares todos sus estatutos, ninguna enfermedad de las que envié a los egipcios te enviaré a ti; porque yo soy Jehová tu sanador” (Exo. 15:26).
 
 **Considera:** Los versículos de repaso y el comentario de esta sección, ¿cómo muestran la conexión entre la mente y el cuerpo? ¿En qué sentido las leyes que regulan la dieta, las relaciones sexuales, y el Mandamiento del sábado, sirven como medidas preventivas que protegen contra enfermedades y promueven la salud?
 
