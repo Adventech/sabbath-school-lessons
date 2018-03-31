@@ -163,8 +163,25 @@ glob("src/"+compile_language+"/", {}, function (er, files) {
     // Firebase Deployment
     (function(language, quarterlies){
       firebaseDeploymentTasks.push(function(cb){
-        db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).set(quarterlies, function(e){
-          cb(false, true);
+        db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).once("value", function(data){
+          var existingQuarterlies = data.val();
+
+          for (var i = 0; i < quarterlies.length; i++){
+            var replaced = false;
+            for (var j = 0; j < existingQuarterlies.length; j++){
+              if (quarterlies[i].index === existingQuarterlies[j].index){
+                existingQuarterlies[j] = quarterlies[i];
+                replaced = true;
+              }
+            }
+            if (!replaced){
+              existingQuarterlies.push(quarterlies[i]);
+            }
+          }
+
+          db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).set(existingQuarterlies, function(e){
+            cb(false, true);
+          });
         });
       });
     })(info.language, quarterlies);
