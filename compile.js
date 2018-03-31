@@ -175,7 +175,7 @@ glob("src/"+compile_language+"/", {}, function (er, files) {
               }
             }
             if (!replaced){
-              existingQuarterlies.push(quarterlies[i]);
+              existingQuarterlies.unshift(quarterlies[i]);
             }
           }
 
@@ -255,7 +255,6 @@ var quarterlyAPI = function(quarterlyPath){
 
   // API
   fs.outputFileSync(DIST_DIR + quarterly.path + "/index.json", JSON.stringify({quarterly: quarterly, lessons: lessons}));
-
 
   // Web
   var _quarterly = JSON.parse(JSON.stringify({quarterly: quarterly, lessons: lessons})),
