@@ -258,14 +258,19 @@ var quarterlyAPI = function(quarterlyPath){
   fs.outputFileSync(DIST_DIR + quarterly.path + "/index.json", JSON.stringify({quarterly: quarterly, lessons: lessons}));
 
   // Web
-  var _quarterly = JSON.parse(JSON.stringify({quarterly: quarterly, lessons: lessons})),
+  var _quarterly = JSON.parse(JSON.stringify(quarterly)),
       _lessons = JSON.parse(JSON.stringify(lessons));
 
+  _quarterly.type = "lesson";
+  delete _quarterly.index;
+  delete _quarterly.id;
+  _quarterly.path = _quarterly.path.replace(/quarterlies\//g, "");
   _quarterly.lessons = _lessons.map(function(l){
+    l.path_index = info.language + "/" + info.quarterly + "/" + l.id + "/01";
     return convertDatesForWeb(l);
   });
 
-  fs.outputFileSync(WEB_DIR + info.language + "/" + info.quarterly + "/_index.md", yamlify(_quarterly));
+  fs.outputFileSync(WEB_DIR + info.language + "/" + info.quarterly + "/_index.md", yamlify(convertDatesForWeb(_quarterly)));
 
   return quarterly;
 };
