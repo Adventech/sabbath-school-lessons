@@ -440,6 +440,7 @@ var readAPI = function(dayPath, day, info, lesson){
   _meta.slug = slug(read.title);
   _meta.aliases = [info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day];
   _meta.lesson = convertDatesForWeb(_lesson);
+  _meta.cover = _lesson.cover;
 
   // Web
   fs.outputFileSync(WEB_DIR + info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day + ".md", yamlify(convertDatesForWeb(_meta)) + resultRead);
