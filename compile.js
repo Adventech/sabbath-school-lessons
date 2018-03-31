@@ -194,6 +194,7 @@ glob("src/"+compile_language+"/", {}, function (er, files) {
 
     // Web
     fs.outputFileSync(files[i].replace(SOURCE_DIR, WEB_DIR) + "_index.md", yamlify({quarterlies: _quarterlies.map(function (q) {
+      q.path = q.path.replace(/quarterlies\//g, "");
       return convertDatesForWeb(q)
     }), type: "quarterly"}));
   }
