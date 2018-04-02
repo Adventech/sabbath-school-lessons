@@ -267,6 +267,8 @@ var quarterlyAPI = function(quarterlyPath){
   delete _quarterly.id;
   _quarterly.path = _quarterly.path.replace(/quarterlies\//g, "");
   _quarterly.lessons = _lessons.map(function(l){
+    l.path = l.path.replace(/quarterlies\//g, "");
+    l.path = l.path.replace(/lessons\//g, "");
     l.path_index = info.language + "/" + info.quarterly + "/" + l.id + "/01";
     return convertDatesForWeb(l);
   });
