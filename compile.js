@@ -49,7 +49,7 @@ var getCompilationQuarterValue = function(d) {
 
 var branch = argv.b,
     compile_language = argv.l || "*",
-    compile_quarter = argv.q || getCompilationQuarterValue();
+    compile_quarter = argv.q || "";
 
 var firebaseDeploymentTasks = [];
 
