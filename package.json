@@ -14,6 +14,7 @@
     "esrever": "^0.2.0",
     "firebase": "3.5.0",
     "fs-extra": "^0.30.0",
+    "glob": "^7.1.2",
     "meta-marked": "^0.4.2",
     "moment": "^2.15.1",
     "redis": "^2.6.2",

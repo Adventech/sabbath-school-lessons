@@ -67,4 +67,7 @@ languages:
   - native: नेपाली
     en: Nepali
     code: ne
+  - native: Македонски
+    en: Macedonian
+    code: mk
 ---
