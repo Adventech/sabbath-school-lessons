@@ -49,7 +49,7 @@ Le sceau de Dieu indique notre appartenance à Dieu, notre Créateur et Sauveur,
 
 #### ÉTAPE 1—Motiver
 
-**Pleins feux sur l’Écriture: Éphésiens 1:12-14
+**Pleins feux sur l’Écriture:** Éphésiens 1:12-14
 
 **Concept clé de croissance spirituelle:** Le sceau de Dieu est tout un processus qui implique l’œuvre de l’Esprit Saint, confirmant que nous avons « entendu la parole de la vérité » (Eph. 1:13, LSG). Cela signifie que le sceau n’est pas un badge magique et arbitraire. Tout comme la circoncision ou le baptême, le sceau de Dieu est un signe de l’alliance entre Dieu et Son peuple. Ce signe correspond à un état interne de la sainteté et se rapporte à la vie de foi. Le signe est vu dans le cœur des enfants de Dieu, dans l’intimité de leurs pensées et de leurs sentiments; il exprime leur amour pour Dieu. On le voit également dans la dynamique de leurs actions, qui exprime l’authenticité de leurs réponses à Dieu.
 
