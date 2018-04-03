@@ -75,7 +75,7 @@ Le sacrifice de l’agneau à la Pâque était un « type », pointant vers le s
 
 La même association de pensées se trouve dans le Nouveau Testament. Luc utilise le mot départ ou exodus en grec, pour faire référence à la mort de Jésus (Luc 9:31), donc faisant allusion à la libération spirituel et à l’effet rédempteur de Sa mort. Pourtant, quand Jean-Baptiste a identifié Jésus comme « l’agneau de Dieu », il ajouta une autre dimension surprenante à l’agneau pascal: la divinité. Car cet agneau était d’un caractère divin. L’expression « agneau de Dieu » signifie dans la grammaire hébraïque « l’agneau divin ». Pour Jean, Dieu était devenu cet agneau qui était immolé à la pâque. Significativement, « l’agneau » est le symbole le plus important et le plus fréquent dans le livre de l’Apocalypse, où il apparait du début jusqu’à la fin (Apocalypse 5:6, 22:3, etc.) Pour sauver l’humanité, le grand Dieu de l’univers s’est identifié à la victime la plus vulnérable.
 
-Considérez ceci: À la lumière de la déclaration de Jésus dans Luc 9:22, discutez des questions suivantes:
+**Considérez ceci:** À la lumière de la déclaration de Jésus dans Luc 9:22, discutez des questions suivantes:
 
 1. Pourquoi était-il nécessaire que Dieu meurt pour nos péchés?
 2. N’était-il pas possible que Dieu pardonne nos péchés sans avoir à mourir sur la croix? Expliquez.
