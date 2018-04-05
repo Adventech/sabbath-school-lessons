@@ -55,7 +55,7 @@ La Ley de Dios es el elemento más visible y más concreto de la religión bíbl
 
 **Solo para los maestros:** Muchos cristianos han rechazado la Ley. Confunden la observancia de la Ley con legalismo. Y, no obstante, en realidad la Ley no puede separarse del evangelio. ¿Por qué?
 
-Diálogo inicial: Muchos cristianos piensan que la ley del sábado podría aplicarse a cualquier día. Creen que Dios, que es eterno, no se preocupa por un día específico; o sostienen que, para ellos, el sábado se celebra todos los días, porque debemos adorar a Dios todos los días de la semana.
+**Diálogo inicial:** Muchos cristianos piensan que la ley del sábado podría aplicarse a cualquier día. Creen que Dios, que es eterno, no se preocupa por un día específico; o sostienen que, para ellos, el sábado se celebra todos los días, porque debemos adorar a Dios todos los días de la semana.
 
 **Preguntas para dialogar:**
 
