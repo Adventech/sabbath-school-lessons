@@ -51,7 +51,7 @@ El libro de Apocalipsis no solo es interesante y enigmático porque trata de los
 
 **Concepto clave para el crecimiento espiritual:** La clave del libro de Apocalipsis no depende únicamente de tu habilidad ni de tus destrezas para desbloquear sus símbolos. También depende de la forma en que respondes al llamado de Dios en este libro para arrepentirte y servir al Señor. Al contrario, el estudio diligente y atento de la Palabra de Dios debe iluminar y guiar tus buenas intenciones de ser piadoso y de complacer al Señor.
 
-####1: ¡Motiva!
+#### 1: ¡Motiva!
 
 **Solo para los maestros:** Desde el principio, el libro de Apocalipsis esboza los principios metodológicos que deben caracterizar cualquier enfoque de este libro. Se nos insta a “leer”, “oír” y “guardar”. La lectura es el primer paso fundamental. La verdad no se encuentra en nosotros mismos; debe encontrarse en un texto que ha sido inspirado por Dios. Se define como una “profecía” que debe “oírse”.
 
