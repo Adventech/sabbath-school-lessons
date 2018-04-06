@@ -70,4 +70,7 @@ languages:
   - native: Македонски
     en: Macedonian
     code: mk
+  - native: Eesti Keel
+    en: Estonian
+    code: et
 ---

@@ -210,3 +210,12 @@ title = "Sabbath School"
 	current = "Тековна"
 	archive = "Архива на лекција"
 	lang = "🇲🇰 Македонски"
+
+[params.et]
+	title = "Hingamispäevakooli Õppetükk"
+	back = "Mine tagasi"
+	all = "Kõik õppetunnid"
+	todaysLesson = "Tänane õppetund"
+	current = "Praegune kvartal"
+	archive = "Õppetundide arhiiv"
+	lang = "🇪🇪 Eesti keel"
