@@ -7,6 +7,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "cs": [
+    "cep",
     "kralicka-1613"
   ],
 
