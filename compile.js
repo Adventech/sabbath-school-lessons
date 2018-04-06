@@ -105,7 +105,7 @@ if (branch.toLowerCase() === "master"){
   });
   db = firebase.database();
 } else if (branch.toLowerCase() === "stage") {
-  API_HOST = "https://sabbath-school-stage.adventech.io/api/",
+  API_HOST = "https://sabbath-school-stage.adventech.io/api/";
     firebase.initializeApp({
       databaseURL: "https://sabbath-school-stage.firebaseio.com",
       serviceAccount: "deploy-creds-stage.json",
@@ -179,6 +179,19 @@ glob("src/"+compile_language+"/", {}, function (er, files) {
             }
           }
 
+          existingQuarterlies = existingQuarterlies.sort(function(a, b){
+            var s = a.index,
+                d = b.index;
+
+            if (s.length === 10) s += "_";
+            if (d.length === 10) d += "_";
+
+            if (s < d) return -1;
+            if (s > d) return 1;
+
+            return 0;
+          }).reverse();
+
           db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).set(existingQuarterlies, function (e) {
             cb(false, true);
           });
@@ -211,10 +224,9 @@ var quarterliesAPI = function(languagePath){
 
   // Getting files and sorting based on the quarterly type and year quarter
   var files = glob.sync(languagePath+compile_quarter+"*/").sort(function(a, b){
-    if (a.length === 7) a = a + "_";
+    if (a.length === 15) a = a + "_";
     if (a < b) return -1;
     if (a > b) return 1;
-
     return 0;
   }).reverse();
 
