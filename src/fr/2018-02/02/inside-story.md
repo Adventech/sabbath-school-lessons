@@ -3,7 +3,7 @@ title:  Histoire
 date:   13/04/2018
 ---
 
-### Mariage hawaïen: 2e partie
+#### Mariage hawaïen: 2e partie
 
 _Par Benjie Leach_
 
