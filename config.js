@@ -30,6 +30,10 @@ var BIBLE_PARSER_CONFIG = {
     "rvr1960"
   ],
 
+  "et": [
+    "eep"
+  ],
+
   "fa": [
     "opv-1896"
   ],
