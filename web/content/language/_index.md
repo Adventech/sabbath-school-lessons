@@ -73,4 +73,7 @@ languages:
   - native: Eesti Keel
     en: Estonian
     code: et
+  - native: Viti
+    en: Fijian
+    code: fj
 ---

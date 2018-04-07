@@ -39,6 +39,10 @@ var BIBLE_PARSER_CONFIG = {
     "opv-1896"
   ],
 
+  "fj": [
+    "fov"
+  ],
+
   "fr": [
     "lsg"
   ],
