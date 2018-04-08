@@ -76,4 +76,7 @@ languages:
   - native: Viti
     en: Fijian
     code: fj
+  - native: Magyar
+    en: Hungarian
+    code: hu
 ---
