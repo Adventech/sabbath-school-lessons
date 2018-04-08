@@ -90,6 +90,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "ru": [
+    "bti",
     "rusv"
   ],
 
