@@ -7,6 +7,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "cs": [
+    "cep",
     "kralicka-1613"
   ],
 
@@ -30,8 +31,16 @@ var BIBLE_PARSER_CONFIG = {
     "rvr1960"
   ],
 
+  "et": [
+    "eep"
+  ],
+
   "fa": [
     "opv-1896"
+  ],
+
+  "fj": [
+    "fov"
   ],
 
   "fr": [

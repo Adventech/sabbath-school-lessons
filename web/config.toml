@@ -210,3 +210,21 @@ title = "Sabbath School"
 	current = "Тековна"
 	archive = "Архива на лекција"
 	lang = "🇲🇰 Македонски"
+
+[params.et]
+	title = "Hingamispäevakooli Õppetükk"
+	back = "Mine tagasi"
+	all = "Kõik õppetunnid"
+	todaysLesson = "Tänane õppetund"
+	current = "Praegune kvartal"
+	archive = "Õppetundide arhiiv"
+	lang = "🇪🇪 Eesti keel"
+
+[params.fj]
+	title = "Lesoni ni Wilivola Vakasigatabu"
+	back = "Lesu tale"
+	all = "Lesoni taucoko"
+	todaysLesson = "Lesoni nikua"
+	current = "Ena gauna oqo ni vulatolu"
+	archive = "Akaivi ni lesoni"
+	lang = "🇫🇯 Viti"
