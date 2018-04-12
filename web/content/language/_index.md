@@ -82,4 +82,7 @@ languages:
   - native: Italiano
     en: Italian
     code: it
+  - native: ไทย
+    en: Thai
+    code: th
 ---

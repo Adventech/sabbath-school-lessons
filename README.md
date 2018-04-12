@@ -50,6 +50,7 @@ Below is current list of languages and capabilities implemented
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
+|🇹🇭 Thai|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇹🇷 Turkish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 
@@ -88,6 +89,7 @@ Below is current list of languages and capabilities implemented
 | 🇷🇺 -AY |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇷🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇷🇸 -CQ |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🇹🇭  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇹🇷  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇺🇦  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇨🇳  |  ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -104,7 +106,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Hebrew Language 🇮🇱
 - [x] Add Estonian Language 🇪🇪
 - [x] Add Italian Language 🇮🇹
-- [ ] Add Thai Language 🇹🇭
+- [x] Add Thai Language 🇹🇭
 - [x] Add Danish Language 🇩🇰
 - [x] Add Norwegian Language 🇳🇴
 - [x] Add Korean Language 🇰🇷

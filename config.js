@@ -108,6 +108,10 @@ var BIBLE_PARSER_CONFIG = {
     "biblija"
   ],
 
+  "th": [
+    "th-1971"
+  ],
+
   "tr": [
     "kitab"
   ],
