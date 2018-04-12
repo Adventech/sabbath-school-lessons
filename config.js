@@ -47,6 +47,10 @@ var BIBLE_PARSER_CONFIG = {
     "lsg"
   ],
 
+  "it": [
+    "nr2006"
+  ],
+
   "he": [
     "em-1865"
   ],

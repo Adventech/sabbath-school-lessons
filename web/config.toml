@@ -237,3 +237,12 @@ title = "Sabbath School"
 	current = "Aktuális"
 	archive = "Leckearchívum"
 	lang = "🇭🇺 Magyar"
+
+[params.it]
+	title = "Scuola del Sabato"
+	back = "Torna indietro"
+	all = "Vedi tutto"
+	todaysLesson = "Lezione di oggi"
+	current = "Attuale"
+	archive = "Archivio lezioni"
+	lang = "🇮🇹 Italiano"

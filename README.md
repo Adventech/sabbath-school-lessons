@@ -31,12 +31,16 @@ Below is current list of languages and capabilities implemented
 |🇨🇳 Chinese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇨🇿 Czech|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇩🇰 Danish|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
-|🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
+|🇪🇪 Estonian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
+|🇫🇯 Fijian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
+|🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇮🇱 Hebrew|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
+|🇭🇺 Hungarian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
 |🇯🇵 Japanese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇮🇩 Indonesian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
+|🇮🇹 Italian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇰🇷 Korean|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇲🇾 Malay|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
 |🇳🇵 Nepali|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
@@ -67,9 +71,12 @@ Below is current list of languages and capabilities implemented
 | 🇪🇸 -JO |  ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇪🇪  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇮🇷  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🇫🇯  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🇫🇯  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇫🇷  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇮🇱  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🇭🇺  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🇮🇩  |  ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🇮🇹  |  ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇯🇵  |  ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇰🇷  |  ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇲🇰  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -96,7 +103,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Farsi Language 🇮🇷
 - [x] Add Hebrew Language 🇮🇱
 - [x] Add Estonian Language 🇪🇪
-- [ ] Add Italian Language 🇮🇹
+- [x] Add Italian Language 🇮🇹
 - [ ] Add Thai Language 🇹🇭
 - [x] Add Danish Language 🇩🇰
 - [x] Add Norwegian Language 🇳🇴

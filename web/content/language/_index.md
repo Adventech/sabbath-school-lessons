@@ -79,4 +79,7 @@ languages:
   - native: Magyar
     en: Hungarian
     code: hu
+  - native: Italiano
+    en: Italian
+    code: it
 ---
