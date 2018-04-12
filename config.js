@@ -90,6 +90,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "no": [
+    "nb-bibelen-2011",
+    "nb-bibelen-1975",
     "nb-bibelen-1930"
   ],
 
