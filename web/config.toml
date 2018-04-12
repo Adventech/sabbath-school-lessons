@@ -228,3 +228,12 @@ title = "Sabbath School"
 	current = "Ena gauna oqo ni vulatolu"
 	archive = "Akaivi ni lesoni"
 	lang = "🇫🇯 Viti"
+
+[params.hu]
+	title = "Szombatiskolai"
+	back = "Visszalépés"
+	all = "Összes megtekintése"
+	todaysLesson = "A mai lecke"
+	current = "Aktuális"
+	archive = "Leckearchívum"
+	lang = "🇭🇺 Magyar"

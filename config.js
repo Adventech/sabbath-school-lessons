@@ -51,6 +51,10 @@ var BIBLE_PARSER_CONFIG = {
     "em-1865"
   ],
 
+  "hu": [
+    "mb1975"
+  ],
+
   "ja": [
     "kougo-yaku",
     "jlb"
@@ -90,6 +94,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "ru": [
+    "bti",
     "rusv"
   ],
 
