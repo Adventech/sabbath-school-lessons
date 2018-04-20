@@ -322,7 +322,7 @@ var lessonAPI = function(lessonPath){
   lesson.index = info.language + "-" + info.quarterly + "-" + info.lesson;
   lesson.path = info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson;
   lesson.full_path = API_HOST + API_VERSION + "/" + lesson.path;
-  lesson.cover = API_HOST + API_VERSION + "/images/global/" + info.quarterly + "/" + info.lesson + "/" + SOURCE_COVER_FILE;
+  lesson.cover = API_HOST + API_VERSION + "/images/global/" + info.quarterly.slice(0, 7) + "/" + info.lesson + "/" + SOURCE_COVER_FILE;
 
   try {
     fs.lstatSync(lessonPath + "/" + SOURCE_COVER_FILE);
