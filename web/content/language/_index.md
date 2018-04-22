@@ -85,4 +85,7 @@ languages:
   - native: ไทย
     en: Thai
     code: th
+  - native: தமிழ்
+    en: Tamil
+    code: ta
 ---

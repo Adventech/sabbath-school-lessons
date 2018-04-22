@@ -108,6 +108,11 @@ var BIBLE_PARSER_CONFIG = {
     "biblija"
   ],
 
+  "ta": [
+    "tbov",
+    "ervta"
+  ],
+
   "th": [
     "th-1971"
   ],
