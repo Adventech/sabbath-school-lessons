@@ -47,6 +47,10 @@ var BIBLE_PARSER_CONFIG = {
     "lsg"
   ],
 
+  "it": [
+    "nr2006"
+  ],
+
   "he": [
     "em-1865"
   ],
@@ -86,6 +90,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "no": [
+    "nb-bibelen-2011",
+    "nb-bibelen-1975",
     "nb-bibelen-1930"
   ],
 
@@ -100,6 +106,15 @@ var BIBLE_PARSER_CONFIG = {
 
   "sr": [
     "biblija"
+  ],
+
+  "ta": [
+    "tbov",
+    "ervta"
+  ],
+
+  "th": [
+    "th-1971"
   ],
 
   "tr": [
