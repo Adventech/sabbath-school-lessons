@@ -5,8 +5,8 @@
   "main": "compile.js",
   "dependencies": {
     "adventech-bible-tools": "git+https://github.com/Adventech/bible-tools.git",
-    "async": "^2.6.0",
-    "change-case": "^3.0.2",
+    "async": "^2.1.2",
+    "change-case": "^3.0.1",
     "cheerio": "^0.22.0",
     "columnify": "^1.5.4",
     "crypto": "0.0.3",
@@ -16,10 +16,9 @@
     "fs-extra": "^0.30.0",
     "glob": "^7.1.2",
     "meta-marked": "^0.4.2",
-    "moment": "^2.22.1",
-    "npm": "^6.0.1",
+    "moment": "^2.15.1",
     "redis": "^2.6.2",
-    "request": "^2.85.0",
+    "request": "^2.76.0",
     "safe-write-file": "^1.1.0",
     "yamljs": "^0.2.7"
   },
