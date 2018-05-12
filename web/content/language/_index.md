@@ -88,4 +88,7 @@ languages:
   - native: தமிழ்
     en: Tamil
     code: ta
+  - native: Afrikaans
+    en: Afrikaans
+    code: af
 ---

@@ -112,7 +112,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Norwegian Language 🇳🇴
 - [x] Add Korean Language 🇰🇷
 - [x] Add Chinese Simplified Language 🇨🇳
-- [ ] Add Afrikaans Language 🇿🇦
+- [x] Add Afrikaans Language 🇿🇦
 - [ ] Add Malayalam Language 🇧🇳 🇲🇾
 - [x] Add Nepali Language 🇳🇵
 - [ ] Add SiSwati Language 🇸🇿

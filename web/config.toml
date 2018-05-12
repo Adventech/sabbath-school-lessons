@@ -264,3 +264,12 @@ title = "Sabbath School"
 	current = "தற்போதைய பாடம்"
 	archive = "பாடம் காப்பகம்"
 	lang = "🇮🇳 தமிழ்"
+
+[params.af]
+	title = "Sabbatskool"
+	back = "Gaan terug"
+	all = "Sien alles"
+	todaysLesson = "Vandag se les"
+	current = "Huidige"
+	archive = "Lesargief"
+	lang = "🇿🇦 Afrikaans"
