@@ -44,3 +44,5 @@ TMI를 실천했습니다.
 의 열매로 보답 받을 수 있기를 기도드립니다.
 
 _서중한합회 죽산다사랑교회_
+
+![img03](https://user-images.githubusercontent.com/10376491/39669908-533559b6-50be-11e8-81c9-a1895f5c7aae.jpg)
