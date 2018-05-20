@@ -1,4 +1,7 @@
 var BIBLE_PARSER_CONFIG = {
+  "af": [
+    "afr83"
+  ],
   "ar": [
     "svd"
   ],
