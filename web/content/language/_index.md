@@ -91,4 +91,7 @@ languages:
   - native: Afrikaans
     en: Afrikaans
     code: af
+  - native: Việt
+    en: Vietnamese
+    code: vi
 ---

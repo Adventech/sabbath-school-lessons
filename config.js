@@ -130,6 +130,11 @@ var BIBLE_PARSER_CONFIG = {
 
   "zh": [
     "cuvs"
+  ],
+
+  "vi": [
+    "rvv11",
+    "bpt"
   ]
 };
 
