@@ -273,3 +273,12 @@ title = "Sabbath School"
 	current = "Huidige"
 	archive = "Lesargief"
 	lang = "🇿🇦 Afrikaans"
+
+[params.vi]
+	title = "Bài học Sa-bát"
+	back = "Quay lại"
+	all = "Xem tất cả"
+	todaysLesson = "Bài học hôm nay"
+	current = "Bài học hiện tại"
+	archive = "Bài học lưu trữ"
+	lang = "🇻🇳 Việt"
