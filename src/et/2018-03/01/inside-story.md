@@ -3,7 +3,7 @@ title:  Misjonilugu
 date:   06/07/2018
 ---
 
-### „Tahan inimesi tappa“
+#### „Tahan inimesi tappa“
 
 Li Fengyani mobiiltelefon helises läbilõikavalt
 
@@ -59,4 +59,4 @@ hingamispäeva annetuse eest,“ ütles pastor Yu. „Palvetage
 meie pärast, kui kasvame.“
 
 _Vaata Li Fengyani laulmas hiina keeles „Mind Jeesus armastab“
-aadressil: bit.ly/want-to-kill._
+aadressil: http://bit.ly/want-to-kill _
