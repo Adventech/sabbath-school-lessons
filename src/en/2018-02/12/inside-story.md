@@ -33,8 +33,8 @@ An hour later, Helen found herself going door to door in a more affluent neighbo
 
 Helen was startled. She had never seen the woman before.
 
-“I am a Seventh-day Adventist”, the woman said. “This morning as I was reading my Bible I was impressed by God that Helen would come to my door. I was also impressed that I needed to write a check for $20 because Helen would meet a man who needs ‘The Great Controversy’ but would not have the money to buy it”.
+“I am a Seventh-day Adventist”, the woman said. “This morning as I was reading my Bible I was impressed by God that Helen would come to my door. I was also impressed that I needed to write a check for 20 dollars because Helen would meet a man who needs ‘The Great Controversy’ but would not have the money to buy it”.
 
-The woman pulled out a signed check made out to the sum of $20. She only needed to add the name of the recipient. “Who do I make this check out to?” she said.
+The woman pulled out a signed check made out to the sum of 20 dollars. She only needed to add the name of the recipient. “Who do I make this check out to?” she said.
 
 *Kamil Metz is international coordinator for the GLOW tracts ministry.*

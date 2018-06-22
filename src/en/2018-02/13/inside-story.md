@@ -35,7 +35,7 @@ At the baptism, the pastor declared, “Here is a trophy hunter who is now a hun
 
 Danny’s father and stepmother were baptized the following Sabbath. Other people also have joined the church through Danny’s influence.
 
-At work, Danny told clients that they could no longer hunt on Saturdays. Instead, he said, they could enjoy the day in nature at no cost. With trips costing $1,500 a day, clients happily embraced the new pricing plan.
+At work, Danny told clients that they could no longer hunt on Saturdays. Instead, he said, they could enjoy the day in nature at no cost. With trips costing 1,500 a day, clients happily embraced the new pricing plan.
 
 Two years later, Danny sold his flourishing business. He also lost his desire to be in the elite.
 
