@@ -84,6 +84,10 @@ var BIBLE_PARSER_CONFIG = {
     "krv"
   ],
 
+  "lo": [
+    "lb"
+  ],
+
   "mk": [
     "MKB"
   ],
@@ -137,7 +141,6 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "vi": [
-    "rvv11",
     "bpt"
   ]
 };
