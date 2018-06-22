@@ -97,4 +97,7 @@ languages:
   - native: Ελληνικά
     en: Greek
     code: el
+  - native: ລາວ
+    en: Lao
+    code: lo
 ---
