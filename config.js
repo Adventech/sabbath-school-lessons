@@ -24,6 +24,10 @@ var BIBLE_PARSER_CONFIG = {
     "luth1912"
   ],
 
+  "el": [
+    "fpb1994"
+  ],
+
   "en": [
     "nasb",
     "nkjv",

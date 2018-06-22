@@ -94,4 +94,7 @@ languages:
   - native: Việt
     en: Vietnamese
     code: vi
+  - native: Ελληνικά
+    en: Greek
+    code: el
 ---
