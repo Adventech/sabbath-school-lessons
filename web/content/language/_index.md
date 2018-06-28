@@ -100,4 +100,7 @@ languages:
   - native: ລາວ
     en: Lao
     code: lo
+  - native: Polski
+    en: Polish
+    code: pl
 ---

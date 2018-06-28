@@ -106,6 +106,10 @@ var BIBLE_PARSER_CONFIG = {
     "nb-bibelen-1930"
   ],
 
+  "pl": [
+    "bw1975"
+  ],
+
   "ro": [
     "rmnn"
   ],

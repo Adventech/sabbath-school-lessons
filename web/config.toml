@@ -300,3 +300,12 @@ title = "Sabbath School"
 	current = "ບົດຮຽນທີ່ຜ່ານມາ"
 	archive = "ຮວບຮວມບົດຮຽນ"
 	lang = "🇱🇦 ລາວ"
+
+[params.pl]
+	title = "Szkoła Sabatowa"
+	back = "Wróć"
+	all = "Wszystkie lekcje"
+	todaysLesson = "Dzisiejsza lekcja"
+	current = "Aktualna lekcja"
+	archive = "Archiwum lekcji"
+	lang = "🇵🇱 Polski"
