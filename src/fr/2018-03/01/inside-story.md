@@ -27,4 +27,4 @@ La mère s’est débarrassée de l’idole et quelques mois plus tard, elle et 
 
 Huit personnes furent baptisées dans l’Église chinoise de Tokyo en raison de son influence. L’Église chinoise de Tokyo, seule Église Adventiste de langue chinoise au Japon, a commencé avec environ cinq membres en 2012, grâce à l’appui d’une offrande du treizième sabbat. Aujourd’hui, l’église compte environ 50 membres et envisage de doubler la taille de son temple. « Priez pour nous alors que nous grandissons », dit le pasteur Yu.
 
-Vous pouvez suivre Li Fengyan, à gauche, chanter dans l’église sur bit.ly/want-to-kill.
+_Vous pouvez suivre Li Fengyan, à gauche, chanter dans l’église sur bit.ly/want-to-kill._
