@@ -39,6 +39,7 @@ var LOCALE_VARS = {
     "cs": "Lekce",
     "da": "Lektie",
     "de": "Tägliche Lektion",
+    "el": "Μάθημα",
     "en": "Daily Lesson",
     "es": "Lección",
     "et": "Õppetund",
@@ -52,6 +53,8 @@ var LOCALE_VARS = {
     "ne": "पाठ",
     "no": "Lekse",
     "ko": "교훈",
+    "lo": "ບົດຮຽນ",
+    "pl": "Lekcja",
     "pt": "Lição",
     "ro": "Lecție zilnică",
     "ru": "Урок",
@@ -62,7 +65,7 @@ var LOCALE_VARS = {
     "uk": "Урок",
     "ja": "日課",
     "zh": "每日课程",
-    "ht": "每日課程"
+    "vi": "Bài"
   },
 
   "empty_placeholder": {
@@ -72,6 +75,7 @@ var LOCALE_VARS = {
     "cs": "### <center>Na této lekci pracujeme.</center>\n<center>Prosim zkuste to znovu pozdeji.</center>",
     "da": "### <center>Vi arbejder på denne lektion.</center>\n<center>Prøv igen senere.</center>",
     "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
+    "el": "### <center>Εργαζόμαστε σε αυτό το μάθημα</center>\n<center>Παρακαλώ ελάτε ξανά αργότερα</center>",
     "en": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
     "es": "### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>",
     "et": "### <center>Me töötame sellel õppetükil. Palun tulge tagasi hiljem.</center>",
@@ -85,6 +89,8 @@ var LOCALE_VARS = {
     "ne": "### <center>हामी यस पाठमा काम गरिरहेका छौं</center>\n<center>फेरी प्रयास गर्नु होला</center>",
     "no": "### <center>Vi jobber med denne leksjonen.</center>\n<center>Prøv igjen senere.</center>",
     "ko": "### <center>우리는이 공과를 위해 노력하고있다..</center>\n<center>나중에 다시 시도 해주십시오..</center>",
+    "lo": "### <center>ພວກເຮົາກໍາລັງເຮັດວຽກໃນບົດຮຽນນີ້.</center>\n<center>ກະລຸນາກັບຄືນມາຫຼັງຈາກນັ້ນ.</center>",
+    "pl": "### <center>Pracujemy nad tą lekcją.</center>\n<center>Proszę przyjść później.</center>",
     "pt": "### <center>Estamos a trabalhar sobre esta lição.</center>\n<center>Volte mais tarde, por favor.</center>",
     "ro": "### <center>Lucrăm la această lecție.</center>\n<center>Te rog intoarce-te mai tarziu.</center>",
     "ru": "### <center>Мы подготавливаем данный урок</center>\n<center>Попробуйте позже</center>",
@@ -95,7 +101,7 @@ var LOCALE_VARS = {
     "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>",
     "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
     "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
-    "ht": "### <center>我們正在學習這一課。請稍後再來。</center>"
+    "vi": "### <center>Chúng tôi đang làm việc trên bài học này.</center>\n<center>Xin vui lòng trở lại sau.</center>"
   },
 
   "teacher_comments": {
@@ -118,6 +124,7 @@ var LOCALE_VARS = {
     "ne": "Teacher Comments",
     "no": "Teacher Comments",
     "ko": "교사의 의견",
+    "lo": "Teacher Comments",
     "pt": "Moderador",
     "ro": "Teacher Comments",
     "ru": "Комментарий для Учителей",
@@ -128,7 +135,7 @@ var LOCALE_VARS = {
     "uk": "Teacher Comments",
     "ja": "Teacher Comments",
     "zh": "Teacher Comments",
-    "ht": "Teacher Comments"
+    "vi": "Teacher Comments"
   },
 
   "inside_story": {
@@ -151,6 +158,7 @@ var LOCALE_VARS = {
     "ne": "कथा",
     "no": "Misjonsfortelling",
     "ko": "선교 이야기",
+    "lo": "Inside Story",
     "pt": "Inside Story",
     "ro": "Inside Story",
     "ru": "Миссионерская история",
@@ -161,7 +169,7 @@ var LOCALE_VARS = {
     "uk": "Місіонерська історія",
     "ja": "Inside Story",
     "zh": "Inside Story",
-    "ht": "Inside Story"
+    "vi": "Inside Story"
   }
 };
 

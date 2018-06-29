@@ -91,4 +91,19 @@ languages:
   - native: Afrikaans
     en: Afrikaans
     code: af
+  - native: Việt
+    en: Vietnamese
+    code: vi
+  - native: Ελληνικά
+    en: Greek
+    code: el
+  - native: ລາວ
+    en: Lao
+    code: lo
+  - native: Polski
+    en: Polish
+    code: pl
+  - native: Svenska
+    en: Swedish
+    code: sv
 ---
