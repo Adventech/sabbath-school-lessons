@@ -309,3 +309,12 @@ title = "Sabbath School"
 	current = "Aktualna lekcja"
 	archive = "Archiwum lekcji"
 	lang = "🇵🇱 Polski"
+
+[params.sv]
+	title = "Sabbatsskola"
+	back = "Gå tillbaka"
+	all = "Alla lektioner"
+	todaysLesson = "Dagens lektion"
+	current = "Nuvarande lektion"
+	archive = "Lektionsarkiv"
+	lang = "🇸🇪 Svenska"

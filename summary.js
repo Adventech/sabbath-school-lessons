@@ -28,10 +28,12 @@ var SOURCE_DIR = "src/",
         "no": "🇳🇴",
         "ne": "🇳🇵",
         "ja": "🇯🇵",
+        "pl": "🇵🇱",
         "pt": "🇵🇹",
         "ro": "🇷🇴",
         "ru": "🇷🇺",
         "sr": "🇷🇸",
+        "sv": "🇸🇪",
         "ta": "🇮🇳",
         "th": "🇹🇭",
         "tr": "🇹🇷",
@@ -45,7 +47,7 @@ var SOURCE_DIR = "src/",
 
 var getQuarterlyPrefix = function(d) {
     d = d || new Date();
-    var quarterIndex = (Math.ceil((d.getMonth()+1)/3));
+    var quarterIndex = (Math.ceil((d.getMonth()+1)/3))+1;
     return d.getFullYear() + "-0" + quarterIndex;
 };
 

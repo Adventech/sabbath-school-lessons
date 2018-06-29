@@ -103,4 +103,7 @@ languages:
   - native: Polski
     en: Polish
     code: pl
+  - native: Svenska
+    en: Swedish
+    code: sv
 ---

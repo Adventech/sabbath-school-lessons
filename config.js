@@ -123,6 +123,10 @@ var BIBLE_PARSER_CONFIG = {
     "biblija"
   ],
 
+  "sv": [
+    "sf1998"
+  ],
+
   "ta": [
     "tbov",
     "ervta"
