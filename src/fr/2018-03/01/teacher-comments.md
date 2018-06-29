@@ -3,11 +3,11 @@ title:  Commentaires Moniteurs
 date:   06/07/2018
 ---
 
-### La leçon en bref
+## La leçon en bref
 
 **Texte clé**: Actes 1:1-8, Luc 24:50-53
 
-#### Objectifs:
+### Objectifs:
 
 **Savoir**: Reconnaitre la continuité de la mission rédemptrice de Jésus.
 
@@ -15,7 +15,7 @@ date:   06/07/2018
 
 **Agir**: Examiner dans quelle mesure nous sommes engagés à la proclamation de l’évangile, en tant que disciples de Christ.
 
-#### Plan de l’étude:
+### Plan de l’étude:
 
 **I. Savoir: La continuité de la mission rédemptrice de Dieu**
 
@@ -31,13 +31,13 @@ B. L’élargissement historique de l’église n’était pas uniquement le ré
 	
 A. Puisque les Actes des apôtres est une chronique inachevée de la croissance de l’église qui exige votre participation, quel est votre engagement pour atteindre cet objectif?
 
-#### Résumé:
+### Résumé:
 
 L’ordre de Jésus ressuscité à Ses disciples est d’annoncer Son message du salut. Il fournit également la puissance pour accomplir cet ordre. « Vous recevrez une puissance, le Saint-Esprit survenant sur vous » (Actes 1:8, LSG). Comment avez-vous reçu cet ordre? Comment avez-vous été saisi par cette puissance?
 
-### Cycle d’apprentissage
+## Cycle d’apprentissage
 
-#### Étape 1—Motiver
+### Étape 1—Motiver
 
 **Pleins feux sur l’Écriture:** Luc 24:50-52, Actes 1:6-8
 
@@ -47,7 +47,7 @@ L’ordre de Jésus ressuscité à Ses disciples est d’annoncer Son message du
 
 **Discussion d’ouverture:** Actes 28:24 fait une déclaration remarquable: « Les uns furent persuadés… et les autres ne crurent point » (LSG). Ces quelques paroles crient à l’univers que Jésus est le juge ultime de l’humanité. Si vous L’acceptez, la vie éternelle est la vôtre. Si vous Le rejetez, la damnation est la vôtre. Avec cette conclusion du livre des Actes, Luc clôt son récit sur l’église avec un défi à ceux qui acceptent Jésus: prêchez le royaume de Dieu; apprenez tout sur Jésus avec confiance. Pourquoi peut-on estimer que, en tant que chrétiens, nous n’avons aucune autre plus grande responsabilité que celle-ci?
 
-#### Étape 2—Explorer
+### Étape 2—Explorer
 
 **Coin du moniteur**: Actes 1:1 nous dit qu’avant que le livre des Actes fût écrit, son auteur avait écrit un « premier » livre (LSG). Les récits – le troisième évangile et le livre des Actes (Luc 1:3, Actes 1:1) – sont adressés à Théophile, un noble grec, riche et instruit. Théophile est un ami de Luc et peut-être un nouveau converti en Christ. Étant donné que les Actes et le troisième évangile sont adressés à Théophile, l’église primitive a communément admis que les deux récits sont écrits par un seul auteur, Luc. Les deux récits de Luc, mis ensemble, peuvent être nommés « Origine et histoire de l’église chrétienne ». Le premier récit traite de la vie et des enseignements de Jésus-Christ. Le deuxième traite de la propagation de l’évangile de Jérusalem à Rome.
 
@@ -75,7 +75,7 @@ _Mission_: L’assurance de Christ qu’Il reviendra pour établir Son royaume, 
 
 Combien et comment êtes-vous impliqué dans cette mission?
 
-#### Étape 3—Appliquer
+### Étape 3—Appliquer
 
 **Coin du moniteur**: Dans l’étude des Actes chapitre 1 jusqu’ici, nous avons observé trois vérités sur le royaume: (1) nous avons vu le désir ardent des disciples de Christ de l’établissement de Son Royaume. (2) Nous avons vu qu’avec l’assurance de Jésus ressuscité, le royaume n’admet ni retard ni incertitude. (3) Nous avons constaté que la proclamation du royaume et son message salvateur s’adressent au monde entier. Il y a un domaine, nous dit Actes 1, qui n’était pas encore clair dans la mission globale du royaume: l’occupation des postes de direction.
 
@@ -83,7 +83,7 @@ Combien et comment êtes-vous impliqué dans cette mission?
 
 Ac. 1:15-26 énonce deux qualifications clés. (1) L’expérience personnelle avec Jésus (Actes 1:21): un leadeur potentiel doit avoir vécu avec Jésus « depuis le baptême… jusqu’au jour où Il a été enlevé du milieu de nous » (Ac.1:21, 22, LSG). L’enseignement, la théologie, la culture, la gestion et la persuasion sont toutes des compétences que l’église peut utiliser, mais aucune de ces compétences ne peut se substituer à la connaissance personnelle de Jésus, cœur à cœur, esprit à esprit, seul à seul. (2) Un « témoin de Sa résurrection » (Ac. 1:22, LSG): la résurrection ne peut être isolée de la croix. La croix justifie le plan rédempteur de Dieu pour le péché, et la résurrection offre l’espérance de la nouveauté. On ne peut pas être un chrétien, et encore moins un leadeur chrétien, sans éprouver la puissance de la croix et du tombeau vide. L’expérience personnelle de la puissance de la résurrection est impérative pour annoncer l’évangile (1 Cor. 15:8).
 
-#### Étape 4—Créer
+### Étape 4—Créer
 
 **Coin du moniteur**: « Dieu prend les hommes tels qu’ils sont et les façonne pour Son service s’ils se soumettent à Lui.... Le caractère faible et vacillant devient fort et ferme. Par une adoration continuelle, le chrétien crée, entre lui et Jésus, une relation si étroite qu’il Lui devient peu à peu semblable par l’esprit et le caractère. » – Ellen G. White, Jésus-Christ, pp. 233, 234.
 
