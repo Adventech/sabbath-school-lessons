@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   07.07.2018
+date:   07/07/2018
 ---
 
 Ihr werdet meine Zeugen sein
