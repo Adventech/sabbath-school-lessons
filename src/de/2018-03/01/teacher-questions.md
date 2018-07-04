@@ -113,3 +113,5 @@ aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen.
 
 -   Wie möchtest du in der kommenden Woche Jesu Zeuge sein?
+
+<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
