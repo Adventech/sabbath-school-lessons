@@ -31,7 +31,8 @@ var BIBLE_PARSER_CONFIG = {
   "en": [
     "nasb",
     "nkjv",
-    "kjv"
+    "kjv",
+    "niv"
   ],
 
   "es": [
