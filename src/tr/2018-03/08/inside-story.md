@@ -1,0 +1,7 @@
+---
+title:  İman hayati
+date:   24/08/2018
+---
+
+### <center>Biz bu derste üzerinde çalışıyoruz.</center>
+<center>Lütfen daha sonra gelin.</center>
