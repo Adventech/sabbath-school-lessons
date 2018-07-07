@@ -20,7 +20,7 @@ date:   06/07/2018
 
 A. ¿Cómo sabemos que las buenas nuevas de la salvación es una historia continua de la misión redentora de Dios para los pecadores?
 
-** II. Sentir: El poder de los inicios de la iglesia**
+**II. Sentir: El poder de los inicios de la iglesia**
 
 A. ¿Qué significa decir que la difusión del evangelio no dependía de la inteligencia ni de la planificación humanas, sino del poder del Espíritu Santo?
 
