@@ -40,7 +40,8 @@ En Pentecostés, cuando los discípulos estaban unánimes en estudio y oración,
 ### CICLO DE APRENDIZAJE
 
 **Texto destacado**: Hechos 2:38.
-Concepto clave para el crecimiento espiritual:Aunque Pentecostés no es el primer derramamiento del Espíritu Santo sobre el pueblo de Dios, nunca debemos olvidar que el derramamiento del Espíritu Santo en Pentecostés representa un hecho poderoso en la historia de la redención. El Jesús resucitado pasó cuarenta días con sus discípulos, sin duda enseñándoles el significado de la cruz y la tumba vacía, sobre el cumplimiento de la promesa de que no dejaría indefensos a sus seguidores después de su ascensión (Juan 14:16, 17), y del derramamiento del Espíritu para cumplir la gran comisión evangélica (Mat. 28:19, 20; Hech. 1:8). El Espíritu que estuvo presente en la creación y en la experiencia del nuevo nacimiento (Juan 3:5) es también el Espíritu que concluirá la comisión evangélica.
+
+**Concepto clave para el crecimiento espiritual**: Aunque Pentecostés no es el primer derramamiento del Espíritu Santo sobre el pueblo de Dios, nunca debemos olvidar que el derramamiento del Espíritu Santo en Pentecostés representa un hecho poderoso en la historia de la redención. El Jesús resucitado pasó cuarenta días con sus discípulos, sin duda enseñándoles el significado de la cruz y la tumba vacía, sobre el cumplimiento de la promesa de que no dejaría indefensos a sus seguidores después de su ascensión (Juan 14:16, 17), y del derramamiento del Espíritu para cumplir la gran comisión evangélica (Mat. 28:19, 20; Hech. 1:8). El Espíritu que estuvo presente en la creación y en la experiencia del nuevo nacimiento (Juan 3:5) es también el Espíritu que concluirá la comisión evangélica.
 
 #### 1: ¡Motiva!
 
