@@ -51,10 +51,12 @@ Below is current list of languages and capabilities implemented
 |🇳🇵 Nepali|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇳🇴 Norwegian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇮🇷 Persian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
+|🇵🇱 Polish|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
+|🇸🇪 Swedish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇹🇭 Thai|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇮🇳 Tamil|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇹🇷 Turkish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
