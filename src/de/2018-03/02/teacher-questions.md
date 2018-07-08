@@ -69,32 +69,58 @@ Teil 2: Wir studieren die Bibel
         auch bestimmte astronomische Phänomene. Warum zitiert Petrus
         diesen Vers schon zu Pfingsten, wo die Wiederkunft doch noch
         Jahrtausende in der Zukunft lag?
--   Fragen zur Botschaft:
+-   weiterführende Fragen:
     -   Wie gehen wir damit um, dass schon vergangene Generationen die
         Wiederkunft Jesu sehr nah erwarteten, sie aber immer noch
         ausbleibt?
 
-**Apostelgeschichte 2,22-**
+**Apostelgeschichte 2,22-32**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   An welche Personengruppe wendet sich Petrus hier? (Suche nach
+        Hinweisen im Text!)
+    -   Gib die Hauptaussage der Verkündigung des Petrus in wenigen
+        Sätzen wider!
+    -   Welche Schwerpunkte setzte Petrus in seiner Ansprache?
+-   weiterführende Fragen:
+    -   Warum betont Petrus so sehr die Auferstehung und die Vorhersagen
+        darauf?
+    -   Wie passt es zusammen, dass der Tod Jesu einerseits "durch
+        Ratschluss und Vorhersehung Gottes" geschah, andererseits Petrus
+        aber Menschen die Verantwortung dafür gibt ("habt ihr durch die
+        Hand der Heiden ans Kreuz geschlagen und getötet")?
 
-**Text**
+**Apostelgeschichte 2,33-36**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Mit welchen himmlischen Ereignissen steht das Pfingstereignis im
+        Zusammenhang?
+    -   Wer hat zuerst den Heiligen Geist empfangen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche heilsgeschichtliche Phase wurde durch das Pfingstereignis
+        eingeläutet? (ggf. Mit welchem Geschehen im Heiligtum läuft das
+        Pfingstereignis parallel?)
+    -   Ist Pfingsten nur ein einmaliges heilsgeschichtliches Ereignis
+        oder eine stets wiederkehrende Notwendigkeit? Oder beides?
+        Begründe deine Meinung?
+
+**Apostelgeschichte 2,37-38**
+
+-   Fragen zum Text:
+    -   Welche Fragen stellen sich diejenigen, die durch die geistliche
+        Botschaft berührt wurden?
+    -   Welche Schritte gehen dem Empfang des Heiligen Geistes laut 2,38
+        voraus?
+-   Fragen zur Botschaft:
+    -   Wie können wir heute Menschen dahin führen, dass sie ihre Sünden
+        erkennen, bereuen und sich taufen lassen?
+    -   Die Notwendigkeit von Sündenvergebung ist in unserer
+        Gesellschaft nicht mehr präsent oder sogar verpönt. Wie können
+        wir das Konzept von Sünde und Erlösungsbedürftigkeit zeitgemäß
+        erklären? Wie reagierst du auf den Vorwurf, dass das Christentum
+        nur Schuldgefühle bei den Menschen wecken will?
+    -   Wann wurdest du zuletzt von einer Botschaft so angesprochen,
+        dass du daraufhin eine Umkehr erlebt hast?
 
 Teil 3: Mission
 ---------------
