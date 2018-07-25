@@ -22,8 +22,7 @@ Teil 2: Wir studieren die Bibel
 Hier sollen die Hauptaussagen der Texte gefunden und vertieft werden,
 sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 
-Startfrage(n)
--------------
+### Startfrage(n)
 
 -   Wie kann man mit strittigen Fragen gut umgehen?
 -   Wie soll/kann man die Klärung eines Problems/einer Streitigkeit
@@ -31,7 +30,7 @@ Startfrage(n)
 
 ### Sonntag: Der strittige Punkt
 
--   Fragen zum Text:
+-   Apostelgeschichte 15,1-5
     -   Was zeigen die Worte „Aufruhr“ und „nicht geringer Streit“
         (Vers 2) über die damalige Gemeinde?
 
@@ -80,7 +79,6 @@ Startfrage(n)
         heidnischen Praktiken?
     -   Wie wichtig ist eine sichtbare, konsequente christliche Haltung
         im Alltag? (für mich, für den anderen?)
-    -   ...
 
 ### Donnerstag: Der Brief aus Jerusalem
 
@@ -98,8 +96,7 @@ Startfrage(n)
         können wir dies fördern?
     -   Wie beeinflussen kulturelle, soziale bzw. andere Unterschiede
         das Gemeindeleben? Was kennzeichnet dabei christliches
-        Verhalten?...
-    -   ...
+        Verhalten?
 
 Teil 3: Mission
 ---------------
