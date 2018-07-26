@@ -57,7 +57,7 @@ La iglesia está comprometida no solo con el avance de la comisión evangélica 
 
 **Solo para los maestros**: ¿Qué es la iglesia? ¿Es ese imponente edificio en la esquina de la Calle Principal y la Avenida del Mercado? ¿Es un club de personas con ideas afines que se reúnen para promover intereses y bienestar en común? ¿Es un centro para la prevención de la crueldad hacia los seres humanos? ¿Es un centro de reuniones donde las personas se reúnen para adorar, estudiar y orar cada sábado? ¿Es una sociedad caritativa para cuidar a los necesitados, a los enfermos y a los hambrientos? Si bien puede ser alguna de estas cosas que se mencionan en esas declaraciones, considera lo siguiente: “Por débil e imperfecta que parezca, la iglesia es el objeto al cual Dios dedica en un sentido especial su suprema consideración. Es el escenario de su gracia, en el cual se deleita en revelar su poder para transformar los corazones” (HAp 11).
 
-La lección de esta semana apunta a tres factores sobre la iglesia: la comunión de los salvos; un cuerpo de creyentes lleno de vida que exalta la cruz; y un cuerpo eclesiástico de milagros, unidad y problemas.
+**La lección de esta semana apunta a tres factores sobre la iglesia**: la comunión de los salvos; un cuerpo de creyentes lleno de vida que exalta la cruz; y un cuerpo eclesiástico de milagros, unidad y problemas.
 
 **Comentario de la Biblia**
 
