@@ -3,7 +3,7 @@ title:  Commentaires Moniteurs
 date:   17/08/2018
 ---
 
-##La leçon en bref
+## La leçon en bref
 
 **Texte clé**: Actes 13
 
