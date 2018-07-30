@@ -25,4 +25,4 @@ Ce soir-là, Lee envoya un message de suivi à la femme. « C’était génial d
 
 L’évangélisation est facile, dit Lee. « Si j’avais ignoré le message texte, peut-être elle ne serait pas devenue membre d’église », explique-t-il. « Mais j’ai essayé de créer une relation en posant juste une question de plus. »
 
-_Byongju Lee, 51 ans, à gauche, est le directeur de l’École du Sabbat et des Ministères Personnels pour l’Union des Fédérations de l’Église Adventiste de Corée, basée à Séoul, en Corée du Sud._
+Byongju Lee, 51 ans, à gauche, est le directeur de l’École du Sabbat et des Ministères Personnels pour l’Union des Fédérations de l’Église Adventiste de Corée, basée à Séoul, en Corée du Sud.
