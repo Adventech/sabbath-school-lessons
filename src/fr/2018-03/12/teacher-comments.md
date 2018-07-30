@@ -7,13 +7,13 @@ date:   21/09/2018
 
 **Texte clé**: Actes 26 : 29
 
-###Objectifs:
+### Objectifs:
 
 - **Savoir**: Se rendre compte que parfois, le fait de partager l’évangile implique une défense verbale.
 - **Ressentir**: Ressentir la responsabilité de partager l’évangile de toutes les manières possibles.
 - **Agir**: Partager l’évangile dans des contextes variés, faisant usage d’une défense logique et du témoignage.
 
-###Plan de l’étude:
+### Plan de l’étude:
 
 **I. Savoir: À certains moments, les chrétiens sont appelés à se défendre**
 
