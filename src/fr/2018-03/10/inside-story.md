@@ -23,4 +23,4 @@ Kwon commença à créer une église. « Surprise », dit-il, « je n’avais ri
 
 Kiyong Kwon, 56 ans, à gauche, a créé trois églises en Corée du Sud.
 
-_Une partie de l’offrande du treizième sabbat de ce trimestre aidera à créer la première Église Adventiste à Sejong, en Corée du Sud. En savoir plus sur Kwon la semaine prochaine._
+Une partie de l’offrande du treizième sabbat de ce trimestre aidera à créer la première Église Adventiste à Sejong, en Corée du Sud. En savoir plus sur Kwon la semaine prochaine.
