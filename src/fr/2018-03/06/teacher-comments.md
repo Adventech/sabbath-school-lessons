@@ -10,9 +10,7 @@ date:   10/08/2018
 ### Objectifs:
 
 - **Savoir**: Reconnaitre les dons de pastorat et d’administration chez l’apôtre Pierre.
-
 - **Ressentir**: Apprécier le courage et l’audace qui caractérisent le ministère de Pierre.
-
 - **Agir**: Appliquer les leçons de la vie et du ministère de Pierre pour édifier notre vie personnelle et la vie ecclésiale.
 
 ### Plan de l’étude:
