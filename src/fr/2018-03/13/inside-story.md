@@ -23,4 +23,4 @@ La pharmacienne et sa fille se présentèrent à l’église le sabbat suivant, 
 
 « Avec ces expériences, je me rends compte que ceci est l’affaire de Dieu », dit Kwon. « Les cœurs ne sont pas transformés à cause de ce que les gens font ».
 
-`Kiyong Kwon, 56 ans, à gauche, a créé trois églises en Corée du Sud. Une partie de l’offrande du treizième sabbat de ce trimestre aidera à créer la première Église Adventiste à Sejong, en Corée du Sud.`
+_Kiyong Kwon, 56 ans, à gauche, a créé trois églises en Corée du Sud. Une partie de l’offrande du treizième sabbat de ce trimestre aidera à créer la première Église Adventiste à Sejong, en Corée du Sud._
