@@ -13,7 +13,7 @@ date:   28/09/2018
 - **Ressentir**: Trouver le courage dans l’appel fait à tous les croyants de partager l’évangile.
 - **Agir**: Ouvrir son propre cœur à l’évangile et reconnaitre les lieux dans lesquels nous pouvons partager l’évangile.
 
-###Plan de l’étude:
+### Plan de l’étude:
 
 **I. Savoir: Les circonstances ne peuvent pas arrêter la propagation de l’évangile** 
 
