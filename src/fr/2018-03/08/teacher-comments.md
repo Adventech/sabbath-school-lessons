@@ -10,9 +10,7 @@ date:   24/08/2018
 ### Objectifs:
 
 - **Savoir**: Observer comment le changement des critères pour faire partie de la famille de l’alliance de Dieu peut être une expérience difficile.
-
 - **Ressentir**: S’identifier émotionnellement à la lutte consiste à accepter dans la famille de Dieu ceux que nous pensions autrefois que c’était notre responsabilité religieuse d’éviter.
-
 - **Agir**: Appliquer les leçons du Concile de Jérusalem qui sont en harmonie avec l’inclusivité de l’évangile et une vie de sainteté.
 
 ### Plan de l’étude:
