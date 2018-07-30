@@ -10,7 +10,6 @@ date:   17/08/2018
 ### Objectifs:
 
 - **Savoir**: Identifier les lieux, les objectifs et les méthodes de la mission chrétienne.
-
 - **Ressentir**: Apprécier comment le succès dans la mission dépend de la foi et de la direction du Saint-Esprit.
 - **Agir**: S’impliquer dans l’œuvre missionnaire de l’église locale.
 
