@@ -106,8 +106,6 @@ Teil 2: Wir studieren die Bibel
         Verkündigung auf die Juden?
     -   Welche Männer waren es, die den missionarischen Durchbruch in
         Antiochia erlebten?
-        -   
-
     -   Wie reagierte die Gemeinde in Jerusalem darauf?
     -   Welche Eigenschaften des Barnabas kamen der Mission in
         Antiochien zugute?
@@ -139,7 +137,6 @@ Teil 2: Wir studieren die Bibel
     heute studiert wurden?
     -   Wo kann uns die Urgemeinde ein Vorbild sein?
     -   Wo stehen wir in ähnlichen Situationen oder Gefahren?
-    -   
 
 Teil 3: Mission
 ---------------
