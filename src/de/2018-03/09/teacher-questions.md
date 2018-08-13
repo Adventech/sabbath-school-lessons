@@ -29,15 +29,16 @@ Teil 2: Wir studieren die Bibel
         Botschaft einzubauen?
 -   Einstiegsfragen zur Lektion \#9:
     -   Welchen Erfahrungsschatz nahmen Paulus und Barnabas von ihrer
-        ersten Missionsreise mit? Denkt darüber nach wie sehr Gott sie
-        führte und wie sie Gott geführt hatte.
+        ersten Missionsreise mit? Denkt darüber nach wie sehr sie Gott
+        geführt hatte und welches Vertrauen sie in Gott aufbauen
+        konnten.
     -   Wie motiviert denkt ihr können Paulus und Barnabas gewesen sein
         nach dem bisher erlebten? Was denkt ihr motivierte sie am
         meisten?
     -   Wie können wir uns für Gott und seine Gemeinde motivieren bzw.
         begeistern? Welche Faktoren gibt es?
     -   Warum kam es selbst unter zwei Christen wie Paulus und Silas zu
-        Streit? War der Grund es wert?
+        Streit? War der Grund es eigentlich wert?
     -   Wie sollten Christen Meinungsdifferenzen austragen?
 
 ### Sonntag - Wieder in Lystra
@@ -54,7 +55,7 @@ Teil 2: Wir studieren die Bibel
     -   Warum wird ab Vers 10 "wir" verwendet und davor "sie"?
 -   Fragen zur Botschaft:
     -   Warum ging Paulus den "Kompromiss" ein Timotheus zu beschneiden?
-        War das nicht unwichtig geworden? Lehre Paulus nicht im
+        War das nicht unwichtig geworden? Lehrte Paulus nicht im
         Galaterbrief etwas anderes?
     -   "Der Mensch denkt und Gott lenkt" - Wie können wir das bei
         Paulus weiterer Missionsreise sehen?
@@ -69,16 +70,18 @@ Teil 2: Wir studieren die Bibel
 **Apostelgeschichte 16, 11-24 & 25-34**
 
 -   Fragen zum Text:
-    -   Was genau ist gemeint mit was wir in Apg 16,14 lesen "...und der
-        Herr tat ihr das Herz auf..."?
-    -   Wieso wurde vor der Stadt an dem Fluss zu beten gepflegt?
+    -   Was genau ist gemeint mit was wir in Apg. 16,14 lesen "...und
+        der Herr tat ihr das Herz auf..."?
+    -   Wieso wurde vor der Stadt an dem Fluss zu beten gepflegt? Woher
+        denkt ihr wussten die 2 Missionare davon?
     -   Welche Gebräuche konnten Römer von Juden nicht annehmen (Apg.
         16,21)?
     -   Warum bestanden Paulus und Silas auf eine öffentliche
-        Hinausführung von der Stadt durch Hauptleute?
+        Hinausführung von der Stadt durch Hauptleute nach der
+        unrechtmäßigen Gefangensetzung?
 -   Fragen zur Botschaft:
     -   Warum ist Gastfreundschaft (Apg. 16, 15) ein wichtiges Thema in
-        der Apostelgeschichte?
+        der Apostelgeschichte? Was heißt das für uns heute?
     -   Weshalb wollte Paulus nicht, dass die Wahrsagerin den Menschen
         die Wahrheit über ihn und Silas sagte? Wäre doch eigentlich gute
         Werbung gewesen.....
@@ -88,7 +91,8 @@ Teil 2: Wir studieren die Bibel
         Schicksal haderten?
     -   Was muss ein Mensch tun um gerettet zu werden? Warum bezieht
         sich Paulus in der Antwort auch auf das Haus des Kerkermeisters?
-        Kann jemand auch andere retten ohne deren Wissen und Wollen?
+        Kann jemand auch andere (mit-)retten ohne deren Wissen und
+        Wollen?
 
 ### Dienstag - Thessalonich und Beröa
 
@@ -99,8 +103,8 @@ Teil 2: Wir studieren die Bibel
         Synagogenbesuchen?
     -   Was darf man unter einem gottesfürchtigen Griechen verstehen? Wo
         denkt ihr kamen sie her? Wie fanden Paulus und Silas sie?
-    -   Wie entsteht in einem Menschen Neid? Warum war er in Apg. 17
-        besonders ausgeprägt?
+    -   Wie entsteht in einem Menschen Neid? Warum war er in der
+        Geschichte in Apg. 17 besonders ausgeprägt?
 -   Fragen zur Botschaft:
     -   Was bedeutet es das Wort mit Bereitwilligkeit aufzunehmen? Wie
         können wir bereitwillig das Wort aufnehmen?
@@ -108,7 +112,7 @@ Teil 2: Wir studieren die Bibel
         überliefert?
     -   Sie forschten täglich in der Schrift, ob es sich so
         verhielte.....Wieviel Zeit sollten wir aufbringen für die Hl.
-        Schrift?
+        Schrift und ihr Studium?
     -   Warum erzeugt Verfolgung oft auch einen ertragreichen Dienst bei
         der Seelengewinnung?
 
@@ -132,8 +136,8 @@ Teil 2: Wir studieren die Bibel
         anders an oder er hätte es auch gar nicht erwähnen können?
     -   Warum erwähnt die Bibel öfters Namen von Menschen die gläubig
         wurden (z.B. in Apg 17,34) mit denen wir aber heute nichts mehr
-        anfangen? Weshalb ist es wichtig, dies in der Hl. Schrift zu
-        finden?
+        anfangen? Weshalb ist es wichtig, dies trotzdem in der Hl.
+        Schrift zu finden?
 
 ### Donnerstag - Paulus in Korinth
 
@@ -146,9 +150,9 @@ Teil 2: Wir studieren die Bibel
         woher wissen wir das?
     -   Wie ging Paulus bei der Verkündigung der frohen Botschaft vor?
 -   Fragen zur Botschaft:
-    -   Warum ist öfters bei den nicht Gläubigen mehr Schutz als bei den
-        sogenannten Gläubigen? Dazu gibt es mehrere Bsp. in der
-        Apostelgeschichte....
+    -   Warum ist öfters bei den nicht Gläubigen mehr Schutz zu finden
+        als bei den sogenannten Gläubigen? Dazu gibt es mehrere Bsp. in
+        der Apostelgeschichte....
     -   Warum arbeitete Paulus in Korinth? Hätte er sich nicht auch von
         den Gläubigen erhalten lassen können?
 
