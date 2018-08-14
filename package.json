@@ -21,13 +21,16 @@
     "redis": "^2.6.2",
     "request": "^2.87.0",
     "safe-write-file": "^1.1.0",
-    "yamljs": "^0.2.7"
+    "yamljs": "^0.2.7",
+    "snyk": "^1.90.2"
   },
   "devDependencies": {
     "optimist": "^0.6.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -38,5 +41,6 @@
   "bugs": {
     "url": "https://github.com/Adventech/sabbath-school-lessons/issues"
   },
-  "homepage": "https://github.com/Adventech/sabbath-school-lessons#readme"
+  "homepage": "https://github.com/Adventech/sabbath-school-lessons#readme",
+  "snyk": true
 }
