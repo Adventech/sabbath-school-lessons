@@ -140,16 +140,57 @@ zumindest auch den Sabbat hält.
 -   Fragen zum Text:
     -   Welche Dynamik gewinnt hier die Verbreitung des Evangeliums?
 
-**Text**
+**MITTWOCH**
+
+**Apg. 14,1-7**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wo predigten die Missionare auch in Ikonion zuerst?
+    -   Wie hat Gott ihre Predigt unterstützt bzw. "beglaubigt"?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   In der Anmerkung auf Seite 86 wird die Tatsache, dass Paulus und
+        Barnabas auch in Ikonion zuerst in der Synagoge predigten auch
+        als "Bevorzugung der Juden durch Paulus" interpretiert. Stimmt
+        ihr dem zu?
+        -   Wenn ja, welche Vorzüge oder Vorrechte hatten (haben?) die
+            Juden?
+
+**ZITAT:** *"Ist den nicht das ganze Christentum auf das Judentum
+gebaut? Es hat mich oft geärgert, hat mich genug Tränen gekostet, wenn
+Christen gar so sehr vergessen konnten, dass unser Herr ja selbst ein
+Jude war."* (Gotthold Ephraim Lessing)
+
+-   Damals wählte Gott den Weg, durch Wunder die gepredigte Botschaft
+    glaubhaft zu machen. Wie wird heute die Predigt des Evangeliums
+    glaubhaft?
+-   Wodurch wird sie unglaubhaft gemacht?
+
+**ZITAT:** *"Wahrheit ist das, was man glaubhaft machen kann."*
+
+**DONNERSTAG**
+
+**Apg. 14,5-19**
+
+-   Fragen zum Text:
+    -   Warum sprach Paulus den Gelähmten an?
+    -   Wie reagierten die Menschen in Lystra auf das Wunder?
+        -   Wie reisst Paulus das Steuer in dieser prekären Situation
+            herum?
+-   Fragen zur Botschaft:
+    -   Wie erklärt ihr euch, dass Paulus den Gelähmten ansah und
+        merkte, dass dieser glaubte?
+        -   Dürfen auch wir solche Einschätzungen des Glaubens eines
+            Menschen wagen oder braucht es dazu besondere
+            Voraussetzungen?
+    -   Warum reagierten die Menschen in Lystra ganz anders auf dieses
+        Wunder, nämlich mit Verehrung falscher Götter?
+        -   Was können wir für unsere Zeit und unsere Zeit lernen, wenn
+            wir sehen, wie Paulus das Handeln Gottes an den Heiden
+            beschreibt?
+            -   ''Gott lässt die Menschen ihre Wege gehen und spricht
+                ihnen, auch wenn sie nicht an ihn glauben, seinen Segen
+                zu. '' Inwiefern erklärt uns dies unsere Welt und wie
+                sie ist?
 
 Teil 3: Mission
 ---------------
