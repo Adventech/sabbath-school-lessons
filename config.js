@@ -24,10 +24,16 @@ var BIBLE_PARSER_CONFIG = {
     "luth1912"
   ],
 
+  "el": [
+    "fpb1994"
+  ],
+
   "en": [
     "nasb",
     "nkjv",
-    "kjv"
+    "kjv",
+    "niv",
+    "asv"
   ],
 
   "es": [
@@ -80,6 +86,10 @@ var BIBLE_PARSER_CONFIG = {
     "krv"
   ],
 
+  "lo": [
+    "lb"
+  ],
+
   "mk": [
     "MKB"
   ],
@@ -98,6 +108,10 @@ var BIBLE_PARSER_CONFIG = {
     "nb-bibelen-1930"
   ],
 
+  "pl": [
+    "bw1975"
+  ],
+
   "ro": [
     "rmnn"
   ],
@@ -109,6 +123,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "sr": [
     "biblija"
+  ],
+
+  "sv": [
+    "sf1998"
   ],
 
   "ta": [
@@ -133,7 +151,6 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "vi": [
-    "rvv11",
     "bpt"
   ]
 };
