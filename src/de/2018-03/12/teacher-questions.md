@@ -34,7 +34,7 @@ Teil 2: Wir studieren die Bibel
 
 **Apostelgeschichte 24,10-19**
 
--   Fragen zum Text:
+-   Fragen zum Text und zur Botschaft:
     -   Wie ist in diesen Versen hier die Verteidigungsstrategie des
         Paulus? (-&gt; mit niemandem gestritten etc. -&gt; Auferstehung)
 -   Fragen zur Botschaft:
@@ -50,19 +50,23 @@ Teil 2: Wir studieren die Bibel
 **Apostelgeschichte 25,1-12**
 
 -   Fragen zum Text:
-    -   -   ...
-    -   ...
-
+    -   Wie erlebt ihr in diesen Versen die Verteidigungsstrategie des
+        Paulus?
+    -   Warum sind die Juden hier so derartig aktiv? (Hohepriester, die
+        Vornehmsten der Juden kommen um anzuklagen) Mit dem Neubeginn
+        des Festus sind gewisse Erwartungen verbunden.
 -   Fragen zur Botschaft:
+    -   Festus beginnt neu als römischer Stadthalter von Judäa und
+        erlebt dabei, wie gewisse Erwartungen mit seinem Start verbunden
+        sind. Wie geht ihr mit Erwartungen um, wenn ihr eine neue
+        Rolle/Funktion/Aufgabe wahrnehmt?
     -   In Apostelgeschichte 25,9 wird uns gesagt, dass Festus "die
         Juden zu Dank verpflichten wollte" (= gleiche Grundeinstellung
         wie sein Vorgänger Felix in Apostelgeschichte 24,27). Welches
-        menschliche Grundprinzip wird hier für solch ein Verhalten
-        zugrunde und wie können wir dies überwinden?
+        menschliche Grundprinzip liegt hier für solch ein Verhalten
+        zugrunde und wie können wir davor schützen?
     -   Wie kommt ihr mit Situationen zurecht, in denen uns um unseres
         Glaubens willen, Ungerechtigkeiten und Trübsale widerfahren?
-    -   ...
-    -   ...
 
 **Apostelgeschichte 25,13-27**
 
@@ -70,34 +74,45 @@ Teil 2: Wir studieren die Bibel
     -   Diskutiert die Entscheidung von Paulus, sich auf den Cäsar zu
         berufen. War diese Entscheidung richtig (vgl. Apostelgeschichte
         25,25; 26,31-32)?
-    -   ...
-    -   ...
+    -   Wie würdet ihr den neuen Statthalter von Judäa - Festus - hier
+        beschreiben? Welche Charaktereigenschaften und Werte von ihm
+        kristallisieren sich in diesen Versen heraus?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie geht ihr mit schwierigen Situationen um, wo ihr nicht weiter
+        wisst?
+    -   König Agrippa und Bernice sind in ihrem großen Prunkt (vgl.
+        Apostelgeschichte 25,23) dem armen Gefangenen Paulus gegenüber
+        gestanden. Größer hätten die Unterschiede nicht sein können. Wie
+        geht ihr mit Situationen um, in denen ihr wie Paulus jemandem
+        dem äußeren Rahmen zufolge "unterlegen"/"untergeordnet" seid?
 
 **Apostelgeschichte 26,1-23**
 
 -   Fragen zum Text:
+    -   Wie bewertet ihr die Verteidigungsrede des Paulus? Welche
+        Hauptthemen spricht er an? Warum gerade diese?
     -   Denkt über das nach, was Paulus zu Agrippa sagte: "Daher, König
         Agrippa, war ich der himmlischen Erscheinung nicht ungehorsam."
         (Apostelgeschichte 26,19) Was sagt uns dies über Paulus? Wie
         treu sind wir unserem Missionsauftrag als Christen (1 Petrus
         2,9-10)?
-    -   ...
-    -   ...
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was können wir von der Grundhaltung des Paulus lernen?
+    -   Was hilft euch, um mit schier aussichtslosen Situationen fertig
+        zu werden?
 
 **Apostelgeschichte 26,27-32**
 
 -   Fragen zum Text:
-    -   -   ...
+    -   Wie erlebt ihr hier König Agrippa, der ja auf einen sehr
+        evangeliumsfeindliche Familiengeschichte zurückblicken konnte
+        (Herodes d. Große war sein Großvater und ließ die Kinder in
+        Bethlehem ermorden. Herodes Antipas war ein Onkel von ihm
+        zeichnet sich verantwortlich für den Tod von Johannes d. Täufer
+        usw.)?
+    -   War es von Festus klug und weise, sich in der Causa Paulus mit
+        dem König Agrippa zu beraten? Bitte begründe deine Antwort.
     -   ...
-
 -   Fragen zur Botschaft:
     -   Paulus sagte bei seiner letzten Anhörung in Cäsara seinen
         Zuhörern, was sein Herzenswunsch sei - nämlich dass sie alle wie
@@ -112,7 +127,12 @@ Teil 2: Wir studieren die Bibel
         Apostelgeschichte 26,28). Wie können wir als Nachfolger Jesu
         darauf achten, keine großartigen Gelegenheiten zu verpassen,
         wenn sie direkt vor uns auftauchen?
-    -   ...
+    -   In Sprüche 15,22 heißt: "Die Pläne werden zunichte, wo man nicht
+        miteinander berät; wo aber viele Ratgeber sind, gelingen sie."
+        (Luther 1984) Wie versteht ihr dieses Zitat vor dem Hintergrund,
+        dass es auch manchmal an falschen Ratgebern scheitern kann?
+    -   Woher wisst ihr, ob jemand ein guter Ratgeber ist?
+    -   Wie findet ihr gute und weise Ratgeber in eurem Umfeld?
 
 Teil 3: Mission
 ---------------
