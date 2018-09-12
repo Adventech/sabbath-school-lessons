@@ -75,15 +75,26 @@ Teil 2: Wir studieren die Bibel
     -   Wie könnten wir zu anderen Menschen Brücken bauen? Wie können
         wir mit Menschen in Kontakt kommen und wie können wir in
         Verbindung mit ihnen bleiben?
+    -   Paulus redet offen, es ist seine persönliche Geschichte – das
+        hat seine Wirkung: „sie wurden noch stiller“ (Apostelgeschichte
+        22,2). Warum haben persönliche Zeugnisse diese Wirkung?
 
 **Apostelgeschichte 22,22-29**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
+    -   Warum protestierten die Gegner des Paulus erst beim Wort
+        „Heiden“ (Apostelgeschichte 22,21)? Bis dahin ist alles in
+        Ordnung? (das Damaskuserlebnis des Paulus, Thema Taufe und
+        Reinigung von Sünden usw.)
+    -   Warum war es für Paulus sehr vorteilhaft, dass er römischer
+        Staatsbürger war?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
+    -   Gibt es heute auch solche "Signalwörter" (vgl. "Heiden" in
+        Apostelgeschichte 22,21) – bei deren Nennung Menschen auf die
+        Barrikaden gehen - ob in der Gemeinde oder in der Gesellschaft?
+    -   Wie könnten wir zu anderen Menschen Brücken bauen? Wie können
+        wir mit Menschen in Kontakt kommen und wie können wir in
+        Verbindung mit ihnen bleiben?
 
 **Apostelgeschichte 23,1-10**
 
