@@ -11,6 +11,5 @@ afterwards / while the PR is open._
 For example, `node compile.js -b test -l en -q 2018-02`.
 
 ### Description of contribution
-<!-- Please brief description of the contribution. If you are adding new Sabbath School content, please mention the language, lesson in this format
- language_code/quarterly_id/week_number. For example, en/2018-02/01, which corresponds to first week of second quarter of 2018 in English.
+<!-- Please briefly describe the contribution. If you are adding new Sabbath School content, please mention the language, lesson in this format: language_code/quarterly_id/week_number. For example, en/2018-02/01, which corresponds to first week of second quarter of 2018 in English.
  -->
