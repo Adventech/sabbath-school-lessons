@@ -1,48 +1,28 @@
 ---
 title: Misjonilugu
-date: 24/08/2018
+date: 23/11/2018
 ---
 
-#### Veel üks küsimus
+#### Karistus teiste pattude pärast
 
-Byongju Lee silmitses hämmastunult luuletust, mille keegi oli tekstisõnumina talle saatnud. Ta ei tundnud seda telefoninumbrit. Paljud inimesed kustutaksid valelt numbrilt tulnud sõnumi, kuid Byongju ei teinud nii. Ta saatis samale aadressile tekstisõnumi: „Kellega on tegemist?“
+_Loo on kirja pannud Andrew McChesney Adventmisjonist._
 
-Tema mobiiltelefon helises. „Kellega on tegemist?“ küsis naisehääl. „Teie saatsite esimesena tekstisõnumi,“ vastas Byongju.
+Kui inimesed esimest korda selle poisikesega kohtusid, ei küsinud nad: „Mis su nimi on?“, vaid: „Mis su jalgadel viga on?“
 
-Tuli välja, et helistaja oli tahtnud saata selle luuletuse oma sõbrale, kuid oli ühe numbriga eksinud.
+Jack Chen roomas oma maakodus Taiwani keskosas mööda maad kuni viienda eluaastani. Igapäevaste kehaliste harjutuste abil suutis ta muskleid nii palju kasvatada, et jaksas püsti seista, kui esimesse klassi läks. Kuid ta liikus oma jalgadel kohmakalt ning teised lapsed kiusasid ja mõnitasid teda: „Värdjas!“ Mõnikord sülitasid poisid tema peale, kui temast möödusid.
 
-Paljud oleksid telefonikõne siinkohal lõpetanud, kuid Byongju mitte. Ta esitas veel ühe küsimuse: „Kas te olete luuletaja?“
+Jack sündis niisuguse jalahaigusega, mis arste hämmeldusse viis. Kuid Jack ja tema vanemad ei kahelnud haiguse põhjuses: keegi oli perekonnas midagi halba teinud ja nüüd neid karistati.
 
-„Ei, ma olen algkooli õpetaja,“ vastas naine. „Kirjutan luuletusi hobi korras.“
+„Minu pere teenis ebajumalaid ning mu vanemad uskusid, et meid karistatakse millegi eest, mida esivanemad olid teinud,“ ütles Jack.
 
-„Oi, kas tõesti?“ imestas Byongju. Ta arvas, et tundis naise häälduse järgi ära tema elurajooni, ja uuris seetõttu: „Kas te elate Busanis?“, viidates Lõuna-Korea suuruselt teisele linnale.
+Kui Jack oli 12aastane, soovitas üks peresõber, et poisil oleks parem õppida lähedalasuvas seitsmenda päeva adventistide koolis, sest riigikoolis tekkis tal mahajäämus.
 
-„Ei, ma elan Jinjus,“ vastas naine.
+Kui Jack seitsmendas klassis käima hakkas, kuulis ta esimest korda Jeesusest. Ta luges esimest korda Piiblit. 13aastasena otsustas ta anda oma südame Jeesusele.
 
-„Minagi lõpetasin keskkooli Jinjus,“ teatas Byongju.
+Vastus tema suurimale küsimusele – miks teda teiste inimeste pattude eest karistati – tuli aasta hiljem, kui ta luges pimedana sündinud mehest, kelle Jeesus terveks tegi. Ta luges: „Ja ta jüngrid küsisid temalt: „Rabi, kes on teinud pattu, kas tema ise või ta vanemad, et ta on sündinud pimedana?“ Jeesus vastas: „Ei ole pattu teinud tema ise ega ta vanemad, vaid temas peavad saama avalikuks Jumala teod“ (Jh 9:2–3).
 
-Naine küsis, millise, ja rääkis innukalt, et tema õppis just mehe koolist teisel pool tänavat asuvas koolis. Mõne minuti tuletasid nad meelde oma keskkooliaega.
+Jack tundis, et neid sõnu lugedes võeti temalt raske koorem. „Ma taipasin, et tegu polnud karistusega, vaid õnnistusega,“ ütles ta. „Kui mul poleks seda haigust olnud, poleks minu perekonnal ja minul mitte kunagi olnud võimalust Jumalat tundma õppida.“
 
-Siis küsis naine: „Mida te tahate?“
+Jack läbis kraadiõppe Taiwani Adventistide Kolledžis ning teenib nüüd pastorina rannikulinnas Jiadingis. Ta lonkab kergelt ühte jalga, kuid liigub muidu normaalselt. Ta on abielus ja tal on kaks pojakest.
 
-„Ma olen koguduse pastor,“ ütles Byongju.
-
-„Millise uskkonna?“
-
-Küsimus viis Byongju mõttele, et see naine ei olnud budist, mis on suuruselt teine usugrupp Lõuna-Koreas ja moodustab 15 protsenti elanikkonnast. „Kristlased ei küsi mungalt, millises templis ta töötab, niisiis peab naine olema kristlane,“ mõtles ta. Kristlasteks peetakse 51miljonilisest elanikkonnast 27 protsenti.
-
-„Olen seitsmenda päeva adventistide pastor,“ vastas Byongju.
-
-„Saan aru,“ ütles naine. „Kas te teate Noa Laeva?“
-
-Byongju üllatus. Noa Laev on Lõuna-Koreas adventkoguduse kõrvalharu.
-
-Naine selgitas, et ta oli kaks aastakümmet tagasi käinud põgusalt Noa Laeva grupi jumalateenistustel. Ta oli lahkunud grupi juurest ühes küsimuses veendununa – et pühapäev ei ole piibellik hingamispäev. Nüüd, 20 aastat hiljem, oli ta saatnud ekslikult tekstisõnumi adventpastorile.
-
-Sellel õhtul saatis Byongju naisele veel ühe tekstisõnumi. „Oli tore teid täna kohata!“ kirjutas ta.
-
-Aasta hiljem see naine ristiti.
-
-„Evangelism on kerge,“ ütles Byongju. „Oleksin ma seda tekstisõnumit eiranud, ei oleks temast võib-olla koguduseliiget saanud. Kuid ma püüdsin luua sidet, küsides ühe küsimuse teise järel.“
-
-_51aastane Byongju Lee on hingmispäevakooli ja isikliku teenistuse juht Adventkoguduste Korea unioonis, Soulis, Lõuna-Koreas. Ühtlasi on ta igapäevase palvesaate „Chun Su Dap“ juht ja kõneleja; seda peetakse populaarsuselt teiseks religioosseks saateks Lõuna-Koreas._
+32aastane Jack, imetleb seda, kuidas ta Jeesuse leidis – või kuidas Jeesus tema leidis. „Ma ei olnud isegi kristlane, aga ma otsisin Jumalat kui kedagi, kes päästaks mu elu,“ ütles ta. „Sa pead esmalt avama oma meele Jumalat otsima ning siis ütleb Jumal sulle, mida sul järgmisena teha tuleb.“ 
