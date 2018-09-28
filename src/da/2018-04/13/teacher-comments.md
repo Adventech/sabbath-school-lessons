@@ -3,5 +3,42 @@ title:  Aktiviteter og dialog
 date:   28/12/2018
 ---
 
-### <center>Vi arbejder på denne lektion.</center>
-<center>Prøv igen senere.</center>
+**Guds Ord og klassens aktiviteter**
+
+
+
+` `
+
+**Uddybende spørgsmål**
+
+
+
+` `
+
+**Mødet med dagligdagen**
+
+
+
+` `
+
+**Baggrund**
+
+
+
+` `
+
+**Forstå det bedre**
+
+
+
+` `
+
+**Ord og udtryk**
+
+
+
+` `
+
+**Noter**
+
+` `
