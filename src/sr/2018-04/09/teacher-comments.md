@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   30/11/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Efescima 5,1.2.
 
@@ -15,7 +15,7 @@ date:   30/11/2018
 
 **Činiti:** Tražiće od Boga da deluje u njihovom životu i kroz njega kako bi pružili svedočanstvo o istini Jevanđelja.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Vidljivo jedinstvo
 
@@ -41,9 +41,9 @@ B. Da li je potrebno da prihvatite službu pomirenja u svojim odnosima?
 
 **Zaključak:** Vidljivo jedinstvo izrasta iz novog identiteta koji prihvatamo kada izražavamo veru u Hristovo delo spasenja. Način na koji živimo i ophodimo se prema drugima izražava realnost jedinstva i pruža uverljivi dokaz i o Božjem karakteru i Njegovoj preobražavajućoj sili.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Efescima 2,13-16.
 
@@ -61,11 +61,11 @@ Na sličan način, novozavetni pisci govore da su jedinstvo i ljubav hrišćana 
 
 Čemu ste skloni da najviše verujete – delima ili pisanom dokazu? Zašto? Kakve zaključke ste doneli o ljudima na osnovu njihovih reči i postupaka? Da li su vaši zaključci bili tačni?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Ovaj odeljak bavi se životom u Božjem carstvu koji prikazuje Božju silu. Ističe povezanost između dela i našeg identiteta u Hristu. Dok u razredu razgovarate o lekciji, naglasite da vidljivo jedinstvo nije naše delo, već Hristovo. Mi smo samo pozvani da živimo u skladu sa identitetom koji nam je dat u Hristu.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Nov identitet*
 
@@ -80,6 +80,7 @@ Kao što je ranije u ovom tromesečju bilo spomenuto, crkveno jedinstvo zavisi o
 Biblijsko pomirenje odnosi se na obnavljanje odnosa između prethodno neprijateljski ili svađalački nastrojenih pojedinaca. Iako su ljudi odgovorni za neprijateljstvo i otuđenje u svom odnosu sa Bogom, Isus nas je pomirio sa Bogom tako što je rešio suštinski uzrok neprijateljstva u tom odnosu. Kao naša Zamena, preuzeo je kaznu za greh određenu od strane zakona. Boga, prema tome, treba posmatrati i kao Začetnika i kao Središte pomirenja. Pošto je Bog pomirio ceo ljudski rod sa Sobom kroz Hrista, i dao ljudima nov život, Pavle poziva Korinćane da ostvare svoj novi identitet kao oni koji su pomireni sa Bogom. Oni treba to da učine nastavljajući službu pomirenja u konkretnim situacijama u svakodnevnom životu. Pavle očekuje da će Korinćani raširiti poruku o pomirenju, i da će rod pomirenja biti otkriven onima koje susreću na svom hrišćanskom putu. U nedostatku vidljivog dokaza da su ostvarili identitet onih koji su pomireni sa Bogom, Pavle postavlja pitanje da li su Korinćani zaista prihvatili pomirenje koje im je Bog omogućio. On ih zato poziva da se „pomire sa Bogom“ (2. Korinćanima 5,20).
 
 **Razmislite o ovome:**
+
 Kakva je razlika između pomirenja i opravdanja? Na osnovu čega Pavle opravdano dovodi u pitanje posvećenost Korinćana Bogu i pomirenju koje im je Bog pružio? Kako izgleda prihvatanje misije pomirenja?
 
 *3. Živeti u skladu sa vrednostima carstva*
@@ -92,7 +93,7 @@ Kakva je razlika između pomirenja i opravdanja? Na osnovu čega Pavle opravdano
 
 **Razmislite o ovome:** Zašto je važno da naš identitet kao građana Božjeg carstva bude praćen obnovom uma? Koliko je vaša crkva uspešna u predstavljanju drugačijih vrednosti Božjeg carstva?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:** Ovaj odeljak podstiče učenike da razmišljaju da li njihov život i crkva tačno odražavaju identitet u Hristu i da li, prema tome, pružaju dokaz o Božjoj sili u svom životu.
 
@@ -106,7 +107,7 @@ Kakva je razlika između pomirenja i opravdanja? Na osnovu čega Pavle opravdano
 
 4. Koje odlike života u carstvu, o kojima smo razgovarali u ovoj lekciji, smatrate da vam je najteže da pokažete u životu? Kako Pavlovo upućivanje na činjenicu da nas Hristova ljubav nagoni utiče na vaše stavove i pobude?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: Sledeće aktivnosti nude mogućnosti članovima razreda da se usredsrede na jednu oblast svog života u okviru koje, kako su u toku ove sedmice utvrdili, nisu uspeli da svetu oko sebe pruže svedočanstvo o svom identitetu.
 

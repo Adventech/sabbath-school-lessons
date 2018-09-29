@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   26/10/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Efescima 2,9.10.
 
@@ -15,7 +15,7 @@ date:   26/10/2018
 
 **Činiti:** Nastojaće da ostanu u zajednici sa Hristom da bi mogli doživeti puninu Njegovih blagoslova.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Ispunjavanje Božje namere
 
@@ -41,9 +41,9 @@ B. Kako možemo održati svakodnevnu zajednicu sa Njim?
 
 **Zaključak:** Bog nam je u Hristu dao svaki duhovni blagoslov. Ova neverovatna istina obuhvata usvojenje, oproštenje i otkupljenje, ali i isceljenje naših odnosa. Dok održavamo zajednicu sa Hristom, doživljavamo promenu svojih stavova i postupaka, koja podstiče jedinstvo.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Efescima 2,19-22.
 
@@ -51,18 +51,19 @@ B. Kako možemo održati svakodnevnu zajednicu sa Njim?
 
 **Samo za učitelje:**: Novi zavet jasno stavlja Isusa u središte hrišćanskog života. Njegova smrt i vaskrsenje pružaju spasenje, nadu i razumevanje kako je jedinstvo moguće među hrišćanima. Dok razgovarate o lekciji, naglasite kako Hristovi život i smrt predstavljaju ključ za postizanje hrišćanskog jedinstva.
 
-
 **Uvodni razgovor:**:
+
 Dajte razredu šifrovanu poruku vezanu sa temu iz lekcije, ali im nemojte dati ključ po kome se rešava. Izaberite složenu šifru koju članovi razreda neće moći sami da reše. Neka razred provede određeno vreme razmišljajući kako da odgnonetnu poruku. Nakon otpilike pet minuta, nagovestite im rešenje, neotkrivajući sve detalje. Dajte razredu nekoliko minuta da pokuša da shvati šta ste im rekli. Ako im je i dalje potrebna pomoć, pokažite im ključ za rešavanje poruke. Provedite nekoliko minuta u razgovoru o centralnoj ideji poruke pre nego što se osvrnete na sledeća pitanja.
 
 **Za razgovor:**:
+
 Zašto je ključ bio važan za rešavanje poruke? Održavanje unutrašnjeg crkvenog jedinstva čini se da je poput zagonetke mnogim crkvama. Šta mislite zašto je teško ostvariti jedinstvo? Kako je saznanje da je Hristos Ključ jedinstva od pomoći u rešavanju problema u mesnoj crkvi?  
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:**: Efescima poslanica ukratko izlaže Radosnu vest Jevanđelja i Božje viđenje o Crkvi koja ljubavlju i jedinstvom ispunjava Njegovu nameru. Kada proučite nekoliko tekstova iz Efescima poslanice, naglasite da Crkva i njeno jedinstvo zavise od Hrista i našeg odnosa sa Njim.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 Razgovor o nejedinstvu često se svodi na doktrinu ili istinu. Hrišćani smatraju da bi nejedinstvo nestalo kad bi samo mogli da se složimo oko toga u šta verujemo. Iako jedinstvo po pitanju doktrine ima određenu ulogu u crkvenom jedinstvu, doktrinalno jedinstvo nije primarno za razumevanje jedinstva i nejedinstva. Ključ jedinstva nalazimo u Isusu Hristu.
 
@@ -75,6 +76,7 @@ Nijedan razgovor o jedinstvu Crkve ne može se održati bez prepoznavanja da Isu
 Usredsređenost na Hrista kao Ključa jedinstva nastavlja se u Efescima 2,11-22, gde je Hristos predstavljen kao Onaj koji uklanja prepreke da bi svi imali isti pristup Bogu. Tekst upućuje na zid razdvajanja u jevrejskom Hramu, koji je nejevrejima ograničavao pristup bogosluženju u Hramu, a samim tim i pristup Bogu. Hristova smrt je figurativno srušila ovaj zid da bi i Jevreji i neznabošci mogli biti pomireni sa Bogom. Međutim, nisu samo Jevreji i neznabošci sada mogli biti pomireni sa Bogom. Pavle je shvatio da je Hristos srušio sve prepreke, bilo da su rasne, klasne ili polne. Svi ljudi sada imaju isti pristup Bogu i Njegovom uzvišenom spasenju.
 
 **Razmislite o ovome:**
+
 Šta znači imati svaki duhovni blagoslov u Hristu? Kakvu važnost nebeski blagoslovi imaju za sadašnji život? Kakve nagoveštaje Pavle daje u 1. poglavlju Efescima poslanice da nam pomogne da shvatimo Božje pobude i namere da nas blagoslovi? Kako je ova namera povezana sa jedinstvom?
 
 *2. Ostati povezan sa Izvorom*
@@ -87,7 +89,7 @@ Međutim, ne možemo doživeti jedinstvo ukoliko nismo povezani sa Hristom. Pavl
 
 **Razmislite o ovome:** U kom smislu smo „u Hristu“? Kako možemo ostati povezani sa Hristom da bismo davali rod i bili promenjeni onako kako Bož želi?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Pošto je Hristos izvor jedinstva Crkve, svaki vernik je pozvan da održava to jedinstvo. Pomozite učenicima da shvate svoju potrebu da ostanu povezani sa Izvorom života i jedinstva da bi ispunili Božju volju u vezi sa Crkvom.
 
@@ -101,7 +103,7 @@ Međutim, ne možemo doživeti jedinstvo ukoliko nismo povezani sa Hristom. Pavl
 
 4. Koji od spomenutih stavova u Efescima poslanici je prema vašem mišljenju najvažniji za održavanje jedinstva i sklada u Crkvi? Na kojim činjenicama zasnivate svoj odgovor?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: Može se činiti da je ideja da je Hristos ključ jedinstva i sklada u velikoj meri teoretska. Važno je da vaš razred shvati da je Hristova uloga veoma praktična.
 
@@ -111,9 +113,9 @@ Međutim, ne možemo doživeti jedinstvo ukoliko nismo povezani sa Hristom. Pavl
 
 2. Napravite veliki ključ od bilo kakvog dostupnog materijala. Podelite ceduljice svakom članu razreda i zamolite ih da popune jednu od sledećih rečenica:
 
-Hristos je ključ za poboljšanje mog odnosa sa....
-Hristos je ključ za uklanjanje prepreka između mene i ....
-Hristos je ključ za otkrivanje Božje namere za moj život u vezi sa ....
-Hristos mi je oprostio; prema tome, ja treba da oprostim....
-Hristos mi je ponudio blagodat; prema tome, ja treba...
-Kada svi završe zadatak, zakačite popunjene ceduljice na ključ.
+- Hristos je ključ za poboljšanje mog odnosa sa....
+- Hristos je ključ za uklanjanje prepreka između mene i ....
+- Hristos je ključ za otkrivanje Božje namere za moj život u vezi sa ....
+- Hristos mi je oprostio; prema tome, ja treba da oprostim....
+- Hristos mi je ponudio blagodat; prema tome, ja treba...
+- Kada svi završe zadatak, zakačite popunjene ceduljice na ključ.

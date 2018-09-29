@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   02/11/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Dela 2,42-47.
 
@@ -15,7 +15,7 @@ date:   02/11/2018
 
 **Činiti:** Posvetiće se sve većem zajedništvu između članova crkve.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Zajedničko duhovno iskustvo podupire jedinstvo
 
@@ -43,9 +43,9 @@ C. Kakve korake možete preduzeti da unapredite zajedništvo u svom subotnoškol
 
 **Zaključak:** Rana crkva je zahvaljujući sili Svetog Duha postala svedok jedinstva, izražavanja ljubavi i velikodušnosti jer su vernici provodili vreme zajedno, pokazujući ljubav i posvećenost Bogu.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Dela 2,42-47.
 
@@ -61,11 +61,11 @@ U prvoj polovini 19. veka, na severnoameričkom kontinentu, hrišćanske crkve d
 
 Setite se drugih primera kada je blizak zajednički rad sa istim ciljem ili pobudama neočekivano uneo sklad među ljude. Koja glavna motivacija je ujedinila Ranu crkvu? Koliko često se setite motivacije koja vas je sjedinila sa ostalim hrišćanima?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Razgovori o tekstu Dela 2,42-47. često se svode na navedene oblike ponašanja koje je Rana crkva praktikovala. Dok istražujete ove stihove, pokušajte da usmerite pažnju na stavove, vrednosti i odnose. Razmotrite šta je podstaklo takvo ponašanje.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 Drugo poglavlje Dela apostolskih pruža nam uvid u život prve hrišćanske zajednice. Bila je to zajednica koja je iskusila silu Svetoga Duha i bila uverena u važnost evanđeoske poruke. Bila je to, takođe, zajednica koja je pokazivala Božju ljubav na praktičan način kroz duboko jedinstvo u Duhu, koje se neprestano naglašava u prvim poglavljima Dela apostolskih. Takvo jedinstvo nije slučajno nastalo.
 
@@ -76,6 +76,7 @@ Drugo poglavlje Dela apostolskih pruža nam uvid u život prve hrišćanske zaje
 Za prve Isusove sledbenike rečeno je da su neprestano bili posvećeni apostolskoj nauci i zajedništvu. Kada ste posvećeni nečemu znači i da ste verni tome. Vernost zahteva svesrdnu pažnju, što znači da do posvećenosti ne može doći bez značajnog stepena predanosti i discipline. Prema tome, posvećenost se nikome ne može narediti ili nametnuti. Prava posvećenost proističe iz ličnih stavova i prioriteta. To je odgovor srca.
 
 **Razmislite o ovome:**
+
 Kako biste opisali posvećenost? Kakav oblik posvećenost poprima u 21. veku? Da li su svi oblici posvećenosti zdravi? Zašto jesu i zašto nisu?
 
 *2. Posvećenost Bogu*
@@ -103,6 +104,7 @@ Koje ključne reči u tekstu Dela 2,42-47. otkrivaju više o prirodi zajedništv
 Kada su se vernici posvetili Bogu i zajedništvu, nisu samo prepoznali svoju zajedničku povezanost sa Hristom, već su postali svesniji potreba ljudi u svom okruženju. Odgovorili su pomažući na svaki mogući način, čak i prodavanjem svojih imanja i deljenjem svoje imovine. Grčka konstrukcija u 44. i 45 stihu, sa ponovljenom upotrebom imperfekta, ukazuje da u pitanju nije bio samo usamljen slučaj, već redovna i stalna praksa u zajednici. Bio je to odgovor koji je proistekao iz ljubavi prema Bogu i jednih prema drugima. Međutim, ova svest o potrebama bližnjih nije bila jedina posledica posvećenja ranih vernika. Luka takođe naglašava njihovu radost, izraženu u zahvalnosti i hvali Bogu, i činjenici da su drugi ljudi bili privučeni ovoj zdravoj i živoj hrišćanskoj zajednici.
 
 **Razmislite o ovome:**
+
 Koje druge pozitivne rezultate možete očekivati u zajednici potpuno posvećenoj Bogu? Ako je davanje bilo dobrovoljni čin vernika crkvene zajednice, zašto su Ananija i Sapfira izgubili život?
 
 ##### 3. KORAK  -  PRIMENITE
@@ -121,7 +123,7 @@ Koje druge pozitivne rezultate možete očekivati u zajednici potpuno posvećeno
 
 2. Šta vas sprečava da uspostavite blisku zajednicu sa Hristom na svom putovanju? Kako možete ukloniti te prepreke?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:** Sledeće aktivnosti osmišljene su da pomognu članovima razreda da odgovore na izazov Svetog Duha da obnove svoju posvećenost Bogu i zajedništvo. Takođe, nude praktične korake za unapređenje zajedništva među vernicima.
 

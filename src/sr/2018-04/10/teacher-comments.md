@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   07/12/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Efescima 4,26.
 
@@ -15,7 +15,7 @@ date:   07/12/2018
 
 **Činiti:** Posvetiće se pružanju blagodati i praštanja u odnosima sa drugima.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Neophodnost zdravih stavova
 
@@ -41,9 +41,9 @@ B. Koji činioci nas mogu podstaći da odlučimo da stalno opraštamo drugima?
 
 **Zaključak:** Jevanđelje prikazuje Božju obilnu blagodat i praštanje. On miri i leči narušene odnose između Sebe i ljudskih bića. Ono, takođe, daje podstrek pomirenju i isceljenju ljudskih odnosa, i ukazuje na stavove koji su neophodni da bi se to ostvarilo.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Rimljanima 5,10.
 
@@ -52,6 +52,7 @@ B. Koji činioci nas mogu podstaći da odlučimo da stalno opraštamo drugima?
 **Samo za učitelje:** Naši stavovi ključni su za zdrave odnose. Dok razmišljate o sledećem izveštaju, naglasite ključne stavove prikazane u njemu i rezultate u životu onih koji su odlučili da ih prihvate.
 
 **Uvodni razgovor:**
+
 Godine 1961. aktivisti građanskih prava u SAD započeli su niz takozvanih Vožji slobode. Aktivisti su se vozili autobusima u segregiranim državama na jugu Sjedinjenih Američkih Država. Pokušali su da koriste toalete, čekaonice, restorane ili česme na autobuskim stanicama na kojima je bio na snazi zakon o segregaciji. Među tim putnicima slobode bio je dvadesetjednogodišnji student, afroamerikanac Džon Luis. Kada je pokušao da uđe u izdvojenu čekaonicu na autobuskoj stanici u Južnoj Karolini, mučno ga je pretukao Elvin Vilson, koji je gajio snažna uverenja protiv onih koji su imali drugačije etničko poreklo.
 
 Četrdeset i osam godina kasnije, objavljena je vest da se Vilson pokajao i izvinio za dugogodišnji rasizam i mržnju. Džon Luis, sada senator, spremno je prihvatio Vilsonovo izvinjenje i ponudio mu oproštaj. Istakao je da je Vilsonova promena srca pokazala istinsku silu ljubavi i blagodati. Vilson je verovao da je potrebno da učini više od pomirenja sa osobom koju je povredio. Posvećujući svoj život novom cilju, postao je aktivista za mir i jednakost, podižući glas protiv netrpeljivosti i netolerancije koje i dalje vladaju u društvu.
@@ -59,13 +60,14 @@ Godine 1961. aktivisti građanskih prava u SAD započeli su niz takozvanih Vožj
 Stavovi za koje se odlučujemo mogu dovesti do uništenja odnosa ili do njihovog isceljenja. Blagodat i praštanje predstavljaju osnovu za izlečenje odnosa i crkveno jedinstvo. Međutim, prihvatanje ovih stavova ne garantuje da će drugi ljudi odgovoriti onako kako se nadamo.
 
 **Za razgovor:**
+
 Kakav dokaz pronalazimo u ovom izveštaju da je Luis oprostio Vilsonu pre nego što je on zatražio oproštaj? Šta mislite zašto je bilo važno da Vilson učini više od traženja oproštaja? Koje su prednosti opraštanja?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Blagodat i praštanje su od presudne važnosti u izlečenju narušenih odnosa. Dok budete proučavali ovaj odeljak, pomozite učenicima da uvide da Jevanđelje daje primer i pruža motivaciju da i mi izrazimo ovakve stavove u svojim odnosima.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Stavovi, odnosi i Jevanđelje*
 
@@ -78,6 +80,7 @@ Ponekad nas naši stavovi i verovanja zaslepe da ne vidimo uzvišeniju stvarnost
 Kao što je Isus ušao u istoriju i naš svet da donese spasenje, mi smo pozvani da se uključimo u život i iskustva drugih ljudi. Moramo i sebe i one sa kojima težimo da se pomirimo prepoznati kao slomljene ljude koje preobražava Jevanđelje. Moramo prepoznati blagodat koja nam je darovana i besplatno je ponuditi drugima. Poput Pavla, u Filimonu poslanici, treba da usmerimo pažnju na Hrista i Njegovo Jevanđelje koje daje primer našim odnosima. Kada sagledamo svoj život u senci Golgote, samo tada možemo pokazati ljubav, blagodat i praštanje u odnosima sa drugima, jer susret sa Isusom ne ostavlja naš život nepromenjenim.
 
 **Razmislite o ovome:**
+
 Kakve stavove je Pavle pokazao prilikom razilaženja sa Varnavom i Jovanom Markom? Kakvu razliku uočavate u kasnijim njegovim stavovima kakve traži i od Filimona da pokaže? Kakve sličnosti uviđate između Pavlovih postupaka u Filimonu poslanici i Jevanđelju, naročito u Isusovom delu na krstu?
 
 *2. Razumevanje opraštanja*
@@ -87,9 +90,10 @@ Kakve stavove je Pavle pokazao prilikom razilaženja sa Varnavom i Jovanom Marko
 Opraštanje obuhvata svestan izbor da odustanemo od osećanja ljutnje prema drugoj osobi i, samim tim, to uklanja svako pravo da tražimo osvetu za ono što je učinila. Opraštanje iskorenjuje gnev i gorčinu iz našeg života, pomaže da rane zacele i gradi osnovu za obnavljanje odnosa. Opraštanje ne znači opravdavanje rđavog ponašanja ili uklanjanje svih posledica koje mogu biti rezultat takvog ponašanja. Pravo opraštanje uviđa ozbiljnost uvrede, ali bira put izlečenja. Bog je oprostio ljudima iako ne zaslužujemo Njegovo oproštenje. Međutim, božanski oproštaj nije umanjio ozbiljnost greha ili uklonio sve njegove posledice. Isus je preuzeo konačnu posledicu greha, podnoseći smrt radi nas.
 
 **Razmislite o ovome:**
+
 Zašto je ponekad teško oprostiti drugima? Zašto je važno shvatiti da opraštanje nužno ne uklanja sve posledice naših postupaka? Kome oproštaj više koristi – prestupniku ili osobi kojoj se nudi izvinjenje? Kojim dokazom možete potkrepiti svoj odgovor?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Naglasite koliko je važno da posmatrate sebe i one koji su vam naneli nepravdu kroz sočiva Jevanđelja. Kada  posmatramo uvrede u tom svetlu, sećamo se koliko je važno da ponudimo blagodat i opraštanje onima sa kojima stupamo u dodir.
 
@@ -107,7 +111,7 @@ Zašto je ponekad teško oprostiti drugima? Zašto je važno shvatiti da oprašt
 
 6. Kakve korake možete preduzeti ove sedmice da biste započeli proces izlečenja i pomirenja u svojim odnosima?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: U ovim aktivnostima članovi razreda su podstaknuti da prepoznaju kakav uticaj praštanje ima u njihovom životu i da izaberu da u većoj meri pokažu duh praštanja u svojim odnosima sa drugima.
 

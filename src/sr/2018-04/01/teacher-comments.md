@@ -3,9 +3,7 @@ title:  Pouka za učitelje
 date:   05/10/2018
 ---
 
-1. BIBLIJSKA DOKTRINA   STVARANJE I PAD
-
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Galatima 3,29.
 
@@ -17,7 +15,7 @@ date:   05/10/2018
 
 **Činiti:** Odgovoriće na Božji poziv da postanu predstavnici Njegove ljubavi i pomirenja.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Greh i jedinstvo
 
@@ -43,9 +41,9 @@ C. Kako možete biti verni predstavnik Boga i Njegovog plana pomirenja?
 
 **Zaključak:** Pojava greha u svetu narušila je jedinstvo i sklad kakav je Bog želeo da vlada među ljudima. Međutim, Bog je izrazio svoju ljubav prema ljudskom rodu napravivši plan kako da obnovi izgubljeno jedinstvo. Iako će konačno obnovljenje biti ostvareno Hristovim delovanjem, Bog je, takođe, izabrao ljude da budu predstavnici Njegove ljubavi i blagodati.  
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** 1. Jovanova 4,16.
 
@@ -57,11 +55,11 @@ C. Kako možete biti verni predstavnik Boga i Njegovog plana pomirenja?
 
 **Za razgovor:**: Kako je jedan postupak uticao na odnose među gostima na venčanju? Kako je sve moglo biti drugačije da su pojedini gosti pokušali da smire situaciju? Setite se nečega što ste pažljivo planirali, da bi na kraju vaši planovi bili uništeni zbog određenih postupaka druge osobe. Kako ste se osećali? Kako je sve to uticalo na odnos sa tom osobom? Šta mislite kako se Bog osećao kada je Njegov savršen plan za ljudski rod bio uništen zbog Adama i Eve?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:**: Božja priroda i karakter predstavljaju osnovu za razumevanje jedinstva. Dok budete razmatrali sledeće odeljke, potražite rešenja koja otkrivaju kako su Božja priroda i karakter uticali na: 1) Njegov prvobitni plan, 2) Njegovo ophođenje prema krivom paru, 3) Njegov plan da obnovi ono što je izgubljeno kao posledica greha.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Temelji ljubavi i jedinstva*
 
@@ -99,7 +97,7 @@ Avram je pokazao veru i poverenje u Božja obećanja. Njegova dela su primer št
 
 Bog je dao četiri posebna obećanja Avramu: obećanje o zemlji, mnošvu potomaka, velikom imenu i da će biti blagoslov svim narodima. Kako se svako obećanje odnosi na Božji plan da obnovi jedinstvo? Zašto je važno da shvatimo da se odnos između ljudi i Boga temelji na Božjem karakteru?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Pitanja za primenu podstiču članove razreda da razmotre kako u praksi izgleda predstavljati Boga i kako verno predstavljanje može uticati na misiju Crkve?
 
@@ -115,7 +113,7 @@ Bog je dao četiri posebna obećanja Avramu: obećanje o zemlji, mnošvu potomak
 
 5. Razgovarajte o sledećoj izjavi Elen Vajt zabeleženoj u februaru 1906. godine: „Najuverljiviji dokaz o Hristovoj misiji koji možemo pružiti svetu nalazi se u savršenom jedinstvu... U skladu s našim jedinstvom sa Hristom biće i naša snaga da spasavamo duše.“ (Naše uzvišeno zvanje, str. 172)
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: Kao što je Bog pozvao Avrama i njegove potomke da predstavljaju Njegovo ime i karakter, tako je pozvao i Crkvu da bude Njegov predstavnik na Zemlji. Sledeće aktivnosti podstiču učenike da prihvate Božji poziv da budu Njegovi predstavnici ljubavi i sklada u svojoj Crkvi i među bližnjima.
 

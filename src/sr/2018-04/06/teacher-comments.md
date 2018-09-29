@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   09/11/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Efescima 2,19-22.
 
@@ -15,7 +15,7 @@ date:   09/11/2018
 
 **Činiti:** Ceniće doprinos koji svaki vernik daje postojanju i misiji Crkve.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Jedinstvo i slike Crkve
 
@@ -37,9 +37,9 @@ B. Na koje načine možete biti usredsređeniji na prepoznavanje vrednosti svako
 
 **Zaključak:** Metafore novozavetne Crkve ilustruju suštinsku prirodu oslanjanja na Boga i skladne odnose koje Božji narod treba međusobno da neguje.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** 1. Korinćanima 12,12.
 
@@ -55,11 +55,11 @@ Kada je Vendi prihvatila posao u bolnici u stranoj zemlji, našla se okružena n
 
 Opišite odnos koji je promenio odnose koje ste imali sa drugim ljudima? Koji činioci u vezi sa prvim odnosom su uticali na odnose sa drugima? Kako vam ovo može pomoći da shvatite kako vaš odnos sa Isusom menja vaš odnos sa drugima?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Biblija sadrži različite slike Crkve. Pet metafora je predstavljeno u ovoj lekciji. Ovaj odeljak bavi se proučavanjem tri slike koje predstavljaju odnos između Crkve i sve tri Ličnosti Božanstva. Dok proučavate ove metafore, pokušajte da uočite kako prikazuju jedinstvo koje Bog želi da vlada u Njegovoj crkvi, i istražite, takođe, kako svaka Ličnost Božanstva doprinosi tom jedinstvu.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Božji narod*
 
@@ -72,7 +72,6 @@ Izrazom Božji narod naglašava se privilegovani status koji imamo, jer smo izdv
 **Razmislite o ovome:**
 
 Zašto Petar ističe ideju naroda? Kako naš identitet u Bogu treba da utiče na naš svakodnevni život?
-
 
 *2. Hram Svetoga Duha*
 
@@ -96,7 +95,7 @@ Poređenje sa telom koristili su pojedini grčko-rimski političari, kao što Me
 
 Pavlovo gledište tela kosilo se sa gledištima političara onog vremena. Na koji način poređenje sa telom i dalje stavlja izazov pred stavove i vrednosti našeg društva?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:** U svakoj slici crkvenog jedinstva o kojima smo proučavali u ovoj lekciji upućuje se na određeno Lice Božanstva. Pomozite učenicima da shvate centralnu ulogu koju naš odnos prema Ocu, Sinu i Svetom Duhu ima u ostvarivanju jedinstva.
 
@@ -108,9 +107,10 @@ Pavlovo gledište tela kosilo se sa gledištima političara onog vremena. Na koj
 
 **Aktivnost:** Napišite zahvalnicu za darove ili službu nekom verniku crkve koji obično ne dobija priznanja.
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**
+
 Ova aktivnost razmatra načela koja nalazimo u slikama o kojima smo proučavali ove sedmice i primenjuje ih na nov način. Stvara svest o važnosti prenošenja načela iz Pisma na način koji se lako može razumeti u svakoj kulturi i vremenskom razdoblju u istoriji.
 
 **Aktivnosti:**

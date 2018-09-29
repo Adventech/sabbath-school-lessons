@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   23/11/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Jevrejima 9,11.12.
 
@@ -15,7 +15,7 @@ date:   23/11/2018
 
 **Činiti:** Dozvoliće Svetom Duhu da utisne istinu u njih tako da utiče na njihov svakodnevni život.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Identitet, istina i jedinstvo
 
@@ -41,9 +41,9 @@ C. Kakve korake treba da preduzmete da bi ovo postala stvarnost u vašem životu
 
 **Zaključak:** Adventistički hrišćani pepoznaju centralnu ulogu Hristove smrti  i Njegovog vaskrsenja u spasenju i hrišćanskom jedinstvu. Oni, takođe, shvataju da je Bog otkrio u Pismu šta je važno u određivanju kako da se odnosimo prema Bogu i drugim ljudima. Ova učenja definišu i naš identitet i našu misiju.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Dela 4,10-12.
 
@@ -52,18 +52,20 @@ C. Kakve korake treba da preduzmete da bi ovo postala stvarnost u vašem životu
 **Samo za učitelje:** Pismo ne izjednačava jedinstvo sa jednoobraznošću. Međutim, ukazuje da hrišćani treba da se drže određenih suštinskih verovanja i upućuje na to da jedinstvo koje se razvija šalje važnu poruku svetu. **Uvodni razgovor:** je osmišljen da pomogne učenicima u razredu da shvate da ponekad grupa može da postigne više nego pojedinac.
 
 **Uvodni razgovor:**
+
 U mnogim sportskim događajima publika stvara efekte koje jedna osoba ne bi mogla. Na primer, gledaocima su prilikom jednog događaja dali velike četvrtaste kartone u različitim bojama. Rečeno im je da ih u određenom trenutku u toku programa podignu visoko iznad glave. Kartoni u obliku kvadrata zajedno su oblikovali poruku ili simbol koji su milioni gledalaca mogli videti širom sveta.
 
 Radeći zajedno, publika je bila u mogućnosti da postigne ono što pojedinac nije mogao učiniti sam. Bog je pozvao Crkvu da zajedničkim radom pošalje poruku mnogo snažniju od one koju bismo sami mogli preneti. Kada se ujedinimo u istini kakva je u Isusu i usredsredimo se na misiju Crkve, na izuzetan način pokazujemo svetu preobražavajuću silu Jevanđelja.
 
 **Za razgovor:**
+
 Da li ste ikada radili zajedno sa drugima da biste postigli nešto što sami niste mogli? Šta ste postigli? Kako je izgledalo raditi u timu? Kakvi stavovi su bili ključni za izvršenje ovog zadatka?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** U ovom odeljku pokušaćemo da utvrdimo povezanost između doktrina i njihovih implikacija na jedinstvo unutar Crkve, istražujući  kako doktrine utiču na odnose i identitet.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Jedinstvo i Jevanđelje*
 
@@ -93,7 +95,7 @@ Istina ne utiče na jedinstvo samo putem unutrašnjeg preobraženja. Ona, takođ
 
 **Razmislite o ovome:** Zašto je važan zajednički identitet? Kako on utiče na misiju Crkve? Kako identitet dobijen zahvaljujući ovim učenjima sprečava oholost ili isključivost? Na koje nas još načine doktrine o kojima proučavamo ove sedmice ujedinjuju u razumevanju Boga i nas lično?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:** Istina i doktrina se često posmatraju kao apstraktne tvrdnje koje svaki razgovor o istini i jedinstvu čine više filozofskim nego praktičnim. Međutim, doktrine nisu ni apstraktne ni proizvoljne. Osmišljene su da utiču na naš odnos sa Bogom i ljudima oko nas. Naglasite praktičnu stranu doktrina i kako živa istina može da izgleda u životu hrišćanina.
 
@@ -109,7 +111,7 @@ Istina ne utiče na jedinstvo samo putem unutrašnjeg preobraženja. Ona, takođ
 
 5. Koja doktrina Hrišćanske adventističke crkve vam je najviše pomogla da se sjedinite sa ostalim vernicima? Kako se to ostvarilo?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:** Mnogi vernici razmišljaju o doktrini samo kada proučavaju teme za krštenje ili kada pohađaju misionski program koji vodi njihova mesna crkva. Pomozite učenicima da uvide važnost pažljivijeg razmatranja doktrine imajući u vidu živu istinu kakva je u Isusu i ispunjavanje naloga da pokažu jedinstvo svetu.
 

@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   16/11/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Dela 11,17.
 
@@ -15,7 +15,7 @@ date:   16/11/2018
 
 **Činiti:** Tražiće vođstvo Svetog Duha i Pisma kada dođe do rasprave.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Načela za rešavanje sukoba
 
@@ -39,9 +39,9 @@ B. Kako možemo sprečiti da naše sklonosti stanu na put vođstvu Svetog Duha?
 
 **Zaključak:** Sukobe vezane sa odnose i teološka pitanja, sa kojima se suočila Rana crkva, crkvene vođe brzo su rešile pokoravajući se učenjima apostola i prepoznajući vođstvo Svetog Duha.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Dela 15,1-22.
 
@@ -55,11 +55,11 @@ B. Kako možemo sprečiti da naše sklonosti stanu na put vođstvu Svetog Duha?
 
 Izveštaj o Markionu pokazuje da sukobi, čak i jeresi, mogu da pruže Crkvi priliku da proučava i razjasni svoja verovanja. Kako je Hrišćanska adventistička crkva izrasla kao rezultat sukoba i teoloških neslaganja? Možete li da se setite sukoba u okviru kojih Crkva nije pronašla način da uzraste? Šta mislite zašto su pojedini događaji doveli do rasta, dok su drugi podelili Crkvu?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Dok proučavate izveštaje o sukobu u Delima apostolskim, pomozite razredu da shvati zašto su apostoli bili uspešni u rešavanju sukoba. Usredsredite se prvenstveno na ulogu Svetog Duha i to kako možemo prevazići svoje sklonosti.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Traženje rešenja*
 
@@ -102,7 +102,7 @@ Slediti vođstvo Duha nije uvek lako. Rizikujemo da odustanemo od svojih dragih 
 
 **Razmislite o ovome:** Zašto je grupa na putu u Jerusalim u 15. poglavlju Dela apostolskih odvojila vreme da stanovnicima Fenikije i Samarije ispriča o obraćenju neznabožaca? Šta mislite zašto je Petar povezao odgovor sa idejom da je Bog izabrao neznabošce? Da li su postojali još neki činioci osim vidljivog prisustva Svetog Duha koji su pomogli Ranoj crkvi da prihvati činjenicu da vernici nisu morali da postanu Jevreji pre nego što postanu hrišćani?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:** Iako se ova lekcija bavila crkvenim, a ne ličnim sukobima, vernici su neizbežno bili pod uticajem raširenih sukoba u Crkvi. Ovaj odeljak usredsređuje se na to kako su vernici reagovali kada su se našli usred sukoba. Podstaknite vernike da lično ispitaju svoje kulturološke sklonosti i traže Božju volju kada dođe do neslaganja.
 
