@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   28/12/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** 2. Petrova 3,13.
 
@@ -15,7 +15,7 @@ date:   28/12/2018
 
 **Činiti:** Živeće životom nade dok željno iščekuju ispunjenje Božjih obećanja.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Sigurnost obnovljenja
 
@@ -39,9 +39,9 @@ B. Kako izražavate svoju nadu u svakodnevnim odnosima?
 
 **Zaključak:** Možemo biti sigurni u obećanje o novom nebu i novoj Zemlji na kojoj neće biti ni traga greha ili nesklada. Na novoj Zemlji sva stvorenja iskusiće mir i jedinstvo koje je Bog planirao za njih.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Otkrivenje 21,1-5.
 
@@ -50,6 +50,7 @@ B. Kako izražavate svoju nadu u svakodnevnim odnosima?
 **Samo za učitelje:** U uvodu u lekciju, usredsredite se na sigurnost Drugog dolaska i Božje obećanje o novom nebu i Zemlji bez greha. Pomozite razredu da shvati da ta sigurnost vodi ka nadi koja na vidljiv način treba da utiče na hrišćanski život.
 
 **Uvodni razgovor:**
+
 Dvadeset drugog oktobra 1844. godine Vilijam Miler i na hiljade drugih hrišćana čekali su Hristov povratak. Čekajući, radosno su pevali pesme i pokušavali da zamisle kako će izgledati kada konačno budu sa Gospodom.
 
 Miler je odredio da će se proročanstvo o 2300 dana i noći iz Knjige proroka Danila ispuniti toga dana. Pretpostavio je da ovo ispunjenje ukazuje na datum Hristovog dolaska. U svojoj čežnji da budu sa Isusom, mileriti su širili vest o Isusovom skorom povratku svima koje su poznavali. Uvereni u Božju vernost da će održati svoja obećanja, mnogi su prodali ili poklonili svoju imovinu. Takva je bila njihova sigurnost i nada.
@@ -57,13 +58,14 @@ Miler je odredio da će se proročanstvo o 2300 dana i noći iz Knjige proroka D
 Slično se događalo u toku istorije kada su drugi proučavaoci Biblije određivali datume Gospodnjeg dolaska. Iako su pogrešili u shvatanju da svako može da zna vreme Drugog dolaska, mileriti i oni koji su nastavili da određuju datume pokazali su da nada u ispunjenje Božjih obećanja treba da izvrši uticaj na naš život upravo sada.
 
 **Za razgovor:**
+
 Kakav uticaj je očekivanje Drugog dolaska izvršilo na milerite? Kakav uticaj sigurnost Isusovog dolaska ima na vaš život? Da li je važno to što ne znate vreme kada će se ispuniti Božje obećanje? Kako na najbolji način možete da živite nadajući se novoj Zemlji i obnovljenju odnosa?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Ovaj odeljak bavi se pažljivim proučavanjem prirode i razmere obnovljenja obećanog u Pismu.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Ponovo stvoreno nebo i Zemlja*
 
@@ -94,9 +96,10 @@ U 11. poglavlju Knjige proroka Isaije nalazimo da su Božja pravednost i pravda 
 Isaijin opis života na novoj Zemlji obuhvata prikaz najsurovijih predatora koji mirno leže kraj svoga plena i ljudi. Isaija se približava čitaocu slikom deteta koje vodi domaće životinje – uobičajena praksa u izrailjskoj istoriji, koja se i danas može zapaziti među nomadskim narodima. U ovom tekstu, životinje koje predstavljaju najveću opasnost za stado prikazane su kako jedu i leže pokraj stada na vrelini dana. Mir i sklad među svim delima stvaranja je dalje istaknut naglašavanjem da čak i najmlađe dete može bezbedno da se igra sa životinjama koje bi obično predstavljale priličnu opasnost i za odrasle.
 
 **Razmislite o ovome:**
+
 Kako je tekst Isaija 11,1-5. povezan sa tekstom od 6. do 10. stiha? Kakav odnos vlada između mudrosti, pravednosti, pravde i mira? Kakvo obrazloženje je dato za mir u ovom tekstu? Šta se u ovom kontekstu podrazumeva pod znanjem Gospodnjim?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Znanje o obnovljenju koje Bog namerava da uspostavi u budućnosti ne treba smatrati zanimljivom beznačajnom sitnicom ili izgovorom za nezalaganje za sklad među Božjim narodom već sada. Pomozite učenicima da se usredsrede na poseban uticaj koji nada o obnovljenju treba da ima na njihov život.
 
@@ -110,7 +113,7 @@ Kako je tekst Isaija 11,1-5. povezan sa tekstom od 6. do 10. stiha? Kakav odnos 
 
 4. Uporedite obećanja data crkvama u 2. i 3. poglavlju Otkrivenja sa opisom nove Zemlje u 21. i 22. poglavlju Otkrivenja. Kakve sličnosti pronalazite? Šta tekstovi govori o tome kako nada u obnovljenje treba već sada da utiče na naš život?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:** Otkrivenje 21 i Isaija 11 predstavljaju živu sliku sklada i zajednice koje ćemo doživeti na novoj Zemlji. Pomozite učenicima da shvate obim i stvarnost te slike kako bi mogli težiti onome što će doći i tu nadu podeliti sa drugima.
 

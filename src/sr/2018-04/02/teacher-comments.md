@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   12/10/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Priče 9,10.
 
@@ -15,7 +15,7 @@ date:   12/10/2018
 
 **Činiti:** Odlučiće da radije slede Božju reč nego lične sklonosti u vezi sa tim šta je ispravno.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Poslušnost potpomaže jedinstvo
 
@@ -41,9 +41,9 @@ B. Kakve korake možete preduzeti ukoliko niste sigurni šta je Božja volja?
 
 **Zaključak:** Primeri iz Svetog pisma otkrivaju da vernost i poslušnost Božjoj volji širi jedinstvo i sklad među Božjim narodom. Međutim, neposlušnost i težnja da sledimo lične sklonosti stvaraju uslove za pojavu nejedinstva.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Priče 9,10.
 
@@ -59,11 +59,11 @@ U maju 2015. godine snažne padavine izazvale su poplave severno od Brizbena, u 
 
 U izveštaju koji smo čitali pronalazimo dva razloga za zanemarivanje pravog saveta. Kakvi još razlozi mogu navesti osobu da ignoriše pouzdan savet u ovakvoj situaciji? U kakve kategorije biste svrstali razloge koje ljudi obično navode da zanemare ono što je ispravno?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:**: U Bibliji nalazimo brojne primere ljudi koji su donosili pogrešne odluke, ali nalazimo, takođe, i temelj za donošenje boljih odluka. Pomozite učenicima da prepoznaju koliko je važno da traže Božju mudrost prilikom donošenja odluka i u trenucima kada dožive posledice pogrešnih odluka.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Čovekov sud o tome šta je ispravno i pogrešno*
 
@@ -91,7 +91,7 @@ Korint je bio važan trgovački centar, smešten na grčkom zemljouzu. Zbog bliz
 
 **Razmislite o ovome:** Kakvu vrstu jedinstva Pavle očekuje od Korinćana? Da li on očekuje da se u svemu slože? (Uporedite: 1. Korinćanima 1,10; 1. Korinćanima 8,7-13). Kako usredsređenost na Hrista donosi jedinstvo kakvo Pavle opisuje?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Lako je samo se složiti da je Božja mudrost najbolja, a ne dozvoliti da to saznanje promeni naš pristup životu. Pomozite razredu da pažljivo razmisli zašto se opiremo promeni, a zatim im pomozite da se usredsrede na ulogu zajednice sa Bogom u određivanju Njegove volje.
 
@@ -107,7 +107,7 @@ Korint je bio važan trgovački centar, smešten na grčkom zemljouzu. Zbog bliz
 
 5. Kako možemo nastaviti da usmeravamo svoju pažnju na Hrista kada smo toliko zauzetu u ovom svetu?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: Pavle povezuje Hrista sa mudrošću i poziva Korinćane da se usredsrede na ono što svet smatra ludošću – Isusovu smrt na krstu. Pomozite učenicima da usvoje praktičnu primenu Pavlovog rešenja za nejedinstvo u crkvi.
 

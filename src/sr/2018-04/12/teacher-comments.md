@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   21/12/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Matej 20,26.
 
@@ -15,7 +15,7 @@ date:   21/12/2018
 
 **Činiti:** Odlučiće da podrže pokušaje da neguju jedinstvo u Crkvi.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Autoritet i jedinstvo
 
@@ -41,9 +41,9 @@ B. Na koje načine možete iskoristiti svoje duhovne darove da biste izgradili C
 
 **Zaključak:** Vernici priznaju Hrista za Glavu Crkve. Ipak, stepen ljudske organizacije je važan za misiju i jedinstvo Crkve. Vođe neguju jedinstvo poniznom službom, podržavanjem istine, zalaganjem za disciplinu i organizovanjem crkvene misije.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Matej 20,25-28.
 
@@ -52,18 +52,20 @@ B. Na koje načine možete iskoristiti svoje duhovne darove da biste izgradili C
 **Samo za učitelje:** Koncept vođe koji primenjuje silu nad drugim ljudima nije u skladu sa modelom vlasti koji je Isus pokazao svojim učenicima. Hrišćanski vođa treba da bude ponizan i da služi. Na početku proučavanja naglasite vrednost toga da vođe budu sluge i da pokažu poniznost.
 
 **Uvodni razgovor:**
+
 Mahatma Gandi borio se početkom dvadesetog veka za nezavisnost Indije koja je bila pod britanskom vlašću. Kao pobožni hindus nosio je jednostavnu odeću i živeo životom dobrovoljnog siromaštva, služeći siromašnima u društvu i poistovećujući se sa njima. Dobrovoljno se javio da neguje one koje su drugi izbegavali, kao što su ljudi oboleli od gube ili pneumonske kuge. Posvećen pasivnom otporu, neprestano je pokazivao poniznost u odnosu sa drugima. Ironično je to što je Gandija privukao Isusov život, ali je odbacio hrišćanstvo jer hrišćani nisu živeli poput Hrista iz Biblije.
 
 Hrišćani su pozvani da služe. Iako Gandi nije bio hrišćanin, dao je primer kako vođa može da postupa kao sluga, služeći drugima i stavljajući potrebe drugih ispred ličnih potreba.
 
 **Za razgovor:**
+
 Šta je Gandijevo vođstvo činilo toliko snažnim? Zašto je mogao da oblikuje takav način vođstva u kome vođa postupa kao sluga? Na koji način ovakva vrsta vođstva privlači pažnju na cilj koji pojedinac predstavlja?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:** Svaki aspekt crkvene strukture vlasti nudi priliku da se suprotno kulturološkim shvatanjima pokaže ljubav, poniznost i vernost koje neguju jedinstvo Crkve. Naglasite koliko su Hristov vrhovni položaj i služba važni u shvatanju uloge vođe u Crkvi.  
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Struktura vlasti*
 
@@ -93,7 +95,7 @@ U svojoj knjizi Church Discipline: How The Church Protects the Name of Jesus (Wh
 **Razmislite o ovome:**
 Kada je potrebna disciplina? Šta mislite zašto su neke crkve suzdržane u primenjivanju crkvene discipline? Da li se slažete sa izjavom Džonatana Limena da je disciplina postupak ispunjen ljubavlju koji štiti Isusovo ime? Zašto se slažete i zašto ne? Na koje načine smatrate da crkvena disciplina utiče na misiju Crkve?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Pitanja za primenu omogućavaju učiteljma da se usredsrede na jednu od dve teme: ili 1) vođa kao sluga ili 2) povezanost između crkvene discipline i ljubavi.
 
@@ -109,7 +111,7 @@ Kada je potrebna disciplina? Šta mislite zašto su neke crkve suzdržane u prim
 
 5. Kakva razlika može da postoji u načinu na koji se bavi javnim i ličnim gresima?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: Lako je da ograničimo ulogu vođe kao sluge na one koji rade u upravi Crkve, ali svi vernici su pozvani da koriste svoje duhovne darove i služe Crkvi. Razgovarajte o ulozi duhovnih darova u izradnji Crkve. Pomozite svom razredu da shvati potrebu da svaki vernik treba voljno da služi.
 

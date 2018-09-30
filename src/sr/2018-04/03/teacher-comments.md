@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   19/10/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Jovan 17,20.21.
 
@@ -15,7 +15,7 @@ date:   19/10/2018
 
 **Činiti:** Nastojaće da svetu predstave Božji karakter ljubavi i jedinstva.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Nalog za jedinstvo
 
@@ -41,9 +41,9 @@ C. Kakve korake treba da preduzmete da biste tačnije odražavali Božji karakte
 
 **Zaključak:** Isusova molitva u 17. poglavlju Jevanđelja po Jovanu prikazuje Isusovu veliku želju da Njegovi sledbenici tačno predstavljaju Božju prirodu i karakter svetu. Jedinstvo namere između Oca i Sina ukazuje da je hrišćansko jedinstvo neophodno da bi se to ostvarilo.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Jovan 17,20.21.
 
@@ -57,11 +57,11 @@ Svaki hrišćanin je pozvan da bude Božji predstavnik. Način na koji razmišlj
 
 **Za razgovor:**: Kada ste nesvesno bili predstavnik nečega? Kakav utisak su vaši postupci ostavili u vezi sa osobom, zemljom ili sportom koji ste predstavljali? Da li je veća verovatnoća da ćete ostaviti bolji utisak kada izaberete da budete predstavnik nečega? Obrazložite svoj odgovor.  
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:**: Ovaj odeljak pruža sažet pregled različitih aspekata Isusove molitve vezanih za odnose iz 17. poglavlja Jevanđelja po Jovanu.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 Dugačka molitva u 17. poglavlju Jevanđelja po Jovanu sledi ono što neki proučavaoci prepoznaju kao tipično obraćanje prilikom opraštanja. Sam sadržaj molitve ukazuje da je molitva izgovorena u nameri da ohrabri učenike, koji će se uskoro suočiti sa izazovima bez Isusovog fizičkog prisustva.
 
@@ -100,10 +100,10 @@ Isus objašnjava da Bog na najbolji način može biti predstavljen svetu ispolja
 Preobraženje takođe ima na umu kada traži da učenici budu posvećeni istinom. Kada stupaju u dodir sa istinom kakva je u Isusu, Isusovi sledbenici iskusiće preobraženje svog života. Ova promena je važna budući da Hristovi sledbenici treba da svedoče o istini.
 
 **Razmislite o ovome:**
+
 Šta mislite zašto se Isus moli da Njegovi sledbenici budu jedno sa Njim i da vide Njegovu slavu? Za čiju se zaštitu Isus moli Bogu i zašto? Kakve promene se događaju kada smo u zajednici sa Isusom? Kako hrišćani mogu ostati u toj zajednici?
 
-
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Sledeća pitanja mogu pomoći članovima razreda da procene svoju ulogu i motivaciju u predstavljanju Božjeg karaktera.
 
@@ -119,7 +119,7 @@ Preobraženje takođe ima na umu kada traži da učenici budu posvećeni istinom
 
 5. Kakvu vrstu jedinstva Isus želi da ostvare Njegovi učenici? Razmotrite kakvo jedinstvo On ima sa Ocem. Kako to jedinstvo izgleda u praksi?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:**: Sledeće aktivnosti omogućavaju lično i zajedničko razmišljanje o povezanosti između naših dela i svedočenja.
 

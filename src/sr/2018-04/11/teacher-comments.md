@@ -3,7 +3,7 @@ title:  Pouka za učitelje
 date:   14/12/2018
 ---
 
-### SAŽETI PREGLED POUKE
+### Sažeti pregled pouke
 
 **Ključni tekst:** Otkrivenje 4,8-11.
 
@@ -15,7 +15,7 @@ date:   14/12/2018
 
 **Činiti:** Slaviće Boga i srcem i umom.
 
-### SMERNICE ZA PROUČAVANJE
+### Smernice za proučavanje
 
 **Saznati:** Pravo bogosluženje
 
@@ -41,9 +41,9 @@ B. Kako ova dva vida slavljenja izgledaju u praksi?
 
 **Zaključak:** Bogosluženje obuhvata ukazivanje časti i poštovanja, kao i službu i poslušnost. Božji karakter i dela otkupljenja podstiču odgovor Njegovih stvorenja u vidu službe dok zajedno uviđaju svoju zavisnost od Boga.
 
-### PROGRAM PROUČAVANJA
+### Program proučavanja
 
-##### 1. KORAK – MOTIVIŠITE
+##### 1. Korak – motivišite
 
 **Naglasite tekst:** Otkrivenje 14,6.7.
 
@@ -52,18 +52,20 @@ B. Kako ova dva vida slavljenja izgledaju u praksi?
 **Samo za učitelje:** Bogosluženje je ključno pitanje u poslednjim vremenima. Identitet onoga kome služimo određuje našu vernost. Na početku proučavanja naglasite koliko je važno da tačno utvrdimo kome služimo.
 
 **Uvodni razgovor:**
+
 Jednog letnjeg dana Džon je odlučio da ubere nekoliko pečuraka koje su rasle u blizini njegovog doma. Pohađao je kurs za branje pečuraka i znao je kako da ih razlikuje. Ugledao je pečurke koje je smatrao jestivima i ubrao ih za večeru. Nameravao je da ih proveri sa jednim poznavaocem pečuraka da bi bio siguran da su jestive, ali je zakasnio na sastanak. Siguran u svoj sud da su pečurke zaista jestive, pripremio ih je za večeru i pojeo. Međutim, Džon je pogrešio u određivanju vrste pečuraka. Pojeo je veoma otrovnu vrstu koja uništava jetru i često izaziva smrt. Osam časova kasnije, Džon je počeo da povraća, a testovi su pokazali da su jetra i bubrezi teško oštećeni. Džon je preživeo, ali njegova greška skoro da ga je koštala života.
 
 Apostol Jovan nas upozorava da treba da budemo podjednako obazrivi kada utvrđujemo šta je predmet našeg bogosluženja. Bog je jedini kome treba da služimo i naše bogosluženje treba da odražava našu vernost Njemu.
 
 **Za razgovor:**
+
 Zašto je razlikovanje jestivih i otrovnih pečuraka bilo teško? Na osnovu čega je Džon trebalo da napravi razliku među njima? Kako vam odgovor koji ste dali može pomoći da razmislite o tome kako vi razlikujete pravi sistem bogosluženja od lažnog?
 
-##### 2. KORAK – ISTRAŽITE
+##### 2. Korak – istražite
 
 **Samo za učitelje:**: U ovom odeljku proučavaćemo o karakteristikama službe Bogu i njegovoj ulozi u velikoj borbi. Naglasite da je razumevanje iz čega se sastoji služba Bogu osnovno da bismo sprečili sotonu da nas prevari lažnim oblicima bogosluženja. Ne dozvolite da razred skrene sa teme i započne razgovor o načinima bogosluženja i o tome kome se šta više sviđa.
 
-**BIBLIJSKI KOMENTAR**
+**Biblijski komentar**
 
 *1. Karakteristike bogosluženja*
 
@@ -88,9 +90,10 @@ U kom smislu se poslušnost može smatrati službom Bogu? Kako izgleda život po
 Važnost da shvatimo šta predstavlja prava služba Bogu istaknuta je središnjom ulogom koju ona ima u Trostrukoj anđeoskoj vesti i širem kontekstu velike borbe između Boga i sotone. Borba je započela sotoninom pobunom na Nebu i njegovim oholim poređenjem sa Bogom (Isaija 14,14). Kosmički rat se nastavlja izazivanjem samog Božjeg karaktera. Dok Bog pokazuje svoj karakter izlivanjem ljubavi i blagodati, što podstiče naš odgovor u vidu službe Njemu, sotona podstiče na službu prevarom. On nastoji da pomeri pažnju usmerenu na Boga postavljajući drugi sistem bogosluženja. Poruka prvog anđela predstavlja podsetnik da je Bog, Stvoritelj univerzuma, jedina Ličnost koja zaslužuje da joj se služi. Poštovanje sedmog dana Subote, koju je On posvetio, predstavlja čin službe i vernosti Njemu. Međutim, ograničiti taj čin samo na dan bogosluženja znači propustiti sveobuhvatne implikacije poruke. Slavljenje Tvorca ne čini se samo neposrednim proslavljanjem Njega na dan koji je odredio, već i poštovanjem Njegovih dela stvaranja. Poruka drugog anđela prikazuje Božju ljubav i blagodat, pružajući opomenu onima koji su zavedeni lažnim pristupima spasenju i službi Bogu. Konačno, u Trećoj anđeoskoj vesti vidimo da odluka da u svojoj službi budemo usredsređeni na pogrešnu stranu na kraju vodi u smrt, dok odluka da služimo samo Bogu vodi u život. Pošto je Bog Stvoritelj i Održavalac života, ne očekujemo ništa manje. Kada prekinemo vezu sa Izvorom života, čeka nas samo smrt.
 
 **Razmislite o ovome:**
+
 Šta mislite zašto je pitanje kome služimo u središtu Trostruke anđeoske vesti? Kako možete biti sigurni da služite Stvoritelju i da nećete dozvoliti sotoninim lukavstvima da vas zbune? Na koje načine nas sjedinjuju poruke trojice anđela?
 
-##### 3. KORAK – PRIMENITE
+##### 3. Korak – primenite
 
 **Samo za učitelje:**: Mi često ograničavamo službu Bogu na dešavanja Subotom ujutru. Međutim, služba Bogu je mnogo više od toga. Pomozite razredu da istraži šire dimenzije bogosluženja.
 
@@ -104,7 +107,7 @@ Važnost da shvatimo šta predstavlja prava služba Bogu istaknuta je središnjo
 
 4. Da li je vaše trenutno učešće u bogoslužbenim aktivnostima odgovor koji ste dali iz celog srca?
 
-##### 4. KORAK – BUDITE KREATIVNI
+##### 4. Korak – budite kreativni
 
 **Samo za učitelje:** Pozvani smo da se poklonimo Bogu koji nas je stvorio i otkupio. Sledeće aktivnosti pomoći će učesnicima da se usredsrede na Boga, Središte našeg bogosluženja.
 
