@@ -54,6 +54,7 @@ var LOCALE_VARS = {
     "no": "Lekse",
     "ko": "교훈",
     "lo": "ບົດຮຽນ",
+    "lt": "Pamoka"
     "pl": "Lekcja",
     "pt": "Lição",
     "ro": "Lecție zilnică",
@@ -91,6 +92,7 @@ var LOCALE_VARS = {
     "no": "### <center>Vi jobber med denne leksjonen.</center>\n<center>Prøv igjen senere.</center>",
     "ko": "### <center>우리는이 공과를 위해 노력하고있다..</center>\n<center>나중에 다시 시도 해주십시오..</center>",
     "lo": "### <center>ພວກເຮົາກໍາລັງເຮັດວຽກໃນບົດຮຽນນີ້.</center>\n<center>ກະລຸນາກັບຄືນມາຫຼັງຈາກນັ້ນ.</center>",
+    "lt": "### <center>Pamoka kuriama.</center>\n<center>Kviečiame sugrįžti vėliau.</center>",
     "pl": "### <center>Pracujemy nad tą lekcją.</center>\n<center>Proszę przyjść później.</center>",
     "pt": "### <center>Estamos a trabalhar sobre esta lição.</center>\n<center>Volte mais tarde, por favor.</center>",
     "ro": "### <center>Lucrăm la această lecție.</center>\n<center>Te rog intoarce-te mai tarziu.</center>",
