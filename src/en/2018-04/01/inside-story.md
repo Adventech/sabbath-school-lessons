@@ -13,7 +13,7 @@ The three-story facility that houses the Bangladesh Adventist Nursing Institute 
 
 “This place will send hundreds of missionaries all over this vast and mighty country, and it will be a blessing from heaven,” Adventist Church president Ted N. C. Wilson said at a ribbon-cutting ceremony for the nursing school in late 2016. “May God bless this nursing college.”
 
-The school, which has room for 100 students, opened for classes in 2017.The new building—with 10 classrooms, four laboratories, a conference room, and other facilities—received US$150,000 of its $400,000 price tag from a Thirteenth Sabbath Offering given by church members worldwide in third quarter 2015, said Myrun Ju Lee, president of the Bangladesh Adventist Seminary and College. Another $100,000 came from the Adventist Church’s Southern Asia-Pacific Division, whose territory of 14 countries includes Bangladesh, and the rest came from individual donors in South Korea.
+The school, which has room for 100 students, opened for classes in 2017.The new building—with 10 classrooms, four laboratories, a conference room, and other facilities—received USD 150,000 of its 400,000 price tag from a Thirteenth Sabbath Offering given by church members worldwide in third quarter 2015, said Myrun Ju Lee, president of the Bangladesh Adventist Seminary and College. Another 100,000 came from the Adventist Church’s Southern Asia-Pacific Division, whose territory of 14 countries includes Bangladesh, and the rest came from individual donors in South Korea.
 
 Saw Samuel, president of the Southern Asia-Pacific Division, described the establishment of the nursing school as a remarkable accomplishment that would not have been possible without the Thirteenth Sabbath Offering.
 
