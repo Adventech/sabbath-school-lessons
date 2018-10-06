@@ -15,7 +15,7 @@ So, we started going through our membership records at the Milton Seventh-day Ad
 
 Surprises abounded when I gave a similar prayer challenge at my previous church in Spokane, Washington. About three weeks after we started to pray, I received a letter from a woman who had left the church 15 years earlier. The woman had quit church after failing to return a storybook from the church library. She had moved to another state and, she wrote, had been too lazy to find a way to return the book. But guilt had gnawed at her heart and then grown into a cancer that poisoned her relationship with God.
 
-The woman wrote that she had suddenly remembered the book and felt convicted to reach out to the church. She apologized for taking the book and enclosed $50 to cover the book’s cost and 15 years of interest on its value.
+The woman wrote that she had suddenly remembered the book and felt convicted to reach out to the church. She apologized for taking the book and enclosed 50 to cover the book’s cost and 15 years of interest on its value.
 
 I called up the woman immediately and learned that her sense of conviction had begun growing only when our church had started to pray 1,500 miles (2,400 kilometers) away. I put her in touch with her local Adventist pastor, and she became an active member of that church.
 

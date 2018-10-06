@@ -11,9 +11,9 @@ After attending a pastors’ conference in another country, friends asked me to 
 
 “I’ll take the box of books only if the bus driver agrees to assume responsibility for it,” I told my friends.
 
-Bus drivers often agree to carry extra cargo in exchange for a cash payment, and my bus driver agreed to help for US$100. A friend and I boarded the bus and settled in for the long ride.
+Bus drivers often agree to carry extra cargo in exchange for a cash payment, and my bus driver agreed to help for US 100. A friend and I boarded the bus and settled in for the long ride.
 
-Arriving at the border at night, the driver approached me for information about the box. He wanted to know how to speak with the border guards. When I told him that the box contained Christian books, he pulled the $100 bill from his pocket and handed it back to me. “It’s easier for me to smuggle cocaine than Christian books across the border,” he said.
+Arriving at the border at night, the driver approached me for information about the box. He wanted to know how to speak with the border guards. When I told him that the box contained Christian books, he pulled the 100 bill from his pocket and handed it back to me. “It’s easier for me to smuggle cocaine than Christian books across the border,” he said.
 
 My friend and I had no choice. We knelt beside the bus and repacked the books into our suitcases. Then we prayed as we joined the line of passengers at the border crossing. The person ahead of us put his bags on the scanner belt and walked through customs. Then we put our suitcases on the belt. The border guard pressed the button to start the belt, but it didn’t move. He pushed the button again. He pounded the button and swore. Still, the belt didn’t move.
 
