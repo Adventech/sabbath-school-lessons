@@ -44,22 +44,22 @@ Startfragen:
         diesen auch zu befolgen?
     -   Was bewirkte der Unterschied zwischen Gehorsam und Ungehorsam in
         deinem Leben?
-    -   
 
 **Richter 17,6 + Richter 21,25**
 
 -   Fragen zum Text:
-    -   Was wird mit dieser Phrase "jeder tat, was ihn recht dünkte"
+    -   Was ist mit der Phrase "jeder tat, was ihn recht dünkte"
         gemeint?
     -   Was führte die Israeliten dazu, so zu handeln, wie sie es für
-        richtig hielten? Wie hätten sie diesen Irrtum vermieden können?
+        richtig hielten? Wie hätten sie diesen Irrtum vermeiden können?
     -   Welcher "König" hat in Israel gefehlt, sodass das Volk moralisch
         so orientierungslos war? Gott oder ein menschlicher König?
         Begründe deine Antwort.
 -   Fragen zur Botschaft:
-    -   Was hilft euch, diese so vielen moralischen Entscheidungen
-        richtig zu treffen?
-    -   
+    -   Was hilft euch moralische Entscheidungen richtig zu treffen?
+    -   Wir leben in einer pluralistischen Welt, in der jeder das tut,
+        was ihm gefällt. Warum gibt es dennoch für euch nichts Besseres,
+        als nach Gottes Prinzipien das eigene Leben auszurichten?
 
 **1. Könige 12,1-16**
 
@@ -70,7 +70,7 @@ Startfragen:
         3,5-9)?
 -   Fragen zur Botschaft:
     -   Wart ihr von einer Idee schon einmal so überzeugt, dass ihr
-        entschieden habt, sie sie Gottes Wille für euch? Was ergab sich
+        entschieden habt, sie sei Gottes Wille für euch? Was ergab sich
         aus eurer Entscheidung?
     -   Wie oft hört man: "Das war eine Bauchentscheidung." Wie denkt
         ihr darüber?
@@ -89,12 +89,11 @@ Startfragen:
         Weisheit im Buch der Sprüche mit dem im Jakobusbrief? Warum oder
         warum nicht? Wie hängen beide Vorstellungen zusammen? Warum sind
         beide wichtig?
-    -   ...
-    -   ...
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was hilft euch für weisen Rat offen zu sein?
+    -   Wie kommt ihr mit der Tatsache zurecht, dass viele Menschen
+        unweise Entscheidungen treffen und sich damit selbst und oftmals
+        auch das Leben anderer verbauen?
 
 **1. Korinther 1,10-17**
 
@@ -115,24 +114,25 @@ Startfragen:
 **Apostelgeschichte 20,25-31**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Die Tatsache, dass es auch einen Epheserbrief mit vielen
+        Ermahnungen gibt, macht deutlich, dass diese Abschiedsrede des
+        Paulus an die Epheser in Apostelgeschichte 20,25-32 leider sehr
+        realistisch war. Mit welchen internen Problemen war die Gemeinde
+        von Ephesus konfrontiert?
 -   Fragen zur Botschaft:
-    -   Welche "Wölfe", die die Einheit der Adventgemeinde gefährden,
-        kennt ihr?
-    -   ...
-    -   ...
+    -   Was können wir von der Abschiedsrede des Paulus an die Gemeinde
+        Ephesus lernen?
+    -   Was hilft euch, sich vor räuberischen "Wölfen" in der Gemeinde
+        zu schützen?
 
 **2. Timotheus 2,14-19 + 2. Timotheus 3,12-17**
 
 -   Fragen zum Text:
-    -   Wie sind laut Paulus falschen Lehrern zu begegnen?
     -   Wie soll gemäß Paulus die Einheit der Gemeinde erhalten werden?
-    -   ...
-    -   ...
 -   Fragen zur Botschaft:
-    -   
+    -   Wie soll wir laut Paulus falschen Lehrern begegnen?
+    -   Warum ist die Schrift (= Gottes Wort) die Grundlage für jegliche
+        wahre Weisheit?
 
 Teil 3: Mission
 ---------------
@@ -144,6 +144,15 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
+-   ***Wie wäre es mit einem Nachbarschaftstreffen - als Beitrag zur
+    nachbarschaftlichen Einheit?***
+    -   ***Tue dich mit ein paar Gemeindegliedern (aus deiner
+        Aktionsgruppe/Hauskreis/Car-Group) zusammen, sammelt Ideen zur
+        Umsetzung, Aktivitäten, Zeitpunkt usw.***
+    -   ***Welche Spiele, Aktivitäten können Einheit fördern.***
+-   ***Wie wäre es mit einer Jugendstunde /ADWA-Stunde mit dem Thema
+    Einheit?***
+-   ***Überlegt welche Einheitsprojekte in den nächsten drei Monaten
+    verwirklicht werden können.***
 
 <center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
