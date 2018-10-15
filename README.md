@@ -167,7 +167,7 @@ Folder structure for quarterly looks like that
 - `TYPE` is the short representation of quarterly type. Omitted if adult version of the lesson
 
 Quarterly info file must be named `info.yml` and placed in the root folder of the quarterly. As you may understand it
-is written in YAML format. See for example `src/en/2018-04/info.yml` for more.
+is written in YAML format. See for [example](https://github.com/Adventech/sabbath-school-lessons/tree/master/src/en/2018-04/info.yml) `src/en/2018-04/info.yml` for more.
 
 Quarterly cover file must be named `cover.png` and placed in the root folder of the quarterly. It's a PNG image that represents
 the cover of the quarterly.
