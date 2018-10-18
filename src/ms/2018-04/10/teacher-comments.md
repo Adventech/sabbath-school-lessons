@@ -1,0 +1,7 @@
+---
+title:  Panduan Guru
+date:   07/12/2018
+---
+
+### <center>Kami sedang menjalankan pelajaran ini.</center>
+<center>Sila balik kemudian.</center>
