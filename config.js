@@ -60,6 +60,10 @@ var BIBLE_PARSER_CONFIG = {
     "nr2006"
   ],
 
+  "lt": [
+    "lit"
+  ],
+
   "he": [
     "em-1865"
   ],
