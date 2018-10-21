@@ -55,6 +55,7 @@ Below is current list of languages and capabilities implemented
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
+
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
 |🇸🇪 Swedish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇹🇭 Thai|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
@@ -130,7 +131,7 @@ _* CQ - Collegiate Quarterly_
 - [ ] Add Malayalam Language 🇧🇳 🇲🇾
 - [x] Add Nepali Language 🇳🇵
 - [ ] Add SiSwati Language 🇸🇿
-- [ ] Add Sesotho Language 🇱🇸
+- [x] Add Sesotho Language 🇱🇸
 - [x] Add Tamil Language 🇮🇳
 - [ ] Add Xhosa Language 🇿🇦
 - [ ] Add Zulu Language 🇿🇦
