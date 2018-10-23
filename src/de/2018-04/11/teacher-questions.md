@@ -28,26 +28,39 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-'''<a href="https://www.bibleserver.com/text/LUT/Offenbarung4,8.11" class="bibleserver extern" target="_blank">Offenbarung
-4,8.11</a>; 5,9-10.12-13.
+**<a href="https://www.bibleserver.com/text/LUT/Offenbarung4,8.11" class="bibleserver extern" target="_blank">Offenbarung
+4,8.11</a>; 5,9-10.12-13**
 
-`Fragen zum Text:`
+-   Fragen zum Text:
 
--   -   ...
-    -   ...
-    -   ...
+<!-- -->
+
+-   -   Mit welcher Örtlichkeit sind diese Texte verbunden?
+    -   Welche wichtigen Elemente der Anbetung enthalten diese Texte?
+    -   Welche Wesen benützen diese Formulierungen?
+
+<!-- -->
 
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+
+<!-- -->
+
+-   -   Inwiefern ist diese Weise der Anbetung auch für uns
+        beispielhaft?
+    -   Wer steht im Mittelpunkt dieser Huldigung?
+    -   Welche Bedeutung und welchen Einfluss hat Anbetung für unsere
+        Gottesbeziehung?
 
 **Text**
 
 -   Fragen zum Text:
+    -   Warum war gerade die dritte Versuchung Jesu in der Wüste so
+        ungeheuerlich?
     -   ...
     -   ...
-    -   ...
+
+<!-- -->
+
 -   Fragen zur Botschaft:
     -   ...
     -   ...
