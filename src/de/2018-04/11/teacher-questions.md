@@ -28,36 +28,31 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-**<a href="https://www.bibleserver.com/text/LUT/Offenbarung4,8.11" class="bibleserver extern" target="_blank">Offenbarung
-4,8.11</a>; 5,9-10.12-13**
+Offenbarung 4,8.11; 5,9-10.12-13
 
 -   Fragen zum Text:
-
-<!-- -->
-
--   -   Mit welcher Örtlichkeit sind diese Texte verbunden?
+    -   Mit welcher Örtlichkeit sind diese Texte verbunden?
     -   Welche wichtigen Elemente der Anbetung enthalten diese Texte?
     -   Welche Wesen benützen diese Formulierungen?
 
 <!-- -->
 
 -   Fragen zur Botschaft:
-
-<!-- -->
-
--   -   Inwiefern ist diese Weise der Anbetung auch für uns
-        beispielhaft?
     -   Wer steht im Mittelpunkt dieser Huldigung?
+    -   Inwiefern ist diese Weise der Anbetung auch für uns beispielhaft
     -   Welche Bedeutung und welchen Einfluss hat Anbetung für unsere
         Gottesbeziehung?
 
-**Text**
+Matthäus 4,8-9; Daniel 3,8-10; Offenbarung 13,4 und 14,9-11
 
 -   Fragen zum Text:
     -   Warum war gerade die dritte Versuchung Jesu in der Wüste so
         ungeheuerlich?
-    -   ...
-    -   ...
+    -   Woher nahmen die drei Jünglinge ihre Kraft, dem Zwang zur
+        falschen Anbetung zu widerstehn?
+    -   Wen beten die Menschen eigentlich an, wenn sie das Tier anbeten?
+    -   Von welchen damit verbundenen Konsequenzen spricht der dritte
+        Engel in seiner Botschaft an die Welt?
 
 <!-- -->
 
