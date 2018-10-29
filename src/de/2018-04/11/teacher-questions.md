@@ -57,11 +57,14 @@ Matthäus 4,8-9; Daniel 3,8-10; Offenbarung 13,4 und 14,9-11
 <!-- -->
 
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was können wir aus der Erfahrung der drei Jünglinge in der Ebene
+        Dura für die Zeit der großen Trübsal lernen?
+    -   Inwiefern erfordert diese schlimme Zeit für die Kinder Gottes
+        einen unerschütterlichen Glauben?
+    -   Welche Arten von Versuchung könnten auch für uns heute eine
+        besondere Gefahr darstellen?
 
-**Text**
+Offenbarung 14,6-7
 
 -   Fragen zum Text:
     -   ...
