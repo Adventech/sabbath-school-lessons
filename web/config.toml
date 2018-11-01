@@ -318,3 +318,21 @@ title = "Sabbath School"
 	current = "Aktuellt avsnitt"
 	archive = "Avsnittsarkiv"
 	lang = "🇸🇪 Svenska"
+
+[params.lt]
+	title = "Sabato Mokykla"
+	back = "Eik atgal"
+	all = "Visos pamokos"
+	todaysLesson = "Šiandienos pamoka"
+	current = "Dabartinė pamoka"
+	archive = "Pamokų archyvas"
+	lang = "🇱🇹 Lietuviškai"
+
+[params.st]
+	title = "Sekolo sa Sabatha"
+	back = "Leba morao"
+	all = "Lithuto tsohle"
+	todaysLesson = "Thuto ea kajeno"
+	current = "Thuto ea hona joale"
+	archive = "Archive ea thuto"
+	lang = "🇿🇦 Sesotho"

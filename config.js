@@ -129,6 +129,11 @@ var BIBLE_PARSER_CONFIG = {
     "biblija"
   ],
 
+  "st": [
+    "sso61",
+    "sso89"
+  ],
+
   "sv": [
     "sf1998"
   ],
