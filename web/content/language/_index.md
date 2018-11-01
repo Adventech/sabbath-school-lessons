@@ -106,4 +106,10 @@ languages:
   - native: Svenska
     en: Swedish
     code: sv
+  - native: Lietuviškai
+    en: Lithuanian
+    code: lt
+  - native: Ssesotho
+    en: Sesotho
+    code: st
 ---
