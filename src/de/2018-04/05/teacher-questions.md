@@ -71,7 +71,8 @@ date:   03/11/2018
     für eine gute Gemeinschaft und evangelistischen Erfolg?
 -   Vv.44-45: Ist die Gemeinschaft in Notsituationen bis hin zur
     Gütergemeinschaft eine Voraussetzung für ein gutes, gesundes Klima
-    in der Gemeinde? Ist dies notwendig für vollkommene Einheit?
+    in der Gemeinde? Ist dies notwendig für vollkommene Einheit? Warum
+    war das damals kein frühchristilcher Kommunismus?
 -   Vv.46-47: Welche Rolle spielen die TÄGLICHE Gemeinschaft sowie das
     FREUDIGE Herz für ein enges Miteinander? Wie oft muss man sich
     sehen, um eine wirkliche Einheit sein zu können? Genügt einmal pro
@@ -87,6 +88,9 @@ date:   03/11/2018
     schlimmere Sünden heute (und auch schon früher) von Gott nicht
     sofort geahndet wurden? Wonach mag sich der Zeitpunkt der göttlichen
     „Vollstreckung“ richten?
+-   Wie können wir verhindern, geizig zu werden?
+-   Wie können wir sicherstellen, dass äußerer Schein und das wirkliche
+    Sein zusammenpassen?
 
 ### **Donnerstag: Denkt an die Armen**
 
