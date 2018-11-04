@@ -13,7 +13,7 @@ languages:
   - native: Українська
     en: Ukrainian
     code: uk
-  - native: Deutsche
+  - native: Deutsch
     en: German
     code: de
   - native: Français
