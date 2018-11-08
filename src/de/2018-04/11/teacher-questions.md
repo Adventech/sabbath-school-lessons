@@ -67,13 +67,21 @@ Matthäus 4,8-9; Daniel 3,8-10; Offenbarung 13,4 und 14,9-11
 Offenbarung 14,6-7
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   An wen ist die erste Engelsbotschaft gerichtet und was ist ihr
+        zentraler Gedanke?
+    -   Inwiefern hat das Sabbatgebot dabei eine tragende Bedeutung?
+    -   Welche Haltung der Menschen wird in der letzten Zeit
+        entscheidend sein?
+    -   Inwiefern kann es in der letzten Krise nur zwei Gruppen von
+        Menschen geben?
+    -   
+
+-   Fragen zur Botschaft
+    -   In welcher Verantwortung stehen wir in Bezug auf diese
+        Botschaft?
+    -   Inwiefern könnte diese Aufforderung an die Welt auch bei uns
+        persönlich eine gewisse Unruhe erzeugen?
+    -   Warum brauchen wir keine Furcht zu haben. Was hilft uns dabei?
 
 **Text**
 
