@@ -55,7 +55,7 @@ Below is current list of languages and capabilities implemented
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
-
+|🇱🇸 Sesotho|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
 |🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
 |🇸🇪 Swedish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇹🇭 Thai|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
