@@ -74,8 +74,6 @@ Offenbarung 14,6-7
         entscheidend sein?
     -   Inwiefern kann es in der letzten Krise nur zwei Gruppen von
         Menschen geben?
-    -   
-
 -   Fragen zur Botschaft
     -   In welcher Verantwortung stehen wir in Bezug auf diese
         Botschaft?
@@ -83,27 +81,38 @@ Offenbarung 14,6-7
         persönlich eine gewisse Unruhe erzeugen?
     -   Warum brauchen wir keine Furcht zu haben. Was hilft uns dabei?
 
-**Text**
+Apostelgeschichte 2,42; 17,10-11; 2. Timotheus 3,14-17
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Schwerpunkte können wir in der Anbetung der ersten
+        Christen erkennen?
+    -   Welche Wirkung hatte die Auffindung des Gesetzbuches auf das
+        Gottesvolk in 2. Könige 22?
+    -   Inwiefern waren die Juden in Beröa besonders offen für das Wort
+        Gottes?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Inwiefern ist für uns das Bibelstudium, Gebet und die
+        Gemeinschaft untereinander so wichtig?
+    -   Welche Folgen hätte es, dieses Verhalten zu vernachlässigen?
+    -   Wie wirkt sich Weitergeben, Lehren und Beraten in Bezug auf
+        Gottes Wort auch auf uns persönlich aus?
 
-**Text**
+Apostelgeschichte 1,14; 4,23-31; 1.Tim 2,1
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was wird uns von diesen Versammlungen berichtet?
+    -   Wie reagierten die Gläubigen auf den Bericht der Apostel, als
+        diese vom Verhör beim Hohen Rat zurück kamen?
+    -   Für welche Zielgruppe ist dem Apostel Paulus die Fürbitte ein
+        besonderes Anliegen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Inwiefern ist die Art und Weise, sowie der geistliche
+        Hintergrund dieser Zusammenkünfte, auch für uns ein Vorbild?
+    -   Welche Gedanken beschäftigen uns, wenn wir die Berichte über das
+        Verhalten der ersten Christen lesen?
+    -   Welchen Stellenwert hat die Fürbitte in unseren Gebeten?
+    -   Welche Auswirkungen haben unsere Fürbitten auf uns und unsere
+        Einheit mit Jesus?
 
 Teil 3: Mission
 ---------------
