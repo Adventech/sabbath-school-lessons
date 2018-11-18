@@ -13,7 +13,7 @@ languages:
   - native: Українська
     en: Ukrainian
     code: uk
-  - native: Deutsche
+  - native: Deutsch
     en: German
     code: de
   - native: Français
@@ -106,4 +106,10 @@ languages:
   - native: Svenska
     en: Swedish
     code: sv
+  - native: Lietuviškai
+    en: Lithuanian
+    code: lt
+  - native: Ssesotho
+    en: Sesotho
+    code: st
 ---

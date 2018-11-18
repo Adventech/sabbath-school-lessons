@@ -1,6 +1,7 @@
 var BIBLE_PARSER_CONFIG = {
   "af": [
-    "afr83"
+    "afr83",
+    "afr1953"
   ],
   "ar": [
     "svd"
@@ -58,6 +59,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "it": [
     "nr2006"
+  ],
+
+  "lt": [
+    "lit"
   ],
 
   "he": [
@@ -123,6 +128,11 @@ var BIBLE_PARSER_CONFIG = {
 
   "sr": [
     "biblija"
+  ],
+
+  "st": [
+    "sso61",
+    "sso89"
   ],
 
   "sv": [
