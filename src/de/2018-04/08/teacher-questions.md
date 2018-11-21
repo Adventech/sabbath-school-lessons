@@ -46,40 +46,42 @@ Erlösung in Jesus
     -   Welches Ziel hat Gott mit uns?
     -   Wie kann uns dieser Text in unserer Unterschiedlichkeit einen?
 
-### Fragen zur Erschließung des der Texte und zur Vertiefung des persönlichen Glaubens
+Jesu Dienst im Heiligtum
 
-Hier sollen die Hauptaussagen der Texte gefunden und vertieft werden,
-sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
-
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
-
-**Text**
+**Hebräer 9,11-12.23-28**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Gegenüberstellungen werden zwischen dem
+        alttestamentlichen Priesterdienst und dem Dienst Jesu gemacht?
+    -   Welche verschiedenen Rollen übt Jesus aus?
+    -   Was hat Jesus für uns durch seinen Dienst bewirkt?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie würdet ihr die Aussage "durch sein eigenes Opfer die Sünde
+        aufzuheben" erklären?
+    -   Warum ist es wichtig, Jesu Dienst im himmlischen Heiligtum zu
+        verstehen?
+    -   Was bedeutet der Dienst Jesu für dein persönliches Leben?
+    -   Wie illustriert der Text, dass Jesus wirklich das vollkommene
+        Opfer für die Sünden der Welt war?
 
-**Text**
+Der Sabbat
+
+**Hesekiel 20,12.20; 2.Mose 20,11; 5.Mose 5,15**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   An welche Taten Gottes soll uns der Sabbat erinnern?
+    -   Was soll uns laut dem Text der Sabbat vor Augen führen?
+    -   Wie prägt der Sabbat unsere Beziehung zu Gott?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was verbindet ihr persönlich besonders mit dem Sabbat?
+    -   Was würdet ihr jemandem raten, der die besondere (heilige) Kraft
+        Gottes am Sabbat erleben möchte?
+    -   Welche besonderen Erfahrungen habt ihr mit dem "Bund" des
+        Sabbats gemacht?
 
-**Text**
+Tod und Auferstehung
+
+**1.Thessalonicher 4,13-18**
 
 -   Fragen zum Text:
     -   ...
