@@ -81,16 +81,20 @@ Der Sabbat
 
 Tod und Auferstehung
 
-**1.Thessalonicher 4,13-18**
+**1. Thessalonicher 4,13-18**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Durch welche Aussagen bringt Paulus Klarheit (statt ungewiss zu
+        sein)?
+    -   Wo spiegelt sich in diesem Text das Thema "Einheit" wieder?
+    -   Worauf Gründet sich die Hoffnung auf eine Auferstehung?
+    -   Warum hat Paulus diesen Abschnitt verfasst?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Woran denkt ihr, wenn ihr an die Auferstehung denkt?
+    -   Warum betont Paulus die "Einheit" der Auferstandenen und
+        Verwandelten nach der Wiederkunft?
+    -   Was gibt euch besonders Hoffnung, wenn ihr an die Auferstehung
+        denkt?
 
 Teil 3: Mission
 ---------------
