@@ -49,7 +49,7 @@ Was sind die Folgen von Uneinigkeit (bzw. Streit) in einer Gemeinde?
     -   ...Wie kann „Brückenbau“ zwischen zwei zerstrittenen Menschen
         funktionieren?
     -   ...Was ist vom Brückenbauer einzubringen?
-    -   ...Welche Hindernisse gibt es da? Wie muss der Dritte zu den
+    -   ...Welche Hindernisse gibt es da? Wie muss dieser Dritte zu den
         beiden stehen?
 
 ### Dienstag: Geistliche Gaben für die Einheit
@@ -60,7 +60,8 @@ Was sind die Folgen von Uneinigkeit (bzw. Streit) in einer Gemeinde?
     -   ...Welche Rolle spielt unsere "Ego" im Dienst? Was ist dabei
         gut? Was ist dabei gefährlich/schädlich?
     -   ...Was ist „Erfolg“ im Christentum?
-    -   ...Wer ist da erfolgreich? (hl Geist, Gemeinde, oder …?)
+    -   ...Wer ist da erfolgreich? (hl Geist, Gemeinde, oder …?) Wann
+        stärkt ein Erfolg "die Einheit der Gemeinde"?
     -   ...Wie sieht Zusammenarbeit in der Gemeinde konkret aus? Worauf
         ist es wichtig zu achten?
     -   ...Was motiviert mich, das Wirken anderer zu unterstützen?
@@ -78,6 +79,8 @@ Was sind die Folgen von Uneinigkeit (bzw. Streit) in einer Gemeinde?
     -   ...Stelle ich Bedingungen um jemandem vergeben zu können?
         Welche?
     -   ...Was hindert mich zu vergeben? Was hilft mir zu vergeben?
+    -   ...Was können Folgen sein, wenn man nicht vergibt?
+    -   ...Beinhaltet "Vergeben" auch ein "Vergessen"?
     -   ...Was ist der Unterschied zwischen "Vergeben" und "Versöhnen"?
 
 ### Donnerstag: Wiederherstellung und Einheit
@@ -85,7 +88,7 @@ Was sind die Folgen von Uneinigkeit (bzw. Streit) in einer Gemeinde?
 **Matth 18,15-17**
 
 -   Fragen zum Text:
-    -   ...Was meint „wie ein Heide und Zöllner“?
+    -   ...Was meint „wie ein Heide und Zöllner“? (Vers 17)
     -   ...Wie sollten die Christen mit solchen Menschen umgehen? Was
         tat Jesus?
 -   Fragen zur Botschaft:
@@ -94,6 +97,7 @@ Was sind die Folgen von Uneinigkeit (bzw. Streit) in einer Gemeinde?
     -   ...Wieso ist der direkte Weg zur Versöhnung besser als über
         einen "Brückenbauer"?
     -   ...Wie könnte man so ein Gespräch beginnen? Worauf achten?
+    -   ...Welche Rolle spielt auch hier "Wertschätzung"?
 
 Teil 3: Mission
 ---------------
