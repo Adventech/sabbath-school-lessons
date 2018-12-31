@@ -1,6 +1,6 @@
 ---
 title: Misjonilugu
-date:
+date:   25/01/2019
 ---
 
 #### 2 võimatut palvet

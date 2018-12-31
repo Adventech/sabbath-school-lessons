@@ -1,6 +1,6 @@
 ---
 title: Misjonilugu
-date: 05/10/2018
+date: 04/10/2018
 ---
 
 #### Tunnistuse vägi
