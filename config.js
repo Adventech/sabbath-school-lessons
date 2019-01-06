@@ -69,6 +69,13 @@ var BIBLE_PARSER_CONFIG = {
     "em-1865"
   ],
 
+  "hr": [
+    "ivan-saric",
+    "jeruz",
+    "tomislav",
+    "danicic"
+  ],
+
   "hu": [
     "mb1975"
   ],

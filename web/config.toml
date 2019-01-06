@@ -336,3 +336,12 @@ title = "Sabbath School"
 	current = "Thuto ea hona joale"
 	archive = "Archive ea thuto"
 	lang = "🇿🇦 Sesotho"
+
+[params.hr]
+	title = "Biblijske Pouke"
+	back = "Vratite se"
+	all = "Sve lekcije"
+	todaysLesson = "Današnja lekcija"
+	current = "Trenutna lekcija"
+	archive = "Arhiva lekcija"
+	lang = "🇭🇷 Hrvatski"
