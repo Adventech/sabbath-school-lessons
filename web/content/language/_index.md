@@ -112,7 +112,7 @@ languages:
   - native: Ssesotho
     en: Sesotho
     code: st
-  - native: Hrvatski
-    en: Croatian
-    code: hr
+  - native: Tagalog
+    en: Tagalog
+    code: tl
 ---
