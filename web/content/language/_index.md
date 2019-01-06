@@ -115,4 +115,7 @@ languages:
   - native: Hrvatski
     en: Croatian
     code: hr
+  - native: Tagalog
+    en: Tagalog
+    code: tl
 ---

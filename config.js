@@ -155,6 +155,10 @@ var BIBLE_PARSER_CONFIG = {
     "th-1971"
   ],
 
+  "tl": [
+    "ang-biblia"
+  ],
+
   "tr": [
     "kitab"
   ],
