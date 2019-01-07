@@ -1,0 +1,16 @@
+---
+title:  Histoire Missionnaire
+date:  29/03/2019
+---
+
+#### Deux fois exposée au VIH
+
+_par Andrew McChesney, Mission Adventiste_
+
+Maria Lemos Abel, une infirmière de l’Église Adventiste, demanda à la mère de tenir fort sa fille de 2 ans pour une injection de pénicilline G procaïne pour traiter une infection bactérienne. Mais la mère ne tenait pas compte des consignes, et Maria injecta accidentellement la seringue dans son index gauche, alors que le bébé sautait de douleur à l’hôpital public, dans la troisième ville de Nampula, Mozambique, avec une population d’environ un demi-million de personnes. En suivant le règlement de l’hôpital, Maria courut immédiatement faire des tests sanguins sur la mère et le bébé. En 30 minutes, elle a eu les résultats: les deux étaient séropositives. Maria se mit à pleurer. Elle a travaillé avec de nombreux patients séropositifs, et elle savait que le virus se transmet facilement par le sang.  « Seigneur, aide-moi à ne pas contracter le VIH », pria-t-elle. Un médecin de l’hôpital demanda à Maria de prendre des médicaments ARV, qui suppriment le virus VIH, deux fois par jour pendant le mois suivant.
+
+Après cela, elle devra attendre encore cinq mois pour savoir si elle avait contracté le VIH.  « Mon cœur battait alors que j’attendais », dit Maria dans une interview, elle qui est mère de quatre enfants. « Je ne savais pas ce qui se passerait. » Elle a également prié avec ferveur pour que Dieu intervienne. Un an et demi après l’accident, le résultat de Maria est négatif. Elle n’avait pas contracté le VIH. « Je crois que c’était une réponse de Dieu », déclara Maria. « Je ne cesse de louer le Seigneur. » Trois ans plus tard, en mars 2017, une patiente de 30 ans a sauté quand Maria a fait une petite incision sur un bras enflée. Le scalpel coupa le pouce gauche de Maria, faisant jaillir du sang. Maria courut faire un test sanguin sur le patient, et le test était séropositif. Maria ne pouvait pas y croire. Elle pleurait en prenant des médicaments antirétroviraux. Elle pria alors qu’elle attendait six mois pour faire le test VIH. Le test était négatif. Maria, 51 ans, partage son expérience avec les femmes hospitalisées après l’agression sexuelle et recommande les médicaments antirétroviraux et la prière.  « J’ai dit, Dieu m’a sauvée de quelque chose qui n’était pas de ma faute, et Il peut aussi vous sauver de quelque chose qui n’était pas de votre faute », dit-elle.
+
+Au moins trois femmes furent trouvées saines après avoir suivi les conseils de Maria. Deux ont été victimes d’agressions sexuelles et la troisième était une infirmière accidentellement exposée au VIH à l’hôpital. « C’est un miracle que je n’ai jamais contracté le VIH, et je parle aux autres de la puissance de la prière et du Seigneur », déclara Maria.
+
+Une partie de l’offrande du treizième sabbat ce trimestre aidera à ouvrir un orphelinat pour les enfants qui ont perdu leurs parents du VIH/sida à Nampula, où Maria travaille. Merci pour votre offrande missionnaire.

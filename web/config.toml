@@ -336,3 +336,21 @@ title = "Sabbath School"
 	current = "Thuto ea hona joale"
 	archive = "Archive ea thuto"
 	lang = "🇿🇦 Sesotho"
+
+[params.hr]
+	title = "Biblijske Pouke"
+	back = "Vratite se"
+	all = "Sve lekcije"
+	todaysLesson = "Današnja lekcija"
+	current = "Trenutna lekcija"
+	archive = "Arhiva lekcija"
+	lang = "🇭🇷 Hrvatski"
+
+[params.tl]
+	title = "Liksyon sa Paaralang Sabado"
+	back = "Bumalik ka"
+	all = "Lahat ng mga aralin"
+	todaysLesson = "Aralin sa araw na ito"
+	current = "Kasalukuyang aralin"
+	archive = "Aralin ng aralin"
+	lang = "🇵🇭 Tagalog"

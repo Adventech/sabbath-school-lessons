@@ -1,0 +1,14 @@
+---
+title:  Histoire Missionnaire
+date:  01/02/2019
+---
+
+#### Adopté lors d’un enterrement
+
+_par Andrew McChesney_
+
+Des pleureuses se sont assemblées pour les funérailles d’une jeune mère à l’Église Adventiste du Septième Jour à Milange, une ville située juste à 3 kilomètres de la frontière du Mozambique avec le Malawi. La femme était morte des complications du VIH seulement cinq jours après avoir donné naissance à un petit garçon. Son mari séropositif, le père du garçon, était mort plus tôt. Le petit bébé pleurait à tue-tête lors des obsèques. « Il pleurait parce qu’il n’y avait personne pour l’allaiter », déclara Clemente Mateus Malala, un agriculteur de 61 ans, qui prenait part aux funérailles. Clemente parla avec les proches du bébé après l’enterrement et apprit qu’ils n’avaient pas d’argent pour prendre soin du bébé. Il envisagea d’acheter le nécessaire mais s’inquiétant que les proches ne revendent les choses, il proposa d’adopter le bébé. Le garçon, Laston, a maintenant 5 ans, et le plus jeune des quatre orphelins adoptés par Clemente et son épouse. Ils ont aussi quatre enfants biologiques adultes.  Clemente, qui cultive les haricots verts et le maïs dans sa ferme dans les régions rurales du Mozambique occidental, est un membre actif de l’Église et évangéliste laïque qui a conduit 430 personnes au baptême au cours des 13 dernières années. Mais rien n’a touché son cœur plus que ses quatre enfants adoptifs qui ont perdu leurs parents biologiques à cause du VIH/sida.  « Dieu m’a béni avec le don de rassembler les gens à Lui, mais le vrai bonheur vient en s’occupant de ces orphelins », dit-il. « Les adultes que je conduis à Christ sont en mesure de prendre soin de leurs besoins physiques, mais ces orphelins subiraient deux choses s’ils sont laissés sans aide: ils ne pourront pas répondre à leurs besoins physiques, et ils peuvent perdre le salut. »
+
+Le VIH/sida est un défi majeur au Mozambique, et Clemente est l’un des Adventistes qui s’efforcent à faire la différence. Il a adopté son premier orphelin, Rojerio, après avoir vu cet enfant de 2 ans souffrir de nourriture au bord de la route. Les proches lui dirent que les parents de Rojerio étaient morts et le lui confièrent volontiers quand il a offert d’élever le garçon.  Clemente a adopté les deux autres enfants, deux filles, d’une manière similaire. Rojerio a maintenant 15 ans, et les deux jeunes filles ont respectivement 11 et 8 ans. « Le moins que je peux faire, c’est de prendre quelques enfants et de les nourrir chez moi », déclara Clemente. Clemente aspire contribuer à ouvrir une école adventiste où ses enfants adoptifs peuvent étudier à Milange.  « En tant qu’église, nous devons investir dans l’éducation qui est l’avenir de l’église », dit-il.
+
+Une partie de l’offrande du treizième sabbat de ce trimestre aidera à construire une telle école dans sa ville. Merci pour votre offrande missionnaire.
