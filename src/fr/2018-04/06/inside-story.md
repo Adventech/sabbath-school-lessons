@@ -1,0 +1,16 @@
+---
+title:  Histoire
+date:   09/11/2018
+---
+
+### Contrebandier de livre 
+
+_par Vladimir Borisov_
+
+Après avoir participé à une conférence des pasteurs dans un autre pays, les amis m’ont demandé de prendre avec moi une collection de 100 livres religieux. Je voulais aider, mais mon pays contrôle strictement la distribution des livres religieux. « Je prendrai la collection de livres uniquement si le chauffeur du bus s’engage à assumer la responsabilité de son contenu », dis-je à mes amis. 
+
+Les chauffeurs d’autobus acceptent souvent de transporter une cargaison supplémentaire en échange d’un paiement en espèces, et mon chauffeur de bus accepta d’aider pour 100 dollars. Un ami et moi étions prêts pour le long trajet. En arrivant à la frontière pendant la nuit, le chauffeur me contacta pour plus d’informations sur la caisse contenant les livres. Il voulait savoir comment parler avec les douaniers. Quand je lui ai dit que la caisse contenait des livres chrétiens, il enleva le billet de 100 dollars de sa poche et me le remis. « Il est plus facile pour moi de transporter la cocaïne que les livres chrétiens pour traverser la frontière », dit-il. 
+
+Mon ami et moi n’avions plus de choix. Nous nous mîmes à genoux à côté de l’autobus et remballâmes les livres pour les transporter nous-mêmes et traverser la frontière. Puis nous priâmes alors que nous rejoignions la ligne de passagers au poste de frontière. La personne devant nous mit ses valises sur la ceinture de scanner et traversa la douane. Puis, nous avons mis nos valises sur la ceinture. Le garde-frontière appuya sur le bouton pour démarrer la ceinture, mais elle ne bougeait pas. Il appuya sur le bouton à nouveau. Il appuyait sur le bouton à plusieurs reprises en jurant. Mais la ceinture ne bougeait pas. Le garde-frontière nous regarda. « Très bien, allez-y » dit-il, en nous faisant signe de prendre nos valises sur la ceinture. Quelques minutes plus tard, mon ami et moi arrivions au second poste pour entrer dans mon pays d’origine. Nous avons mis nos valises sur la ceinture, et le garde appuya sur le bouton. Rien ne bougea. Il se mit à jurer, et enfin, il se tourna vers nous. « Allez seulement », dit-il. Juste après avoir traversé la frontière, nous avons osé regarder en arrière. Le garde avait arrêté la personne qui nous suivait et inspectait ses valises manuellement. 
+
+Nous avons remercié Dieu dans nos sièges d’autobus. Le jour du sabbat, un membre d’église avait une étrange histoire à raconter. Une voix l’avait réveillé la nuit, disant: « Prie pour ton pasteur ». Elle ne savait pas que j’avais voyagé, et elle pensait que j’étais à la maison endormi. La voix vint encore une fois, « Prie pour ton pasteur. » Enfin, elle se mit à genoux et pria pendant une heure. Je demandai quand-est-ce qu’elle avait entendu la voix. C’était l’heure exacte où mon ami et moi traversions la frontière. Bien que je ne puisse pas citer mon pays, s’il vous plait, priez pour l’œuvre de Dieu. Merci pour les offrandes missionnaires qui contribuent à apporter le message du salut dans le monde entier. 

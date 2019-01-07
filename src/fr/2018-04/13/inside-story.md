@@ -1,0 +1,14 @@
+---
+title:  Histoire
+date:   28/12/2018
+---
+
+### Ma liste prioritaire 
+
+_par BOB STUART_
+
+Le docteur me regarda droit dans les yeux. « Vous avez un cancer de la prostate inopérable », dit-il. « Vous avez 18 mois à vivre ». De retour à la maison, ma famille et moi s’assîmes pour compiler une liste des choses à accomplir pendant mes 18 derniers mois. Un de mes quatre fils dit qu’il voulait faire du vélo avec moi. Un autre fils dit qu’il veut faire un semi-marathon à Seattle avec moi. Ma fille voulait qu’on fasse un CD de musique ensemble. Puis je me suis dit, qu’est-ce que je veux faire? La réponse était facile. Je voulais faire quelque chose pour partager l’évangile. Je décidai d’amener au moins une personne à l’église chaque mois. Ma première chance d’inviter, est venu deux jours plus tard, quand quelqu’un m’a demandé, « Bob, comment, et ton cancer? » Je lui ai dit que sur ma liste prioritaire je prévois d’inviter les gens à l’église. « Seriez-vous prêt à m’aider à accomplir ma liste prioritaire en venant à l’église le sabbat prochain? » Dis-je. La femme me regarda avec compassion. Elle vit cela comme un dernier vœu. « Bien sûr, je viendrai », dit-elle. 
+
+J’ai 2 200 clients par an, donc j’ai une occasion en or lorsqu’ils se renseignent sur ma santé. C’est donc facile de les inviter à l’église. Au moins deux personnes, un couple marié – ont été baptisées, et leur fille ainée sera baptisée dans quelques semaines. Aujourd’hui, la femme que j’avais invité la première dirige la classe de l’école du sabbat pour enfants et amène d’autres personnes à l’église. « Je vais étendre votre offre », me dit-elle. « Je demande aux enfants et à leurs parents de venir à l’église. » N’importe qui peut avoir une liste prioritaire. Cela peut être de 20 ans ou plus avant de mourir, mais vous pouvez commencer à accomplir cette liste aujourd’hui en invitant une personne à l’église chaque mois. Imaginez combien l’Église Adventiste grandirait rapidement si chacun des 20 millions de membres de l’église amenait une seule personne par an. Peut-être ce nombre allait doubler en seulement 12 mois. Vingt-sept mois se sont écoulés depuis que le médecin m’a donné 18 mois à vivre. J’ai invité beaucoup de gens à l’église, et environ la moitié sont venus. La liste prioritaire est devenue un plaisir. C’est merveilleux d’entendre les gens dire: « Oui, je m’engage à visiter votre église. » Mais le moment le plus gratifiant de tout c’est quand ils viennent vraiment. Ils vous embrassent et s’assoient avec vous dans l’église. Ils font partie de votre famille. 
+
+_BOB STUART, 68 ans, est un entrepreneur basé à Collège Place, Washington._

@@ -1,0 +1,16 @@
+---
+title:  Finestra sulle missioni
+date:  17/08/2018
+---
+
+#### Il momento dello Spirito Santo
+
+Smisi di frequentare la chiesa cattolica quando avevo 16 anni. Il motivo principale furono i miei genitori i quali, pur conducendo nella chiesa dei corsi di arricchimento matrimoniale, stavano per divorziare. Il sacerdote, che aveva pranzato a casa nostra tante volte, non si fece più vedere dal giorno in cui le strade dei miei si divisero. Decisi che se Dio e la sua chiesa erano quello che avevo davanti agli occhi, la fede non faceva per me. Trascorsero quattro anni, mi trasferii dall’area di Chicago allo stato dell’Indiana, nella parte settentrionale, dove lavoravo presso una pompa di benzina. Fu lì che conobbi la mia futura moglie, Debbie, che lavorava nella stessa strada, presso una casa di riposo. Noi due parlavamo insieme ogni volta che lei veniva a fare rifornimento, fino al giorno in cui colse il mio interesse per i temi spirituali. Furono i miei dubbi a risvegliare in lei l’attenzione per l’educazione avventista. Una sera andammo a visitare la Pioneer Memorial Church, che sorgeva presso l’adiacente Andrews University. Avevamo sentito dire che c’era qualcosa di interessante e ascoltammo le conferenze evangelistiche via satellite chiamate NET 95, condotte da Mark Finley. Al termine di quegli incontri iniziai a studiare la Bibbia. Stavo quasi per unirmi a un’altra denominazione protestante quando Debbie mi bloccò con uno studio biblico sul rapimento segreto. Mi chiese se credessi sinceramente che i cristiani sarebbero stati delicatamente portati via in cielo. Quando scrollai le spalle, ricevetti da lei uno straordinario studio biblico che mi spiegava come ogni occhio avrebbe visto Gesù nel giorno del suo ritorno. Fu un momento consacrato dallo Spirito Santo. Mi battezzai nel settembre del 1995 e Debbie si battezzò di nuovo un mese più tardi; la primavera successiva diventammo marito e moglie. 
+
+Cominciai ad avvertire l’urgenza di condividere il vangelo, ma in che modo?
+
+La risposta giunse quando la Andrews University mi ingaggiò per occuparmi del ristorante gazebo all’interno del campus. Un vantaggio di quell’impiego era l’opportunità di frequentare gratuitamente un corso di studi al semestre. Mi iscrissi a quello di religione e mi convinsi che Dio mi stava chiamando per il ministero.
+
+La prima serie di conferenze evangelistiche affidatami si teneva a Chicago, là dove ero cresciuto. Era come se il Signore mi desse l’opportunità di fare del bene. Diversi anni dopo, Mark Finley, l’evangelista che aveva tenuto il Net 95, si affianca a me per una serie di 34 incontri nella zona di Chicago, al termine dei quali si battezzarono più di 500 persone. Oggi mi occupo di comunicazioni e lavoro in Canada, sono direttore e speaker di una radio per il progetto It Is Written. Se qualcuno mi avesse preannunciato il mio futuro quando ero diciassettenne avrei soffiato via la schiuma dalla mia birra e mi sarei messo a ridere. Dio ci guida in maniera straordinaria e sorprendente.
+
+_Cristopher Holland_

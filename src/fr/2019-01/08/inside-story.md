@@ -1,0 +1,14 @@
+---
+title:  Histoire Missionnaire
+date:  22/02/2019
+---
+
+#### Le don du temps
+
+_par Andrew McChesney_
+
+Tracey Lee, une mère de quatre enfants vivant près de Fort Worth, au Texas, se demandait quel cadeau elle pouvait faire à Dieu. Elle n’avait pas beaucoup d’argent, et elle luttait pendant des années avec le trouble de déficit d’attention. Mais entre l’école de maison et cinq animaux de compagnie, elle se rendit compte qu’elle avait une chose qu’elle pouvait consacrer à l’Éternel: le temps. Ainsi, Tracey s’est portée volontaire pour correspondre avec les détenus grâce à un programme du ministère de la prison à l’Église Adventiste de Grandview, au Texas.  « Plus je le faisais, et plus j’y trouvais du plaisir », déclara Tracey. « Je sentais que je faisais une différence, alors j’ai continué à le faire. » Six ans plus tard, elle fut chargée d’un programme de ministère de la prison avec environ 35 membres. Elle guide des dizaines de détenus à travers des études bibliques hebdomadaires par correspondance et maintient le contact avec environ 300 personnes.
+
+Beaucoup de gens furent baptisés par le biais de son travail, et plusieurs détenus ont décrit de grands changements dans leur vie. Un détenu a écrit qu’un membre de la famille s’est exclamé lors d’une visite à la prison: « qu’avez-vous? Je vois quelque chose de différent à votre sujet. Il y a une lueur sur vous. » « J’ai eu l’occasion de parler de Jésus à cette personne, parce qu’elle a vu une différence en moi », écrit le détenu à Tracey. « Merci d’avoir pris le temps de m’apprendre à aimer Jésus. »
+
+Tracey, 46 ans, a été élevée dans une église de dimanche, s’est mariée et a passé plusieurs années à visiter diverses églises, en essayant de trouver un endroit pour élever ses enfants dans la vérité. Un jour, elle naviguait à l’internet dans une librairie avec son fils ainé, Kyle, lorsqu’un client l’aborda avec une conversation.  « Il a mentionné l’Église de Grandview et nous a invités à y venir essayer », dit Tracey. La famille prit part à quelques concerts à l’églises et commença à venir aux services d’adoration le samedi. Environ sept mois après avoir rejoint l’église, Tracey se porte volontaire pour aider avec le ministère de la prison. Le service aux prisonniers lui donne la joie, et l’aide à contrôler le trouble de déficit d’attention. Tracey dit qu’elle est ravie d’avoir cessé de tergiverser et d’organiser sa semaine de telle sorte qu’elle puisse aider les détenus en temps utile – et à prendre soin de sa famille en même temps. Tracey n’a toujours pas beaucoup d’argent, mais elle a hâte de continuer à donner de son temps. « C’est ce que je ressens que je dois donner », dit-elle.

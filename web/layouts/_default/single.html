@@ -20,6 +20,7 @@
     };
 
 var defaultBibleVersion = Object.keys(bible)[0];
+var selectedVerse = null;
 </script>
 
 
@@ -120,14 +121,17 @@ var defaultBibleVersion = Object.keys(bible)[0];
 </main>
 
 <div class="modal" id="bible" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document" style="margin: 0 auto; height: 100%;">
+    <div class="modal-dialog modal-lg" role="document" style="margin: 0 auto; height: 100%;">
         <div class="modal-content" style="height: auto; min-height: 100%; border: 0; border-radius: 0;">
             <div class="modal-header">
+                <div class="btn-group mx-3" role="group" aria-label="Bible versions" id="bible-version-group">
+                </div>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
+
                 <div class="ss-wrapper">
                     <div class="ss-wrapper-font ss-wrapper-pt-serif">
                         <div class="ss-wrapper-size ss-wrapper-medium">
@@ -144,19 +148,45 @@ var defaultBibleVersion = Object.keys(bible)[0];
 
 <script type="text/javascript">
     $(function(){
+        var bibleVersions = Object.keys(bible);
+
+        var highlightSelectedBibleVersion = function(){
+          $("#bible-version-group").children().each(function(i, e){
+
+            if ($(e).html() === defaultBibleVersion){
+              $(e).removeClass("btn-secondary").addClass("btn-dark");
+            } else {
+              $(e).removeClass("btn-dark").addClass("btn-secondary");
+            }
+          })
+        };
+
+        var selectBibleVersion = function (version) {
+          defaultBibleVersion = version;
+          highlightSelectedBibleVersion();
+          $("#bible .ss-wrapper-theme").html(bible[defaultBibleVersion]["verses"][selectedVerse]);
+        };
+
+        if (bibleVersions){
+          for (var i = 0; i < bibleVersions.length; i++){
+            $("#bible-version-group").append(
+              $('<button type="button" class="btn btn-secondary"></button>').html(bibleVersions[i]).click(
+                (function(version){
+                return function(){
+                  selectBibleVersion(version);
+                }})(bibleVersions[i])
+              )
+            );
+          }
+          highlightSelectedBibleVersion();
+        }
+
         $(".verse").click(function(){
-            $("#bible .ss-wrapper-theme").html(bible[defaultBibleVersion]["verses"][$(this).attr("verse")])
+            $("#bible .ss-wrapper-theme").html(bible[defaultBibleVersion]["verses"][$(this).attr("verse")]);
+            selectedVerse = $(this).attr("verse");
             $("#bible").modal("show");
         });
     })
 </script>
-
-<!--<script type="text/javascript">-->
-<!--$(function(){-->
-<!--$("code").each(function(i,e){-->
-<!--$(e).html($.parseHTML($(e).text()));-->
-<!--});-->
-<!--})-->
-<!--</script>-->
 
 {{ partial "footer.html" . }}

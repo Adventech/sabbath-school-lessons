@@ -1,8 +1,3 @@
 ---
-  title: "ПОДГОТОВКА ЗА ПОСЛЕДНОТО ВРЕМЕ"
-  description: "Поуки од Библијата - издание за возрасни"
-  human_date: "април, мај, јуни 2018"
-  start_date: "31/03/2018"
-  end_date: "29/06/2018"
-  color_primary: "#ffffff"
-  color_primary_dark: "#000000"
+  name: "Macedonian"
+  code: "mk"

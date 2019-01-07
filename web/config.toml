@@ -201,3 +201,156 @@ title = "Sabbath School"
 	current = "वर्तमान"
 	archive = "पाठ संग्रह"
 	lang = "🇳🇵 नेपाली"
+
+[params.mk]
+	title = "Сабат Училиште"
+	back = "Врати се назад"
+	all = "Види ги сите"
+	todaysLesson = "Лекција денес"
+	current = "Тековна"
+	archive = "Архива на лекција"
+	lang = "🇲🇰 Македонски"
+
+[params.et]
+	title = "Hingamispäevakooli Õppetükk"
+	back = "Mine tagasi"
+	all = "Kõik õppetunnid"
+	todaysLesson = "Tänane õppetund"
+	current = "Praegune kvartal"
+	archive = "Õppetundide arhiiv"
+	lang = "🇪🇪 Eesti keel"
+
+[params.fj]
+	title = "Lesoni ni Wilivola Vakasigatabu"
+	back = "Lesu tale"
+	all = "Lesoni taucoko"
+	todaysLesson = "Lesoni nikua"
+	current = "Ena gauna oqo ni vulatolu"
+	archive = "Akaivi ni lesoni"
+	lang = "🇫🇯 Viti"
+
+[params.hu]
+	title = "Szombatiskolai"
+	back = "Visszalépés"
+	all = "Összes megtekintése"
+	todaysLesson = "A mai lecke"
+	current = "Aktuális"
+	archive = "Leckearchívum"
+	lang = "🇭🇺 Magyar"
+
+[params.it]
+	title = "Scuola del Sabato"
+	back = "Torna indietro"
+	all = "Vedi tutto"
+	todaysLesson = "Lezione di oggi"
+	current = "Attuale"
+	archive = "Archivio lezioni"
+	lang = "🇮🇹 Italiano"
+
+[params.th]
+	title = "โรงเรียนสะบาโต"
+	back = "ย้อนกลับไป"
+	all = "ดูทั้งหมด"
+	todaysLesson = "บทเรียนวันนี้"
+	current = "บทเรียนไตรมาสนี้"
+	archive = "บทเรียนไตรมาสก่อน"
+	lang = "🇹🇭 ไทย"
+
+[params.ta]
+	title = "பெரியோர் ஓய்வுநாட் பள்ளி பாடங்கள்"
+	back = "திரும்பிப் போ"
+	all = "அனைத்தையும் பார்"
+	todaysLesson = "இன்றைய பாடம்"
+	current = "தற்போதைய பாடம்"
+	archive = "பாடம் காப்பகம்"
+	lang = "🇮🇳 தமிழ்"
+
+[params.af]
+	title = "Sabbatskool"
+	back = "Gaan terug"
+	all = "Sien alles"
+	todaysLesson = "Vandag se les"
+	current = "Huidige"
+	archive = "Lesargief"
+	lang = "🇿🇦 Afrikaans"
+
+[params.vi]
+	title = "Bài học Sa-bát"
+	back = "Quay lại"
+	all = "Xem tất cả"
+	todaysLesson = "Bài học hôm nay"
+	current = "Bài học hiện tại"
+	archive = "Bài học lưu trữ"
+	lang = "🇻🇳 Việt"
+
+[params.el]
+	title = "Σχολή Σαββάτου"
+	back = "Επιστροφή"
+	all = "Δείτε όλους"
+	todaysLesson = "Το σημερινό μάθημα"
+	current = "Τρέχον μάθημα"
+	archive = "Αρχείο μαθημάτων"
+	lang = "🇬🇷 Ελληνικά"
+
+[params.lo]
+	title = "ໂຮງຮຽນວັນບຸນ"
+	back = "ກັບຄືນ"
+	all = "ເບິ່ງບົດຮຽນທັງຫມົດ"
+	todaysLesson = "ບົດຮຽນໃນມື້ນີ້"
+	current = "ບົດຮຽນທີ່ຜ່ານມາ"
+	archive = "ຮວບຮວມບົດຮຽນ"
+	lang = "🇱🇦 ລາວ"
+
+[params.pl]
+	title = "Szkoła Sabatowa"
+	back = "Wróć"
+	all = "Wszystkie lekcje"
+	todaysLesson = "Dzisiejsza lekcja"
+	current = "Aktualna lekcja"
+	archive = "Archiwum lekcji"
+	lang = "🇵🇱 Polski"
+
+[params.sv]
+	title = "Bibelstudium för Sabbatsskolan"
+	back = "Gå tillbaka"
+	all = "Alla lektioner"
+	todaysLesson = "Dagens avsnitt"
+	current = "Aktuellt avsnitt"
+	archive = "Avsnittsarkiv"
+	lang = "🇸🇪 Svenska"
+
+[params.lt]
+	title = "Sabato Mokykla"
+	back = "Eik atgal"
+	all = "Visos pamokos"
+	todaysLesson = "Šiandienos pamoka"
+	current = "Dabartinė pamoka"
+	archive = "Pamokų archyvas"
+	lang = "🇱🇹 Lietuviškai"
+
+[params.st]
+	title = "Sekolo sa Sabatha"
+	back = "Leba morao"
+	all = "Lithuto tsohle"
+	todaysLesson = "Thuto ea kajeno"
+	current = "Thuto ea hona joale"
+	archive = "Archive ea thuto"
+	lang = "🇿🇦 Sesotho"
+
+[params.hr]
+	title = "Biblijske Pouke"
+	back = "Vratite se"
+	all = "Sve lekcije"
+	todaysLesson = "Današnja lekcija"
+	current = "Trenutna lekcija"
+	archive = "Arhiva lekcija"
+	lang = "🇭🇷 Hrvatski"
+
+[params.tl]
+	title = "Liksyon sa Paaralang Sabado"
+	back = "Bumalik ka"
+	all = "Lahat ng mga aralin"
+	todaysLesson = "Aralin sa araw na ito"
+	current = "Kasalukuyang aralin"
+	archive = "Aralin ng aralin"
+	lang = "🇵🇭 Tagalog"

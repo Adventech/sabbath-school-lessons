@@ -1,0 +1,14 @@
+---
+title:  Histoire
+date:   23/11/2018
+---
+
+### Puni pour les péchés d’autrui 
+
+_par Andrew McChesney, Mission adventiste_
+
+Quand les gens rencontraient le jeune garçon, leur première question n’était pas « comment t’appelles-tu? », mais plutôt « qu’est-ce qui ne va pas avec tes jambes? » Jack Chen rampait sur le sol dans sa maison de campagne dans le centre de Taïwan, jusqu’à ce qu’il eut cinq ans. Grâce à des exercices physiques quotidiens, il réussit à augmenter la masse musculaire qui lui permettait de se tenir debout. Mais il marchait maladroitement sur la plante des pieds, ce qui incitait les taquineries et moqueries de la part des autres enfants. Parfois, les garçons crachaient sur lui quand ils passaient. Chen est né avec une maladie de la jambe qui rend perplexe les médecins. Mais Chen et ses parents n’eurent aucun doute sur la cause: quelqu’un avait fait quelque chose de mal dans la famille, et ce sont les retombées de cet acte. « Ma famille adoraient les idoles et mes parents croyaient que nous étions punis pour quelque chose qu’ils ou nos ancêtres avaient fait », déclara Chen. 
+
+Quand Chen avait 12 ans, un ami de la famille suggéra que Chen, qui avait pris du retard à l’école publique, pourrait avoir une meilleure opportunité en étudiant dans une école adventiste du septième jour à proximité. Chen entendit parler de Jésus pour la première fois alors qu’il s’était inscrit à l’école secondaire. Il lut la Bible pour la première fois. Il décida à l’âge de 13 ans, de donner son cœur à Jésus. La réponse à sa plus grande question – pourquoi était-il puni pour les péchés d’autrui – est venue environ un an plus tard quand il a lu la guérison accordée par Jésus à un homme aveugle de naissance. Il a lu: « Ses disciples Lui demandèrent: Rabbi, qui a péché, lui ou ses parents, pour qu’il soit né aveugle? Jésus répondit: Ce n’est pas que lui ou ses parents aient péché; c’est pour que les œuvres de Dieu se manifestent en lui » (Jean 9:2, 3 ; LSG). Chen sentait son lourd fardeau enlevé en lisant ces paroles. « Je me suis rendu compte que ce n’était pas une punition mais une bénédiction », dit-il. « Si je n’avais pas cette maladie, ma famille et moi n’aurions jamais la chance de connaitre Dieu. » Chen a fini son diplôme de théologie à l’Université Adventiste de Taiwan et sert maintenant comme pasteur dans la ville côtière de Jiading. Il boite légèrement de la jambe, mais les autres membres fonctionnent normalement. Il est marié et père de deux jeunes fils.
+
+Jack Chen, 32 ans, photo à gauche, s’émerveille sur comment il a trouvé Jésus – ou comment Jésus l’a trouvé. « Je n’étais même pas un chrétien, mais je cherchais Dieu, je cherchais quelqu’un qui pouvait me sauver la vie », dit-il. « C’est très important d’ouvrir votre cœur et être à la cherche de Dieu, et Dieu vous dira que faire ensuite ».

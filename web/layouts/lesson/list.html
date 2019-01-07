@@ -74,7 +74,7 @@
 
                 <div class="pt-3 pb-5">
                 {{ range $index, $element := .Params.Lessons }}
-                    {{ with $.Site.GetPage "page" $element.path_index }}
+
                         <div class="pb-4 ss-quarterly-lesson position-relative pl-4">
                             <div class="ss-quarterly-lesson-line"></div>
                             <div class="ss-quarterly-lesson-dot-outline"></div>
@@ -90,12 +90,12 @@
                                 <span class="h2 text-secondary">{{ add $index 1 }}</span>
                             </div>
                             <div>
-                                <h5 style="margin-bottom: 0"><a href="{{ .URL }}" style="color: {{ $primaryColor }}">{{ .Title }}</a></h5>
+                                <h5 style="margin-bottom: 0"><a href="/{{ $element.path_index }}" style="color: {{ $primaryColor }}">{{ $element.title }}</a></h5>
                                 <span class="text-secondary ss-quarterly-lesson-start-date ss-quarterly-lesson-start-date-{{$index}}">{{ $element.start_date }}</span> -
                                 <span class="text-secondary ss-quarterly-lesson-end-date ss-quarterly-lesson-end-date-{{$index}}">{{ $element.end_date }}</span>
                             </div>
                         </div>
-                    {{ end}}
+
                 {{ end }}
                 </div>
             </div>

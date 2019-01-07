@@ -13,7 +13,7 @@ languages:
   - native: Українська
     en: Ukrainian
     code: uk
-  - native: Deutsche
+  - native: Deutsch
     en: German
     code: de
   - native: Français
@@ -67,4 +67,55 @@ languages:
   - native: नेपाली
     en: Nepali
     code: ne
+  - native: Македонски
+    en: Macedonian
+    code: mk
+  - native: Eesti Keel
+    en: Estonian
+    code: et
+  - native: Viti
+    en: Fijian
+    code: fj
+  - native: Magyar
+    en: Hungarian
+    code: hu
+  - native: Italiano
+    en: Italian
+    code: it
+  - native: ไทย
+    en: Thai
+    code: th
+  - native: தமிழ்
+    en: Tamil
+    code: ta
+  - native: Afrikaans
+    en: Afrikaans
+    code: af
+  - native: Việt
+    en: Vietnamese
+    code: vi
+  - native: Ελληνικά
+    en: Greek
+    code: el
+  - native: ລາວ
+    en: Lao
+    code: lo
+  - native: Polski
+    en: Polish
+    code: pl
+  - native: Svenska
+    en: Swedish
+    code: sv
+  - native: Lietuviškai
+    en: Lithuanian
+    code: lt
+  - native: Ssesotho
+    en: Sesotho
+    code: st
+  - native: Hrvatski
+    en: Croatian
+    code: hr
+  - native: Tagalog
+    en: Tagalog
+    code: tl
 ---
