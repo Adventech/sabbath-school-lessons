@@ -66,7 +66,7 @@ Below is current list of languages and capabilities implemented
 |🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇻🇳 Vietnamese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 
-## Current summary of lessons for second quarter 2018
+## Current summary of lessons for first quarter 2019
 
 ##### 2019-01
 
