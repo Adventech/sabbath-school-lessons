@@ -1,8 +1,8 @@
 ---
-  title: "true"
-  description: "true"
-  human_date: "true"
+  title: "The Lesson in 45 Seconds"
+  description: "Every daily Study Guide summaried into 45 second segments."
+  human_date: "January · February · March 2019"
   start_date: "29/12/2018"
   end_date: "29/03/2019"
-  color_primary: "#ffffff"
-  color_primary_dark: "#000000"
+  color_primary: "#2B3C5E"
+  color_primary_dark: "#07142E"
