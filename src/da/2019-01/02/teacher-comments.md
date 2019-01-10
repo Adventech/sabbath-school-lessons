@@ -5,31 +5,31 @@ date:  11/01/2019
 
 **Guds Ord**
 
-* 	Jesus præsenterer sig for Johannes som ”den første og den sidste.“ Find ud af, fx ved hjælp af fodnoter, hvorfra dette udtryk stammer.
-	* 	Drøft, hvad denne titel fortæller os om, hvem Jesus er.
+* Jesus præsenterer sig for Johannes som ”den første og den sidste.“ Find ud af, fx ved hjælp af fodnoter, hvorfra dette udtryk stammer.
+	* Drøft, hvad denne titel fortæller os om, hvem Jesus er.
 
 ` `
 
-* 	Prøv sammen at læse andre syner givet til de bibelske profeter, hvor de har et personligt møde med himmelske væsener, som fx Es 6; Ez 1; og Dan 10,4-11. Læs også evt. ApG 9,3-7; 22,6-9.
-	*  Hvilke ligheder og forskelle finder du?
+* Prøv sammen at læse andre syner givet til de bibelske profeter, hvor de har et personligt møde med himmelske væsener, som fx Es 6; Ez 1; og Dan 10,4-11. Læs også evt. ApG 9,3-7; 22,6-9.
+	* Hvilke ligheder og forskelle finder du?
 
 ` `
 
-* 	Hvorfor tror du, at Guds menighed er symboliseret ved lysestager? (Åb 1,20)
-	* 	Bemærk, at ordet for lysestage brugt om menigheden er græsk lyxnia og ikke identisk med det ord for lampe/fakkel/lysestage, der er brugt om Helligånden i 4,5 (lampdas).
+* Hvorfor tror du, at Guds menighed er symboliseret ved lysestager? (Åb 1,20)
+	* Bemærk, at ordet for lysestage brugt om menigheden er græsk lyxnia og ikke identisk med det ord for lampe/fakkel/lysestage, der er brugt om Helligånden i 4,5 (lampdas).
 
 ` `
 
 **Mødet med dagligdagen**
 
-* 	Kristentroen giver håb. Tænk over situationer, du for nyligt har mødt, hvor mennesker på forskellige områder gav udtryk for håbløshed. Del dem med hinanden i klassen.
-	* 	Hvad håber mennesker fx på?
-	* 	Hvad kan du og jeg gøre i vores mission for at give andre tillid til det kristne håb?
+* Kristentroen giver håb. Tænk over situationer, du for nyligt har mødt, hvor mennesker på forskellige områder gav udtryk for håbløshed. Del dem med hinanden i klassen.
+	* Hvad håber mennesker fx på?
+	* Hvad kan du og jeg gøre i vores mission for at give andre tillid til det kristne håb?
 
 **Uddybende spørgsmål**
 
-* 	Hvorfor tror du, at Jesus, da han præsenterede sig for Johannes, lagde så stor vægt på opstandelsen og sin sejr over døden?
-	* 	Hvordan fejrer du og jeg som kristne i dag Jesu opstandelse?
+* Hvorfor tror du, at Jesus, da han præsenterede sig for Johannes, lagde så stor vægt på opstandelsen og sin sejr over døden?
+	* Hvordan fejrer du og jeg som kristne i dag Jesu opstandelse?
 
 ` `
 
@@ -39,11 +39,11 @@ date:  11/01/2019
 
 Et godt eksempel er den konsekvente skelnen mellem, hvad han hører, og hvad han ser. Læg mærke til, hvorledes Johannes igen og igen først hører og derefter ser den samme person eller enhed:
 
-* 	1,10-12: Han hører en stemme, der lyder som en trompet og vender sig og ser Jesus
+* 1,10-12: Han hører en stemme, der lyder som en trompet og vender sig og ser Jesus
 
-* 	5,5-6: Han hører løven af Judas stamme præsenteres, og ser lammet for Guds trone
+* 5,5-6: Han hører løven af Judas stamme præsenteres, og ser lammet for Guds trone
 
-* 	9,16-17: Han hører antallet på den fjendtlige hærskarer og ser dem derefter (jf. antallet på Guds hær, som han hører i 7,4 og derefter ser i 7,9).
+* 9,16-17: Han hører antallet på den fjendtlige hærskarer og ser dem derefter (jf. antallet på Guds hær, som han hører i 7,4 og derefter ser i 7,9).
 
 ` `
 
