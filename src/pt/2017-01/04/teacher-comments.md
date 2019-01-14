@@ -1,17 +1,7 @@
 ---
-title:  We Need Your Help
+title:  Mensagem importante
 date:   27/01/2017
 ---
 
-We are currently searching for a copy of the Sabbath School Study Guides in Portuguese.
-
-If you (or someone you know) works for an Adventist Conference, Union, Division or Publishing House that produces the Study Guides in Portuguese, please contact jaredmartin@adventist.org.au so we can add them into the app.  
-
-It is our goal to make the Sabbath School Study Guides freely available any where, anytime, and in as many languages as possible so that everyone can learn more about our Saviour, Jesus Christ.
-
-
-No momento, estamos procurando uma cópia dos Guias de Estudo da Escola Sabatina em Português.
-
-Se você (ou alguém que você conhece) trabalha para uma Associação Adventista, União, Divisão ou Editora que produz os Guias de Estudo em Português, por favor entre em contato com o Pastor Jared Martin em jaredmartin@adventist.org.au para adicioná-los ao aplicativo.
-
-É nosso objetivo tornar os Guias do Estudo da Escola Sabatina disponíveis gratuitamente em qualquer lugar, a qualquer momento e em tantos idiomas quanto possível, para que todos possam aprender mais sobre nosso Salvador, Jesus Cristo.
+### <center>Estamos a trabalhar sobre esta lição.</center>
+<center>Volte mais tarde, por favor.</center>
