@@ -118,4 +118,7 @@ languages:
   - native: Tagalog
     en: Tagalog
     code: tl
+  - native: Kiswahili
+    en: Swahili
+    code: sw
 ---

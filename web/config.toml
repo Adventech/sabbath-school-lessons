@@ -354,3 +354,12 @@ title = "Sabbath School"
 	current = "Kasalukuyang aralin"
 	archive = "Aralin ng aralin"
 	lang = "🇵🇭 Tagalog"
+
+[params.sw]
+	title = "Mwongozo wa kujifunza Biblia"
+	back = "Rudi nyuma"
+	all = "Masomo yote"
+	todaysLesson = "Somo la leo"
+	current = "Somo la sasa"
+	archive = "Archive ya Somo"
+	lang = "🇰🇪 Kiswahili"
