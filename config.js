@@ -146,6 +146,10 @@ var BIBLE_PARSER_CONFIG = {
     "sf1998"
   ],
 
+  "sw": [
+    "suv"
+  ],
+
   "ta": [
     "tbov",
     "ervta"
