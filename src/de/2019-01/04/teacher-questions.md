@@ -44,7 +44,7 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
     -   Welche Möglichkeiten haben wir, unsere Ehrfurcht vor Gott zum
         Ausdruck zu bringen?
 
-**Offenbarung 4,6-8; Hesekiel 1,5-12 ; Jesaja 6,2-3**
+**Offenbarung 4,6-8; Hesekiel 1,5-12; Jesaja 6,2-3**
 
 -   Fragen zum Text
     -   Was in der Beschreibung der geheimnisvollen Wesen ist auffällig?
@@ -53,30 +53,34 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Fragen zur Botschaft:
     -   Welche Möglichkeiten haben wir, unsere Ehrfurcht vor Gott zum
         Ausdruck zu bringen?
+    -   Wie können wir die Heiligkeit Gottes in unserer Anbetung besser
+        würdigen?
     -   Welche christlichen Eigenschaften stärken wir, wenn wir Gott
         gegenüber ehrfürchtig sind?
 
-**Offenbarung 4,9-11; Offenbarung 5,8-9; 5,13**
+**Offenbarung 4,9-11; Offenbarung 5,8-9; Offenbarung 5,13**
 
 -   Fragen zum Text:
     -   Wer wird in diesen Szenen angebetet?
     -   Wie wird angebetet?
-    -   Vergleichen wir Offb 4,11 und 5,9 miteinander. Welche
+    -   Vergleichen wir Offb 4,11 und Offb 5,9 miteinander. Welche
         Begründungen für Anbetung werden genannt?
 -   Fragen zur Botschaft:
     -   Was können wir von diesen Anbetungsszenen für unseren
         Gottesdienst ableiten?
     -   Was alles gehört zu einem Gebet?
     -   Warum bitten wir oft überproportional viel?
+    -   Welchen Sinn macht es, dass auch wir in unseren Gebeten
+        begründen, warum wir Gott loben?
 
 **Offenbarung 5,1-4**
 
 -   Fragen zum Text:
-    -   Wie sollen wir uns das versiegelte Buch vorstellen?
+    -   Wie sollen wir uns das versiegelte "Buch" vorstellen?
     -   Warum weint Johannes?
     -   Wenn wir Offb 5,9 (die Begründung für die Anbetung) und Ellen
         White lesen (Seite 48 oben), können wir etwas über den Inhalt
-        des Buches ableiten. Warum wird es in diesem Buch gehen?
+        des Buches ableiten. Worum wird es in diesem Buch gehen?
 -   Fragen zur Botschaft:
     -   Was erfahren wir über Gott, wenn der Erlösungsplan schon immer
         sein Ziel war?
@@ -94,7 +98,7 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
     -   Lest nochmals Offb 5,12. Wie viele Elemente werden aufgezählt?
 -   Fragen zur Botschaft:
     -   Warum ist Jesus Christus so zentral für unseren Glauben?
-    -   Wie können wir zum Ausdruck bringen, dass es uns so wichtig ist?
+    -   Wie können wir zum Ausdruck bringen, dass er uns so wichtig ist?
 
 **Offenbarung 5,6; Apostelgeschichte 2,32-33**
 
