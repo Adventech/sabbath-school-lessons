@@ -84,7 +84,7 @@ var LOCALE_VARS = {
     "el": "### <center>Εργαζόμαστε σε αυτό το μάθημα</center>\n<center>Παρακαλώ ελάτε ξανά αργότερα</center>",
     "en": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
     "es": "### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>",
-    "et": "### <center>Me töötame sellel õppetükil. Palun tulge tagasi hiljem.</center>",
+    "et": "### <center>Me tegeleme selle õppetükiga. Palun proovige hiljem uuesti.</center>",
     "fa": "### <center>ما در این درس کار می کنیم</center>\n<center>لطفا بعدا بیا</center>",
     "fj": "### <center>Eda sa cakacaka tiko ena lesoni oqo</center>",
     "fr": "### <center>Nous travaillons sur cette leçon.</center>\n<center>Revenez plus tard, s'il vous plaît.</center>",
