@@ -28,18 +28,25 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-**Text**
+**Offenbarung 17,1.2**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wofür steht die Hure Babylon?
+    -   Was ist mit den vielen Wassern gemeint? Wofür stehen viele bzw.
+        große Wasser in der Bibel?
+    -   Welche Institutionen stehen für die Könige der Erde?
+    -   Was charakterisiert das Verhältnis zwischen der Hure und den
+        Königen der Erde?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Beziehung besteht zwischen der Hure Babylon und den
+        Bewohnern der Erde?
+    -   Was bedeutet der hier erwähnte Wein und welche Konsequenz ergibt
+        sich daraus?
+    -   Was sollte uns davor warnen, wie gefährlich es ist, sich jeder
+        allgemeinen, öffentlichen Meinung anzuschließen?
+    -   Was schützt uns als gläubige Menschen vor diesen Versuchungen?
 
-**Text**
+**Offenbarung 17,3**
 
 -   Fragen zum Text:
     -   ...
