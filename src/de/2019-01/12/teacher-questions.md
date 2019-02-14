@@ -77,18 +77,22 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
         Leben erwarten?
     -   Wie nur wird diese Zeit bewältigt werden können?
 
-**Offenbarung 17,9-11; 13,18**
+**Offenbarung 17,9-11; 13,18; Jak 1,5.6**
 
 -   Fragen zum Text:
     -   Mit welcher Art von Weisheit lassen sich biblische Symbole
         entschlüsseln?
-    -   Inwiefern kann das nur die göttliche Weisheit sein?
     -   Was symbolisieren die verschiedenen Berge in diesem Text?
     -   Welche Bedeutung hatte in diesem Zusammenhang der siebente Berg
         für das Volk Gottes?
 
-Teil 3: Mission
----------------
+<!-- -->
+
+-   Fragen zur Botschaft:
+    -   Mit welcher Haltung nähern wir uns Gott, wenn wir ihn um
+        Weisheit und Verstehen bitten?
+    -   Warum ist es für uns so wichtig diese seine Botschaft mit ihrer
+        Symbolik zu begreifen?
 
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
