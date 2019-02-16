@@ -9,7 +9,7 @@ This repository contains all lessons for the Sabbath School app (for all platfor
 
 [Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
 
-## Acknowledgments 
+## Acknowledgments
 
 Thank you for supporting Open Source with your service:
 
@@ -78,7 +78,7 @@ Below is current list of languages and capabilities implemented
 | 🇧🇬  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇨🇿  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇩🇰  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇩🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🇩🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 🇬🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🇺🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇺🇸 -45-SEC |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -142,7 +142,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Tamil Language 🇮🇳
 - [ ] Add Xhosa Language 🇿🇦
 - [ ] Add Zulu Language 🇿🇦
- 
+
 ## Contributing
 
 There are many ways you can contribute to this project:
@@ -225,7 +225,7 @@ Options:
 Missing required arguments: s, q, t, d, h
 </pre>
 
-When ran properly it will create the structure under `src` folder. For an example please see `src` folder that contains 
+When ran properly it will create the structure under `src` folder. For an example please see `src` folder that contains
 
 ## License
 
