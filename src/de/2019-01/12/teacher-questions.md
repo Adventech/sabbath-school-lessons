@@ -94,13 +94,22 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
     -   Warum ist es für uns so wichtig diese seine Botschaft mit ihrer
         Symbolik zu begreifen?
 
+**Offenbarung 17,12-15; 17,16-18**; **18,4**
+
+-   Fragen zum Text:
+    -   Was ist die Folge davon, wenn die Macht der Zehn Könige sich dem
+        Tier zur Verfügung stellt?
+    -   Von welcher Auseinandersetzung ist hier die Rede?
+    -   Was sind die Wasser, an denen die Buhlerin sitzt?
+-   Fragen zur Botschaft:
+    -   Welche Warnungsbotschaft ergeht an Gottes Volk in Babylon?
+    -   Was sagt dies über den Charakter Gottes aus?
+
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen.
 
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
-
--   ...
 
 <center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
