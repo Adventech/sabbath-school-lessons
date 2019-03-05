@@ -18,7 +18,7 @@ var argv = require("optimist")
     "z": "Dark primary color for the lesson"
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
-  .default({ "l" : "en", "c": 13, "u": false, "i": false, "k": false, "y" : "ffffff", "z" : "000000" })
+  .default({ "s" : "29/12/2018",  "q" : "2019-01-han", "t" : "啟示錄", "d" : "大約兩千年前，因做福音忠心的見證人，使徒約翰被流放到愛琴海中一個亂石嶙峋小島。年邁的使徒在羅馬的監禁下受盡艱難。在一個特別的安息日，耶穌基督專程來看望他，以鼓勵這位苦難中的僕人。耶穌在一連串的異象中，將教會歷史的全景，以及上帝的子民在等候救主復臨時所要經歷的事盡數呈現在他眼前。", "h" : "2019年第一季",  "l" : "zh", "c": 13, "u": false, "i": false, "k": false, "y" : "ffffff", "z" : "000000" })
   .argv;
 
 var fs     =  require("fs-extra"),
@@ -70,7 +70,7 @@ var LOCALE_VARS = {
     "tr": "Ders",
     "uk": "Урок",
     "ja": "日課",
-    "zh": "每日课程",
+    "zh": "每日課程",
     "vi": "Bài"
   },
 
@@ -113,7 +113,7 @@ var LOCALE_VARS = {
     "tr": "### <center>Biz bu derste üzerinde çalışıyoruz.</center>\n<center>Lütfen daha sonra gelin.</center>",
     "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>",
     "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
-    "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
+    "zh": "### <center>我们正在學習這一課。請稍後再来。</center>",
     "vi": "### <center>Chúng tôi đang làm việc trên bài học này.</center>\n<center>Xin vui lòng trở lại sau.</center>"
   },
 
