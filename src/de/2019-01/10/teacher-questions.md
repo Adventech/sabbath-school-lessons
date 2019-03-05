@@ -81,35 +81,66 @@ II: Wir studieren die Bibel
 **Prediger 12,13-14**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Generell bzw. auch in Verbindung mit Offenbarung 14: Wie
+        illustriert dieser Text, dass es nicht egal ist WELCHE Gebote
+        ich halte?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum ist die Endsumme aller Lehre, dass wir die Gebote halten
+        sollen? Wie kommt Salomo da drauf?
+        -   Wie können wir das in wenigen Sätzen unseren Bekannten,
+            Freunden, Arbeitskollegen etc. schmackhaft machen?
 
-**Text**
+**2.Mose 20,8-11**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wodurch ist schon im 4ten Gebot erkennbar, dass der Ruhetag
+        Gottes nicht nur für die Juden gedacht war, sondern auch für
+        jene die "auf der Erde ansässig sind" - im Kontext von
+        Offenbarung 14 gesprochen?
+    -   Was zeichnet das 4te Gebot gegenüber den anderen aus?
+    -   Warum setzt Gott einen Ruhetag ein?
+        -   Anmerkung: *"Der Herr machte „Himmel und Erde ... und ruhte
+            am siebenten Tage ... und heiligte ihn.“ 2.Mose 20,11. Er
+            gab ihn dir, damit er als Gottes Gedenktag beachtet wird,
+            eine Erinnerung, dass der lebendige Gott die Himmel über uns
+            und die Erde unter unseren Füßen erschaffen hat. Er machte
+            die hohen Bäume und kleidete die Blumen farbig ein. Dann
+            schuf der Herr des Himmels die Menschen und gab ihnen den
+            Sabbat. Wozu? Es war ein Geschenk an alle Nachkommen Adams.
+            **Hätten sie immer das vierte Gebot gehalten, hätte es in
+            dieser Welt niemals einen ungläubigen Menschen gegeben**,
+            denn es bezeugt, dass „der HERR Himmel und Erde gemacht
+            \[hat\] und das Meer und alles, was darinnen ist.“
+            (*Christus ist Sieger, S. 9)
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wenn dich jemand fragt welche Bedeutung der Sabbat für dich hat,
+        was ist deine Antwort?
+    -   *"Warum machen wir so ein Trara daraus unbedingt den Samstag als
+        Ruhetag einhalten zu müssen? Was macht es für einen Unterschied
+        ob ich den Sonntag oder Freitag oder vielleicht sogar Montag als
+        Ruhetag auswähle? Ich kann doch auch einen anderen Tag als den
+        Samstag regelmäßig Gott ganz widmen, wo ich keine Arbeit mache,
+        in keine Veranstaltungen, Kaufhäuser oder Restaurants gehe, Zeit
+        mit der Bibel und Gebet verbringe? Ist Gott so kleinlich?"* Wie
+        würdet jemanden auf diese Argumentation antworten?
 
-**Text**
+**Offenbarung 14,8**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie erklären wir anhand der Bibel, wer oder was Babylon ist?
+    -   Durch welche biblischen Aussagen wird uns erklärt was der "Wein
+        seiner leidenschaftlichen Unzucht" zu bedeuten hat?
+    -   Was offenbart dieser Text über Schein und Sein?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum kann/sollte die Botschaft des 2ten Engels einem gläubigen
+        Menschen jede Angst vor Babylon nehmen?
+    -   Was denkt ihr warum Babylon es schafft ALLE Nation mit seinem
+        Gedankengut zu tränken? Wie bewerkstelligt es das in der Praxis?
+    -   Woher kann ich wissen, dass Babylons Lehren auf mein Denken
+        keinen Einfluss genommen haben - ich sozusagen noch komplett
+        "nüchtern" bin?
+    -   Wie bewahrt ihr euch davor, von den Lehren Babylons getränkt zu
+        werden?
 
 **Text**
 
