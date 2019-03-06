@@ -134,7 +134,7 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Warum kann/sollte die Botschaft des 2ten Engels einem gläubigen
         Menschen jede Angst vor Babylon nehmen?
-    -   Was denkt ihr warum Babylon es schafft ALLE Nation mit seinem
+    -   Was denkt ihr warum Babylon es schafft ALLE Nationen mit seinem
         Gedankengut zu tränken? Wie bewerkstelligt es das in der Praxis?
     -   Woher kann ich wissen, dass Babylons Lehren auf mein Denken
         keinen Einfluss genommen haben - ich sozusagen noch komplett
@@ -142,14 +142,22 @@ II: Wir studieren die Bibel
     -   Wie bewahrt ihr euch davor, von den Lehren Babylons getränkt zu
         werden?
 
-**Text**
+**Offenbarung 14,9-10**
 
 -   Fragen zum Text:
     -   ...
     -   ...
     -   ...
 -   Fragen zur Botschaft:
-    -   ...
+    -   Als Ellen White eine Frage gestellt wird in Bezug auf die dritte
+        Engelsbotschaft schreibt sie folgendes: "*Manche haben mir
+        geschrieben und sich erkundigt, ob die Botschaft von der
+        Rechtfertigung aus Glauben die dritte Engelsbotschaft sei, und
+        ich habe geantwortet: „Sie ist es wahrhaftig.“*" (<small>Review
+        and Herald, 1. April 1890 bzw. Gedanken über das Buch
+        Offenbarung, S.234</small>) Wie können wir jemanden erklären,
+        dass die dritte Engelsbotschaft die Botschaft von der
+        Rechtfertigung aus Glauben ist?
     -   ...
     -   ...
 
