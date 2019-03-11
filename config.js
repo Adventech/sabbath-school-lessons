@@ -65,6 +65,8 @@ var BIBLE_PARSER_CONFIG = {
     "lit"
   ],
 
+  "hi": ["hhbd"],
+
   "he": [
     "em-1865"
   ],
