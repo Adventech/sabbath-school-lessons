@@ -174,7 +174,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "zh": [
-    "cuvs"
+    "cuvs",
+    "cuv"
   ],
 
   "vi": [
