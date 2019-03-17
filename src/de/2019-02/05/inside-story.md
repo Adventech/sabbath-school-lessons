@@ -11,7 +11,7 @@ Nachdem eine Ärztin am Sabbatmorgen eine Predigt über Missionsarbeit in Städt
 
 Dr, Yvette C. Ross Hebron half einem gesunden Jungen im Auto seiner Eltern auf die Welt, die eilig zum Krankenhaus unterwegs gewesen waren, aber auf den Gemeindeparkplatz in Silver Spring, Maryland, abgebogen waren, weil sie sich verfahren hatten. Yvette ist der Meinung, Gott habe das so geführt: "Dieses wunderbare Ereignis wurde von Gott als Reaktion auf meine Gebete arrangiert."
 
-Nachdem Yvette während der jährlichen Geschäftssitzung 2017 am Sitz der Generalkonferenz Präsident Ted Wilson predigen gehört hatte, bat sie Gott, ihr zu zeigen, wie sie ihm noch besser dienen könnte. Der Kirchenleiter hatte dazu aufgerufen, sich mehr um Menschen in Städten zu kümmern, und davon gesprochen, dass Ärzte und andere in medizinischen Berufen auf Stadtbewohner zugehen sollten.
+Nachdem Yvette während der jährlichen Geschäftssitzung 2017 am Sitz der Generalkonferenz Präsident Ted Wilson predigen gehört hatte, bat sie Gott, ihr zu zeigen, wie sie ihm noch besser dienen könnte. Der Kirchenleiter hatte dazu aufgerufen, sich mehr um Menschen in Städten zu kümmern, und davon gesprochen, dass Ärzte und andere in medizinischen Berufen auf Stadtbewohner zugehen sollten.
 
 Fünf Tage nach der Predigt führten Yvette und ihr Mann Harold am Verwaltungssitz vorbei und sahen, wie ein Mann auf dem Parkplatz abbog, aus seinem Auto sprang und auf die Beifahrerseite lief. Er rief: "Das Baby kommt!" Dann hörten sie Schreie der werdenden Mutter im Auto.
 
