@@ -9,7 +9,6 @@ Kinder zu haben war in der Bibel eine große Sache. Mütter flehten Gott (oder i
 
 Kinder großzuziehen kann man als einen Teilbereich dessen ansehen, Menschen zu Jüngern zu machen. Auch wenn die Heilige Schrift kleine Portionen von Erziehungsratschlägen anbietet (2 Kor 12,14; Eph 6,4; Kol 3,21), geben die meisten Familien, die die Bibel näher beleuchtet, eine Fülle von Beispielen dafür, was man bei der Kindererziehung nicht tun sollte (z. B. Lieblingskinder haben, die Erziehung vernachlässigen, ein gottloses Leben führen). Aber wenn wir aus ihren und unseren eigenen Fehlern lernen können, wird jedes Kind ein Stern in der himmlischen Krone der Eltern sein. In der Hoffnung, dass unsere Kinder erlöst werden, wurde jedoch Sprüche 22,6 in einer Art und Weise beschworen, die nicht gut zur Willensfreiheit und der Rahmengeschichte vom Großen Kampf passt. Ein kurzes Studium dieses berühmten Verses unter Gebet wird hoffentlich etwas Klarheit schaffen und uns einige andere Interpretationsmöglichkeiten aufzeigen.
 
-
 ### Kommentar
 
 **Bibel**
@@ -24,16 +23,13 @@ Zuerst einmal stellt die Studienbetrachtung einen entscheidenden Punkt heraus, d
 
 Unterstützer der Standardübersetzung müssen den Ausdruck „den er gehen soll“ verteidigen, weil im Hebräischen nur steht „gemäß seinem Weg“. Übersetzer, die die allgemeine Aussage der Sprüche aufnahmen, wurden jedoch durch den Kontext überzeugt, dass der „Weg“ in diesem Fall der Weg der Weisen und Gerechten wäre, zu dem Salomo und seine Freunde rieten, und fügten deshalb „soll“ ein, um diesen Aspekt zu erhalten. Eine kleine Zurückweisung dieser Übersetzung kommt von denjenigen, die „seinen Weg“ als Bezug darauf sehen, dass jemand seine beruflichen Neigungen entdeckt und in diese Richtung gefördert wird. Diese Sichtweise nimmt The Seventh-day Adventist Bible Commentary zu diesem Vers ein, wenn er feststellt, dass das „Lebenswerk mit der natürlichen Veranlagung in Einklang stehen sollte“ (The SDA Bible Commentary, Bd. 3, S 1020.) Manche meinen jedoch, dass diese Sichtweise dem Vers eine anachronistische psychologische Perspektive überstülpt, die sich außerhalb der Themen der Sprüche befindet.
 
-
 **Die Minderheitenübersetzung**
-
 
 Eine andere Übersetzung bemängelt auch das Bestimmungswort „sollte“ in der Formulierung „den er gehen sollte“ und glaubt, dass das Hebräisch wörtlich im Sinne von „nach/gemäß seinem Weg“ genommen werden sollte. Doug Stuart und andere haben auch ein Problem damit, dass das hebräische na’ar in der Standardübersetzung mit „Knabe“ wiedergegeben wird und plädieren stattdessen für „ein unverheirateter junger Erwachsener“. (Doug Stuarts komplette Griffith-Vorlesung 2013 mit dem Titel „My Favorite Mistranslations“ [„Meine liebsten Fehlübersetzungen“] ist zu sehen auf https://www.youtube.com/watch?v=DJnnbIypnz8&t=16s) Im Licht dieses Vorschlags geht es in dem Vers nun um Teenager statt um Kleinkinder. Stuart schlägt folgende Übersetzung vor: „Lehre einen Heranwachsenden seinen eigenen Weg, und wenn er alt ist, wird er davon nicht abweichen.“
 
 Der Vers wird nun als Verheißung verstanden – nicht dass gute Erziehung gute Resultate hervorbringt, sondern dass laxe Erziehung, die dem undisziplinierten „Weg“ eines Teenagers gerecht wird, langfristig schädliche Folgen haben wird. Stuart zitiert die Übersetzung des jüdischen Philosophen Ralbag (ein Akronym für Rabbi Levi ben Gershon), der im Mittelalter lebte: „Lehre ein Kind entsprechend seiner schlechten Neigungen und es wird seine schlechten Wege sein ganzes Leben lang fortsetzen.“
 
 Warum ist dieser Übersetzungsansatz in modernen Versionen nicht weiter verbreitet? Es gibt wahrscheinlich eine gewisse übersetzerische Trägheit, die aus einer populären/ frühen Übersetzung entsteht, der nachfolgende Versionen oft nur schwer widerstehen können. Gordon Hugenberger stellte eine Theorie zum möglichen initialen Fehltritt auf: „Es ist wahrscheinlich, dass früheren Übersetzern diese Deutung des Verses als Warnung nicht bewusst war; nicht wegen irgendwelcher Schwierigkeiten im Hebräischen, sondern weil der erste Satzteil als ironischer Kommentar konstruiert worden war. Er sagt dem Leser etwas, das er nicht tun soll: ‚Lehre ein Kind entsprechend seinem eigenen Weg.‘ Tatsächlich findet sich ein derartiges rhetorisches Stilmittel regelmäßig in Weisheitsliteratur wie den Sprüchen, wo Sarkasmus wirkungsvoll eingesetzt wird. Vergleiche Sprüche 19,27: ‚Lass ab davon, auf Unterweisung zu hören, mein Sohn, wenn du von den Worten der Erkenntnis doch abweichen willst!‘ (SLT)“ (In: Gary D. Practico und Miles V. Van Pelt, Basics of Biblical Hebrew Grammar, Grand Rapids 2007, S. 163.)
-
 
 **Eine 1000 Jahre alte Interpretation**
 
