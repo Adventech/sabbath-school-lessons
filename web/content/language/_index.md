@@ -121,4 +121,7 @@ languages:
   - native: Kiswahili
     en: Swahili
     code: sw
+  - native: Slovenščina
+    en: Slovenian
+    code: sl
 ---

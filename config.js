@@ -135,6 +135,12 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "sl": [
+    "chr",
+    "eku",
+    "ssp"
+  ],
+
   "sr": [
     "biblija"
   ],
