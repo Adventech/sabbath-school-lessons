@@ -65,6 +65,8 @@ var BIBLE_PARSER_CONFIG = {
     "lit"
   ],
 
+  "hi": ["hhbd"],
+
   "he": [
     "em-1865"
   ],
@@ -133,6 +135,12 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "sl": [
+    "chr",
+    "eku",
+    "ssp"
+  ],
+
   "sr": [
     "biblija"
   ],
@@ -172,7 +180,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "zh": [
-    "cuvs"
+    "cuvs",
+    "cuv"
   ],
 
   "vi": [

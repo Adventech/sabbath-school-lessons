@@ -363,3 +363,12 @@ title = "Sabbath School"
 	current = "Somo la sasa"
 	archive = "Archive ya Somo"
 	lang = "🇰🇪 Kiswahili"
+
+[params.sl]
+	title = "Sobotna šola"
+	back = "Pojdi nazaj"
+	all = "Oglejte si vse"
+	todaysLesson = "Današnji nauk"
+	current = "Trenutno"
+	archive = "Arhiv"
+	lang = "🇸🇮 Slovenščina"

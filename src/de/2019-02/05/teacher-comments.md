@@ -5,7 +5,6 @@ date:   03/05/2019
 
 ### Übersicht
 
-
 Das Familienleben steckt voller Tücken. Wir brauchen jegliche Hilfe, die wir bekommen können. Der Merktext für diese Woche besagt, dass wir unseren Stolz herunterschlucken müssen und uns nicht auf unseren Verstand verlassen sollen (Spr 3,5). Lasst uns ehrlich sein und zugeben, dass wir Hilfe von Gott benötigen, wenn wir gute Mütter, Väter, Söhne und Töchter sein wollen. Das Buch der Sprüche ist eine Schatzkiste voller Einsichten zum Familienleben; daher sucht die Studienbetrachtung darin „weise“ nach Orientierungshilfen.
 
 Die Erschaffung einer Familie beginnt mit zwei Menschen, die sich dafür entscheiden, ein Leben lang füreinander einzustehen. Ob es den Kindern gefällt oder nicht – Eltern sind oft gut in der Lage zu sagen, ob jemand einen guten Ehepartner abgibt oder nicht. Das Buch der Sprüche sagt viel darüber, mit wem man sich nicht einlassen soll, wobei normalerweise von der „fremden Frau“ gesprochen wird (Spr 2,16–19; 5,3–14; 7,4–27). Aber man kann dasselbe Prinzip auch problemlos übertragen, um den falschen Mann zu vermeiden. Vielleicht wird die Tatsache, dass nur von der „fremden Frau“ und nicht vom „fremden Mann“ gesprochen wird, dadurch etwas ausgeglichen, dass das Buch der Sprüche mit einer Hommage an die „tüchtige Frau“ endet (Spr 31,10–31).
@@ -46,8 +45,6 @@ Die Adventkirche ist eine Gemeinschaft, die reich an Informationen ist. Wir lege
 
 Einige Ideen, wie man Weisheiten aus dem Buch der Sprüche ins Familienleben integrieren kann:
 
-1. Das Buch der Sprüche hat 31 Kapitel, eines für jeden Tag des Monats. Schlage den Gesprächsteilnehmern vor, jeden Tag ein Kapitel während ihrer Morgenandacht zu lesen
-und zu erzählen, welches ihr jeweiliger Lieblingsspruch ist.
+1. Das Buch der Sprüche hat 31 Kapitel, eines für jeden Tag des Monats. Schlage den Gesprächsteilnehmern vor, jeden Tag ein Kapitel während ihrer Morgenandacht zu lesen und zu erzählen, welches ihr jeweiliger Lieblingsspruch ist.
 
-2. Ermutige die Gesprächsteilnehmer, einen Familienrat einzuberufen, bei dem jedes
-Familienmitglied die Möglichkeit hat, über persönliche Probleme und Sorgen zu sprechen. Da das Buch der Sprüche eine so große Bandbreite an Themen anspricht, empfiehl den Gesprächsteilnehmern nachzuschauen, ob es ein oder zwei Sprüche gibt, die zu den im Familienrat angesprochenen Problemen passen. Schlage vor, dass die Familie den entsprechenden Spruch gemeinsam auswendig lernt.
+2. Ermutige die Gesprächsteilnehmer, einen Familienrat einzuberufen, bei dem jedes Familienmitglied die Möglichkeit hat, über persönliche Probleme und Sorgen zu sprechen. Da das Buch der Sprüche eine so große Bandbreite an Themen anspricht, empfiehl den Gesprächsteilnehmern nachzuschauen, ob es ein oder zwei Sprüche gibt, die zu den im Familienrat angesprochenen Problemen passen. Schlage vor, dass die Familie den entsprechenden Spruch gemeinsam auswendig lernt.

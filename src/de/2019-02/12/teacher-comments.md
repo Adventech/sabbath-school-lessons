@@ -17,6 +17,7 @@ Weil Familien Beziehungseinheiten sind, kann Christus durch sie auf eine Art und
 **Bibel**
 
 „Und Gott ... sprach zu ihnen [Mann und Frau]: Seid fruchtbar und mehret euch und füllet die Erde und machet sie euch untertan.“
+
 Kurzer Test: Wurde dieser Vers vor oder nach dem Sündenfall gesagt? Die Bibelstelle ist 1. Mose 1,28, also vor dem Sündenfall. Die Bedeutung des Zeitpunkts besteht darin, dass Gottes göttliche Idee der Familie in Eden gepflanzt wurde. Obwohl Eden nicht mehr unsere Heimat ist, sind wir, wenn wir Teil einer Familie sind, mit einer Institution aus Eden verbunden, die uns zurück in dieses Paradies ruft. In der Familie klingt immer noch das Echo von Edens Herrlichkeit nach. Dieses Echo hallt in Gottes Reich wider und ist ein Vorbote eines neuen Eden, das noch herrlicher sein wird als das erste (Offb 21,1; 22,2). Diese Kraft ist ein Grund, warum gottgefällige Familien eine fast mysteriöse Anziehungskraft auf Nichtgläubige haben können. Es ist der vielleicht einzige Blick auf den Himmel, den diese Menschen erhaschen.
 
 „Und Gott schuf den Menschen zu seinem Bilde, zum Bilde Gottes schuf er ihn; und schuf sie als Mann und Frau.“ (1 Mo 1,27)

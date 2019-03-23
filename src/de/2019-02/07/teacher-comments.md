@@ -45,8 +45,8 @@ Moderner Götzendienst drückt sich in Selbstanbetung aus, in der absolute Eigen
 
 **Fragen zum Gespräch**
 
-`1. Wie kann ein Ehepartner, der den Eindruck hat, dass in der Ehebeziehung die Wünsche des Partners in unfairer Weise bevorzugt werden, ein Gespräch beginnen, um Schritte hin zur Einheit zu unternehmen? Macht konkrete Vorschläge.`
+1. Wie kann ein Ehepartner, der den Eindruck hat, dass in der Ehebeziehung die Wünsche des Partners in unfairer Weise bevorzugt werden, ein Gespräch beginnen, um Schritte hin zur Einheit zu unternehmen? Macht konkrete Vorschläge.
 
-`2. Welche familiären Strategien können dazu beitragen, dass entfremdete Kinder das Gefühl haben, ihre Meinungen und ihre Wünsche werden in der Familie wertgeschätzt, ohne dass das Paradigma der Eltern-Kind-Autorität umgekehrt wird?`
+2. Welche familiären Strategien können dazu beitragen, dass entfremdete Kinder das Gefühl haben, ihre Meinungen und ihre Wünsche werden in der Familie wertgeschätzt, ohne dass das Paradigma der Eltern-Kind-Autorität umgekehrt wird?
 
-`3. Unterordnung, Liebe und Hingabe müssen in der Familie ausgedrückt werden, jedoch nicht nur in Worten, sondern täglich in Hunderten kleiner Taten. Was tut ihr, um eure Familie geeint zu erhalten?`
+3. Unterordnung, Liebe und Hingabe müssen in der Familie ausgedrückt werden, jedoch nicht nur in Worten, sondern täglich in Hunderten kleiner Taten. Was tut ihr, um eure Familie geeint zu erhalten?
