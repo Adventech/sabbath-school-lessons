@@ -1,0 +1,51 @@
+---
+title:  Lehrerteil
+date:   21/06/2019
+---
+
+### Übersicht
+
+
+Jeder von uns hat schon einmal von dem scheinbaren „stummen Zeugnis“ gehört, das wir als Christen überall ausstrahlen sollen. Dadurch stehen die Menschen Schlange und fragen uns: „Was hast du, das anders ist? Ich will das auch haben.“ Dann erzählen wir ihnen von Jesus und schon bald bekehren sie sich. Zweifellos bestätigen Zeugnisse, dass es dieses Phänomen gibt, aber wenn wir ehrlich sind, ist ein derartiges Szenario zum größten Teil eine Art moderner Mythos, der viele Adventisten schon jahrelang auf solche Begegnungen warten lässt. In der Zwischenzeit beschleichen sie Schuldgefühle, weil sie sich fragen, warum ihr „stummes Zeugnis“ nicht laut genug ist, um Aufmerksamkeit zu erregen.
+
+Es gibt jedoch einen Ort, an dem die Wirksamkeit des „stummen Zeugnisses“ offenbar das größte Potenzial dazu hat, dass die Welt ihre Nase in neugieriger Bewunderung gegen die Fensterscheibe drückt – und dieser Ort ist die christliche Familie. Eine christliche Familie, die völlig gebrochen hat mit dem gängigen Modell zweier gestresster, überarbeiteter Elternteile mit ihren vernachlässigten, schlecht erzogenen, überstimulierten Kindern, wird wie eine Neonreklame in der Nacht leuchten. Eltern, die harmonisch zusammenleben, Kinder, die gerne gehorchen, eine lockere, glückliche und zufriedene Stimmung – alles ermöglicht durch Gottes Prinzipien und Gegenwart – übt in der heutigen Welt einen Einfluss aus, der schwer zu überbieten ist.
+
+Weil Familien Beziehungseinheiten sind, kann Christus durch sie auf eine Art und Weise leuchten, die ein einzigartiges Zeugnis gibt. Die Studienbetrachtung erkennt dieses Potenzial und betont die hohe Bedeutung der Familie als wichtigstes Missionsfeld. Sie sieht Konzepte von Vorbild und Nachahmung als Methoden, um andere Menschen innerhalb und außerhalb der Familie zu beeinflussen. Schließlich betrachtet sie Gastfreundschaft als einflussreiche Schnittstelle zwischen der christlichen Familie und der Welt.
+
+### Kommentar
+
+**Bibel**
+
+„Und Gott ... sprach zu ihnen [Mann und Frau]: Seid fruchtbar und mehret euch und füllet die Erde und machet sie euch untertan.“
+
+Kurzer Test: Wurde dieser Vers vor oder nach dem Sündenfall gesagt? Die Bibelstelle ist 1. Mose 1,28, also vor dem Sündenfall. Die Bedeutung des Zeitpunkts besteht darin, dass Gottes göttliche Idee der Familie in Eden gepflanzt wurde. Obwohl Eden nicht mehr unsere Heimat ist, sind wir, wenn wir Teil einer Familie sind, mit einer Institution aus Eden verbunden, die uns zurück in dieses Paradies ruft. In der Familie klingt immer noch das Echo von Edens Herrlichkeit nach. Dieses Echo hallt in Gottes Reich wider und ist ein Vorbote eines neuen Eden, das noch herrlicher sein wird als das erste (Offb 21,1; 22,2). Diese Kraft ist ein Grund, warum gottgefällige Familien eine fast mysteriöse Anziehungskraft auf Nichtgläubige haben können. Es ist der vielleicht einzige Blick auf den Himmel, den diese Menschen erhaschen.
+
+„Und Gott schuf den Menschen zu seinem Bilde, zum Bilde Gottes schuf er ihn; und schuf sie als Mann und Frau.“ (1 Mo 1,27)
+
+Gemeinsam können Mann und Frau, in der Familie vereint, die Beziehungsdimension dessen, wie Gott ist, zeigen. Somit ist es unabdingbar, dass Familien ihre eigene Familie zur Priorität machen. Familien tragen das Bild Gottes in sich. Dieses Potenzial stattet sie mit heiligem und unschätzbarem Wert aus. Es gibt keine Gemeindeaktivität oder weltliche Verantwortung, die dem persönlichen Einsatz in die Quere kommen sollte, den es bedarf, um eine gesunde und glückliche Familie zu erhalten. Es gibt so viele Berichte von Erwachsenen, die ihre ganze Zeit der Gemeinde widmeten, nur um ihre eigenen Kinder an die Welt zu verlieren, die davon zeugen, dass sie vernachlässigt wurden!
+
+Manche mögen jedoch erwidern, dass die Familie Opfer für die Evangelisation und das Retten von Menschen bringen muss. Lies den folgenden Bericht, um diese Illusion endgültig platzen zu lassen. Lee Venden erzählte von einem Gespräch, das er vor einigen Jahren mit einem Kirchenleiter führte, der damals Assistent des Präsidenten der Nordamerikanischen Division der Siebenten-Tags-Adventisten war.
+
+„Wir sprachen über eine umfangreiche Studie der Nordamerikanischen Division, die in Nordamerika durchgeführt worden war. Die Ergebnisse verschlugen einem schier den Atem. Das erstaunlichste Ergebnis war, dass, wenn seit der Kirchengründung das EINZIGE Mitgliederwachstum in der Nordamerikanischen Division ein biologisches gewesen wäre und wir lediglich 80 Prozent unserer eigenen Jugend behalten hätten, es zur Zeit unseres Gesprächs in Nordamerika über 8 Millionen Mitglieder gegeben hätte.“ (Auszug aus einer persönlichen E-Mail-Korrespondenz mit Lee Venden). Angesichts der Mitgliederzahl der Nordamerikanischen Division 2017 von 1,24 Millionen kannst du erkennen, wie erschütternd diese Statistik ist. Bis heute würde das einem Mitgliederwachstum in der Nordamerikanischen Division von über 600 Prozent entsprechen.
+
+Zusammengefasst kann man sagen: Da Liebe sowohl ein Hauptwesensmerkmal Gottes ist (1 Joh 4,8) als auch ein Ausdruck von Beziehung, ist es verständlich, warum Menschen in einer Beziehung einen Vorteil haben, wenn sie das Bild Gottes widerspiegeln. Da die Familie vor der Sünde entstand, kann sie als ein Mikrokosmos des vergangenen Paradieses dienen. Außerdem kann sie einen rettenden Einfluss auf diese Welt haben, wenn Gottes Absichten zur Priorität im Familienleben gemacht werden. Das Familienleben ist in dieser Hinsicht unschätzbar wertvoll. Aber wie kann die Welt mit diesen kleinen Blitzlichtern des Himmels auf Erden in Kontakt kommen? Die Antwort lautet: Gastfreundschaft.
+
+**Gastfreundschaft**
+
+Was ist Gastfreundschaft? Lexika definieren sie als den freundlichen Empfang von Gästen oder Fremden. Gäste mit Nahrung, Ruhe und Gemeinschaft zu versorgen, ist gewiss eine Tugend, die weitläufig gepflegt wird und mindestens genauso in christlichen Kreisen gepflegt werden sollte. Als Christen interessieren wir uns jedoch stets für die Seele der Menschen wie auch für ihre körperlichen Bedürfnisse. Dieses Interesse fügt der Bedeutung und Praxis der Gastfreundschaft im christlichen Kontext eine weitere Nuance hinzu.
+
+Zuerst stellt sich die Frage: „Welchen Gästen oder Fremden soll ein freundlicher Empfang zuteilwerden?“ Diese Frage klingt ähnlich wie die, die Jesus gestellt wurde: „Wer ist denn mein Nächster?“ (Lk 10,29) Es ist hilfreich, diese beiden Fragen miteinander in Verbindung zu bringen, weil Jesu Antwort durch das Gleichnis des barmherzigen Samariters eine angemessene, jedoch schwer zu schluckende Wendung zum Thema Gastfreundschaft beinhaltet. Die Wendung besteht darin, dass Jesus die Frage auf den Kopf stellte. Er veränderte die Frage von „Welche Art Mensch soll ich aufnehmen?“ zu „Welche Art Mensch wirst du sein?“ Neben dem Dienst an anderen und dem oben genannten Ausgangspunkt, den Jesus aufzeigte, heißt es im Donnerstagsabschnitt der Studienbetrachtung dieser Woche: „Das eigene Zuhause zum Dienst zu nutzen kann von der einfachen Essenseinladung der Nachbarn bis hin zur radikalen Gastfreundschaft reichen, die einem Missbrauchsopfer ein Zimmer überlässt.“
+
+Zachäus ist ein Beispiel dafür: ein Wirtschaftskrimineller, dem die unerwartete Ehre zuteilwird, dass Jesus (der berühmte Prophet und Rabbi) zum Essen in sein Haus kommt (Lk 19,5). Und was folgt daraus? Veränderung, Wiederherstellung und „Erlösung“ (Lk 19,8–9) – keine Predigt, keine Bibelstunde, nur eine Geste der Gastfreundschaft. (Beachte: Dieses Beispiel ist eine Art umgekehrte Gastfreundschaft, weil sich Jesus selbst in das Haus von Zachäus einlud; aber das Prinzip bleibt dasselbe, weil Jesus einem Mann Freundlichkeit erwies, den die Gesellschaft als sozial Ausgestoßenen betrachtete.)
+
+Wenn Gastfreundschaft für diejenigen, die Außenseiter sind, zu einem Ausdruck von Gottes Gnade wird, dann verwandelt sie sich von einer üblichen kulturellen Praxis (d.h. „Das tun sogar die, die Gott nicht kennen.“, Mt 5,47) in einen Moment mit möglicher Ewigkeitsbedeutung. Wie es der Titel der Gesprächsanleitung diese Woche sagt: „Was haben sie in deinem Haus gesehen?“ Nun ja, nichts, wenn wir niemanden einladen. Aber wenn wir Menschen einladen, kann die Einladung an sich wie Gottes gnädiger Ruf an alle ungeachtet ihres vergangenen oder gegenwärtigen Zustandes sein. Und wenn die Eingeladenen in dem Heim eine lebendige, überweltliche Liebe im Namen Christi zwischen den Familienmitgliedern erleben, kann es ausreichen, um in ihnen einen unstillbaren Hunger nach einem neuen Leben und einer neuen Welt hervorzurufen.
+
+**Anwendung**
+
+Viele Gesellschaften scheinen großen Wert auf Erziehung, Karriere, sozialen Aufstieg, Stellung, Reichtum und eventuell sogar Sorge für das Gemeinwohl zu legen. Gesunde Familien zu fördern steht selten ganz oben auf der Prioritätenliste. Man hört kaum davon, dass irgendwelche der wichtigsten Prioritäten geopfert werden, um qualitativ hochwertige Zeit mit der Familie zu verbringen. Als Folge davon mag das Haus von außen gut aussehen, aber man sollte innen nicht zu genau hinschauen, weil die Familie in Scherben liegen könnte. Dieser Zustand muss vermieden werden. Das ewige Leben der Kinder und Ehegatten steht auf dem Spiel – von der Nachbarschaft ganz zu schweigen, die die Familie beobachtet und über sie spricht. Hier sind einige Fragen, die ein Gespräch darüber einleiten können, wie man die Familie um des Reiches Gottes willen (und zum Wohl aller) zur Priorität machen kann.
+
+1. Am Ende des Donnerstagsabschnitts in Woche 2 wurde die tiefgreifende Frage gestellt: „Wie viele Menschen wünschen sich denn am Ende ihres Lebens, dass sie mehr Zeit im Büro und weniger mit ihrer Familie verbracht hätten?“ Was könnt ihr jetzt tun, um zu vermeiden, dass dieser Umstand (Büro vor Familie) die traurige Aussage eures Rentnerdaseins wird?
+
+2. Radikale Gastfreundschaft kann Bedenken bezüglich der Sicherheit der Familie beinhalten. Welche Vorbereitungen sollte man in einem solchen Fall treffen?
+
+3. Gastfreundschaft kann von der Ortsgemeinde wie von jeder Familie ausgelebt werden. Wie könnte eine Gemeinde in ihrer Umgebung für ihre Gastfreundschaft bekannt werden?

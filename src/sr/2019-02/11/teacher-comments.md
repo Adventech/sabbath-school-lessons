@@ -1,0 +1,54 @@
+---
+title:  Pouka za učitelje
+date:   14/06/2019
+---
+
+## PRVI DEO: OPŠTI PREGLED
+
+Kultura može biti prijatelj ili neprijatelj kad je reč o hrišćanskoj veri. Porodice koje žele da ostanu verne radikalnom putu hrišćanskog učeništva često će se suočiti sa kulturološkim pritiskom da naprave ustupke po pitanju merila svetosti. Međutim, nepotrebno odbacivanje trenutnih kulturoloških normi u ime religije nije znak posvećenosti, već nerazboritog žara koji može doneti sramotu našem hrišćanskom svedočenju. Nastojanje da se pažljivo uoči koje kulturološke norme su usaglašene sa hrišćanstvom a koje ne može biti izvor snažnog neslaganja među vernicima (na primer, ono što je prethodilo Jerusalimskom saboru u Delima 15). Uvo koje je spremno da sluša, ponizan stav i osetljivost na vođstvo Svetog Duha potrebni su da bismo ostali verni u biblijskom smislu i osetljivi u kulturološkom.
+
+Dok hrišćanske porodice određuju u kojoj meri će se prilagoditi kulturi, onoliko koliko veruju da je to prikladno, mogu da budu sigurne da unutar autentičnog hrišćanstva nema mesta za umanjivanje vrednosti bilo kog čoveka, jer su svi stvoreni prema Njegovom obličju (1. Mojsijeva 1,26.27; 1. Mojsijeva 9,6). Ukoliko kultura omalovažava neku grupu na osnovu sledećih kriterijuma – pola, etničkog porekla, društvenog položaja, mentalnog ili fizičkog invaliditeta, starosnog doba, itd. – onda je opravdano i važno da se udaljimo iz te kulture i da svojim delima otkrijemo Boga koji „ne gleda ko je ko“ (Rimljanima 2,11; Dela 10,34; Galatima 2,6).
+
+U životu porodica u Bibliji pronalazimo mnoštvo grešaka iz kojih možemo da učimo i koje treba da izbegavamo. Ove porodice bile su nadahnute, makar delimično, kulturama u kojima su živele. Od pogreške koje su učinili Avram i Agara (1. Mojsijeva 16) do prisustva idola u Jakovljevom domu (1. Mojsijeva 35), kultura je uvek vršila pritisak na Božji narod. Dok budete poučavali lekciju za ovu sedmicu, istaknite pojedinost da oni koji nisu svesni uticaja kulture u svom životu nepromišljeno joj se mogu prilagoditi.
+
+## DRUGI DEO: KOMENTAR
+
+**Kultura: nalazi se svuda**
+
+Problem kulture je taj što ona predstavlja pokretačku silu u našem životu koja izmiče pomnom razmatranju. Kada na Zapadu prijatelj upita: „Hoćeš li šoljicu kafe pre posla?“, malo njih će biti iznenađeno ovim pitanjem, jer je na Zapadu kafa deo kulture. Pokušajte kolegi umesto tog pitanja da postavite sledeće: „Hoćeš li kivi i sok od jabuke posle posla?“ i posmatrajte kako se sumnjičavo smeška i pita: „Da li si ozbiljan?“ Zašto ovolika iznenađenost? Kivi i sok od jabuke isto tako spadaju u slobodan izbor kao i kafa, ali iako su mnogo zdraviji izbor, kivi i sok od jabuke nisu zauzeli svoje mesto među hranom koja je deo narodnog običaja šire Zapadne kulture, tako da će svako ko predloži nešto tako izgledati veoma čudno.
+
+Prethodni primer je prilično bezazlen primer. Na sledećem sastanku odbora pokrenite pitanje da li u crkvama treba da se koriste starije himne ili savremenije pesme hvale i pripremite se za kulturološki okršaj. Prilike postaju još složenije kada muzika iz drugih kultura dolazi u potpuno drugačije područje, stvarajući međukulturološku napetost. Kada se sve ovo izmeša, uočavamo da kultura vrši sveopšti uticaj. Ponekad će ljudi pomisliti da su teološki pronicljivi u kritikovanju ili potvrđivanju crkvene prakse, ali zapravo su pokoreni od strane dominante kulture ili potkulture čiji su deo. Biti svestan ovakvih kretanja je korisno u čitavom spektru crkvenih gledišta. Konzervativna strana treba da bude obazriva da „ne čini svetima“nepotrebne odlike svoga verovanja i prakse u naporu da se zaštiti od vladajuće kulture. Liberalna strana treba da bude oprezna da „ne izostavlja ono što je sveto“ u pokušaju da se maksimalno prilagodi vladajućoj kulturi.
+
+**Kultura: Primeri**
+
+Pošto je Hrišćanska adventistička crkva raširena širom planete, kulturološki uticaji na Crkvu su brojni i raznoliki. Porodice u crkvama širom sveta treba da procene svoje kulturološko okruženje i zapitaju se kako na najbolji način mogu da se odupru svojoj kulturi, ili da je iskoriste u cilju širenja Božjeg carstva. U lekciji se navode određeni primeri o tome kako je kultura uticala na porodice u Bibliji. Iako su primeri negativni, poučno je da razmotrimo kako je Bog ostvario svoju volju uprkos kulturološkim preprekama.
+
+**Avram, Sara i Agara**
+
+Izveštaj o tome kako su Avram i Sara, očajni što nemaju naslednika, iskoristili sluškinju Agaru kao rešenje Sarine neplodnosti (1. Mojsijeva 16,2) dobro nam je poznat. Iako bi ponavljanje ovog njihovog „rešenja“ u današnem svetu u većini slučajeva bilo odbačeno, surogatstvo je danas poznata opcija onima koji bi želeli da postanu roditelji. Kulturološka praksa surogatstva se zadržala, mada se zahvaljujući medicinskoj intervenciji metod promenio. Kulturološki kontinuitet pomaže nam da se bolje poistovetimo sa izveštajem o Sarinim teškoćama.
+
+Božje obećanje dato Avramu glasilo je da će dobiti naslednika koji će „izaći od njega“ (nasuprot Elijezeru, 1. Mojsijeva 15,4). Na drevnom Bliskom Istoku bilo je kulturološki prihvatljivo da supruga ponudi drugoj ženi da rodi decu u njeno ime, pa je to stoga uvek bila moguća opcija. Ovaj predlog omogućio je Avramu i Sari da pođu kulturološkom prečicom da bi ispunili Božje obećanje. Umesto toga, ovaj postupak, iako kulturološki prihvatljiv, umešao se u Božje planove i izazvao nepotrebnu patnju i nevolje svim učesnicima. Bog je na kraju rođenjem Isaka izvršio svoju volju (uprkos Avramovoj i Sarinoj greški) i, pored toga, pobrinuo se za proteranu Agaru i Ismaila. Na osnovu narativa se čini da ni Sara ni Avram nisu tražili savet od Boga u vezi sa njihovim planom da ispune Njegovo obećanje; i plaćali su zbog toga godinama (možda i ceo život).
+
+Jedno načelo možemo izvesti iz ovog izveštaja: kada pokušavamo da sarađujemo sa Bogom u ostvarenju Njegovih planova, oslanjanje na određenu praksu samo zato što je kulturološki dozvoljena može da donese više štete nego koristi. Razmišljanje uz molitvu i doza realnosti mogli su sprečiti potpunu propast (mirni poligamni brakovi u Pismu su retki. Ova pojedinost nam govori da Pismo tačno prikazuje istoriju i kulturu tog vremena).
+
+Vekovima kasnije, Izrailjevo tvrdoglavo insistiranje da dobije cara koji će njim vladati služi kao primer kulturološkog prilagođavanja koje ima pogubne posledice za sudbinu čitavog naroda. Narod je izjavio: „Zato postavi nam cara da nam sudi, kao što je u svijeh naroda.“ (1. Samuilova 8,5) Bog je znao da je ovakva odluka otvoreno odbacivanje Njega kao njihovog cara (1. Samuilova 8,7), naročito što ponuđeni razlog nije bio ništa bolji od „da budemo kao i svi ostali“. Ova želja da dobiju cara je kulturološko prilagođavanje u najgorem obliku. Svako ko je čitao izveštaj o izrailjskim i Judinim carevima zna da se njihova želja da dobiju cara najvećim delom završila propašću. Međutim, vredno je spomenuti dve važne pojedinosti: 1) Bog im je dozvolio da ostvare ovo kulturološko prilagođavanje, birajući čak njihovog prvog cara; 2) Bog je delovao unutar okvira pogrešne odluke Izrailja, čak do te mere da je u monarhiju utkao mesijanska proročanstva. Kakav Bog! Postavljanje cara nad Izrailjem nije bila Božja savršena volja. Čitava istorija Božjeg naroda mogla je biti u velikoj meri drugačija da su odlučili da ostanu jedini narod na svetu bez vidljivog vođe. Međutim, Bog je u stanju da pokrene plan B ili C ili D, bez obzira na naše izbore. On ne odustaje lako od svog naroda.
+
+Kada Crkva ili njene porodice čine pogrešna kulturološka prilagođavanja, čak i ona koja imaju dugoročne posledice, čini se da je Bog dovoljno velik da deluje oko naših pogrešnih odluka i kroz njih. Niti nas On drži u stanju stalnog odbacivanja ili gneva. Prirodna posledica naših pogrešno donetih odluka može ponekad biti dovoljna kazna, kao u slučaju izrailjske monarhije (1. Samuilova 8,9-19; na primer, car će uzimati vašu zemlju, stoku, useve i decu). Bilo bi pogubno iskoristiti ovu stranu Božje milosti kao slobodu da se jednostavno prepustimo toku kulture. Božja dobrota i strpljenje u ovome treba da nas „povedu... u pokajanje“, ne u dalji greh (Rimljanima 2,4.5). Božji narod se često sapliće u nastojanju da u svojoj kulturi živi u skladu sa svojom verom. Ipak, Bog tačno zna kako da savršeno spoji svoje carstvo sa svakim kulturološkim kontekstom. Kada sarađujemo sa Njim, On ne samo da nas vodi svojom Rečju i Duhom, već može i da nadoknadi naše greške.
+
+**Kultura: pretnja**
+
+Teško je izabrati koje kulturološke pravce, neprijateljski raspoložene prema Jevanđelju, treba spomenuti zbog raznolikih kultura kojima pripadaju oni kojima su ove lekcije namenjene. Biranje jednog pravca zapostaviće deset. Međutim, Zapadna sekularizacija je pojava koji širi svoj uticaj izvan svojih granica. Sledi navod govora Grešema Mahena održanog na otvaranju 101. zasedanja Teološkog fakulteta Prinston. Bavi se kulturološkom sekularizacijom koja snižava hrišćansku poruku na nivo bajke. Dovoljno je širok u svom opsegu, pa se može primeniti na bilo koji kulturološki milje štetan po hrišćanstvo. Govor je održan 1912. godine:
+
+„Lažne ideje su najveće prepreke za primanje Jevanđelja. Možemo propovedati sa svim žarom jednog reformatora, a opet da uspemo da osvojimo samo tu i tamo ponekog pojedinca, ako dozvolimo da cela kolektivna misao naroda ili sveta bude kontrolisana idejama koje, neodoljivom silom logike, sprečavaju da se hrišćanstvo smatra ničim više od bezopasne zablude. U takvim okolnostima ono što Bog želi da uradimo jeste da uništimo prepreku u korenu.“ („Christianity and Culture“, The Princeton Theological Review, 11. sveska, br. 1 (1913), str. 7)
+
+## TREĆI DEO: PRIMENA U ŽIVOTU
+
+Slede vežbe i misaoni eksperimenti koji mogu podstaći subotnoškolski razred da razmišlja o kulturi, hrišćanstvu i porodici.
+
+1. „Kulturološki relativizam“ je koristan model u nastojanju da shvatimo različite kulture iz njihove perspektive. Međutim, problem se javlja ako se sve kulturološke prakse smatraju zaštićenima od moralnog suda. Kakav odgovor bi neko modao da pruži u vezi sa tim da moralni sud o kulturološkoj praksi ima određenu objektivnu validnost?
+
+2. Koji kulturološki pravci upravo sada vladaju u vašoj zajednici koji deluju protiv Jevanđelja? Da li ima onih koji deluju u prilog Jevanđelju? Ako ih ima, koji pravci su u pitanju?
+
+3. Setite se Isusovih priča koje opisuju „carstvo Božje“ i upotrebite ih kao merilo za idealnu kulturu. Kako biste preuredili kulturu u kojoj živite da više liči na nebesku?
+
+4. Pitajte članove razreda o praksama među vernicima njihove crkve koje ih zabrinjavaju ili koje pred njihovu veru stavljaju izazov. Zapišite te prakse na tabli. Zatim pitajte da li postoje jasne bibljske zapovesti u vezi sa nekom od njih na listi. Ako nema, pokrenite pitanje da li su ove prakse možda više kulturološke nego biblijske.

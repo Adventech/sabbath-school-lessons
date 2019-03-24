@@ -131,6 +131,9 @@ if (branch.toLowerCase() === "master"){
 glob("images/global/**/cover.png", function(er, files){
   for (var i = 0; i < files.length; i++){
     fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
+    if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
+      fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
+    }
   }
 });
 
@@ -323,6 +326,10 @@ var lessonAPI = function(lessonPath){
   lesson.path = info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson;
   lesson.full_path = API_HOST + API_VERSION + "/" + lesson.path;
   lesson.cover = API_HOST + API_VERSION + "/images/global/" + info.quarterly.slice(0, 7) + "/" + info.lesson + "/" + SOURCE_COVER_FILE;
+
+  if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
+    lesson.cover = "/img/global/" + info.quarterly.slice(0, 7) + "/" + info.lesson + "/" + SOURCE_COVER_FILE;
+  }
 
   try {
     fs.lstatSync(lessonPath + "/" + SOURCE_COVER_FILE);
