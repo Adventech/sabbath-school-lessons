@@ -17,8 +17,7 @@ Siis meenus ta emale Suzannele, et perekonna sõbrad töötasid Weimari Instituu
 
 „Ma ei taha Californiasse minna!“ ütles ta emale. „See on nii kaugel.“
 
-„Sa peaksid vähemalt selle peale mõtlema ja selle pärast palvetama,“
-vastas ema.
+„Sa peaksid vähemalt selle peale mõtlema ja selle pärast palvetama,“ vastas ema.
 
 Hiljem, samal päeval, palvetas Jo-Anna: „Palun, ära lase mul Californiasse minna. Kui ma peaksin sinna minema, siis tee nii, et üks mu sõpradest tuleks koos minuga.“
 
