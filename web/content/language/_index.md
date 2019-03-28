@@ -124,4 +124,7 @@ languages:
   - native: Slovenščina
     en: Slovenian
     code: sl
+  - native: Монгол хэл
+    en: Mongolian
+    code: mn
 ---

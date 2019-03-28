@@ -372,3 +372,12 @@ title = "Sabbath School"
 	current = "Trenutno"
 	archive = "Arhiv"
 	lang = "🇸🇮 Slovenščina"
+
+[params.mn]
+	title = "Шаббат Сургууль"
+	back = "Буцах"
+	all = "Бүгдийг харах"
+	todaysLesson = "Өнөөдрийн хичээл"
+	current = "Одоогийн хичээл"
+	archive = "Хичээл архив"
+	lang = "🇲🇳 Монгол хэл"
