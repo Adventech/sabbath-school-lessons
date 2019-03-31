@@ -104,6 +104,11 @@ var BIBLE_PARSER_CONFIG = {
     "lb"
   ],
 
+  "mn": [
+    "ab2013",
+    "ab2004"
+  ],
+
   "mk": [
     "MKB"
   ],
