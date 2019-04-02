@@ -83,7 +83,7 @@ II: Wir studieren die Bibel
     -   Inwiefern steht die Vergebung Gottes in Verbindung mit unserer
         Vergebung (V. 32)?
 -   Fragen zur Botschaft:
-    -   Unsere Leben hat stets eine Wirkung auf andere - ob zum Guten
+    -   Unser Leben hat stets eine Wirkung auf andere - ob zum Guten
         oder zum Schlechten! Inwiefern ist dieses Wissen allein schon
         ein Anstoß dazu, als ein Vorbild zu leben?
     -   "Ich kann aber nicht vergeben!" Was würdet ihr einer Person, die
