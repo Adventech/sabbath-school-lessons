@@ -48,16 +48,48 @@ unterlaufen - richtig ist: 1. Korinther 10,1-<u>**1**</u>3
         10,1-13 (oder anderen Texten der Bibel)?
     -   Warum ist es wichtig, sich auf Veränderungen vorzubereiten.
 
-Montag: Vorbereitung auf die Ehe
---------------------------------
+Vorbereitung auf ...
+--------------------
 
-Dienstag: Vorbereitung auf die Elternschaft
--------------------------------------------
+Eine Zusammenfassung der Tage Montag bis Donnerstag auf der Suche nach
+Prinzipien
 
-Mittwoch: Vorbereitung auf das Alter
-------------------------------------
+-   Wenn es um die Vorbereitung auf verschiedene Lebenszyklen oder
+    Ereignisse im Leben geht, haben wir die Wahl zwischen
+    abzuarbeitenden Listen oder zu beherzigenden Prinzipien. Der Author
+    der Studienanleitung erwähnt drei Grundprinzipien an, die uns helfen
+    können, uns auf die Veränderungen vorzubereiten, die mit den
+    Übergängen von einem Lebenszyklus zum anderen einhergehen.
+    -   (1) Prinzip der Liebe
+    -   (2) Prinzip der Ausrichtung an den Geboten Gottes/Gehorsam
+        gegenüber dem Willen Gottes
+    -   (3) Prinzip einer gesunden Lebensführung
+-   (1) Das Prinzip der Liebe
+    -   Das Wort Liebe löst in uns eine Vielzahl von Gedanken und
+        Gefühlen aus? Beschreibt einige davon!
+    -   Welche Werte verbindet ihr mit der Liebe?
+    -   Im Studienheft werden vier Lebensphasen/Lebensereignisse
+        angesprochen: Ehe, Elternschaft, Alter und Tod. Welche Rolle
+        spielt die Liebe in/bei diesen Lebensphasen/Lebensereignissen?
+        (Antwortende können sich gerne einen Bereich auswählen)
+-   (2) Prinzip der Ausrichtung an den Geboten Gottes/Gehorsam gegenüber
+    dem Willen Gottes
+    -   In einem Lied mit dem Titel "Ein Leben für Gott" heißt es: Ein
+        Leben gegeben für den Herrn der Welt; Ein Leben gegeben für das
+        was wirklich zählt; Ein Leben für Gott, für ihn allein, das soll
+        mein Leben sein; Ein Leben für Gott, für ihn allein, das soll
+        mein Leben sein; Strophe: Herr weise Du mir Deinen Weg; Zeig mir
+        die Welt mit deinen Augen; Lass mich erkennen wer du wirklich
+        bist; Gebrauche mich in dieser Welt.
+        -   Wie würdet ihr ein Leben für und mit Gott beschreiben?
+        -   Welche Geboten Gottes geben euch in eurem Leben Richtung und
+            warum?
+        -   Die Bibel regelt nicht jeden Einzelfall in unserem Leben.
+            Wie schafft ihr es, trotzdem auf Gottes Spur zu bleiben?
+-   (3) Prinzip einer gesunden Lebensführung
+    -   
 
-Donnerstag: Vorbereitung auf den Tod
-------------------------------------
+Zu den einzelnen Prinzipien können folgende Texte gelesen werden: 1Kor
+13,4-8; Lukas 1,6; Psalm 71;
 
 <center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
