@@ -6,6 +6,20 @@ date:   20/04/2019
 Auf Veränderungen vorbereiten
 =============================
 
+I: Gemeinschaft
+---------------
+
+-   Wofür in der vergangenen Woche seid ihr dankbar?
+-   Im Rückblick auf die Herausforderungen der vergangenen Woche: Wo
+    wünscht ihr euch Gebetsunterstützung?
+-   Was hat euren Glauben gestärkt oder herausgefordert?
+-   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
+    Unterstützung?
+-   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
+
+II: Wir studieren die Bibel
+---------------------------
+
 ### Einstiegsfragen
 
 -   
@@ -82,14 +96,75 @@ Prinzipien
         die Welt mit deinen Augen; Lass mich erkennen wer du wirklich
         bist; Gebrauche mich in dieser Welt.
         -   Wie würdet ihr ein Leben für und mit Gott beschreiben?
-        -   Welche Geboten Gottes geben euch in eurem Leben Richtung und
+        -   Welche Gebote Gottes geben euch in eurem Leben Richtung und
             warum?
         -   Die Bibel regelt nicht jeden Einzelfall in unserem Leben.
             Wie schafft ihr es, trotzdem auf Gottes Spur zu bleiben?
+        -   Die Bibel ist voller Verheißungen für diejenigen, die ihr
+            Leben an den Geboten Gottes ausrichten (z.B. Psalm 119; Joh
+            14,21). Welche Erfahrungen habt ihr mit dem halten der
+            Gebote Gottes gemacht?
 -   (3) Prinzip einer gesunden Lebensführung
-    -   
+    -   Ganzheitlich-gesunde Lebensführung ist aus unserer Gesellschaft
+        heute nicht mehr wegzudenken. Beinahe hat man den Eindruck die
+        Welt hat uns Adventisten links überholt - oder sind wir was
+        Ernährung betrifft einfach vernünftiger geworden?
+    -   Welche Vorteile bietet eine gesunde Lebensweise?
+    -   In welchen Lebensphasen ist eine gesunde Lebensweise besonders
+        wichtig?
+    -   Wir alle haben schon von den "acht Ärzten" gehört (Vertrauen in
+        Gott, Sonne, Luft, Bewegung, Wasser, Ernährung, Ruhe,
+        Mäßigkeit). Wie können wir sie gewinnbringend praktizieren?
+-   Drei Prinzipien für ein Leben, das auch unvorhergesehene
+    Veränderungen meistert.
+    -   Wie schaffst du es die Balance zu halten?
 
 Zu den einzelnen Prinzipien können folgende Texte gelesen werden: 1Kor
-13,4-8; Lukas 1,6; Psalm 71;
+13,4-8; Lukas 1,6; Psalm 71; 1Kor 6,19;
+
+<center>
+
+[Ansicht mit inline-Bibeltexten]
+
+</center>
+
+III: Dienst und Mission
+-----------------------
+
+Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
+aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
+unseres Auftrags, Jünger zu machen.
+
+Die Arbeitshilfe "Dienst und Mission" möchte diesen Teil III etwas mehr
+in die Praxis bringen. Beachte hierzu folgende mögliche Vorgehensweise
+im Rahmen der wöchentlichen Sabbatschule:
+
+-   Drucke für jede Person ein Blatt (2 Arbeitshilfen pro Blatt) aus.
+-   Reserviere dir für diesen Teil III ca. 10 Minuten. Beende darum
+    rechtzeitig den Teil II "Bibelstudium".
+-   Gib jedem Sabbatschul-Teilnehmer dieses Blatt.
+-   Jeder möge kurz unter stillem Gebet an sein Umfeld denken: Freunde,
+    Verwandte, Bekannte, Arbeitskollegen usw. Für 2 Personen, die einem
+    gerade am meisten am Herzen liegen, möge man sich entscheiden. Die
+    eine Person in die linke Arbeitshilfe - die andere Person in die
+    rechte Arbeitshilfe eintragen.
+-   Nun möge sich jeder Gedanken machen, was er diesen Personen Gutes
+    tun kann. Bitte nur 1-3 Aktionen insgesamt pro Person - alles andere
+    überfordert womöglich.
+-   Am Ende tauscht euch kurz über eure Vorhaben aus. Teilt eure kleinen
+    Aktionsziele der ganzen Gruppe mit, die ihr euch für die kommenden
+    Wochen setzt.
+-   Beachte: Ohne heiligen Geist bleiben alle menschlichen Anliegen nur
+    Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von Gott
+    gebrauchen lassen, dann kann aus Kleinem etwas sehr Großes
+    entstehen.
+
+Hier die Arbeitshilfe: [WORD] oder [PDF]
+
+  [Ansicht mit inline-Bibeltexten]: https://sabbath-school.adventech.io/de/2019-02/03/gespr%C3%A4chsfragen-sabbatschulwiki/
+  [WORD]: :Medium:Teil_III_-_Dienst_und_Mission_-_Kleingruppen_im_Gottesdienst_-_Sabbatschul-Aktionsgruppen_Format_A4.docx
+    "wikilink"
+  [PDF]: :Medium:Teil_III_-_Dienst_und_Mission_-_Kleingruppen_im_Gottesdienst_-_Sabbatschul-Aktionsgruppen_Format_A4.pdf
+    "wikilink"
 
 <center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
