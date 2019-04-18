@@ -6,23 +6,17 @@ date:   20/04/2019
 Auf Veränderungen vorbereiten
 =============================
 
-I: Gemeinschaft
+Einstiegsfragen
 ---------------
 
--   Wofür in der vergangenen Woche seid ihr dankbar?
--   Im Rückblick auf die Herausforderungen der vergangenen Woche: Wo
-    wünscht ihr euch Gebetsunterstützung?
--   Was hat euren Glauben gestärkt oder herausgefordert?
--   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
-    Unterstützung?
--   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
-
-II: Wir studieren die Bibel
----------------------------
-
-### Einstiegsfragen
-
--   
+-   Wolf Biermann hat formuliert: "Nur wer sich verändert, bleibt sich
+    treu."
+    -   Wie denkt ihr über diesen Ausspruch?
+    -   Welche anderen Impulse helfen euch, mit Veränderungen positiv
+        umzugehen?
+-   Wass waren bisher die größten Veränderungen in eurem Leben?
+    -   Sofern sie absehbar waren - wie habt ihr euch auf sie
+        vorbereitet?
 
 Sonntag: Unvorbereitet
 ----------------------
@@ -32,11 +26,11 @@ Sonntag: Unvorbereitet
 -   Paulus berichtet in 1.Korinther 10,1-13 über den Auszug aus Ägypten.
     Auf ihrem Exodus musste Israel mit einer großen Anzahl Veränderungen
     fertig werden. Welche Veränderungen waren das?
-    -   Inwiefern hätten sie sich - auf zu mindestens einige dieser
-        Veränderungen - vorbereiten können?
+    -   Inwiefern hätten sich die Israeliten - auf zu mindestens einige
+        dieser Veränderungen - vorbereiten können?
 -   Mit welchen "Anhängseln" aus ihrer Zeit in Ägypten hatten die
     Israeliten zu kämpfen?
-    -   Warum waren manche von ihnen wo gefährlich?
+    -   Warum waren manche von ihnen so gefährlich?
 -   Welche Hilfen bot Gott den Israeliten bei den notwendigen
     Veränderung von einem Sklavenvolk zu einem selbständigen Volk an?
 
@@ -78,6 +72,9 @@ Prinzipien
     -   (2) Prinzip der Ausrichtung an den Geboten Gottes/Gehorsam
         gegenüber dem Willen Gottes
     -   (3) Prinzip einer gesunden Lebensführung
+    -   Welche (weiteren) biblischen Impulse haltet ihr zur Vorbereitung
+        auf Veränderungen (wie Ehe, Elternschaft, Alter und Tod) für
+        hilfreich?
 -   (1) Das Prinzip der Liebe
     -   Das Wort Liebe löst in uns eine Vielzahl von Gedanken und
         Gefühlen aus? Beschreibt einige davon!
@@ -117,7 +114,8 @@ Prinzipien
         Mäßigkeit). Wie können wir sie gewinnbringend praktizieren?
 -   Drei Prinzipien für ein Leben, das auch unvorhergesehene
     Veränderungen meistert.
-    -   Wie schaffst du es die Balance zu halten?
+    -   Wie schaffst du es alles im Blick zu halten um euch auf
+        Veränderungen vorzubereiten?
 
 Zu den einzelnen Prinzipien können folgende Texte gelesen werden: 1Kor
 13,4-8; Lukas 1,6; Psalm 71; 1Kor 6,19;
