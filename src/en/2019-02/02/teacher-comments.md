@@ -3,5 +3,54 @@ title:  Teacher Comments
 date:   12/04/2019
 ---
 
-### <center>We are working on this lesson</center>
-<center>Please come back later</center>
+### Part I: Overview
+
+Choices are such a part of our lives that they often escape our direct atten- tion. As a result, bad choices are made that result in bad consequences. Yet, those same choices are repeated time and time again. This lesson reflects briefly on the nature of choice, then studies how the significant choices of our lives can be made in a godly way.
+
+When we speak of “choice,” we are generally referring to free choice. The single greatest creative gift God ever bestowed upon us was to make us free moral agents. Without this gift, all other gifts could not be freely appreciated. Without it, too, all our responses of love and worship to God would be gutted of authenticity. True freedom makes love a genuine pos- sibility. But this freedom is not without the potential for evil. As we all know, that potential has actualized, again and again, since the Fall.
+
+But though evil has metaphorically swallowed this planet in darkness, God has preserved and provided sources of light for us to help us find our way. Often, we try to shift responsibility to God’s doorstep for the prob- lems and pain in our lives. In many cases, however, honest examination shows we have often ignored God’s resources for wisdom that would have prevented such problems in the first place. Our God is a God of revela- tion (and patience). He communicates with us through nature (Ps. 19:1–3, Rom. 1:20), prayer (Matt. 21:22, James 1:5), Scripture (Ps. 119:105, 2 Tim. 3:16), godly counselors (Prov. 11:14, 15:22), and, most gloriously, through the life and words of Jesus (Heb. 1:2, 3). These are our lights in the world. We really shouldn’t be making significant choices without con- sulting them—especially in the areas this lesson highlights: (1) choosing friends, (2) choosing a life partner, and (3) choosing a life occupation.
+
+### Part II: Commentary
+
+**Motivation for Christian Ethics**
+
+We are who we are because of our choices. We are where we are because of our choices. Of course, other people’s choices have affected our lives, because we live interdependently with one another; but how we have responded to those choices puts us back in the driver’s seat. This per- spective keeps us responsible and accountable for our current situations, while at the same time it causes us to acknowledge that some events in life are not within our control. The life ramifications of our choices are momentous. Thus, one would assume everyone invests considerable effort in reflecting on the morality of their choices and then, as a result, intentionally adopts the most reasonable ethical framework. But sadly, the average person spends more time researching which computer to buy rather than which ethical system to live by.
+
+Convenience, cultural trends, peer pressure, emotions, habits, and mere preferences are unreliable guides for the choices that lead to the life that God intended for us. Basing our decisions on such unreliable foundations is foolishness. We are each compelled, whether we are Christians or not, to ask: What will be the bases for my decision-making?
+
+**Basis of Christian Ethics**
+
+The bedrock of Christian ethics is that we have been made in the imago Dei (i.e., the image of God [Gen. 1:27]). All of our decisions should be made in reference to that reality. The greater the knowledge of the character of God, the broader our ethical horizon becomes, and the more glorious our destiny appears (2 Cor. 3:18). So how can the image of God be preserved and restored on a choice-by-choice basis?
+
+In answer to that question, consider the following apocryphal story. A man once asked Michelangelo about his statue of David. The man inquired, “How did you create such a masterpiece from a rough chunk of marble?” Michelangelo responded, “I simply chipped away everything that didn’t look like David.” We can make decisions to do only those things that look like Jesus and purpose to chip away from our lives any- thing that doesn’t. Being mindful of our call to be God’s image bearers is essential to the goal of Christian ethics. But we need more assistance and guidance than simply to be left asking ourselves, “What would Jesus do?”
+
+**The Source of Christian Ethics**
+
+The teachings of the Bible provide the foundations for Christian ethics. The late Adventist ethics scholar Miroslav Kiš provides us with three lenses that help us glean the ethical wisdom from the Scriptures (see Miroslav Kiš, “Biblical Narratives and Christian Decision,” Journal of the Adventist Theological Society 9, nos. 1, 2 [1998]: 24–31). These three lenses are: (1) principles, (2) rules of action, and (3) normative models. Because these lenses are relatively simple and there are only three of them, write them on a whiteboard, if available, and encourage your class to commit them to memory. Principles: These are grounded in our fundamental notions of moral truth. They are general and immutable yet still need illumination from the Scriptures. The Ten Commandments, the Psalms, Ecclesiastes, Proverbs, the Gospels (especially the Sermon on the Mount), and the Epistles are generally considered sources of moral principles that are sufficient to cover life’s situations. Not committing adultery and treating others the way you want to be treated are examples of these timeless principles (Exod. 20:14, Matt. 7:12).
+
+Rules of Action: These are specific rules that derive from broader prin- ciples and are tied to concrete situations. God’s command to Gideon to destroy the altar of Baal and erect an altar to the Lord (Judg. 6:25, 26), Jesus’ command to the rich young ruler to sell all his possessions (Matt. 19:21), and His command to Peter to put his sword away (Matt. 26:52) are not commands specifically to us today. But that does not mean they are irrelevant. When it comes to reflecting on issues of worship, idolatry, finances, priorities, and violence, these commands should be referenced in order to better ascertain God’s will in whatever particular situation we may be in.
+
+Normative Models: The stories of the Bible also serve as moral standards. Paul explains that “these things [historical accounts of Israel’s history] . . . were written down for our instruction” (1 Cor. 10:11, ESV). These stories are normative because they serve as warnings to us in order “that we might not desire evil as they did” (1 Cor. 10:6, ESV). Additionally, they are mod- els because they are intended for imitation. These models sometimes offer benefits that principles and rules of action don’t. They help us to identify with the characters who experience struggles and temptations when God’s moral principles are at stake. In narratives, the consequences of either fol- lowing or rebelling against moral standards are highlighted, and chains of cause and effect are on display. Kiš remarks (in “Biblical Narratives and Christian Decision”) on the benefits of reading Bible stories as normative models: “We can learn lessons without actually experiencing sin for our- selves. Normative models help us learn by proxy.”—Page 29.
+
+The Bible’s normative models also can be helpful when two biblical principles conflict in a given situation. A Bible story will often provide the solution to the conflict. In addition, the moral principle may be clear at times, but there are still multiple specific courses of action (rules of action) that seem to apply. Which one do we take? Often, normative models, as Kiš notes, can “serve to tip the scales.”—Page 30.
+
+Some students in your class may see this brief primer on Christian ethics as too focused on behavior, at best, and too legalistic, at worst. What about the Holy Spirit’s work in the life? What about being saved by grace? These and other dimensions of salvation are all assumed to be in place as one is faced with ethical challenges. It may be good to end the discussion with the reminder that choices script our futures. No wonder, then, that a God of love would command and reinforce principles of moral conduct (ethics) (Heb. 12:5–8, Rev. 3:19) that would ensure we enjoy life “more abundantly” now and “will have eternal life in the world to come” (John 10:10, Luke 18:30, NLT). We would not expect anything less of an earthly father. Why expect less from our heavenly Father?
+
+#### Part III: Life Application
+
+The previous section on ethics was heavy on theory. As important as theory is, now is the opportunity to take that ethical framework discussed and briefly apply it to the far-reaching choices the lesson highlights. Here are some scenarios we may face for choosing a spouse.
+
+Scenario 1: A friend of yours has just come out of a second failed marriage. There is now someone in church who has captured his or her attention. This friend has come to you for counsel. What are some principles, rules of action, or normative models from Scripture you could share?
+
+Possible Approach: The lesson authors take a fascinating principled approach to preparing for marriage by invoking the golden rule in order to become the kind of spouse one would want. This approach means that if one is seeking to be married, he or she should first cultivate the qualities within that he or she is searching for in another.
+
+The story of Isaac and Rebekah also could serve as a normative model in that: (1) Isaac trusts others in the choice of a spouse (Gen. 24:1–4); (2) a woman from his idolatrous homeland is not considered an option (Gen. 24:6); (3) Isaac was meditating (perhaps in prayer) the evening Rebekah arrived (Gen. 24:63); and (4) all parties seemed pleased with the arrangement.
+
+Scenario 2: You have a friend who lives in an area where polygamy is legal. He is considering taking a second wife. Furthermore, he feels the Bible does not explicitly forbid polygamy. Besides, many patriarchs in the Bible had multiple wives. How could you use the ethical framework discussed to steer him differently?
+
+Possible Approach: A rule of action could be referenced in Leviticus 18:18, which states, “Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.”
+
+Interestingly, this text could be used to support polygamy if it indeed means that it is excluding only the case of marrying blood-related sisters. However, there is strong support that a “wife to her sister” is an idiomatic expression, referring to a female citizen, and therefore excludes the possibility of additional wives. Richard M. Davidson offers eight considerations in behalf of this interpretation (see Flame of Yahweh: Sexuality in the Old Testament [Peabody, Mass.: Hendrickson Publishers, Inc., 2007], p. 194).
+
+But what if we throw up our hands and can’t decide what Leviticus 18:18 is saying? The Edenic ideal of the exclusive relationship of Adam and Eve can provide a working principle. We also have normative mod- els to consider: the stories of familial failure revolving around multiple wives experienced by Abraham, Jacob, David, and Solomon. Put these narratives together, and a negative appraisal of polygamy begins to theo- logically emerge from the Scriptures.
