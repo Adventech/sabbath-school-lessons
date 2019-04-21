@@ -67,27 +67,25 @@ II: Wir studieren die Bibel
     -   Wie kann man heute für "Zucht und Ordnung" sorgen - oder muss
         man das nicht mehr?
 
-**Text**
+**Sprüche 21,9.19; 27,15.16**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was meint Salomo mit den Begriff "zänkisch"?
+    -   Warum ist diese Eigenschaft lt. Salomo den Frauen vorbehalten?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie kann man vermeiden, dass man "zänkisch" wird bzw. jemanden
+        "zänkisch" macht?
 
-**Text**
+**Sprüche 31,10-31**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was macht für Salomo eine tüchtige Frau aus?
+    -   Welche Eigenschaften empfindest du als wichtig?
+    -   "Lieblich und schön sein ist nichts" - wirklich?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Falls ihr eine(n) Partner(in) habt: Welche Eigenschaften haben
+        bei der Wahl eine Rolle gespielt? Gab es da eine
+        Prioritätenliste?
 
 III: Dienst und Mission
 -----------------------
