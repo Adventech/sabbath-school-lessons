@@ -1,6 +1,56 @@
 ---
-title:  Teacher Comments
-date:   14/06/2019
+title:  El Sábado enseñaré
+date:  14/06/2019
 ---
 
-### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>
+### El sábado enseñaré...
+
+#### RESEÑA
+
+La cultura puede ser amiga o enemiga en la medida en que la fe cristiana transija con ella. Las familias que deseen mantenerse fieles al camino radical del discipulado cristiano a menudo se enfrentarán con la presión cultural de afectar el cumplimiento de las normas de santidad. Sin embargo, el rechazo innecesario de las normas culturales actuales en nombre de la religión no es una señal de santificación, sino de un celo equivocado que puede acarrearle reproches a nuestro testimonio cristiano. El discernimiento cuidadoso entre las normas culturales que son compatibles con el cristianismo y las que no lo son puede ser una fuente de intenso desacuerdo entre los creyentes (por ejemplo, la consolidación del Concilio de Jerusalén en Hechos 15). Se necesita un oído atento, una actitud humilde y una sensibilidad a la dirección del Espíritu para permanecer bíblicamente fieles y culturalmente sensibles.
+
+Cuando las familias cristianas navegan en el nivel de adaptación cultural que consideran apropiado, pueden tener la seguridad de que no hay lugar dentro del cristianismo auténtico para rebajar a ningún ser humano, ya que todos fueron hechos a su imagen (Gén. 1:26, 27; 9:6). Si una cultura menosprecia a cualquier grupo en función de estos criterios (género, origen étnico, clase social, discapacidad mental o física, edad u otros), entonces hay una estupenda oportunidad justificada para cortar de plano con esa cultura y dar a conocer con hechos a un Dios que no muestra “favoritismos” (Rom. 2:11; Hech. 10:34; Gál. 2:6, NVI).
+
+Las familias de la Biblia nos presentan un sinfín de errores para que aprendamos y los evitemos. Estas familias se inspiraron, al menos parcialmente, en las culturas en las que vivían. Desde el error garrafal de Abram/Agar (Gén. 16) hasta la presencia de ídolos en la casa de Jacob (Gén. 35), la cultura siempre ha ejercido presión sobre el pueblo de Dios. Al enseñar la lección de la Escuela Sabática de esta semana, transmite el mensaje de que los que no son conscientes de las influencias culturales en su vida pueden estar conformándose a ellas sin pensarlo.
+
+#### COMENTARIO
+
+##### La cultura está en todas partes
+
+El problema con la cultura es que es una fuerza motriz en nuestra vida que escapa a la reflexión rigurosa. En Occidente, cuando un amigo propone: “¿Quieres tomar una taza de café antes del trabajo?”, pocos se sorprenderán ante la pregunta, porque en Occidente el café es una bebida cultural. En cambio, intenta preguntarle a un compañero de trabajo: “Oye, ¿te gustaría comer algunos kiwis y puré de manzana después del trabajo?”, y observa cómo se sonríe con suspicacia y pregunta: “¿Hablas en serio?” ¿Por qué se sorprende? Los kiwis y el puré de manzana son igual de arbitrarios que el café. Pero, a pesar de ser una opción mucho más sana, los kiwis y el puré de manzana no se han granjeado un lugar entre los alimentos típicos de la cultura occidental en general; por eso, nos mirarán como un bicho raro por sugerirlos.
+
+Lo anterior es un ejemplo relativamente benigno. En la próxima reunión de la junta de iglesia saca a colación si las iglesias deberían usar himnos más antiguos o cantos de alabanza más contemporáneos, y prepárate para un choque cultural. El tema se complica aún más cuando la música de otras culturas emigra a lugares muy diferentes, creando tensiones interculturales. Toda esta mezcla y combinación demuestra que la cultura ejerce una influencia generalizada. A veces hay gente que cree que es teológicamente astuta al criticar o afirmar una práctica de la iglesia cuando en realidad la que se impone es la cultura o la subcultura dominante de la que forma parte. Es útil tener en cuenta esta dinámica en todo el espectro de opiniones en la iglesia. Los conservadores tienen que tener cuidado de no “santificar” las características no esenciales de su creencia y práctica en un esfuerzo por protegerse de la cultura dominante. Los liberales deben ser reacios a “prescindir de lo sagrado” en un intento de adaptarse al máximo a la cultura dominante.
+
+##### La cultura: ejemplos
+
+Debido a que la Iglesia Adventista del Séptimo Día se extiende por todo el mundo, las influencias culturales en la iglesia serán diversas y variadas. Las familias de la iglesia mundial tendrán que hacer un balance de su entorno cultural y plantearse cómo resistir su cultura o aprovecharla mejor, para promover el Reino de Dios. La lección cita algunos ejemplos de cómo la cultura influyó en las familias de la Biblia. Aunque todos los ejemplos son negativos, es esclarecedor considerar cómo Dios cumplió con su voluntad, a pesar de los obstáculos culturales.
+
+##### Abram, Sarai y Agar
+
+Es muy conocida la historia de cómo Abram y Sarai, desesperados por tener un heredero natural, usaron a Agar la criada como una solución para la infertilidad de Sarai (Gén. 16:2). Aunque la réplica exacta de su “solución” en el mundo de hoy sería rechazada en la mayoría de los casos, la subrogación es una opción popular para los que desean ser padres. La práctica cultural de la maternidad subrogada se ha mantenido, aunque el método ha cambiado a través de la intervención médica. No obstante, la continuidad cultural nos ayuda a identificarnos mejor con la historia y la situación de Sarai.
+
+La promesa de Dios a Abram era que él tendría un heredero natural (en contraposición a Eliezer [Gén. 15:4]). El hecho de que una esposa le ofreciera a otra mujer tener hijos en nombre de ella era culturalmente aceptado en el antiguo Cercano Oriente y, por lo tanto, era una de las opciones. Esta combinación llevó a Abram y a Sarai a intentar un atajo cultural para cumplir la promesa de Dios. Sin embargo, esta práctica, aunque culturalmente aceptada, interfirió con el plan de Dios, y ocasionó dificultades y sufrimientos innecesarios para todos los involucrados. Dios, con el tiempo, cumplió su voluntad (a pesar del error de Abram y Sarai) con el nacimiento de Isaac y, además, se hizo cargo de los expulsados Agar e Ismael. Del relato se deduce que ni Sarai ni Abram buscaron el consejo de Dios con respecto a su plan para cumplir su promesa; y durante varios años (tal vez toda la vida) pagaron por ello.
+
+Se puede extraer un principio de esta historia: al tratar de cooperar con los planes de Dios, la utilización de prácticas solo porque son culturalmente permisibles puede hacer más daño que bien. El meditar en oración y una dosis de realismo podrían haber evitado el fiasco completamente (los matrimonios polígamos y pacíficos en las Escrituras son poco frecuentes. Esta observación es reveladora si creemos que las Escrituras reflejan con precisión la historia y la cultura a través de las edades).
+
+Siglos más tarde, la insistencia obstinada de Israel en tener un rey que los gobernara serviría como ejemplo de adaptación cultural con consecuencias desastrosas para el destino de toda la nación. Y el pueblo dijo: “Constitúyenos ahora un rey que nos juzgue, como tienen todas las naciones” (1 Sam. 8:5). Dios sabía que esta decisión era un rechazo abierto a él como su Rey (1 Sam. 8:7), solo porque querían ser como todas las demás naciones. Este deseo de un rey es una adaptación cultural de la peor clase. Cualquiera que haya leído la historia de Israel y los reyes de Judá sabe que, en general, su deseo de tener un rey resultó ser un desastre. Pero hay dos puntos importantes que vale la pena señalar: (1) Dios les permitió hacer este ajuste cultural, e incluso les eligió su primer rey; (2) Dios trabajó dentro del contexto de la decisión pecaminosa de Israel, incluso hasta el punto de arraigar las profecías mesiánicas en la monarquía. ¡Qué Dios tenemos! Establecer un rey humano sobre Israel no era la perfecta voluntad de Dios. La historia del pueblo de Dios posiblemente habría sido muy diferente si hubiesen decidido seguir siendo la única nación en el planeta sin un líder humano visible. Pero Dios puede poner en marcha el plan B, C o Q, más allá de nuestras decisiones. Él no abandona fácilmente a su pueblo.
+
+Cuando la iglesia o sus familias hacen adaptaciones culturales pecaminosas, incluso con consecuencias duraderas, parece que Dios es lo suficientemente grande como para sortear nuestras decisiones equivocadas. Tampoco nos tiene bajo un estado continuo de rechazo o ira. Las consecuencias naturales de nuestras decisiones equivocadas a veces pueden ser castigos suficientes, como con la monarquía de Israel (1 Sam. 8:9-19; es decir, el rey tomará su tierra, su ganado, sus cosechas y sus hijos). Sería perjudicial utilizar este ángulo de la misericordia de Dios como libertad simplemente para seguir la corriente del flujo cultural. La bondad y la paciencia de Dios en estas cosas tienen la intención de “_guia[r]_ al arrepentimiento”, no de que sigamos pecando (Rom. 2:4, 5). El pueblo de Dios a menudo tropieza consigo mismo al explorar de qué forma vivir su fe en sus respectivas culturas. Sin embargo, Dios sabe exactamente cómo confluir su Reino perfectamente en cada contexto cultural. Si cooperamos con él, no solo nos guiará mediante su Palabra y el Espíritu, sino también puede compensar nuestros errores.
+
+##### La cultura: una amenaza
+
+Es difícil decidir cuál de todas las tendencias culturales antagónicas al evangelio mencionar, debido a la variada audiencia cultural de estas lecciones. Sin embargo, la secularización occidental es un fenómeno que extiende su influencia más allá de sus fronteras. La siguiente cita de J. Gresham Machen se mencionó en el discurso de apertura del 101er Congreso del Seminario Teológico de Princeton. Aborda una secularización cultural que degrada el mensaje cristiano a un cuento de hadas. Sin embargo, es lo suficientemente amplio en su alcance como para aplicarlo a cualquier contexto cultural tóxico para el cristianismo. Fue pronunciado en 1912:
+
+“Las ideas falsas son el mayor obstáculo para la recepción del evangelio. Podemos predicar con todo el fervor de un reformador y aun así conseguir ganar apenas uno que otro rezagado, si permitimos que el pensamiento colectivo de la nación o del mundo sea controlado por ideas que, por la fuerza irresistible de la lógica, logren que al cristianismo apenas se lo considere algo más que un engaño inofensivo. Bajo esas circunstancias, lo que Dios desea que hagamos es que cortemos el obstáculo de raíz” (“Christianity and Culture”, p. 7).
+
+##### Aplicación a la vida
+
+A continuación hay algunos ejercicios y experimentos mentales que pueden hacer reflexionar a la clase de la Escuela Sabática sobre la cultura, el cristianismo y las familias.
+
+1. El “relativismo cultural” es un modelo útil para aprender a entender las diferentes culturas desde su propia perspectiva. Sin embargo, se vuelve problemático si todas las prácticas culturales se consideran inmunes a los juicios morales. ¿Cómo se podría responder al hecho de que un juicio moral sobre una práctica cultural tenga alguna validez objetiva?
+
+2. ¿Cuáles son las tendencias culturales actuales en tu comunidad que actúan en contra del evangelio? ¿Hay alguna que actúe en favor del evangelio? Si es así, ¿cuál es?
+
+3. Piensa en las parábolas de Jesús que describen el “reino de Dios” y úsalas como un punto de referencia para la cultura ideal. ¿Cómo reformularías tu propia cultura para que se parezca más a la celestial?
+
+4. Pregúntale a la clase si hay prácticas entre los miembros de iglesia que les preocupan o que desafíen su fe. Escribe estas prácticas en una pizarra. Ahora pregunta si hay claros preceptos bíblicos contra algo de la lista. Si no los hay, sugiere la idea de que estas prácticas quizá sean culturales en vez de antibíblicas.
