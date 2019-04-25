@@ -79,7 +79,8 @@ II: Wir studieren die Bibel
 **Sprüche 31,10-31**
 
 -   Fragen zum Text:
-    -   Was macht für Salomo eine tüchtige Frau aus?
+    -   Wer ist der Autor dieses Textes?
+    -   Was macht für den Schreiber eine tüchtige Frau aus?
     -   Welche Eigenschaften empfindest du als wichtig?
     -   "Lieblich und schön sein ist nichts" - wirklich?
 -   Fragen zur Botschaft:
