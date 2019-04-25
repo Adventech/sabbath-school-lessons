@@ -46,27 +46,56 @@ bis sie selber daran glauben."* (Stephan Rogan)
 
 **SONNTAG**
 
-**Text**
+**ZITAT:** *"Mancher Streit gleicht der Rauferei zweier Kahlköpfe um
+einen Kamm."*
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+**ZITAT:** *"Am leidenschaftlichsten streiten wir, wenn Streit sich gar
+nicht lohnt."* (Paul Mommertz)
 
-**Text**
+**ZITAT:** *"So häufig haben beide Seiten im Streit ein bisschen Recht
+aber keinen Verstand."* (Raymond Walden)
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+-   Grundsätzlich: Wie entsteht Streit?
+    -   Wann wir aus einer bloßen Meinungsverschiedenheit ein handfester
+        Streit?
+-   Was ist der Unterschied zwischen einer Diskussion und einem Streit?
+
+**Text: Matthäus 7,5**
+
+<u>Fragen zum Text:</u>
+
+-   Welches Prinzip der Streitvermeidung / Streitführung wird hier
+    genannt?
+-   Jesus selbst hatte ja keinen Balken in seinem Auge, er war ja
+    sündlos. Wie hat er Streit vermieden?
+
+**Text: Sprüche 19,11**
+
+<u>Fragen zum Text:</u>
+
+-   Welche Art von Einsicht, die den Menschen geduldig macht, könnte
+    gemeint sein?
+-   "An Übertretung vorübergehen": Ist das nicht gleichbedeutend mit
+    deren Billigung? Wird das Böse dadurch nicht gefördert? Ja
+    schrankenlos?
+
+<u>Fragen zur Botschaft:</u>
+
+-   In Kärnten sagt man: *"Der G'scheite gibt nach, der Dumme fällt in
+    den Bach."* Inwiefern stimmt das?
+-   Oder ist nicht vielmehr in dieser Welt, der, der immer nachgibt, der
+    Blöde?
+
+**ZITAT:** *"Wir gewinnen im Nachgeben."* (Goethe)
+
+-   Was gewinnen wir dabei wirklich?
+
+**ZITAT:** *"Guter Streit verlangt Kultur: Streitkultur."* (Helmut
+Glaßl)
+
+-   Wie definiert ihr Streitkultur?
+
+**MONTAG**
 
 **Text**
 
