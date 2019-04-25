@@ -63,6 +63,7 @@ var LOCALE_VARS = {
     "pt": "Lição",
     "ro": "Lecție zilnică",
     "ru": "Урок",
+    "ka": "გაკვეთილი",
     "sl": "Lekcija",
     "sr": "Lekcija",
     "st": "Thuto",
@@ -74,7 +75,7 @@ var LOCALE_VARS = {
     "uk": "Урок",
     "ja": "日課",
     "zh": "每日课程",
-    "vi": "Bài"
+    "vi": "Bài",
   },
 
   "empty_placeholder": {
@@ -109,6 +110,7 @@ var LOCALE_VARS = {
     "pt": "### <center>Estamos a trabalhar sobre esta lição.</center>\n<center>Volte mais tarde, por favor.</center>",
     "ro": "### <center>Lucrăm la această lecție.</center>\n<center>Te rog intoarce-te mai tarziu.</center>",
     "ru": "### <center>Мы подготавливаем данный урок</center>\n<center>Попробуйте позже</center>",
+    "ka": "### <center>გაკვეთილი მზადების პროცესშია</center>\n<center>სცადეთ მოგვიანებით</center>",
     "sl": "### <center>Delamo na tej lekciji.</center>\n<center>Vrnite se kasneje.</center>",
     "sr": "### <center>Radimo na ovoj lekciji.</center>\n<center>Molim vas, vratite se kasnije</center>",
     "st": "### <center>Re sa sebetsa thutong ena</center>\n<center>Ka kopo kgutla ha moraho</center>",
@@ -153,6 +155,7 @@ var LOCALE_VARS = {
     "pt": "Moderador",
     "ro": "Teacher Comments",
     "ru": "Комментарий для Учителей",
+    "ka": "კომენტარები მასწავლებლებისთვის",
     "sl": "Pouka za učitelje",
     "sr": "Pouka za učitelje",
     "st": "Tlhaiso ha Mosuwe",
@@ -197,6 +200,7 @@ var LOCALE_VARS = {
     "pt": "Inside Story",
     "ro": "Inside Story",
     "ru": "Миссионерская история",
+    "ka": "მისიონერული ისტორია",
     "lr": "Inside Story",
     "sr": "Inside Story",
     "st": "Taba tsa ka hare",
