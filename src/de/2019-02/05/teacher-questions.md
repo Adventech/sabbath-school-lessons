@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   04/05/2019
 ---
 
-Titel der Lektion
-=================
+Lektion 5: Weise Worte für Familien
+===================================
 
 I: Gemeinschaft
 ---------------
