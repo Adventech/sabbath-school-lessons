@@ -1,6 +1,52 @@
 ---
-title:  Teacher Comments
-date:   03/05/2019
+title:  El Sábado enseñaré
+date:  03/05/2019
 ---
 
-### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>
+### El sábado enseñaré...
+
+#### RESEÑA
+
+La vida familiar es complicada. Necesitamos toda la ayuda que sea posible. El versículo para memorizar de esta semana implica que debemos tragarnos el orgullo y no apoyarnos en nuestra “propia prudencia” (Prov. 3:5). Seamos honestos y admitamos que necesitamos la ayuda externa del Señor para ser buenas madres, padres, hijos e hijas. Proverbios es un tesoro escondido para comprender la vida familiar. Por ende, la lección “sabiamente” busca orientación en sus páginas.
+
+La formación de una familia comienza con dos personas que eligen comprometerse mutuamente durante toda la vida. Les guste o no a los hijos, a menudo los padres se encuentran en buenas condiciones para aconsejarlos sobre quién sería un buen cónyuge, y quién no. Proverbios tiene mucho que decir acerca de con quién _no_ comprometerse, generalmente llamada la mujer extraña (Prov. 2:16-19; 5:3-14; 7:4-27). Pero no es difícil aplicar los mismos principios para ayudar a evitar al hombre equivocado también. Tal vez el hecho de que solo se hable de la “mujer extraña”, y no del “hombre extraño”, en parte se compense con el hecho de que Proverbios termina con un homenaje a la “mujer virtuosa” (Prov. 31:10-31).
+
+La manera de actuar de los padres tendrá consecuencias directas en el carácter de sus hijos. Cuán importante es, entonces, que su influencia sea prudente y medida (Prov. 15:1). Aunque descuidar la disciplina es desastroso para un hijo (Prov. 23:14), el contexto del Pacto es que los padres se rigen por su amor a Dios. Bajo esa influencia, los hijos deben aprender del Dios de sus padres (Deut. 6:4-9).
+
+#### COMENTARIO
+
+##### Introducción teológica
+
+Dios asume riesgos. Voluntariamente creó agentes morales libres con el potencial de que lo amen o lo rechacen. En cierto sentido, Dios perdió la apuesta. Su Universo se rebeló. Perdió a sus ángeles. Perdió a sus seres humanos. Lo peor de todo es que su propio Hijo fue asesinado por los mismos que él creó. Sin embargo, para Dios, todo valió la pena, con tal de tener una familia.
+
+¿Existe alguna institución que pueda poseer realidades tan opuestas como la de la familia? Por un lado, puede proporcionar la cumbre de la seguridad y el amor. Por otro lado, puede engendrar el más profundo dolor y resentimiento, enmascarar la violencia más impactante y desfigurar las almas de sus descendientes. Cuando formamos una familia, _participamos del riesgo divino de crear relaciones_. Elegimos a un cónyuge, que inicialmente es totalmente desconocido para nosotros, con un futuro desconocido, a fin de unir nuestras vidas para siempre. Tenemos niños que son “paquetes de alegría”. Pero, pronto nos damos cuenta de que también son conjuntos de potencialidades en las que esa alegría inicial se extiende o culmina en dolor y angustia. Y, sin embargo, como Dios, seguimos fusionando nuestra vida con otros para formar familias. ¿Por qué? Tal vez la letra de una canción de Bob Bennet contenga una verdad que vale la pena considerar: “El amor es el único riesgo que vale la pena asumir”.
+
+Cuando Dios, cuya esencia misma es el amor (1 Juan 4:8), nos formó a su imagen (Gén. 1:26), el deseo de amar y ser amado quedó indeleblemente grabado en nuestra naturaleza. Aunque el pecado haya causado tal caos en la Creación, aun así ha tenido dificultades para borrar el amor como la ética suprema dentro de la humanidad. ¿Cuántas personas en el planeta podrían decir honestamente que prefieren una vida carente de todo amor? No muchas. Como las familias son la fuente del amor relacional, son omnipresentes. Dios así lo quiso (Gén. 1:28; 2:24). El amor familiar puede llevarnos a escuchar los primeros susurros del amor de Dios por nosotros. Elena de White afirma que “él [Dios] ha procurado revelársenos mediante las cosas de la naturaleza y de los más profundos y tiernos lazos terrenales que el corazón humano pueda conocer” (_CC_ 10).
+
+Por lo tanto, no es de extrañar que la familia se haya convertido en un objetivo de Satanás, para destruirla. Es por esta razón que necesitamos las imágenes familiares multidimensionales de Dios como padre y esposo (Éxo. 4:22; Jer. 31:32), y de _Jesús como hijo, esposo y hermano_ (Juan 3:16; Mar. 2:19; Rom. 8:29). De hecho, cualquier idea sobre el carácter de Dios (que es amor) proporciona el punto de referencia para que cultivemos el amor dentro de nuestras propias familias. El libro de Proverbios es el valiente intento de un rey de entregar a sus hijos una herencia de sabiduría divina. Dios quiera que su legado dé como resultado que nuestras familias reflejen el sueño de Dios de una Creación reunida, una familia universal, sostenida por su amor.
+
+##### Texto bíblico
+
+Quizá la lección más importante del libro de Proverbios sea que haya un libro de Proverbios. El mensaje implícito a todas las generaciones es: “¡Padres, hablen con sus hijos!” Observa que cuando Moisés le habló a Israel sobre los mandamientos de Dios, él dijo que estas palabras deben estar en nuestro corazón. Sin sumergir la pluma por segunda vez, dice que estas palabras también deben estar en nuestros hijos (Deut. 6:4-7). “Incúlcaselas continuamente” es como traduce la NVI el término hebreo_ shaman_, que proviene de una raíz que significa “repetir” (por ejemplo: “las repetirás a tus hijos, y hablarás de ellas”) o de una raíz que significa “afilar” o “grabar”. La repetición y el grabado profundo de los mandamientos en cuanto a la enseñanza de los hijos pueden encajar en el contexto.
+
+Entonces, ¿cómo se debe compartir con los niños de una manera significativa (1) los sabios dichos del rey Salomón, (2) las historias emocionantes de Israel, y (3) los mandamientos y los principios de la ley de Dios? Volviendo al modelo pedagógico de Deuteronomio de grabar repetitivamente, el resto del pasaje probablemente nos esté diciendo cómo hacer eso exactamente. “Hablarás de ellas estando en tu casa, y andando por el camino, y al acostarte, y cuando te levantes. Y las atarás como una señal en tu mano, y estarán como frontales entre tus ojos” (Deut. 6:7, 8). Sentarse, caminar, acostarse y levantarse se supone que, en un sentido figurado, abarca todas las diferentes posiciones y contextos en los que podemos estar durante el día. Estas actividades también comprenden todo el día. Por ende, en las diversas experiencias de todo el día, mamá y papá simplemente están hablando (_dabar_), conversando, meditando en voz alta, o incluso cantando sobre las palabras de Dios. Y los hijos escuchan y son transformados.
+
+Pero los padres no solo hablan de Dios y sus palabras en beneficio de los hijos. Recuerda que la orden es que todas las palabras _primeramente_ estén “sobre tu corazón”; es decir, en el corazón de los padres. La idea de que estas palabras deban permanecer en la mente “como frontales entre [s]us ojos” refuerza el imperativo del corazón. Es en lo que los padres ya están pensando.
+
+Sin embargo, tenerlas en mente no es suficiente. Si los padres quieren que su religión y el respeto por el Dios de esa religión se transmitan a sus hijos, entonces las leyes de Dios deben estar atadas “como una señal en [s]u mano”. El accionar de los padres debe mostrar qué aspecto tienen las leyes de Dios expresadas a través de la vida humana. De lo contrario, toda conversación acerca de Dios será contraproducente. Como consecuencia, los hijos se cruzarán de brazos y acertadamente sentirán repulsión por el espectáculo de hipocresía parental que tienen ante su vista.
+
+##### Texto bíblico
+
+Cuando el Señor manda que se observe la Pascua en la nueva nación, adopta una perspectiva a largo plazo y desea que los padres estén preparados cuando los hijos pregunten acerca de la ceremonia (Éxo. 12:26). Tal vez ese sea el propósito de la ceremonia en primer lugar: generar tanta curiosidad por parte de nuestros hijos que ellos comiencen a hacer lo que todos los padres temerosos de Dios esperan que hagan: indagar acerca de Dios y sus caminos.
+
+Además, la pregunta que hacen los hijos quizá no sea simplemente: “¿Qué significa esta ceremonia?” sino “¿Qué significa para ustedes esta ceremonia?” (Éxo. 12:26, NVI). Si es así, entonces los padres no salen del apuro simplemente dando una respuesta teórica o citando otro texto de la Biblia. Los hijos no pueden ver ni oír a Dios de primera mano, pero ven y escuchan a sus padres. Para que mamá o papá compartan empíricamente lo que Dios y sus leyes significan para ellos, pueden sumarle solemnidad a las respuestas y quizá crear un momento familiar memorable. Tal vez este modelo sea el ideal para traspasar el corpus de conocimiento bíblico a la próxima generación. Lo ideal sería que la pregunta: “¿Qué significa?” vaya seguida de una respuesta a la pregunta: “¿Qué ha significado esta ceremonia para mí en mi vida?”
+
+##### Aplicación a la vida
+
+La Iglesia Adventista del Séptimo Día es una comunidad con gran riqueza de información. Valoramos el conocimiento bíblico general, las profecías y los innumerables consejos de Elena de White. La iglesia, al estilo de Salomón con sus hijos, presenta la lección de esta semana para dar ideas sobre cómo tener la mejor familia posible. Para no abrumar con más consejos, las secciones bíblicas en la edición para maestros se refieren a _qué pistas_ da la misma Biblia para comunicar la sabiduría divina como un patrimonio. Utiliza pasajes que se relacionan principalmente con los hijos, pero los principios son provechosos para todos los miembros de la familia. Además, hay textos que plantean cuestiones similares pero no dicen nada de los hijos ni de la familia (por ejemplo: “Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás prosperar tu camino, y todo te saldrá bien” [Jos. 1:8]). Enfatiza este hecho para solteros y matrimonios sin hijos, para que no sientan que estas lecciones no se aplican a ellos.
+
+Estas son algunas ideas de cómo integrar Proverbios en la vida familiar:
+
+1. Observa que hay 31 capítulos en el libro de Proverbios: uno para cada día del mes. Pídeles a tus alumnos que lean un capítulo al día en su culto matutino e invítalos a compartir su proverbio favorito.
+
+2. Anima a los miembros de tu clase a convocar una asamblea familiar en la que cada miembro de la familia comparta algún conflicto o inquietud sobre los asuntos de su vida. Dado que Proverbios toca una variedad tan amplia de temas, aconseja a tus alumnos que vean si hay uno o dos proverbios que están relacionados con alguna de las luchas compartidas en la asamblea familiar. Sugiere que toda la familia pueda memorizar un proverbio pertinente.
