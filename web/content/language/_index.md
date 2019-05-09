@@ -127,4 +127,7 @@ languages:
   - native: Монгол хэл
     en: Mongolian
     code: mn
+  - native: ქართული ენა
+    en: Georgian
+    code: ka
 ---
