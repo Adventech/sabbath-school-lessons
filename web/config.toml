@@ -390,3 +390,12 @@ title = "Sabbath School"
 	current = "მიმდინარე კვარტალში"
 	archive = "გაკვეთილი არქივი"
 	lang = "🇬🇪 ქართული ენა"
+
+[params.sk]
+	title = "Štúdium Biblie"
+	back = "Vráť sa"
+	all = "Všetky hodiny"
+	todaysLesson = "Dnešná lekcia"
+	current = "Aktuálna lekcia"
+	archive = "Archív lekcie"
+	lang = "🇸🇰 Slovenčina"

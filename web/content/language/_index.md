@@ -130,4 +130,7 @@ languages:
   - native: ქართული ენა
     en: Georgian
     code: ka
+  - native: Slovenčina
+    en: Slovak
+    code: sk
 ---
