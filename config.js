@@ -163,6 +163,10 @@ var BIBLE_PARSER_CONFIG = {
     "sf1998"
   ],
 
+  "sk": [
+    "seb"
+  ],
+
   "sw": [
     "suv"
   ],
