@@ -61,6 +61,10 @@ var BIBLE_PARSER_CONFIG = {
     "nr2006"
   ],
 
+  "ka": [
+    "geo"
+  ],
+
   "lt": [
     "lit"
   ],
@@ -102,6 +106,11 @@ var BIBLE_PARSER_CONFIG = {
 
   "lo": [
     "lb"
+  ],
+
+  "mn": [
+    "ab2013",
+    "ab2004"
   ],
 
   "mk": [
@@ -152,6 +161,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "sv": [
     "sf1998"
+  ],
+
+  "sk": [
+    "seb"
   ],
 
   "sw": [

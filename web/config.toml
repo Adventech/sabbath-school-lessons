@@ -372,3 +372,30 @@ title = "Sabbath School"
 	current = "Trenutno"
 	archive = "Arhiv"
 	lang = "🇸🇮 Slovenščina"
+
+[params.mn]
+	title = "Шаббат Сургууль"
+	back = "Буцах"
+	all = "Бүгдийг харах"
+	todaysLesson = "Өнөөдрийн хичээл"
+	current = "Одоогийн хичээл"
+	archive = "Хичээл архив"
+	lang = "🇲🇳 Монгол хэл"
+
+[params.ka]
+	title = "დამხმარე სახელმძღვანელო ბიბლიის შესასწავლად"
+	back = "Დაბრუნდი"
+	all = "ყველა გაკვეთილი"
+	todaysLesson = "დღეს გაკვეთილი"
+	current = "მიმდინარე კვარტალში"
+	archive = "გაკვეთილი არქივი"
+	lang = "🇬🇪 ქართული ენა"
+
+[params.sk]
+	title = "Štúdium Biblie"
+	back = "Vráť sa"
+	all = "Všetky hodiny"
+	todaysLesson = "Dnešná lekcia"
+	current = "Aktuálna lekcia"
+	archive = "Archív lekcie"
+	lang = "🇸🇰 Slovenčina"

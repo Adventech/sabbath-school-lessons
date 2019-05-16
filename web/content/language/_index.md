@@ -124,4 +124,13 @@ languages:
   - native: Slovenščina
     en: Slovenian
     code: sl
+  - native: Монгол хэл
+    en: Mongolian
+    code: mn
+  - native: ქართული ენა
+    en: Georgian
+    code: ka
+  - native: Slovenčina
+    en: Slovak
+    code: sk
 ---

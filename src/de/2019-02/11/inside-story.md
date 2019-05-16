@@ -3,10 +3,13 @@ title:  Mit Gott erlebt
 date:   14/06/2019
 ---
 
+<<<<<<< HEAD
 ### Tatkräftig für Gott
 
 _Andrew McChesney_
 
+=======
+>>>>>>> ce2b5e2f07ed22bd0c8fdcc6be3cbf2e46297216
 Ein älterer Herr kam in den Laden der Familie von Delsie Knicely in einer ländlichen Gegend in West Virginia und sagte: "Ich würde mich freuen, dich am kommenden Sabbat in der Gemeinde begrüßen zu dürfen." Delsie wollte nicht in die Gemeinde gehen. Sie war zwar in der Adventgemeinde aufgewachsen und in adventistische Schulen gegangen. Aber als Erwachsene hatte sie die Gemeinde verlassen, geheiratet und einen Laden für Farmprodukte, Lebensmittel und Kettensägen eröffnet. Aber sie wollte Kester Erskin, den sie seit ihrer Kindheit kannte, nicht vor den Kopf stoßen. Kester war jeden Sabbat mit dem Auto zur Farm ihrer Eltern gekommen und hatte sie und ihre elf Geschwister in seinen Wagen (inklusive Kofferraum) geladen und in die Gemeinde gefahren. Nun stand Kester im Laden und wartete auf eine Antwort.
 
 Delsie sagte: "Ich habe nichts Passendes anzuziehen." Kester wiederholte in der nächsten Woche seine Einladung und Delsie speiste ihn mit einer anderen Ausrede ab. Sie sagte: "Okay, wenn ich nicht krank bin, komme ich."
