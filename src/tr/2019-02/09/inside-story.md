@@ -25,7 +25,7 @@ Bir hafta sonra, Jo-Anna Weimar’ın bir öğrenci kayıt memuruyla konuştu ve
 
 Ardından hızla beklenmedik bir olaylar dizisi gerçekleşti.
 
-Jo-Anna burs başvurusunda bulundu ve almaya hak kazandı. Yerel sel mağdurlarına yardım ederken, okumasına ayda $500’lık yardımda bulunan bir kaç Adventist doktorla iletişime geçti. Aile dostlarına mali yardım mektupları yazarak 1,800$ topladı. Kısa sürede okula kaydolacak parayı toplamıştı, ve sonbaharda derslerine başladı.
+Jo-Anna burs başvurusunda bulundu ve almaya hak kazandı. Yerel sel mağdurlarına yardım ederken, okumasına ayda USD 500’lık yardımda bulunan bir kaç Adventist doktorla iletişime geçti. Aile dostlarına mali yardım mektupları yazarak 1,800 USD topladı. Kısa sürede okula kaydolacak parayı toplamıştı, ve sonbaharda derslerine başladı.
 
 “Tanrı’nın olmamı istediği yerde olduğuma hiç şüphem yoktu” dedi.
 

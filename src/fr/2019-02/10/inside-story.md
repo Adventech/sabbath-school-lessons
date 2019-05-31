@@ -7,7 +7,7 @@ date:   07/06/2019
 
 <sub>par Andrew McChesney</sub>
 
-Choomba Simillah était renvoyé de l’Université de Zambie. Il devait 9000 kwacha zambiens (l’équivalent de $ 900), et il n’avait aucune idée d’où se procurer de l’argent. Mais Choomba ne renonça pas. Il étudiait en Licence à l’université publique tout en enseignant à l’école secondaire Rusangu, une Académie d’internat de l’Église Adventiste du Septième Jour en Zambie. Choomba s’approcha de diverses personnes pour demander à emprunter de l’argent. Il cherchait un moyen pour vendre sa voiture, une Toyota Voltz marron. Il pria à Dieu d’intervenir. Puis il se rendit à une banque de Monze, la ville la plus proche de l’école secondaire Rusangu, pour demander un prêt. Il apprit, toutefois, que la banque avait cessé de faire des prêts.
+Choomba Simillah était renvoyé de l’Université de Zambie. Il devait 9000 kwacha zambiens (l’équivalent de USD 900), et il n’avait aucune idée d’où se procurer de l’argent. Mais Choomba ne renonça pas. Il étudiait en Licence à l’université publique tout en enseignant à l’école secondaire Rusangu, une Académie d’internat de l’Église Adventiste du Septième Jour en Zambie. Choomba s’approcha de diverses personnes pour demander à emprunter de l’argent. Il cherchait un moyen pour vendre sa voiture, une Toyota Voltz marron. Il pria à Dieu d’intervenir. Puis il se rendit à une banque de Monze, la ville la plus proche de l’école secondaire Rusangu, pour demander un prêt. Il apprit, toutefois, que la banque avait cessé de faire des prêts.
 
 Quand il quittait tristement la banque, un ami cria dans la rue, « Puis-je louer votre voiture pendant 21 jours? » Choomba leva les yeux.
 
