@@ -9,7 +9,7 @@ _By Andrew McChesney, Adventist Mission_
 
 Choomba Simillah was being expelled from the University of Zambia.
 
-He owed 9,000 Zambian kwacha (about US$900), and he had no idea where to obtain the money.
+He owed 9,000 Zambian kwacha (about USD 900), and he had no idea where to obtain the money.
 
 But Simillah wasn’t going to give up. He was studying for a bachelor’s degree at the public university while teaching at Rusangu Secondary School, a Seventh-day Adventist boarding academy in Zambia. 
 

@@ -27,7 +27,7 @@ A week later, Jo-Anna spoke with a Weimar recruiter and began to think that mayb
 
 Then a series of unexpected events rapidly unfolded.
 
-Jo-Anna applied for and received a scholarship. While assisting people affected by local flooding, she connected with several Adventist physicians who pledged $500 a month toward her tuition. She raised $1,800 by writing financial assistance letters to family friends. Soon she had enough money to enroll, and she started classes in the fall.
+Jo-Anna applied for and received a scholarship. While assisting people affected by local flooding, she connected with several Adventist physicians who pledged USD 500 a month toward her tuition. She raised USD 1,800 by writing financial assistance letters to family friends. Soon she had enough money to enroll, and she started classes in the fall.
 
 “I didn’t have any doubt that I was where God wanted me to be,” she said.
 

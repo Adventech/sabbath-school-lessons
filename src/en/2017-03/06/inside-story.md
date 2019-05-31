@@ -5,7 +5,7 @@ date:   04/08/2017
 
 #### No More Devil Stones: Part 1
 
-Yerakayya and Chinnammi live in a small village in eastern India. Like most of the people in their village, they work as field laborers planting rice. For this backbreaking work the couple earns about 45 rupees (less than US$1) a day. That’s enough to buy food, but little more.
+Yerakayya and Chinnammi live in a small village in eastern India. Like most of the people in their village, they work as field laborers planting rice. For this backbreaking work the couple earns about 45 rupees (less than USD 1) a day. That’s enough to buy food, but little more.
 
 Yerakayya is a leader in his village, and life wasn’t easy. One night demons began throwing large stones onto their tile roof. The stones awoke them and broke some tiles on their roof. Night after night the stones disturbed their sleep. The demons sat in a tree near the couple’s home, but Yerakayya didn’t dare cut the tree down, or the demons might try something worse.
 
