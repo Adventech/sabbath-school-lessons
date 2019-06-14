@@ -9,7 +9,7 @@ date:   25/05/2018
 
 En kveld sluttet elektronikken å funke på bensinstasjonen der John Peña arbeidet i Vest-Virginia, så de bare kunne ta betalt i kontanter. En stor Cadillac stoppet og fylte tanken. Sjåføren var en sort, velkledd mann.
 
-”Det blir $40, sir, og du må betale med kontanter,” sa John. ”Men jeg har bare kort,” sa han med fremmed aksent.
+”Det blir USD 40, sir, og du må betale med kontanter,” sa John. ”Men jeg har bare kort,” sa han med fremmed aksent.
 
 De snakket frem og tilbake uten å finne en løsning. Så sa John: ”Jeg betaler for deg. Legg igjen førerkortet, så får du det når du betaler.” Mannen takket og lovte å komme tilbake neste dag. Da mannen gikk, himlet Johns kollega med øynene og så: ”Det der er tapte penger.” Men neste dag kom mannen med pengene.
 
