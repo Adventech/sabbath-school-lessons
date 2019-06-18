@@ -116,7 +116,7 @@ var LOCALE_VARS = {
     "sl": "### <center>Delamo na tej lekciji.</center>\n<center>Vrnite se kasneje.</center>",
     "sr": "### <center>Radimo na ovoj lekciji.</center>\n<center>Molim vas, vratite se kasnije</center>",
     "st": "### <center>Re sa sebetsa thutong ena</center>\n<center>Ka kopo kgutla ha moraho</center>",
-    "sw": "### <center>Tunafanya kazi kwenye somo hili.</center>\n<center>Tafadhali kurudi baadaye.</center>",
+    "sw": "### <center>Tunafanya kazi kwenye somo hili.</center>\n<center>Tafadhali rudi baadaye.</center>",
     "ta": "### <center>நாங்கள் இந்த பாடம் படித்து வருகிறோம்.</center>\n<center>தயவு செய்து மீண்டும் வாருங்கள்.</center>",
     "th": "### <center>เรากำลังดำเนินการในบทเรียนนี้</center>\n<center>โปรดกลับมาใหม่.</center>",
     "tl": "### <center>Nagsusumikap kami sa araling ito.</center>\n<center>Subukang muli mamaya.</center>",
