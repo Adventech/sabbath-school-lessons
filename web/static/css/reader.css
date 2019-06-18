@@ -228,7 +228,7 @@
     left: 40px;
 }
 
-.ss-wrapper h3, .ss-wrapper h2 {
+.ss-wrapper h3:not(.ka_geo), .ss-wrapper h2:not(.ka_geo) {
     font-variant: small-caps;
     margin-bottom: 20px !important;
 }
