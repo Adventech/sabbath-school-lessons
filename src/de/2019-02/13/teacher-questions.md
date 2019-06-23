@@ -51,7 +51,7 @@ II: Wir studieren die Bibel
                                                                        
              **
 
-**So:  Prophezeiung der bekehrten Herzen   / Mal. 3,23-24,  Lk 1,17, Mi.
+**Prophezeiung der bekehrten Herzen   / Mal. 3,23-24,  Lk 1,17, Mi.
 7,18.19**
 
 ·        Fragen zum Text 
@@ -73,8 +73,8 @@ Fragen zur Botschaft:
 o   Warum muss eine wiederhergestellte Beziehung mit Gott der
 wiederhergestellten Beziehung in unseren Familien vorausgehen?
 
-**Mo: Familien-Wiedervereinigung   / Lk 4,25-26   1.Kö 16,29-17.24  /
-Micha 6,7-8**
+**Familien-Wiedervereinigung   / Lk 4,25-26   1.Kö 16,29-17.24  / Micha
+6,7-8**
 
 ·        Fragen zum Text:
 
@@ -104,7 +104,7 @@ o   Der Herr erhörte Elias Gebet und er konnte der Witwe den Sohn
 zurückgeben. Auf welche Verheißungen Gottes klammerst du dich, die dir
 Hoffnung auf Wiedervereinigung in deiner Familie geben?
 
-**Di:  Herzen am Altar bekehren  /  1. Kö 18,20-45**
+**Herzen am Altar bekehren  /  1. Kö 18,20-45**
 
 ·Fragen zum Text:
 
@@ -141,8 +141,7 @@ o   Wie würde es dir gehen, wenn alle Christen, die du kennst, sich vom
 Glauben abwendeten und du mit deinem Bekenntnis zu Jesus allein dastehen
 würdest?
 
-**Mi:   Herzen am Jordan bekehren  / Lk 3,3-9 .11.13-14  / Joh.
-3,27--30**
+**Herzen am Jordan bekehren  / Lk 3,3-9 .11.13-14  / Joh. 3,27--30**
 
 ·        Fragen zum Text:
 
@@ -174,7 +173,7 @@ Wie können wir heute seinem Beispiel folgen?
 o   Wie können wir heute die Elia-Botschaft so weitergeben, dass sie
 auch Gehör findet?
 
-**Do:  Herzen bekehren in der Endzeit    /  Lk 1,17 / 2. Kor. 5,18-21**
+**Herzen bekehren in der Endzeit    /  Lk 1,17 / 2. Kor. 5,18-21**
 
 ·Fragen zum Text:
 
