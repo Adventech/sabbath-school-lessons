@@ -27,7 +27,7 @@ II: Wir studieren die Bibel
 -   Was hättest du gerne, woran sich Besucher erinnern sollten, wenn sie
     dein Haus bzw. deine Familie wieder verlassen?
 
-### **Sonntag: Aus den Fehlern eines Königs lernen**
+### **Aus den Fehlern eines Königs lernen**
 
 **2. Chronik 32,25.31; Jesaja 39,1-4**
 
@@ -44,7 +44,7 @@ II: Wir studieren die Bibel
     kann der Reichtum Judas als Grund für das Exil gedeutet werden?
 -   Was hätte Hiskia zeigen sollen, das auch Gott gefallen hätte?
 
-### **Montag: Zuerst die Familie**
+### **Zuerst die Familie**
 
 **1. Johannes 1,40-42; 5. Mose 6,6-7**
 
@@ -58,7 +58,7 @@ II: Wir studieren die Bibel
     Familie zuverlässig zu erreichen? Oder ist es besser, jemanden von
     außerhalb „einzuladen“ (z.B. den Prediger)?
 
-### **Dienstag: Friede, der überzeugt**
+### **Friede, der überzeugt**
 
 **1. Korinther 7,12-16; 1. Petrus 3,1-2**
 
@@ -83,7 +83,7 @@ II: Wir studieren die Bibel
     gläubig ist und weltliche Werte vertritt? Wie weit geht dann die
     Folgsamkeit – wo hat sie ihre Grenzen?
 
-### **Mittwoch: Familienleben heißt teilen & Donnerstag: Zentren ansteckender Freundlichkeit**
+### **Familienleben heißt teilen & Zentren ansteckender Freundlichkeit**
 
 **1. Thessalonicher 1,6; Hebräer 13,7**
 
