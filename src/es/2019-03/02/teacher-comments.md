@@ -107,4 +107,4 @@ Busca formas de ayudar a los miembros de tu clase a aplicar los principios de es
 
 5 En línea: http://derrickmccarson.blogspot.com/2017/03/giving-god-oranges.html (Basado en Sanna Barlow Rossi, _Anthony T. Rossi: Christian & Entrepreneur_ [Downers Grove, Ilinois: InterVarsity, 1986], p. 158.)
 
-6 Alexander Tanzi, _Global Debt Topped $247 Trillion in the First Quarter, IIF Says_. En línea: http://www.businessinsider.com/global-debt-staggering-trillions-2017-4
+6 Alexander Tanzi, _Global Debt Topped 247 Trillion dollars in the First Quarter, IIF Says_. En línea: http://www.businessinsider.com/global-debt-staggering-trillions-2017-4

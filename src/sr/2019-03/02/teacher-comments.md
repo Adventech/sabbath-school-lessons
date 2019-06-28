@@ -112,4 +112,4 @@ _______
 
 <sup>11<sup> http://derrickmccarson.blogspot.com/2017/03/giving-god-oranges.html (Based on Sanna Barlow Rossi, Anthony T. Rossi: Christian & Entrepreneur [Downers Grove, IL: InterVarsity, 1986], str. 158.)
 
-<sup>12<sup> Alexander Tanzi, Global Debt Topped $247 Trillion in the First Quarter, IIF Says, URL http://www.businessinsider.com/global-debt-staggering-trillions-2017-4.
+<sup>12<sup> Alexander Tanzi, Global Debt Topped 247 Trillion dollars in the First Quarter, IIF Says, URL http://www.businessinsider.com/global-debt-staggering-trillions-2017-4.
