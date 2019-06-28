@@ -1,6 +1,6 @@
 ---
 title: Misjonilugu
-date: 
+date:   30/08/2019
 ---
 
 ####
