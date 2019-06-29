@@ -65,7 +65,7 @@ date:   12/07/2019
 
 **範例**
 
-國際金融協會（IIF）發佈了一份令人不安的報告，指稱全球債務在2018年的第一季達到破天荒的247萬億美元。這比2017年第一季增加了32萬億美元。這個數字包括家庭、政府、金融和非金融企業在內（Alexander Tanzi, Global Debt Topped $247 Trillion in the First Quarter, IIF Says, URL http://www.businessinsider.com/global-debt-staggering-trillions-2017-4）。
+國際金融協會（IIF）發佈了一份令人不安的報告，指稱全球債務在2018年的第一季達到破天荒的247萬億美元。這比2017年第一季增加了32萬億美元。這個數字包括家庭、政府、金融和非金融企業在內（Alexander Tanzi, Global Debt Topped 247 Trillion dollars in the First Quarter, IIF Says, URL http://www.businessinsider.com/global-debt-staggering-trillions-2017-4）。
 
 有些人陷入如此大的巨額債務，以至於擺脫債務似乎是不可能實現的目標。許多國家都有破產法以保護無法履行財務義務的公民。這些法律允許負債累累的人有一個新的開始。然而，那些選擇申請破產保護的人通常都會面對嚴重的後果。
 
