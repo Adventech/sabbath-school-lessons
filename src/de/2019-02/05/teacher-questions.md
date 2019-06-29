@@ -32,6 +32,8 @@ II: Wir studieren die Bibel
     -   Mit welchen Bildern vergleicht Salomo die Situation einer
         Affäre?
     -   Wie begründet Salomo seine Warnung?
+    -   Welche Folgen beschreibt Salomo? Inwiefern wären die Folgen
+        heute genauso/anders?
     -   Wie kann man sich vor einer solchen Situation schützen (Vers 8)?
 -   Fragen zur Botschaft:
     -   Warum gehen so viele Menschen fremd (39% der Frauen bzw. 51% der
@@ -51,9 +53,13 @@ II: Wir studieren die Bibel
 
 -   Fragen zum Text:
     -   Welche Prinzipien lassen sich aus diesen Texten ableiten?
+    -   Welches Vater-Ideal wird hier vorgestellt?
 -   Fragen zur Botschaft:
     -   Welche dieser Texte habt ihr in eurem praktischen Leben schon
         als wertvoll erfahren?
+    -   Welcher Aspekt spricht euch besonders an?
+    -   Habt ihr einen dieser Aspekte bei eurem eigenen Vater erlebt?
+        (positiv oder negativ)
     -   Welche Ratschläge sollten stärker berücksichtigt werden?
 
 **Sprüche 10,17; 23,13-14; 29,1.15**
@@ -64,17 +70,27 @@ II: Wir studieren die Bibel
     -   Welche Prinzipien lassen sich aus diesen Texten für unsere Zeit
         ableiten?
     -   Was ist euch heute wichtig, wenn Kinder erzogen werden?
-    -   Wie kann man heute für "Zucht und Ordnung" sorgen - oder muss
+    -   Wie kann man heute für “Zucht und Ordnung” sorgen - oder muss
         man das nicht mehr?
+    -   Wie kann “unterstützende Korrektur” (S. 60) gelingen?
+    -   Die Texte erwähnen “Rute” und “Tadel”, Elemente, die die meisten
+        von uns heute sehr kritisch sehen. Wie gehen wir heute mit
+        diesen potentiell schwierigen Texten um? Wie kommen wir zu einem
+        ausgewogenen Verständnis?
 
 **Sprüche 21,9.19; 27,15.16**
 
 -   Fragen zum Text:
-    -   Was meint Salomo mit den Begriff "zänkisch"?
+    -   Was meint Salomo mit den Begriff “zänkisch”?
+    -   Mit welchen Bildern vergleicht er die zänkische Frau?
     -   Warum ist diese Eigenschaft lt. Salomo den Frauen vorbehalten?
 -   Fragen zur Botschaft:
-    -   Wie kann man vermeiden, dass man "zänkisch" wird bzw. jemanden
-        "zänkisch" macht?
+    -   Wie kann man vermeiden, dass man “zänkisch” wird bzw. jemanden
+        “zänkisch” macht?
+    -   Die Lektion spricht auch über Humor in den Sprüchen. Wo ist euch
+        dieser aufgefallen?
+        -   Welche positiven Auswirkungen hat Humor im Familienleben
+            oder ganz allgemein?
 
 **Sprüche 31,10-31**
 
@@ -82,48 +98,13 @@ II: Wir studieren die Bibel
     -   Wer ist der Autor dieses Textes?
     -   Was macht für den Schreiber eine tüchtige Frau aus?
     -   Welche Eigenschaften empfindest du als wichtig?
-    -   "Lieblich und schön sein ist nichts" - wirklich?
+    -   “Lieblich und schön sein ist nichts” - wirklich?
 -   Fragen zur Botschaft:
-    -   Falls ihr eine(n) Partner(in) habt: Welche Eigenschaften haben
-        bei der Wahl eine Rolle gespielt? Gab es da eine
-        Prioritätenliste?
+    -   Falls ihr eine(n) Partner(in) habt: Welche Eigenschaft
 
-III: Dienst und Mission
------------------------
+<center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+<https://wiki.sabbatschule.at>
 
-Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
-aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen.
+</center>
 
-Die Arbeitshilfe "Dienst und Mission" möchte diesen Teil III etwas mehr
-in die Praxis bringen. Beachte hierzu folgende mögliche Vorgehensweise
-im Rahmen der wöchentlichen Sabbatschule:
-
--   Drucke für jede Person ein Blatt (2 Arbeitshilfen pro Blatt) aus.
--   Reserviere dir für diesen Teil III ca. 10 Minuten. Beende darum
-    rechtzeitig den Teil II "Bibelstudium".
--   Gib jedem Sabbatschul-Teilnehmer dieses Blatt.
--   Jeder möge kurz unter stillem Gebet an sein Umfeld denken: Freunde,
-    Verwandte, Bekannte, Arbeitskollegen usw. Für 2 Personen, die einem
-    gerade am meisten am Herzen liegen, möge man sich entscheiden. Die
-    eine Person in die linke Arbeitshilfe - die andere Person in die
-    rechte Arbeitshilfe eintragen.
--   Nun möge sich jeder Gedanken machen, was er diesen Personen Gutes
-    tun kann. Bitte nur 1-3 Aktionen insgesamt pro Person - alles andere
-    überfordert womöglich.
--   Am Ende tauscht euch kurz über eure Vorhaben aus. Teilt eure kleinen
-    Aktionsziele der ganzen Gruppe mit, die ihr euch für die kommenden
-    Wochen setzt.
--   Beachte: Ohne heiligen Geist bleiben alle menschlichen Anliegen nur
-    Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von Gott
-    gebrauchen lassen, dann kann aus Kleinem etwas sehr Großes
-    entstehen.
-
-Hier die Arbeitshilfe: [WORD] oder [PDF]
-
-  [WORD]: :Medium:Teil_III_-_Dienst_und_Mission_-_Kleingruppen_im_Gottesdienst_-_Sabbatschul-Aktionsgruppen_Format_A4.docx
-    "wikilink"
-  [PDF]: :Medium:Teil_III_-_Dienst_und_Mission_-_Kleingruppen_im_Gottesdienst_-_Sabbatschul-Aktionsgruppen_Format_A4.pdf
-    "wikilink"
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>

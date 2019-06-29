@@ -381,3 +381,21 @@ title = "Sabbath School"
 	current = "Одоогийн хичээл"
 	archive = "Хичээл архив"
 	lang = "🇲🇳 Монгол хэл"
+
+[params.ka]
+	title = "დამხმარე სახელმძღვანელო ბიბლიის შესასწავლად"
+	back = "დაბრუნება"
+	all = "ყველა გაკვეთილი"
+	todaysLesson = "მიმდინარე გაკვეთილი"
+	current = "მიმდინარე კვარტალში"
+	archive = "გაკვეთილების არქივი"
+	lang = "🇬🇪 ქართული ენა"
+
+[params.sk]
+	title = "Štúdium Biblie"
+	back = "Vráť sa"
+	all = "Všetky hodiny"
+	todaysLesson = "Dnešná lekcia"
+	current = "Aktuálna lekcia"
+	archive = "Archív lekcie"
+	lang = "🇸🇰 Slovenčina"

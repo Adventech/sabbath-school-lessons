@@ -12,7 +12,8 @@ var BIBLE_PARSER_CONFIG = {
 
   "cs": [
     "cep",
-    "kralicka-1613"
+    "kralicka-1613",
+    "csp"
   ],
 
   "da": [
@@ -59,6 +60,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "it": [
     "nr2006"
+  ],
+
+  "ka": [
+    "geo"
   ],
 
   "lt": [
@@ -157,6 +162,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "sv": [
     "sf1998"
+  ],
+
+  "sk": [
+    "seb"
   ],
 
   "sw": [

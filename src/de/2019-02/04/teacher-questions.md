@@ -29,7 +29,7 @@ II: Wir studieren die Bibel
 -   Fragen zum Text:
     -   Welche Vorteile ergeben sich durch Weg Gemeinschaften im Leben?
     -   Welche Probleme können zusammen leichter gelöst werden?
-    -   Was meint Salomo mit der "dreifachen" Schnur?
+    -   Was meint Salomo mit der “dreifachen” Schnur?
 -   Fragen zur Botschaft:
     -   Wie kann ich aktiv Gemeinschaft in meinem persönlichen Umfeld
         fördern?
@@ -92,48 +92,11 @@ II: Wir studieren die Bibel
     -   Welchen Trost gibt Salomo denen, die zurückbleiben, wenn der
         ungläubige Partner gehen will?
 -   Fragen zur Botschaft:
-    -   Gemeinsam und doch einsam im Glauben an Gott. Wie gehe ich damit
-        um?
-    -   Welche Rolle spielt Gebet und Fürbitte in meinem Leben?
-    -   Was können wir als Gemeindefamilie konkret tun, um "geistlichen
-        Singles" in unserer Mitte zu helfen?
+    -   Gemeinsam und doch einsam im Glauben an Gott. Wie gehe ich da
 
-III: Dienst und Mission
------------------------
+<center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+<https://wiki.sabbatschule.at>
 
-Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
-aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen.
+</center>
 
-Die Arbeitshilfe "Dienst und Mission" möchte diesen Teil III etwas mehr
-in die Praxis bringen. Beachte hierzu folgende mögliche Vorgehensweise
-im Rahmen der wöchentlichen Sabbatschule:
-
--   Drucke für jede Person ein Blatt (2 Arbeitshilfen pro Blatt) aus.
--   Reserviere dir für diesen Teil III ca. 10 Minuten. Beende darum
-    rechtzeitig den Teil II "Bibelstudium".
--   Gib jedem Sabbatschul-Teilnehmer dieses Blatt.
--   Jeder möge kurz unter stillem Gebet an sein Umfeld denken: Freunde,
-    Verwandte, Bekannte, Arbeitskollegen usw. Für 2 Personen, die einem
-    gerade am meisten am Herzen liegen, möge man sich entscheiden. Die
-    eine Person in die linke Arbeitshilfe - die andere Person in die
-    rechte Arbeitshilfe eintragen.
--   Nun möge sich jeder Gedanken machen, was er diesen Personen Gutes
-    tun kann. Bitte nur 1-3 Aktionen insgesamt pro Person - alles andere
-    überfordert womöglich.
--   Am Ende tauscht euch kurz über eure Vorhaben aus. Teilt eure kleinen
-    Aktionsziele der ganzen Gruppe mit, die ihr euch für die kommenden
-    Wochen setzt.
--   Beachte: Ohne heiligen Geist bleiben alle menschlichen Anliegen nur
-    Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von Gott
-    gebrauchen lassen, dann kann aus Kleinem etwas sehr Großes
-    entstehen.
-
-Hier die Arbeitshilfe: [WORD] oder [PDF]
-
-  [WORD]: :Medium:Teil_III_-_Dienst_und_Mission_-_Kleingruppen_im_Gottesdienst_-_Sabbatschul-Aktionsgruppen_Format_A4.docx
-    "wikilink"
-  [PDF]: :Medium:Teil_III_-_Dienst_und_Mission_-_Kleingruppen_im_Gottesdienst_-_Sabbatschul-Aktionsgruppen_Format_A4.pdf
-    "wikilink"
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
