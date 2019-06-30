@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  05/04/2018
+date:  05/04/2019
 ---
 
 #### Byfolk med bibel

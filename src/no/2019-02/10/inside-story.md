@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  07/06/2018
+date:  07/06/2019
 ---
 
 #### Hurtige bønnesvar

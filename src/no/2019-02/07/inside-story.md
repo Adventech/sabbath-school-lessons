@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  17/05/2018
+date:  17/05/2019
 ---
 
 #### Den fødte misjonær
