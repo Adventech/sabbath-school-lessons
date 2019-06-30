@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  14/06/2018
+date:  14/06/2019
 ---
 
 #### Marxisten ble adventist

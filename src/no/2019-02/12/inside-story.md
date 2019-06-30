@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  21/06/2018
+date:  21/06/2019
 ---
 
 #### Uforglemmelig frieri
