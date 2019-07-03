@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   06/07/2019
+date:   05/07/2019
 ---
 
 Lektion 1: Gott schuf ...
