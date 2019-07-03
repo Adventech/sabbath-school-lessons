@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   31/08/2019
+date:   30/08/2019
 ---
 
 <center>
