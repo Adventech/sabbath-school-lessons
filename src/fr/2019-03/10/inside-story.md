@@ -3,11 +3,9 @@ title:  Histoire
 date:   06/09/2019
 ---
 
+### Une miche de pain
 
-
-Une miche de pain
-
-par Andrew McChesney, Mission Adventiste
+_par Andrew McChesney, Mission Adventiste_
 
 Maya s’approcha de Valentina avec une miche de pain blanc après le culte. « Valya, s’il vous plait prenez ceci », dit-elle en lui tendant la miche. Valentina, 40 ans, regarda avidement le pain. Elle n’avait pas mangé une miette depuis plus de six mois. Il était impossible de trouver le pain sur les étagères à Soukhoumi, capitale de la région séparatiste de la Géorgie de l’Abkhazie. C’était en 1993, et il y eut un mois de conflit armé entre les forces géorgiennes et abkhazes qui avait entrainé une pénurie alimentaire majeure. « Prenez ceci, s’il vous plait », Maya, 45 ans, dit encore une fois, en offrant le pain. « C’est moi qui vous le donne. » Valentina secoua lentement la tête. « Je ne peux pas prendre cela de vous », dit-elle. « Vous avez aussi besoin de cela tout comme nous. »
 
