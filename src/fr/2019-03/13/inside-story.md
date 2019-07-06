@@ -3,11 +3,9 @@ title:  Histoire
 date:   27/09/2019
 ---
 
+### Conduire des passagers à Christ
 
-
-Conduire des passagers à Christ
-
-par Andrew McChesney, Mission adventiste
+_par Andrew McChesney, Mission adventiste_
 
 Byungeun Oh, un chauffeur de taxi en Corée du Sud, n’avait jamais conduit quelqu’un à Christ après des années dans l’église, et il décida de changer cela.
 
@@ -19,6 +17,6 @@ Byungeun gagna sa première âme pour Christ, et il n’eut pas l’intention d�
 
 Byungeun et son épouse se présentèrent avec plusieurs petits cadeaux. M. Park les conduisit dans la salle de séjour et les présenta à sa femme, Chunja An. Byungeun apprit que l’épouse avait un problème. Elle n’a pas pu assister aux services à son église de dimanche parce qu’elle travaillait six jours par semaine, avec seulement les samedis comme jour de repos. « Nous allons à l’église le samedi », déclara Byungeun. « Pourquoi ne pas venir avec nous? » Bientôt elle fut baptisée à l’église Adventiste.
 
-En deux ans, Byungeun, photo à gauche, a conduit trois p ersonnes à Christ. Il est convaincu que si lui, un chauffeur de taxi âgé de 58 ans, peut le faire, quelqu’un le peut aussi.
+_En deux ans, Byungeun, photo à gauche, a conduit trois p ersonnes à Christ. Il est convaincu que si lui, un chauffeur de taxi âgé de 58 ans, peut le faire, quelqu’un le peut aussi._
 
-« Réduisez votre travail pour pouvoir faire l’œuvre de Dieu », dit-il. « Simplifiez la vie et puis remplissez-la avec la joie de rencontrer des âmes. »
+_« Réduisez votre travail pour pouvoir faire l’œuvre de Dieu », dit-il. « Simplifiez la vie et puis remplissez-la avec la joie de rencontrer des âmes. »_
