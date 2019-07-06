@@ -3,11 +3,9 @@ title:  Histoire
 date:   16/08/2019
 ---
 
+### Licenciée à cause du sabbat
 
-
-Licenciée à cause du sabbat
-
-par Aurora Carlos Justino
+_par Aurora Carlos Justino_
 
 J’ai grandi dans la troisième ville de Nampula, Mozambique, où 80% de la population est musulmane. Je ne me sentais pas à l’aise avec la foi de ma mère, qui avait divorcé quand j’étais petite. Quelque chose dans mon esprit me disait que je devais devenir chrétienne pour trouver la paix du cœur. Un jour, j’ai discuté cela avec ma mère. « Maman, je veux être une chrétienne », lui dis-je. Ma mère dit: « si tu veux être chrétienne, ne m’appelle plus ‘’maman’’ ». Tu ne serais plus ma fille. » J’eus très peur de ses paroles. Je cessai d’aller à son lieu de culte. Je n’allai à aucun lieu de culte. Je voulais voir comment ma mère allait réagir.
 
