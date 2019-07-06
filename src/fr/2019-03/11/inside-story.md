@@ -3,9 +3,9 @@ title:  Histoire
 date:   13/09/2019
 ---
 
-Attirés par la Télévision
+### Attirés par la Télévision
 
-par Andrew McChesney, Mission Adventiste
+_par Andrew McChesney, Mission Adventiste_
 
 En tant qu’enfant en Nouvelle Zélande, Coralie Schofield a été mise en garde sur les dangers potentiels de la télévision et avertie de rester à l’écart.
 

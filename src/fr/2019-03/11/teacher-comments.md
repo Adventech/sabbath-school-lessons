@@ -3,21 +3,20 @@ title:  Commentaires Moniteurs
 date:   13/09/2019
 ---
 
-Partie I: Aperçu
+### Partie I: Aperçu
 
 En considérant la croissance sans précédent du christianisme dans les trois premiers siècles, l’historien Rodney Stark conclut: « la puissance du christianisme ne résidait pas dans ses promesses de compensations surnaturelles de la souffrance dans cette vie, comme on l’a si souvent proposé. Non, le changement essentiel qui a eu lieu au IIIe siècle a été la prise de conscience rapide et la propagation d’une foi qui a pourvu un puissant antidote aux misères de la vie ici et maintenant! L’aspect véritablement révolutionnaire du christianisme se trouve dans les impératifs moraux tels que « aime ton prochain comme toi-même », « fais aux autres ce que tu voudrais qu’ils te fassent », « il y a plus de bonheur à donner qu’à recevoir », et « tout ce que vous avez fait à l’un des plus petits de mes frères, c’est-à-Moi que vous l’avez fait. »
 
 En étudiant la leçon de cette semaine, nous sommes mis au défi de vivre chaque jour avec un espoir brulant pour le royaume de Dieu à venir, tout en démontrant ces valeurs du royaume dans nos vies et dans les vies de ceux que nous servons. Nous partageons le cri prophétique d’un retour imminent de Christ dans Son royaume. En attendant le royaume de gloire, nous rappelons les possibilités de servir dès maintenant, en laissant entrer Christ pour qu’Il vive Sa vie en nous.
 
-Objectifs du Moniteur:
+**Objectifs du Moniteur**:
 
-• Demandez aux membres d’examiner et de discuter des questions suivantes: qu’est-ce qui vous motive, vous et votre église, dans ce monde injuste, pendant que vous attendez la seconde venue de Christ?
+- Demandez aux membres d’examiner et de discuter des questions suivantes: qu’est-ce qui vous motive, vous et votre église, dans ce monde injuste, pendant que vous attendez la seconde venue de Christ?
+- Comment utilisez-vous le temps dont vous disposez alors que la venue de Christ devient de plus en plus imminent chaque jour qui passe?
 
-• Comment utilisez-vous le temps dont vous disposez alors que la venue de Christ devient de plus en plus imminent chaque jour qui passe?
+### Partie II: Commentaire
 
-Partie II: Commentaire
-
-Écriture
+**Écriture**
 
 Lisez ensemble Tite 2:11-14. Ce passage décrit deux royaumes: le royaume de grâce et le royaume de gloire. Tout d’abord, demandez à la classe d’effectuer les opérations suivantes:
 
@@ -41,7 +40,7 @@ Le royaume de gloire est la seconde venue de Jésus et le jugement final.
 
 8. En quoi l’action sociale est-elle « un témoignage vivant de la venue imminente de notre Seigneur? » Réponse: Lorsque nous prenons une position ferme pour la justice, la compassion et la guérison, nous démontrons les valeurs du royaume de Dieu qui vient.
 
-Illustration
+**Illustration**
 
 Illustrations du royaume en deux:
 
@@ -49,7 +48,7 @@ Illustrations du royaume en deux:
 
 2. Les paroles suivantes ont été publiées au bord d’une fourgonnette de plomberie en Afrique du Sud: « il n’y a pas d’endroit trop profond, trop sombre ou trop sale que nous ne pouvons gérer. » (Comment ce slogan exprime-t-il avec justesse le contexte et l’œuvre du royaume de grâce?)
 
-Illustration
+**Illustration**
 
 Certains pensent que tout souci d’écologie et tous les soins sociaux sont une perte de temps parce que ce monde sera détruit à la fin des temps de toute façon. Aujourd’hui, certains chrétiens voient ce monde comme un navire en perdition. Non seulement ils ne voient aucun avantage à tracer un parcours sur un tel navire désastreux, ils ne voient aucun sens à boucher les fuites d’eau afin de rendre le navire navigable à nouveau. Au contraire, ils passent leur temps sur des canots de sauvetage, à une distance sure, en avertissant les passagers du navire que le bateau va bientôt couler. Ces prophètes de malheur voient toute tentative visant à réparer le navire (c’est-à-dire, améliorer les conditions sociales dans le monde) comme inutile, parce que Christ va détruire l’ordre mondial actuel à Son arrivée.
 
@@ -63,7 +62,7 @@ Demandez à la classe: Pourquoi ainsi? Lisez cette déclaration de La tragédie 
 
 Lisez et discutez 1 Corinthiens 4:5, 2 Thessaloniciens 1:5-10, Apocalypse 21:4 et d’autres passages qui peuvent aider la classe à se rassurer que, à son temps, Dieu amènera la justice et mettra fin au péché. Actuellement, ce monde pécheur est plein d’oppression, de souffrance et de tristesse. En attendant l’heure précise de la seconde venue de Jésus, nous poursuivons le processus de la défaite de l’œuvre du diable comme Jésus l’a fait (1 Jean 3:8). Son corps, l’église, a été envoyé dans le monde pour « porter de bonnes nouvelles aux malheureux… guérir ceux qui ont le cœur brisé, pour proclamer aux captifs la liberté, et aux prisonniers la délivrance… Mais vous, on vous appellera sacrificateurs de l’Éternel, on vous nommera serviteurs de notre Dieu. » (Ésaïe 61:1-4, 6 NEG).
 
-Partie III: Application
+### Partie III: Application
 
 Être un chrétien adventiste qui vit quotidiennement à la lumière de l’espoir de l’avènement de Christ signifie qu’il faut éviter deux extrêmes.
 
