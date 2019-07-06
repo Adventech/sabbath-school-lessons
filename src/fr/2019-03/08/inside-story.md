@@ -4,10 +4,9 @@ date:   23/08/2019
 ---
 
 
+### Le médecin demande d’avorter
 
-Le médecin demande d’avorter
-
-par Andrew McChesney, Mission Adventiste
+_par Andrew McChesney, Mission Adventiste_
 
 Dina, une grand-mère de 60 ans vivant dans l’Union Soviétique, priait tous les matins, « Seigneur, envoie-moi quelqu’un à qui je puisse parler de Toi. »
 
