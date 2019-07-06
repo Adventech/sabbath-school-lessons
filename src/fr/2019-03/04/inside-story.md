@@ -3,11 +3,9 @@ title:  Histoire
 date:   26/07/2019
 ---
 
+### Le 4x4 missionnaire
 
-
-Le 4x4 missionnaire
-
-par Andrew McChesney, Mission Adventiste
+_par Andrew McChesney, Mission Adventiste_
 
 En parquant à la maison dans l’État du Maryland aux États-Unis, Joe Marcellino vit de l’huile coulant de son Isuzu Trooper 4x4. « Oh-oh », dit-il à sa femme, Susan. « Quelque chose va mal ».
 
@@ -25,4 +23,4 @@ Environ 18 mois après, Wayne dit à Joe: « vous vous rappelez de la voiture qu
 
 Quelques années plus tard, Wayne annonça que la 4x4 avait atteint 322 000 km. Puis 482 000 km. Joe était surpris. « C’est le Seigneur qui a gardé cette voiture pour ce missionnaire! », déclara-t-il.
 
-Joe, maintenant 61 ans et sur la photo de gauche, a déclaré que l’expérience lui a appris une leçon sur la mission et la dime. « Le Seigneur a pourvu à nos besoins quand nous nous sommes mariés, et nous ayons décidé de Lui retourner nos premiers fruits », dit-il. « Il n’a pas seulement pourvu à nos besoins, mais Il a également pourvu aux besoins du missionnaire en Afrique. La 4x4 est devenue une bénédiction qui continue de produire année après année. »
+_Joe, maintenant 61 ans et sur la photo de gauche, a déclaré que l’expérience lui a appris une leçon sur la mission et la dime. « Le Seigneur a pourvu à nos besoins quand nous nous sommes mariés, et nous ayons décidé de Lui retourner nos premiers fruits », dit-il. « Il n’a pas seulement pourvu à nos besoins, mais Il a également pourvu aux besoins du missionnaire en Afrique. La 4x4 est devenue une bénédiction qui continue de produire année après année. »_
