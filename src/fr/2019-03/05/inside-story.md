@@ -3,9 +3,9 @@ title:  Histoire
 date:   02/08/2019
 ---
 
-Vengeance et pardon
+### Vengeance et pardon
 
-par Andrew McChesney, Mission Adventiste
+_par Andrew McChesney, Mission Adventiste_
 
 La longue machette tranchante scintillait quand le jeune de 21 ans la balançait au-dessus de sa tête. Ses yeux étaient rouges de colère. Il visait la tête de son beau-père. À cet instant, son beau-père, Alberto Rui Quaresma, leva son bras, et la machette trancha profondément son avant-bras.
 
