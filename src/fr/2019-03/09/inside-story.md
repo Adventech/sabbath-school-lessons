@@ -3,11 +3,9 @@ title:  Histoire
 date:   30/08/2019
 ---
 
+#### Le pardon d’un père finnois
 
-
-Le pardon d’un père finnois
-
-par Sakari Vehkavuori
+_par Sakari Vehkavuori_
 
 La Finlande était enlisée dans une guerre civile très sanglante en 1918. Les Rouges, composés principalement de la classe ouvrière, étaient en conflit contre les Blancs, la plupart des classes moyennes et supérieures.
 
@@ -27,4 +25,4 @@ De retour au golfe, les Rouges jetèrent les corps des morts dans le trou de gla
 
 Après un certain temps, les Blancs prirent le dessus. Ils capturèrent 10 prisonniers rouges et décidèrent de les exécuter pour se venger de la mort de Väinö et de ses amis. Viktor prit sa Bible et se précipita vers le lieu d’exécution sur la colline. « Maintenant, cette tuerie suffit », dit-il. « Vous ne pouvez pas tuer les Rouges pour la perte de mon fils, pas un seul ». Quand il a prêché sur la colline, le cycle de vengeance fut brisé, et la vie des prisonniers rouges furent épargnée. Parmi ces 10 rouges étaient les deux fils d’un forgeron local. Voyant son fils sauvé, le joyeux forgeron commença à lire la Bible et rejoint l’Église Adventiste.
 
-Dieu a également béni la famille de Viktor, photographié à gauche. Huit membres de la famille ont servi comme pasteurs adventistes, y compris moi et le frère de Väinö Toivo Seljavaara, un évangéliste qui a déjà baptisé plus de 1500 personnes.
+_Dieu a également béni la famille de Viktor, photographié à gauche. Huit membres de la famille ont servi comme pasteurs adventistes, y compris moi et le frère de Väinö Toivo Seljavaara, un évangéliste qui a déjà baptisé plus de 1500 personnes._
