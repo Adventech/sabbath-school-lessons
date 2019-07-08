@@ -263,11 +263,28 @@ Fragen zur Botschaft
 III: Dienst und Mission
 -----------------------
 
+**Praktische Anwendung**\
+\* Wie wird ein Gott, der mit uns mitfühlt und uns liebt, durch unsere
+Handlungen im beruflichen und privaten Alltag dargestellt? Welche
+Reaktionen von gläubigen und nicht gläubigen Mitmenschen haben wir dabei
+erfahren? Kann es sein, dass anfängliche negative Reaktionen sich später
+in positive verwandeln? Der Grund dafür kann sein, dass es ein für
+andere ungewohntes Reaktionsschema ist und das Gegenüber erst unser
+Verhalten bewerten muss…
+
+-   Hier eine vereinfachte Darstellung, die zeigt, wie Gott mit und
+    durch uns wirken will und welchen Einfluss wir dabei haben.
+
+<File:Teil3-alternative-1.jpg> <File:Teil3-alternative-2.jpg>
+
+**Ideen für Aktivitäten**\
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen.
+unseres Auftrags, Jünger zu machen. [Hier gibt es eine Ideensammlung,
+was ihr alles tun könnt.](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")
 
-Die Ar
+**Arbeitshilfe “Dienst und Mission”**\
+D
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
