@@ -3,9 +3,9 @@ title:  Histoire
 date:   19/07/2019
 ---
 
-Une morsure de serpent transforme tout un village
+#### Une morsure de serpent transforme tout un village
 
-Par Wilson Measapogu
+_Par Wilson Measapogu_
 
 Sundar Rao, un ouvrier agricole de 27 ans, a été intrigué quand un homme blanc s’est présenté à son village indien le samedi et lut un livre noir sur un Dieu Créateur. Sundar fut attiré par les histoires de la Bible du missionnaire américain Theodore R. Flaiz et décida de suivre son Dieu.
 
