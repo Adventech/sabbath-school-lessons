@@ -11,6 +11,8 @@ before_install:
 script: node compile.js -b $TRAVIS_BRANCH
 before_script:
 - mkdir dist
+cache:
+  npm: false
 before_deploy:
   - 'curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip"'
   - 'unzip awscli-bundle.zip'
