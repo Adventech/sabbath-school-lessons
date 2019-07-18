@@ -412,7 +412,7 @@ var readAPI = function(dayPath, day, info, lesson){
       resultBible = {},
       language = info.language;
 
-    if (typeof bibleVersion === 'object') {
+    if (bibleVersion.version) {
       language = bibleVersion.lang;
       bibleVersion = bibleVersion.version;
     }
