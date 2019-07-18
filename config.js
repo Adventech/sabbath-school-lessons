@@ -185,6 +185,13 @@ var BIBLE_PARSER_CONFIG = {
     "ang-biblia"
   ],
 
+  "tl-hil": [
+    {
+      lang: "hil",
+      version: "hil82"
+    }
+  ],
+
   "tr": [
     "kitab"
   ],
