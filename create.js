@@ -2,7 +2,7 @@
 var argv = require("optimist")
   .usage("Create the file structure for a quarter in given language.\n" +
   "Usage: $0 -s [string] -l [string] -q [string] -c [num] -t [string] -d [string] -h [string] -u [bool] -i [bool] -y [hex] -z [hex]")
-  .alias({"s":"start-date", "l": "language", "q": "quarter", "c": "count", "t": "title", "d": "description", "h": "human-date", "u": "teacher-comments", "i": "inside-story", "k": "lesson-cover", "y": "color-primary", "z": "color-dark" })
+  .alias({"s":"start-date", "l": "language", "q": "quarter", "c": "count", "t": "title", "d": "description", "h": "human-date", "u": "teacher-comments", "i": "inside-story", "m": "tmi-tips", "k": "lesson-cover", "y": "color-primary", "z": "color-dark" })
   .describe({
     "s": "Start date in DD/MM/YYYY format. Ex: 25/01/2016",
     "l": "Target language. For ex. 'en' or 'ru'",
@@ -13,12 +13,13 @@ var argv = require("optimist")
     "h": "Human readable date of quarterly. Ex. Fourth quarter of 2016",
     "u": "Include teacher comments",
     "i": "Inside story",
+    "m": "TMI Tips (ko only)",
     "k": "Create lesson cover placeholder images",
     "y": "Primary color for the lesson",
     "z": "Dark primary color for the lesson"
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
-  .default({ "l" : "en", "c": 13, "u": false, "i": false, "k": false, "y" : "ffffff", "z" : "000000" })
+  .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false, "y" : "ffffff", "z" : "000000" })
   .argv;
 
 var fs     =  require("fs-extra"),
@@ -217,6 +218,10 @@ var LOCALE_VARS = {
     "ja": "Inside Story",
     "zh": "Inside Story",
     "vi": "Inside Story"
+  },
+
+  "tmi_tips": {
+    "ko": "TMI Tips"
   }
 };
 
@@ -231,7 +236,7 @@ function createLanguageFolder(quarterlyLanguage){
   console.log("Necessary " + quarterlyLanguage + " directory created");
 }
 
-function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
+function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmiTips, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
       start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
@@ -263,6 +268,13 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
         "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
     }
+
+    if (quarterlyTmiTips){
+      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/tmi-tips.md",
+        "---\ntitle:  "+LOCALE_VARS["tmi_tips"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+      );
+    }
+
     if (lessonCover){
       fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
     }
