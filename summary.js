@@ -118,7 +118,7 @@ var scanAndReturnIfWeekIsComplete = function(weeksDir, week){
 
 var summaryMatrixToShortMd = function(summaryMatrix){
     var lessons = [];
-    var output = "#### Summary\n\n";
+    var output = "#### Current summary of lessons for " + getQuarterlyPrefix() + "\n\n";
     output += "##### " + getQuarterlyPrefix() + "\n\n";
 
 

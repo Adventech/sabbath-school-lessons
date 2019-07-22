@@ -8,9 +8,11 @@ before_install:
 - wget https://github.com/gohugoio/hugo/releases/download/v0.33/hugo_0.33_Linux-64bit.deb
 - sudo dpkg -i hugo_0.33_Linux-64bit.deb
 - rm *.deb
-script: node compile.js -b $TRAVIS_BRANCH
+script: node --max-old-space-size=4096 compile.js -b $TRAVIS_BRANCH
 before_script:
 - mkdir dist
+cache:
+  npm: false
 before_deploy:
   - 'curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip"'
   - 'unzip awscli-bundle.zip'
