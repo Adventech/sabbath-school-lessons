@@ -1,0 +1,224 @@
+`accessCode` | Access Code
+`accountHistory` | Account History
+`accountNumber` | Account Number
+`address` | Address
+`alias` | Alias
+`alienRegistrationNumber` | Alien Registration Number
+`appellationCode` | Appellation Code
+`applicationName` | Application Name
+`applicationNumber` | Application Number
+`applicationRegistrationNumber` | Application Registration Number
+`areaCode` | Area Code
+`awards` | Awards
+`barcodeNumber` | Barcode Number
+`bidOpeningDate` | Bid Opening Date
+`billingInformationAtTheClinic` | Billing Information at the Clinic
+`biometricRecords` | Biometric Records
+`cardValidationCodes` | Card Validation Codes
+`cardholderFullMagneticStripe` | Cardholder full magnetic stripe
+`cardholderName` | Cardholder name
+`caseNumber` | Case Number
+`caseRecordName` | Case Record Name
+`caseRecordNumber` | Case Record Number
+`caseloadNumber` | Caseload Number
+`checkNumber` | Check Number
+`childcareFacilityAddress` | Childcare Facility Address
+`chipContractorCode` | CHIP Contractor Code
+`cisApplicationNumber` | CIS Application Number
+`cisRecordNumber` | CIS Record Number
+`citizenship` | Citizenship
+`citizenshipStatus` | Citizenship Status
+`city` | City
+`civilSubdivision` | Civil Subdivision
+`clinicAddress` | Clinic Address
+`clinicName` | Clinic Name
+`commoditySpecialist` | Commodity Specialist
+`communityBasedOrganizationName` | Community Based Organization Name
+`communityPartnerOrganizationId` | Community Partner Organization ID
+`communityPartnerUserId` | Community Partner User ID
+`compassIndividualNumber` | COMPASS Individual Number
+`completeTrackData` | Complete Track Data
+`consumersCreditWorthiness` | Consumers Credit Worthiness
+`contractNo` | Contract No
+`countryOfOrigin` | Country of Origin
+`county` | County
+`countyCode` | County Code
+`courtOrderNumber` | Court order number
+`creditCapacity` | Credit Capacity
+`creditScore` | Credit Score
+`creditStanding` | Credit Standing
+`criminalConvictions` | Criminal convictions
+`criminalHistory` | Criminal History
+`dateOfDeath` | Date of Death
+`datesOfAttendance` | Dates of Attendance
+`debitCardNumber` | Debit Card Number
+`degree` | Degree
+`demographicInformation` | Demographic Information
+`diagnosisReport` | Diagnosis Report
+`disabilityCode` | Disability Code
+`disabilityDescription` | Disability Description
+`districtOffice` | District Office
+`dnaSequence` | DNA Sequence
+`doctorAddress` | Doctor Address
+`doctorName` | Doctor Name
+`documentId` | Document ID
+`drugAndAlcoholAbuseInformation` | Drug and alcohol abuse information
+`ebtCardNumber` | EBT card number
+`educationalAgency` | Educational Agency
+`electronicCommunication` | Electronic Communication
+`elevation` | Elevation
+`employerAddress` | Employer Address
+`employerContactPhoneNumber` | Employer Contact Phone Number
+`employerIdentifier` | Employer Identifier
+`employerName` | Employer Name
+`employerSequenceNumber` | Employer Sequence Number
+`enrollmentStatus` | Enrollment Status
+`expirationDate` | Expiration date
+`facialCharacteristics` | Facial Characteristics
+`faxNumber` | Fax Number
+`federalTaxWithholdings` | Federal Tax Withholdings
+`fein` | FEIN
+`ffmIndividualNumber` | FFM Individual Number
+`financialAccountNumber` | Financial account number
+`fingerPrints` | Finger Prints
+`funeralHomeName` | Funeral Home name
+`geneticMarker` | Genetic Marker
+`geneticTestingInformation` | Genetic Testing Information
+`geographicIndicators` | Geographic Indicators
+`gradeLevel` | Grade Level
+`groupNumber` | Group Number
+`handwriting` | Handwriting
+`healthInsurancePolicyNumber` | Health Insurance Policy Number
+`healthPlanBeneficiary` | Health Plan Beneficiary
+`healthPlanInsurancePremium` | Health Plan Insurance Premium
+`healthServicesProvided` | Health Services provided
+`heatingProviderAccountNumber` | Heating Provider Account Number
+`homePhoneNumber` | Home Phone Number
+`householdDisabilityIndicator` | Household Disability Indicator
+`householdNumber` | Household Number
+`i551CardNumber` | I551 Card Number
+`i94DocumentNumber` | I94 Document Number
+`income` | Income
+`individualNumber` | Individual Number
+`individualsMedicalHistory` | Individuals Medical History
+`individualsMentalConditionInformation` | Individuals Mental Condition Information
+`individualsPhysicalConditionInformation` | Individuals Physical Condition Information
+`institutionAttended` | Institution Attended
+`insuranceAddress` | Insurance Address
+`insuranceCarrier` | Insurance Carrier
+`insuranceCompanyName` | Insurance Company Name
+`language` | Language
+`latitude` | Latitude
+`legalEntity` | Legal Entity
+`longitude` | Longitude
+`maidenName` | Maiden Name
+`majorFieldOfStudy` | Major Field of Study
+`masterProviderIndexNumber` | Master Provider Index Number
+`mciNumber` | MCI Number
+`medicaidProviderId` | Medicaid Provider ID
+`medicalCondition` | Medical Condition
+`medicalHistory` | Medical History
+`medicalInformation` | Medical Information
+`medicalLicenseNumber` | Medical License Number
+`medicalProviderInformation` | Medical Provider information
+`medicalRecordNumber` | Medical Record Number
+`medicalTreatmentOrDiagnosisInformation` | Medical Treatment or Diagnosis Information
+`medicareClaimNumber` | Medicare Claim Number
+`medicareId` | Medicare ID
+`modeOfLiving` | Mode of Living
+`mothersMaidenName` | Mothers Maiden Name
+`motorVehicleRegistration` | Motor Vehicle Registration
+`motorVehicleTitle` | Motor Vehicle Title
+`nameOfFamilyMembers` | Name of Family Members
+`nameOfFinancialInstitution` | Name of Financial Institution
+`nameOfOrganizationOfSponsor` | Name of Organization of Sponsor
+`nameOfParents` | Name of Parents
+`nonCitizenRegistrationId` | Non citizen Registration ID
+`nonpublicPersonalInformation` | Nonpublic Personal Information
+`noticeId` | Notice ID
+`notificationIdentifier` | Notification Identifier
+`nursingFacilityAddress` | Nursing facility Address
+`nursingFacilityName` | Nursing facility Name
+`offenses` | Offenses
+`parentNo` | Parent No
+`paroleNumber` | Parole Number
+`partyAffiliation` | Party Affiliation
+`passportExpirationDate` | Passport Expiration date
+`password` | Password
+`patientAccountNumber` | Patient Account Number
+`payRate` | Pay Rate
+`paymentName` | Payment Name
+`paymentNumber` | Payment Number
+`paymentOfHealthCareProvisions` | Payment of Health Care Provisions
+`personalIdentificationNumber` | Personal Identification Number
+`personallyIdentifiableFinancialInformation` | Personally Identifiable Financial Information
+`phoneExtension` | Phone Extension
+`photograph` | Photograph
+`pinBlocks` | PIN Blocks
+`placeOfBirth` | Place of Birth
+`placeOfParole` | Place of parole
+`policyGroupNumber` | Policy Group Number
+`policyId` | Policy ID
+`policyNumber` | Policy Number
+`accountNumber` | Account Number
+`prisonerNumber` | Prisoner Number
+`privateSatelliteVideoCommunication` | Private Satellite Video Communication
+`procurementNo` | Procurement No
+`providerAddress` | Provider Address
+`providerMaidNumber` | Provider MAID Number
+`providerName` | Provider Name
+`providerNumber` | Provider Number
+`providerPhone` | Provider Phone
+`racialEthnicOrigin` | Racial / Ethnic origin
+`realtorName` | Realtor Name
+`realtorPhoneNumber` | Realtor Phone Number
+`religiousAndPhilosophicalBeliefs` | Religious and Philosophical beliefs
+`retinaAndIrisPatterns` | Retina and Iris Patterns
+`schoolBuildingName` | School Building Name
+`schoolCode` | School Code
+`schoolCountyCode` | School County Code
+`schoolDistrict` | School District
+`schoolDistrictCode` | School District Code
+`schoolName` | School Name
+`screeningNumber` | Screening Number
+`secondLastName` | Second Last Name
+`securityCode` | Security Code
+`serviceCode` | Service Code
+`sexualOrientation` | Sexual orientation
+`snapOrTanfCaseNumber` | SNAP or TANF case number
+`socialSecurityNumber` | Social Security Number
+`soldPropertyDescription` | Sold Property Description
+`ssaVerificationIdentifier` | SSA Verification Identifier
+`state` | State
+`stateIdentificationNumber` | State Identification Number
+`stateTaxData` | State Tax data
+`studentIdentificationNumber` | Student Identification Number
+`subscriberIdentificationNumber` | Subscriber Identification Number
+`tanfCaseNumber` | TANF Case Number
+`targetSystemApplicationId` | Target System Application ID
+`targetSystemIndividualId` | Target System Individual ID
+`taxIdentificationNumber` | Tax Identification Number
+`telephoneConversations` | Telephone Conversations
+`telephoneListing` | Telephone Listing
+`thirdPersonContact` | Third Person Contact
+`thirdPersonPhone` | Third Person Phone
+`tradeUnionMembership` | Trade-union membership
+`transactionData` | Transaction Data
+`tribeName` | Tribe Name
+`tribeState` | Tribe State
+`ufiNumber` | UFI Number
+`unearnedIncome` | Unearned Income
+`userHintAnswer` | User Hint Answer
+`userHintQuestion` | User Hint Question
+`userIdentityOfTheCommunityPartner` | User Identity of the Community Partner
+`userLogonId` | User Logon ID
+`usernameIdentifier` | Username identifier
+`vehicleInformation` | Vehicle Information
+`vendorPhoneNumber` | Vendor Phone Number
+`veteranClaimNumber` | Veteran Claim Number
+`voicePrints` | Voice Prints
+`voterIdNumber` | Voter ID number
+`wage` | Wage
+`webApplicationNumber` | Web Application Number
+`wiredCommunication` | Wired Communication
+`zipExtension` | ZIP Extension
