@@ -10,7 +10,7 @@ before_install:
 script: node --max-old-space-size=4096 compile.js -b $TRAVIS_BRANCH
 before_script:
 - mkdir dist
-- yarn danger ci
+- node ./node_modules/danger/distribution/commands/danger-ci.js
 cache:
   npm: false
 before_deploy:
