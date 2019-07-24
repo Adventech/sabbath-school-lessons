@@ -10,6 +10,7 @@ before_install:
 script: node --max-old-space-size=4096 compile.js -b $TRAVIS_BRANCH
 before_script:
 - mkdir dist
+- npx danger ci
 cache:
   npm: false
 before_deploy:
