@@ -6,7 +6,7 @@
   "dependencies": {
     "adventech-bible-tools": "git+https://github.com/Adventech/bible-tools.git",
     "async": "^2.6.1",
-    "axios": "^0.18.0",
+    "axios": ">=0.18.0",
     "change-case": "^3.0.2",
     "cheerio": "^1.0.0-rc.2",
     "columnify": "^1.5.4",
