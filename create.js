@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 var argv = require("optimist")
   .usage("Create the file structure for a quarter in given language.\n" +
-  "Usage: $0 -s [string] -l [string] -q [string] -c [num] -t [string] -d [string] -h [string] -u [bool] -i [bool] -y [hex] -z [hex]")
+    "Usage: $0 -s [string] -l [string] -q [string] -c [num] -t [string] -d [string] -h [string] -u [bool] -i [bool] -y [hex] -z [hex]")
   .alias({"s":"start-date", "l": "language", "q": "quarter", "c": "count", "t": "title", "d": "description", "h": "human-date", "u": "teacher-comments", "i": "inside-story", "k": "lesson-cover", "y": "color-primary", "z": "color-dark" })
   .describe({
     "s": "Start date in DD/MM/YYYY format. Ex: 25/01/2016",
@@ -22,12 +22,12 @@ var argv = require("optimist")
   .argv;
 
 var fs     =  require("fs-extra"),
-    moment =  require("moment");
+  moment =  require("moment");
 
 var SRC_PATH = "src/",
-    QUARTERLY_COVER = "images/quarterly_cover.png",
-    LESSON_COVER = "images/lesson_cover.png",
-    DATE_FORMAT = "DD/MM/YYYY";
+  QUARTERLY_COVER = "images/quarterly_cover.png",
+  LESSON_COVER = "images/lesson_cover.png",
+  DATE_FORMAT = "DD/MM/YYYY";
 
 var LOCALE_VARS = {
 
@@ -234,7 +234,7 @@ function createLanguageFolder(quarterlyLanguage){
 function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
-      start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
+    start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
 
   console.log("Creating file structure for new quarterly. Please do not abort execution");
 

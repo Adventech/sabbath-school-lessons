@@ -35,7 +35,7 @@ Invite class members to share experiences when they felt that, in a marked way, 
 
 The young man replied, “150  dollars.”
 
-The business owner pulled out his wallet, gave him USD$150, and  told him to get out and never come back.
+The business owner pulled out his wallet, gave him USD150, and  told him to get out and never come back.
 
 As soon as the young man left, the shipping clerk came out to the docks, looked around, and then asked the owner, “Have you seen the UPS (United Parcel Service) driver? I asked him to wait here for me!”3 We need to pray that God will open to us His perspective on the situations around us. We especially need to be careful to avoid being judgmental about the people we meet.
 
@@ -53,7 +53,7 @@ Church members who can be categorized as “sponge” givers feel obligated to g
 
 Anthony Rossi was a poor immigrant from Sicily who accepted Jesus as his personal Savior. While in church one morning, he prayed, “Lord, if You give me an idea for a business, I will be faithful to give back to Your work a portion of everything I make.” That morning, “Fresh-squeezed orange juice” popped into his head. Rossi became a prominent Christian businessman who founded the Tropicana Company. He kept his promise to God and gave not just 10 percent of his income but 50 percent of his income to God’s work for 60 years!5
 
-**Illustration**: The Institute of International Finance (IIF) put out a troubling report that global debt hit a record high of USD$247 trillion in the first quarter of 2018.6  This represents an increase of USD$32 trillion from the first quarter of 2017. The figure includes households, governments, financial and nonfinancial corporations.7
+**Illustration**: The Institute of International Finance (IIF) put out a troubling report that global debt hit a record high of USD247 trillion in the first quarter of 2018.6  This represents an increase of USD32 trillion from the first quarter of 2017. The figure includes households, governments, financial and nonfinancial corporations.7
 
 Some people spiral into such huge debt that getting free of it seems   an impossible goal to achieve. Many countries have bankruptcy laws   that are designed to protect citizens who are unable to meet their financial obligations. These laws allow the debt-ridden to have a fresh start. However, there are usually severe consequences for those who choose  the protection of bankruptcy.
 
