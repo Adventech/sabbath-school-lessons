@@ -115,7 +115,7 @@ dafür.”* (Ernst Reinhard)
 -   Im Lichte dieser Aussagen: Wo liegt die Verantwortung des Einzelnen
     und wo nicht?
 -   Wie kann (soll) man gegen Missstände auftreten?
-    -   Sind Wort und Tat hier gleich viel wert? Begründet eure Ansicht
+    -   Sind Wort und Tat hier gleich viel wert? Begründet eure Ansicht!
 
 **DIENSTAG**
 
@@ -151,27 +151,64 @@ Meurer)
 
 **MITTWOCH**
 
-**Text**
+**Text: Hesekiel 34,2-4.7-16**
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+<u>Fragen zum Text:</u>
 
-**Text**
+-   Wen hat Hesekiel mit den Hirten gemeint?
+    -   Welche Aufgaben hätten diese Hirten gehabt und wie haben sie
+        darin versagt?
+    -   Wie sollte angesichts dieser Missstände Gottes Lösung aussehen?
+-   Was meint Gott damit, wenn er (V.16) das “Fette und Starke”
+    austilgen will?
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+<u>Fragen zur Botschaft:</u>
+
+**ZITAT:** *“Es gibt viel gutes Rindvieh aber wenige gute Hirten.”*
+(Sigbert Latzel)
+
+-   Was zeichnet einen guten Hirten eurer Meinung nach aus?
+-   Wir sitzen ja nicht an den Schalthebeln der Macht. In wiefern können
+    (sollen) wir dann gute Hirten sein?
+    -   Welchen “kleinen Herden” stehen wir vor?
+
+**ZITAT:** *“Es bricht der Wolf in deine Hürde ein, und die Hirten
+streiten um eine Handvoll Wolle sich.”* (Heinrich von Kleist)
+
+-   Wenn wir in diesem Bild die Gemeinde (also uns) als Hirten sehen und
+    als Schafe die Hilfsbedürftigen um uns herum: Inwiefern träfe diese
+    Aussage dann zu?
+    -   Was ist die Wolle, um die wir uns in der Gemeinde sinnlos
+        streiten, statt unserer sozialen Aufgabe gerecht zu werden?
+
+**ZITAT:** *“Pech: Schwarze Schafe werden meist auch noch
+angeschwärzt.”* (Gerhard Uhlenbruck)
+
+**ZITAT:** *“Nur die schwarzen Schafe werden in der Öffentlichkeit
+geschoren.”* (Joachim Panten)
+
+**ZITAT:** *“Warum hält der gute Hirte nie ein schwarzes Schaf in den
+Armen?”* (Irene Bento)
+
+-   Jesus hält schwarze Schafe nicht nur in seinen Armen, er sucht
+    **gerade sie**, und er trägt sie heim. Uns fällt das weitaus
+    schwerer. Was sind für dich unter den Hilfsbedürftigen, denen du
+    begegnest die “schwarzen Schafe”?
+
+**DONNERSTAG**
+
+**Text: Jesaja 1,15-23**
+
+*Jesaja prangert hier jene schlimmen Zustände an, die wir in der Lektion
+dieser Woche schon mehrfach kennengelernt haben. Insofern bietet dieser
+Abschnitt nichts mehr wirklich Neues.*
+
+<u>Fragen zur Botschaft:</u>
+
+-   Es ist wohl legitim zu sagen, dass wir solche schlimmen Dinge, wie
+    sie in den Texten dieser Woche dargestellt wurden, nicht tun, allein
+    schon deshalb, weil es uns an Macht und Mitteln dazu fehlt. Wie
+    können uns - zusammenfassend - diese Texte trotzdem ansprechen?
 
 III: Dienst und Mission
 -----------------------
