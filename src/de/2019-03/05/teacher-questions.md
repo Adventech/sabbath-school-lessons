@@ -117,16 +117,39 @@ dafür.”* (Ernst Reinhard)
 -   Wie kann (soll) man gegen Missstände auftreten?
     -   Sind Wort und Tat hier gleich viel wert? Begründet eure Ansicht
 
-**Text**
+**DIENSTAG**
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+**Texte: Micha 6,8; 2,8-11; 3,8-12**
+
+<u>Fragen zum Text:</u>
+
+-   Wie hängen “Recht üben”, “Güte lieben” und “Demut vor Gott”
+    miteinander zusammen?
+-   Welche Fehlhandlungen werden von Micha vor allem in Kapitel 3
+    angeprangert?
+    -   Angesprochen sind vor allem Führungspersonen. Inwieweit, hat
+        sich wohl deren Gebaren auf ihre Untertanen ausgewirkt?
+
+<u>Fragen zur Botschaft:</u>
+
+**ZITAT:** *“Korruption: Alles läuft wie geschmiert.”* (Oliver Tietze)
+
+-   Wie kann sich Korruption äußern?
+    -   In welcher Weise führt sie zu Benachteiligung und Unterdrückung
+        bestimmter Schichten?
+
+**ZITAT:** *“Korruption wird von den meisten Menschen negativ gewertet,
+weil selten jemand zu ihnen kommt, der sie bestechen will.”* (Willy
+Meurer)
+
+**ZITAT:** *“Nieder mit der Korruption! Oder ich will meinen Anteil….”*
+(Kalenderspruch)
+
+-   Auf welche Art und Weise können auch “normale Menschen”, also
+    solche, die weder Macht haben noch reich sind, **als solche wie
+    wir**, ebenfalls korrumpierbar sein?
+
+**MITTWOCH**
 
 **Text**
 
