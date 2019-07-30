@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   02/08/2019
 ---
 
-Titel der Lektion
-=================
+Der Ruf der Propheten
+=====================
 
 I: Gemeinschaft
 ---------------
@@ -55,7 +55,7 @@ Wittlin)
         -   Inwieweit sind (so wie damals Israel) heute wir als Christen
             zumindest mitverantwortlich?
 
-**SONNTAG**
+### Der wiederkehrende Ruf nach Gerechtigkeit
 
 **Text: 1.Samuel 8,10-18**
 
@@ -86,7 +86,7 @@ und verpassen damit, das Naheliegende zu tun.”* (Paul Schibler)
 
 -   Was wäre das Naheliegende?
 
-**MONTAG**
+### Amos
 
 **Texte: Amos 3,9-11; 4,1-2; 5,10-15; 8,4-6**
 
@@ -117,7 +117,7 @@ dafür.”* (Ernst Reinhard)
 -   Wie kann (soll) man gegen Missstände auftreten?
     -   Sind Wort und Tat hier gleich viel wert? Begründet eure Ansicht!
 
-**DIENSTAG**
+### Micha
 
 **Texte: Micha 6,8; 2,8-11; 3,8-12**
 
@@ -149,7 +149,7 @@ Meurer)
     solche, die weder Macht haben noch reich sind, **als solche wie
     wir**, ebenfalls korrumpierbar sein?
 
-**MITTWOCH**
+### Hesekiel
 
 **Text: Hesekiel 34,2-4.7-16**
 
@@ -195,7 +195,7 @@ Armen?”* (Irene Bento)
     schwerer. Was sind für dich unter den Hilfsbedürftigen, denen du
     begegnest die “schwarzen Schafe”?
 
-**DONNERSTAG**
+### Jesaja
 
 **Text: Jesaja 1,15-23**
 
