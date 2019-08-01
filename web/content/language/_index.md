@@ -133,4 +133,7 @@ languages:
   - native: Slovenčina
     en: Slovak
     code: sk
+  - native: Íslenska
+    en: Icelandic
+    code: is
 ---

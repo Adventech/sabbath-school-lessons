@@ -399,3 +399,12 @@ title = "Sabbath School"
 	current = "Aktuálna lekcia"
 	archive = "Archív lekcie"
 	lang = "🇸🇰 Slovenčina"
+
+[params.is]
+	title = "Biblíulexíur"
+	back = "Farðu til baka"
+	all = "Allar kennslustundir"
+	todaysLesson = "Lærdómurinn í dag"
+	current = "Núverandi kennslustund"
+	archive = "Lexíu skjalasafn"
+	lang = "🇮🇸 Íslenska"

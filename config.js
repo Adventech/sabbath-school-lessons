@@ -102,6 +102,10 @@ var BIBLE_PARSER_CONFIG = {
     "alkitab"
   ],
 
+  "is": [
+    "biblian"
+  ],
+
   "ko": [
     "krv"
   ],
