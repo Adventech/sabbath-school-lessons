@@ -54,6 +54,10 @@ Wittlin)
         Ungerechtigkeit in der Welt?
         -   Inwieweit sind (so wie damals Israel) heute wir als Christen
             zumindest mitverantwortlich?
+-   Was würdest du als die häufigste Mahnung der alten biblischen
+    Propheten bezeichnen?
+-   Welche Sünden hältst du für die gravierendsten, von denen in der
+    Bibel berichtet wird?
 
 ### Der wiederkehrende Ruf nach Gerechtigkeit
 
@@ -61,6 +65,8 @@ Wittlin)
 
 <u>Fragen zum Text:</u>
 
+-   Die Warnung Samuels an das Volk enthält einige Punkte, die Angst
+    machen könnten. Welche nimmst du am bedrohlichsten wahr?
 -   Warum, glaubt ihr, wollten die Israeliten unbedingt einen König?
 -   Wovor warnt Gott in Bezug auf den König das Volk? Was würde der
     König tun?
@@ -85,10 +91,23 @@ missbrauchen zu wollen..”* (Ullrich Erckenbrecht)
 und verpassen damit, das Naheliegende zu tun.”* (Paul Schibler)
 
 -   Was wäre das Naheliegende?
+-   Inwiefern geht es uns heute in einer Demokratie nicht anders als den
+    Leuten damals in einer Monarchie? Welche gravierenden Unterschiede
+    (insbes. Vorteile) wiederum gibt es in einer Demokratie?
+-   Die von Gott beabsichtigte Staatsform war das Richteramt eines
+    Propheten. Warum wählte Gott wohl dieses? Welche Vorteile hat es?
+    Welche Nachteile?
+    -   Würdest du dich heute für einen Staat entscheiden, der sich auf
+        eine solche (richterliche) Staatsform gründet und theokratisch
+        geführt wird? Begründe!
+-   Auf das „Reich Gottes“ in unserer Kirche bezogen: Wo mögen wir heute
+    manchmal gerne „wie die anderen Völker“ sein – bezogen auf andere
+    Kirchen? (Was beneiden wir evtl. an anderen Konfessionen? Was halten
+    wir bei uns für besonders herausragend?)
 
 ### Amos
 
-**Texte: Amos 3,9-11; 4,1-2; 5,10-15; 8,4-6**
+**Texte: Amos 3,9-11; Amos 4,1-2; Amos 5,10-15; Amos 8,4-6**
 
 <u>Fragen zum Text:</u>
 
@@ -96,6 +115,15 @@ und verpassen damit, das Naheliegende zu tun.”* (Paul Schibler)
     gewisse Teile des Volkes vor?
     -   Welche Schichten der israelitischen Gesellschaft waren wohl an
         diesen “Verbrechen gegen die Menschlichkeit” beteiligt?
+-   Welche Sünden waren zu Amos‘ Zeit besonders präsent? Waren diese
+    nicht auch zu allen anderen Zeiten gegeben? Hast du den Eindruck,
+    dass sich die „Mode“ der Sünde über die Zeit ändert, also in einem
+    Jahrzehnt bspw. eher Unzucht und in einem anderen eher Geldgier und
+    Raub die Rangliste anführen?
+-   Micha 5,13: Wann mag es auch bei uns eine Zeit zum Schweigen geben?
+    Wann muss Sünde deutlich beim Namen genannt werden?
+-   Micha 5,15: Wie schafft man es, das Böse zu hassen – dabei aber den
+    Sünder nicht ebenso zu verachten?
 
 <u>Fragen zur Botschaft:</u>
 
@@ -117,18 +145,38 @@ dafür.”* (Ernst Reinhard)
 -   Wie kann (soll) man gegen Missstände auftreten?
     -   Sind Wort und Tat hier gleich viel wert? Begründet eure Ansicht!
 
+**Text: Amos 7,14-15**
+
+-   Amos ist nicht der einzige biblische Prophet, der sich für das Amt
+    des Propheten als unqualifiziert bezeichnet. Welche Propheten sahen
+    das auch so? Welche Eigenschaften mögen Gott dennoch bewogen haben,
+    diese Person(en) auszuwählen?
+-   Was mag der Grund dafür gewesen sein, dass Gott sich fast nie dafür
+    entschied, Könige, Hohepriester oder andere einflussreiche Männer zu
+    Propheten zu machen? Welche Vorteile mag eine einfache(re) Herkunft
+    bieten? Welche Vorteile (und Gefahren) hätte eine höhere Stellung?
+
 ### Micha
 
-**Texte: Micha 6,8; 2,8-11; 3,8-12**
+**Texte: Micha 6,8; Micha 2,8-11; Micha 3,8-12**
 
 <u>Fragen zum Text:</u>
 
+-   Micha 6,8: Würdest du die „Hauptsumme“ der biblischen Lehre
+    zusammenfassen, welche Aspekte wären enthalten? Ist Michas Ausspruch
+    vollständig genug?
 -   Wie hängen “Recht üben”, “Güte lieben” und “Demut vor Gott”
     miteinander zusammen?
 -   Welche Fehlhandlungen werden von Micha vor allem in Kapitel 3
     angeprangert?
     -   Angesprochen sind vor allem Führungspersonen. Inwieweit, hat
         sich wohl deren Gebaren auf ihre Untertanen ausgewirkt?
+-   Micha 3,11: Wie kann es sein, dass das Volk sich in Sicherheit und
+    Gott auf seiner Seite wähnt, während es so schlimm um es steht? Wie
+    kann es zu einer solchen Täuschung kommen? Wie können wir heute
+    verhindern, unter eine ähnliche Täuschung zu geraten (vgl. Offb.
+    3,14-22)?
+-   Wann und wie hat sich das Gerichtsurteil Michas erfüllt (v.12)?
 
 <u>Fragen zur Botschaft:</u>
 
@@ -150,6 +198,17 @@ Meurer)
     wir**, ebenfalls korrumpierbar sein?
 
 ### Hesekiel
+
+**Text: Hesekiel 16,49**
+
+-   Wie erklärst du dir, dass hier keine sexuellen Vergehen aufgelistet
+    werden? Wiegt die Vernachlässigung der Bedürftigen schwerer? Sind
+    Wirtschaftsverbrechen vor Gott gravierender als wir selbst sie vllt.
+    einschätzen mögen? Begründe!
+-   Inwiefern machen wir uns heute evtl. derselben Sünden schuldig? Wie
+    können wir hierin aufmerksamer werden? Wie darauf achten, die
+    richtige (göttliche) Wertigkeit verschiedener Sünden zu sehen und
+    für uns anzunehmen?
 
 **Text: Hesekiel 34,2-4.7-16**
 
@@ -209,6 +268,16 @@ Abschnitt nichts mehr wirklich Neues.*
     sie in den Texten dieser Woche dargestellt wurden, nicht tun, allein
     schon deshalb, weil es uns an Macht und Mitteln dazu fehlt. Wie
     können uns - zusammenfassend - diese Texte trotzdem ansprechen?
+
+**Text: Jesaja 5,7-8**
+
+-   Wie würde Jesajas Gesellschaftskritik wohl heute aussehen? Welche
+    Sünden sind deines Erachtens die dramatischsten? Wie kannst du
+    dagegen vorgehen?
+-   Inwieweit stehen wir als Gemeinde Gottes an der Stelle der alten
+    Propheten und müssen als Mahner auftreten? Inwieweit müssen wir uns
+    vllt. auch zurückhalten, schweigen und beten? Woher wissen wir, wann
+    welche Reaktion ratsam und geistlich richtig ist?
 
 III: Dienst und Mission
 -----------------------
