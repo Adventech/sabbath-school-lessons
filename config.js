@@ -68,7 +68,8 @@ var BIBLE_PARSER_CONFIG = {
 
   "lt": [
     "lit",
-    "ltb"
+    "ltb",
+    "lbd-eku"
   ],
 
   "hi": ["hhbd"],
