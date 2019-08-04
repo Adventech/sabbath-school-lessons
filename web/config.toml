@@ -408,3 +408,12 @@ title = "Sabbath School"
 	current = "Núverandi kennslustund"
 	archive = "Lexíu skjalasafn"
 	lang = "🇮🇸 Íslenska"
+
+[params.hy]
+	title = "Շաբաթօրյա Դպրոցի Համար"
+	back = "Վերադառնալ"
+	all = "Բոլոր դասերը"
+	todaysLesson = "Այսօրվա դասը"
+	current = "Ընթացիկ դաս"
+	archive = "Դասի արխիվ"
+	lang = "🇦🇲 Հայերեն"

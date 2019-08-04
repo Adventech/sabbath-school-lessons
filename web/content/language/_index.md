@@ -136,4 +136,7 @@ languages:
   - native: Íslenska
     en: Icelandic
     code: is
+  - native: Հայերեն
+    en: Armenian
+    code: hy
 ---

@@ -89,6 +89,10 @@ var BIBLE_PARSER_CONFIG = {
     "mb1975"
   ],
 
+  "hy": [
+    "m43"
+  ],
+
   "ja": [
     "kougo-yaku",
     "jlb"
