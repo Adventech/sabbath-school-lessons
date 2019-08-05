@@ -50,7 +50,8 @@ var SOURCE_DIR = "src/",
         "tr": "🇹🇷",
         "uk": "🇺🇦",
         "vi": "🇻🇳",
-        "zh": "🇨🇳"
+        "zh": "🇨🇳",
+        "zu": "🇿🇦"
     },
     SOURCE_EXTENSION = "md",
     SOURCE_EXTENSION_BIBLE = "bible",

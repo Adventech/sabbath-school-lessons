@@ -139,4 +139,7 @@ languages:
   - native: Հայերեն
     en: Armenian
     code: hy
+  - native: IsiZulu
+    en: Zulu
+    code: zu
 ---

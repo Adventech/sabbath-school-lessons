@@ -217,6 +217,9 @@ var BIBLE_PARSER_CONFIG = {
 
   "vi": [
     "bpt"
+  ],
+  "zu": [
+    "zul59"
   ]
 };
 

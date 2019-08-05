@@ -417,3 +417,12 @@ title = "Sabbath School"
 	current = "Ընթացիկ դաս"
 	archive = "Դասի արխիվ"
 	lang = "🇦🇲 Հայերեն"
+
+[params.zu]
+	title = "Sesikole Sesabatha"
+	back = "Emuva"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamuhla"
+	current = "Isifundo samanje"
+	archive = "Isigcini sesifundo"
+	lang = "🇿🇦 IsiZulu"
