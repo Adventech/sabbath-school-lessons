@@ -426,3 +426,12 @@ title = "Sabbath School"
 	current = "Isifundo samanje"
 	archive = "Isigcini sesifundo"
 	lang = "🇿🇦 IsiZulu"
+
+[params.xh]
+	title = "Sesabatha Sabantu"
+	back = "Buyela"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamhlanje"
+	current = "Isifundo sangoku"
+	archive = "Indawo yokufunda"
+	lang = "🇿🇦 IsiXhosa"

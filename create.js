@@ -79,6 +79,7 @@ var LOCALE_VARS = {
     "ja": "日課",
     "zh": "每日课程",
     "vi": "Bài",
+    "xh": "Isifundo",
     "zu": "Isifundo"
   },
 
@@ -130,7 +131,8 @@ var LOCALE_VARS = {
     "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
     "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
     "vi": "### <center>Chúng tôi đang làm việc trên bài học này.</center>\n<center>Xin vui lòng trở lại sau.</center>",
-    "zu": "### <center>Sisebenza kulesi sifundo.</center>\n<center>Sicela uzame futhi emuva kwesikhathi.</center>",
+    "xh": "### <center>Sisebenza kulesi sifundo.</center>\n<center>Sicela uzame futhi emuva kwesikhathi.</center>",
+    "zu": "### <center>Sisebenza kwesi sifundo.</center>\n<center>Nceda zama kwakhona.</center>"
   },
 
   "teacher_comments": {
@@ -179,6 +181,7 @@ var LOCALE_VARS = {
     "ja": "Teacher Comments",
     "zh": "Teacher Comments",
     "vi": "Teacher Comments",
+    "xh": "Teacher Comments",
     "zu": "Teacher Comments"
   },
 
@@ -228,6 +231,7 @@ var LOCALE_VARS = {
     "ja": "Inside Story",
     "zh": "Inside Story",
     "vi": "Inside Story",
+    "xh": "Inside Story",
     "zu": "Inside Story"
   }
 };

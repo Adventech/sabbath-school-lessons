@@ -142,4 +142,7 @@ languages:
   - native: IsiZulu
     en: Zulu
     code: zu
+  - native: IsiXhosa
+    en: Xhosa
+    code: xh
 ---

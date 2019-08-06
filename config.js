@@ -218,6 +218,10 @@ var BIBLE_PARSER_CONFIG = {
   "vi": [
     "bpt"
   ],
+  "xh": [
+    "xho75",
+    "xho96"
+  ],
   "zu": [
     "zul59"
   ]
