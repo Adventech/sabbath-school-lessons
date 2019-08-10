@@ -18,10 +18,12 @@ var SOURCE_DIR = "src/",
         "fj": "🇫🇯",
         "fr": "🇫🇷",
         "it": "🇮🇹",
+        "is": "🇮🇸",
         "lt": "🇱🇹",
         "he": "🇮🇱",
         "hr": "🇭🇷",
         "hu": "🇭🇺",
+        "hy": "🇦🇲",
         "in": "🇮🇩",
         "ka": "🇬🇪",
         "ko": "🇰🇷",
@@ -48,7 +50,9 @@ var SOURCE_DIR = "src/",
         "tr": "🇹🇷",
         "uk": "🇺🇦",
         "vi": "🇻🇳",
-        "zh": "🇨🇳"
+        "xh": "🇿🇦",
+        "zh": "🇨🇳",
+        "zu": "🇿🇦"
     },
     SOURCE_EXTENSION = "md",
     SOURCE_EXTENSION_BIBLE = "bible",
@@ -118,7 +122,7 @@ var scanAndReturnIfWeekIsComplete = function(weeksDir, week){
 
 var summaryMatrixToShortMd = function(summaryMatrix){
     var lessons = [];
-    var output = "#### Summary\n\n";
+    var output = "#### Current summary of lessons for " + getQuarterlyPrefix() + "\n\n";
     output += "##### " + getQuarterlyPrefix() + "\n\n";
 
 

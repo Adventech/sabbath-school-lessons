@@ -67,7 +67,9 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "lt": [
-    "lit"
+    "lit",
+    "ltb",
+    "lbd-eku"
   ],
 
   "hi": ["hhbd"],
@@ -87,6 +89,10 @@ var BIBLE_PARSER_CONFIG = {
     "mb1975"
   ],
 
+  "hy": [
+    "m43"
+  ],
+
   "ja": [
     "kougo-yaku",
     "jlb"
@@ -99,6 +105,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "in": [
     "alkitab"
+  ],
+
+  "is": [
+    "biblian"
   ],
 
   "ko": [
@@ -185,6 +195,13 @@ var BIBLE_PARSER_CONFIG = {
     "ang-biblia"
   ],
 
+  "tl-hil": [
+    {
+      lang: "hil",
+      version: "hil82"
+    }
+  ],
+
   "tr": [
     "kitab"
   ],
@@ -200,6 +217,13 @@ var BIBLE_PARSER_CONFIG = {
 
   "vi": [
     "bpt"
+  ],
+  "xh": [
+    "xho75",
+    "xho96"
+  ],
+  "zu": [
+    "zul59"
   ]
 };
 

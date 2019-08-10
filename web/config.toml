@@ -399,3 +399,39 @@ title = "Sabbath School"
 	current = "Aktuálna lekcia"
 	archive = "Archív lekcie"
 	lang = "🇸🇰 Slovenčina"
+
+[params.is]
+	title = "Biblíulexíur"
+	back = "Farðu til baka"
+	all = "Allar kennslustundir"
+	todaysLesson = "Lærdómurinn í dag"
+	current = "Núverandi kennslustund"
+	archive = "Lexíu skjalasafn"
+	lang = "🇮🇸 Íslenska"
+
+[params.hy]
+	title = "Շաբաթօրյա Դպրոցի Համար"
+	back = "Վերադառնալ"
+	all = "Բոլոր դասերը"
+	todaysLesson = "Այսօրվա դասը"
+	current = "Ընթացիկ դաս"
+	archive = "Դասի արխիվ"
+	lang = "🇦🇲 Հայերեն"
+
+[params.zu]
+	title = "Sesikole Sesabatha"
+	back = "Emuva"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamuhla"
+	current = "Isifundo samanje"
+	archive = "Isigcini sesifundo"
+	lang = "🇿🇦 IsiZulu"
+
+[params.xh]
+	title = "Sesabatha Sabantu"
+	back = "Buyela"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamhlanje"
+	current = "Isifundo sangoku"
+	archive = "Indawo yokufunda"
+	lang = "🇿🇦 IsiXhosa"

@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  31/05/2018
+date:  31/05/2019
 ---
 
 #### Nyttårsønske

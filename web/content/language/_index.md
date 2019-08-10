@@ -133,4 +133,16 @@ languages:
   - native: Slovenčina
     en: Slovak
     code: sk
+  - native: Íslenska
+    en: Icelandic
+    code: is
+  - native: Հայերեն
+    en: Armenian
+    code: hy
+  - native: IsiZulu
+    en: Zulu
+    code: zu
+  - native: IsiXhosa
+    en: Xhosa
+    code: xh
 ---

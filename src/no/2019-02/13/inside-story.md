@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  28/06/2018
+date:  28/06/2019
 ---
 
 #### Trettende sabbat – Trette misjonærer
