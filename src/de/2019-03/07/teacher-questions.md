@@ -29,7 +29,7 @@ II: Wir studieren die Bibel
     Was fasziniert dich am meisten? Was verwundert dich am stärksten?
     Weshalb?
 
-### **Sonntag: Marias Lied**
+### **Marias Lied**
 
 **Lukas 1,46-55**
 
@@ -41,7 +41,7 @@ II: Wir studieren die Bibel
     Gemeinde der Fall? Wie attraktiv ist das Reich Jesu dann überhaupt
     für die Mächtigen dieser Welt?
 
-### **Montag: Das Programm von Jesus**
+### **Das Programm von Jesus**
 
 **Lukas 4,16-21; 7,18-23**
 
@@ -67,7 +67,7 @@ II: Wir studieren die Bibel
     Zentrum unserer Verkündigung steht? Ist das überhaupt möglich bei
     der Vielzahl der Themen, die wir ansprechen müssen?
 
-### **Dienstag: Jesus heilt**
+### **Jesus heilt**
 
 **Matthäus 12,15-21**
 
@@ -81,7 +81,7 @@ II: Wir studieren die Bibel
     Glaube stärker auf die biblische Wahrheit gegründet ist als auf
     (subjektive) Erfahrung? Begründe!
 
-### **Mittwoch: Tempelreinigung**
+### **Tempelreinigung**
 
 **Matthäus 21,12-16**
 
@@ -101,7 +101,7 @@ II: Wir studieren die Bibel
     überhaupt dafür geben, dass Jesus eine Gemeinde „reinigen“ wollen
     würde?
 
-### **Donnerstag: Das Kreuz Christi**
+### **Das Kreuz Christi**
 
 **Jesaja 53,3-6**
 
