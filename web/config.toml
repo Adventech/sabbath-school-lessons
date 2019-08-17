@@ -435,3 +435,12 @@ title = "Sabbath School"
 	current = "Isifundo sangoku"
 	archive = "Indawo yokufunda"
 	lang = "🇿🇦 IsiXhosa"
+
+[params.hi]
+	title = "बाइबिल अध्ययन गाइड"
+	back = "वापस"
+	all = "सभी पाठ"
+	todaysLesson = "आज का पाठ"
+	current = "वर्तमान पाठ"
+	archive = "पाठ संग्रह"
+	lang = "🇮🇳 Hindi"

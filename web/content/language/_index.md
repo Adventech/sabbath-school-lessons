@@ -145,4 +145,7 @@ languages:
   - native: IsiXhosa
     en: Xhosa
     code: xh
+  - native: हिन्दी
+    en: Hindi
+    code: hi
 ---
