@@ -21,6 +21,6 @@ date:   02/08/2019
 만나고 성령과 십자가의 보혈로 거듭나고 교회의 지도자가 되기 위해 준비하는
 기간으로 삼아야 할 것입니다. 교회는 훈련받은 재림군인들이 필요합니다.
 
-<p align="right">한국연합회 군봉사부장 <b>이기호</b></p>
+<p style="text-align:right">한국연합회 군봉사부장 <b>이기호</b></p>
 
 <img src="https://user-images.githubusercontent.com/10376491/61597044-baf9ef80-abd0-11e9-8d4a-c6cd96e81329.jpg" style="max-width:100%" />

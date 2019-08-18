@@ -27,7 +27,7 @@ date:   10/05/2019
 회에 대한 깊은 감사의 표현을 담은 ‘우정 증서(Friendship Certification)’를 수여해주었습니다.
 이 모든 것을 인하여 하나님께 영광을 돌립니다.
 
-<p align="right">마닐라한인국제교회 담임목사 <strong>류재성</strong></p>
+<p style="text-align:right">마닐라한인국제교회 담임목사 <strong>류재성</strong></p>
 
 <img src="https://user-images.githubusercontent.com/10376491/56854866-ff902a80-6902-11e9-8f91-e2a5238be7f6.jpg" style="max-width:100%" />
 

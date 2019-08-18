@@ -35,4 +35,4 @@ date:   22/02/2019
 더한 축복이 없다고 생각합니다. 언니를 통해 저희 가정을 이끌어 주신 하나님께 감사를
 드립니다.
 
-<p align="right">동중한합회 마천교회 집사 <strong>홍순미</strong></p>
+<p style="text-align:right">동중한합회 마천교회 집사 <strong>홍순미</strong></p>
