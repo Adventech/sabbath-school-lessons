@@ -30,7 +30,7 @@ date:   26/07/2019
 이 궤도에 안착하고 있어 하나님께 감사드립니다. 그리고 이 사역을 통해 자연스러운 결실
 이 맺히기를 기도하고 있습니다.
 
-<p align="right">호남합회 익산중앙교회 담임목사 <b>정춘열</b></p>
+<p style="text-align:right">호남합회 익산중앙교회 담임목사 <b>정춘열</b></p>
 
 <p></p>
 <img src="https://user-images.githubusercontent.com/10376491/61496035-9a3b5b00-a980-11e9-9b6e-f9c74c6d69a3.jpg" style="max-width:100%" />
