@@ -36,7 +36,7 @@ date:   18/01/2019
 아티자의 남편인 나자로는 목회학을 전공하고 현재 남풀라에서 목회자로 봉사하
 고 있습니다.
 
-<p align="right">제공 : 대총회 세계 선교부</p>
+<p style="text-align:right">제공 : 대총회 세계 선교부</p>
 
 <img src="https://user-images.githubusercontent.com/10376491/51078908-e41a5000-1682-11e9-8233-8f00060d59e6.jpg" style="max-width:100%" />
 
