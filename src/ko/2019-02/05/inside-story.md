@@ -54,7 +54,7 @@ date:   03/05/2019
 자. 믿음을 행동으로 옮기고 인생의 계획을 주님께 맡기면 그분께서 채워주시는
 인생의 참된 행복과 평화를 분명히 체험하게 될 것이다.
 
-<p align="right">서중한합회 공릉동교회 집사 <strong>김인선</strong></p>
+<p style="text-align:right">서중한합회 공릉동교회 집사 <strong>김인선</strong></p>
 
 <p></p>
 <img src="https://user-images.githubusercontent.com/10376491/56853656-7ec83300-68f0-11e9-85ff-e5603fd62786.jpg" style="max-width:100%" />

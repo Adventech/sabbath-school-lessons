@@ -47,7 +47,7 @@ date:   04/01/2019
 질을 아낌없이 투자하고 힘쓰는 마석교회 성도들이 자랑스럽습니다. 주님 다시 오
 실 때까지 마석교회 소그룹활동을 통한 영혼구원사업은 계속될 것입니다.
 
-<p align="right">동중한합회 마석교회 여선교회장 집사 <strong>박흥덕</strong></p>
+<p style="text-align:right">동중한합회 마석교회 여선교회장 집사 <strong>박흥덕</strong></p>
 
 <img src="https://user-images.githubusercontent.com/10376491/50731428-d2d4bf00-1129-11e9-9a8e-67fc03ace52d.jpg" style="max-width:100%" />
 <p></p>
