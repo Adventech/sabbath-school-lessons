@@ -43,14 +43,36 @@ fürsorglich dienende Gemeinde (Sonntag).**
         -   Warum denkt ihr stellt gerade dieser Aspekt eine
             Herausforderung für die Gemeinde dar und bedarf einer
             derartig ausführlichen Erläuterung?
+    -   Füreinander da sein - wie sieht das idealerweise in der Familie,
+        der Gemeinde oder der Gesellschaft aus?
+    -   Seit Jahren werden in Österreich Versuche unternommen den Aspekt
+        der Gemeinschaft im Rahmen des Gottesdienstes und insbesondere
+        des Sabbatschule zu fördern. Woran denkt ihr könnte das im
+        allgemeinen liegen?
+    -   Wie zufrieden seit ihr mit der Gemeinschaft in unserer Gemeinde?
+
+**Die ersten Christen waren eine Gemeinschaft, in der jeder seine Gaben
+auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
+(Montag & Mittwoch).**
+
+-   Wir lesen Römer 12,1-2.6-18.21:
+    -   In welchem Zusammenhang stehen Opfer und Gottesdienst (Verse
+        1+2) und die Gnadengaben (Verse 6-18)?
+    -   Wozu sollen und die Gnadengaben befähigen?
+    -   Welche Auswirkungen haben die von Paulus beschriebenen Gaben und
+        Charakterzüge der Gläubigen auf die Gemeinde und die Umwelt?
+    -   Rundgespräch: (Vorbereitung)
+    -   ...
 -   Fragen zur Botschaft:
     -   ...
     -   ...
     -   ...
 
-**Text**
+**Die ersten Christen waren eine Gemeinschaft, in der man sich für
+Chancengleichheit einsetzte und sich deshalb gegenseitig unterstützte
+(Dienstag).**
 
--   Fragen zum Text:
+-   Wir lesen 2. Korinther 10,13-15:
     -   ...
     -   ...
     -   ...
@@ -59,20 +81,10 @@ fürsorglich dienende Gemeinde (Sonntag).**
     -   ...
     -   ...
 
-**Text**
+**Die ersten Christen waren eine Gemeinschaft, in der jeder seinen
+Glauben ernst nahm und ihn deshalb praktisch lebte (Donnerstag).**
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-**Text**
-
--   Fragen zum Text:
+-   Wir lesen Jakobus 3,13-18:
     -   ...
     -   ...
     -   ...
