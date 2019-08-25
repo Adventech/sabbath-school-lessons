@@ -61,14 +61,15 @@ auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
     -   Wozu sollen uns die Gnadengaben befähigen?
     -   Welche Auswirkungen haben die von Paulus beschriebenen Gaben und
         Charakterzüge der Gläubigen auf die Gemeinde und die Umwelt?
-    -   Rundgespräch: (Vorbereitung: Lade dir die Datei “2019-3V-09
-        Gaben und Charkater.pdf” herunter. Drucke sie je nach
-        Gruppengröße 3-5 mal aus. Zerschneide die DIN A4 Blätter
-        entsprechend der darauf vermerkten Gaben und Charakterzüge, so
-        dass eine Gaben/Charaktereigenschaften auf einem kleinen Zettel
-        steht. Verteile die einzelnen Blätter in der Mitte des
-        Stuhlkreises | Einen Gegenstand, den man während des
-        Rundgespräches weitergeben kann.)
+    -   Rundgespräch: (Vorbereitung: Lade dir die [folgende
+        Datei](Medium:2019-3V-09_Gaben_und_Charakter.pdf "wikilink")
+        herunter. Drucke sie je nach Gruppengröße 3-5 mal aus.
+        Zerschneide die DIN A4 Blätter entsprechend der darauf
+        vermerkten Gaben und Charakterzüge, so dass eine
+        Gaben/Charaktereigenschaften auf einem kleinen Zettel steht.
+        Verteile die einzelnen Blätter in der Mitte des Stuhlkreises |
+        Einen Gegenstand, den man während des Rundgespräches weitergeben
+        kann.)
         -   Ihr seht hir die Gaben und Charakterzüge, die Paulus in dem
             gelesenen Abschnitt erwähnt. Ich bitte euch, dass jeder 2-4
             dieser Gaben und Charakterzüge auswählt, die er in sich
