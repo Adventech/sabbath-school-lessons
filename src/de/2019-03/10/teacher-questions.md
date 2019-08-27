@@ -17,9 +17,13 @@ I: Gemeinschaft
 II: Wir studieren die Bibel
 ---------------------------
 
-### Ziel unseres Studiums: Wir lernen von dem Dienst der ersten Christen für unseren Dienst.
+### Ziel unseres Studiums:
 
-**Tagesthemen der Studienanleitung: Die ersten Christen waren ...**
+Wir lernen von dem Dienst der ersten Christen für unseren Dienst.
+
+### Themen der Studienanleitung:
+
+Die ersten Christen waren ...
 
 -   ... eine auf Gemeinschaft ausgerichtete und fürsorglich dienende
     Gemeinde (Sonntag).
@@ -32,24 +36,35 @@ II: Wir studieren die Bibel
 -   ... eine Gemeinschaft, in der jeder seinen Glauben ernst nahm und
     ihn deshalb praktisch lebte (Donnerstag).
 
+### Studium und Anwendung
+
 **Die ersten Christen waren, eine auf Gemeinschaft ausgerichtete und
 fürsorglich dienende Gemeinde (Sonntag).**
 
 -   Wir lesen Apostelgeschichte 2,42-47
     -   Welcher der vier Aspekte des Gemeindelebens der ersten Gemeinde
         (Lehre, Gemeinschaft, Brotbrechen und Gebet) wird in diesen
-        Versen am ausführlichsten erläutert?
+        Versen am ausführlichsten erläutert? (Gemeinschaft)
         -   Worin liegt der besondere Wert dieses Aspektes?
         -   Warum denkt ihr stellt gerade dieser Aspekt eine
             Herausforderung für die Gemeinde dar und bedarf einer
             derartig ausführlichen Erläuterung?
-    -   Füreinander da sein - wie sieht das idealerweise in der Familie,
-        der Gemeinde oder der Gesellschaft aus?
-    -   Seit Jahren werden in Österreich Versuche unternommen den Aspekt
-        der Gemeinschaft im Rahmen des Gottesdienstes und insbesondere
-        des Sabbatschule zu fördern. Woran denkt ihr könnte das im
-        allgemeinen liegen?
-    -   Wie zufrieden seit ihr mit der Gemeinschaft in unserer Gemeinde?
+    -   Füreinander da sein - wie sieht das idealerweise ...
+        -   ... in der Familie aus?
+        -   ... in der Gemeinde aus
+        -   ... in der Gesellschaft aus?
+    -   Seit Jahren werden in Österreich Versuche unternommen, den
+        Aspekt der Gemeinschaft im Rahmen des Gottesdienstes und
+        insbesondere des Sabbatschule zu fördern.
+        -   Wie zufrieden seit ihr mit der Gemeinschaft in unserer
+            Gemeinde?
+        -   Welche Bedeutung kommt die Gemeinschaft unter
+            Gemeindegliedern zu?
+        -   Woran denkt ihr könnte es liegen, dass wir uns mit
+            Gemeinschaft, über persönliche Freundschaften hinaus,
+            manchmal so schwer tun? (z.B. Beachtung beim Potluck:
+            jedesmal sitzen die gleichen Gruppen/Cliquen zusammen. |
+            Berichte von eigenen Beobachtungen)
 
 **Die ersten Christen waren eine Gemeinschaft, in der jeder seine Gaben
 auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
@@ -66,16 +81,16 @@ auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
         herunter. Drucke sie je nach Gruppengröße 3-5 mal aus.
         Zerschneide die DIN A4 Blätter entsprechend der darauf
         vermerkten Gaben und Charakterzüge, so dass eine
-        Gaben/Charaktereigenschaften auf einem kleinen Zettel steht.
+        Gabe/Charaktereigenschaft auf einem kleinen Zettel steht.
         Verteile die einzelnen Blätter in der Mitte des Stuhlkreises |
-        Einen Gegenstand, den man während des Rundgespräches weitergeben
-        kann.)
+        Lege einen Gegenstand, den man während des Rundgespräches
+        weitergeben kann, dazu.)
         -   Ihr seht hir die Gaben und Charakterzüge, die Paulus in dem
             gelesenen Abschnitt erwähnt. Ich bitte euch, dass jeder 2-4
             dieser Gaben und Charakterzüge auswählt, die er in sich
-            selbst sieht und euch dann wieder zu setzen.
+            selbst sieht und euch dann wieder setzt.
         -   (Nachdem sich alle wieder gesetzt haben): Ich möchte euch
-            nun einladen, in einem Rundgespräch zu bereichten, welche
+            nun einladen, in einem Rundgespräch zu berichten, welche
             Gaben ihr gewählt habt und welche Erfahrungen ihr bei der
             Anwendung dieser Gaben gemacht habt, um das Gute für euren
             Nächsten zu verwirklichen.
@@ -85,12 +100,13 @@ auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
                 sein - er hat dann das Recht, zu entscheiden, ob der
                 Gegenstand links herum oder rechts herum durch den Kreis
                 wandert.
-    -   Auf der einen Seite setzen wir unsere Gaben ganz
-        selbstverständlich ein. Auf der anderen Seite fällt es uns gar
-        nicht so leicht, sie zu benennen; woran mag das liegen?
-    -   Welche Atmosphäre müsste in unserer Gemeinde vorherrschen, damit
-        sich jeder von uns traut, über seine Gaben zu reden und sie
-        einzusetzen?
+    -   weiterführende Anwendungsfragen:
+        -   Auf der einen Seite setzen wir unsere Gaben ganz
+            selbstverständlich ein. Auf der anderen Seite fällt es uns
+            gar nicht so leicht, sie zu benennen; woran mag das liegen?
+        -   Welche Atmosphäre müsste in unserer Gemeinde vorherrschen,
+            damit sich jeder von uns traut, über seine Gaben zu reden
+            und sie einzusetzen?
 
 **Die ersten Christen waren eine Gemeinschaft, in der man sich für
 Chancengleichheit einsetzte und sich deshalb gegenseitig unterstützte
@@ -101,8 +117,9 @@ Chancengleichheit einsetzte und sich deshalb gegenseitig unterstützte
     -   In welchem Zusammenhang stehen die “Prüfung der Liebe” (2Kor
         8,8) und Freigibigkeit im finanziellen Breich?
     -   Ständig flattern uns Spendenaufrufe ins Haus - und das nicht nur
-        von ADRA und anderen STA-Projekten. Welche Strategien habt ihr
-        im Umgang mit der allgegenwärtigen Not entwickelt?
+        von ADRA und anderen STA-Projekten. Welche
+        (Spenden|Abwehr|Engagement-)Strategien habt ihr im Umgang mit
+        der allgegenwärtigen Not entwickelt?
     -   Paulus wünscht sich, dass “Gleichheit entstehe” (ELB); ist das
         nicht ein utopischer Wunsch?
         -   Welche Ziele habt ihr euch bei euren Spenden(projekten)
@@ -114,14 +131,18 @@ Glauben ernst nahm und ihn deshalb praktisch lebte (Donnerstag).**
 -   Wir lesen Jakobus 3,13-18 (mehrmals nach verschiedene
     Übersetzungen/Übertragungen):
     -   Jakobus vergleicht die teuflisch/dämonische Weisheit mit der von
-        oben kommenden Weisheit. Was fällt euch auf?
+        oben kommenden Weisheit. Was fällt euch beim lesen dieses
+        Abschnittes auf? (Abschnitt evtl. mehrfach mit verschiedenen
+        Übersetzungen lesen)
     -   Warum ist es so wichtig, Egoismus (V 14+16 Eigennutz) zu
-        überwinden und “gute Werke” (näher beschrieben in den Versen
-        17+18 entgegenzusetzen?
+        überwinden und stattdessen “gute Werke” (näher beschrieben in
+        den Versen 17+18) zu tun?
     -   Ich habe manchmal den Eindruck es fällt uns leichter über die
         Rechtfertigung (durch Gnade/durch Christus) zu reden als über
-        unseren Auftrag, Gutes zu tun. Warum ist das so und was müssten
-        wir tun, damit “gute Werke” wieder einen guten Ruf bekommen?
+        unseren Auftrag, Gutes zu tun.
+        -   Woran könnte das eurer Meinung nach liegen?
+        -   Was müssten wir tun, damit “gute Werke” wieder einen guten
+            Ruf bekommen?
 
 **Voschlag für ein Gespräch**
 -----------------------------
@@ -135,9 +156,9 @@ dienen!”* Wie denkt ihr über diesen Satz?
 ### Gliederung für das Gespräch:
 
 1.  Die ersten Christen nahmen ihren Glauben ernst und lebten ihn
-    praktisch (Fragen zum Donnerstag wie oben)
+    praktisch (Fragen zum Donnerstag wie oben).
 2.  Die ersten Christen lebten und dienten Gabenorientiert (Fragen zum
-    Montag und Mittwoch wie oben)
+    Montag und Mittwoch wie oben).
 
 ### Abschluss, Zusammenfassung und Überleitung zu Teil III:
 
