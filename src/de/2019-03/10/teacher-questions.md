@@ -95,11 +95,11 @@ auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
             Anwendung dieser Gaben gemacht habt, um das Gute für euren
             Nächsten zu verwirklichen.
             -   Lade die Gruppe ein, dass einer den Gegenstand, den du
-                für das Rundgespräch mitgebracht hast und den nun in die
-                Mitte des Kreises legst, zu nehmen und der erste zu
-                sein - er hat dann das Recht, zu entscheiden, ob der
-                Gegenstand links herum oder rechts herum durch den Kreis
-                wandert.
+                für das Rundgespräch mitgebracht und in die Mitte des
+                Kreises gelegt hast, zu nehmen und damit das
+                Rundgespräch zu eröffnen; außerdem hat er das Recht, zu
+                entscheiden, ob der Gegenstand links oder rechts herum
+                durch den Kreis wandert.
     -   weiterführende Anwendungsfragen:
         -   Auf der einen Seite setzen wir unsere Gaben ganz
             selbstverständlich ein. Auf der anderen Seite fällt es uns
