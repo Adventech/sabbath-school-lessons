@@ -33,9 +33,9 @@ II: Wir studieren die Bibel
     -   Welche Nöte dieser Menschen bewegen euch besonders?
     -   Welchen Stellenwert hat DIENEN für einen Christen?
 
-### SONNTAG – Einführung zur Bergpredigt
+### Einführung zur Bergpredigt
 
-**Math 5,12-16**
+**Matthäus 5,12-16**
 
 -   Fragen zum Text:
     -   Wieso sollen wir uns bei Problemen freuen können? (Vers 12)
@@ -51,9 +51,9 @@ II: Wir studieren die Bibel
     -   Wie können wir sicherstellen, dass Gott dabei Ehre bekommt?
         (Vers 16)
 
-### MONTAG – Böses durch Gutes überwinden
+### Böses durch Gutes überwinden
 
-**Math 5,42-45**
+**Matthäus 5,42-45**
 
 -   Fragen zum Text:
     -   In Vers 42 geht die Initiative vom Bedürftigen aus. Soll ich ihn
@@ -62,7 +62,7 @@ II: Wir studieren die Bibel
     -   Wie handelt Gott mit uns?
     -   Wie bekommen wir genug Kraft für Vers 44?
 
-**Röm 12,20-21**
+**Römer 12,20-21**
 
 -   Fragen zum Text:
     -   „Böses mit Gutem“ überwinden - Wäre es auch in Ordnung mit
@@ -73,9 +73,9 @@ II: Wir studieren die Bibel
     -   Wo gibt es hier Grenzen? (z.B. ausgenutzt werden,…)
     -   Wie soll/kann ich Unrecht/Missbrauch aufzeigen?
 
-### DIENSTAG – Der barmherzige Samariter
+### Der barmherzige Samariter
 
-**Luk 10,27-37**
+**Lukas 10,27-37**
 
 -   Fragen zum Text:
     -   Vers 27:Welche Einstellung/welcher Beweggrund ist dabei wichtig?
@@ -93,18 +93,18 @@ II: Wir studieren die Bibel
         bewerten?
     -   Was geschieht mit uns, wenn wir wegsehen?
 
-### MITTWOCH – Der reiche Mann und Lazarus
+### Der reiche Mann und Lazarus
 
-**Luk 16,20.31**
+**Lukas 16,20.31**
 
 -   Fragen zum Text:
-    -   Luk 16,20 Der Reiche duldete den Armen Lazarus vor seinem Tor.
+    -   Lukas 16,20 Der Reiche duldete den Armen Lazarus vor seinem Tor.
         Ist das nicht schon etwas Positives? War er, mit seinen
         Möglichkeiten für mehr Hilfe verantwortlich?
-    -   Luk 16,31 Wie wichtig sind Zeichen und Wunder für unseren
+    -   Lukas 16,31 Wie wichtig sind Zeichen und Wunder für unseren
         Glauben?
 
-**Luk 12,21**
+**Lukas 12,21**
 
 -   Fragen zum Text:
     -   Welche Schätze sind hier gemeint? Was kann beispielsweise dazu
@@ -112,20 +112,20 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Was ist alles Habsucht? Wie kann der Nicht-Vermögende habsüchtig
         sein?
-    -   .Was ist die Wirkung von Habsucht? Wer nimmt da aller Schaden?
+    -   Was ist die Wirkung von Habsucht? Wer nimmt da aller Schaden?
     -   Wie kann Hab-SUCHT überwunden werden? Was empfiehlt Jesus?
 
-### DONNERSTAG – Die Geringsten der Brüder
+### Die Geringsten der Brüder
 
-**Mat 25,31-46 und Mat 25,31-46**
+**Matthäus 25,31-46 und Matthäus 25,31-46**
 
 -   Fragen zum Text:
-    -   Was sagt uns V 37? Welche (Charakter-)Einstellung ist hier
+    -   Was sagt uns V. 37? Welche (Charakter-)Einstellung ist hier
         Voraussetzung?
     -   Was als Entscheidungsgrundlage (Vers 40) für Annahme durch Jesus
         beim Gericht gezeigt?
         -   Auch berechnende Gründe für Hilfe (sich den Himmel verdienen
-            wollen) - siehe Mat 7,22.23 – wären ja falsch!
+            wollen) - siehe Matthäus 7,22.23 – wären ja falsch!
 -   Fragen zur Botschaft:
     -   Wodurch wird ein echter Christ erkennbar?
     -   Wie können wir uns da gegenseitig unterstützen?
