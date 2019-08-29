@@ -39,7 +39,7 @@ Jemput ahli kelas untuk berkongsi pengalaman ketika mereka merasakan bahawa, den
 
 Tuhan mengetahui keadaan sebenar setiap orang di dunia. Sebagai perbandingan, lihat  kisah tentang seorang pemilik perniagaan yang telah mempelajari pengajaran berharga mengenai campur tangan ketika dia “dalam posisi tidak tahu." Pemilik ini memutuskan untuk melakukan lawatan ke perniagaannya untuk melihat bagaimana keadaan berjalan dan sejauhmana pekerjanya bekerja dengan cekap. Dia pergi ke dermaga dan melihat seorang lelaki muda bersandar di dinding, nampaknya tidak melakukan apa-apa. Pemilik itu berjalan mendekati lelaki muda itu dan berkata, "Anak, berapa gaji kamu sehari?" Lelaki muda itu menjawab, "150 dolar."
  
-Pemilik perniagaan itu mengeluarkan dompetnya, memberikan $ 150 USD kepada pemuda itu, dan memberitahunya untuk pergi dan tidak akan kembali lagi.
+Pemilik perniagaan itu mengeluarkan dompetnya, memberikan 150 USD kepada pemuda itu, dan memberitahunya untuk pergi dan tidak akan kembali lagi.
 
 Sebaik sahaja anak muda itu pergi, petugas perkapalan keluar ke dok, memandang sekeliling, dan kemudian bertanya kepada pemilik perniagaan itu, "Adakah kamu  melihat pemandu UPS (United Parcel Service) itu? Saya memintanya untuk menunggu saya di sini! " 
 
@@ -63,7 +63,7 @@ Anthony Rossi adalah seorang pendatang miskin dari Sicily yang menerima Yesus se
  
 **Ilustrasi**
 
-Institut Kewangan Antarabangsa (IIF) mengeluarkan laporan yang menyedihkan bahawa hutang global mencecah rekod tertinggi $ US247 trilion pada suku pertama 2018. Ini mewakili peningkatan sebanyak $ 32 trilion dari suku pertama tahun 2017. Angka itu termasuk isi rumah , kerajaan, syarikat kewangan dan bukan kewangan. 
+Institut Kewangan Antarabangsa (IIF) mengeluarkan laporan yang menyedihkan bahawa hutang global mencecah rekod tertinggi US247 trilion pada suku pertama 2018. Ini mewakili peningkatan sebanyak 32 trilion dari suku pertama tahun 2017. Angka itu termasuk isi rumah , kerajaan, syarikat kewangan dan bukan kewangan. 
 
 Sesetengah orang berputar-putar dalam hutang yang besar itu sehingga untuk bebas daripadanya kelihatan matlamat yang mustahil untuk dicapai. Banyak negara mempunyai undang-undang kebankrapan yang direka untuk melindungi rakyat yang tidak dapat memenuhi kewajiban kewangan mereka. Undang-undang ini membenarkan peminjam yang tersepit oleh hutang yang banyak untuk bermula semula. Walau bagaimanapun, terdapat kesan yang teruk bagi mereka yang memilih perlindungan  kebankrapan.
 
