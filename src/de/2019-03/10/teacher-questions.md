@@ -45,20 +45,73 @@ Gutes zu tun.
 
 **Wir studieren Römer 8,18-23**
 
+-   In diesem Textabschnitt kommen viele Dinge vor, die auf den ersten
+    Blick nicht so ganz klar sind. Sammelt alle Unklarheiten und
+    formuliert Fragen. Versucht die Fragen dann aus dem Text oder dem
+    engeren Kontext (Verse 14-39) heraus selbst zu beantworten. (Das
+    braucht natürlich etwas Zeit aber es lohnt sich, sich in den Text
+    hineinzuvertiefen.)
 -   Welche Rolle spielen die Kinder Gottes (LUT) für die Gesamtheit der
     Schöpfung?
 -   Was zeichnet die Kinder Gottes aus?
 -   In welchem Zusammenhang stehen das gegenwärtige Leiden und die zu
     erwartende Herrlichkeit?
+-   
 
-Anwendungsfragen
+<u>Anwendungsfragen</u>
 
 -   Wodurch kommt eurer Meinung nach das “seufzen” (V 23) der Schöpfung
     zum Ausdruck?
--   
+-   Welchen Beitrag können wir (z.B. als Verbraucher) schon heute
+    leisten, das Los der Schöpfung erträglicher zu machen.
+-   Inwieweit hat mein Einsatz für die Schöpfung Auswirkung ...
+    -   auf meine Mitmenschen
+    -   ... auf mich selbst?
+    -   ... auf unsere Erlösung/die Erlösung der Welt?
 
-**Voschlag für ein Gespräch**
------------------------------
+**Wir studieren Matthäus 9,35-38; Lukas 19,41-44; Johannes 11,32-48 -**
+Ihr könnt alle Texte Reihum lesen lassen und die Fragen für die
+Gesamtheit der Texte stellen, oder euch an jeden einzelnen Text mit den
+untenstehenden Fragen heranarbeiten.
+
+-   Mit welchen physischen, psychischen und seelischen Leiden musste
+    Jesus sich auseinandersetzen? (zieht auch andere Begebenheiten der
+    Evangelien heran.)
+-   Welche Folgen hatte das Mitgefühl Jesu?
+    -   In Jesus selbst?
+    -   In seiner Umgebung?
+-   Wie reagierten die Menschen auf das Mitgefühl Jesu?
+-   In welche Zusammenhänge stellt Jesus Leid und Erlösung.
+
+<u>Anwendungsfragen</u>
+
+-   Leid, Sünde und Verlorenheit haben auch auf uns eine starke
+    Auswirkung. Wie reagierst du auf diese Vorkommnisse/Zustände ...
+    -   ... wenn sie dich selbst betreffen?
+    -   ... wenn du sie bei anderen beobachtest?
+-   Was muss passieren dass aus Mitgefühl Hilfe und Engagement wird?
+
+**Wir studieren Epheser 2,1-10**
+
+-   In welchem Zusammenhang stehen die Gnade Gottes und ein erneuertes
+    Leben.
+-   Welche Richtung schlägt ein durch Christus erneuertes Leben ein?
+-   Was charakterisiert ein “totes Leben” (vgl. Vers 1+5)?
+-   Was charakterisiert ein “lebendiges Leben” (vgl. Vers 5)?
+
+<u>Anwendungsfragen</u>
+
+-   Jonathan Duffy, der Verfasser der Studienanleitung, formuliert auf
+    Seite 120 der Standartausgabe: “Während wir immer noch mit
+    Versuchungen des Egoismus und der Gier kämpfen, bietet uns die
+    selbstaufopfernde Liebe und demütige Gnade Gottes eine neue Art von
+    Leben und Liebe, die unser Leben verändern werden.”
+    -   Was verändert unser Leben?
+    -   Wohin wird unser Leben verändert?
+    -   Welchen Traum von Leben hegst du?
+
+**Vorschlag für ein Gespräch**
+------------------------------
 
 ### Einstiegsfrage:
 
