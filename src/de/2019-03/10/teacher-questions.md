@@ -3,176 +3,157 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   06/09/2019
 ---
 
-Dienen in der neutestamentlichen Gemeinde
-=========================================
+Das Evangelium leben
+====================
 
 I: Gemeinschaft
 ---------------
 
--   Für welche Gaben/Talente in unserer Gruppe seid ihr dankbar?
--   Paulus ermutigt uns “nach geistlichen Gaben zu eifern” (1Kor
-    14,1.12) Mit welchen Gaben möchtet ihr gerne der Gemeinde und den
-    Menschen dienen? Wir nehmen uns Zeit zum Gebet füreinander.
+-   Wie hat euch Gott im Dienst für andere Menschen in der vergangenen
+    Woche gebraucht?
+-   -   Im Rückblick auf die Herausforderungen der vergangenen Tage: Wo
+    wünscht ihr euch Gebetsunterstützung?
+-   Was hat euren Glauben gestärkt oder herausgefordert?
+-   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
+    Unterstützung?
+-   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
 II: Wir studieren die Bibel
 ---------------------------
 
 ### Ziel unseres Studiums:
 
-Wir lernen von dem Dienst der ersten Christen für unseren Dienst.
+Wenn wir die Liebe Gottes als Gnadengeschenk annehmen werden wir
+befähigt unseren Mitmenschen uneigennützig zu lieben und ihnen praktisch
+Gutes zu tun.
 
 ### Themen der Studienanleitung:
 
-Die ersten Christen waren ...
-
--   ... eine auf Gemeinschaft ausgerichtete und fürsorglich dienende
-    Gemeinde (Sonntag).
--   ... eine Gemeinschaft, in der jeder seine Gaben für seinen Nächsten
-    einsetzte (Montag).
--   ... eine Gemeinschaft, in der man sich für Chancengleichheit
-    einsetzte und sich deshalb gegenseitig unterstützte (Dienstag).
--   ... eine Gemeinschaft, in der jeder seine Gaben zur Ehre Gottes und
-    zum Segen für die Menschen einsetzte (Mittwoch).
--   ... eine Gemeinschaft, in der jeder seinen Glauben ernst nahm und
-    ihn deshalb praktisch lebte (Donnerstag).
+-   Gott schenkt der gesamten Schöpfung Leben durch Jesus Christus
+    (Sonntag)
+-   Die Tragödie der Sünde fordert uns zu Mitgefühl und praktischer
+    Hilfe heraus (Montag)
+-   Das erlösende Opfer Christi macht es uns möglich, im Dienst für
+    unsere Mitmenschen Opfer zu bringen (Dienstag)
+-   Jeder ist Teil der großen Menschheitsfamilie, vereint in der
+    Schöpfung, Sünde, Verlorenheit, Erlösung und Dienst (Mittwoch)
+-   Das ewige Evangelium fordert uns heraus, uns für Gerechtigkeit
+    einzusetzen, Gutes zu tun und den Wert des Menschen
+    wiederherzustellen. (Donnerstag)
 
 ### Studium und Anwendung
 
-**Die ersten Christen waren, eine auf Gemeinschaft ausgerichtete und
-fürsorglich dienende Gemeinde (Sonntag).**
+**Wir studieren Römer 8,18-23**
 
--   Wir lesen Apostelgeschichte 2,42-47
-    -   Welcher der vier Aspekte des Gemeindelebens der ersten Gemeinde
-        (Lehre, Gemeinschaft, Brotbrechen und Gebet) wird in diesen
-        Versen am ausführlichsten erläutert? (Gemeinschaft)
-        -   Worin liegt der besondere Wert dieses Aspektes?
-        -   Warum denkt ihr stellt gerade dieser Aspekt eine
-            Herausforderung für die Gemeinde dar und bedarf einer
-            derartig ausführlichen Erläuterung?
-    -   Füreinander da sein - wie sieht das idealerweise ...
-        -   ... in der Familie aus?
-        -   ... in der Gemeinde aus
-        -   ... in der Gesellschaft aus?
-    -   Seit Jahren werden in Österreich Versuche unternommen, den
-        Aspekt der Gemeinschaft im Rahmen des Gottesdienstes und
-        insbesondere des Sabbatschule zu fördern.
-        -   Wie zufrieden seit ihr mit der Gemeinschaft in unserer
-            Gemeinde?
-        -   Welche Bedeutung kommt die Gemeinschaft unter
-            Gemeindegliedern zu?
-        -   Woran denkt ihr könnte es liegen, dass wir uns mit
-            Gemeinschaft, über persönliche Freundschaften hinaus,
-            manchmal so schwer tun? (z.B. Beachtung beim Potluck:
-            jedesmal sitzen die gleichen Gruppen/Cliquen zusammen. |
-            Berichte von eigenen Beobachtungen)
+-   In diesem Textabschnitt kommen viele Dinge vor, die auf den ersten
+    Blick nicht so ganz klar sind. Sammelt alle Unklarheiten und
+    formuliert Fragen. Versucht die Fragen dann aus dem Text oder dem
+    engeren Kontext (Verse 14-39) heraus selbst zu beantworten. (Das
+    braucht natürlich etwas Zeit, aber es lohnt sich, den Text einmal
+    tiefer zu erforschen.)
+-   Welche Rolle spielen die Kinder Gottes (LUT) für die Gesamtheit der
+    Schöpfung?
+-   Was zeichnet die Kinder Gottes aus?
+-   In welchem Zusammenhang stehen das gegenwärtige Leiden und die zu
+    erwartende Herrlichkeit?
 
-**Die ersten Christen waren eine Gemeinschaft, in der jeder seine Gaben
-auslebte, um das Gute, Wohlgefällige und Vollkommene zu verwirklichen
-(Montag & Mittwoch).**
+<u>Anwendungsfragen</u>
 
--   Wir lesen Römer 12,1-2.6-18.21:
-    -   In welchem Zusammenhang stehen Opfer, Gottesdienst (Verse 1+2)
-        und die Gnadengaben (Verse 6-18)?
-    -   Wozu sollen uns die Gnadengaben befähigen?
-    -   Welche Auswirkungen haben die von Paulus beschriebenen Gaben und
-        Charakterzüge der Gläubigen auf die Gemeinde und die Umwelt?
-    -   Rundgespräch: (Vorbereitung: Lade dir die [folgende
-        Datei](Medium:2019-3V-09_Gaben_und_Charakter.pdf "wikilink")
-        herunter. Drucke sie je nach Gruppengröße 3-5 mal aus.
-        Zerschneide die DIN A4 Blätter entsprechend der darauf
-        vermerkten Gaben und Charakterzüge, so dass eine
-        Gabe/Charaktereigenschaft auf einem kleinen Zettel steht.
-        Verteile die einzelnen Blätter in der Mitte des Stuhlkreises |
-        Lege einen Gegenstand, den man während des Rundgespräches
-        weitergeben kann, dazu.)
-        -   Ihr seht hir die Gaben und Charakterzüge, die Paulus in dem
-            gelesenen Abschnitt erwähnt. Ich bitte euch, dass jeder 2-4
-            dieser Gaben und Charakterzüge auswählt, die er in sich
-            selbst sieht und euch dann wieder setzt.
-        -   (Nachdem sich alle wieder gesetzt haben): Ich möchte euch
-            nun einladen, in einem Rundgespräch zu berichten, welche
-            Gaben ihr gewählt habt und welche Erfahrungen ihr bei der
-            Anwendung dieser Gaben gemacht habt, um das Gute für euren
-            Nächsten zu verwirklichen.
-            -   Lade die Gruppe ein, dass einer den Gegenstand, den du
-                für das Rundgespräch mitgebracht und in die Mitte des
-                Kreises gelegt hast, zu nehmen und damit das
-                Rundgespräch zu eröffnen; außerdem hat er das Recht, zu
-                entscheiden, ob der Gegenstand links oder rechts herum
-                durch den Kreis wandert.
-    -   weiterführende Anwendungsfragen:
-        -   Auf der einen Seite setzen wir unsere Gaben ganz
-            selbstverständlich ein. Auf der anderen Seite fällt es uns
-            gar nicht so leicht, sie zu benennen; woran mag das liegen?
-        -   Welche Atmosphäre müsste in unserer Gemeinde vorherrschen,
-            damit sich jeder von uns traut, über seine Gaben zu reden
-            und sie einzusetzen?
+-   Wodurch kommt eurer Meinung nach das “seufzen” (V 23) der Schöpfung
+    zum Ausdruck?
+-   Welchen Beitrag können wir (z.B. als Verbraucher) schon heute
+    leisten, das Los der Schöpfung erträglicher zu machen.
+-   Inwieweit hat mein Einsatz für die Schöpfung Auswirkung ...
+    -   ... auf meine Mitmenschen
+    -   ... auf mich selbst?
+    -   ... auf unsere Erlösung/die Erlösung der Welt?
 
-**Die ersten Christen waren eine Gemeinschaft, in der man sich für
-Chancengleichheit einsetzte und sich deshalb gegenseitig unterstützte
-(Dienstag).**
+**Wir studieren Matthäus 9,35-38; Lukas 19,41-44; Johannes 11,32-48 -**
+Ihr könnt alle Texte Reihum lesen lassen und die Fragen für die
+Gesamtheit der Texte stellen, oder euch an jeden einzelnen Text mit den
+untenstehenden Fragen heranarbeiten.
 
--   Wir lesen 2. Korinther 8,13-15:
-    -   Wer hat hier welchen Mangel?
-    -   In welchem Zusammenhang stehen die “Prüfung der Liebe” (2Kor
-        8,8) und Freigibigkeit im finanziellen Breich?
-    -   Ständig flattern uns Spendenaufrufe ins Haus - und das nicht nur
-        von ADRA und anderen STA-Projekten. Welche
-        (Spenden|Abwehr|Engagement-)Strategien habt ihr im Umgang mit
-        der allgegenwärtigen Not entwickelt?
-    -   Paulus wünscht sich, dass “Gleichheit entstehe” (ELB); ist das
-        nicht ein utopischer Wunsch?
-        -   Welche Ziele habt ihr euch bei euren Spenden(projekten)
-            gesteckt?
+-   Mit welchen physischen, psychischen und seelischen Leiden musste
+    Jesus sich auseinandersetzen? (zieht auch andere Begebenheiten der
+    Evangelien heran.)
+-   Welche Folgen hatte das Mitgefühl Jesu?
+    -   In Jesus selbst?
+    -   In seiner Umgebung?
+-   Wie reagierten die Menschen auf das Mitgefühl Jesu?
+-   In welche Zusammenhänge stellt Jesus Leid und Erlösung.
 
-**Die ersten Christen waren eine Gemeinschaft, in der jeder seinen
-Glauben ernst nahm und ihn deshalb praktisch lebte (Donnerstag).**
+<u>Anwendungsfragen</u>
 
--   Wir lesen Jakobus 3,13-18 (mehrmals nach verschiedene
-    Übersetzungen/Übertragungen):
-    -   Jakobus vergleicht die teuflisch/dämonische Weisheit mit der von
-        oben kommenden Weisheit. Was fällt euch beim lesen dieses
-        Abschnittes auf? (Abschnitt evtl. mehrfach mit verschiedenen
-        Übersetzungen lesen)
-    -   Warum ist es so wichtig, Egoismus (V 14+16 Eigennutz) zu
-        überwinden und stattdessen “gute Werke” (näher beschrieben in
-        den Versen 17+18) zu tun?
-    -   Ich habe manchmal den Eindruck es fällt uns leichter über die
-        Rechtfertigung (durch Gnade/durch Christus) zu reden als über
-        unseren Auftrag, Gutes zu tun.
-        -   Woran könnte das eurer Meinung nach liegen?
-        -   Was müssten wir tun, damit “gute Werke” wieder einen guten
-            Ruf bekommen?
+-   Leid, Sünde und Verlorenheit haben auch auf uns eine starke
+    Auswirkung. Wie reagierst du auf diese Vorkommnisse/Zustände ...
+    -   ... wenn sie dich selbst betreffen?
+    -   ... wenn du sie bei anderen beobachtest?
+-   Was muss passieren dass aus Mitgefühl Hilfe und Engagement wird?
 
-**Voschlag für ein Gespräch**
------------------------------
+**Wir studieren Epheser 2,1-10**
 
-### Einstiegsfrage:
+-   In welchem Zusammenhang stehen die Gnade Gottes und ein erneuertes
+    Leben.
+-   Welche Richtung schlägt ein durch Christus erneuertes Leben ein?
+-   Was charakterisiert ein “totes Leben” (vgl. Vers 1+5)?
+-   Was charakterisiert ein “lebendiges Leben” (vgl. Vers 5)?
 
-Der Österreichische Dramatiker und Intendant des Wiener Hoftheaters
-Friedrich Halm (1806-1871) formulierte einmal: *“Wer leben will, muß
-dienen!”* Wie denkt ihr über diesen Satz?
+<!-- -->
 
-### Gliederung für das Gespräch:
+-   Jonathan Duffy, der Verfasser der Studienanleitung, formuliert auf
+    Seite 120 der Standartausgabe: “Während wir immer noch mit
+    Versuchungen des Egoismus und der Gier kämpfen, bietet uns die
+    selbstaufopfernde Liebe und demütige Gnade Gottes eine neue Art von
+    Leben und Liebe, die unser Leben verändern werden.”
+    -   Was verändert unser Leben?
+    -   Wohin wird unser Leben verändert?
+    -   Welchen Traum von Leben hegt ihr?
+        -   Wie wollen wir ihn umsetzen
 
-1.  Die ersten Christen nahmen ihren Glauben ernst und lebten ihn
-    praktisch (Fragen zum Donnerstag wie oben).
-2.  Die ersten Christen lebten und dienten Gabenorientiert (Fragen zum
-    Montag und Mittwoch wie oben).
+**Wir machen uns Gedanken über unser “gemeinsames Menschsein”**
+(Studienanleitung, Standardausgabe, Seite 122)
 
-### Abschluss, Zusammenfassung und Überleitung zu Teil III:
+<u>Fragen zum Thema</u>
 
-Die ersten Christen lebten und dienten Werte- und Gabenorientiert. Dies
-kommt auch in unserem Merktexte für diese Woche zum Ausdruck: Jakobus
-1,27 vorlesen.
+-   Was haben wir als Menschen alle gemein?
+-   Welche Unterschiede können wir zwischen einzelnen Menschen(Gruppen)
+    feststellen?
+-   Weshalb fällt es uns leichter die Unterschiede zu betonen als auf
+    die Gemeinsamkeiten zu schauen?
 
-Wie sie wollen auch wir uns an biblischen Werten orientieren, die von
-Gott geschenkten Gaben annehmen und praktizieren und den Dienst an
-unseren Mitmenschen als den wahren Gottesdienst betrachten.
+<u>Anwendungsfragen</u>
 
-Das ist nicht immer leicht, aber wenn wir uns gegenseitig dabei
-unterstützen und ermutigen möglich! - Dazu wollen wir uns jetzt noch
-Zeit nehmen ... Überleitung zu Teil III.
+-   Schon den ersten Christen fiel es nicht leicht, ihr Denken und
+    Handeln von der Idee des “gemeinsamen Menschseins” prägen zu lassen.
+    Was half Ihnen schließlich, ihre falschen Lebenskonzepte zu
+    verändern?
+    -   Die Probleme haben sich bis heute nicht geändert; ja, sie
+        verschärfen sich. Die Mauern und Gräben zwischen verschiedenen
+        Menschen(Gruppen) werden wieder höher und tiefer.
+        -   Woran liegt das?
+        -   Welche Rolle sollten wir als Christen dabei spielen?
+        -   Welche biblischen Aussagen und Konzepte kennt ihr und haben
+            einen wirklichen Einfluß auf unser Denken und Handeln?
+
+**Wir studieren Offenbarung 14,6-13**
+
+-   Die dreifache Engelsbotschaft (Verse 6-11) und insbesondere die
+    erste (Verse 6+7) spielen für die Theologie und die Identität der
+    Adventgemeinde eine wichtige Rolle.
+    -   Welches Anliegen haben die verschiedenen Botschaften der drei
+        Engel?
+    -   Welche Bedeutung haben die Verse 12-13, im Konzert der drei
+        Engelsbotschaften?
+    -   Inwieweit verbindet diese dreifache Engelsbotschaft unsere
+        Wertschätzung gegenüber dem Schöpfer und seiner Geschöpfe?
+
+<u>Anwendungsfragen</u>
+
+-   Welchen Einfluß haben die Gewissheit eines aktuell stattfindenden
+    himmlischen Gerichts, die Anbetung des Gottes, der die Welt, in der
+    wir leben persönlich geschaffen hat auf unsere Einstellung und unser
+    Wirken für unseren Mitmenschen?
+-   inwieweit macht uns unser Gottesbild zu besseren Menschen?
 
 III: Dienst und Mission
 -----------------------
@@ -183,7 +164,7 @@ aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. [Hier gibt es eine Ideensammlung,
 was ihr alles tun könnt.](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")
 
-'''Arbeitshilfe “Dienst und Mission”'
+'''Arbeitshilfe “Dienst und Mission”
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
