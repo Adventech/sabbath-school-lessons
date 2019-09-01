@@ -49,14 +49,13 @@ Gutes zu tun.
     Blick nicht so ganz klar sind. Sammelt alle Unklarheiten und
     formuliert Fragen. Versucht die Fragen dann aus dem Text oder dem
     engeren Kontext (Verse 14-39) heraus selbst zu beantworten. (Das
-    braucht natürlich etwas Zeit aber es lohnt sich, sich in den Text
-    hineinzuvertiefen.)
+    braucht natürlich etwas Zeit, aber es lohnt sich, den Text einmal
+    tiefer zu erforschen.)
 -   Welche Rolle spielen die Kinder Gottes (LUT) für die Gesamtheit der
     Schöpfung?
 -   Was zeichnet die Kinder Gottes aus?
 -   In welchem Zusammenhang stehen das gegenwärtige Leiden und die zu
     erwartende Herrlichkeit?
--   
 
 <u>Anwendungsfragen</u>
 
@@ -65,7 +64,7 @@ Gutes zu tun.
 -   Welchen Beitrag können wir (z.B. als Verbraucher) schon heute
     leisten, das Los der Schöpfung erträglicher zu machen.
 -   Inwieweit hat mein Einsatz für die Schöpfung Auswirkung ...
-    -   auf meine Mitmenschen
+    -   ... auf meine Mitmenschen
     -   ... auf mich selbst?
     -   ... auf unsere Erlösung/die Erlösung der Welt?
 
@@ -99,7 +98,7 @@ untenstehenden Fragen heranarbeiten.
 -   Was charakterisiert ein “totes Leben” (vgl. Vers 1+5)?
 -   Was charakterisiert ein “lebendiges Leben” (vgl. Vers 5)?
 
-<u>Anwendungsfragen</u>
+<!-- -->
 
 -   Jonathan Duffy, der Verfasser der Studienanleitung, formuliert auf
     Seite 120 der Standartausgabe: “Während wir immer noch mit
@@ -108,24 +107,53 @@ untenstehenden Fragen heranarbeiten.
     Leben und Liebe, die unser Leben verändern werden.”
     -   Was verändert unser Leben?
     -   Wohin wird unser Leben verändert?
-    -   Welchen Traum von Leben hegst du?
+    -   Welchen Traum von Leben hegt ihr?
+        -   Wie wollen wir ihn umsetzen
 
-**Vorschlag für ein Gespräch**
-------------------------------
+**Wir machen uns Gedanken über unser “gemeinsames Menschsein”**
+(Studienanleitung, Standardausgabe, Seite 122)
 
-### Einstiegsfrage:
+<u>Fragen zum Thema</u>
 
-Der Österreichische Dramatiker und Intendant des Wiener Hoftheaters
-Friedrich Halm (1806-1871) formulierte einmal: “Wer leben will, muß
-dienen!” Wie denkt ihr über diesen Satz?
+-   Was haben wir als Menschen alle gemein?
+-   Welche Unterschiede können wir zwischen einzelnen Menschen(Gruppen)
+    feststellen?
+-   Weshalb fällt es uns leichter die Unterschiede zu betonen als auf
+    die Gemeinsamkeiten zu schauen?
 
-### Gliederung für das Gespräch:
+<u>Anwendungsfragen</u>
 
-1.  .
+-   Schon den ersten Christen fiel es nicht leicht, ihr Denken und
+    Handeln von der Idee des “gemeinsamen Menschseins” prägen zu lassen.
+    Was half Ihnen schließlich, ihre falschen Lebenskonzepte zu
+    verändern?
+    -   Die Probleme haben sich bis heute nicht geändert; ja, sie
+        verschärfen sich. Die Mauern und Gräben zwischen verschiedenen
+        Menschen(Gruppen) werden wieder höher und tiefer.
+        -   Woran liegt das?
+        -   Welche Rolle sollten wir als Christen dabei spielen?
+        -   Welche biblischen Aussagen und Konzepte kennt ihr und haben
+            einen wirklichen Einfluß auf unser Denken und Handeln?
 
-### Abschluss, Zusammenfassung und Überleitung zu Teil III:
+**Wir studieren Offenbarung 14,6-13**
 
-Überleitung zu Teil III.
+-   Die dreifache Engelsbotschaft (Verse 6-11) und insbesondere die
+    erste (Verse 6+7) spielen für die Theologie und die Identität der
+    Adventgemeinde eine wichtige Rolle.
+    -   Welches Anliegen haben die verschiedenen Botschaften der drei
+        Engel?
+    -   Welche Bedeutung haben die Verse 12-13, im Konzert der drei
+        Engelsbotschaften?
+    -   Inwieweit verbindet diese dreifache Engelsbotschaft unsere
+        Wertschätzung gegenüber dem Schöpfer und seiner Geschöpfe?
+
+<u>Anwendungsfragen</u>
+
+-   Welchen Einfluß haben die Gewissheit eines aktuell stattfindenden
+    himmlischen Gerichts, die Anbetung des Gottes, der die Welt, in der
+    wir leben persönlich geschaffen hat auf unsere Einstellung und unser
+    Wirken für unseren Mitmenschen?
+-   inwieweit macht uns unser Gottesbild zu besseren Menschen?
 
 III: Dienst und Mission
 -----------------------
