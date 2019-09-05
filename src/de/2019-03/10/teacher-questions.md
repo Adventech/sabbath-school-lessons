@@ -11,7 +11,8 @@ I: Gemeinschaft
 
 -   Wie hat euch Gott im Dienst für andere Menschen in der vergangenen
     Woche gebraucht?
--   -   Im Rückblick auf die Herausforderungen der vergangenen Tage: Wo
+-   Wofür in den vergangenen Tagen seid ihr dankbar?
+-   Im Rückblick auf die Herausforderungen der vergangenen Tage: Wo
     wünscht ihr euch Gebetsunterstützung?
 -   Was hat euren Glauben gestärkt oder herausgefordert?
 -   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
@@ -68,7 +69,7 @@ Gutes zu tun.
     -   ... auf mich selbst?
     -   ... auf unsere Erlösung/die Erlösung der Welt?
 
-**Wir studieren Matthäus 9,35-38; Lukas 19,41-44; Johannes 11,32-48 -**
+**Wir studieren Matthäus 9,35-38; Lukas 19,41-44 und Johannes 11,32-48**
 Ihr könnt alle Texte Reihum lesen lassen und die Fragen für die
 Gesamtheit der Texte stellen, oder euch an jeden einzelnen Text mit den
 untenstehenden Fragen heranarbeiten.
@@ -149,7 +150,7 @@ untenstehenden Fragen heranarbeiten.
 
 <u>Anwendungsfragen</u>
 
--   Welchen Einfluß haben die Gewissheit eines aktuell stattfindenden
+-   Welchen Einfluss haben die Gewissheit eines aktuell stattfindenden
     himmlischen Gerichts, die Anbetung des Gottes, der die Welt, in der
     wir leben persönlich geschaffen hat auf unsere Einstellung und unser
     Wirken für unseren Mitmenschen?
