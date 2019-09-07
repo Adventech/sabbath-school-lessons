@@ -29,7 +29,7 @@ date:   11/01/2019
 하나님 감사합니다! 저들이 다 한 믿음 안에 거할 수 있도록, 믿음의 결실을 보도록 인도하
 소서! 할렐루야!
 
-<p align="right">캐나다 밴쿠버한인교회 장로 <strong>김귀일</strong></p>
+<p style="text-align:right">캐나다 밴쿠버한인교회 장로 <strong>김귀일</strong></p>
 
 <img src="https://user-images.githubusercontent.com/10376491/50731432-e2ec9e80-1129-11e9-8813-7120f64c0595.jpg" style="max-width:100%" />
 
