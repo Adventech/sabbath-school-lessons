@@ -39,4 +39,4 @@ date:   13/09/2019
 
 그 킥복싱 수업을 통해 이와 같은 침례식이 다섯 번 더 있었습니다.
 
-> <p style="text-align: right">제공 : 대총회 세계선교부 제공</p>
+<p style="text-align: right">제공 : 대총회 세계선교부 제공</p>
