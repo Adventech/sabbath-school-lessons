@@ -28,8 +28,66 @@ II: Wir studieren die Bibel
 Startfragen
 -----------
 
-<a href="https://www.bibleserver.com/text/LUT/Matth%C3%A4us6,25-33" class="bibleserver extern" target="_blank">Matthäus
-6,25-33</a>
+Wer ist für dich ein Vorbild? Welche Eigenschaften müssten für dich
+Vorbilder haben?
+
+Studium und Anwendung
+---------------------
+
+Matthäus 6,25-33
+
+-   Fragen zum Text:
+    -   Was meinst du, warum war es Jesus wichtig das Thema über Sorgen
+        in der Bergpredigt zu erwähnen?
+    -   Warum erwähnt Jesus nur die Nahrung und Kleidung, über die wir
+        uns nicht sorgen sollen?
+    -   Was bedeutet für euch der Ausdruck “trachten” (Vs.33)?
+    -   Wie meint Jesus die Worte “dann wird euch das alles zufallen”?
+
+<!-- -->
+
+-   Fragen zur Botschaft:
+    -   Was lernen wir aus der Fürsorge Gottes für die Vögel und Lilien?
+    -   Welche Anzeichen deuten darauf hin, dass wir uns zu viele Sorgen
+        machen?
+    -   Was will uns Gott durch den Abschnitt über den Umgang mit
+        unseren Sorgen sagen?
+    -   Warum ist das Ausrichten der Prioritäten entscheident, dass ich
+        auch Fürsorglicher werde?
+
+Jakobus 1,5-8; Jakobus 2,15-16
+
+-   Fragen zum Text:
+    -   Was sagt mir der Zusammenhang von Jak 2,15-16 in Bezug auf dem
+        anderen Helfen?
+    -   Wie erhält jemand Weisheit?
+    -   Laut Bibeltexte, welche Bedingungen sind am Erhalten von
+        Weisheit zu “erfüllen”?
+
+<!-- -->
+
+-   Fragen zur Botschaft:
+    -   Wie können wir unsere Sensibilität für Menschen in Not bekommen
+        bzw. erhalten?
+    -   Warum ist in manchen Situtationen von Leidenden das Beten für
+        sie, die einzige Möglichkeit ihnen zu helfen?
+    -   Haben wir schon mal konkret für Weisheit gebetet, wenn es um das
+        Helfen geht? Welche Erfahrungen haben wir da gemacht?
+
+Micha 6,8
+
+-   Fragen zum Text:
+    -   Wie unterscheidet sich die Zusammenfassung in Micha 6,8 von den
+        Geboten u. Aufforderung im Neuen Testament?
+    -   Wie würdest du die Forderung Gottes mit eigenen Worten
+        beschreiben?
+
+<!-- -->
+
+-   Fragen zur Botschaft:
+    -   Wie kann das “Liebe üben” (LUT) ganz praktisch aussehen?
+
+1.Timotheus 6,17-19
 
 -   Fragen zum Text:
     -   ...
@@ -40,8 +98,7 @@ Startfragen
     -   ...
     -   ...
 
-<a href="https://www.bibleserver.com/text/LUT/Jakobus1,5-8" class="bibleserver extern" target="_blank">Jakobus
-1,5-8</a>; 2,15-16
+Matthäus 5,9; Matthäus 5,43-48
 
 -   Fragen zum Text:
     -   ...
@@ -52,32 +109,7 @@ Startfragen
     -   ...
     -   ...
 
-<a href="https://www.bibleserver.com/text/LUT/1.Timotheus6,17-19" class="bibleserver extern" target="_blank">1.Timotheus
-6,17-19</a>
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-<a href="https://www.bibleserver.com/text/LUT/Matth%C3%A4us5,9" class="bibleserver extern" target="_blank">Matthäus
-5,9</a>; 5,43-48
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-<a href="https://www.bibleserver.com/text/LUT/Jesaja58,1-10" class="bibleserver extern" target="_blank">Jesaja
-58,1-10</a>
+Jesaja 58,1-10
 
 -   Fragen zum Text:
     -   ...
