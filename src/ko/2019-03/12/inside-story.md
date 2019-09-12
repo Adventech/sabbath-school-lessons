@@ -32,4 +32,4 @@ date:   20/09/2019
 <img src="https://user-images.githubusercontent.com/10376491/64807800-9892ab80-d55b-11e9-86f9-9454b14ceae0.jpg" style="max-width: 100%" />
 
 <p></p>
-<img src="https://user-images.githubusercontent.com/10376491/64807802-9892ab80-d55b-11e9-8314-db7e38e34239.jpg" style="max-width: 100% />
+<img src="https://user-images.githubusercontent.com/10376491/64807802-9892ab80-d55b-11e9-8314-db7e38e34239.jpg" style="max-width: 100%" />
