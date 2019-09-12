@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/09/2019
 ---
 
-Titel der Lektion
-=================
+Lektion 11: Die Adventhoffnung leben
+====================================
 
 I: Gemeinschaft
 ---------------
@@ -26,6 +26,8 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
+### „Herr, wie lange noch?“
+
 **Offenbarung 6,10**
 
 -   Fragen zum Text:
@@ -36,6 +38,8 @@ II: Wir studieren die Bibel
     -   Welche Lösung gibt es für das lange Zuwarten Gottes?
     -   Wie können wir sicher sein, dass Gott seinen Zeitplan einhalten
         wird?
+
+### Eine bestimmte Art von Hoffnung
 
 **Matthäus 24,21.22.29-31**
 
@@ -62,6 +66,8 @@ II: Wir studieren die Bibel
     -   Jemand hat einmal gesagt: “Hoffnung ist Kraft aus der Zukunft
         für die Gegenwart.” Wie würdet ihr diese Definition bewerten?
 
+### Auferstehungshoffnung
+
 **1.Korinther 15,12-19**
 
 -   Fragen zum Text:
@@ -77,6 +83,8 @@ II: Wir studieren die Bibel
     -   Inwiefern gibt sie Sinn im Leben?
     -   Wie könnten wir die Idee der Auferstehung Trauernden
         nahebringen?
+
+### Gerichtshoffnung
 
 **Prediger 8,14**
 
@@ -95,6 +103,8 @@ II: Wir studieren die Bibel
     -   Wer leidet heute am meisten an Ungerechtigkeit?
     -   Wie geht ihr mit Ungerechtigkeit um, die euch angetan wird?
     -   Wie kommt am man aus der Frustration wieder heraus?
+
+### Keine Tränen und Schmerzen mehr
 
 **Offenbarung 21,1-5**
 
