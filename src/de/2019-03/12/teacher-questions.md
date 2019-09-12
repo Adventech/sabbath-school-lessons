@@ -41,16 +41,16 @@ Matthäus 6,25-33
         in der Bergpredigt zu erwähnen?
     -   Warum erwähnt Jesus nur die Nahrung und Kleidung, über die wir
         uns nicht sorgen sollen?
-    -   Was bedeutet für euch der Ausdruck “trachten” (Vs.33)?
+    -   Was bedeutet für dich der Ausdruck “trachten” (Vs.33)?
     -   Wie meint Jesus die Worte “dann wird euch das alles zufallen”?
 
 <!-- -->
 
--   Fragen zur Botschaft:
-    -   Was lernen wir aus der Fürsorge Gottes für die Vögel und Lilien?
-    -   Welche Anzeichen deuten darauf hin, dass wir uns zu viele Sorgen
-        machen?
-    -   Was will uns Gott durch den Abschnitt über den Umgang mit
+-   Fragen zur Anwendung:
+    -   Was lernst du aus der Fürsorge Gottes für die Vögel und Lilien?
+    -   Welche Anzeichen deuten darauf hin, dass du dir zu viele Sorgen
+        machst?
+    -   Was will mir Gott durch den Abschnitt über den Umgang mit
         unseren Sorgen sagen?
     -   Warum ist das Ausrichten der Prioritäten entscheident, dass ich
         auch Fürsorglicher werde?
@@ -58,21 +58,21 @@ Matthäus 6,25-33
 Jakobus 1,5-8; Jakobus 2,15-16
 
 -   Fragen zum Text:
-    -   Was sagt mir der Zusammenhang von Jak 2,15-16 in Bezug auf dem
+    -   Was sagt mir der Zusammenhang von Jak 2,15-16 in Bezug auf
         anderen Helfen?
     -   Wie erhält jemand Weisheit?
     -   Laut Bibeltexte, welche Bedingungen sind am Erhalten von
-        Weisheit zu “erfüllen”?
+        Weisheit zu erfüllen?
 
 <!-- -->
 
--   Fragen zur Botschaft:
+-   Fragen zur Anwendung:
     -   Wie können wir unsere Sensibilität für Menschen in Not bekommen
         bzw. erhalten?
     -   Warum ist in manchen Situtationen von Leidenden das Beten für
         sie, die einzige Möglichkeit ihnen zu helfen?
-    -   Haben wir schon mal konkret für Weisheit gebetet, wenn es um das
-        Helfen geht? Welche Erfahrungen haben wir da gemacht?
+    -   Hast du schon mal konkret für Weisheit gebetet, wenn es um das
+        Helfen geht? Welche Erfahrungen hast du da gemacht?
 
 Micha 6,8
 
@@ -84,41 +84,67 @@ Micha 6,8
 
 <!-- -->
 
--   Fragen zur Botschaft:
-    -   Wie kann das “Liebe üben” (LUT) ganz praktisch aussehen?
+-   Fragen zur Anwendung:
+    -   Wie kann “Liebe üben” (LUT) ganz praktisch aussehen?
 
-1.Timotheus 6,17-19
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-Matthäus 5,9; Matthäus 5,43-48
+1.Timotheus 6,17-19; 3.Mose 25,35-38; 1.Johannes 3,16-18
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wenn du das Wort “großzügig” oder “Großzügigkeit” hörst, an was
+        denkst du sofort?
+    -   Warum ist Großzügigkeit (den anderen helfen) eng verbunden mit
+        der Haltung “Gott zu fürchten”? Was hat das eine mit dem anderen
+        zu tun? (3.Mose 25,35-37)
+    -   Paulus richtet dem Timotheus eine Botschaft an die Reichen.
+        Welche geistliche Einstellung und Tat sollen sie an den Tag
+        legen?
+    -   Wie definiert Johannes die Liebe?
+    -   Wie verstehst du die Aussage: “Lasst uns mit der Tat und mit der
+        Wahrheit lieben”? (1.Joh 3,18)
 
-Jesaja 58,1-10
+<!-- -->
+
+-   Fragen zur Anwendung:
+    -   Ist es deiner Meinung nach für einen Armen oder einen Reichen
+        das Gebot in 1.Tim 6,18 zu befolgen schwerer? Warum?
+    -   Wie kann das in der Praxis ausschauen, «das Leben für die Brüder
+        zu lassen»? (1.Joh 3,16)
+    -   In Ellen G. Whites Buch “Gute Nachricht für alle” gibt es
+        folgendes Zitat: “Ein vollkommener christlicher Charakter ist
+        dann erreicht, wenn der Gläubige ständig den inneren Drang
+        verspürt, anderen zu helfen und ihnen zum Segen zu sein.” Redet
+        über dieses Zitat in eurer Gruppe. Was macht dieses Zitat mit
+        dir?
+    -   Wie kannst du in der kommenden Woche bewusst die Liebe wie Jesus
+        ausleben (zeigen)?
+
+Matthäus 5,9; Matthäus 5,43-48; 2.Korinther 5,20
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Inwiefern ist die Versöhnung mit Gott (2.Kor 5,20) eng verbunden
+        mit dem Aufruf Friedenstifter zu sein?
+
+<!-- -->
+
+-   Fragen zur Anwendung:
+    -   Wie kann deine Gemeinde als Friedensstifter nach innen und außen
+        wirken? Welche aktiven Schritte kann man unternehmen?
+    -   Wie hilft dir die goldene Regel aus Matthäus 7,12 die
+        Barmherzigkeit an andere auszuleben?
+
+Hebräer 12,12-14
+
+-   Fragen zum Text:
+    -   Wie kann man dem Frieden nachjagen? Was meint der Schreiber
+        damit?
+    -   Warum gehört dem Frieden und der Heiligung nachjagen zusammen?
+        Welche Verbindung besteht zwischen diesen beiden?
+
+<!-- -->
+
+-   Fragen zur Anwendung:
+    -   Wie kann ich in meinem Umfeld dafür sorgen, dass ich ein Vorbild
+        als Friedenstifter bin?
 
 III: Dienst und Mission
 -----------------------
