@@ -92,6 +92,7 @@ var LOCALE_VARS = {
     "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
     "el": "### <center>Εργαζόμαστε σε αυτό το μάθημα</center>\n<center>Παρακαλώ ελάτε ξανά αργότερα</center>",
     "en": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
+    "en-er": "**This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen** \n### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
     "es": "### <center>Todavía estamos trabajando en esta lección. Por favor, vuelva más tarde.</center>",
     "et": "### <center>Me tegeleme selle õppetükiga. Palun proovige hiljem uuesti.</center>",
     "fa": "### <center>ما در این درس کار می کنیم</center>\n<center>لطفا بعدا بیا</center>",
@@ -252,59 +253,61 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
     start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
 
+  var quarterlyLanguageFolder = quarterlyLanguage.substring(0,2); 
+
   console.log("Creating file structure for new quarterly. Please do not abort execution");
 
-  fs.mkdirSync(SRC_PATH + quarterlyLanguage + "/" + quarterlyId);
+  fs.mkdirSync(SRC_PATH + quarterlyLanguageFolder + "/" + quarterlyId);
 
   for (var i = 1; i <= quarterlyLessonAmount; i++){
-    fs.mkdirSync(SRC_PATH + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i));
+    fs.mkdirSync(SRC_PATH + quarterlyLanguageFolder + "/" + quarterlyId + "/" + pad(i));
 
-    fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/info.yml", "---\n  title: \"Weekly Lesson Title\"\n  start_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  end_date: \""+ moment(start_date).add(6, "d").format(DATE_FORMAT) +"\"");
+    fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/" + pad(i) + "/info.yml", "---\n  title: \"Weekly Lesson Title\"\n  start_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  end_date: \""+ moment(start_date).add(6, "d").format(DATE_FORMAT) +"\"");
 
     for (var j = 1; j <= 7; j++){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/" + pad(j) + ".md",
-        "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguage]+"\ndate:   "+moment(start_date).format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/" + pad(i) + "/" + pad(j) + ".md",
+        "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguageFolder]+"\ndate:   "+moment(start_date).format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
       start_date = moment(start_date).add(1, "d");
     }
 
     if (quarterlyTeacherComments){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/teacher-comments.md",
-        "---\ntitle:  "+LOCALE_VARS["teacher_comments"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/" + pad(i) + "/teacher-comments.md",
+        "---\ntitle:  "+LOCALE_VARS["teacher_comments"][quarterlyLanguageFolder]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
     }
 
     if (quarterlyInsideStory){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/inside-story.md",
-        "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/" + pad(i) + "/inside-story.md",
+        "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguageFolder]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
     }
     if (lessonCover){
-      fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
+      fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
     }
   }
 
   start_date = moment(start_date).add(-1, "d");
 
-  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \"#"+quarterlyColorPrimary+"\"\n  color_primary_dark: \"#"+quarterlyColorDark+"\"");
-  fs.copySync(QUARTERLY_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/cover.png");
+  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \"#"+quarterlyColorPrimary+"\"\n  color_primary_dark: \"#"+quarterlyColorDark+"\"");
+  fs.copySync(QUARTERLY_COVER, SRC_PATH+ "/" + quarterlyLanguageFolder + "/" + quarterlyId + "/cover.png");
 
   console.log("File structure for new quarterly created");
 }
 
 try {
-  stats = fs.lstatSync(SRC_PATH + argv.l);
+  stats = fs.lstatSync(SRC_PATH + argv.l.substring(0,2));
   if (stats.isDirectory()) {
-    console.log("Found necessary directory " + argv.l);
+    console.log("Found necessary directory " + argv.l.substring(0,2));
   } else {
-    createLanguageFolder(argv.l);
+    createLanguageFolder(argv.l.substring(0,2));
   }
 } catch (e) {
-  createLanguageFolder(argv.l);
+  createLanguageFolder(argv.l.substring(0,2));
 }
 
 try {
-  stats = fs.lstatSync(SRC_PATH + argv.l + "/" + argv.q);
+  stats = fs.lstatSync(SRC_PATH + argv.l.substring(0,2) + "/" + argv.q);
   if (stats.isDirectory()) {
     console.log("Quarterly with same id already exists. Aborting");
   } else {
