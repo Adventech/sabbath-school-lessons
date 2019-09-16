@@ -31,4 +31,4 @@ date:   08/03/2019
 
 제가 소중한 경험을 할 수 있게 해준 ‘명품인생학교’에 너무 감사합니다.
 
-<p align="right">동중한합회 우천교회 성도 <strong>유시문</strong></p>
+<p style="text-align:right">동중한합회 우천교회 성도 <strong>유시문</strong></p>

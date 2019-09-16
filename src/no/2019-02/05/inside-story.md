@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  03/05/2018
+date:  03/05/2019
 ---
 
 #### Lengsel etter Gud

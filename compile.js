@@ -403,14 +403,21 @@ var readAPI = function(dayPath, day, info, lesson){
       meta = JSON.parse(JSON.stringify(day.meta));
 
   meta.bible = [];
+  var quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-')+1);
+  var iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
 
-  for (var bibleVersionIterator = 0; bibleVersionIterator < BIBLE_PARSER_CONFIG[info.language].length; bibleVersionIterator++){
-    var bibleVersion = BIBLE_PARSER_CONFIG[info.language][bibleVersionIterator],
+  for (var bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++){
+    var bibleVersion = iteratorArray[bibleVersionIterator],
       resultRead = day.markdown,
-      resultBible = {};
+      resultBible = {},
+      language = info.language;
 
+    if (bibleVersion.version) {
+      language = bibleVersion.lang;
+      bibleVersion = bibleVersion.version;
+    }
     try {
-      var result = bibleSearchBCV.search(info.language, bibleVersion, resultRead);
+      var result = bibleSearchBCV.search(language, bibleVersion, resultRead);
     } catch (err){}
 
     if (!result) continue;

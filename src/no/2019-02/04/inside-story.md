@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  26/04/2018
+date:  26/04/2019
 ---
 
 #### Hvorfor ble jeg født?

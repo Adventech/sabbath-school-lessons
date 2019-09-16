@@ -5,3 +5,6 @@ dist
 web/public
 web/content/*
 !web/content/language
+web/static/img/global
+test
+deploy-creds-*

@@ -57,7 +57,7 @@ God, however, is forever doubted, because with each succeeding generation, He mu
 
 Scripture tells us that tithe is “ ‘holy to the Lord’ ” (Lev. 27:30, NKJV). The concept of holiness is rooted in the Hebrew word kadosh, which means “set apart.” In other words, certain things are separated or set apart from everyday common use for special or sacred purposes. That portion of income called tithe does not belong to the believer at all. By divine designation, that 10 percent is God’s from the start. We do not make it holy by giving it. It is holy—separated for God’s purposes— whether we return it or not. 
 
-Suppose a pedestrian discovered an envelope on the street with $2,000 enclosed. Common decency says that the envelope belongs to someone else and that the money should be returned to the rightful owner. It is simply a matter of honesty. We would not state that the finder was giving anything to the owner, for the envelope was not rightfully his or hers to begin with. Regarding tithe, we are not giving God anything, for it rightfully belongs to Him already. We actually are returning that which belongs to Him as a matter of integrity. 
+Suppose a pedestrian discovered an envelope on the street with USD 2,000 enclosed. Common decency says that the envelope belongs to someone else and that the money should be returned to the rightful owner. It is simply a matter of honesty. We would not state that the finder was giving anything to the owner, for the envelope was not rightfully his or hers to begin with. Regarding tithe, we are not giving God anything, for it rightfully belongs to Him already. We actually are returning that which belongs to Him as a matter of integrity. 
 
 Malachi declares, “ ‘Will a man rob God? Yet you have robbed Me! 
 

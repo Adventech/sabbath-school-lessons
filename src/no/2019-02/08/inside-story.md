@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  24/05/2018
+date:  24/05/2019
 ---
 
 #### To gutter
