@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  10/05/2018
+date:  10/05/2019
 ---
 
 #### I brann for kristus

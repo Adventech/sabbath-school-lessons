@@ -21,6 +21,6 @@ En 1990, Ryszard Jankowski, le leadeur de la Jeunesse de l’Union Polonaise à 
 
 Ryszard trouva un jour un endroit appelé Zatonie, un camp appartenant au gouvernement sur un lac dans l’ouest de la Pologne. Les bâtiments sur le terrain de camping étaient en mauvais état, mais ils pourraient être rendus utiles. 
 
-« Je crus que Dieu voulait que nous ayons Zatonie », déclara Ryszard. Le camping était d’une valeur de \\$200 000, mais l’Union n’avait pas d’argent pour acheter les terres, les bâtiments ou les meubles. « Mais après que notre Commission ait examiné les possibilités, le téléphone sonna. Quelqu’un au Danemark nous offrit des meubles gratuit – on nous les livrerait! » Ryszard savait que Dieu fournirait le reste si c’était Sa volonté. 
+« Je crus que Dieu voulait que nous ayons Zatonie », déclara Ryszard. Le camping était d’une valeur de USD 200 000, mais l’Union n’avait pas d’argent pour acheter les terres, les bâtiments ou les meubles. « Mais après que notre Commission ait examiné les possibilités, le téléphone sonna. Quelqu’un au Danemark nous offrit des meubles gratuit – on nous les livrerait! » Ryszard savait que Dieu fournirait le reste si c’était Sa volonté. 
 
 _À suivre._

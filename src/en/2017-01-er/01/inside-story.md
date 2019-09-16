@@ -21,6 +21,6 @@ In 1990 Ryszard Jankowski [ree-SHARD Yahn-kow-skee], the Polish Union youth lead
 
 One day, Ryszard found a place called Zatonie [zah-TOH-nee], a government-owned camp on a lake in western Poland. The buildings on the campground were in poor condition, but they could be made useful. 
 
-“I believed that God wanted us to have Zatonie,” Ryszard said. The campsite was worth \\$200,000, but the union didn’t have money to buy the land, the buildings, or furniture. “But as our committee discussed the possibilities, the telephone rang. Someone in Denmark was offering us free furniture—they would even deliver it!” Ryszard knew that God would provide the rest if this was His will. 
+“I believed that God wanted us to have Zatonie,” Ryszard said. The campsite was worth USD 200,000, but the union didn’t have money to buy the land, the buildings, or furniture. “But as our committee discussed the possibilities, the telephone rang. Someone in Denmark was offering us free furniture—they would even deliver it!” Ryszard knew that God would provide the rest if this was His will. 
 
 _To be continued in next week’s Inside Story._

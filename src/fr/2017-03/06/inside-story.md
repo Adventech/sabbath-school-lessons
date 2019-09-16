@@ -7,7 +7,7 @@ date:   04/08/2017
 
 Yerakayya et Chinnammi vivent dans un petit village du nord-est de l’Inde.
 
-Comme la plupart des gens dans leur village, ils travaillent comme ouvriers des champs de plantation de riz.  Pour ce travail éreintant, le couple gagne environ 45 roupies (moins d’1$ US) par jour. C’est assez pour acheter  de la nourriture, mais insuffisant. 
+Comme la plupart des gens dans leur village, ils travaillent comme ouvriers des champs de plantation de riz.  Pour ce travail éreintant, le couple gagne environ 45 roupies (moins d’1 US) par jour. C’est assez pour acheter  de la nourriture, mais insuffisant. 
 
 Yerakayya est un leadeur dans son village, et la vie n’était pas facile. Une nuit les démons commencèrent à  jeter des grosses pierres sur leur toit de tuiles. Les pierres les réveillèrent et cassèrent quelques tuiles sur leur  toit. Nuit après nuit, les pierres perturbaient leur sommeil. Les démons restaient dans un arbre près de la  maison du couple, mais Yerakayya n’a pas osé abattre l’arbre, de peur que les démons n’essayent quelque chose  de pire. 
 

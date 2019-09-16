@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  19/04/2018
+date:  19/04/2019
 ---
 
 #### Ingen fred med meditasjon

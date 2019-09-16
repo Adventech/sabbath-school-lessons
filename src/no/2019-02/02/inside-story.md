@@ -1,6 +1,6 @@
 ---
 title:  Misjonsfortelling
-date:  12/04/2018
+date:  12/04/2019
 ---
 
 #### Redd for å plante

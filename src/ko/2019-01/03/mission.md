@@ -48,4 +48,4 @@ date:   18/01/2019
 따뜻하게 덥혀줄 것이다. 자신들을 기억해주는 사람들로 인해 마음에 먼저 온기가
 퍼질 것이다.
 
-<p align="right">서울영어학원교회 담임목사 <strong>최길호</strong></p>
+<p style="text-align:right">서울영어학원교회 담임목사 <strong>최길호</strong></p>
