@@ -3,7 +3,7 @@ title:  Mit Gott erlebt
 date:   18/10/2019
 ---
 
-Ein japanischer Pastor findet 3 Millionen Yen
+### Ein japanischer Pastor findet 3 Millionen Yen
 
 _Andrew McChesney, Adventist Mission_
 
