@@ -84,7 +84,6 @@ Durch sein Dekret, das die Wiederherstellung Jerusalems und nicht nur des Tempel
 
 ### Anwendung
 
-
 Esra 1,1 sagt, der Herr „erweckte ... den Geist des Kyrus, des Königs von Persien“, sodass er den Befehl erteilte, den Juden zu erlauben, ins Land Israel zurückzukehren. Kyrus reagiert auf den Geist Gottes, der den König dazu bringt zu verkünden, dass die Juden den Tempel in Jerusalem wiederaufbauen sollen. Unglaublich: Ein heidnischer König reagiert auf Gottes Drängen! „Erweckte“ geht auf das Wort ur zurück, das auch „aufwecken“ oder „wecken“ bedeutet. Somit erwacht Kyrus in gewissem Sinn auf den Ruf Gottes hin.
 
 Wenn Gott etwas in unserem Leben bewegt, erwachen wir für sein Drängen und seine Führung. Eine derart positive Motivation entsteht aus der Wertschätzung der mächtigen und gnädigen Taten Gottes in der Weltgeschichte und in unserem Leben. Diese Wertschätzung für Gott bringt uns dazu, ihn zu bewundern, ihm nachzufolgen und auf unserem Weg mit ihm und in dem Werk, das er uns aufträgt, durchzuhalten. Unsere beste Leistung entspringt der Erkenntnis dessen, wer Gott ist und was er für uns getan hat. Wir wissen, dass er liebevoll zum Besten seines Volkes eingreift und wie er es zum Handeln bewegt.
