@@ -30,6 +30,8 @@
     "yamljs": "^0.2.7"
   },
   "devDependencies": {
+    "html-entities": "^1.2.1",
+    "n-readlines": "^1.0.0",
     "optimist": "^0.6.1"
   },
   "scripts": {
