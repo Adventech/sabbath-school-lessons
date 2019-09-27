@@ -33,4 +33,4 @@ date:   24/05/2019
 
 <img src="https://user-images.githubusercontent.com/10376491/57976691-b2f0ba00-79ab-11e9-9439-31a5a11d0c60.jpg" style="max-width:100%" />
 
-<p align="right">영남합회 군위교회 장로 <strong>권호갑</strong></p>
+<p style="text-align:right">영남합회 군위교회 장로 <strong>권호갑</strong></p>

@@ -24,7 +24,7 @@ date:   25/01/2019
 부끄럽지만 현금 30만원과 복음전도를 위한 책 <나는 누구인가>, <지구 종말은 오는가>
 16권을 지원해 드립니다(연락처 : 010-9270-3004).
 
-<p align="right">성경선교회장 <strong>문장섭</strong></p>
+<p style="text-align:right">성경선교회장 <strong>문장섭</strong></p>
 
 <p></p>
 <img src="https://user-images.githubusercontent.com/10376491/51429462-dc533200-1bd3-11e9-842a-aa0a38d04bd8.jpg" style="max-width:100%" />

@@ -26,7 +26,7 @@ date:   07/12/2018
 청소년 교회가 되는 것이 꿈입니다. 새천안 교회가 앞으로 어린이 청소년 교회로서 우뚝
 설 수 있도록 기도해 주시고 많은 관심 가져 주시기 바랍니다.
 
-<p align="right">충청합회 새천안교회 담임목사 김광성</p>
+<p style="text-align:right">충청합회 새천안교회 담임목사 김광성</p>
 
 <img src="https://user-images.githubusercontent.com/10376491/49329812-ac2fd100-f54a-11e8-885a-9ccb20992fd2.jpg" style="max-width:100%" />
 <p></p>
