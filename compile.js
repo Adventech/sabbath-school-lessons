@@ -358,7 +358,7 @@ var daysAPI = function(lessonPath, lesson){
   var days = [],
       files = glob.sync(lessonPath+"/*.md"),
       info = getInfoFromPath(lessonPath),
-      assets = glob.sync(lessonPath+"/*.png")
+      assets = glob.sync(lessonPath+"/*.{png,jpg,jpeg}")
 
   for (var i = 0; i < assets.length; i++){
     fs.copySync(assets[i], DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + assets[i].replace(lessonPath, ""));
