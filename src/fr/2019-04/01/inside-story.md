@@ -3,7 +3,8 @@ title:  Histoire
 date:   04/10/2019
 ---
 
-### Attaqué par l’acide
+#### Attaqué par l’acide
+
 _par Andrew McChesney, Mission Adventiste_
 
 Banza Mwela, pasteur d’une église de dimanche en République démocratique du Congo, a failli mourir lorsque son épouse et son fils lui ont aspergé de l’acide sur la peau le jour de son baptême dans l’Église Adventiste du Septième Jour. Mais Banza, son visage défiguré en permanence, survécut, et aujourd’hui, il est devenu un pasteur adventiste qui prêche sur son témoignage puissant et attire les foules à Jésus. « Je loue le Seigneur que j’appartiens à la famille adventiste du septième jour et que le diable a été vaincu », déclara Banza. L’histoire débute en octobre 2013 lorsque Banza a participé à une campagne d’évangélisation dans la ville du Sud-Est de Likasi. Désireux d’en savoir plus sur les doctrines adventistes, il s’inscrivit à l’école de formation pastorale à l’université locale, Philip Lemon University.
