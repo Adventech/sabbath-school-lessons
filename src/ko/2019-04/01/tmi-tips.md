@@ -45,3 +45,8 @@ date:   04/10/2019
 가 응답될 수 있도록 성도 여러분의 많은 기도와 응원 부탁드립니다.
 
 <p style="text-align: right">서중한합회 백향김포다문화교회 평신도 지도자 <b>김성일</b></p>
+
+
+<img src="https://user-images.githubusercontent.com/10376491/66276189-44c36b80-e856-11e9-8021-aa002f3ddf21.jpg" style="max-width:100%" alt="이미지" />
+
+<img src="https://user-images.githubusercontent.com/10376491/66276208-5a389580-e856-11e9-9ffd-9fa4c6c3d94d.jpg" style="max-width:100%" alt="이미지" />
