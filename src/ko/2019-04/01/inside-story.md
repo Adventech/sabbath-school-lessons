@@ -24,4 +24,4 @@ date:   04/10/2019
 - 에티오피아, 4개의 어린이 안식일학교 교실 마련
 
 
-<p style="text-align: right">"제공 : 대총회 세계 선교부</p>
+<p style="text-align: right">공 : 대총회 세계 선교부</p>
