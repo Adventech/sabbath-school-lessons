@@ -148,4 +148,7 @@ languages:
   - native: हिन्दी
     en: Hindi
     code: hi
+  - native: Shqiptar
+    en: Albanian
+    code: sq
 ---
