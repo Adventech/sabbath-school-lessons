@@ -444,3 +444,12 @@ title = "Sabbath School"
 	current = "वर्तमान पाठ"
 	archive = "पाठ संग्रह"
 	lang = "🇮🇳 Hindi"
+
+[params.sq]
+	title = "Shkolla e Sabatit"
+	back = "Kthehu mbrapa"
+	all = "Të gjitha mësimet"
+	todaysLesson = "Mësimi i sotëm"
+	current = "Mësimi aktual"
+	archive = "Arkivi i mësimit"
+	lang = "🇦🇱 Shqiptar"

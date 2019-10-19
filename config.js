@@ -178,6 +178,10 @@ var BIBLE_PARSER_CONFIG = {
     "seb"
   ],
 
+  "sq": [
+    "albb"
+  ],
+
   "sw": [
     "suv"
   ],
