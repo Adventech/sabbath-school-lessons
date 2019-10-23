@@ -3,6 +3,12 @@ title:  Mit Gott erlebt
 date:   04/10/2019
 ---
 
+**Liebe Brüder und Schwestern!**
+
+**Bitte entschuldigen Sie die verzögerte Veröffentlichung der Sabbatschule-Lektion für dieses Quartal.**
+
+**Wir haben mit dem Advent-Verlag zusammengearbeitet, um eine offizielle Genehmigung zur Veröffentlichung der Lektion in unserer App zu erhalten. Wir danken euch allen für eure Geduld, eure Gebete und eure Unterstützung.**
+
 ### Säureangriff
 
 _Andrew McChesney, Adventist Mission_
