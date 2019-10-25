@@ -60,10 +60,10 @@ title = "Sabbath School"
 
 [params.de]
 	title = "Sabbatschule"
-	back = "Geh zurück"
+	back = "Zurück"
 	all = "Alles sehen"
 	todaysLesson = "Die heutige Lektion"
-	current = "Strom"
+	current = "Aktuell"
 	archive = "Unterrichtsarchiv"
 	lang = "🇩🇪 Deutsche"
 
