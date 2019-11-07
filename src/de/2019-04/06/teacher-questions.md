@@ -36,21 +36,14 @@ II: Wir studieren die Bibel
         deutlich?
     -   Was sagt uns dieser Text über Gottes Absicht?
 -   Was sagt dieser Bibelabschnitt über den Menschen aus? Mögliche
-    Vertiefungsfragen:
-    -   Was zeigt dieser Bibelabschnitt über die menschliche Natur?
+    Vertiefungsfrage:
     -   Findet ihr in diesem Abschnitt ein vorbildliches Verhalten? Wenn
         ja, inwiefern?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfragen:
     -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
-    -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
     -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
     -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
-    -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
-        gestalten sollen?
 
 ### Lesen und Hören des Gesetzes
 
@@ -61,20 +54,10 @@ II: Wir studieren die Bibel
     -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
         deutlich?
     -   Was sagt uns dieser Text über Gottes Absicht?
--   Was sagt dieser Bibelabschnitt über den Menschen aus? Mögliche
-    Vertiefungsfragen:
-    -   Was zeigt dieser Bibelabschnitt über die menschliche Natur?
-    -   Findet ihr in diesem Abschnitt ein vorbildliches Verhalten? Wenn
-        ja, inwiefern?
+-   Was sagt dieser Bibelabschnitt über den Menschen aus? ?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfragen:
-    -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
-    -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
     -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
-    -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
@@ -94,15 +77,9 @@ II: Wir studieren die Bibel
         ja, inwiefern?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfragen:
-    -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
-    -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
-    -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
-    -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
-    -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
-        gestalten sollen?
+    -   Welche Prinzipien braucht es, um Gottes Wort richtig zu lesen
+        und zu interpretieren?
+    -   Welche Rolle spielt die Bibel für das Leben mit Gott?
 
 ### Die Reaktion des Volkes
 
@@ -121,14 +98,8 @@ II: Wir studieren die Bibel
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfragen:
     -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
     -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
-    -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
-    -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
-    -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
-        gestalten sollen?
+    -   Welche Charakteristika zeigen sich bei echter Erweckung?
 
 ### Die Freude am Herrn
 
@@ -146,13 +117,8 @@ II: Wir studieren die Bibel
         ja, inwiefern?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfragen:
-    -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
-    -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
-    -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
-    -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
+    -   Inwiefern ist für ein Leben mit Gott tägliches Bibelstudium
+        wichtig?
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
