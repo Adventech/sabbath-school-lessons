@@ -3,6 +3,12 @@ title:  Lehrerteil
 date:   01/11/2019
 ---
 
+**Liebe Brüder und Schwestern!**
+
+**Bitte entschuldigen Sie die verzögerte Veröffentlichung der Sabbatschule-Lektion für dieses Quartal.**
+
+**Wir haben mit dem Advent-Verlag zusammengearbeitet, um eine offizielle Genehmigung zur Veröffentlichung der Lektion in unserer App zu erhalten. Wir danken euch allen für eure Geduld, eure Gebete und eure Unterstützung.**
+
 ### Übersicht
 
 **Schlüsseltext:** Nehemia 5,11.15–16
@@ -62,6 +68,7 @@ Benutze die folgende Frage als Einstieg ins Bibelgespräch dieser Woche:
 `1. Was ist oder war das Schwerste, das ihr jemals tun musstet, um für eure Familie oder geliebte Menschen zu sorgen? Berichtet davon.`
 
 Sei als Gesprächsleiter bereit, etwas Persönliches zu erzählen. Wenn du als Leiter dies tust, ermutigst du andere, auch etwas zu erzählen. Wenn ihr einander von euren Erleb- nissen berichtet, wird dies zu größerer Nähe in deiner Gruppe führen. So wie Nehemia sich um sein Volk sorgte, zeigen wir auch Fürsorge, indem wir miteinander als Schwes- tern und Brüder teilen und mitteilen. Jeder von uns durchlebt schwere Zeiten, und es ist ermutigend, wenn man von anderen hört, was sie erlebt haben und wie sie mit bestimm- ten Situationen als Nachfolger Jesu umgegangen sind.
+
 Stelle die folgende Frage am Ende des Bibelgesprächs, um das Konzept und die Anwen- dung weiter auszuarbeiten:
 
 `1. Überlegt gemeinsam, womit ihr konkret armen, ausgegrenzten oder leidenden Men- schen in eurer Umgebung helfen könnt. Wie könnt ihr Vielfalt fördern? Welches Pro- jekt kann deine Gruppe angehen, um etwas im Leben eines Menschen zu bewirken?`

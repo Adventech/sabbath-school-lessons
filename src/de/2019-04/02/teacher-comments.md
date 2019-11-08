@@ -3,6 +3,12 @@ title:  Lehrerteil
 date:   11/10/2019
 ---
 
+**Liebe Brüder und Schwestern!**
+
+**Bitte entschuldigen Sie die verzögerte Veröffentlichung der Sabbatschule-Lektion für dieses Quartal.**
+
+**Wir haben mit dem Advent-Verlag zusammengearbeitet, um eine offizielle Genehmigung zur Veröffentlichung der Lektion in unserer App zu erhalten. Wir danken euch allen für eure Geduld, eure Gebete und eure Unterstützung.**
+
 ### Übersicht
 
 **Schlüsseltext:** Nehemia 1,4–5
@@ -51,8 +57,7 @@ Konsequenterweise ist Nehemia nicht entmutigt, als die Führer der Feinde voller
 
 Stelle folgende Fragen:
 
-`1. Seht euch Nehemias Gebet an und überlegt, welche Aspekte des Gebets ihr in euer
-eigenes Gebetsleben integrieren könnt.`
+`1. Seht euch Nehemias Gebet an und überlegt, welche Aspekte des Gebets ihr in euer eigenes Gebetsleben integrieren könnt.`
 
 2. Bitte jeden Anwesenden, über Folgendes nachzudenken und es zu beantworten:
 
