@@ -151,4 +151,7 @@ languages:
   - native: Shqiptar
     en: Albanian
     code: sq
+  - native: Latviešu valoda
+    en: Latvian
+    code: lv
 ---
