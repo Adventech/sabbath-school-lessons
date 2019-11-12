@@ -90,11 +90,12 @@ Vergleicht diese Struktur mit dem Bund, den das Volk mit Gott in Nehemia
 -   Was war die Situation der Israeliten?
 -   Was sind die Ähnlichkeiten und Unterschiede?
     -   Was könnte der Grund dafür sein?
--   HIER (verlinkt) findet ihr eine DIN-A4 - PDF-Dokument mit zwei
-    Spalten. In der linken Spalte findet ihr die oben angeführte
-    Bundesstruktur. Die rechte Spalte ist leer. Bitte die
-    Gruppenmitglieder einen Bund mit Gott zu formulieren (gerne auch
-    ganz lebensnah, authentisch und ehrlich).
+-   [HIER findet ihr ein DIN-A4 - PDF-Dokument mit zwei
+    Spalten.](:Medium:Kazmierczak_Hubert_Struktur_des_Bundes.pdf "wikilink")
+    In der linken Spalte findet ihr die oben angeführte Bundesstruktur.
+    Die rechte Spalte ist leer. Bitte die Gruppenmitglieder einen Bund
+    mit Gott zu formulieren (gerne auch ganz lebensnah, authentisch und
+    ehrlich).
     -   Zuerst in der linken Spalte nach dem Vorbild der Bibel.
     -   Dann in der rechten Spalte nach einer selbstentworfenen
         Struktur, die ihnen für heute relevant erscheint.
@@ -131,7 +132,11 @@ deiner Gesprächsführung und den notwendigen Entscheidungen bzw. der
 Ausarbeitung weiterer persönlicher Fragen wünsche ich dir Gottes Segen.
 
 \
-==III: Dienst und Mission== **Ideen für Aktivitäten**\
+
+III: Dienst und Mission
+-----------------------
+
+**Ideen für Aktivitäten**\
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
