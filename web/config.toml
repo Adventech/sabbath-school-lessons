@@ -453,3 +453,12 @@ title = "Sabbath School"
 	current = "Mësimi aktual"
 	archive = "Arkivi i mësimit"
 	lang = "🇦🇱 Shqiptar"
+
+[params.lv]
+	title = "Sabatskolas"
+	back = "Atgriezties"
+	all = "Visas nodarbības"
+	todaysLesson = "Šodienas nodarbība"
+	current = "Pašreizējais ceturksnis"
+	archive = "Nodarbību arhīvs"
+	lang = "🇱🇻 Latviešu valoda"
