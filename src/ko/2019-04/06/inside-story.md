@@ -23,3 +23,15 @@ date:   08/11/2019
 사를 통하여 나눔의 기쁨을 채워가고 있는 중입니다.
 
 <p style="text-align: right">호남합회 여천교회 담임목사 <b>김성완</b></p>
+
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img01.png" style="max-width:100%" alt="이미지" />
+
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img02.png" style="max-width:100%" alt="이미지" />
+
+> <p></p>
+>
+> 개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.
+>
+> 참여한 모든 분께 기념품을 드리며 우수 제안 또는 활동 소식을 선정하여 선물을 드립니다.
+>
+> 보내실 곳 : 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 <b><a href="mailto:kucspm1@kuc.or.kr">kucspm1@kuc.or.kr</a></b> 
