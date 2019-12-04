@@ -462,3 +462,12 @@ title = "Sabbath School"
 	current = "Pašreizējais ceturksnis"
 	archive = "Nodarbību arhīvs"
 	lang = "🇱🇻 Latviešu valoda"
+
+[params.nl]
+	title = "Sabbatschool"
+	back = "Ga terug"
+	all = "Alles zien"
+	todaysLesson = "De les van vandaag"
+	current = "Huidige les"
+	archive = "Les archief"
+	lang = "🇳🇱 Nederlandse taal"
