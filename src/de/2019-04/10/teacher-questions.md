@@ -28,7 +28,7 @@ II: Wir studieren die Bibel
 
 ### [Gesang zu Ehren des Herrn](https://sabbath-school.adventech.io/de/2019-04/10/gesang-zu-ehren-des-herrn/)
 
-**Text Nehemiah 12,27-29**
+**Nehemia 12,27-29**
 
 -   Fragen zum Text:
     -   Welche Bedeutung und Stellenwert hatte die Musik damals?
@@ -39,7 +39,7 @@ II: Wir studieren die Bibel
 
 ### [Reinigung](https://sabbath-school.adventech.io/de/2019-04/10/reinigung/)
 
-**Text Nehemiah 12,30**
+**Nehemia 12,30**
 
 -   Fragen zum Text:
     -   Priester und Leviten reinigten sich selbst, das Volk, die Tore
@@ -61,19 +61,19 @@ II: Wir studieren die Bibel
         ‚Mauern‘ (z.B. gutbezahlter 'sicherer' Job, Reichtum,
         Versicherungen, gesunde Lebensweise, etc.) zu sehen?
 
-**Text 1 Johannes 1:7-9**
+**1 Johannes 1,7-9**
 
 -   Fragen zum Text:
     -   Was sagt dieser Text über Gott bzw. über die Menschen?
     -   Was bewirkt das Blut Christi im Leben des Gottesfürchtigen?
 -   Fragen zur Botschaft:
     -   Was sagt dieser Text über uns bzw. über mich?
-    -   Was ist laut 1Jn 1:7-9 die Voraussetzung für die Reinigung «von
-        jeder Sünde»?
+    -   Was ist laut 1 Johannes 1,7-9 die Voraussetzung für die
+        Reinigung «von jeder Sünde»?
 
 ### [Zwei große Dankchöre](https://sabbath-school.adventech.io/de/2019-04/10/zwei-gro%C3%9Fe-dankch%C3%B6re/)
 
-**Text Nehemiah 12,31-42**
+**Nehemia 12,31-42**
 
 -   Fragen zum Text:
     -   Die Einweihung der Mauer wurde sehr sorgfältig geplant und
@@ -84,13 +84,13 @@ II: Wir studieren die Bibel
 
 ### [Opfer als Teil des Gottesdienstes](https://sabbath-school.adventech.io/de/2019-04/10/opfer-als-teil-des-gottesdienstes/)
 
-**Text Nehemiah 12,43**
+**Nehemia 12,43**
 
 -   Fragen zum Text:
     -   Wie passen Ehrfurcht vor Gott und Freude im Leben des Gläubigen
-        im Allgemeinen und im Rahmen des GD im speziellen
-        zusammen?**Christlicher Frohsinn:** Erzieht eure Seele dazu,
-        Gott gegenüber Fröhlichkeit, Dankbarkeit und Anerkennung für die
+        im Allgemeinen und im Rahmen des GD im speziellen zusammen?
+        **Christlicher Frohsinn:** Erzieht eure Seele dazu, Gott
+        gegenüber Fröhlichkeit, Dankbarkeit und Anerkennung für die
         große Liebe, mit der er uns geliebt hat, zu zeigen...
         Christlicher Frohsinn ist die wahre Schönheit der Heiligkeit.
         Während Trauer und Angst kein einziges Übel heilen können,
@@ -104,7 +104,7 @@ II: Wir studieren die Bibel
 
 ### [Priester und Leviten als Teil des Gottesdienstes](https://sabbath-school.adventech.io/de/2019-04/10/priester-und-leviten-als-teil-des-gottesdienstes/)
 
-**Texte Nehemiah 12,44-47 | Hebräer 9,1-11**
+**Nehemia 12,44-47 | Hebräer 9,1-11**
 
 -   Fragen zum Text:
     -   Welche symbolische Bedeutung hatte der priesterliche Dienst am
