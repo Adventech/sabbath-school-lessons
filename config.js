@@ -140,6 +140,10 @@ var BIBLE_PARSER_CONFIG = {
     "erv"
   ],
 
+  "nl": [
+    "nbg51"
+  ],
+
   "no": [
     "nb-bibelen-2011",
     "nb-bibelen-1975",
