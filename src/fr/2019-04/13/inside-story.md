@@ -19,7 +19,7 @@ Peter, originaire d’Argentine, revint à la clinique et partagea sa découvert
 
 « Nous nous concentrons uniquement sur ce que nous faisons - l’œuvre médicale - et nous oublions les gens autour de nous qui ont besoin de quelque chose d’autre » lui dit-il. « L’œuvre médicale est une bonne chose, mais la communauté a besoin de quelque chose d’autre: l’eau potable, la nourriture, les moustiquaires et les récipients pour transporter de l’eau. »
 
-Après la prière, Peter décida d’écrire un projet de $ 150 000 au siège de l’Agence de Développement et de Secours Adventiste aux États-Unis. Il n’avait jamais écrit un projet avant, mais ADRA apprécia et subventionna son budget. En peu de temps, la clinique Adventiste Munuki fut connue sous le projet de Juba ADRA. C’était en 2005, quelques mois avant qu’un accord de paix mit fin à un conflit armé dans le pays.
+Après la prière, Peter décida d’écrire un projet de 150 000 au siège de l’Agence de Développement et de Secours Adventiste aux États-Unis. Il n’avait jamais écrit un projet avant, mais ADRA apprécia et subventionna son budget. En peu de temps, la clinique Adventiste Munuki fut connue sous le projet de Juba ADRA. C’était en 2005, quelques mois avant qu’un accord de paix mit fin à un conflit armé dans le pays.
 
 La petite clinique développa ses services afin d’offrir des aliments et des articles non alimentaires, l’assainissement, l’eau potable et une aide d’urgence. En une seule année, les fonds du projet montèrent en flèche, de 150 000 dollars à 2 millions de dollars.
 

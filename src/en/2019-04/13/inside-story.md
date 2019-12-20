@@ -19,9 +19,9 @@ Peter, a native of Argentina, returned to the compound and shared his discovery 
 
 “We are focusing only on what we are doing - medical work - and forgetting the people around us who need something else”, he told her. “Medical work is a good thing, but the community needs something else: clean water, food, mosquito nets, and containers for carrying water”.
 
-After praying, Peter decided to write a U.S.$150,000 proposal to the Adventist Development and Relief Agency’s world headquarters in the United States. He had never written a project proposal before, but ADRA embraced it and covered its budget. In a short time, the Munuki Seventh-day Adventist Clinic became known as the ADRA Juba Project. It was 2005, months before a peace agreement ended a festering armed conflict.
+After praying, Peter decided to write a U.S. 150,000 proposal to the Adventist Development and Relief Agency’s world headquarters in the United States. He had never written a project proposal before, but ADRA embraced it and covered its budget. In a short time, the Munuki Seventh-day Adventist Clinic became known as the ADRA Juba Project. It was 2005, months before a peace agreement ended a festering armed conflict.
 
-The small clinic expanded its services to offer food and nonfood items, water sanitation, and emergency assistance. In a single year, the project’s funding skyrocketed from $150,000 to $2 million.
+The small clinic expanded its services to offer food and nonfood items, water sanitation, and emergency assistance. In a single year, the project’s funding skyrocketed from 150,000 to 2 million.
 
 “I was surprised”, Peter said. “I realized that focusing on people and looking to meet their needs can develop projects that help others”.
 
