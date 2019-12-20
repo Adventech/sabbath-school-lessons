@@ -26,10 +26,13 @@ II: Wir studieren die Bibel
 Startfrage
 ----------
 
+Was erwartet ihr von guten Leitern? Welche Eigenschaften sollten sie
+haben?
+
 Studium und Anwendung
 ---------------------
 
-**Text**
+**Richter 4,1-16; 1.Könige 21,1-16**
 
 -   Fragen zum Text:
     -   ...
@@ -40,7 +43,7 @@ Studium und Anwendung
     -   ...
     -   ...
 
-**Text**
+**1.Könige 15,26.34; 2.Könige 13,1-3**
 
 -   Fragen zum Text:
     -   ...
@@ -51,7 +54,7 @@ Studium und Anwendung
     -   ...
     -   ...
 
-**Text**
+**Nehemia 4,7-23**
 
 -   Fragen zum Text:
     -   ...
@@ -62,7 +65,7 @@ Studium und Anwendung
     -   ...
     -   ...
 
-**Text**
+**Esra 7,8-10**
 
 -   Fragen zum Text:
     -   ...
@@ -73,7 +76,7 @@ Studium und Anwendung
     -   ...
     -   ...
 
-**Text**
+**Esra 8,21-23.31-32**
 
 -   Fragen zum Text:
     -   ...
@@ -95,7 +98,8 @@ unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
 [Wir alle beteiligen
 uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-*'Arbeitshilfe “Gebet + Dienst + Zeugnis”*
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
+Diese
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
