@@ -14,25 +14,17 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-II: Wir studieren die Bibel
----------------------------
+II: Wir studieren die Bibel: [Leiter in Israel](https://sabbath-school.adventech.io/de/2019-04/13/leiter-in-israel/)
+--------------------------------------------------------------------------------------------------------------------
 
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
-
-Startfrage
-----------
+###### Startfrage
 
 Was erwartet ihr von guten Leitern? Welche Eigenschaften sollten sie
 haben?
 
-Studium und Anwendung
----------------------
+### [Der Einfluss der Leiter](https://sabbath-school.adventech.io/de/2019-04/13/der-einfluss-der-leiter/)
 
-**Richter 4,1-16; 1.Könige 21,1-16**
+**Richter 4,1-16; 1.Könige 12,1-16**
 
 -   Fragen zum Text:
     -   ...
@@ -42,6 +34,8 @@ Studium und Anwendung
     -   ...
     -   ...
     -   ...
+
+### [Was dem Herrn missfiel](https://sabbath-school.adventech.io/de/2019-04/13/was-dem-herrn-missfiel/)
 
 **1.Könige 15,26.34; 2.Könige 13,1-3**
 
@@ -54,6 +48,8 @@ Studium und Anwendung
     -   ...
     -   ...
 
+### [Mut und Bevollmächtigung](https://sabbath-school.adventech.io/de/2019-04/13/mut-und-bevollm%C3%A4chtigung/)
+
 **Nehemia 4,7-23**
 
 -   Fragen zum Text:
@@ -65,6 +61,8 @@ Studium und Anwendung
     -   ...
     -   ...
 
+### [Ziel und Leidenschaft](https://sabbath-school.adventech.io/de/2019-04/13/ziel-und-leidenschaft/)
+
 **Esra 7,8-10**
 
 -   Fragen zum Text:
@@ -75,6 +73,8 @@ Studium und Anwendung
     -   ...
     -   ...
     -   ...
+
+### [Demut und Ausdauer](https://sabbath-school.adventech.io/de/2019-04/13/demut-und-ausdauer/)
 
 **Esra 8,21-23.31-32**
 
