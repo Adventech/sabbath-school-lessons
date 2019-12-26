@@ -306,6 +306,7 @@ var lessonsAPI = function(quarterlyPath){
   (function(language, quarterly, lessons){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSONS).child(language + "-" + quarterly).set(lessons, function(e){
+        console.log('Deployment', language + "-" + quarterly)
         cb(false, true);
       });
     });
@@ -343,6 +344,7 @@ var lessonAPI = function(lessonPath){
   (function(lesson){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.lesson.index).set(lesson, function(e){
+        console.log('Deployment', lesson.lesson.index)
         cb(false, true);
       });
     });

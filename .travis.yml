@@ -7,7 +7,7 @@ before_install:
 - wget https://github.com/gohugoio/hugo/releases/download/v0.33/hugo_0.33_Linux-64bit.deb
 - sudo dpkg -i hugo_0.33_Linux-64bit.deb
 - rm *.deb
-script: travis_wait 30 node --max-old-space-size=4096 compile.js -b $TRAVIS_BRANCH
+script: node --max-old-space-size=4096 compile.js -b $TRAVIS_BRANCH
 before_script:
 - mkdir dist
 cache:
