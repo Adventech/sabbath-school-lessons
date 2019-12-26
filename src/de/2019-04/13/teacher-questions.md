@@ -85,23 +85,29 @@ haben?
     -   Welche Zielorientierung wünscht ihr euch vom Leiter eurer
         Gemeinde?
 
-### [Demut und Ausdauer](https://sabbath-school.adventech.io/de/2019-04/13/demut-und-ausdauer/)
+### [Demut und Gottvertrauen](https://sabbath-school.adventech.io/de/2019-04/13/demut-und-ausdauer/)
 
-**Esra 8,21-23.31-32**
+**Esra 8,21-23.31-32; Nehemia 2,20**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum war für Esra das Fasten ein wichtiger Schritt, um von Gott
+        etwas zu erbitten? Was bedeutet fasten?
+    -   Esra hatten dem König klar gesagt, er vertraue auf Gott. Deshalb
+        wollte er später auch keine Hilfe vom König für die Reise
+        erbeten (er schämte sich zu fragen). Wann ist es angebracht, um
+        menschliche zu fragen und wann einfach nur Gott zu vertrauen?
+    -   Lest Markus 9,35 - Was will Jesus mit dieser Aussage
+        verständlich machen, was Leiterschaft betrifft?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie gelangt man zu einer solch tiefen Überzeugung, dass Gott
+        helfen wird?
+    -   Warum ist es für den geistlichen Erfolg wichtig demütig zu sein
+        bzw. sich vor Gott zu demütigen? Wie wird man demütig?
 
 ### Abschließende Frage
 
--   Was haben wir über Esra und Nehemia in diesem Quartal
-    gelernt/erfahren?
+-   Was habt ihr über Esra und Nehemia in diesem Quartal
+    gelernt/erfahren? Was ist euch wichtig geworden?
 
 III: Dienst und Mission
 -----------------------
