@@ -14,22 +14,38 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-II: Wir studieren die Bibel
----------------------------
+II: Wir studieren die Bibel: [Leiter in Israel](https://sabbath-school.adventech.io/de/2019-04/13/leiter-in-israel/)
+--------------------------------------------------------------------------------------------------------------------
 
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
+###### Startfrage
 
-Startfrage
-----------
+Was erwartet ihr von guten Leitern? Welche Eigenschaften sollten sie
+haben?
 
-Studium und Anwendung
----------------------
+### [Der Einfluss der Leiter](https://sabbath-school.adventech.io/de/2019-04/13/der-einfluss-der-leiter/)
 
-**Text**
+**Richter 4,1-16; 1.Könige 12,1-16**
+
+-   Fragen zum Text:
+    -   Welche Eigenschaften offenbarte Debora in dieser Geschichte?
+    -   Wann kann es schwierig sein, Gottes Botschaft weiterzugeben?
+    -   Was zeichnete die guten Führer aus (z.B. die Könige Israels),
+        auch wenn sie nicht immer alles richtig machten?
+    -   Wenn wir über die schlechten (“gottlosen”) Könige nachdenken,
+        können wir uns vorstellen, welche negativen Einflüsse sie auf
+        das Volk ausübten? Sprecht in der Gruppe über die einzelne
+        Beispiele der Könige und ihren schlechten Einfluß.
+-   Fragen zur Botschaft:
+    -   Rehabeam war sehr unbarmherzig gegenüber seinem Volk. Was können
+        wir konkret aus diesem Beispiel für uns mitnehmen?
+    -   Welche drei Dinge würdest du aus dem guten und schlechten
+        Beispielen der Führer Israels herausnehmen und als äußerst
+        wichtig betrachten, wenn es darum geht ein guter Leiter zu sein?
+        Was sollte ein guter Leiter haben?
+
+### [Mut und Bevollmächtigung](https://sabbath-school.adventech.io/de/2019-04/13/mut-und-bevollm%C3%A4chtigung/)
+
+**Nehemia 4,7-23**
 
 -   Fragen zum Text:
     -   ...
@@ -40,7 +56,9 @@ Studium und Anwendung
     -   ...
     -   ...
 
-**Text**
+### [Ziel und Leidenschaft](https://sabbath-school.adventech.io/de/2019-04/13/ziel-und-leidenschaft/)
+
+**Esra 7,8-10**
 
 -   Fragen zum Text:
     -   ...
@@ -51,29 +69,9 @@ Studium und Anwendung
     -   ...
     -   ...
 
-**Text**
+### [Demut und Ausdauer](https://sabbath-school.adventech.io/de/2019-04/13/demut-und-ausdauer/)
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-**Text**
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-**Text**
+**Esra 8,21-23.31-32**
 
 -   Fragen zum Text:
     -   ...
@@ -95,7 +93,8 @@ unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
 [Wir alle beteiligen
 uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-*'Arbeitshilfe “Gebet + Dienst + Zeugnis”*
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
+Diese
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:

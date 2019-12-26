@@ -3,6 +3,9 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   20/12/2019
 ---
 
+[Mit schlechten Entscheidungen umgehen](https://sabbath-school.adventech.io/de/2019-04/12/mit-schlechten-entscheidungen-umgehen/)
+=================================================================================================================================
+
 I: Gemeinschaft
 ---------------
 
@@ -23,9 +26,9 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-MIT SCHLECHTEN ENTSCHEIDUNGEN UMGEHEN
+### [Nehemias Reaktion](https://sabbath-school.adventech.io/de/2019-04/12/nehemias-reaktion/)
 
-**Text Nehemia 13,23-25**
+**Nehemia 13,23-25**
 
 -   Fragen zum Text:
     -   *Warum reagierte Nehemia so heftig? Warum hat er sie verflucht?
@@ -33,6 +36,8 @@ MIT SCHLECHTEN ENTSCHEIDUNGEN UMGEHEN
         gegangen?*
 -   Fragen zur Botschaft:
     -   *Bist Du wegen ‘Gottes Sache’ schon zornig geworden?*
+
+### [Nehemias Tadel](https://sabbath-school.adventech.io/de/2019-04/12/nehemias-tadel/)
 
 **Text Nehemia 13,26-27**
 
@@ -64,6 +69,8 @@ MIT SCHLECHTEN ENTSCHEIDUNGEN UMGEHEN
     -   *Was möchte uns Gott wohl heute einschärfen - Dinge, das wir
         unbedingt tun müss(t)en bzw. auf keinen Fall tun dürf(t)en?*
 
+### [Esra reagiert](https://sabbath-school.adventech.io/de/2019-04/12/esra-reagiert/)
+
 **Text Esra 9,1-2**
 
 -   Fragen zum Text:
@@ -77,6 +84,8 @@ MIT SCHLECHTEN ENTSCHEIDUNGEN UMGEHEN
         uns gleichzeitig von ihrem sündigen Lebensstil fernzuhalten bzw.
         «abzusondern»?*
 
+### [Esra handelt](https://sabbath-school.adventech.io/de/2019-04/12/esra-handelt/)
+
 **Text Esra 10,1-19**
 
 -   Fragen zum Text:
@@ -85,6 +94,8 @@ MIT SCHLECHTEN ENTSCHEIDUNGEN UMGEHEN
 -   Fragen zur Botschaft:
     -   *Gibt es Untreue in unseren Reihen die dich traurig macht? Was
         kannst Du dagegen tun?*
+
+### [Ehe heute](https://sabbath-school.adventech.io/de/2019-04/12/ehe-heute/)
 
 **Text 1. Korinther 7,10-17**
 
