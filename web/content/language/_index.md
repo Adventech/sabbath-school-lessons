@@ -148,4 +148,13 @@ languages:
   - native: हिन्दी
     en: Hindi
     code: hi
+  - native: Shqiptar
+    en: Albanian
+    code: sq
+  - native: Latviešu valoda
+    en: Latvian
+    code: lv
+  - native: Nederlandse taal
+    en: Dutch
+    code: nl
 ---

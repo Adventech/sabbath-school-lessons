@@ -15,7 +15,7 @@ Le tuyau ne pouvait pas être réparé, et la compagnie des eaux conseilla à l�
 
 L’église n’avait pas 7 millions de yens.
 
-En outre, les dirigeants de l’église avaient une autre dépense importante. Ils devaient recueillir 16 millions de yens ($ 160 000) pour acheter du matériel pour que leur église soit l’un des 161 sites à travers le Japon participant aux grandes réunions d’évangélisation en 2018.
+En outre, les dirigeants de l’église avaient une autre dépense importante. Ils devaient recueillir 16 millions de yens (160 000) pour acheter du matériel pour que leur église soit l’un des 161 sites à travers le Japon participant aux grandes réunions d’évangélisation en 2018.
 
 Comme pour compliquer les choses, les membres d’église n’étaient pas enthousiastes au sujet des réunions d’évangélisation, se plaignant que les dépenses et le travail était trop.
 
@@ -23,13 +23,13 @@ Comme pour compliquer les choses, les membres d’église n’étaient pas entho
 
 Le comité d’église se réunit pour prier au sujet du tuyau d’eau.
 
-Immédiatement après la prière, le pasteur associé de l’église, Myunghoon Rha, alla à son bureau. Il trouva 3 millions de yens ($ 30 000) en espèces dans le bureau.
+Immédiatement après la prière, le pasteur associé de l’église, Myunghoon Rha, alla à son bureau. Il trouva 3 millions de yens (30 000) en espèces dans le bureau.
 
 Rha, un missionnaire sud-coréen, était ravi, et il partagea joyeusement les nouvelles aux autres membres du comité d’église.
 
 Le sabbat suivant, il annonça la nécessité du projet d’eau à la congrégation. Il dit comment les 3 millions de yens étaient apparu dans son bureau, et il encouragea les membres à faire davantage de contributions.
 
-Peu de temps après, une surprise apparut dans la sébile de l’école du sabbat: une enveloppe contenant 1 million de yens ($ 10 000).
+Peu de temps après, une surprise apparut dans la sébile de l’école du sabbat: une enveloppe contenant 1 million de yens (10 000).
 
 Les dirigeants de l’église étaient ravis, mais ils craignaient que peut-être le donateur n’avait pas bien compris ses actes. Dans les moments après que l’offrande fût recueillie et comptée, ils se dirent que l’argent avait été donné par un visiteur, et ils le mirent de côté.
 
