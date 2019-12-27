@@ -1,0 +1,52 @@
+---
+title:  El Sábado enseñaré
+date:  28/02/2020
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+##### Texto clave: Daniel 8:14.
+
+**Enfoque del estudio:** Daniel 8; 2:38; Génesis 11:4; Levítico 16; Hebreos 9:23-28.
+
+**Introducción:**  El tema principal de Daniel 8 es el Día de la Expiación celestial. Por esta razón, los animales simbólicos que representan los imperios mundiales son el carnero y el macho cabrío, dos animales sacrificiales que aparecen en el servicio del Santuario hebreo, pero solo el Día de la Expiación.
+
+##### Temática de la lección:
+
+**1. El cuerno pequeño.**  El cuerno pequeño representa el poder que ataca el Santuario de Dios y al pueblo de Dios. Este poder representa a Roma en sus fases pagana y papal.
+
+**2. El Día de la Expiación.**  Un tema central del mensaje profético que transmite este capítulo es la purificación del Santuario, que según el sistema ritual del Tabernáculo terrenal se llevaba a cabo el Día de la Expiación.
+
+**Aplicación a la vida:**  En nuestras luchas diarias con el pecado y el sufrimiento, no estamos solos. Tenemos un Sumo Sacerdote en el Santuario celestial que desempeña un ministerio especial en nuestro favor. Nosotros podemos disfrutar la manifestación de la gracia de Dios y compartir nuestra certeza con los que nos rodean. El mensaje del Santuario no solo nos muestra que somos perdonados sino además apunta a la erradicación definitiva del pecado.
+
+#### COMENTARIO
+
+Examinemos más de cerca los temas de la lección bosquejados anteriormente:
+
+**1. El cuerno pequeño.**  Mientras que en el capítulo 7 el cuerno pequeño crece de la cuarta bestia (la Roma pagana), el cuerno pequeño del capítulo 8 surge de uno de los puntos cardinales. Algunos comentadores aducen que este cuerno representa a Antíoco IV, un rey seléucida, proveniente de una de las cuatro divisiones del Imperio Griego de Alejandro, y que invadió Jerusalén, profanó el Templo y persiguió a los judíos. Sin embargo, una mirada minuciosa al texto bíblico indica otro referente, una interpretación que tiene más validez por dos razones principales.
+
+En primer lugar, debemos señalar que algunas traducciones bíblicas dan la impresión de que el cuerno pequeño viene de uno de los cuatro cuernos que sucedió al cuerno notable del macho cabrío griego. Si fuese así, podría armonizar con Antíoco. No obstante, el texto hebreo indica que el cuerno pequeño viene de uno de los puntos cardinales. El texto hebreo dice: “Y el macho cabrío se engrandeció sobremanera; pero estando en su mayor fuerza, aquel gran cuerno fue quebrado, y en su lugar salieron otros cuatro cuernos notables hacia los cuatro vientos del cielo. Y de uno de ellos salió un cuerno pequeño, que creció mucho al sur, y al oriente, y hacia la tierra gloriosa” (Dan. 8:8). Hay indicaciones claras en el texto hebreo que sugieren que, en la frase “de uno de ellos”, el antecedente de “ellos” es “los cuatro vientos del cielo”. Si es así, el cuerno pequeño debió haber surgido de uno de los puntos cardinales. En segundo lugar, el cuerno es pequeño al comienzo, pero se vuelve extremadamente grande. Antíoco nunca fue un rey tan grande. A pesar de su ataque a los judíos, posteriormente fue derrotado por los romanos y tuvo que regresar humillado a su hogar. En tercer lugar, debido al principio de recapitulación vigente en las visiones de Daniel, sabemos que la escena descrita en Daniel 8:9 al 14 corresponde a la escena de juicio celestial de Daniel 7:9 al 14. Por consiguiente, el Santuario atacado por el cuerno pequeño debe ser el Santuario celestial, no el Templo de Jerusalén profanado por Antíoco.
+
+Debido a que Antíoco no se ajusta a las características del cuerno pequeño, surge la pregunta: ¿a qué entidad se refiere el cuerno pequeño? A estas alturas, tenemos en cuenta el paralelismo entre las visiones proféticas de Daniel. Por lo tanto, el cuerno pequeño de Daniel 8 debe corresponder al cuerno pequeño de Daniel 7. En consecuencia, la Roma papal aflora como el referente más obvio para el cuerno pequeño de Daniel 8. Sin embargo, parece haber una diferencia sutil que vale la pena señalar entre los cuernos de Daniel 7 y 8. El cuerno pequeño de Daniel 7 surge de la cuarta bestia, lo que indica que la Roma papal es la continuación o extensión de la Roma imperial. En contraste, el cuerno pequeño de Daniel 8 aparentemente no surge de ninguna bestia, lo que puede sugerir que representa dos fases continuas de la opresión romana: primeramente, la fase imperial romana, la expansión horizontal (Dan. 8:9); y luego la fase papal romana, la expansión vertical. Es interesante notar que en Daniel 7 el cuerno pequeño intenta cambiar la Ley de Dios; en Daniel 8 dirige su ataque al príncipe del Santuario y los cimientos del propio Santuario. Esos símbolos indican que el sistema papal implementa una falsificación del plan de salvación. Ataca tanto la Ley de Dios como el plan de salvación de Dios.
+
+**2. El Día de la Expiación.**  En vista de las actividades agresivas del cuerno pequeño contra el Santuario y su ministerio (la imposición de un sistema de adoración falso por parte del Papado), surge la pregunta: “¿Hasta cuándo durará la visión del continuo sacrificio, y la prevaricación asoladora entregando el santuario y el ejército para ser pisoteados?” (Dan. 8:13, énfasis añadido). Esta pregunta presupone que pasará mucho tiempo antes de que el Santuario pueda restaurarse, porque la palabra “visión” aquí se refiere a la visión del carnero y el macho cabrío, que se extiende desde la época del Imperio Persa hasta el momento de las malas acciones del cuerno pequeño. Antes de considerar la respuesta a esta pregunta de “hasta cuándo”, consideremos las imágenes del Santuario de Daniel 8:9 al 14.
+
+Esta parte de Daniel 8 está llena de imágenes y terminología del Santuario. Palabras como “ejército”, “príncipe”, “continuo sacrificio” y “santuario” nos recuerdan el sistema ritual hebreo. “Ejército” (tsaba’) puede designar a los encargados del servicio del Santuario; “príncipe” (sar) puede designar al sumo sacerdote; “continuo sacrificio” (tamid) es una frase que se usa para calificar algunas actividades religiosas del Santuario que sucedían continuamente, como el incienso, los sacrificios, etc. Ten en cuenta que la palabra “sacrificio” que se usa en algunas versiones de la Biblia no aparece en el original. Los traductores la añadieron al asumir que la profecía se refiere a la suspensión de los sacrificios del Templo por parte de Antíoco IV. De hecho, la mejor traducción para palabra hebrea tamid quizá sea “continuidad” o “regularidad” y se refiere a las diferentes actividades del servicio del Santuario, que incluyen las ofrendas sacrificiales, aunque no se limitan a ellas. Curiosamente, una de las dos palabras que se utilizan aquí para santuario (qodesh) aparece en Levítico 16, en el contexto del Día de la Expiación (la otra es miqdash). Además, el paralelismo entre esta escena del Santuario y el juicio celestial descrito en Daniel 7:9 al 14 indica que ambas visiones representan el mismo acontecimiento. Por lo tanto, el Santuario al que se hace referencia en Daniel 8:14 debe estar situado en el cielo.
+
+Ahora viene la respuesta a la pregunta planteada en Daniel 8:13: “¿Hasta cuándo durará la visión del continuo sacrificio, y la prevaricación asoladora entregando el santuario y el ejército para ser pisoteados?” La respuesta es: “Hasta dos mil trescientas tardes y mañanas; luego el santuario será purificado” (vers. 14). Esta respuesta de uno de los seres celestiales nos informa que el Santuario, que según la descripción es atacado, se purificará después de 2.300 años (aplicando el principio de día por año). Un calendario tan largo coincide con el marco de tiempo que presupone la pregunta, que se remonta a la época del carnero persa. Aunque no se informa cuándo comienza ni termina este período, es evidente que debe comenzar en algún momento durante el período persa. Pero, el ser celestial establece claramente lo que sucederá cuando este largo período termine: concretamente, la purificación del Santuario. En el calendario religioso de los israelitas había un día especial asignado para la purificación del Santuario: el Día de la Expiación. En esas ocasiones, el Tabernáculo se purificaba (taher) de los pecados del pueblo de Dios. Daniel 8 menciona un tiempo para la purificación del Santuario celestial. Esa acción la anuncia el verbo nitsdaq, que significa ser restaurado, limpiado y reivindicado. Por ende, las ideas principales que transmite este verbo son que (1) el Santuario debe purificarse de los pecados del pueblo de Dios; (2) el ministerio de intercesión de Dios en el Santuario celestial debe restaurarse; (3) Dios debe ser vindicado por la profanación de su Santuario. El sistema papal introdujo distorsiones en el plan de salvación, y usurpó la obra intercesora de Cristo mediante el sacramento de la misa, la penitencia y la absolución de los pecados por parte de los sacerdotes humanos. De la información dada en Daniel 9:23 al 27, podemos determinar que el año 457 a.C. marcó el inicio de este período profético de 2.300 años. Por lo tanto, el final de este período profético debe concluir en el año 1844 d.C.
+
+#### APLICACIÓN A LA VIDA
+
+**1.** ¿Qué piensas de la idea de que el Papado distorsionó la verdad de Dios y estableció un sistema de adoración distorsionado?
+
+**2.** De los símbolos y el lenguaje utilizados en Daniel 8, ¿qué puedes aprender sobre el método de enseñanza de Dios?
+
+**3.** Reflexiona en esta declaración de Elena de White: “Mientras prosigue el Juicio Investigador en el cielo, mientras los pecados de los creyentes arrepentidos son quitados del Santuario, debe haber una obra especial de purificación, de eliminación del pecado, entre el pueblo de Dios en la Tierra” (CS 421).
+
+**4.** ¿Qué relación hay entre la purificación del Santuario y la purificación de tu vida como seguidor de Cristo? ¿Puedes pensar en algún pecado que debas abandonar para sentir que eres totalmente leal a Jesús?
+
+**5.** ¿Qué diferencia ves entre la obra que Jesús consumó en la Cruz y su ministerio en el Santuario celestial? ¿Cuál es la relevancia de cada uno de ellos en tu vida?
+
+**6.** ¿Por qué Dios necesita efectuar un juicio investigador en el Santuario celestial? ¿Por qué no tomar una decisión divina instantánea sobre el destino final de los profesos seguidores de Cristo? ¿Qué revela este procedimiento judicial sobre el carácter de Dios?
