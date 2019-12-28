@@ -306,6 +306,7 @@ var lessonsAPI = function(quarterlyPath){
   (function(language, quarterly, lessons){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSONS).child(language + "-" + quarterly).set(lessons, function(e){
+        console.log('Deployment', language + "-" + quarterly)
         cb(false, true);
       });
     });
@@ -343,6 +344,7 @@ var lessonAPI = function(lessonPath){
   (function(lesson){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.lesson.index).set(lesson, function(e){
+        console.log('Deployment', lesson.lesson.index)
         cb(false, true);
       });
     });
@@ -357,7 +359,12 @@ var lessonAPI = function(lessonPath){
 var daysAPI = function(lessonPath, lesson){
   var days = [],
       files = glob.sync(lessonPath+"/*.md"),
-      info = getInfoFromPath(lessonPath);
+      info = getInfoFromPath(lessonPath),
+      assets = glob.sync(lessonPath+"/*.{png,jpg,jpeg}")
+
+  for (var i = 0; i < assets.length; i++){
+    fs.copySync(assets[i], DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + assets[i].replace(lessonPath, ""));
+  }
 
   for (var i = 0; i < files.length; i++){
     days.push(dayAPI(files[i], lesson));

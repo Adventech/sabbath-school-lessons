@@ -119,6 +119,10 @@ var BIBLE_PARSER_CONFIG = {
     "lb"
   ],
 
+  "lv": [
+    "rt65"
+  ],
+
   "mn": [
     "ab2013",
     "ab2004"
@@ -134,6 +138,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "ne": [
     "erv"
+  ],
+
+  "nl": [
+    "nbg51"
   ],
 
   "no": [
@@ -176,6 +184,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "sk": [
     "seb"
+  ],
+
+  "sq": [
+    "albb"
   ],
 
   "sw": [
