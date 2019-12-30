@@ -6,6 +6,7 @@ date:   06/03/2020
 #### Ingel Angola lennujaamas 
 
 _Loo on kirja pannud Andrew McChesney._
+
 Kas inglid elavad lennujaamades?
 
 TAAG Angola Airlines’i lennujaam pakkus mulle ühel hilisõhtul Angola pealinnas Luandas peavarju. Mul oli kahetunnine vahepeatus enne järgmist lendu, mis pidi mu viima sellisesse saareriiki nagu São Tomé ja Príncipe, et koguda sealt misjonilugusid.

@@ -6,6 +6,7 @@ date:   03/01/2020
 #### Olla mitte-adventistide sõber
 
 _Loo on kirja pannud Andrew McChesney Adventmisjonist._
+
 Igor Gospodaretš tellis Moskvast 800 värvilist evangeelset müürilehte kirjaga „Piibel avab tee tervemasse ja õnnelikumasse ellu“. Ta kleepis teadaanded üles oma linna, mis oli Nõukogude ajal liiduvabariik ja mille elanikkonna põhiosa ei olnud kristlased. Siis käskis üks eakas evangelist tal otsast peale alustada.
 
 „Telli 800 uut müürilehte teadaandega ühisüritusest, kus räägitakse, kuidas saada viie päevaga suitsetamisest vabaks, ja mille korraldab seitsmenda päeva adventistide kogudus,“ ütles Argentiinast tulnud evangelist Arturo Schmidt.

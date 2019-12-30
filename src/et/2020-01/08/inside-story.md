@@ -6,6 +6,7 @@ date:   21/02/2020
 #### Ime Egiptuses
 
 _Selle loo on kirja pannud Andrew McChesney.Palveta, et Egiptuses ja ümberkaudu oleks järjest enam misjoni-imesid. Täname sind misjoniannetuste eest, mis muudavad imed võimalikuks._
+
 Plaan näis laitmatu: muuta päevinäinud seitsmenda päeva adventistide kirik Egiptuse pealinna südames elujõuliseks kogukonnakeskuseks.
 
 Kuid ehitusfirmad lükkasid tagasi mõtte Kairo Keskkirik täielikult ümber ehitada. „Te ei saa mingil juhul luba,“ ütles ühe ehitusfirma peainsener.

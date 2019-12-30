@@ -6,6 +6,7 @@ date:   31/01/2020
 #### Jumala leidmine Kaukaasias
 
 _Loo on kirja pannud Andrew McChesney._
+
 Seitsmeiteistaastane Stepan Avakov oli vabatahtlikuna abis, kui rühm ameeriklasi korraldas „Vaikse tunni“ tervisenäitust Lõuna-Venemaal Volgodonskis. Kui näitus lõppes, kutsus selle organiseerija Vincent Page Stepani kaasa, et panna näitus üles Põhja-Kaukaasia piirkonnas. Oli suvi ja Stepan oli vaba. Ta küsis emalt nõu.
 
 „Miks mitte minna?“ ütles ema. „Saad harjutada oma inglise keelt.“

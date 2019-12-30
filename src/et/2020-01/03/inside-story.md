@@ -6,12 +6,12 @@ date:   17/01/2020
 #### Tulest puutumata jäänud raamat
 
 _Loo on kirja pannud Andrew McChesney._
+
 Üks Nigeeria üliõpilane kaotas kogu omandi tulekahjus, mis sulatas üles isegi raudtorud tema korteris, kuid ta oli rabatud, kui leidis, et tulest puutumata oli jäänud üks Ellen G. White’i raamat – „Suur lootus“.
 
 Üliõpilane, Olajide Oluwatobi Igbinyemi, luges raamatu hoobilt läbi ja tõttas kohalikku seitsmenda päeva adventistide kogudusse, kelle liikmed olid talle kirjandusevangelismi hingamispäeval raamatu andnud.
 
-„See raamat on imeline, suurepärane,“ rääkis Igbinyemi üllatunud koguduseliikmetele, hoides samal ajal käes puutumata jäänud „Suurt lootust“,  
-11 peatükile lühendatud varianti „Suurest võitlusest“.
+„See raamat on imeline, suurepärane,“ rääkis Igbinyemi üllatunud koguduseliikmetele, hoides samal ajal käes puutumata jäänud „Suurt lootust“, 11 peatükile lühendatud varianti „Suurest võitlusest“.
 
 „Ma ei ole varem sedasorti raamatut näinud!“ ütles ta. „See ime pani mind raamatut kaanest kaaneni läbi lugema.“
 

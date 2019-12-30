@@ -6,6 +6,7 @@ date:   13/03/2020
 #### Loode keeldus suremast
 
 _Loo on kirja pannud Viktor Hulbert.Victor Hulbert on Trans-Euroopa Divisjoni kommunikatsioonijuht._
+
 „Mul on väga kahju,“ ütles arst Fusae Suzukile. „Teie abikaasa on küll päris noor, kuid kahjuks sureb ta kas täna öösel või igatahes mõne päeva jooksul.“
 
 See uudis rabas noort jaapani ema hingepõhjani. Ta läks jõe äärde vett tooma ning vette vaadates pidas aru, kas hüpata jõkke. Kuid ligi astus kaks mustas ülikonnas meest.

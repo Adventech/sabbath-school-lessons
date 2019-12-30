@@ -6,6 +6,7 @@ date:   14/02/2020
 #### Palvetav hispaania ema
 
 _Loo on kirjutanud Rebeca Ruiz Laguardia.Rebeca Ruiz Laguardia elab Hispaanias. Loe misjonitööst selle veerandi noorte ja täiskasvanute misjoniteadetest._
+
 10aastase tüdrukuna vaatas Pilar Laguardia Hispaania kohal laotuvat tähistaevast ja küsis endalt: „Kes need tähed tegi? Kas meil on Looja või on juhus?“
 
 See küsimus mõlkus ta mõtteis aastaid. Ta küsis sugulaste käest nende arvamust, kuid keegi ei suutnud anda rahuldavat vastust. Ta osales pühapäeviti kirikuteenistustel, kuid jutlused põlevast põrgutulest ning türanlikust ja kättemaksuhimulisest Jumalast panid ta eemalduma oma perekonna usust.
