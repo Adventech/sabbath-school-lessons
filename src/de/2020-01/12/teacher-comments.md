@@ -41,6 +41,16 @@ So verstehen die meisten historizistischen Bibelausleger den König des Nordens 
 
 Der genaue Zeitpunkt in Daniel 11, an dem ein Machtwechsel stattfindet, bleibt Gegenstand der Diskussion. Deshalb sollten wir uns auf die Dinge konzentrieren, die feststehen und klar sind, weil sie anderen prophetischen Linien im Buch Daniel entsprechen. Die folgende Tabelle zeigt die Zusammenhänge von Kapitel 11 mit den anderen Prophezeiungen Daniels, insbesondere Kapitel 8.
 
+||||||
+|---|---|---|---|---|
+| Macht | Daniel 2 | Daniel 7 | Daniel 8–9 | Daniel 11 |
+| Babylon | Gold | Löwe | | | 
+| Persien | Silber | Bär | Widder | Persien (Dan 11,3) |
+| Griechenland | Bronze | Panther | Ziegenbock | Griechenland (Dan 11,2–4) |
+| Heidnisches Rom | Eisen | Schreckliches Tier | Kleines Horn Tod des Messias (nagid, Dan 9,25–26) | König des Nordens Tod des Messias (nagid, Dan 11,22) |
+| Päpstliches Rom | Eisen | Kleines Horn Gericht im Himmel (Uralter/Menschensohn,Dan 7,9–14) | Kleines Horn Das Tägliche ist weggenommen (tamid, Dan 8,13) | Reinigung des himmlischen Heiligtums/„Zeit des Endes“ (‘et qets, Dan 8,17) | König des Nordens Das Tägliche ist weggenommen (tamid, Dan 11,31) „Zeit des Endes“ (‘et qets, Dan 11,40) |
+| Reich Gottes | Stein | Reich den ­Heiligen des Allerhöchsten gegeben (Dan 7,27) | Untergang des ­kleinen Horns (Dan 8,25) | König des ­Nordens besiegt auf dem herrlichen Berg (Dan 11,45) |
+
 2. Die letzten Ereignisse
 
 Der letzte Abschnitt (Dan 11,40–45) zeigt, dass der lange Krieg zwischen dem König des Nordens und dem König des Südens seinen Höhepunkt in der Endzeit erreicht. Bis dahin überwindet der König des Nordens den König des Südens und startet den letzten Angriff auf den Berg Zion. Da die meisten der hierin beschriebenen Ereignisse in der Zukunft liegen, bleibt ihre Deutung vorläufig; daher sollten wir Dogmatismus vermeiden. Dennoch ist es möglich, die groben Umrisse der Prophezeiung durch die Anwendung zweier Grundprinzipien der Deutung aufzuzeigen. Erstens müssen wir verstehen, dass die in der Prophezeiung vorhergesagten Ereignisse mit einer Sprache und Bildern dargestellt werden, die aus der Wirklichkeit des alttestamentlichen Israels und seiner Einrichtungen abgeleitet sind. Zweitens müssen derartige Bilder und eine solche Sprache als Symbole der universellen ekklesiologischen Realitäten, die von Christus herbeigeführt wurden, gedeutet werden.
