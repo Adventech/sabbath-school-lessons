@@ -17,7 +17,7 @@ L’architecte de notre centre de bienêtre Vita Salus a annoncé qu’il fallai
 
 Nous savions qu’il avait raison. Vita Salus — un centre d’influence inspiré d’Ellen White, qui fonctionne en harmonie avec les valeurs éthiques, professionnelles et spirituelles, confirmées par l’Église Adventiste du Septième Jour — se trouve au sommet d’une montagne près de la ville de Penela, environ 185 kilomètres au nord de la capitale du Portugal, Lisbonne.
 
-L’architecte fixa le prix de la grille à 4 000 euros ($4,900).
+L’architecte fixa le prix de la grille à 4 000 euros (4,900).
 
 Je me tournai vers notre directeur financier.
 
