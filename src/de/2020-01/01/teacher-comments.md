@@ -67,8 +67,7 @@ Erstens ist Historizismus die von der Bibel selbst vorgeschlagene Methode. So we
 
 Zweitens lassen sich die großen Zeiträume und der universelle Umfang apokalyptischer Prophezeiungen (1260, 2300, 490 Jahre), die Königreiche umfassen und letztlich zum Reich Gottes führen, nach dem historizistischen Ansatz besser erklären.
 
-Drittens verstand Jesus die künftige Zerstörung Jerusalems im Jahr 70 n. Chr.
-(Mt 24,15–20; Lk 21,20–22) als Erfüllung von Daniel 9,26–27. Paulus bezieht sich auf eine Reihe aufeinanderfolgender prophetischer Ereignisse, die in der Geschichte vor dem zweiten Kommen Christi erfüllt werden müssen (2 Ths 2,1–12).
+Drittens verstand Jesus die künftige Zerstörung Jerusalems im Jahr 70 n. Chr. (Mt 24,15–20; Lk 21,20–22) als Erfüllung von Daniel 9,26–27. Paulus bezieht sich auf eine Reihe aufeinanderfolgender prophetischer Ereignisse, die in der Geschichte vor dem zweiten Kommen Christi erfüllt werden müssen (2 Ths 2,1–12).
 
 Viertens wurde der historizistische Ansatz von den frühen Kirchenvätern und den Reformatoren genutzt. Augustinus initiierte einen Perspektivenwechsel, als er das Reich Gottes mit der christlichen Kirche und das Millennium mit der christlichen Ära gleichsetzte.
 
