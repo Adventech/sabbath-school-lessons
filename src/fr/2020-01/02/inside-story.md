@@ -1,6 +1,6 @@
 ---
 title:  Histoire
-date: 1/10/2020
+date:   10/01/2020
 ---
 
 ### Nouvelle approche de l’évangélisation
