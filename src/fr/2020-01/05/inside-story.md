@@ -1,5 +1,6 @@
 ---
-title:  Histoiredate: 2/7/2019
+title:  Histoire
+date: 2/7/2019
 ---
 
 ### Trouver le Christ dans le Caucase
