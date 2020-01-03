@@ -1,5 +1,6 @@
 ---
-title:  Histoiredate: 1/11/2019
+title:  Histoire
+date: 1/11/2019
 ---
 
 ### Nouvelle approche de l’évangélisation
