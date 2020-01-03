@@ -92,5 +92,3 @@ Quatrièmement, le rêve doit être compris en relation avec la prière de Danie
 - À quel genre de défis suis-je actuellement confronté et qui exigent la sagesse de Dieu qui a aidé Daniel à interpréter le rêve du roi? Ai-je confiance que Dieu peut m’accorder le même genre de sagesse? Pourquoi, ou pourquoi pas?
 
 - Comment le message véhiculé par le rêve m’aide-t-il à vivre ma vie chrétienne avec espérance?
-
----
