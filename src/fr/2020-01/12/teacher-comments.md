@@ -3,6 +3,8 @@ title:  Commentaires Moniteurs
 date: 4/12/2019
 ---
 
+### Partie I: Aperçu
+
 **Texte clé**: Dan. 11:35
 
 **Textes d’étude**: Daniel 11; Dan. 8:3–8, 20–22; Esa. 46:9, 10; Dan. 8:9, 23–25; Matt. 27:33–50.
