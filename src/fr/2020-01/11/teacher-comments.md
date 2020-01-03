@@ -3,6 +3,8 @@ title:  Commentaires Moniteurs
 date: 4/3/2019
 ---
 
+### Partie I: Aperçu
+
 **Texte clé**: Dan. 10:19
 
 **Textes d’étude**: Eph. 6:12, Daniel 10, Esdra 4:1–5, Jos. 5:13–15, Apo. 1:12–18, Col. 2:15, Rom. 8:37–39.
