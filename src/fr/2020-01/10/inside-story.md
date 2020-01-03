@@ -1,5 +1,6 @@
 ---
-title:  Histoiredate: 3/24/2019
+title:  Histoire
+date: 3/24/2019
 ---
 
 ### Un ange à l’aéroport en Angola
