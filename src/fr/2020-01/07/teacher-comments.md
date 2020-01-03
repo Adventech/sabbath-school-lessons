@@ -1,52 +1,7 @@
 ---
-title: Commentaires Moniteurs
-date: 2/14/2020
+title:  Commentaires Moniteurs
+date:   14/02/2020
 ---
 
-### Partie I: Aperçu
-
-**Texte clé**: Daniel 6
-
-**Textes d’étude**: Daniel 6, 1 Sam. 18:6–8, Matt. 6:6, Actes 5:27–32, Marc 6:14–26, Heb. 11:35–38.
-
-**Introduction**: Daniel 6 souligne la fidélité de Daniel. Il était prêt à être dévoré par des lions plutôt que de compromettre sa relation avec Dieu. Finalement, sa fidélité à Dieu et sa loyauté envers le roi ont été justifiées.
-
-**Thèmes de leçon**:
-
-1. La fidélité. Malgré le décret qui interdisait la prière à tout dieu ou homme autre que le roi, Daniel continua à prier vers Jérusalem. Il aurait pu fermer les fenêtres et prier en secret; au contraire, il décida de ne pas compromettre son témoignage. Son engagement envers la vérité était beaucoup plus élevé que la protection de sa propre vie.
-
-2. La justification. En raison de la loyauté de Daniel envers Dieu, l’ange du Seigneur ferma la gueule des lions affamés. Daniel fut protégé et justifié devant le roi et ceux qui cherchaient à lui ôter la vie. L’expérience de cet exilé hébreu le plus remarquable est un gage de la défense ultime de Dieu de Son peuple à travers les âges, face à la persécution par les puissances du mal.
-
-**Application**: Les aspirants politiciens chrétiens soulignent souvent l’expérience de Daniel comme une justification pour entrer dans la mêlée de la fonction publique. Quelle bénédiction pour l’église et la société si chaque politicien chrétien et agent public imitait la fidélité de Daniel!
-
-### Partie II: Commentaire
-
-**1. La fidélité**
-
-Daniel était l’un des trois gouverneurs chargés de superviser les satrapes en vérifiant leurs affectations et leurs comptes, afin d’éviter la perte des revenus du roi et d’assurer le bon fonctionnement du gouvernement (Dan. 6:2). La fraude et la mauvaise gestion sont un problème depuis l’Antiquité. Certains textes anciens du Proche-Orient reflètent également le climat de concurrence, de rivalité et d’intrigue entre les érudits et les conseillers de la cour, qui s’adressaient souvent au roi avec des accusations contre un concurrent réel ou perçu. Ainsi, la situation dans la cour du roi Darius n’était pas exceptionnelle, en ce que les gouverneurs et les satrapes voulaient se débarrasser de Daniel. La jalousie a peut-être joué un rôle majeur, étant donné que Daniel devait être nommé par le roi pour le seconder comme premier ministre. En ce qui concerne cette possibilité, nous devons également garder à l’esprit que l’intégrité de Daniel peut avoir été une pierre d’achoppement pour ceux qui cherchaient des avantages personnels et des profits illicites dans la fonction publique. Enfin, ces fonctionnaires corrompus se sont peut-être retournés contre Daniel parce qu’il était Juif (Dan. 6:13, Dan. 3:12), et, en tant que tel, il était fidèle à son Dieu plutôt qu’à leurs dieux.
-
-Malgré le décret royal, Daniel ne change pas ses habitudes de prière. Il continue de prier trois fois par jour (comparez à Ps. 55:17). La maison de Daniel avait probablement une chambre privée à l’étage, sur son toit. Faisant face à une fenêtre vers l’ouest, Daniel priait vers Jérusalem où le temple était en ruines. Lors de l’inauguration du temple, Salomon avait ordonné au peuple de prier en direction du temple (voir 1 Rois 8:35, 38, 44, 48). David semble avoir pratiqué le même principe (voir Ps 5:7, Ps. 28:2). Jérusalem est devenue le lieu de la présence de Dieu parce que le temple y était. Par conséquent, un tel geste symbolisait l’engagement envers Yahvé, le Dieu qui a choisi Jérusalem comme lieu où Il mettrait Son nom. En outre, Daniel espérait la restauration de Jérusalem en accomplissement des promesses de l’alliance (Jérémie 31 et Ézéchiel 36). Daniel était un étranger résident à Babylone; sa véritable citoyenneté était à Jérusalem.
-
-Donc, la première chose que nous apprenons de ce récit sur Daniel est son intégrité professionnelle en tant qu’officier de l’empire. Très certainement, Darius avait invité Daniel à le servir en raison de sa réputation d’intégrité en tant que fonctionnaire. En outre, l’intégrité de Daniel était clairement perçue par ses ennemis. Deux observations expriment ce fait.
-
-Tout d’abord, les ennemis de Daniel avaient reconnu qu’ils ne pouvaient rien trouver contre lui au service du roi: « Mais ils ne purent trouver aucune occasion, ni aucune chose à reprendre, parce qu’il était fidèle, et qu’on apercevait chez lui ni faute, ni rien de mauvais » (Dan 6:4 NEG). Deuxièmement, l’aspect le plus impressionnant du complot des ennemis réside dans le fait qu’ils ont perçu que la loyauté ultime de Daniel était envers son Dieu. Cette dévotion indique que Daniel vivait sa foi et exprimait ses convictions ouvertement. Tout le monde savait ce qui comptait le plus pour Daniel. Ainsi, les ennemis décidèrent de frapper au cœur de sa conviction fondamentale. Ce faisant, ils ne s’attendaient pas à ce que Daniel fasse des compromis, mais qu’il reste fidèle pour qu’il puisse être mis à mort. Daniel, cependant, ne percevait aucun conflit entre ses responsabilités en tant qu’officier du gouvernement et en tant qu’un serviteur du vrai Dieu. En fait, Daniel a profité de sa fonction publique pour honorer le Dieu qui est le souverain ultime sur tout.
-
-**2. La justification**
-
-Probablement, la caractéristique la plus saillante du récit sur Daniel dans la fosse aux lions est le fait que Daniel était délivré des lions. Cette fin heureuse est compatible avec d’autres récits bibliques, tels que la délivrance des amis de Daniel de la fournaise ardente, ainsi que la restauration de Job. Par-dessus tout, elle est compatible avec le macro-récit de la Bible, qui se termine par la destruction du mal et l’établissement du royaume éternel de Dieu. La justification de Daniel au dépens de ses ennemis indique la défense ultime du peuple de Dieu, telle que décrite dans la section prophétique de Daniel (Daniel 7-12). Cela ne signifie pas, cependant, que tout serviteur fidèle qui est persécuté sera délivré comme Daniel. Les innombrables martyrs à travers l’histoire montrent que parfois Dieu permet à Ses serviteurs de payer le prix ultime pour leur loyauté sans justification apparente de ce côté du ciel. Mais la délivrance de Daniel est un gage de la justification eschatologique de Dieu de Son peuple et montre que Dieu détient le pouvoir ultime sur les forces du mal. Le Dieu qui a empêché les lions de dévorer Daniel finira par faire taire à jamais Satan, le lion accusateur des frères (1 Pierre. 5:8).
-
-La fidélité de Daniel à Dieu trouvait son expression dans son allégeance à la loi de Dieu. Ainsi, lorsque la loi humaine entre en conflit avec la loi de Dieu, Daniel n’a montré aucune hésitation quant à quelle loi il faut obéir. Le décret fut publié conformément à la loi des Mèdes et des Perses, « qui est immuable (Dan 6:8 NEG). Ici, un conflit entre deux lois émerge – les deux se contestant le droit à l’immuabilité – et ce conflit atteindra des proportions eschatologiques dans la tentative de la petite corne de changer les temps et la loi (Daniel 7). Donc, si la loi des Mèdes et des Perses ne peut pas être modifiée, qu’en est-il de la loi qui reflète le caractère de Dieu? Le conflit entre la loi éternelle de Dieu et les contrefaçons humaines est un aspect crucial du grand conflit encapsulé dans l’expérience de Daniel. Bien que Daniel fût loyal à l’État, quand les lois de l’État étaient en conflit avec la loi de Dieu, il n’a démontré aucune hésitation quant à la loi à laquelle il faudrait obéir.
-
-La fidélité de Daniel était justifiée par Dieu. Darius n’avait aucun doute sur l’intégrité de Daniel, à tel point qu’il fit des efforts acharnés pour trouver une faille dans la loi impériale. Finalement, le roi fut forcé de céder, mais avec l’espoir que le Dieu de Daniel le délivrerait. Selon le récit biblique, la pierre qui scellait l’entrée de la fosse aux lions était scellée de « l’anneau du roi et de l’anneau de ses grands » (Dan 6:17 NEG). Ce double scellement visait à faire en sorte que le sort de Daniel demeure inchangé. Comme le disait un commentateur: « Les accusateurs, qui étaient probablement présents et voulaient que le sceau des seigneurs soit utilisé, auraient souhaité ainsi s’assurer contre la possibilité que le roi lui-même envoie des hommes pour sauver Daniel; et le roi aurait voulu s’assurer contre la tentative de ces accusateurs d’ôter la vie de Daniel d’une autre manière, si les lions ne l’avaient pas fait » (traduit de Leon J. Wood, A Commentary on Daniel, Grand Rapids, MI: Zondervan, 1973, p. 169).
-
-Mais la justification de Daniel impliquait la condamnation de ceux qui complotaient contre lui. Ce résultat est le côté sombre mais nécessaire de la justification. Le roi ordonna que les ennemis de Daniel soient jetés dans la même fosse à laquelle Daniel avait été consigné, ce qui a entrainé leur destruction par les lions. Pour l’esprit moderne/postmoderne, il est difficile d’accepter le fait que le roi ait inclus les familles dans la punition des conspirateurs. Cependant, notez que le roi suivait simplement une pratique ancienne, bien qu’horrible. Dieu n’avait pas demandé cela. Ce que Dieu a fait était de sauver Daniel des lions, ce qui indiquait clairement l’innocence du prophète dans toutes les questions liées au roi. Mais surtout, nous devons garder à l’esprit que ce n’était pas seulement Daniel qui était justifié; Dieu Lui-même a également été justifié devant Darius. Le roi a finalement avoué que le Dieu qui a délivré Daniel était le Dieu vrai et vivant: « Car Il est le Dieu vivant, et Il subsiste éternellement; Son royaume ne sera jamais détruit, et Sa domination durera jusqu’à la fin » (Dan 6:26 NEG). Ces paroles concluent à juste titre la section narrative et encapsulent le cœur du message théologique véhiculé par la section prophétique.
-
-### Partie III: Application
-
-« Chers jeunes gens, quel est le but de votre vie? Voulez-vous vous instruire pour vous [faire un nom et avoir] une position dans le monde? Caressez-vous l’ambition secrète d’atteindre un jour les sommets de la vie intellectuelle, de faire partie des assemblées législatives et de contribuer [à formuler des lois pour votre] pays? Il n’y a rien à blâmer dans de telles aspirations. Chacun de vous peut atteindre son but. Il ne faut pas se contenter de succès mesquins. Visez haut, n’épargnez aucune peine pour atteindre la cible » – Ellen G. White, Message à la jeunesse, p. 33.
-
-1. Quel type d’emplois publics, le cas échéant, sont compatibles avec la vie chrétienne?
-
-2. Où et comment tracez-vous la ligne entre la loyauté envers l’État et la loyauté envers Dieu?
-
-3. Si Daniel est un modèle, quelles sont les quatre choses qu’il a faites que les aspirants politiciens et les agents publics feraient bien d’imiter? (Dan. 6:10, 11).
+### <center>Nous travaillons sur cette leçon.</center>
+<center>Revenez plus tard, s'il vous plaît.</center>
