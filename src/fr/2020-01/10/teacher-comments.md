@@ -73,4 +73,3 @@ Huitièmement, au milieu de la complexité des figures prophétiques et d’autr
 
 7. Parmi les évènements prédits par la prophétie de Daniel 9, lequel, le cas échéant, est le plus important pour votre vie spirituelle, et pourquoi?
 
----
