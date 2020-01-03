@@ -11,7 +11,7 @@ date: 1/30/2019
 
 **Introduction**: L’expérience historique des amis de Daniel nous offre un exemple concret de ce que cela signifie d’être mis sous pression en raison de la loyauté envers Dieu.
 
-Thèmes de leçon:
+**Thèmes de leçon**:
 
 1. L’adoration. La question la plus cruciale en jeu dans ce récit est l’adoration. Très probablement, Nebucadnetsar n’exigeait pas un culte exclusif. Les trois jeunes Hébreux pouvaient continuer à adorer leur Dieu, Yahvé. S’ils s’inclinaient devant l’image, ils auraient été épargnés de tout problème.
 
@@ -21,7 +21,7 @@ Thèmes de leçon:
 
 **Application**: Nous sommes tous confrontés aux circonstances dans nos vies qui exigent que nous prenions une position forte et définitive, montrant clairement à qui appartient notre loyauté ultime. La leçon la plus importante que nous tirons de l’épisode de la fournaise ardente n’est pas la délivrance des trois exilés hébreux. Au contraire, le message principal réside dans le fait que le Seigneur leur a donné la force – ils n’ont pas peur de la mort – et Il marcha avec eux dans le feu.
 
-Part II: Commentaire
+### Part II: Commentaire
 
 **1. L’adoration**
 
