@@ -1,6 +1,9 @@
 ---
-title:  Histoiredate: 1/20/2019
+title:  Histoire
+date: 1/20/2019
 ---
+
+### Un livre que le feu n’a pu consumer
 
 _Par Andrew McChesney, Mission Adventiste_
 
