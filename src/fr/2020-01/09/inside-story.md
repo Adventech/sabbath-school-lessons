@@ -1,6 +1,9 @@
 ---
-title:  Histoiredate: 3/15/2019
+title:  Histoire
+date: 3/15/2019
 ---
+
+### Témoignage de la tombe
 
 _Par Andrew McChesney, Mission Adventiste_
 
