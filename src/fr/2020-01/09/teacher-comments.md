@@ -3,13 +3,15 @@ title:  Commentaires Moniteurs
 date: 3/16/2019
 ---
 
+### Partie I: Aperçu
+
 **Texte clé**: Daniel 8:14
 
 **Textes d’étude**: Daniel 8, Dan. 2:38, Gen. 11:4, Levétique 16, Heb. 9:23–28.
 
 **Introduction**: Le sujet principal de Daniel 8 est le Jour céleste des expiations. Pour cette raison, il y a les animaux symboliques représentant les empires mondiaux, à savoir, le bélier et le bouc, deux animaux sacrificiels utilisés dans le sanctuaire hébreu, mais seulement au Jour des expiations.
 
-Thèmes de leçon:
+**Thèmes de leçon**:
 
 1. La petite corne. La petite corne représente le pouvoir qui attaque le sanctuaire et le peuple de Dieu. Ce pouvoir représente Rome dans ses phases païennes et papales.
 
@@ -52,5 +54,3 @@ Maintenant vient la réponse à la question posée dans Daniel 8:13: « Combien 
 5. Quelle différence voyez-vous entre l’œuvre accomplie par Jésus sur la croix et Son ministère dans le sanctuaire céleste? Quelle est la pertinence de chacun dans votre vie?
 
 6. Pourquoi Dieu doit-il entreprendre une instruction du jugement dans le sanctuaire céleste? Pourquoi ne pas simplement prendre une décision divine instantanée sur le destin final des disciples de Christ? Que révèle cette procédure judiciaire sur le caractère de Dieu?
-
----
