@@ -44,7 +44,7 @@ var getCompilationQuarterValue = function(d) {
   var quarterIndex = (Math.ceil((d.getMonth()+1)/3)),
       nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex+1) : (d.getFullYear()+1) + "-01";
 
-  return "+(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")";
+  return "(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")";
 };
 
 var branch = argv.b,
@@ -370,17 +370,19 @@ var daysAPI = function(lessonPath, lesson){
     days.push(dayAPI(files[i], lesson));
   }
 
-  // Firebase
-  (function(language, quarterly, lesson, days){
-    firebaseDeploymentTasks.push(function(cb){
-      db.ref(FIREBASE_DATABASE_DAYS).child(language + "-" + quarterly + "-" + lesson).set(days, function(e){
-        cb(false, true);
+  if (new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7))) {
+    // Firebase
+    (function(language, quarterly, lesson, days){
+      firebaseDeploymentTasks.push(function(cb){
+        db.ref(FIREBASE_DATABASE_DAYS).child(language + "-" + quarterly + "-" + lesson).set(days, function(e){
+          cb(false, true);
+        });
       });
-    });
-  })(info.language, info.quarterly, info.lesson, days);
+    })(info.language, info.quarterly, info.lesson, days);
 
-  // API
-  fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + "index.json", JSON.stringify(days));
+    // API
+    fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + "index.json", JSON.stringify(days));
+  }
 
   return days;
 };
@@ -406,6 +408,9 @@ var dayAPI = function(dayPath, lesson){
 };
 
 var readAPI = function(dayPath, day, info, lesson){
+  if (!(new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7)))) {
+    return false;
+  }
   var read = {},
       meta = JSON.parse(JSON.stringify(day.meta));
 
