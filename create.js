@@ -23,12 +23,12 @@ var argv = require("optimist")
   .argv;
 
 var fs     =  require("fs-extra"),
-  moment =  require("moment");
+    moment =  require("moment");
 
 var SRC_PATH = "src/",
-  QUARTERLY_COVER = "images/quarterly_cover.png",
-  LESSON_COVER = "images/lesson_cover.png",
-  DATE_FORMAT = "DD/MM/YYYY";
+    QUARTERLY_COVER = "images/quarterly_cover.png",
+    LESSON_COVER = "images/lesson_cover.png",
+    DATE_FORMAT = "DD/MM/YYYY";
 
 var LOCALE_VARS = {
 
@@ -267,7 +267,7 @@ function createLanguageFolder(quarterlyLanguage){
 function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmi, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
-    start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
+      start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
 
   console.log("Creating file structure for new quarterly. Please do not abort execution");
 
