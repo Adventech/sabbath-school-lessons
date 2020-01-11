@@ -21,8 +21,8 @@ date:   10/01/2020
 
 <img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img01.jpg" style="max-width:100%" alt="이미지" />
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/02/days/img02.jpg" style="max-width:100%" alt="이미지" />
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img02.jpg" style="max-width:100%" alt="이미지" />
 
 <img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img03.jpg" style="max-width:100%" alt="이미지" />
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/02/days/img04.jpg" style="max-width:100%" alt="이미지" />
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img04.jpg" style="max-width:100%" alt="이미지" />
