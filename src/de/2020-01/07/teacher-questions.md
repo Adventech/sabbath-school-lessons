@@ -3,6 +3,9 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   14/02/2020
 ---
 
+**Von der Löwengrube zur Engelsgrube**
+======================================
+
 I: Gemeinschaft
 ---------------
 
@@ -22,6 +25,33 @@ II: Wir studieren die Bibel
 -   Fragen zur Relevanz der Botschaft für uns heute
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
+
+### Startfragen
+
+### Anmerkungen
+
+-   Zu Dan 6,1: In diesem Vers begegnet uns eine interessante
+    Persönlichkeit: Darius, der Meder. Sein Name findet sich in keiner
+    Königsliste des medo-persischen Reiches. Er scheint außerhalb der
+    Bibel nicht bekannt zu sein. In den Chroniken des Nabonid wird ein
+    Herrscher mit Namen Gubaru beschrieben, der die Vorhut der Armee des
+    Kyrus befehligte und Babylon noch vor dem Eintreffen der Hauptmacht
+    am 12. Oktober 539 v.Chr. eroberte. Der griechische Historiker
+    Xenophon erwähnt denselben Heerführer unter dem Namen Gobryas, den
+    Statthalter von Gutium, ein anderer Name für Medien. Gobryas ist die
+    griechische Form von Gubaru. Er wird im biblischen Bericht Darius
+    genannt.
+-   Und Darius aus Medien übernahm das Reich . . . : Es kann sich nur um
+    die babylonische Provinz handeln, da Kyrus zu dieser Zeit der König
+    des medo-persischen Reiches war. Darius regierte in der Funktion
+    eines Statthalters mit königlichem Rang. Er trug den Titel König von
+    Babylon.
+-   Als Darius im November 538 v.Chr. starb, nahm König Kyrus auch den
+    Titel König von Babel an und nannte sich von diesem Zeitpunkt an
+    auch König aller Länder. Daniel diente daher sowohl Darius, dem
+    König von Babylon, als auch nach dessen Tod dem König Kyrus.
+
+### SONNTAG – Eifersüchtig
 
 **Dan 6,1-6**
 
