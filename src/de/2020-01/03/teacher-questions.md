@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   17/01/2020
 ---
 
-Vom Rätsel zur Offenbarung
-==========================
+[Vom Rätsel zur Offenbarung](https://sabbath-school.adventech.io/de/2020-01/03/vom-r%C3%A4tsel-zur-offenbarung/)
+================================================================================================================
 
 I: Gemeinschaft
 ---------------
@@ -28,14 +28,14 @@ II: Wir studieren die Bibel
 
 ### Startfragen
 
--   -   Lenkt Gott die Geschichte stets aktiv oder weiß er sie im
-        Voraus? Oder beides?
-    -   Gott offenbart sich und lässt doch auch Fragen offen. Ist das
-        von Vorteil? Warum?
+-   Lenkt Gott die Geschichte stets aktiv oder weiß er sie im Voraus?
+    Oder beides?
+-   Gott offenbart sich und lässt doch auch Fragen offen. Ist das von
+    Vorteil? Warum?
 
-### SONNTAG – Die Immanenz Gottes
+### [Die Immanenz Gottes](https://sabbath-school.adventech.io/de/2020-01/03/die-immanenz-gottes/)
 
-**Dan 2,11-16**
+**Daniel 2,11-16**
 
 -   Fragen zum Text:
     -   Warum schickt Gott diesem Nebukadnezar diesen Traum?
@@ -47,9 +47,9 @@ II: Wir studieren die Bibel
     -   Inwiefern kümmert sich Gott um jeden Menschen? (selbst wenn er
         den Tempel zerstörte?)
 
-### MONTAG – Das Gebet
+### [Das Gebet](https://sabbath-school.adventech.io/de/2020-01/03/das-gebet/)
 
-**Dan 2,17-23**
+**Daniel 2,17-23**
 
 -   Fragen zum Text:
     -   Wie kann ich die gleiche Art von ruhigem Vertrauen erlangen, die
@@ -70,9 +70,9 @@ II: Wir studieren die Bibel
     -   Hat Gott auch uns Geheimnisse offenbart? (Erlösung,
         Wiederkunft,…)
 
-### DIENSTAG – Das Bild T1
+### [Das Bild T1](https://sabbath-school.adventech.io/de/2020-01/03/das-bild-teil-1/)
 
-**Dan 2,24-49**
+**Daniel 2,24-49**
 
 -   Fragen zum Text:
     -   Warum ging Daniel ohne Verzug zu Arioch? Welche Sicherheit
@@ -87,9 +87,9 @@ II: Wir studieren die Bibel
         bestraft? Was riskierte Daniel mit der Botschaft –(„Babylon
         bleibt nicht ewig!“)?...
 
-### MITTWOCH – Das Bild T2
+### [Das Bild T2](https://sabbath-school.adventech.io/de/2020-01/03/das-bild-teil-2/)
 
-**Dan 2 31-49**
+**Daniel 2 31-49**
 
 -   Fragen zum Text:
     -   Welche Bedeutung hat der Traum für uns heute?
@@ -101,9 +101,9 @@ II: Wir studieren die Bibel
     -   Wie steht er konkret zu /uns Menschen allgemein? / mir
         persönlich? / meinem Nächsten?
 
-### DONNERSTAG – Der Stein
+### [Der Stein](https://sabbath-school.adventech.io/de/2020-01/03/der-stein/)
 
-**Dan 2,30-45**
+**Daniel 2,30-45**
 
 -   Fragen zum Text:
     -   Welche Reaktion zeigte der König?
