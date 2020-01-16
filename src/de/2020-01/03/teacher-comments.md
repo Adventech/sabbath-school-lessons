@@ -29,7 +29,7 @@ Der Traum offenbart den weiten Bogen der Geschichte vom babylonischen Reich bis 
 
 **Anwendung**
 
-Ein wesentlicher Aspekt des Traums ist die Zusicherung, dass wir unser Leben Gott ­anvertrauen können. Gott ist die wahre Quelle von Weisheit und Kraft. Er erhörte das ­Gebet Daniels und offenbarte dem Propheten den Inhalt und die Interpretation des Traums. Lasst uns diesen Gott voller Zuversicht anbeten und ihm dienen.
+Ein wesentlicher Aspekt des Traums ist die Zusicherung, dass wir unser Leben Gott anvertrauen können. Gott ist die wahre Quelle von Weisheit und Kraft. Er erhörte das Gebet Daniels und offenbarte dem Propheten den Inhalt und die Interpretation des Traums. Lasst uns diesen Gott voller Zuversicht anbeten und ihm dienen.
 
 ### KOMMENTAR
 
@@ -52,7 +52,7 @@ Unter den gegebenen Umständen konnte jedoch kein Experte den Traum entschlüsse
 
 2. Die Bedeutung des Traums
 
-Der Traum der aus verschiedenen Metallen gefertigten Statue zeigte die Abfolge der Weltreiche, von Babylon bis hin zum Höhepunkt, der Errichtung des ewigen Reiches Gottes. Die Metalle nehmen von oben nach unten (außer den Füßen) an Wert ab und an Festigkeit zu, was auf den schlechteren Zustand jedes nachfolgenden Reiches hinweisen ­könnte. Ellen White erklärte es so:
+Der Traum der aus verschiedenen Metallen gefertigten Statue zeigte die Abfolge der Weltreiche, von Babylon bis hin zum Höhepunkt, der Errichtung des ewigen Reiches Gottes. Die Metalle nehmen von oben nach unten (außer den Füßen) an Wert ab und an Festigkeit zu, was auf den schlechteren Zustand jedes nachfolgenden Reiches hinweisen könnte. Ellen White erklärte es so:
 
 „Am Ende lag Babylon in Trümmern und verschwand, weil sich seine Herrscher in Zeiten des Wohlstands als von Gott unabhängig betrachtet und den Ruhm ihres Königreiches menschlicher Leistung zugeschrieben hatten. Das folgende Medo-Persische Reich wurde vom Zorn des Himmels heimgesucht, weil darin Gottes Gesetz mit Füßen getreten wurde. Bei der überwiegenden Mehrheit des Volkes war für die Gottesfurcht kein Platz. Bosheit, Gotteslästerung und Sittenverfall herrschten vor. Die folgenden Reiche waren noch niedriger und verderbter. Sie sanken immer tiefer auf der Waagschale sittlicher Werte.“ (MUO 337)
 
@@ -66,11 +66,11 @@ Felsen und Berge erinnern an andere Abschnitte der Bibel, die den Tempelberg üb
 
 Erstens enthüllt der Traum den weiten Bogen der Geschichte vom babylonischen Reich bis zum Ende der Zeiten. Er wurde einem heidnischen König gegeben, um zu zeigen, dass der König der Könige der letztendliche Herrscher über jedes menschliche Königreich ist. Tatsächlich erhielt Nebukadnezar durch den Traum und die anschließende Deutung durch Daniel einen Crashkurs über die Philosophie der Weltgeschichte.
 
-Zweitens wurde Daniel die Deutung des Traums von Gott offenbart. Die Babylonier ­erwiesen sich trotz all ihrer Ausbildung und „wissenschaftlichen Publikationen“ zur Traumdeutung als unfähig, auf die einzige Wissensquelle zuzugreifen, die in der Lage war, dieses Geheimnis zu lüften.
+Zweitens wurde Daniel die Deutung des Traums von Gott offenbart. Die Babylonier erwiesen sich trotz all ihrer Ausbildung und „wissenschaftlichen Publikationen“ zur Traumdeutung als unfähig, auf die einzige Wissensquelle zuzugreifen, die in der Lage war, dieses Geheimnis zu lüften.
 
-Drittens haben wir, wenn wir die Statue als eine Darstellung der Weltreiche und Machtsysteme betrachten, den Eindruck, dass vieles von dem noch gilt, was die Statue darstellt. Wenn wir die Statue jedoch als eine Darstellung der Abfolge von Weltreichen ­sehen, erkennen wir, dass wir in der Endzeit leben. Aber unabhängig von der Chronologie der letzten Ereignisse können wir mit der Gewissheit leben, dass der Stein kommt!
+Drittens haben wir, wenn wir die Statue als eine Darstellung der Weltreiche und Machtsysteme betrachten, den Eindruck, dass vieles von dem noch gilt, was die Statue darstellt. Wenn wir die Statue jedoch als eine Darstellung der Abfolge von Weltreichen sehen, erkennen wir, dass wir in der Endzeit leben. Aber unabhängig von der Chronologie der letzten Ereignisse können wir mit der Gewissheit leben, dass der Stein kommt!
 
-Viertens muss der Traum im Zusammenhang mit dem Gebet Daniels verstanden ­werden. Daniels Gebet steht im Mittelpunkt dieses Kapitels und trifft die wichtigste theologische Aussage über Gottes Weisheit und Kraft (Dan 2,20–22).
+Viertens muss der Traum im Zusammenhang mit dem Gebet Daniels verstanden werden. Daniels Gebet steht im Mittelpunkt dieses Kapitels und trifft die wichtigste theologische Aussage über Gottes Weisheit und Kraft (Dan 2,20–22).
 
 ### ANWENDUNG
 

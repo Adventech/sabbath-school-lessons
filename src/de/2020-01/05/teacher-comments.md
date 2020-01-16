@@ -29,17 +29,17 @@ Gott offenbart sich in dieser Begebenheit als der Eine, der Könige einsetzt und
 
 **Anwendung**
 
-In jedem steckt ein Nebukadnezar. Stolz zu überwinden und demütig zu werden ist ein Ideal, das wir rein menschlich nicht erreichen können. Demut ist ein flüchtiges Ziel. ­Sobald wir denken, wir haben es erreicht, ist es bereits wieder weg. Aber Jesus kann uns die Kraft geben, unsere Arroganz zu überwinden und ein demütiges Leben zu führen. Er kann jede „Versuchung zum Stolz in eine Gelegenheit zur Dankbarkeit“ verwandeln (Christoph J. H. Wright, Hearing the Message of Daniel: Sustaining Faith in Today’s World, Grand Rapids, Michigan, 2017, S. 94).
+In jedem steckt ein Nebukadnezar. Stolz zu überwinden und demütig zu werden ist ein Ideal, das wir rein menschlich nicht erreichen können. Demut ist ein flüchtiges Ziel. Sobald wir denken, wir haben es erreicht, ist es bereits wieder weg. Aber Jesus kann uns die Kraft geben, unsere Arroganz zu überwinden und ein demütiges Leben zu führen. Er kann jede „Versuchung zum Stolz in eine Gelegenheit zur Dankbarkeit“ verwandeln (Christoph J. H. Wright, Hearing the Message of Daniel: Sustaining Faith in Today’s World, Grand Rapids, Michigan, 2017, S. 94).
 
 ### KOMMENTAR
 
 1. Stolz
 
-Daniel 4 ist ein persönliches Zeugnis von Nebukadnezar. Im Laufe der Erzählung erkennt der König, dass Stolz die Ursache für seinen Sturz aus der Königswürde war, und erzählt weiter, wie Gott handelte, um ihn zur Demut zu bringen. Auf dem Höhepunkt seiner Errungenschaften (etwa 30 Jahre nach den in Daniel 3 berichteten Ereignissen) träumte der König von einem gigantischen Baum, der allen Lebewesen der Erde Schutz und Nahrung bot. Dann wurde der Baum aufgrund einer himmlischen Entscheidung gefällt. Wiederum war nur Daniel in der Lage, dem König die wahre Deutung zu geben. Dieser üppige Baum stellte den König in seiner Arroganz dar. Tatsächlich werden Bäume und Reben an anderer Stelle in der Heiligen Schrift als Symbole für arrogante Könige und ­Königreiche verwendet, die Gott schließlich zu Fall bringt (Hes 17,1–15; 19,10–14; 31,3–12).
+Daniel 4 ist ein persönliches Zeugnis von Nebukadnezar. Im Laufe der Erzählung erkennt der König, dass Stolz die Ursache für seinen Sturz aus der Königswürde war, und erzählt weiter, wie Gott handelte, um ihn zur Demut zu bringen. Auf dem Höhepunkt seiner Errungenschaften (etwa 30 Jahre nach den in Daniel 3 berichteten Ereignissen) träumte der König von einem gigantischen Baum, der allen Lebewesen der Erde Schutz und Nahrung bot. Dann wurde der Baum aufgrund einer himmlischen Entscheidung gefällt. Wiederum war nur Daniel in der Lage, dem König die wahre Deutung zu geben. Dieser üppige Baum stellte den König in seiner Arroganz dar. Tatsächlich werden Bäume und Reben an anderer Stelle in der Heiligen Schrift als Symbole für arrogante Könige und Königreiche verwendet, die Gott schließlich zu Fall bringt (Hes 17,1–15; 19,10–14; 31,3–12).
 
 Mit höchster pastoraler Sensibilität erklärte Daniel, dass der Baum den König selbst darstellte. Gott würde ihn vom Thron entfernen, wenn er nicht seine Einstellung zu seinen Untertanen änderte (Dan 4,27). Stolz hat, wie gewöhnlich, Auswirkungen auf den sozialen Bereich. Aber die Zeit war gekommen, dass Nebukadnezar für seinen hochmütigen Verwaltungsstil zur Rechenschaft gezogen werden sollte. Wenn er seinem schrecklichen Schicksal entkommen wollte, hatte er keine andere Wahl, als Unterdrückung durch Gerechtigkeit zu ersetzen und so den Charakter Gottes in den Angelegenheiten seines Reiches widerzuspiegeln. Aber der König war nicht bereit, seine Arroganz aufzugeben und seine Art zu ändern. Ein Jahr später schwelgte er in seinen Bauleistungen (Dan 4,29–30), was eine ziemliche Ironie ist. Schließlich „hatte Nebukadnezar in seinem ganzen Leben vermutlich noch nie einen Ziegelstein in der Hand gehabt. Er hatte Babylon nicht erbaut. Es war mit dem Schweiß der namenlosen Tausenden von unterdrückten Sklaven, Einwanderern und anderen armen Bevölkerungsschichten erbaut worden – der Art von Menschenmassen, deren Arbeit jede bedeutende Zivilisation der gefallenen Menschheit in der Geschichte errichtet hat.“ (Christopher J. H. Wright, Hearing the Message of Daniel, S. 101)
 
-In genau diesem Moment wurde der König von einer Geisteskrankheit befallen, mög­licherweise einer Geistesstörung, die als Zooanthropie oder Lykanthropie bekannt ist. Dabei denkt eine Person, sie sei ein Tier geworden, und verhält sich entsprechend. Sieben Jahre lang musste Nebukadnezar bei den Tieren des Feldes leben. So wurde derjenige, der sich für einen Gott hielt, weniger als ein Mensch. Die Bibel sagt es deutlich: „Vor dem Verderben kommt Stolz, und Hochmut vor dem Fall.“ (Spr 16,18 EB)
+In genau diesem Moment wurde der König von einer Geisteskrankheit befallen, möglicherweise einer Geistesstörung, die als Zooanthropie oder Lykanthropie bekannt ist. Dabei denkt eine Person, sie sei ein Tier geworden, und verhält sich entsprechend. Sieben Jahre lang musste Nebukadnezar bei den Tieren des Feldes leben. So wurde derjenige, der sich für einen Gott hielt, weniger als ein Mensch. Die Bibel sagt es deutlich: „Vor dem Verderben kommt Stolz, und Hochmut vor dem Fall.“ (Spr 16,18 EB)
 
 2. Demut
 
@@ -64,7 +64,7 @@ S. 96–97) Das Prinzip von Gottes erlösender Gnade beruht immer auf diesem Geb
 
 ### ANWENDUNG
 
-`1. Wie bewertet ihr eure eigenen Leistungen im Vergleich zu denen anderer? Woran ­erkennt man den Unterschied zwischen Stolz und hohem Selbstwertgefühl?`
+`1. Wie bewertet ihr eure eigenen Leistungen im Vergleich zu denen anderer? Woran erkennt man den Unterschied zwischen Stolz und hohem Selbstwertgefühl?`
 
 `2. Wie können wir eurer Meinung nach echte Demut zeigen und erleben? Worin besteht der Unterschied zwischen Demut und einem geringen Selbstwertgefühl?`
 

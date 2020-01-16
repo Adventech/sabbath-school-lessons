@@ -35,7 +35,7 @@ Trotz des scheinbar hoffnungslosen Zustands unserer heutigen Welt hat Gott das S
 
 1. Christus
 
-Eines der wichtigsten Ziele des Bibelstudiums ist es, mehr über Jesus zu erfahren. Schließlich zeugt die Heilige Schrift vom ersten Buch Mose bis zur Offenbarung von ­Jesus. Es gibt im Neuen Testament etwa 200 Bezüge zum Buch Daniel. Anteilsmäßig wird Daniel genauso oft zitiert wie Jesaja und die Psalmen – die Bücher, die im Neuen Testament am häufigsten zitiert oder erwähnt werden. Ganz sicher hat Daniel viel über ­Jesus zu sagen. Wir wollen sechs biblische Prinzipien untersuchen, die uns einen besseren ­Zugang ­gewähren, wenn wir im Buch Daniel etwas über Christus erfahren.
+Eines der wichtigsten Ziele des Bibelstudiums ist es, mehr über Jesus zu erfahren. Schließlich zeugt die Heilige Schrift vom ersten Buch Mose bis zur Offenbarung von Jesus. Es gibt im Neuen Testament etwa 200 Bezüge zum Buch Daniel. Anteilsmäßig wird Daniel genauso oft zitiert wie Jesaja und die Psalmen – die Bücher, die im Neuen Testament am häufigsten zitiert oder erwähnt werden. Ganz sicher hat Daniel viel über Jesus zu sagen. Wir wollen sechs biblische Prinzipien untersuchen, die uns einen besseren Zugang gewähren, wenn wir im Buch Daniel etwas über Christus erfahren.
 
 Erstens wird Jesus in der erlösungsbezogenen historischen Abfolge des Buches Daniel offenbart. Jesus ist das Ziel, zu dem hin sich die in den Prophezeiungen Daniels dargestellte Heilsgeschichte entfaltet. So wird Jesus im Buch Daniel insofern offenbart, als der historische Verlauf von Gottes Umgang mit seinem Volk und der Welt in Jesus gipfelt.
 
@@ -43,7 +43,7 @@ Zweitens erscheint Jesus in dem Muster der Verheißungserfüllung, das in den Pr
 
 Drittens lernen wir, wenn wir die Typologie studieren, dass Gott einige Ereignisse und Einrichtungen dazu vorherbestimmt hat, wichtige Aspekte des Erlösungsplans vorausahnen zu lassen. Daher wird Jesus durch Heiligtum/Priestertum/Opfer offenbart, die im Buch Daniel erwähnt werden.
 
-Viertens können wir Jesus auch in einigen expliziten Lehren des Textes im Buch ­Daniel bei Analogien erkennen, die Jesu eigenen Erfahrungen entsprechen. Zum Beispiel spiegelt der Druck auf Daniels Freunde, sie sollten „niederfallen und das goldene Bild anbeten“ (Dan 3,5), wider, wie der Teufel Jesus versuchte: Er „sprach zu ihm: Das alles will ich dir geben, wenn du niederfällst und mich anbetest“ (Mt 4,9). Die Treue von Daniels Freunden gewährt uns einen flüchtigen Blick auf den vollkommenen Gehorsam Jesu gegenüber dem Vater.
+Viertens können wir Jesus auch in einigen expliziten Lehren des Textes im Buch Daniel bei Analogien erkennen, die Jesu eigenen Erfahrungen entsprechen. Zum Beispiel spiegelt der Druck auf Daniels Freunde, sie sollten „niederfallen und das goldene Bild anbeten“ (Dan 3,5), wider, wie der Teufel Jesus versuchte: Er „sprach zu ihm: Das alles will ich dir geben, wenn du niederfällst und mich anbetest“ (Mt 4,9). Die Treue von Daniels Freunden gewährt uns einen flüchtigen Blick auf den vollkommenen Gehorsam Jesu gegenüber dem Vater.
 
 Fünftens erscheint Jesus auch in den sich durchziehenden Themen, die zu Jesus im Neuen Testament führen. Zum Beispiel weist das große Thema Erlösung auf Jesus als den letztendlichen Retter seines Volkes hin.
 
