@@ -18,7 +18,8 @@ var BIBLE_PARSER_CONFIG = {
 
   "da": [
     "bph",
-    "dn1933"
+    "dn1933",
+    "bibelen1992",
   ],
 
   "de": [
@@ -86,7 +87,9 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "hu": [
-    "mb1975"
+    "karoli",
+    "revkar2011",
+    "ruf2014",
   ],
 
   "hy": [
