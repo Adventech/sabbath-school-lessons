@@ -90,6 +90,7 @@ var BIBLE_PARSER_CONFIG = {
     "karoli",
     "revkar2011",
     "ruf2014",
+    "mb1975"
   ],
 
   "hy": [
