@@ -3,7 +3,7 @@ title:  Lehrerteil
 date:   21/02/2020
 ---
 
-TEIL I: ÜBERSICHT
+### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Daniel 7,27
 
