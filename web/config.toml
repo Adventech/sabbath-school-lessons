@@ -471,3 +471,12 @@ title = "Sabbath School"
 	current = "Huidige les"
 	archive = "Les archief"
 	lang = "🇳🇱 Nederlandse taal"
+
+[params.am]
+	title = "የጎልማሶች ሰንበት ትምህርት"
+	back = "ተመለስ"
+	all = "ሁሉም ትምህርቶች"
+	todaysLesson = "የዛሬው ትምህርት"
+	current = "ወቅታዊ ትምህርት"
+	archive = "ትምህርት መዝገብ"
+	lang = "🇪🇹 አማርኛ"

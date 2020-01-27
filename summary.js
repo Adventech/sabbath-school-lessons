@@ -4,6 +4,7 @@ var fs = require("fs-extra");
 
 var SOURCE_DIR = "src/",
     LANGUAGE_EMOJI_MAPPER = {
+        "am": "🇪🇹",
         "af": "🇿🇦",
         "ar": "🇸🇦",
         "bg": "🇧🇬",

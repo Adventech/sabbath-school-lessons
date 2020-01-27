@@ -157,4 +157,7 @@ languages:
   - native: Nederlandse taal
     en: Dutch
     code: nl
+  - native: አማርኛ
+    en: Amharic
+    code: am
 ---

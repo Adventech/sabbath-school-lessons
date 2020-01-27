@@ -1,4 +1,7 @@
 var BIBLE_PARSER_CONFIG = {
+  "am": [
+    "nasv"
+  ],
   "af": [
     "afr83",
     "afr1953"
