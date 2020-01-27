@@ -170,6 +170,10 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "si": [
+    "srov"
+  ],
+
   "sl": [
     "chr",
     "eku",

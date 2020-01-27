@@ -160,4 +160,7 @@ languages:
   - native: አማርኛ
     en: Amharic
     code: am
+  - native: සිංහල
+    en: Sinhala
+    code: si
 ---
