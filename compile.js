@@ -54,7 +54,7 @@ var branch = argv.b,
 var firebaseDeploymentTasks = [];
 
 var getInfoFromPath = function(path){
-  var infoRegExp = /src\/([a-z]{2})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
+  var infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
       matches = infoRegExp.exec(path),
       info = {};
 

@@ -1,4 +1,7 @@
 var BIBLE_PARSER_CONFIG = {
+  "am": [
+    "nasv"
+  ],
   "af": [
     "afr83",
     "afr1953"
@@ -63,6 +66,10 @@ var BIBLE_PARSER_CONFIG = {
     "nr2006"
   ],
 
+  "ilo": [
+    "tb1973"
+  ],
+
   "ka": [
     "geo"
   ],
@@ -74,6 +81,10 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "hi": ["hhbd"],
+
+  "hil": [
+    "hil82"
+  ],
 
   "he": [
     "em-1865"
@@ -165,6 +176,10 @@ var BIBLE_PARSER_CONFIG = {
   "ru": [
     "bti",
     "rusv"
+  ],
+
+  "si": [
+    "srov"
   ],
 
   "sl": [

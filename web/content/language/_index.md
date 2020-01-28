@@ -157,4 +157,16 @@ languages:
   - native: Nederlandse taal
     en: Dutch
     code: nl
+  - native: አማርኛ
+    en: Amharic
+    code: am
+  - native: සිංහල
+    en: Sinhala
+    code: si
+  - native: Ilokano
+    en: Ilocano
+    code: ilo
+  - native: Hiligaynon
+    en: Hiligaynon
+    code: hil
 ---
