@@ -163,4 +163,7 @@ languages:
   - native: සිංහල
     en: Sinhala
     code: si
+  - native: Ilokano
+    en: Ilocano
+    code: ilo
 ---

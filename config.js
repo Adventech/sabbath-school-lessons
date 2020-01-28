@@ -66,6 +66,10 @@ var BIBLE_PARSER_CONFIG = {
     "nr2006"
   ],
 
+  "ilo": [
+    "tb1973"
+  ],
+
   "ka": [
     "geo"
   ],
