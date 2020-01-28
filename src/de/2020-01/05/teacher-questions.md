@@ -17,8 +17,8 @@ I: Gemeinschaft
 II: Wir studieren die Bibel
 ---------------------------
 
-**Vom Stolz zur Demut**
------------------------
+**[Vom Stolz zur Demut](https://sabbath-school.adventech.io/de/2020-01/05/vom-stolz-zur-demut/)**
+-------------------------------------------------------------------------------------------------
 
 #### **Startfrage(n)**
 
@@ -29,7 +29,7 @@ II: Wir studieren die Bibel
     Wort.“ (21MR 10) – Inwiefern können Sanftmut und Demut Sünde in uns
     überwinden?
 
-#### **Sonntag: Ist das nicht Babylon die Große?**
+#### **[Ist das nicht Babylon die Große?](https://sabbath-school.adventech.io/de/2020-01/05/ist-das-nicht-babylon-die-gro%C3%9Fe/)**
 
 **Daniel 3,29**
 
@@ -46,7 +46,7 @@ II: Wir studieren die Bibel
     bei diesen zumindest einmal aufgehender Glaube schneller wieder
     „verwelkt“? Erkläre und begründe!
 
-#### **Montag: Vom Propheten gewarnt**
+#### **[Vom Propheten gewarnt](https://sabbath-school.adventech.io/de/2020-01/05/vom-propheten-gewarnt/)**
 
 **Daniel 4,1-5**
 
@@ -59,7 +59,7 @@ II: Wir studieren die Bibel
 -   Wie erklärst du dir, dass Daniel erst „zuletzt“ (v.5) gerufen wird –
     erst nach allen anderen Weisen und Wahrsagern?
 
-#### **Dienstag: Der Höchste regiert**
+#### **[Der Höchste regiert](https://sabbath-school.adventech.io/de/2020-01/05/der-h%C3%B6chste-regiert-/)**
 
 **Daniel 4,21-29**
 
@@ -88,7 +88,7 @@ II: Wir studieren die Bibel
 -   Was kann und/oder sollte uns diese Geschichte lehren, wenn wir
     selbst Macht über andere Menschen haben?
 
-#### **Mittwoch: Die Augen zum Himmel erheben**
+#### **[Die Augen zum Himmel erheben](https://sabbath-school.adventech.io/de/2020-01/05/die-augen-zum-himmel-erheben/)**
 
 **Daniel 4,30-34**
 
@@ -100,7 +100,7 @@ II: Wir studieren die Bibel
     dich demütig gemacht, dankbar, zufrieden, geduldig, barmherzig,
     mitfühlend, hoffnungsvoll o. Ä.?
 
-#### **Donnerstag: Demütig und dankbar**
+#### **[Demütig und dankbar](https://sabbath-school.adventech.io/de/2020-01/05/dem%C3%BCtig-und-dankbar/)**
 
 -   Das ganze Kapitel scheint ein Brief an die von Nebukadnezar
     beherrschten Völker gewesen zu sein – erneut. Wie viel sollte man
