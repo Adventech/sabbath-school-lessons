@@ -1,5 +1,5 @@
 ---
-title:  Teacher Comments
+title:  Palīgmateriāls Bībeles studiju skolotājiem
 date:   21/02/2020
 ---
 

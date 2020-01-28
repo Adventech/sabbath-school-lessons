@@ -1,7 +1,46 @@
 ---
-title:  Teacher Comments
+title:  Palīgmateriāls Bībeles studiju skolotājiem
 date:   10/01/2020
 ---
 
-### <center>Mēs strādājam pie šīs nodarbības.</center>
-<center>Lūdzu, atgriezieties vēlāk.</center>
+### Pirmā daļa — Pārskats
+
+**Pamatdoma**: Dan. 1:17
+
+**Pētījumu centrs**: Dan. 1; 1. Moz. 39; Esteres 4, Esteres 5.
+
+**Ievads**: Daniēla 1. nodaļa atklāj fonu tam, kas turpinās visā grāmatā, un iepazīstina ar grāmatas galvenajām tēmām. Dievs parādās kā grāmatas galvenais varonis, kurš valda pār pasaules ķēniņiem un valstībām, palīdzot Saviem uzticīgajiem ļaudīm svešajā zemē. Daudzu trimdā aizvesto ļaužu starpā četri jaunekļi ar nepieredzētu gudrību risina sarežģītos Bābeles galma jautājumus, apņemoties palikt uzticīgi savu tēvu Dievam.
+
+**Stundas tēmas**: šīsnedēļas viela izceļ trīs galvenos tematus:
+
+1.	Daniēla grāmatas konteksts. Pat tik traģiska notikuma kā trimdas laika posmā Dievs joprojām visu kontrolē. Trimda nebija negaidīts atgadījums, Bābeles spēka izpausme, bet gan Dieva sen paziņotā sprieduma kulminācija pār tautu, kam trūkst nožēlas.
+2.	Daniēla izglītība. Izglītības procesa laikā Daniēls un viņa draugi nolēma pretoties impērijas indoktrinācijai. Lai arī ārējie pierādījumi liecināja, ka Dievs ir zaudējis cīņu ar pagānu dievībām, šie jaunie vīrieši palika uzticīgi un rīkojās saskaņā ar Dieva Vārdu.
+3.	Daniēla gudrība. Svarīgs Daniēla un viņa pavadoņu raksturojuma aspekts ir tas, ka viņi bija gudri. Šis raksturojums attiecas ne tikai uz intelektuālo gudrību vai zināšanām; tas norāda uz dievišķi dotu spēju redzēt dzīvi no Dieva skatupunkta.
+
+**Prakse**: Lai arī dzīvē var būt neizskaidrojami un sarežģīti apstākļi, Dievs, kuram mēs kalpojam, kontrolē visas lietas, un sliktais var pārvērsties labajā. Mūsu pasaules uzskats, ko veido idejas un pārliecība par Dievu un realitāti kopumā, ir ļoti svarīgs. Kaut mums, tāpat kā Daniēlam, Raksti būtu galvenais avots un pasaules uzskata pamats! 
+
+### Otrā daļa — Komentāri
+
+1. Daniēla grāmatas konteksts. Trimda nebija negaidīts atgadījums, ko izraisīja Bābeles vara, vai patvaļīgs Dieva lēmums. Jau vairāki pravieši bija brīdinājuši Dieva tautu – ja viņi nenožēlos grēkus un neatgriezīsies pie derības, tos sodīs sveši spēki, kas iznīcinās templi un aizvedīs viņus nebrīvē uz svešu zemi. Jeremija, viens no tā laika praviešiem, mudināja Jūdas ķēniņus pakļauties Babilonijai, jo tāda bija Dieva griba. Kad daudzie brīdinājumi palika bez ievērības, uz Jeruzālemi nāca Nebukadnēcars un aizveda jūdus Babilonijas impērijas kontrolē. 
+Lai izprastu Daniēla un viņa draugu pieredzi, mums jāpatur prātā, ka trimda bija masveida iedzīvotāju deportācija no viņu dzimtajām zemēm, lai iznīcinātu viņu identitāti un tādējādi atvieglotu kontroli pār vietējo varu. Šāda izsūtīšana parasti bija vērsta uz augstākām šķirām, muižniekiem, vadītājiem, domniekiem. Tikai nabadzīgajiem bija atļauts uzturēties dzimtenē, kuru bieži bija izpostījis karš. Šādu politisko un militāro stratēģiju senajā pasaulē plaši praktizēja asīrieši un babilonieši. 722 p.m.ē. asīrieši likvidēja Izraēlas ziemeļdaļu un lielu skaitu tās iedzīvotāju deportēja uz citām impērijas vietām. Jūda nepievērsa uzmanību sava kaimiņa liktenim, kamēr pār viņiem tas nāca caur Bābeles varu. 
+Bībelē ir aprakstīti trīs nozīmīgi Babilonijas iebrukumi Jūdā un trīs deportācijas. Pirmais notika 605. gadā pirms mūsu ēras, kad Nebukadnēcars pēc Ēģiptes sakāves pie Karhemišas devās karagājienā pret Jūdu. Viņš aizveda dažus gūstekņus, starp kuriem bija Daniēls un viņa trīs draugi. 597. gadā p.m.ē., ņemot vērā Jojakima politiskos manevrus, kas pieprasīja politisko aliansi ar Ēģipti, Nebukadnēcars otro reizi iebruka Jūdas teritorijā un deportēja vēl vienu iedzīvotāju daļu. Izsūtīto vidū bija pravietis Ecehiēls un ķēniņa Jojakima dēls Jojahīns. Nebukadnēcars iecēla tronī Cedekiju (Jojakima tēvoci), ar to cerot nodrošināt viņa lojalitāti Babilonijai. Taču, neraugoties uz Jeremijas nepārtrauktajiem brīdinājumiem, jaunais ķēniņš turpināja meklēt ēģiptiešu palīdzību, lai pretotos babiloniešu kundzībai. Galu galā Nebukadnēcars zaudēja pacietību un 586. g. p.m.ē. atkal gāja pret Jūdu; šoreiz babilonieši nopostīja Jeruzālemi un templi līdz zemei un deportēja vēl vienu iedzīvotāju daļu.
+
+2. Daniēla izglītība. Svarīgi ir uzzināt ko vairāk par Babilonijas izglītības sistēmu. Šādas zināšanas dod priekšstatu par to, kādus priekšmetus mācīja ebreju gūstekņiem un ar kādu pasaules uzskatu viņi saskārās.
+Pirmais babiloniešu izglītības posms ietvēra divu galveno babiloniešiem kopīgo valodu apguvi: arābu, kas tajā laikā kļuva par starptautisku valodu, un akadiešu, kas bija literārā valoda, ko izmantoja, lai uzturētu impērijas reliģiskās un kultūras tradīcijas. Akadiešu valoda prasīja apgūt sarežģītas ķīļrakstu sistēmas ar simtiem rakstzīmju. Šajā pirmajā posmā studenti apguva tekstus, kuri atklāj Babilonijas jauniešiem jau kopš bērnības pazīstamus stāstus, piemēram, leģendas par Gilgamešu, Sargonu un Nāram–Sinu.
+Otrajā posmā studenti tika iepazīstināti ar vēl citiem tekstiem, kas bija domāti, lai pilnveidotu viņu literārās prasmes un palīdzētu attīstīt babiloniešu pasaules uzskatu. Kāds autors otro posmu apraksta šādi: “Tam bija divi mērķi: piepildīt studenta prātu ar galvaspilsētā valdošo teoloģisko un politisko ideoloģiju un sagatavot juniora stažēšanos amatam, ko pēc babiloniešu grāmatu sniegtās informācijas ieņēma daudzi iesācēji rakstu mācītāji. Ciktāl tas attiecas uz literatūru, tad stāstu stāstīšana, kas raksturoja pirmo posmu, pavēra ceļu nopietnākiem jautājumiem, pasaules uzskata iesakņošanai un praktisko zināšanu ieguvei.” — A.R. George, The Babylonian Gilgamesh Epic (Oxford: Oxford University Press, 2005), 1:36.
+Mums nav sīkākas informācijas par Daniēlam un viņa draugiem noteikto īpašo mācību programmu. Taču iepriekš sniegtais apraksts sniedz priekšstatu par to, kā šajā laikā izglītoja Bābelē. Daniēlam un viņa draugiem uzspiestā akadēmiskā programma varēja būt tikpat prasīga kā iepriekš aprakstītā. Taču Daniēls un viņa draugi ar gudrību un zināšanām  izcēlās visās jomās, kuras popularizēja Bābeles universitāte!
+
+3. Daniēla gudrība. Viens no Daniēla un viņa draugu svarīgiem rakstura aspektiem ir tas, ka viņi bija gudri. Kad Daniēls mēģina apiet Babilonijas indoktrinācijas izaicinājumus, īpaši attiecībā uz ēdienu, viņš rīkojas ar nepārspējamu taktu un gudrību, lai izvairītos pieņemt ēdienu no ķēniņa galda. Pēc tam tiek atzīts, ka Daniēls un viņa pavadoņi ir desmit reizes gudrāki par visiem citiem Bābeles gudrajiem. Grāmatas beigās tiek pieminēti saprātīgie un gudrie, kurus vajā ļaunuma spēki, taču beigu galā tie iznāk kā uzvarētāji (Dan. 11:33, 35; Dan. 12:3). Taču, lai labāk izprastu gudrības tēmu Daniēla grāmatā, būtu noderīgi apskatīt, kā šī tēma traktēta citviet Bībelē.
+Viena no aizraujošākajām Bībeles tēmām ir gudrības jēdziens. Ir pat dažas nozīmīgas Bībeles sadaļas, kas nosauktas par gudrības literatūru. Ījaba grāmata, Salamana pamācības un Salamana mācītāja grāmata kopā ar Salamana augsto dziesmu un vairākiem psalmiem tiek uzskatīti par gudrības tekstiem. Gudrības tekstos tiek uzsvērta paklausība Dieva likumiem, kas parasti nodrošina labu dzīvi. Gudrības teksti parasti nepamato savu vēstījumu 2. Mozus grāmatā vai citos nozīmīgos glābšanas notikumos, bet gan bieži atsaucas uz radīšanu. Dievs ir Radītājs, kurš izstrādā noteiktus likumus, kas regulē kosmosu un sabiedrību. Tāpēc tos, kas ievēro Dieva likumus, biežāk ieskauj Dieva svētības. Ījaba grāmata parāda, ka šim noteikumam ir izņēmumi; tomēr izņēmums, galu galā, apstiprina likumu, jo Ījabs saņem atpakaļ savu pārticību un laimīgo dzīvi.
+Daniēls tiek attēlots kā gudrs cilvēks, bet galvenokārt ne tāpēc, ka viņš būtu apguvis babiloniešu valodas un literatūras nianses. Drīzāk var teikt, ka viņš ir gudrs, jo uzticas Tam Kungam. Tieši savas teoloģiskās pārliecības dēļ Daniēls atteicās no ķēnišķās ēdienkartes un izvēlējās augu barību un ūdeni, balstoties uz diētu, ko Dievs izveidojis Radīšanas laikā. Turklāt Daniēla gudrība nenāca tikai, pateicoties uzcītībai un pašdisciplīnai. Tā bija Dieva dota gudrība, atzīstot Daniēla parādīto ticību un paļāvību. Šāda gudrība pārsniedza universitātes mācību programmas sarežģītību; tā bija gudrība, kas ļāva Daniēlam skaidrot sapņus un saprast Dieva visaptverošo cilvēces vēstures plānu.
+
+### Trešā daļa — Prakse
+
+1.	Daniēla grāmata attēlo Kungu kā tādu, kas ļauj svešai tautai mīdīt Viņa ļaudis un laupīt Viņa templi. Ko jūs varat mācīties no Dieva rakstura, pamatojoties uz šo notikumu?
+2.	Kā Daniēla apstākļi Babilonijā tiek salīdzināti ar Jāzepa apstākļiem Ēģiptē un Esteres stāvokli Persijā? Kurš no viņiem, jūsuprāt, saskārās ar visgrūtākajiem izaicinājumiem? Ja jums tiktu dota iespēja izvēlēties, kura vietā jūs vēlētos būt?
+3.	Šīs nedēļas nodarbība paver iespēju pašpārbaudei. Palūdziet savas grupas biedriem pārdomāt šādus jautājumus:
+ - Kā es uztveru Dievu, ja Viņš ļauj svešai armijai iebrukt manā valstī, iznīcināt manu kultūru un aizvest mani uz svešu zemi?
+ - Ko es darītu, ja man piedāvātu ievērojamu amatu valdībā, ja vien es piedalītos ballītēs un baudītu tajās piedāvātos ēdienus un dzērienus?
+ - Vai ir grūtāk būt paklausīgam Tam Kungam savā zemē starp saviem ļaudīm vai tālā zemē ārzemnieku starpā? Paskaidrojiet!
+ - Kā es varu izveidot pasaules uzskatu, kurš man ļaus skaidri izvērtēt apkārt esošo kultūru un izvairīties no tās kļūmēm?
+ - Kā, saskaroties ar izaicinājumiem, kuri saistīti ar sabata ievērošanu, integritāti biznesā vai darbā, attiecībās ar nekristīgiem vai citu konfesiju draugiem, klājas man, salīdzinot ar Daniēlu?
