@@ -166,4 +166,7 @@ languages:
   - native: Ilokano
     en: Ilocano
     code: ilo
+  - native: Hiligaynon
+    en: Hiligaynon
+    code: hil
 ---

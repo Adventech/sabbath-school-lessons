@@ -82,6 +82,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "hi": ["hhbd"],
 
+  "hil": [
+    "hil82"
+  ],
+
   "he": [
     "em-1865"
   ],
