@@ -63,7 +63,7 @@ II: Wir studieren die Bibel
 -   Bewahrung der Treue zu Gott auch unter weltlicher (geistlicher)
     Bedrängnis!
 
-### SONNTAG – Eifersüchtig
+### Eifersüchtig
 
 **Dan 6,1-6**
 
@@ -79,7 +79,7 @@ II: Wir studieren die Bibel
         Daniel?
     -   Erleben wir ähnlich Situationen in unserer Gemeinde? Warum?
 
-### MONTAG – Verschwörung gegen Daniel
+### Verschwörung gegen Daniel
 
 **Dan 6,7-10**
 
@@ -96,7 +96,7 @@ II: Wir studieren die Bibel
     -   Ist uns bewusst wie leicht wir anderen Schaden (Leiden, Schmerz)
         zufügen können?
 
-### DIENSTAG – Daniels Gebet
+### Daniels Gebet
 
 **Dan 6,11**
 
@@ -110,27 +110,35 @@ II: Wir studieren die Bibel
         Gebet?
     -   Unter welchen Umständen sind wir bereit Kompromisse zu machen?
 
-**Text**
+### In der Löwengrube
+
+*'Dan 6,12-24’*
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Zuversicht brachte der König zum Ausdruck?
+    -   Warum war die Versiegelung der Löwengrube notwendig?
+    -   Was lernen wir aus dem Verhalten des Königs am folgenden Morgen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie verbrachte Daniel diese Nacht? … und wie der König?
+    -   Wer wurde in dieser Nacht errettet?
 
-**Text**
+### Rehabilitierung
+
+**Dan 6,25-29**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum bestraft der König seine Ratgeber so hart?
+    -   Wie erklären wir die Strafe gegen die ganze Familie?
+    -   Warum schreibt Darius dieses Rundschreiben?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie würdest Du ein Rundschreiben nach der Befreiung aus einer
+        schwierigen Situation verfassen?
+    -   Welchen Preis bist du bereit für ein Zeugnis für Gott zu
+        bezahlen?
+
+### Schlussüberlegung
+
+-   Wie hängen Treue und Liebe zusammen?
 
 III: Dienst und Mission
 -----------------------
