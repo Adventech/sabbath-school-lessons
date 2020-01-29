@@ -156,7 +156,10 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "nl": [
-    "nbg51"
+    "nbg51",
+    "nbv",
+    "hsv",
+    "bgt"
   ],
 
   "no": [
