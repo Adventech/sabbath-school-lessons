@@ -22,12 +22,12 @@ before_deploy:
 deploy:
   - provider: script
     skip_cleanup: true
-    script: aws s3 sync dist/ s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1 --no-progress --size-only
+    script: aws s3 sync dist/ s3://sabbath-school-stage.adventech.io --acl "public-read" --region us-east-1 --no-progress
     on:
       branch: stage
   - provider: script
     skip_cleanup: true
-    script: aws s3 sync dist/ s3://sabbath-school.adventech.io --acl "public-read" --region us-east-1 --no-progress --size-only
+    script: aws s3 sync dist/ s3://sabbath-school.adventech.io --acl "public-read" --region us-east-1 --no-progress
     on:
       branch: master
 env:
