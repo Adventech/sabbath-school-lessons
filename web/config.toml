@@ -480,6 +480,7 @@ title = "Sabbath School"
 	current = "ወቅታዊ ትምህርት"
 	archive = "ትምህርት መዝገብ"
 	lang = "🇪🇹 አማርኛ"
+
 [params.si]
 	title = "සබත් පාසල"
 	back = "ආපසු යන්න"
@@ -488,14 +489,16 @@ title = "Sabbath School"
 	current = "වත්මන් පාඩම"
 	archive = "පාඩම් ලේඛනාගාරය"
 	lang = "🇱🇰 සිංහල"
+
 [params.ilo]
-	title = "Liksion ti Eskuela Sabatina"
+	title = "Eskuela Sabatina"
 	back = "Agsubli"
 	all = "Amin nga liksion"
 	todaysLesson = "Liksion tatta nga aldaw"
 	current = "Liksion tatta nga tallo a bulan"
 	archive = "Dagiti napalabas nga liksion"
-	lang = "🇵🇭 Tagalog"
+	lang = "🇵🇭 Ilocano"
+
 [params.hil]
 	title = "Eskwela Sabatika"
 	back = "Balik na"
