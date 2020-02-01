@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-- '6'
+- '12'
 before_install:
 - openssl aes-256-cbc -K $encrypted_7410759ccf67_key -iv $encrypted_7410759ccf67_iv -in deploy-creds.tar.enc -out deploy-creds.tar -d
 - tar xvf deploy-creds.tar
