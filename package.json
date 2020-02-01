@@ -17,25 +17,25 @@
     "yamljs": "^0.2.7"
   },
   "devDependencies": {
-    "danger": "^9.2.9",
-    "html-entities": "^1.2.1",
-    "n-readlines": "^1.0.0",
-    "optimist": "^0.6.1",
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
+    "columnify": "^1.5.4",
+    "crypto": "0.0.3",
+    "danger": "^9.2.9",
     "esrever": "^0.2.0",
+    "gematriya": "^1.0.1",
+    "html-entities": "^1.2.1",
+    "iconv": "^2.3.0",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.15",
+    "n-readlines": "^1.0.0",
+    "optimist": "^0.6.1",
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "safe-write-file": "^1.1.0",
     "turndown": "^5.0.3",
     "turndown-plugin-gfm": "^1.0.2",
-    "utf8": "^3.0.0",
-    "columnify": "^1.5.4",
-    "crypto": "0.0.3",
-    "gematriya": "^1.0.1",
-    "iconv": "^2.3.0",
-    "iconv-lite": "^0.4.24",
-    "lodash": "^4.17.15"
+    "utf8": "^3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
