@@ -45,19 +45,21 @@ BELSAZARS FEST
 -   Fragen zum Text:
     -   Daniel 5 beginnt mit einem rauschenden Fest. Unter dem Einfluss
         des Weins befahl der König Belsazar, dass die Gefässe
-        herbeigebracht würden, welche Nebukadnezar aus dem Tempel in
-        Jerusalem weggenommen hatte, damit sie daraus tränken. Warum war
-        diese Tat so verwerflich?
-    -   Wäre der König bei klarem Verstand gewesen, hätte er wohl kaum
-        diese Dummheit begangen. Sollte sich die durch Alkohol
-        verminderte Zurechnungsfähigkeit Belsazars strafmindernd
-        auswirken?
+        herbeigebracht werden sollten, welche Nebukadnezar aus dem
+        Tempel in Jerusalem weggenommen hatte, damit sie daraus tränken.
+        Warum war diese Tat so verwerflich?
+    -   “Sie . . . rühmten die Götter aus Gold und Silber, aus Bronze,
+        Eisen, Holz und Stein.” (Dan, 5,4) Was fällt dir bei der
+        Aufzählung der Materialien auf?
     -   Vergleiche Dan 5,1-4 mit Offb 17,4-6. Welche Parallelen findest
         du?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wäre der König bei klarem Verstand gewesen, hätte er wohl kaum
+        diese Dummheit begangen. Sollte sich die durch Alkohol
+        verminderte Zurechnungsfähigkeit Belsazars strafmindernd
+        auswirken? Würdest du bei Unfällen oder bei Gewalttaten, in
+        welchen Alkohol oder Drogen mit im Spiel waren, für eine mildere
+        Strafe plädieren?
 
 EIN UNGEBETENER GAST
 
@@ -67,55 +69,55 @@ EIN UNGEBETENER GAST
     -   Während die Feiernden ihre Götter rühmten, erschien aus dem
         Nichts eine Hand, die an die Wand schrieb! Der König wurde
         kreidebleich. Dies bedeutete nichts Gutes! Findest du weitere
-        Texte, in welchen das Schreiben mit dem Gericht im Zusammenhang
-        steht? (Siehe Joh 8,6,8; Dan 12,1; Offb 20,15)
-    -   Siehst du Parallelen zwischen Dan 5,5-8 und Dan 2?
-    -   ...
+        Texte, in welchen schreiben mit Gericht im Zusammenhang steht?
+        (Siehe Joh 8,6,8; Dan 12,1; Offb 20,15)
+    -   Einmal mehr ruft der König die Weisen von Babylon. Wer immer die
+        Schrift lesen und interpretieren kann, darf “als dritter im
+        Königreich herrschen”. Warum bot Belsazar “nur” den dritten und
+        nicht den zweiten Platz im Reich an?
 -   Fragen zur Botschaft:
     -   Das Gericht Gottes kann zweierlei bedeuten: Freispruch und
         ewiges Leben oder Verurteilung und Tod. Welche Bedeutung haben
         für dich diese beiden Seiten des Gerichts?
-    -   ...
-    -   ...
+    -   Warum sollten wir auch die verlockendsten Angebote aus der Sicht
+        des Reiches Gottes beurteilen?\
 
 AUFTRITT DER KÖNIGIN
 
 **Text Daniel 5,9-12**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was ist aussergewöhnlich am Verhalten der Königin?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche wichtige Lektionen können wir von der Königin lernen?
 
 GEWOGEN UND FÜR ZU LEICHT BEFUNDEN
 
 **Text Daniel 5,13-28**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   In welcher Weise begegnet der König Belsazar Daniel? Ist sein
+        Verhalten gegenüber Daniel angemessen? (Daniel 5,13-16)
+    -   Daniel redet mit Belsazar Klartext. Was ist die zentrale
+        Botschaft, die er dem König übermittelt? (Daniel 5,17-22)
+    -   “Du hast die Götter aus Silber und Gold, aus Bronze, Eisen, Holz
+        und Stein gerühmt.” Daniel vertauscht dabei Gold und Silber.
+        Warum macht er das?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Gezählt, gezählt, gewogen, zerteilt. Das ist das Schicksal
+        Babylons und all jener, die zu Babylon gehören. Was sagen diese
+        Begriffe über Gott, den Richter aus?
 
 DER FALL BABYLONS
 
 **Text Daniel 5,29-6,1**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Vergleiche Daniel 5 mit Offenbarung 14,8, 16,19 und 18,2. Welche
+        Parallelen siehst du zum Fall des endzeitlichen Babylons?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche praktische Bedeutung hat das Wissen um den Fall des
+        endzeitlichen Babylons für dein Leben?\
 
 III: Dienst und Mission
 -----------------------
