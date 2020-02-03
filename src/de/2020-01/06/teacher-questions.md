@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   07/02/2020
 ---
 
-Von Arroganz zum Untergang
-==========================
+[Von Arroganz zum Untergang](https://sabbath-school.adventech.io/de/2020-01/06/von-arroganz-zum-untergang/)
+===========================================================================================================
 
 I: Gemeinschaft
 ---------------
@@ -26,7 +26,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-EINLEITUNG
+### EINLEITUNG
 
 Daniel 5 widmet sich demselben Thema wie Daniel 4, aber mit einem
 wesentlichen Unterschied: Während das Gericht über den König
@@ -38,9 +38,9 @@ die Ehre. Sein Reich allein bleibt ewig bestehen. (Dan 4,31) Belsazar
 dagegen weigerte sich, diese Lektion zu lernen. Seine Rebellion gegen
 Gott führte zum Fall Babylons.
 
-BELSAZARS FEST
+### [BELSAZARS FEST](https://sabbath-school.adventech.io/de/2020-01/06/belsazars-fest/)
 
-**Text Daniel 5,1-4**
+**Daniel 5,1-4**
 
 -   Fragen zum Text:
     -   Daniel 5 beginnt mit einem rauschenden Fest. Unter dem Einfluss
@@ -61,9 +61,9 @@ BELSAZARS FEST
         welchen Alkohol oder Drogen mit im Spiel waren, für eine mildere
         Strafe plädieren?
 
-EIN UNGEBETENER GAST
+### [EIN UNGEBETENER GAST](https://sabbath-school.adventech.io/de/2020-01/06/ein-ungebetener-gast/)
 
-**Text Daniel 5,5-8**
+**Daniel 5,5-8**
 
 -   Fragen zum Text:
     -   Während die Feiernden ihre Götter rühmten, erschien aus dem
@@ -82,18 +82,18 @@ EIN UNGEBETENER GAST
     -   Warum sollten wir auch die verlockendsten Angebote aus der Sicht
         des Reiches Gottes beurteilen?\
 
-AUFTRITT DER KÖNIGIN
+### [AUFTRITT DER KÖNIGIN](https://sabbath-school.adventech.io/de/2020-01/06/auftritt-der-k%C3%B6nigin/)
 
-**Text Daniel 5,9-12**
+**Daniel 5,9-12**
 
 -   Fragen zum Text:
     -   Was ist aussergewöhnlich am Verhalten der Königin?
 -   Fragen zur Botschaft:
     -   Welche wichtige Lektionen können wir von der Königin lernen?
 
-GEWOGEN UND FÜR ZU LEICHT BEFUNDEN
+### [GEWOGEN UND FÜR ZU LEICHT BEFUNDEN](https://sabbath-school.adventech.io/de/2020-01/06/gewogen-und-f%C3%BCr-zu-leicht-befunden/)
 
-**Text Daniel 5,13-28**
+**Daniel 5,13-28**
 
 -   Fragen zum Text:
     -   In welcher Weise begegnet der König Belsazar Daniel? Ist sein
@@ -108,9 +108,9 @@ GEWOGEN UND FÜR ZU LEICHT BEFUNDEN
         Babylons und all jener, die zu Babylon gehören. Was sagen diese
         Begriffe über Gott, den Richter aus?
 
-DER FALL BABYLONS
+### [DER FALL BABYLONS](https://sabbath-school.adventech.io/de/2020-01/06/der-fall-babylons/)
 
-**Text Daniel 5,29-6,1**
+**Daniel 5,29-6,1**
 
 -   Fragen zum Text:
     -   Vergleiche Daniel 5 mit Offenbarung 14,8, 16,19 und 18,2. Welche
