@@ -242,27 +242,44 @@
 }
 
 table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    padding: 0;
     display: block;
     overflow: auto;
     width: 100%;
-    margin-bottom: 20px;
+    margin: 15px 0;
 }
-
-table th {
-    font-weight: 600;
-}
-
-table td,
-table th {
-    border: 1px solid #dfe2e5;
-    padding: 6px 13px;
-}
-
 table tr {
-    background-color: #fff;
-    border-top: 1px solid #c6cbd1;
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0;
 }
 
 table tr:nth-child(2n) {
-    background-color: #f6f8fa;
+    background-color: #f8f8f8;
+}
+
+table tr th {
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+
+table tr td {
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px;
+}
+
+table tr th :first-child, table tr td :first-child {
+    margin-top: 0;
+}
+
+table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0;
 }
