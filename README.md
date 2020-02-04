@@ -5,6 +5,10 @@
 
 This repository contains all lessons for the Sabbath School app (for all platforms).
 
+## Copyright
+
+Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.
+
 ## Contribution
 
 [Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
