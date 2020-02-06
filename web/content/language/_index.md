@@ -169,4 +169,7 @@ languages:
   - native: Hiligaynon
     en: Hiligaynon
     code: hil
+  - native: Hiligaynon
+    en: Finnish
+    code: fi
 ---

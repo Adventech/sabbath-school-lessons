@@ -58,6 +58,10 @@ var BIBLE_PARSER_CONFIG = {
     "fov"
   ],
 
+  "fi": [
+    "fb92"
+  ],
+
   "fr": [
     "lsg"
   ],
