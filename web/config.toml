@@ -507,3 +507,12 @@ title = "Sabbath School"
 	current = "Karon nga leksion"
 	archive = "Archive sa leksion"
 	lang = "🇵🇭 Hiligaynon"
+
+[params.fi]
+	title = "Raamatun Sanoma"
+	back = "Mene takaisin"
+	all = "Kaikki oppitunnit"
+	todaysLesson = "Tämän päivän oppitunti"
+	current = "Nykyinen oppitunti"
+	archive = "Oppituntien arkisto"
+	lang = "🇫🇮 Suomen kieli"

@@ -112,7 +112,7 @@ II: Wir studieren die Bibel
 
 ### In der Löwengrube
 
-*'Dan 6,12-24’*
+**Dan 6,12-24**
 
 -   Fragen zum Text:
     -   Welche Zuversicht brachte der König zum Ausdruck?
