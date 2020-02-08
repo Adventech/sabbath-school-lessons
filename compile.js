@@ -139,6 +139,15 @@ glob("images/global/**/cover.png", function(er, files){
   }
 });
 
+glob("images/misc/*.{png,jpg,jpeg}", function(er, files){
+  for (var i = 0; i < files.length; i++){
+    fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
+    if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
+      fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
+    }
+  }
+});
+
 // Create languages API endpoint
 glob("src/*/info.yml", {}, function (er, files) {
   var languages = [];
