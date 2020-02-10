@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   14/02/2020
 ---
 
-**Von der Löwengrube zur Engelsgrube**
-======================================
+**[Von der Löwengrube zur Engelsgrube](https://sabbath-school.adventech.io/de/2020-01/07/von-der-l%C3%B6wengrube-zur-engelsgrube/)**
+====================================================================================================================================
 
 I: Gemeinschaft
 ---------------
@@ -63,7 +63,7 @@ II: Wir studieren die Bibel
 -   Bewahrung der Treue zu Gott auch unter weltlicher (geistlicher)
     Bedrängnis!
 
-### Eifersüchtig
+### [Eifersüchtig](https://sabbath-school.adventech.io/de/2020-01/07/eifers%C3%BCchtig/)
 
 **Dan 6,1-6**
 
@@ -79,7 +79,7 @@ II: Wir studieren die Bibel
         Daniel?
     -   Erleben wir ähnlich Situationen in unserer Gemeinde? Warum?
 
-### Verschwörung gegen Daniel
+### [Verschwörung gegen Daniel](https://sabbath-school.adventech.io/de/2020-01/07/verschw%C3%B6rung-gegen-daniel/)
 
 **Dan 6,7-10**
 
@@ -96,7 +96,7 @@ II: Wir studieren die Bibel
     -   Ist uns bewusst wie leicht wir anderen Schaden (Leiden, Schmerz)
         zufügen können?
 
-### Daniels Gebet
+### [Daniels Gebet](https://sabbath-school.adventech.io/de/2020-01/07/daniels-gebet/)
 
 **Dan 6,11**
 
@@ -110,7 +110,7 @@ II: Wir studieren die Bibel
         Gebet?
     -   Unter welchen Umständen sind wir bereit Kompromisse zu machen?
 
-### In der Löwengrube
+### [In der Löwengrube](https://sabbath-school.adventech.io/de/2020-01/07/in-der-l%C3%B6wengrube/)
 
 **Dan 6,12-24**
 
@@ -122,7 +122,7 @@ II: Wir studieren die Bibel
     -   Wie verbrachte Daniel diese Nacht? … und wie der König?
     -   Wer wurde in dieser Nacht errettet?
 
-### Rehabilitierung
+### [Rehabilitierung](https://sabbath-school.adventech.io/de/2020-01/07/rehabilitierung/)
 
 **Dan 6,25-29**
 
@@ -151,7 +151,8 @@ unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
 [Wir alle beteiligen
 uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-*'Arbeitshilfe “Gebet + Dienst + Zeugnis”*
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
+Diese
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
