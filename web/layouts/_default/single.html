@@ -49,14 +49,14 @@ var selectedVerse = null;
                                 <time class="pl-4 ss-header-date ss-menu-day-header" datetime="{{ .Date }}">{{ dateFormat "02/01/2006" .Date }}</time>
                                 <script type="text/javascript">
                                     $(function(){
-                                        moment.locale('{{substr $.Dir 0 2}}');
+                                        moment.locale('{{index (split $.Dir "/") 0}}');
                                         $(".ss-menu-day-header").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, MMMM DD'));
                                     });
                                 </script>
                                 {{ end }}
                                 {{ end }}
                                 {{ end }}
-                                <h1 class="pl-4 pb-4" style="color: white">{{ .Title }}</h1>    
+                                <h1 class="pl-4 pb-4" style="color: white">{{ .Title }}</h1>
                             </div>
                         </div>
                         <div class="p-3">
@@ -102,7 +102,7 @@ var selectedVerse = null;
 
                                 <script type="text/javascript">
                                     $(function(){
-                                        moment.locale('{{substr $.Dir 0 2}}');
+                                        moment.locale('{{index (split $.Dir "/") 0}}');
                                         $(".ss-menu-day-{{$index}}").html(moment('{{ dateFormat "02/01/2006" .Date }}', 'DD/MM/YYYY').format('dddd, MMMM DD'));
                                     })
                                 </script>

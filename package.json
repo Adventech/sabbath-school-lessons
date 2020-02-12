@@ -26,6 +26,8 @@
     "redis": "^2.8.0",
     "request": "^2.88.0",
     "safe-write-file": "^1.1.0",
+    "turndown": "^5.0.3",
+    "turndown-plugin-gfm": "^1.0.2",
     "utf8": "^3.0.0",
     "yamljs": "^0.2.7"
   },
