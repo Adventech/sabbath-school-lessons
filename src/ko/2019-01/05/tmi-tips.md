@@ -46,7 +46,7 @@ date:   01/02/2019
 에게 계속해서 성령의 역사가 이루어지기를 한국의 모든 재림성도들이 함께 기
 도해 주기를 바란다.
 
-<p align="right">죽산다사랑교회 부목사 <strong>마동욱</strong></p>
+<p style="text-align:right">죽산다사랑교회 부목사 <strong>마동욱</strong></p>
 
 <p></p>
 <img src="https://user-images.githubusercontent.com/10376491/51788966-7aea1080-2149-11e9-8a64-2c7e94708cdc.jpg" style="max-width:100%" />

@@ -60,12 +60,12 @@ title = "Sabbath School"
 
 [params.de]
 	title = "Sabbatschule"
-	back = "Geh zurück"
-	all = "Alles sehen"
+	back = "Zurück"
+	all = "Alles anzeigen"
 	todaysLesson = "Die heutige Lektion"
-	current = "Strom"
+	current = "Aktuell"
 	archive = "Unterrichtsarchiv"
-	lang = "🇩🇪 Deutsche"
+	lang = "🇩🇪 Deutsch"
 
 [params.in]
 	title = "Sekolah Sabat"
@@ -392,10 +392,127 @@ title = "Sabbath School"
 	lang = "🇬🇪 ქართული ენა"
 
 [params.sk]
-	title = "Štúdium Biblie"
+	title = "Štúdium Biblie"
 	back = "Vráť sa"
 	all = "Všetky hodiny"
 	todaysLesson = "Dnešná lekcia"
 	current = "Aktuálna lekcia"
 	archive = "Archív lekcie"
 	lang = "🇸🇰 Slovenčina"
+
+[params.is]
+	title = "Biblíulexíur"
+	back = "Farðu til baka"
+	all = "Allar kennslustundir"
+	todaysLesson = "Lærdómurinn í dag"
+	current = "Núverandi kennslustund"
+	archive = "Lexíu skjalasafn"
+	lang = "🇮🇸 Íslenska"
+
+[params.hy]
+	title = "Շաբաթօրյա Դպրոցի Համար"
+	back = "Վերադառնալ"
+	all = "Բոլոր դասերը"
+	todaysLesson = "Այսօրվա դասը"
+	current = "Ընթացիկ դաս"
+	archive = "Դասի արխիվ"
+	lang = "🇦🇲 Հայերեն"
+
+[params.zu]
+	title = "Sesikole Sesabatha"
+	back = "Emuva"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamuhla"
+	current = "Isifundo samanje"
+	archive = "Isigcini sesifundo"
+	lang = "🇿🇦 IsiZulu"
+
+[params.xh]
+	title = "Sesabatha Sabantu"
+	back = "Buyela"
+	all = "Zonke izifundo"
+	todaysLesson = "Isifundo sanamhlanje"
+	current = "Isifundo sangoku"
+	archive = "Indawo yokufunda"
+	lang = "🇿🇦 IsiXhosa"
+
+[params.hi]
+	title = "बाइबिल अध्ययन गाइड"
+	back = "वापस"
+	all = "सभी पाठ"
+	todaysLesson = "आज का पाठ"
+	current = "वर्तमान पाठ"
+	archive = "पाठ संग्रह"
+	lang = "🇮🇳 Hindi"
+
+[params.sq]
+	title = "Shkolla e Sabatit"
+	back = "Kthehu mbrapa"
+	all = "Të gjitha mësimet"
+	todaysLesson = "Mësimi i sotëm"
+	current = "Mësimi aktual"
+	archive = "Arkivi i mësimit"
+	lang = "🇦🇱 Shqiptar"
+
+[params.lv]
+	title = "Sabatskolas"
+	back = "Atgriezties"
+	all = "Visas nodarbības"
+	todaysLesson = "Šodienas nodarbība"
+	current = "Pašreizējais ceturksnis"
+	archive = "Nodarbību arhīvs"
+	lang = "🇱🇻 Latviešu valoda"
+
+[params.nl]
+	title = "Sabbatschool"
+	back = "Ga terug"
+	all = "Alles zien"
+	todaysLesson = "De les van vandaag"
+	current = "Huidige les"
+	archive = "Les archief"
+	lang = "🇳🇱 Nederlandse taal"
+
+[params.am]
+	title = "የጎልማሶች ሰንበት ትምህርት"
+	back = "ተመለስ"
+	all = "ሁሉም ትምህርቶች"
+	todaysLesson = "የዛሬው ትምህርት"
+	current = "ወቅታዊ ትምህርት"
+	archive = "ትምህርት መዝገብ"
+	lang = "🇪🇹 አማርኛ"
+
+[params.si]
+	title = "සබත් පාසල"
+	back = "ආපසු යන්න"
+	all = "සියලුම පාඩම්"
+	todaysLesson = "අද පාඩම"
+	current = "වත්මන් පාඩම"
+	archive = "පාඩම් ලේඛනාගාරය"
+	lang = "🇱🇰 සිංහල"
+
+[params.ilo]
+	title = "Eskuela Sabatina"
+	back = "Agsubli"
+	all = "Amin nga liksion"
+	todaysLesson = "Liksion tatta nga aldaw"
+	current = "Liksion tatta nga tallo a bulan"
+	archive = "Dagiti napalabas nga liksion"
+	lang = "🇵🇭 Ilocano"
+
+[params.hil]
+	title = "Eskwela Sabatika"
+	back = "Balik na"
+	all = "Tanan nga leksion"
+	todaysLesson = "Ang leksion subong"
+	current = "Karon nga leksion"
+	archive = "Archive sa leksion"
+	lang = "🇵🇭 Hiligaynon"
+
+[params.fi]
+	title = "Raamatun Sanoma"
+	back = "Mene takaisin"
+	all = "Kaikki oppitunnit"
+	todaysLesson = "Tämän päivän oppitunti"
+	current = "Nykyinen oppitunti"
+	archive = "Oppituntien arkisto"
+	lang = "🇫🇮 Suomen kieli"

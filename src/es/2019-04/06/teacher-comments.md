@@ -1,0 +1,52 @@
+---
+title:  El Sábado enseñaré
+date:  08/11/2019
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+##### Texto clave: Nehemías 8:8; Josué 1:8; Juan 5:39, 40.
+
+##### Enfoque del estudio: Nehemías 8.
+
+La lección se centra en la importancia de dedicarle tiempo a la Palabra de Dios. Los dirigentes de Israel y el pueblo demuestran un amor increíble por Dios y su Palabra mientras pasan muchas horas escuchando las Escrituras leídas en voz alta. Los acontecimientos de este capítulo se dan en el séptimo mes (Tishri) del año. Esto es importante por los tres días de fiestas religiosas que se celebran los días primero, décimo y decimoquinto del mes (Fiesta de las Trompetas, Día de la Expiación y Fiesta de los Tabernáculos). Esdras y Nehemías, junto con todos los dirigentes, convocaron al pueblo (incluidos los niños) el primer día, y los levitas comenzaron a leer y explicar la Palabra de Dios. El pueblo escuchó durante horas las historias de su legado y la poderosa presencia y fidelidad de Dios hacia ellos. La lectura y la explicación (y la traducción) proporcionadas por los levitas conmovieron profundamente al pueblo. Al escuchar los mensajes de los libros de Moisés, se convencieron de su pecado y de la santidad de Dios, y se pusieron a llorar.
+
+Nehemías y los levitas animaron al pueblo a no llorar ni lamentarse, sino a regocijarse en el Señor por su gran amor hacia ellos. Debido a la lectura prolongada del Pentateuco, el pueblo descubrió que el día quince del mes debían celebrar la Fiesta de los Tabernáculos. Por lo tanto, se reunieron de nuevo para celebrar una fiesta olvidada y descuidada con siete días de fiesta. Durante ese tiempo, vivieron en casetas en los techos y los patios de las casas, y en toda la ciudad, mientras estudiaban la Palabra de Dios. El octavo día culminó con una asamblea solemne.
+
+#### COMENTARIO
+
+Como Nehemías 8 al 10 está escrito en tercera persona, a diferencia del resto del libro, que está escrito en primera persona, es posible que los capítulos 8 al 10 se elaboraran como un elemento central teológico que tenía por objeto dar una explicación de la condición de los israelitas y su dedicación a Dios. La actividad de estos capítulos probablemente tuvo lugar después de que el grupo de Nehemías llegara a Jerusalén. Esdras aparece en el capítulo 8, ya que se menciona junto con Nehemías solo en Nehemías 8:9 y 12:26. Es evidente que el tema de esta unidad literaria de Nehemías 8 al 10 es la dedicación a Dios a través de la lectura de las Escrituras, la confesión y la renovación del Pacto. Esdras reaparece en la narración porque, en lugar de construir una estructura física, su papel es guiar al pueblo para estudiar la Palabra de Dios. Nehemías 1 al 6 (al igual que Esd. 1-6) se centra en proyectos de construcción, pero luego la atención se dirige a la construcción del pueblo de Dios (Neh. 7-13; Esd. 7-10). Nehemías 8 demuestra que la lectura de la Palabra tiene un lugar fundamental en el hecho de vivir plenamente y de todo corazón en la presencia de Dios.
+
+##### Estructura de Nehemías 8
+
+##### Lectura de la Palabra de Dios
+
+La lectura de la Palabra de Dios es un concepto importante en Nehemías 8. Es increíble que el pueblo haya escuchado la lectura durante horas, “desde el alba hasta el mediodía” (Neh. 8:3), aproximadamente de cinco a siete horas, y demuestre su apertura para escuchar a Dios. Sin embargo, esta vez no se trataba solo de escuchar la lectura sino de comprender. De hecho, la comprensión parece ser el concepto más importante del capítulo.
+
+A lo largo del capítulo, la palabra bin, “entender”, se repite seis veces. Es sorprendente ver con qué frecuencia aparece esa palabra y ese concepto. El autor repite intencionalmente la idea de comprensión vez tras vez para llamar nuestra atención. Junto con bin, la palabra sakhal se usa dos veces y también significa “entender”, así como “ser sabio y prudente” y “tener entendimiento, sabiduría y discreción” (Neh. 8:8). Desde el comienzo, se indica que se reunieron todos los que podían “escuchar con comprensión” (Neh. 8:2); es decir, adultos y niños con edad suficiente para comprender las Escrituras. La Palabra no solo entraba por un oído y salía por el otro. Debía tener un significado y un propósito en su vida, lo que los llevó a una mayor sabiduría y a ser transformados. Adquirir conocimiento no consiste en almacenar hermosos conceptos e información en nuestro cerebro. El conocimiento debe impactar todo nuestro ser.
+
+##### La respuesta del pueblo
+
+Curiosamente, las palabras decididamente impactaron en la asamblea, porque esta lloró. Lo que escucharon de la Ley influyó en su comprensión de Dios y, a su vez, cambió la forma en que se veían a sí mismos y al mundo. Escuchar la Palabra de Dios nos ayuda a ver las cosas desde la perspectiva de Dios y a vernos a nosotros mismos como pecadores. A veces, la gente de hoy, mientras lee el Antiguo Testamento, piensa erróneamente que la gente en aquel entonces no podía ver a un Dios amoroso. Pero, a raíz de este pasaje de Nehemías, vemos que la realidad es totalmente diferente. Dedicar horas a la Palabra de Dios, leer de su misericordia y sus actos poderosos, no apartó a las personas de Dios, sino que las convenció del amor de Dios y de sus intervenciones misericordiosas. Se dieron cuenta de que ellos eran infieles, pero que Dios era fiel. La belleza y el poder de la Escritura es que, a través de ella, Dios nos seduce y nos ruega que acudamos a él, y nos muestra quién es él realmente: el Dios que nos ama y que hace todo lo posible para salvarnos y restaurarnos para sí.
+
+Dedicar tiempo a la Palabra de Dios conduce al reavivamiento personal y colectivo. “La palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu, las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón. Y no hay cosa creada que no sea manifiesta en su presencia; antes bien todas las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta” (Heb. 4:12, 13). Leer la Palabra en voz alta a la gente hace que penetre en su corazón y su mente; y ella responde con profunda emoción. Siente tristeza al percatarse de su condición pecaminosa; pero, al final, responde con gran gozo por quién es Dios.
+
+Otro tema importante que se encuentra en este capítulo es el papel de los líderes en este reavivamiento. La transformación comenzó con los dirigentes que convocaron a la asamblea en respuesta a la enseñanza de Dios en su Palabra. Lo más probable es que hayan estado aprendiendo de Esdras y de Nehemías acerca de Dios y que se hayan quedado impresionados por los inquebrantables amor y dedicación de estos dos líderes. Los líderes aprovecharon la oportunidad y propiciaron la ocasión. Siguieron las instrucciones de Dios y luego establecieron una estructura para llegar al pueblo a través de la lectura. No dejaron las cosas al azar, sino que organizaron a los lectores, a los explicadores y a los traductores de las Escrituras para maximizar la comprensión.
+
+El deseo de los líderes de aprender de Esdras también muestra un espíritu y una actitud de aprendizaje. Qué trágico es cuando la gente cree que lo sabe todo y no necesita aprender de nadie más. Lamentablemente, esta actitud también excluye la disposición a dejarse enseñar por el Espíritu Santo. Estar abierto a aprender de los demás y especialmente de Dios es un requisito previo para lograr un cambio para Dios en el mundo.
+
+##### El gozo de Jehová
+
+El pináculo o el centro de la estructura quiásmica del capítulo descrito anteriormente es Nehemías 8:10, que también reitera que “día santo es a nuestro Señor” y luego proclama: “No os entristezcáis”. ¿Por qué? “Porque el gozo de Jehová es vuestra fuerza [ma’oz]” (Neh. 8:10). Tres veces se le dice al pueblo que no esté triste ni afligido, sino que vaya a “gozar”. Maoz significa “refugio, fortaleza”. También se traduce en las Escrituras como “protección”, pero la mayoría de las veces se traduce como “fortaleza, o refugio”. Por ejemplo, el salmista escribe que Dios es maoz, nuestro refugio y fortaleza (Sal. 31:4; 37:39; 43:2; 52:7). La palabra para gozo [khedwah] solo aparece dos veces en la Biblia. El otro ejemplo está en 1 Crónicas 16:27, en el canto de David que alaba a Dios cuando el Arca del Pacto se coloca en el Tabernáculo: “Alabanza y magnificencia delante de él; poder y alegría [khedwah] en su morada”.
+
+La Fiesta de las Trompetas comenzaba al sonar del shofar (cuerno de carnero), que marcaba el comienzo de la preparación para el Día de la Expiación; por lo tanto, era un tiempo (diez días) de introspección y arrepentimiento.
+
+Sin embargo, Esdras y los levitas le dicen al pueblo que debe dejar de lamentarse y llorar porque el día es santo. Esdras le dice al pueblo que el gozo que viene del Señor es su fortaleza y su refugio. Si quieren estar firmemente establecidos y fuertes, necesitan tener el “gozo de Jehová”. Observa también que la santidad y el gozo van juntos. La alegría vino como resultado de comprender que fueron perdonados por Dios. Este gozo de Jehová debía demostrarse comiendo y bebiendo con sus familias, disfrutando de la comida y de la comunión mutua. Además, debían compartir la comida con aquellos que no tenían nada preparado para una fiesta. Hubo tiempo para la introspección durante los diez días previos al Día de la Expiación. Sin embargo, Esdras quiere que el pueblo entienda que el arrepentimiento no es lo único necesario. Regocijarse por lo que Dios ha hecho para proveer la salvación es igualmente importante. No debían olvidar de la promesa de salvación, sino regocijarse por ello.
+
+#### APLICACIÓN A LA VIDA
+
+Esdras le enseñó al pueblo que la fuerza para la vida diaria es el resultado de gozarse en el Señor. Este precepto casi parece demasiado simple. ¿Cómo podría ser que la solución más importante para nuestros problemas diarios sea regocijarnos en el Señor?
+
+Cuando nos centramos en gozarnos en el Señor sin importar lo que esté sucediendo en nuestra vida, confiamos en que él es lo suficientemente grande como para encargarse de nuestros problemas. Esa confianza en Dios nos eleva y nos da valor para enfrentar el día. Nos impide estar deprimidos y sentir lástima por nuestras circunstancias. En cambio, nos mantiene enfocados en lo que Dios puede hacer y lo que ya ha hecho por nosotros en la Cruz.

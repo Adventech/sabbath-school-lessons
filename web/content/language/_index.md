@@ -133,4 +133,43 @@ languages:
   - native: Slovenčina
     en: Slovak
     code: sk
+  - native: Íslenska
+    en: Icelandic
+    code: is
+  - native: Հայերեն
+    en: Armenian
+    code: hy
+  - native: IsiZulu
+    en: Zulu
+    code: zu
+  - native: IsiXhosa
+    en: Xhosa
+    code: xh
+  - native: हिन्दी
+    en: Hindi
+    code: hi
+  - native: Shqiptar
+    en: Albanian
+    code: sq
+  - native: Latviešu valoda
+    en: Latvian
+    code: lv
+  - native: Nederlandse taal
+    en: Dutch
+    code: nl
+  - native: አማርኛ
+    en: Amharic
+    code: am
+  - native: සිංහල
+    en: Sinhala
+    code: si
+  - native: Ilokano
+    en: Ilocano
+    code: ilo
+  - native: Hiligaynon
+    en: Hiligaynon
+    code: hil
+  - native: Suomen kieli
+    en: Finnish
+    code: fi
 ---

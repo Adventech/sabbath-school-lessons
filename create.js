@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 var argv = require("optimist")
   .usage("Create the file structure for a quarter in given language.\n" +
-    "Usage: $0 -s [string] -l [string] -q [string] -c [num] -t [string] -d [string] -h [string] -u [bool] -i [bool] -y [hex] -z [hex]")
+    "Usage: $0 -s [string] -l [string] -q [string] -c [num] -t [string] -d [string] -h [string] -u [bool] -i [bool] -m [bool] -y [hex] -z [hex]")
   .alias({"s":"start-date", "l": "language", "q": "quarter", "c": "count", "t": "title", "d": "description", "h": "human-date", "u": "teacher-comments", "i": "inside-story", "k": "lesson-cover", "y": "color-primary", "z": "color-dark" })
   .describe({
     "s": "Start date in DD/MM/YYYY format. Ex: 25/01/2016",
@@ -13,25 +13,27 @@ var argv = require("optimist")
     "h": "Human readable date of quarterly. Ex. Fourth quarter of 2016",
     "u": "Include teacher comments",
     "i": "Inside story",
+    "m": "Create TMI (Total Member Involvement) News/Tips placeholder lessons",
     "k": "Create lesson cover placeholder images",
     "y": "Primary color for the lesson",
     "z": "Dark primary color for the lesson"
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
-  .default({ "l" : "en", "c": 13, "u": false, "i": false, "k": false, "y" : "ffffff", "z" : "000000" })
+  .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false, "y" : "ffffff", "z" : "000000" })
   .argv;
 
 var fs     =  require("fs-extra"),
-  moment =  require("moment");
+    moment =  require("moment");
 
 var SRC_PATH = "src/",
-  QUARTERLY_COVER = "images/quarterly_cover.png",
-  LESSON_COVER = "images/lesson_cover.png",
-  DATE_FORMAT = "DD/MM/YYYY";
+    QUARTERLY_COVER = "images/quarterly_cover.png",
+    LESSON_COVER = "images/lesson_cover.png",
+    DATE_FORMAT = "DD/MM/YYYY";
 
 var LOCALE_VARS = {
 
   "daily_lesson_title": {
+    "am": "ትምህርት",
     "af": "Les",
     "ar": "درس",
     "bg": "Дневен урок",
@@ -44,30 +46,39 @@ var LOCALE_VARS = {
     "et": "Õppetund",
     "fa": "درس",
     "fj": "Na lesoni",
+    "fi": "Oppitunti",
     "fr": "Leçon quotidienne",
     "it": "Lezione",
     "lt": "Pamoka",
+    "is": "Lexía",
+    "ilo": "Liksion",
     "in": "Lesson",
     "he": "שיעור",
     "hi": "पाठ",
+    "hil": "Leksion",
     "hr": "Lekcija",
     "hu": "Lecke",
+    "hy": "Դաս",
     "mk": "Лекција",
     "mn": "Хичээл",
     "ms": "Pelajaran",
     "ne": "पाठ",
     "no": "Lekse",
+    "nl": "Les",
     "ko": "교훈",
     "lo": "ບົດຮຽນ",
+    "lv": "Nodarbība",
     "pl": "Lekcja",
     "pt": "Lição",
     "ro": "Lecție zilnică",
     "ru": "Урок",
     "ka": "გაკვეთილი",
+    "si": "පාඩම",
     "sl": "Lekcija",
     "sk": "Lekcie",
     "sr": "Lekcija",
     "st": "Thuto",
+    "sq": "Mësim",
     "sw": "Somo",
     "ta": "பாடம்",
     "th": "บทเรียน",
@@ -77,9 +88,12 @@ var LOCALE_VARS = {
     "ja": "日課",
     "zh": "每日课程",
     "vi": "Bài",
+    "xh": "Isifundo",
+    "zu": "Isifundo"
   },
 
   "empty_placeholder": {
+    "am": "### <center>እኛ በዚህ ሌንስ ላይ እየሰራን ነው ፡፡</center>\n<center>እባክዎ ቆየት ብለው ይሞክሩ.</center>",
     "af": "### <center>Ons werk aan hierdie les.</center>\n<center>Kom asseblief later terug.</center>",
     "ar": "### <center>ونحن نعمل على هذا الدرس.</center>\n<center>يرجى العودة لاحقا.</center>",
     "bg": "### <center>Работим по този урок.</center>\n<center>Моля, върнете се по-късно.</center>",
@@ -92,18 +106,25 @@ var LOCALE_VARS = {
     "et": "### <center>Me tegeleme selle õppetükiga. Palun proovige hiljem uuesti.</center>",
     "fa": "### <center>ما در این درس کار می کنیم</center>\n<center>لطفا بعدا بیا</center>",
     "fj": "### <center>Eda sa cakacaka tiko ena lesoni oqo</center>",
+    "fi": "### <center>Työskentelemme tämän oppitunnin parissa</center>\n<center>Yritä uudelleen myöhemmin</center>",
     "fr": "### <center>Nous travaillons sur cette leçon.</center>\n<center>Revenez plus tard, s'il vous plaît.</center>",
     "it": "### <center>Stiamo lavorando a questa lezione.</center>\n<center>Per favore ritorna più tardi.</center>",
-    "in": "### <center>Kami sedang mengerjakan pelajaran ini</center>\n<center>Silahkan kembali lagi nanti/center>",
+    "is": "### <center>Við erum að vinna að núverandi kennslustund.</center>\n<center>Vinsamlegast reyndu aftur síðar.</center>",
+    "in": "### <center>Kami sedang mengerjakan pelajaran ini</center>\n<center>Silahkan kembali lagi nanti</center>",
+    "ilo": "### <center>Araramiden mi pay daytoy nga liksion</center>\n<center>Sublianan yon to</center>",
     "lt": "### <center>Pamoka kuriama.</center>\n<center>Kviečiame sugrįžti vėliau.</center>",
+    "lv": "### <center>Mēs strādājam pie šīs nodarbības.</center>\n<center>Lūdzu, atgriezieties vēlāk.</center>",
     "he": "### <center>אנחנו עובדים על השיעור הזה</center>\n<center>בבקשה תחזור מאוחר יותר</center>",
     "hi": "### <center>हम इस पाठ पर काम कर रहे हैं।</center>\n<center>कृपया बाद में आइये।</center>",
+    "hil": "### <center>Nagsusumikap kami sa araling ito.</center>\n<center>Lihog liwat.</center>",
     "hr": "### <center>Radimo na ovoj lekciji.</center>\n<center>Molimo pokušajte ponovo kasnije.</center>",
     "hu": "### <center>Erre a leckére dolgozunk.</center>\n<center>Légyszíves gyere vissza később.</center>",
+    "hy": "### <center>Մենք աշխատում ենք այս դասի վրա:</center>\n<center>Խնդրում եմ փորձեք մի փոքր ուշ</center>",
     "mk": "### <center>Ние работиме на оваа лекција</center>\n<center>Те молам врати се подоцна</center>",
     "mn": "### <center>Бид энэ хичээл дээр ажиллаж байна.</center>\n<center>Дараа дахин ирнэ үү.</center>",
     "ms": "### <center>Kami sedang menjalankan pelajaran ini.</center>\n<center>Sila balik kemudian.</center>",
     "ne": "### <center>हामी यस पाठमा काम गरिरहेका छौं</center>\n<center>फेरी प्रयास गर्नु होला</center>",
+    "nl": "### <center>We werken aan deze les.</center>\n<center>Kom alsjeblieft terug.</center>",
     "no": "### <center>Vi jobber med denne leksjonen.</center>\n<center>Prøv igjen senere.</center>",
     "ko": "### <center>우리는이 공과를 위해 노력하고있다..</center>\n<center>나중에 다시 시도 해주십시오..</center>",
     "lo": "### <center>ພວກເຮົາກໍາລັງເຮັດວຽກໃນບົດຮຽນນີ້.</center>\n<center>ກະລຸນາກັບຄືນມາຫຼັງຈາກນັ້ນ.</center>",
@@ -113,9 +134,11 @@ var LOCALE_VARS = {
     "ru": "### <center>Мы подготавливаем данный урок</center>\n<center>Попробуйте позже</center>",
     "ka": "### <center>გაკვეთილი მზადების პროცესშია</center>\n<center>სცადეთ მოგვიანებით</center>",
     "sk": "### <center>Pracujeme na tejto lekcii.</center>\n<center>Prosím vráť sa neskôr.</center>",
+    "si": "### <center>අපි මෙම පාඩම මත වැඩ කරමින් සිටිමු.</center>\n<center>කරුණාකර පසුව නැවත උත්සාහ කරන්න.</center>",
     "sl": "### <center>Delamo na tej lekciji.</center>\n<center>Vrnite se kasneje.</center>",
     "sr": "### <center>Radimo na ovoj lekciji.</center>\n<center>Molim vas, vratite se kasnije</center>",
     "st": "### <center>Re sa sebetsa thutong ena</center>\n<center>Ka kopo kgutla ha moraho</center>",
+    "sq": "### <center>Ne jemi duke punuar në këtë mësim</center>\n<center>Ju lutemi provoni përsëri më vonë</center>",
     "sw": "### <center>Tunafanya kazi kwenye somo hili.</center>\n<center>Tafadhali   rudi baadaye.</center>",
     "ta": "### <center>நாங்கள் இந்த பாடம் படித்து வருகிறோம்.</center>\n<center>தயவு செய்து மீண்டும் வாருங்கள்.</center>",
     "th": "### <center>เรากำลังดำเนินการในบทเรียนนี้</center>\n<center>โปรดกลับมาใหม่.</center>",
@@ -124,10 +147,13 @@ var LOCALE_VARS = {
     "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>",
     "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
     "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
-    "vi": "### <center>Chúng tôi đang làm việc trên bài học này.</center>\n<center>Xin vui lòng trở lại sau.</center>"
+    "vi": "### <center>Chúng tôi đang làm việc trên bài học này.</center>\n<center>Xin vui lòng trở lại sau.</center>",
+    "xh": "### <center>Sisebenza kulesi sifundo.</center>\n<center>Sicela uzame futhi emuva kwesikhathi.</center>",
+    "zu": "### <center>Sisebenza kwesi sifundo.</center>\n<center>Nceda zama kwakhona.</center>"
   },
 
   "teacher_comments": {
+    "am": "Teacher comments",
     "af": "Teacher comments",
     "ar": "Teacher comments",
     "bg": "Учител коментира.",
@@ -139,19 +165,26 @@ var LOCALE_VARS = {
     "et": "Teacher Comments",
     "fa": "Teacher Comments",
     "fj": "Teacher Comments",
+    "fi": "Teacher Comments",
     "fr": "Commentaires Moniteurs",
     "it": "Commenti degli insegnanti",
     "in": "Teacher Comments",
+    "is": "Teacher Comments",
+    "ilo": "Teacher Comments",
     "lt": "Teacher Comments",
+    "lv": "Palīgmateriāls Bībeles studiju skolotājiem",
     "hr": "Učitelj komentira",
     "he": "Teacher Comments",
     "hi": "Teacher Comments",
+    "hil": "Teacher Comments",
     "hu": "Tanítói Melléklet",
+    "hy": "Teacher Comments",
     "mk": "Teacher Comments",
     "mn": "Багшийн тайлбар",
     "ms": "Komen Guru",
     "ne": "Teacher Comments",
     "no": "Teacher Comments",
+    "nl": "Teacher Comments",
     "ko": "교사의 의견",
     "lo": "Teacher Comments",
     "pt": "Moderador",
@@ -160,8 +193,10 @@ var LOCALE_VARS = {
     "ka": "კომენტარები მასწავლებლებისთვის",
     "sk": "Pouka za učitelje",
     "sl": "Pouka za učitelje",
+    "si": "Teacher comments",
     "sr": "Pouka za učitelje",
     "st": "Tlhaiso ha Mosuwe",
+    "sq": "Teacher Comments",
     "sw": "Teacher Comments",
     "ta": "Teacher Comments",
     "th": "ความคิดเห็นของครู",
@@ -170,10 +205,13 @@ var LOCALE_VARS = {
     "uk": "Teacher Comments",
     "ja": "Teacher Comments",
     "zh": "Teacher Comments",
-    "vi": "Teacher Comments"
+    "vi": "Teacher Comments",
+    "xh": "Teacher Comments",
+    "zu": "Teacher Comments"
   },
 
   "inside_story": {
+    "am": "Inside story",
     "af": "Inside story",
     "ar": "Inside story",
     "bg": "Разказ",
@@ -185,18 +223,25 @@ var LOCALE_VARS = {
     "et": "Misjonilugu",
     "fa": "داستانهای ایمانداران",
     "fj": "Inside Story",
+    "fi": "Inside Story",
     "fr": "Histoire",
     "it": "Finestra sulle missioni",
     "in": "Inside Story",
+    "ilo": "Inside Story",
+    "is": "Inside Story",
     "hr": "Iskustvo",
     "he": "Inside Story",
     "hi": "Inside Story",
+    "hil": "Inside Story",
     "lt": "Inside Story",
+    "lv": "Misijas ziņas",
     "hu": "Inside Story",
+    "hy": "Inside Story",
     "mk": "Inside Story",
     "mn": "Гэрчлэлийн Туух",
     "ms": "Inside Story",
     "ne": "कथा",
+    "nl": "Inside Story",
     "no": "Misjonsfortelling",
     "ko": "선교 이야기",
     "lo": "Inside Story",
@@ -206,8 +251,11 @@ var LOCALE_VARS = {
     "ka": "მისიონერული ისტორია",
     "lr": "Inside Story",
     "sk": "Inside Story",
+    "sl": "Inside Story",
+    "si": "Inside Story",
     "sr": "Inside Story",
     "st": "Taba tsa ka hare",
+    "sq": "Inside Story",
     "sw": "Inside Story",
     "ta": "Inside Story",
     "th": "ข่าวพันธกิจสำหรับผู้ใหญ่",
@@ -216,7 +264,13 @@ var LOCALE_VARS = {
     "uk": "Місіонерська історія",
     "ja": "Inside Story",
     "zh": "Inside Story",
-    "vi": "Inside Story"
+    "vi": "Inside Story",
+    "xh": "Inside Story",
+    "zu": "Inside Story"
+  },
+
+  "tmi": {
+    "ko": "TMI"
   }
 };
 
@@ -231,10 +285,10 @@ function createLanguageFolder(quarterlyLanguage){
   console.log("Necessary " + quarterlyLanguage + " directory created");
 }
 
-function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
+function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmi, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
-    start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
+      start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
 
   console.log("Creating file structure for new quarterly. Please do not abort execution");
 
@@ -263,6 +317,13 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
         "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
       );
     }
+
+    if (quarterlyTmi){
+      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/tmi.md",
+        "---\ntitle:  "+LOCALE_VARS["tmi"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+      );
+    }
+
     if (lessonCover){
       fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
     }
@@ -295,5 +356,5 @@ try {
     console.log("Something weird happened. Aborting");
   }
 } catch (e) {
-  createQuarterlyFolderAndContents(argv.l, argv.q, argv.c, argv.t, argv.d, argv.h, argv.u, argv.i, argv.s, argv.k, argv.y, argv.z);
+  createQuarterlyFolderAndContents(argv.l, argv.q, argv.c, argv.t, argv.d, argv.h, argv.u, argv.i, argv.m, argv.s, argv.k, argv.y, argv.z);
 }

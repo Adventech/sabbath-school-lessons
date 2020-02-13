@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+const copyrightNotice = "\n\n<p><small>Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.</small></p>";
+
 var glob                = require("glob"),
     yamljs              = require("yamljs"),
     metaMarked          = require("meta-marked"),
@@ -44,7 +46,7 @@ var getCompilationQuarterValue = function(d) {
   var quarterIndex = (Math.ceil((d.getMonth()+1)/3)),
       nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex+1) : (d.getFullYear()+1) + "-01";
 
-  return "+(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")";
+  return "(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")";
 };
 
 var branch = argv.b,
@@ -54,7 +56,7 @@ var branch = argv.b,
 var firebaseDeploymentTasks = [];
 
 var getInfoFromPath = function(path){
-  var infoRegExp = /src\/([a-z]{2})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
+  var infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
       matches = infoRegExp.exec(path),
       info = {};
 
@@ -133,6 +135,15 @@ glob("images/global/**/cover.png", function(er, files){
     fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
     if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
       fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
+    }
+  }
+});
+
+glob("images/misc/*.{png,jpg,jpeg}", function(er, files){
+  for (var i = 0; i < files.length; i++){
+    fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
+    if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
+      fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
     }
   }
 });
@@ -306,6 +317,7 @@ var lessonsAPI = function(quarterlyPath){
   (function(language, quarterly, lessons){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSONS).child(language + "-" + quarterly).set(lessons, function(e){
+        console.log('Deployment', language + "-" + quarterly)
         cb(false, true);
       });
     });
@@ -343,6 +355,7 @@ var lessonAPI = function(lessonPath){
   (function(lesson){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.lesson.index).set(lesson, function(e){
+        console.log('Deployment', lesson.lesson.index)
         cb(false, true);
       });
     });
@@ -357,23 +370,30 @@ var lessonAPI = function(lessonPath){
 var daysAPI = function(lessonPath, lesson){
   var days = [],
       files = glob.sync(lessonPath+"/*.md"),
-      info = getInfoFromPath(lessonPath);
+      info = getInfoFromPath(lessonPath),
+      assets = glob.sync(lessonPath+"/*.{png,jpg,jpeg}")
+
+  for (var i = 0; i < assets.length; i++){
+    fs.copySync(assets[i], DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + assets[i].replace(lessonPath, ""));
+  }
 
   for (var i = 0; i < files.length; i++){
     days.push(dayAPI(files[i], lesson));
   }
 
-  // Firebase
-  (function(language, quarterly, lesson, days){
-    firebaseDeploymentTasks.push(function(cb){
-      db.ref(FIREBASE_DATABASE_DAYS).child(language + "-" + quarterly + "-" + lesson).set(days, function(e){
-        cb(false, true);
+  if (new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7))) {
+    // Firebase
+    (function(language, quarterly, lesson, days){
+      firebaseDeploymentTasks.push(function(cb){
+        db.ref(FIREBASE_DATABASE_DAYS).child(language + "-" + quarterly + "-" + lesson).set(days, function(e){
+          cb(false, true);
+        });
       });
-    });
-  })(info.language, info.quarterly, info.lesson, days);
+    })(info.language, info.quarterly, info.lesson, days);
 
-  // API
-  fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + "index.json", JSON.stringify(days));
+    // API
+    fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + "index.json", JSON.stringify(days));
+  }
 
   return days;
 };
@@ -399,6 +419,9 @@ var dayAPI = function(dayPath, lesson){
 };
 
 var readAPI = function(dayPath, day, info, lesson){
+  if (!(new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7)))) {
+    return false;
+  }
   var read = {},
       meta = JSON.parse(JSON.stringify(day.meta));
 
@@ -450,6 +473,7 @@ var readAPI = function(dayPath, day, info, lesson){
   }
 
   read.content = metaMarked(resultRead, {renderer: renderer}).html;
+  read.content += copyrightNotice;
 
   (function(read){
     firebaseDeploymentTasks.push(function(cb){
@@ -471,5 +495,5 @@ var readAPI = function(dayPath, day, info, lesson){
   _meta.cover = _lesson.cover;
 
   // Web
-  fs.outputFileSync(WEB_DIR + info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day + ".md", yamlify(convertDatesForWeb(_meta)) + resultRead);
+  fs.outputFileSync(WEB_DIR + info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day + ".md", yamlify(convertDatesForWeb(_meta)) + resultRead + copyrightNotice);
 };
