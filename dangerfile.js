@@ -20,6 +20,12 @@ const options = {
   }
 };
 
+let pad = function(num, size) {
+  let s = num+"";
+  while (s.length < size) s = "0" + s;
+  return s;
+};
+
 let getCompilationQuarterValue = function(d) {
   d = d || new Date();
   let quarterIndex = (Math.ceil((d.getMonth()+1)/3));
@@ -27,6 +33,27 @@ let getCompilationQuarterValue = function(d) {
   return d.getFullYear() + "-0" + quarterIndex;
 };
 
+// Teting
+glob("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)", function(er, files){
+  for (let i = 0; i < files.length; i++){
+    let fileName = files[i];
+    for (let week = 1; week <= 13; week++) {
+      let weekExistsCheck = files[i] + "/" + pad(week, 2);
+      if (!fs.existsSync(files[i] + "/" + pad(week, 2))) {
+        fail("Quarterly folder must have complete structure. Missing " + weekExistsCheck);
+      } else {
+        for (let day = 1; day <= 7; day++) {
+          let dayExistCheck = weekExistsCheck + "/" + pad(day, 2) + ".md";
+          if (!fs.existsSync(dayExistCheck)) {
+            fail("Week folder must have complete structure. Missing day " + dayExistCheck);
+          }
+        }
+      }
+    }
+  }
+});
+
+// Testing the .md and .yml files
 glob("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)/**/*.{yml,md}", function(er, files){
   for (let i = 0; i < files.length; i++){
     let fileName = files[i];
