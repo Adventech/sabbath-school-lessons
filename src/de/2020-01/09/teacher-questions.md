@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   28/02/2020
 ---
 
-Von der Verunreinigung zur Reinigung
-====================================
+[Von der Verunreinigung zur Reinigung](https://sabbath-school.adventech.io/de/2020-01/09/von-der-verunreinigung-zur-reinigung/)
+===============================================================================================================================
 
 I: Gemeinschaft
 ---------------
@@ -26,6 +26,8 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
+### [Der Widder und der Ziegenbock](https://sabbath-school.adventech.io/de/2020-01/09/der-widder-und-der-ziegenbock/)
+
 **Daniel 8,3-7.20-21**
 
 -   Fragen zum Text:
@@ -35,6 +37,8 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Woran erinnern uns Widder und Ziegenbock?
     -   Was bedeuten diese beiden Tiere?
+
+### [Der Aufstieg des kleinen Horns](https://sabbath-school.adventech.io/de/2020-01/09/der-aufstieg-des-kleinen-horns/) & [Der Angriff auf das Heiligtum](https://sabbath-school.adventech.io/de/2020-01/09/der-angriff-auf-das-heiligtum/)
 
 **Daniel 8,8-9**
 
@@ -62,6 +66,8 @@ II: Wir studieren die Bibel
     -   Inwiefern wird Jesus durch die Aktivitäten des kleinen Horns
         etwas weggenommen?
 
+### [Der prophetische Zeitplan](https://sabbath-school.adventech.io/de/2020-01/09/der-prophetische-zeitplan/)
+
 **Daniel 8,13**
 
 -   Fragen zum Text:
@@ -74,6 +80,8 @@ II: Wir studieren die Bibel
     -   Welche Konsequenzen hat es, wenn jemand das Jahr-Tag-Prinzip
         aufgibt?
     -   Welche Glaubenspunkte wären davon betroffen?
+
+### [Die Reinigung des Heiligtums](https://sabbath-school.adventech.io/de/2020-01/09/die-reinigung-des-heiligtums/)
 
 **Daniel 8,14**
 
