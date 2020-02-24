@@ -1,11 +1,11 @@
 ---
 title: Zendingsbericht
-date:  07/03/2020
+date:  14/03/2020
 ---
 
 #### Een belangrijke beslissing nemen
 
-_Paula Cristina Ghibut, 18_
+_Paula Cristina Ghibut, 18, Roemenië_
 
 Wat doe je als je een belangrijke beslissing moet nemen? Paula Cristina Ghibut stond voor een groot dilemma. Ze was veertien jaar oud en bijna klaar met de zesde klas in Roemenië. Ze moest beslissen waar ze naar de middelbare school zou gaan. 
 
