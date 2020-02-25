@@ -1,0 +1,26 @@
+---
+title: Zendingsbericht
+date:  07/03/2020
+---
+
+#### Tien jaar lang dezelfde droom
+
+_Laurentiu Stefan Druga, 35_
+
+Er gingen maar drie adventistische kinderen naar de basisschool in de buurt van Boekarest, de hoofdstad van Roemenië. Het drietal zat in groep 5, de klas van Laurentiu Stefan Druga, en het duurde niet lang voordat ze hem meevroegen naar de kerk. Laurentiu begon van Jezus te houden en werd gedoopt. Een verlangen bloeide in hem op om predikant te worden. De adventistische school in Boekarest had maar 20 beschikbare plekken en Laurentiu moest een goed resultaat behalen bij het toelatingsexamen. Op de dag van het examen kwam Laurentiu de klas binnen en ging aan een grote tafel zitten. Hij keek naar het papier voor hem en maakte het examen. Hij eindigde als 21e. ‘Geen probleem’, zei hij tegen zijn ouders. ‘Ik probeer het volgend jaar opnieuw.’ 
+
+Maar dat jaar besteedde hij gaandeweg steeds minder aandacht aan zijn geestelijke leven. Toen de tijd eenmaal was aangebroken voor zijn toelatingsexamen, kwam hij hetzelfde klaslokaal binnen. Hij ging aan dezelfde grote tafel zitten. Hij keek naar zijn papier. Maar iets voelde verkeerd. Hij wist dat hij een goddeloos leven leidde en zijn hoofd werd leeg. Abrupt stond hij op en verliet hij het lokaal. 
+
+Een aantal jaren ging voorbij. Laurentiu verhuisde naar Spanje en ging werken in de bouw. Hij trouwde en dwaalde nog verder af van God. Op 23-jarige leeftijd ontmoette hij een oom, een adventist, die ook in Spanje werkte. Hij dacht aan zijn vroegere liefde voor God en aan zijn wens om predikant te worden. Hij en zijn vrouw besloten zich samen te laten dopen. 
+
+In de periode die voorafging aan de grote dag begon Laurentiu zich af te vragen hoe hij zijn nieuwe leven zou leiden. ‘God’, bad hij, ‘wat is uw plan voor mij?’ De volgende dag bad hij opnieuw, ‘God, welk plan heeft U met mij?’ Twee nachten na zijn doop had Laurentiu een droom. In de droom kwam hij een klaslokaal binnen, ging aan een grote tafel zitten en keek naar een wit vel papier. Met afgrijzen realiseerde hij zich dat hij een wiskunde-examen moest afleggen maar in het afgelopen jaar niet had gestudeerd. Hij wist niets meer. Angst ging over in regelrechte paniek en zijn hart klopte wild. Toen werd Laurentiu wakker. Het was drie uur ’s nachts. ‘Het was maar een droom’, stelde hij zichzelf gerust. 
+
+Toen hij weer in slaap viel, had hij een tweede droom. Deze keer stond hij, pratend en lachend, op de preekstoel in de kerk in Madrid. Mensen luisterden met grote belangstelling naar hem. Vrede vervulde hem. Hij was zich bewust van Gods aanwezigheid. ’s Ochtends zette Laurentiu de dromen uit zijn gedachten. Die avond bad hij zoals gewoonlijk ‘God, wat is uw plan voor mij?’ Toen hij in slaap was gezakt, droomde hij dat hij een klaslokaal binnenkwam en aan een grote tafel ging zitten. Terwijl hij naar beneden keek, zag hij dat het een examen was over de Roemeense taal. Een jaar lang had hij niet gestudeerd en zijn gedachten blokkeerden. Hij raakte in paniek. Even later zat hij echter aan een andere tafel. Opgewekt richtte hij glimlachend het woord tot een groep mensen die geboeid zaten te luisteren. Dankbaar was hij zich bewust van Gods aanwezigheid. 
+
+Soortgelijke dromen deden zich bijna elke nacht voor. Het klaslokaal was altijd hetzelfde, maar het examen verschilde. Hij was nooit voorbereid op de toets en voelde zich ellendig. Het tafereel ging dan vervolgens over in of een kerk, een andere tafel of een groep mensen. Hij onderwees en voelde Gods aanwezigheid. Deze dromen hielden al zo’n drie maanden aan, toen Laurentiu zich begon af te vragen of God hem aan wilde sporen om predikant te worden. ‘Maar hoe?’, vroeg hij God. ‘Ik kan mijn baan niet opzeggen. Ik ben getrouwd en ik heb een gezin om te onderhouden.’ De dromen bleven komen. Een jaar ging voorbij. Toen twee, drie, vier jaar. Hij vertelde zijn ouders en een paar dierbare vrienden over de dromen, maar ze deden ze af als uitingen van zijn onderbewustzijn. Op den duur raakte hij gewend aan de dromen. In zijn slaap kon hij wachten op het einde van het ellendige eerste deel om te genieten van het plezierige tweede gedeelte. Elke avond bleef Laurentiu ook bidden, ‘God, wat is uw plan voor mij?’ 
+
+Na tien jaar lichtte Laurentiu zijn vrouw in over de dromen. Op een avond bezochten hij en zijn vrouw een conferentie voor jongeren waar zo’n 250 mensen bijeen waren. De spreker leek zijn gedachten te kunnen lezen. Elke keer dat Laurentiu een argument bedacht om geen predikant te worden, bracht de spreker er vanaf de kansel een weerwoord tegenin. Laurentiu’s vrouw stootte hem aan. ‘Je zou naar het seminarie moeten gaan’, zei ze. Drie maanden later verhuisden Laurentiu, zijn vrouw en hun negenjarige zoon naar het Sagunto Adventist College, 380 kilometer ten oosten van Madrid. Vanaf die dag hielden de dromen op. 
+
+Laurentiu is nu druk bezig met zijn tweede jaar van de opleiding. ‘Elk college dat ik volg en elk ogenblik dat ik doorbreng met de leraren is het tweede deel van de droom’, zei hij. ‘Ik mis het eerste deel van de droom niet. Het tweede deel is nu werkelijkheid geworden in mijn dagelijks leven.
+
+In dit kwartaal is een deel van de dertiende sabbatsopbrengst bestemd voor het vervaardigen van een hoognodig gebouw bij het seminarie waar Laurentiu studeert aan het Sagunto Adventist College.  
