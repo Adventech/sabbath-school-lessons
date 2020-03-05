@@ -17,12 +17,10 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-II: Wir studieren die Bibel
----------------------------
+[II: Wir studieren die Bibel: Vom Bekenntnis zum Trost](https://sabbath-school.adventech.io/de/2020-01/10/vom-bekenntnis-zum-trost/)
+------------------------------------------------------------------------------------------------------------------------------------
 
-VOM BEKENNTNIS ZUM TROST
-
-DIE ZENTRALE STELLUNG DES WORTES GOTTES
+### [DIE ZENTRALE STELLUNG DES WORTES GOTTES](https://sabbath-school.adventech.io/de/2020-01/10/die-zentrale-stellung-des-wortes-gottes/)
 
 **Text Dan 9,1.2**
 
@@ -37,7 +35,7 @@ DIE ZENTRALE STELLUNG DES WORTES GOTTES
     -   Welche Prophezeiungen sollten wir in unseren Tagen studieren und
         welche Rolle sollten sie in der Evangelisation spielen?
 
-EIN APPELL AN DIE GNADE
+### [EIN APPELL AN DIE GNADE](https://sabbath-school.adventech.io/de/2020-01/10/ein-appell-an-die-gnade/)
 
 **Text Dan 9,3-19**
 
@@ -51,7 +49,7 @@ EIN APPELL AN DIE GNADE
         Demut - es gibt nichts in unserem Leben, das uns bei Gott
         'empfehlen könnte; wir sind von Gottes Gnade abhängig)
 
-DER WERT DER FÜRBITTE
+### [DER WERT DER FÜRBITTE](https://sabbath-school.adventech.io/de/2020-01/10/der-wert-der-f%C3%BCrbitte/)
 
 **Text Dan 9,5-13**
 
@@ -64,7 +62,7 @@ DER WERT DER FÜRBITTE
     -   Siehst Du einen Zusammenhang zwischen Fürbitte und
         Charakterentwicklung?
 
-DAS WERK DES MESSIAS | DER PROPHETISCHE KALENDER
+### [DAS WERK DES MESSIAS](https://sabbath-school.adventech.io/de/2020-01/10/das-werk-des-messias/) | [DER PROPHETISCHE KALENDER](https://sabbath-school.adventech.io/de/2020-01/10/der-prophetische-kalender/)
 
 **Text Dan 9,21-27**
 
