@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/03/2020
 ---
 
-**Vom Kampf zum Sieg (Daniel 10)**
-==================================
+**[Vom Kampf zum Sieg (Daniel 10)](https://sabbath-school.adventech.io/de/2020-01/11/t%C3%A4gliche-lektion/)**
+==============================================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -81,7 +81,7 @@ II: Wir studieren die Bibel
     solches Erlebnis positiv (Ehrfurcht) oder negativ (Kleinglaube) zu
     bewerten?
 
-### **Sonntag: Noch einmal Fasten und Gebet**
+### **[Noch einmal Fasten und Gebet](https://sabbath-school.adventech.io/de/2020-01/11/noch-einmal-fasten-und-gebet/)**
 
 **Daniel 10,1-3**
 
@@ -99,7 +99,7 @@ II: Wir studieren die Bibel
     Oder ging es um etwas anderes? (Vllt. die Erscheinung in Versen
     5-9?)
 
-### **Montag: Die Vision des Fürsten**
+### **[Die Vision des Fürsten](https://sabbath-school.adventech.io/de/2020-01/11/die-vision-des-f%C3%BCrsten/)**
 
 **Daniel 10,4-9**
 
@@ -111,7 +111,12 @@ II: Wir studieren die Bibel
 -   Wofür stehen die unterschiedlichen Attribute, mit denen er hier
     auftritt?
 -   Was mag er zu Daniel geredet haben (Vers 9), das uns leider nicht
-    überliefert ist? (Vermutlich das, was von Gabriel in Kapitel 11-1
+    überliefert ist? (Vermutlich das, was von Gabriel in Kapitel 11-12
+    erklärt wird.)
+
+==='''[Von einem Engel
+berührt](https://sabbath-school.adventech.io/de/2020-01/11/von-einem-engel-ber%C3%BChrt/)
+& \[<https://sabbath-school.adventech.io/de/2020-01/11/ein>
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
