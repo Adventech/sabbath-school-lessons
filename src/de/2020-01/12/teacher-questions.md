@@ -77,9 +77,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-**Helge Külls, Pastor und Predigtamtsekretär der ÖU, hat eine
-ausführliche Ausarbeitung zu Daniel 11 erstellt. [Hier bekommst du die
-PDF.](:Medium:Daniel_11,1-39_-_Külls_Helge_-_Detailauslegung_2020-03-15.pdf "wikilink")**
+**`Helge`` ``Külls,`` ``Pastor`` ``und`` ``Predigtamtsekretär`` ``der`` ``ÖU,`` ``hat`` ``eine`` ``ausführliche`` ``Ausarbeitung`` ``zu`` ``den`` ``ersten`` ``39`` ``Versen`` ``in`` ``Daniel`` ``11`` ``erstellt.`` `[`Hier`` ``bekommst`` ``du`` ``die`` ``PDF.`](Medium:Daniel_11,1-39_-_Külls_Helge_-_Detailauslegung_2020-03-15.pdf "wikilink")**
 
 Daniel 11,1-4
 
