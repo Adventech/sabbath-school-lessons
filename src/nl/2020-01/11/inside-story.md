@@ -1,0 +1,28 @@
+---
+title: Zendingsbericht
+date:  14/03/2020
+---
+
+#### Een belangrijke beslissing nemen
+
+_Paula Cristina Ghibut, 18, Roemenië_
+
+Wat doe je als je een belangrijke beslissing moet nemen? Paula Cristina Ghibut stond voor een groot dilemma. Ze was veertien jaar oud en bijna klaar met de zesde klas in Roemenië. Ze moest beslissen waar ze naar de middelbare school zou gaan. 
+
+Paula wilde lerares worden op de basisschool. Ze kon kiezen voor een middelbare school in de buurt waar ze een speciaal onderwijstraject hadden voor middelbare scholieren. Toch had ze vanaf de kleuterschool enkel adventistische scholen bezocht. En de adventistische middelbare school bood alleen een wetenschappelijk traject aan. Thuis in Târgu Mures, het dorp dat zich ten noorden van centraal-Roemenië bevond, bad en las Paula de Bijbel. Ze besprak het met haar ouders en las passages uit boeken van Ellen White, die de Adventkerk mede had opgericht. 
+
+Terwijl ze las, stuitte ze op adviezen waarin gesuggereerd leek te worden dat adventistische kinderen aan niet-adventistische scholen moesten studeren om een licht te zijn voor de wereld. In het boek ‘Counsels to Parents, Teachers, and Students’, geschreven door Ellen White, las ze: ‘De volgelingen van Christus behoren zich in hun principes en interesses te onderscheiden van de wereld. Toch moeten ze zich niet afzonderen van de wereld.’ (Ellen G. White, Counsels to Parents, Teachers, and Students, p. 323.) In ‘De Grote Strijd’ kwam ze tot de ontdekking dat Waldenzische studenten in de dertiende eeuw en nog veel later door hun christelijke invloed hele scholen hadden veranderd. Paula besloot zich in te schrijven op de openbare school. Ze vond het een fijne gedachte dat het haar de gelegenheid zou bieden om Jezus te verkondigen, terwijl ze opgeleid werd tot docent. 
+
+Eerst moest ze nog slagen voor het toelatingsexamen. Ze bad, ‘Als het uw wil is voor mij om daar naar school te gaan, help me dan zodat het goed gaat.’ De concurrentiestrijd voor de 150 plekken die de school beschikbaar had, was hevig. Voor elke plek waren er vier aanmeldingen. Paula werd zevende. 
+
+Toch was Paula er niet gerust op. Het was moeilijk de adventistische scholen te verlaten. Ze wist dat de onderwijzers op de middelbare school niet zouden bidden en de studenten zongen niet over Jezus. Twee weken voor het begin van het schooljaar had Paula ’s nachts een droom waarin het leek alsof ze op de middelbare school was. De leraren waren hooghartig en liefdeloos en ze gaven haar de schuld voor de fouten van haar klasgenoten. De onterechte beschuldigingen maakten Paula van streek. Aan het einde van de dag, terwijl ze zich voorbereidde om naar huis te gaan, hoorde ze een stem die riep ‘Ren weg, ren weg en kom nooit meer terug!’ Paula draaide zich om om te zien wie geroepen had, maar ze zag niemand.
+
+Toen ze ’s ochtends wakker werd, vroeg ze zich af wat de droom betekende. Ze kon niet met zekerheid zeggen dat de droom van God afkomstig was, ze wist dat de duivel ook voor dromen kon zorgen. ‘God, als deze droom door U gegeven is, bewijst U het dan alstublieft op een andere manier’, bad ze. Paula ging naar haar ouders om raad. Ze zeiden dat ze zelf moest beslissen. En daarom bad en vastte ze gedurende enkele dagen. Ze las ook nog meer in de Bijbel en in de boeken van Ellen White. Ze verbaasde zich erover dat alles wat ze nu las, een aansporing leek te zijn om naar een adventistische school te gaan. 
+
+In ‘Counsels to Parents, Teachers, and Students’, las ze: ‘Goddeloos is het om jonge kinderen te stellen onder het gezag van hooghartige en liefdeloze onderwijzers.’ (Ellen G. White, Counsels to Parents, Teachers, and Students, p. 175.) In datzelfde boek las ze ook de woorden, ‘De scholen van onze kerk zijn door God bestemd om kinderen voor te bereiden op dit grote werk’ ( Idem, p. 176. 4 Ellen G. White, Child Guidance, p. 304. ). Ze dacht, ‘Ik wilde via de openbare school mijn certificaten halen om les te geven, maar de adventistische school kan me veel beter opleiden, al ligt daar de nadruk op wetenschap.’ 
+
+In ‘Child Guidance’ las ze vervolgens: ‘Op het moment dat ouders plannen maken om hun kinderen naar school te laten gaan, zouden ze zich moeten realiseren dat het niet langer veilig is om hen op een openbare school in te schrijven. Het zou hun streven moeten zijn om hen naar scholen te sturen waar ze een opleiding ontvangen die een Bijbels fundament als basis heeft.’4 Paula ging naar de adventistische school. Ze leerde een aantal belangrijke lessen over het begrijpen van Gods wil. Ze bad en vroeg haar ouders om advies. Ze las de Bijbel en de geschriften van Ellen White. Daarna nam ze een beslissing. Paula is er zeker van dat ze de juiste keuze heeft gemaakt. Tijdens haar opleiding aan de adventistische middelbare school gaf ze haar hart aan Jezus en werd ze op haar zestiende gedoopt. Ze is nu achttien en zal binnenkort haar diploma halen. Ze realiseert zich nu dat ze genoeg tijd heeft om verder te studeren tot docent aan de universiteit. 
+
+‘Mijn wandel met God is een proces geweest’, zei ze. ‘Ik ben niet aan de drugs geweest om daarna op een wonderbaarlijke manier tot bekering te zijn gekomen. In plaats daarvan heeft God me stap voor stap geleid. Ik wil jonge mensen bemoedigen om ook stap voor stap voor Christus te leven. In elke fase van ons leven zouden we Hem moeten erkennen en zal Hij in ons leven werkzaam zijn. 
+
+Drie jaar geleden ging een deel van de dertiende sabbatopbrengst naar een kerkelijk evangelisatie- initiatief dat voor jonge mensen in Roemenië werd georganiseerd. Dank u voor uw gaven tijdens de dertiende sabbat. 
