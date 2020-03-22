@@ -103,6 +103,13 @@ II: Wir studieren die Bibel
 -   Was sagt dieser Bibelabschnitt über die Menschen aus?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfragen:
+    -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
+        gestalten sollen?
+    -   Inwieweit ist es ein Vorrecht gläubig zu sein?
+    -   Was braucht es, um ein “Verständiger” zu sein?
+
+==='''\[<https://sabbath-school.adventech.io/de/2020-01/13/das-versiegelte-buch/>
+Das versiegelte Bu
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
