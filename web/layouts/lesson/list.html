@@ -47,11 +47,11 @@
 
 <style type="text/css">
     .tintColorBtn {
-        color: {{ $primaryColor }}; 
+        color: {{ $primaryColor }};
         border-color: {{ $primaryColor }}
     }
     .tintColorBtn:hover {
-        color: white; 
+        color: white;
         background-color: {{ $primaryColor }};
         border-color: {{ $primaryColor }}
     }
@@ -64,7 +64,7 @@
                 <img src="{{ .Params.Cover }}" class="img-fluid ss-quarterlies-quarterly-cover" style="border-radius: 10px; height: 340px" />
                 {{ $t := (time .Params.end_date) }}
                 {{ if $t.After now }}
-                <p class="mt-5"><a href="?today" class="btn btn btn-outline-secondary btn-lg tintColorBtn" role="button" aria-pressed="true">{{ $.Param (print (substr $.Dir 0 2) ".todaysLesson") }}</a></p>
+                <p class="mt-5"><a href="?today" class="btn btn btn-outline-secondary btn-lg tintColorBtn" role="button" aria-pressed="true">{{ $.Param (print (index (split $.Dir "/") 0) ".todaysLesson") }}</a></p>
                 {{ end }}
             </div>
             <div class="col-lg-8 col-md-7">
@@ -81,7 +81,8 @@
 
                             <script type="text/javascript">
                                 $(function(){
-                                    moment.locale('{{substr $.Dir 0 2}}');
+
+                                    moment.locale('{{index (split $.Dir "/") 0}}');
                                     $(".ss-quarterly-lesson-start-date-{{$index}}").html(moment('{{ dateFormat "02/01/2006" $element.start_date }}', 'DD/MM/YYYY').format('DD MMM'));
                                     $(".ss-quarterly-lesson-end-date-{{$index}}").html(moment('{{ dateFormat "02/01/2006" $element.end_date }}', 'DD/MM/YYYY').format('DD MMM'));
                                 })

@@ -1,0 +1,30 @@
+---
+title: Zendingsbericht
+date:  28/03/2020
+---
+
+#### Een zigeunerdorp ontdekt de sabbat 
+
+_Peter Mižigar, 44, Slowakije_
+
+Merk op: De verteller hoeft het verhaal niet uit het hoofd te leren. Hij/zij zou wel zo vertrouwd moeten zijn met de stof dat voorlezen van het papier niet nodig is. 
+
+De tweeduizend inwoners van een Roma-kamp in Slowakije beschouwden zichzelf als christenen. Niemand ging echter naar de kerk. Niemand had ooit de Bijbel gelezen. Nadat Slowakije in 1993 onafhankelijk was geworden, kwamen verscheidene zendelingen naar hun verblijfplaats in Rakúsy. Als eerst kwam een getrouwd stel dat elke zondag predikte in de hoofdstraat. Mensen dromden om hen heen om te luisteren, maar ze begrepen er weinig van omdat ze de Bijbel nog nooit hadden gelezen. 
+
+Één dorpeling, Peter Mižigar, trad liever op met zijn band dan dat hij luisterde naar de preken. Hij speelde de basgitaar bij bruiloften en begrafenissen. Het kwam vaak voor dat de bandleden, inclusief zijn jongere broer Pavol, de verdiensten van de band uitgaven aan alcohol. Peter daarentegen dronk nooit tijdens het optreden. Hij was degene die moest rijden. Omdat hij nuchter optrad, had hij al snel door dat elk publiek uit twee groepen bestaat: de één met goede manieren en een goed verstand, de ander met een wat onbeschaafde houding. De andere muzikanten merkten dit niet op omdat ze hadden gedronken.
+
+Bij concerten vond Peter het fascinerend om de menigte te bestuderen. De verschillen tussen de twee groepen zigeuners verdween zodra er drank aan te pas kwam. Door dronkenschap liepen de rijken al snel met blote borst rond en gedroegen ze zich hetzelfde als degenen die arm waren. Elk evenement liep uit op een dronken vuistgevecht, zelfs de begrafenissen. Toen een menigte in de Tsjechische Republiek zich door dronkenschap in woede op Peter en de andere musici stortte, kwamen Peter en zijn broer tot het besluit om te stoppen. ‘Het is vanaf nu gedaan met het spelen van wereldse muziek’, zei Pavol. ‘Ik wil muziek maken voor God’. Pavol had naar de christelijke muziek geluisterd die door de zendelingen in hun dorp werd verspreid. 
+
+Al snel speelden Peter, Pavol en de andere bandleden christelijke muziek bij Pavol thuis. Tijdens een bijeenkomst zag Peter dat er een Bijbel op tafel lag. ‘Wat voor boek is dat?’, vroeg hij terwijl hij het oppakte. Pavol griste het weg. ‘Leg neer’, zei hij. ‘Dat is niet van jou’. Pavol was de Bijbel aan het bestuderen en wilde dat niet delen met de anderen. Terwijl Pavol en de rest aan het spelen waren, verstopte Peter de Bijbel onder zijn arm en verliet het huis. Een maand lang las hij thuis de Bijbel, eerst Openbaring en daarna de evangeliën. Na een tijdje bekende hij aan zijn broer dat hij de Bijbel had meegenomen. Omdat hij jonger was, kon Pavol Peter enkel vragen om hem weer aan hem terug te geven als hij hem uit had. 
+
+Op een dag las Peter Marcus 16:16 waarin Jezus zegt, ‘Wie gelooft en gedoopt is, zal worden gered’. Hij sloot de Bijbel en opende die toch maar weer. Hetzelfde vers. ‘Wie gelooft en gedoopt is, zal worden gered’. Drie keer sloot en opende Peter de Bijbel en elke keer kreeg hij hetzelfde vers te zien. Peter greep de Bijbel en rende naar het huis van zijn broer. Pavol was muziek aan het maken met twee vrienden. ‘Kom alsjeblieft en doop mij’, zei Peter. Hij wist niets over de doop. Hij wilde Jezus enkel gehoorzamen door zich te laten dopen. ‘Je wilt dat ik je doop?’, vroeg Pavol. ‘Ja het staat hier heel duidelijk dat wie gedoopt is, gered zal worden’, antwoordde Peter. 
+
+Pavol twijfelde, maar Peter was vastberaden. De twee broers en hun twee vrienden waadden door een beek van één meter diep die zich buiten het dorp bevond en doopten elkaar. Ze beleden hun zonden aan God en vroegen om vergeving. Na afloop waren ze ontzettend blij en spraken ze erover dat de hele hemel zich verheugde om hun doop. Na die dag vloekten, rookten en dronken de mannen niet meer. Buren waren stomverbaasd. Voor die tijd sloegen mensen angstig op de vlucht als de mannen gedronken hadden. De vier vrienden besloten dat ze de Bijbel dagelijks met elkaar zouden bestuderen. Soms begonnen ze ’s nachts en lazen ze door tot de ochtend. Andere mensen sloten zich aan bij de Bijbelgroep. Het kwam vaak voor dat Peters woonkeuken gevuld was met zo’n vijftig tot honderd mensen. 
+
+Tijdens een bijeenkomst die tot in de late uurtjes voortduurde, werd Peters aandacht getrokken naar Marcus 16:9, dat begint met de woorden: ‘Toen Hij vroeg op de eerste dag van de week uit de dood was opgestaan’. Peter dacht eraan dat Jezus en zijn volgelingen op de zevende dag, de zaterdag, geen werk deden, en hij vroeg zich af waarom de zendelingen die zijn dorp bezochten de zondag hielden. Geen zendeling kon Peters vraag beantwoorden. De Bijbelgroep bleef lezen en kreeg het vierde gebod onder ogen. Ze begonnen de sabbat te eerbiedigen.
+
+Op een dag deelde Peter zijn verbazing over de zondag met een vreemdeling die een Roma familielid bezocht. De man, Josif, was een zevendedagsadventist en zei tegen Peter dat er een kerk was die de Bijbelse sabbat navolgde. Op Peters verzoek sprak Josif tot de Bijbelgroep. Later nam Josif Peter en zijn vrienden mee om een bezoek te brengen aan adventistische kerken in de buurt. Peter was vooral onder de indruk door de eerbiedige stilte van een adventistische eredienst. Peters woonkamer werd een adventistische thuiskerk waar sabbatdiensten en andere activiteiten werden georganiseerd. 
+
+In 2015 werden Peter, zijn broer, en 24 andere leden van de Bijbelgroep door de doop onderdeel van de adventkerk. In de daaropvolgende twee jaar werden nog tien mensen gedoopt. In 2018 is een adventistische kerk gebouwd aan de rand van het dorp, waarin elke sabbat zo’n honderd mensen samenkomen. Dit is de kerk die door God tot stand is gebracht vanuit Peters woonkamer. 
+
+Een deel van de opbrengsten van deze dertiende sabbat levert een bijdrage aan de initiatieven voor kwetsbare kinderen in de kerk te Rakúsy, Slowakije. Dank u voor uw vrijgevige bijdrage aan dit project en voor uw gaven dit kwartaal bij de andere projecten in Bulgarije, Duitsland en Spanje.

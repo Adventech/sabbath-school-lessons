@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   14/02/2020
 ---
 
-**Von der Löwengrube zur Engelsgrube**
-======================================
+**[Von der Löwengrube zur Engelsgrube](https://sabbath-school.adventech.io/de/2020-01/07/von-der-l%C3%B6wengrube-zur-engelsgrube/)**
+====================================================================================================================================
 
 I: Gemeinschaft
 ---------------
@@ -27,6 +27,13 @@ II: Wir studieren die Bibel
 -   Fragen, die zur Weitergabe des gelernten anregen
 
 ### Startfragen
+
+-   Wie passt das folgende Zitat von Friedrich von Schiller zu dieser
+    Erfahrung des Daniel: „Es kann der Frömmste nicht in Frieden leben,
+    wenn es dem bösen Nachbarn nicht gefällt“?
+-   Welchen historischen Hintergrund gibt es zu den beschrieben
+    Ereignissen?
+-   Wer war Darius der Meder?
 
 ### Anmerkungen
 
@@ -51,62 +58,87 @@ II: Wir studieren die Bibel
     auch König aller Länder. Daniel diente daher sowohl Darius, dem
     König von Babylon, als auch nach dessen Tod dem König Kyrus.
 
-### SONNTAG – Eifersüchtig
+### Schlüsselgedanke
+
+-   Bewahrung der Treue zu Gott auch unter weltlicher (geistlicher)
+    Bedrängnis!
+
+### [Eifersüchtig](https://sabbath-school.adventech.io/de/2020-01/07/eifers%C3%BCchtig/)
 
 **Dan 6,1-6**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wer war Darius der Meder? Was sagt uns seine Führung der
+        Regierungsgeschäfte über ihn aus?
+    -   Warum ist Eifersucht immer ein bevorzugter Köder Satans?
+    -   Wie entsteht Eifersucht? Wie kann man sie vermeiden?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welches Bekenntnis legen die Fürsten und Statthalter in ihrer
+        Intrige über Daniel ab?
+    -   Was lernen wir aus der Beziehung des Königs zu seinen Beamten? …
+        Daniel?
+    -   Erleben wir ähnlich Situationen in unserer Gemeinde? Warum?
 
-**Text**
+### [Verschwörung gegen Daniel](https://sabbath-school.adventech.io/de/2020-01/07/verschw%C3%B6rung-gegen-daniel/)
+
+**Dan 6,7-10**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum wurde das vorgeschlagene Gesetz vom König so bereitwillig
+        angenommen?
+    -   Die politischen Führer von Babylon wählten die Löwengrube als
+        Todesstrafe. Was sagt uns das über ihr Verhältnis zu Daniel?
+    -   Welche Rolle spielt in dieser Gesetzgebung Selbstüberschätzung?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum wollten Menschen anderen Schaden zufügen?
+    -   Erleben wir solche Situationen – vielleicht in Form von
+        Gerüchte, Unterstellungen, … – auch in unserer Gemeinde?
+    -   Ist uns bewusst wie leicht wir anderen Schaden (Leiden, Schmerz)
+        zufügen können?
 
-**Text**
+### [Daniels Gebet](https://sabbath-school.adventech.io/de/2020-01/07/daniels-gebet/)
+
+**Dan 6,11**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum war Daniels Gebetsleben auch in diesem Gesetz
+        eingeschlossen?
+    -   Warum kann/will Daniel seine Verbindung mit Gott nicht
+        verbergen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie wichtig ist uns die Zeit mit Gott im Bibelstudium und im
+        Gebet?
+    -   Unter welchen Umständen sind wir bereit Kompromisse zu machen?
 
-**Text**
+### [In der Löwengrube](https://sabbath-school.adventech.io/de/2020-01/07/in-der-l%C3%B6wengrube/)
+
+**Dan 6,12-24**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Zuversicht brachte der König zum Ausdruck?
+    -   Warum war die Versiegelung der Löwengrube notwendig?
+    -   Was lernen wir aus dem Verhalten des Königs am folgenden Morgen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie verbrachte Daniel diese Nacht? … und wie der König?
+    -   Wer wurde in dieser Nacht errettet?
 
-**Text**
+### [Rehabilitierung](https://sabbath-school.adventech.io/de/2020-01/07/rehabilitierung/)
+
+**Dan 6,25-29**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum bestraft der König seine Ratgeber so hart?
+    -   Wie erklären wir die Strafe gegen die ganze Familie?
+    -   Warum schreibt Darius dieses Rundschreiben?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie würdest Du ein Rundschreiben nach der Befreiung aus einer
+        schwierigen Situation verfassen?
+    -   Welchen Preis bist du bereit für ein Zeugnis für Gott zu
+        bezahlen?
+
+### Schlussüberlegung
+
+-   Wie hängen Treue und Liebe zusammen?
 
 III: Dienst und Mission
 -----------------------
@@ -119,7 +151,8 @@ unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
 [Wir alle beteiligen
 uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-*'Arbeitshilfe “Gebet + Dienst + Zeugnis”*
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
+Diese
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
