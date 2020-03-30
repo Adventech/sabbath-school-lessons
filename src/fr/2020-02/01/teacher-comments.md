@@ -3,9 +3,7 @@ title:  Commentaires Moniteurs
 date:   03/04/2020
 ---
 
-### 
-
-Textes clés: Deut. 32:45-47; Gen 49:8-12; Esa. 53:3-7; 1 Cor. 15:3-5, 51-55; Rom. 12:2
+**Textes clés**: Deut. 32:45-47; Gen 49:8-12; Esa. 53:3-7; 1 Cor. 15:3-5, 51-55; Rom. 12:2
 
 ### Partie I: Aperçu
 

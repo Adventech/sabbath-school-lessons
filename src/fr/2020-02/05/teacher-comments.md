@@ -3,9 +3,7 @@ title:  Commentaires Moniteurs
 date:   01/05/2020
 ---
 
-### 
-
-Textes clés: Heb. 4:12; 1 Cor. 4:6; Esa. 8:20; Tite 1:9; 2 Tim. 1:13; Luc 24:27, 44, 45.
+**Textes clés**: Heb. 4:12; 1 Cor. 4:6; Esa. 8:20; Tite 1:9; 2 Tim. 1:13; Luc 24:27, 44, 45.
 
 ### Partie I: Aperçu
 

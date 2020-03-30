@@ -3,9 +3,7 @@ title:  Commentaires Moniteurs
 date:   10/04/2020
 ---
 
-### 
-
-Textes Clés: 2 Tim. 3:16; 2 Pie 1:19-21; 1 Thess. 2:13; 1 Cor. 2:9, 10; Rom. 15:4; Actes 1:16.
+**Textes Clés**: 2 Tim. 3:16; 2 Pie 1:19-21; 1 Thess. 2:13; 1 Cor. 2:9, 10; Rom. 15:4; Actes 1:16.
 
 ### Partie I: Aperçu
 
@@ -25,7 +23,7 @@ Si nous excluons certaines parties de l’Écriture comme prétendument peu insp
 
 Nous voyons la révélation la plus haute et la plus explicite de Dieu dans l’incarnation de Son Fils Jésus-Christ. En dehors de cela, la forme la plus efficace et largement utilisée de la révélation divine est la parole divine. Dans la Bible, nous trouvons des références répétées au Dieu qui parle. Sa Parole est donnée à Ses porte-paroles que sont les prophètes. Les nombreuses occurrences de phrases telles que la « parole du Seigneur » ou « ainsi dit le Seigneur » ou « le Seigneur a dit » témoignent de ce fait. Ce discours divin produit la Parole du Seigneur et conduit finalement à son incarnation dans un document écrit. L’écriture de la Parole de Dieu est aussi le résultat de l’initiative de Dieu (voir Exo. 17:14, Exo. 24:4, Jos. 24:26, etc.).
 
-`Quel est le but de la révélation écrite de Dieu? C’est un point de référence constant pour Son peuple. Elle permet au peuple de Dieu de l’entendre continuellement d’une manière inaltérée et d’avoir la volonté de faire ce qu’il dit (voir Deut. 30:9, 10). Un document écrit peut être mieux conservé et de façon plus fiable qu’un message oral. Il y a plus de permanence avec un texte écrit qu’avec une parole orale. Un document écrit peut être copié et multiplié et donc mis à la disposition des gens dans de nombreux endroits différents plus que n’importe quel message oral. Il est également disponible à travers le temps et peut être une bénédiction pour les lecteurs et les auditeurs de nombreuses générations plus tard. En tant que document permanent écrit, il demeure un standard pour la véracité du message biblique à travers les âges.`
+Quel est le but de la révélation écrite de Dieu? C’est un point de référence constant pour Son peuple. Elle permet au peuple de Dieu de l’entendre continuellement d’une manière inaltérée et d’avoir la volonté de faire ce qu’il dit (voir Deut. 30:9, 10). Un document écrit peut être mieux conservé et de façon plus fiable qu’un message oral. Il y a plus de permanence avec un texte écrit qu’avec une parole orale. Un document écrit peut être copié et multiplié et donc mis à la disposition des gens dans de nombreux endroits différents plus que n’importe quel message oral. Il est également disponible à travers le temps et peut être une bénédiction pour les lecteurs et les auditeurs de nombreuses générations plus tard. En tant que document permanent écrit, il demeure un standard pour la véracité du message biblique à travers les âges.
 
 S’il est vrai que Dieu inspire les pensées des auteurs de la Bible, nous ne saurions rien de ces pensées si elles n’avaient pas été communiquées par les mots, c’est-à-dire, dans un langage humain. Seuls les mots nous donnent accès aux pensées. C’est pourquoi le processus d’inspiration englobe les pensées ainsi que le produit final de ces pensées: les paroles écrites de l’Écriture. « Le fait quel’inspiration soit attribuée aux écrivains inspirés ou aux Écritures qu’ils ont écrites est dans une large mesure un dilemme inutile. Il est clair que le point d’inspiration primaire se trouve à l’intérieur des personnes. L’Esprit Saint a poussé les gens à parler ou à écrire; pourtant, ce qu’ils ont dit ou écrit était la parole inspirée de Dieu » – (traduit de Peter M. van Bemmelen, « Revelation and Inspiration » dans Raul Dederen, ed., Manual of Seventh-day Adventists Theology, Hagerstown, MD: Review and Herald, 2000), p. 39. Ainsi, l’aprePaul pouvait écrire: « Toute Écriture est inspirée de Dieu, et utile pour enseigner, pour convaincre, pour corriger, pour instruire dans la justice » (2 Tim. 3:16, LSG).
 

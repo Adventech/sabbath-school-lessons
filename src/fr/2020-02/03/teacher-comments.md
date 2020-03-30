@@ -3,9 +3,7 @@ title:  Commentaires Moniteurs
 date:   17/04/2020
 ---
 
-### 
-
-Textes clés: Matt. 4:1-11; Matt. 22:37-40; Luc 24:13-35, 44, 45; Luc 4:25-27; Actes 4:24-26.
+**Textes clés**: Matt. 4:1-11; Matt. 22:37-40; Luc 24:13-35, 44, 45; Luc 4:25-27; Actes 4:24-26.
 
 ### Partie I: Aperçu
 
