@@ -359,7 +359,7 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
     quarterlyHumanDate = q;
   }
 
-  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \"#"+quarterlyColorPrimary+"\"\n  color_primary_dark: \"#"+quarterlyColorDark+"\"");
+  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \""+quarterlyColorPrimary+"\"\n  color_primary_dark: \""+quarterlyColorDark+"\"");
   fs.copySync(QUARTERLY_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/cover.png");
 
   console.log("File structure for new quarterly created");
