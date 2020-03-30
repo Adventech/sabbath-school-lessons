@@ -1,5 +1,5 @@
 ---
-title:  Inside Story
+title:  Zendingsbericht
 date:   10/04/2020
 ---
 
