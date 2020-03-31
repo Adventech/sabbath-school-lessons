@@ -1,0 +1,58 @@
+---
+title:  Komen Guru
+date:  25/04/2020
+---
+
+**Ayat-ayat Utama**: Yes. 8:20; Markus 7:1–13; 1 Kor. 11:2; 2 Tes. 3:6; Roma  2:4; Titus 3:4, 5; 1 Yohanes 2:15–17; 2 Kor. 10:5, 6; Ams. 1:7; Ams. 9:10; Yoh 5:46–48; Yoh 7:38.
+
+#### Bahagian I: Ringkasan
+
+Sering kali  kita tidak menyedari pengaruh daripada sumber-sumber lain kepada pemikiran dan teologi kita. Sekalipun kita ingin hidup menurut Kitab Suci sahaja, namun pemahaman kita tentang Kitab Suci dibentuk dan dipengaruhi dengan ketara oleh beberapa faktor: tradisi yang kita telah terbiasa dan membesar dengannya, cara kita dilatih untuk berfikir dan bagaimana kita menggunakan akal kita dalam menjelaskan perkara-perkara, pengalaman kita dengan orang-orang tertentu dan idea-idea tertentu, dan budaya di sekeliling kita. Keutamaan yang diberikan kepada mana-mana sumber atau gabungan sumber mempunyai pengaruh yang signifikan terhadap teologi kita; akhirnya ia akan menentukan arah keseluruhan usaha teologikal. Di gereja-gereja Katolik dan Ortodoks, tradisi sering memainkan peranan penting sebagai penentu. Dalam gereja karismatik dan Pentecostal, pengalaman sering dikreditkan sebagai otoritas penentu. Dalam teologi liberal, akal manusia sering diterima sebagai kata putus terakhir apa yang boleh diterima atau tidak.  Selain itu, setiap gereja dipengaruhi oleh budaya tempatan. Tidak ada gereja yang wujud tanpa Alkitab. Kita tidak mahu iman yang tidak mempunyai pengalaman, iman yang tidak munasabah dan tidak diberkati oleh tradisi-tradisi positif. Adalah penting untuk menyedari semua pengaruh-pengaruh tersebut dan untuk memahami sumbangan positif setiap sumber terhadap iman kita. Tetapi amat penting juga untuk melihat batasan setiap sumber. Berikut adalah soalan yang penting: Sumber manakah yang kita berikan kuasa muktamad dan tertinggi dalam hal iman dan amalan?
+
+#### Bahagian II: Ulasan
+
+Tradisi
+
+Tradisi sering mempunyai reputasi buruk. Ia dikaitkan dengan minda sempit tertentu yang hanya terikut-ikut perlaksanaan ritual dan amalan tertentu tanpa ada usaha untuk kembali kepada yang asli. Tetapi tradisi tidak semuanya buruk.
+
+Fikirkan beberapa aspek positif yang mungkin ada pada tradisi. Ia memberikan  kestabilan masyarakat. Ia menghubungkan kita dengan masa lalu kita dan mungkin asal usul kita. Ia membawa nilai-nilai dan perkara-perkara yang penting kepada kita. Ia membantu mengekalkan ingatan terhadap peristiwa-peristiwa dan perkara-perkara yang penting. Semua perkara ini adalah baik.
+
+Masalah timbul apabila tradisi-tradisi itu memperoleh kehidupan mereka sendiri dan akhirnya menjadi lebih penting daripada hal-hal asal yang mereka cuba pelihara. Tradisi juga cenderung berkembang seiring dengan waktu dan menambah aspek-aspek yang melebihi perkara yang mencetuskan tradisi tersebut pada mulanya.
+
+Dalam Galatia 1: 9, Paulus menasihati umat percaya untuk tidak memberitakan Injil yang lain daripada yang mereka telah terima. Oleh itu, terdapat tradisi yang dimulakan oleh Tuhan, tetapi ada juga tradisi manusia yang bukan bahagian daripada rencana Tuhan atau Firman Tuhan pada asalnya.
+
+**Pengalaman**
+
+Manusia diciptakan dengan keupayaan untuk mengalami kasih sayang. Kita dapat mengalami dan menikmati keindahan, keharmonian, muzik, dan seni dan boleh terhubung kepada perkara-perkara dan hubungan-hubungan lain dengan lebih daripada sekadar bersifat rasional. Pengalaman adalah komponen kehidupan kita dan juga membentuk sebahagian besar daripada kehidupan rohani kita dengan Tuhan.
+
+Fikirkan aspek iman anda di mana pengalaman kegembiraan, pengampunan, hati nurani yang bersih, dan tindakan kebaikan dan kasih telah memberi kesan positif kepada hubungan anda dengan Tuhan dan umat percaya yang lain.
+
+Di manakah pengalaman penolakan, prasangka, kebencian, kecurigaan, keraguan, iri hati, dan cemburu telah memberi kesan negatif terhadap hubungan dan pemahaman anda tentang Tuhan? Apakah yang hal itu ajarkan kepada kita tentang tanggungjawab kita untuk menjadi surat yang hidup bagi Kristus (2 Korintus 3: 2, 3) yang dapat dibaca oleh orang lain apabila mereka ingin mempelajari sesuatu tentang Tuhan?
+
+**Ilustrasi**
+
+Pengalaman manusia kita adalah sangat kuat tetapi juga boleh menipu dan menyesatkan. Bagaimanakah anda akan merespon jika seorang Kristian karismatik  memberitahu anda bahawa dalam pengalamannya Tuhan telah menyuruh dia untuk menyembah Tuhan pada hari Ahad, sedangkan Alkitab dengan jelas menyatakan bahawa Sabat hari ketujuh adalah hari suci bagi Tuhan? Apakah yang harus kita lakukan jika pengalaman mendapat salah satu daripada karunia rohani tertentu dijadikan norma untuk apa yang dimaksudkan untuk menjalani kehidupan yang dipenuhi Roh?
+
+**Budaya**
+
+Perkataan Inggeris culture (budaya) berasal dari perkataan Latin cultura,  yang tumbuh daripada perkataan colere, yang bermaksud untuk memupuk. Kebudayaan merangkumi, antara lain, adat-adat, nilai, tingkah laku sosial dan norma/kebiasaan  yang terdapat dalam masyarakat manusia. Tuhan telah memberikan kita keupayaan untuk membentuk budaya, tetapi pada masa yang sama kita semua dipengaruhi oleh budaya masing-masing yang kita amalkan.
+
+Kewujudan Alkitab telah bermula dalam budaya tertentu. Dengan demikian beberapa pernyataannya dapat difahami dengan lebih baik oleh budaya tersebut.  Budaya yang Kitab Suci guna pakai tidak menjadikan Kitab Suci itu relatif terhadap budaya tertentu. Lagipun, Kitab Suci adalah Firman Tuhan yang dinyatakan. Oleh itu, Alkitab dapat memberi kesan positif terhadap budaya manusia dan mengangkat mana-mana masyarakat.
+
+Senaraikan contoh-contoh di mana pemikiran alkitabiah telah mengubah masyarakat dan budaya anda untuk lebih baik atau di mana ia boleh memberi kesan positif kepada masyarakat dan budaya kita. Fikirkan bersama ahli Sekolah Sabat anda mengenai strategi untuk memperkenalkan Alkitab dan idea alkitabiah dengan cara yang akan diterima dengan baik, mewujudkan budaya alkitabiah yang positif sebagai lawan bagi budaya yang sudah berakar dalam masyarakat kita.
+
+Tiada budaya yang sempurna, dan setiap budaya dijangkiti oleh dosa. Oleh itu, tidak semua yang ada dalam budaya adalah positif. Sesetengah hal dalam budaya mungkin mempunyai kesan negatif terhadap iman kita atau bahkan mungkin ia berasal  daripada setan. Bagaimanakah kita boleh membezakan antara aspek positif dan negatif budaya kita? Bagaimanakah kita dapat mengelak daripada meniru budaya kita dalam ibadah kita? Mengapakah kita harus boleh diterima secara budaya untuk menjangkau orang lain? Bagaimanakah Alkitab boleh menjadi norma terakhir dalam usaha ini?
+
+**Akal Manusia**
+
+Tuhan telah mencipta kita dengan kemampuan untuk berfikir. Dalam banyak perkara, Alkitab memanggil kita untuk merenungkan apa yang tertulis dalam Alkitab dan merangsang pemikiran kita. Soalan yang berulang "Apa pendapat anda?" (Mat 17:25, Mat 18:12, Matt 21:28, Mat 22:17, Mat 22:42, Mat 26:66, dan lain-lain) atau soalan yang berkaitan "Tidakkah kamu baca?" (Mat 12: 3, 5; Mat 19: 4; Mat 21:16; Mat 21:42; Mat. 22:31; dll.) membayangkan bahawa Tuhan  mahu kita menggunakan fikiran kita dalam memahami Dia dan Firman-Nya. Walaupun kita dapat memahami Tuhan dengan betul dan sejujurnya, namun kita harus mengakui bahawa kita tidak akan pernah memahami sepenuhnya tentang Tuhan. Lagipun, kita adalah makhluk yang diciptakan. Kita bukan Tuhan! Tambahan pula, pemikiran kita digelapkan dan terjejas oleh dosa. Oleh itu, kita perlu "menawan segala fikiran dan menaklukkannya kepada Kristus" (2 Kor 10: 5). Jika kita tidak bersedia untuk menyerahkan pemikiran kita kepada otoritas yang lebih tinggi iaitu Kitab Suci, maka kita akan dengan cepat mula mempertimbangkan lebih banyak bahagian Alkitab mengikut apa yang kita fikir munasabah dan benar, dengan itu menjadikan akal kita sebagai norma untuk apa yang kita boleh terima atau tidak. Pemikiran seperti ini akan menghapuskan keajaiban-keajaiban dalam Alkitab dan akan menjejaskan kebenaran alkitabiah seperti doktrin  tentang Tuhan dan sifat ketigaan-Nya atau ketuhanan Kristus, atau keperibadian Roh Kudus, atau kebangkitan tubuh, atau hubungan antara kehendak bebas manusia dan kedaulatan Tuhan, dan sebagainya. Pada akhirnya, "Penyelidikan berdasarkan andaian sains sudah tentu gagal kerana ia memperkenalkan kemustahilan dalaman. Kerana apa yang berjalan seiring dengan firman/wahyu Tuhan bukan pengupasan melainkan penurutan; ia bukan untuk dibetulkan . . . melainkan biarlah saya dibetulkan.”—Gerhard Maier, The End of the Historical-Critical Method (St. Louis: Concordia, 1977), ms. 23.
+
+**Alkitab**
+
+Alkitab adalah otoritas tertinggi dan paling pasti dalam semua perkara yang berkaitan dengan iman dan amalan, kerana kita percaya bahawa Roh Kudus telah mengilhami para penulis Alkitab untuk menulis dengan cara yang dapat dipercaya dan dapat diandalkan apa yang Tuhan mahu sampaikan melalui mereka. Yesus dan para rasul menerima Kitab Suci dengan pemahaman seperti ini. Bagi Yesus, Firman Tuhan adalah kebenaran (Yohanes 17:17). Menurut Yesus, jika kita tidak percaya kepada Musa, maka kita tidak akan percaya kepada kata-kataNya (Yohanes 5:46, 47). Bagi Yesus, Kitab Suci adalah norma untuk iman kita: "Barangsiapa percaya kepada-Ku, seperti yang dikatakan oleh Kitab Suci: Dari dalam hatinya akan mengalir aliran-aliran air hidup" (Yohanes 7:38,). Dengan cara yang sama, rasul-rasul berulang kali merujuk kepada Kitab Suci sebagai norma ajaran mereka (Kisah 17:11; Roma 10:11, dll) dan percaya kepada Kitab Suci, "Sebab segala sesuatu yang ditulis dahulu, telah ditulis untuk menjadi pelajaran bagi kita, supaya kita teguh berpegang pada pengharapan oleh ketekunan dan penghiburan dari Kitab Suci " (Roma 15: 4). Kita tidak boleh melebih-lebih daripada para rasul sendiri dalam perlakuan atau penerimaan  kita terhadap Kitab Suci,  dan kita tidak boleh menjadi lebih Kristian daripada Kristus sendiri. Dia adalah contoh kita. Kita patut mengikuti jejakNya dalam cara Dia menggunakan dan sentiasa merujuk kepada Kitab Suci sebagai norma yang paling pasti untuk iman-Nya.
+
+#### Bahagian III: Penerapan Hidup
+
+Apabila kita mengasihi seseorang, beberapa daripada faktor yang kita telah bincangkan minggu ini tergunapakai. Dalam cinta, kita mengalami satu perasaan yang kuat. Namun, cinta lebih daripada sekadar perasaan. Apabila kita mencintai seseorang, biasanya kita biasanya mempunyai sebab-sebab yang baik  mengapa cinta kita terhadap orang ini adalah nyata dan mengapa orang yang satu lagi mencintai  kita. Namun, adalah tidak bijak untuk membangunkan cinta kita berdasarkan sebab sahaja.
+
+Apabila kita memulakan hubungan cinta, kita cenderung untuk memupuk beberapa amalan biasa atau tradisi yang mengingatkan kita tentang saat-saat yang penuh erti bersama-sama. Tetapi apabila tradisi itu menjadi lebih penting daripada hubungan itu sendiri, maka tradisi itu memesongkan, dan kita  kehilangan sesuatu yang penting. Apabila kita menunjukkan cinta kita kepada seseorang, kita biasanya melakukannya dengan cara yang menyerupai dan mencerminkan adat dan norma budaya kita. Tetapi apabila kita membiarkan hanya budaya untuk menentukan bagaimana cinta harus dipraktikkan, maka kita dengan cepat boleh dibawa kepada perkara-perkara yang dilarang dalam Kitab Suci. Atas sebab inilah, kita memerlukan sumber yang membimbing dan memberikan ciri-ciri cinta dan kehidupan kita yang bukan berasal daripada manusia. Kita memerlukan sumber yang boleh dipercayai yang lebih mendalam daripada apa yang kita rasakan, lebih tinggi daripada apa yang kita fikirkan, dan lebih bermakna daripada mana-mana tradisi atau budaya manusia. Syukurlah kepada Firman yang kekal dan boleh dipercayai yang kita temui dalam Alkitab.
