@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   03/04/2020
 ---
 
-Die Einzigartigkeit der Bibel
-=============================
+[Die Einzigartigkeit der Bibel](https://sabbath-school.adventech.io/de/2020-02/01/die-einzigartigkeit-der-bibel/)
+=================================================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -94,7 +94,7 @@ Einstiegsfrage
         geprägt?
     -   ...
 
-Das lebendige Wort Gottes
+### ''' [Das lebendige Wort Gottes](https://sabbath-school.adventech.io/de/2020-02/01/das-lebendige-wort-gottes/) '''
 
 **Text 5. Mose 32,45-47**
 
@@ -119,6 +119,17 @@ Das lebendige Wort Gottes
 -   Fragen zur Botschaft:
     -   Welche Bedeutung hat dieser Text für Dich?
     -   ...
+
+### ''' [Wer schrieb die Bibel und wo?](https://sabbath-school.adventech.io/de/2020-02/01/wer-schrieb-die-bibel-und-wo/) '''
+
+**Text 2. Mose 2,10; Amos 7,14; Jeremia 1,1-6; Daniel 6,1-5; Matthäus
+9,9; Philipper 3,3-6; Offenbarung 1,9**
+
+-   Fragen zum Text:
+    -   Was sagen diese Texte über die Autoren und ihre Hintergründe?
+    -   ...
+-   Fragen zur Botschaft:
+    -   Welche praktische Bedeutung haben d
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
