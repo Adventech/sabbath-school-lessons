@@ -262,6 +262,9 @@ var BIBLE_PARSER_CONFIG = {
   ],
   "zu": [
     "zul59"
+  ],
+  "zom":[
+    "TDB"
   ]
 };
 
