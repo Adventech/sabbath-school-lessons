@@ -14,16 +14,16 @@ var argv = require("optimist")
     "u": "Include teacher comments",
     "i": "Inside story",
     "m": "Create TMI (Total Member Involvement) News/Tips placeholder lessons",
-    "k": "Create lesson cover placeholder images",
-    "y": "Primary color for the lesson",
-    "z": "Dark primary color for the lesson"
+    "k": "Create lesson cover placeholder images"
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
-  .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false, "y" : "ffffff", "z" : "000000" })
+  .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false })
   .argv;
 
 var fs     =  require("fs-extra"),
-    moment =  require("moment");
+    moment =  require("moment"),
+    yamljs = require("yamljs"),
+    changeCase = require("change-case");
 
 var SRC_PATH = "src/",
     QUARTERLY_COVER = "images/quarterly_cover.png",
@@ -331,7 +331,35 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
   start_date = moment(start_date).add(-1, "d");
 
-  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \"#"+quarterlyColorPrimary+"\"\n  color_primary_dark: \"#"+quarterlyColorDark+"\"");
+  if (fs.existsSync(`${SRC_PATH}/en/${quarterlyId}/info.yml`)) {
+    let englishInfo = yamljs.load(`${SRC_PATH}/en/${quarterlyId}/info.yml`);
+    if (!quarterlyColorPrimary) {
+      quarterlyColorPrimary = englishInfo.color_primary
+    }
+    if (!quarterlyColorDark) {
+      quarterlyColorDark = englishInfo.color_primary_dark
+    }
+  } else {
+    quarterlyColorPrimary = "#7D7D7D";
+    quarterlyColorDark = "#333333";
+  }
+
+  if (quarterlyHumanDate === true) {
+    let quarter = quarterlyId.substr(quarterlyId.indexOf("-")+1,2);
+    let year = quarterlyId.substr(0, quarterlyId.indexOf("-"));
+    let q = "";
+    for (let i = 0; i <= 2; i++) {
+      let m = moment();
+      m.year(parseInt(year));
+      m.month(i + (3 * (parseInt(quarter)-1)));
+      m.locale(quarterlyLanguage);
+      q += changeCase.title(m.format("MMMM")) + ((i < 2) ? ' · ' : ' ');
+    }
+    q += year;
+    quarterlyHumanDate = q;
+  }
+
+  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \""+quarterlyColorPrimary+"\"\n  color_primary_dark: \""+quarterlyColorDark+"\"");
   fs.copySync(QUARTERLY_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/cover.png");
 
   console.log("File structure for new quarterly created");
