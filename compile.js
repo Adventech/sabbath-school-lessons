@@ -261,6 +261,7 @@ var quarterlyAPI = function(quarterlyPath){
   quarterly.index = info.language + "-" + info.quarterly;
   quarterly.path = info.language + "/quarterlies/" + info.quarterly;
   quarterly.full_path = API_HOST + API_VERSION + "/" + info.language + "/quarterlies/" + info.quarterly;
+  quarterly.group = `${quarterly.index.substring(0, 10)}`
 
   try {
     fs.lstatSync(quarterlyPath + "/" + SOURCE_COVER_FILE);
