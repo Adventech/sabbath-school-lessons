@@ -7,6 +7,9 @@ languages:
   - native: Español
     en: Spanish
     code: es
+  - native: Zopau
+    en:  Chin
+    code: ctd
   - native: Русский
     en: Russian
     code: ru
