@@ -19,7 +19,7 @@ var BIBLE_PARSER_CONFIG = {
     "csp"
   ],
   "ctd":[
-    "TDB"
+    "tdb"
   ],
 
   "da": [
@@ -266,7 +266,7 @@ var BIBLE_PARSER_CONFIG = {
   "zu": [
     "zul59"
   ]
-  
+
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
