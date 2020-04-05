@@ -7,8 +7,8 @@ languages:
   - native: Español
     en: Spanish
     code: es
-  - native: Zopau
-    en:  Chin
+  - native: Zolai
+    en: Tedim Chin
     code: ctd
   - native: Русский
     en: Russian
