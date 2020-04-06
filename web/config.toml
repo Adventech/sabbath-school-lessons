@@ -184,7 +184,7 @@ title = "Sabbath School"
 	archive = "Archiv hodin"
 	lang = "🇨🇿 Česky"
 
-[params.ctd]
+[params.my]
 	title = "Sabbath School"
 	back = "Go back"
 	all = "See all"

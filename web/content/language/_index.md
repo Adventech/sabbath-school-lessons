@@ -174,5 +174,5 @@ languages:
     code: fi
   - native: Tedim Chin
     en: Tedim Chin
-    code: ctd
+    code: my
 ---
