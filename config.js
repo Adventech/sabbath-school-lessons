@@ -18,6 +18,9 @@ var BIBLE_PARSER_CONFIG = {
     "kralicka-1613",
     "csp"
   ],
+  "my":[
+    "tdb"
+  ],
 
   "da": [
     "bph",
@@ -263,6 +266,7 @@ var BIBLE_PARSER_CONFIG = {
   "zu": [
     "zul59"
   ]
+
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
