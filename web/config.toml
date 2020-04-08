@@ -184,6 +184,15 @@ title = "Sabbath School"
 	archive = "Archiv hodin"
 	lang = "🇨🇿 Česky"
 
+[params.my]
+	title = "Sabbath School"
+	back = "Go back"
+	all = "See all"
+	todaysLesson = "Tuni Lesson"
+	current = "Tu laitak"
+	archive = "A beisa Lesson"
+	lang = "🇲🇲 Tedim"
+
 [params.he]
 	title = "ספר שבת"
 	back = "תחזור"
