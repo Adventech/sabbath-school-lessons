@@ -15,8 +15,7 @@ Stepan Dordyai antwortete: „Ich habe ein passendes Gebäude.“ In nur drei Mo
 
 Der Sportplatz ist einer der besten der Stadt, und andere Schulen schicken ihre Kinder zu Freundschaftsspielen. Jedes Mal, wenn Kinder ankommen, erklärt der adventistische Schulleiter: „Dies ist eine besondere Schule. Wir studieren hier die Bibel und fluchen nicht. Wie wäre es, wenn wir, bevor wir spielen, gemeinsam einen kurzen Bibelvers auswendig lernen?“ Die Antwort ist ein stets lautes Ja. „Die Kinder lernen die Bibelverse schnell und wiederholen sie später zu Hause“, sagt Wladimir Tkachuk. „Dann spielen sie.“
 
-Eine 75 Kilometer entfernte Adventgemeinde mit 300 Mitgliedern wurde auf die blühende Schule aufmerksam und fragte sich: „Warum können wir nicht auch eine Schule gründen?“ So eröffneten sie in ihrer Stadt Ilnyzja eine Schule mit
-22 Kindern.
+Eine 75 Kilometer entfernte Adventgemeinde mit 300 Mitgliedern wurde auf die blühende Schule aufmerksam und fragte sich: „Warum können wir nicht auch eine Schule gründen?“ So eröffneten sie in ihrer Stadt Ilnyzja eine Schule mit 22 Kindern.
 
 Dies ist eine bemerkenswerte Geschichte, die sich in der gesamten Euro-Asien-Division wiederholt, wo die Zahl der Adventschulen von 14 im Jahr 2012 auf heute über 60 gestiegen ist. „Es gibt viele Gründe, warum Schulen jetzt aus dem Boden sprießen, aber einer der Hauptgründe ist, dass es die rechte Zeit und der rechte Ort für Gott ist, um seine Pläne zu erfüllen“, sagt Mikhail Kaminskiy, Präsident der Euro-Asien-Division.
 
