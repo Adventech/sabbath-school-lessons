@@ -175,4 +175,7 @@ languages:
   - native: Suomen kieli
     en: Finnish
     code: fi
+  - native: Tedim Chin
+    en: Tedim Chin
+    code: my
 ---
