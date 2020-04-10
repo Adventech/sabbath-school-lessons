@@ -130,7 +130,7 @@ DIENSTAG Jesus und die ganze Heilige Schrift
 -   Fragen zum Text:
     -   Wie holt Jesus die Beiden aus der Enttäuschung? Welche Rolle
         spielte dabei die Bibel?
-    -   Wie wichtig/entscheidend war es für sie die Aufg
+    -   Wie wichtig/entscheidend war es für
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:

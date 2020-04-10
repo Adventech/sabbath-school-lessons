@@ -99,7 +99,7 @@ wäre kein Platz mehr für Anzeigen."* (Klaus Klages)
 2.  *Wie können wir sicher sein, dass die Bibel keine “fake news”
     enthält, sondern ewig-gültige Wahrheit?*
 
-**SONNTAG**
+### **[Die göttliche Offenbarung der Bibel](https://sabbath-school.adventech.io/de/2020-02/02/die-g%C3%B6ttliche-offenbarung-der-bibel/)**
 
 **2.Petrus 1,19-21**
 
@@ -132,7 +132,7 @@ gelingt es, durch Worte Chaos zu schaffen.”* (Walter Ludin)
     -   Inwiefern kann die Bibel als **allgemeines** Gotteswort uns
         **persönlich** ansprechen?
 
-**MONTAG**
+### **[Der Prozess der Inspiration](https://sabbath-school.adventech.io/de/2020-02/02/der-prozess-der-inspiration/)**
 
 **2.Petrus 1,21; 2.Timotheus 3,16; 5.Mose 18,18**
 
@@ -165,7 +165,15 @@ Wollmann)
         geistgeleitet sind oder nur der eigenen Imagination
         (Vorstellung) entspringen?
 -   Wie erkannten die Schreiber der Bibel wohl, dass sie da direkt
-    Gottes Wort h
+    Gottes Wort hörten?
+    -   Daraus ergibt sich dich wichtige Frage für uns: Wie entscheiden
+        wir richtig, wenn jemand behauptet, er/sie sei direkt von Gott
+        inspiriert, rede “prophetisches Wort”, “Weissagung”?
+        -   Wie unterscheiden wir **echten Anspruch** von **Anmaßung**?
+-   Der Heilige Geist ist also Quelle der Entstehung der Bibel. In
+    welcher Hinsicht benötigen wir ihn beim Lesen der Bibel?
+
+=== '''\[<https:/>
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
