@@ -423,10 +423,17 @@ var readAPI = function(dayPath, day, info, lesson){
   if (!(new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7)))) {
     return false;
   }
-  var read = {},
-      meta = JSON.parse(JSON.stringify(day.meta));
+  var read = {};
+  let meta = null;
 
-  meta.bible = [];
+  try {
+    meta = JSON.parse(JSON.stringify(day.meta));
+    meta.bible = [];
+  } catch (e) {
+    console.error('Error parsing this file: ', dayPath)
+    return;
+  }
+
   var quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-')+1);
   var iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
 
