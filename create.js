@@ -269,6 +269,16 @@ var LOCALE_VARS = {
     "zu": "Inside Story"
   },
 
+  "quarterly_name": {
+    "en": {
+      "default": "Standard Adult",
+      "er": "Easy Reading",
+      "cq": "InVerse",
+      "iv": "InVerse",
+      "45-sec": "45 Second version"
+    }
+  },
+
   "tmi": {
     "ko": "TMI"
   }
@@ -359,7 +369,26 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
     quarterlyHumanDate = q;
   }
 
-  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", "---\n  title: \""+quarterlyTitle+"\"\n  description: \""+quarterlyDescription+"\"\n  human_date: \""+quarterlyHumanDate+"\"\n  start_date: \""+moment(start_date_f).format(DATE_FORMAT)+"\"\n  end_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  color_primary: \""+quarterlyColorPrimary+"\"\n  color_primary_dark: \""+quarterlyColorDark+"\"");
+  let quarterlyName = null
+  let quarterlyType = quarterlyId.substr(8) || "default"
+
+  if (quarterlyType && LOCALE_VARS["quarterly_name"][quarterlyLanguage] && LOCALE_VARS["quarterly_name"][quarterlyLanguage][quarterlyType]) {
+    quarterlyName = LOCALE_VARS["quarterly_name"][quarterlyLanguage][quarterlyType]
+  }
+
+  let quarterlyInfoYaml = `---\n  title: "${quarterlyTitle}"
+  description: "${quarterlyDescription}"
+  human_date: "${quarterlyHumanDate}"
+  start_date: "${moment(start_date_f).format(DATE_FORMAT)}"
+  end_date: "${moment(start_date).format(DATE_FORMAT)}"
+  color_primary: "${quarterlyColorPrimary}"
+  color_primary_dark: "${quarterlyColorDark}"`;
+
+  if (quarterlyName) {
+    quarterlyInfoYaml += `\n  quarterly_name: "${quarterlyName}"`
+  }
+
+  fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", quarterlyInfoYaml);
   fs.copySync(QUARTERLY_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/cover.png");
 
   console.log("File structure for new quarterly created");
