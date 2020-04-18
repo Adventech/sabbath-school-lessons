@@ -261,7 +261,10 @@ var quarterlyAPI = function(quarterlyPath){
   quarterly.index = info.language + "-" + info.quarterly;
   quarterly.path = info.language + "/quarterlies/" + info.quarterly;
   quarterly.full_path = API_HOST + API_VERSION + "/" + info.language + "/quarterlies/" + info.quarterly;
-  quarterly.group = `${quarterly.index.substring(0, 10)}`
+
+  if (quarterly.quarterly_name) {
+    quarterly.group = `${quarterly.index.substring(0, 10)}`
+  }
 
   try {
     fs.lstatSync(quarterlyPath + "/" + SOURCE_COVER_FILE);
@@ -423,10 +426,17 @@ var readAPI = function(dayPath, day, info, lesson){
   if (!(new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7)))) {
     return false;
   }
-  var read = {},
-      meta = JSON.parse(JSON.stringify(day.meta));
+  var read = {};
+  let meta = null;
 
-  meta.bible = [];
+  try {
+    meta = JSON.parse(JSON.stringify(day.meta));
+    meta.bible = [];
+  } catch (e) {
+    console.error('Error parsing this file: ', dayPath)
+    return;
+  }
+
   var quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-')+1);
   var iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
 
