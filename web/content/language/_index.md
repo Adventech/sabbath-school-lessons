@@ -7,9 +7,6 @@ languages:
   - native: Español
     en: Spanish
     code: es
-  - native: Zolai
-    en: Tedim Chin
-    code: ctd
   - native: Русский
     en: Russian
     code: ru
