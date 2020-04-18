@@ -1,7 +1,26 @@
 ---
-title:  Inside Story
+title:  Zendingsbericht
 date:   05/06/2020
 ---
 
-### <center>We werken aan deze les.</center>
-<center>Kom alsjeblieft terug.</center>
+#### Preken voor de blinden 
+
+_Øystein Hogganvik, 61 , Noorwegen_
+
+Twee mannen gaven lezingen in Noorwegen. De eerste prediker was goed gekleed en kwam voor de boer die in werkkleding was verschenen en zich achterin de ruimte bevond, een beetje arrogant over. Nadat hij een boek had opengeslagen, las de spreker een citaat voor van Ellen White, de medeoprichtster van de Kerk der Zevendedagsadventisten. Uit een ander boek las hij nog een uitspraak van haar voor. Zijn hele preek bestond uit citaten van Ellen White. Het stoorde Øystein Hogganvik, de 30-jarige boer die achterin zat, niet. Toen stond er een tweede man op om zich tot het publiek te richten. Ook hij zag er netjes uit, maar zijn pak was oud en op een aantal plaatsen meerdere keren versteld. Zijn schoenen waren gepoetst, maar versleten. Boeken gebruikte hij niet in zijn preek, de man liet zijn hart spreken. 
+
+De oprechtheid van de predikant ontroerde en trof Øystein. Toch was hij het in geen enkel opzicht eens met het thema. In werkelijkheid voelde hij zich er zelfs enorm door beledigd. De spreker zag het en benaderde Øystein na de lezing. Hij begroette de boer en vroeg vriendelijk hoe hij heette. Hij informeerde naar zijn werk en zijn gezin. Met geen enkel woord sprak hij over de preek. Na een paar minuten vroeg de spreker of Øystein het goed zou vinden als hij voor hem bad. Terwijl hij in gebed ging, ervoer Øystein een grote innerlijke strijd. ‘Hoe kan je er nou mee instemmen dat een man voor je bidt, terwijl je zoveel problemen had met zijn preek?’, dacht hij. Onmiddellijk voelde Øystein dat God tot hem zei, ‘Vertrouw op Mij’. 
+
+Terug op zijn boerderij besloot Øystein dat hij zou bewijzen dat de predikant het fout had. Urenlang las hij in de Bijbel. Hij kocht opgenomen lezingen over het onderwerp dat hem beledigd had en hij ontdekte dat adventistische predikanten er verschillende zienswijzen op na hielden. Het leek alsof de afstand tussen Jezus en hem steeds groter werd. Een jaar ging voorbij en hij was totaal in de war. 
+
+Op een dag herlas Øystein het verhaal in Marcus 10:46-52 waar omschreven staat hoe Jezus de blinde Bartimeüs het vermogen teruggaf om te zien. Al lezende, drong het ineens tot hem door dat hij Bartimeüs was. Hoewel er nooit iets mis was geweest met zijn ogen, was hij geestelijk blind en moest hij Jezus vragen om zijn ogen te openen. Øystein opende zijn mond en riep uit ‘Laat me geestelijk kunnen zien!’ Onmiddellijk voelde hij de noodzaak om in zijn Bijbel naar Lucas 24 te bladeren, naar het verhaal over de twee discipelen die zich, zonder dat ze het wisten, op hun weg naar Emmaüs in het gezelschap bevonden van Jezus. Gedurende de reis gaf Jezus een grondige Bijbelstudie over zichzelf en nog herkenden de twee mannen Hem niet. Hun ogen werden pas geopend toen Jezus bij hen thuis bad voor de maaltijd. 
+
+Øystein realiseerde zich dat de twaalf discipelen meer dan drie jaar lang bij Jezus waren geweest en toch geestelijk blind bleven voor Jezus’ zendingswerk en het kruis. Hij realiseerde zich dat hij, een adventist van de vijfde generatie, zijn hele leven met Jezus had doorgebracht maar geestelijk blind was omdat hij zich had vastgehouden aan zijn eigen overtuigingen in plaats van dat hij de heilige Geest had gevraagd om zijn ogen te openen. Jezus verliet hem niet, door de liefde voor zijn eigen waarheid liep hij het gevaar om Jezus te verlaten.
+
+In het jaar dat hij de predikant probeerde te weerleggen, had hij zich nooit in gebed tot God gewend met de vraag om zijn ogen te openen. Hij had de spreker enkel op zijn nummer willen zetten. Voor het eerst sloot Øystein zijn ogen en bad hij dat zijn ogen geopend zouden worden. ‘Vanaf die dag kwam de Bijbel voor mij tot leven’, verklaarde hij in een interview. ‘Welk verhaal ook, de evangeliën vertelden niet langer alleen over mensen die in de tijd van Jezus leefden. Het werden verhalen die over mij persoonlijk gingen en die mij iets konden leren.’ 
+
+Te midden van de lange werkuren op de boerderij brachten de opnames van de Bijbel en de boeken van Ellen White een ommekeer in zijn bestaan. Zijn hart veranderde en intellectuele kennis werd een levende, praktische werkelijkheid. Een jaar later begon Øystein zijn verhaal te delen in nabijgelegen kerken. Na een tijdje stelden de kerkleiders van de Conferentie in Oost-Noorwegen voor dat hij de functie van predikant op zich zou nemen. 
+
+Øystein is nu 61 jaar oud en hij heeft nog steeds een boerderij in zijn bezit. Toch besteedt hij nu zijn tijd en energie om het evangelie te zaaien. In de afgelopen negen jaar heeft hij fulltime als predikant gewerkt en twee gemeentes in Oslo en Jessheim zijn hem toegewezen. Øystein groeide op in de eerste rij van de kerk, terwijl hij naar zijn moeder luisterde die op het orgel speelde en naar zijn grootvader die preekte. Hij werd gedoopt op zeventienjarige leeftijd. Hij was altijd adventist en wilde ook niets anders zijn dan een adventist. Toch was hij, zoals hij zelf zegt, geestelijk blind totdat hij Jezus vroeg om zijn ogen te openen. ‘Vanaf dat moment zijn de Bijbel en de boeken van Ellen White mijn leven geweest’, legt hij uit. 
+
+Dank u voor u gaven tijdens de collecte van de dertiende sabbatschool in 2017. Ze hebben het mogelijk gemaakt dat de kelder van de Betel Adventkerk in Oslo werd omgebouwd tot een zeer invloedrijk en betekenisvol buurthuis voor jongeren. 
