@@ -146,7 +146,7 @@ und höchste Autorität in Fragen des Glaubens und Lebens?
     -   Wie kann eine Erfahrung mit Gott ein Fluch sein?
     -   Wie kann man den Unterschied erkennen?
 
-==='''\[<https://sabbath-school.adventech.io/>
+==='''\[<https://sabbath-school.adventech.io/de/2020->
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
