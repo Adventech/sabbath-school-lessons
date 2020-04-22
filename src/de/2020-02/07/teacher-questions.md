@@ -82,7 +82,40 @@ II: Wir studieren die Bibel
         wörtlich: “von Gott gehaucht”) beschreibt Paulus hier auch ihren
         praktischen Nutzen. Welchen Zweck hat die schriftliche
         Offenbarung Gottes?
-    -   Betrachtet ihr di
+    -   Betrachtet ihr die Liste in V. 16 als umfassend oder gibt es
+        noch mehr, was die Heiige Schrift bewirkt?
+-   Fragen zur Botschaft:
+    -   An welchen Stellen erlebt ihr, dass die Sprache der Heiligen
+        Schrift es euch erschwert sie zu verstehen? Wie geht ihr damit
+        um?
+    -   Welche praktischen Hilfsmittel kennt ihr, die es ermöglichen,
+        die Sprachbarriere zu überwinden?
+
+**Psalm 57,4; 66,20; 143,8; Hosea 6,6; Micha 7,18.20 (das hebräische
+Wort *chesed* “Gnade”)**
+
+-   Fragen zum Text
+    -   An allen fünf angegebenen Textstellen kommt das hebräische Wort
+        *chesed* “Gnade” oder “Liebe” vor. Was ist damit jeweils in
+        diesen Texten gemeint?
+    -   Die Übersetzung eines hebräsichen Wortes mit einem deutschen
+        Wort erschöpft ja nicht die Bedeutung des hebräischen Wortes.
+        Insgesamt kommt chesed an weit über 200 Stellen im Alten
+        Testament vor, mehr als die Hälfte aller Stellen in lyrischen
+        Texten. Wie können wir herausfinden, was dieses hebräische Wort
+        an diesen Stellen bedeutet?
+-   Fragen zur Botschaft:
+    -   Viele Hebraisten definieren *chesed* als ein Begriff des
+        Miteinanders, der das gemeinschaftsmäße Verhalten beschreibt.
+        *Chesed* könnte dann mit Gnade, Liebe oder Liebesgüte
+        wiedergegeben werden. Was bewirkt es für euch, dass der HERR als
+        ein Gott der Gnade beschrieben wird (2. Mose 34,6.7) und
+        gleichzeitig Freude an menschlicher Gnade und Liebesgüte hat
+        (Hosea 6,6; Sacharja 7,9)?
+    -   Welches Verhalten und welche Einstellung bewirkt die Gnade und
+        Liebesgüte Gottes zu uns in unserem Leben?
+    -   Wie können wir Liebesgüte planen und tun? Welche praktische
+        Handlung der Liebesgüte nehmt ihr euch in der
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
