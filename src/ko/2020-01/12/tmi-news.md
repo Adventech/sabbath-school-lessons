@@ -32,8 +32,8 @@ date:   20/03/2020
 
 <p style="text-align: right">호남합회 남원교회 담임목사 <b>표연근</b></p>
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/12/days/img02.jpg" style="max-width:100%" alt="이미지" />
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/12/days/img01.jpg" style="max-width:100%" alt="이미지" />
 
 <img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/12/days/img02.jpg" style="max-width:100%" alt="이미지" />
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/12/days/img02.jpg" style="max-width:100%" alt="이미지" />
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/12/days/img03.jpg" style="max-width:100%" alt="이미지" />

@@ -54,4 +54,4 @@ date:   03/01/2020
 
 <img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/01/days/img01.jpg" style="max-width:100%" alt="이미지" />
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/01/days/img02.jpg" style="max-width:100%" alt="이미지" />
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/01/days/img02.jpg" style="max-width:100%" alt="이미지" />
