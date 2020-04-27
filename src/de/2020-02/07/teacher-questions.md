@@ -71,7 +71,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-**2, Timotheus 3,14-17**
+**2, Timotheus 3,14-17 (Sprache)**
 
 -   Fragen zum Text:
     -   Warum wählte Gott die Verschriftung seiner Offenbarung? Welche
@@ -86,10 +86,12 @@ II: Wir studieren die Bibel
         noch mehr, was die Heiige Schrift bewirkt?
 -   Fragen zur Botschaft:
     -   An welchen Stellen erlebt ihr, dass die Sprache der Heiligen
-        Schrift es euch erschwert sie zu verstehen? Wie geht ihr damit
+        Schrift es euch erschwert, sie zu verstehen? Wie geht ihr damit
         um?
     -   Welche praktischen Hilfsmittel kennt ihr, die es ermöglichen,
-        die Sprachbarriere zu überwinden?
+        die Sprachbarriere zum Bibelhebräischen und -griechischen so gut
+        es geht zu überwinden, um dadurch mehr Tiefe im Bibelstudium zu
+        erreichen?
 
 **Psalm 57,4; 66,20; 143,8; Hosea 6,6; Micha 7,18.20 (das hebräische
 Wort *chesed* “Gnade”)**
@@ -100,7 +102,7 @@ Wort *chesed* “Gnade”)**
         diesen Texten gemeint?
     -   Die Übersetzung eines hebräsichen Wortes mit einem deutschen
         Wort erschöpft ja nicht die Bedeutung des hebräischen Wortes.
-        Insgesamt kommt chesed an weit über 200 Stellen im Alten
+        Insgesamt kommt *chesed* an weit über 200 Stellen im Alten
         Testament vor, mehr als die Hälfte aller Stellen in lyrischen
         Texten. Wie können wir herausfinden, was dieses hebräische Wort
         an diesen Stellen bedeutet?
@@ -112,10 +114,36 @@ Wort *chesed* “Gnade”)**
         ein Gott der Gnade beschrieben wird (2. Mose 34,6.7) und
         gleichzeitig Freude an menschlicher Gnade und Liebesgüte hat
         (Hosea 6,6; Sacharja 7,9)?
-    -   Welches Verhalten und welche Einstellung bewirkt die Gnade und
-        Liebesgüte Gottes zu uns in unserem Leben?
+    -   Welches Verhalten und welche Einstellung in unserem Leben
+        bewirkt die Gnade und Liebesgüte Gottes zu uns?
     -   Wie können wir Liebesgüte planen und tun? Welche praktische
-        Handlung der Liebesgüte nehmt ihr euch in der
+        Handlung der Liebesgüte nehmt ihr euch in der kommenden Woche
+        vor?
+
+**1. Mose 1,26.27 (Wiederholung: schuf, Bild Gottes)**
+
+-   Fragen zum Text:
+    -   In Vers 27 wird drei Mal gesagt, dass Gott den Menschen “schuf”.
+        Welche Bedeutung gebt ihr dieser Wiederholung?
+    -   Bei Wiederholungen achten wir auch auf die feinen Unterschiede
+        oder Variationen. Oft schreiben wir diesen Bedeutung zu. Eine
+        wörtliche Übersetzung von Vers 27 lautet: “Und Gott schuf den
+        Menschen in seinem Bild, im Bild Gottes schuf er ihn
+        \[Singular\]; männlich und weiblich schuf er sie \[Plural\].”
+        Was sagen euch die Variationen in Vers 27?
+    -   Auch der Begriff “Bild” erscheint dreimal in 1. Mose 1,26.27.
+        Was versteht ihr darunter, dass der Mensch als “Bild Gottes”
+        geschaffen wurde? (Möglichkeiten: Gott verleiht den Menschen
+        Würde, überträgt ihnen Verantwortung und schenkt das Potenzial,
+        Gott widerzuspiegeln, z. B. indem zwei Menschen, Mann und Frau,
+        eine Einheit bilden können.)
+    -   Martin Luther beginnt seine Überlegungen zu dem Bild Gottes mit
+        dem Satz: “Nachdem das Bild Gottes durch die Sünde verloren ist,
+        ist es überhaupt schwer, von demselben zu reden, und darzuthun,
+        worin es bestanden habe” (*D. M. Luther's Betrachtungen über das
+        Leben der ersten Menschen*, hg. C. G. Hermes, 1864, S. 4).
+        Inwieweit hat Sünde das “Bild Gottes” entstellt? Kann das Bild
+        Gottes wiederh
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
