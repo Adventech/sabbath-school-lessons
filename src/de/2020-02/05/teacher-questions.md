@@ -84,7 +84,7 @@ II: Wir studieren die Bibel
     gesamte Schrift) zufügen. Inwiefern liegt diesen allen dasselbe
     Prinzip zugrunde bzw. weisen sie in die dieselbe Richtung?
 
-### **Sonntag: Die Heilige Schrift als herrschende Norm**
+### **[Die Heilige Schrift als herrschende Norm](https://sabbath-school.adventech.io/de/2020-02/05/die-heilige-schrift-als-herrschende-norm/)**
 
 **Hebräer 4,12**
 
@@ -97,7 +97,7 @@ II: Wir studieren die Bibel
 -   Wovon spricht Paulus hier, worüber wir nicht hinausgehen sollen?
 -   Dürfen wir keine Erkenntnisse über die Bibel hinaus erwarten?
 
-### **Montag: Die Einheit der Heiligen Schrift**
+### **[Die Einheit der Heiligen Schrift](https://sabbath-school.adventech.io/de/2020-02/05/die-einheit-der-heiligen-schrift/)**
 
 -   Kann die Bibel Richtschnur für unser Leben sein, auch wenn sie sich
     in Teilen widerspricht? Wie wichtig ist die innere Einheit und
@@ -110,7 +110,13 @@ II: Wir studieren die Bibel
 -   Wie geht man mit (vermeintlichen) Widersprüchen um? Was kann helfen,
     solche Probleme zu lösen?
 -   Gibt es einen Unterschied in der Gewichtung der Bibel? Ist z. B. das
-    Neue Testament wichtiger als das Alte Testament? Oder die Evangel
+    Neue Testament wichtiger als das Alte Testament? Oder die Evangelien
+    wichtiger als die Offenbarung?
+-   Wo hast du schon erlebt, dass eine Bevorzugung einzelner
+    Schriftteile zu einer unausgewogenen oder falschen Theologie/Lehre
+    geführt hat?
+
+==='''\[<https://sabbath-school.adventech>.
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
