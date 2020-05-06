@@ -76,36 +76,37 @@ II: Wir studieren die Bibel
 -   Fragen zum Text:
     -   Warum wählte Gott die Verschriftung seiner Offenbarung? Welche
         Vor- und Nachteile erkennt ihr darin, dass das Zeugnis vom
-        Wirken und den Offenabrungen Gottes in menschlicher Sprache
+        Wirken und den Offenbarungen Gottes in menschlicher Sprache
         weitergegeben wurde?
     -   Neben dem Ursprung der Schrift (V. 16a: *theopneustos* =
         wörtlich: “von Gott gehaucht”) beschreibt Paulus hier auch ihren
         praktischen Nutzen. Welchen Zweck hat die schriftliche
         Offenbarung Gottes?
     -   Betrachtet ihr die Liste in V. 16 als umfassend oder gibt es
-        noch mehr, was die Heiige Schrift bewirkt?
+        noch mehr, was die Heiige Schrift bewirken kann?
 -   Fragen zur Botschaft:
-    -   An welchen Stellen erlebt ihr, dass die Sprache der Heiligen
-        Schrift es euch erschwert, sie zu verstehen? Wie geht ihr damit
-        um?
+    -   An welchen Stellen habt ihr erlebt, dass die Sprache es euch
+        erschwert, die Bibel zu verstehen? Wie geht ihr damit um?
     -   Welche praktischen Hilfsmittel kennt ihr, die es ermöglichen,
         die Sprachbarriere zum Bibelhebräischen und -griechischen so gut
         es geht zu überwinden, um dadurch mehr Tiefe im Bibelstudium zu
         erreichen?
 
-**Psalm 57,4; 66,20; 143,8; Hosea 6,6; Micha 7,18.20 (das hebräische
-Wort *chesed* “Gnade”)**
+**Psalm 57,4; Psalm 66,20; Psalm 143,8; Hosea 6,6; Micha 7,18.20 (das
+hebräische Wort *chesed* “Gnade”)**
 
 -   Fragen zum Text
     -   An allen fünf angegebenen Textstellen kommt das hebräische Wort
-        *chesed* “Gnade” oder “Liebe” vor. Was ist damit jeweils in
-        diesen Texten gemeint?
-    -   Die Übersetzung eines hebräsichen Wortes mit einem deutschen
-        Wort erschöpft ja nicht die Bedeutung des hebräischen Wortes.
-        Insgesamt kommt *chesed* an weit über 200 Stellen im Alten
-        Testament vor, mehr als die Hälfte aller Stellen in lyrischen
-        Texten. Wie können wir herausfinden, was dieses hebräische Wort
-        an diesen Stellen bedeutet?
+        *chesed* “Gnade” oder “Liebe” vor. Was ist damit jeweils an
+        diesen Stellen gemeint?
+    -   Insgesamt kommt *chesed* an weit über 200 Stellen im Alten
+        Testament vor. Es ist klar, dass die Übersetzung eines
+        hebräischen Wortes mit einem deutschen Wort keineswegs dessen
+        Bedeutung erschöpft. Wie geht ihr voran, um herauszufinden, was
+        ein (hebräisches) Wort an verschiedenen Textstellen bedeutet?
+    -   Welchen Stellenwert messt ihr dem Verstehen von (hebräischen &
+        griechischen) Wörtern bei? Lässt sich die Bibel auch ohne solche
+        Einsichten verstehen?
 -   Fragen zur Botschaft:
     -   Viele Hebraisten definieren *chesed* als ein Begriff des
         Miteinanders, der das gemeinschaftsmäße Verhalten beschreibt.
@@ -125,12 +126,12 @@ Wort *chesed* “Gnade”)**
 -   Fragen zum Text:
     -   In Vers 27 wird drei Mal gesagt, dass Gott den Menschen “schuf”.
         Welche Bedeutung gebt ihr dieser Wiederholung?
-    -   Bei Wiederholungen achten wir auch auf die feinen Unterschiede
-        oder Variationen. Oft schreiben wir diesen Bedeutung zu. Eine
-        wörtliche Übersetzung von Vers 27 lautet: “Und Gott schuf den
-        Menschen in seinem Bild, im Bild Gottes schuf er ihn
-        \[Singular\]; männlich und weiblich schuf er sie \[Plural\].”
-        Was sagen euch die Variationen in Vers 27?
+    -   Bei Wiederholungen achten wir auch auf die feinen Unterschiede.
+        Oft schreiben wir diesen Bedeutung zu. Eine wörtliche
+        Übersetzung von Vers 27 lautet: “Und Gott schuf den Menschen in
+        seinem Bild, im Bild Gottes schuf er ihn \[Singular\]; männlich
+        und weiblich schuf er sie \[Plural\].” Was sagen euch die
+        Variationen in Vers 27?
     -   Auch der Begriff “Bild” erscheint dreimal in 1. Mose 1,26.27.
         Was versteht ihr darunter, dass der Mensch als “Bild Gottes”
         geschaffen wurde? (Möglichkeiten: Gott verleiht den Menschen
@@ -143,7 +144,12 @@ Wort *chesed* “Gnade”)**
         worin es bestanden habe” (*D. M. Luther's Betrachtungen über das
         Leben der ersten Menschen*, hg. C. G. Hermes, 1864, S. 4).
         Inwieweit hat Sünde das “Bild Gottes” entstellt? Kann das Bild
-        Gottes wiederh
+        Gottes wiederhergestellt werden? Wie geschieht das? Welche Rolle
+        spielt dabei Christus, der das Ebenbild Gottes (Kolosser 1,15)
+        ist? Welche Rolle spielt dabei die Bibel?
+-   Fragen zur Botschaft:
+    -   Wir sind auch heute noch “Bild Gottes” (vgl. Jakobus 3,9). Was
+        bedeutet es für euch persönlich, "Bild
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
