@@ -71,7 +71,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-**2, Timotheus 3,14-17 (Sprache)**
+**2. Timotheus 3,14-17 (Sprache)**
 
 -   Fragen zum Text:
     -   Warum wählte Gott die Verschriftung seiner Offenbarung? Welche
@@ -83,7 +83,7 @@ II: Wir studieren die Bibel
         praktischen Nutzen. Welchen Zweck hat die schriftliche
         Offenbarung Gottes?
     -   Betrachtet ihr die Liste in V. 16 als umfassend oder gibt es
-        noch mehr, was die Heiige Schrift bewirken kann?
+        noch mehr, was die Heilige Schrift bewirken kann?
 -   Fragen zur Botschaft:
     -   An welchen Stellen habt ihr erlebt, dass die Sprache es euch
         erschwert, die Bibel zu verstehen? Wie geht ihr damit um?
@@ -127,7 +127,7 @@ hebräische Wort *chesed* “Gnade”)**
     -   In Vers 27 wird drei Mal gesagt, dass Gott den Menschen “schuf”.
         Welche Bedeutung gebt ihr dieser Wiederholung?
     -   Bei Wiederholungen achten wir auch auf die feinen Unterschiede.
-        Oft schreiben wir diesen Bedeutung zu. Eine wörtliche
+        Diesen schreiben wir oft Bedeutung zu. Eine wörtliche
         Übersetzung von Vers 27 lautet: “Und Gott schuf den Menschen in
         seinem Bild, im Bild Gottes schuf er ihn \[Singular\]; männlich
         und weiblich schuf er sie \[Plural\].” Was sagen euch die
@@ -149,7 +149,7 @@ hebräische Wort *chesed* “Gnade”)**
         ist? Welche Rolle spielt dabei die Bibel?
 -   Fragen zur Botschaft:
     -   Wir sind auch heute noch “Bild Gottes” (vgl. Jakobus 3,9). Was
-        bedeutet es für euch persönlich, "Bild
+        bedeutet es für euch persönlich, “Bild Gottes” zu sein
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
