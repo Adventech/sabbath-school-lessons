@@ -496,9 +496,8 @@ var readAPI = function(dayPath, day, info, lesson){
     }]
   }
   read.content = metaMarked(resultRead, {renderer: renderer}).html;
-  console.log(dayPath, info.language)
 
-  if (donationNotice[info.language] && /^src\/en\/2020-02(-er|-cq)?\/08/img.test(dayPath)) {
+  if (donationNotice[info.language] && /^src\/en\/2020-02(-er|-cq)?\/(07|08)/img.test(dayPath)) {
     read.content = donationNotice[info.language] + read.content;
   }
   read.content += copyrightNotice;
