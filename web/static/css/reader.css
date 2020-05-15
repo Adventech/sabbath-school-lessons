@@ -247,7 +247,7 @@ table {
     padding: 0;
     display: block;
     overflow: auto;
-    width: 100%;
+    width: 100% !important;
     margin: 15px 0;
 }
 table tr {
@@ -282,4 +282,66 @@ table tr th :first-child, table tr td :first-child {
 
 table tr th :last-child, table tr td :last-child {
     margin-bottom: 0;
+}
+
+.ss-donation-appeal {
+    display: block !important;
+}
+
+.ss-donation-appeal-title {
+    background-image: linear-gradient(90deg, #8F8F8F 0%, #C8C8C8 100%);
+    padding: 2px 6px;
+    border-radius: 3px;
+    position: relative;
+}
+
+.ss-wrapper-dark .ss-donation-appeal-title {
+    background: #505050;
+}
+
+.ss-donation-appeal-title.ss-donation-appeal-title-expanded {
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.ss-donation-appeal-title.ss-donation-appeal-title-expanded .ss-donation-appeal-icon {
+    transform: translate(-50%,-50%) rotate(180deg);
+}
+
+.ss-donation-appeal-title p {
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+.ss-wrapper-dark .ss-donation-appeal-title p {
+    background: #505050;
+    color: #c0c2c2;
+}
+
+.ss-donation-appeal-icon {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    height: 20px;
+    width: 20px;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml, %3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath fill='white' d='M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z'/%3E%3C/svg%3E%0A");
+}
+
+.ss-donation-appeal-text {
+    display: none;
+    padding: 6px;
+    background-color: #F8F8F8;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.ss-wrapper-dark .ss-donation-appeal-text {
+    background-color: #38383a;
+}
+
+.ss-wrapper-sepia .ss-donation-appeal-text {
+    background-color: #ffe0a7;
 }
