@@ -3,7 +3,12 @@
 const copyrightNotice = "\n\n<p><small>Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.</small></p>";
 
 let donationNotice = {
-  'en': "<div class=\"ss-donation-appeal-text\">\n" +
+  'en': "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "    <div class=\"ss-donation-appeal-title\">\n" +
+    "      <p>We need your help!</p>\n" +
+    "      <div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "    </div>\n" +
+    "    <div class=\"ss-donation-appeal-text\">\n" +
     "      <p>Dear brothers and sisters, we would like to thank <strong>each</strong> of you for being with us and using the Sabbath School app. As you know, we at Adventech are all volunteers, passionate to be part of the\n" +
     "        <strong>greatest commission</strong> and that is why our mission is to use technology for His glory!</p>\n" +
     "      <p>Early on we decided that our application would remain ad-free. We want to continue adding new features and functionality to Sabbath School. For example, this year we plan to add\n" +
@@ -12,7 +17,8 @@ let donationNotice = {
     "      <p>You can make donation using the link below:</p>\n" +
     "      <p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
     "      <p><em>Adventech team</em></p>\n" +
-    "    </div>\n\n"
+    "    </div>\n" +
+    "  </div>"
 }
 
 var glob                = require("glob"),
