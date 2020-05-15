@@ -85,7 +85,42 @@ Verse.
         Hebräischen der Begriff “jom” für (einen 24-Stunden-)Tag
         verwendet.
     -   Welche der bisher erarbeiteten hermeneutischen Prinzipien helfen
-        euch,
+        euch, den Begriff “jom” bibelgemäß auszulegen?
+    -   Welchen Beitrag leistet das Verständnis einer buchstäblichen
+        Schöpfungswoche ...
+        -   für unser Bibelverständnis?
+        -   für unser Gottesverständnis?
+-   Fragen zur Botschaft:
+    -   Auf der einen Seite verbietet uns das zweite Gebot uns ein Bild
+        von Gott zu machen, auf der anderen Seit ist es absolut wichtig,
+        uns ein (abstraktes/geistiges) Gottesbild zu machen. Wie geht
+        ihr mit diesen Notwendigkeiten um?
+    -   Welchen Einfluss hat eine buchstäbliche 6-Tage-Schöpfungswoche
+        auf unser Gottesbild?
+
+**Der Sabbat im Glauben und Leben der SIEBENTEN-TAGS-Adventisten
+(Dienstag)**
+
+-   Fragen zum Thema:
+    -   Ohne Sabbat keine Siebenten-Tags-Adventisten. Wie erlebt ihr den
+        Sabbat in der adventistischen Theologie und Lebenspraxis?
+    -   Wir lesen Markus 2,27
+        -   Welche Bedeutung hat dieser Text für die Hermeneutik der
+            Schöpfungswoche mit dem Sabbat als Abschluss?
+    -   Welchen Beitrag leistet der Sabbat für die
+        biblisch-adventistische Hermeneutik
+-   Fragen zur Botschaft:
+    -   In 1. Mose 2,2.3 wird der Sabbat mit Ruhe, Heiligung und Segen
+        definiert. Tauscht euch über eure praktischen Sabbaterfahrungen
+        mit den Schwerpunkten Ruhe, Heiligung und Segen aus.
+        -   z.B. Wie sieht ein “Segensleben” am Sabbat praktisch aus?
+            usw
+
+**Die Familie - Bild und Kern unseres Gottes- und Menschenbildes
+(Mittwoch)**
+
+-   Fragen zum Text:
+    -   Im Schöpfungsbericht wird
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
