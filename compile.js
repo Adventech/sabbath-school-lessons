@@ -2,6 +2,19 @@
 
 const copyrightNotice = "\n\n<p><small>Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.</small></p>";
 
+let donationNotice = {
+  'en': "<div class=\"ss-donation-appeal-text\">\n" +
+    "      <p>Dear brothers and sisters, we would like to thank <strong>each</strong> of you for being with us and using the Sabbath School app. As you know, we at Adventech are all volunteers, passionate to be part of the\n" +
+    "        <strong>greatest commission</strong> and that is why our mission is to use technology for His glory!</p>\n" +
+    "      <p>Early on we decided that our application would remain ad-free. We want to continue adding new features and functionality to Sabbath School. For example, this year we plan to add\n" +
+    "        <strong>audio / video</strong> support for the Sabbath School app.</p>\n" +
+    "      <p>We are truly humbled that many of you are generous and have offered to <strong>donate</strong> to our ministry. Every amount counts and we thank you so much for being here for us.</p>\n" +
+    "      <p>You can make donation using the link below:</p>\n" +
+    "      <p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
+    "      <p><em>Adventech team</em></p>\n" +
+    "    </div>\n\n"
+}
+
 var glob                = require("glob"),
     yamljs              = require("yamljs"),
     metaMarked          = require("meta-marked"),
@@ -482,8 +495,12 @@ var readAPI = function(dayPath, day, info, lesson){
       "verses": {}
     }]
   }
-
   read.content = metaMarked(resultRead, {renderer: renderer}).html;
+  console.log(dayPath, info.language)
+
+  if (donationNotice[info.language] && /^src\/en\/2020-02(-er|-cq)?\/08/img.test(dayPath)) {
+    read.content = donationNotice[info.language] + read.content;
+  }
   read.content += copyrightNotice;
 
   (function(read){
