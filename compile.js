@@ -519,7 +519,7 @@ var readAPI = function(dayPath, day, info, lesson){
 
   if (donationNotice[info.language] && /^src\/(en|de)\/2020-02(-er|-cq)?\/(07|08)/img.test(dayPath)) {
     read.content = donationNotice[info.language] + read.content;
-    resultRead = "\n\n" + donationNotice[info.language] + resultRead;
+    resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
   }
   read.content += copyrightNotice;
 
