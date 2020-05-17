@@ -28,3 +28,6 @@ date:   24/04/2020
 
 <p style="text-align: right">동중한합회 봉두리교회 담임목사 <b>이선미</b></p>
 
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/04/days/img01.jpg" style="max-width:100%" alt="이미지" />
+
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/04/days/img02.jpg" style="max-width:100%" alt="이미지" />

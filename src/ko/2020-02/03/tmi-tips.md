@@ -45,3 +45,7 @@ date:   17/04/2020
 위해 전국의 재림성도들께서도 함께 기도해 주시면 감사하겠습니다.
 
 <p style="text-align: right">영남합회 새소망교회 담임목사 김기대</p>
+
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/03/days/img01.jpg" style="max-width:100%" alt="이미지" />
+
+<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/03/days/img02.jpg" style="max-width:100%" alt="이미지" />
