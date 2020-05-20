@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   29/05/2020
 ---
 
-[Schöpfung: Das erste Buch Mose als Grundlage Teil II](https://sabbath-school.adventech.io/de/2020-02/09/01)
-============================================================================================================
+[Schöpfung: Das erste Buch Mose als Grundlage (Teil 2)](https://sabbath-school.adventech.io/de/2020-02/09/01)
+=============================================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -71,36 +71,70 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### [Die Erde, eine Scheibe?](https://sabbath-school.adventech.io/de/2020-02/09/die-erde-eine-scheibe/)
+### **Startfrage(n)**
 
-**Hiob 26,7-10**
+**1. Mose 1,1**
 
--   Was sagt dieser Bibelabschnitt über Gott aus? Mögliche
-    Vertiefungsfragen:
-    -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
-        deutlich?
-    -   Was sagt uns dieser Text über Gottes Absicht?
--   Was sagt dieser Bibelabschnitt vor dem Hintergrund der Größe Gottes
-    über den Menschen aus?
--   Was ist die Bedeutung dieses Bibelabschnitts für unser Leben mit
-    Gott?
+-   Die Bibel beginnt mit der weitreichendsten Grundannahme überhaupt:
+    Gott ist Schöpfer. Welchen (praktischen) Unterschied macht es, ob
+    man an Gott oder den Zufall als Ursache der Existenz unserer Welt
+    glaubt?
+-   Was mag für viele Menschen so schwer erträglich sein an dem
+    Gedanken, dass es einen Schöpfergott gibt?
+-   Kreation vs. theistische Evolution: Ist es für einen Christen
+    wichtig, ob diese Welt in sechs buchstäblichen Tagen erschaffen
+    wurde – oder ob man an eine lange, von Gott geleitete Evolution
+    (sog. theistische Evolution) glaubt?
 
-### [Schöpfung in der antiken Literatur](https://sabbath-school.adventech.io/de/2020-02/09/sch%C3%B6pfung-in-der-antiken-literatur/)
+### [**Montag: Die Erde, eine Scheibe?**](https://sabbath-school.adventech.io/de/2020-02/09/die-erde-eine-scheibe/)
 
-**1. Mose 2,1-4**
+-   Neben der theistischen Evolution gibt es noch weitere
+    Fehlinterpretationen biblischer Aussagen. Z. B. die
+    Flache-Erde-Theorie. Ist euch das schon begegnet? Was wisst ihr
+    darüber?
 
--   Was sagt dieser Bibelabschnitt über Gott aus? Mögliche
-    Vertiefungsfragen:
-    -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
-        deutlich? Inwiefern hebt sich das deutlich von anderen antiken
-        außerbiblischen Schöpfungsvorstellungen ab?
-    -   Was sagt uns dieser Text über Gottes Absicht?
-    -   Wie versteht ihr diese “Ruhe Gottes”, wenn wir davon ausgehen
-        dürfen, das Gott hier nicht erschöpft war?
--   Was sagt dieser Bibelabschnitt über die Existenz des Menschen aus?
--   Was sagt dieser Bibelabschnitt über das Leben mit Gott?
+**Offb 7,1; 20,7-8**
 
-===\[<https://sabbath-school.advente>
+-   Weshalb nehmen wir die Bibel hier nicht wörtlich und glauben nicht
+    an eine Platte mit vier Ecken (und Kanten)?
+-   Widerspricht die Bibel sich selbst, wenn z. B. Jesaja 40,22 vom
+    „Kreis der Erde“ spricht? Oder wenn Hiob 26,7 sagt, „die Erde hängt
+    über dem Nichts“ während 1. Samuel 2,8 erklärt, „dem HERRN gehören
+    die Säulen der Erde, und auf sie hat er den Erdkreis gestellt“?
+    (Vgl. Hiob 9,6: die Säulen der Erde zittern.)
+-   Warum ist diese Flache-Erde-Theorie für ihre Verfechter so wichtig?
+    (Widerspricht die Ablehnung dieser Theorie tatsächlich der
+    Glaubwürdigkeit der Bibel?)
+-   Welche Erfahrungen und Beobachtungen unseres Alltags machen uns
+    deutlich, dass die Erde nicht flach ist? \[Z. B. sichtbare
+    Erdkrümmung aus dem Flugzeugfenster, Satellitenbilder etc.\]
+
+### [**Dienstag: Schöpfung in der antiken Literatur**](https://sabbath-school.adventech.io/de/2020-02/09/sch%C3%B6pfung-in-der-antiken-literatur/)
+
+**1. Mose 2,1-7**
+
+-   Verglichen mit anderen antiken Schöpfungsgeschichten, wie
+    glaubwürdig ist die Erzählung in 1. Mose 1-2? Welche Unterschiede
+    erkennst du zu anderen Ursprungsgeschichten? Was spricht dafür, dass
+    Mose uns das Original bietet?
+-   Welche Eigenschaften Gottes werden in 1. Mose 2,1-7 deutlich?
+    Inwiefern hebt sich das deutlich von anderen antiken außerbiblischen
+    Schöpfungsvorstellungen ab?
+-   Was sagt uns dieser Text über Gottes Absicht?
+-   Wie versteht ihr diese “Ruhe Gottes”, wenn wir davon ausgehen
+    dürfen, das Gott hier nicht erschöpft war?
+
+### [**Mittwoch: Das erste Buch Mose oder Heidentum**](https://sabbath-school.adventech.io/de/2020-02/09/das-erste-buch-mose-oder-heidentum/)
+
+**1. Mose 1,14-19**
+
+-   Hättest du die Erschaffung von Sonne, Mond und Sternen auch in diese
+    Worte gekleidet? Weshalb spricht die Bibel hier nicht offen von
+    „Sonne“ und „Mond“?
+
+<!-- -->
+
+-   Weshalb wird gerade hier eine Funktion de
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
