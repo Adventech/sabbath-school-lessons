@@ -86,14 +86,14 @@ II: Wir studieren die Bibel
     wurde – oder ob man an eine lange, von Gott geleitete Evolution
     (sog. theistische Evolution) glaubt?
 
-### [**Montag: Die Erde, eine Scheibe?**](https://sabbath-school.adventech.io/de/2020-02/09/die-erde-eine-scheibe/)
+### [**Die Erde, eine Scheibe?**](https://sabbath-school.adventech.io/de/2020-02/09/die-erde-eine-scheibe/)
 
 -   Neben der theistischen Evolution gibt es noch weitere
     Fehlinterpretationen biblischer Aussagen. Z. B. die
     Flache-Erde-Theorie. Ist euch das schon begegnet? Was wisst ihr
     darüber?
 
-**Offb 7,1; 20,7-8**
+**Offenbarung 7,1; Offenbarung 20,7-8**
 
 -   Weshalb nehmen wir die Bibel hier nicht wörtlich und glauben nicht
     an eine Platte mit vier Ecken (und Kanten)?
@@ -109,7 +109,7 @@ II: Wir studieren die Bibel
     deutlich, dass die Erde nicht flach ist? \[Z. B. sichtbare
     Erdkrümmung aus dem Flugzeugfenster, Satellitenbilder etc.\]
 
-### [**Dienstag: Schöpfung in der antiken Literatur**](https://sabbath-school.adventech.io/de/2020-02/09/sch%C3%B6pfung-in-der-antiken-literatur/)
+### [**Schöpfung in der antiken Literatur**](https://sabbath-school.adventech.io/de/2020-02/09/sch%C3%B6pfung-in-der-antiken-literatur/)
 
 **1. Mose 2,1-7**
 
@@ -124,7 +124,7 @@ II: Wir studieren die Bibel
 -   Wie versteht ihr diese “Ruhe Gottes”, wenn wir davon ausgehen
     dürfen, das Gott hier nicht erschöpft war?
 
-### [**Mittwoch: Das erste Buch Mose oder Heidentum**](https://sabbath-school.adventech.io/de/2020-02/09/das-erste-buch-mose-oder-heidentum/)
+### [**Das erste Buch Mose oder Heidentum**](https://sabbath-school.adventech.io/de/2020-02/09/das-erste-buch-mose-oder-heidentum/)
 
 **1. Mose 1,14-19**
 
@@ -134,7 +134,7 @@ II: Wir studieren die Bibel
 
 <!-- -->
 
--   Weshalb wird gerade hier eine Funktion de
+-   Weshalb wird gerade hier eine Funkti
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
