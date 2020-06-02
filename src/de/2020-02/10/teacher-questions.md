@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   05/06/2020
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2020-02/10/01)
-=========================================================================
+[Die Bibel als Geschichtsschreibung](https://sabbath-school.adventech.io/de/2020-02/10/01)
+==========================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -71,22 +71,13 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
-
-**\
-** DIE BIBEL ALS GESCHICHTSSCHREIBUNG
-
 Welche Unterschiede siehst du zwischen säkularer und biblischer
 Geschichte? Welche Rolle spielen diese Unterschiede bei der
 Interpretation säkularer bzw. biblischer Geschichte?
 
-DAVID, SALOMO UND DIE MONARCHIE
+### [DAVID, SALOMO UND DIE MONARCHIE](https://sabbath-school.adventech.io/de/2020-02/10/david-salomo-und-die-monarchie/)
 
-**Text 1. Sam 17**
+**1. Samuel 17**
 
 -   Fragen zum Text:
     -   Nehmen wir an, die Geschichte des Königs David wäre nur ein
@@ -96,9 +87,13 @@ DAVID, SALOMO UND DIE MONARCHIE
     -   Wie hat Gott Israel zum Sieg gegen die Philister verholfen?
         Welche Rolle spielte dabei das Volk Israel? Und welche Rolle
         spielte David?
-    -   
+-   Fragen zur Botschaft:
+    -   Die Israeliten sehen Goliat und sie fürchten sich. David sieht
+        Goliat und er fürchtet sich nicht. Warum fürchtet sich David
+        nicht vor Goliat? Was können wir von David lernen?
 
--   Fragen z
+===[JESAJA, HISKIA UND
+SANHERIB](https://sabbath-school.adventech.io/de/2020-02/10/jesaja-hiskia-und-sanherib/)==
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
