@@ -3,7 +3,7 @@ title:  Commentaires Moniteurs
 date:   24/04/2020
 ---
 
-**Textes Clés**: Esa. 8: 20; Marc 7:1-13; 1 Cor. 11:2; 2 Thess. 3:6; Rom. 2:4; Tite 3:4, 5; 1 Jean 2:15-17; 2 Cor. 10:5, 6; Prov. 1:7; Prov. 9:10; Jean 5:4648; Jean 7:38.
+**Textes Clés**: Esa. 8: 20; Marc 7:1-13; 1 Cor. 11:2; 2 Thess. 3:6; Rom. 2:4; Tite 3:4, 5; 1 Jean 2:15-17; 2 Cor. 10:5, 6; Prov. 1:7; Prov. 9:10; Jean 5:46-48; Jean 7:38.
 
 ### Partie I: Aperçu
 

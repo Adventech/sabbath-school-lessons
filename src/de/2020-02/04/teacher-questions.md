@@ -87,8 +87,66 @@ II: Wir studieren die Bibel
 
 ### Anmerkungen aus dem Lehrerteil
 
--   Oftmals sind wir uns des Einflusses anderer Quellen auf unser Denken
-    und unsere Theologie nicht bewusst. Selbst wenn wir allein nach der
+Oftmals sind wir uns des Einflusses anderer Quellen auf unser Denken und
+unsere Theologie nicht bewusst. Selbst wenn wir allein nach der Heiligen
+Schrift leben wollen, ist unser Verständnis der Heiligen Schrift
+wesentlich von einer Reihe an Faktoren geprägt und beeinflusst:
+
+-   von den Traditionen, an die wir gewöhnt und mit denen wir
+    aufgewachsen sind,
+-   von der Art und Weise zu denken, in der wir erzogen worden sind,
+-   davon, wie wir unsere Vernunft zur Erklärung von Dingen einsetzen,
+-   und von unseren Erfahrungen mit bestimmten Menschen und Ideen
+-   und der uns umgebenden, uns formenden Kultur.
+
+Die Priorität, die jeder Quelle oder Kombination von Quellen eingeräumt
+wird, hat einen wesentlichen Einfluss auf unsere Theologie; letztlich
+wird sie die Richtung des gesamten theologischen Vorgehens bestimmen. …
+Wir wollen keinen Glauben, der frei von jeglicher Erfahrung ist und bei
+dem wir nicht denken – einen Glauben, der ohne Vernunft und nicht durch
+positive Traditionen gesegnet ist. Es ist wichtig, sich all dieser
+Einflüsse bewusst zu sein und den positiven Beitrag zu verstehen, den
+jede Quelle zu unserem Glauben leistet. Aber es ist von entscheidender
+Bedeutung, auch die Grenzen der einzelnen Quellen klar zu erkennen. Die
+entscheidende Frage lautet: Welcher Quelle gewähren wir die ultimative
+und höchste Autorität in Fragen des Glaubens und Lebens?
+
+### Schlüsselgedanke
+
+-   Ohne Vorurteil und vorgefasste Meinung zu einem wahren
+    Bibelverständnis finden!
+
+### **[Tradition](https://sabbath-school.adventech.io/de/2020-02/04/tradition/)**
+
+**Text Mk 7,1-13**
+
+-   Fragen zum Text:
+    -   Wo hatte die „Korban–Tradition“ ihren Ursprung?
+    -   Welche Bedeutung hatte diese Tradition zur Zeit Jesu?
+    -   Was wollte Jesus aufzeigen?
+-   Fragen zur Botschaft:
+    -   Kennen wir in der Christenheit auch eine Form dieser Tradition?
+    -   Gibt es in der Adventgemeinde auch eine „Ablass–Tradition“?
+    -   Welche Tradition in unserer Gemeinde sind uns wichtig und
+        **richtig**?
+
+### **[Erfahrung](https://sabbath-school.adventech.io/de/2020-02/04/eifers%C3%BCchtig/)**
+
+**Text Mk 12,28-31**
+
+-   Fragen zum Text:
+    -   Warum waren dem Schriftgelehrten (Prediger) die Gebote so
+        wichtig?
+    -   Wie weit ist die Erlösung an das Verständnis der biblischen
+        Richtlinien gebunden?
+    -   Warum betont Jesus die Liebe (*agape* = Wertschätzung; Respekt)?
+        Vergl. ***1. Thess 5,23***!
+-   Fragen zur Botschaft:
+    -   Wann ist die Erfahrung mit Gott ein Segen?
+    -   Wie kann eine Erfahrung mit Gott ein Fluch sein?
+    -   Wie kann man den Unterschied erkennen?
+
+==='''\[<https://sabbath-school.adventech.io/de/2020->
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
