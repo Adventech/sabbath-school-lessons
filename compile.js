@@ -32,6 +32,21 @@ let donationNotice = {
     "<p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
     "<p><em>Adventech-team</em></p>\n" +
     "</div>\n" +
+    "</div>",
+  "es": "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "<div class=\"ss-donation-appeal-title\">\n" +
+    "<p>¡Necesitamos tu ayuda!</p>\n" +
+    "<div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "</div>\n" +
+    "<div class=\"ss-donation-appeal-text\">\n" +
+    "<p>Queridos hermanos y hermanas,</p>\n" +
+    "<p>Les queremos agradecer a <strong>cada uno</strong> de ustedes por utilizar la aplicación de Sabbath School. Como saben, los que colaboramos en Adventech somos todos <strong>voluntarios</strong>, apasionados de ser parte de la <strong>gran comisión</strong> que se nos encomendó, ¡y es por eso que nuestra misión es utilizar la tecnología para honra y gloria de nuestro Dios! Desde el inicio de nuestra aplicación, decidimos que permanecería sin anuncios o comerciales. Deseamos continuar añadiendo nuevas funcionalidades y herramientas a la aplicación de Sabbath School; por ejemplo, este año planeamos agregar soporte de <strong>audio y video</strong> a nuestra aplicación.</p>\n" +
+    "<p>Agradecemos profundamente que muchos han sido generosos y han <strong>donado</strong> a nuestro ministerio. Cada centavo cuenta, y agradecemos mucho que estén aquí para apoyarnos.</p>\n" +
+    "<p>Puede realizar una donación en el siguiente enlace:</p>\n" +
+    "<p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
+    "<p>Gracias,</p>\n" +
+    "<p><em>Equipo de Adventech</em></p>" +
+    "</div>\n" +
     "</div>"
 }
 
@@ -517,7 +532,7 @@ var readAPI = function(dayPath, day, info, lesson){
   }
   read.content = metaMarked(resultRead, {renderer: renderer}).html;
 
-  if (donationNotice[info.language] && /^src\/(en|de)\/2020-02(-er|-cq)?\/(07|08)/img.test(dayPath)) {
+  if (donationNotice[info.language] && /^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayPath)) {
     read.content = donationNotice[info.language] + read.content;
     resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
   }
