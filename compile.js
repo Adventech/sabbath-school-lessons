@@ -222,6 +222,8 @@ glob("src/"+compile_language+"/", {}, function (er, files) {
     var quarterlies = quarterliesAPI(files[i]),
         info = getInfoFromPath(files[i]);
 
+    if (!quarterlies.length) return;
+
     // Firebase Deployment
     (function(language, quarterlies){
       firebaseDeploymentTasks.push(function(cb){
@@ -293,7 +295,8 @@ var quarterliesAPI = function(languagePath){
   }).reverse();
 
   for (var i = 0; i < files.length; i++){
-    quarterlies.push(quarterlyAPI(files[i]));
+    let q = quarterlyAPI(files[i]);
+    if (q) { quarterlies.push(q); }
   }
   return quarterlies;
 };
@@ -301,6 +304,8 @@ var quarterliesAPI = function(languagePath){
 var quarterlyAPI = function(quarterlyPath){
   var quarterly = yamljs.load(quarterlyPath + "info.yml"),
       info = getInfoFromPath(quarterlyPath);
+
+  if (quarterly.skip) return false;
 
   console.log("Processing", quarterlyPath);
 
