@@ -48,7 +48,16 @@ Ideen-Sammlungen /-Anregungen:
             diesen Personen in den nächsten 1-3 Wochen Gutes tun kann.
             Dabei kann zu den einzelnen Aktivitäten in den Zeilen
             einfach A, B und C eingetragen werden.
-        -   **1-3 Aktionen**: Bitte nur 1-3 Aktionen insgesamt
+        -   **1-3 Aktionen**: Bitte nur 1-3 Aktionen insgesamt pro
+            Person, die in den nächsten 1-3 Wochen auch wirklich
+            umgesetzt werden können - alles andere überfordert
+            womöglich.
+    -   Am Ende tauscht euch kurz über eure Vorhaben aus. Teilt eure
+        kleinen Aktionsziele der ganzen Gruppe mit, die ihr euch für die
+        kommenden Wochen setzt.
+    -   Beachte: Ohne Heiligen Geist bleiben alle menschlichen Anliegen
+        nur Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von
+        Gott gebrauchen lassen, dann kann aus Kleinem etwas sehr Gro
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
