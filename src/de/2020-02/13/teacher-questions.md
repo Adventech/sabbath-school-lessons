@@ -57,7 +57,50 @@ Ideen-Sammlungen /-Anregungen:
         kommenden Wochen setzt.
     -   Beachte: Ohne Heiligen Geist bleiben alle menschlichen Anliegen
         nur Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von
-        Gott gebrauchen lassen, dann kann aus Kleinem etwas sehr Gro
+        Gott gebrauchen lassen, dann kann aus Kleinem etwas sehr Großes
+        entstehen.
+    -   Empfehlung: Die Arbeitshilfe “Gebet + Dienst + Zeugnis” sollte
+        nicht öfter als ca. einmal im Monat in einer Gruppe eingesetzt
+        werden. An den Sabbaten, wo man diese Hilfe nicht anwendet, kann
+        man sich darüber austauschen, wie es den Teilnehmern bisher beim
+        Umsetzen ihrer Vorhaben gegangen ist.
+
+Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
+missionarischen Anliegen.
+
+II: Wir studieren die Bibel
+---------------------------
+
+### **Startfrage(n)**
+
+-   Was hältst du von dieser Aussage: “Denn wir behalten von unsern
+    Studien am Ende doch nur das, was wir praktisch anwenden.”?
+
+### **Das lebendige Wort Gottes und der Heilige Geist**
+
+**Philipper 2,12-16; 5.Mose 4,4**
+
+-   Was mag Paulus mit “Furcht&Zittern” gemeint haben? Wie passt das
+    Fürchten und Zittern im Konzept der Erlösung durch Glauben?
+-   Was ist unsere Rolle im Prozeß der Rettung? (vs. 12+13)
+-   Wenn es im Text heißt “Gott wird beides in euch wirken - das Wollen
+    und das Vollbringen”, was heißt das Konkret für mich?
+-   Wie würden wir die “Worte des Lebens” definieren? Was alles
+    beinhaltet die Worte des Lebens?
+-   Welche Bedeutung hat das Bibelverständnis (Erkenntnis) für uns im
+    Alltag?
+-   Wie haben wir das Wirken des Heiligen Geistes an uns erlebt?
+
+### **Von Jesus lernen**
+
+**Lukas 4,4.8.10-12; Lukas 24,45-46**
+
+-   Warum benutzte Jesus diese Art (Bibeltexte zitieren), um der
+    Versuchung zu widerstehen?
+-   Habt ihr auch diese Erfahrung gemacht, dass ihr der Sünde
+    widerstehen konntet, indem ihr die Bibel (Verheißungen, Gebote,
+    etc.) “zitiert” habt? Wenn ja, erzähle deine Erfahrung!
+-   Was genau war es, dass Jesus den Sieg brachte? D
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
