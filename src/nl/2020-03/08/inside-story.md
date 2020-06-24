@@ -1,0 +1,26 @@
+---
+title:  Zendingsbericht
+date:   21/08/2020
+---
+
+#### Vasten voor een gezin 
+
+_Tranqulle Fassinadouno, 34, Guinea_
+
+Het hek van het huis stond open en daarom wandelde ik rechtstreeks de tuin in. Een man en een vrouw waren in gesprek op de veranda en twee jongens waren in hun buurt aan het spelen. ‘Goedemorgen, broeder en zuster’, zei ik glimlachend. ‘Mijn naam is Tranqulle Fassinadouno. Ik ben zo blij om u te ontmoeten.’ Ik ging naar de kinderen. Toen ik zag dat één jongen de leeftijd had om naar school te gaan, vroeg ik, ‘Hoe gaat het op school? Wat heb je vandaag geleerd?’ Een brede lach verscheen op het gezicht van de jongen en hij begon het alfabet op te zeggen. ‘Jullie kinderen hebben een goed verstand!’, zei ik tegen de ouders. 
+
+De ouders ontspanden zich toen ze zagen dat ik waardering had voor hun kinderen. Ik vroeg naar hun namen. ‘Ik heet Maimouna Bangoura’, liet de vrouw weten. ‘Ik ben Alpha’, zei haar man. Ik haalde een folder tevoorschijn waarop ‘Gods liefde voor de mens’ geschreven stond. ‘Ik heb goed nieuws voor u’, zei ik terwijl ik de folder aan Maimouna overhandigde. ‘Dit is het Woord van God.’ Ze keek naar de folder en zei, ‘Nee, geef hem maar aan mijn man’. ‘Ik kan niet lezen’, verklaarde Alpha. ‘Geef maar aan mijn vrouw.’ Zich tot Maimouna wendend, zei hij, ‘Lees eens wat hier staat’. Ze gooide het op de grond en ging naar binnen voor haar avondgebeden. Ik vroeg Alpha of er iets was waar ik voor kon bidden en terwijl we praatten, kwam Maimouna weer terug met de vraag of ik haar gezondheid in gebed wilde brengen. 
+
+Ik realiseerde me dat niemand de folder wilde lezen, omdat Jezus’ naam in een klein lettertype op de voorkant stond. Binnen hun niet-christelijke geloof wordt het als een zonde gezien om iets te lezen dat Jezus’ naam draagt. Omdat ik zag dat ze niet geïnteresseerd waren, verliet ik het huis. Toch bleef ik voor hen bidden en vasten. Zodra ik door het hek naar buiten wandelde, noteerde ik hun namen op een papiertje en plaatste dat in mijn Bijbel. Drie dagen lang nam ik overdag geen eten of drinken tot me. ’s Avonds at ik een lichte maaltijd die bestond uit bananen, sinaasappels en rijstepap. 
+
+Op de dag had ik weinig tijd om voor het echtpaar te bidden. Ik had het erg druk met het geven van Bijbelstudies en het leggen van nieuwe contacten als evangelist bij Global Mission. Daarom vroeg ik God om me ’s nachts wakker te maken. Drie nachten achtereen maakte God me rond middernacht wakker, om ca. 1 uur, en om 4 uur. ‘Dank U, God, dat U me in aanraking heeft gebracht met dit gezin’, bad ik. ‘Het is mijn wens dat uw wil voor hen in vervulling gaat. Het is mijn wens dat U een bezoek aan hen brengt, voordat deze drie dagen voorbij zijn.’ 
+
+De sabbat volgde op deze drie dagen. Ik besloot Alpha en Maimouna na de kerkdiensten te bezoeken en ik bad voordat ik het huis verliet. ‘Ik probeer dit gezin niet te bekeren. Het is de heilige Geest die hun hart zal veranderen. Wees met mij als ik hen gewoon even bezoek’. 
+
+Tijdens de sabbatschool voelde ik dat het noodzaak was om het gezin meteen te bezoeken, voor het geval ze op een later moment niet thuis zouden zijn. Maimouna begroette me enthousiast en zei me dat ze genezen was na mijn gebed. Ze vroeg me om voor haar zoon te bidden, die ernstig ziek was geworden. Ik ging in gebed. Die avond kwam ik terug om te vragen hoe het met hem ging. ‘Hij is hier en speelt met zijn vrienden’, zei Maimouna terwijl ze naar haar zoon wees. ‘Ik ben zo blij met wat je hebt gedaan.’ Ik vroeg Maimouna de jongen te roepen om samen een gebed uit te spreken. Omdat ik Jezus’ leiding zag in het hele gebeuren, vatte ik de moed om Hem bij naam te noemen. ‘Jezus heeft jouw zoon genezen’, zei ik. ‘Daarom gaan we bidden in Jezus’ naam.’ Terwijl ik mijn hoofd boog, bad ik, ‘Dank U, God, want U bent alle eer en lof waard. Het is immers door U dat dit wonder heeft plaatsgevonden. Dank U dat U Anthony heeft genezen. In de naam van Jezus van Nazareth, Amen.’ 
+
+Een maand later kwamen Alpha en Maimouna naar de kerk. Aan Alpha’s bezoeken kwam al snel een einde en hij sloeg zijn vrouw elke avond, omdat zij wel bleef gaan. Toch weerhield dat haar niet en ze zei tegen me, ‘Leer me de Bijbel alsjeblieft. Ik wil de Bijbel leren kennen.’ Dat was het begin van onze Bijbelstudies. Na een tijdje begon ze de Bijbel zelfstandig te lezen en verklaarde ze, ‘Jezus en ik samen, voor altijd.’ Ze gaf haar hart aan Hem. 
+
+Alpha slaat haar nog steeds, maar Maimouna put kracht uit Mattheüs 10:37, waar Jezus zegt, ‘Wie meer van zijn vader of moeder houdt dan van Mij, is Mij niet waard, en wie meer houdt van zijn zoon of dochter dan van Mij, is Mij niet waard (…) Wie zijn leven probeert te behouden, zal het verliezen, maar wie zijn leven verliest omwille van Mij, die zal het behouden.’ Zij en ik bidden en vasten voor Alpha. Ik ben zo blij dat ze Jezus liefheeft. Ware vreugde ligt in de mogelijkheid om mensen de waarheid te tonen en te zien dat ze deze waarheid ook omarmen.
+
+In dit kwartaal is een deel van de dertiende sabbatopbrengst bestemd voor de bouw van de Kobaya Academy, een hoognodige school in Conakry, Guinea. Dank u dat u Tranqulle en alle evangelisten bij Global Mission opdraagt in uw gebeden. 
