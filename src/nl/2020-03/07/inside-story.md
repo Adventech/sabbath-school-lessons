@@ -22,4 +22,3 @@ Alpha begon me te slaan. Op een keer sloeg hij me zo erg dat ik in het ziekenhui
 Eén van mijn favoriete Bijbelteksten is Johannes 14:1, waar Jezus zegt, ‘Wees niet ongerust, maar vertrouw op God en op Mij’. Ondanks deze mishandeling is er vrede in mijn hart, omdat ik Christus heb. Kunt u alstublieft voor mij bidden? Met de HEER is de overwinning aan mijn zijde. Op een dag zal mijn man een christen worden. 
 
 In dit kwartaal is een deel van de dertiende sabbatopbrengst bestemd voor de bouw van de Kobaya Academy, een school in Conakry, Guinea, waar Maimouna’s zoons en andere kinderen naartoe gaan. Dank u dat u Maimouna en het adventistische werk in Guinea opdraagt in uw gebeden. 
-
