@@ -1,0 +1,22 @@
+---
+title:  Zendingsbericht
+date:   17/07/2020
+---
+
+#### Een lange weg naar huis
+
+_Alphanso Peter Juah, 48, Liberia_
+
+Op negentienjarige leeftijd stapte Alphanso Peter Juah op de trein en reisde hij naar Guinea om de burgeroorlog in Liberia te ontvluchten. Hij had er geen idee van dat deze reis hem naar acht landen zou brengen en dat hij veertien jaar later naar huis zou terugkeren met een Indonesische vrouw als echtgenote. Het waren moeilijke tijden toen Alphanso in 1992 zijn woonplaats verliet en al snel zette hij zich ook af tegen de Adventkerk waarin hij was opgegroeid. 
+
+Met de hulp van een liefdadigheidsinstelling rondde hij zijn school af in Guinea, maar was toen dakloos. Op allerlei manieren probeerde hij geld te verdienen. Hij verkocht heroïne. Hij maakte mensen geld afhandig. Hij waste geld wit. Na een jaar ging hij op zoek naar nieuwe mogelijkheden, tikte illegaal een Guinees paspoort op de kop en verhuisde naar Senegal. Vier jaar lang verkocht hij heroïne, lichtte mensen op en waste geld wit. Om zijn kansen te vergroten, reisde hij naar Tunesië en later naar Jordanië, Indië, Thailand en Indonesië. In elk land verkocht hij drugs, maakte mensen geld afhandig en waste geld wit om op die manier genoeg te verdienen voor zijn levensonderhoud en weer te verhuizen naar een volgende plaats. Hij ontdekte dat geld alles mogelijk maakt, ook het verkrijgen van de visa die nodig waren om zijn reis voort te zetten. 
+
+In Jakarta, de hoofdstad van Indonesië, begon Alphanso diep na te denken over zijn leven. Hij herinnerde zich dat hij vroeger op sabbat naar de kerk was gegaan. Een schuldig gevoel overviel hem. Hij wist dat hij Gods geboden niet gehoorzaamde. Op een dag sprak hij over God tijdens een potje biljart met een Spaanse vreemdeling. De vreemdeling nodigde hem uit om de volgende zondag naar zijn kerk te komen. De Amerikaanse zendeling die de zondagskerk leidde, luisterde naar Alphanso’s verhaal en bood hem aan de huur van zijn huis te betalen. In ruil daarvoor zou Alphanso werken op het kerkterrein en het beheer hebben over het geluidssysteem. 
+
+Toch bleef Alphanso denken aan de sabbat. Hij stuitte op het adres van een Adventkerk en elke sabbat begon hij de erediensten te bezoeken terwijl hij op zondagen bij de andere kerk werkte. Met slechts een middelbare schoolopleiding op zak, verlangde hij ernaar aan de universiteit te studeren, maar niemand leek hem te kunnen helpen. De zondagskerk besteedde er geen aandacht aan. Hetzelfde gold voor de adventisten, al brachten ze hem wel weer in contact met zijn ouders in Liberia. Hij had hen niet meer gesproken vanaf het moment dat hij uit Liberia was gevlucht. 
+
+Drie jaar gingen voorbij en de zondagskerk zette een punt achter hun overeenkomst. Opnieuw vulde Alphanso zijn tijd met het verkopen van drugs, het oplichten van mensen en geld witwassen. Toch vond er in die periode een belangrijke gebeurtenis plaats in zijn leven. Hij trouwde. In de tijd dat hij voor de zondagskerk had gewerkt, was hij verliefd geworden op Wastinah, een familielid van degene die zorg droeg voor het huis van de zendeling. Na een tijdje voelde Alphanso dat de hem maar al te bekende drang weer opkwam om zijn blik te verbreden en hij verhuisde naar China. Vier maanden later liet hij zijn vrouw overkomen. Tijdens zijn verblijf in China dacht hij opnieuw aan God en hij vond een Engelstalige Bijbel in een boekwinkel. Op een dag viel zijn oog op Prediker 1:2, waarin staat ‘Lucht en leegte, alles is leegte’. ‘Mijn leven is leeg’, dacht hij bij zichzelf. ‘Ik ga naar huis, naar Afrika.’ 
+
+In 2006 vlogen hij en Wastinah naar Liberia. Toen hij eenmaal thuis was, was het weerzien met zijn ouders zeer emotioneel. Hij gaf zijn hart aan Jezus en ging elke sabbat naar de kerk. Wastinah vergezelde hem en enige tijd later gaf ook zij haar hart aan Jezus. Vandaag de dag werkt Alphanso als houthakker in Buchanan en in een kraampje voor hun huis verkoopt Wastinah rijst, olie en andere levensmiddelen. Ze hebben drie kinderen, twaalf, acht en vijf jaar oud. Maar al te graag deelt Alphanso het verhaal over Gods genade in zijn leven. ‘Wijsheid begint met ontzag voor de HEER’, zei hij. ‘Toen ik me schuldig voelde, ontstond er ontzag in mijn hart voor God en Hij gaf me inzicht.’
+
+In dit kwartaal is een deel van de dertiende sabbatcollecte bedoeld voor de bouw van een basisschool in Buchanan, Liberia. Dit gebouw zal de school vervangen die een aantal jaar geleden tijdens de Liberiaanse burgeroorlog werd vernietigd. Alphanso hoopt zijn kinderen naar deze school te laten gaan. 
