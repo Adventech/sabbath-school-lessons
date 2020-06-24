@@ -1,0 +1,24 @@
+---
+title:  Zendingsbericht
+date:   03/07/2020
+---
+
+#### Een school voor Liberia
+
+_B. Darlington Teah, 59, Liberia_
+
+B. Darlington Teah groeide op in de christelijke kerk. Zijn vader was diaken en zijn moeder bad voor kerkleden die te kampen hadden met ziekte. Haar toewijding aan de kerk was heel groot. Dat gold echter niet voor zijn vader. Hij behoorde tot een geheim genootschap en toen Darlington zeven jaar oud was, nodigde hij de jongen uit om er lid van te worden. ‘Zoon, je overgrootvader en andere overleden familieleden waren ook leden’, zei hij. ‘Je moet je aanmelden, dan kan je mijn plaats innemen als ik sterf’. 
+
+Darlington had er helemaal geen oren naar om zich aan te sluiten bij het geheime genootschap. Hij wist dat de gestorven voorouders door de leden werden aanbeden in de bergen van Liberia. Het kwam vaak genoeg voor dat zijn vader de vier uur durende wandeling maakte van het dorp naar de bergen. Daar ging hij dan bidden en offerde hij aan de voorouders. In de zaaitijd bad vader, ‘O voorvaderen, vandaag komen wij tot u omdat we onze gewassen willen planten en we hopen dat het voorspoedig zal gaan.’ Toen moeder zwanger was, bad vader, ‘O voorvaderen, we komen tot u om onze dochter die een kind verwacht aan u toe te vertrouwen’. Als het dorp geteisterd werd door een ziekte, dan bad hij, ‘O voorvaderen, we komen tot u omdat er ziekte heerst in ons dorp’. Bij elk gebed offerde hij dan een kip en bood hij de voorouders schalen met witte rijst aan. Hij liet de schalen en de kip op de grond staan en ging naar huis. Op een later moment haalde hij de schalen weer op en, omdat hij zag dat het voedsel er niet meer was, geloofde hij dat de voorouders ermee in hadden gestemd om zijn gebeden te verhoren. 
+
+Darlington had geen andere keuze. Ook hij moest lid worden van het geheime genootschap. Hij kon geen ja of nee zeggen. Moeder daarentegen kon dat wel en ze weigerde per direct. Als vader zich voorbereidde om naar de bergen te gaan, nam ze de jongen mee naar een ander dorp. ‘Ik wil dat hij een christen wordt’, zei ze tegen vader. Darlington ging iedere week naar de zondagsschool, maar de Bijbel begreep hij niet. 
+
+Toen hij een jonge man was geworden, kwam een adventistische evangelist naar het dorp en vertelde over de sabbat van de zevende dag. Voor het eerst las Darlington over de sabbat in zijn Bijbel en hij vroeg de predikant van de zondagskerk om hem te zeggen of nou juist de zaterdag of de zondag de juiste dag was. De man kon geen Bijbelverzen aanwijzen die de aanbidding van de zondag rechtvaardigden. ‘Mijn jongen, de zevende dag is de sabbat’, verklaarde de predikant. ‘We aanbidden op zondag om de opstanding van Christus te gedenken’. Darlington wilde de Bijbel navolgen en door zijn doop werd hij lid van de Adventkerk. 
+
+Zijn vader was niet blij met de beslissing die hij had gemaakt. Hij wist dat dit betekende dat zijn zoon hun voorouders nooit zou aanbidden. Moeder was dankbaar dat haar zoon van God hield. Het was Darlingtons wens om predikant te worden en hij bad er voortdurend voor. De Adventkerk heeft geen onderwijsinstelling in Liberia, waardoor hij naar Ghana of Nigeria zou moeten gaan om theologie te studeren. Omdat hij wist dat zijn ouders hem financieel niet konden helpen, zette hij alles op alles om het schoolgeld bij elkaar te sparen. Door de burgeroorlog lukte dat niet en in de jaren ’90 ging hij de politiek in en werd hij gekozen voor het nationale parlement. Hij dacht, ‘Als ik geen geld bij elkaar kan sparen om in het buitenland theologie te studeren, kan ik op z’n minst een adventistische onderwijsinstelling vestigen in Liberia zodat jonge mensen hier kunnen studeren.’ 
+
+Een jaar na zijn verkiezing bekostigde hij de rekening waardoor de Adventist University of West Africa haar deuren kon openen in Monrovia, Liberia. Na zes jaar in het parlement te hebben gediend, liet hij de enorme druk om smeergeld te aanvaarden en zich te voegen bij geheime genootschappen achter zich. Hij schreef zich in voor de studie theologie aan de Adventist University of West Africa. 
+
+Darlington is nu predikant en voorzitter van het Zendingswerk in Zuidoost Liberia, dat in dit kwartaal een deel van de dertiende sabbatopbrengsten zal ontvangen om een basisschool te bouwen in Buchanan. ‘Ik ben zo dankbaar dat God me geroepen heeft om voor Hem te werken door mensen voor te bereiden op zijn spoedige komst’, verklaarde Darlington. 
+
+Dank u voor uw voornemen om vrijgevig te schenken tijdens de dertiende sabbat. Uw bijdrage maakt de bouw van een basisschool in Buchanan, Liberia, mogelijk. Het zal het gebouw vervangen dat vernietigd werd tijdens de burgeroorlog in Liberia.
