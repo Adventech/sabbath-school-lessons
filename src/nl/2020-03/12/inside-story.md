@@ -1,0 +1,26 @@
+---
+title:  Zendingsbericht
+date:   18/09/2020
+---
+
+#### Moordlustige moeder
+
+_Maria, 29, Guinea_
+
+Moeder was woedend toen ze van neef Hamadou vernam dat haar dochter Maria een Bijbel bezat. In Guinea, een West-Afrikaans land, had moeder Maria opgevoed in een nietchristelijke wereldreligie. Ze moest er niet aan denken dat haar dochter zich tot het christendom zou bekeren. Stampvoetend liep ze naar Maria’s huis in Conakry. ‘Waar is je Bijbel?’, wilde ze weten. ‘In mijn slaapkamer’, antwoordde Maria. Moeder stormde de slaapkamer in. Ze keek spiedend rond en speurde alles na, maar ze vond niets. ‘Ik zie de Bijbel nergens’, zei ze. Maria keek de slaapkamer in. De Bijbel lag in het volle zicht op een tafel. 
+
+De volgende sabbat ging Maria voor de tweede keer naar de Adventkerk. Daardoor ging ze niet naar haar werk in de grote winkel die haar eigendom was. Moeder begreep niet waarom ze niet had gewerkt. ‘Waar was je?’, vroeg ze. ‘In de kerk’, antwoordde Maria. Moeder keek verbijsterd. Maria wist niet dat de godsdienst van haar familie zeer vijandig stond tegenover het christendom en zelfs onderwees dat het een respectabel iets is om een bekeerd gezinslid te doden. 
+
+‘Moeder, ik vind het prima om doordeweeks naar mijn werk te gaan, maar ik werk niet langer op de zaterdag’, liet ze weten. Vanaf die dag begon haar moeder haar te slaan. ‘Ik zou nog liever willen dat je dood was dan dat je onze familie te schande maakt’, zei ze. Toch brachten de mishandelingen Maria niet op andere gedachten. Daarom blokkeerde moeder haar bankrekening. Maria, die altijd in luxe had geleefd, kon het niet bevatten dat ze geen toegang had tot haar geld. Moeder legde de schuld bij de adventisten. ‘Die christenen hebben het op de een of andere manier voor elkaar gekregen om je geld te stelen!’, stookte ze. Het bracht Maria er niet toe haar overtuiging aan de kant te zetten. ‘Ik heb geleerd dat je in gebed moet gaan, als je in moeilijkheden verkeert, om je problemen aan Jezus te geven’, zei ze. 
+
+De mishandelingen hielden aan. Toen belde moeder Maria’s echtgenoot op, een polygame man die met zijn andere vrouw in Duitsland woonde. Na het telefoongesprek stelde hij Maria een ultimatum. ‘Maak een keuze tussen mij en jouw God, Jezus’, sprak hij. ‘Laat me je een vraag stellen’, zei Maria. ‘Zou jij jouw god in de steek laten om mij?’ ‘Nooit’, zei hij. ‘Waarom vraag je me dan om een keuze te maken tussen jou en mijn God, Jezus?’, vroeg ze. Na die tijd nam hij niet langer de telefoon op als Maria hem belde. 
+
+Toen moeder zag dat Maria zich bleef vasthouden aan haar geloof, kondigde ze aan dat er drastische maatregelen zouden volgden. ‘Mijn kind, aangezien je niet naar me luistert, zal ik je moeten doden’, deelde ze mee. Een aantal dagen later kwam ze naar Maria’s woning en maakte ze haar favoriete stoofpot klaar. Maar Maria wist niet dat de stoofpot een dodelijk gif bevatte. Toen de stoofpot klaar was, vroeg moeder of Maria de pan op tafel wilde zetten. Maria had trek, maar ze wilde zich eerst opfrissen en een bad nemen. Ze beloofde dat ze daarna zou eten en moeder vertrok. 
+
+Terwijl Maria zich waste, kwam er uit het niets ineens een kat die de pan op de vloer gooide door op de tafel te springen. Maria had helemaal geen kat. Die avond belde moeder op om te vragen hoe Maria zich voelde. ‘Het gaat prima met me, heel goed’, antwoordde Maria. Moeders verbazing was zelfs via de telefoon merkbaar. Een paar dagen later goot neef Hamadou het gif in Maria’s waterfles. Nadat ze ervan gedronken had, klapte Maria dubbel door de intense buikpuin die haar overviel. Hamadou zag hoeveel pijn ze had en vertelde haar wat hij had gedaan. ‘Het spijt me zo’, zei hij. ‘Van de medicijnman moest ik dit drankje in je water doen om op die manier je lichaam te reinigen.’ 
+
+Onmiddellijk belde Maria Jacob Gbale, de voorzitter van de Adventkerk in Guinea, en vroeg hem of hij voor haar wilde bidden. Hij kwam naar haar huis en gaf haar vijf houtskoolpillen. Dertig minuten later gaf ze over. De medicijnman belde die avond op om te zien of het Maria’s leven had gekost. Hij wist niet wat hij hoorde toen haar stem klonk aan de andere kant van de lijn. Moeder schakelde een andere neef in om te helpen. Vergezeld door twee vrienden en een spuit vol gif bereikte hij Maria’s huis. Nadat hij de huishoudster had weggestuurd om een boodschap te doen, spoot hij de inhoud van de spuit in Maria’s linkerarm en verliet het huis. 
+
+De huishoudster was nog niet lang van huis toen ze zich realiseerde dat ze haar telefoon vergeten was. Ze trof Maria bewusteloos aan op de vloer, met de spuit vlak naast haar. Omdat ze wist dat Maria en predikant Jacob vrienden waren, belde ze hem om zijn hulp te vragen. De predikant en twee ouderlingen brachten Maria naar het hoofdgebouw van de kerk en baden voor haar. Maria gaf over en herstelde. Ze twijfelt er niet aan dat Jezus zijn kinderen beschermt. ‘Hij kan een crisis oplossen, omdat Hij weet welke crisis komt’, zo vertelde ze. ‘In Psalm 68:21 staat geschreven: ‘Onze God is een reddende God. Bij God, de HEER, is bevrijding uit de dood’’. 
+
+In dit kwartaal is een deel van de dertiende sabbatopbrengst bedoeld voor de bouw van de Kobaya Academy, een school in Conakry, Guinea. 
