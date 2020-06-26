@@ -1,6 +1,6 @@
 ---
 title:  Histoire
-date:   25/07/2020
+date:   24/07/2020
 ---
 
 ### LOYAL SOLDIER IN POLAND

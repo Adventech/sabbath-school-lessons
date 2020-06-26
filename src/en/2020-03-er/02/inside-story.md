@@ -1,6 +1,6 @@
 ---
 title:  Histoire
-date:   11/07/2020
+date:   10/07/2020
 ---
 
 ### AN OHIO CHURCH GETS NEW LIFE
