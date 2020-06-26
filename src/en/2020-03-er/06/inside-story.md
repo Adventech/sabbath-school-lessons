@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   07/08/2020
 ---
 
-### A MAN KNOWN ONLY AS CARLOS
+#### A MAN KNOWN ONLY AS CARLOS
 
 J. Carlos Sanchez Ruiz is president of the Seventh-day Adventist Church in Uruguay in South America. In his own country, Peru, people say “Hello, pastor-president,” to a man with Carlos’s job. But things are different in Uruguay. There, Pastor Ruiz is known only as Carlos.
 

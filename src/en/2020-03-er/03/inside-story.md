@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   17/07/2020
 ---
 
-### A FILIPINO FAMILY’S LIFE-CHANGING STORY
+#### A FILIPINO FAMILY’S LIFE-CHANGING STORY
 
 A Christian bookseller walked the hot streets of Butuan City, Philippines. He worked hard all day. But he sold no books. This job was his only income. So, he felt disappointed. He decided to knock on one more door. First, he prayed.
 

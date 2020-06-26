@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   25/09/2020
 ---
 
-### A WOMAN WHO HAD A BABY INSIDE HER BELLY FOR TWO YEARS
+#### A WOMAN WHO HAD A BABY INSIDE HER BELLY FOR TWO YEARS
 
 Fanta Camara was excited when she saw the bump on her belly. But as the bump grew big, she started to feel sick. So she went to the hospital in Conakry, Guinea. A doctor examined her belly. “You aren’t going to have a baby,” he said.
 

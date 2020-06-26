@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   28/08/2020
 ---
 
-### TALKING BOLDLY IN FINLAND
+#### TALKING BOLDLY IN FINLAND
 
 19-year-old Simo Vehkavuori started to think that maybe he had made a big mistake in life. This thought came to him when he visited his Seventh-day Adventist uncle and aunt in Sweden. Three years earlier Simo had made a decision at a summer camp to follow God. But Simo didn’t keep his promise to God. Now Simo was worried. He wondered, “Have I lost God’s loving-favor?”
 

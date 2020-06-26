@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   03/07/2020
 ---
 
-### STOPPED AT THE AIRPORT
+#### STOPPED AT THE AIRPORT
 
 We are now living in the time when God judges His people. During His work as our Judge, I think God will ask us a very important question: “Why are you saved?” I was asked this same question when my plane landed at the Portland International Airport in Oregon in the United States of America. I handed my Norwegian passport to the U.S. officer in charge. He checked my passport and then looked at me. “What are your plans?” he asked.
 

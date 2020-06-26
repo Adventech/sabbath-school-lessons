@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   04/09/2020
 ---
 
-### FORGIVEN IN EAST TIMOR
+#### FORGIVEN IN EAST TIMOR
 
 In 2017, a man tried to kill a Seventh-day Adventist store clerk in East Timor. But that man was not punished. The East Timor leaders accepted the store clerk’s decision not to punish the man who attacked him. The story has shocked the East Timor town of Lospalos. In Lospalos, people often get even with people who hurt them. It is their way of life. Even the police were shocked that the store clerk, Edu Wachumura, chose to forgive his attacker. The attacker was named Juvinil Ananias.
 

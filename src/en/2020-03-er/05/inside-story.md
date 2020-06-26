@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   31/07/2020
 ---
 
-### FOUR DREAMS
+#### FOUR DREAMS
 
 Abraham Keita had the first dream after he prayed on his prayer mat in Bufa at 3:00 a.m. Bufa is a village in Guinea in West Africa.
 

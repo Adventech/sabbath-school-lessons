@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   24/07/2020
 ---
 
-### LOYAL SOLDIER IN POLAND
+#### LOYAL SOLDIER IN POLAND
 
 The Polish army decided to replace their old jet planes with new ones. This decision made many new jobs for people. So I quit my job as a mechanic for a new job in the army.
 

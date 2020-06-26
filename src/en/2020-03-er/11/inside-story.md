@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   11/09/2020
 ---
 
-### THE LAST WORDS OF A DYING WOMAN
+#### THE LAST WORDS OF A DYING WOMAN
 
 Tomasz Karauda is a 28-year-old Seventh-day Adventist doctor in Poland. A woman was brought to him from another part of the hospital where he worked. Tomasz was asked to sign a paper saying that the woman was dead. But there was one problem. The woman was alive.
 

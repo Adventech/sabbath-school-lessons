@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   18/09/2020
 ---
 
-### WHAT JESUS MEANS TO ME
+#### WHAT JESUS MEANS TO ME
 
 The old woman listens carefully in Sabbath School in southeast Asia. You can tell that she studies the Bible a lot. She has answered all the questions in her Bible study guide. Many verses are underlined in her Bible. In class, she gives money to help the church do its work worldwide. The woman is known as “Grandmother.”
 

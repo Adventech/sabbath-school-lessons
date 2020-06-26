@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   14/08/2020
 ---
 
-### A NEW HEART FOR ALEX
+#### A NEW HEART FOR ALEX
 
 Alex was born with a hole in his heart. Alex is from Finland. The doctors hoped that Alex’s heart would heal. But it didn’t. So when Alex was eight, doctors operated on Alex’s heart. After the operation, Alex’s mother looked with wonder at her small boy. She thought, For some reason God let this happen. God has a special plan for our lives.
 

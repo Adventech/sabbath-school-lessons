@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   21/08/2020
 ---
 
-### A SURPRISE IN SUDAN
+#### A SURPRISE IN SUDAN
 
 For Seventh-day Adventist couples living in Sudan, life often can be difficult. That was true for me and my wife, Suzanne. We worked for ADRA, the Adventist Development and Relief Agency, in Sudan. ADRA is a special office of the Seventh-day Adventist Church that helps people in need in other countries. Some days the temperature outside in Sudan was between 102 and 108 degrees (39–42 degrees Celsius) from May to September. For sure, a cold drink was something special on days this hot.
 

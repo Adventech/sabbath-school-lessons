@@ -1,9 +1,9 @@
 ---
-title:  Histoire
+title:  Inside Story
 date:   10/07/2020
 ---
 
-### AN OHIO CHURCH GETS NEW LIFE
+#### AN OHIO CHURCH GETS NEW LIFE
 
 Vince Waln, age 65, works as a money manager. He helps people save money and plan for their future. Vince also is a member of Hamilton Seventh-day Adventist Church. It is a small church in the U.S. state of Ohio. The church had only 15 members. But after three years, the church grew to about 85 people. What gave new life to this dying church? Vince says the Holy Spirit and a pipe organ!
 
