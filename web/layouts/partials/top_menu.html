@@ -5,7 +5,7 @@
 
             {{ if gt ($.Param (index (split $.Dir "/") 0)) 0 }}
             <form class="form-inline">
-                <a href="/language" class="btn no-border-btn">{{ $.Param (print (index (split $.Dir "/") 0) ".lang") }}<img src="{{.Site.BaseURL}}/img/misc/chevron-down.svg" style="width: 12px; height: 12px; margin-left: 10px;" /></a>
+                <a href="/language" class="btn no-border-btn">{{ $.Param (print (index (split $.Dir "/") 0) ".lang") }}<img src="{{.Site.BaseURL}}img/misc/chevron-down.svg" style="width: 12px; height: 12px; margin-left: 10px;" /></a>
             </form>
             {{ end }}
         </nav>
