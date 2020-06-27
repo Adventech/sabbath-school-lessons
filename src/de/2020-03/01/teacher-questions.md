@@ -19,8 +19,11 @@ Gott (selbst) das höchste Opfer gebracht.
 
 -   Unsere Erlösung hat hat Gott nicht Engeln oder einem Menschen
     überlassen, er hat sie selbst in die Hand genommen. Wenn er sich
-    also nichts sehnlicher wünscht als unsere Erlösung, warum legt er
-    dann die Verkündigung dieser Botschaft in die Hände von Menschen?
+    also nichts sehnlicher wünscht als unsere Erlösung (und das auch
+    praktisch bewiesen hat, indem er am Kreuz alles - nämlich sich
+    selbst - gab) , warum legt er dann die **Verkündigung** dieser
+    Botschaft in die Hände von Menschen? Noch dazu, wo er unendliche
+    Macht und Mittel zur Verfügung hat?
     -   Nüchtern betrachtet: Welche Risiken geht er dabei ein?
         -   Wenn ihr euer Leben betrachtet: Seid ihr dem Auftrag
             Gottes/Jesu gerecht geworden?
@@ -42,7 +45,7 @@ Leben davon Zeugnis ablegen, dass Gott lebt.”* (Nathan Söderblom)
 
 **SONNTAG**
 
-**Lukas 19,10; Jakobus 5,20**
+**Texte: Lukas 19,10; Jakobus 5,19.20**
 
 Fragen zum Text:
 
@@ -69,7 +72,7 @@ ergreifen, sondern zu schaffen.”* (Charles Colton)
 
 **MONTAG**
 
-**Zefanja 3,17; Lukas 15**
+**Texte: Lukas 15; Zefanja 3,17**
 
 Fragen zum Text:
 
@@ -93,7 +96,7 @@ Fragen zur Botschaft:
 
 **DIENSTAG**
 
-**Johannes 7,37.38**
+**Text: Johannes 7,37.38**
 
 Fragen zum Text:
 
@@ -114,7 +117,7 @@ weiterzugeben, was wir selbst bekommen haben?”*
         -   Was ist es hauptsächlich bei euch?
 
 Manfred Siebald hat ein Lied geschrieben mit dem Titel "Wer das Wasser
-in
+in der Wüste k
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
