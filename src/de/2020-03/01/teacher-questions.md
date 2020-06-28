@@ -70,6 +70,12 @@ ergreifen, sondern zu schaffen.”* (Charles Colton)
 -   In welcher Lebenssituation habt ihr - sofern ihr nicht von Kind auf
     zum Glauben geführt wurdet - Gott kennengelernt?
 
+**ZITAT (Lektion Seite 10 unten):***“Wir geben nicht Zeugnis, um
+Menschen ihre **einzige** Chance auf Erlösung zu bieten. Wir geben
+Zeugnis, um ihnen ihre **beste** Chance zu bieten.”*
+
+-   Inwiefern hilft/motiviert/ermutigt/tröstet euch diese Aussage?
+
 **MONTAG**
 
 **Texte: Lukas 15; Zefanja 3,17**
