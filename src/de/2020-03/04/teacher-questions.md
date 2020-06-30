@@ -34,7 +34,7 @@ II: Wir studieren die Bibel
 
 ### **Sonntag: Ein kosmischer Kampf**
 
-**Offenbarung 12,7-9; Epheser 6,12; 2. Korinther 10,4**
+**Offenbarung 12,7-9; Epheser 6,12; 2. Korinther 10,4-5**
 
 -   Wie ernst ist der Kampf zwischen Gut und Böse? Wo siehst du dessen
     Auswirkungen in der sichtbaren Welt?
@@ -58,7 +58,7 @@ II: Wir studieren die Bibel
     Kanalreiniger? Pensionisten im Gegensatz zu Kindern und
     Jugendlichen? Woran bemisst sich die Notwendigkeit des Gebets?
 
-**Lukas 21,31-34; Hebräer 7,25**
+**Lukas 22,31-34; Hebräer 7,25**
 
 -   Weshalb wurde Petrus nicht vor der Versuchung bewahrt bzw. bestand
     sie nicht, wo doch Jesus für ihn gebetet hat? Weshalb hat Jesus
@@ -78,7 +78,7 @@ II: Wir studieren die Bibel
     meinst du, weshalb er gerade diese auswählte?
 -   Welche Aspekte sind in deinen Fürbitten für andere am
     prominentesten? Wieso?
--   Welches mögen die wichtigsten Bitten sein, die wir für andere vo
+-   Welches mögen die wichtigsten Bitten sein, die
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
