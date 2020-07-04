@@ -3,8 +3,73 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   03/07/2020
 ---
 
-*[Warum Zeugnis geben?](https://sabbath-school.adventech.io/de/2020-03/)*
-=========================================================================
+*[Warum Zeugnis geben?](https://sabbath-school.adventech.io/de/2020-03/01/warum-zeugnis-geben/)*
+================================================================================================
+
+I: Gemeinschaft + Aktivitäten
+-----------------------------
+
+**Gemeinschaft**
+
+-   Wofür in den vergangenen Tagen seid ihr dankbar?
+-   Im Rückblick auf die Herausforderungen der vergangenen Tage: Wo
+    wünscht ihr euch Gebetsunterstützung?
+-   Was hat euren Glauben gestärkt oder herausgefordert?
+-   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
+    Unterstützung?
+-   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
+
+**Ideen für Aktivitäten**\
+Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
+aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
+unseres Auftrags, Jünger zu machen. Hier gibt es folgende
+Ideen-Sammlungen /-Anregungen:
+
+-   **[Soziale
+    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
+-   **[Wir alle beteiligen
+    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
+-   **[Arbeitshilfe “Gebet + Dienst +
+    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+    -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
+        tun können. Beachte hierzu folgende mögliche Vorgehensweise im
+        Rahmen der Sabbatschule:
+    -   Drucke für jede Person eine Arbeitshilfe aus:
+        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
+        oder
+        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
+        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
+        -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
+            sein Umfeld denken: Freunde, Verwandte, Bekannte,
+            Arbeitskollegen usw. Jeder möge sich für 1-3 Personen
+            entscheiden, die einem gerade am meisten am Herzen liegen.
+        -   **1-3 Wochen**: Nun möge sich jeder Gedanken machen, was er
+            diesen Personen in den nächsten 1-3 Wochen Gutes tun kann.
+            Dabei kann zu den einzelnen Aktivitäten in den Zeilen
+            einfach A, B und C eingetragen werden.
+        -   **1-3 Aktionen**: Bitte nur 1-3 Aktionen insgesamt pro
+            Person, die in den nächsten 1-3 Wochen auch wirklich
+            umgesetzt werden können - alles andere überfordert
+            womöglich.
+    -   Am Ende tauscht euch kurz über eure Vorhaben aus. Teilt eure
+        kleinen Aktionsziele der ganzen Gruppe mit, die ihr euch für die
+        kommenden Wochen setzt.
+    -   Beachte: Ohne Heiligen Geist bleiben alle menschlichen Anliegen
+        nur Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von
+        Gott gebrauchen lassen, dann kann aus Kleinem etwas sehr Großes
+        entstehen.
+    -   Empfehlung: Die Arbeitshilfe “Gebet + Dienst + Zeugnis” sollte
+        nicht öfter als ca. einmal im Monat in einer Gruppe eingesetzt
+        werden. An den Sabbaten, wo man diese Hilfe nicht anwendet, kann
+        man sich darüber austauschen, wie es den Teilnehmern bisher beim
+        Umsetzen ihrer Vorhaben gegangen ist.
+
+Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
+missionarischen Anliegen.
+
+II: Wir studieren die Bibel
+---------------------------
 
 ### **Startfragen**
 
@@ -51,7 +116,7 @@ Leben davon Zeugnis ablegen, dass Gott lebt.”* (Nathan Söderblom)
 
 \
 
-### **Sonntag: Gelegenheiten zur Erlösung schaffen**
+### **[Gelegenheiten zur Erlösung schaffen](https://sabbath-school.adventech.io/de/2020-03/01/gelegenheiten-zur-erl%C3%B6sung-schaffen/)**
 
 **1. Timotheus 2,3–4; Römer 10,13**
 
@@ -71,7 +136,7 @@ Leben davon Zeugnis ablegen, dass Gott lebt.”* (Nathan Söderblom)
     von Jesus bzw. dem Gott der Bibel gehört haben (heute noch ein
     Großteil der Weltbevölkerung)?
 
-**Texte: Lukas 19,10; Jakobus 5,19.20**
+**Lukas 19,10; Jakobus 5,19.20**
 
 Fragen zum Text:
 
@@ -104,7 +169,7 @@ Zeugnis, um ihnen ihre **beste** Chance zu bieten.”*
 
 \
 
-### **Montag: Jesus froh machen**
+### **[Jesus froh machen](https://sabbath-school.adventech.io/de/2020-03/01/jesus-froh-machen/)**
 
 **Zefania 3,17; Lukas 15 (Gleichnisse vom verlorenen Schaf, Groschen,
 Sohn)**
@@ -116,7 +181,7 @@ Sohn)**
     versucht sind, ihn zu verlassen? Wie können wir „verlorene Söhne“ so
     lieben, dass wir uns über deren Rückkehr freuen?
 
-**Texte: Lukas 15; Zefanja 3,17**
+**Lukas 15; Zefanja 3,17**
 
 Fragen zum Text:
 
@@ -139,9 +204,8 @@ Fragen zur Botschaft:
     -   Wie sollten wir auf diesen Umstand reagieren?
 
 \
-
-### **Dienstag: Wachsen durch Geben**
-
+===**[Wachsen durch
+Geben](https://sabbath-school.adventech.io/de/2020-03/01/wachsen-durch-geben/)**===
 **Johannes 7,37-38**
 
 -   Warum ist es für Christen offenbar selbstverständlich, nicht nur
@@ -156,7 +220,7 @@ Fragen zur Botschaft:
     statt Engel mit dem Werk der Verkündigung zu betrauen? Welche Rolle
     spielen Engel im Heilswirken Gottes?
 
-**Text: Johannes 7,37.38**
+**Johannes 7,37.38**
 
 Fragen zum Text:
 
@@ -190,7 +254,7 @@ verstanden!”
 
 \
 
-### **Mittwoch: Treue gegenüber Christi Gebot**
+### **[Treue gegenüber Christi Gebot](https://sabbath-school.adventech.io/de/2020-03/01/treue-gegen%C3%BCber-christi-gebot/)**
 
 **Apostelgeschichte 13,47; Jesaja 49,6**
 
@@ -203,7 +267,7 @@ verstanden!”
     etc.) – und wie viel Energie sollte nach Außen gerichtet sein? Muss
     „daheim“ alles „sauber“ sein, bevor Mission beginnen kann/darf?
 
-**Texte: 1.Timotheus 2,3.4; 2.Petrus 3,9**
+**1.Timotheus 2,3.4; 2.Petrus 3,9**
 
 Fragen zum Text:
 
@@ -217,7 +281,8 @@ Fragen zum Text:
 Fragen zur Botschaft:
 
 -   Welche Gefahren gibt es für eine Gemeinde, wenn sie sich so stark
-    nach innen konzentriert, dass sie vergisst, was ihr
+    nach innen konzentriert, dass sie vergisst, was ihr eigentlicher
+    Zweck ist (Frage auf Seite 14 unt
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
