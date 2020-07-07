@@ -37,9 +37,9 @@ That was the first miracle.
 
 For his inaugural sermon as pastor, Vince asked a retired professional organist, Jerry Taylor, to play on the church’s old organ. Jerry declined. But a short time later, he helped the church acquire a better organ in Kentucky and assumed the role of music director.
 
-Then one day Jerry excitedly called Vince to say an upscale retirement community in Cincinnati was selling a pipe organ for $75,000.
+Then one day Jerry excitedly called Vince to say an upscale retirement community in Cincinnati was selling a pipe organ for 75,000.
 
-“We can’t afford that!” Vince said. “Even $5,000 would be too much.”
+“We can’t afford that!” Vince said. “Even 5,000 would be too much.”
 
 “Let’s go look at it anyway,” Jerry said.
 
