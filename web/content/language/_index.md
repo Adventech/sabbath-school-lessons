@@ -175,4 +175,7 @@ languages:
   - native: Tedim Chin
     en: Tedim Chin
     code: my
+  - native: ខ្មែរ
+    en: Khmer
+    code: km 
 ---
