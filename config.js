@@ -133,6 +133,10 @@ var BIBLE_PARSER_CONFIG = {
     "biblian"
   ],
 
+  "km": [
+    "ksv"
+  ],
+
   "ko": [
     "krv"
   ],
