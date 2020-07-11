@@ -19,6 +19,19 @@ I: Gemeinschaft + Aktivitäten
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
+**Ideen für Aktivitäten**\
+Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
+aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
+unseres Auftrags, Jünger zu machen. Hier gibt es folgende
+Ideen-Sammlungen /-Anregungen:
+
+-   **[Soziale
+    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
+-   **[Wir alle beteiligen
+    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
+-   **[Arbeitshilfe “Gebet + Dienst +
+    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
 
@@ -31,7 +44,7 @@ II: Wir studieren die Bibel
 -   Welche schönen Erlebnisse verbindest du mit diesem Thema? Welche
     (möglicherweise) unangenehmen Aspekte fallen dir ein?
 
-### **Sonntag: Unwahrscheinliche Zeugen**
+### **[Unwahrscheinliche Zeugen](https://sabbath-school.adventech.io/de/2020-03/02/unwahrscheinliche-zeugen/)**
 
 **Markus 5,15-20**
 
@@ -49,7 +62,7 @@ II: Wir studieren die Bibel
 -   Wenn du es dir aussuchen kannst: Missionierst du lieber in deinem
     Bekanntenkreis oder unter Fremden? Weshalb?
 
-### **Montag: Den auferstandenen Christus verkündigen**
+### **[Den auferstandenen Christus verkündigen](https://sabbath-school.adventech.io/de/2020-03/02/den-auferstandenen-christus-verk%C3%BCndigen/)**
 
 **Markus 16,1-8**
 
@@ -68,7 +81,7 @@ II: Wir studieren die Bibel
     dir zu schaffen bzw. sind für dich schwer verständlich und kaum zu
     glauben? Warum?
 
-### **Dienstag: Veränderte Leben bewirken etwas**
+### **[Veränderte Leben bewirken etwas](https://sabbath-school.adventech.io/de/2020-03/02/ver%C3%A4nderte-leben-bewirken-etwas/)**
 
 **Apostelgeschichte 4,13.20**
 
@@ -77,7 +90,10 @@ II: Wir studieren die Bibel
     (so bald)?
 -   Wie wirkt sich bei dir der Glaube auf deine Bildung aus? Zeigt sich
     hier auch bei dir, dass du „mit Jesus gewesen bist“?
--   Welche persönlichen Erlebnisse fallen dir ein, die du un
+-   Welche persönlichen Erlebnisse fallen dir ein, die du unbedingt
+    weitererzählen musstest? Weshalb?
+-   Warum konnten es die Apostel nicht lassen, von Jesus zu reden?
+-   Welche Themen oder Aspekte des Glaube
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
