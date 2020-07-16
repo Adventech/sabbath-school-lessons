@@ -23,7 +23,9 @@ var argv = require("optimist")
 var fs     =  require("fs-extra"),
     moment =  require("moment"),
     yamljs = require("yamljs"),
-    changeCase = require("change-case");
+    changeCase = require("case");
+
+changeCase.title = changeCase.capital
 
 var SRC_PATH = "src/",
     QUARTERLY_COVER = "images/quarterly_cover.png",
