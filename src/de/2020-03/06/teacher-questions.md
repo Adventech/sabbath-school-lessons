@@ -30,9 +30,10 @@ Auch diese Woche geht es wieder um ein Themenstudium, weshalb wir uns
 bemühen wollen das Thema zu erarbeiten. Die verwendeten Bibeltexte
 wollen uns helfen, am Thema zu arbeiten.
 
-#### **Wochenthema**: JEDER wird durch den Heiligen Geist befähigt und mit Gaben ausgestattet seiner Gemeinde und der Welt zu dienen.
+**Wochenthema: JEDER wird durch den Heiligen Geist befähigt und mit
+Gaben ausgestattet seiner Gemeinde und der Welt zu dienen.**
 
-#### **Tagesthema Sonntag:**
+#### **[Unterschiedliche Gaben, gemeinsamer Dienst](https://sabbath-school.adventech.io/de/2020-03/06/unterschiedliche-gaben-gemeinsamer-dienst/)**
 
 Wir sind nicht nur unterschiedliche Persönlichkeiten, sondern erhalten
 von Gott auch unterschiedliche Gaben, werden jedoch durch die Liebe
@@ -59,7 +60,7 @@ Christi verbunden, um gemeinsam etwas für die Ewigkeit zu bewirken.
     -   Wie setzt Gott unsere Unterschiedlichkeit zum Segen für uns und
         unsere Mitmenschen ein?
 
-#### **Tagesthema Montag:**
+#### **[Gott, der Geber aller guten Gaben](https://sabbath-school.adventech.io/de/2020-03/06/gott-der-geber-aller-guten-gaben/)**
 
 Bei der Taufe empfängt jeder den Heiligen Geist und wird mit Gaben für
 seinen Dienst ausgestattet.
@@ -90,7 +91,7 @@ seinen Dienst ausgestattet.
             -   Wie können wir die Gegenwart des Heiligen Geistes und
                 das Erleben seiner Gaben in unserem leben fördern?
 
-#### **Tagesthema Dienstag:**
+#### **[Der Zweck der geistlichen Gaben](https://sabbath-school.adventech.io/de/2020-03/06/der-zweck-der-geistlichen-gaben/)**
 
 Gaben, Gaben, Gaben! So viele Möglichkeiten!
 
@@ -112,7 +113,9 @@ Gaben, Gaben, Gaben! So viele Möglichkeiten!
         -   Wie könnt ihr andere dazu ermutigen, ihre Talente und
             Fähigkeiten für Gott und ihre Mitmenschen einzusetzen?
 
-====**Tagesthema Mittwoch:**=
+#### **[Deine Gaben entdecken](https://sabbath-school.adventech.io/de/2020-03/06/deine-gaben-entdecken/)**
+
+Persönliche Hingabe und ausdauerndes Bitten öffnen uns für die Gaben Go
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
