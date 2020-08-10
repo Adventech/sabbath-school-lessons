@@ -71,37 +71,32 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
-
 **Einstiegsfrage**
 
--   Was wüssten wir ohne die Bibel über Gott bzw. über Jesus Christus?
+-   Was begeistert euch am Wort Gottes?
 
 SYMBOLE FÜR DAS WORT GOTTES
 
-**Texte Ps 119,105; Jer 23,29; Lk 8,11; Mt 4,4**
+**Texte Ps 119,105; Jer 23,29; Lk 8,11; Mt 4,4 (Texte müssen nicht
+gelesen werden, nur wenn Teilnehmer keine Symbole nennen)**
 
 -   Fragen zum Text:
-    -   Die erwähnten Texte vergleichen das Wort Gottes mit Licht,
-        Feuer, einem Hammer, einem Samen und Brot. Was offenbaren diese
-        Symbole über das Wort Gottes?
+    -   Welche Symbole verwendet die Bibel für das Wort Gottes? *(falls
+        sie aus der Gruppe nicht genannt werden: Licht/Leute, Hammer,
+        Feuer, Same, Brot, Schwert, Regen/Schnee Jesaja 55,10).*
+    -   Warum wurden genau diese Symbole gewählt?
+    -   Was offenbaren diese Symbole über das Wort Gottes?
     -   Welches von diesen Symbolen spricht dich am meisten an? Warum?
--   Fragen zur Botschaft:
-    -   Was bewirkt das Wort Gottes (Licht, Feuer, Hammer, Same, Brot)
-        im Herzen des Lesers bzw. des Hörers?
-    -   ...
-    -   ...
 
 DIE SCHÖPFERISCHE KRAFT DES WORTES GOTTES
 
-**Text Hebr 1,1-3; Hebr 4,12; Ps 33,6.9**
+**Text Hebr 1,1-3; Hebr 4,12**
 
 -   Fragen zum Text:
-    -   Zu Hebr 1,1-3: Gott hat "auf vielerl
+    -   Zu Hebr 1,1-3: Gott hat “auf vielerlei Weise” durch die
+        Propheten “zu den Vätern geredet”. Fallen Dir Beispiele für
+        diese Vielfalt ein? Was sagen das über Gott?
+    -   Welchen Zusammenhan
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
