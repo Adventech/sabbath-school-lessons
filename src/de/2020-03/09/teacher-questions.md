@@ -111,7 +111,52 @@ Resultat unserer Erfahrungen.”* (Damaris Wieser)
     negative Erfahrungen mit der Mission. Ich denke dabei an die
     chronische Erfolgslosigkeit, unter der wir in unseren Breiten
     leiden. Was macht das mit euch?
-    -   Kann man da übe
+    -   Kann man da überhaupt seine Einstellung verändern? Und wenn ja,
+        wie? Bzw.: In welche Richtung?
+
+**DIENSTAG**
+
+**Text: 2.Thessalonischer 1,1-4**
+
+Fragen zum Text:
+
+-   Welche drei Eigenschaften lobt Paulus bei den Geschwistern der
+    Gemeinde in Thessalonich?
+    -   Welche von diesen findet ihr in eurer Gemeinde?
+    -   Welche eher weniger?
+
+Fragen zur Botschaft:
+
+**ZITAT (Lektion Seite 108):***“Wenn wir uns vor Gott demütigen würden
+und **freundlich** und **höflich** und **weichherzig** und
+**erbarmungsvoll** (voller Mitgefühl) wären, gäbe es hundert Bekehrungen
+zur Wahrheit, wo es jetzt nur eine gibt.”* (E.G.White)
+
+-   Welche Art von Menschen (Gemeinschaft) wird hier beschrieben?
+-   Was tun, wenn diese Art, mit dem Mitmenschen umzugehen,
+    (anscheinend) mit der Wahrheit kollidiert? Gemeint ist, was wir als
+    Wahrheit über die “richtige Art zu leben” erkannt haben. Auf deutsch
+    gesagt: Wie reagieren, wenn jemand unserer Meinung nach “falsch
+    lebt”?
+    -   Die Art, wie wir als Adventgemeinde Wahrheit interpretieren, ist
+        oft die Wahrheit der Unterscheidungslehren. D.h. Menschen sollen
+        z.B. vor allem den Sabbat erkennen und halten. Worin
+        unterscheidet diese Art der Mission sich von der Haltung, die
+        E.G. White in obigem Zitat skizziert?
+        -   “Alles hat seine Zeit.” Welche dieser beiden
+            unterschiedlichen Interpretationen bzw. Grundeinstellungen
+            in Bezug auf Mission haltet ihr im Zeitalter der Postmoderne
+            für zielführender? Welche der beiden passt besser zu einer
+            “gewinnenden Einstellung”, um die es ja im Wochenthema geht?
+            -   Inwieweit wäre eine Synthese beider Grundausrichtungen
+                möglich?
+            -   Wie nehmen wir jenen die Angst, die, wenn sie
+                “Mitgefühl” oder “weichherzig” hören, sofort um die
+                Wahrheit fürchten?
+
+**MITTWOCH**
+
+'''Römer 15,7
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
