@@ -1,0 +1,4 @@
+---
+    title:  Meisterõpetaja Jeesus  
+    start_date:  24/10/2020  
+    end_date:  30/10/2020
