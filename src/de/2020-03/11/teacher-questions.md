@@ -34,6 +34,9 @@ II: Wir studieren die Bibel
 
 -   Wann hast du das erste Mal von Jesus gehört. Wie war das? Wie wirkte
     das auf dich?
+
+<!-- -->
+
 -   Nun überlege, welches Zeugnis dich schließlich dazu brachte, mit
     Christus ernst zu machen, ihm dein Leben zu übergeben. Was war
     gegeben, das dich überzeugte?
@@ -73,7 +76,7 @@ II: Wir studieren die Bibel
     -   Welche Folgen hat ein Lebensstil mit oder ohne Christus?
     -   Wie beschreibt Paulus die Werke in Vers 10 genau?
 
-<!-- -->
+\
 
 -   Was verändert sich, wenn ein Mensch Jesus annimmt?
 -   Wie war das bei dir persönlich? Was hat sich geändert?
@@ -101,7 +104,7 @@ Johannes 5,1-5**
     -   Welche Folgen hat dieses Wissen für Deinen Umgang mit den
         Mitmenschen?
 
-<!-- -->
+\
 
 -   Wie erklärst du dir die Veränderung, die offenbar in Johannes vor
     sich ging? Weshalb war diese Änderung in Lukas 9, so kurz vor der
@@ -135,7 +138,36 @@ Johannes 5,1-5**
 
 \
 
--   Der erste Missionar war ein Besessene
+-   Der erste Missionar war ein Besessener. Was hat ihn für diese
+    Aufgabe qualifiziert?
+-   Weshalb lässt Jesus ihn nicht mit sich gehen, sondern schickt ihn in
+    seine Stadt zurück?
+-   Was muss geschehen, damit ein Mensch in ganzen Städten ausruft, was
+    Gott an ihm getan hat?
+-   Wo hast du schon „lauthals“ von dem Wirken Gottes berichtet? Was hat
+    dich dazu getrieben?
+
+### **[Mit Gewissheit Zeugnis geben](https://sabbath-school.adventech.io/de/2020-03/11/mit_gewissheit_zeugnis_geben/)**
+
+**Text 1. Johannes 5,11-13; Hebräer 10,19-22; 1. Korinther 15,1-2**
+
+-   Fragen zum Text:
+    -   Worauf gründet sich unsere Heilssicherheit?
+    -   Was bedeutet diese Grundlage für unsere Verkündigung?
+-   Fragen zur Botschaft:
+    -   Wie kann ich mir die Festigkeit im Evangelium bewahren?
+    -   Wie kann ich diese Heilssicherheit auch anderen vermitteln?
+
+\
+
+-   Wie kann es passieren, dass wir „umsonst“ gläubig wurden?
+-   Worauf muss ich achten, dass mein Glaube lebendig bleibt und mein
+    Zeugnis von Jesus kraftvoll sein kann?
+-   Kann ich selbst dafür sorgen, dass ich Erfahrungen mit Jesus mache,
+    die mich begeistern? Oder muss ich abwarten, ob mir solche vom
+    Himmel geschenkt werden?
+-   Welche Art Erfahrung(en) hat dich am meisten geprägt, am stärksten
+    beeinflusst? Weshalb? Wel
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
