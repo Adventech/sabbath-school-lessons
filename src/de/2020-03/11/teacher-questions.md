@@ -18,64 +18,10 @@ I: Gemeinschaft + Aktivitäten
 -   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
-
-**Ideen für Aktivitäten**\
-Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
-aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen. Hier gibt es folgende
-Ideen-Sammlungen /-Anregungen:
-
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
-        tun können. Beachte hierzu folgende mögliche Vorgehensweise im
-        Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
-    -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
-        -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
-            sein Umfeld denken: Freunde, Verwandte, Bekannte,
-            Arbeitskollegen usw. Jeder möge sich für 1-3 Personen
-            entscheiden, die einem gerade am meisten am Herzen liegen.
-        -   **1-3 Wochen**: Nun möge sich jeder Gedanken machen, was er
-            diesen Personen in den nächsten 1-3 Wochen Gutes tun kann.
-            Dabei kann zu den einzelnen Aktivitäten in den Zeilen
-            einfach A, B und C eingetragen werden.
-        -   **1-3 Aktionen**: Bitte nur 1-3 Aktionen insgesamt pro
-            Person, die in den nächsten 1-3 Wochen auch wirklich
-            umgesetzt werden können - alles andere überfordert
-            womöglich.
-    -   Am Ende tauscht euch kurz über eure Vorhaben aus. Teilt eure
-        kleinen Aktionsziele der ganzen Gruppe mit, die ihr euch für die
-        kommenden Wochen setzt.
-    -   Beachte: Ohne Heiligen Geist bleiben alle menschlichen Anliegen
-        nur Aktionen ohne Nachhaltigkeit. Aber wenn wir uns demütig von
-        Gott gebrauchen lassen, dann kann aus Kleinem etwas sehr Großes
-        entstehen.
-    -   Empfehlung: Die Arbeitshilfe “Gebet + Dienst + Zeugnis” sollte
-        nicht öfter als ca. einmal im Monat in einer Gruppe eingesetzt
-        werden. An den Sabbaten, wo man diese Hilfe nicht anwendet, kann
-        man sich darüber austauschen, wie es den Teilnehmern bisher beim
-        Umsetzen ihrer Vorhaben gegangen ist.
-
-Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
-missionarischen Anliegen.
+-   Betet miteinander für die genannten Anliegen.
 
 II: Wir studieren die Bibel
 ---------------------------
-
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
 
 ### Startfragen
 
@@ -83,6 +29,17 @@ II: Wir studieren die Bibel
 -   Wie zeigt sich die Veränderung durch die Erlösung im Leben eines
     Christen?
 -   Wann wird ein Bericht von/über Jesus wirkungsvoll?
+
+\
+
+-   Wann hast du das erste Mal von Jesus gehört. Wie war das? Wie wirkte
+    das auf dich?
+
+<!-- -->
+
+-   Nun überlege, welches Zeugnis dich schließlich dazu brachte, mit
+    Christus ernst zu machen, ihm dein Leben zu übergeben. Was war
+    gegeben, das dich überzeugte?
 
 ### Persönliche Anmerkungen
 
@@ -119,6 +76,17 @@ II: Wir studieren die Bibel
     -   Welche Folgen hat ein Lebensstil mit oder ohne Christus?
     -   Wie beschreibt Paulus die Werke in Vers 10 genau?
 
+\
+
+-   Was verändert sich, wenn ein Mensch Jesus annimmt?
+-   Wie war das bei dir persönlich? Was hat sich geändert?
+-   Um was geht es bei den „Kindern des Zorns“ und dem „Willen des
+    Fleisches“?
+-   In welchen Bereichen gibt es bei Christen häufig noch „Luft nach
+    oben“?
+-   Wie kann man gewährleisten, dass die positive Veränderung hin zu
+    Christus nicht vorzeitig aufhört? Dass man immer „dranbleibt“?\
+
 ### **[Die verändernde Kraft des persönlichen Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/die_verändernde_kraft_des_persönlichen_zeugnisses/)**
 
 **Text 1. Johannes 1,1-4; 1. Johannes 3,1; 1. Johannes 4,7-11; 1.
@@ -129,7 +97,77 @@ Johannes 5,1-5**
     entspringt unseren Gedanken gegenüber der emotionalen Liebe (philia)
     oder der körperlichen Liebe (eros).
 -   Fragen zum Text:
-    -   Was löste die Erfahrung mit Jesus im
+    -   Was löste die Erfahrung mit Jesus im Leben des Johannes aus?
+    -   Was versteht Johannes unter dem Ausdruck Liebe (agape)?
+-   Fragen zur Botschaft:
+    -   Was bedeutet es für Dich ein geliebtes Kind Gottes zu sein?
+    -   Welche Folgen hat dieses Wissen für Deinen Umgang mit den
+        Mitmenschen?
+
+\
+
+-   Wie erklärst du dir die Veränderung, die offenbar in Johannes vor
+    sich ging? Weshalb war diese Änderung in Lukas 9, so kurz vor der
+    Kreuzigung Jesu, noch nicht gegeben – wo doch Johannes Jesus nun
+    schon so lange kannte?
+
+<!-- -->
+
+-   Vielfach wird (auch von Christen) angenommen, dass Liebe und Gesetz
+    gegeneinander stünden. Wer fleißig auf die Einhaltung der Gebote
+    achtet, kann nicht liebevoll und barmherzig sein, sondern wird
+    streng. Wie siehst du das? Welche Verbindung zwischen beidem legt
+    Johannes in seinem Brief vor?\
+
+### **[Jesu Geschichte erzählen](https://sabbath-school.adventech.io/de/2020-03/11/jesu_geschichte_erzählen/)**
+
+**Text Markus 5,1-17**
+
+-   Anmerkung: Jesus befindet sich in Dekapolis – Gebiet der Heiden –
+    und die Schweine repräsentieren das Vermögen auf der Bank eines
+    ganzen Dorfes!
+-   Fragen zum Text:
+    -   Welche Ereignisse sind an dieser Geschichte auffällig?
+    -   Welche Forderung verbinden die Bewohner des Gebietes mit dem
+        Verlust eines „Bankvermögens“?
+-   Fragen zur Botschaft:
+    -   Mit welcher Ausbildung und mit welchem Auftrag blieb der Gesunde
+        zurück?
+    -   Welches Zeugnis konnte er geben?
+    -   Welche Folgen hatte sein Zeugnis?
+
+\
+
+-   Der erste Missionar war ein Besessener. Was hat ihn für diese
+    Aufgabe qualifiziert?
+-   Weshalb lässt Jesus ihn nicht mit sich gehen, sondern schickt ihn in
+    seine Stadt zurück?
+-   Was muss geschehen, damit ein Mensch in ganzen Städten ausruft, was
+    Gott an ihm getan hat?
+-   Wo hast du schon „lauthals“ von dem Wirken Gottes berichtet? Was hat
+    dich dazu getrieben?
+
+### **[Mit Gewissheit Zeugnis geben](https://sabbath-school.adventech.io/de/2020-03/11/mit_gewissheit_zeugnis_geben/)**
+
+**Text 1. Johannes 5,11-13; Hebräer 10,19-22; 1. Korinther 15,1-2**
+
+-   Fragen zum Text:
+    -   Worauf gründet sich unsere Heilssicherheit?
+    -   Was bedeutet diese Grundlage für unsere Verkündigung?
+-   Fragen zur Botschaft:
+    -   Wie kann ich mir die Festigkeit im Evangelium bewahren?
+    -   Wie kann ich diese Heilssicherheit auch anderen vermitteln?
+
+\
+
+-   Wie kann es passieren, dass wir „umsonst“ gläubig wurden?
+-   Worauf muss ich achten, dass mein Glaube lebendig bleibt und mein
+    Zeugnis von Jesus kraftvoll sein kann?
+-   Kann ich selbst dafür sorgen, dass ich Erfahrungen mit Jesus mache,
+    die mich begeistern? Oder muss ich abwarten, ob mir solche vom
+    Himmel geschenkt werden?
+-   Welche Art Erfahrung(en) hat dich am meisten geprägt, am stärksten
+    beeinflusst? Weshalb? Wel
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
