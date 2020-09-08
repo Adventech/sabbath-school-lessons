@@ -61,7 +61,7 @@ II: Wir studieren die Bibel
     wahrscheinlicher, dass diejenigen Gottes Wort annehmen, mit denen
     wir über die Heilige Schrift sprechen.
 
-### **[Jesus: Die Grundlage unseres Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/Jesus:_die_Grundlage_unseres_zeugnisses/)**
+### **[Jesus: Die Grundlage unseres Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/jesus---die-grundlage-unseres-zeugnisses/)**
 
 **Text Epheser 2,1-10**
 
@@ -87,7 +87,7 @@ II: Wir studieren die Bibel
 -   Wie kann man gewährleisten, dass die positive Veränderung hin zu
     Christus nicht vorzeitig aufhört? Dass man immer „dranbleibt“?\
 
-### **[Die verändernde Kraft des persönlichen Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/die_verändernde_kraft_des_persönlichen_zeugnisses/)**
+### **[Die verändernde Kraft des persönlichen Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/die-ver%C3%A4ndernde-kraft-des-pers%C3%B6nlichen-zeugnisses/)**
 
 **Text 1. Johannes 1,1-4; 1. Johannes 3,1; 1. Johannes 4,7-11; 1.
 Johannes 5,1-5**
@@ -119,7 +119,7 @@ Johannes 5,1-5**
     streng. Wie siehst du das? Welche Verbindung zwischen beidem legt
     Johannes in seinem Brief vor?\
 
-### **[Jesu Geschichte erzählen](https://sabbath-school.adventech.io/de/2020-03/11/jesu_geschichte_erzählen/)**
+### **[Jesu Geschichte erzählen](https://sabbath-school.adventech.io/de/2020-03/11/jesu-geschichte-erz%C3%A4hlen/)**
 
 **Text Markus 5,1-17**
 
@@ -147,7 +147,7 @@ Johannes 5,1-5**
 -   Wo hast du schon „lauthals“ von dem Wirken Gottes berichtet? Was hat
     dich dazu getrieben?
 
-### **[Mit Gewissheit Zeugnis geben](https://sabbath-school.adventech.io/de/2020-03/11/mit_gewissheit_zeugnis_geben/)**
+### **[Mit Gewissheit Zeugnis geben](https://sabbath-school.adventech.io/de/2020-03/11/mit-gewissheit-zeugnis-geben/)**
 
 **Text 1. Johannes 5,11-13; Hebräer 10,19-22; 1. Korinther 15,1-2**
 
@@ -167,7 +167,7 @@ Johannes 5,1-5**
     die mich begeistern? Oder muss ich abwarten, ob mir solche vom
     Himmel geschenkt werden?
 -   Welche Art Erfahrung(en) hat dich am meisten geprägt, am stärksten
-    beeinflusst? Weshalb? Wel
+    beeinflusst? Weshalb?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
