@@ -23,7 +23,9 @@ var argv = require("optimist")
 var fs     =  require("fs-extra"),
     moment =  require("moment"),
     yamljs = require("yamljs"),
-    changeCase = require("change-case");
+    changeCase = require("case");
+
+changeCase.title = changeCase.capital
 
 var SRC_PATH = "src/",
     QUARTERLY_COVER = "images/quarterly_cover.png",
@@ -59,6 +61,7 @@ var LOCALE_VARS = {
     "hr": "Lekcija",
     "hu": "Lecke",
     "hy": "Դաս",
+    "km": "ខ្មែរ",
     "mk": "Лекција",
     "mn": "Хичээл",
     "ms": "Pelajaran",
@@ -120,6 +123,7 @@ var LOCALE_VARS = {
     "hr": "### <center>Radimo na ovoj lekciji.</center>\n<center>Molimo pokušajte ponovo kasnije.</center>",
     "hu": "### <center>Erre a leckére dolgozunk.</center>\n<center>Légyszíves gyere vissza később.</center>",
     "hy": "### <center>Մենք աշխատում ենք այս դասի վրա:</center>\n<center>Խնդրում եմ փորձեք մի փոքր ուշ</center>",
+    "km": "### <center>យើងកំពុងសិក្សាមេរៀននេះ។</center>\n<center>សូម​ព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ។</center>",
     "mk": "### <center>Ние работиме на оваа лекција</center>\n<center>Те молам врати се подоцна</center>",
     "mn": "### <center>Бид энэ хичээл дээр ажиллаж байна.</center>\n<center>Дараа дахин ирнэ үү.</center>",
     "ms": "### <center>Kami sedang menjalankan pelajaran ini.</center>\n<center>Sila balik kemudian.</center>",
@@ -179,6 +183,7 @@ var LOCALE_VARS = {
     "hil": "Teacher Comments",
     "hu": "Tanítói Melléklet",
     "hy": "Teacher Comments",
+    "km": "Teacher Comments",
     "mk": "Teacher Comments",
     "mn": "Багшийн тайлбар",
     "ms": "Komen Guru",
@@ -237,6 +242,7 @@ var LOCALE_VARS = {
     "lv": "Misijas ziņas",
     "hu": "Inside Story",
     "hy": "Inside Story",
+    "km": "រឿងខ្លី",
     "mk": "Inside Story",
     "mn": "Гэрчлэлийн Туух",
     "ms": "Inside Story",

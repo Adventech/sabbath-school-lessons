@@ -525,3 +525,12 @@ title = "Sabbath School"
 	current = "Nykyinen oppitunti"
 	archive = "Oppituntien arkisto"
 	lang = "🇫🇮 Suomen kieli"
+
+[params.km]
+	title = "សាលាថ្ងៃឈប់សម្រាក"
+	back = "ត្រឡប់​ក្រោយ"
+	all = "មេរៀនទាំងអស់"
+	todaysLesson = "មេរៀនថ្ងៃនេះ"
+	current = "មេរៀនបច្ចុប្បន្ន"
+	archive = "ប័ណ្ណសារ"
+	lang = "🇰🇭 ខ្មែរ"

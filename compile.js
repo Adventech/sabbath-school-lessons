@@ -32,6 +32,37 @@ let donationNotice = {
     "<p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
     "<p><em>Adventech-team</em></p>\n" +
     "</div>\n" +
+    "</div>",
+  "es": "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "<div class=\"ss-donation-appeal-title\">\n" +
+    "<p>¡Necesitamos tu ayuda!</p>\n" +
+    "<div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "</div>\n" +
+    "<div class=\"ss-donation-appeal-text\">\n" +
+    "<p>Queridos hermanos y hermanas,</p>\n" +
+    "<p>Les queremos agradecer a <strong>cada uno</strong> de ustedes por utilizar la aplicación de Sabbath School. Como saben, los que colaboramos en Adventech somos todos <strong>voluntarios</strong>, apasionados de ser parte de la <strong>gran comisión</strong> que se nos encomendó, ¡y es por eso que nuestra misión es utilizar la tecnología para honra y gloria de nuestro Dios! Desde el inicio de nuestra aplicación, decidimos que permanecería sin anuncios o comerciales. Deseamos continuar añadiendo nuevas funcionalidades y herramientas a la aplicación de Sabbath School; por ejemplo, este año planeamos agregar soporte de <strong>audio y video</strong> a nuestra aplicación.</p>\n" +
+    "<p>Agradecemos profundamente que muchos han sido generosos y han <strong>donado</strong> a nuestro ministerio. Cada centavo cuenta, y agradecemos mucho que estén aquí para apoyarnos.</p>\n" +
+    "<p>Puede realizar una donación en el siguiente enlace:</p>\n" +
+    "<p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
+    "<p>Gracias,</p>\n" +
+    "<p><em>Equipo de Adventech</em></p>" +
+    "</div>\n" +
+    "</div>",
+  "pl": "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "<div class=\"ss-donation-appeal-title\">\n" +
+    "<p>Potrzebujemy Twojej pomocy!</p>\n" +
+    "<div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "</div>\n" +
+    "<div class=\"ss-donation-appeal-text\">\n" +
+    "<p>Drodzy bracia i drogie siostry w Chrystusie, pragniemy szczególnie podziękować wam wszystkim oraz każdemu z osobna za wasze wsparcie i korzystanie z aplikacji Szkoła Sobotnia. Jak dobrze wiecie, wszyscy, którzy pracujemy w Adventech jesteśmy wolontariuszami. Z pasją uczestniczymy w największym zleceniu i dlatego naszą misją jest wykorzystanie technologii dla Jego chwały!</p>\n" +
+    "<p>Jesteśmy naprawdę zaszczyceni, że wielu z was wspiera nas, dzieląc się aplikacją z przyjaciółmi i rodziną. </p>\n" +
+    "<p>Niedawno osiągnęliśmy porozumienie z wydawnictwem Znaki Czasu, aby za ich zgodą publikować polską wersję lekcji szkoły sobotniej. Prosimy Was wszystkich o wsparcie wydawnictwa poprzez przekazanie darowizn. Liczy się każda kwota i bardzo Wam dziękujemy, że jesteście tu.</p>\n" +
+    "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
+    "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
+    "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
+    "<p><strong><a href=\"http://zrzutka.pl/z/szkolasobotnia03-2020\">http://zrzutka.pl/z/szkolasobotnia03-2020</a></strong></p>\n" +
+    "<p><em>Zespół Adventech</em></p>" +
+    "</div>\n" +
     "</div>"
 }
 
@@ -207,6 +238,8 @@ glob("src/"+compile_language+"/", {}, function (er, files) {
     var quarterlies = quarterliesAPI(files[i]),
         info = getInfoFromPath(files[i]);
 
+    if (!quarterlies.length) return;
+
     // Firebase Deployment
     (function(language, quarterlies){
       firebaseDeploymentTasks.push(function(cb){
@@ -278,7 +311,8 @@ var quarterliesAPI = function(languagePath){
   }).reverse();
 
   for (var i = 0; i < files.length; i++){
-    quarterlies.push(quarterlyAPI(files[i]));
+    let q = quarterlyAPI(files[i]);
+    if (q) { quarterlies.push(q); }
   }
   return quarterlies;
 };
@@ -286,6 +320,8 @@ var quarterliesAPI = function(languagePath){
 var quarterlyAPI = function(quarterlyPath){
   var quarterly = yamljs.load(quarterlyPath + "info.yml"),
       info = getInfoFromPath(quarterlyPath);
+
+  if (quarterly.skip) return false;
 
   console.log("Processing", quarterlyPath);
 
@@ -517,7 +553,7 @@ var readAPI = function(dayPath, day, info, lesson){
   }
   read.content = metaMarked(resultRead, {renderer: renderer}).html;
 
-  if (donationNotice[info.language] && /^src\/(en|de)\/2020-02(-er|-cq)?\/(07|08)/img.test(dayPath)) {
+  if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayPath) || /^src\/pl\/2020-03/img.test(dayPath))) {
     read.content = donationNotice[info.language] + read.content;
     resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
   }

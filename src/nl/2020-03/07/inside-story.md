@@ -1,0 +1,24 @@
+---
+title:  Zendingsbericht
+date:   14/08/2020
+---
+
+#### Gebed en mishandeling 
+
+_Maimouna Bangoura, 29, Guinea_
+
+Op de veranda van ons huis in Conakry, Guinea, spraken mijn man en ik een paar minuten met de adventist die zojuist verschenen was. Toen overhandigde hij me een folder en in de hoek zag ik het woord ‘Jezus’ in kleine letters. Zonder de folder ook maar aan te raken, gebood ik hem het stukje papier aan mijn echtgenoot, Alpha, te geven. De folder was in het Frans, een taal die Alpha niet eigen is, en hij duwde het in mijn handen. ‘Lees dit eens voor’, zei hij. Ik wierp het op de grond. ‘Ik ben geen christen!’ riep ik. ‘Ik kan zoiets niet aanraken!’ Ik opende de deur en ging naar binnen. Ik wilde niets meer horen over het christendom. Het was daarnaast ook tijd voor mijn avondgebeden. 
+
+Maar ik kon niet bidden. Ik was zo verward dat mijn gedachten zich niet konden concentreren. Ik hoorde dat de adventistische bezoeker en mijn man nog steeds in gesprek waren op de veranda. De adventist vroeg Alpha of er iets was waar hij voor kon bidden. ‘Ik zoek werk’, zei Alpha, een elektricien in opleiding. ‘En als ik geld verdien, is het zo op. De zwangerschap van mijn vrouw verloopt ook heel moeizaam. Bid u alsjeblieft voor haar.’ Toen ik die woorden hoorde, stormde ik naar buiten en liet ik de adventist iets weten waar zelfs mijn man niet van op de hoogte was. Bij mijn laatste bezoek aan het ziekenhuis had de arts gezegd dat mijn baby geen hartslag meer had. Ik droeg het nog bij me, maar het was overleden. Mijn man was met stomheid geslagen. ‘Bid alsjeblieft voor me’, vroeg ik de adventist. Hij bad, ‘Als dit kindje ter wereld moet komen, alstublieft HEER, schenk haar deze baby. Als het beter is van niet, laat uw wil gedaan worden.’
+
+Na het uitspreken van deze woorden raapte hij de folder op van de veranda en schreef hij er zijn naam, Tanqulle Fassinadouno en telefoonnummer op. Terwijl hij die aan Alpha gaf, zei hij vriendelijk, ‘Misschien wil je vrouw het op een dag vasthouden en leest ze het op ten duur zelfs aan je voor.’ Zodra hij weg was, verscheurde ik de folder en gooide ik hem weg. Zijn gebed stond me aan, maar ik wilde geen deel uitmaken van zijn christelijke geloof. Voor het eerst in maanden sliep ik die nacht goed. De pijn en bloedingen verdwenen. Tijdens mijn bezoek aan het ziekenhuis kreeg ik te horen dat de arts een fout had gemaakt. Ik was nooit zwanger geweest.
+
+Toen werd Anthony, mijn jonge zoon, ziek. Ik kocht medicijnen voor hem in het ziekenhuis, maar niets hielp. Ik herinnerde me dat mijn klachten waren weggegaan na het gebed van Tranqulle. ‘Waarom heb ik de folder met zijn telefoonnummer dan ook weggegooid?’ foeterde ik. De volgende dag peinsde ik nog steeds over het telefoonnummer toen ik hoorde dat er op de deur werd geklopt. Het was Tranqulle. ‘Ik ben zo blij dat je er bent!’, huilde ik. ‘Ik kan mezelf wel voor mijn hoofd slaan dat ik je telefoonnummer niet meer heb. Bid alsjeblieft voor mijn zieke zoon!’ Tranqulle ging in gebed en diezelfde middag herstelde mijn zoon. 
+
+Alpha en ik stonden versteld, maar nog wilde ik niet naar de kerk. Toch bleef ik denken aan Tranqulle’s gebeden en een maand later besloot ik naar de kerk te gaan. Ik was diep geraakt door de preek en nam me voor om elke sabbat aanwezig te zijn. Alpha daarentegen vergezelde me maar twee sabbatten. Hij ging niet langer toen zijn vrienden hem waarschuwden dat hij zijn verstand zou verliezen. Alpha was er op tegen dat ik ging, maar ik bezocht de kerk zonder het hem te vertellen. Na een tijdje had hij door dat ik elke sabbat het huis verliet en vrienden vertelden hem dat ze me de kerk binnen hadden zien gaan.
+
+Alpha begon me te slaan. Op een keer sloeg hij me zo erg dat ik in het ziekenhuis belandde. Desondanks bleef ik de kerk bezoeken. In de sabbatschool leerde ik hoe ik een beter leven kon leiden. Tranqulle, naar ik vernam een evangelist bij Global Mission, gaf me Bijbelstudies. Toen we in de Tien Geboden over de sabbat van de zevende dag lazen, koos ik ervoor om een christen te worden. Alpha slaat me nog steeds. Zodra ik mijn mond opendoe om te praten, geeft hij me een klap en weigert hij een woord met me te wisselen. We slapen niet langer in hetzelfde bed en hij bedankt ervoor om te voorzien in de levensbehoeften van onze zoons. Elke dag draag ik hem op in mijn gebeden. 
+
+Eén van mijn favoriete Bijbelteksten is Johannes 14:1, waar Jezus zegt, ‘Wees niet ongerust, maar vertrouw op God en op Mij’. Ondanks deze mishandeling is er vrede in mijn hart, omdat ik Christus heb. Kunt u alstublieft voor mij bidden? Met de HEER is de overwinning aan mijn zijde. Op een dag zal mijn man een christen worden. 
+
+In dit kwartaal is een deel van de dertiende sabbatopbrengst bestemd voor de bouw van de Kobaya Academy, een school in Conakry, Guinea, waar Maimouna’s zoons en andere kinderen naartoe gaan. Dank u dat u Maimouna en het adventistische werk in Guinea opdraagt in uw gebeden. 
