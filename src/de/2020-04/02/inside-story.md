@@ -3,5 +3,7 @@ title:  Mit Gott erlebt
 date:   09/10/2020
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
-<center>Bitte komme später zurück.</center>
+### Ein Australier geht in Afrika ein hohes Risiko ein
+
+_Vania Chew_
+
