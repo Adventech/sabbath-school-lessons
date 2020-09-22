@@ -1,0 +1,4 @@
+---
+    title:  Harimine kaunite kunstide ja loodusteaduste alal  
+    start_date:  28/11/2020  
+    end_date:  04/12/2020

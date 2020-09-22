@@ -1,0 +1,4 @@
+---
+    title:  Kasvatus ja lunastus  
+    start_date:  14/11/2020  
+    end_date:  20/11/2020
