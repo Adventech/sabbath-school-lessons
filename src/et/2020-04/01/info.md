@@ -1,0 +1,4 @@
+---
+    title:  Kasvatus Eedeni aias  
+    start_date:  26/09/2020  
+    end_date:  02/10/2020
