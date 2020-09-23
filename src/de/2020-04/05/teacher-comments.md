@@ -27,8 +27,7 @@ Wer Jesus ist, kann auf verschiedene Weise vermittelt werden. Denke daran, dass 
 
 – Die „Herrlichkeit Christi, **welcher ist das Ebenbild Gottes**.“ (2 Kor 4,4)
 
-– „Die Erleuchtung … zur **Erkenntnis der Herrlichkeit Gottes in dem Ange-
-sicht Jesu Christi**.“ (2 Kor 4,6)
+– „Die Erleuchtung … zur **Erkenntnis der Herrlichkeit Gottes in dem Angesicht Jesu Christi**.“ (2 Kor 4,6)
 
 – „Wer … **[Jesus] sieht, der sieht den Vater**.“ (Joh 14,9)
 

@@ -16,6 +16,7 @@ Die Missionsstudenten erzählten, dass einige Tage zuvor etwas Schreckliches pas
 Die Studentenmissionare weinten. Sie wünschten sich, dass sich die Dorfbewohner von ihren toten Göttern – Bäumen und Tieren, die sie verehrten – abwenden und dem lebendigen Gott des Himmels vertrauen. Santos und sein Freund saßen neben Naomis Leiche. Santos hob das Mädchen vorsichtig hoch und schlang seine Arme um sie. „Lieber Gott, bitte zeig den Dorfbewohnern ein Wunder“, betete er. „Wir haben Bibelstunden gegeben, und sie haben zugehört. Zeig ihnen, dass du mächtiger bist als Bäume und Tiere.“
 
 Die Missionare beteten zwei Stunden lang, hielten Naomis Leiche in den Armen und weinten. Sie sangen einen Gospelsong: „Because he lives“ („Weil er lebt“). Die Dorfbewohner waren berührt von den Tränen, den Gebeten und dem Lied. Plötzlich wachte Naomi auf. Sie wandte sich an ihre erstaunte Mutter: „Mami, ich habe Hunger!“ Ihr Vater, der Vorsteher des Dorfes, war schockiert. Mit eigenen Augen hatte er etwas Mächtigeres als die Bäume und Tiere gesehen. 
+
 Er versammelte die Dorfbewohner zum Bibelstudium, als Sungbae ankam. Alle 57 erwachsenen Dorfbewohner übergaben ihr Leben Jesus.
 
 „Es war ein Wunder“, sagte Sungbae, der heute Präsident des Pakistan Adventist Seminary and College ist. „Manche Menschen denken vielleicht, dass Auferstehungen nur vor 2000 Jahren stattfanden, aber solche Wunder geschehen auch heute noch, wenn wir unser volles Vertrauen auf Gott setzen.“

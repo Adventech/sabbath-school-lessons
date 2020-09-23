@@ -17,8 +17,7 @@ Wir hatten keinen Ersatzreifen dabei. Mitten in der Nacht auf dem Land gestrande
 
 Plötzlich zuckte ein Blitz über den dunklen Himmel und es donnerte. Regen tropfte auf die Scheiben. „Schatz“, sagte ich, „diese Situation ist nicht toll, aber irgendwie lustig. Das Leben hier in Indien ist wirklich nicht langweilig.“
 
-Nach einiger Zeit kam Pastor Abishek, um uns abzuholen. Wir luden die 
-15 Gitarren, die 100 Schulhefte und die elektrische Ausrüstung in seinen kleinen Lastwagen um. Auf der Heimfahrt überraschte uns der Pastor: „Als ihr mich angerufen habt, war mein Handy auf stumm geschaltet. Sogar die Vibrationsfunktion war aus, damit ich schlafen konnte. Ich weiß nicht, warum ich um Mitternacht aufgewacht bin und genau in dem Moment, als ihr angerufen habt, auf mein Handy geschaut habe. Normalerweise schlafe ich die ganze Nacht durch.“
+Nach einiger Zeit kam Pastor Abishek, um uns abzuholen. Wir luden die 15 Gitarren, die 100 Schulhefte und die elektrische Ausrüstung in seinen kleinen Lastwagen um. Auf der Heimfahrt überraschte uns der Pastor: „Als ihr mich angerufen habt, war mein Handy auf stumm geschaltet. Sogar die Vibrationsfunktion war aus, damit ich schlafen konnte. Ich weiß nicht, warum ich um Mitternacht aufgewacht bin und genau in dem Moment, als ihr angerufen habt, auf mein Handy geschaut habe. Normalerweise schlafe ich die ganze Nacht durch.“
 
 Wir waren ergriffen. Gott hatte den Pastor mitten in der Nacht geweckt und ihn angeregt, auf sein Telefon zu schauen. Gott wusste, dass zwei seiner Kinder sich nach ihrem Zuhause sehnten.
 
