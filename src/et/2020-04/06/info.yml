@@ -1,0 +1,4 @@
+---
+    title:  Veel Meisterõpetaja õppetunde  
+    start_date:  31/10/2020  
+    end_date:  06/11/2020
