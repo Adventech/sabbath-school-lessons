@@ -1,0 +1,48 @@
+---
+title:  Pouka za učitelje
+date:   16/10/2020
+---
+
+## PRVI DEO: OPŠTI PREGLED
+
+Postoji određeni problem u odnosu prema zakonu. To nije dobro jer zakon i Bog koji ga je dao mogu mnogo toga da nas nauče. Hrišćani su zbunjeni u vezi sa tim kako zakon funkcioniše u životu zbog Pavlovog naglašavanja da nismo „opravdani“ zakonom, već verom (Galatima 2,16): ali odbaciti zakon samo zato što ne deluje u jednoj oblasti bilo bi kao kada bismo se oslobodili tostera zato što dobro ne usisava pod. Čini se da su ljudi postali zadovoljni jednostavnim saznanjem šta zakon ne čini umesto saznanjem šta čini.
+
+Međutim, oni koji su u dobro usmerenom zavetnom odnosu sa Bogom nemaju razloga da osete uznemirenost ili averziju prema zakonu. Sposobnost da zajedno sa Davidom kažemo: „Kako ljubim zakon Tvoj!“ (Psalam 119,97) predstavlja dobar test da li neko gaji zdrav odnos prema Bogu i zakonu. Ukoliko ljudi prigovaraju sledećim rečima: „Šta je sa Isusovom ljubavlju ili blagodaću?“, čeka ih iznenađenje. Najvažniji zakon od svega, créme de la créme od svih zakona, jeste zakon ljubavi. „Zato ljubi Gospoda Boga svojega iz svega srca svojega i iz sve duše svoje i iz sve snage svoje.“ Ovo je najveća od svih zapovesti; Isus je makar tako učio (5. Mojsijeva 6,5; Matej 22,36.37). Ako ljudi imaju problem u vezi sa zakonom, da li se oni, takođe, ne slažu sa tim zakonom? Dakle, slobodno možemo reći da dovoljna potvrda dolazi od strane cara Davida i cara Isusa da zakonu damo priliku kao učitelju o životu i otkrivenju Boga koji ga je dao.   
+
+## DRUGI DEO: KOMENTAR
+
+### Pismo
+
+Kada planirate da provedete veče sa prijateljima, verovatno niko neće predložiti: „Hajde da se okupimo da čitamo i proučavamo zakone.“ Razumljivo je zašto većina ljudi ima odbojnost prema temi zakona u Bibliji. Najvećim delom, postoji obeshrabrujući krug 1) zakona datih ili ponovljenih, 2) prekršenih zakona, 3) Božjeg gneva kao rezultata kršenja i strašnih posledica koje slede.
+
+Ovaj krug se neprestano ponavlja, do tačke do koje se mi kao čitaoci uznemireno pitamo: „U čemu je problem izrailjskog naroda? Oni su najtvrdoglavija pobunjenička grupa ljudi na licu zemaljskom.“
+
+Trideset sekundi smo zaprepašćeni zbog padova Izrailja, a onda se nešto dogodi. Polako odvraćamo pogled od izrailjskog naroda i umesto toga posmatramo ogledalo u vidu poslovica u kome vidimo odraz svog ličnog iskustva. Ako smo iskreni, uviđamo neke upadljive sličnosti između sebe i Izrailja i, poput cara Davida koji nesvesno osuđuje sebe nakon što čuje Natanovu priču, mi, takođe, čujemo kako nam zakon objavljuje: „Ti si taj.“ (2. Samuilova 12,7)
+
+Dakle, šta možemo naučiti iz ovog prilično fatalističkog kruga zakona, greha i osude – kruga koga mnogi hrišćani rešavaju jednostavno ignorišući temu biblijskog zakona i/ili prerano skačući na teme o opraštanju, blagodati i spasenju? Odgovor pronalazimo u Božjem proročanstvu o Izrailjevoj pobuni objavljenom Mojsiju i Izrailju: „Narod ovaj ustavši činiće preljubu za tuđim bogovima... i ostaviće Me i pokvariće zavjet Moj.“ (5. Mojsijeva 31,16) Deca Izrailjeva tada uče pesmu koja se sastoji od 43 stiha (5. Mojsijeva 32), kako nikada ne bi zaboravili (5. Mojsijeva 31,21), pesmu koja tačno razjašnjava to proročanstvo. To se sve događa kada su na pragu da im se daruje Obećana zemlja i nebrojeni prateći blagoslovi.
+
+Ono što saznajemo ovde predstavlja nešto fundamentalno o samom Bogu. Kakvo je to Biće koje voljno stupa u zavetni odnos sa narodom za koji unapred zna da će Mu biti neveran? Toliko mnogo odnosa koje mi ljudi ostvarujemo temelje se na riziku i verovatnoći. Mi stupamo u brak sa očekivanjem da će nam bračni drug biti veran do smrti. Da nismo sigurni u to, verovatno ne bismo to učinili; da smo sigurni u njenu ili njegovu buduću nevernost, onda sigurno ne bismo stupili u taj brak. Prijateljstva nastaju na pretpostavci da različite strane neće postati neprijatelji koji će jedno drugom zariti nož u leđa. Pa ipak, Bog Jevreja, naš Bog, prihvata nas raširenih ruku, znajući da će Mu nož u leđa zariti naši gresi i pobuna. To je zadivljujuća blagodat.
+
+Ipak, ova blagodat najjasnije se uočava kada se posmatra kroz taj „obeshrabrujući“ krug vezan za zavetni narod koji je pozvan da ostvari zajednicu sa Bogom, vođenu Njegovim zapovestima i zakonima, nakon čega sledi velika neposlušnost. Ovakvo gledište otkriva Božje srce ljubavi i blagodati čak i pre nego što su obećanja o spasenju i opraštanju jasno izneta. Sama činjenica da On ulazi u posvećeni odnos sa ljudima kao što smo mi je čudo samo po sebi. Njegova kasnija obećanja o spasenju, opraštanju i obnavljanju su jednostavno izdanak božanskog srca koje računa cenu naše pobune i greha i zaključuje da je cena mala u odnosu na priliku da bude sa nama kroz večnost.
+
+### Za razgovor:
+
+Brzo saznajemo da ovaj Zakonodavac nije megaloman koji jednostavno pokušava da gazduje svojim delima stvaranja. Njegova spremnost da stupi u zavet sa ljudima za koje zna da će ga prekršiti uči nas nečemu o Njegovom karakteru. Čemu nas uči?
+
+### Pismo
+
+Lekcija od ponedeljka iznosi kako je Bog Mojsiju, pre nego što je umro, dao pesmu koju je izrailjski narod trebalo da nauči (5. Mojsijeva 31,21). Ova pesma imala je zanimljivu ulogu. Bog kaže da će se narod, nakon što uđe u zemlju i primi izobilje, okrenuti drugim bogovima i prekršiti zavet sa svojim Bogom. Kao što se i očekivalo, usledile su nesreće i zavetna prokletstva. Možemo zamisliti tragično iskustvo prelaska sa visina prosperiteta do desetkovanja od gladi i rata (5. Mojsijeva 32,23-25). „Zašto nam se ovo događa?“, skoro da možemo čuti kako u očaju vape. „Prinosili smo žrtve bogovima, i oni su nas blagosiljali i štitili.“ (5. Mojsijeva 32,17; Osija 2,5.8) Upravo je u tom trenutku pometnje, kada je Izrailj žnjeo pun gnev Božji zbog svoje neposlušnosti, bilo vreme da se peva pesma.
+
+Pesma je snažna (5. Mojsijeva 32). Govori o Božjoj dobroti u odnosu na pokvarenost Njegovog naroda. Ona ih poziva da se „opomenu negdašnjih dana“ kada se Bog starao i brinuo o njima „noseći ih na krilima svojim“ (5. Mojsijeva 32,7.11). Na kraju, usred izobilja, zaboravili su Boga i umesto Njemu žrtve su prinosili đavolima (5. Mojsijeva 32,17). Stihovi od kojih se srce para govore o tragičnim posledicama koje slede. Međutim, ima nagoveštaja da Bog nije potpuno zaboravio svoj narod: „Sudiće Gospod narodu svojemu, i žao će Mu biti slugu Njegovijeh“, i „Ja ubijam i oživljujem; ranim i iscjeljujem“ i „očistiće zemlju svoju i narod svoj“ (5. Mojsijeva 32,36.39.43). Bog je svoj narod naučio pesmu koja će, iako surovo iskrena, odgovoriti na sva njihova pitanja. Reći će im o njihovom poreklu kao narodu, o Bogu koga su odbacili, o nemoćnim bogovima sa kojima su Ga zamenili, o razlogu zašto su u zbrci u kojoj se nalaze i o nadi u budućnost.
+
+Pesma bi se pevala generacijama i služila bi kao opomena i odvraćanje od napuštanja Boga njihovih otaca; ali, na vrhuncu prosperiteta i osione sigurnosti, mora da je zvučala neobično i nevažno, ako se uopšte i pevala. Ali sada kada su doživeli zbrku koju su sami stvorili, pesma iz njihovih usta služi kao „svedok“ protiv njih (5. Mojsijeva 31,19). Bog je unutar kolektivnog duha izrailjskog naroda otkrio kakva će biti njihova sudbina ukoliko se ne odupru idolopoklonstvu okolnih naroda.
+
+Ova pesma je tragična, ali sa gledišta poučavanje je izvanredna. Ona jasno iznosi posledice zavetne nevernosti. Odgovara na pitanja zašto koja se postavljaju zbog strašnih nedaća nastalih usled pustošenja ratom i prirodnim silama. Ona stavlja krivicu na izrailjska ramena i oslobađa Boga od krivice u skoro potpunom uništenju Njegovog naroda. Može li neko da se seti boljeg metoda da spreči nacionalnu nesreću nego da uvrsti proročku pesmu u narodnu usmenu tradiciju, govoreći šta će se dogoditi njihovoj zemlji ukoliko odbace Boga koji im ju je darovao?
+
+### Za razgovor:
+
+Ko u određenom trenutku nije poželeo da pogleda u budućnost da bi doneo bolje odluke u sadašnjosti? Bog je u velikoj meri ispunio ovu želju. Kada bismo samo pročitali šta On govori u proročanstvima. Ironija je u tome što, čak i sa proročkom pesmom na usnama Izrailja, oni su i dalje išli pravo ka najgorem mogućem scenariju (Danilo 9,13-15). Šta nas taj ishod uči o prednostima i manama poznavanja budućnosti?
+
+## TREĆI DEO: PRIMENA U ŽIVOTU
+
+Prvi korak u stvarnoj primeni zakona u nečijem životu je čitanje i razmišljanje o njemu uz molitvu. Ne govorimo samo o Deset zapovesti. One će uvek imati posvećeno mesto i u hrišćanskim i u judaističkim krugovima, i treba tako da bude. Zakon, definisan kao Tora ili prvih pet knjiga Mojsijevih, jeste ono što su stari mislili kada su govorili o zakonu. Kada jednom to shvatimo, „zakon“ dobija definiciju koja zahteva proširenje. Izveštaj o Edemskom vrtu – to je zakon; svi izveštaji o Avramu – to je zakon; razdvajanje Crvenog mora – to je zakon, itd. Iz tog razloga se „zakon“ takođe na odgovarajući način prevodi kao „poučavanje“ ili „uputstvo“. Ovakvo shvatanje naslov lekcije čini pomalo pleonastičnim (mada neophodnim) – „Poučavanje kao Učitelj“. Da, svi se nadamo da ćemo dozvoliti da nas poučavanje koje nam je Bog dao zapravo nauči nečemu. Bilo bi čudno drugačije razmišljati, i kako je žalosno što je ponekad poučavanje (odnosno zakon) poslednje mesto na kome (čak i hrišćani) traže uputstvo. Bilo bi skoro komično da nije tako tragično. Čitanje tekstova o zakonu u Bibliji uz molitvu, sa marljivim upućivanjem na podatke iz Novog zaveta, treba da nas drži na uravnoteženom putu učenja, življenja i ljubavi prema Božjem zakonu.  
