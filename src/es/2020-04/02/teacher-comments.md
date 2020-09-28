@@ -1,0 +1,54 @@
+---
+title:  El Sábado enseñaré
+date:  09/10/2020
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+“La vida misma es una escuela”. De este modo comienza la lección y pasa a demostrar que la familia es nuestra primera aula. Ningún niño es demasiado pequeño para comenzar a escuchar acerca de la bondad de Dios. Los cantos y las oraciones acerca de la grandeza de Dios deberían comenzar al borde de la cuna y llegar hasta la tumba.
+
+Se honra a Adán, Eva, Caín y Abel, junto con sus esposas, por ser la primera familia de este mundo. ¡Qué difícil es para nosotros concebir cómo hubiera sido tener la suma de la historia humana mirándote en la mesa del desayuno! El Jardín del Edén, exuberante pero inaccesible, todavía está a la vista, sin olvidar al centinela angelical y su espada de fuego. Sin duda, el terrible esplendor de estas escenas inspira un sinfín de preguntas en estos muchachitos. “¿El Dios Creador hizo eso?”, pudo haber sido la respuesta a una serie de preguntas de por qués y cómos que brotaban de la mente curiosa de los niños. Las respuestas de Adán y de Eva seguramente se basaban en sus testimonios presenciales y en su experiencia personal de interacción con este Dios creador. Tenían un evangelio primordial para compartir, que hablaba de un Hijo divino que algún día nacería para aplastar la cabeza de la serpiente, pero no sin sacrificio para él (Gén. 3:15), para llevar a la familia humana de regreso al jardín y para que todo volviera a ser como entonces.
+
+Se puede construir libremente una imagen de la infancia y la educación de este Hijo divino a partir de los primeros capítulos de Lucas y Mateo. Esta imagen hace un cumplido al valor de la educación cuando Jesús aprovecha la oportunidad para aprender de su Padre celestial y para instruir a los sacerdotes del Templo (Luc. 2:41-51).
+
+La lección destaca la comunicación, el medio por el cual llega la educación. Subraya que desarrollar vínculos es un componente clave para una comunicación y una enseñanza efectivas. Esta idea se desarrolla con más detalle a continuación.
+
+#### COMENTARIO
+
+No se puede subestimar la influencia de la familia. Literalmente, nos hace lo que somos. Incluso el adolescente que se rebela en contra de todo lo que representa su familia todavía está siendo moldeado por ella, en este caso, a través del antagonismo en lugar de la sumisión. Pero, siempre esperamos que nuestras familias sean el lugar de una educación que nos prepare para la piedad, la estabilidad emocional y relacional, las actividades intelectuales y vocacionales y el bienestar físico. Cada uno de esos temas podría conducir a un exceso de información; por lo tanto, la lección brinda un pensamiento clave, tal vez ignorado con mucha frecuencia, que es importante para que la educación sea efectiva en todos los ámbitos: la necesidad de forjar relaciones. La relación entre los educadores y los alumnos, ya sean padres e hijos o maestros y alumnos, a menudo determina si existe un aprendizaje efectivo.
+
+##### Las relaciones y la crianza de los hijos
+
+Muchos padres tienen la esperanza de que la instrucción temprana de sus hijos con ideales, enseñanzas y estilo de vida adventistas los llevarán a convertirse en fieles adventistas del séptimo día, como adultos cuyo compromiso con Dios y con la iglesia pueda motivarlos para un ministerio de tiempo completo. Sin embargo, para consternación de muchos padres, sus hijos dejan de ser adventistas del séptimo día en los primeros años de la vida adulta; y tampoco hacen alguna profesión de cristianismo. Su estilo de vida moralmente desenfrenado incluso excede al de sus compañeros que no tuvieron alguna educación cristiana. Las esperanzas de los padres se desvanecen, y quedan desconcertados sobre lo que sucedió y dónde se equivocaron.
+
+Muchas familias sinceramente hacen lo que piensan que es correcto en la crianza de los hijos, solo para cosechar un resultado opuesto a sus expectativas. Por supuesto, hay innumerables variables que pueden hacer que los hijos rechacen su educación adventista. Pero, por el bien de los hijos adventistas, como padres, planteémonos algunas cuestiones difíciles acerca de lo que pudo haber salido mal en las relaciones.
+
+¿Con qué frecuencia los padres y los hijos comparten asuntos del corazón entre sí? ¿Se sienten seguros los hijos para compartir esperanzas, temores y problemas con sus padres? Los padres ¿tratan continuamente de afirmar los aspectos en que les está yendo bien a los hijos o los hijos solo escuchan críticas cuando cometen un error? ¿Son pacientes cuando los hijos tropiezan al aprender nuevas actividades o responsabilidades? ¿Expresan empatía hacia sus hijos, recordando que ellos también fueron niños? ¿Guían con cuidado a sus hijos para que tengan una relación con Dios o simplemente fuerzan la instrucción religiosa? ¿Son suficientemente seguros y adultos como para admitir ante los hijos cuando cometen un error y pedir perdón o continuamente muestran una fachada de perfección, que los hijos saben distinguir de todos modos? ¿Han dedicado tiempo a prestar atención exclusiva a sus hijos? ¿Juegan con ellos? ¿Se ha fomentado y ganado el respeto entre padres e hijos? ¿Aplican los padres la disciplina en un ambiente tranquilo y controlado o en forma impulsiva, en medio de la frustración o la ira? ¿Comunican palabras y acciones de amor y cuidado tierno a sus hijos, para que sepan que los aman incondicionalmente? Y la lista continúa.
+
+Estas cuestiones son importantes. Independientemente de cuán dedicados sean los padres al inculcar la instrucción religiosa adventista en sus hijos, si los temas centrales que abordan las preguntas anteriores no están entrelazados en su filosofía de la paternidad, quizá todo sea en vano. Hay momentos en que es hora de dejar el libro de texto, tomar un descanso de las tareas y pasar tiempo de calidad con los hijos. Inviertan en la relación, y es probable que los dividendos sean una educación efectiva, que culmine en un compromiso de por vida con Cristo y la vida eterna.
+
+“Existe el peligro de que tanto los padres como los maestros dicten y emitan órdenes en demasía, y al mismo tiempo no entren lo suficiente en una relación social con sus niños o los estudiantes. A menudo se mantienen aparte con demasiada reserva, y ejercen su autoridad de manera fría y carente de simpatía, lo cual tiende a repeler en lugar de ganar su confianza y afectos. Si más a menudo reunieran en torno de ellos a los niños y manifestaran interés en sus tareas, aun en sus juegos deportivos, se ganarían su amor y su confianza, y las lecciones de respeto y obediencia se aprenderían con más rapidez, porque el amor es el mejor maestro. Un interés similar manifestado hacia los jóvenes produciría resultados similares. El corazón joven es rápido en responder ante un toque de simpatía” (FCE 60, 61).
+
+##### Jesús y la escuela rabínica de Jerusalén
+
+El relato del encuentro entre el preadolescente Jesús y los doctores de la Ley judía durante su visita a Jerusalén en la Pascua es breve, pero denso. “Y aconteció que tres días después le hallaron en el templo, sentado en medio de los doctores de la Ley, oyéndoles y preguntándoles. Y todos los que le oían, se maravillaban de su inteligencia y de sus respuestas” (Luc. 2:46, 47). Entonces, ¿qué hace que Jesús sea el alumno modelo? Para obtener información sobre esa pregunta, veamos la siguiente declaración de Elena de White: “En aquel tiempo, una dependencia del Templo servía de local para una escuela sagrada, semejante a las escuelas de los profetas. Allí, rabinos eminentes se reunían con sus alumnos, y hacia allí se dirigió el niño Jesús. Sentándose a los pies de esos hombres solemnes y sabios, escuchó sus enseñanzas. Como quien buscaba sabiduría, interrogaba a esos maestros acerca de las profecías y de los acontecimientos que entonces ocurrirían y señalaban el advenimiento del Mesías.
+
+“Jesús se presentó como quien tiene sed del conocimiento de Dios. [...]
+
+“Los doctores le dirigieron preguntas, y quedaron asombrados al oír sus respuestas. Con la humildad de un niño, repitió las palabras de la Escritura, dándoles una profundidad de significado que los sabios no habían concebido. De haber seguido los trazos de la verdad que él les señalaba, habrían realizado una reforma en la religión de su tiempo. Se habría despertado un profundo interés en las cosas espirituales y, al iniciar Jesús su ministerio, muchos habrían estado preparados para recibirlo.
+
+“Los rabinos sabían que Jesús no había recibido instrucción en sus escuelas; y, sin embargo, su comprensión de las profecías excedía en mucho a la suya. En ese reflexivo niño galileo discernían a alguien muy prometedor. Desearon asegurárselo como alumno, con el fin de que llegase a ser un maestro de Israel. Querían encargarse de su educación, convencidos de que una mente tan original debía estar sometida a su modelado.
+
+“Las palabras de Jesús habían conmovido su corazón como nunca lo había sido por palabras de labios humanos. [...] La modestia y gracia juvenil de Jesús desarmaba sus prejuicios. Inconscientemente se abrieron esas mentes a la Palabra de Dios, y el Espíritu Santo habló a su corazón” (DTG 58, 59). Todos los cristianos saben que Jesús es el gran Maestro, pero ¿con qué frecuencia se lo conoce como el gran Alumno?
+
+Pues bien, ¿qué hace que Jesús sea el Alumno modelo? Tiene una curiosidad y una sed del conocimiento de Dios que lo convierten en un oyente atento. Hace preguntas, mostrando que es un aprendiz activo, no solo pasivo. Tampoco es reacio a ofrecer respuestas. Él muestra que puede ser vulnerable y poner sus ideas sobre la mesa para que otros las juzguen, critiquen o afirmen. Esto desarrolla la resistencia que necesitará cuando, como adulto, sus palabras generen acusaciones de posesión demoníaca (Juan 8:48) y exijan su muerte (Juan 8:40). Pero un Niño que ha estado hablando de Dios desde que tenía doce años (y probablemente antes) no podía ser intimidado. Los buenos alumnos siempre son los mejores maestros.
+
+#### APLICACIÓN A LA VIDA
+
+Aunque la familia es la primera escuela, nadie tiene la garantía de que será buena. Quizás haya muchas cosas que debamos desaprender de nuestras familias. Con suerte, espigamos algunos buenos principios que valen la pena conservar durante toda la vida. Analicen algunos de estos temas con la clase de Escuela Sabática para mostrar cómo Dios nos ayuda a manejar las buenas y las malas experiencias de la vida familiar.
+
+**1.** ¿Que patrones negativos dentro de tu familia te has propuesto que nunca transmitirás a tu propia familia joven? ¿De qué manera Dios y las Escrituras te ayudaron a identificar esos patrones negativos? ¿Qué ideas obtuviste que te enseñaron a evitar que se repitan?
+
+**2.** Identifiquen cómo Dios tomó las dificultades de su vida familiar y las convirtió en un beneficio.

@@ -17,9 +17,9 @@ Un soir, son épouse, Darla, revint d’une fête de mariage à l’église de H
 
 Finalement, Vince se porta volontaire pour aider l’église de Hamilton pendant six mois. L’instant d’après, les six membres du comité d’église de Hamilton lui dirent qu’ils avaient prié pour qu’il devienne leur pasteur laïc.
 
-« Ces prières duraient depuis deux semaines, depuis que je me réveillais au milieu de la nuit », dit Vince. « C’était certainement le Saint-Esprit qui travaillait. » Dans son nouveau rôle, Vince invita un organiste professionnel à la retraite, Jerry Taylor, pour aider en tant que directeur de musique. Un jour, Jerry appela Vince avec enthousiasme pour lui dire qu’une maison de retraite haut de gamme de Cincinnati vendait un orgue pour 75 000 $.
+« Ces prières duraient depuis deux semaines, depuis que je me réveillais au milieu de la nuit », dit Vince. « C’était certainement le Saint-Esprit qui travaillait. » Dans son nouveau rôle, Vince invita un organiste professionnel à la retraite, Jerry Taylor, pour aider en tant que directeur de musique. Un jour, Jerry appela Vince avec enthousiasme pour lui dire qu’une maison de retraite haut de gamme de Cincinnati vendait un orgue pour 75 000 .
 
-« On ne peut pas se le permettre! » dit Vince. « Même 5 000 $, ce serait trop ».
+« On ne peut pas se le permettre! » dit Vince. « Même 5 000 , ce serait trop ».
 
 « Allons-y jeter un coup d’œil quand même », dit Jerry.
 

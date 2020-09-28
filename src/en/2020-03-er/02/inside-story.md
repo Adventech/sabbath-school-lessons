@@ -17,9 +17,9 @@ For the next two weeks, Vince did not stop thinking about the church. He woke up
 
 Soon after that, Vince volunteered to help the church for six months. Then the church leaders told Vince that for two weeks they prayed for him to be their pastor. That was during the same time that Vince woke up in the middle of the night. “It was the Holy Spirit working, for sure,” Vince said.
 
-As pastor, Vince invited Jerry Taylor to be the new music manager for the church. Jerry was retired. He also was a professional organ player. Shortly after, Jerry told Vince that a retirement community was selling a pipe organ for $75,000.
+As pastor, Vince invited Jerry Taylor to be the new music manager for the church. Jerry was retired. He also was a professional organ player. Shortly after, Jerry told Vince that a retirement community was selling a pipe organ for 75,000.
 
-“We can’t afford that!” Vince said. “We can’t even afford $5,000. It’s too much money!”
+“We can’t afford that!” Vince said. “We can’t even afford 5,000. It’s too much money!”
 
 “Let’s go look at it anyway,” Jerry said.
 
