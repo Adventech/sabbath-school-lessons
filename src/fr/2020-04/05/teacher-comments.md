@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   31/10/2020
+date:   30/10/2020
 ---
 
 ### Partie I: Aperçu
