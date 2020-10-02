@@ -78,7 +78,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "ka": [
-    "geo"
+    "geo",
+    "orthodox"
   ],
 
   "lt": [
