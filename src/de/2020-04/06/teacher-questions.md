@@ -59,6 +59,8 @@ II: Wir studieren die Bibel
     Gott, der ihm Eva zur Seite gestellt hat. Weshalb führt Scham so
     leicht zu Anklagen gegen andere? Wie beeinflusst Sünde die
     Beziehungen zwischen Menschen?
+-   Wie sollen wir auf unsere Fehler reagieren, wie mit ihnen umgehen?
+    Was bietet uns Gott an?
 -   Wie kann eine Beziehung, die unter Schuldgefühlen leidet, wieder
     heilen? Wie kann man ein schlechtes Gewissen loswerden?
 -   Wie kann man die Notwendigkeit der aufrichtigen Reue und
@@ -73,8 +75,30 @@ II: Wir studieren die Bibel
 -   Was lehrt uns diese Geschichte über Gottes Gnade und
     Vergebungsbereitschaft? Hätte er Jakob nicht erzieherisch
     zurechtweisen müssen für seinen Betrug?
+-   Wie wichtig ist in dem Traum die Himmelsleiter?
+-   Wieso zeigt sich Gott besonders in der Not? Sind wir sonst
+    vielleicht taub? Zu beschäftigt?
+-   Was genau stärkte und half Jakob nun wirklich weiter?
 -   Wie können wir erkennen, wann Gnade das richtige Mittel ist, um zur
-    Buße zu führen (vgl. Röm
+    Buße zu führen (vgl. Römer 2,4) – und wann Strafe nötig ist?
+
+### **Dienstag: Rabbi Jesus**
+
+**Johannes 1,1-3.14**
+
+-   Jesus ist das personifizierte Wort Gottes. Was können wir von ihm
+    lernen, wenn wir uns bemühen, das Wort Gottes weiterzugeben?
+-   Was können wir über gute Methoden der Ausbildung und Erziehung von
+    ihm lernen?
+-   Welche Predigt, welche Lehre oder welches Ereignis im Leben Jesu hat
+    dich am stärksten geprägt und verändert? Weshalb gerade das?
+
+### **Mittwoch: Eine Frau gibt Widerworte**
+
+**Matthäus 15,21-28**
+
+-   Jesus wirkt in keiner anderen Geschichte so abweisend. Weshalb hier?
+    Was wollte er
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:

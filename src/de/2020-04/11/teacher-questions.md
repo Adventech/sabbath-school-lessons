@@ -79,7 +79,16 @@ II: Wir studieren die Bibel
 **5. Mose 16,15**
 
 -   Was ist segensvolle Arbeit? Nur die, die von Erfolg gekrönt ist?
-    Kann auch ganz einf
+    Kann auch ganz einfache Arbeit wie Putzen gesegnet sein?
+-   Können wir nur fröhlich sein, wenn unsere Arbeit gesegnet ist? Wie
+    lernt man, positiv mit beruflichen Fehlschlägen umzugehen?
+
+**Prediger 9,10; Sprüche 10,4**
+
+-   Es ist selbstverständlich, dass Fleiß wichtig ist. Inwiefern aber
+    macht er einen so großen Unterschied im Leben? Was sagt meine
+    Arbeitshaltung über meine Haltung zu Gott und Mitmenschen aus?
+-   „Alles, was dir vor
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
