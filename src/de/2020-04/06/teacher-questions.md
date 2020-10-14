@@ -97,8 +97,7 @@ II: Wir studieren die Bibel
 
 **Matthäus 15,21-28**
 
--   Jesus wirkt in keiner anderen Geschichte so abweisend. Weshalb hier?
-    Was wollte er
+-   Jesus wirkt in keiner anderen Geschichte so abweisend. Wesha
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
