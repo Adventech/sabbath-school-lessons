@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   23/10/2020
 ---
 
-Die Augen des Herrn: das biblische Weltbild
-===========================================
+[Die Augen des Herrn: das biblische Weltbild](https://sabbath-school.adventech.io/de/2020-04/04/die-augen-des-herrn---das-biblische-weltbild/)
+==============================================================================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -54,7 +54,9 @@ II: Wir studieren die Bibel
 -   Welches Weltbild hat dich geprägt? Wie hat Dein Weltbild Dein Leben
     geprägt? Hat sich Dein Weltbild im Verlauf deines Lebens verändert?
 
-**Text** **Spr. 15,3**
+### [Die Augen des Herrn](https://sabbath-school.adventech.io/de/2020-04/04/die-augen-des-herrn/)
+
+**Sprüche 15,3**
 
 -   Fragen zum Text:
     -   Wissen ist Macht. Daten sind das Gold des 21. Jahrhunderts. Die
@@ -67,13 +69,23 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   ...
 
-**Text 1. Mo 1,1; Joh 1,1-4; 2. Mo 20,8-11; Offb 14,6-7; Hiob 12,7-10**
+### [Die Frage des Leibniz](https://sabbath-school.adventech.io/de/2020-04/04/die-frage-von-leibniz/)
+
+**1. Mose 1,1; Johannes 1,1-4; 2. Mose 20,8-11; Offenbarung 14,6-7; Hiob
+12,7-10**
 
 -   Fragen zum Text:
     -   Die Existenz Gottes wird in der Bibel vorausgesetzt (1. Mo 1,1;
         Joh 1,1-4). Was bedeutet es für dich, dass Gott die Welt
         geschaffen, bzw. wie er die Welt geschaffen hat?
-    -   Inwieweit können dir Naturbeobac
+    -   Inwieweit können dir Naturbeobachtungen helfen, auf einen
+        Designer bzw. Schöpfer zu schliessen (Hiob 12,7-10)?
+    -   ...
+-   Fragen zur Botschaft:
+    -   Evolution oder Sechs-Tage-Schöpfung? Hast du mit anderen (STA
+        und nicht STA) über diese Weltbilder gesprochen? Was hast du von
+        diesen Gesprächen gelernt?
+    -   Hat Gott durch Evolution geschaffen (theistische Ev
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
