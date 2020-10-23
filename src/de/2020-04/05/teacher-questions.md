@@ -132,12 +132,12 @@ akademischer Überlegungen oder Vorbild für unser Leben?
 
 ### **[Die Gedanken des Meisterlehrers verstehen](https://sabbath-school.adventech.io/de/2020-04/05/die_gedanken_des_meisterlehrers_verstehen/)**
 
-**Text Phillipper 2,1-11; Philipper 4,2-3**
+**Text Philipper 2,1-11; Philipper 4,2-3**
 
 -   Fragen zum Text:
     -   Welche Charakterzüge Jesu beschreibt Paulus?
     -   Welche Herausforderung ist damit verbunden?
--   
+-   F
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
