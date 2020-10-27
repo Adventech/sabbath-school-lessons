@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   30/10/2020
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2020-04/05/01)
-=========================================================================
+[Jesus, der Meisterlehrer](https://sabbath-school.adventech.io/de/2020-04/05/01)
+================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -105,9 +105,9 @@ akademischer Überlegungen oder Vorbild für unser Leben?
     vorantreiben. Ihm ging es vielmehr um Gotteserkenntnis und
     Charakterbildung. (E 81-82)
 
-### **[Den Vater offenbaren](https://sabbath-school.adventech.io/de/2020-04/05/den_vater_offenbaren/)**
+### **[Den Vater offenbaren](https://sabbath-school.adventech.io/de/2020-04/05/den-vater-offenbaren/)**
 
-**Text Hebräer 1,1-4**
+**Hebräer 1,1-4**
 
 -   Anmerkung: Bitte beachte die Anmerkung zu Hebräer 1,3 zu Ebenbild =
     Charakter!
@@ -119,9 +119,9 @@ akademischer Überlegungen oder Vorbild für unser Leben?
     -   Wie kann diese Aufgabe ganz praktisch bewältigt werden?
     -   Wird Charakterbildung erlebt?
 
-### **[Den Vater offenbaren (Fortsetzung)](https://sabbath-school.adventech.io/de/2020-04/05/den_vater_offenbaren_(fortsetzung)/)**
+### **[Den Vater offenbaren (Fortsetzung)](https://sabbath-school.adventech.io/de/2020-04/05/den-vater-offenbaren-fortsetzung/)**
 
-**Text Johannes 1,14.18; Johannes 14,1-14**
+**Johannes 1,14.18; Johannes 14,1-14**
 
 -   Fragen zum Text:
     -   Wie können wir heute den Charakter Gottes erkennen (begreifen)?
@@ -130,14 +130,13 @@ akademischer Überlegungen oder Vorbild für unser Leben?
 -   Fragen zur Botschaft:
     -   Worin zeigt sich der Charakter Gottes im Alltag?
 
-### **[Die Gedanken des Meisterlehrers verstehen](https://sabbath-school.adventech.io/de/2020-04/05/die_gedanken_des_meisterlehrers_verstehen/)**
+### **[Die Gedanken des Meisterlehrers verstehen](https://sabbath-school.adventech.io/de/2020-04/05/die-gedanken-des-meisterlehrers-verstehen/)**
 
-**Text Philipper 2,1-11; Philipper 4,2-3**
+**Philipper 2,1-11; Philipper 4,2-3**
 
 -   Fragen zum Text:
     -   Welche Charakterzüge Jesu beschreibt Paulus?
-    -   Welche Herausforderung ist damit verbunden?
--   F
+    -   Welche Herausforderung ist damit verb
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
