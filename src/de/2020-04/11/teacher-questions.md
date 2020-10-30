@@ -133,7 +133,7 @@ II: Wir studieren die Bibel
 -   Wie können wir uns davor schätzen, in der Arbeit „zu weit“ zu gehen
     und Workaholic zu werden oder so perfektionistisch, dass es
     problematisch wird? Wo verläuft die Grenze zwischen herausragender
-    Leistung und übertriebenem Au
+    Leistung und übertriebenem Aufwand?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
