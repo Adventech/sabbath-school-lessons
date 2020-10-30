@@ -139,7 +139,7 @@ II: Wir studieren die Bibel
 -   Worin besteht der Unterschied zwischen mittelmäßiger Bibellehre und
     einer überzeugenden Art, die wirklich etwas im Leben der Menschen
     bewirkt? Wie erlangt man als Lehrer tiefe Überzeugungs- und
-    Bekehrungs
+    Bekehrungskraft?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
