@@ -88,7 +88,52 @@ II: Wir studieren die Bibel
 -   Es ist selbstverständlich, dass Fleiß wichtig ist. Inwiefern aber
     macht er einen so großen Unterschied im Leben? Was sagt meine
     Arbeitshaltung über meine Haltung zu Gott und Mitmenschen aus?
--   „Alles, was dir vor
+-   „Alles, was dir vor die Hände kommt …“ – Das klingt nach dem besten
+    Weg in einen Burnout bzw. in die Überarbeitung. Wie hilft uns der
+    Glaube, gesunde Grenzen zu setzen? Wo sollten diese Grenzen
+    verlaufen?
+-   Wenn du unsere heutige Arbeitswelt mit der Arbeit vieler Menschen
+    seit der Schöpfung bis zum beginn der Industrialisierung
+    vergleichst: Was hat sich verändert? Sind wir heute mehr oder
+    weniger tüchtig? Welche Prinzipien der einfacheren Arbeitsweise von
+    früher könnte für uns heute lehrreich sein?
+
+### '''Dienstag: Arbeit und herausragende Leistung '''
+
+**2.Mose 31,1-6**
+
+-   Oft ist heute am Arbeitsplatz eher “Wettkampf” statt Zusammenarbeit
+    (“Teamarbeit”) vorhanden.
+-   Was sind Voraussetzungen / Hilfen zu gelungener, erfüllender
+    Teamarbeit?
+-   Welchen Beitrag liefern dazu christl. Werte, wie gegenseitige
+    Wertschätzung? Wie erreicht man diese?
+
+### *' Mittwoch: Arbeit und Spiritualität*'
+
+**Galater 5,22-26**
+
+-   Welche dieser Eigenschaften sind für die Arbeitswelt besonders
+    relevant?
+-   Welche dieser Eigenschaften werden am Arbeitsplatz wohl den größten
+    Eindruck hinterlassen?
+-   Wenn du an deine Arbeitskollegen und Kunden denkst – was sollen sie
+    von dir in Erinnerung behalten, wenn du eines Tages in Rente gehst?
+-   Welche Rolle spielt die Arbeit bei unserer Charakterbildung?
+
+### **Donnerstag: Arbeit und Verantwortung**
+
+**1. Korinther 10,31**
+
+-   Wie arbeite ich zur Ehre Gottes, wenn ich z. B. bei der Müllabfuhr
+    arbeite oder bei der Gepäckkontrolle am Flughafen oder als Lehrkraft
+    oder als Führungskraft?
+-   In welchen Bereichen bist du besonders herausgefordert, sie zur Ehre
+    Gottes zu gestalten? Weshalb und wie?
+-   Wie können wir uns davor schätzen, in der Arbeit „zu weit“ zu gehen
+    und Workaholic zu werden oder so perfektionistisch, dass es
+    problematisch wird? Wo verläuft die Grenze zwischen herausragender
+    Leistung und übertriebenem Au
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
