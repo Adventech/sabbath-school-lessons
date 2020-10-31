@@ -177,5 +177,8 @@ languages:
     code: my
   - native: ខ្មែរ
     en: Khmer
-    code: km 
+    code: km
+  - native: Malagasy
+    en: Malagasy
+    code: mg
 ---
