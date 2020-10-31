@@ -534,3 +534,12 @@ title = "Sabbath School"
 	current = "មេរៀនបច្ចុប្បន្ន"
 	archive = "ប័ណ្ណសារ"
 	lang = "🇰🇭 ខ្មែរ"
+
+[params.mg]
+	title = "Lesona sekoly sabata"
+	back = "Hiverina"
+	all = "Lesona rehetra"
+	todaysLesson = "Lesona anio"
+	current = "Lesona ankehitriny"
+	archive = "Arsiva lesona"
+	lang = "🇲🇬 Malagasy"
