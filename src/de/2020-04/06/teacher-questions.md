@@ -97,7 +97,49 @@ II: Wir studieren die Bibel
 
 **Matthäus 15,21-28**
 
--   Jesus wirkt in keiner anderen Geschichte so abweisend. Wesha
+-   Jesus wirkt in keiner anderen Geschichte so abweisend. Weshalb hier?
+    Was wollte er uns und seine Jünger damit lehren?
+    -   Was zeigen Formulierungen in Mt 15,26 (“es ist nicht schön...”)
+        und Mk 7,27 (“zuerst...”)?
+-   Was lehrt uns das Verhalten der Frau über die Art und Weise, mit der
+    man bei Gott Erhörung findet?
+-   Welche Rolle spielt bei Jesus “Wertschätzung”? (z.B. Vers 28: “Dein
+    Glaube ist groß” - zu einer Kanaaniterin?)
+-   Wie verstehst du Jesu Aussage in Vers 28? Kann man das als Freibrief
+    für jeden Wunsch verstehen – wenn nur der Glaube groß genug ist?
+-   Wie bringt man Kindern (und auch sich selbst) bei, mit
+    Enttäuschungen umzugehen und eben nicht zu erwarten, dass jeder
+    Wunsch erfüllt wird?
+-   Wie lehrt man Wertschätzung?
+
+### **Donnerstag: Ein Schüler, der versteht**
+
+**Markus 10,46-52**
+
+-   Wieso versucht die Menge den Blinden zum Schweigen zu bringen?
+-   Wann finden wir Menschen als störend? Ist uns klar warum er “stört”?
+-   Was kann uns gegen Blindheit (andern gegenüber) helfen?
+-   Wie geschieht Charakterbildung (durch Gott) in unserem Leben? Was
+    ist dazu wichtig?
+-   Wie wichtig ist dabei Wertschätzung (eigentlich Lieben)?
+
+**Hebräer 5,12-14**
+
+-   Um was geht es bei der „Milch“ und was könnte die „feste Speise“
+    sein?
+-   Wie kann es passieren, dass langjährige Christen noch immer Milch
+    statt fester Speise brauchen? Wie kann man das bei sich selbst
+    verhindern?
+-   Was zeichnet geistlich „Erwachsene“ aus im Vergleich zu geistlichen
+    „Kindern“?
+-   Gibt es irgendwann einen Punkt, an dem kein Wachstum, keine weitere
+    Ausbildung oder Erziehung im christlichen Leben mehr ansteht – dass
+    man einfach „das Ende der Fahnenstange“ erreicht hat?
+-   Was ist das höchste Ziel der christlichen Bildung?
+-   Worin besteht der Unterschied zwischen mittelmäßiger Bibellehre und
+    einer überzeugenden Art, die wirklich etwas im Leben der Menschen
+    bewirkt? Wie erlangt man als Lehrer tiefe Überzeugungs- und
+    Bekehrungskraft?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
