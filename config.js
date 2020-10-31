@@ -159,6 +159,10 @@ var BIBLE_PARSER_CONFIG = {
     "MKB"
   ],
 
+  "mg": [
+    "mbp"
+  ],
+
   "ms": [
     "alkitab"
   ],
