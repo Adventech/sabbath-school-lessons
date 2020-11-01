@@ -184,4 +184,7 @@ languages:
   - native: മലയാളം
     en: Malayalam
     code: ml
+  - native: ಕನ್ನಡ
+    en: Kannada
+    code: kn
 ---
