@@ -163,6 +163,11 @@ var BIBLE_PARSER_CONFIG = {
     "mbp"
   ],
 
+  "ml": [
+    "malcl-bsi",
+    "mb1910"
+  ],
+
   "ms": [
     "alkitab"
   ],
