@@ -109,7 +109,7 @@ languages:
   - native: Lietuviškai
     en: Lithuanian
     code: lt
-  - native: Ssesotho
+  - native: Sesotho
     en: Sesotho
     code: st
   - native: Hrvatski
@@ -184,4 +184,7 @@ languages:
   - native: മലയാളം
     en: Malayalam
     code: ml
+  - native: ಕನ್ನಡ
+    en: Kannada
+    code: kn
 ---

@@ -82,6 +82,12 @@ var BIBLE_PARSER_CONFIG = {
     "orthodox"
   ],
 
+  "kn": [
+    "kanjv-bsi",
+    "kanirv",
+    "kcl-bsi"
+  ],
+
   "lt": [
     "lit",
     "ltb",
