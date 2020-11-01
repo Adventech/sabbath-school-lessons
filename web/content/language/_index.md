@@ -109,7 +109,7 @@ languages:
   - native: Lietuviškai
     en: Lithuanian
     code: lt
-  - native: Ssesotho
+  - native: Sesotho
     en: Sesotho
     code: st
   - native: Hrvatski
