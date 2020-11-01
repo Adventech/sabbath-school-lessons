@@ -136,7 +136,52 @@ akademischer Überlegungen oder Vorbild für unser Leben?
 
 -   Fragen zum Text:
     -   Welche Charakterzüge Jesu beschreibt Paulus?
-    -   Welche Herausforderung ist damit verb
+    -   Welche Herausforderung ist damit verbunden?
+-   Fragen zur Botschaft:
+    -   Welche Ergebnisse in meinem persönlichen Leben, im Zusammenhalt
+        der Gemeinde und im Umgang mit den Mitmenschen würden die
+        beschriebenen Charakterzüge Jesu bewirken?
+
+### **[Der Meisterlehrer und Versöhnung](https://sabbath-school.adventech.io/de/2020-04/05/der-meisterlehrer-und-vers%C3%B6hnung/)**
+
+**2. Korinther 5,16-21**
+
+-   Fragen zum Text:
+    -   Warum ist Versöhnung für einen Christen wichtig?
+    -   Was bedeutet Versöhnung im Kern?
+-   Fragen zur Botschaft:
+    -   Wo beginnt wirkliche Versöhnung?
+    -   Welcher Auftrag an die Jünger Jesu ist damit verbunden?
+
+### **[Die ersten Schüler des Meisterlehrers](https://sabbath-school.adventech.io/de/2020-04/05/die-ersten-sch%C3%BCler-des-meisterlehrers/)**
+
+**Lukas 2,8-20; Matthäus 2,1-12**
+
+-   Fragen zum Text:
+    -   Welches Gesprächsthema erörterten die Hirten auf dem Feld? (SDL
+        34§3)
+    -   Mit welchen Erwartungen kamen die Hirten und die Weisen aus dem
+        Osten zum Geburtsort Jesu?
+-   Fragen zur Botschaft:
+    -   Wurden die Erwartungen der Hirten und der Weisen enttäuscht?
+
+### Schlussüberlegung
+
+Wie wichtig ist die Charakterbildung in meinem persönlichen Leben?
+
+Erziehung meint allerdings viel mehr als nur schulisches oder
+akademisches Wissen. Wahre Erziehung kann man als die harmonische
+Entwicklung aller Fähigkeiten definieren, die einen Menschen nicht nur
+zur Bewältigung seines Lebens hier auf Erden befähigt, sondern auch fit
+für die Ewigkeit macht. (E 7)
+
+Das, was Gottes Geist an den Menschen in alter Zeit vollbrachte, kann
+und will er auch heute tun. Auch uns gilt seine Zusage: „Ihr dürft
+sicher sein: Ich bin immer und überall bei euch, bis an das Ende dieser
+Welt!“ Voraussetzung ist freilich, daß wir uns dem Wirken des Heiligen
+Geistes ebenso öffnen, wie es die Jünger Jesu damals taten. Das zu
+erreichen, zumindest dazu beizutragen, ist Sinn und Ziel christlicher
+Erziehung. (E 98)
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
