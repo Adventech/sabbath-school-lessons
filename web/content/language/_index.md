@@ -181,4 +181,7 @@ languages:
   - native: Malagasy
     en: Malagasy
     code: mg
+  - native: മലയാളം
+    en: Malayalam
+    code: ml
 ---
