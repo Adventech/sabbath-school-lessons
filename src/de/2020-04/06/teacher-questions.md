@@ -49,7 +49,7 @@ II: Wir studieren die Bibel
     hast?
 -   Woher kommt das Gefühl der Scham? Wie kann man es wieder loswerden?
 
-### **Sonntag: Statt sich zu verstecken**
+### **Statt sich zu verstecken**
 
 **1. Mose 3,6-12**
 
@@ -68,7 +68,7 @@ II: Wir studieren die Bibel
     weitergeben? Wie kann man den Glauben stärken, dass Vergebung
     wirklich möglich ist (bei Gott und Menschen)?
 
-### **Montag: Auf der Flucht**
+### **Auf der Flucht**
 
 **1. Mose 28,10-13**
 
@@ -82,7 +82,7 @@ II: Wir studieren die Bibel
 -   Wie können wir erkennen, wann Gnade das richtige Mittel ist, um zur
     Buße zu führen (vgl. Römer 2,4) – und wann Strafe nötig ist?
 
-### **Dienstag: Rabbi Jesus**
+### **Rabbi Jesus**
 
 **Johannes 1,1-3.14**
 
@@ -93,7 +93,7 @@ II: Wir studieren die Bibel
 -   Welche Predigt, welche Lehre oder welches Ereignis im Leben Jesu hat
     dich am stärksten geprägt und verändert? Weshalb gerade das?
 
-### **Mittwoch: Eine Frau gibt Widerworte**
+### **Eine Frau gibt Widerworte**
 
 **Matthäus 15,21-28**
 
@@ -112,7 +112,7 @@ II: Wir studieren die Bibel
     Wunsch erfüllt wird?
 -   Wie lehrt man Wertschätzung?
 
-### **Donnerstag: Ein Schüler, der versteht**
+### **Ein Schüler, der versteht**
 
 **Markus 10,46-52**
 
