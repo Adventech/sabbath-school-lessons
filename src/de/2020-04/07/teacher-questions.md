@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/11/2020
 ---
 
-Anbetung in der Erziehung
-=========================
+[Anbetung in der Erziehung](https://sabbath-school.adventech.io/de/2020-04/07/anbetung-in-der-erziehung/)
+=========================================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -90,61 +90,49 @@ II: Wir studieren die Bibel
     eigene Beziehung bereichern? Wenn ja, welche Erfahrungen habt ihr
     persönlich damit machen dürfen?
 
-**Sonntag, der 8. November 2020**
+### **[Wir beten alle etwas an](https://sabbath-school.adventech.io/de/2020-04/07/wir-beten-alle-etwas-an/)**
 
 -   **Fragen zur Botschaft:**
--   Welche könnten die Gründe sein, warum in allen uns bekannten alten
-    Hochkulturen Gebete eine zentrale Rolle spielten und der wahre Gott
-    als auch eine Vielzahl an Götter angebetet wurden? Warum könnte das
-    so wichtig gewesen sein?
-
-<!-- -->
-
--   Oft wurden Figuren angebetet. Warum will Gott nicht, dass er in
-    solchen Figuren dargestellt wird? Welchen Einfluss hätte das auf
-    unser Gottesbild? (Mögliche Antwort: Ein Gott, der das gesamte
-    Universum mit tausenden Sonnensystemen erschaffen hat, kann nicht in
-    eine Figur gepfercht werden. Er ist zu allmächtig, dass wir ihn uns
-    bildlich vorstellen können. Aber trotzdem liebt er uns innig.)
-
-<!-- -->
-
--   Wir sind für unser Leben verantwortlich. Dazu gehört eine gute
-    Ausbildung und eine entsprechende Einkommensquelle. Wie bewahren wir
-    uns davor, dass unser Beruf uns wichtiger wird als die Beziehung zu
-    Gott? (Das ist vor allem dann wichtig, wenn man seine Arbeit mit
-    großem Enthusiasmus macht oder wenn man selbst ein Unternehmen
-    aufbaut. Je mehr man „unternimmt“, desto mehr ist man mit dem Herzen
-    dabei.)
+    -   Welche könnten die Gründe sein, warum in allen uns bekannten
+        alten Hochkulturen Gebete eine zentrale Rolle spielten und der
+        wahre Gott als auch eine Vielzahl an Götter angebetet wurden?
+        Warum könnte das so wichtig gewesen sein?
+    -   Oft wurden Figuren angebetet. Warum will Gott nicht, dass er in
+        solchen Figuren dargestellt wird? Welchen Einfluss hätte das auf
+        unser Gottesbild? (Mögliche Antwort: Ein Gott, der das gesamte
+        Universum mit tausenden Sonnensystemen erschaffen hat, kann
+        nicht in eine Figur gepfercht werden. Er ist zu allmächtig, dass
+        wir ihn uns bildlich vorstellen können. Aber trotzdem liebt er
+        uns innig.)
+    -   Wir sind für unser Leben verantwortlich. Dazu gehört eine gute
+        Ausbildung und eine entsprechende Einkommensquelle. Wie bewahren
+        wir uns davor, dass unser Beruf uns wichtiger wird als die
+        Beziehung zu Gott? (Das ist vor allem dann wichtig, wenn man
+        seine Arbeit mit großem Enthusiasmus macht oder wenn man selbst
+        ein Unternehmen aufbaut. Je mehr man „unternimmt“, desto mehr
+        ist man mit dem Herzen dabei.)
 
 <!-- -->
 
 -   **Fragen zum Text:**
+    -   Daniel 3,13-30. Das ist die Geschichte von den drei Freunden des
+        Propheten Daniel namens Sadrach, Mesach und Abednego, als sie
+        von Nebukadnezar in den Feuerofen geworfen wurden. Wie haben die
+        drei hier gebetet? Welches Zeugnis war ihr Gebet? Was sagt es
+        über ihre Beziehung zu Gott aus? Wie hat Gott ihr Gebet erhört?
+        Was könnte das bei den jeweiligen anwesenden Personen bewirkt
+        haben? An Ort und Stelle und später, als sie das zu Hause in
+        ihrem Familienkreis erzählten? Wie könnte die Erzählung des
+        Gebetes auf die Frauen und Kinder gewirkt haben? Könnte es etwas
+        gewesen sein, dass sie noch von keinem ihrer Götter kannten?
+        (Analogie zu uns heute: Wir wissen nie, wie unsere Worte und
+        Taten wirken. Es kann sein, dass sie dort am meisten wirken, wo
+        wir es am wenigsten vermuten.)
+    -   Offenbarung 14,6-12. Was lehren uns diese Verse im Hinblick auf
+        die Anbetung, insbesondere kurz vor dem Zeitpunkt, an dem Gott
+        die Weltgeschichte abschließen wird?
 
-<!-- -->
-
--   Daniel 3,13-30. Das ist die Geschichte von den drei Freunden des
-    Propheten Daniel namens Sadrach, Mesach und Abednego, als sie von
-    Nebukadnezar in den Feuerofen geworfen wurden. Wie haben die drei
-    hier gebetet? Welches Zeugnis war ihr Gebet? Was sagt es über ihre
-    Beziehung zu Gott aus? Wie hat Gott ihr Gebet erhört? Was könnte das
-    bei den jeweiligen anwesenden Personen bewirkt haben? An Ort und
-    Stelle und später, als sie das zu Hause in ihrem Familienkreis
-    erzählten? Wie könnte die Erzählung des Gebetes auf die Frauen und
-    Kinder gewirkt haben? Könnte es etwas gewesen sein, dass sie noch
-    von keinem ihrer Götter kannten? (Analogie zu uns heute: Wir wissen
-    nie, wie unsere Worte und Taten wirken. Es kann sein, dass sie dort
-    am meisten wirken, wo wir es am wenigsten vermuten.)
-
-<!-- -->
-
--   Offenbarung 14,6-12. Was lehren uns diese Verse im Hinblick auf die
-    Anbetung, insbesondere kurz vor dem Zeitpunkt, an dem Gott die
-    Weltgeschichte abschließen wird?
-
-**Montag, der 9. November 2020**
-
-**“Und verkündigt es ihren Kindern”**
+### **[Und verkündigt es ihren Kindern](https://sabbath-school.adventech.io/de/2020-04/07/und-verk%C3%BCndigt-es-ihren-kindern/)**
 
 Gott hat bereits im Garten Eden mit Adam und Eva die Familie “erfunden”.
 Sie stellt die Keimzelle jeder Gesellschaft dar, ist aber durch
@@ -179,9 +167,7 @@ Testament waren das beispielsweise das regelmäßige Singen der Psalmen.
         kommunizieren? Fällt uns das immer einfach? Wenn ja, wie können
         wir das lernen, sodass es einfach wird.
 
-**Dienstag, der 10. November**
-
-**Im Geist und in der Wahrheit**
+### **[Im Geist und in der Wahrheit](https://sabbath-school.adventech.io/de/2020-04/07/im-geist-und-in-der-wahrheit/)**
 
 Wie hat Jesus Erziehung (bei Erwachsenen) gelebt? Ein Beispiel dafür ist
 der Dialog mit der Frau am Jakobsbrunnen. Dabei verändert Jesus das
@@ -208,9 +194,7 @@ Leben dieser Frau und gleichzeitig geht es dabei um Anbetung.
         müssen wir so predigen, dass unsere Worte nicht langweilig sind.
         Wie löste Jesus diesen scheinbaren Widerspruch?)
 
-**Mittwoch, der 11. November**
-
-**Heilige Herrlichkeit**
+### **[Heilige Herrlichkeit](https://sabbath-school.adventech.io/de/2020-04/07/heilige-herrlichkeit/)**
 
 -   Fragen zum Text:
     -   1\. Chronik 16,1 bis 36. Was sagt der Text über Anbetung aus? Immerhin
@@ -237,9 +221,7 @@ Leben dieser Frau und gleichzeitig geht es dabei um Anbetung.
         diese Frage auch sehr unterschiedlich ausfallen und somit in
         eine Diskussion enden.)
 
-**Donnerstag, der 12. November**
-
-**Götzendienst in der Erziehung**
+### **[Götzendienst in der Erziehung](https://sabbath-school.adventech.io/de/2020-04/07/g%C3%B6tzendienst-in-der-erziehung/)**
 
 Wie das alte Israel sind auch wir heute von “Heidentum” umgeben. Damals
 waren es Götzendienste, heute ist es eine Mischung aus diversen
