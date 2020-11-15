@@ -43,6 +43,8 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
+**Startfrage: Worauf liegt bei christlicher Erziehung der Schwerpunkt?**
+
 ### [Im Bild Gottes](https://sabbath-school.adventech.io/de/2020-04/08/im-bild-gottes/)
 
 **1. Mose 1,26-27; 1. Mose 5,1.3**
@@ -51,7 +53,8 @@ II: Wir studieren die Bibel
     Vertiefungsfrage(n):
     -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
         deutlich?
-    -   Was sagt uns dieser Text über Gottes Absicht?
+    -   Was ist das pädagogische Ziel Gottes mit den Menschen
+        (Hes.36,26; Phil.4,8)?
 -   Was sagt dieser Bibelabschnitt über den Menschen aus? Mögliche
     Vertiefungsfrage(n):
     -   Was zeigt dieser Bibelabschnitt über die menschliche Natur?
@@ -75,8 +78,8 @@ II: Wir studieren die Bibel
 -   Was sagt dieser Bibelabschnitt über Gott aus? Mögliche
     Vertiefungsfrage(n):
     -   Was offenbart der Text über Jesu Rolle als Lehrer?
-    -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
-        deutlich?
+    -   Der größte Meister und Lehrer wird vorausgesagt. Wie wird das
+        Wesen des Messias beschrieben?
     -   Was sagt uns dieser Text über Gottes Absicht?
 -   Was sagt dieser Bibelabschnitt über den Menschen aus? Mögliche
     Vertiefungsfrage(n):
@@ -86,6 +89,7 @@ II: Wir studieren die Bibel
     -   Was sagt dieser Text darüber, wie wir erlöst werden?
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
+    -   Was haben Erlösung und Erziehung miteinander zu tun?
 
 ### [Mose und die Propheten](https://sabbath-school.adventech.io/de/2020-04/08/mose-und-die-propheten/)
 
@@ -110,13 +114,13 @@ II: Wir studieren die Bibel
 
 ### [Kluge Männer und Frauen](https://sabbath-school.adventech.io/de/2020-04/08/kluge-m%C3%A4nner-und-frauen/)
 
-**1. Könige 4,29-34**
+**1. Könige 5,9-14** (in englischen Bibel: 1 Kings 4:29-34)
 
 -   Was sagt dieser Bibelabschnitt über Gott aus? Mögliche
     Vertiefungsfrage(n):
     -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
         deutlich?
-    -   Was sagt uns dieser Text über Gottes Absicht?
+    -   Was sagt uns dieser Text über Gottes besonderen Segen aus?
 -   Was sagt dieser Bibelabschnitt über den Menschen aus? Mögliche
     Vertiefungsfrage(n):
     -   Was zeigt dieser Bibelabschnitt über die menschliche Natur?
@@ -124,13 +128,7 @@ II: Wir studieren die Bibel
         ja, inwiefern?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfrage(n):
-    -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
-    -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
     -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
-    -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
@@ -142,23 +140,17 @@ II: Wir studieren die Bibel
     Vertiefungsfrage(n):
     -   Welche Eigenschaften Gottes werden in diesem Bibelabschnitt
         deutlich?
-    -   Was sagt uns dieser Text über Gottes Absicht?
+    -   Was sagt uns dieser Text über Gottes Weisheit?
 -   Was sagt dieser Bibelabschnitt über den Menschen aus? Mögliche
     Vertiefungsfrage(n):
-    -   Was zeigt dieser Bibelabschnitt über die menschliche Natur?
-    -   Findet ihr in diesem Abschnitt ein vorbildliches Verhalten? Wenn
-        ja, inwiefern?
+    -   Was zeigt dieser Bibelabschnitt über die menschliche Weisheit?
+    -   Warum können viele die Weisheit Gottes nicht verstehen und
+        schätzen? Was macht die Menschen blind für die Botschaft der
+        Wiederkunft Jesu?
 -   Was sagt dieser Bibelabschnitt über das Leben mit Gott? Mögliche
     Vertiefungsfrage(n):
     -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
-    -   Was sagt dieser Text darüber, wie wir erlöst werden?
-    -   Was sagt dieser Text darüber, wie wir Vergebung erlangen?
     -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
-    -   Was sagt dieser Text darüber, wie wir Gott dienen können?
-    -   Was sagt dieser Text darüber, wie wir miteinander umgehen
-        sollen?
-    -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
-        gestalten sollen?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
