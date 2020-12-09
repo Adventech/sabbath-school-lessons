@@ -3,5 +3,62 @@ title:  Lehrerteil
 date:   01/01/2021
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
-<center>Bitte komme später zurück.</center>
+**Studienschwerpunkt:**
+Jesaja 1; 5
+
+### TEIL I: ÜBERSICHT
+
+Jesaja 1 bis 5 dient als Einführung in das Buch Jesaja. Es beschreibt nicht nur den üblen Zustand der israelitischen Gesellschaft im Allgemeinen, sondern auch ihren geistlichen Zustand. Die Konzentration auf den geistlichen Zustand Israels bildet den Schwerpunkt des Buches. Die Religion des Volkes Gottes hat Schaden genommen.
+
+Gibt es Hoffnung in einer solchen Situation? Ja, es gibt Hoffnung. Das ist der Grund, warum manche das Buch Jesaja als das Evangelium des Alten Testaments bezeichnen. Jesaja 1,2 bezeugt, dass Gott sein Volk ins Leben gerufen hat: „Ich habe Kinder großgezogen und hochgebracht.“ Durch die bildliche Sprache vom Weinberg beschreibt Jesaja 5 die Fürsorge Gottes für seine Kinder: „Und er grub ihn um und entsteinte ihn und pflanzte darin edle Reben. Er baute auch einen Turm darin und grub eine Kelter und wartete darauf, dass er gute Trauben brächte; aber er brachte schlechte. Was sollte man noch mehr tun an meinem Weinberg, das ich nicht getan habe an ihm?“ (V. 2.4)
+
+Gott hält sich wegen seines liebevollen Wesens selbst davon ab, sein Volk zu vernichten. Durch den Propheten Hosea, einen Zeitgenossen Jesajas, beschreibt Gott seine innere Angst und seine Aufgebrachtheit darüber, dass sein Volk rückfällig geworden war: „Wie kann ich dich preisgeben, Ephraim, dich ausliefern, Israel? Wie kann ich dich preisgeben gleich Adma und dich zurichten wie Zebojim? Mein Herz wendet sich gegen mich, all mein Mitleid ist entbrannt.“ (Hos 11,8) Gott wird ein weiteres Mal versuchen, sein Volk zu sich zurückzubringen. Seine Botschaft erspart Israel klare Worte über seinen sündigen Zustand nicht. So appelliert er immer wieder deutlich an sie, zu ihm zurückzukehren. Aus diesem Grund sagt Gott: „Der HERR hat geredet.“ (Jes 1,2 EB) Vor diesem Hintergrund werden in der Studienbetrachtung dieser Woche drei Hauptthemen untersucht: 1. der Ausspruch „Der HERR hat geredet“; 2. das Thema der sündigen Nation; und ٣. die Einladung „Kommt … wenn ihr willig seid“
+(V. 18–19 EB).
+
+### TEIL II: KOMMENTAR
+
+**„Der HERR hat geredet“**
+
+Vers 1 von Jesaja 1 weist darauf hin, dass die Vision Juda/Jerusalem direkt angeht. Aber mit dem Ausruf „Höre, du Himmel, und horch auf, du Erde!“ (V. 2 EB) deutet Jesaja an, dass die Botschaft eine größere Zuhörerschaft umfasst. Als Leser müssen wir uns darauf einstellen: Die Hauptzielgruppe dieses prophetischen Buches sind die Menschen zur Zeit Judas. Gleichzeitig müssen wir uns aber auch des Gedankens bewusst sein, dass die Reichweite der Botschaft Jesajas weit über Zeit und Ort hinausgeht, wo sie geschrieben wurde, wie auch über das Publikum, für das sie ursprünglich bestimmt war.
+
+Jesaja verwendet häufig Ausdrücke wie „Der Herr hat geredet“ oder andere entsprechende Formulierungen. Die Prophezeiungen im Buch Jesaja sind relevant, weil es sich um Botschaften handelt, die „der Herr … geredet“ hat. Dieser Punkt wird vom ersten Kapitel des Buches an in verschiedener Form hervorgehoben: „Der HERR hat geredet“ (V. 2 EB), „Höret des HERRN Wort“ (V. 10), „Spricht der HERR“ (V. 18), „Der Mund des HERRN hat’s geredet“ (V. 20) und „Darum spricht der Herr, der HERR Zebaoth, der Mächtige Israels“ (V. 24). Der Autor möchte deutlich machen, dass die Visionen von Gott kommen. Mit anderen Worten: Es gibt eine Vision, weil Gott sie offenbart hat.
+
+Wie wird Gott in dem Buch dargestellt? Das Hauptthema der Botschaft ist der Herr. Das unmittelbare Ziel ist sein Volk zur Zeit der Niederschrift durch Jesaja, mit der klaren Implikation, dass die Botschaften Gottes Volk durch alle Zeiten hindurch betreffen und sich bis zu seinen Übrigen am Ende der Zeit erstrecken. Der Gott Jesajas wird in diesem Kapitel auf vielfältige Weise dargestellt. Er ist der Herr, der Heilige. Interessanterweise verwendet der Autor bei der ersten Bezugnahme auf Gott den Ausdruck „JHWH“, der im ganzen Buch der häufigste Ausdruck ist, mit dem auf Gott Bezug genommen wird. JHWH ist der gegenwärtige [immanente] Gott. Der Name JHWH offenbart nicht nur die ewige Existenz Gottes, sondern auch seine Bundesbeziehung zu seinem Volk. In Vers 10 stellt Jesaja Gott als „Elohim“ vor, als den transzendenten Gott und/oder den Souverän des Universums. Manchmal verwendet Jesaja die Kombination „Gott, der Herr“ (Jes 61,1 NLB). Ein weiterer singulärer Hinweis auf Gott in diesem Kapitel ist „der Heilige Israels“ (Jes 1,4), ein Titel, der für die Schriften Jesajas charakteristisch ist (25 Mal).
+
+**Sündige Nation**
+
+Das Buch Jesaja bezieht sich ausdrücklich auf die damalige Situation des Volkes Gottes. Jesaja erinnert an die liebevolle Fürsorge Gottes zugunsten seines Volkes: „Ich habe Kinder großgezogen und versorgt und durch mich haben sie es zu etwas gebracht.“ (Jes 1,2 NLB) Doch Juda vergisst die treue Liebe Gottes, indem „sie … sich von mir abgewandt“ haben (V. 2 NLB), wie der Herr sagt. Wie wird das Erleben von Sünde in diesem Abschnitt beschrieben? Es gibt mehrere hebräische Begriffe, die mit dem Thema Sünde zu tun haben. Diese Studienanleitung gibt einen kurzen Überblick über die wichtigsten Wörter für Sünde im ersten Kapitel.
+
+Jesaja 1,2 verwendet den hebräischen Ausdruck p̱āšaʿ, um eine sündige Handlung zu beschreiben. Dieser Ausdruck wird in dem Satz „Sie sind von mir abgefallen“ mit „abgefallen“ wiedergegeben. Das Wort hat auch die Bedeutung von „rebellieren“. Andere Bedeutungen lauten „mit etwas/jemandem brechen“ und untreu sein. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 3, Leiden/New York/Köln 1996, S. 981) Anders ausgedrückt: p̱āšaʿ beschreibt eine zerbrochene Beziehung. Auch wenn p̱āšaʿ meistens als rebellische Handlung dargestellt wird, gilt diese Handlung in der hebräischen Bibel als kriminelles Verhalten.
+
+Ein anderes Wort für Sünde ist ḥāṭāʾ (Jes 1,4), das, wenn es mit dem Wort Volk verbunden ist, als „sündige Nation“ übersetzt werden kann, wie es in der Elberfelder und der Schlachter-Bibel der Fall ist. In diesem Fall wird das Wort als Verb verwendet, und die Grundbedeutung lautet „ein Ziel verfehlen“, „im Unrecht sein, beleidigen (in Manieren oder Moral)“, „eine Sünde begehen“ und „schuldig sein“. (William L. Holladay, A Concise Hebrew and Aramaic Lexicon of the Old Testament, Grand Rapids, Michigan 1988, S. 100) Juda ist eine sündige Nation, weil es in der Bundesbeziehung mit dem Herrn versagt hat; es hat Unrecht getan. Es hat den Herrn beleidigt, deshalb sind seine Bürger schuldig vor dem Herrn.
+
+Der Satz, der als Parallele zu „sündiger Nation“ fungiert und der der erste Satz in Jesaja 1,4 ist, wird übersetzt als „ein Volk mit Schuld beladen“. Das hebräische Wort, das als Schuld wiedergegeben wird, lautet ʿāwôn. Dieses Substantiv beschreibt eine „betrügerische oder falsche Handlung“, ein Vergehen, das bewusst oder absichtlich begangen werden kann. (William L. Holladay, A Concise Hebrew and Aramaic Lexicon of the Old Testament, S. 268) Wie das vorherige Wort ḥāṭāʾ beschreibt ʿāwôn eine Handlung, die nicht recht ist.
+
+Der zweite Teil von Jesaja 1,4 beschreibt den Zustand der Kinder Israels: Sie haben „boshaft“ gehandelt; sie sind „Verderben bringend“ (EB). Die Ursache ist in den nächsten Zeilen zu finden: „Sie haben den HERRN verlassen, … sie haben sich nach hinten abgewandt.“ (EB) Sünde wird hier als der Akt des Abwendens vom Herrn beschrieben, und sie führt zu Rebellion, schlechtem Verhalten, falschen Taten und Schuld. Jesaja 1,3 verwendet eine erstaunliche Beschreibung, um diesen letzten Punkt in Bezug auf das damalige Volk Gottes zusammenzufassen: „Ein Ochse kennt seinen Herrn und ein Esel die Krippe seines Herrn; aber Israel kennt’s nicht, und mein Volk versteht’s nicht.“ Die Lage Israels ist selbst bei logischer Argumentation kritisch. Dennoch versucht der Herr erneut, seinen Kindern nachzugehen. Das ist die Grundlage seiner Aussage: „So kommt denn und lasst uns miteinander rechten.“ (Jes 1,18)
+
+**„Kommt … wenn ihr willig seid“**
+
+Für Israel wurden alle Vorkehrungen getroffen, damit es eine ruhmreiche Nation werden kann. Jetzt ist es jedoch nur noch mit Sodom und Gomorra vergleichbar (siehe V. 10). Aber Gott kann das nötige Wunder bewirken, um es zurechtzubringen. Er verspricht: „Und ich werde meine Hand gegen dich wenden und werde deine Schlacken ausschmelzen wie mit Pottasche und all deine Schlacke beseitigen.“ (V. 25 EB)
+
+Der Weg zurück zu Gott beginnt mit einem Appell an sein Volk, die eigene gegenwärtige Situation zu erkennen. Erstens ist das Leben der Menschen durch Sünde verdorben. Der Herr bekräftigt: „Das ganze Haupt ist krank, das ganze Herz ist matt. Von der Fußsohle bis zum Haupt ist nichts Gesundes an ihm.“ (V. 5–6) Das andere große Problem ist falsche Religion. Ritualismus hat wahre Anbetung ersetzt (V. 11–14). Diese Umstände fördern Ungerechtigkeit unter den Menschen und bringen dem Land Verwüstung (V. 7.17).
+
+Nachdem Gott sein Volk angefleht hat, den eigenen Zustand zu erkennen, appelliert er wie folgt an sie: „So kommt denn und lasst uns miteinander rechten.“ (V. 18) Der Ausdruck „miteinander rechten“ stammt vom hebräischen Verb niwāḵᵉḥâ und impliziert den Begriff eines Rechtsstreits; beide Streitparteien, JHWH und das Volk, können ihre Beschwerden gemeinsam diskutieren. Er suggeriert auch die Vorstellung, im Recht sein zu können. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 1, S. 134) Anders ausgedrückt: Gott ruft sein Volk auf, sich selbst zu rechtfertigen. Aber wie kann das für eine so sündige Nation überhaupt möglich sein? Gott schlägt die Lösung vor: „Wenn eure Sünde auch blutrot ist, soll sie doch schneeweiß werden, und wenn sie rot ist wie Purpur, soll sie doch wie Wolle werden.“ (Jes 1,18) Das heißt, der Gott, den Jesaja im ersten Kapitel seines Buches vorstellt, ist der Einzige, der sein Volk reinigen und rechtfertigen kann. Micha, ein weiterer Prophet und Zeitgenosse Jesajas, fragt sich: „Wo ist solch ein Gott, wie du bist, der die Sünde vergibt und erlässt die Schuld denen, die geblieben sind als Rest seines Erbteils?“ (Mi 7,18) Dieses Geschenk der Vergebung kann jedoch angenommen oder abgelehnt werden. So stellt der Herr nach dem Angebot in Jesaja 1,18 klar, dass ein neues Leben nur möglich ist, wenn sie einverstanden oder „willig“ sind (V. 19 EB). Somit ist in diesem Zusammenhang die Botschaft des folgenden Gleichnisses in Jesaja 5 besser verständlich: „Nun richtet, ihr Bürger zu Jerusalem und ihr Männer Judas, zwischen mir und meinem Weinberg! Was sollte man noch mehr tun an meinem Weinberg, das ich nicht getan habe an ihm?“ (V. 3–4)
+
+### TEIL III: ANWENDUNG
+
+1. Das erste Thema, das wir in dieser Studienbetrachtung behandelt haben, bezieht sich auf das offenbarte Wort Gottes. Wir haben in der Bibel ein völlig gewisses prophetisches Wort (2 Ptr 1,19 SLT). Wenn wir also die Bibel studieren, studieren wir nicht ein gewöhnliches Buch, sondern das offenbarte Wort Gottes – das Wort, das Gott gesprochen hat.
+
+`Ist das, was Gott durch seine Propheten gesprochen hat, für euch noch relevant? Erklärt eure Ansicht.`
+
+`Inwiefern bestimmt die Bibel eure Identität als Nachfolger Gottes?`
+
+`Vor dem Hintergrund eures Bibellesens: Welche Eigenschaften Gottes haben die größten Auswirkungen auf euer Leben?`
+
+2. Das zweite Thema befasste sich mit Israels, des Volkes Gottes, Umgang mit der Sünde. Sünde ist nicht ausschließlich eine falsche Handlung; sie kann auch ein Gedanke sein, wie etwa der Widerstand gegen die Autorität des Herrn über unser Leben oder ein Akt der inneren Rebellion. Israel steht vor einer doppelten Bedrohung durch Sünde: 1. Sünde, die Menschen in schlimmste frevlerische Taten treibt; 2. Sünde, die Menschen in ein formales religiöses Leben manövriert, dem jegliche rettende Gnade fehlt. Daher ist ihre Religion eine reine Religion der Zurschaustellung oder des Scheins, äußerlich scheinbar lebendig, innerlich aber tot.
+
+`Wie können wir erkennen, wenn unser religiöses Leben in Formalismus verfällt?`
+
+3. In Bezug auf Gottes Vergebung stellt Jesaja Gott als denjenigen dar, der an der Wiederherstellung seines Volkes interessiert ist. Gott ist bereit, uns zu vergeben und zu erlösen, und Buße ist Teil dieses Prozesses (Jes 1,27). Außerdem haben wir nur zwei Möglichkeiten: seiner Stimme zu gehorchen oder sie abzulehnen (V. 19–20). Seine Einladung hat sich im Laufe der Jahrhunderte nicht geändert: „So kommt denn und lasst uns miteinander rechten.“ (V. 18)
+
+`Seid ihr bereit, Gott zu erlauben, sein Werk der Wiederherstellung in eurem Leben zu vollbringen? Wenn nicht, was könnt ihr tun, um bereit zu sein?`

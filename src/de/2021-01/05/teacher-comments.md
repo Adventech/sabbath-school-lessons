@@ -3,5 +3,45 @@ title:  Lehrerteil
 date:   29/01/2021
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
-<center>Bitte komme später zurück.</center>
+**Studienschwerpunkt:**
+Jesaja 9
+
+### TEIL I: ÜBERSICHT
+
+Der Tenor des letzten Abschnitts von Jesaja 8 lautet, dass Israel das Licht ablehnt (V. 19–22). Es wandelt in einem solchen Ausmaß in der Finsternis, dass es sogar Geisterbeschwörer konsultiert. Jesaja 9 führt das Lichtmotiv im Gegensatz zu Israels geistlicher Finsternis ein. Israel wird ein „großes Licht“ sehen, und „Licht leuchtet über ihnen“ (V. 1 EB). Das Licht in diesem Kapitel ist nicht nur ein Hinweis auf die Herrlichkeit Gottes, der sein Volk aus dunklen Verhältnissen herausführen wird; dieser Ausdruck kann auch als Hinweis auf den kommenden Messias oder als Symbol für ihn verstanden werden. Der Messias wird mit verschiedenen Eigenschaften beschrieben: „Er heißt Wunder-Rat, Gott-Held, Ewig-Vater, Friede-Fürst.“ (V. 5) Alle Namen bzw. Merkmale des Wesens des Messias werden in der Bibel und insbesondere im Buch Jesaja besonders hervorgehoben.
+
+In dieser Studienbetrachtung werden drei Hauptthemen untersucht: 1. von der Finsternis zum Licht; 2. der Messias als das Licht der Welt; und 3. das Wesen des Messias.
+
+### TEIL II: KOMMENTAR
+
+**Von der Finsternis zum Licht**
+
+Die letzten Verse von Jesaja 8 beschreiben das Unglück und die dunklen Abenteuer des Volkes Juda: „Werden sie das nicht sagen, so wird ihnen kein Morgenrot scheinen, sondern sie werden im Lande umhergehen, hart geschlagen und hungrig … sie werden über sich blicken und unter sich die Erde ansehen und nichts finden als Trübsal und Finsternis; denn sie sind im Dunkel der Angst und gehen irre im Finstern.“ (V. 20–22) Das Volk Gottes wandelt also hauptsächlich deshalb im Dunkeln, weil es das prophetische Wort Gottes ignoriert und zurückweist. Es trennt sich selbst vom Licht. Ellen White stellt fest: „Zur Zeit von Jesaja war das geistliche Verständnis der Menschheit durch ein falsches Gottesbild verdunkelt. Lange war Satan bestrebt gewesen, dass die Menschen ihren Schöpfer als den Urheber von Sünde, Leid und Tod ansehen. Durch solche Unterstellungen getäuscht, stellten sich viele Gott als hart und streng vor. Sie sahen in ihm einen heimlichen Beobachter, der nur darauf aus sei, anzuklagen und zu verdammen. Er sei nicht bereit, Sünder anzunehmen, solange es noch eine legale Möglichkeit gäbe, Hilfe zu verweigern. Das Gesetz der Liebe, das den Himmel durchzieht, hatte der Erzbetrüger als Einengung des menschlichen Glücks und als drückendes Joch dargestellt, dem man gern entrinnen mochte.“ (MUO 211)
+
+Aber die dunklen Tage werden in herrlich helles und leuchtendes Erleben verwandelt werden. Genau das finden wir im ersten Teil von Jesaja 9 (V. 1–5). Die Bibel weist auf die Verheißungen und die Hoffnung hin, die Gott seinem Volk inmitten der Unterdrückung gab. Daher bezieht sich das Thema hier auf die Befreiung Judas, die sich durch das „große Licht“ vollziehen würde. Jesaja 9,1 beschreibt die zukünftige Szene: „Das Volk, das im Finstern wandelt, sieht ein großes Licht, und über denen, die da wohnen im finstern Lande, scheint es hell.“ Hier wird der Akt der Wiederherstellung angekündigt, und die Befreiung des Volkes Gottes von seinem Unterdrücker wird von der Helligkeit der Gegenwart Gottes begleitet werden. „Vor dir freut man sich, wie man sich freut in der Ernte.“ (V. 2) Das ist auch die Sprache in Jesaja 60, wo Gott sein Volk ermutigt, das aus dem Exil zurückkehren wird: „Mache dich auf, werde licht; denn dein Licht kommt, und die Herrlichkeit des HERRN geht auf über dir!“ (V. 1) Ist es möglich, dass Gott zugunsten seines Volkes eingreifen wird Jesaja bejaht dies: „Denn du hast ihr drückendes Joch, die Jochstange auf ihrer Schulter und den Stecken ihres Treibers zerbrochen.“ (Jes 9,3)
+
+**Der Messias als das Licht der Welt**
+
+Der Autor des Matthäusevangeliums spielt auf Jesajas Prophezeiung an. Er sagt: Jesus „zog […] sich nach Galiläa zurück. Und er verließ Nazareth, kam und wohnte in Kapernaum, das am Galiläischen Meer liegt im Gebiet von Sebulon und Naftali, auf dass erfüllt würde, was gesagt ist durch den Propheten Jesaja“ (Mt 4,12–14); dann bezieht sich Matthäus auf Jesaja 8,23–9,1. Hier haben wir einen biblischen Autor, der eine messianische Erfüllung auf die Prophezeiung Jesajas überträgt.
+
+Es ist für den Leser großartig, wenn die Bibel selbst die Auslegung eines früheren biblischen Textes liefert; in diesem Fall legt Matthäus Jesaja aus. So erhält der Leser Gewissheit und Vertrauen im Umgang mit den Versen 5 und 6 in der Prophezeiung in Jesaja 9.
+
+Außerdem weist das Lichtmotiv in Jesaja 9, wie es sich in „ein großes Licht“ (V. 1) zeigt, zusammen mit der Verheißung „uns ist ein Kind geboren“ (V. 5) eindeutig auf Christus hin. Matthäus berichtet von den Weisen aus dem Osten, die in Jerusalem ankommen und sich erkundigen: „Wo ist der neugeborene König der Juden Wir haben seinen Stern aufgehen sehen und sind gekommen, ihn anzubeten. Da sie den Stern sahen, wurden sie hocherfreut und gingen in das Haus und sahen das Kindlein mit Maria, seiner Mutter, und fielen nieder und beteten es an.“ (Mt 2,2.10–11; Herv. d. Verf.) Das Johannesevangelium bietet eine reichhaltige Beschreibung Jesu in Zusammenhang mit dem Licht: „In ihm war das Leben, und das Leben war das Licht der Menschen. Und das Licht scheint in der Finsternis … Das war das wahre Licht, das alle Menschen erleuchtet, die in diese Welt kommen.“ (Joh 1,4–5.9) In diesem Kontext ist Jesaja 9,5–6 eindeutig ein direkter Hinweis auf das Kommen des Messias, der das „Licht der Welt“ (Joh 8,12) ist und Frieden, Freiheit, Recht und Gerechtigkeit bringt.
+
+**Das Wesen des Messias**
+
+Jesaja 9,5–6 ist ein umfassendes Verzeichnis vom Wesen und Königtum des Messias. Der Prophet macht geltend: „Man nennt seinen Namen: Wunderbarer Ratgeber, starker Gott, Vater der Ewigkeit, Fürst des Friedens.“ (V. 5 EB) Im Folgenden eine kurze Studie dieses Katalogs messianischer Merkmale:
+
+Der zukünftige messianische König ist „wunderbar“. Das Wort „wunderbar“ taucht als Substantiv in Jesaja 25,1 und 29,14 auf, und das hebräische Wort, von dem es abgeleitet ist, hat die Bedeutung „einer, der ein Wunder plant, der Wunder vollbringt“. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 3, S. 928) Derselbe Begriff wird im Lied des Mose verwendet: „HERR, wer ist dir gleich unter den Göttern Wer ist dir gleich, der so herrlich und heilig ist, schrecklich, löblich und wundertätig [ʿōśě p̱eleʾ]“ (2 Mo 15,11) Später verwendet Jesaja denselben Ausdruck: „HERR, du bist mein Gott, dich preise ich … Denn du hast Wunder getan.“ (Jes 25,1) Anders ausgedrückt: Es ist ein Hinweis auf die wunderbaren Handlungen und die rettenden Taten des mächtigen Gottes.
+
+Der andere Bezug auf den Messias in Jesaja 9 lautet „Ratgeber“. Der hebräische Begriff yôʿeṣ spiegelt die Vorstellung von jemandem wider, „der immer weiß, was zu tun ist“. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 2, S. 403) Der Ausdruck hat die Bedeutung eines klugen Mannes, eines Beraters und/oder einer Person, die richtig führt. Es ist der Gedanke aus Jesaja 1,26: „Ich will deine Richter wiederherstellen wie in der ersten Zeit und deine Ratgeber wie im Anfang.“ (EB)
+
+Schließlich untersuchen wir den Ausdruck „starker Gott“ (ʾel gibbôr). Der Ausdruck gibbôr wird mit Macht und Tapferkeit im Kampf in Verbindung gebracht. Ein Übersetzungsvorschlag lautet „Gott, die heroische Kraft“ oder „Gott der Held“. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 1, S. 172) Wir sehen diesen Gedanken in Jesaja 42,13 verkörpert: „Der HERR zieht aus wie ein Held, wie ein Kriegsmann kommt er in Eifer; laut erhebt er das Kampfgeschrei, zieht wie ein Held wider seine Feinde.“ John Oswalt kommentiert zu Recht: „Wo immer ʾēl gibbôr an anderer Stelle in der Bibel vorkommt, gibt es keinen Zweifel daran, dass sich der Begriff auf Gott bezieht.“ (The Book of Isaiah: Chapters 1–39, The New International Commentary on the Old Testament, S. 247)
+
+### TEIL III: ANWENDUNG
+
+`1. In den letzten Versen von Jesaja 8 heißt es, dass die Ratschläge Gottes für das Volk abgelehnt werden, weil es sich den Ratschlägen der Geisterbeschwörer zuwendet, was es in geistliche Finsternis führt. Gottes Barmherzigkeit verspricht jedoch, sein Volk daraus zu befreien und ihm eine hellere Zukunft zu geben. Gott ist der Einzige, der Dunkelheit in Licht verwandeln kann. Berichtet über ein Ereignis in eurem Leben, wo aus einem dunklen Umstand durch Gottes Vorsehung und sein Eingreifen eine hell leuchtende Erfahrung wurde.`
+
+`2. In Jesaja 2,5 rät Gott seinem Volk: „Kommt nun, ihr vom Hause Jakob, lasst uns wandeln im Licht des HERRN!“ Wie versteht ihr persönlich Jesu Rat in Johannes 8,12: „Ich bin das Licht der Welt. Wer mir nachfolgt, der wird nicht wandeln in der Finsternis, sondern wird das Licht des Lebens haben“ Was bedeutet es, „das Licht des Lebens“ zu haben`
+
+`3. Jesaja 9,5 beschreibt viele Merkmale des Messias, die mit seinem ewigen Reich in Verbindung stehen. Der Prophet schreibt: „Man nennt seinen Namen: Wunderbarer Ratgeber, starker Gott, Vater der Ewigkeit, Fürst des Friedens.“ (EB) Welches dieser Merkmale Gottes ist für euch am bedeutsamsten, und warum`
