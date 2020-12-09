@@ -78,7 +78,14 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "ka": [
-    "geo"
+    "geo",
+    "orthodox"
+  ],
+
+  "kn": [
+    "kanjv-bsi",
+    "kanirv",
+    "kcl-bsi"
   ],
 
   "lt": [
@@ -156,6 +163,15 @@ var BIBLE_PARSER_CONFIG = {
 
   "mk": [
     "MKB"
+  ],
+
+  "mg": [
+    "mbp"
+  ],
+
+  "ml": [
+    "malcl-bsi",
+    "mb1910"
   ],
 
   "ms": [
