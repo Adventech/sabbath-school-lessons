@@ -56,7 +56,7 @@ II: Wir studieren die Bibel
 
 ### [Zeit der Überraschung](https://sabbath-school.adventech.io/de/2020-04/12/zeit-der-überraschung/)
 
-**1.Mose 1 + 2**
+**1.Mose 2,1-3**
 
 -   Fragen zum Text:
     -   ...
