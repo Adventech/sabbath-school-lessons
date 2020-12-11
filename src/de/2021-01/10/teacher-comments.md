@@ -6,7 +6,7 @@ date:   05/03/2021
 **Studienschwerpunkt:**
 Jesaja 50; 52; 53
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Diese Studienanleitung untersucht die Botschaft, die sich auf den messianischen Knecht in Jesaja 50, 52 und 53 bezieht.
 
@@ -14,7 +14,7 @@ Die Gestalt des messianischen Knechts ist ein zentrales Thema im Buch Jesaja. Je
 
 In dieser Studienanleitung werden drei Hauptthemen untersucht: 1. der Herr als Knecht; 2. der Messias, der leidende Knecht; und 3. der Messias, der Erlöser und König.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Der Herr als Knecht**
 
@@ -76,7 +76,7 @@ Gott erlöst sein Volk nicht nur von Unterdrückung, Bedrängnis und der Verskla
 
 Der Adventistische Bibelkommentar stellt dazu fest: „Die Befreiung, die hier vorhergesagt wird, bezieht sich auf zweierlei: zuerst auf die Befreiung des buchstäblichen Israels von den Völkern, die sie unterdrückten (siehe [die Erläuterungen] zu Jes 40,1; 44,28–45,13), und dann auf die größere Befreiung von Sünde und allem Bösen durch den leidenden Gottesknecht (siehe [die Erläuterungen] zu Kap 41,8; 42,1) aus Kap 53, d. h. den Messias … Seine Macht, sein Volk zu retten, und der spätere Sieg des Evangeliums beweisen, dass er und nicht Satan regiert.“ (Bd. 4, S. 404)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 `1. In dieser Lektion haben wir uns mit dem Messias als dem leidenden Gottesknecht befasst. Was glaubt ihr, warum sich Gott entschieden hat, sich uns als Knecht zu offenbaren? Lest Jesaja 52 und 53, um einige Anregungen zu bekommen.`
 

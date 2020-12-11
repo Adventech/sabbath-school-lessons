@@ -6,11 +6,11 @@ date:   15/01/2021
 **Studienschwerpunkt:**
 Jesaja 7,1–9
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 In Jesaja 7 betritt ein anderer König die Szene. Diesmal ist der Protagonist König Ahas, der Enkel von Usija. Seine Herrschaft führt die Nation zu Abscheulichkeiten, die von den umliegenden Nationen begangen werden. Als die Könige von Aram und Israel Krieg gegen seine Nation führen, wird Ahas so von Furcht übermannt, dass ihm Gott durch den Propheten Jesaja eine Botschaft sendet, um ihn zu ermutigen, auf ihn [Gott] zu vertrauen: Die Pläne dieser Nationen werden nicht gelingen. Aber Ahas muss glauben, sonst wird er die Befreiung Israels durch Gott nicht erleben. Diese Studienanleitung ist in drei Abschnitte unterteilt, die wie folgt lauten: 1. das Problem von König Ahas; 2. Gott kümmert sich um den König; 3. Schau still zu.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Das Problem von König Ahas**
 
@@ -39,7 +39,7 @@ Die Ermahnungen und Verheißungen von Vers 4 bis zum Ende des Abschnitts
 
 Unter bestimmten Umständen im Leben ist nicht das, was in unserem Umfeld geschieht, noch das, was unsere Wahrnehmung erfassen kann, das Wichtigste, sondern das, was in unserem Inneren geschieht. Daher müssen wir um die Fähigkeit beten und sie kultivieren, aus der Perspektive Gottes zu verstehen, was um uns herum abläuft.
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 `1. König Ahas und sein Volk stehen vor großen Herausforderungen, als sie das Risiko eines Krieges mit der syro-ephraimitischen Allianz abschätzen. Manchmal bringt uns das Leben in bedrohliche Situationen. Welche wichtigen oder praktischen Schritte müssen wir unternehmen, um mit derartigen Umständen bestmöglich zurechtzukommen?`
 

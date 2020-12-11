@@ -6,7 +6,7 @@ date:   19/02/2021
 **Studienschwerpunkt:**
 Jesaja 40,1–3
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Das gesamte Buch Jesaja ist voller unterschiedlicher Botschaften über Gericht und die Nachricht von der Erlösung. Der erste Teil des Jesajabuchs befasst sich jedoch hauptsächlich mit der Botschaft von Gottes Gericht über Juda. Der zweite Hauptteil des Buches enthält Gottes Trostbotschaft für sein Volk. Kapitel 40, das direkt auf den ersten Hauptteil (Jesaja 1–39) folgt, dient als einleitender Abschnitt zu den folgenden Kapiteln.
 
@@ -14,7 +14,7 @@ Die Botschaft des Herrn beginnt mit einer der tröstlichsten und wohltuendsten B
 
 Der Autor spielt auf das Erleben der Israeliten in der Wüste an. Damals konnten weder Gottes Volk noch Mose die Herrlichkeit des Herrn sehen, aber jetzt wird „alles Fleisch miteinander … es sehen“ (V. 5). Diese Studienanleitung ist in drei Abschnitte unterteilt, die überschrieben sind mit: 1. von der Verwüstung zum Trost; 2. Bereitet den Weg; und 3. Die Herrlichkeit Gottes wird offenbart.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 _Von der Verwüstung zum Trost_
 
@@ -77,7 +77,7 @@ Der Zusammenhang zwischen den drei Passagen ist offensichtlich. Das erste Elemen
 
 Es ist für uns an diesem Punkt unseres Studiums hilfreich, festzustellen, dass der Ausdruck „die Herrlichkeit des Herrn“ in der Bibel mehr als eine Anwendung hat. In einigen Fällen bezieht sich die Herrlichkeit des Herrn auf JHWH selbst und seine Majestät, die nicht einmal Seraphim erfassen können, sowie auf seine verborgene Heiligkeit. In anderen Zusammenhängen jedoch, vor allem bei Jesaja, ist die Herrlichkeit des Herrn gleichbedeutend mit seinem Handeln, seiner Bedeutung und seinem Gewicht (wörtlich) inmitten seines Volkes. So verstärkt Jesaja den Gedanken des Ausdrucks kᵉḇôḏ JHWH. Er macht deutlich, dass Gottes Handeln (seine Befreiung oder Errettung) so real ist, als ob er selbst da wäre. Sein Versprechen, zugunsten seines Volkes zu handeln, muss als absolute Realität verstanden werden.
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 1. Gott hat in der Vergangenheit auf vielerlei Weise zu seinem Volk gesprochen, und auch heute spricht er weiterhin seine Botschaft des Trostes und der Vergebung seinem Volk zu.
 

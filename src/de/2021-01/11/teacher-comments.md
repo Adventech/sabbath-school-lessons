@@ -6,7 +6,7 @@ date:   12/03/2021
 **Studienschwerpunkt:**
 Jesaja 55
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Jesaja 55 ist ein einzigartiges Kapitel. Es hat vielen Menschen ein Verständnis davon vermittelt, wie Errettung allen Sündern geschenkt wird, die gerettet werden wollen. Bei der Erlösung geht es nicht so sehr darum, was Menschen tun; es geht darum, was Gott durch den Knecht des Herrn für sie getan hat.
 
@@ -16,7 +16,7 @@ In dieser Studienbetrachtung geht es um die beiden wichtigen Ausdrücke „leben
 
 Die drei Themen, die untersucht werden, sind: 1. Barmherzigkeit für alle; 2. der Weg zum wahren Leben; und 3. Kehrt um zu dem HERRN.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Barmherzigkeit für alle**
 
@@ -78,7 +78,7 @@ B. damit er sich seiner erbarmt.\
 A’. Ja, bekehrt euch zu unserem Gott,\
 B’. denn bei ihm ist viel Vergebung.“ (NLB)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 `1. Hört zu oder hört sind Imperativverben, die die Bibel oft verwendet, um Gottes Rat an sein Volk durch seine Boten zu formulieren. Zum Beispiel lesen wir in 5. Mose 4,1: „Und nun höre, Israel, die Gebote und Rechte, die ich euch lehre, dass ihr sie tun sollt, auf dass ihr lebt und hineinkommt und das Land einnehmt, das euch der HERR, der Gott eurer Väter, gibt.“ Welche Erfahrungen habt ihr mit dem Zuhören und Hören des Wortes Gottes gemacht?`
 

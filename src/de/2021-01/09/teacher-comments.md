@@ -6,7 +6,7 @@ date:   26/02/2021
 **Studienschwerpunkt:**
 Jesaja 41
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Zwischen Jesaja 1 und 41 besteht eine Verbindung. Wir sehen sie in dem Aufruf an Juda in Jesaja 1,18: „So kommt denn und lasst uns miteinander rechten.“ Jesaja 41,1 (EB) bringt eine ähnliche Einladung zum Ausdruck: „Lasst uns miteinander vor Gericht treten!“ In diesem Fall umfasst die Einladung jedoch einen breiteren Bereich und damit auch ein größeres Ereignis: „die Enden der Erde“ (V. 5).
 
@@ -18,7 +18,7 @@ Der Herr wird in Kapitel 41 auf vielfältige Weise beschrieben: „der Heilige I
 
 In dieser Studienanleitung werden drei Hauptthemen untersucht: 1. der Gott des Bundes; 2. Gott und andere Titel; und 3. Israel, der Knecht.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Der Gott des Bundes**
 
@@ -71,7 +71,7 @@ Jesaja 41,8 beinhaltet viele wichtige Aussagen über den Knecht:
 
 Alec Motyer identifiziert in diesem Vers vier Merkmale des Dieners: „Erstens, dass Israel durch göttliche Wahl zum Knecht des Herrn wurde (Jes 41,8b.9d; Eph 1,4); zweitens, dass die Beziehung mit Abraham begann. Mein Freund (2 Chr 20,7; [Jak] 2,23) ist buchstäblich ‚mein Liebender‘/‚der mich liebte‘. Drittens sagt er uns, dass die Ausdehnung der Bundesverheißung auf die Nachkommen Abrahams (wörtlich: ‚Same‘, 1 Mo 17,7) immer noch gilt (euch erwählt … nicht verworfen); und viertens zeigte Gott in seiner Wahl und Berufung Abrahams, dass seine Macht bis an die Enden der Erde … bis in die entferntesten Winkel reicht. In all dem gibt es nichts, was der Knecht irgendwie tun könnte; nur, dass Israel einen ehrenhaften Status hat.“ (J. Alec Motyer, Isaiah: An Introduction and Commentary, Tyndale Old Testament Commentaries, Downers Grove, Illinois 1999, Bd. 20, S. 286)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 1. Unser Gott wird in der Bibel auf vielfältige Weise dargestellt. Er ist der große ʾᵉlōhim, der Herrscher des Universums und der transzendente Gott. Gott ist aber auch ein persönlicher Gott, und um dies zu zeigen, verwenden die biblischen Autoren den Namen JHWH, der Herr. JHWH ist der Gott des Bundes, der Gott des persönlichen Umgangs mit den Menschen.
 

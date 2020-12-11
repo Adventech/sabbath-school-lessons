@@ -6,11 +6,11 @@ date:   22/01/2021
 **Studienschwerpunkt:**
 Jesaja 7; 8
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Jesaja 7 und 8 bilden eine Einheit im Urteil gegen Juda (einschließlich Aram und Israel). Der letzte Abschnitt von Jesaja 7 (17–23) befasst sich mit den Feinden der Nation Juda. Hier sehen wir winzige Lebewesen, die Fliege und die Biene, als Symbole für fremde Völker und ebenso von Gott beauftragte Werkzeuge für die zukünftige Niederwerfung von Gottes Volk. Diese Kapitel bezeugen auch, dass Gott Juda viele Hinweise auf sein bevorstehendes Gericht sandte, zum Beispiel den Namen des Sohnes Jesajas. Gott bittet Jesaja als klare Ankündigung der kommenden Ereignisse, den Namen seinen Sohns, Maher-Schalal-Hasch-Baz, den Namen von Jesajas Kind, auf eine große Tafel aufzuschreiben. Der erste Teil von Kapitel 8 zeigt, dass Aram, Israel und Juda wegen des Königs von Assyrien leiden werden. Konkret vertraut Juda zu dieser Zeit auf die Großmacht Assyrien und nicht auf Gott, sodass das finstere Zeitalter ebenfalls über sie kommen wird. Diese Studienanleitung gliedert sich in drei Abschnitte, die wie folgt lauten: 1. Die Feinde kommen; 2. Die befreundete Nation kommt über Juda; und 3. das Vertrauen in den Heiligen.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Die Feinde kommen**
 
@@ -36,7 +36,7 @@ Im letzten Teil dieses Abschnitts ermahnt Gott seine treuen Gläubigen zu jener 
 
 In diesem Zusammenhang kommentiert Ellen White: „Aber in Juda lebten einige, die ihre Treue zum Herrn hochhielten und es standhaft ablehnten, sich zum Götzendienst verleiten zu lassen. Auf diese setzten Jesaja, Micha und ihre Gefährten ihre Hoffnung, als sie den Verfall während der letzten Jahre des Ahas betrachteten. Zwar war ihr Heiligtum geschlossen, dennoch wurde den Treuen zugesichert: ‚Gott ist mit uns! … Erachtet nichts außer dem Herrn, dem Allmächtigen, als heilig. Ihn sollt ihr fürchten, und vor ihm sollt ihr Ehrfurcht haben. So wird er [für euch] ein Heiligtum sein.‘ (Jesaja 8,10c.13.14a NLB)“ (MUO 223)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 `1. Wir erfahren, dass König Ahas es vorzieht, auf ein assyrisches Bündnis zu vertrauen, statt in Gottes Verheißung zu ruhen. Menschen verlassen sich leicht auf menschliches Eingreifen statt auf Gottes Wirken. Warum fällt es Gläubigen manchmal schwer, in Krisenzeiten an Gottes Verheißungen zu glauben? Denkt als Teilantwort über 2. Chronik 28,22 nach: „In seiner Bedrängnis verhielt sich König Ahas sogar noch treuloser gegenüber dem Herrn.“ (NLB)`
 

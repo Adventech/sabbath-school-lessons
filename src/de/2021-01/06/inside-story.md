@@ -3,7 +3,7 @@ title:  Mit Gott erlebt
 date:   05/02/2021
 ---
 
-### Das fehlende Gebot
+#### Das fehlende Gebot
 
 _Andrew McChesney, Adventist Mission_
 

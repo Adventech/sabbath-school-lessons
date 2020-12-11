@@ -6,13 +6,13 @@ date:   29/01/2021
 **Studienschwerpunkt:**
 Jesaja 9
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Der Tenor des letzten Abschnitts von Jesaja 8 lautet, dass Israel das Licht ablehnt (V. 19–22). Es wandelt in einem solchen Ausmaß in der Finsternis, dass es sogar Geisterbeschwörer konsultiert. Jesaja 9 führt das Lichtmotiv im Gegensatz zu Israels geistlicher Finsternis ein. Israel wird ein „großes Licht“ sehen, und „Licht leuchtet über ihnen“ (V. 1 EB). Das Licht in diesem Kapitel ist nicht nur ein Hinweis auf die Herrlichkeit Gottes, der sein Volk aus dunklen Verhältnissen herausführen wird; dieser Ausdruck kann auch als Hinweis auf den kommenden Messias oder als Symbol für ihn verstanden werden. Der Messias wird mit verschiedenen Eigenschaften beschrieben: „Er heißt Wunder-Rat, Gott-Held, Ewig-Vater, Friede-Fürst.“ (V. 5) Alle Namen bzw. Merkmale des Wesens des Messias werden in der Bibel und insbesondere im Buch Jesaja besonders hervorgehoben.
 
 In dieser Studienbetrachtung werden drei Hauptthemen untersucht: 1. von der Finsternis zum Licht; 2. der Messias als das Licht der Welt; und 3. das Wesen des Messias.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Von der Finsternis zum Licht**
 
@@ -38,7 +38,7 @@ Der andere Bezug auf den Messias in Jesaja 9 lautet „Ratgeber“. Der hebräis
 
 Schließlich untersuchen wir den Ausdruck „starker Gott“ (ʾel gibbôr). Der Ausdruck gibbôr wird mit Macht und Tapferkeit im Kampf in Verbindung gebracht. Ein Übersetzungsvorschlag lautet „Gott, die heroische Kraft“ oder „Gott der Held“. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 1, S. 172) Wir sehen diesen Gedanken in Jesaja 42,13 verkörpert: „Der HERR zieht aus wie ein Held, wie ein Kriegsmann kommt er in Eifer; laut erhebt er das Kampfgeschrei, zieht wie ein Held wider seine Feinde.“ John Oswalt kommentiert zu Recht: „Wo immer ʾēl gibbôr an anderer Stelle in der Bibel vorkommt, gibt es keinen Zweifel daran, dass sich der Begriff auf Gott bezieht.“ (The Book of Isaiah: Chapters 1–39, The New International Commentary on the Old Testament, S. 247)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 `1. In den letzten Versen von Jesaja 8 heißt es, dass die Ratschläge Gottes für das Volk abgelehnt werden, weil es sich den Ratschlägen der Geisterbeschwörer zuwendet, was es in geistliche Finsternis führt. Gottes Barmherzigkeit verspricht jedoch, sein Volk daraus zu befreien und ihm eine hellere Zukunft zu geben. Gott ist der Einzige, der Dunkelheit in Licht verwandeln kann. Berichtet über ein Ereignis in eurem Leben, wo aus einem dunklen Umstand durch Gottes Vorsehung und sein Eingreifen eine hell leuchtende Erfahrung wurde.`
 

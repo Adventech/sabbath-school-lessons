@@ -6,7 +6,7 @@ date:   19/03/2021
 **Studienschwerpunkt:**
 Jesaja 60
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Im prophetischen Genre geht es bei der göttlichen Offenbarung nicht nur darum, wie die Weissagungen in Relation zur Zeit des Propheten stehen, sondern auch darum, wie sich diese Vorhersagen auf die Zeit jenseits des unmittelbaren Kontexts beziehen, in dem sie gegeben werden. Die Erfüllung der prophetischen Verkündigung ist oft weit entfernt vom prophetischen Dienst des Propheten. Im Fall von Jesaja 60 wird die Botschaft im Zusammenhang mit der künftigen Wiederherstellung Judas aus dem babylonischen Exil gegeben. Diese Botschaft hat jedoch auch eine zukünftige Anwendung auf das glorreiche Ereignis der Wiederherstellung der Erlösten am Ende der Zeit.
 
@@ -14,7 +14,7 @@ Jesaja 60 stellt eine der eher optimistischen Botschaften des Buches dar. Diese 
 
 Die drei Hauptthemen, die in dieser Studienanleitung untersucht werden, sind 1. Steh auf und leuchte!; 2. die Leuchtkraft der Stadt; und 3. der Gesalbte.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Steh auf und leuchte!**
 
@@ -67,7 +67,7 @@ In Bezug auf dieses Kapitel bemerkte Ellen White: „Das 61. Kapitel im Buch Jes
 
 In einem anderen Abschnitt des Buches liefert Ellen White einige Einzelheiten über Jesu Gebrauch von Jesaja 51 in dieser Predigt in Nazareth. „Als Jesus in der Synagoge aus den Schriften der Propheten vorlas, hielt er kurz vor der letzten Aussage über das Werk des Messias inne. Nach den Worten ‚zu verkündigen ein gnädiges Jahr des Herrn‘ brach er ab und ließ die folgenden Worte ‚und einen Tag der Vergeltung unseres Gottes‘ aus (Jesaja 61,2). Diese letzte Aussage ist ebenso wahr wie der erste Teil der Prophetie. Durch sein Schweigen leugnete Jesus diese Wahrheit keineswegs. Doch diese letzten Worte waren gerade jene, bei denen seine Zuhörer so gern verweilten und deren Erfüllung sie herbeisehnten. Mit diesen Worten drohten sie den Heiden Gottes Gericht an, ohne zu bedenken, dass ihre eigene Schuld noch größer war als die der anderen. Die Barmherzigkeit, die sie den Heiden so gern verweigerten, hatten sie selbst am nötigsten. An jenem Tag in der Synagoge, als Jesus mitten unter ihnen war, hatten sie die Möglichkeit, den Ruf des Himmels anzunehmen. Er, der ‚sich freut, wenn er barmherzig sein kann‘ (Micha 7,18 NLB), hätte sie gern aus dem Verderben gerettet, das ihre Sünde nach sich zog.“ (SDL 222)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 1. Gott will uns in seinem Sohn verherrlichen und unsere Stellung als Kinder seines Reichs wiederherstellen. Wenn wir in diese Stellung zurückversetzt sind, möchte er, dass wir sein Wesen widerspiegeln. Nationen und Menschen müssen Gottes Herrlichkeit durch sein Volk sehen.
 

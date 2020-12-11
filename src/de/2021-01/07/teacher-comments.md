@@ -6,7 +6,7 @@ date:   12/02/2021
 **Studienschwerpunkt:**
 Jesaja 36; 37; 38
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Im ersten Abschnitt von Jesaja 36 (V. 1–10) sehen wir, dass der Befehlshaber von Assyrien, der Rabschake, versucht, das Volk von Juda so zu täuschen, dass es der Botschaft des Königs von Assyrien glaubt. Er versucht, die Führer von Juda davon zu überzeugen, nicht auf Gott zu vertrauen.
 
@@ -14,7 +14,7 @@ Jesaja 37 zeigt König Hiskia, wie er wegen der schlechten Nachrichten trauert, 
 
 Nach Jesaja 38 wird König Hiskia krank, und Gott informiert ihn durch den Propheten Jesaja über seinen bevorstehenden Tod. König Hiskia fleht zu Gott, und Gott antwortet ihm mit der Zusage von weiteren 15 Lebensjahren. Während dieser schweren Zeit schreibt Hiskia einen wunderschönen Psalm, in dem er seine Gedanken über Gott und seine dunkle Erfahrung zum Ausdruck bringt. Diese Studienanleitung befasst sich mit drei Hauptthemen: 1. Auf wen sollen wir uns verlassen?; 2. Warum sollte man Gott vertrauen?; und 3. Gott und persönliche Notlagen.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Auf wen sollen wir uns verlassen?**
 
@@ -50,7 +50,7 @@ Der Kommentator John Oswalt weist auf einige Schlüsselerkenntnisse in Bezug auf
 
 Der zweite Punkt ist eher implizit als explizit. Aber er ergibt sich aus einer Antwort auf die Frage, warum eine so nachdrückliche Aussage über Hiskias Sterblichkeit und Ohnmacht hier in das Buch aufgenommen werden sollte. Eine naheliegende Antwort ist der bewusste Versuch, deutlich zu machen, dass Hiskia nicht der verheißene Messias ist. Trotz seiner Fähigkeit, Gott zu vertrauen und seine Nation vom Rand des Untergangs zurückzuführen, ist er nicht das Kind, von dem Jesaja gesprochen hatte. Er hat das Vertrauen verkörpert, das unerlässlich ist, wenn die Nation Gott dienen soll, aber er ist nicht derjenige, in den dieses Vertrauen gesetzt werden soll. Eine umfassendere Offenbarung über diesen Einen (Kapitel 40–66) liegt noch vor uns.“ (The Book of Isaiah, Chapters 1–39, The New International Commentary on the Old Testament, S. 682)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 `1. Wem vertraut ihr? Manchmal, wie während der Regierungszeit Hiskias, wird unser Glaube auf die Probe gestellt, und wir haben die Wahl, auf Gott oder auf andere zu vertrauen. Wie kann eine Krise euch helfen, mehr auf Gott zu vertrauen?`
 

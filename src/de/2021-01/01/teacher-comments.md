@@ -6,16 +6,15 @@ date:   01/01/2021
 **Studienschwerpunkt:**
 Jesaja 1; 5
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Jesaja 1 bis 5 dient als Einführung in das Buch Jesaja. Es beschreibt nicht nur den üblen Zustand der israelitischen Gesellschaft im Allgemeinen, sondern auch ihren geistlichen Zustand. Die Konzentration auf den geistlichen Zustand Israels bildet den Schwerpunkt des Buches. Die Religion des Volkes Gottes hat Schaden genommen.
 
 Gibt es Hoffnung in einer solchen Situation? Ja, es gibt Hoffnung. Das ist der Grund, warum manche das Buch Jesaja als das Evangelium des Alten Testaments bezeichnen. Jesaja 1,2 bezeugt, dass Gott sein Volk ins Leben gerufen hat: „Ich habe Kinder großgezogen und hochgebracht.“ Durch die bildliche Sprache vom Weinberg beschreibt Jesaja 5 die Fürsorge Gottes für seine Kinder: „Und er grub ihn um und entsteinte ihn und pflanzte darin edle Reben. Er baute auch einen Turm darin und grub eine Kelter und wartete darauf, dass er gute Trauben brächte; aber er brachte schlechte. Was sollte man noch mehr tun an meinem Weinberg, das ich nicht getan habe an ihm?“ (V. 2.4)
 
-Gott hält sich wegen seines liebevollen Wesens selbst davon ab, sein Volk zu vernichten. Durch den Propheten Hosea, einen Zeitgenossen Jesajas, beschreibt Gott seine innere Angst und seine Aufgebrachtheit darüber, dass sein Volk rückfällig geworden war: „Wie kann ich dich preisgeben, Ephraim, dich ausliefern, Israel? Wie kann ich dich preisgeben gleich Adma und dich zurichten wie Zebojim? Mein Herz wendet sich gegen mich, all mein Mitleid ist entbrannt.“ (Hos 11,8) Gott wird ein weiteres Mal versuchen, sein Volk zu sich zurückzubringen. Seine Botschaft erspart Israel klare Worte über seinen sündigen Zustand nicht. So appelliert er immer wieder deutlich an sie, zu ihm zurückzukehren. Aus diesem Grund sagt Gott: „Der HERR hat geredet.“ (Jes 1,2 EB) Vor diesem Hintergrund werden in der Studienbetrachtung dieser Woche drei Hauptthemen untersucht: 1. der Ausspruch „Der HERR hat geredet“; 2. das Thema der sündigen Nation; und ٣. die Einladung „Kommt … wenn ihr willig seid“
-(V. 18–19 EB).
+Gott hält sich wegen seines liebevollen Wesens selbst davon ab, sein Volk zu vernichten. Durch den Propheten Hosea, einen Zeitgenossen Jesajas, beschreibt Gott seine innere Angst und seine Aufgebrachtheit darüber, dass sein Volk rückfällig geworden war: „Wie kann ich dich preisgeben, Ephraim, dich ausliefern, Israel? Wie kann ich dich preisgeben gleich Adma und dich zurichten wie Zebojim? Mein Herz wendet sich gegen mich, all mein Mitleid ist entbrannt.“ (Hos 11,8) Gott wird ein weiteres Mal versuchen, sein Volk zu sich zurückzubringen. Seine Botschaft erspart Israel klare Worte über seinen sündigen Zustand nicht. So appelliert er immer wieder deutlich an sie, zu ihm zurückzukehren. Aus diesem Grund sagt Gott: „Der HERR hat geredet.“ (Jes 1,2 EB) Vor diesem Hintergrund werden in der Studienbetrachtung dieser Woche drei Hauptthemen untersucht: 1. der Ausspruch „Der HERR hat geredet“; 2. das Thema der sündigen Nation; und ٣. die Einladung „Kommt … wenn ihr willig seid“ (V. 18–19 EB).
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **„Der HERR hat geredet“**
 
@@ -45,7 +44,7 @@ Der Weg zurück zu Gott beginnt mit einem Appell an sein Volk, die eigene gegenw
 
 Nachdem Gott sein Volk angefleht hat, den eigenen Zustand zu erkennen, appelliert er wie folgt an sie: „So kommt denn und lasst uns miteinander rechten.“ (V. 18) Der Ausdruck „miteinander rechten“ stammt vom hebräischen Verb niwāḵᵉḥâ und impliziert den Begriff eines Rechtsstreits; beide Streitparteien, JHWH und das Volk, können ihre Beschwerden gemeinsam diskutieren. Er suggeriert auch die Vorstellung, im Recht sein zu können. (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 1, S. 134) Anders ausgedrückt: Gott ruft sein Volk auf, sich selbst zu rechtfertigen. Aber wie kann das für eine so sündige Nation überhaupt möglich sein? Gott schlägt die Lösung vor: „Wenn eure Sünde auch blutrot ist, soll sie doch schneeweiß werden, und wenn sie rot ist wie Purpur, soll sie doch wie Wolle werden.“ (Jes 1,18) Das heißt, der Gott, den Jesaja im ersten Kapitel seines Buches vorstellt, ist der Einzige, der sein Volk reinigen und rechtfertigen kann. Micha, ein weiterer Prophet und Zeitgenosse Jesajas, fragt sich: „Wo ist solch ein Gott, wie du bist, der die Sünde vergibt und erlässt die Schuld denen, die geblieben sind als Rest seines Erbteils?“ (Mi 7,18) Dieses Geschenk der Vergebung kann jedoch angenommen oder abgelehnt werden. So stellt der Herr nach dem Angebot in Jesaja 1,18 klar, dass ein neues Leben nur möglich ist, wenn sie einverstanden oder „willig“ sind (V. 19 EB). Somit ist in diesem Zusammenhang die Botschaft des folgenden Gleichnisses in Jesaja 5 besser verständlich: „Nun richtet, ihr Bürger zu Jerusalem und ihr Männer Judas, zwischen mir und meinem Weinberg! Was sollte man noch mehr tun an meinem Weinberg, das ich nicht getan habe an ihm?“ (V. 3–4)
 
-### TEIL III: ANWENDUNG
+### Teil III: Anwendung
 
 1. Das erste Thema, das wir in dieser Studienbetrachtung behandelt haben, bezieht sich auf das offenbarte Wort Gottes. Wir haben in der Bibel ein völlig gewisses prophetisches Wort (2 Ptr 1,19 SLT). Wenn wir also die Bibel studieren, studieren wir nicht ein gewöhnliches Buch, sondern das offenbarte Wort Gottes – das Wort, das Gott gesprochen hat.
 

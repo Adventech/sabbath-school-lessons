@@ -6,7 +6,7 @@ date:   05/02/2021
 **Studienschwerpunkt:**
 Jesaja 13; 14; 24–27
 
-### TEIL I: ÜBERSICHT
+### Teil I: Übersicht
 
 Jesaja 13 und 14 untersuchen den Gerichtsgedanken, einschließlich des Motivs des Tags des Herrn. Das Gericht ist eine göttliche Initiative, die die Ankündigung einer Ära der Bedrängnis oder den Beginn eines neuen Zeitalters freudigen Erlebens bringen kann. Das Gericht kann über eine fremde Nation (wie es in Jesaja 13 und 14 geschieht) oder über Gottes Volk kommen. Jesaja 24 sagt uns, dass das Gericht Gottes allgemein gilt. Jesaja 25 und 26 sind Teil eines Liedes, das die Wiederherstellung Judas ankündigt, aber auch eschatologische Bedeutung für die Erlösten am Ende der Zeit hat.
 
@@ -14,7 +14,7 @@ Kapitel 25 wurde in drei Abschnitte unterteilt: 1. Lob Gottes für den Sieg (V. 
 
 In dieser Studienanleitung werden drei Hauptthemen untersucht: 1. Gottes Gericht; 2. die Gewissheit des Sieges; und 3. die treue Nation.
 
-### TEIL II: KOMMENTAR
+### Teil II: Kommentar
 
 **Gottes Gericht**
 
@@ -50,7 +50,7 @@ Zusätzlich liefern diese Verse in Jesaja 26 weitere Einzelheiten über die Merk
 
 Jesaja 26,7 führt ein neues Wort (in diesem Fall ein Adjektiv) ein, um die Erlösten zu beschreiben. Es handelt sich um den hebräischen Ausdruck yāšār, der einen „rechtschaffenen oder gerechten (Menschen)“ beschreibt (Ludwig Koehler und Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, Bd. 2, S. 450). Jesaja 26,7 sagt: „Des Gerechten Weg ist eben, den Steig des Gerechten machst du gerade.“ Jesaja 26,8–9 enthält weitere Elemente vom Erleben jenes treuen Volkes, das in die erlöste Stadt eingehen wird: „Auch auf dem Weg deiner Gerichte, HERR, harrten wir auf dich; auf deinen Namen und dein Gedenken war das Verlangen der Seele gerichtet. Meine Seele verlangte nach dir in der Nacht, ja, mein Geist in mir suchte dich.“ (SLT)
 
-#### TEIL III: ANWENDUNG
+#### Teil III: Anwendung
 
 `1. Die Gerichtsszenerie erscheint vielen ziemlich erschreckend und schlimm. Doch oft treibt die Furcht vor dem bevorstehenden Gericht die Menschen dazu, Gott zu suchen und sich schließlich auf den Weg der Errettung zu begeben. Welche Lehre können wir aus den Gerichtsszenen im Buch Jesaja ziehen? Lest für eure Antwort insbesondere Jesaja 24.`
 

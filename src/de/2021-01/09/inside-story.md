@@ -3,7 +3,7 @@ title:  Mit Gott erlebt
 date:   26/02/2021
 ---
 
-### Adventgemeinde in der Garage
+#### Adventgemeinde in der Garage
 
 _Andrew McChesney, Adventist Mission_
 

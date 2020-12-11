@@ -3,7 +3,7 @@ title:  Mit Gott erlebt
 date:   19/02/2021
 ---
 
-### Sieben kleine Menschenfischer
+#### Sieben kleine Menschenfischer
 
 _Andrew McChesney, Adventist Mission_
 

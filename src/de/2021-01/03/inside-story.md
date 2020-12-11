@@ -3,7 +3,7 @@ title:  Mit Gott erlebt
 date:   15/01/2021
 ---
 
-### Das schwimmende rote Buch
+#### Das schwimmende rote Buch
 
 _Andrew McChesney, Adventist Mission_
 

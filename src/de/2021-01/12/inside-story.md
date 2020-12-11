@@ -3,7 +3,7 @@ title:  Mit Gott erlebt
 date:   19/03/2021
 ---
 
-### „Jetzt möchte ich eine Gemeinde gründen!“
+#### „Jetzt möchte ich eine Gemeinde gründen!“
 
 _Andrew McChesney, Adventist Mission_
 
