@@ -52,33 +52,43 @@ II: Wir studieren die Bibel
 **Einstiegsfrage**
 
 -   Welche Erfahrung über den Sabbat fandet ihr am wichtigsten für euer
-    Verständnis und Halten des Sabbats?
+    Verständnis und das Halten des Sabbats?
+-   Welche Gedanken kommen euch, wenn ihr an Sabbat denkt?
 
 ### [Zeit der Überraschung](https://sabbath-school.adventech.io/de/2020-04/12/zeit-der-überraschung/)
 
 **1.Mose 2,1-3**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was bedeutet die Aussage, dass Gott den Sabbat “segnete u.
+        heiligte”?
+    -   Warum erwähnt der Text die Ruhe Gottes nach Schaffung der Erde?
+        Musste Gott ruhen?
+    -   Wie haben wohl Adam u. Eva den ersten Sabbat verbracht? Wie
+        haben sie ihn erlebt?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was findet ihr besonders am Sabbat?
+    -   Welche Bedeutung hat die Heiligung des Sabbats für die Menschen?
+    -   Wie erleben wir den Sabbatsegen?
+    -   Wie können wir den Sabbat als Geschenk Gottes neu entdecken?
 
 ### [Zeit zum Wiederentdecken](https://sabbath-school.adventech.io/de/2020-04/12/zeit-zum-wiederentdecken/)
 
 **2.Mose 16,14-29**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was zeigt euch die Erfahrung vom Manna in Bezug auf die
+        Beziehung zwischen Gott und Volk Israel?
+    -   Warum sollten die Israeliten jeden Tag von neuem (ausser
+        Sabbats) Manna sammeln?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Sprecht über den Satz (Lektion, S.142): “Der Sabbat war ein Weg,
+        wie Gott den Israeliten half, ihre Identität und ihren Gott
+        wiederzuentdecken.” Welche Beziehung besteht zwischen Sabbat und
+        Identität?
+    -   Warum ist der Sabbat nicht nur eine Verordnung sondern auch ein
+        Bedürfnis? Wie kann der Sabbat eure Bedürfnisse stillen?
+    -   Was hat euch die Geschichte vom Manna zu sagen?
 
 ### [Zeit zum Lernen, Prioritäten zu setzen](https://sabbath-school.adventech.io/de/2020-04/12/zeit-zum-lernen-prioritäten-zu-setzen/)
 
