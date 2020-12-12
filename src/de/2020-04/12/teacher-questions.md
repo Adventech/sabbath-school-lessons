@@ -92,42 +92,62 @@ II: Wir studieren die Bibel
 
 ### [Zeit zum Lernen, Prioritäten zu setzen](https://sabbath-school.adventech.io/de/2020-04/12/zeit-zum-lernen-prioritäten-zu-setzen/)
 
-**Jesaja 58,1-14**
+**Jesaja 58,1.2.13.14**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was hat Gott bewegt, dass er Jesaja bittet seine Worte “laut zu
+        rufen” und “seine Stimme zu erheben”?
+    -   Warum spricht Gott über Übertretungen (vs.1+2), wenn es in dem
+        Kapitel übers Fasten u. Sabbat geht?
+    -   Was meint Gott mit dem Ausdruck “den Sabbat eine Lust nennen”?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Woher weiß man, was am Sabbat richtig und gut ist und was nicht
+        mehr dem entspricht, wie Gott sich die Sabbatheiligung gedacht
+        hat?
+    -   Wann steht man in der Gefahr, den Sabbat gesetzlich zu
+        gestalten?
+    -   Wie müsste ein “gesegneter Sabbat” für euch aussehen?
+    -   Wie kann der Sabbat immer wieder neu zu etwas Besonderem werden
+        und nicht in Routine erstarren?
 
 ### [Zeit, um ins Gleichgewicht zu kommen](https://sabbath-school.adventech.io/de/2020-04/12/zeit-um-ins-gleichgewicht-zu-kommen/)
 
-**Matthäus 12,1-13; Lukas 13,10-17**
+**Matthäus 12,1-13; Lukas 13,10-17; Markus 2,27**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was war am Ährenlesen für die Juden falsch?
+    -   Was wollte Jesus den Pharisäern mit dem Satz “Hier ist Größeres
+        als der Tempel” sagen? (Mat 12,6)
+    -   Eines der wichtigsten Sätze über den Sabbat ist der von Jesus:
+        “Denn der Menschensohn ist auch Herr über den Sabbat!” Sprecht
+        über diese Aussage.
+    -   Warum war das Heilen am Sabbat für die Obersten der Juden ein
+        Problem?
+    -   Was meint Jesus mit dem Satz: “Der Sabbat ist für den Menschen
+        gemacht...”? Warum hat das Jesus besonders betont?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Lehre erteilte Jesus den Obersten der Juden durch seine
+        Sabbatheilung?
+    -   Welche Beziehung zwischen “körperlich gesund werden” und dem
+        Sabbat? Warum heilte Jesus AUCH am Sabbat? Was bewegte Jesus
+        dabei?
+    -   Was bedeutet es euch, dass der Sabbat für jeden einzelnen
+        gemacht wurde?
 
 ### [Zeit für Gemeinschaft](https://sabbath-school.adventech.io/de/2020-04/12/zeit-für-gemeinschaft/)
 
-**Apostelgeschichte 13,14-45**
+**Apostelgeschichte 13,13-15.43-45**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Gründe hatten Paulus und seine Gefährten bewogen, am
+        Sabbat in die jüdische Synagoge zu gehen?
+    -   Warum ist es wichtig zu jeder Gelegenheit Zeugnis für Gott
+        abzulegen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wo liegen die positiven Seiten aber auch die Gefahren, den
+        Sabbat nur individuell zu heiligen/feiern?
+    -   Welche Vorteile hat eine gemeinschaftliche Sabbatgestaltung?
+        Gibt es auch Nachteile?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
