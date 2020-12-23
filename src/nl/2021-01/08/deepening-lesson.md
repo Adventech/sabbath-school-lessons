@@ -1,7 +1,7 @@
- ---
- title: Verdieping
- date: 20/02/2021
- ---
+---
+title: Verdieping
+date: 20/02/2021
+---
 
 ### ‘Troost mijn volk’
 
