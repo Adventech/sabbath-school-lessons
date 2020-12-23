@@ -21,7 +21,7 @@ Jesaja 40:1-11
 De Bijbelse geschiedenis leert ons dat het volk Israël nogal wat tegenslagen heeft gekend. De meest bekende is toch wel het slavenbestaan in Egypte. Ten tijde van Mozes kwam daar eindelijk verandering in, de belofte van redding werd werkelijkheid. Vergelijkbaar met die situatie is de toestand waar de profeet Jesaja over spreekt. Het volk van God werd door de Babyloniërs in ballingschap weggevoerd nadat het Zuidrijk Juda onder de voet was gelopen. Zelfs Jeruzalem en de tempel werden verwoest. Toch zou ook deze situatie niet blijven bestaan. God is voornemens het volk uit de ballingschap te bevrijden. Er komt een einde aan de Babylonische overheersing en het volk zal terugkeren naar Sion (Jeruzalem). Jesaja spreekt woorden van troost en bemoediging. De straf zit erop. Nu is het tijd voor bevrijding en een nieuw begin.
 
 #### Gespreksvragen naar aanleiding van de tekst 
-`God was boos op het volk en straft hun ongehoorzaamheid. Is boos het tegenover- gestelde van liefde? Licht je antwoord toe.`
+`God was boos op het volk en straft hun ongehoorzaamheid. Is boos het tegenovergestelde van liefde? Licht je antwoord toe.`
 
 `Lees vers 1-2. Wie is er nu eigenlijk aan het woord? Wat is de boodschap in vers 1 en wat houdt dat concreet in?`
 

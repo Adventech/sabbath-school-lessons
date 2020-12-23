@@ -49,7 +49,7 @@ De verzen 1-4 gebruiken verschillende beelden om deze bijzondere dienaar te kara
 
 `Er lijkt een tegenstelling te bestaan tussen het begin van vers 2 waar hij ‘niet schreeuwt” noch ‘zijn stem verheft in het openbaar’ en het slot van vers 4 waarin wordt gezegd dat hij ‘ongebroken en vol vuur . . . het recht op de aarde zal vestigen.’ Hoe kun je de boodschap verspreiden als die niet luidkeels wordt verkondigd? Hoe heeft Jezus dat gedaan? Ken je een voorbeeld van Jezus die zijn stem verheft?`
 
-`Vers 5 herinnert ons er uitgebreid aan dat God alles heeft geschapen. Waarom zo’n 09 uitweiding alvorens terug te keren naar het thema van de dienaar? Wij zijn ook geroepen om dienaren van God te zijn. Hoe belangrijk is het dat wij weten dat God aan het begin staat van alles?`
+`Vers 5 herinnert ons er uitgebreid aan dat God alles heeft geschapen. Waarom zo’n uitweiding alvorens terug te keren naar het thema van de dienaar? Wij zijn ook geroepen om dienaren van God te zijn. Hoe belangrijk is het dat wij weten dat God aan het begin staat van alles?`
 
 `In de verzen 6 en 7 vinden we een tegenstelling tussen licht en donker. De dienaar moet het licht brengen aan de naties en aan degenen die blind zijn en degenen bevrijden die opgesloten zitten in kerkers van duisternis. Zie je een verband met andere teksten die over blindheid of duisternis spreken? Wat voor betekenis heeft dit voor het dienstwerk van de Messias en ook van jouzelf?`
 

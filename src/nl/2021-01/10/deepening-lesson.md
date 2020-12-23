@@ -7,7 +7,7 @@ date: 06/03/2021
 Jesaja 52:13-53:12
 
 #### IJsbrekervraag 
-`Kun je bedenken wanneer jij je leven voor iemand anders zou geven? Zou jij tot orgaan- donatie overgaan wanneer dat een mensenleven zou redden?`
+`Kun je bedenken wanneer jij je leven voor iemand anders zou geven? Zou jij tot orgaandonatie overgaan wanneer dat een mensenleven zou redden?`
 
 #### Ik Verken 
 Dit Bijbelgedeelte bevat een korte beschrijving van het werk van Jezus Christus en van wat Hij onderging. Hij kwam naar de aarde als dienaar van zijn Vader, maar werd door mensen veracht, mishandeld en gedood, maar kreeg er nieuw leven en volgelingen voor terug. Zijn dood aan het kruis droeg kenmerken van oudtestamentische offers. In deze verzen staat hoe de dood van Jezus een offer zou zijn om de zonde en schuld van de mensen weg te nemen, een soort zond- en schuldoffer. Daarnaast heeft Jezus’ kruisdood ook kenmerken van een vredeoffer.
@@ -27,7 +27,7 @@ Het offer dat Jezus bracht, droeg het karakter van een zondoffer/reinigingsoffer
 
 `Als zondoffer, zie Matteüs 26:28; 1 Korintiërs 15:3; 2 Korintiërs 5:21; Hebreeën 9:28 en 13:11-12.`
 
-`Als schuldoffer, zie Matteüs 20:28; Marcus10:45; Johannes 1:29; 1 Petrus 2:24 en Open- baring 5:9.`
+`Als schuldoffer, zie Matteüs 20:28; Marcus10:45; Johannes 1:29; 1 Petrus 2:24 en Openbaring 5:9.`
 
 `Als vredeoffer, zie Efeziërs 2:14; Kolossenzen 1:20.`
 

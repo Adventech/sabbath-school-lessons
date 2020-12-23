@@ -14,8 +14,8 @@ date: 02/01/2021
 Jesaja 1:1-9
 
 **IJsbrekervraag**
-Stel dat iemand jou vra
-agt wie je bent, wat is dan je antwoord?
+
+`Stel dat iemand jou vraagt wie je bent, wat is dan je antwoord?`
 
 **Inspiratie**
 

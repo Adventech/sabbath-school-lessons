@@ -10,12 +10,12 @@ Jesaja 59:20-60:5
 `Ben je weleens in een situatie geweest dat je geen hand voor ogen kon zien? Zo ja, hoe heb je dat toen ervaren?`
 
 #### Ik Verken 
-Dit gedeelte is veelbelovend voor ‘allen uit Jakobs nageslacht’ (59:20). Ze worden aange- sproken in de derde en in tweede persoon (‘hen’ en ‘je/jou’, 59:21 en 60:1-2,4-5). Er zal een ‘bevrijder’ naar hen toe komen, die met hen een ‘verbond’ zal sluiten (59:20-21). De HEER zal over hen komen met zijn licht en luister, zodat ook zij licht zullen uitstralen (60:1-3). Ook andere volken zullen zich door dat licht laten leiden, en erop af komen (60:3-4). Dat zal de nakomelingen van Jakob blij maken, en die volken zullen hen ook doen delen in hun rijkdommen (60:5).
+Dit gedeelte is veelbelovend voor ‘allen uit Jakobs nageslacht’ (59:20). Ze worden aangesproken in de derde en in tweede persoon (‘hen’ en ‘je/jou’, 59:21 en 60:1-2,4-5). Er zal een ‘bevrijder’ naar hen toe komen, die met hen een ‘verbond’ zal sluiten (59:20-21). De HEER zal over hen komen met zijn licht en luister, zodat ook zij licht zullen uitstralen (60:1-3). Ook andere volken zullen zich door dat licht laten leiden, en erop af komen (60:3-4). Dat zal de nakomelingen van Jakob blij maken, en die volken zullen hen ook doen delen in hun rijkdommen (60:5).
 
 #### Ik Bestudeer 
 Het woord ‘Sion’ (59:20a) en ook het woord ‘zee’ (60:5b) zijn profetische aanduidingen. In beide versdelen is sprake van ‘parallellismus membrorum’ (= overeenkomst van zinsdelen). ‘Sion’ staat voor ‘de stad van David’ (2 Samuel 5:7; 1 Koningen 8:1) of voor de Tempelberg (Psalm 48:3). In Jesaja 59:20 wordt ‘Sion’ gebruikt als een aanduiding voor ‘allen uit Jakobs nageslacht die met de misdaad breken’ (Vgl. Jesaja 1:27). ‘Je zonen’ en ‘je dochters’ in Jesaja 60:4 (vgl. ‘je kinderen’ in vers 9) behoren eveneens tot het nageslacht van Jakob.
 
-`Lees Galaten 3:7. Horen wij als gelovigen om die reden ook bij ‘allen uit Jakobs nage- slacht’ (Jesaja 59:20), zodat we Jesaja 59:20 en 60:4 ook op onszelf mogen betrekken? Vgl. Romeinen 11:17.`
+`Lees Galaten 3:7. Horen wij als gelovigen om die reden ook bij ‘allen uit Jakobs nageslacht’ (Jesaja 59:20), zodat we Jesaja 59:20 en 60:4 ook op onszelf mogen betrekken? Vgl. Romeinen 11:17.`
 
 Het woord ‘licht’ staat niet voor zonlicht. Het gaat om ‘licht’ dat van God uit zal gaan (vgl. Jesaja 60:19-20; Openbaring 21:23), door zijn woorden en zijn Geest (Jesaja 59:21, vgl. Efeziërs 1:17), maar ook door het onderwijs en levenswerk van Jezus Christus, die zichzelf ‘het Licht voor de wereld’ (Johannes 8:12; 12:46) noemde.
 

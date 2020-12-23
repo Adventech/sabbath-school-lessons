@@ -21,15 +21,15 @@ De voorzegging dat er ‘een nieuwe hemel en een nieuwe aarde’ komt, vinden we
 
 `Wat bedoelen we nu eigenlijk als we spreken over de toekomstige herschepping van de aarde? Denken we dan dat er een volledig nieuwe aarde komt, of geloven we juist dat de aarde waarop we nu wonen zal worden hersteld? Zie 2 Petrus 3:10-13.`
 
-`Hoe verklaar je het verschil tussen Jesaja 65:20 (‘Een kind zal pas sterven als honderd- jarige’) en Openbaring 21:4 (‘Er zal geen dood meer zijn’, vgl. Jesaja 25:8), terwijl het in beide gevallen over ‘een nieuwe aarde’ gaat?`
+`Hoe verklaar je het verschil tussen Jesaja 65:20 (‘Een kind zal pas sterven als honderdjarige’) en Openbaring 21:4 (‘Er zal geen dood meer zijn’, vgl. Jesaja 25:8), terwijl het in beide gevallen over ‘een nieuwe aarde’ gaat?`
 
-In vers18 gaat het over de herschepping van Jeruzalem in een jubelende stad.
+In vers 18 gaat het over de herschepping van Jeruzalem in een jubelende stad.
 
 `Gaat het in Openbaring 3:12 en 21:2,10 over dezelfde gebeurtenis, of niet? Waarom wel of waarom niet?`
 
 `Welke overeenkomst zie je tussen Jesaja 65:18 en 35:10?`
 
-In vers19 staat dat God zich over zijn volk zal verblijden.
+In vers 19 staat dat God zich over zijn volk zal verblijden.
 
 `Wat zal de reden van die blijdschap zijn, als we Jeremia 32:39-41 hierbij betrekken?`
 
