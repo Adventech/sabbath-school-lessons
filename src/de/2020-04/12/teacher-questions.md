@@ -128,8 +128,8 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Welche Lehre erteilte Jesus den Obersten der Juden durch seine
         Sabbatheilung?
-    -   Welche Beziehung zwischen “körperlich gesund werden” und dem
-        Sabbat? Warum heilte Jesus AUCH am Sabbat? Was bewegte Jesus
+    -   Welche Beziehung besteht zwischen “körperlich gesund werden” und
+        dem Sabbat? Warum heilte Jesus AUCH am Sabbat? Was bewegte Jesus
         dabei?
     -   Was bedeutet es euch, dass der Sabbat für jeden einzelnen
         gemacht wurde?
