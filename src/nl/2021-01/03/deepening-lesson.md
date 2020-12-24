@@ -39,4 +39,4 @@ Een moeilijke situatie kan ertoe leiden dat je vertrouwen op God sterker wordt, 
 
 #### Ik bid …
 
-Heer, als mijn leven onzekerheden met zich meebrengt, help mij dan op U te vertrouwen, en mijn zekerheid niet te baseren op mensen of aardse dingen. Laat mij een voorbeeld zijn voor mijn omgeving, zodat ook anderen mogen gaan ontdekken dat U hun vertrouwen waard bent. Wees een Immanuël, een God met ons, voor ons allen. Amen! 
+Heer, als mijn leven onzekerheden met zich meebrengt, help mij dan op U te vertrouwen, en mijn zekerheid niet te baseren op mensen of aardse dingen. Laat mij een voorbeeld zijn voor mijn omgeving, zodat ook anderen mogen gaan ontdekken dat U hun vertrouwen waard bent. Wees een Immanuël, een God met ons, voor ons allen. Amen!

@@ -41,4 +41,4 @@ Ten tijde van koning Achaz (± 735 vóór Christus) ontstond de Syro-Efraïmitis
 
 #### Opdracht 
 
-`Hoe stap jij over van angst op vertrouwen en welke plek krijgt God daarin?` 
+`Hoe stap jij over van angst op vertrouwen en welke plek krijgt God daarin?`

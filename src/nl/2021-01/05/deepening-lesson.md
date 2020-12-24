@@ -4,15 +4,19 @@ date: 30/01/2021
 ---
 
 ### Verheven vredevorst
+
 Jesaja 11:1-10
 
 #### IJsbrekervraag
+
 `Hoe kan het ontbreken van recht echte vrede in de weg staan? Wat is kenmerkend voor een samenleving waar recht wordt gedaan, in sociaal en materieel opzicht?` 
 
 #### Ik Verken
+
 In Jesaja 9 en 11 wordt de komst van de Messias voorzegd. In Jesaja 9:5 krijgt Hij de benaming ‘Vredevorst’ en in 11:1 en 10 slaat het woord ‘telg’ op Hem (vgl. Jeremia 23:5-6 en 33:15-17; Zacharia 3:8; 6:12-13; Openbaring 5:5 en 22:16). Hij zal de mensen recht doen, door dingen recht te zetten, en ook door gerechtigheid te brengen. Daartoe behoort ook dat Hij mensen rechtvaardig zal maken door geloof in zijn plaatsvervangend lijden en sterven (vgl. Romeinen 1:17). Hij zal als een rechtvaardige koning optreden. Als gevolg daarvan zal er voor altijd vrede zijn (vgl. Jesaja 32:17-18). Zelfs de dieren zullen vredig met elkaar omgaan, en mensen zullen ook van dieren niets meer te vrezen hebben.
 
 #### Ik Bestudeer
+
 Onrecht leidt vroeg of laat tot oorlog. Recht daarentegen bevordert de vrede. De engelen in Lucas 2:14 wisten dat reeds de eerste komst van Christus ‘vrede op aarde’ zou brengen. Zelf zei Hij tegen zijn leerlingen: ‘Ik laat jullie vrede na; mijn vrede geef Ik jullie, zoals de wereld die niet geven kan’ (Johannes 14:27).
 
 `Hoe dragen de volgende teksten bij tot een beter begrip van vrede: Filippenzen 4:7, Zacharia 9:10 en Efeziërs 2:14.`
@@ -26,6 +30,7 @@ De Geest van de HEER zou op Hem ‘rusten’ (Jesaja 11:2, Matteüs 3:16, Johann
 `Matteüs 1:21 Wat hield het geven van deze naam in?` 
 
 #### Ik Pas Toe
+
 God wil graag dat we de sabbat ervaren als een dag waarop we iets proeven van de toestand van volmaakte vrede waar we als gelovigen naar uitkijken.
 
 `Hoe kunnen wij eraan bijdragen dat we samen op sabbat een stukje Bijbelse ‘sjalom’ ervaren?`
@@ -37,4 +42,5 @@ Paulus schreef in Romeinen 5:1: ‘Wij zijn als rechtvaardigen aangenomen op gro
 `Denk je dat dit mogelijk is? Lees hierbij 1 Tessalonicenzen 5:16-18.`
 
 #### Ik bid …
+
 Here God, dank U dat we erop mogen vertrouwen dat de relatie met U is hersteld, dankzij de kruisdood en opstanding van uw Zoon. Doe ons beseffen hoe belangrijk het is de relatie met U te blijven onderhouden. Help ons wijs, rechtvaardig en trouw te zijn, opdat wij net als Jezus vredestichters mogen zijn. Amen.

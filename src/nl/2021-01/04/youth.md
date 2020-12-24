@@ -7,7 +7,7 @@ date: 23/01/2021
 
 #### Opdracht van de vorige week
 
- Hoe stap jij over van angst op vertrouwen en welke plek krijgt God daarin?
+Hoe stap jij over van angst op vertrouwen en welke plek krijgt God daarin?
 
 #### Lees samen
 
@@ -39,4 +39,4 @@ Koning Achaz deed niet wat de HEER, zijn God wilde. Hij bracht offers op onheili
 
 #### Opdracht 
 
-`Wat doet Gods liefde met jou?` 
+`Wat doet Gods liefde met jou?`

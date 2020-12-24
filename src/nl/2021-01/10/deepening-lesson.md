@@ -4,15 +4,19 @@ date: 06/03/2021
 ---
 
 ### Het ondenkbare doen
+
 Jesaja 52:13-53:12
 
 #### IJsbrekervraag 
+
 `Kun je bedenken wanneer jij je leven voor iemand anders zou geven? Zou jij tot orgaandonatie overgaan wanneer dat een mensenleven zou redden?`
 
 #### Ik Verken 
+
 Dit Bijbelgedeelte bevat een korte beschrijving van het werk van Jezus Christus en van wat Hij onderging. Hij kwam naar de aarde als dienaar van zijn Vader, maar werd door mensen veracht, mishandeld en gedood, maar kreeg er nieuw leven en volgelingen voor terug. Zijn dood aan het kruis droeg kenmerken van oudtestamentische offers. In deze verzen staat hoe de dood van Jezus een offer zou zijn om de zonde en schuld van de mensen weg te nemen, een soort zond- en schuldoffer. Daarnaast heeft Jezus’ kruisdood ook kenmerken van een vredeoffer.
 
 #### Ik Bestudeer 
+
 In Jesaja 41 wordt het volk Israël de dienaar van God genoemd (zie Jesaja 41:8,10,14).
 
 `Waarom kunnen de woorden ‘mijn dienaar’ in Jesaja 52:13 daar niet op slaan, gezien wat er in Jesaja 53:8 staat?`
@@ -42,6 +46,7 @@ Het offer dat Jezus bracht, droeg het karakter van een zondoffer/reinigingsoffer
 `Matteüs 26:57-27:60; Marcus 14:53-15:46; Lucas 22:54-23:53; Johannes 18:12-19:42; Jesaja 53:7-9 Wat bevestigen de evangeliën?` 
 
 #### Ik Pas Toe 
+
 `Jezus stierf aan het kruis om mensen te verlossen en om hun vrede, welzijn en herstel te geven (zie Jesaja 53:5,11). Had Jezus’ kruisdood ook nog een andere bedoeling? Zie Hebreeën 9:14. Welke betekenis heeft het voor jouzelf?`
 
 `De grootste vorm van medemenselijke liefde is je leven geven voor een ander (vgl. Johannes 15:13 en Romeinen 5:6-8). Hoe kunnen wij zover komen dat we bereid zijn ons leven te geven voor iemand die ons kwaad heeft gedaan?`
@@ -57,4 +62,5 @@ Het offer dat Jezus bracht, droeg het karakter van een zondoffer/reinigingsoffer
 `Als je weet dat God achter je staat, hoe helpt jou dat dan?`
 
 #### Ik bid … 
+
 Here Jezus, dank U voor wat U ook voor mijn redding hebt gedaan. Laat dat voor mij een stimulans mogen zijn mijn leven in te zetten voor anderen om mij heen, zelfs al brengt dat voor mezelf pijn en moeite met zich mee. Amen.

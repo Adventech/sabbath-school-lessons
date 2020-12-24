@@ -4,15 +4,19 @@ date: 13/02/2021
 ---
 
 ### Assyrië verslagen 
+
 Jesaja 37:21-38
 
 #### IJsbrekervraag 
+
 `Is iemand ooit in een conflict voor jou opgekomen? Hoe vond je dat en wat was de houding van je verdediger?`
 
 #### Ik Verken 
+
 Als er gevaar dreigt, is het goed op God te vertrouwen. God verdedigt zijn volk hier doordat de leider Gods aangezicht zoekt. Die kiest ervoor zich niet te onderwerpen aan een andere koning dan God. De Heer is de God van de overwinning. Dit tekstgedeelte volgt op het gebed van Hizkia (vs. 16-20) en laat ons allereerst zien hoe deze machteloos staat tegenover de oorlogsdreigingen van Sanherib, de koning van Assyrië (hoofdstuk 36). Hizkia vraagt Jesaja om hulp en die dringt eropaan op God te blijven vertrouwen. Sanherib schrijft Hizkia een brief en waarschuwt hem dat het zinloos is op God te vertrouwen. Hij roept hem op zich te onderwerpen. Gods antwoord via de profeet bevat de aankondiging van Gods oordeel over Assyrië (vs. 21-35) en geeft informatie over de voltrekking van het oordeel (vs. 36-38).
 
 #### Ik Bestudeer 
+
 `Wat maakt het onweerlegbaar dat dit Gods antwoord is op het gebed van Hizkia?`
 
 `Wie zijn in de verzen 22 tot 32, in het antwoord van God, de hoofdpersonen en hoe gaan ze met elkaar om? Heb je het gebruik van de persoonlijke voornaamwoorden IK en JIJ opgemerkt? Wat maak je daaruit op?`
@@ -32,6 +36,7 @@ De krachtige taal wordt ingegeven door de volhardende houding die men aanneemt t
 `Jesaja 39 Wat leren we hier van?`
 
 #### Ik Pas Toe 
+
 JIJ en IK vormen een dialoog, die het ritme van het verhaal vertraagt. God houdt de fouten van de koning opnieuw tegen het licht en de grieven die Hij tegen hem heeft. Dit is de grondtoon van het vonnis over Sanherib: tegenover het ‘JIJ hebt gedaan”, wordt het ‘IK zal doen’! gesteld. ‘Zelfs als je opschept over je zogenaamde onoverwinnelijkheid, was Ik het die het in werkelijkheid heeft gedaan.’ Dat lijkt God te zeggen.
 
 `Wat herken je hiervan in de tijd waarin wij leven? Hoe herhaalt de geschiedenis zich? Welke concrete voorbeelden van menselijk streven dat tot niets leidt, kun je geven?`
@@ -43,4 +48,5 @@ Wanneer het verhaal wordt samengevat, wordt het ritme versneld: het is een veroo
 `Waarom is het veel makkelijker om te wijzen op de fouten van Israël dan om zelf onomwonden en tegen de stroom in voor God te kiezen?`
 
 #### Ik bid …
+
 Heer, dank U dat U mij het teken bij uitstek hebt gegeven, namelijk Jezus. Hij is onze verdediger. Help mij U te zoeken, zoals Hizkia deed, in de raadgevingen van uw profetisch woord en in gebed. Amen.
