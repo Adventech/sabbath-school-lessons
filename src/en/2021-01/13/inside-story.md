@@ -41,7 +41,7 @@ The mechanics checked the car. They rotated the tires. They did other things.
 
 “Thank you,” Ilya said. “How much do I owe you?”
 
-“Two hundred rubles,” he said, or about US$3.
+“Two hundred rubles,” he said, or about 3 USD.
 
 Ilya found 200 rubles and a pocket-sized Gospel of John. He tucked the
 
