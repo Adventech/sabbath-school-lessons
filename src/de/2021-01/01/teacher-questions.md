@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   08/01/2021
+date:   01/01/2021
 ---
 
 [Titel der Lektion](https://sabbath-school.adventech.io/de/2021-01/01/01)
@@ -52,7 +52,7 @@ II: Wir studieren die Bibel
 -   Zuerst die naheliegende allgemeine Frage: Was ist überhaupt
     **Identität**?
     -   Und dann die persönliche Ebene: Wie oft denkt ihr **wirklich**
-        über eure Idenität nach? Wie oft fragt ihr euch also im Alltag:
+        über eure Identität nach? Wie oft fragt ihr euch also im Alltag:
         *Wer bin ich eigentlich?*
         -   Welche Rolle spielt die Diskussion um Identitätsfragen in
             unserer Gesellschaft?
