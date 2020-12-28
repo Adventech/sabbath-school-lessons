@@ -1,7 +1,62 @@
 ---
 title:  Commentaires Moniteurs
-date:   01/01/2021
+date:   02/01/2021
 ---
 
-### <center>Nous travaillons sur cette leçon.</center>
-<center>Revenez plus tard, s'il vous plaît.</center>
+**Objectif de l’étude: Ésaïe 1, 5**
+
+### Partie I: Aperçu
+
+Ésaïe 1 à 5 sert d’unité d’introduction au livre d’Ésaïe. Il décrit non seulement la condition vile de la société israélite en général, mais aussi sa condition spirituelle. L’accent mis sur la condition spirituelle d’Israël constitue l’objectif principal du livre. La religion du peuple de Dieu est corrompue. Y a-t-il de l’espoir au milieu d’une telle situation? Oui, il y a de l’espoir. C’est la raison pour laquelle certains appellent le livre d’Ésaïe l’évangile de l’Ancien Testament. Ésaïe 1:2 témoigne de ce que le Seigneur a élevé Son peuple: « J’ai nourri et élevé des enfants ». À travers le langage figuré de la vigne, Ésaïe 5 décrit les soins de Dieu pour Ses enfants: « Il en remua le sol, ôta les pierres, et y mit un plant délicieux; Il bâtit une tour au milieu d’elle, Et il y creusa aussi une cuve. Puis il espéra qu’elle produirait de bons raisins, Mais elle en a produit de mauvais… Qu’y avait-il encore à faire à ma vigne, Que je n’aie pas fait pour elle? Pourquoi, quand j’ai espéré qu’elle produirait de bons raisins, En a-t-elle produit de mauvais? » (Esa 5:2-4 LSG).
+
+Dieu, dans Son amour se retient de détruire Son peuple. À travers le prophète Osée, un contemporain d’Ésaïe, Dieu décrit l’angoisse et le trouble intérieurs qu’Il ressent face à l’état de détresse de Son peuple: « Que ferai-je de toi, Éphraïm? Dois-je te livrer, Israël? Te traiterai-je comme Adma? Te rendrai-je semblable à Tseboïm? Mon cœur s’agite au dedans de moi, toutes mes compassions sont émues » (Osée 11:8). Dieu fera un autre effort pour ramener Son peuple à Lui. Son message ne manque pas de rappeler à Israël sa condition pécheresse. Ainsi, Il continue notamment à les appeler à revenir à Lui. Pour cette raison, Dieu dit: « Car l’Éternel parle » (Ésaïe 1:2, LSG). Dans ce contexte, trois thèmes principaux sont explorés dans l’étude de cette semaine: (1) la déclaration « l’Éternel parle »; (2) le thème de la nation pécheresse; et (3) et l’invitation: « Venez et plaidons… si vous avez de la bonne volonté » (Ésaïe 1:18, 19, LSG).
+
+### Partie II: Commentaire
+
+**« L’Éternel parle. »**
+
+Le verset 1 d’Ésaïe 1 souligne que la vision concerne immédiatement Juda et Jérusalem. Mais en utilisant l’expression « cieux, écoutez! Terre, prête l’oreille! » (Ésaïe 1:2), Ésaïe suggère que le message s’adresse à un public plus large. En tant que lecteurs, nous devons être conscients du fait que la cible principale de ce livre prophétique est le peuple vivant à l’époque de Juda. En même temps, nous devons également être conscients de l’idée que la portée du message d’Ésaïe s’étend bien au-delà de l’époque et du lieu où il a été écrit et du public auquel il était destiné à l’origine.
+
+Souvent, Ésaïe utilise des expressions telles que « l’Éternel parle » ou d’autres expressions analogues. Les prophéties du livre d’Ésaïe sont pertinentes car il s’agit des messages « l’Éternel a parlé ». Ce point est mis en évidence dès le premier chapitre du livre sous différentes formes: « l’Éternel parle » (Ésaïe 1:2), « écoute la parole de l’Éternel » (Ésaïe 1:10), « dit l’Éternel » (Ésaïe 1:18, LSG), « la bouche de l’Éternel a parlé » (Ésaïe 1:20, LSG), et « ce que dit le Seigneur, l’Éternel des armées » (Ésaïe 1:24, LSG). L’auteur veut être clair sur le fait que les visions viennent de l’Éternel. En d’autres termes, la vision existe parce que Dieu l’a révélée.
+
+Comment Dieu est-Il présenté dans le livre? Le thème du message est l’Éternel. L’objet immédiat est Son peuple au moment où Ésaïe l’écrit, avec une implication claire que les messages incluent le peuple de Dieu à travers les temps, s’étendant jusqu’à Son reste à la fin des temps. Le Dieu d’Ésaïe est représenté à bien des égards dans ce chapitre. Il est l’Éternel, le Saint. Il est intéressant de noter que dans la première référence à Dieu, l’auteur utilise l’expression « YHWH », qui est l’expression fréquemment utilisée pour faire référence à Dieu dans tout le livre. YHWH est le Dieu immanent. Le nom YHWH révèle non seulement l’existence éternelle de Dieu, mais aussi Sa relation d’alliance avec Son peuple. Au verset 10, Ésaïe présente Dieu comme « Élohim », le Dieu transcendant, le Souverain de l’univers. Parfois, Ésaïe utilise la combinaison « Le Seigneur, l’Éternel » (Ésaïe 61:1). Une autre référence singulière à Dieu dans ce chapitre est « le Saint d’Israël » (Ésaïe 1:4), un titre caractéristique de l’écriture d’Ésaïe (25 fois).
+
+**La nation pécheresse**
+
+Le livre d’Ésaïe est explicite concernant la situation du peuple de Dieu à cette époque. Ésaïe rappelle les soins d’amour du Seigneur en faveur de Son peuple: « J’ai nourri et élevé des enfants » (Ésaïe. 1:2). Cependant, Juda oublie l’amour fidèle de Dieu en ce qu’ils « se sont révoltés contre moi » (Ésaïe 1:2, LSG), selon le Seigneur. Comment l’expérience du péché est-elle exprimée dans cette section? Il existe plusieurs termes hébreux qui sont liés au thème du péché. Cette étude passe brièvement en revue les principaux mots du péché dans le premier chapitre.
+
+Ésaïe 1:2 utilise l’expression hébraïque p̱āša pour décrire un acte de péché. Cette expression est traduite par « se sont révoltés » dans la phrase « ils se sont révoltés contre moi. » Ce mot signifie également « rébellion ». D’autres significations sont « rompre avec » ou être déloyal. (Ludwig Koehler et Walter Baumgartner,The Hebrew and Aramaic Lexicon of the Old Testament, vol. 3, Leiden/New York/Koln : E. J. Brill, 1996, p. 981). En d’autres termes, p̱āša décrit une relation brisée. Même si, la plupart du temps, p̱āša est traduit comme un acte de rébellion, cet acte est considéré comme un comportement criminel dans la Bible hébraïque.
+
+Un autre mot pour désigner le péché est ḥāṭāʾ (Ésaïe 1:4), qui, s’il est associé au mot « peuple », peut être traduit par « nation pécheresse », comme c’est le cas ici dans la version Louis Segond. Dans ce cas, le mot est utilisé comme verbe, et la signification de base est « manquer la cible », « être en faute, offenser (par le comportement) », « commettre un péché » et « être coupable » (William L. Holladay, A Concise Hebrew and Aramaic Lexicon of the Old Testament, Grand Rapids, MI: Eerdmans Publishing Company, 1988, p. 100). Juda est une nation pécheresse parce qu’elle a échoué dans la relation d’alliance avec le Seigneur; elle a commis des fautes. Elle a offensé le Seigneur, de sorte que ses citoyens sont coupables devant le Seigneur.
+
+L’expression en parallèle à « la nation pécheresse », qui est la première phrase d’Ésaïe 1:4, est traduite par « un peuple chargé d’iniquités ». Le mot hébreu traduit par iniquité est ʿāwôn. Ce nom décrit une « activité qui est malhonnête ou erronée », un délit qui pourrait être conscient ou intentionnel. (William L. Holladay, A Concise Hebrew and Aramaic Lexicon of the Old Testament, p. 268). Comme pour le mot précédent, ḥāṭāʾ, ʿāwôn, décrit un acte qui n’est injuste.
+
+La deuxième partie d’Ésaïe 1:4 décrit la condition des enfants d’Israël: ils ne « font que se corrompre »; ce sont des « enfants corrompus ». La cause peut être trouvée dans les lignes suivantes: « Ils ont abandonné l’Éternel… ils se sont retirés en arrière ». Le péché est décrit ici comme l’acte d’abandon de l’Éternel, et il entraine la rébellion, le mauvais comportement, les actes répréhensibles et la culpabilité. Ésaïe 1:3 utilise une description étonnante pour synthétiser ce dernier point en relation avec le peuple de Dieu à cette époque: « Un bœuf connait son possesseur, et l’âne la crèche de son maitre, mais Israël n’a point de connaissance, mon peuple n’a point d’intelligence » (Ésaïe. 1:3). La situation d’Israël est critique, même en termes de raisonnement logique. Cependant, le Seigneur tente à nouveau de courir après Ses enfants. C’est la base de Sa déclaration: « Venez et plaidons! » (Ésaïe 1:18).
+
+**« Venez . . . si vous avez de la bonne volonté »**
+
+Toutes les dispositions furent données à Israël pour devenir une nation glorieuse. Cependant, elle n’est plus comparable qu’à Sodome et Gomorrhe (voir Ésaïe 1:10). Mais le Seigneur peut opérer le miracle nécessaire pour les réhabiliter. Il promet: « Je porterai ma main sur toi, je fondrai tes scories, comme avec de la potasse, et j’enlèverai toutes tes parcelles de plomb (Ésaïe. 1:25, LSG).
+
+Le chemin du retour à Dieu commence par un appel à Son peuple pour qu’il prenne conscience de sa situation actuelle. Tout d’abord, leur vie est corrompue par le péché. Le Seigneur déclare: « La tête entière est malade, et tout le cœur est souffrant. De la plante du pied jusqu’à la tête, rien n’est en bon état » (Ésaïe 1:5, 6). L’autre grand problème est la fausse religion. Le ritualisme a remplacé le véritable culte (Ésaïe 1:11-14). Ces circonstances favorisent l’injustice au sein du peuple et apportent la désolation au pays (Ésaïe. 1:7, 17).
+
+Après avoir supplié Son peuple de reconnaitre sa condition, le Seigneur l’appelle comme suit: « Venez et plaidons! » (Ésaïe 1:18). Le mot « plaidons » vient du verbe hébreu niwāḵᵉḥâ, et il implique la notion de litige juridique; les deux parties, YHWH et le peuple, peuvent débattre ensemble de leurs plaintes. Il suggère également l’idée d’être trouvé juste (Ludwig Koehler et Walter Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, vol. 1, p. 134). En d’autres termes, Dieu appelle Son peuple à se justifier. Mais comment cela peut-il même être possible pour une nation aussi pécheresse? Le Seigneur propose la solution: « Si vos péchés sont comme le cramoisi, ils deviendront blancs comme la neige; s’ils sont rouges comme la pourpre, ils deviendront comme la laine » (Ésaïe. 1:18). Autrement dit, le Dieu qu’Ésaïe présente dans le premier chapitre de son livre est le seul qui puisse purifier et justifier Son peuple.
+
+Michée, un autre prophète contemporain d’Ésaïe, s’interroge: « Quel Dieu est semblable à toi, qui pardonnes l’iniquité, qui oublies les péchés du reste de l’héritage? » (Michée 7:18, LSG). Toutefois, ce don du pardon peut être accepté ou rejeté. Ainsi, après la proposition d’Ésaïe 1:18, le Seigneur précise qu’une nouvelle vie n’est possible que « si vous avez de la bonne volonté », ou « si vous obéissez volontairement » (Ésaïe 1:19). Ainsi, dans ce contexte, le message de la parabole suivante dans Ésaïe 5 peut maintenant être mieux compris: « Maintenant donc habitants de Jérusalem et hommes de Juda, soyez juges entre moi et ma vigne! Qu’y avait-il encore à faire à ma vigne, que je n’aie pas fait pour elle? » (Ésaïe 5:3, 4, LSG).
+
+### Partie III: Application
+
+1. Le premier thème que nous avons abordé dans cette étude est lié à la Parole de Dieu révélée. Nous avons dans la Bible « la parole prophétique d’autant plus certaine » (2 Pie. 1:19). Ainsi, lorsque nous étudions la Bible, nous n’étudions pas un livre commun mais la Parole de Dieu révélée, ce que Dieu a dit.
+
+- Ce que le Seigneur a dit par l’intermédiaire de Ses prophètes est-il toujours pertinent pour vous? Expliquez.
+
+- Comment la Bible détermine-t-elle votre identité en tant que disciple de Dieu?
+
+- D’après votre lecture de la Bible, quelles caractéristiques de Dieu impressionnent le plus votre vie?
+
+2. Le deuxième thème concerne l’expérience pécheresse d’Israël, le peuple de Dieu. Le péché n’est pas exclusivement une action mauvaise; il peut aussi être une pensée, comme résister à l’autorité du Seigneur sur nos vies, ou un acte de rébellion intérieure. Le péché fait peser sur Israël une double menace: (1) le péché qui plonge les gens dans les pires actes d’iniquité; (2) le péché qui pousse les gens à une expérience religieuse formelle qui manque de grâce salvatrice. Ainsi, leur religion est une religion du spectacle ou des apparences, qui ne semble vivante qu’à l’extérieur, mais morte à l’intérieur.
+
+- Comment pouvons-nous reconnaitre que notre expérience religieuse tombe dans le formalisme?
+
+3. En ce qui concerne le pardon de Dieu, Ésaïe présente Dieu comme Celui qui s’intéresse à la restauration de Son peuple. Dieu est prêt à nous pardonner et à nous racheter, et la repentance fait partie du processus (Ésaïe 1:27). De plus, nous n’avons que deux options: obéir ou refuser Sa voix (Ésaïe 1:19, 20). Son invitation n’a pas changé à travers les âges: « Venez, et plaidons! » (Ésaïe 1:18).
+
+- Êtes-vous prêt à permettre à Dieu de faire Son œuvre de restauration dans votre vie? Sinon, que pouvez-vous faire pour être prêt?
