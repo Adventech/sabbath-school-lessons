@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   02/01/2021
+date:   01/01/2021
 ---
 
 **Objectif de l’étude: Ésaïe 1, 5**
