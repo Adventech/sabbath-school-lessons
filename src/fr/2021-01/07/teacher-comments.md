@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   13/02/2021
+date:   12/02/2021
 ---
 
 **Objectif de l’étude: Ésaïe 36, 37, 38**

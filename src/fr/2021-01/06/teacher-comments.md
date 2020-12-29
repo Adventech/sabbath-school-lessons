@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   06/02/2021
+date:   05/02/2021
 ---
 
 **Objectif de l’étude: Ésaïe 13, 14, 24-27**

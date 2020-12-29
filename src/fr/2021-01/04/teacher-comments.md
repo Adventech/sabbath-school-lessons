@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   23/01/2021
+date:   22/01/2021
 ---
 
 **Objectif de l’étude: Ésaïe 7 et 8**

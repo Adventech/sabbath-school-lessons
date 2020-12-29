@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   30/01/2021
+date:   29/01/2021
 ---
 
 **Objectif de l’étude: Ésaïe 9**

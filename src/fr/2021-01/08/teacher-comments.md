@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   20/02/2021
+date:   19/02/2021
 ---
 
 **Objectif de l’étude: Ésaïe 40:1-3**
