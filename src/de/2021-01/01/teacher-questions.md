@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   01/01/2021
+date:   08/01/2021
 ---
 
 [Identitätskrise](https://sabbath-school.adventech.io/de/2021-01/01/01)
