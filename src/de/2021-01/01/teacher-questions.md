@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   08/01/2021
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2021-01/01/01)
-=========================================================================
+[Identitätskrise](https://sabbath-school.adventech.io/de/2021-01/01/01)
+=======================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -42,8 +42,6 @@ missionarischen Anliegen.
 
 II: Wir studieren die Bibel
 ---------------------------
-
-**Lektion 1: Identitätskrise**
 
 **STARTFRAGEN**
 
@@ -90,7 +88,7 @@ Telefonnummer. Sie ist ein Stück Identität.”* (Frank Dommenz)
 -   Was sollte also auf der Visitenkarte von Christen / Adventisten
     stehen?
 
-**SONNTAG**
+### **Höret, ihr Himmel!**
 
 **Jesaja 1,2-9**
 
@@ -127,7 +125,7 @@ Unschuld, nicht kollektiv sondern persönlich.”* (Richard von Weizsäcker)
         -   **Und daher fragen wir jetzt in Bezug auf uns selbst: Wann
             wart (seid) ihr in der Gefahr mit Gott zu brechen?**
 
-**MONTAG**
+### **Faule Rituale**
 
 **Jesaja 1,11-17**
 
@@ -164,7 +162,7 @@ zu Zeit überprüfen.”* (Franz Schmidberger)
     -   Ist es nicht viel mehr meine Aufgabe zu hinterfragen, wieviel
         Leben ich **persönlich** diesen Ritualen gebe?
 
-**DIENSTAG**
+### **Die Verhandlung über Vergebung**
 
 **Jesaja 1,18**
 
@@ -187,7 +185,7 @@ nicht.”* (Sabine Rausch)
     -   Wie kann dieser “tägliche Neuanfang” sogar eine Art Prophylaxe
         sein und vor dem tiefen Fall schützen?
 
-**MITTWOCH**
+### **Fressen oder gefressen werden**
 
 <u>Zum Prinzip von Segen und Fluch:</u>
 
@@ -224,7 +222,7 @@ erlangen sollen, kennen wir alle.”* (Johann Gottfried von Herder)
     -   Wann lehnt ihr euch dagegen auf?
     -   Wann seid ihr dafür dankbar?
 
-**DONNERSTAG**
+### **Ein unheilvolles Liebeslied (Jes 5,1-7)**
 
 **Jesaja 5,1-7**
 
