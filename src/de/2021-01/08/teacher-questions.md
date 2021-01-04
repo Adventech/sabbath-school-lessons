@@ -43,16 +43,11 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
-
 **Startfragen**
 
-Was emfindet ihr als Trost nach erfahrener Strafe? Was empfindet ihr als
-Trost nach erfahrenem Leid?
+-   Was empfindet ihr als Trost nach erfahrener Strafe? Was empfindet
+    ihr als Trost nach erfahrenem Leid?
+-   Was bewirkt Trost?
 
 **Jesaja 40,1.2**
 
@@ -63,10 +58,12 @@ Trost nach erfahrenem Leid?
         (40-66). Warum wird der neue Abschnitt des Buches gerade mit
         einem doppelten Trostruf eingeleitet? Welche historischen
         Gegebenheiten spielen eine Rolle für diesen Text?
-    -   Was ist das “Doppelte” oder “die doppelte Strafe” (Vers 2), die
-        das Volk vom HERRN empfangen hat?
-    -   Was in den folgenden Versen 3-11 betrachtet ihr als Trost für
-        das Volk?
+    -   Warum spricht Gott vom “Doppelten” oder der “doppelten Strafe”
+        (Vers 2), die das Volk empfangen hat? Vgl. Jeremia 16,18.
+        Bestraft Gott mit ungerechtem Maß oder bedeutet dies etwas
+        anderes?
+    -   Was in der Verkündigung der drei Stimmen (Verse 3-5, 6-8, 9-11)
+        betrachtet ihr als Trostworte für das Volk?
 -   Fragen zur Botschaft:
     -   Wie kommt es, dass Gott die Unterdrückung (“Knechtschaft”,
         “Frondienst”) und Schuldabtragung (Exil) vorhersagt und
@@ -77,28 +74,30 @@ Trost nach erfahrenem Leid?
 **Jesaja 40,3-5**
 
 -   Fragen zum Text:
-    -   Was bedeutet es, dass die Herrlichkeit des HERRN sich offenbaren
-        wird?
+    -   Die Verse schildern das Rufen eines Herolds, der das Kommen des
+        Königs ankündigt. Was bedeutet es, dass die Herrlichkeit des
+        HERRN sich offenbaren wird?
     -   Lest Jesaja 35,1-4 und vergleicht diesen Text direkt vor dem
         historischen Zwischenspiel (Jes 36-39) mit dem Text danach in
         Jesaja 40,3-5. Welche Parallelen findet ihr? Wie hilft euch
         Jesaja 35 besser zu verstehen, was es meint, dass die
         Herrlichkeit des HERRN sich offenbart?
-    -   ...
 -   Fragen zur Botschaft:
-    -   ...
+    -   Benötigt der kommende König einen Wegbereiter? Begründet eure
+        Antwort.
+    -   Was bedeutet es für euch, Christus im Herzen oder für die
+        Wiederkunft “den Weg zu bereiten”?
 
 **Jesaja 40,6-8**
 
 -   Fragen zum Text:
-    -   Was will Gott mit diesen BIldern sagen? Würdet ihr auch diese
-        Verse als Trostbotschaft verstehen? Wie denkt ihr darüber?
-    -   ...
+    -   Was will Gott mit diesen Bildern sagen? Würdet ihr auch diese
+        Verse als Trostbotschaft verstehen?
 -   Fragen zur Botschaft:
     -   Inwiefern ist die Beständigkeit und Ewigkeit Gottes angesichts
-        der eigenen Vergänglichkeit eine Trostbotschaft für euch? Wozu
-        regen euch diese Verse an?
-    -   ...
+        der eigenen Vergänglichkeit eine tröstliche Botschaft für euch?
+        Wozu regen euch diese Verse an? Wie hilft uns Jesaja 40,6-8, mit
+        der Angst vor dem Tod zurechtzukommen?
 
 **Jesaja 40,9-11**
 
@@ -110,28 +109,56 @@ Trost nach erfahrenem Leid?
         Mt 2,6). Inwiefern seht ihr, dass Jesaja 40,1-11 auf Christus
         hindeutet?
 -   Fragen zur Botschaft:
-    -   Welcher Teil der Aussagen in Jesaja 40,9-11 spricht dich
+    -   Welcher Teil der Aussagen in Jesaja 40,9-11 spricht euch
         persönlich momentan am meisten an? Warum?
-    -   Welchen Trost empfängst du durch Jesus Christus? Wie ist
-        Christus dein Trost geworden?
+    -   Welchen Trost empfangt ihr durch Jesus Christus? Wie ist
+        Christus euer Trost geworden?
 
-**Jesja 40,12-31**
+**Jesaja 40,12-31**
 
 -   Fragen zum Text:
-    -   In diesen Versen werden Fragen über Fragen gestellt. Was
-        bezweckt Gott mit all diesen Fragen?
-    -   Welche Strategie verfolgt Gott, wenn er seinem Gegenüber
-        vorhält, dass sie eigentlich “nichts” sind?
-    -   In den Versen 18 und 25 stellt Gott dieselbe Frage.
-    -   Lest noch einmal Vers 27. Nach all den Fragen, in denen Gott
-        über sich und die Menschen/Nationen spricht, kommt jetzt das
-        Volk Israel ins Spiel. Was ist in Vers 27 anders als zu den
-        vorigen Fragen? Inwiefern könnte man Vers 27 und 28 als das Ziel
-        aller Fragen in diesem Abschnitt bezeichnen?
+    -   Was bezweckt Gott mit all diesen rhetorischen Fragen? Was lernen
+        wir hier über Gott?
+    -   Welche Strategie verfolgt Gott, wenn er seinen Adressaten
+        vermittelt, dass sie eigentlich “nichts” sind (V. 15-17.22-24)?
+    -   In den Versen 18 und 25 stellt Gott dieselbe Frage. Worauf zielt
+        sie ab? Welche Vergleiche könnten Gottes Größe und Würde
+        angemessen sein? Kennt ihr Vergleiche oder Bilder aus der Bibel,
+        die man hier anführen könnte?
+    -   Nach all den Fragen, in denen Gott über sich und die
+        Menschen/Nationen spricht, kommt in Jesaja 40,27 das Volk Israel
+        ins Spiel. Warum ist die Frage in Vers 27 anders als die
+        vorigen? Inwiefern könnte man Vers 27 und 28 als das Ziel aller
+        Fragen in diesem Abschnitt bezeichnen?
+    -   In Jesaja 40,12-31 geht es um Gott. Wie stellt er sich für euch
+        hier dar? Woran erkennt ihr die Größe Gottes? Woran die Nähe
+        Gottes?
+    -   Jesja 40,29-31 zählt zu den schönsten Verheißungen der Bibel.
+        Was meint Gott damit in diesem Zusammenhang?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Art von Klagen hören wir heute von Nichtchristen? Von
+        Christen? Wie können wir darauf antworten, wenn wir von den
+        Wahrheiten dieses Kapitels ausgehen?
+    -   Welche Zusagen Gottes in Jesaja 40 würde dich besonders
+        aufmuntern, wenn du im Exil und völlig am Boden wärst?
+    -   Was bewirken diese Ausführungen über die Einzigartigkeit Gottes
+        in deinem Leben?
+    -   Wann in deinem Leben brauchst du besonders einen großen Gott,
+        wann einen nahen Gott?
+
+**Jesaja 40,19.20**
+
+Empfehlung: Die Fragen zu Jesaja 40,19.20 in den Abschnitt zu Jesaja
+40,12-31 stellen und mit den Fragen zur Botschaft zu Jesaja 40,12-31
+enden.
+
+-   Fragen zum Text:
+    -   Welche Werte könnten einem Götzenverehrer wichtig sein?
+    -   Welche Gefahren birgt Götzenverehrung?
+-   Fragen zur Botschaft:
+    -   Wann werden unsere eigenen Werke zu Götzen?
+    -   Können Menschen ohne Anbetung existieren? Wie denkt ihr darüber
+        und warum ist das so?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
