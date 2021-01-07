@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   15/01/2021
 ---
 
-[Führungskrise](https://sabbath-school.adventech.io/de/2021-01/02/01)
+[Führungskrise](https://sabbath-school.adventech.io/de/2021-01/02/02)
 =====================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,9 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
 -   **[Soziale
     Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
 -   **[Wir alle beteiligen
@@ -43,39 +40,6 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
--   Fragen zur Botschaft des Wortes (Was war die Botschaft im
-    historischen Kontext)
--   Fragen zur Relevanz der Botschaft für uns heute
--   Fragen zur praktischen Umsetzung der Botschaft
--   Fragen, die zur Weitergabe des gelernten anregen
-
-**Text**
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-**Text**
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-\
-
-**Zusatz**
-----------
-
 ### **Startfrage(n)**
 
 -   Was versteht man unter einer „Führungskrise“? Wie gerät man da
@@ -83,7 +47,7 @@ II: Wir studieren die Bibel
 -   Was macht eine gute (Staats-) Führung aus? Was sollte nicht gegeben
     sein?
 
-### **Sonntag: Der König ist tot. Lang lebe der König!**
+### **Der König ist tot. Lang lebe der König!**
 
 **Jesaja 6,1 und 2. Chronik 26,16**
 
@@ -98,7 +62,7 @@ II: Wir studieren die Bibel
     auch das Ende der Welt. Weshalb könnten gerade jetzt (und in den
     Folgejahren) solche Inhalte passend gewesen sein?
 
-### **Montag: „Heilig, heilig, heilig“**
+### **„Heilig, heilig, heilig“**
 
 **Jesaja 6,1-4**
 
@@ -111,7 +75,7 @@ II: Wir studieren die Bibel
     erging es dir in dieser Situation bzw. wie würde es dir wohl
     ergehen?
 
-### **Dienstag: Neue Persönlichkeit**
+### **Neue Persönlichkeit**
 
 **Jesaja 6,5-7**
 
@@ -123,7 +87,7 @@ II: Wir studieren die Bibel
     Räucheraltar verbunden? \[Das Gebet/die Fürbitte Jesu: Offb 8,3; Ps
     141,2.\]
 
-### **Mittwoch: Königlicher Auftrag**
+### **Königlicher Auftrag**
 
 **Jesaja 1,1 und Jesaja 6,8**
 
@@ -147,7 +111,7 @@ II: Wir studieren die Bibel
 -   Inwiefern ist der Tempel Gottes (auch der himmlische heute) ein Ort,
     der Mut macht zum Dienst?
 
-### **Donnerstag: Fürchterlicher Aufruf**
+### **Fürchterlicher Aufruf**
 
 **Jesaja 6,9-13**
 
