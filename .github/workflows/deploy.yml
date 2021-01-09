@@ -24,4 +24,5 @@ jobs:
         with:
           node-version: '12'
           check-latest: true
+      - run: npm install
       - run: node compile -b ${{ steps.extract_branch.outputs.branch }}
