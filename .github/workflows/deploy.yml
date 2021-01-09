@@ -1,0 +1,27 @@
+name: deploy
+on:
+  push:
+    branches:
+      - master
+      - stage
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - run: ./.github/scripts/decrypt.sh
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+      - run: tar xvf deploy-creds.tar
+      - run: wget https://github.com/gohugoio/hugo/releases/download/v0.79.1/hugo_0.79.1_Linux-64bit.deb
+      - run: dpkg -i hugo_0.79.1_Linux-64bit.deb
+      - run: rm *.deb
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+          check-latest: true
+      - run: node compile -b ${{ steps.extract_branch.outputs.branch }}
