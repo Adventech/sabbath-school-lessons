@@ -18,7 +18,7 @@ jobs:
           CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
       - run: tar xvf deploy-creds.tar
       - run: wget https://github.com/gohugoio/hugo/releases/download/v0.79.1/hugo_0.79.1_Linux-64bit.deb
-      - run: dpkg -i hugo_0.79.1_Linux-64bit.deb
+      - run: sudo dpkg -i hugo_0.79.1_Linux-64bit.deb
       - run: rm *.deb
       - uses: actions/setup-node@v2
         with:
