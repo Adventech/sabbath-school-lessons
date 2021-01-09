@@ -14,6 +14,6 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: danger ci
+    - run: ./node_modules/danger/distribution/commands/danger.js ci
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
