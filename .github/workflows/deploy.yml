@@ -25,4 +25,4 @@ jobs:
           node-version: '12'
           check-latest: true
       - run: npm install
-      - run: node compile -b ${{ steps.extract_branch.outputs.branch }}
+      - run: node compile --max-old-space-size=4096 -b ${{ steps.extract_branch.outputs.branch }}
