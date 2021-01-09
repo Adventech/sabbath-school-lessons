@@ -15,4 +15,4 @@ jobs:
         check-latest: true
       run: npm install
     - name: Install
-    run: node dangerfile.js
+    - run: node dangerfile.js
