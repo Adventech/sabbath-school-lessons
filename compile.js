@@ -447,8 +447,9 @@ let readAPI = function(dayPath, day, info, lesson){
   if (!(new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7)))) {
     return false;
   }
-  let read = {};
-  let meta = null;
+  let read = {},
+      meta = null,
+      resultRead;
 
   try {
     meta = JSON.parse(JSON.stringify(day.meta));
@@ -463,17 +464,21 @@ let readAPI = function(dayPath, day, info, lesson){
 
   for (let bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++){
     let bibleVersion = iteratorArray[bibleVersionIterator],
-      resultRead = day.markdown,
       resultBible = {},
       language = info.language;
+
+    resultRead = day.markdown;
 
     if (bibleVersion.version) {
       language = bibleVersion.lang;
       bibleVersion = bibleVersion.version;
     }
+    let result = null
     try {
-      let result = bibleSearchBCV.search(language, bibleVersion, resultRead);
-    } catch (err){}
+      result = bibleSearchBCV.search(language, bibleVersion, resultRead);
+    } catch (err){
+      result = null
+    }
 
     if (!result) continue;
 
