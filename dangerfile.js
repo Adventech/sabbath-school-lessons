@@ -1,12 +1,11 @@
 import {message, fail, danger} from "danger"
+
 let metaMarked = require("meta-marked"),
     fs = require('fs-extra'),
     markdownlint = require("markdownlint"),
     yamljs = require("yamljs"),
     yamlLint = require('yaml-lint'),
     glob = require("glob");
-
-
 
 const options = {
   "files": [],
@@ -33,13 +32,13 @@ let getCompilationQuarterValue = function(d) {
   return d.getFullYear() + "-0" + quarterIndex;
 };
 
-// Teting
+// Testing
 glob("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)", function(er, files){
   for (let i = 0; i < files.length; i++){
     let fileName = files[i];
     for (let week = 1; week <= 13; week++) {
-      let weekExistsCheck = files[i] + "/" + pad(week, 2);
-      if (!fs.existsSync(files[i] + "/" + pad(week, 2))) {
+      let weekExistsCheck = fileName + "/" + pad(week, 2);
+      if (!fs.existsSync(fileName + "/" + pad(week, 2))) {
         fail("Quarterly folder must have complete structure. Missing " + weekExistsCheck);
       } else {
         for (let day = 1; day <= 7; day++) {
@@ -67,7 +66,7 @@ glob("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)/**/*.{yml,md}", function
       }
     } else if (fileExtension === "yml") {
       try {
-        let doc = yamlLint.lint(fs.readFileSync(files[i], 'utf8'));
+        let doc = yamljs.load(files[i]);
       } catch (e) {
         fail("Error parsing: " + files[i]+ ". Error: " + e.message);
       }

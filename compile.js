@@ -574,7 +574,7 @@ var readAPI = function(dayPath, day, info, lesson){
       _lesson = JSON.parse(JSON.stringify(lesson));
 
   _meta.slug = slug(read.title);
-  _meta.aliases = [info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day];
+  _meta.aliases = "/" + [info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day];
   _meta.lesson = convertDatesForWeb(_lesson);
   _meta.cover = _lesson.cover;
 

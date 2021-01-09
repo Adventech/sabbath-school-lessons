@@ -4,7 +4,7 @@
   "description": "",
   "main": "compile.js",
   "dependencies": {
-    "adventech-bible-tools": "git+https://github.com/Adventech/bible-tools.git",
+    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "async": "^2.6.3",
     "axios": "^0.19.0",
     "case": "^1.6.3",
@@ -12,7 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "columnify": "^1.5.4",
     "crypto": "0.0.3",
-    "danger": "^9.2.9",
+    "danger": "^10.6.0",
     "ent": "^2.2.0",
     "esrever": "^0.2.0",
     "firebase": "3.5.0",
@@ -42,7 +42,8 @@
     "optimist": "^0.6.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "node ./compile -b test -l en -q 2020-01",
+    "test": "node dangerfile.js"
   },
   "repository": {
     "type": "git",

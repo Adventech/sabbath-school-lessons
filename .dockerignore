@@ -1,0 +1,9 @@
+.github
+.git
+.yarn
+dist
+**/node_modules
+node_modules
+images
+src
+test
