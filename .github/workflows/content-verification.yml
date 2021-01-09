@@ -5,16 +5,15 @@ on:
     - dockernization
 
 jobs:
-  build:
+  verify:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install
-      uses: actions/setup-node@v2
+    - uses: actions/setup-node@v2
       with:
         node-version: '12'
         check-latest: true
-    - run: npm install && npm install yarn && yarn add danger
-    - run: yarn danger ci
+    - run: npm install
+    - run: danger ci
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
