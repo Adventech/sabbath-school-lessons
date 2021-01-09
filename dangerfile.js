@@ -1,6 +1,5 @@
 import {message, fail, danger} from "danger"
-const newFiles = danger.git.created_files.join("- ")
-message("New Files in this PR: \n - " + newFiles);
+message("Hello");
 let metaMarked = require("meta-marked"),
     fs = require('fs-extra'),
     markdownlint = require("markdownlint"),
