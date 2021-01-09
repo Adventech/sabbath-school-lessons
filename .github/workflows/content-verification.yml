@@ -14,5 +14,7 @@ jobs:
       with:
         node-version: '12'
         check-latest: true
-    - run: npm install
-    - run: node dangerfile.js
+    - run: npm install && npm install yarn && yarn add danger
+    - run: yarn danger ci
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
