@@ -13,7 +13,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
-      - run: ./.github/scripts/decrypt.sh
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
         env:
           CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
       - run: tar xvf deploy-creds.tar
