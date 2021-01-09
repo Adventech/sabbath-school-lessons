@@ -1,0 +1,16 @@
+name: content-verification
+on:
+  push:
+    branches:
+      - dockernization
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - with:
+          node-version: '12'
+          check-latest: true
+      - run: npm install
+      - run: node dangerfile.js
