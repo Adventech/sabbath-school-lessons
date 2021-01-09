@@ -66,7 +66,7 @@ let donationNotice = {
     "</div>"
 }
 
-var glob                = require("glob"),
+let glob                = require("glob"),
     yamljs              = require("yamljs"),
     metaMarked          = require("meta-marked"),
     ent                 = require('ent'),
@@ -75,10 +75,10 @@ var glob                = require("glob"),
     changeCase          = require('change-case'),
     bibleSearchBCV      = require("adventech-bible-tools/bible_tools_bcv");
 
-var firebase = require("firebase"),
+let firebase = require("firebase"),
     async = require("async");
 
-var API_HOST = "https://sabbath-school.adventech.io/api/",
+let API_HOST = "https://sabbath-school.adventech.io/api/",
     API_VERSION = "v1",
     SOURCE_DIR = "src/",
     SOURCE_INFO_FILE = "info.yml",
@@ -94,7 +94,7 @@ var API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
-var argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
+let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
     .alias({"b": "branch"})
     .describe({
@@ -105,22 +105,22 @@ var argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU
     .demand(["b"])
     .argv;
 
-var getCompilationQuarterValue = function(d) {
+let getCompilationQuarterValue = function(d) {
   d = d || new Date();
-  var quarterIndex = (Math.ceil((d.getMonth()+1)/3)),
+  let quarterIndex = (Math.ceil((d.getMonth()+1)/3)),
       nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex+1) : (d.getFullYear()+1) + "-01";
 
   return "(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")";
 };
 
-var branch = argv.b,
+let branch = argv.b,
     compile_language = argv.l || "*",
     compile_quarter = argv.q || "";
 
-var firebaseDeploymentTasks = [];
+let firebaseDeploymentTasks = [];
 
-var getInfoFromPath = function(path){
-  var infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
+let getInfoFromPath = function(path){
+  let infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
       matches = infoRegExp.exec(path),
       info = {};
 
@@ -132,19 +132,18 @@ var getInfoFromPath = function(path){
   return info;
 };
 
-var renderer = new metaMarked.noMeta.Renderer();
+let renderer = new metaMarked.noMeta.Renderer();
 
 renderer.codespan = function(text) {
     return '<code>' + ent.decode(text) + '</code>';
 };
 
-var slug = function(input){
-  var s = changeCase.lower(input).replace(/ /g, "-");
-  return s;
+let slug = function(input){
+  return changeCase.lower(input).replace(/ /g, "-")
 };
 
-var convertDatesForWeb = function(object){
-  for (var key in object) {
+let convertDatesForWeb = function(object){
+  for (let key in object) {
     if (object.hasOwnProperty(key)) {
       if (key === "date" ||
         key === "start_date" ||
@@ -156,9 +155,18 @@ var convertDatesForWeb = function(object){
   return object;
 };
 
-var yamlify = function(json){
+let yamlify = function(json){
   return "---\n" + yamljs.stringify(json, 4) + "\n---";
 };
+
+let deployAndClean = function () {
+  async.series(firebaseDeploymentTasks,
+    function(err, results) {
+      db.goOffline()
+    }
+  );
+  firebaseDeploymentTasks = []
+}
 
 if (branch.toLowerCase() === "master"){
   API_HOST = "https://sabbath-school.adventech.io/api/";
@@ -186,7 +194,7 @@ if (branch.toLowerCase() === "master"){
       return {
         set: function(){},
         child: function(){
-          return { set: function(){} }
+          return { set: function(){}, once: function (){}}
         }
       }
     },
@@ -194,131 +202,68 @@ if (branch.toLowerCase() === "master"){
   }
 }
 
-glob("images/global/**/cover.png", function(er, files){
-  for (var i = 0; i < files.length; i++){
+// Processing cover images
+(function (files) {
+  for (let i = 0; i < files.length; i++){
     fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
     if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
       fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
     }
   }
-});
+})(glob.sync("images/global/**/cover.png"));
 
-glob("images/misc/*.{png,jpg,jpeg}", function(er, files){
-  for (var i = 0; i < files.length; i++){
+// Processing other images
+(function (files) {
+  for (let i = 0; i < files.length; i++){
     fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
     if (branch.toLowerCase() !== "master" && branch.toLowerCase() !== "stage"){
       fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
     }
   }
-});
+})(glob.sync("images/misc/*.{png,jpg,jpeg}"));
 
 // Create languages API endpoint
-glob("src/*/info.yml", {}, function (er, files) {
-  var languages = [];
-  for (var i = 0; i < files.length; i++){
+(function (files) {
+  let languages = [];
+  for (let i = 0; i < files.length; i++){
     languages.push(yamljs.load(files[i]));
   }
 
   // Firebase
   (function(languages) {
     firebaseDeploymentTasks.push(function (cb) {
+      console.log('Deploying languages')
       db.ref(FIREBASE_DATABASE_LANGUAGES).set(languages, function (e) {
         cb(false, true);
       });
     });
   })(languages);
 
+  deployAndClean();
   // API
   fs.outputFileSync(DIST_DIR + "/languages/index.json", JSON.stringify(languages));
-});
+})(glob.sync("src/*/info.yml"));
 
-// get quarterlies
-glob("src/"+compile_language+"/", {}, function (er, files) {
-  for (var i = 0; i < files.length; i++){
-    var quarterlies = quarterliesAPI(files[i]),
-        info = getInfoFromPath(files[i]);
-
-    if (!quarterlies.length) return;
-
-    // Firebase Deployment
-    (function(language, quarterlies){
-      firebaseDeploymentTasks.push(function(cb){
-        db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).once("value", function(data){
-          var existingQuarterlies = data.val() || [];
-
-          for (var i = 0; i < quarterlies.length; i++) {
-            var replaced = false;
-            for (var j = 0; j < existingQuarterlies.length; j++) {
-              if (existingQuarterlies[j] && quarterlies[i].index === existingQuarterlies[j].index) {
-                existingQuarterlies[j] = quarterlies[i];
-                replaced = true;
-              }
-            }
-            if (!replaced) {
-              existingQuarterlies.unshift(quarterlies[i]);
-            }
-          }
-
-          existingQuarterlies = existingQuarterlies.sort(function(a, b){
-            var s = a.index,
-                d = b.index;
-
-            if (s.length === 10) s += "_";
-            if (d.length === 10) d += "_";
-
-            if (s < d) return -1;
-            if (s > d) return 1;
-
-            return 0;
-          }).reverse();
-
-          db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).set(existingQuarterlies, function (e) {
-            cb(false, true);
-          });
-
-        });
-      });
-    })(info.language, quarterlies);
-
-    // API
-    fs.outputFileSync(files[i].replace(SOURCE_DIR, DIST_DIR) + "/quarterlies/index.json", JSON.stringify(quarterlies));
-
-    var _quarterlies = JSON.parse(JSON.stringify(quarterlies));
-
-    // Web
-    fs.outputFileSync(files[i].replace(SOURCE_DIR, WEB_DIR) + "_index.md", yamlify({quarterlies: _quarterlies.map(function (q) {
-      q.path = q.path.replace(/quarterlies\//g, "");
-      return convertDatesForWeb(q)
-    }), type: "quarterly"}));
-  }
-
-  async.series(firebaseDeploymentTasks,
-    function(err, results) {
-      db.goOffline();
-    }
-  );
-});
-
-var quarterliesAPI = function(languagePath){
-  var quarterlies = [];
+let quarterliesAPI = function(languagePath){
+  let quarterlies = [];
 
   // Getting files and sorting based on the quarterly type and year quarter
-  var files = glob.sync(languagePath+compile_quarter+"*/").sort(function(a, b){
+  let files = glob.sync(languagePath+compile_quarter+"*/").sort(function(a, b){
     if (a.length === 15) a = a + "_";
     if (a < b) return -1;
     if (a > b) return 1;
     return 0;
   }).reverse();
 
-  for (var i = 0; i < files.length; i++){
+  for (let i = 0; i < files.length; i++){
     let q = quarterlyAPI(files[i]);
     if (q) { quarterlies.push(q); }
   }
   return quarterlies;
 };
 
-var quarterlyAPI = function(quarterlyPath){
-  var quarterly = yamljs.load(quarterlyPath + "info.yml"),
+let quarterlyAPI = function(quarterlyPath){
+  let quarterly = yamljs.load(quarterlyPath + "info.yml"),
       info = getInfoFromPath(quarterlyPath);
 
   if (quarterly.skip) return false;
@@ -343,7 +288,7 @@ var quarterlyAPI = function(quarterlyPath){
     quarterly.cover = "";
   }
 
-  var lessons = lessonsAPI(quarterlyPath);
+  let lessons = lessonsAPI(quarterlyPath);
 
   // Firebase
   (function(quarterly){
@@ -354,11 +299,13 @@ var quarterlyAPI = function(quarterlyPath){
     });
   })({quarterly: quarterly, lessons: lessons});
 
+  deployAndClean();
+
   // API
   fs.outputFileSync(DIST_DIR + quarterly.path + "/index.json", JSON.stringify({quarterly: quarterly, lessons: lessons}));
 
   // Web
-  var _quarterly = JSON.parse(JSON.stringify(quarterly)),
+  let _quarterly = JSON.parse(JSON.stringify(quarterly)),
       _lessons = JSON.parse(JSON.stringify(lessons));
 
   _quarterly.type = "lesson";
@@ -377,24 +324,26 @@ var quarterlyAPI = function(quarterlyPath){
   return quarterly;
 };
 
-var lessonsAPI = function(quarterlyPath){
-  var lessons = [],
+let lessonsAPI = function(quarterlyPath){
+  let lessons = [],
       files = glob.sync(quarterlyPath+"*/"),
       info = getInfoFromPath(quarterlyPath);
 
-  for (var i = 0; i < files.length; i++){
+  for (let i = 0; i < files.length; i++){
     lessons.push(lessonAPI(files[i]));
   }
 
   // Firebase
   (function(language, quarterly, lessons){
     firebaseDeploymentTasks.push(function(cb){
+      console.log('Deployment', language + "-" + quarterly)
       db.ref(FIREBASE_DATABASE_LESSONS).child(language + "-" + quarterly).set(lessons, function(e){
-        console.log('Deployment', language + "-" + quarterly)
         cb(false, true);
       });
     });
   })(info.language, info.quarterly, lessons);
+
+  deployAndClean()
 
   // API
   fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + "index.json", JSON.stringify(lessons));
@@ -402,8 +351,8 @@ var lessonsAPI = function(quarterlyPath){
   return lessons;
 };
 
-var lessonAPI = function(lessonPath){
-  var lesson = yamljs.load(lessonPath + "info.yml"),
+let lessonAPI = function(lessonPath){
+  let lesson = yamljs.load(lessonPath + "info.yml"),
       info = getInfoFromPath(lessonPath);
 
   lesson.id = info.lesson;
@@ -422,17 +371,18 @@ var lessonAPI = function(lessonPath){
     lesson.cover = lesson.full_path + "/" + SOURCE_COVER_FILE;
   } catch (err) {}
 
-  var days = daysAPI(lessonPath, JSON.parse(JSON.stringify(lesson)));
+  let days = daysAPI(lessonPath, JSON.parse(JSON.stringify(lesson)));
 
   // Firebase
   (function(lesson){
     firebaseDeploymentTasks.push(function(cb){
       db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.lesson.index).set(lesson, function(e){
-        console.log('Deployment', lesson.lesson.index)
         cb(false, true);
       });
     });
   })({lesson: lesson, days: days});
+
+  deployAndClean();
 
   // API
   fs.outputFileSync(DIST_DIR + lesson.path + "/index.json", JSON.stringify({lesson: lesson, days: days}));
@@ -440,17 +390,17 @@ var lessonAPI = function(lessonPath){
   return lesson;
 };
 
-var daysAPI = function(lessonPath, lesson){
-  var days = [],
+let daysAPI = function(lessonPath, lesson){
+  let days = [],
       files = glob.sync(lessonPath+"/*.md"),
       info = getInfoFromPath(lessonPath),
       assets = glob.sync(lessonPath+"/*.{png,jpg,jpeg}")
 
-  for (var i = 0; i < assets.length; i++){
+  for (let i = 0; i < assets.length; i++){
     fs.copySync(assets[i], DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + assets[i].replace(lessonPath, ""));
   }
 
-  for (var i = 0; i < files.length; i++){
+  for (let i = 0; i < files.length; i++){
     days.push(dayAPI(files[i], lesson));
   }
 
@@ -464,6 +414,8 @@ var daysAPI = function(lessonPath, lesson){
       });
     })(info.language, info.quarterly, info.lesson, days);
 
+    deployAndClean();
+
     // API
     fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + "index.json", JSON.stringify(days));
   }
@@ -471,13 +423,13 @@ var daysAPI = function(lessonPath, lesson){
   return days;
 };
 
-var dayAPI = function(dayPath, lesson){
-  var _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer}),
+let dayAPI = function(dayPath, lesson){
+  let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer}),
       info = getInfoFromPath(dayPath);
 
   readAPI(dayPath, _day, info, lesson);
 
-  var day = _day.meta;
+  let day = _day.meta;
   day.id = info.day;
   day.index = info.language + "-" + info.quarterly + "-" + info.lesson + "-" + info.day;
   day.path = info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + info.day;
@@ -491,11 +443,11 @@ var dayAPI = function(dayPath, lesson){
   return day;
 };
 
-var readAPI = function(dayPath, day, info, lesson){
+let readAPI = function(dayPath, day, info, lesson){
   if (!(new RegExp(getCompilationQuarterValue()).test(info.quarterly.substring(0, 7)))) {
     return false;
   }
-  var read = {};
+  let read = {};
   let meta = null;
 
   try {
@@ -506,11 +458,11 @@ var readAPI = function(dayPath, day, info, lesson){
     return;
   }
 
-  var quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-')+1);
-  var iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
+  let quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-')+1);
+  let iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
 
-  for (var bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++){
-    var bibleVersion = iteratorArray[bibleVersionIterator],
+  for (let bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++){
+    let bibleVersion = iteratorArray[bibleVersionIterator],
       resultRead = day.markdown,
       resultBible = {},
       language = info.language;
@@ -520,7 +472,7 @@ var readAPI = function(dayPath, day, info, lesson){
       bibleVersion = bibleVersion.version;
     }
     try {
-      var result = bibleSearchBCV.search(language, bibleVersion, resultRead);
+      let result = bibleSearchBCV.search(language, bibleVersion, resultRead);
     } catch (err){}
 
     if (!result) continue;
@@ -530,7 +482,7 @@ var readAPI = function(dayPath, day, info, lesson){
     resultBible["name"] = bibleVersion.toUpperCase();
 
     if (result.verses.length){
-      resultBible["verses"] = result.verses.reduce(function(result,item){var key=Object.keys(item)[0]; result[key]=item[key]; return result;},{});
+      resultBible["verses"] = result.verses.reduce(function(result,item){let key=Object.keys(item)[0]; result[key]=item[key]; return result;},{});
       meta.bible.push(resultBible);
     }
   }
@@ -567,10 +519,12 @@ var readAPI = function(dayPath, day, info, lesson){
     })
   })(read);
 
+  deployAndClean();
+
   // API
   fs.outputFileSync(DIST_DIR + info.language + "/quarterlies/" + info.quarterly + "/lessons/" + info.lesson + "/days/" + info.day + "/read/" + "index.json", JSON.stringify(read));
 
-  var _meta = JSON.parse(JSON.stringify(meta)),
+  let _meta = JSON.parse(JSON.stringify(meta)),
       _lesson = JSON.parse(JSON.stringify(lesson));
 
   _meta.slug = slug(read.title);
@@ -581,3 +535,68 @@ var readAPI = function(dayPath, day, info, lesson){
   // Web
   fs.outputFileSync(WEB_DIR + info.language + "/" + info.quarterly + "/" + info.lesson + "/" + info.day + ".md", yamlify(convertDatesForWeb(_meta)) + resultRead + copyrightNotice);
 };
+
+// get quarterlies
+(function(files) {
+  for (let i = 0; i < files.length; i++) {
+    let quarterlies = quarterliesAPI(files[i]),
+      info = getInfoFromPath(files[i]);
+
+    if (!quarterlies.length) return;
+
+    // Firebase Deployment
+    (function (language, quarterlies) {
+      firebaseDeploymentTasks.push(function (cb) {
+        db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).once("value", function (data) {
+          let existingQuarterlies = data.val() || [];
+
+          for (let i = 0; i < quarterlies.length; i++) {
+            let replaced = false;
+            for (let j = 0; j < existingQuarterlies.length; j++) {
+              if (existingQuarterlies[j] && quarterlies[i].index === existingQuarterlies[j].index) {
+                existingQuarterlies[j] = quarterlies[i];
+                replaced = true;
+              }
+            }
+            if (!replaced) {
+              existingQuarterlies.unshift(quarterlies[i]);
+            }
+          }
+
+          existingQuarterlies = existingQuarterlies.sort(function (a, b) {
+            let s = a.index,
+              d = b.index;
+
+            if (s.length === 10) s += "_";
+            if (d.length === 10) d += "_";
+
+            if (s < d) return -1;
+            if (s > d) return 1;
+
+            return 0;
+          }).reverse();
+
+          db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).set(existingQuarterlies, function (e) {
+            cb(false, true);
+          });
+
+        });
+      });
+    })(info.language, quarterlies);
+
+    // API
+    fs.outputFileSync(files[i].replace(SOURCE_DIR, DIST_DIR) + "/quarterlies/index.json", JSON.stringify(quarterlies));
+
+    let _quarterlies = JSON.parse(JSON.stringify(quarterlies));
+
+    // Web
+    fs.outputFileSync(files[i].replace(SOURCE_DIR, WEB_DIR) + "_index.md", yamlify({
+      quarterlies: _quarterlies.map(function (q) {
+        q.path = q.path.replace(/quarterlies\//g, "");
+        return convertDatesForWeb(q)
+      }), type: "quarterly"
+    }));
+  }
+
+  deployAndClean();
+})(glob.sync("src/"+compile_language+"/"));
