@@ -1,5 +1,5 @@
 import {message, fail, danger} from "danger"
-message("Hello");
+
 let metaMarked = require("meta-marked"),
     fs = require('fs-extra'),
     markdownlint = require("markdownlint"),
