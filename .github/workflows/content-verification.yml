@@ -2,7 +2,7 @@ name: content-verification
 on:
   push:
     branches:
-      - dockernization
+    - dockernization
 
 jobs:
   build:
@@ -13,6 +13,6 @@ jobs:
       with:
         node-version: '12'
         check-latest: true
-      run: npm install
+    - run: npm install
     - name: Install
     - run: node dangerfile.js
