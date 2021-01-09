@@ -16,4 +16,4 @@ jobs:
     - run: npm install
     - run: ./node_modules/danger/distribution/commands/danger.js ci
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
