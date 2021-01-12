@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-'use strict';
+
 const copyrightNotice = "\n\n<p><small>Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.</small></p>";
 
 let donationNotice = {
@@ -66,7 +66,7 @@ let donationNotice = {
     "</div>"
 }
 
-let firebase = require("firebase"),
+let firebase = require("firebase-admin"),
     glob = require("glob"),
     yamljs = require("yamljs"),
     metaMarked = require("meta-marked"),
@@ -160,7 +160,7 @@ if (branch.toLowerCase() === "master") {
   API_HOST = "https://sabbath-school.adventech.io/api/";
   firebase.initializeApp({
     databaseURL: "https://blistering-inferno-8720.firebaseio.com",
-    serviceAccount: "deploy-creds.json",
+    credential: firebase.credential.cert(require('./deploy-creds.json')),
     databaseAuthVariableOverride: {
       uid: "deploy"
     }
@@ -170,13 +170,20 @@ if (branch.toLowerCase() === "master") {
   API_HOST = "https://sabbath-school-stage.adventech.io/api/";
   firebase.initializeApp({
     databaseURL: "https://sabbath-school-stage.firebaseio.com",
-    serviceAccount: "deploy-creds-stage.json",
+    credential: firebase.credential.cert(require('./deploy-creds-stage.json')),
     databaseAuthVariableOverride: {
       uid: "deploy"
     }
   });
   db = firebase.database();
 } else {
+  firebase = {
+    app: function () {
+      return {
+        delete: function () {}
+      }
+    }
+  };
   db = {
     ref: function () {
       return {
@@ -194,8 +201,8 @@ if (branch.toLowerCase() === "master") {
 }
 
 // Processing cover images
-// TODO: only current quarter
 let processCoverImages = function () {
+  console.log('Processing cover images');
   let files = glob.sync(`images/global/${compile_quarter}/*/cover.png`);
   for (let i = 0; i < files.length; i++) {
     fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
@@ -207,6 +214,7 @@ let processCoverImages = function () {
 
 // Processing other images
 let processMiscImages = function () {
+  console.log('Processing misc images');
   let files = glob.sync("images/misc/*.{png,jpg,jpeg}");
   for (let i = 0; i < files.length; i++) {
     fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
@@ -217,6 +225,7 @@ let processMiscImages = function () {
 };
 
 let processAssetImages = function () {
+  console.log('Processing asset images');
   let assets = glob.sync(`src/*/${compile_quarter}/*/*.{png,jpg,jpeg}`);
   for (let asset of assets) {
     let info = getInfoFromPath(asset)
@@ -289,6 +298,7 @@ let getDayJSON = function (dayPath, deep) {
 
 // Create languages API endpoint
 let languagesAPI = async function () {
+  console.log('Deploying languages API');
   let languages = [];
   for (let language of glob.sync("src/*/info.yml")) {
     languages.push(yamljs.load(language));
@@ -296,12 +306,12 @@ let languagesAPI = async function () {
 
   // Firebase
   await db.ref(FIREBASE_DATABASE_LANGUAGES).set(languages);
-
   // API
   fs.outputFileSync(`${DIST_DIR}/languages/index.json`, JSON.stringify(languages));
 };
 
 let quarterliesAPI = async function () {
+  console.log('Deploying quarterlies API');
   let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, 6));
 
   for (let language of languages) {
@@ -361,6 +371,7 @@ let quarterliesAPI = async function () {
 };
 
 let quarterlyAPI = async function () {
+  console.log('Deploying quarterly API');
   let quarterlies = glob.sync(`src/${compile_language}/${compile_quarter}/`);
 
   for (let quarterlyId of quarterlies) {
@@ -391,6 +402,7 @@ let quarterlyAPI = async function () {
 };
 
 let lessonAPI = async function () {
+  console.log('Deploying lesson API');
   let lessons = glob.sync(`src/${compile_language}/${compile_quarter}/*/`);
 
   for (let lessonId of lessons) {
@@ -409,6 +421,7 @@ let lessonAPI = async function () {
 };
 
 let dayAPI = async function () {
+  console.log('Deploying day API');
   let days = glob.sync(`src/${compile_language}/${compile_quarter}/**/*.md`);
 
   for (let dayId of days) {
@@ -498,7 +511,7 @@ let dayAPI = async function () {
     fs.outputFileSync(`${DIST_DIR}${_day.path}/index.json`, JSON.stringify(_day));
     fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
 
-    let lesson = getLessonJSON(dayId.replace(/\d+.md$/, ''))
+    let lesson = getLessonJSON(dayId.replace(dayId.split("/").pop(), ''));
     meta.slug = slug(read.title);
     meta.aliases = `/${info.language}/${info.quarterly}/${info.lesson}/${info.day}`;
     meta.lesson = convertDatesForWeb(lesson);
@@ -514,9 +527,12 @@ let dayAPI = async function () {
   processMiscImages();
   processAssetImages();
 
-  await languagesAPI();
-  await quarterliesAPI();
-  await quarterlyAPI();
-  await lessonAPI();
   await dayAPI();
-})()).then(() => {db.goOffline()});
+  await lessonAPI();
+  await quarterlyAPI();
+  await quarterliesAPI();
+  await languagesAPI();
+})()).then(() => {
+  db.goOffline();
+  firebase.app().delete();
+});
