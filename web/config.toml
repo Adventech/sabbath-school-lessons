@@ -2,6 +2,9 @@ baseURL = "https://sabbath-school.adventech.io/"
 languageCode = "en"
 title = "Sabbath School"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 # very ugly, but quicker way to implement i18n using config
 [params]
 [params.en]
