@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-const copyrightNotice = "\n\n<p><small>Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.</small></p>";
-
 let donationNotice = {
   'en': "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
     "    <div class=\"ss-donation-appeal-title\">\n" +
@@ -498,7 +496,6 @@ let dayAPI = async function () {
       read.content = donationNotice[info.language] + read.content;
       resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
     }
-    read.content += copyrightNotice;
 
     // Firebase
     await db.ref(FIREBASE_DATABASE_READ).child(read.index).set(read);
@@ -514,7 +511,7 @@ let dayAPI = async function () {
     meta.cover = lesson.cover;
 
     // Web
-    fs.outputFileSync(`${WEB_DIR}${info.language}/${info.quarterly}/${info.lesson}/${info.day}.md`, yamlify(convertDatesForWeb(meta)) + resultRead + copyrightNotice);
+    fs.outputFileSync(`${WEB_DIR}${info.language}/${info.quarterly}/${info.lesson}/${info.day}.md`, yamlify(convertDatesForWeb(meta)) + resultRead);
   }
 };
 
