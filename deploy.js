@@ -177,6 +177,13 @@ if (branch.toLowerCase() === "master") {
   });
   db = firebase.database();
 } else {
+  firebase = {
+    app: function () {
+      return {
+        delete: function () {}
+      }
+    }
+  };
   db = {
     ref: function () {
       return {
@@ -504,7 +511,7 @@ let dayAPI = async function () {
     fs.outputFileSync(`${DIST_DIR}${_day.path}/index.json`, JSON.stringify(_day));
     fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
 
-    let lesson = getLessonJSON(dayId.replace(/\d+.md$/, ''))
+    let lesson = getLessonJSON(dayId.replace(dayId.split("/").pop(), ''));
     meta.slug = slug(read.title);
     meta.aliases = `/${info.language}/${info.quarterly}/${info.lesson}/${info.day}`;
     meta.lesson = convertDatesForWeb(lesson);
@@ -525,4 +532,7 @@ let dayAPI = async function () {
   await quarterlyAPI();
   await quarterliesAPI();
   await languagesAPI();
-})()).then(() => {db.goOffline();firebase.app().delete();});
+})()).then(() => {
+  db.goOffline();
+  firebase.app().delete();
+});
