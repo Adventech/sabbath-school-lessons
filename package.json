@@ -6,7 +6,7 @@
   "dependencies": {
     "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "ent": "^2.2.0",
-    "firebase": "^8.2.2",
+    "firebase-admin": "^9.4.2",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6",
     "meta-marked": "^0.5.0",
