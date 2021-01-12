@@ -237,8 +237,6 @@ let getQuarterlyJSON = function (quarterlyPath) {
   let quarterly = yamljs.load(`${quarterlyPath}info.yml`),
       info = getInfoFromPath(quarterlyPath);
 
-  if (quarterly.skip) return false;
-
   quarterly.lang = info.language;
   quarterly.id = info.quarterly;
   quarterly.index = `${info.language}-${info.quarterly}`;
@@ -437,8 +435,7 @@ let dayAPI = async function () {
       meta = JSON.parse(JSON.stringify(day.meta));
       meta.bible = [];
     } catch (e) {
-      console.error('Error parsing this file: ', dayId)
-      return;
+      console.error('Error parsing this file: ', dayId);
     }
 
     let quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-') + 1);
@@ -461,7 +458,6 @@ let dayAPI = async function () {
         result = bibleSearchBCV.search(language, bibleVersion, resultRead);
       } catch (err) {
         result = null;
-        return;
       }
       if (!result) continue;
 
