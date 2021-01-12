@@ -4,7 +4,6 @@ let metaMarked = require("meta-marked"),
     fs = require('fs-extra'),
     markdownlint = require("markdownlint"),
     yamljs = require("yamljs"),
-    yamlLint = require('yaml-lint'),
     glob = require("glob");
 
 const options = {

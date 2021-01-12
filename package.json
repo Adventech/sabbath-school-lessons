@@ -9,6 +9,7 @@
     "firebase-admin": "^9.4.2",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6",
+    "markdownlint": "^0.22.0",
     "meta-marked": "^0.5.0",
     "moment": "^2.29.1",
     "optimist": "^0.6.1",
