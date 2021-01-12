@@ -29,13 +29,13 @@ jobs:
       - run: curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
       - run: unzip awscli-bundle.zip
       - run: ./awscli-bundle/install -b ~/bin/aws
-      - run: if [ ${{ steps.extract_branch.outputs.branch }} = "stage" ] ; then sed -i -e "s/sabbath-school\.adventech\.io/sabbath-school-stage\.adventech\.io/g" config.toml; fi
+      - run: if [ "${{ steps.extract_branch.outputs.branch }}" = "stage" ] ; then sed -i -e "s/sabbath-school\.adventech\.io/sabbath-school-stage\.adventech\.io/g" config.toml; fi
         working-directory: ./web
       - run: hugo -DF
         working-directory: ./web
       - run: mv -v web/public/* dist/
       - name: Web deploy
-        run: aws s3 sync dist/ s3://sabbath-school`[[ ${{ steps.extract_branch.outputs.branch }} = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --size-only
+        run: aws s3 sync dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --size-only
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
