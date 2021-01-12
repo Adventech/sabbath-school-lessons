@@ -5,6 +5,7 @@
   "main": "compile.js",
   "dependencies": {
     "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
+    "danger": "^10.6.0",
     "ent": "^2.2.0",
     "firebase-admin": "^9.4.2",
     "fs-extra": "^9.0.1",
