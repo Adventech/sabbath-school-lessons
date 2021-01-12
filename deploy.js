@@ -160,14 +160,13 @@ if (branch.toLowerCase() === "master") {
   API_HOST = "https://sabbath-school.adventech.io/api/";
   firebase.initializeApp({
     databaseURL: "https://blistering-inferno-8720.firebaseio.com",
-    serviceAccount: "deploy-creds.json",
+    credential: firebase.credential.cert(require('./deploy-creds.json')),
     databaseAuthVariableOverride: {
       uid: "deploy"
     }
   });
   db = firebase.database();
 } else if (branch.toLowerCase() === "stage") {
-
   API_HOST = "https://sabbath-school-stage.adventech.io/api/";
   firebase.initializeApp({
     databaseURL: "https://sabbath-school-stage.firebaseio.com",
