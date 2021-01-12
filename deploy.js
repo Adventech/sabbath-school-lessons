@@ -412,6 +412,7 @@ let dayAPI = async function () {
   let days = glob.sync(`src/${compile_language}/${compile_quarter}/**/*.md`);
 
   for (let dayId of days) {
+    console.log(dayId)
     let dayJSON = getDayJSON(dayId, true);
     let day = dayJSON[1],
         _day = dayJSON[0],
