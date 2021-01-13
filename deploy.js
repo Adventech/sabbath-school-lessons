@@ -58,7 +58,7 @@ let donationNotice = {
     "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
     "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
     "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
-    "<p><strong><a href=\"https://zrzutka.pl/d9unn2\">https://zrzutka.pl/d9unn2</a></strong></p>\n" +
+    "<p><strong><a href=\"https://zrzutka.pl/87vbnb\">https://zrzutka.pl/87vbnb</a></strong></p>\n" +
     "<p><em>Zespół Adventech</em></p>" +
     "</div>\n" +
     "</div>"
@@ -492,7 +492,7 @@ let dayAPI = async function () {
 
     read.content = metaMarked(resultRead, {renderer: renderer}).html;
 
-    if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId) || /^src\/pl\/2020-(03|04)/img.test(dayId))) {
+    if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId) || /^src\/pl\/202\d-\d{2}/img.test(dayId))) {
       read.content = donationNotice[info.language] + read.content;
       resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
     }
