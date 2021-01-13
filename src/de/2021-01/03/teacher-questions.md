@@ -25,9 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
 -   **[Soziale
     Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
 -   **[Wir alle beteiligen
@@ -51,7 +48,7 @@ II: Wir studieren die Bibel
 -   Wenn du solche oder ähnliche Situationen schon erlebst hast – was
     hat dir Kraft gegeben? Wie konntest du diese Krisen durchstehen?
 
-### **Sonntag: Gefahr aus dem Norden**
+### **Gefahr aus dem Norden**
 
 **Jesaja 7,1-7; 2. Könige 16,7-10 und Prediger 10,4**
 
@@ -64,7 +61,7 @@ II: Wir studieren die Bibel
 -   Prediger 10,4: Erkläre diesen Vers. Wo ist dies anwendbar? Weshalb
     ist es besser, Ruhe zu bewahren als bspw. zu fliehen?
 
-### **Montag: Abfangversuch**
+### **Abfangversuch**
 
 **Jesaja 7,3-4.8-9**
 
@@ -81,7 +78,7 @@ II: Wir studieren die Bibel
     besonders nötig, ruhig zu bleiben und Gott zu vertrauen, dass er
     alles lenkt?
 
-### **Dienstag: Eine weitere Chance**
+### **Eine weitere Chance**
 
 **Jesaja 7,10-13**
 
@@ -95,7 +92,7 @@ II: Wir studieren die Bibel
 -   Dürfen wir Gott um Zeichen bitten? Begründe! Wenn ja, in welchen
     Situationen?
 
-### **Mittwoch: Das Zeichen: der Sohn & Donnerstag: „Gott ist mit uns!“**
+### **Das Zeichen: der Sohn & Donnerstag: „Gott ist mit uns!“**
 
 **Jesaja 7,14**
 
