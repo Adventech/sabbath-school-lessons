@@ -326,9 +326,9 @@ let quarterliesAPI = async function () {
 
     for (let quarterly of quarterlies) {
       let replaced = false;
-      for (let existingQuarterly of existingQuarterlies) {
-        if (existingQuarterly && quarterly.index === existingQuarterly.index) {
-          existingQuarterly = quarterly;
+      for (let i = 0; i < existingQuarterlies.length; i++) {
+        if (existingQuarterlies[i] && quarterly.index === existingQuarterlies[i].index) {
+          existingQuarterlies[i] = quarterly;
           replaced = true;
         }
       }
