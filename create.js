@@ -22,10 +22,7 @@ var argv = require("optimist")
 
 var fs     =  require("fs-extra"),
     moment =  require("moment"),
-    yamljs = require("yamljs"),
-    changeCase = require("case");
-
-changeCase.title = changeCase.capital
+    yamljs = require("yamljs");
 
 var SRC_PATH = "src/",
     QUARTERLY_COVER = "images/quarterly_cover.png",
@@ -381,7 +378,7 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
       m.year(parseInt(year));
       m.month(i + (3 * (parseInt(quarter)-1)));
       m.locale(quarterlyLanguage);
-      q += changeCase.title(m.format("MMMM")) + ((i < 2) ? ' · ' : ' ');
+      q += m.format("MMMM") + ((i < 2) ? ' · ' : ' ');
     }
     q += year;
     quarterlyHumanDate = q;
