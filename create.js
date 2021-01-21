@@ -152,7 +152,7 @@ var LOCALE_VARS = {
     "tl": "### <center>Nagsusumikap kami sa araling ito.</center>\n<center>Subukang muli mamaya.</center>",
     "tr": "### <center>Biz bu derste üzerinde çalışıyoruz.</center>\n<center>Lütfen daha sonra gelin.</center>",
     "uk": "### <center>Ми готуємо цей урок.</center>\n<center>Будь ласка, зайдіть пізніше.</center>",
-    "ja": "### <center>この日課は完了されています。　後でここに返ってください。</center>",
+    "ja": "### <center>この日課はまだ完了されていません。もう少し後で戻ってきてください。</center>",
     "zh": "### <center>我们正在学习这一课。请稍后再来。</center>",
     "vi": "### <center>Chúng tôi đang làm việc trên bài học này.</center>\n<center>Xin vui lòng trở lại sau.</center>",
     "xh": "### <center>Sisebenza kulesi sifundo.</center>\n<center>Sicela uzame futhi emuva kwesikhathi.</center>",
