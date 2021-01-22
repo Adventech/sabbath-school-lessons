@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   29/01/2021
 ---
 
-Auf die harte Tour
-==================
+[Auf die harte Tour](https://sabbath-school.adventech.io/de/2021-01/04/auf-die-harte-tour/)
+===========================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
