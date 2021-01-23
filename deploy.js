@@ -520,11 +520,15 @@ let dayAPI = async function () {
   processMiscImages();
   processAssetImages();
 
-  await dayAPI();
-  await lessonAPI();
-  await quarterlyAPI();
-  await quarterliesAPI();
-  await languagesAPI();
+  try {
+    await dayAPI();
+    await lessonAPI();
+    await quarterlyAPI();
+    await quarterliesAPI();
+    await languagesAPI();
+  } catch (e) {
+    console.error(e)
+  }
 })()).then(() => {
   db.goOffline();
   firebase.app().delete();
