@@ -308,7 +308,7 @@ let languagesAPI = async function () {
 
 let quarterliesAPI = async function () {
   console.log('Deploying quarterlies API');
-  let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, 6));
+  let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, x.length-1));
 
   for (let language of languages) {
     let quarterlies = glob.sync(`src/${language}/${compile_quarter}/`).sort(function (a, b) {
