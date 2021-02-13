@@ -66,6 +66,8 @@ II: Wir studieren die Bibel
 **Jes 36,2-20**
 
 -   Fragen zum Text:
+    -   Warum gibt die Bibel der Propaganda-Rede des Rabschake so viel
+        Raum?
     -   Welche Argumente hat der Rabschake?
     -   Welche dieser Argumente könnten für die Menschen in Jerusalem
         überzeugend gewesen sein?
@@ -81,6 +83,7 @@ II: Wir studieren die Bibel
 **Jes 36,21.22; Jes 37,1-20**
 
 -   Fragen zum Text:
+    -   Warum zerreißt Hiskia seine Kleider?
     -   Welche Ermutigung erhält Hiskia von Gott?
 -   Fragen zur Botschaft:
     -   Was spricht euch besonders an am Gebet des Hiskia?
@@ -88,6 +91,7 @@ II: Wir studieren die Bibel
     -   Wie kann es uns gelingen, in einer menschlich gesehen
         ausweglosen Lage dennoch zuversichtlich zu sein? Was hilft
         dabei? Was hindert uns daran?
+    -   Darf ein Christ auch Angst haben? Wie geht ihr mit Angst um?
 
 **Jes 37,21-38**
 
@@ -105,6 +109,9 @@ II: Wir studieren die Bibel
         der Delegation aus Babylon?
     -   Welche Chance und welches Risiko bargen dieser Besuch?
 -   Fragen zur Botschaft:
+    -   Warum, denkt ihr, dass Hiskia so eine grandiose Erfahrung mit
+        Gott macht, ihn dann aber beim Besuch der Babylonier nicht
+        einmal erwähnt?
     -   Warum versäumen wir es so oft, Gott für Erfolge und Wunder in
         unserem Leben die Ehre zu geben?
 
