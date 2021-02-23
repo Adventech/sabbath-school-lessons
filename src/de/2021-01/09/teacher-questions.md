@@ -57,7 +57,7 @@ II: Wir studieren die Bibel
 -   Grundsätzlich: Was zeichnet einen guten Diener aus? Welche
     Eigenschaften sind unabdingbar? Welche sollten nicht bestehen?
 
-### **Sonntag: Eine dienende Nation**
+### **Eine dienende Nation**
 
 **Jesaja 41,8-9; 42,1-4**
 
@@ -75,7 +75,7 @@ II: Wir studieren die Bibel
     Gott, über die Einschätzung unserer eigenen Kraft und die Bedeutung
     der Fürsorge Gottes lernen?
 
-### **Montag: Der ungenannte Knecht**
+### **Der ungenannte Knecht**
 
 **Jesaja 42,1-7**
 
@@ -85,7 +85,7 @@ II: Wir studieren die Bibel
 -   Worauf mögen Verse 2-3 deuten? Inwieweit sollen/können auch wir das
     heute anwenden?
 
-### **Dienstag: Persischer „Messias“**
+### **Persischer „Messias“**
 
 **Jesaja 44,26-45,4**
 
@@ -102,7 +102,7 @@ II: Wir studieren die Bibel
     Wozu würdest du gerne von ihm gerüstet werden? Welchen Ehrennamen
     hättest du gerne?
 
-### **Mittwoch: Hoffnung im Voraus**
+### **Hoffnung im Voraus**
 
 **3. Mose 26,40-45**
 
@@ -118,7 +118,7 @@ II: Wir studieren die Bibel
     ungehört verhallen zu lassen? Wie sieht es damit bei uns heute aus?
     Wo sind wir vllt. genauso unaufmerksam? Wie kommt es dazu?
 
-### **Donnerstag: Ein mitfühlender und leidender Knecht**
+### **Ein mitfühlender und leidender Knecht**
 
 **Jesaja 49,1-6**
 
