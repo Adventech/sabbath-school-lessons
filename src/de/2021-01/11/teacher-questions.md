@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   19/03/2021
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2021-01/11/01)
-=========================================================================
+[Lohnende Liebe](https://sabbath-school.adventech.io/de/2021-01/11/01)
+======================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
