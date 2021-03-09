@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   19/03/2021
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2021-01/11/01)
-=========================================================================
+[Lohnende Liebe](https://sabbath-school.adventech.io/de/2021-01/11/01)
+======================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -49,77 +49,91 @@ II: Wir studieren die Bibel
 STARTFRAGEN
 -----------
 
--   -   
+-   -   Was hat „Lohn“ mit „Liebe“ zu tun? Ist das nicht ein
+        Widerspruch?
+    -   Für wen lohnt sich Liebe? Wann lohnt sich Liebe nicht?
 
 SONNTAG – Kaufen, ohne zu bezahlen
 ----------------------------------
 
-**Text**
+**Jes 55,1-7**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was kostet Vergebung? Wem?
+    -   Warum heißt es hier „kauft ohne Geld“ und nicht einfach „nehmt“?
+        (Ev. Hinweis auf den Wert des Kaufs?)
+    -   Was meint Vers 2?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was können wir zu unserer Erlösung beitragen/tun? (Was meint
+        „kaufen“)?
+    -   (Eph2,8: Erlösung = Gabe) Wie kann/soll man mit einem Geschenk
+        umgehen? Wovon ist das abhängig?
+    -   Warum handelt Gott so?
 
 MONTAG – Höhere Gedanken und Wege
 ---------------------------------
 
-**Text**
+**Jes 55,6-13**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Eigenschaften Gottes betonen Verse 7-9 + 12?
+    -   Was will dann dieser überragende Gott? Was ist sein Ziel mit
+        uns? Warum?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was meint das “Suchet den Herrn“ praktisch? Was tun? Welche
+        Einstellung wichtig?
+    -   Welches Interesse hat Gott an einer persönlichen Liebesbeziehung
+        mit dir/mir? Wie wirkt das auf mich?
 
 DIENSTAG - Fasten, das den Namen verdient
 -----------------------------------------
 
-**Text**
+**Jes 58,2-8**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   War damals das Fasten eine Leistung?
+    -   Was wurde damals im Umgang mit Gott betont? Leistung oder
+        Demuts-Handlung, oder … ?
+    -   Was verstand aber Gott unter richtigem Fasten? Wonach sehnt er
+        sich?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was ist der Unterschied zwischen Religiosität und liebevoller
+        Beziehung
+    -   Welche Einstellung ist zu einem „gottgewollten“ Fasten/Handeln
+        nötig?
+    -   Was erwartet Gott von uns heute?
 
 MITTWOCH - Fastenkampf
 ----------------------
 
-**Text**
+**Jes 58,6-12**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was sagen diese Verse über Gottes Ziele mit/für uns Menschen?
+    -   Wie zeigt sich der Unterschied zwischen „Ritualen, Formen“ und
+        „echter Hingabe an Gott“?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie sollte das Erdenleben ursprünglich und grundsätzlich
+        aussehen? Was ist unser Beitrag?
+    -   Welche Wirkung will Gott durch seine Botschaft erreichen? (für
+        mich, für meine Umwelt,…)
+    -   Inwiefern ist das eine Beschreibung der Versöhnung die Gott
+        schenken will?
 
 DONNERSTAG - Eine Zeit für uns
 ------------------------------
 
-**Text**
+**Jes 58,13-14**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Ist Vers 13 ein Aufruf zur Pflichterfüllung oder zur
+        Beziehungspflege mit Gott? Warum?
+    -   Was sagt das über Gottes Ruhetag aus? (Sinn, Ziel, Tipps,…)
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie konnte damals der Sabbat (z.B. großer Versöhnungstag) zur
+        Erneuerung der Nachfolge Gottes helfen?
+    -   Wie kann der Sabbat praktisch meine „Lust“ am Herrn stärken?
+    -   Wann ist der Ruhetag eine Freude und wann eine Last?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
