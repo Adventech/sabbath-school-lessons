@@ -1,0 +1,60 @@
+---
+title:  Komen Guru
+date:  30/10/2020
+---
+
+#### Bahagian I: Gambaran Keseluruhan
+
+Sekiranya kita tidak pernah mengenali sepatah kata pun dari mulut Yesus, kita masih boleh menghabiskan seumur hidup untuk belajar dari Dia. Hakikat bahawa Dia meninggalkan surga untuk datang ke dunia ini, bersama dengan tindakan-Nya ketika di sini, memiliki hujah yang sangat luas. Mungkin inilah sebabnya mengapa semua tulisan dalam Perjanjian Baru sangat tipis dalam memetik kata-kata Yesus tetapi sebaliknya sangat luas dalam berbicara mengenai siapa Dia dan kehidupan yang Dia jalani semasa di bumi.
+
+Yesus adalah perihal dua-dalamsatu. Mengenali Dia memerlukan mempelajari mengenai Dia. "Philip berkata kepadanya, “Kata Filipus kepada-Nya: ‘Tuhan, tunjukkanlah Bapa itu kepada kami, itu sudah cukup bagi kami.’” (Yohanes 14:8). Seseorang boleh mendengar kehairanan dan kejutan menyedihkan dalam suara Yesus ketika Dia menjawab: “Telah sekian lama Aku bersama-sama kamu…. . . ?” (Yohanes 14:9). Dia mengharapkan agar murid-murid-Nya mengetahui apa yang penulis Ibrani ketahui, bahawa Dia sendiri adalah " adalah cahaya kemuliaan [Bapa-Nya] dan gambar wujud Tuhan” (Ibrani 1:3). Tema Kristologi yang penting di dalam Perjanjian Baru adalah bahawa Yesus menyatakan melalui dirinya bagaimana sifat Tuhan itu. Wajahnya mempamerkan wajah Tuhan (2 Korintus 4:6). Semasa mengajar Alkitab, kita harus menyampaikan ajaran-ajaran berdasarkan sifat Tuhan. Sifat ini paling baik boleh dilihat melalui satu-satunya yang boleh mengatakan secara eksklusif, “Barangsiapa telah melihat Aku, ia telah melihat Bapa” (Yohanes 14:9). Oleh itu, tanpa mengambilkira dari pengalaman seseorang, sejumlah ayat Alkitab yang dia boleh petik atau penghormatan terhadap doktrin denominasi seseorang, kehidupan Kristus harus selalu berfungsi sebagai pembetulan terhadap cara kita menggambarkan Tuhan.
+
+#### Bahagian II: Ulasan
+
+**Ilustrasi**
+
+Oleh, siapakah Yesus dari Nazaret ini? Jawapannya sering bergantung pada siapa yang bertanya. Semasa perjumpaan, saya diminta oleh seorang pastor denominasi lain tentang siapa Yesus itu dalam pandangan saya. Kerana konteksnya dan siapa yang bertanya, saya tahu apa yang dia kehendaki. Dia tidak ingin tahu sama ada Yesus adalah Mesias atau pernyataan mengenai Bapa atau Sahabat terbaik kita. Dia ingin tahu sama ada saya percaya bahawa Yesus adalah yang kekal, sudah ada sediakala, mahakuasa, maha mengetahui, maha – segala-gala yang lain yang menegaskan bahawa Yesus benar-benar adalah Tuhan. Disebaliknya, murid-murid telah memberikan jawapan yang berbeza daripada yang saya berikan. Catatan Matius memberikan jawapan berikut, “"Engkau adalah Mesias, Anak Tuhan yang hidup” (Matius 16:16). Ayat itu diringkaskan oleh Lukas yang mengatakan, :Mesias dari Tuhan” (Lukas 9:20) dan Markus hanya mengatakan, “Engkau adalah Mesias.” (Markus 8:29). Jelas sekali, Yesus sebagai Mesias adalah isu yang menjulang semasa pelayanan-Nya. Seiring berjalannya waktu, kadang-kadang masalah dan persoalan mengenai Yesus berubah. Walaupun Yesus tidak berubah, mungkin adalah suatu yang bermanfaat, berdasarkan konteks dan pendengar kita, untuk mengubah penekanan kita dalam cara kita menyampaikan Dia.
+
+Siapa Yesus itu boleh disampaikan dengan pelbagai cara. Perlu diingat bahawa para pendengar membantu mengurangkan pilihan penjelasannya. Berikut adalah contoh yang ekstrim: Seorang budak lelaki yang sedang nazar di atas katilnya tidak perlu mendengar tentang penyatuan hipostatik terhadap sifat ilahi dan manusia Yesus seperti yang dinyatakan oleh Majlis Chalcedon. Dia memerlukan Sahabat yang boleh memberikan penghiburan. Suatu keadaan lain boleh memberi kita peluang untuk satu perbincangan ilmiah terhadap perincian mengenai siapa Kristus itu. Sebagai pendidik, kita mesti dapat menyedari lingkungan pelayanan yang berbeza dan mengenali Kristus dengan cukup baik untuk dapat berkongsi sudut keperibadian-Nya yang tepat dan paling sesuai pada saat itu.
+
+**Kitab Suci**
+
+“Menyerahkan obor” adalah ungkapan bahasa Inggeris yang menunjukkan kembali kepada pelari Yunani yang menyerahkan obor dalam acara lari berganti-ganti di mana pelari terakhir sampai ke garis penamat dengan memegang obor di tangannya. Kitab Suci menyatakan situasi menyerahakan torch ini dalam cara yang mendebarkan dan juga membangunkan semangat pada masa yang sama. Sepertimana yang diketengahkan dalam pelajaran ini, Yesus datang untuk menyatakan sifat Bapa itu. Dalam ertikata tertentu, Bapa menyerahkan obor kepada Anak-Nya supaya wajah Anak itu akan menyinarkan wajah Bapa kepada pandangan kita. Berikut adalah beberapa petikan alkitabiah untuk tujuan itu:
+
+- "Dia [Yesus] adalah cahaya kemuliaan Tuhan" (Ibrani 1: 3a).
+- Yesus adalah “gambar wujud Tuhan” (Ibrani 1: 3b).
+- "Kemuliaan Kristus, yang merupakan gambaran Tuhan" (2 Korintus 4: 4, ESV).
+- "Pengetahuan tentang kemuliaan Tuhan yang nampak pada wajah Kristus" (2 Korintus 4: 6).
+- "Sesiapa yang telah melihat [Yesus] telah melihat Bapa'" (Yohanes 14: 9b).
+
+Tidak ada keraguan bahawa para penulis Perjanjian Baru ingin agar kita menyimpulkan bahawa ketika kita melihat Yesus, kita melihat gambaran yang tepat tentang Bapa.
+
+Oleh itu, Yesus memenuhi bahagian-Nya dalam perlumbaan itu. Adakah Dia telah menyerahkan obor itu kepada pelari seterusnya? Ya dia telah lakukannya. Namun, sudah tentulah bahawa  Dia tetap dan akan sentiasa kekal sebagai citra Bapa-Nya yang paling sempurna, tetapi Dia menyampaikan obor kepada para pengikut-Nya dalam satu pernyataan tanggungjawab dan hak istimewa yang dikongsikan bersama.
+
+Perhatikan “suruhan” yang Dia berikan kepada murid-muridnya — satu suruhan yang mungkin lebih besar daripada apa yang biasanya dikenali sebagai Suruhan Agung (Matius 28:18-20). Setelah dua kali mengisytiharkan damai sejahtera kepada murid-murid-Nya, Dia menyatakan, “Sama seperti Bapa mengutus Aku, demikian juga sekarang Aku mengutus kamu” (Yohanes 20:19, Yohanes 20:21). Tidak pernah perkataan kecil "seperti" begitu terhormat untuk membawa makna yang sangat besar seperti itu. Sama seperti Bapa mengutus Yesus untuk menunjukkan kepada dunia siapa Dia (Bapa) itu, Yesus sekarang mengutus kita untuk menunjukkan kepada dunia siapa Dia (Yesus). Obor itu telah diserahkan kepada kita.
+
+Tidak hairanlah ketika Dia meletakkan tanggungjawab suci ini di atas bahu murid-murid maka dua hal tertanam di antara dua tindakan Kristus yang memperkasakan. Pertama, Dia mengucapkan "damai sejahtera" kepada mereka sambil membiarkan mereka memandang bekas luka-Nya. Dia perlahan-lahan menanggalkan jubah-Nya sehingga mereka dapat melihat dan menyentuh rusuk-Nya yang dicucuk tombak dan menyentuh parut pada tangan-Nya. “Rabalah Aku, dan lihatlah. . .” (Lukas 24:39). Ketika mereka berdiri berkerumun mengelilingi Juruselamat mereka yang telah bangkit itu, Dia berkata lagi, “"Damai sejahtera bagi kamu” seolah-olah Dia mengaitkan luka-luka-Nya dengan damai sejahtera yang Dia kurniakan kepada  mereka (Yohanes 20:19-21). Mereka sekarang memiliki damai sejahtera - shalom - yang benar-benar melampaui semua pengertian dan menghantarkan mereka untuk berdamai dengan Tuhan (Filipi 4: 7, Roma 5: 1). Dia kemudian memberitahu mereka bahawa Dia mengutus mereka dalam cara Bapa-Nya telah mengutus Dia, tetapi tidak sebelum Dia melakukan satu tindakan terakhir. Dia menghembuskan nafas kepada mereka dan berkata, “Terimalah Roh Kudus” (Yohanes 20:22). Inilah yang  akan menjadi rahsia kejayaan mereka. Pengaruh Roh Tuhan yang diperbaharui dan memperkasakan akan membolehkan mereka untuk memantulkan Juruselamat mereka.
+
+Dalam memikirkan Yesus menyampaikan obor wahyu kepada umat-Nya, sejumlah ayat muncul dalam fikiran yang menguatkan idea bahawa kita telah dicipta dan ditebuskan untuk tujuan seperti itu.
+
+1. Yesus adalah gambaran Tuhan yang nyata (Ibrani 1: 3), dan umat manusia diciptakan menurut gambar Tuhan, seperti yang kita baca: “"Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita” (Kejadian 1:26).
+2. Yesus adalah imej Tuhan, tetapi kita harus dipulihkan kepada imej Yesus: “Sebab semua orang yang dipilih-Nya dari semula, mereka juga ditentukan-Nya dari semula untuk menjadi serupa dengan gambaran Anak-Nya” (Roma 8:29). “Dan kita semua,. . . melihat kemuliaan Tuhan, sedang berubah menjadi gambar yang sama ” (2 Korintus 3:18, ESV).
+3. Yesus adalah terang dunia (Yohanes 8:12), demikian juga dengan kita: “Kamu adalah terang dunia” (Matius 5:14).
+4. Yesus adalah Firman yang telah menjadi manusia (Yohanes 1:14) “Sebab dalam Dialah berdiam secara jasmaniah seluruh kepenuhan ke-Tuhanan” (Kolose 2: 9); seterusnya, umat Tuhan disebut "tubuh Kristus" (1 Korintus 12:27).
+
+Senarai persamaan ini berterusan antara misi Yesus untuk menyatakan kebenaran tentang Tuhan ke dunia ini dan bagaimana Dia telah melayakkan umat-Nya untuk meneruskan misi yang sama ini. Doa kami adalah bahawa sampai akhir kita akan membawa obor yang diserahkan kepada kita oleh Kristus, untuk menerangi dunia dengan pengetahuan tentang sifat-Nya.
+
+**Ilustrasi**
+
+Seorang revivalis pernah menawarkan beberapa pandangan tentang cara menjadi pembawa imej Tuhan. Seperti yang dibayangkan dalam pelajaran ini, Ibrani 1: 3 berbicara mengenai Kristus sebagai ciri khas Bapa. Istilah Yunani charakter pertamanya menggambarkan alat pengukir yang digunakan oleh pengukir. Seterusnya, ia menunjukkan tanda atau kesan yang dibuat oleh alat itu, kesan seperti yang dapat dilihat pada duit syiling. Tujuannya adalah untuk membuat satu replika tepat gambar raja  pada permukaan duit syiling tersebut. Yesus pernah ditanya mengenai apakah sah membayar cukai kepada Kaisar. Dia meminta untuk melihat sekeping duit syiling dan bertanya kepada pendengar-Nya gambar siapakah yang ada pada duit syiling itu. Mereka menjawab, “Kaisar,” setelah itu Yesus menlafazkan satu ungkapan-Nya yang terkenal, “Berikanlah kepada Kaisar apa yang wajib kamu berikan kepada Kaisar.” (Matius 22:21). Dalam cara yang sama, pada suatu hari nanti Yesus akan datang kembali ke bumi ini untuk mencari “duit syiling” milik-Nya. Apabila Dia tiba nanti, Dia hanya perlu mengajukan soalan sama yang Dia ajukan 2,000 tahun yang lalu: Gambar siapakah yang dilihat pada duit syiling ini? Sekiranya kita memakai imej Kristus dan nama Bapa termeterai di dahi kita (Wahyu 22: 4), maka akan menjadi satu berita baik untuk mendengar, “Berikanlah… kepada Tuhan apa yang wajib kamu berikan kepada Tuhan.” (Matius 22:21, ESV). Tuhan akan mengumpulkan duit syiling-Nya dan kita dapat pulang - akhirnya.
+
+#### Bahagian III: Penerapan Hidup
+
+Berkata-kata seperti seorang Kristian, menghadiri gereja seperti seorang Kristian, menjelaskan doktrin seperti seorang Kristian dan memanggil diri sendiri sebagai seorang Kristian tidak pernah menjadi pengganti kepada benar-benar menjadi seorang Kristian. Tidak ada ahli masyarakat yang memahami perbezaan ini dengan lebih baik selain daripada anak-anak kita yang memperhatikan setiap pergerakan ibu bapa, guru dan pemimpin gereja mereka. Mereka mungkin tidak dapat mengartikulasikannya dengan jelas, tetapi mereka sama ada sedar atau tidak sedar menilai pendidikan Advent berdasarkan kepada gaya hidup seorang Advent. Ini adalah titik garisnya. Inilah sebabnya mengapa memakai imej Tuhan dalam kehidupan kita seharian tidak boleh dipertikaikan sekiranya kita ingin melihat pendidikan Advent itu berjaya.
+
+**Soalan Perbincangan** :
+
+1. Bagaimanakah seseorang dapat mengetahui sama ada dia adalah seorang Kristian yang tulen?
+2. Bagaimanakah seharusnya kebertanggungjawapan berperanan dalam bekerja untuk gereja, di mana satu guru atau pemimpin dapat mempengaruhi ratusan atau mungkin ribuan kanak-kanak?
+3. Sejauhmanakah kita harus bergantung pada maklum balas pelajar untuk menentukan sama ada seseorang itu adalah guru yang saleh yang harus terus untuk bekerja?
+4. Tajuk pelajaran ini adalah, “Yesus sebagai Maha Guru.” Adakah anda berpendapat bahawa idea ini disampaikan dengan nyaring dan jelas di dalam keluarga dan sekolah kita? Jika tidak, bagaimanakah kita dapat mengajar anak-anak kita dengan cara yang membolehkan mereka berkata, "Saya telah diajar oleh Yesus hari ini"?

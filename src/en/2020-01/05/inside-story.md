@@ -17,7 +17,7 @@ Stepan was stunned. Are you crazy? he thought. I’m not going to be baptized.
 
 But for the next two months, he lived a Seventh-day Adventist life as he visited various towns. The Adventist organizers woke up early, read their Bibles, prayed, and then had morning devotions together. To Stepan, it was a new world.
 
-One day, Vincent invited Stepan to go to Lithuania next. Stepan, however, had left his passport at home. Vincent gave him a $100 bill.
+One day, Vincent invited Stepan to go to Lithuania next. Stepan, however, had left his passport at home. Vincent gave him a 100 bill.
 
 “Go home, get your passport, and come back here in one day”, he said.
 

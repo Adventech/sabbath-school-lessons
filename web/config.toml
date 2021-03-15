@@ -2,6 +2,9 @@ baseURL = "https://sabbath-school.adventech.io/"
 languageCode = "en"
 title = "Sabbath School"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 # very ugly, but quicker way to implement i18n using config
 [params]
 [params.en]
@@ -61,11 +64,11 @@ title = "Sabbath School"
 [params.de]
 	title = "Sabbatschule"
 	back = "Zurück"
-	all = "Alles sehen"
+	all = "Alles anzeigen"
 	todaysLesson = "Die heutige Lektion"
 	current = "Aktuell"
 	archive = "Unterrichtsarchiv"
-	lang = "🇩🇪 Deutsche"
+	lang = "🇩🇪 Deutsch"
 
 [params.in]
 	title = "Sekolah Sabat"
@@ -183,6 +186,15 @@ title = "Sabbath School"
 	current = "Aktuální"
 	archive = "Archiv hodin"
 	lang = "🇨🇿 Česky"
+
+[params.my]
+	title = "Sabbath School"
+	back = "Go back"
+	all = "See all"
+	todaysLesson = "Tuni Lesson"
+	current = "Tu laitak"
+	archive = "A beisa Lesson"
+	lang = "🇲🇲 Tedim"
 
 [params.he]
 	title = "ספר שבת"
@@ -392,7 +404,7 @@ title = "Sabbath School"
 	lang = "🇬🇪 ქართული ენა"
 
 [params.sk]
-	title = "Štúdium Biblie"
+	title = "Štúdium Biblie"
 	back = "Vráť sa"
 	all = "Všetky hodiny"
 	todaysLesson = "Dnešná lekcia"
@@ -401,7 +413,7 @@ title = "Sabbath School"
 	lang = "🇸🇰 Slovenčina"
 
 [params.is]
-	title = "Biblíulexíur"
+	title = "Biblíulexíur"
 	back = "Farðu til baka"
 	all = "Allar kennslustundir"
 	todaysLesson = "Lærdómurinn í dag"
@@ -471,3 +483,84 @@ title = "Sabbath School"
 	current = "Huidige les"
 	archive = "Les archief"
 	lang = "🇳🇱 Nederlandse taal"
+
+[params.am]
+	title = "የጎልማሶች ሰንበት ትምህርት"
+	back = "ተመለስ"
+	all = "ሁሉም ትምህርቶች"
+	todaysLesson = "የዛሬው ትምህርት"
+	current = "ወቅታዊ ትምህርት"
+	archive = "ትምህርት መዝገብ"
+	lang = "🇪🇹 አማርኛ"
+
+[params.si]
+	title = "සබත් පාසල"
+	back = "ආපසු යන්න"
+	all = "සියලුම පාඩම්"
+	todaysLesson = "අද පාඩම"
+	current = "වත්මන් පාඩම"
+	archive = "පාඩම් ලේඛනාගාරය"
+	lang = "🇱🇰 සිංහල"
+
+[params.ilo]
+	title = "Eskuela Sabatina"
+	back = "Agsubli"
+	all = "Amin nga liksion"
+	todaysLesson = "Liksion tatta nga aldaw"
+	current = "Liksion tatta nga tallo a bulan"
+	archive = "Dagiti napalabas nga liksion"
+	lang = "🇵🇭 Ilocano"
+
+[params.hil]
+	title = "Eskwela Sabatika"
+	back = "Balik na"
+	all = "Tanan nga leksion"
+	todaysLesson = "Ang leksion subong"
+	current = "Karon nga leksion"
+	archive = "Archive sa leksion"
+	lang = "🇵🇭 Hiligaynon"
+
+[params.fi]
+	title = "Raamatun Sanoma"
+	back = "Mene takaisin"
+	all = "Kaikki oppitunnit"
+	todaysLesson = "Tämän päivän oppitunti"
+	current = "Nykyinen oppitunti"
+	archive = "Oppituntien arkisto"
+	lang = "🇫🇮 Suomen kieli"
+
+[params.km]
+	title = "សាលាថ្ងៃឈប់សម្រាក"
+	back = "ត្រឡប់​ក្រោយ"
+	all = "មេរៀនទាំងអស់"
+	todaysLesson = "មេរៀនថ្ងៃនេះ"
+	current = "មេរៀនបច្ចុប្បន្ន"
+	archive = "ប័ណ្ណសារ"
+	lang = "🇰🇭 ខ្មែរ"
+
+[params.mg]
+	title = "Lesona sekoly sabata"
+	back = "Hiverina"
+	all = "Lesona rehetra"
+	todaysLesson = "Lesona anio"
+	current = "Lesona ankehitriny"
+	archive = "Arsiva lesona"
+	lang = "🇲🇬 Malagasy"
+
+[params.ml]
+	title = "മുതിർന്നവർക്കുള്ള ശബ്ബത്ത് സ്കൂൾ പാഠങ്ങൾ"
+	back = "മടങ്ങിപ്പോവുക"
+	all = "എല്ലാം കാണൂ"
+	todaysLesson = "ഇന്നത്തെ പാഠം"
+	current = "നിലവിലെ പാഠം"
+	archive = "പാഠം ആർക്കൈവ്"
+	lang = "🇮🇳 മലയാളം"
+
+[params.kn]
+	title = "ವಯಸ್ಕರ ಸಬ್ಬತ್ತು ಶಾಲಾ ಸತ್ಯವೇದ ಅಧ್ಯಯನ ಮಾರ್ಗದರ್ಶಿ"
+	back = "ಹಿಂದೆ ಹೋಗು"
+	all = "ಎಲ್ಲವನ್ನೂ ನೋಡು"
+	todaysLesson = "ಇಂದಿನ ಪಾಠ"
+	current = "ಪ್ರಸ್ತುತ ಪಾಠ"
+	archive = "ಪಾಠ ಆರ್ಕೈವ್"
+	lang = "🇮🇳 ಕನ್ನಡ"

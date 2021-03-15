@@ -5,10 +5,7 @@ date:   20/03/2020
 
 #### Misjonimeelne süda
 
-_Loo on kirja pannud Joyce.
-
-Joyce on 25aastane Globaalmisjoni teerajaja, kes koos teise Globaalmisjoni naispioneeriga rajas noorte inimeste jaoks koguduse ühte 10 miljoni elanikuga linna. Kuna ta elab suletud riigis, mis on kristluse suhtes vaenulik, ei trüki Adventmisjon ära tema täisnime ega asukohta. Järgnevalt on kirjas see, mida Joyce vastas Andrew McChesney küsimusele: „Miks sa otsustasid misjonäriks saada?“_
-Joyce on 25aastane Globaalmisjoni teerajaja, kes koos teise Globaalmisjoni naispioneeriga rajas noorte inimeste jaoks koguduse ühte 10 miljoni elanikuga linna. Kuna ta elab suletud riigis, mis on kristluse suhtes vaenulik, ei trüki Adventmisjon ära tema täisnime ega asukohta. Järgnevalt on kirjas see, mida Joyce vastas Andrew McChesney küsimusele: „Miks sa otsustasid misjonäriks saada?“
+_Loo on kirja pannud Joyce. Joyce on 25aastane Globaalmisjoni teerajaja, kes koos teise Globaalmisjoni naispioneeriga rajas noorte inimeste jaoks koguduse ühte 10 miljoni elanikuga linna. Kuna ta elab suletud riigis, mis on kristluse suhtes vaenulik, ei trüki Adventmisjon ära tema täisnime ega asukohta. Järgnevalt on kirjas see, mida Joyce vastas Andrew McChesney küsimusele: „Miks sa otsustasid misjonäriks saada?“_
 
 Mul on üks õde, Sarah, ja tema sündis kaasasündinud südamerikkega.
 

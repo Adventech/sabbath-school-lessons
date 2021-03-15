@@ -1,0 +1,22 @@
+---
+title:  Inside Story
+date:   29/05/2020
+---
+
+#### Een shirt om over te praten 
+
+_Glenn Lie, 55 , Noorwegen_
+
+Glenn Lie trok zijn favoriete poloshirt aan en in Oslo, Noorwegen, stapte hij in de metro. De 55-jarige leraar hoopte dat mensen naar hem zouden kijken. Hij hoefde niet lang te wachten. Glenn zat tegenover een elegant geklede vrouw die begin zestig leek te zijn. Haar ogen bleven hangen bij zijn shirt. Links bovenin waren de woorden ‘Adventistische Vliegtuigmaatschappij, Steward Glenn Lie’, geborduurd met een afbeelding van een straalvliegtuig. 
+
+Glenn zei niets. Hij wist dat de vrouw zich afvroeg waarom deze vliegtuigmaatschappij haar zo onbekend in de oren klonk. Na zo’n vijf minuten naar hem gestaard te hebben, begon de vrouw te praten. ‘Het spijt me’, zei ze. ‘Ik heb nog nooit van deze vliegtuigmaatschappij gehoord. Werk je daar?’ ‘Ja’, antwoordde Glenn. ‘Oh’, zei ze. ‘Welke bestemmingen doen jullie aan?’ ‘We hebben maar één bestemming.’ ‘Echt waar?’, was haar verbaasde reactie. Ze vroeg niet naar de bestemming en Glenn bracht het niet zelf ter sprake. Lange tijd later vroeg de vrouw, ‘Is het heel duur?’ ‘Nee, de tickets zijn gratis’. Nu wist de vrouw helemaal niet meer hoe ze het had. ‘Wat?’ riep ze uit. ‘Waarom zijn de kaartjes gratis?’ 
+
+Glenn reageerde niet meteen. De nieuwsgierigheid van de vrouw nam toe. Uiteindelijk sprak Glenn. ‘De tickets zijn gratis omdat ze 2000 jaar geleden zijn betaald’, verklaarde hij. Een moment lang staarde de vrouw hem verbijsterd aan. Plotseling viel het kwartje. ‘Ik begrijp het’, zei ze. Even zei ze niets. ‘Toch heb ik er moeite mee om in de hemel te geloven’, zei ze. ‘Waarom?’, vroeg Glenn. ‘Door mijn opvoeding heb ik slechte ervaringen gehad met religie’, gaf ze toe. Het was niet de eerste keer dat Glenn dit verhaal had gehoord: mensen wezen het christendom af doordat ze naar hun mening een slecht voorbeeld hadden gekregen van wat christen-zijn inhoudt. Noorwegen is voor het overgrote deel een geseculariseerde samenleving en in de afgelopen decennia is het aantal leden bij christelijke denominaties enkel geslonken. De Adventkerk vormt daarop geen uitzondering, de 4500 leden die er zijn, hebben er veel moeite mee om hun weg te vinden binnen het Scandinavische land met 5,3 miljoen inwoners. 
+
+In de metro voelde Glenn dat de vrouw naar iets beters verlangde. ‘Misschien helpt het je om de Bijbel met nieuwe ogen te bekijken’, stelde hij voor. Door die woorden was duidelijk te zien dat de vrouw zich ontspande in de bijna geheel verlaten coupé. 20 minuten lang sprak ze openlijk met Glenn over haar twijfels en vragen. Toen stond ze op. ‘Ik moet er hier uit’, zei ze. ‘Dank je voor dit gesprek. Je hebt me veel gegeven om over na te denken. Ik ga dit voor mijzelf onderzoeken.’ ‘Ik weet zeker dat je eruit komt. Ik zal aan je denken’, zei Glenn. Hij meende het. De vrouw was de reden dat hij het poloshirt in de metro had gedragen. 
+
+Tijdens de warme zomermaanden draagt Glenn het T-shirt zo vaak als hij maar kan. En wanneer hij dat doet, trekt het kledingstuk aandacht. Soms leiden de blikken zelfs tot gesprekken. ‘Ik ben niet heel vrijpostig’, verklaarde Glenn in een interview. ‘Ik ga niet op pad om bij huizen aan te bellen. Dat is iets waar ik me niet prettig bij voel.’ Toch houdt hij van Jezus en hij wil ook zijn steentje bijdragen in het evangelisatiewerk. Ook is hij gek op vliegtuigen. Daarom bestelde hij het gedegen shirt bij een kledingbedrijf in Duitsland. Op zijn verzoek voegden ze het vliegtuig en zijn naam eraan toe. 
+
+‘Als ik een werktuig kan zijn om mensen weer in verbinding te brengen met God, dan zou dat geweldig zijn’, zei hij. Glenn weet niet of zijn shirt iemand tot Jezus of tot de Adventkerk heeft geleid. Hij is er wel van overtuigd dat de heilige Geest het shirt kan gebruiken om gesprekken op gang te brengen. ‘Laten we de mensen tegemoet komen’, zei hij. ‘Het is niet mijn taak om iemand adventist te maken. Dat is het werk van de heilige Geest. Het is onze taak om te zaaien, God neemt het oogsten voor zijn rekening.’
+
+Glenn Lie, 55 jaar oud, geeft les aan de adventistische school in Østmarka, met ongeveer 100 studenten in klas 1 t/m 10, in Oslo, Noorwegen. Hij is ook lid en voormalig jeugdpredikant van de Betel Adventkerk, waaraan een deel van de opbrengsten van de dertiende sabbatschool in 2017 zijn geschonken om in de kelder van de kerk een buurthuis te openen voor jongeren. 

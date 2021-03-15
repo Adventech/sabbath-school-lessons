@@ -1,0 +1,54 @@
+---
+title:  El Sábado enseñaré
+date:  27/11/2020
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+Esta lección empieza donde debería comenzar toda educación: con el valor del alumno a la luz de la Cruz. La educación que imparte la iglesia y sus departamentos debe penetrar y elevarse por encima de cualquier tendencia cultural que sea antagónica al Reino de Dios.
+
+Y, aun así, vivimos entre una red de cosmovisiones y corrientes culturales que compiten y que continuamente bombardean a niños y adultos por igual. Este conflicto hace que muchos buscadores de la verdad, jóvenes y ancianos, tengan dudas e interrogantes. Sin embargo, nuestras iglesias locales deberían brindar la oportunidad de responder estas preguntas. Si la iglesia, al hablar sobre la confusión, las tinieblas morales o la constante desesperación del mundo, ofrece respuestas que contienen la verdad que hemos aprendido de Jesús, entonces estaremos cumpliendo la comisión de Jesús de ser sal y luz en este mundo (Mat. 5:13-16).
+
+Después de meditar sobre todas estas gloriosas aspiraciones de esparcir la verdad de Dios en todo el planeta, es importante recordar las cosas sencillas que pueden conducir al éxito o al fracaso de nuestra misión.
+
+#### COMENTARIO
+
+##### Ilustración y un proverbio
+
+Pronunciar la palabra iglesia puede evocar cosas radicalmente distintas en la mente de diferentes personas. Para ilustrar esta idea, recuerda tus años de escuela. Los recuerdos de aritmética, geografía y ciencia, ¿inundan tu cabeza? Probablemente, no. Esto es irónico, porque es por eso que nos enviaron a la escuela, después de todo. Lo que probablemente llene nuestras mentes son las imágenes de amigos, enemigos, maestros y las diversas experiencias que tuvimos con todos ellos.
+
+La iglesia es muy parecida a esto. En teoría, su finalidad es ser un lugar de culto, un lugar para oír el evangelio y aceptarlo, para estudiar las Escrituras, aunar nuestros esfuerzos para ganar almas y tener comunión como hermanos y hermanas en la familia de Dios. No obstante, para muchos se convierte en el escenario de sentimientos heridos, debates doctrinales triviales y chismes. El aspecto social de la iglesia a menudo eclipsa todas las demás funciones que esta debe cumplir. Muchos simplemente dejan de asistir porque la dinámica social es compleja y dolorosa (a veces, solo con una o dos personas), y esto hace que sea prácticamente imposible adorar y disfrutar de la presencia de Dios sin distracciones. Entonces, ¿cuál es la solución?
+
+Hay muchos enfoques diferentes que podríamos adoptar para responder a esta pregunta y, por supuesto, la cantidad de libros escritos sobre “cómo hacer iglesia” es legión. Sin embargo, la lección saca a relucir una idea muy sencilla, cuyo peso proverbial vale oro si se lleva a cabo. La idea es básicamente esta: ¿Qué valor o efecto tiene toda la luz doctrinal que poseemos como iglesia si no hemos aprendido a ser amables unos con otros? Este es un requisito previo para que la iglesia realmente funcione como iglesia. Este se hace eco del proverbio indio que dice: “No tiene sentido darle a oler a un hombre una rosa después de cortarle la nariz”. Jesús es la flor fragante más dulce que existe, pero si nuestra crueldad hacia los demás los ha lastimado (“cortándoles la nariz”), será muy difícil que aprecien al Jesús que queremos compartirles. La lección utiliza la parábola del buen samaritano (Luc. 10:30–37) para resaltar este principio de bondad, que es un requisito y un elemento fundamental para la educación cristiana. Otra historia, que se ofrece a continuación, subraya esta idea desde un punto de vista diferente.
+
+##### Texto bíblico
+
+Veamos la historia de la “muchacha que tenía espíritu de adivinación” (Hech. 16:16). ¿Arroja ella una letanía de maldiciones y mentiras? Su mensaje es: “Estos hombres [Pablo y Silas] son siervos del Dios Altísimo, quienes os anuncian el camino de salvación” (Hech. 16:17). Pablo finalmente se cansó y expulsó al espíritu maligno. Pero ¿por qué detenerla, si ella confirma a los evangelistas y su mensaje? He aquí el porqué: Porque el mensaje correcto con el espíritu equivocado ayuda a la causa de Satanás, no a la causa de Dios. Por eso, ser amables y corteses unos con otros en la iglesia es más que un simple consejo banal. Las personas a menudo aceptan o rechazan las verdades del mensaje de una iglesia en función de cómo son tratadas por los miembros. Por supuesto, nos gusta pensar que estos miembros se hicieron adventistas del séptimo día debido a la lógica impecable de nuestra teología, pero el hecho es que si nadie los hubiera invitado a almorzar después de la iglesia quizás hubiesen salido por la puerta de la iglesia para nunca volver.
+
+Alguien podría protestar, y decir: “Y ¿qué decir del papel del Espíritu Santo en la conversión y la retención de miembros? El rumbo de este debate, ¿no enfatiza el papel del Espíritu?” El Espíritu se identifica fácilmente con dones tales como los de profecía, sabiduría, conocimiento y enseñanza (1 Cor. 12:8–10, 28), elementos que hacen a una buena educación adventista. Estos dones que capacitan para el trabajo son muy importantes dentro de la iglesia, pero su influencia puede mitigarse sin los dones relacionales del Espíritu, como la ayuda mutua (1 Cor. 12:28), el servicio recíproco (Rom. 12:7), las expresiones mutuas de misericordia y de ánimo (Rom. 12:8), junto con el fruto del Espíritu: amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza (Gál. 5:22, 23). Finalmente, Pablo concluye ambas listas de dones espirituales (Rom. 12; 1 Cor. 12) con un “camino excelente”, el camino del amor (1 Cor. 12:31-13:1). Pablo se explaya en Romanos 12:10, y nos exhorta: “Ámense los unos a los otros con amor fraternal, respetándose y honrándose mutuamente”.
+
+Amarnos los unos a los otros es una cantinela tan común en los círculos cristianos que a veces nuestra demostración de este principio corre el riesgo de volverse obsoleta o superficial cuando los miembros hacen la pantomima de demostrar exteriormente un amor que no se prolonga más allá del culto sabático. Pero ¿podemos realmente mostrar amor si no mostramos bondad al mismo tiempo? Para que la iglesia sea un lugar de aprendizaje y crecimiento no solo se necesitan pastores y maestros competentes y llenos del Espíritu; se necesita la bondad y el amor de los miembros llenos del Espíritu.
+
+##### Una estadística
+
+Una estadística que tiene su origen en los evangelios y los Hechos tiene el potencial de cambiar radicalmente nuestra forma de vernos en relación con Cristo. Ese cambio en la relación también es relevante para el tema de la educación. En primer lugar, algunas definiciones: busca el sustantivo “cristiano” en cualquier diccionario, y la primera definición será algo así como “una persona que cree en Jesús o sus enseñanzas”. La palabra cristiano sirve para mostrar afiliación religiosa. Hechos nos dice que los seguidores de Cristo fueron llamados cristianos por primera vez en Antioquía (Hech. 11:26), y este sobrenombre probablemente no fue autorreferencial.
+
+La cantidad de veces que aparece la palabra cristiano en la Biblia es tres (Hech. 11:26; 26:28; 1 Ped. 4:16).
+
+Pero, en la actualidad, ese título es prácticamente el término exclusivo y universal para designar a un adherente al cristianismo. Entonces, ¿cómo se llamaba a los “cristianos” en aquel entonces, antes del apodo antioqueño? La siguiente estadística responde a la pregunta y proporciona el contraste con la primera estadística:
+
+La cantidad de veces que aparece la palabra discípulo en la Biblia es 256. Cuando nos autodenominamos cristianos, generalmente evocamos la idea de que nos adherimos a un conjunto de creencias. Pero ¿y si nos autodenominamos discípulos? Los discípulos son alumnos, aprendices y principiantes. Por supuesto, creen en lo que se les enseña; pero son más que creyentes, aprenden las habilidades y el modo mismo de ser de su maestro, para repetirlos. Hacen del mismo oficio que tenían sus maestros la carrera de su vida. Y, cuando el maestro muere, sus discípulos son lo más parecido a un anuncio publicitario de los ideales y las prácticas a los que su maestro dedicó la vida.
+
+Así como casi todo lo que sabemos sobre Sócrates es a través de su alumno estrella, Platón, el mundo tiene derecho a extraer conclusiones acerca de Jesús al contemplar la vida de sus discípulos estelares: tú y yo. Además, es un error pensar que el término “discípulo” (en griego mathetes: alumno) está reservado para los Doce originales. Cuando Lucas escribió acerca de las conversiones masivas en la secuela de su evangelio, habló del número creciente de “discípulos” (Hech. 6:1, 7). Ananías, Tabita y Timoteo, a todos se los llama discípulos (9:10, 36; 16:1). Referirse a todos estos “cristianos” como discípulos es simplemente un reconocimiento de su obediencia a su Rabí, quien ordenó: “Por tanto, id, y haced discípulos a todas las naciones” (Mat. 28:19).
+
+#### APLICACIÓN A LA VIDA
+
+Se ha dicho que la iglesia es un hospital para los afligidos espirituales. Esta es mucho más común que la metáfora que dice que la iglesia es una universidad para los que perecen en la ignorancia y la oscuridad espiritual, una universidad en la que todos estamos llamados a inscribirnos como pupilos de por vida, a aprender de Jesús de Nazaret, el gran Maestro. Pero las dos metáforas, la del hospital y la de la universidad, en realidad deben ir unidas a fin de poder comprender mejor la palabra iglesia. Es decir, nuestra recuperación espiritual debe combinarse con una educación religiosa que nos forme para ser discípulos.
+
+##### Para analizar
+
+**1.** Tenemos nuestra vida devocional, tenemos escuelas sabáticas y tenemos la hora del sermón. Sin embargo, para ser honestos, a medida que pasan los años, parece que todo comienza a repetirse, y la emoción que tuvimos al comienzo de nuestra experiencia adventista empieza a disminuir con el tiempo. ¿De qué manera podemos ampliar nuestra educación cristiana personal o infundir nueva vida a nuestra rutina normal de aprendizaje en la iglesia?
+
+**2.** Cuando vamos a una iglesia nueva, lo primero que advertimos no es cuán bueno fue el sermón o cómo sabía la comida; percibimos la “temperatura” de la iglesia. ¿Era una iglesia fría o la gente era amigable? La parte complicada es que si es mi iglesia, quizá yo pase un buen rato con mi media docena de amigos mientras compartimos, estudiamos y reímos juntos. La iglesia está buenísima, ¿verdad? Para mí, sí, pero no para la visita o la persona solitaria que observa toda esta estrecha camaradería y se siente como un extraño. Los miembros de la iglesia deben tomarse un momento para analizar lo que pasa alrededor y buscar a quienes se están marchitando en las periferias. ¿Qué estrategias pueden proteger a las personas de sentirse excluidas de la familia de Dios?

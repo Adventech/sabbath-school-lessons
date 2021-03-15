@@ -1,11 +1,11 @@
 <header class="header">
     <div class="container py-3">
         <nav class="navbar px-0">
-            <a href="{{.Site.BaseURL}}" class="brand h4"><span class="logo"></span>{{ $.Param (print (substr $.Dir 0 2) ".title") }}</a>
+            <a href="{{.Site.BaseURL}}" class="brand h4"><span class="logo"></span>{{ $.Param (print (index (split $.Dir "/") 0) ".title") }}</a>
 
-            {{ if gt ($.Param (substr $.Dir 0 2)) 0 }}
+            {{ if gt ($.Param (index (split $.Dir "/") 0)) 0 }}
             <form class="form-inline">
-                <a href="/language" class="btn no-border-btn">{{ $.Param (print (substr $.Dir 0 2) ".lang") }}</a>
+                <a href="/language" class="btn no-border-btn">{{ $.Param (print (index (split $.Dir "/") 0) ".lang") }}<img src="{{.Site.BaseURL}}img/misc/chevron-down.svg" style="width: 12px; height: 12px; margin-left: 10px;" /></a>
             </form>
             {{ end }}
         </nav>

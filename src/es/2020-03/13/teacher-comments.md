@@ -1,0 +1,52 @@
+---
+title:  El Sábado enseñaré
+date:  25/09/2020
+---
+
+### EL SÁBADO ENSEÑARÉ...
+
+##### Textos clave: Filipenses 2:5-11.
+
+##### Enfoque del estudio:
+
+Mateo 4:18-22; 2 Corintios 5:10-12; Juan 21:15-19.
+
+#### RESEÑA
+
+La fe genuina siempre conduce a la acción. La fe bíblica funciona tan bien que obra. La iglesia del Nuevo Testamento era una iglesia apasionada por la testificación. Compartir a Cristo era la consecuencia natural de su relación con él. Estaban preparados para hacer el sacrificio supremo por su causa. Muchos de ellos sufrieron persecución, encarcelamiento, e incluso la muerte. Ningún sacrificio para el Jesús que dio tanto por ellos era demasiado grande.
+
+Su compromiso con Cristo a menudo los llevó a dar un salto de fe. Cristo los llamó fuera de sus zonas de confort. La tarea que tenían ante ellos estaba mucho más allá de sus capacidades. Era demasiado grande para que lo lograran, pero no demasiado grande para que Dios lo lograra. Comprendieron las promesas de Dios, y con fe salieron a cambiar el mundo.
+
+La tarea ante la iglesia hoy está mucho más allá de nuestras capacidades. Cristo nos está llamando a dar un salto de fe. En la lección de esta semana, repasaremos el compromiso que cambia vidas de la iglesia del Nuevo Testamento a la luz del compromiso de Cristo de redimirnos. Jesús se entregó por completo a la voluntad del Padre. El propósito principal, único, de su vida era la salvación de la humanidad; ningún sacrificio era demasiado grande para lograr ese objetivo. Nuestro estudio de esta semana explora cómo su sacrificio es un ejemplo para nosotros. Nos invita a dar un salto de fe al dar nuestra vida en servicio a él y al ministerio a los demás.
+
+#### COMENTARIO
+
+Filipenses 2:5 al 11 es uno de los pasajes más magníficos de toda la Biblia sobre la condescendencia de Cristo. Algunos autores llaman a este pasaje “El canto de Cristo”. Todo el libro de Filipenses se enfoca en tres temas principales: regocijo, humildad y fe. Filipenses 2 destaca el tema de la humildad. Jesús dejó las magníficas glorias de su estado exaltado en el cielo, se despojó de los privilegios y las prerrogativas como el igual de Dios, entró en el mundo de la humanidad como un siervo y murió la más humillante de las muertes, en la cruz. El apóstol Pablo usa este ejemplo de Jesús como modelo para la vida cristiana. La vida sacrificial de Cristo, de un ministerio desinteresado, es el modelo para toda la fe cristiana. Dejó los reinos celestiales y vino a la Tierra como el “el siervo infatigable de las necesidades del hombre [...] para atender toda necesidad de la humanidad” (MC 11).
+
+La Biblia de Estudio Andrews comenta, en su introducción al libro de Filipenses: “Los cristianos se despojan de sus derechos a la igualdad y rinden servicio los unos a los otros en amor y humildad para impedir que aflore el espíritu de rivalidad. A través de este acto de humillación personal, los cristianos también se distinguen de la gente del mundo, que busca afirmar sus derechos y se enzarza en luchas para alcanzar la igualdad con sus pares y superiores” (Biblia de Estudio Andrews, p. 1.478). Un análisis cuidadoso de Filipenses 2:5 al 11 revela gemas de verdad para nuestra vida hoy. El pasaje comienza con estas palabras memorables: “Haya, pues, en vosotros este sentir que hubo también en Cristo Jesús” (Fil. 2:5). El apóstol ha presentado anteriormente, en el capítulo, la necesidad de unidad y humildad desinteresadas. Ahora se concentra en Cristo como nuestro Ejemplo de vida y ministerio abnegado. El sentir (“la actitud”, NVI) de Cristo es el servicio.
+
+Jesús estaba totalmente comprometido con ministrar a las necesidades de quienes lo rodeaban. Jesús tenía la “forma” [del griego morfé] (Fil. 2:6), o la esencia misma, de Dios. Tenía, por su propia naturaleza, todas las características y las cualidades eternas de Dios. Según el Comentario bíblico adventista, “esto coloca a Cristo en igualdad con el Padre y muy por encima de todo otro poder. Pablo lo destaca para describir más vívidamente las profundidades de la humillación voluntaria de Cristo” (CBA 6:160). Según el apóstol Pablo, Cristo “no estimó el ser igual a Dios como cosa a que aferrarse”.
+
+En otras palabras, reconocía su naturaleza eterna y su unidad con el Padre, pero voluntariamente, por amor, renunció a su posición al lado del Padre y “se despojó a sí mismo”. Esta frase, en Filipenses 2:7, se traduce literalmente como “se vació a sí mismo”. Se desvistió de toda la gloria del Reino. Por amor a nosotros, renunció a todas las características y las cualidades inherentes que eran suyas por su naturaleza eterna y su unidad con Dios. No vino a un palacio real, como hijo de la realeza, sino como un siervo humilde y obediente.
+
+La palabra griega para siervo es doulos, que significa sirviente, o esclavo. Es obvio que Pablo está contrastando dos estados: la forma de Dios y la forma de un siervo. Jesús pasó de la posición más alta a la más baja; todo, por nosotros. Él entregó su soberanía divina por una vida de servicio sacrificial. Tener el sentir, o la actitud, de Cristo es tener la disposición de sacrificarse a sí mismo para la salvación de los demás. El sentir de Cristo es de ministerio y servicio. Es de misericordia, compasión, perdón y gracia.
+
+La muerte de Cristo en la Cruz revela su corazón de amor. El amor genuino siempre nos lleva a hacer sacrificios por los que amamos. El amor no es un sentimiento emocional superficial, aunque los sentimientos están asociados con el amor. El amor es un compromiso. Buscar siempre lo mejor para los demás es una elección. El amor nos obliga a hacer sacrificios en nuestra vida por el Reino de Dios. Nos lleva a dar un paso de fe a fin de usar los dones que nos ha dado para bendecir a otros.
+
+##### Las demandas del amor
+
+Después de su crucifixión y su resurrección, Jesús se encontró con un pequeño grupo de sus discípulos a orillas del mar de Galilea. La meta de Jesús, en esa hora de la madrugada, era reconstruir a un hombre. Pedro lo había negado tres veces. Jesús estaba allí para despertar una respuesta de amor del corazón de Pedro y darle un nuevo sentido de perdón, aceptación y propósito. Después de una noche de pesca en que estos pescadores experimentados no pescaron un solo pez, Jesús hizo un milagro divino. Sus redes quedaron llenas hasta rebosar, de una pesca maravillosa. Sentado alrededor de la fogata esa mañana en Galilea, Jesús le hizo a Pedro esta pregunta pertinente: “Simón, hijo de Jonás, ¿me amas más que éstos? Le respondió: Sí, Señor; tú sabes que te amo. Él le dijo: Apacienta mis corderos” (Juan 21:15). En el idioma original del texto, hay dos palabras para “amor”. Cuando Jesús le hace la pregunta a Pedro, le dice: “¿Me amas [agape]?” En algunos contextos, la palabra agape se refiere al amor que fluye del corazón de Dios. Un amor así es de origen divino. Es un amor puro y desinteresado.
+
+Cuando Pedro responde a Jesús, no usa la palabra agape. Él dice: “Sí, Señor; tú sabes que te amo”. La palabra que usa Pedro es la palabra griega phileo. Esto se refiere a un vínculo humano profundo. Por ejemplo, la palabra “Filadelfia” significa amor fraternal. La respuesta de Jesús es “Apacienta mis corderos”. En otras palabras, entrega tu vida en un servicio sacrificado. Ve a trabajar para mí. Ministra a los demás.
+
+Jesús le hace a Pedro la misma pregunta en Juan 21:16 y usando las mismas palabras, pero la tercera vez, en Juan 21:17, Jesús cambia la palabra para “amor” cuando hace la pregunta. No vemos esto en la mayoría de las traducciones, pero está claro en el idioma original del Nuevo Testamento. Jesús ya no le pregunta a Pedro: “¿Me amas con el amor divino agape?” Él pregunta: “¿Me phileo?” Parece como si Jesús estuviera diciendo esto: “Pedro, sé que tu amor por mí fluye a través de los canales débiles de tu humanidad. Me has negado tres veces, pero te perdono. Mi gracia es tuya. Comienza donde estás. Ve a trabajar para mí, y tu amor por mí crecerá y se expandirá en un profundo amor divino por los demás”. Pedro le falló a Jesús en un momento muy crítico en la vida de Cristo, pero eso no descalificó a Pedro para servir. Jesús envió a un “perdonado”, cambió a Pedro a fin de que trabajara para él.
+
+Al igual que Pedro, nuestro amor por Cristo crecerá en el servicio a los demás. Cuanto más amamos a Jesús, más deseamos compartir ese amor con las personas que nos rodean. Cuanto más compartimos su amor con las personas que nos rodean, más crece nuestro amor por Jesús. Elena de White comparte esta verdad eterna en El camino a Cristo, página 80: “El espíritu de trabajo desinteresado por otros da al carácter profundidad, estabilidad y amabilidad como las de Cristo, y trae paz y felicidad a su poseedor”. Cuando damos un salto de fe y participamos activamente en la testificación, crecemos espiritualmente. Las mayores alegrías de la vida provienen de compartir el amor de Dios con los demás. A medida que buscamos diariamente oportunidades para compartir lo que Cristo significa para nosotros, vemos abrirse ante nosotros oportunidades providenciales. El Espíritu Santo guía a nuestra vida a las personas que busca.
+
+#### APLICACIÓN A LA VIDA
+
+Hay muchas personas que no pueden testificar porque no están seguras de qué decir. Otros temen el rechazo o la vergüenza. ¿Cuáles son algunas de las razones más comunes por las que crees que algunas personas dudan de testificar? Comenta con tu clase sus pensamientos sobre por qué muchos miembros de la iglesia no participan activamente en compartir su fe.
+
+Hemos llegado al final de nuestras lecciones de este trimestre. ¿Qué es lo más significativo que has extraído de ellas? ¿Hay alguna idea que hayas captado que marque una diferencia significativa en tu vida?
+
+Hay una maravillosa declaración de la mensajera de Dios para el tiempo del fin que podemos llevarnos cuando terminemos nuestra clase este trimestre: “Nuestra confesión de su fidelidad es el agente escogido por el Cielo para revelar a Cristo al mundo. Debemos reconocer su gracia como fue dada a conocer por los santos de antaño; pero lo que será más eficaz es el testimonio de nuestra propia experiencia. Somos testigos de Dios mientras revelamos en nosotros mismos la obra de un poder divino” (DTG 313).

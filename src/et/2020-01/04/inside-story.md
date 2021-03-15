@@ -6,6 +6,7 @@ date:   24/01/2020
 #### Rünnak koolis
 
 _Loo on kirja pannud Andrew McChesney._
+
 Aserbaidžaani pealinnas Bakuus sündinud ja üles kasvanud Stepan Avakov oli oma elu 13aastasena ära planeerinud. Ta armastas korvpalli ja taotles oma vanuserühma parima mängija tiitlit Aserbaidžaanis.
 
 „Sul ei ole vaja millegi pärast muretseda,“ ütles ta treener. „Sinust saab profikorvpallur.“

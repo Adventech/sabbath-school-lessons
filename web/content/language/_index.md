@@ -109,7 +109,7 @@ languages:
   - native: Lietuviškai
     en: Lithuanian
     code: lt
-  - native: Ssesotho
+  - native: Sesotho
     en: Sesotho
     code: st
   - native: Hrvatski
@@ -157,4 +157,34 @@ languages:
   - native: Nederlandse taal
     en: Dutch
     code: nl
+  - native: አማርኛ
+    en: Amharic
+    code: am
+  - native: සිංහල
+    en: Sinhala
+    code: si
+  - native: Ilokano
+    en: Ilocano
+    code: ilo
+  - native: Hiligaynon
+    en: Hiligaynon
+    code: hil
+  - native: Suomen kieli
+    en: Finnish
+    code: fi
+  - native: Tedim Chin
+    en: Tedim Chin
+    code: my
+  - native: ខ្មែរ
+    en: Khmer
+    code: km
+  - native: Malagasy
+    en: Malagasy
+    code: mg
+  - native: മലയാളം
+    en: Malayalam
+    code: ml
+  - native: ಕನ್ನಡ
+    en: Kannada
+    code: kn
 ---

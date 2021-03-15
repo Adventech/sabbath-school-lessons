@@ -1,0 +1,41 @@
+name: deploy
+on:
+  push:
+    branches:
+      - master
+      - stage
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+      - run: tar xvf deploy-creds.tar
+      - run: wget https://github.com/gohugoio/hugo/releases/download/v0.79.1/hugo_0.79.1_Linux-64bit.deb
+      - run: sudo dpkg -i hugo_0.79.1_Linux-64bit.deb
+      - run: rm *.deb
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+          check-latest: true
+      - run: npm install
+      - run: node deploy -b ${{ steps.extract_branch.outputs.branch }}
+      - run: curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
+      - run: unzip awscli-bundle.zip
+      - run: ./awscli-bundle/install -b ~/bin/aws
+      - run: if [ "${{ steps.extract_branch.outputs.branch }}" = "stage" ] ; then sed -i -e "s/sabbath-school\.adventech\.io/sabbath-school-stage\.adventech\.io/g" config.toml; fi
+        working-directory: ./web
+      - run: hugo -DF
+        working-directory: ./web
+      - run: mv -v web/public/* dist/
+      - name: Web deploy
+        run: aws s3 sync dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --size-only
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

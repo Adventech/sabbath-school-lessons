@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>{{ with .Title }}{{ . }} - {{ end }}{{ $.Param (print (substr $.Dir 0 2) ".title") }}</title>
+    <title>{{ with .Title }}{{ . }} - {{ end }}{{ $.Param (print (index (split $.Dir "/") 0) ".title") }}</title>
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     <meta name="description" content="Adventech ministry. We are committed to doing our ministry through technology. Uniting our Seventh-day Adventist Church, proclaim good news to this world by means of technology and advancements in communications and witness Jesus’ second coming.">
@@ -38,6 +38,7 @@
     <script src="{{ .Site.BaseURL }}js/jquery-3.3.1.min.js"></script>
     <script src="{{ .Site.BaseURL }}js/js.cookie.min.js"></script>
     <script src="{{ .Site.BaseURL }}js/bootstrap.min.js"></script>
+    <script src="{{ .Site.BaseURL }}js/ss-reader.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-60193683-2"></script>

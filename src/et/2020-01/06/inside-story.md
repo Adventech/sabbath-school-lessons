@@ -6,6 +6,7 @@ date:   07/02/2020
 #### Parem kui hambaarst
 
 _Loo on kirja pannud Madeline Dyche. Madeline Dyche on kahe lapse ema Keenes, Texase osariigis._
+
 Naise naeratus ulatus kõrvuni.
 
 Kuid mitu tundi varem, nagu ta mule rääkis, oli ta pettunud, kui kuulis, et ta ei saa tasuta hambapuhastamist USA Texase osariigi megahaiglast „Tee tervisele“.

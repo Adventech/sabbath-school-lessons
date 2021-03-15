@@ -1,0 +1,62 @@
+---
+title:  Komen Guru
+date:  17/07/2020
+---
+
+**Ayat-ayat Utama**: Markus 8:22-26
+
+**Fokus Pembelajaran**: Yohanes 4:3-34, Kisah Para Rasul 26-28.
+
+#### Bahagian I: Ringkasan
+
+Tema pelajaran minggu ini, “Melihat Orang Menerusi Mata Yesus,” berfokus khususnya kepada kepentingan seseorang untuk menuntun seorang yang lain kepada Yesus. Yesus melihat orang-orang bukan sepertimana keadaan mereka sekarang tetapi seperti apa yang bakal terjadi kepada mereka. Dia melihat potensi mereka untuk kerajaan Tuhan. Dia merasakan kerinduan ilahi dalam diri setiap individu untuk mengenal Tuhan.
+
+Apabila kita melihat orang-orang menerusi mata Yesus, kita melihat setiap orang yang kita temui boleh dimenangkan untuk Kristus kerana mereka dicipta menurut rupaNya. Tidak kira apa pun keadaan-keadaan dalam kehidupan mereka, mereka mempunyai kerinduan mendalam untuk mengenal Dia. Ini benar bagi perempuan Samaria, sida-sida Etiopia, perompak di atas kayu salib, dan prajurit Roma itu, dan ramai lagi pencari kebenaran yang lain di dalam Perjanjian Baru. Terdapat kekosongan di dalam jiwa tanpa Kristus.
+
+Menyedari akan kebenaran abadi ini memampukan kita untuk melihat orang-orang dengan mata yang baru, sama ada mereka menyedari atau tidak bahawa mereka mempunyai ruang kosong untuk Tuhan dalam kehidupan mereka. . Walaupun individu telah merasakan keperluan yang jelas, mereka juga mempunyai kerinduan yang abadi untuk mengenal Tuhan. Ada rasa haus yang tersembunyi di dalam jiwa. Lelaki dan wanita abad ke-21 dahagakan pengetahuan tentang Tuhan.
+
+Adalah rancangan Tuhan supaya setiap kita melihat dan merebut peluang di sekeliling kita untuk memimpin sahabat kita kepada Yesus. Ramai orang tidak akan pernah datang melainkan kita membawa mereka. Salah satu daripada mitos terbesar adalah bahawa orang tidak berminat dengan perkara-perkara rohani. Sekiranya kita percaya bahawa orang tidak berminat, kita tidak akan melihat minat mereka. Yesus melihat orang boleh dimenangkan, dan mereka bertindak balas terhadap kepercayaanNya tentang mereka.
+
+#### Bahagian II: Ulasan
+
+**Yesus Mencelikkan Orang Buta di Betsaida**
+
+Proses penyembuhan dua peringkat Kristus untuk orang buta di Betsaida mempunyai maksud penting bagi kesaksian kita pada masa kini. Lokasi penyembuhan itu juga penting untuk diperhatikan. Betsaida dipercayai terletak di pantai utara Laut Galilea. Para sarjana memperdebatkan lokasinya yang tepat. Kota ini sering disebut dalam Injil, sama seperti Yerusalem dan Kapernaum. Di sinilah Yesus memanggil Filipus, Petrus, dan Andreas untuk menjadi murid-murid-Nya.
+
+Selain dari menunjukkan perasaan belas kasihan terhadap orang buta itu, jelas bahawa Yesus mahu mengajarkan pelajaran rohani yang lebih mendalam kepada murid-murid-Nya. Dia ingin mereka menyedari bahawa terdapat orang-orang yang memerlukan di sekitar mereka yang akan terbuka kepada Injil sekiranya keperluan fizikal mereka dipenuhi terlebih dahulu. Jiwa-jiwa yang memerlukan itu juga ada di Betsaida.
+
+Ada beberapa sebab penting mengapa Yesus menyembuhkan orang buta ini dalam dua peringkat. Oleh kerana penyembuhan ini adalah satu-satunya peristiwa di dalam Injil di mana mukjizat penyembuhan Yesus tidak berlaku pada ketika itu juga, tentu ada beberapa perkara penting dalam mukjizat ini yang tidak didapati di tempat-tempat lain dalam Kitab Suci. Pertama, mukjizat ini memperlihatkan belas kasihan Yesus. Pernahkan anda keluar dari bilik yang gelap ke tempat yang cahayanya terang? Anda menjadi silau untuk beberapa saat. Anda perlu mengambil masa untuk menyesuaikan mata anda kepada cahaya yang terang jika anda keluar dari bilik yang gelap. Sekiranya anda buta, cahaya terang yang mendadak tentu akan lebih memberi kesan kepada mata anda. Yesus menyembuhkan orang buta ini dalam dua peringkat supaya dia boleh perlahan-lahan menyesuaikan matanya kepada cahaya terang. Tuhan itu penuh belas kasihan. Dia mengerti keadaan kita dan Dia memenuhi keperluan-keperluan kita dengan penuh kasih.
+
+Sementara kita membahagikan terang kebenaran Tuhan kepada sahabat-sahabat kita, ada baiknya untuk mengingati bahawa “jalan orang benar itu seperti cahaya fajar, yang kian bertambah terang sampai rembang tengah hari” (Ams. 4:18). Sama seperti cahaya matahari terbit yang perlahan-lahan menyingkirkan kegelapan, begitu juga cahaya kebenaran Tuhan akan perlahan-lahan menyinari fikiran kita sehinggalah kita akhirnya berjalan di bawah cahaya penuhnya. Cahaya itu sama ada akan menyilaukan atau akan menerangi. Yesus mengerti prinsip ini dan Dia menunjukkan satu contoh yang sungguh jelas kepada murid-muridNya bagaimana menyampaikan kebenaran dalam dua peringkat melalui penyembuhan orang buta ini.
+
+Ada juga kemungkinan yang Yesus mahu menunjukkan kepada pengikut-pengikutNya bahawa setiap kita memerlukan sentuhan yang kedua itu. Ada banyak waktu kita menjadi buta. Kita melihat orang-orang di sekeliling kita seperti “pokok-pokok yang berjalan.” Namun, apabila Roh Kudus membuka penghalang yang menutup  kelopak mata kita, kita akan dapat melihat orang-orang di sekeliling kita dengan lebih jelas.
+
+Markus 8:25 berkata, “Yesus meletakkan lagi tanganNya pada mata orang itu, maka orang itu sungguh-sungguh melihat dan telah sembuh, sehingga dia dapat melihat segala sesuatu dengan jelas.” Kata Yunani bagi “jelas” adalah delaugos, yang boleh diterjemahkan dengan lebih baik sebagai “berkilau” atau “terang-benderang.” Apabila Yesus menyembuhkan kebutaan rohani kita, kita akan melihat orang lain sama seperti Kristus melihat mereka di bawah cahaya terang-benderang kasih Nya.
+
+**Yesus Melayani Perempuan Samaria**
+
+Laluan terus dari Yerusalem ke Galilea adalah melalui Samaria, tetapi kerana permusuhan mereka dengan orang Samaria, orang Yahudi menghindari jalan ini. Mereka selalunya menggunakan jalan yang memakan waktu lebih lama dan berliku-liku melalui Lembah Yordan. Yohanes 4:4 menyatakan bahawa Yesus, “harus melintasi daerah Samaria.” Dia tidak perlu melalui Samaria geografi. Ada cara lain untuk sampai ke Galilea. Namun Yesus mempunyai perjanjian Ilahi di sebuah sumur dengan seorang wanita Samaria yang akan membuat perbezaan kekal.
+
+Yesus ingin merobohkan tembok prasangka antara orang Yahudi dan orang Samaria. Objektif tunggalNya adalah untuk mengungkapkan kepada murid-muridNya bahawa orang Samaria terbuka terhadap Injil. Yesus melihat wanita yang bermasalah ini melalui mata belas kasihan Ilahi. Dia perhatikan wanita ini datang ke sumur pada waktu tengah hari, pada jam yang paling panas sekali. Ini adalah waktu yang pelik untuk mengambil air. Wanita-wanita di kampung biasanya datang pada awal pagi. Di sana mereka berkumpul, bersosial, dan mendapatkan bekalan air mereka untuk hari itu. Jelas wanita ini ingin mengelakkan dari gosip, oleh kerana gaya hidupnya, jika dia datang pada masa yang sama dengan wanita-wanit yang lain.
+
+Dia mungkin berasa malu. Gaya hidupnya yang tidak bermoral  menyebabkan dia dipulaukan. Dia dikenali ramai, dan kerana itu dia berusaha sebaik yang mungkin untuk mengelakkan dari bertemu dengan orang awam. Hanya satu tujuannya iaitu mendapatkan bekalan air hariannya cepat-cepat dan pulang ke rumah. Namun dia terkejut apabila menemui seorang asing berbangsa Yahudi dari Galilea di  tepi sumur itu. Dia lebih terkejut lagi apabila Dia berbicara dengannya. Orang Yahudi tidak mempunyai urusan dengan orang Samaria. Ketika Yesus meminta pertolongan darinya, dia tidak dapat menolak. Di padang gurun yang tandus di Timur Dekat dan Timur Tengah, sehingga hari ini, masih dipercayai bahawa air adalah anugerah Tuhan. Menolak untuk memberikan secawan air kepada pengembara yang letih adalah satu kesalahan terhadap Yang Maha Kuasa.
+
+Perlahan-lahan, dengan lembut, Yesus memecahkan tembok penghalang di antara mereka, mendapat kepercayaan wanita itu, kemudian menujukan panggilan kepada kerinduan dalamannya untuk bebas dari perasaan bersalah dan untuk hidup yang kekal. Pertama sekali, wanita itu mengenaliNya sebagai orang yang suci, kemudian mengakui bahawa dia lebih dari sekadar guru agama—Dia tentunya seorang nabi Tuhan. Sementara Roh Kudus membangun dorongan Ilahi dalam jiwanya, wanita ini menyedari bahawa Yesus adalah Mesias (Yoh. 4:11, 15, 19, 26).
+
+Oleh kerana dia begitu teruja, wanita ini terlupa tujuannya pergi ke sumur. Dia meninggalkan balang airnya dan berlari untuk menceritakan peristiwa pertemuannya dengan Kristus. Kesaksiannya menghasilkan kebangkitan rohani di seluruh wilayah itu (Yohanes 4: 39-41). Ketika para murid kembali dari perjalanan mereka untuk membeli makanan, Yesus mengongsikan dengan mereka wawasan ilahi ini: orang Samaria terbuka dan menerima Injil. Bagi murid-murid, realiti ini sukar untuk dipercayai. Pengajaran yang Yesus berikan kepada mereka adalah untuk setiap generasi. Tuhan bekerja di tempat yang tidak diduga. Bukakan mata anda luas-luas, dan anda akan melihat pekerjaan penyediaan Roh Kudus di dalam kehidupan orang-orang yang mungkin anda tidak sangka untuk menerima injil (Yoh. 4:35-38).
+
+**Ilustrasi: Memetik Beri dan Memenangkan Jiwa**
+
+Suatu malam, Ellen G. White mendapat mimpi tentang memetik beri dan memenangkan jiwa. Bersama-sama dengan sekumpulan orang muda, dia pergi memetik buah beri. Sebuah kereta kuda digunakan untuk membawa bekalan keperluan-keperluan mereka dan mengangkut mereka ke sebuah lokasi yang dipenuhi dengan pokok-pokok whortleberry. Terdapat pelbagai jenis whortleberries yang juga dikenali sebagai huckleberries. Ia berwarna biru atau merah, dan rasanya agak sedap. Beri juga menyihatkan, berfungsi sebagai antioksidan. Ellen White memerhatikan bahawa terdapat pokok-pokok beri yang berbuah lebat berdekatan dengan kereta kuda dan mula memetik buah-buah beri tersebut. Dalam masa yang singkat, dia dapat memenuhkan dua baldi. Anak-anak muda yang lain menjelajah jauh dan setelah beberapa lama, mereka kembali namun dengan baldi yang kosong. Ellen menasihati mereka dengan mengatakan bahawa sementara mereka mencari buah beri yang berada jauh dari gerabak, terdapat banyak beri yang berada tepat di hadapan mereka kalau sahaja mereka telah membuka mata untuk melihatnya.
+
+#### Bahagian III: Penerapan Hidup
+
+**Mulakan di mana Anda Berada**
+
+Yesus mendorong murid-muridNya untuk mula mengongsikan Injil di mana mereka berada. Tidak ada tempat lain untuk memulakannya melainkan di tempat di mana anda berada. Murid-murid, pada kali pertama, mengongsikan Injil di Yerusalem, Yudea dan Samaria, dan kemudian ke tempat-tempat yang jauh di bumi ini. Ada ramai orang di sekeliling kita yang sedang mencari kedamaian dan tujuan, dan hanya Kristus yang dapat memberikannya. Yesus mengajak kita untuk mula mengongsikan kasihNya kepada keluarga, jiran-jiran, rakan-rakan sekerja, dan komuniti kita.
+
+Andreas bermula dengan keluarganya sendiri dan mengongsikan Injil itu kepada saudara lelakinya, Petrus. Selain itu, dia juga menjalin persahabatan dengan seorang anak lelaki yang, oleh kerana keyakinannya kepada Andreas, memberikan kesemua makanan tengaharinya kepada Yesus. Apa yang sedikit menjadi banyak di tangan Yesus, dan apa yang kecil menjadi besar di tangan Yesus.Yesus selalu memulakan dengan apa yang Dia ada. Dia memberi makan kepada lima ribu orang di kaki bukit-bukit Galilea dengan hanya lima buku roti dan dua ikan. Andreas tidak begitu bergaul seperti Petrus. Dia tidak mempunyai kualiti kepimpinan yang sama, namun dia menjadi orang yang memperkenalkan. Setiap kali kita membaca tentang Andreas, kita selalu melihat dia sedang memperkenalkan seseorang kepada Yesus.
+
+Kitab-kitab Injil dipenuhi dengan cerita-cerita tentang Yesus mengongsikan kasih Tuhan kepada satu orang pada satu masa. Seorang ahli taurat berbangsa Yahudi, seorang pemungut cukai berbangsa Rom, seorang wanita Kanaan, seorang pemimpin agama Yahudi, dan seorang perompak muda; semua mereka telah mengalami sentuhan kasihNya. Mereka diubah oleh kasih karuniaNya.
+
+Fikirkan tentang siapa dalam lingkungan pengaruh anda yang boleh anda kongsikan kasih Tuhan. Siapakah di kalangan keluarga atau sahabat anda yang paling mudah untuk menerima? Mulakan di sana. Mintalah Tuhan untuk menuntun anda kepada orang yang mungkin sedang mencariNya sekarang. Anda mungkin terkejut melihat bagaimana Tuhan membukakan pintu-pintu bagi anda untuk mengongsikan kasihNya kepada orang-orang di sekeliling anda, orang-orang yang anda tidak pernah sangka akan terbuka ataupun menerima.

@@ -13,8 +13,7 @@ Sündisin Armeenias. Minu isa oli kreeklane ja ema armeenlanna. Lapsepõlvest pe
 
 Midagi juhtus. Enne ristimist püüdsin nii mõnelgi korral Piiblit lugeda, aga ei suutnud sellest aru saada. Imestasin, kuidas said teised tundide viisi seda lugeda. Pärast ristimist muutus kõik mõttekaks. Minu meelest oli see üks neist paljudest imedest, mida Jumal minu elus tegi.
 
-Neli kuud pärast ristimist kolisin Küprosele. Kuigi olen poolenisti kreeklane, ei rääkinud ma kreeka keelt ja tundsin ennast võõrana võõral maal.  
-16 aastat ei teadnud ma midagi adventkogudusest Küprosel. Minu teele tuli palju läbikatsumisi, kuid Jumal seisis mu eest.
+Neli kuud pärast ristimist kolisin Küprosele. Kuigi olen poolenisti kreeklane, ei rääkinud ma kreeka keelt ja tundsin ennast võõrana võõral maal. 16 aastat ei teadnud ma midagi adventkogudusest Küprosel. Minu teele tuli palju läbikatsumisi, kuid Jumal seisis mu eest.
 
 Siis sain ühe sõbra kaudu teada koguduse asukoha. Olin oma esimese külaskäigu eel kartlik. Kuidas koguduseliikmed minusse suhtuvad? Kõik kartus kadus, kui liikmed mind armastusega ümbritsesid. Sellest päevast peale on minu kogudus mu perekond, minu teine kodu.
 

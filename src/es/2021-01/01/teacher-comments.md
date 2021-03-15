@@ -1,0 +1,48 @@
+---
+title:  El Sábado enseñaré
+date:  01/01/2021
+---
+
+### El sábado enseñaré...
+
+#### Textos clave: Isaías 1; 5.
+
+##### RESEÑA
+
+Isaías 1 al 5 sirve como unidad introductoria al libro de Isaías. Describe no solo la condición vil de la sociedad israelita en general, sino también su condición espiritual. El énfasis en la condición espiritual de Israel constituye el enfoque principal del libro. La religión del pueblo de Dios se corrompió.
+
+¿Hay esperanza en medio de una situación así? Sí, hay esperanza. Esa es la razón por la que algunos califican el libro de Isaías como el Evangelio del Antiguo Testamento. Isaías 1:12 testifica que el Señor ha levantado a su pueblo: “Crié hijos, y los engrandecí”. A través del lenguaje figurativo de la viña, Isaías 5 describe el cuidado de Dios por sus hijos: “La había cercado y despedregado y plantado de vides escogidas; había edificado en medio de ella una torre, y hecho también en ella un lagar; y esperaba que diese uvas, y dio uvas silvestres. [...] ¿Qué más se podía hacer a mi viña, que yo no haya hecho en ella?” (Isa. 5:2, 4).
+
+Dios, con su carácter amoroso, se refrena de destruir a su pueblo. A través del profeta Oseas, contemporáneo de Isaías, Dios describe su angustia y agitación interior en cuanto a la condición reincidente de su pueblo: “¿Cómo podré abandonarte, oh Efraín? ¿Te entregaré yo, Israel? ¿Cómo podré yo hacerte como Adma, o ponerte como a Zeboim? Mi corazón se conmueve dentro de mí, se inflama toda mi compasión” (Ose. 11:8). Dios hará otro esfuerzo para hacer volver a su pueblo a él. Su mensaje no deja de declarar a Israel su condición pecaminosa; por lo tanto, sigue apelando a ellos para que vuelvan a él. Por esta razón, Dios pronuncia: “Habla Jehová” (Isa. 1:2). Con este contexto en mente, se exploran tres temas principales en el estudio de esta semana: (1) la declaración “habla Jehová”; (2) la temática de la gente pecadora; y (3) la invitación, “Venid luego, [...] si quisiereis” (1:18, 19).
+
+#### COMENTARIO
+
+##### “Habla Jehová”
+
+El versículo 1 de Isaías 1 señala que la visión se refiere inmediatamente a Judá/Jerusalén. Pero, al usar la expresión “Oíd, cielos, y escucha tú, tierra” (1:2), Isaías sugiere que el mensaje abarca a un público más amplio. Como lectores, debemos adaptarnos al hecho de que la audiencia principal de este libro profético es la gente que vivía en la época de Judá. Al mismo tiempo, también debemos ser conscientes de la idea de que el alcance del mensaje de Isaías se extiende mucho más allá del tiempo y el lugar en el que fue escrito y de la audiencia a la que estaba destinado originalmente.
+
+Muchas veces, Isaías utiliza expresiones como “habla Jehová” u otras frases análogas. Las profecías del libro de Isaías son relevantes porque son mensajes en los que “habla Jehová”. Este punto se enfatiza desde el primer capítulo del libro en varias formas: “habla Jehová” (1:2); “oíd la palabra de Jehová” (1:10); “dice Jehová” (1:18); “la boca de Jehová lo ha dicho” (1:20); y “dice el Señor, Jehová de los ejércitos, el Fuerte de Israel” (1:24). El autor quiere dejar en claro que las visiones provienen del Señor. En otras palabras, hay una visión porque Dios la ha revelado.
+
+¿Cómo se presenta Dios en el libro? El tema del mensaje es el Señor. El objeto inmediato es su pueblo en la época en que Isaías escribió, con una clara implicación de que los mensajes incluyen al pueblo de Dios de todas las épocas, extendiéndose a su remanente del tiempo del fin. El Dios de Isaías se retrata de muchas maneras en este capítulo. Él es Jehová, el Santo. Curiosamente, en la primera referencia a Dios, el autor utiliza la expresión “YHWH”, que es el término que se utiliza con más frecuencia para referirse a Dios en todo el libro. YHWH es el Dios inmanente. El nombre YHWH revela no solo la existencia eterna de Dios, sino también su relación de pacto con su pueblo. En el versículo 10, Isaías presenta a Dios como “Elohim”, el Dios trascendente, o Soberano del Universo. En ocasiones, Isaías usa la combinación “Jehová el Señor” (Isa. 61:1). Otra referencia singular a Dios en este capítulo es el “Santo de Israel” (Isa. 1:4), un título que es característico de los escritos de Isaías (25 veces).
+
+##### Gente pecadora
+
+El libro de Isaías es explícito con respecto a la situación del pueblo de Dios en ese momento. Isaías recuerda el cuidado amoroso del Señor en favor de su pueblo: “Crié hijos, y los engrandecí” (1:2). Sin embargo, Judá olvida el fiel amor de Dios, ya que “ellos se rebelaron contra mí” (1:2, u.p.), según el Señor. ¿Cómo se expresa la experiencia del pecado en esta parte? Hay varios términos hebreos que están relacionados con la temática del pecado. Este estudio revisa brevemente las palabras principales para pecado en el primer capítulo.
+
+Isaías 1:2 utiliza la expresión hebrea pashá‘ para describir un acto pecaminoso. Esta expresión se traduce como “se rebelaron” en la frase “ellos se rebelaron contra mí”. La palabra también tiene la connotación de “revuelta”. Otros significados son “romper con”, o ser desleal (L. Koehler y W. Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, t. 3, p. 981). En otras palabras, pashá‘ describe una relación quebrada. Aunque mayormente pashá‘ se traduce como un acto rebelde, este acto se considera una conducta delictiva en la Biblia hebrea.
+
+Otra palabra para pecado es jatá’ (Isa. 1:4), que si se une a la palabra “gente” puede traducirse como “gente pecadora”, como es el caso de esta versión, Reina-Valera 1960. En este caso, la palabra se usa como verbo, y el significado básico es “errar al blanco”; “tener la culpa; ofender (con modales o costumbres)”; “cometer un pecado”; y “ser culpable” (W. L. Holladay, A Concise Hebrew and Aramaic Lexicon of the Old Testament, p. 100). Judá es gente pecadora porque ha fallado en la relación de pacto con el Señor; actuó mal. Ha ofendido al Señor, por lo que sus ciudadanos son culpables ante el Señor.
+
+La frase paralela a “gente pecadora”, que es la primera frase de Isaías 1:4, se traduce como “pueblo cargado de maldad”. La palabra hebrea traducida como maldad es ‘avón. Este sustantivo describe una “actividad deshonesta o incorrecta”, una ofensa que podría ser consciente o intencional (W. L. Holladay, A Concise Hebrew and Aramaic Lexicon of the Old Testament, p. 268). Al igual que con la palabra anterior, jatá’, ‘avón describe un acto que no es correcto.
+
+La segunda parte de Isaías 1:4 describe la condición de los hijos de Israel: son “hijos depravados”. La causa se puede encontrar en las siguientes líneas: “Dejaron a Jehová [...] se volvieron atrás”. El pecado se describe aquí como el acto de abandonar al Señor, y esto provoca rebelión, mal comportamiento, actos incorrectos y culpa. Isaías 1:3 emplea una descripción asombrosa para sintetizar este último aspecto en relación con el pueblo de Dios en ese momento: “El buey conoce a su dueño, y el asno el pesebre de su señor; Israel no entiende, mi pueblo no tiene conocimiento” (Isa 1:3). La situación de Israel es crítica incluso en términos de razonamiento lógico. Sin embargo, el Señor nuevamente intenta buscar a sus hijos. Esa es la base de su declaración: “Venid luego, dice Jehová, y estemos a cuenta” (Isa. 1:18).
+
+##### “Venid luego [...] si quisiereis”
+
+Israel tenía todas las condiciones para llegar a ser una nación gloriosa. Sin embargo, ahora solo es equiparable a Sodoma y Gomorra (ver 1:10). Pero el Señor puede orquestar el milagro necesario para rehabilitarlo. Él promete: “Volveré mi mano contra ti, y limpiaré hasta lo más puro tus escorias, y quitaré toda tu impureza” (1:25).
+
+El camino para regresar a Dios comienza con un llamado a su pueblo para que perciba su situación actual. En primer lugar, su vida está corrompida por el pecado. El Señor afirma: “Toda cabeza está enferma, y todo corazón doliente. Desde la planta del pie hasta la cabeza no hay en él cosa sana” (1:5, 6). El otro gran problema es la religión falsa. El ritualismo ha reemplazado la verdadera adoración (1:11-14). Estas circunstancias fomentan la injusticia entre el pueblo y traen desolación al país (1:7, 17).
+
+Después de suplicar al pueblo que reconozca su condición, el Señor le hace este llamado: “Venid luego, dice Jehová, y estemos a cuenta” (1:18). La expresión “estemos a cuenta”, o “razonemos juntos” (RVA-2015), proviene del verbo hebreo nivvajejá, e implica la noción de una disputa legal; ambos litigantes, YHWH y el pueblo, pueden discutir juntos sus agravios. También sugiere la idea de estar en lo cierto (L. Koehler y W. Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament, t. 1, p. 134). En otras palabras, Dios está llamando a su pueblo a reivindicarse. Pero ¿cómo es eso posible para una nación tan pecadora? El Señor propone la solución: “Si vuestros pecados fueren como la grana, como la nieve serán emblanquecidos; si fueren rojos como el carmesí, vendrán a ser como blanca lana” (Isa. 1:18). Es decir, el Dios que Isaías presenta en el primer capítulo de su libro es el único que puede purificar y vindicar a su pueblo. Miqueas, otro profeta contemporáneo de Isaías, se pregunta: “¿Qué Dios como tú, que perdona la maldad, y olvida el pecado del remanente de su heredad?” (Miq. 7:18). Sin embargo, este don del perdón puede ser aceptado o rechazado. Por lo tanto, después del ofrecimiento en Isaías 1:18, el Señor aclara que una nueva vida solo es posible “si quisiereis” (1:19). Por ende, en este contexto, el mensaje de la siguiente parábola en Isaías 5 ahora se puede entender mejor: “Ahora, pues, vecinos de Jerusalén y varones de Judá, juzgad ahora entre mí y mi viña. ¿Qué más se podía hacer a mi viña, que yo no haya hecho en ella?” (5:3, 4).
+
+#### APLICACIÓN A LA VIDA
