@@ -6,6 +6,7 @@ date:   10/01/2020
 #### Evangeliseerimine raamatute kaudu
 
 _Loo on kirja pannud Andrew McChesney_
+
 Kas sind heidutab, kui inimesed löövad su nina ees ukse kinni?
 
 Kas muretsed, et masspostitusega saadetud raamat leiab koha prügikastis?

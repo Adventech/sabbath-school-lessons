@@ -1,0 +1,24 @@
+---
+title:  Inside Story
+date:   24/04/2020
+---
+
+#### Onverwachts twee zonen
+
+_Halina Pastuszko, 65, Polen_
+
+Na van haar derde dochter bevallen te zijn, kwam de Poolse Halina Pastuszko tot het besluit dat ze geen kinderen meer wilde. Toch kwam ze op 42-jarige leeftijd, in hetzelfde jaar dat haar eerste kleinzoon werd geboren, tot de ontdekking dat ze vijf maanden zwanger was. De zwangerschap alarmeerde de arts, en hij waarschuwde haar dat dit kind gehandicapt ter wereld zou kunnen komen door Halina’s leeftijd. Het ontbrak Polen in die tijd aan de middelen om invalide kinderen groot te brengen. De arts stelde een abortus voor en gaf Halina het telefoonnummer van degene die daartoe in staat was. 
+
+Thuis probeerde Halina te bellen voor een afspraak, maar ze kreeg geen gehoor. Toen ze het opgaf, ging ze weer aan haar werk als accountant bij de afdeling woningbouw in Rumia. In de tussentijd had haar echtgenoot, Wladyslaw, van één van zijn dochters te horen gekregen dat zijn vrouw een arts had ingeschakeld om een abortus te plegen en hij haastte zich naar haar kantoor. ‘Ik heb dit besloten’, zei Halina. ‘Ik wil een abortus’. Terwijl hij op zijn knieën viel, smeekte Wladyslaw, ‘Alsjeblieft, doe het niet!’ Halina vroeg hem of hij haar in de steek zou laten als ze de abortus toch liet doen. ‘Nee’, zei hij. ‘Wat er ook gebeurt, ik verlaat je niet’. Halina was ontroerd. ‘Goed, op naar het volgende kindje’, zei ze. 
+
+Drie en een halve maand later werd Adam, een gezonde kleine jongen, geboren. Voor het eerst in haar leven realiseerde Halina zich dat mensen het ook bij het verkeerde eind kunnen hebben, hoe sterk hun overtuigingen ook zijn. Als God iets tot stand wil brengen, brengt Hij zijn plannen ten uitvoer. Halina begon zich af te vragen waarom haar echtgenoot naar een Adventkerk ging. Ten tijde van het communisme in Polen had ze zich nooit zo beziggehouden met God. Nu voelde ze zich echter dankbaar voor haar gezonde baby en wilde ze iets goeds doen voor God. Ze besloot adventist te worden. 
+
+Zonder haar echtgenoot daarover in te lichten, bestudeerde ze de Bijbel met een adventistische predikant. Ze verraste Wladyslaw door zich op een camp meeting te laten dopen. Een aantal jaar ging voorbij en Halina schreef zich in aan de adventistische universiteit in Polen om hoger onderwijs te volgen. Tijdens een college was ze ontroerd om een man met het syndroom van Down te horen praten over de moeilijkheden waar mensen met een handicap mee te maken krijgen. Ze besloot dat ze in haar scriptie uiteen zou zetten hoe invalide kinderen geholpen kunnen worden. In die tijd leerde ze een fysiotherapeut kennen die haar voorstelde aan een tienjarige gehandicapte weesjongen. Het was liefde op het eerste gezicht voor Halina. Dawid was als baby in de steek gelaten en zonder succes had het weeshuis geprobeerd een pleeggezin voor hem te vinden. 
+
+Halina sloot zich aan bij een overheidsprogramma die gezinnen in staat stelt om weeskinderen in het weekend mee naar huis te nemen. Op vrijdagmiddag namen zij en haar echtgenoot Dawid mee naar huis en brachten hem op zondagavond weer terug. Op een zondagavond wilde Dawid niet terug. Hij klemde zich vast aan een stoel en huilde luid. Ook Halina kon haar tranen niet bedwingen. Ze besloot Dawid te adopteren. 9 Halina riep het gezin bijeen om haar beslissing mede te delen. Iedereen kwam in opstand tegen het idee, behalve hun jongste, Adam, die toen twaalf jaar oud was. Na de gezinsbijeenkomst schreef hij een lieve brief aan zijn ouders. ‘Hoe Dawid zich ook gedraagt, ik zou willen dat hij voorgoed in ons gezin komt’, schreef hij. Halina besloot dat ze vroeg met pensioen zou gaan om al haar aandacht aan Dawid te kunnen geven. Al was ze midden in de vijftig, de rechter stemde al snel in met de adoptie. 
+
+Op 2 juli 2009 kwam Dawid thuis. Maanden daarna onderging hij de eerste operatie aan zijn benen. De resultaten stelden de arts teleur en hij twijfelde eraan dat de jongen ooit zou kunnen lopen. Hoe sterk zijn mening ook was, hij had het fout. Als God iets wil voltooien, brengt Hij zijn plannen ten uitvoer. Dawid onderging nog vier operaties en hij is nu zo ver dat hij kan lopen. 
+
+Dawid, zeventien jaar oud, is een levende getuige voor God. Als het gezin op pad gaat, staan mensen verbaasd over Dawid. Ze stellen veel vragen en de familie antwoordt door het evangelie te delen. In het afgelopen jaar hebben ze 200 exemplaren van ‘De Grote Strijd’ uitgedeeld. Dawid heeft de Bijbel lief en hij heeft verschillende hoofdstukken uit zijn hoofd geleerd. Zijn lievelingstekst is psalm 23. Het is de samenvatting van zijn leven. ‘De HEER is mijn Herder, het ontbreekt mij aan niets’, zei hij. 
+
+Dank u voor uw bijdrage aan de collecte van de dertiende sabbatschool in 2017. Het heeft ertoe bijgedragen dat in Polen een televisiestudio gebouwd kon worden voor Hope Channel. Deze televisiestudio maakt het mogelijk dat het evangelie wordt uitgezonden aan de gehele Poolssprekende wereld.

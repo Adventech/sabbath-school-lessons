@@ -1,0 +1,56 @@
+---
+title:  Commentaires Moniteurs
+date:   11/12/2020
+---
+
+### Partie I: Aperçu
+
+Le travail est l’une des trois grandes pratiques avant la chute qui se sont perpétuées dans notre situation d’après la chute (Genèse 2:15), les deux autres étant l’observation du sabbat (Genèse 2:2, 3) et le mariage (Genèse 2:21-24). Ainsi, le travail, ou le fait d’être occupé de manière significative par des tâches, vient directement d’un paradis sans péché. Ces trois pratiques, si elles sont faites sous la direction du Seigneur, sont de petits gouts d’un Éden passé ou futur. Cependant, comme tout ce qui existe en ce monde, le travail peut avoir ses inconvénients pécheurs, auxquels nous pouvons tous nous identifier. La bonne nouvelle est que Dieu est dans le domaine de la restauration et il est tout à fait prêt à transformer nos occupations actuelles en plateformes de croissance et de témoignage chrétien.
+
+Nous allons passer la plus grande partie de notre vie d’adulte à travailler. Ainsi, à moins que nous ne soyons capables d’intégrer d’une manière ou d’une autre notre engagement envers Christ à notre vocation, nous passerons une part démesurée de notre vie à ne pas tirer profit d’une existence centrée sur Dieu. Nous pouvons être reconnaissants que l’avertissement de « marcher selon l’Esprit » peut se transformer en une promesse qui dit que, même si nous traversons un bureau, un chantier de construction ou une ferme, Christ peut être dans nos cœurs et à nos côtés tout le temps (voir Gal. 5:25). C’est un encouragement supplémentaire de savoir que toute œuvre que nous accomplissons, et pas seulement les œuvres ouvertement religieuses, peut être inspirée par l’Esprit. Dieu a dit à Moïse qu’il avait rempli Betsaleel « de l’Esprit de Dieu » pour qu’il puisse fabriquer du métal, du bois, de la pierre et du tissu pour faire un tabernacle (Exode 35:31-35). Si Dieu peut bénir l’œuvre de Betsaleel avec l’Esprit, Il peut bénir la nôtre.
+
+### Partie II: Commentaire
+
+**L’Écriture**
+
+Il est facile de se mettre dans la tête des idées qui semblent très bibliques mais qui ne le sont pas. Le paradis passé et futur nous sert d’exemple. Si on nous laissait construire l’Éden ou la nouvelle terre, notre première tentative serait peut-être d’en faire un lieu de bonheur et de plaisir oisif. Pour certains, un lieu d’adoration constante à Dieu serait le seul paradis. Beaucoup n’auraient pas naturellement inclus le « travail » dans le premier ou le dernier foyer des enfants de Dieu. Mais c’est le cas.
+
+« L’Éternel Dieu prit l’homme et le plaça dans le jardin d’Éden pour le cultiver et pour le garder » (Genèse 2:15, LSG). Ésaïe décrit les nouveaux cieux et la nouvelle terre comme un lieu où nos compétences en matière de jardinage seront à nouveau nécessaires, « ils planteront des vignes et en mangeront le fruit » (Esa. 65:21). Dans le monde aujourd’hui, le « travail » est souvent, au mieux, une distraction et, au pire, un obstacle à nos relations les plus précieuses, y compris notre relation avec Dieu. Comment alors le « travail » peut-il faire partie de l’idéal?
+
+En termes simples, « travailler » le jardin ne serait-il pas une distraction par rapport à l’adoration ou à la relation avec Dieu? Cette question est similaire à la question: « Si Dieu est tout ce dont Adam a besoin, pourquoi a-t-Il créé Ève? Dieu ne suffit-Il pas? » Il s’avère que le Dieu Créateur sait exactement ce qui est idéal pour Sa propre création. Dieu a donné à nos premiers parents un certain nombre de choses qui allaient retenir leur attention et leur temps; les animaux, la beauté naturelle exquise, la responsabilité de « remplir la terre » (Genèse 1:28), d’avoir la « domination » sur la création (Genèse 1:28), et enfin de « travailler » et de « garder le jardin d’Éden » (Genèse 2:15, LSG). Ces efforts innocents et saints sont les intentions de Dieu, et Il ne nous les donnerait évidemment pas s’ils mettaient en danger notre proximité avec Lui ou les uns avec les autres. Nous pouvons avoir le sentiment d’être en « communion » avec Dieu même si nous faisons d’autres activités, de la même manière que nous prenons plaisir au temps passé avec nos proches en menant des activités ensemble.
+
+Le lieu de « travail » d’aujourd’hui n’est évidemment pas un environnement aussi saint que le paradis sans péché que Dieu a créé à l’origine. Mais cela ne signifie pas que le sentiment d’être « ensemble » n’est pas encore un objectif réaliste que nous devons atteindre. Peut-être que le simple témoignage, comme l’attestent les Écritures, de « marcher avec Dieu » (voir Gen. 5:22, Gen. 6:9, Gen 48:15) illustre la compagnie continue que nous pouvons avoir avec notre Seigneur, même en travaillant.
+
+**L’Écriture**
+
+Réfléchissons à ce verset clé: « et Moïse appela Betsaleel, Oholiab, et tous les hommes habiles dans l’esprit desquels l’Éternel avait mis de l’intelligence, tous ceux dont le cœur était disposé à s’appliquer à l’œuvre pour l’exécuter » (Exode 36:2). Remarquez les verbes supplémentaires insérés dans la dernière clause de ce verset: disposer, s’appliquer ou prendre soin, d’exécuter. Examinons d’abord cette phrase hébraïque de « cœur disposé » (nasa’ + lev) et laissons-la nous informer sur la nature du travail qu’ils ont accompli. Le mot « disposer » est un mot courant qui apparait plus de 650 fois dans l’Ancien Testament et signifie essentiellement « placer ou poser ». Mais lorsqu’il est placé avec le « cœur », il devient une expression idiomatique reflétant soit une bonne chose ou une mauvaise chose. Les versets des « bonnes choses » sont les suivants (la « mauvaise chose » vient à la fin de la discussion):
+
+« Tous ceux qui furent entrainés par le cœur et animés de bonne volonté vinrent et apportèrent une offrande à l’Éternel pour l’œuvre de la tente d’assignation » (Exode 35:21).
+
+« Toutes les femmes qui avaient de l’habileté filèrent de leurs mains, et elles apportèrent leur ouvrage, des fils teints en bleu, en pourpre, en cramoisi et du fin lin. Toutes les femmes dont le cœur était bien disposé, et qui avaient de l’habileté, filèrent du poil de chèvre » (Exode 35:25, 26).
+
+Ajoutez à cela le texte de Betsaleel, et ce sont là tous les textes positifs qui « disposent le cœur » dans l’Ancien Testament. D’autres versions associent le mot « disposé » aux concepts de « bénévolat, volonté, être ému ». Remarquez ce que ces versets ont en commun: ils ont tous trait au sanctuaire, ils font tous appel à la sagesse ou à l’habileté, et ils font tous appel à la volonté sans contrainte. Ces facteurs nous instruisent dans l’art de maximiser notre joie dans n’importe quel travail que nous accomplissons. Tout d’abord, le fait d’être compétent et de s’améliorer, quelle que soit notre profession, transforme le travail en une bénédiction personnelle pour nous, à mesure que nos compétences et notre « sagesse » se développent.
+
+Deuxièmement, le fait de faire notre travail pour plaire au Seigneur, comme les femmes qui filent des poils de chèvre pour le tabernacle de Dieu, nous évite de nous laisser entrainer dans les conflits de notre travail et nous rappelle plutôt que le travail que nous faisons (et la façon dont nous le faisons) est notre offrande au Seigneur. « Tout ce que vous faites, faites-le de bon cœur; comme pour le Seigneur et non pour les hommes » (Col 3,23).
+
+Troisièmement, à la lumière des deux premiers facteurs, notre travail ne doit pas être ressenti comme un piège auquel nous essayons d’échapper, mais comme quelque chose que nous pouvons faire avec passion et de tout notre cœur, un cœur ému. Lorsque nous travaillons, (1) nous devrions travailler pour la gloire et l’honneur du Seigneur, (2) nous devrions exercer et renforcer les compétences qu’Il nous a données, et (3) nous devrions faire tout notre travail avec un esprit volontaire et un cœur passionné.
+
+Revoyons cette dernière clause de notre texte clé, « tous ceux dont le cœur était disposé à s’appliquer à l’œuvre pour l’exécuter. » L’autre mot qui mérite d’être mentionné est le mot « à s’appliquer ou à prendre soin ». Ce mot qarav signifie s’approcher et est utilisé dans le sens de s’approcher à l’autel pour offrir son sacrifice (Lev. 9:8). Il partage également la même racine avec le mot offrande, par exemple, une offrande d’agneau (Lev.3:7). Mais qu’est-ce que Betsaleel et les femmes offrent? Ils offrent leur travail, leur temps, leurs compétences. En gros, ils sont eux-mêmes l’offrande. Cela ne se rapporte-t-il pas à Romains 12:1? « Je vous exhorte donc, frères, par les compassions de Dieu, à offrir vos corps comme un sacrifice vivant saint, agréable à Dieu, ce qui sera de votre part un culte raisonnable » (Rom. 12,1). Il en ressort une image qui relie notre travail, nous-mêmes et notre adoration dans une profonde unité.
+
+Dans la Septante (la traduction grecque de l’Ancien Testament), le mot hébreu qarav (approcher) est traduit prosporeuomai. Il est intéressant de noter que ce mot apparait une seule fois dans le Nouveau Testament, et qu’il implique deux hommes s’approchant de Jésus (Marc 10:35). Malheureusement, ils ne s’approchent pas pour adorer ou servir, mais pour se servir eux-mêmes. Ils s’agit de Jacques et Jean, et ils s’approchent de Jésus pour demander les positions les plus honorées possibles (Marc 10:37). Et ainsi, avec ce verset, nous concluons nos réflexions par un regard sur la « mauvaise » utilisation d’un « cœur ému ». Rappelez-vous, cela signifie littéralement « élever le cœur », et comme on peut le deviner, un cœur élevé peut être un cœur arrogant et égoïste (2 Rois 14:10). Jacques et Jean s’approchent de Dieu non pas pour L’adorer, mais pour être adorés, non pas pour servir, mais pour être servis. Dans ce cas particulier, Jacques et Jean sont l’antithèse des femmes qui tissent des poils de chèvre.
+
+### Partie III: Application
+
+**Réfléchissez et discutez:**
+
+1. Et si nous remplacions le mot travail de notre vocabulaire par les mots service pour Dieu chaque fois que nous parlons de notre travail? Comment nos attitudes changeraient-elles?
+
+2. Atteindre l’excellence (sagesse ou compétence), servir volontairement, et garder Dieu devant nous dans notre travail quotidien sont collectivement une noble cause. Que pouvons-nous faire pour transformer certains de ces idéaux en une réalité tangible dans laquelle le travail devient une expérience améliorée?
+
+3. Avez-vous déjà pris plaisir à accomplir une tâche particulière qui, pour tous les autres, ressemblerait à un travail mais qui, pour vous, était un plaisir sans effort? Comment cela est-il possible?
+
+4. Comment l’éducation adventiste peut-elle encourager une vision plus biblique de la vocation qui contraste avec les notions séculaires d’une carrière qui est exclusivement motivée par des incitations financières?
+
+5. Attendez-vous autant le nouveau ciel et la nouvelle terre, sachant que le « travail » fera partie de notre existence éternelle? Pourquoi, ou pourquoi pas?
+
+6. Comment le fait de savoir que le « travail » fera partie de notre avenir pendant très longtemps ajoute-t-il de l’importance au fait que le sabbat sera également un élément permanent de notre vie éternelle (Ésaïe 66:23)?

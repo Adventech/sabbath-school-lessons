@@ -1,0 +1,58 @@
+---
+title:  El Sábado enseñaré
+date:  11/09/2020
+---
+
+### EL SÁBADO ENSEÑARÉ...
+
+##### Texto clave: 1 Juan 5:11-13
+
+##### Enfoque del estudio:
+
+1 Juan 5:1-3; Efesios 2:1-8; Marcos 5:15-19; Hebreos 10:19-22.
+
+#### RESEÑA
+
+El poder de la testificación en el Nuevo Testamento es el poder del testimonio personal. Los creyentes del primer siglo compartieron a un Cristo que conocían por experiencia. Los cristianos artificiales –si existe tal cosa– nunca cambiarán al mundo. Cuando Cristo habita en nuestros corazones a través del ministerio del Espíritu Santo, nuestra vida cambia.
+
+Testificar es una tarea laboriosa, si es simplemente un deber o una obligación religiosa. Es una delicia si proviene de un corazón rebosante de amor por el Cristo que nos ha redimido. Cuando estamos enamorados, disfrutamos hablando de la persona que amamos. Lo que es verdad para el amor humano ciertamente también es verdad para el amor divino. El poder del testimonio en el Nuevo Testamento fue precisamente esto: los creyentes compartían espontáneamente a un Cristo que amaban. Testificar no era un requisito legalista, era la respuesta del corazón al sacrificio de Cristo en la Cruz.
+
+En la lección de esta semana, redescubriremos cuán poderosos son nuestros testimonios personales con el fin de influir en otros para Cristo. El poder transformador de nuestro testimonio personal no es lo malos que fuimos o lo buenos que somos ahora; se trata del Cristo que vino a este mundo maldito por el pecado en una misión redentora de amor para salvarnos. Podemos testificar con seguridad no por quiénes somos, sino por quién es él.
+
+#### COMENTARIO
+
+En Efesios 2, el apóstol Pablo describe el cambio que tiene lugar cuando un individuo acepta a Cristo. Él declara que anduvimos “en otro tiempo, siguiendo la corriente de este mundo” (Efe. 2:2). “Todos nosotros vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos, y éramos por naturaleza hijos de ira” (2:3). La expresión “hijos de ira” simplemente significa que somos, por nuestra propia naturaleza, pecadores y merecedores del juicio –o ira– de Dios. El profeta Jeremías afirma que “engañoso es el corazón más que todas las cosas, y perverso” (Jer. 17:9). Isaías agrega que incluso nuestra así llamada justicia es como “trapos de inmundicia” (Isa. 64:6). La razón por la cual nuestra justicia se describe como trapo sucio es porque proviene de un corazón contaminado por el pecado. Sin Cristo, estamos irremediablemente perdidos, en la esclavitud de nuestra naturaleza pecaminosa.
+
+Pablo continúa su discusión sobre el plan de salvación al declarar que “Dios, que es rico en misericordia”, “nos dio vida juntamente con Cristo” y “nos resucitó, y asimismo nos hizo sentar en los lugares celestiales con Cristo Jesús” (Efe. 2:4-6). Él nos ha salvado por su gracia, no por nuestras buenas obras (2:8). Todo proviene de gracia. Por su gracia, nos perdona la culpa del pecado y nos libera de las garras del pecado. Por su gracia, nos salva del castigo del pecado y nos libera del poder del pecado. La salvación por gracia nos libera de la condenación del pecado y de la esclavitud, o dominio, del pecado. Nosotros, que una vez estuvimos muertos en delitos y pecados, ahora estamos vivos en Cristo. La expresión usada en Efesios 2:5, “nos dio vida”, significa un renacimiento. En Cristo, es como si hubiéramos nacido de nuevo, comenzando de nuevo con una nueva identidad en Cristo, un nuevo comienzo en Cristo y un nuevo poder en Cristo. Con este nuevo caminar en Cristo, “somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas” (Efe. 2:10). La palabra griega para “hechura” es poiema. De ella obtenemos nuestra palabra castellana “poema”. Cuando Cristo nos recrea para la gloria de su nombre, escribe un poema de nuestra vida a través de las buenas obras que su Espíritu nos da poder para hacer ante todo el Universo.
+
+##### Gracia para todos
+
+Aquí tenemos noticias increíblemente buenas. La gracia de Dios no solo está disponible para unos pocos elegidos; el apóstol Pablo deja en claro que se da gratuitamente a todos. Declara: “Pero ahora en Cristo Jesús, vosotros que en otro tiempo estabais lejos, habéis sido hechos cercanos por la sangre de Cristo. Porque él es nuestra paz, que de ambos pueblos hizo uno, derribando la pared intermedia de separación” (2:13, 14). La expresión “la pared intermedia de separación” es notable. Los judíos no permitían que ningún no judío entrara en el Templo judío. Había una barrera de piedra de metro y medio de altura con trece grandes piedras escritas en griego y latín, advirtiendo a los gentiles o extranjeros que si procedían más allá de este recinto exterior del Templo lo harían a riesgo de su vida.
+
+El historiador judío Josefo describe esta advertencia claramente. “Había una partición hecha de piedra [...]. Su construcción era muy elegante; sobre ella se alzaban columnas, a la misma distancia entre sí, que declaraban la ley de la pureza, algunas en griego y otras en letras romanas, que ‘ningún extranjero debería entrar en ese santuario’ ” (Archeological Bible, p. 1.917, citado de Josephus [Wars 5.5.2]). Los gentiles no tenían acceso a la presencia de Dios en el Santuario judío. Cristo cambió todo eso. Su gracia proporciona acceso directo al Padre. Todos los que por fe reciben la salvación que él ofrece tan libremente tendrán entrada en su Reino eterno.
+
+El evangelio es para todos. La salvación es para todos. El perdón, la misericordia, la clemencia y la gracia son para todos. Los creyentes del Nuevo Testamento comprendieron la maravilla de su gracia, y no pudieron guardar silencio. Ellos entendieron la seguridad de la vida eterna en Cristo. Vivieron para contar la historia de su abundante gracia. A medida que comprendemos el significado de su gracia, nosotros también vivimos para contar su historia.
+
+##### La gracia nos cambia
+
+La gracia nos cambia. Santiago y Juan, conocidos como los “hijos del trueno”, fueron transformados por gracia. Uno no llama a alguien “hijo del trueno” porque tiene una disposición suave, pasiva y relajada; Santiago y Juan eran dínamos que fácilmente podían ponerse nerviosos o impacientes. Eran altamente competitivos y buscaban puestos en el nuevo reino de Cristo. El amor sacrificial de Cristo los cambió en el centro mismo de su ser. Santiago finalmente fue martirizado, y Juan, que vivió hasta los noventa años, nunca se cansó de contar la historia del amor que cambió su vida. Un escritor dijo: “Juan escribió con su pluma embebida en el amor”. Juan fue cambiado por el amor y tenía que contar la historia. El apóstol Pablo agrega: “El amor de Cristo nos constriñe” (2 Cor. 5:14). En otras palabras, el amor de Cristo nos impulsa, nos motiva y nos obliga a contar la historia de la salvación.
+
+Elena de White lo dice de esta manera: “El amor es un atributo celestial. El corazón natural no puede originarlo. Esta planta celestial solamente florece donde Cristo reina en forma suprema. Donde existe amor, allí hay poder y verdad en la vida. Dios hace el bien y solo el bien. Los que tienen amor llevan fruto de santidad, y finalmente reciben la vida eterna” (HHD 51).
+
+Contar la historia de Jesús es contar la historia de cómo su gracia ha obrado en nuestra vida. Testificar no es un don espiritual dado a muy pocas personas; es la función de todo cristiano. Simplemente, di lo que Cristo ha hecho por ti. Comparte con otros la paz que has encontrado en Jesús. Diles cómo Cristo te dio un propósito en la vida. Ora por oportunidades para decir a los que te rodean la alegría que tienes al seguir a Jesús. Diles cómo te aferraste de sus promesas por fe y descubriste que eran verdaderas. Comparte respuestas a tus oraciones o promesas bíblicas que sean significativas para ti. Te sorprenderá cómo responderán los demás a una fe genuina.
+
+En una lección anterior, mencionamos a los endemoniados. Solo imagina el poder de su testimonio al compartir lo que Cristo había hecho por ellos. ¡Quién podría argumentar en contra de un testimonio tan real! Las vidas cambiadas son el testimonio más poderoso posible. Hay quienes argumentan en contra de lo que crees. Debatirán su teología, pero pocas personas discutirán en contra del testimonio de una vida cambiada. Como Elena de White dice tan bellamente: “El argumento más poderoso en favor del evangelio es un cristiano amante y amable” (MC 373). Los críticos guardaron silencio ante los sorprendentes cambios en la vida de los endemoniados. A medida que el amor de Cristo fluya por tu vida, otros se sentirán conmovidos para buscar al Cristo que te ha cambiado y te ha dado tanta paz y alegría.
+
+##### Seguridad cristiana
+
+Si alguien te hiciera la pregunta “¿Tienes vida eterna?”, ¿cómo responderías? ¿Sería tu respuesta ambigua o segura? ¿Dirías: “Espero que sí”, u “Ojalá lo supiera”, o “No estoy seguro”? Jesús quiere que tengas la certeza de la vida eterna. El apóstol Juan declara que “Dios nos ha dado vida eterna; y esta vida está en su Hijo” (1 Juan 5:11). Luego agrega palabras demasiado claras para ser malentendidas: “El que tiene al Hijo, tiene la vida; el que no tiene al Hijo de Dios no tiene la vida. Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna” (1 Juan 5:11-13). Mientras tengamos a Jesucristo viviendo en nuestra vida, el don de la vida eterna es nuestro. Él es vida, y en él tenemos vida. Es esta seguridad lo que otorga poder a nuestro testimonio. Nuestra seguridad no se basa en nuestras buenas obras o nuestra justicia superior; se basa solo en Cristo, que vive en nuestra vida por el Espíritu Santo, que produce buenas obras a través de nosotros.
+
+#### APLICACIÓN A LA VIDA
+
+¿Es posible ser un testigo efectivo de Cristo sin la seguridad de la salvación en tu propia vida? Algunos cristianos adventistas están preocupados por aceptar la enseñanza bíblica de la seguridad de la salvación debido a la declaración de Elena de White que indica que nunca debemos decir que somos salvos (ver PVGM 120). Un análisis cuidadoso de esta declaración revela que ella estaba hablando en el contexto de “una vez salvo, siempre salvo”. Estaba hablando de la falsa seguridad de la autoconfianza, de la idea errónea de que cuando vengo a Cristo nunca puedo caer y perderme. Esta doctrina fácilmente puede conducir a la complacencia en nuestra vida cristiana y a la justificación de nuestro propio comportamiento pecaminoso. La gracia de Dios no es “barata”. Cambia nuestra vida. Con respecto a la seguridad de la salvación en Jesús, Elena de White fue clara. Afirmó: “Cada uno de ustedes puede saber por sí mismo que tiene un Salvador vivo, que él es su Áyudador y su Dios. No necesita llegar al punto de decir: ‘No sé si soy salvo’. ¿Crees en Cristo como tu Salvador personal? Si lo haces, regocíjate” (General Conference Bulletin, 10 de abril de 1901).
+
+Anima a tu clase a compartir por qué creen que la seguridad de la salvación es la base de todo testimonio efectivo. Haz que un miembro de la clase lea 1 Juan 5:11 al 13, y comenten estos versículos en clase. ¿Dónde se encuentra la seguridad de la vida eterna?
+
+Lee y desarrolla la siguiente declaración:
+
+“Una vez que la mirada se fija en él, la vida halla su Centro. El entusiasmo, la devoción generosa, el ardor apasionado de la juventud hallan en esto su verdadero objeto. El deber llega a ser un deleite; y el sacrificio, un placer. Honrar a Cristo, asemejarse a él, es la ambición superior de la vida, y su mayor gozo” (Ed 297).

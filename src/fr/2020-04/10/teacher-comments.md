@@ -1,0 +1,60 @@
+---
+title:  Commentaires Moniteurs
+date:   04/12/2020
+---
+
+### Partie I: Aperçu
+
+La nature est la révélation de Dieu en 3D, multimédia et 24 heures sur 24. Elle ne nécessite aucun abonnement payant, aucun dispositif de diffusion en continu, et est partout et toujours accessible (Ps. 19:1). Pour cette raison, faire recours à l’ignorance pour justifier le refus de connaitre et de suivre Dieu sera inadmissible dans l’évaluation finale (Rom. 1:18-20). Les arts, également, dans la mesure où ils reflètent la beauté, et, ou la vérité, peuvent être une source pour voir Dieu et réfléchir sur Son caractère.
+
+La biologie, la physique et les autres branches de la science sont des outils rigoureux et efficaces pour comprendre les différents aspects de la création de Dieu. Mais elles trébuchent souvent sur les origines. Par exemple, on dit qu’il n’y a que deux choses dont on est sûr en ce monde: la mort et les factures. Mais nous savons que cela n’a pas toujours été le cas. Bien que la mort soit une partie naturelle de notre vie aujourd’hui, elle était une condition inexistante à l’origine (pas de factures non plus). Le monde physique était affecté par une décision morale et spirituelle (Rom. 5:12). La science biologique, dans sa forme actuelle, ne permet pas cette information, et, par conséquent, son modèle de l’origine de la vie est souvent trompeur.
+
+Dieu a écrit et organisé les lois de l’univers d’une façon si magistrale, tant au niveau macro qu’au niveau micro, qu’on peut comprendre pourquoi la science peut étudier et manipuler efficacement le monde naturel pour son but sans reconnaissance ni recours à Dieu. Dans un sens, Dieu a si bien fait le système, l’a apparemment rendu indépendant de Lui-même, que les gens utilisent le système comme preuve contre Son existence. Une éducation et une vision chrétiennes du monde ne commettent pas cette erreur, mais voient la nature à la fois comme une preuve de Dieu et comme un aperçu de ce dernier.
+
+### Partie II: Commentaire
+
+**La science en perspective**
+
+L’histoire de la science montre un amoncèlement de gains et d’intuitions étonnants, tant théoriques que technologiques. Des progrès médicaux aux technologies de l’information, nous sommes redevables à la communauté scientifique pour ses efforts inlassables pour améliorer la vie moderne. Ces progrès, cependant, reposent sur un véritable océan d’erreurs, de théories abandonnées et de paradigmes dépassés qui ont été conservés au-delà de leur temps en raison de nombreuses variables, notamment ce à quoi toutes les disciplines sont susceptibles d’être exposées: les préjugés et les partis pris. À la lumière de cette histoire, pourquoi ne devrait-on pas considérer comme éminemment raisonnable de prendre des « vérités » scientifiques avec réserve au lieu de se jeter en vitesse sur la prochaine théorie scientifique, qui risque de se glisser dans la poubelle scientifique dans une génération? Cette perspective n’est pas populaire parce que la science n’a pas pour vocation de faire connaitre ses erreurs. Elle a aussi une façon de s’absoudre de ses erreurs ou de les dissimuler soigneusement.
+
+Voici deux exemples: le premier, dans lequel la science aurait dû saluer l’église mais ne l’a pas fait, et le second, dans lequel l’église a été le bouc émissaire d’une erreur plus générale. (Les deux exemples suivants sont tirés en partie du livre de John C. Lennox, God’s Undertaker: Has Science Buried God? [Oxford: Lion, 2009], pp. 24, 68.)
+
+(1) Les premiers penseurs chrétiens (Augustin, Irénée, Aquin), s’appuyant sur le récit biblique, ont convenu que l’univers avait un commencement et que Dieu l’avait créé. Cependant, pendant une grande partie de l’ère scientifique moderne, le consensus était que l’univers était infini, tant en termes d’âge que d’étendue. Lorsque les athées débattaient de l’existence de Dieu avec les chrétiens, les apologistes utilisaient l’origine de l’univers comme preuve de l’existence de Dieu. Les athées ont répondu par le « fait » que l’univers était infini, ce qui affaiblissait cet argument. Avançons rapidement à la fin du XXe siècle, et le consensus parmi les scientifiques est que l’univers a effectivement eu un commencement. Mais certains étaient réticents à l’admettre. Pourquoi? Parce que cela donnait aux chrétiens une justification pour leurs croyances créationnistes. Laissons-cela de côté un instant. Les preuves scientifiques, telles que le décalage vers le rouge de la lumière des galaxies lointaines et le rayonnement de fond des microondes, soutiennent la théorie selon laquelle l’univers a eu un commencement. Cette supposition s’aligne sur le récit biblique. Mais les scientifiques ont résisté à cette conclusion parce qu’elle donnait trop de poids à la religion. Ne serait-il pas bien que la communauté scientifique joue franc jeu et dise simplement: « Nous avons tout foiré, mais ces chrétiens créationnistes qui croient en la Bible ont eu raison »?
+
+(2) La « thèse du conflit » qui affirme que la religion et la science sont fondamentalement en désaccord l’une avec l’autre tire une grande partie de sa popularité d’histoires comme celle de Galilée. Le fait que de telles histoires fassent l’objet de titres dramatiques ne fait que renforcer la thèse, des titres tels que « Galilée, scientifique laïque extraordinaire face à l’église, l’incarnation institutionnelle d’un dogme religieux non scientifique. » Bien sûr, Galilée avait raison à propos de l’héliocentrisme, et l’église médiévale avait tort, mais le récit est faussé par le fait qu’il s’agissait d’un cas précis de science contre religion et que la science a gagné. Le fait est que Galilée a cru en Dieu et en la Bible et qu’il l’a fait toute sa vie. Son problème initial n’était pas avec l’église, mais avec l’académie. Dans une lettre datant de 1615, il affirme que les professeurs d’universités qui s’opposaient à lui ont tenté d’influencer les autorités de l’église Catholique Romaine pour qu’elles s’expriment contre lui. Les arguments scientifiques de Galilée constituaient une menace pour l’aristotélisme régnant de l’académie. Rome s’est alignée sur une vision du monde qui était soutenue par les philosophes et les professeurs italiens. Cette compréhension n’absout pas l’église Catholique romaine de son traitement de Galilée, mais elle montre que Rome était simplement en harmonie avec le paradigme académique régnant à l’époque. Utiliser Galilée comme illustration de la victoire de la science sur la religion, c’est faire de l’église médiévale un bouc émissaire et déformer l’histoire.
+
+Ces deux exemples montrent que la bataille entre la foi et la science est un homme de paille à bien des égards. L’idée que la cosmologie du Big Bang est une concession du fait que les créationnistes avaient raison au départ est pratiquement inconnue aujourd’hui. Aujourd’hui, la théorie du Big Bang concernant l’origine de l’univers est utilisée contre les croyants comme argument contre l’existence de Dieu. De nombreux créationnistes laïcs ne se rendent pas compte que leur trophée de victoire (c’est-à-dire que l’univers a un commencement) leur a été arraché des mains et qu’il est utilisé pour les combattre à nouveau au sens figuré.
+
+L’un des aspects positifs de notre ère postmoderne est qu’elle nous a fait admettre que les scientifiques sont dans le même bateau que tous les autres universitaires travaillant dans leur domaine, et que toute la science qui arrive sur le marché public est passée par le tamis humain de la subjectivité, de la faillibilité, des préjugés, des conflits éthiques, etc. Les laïcs modernes regardent souvent la science à travers des lunettes roses et ne sont probablement pas conscients que la science n’a pas réussi à réfuter l’existence de Dieu ou la fiabilité des croyances religieuses. Mais ne croyez pas un chrétien sur parole; écoutez la critique du physicien agnostique David Berlinsky sur les prétentions de son propre domaine (The Devil’s Delusion: Atheism and its Scientific Pretentions, https://www.goodreads.com/work/quotes/1639458-the-devil-s-delusion-atheism-and-its-scientific-pretensions).
+
+« Quelqu’un a-t-il fourni la preuve de l’inexistence de Dieu? Pas du tout. La cosmologie quantique a-t-elle expliqué l’émergence de l’univers ou pourquoi il est ici? Pas du tout. Nos sciences ont-elles expliqué pourquoi notre univers semble être réglé avec précision pour permettre l’existence de la vie? Pas du tout. Les physiciens et les biologistes sont-ils prêts à croire en quelque chose tant que ce n’est pas une pensée religieuse? C’est assez proche. Le rationalisme et la pensée morale nous ont-ils permis de comprendre ce qui est bon, ce qui est juste et ce qui est moral? Pas suffisamment. La laïcité, au cours du terrible XXe siècle, a-t-elle été une force pour le bien? Pas même près d’être proche. Y a-t-il une orthodoxie étroite et oppressive dans les sciences? Assez proche. Y a-t-il quelque chose dans les sciences ou leur philosophie qui justifie l’affirmation que la croyance religieuse est irrationnelle? Pas même dans un terrain de balle. L’athéisme scientifique est-il un exercice frivole de mépris intellectuel? Entièrement. »
+
+Cette brève critique et perspective devrait servir à montrer que les chrétiens ne doivent pas se retirer de l’étude de la science comme si elle était quelque chose d’intrinsèquement antagoniste au théisme ou à la Bible. Au contraire, c’est la croyance en Dieu et en une création ordonnée, voulue et planifiée qui a motivé certains des plus grands esprits scientifiques de l’histoire à poursuivre l’étude scientifique du monde physique.
+
+**Sur la beauté**
+
+Traditionnellement, il y a eu cinq branches de la philosophie. Ces branches et leurs objets d’étude sont les suivants:
+
+1. La logique: la pensée idéale.
+
+2. L’éthique: le comportement idéal.
+
+3. La politique: l’organisation sociale idéale.
+
+4. La métaphysique: la réalité ultime.
+
+5. L’esthétique: la forme et la beauté idéale.
+
+Bien que beaucoup de ces sujets puissent être entendus en allumant la radio, les réflexions sur la beauté sont devenues rares. Principalement en raison du relativisme culturel et moral de notre époque, la beauté est considérée comme une simple préférence subjective. Mais au fond, nous savons que cette affirmation ne peut être vraie. En fait, tout comme nous savons qu’il existe des concepts de base du « bien » qui ne sont pas relatifs au temps, à la culture, ou au lieu, la « beauté » est la même. Comme l’a dit un philosophe: « La beauté est la bonté qui se manifeste aux sens. »
+
+### Partie III: Application
+
+Allumez les médias d’informations et vous verrez les gens utiliser des arguments et des contre-arguments (logiques) pour dire comment les gens devraient ou ne devraient pas se comporter (éthique) ou si les politiciens gouvernent correctement (politique). Mais à quand remonte la dernière discussion sur le thème de la beauté? Discutez de ces questions en classe:
+
+1. Selon vous, de quelle manière la « beauté » est-elle comprise dans une vision chrétienne du monde plutôt que dans une vision laïque?
+
+2. Le rôle que les arts jouent dans nos vies peut ne pas sembler prioritaire, mais quand on pense à la façon dont les médias et les arts affectent la moralité de notre nation (pensez à la vôtre), la signification devient claire. Andrew Fletcher est allé jusqu’à dire: « Que je fasse les chansons d’une nation, et je ne me soucie pas de savoir qui fait ses lois. » Pourquoi a-t-il dit cela? Quel genre de contributions les Adventistes peuvent-ils apporter dans la musique, l’art et la littérature pour être un témoin de Dieu?
+
+3. La société est saturée de clichés sur la science et la religion. Malheureusement, ces clichés favorisent généralement la science et se moquent de la religion. Quel genre de préparation est nécessaire pour les étudiants adventistes qui entrent dans les domaines scientifiques afin de maintenir la crédibilité de la Bible et de la vision chrétienne du monde?
+
+4. Tous les jeunes adventistes ne vont pas dans des écoles adventistes. Comment les églises peuvent-elles devenir « les écoles » de ces jeunes afin de renforcer leur foi dans les universités laïques?

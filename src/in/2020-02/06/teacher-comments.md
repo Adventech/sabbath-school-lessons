@@ -1,0 +1,60 @@
+---
+title:  Teacher Comments
+date:   08/05/2020
+---
+
+**Ayat-ayat Kunci**: Ibr. 11: 6; Luk. 24: 44, 45; 1 Kor. 12: 10; 14: 26; Yoh. 1: 41; 9: 7; 9: 39–41; 12: 42, 43; Kis. 9: 36; 17: 22–26; Luk. 24: 27; Neh. 8: 1–3, 8. 
+
+#### Bagian I: Ringkasan 
+
+Kadang-kadang orang mengatakan bahwa mereka memercayai Alkitab seperti yang dibacanya, tanpa perlu penafsiran. Meskipun sikap itu patut dipuji untukmenganggap serius Alkitab dan bersedia mengikuti apa pun yang diperintahkannya kepada kita untuk dilakukan, tidak ada yang mempelajari Alkitab dengantanpa pertimbangan. Kita semua dipengaruhi oleh pemikiran dan pemahamankita, oleh pendidikan kita, keluarga, budaya tempat kita tumbuh dewasa, danoleh pengalaman kita. Kita semua memiliki beberapa praanggapan yang dengannya kita mempelajari teks. Pembacaan dan penyelidikan teks Alkitab pasti melibatkan beberapa penafsiran. Alkitab ditulis dalam bahasa (Yunani, Ibrani, Aram)yang banyak dari kita tidak tumbuh dengan bahasa-bahasa itu atau hanya mengetahuinya secara singkat. Dan seperti yang diketahui oleh setiap penerjemah,setiap terjemahan ke bahasa lain melibatkan beberapa bentuk penafsiran. Andaharus tahu bahasa dengan sangat baik untuk memahami bahwa itu suatu pujianatau suatu ejekan. Lebih jauh, pemikiran kita digelapkan oleh dosa dan karenanya tidak netral dalam hal hal-hal rohani. Fakta bahwa ada berbagai gereja dandenominasi, walaupun mereka semua mengklaim hidup oleh Alkitab, menunjukkan bahwa beberapa bentuk penafsiran sedang bekerja di dalam diri kita semua.Namun, kita mempelajari kitab yang sama dan dapat mencapai kesimpulan yangmenyatukan kita, terlepas dari semua perbedaan di atas. Penafsiran itu sangatpenting untuk dipahami, dan pekan ini kita akan mempelajari beberapa metodepenafsiran yang akan menuntun pada pelajaran Alkitab kita. 
+
+#### Bagian II: Komentar 
+
+Arti suatu kalimat tidak ditentukan hanya oleh perkataan seseorang tetapi oleh konteks di mana kata-kata tersebut digunakan. Jika kita tidak cukupmempertimbangkan konteks sastra yang langsung dan luas dari suatu perkataan dan bagaimana ia menggunakan kata-kata dalam keadaan ini, kitadengan cepat akan sampai pada kesimpulan yang salah. Demikian pula, kitaperlu mempertimbangkan latar belakang sejarah dari apa yang ditulis. Inimembantu kita untuk menempatkan teks. Teks apa pun tanpa konteks dengancepat menjadi dalih untuk pendapat sendiri. Jika kita mengabaikan konteksnya, kita akan segera membaca sesuatu di dalam teks yang sebenarnya tidakdigagas oleh penulis. Kita menyebutnya eisegesis. Tetapi alih-alih membacasesuatu di dalam teks yang tidak ada di sana, kita harus melakukan penafsiran yang menyeluruh. Artinya, kita harus membaca teks sesuai dengan apayang dinyatakan oleh teks itu. Umat Advent tidak ingin mengikuti apa punkecuali Alkitab. Kita tidak memiliki seorang paus atau tradisi pengajaranyang menentukan pengertian pasti dari Kitab Suci. Karena itu, penafsiranAlkitab yang cermat dan baik sangat penting untuk teologi dan misi kita. Itumembentuk identitas dan kepercayaan teologis kita. 
+
+**Dugaan-dugaan dan Pandangan-pandangan Hidup**
+
+Setiap orang memegang beberapa kepercayaan yang kita terima secara sadar atau tidak sadar. Kita menganggap mereka benar, meskipun kita tidak dapat membuktikannya secara pasti. Keyakinan paling mendasar tentang duniaini dan nilai-nilai kita dijelaskan dalam apa yang disebut pandangan dunia(worldview). Pandangan hidup kita menentukan apa yang penting bagi kita dan apa yang tidak. Hal ini menyaring persepsi dan interpretasi kita tentang realitas dan menyediakan model dunia yang menuntun kita untuk hidup di dunia. Pandangan hidup kita mencakup pemahaman kita tentang Allah, sifat manusia, moralitas dan kebenaran. Pandangan hidup terdiri dari kepercayaan dan jawaban atas pertanyaan-pertanyaan di bidang ini. Pandangan hidup kita dipengaruhi oleh orang tua kita, pendidikan kita, teman-teman kita, pengalaman kita, media, budaya, dan agama. Kita menggunakan pandangan hidup kita setiap hari dan memahami dan menafsirkan realitas hidup melalui itu. Pandangan hidup memengaruhi pemikiran kita dan juga tindakan dan perilaku kita. 
+
+**Pikirkan** 
+
+Pikirkan tentang berbagai aspek di mana pandangan hidup kita memengaruhi pemikiran dan perilaku kita. Bagikan kepada anggota kelas tantangan yangmuncul ketika pandangan-pandangan hidup yang berbeda itu bertentangan.
+
+Selama kita tetap mau diajar, pandangan hidup kita berkembang. Ketika belajar dan bertumbuh, secara radikal akan mengubah banyak keyakinan inti kita, atau ketika kita memiliki pengalaman pertobatan, pandangan hidup kita dapat berubah. Perubahan ini biasanya terjadi ketika pandangan hidup sebelumnya telah terbukti tidak benar. Setelah perubahan seperti itu, orang tersebut akan terus melakukan penyesuaian dan akan mencoba untuk membawa keyakinan lain sejalan dengan sisa keyakinan intinya. Pertobatan kepada Yesus tidak secara otomatis menghapus pendidikan bertahun-tahun sebelumnya. Tetapi itu melibatkan perubahan dari satu pandangan hidup kepada pandangan hidup yang lain dan menyelaraskan semua keyakinan seseorang dengan Alkitab.
+
+Baca Lukas 24: 36–49. Bagaimanakah pengalaman kebangkitan Kristus dan penjelasan-Nya tentang Kitab Suci mengubah pandangan murid-murid-Nya akan kenyataan yang ada? Bagikan bagaimana pengalaman pertobatan Anda memengaruhi pemahaman Anda tentang Alkitab. Jika kita hanya secara bertahap membawa semua kepercayaan kita sebelumnya selaras dengan Kitab Suci, apakah artinya itu kepada kita tentang bagaimana kita harus berurusan dengan orang lain yang tumbuh dalam pemahaman mereka sendiri? 
+
+**Terjemahan dan Penafsiran** 
+
+Jika Anda ingin menafsirkan Alkitab dengan benar, akan sangat membantu untuk mempelajari Alkitab dalam bahasa aslinya. Jika itu tidak memungkinkan, gunakan terjemahan yang mengikuti bahasa asli dengan cermat. Terjemahan formal semacam itu menekankan kesetaraan kata demi kata dalam proses penerjemahan dan memberikan terjemahan bahasa Alkitab yang lebih tepat dan literal. Ketika kita mempelajari dan membandingkan bagaimana kata-kata tertentu digunakan dalam berbagai konteks oleh para penulis Alkitab, Alkitab itusendiri mengungkapkan maknanya. Sementara terjemahan formal semacam itumenjadi sebuah pelajaran Alkitab yang sangat baik, pembacaannya menjadi lebih kaku dan resmi. Berbeda dengan terjemahan formal, ada terjemahan dinamisyang menekankan arti dari arti daripada kesetaraan kata demi kata. Di sini terjemahannya disusun kembali menjadi penggunaan idiomatik yang mewakili pemikiran atau makna yang sama dalam bahasa kita. Meskipun terjemahan semacamitu sangat mudah dibaca, penafsirannya mungkin bisa menyesatkan atau keliru.Akhirnya, ada terjemahan parafrase. Mereka jauh lebih bebas dari bahasa asli dibandingkan terjemahan dinamis. Karena terjemahan parafrase lebih menafsirkandaripada menerjemahkan, itu tidak cocok untuk studi Alkitab yang serius. 
+
+**Pikirkan** 
+
+Jika terjemahan-terjemahan Alkitab yang berbeda tersedia dalam bahasaAnda, perlihatkan semua di dalam kelompok Sekolah Sabat Anda dan berikancontoh terjemahan yang berbeda dari suatu bagian Alkitab. Lakukan sedemikianrupa sehingga para pendengar diperkuat dalam iman mereka dan didorong untukbelajar Alkitab dengan lebih serius bagi diri mereka sendiri. Rekomendasikanterjemahan Alkitab yang terpercaya dalam bahasa Anda untuk pelajaran Alkitab.
+
+Beberapa denominasi gereja menerbitkan terjemahan Alkitab resmi mereka sendiri. Gereja Masehi Advent Hari Ketujuh belum melakukannya tetapi menggunakan terjemahan yang mapan yang tersedia melalui Bible Society(Lembaga Alkitab). Beberapa orang Advent telah bekerja dengan Lembaga Alkitab untuk membantu menyediakan Alkitab bagi mereka yang tidak memilikinya dan telah memberikan kontribusi yang berharga untuk berbagai terjemahan Alkitab. Pikirkan cara-cara Anda dapat membantu dalam promosi, distribusi, dan pembelajaran Alkitab. 
+
+**Alkitab dan Budaya**
+
+Pengetahuan tentang budaya Timur Dekat dapat membantu untuk memahami beberapa bagian Alkitab. Bacalah bagian dalam “Metode Pelajaran Alkitab,” bagian 4, 8, q, untuk beberapa ilustrasi. Dewasa ini para sarjana kritis berpendapat bahwa Alkitab dikondisikan secara budaya, yaitu, mencerminkan budaya dari mana Alkitab itu berasal dan dengan demikian dibatasi dalam otoritasnya karena hanya terbatas pada latar budaya tertentu, kata mereka. Sementara Alkitab memang ditulis dalam budaya tertentu, tetapi "para penulis Alkitab bersikeras bahwa pekabaran teologis dari Kitab Suci tidak terikat budaya, hanya berlaku untuk orang-orang tertentu dan waktu tertentu, tetapi permanen dan berlaku secara universal."—Richard M. Davidson, “Biblical Interpretation” dalam Handbook of Seventh-day Adventist Theology, ed. Raoul Dederen (Hagerstown, MD: Review and Herald, 2000), hlm. 85. Yesus dilahirkan dalam budaya tertentu, namun, Dia bukan hanya Juruselamat bagi orang-orang pada zaman-Nya. Dia adalah Juruselamat dunia. Kedatangan-Nya ke dalam budaya tertentu tidak membuat-Nya bersaudara secara budaya tetapi memberi-Nya makna yang melampaui setiap budaya. 
+
+**Pikirkan** 
+
+Beberapa orang hanya fokus pada hal-hal yang berbeda dari satu budaya kepada budaya lain, sehingga dengan cepat kehilangan pandangan akan kesamaanyang ada pada semua manusia lintas budaya. Apa aspek-aspek dasar keberadaandan keinginan manusia yang ada dalam semua budaya? Bagaimanakah jawabanAllah secara rohani terhadap aspek-aspek ini yang melampaui budaya tertentudan berbicara kepada semua manusia? Bagaimanakah Anda dapat membantuagar pekabaran Alkitab dapat diaplikasikan kepada setiap orang dalam budayaAnda? Di manakah budaya dapat menjadi penghalang untuk penerimaan pekabaran Alkitab? 
+
+**Sifat Dosa Kita dan Penafsiran Alkitab** 
+
+Selain dari semua aspek yang disebutkan di atas, yang menunjukkan mengapapenafsiran diperlukan, ada faktor lain yang sering diabaikan. Ini berkaitan dengan konsekuensi sifat dosa kita. Baca Efesus 4: 17, 18 dan renungkan apa yangPaulus tulis di sana. Di sini Paulus menggambarkan beberapa konsekuensi yangtimbul karena kebutaan hati dan kesia-siaan pikiran kita. Kadang-kadang pemahaman dan penafsiran kita terhadap Alkitab ternoda dan redup karena dosa kita.Kadang-kadang kita tidak mengikuti kebenaran-kebenaran dalam Alkitab karenakita takut akan tekanan teman-teman kita atau cemoohan keluarga dan sahabat kita. Itulah sebabnya kita membutuhkan bantuan Roh Kudus untuk menerangi pikiran kita dan membuat kita mau mengikuti apa yang telah kita pelajari. 
+
+#### Bagian III: Aplikasi Kehidupan
+
+Seseorang telah mendengar kebenaran Alkitab. Pembacaan Kitab Suci telah memberikan perspektif baru bahwa Allah itu nyata dan hidup dan bahwa menghidupkan pekabaran Alkitab itu berharga. Namun, ketika beberapa doa, tidak dijawab seperti yang diharapkan, dan kesehatan seorang anak dalam bahaya, orang ini menggunakan sumber penyembuhan tradisional yang lazim dalam budaya mereka. Sumber penyembuhan tradisional ini dimediasi oleh seorang dukun sakti di masyarakat.
+
+Pikirkan tentang kecenderungan dan godaan serupa yang Anda hadapi ketika iman alkitabiah Anda ditantang. Di bidang apakah Anda tergoda untuk memercayai pendidikan yang Anda terima atau asuhan orang tua atau pengalaman Anda melebihi kebenaran Alkitab? 
+
+Beberapa orang yang terlatih dalam filsafat barat dan pemikiran kritis percayabahwa tidak ada makhluk supraalami yang dapat mengintervensi sejarah ataumelakukan mukjizat. Pandangan hidup mereka yang tertutup mencegah merekamenerima banyak kisah supraalami dalam Alkitab sebagai kenyataan. Di manakah pandangan hidup Anda memengaruhi penafsiran Anda terhadap Alkitab?
+
+Seseorang yang baru dalam iman ingin mempelajari Alkitab dengan lebih baik.Apakah terjemahan Alkitab yang bisa Anda rekomendasikan untuk tugas ini? 
+
+Mengapakah iman penting untuk pemahaman Alkitab yang benar? Apakah peran iman dalam proses penafsiran Alkitab? 

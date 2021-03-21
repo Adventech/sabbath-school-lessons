@@ -6,6 +6,7 @@ date:   28/02/2020
 #### Haualt tulev tunnistus
 
 _Loo on kirja pannud Andrew McChesney._
+
 George Cobb on inimene, kes suri kaks korda.
 
 Cobbist on õigupoolest vähe teada ja teadaolevalt ei ole temast fotosid.
