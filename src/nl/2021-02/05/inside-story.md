@@ -3,7 +3,7 @@ title:  Zendingsbericht
 date:   30/04/2021
 ---
 
-###God is de oorzaak 
+### God is de oorzaak 
 
 _Trinidad en Tobago, 1 mei, Shinell Davis (29)_
 

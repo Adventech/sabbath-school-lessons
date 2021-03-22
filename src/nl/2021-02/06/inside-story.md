@@ -3,7 +3,7 @@ title:  Zendingsbericht
 date:   07/05/2021
 ---
 
-###Dodelijke schorpioenbeet 
+### Dodelijke schorpioenbeet 
 
 _Colombia, 8 mei, Carlos Reyes (39) & Luz Murillo (34)_
 

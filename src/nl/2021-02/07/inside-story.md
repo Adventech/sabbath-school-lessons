@@ -3,7 +3,7 @@ title:  Zendingsbericht
 date:   14/05/2021
 ---
 
-###Rijst en suiker uitlenen
+### Rijst en suiker uitlenen
 
 _Colombia, 15 mei, Maria Tordecilla (35)_
 

@@ -7,7 +7,7 @@ date:   15/05/2021
 
 Exodus 19:1-6
 
-#### IJsbrekervraag
+#### Ijsbrekervraag
 
 `Welke beelden en emoties roept het woord priester bij je op? Weet je ook waar je reacties op zijn gebaseerd?` 
 
