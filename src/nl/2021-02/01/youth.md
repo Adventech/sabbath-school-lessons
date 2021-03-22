@@ -20,7 +20,7 @@ date:   03/04/2021
 Tijdens een van zijn zendingsreizen komt de apostel Paulus aan in Athene. Terwijl hij op Silas en Timoteüs aan het wachten was, zag hij dat die stad vol met afgodsbeelden stond. Dat maakte hem erg kwaad omdat dat een belediging is van God. Er is immers maar één God en dat is de Schepper van hemel en aarde. In de synagoge sprak Paulus met mensen die God vereerden, zowel Joden als niet-Joden. Ook op de markt sprak hij met allerlei mensen. De aanwezige filosofen mengden zich in de gesprekken. Sommigen vonden dat hij wel erg veel praatjes had, anderen zagen hem weliswaar als een boodschapper van goden, maar begrepen niet echt wat Paulus bedoelde te zeggen. Toen nam men Paulus mee naar het plein waar de bestuurders van de stad samenkwamen. Daar vroegen ze hem om uitleg. De inwoners van Athene vonden dat prachtig, want ze deden niets liever dan nieuwe ideeën bespreken. 
 
 #### Gespreksvragen naar aanleiding van de tekst 
-`Nu je weet dat Paulus nogal verontwaardigd was bij het zien van al die afgods- beelden, wat vind je dan van zijn openingszin? (vers 22)`
+`Nu je weet dat Paulus nogal verontwaardigd was bij het zien van al die afgodsbeelden, wat vind je dan van zijn openingszin? (vers 22)`
 
 `Hoe zou jij de aanpak van Paulus duiden? (vers 23)`
 

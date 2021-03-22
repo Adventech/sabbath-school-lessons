@@ -17,7 +17,7 @@ date:   15/05/2021
 
 #### Inspiratie
 
-‘Toen zei God: “Ik ben degene die er altijd is. Je moet tegen de Israëlieten zeggen dat ‘Ik ben er altijd’ je gestuurd heeft. Dat zal mijn naam zijn. Zo moeten ze mij voortaan noemen. Ik ben de Heer, de God van hun voorouders, de God van Abraham, Isaak en Jakob.”’1
+‘Toen zei God: “Ik ben degene die er altijd is. Je moet tegen de Israëlieten zeggen dat ‘Ik ben er altijd’ je gestuurd heeft. Dat zal mijn naam zijn. Zo moeten ze mij voortaan noemen. Ik ben de Heer, de God van hun voorouders, de God van Abraham, Isaak en Jakob.”’
 
 #### Behandel de tekst
 

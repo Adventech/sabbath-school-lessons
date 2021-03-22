@@ -41,7 +41,7 @@ De ervaring van Abraham en die van ons ligt misschien dichter bij elkaar dan we 
 
 `Hoe bleef het vertrouwen van Abraham levend? Zou dit kantelmoment in het leven van Abraham erbij geholpen hebben te blijven vertrouwen: dat wil zeggen het ontvangen van een nieuwe naam en de besnijdenis?`
 
-`Welke kantelmomenten heb jij in je geloof meegemaakt? Waarom was dat een kantel- moment? Wat was er sinds die tijd anders?`
+`Welke kantelmomenten heb jij in je geloof meegemaakt? Waarom was dat een kantelmoment? Wat was er sinds die tijd anders?`
 
 `Kun je kantelmomenten in je geloof actief tot stand brengen? Hoe werkt dat?`
 

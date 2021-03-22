@@ -19,7 +19,7 @@ Openbaring 20:4-14
 
 #### Inspiratie
 
-‘Nu is God zelf op aarde. Vanaf nu zal Hij bij de mensen wonen. ... Hij zal al hun tranen drogen. Niemand zal meer sterven, en er zal geen verdriet en pijn meer zijn. Want alles van vroeger is verdwenen.’1 
+‘Nu is God zelf op aarde. Vanaf nu zal Hij bij de mensen wonen. ... Hij zal al hun tranen drogen. Niemand zal meer sterven, en er zal geen verdriet en pijn meer zijn. Want alles van vroeger is verdwenen.’
 
 #### Behandel de tekst
 
