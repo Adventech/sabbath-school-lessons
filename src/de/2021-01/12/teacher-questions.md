@@ -25,6 +25,50 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
+\
+{| class=“wikitable” |+ !Ideen zum Weitergeben von Missionsbüchern,
+Videos, Foldern und Flyern !TMI: Wir alle beteiligen uns! !Gebet +
+Dienst + Zeugnis !Ideen für soziale Aktivitäten |- |
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ![verweis=<https://wiki.sabbatschule.at/Datei:Roter_Bus_-_Menschen_-_Freundschaft_-_pexels-roman-odintsov-4553618.jpg>](Roter_Bus_-_Menschen_-_Freundschaft_-_pexels-roman-odintsov-4553618.jpg "verweis=https://wiki.sabbatschule.at/Datei:Roter_Bus_-_Menschen_-_Freundschaft_-_pexels-roman-odintsov-4553618.jpg"){width="125" height="125"}
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+|![zentriert|rahmenlos|alternativtext=|143x143px](TMI_-_Wir_alle_beteiligen_uns.png "fig:zentriert|rahmenlos|alternativtext=|143x143px")
+|![zentriert|alternativtext=|rahmenlos|139x139px](Dienst_und_Mission.png "fig:zentriert|alternativtext=|rahmenlos|139x139px")
+|
+
+  ------------------------------------------------------------------------------------------------------------------------------------------
+  ![zentriert|alternativtext=|rahmenlos|143x143px](Vorschläge_für_soziale_Aktivitäten.png "zentriert|alternativtext=|rahmenlos|143x143px")
+  ------------------------------------------------------------------------------------------------------------------------------------------
+
+|- | style=“height:50px; width:200px; text-align:center;” |Wie kann ich
+meinen Freunden, Arbeitskollegen und anderen Personen kleine geistliche
+Samenkörner weitergeben? Hier in diesem Dokument bekommst du konkrete
+Ideen geliefert. | style=“height:50px; width:200px; text-align:center;”
+|“Was kann ich schon (missionarisch) tun?” Sehr viel! Schau dir doch mal
+diese Ideen an. | style=“height:50px; width:200px; text-align:center;”
+|Wie könnt ihr als Kleingruppe im Gottesdienst in Aktion kommen? Diese
+Hilfe möchte euch dabei unterstützen. | style=“height:50px; width:200px;
+text-align:center;” |ADRA Österreich und die Abteilung Heimatmission
+haben zusammen einen Folder erstellt, um Ideen und Vorschläge
+aufzuzeigen, was ihr in eurem Umfeld Gutes tun könnt! |-
+|style=“height:50px; width:200px; text-align:center;”
+|[**PDF**](Medium:Videos_Missionsbücher_Folder_und_Flyer_-_Ideen_zum_Weitergeben.pdf "wikilink")
+|style=“height:50px; width:200px; text-align:center;”
+|[**Word**](Medium:Wir_alle_beteiligen_uns_1.2.docx "wikilink") oder
+[**PDF**](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
+|style=“height:50px; width:200px; text-align:center;” |Hier die
+Arbeitshilfe:
+[**WORD**](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
+oder
+[**PDF**](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")
+
+Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
+Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
+|style=“height:50px; width:200px; text-align:center;” |[**Hier zum
+Folder**](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |}
+
 -   **[Soziale
     Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
 -   **[Wir alle beteiligen
