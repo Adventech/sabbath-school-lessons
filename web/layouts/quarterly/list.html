@@ -20,7 +20,7 @@
                             </a>
                             <a href="/{{$element.path}}" class="h5 m-0 p-0 ss-quarterlies-quarterly-title" style="">{{ $element.title }}</a>
                             <p class="p-0 mt-2 ss-quarterlies-quarterly-date text-uppercase">{{ $element.human_date }}</p>
-                            <a href="/{{$element.path}}?today" class="btn btn-outline-secondary btn-lg" role="button" aria-pressed="true">{{ $.Param (print (index (split $.Dir "/") 0) ".todaysLesson") }}</a>
+                            <a href="/{{$element.path}}/?today" class="btn btn-outline-secondary btn-lg" role="button" aria-pressed="true">{{ $.Param (print (index (split $.Dir "/") 0) ".todaysLesson") }}</a>
                         </div>
                     </div>
                 </div>
