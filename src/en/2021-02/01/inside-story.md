@@ -1,6 +1,6 @@
 ---
-title:  Inside Story
-date:   02/04/2021
+title: 'Inside Story'
+date: 03/04/2021
 ---
 
 #### First Deaf Theology Student
