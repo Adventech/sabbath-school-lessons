@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  18/06/2021  
+title: Misjonilugu
+date: 19/06/2021
 ---
 
 #### Iganädalane reis misjonipõllule

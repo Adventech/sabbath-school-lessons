@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  07/05/2021  
+title: Misjonilugu
+date: 08/05/2021
 ---
 
 #### Sammhaaval
