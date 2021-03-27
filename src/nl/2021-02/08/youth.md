@@ -40,4 +40,3 @@ Deuteronomium is het laatste van de vijf Bijbelboeken van de Thora. Thora wordt 
 #### Opdracht 
 
 `Wat is de relatie tussen regels en verbond?`
-

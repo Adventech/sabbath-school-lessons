@@ -42,4 +42,3 @@ Toen Abram door God werd geroepen om Hem te volgen, had hij geen enkel idee waar
 #### Opdracht 
 
 `Messias Jezus als nakomeling van Abraham. In welke zin ben jij een ‘kind van de belofte’?`
-

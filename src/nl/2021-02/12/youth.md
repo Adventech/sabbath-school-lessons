@@ -42,4 +42,3 @@ Aangenomen wordt dat de schrijver van het evangelie van Johannes dezelfde is als
 #### Opdracht 
 
 `Wat geeft Jezus jou?`
-

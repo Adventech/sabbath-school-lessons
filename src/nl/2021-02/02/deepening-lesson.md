@@ -50,5 +50,3 @@ Noach vond bij de HEER genade (Genesis 6:8).
 #### Ik bid …
 
 Heer, dank U wel dat ik erop mag vertrouwen dat U om mensen geeft. Dat het U pijn doet als iemand verkeerde keuzes maakt, die hemzelf en vaak ook anderen in de directe omgeving schade berokkenen. Help mij om wel de juiste keuzes te maken en Uw wil te doen, omdat U niets liever wilt dan dat mensen goed met elkaar omgaan en U eren met hun leven. Amen.
-
-

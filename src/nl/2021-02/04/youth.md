@@ -42,4 +42,3 @@ Na de zondvloed begint God met Noach en zijn gezin opnieuw. God toont genade en 
 #### Opdracht 
 
 `Wat is het verschil en de overeenkomst tussen Gods verbond met ons en een contract dat wij mensen onderling afsluiten?`
-

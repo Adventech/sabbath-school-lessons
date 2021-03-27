@@ -42,4 +42,3 @@ In de brief aan de Galaten is de apostel Paulus aan het woord. Hij richt zich da
 #### Opdracht 
 
 `Wie was een nakomeling van Abraham? Wat betekent dat voor jou?`
-

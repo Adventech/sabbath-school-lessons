@@ -22,4 +22,3 @@ Terwijl hij zich afvroeg of hij wel naar voren moest lopen, moedigde de predikan
 Daniel is nu 29 jaar en studeert aan de Universiteit van de Zuid Caraïben om predikant te worden. Hij omschrijft zichzelf ook wel als een Facebookevangelist, omdat hij daar bemoedigende video’s op plaatst en via dat medium al zes jaar lang Bijbelstudies geeft. Vierentwintig mensen zijn door zijn inspanningen gedoopt. ‘God heeft me zo genadig behandeld’, zei hij. ‘Daarom neem ik het zendingswerk heel serieus’. 
 
 Dank u voor uw gaven tijdens de dertiende sabbatschool drie jaar geleden. Door uw bijdrage kon de allereerste kerk worden gebouwd bij de Universiteit van de Zuid Caraïben, waar Daniel studeert, in Trinidad en Tobago. Dank u dat u ook dit kwartaal de universiteit in gedachten neemt. Met uw hulp zal er een ‘Beter leven buurtcentrum’, worden gebouwd op de campus om studenten op te leiden tot zendelingen. 
-

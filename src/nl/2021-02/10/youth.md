@@ -42,4 +42,3 @@ Een ware profeet is een persoon die een boodschap van God doorgeeft aan de mense
 #### Opdracht 
 
 `In welke mate ervaar jij Gods nabijheid?`
-
