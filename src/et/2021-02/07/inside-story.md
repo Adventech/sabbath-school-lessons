@@ -1,6 +1,6 @@
 ---
 title: Misjonilugu
-date: 15/05/2021
+date: 14/05/2021
 ---
 
 #### „Läheme kirikusse!“
