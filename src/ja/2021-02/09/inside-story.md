@@ -1,5 +1,5 @@
 ---
-title:  Inside Story
+title:  インサイドストーリー
 date:   28/05/2021
 ---
 
