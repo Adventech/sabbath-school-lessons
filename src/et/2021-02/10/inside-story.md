@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  04/06/2021  
+title: Misjonilugu
+date: 05/06/2021
 ---
 
 #### Turistide kogudus

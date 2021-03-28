@@ -1,6 +1,6 @@
 ---
-title:  Inside Story
-date:   09/04/2021
+title: 'Inside Story'
+date: 10/04/2021
 ---
 
 #### Farmer Plants Churches

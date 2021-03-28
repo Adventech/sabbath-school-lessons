@@ -1,6 +1,6 @@
 ---
-title:  Teacher Comments
-date:   09/04/2021
+title: 'Teacher Comments'
+date: 10/04/2021
 ---
 
 **Study Focus**: Exodus 19:5
