@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  11/06/2021  
+title: Misjonilugu
+date: 11/06/2021
 ---
 
 #### Poisike elustab sureva koguduse

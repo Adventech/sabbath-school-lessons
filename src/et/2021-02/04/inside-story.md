@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  23/04/2021  
+title: Misjonilugu
+date: 23/04/2021
 ---
 
 #### Jumalal on alati oma tee

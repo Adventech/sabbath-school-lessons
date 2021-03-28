@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  28/05/2021  
+title: Misjonilugu
+date: 28/05/2021
 ---
 
 #### Nuttev tätoveerija

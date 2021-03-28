@@ -1,6 +1,6 @@
 ---
 title: 'El Sábado enseñaré'
-date: 26/06/2021
+date: 25/06/2021
 ---
 
 ### El sábado enseñaré...

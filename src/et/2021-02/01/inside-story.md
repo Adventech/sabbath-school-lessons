@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  02/04/2021  
+title: Misjonilugu
+date: 02/04/2021
 ---
 
 #### Esimene kurt teoloogiaõpilane

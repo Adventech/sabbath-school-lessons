@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  21/05/2021  
+title: Misjonilugu
+date: 21/05/2021
 ---
 
 #### Seletamatu haiglakülastus

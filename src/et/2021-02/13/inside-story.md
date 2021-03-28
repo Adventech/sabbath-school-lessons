@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  25/06/2021  
+title: Misjonilugu
+date: 25/06/2021
 ---
 
 #### Jumal on päriselt olemas

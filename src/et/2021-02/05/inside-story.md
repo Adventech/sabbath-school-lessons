@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  30/04/2021  
+title: Misjonilugu
+date: 30/04/2021
 ---
 
 #### Kas usaldada Jumalat või teadust

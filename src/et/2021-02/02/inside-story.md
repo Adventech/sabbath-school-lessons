@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date:  09/04/2021  
+title: Misjonilugu
+date: 09/04/2021
 ---
 
 #### Talunik rajab kogudusi
