@@ -52,10 +52,10 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-Startfrage
+**Startfrage**
 
-Der Bund in der Bibel wird gern mit einem Ehebund verglichen. Was ist
-das, so ein Ehebund?
+-   Der Bund in der Bibel wird gern mit einem Ehebund verglichen. Was
+    ist das, so ein “Ehebund”?
 
 **1.Mose 17,1-2**
 
@@ -73,51 +73,53 @@ das, so ein Ehebund?
 **1.Mose 6,13-14; 1.Mose 6,18**
 
 -   Fragen zum Text:
-    -   Was war das Problem der Menscheit?
+    -   Was war das Problem der Menschheit?
     -   Warum musste Gott eingreifen?
     -   Wer waren die Bundespartner?
-    -   Vom wem geht die Initative aus? Was bedeutet das?
+    -   Vom wem geht die Initiative aus? Was bedeutet das?
     -   Wer profitierte von diesem Bund?
 -   Fragen zur Botschaft:
     -   Wo seht ihr diese drei Elemente: Verheißung - Verpflichtung -
         Beziehung?
     -   Manche denken bei der Sintflut an eine lokal begrenzte Flut. Was
         spricht für eine globale Flut?
-    -   ...
-    -   -   Fragen zum Text:
 
-<!-- -->
-
--   -   ...
-    -   ...
-    -   ...
-
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
-
-**Text**
+**1.Mose 12,1-3**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wo seht ihr diese drei Elemente: Verheißung - Verpflichtung -
+        Beziehung?
+    -   Wie müssen wir uns Ur in Chaldäa vorstellen?
+    -   Wohin sollte Abraham gehen?
+    -   Was meint im Vers 3 der Segen für alle Völker? (Gal 3,6-9)
 
-**Text**
+**1.Mose 15,4-6**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Warum ist dieser Vers 6 so wichtig?
+    -   Was ist seine Kernaussage?
+
+**2.Mose 6,2-8**
+
+-   Fragen zum Text:
+    -   Auf welche alten Bundesschlüsse spielt Gott hier an?
+    -   Inwiefern war der Auszug, der dann bald folgen sollte, eine
+        Erfüllung der Verheißung?
+    -   Wo seht ihr diese drei Elemente: Verheißung - Verpflichtung -
+        Beziehung?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Was zeigt die Reihenfolge in der Geschichte: 1)Rettung aus
+        Ägypten 2)Gesetz am Sinai?
+
+**Jeremia 31,31-34**
+
+-   Fragen zum Text:
+    -   Warum brauchte es einen neuen Bund?
+    -   Woran ist der alte Bund gescheitert?
+-   Fragen zur Botschaft:
+    -   Wie kann eine Beiziehung eine neue Qualität bekommen?
+    -   Der biblische Glaube ist eine Herzensreligion. Warum ist das so
+        wichtig?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
