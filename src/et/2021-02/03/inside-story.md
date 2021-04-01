@@ -1,6 +1,6 @@
 ---
 title: Misjonilugu
-date: 17/04/2021
+date: 16/04/2021
 ---
 
 #### Tehtud Mehhiko misjonis
