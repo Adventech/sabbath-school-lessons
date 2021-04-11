@@ -60,44 +60,52 @@ STARTFRAGEN
 SONNTAG – Aus allen Völkern
 ---------------------------
 
-**Text**
+**5.Mose 7,6**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Vorzüge brachte Israel zu seiner Erwählung gegenüber
+        allen anderen Völkern mit?
+    -   Warum wurde dann gerade Israel ausgewählt??
+    -   „Volk des Eigentums“ Was schließt das alles ein?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Gott erwählte dieses Volk: Wer aller sollte/konnte (wie) davon
+        profitieren?
+    -   Was wünscht sich Gott von einem „Erwählten“?
+    -   Wie kann eine solche Erwählung für andere sichtbar werden?
 
 MONTAG – Verheißenes Land
 -------------------------
 
-**Text**
+**5.Mose 28,1**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was bedeutete es damals ein fruchtbares Land von Gott
+        versprochen zu bekommen?
+    -   Wieso gibt Gott hier „Bedingungen/Gebote/Voraussetzungen“ für
+        seinen Segen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wem helfen die Gebote Gottes? (“Bedienungsanleitung zum echten
+        Leben”?)
+    -   Wieweit beeinflussen mich Gottes Verheißungen und Ratschläge?
+        Wovon ist das abhängig?
 
 DIENSTAG – Israel und der Bund
 ------------------------------
 
-**Text**
+**Jer 11,8**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie treu war Israel? Was hinderte diese Treue?
+    -   Was meint „Starrsinn/Verstocktheit ihres bösen Herzens“? Wie
+        entsteht dieses?
+    -   Wie reagierte Gott? Ist er da auch noch als liebender Gott
+        erkennbar?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Greift Gott immer ein, wenn wir zu starrsinnig sind/ zu weit vom
+        falschen Weg weggehen?
+    -   Wann sind wir besonders anfällig abzufallen?
+    -   Wie kann ich eine engere Beziehung zu Jesus erhalten? Was dazu
+        wichtig?
 
 MITTWOCH – Die Übrigen
 ----------------------
@@ -132,3 +140,4 @@ Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
 
 </center>
+
