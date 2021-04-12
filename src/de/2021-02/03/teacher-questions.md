@@ -38,7 +38,7 @@ zu unserer Zeit heute) eine Pandemie.
         -   Was haben unsere sündhaften Taten mit mangelndem
             Gottvertrauen zu tun?
 
-**1.Mose311-13: Schuldverschiebung**
+**1.Mose3,11-13: Schuldverschiebung**
 
 -   Inwiefern zeigt dieser Text, dass die Sünde praktisch sofort die
     Harmonie zwischen den Menschen zerstört hat?
@@ -110,7 +110,10 @@ Sünde mehr."* (Talmud)
     (EF,SLT) war?
     -   Wie könnte so eine Haltung heute aussehen?
 
-<!-- -->
+**DUDEN:** 1. vom Glauben an gott geprägt, gläubig, religiös 1.
+scheinheilig 3. rechtschaffen, tüchtig
+
+\
 
 -   Wie ist es zu verstehen, dass er **“ohne Tadel zu seinen Zeiten”**
     (LUT) bzw. **“untadelig unter seinen Zeitgenossen”** (EF, SLT)
