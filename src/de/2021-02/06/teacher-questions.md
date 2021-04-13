@@ -55,7 +55,8 @@ II: Wir studieren die Bibel
 STARTFRAGEN
 -----------
 
--   -   
+-   -   Wie fühlt es sich an, ausgewählt zu werden?
+    -   Welche Erwartungen sind mit einer „Erwählung“ verbunden?
 
 SONNTAG – Aus allen Völkern
 ---------------------------
@@ -110,30 +111,30 @@ DIENSTAG – Israel und der Bund
 MITTWOCH – Die Übrigen
 ----------------------
 
-**Text**
+**Joh 10,27-28**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was sind Kennzeichen der „Übrigen“?
+    -   Was darf diese Gruppe Menschen von Gott erwarten?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Ziele und Aufgaben hat Gott für diese „Übrigen“?
+    -   Was bedeutet: „Jesus kennen und ihm folgen“ – in unserem Alltag?
+    -   Wie wertvoll sieht mich Gott? Warum?
 
 DONNERSTAG – Das geistliche Israel
 ----------------------------------
 
-**Text**
+**Gal 3,26-29 & Röm 4,16**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was bedeutet dieses „Miterbe sein“ (V29)?
+    -   Was meint dass Christen – Abrahams Same – sind (V29)?
+    -   Was ist beim geistlichen Israel anders als beim alten
+        (biologischen) Israel? Was ist gleich?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie können wir in dieser Bund unser Vertrauen zu Gott zeigen?
+    -   Wodurch kann Gott in diesem Bund unsere Treue erkennen?
+    -   Von welchen Erfahrungen mit Gott können wir berichten?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
