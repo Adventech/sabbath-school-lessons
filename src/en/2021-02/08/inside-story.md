@@ -3,7 +3,7 @@ title: 'Inside Story'
 date: 21/05/2021
 ---
 
-### “Let’s Go to Church!”
+### Unexplainable Hospital Visit
 
 _By andrew Mcchesney, Adventist Mission_
 
