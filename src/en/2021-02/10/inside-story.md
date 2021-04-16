@@ -3,7 +3,7 @@ title: 'Inside Story'
 date: 04/06/2021
 ---
 
-### Unexplainable Hospital Visit
+### A Church for Tourists
 
 _By Andrew Mcchesney, Adventist Mission_
 
