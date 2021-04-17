@@ -31,14 +31,14 @@ Die Texte zeigen sehr eindrucksvoll, wie die Sünde, ausgehend von der
 “Ursünde” sich ausbreitet und vertieft wie eine Epidemie, wie (passend
 zu unserer Zeit heute) eine Pandemie.
 
-**1.Mose 3,6: Die Ursünde**
+**1.Mose 3,6": Die Ursünde**
 
 -   Worin bestand die Ursünde des Menschengeschlechts?
     -   Wie sehr betrifft uns das auch heute?
         -   Was haben unsere sündhaften Taten mit mangelndem
             Gottvertrauen zu tun?
 
-**1.Mose 3,11-13: Schuldverschiebung**
+**1.Mose3,11-13: Schuldverschiebung**
 
 -   Inwiefern zeigt dieser Text, dass die Sünde praktisch sofort die
     Harmonie zwischen den Menschen zerstört hat?
@@ -48,7 +48,7 @@ zu unserer Zeit heute) eine Pandemie.
 **ZITAT:***“Am glaubwürdigsten klingen unsere Ausreden dann, wenn wir
 sie uns vorher eingeredet haben.”* Ernst Ferstl)
 
-**1.Mose 4,5: Ärger über Gottes Korrektur**
+**1.Mose4,5: Ärger über Gottes Korrektur**
 
 -   Warum war Kain zornig?
     -   Warum reagieren auch wir vielleicht manchmal ungebärdig, wenn
@@ -58,7 +58,7 @@ sie uns vorher eingeredet haben.”* Ernst Ferstl)
             -   Wie kann es uns gelingen, diese Korrekturversuche
                 Gottes, positiv zu sehen?
 
-**1.Mose 4,23: Maßlosigkeit**
+**1.Mose4,23: Maßlosigkeit**
 
 -   Wann verlieren Menschen das Maß?
     -   Könnte man es so formulieren: Sie verlieren es dann, wenn nicht
@@ -67,6 +67,15 @@ sie uns vorher eingeredet haben.”* Ernst Ferstl)
 
 **ZITAT:***“Wenn das Maß voll ist, können wir endlich maßlos werden.”*
 (Walter Ludin)
+
+**ZITAT:***“Der Mensch ist nicht das Maß, sondern das mäßigste aller
+Dinge.”* (Erhard Blanck)
+
+**ZITAT:***“Der Mensch kann nicht das Maß aller Dinge sein. Erstens ist
+er kein Ding, und zweitens ist er maßlos.”* (Ernst Ferstl)
+
+**ZITAT:***“Wenn sämtliche Maßstaäbe verloren gehen, dann wird das Unmaß
+zum Maß aller Dinge.”* (Jürgen Wilbert)
 
 **1.Mose 6,5.11.12: Am absoluten Tiefpunkt**
 
@@ -101,7 +110,10 @@ Sünde mehr."* (Talmud)
     (EF,SLT) war?
     -   Wie könnte so eine Haltung heute aussehen?
 
-<!-- -->
+**DUDEN:** 1. vom Glauben an gott geprägt, gläubig, religiös 1.
+scheinheilig 3. rechtschaffen, tüchtig
+
+\
 
 -   Wie ist es zu verstehen, dass er **“ohne Tadel zu seinen Zeiten”**
     (LUT) bzw. **“untadelig unter seinen Zeitgenossen”** (EF, SLT)
@@ -191,3 +203,4 @@ Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
 
 </center>
+

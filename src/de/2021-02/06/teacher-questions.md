@@ -55,80 +55,90 @@ II: Wir studieren die Bibel
 STARTFRAGEN
 -----------
 
--   -   
+-   -   Wie fühlt es sich an, ausgewählt zu werden?
+    -   Welche Erwartungen sind mit einer „Erwählung“ verbunden?
 
 SONNTAG – Aus allen Völkern
 ---------------------------
 
-**Text**
+**5.Mose 7,6**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Vorzüge brachte Israel zu seiner Erwählung gegenüber
+        allen anderen Völkern mit?
+    -   Warum wurde dann gerade Israel ausgewählt??
+    -   „Volk des Eigentums“ Was schließt das alles ein?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Gott erwählte dieses Volk: Wer aller sollte/konnte (wie) davon
+        profitieren?
+    -   Was wünscht sich Gott von einem „Erwählten“?
+    -   Wie kann eine solche Erwählung für andere sichtbar werden?
 
 MONTAG – Verheißenes Land
 -------------------------
 
-**Text**
+**5.Mose 28,1**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was bedeutete es damals ein fruchtbares Land von Gott
+        versprochen zu bekommen?
+    -   Wieso gibt Gott hier „Bedingungen/Gebote/Voraussetzungen“ für
+        seinen Segen?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wem helfen die Gebote Gottes? (“Bedienungsanleitung zum echten
+        Leben”?)
+    -   Wieweit beeinflussen mich Gottes Verheißungen und Ratschläge?
+        Wovon ist das abhängig?
 
 DIENSTAG – Israel und der Bund
 ------------------------------
 
-**Text**
+**Jer 11,8**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie treu war Israel? Was hinderte diese Treue?
+    -   Was meint „Starrsinn/Verstocktheit ihres bösen Herzens“? Wie
+        entsteht dieses?
+    -   Wie reagierte Gott? Ist er da auch noch als liebender Gott
+        erkennbar?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Greift Gott immer ein, wenn wir zu starrsinnig sind/ zu weit vom
+        falschen Weg weggehen?
+    -   Wann sind wir besonders anfällig abzufallen?
+    -   Wie kann ich eine engere Beziehung zu Jesus erhalten? Was dazu
+        wichtig?
 
 MITTWOCH – Die Übrigen
 ----------------------
 
-**Text**
+**Joh 10,27-28**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was sind Kennzeichen der „Übrigen“?
+    -   Was darf diese Gruppe Menschen von Gott erwarten?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Welche Ziele und Aufgaben hat Gott für diese „Übrigen“?
+    -   Was bedeutet: „Jesus kennen und ihm folgen“ – in unserem Alltag?
+    -   Wie wertvoll sieht mich Gott? Warum?
 
 DONNERSTAG – Das geistliche Israel
 ----------------------------------
 
-**Text**
+**Gal 3,26-29 & Röm 4,16**
 
 -   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+    -   Was bedeutet dieses „Miterbe sein“ (V29)?
+    -   Was meint dass Christen – Abrahams Same – sind (V29)?
+    -   Was ist beim geistlichen Israel anders als beim alten
+        (biologischen) Israel? Was ist gleich?
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+    -   Wie können wir in dieser Bund unser Vertrauen zu Gott zeigen?
+    -   Wodurch kann Gott in diesem Bund unsere Treue erkennen?
+    -   Von welchen Erfahrungen mit Gott können wir berichten?
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
 
 </center>
+
