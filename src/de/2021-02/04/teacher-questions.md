@@ -56,10 +56,9 @@ II: Wir studieren die Bibel
 -   Sind die Namen bedeutsam, die wir Gott geben – oder die von Gott
     gegeben werden? Erkläre!
 
-### **Sonntag: Jahwe und der Bund mit Abraham**
+### **Jahwe und der Bund mit Abraham**
 
-**<a href="https://www.bibleserver.com/LUT/1.Mose15%2C7" class="bibleserver extern" target="_blank">1.
-Mose 15,7</a>**
+**1. Mose 15,7**
 
 -   Welche Eigenschaften kommen dir in den Sinn, wenn du an den Namen
     „Jahwe“ denkst oder ihn hörst? Denkst du eher an Liebe, Güte und
@@ -67,10 +66,9 @@ Mose 15,7</a>**
 -   Gedanken gehen dir durch den Kopf, wenn du den Namen „Jesus“ hörst?
     Gibt es Unterschiede zu „Jahwe“? Wenn ja, weshalb?
 
-### **Montag: El Shaddai**
+### **El Shaddai**
 
-**<a href="https://www.bibleserver.com/LUT/1.Mose17%2C1" class="bibleserver extern" target="_blank">1.
-Mose 17,1</a>**
+**1. Mose 17,1**
 
 -   Nun stellt sich Gott als der „Allmächtige“ (El Shaddai) vor. Warum
     kommt dieser Name wohl an dieser Stelle in Abrahams Leben ins Spiel?
@@ -85,38 +83,30 @@ Mose 17,1</a>**
 -   Ist Gottes Allmacht heutzutage deutlich (genug) erkennbar für einen
     unvoreingenommenen Menschen? Begründe!
 
-### **Dienstag: Aus Abram wird Abraham**
+### **Aus Abram wird Abraham**
 
-**<a href="https://www.bibleserver.com/LUT/1.Mose17%2C3-5" class="bibleserver extern" target="_blank">1.
-Mose 17,3-5</a>**
+**1. Mose 17,3-5**
 
 -   An bestimmten Stellen der Bibel erhalten Menschen einen neuen Namen:
     Abram wird zu Abraham, Jakob zu Israel, Daniel zu Beltschazar usw.
     Welcher Gedanke steckt dahinter? Warum erhalten sie diese Namen in
     den jeweils gegebenen Situationen?
 -   Auch im Himmel werden wir einen neuen Namen erhalten, einen, den
-    niemand kennt als der, der ihn bekommt
-    (<a href="https://www.bibleserver.com/LUT/Offb2%2C17" class="bibleserver extern" target="_blank">Offb
-    2,17</a>). Welche Absicht mag dahinter stecken? Welche Bedeutung
-    würdest du dir für deinen Namen wünschen?
+    niemand kennt als der, der ihn bekommt (Offb 2,17). Welche Absicht
+    mag dahinter stecken? Welche Bedeutung würdest du dir für deinen
+    Namen wünschen?
 
-### **Mittwoch: Stufen des Bundes**
+### **Stufen des Bundes**
 
-**<a href="https://www.bibleserver.com/LUT/1.Mose15%2C7-18" class="bibleserver extern" target="_blank">1.
-Mose 15,7-18</a>**
+**1. Mose 15,7-18**
 
--   Nachdem Gott Abraham in
-    <a href="https://www.bibleserver.com/LUT/1.Mose12%2C1-3" class="bibleserver extern" target="_blank">1.
-    Mose 12,1-3</a> berufen und eine gesegnete Nachkommenschaft
-    verheißen hatte, schließt er nun in der nächsten Stufe einen Bund
-    mit Abraham. Um was geht es dabei?
+-   Nachdem Gott Abraham in 1. Mose 12,1-3 berufen und eine gesegnete
+    Nachkommenschaft verheißen hatte, schließt er nun in der nächsten
+    Stufe einen Bund mit Abraham. Um was geht es dabei?
 -   Was bedeutet das merkwürdig anmutende Ritual der Tierzerteilung und
-    das Feuer? (Vgl.
-    <a href="https://www.bibleserver.com/LUT/Jer34%2C18" class="bibleserver extern" target="_blank">Jer
-    34,18</a>)
+    das Feuer? (Vgl. Jer 34,18)
 
-**<a href="https://www.bibleserver.com/LUT/1.Mose17%2C7-10" class="bibleserver extern" target="_blank">1.
-Mose 17,7-10</a>**
+**1. Mose 17,7-10**
 
 -   Dies ist die dritte Stufe des Bundes, den Gott mit Abraham schließt.
     Was zeichnet sie nun aus? Inwiefern fehlte dies noch am bisherigen
@@ -129,10 +119,9 @@ Mose 17,7-10</a>**
     Verheißung an Abraham sein, obwohl wir keine Beschneidung mehr
     durchführen? Welches Bundeszeichen ist uns als Christen gegeben?
 
-### **Donnerstag: Bundesverpflichtungen**
+### **Bundesverpflichtungen**
 
-**<a href="https://www.bibleserver.com/LUT/1.Mose18%2C19" class="bibleserver extern" target="_blank">1.
-Mose 18,19</a>**
+**1. Mose 18,19**
 
 -   Welche Bundesverpflichtungen erkennst du in diesem Text und
     womöglich anderen aus der Abrahamgeschichte? Inwiefern sind diese
