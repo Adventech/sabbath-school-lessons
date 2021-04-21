@@ -52,16 +52,14 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-STARTFRAGEN
------------
+### STARTFRAGEN
 
 -   -   Wie fühlt es sich an, ausgewählt zu werden?
     -   Welche Erwartungen sind mit einer „Erwählung“ verbunden?
 
-SONNTAG – Aus allen Völkern
----------------------------
+### Aus allen Völkern
 
-**5.Mose 7,6**
+**5. Mose 7,6**
 
 -   Fragen zum Text:
     -   Welche Vorzüge brachte Israel zu seiner Erwählung gegenüber
@@ -74,10 +72,9 @@ SONNTAG – Aus allen Völkern
     -   Was wünscht sich Gott von einem „Erwählten“?
     -   Wie kann eine solche Erwählung für andere sichtbar werden?
 
-MONTAG – Verheißenes Land
--------------------------
+### Verheißenes Land
 
-**5.Mose 28,1**
+**5. Mose 28,1**
 
 -   Fragen zum Text:
     -   Was bedeutete es damals ein fruchtbares Land von Gott
@@ -90,10 +87,9 @@ MONTAG – Verheißenes Land
     -   Wieweit beeinflussen mich Gottes Verheißungen und Ratschläge?
         Wovon ist das abhängig?
 
-DIENSTAG – Israel und der Bund
-------------------------------
+### Israel und der Bund
 
-**Jer 11,8**
+**Jeremia 11,8**
 
 -   Fragen zum Text:
     -   Wie treu war Israel? Was hinderte diese Treue?
@@ -108,10 +104,9 @@ DIENSTAG – Israel und der Bund
     -   Wie kann ich eine engere Beziehung zu Jesus erhalten? Was dazu
         wichtig?
 
-MITTWOCH – Die Übrigen
-----------------------
+### Die Übrigen
 
-**Joh 10,27-28**
+**Johannes 10,27-28**
 
 -   Fragen zum Text:
     -   Was sind Kennzeichen der „Übrigen“?
@@ -121,14 +116,13 @@ MITTWOCH – Die Übrigen
     -   Was bedeutet: „Jesus kennen und ihm folgen“ – in unserem Alltag?
     -   Wie wertvoll sieht mich Gott? Warum?
 
-DONNERSTAG – Das geistliche Israel
-----------------------------------
+### Das geistliche Israel
 
-**Gal 3,26-29 & Röm 4,16**
+**Galater 3,26-29; Römer 4,16**
 
 -   Fragen zum Text:
-    -   Was bedeutet dieses „Miterbe sein“ (V29)?
-    -   Was meint dass Christen – Abrahams Same – sind (V29)?
+    -   Was bedeutet dieses „Miterbe sein“ (Galater 3,29)?
+    -   Was meint dass Christen – Abrahams Same – sind (Galater 3,29)?
     -   Was ist beim geistlichen Israel anders als beim alten
         (biologischen) Israel? Was ist gleich?
 -   Fragen zur Botschaft:
