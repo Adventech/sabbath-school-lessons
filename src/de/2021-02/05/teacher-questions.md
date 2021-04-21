@@ -59,11 +59,13 @@ II: Wir studieren die Bibel
 -   Was bedeutet es, Versprechen zu bekommen?
 -   Woran liegt es, dass Menschen ihre Versprechen nicht immer
     einhalten?
--   Was bedeutet “Kinder der Verheißung” (Gal 4,28)? Ist die Verheißung
-    ein “Vater”?
+-   Was bedeutet “Kinder der Verheißung” (Galater 4,28)? Ist die
+    Verheißung ein “Vater”?
     -   Inwiefern kann eine Verheißung Kinder zeugen?
 
-### **“Dein Schild”: 1. Mose 15,1-3**
+### **“Dein Schild”**
+
+**1. Mose 15,1-3**
 
 -   Fragen zum Text:
     -   Warum spricht Gott Abraham mit den Worten “Fürchte dich nicht”
@@ -74,12 +76,14 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Was bedeutet es, wenn Gott unser Schild ist?
     -   Warum trifft Gläubigen Menschen dennoch ein Schaden?
-    -   In welcher Hinsicht ist Gott unser Schild? vgl. 1. Kor 10,13
+    -   In welcher Hinsicht ist Gott unser Schild? vgl. 1. Korinther
+        10,13
     -   Welcher Lohn erwartet uns? Wie groß ist der Lohn?
 
 ### **Die messianische Verheißung**
 
-**1. Mose 12,3; 18,18; 22,18; 28,14; Galater 3,29**
+**1. Mose 12,3; 1. Mose 18,18; 1. Mose 22,18; 1. Mose 28,14; Galater
+3,29**
 
 -   Fragen zu den Texten:
     -   Warum sagt Gott so häufig, dass durch Abraham und seine
@@ -100,7 +104,7 @@ II: Wir studieren die Bibel
 
 ### **Ein großes und mächtiges Volk**
 
-**2.Mose 19,5-6; Jesaja 60,1-3; 5.Mose 4,6-8**
+**2. Mose 19,5-6; Jesaja 60,1-3; 5. Mose 4,6-8**
 
 -   Fragen zum Text:
     -   Welches Ziel hatte Gott mit seinem Volk?
@@ -112,7 +116,7 @@ II: Wir studieren die Bibel
 
 ### **Ein großer Name**
 
-1.Mose 11,4; 12,2
+**1. Mose 11,4; 1. Mose 12,2**
 
 -   Fragen zum Text:
     -   Wodurch wollen sich die Menschen nach der Flut einen Namen
