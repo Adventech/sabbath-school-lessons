@@ -1,6 +1,6 @@
 ---
 title:  Jongeren les
-date:   31/04/2021
+date:   30/04/2021
 ---
 
 ### Kinderen van de belofte
