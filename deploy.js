@@ -90,6 +90,16 @@ let API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
+const DAYS_MAP = new Map([
+  ['01', 'Saturday'],
+  ['02', 'Sunday'],
+  ['03', 'Monday'],
+  ['04', 'Tuesday'],
+  ['05', 'Wednesday'],
+  ['06', 'Thursday'],
+  ['07', 'Friday'],
+])
+
 let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
     .alias({"b": "branch"})
@@ -505,7 +515,16 @@ let dayAPI = async function () {
     fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
 
     let lesson = getLessonJSON(dayId.replace(dayId.split("/").pop(), ''));
-    meta.slug = slug(read.id + ' ' + read.title);
+
+    var slugId = '';
+    let dayName = DAYS_MAP.get(read.id);
+    if (dayName === undefined) {
+      slugId = read.title;
+    } else {
+      slugId = `${dayName} ${read.title}`;
+    }
+
+    meta.slug = slug(slugId);
     meta.aliases = `/${info.language}/${info.quarterly}/${info.lesson}/${info.day}`;
     meta.lesson = convertDatesForWeb(lesson);
     meta.cover = lesson.cover;
