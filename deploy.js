@@ -505,7 +505,7 @@ let dayAPI = async function () {
     fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
 
     let lesson = getLessonJSON(dayId.replace(dayId.split("/").pop(), ''));
-    meta.slug = slug(read.title);
+    meta.slug = slug(read.id + ' ' + read.title);
     meta.aliases = `/${info.language}/${info.quarterly}/${info.lesson}/${info.day}`;
     meta.lesson = convertDatesForWeb(lesson);
     meta.cover = lesson.cover;
