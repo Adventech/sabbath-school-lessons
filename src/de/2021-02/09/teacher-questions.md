@@ -61,24 +61,28 @@ SONNTAG: URSPRUNG
         der siebte Tag, welcher in 2 Mose 16,26.29 mit dem Sabbat
         identifiziert wird, einen besonderen Status: Gott **vollendete**
         die Schöpfung. Er **ruhte** von all seinem Werk. Und Gott
-        **segnete** segnete und **heiligte** den siebten Tag. Welche
-        Bedeutung haben diese vier Schlüsselbegriffe im Kontext des
-        Sabbats?
+        **segnete** und **heiligte** den siebten Tag. Welche Bedeutung
+        haben diese vier Schlüsselbegriffe im Kontext des Sabbats?
     -   Warum ruhte Gott am siebten Tag?
     -   ...
 -   Fragen zur Botschaft:
-    -   -   ...
+    -   Inwieweit können dir die vier Schlüsselbegriffe “vollenden,
+        ruhen, segnen und heiligen” helfen, ansatzweise die Bedeutung
+        des Sabbats zu erfassen? Siehst du in ihnen auch eine praktische
+        Bedeutung für dich persönlich und für dein Umfeld?
     -   ...
 
 **Text Markus 2,27-28**
 
 -   Fragen zum Text:
-    -   Welche Bedeutung hat der Sabbat gemäss laut diesem Text?
+    -   Warum hat uns Gott den Sabbat gegeben? Inwieweit ist der in
+        diesem Text formulierte Grundsatz ein Schutz gegen
+        Gesetzlichkeit (vgl. Markus 2:23-26).
     -   ...
     -   ...
 -   Fragen zur Botschaft:
-    -   ...
-    -   ...
+    -   Wie können wir den Sabbat so gestalten, dass er den Menschen
+        dient?
     -   ...
 
 MONTAG: SABBAT VOR DEM SINAI
@@ -89,11 +93,10 @@ MONTAG: SABBAT VOR DEM SINAI
     -   Welche Zeichen und Wunder wirkte Gott, um seinem Volk die
         Bedeutung und Heiligkeit des Sabbats zu vermitteln?
     -   ...
-    -   ...
 -   Fragen zur Botschaft:
-    -   Welche wichtigen Lektionen sollten die Israeliten durch die
-        'Manna-Erfahrung' lernen?
-    -   ...
+    -   Welche wichtigen 'Sabbat-Lektionen' sollten die Israeliten durch
+        die 'Manna-Erfahrung' lernen? Und welche Bedeutung haben die
+        'Manna-Sabbat-Erfahrungen' für uns heute?
     -   ...
 
 DIENSTAG: BUNDESZEICHEN | MITTWOCH: ZEICHEN DER HEILIGUNG
@@ -106,30 +109,22 @@ DIENSTAG: BUNDESZEICHEN | MITTWOCH: ZEICHEN DER HEILIGUNG
         Welt.)
     -   Welche Erkenntnisse sollten durch die zwei Sabbatzeichen
         gewonnen werden? Und wer sollte zu dieser Erkenntnis kommen?
+    -   Welche Bedeutung haben die zwei Zeichen im Zusammenhang mit dem
+        Auftrag, die Welt zu evangelisieren?
     -   ...
 -   Fragen zur Botschaft:
     -   Wie stellst du dir die Heiligung des Volkes Gottes
     -   ...
-    -   ...
-
-MITTWOCH. ZEICHEN DER HEILIGUNG
-
-**Text**
-
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
 
 DONNERSTAG: DENKE AN DEN SABBAT
 
-Text
+**Text 2 Mose 20,8; 5 Mose 5,12-15**
 
--   F
+-   Fragen zum Text:
+    -   Welche wichtigen Gründe gibt es (Vergangenheit, Gegenwart,
+        Zukunft), an den Sabbattag zu denken?
+    -   ...
+-   Fragen zur Botschaft:
 
 <center>
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
