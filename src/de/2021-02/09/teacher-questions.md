@@ -52,9 +52,9 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-SONNTAG: URSPRUNG
+### URSPRUNG
 
-**Text 1 Mose 2,2-3**
+**1. Mose 2,2-3**
 
 -   Fragen zum Text:
     -   Am siebten Tag schafft Gott nichts 'Physisches'. Stattdessen hat
@@ -72,7 +72,7 @@ SONNTAG: URSPRUNG
         Bedeutung für dich persönlich und für dein Umfeld?
     -   ...
 
-**Text Markus 2,27-28**
+**Markus 2,27-28**
 
 -   Fragen zum Text:
     -   Warum hat uns Gott den Sabbat gegeben? Inwieweit ist der in
@@ -85,9 +85,9 @@ SONNTAG: URSPRUNG
         dient?
     -   ...
 
-MONTAG: SABBAT VOR DEM SINAI
+### SABBAT VOR DEM SINAI
 
-**Text 2 Mose 16,23-28**
+**2. Mose 16,23-28**
 
 -   Fragen zum Text:
     -   Welche Zeichen und Wunder wirkte Gott, um seinem Volk die
@@ -99,9 +99,9 @@ MONTAG: SABBAT VOR DEM SINAI
         'Manna-Sabbat-Erfahrungen' für uns heute?
     -   ...
 
-DIENSTAG: BUNDESZEICHEN | MITTWOCH: ZEICHEN DER HEILIGUNG
+### BUNDESZEICHEN & ZEICHEN DER HEILIGUNG
 
-**Text 2 Mose 31,31-37**
+**2. Mose 31,31-37**
 
 -   Fragen zum Text:
     -   Wofür ist der Sabbat laut 2 Mose 31-37 ein Zeichen? (-&gt; V.
@@ -116,9 +116,9 @@ DIENSTAG: BUNDESZEICHEN | MITTWOCH: ZEICHEN DER HEILIGUNG
     -   Wie stellst du dir die Heiligung des Volkes Gottes
     -   ...
 
-DONNERSTAG: DENKE AN DEN SABBAT
+### DENKE AN DEN SABBAT
 
-**Text 2 Mose 20,8; 5 Mose 5,12-15**
+**2. Mose 20,8; 5. Mose 5,12-15**
 
 -   Fragen zum Text:
     -   Welche wichtigen Gründe gibt es (Vergangenheit, Gegenwart,
