@@ -79,7 +79,7 @@ MONTAG: EIN WERK DES HERZENS
     -   Was bedeutet Gottes Bund für dich?
     -   ...
 
-**Texte** **Hes 11,19; Hes 18,31; Hes 36,26**
+**Texte** **Hesekiel 11,19; 18,31; 36,26**
 
 -   Fragen zum Text:
     -   Lies Hes 11,19, Hes 19,31 und Hes 36,26 und vergleiche die Texte
@@ -106,20 +106,17 @@ MONTAG: EIN WERK DES HERZENS
 
 DIENSTAG: ALTE UND NEUE BÜNDNISSE
 
-**Text Jes 56,6-7**
+**Text Jesaja 56,6-7**
 
 -   Fragen zum Text:
-    -   Welche Bedingungen sollen damals von den “Söhnen der Fremden”
-        erfüllt werden, die in den Bund Gottes eintreten wollen? Welche
+    -   Welche Bedingungen sollten damals von den “Söhnen der Fremden”
+        erfüllt werden, die in den Bund Gottes eintreten wollten? Welche
         Bedingungen gelten heute? Was hat sich geändert? Hat sich etwas
-        geändert?
-    -   Worin unterscheiden sich alter und neuer Bund (vgl. 2 Mose 34,6;
-        Röm 3,24; Jer 31,34; Hebr 8:12)? Welche Rolle spielt dabei
-        Jesus?
+        geändert? (vgl. 2 Mose 34,6; Röm 3,24; Jer 31,34; Hebr 8:12)?
     -   ...
 -   Fragen zur Botschaft:
     -   Was können wir tun, dass die “Söhne der Fremden” sich dem “Gott
-        Israels” anschliessen möchten? Wie können wir den Glauben an
+        Israels” anschliessen wollen? Wie können wir den Glauben an
         Jesus für die Menschen begehrenswert machen?
     -   ...
 
@@ -132,7 +129,6 @@ MITTWOCH: EIN BESSERER BUND
         Bund?
     -   ...
 -   Fragen zur Botschaft:
-    -   ...
     -   ...
 
 DONNERTAG: DER PRIESTER DES NEUEN BUNDES
@@ -147,7 +143,7 @@ DONNERTAG: DER PRIESTER DES NEUEN BUNDES
         nicht einfach ohne sein stellvertretendes Opfer vergeben?
     -   ...
 -   Fragen zur Botschaft:
-    -   ...
+    -   Welche Bedeutung hat der stellvertretende Tod Jesu für dich?
     -   ...
 
 <center>
