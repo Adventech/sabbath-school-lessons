@@ -52,9 +52,9 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-SONNTAG: SIEHE, TAGE KOMMEN...
+### SIEHE, TAGE KOMMEN...
 
-**Text Jeremia 31,31-34**
+**Jeremia 31,31-34**
 
 -   Fragen zum Text:
     -   Was ist “neu” am neuen Bund?
@@ -64,9 +64,9 @@ SONNTAG: SIEHE, TAGE KOMMEN...
     -   Was bedeutet es für dich, Gottes Gesetz im Herzen zu haben?
     -   ...
 
-MONTAG: EIN WERK DES HERZENS
+### EIN WERK DES HERZENS
 
-**Text Hosea 2,18-20**
+**Hosea 2,18-20**
 
 -   Fragen zum Text:
     -   Vergleiche Hosea 2,18-20 mit Jeremia 31,31-34. Was fällt dir
@@ -79,7 +79,7 @@ MONTAG: EIN WERK DES HERZENS
     -   Was bedeutet Gottes Bund für dich?
     -   ...
 
-**Texte** **Hesekiel 11,19; 18,31; 36,26**
+**Hesekiel 11,19; Hesekiel 18,31; Hesekiel 36,26**
 
 -   Fragen zum Text:
     -   Lies Hes 11,19, Hes 19,31 und Hes 36,26 und vergleiche die Texte
@@ -104,9 +104,9 @@ MONTAG: EIN WERK DES HERZENS
         “Erkenntnis” in der Gemeinde zunehmen?
     -   ...
 
-DIENSTAG: ALTE UND NEUE BÜNDNISSE
+### ALTE UND NEUE BÜNDNISSE
 
-**Text Jesaja 56,6-7**
+**Jesaja 56,6-7**
 
 -   Fragen zum Text:
     -   Welche Bedingungen sollten damals von den “Söhnen der Fremden”
@@ -120,9 +120,9 @@ DIENSTAG: ALTE UND NEUE BÜNDNISSE
         Jesus für die Menschen begehrenswert machen?
     -   ...
 
-MITTWOCH: EIN BESSERER BUND
+### EIN BESSERER BUND
 
-**Text Hebräer 8,6-8**
+**Hebräer 8,6-8**
 
 -   Fragen zum Text:
     -   Was war 'das Problem' des alten Bundes? Und was ist neu am neuen
@@ -131,9 +131,9 @@ MITTWOCH: EIN BESSERER BUND
 -   Fragen zur Botschaft:
     -   ...
 
-DONNERTAG: DER PRIESTER DES NEUEN BUNDES
+### DER PRIESTER DES NEUEN BUNDES
 
-**Text Hebräer 10,4**
+**Hebräer 10,4**
 
 -   Fragen zum Text:
     -   Warum reichte ein Tieropfer für unsere Erlösung nicht aus? Warum
