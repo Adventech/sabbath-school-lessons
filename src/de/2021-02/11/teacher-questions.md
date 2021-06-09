@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   18/06/2021
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2021-02/11/01)
-=========================================================================
+[Das Heiligtum des Neuen Bundes](https://sabbath-school.adventech.io/de/2021-02/11/01)
+======================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
