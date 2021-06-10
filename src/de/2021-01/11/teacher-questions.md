@@ -53,8 +53,8 @@ STARTFRAGEN
         Widerspruch?
     -   Für wen lohnt sich Liebe? Wann lohnt sich Liebe nicht?
 
-SONNTAG – Kaufen, ohne zu bezahlen
-----------------------------------
+Kaufen, ohne zu bezahlen
+------------------------
 
 **Jes 55,1-7**
 
@@ -70,8 +70,8 @@ SONNTAG – Kaufen, ohne zu bezahlen
         umgehen? Wovon ist das abhängig?
     -   Warum handelt Gott so?
 
-MONTAG – Höhere Gedanken und Wege
----------------------------------
+Höhere Gedanken und Wege
+------------------------
 
 **Jes 55,6-13**
 
@@ -85,8 +85,8 @@ MONTAG – Höhere Gedanken und Wege
     -   Welches Interesse hat Gott an einer persönlichen Liebesbeziehung
         mit dir/mir? Wie wirkt das auf mich?
 
-DIENSTAG - Fasten, das den Namen verdient
------------------------------------------
+Fasten, das den Namen verdient
+------------------------------
 
 **Jes 58,2-8**
 
@@ -103,8 +103,8 @@ DIENSTAG - Fasten, das den Namen verdient
         nötig?
     -   Was erwartet Gott von uns heute?
 
-MITTWOCH - Fastenkampf
-----------------------
+Fastenkampf
+-----------
 
 **Jes 58,6-12**
 
@@ -120,8 +120,8 @@ MITTWOCH - Fastenkampf
     -   Inwiefern ist das eine Beschreibung der Versöhnung die Gott
         schenken will?
 
-DONNERSTAG - Eine Zeit für uns
-------------------------------
+Eine Zeit für uns
+-----------------
 
 **Jes 58,13-14**
 
