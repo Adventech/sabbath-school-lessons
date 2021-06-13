@@ -1,0 +1,20 @@
+---
+title:  Zendingsbericht
+date:   24/09/2021
+---
+
+#### Kostbare waarheid
+
+_Niang Muang, 21, Dertiende sabbat_
+
+Het was bijna tijd voor de middagpauze en de teamleider belde op om te laten weten dat hij op weg was om Niang op te pikken in Maryville, Tennessee. Niang had behoorlijke trek. Nog even en ze kon haar voorbereide lunch opeten terwijl ze met anderen die ook voor literatuurevangelist studeerden kon praten over wat ze die ochtend hadden ervaren. Tot ze op de parkeerplaats van een warenhuis een vrouw zag die haar auto vollaadde met boodschappen. Voordat de lunch begon, was er net genoeg tijd om met één persoon te praten.
+
+Niang liep met een grote glimlach op de vrouw af. ‘Hallo mevrouw’, zei ze. ‘Ik heet Niang. Ik ben een student en probeer mijn studie af te ronden. Deze zomer stellen we familiewaarden voorop en willen we de gemeenschap helpen.’ Niang rommelde wat in haar tas en haalde een gezondheidsboek tevoorschijn dat mensen leert hoe ze planten op een natuurlijke manier kunnen gebruiken. De vrouw nam het boek aan en bestudeerde de omslag.
+
+Omdat de vrouw haar mond hield, gaf Niang haar een kookboek. ‘Kookt u graag thuis?’, vroeg ze. Daarna liet ze de vrouw een gelovig boek zien, een uitgave van de dertien hoofdstukken tellende klassieker van Ellen White, Schreden naar Christus. De vrouw keek naar de drie boeken in haar handen. Ze leek geïnteresseerd. ‘Je hebt me net op de verkeerde dag benaderd’, zei de vrouw. ‘Ik heb mijn chequeboekje niet bij me en ik heb geen contant geld.’ ‘U kunt ook uw creditcard gebruiken’, stelde Niang voor. ‘Dat kan ik niet doen, dat vindt mijn man niet goed’, zei de vrouw. Desondanks hield ze boeken nog steeds in haar handen. Ze leek er geen afstand van te willen doen. Niang haalde nog wat boeken tevoorschijn, ook De wens der eeuwen en De grote strijd van Ellen White. Toen ze hoorde dat de vrouw ook kinderen had, liet ze wat kinderboeken zien. ‘Ze lijken me allemaal zo mooi’, zuchtte de vrouw. Ze kon geen keuze maken welk boek ze graag wilde. ‘Weet je wat?’, zei de vrouw uiteindelijk. ‘Ik neem ze allemaal’.
+
+Ze stelde zich voor als Cindy en gebruikte haar creditcard om een donatie te geven voor de boeken. Nadat ze betaald had, vroeg Niang ze of ze met haar mocht bidden. ‘Dat zou ik fijn vinden’, zei Cindy. ‘Lieve hemelse Vader’, bad Niang, ‘Dank U dat U ons weer een nieuwe dag heeft gegeven en dat ik Cindy heb mogen ontmoeten. Uw timing is perfect. Vergeef ons onze zonden en fouten. Dank U dat Cindy en haar gezin niet te maken hebben gekregen met wat er nu om ons heen gebeurt. Ik bid dat U hun vrede geeft en bemoedigt te midden van alle gebeurtenissen in hun leven. Blijf hen alstublieft omringen met uw liefde en aanwezigheid. Als Cindy onuitgesproken wensen heeft in haar hart, wilt U die dan voor haar vervullen. Help haar om hoop te vinden en te vertrouwen in U door Jezus Christus. Amen.’
+
+Cindy’s gezicht straalde van vreugde na het gebed. Toen kwamen de woorden als vanzelf. Ze vertelde dat haar gezin door een moeilijke tijd ging vanwege ziekte en dood. Ze zocht naar een diepere betekenis in het leven en wilde meer over God leren. Korte tijd later stilde Niang haar fysieke honger tijdens de lunch met anderen die voor literatuurevangelisten studeerden. Ze bad dat Cindy haar geestelijke honger kon stillen door de waarheid te vinden in de boeken.
+
+Een deel van de dertiende sabbatcollecte van vandaag is bedoeld om vluchtelingenkinderen aan een adventistische opleiding te helpen. Uw gaven zullen de Noord-Amerikaanse Divisie ook in staat stellen om huisvesting te bouwen voor het zendingspersoneel op de Palau Seventh-Day Adventist School op Palau in de Grote Oceaan, om de tweede bouwfase af te ronden voor een multifunctionele gymzaal op de Holbrook Seventh-day Adventist Indian School in Arizona en om een adventistische kerk en een buurtcentrum te openen in het afgelegen, noordelijke dorp Igloolik in Canada. Dank u voor uw vele gaven die de verspreiding van het evangelie in de Noord-Amerikaanse Divisie mede mogelijk maken. 
