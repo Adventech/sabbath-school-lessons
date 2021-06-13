@@ -17,7 +17,7 @@
     "yamljs": "^0.3.0"
   },
   "scripts": {
-    "compile": "node ./deploy -b test -l en -q 2020-01",
+    "compile": "node ./deploy -b test -l en -q 2021-02",
     "test": "node dangerfile.js"
   },
   "repository": {
