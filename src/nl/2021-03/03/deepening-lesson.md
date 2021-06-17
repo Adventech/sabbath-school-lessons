@@ -13,7 +13,7 @@ Lucas 12:13-21
 
 #### Ik Verken
 
-We bevinden ons in het centrale gedeelte van het derde evangelie. Jezus is onderweg naar Jeruzalem (9:51 tot 18:14). In dit gedeelte gebruikt Lucas meestal andere bronnen dan Marcus en Matteüs, de andere zogenaamde synoptische evangeliën. In dit gedeelte brengt hij allerlei aspecten bijeen van de training door Jezus, de leraar van de leerlingen. Na de schriftgeleerden en farizeeën te hebben beschuldigd (11:37-54), wordt Jezus gecon- fronteerd met een enorme menigte, maar Hij richt zich eerst tot zijn leerlingen (12:1-12), die Hij zijn ‘vrienden’ noemt (12:4). Op dit punt wordt Hij uitgedaagd en daar begint ons tekstgedeelte. Lucas laat direct na deze tekst, vanaf 12:22, een deel volgen dat Matteüs in de Bergrede heeft opgenomen. Dat gedeelte gaat over het vertrouwen in God en de schat die je in de hemel moet verzamelen (12:22-34).
+We bevinden ons in het centrale gedeelte van het derde evangelie. Jezus is onderweg naar Jeruzalem (9:51 tot 18:14). In dit gedeelte gebruikt Lucas meestal andere bronnen dan Marcus en Matteüs, de andere zogenaamde synoptische evangeliën. In dit gedeelte brengt hij allerlei aspecten bijeen van de training door Jezus, de leraar van de leerlingen. Na de schriftgeleerden en farizeeën te hebben beschuldigd (11:37-54), wordt Jezus geconfronteerd met een enorme menigte, maar Hij richt zich eerst tot zijn leerlingen (12:1-12), die Hij zijn ‘vrienden’ noemt (12:4). Op dit punt wordt Hij uitgedaagd en daar begint ons tekstgedeelte. Lucas laat direct na deze tekst, vanaf 12:22, een deel volgen dat Matteüs in de Bergrede heeft opgenomen. Dat gedeelte gaat over het vertrouwen in God en de schat die je in de hemel moet verzamelen (12:22-34).
 
 #### Ik Bestudeer
 
@@ -29,7 +29,7 @@ Vers 21. De les van de gelijkenis.
 
 `Op welk contrast wijst de conclusie?`
 
-Deze paragraaf heeft geen parallel in de andere canonieke evangeliën. Er zijn wel paral- lellen te vinden in apocriefe teksten. Zie bijvoorbeeld het Evangelie van Thomas 72 en 63; Sirach 11:18-19; 1 Henoch 97:89-91 en Wijsheid 15:8. In de meeste edities van de NBG zijn Sirach en Wijsheid opgenomen. Het evangelie van Thomas is online te vinden: www. thomasevangelie.nl, evenals als 1 Henoch: www.wimjongman.nl/artikelen/henoch-nl.html
+Deze paragraaf heeft geen parallel in de andere canonieke evangeliën. Er zijn wel parallellen te vinden in apocriefe teksten. Zie bijvoorbeeld het Evangelie van Thomas 72 en 63; Sirach 11:18-19; 1 Henoch 97:89-91 en Wijsheid 15:8. In de meeste edities van de NBG zijn Sirach en Wijsheid opgenomen. Het evangelie van Thomas is online te vinden: www. thomasevangelie.nl, evenals als 1 Henoch: www.wimjongman.nl/artikelen/henoch-nl.html
 
 Het antwoord van Jezus en de gelijkenis die Hij vertelt om uit te leggen wat Hij bedoelt, zijn dus niet origineel. Hij gebruikt woorden van wijsheid die bekend waren bij, of toegankelijk waren voor, de eerste lezers van het Lucasevangelie. Ze staan ook in het Evangelie van Thomas, waarin Jezus wordt voorgesteld als een leraar van wijsheid, en niet zozeer als de verlosser.
 

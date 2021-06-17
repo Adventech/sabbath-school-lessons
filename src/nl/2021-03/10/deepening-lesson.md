@@ -21,7 +21,7 @@ Jezus ontmoet in Jeruzalem bij de Schaapspoort iemand die al 38 jaar ziek is. Hi
 
 `Wat valt je op als je vers 10 met Jeremia 17:21-22 vergelijkt?`
 
-`Probeer je voor te stellen hoe het voor de genezen man moet zijn geweest om na 38 10 jaar weer in de tempel te komen. Op welke manier is de dag waarop zijn genezing plaatsvond voor hem een echte rustdag geworden?`
+`Probeer je voor te stellen hoe het voor de genezen man moet zijn geweest om na 38 jaar weer in de tempel te komen. Op welke manier is de dag waarop zijn genezing plaatsvond voor hem een echte rustdag geworden?`
 
 Ook de leerlingen deden wel eens iets wat volgens de Farizeeën op sabbat niet mocht (zie Matteüs 12:2; Marcus 2:24 en Lucas 6:2).
 

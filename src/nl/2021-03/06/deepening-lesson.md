@@ -21,7 +21,7 @@ Deze brief bepaalt ons bij hoe we door God worden gered en bij de overwinning va
 
 `Waarom verdeelt de apostel het juist in deze categorieën? Wat voor relaties zijn er tussen hen? Welke risico’s kunnen er zijn? Wat stelt de auteur hier tegenover?`
 
-`In vs. 1 en 5 worden kinderen en slaven opgeroepen hun ouders en meesters te ‘ge- hoorzamen’. Hoe moet gehoorzaamheid in dit verband worden geïnterpreteerd? Welke synoniemen zou je kunnen geven om de betekenis ervan op een meer eigentijdse manier te verduidelijken?`
+`In vs. 1 en 5 worden kinderen en slaven opgeroepen hun ouders en meesters te ‘gehoorzamen’. Hoe moet gehoorzaamheid in dit verband worden geïnterpreteerd? Welke synoniemen zou je kunnen geven om de betekenis ervan op een meer eigentijdse manier te verduidelijken?`
 
 `Welke motieven spelen een rol in de houding die mensen aannemen naar elkaar?`
 
@@ -31,7 +31,7 @@ Deze brief bepaalt ons bij hoe we door God worden gered en bij de overwinning va
 
 Dit tekstgedeelte wil dat we nadenken over onze levenshouding: gehoorzaamheid, gezag, gevoelens van minderwaardigheid of juist van superioriteit.
 
-`Is de parallel tussen gehoorzaamheid/inferioriteit en gezag/superioriteit goed, recht- vaardig, adequaat?`
+`Is de parallel tussen gehoorzaamheid/inferioriteit en gezag/superioriteit goed, rechtvaardig, adequaat?`
 
 Gehoorzaamheid aan de Heer is gebaseerd op vertrouwen en op de band die is opgebouwd tussen ‘het kind’ en zijn Vader. De kwaliteit van die band staat voorop. Deze is gebaseerd op begrippen als rechtvaardigheid en betekenis. Als het kind of de slaaf het gevoel heeft dat zijn ouder/meester steeds het goede met hem voorheeft, dan zal hij gehoorzamen en dat zelfs met vreugde en dankbaarheid doen. Dan is er geen sprake van angst!
 

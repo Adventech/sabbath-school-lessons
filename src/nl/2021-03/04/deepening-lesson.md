@@ -13,7 +13,7 @@ date:   23/07/2021
 
 #### Ik Verken
 
-In 2 Samuel 11 staat, dat koning David met Batseba, de vrouw van Uria, ‘sliep’ (d.w.z. gemeenschap met haar had) en ervoor zorgt dat Uria in een gevecht met de Ammonieten om het leven komt. In vers 27 lezen we: ‘Naar het oordeel van de HEER was het ... slecht wat David had gedaan.’ Daarom stuurde Hij de profeet Natan naar David, die de koning met zijn dubbele zonde confronteerde (2 Samuel 12:1,9-10). Direct beleed David zijn zonde tegen de Heer (vers 13) en ontving hij vergeving, maar het inmiddels geboren kind van hem en Batseba werd doodziek. In vers 16-18 staat dat David voor de jongen ging bidden en vasten. Hij deed dat vermoe- delijk zeven dagen lang, totdat zijn zoontje stierf.
+In 2 Samuel 11 staat, dat koning David met Batseba, de vrouw van Uria, ‘sliep’ (d.w.z. gemeenschap met haar had) en ervoor zorgt dat Uria in een gevecht met de Ammonieten om het leven komt. In vers 27 lezen we: ‘Naar het oordeel van de HEER was het ... slecht wat David had gedaan.’ Daarom stuurde Hij de profeet Natan naar David, die de koning met zijn dubbele zonde confronteerde (2 Samuel 12:1,9-10). Direct beleed David zijn zonde tegen de Heer (vers 13) en ontving hij vergeving, maar het inmiddels geboren kind van hem en Batseba werd doodziek. In vers 16-18 staat dat David voor de jongen ging bidden en vasten. Hij deed dat vermoedelijk zeven dagen lang, totdat zijn zoontje stierf.
 
 #### Ik Bestudeer
 

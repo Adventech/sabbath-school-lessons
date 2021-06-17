@@ -13,7 +13,7 @@ Genesis 45:1-15
 
 #### Ik Verken
 
-Genesis bestaat uit verschillende verhalencycli, die worden aangeduid met de Hebreeuwse term toledot (geslachten, generaties). Deze tekst is deel van de cyclus van Jozef (hoofd- stukken 37-50). Jozef ervoer in zijn jonge jaren enorme spanningen vanwege de voorkeur van zijn vader en de gewelddadige jaloezie van zijn broers. Nadat hij als slaaf naar Egypte was verkocht, in het huis van Potifar diende en in de gevangenis zat, werd Jozef ‘heerser over heel Egypte’ (vs. 9). Hij werd door de farao aangesteld de economische crisis ten gevolge van die langdurige droogte, in goede banen te leiden. In dit verband ziet Jozef zijn broers weer. Zij komen graan kopen om te overleven. Na al die jaren herkennen zij Jozef niet. Hij herinnert hen op voorzichtige wijze aan het verleden.
+Genesis bestaat uit verschillende verhalencycli, die worden aangeduid met de Hebreeuwse term toledot (geslachten, generaties). Deze tekst is deel van de cyclus van Jozef (hoofdstukken 37-50). Jozef ervoer in zijn jonge jaren enorme spanningen vanwege de voorkeur van zijn vader en de gewelddadige jaloezie van zijn broers. Nadat hij als slaaf naar Egypte was verkocht, in het huis van Potifar diende en in de gevangenis zat, werd Jozef ‘heerser over heel Egypte’ (vs. 9). Hij werd door de farao aangesteld de economische crisis ten gevolge van die langdurige droogte, in goede banen te leiden. In dit verband ziet Jozef zijn broers weer. Zij komen graan kopen om te overleven. Na al die jaren herkennen zij Jozef niet. Hij herinnert hen op voorzichtige wijze aan het verleden.
 
 #### Ik Bestudeer
 
@@ -45,7 +45,7 @@ Dit verhaal bestaat uit verschillende delen die de spanning oproepen en het beel
 
 2) Een verandering van perspectief (vs.4-8)
 
-`Als Jozef zich bekend maakt noemt hij zichzelf ‘jullie broer die jullie verkocht hebben 07 en die naar Egypte is meegevoerd’. Kunnen wij ook ‘vergeten’ op het moment dat we vergeven? Zo niet, waar gaat het dan om? Hoe en waarom moeten we zeggen wat we hebben meegemaakt?`
+`Als Jozef zich bekend maakt noemt hij zichzelf ‘jullie broer die jullie verkocht hebben en die naar Egypte is meegevoerd’. Kunnen wij ook ‘vergeten’ op het moment dat we vergeven? Zo niet, waar gaat het dan om? Hoe en waarom moeten we zeggen wat we hebben meegemaakt?`
 
 `Jozef geeft een nieuwe wending aan dit drama uit het verleden. Waarom is het belangrijk stil te staan bij wat er met ons is gebeurd? Is dat wel altijd mogelijk?`
 
