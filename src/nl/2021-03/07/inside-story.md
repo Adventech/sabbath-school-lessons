@@ -1,0 +1,22 @@
+---
+title:  Zendingsbericht
+date:   13/08/2021
+---
+
+#### Een bijzondere vriendschap
+
+_Raijan, 15 , Marshalleilanden_
+
+Een vijftienjarige zoon van een zendeling op de Marshalleilanden had een speciale briefvriendschap met een 77-jarige gepensioneerde zendeling in Texas, een ver weg gelegen staat in de Verenigde Staten van Amerika. Ze kregen contact toen de gepensioneerde zendeling, opa Bob, via een zendingsverhaal in het driemaandelijkse Mission hoorde over het gezin van het zendelingskind. De vader van de jongen was de directeur van de school en zijn moeder gaf les op de adventistische zendingsschool van het afgelegen eiland Ebeye. Opa Bob wilde iets bijzonders doen om het gezin te helpen.
+
+Hij gaf al wekelijks geld tijdens de zendingscollecte voor de sabbatschool en hij stopte iets extra’s in de collectezak toen er tijdens de dertiende sabbatschool in 2018 geld op werd gehaald voor de school. Maar hij wilde nog meer doen om te helpen. Daarom besloot hij elke maand zorgpakketten te sturen met speelgoed, eten en schoolbenodigdheden voor het gezin en andere zendelingen op het eiland. Raijan was dertien jaar toen de eerste pakketten aankwamen en hij en zijn familie knielden neer en dankten God bij elk pakket dat ze openden. Voordat hij kon gaan spelen met zijn nieuwe speelgoed of een snoepje mocht proeven, zei vader tegen hem dat hij een brief moest schrijven aan opa Bob om hem te bedanken. Dat was het begin van de bijzondere briefvriendschap. Opa Bob stuurde pakketten en Raijan reageerde daarop met handgeschreven brieven.
+
+In drie jaar tijd ontving Raijan behoorlijk wat pakketten en stuurde hij ook veel brieven. Hij schreef hoe blij hij ermee was om de pakketten te ontvangen. Hij schreef over zijn moeilijkheden op school. Hij zei hoe bang hij was voor de dood toen een klasgenoot onverwachts overleed en basketbalster Kobe Bryant in diezelfde week stierf door een helikopterongeluk. Kort nadat hij de brief over de dood had gestuurd, kreeg hij antwoord van opa Bob. Het was de eerste en enige keer dat opa Bob hem een persoonlijke brief stuurde. Drie weken daarna belandde opa Bob in het ziekenhuis en korte tijd later werd hij overgebracht naar een verpleeghuis. In de twee weken dat hij daar was, stelde opa Bob nog acht pakketten samen voor Raijan en zijn familie. Zijn zoon verstuurde de laatste pakketten nadat opa Bob was overleden.
+
+De dood van opa Bob ontmoedigde Raijan, maar hij bleef brieven sturen. Nadat er weer een pakket was binnengekomen, stuurde hij de volgende brief naar de zoon van opa Bob: Ik leef heel erg met u mee. De dag waarop we hoorden dat opa Bob was overleden, zal ik nooit vergeten, al wist ik dat hij nog maar een paar dagen te leven had. Ik had zo gehoopt dat het anders zou gaan. Afgelopen februari heb ik hem nog geschreven hoe makkelijk we als mensen met de dood te maken krijgen en heb ik hem verteld over het recente overlijden van een leeftijdsgenoot van mij en van de beroemde basketballer Kobe Bryant.
+
+Een week later stuurde hij me een brief waarin hij zei dat het inderdaad verdrietig is als iemand overlijdt, maar dat we niet bang moeten zijn voor de dood omdat God die overwonnen heeft. Hij zei dat we moeten leven zoals we zouden doen als we morgen kwamen te overlijden en dat we er tegelijkertijd ook vanuit moeten gaan dat we nog 100 jaar te leven hebben. Opa Bob spoorde me aan om het bijltje er niet bij neer te leggen, anders zou ik nooit kunnen genieten van de nieuwe kansen die de dag van morgen misschien brengt. Ook moest ik elke dag gebruiken als een nieuwe mogelijkheid om mensen over God te vertellen en hun leven voor Hem te winnen.
+
+Ik ben heel blij met zijn bemoediging en hulp omdat ik nu minder verdrietig ben dan ik zou zijn zonder zijn brief. Al heb ik hem niet persoonlijk gekend, ik ben door hem geraakt en hij heeft mij geïnspireerd om een aardiger, vriendelijker en liefdevoller persoon te zijn. En al zal ik hem ook nooit persoonlijk leren kennen op deze aarde, ik weet zeker dat ik hem zal ontmoeten als we op een dag allemaal naar de hemel gaan. Ik kan me niet indenken hoeveel verdriet u nu heeft, maar ik ben ervan overtuigd dat God altijd raad weet, waar we ook mee te maken krijgen, en dat we op God kunnen leunen.
+
+Dank u voor uw wekelijkse zendingsgaven. Zij helpen het zendingswerk op de Marshalleilanden en over de hele wereld. Dank u dat u iets extra’s wil doen om Gods werk in de eindtijd te bevorderen. 
