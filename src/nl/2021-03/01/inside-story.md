@@ -1,0 +1,20 @@
+---
+title:  Zendingsbericht
+date:   02/07/2021
+---
+
+#### Goed om terug te zijn
+
+_Adrain Wiles, 20, Arizona, V.S._
+
+In het tweede kwartaal van 2018 vertelde Adventist Mission bij een zendingsbericht voor kinderen over Adrain. Hij zou bijna eindexamen doen aan de adventistische Holbrook Indian School, een zendingsschool voor Indianen in Arizona, een staat in Amerika. Adrain wist niet wie zijn vader was en zijn moeder dronk vaak. Toen hij zeven was, leerde een oudere broer hem hoe hij alcohol moest drinken en drugs kon gebruiken. Adrain vond niet dat zijn leven iets miste en hij wilde niet naar Holbrook verhuizen om daar in groep 5 te beginnen. Toch leerde hij vele nieuwe dingen op school, ook dat het belangrijk was om te douchen en zijn kleren te wassen. Hij dronk niet langer en gebruikte geen drugs meer. Hij ontdekte dat het hem opvrolijkte om basketbal te spelen tijdens gym. In de brugklas bestudeerde hij de Bijbel met een predikant en gaf hij zijn hart aan Jezus. Laten we eens kijken hoe het met Adrain is gegaan nadat hij zijn eindexamen had gehaald. Dit is zijn verhaal, in zijn eigen woorden verteld.
+
+In 2018 rondde ik de Holbrook Indian School af. Ik had mijn leven aan Jezus gegeven en Hij hielp me om drugs en alcohol achter me te laten en een doel te vinden in het leven. In navolging van één van mijn ooms besloot ik ingenieur te worden. Ik schreef me in op Union College, een adventistische school in Nebraska en als universitaire student begon ik aan een nieuw hoofdstuk in mijn leven. Iedereen op de universiteit was zo vriendelijk, aardig en blij. Vreemdelingen begroetten me zelfs.
+
+Ik kreeg vrienden in de colleges, het koor en bij recreatieve sportactiviteiten. Ik werd gevraagd om de Bijbel te bestuderen met theologiestudenten en genoot van alle bijeenkomsten die de school organiseerde op vrijdagavond. Alles ging van een leien dakje tot ik ontdekte dat mijn opleiding ontzettend duur was. Ik wist dat helemaal niet. Toen ik de rekening ontving, werden mijn ogen groot van schrik. Het daaropvolgende jaar besloot ik naar de school te gaan in het Navajo Reservaat. Door een digitale speurtocht kwam ik tot de ontdekking dat een technische school in Nieuw Mexico een goede ingenieursopleiding aanbood. Ik vond het een fijn idee dat ik mijn studie daar kon afmaken zonder me zorgen te hoeven maken over de hoge kosten van de christelijke privéschool.
+
+Na mijn aankomst merkte ik echter al gauw dat er geen andere christelijke studenten op de school zaten waar ik mee om kon gaan. De verleiding om te drinken en drugs te gebruiken, werd me bijna te veel. Ik kon me inhouden om naar die levensstijl terug te keren, maar ik voelde me eenzaam. In het tweede semester voelde ik me zo eenzaam dat ik me geen raad meer wist. Ik had al met wat personeel gesproken op de Holbrook Indian School die ook regelmatig contact met me opnamen. Wonderbaarlijk genoeg was er net een vacature vrijgekomen en ze vroegen me om weer naar Holbrook te komen, als afdelingsdecaan aan de slag te gaan en tegelijkertijd mijn opleiding af te maken met behulp van het schakelprogramma van de school.
+
+Er is een enorm verschil tussen de sfeer op de technische universiteit en Holbrook Indian School. Holbrook is mijn thuis. Ik ben zo blij weer terug te zijn. Ik zou graag naar Union College gaan om mijn studie af te ronden en ik bid dat God me helpt om terug te keren zonder schulden te maken. Ik weet dat God een plan heeft met mijn leven. Bid alstublieft voor mij terwijl ik Hem blijf volgen waarheen Hij mij ook leidt.
+
+Dank u voor uw gaven tijdens de dertiende sabbat drie jaar geleden. Uw geld heeft aanzet gegeven tot de plannen voor een nieuw gymnastiek- en gezondheidsgebouw, genaamd New Life Center, bij de adventistische Holbrook Indian School. In dit kwartaal zal uw bijdrage ervoor zorgen dat de 3 tweede fase van het centrum wordt afgerond, waardoor de school het hoge percentage obesitas, hartziekten, diabetes, depressie en zelfmoord kan helpen verminderen bij inheemse Amerikaanse kinderen en jongeren. 
