@@ -1,11 +1,11 @@
 ---
-title: 'Inside Story'
-date: 25/06/2021
+title:  Inside Story
+date:  25/06/2021
 ---
 
-### God Is Real
+#### God Is Real
 
-_By andrew Mcchesney, Adventist Mission_
+_By Andrew McChesney, Adventist Mission_
 
 Cristian Suárez started using drugs at the age of 14 in Colombia.
 
@@ -17,9 +17,13 @@ Cristian had never believed in God. But sad, lonely, and alone at home, he lifte
 
 At that precise moment, his cell phone rang.
 
-“Hello, could I please speak with Cristian Suárez,” an older woman said.“You are speaking to him,” he said. “How can I help you?”
+“Hello, could I please speak with Cristian Suárez,” an older woman said.
 
-“Cristian, I’ve called to tell you that God is real,” she said.Cristian was shocked. The caller had said the exact words that he had asked from God in order to believe in Him.
+“You are speaking to him,” he said. “How can I help you?”
+
+“Cristian, I’ve called to tell you that God is real,” she said.
+
+Cristian was shocked. The caller had said the exact words that he had asked from God in order to believe in Him.
 
 “What’s your name?” he asked.
 
@@ -33,6 +37,6 @@ Cristian excitedly called another friend, Alfonso, to tell him about the phone c
 
 Three months later, Cristian was baptized and free of drugs. Today, a decade later, he is studying to become a pastor at Colombia Adventist University in Medellin, Colombia. Alfonso also has joined the Adventist Church.
 
-Cristian  no  longer  has  any  doubt  about  God.  “Nothing is impossible for God,” he said.
+Cristian no longer has any doubt about God. “Nothing is impossible for God,” he said.
 
-_This  quarter’s  Thirteenth  Sabbath  Offering  will  help open a missionary training center at Colombia Adventist University._
+This quarter’s Thirteenth Sabbath Offering will help open a missionary training center at Colombia Adventist University.
