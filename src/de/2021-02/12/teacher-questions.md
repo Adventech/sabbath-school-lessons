@@ -53,7 +53,7 @@ II: Wir studieren die Bibel
 -   Wenn du an Golgatha denkst: Welche Gefühle ruft das dort Geschehene
     in dir wach?
 
-### **Sonntag: Gedanken zu Golgatha**
+### **Gedanken zu Golgatha**
 
 **Galater 6,14**
 
@@ -65,7 +65,7 @@ II: Wir studieren die Bibel
 -   Was sagt uns die Größe des Schmerzes und der Demütigung Jesu über
     den Charakter der Sünde?
 
-### **Montag: Bund und Opfer**
+### **Bund und Opfer**
 
 **1. Petrus 1,18-19**
 
@@ -75,7 +75,7 @@ II: Wir studieren die Bibel
     bewerkstelligen? Durch das eigene reine Leben? Durch ein Tier oder
     einen Engel, der für die Sünde stirbt? Begründe!
 
-### **Dienstag & Mittwoch: Der Glaube Abrahams – Teil 1 & 2**
+### **Der Glaube Abrahams – Teil 1 & 2**
 
 **Römer 4,1-7; (3. Mose 7,18)**
 
@@ -97,7 +97,7 @@ II: Wir studieren die Bibel
     totem Glauben? Wie äußert sich das eine, wie das andere? Wie erhält
     man seinen Glauben am Leben?
 
-### **Donnerstag: Den Verheißungen vertrauen**
+### **Den Verheißungen vertrauen**
 
 **Matthäus 11,28-30**
 
