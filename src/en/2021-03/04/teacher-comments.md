@@ -1,0 +1,52 @@
+---
+title:  Teacher Comments
+date:  23/07/2021
+---
+
+#### Part I: Overview
+
+This week’s lesson focuses on one of the saddest chapters in David’s life. The king of Israel abused his God-given authority and led the wife of one of his soldiers into sin. Uriah was a warrior in David’s army, fighting in a battle for his king. David took advantage of his absence.
+
+When Bathsheba became pregnant because of David’s lustful adultery, the king tried to cover up his sin. He called Uriah back from the fierceness of the battle to spend time with his wife. Uriah revealed his sterling character when he refused to enter his house while his army was fighting the enemy.
+
+When David’s initial plan did not work, he urged Joab, the captain of the king’s army, to place Uriah in the front line of the battle so he would face certain death. David’s lustful look led to a lustful act, which led to a deceptive plot to kill an innocent man. The devil’s temptations are designed to meet each one of us at our weakest point. If there is a vulnerable point in our character, the devil will exploit that point to lead us into sin.
+
+David recognized his guilt through a parable that the prophet Nathan told him. Brokenhearted, the king made an agonizing confession. His repentance was deep, genuine, and heartfelt. Psalm 51 is his earnest plea for forgiveness and a changed heart. God answered David’s prayer. The king was forgiven, but forgiveness did not result in avoiding the tragic consequences of sin. In one way or another throughout his life, David experienced the terrible consequences of his sinful act. As a forgiven child of God, he entered Heaven’s rest—but still experienced the anguish of his sinful act.
+
+#### Part II: Commentary
+
+One of the questions that immediately comes to mind when we study the experience of David’s illicit, adulterous affair with Bathsheba is why God placed such a sordid story in the Bible. Why reveal the intimate details of David’s life? Why not just say he sinned and was forgiven and end the story? Let’s explore what God is teaching us through this narrative.
+
+There are at least four deeply significant lessons here. Second Samuel 11:1 is a telling verse. In a few short words, Scripture points out a flaw in David’s character. It was the spring of the year, and Israel was in a serious conflict with its enemies. Kings lead their armies into battle, but David sent Joab, the general of his army (1 Chron. 27:34), to the fight. The text states, “But David remained at Jerusalem.” Courageous kings fight alongside their armies. They inspire their weary, battle-worn forces to continue fighting. David chose to remain in his palace, enjoying the delights of royalty, while his men suffered and died in a war. Here is the first lesson from David’s fall. When you fail to do your duty, when you indulge in pleasurable desires at the expense of doing what is right, you become vulnerable to Satan’s alluring temptations.
+
+The second lesson follows swiftly on the heels of the first. Satan’s attacks come when they are least expected. David did not expect that when he walked on the roof of his palace that night that he would be captivated by the beauty of another man’s wife. The New Life Translation renders Proverbs 4:23 this way: “Guard your heart above all else, for it determines the course of your life.” Solomon, David’s second son by Bathsheba, wrote these words. As an adult, he must have known about David’s sin. When we let our guard down, Satan attacks. Therefore, Jesus said to His disciples, “ ‘Watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak’ ” (Mark 14:38, NKJV). This was precisely David’s problem. In an unguarded moment, the weakness of the flesh led him into a sin that would change the entire course of his life.
+
+**Sinful Thoughts Lead to Sinful Acts.**
+
+Sin begins in the mind. David’s lustful look led to the next step, indulging his lustful fantasy. He ventured onto Satan’s ground when he acted on his thoughts and sent his servants to inquire about Bathsheba. His impulses, uncontrolled by the Holy Spirit, led to an inappropriate inquiry in order to indulge his desires by a sinful act. This leads us to our third lesson. Although David tried to cover up his adulterous affair with Bathsheba, sin can never be covered up for long. The words of Moses to the Israelites centuries before came true in his experience. “ ‘But if you do not do so, then take note, you have sinned against the Lord; and be sure your sin will find you out’ ” (Num. 32:23, NKJV). Sinful acts done under the cover of darkness will one day come out in the blazing light of the day. For “all things are naked and open to the eyes of Him to whom we must give account” (Heb. 4:13, NKJV).
+
+David’s sinful act would not be concealed for long. Bathsheba was pregnant. Uriah was dead. Nathan the prophet confronted David with the sinful course of his actions. Sin done in darkness one day will come out in the open. Echoing and reechoing down the centuries are Moses’ words: “Your sin will find you out” (Num. 32:23, NKJV). The fourth lesson that we discover from this first part of the story is that although David wept, confessed his sin, repented of his evil deed, and was forgiven by God, the consequences of sin would remain.
+
+**Sin Is a Cancer Destroying Everything It Touches.**
+
+“Edwin Cooper was famous across America, yet almost no one knew his real name. Coming from a family of circus clowns, Cooper began performing before audiences when he was just nine years old. After a stint with the Barnum and Bailey Circus, he became a fixture on television in the 1950s as Bozo the Clown. In addition to entertaining both young and old, Cooper had a message for his ‘buddies and partners’ every week: get checked for cancer. Yet Cooper was so busy working that he neglected to follow his own advice. By the time his cancer was discovered, it was too late for it to be treated. Edwin Cooper died at just forty-one years of age from a disease that he had warned many others to watch out for. Sin is far more deadly than the most aggressive, malignant cancer. Sin kills and destroys everything it touches. From the Fall of Adam in the Garden of Eden until now, sin takes no prisoners. This is the purpose behind everything Satan does. Jesus said, ‘ “The thief cometh not, but for to steal, and to kill, and to destroy” ’ (John 10:10)” (“No Laughing Matter,” in Reading Eagle, July 5, 1961, accessed February 4, 2020, https://ministry127.com/resources/illustration/no-laughing-matter).
+
+**David’s Sin Had Deadly Consequences.**
+
+The results of David’s sin are seen throughout his life and in his own famil­y. The child he bore with Bathsheba, as the result of his adultery, became ill and died. His son Amnon forced himself on his half sister Tamar and defiled her. In rage, two years later, Absalom, Tamar’s brother, had Amnon murdered. David’s life was filled with grief, sorrow, and disappointment. Absalom, David’s third son, whose mother was Maacah, was a great favorite of his father. Handsome, outgoing, adventuresome, and charming, he captured the heart of Israel. Eventually he rebelled against David’s leadership and was killed in battle. David’s heart was broken. Sin, like a cancer, had plagued his life. Although he was forgiven by God, the consequences of sin rested heavy upon him. One of the great lessons of this story is that sin has tragic consequences. Yet, despite sin’s consequences, God is always ready to forgive and rebuild our lives.
+
+**Analyzing David’s Pleas for Forgiveness: Psalm 51**
+
+One of the most powerful prayers in all the Bible is found in Psalm 51, which is David’s heartfelt appeal for forgiveness after his sin against Bathsheba. As we read the prayer, we are immediately struck with the genuineness of David’s confession. He is painfully honest. He makes no excuse for his sin. He appeals to God for mercy, forgiveness, and restoration into God’s favor. Notice the verbs in the prayer. They are powerful indicators of David’s motives. He prays, “Have mercy upon me, . . . blot out my transgressions” (Ps. 51:1, NKJV). “Wash me . . . cleanse me” (Ps. 51:2, NKJV). “I acknowledge my transgressions, and my sin is always before me” (Ps. 51:3, NKJV). “Purge me,” “Wash me” (Ps. 51:7, NKJV). “Make me hear joy and gladness” (Ps. 51:8, NKJV). “Create in me a clean heart, O God” (Ps. 51:10, NKJV). “Do not cast me away from Your presence” (Ps. 51:11, NKJV). “Restore to me the joy of  Your salvation” (Ps. 51:12, NKJV). Reading David’s prayer, we can almost hear his heartfelt plea. Our own hearts are touched by his sincere confession. The incredibly good news is that God honors a “broken and contrite heart” (Ps. 51:17). As Ellen G. White says: “Jesus loves to have us come to Him just as we are, sinful, helpless, dependent. We may come with all our weakness, our folly, our sinfulness, and fall at His feet in penitence. It is His glory to encircle us in the arms of His love and to bind up our wounds, to cleanse us from all impurity.”—Steps to Christ, p. 50. David experienced the cleansing power of Christ’s forgiveness. His relationship with God was restored. His spirit was renewed. He once again entered a life of service for the Christ that loved him, forgave him, cleansed him, and transformed him.
+
+#### Part III: Life Application
+
+Sin is a double-edged sword. It brings not only guilt, shame, and condemnation but also hopelessness and discouragement. Once the devil leads us into temptation and we fall into his trap, his next step is to make us feel as though there is no hope. Discouragement is one of his most powerful weapons. Here are three facts to remember when you have fallen into temptation:
+
+•	Christ longs for you to come to Him just as you are. If, as David, you come with an honest heart, not making excuses for your sin, you, too, will experience God’s forgiveness.
+
+•	Christ has never, ever cast out or rejected anyone who has sincerely come seeking His grace. In fact, He assures us that “ ‘the one who comes to Me I will by no means cast out’ ” (John 6:37, NKJV).
+
+•	Christ’s promises of forgiveness and restoration are as certain as His eternal throne. Your feelings are not the criteria of whether you are forgiven. You may not feel forgiven. You may still have feelings of guiltiness, but you can still have the assurance based on the Word of God that your sins are forgiven and that you are a child of God.
+
+`Notes`
