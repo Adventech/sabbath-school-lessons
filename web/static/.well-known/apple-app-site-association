@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "XVGX5G4YQ9.com.cryart.SabbathSchool",
+        "paths": [ "*", "NOT /api/*"]
+      }
+    ]
+  }
+}

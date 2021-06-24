@@ -429,8 +429,11 @@ let lessonAPI = async function () {
 let dayAPI = async function () {
   console.log('Deploying day API');
   let days = glob.sync(`src/${compile_language}/${compile_quarter}/**/*.md`);
+  let dayIndex = 0
+  let prevWeek = null
 
   for (let dayId of days) {
+
     let dayJSON = getDayJSON(dayId, true);
     let day = dayJSON[1],
         _day = dayJSON[0],
@@ -438,6 +441,12 @@ let dayAPI = async function () {
         read = {},
         meta = null,
         resultRead;
+
+    if (prevWeek !== info.lesson) {
+      dayIndex = 0
+    }
+    dayIndex++
+    prevWeek = info.lesson
 
     try {
       meta = JSON.parse(JSON.stringify(day.meta));
@@ -519,9 +528,9 @@ let dayAPI = async function () {
     var slugId = '';
     let dayName = DAYS_MAP.get(read.id);
     if (dayName === undefined) {
-      slugId = read.title;
+      slugId = `${String(dayIndex).padStart(2, '0')} ${read.title}`;
     } else {
-      slugId = `${dayName} ${read.title}`;
+      slugId = `${String(dayIndex).padStart(2, '0')} ${dayName} ${read.title}`;
     }
 
     meta.slug = slug(slugId);
