@@ -29,6 +29,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "de": [
+    "hfa",
     "luth1545",
     "luth1912"
   ],
