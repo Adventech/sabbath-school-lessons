@@ -1,0 +1,56 @@
+---
+title:  Teacher Comments
+date:  13/08/2021
+---
+
+#### Part I: Overview
+
+In this week’s lesson, we will study the power of forgiveness. The idea of forgiveness raises questions for many people. What is forgiveness? If we forgive someone who has deeply wronged us before he or she repents of the wrong, are we justifying his or her behavior? If we forgive an individual, does that mean that we need to establish or reestablish a close relationship with that person? Does forgiveness always rebuild relationships?
+
+Joseph’s life illustrates the power of forgiveness. Throughout his life he could easily have cherished anger toward his brothers, bitterness toward his slave traders, and resentment toward Potiphar. Yet, there is not even a hint of any of these negative qualities in Joseph’s life. He is a sterling example of the grace of forgiveness.
+
+Throughout this week’s lesson, we will see how forgiveness releases us from the poison of bitterness. Forgiveness changes us. It frees us from the bondage of resentment. Joseph’s heart was filled with forgiveness before his brothers ever asked, because he sensed that God had an overriding purpose for his life. His brothers suffered from the guilt of their actions for years. They were tormented by the memory of that last lingering look on their brother’s face as he was led away into slavery. Just as Joseph needed to forgive, they needed forgiveness. Forgiveness facilitates healing in broken relationships.
+
+Both Jesus and Joseph share some striking similarities. Both were betrayed by those closest to them. Both were unjustly condemned. Both were falsely accused and suffered the consequences. Both forgave and were exalted by God. Hanging on the cross with nails through His hands and feet, and blood flowing freely from each of His limbs, Jesus cried out, “ ‘Father, forgive them, for they do not know not what they do’ ” (Luke 23:34, NKJV). We can forgive others because Jesus forgave us, and that’s the theme of this week’s lesson.
+
+#### Part II: Commentary
+
+Forgiveness is an attitude of grace for those who have wronged us. It does not justify their sinful behavior. It releases them from our condemnation and treats them with kindness despite what they have done to us. Genuine forgiveness does not wait until the person who has wronged you asks you to forgive him or her. Genuine forgiveness chooses to forgive others when they do not deserve it, because God’s love reaches out to us when we do not deserve it.
+
+When Joseph met his brothers after about twenty years of separation, his attitude toward them was one of forgiveness before they ever asked for it. Jacob had sent them to Egypt because of the severe famine in the land. He had heard that there were food supplies available in Egypt. Because Joseph oversaw the food supplies, they had to report to him to purchase grain. Given that Joseph spoke to them through an interpreter, had significantly aged since they saw him last, and dressed as an Egyptian, they did not recognize him. He immediately recognized them. After testing them with a series of questions about their background and family, he sensed that their sorrow for their past was genuine.
+
+Eventually convinced of their sincerity, Joseph broke down and wept uncontrollably in their presence. Genesis 45:2 declares: “And he wept aloud, and the Egyptians and the house of Pharaoh heard it” (NKJV). His love for them overcame any resentment over what they had done to him decades before. Forgiveness was in his heart all the time, for love forgives. Once Joseph revealed who he was, his brothers were afraid that he might seek revenge now that he was in a position of considerable power. Joseph saw the bigger picture. He understood God’s larger purpose. He responded to their concerns this way: “ ‘But now, do not therefore be grieved or angry with yourselves because you sold me here; for God sent me before you to preserve life’ ” (Gen. 45:5, NKJV). The devil had hoped to destroy God’s purpose for Joseph’s life, but God miraculously intervened. Even through the sinful and treacherous actions of Joseph’s brothers, God was able to accomplish His purposes. After Jacob’s death, Joseph again reassured his family that he held no malice against them. “Joseph said to them, ‘Do not be afraid, for am I in the place of God? But as for you, you meant evil against me; but God meant it for good, in order to bring it about as it is this day, to save many people alive” (Gen. 50:19, 20, NKJV). The amazing thing about God’s grace is that where sin abounds, God’s grace abounds much more. Evil may wound us, but God is the Great Healer. God binds up our wounds, heals our hearts, and restores His image within us. The devil cannot destroy God’s purpose for a life consecrated to Him.
+
+This does not in any way justify abusive behavior. Abusive behavior is awful in the sight of God. You will recall that in Matthew 25:40–45, Jesus talks about the marginalized, the disadvantaged, and the poor. Abuse of any of God’s children is abuse of Christ. Therefore, Jesus said, “ ‘Inasmuch as you did it to one of the least of these My brethren, you did it to Me’ ” (Matt. 25:40, NKJV). The inability to forgive those who have wronged us limits God’s ability to heal us. Had Joseph not forgiven his brothers, a spirit of bitterness would have carried over in his relationships with others and kept him from fulfilling God’s purpose for his life. You will recall the question that Peter asked Jesus: “ ‘Lord, how often shall my brother sin against me, and I forgive him?’ ” (Matt. 18:21, NKJV).
+
+One school of rabbinical thought taught that you should have mercy and forgive six times. After the sixth offense, justice was due. Thinking he would please the Master, Peter asked if forgiving someone up to seven times was enough. With a classic answer, Jesus said, “ ‘I do not say to you, up to seven times, but up to seventy times seven’ ” (Matt. 18:22, NKJV). Seventy times seven is 490. What Jesus was saying is simply this: I bore long with Israel even in their apostasy and rebellion for 490 years. Peter, My mercy is limitless. My forgiveness is ever present. My love can never be exhausted.
+
+**Forgive Because We Are Forgiven**
+
+Ephesians 4:32 is the basis of all genuine forgiveness: “And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you” (NKJV). We forgive others because Christ has forgiven us. His forgiveness is the basis of all our forgiveness. Remember His prayer from Golgotha’s hill: “ ‘Father, forgive them, for they do not know what they do’ ” (Luke 23:34, NKJV). If Christ could forgive His enemies when they did not deserve it, we can forgive others when they do not deserve it. If He could forgive those who brought Him such pain, by His grace we can forgive those who bring us pain.
+
+Here are three wonderful, real-life stories of forgiveness:
+
+**Forgiving Adventist Prodigals**
+
+Our first story is about an Adventist family active in the church and well known in the community. Their daughter left home because she thought religion was boring. To fulfill her thirst for pleasure, she partied with her boyfriend, became addicted to tobacco, drank heavily, and spent much of her time in the cities’ nightclubs. Unable to fill the emptiness inside, she finally came to her senses. She called her parents. “Mom and Dad, I want to come home.” She had embarrassed them so much. Could they accept her, forgive her, welcome her back? In the light of the Cross, they welcomed her home. Today she is growing in grace.
+
+He was a pastor’s son but got involved in drugs as a teenager. Eventually he dropped out of school and lived a purposeless life. His parents never stopped praying for him, loving him, forgiving him, and in the light of the Cross, they welcomed him home. Today he is a pastor.
+
+She was a young person that had a moral fall at youth campout weekend. She felt guilty and ashamed. Would she be ostracized or forgiven? The church leadership reached out in loving forgiveness. Forgiveness very often, but not always, restores relationships. There are times that a relationship is so shattered that although forgiveness is healing for the one who has been hurt, it cannot heal the relationship.
+
+**Forgiveness Is Basic in All Human Relationships.**
+
+Forgiveness is an attribute of Christ that flows from Calvary and is basic in all our relationships. It is fundamental for positive relationships between husbands and wives, parents and children, church members, and work associates. If you cannot forgive, you will have continual conflict in human relationships because, someday, somebody is going to offend you. If you hold a grudge, if you are resentful, if you harbor bitterness, your relationships will sour. Resentful, unforgiving people spew out their venom to the people around them. Forgiven, forgiving people are a positive influence wherever they go. The atmosphere around them is one of peace, so people feel peaceful in their presence. They have experienced a love beyond measure at the cross, so they can love those around them.
+
+Forgiveness flowed from Calvary’s mountain that Friday that Jesus hung on the cross, dying. There is compassion at the cross. There is grace at Golgotha. At the cross, forgiveness triumphs over fear, love triumphs over hate, reconciliation triumphs over resentment, and grace defeats guilt.
+
+#### Part III: Life Application
+
+There are two kinds of guilt: moral guilt and psychological guilt. Moral guilt is the guilt we experience because we have sinned against God and hurt others. When we confess our sinfulness to God, we are forgiven. His Word declares, “If we confess our sins, He is faithful and just to forgive us our sins” (1 John 1:9, NKJV). Forgiveness is ours instantly when we confess our sins. Pardon is written after our names in heaven’s eternal record books. Why is it that sometimes we feel guilty after we have confessed our sins? One reason, of course, is that often Satan does not want us to experience the joy of forgiveness.
+
+But there may be another reason. Our moral guilt is gone when we confess our sins, but psychological guilt may remain. The apostle Paul prayed for a conscience “ ‘without offense toward God and men’ ” (Acts 24:16, NKJV). When God forgives us and we experience His grace, we long to do everything we can, if possible, to restore broken relationships. Sometimes this means reaching out to those we have hurt and asking for their forgiveness. It may mean a phone call, a letter, or a text message to get the conversation started.
+
+Is there someone you have offended recently? Is there a broken relationshi­p that needs to be repaired? Is there someone who has hurt you whom you need to forgive? If you have offended or hurt someone, why not ask God to help you know how to repair that relationship? Pray about doing something very specific to restore the relationship. If someone has hurt you deeply, ask God to give you the grace to forgive that person. Whether you need to ask for forgiveness or you need to forgive, you will find God’s grace sufficient for you.
+
+`Notes`

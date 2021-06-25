@@ -74,4 +74,3 @@ Wir leben in jedem Bereich unseres Lebens mit den Auswirkungen der Sünde. Es gi
 `9. Adam und Eva fielen als Folge der Ausübung ihres freien Willens in Sünde. Dieser freie Wille war zwar von Gott als Geschenk vorgesehen, wurde aber zu einem Fluch. Fallen euch Beispiele für anderes ein, was an sich gut ist, aber durch schlechte Entscheidungen pervertiert werden kann?`
 
 `10. Adam folgte anstatt Gott Eva. Was sagt uns das über die Gefahr, dass wir anderen Menschen oder Dingen gestatten, uns von unserer Hingabe an Gott wegzulenken?`
-

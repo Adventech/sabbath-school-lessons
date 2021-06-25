@@ -1,0 +1,20 @@
+---
+title:  Zendingsbericht
+date:   09/07/2021
+---
+
+#### Een veilige reis
+
+_Jodi Opitz, 39, Arizona, V.S._
+
+Mijn man, Derek, en ik maakten de drie uur durende rit van de adventistische Holbrook Indian School naar de hoofdstad van Arizona, Phoenix. Ik werk bij Holbrook als secretaris en administratief medewerkster. Derek is de onderhoudsassistent van de school. Op die sabbatmiddag zat ik aan het stuur van onze Jeep, terwijl Derek een dutje deed op de passagiersstoel naast me. We moesten opschieten. We waren op weg naar Phoenix om naar een preek te luisteren in de kerk, maar we gingen eerst nog langs mijn moeder om haar op te halen zodat ze met ons mee kon gaan.
+
+Tijdens de rit kwam de regen om de zoveel tijd met bakken uit de lucht. De drassige weg liep door vele bergpassen en ik leidde de auto door vele haarspeldbochten. Toch drukte ik het gaspedaal behoorlijk in. Een aantal auto’s haastte zich langs ons op de weg. Halverwege de reis kon onze auto de hoeveelheid water niet meer aan. In een paar seconden draaide de Jeep 180 graden in de rondte en knalde het voertuig op een modderige heuvel aan de ene kant van de weg. Vervolgens kiepte de auto naar Dereks kant en gleed achterwaarts de snelweg af om zo’n 75 meter verder tot stilstand te komen. Op de een of andere manier stond de wagen rechtovereind op alle vier de wielen.
+
+Derek en ik zaten als versteend. Tot Derek pogingen begon te doen om zijn deur te openen. Er was geen beweging in te krijgen. De deur was in het autoframe geperst. Derek rook een brandlucht. Omdat hij vreesde dat de auto vlam zou vatten, schreeuwde hij, ‘We moeten hier weg!’. Op dat moment ging mijn deur open. ‘Gaat het?’, vroeg de vrouw die de deur had geopend. De vrouw had het hele ongeluk voor haar ogen zien gebeuren en was gestopt om te helpen. Minuten later stond er een kleine groep mensen om onze auto. Ze vroegen of we om een takelwagen hadden gebeld. Dat was niet het geval, maar voor we ook maar iets konden zeggen, stopte er een takelwagen voor onze neus.
+
+De chauffeur, eigenaar van een sleepbedrijf, kwam net terug van de tandarts. ‘Kan ik helpen?’, vroeg hij. Vervolgens verscheen er een politieagent om de gestage verkeersstroom achter ons in goede banen te leiden en dat terwijl we de politie niet hadden gebeld. Zijn hulp was hoognodig: onze wagen, net na de bocht gelegen en op een helling, was niet goed zichtbaar voor tegenliggend verkeer. Binnen een paar minuten was onze Jeep op de takelwagen gehesen en klaar voor vertrek. We gingen na hoeveel schade we hadden. Twee wielen van de Jeep werkten nog en het dak van de auto was intact. De rest was vernietigd. Er was niets over van het voertuig.
+
+Derek en ik zaten in de takelwagen en probeerden na te gaan wat er zojuist was gebeurd. Aanvankelijk zou een vriend die dag met ons mee zijn gegaan naar Phoenix, maar er was iets tussengekomen. Normaal gesproken reisden we met onze hond, maar die middag was ze niet bij ons. Aan de andere kant van de weg, aan de overzijde van de modderige heuvel die we hadden geraakt, liep de helling steil af. Derek en ik hadden het ongeluk overleefd met maar een paar snijwonden, pijnlijke spieren en enkele kneuzingen. Hoe was het mogelijk dat we geen andere auto’s hadden geraakt? Hoe was het mogelijk dat we weer op vier wielen terecht waren gekomen? Waarom hadden we de vangrail niet geraakt en waren we geen 30 meter naar beneden gestort, de helling af?
+
+Het enige antwoord op die vragen is dat God ons leven heeft gespaard. Hij heeft alles in de hand gehouden, nog voor ons vertrek. Later vernamen we dat drie vrienden en gezinnen op die dag een sterke drang voelden om voor ons te bidden. God heeft hun gebeden beantwoord. Minder dan een uur na het ongeluk haalden vrienden van de Holbrook Indian School ons op en brachten ze ons naar huis. In Psalm 94:22 staat, ‘De HEER is mijn Burcht geworden, mijn God is de Rots waarop ik 5 schuil’. God heeft ons vaak beschermd op de Holbrook Indian School. Met heel ons hart danken we God voor zijn voortdurende zorg over ons.
