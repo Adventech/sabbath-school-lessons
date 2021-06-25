@@ -1,0 +1,54 @@
+---
+title:  El Sábado enseñaré
+date:  23/07/2020
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+La lección de esta semana se centra en uno de los capítulos más tristes de la vida de David. El rey de Israel abusó de la autoridad que Dios le había conferido y condujo al pecado a la esposa de uno de sus soldados. Urías era un guerrero en el ejército de David que luchaba en una batalla por su rey. David aprovechó su ausencia.
+
+Cuando Betsabé quedó embarazada debido al adulterio lascivo de David, el rey trató de encubrir su pecado. Llamó a Urías para que volviera del fragor de la batalla a pasar tiempo con su esposa. Urías reveló su excelente carácter cuando se negó a entrar en su casa y quedarse en paz, mientras su ejército luchaba contra el enemigo.
+
+Cuando el plan inicial de David no funcionó, instó a Joab, el capitán del ejército del rey, a colocar a Urías en la primera línea de batalla para que enfrentara una muerte segura. La mirada lujuriosa de David condujo a un acto lujurioso, lo que llevó a un plan engañoso para matar a un hombre inocente. Las tentaciones del diablo están diseñadas para alcanzar a cada uno de nosotros en nuestro punto más débil. Si hay un punto vulnerable en nuestro carácter, el diablo explotará ese punto para llevarnos al pecado.
+
+David reconoció su culpa gracias a una parábola que le contó el profeta Natán. Con el corazón roto, el rey rompió en agonizante confesión. Su arrepentimiento fue profundo, auténtico y sincero. El Salmo 51 es su sincera súplica de perdón y de un cambio de corazón. Dios respondió la oración de David: el rey fue perdonado. Pero el perdón no implica evitar las trágicas consecuencias del pecado. A lo largo de su vida, David experimentó, de una forma u otra, las terribles consecuencias de su acto pecaminoso. Como hijo perdonado de Dios, entró en el reposo del Cielo, pero aún experimentó la angustia de su acto pecaminoso.
+
+#### COMENTARIO
+
+Una de las preguntas que inmediatamente nos viene a la mente cuando estudiamos la experiencia del romance ilícito y adúltero de David con Betsabé es por qué Dios colocó una historia tan sórdida en la Biblia. ¿Por qué revelar los detalles íntimos de la vida de David? ¿Por qué no decir simplemente que pecó y fue perdonado, y se acabó la historia? Exploremos lo que Dios nos quiere enseñar a través de esta narración.
+
+Aquí hay al menos cuatro lecciones sumamente importantes. Segundo de Samuel 11:1 es un versículo revelador. En pocas palabras, el profeta señala un defecto en el carácter de David. Era la primavera del año e Israel estaba en un serio conflicto con sus enemigos. Los reyes llevan a sus ejércitos a la batalla, pero David envió a Joab, uno de sus capitanes, a ese enfrentamiento. El pasaje dice: “Pero David se quedó en Jerusalén”. Los reyes valientes luchan junto con sus ejércitos. Ellos inspiran a sus tropas cansadas y extenuadas por la batalla para seguir luchando. David optó por quedarse en el palacio, disfrutando de las delicias de la realeza, mientras que sus hombres sufrían y morían en una guerra. Esta es la primera lección de la caída de David. Cuando no cumplimos con nuestro deber, cuando cedemos a los deseos placenteros a expensas de hacer lo correcto, nos hacemos vulnerables a las seductoras tentaciones de Satanás.
+
+La segunda lección viene inmediatamente después de la primera. Los ataques de Satanás llegan cuando menos los esperamos. David, al pasearse en la terraza de su palacio ese atardecer, no esperaba sentirse cautivado por la belleza de la esposa de otro hombre. La Nueva Traducción Viviente traduce Proverbios 4:23 de esta manera: “Sobre todas las cosas cuida tu corazón, porque este determina el rumbo de tu vida”. Salomón, el segundo hijo de David con Betsabé, escribió estas palabras. De adulto, debió de haberse enterado del pecado de David. Cuando bajamos la guardia, Satanás ataca. Por eso, Jesús dijo a sus discípulos: “Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil” (Mar. 14:38). Este era precisamente el problema de David. En un momento de descuido, la debilidad de la carne lo llevó a un pecado que cambiaría todo el curso de su vida.
+
+##### Los pensamientos pecaminosos conducen a actos pecaminosos
+
+El pecado comienza en la mente. La mirada lasciva de David lo llevó al siguiente paso, al complacer su fantasía lujuriosa. Se aventuró al terreno de Satanás cuando actuó de acuerdo con sus pensamientos y envió a sus sirvientes a preguntar por Betsabé. Sus impulsos, no controlados por el Espíritu Santo, llevaron a una indagación inapropiada para satisfacer sus deseos mediante un acto pecaminoso. Esto nos lleva a nuestra tercera lección. Aunque David trató de encubrir su relación adúltera con Betsabé, el pecado nunca podrá encubrirse por mucho tiempo. Las palabras de Moisés a los israelitas siglos antes se hicieron realidad en su experiencia: “Mas si así no lo hacéis, he aquí habréis pecado ante Jehová; y sabed que vuestro pecado os alcanzará” (Núm. 32:23). Los actos pecaminosos cometidos al amparo de la oscuridad alguna vez saldrán a la luz del día. Porque “todas las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta” (Heb. 4:13).
+
+El acto pecaminoso de David no se ocultaría por mucho tiempo. Betsabé estaba embarazada. Urías estaba muerto. Natán, el profeta, confrontó a David con el curso pecaminoso de sus acciones. La cuarta lección que descubrimos de esta primera parte de la historia es que, aunque David lloró, confesó su pecado, se arrepintió de su mal accionar y Dios lo perdonó, las consecuencias del pecado perdurarían.
+
+##### El pecado es un cáncer que destruye todo lo que toca
+
+“Edwin Cooper era famoso en todo Estados Unidos, pero casi nadie sabía su nombre real. Proveniente de una familia de payasos de circo, Cooper comenzó a actuar ante el público cuando tenía solo nueve años. Después de una temporada en el Barnum and Bailey Circus, se convirtió en un elemento fijo en la televisión en la década de 1950 como Bozo, el Payaso. Además de entretener tanto a jóvenes como a mayores, Cooper tenía un mensaje para sus “amigos y colegas” cada semana: háganse un chequeo de cáncer. Sin embargo, Cooper estaba tan ocupado trabajando que se olvidó de seguir sus propios consejos. Para cuando le detectaron cáncer, ya era demasiado tarde para tratarlo. Edwin Cooper murió a los 41 años a causa de una enfermedad de la que había advertido a muchos otros que tuvieran cuidado. El pecado es mucho más mortal que el cáncer maligno más agresivo. El pecado no toma prisioneros. El pecado mata y destruye todo lo que toca, desde la caída de Adán en el Jardín del Edén hasta ahora. Este es el propósito que está detrás de todo lo que hace Satanás. Jesús dijo: ‘El ladrón no viene sino para hurtar y matar y destruir’ (Juan 10:10)” (“No Laughing Matter”).
+
+##### El pecado de David tuvo consecuencias mortales
+
+Los resultados del pecado de David se ven a lo largo de su vida y en su propia familia: el niño que Betsabé dio a luz, como resultado del adulterio de David, enfermó y murió; su hijo Amnón forzó a su media hermana Tamar y la deshonró; por enojo, dos años después, Absalón, el hermano de Tamar, hizo asesinar a Amnón. La vida de David estuvo llena de dolor, tristeza y decepción. Absalón, el tercer hijo de David, cuya madre era Maaca, era el gran favorito de su padre. Guapo, extrovertido, aventurero y encantador, conquistó el corazón de Israel. Finalmente, se rebeló contra el liderazgo de David y murió en batalla. El corazón de David estaba destrozado. El pecado, como un cáncer, había plagado su vida. Aunque Dios lo perdonó, las consecuencias del pecado pesaban sobre él. Una de las grandes lecciones de esta historia es que el pecado tiene consecuencias trágicas.
+
+Sin embargo, a pesar de las consecuencias del pecado, Dios siempre está dispuesto a perdonar y reconstruir nuestra vida. Una de las oraciones más significativas de toda la Biblia se encuentra en el Salmo 51.
+
+##### Análisis de las súplicas de perdón de David: Salmo 51
+
+El Salmo 51 es el sincero llamado de David al perdón después de su pecado con Betsabé. Mientras leemos la oración, inmediatamente nos sorprende la autenticidad de la confesión de David. Es dolorosamente honesto. No da excusa por su pecado. Ruega a Dios por misericordia, perdón y restauración en el favor de Dios. Observa los verbos de la oración. Son indicadores poderosos de los motivos de David. Ora: “Ten piedad de mí [...] borra mis rebeliones” (Sal. 51:1). “Lávame [...] límpiame” (51:2). “Reconozco mis rebeliones, y mi pecado está siempre delante de mí” (51:3). “Purifícame”, “lávame” (51:7). “Hazme oír gozo y alegría” (51:8). “Crea en mí, oh Dios, un corazón limpio” (51:10). “No me eches de delante de ti” (Sal. 51:11). “Vuélveme el gozo de tu salvación” (51:12). Al leer la oración de David, casi podemos escuchar su sincera súplica. Nuestro corazón se conmueve por su sincera confesión. Lo maravilloso es que Dios honra el “corazón contrito y humillado” (51:17). Como dice Elena de White: “Jesús ama vernos ir a él tal como somos: pecadores, impotentes, dependientes. Podemos ir con todas nuestras debilidades, locuras y maldades, y caer arrepentidos a sus pies. Es su gloria estrecharnos en los brazos de su amor y vendar nuestras heridas, limpiarnos de toda impureza” (CC 46). David experimentó el poder purificador del perdón de Cristo. Su relación con Dios se restableció. Su espíritu se renovó. Una vez más puso su vida al servicio del Cristo que lo amaba, lo perdonó, lo limpió y lo transformó.
+
+#### APLICACIÓN A LA VIDA
+
+El pecado es un arma de doble filo. Trae no solo culpa, vergüenza y condena, sino también desesperanza y desánimo. Una vez que el diablo nos conduce a la tentación y caemos en su trampa, su siguiente paso es hacernos sentir como si no hubiera esperanza. El desánimo es una de sus armas más poderosas. Aquí te presentamos tres hechos para recordar cuando hayas caído en tentación:
+
+Cristo anhela que vayas a él tal como eres. Si, como David, acudes con un corazón honesto, sin poner excusas por tu pecado, también experimentarás el perdón de Dios.
+
+Cristo nunca, nunca, echó fuera ni rechazó a nadie que haya ido a él sinceramente en busca de su gracia. De hecho, él nos asegura que “al que a mí viene, no le echo fuera” (Juan 6:37).
+
+Las promesas de perdón y restauración de Cristo son tan seguras como su Trono eterno. Tus sentimientos no son el criterio para recibir el perdón. Quizá no te sientas perdonado. Es posible que aún tengas sentimientos de culpa, pero incluso así puedes tener la seguridad, basada en la Palabra de Dios, de que tus pecados están perdonados y de que eres un hijo de Dios.
