@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   09/07/2021
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2021-03/01/01)
-=========================================================================
+[Leben in einer 24/7-Gesellschaft](https://sabbath-school.adventech.io/de/2021-03/01/01)
+========================================================================================
 
 I: Gemeinschaft + Aktivitäten
 -----------------------------
@@ -43,10 +43,10 @@ Ideen-Sammlungen /-Anregungen:
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
 
-II: **Leben in einer 24/-Gesellschaft**
----------------------------------------
+II: Bibelstudium: **Leben in einer 24/7-Gesellschaft**
+------------------------------------------------------
 
-**STARTFRAGEN**
+### **STARTFRAGEN**
 
 -   Was fangt ihr mit dem Begriff *“24/7-Gesellschaft”* überhaupt an?
 
@@ -76,7 +76,7 @@ Uhlenbruck)
     Stress” sind?
 -   Warum haben, so scheint es, auch Pensionisten “keine Zeit” mehr?
 
-**SONNTAG**
+### **Kaputt und ausgelaugt**
 
 -   Welches Verhältnis hatten Adam und Eva eurer Meinung nach zur Zeit
     und zu ihren Aufgaben?
@@ -88,7 +88,7 @@ Leben geschaffen wurde.”'' (Martin Knecht)
 
 -   Stimmt ihr dieser Aussage zu? Begründet!
 
-**Texte: 1.Mose2,1-3; Markus 6,31**
+**1.Mose2,1-3; Markus 6,31**
 
 -   Wie intensiv war der Stress der Jünger Jesu, der im Markustext
     beschrieben wird?
@@ -117,14 +117,14 @@ wir körperliche Ruhe brauchen.”''
                 vor allem ein Gebot ist, eine Pflicht, die man zu
                 erfüllen hat?
 
-**MONTAG**
+### **Am Ende sein**
 
-**Text: Jeremia 45,1-5**
+**Jeremia 45,1-5**
 
 -   Wie würdet ihr die Situation Baruchs beschreiben?
 -   Welche Antwort gibt ihm Gott?
 
-*'<u>Dies ist ein Text, der vielleich für manche, zum Beispiel auch für
+*'<u>Dies ist ein Text, der vielleicht für manche, zum Beispiel auch für
 mich (*Anmerkung des Verfassers''),Fragen aufwirft:</u> '''
 
 -   Baruch ist in großen Nöten; und Gottes Antwort darauf ist nur:*“Es
@@ -143,7 +143,9 @@ genügen.”'' (Sophie Albrecht)
     verursachen **NICHT** ändert?
     -   In welcher Hinsicht kann uns da unser Glaube trotzdem helfen?
 
-**DIENSTAG**
+### **Wie Ruhe im Alten Testament definiert wird**
+
+**5. Mose 31,16; 2. Samuel 7,12**
 
 <u>Auf Seite 12 der Lektion werden uns verschiedene Definitionen von
 Ruhe aus dem AT geschildert:</u>
@@ -151,7 +153,7 @@ Ruhe aus dem AT geschildert:</u>
 1.  “aufhören zu arbeiten, ausruhen, Urlaub machen”
 2.  “Ruhe haben”
 3.  “Erleichterung gewähren, still sein, Frieden”
-4.  die Möglichkeit Gottes, Ruhe zu gewähren
+4.  “die Möglichkeit Gottes, Ruhe zu gewähren”
 
 -   Nach welcher Form von Ruhe sehnt ihr euch momentan am meisten?
 -   Welche Art von Ruhe kann nur Gott uns verschaffen?
@@ -164,7 +166,9 @@ Horst Bellermann)
 -   Wie können wir dazu beitragen, dass andere Menschen Ruhe finden? Zum
     Beispiel in der Gemeinde?
 
-**MITTWOCH**
+### **Ruhe im Neuen Testament**
+
+**Markus 6,30-32**
 
 -   Jesus mahnt die Jünger (und uns) zur Ruhe. Wie merkt ihr, dass ihr
     “ruhig genug” seid?
@@ -193,7 +197,9 @@ Horst Bellermann)
 sammelst Kraft, bist ausgeglichen, strahlst, und läßt alle
 teilhaben...”'' (Bruno Sörensen)
 
-**DONNERSTAG**
+### **Ein ruheloser Wanderer**
+
+**1. Mose 4,1-17**
 
 **ZITAT:**'' “Kein Wunder, so eine Familie, bei so einem Ahnen - wir
 stammen alle von Kain ab.”'' (Arthur Feldmann)
