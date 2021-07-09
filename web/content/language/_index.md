@@ -187,4 +187,7 @@ languages:
   - native: ಕನ್ನಡ
     en: Kannada
     code: kn
+  - native: Batak Toba
+    en: Batak Toba
+    code: bbc
 ---

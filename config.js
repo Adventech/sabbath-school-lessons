@@ -9,6 +9,9 @@ var BIBLE_PARSER_CONFIG = {
   "ar": [
     "svd"
   ],
+  "bbc": [
+    "bbc"
+  ],
   "bg": [
     "bg1940"
   ],

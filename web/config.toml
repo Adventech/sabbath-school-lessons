@@ -564,3 +564,12 @@ unsafe = true
 	current = "ಪ್ರಸ್ತುತ ಪಾಠ"
 	archive = "ಪಾಠ ಆರ್ಕೈವ್"
 	lang = "🇮🇳 ಕನ್ನಡ"
+
+[params.bbc]
+	title = "Parsiajaran Sikkola Sabat"
+	back = "Ahu mulak"
+	all = "Ndang"
+	todaysLesson = "Saonari parsiajaran"
+	current = "Sonari"
+	archive = "Arsipta"
+	lang = "🇮🇩 Batak Toba"
