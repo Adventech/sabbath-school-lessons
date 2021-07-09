@@ -126,6 +126,10 @@ var BIBLE_PARSER_CONFIG = {
     "m43"
   ],
 
+  "ht": [
+    "hcv"
+  ],
+
   "ja": [
     "kougo-yaku",
     "jlb"

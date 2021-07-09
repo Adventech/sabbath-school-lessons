@@ -190,4 +190,7 @@ languages:
   - native: Batak Toba
     en: Batak Toba
     code: bbc
+  - native: Kreyòl ayisyen
+    en: Haitian Creole
+    code: ht
 ---

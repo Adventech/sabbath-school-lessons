@@ -573,3 +573,12 @@ unsafe = true
 	current = "Sonari"
 	archive = "Arsipta"
 	lang = "🇮🇩 Batak Toba"
+
+[params.ht]
+	title = "Gid etid Bib la Leson Lekòl saba"
+	back = "Retounen"
+	all = "Tout leson"
+	todaysLesson = "Leson jodi a"
+	current = "Leson aktyèl la"
+	archive = "Leson achiv"
+	lang = "🇭🇹 Kreyòl ayisyen"
