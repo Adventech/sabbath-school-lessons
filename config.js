@@ -9,6 +9,9 @@ var BIBLE_PARSER_CONFIG = {
   "ar": [
     "svd"
   ],
+  "bbc": [
+    "bbc"
+  ],
   "bg": [
     "bg1940"
   ],
@@ -121,6 +124,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "hy": [
     "m43"
+  ],
+
+  "ht": [
+    "hcv"
   ],
 
   "ja": [
