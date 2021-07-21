@@ -6,27 +6,6 @@ date:   09/07/2021
 [Leben in einer 24/7-Gesellschaft](https://sabbath-school.adventech.io/de/2021-03/01/01)
 ========================================================================================
 
-I: Gemeinschaft + Aktivitäten
------------------------------
-
-**Gemeinschaft**
-
--   Wofür in den vergangenen Tagen seid ihr dankbar?
--   Im Rückblick auf die Herausforderungen der vergangenen Tage: Wo
-    wünscht ihr euch Gebetsunterstützung?
--   Was hat euren Glauben gestärkt oder herausgefordert?
--   In welchen Lebensbereichen möchtet ihr wachsen und wünscht euch
-    Unterstützung?
--   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
-
-**Ideen für Aktivitäten**\
-Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
-aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen.
-
-Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
-missionarischen Anliegen.
-
 II: Bibelstudium: **Leben in einer 24/7-Gesellschaft**
 ------------------------------------------------------
 
