@@ -193,4 +193,7 @@ languages:
   - native: Kreyòl ayisyen
     en: Haitian Creole
     code: ht
+  - native: Sinugboanon
+    en: Cebuano
+    code: ceb
 ---

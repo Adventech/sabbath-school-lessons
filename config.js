@@ -15,7 +15,9 @@ var BIBLE_PARSER_CONFIG = {
   "bg": [
     "bg1940"
   ],
-
+  "ceb": [
+    "cbv"
+  ],
   "cs": [
     "cep",
     "kralicka-1613",

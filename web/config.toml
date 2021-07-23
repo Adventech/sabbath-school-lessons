@@ -582,3 +582,12 @@ unsafe = true
 	current = "Leson aktyèl la"
 	archive = "Leson achiv"
 	lang = "🇭🇹 Kreyòl ayisyen"
+
+[params.ceb]
+	title = "Escuela Sabatica"
+	back = "Balik na"
+	all = "Kitaa tanan"
+	todaysLesson = "Leksyon karon"
+	current = "Karon nga leksyon"
+	archive = "Pagtipig sa leksyon"
+	lang = "🇵🇭 Sinugboanon"
