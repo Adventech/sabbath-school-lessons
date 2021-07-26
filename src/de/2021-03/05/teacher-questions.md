@@ -43,7 +43,7 @@ II: Wir studieren die Bibel
 Jesus lädt seine Nachfolger ein, gemeinsam mit IHM die Lebensorgen und
 –probleme zu lösen!
 
-**Text Matthäus 11,20-30**
+**Matthäus 11,20-30**
 
 -   Fragen zum Text:
     -   Gegen welchen Hintergrund spricht Jesus diese Einladung aus?
@@ -53,7 +53,7 @@ Jesus lädt seine Nachfolger ein, gemeinsam mit IHM die Lebensorgen und
     -   Welche Bedeutung hat diese Einladung für uns heute?
     -   Was könnte uns hindern, diese Einladung anzunehmen?
 
-**Text Matthäus 11,29-30**
+**Matthäus 11,29-30**
 
 -   Fragen zum Text:
     -   Spricht Jesus eine Einladung oder Befehle aus? Lässt sich beides
@@ -63,7 +63,7 @@ Jesus lädt seine Nachfolger ein, gemeinsam mit IHM die Lebensorgen und
     -   Wie wichtig ist die innere Ausgeglichenheit?
     -   Wie können wir dieses Angebot Jesu nützen?
 
-**Text Matthäus 11,29; Matthäus 5,5**
+**Matthäus 11,29; Matthäus 5,5**
 
 -   Fragen zum Text:
     -   Wie kann man Sanftmut und Demut erklären?
@@ -72,7 +72,7 @@ Jesus lädt seine Nachfolger ein, gemeinsam mit IHM die Lebensorgen und
     -   Welche persönliche Charaktereinschätzung ist für wahre Sanftmut
         und Demut notwendig?
 
-**Text Matthäus 11,30; Galater 5,1**
+**Matthäus 11,30; Galater 5,1**
 
 -   Fragen zum Text:
     -   Warum kann das von Jesus angebotene Joch als sanft beschrieben
@@ -82,13 +82,12 @@ Jesus lädt seine Nachfolger ein, gemeinsam mit IHM die Lebensorgen und
 -   Fragen zur Botschaft:
     -   Wie hängen Gesetz (Unterweisung) Gottes und Freiheit zusammen?
 
-**Text Matthäus 11,30; Galater 6,1-2**
+**Matthäus 11,30; Galater 6,1-2**
 
--   -   Anmerkung: Die griechischen Begriffe für Last in Mt 11,30 und
-        Gal 6,2 sind unterschiedlich! In Mt 11,30 finden wir *phortion*,
-        das eigentlich Schiffslast bedeutet, während im Gal 6,2 *baros*
-        verwendet wird, welches die Schwere der Tagesarbeit, das Gewicht
-        oder die Fülle beschreibt!
+Anmerkung: Die griechischen Begriffe für Last in Mt 11,30 und Gal 6,2
+sind unterschiedlich! In Mt 11,30 finden wir *phortion*, das eigentlich
+Schiffslast bedeutet, während im Gal 6,2 *baros* verwendet wird, welches
+die Schwere der Tagesarbeit, das Gewicht oder die Fülle beschreibt!
 
 -   Fragen zum Text:
     -   Welche Last trug Mose?
@@ -100,8 +99,8 @@ Jesus lädt seine Nachfolger ein, gemeinsam mit IHM die Lebensorgen und
 ### Schlussüberlegung
 
 Sind wir bereit die Einladung Jesu anzunehmen und die Last, die er uns
-auferlegt, im täglichen leben zu tragen? Welche Änderungen sind in einer
-Gemeinde notwendig um einander zu helfen die Lasten des Alltages zu
+auferlegt, im täglichen Leben zu tragen? Welche Änderungen sind in einer
+Gemeinde notwendig, um einander zu helfen die Lasten des Alltages zu
 tragen?
 
 <center>
