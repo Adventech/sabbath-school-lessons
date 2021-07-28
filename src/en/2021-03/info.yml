@@ -7,3 +7,16 @@
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
   quarterly_name: "Standard Adult"
+  features:
+    - egw-quotes
+  credits:
+    - name: Principal Contributor
+      value: "Gerald and Chantal Klingbeil"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Homayouni"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
