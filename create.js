@@ -296,16 +296,6 @@ var LOCALE_VARS = {
     "zu": "Inside Story"
   },
 
-  "quarterly_name": {
-    "en": {
-      "default": "Standard Adult",
-      "er": "Easy Reading",
-      "cq": "InVerse",
-      "iv": "InVerse",
-      "45-sec": "45 Second version"
-    }
-  },
-
   "tmi": {
     "ko": "TMI"
   }
@@ -326,6 +316,8 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
       start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
+
+  let credits = null;
 
   console.log("Creating file structure for new quarterly. Please do not abort execution");
 
@@ -381,6 +373,16 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
     quarterlyColorDark = "#333333";
   }
 
+  if (fs.existsSync(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`)) {
+    credits = yamljs.load(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`);
+
+    try {
+      credits = credits['credits']
+    } catch (e) {
+      credits = null
+    }
+  }
+
   if (quarterlyHumanDate === true) {
     let quarter = quarterlyId.substr(quarterlyId.indexOf("-")+1,2);
     let year = quarterlyId.substr(0, quarterlyId.indexOf("-"));
@@ -396,13 +398,6 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
     quarterlyHumanDate = q;
   }
 
-  let quarterlyName = null
-  let quarterlyType = quarterlyId.substr(8) || "default"
-
-  if (quarterlyType && LOCALE_VARS["quarterly_name"][quarterlyLanguage] && LOCALE_VARS["quarterly_name"][quarterlyLanguage][quarterlyType]) {
-    quarterlyName = LOCALE_VARS["quarterly_name"][quarterlyLanguage][quarterlyType]
-  }
-
   let quarterlyInfoYaml = `---\n  title: "${quarterlyTitle}"
   description: "${quarterlyDescription}"
   human_date: "${quarterlyHumanDate}"
@@ -411,8 +406,12 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   color_primary: "${quarterlyColorPrimary}"
   color_primary_dark: "${quarterlyColorDark}"`;
 
-  if (quarterlyName) {
-    quarterlyInfoYaml += `\n  quarterly_name: "${quarterlyName}"`
+  if (credits) {
+    quarterlyInfoYaml += `\n  credits:`;
+    for (credit of credits) {
+      quarterlyInfoYaml += `\n    - name: ${credit.name}`;
+      quarterlyInfoYaml += `\n      value: ${credit.value ? credit.value : "\"\""}`
+    }
   }
 
   fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", quarterlyInfoYaml);
