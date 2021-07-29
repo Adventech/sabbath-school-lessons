@@ -219,6 +219,14 @@ let processCoverImages = function () {
       fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
     }
   }
+
+  let splash = glob.sync(`images/global/${compile_quarter}/${SOURCE_SPLASH_FILE}`);
+  for (let i = 0; i < splash.length; i++) {
+    fs.copySync(splash[i], splash[i].replace("images/global", DIST_DIR + "images/global"));
+    if (!/master|stage/i.test(branch)) {
+      fs.copySync(splash[i], splash[i].replace("images/global", "web/static/img/global"));
+    }
+  }
 };
 
 // Processing other images
@@ -322,6 +330,10 @@ let getQuarterlyJSON = function (quarterlyPath) {
   if (fs.existsSync(`${quarterlyPath}/${SOURCE_SPLASH_FILE}`)) {
     fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
     quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
+  } else {
+    if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+    }
   }
 
   try {
