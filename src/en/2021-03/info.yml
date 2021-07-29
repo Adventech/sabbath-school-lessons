@@ -7,8 +7,7 @@
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
   quarterly_name: "Standard Adult"
-  features:
-    - egw-quotes
+  splash: true
   credits:
     - name: Principal Contributor
       value: "Gerald and Chantal Klingbeil"
