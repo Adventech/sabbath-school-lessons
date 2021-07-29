@@ -4,5 +4,11 @@
   human_date: "Julio · Agosto · Septiembre 2021"
   start_date: "26/06/2021"
   end_date: "24/09/2021"
-  color_primary: "#1E6D8A"
-  color_primary_dark: "#005D7F"
+  color_primary: "#553F2D"
+  color_primary_dark: "#4B3521"
+  splash: true
+  credits:
+    - name: Autores
+      value: Chantal y Gerald Klingbeil
+    - name: Dirección general
+      value: Clifford Goldstein
