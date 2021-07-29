@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Комментарий для учителей
+    description: Комментрарий для учителей поможет подготовиться к проведению обсуждения урока Субботней Школы
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Цитаты Эллен Уайт
+    description: Избранные цитаты Эллен Уайт помогут глубже понять смысл урока
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Миссионерская история
+    description: Читайте миссионерские истории со всего мира
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Аудио
+    description: Для удобства в изучении используйте аудио версии урока Субботней Школы
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Видео
+    description: Видео версия урока Субботей Школы доступна для удобства в изучении
+    image: "v1/images/features/feature_video.png"
