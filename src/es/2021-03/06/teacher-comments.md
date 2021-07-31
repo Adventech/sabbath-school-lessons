@@ -1,0 +1,54 @@
+---
+title: 'El Sábado enseñaré'
+date: 06/08/2021
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+Para muchos, el título de la lección de esta semana puede parecer un poco extraño. ¿Cómo puedes hallar descanso en los lazos familiares, si tu familia es disfuncional? ¿Qué sucede si tienes un padre autoritario y dominante? ¿Quizá tienes poca o ninguna relación con tu madre? Y ¿qué ocurre si hay intensas rivalidades entre hermanos? Por supuesto, hay muchas familias con estrechos lazos afectivos. El hogar es un lugar de apoyo donde el amor se expresa abiertamente. Pero esto no es siempre así.
+
+Podemos cobrar ánimo con la experiencia de José. Rechazado por sus hermanos celosos, vendido como esclavo, separado de su familia, condenado injustamente y encarcelado, aún mantuvo su fe. Las pruebas que vivió no lo amargaron; lo llevaron a confiar más en Dios. Mediante estas pruebas, Dios estaba moldeando su carácter y preparándolo para una posición de honor en el reino egipcio. Un día, como consejero de confianza y supervisor de vastos recursos, se sentaría con el faraón en el trono de Egipto.
+
+La lección de esta semana se centra en dos verdades eternas. En primer lugar, el hecho de que atravesemos pruebas y enfrentemos dificultades no significa de ninguna manera que Dios nos haya abandonado o que nos ame menos. El amor de Dios nos llega donde estamos sin importar lo que la vida nos depare. En segundo lugar, los desafíos que enfrentamos a menudo nos preparan para algo mucho más grande de lo que podemos imaginar. Dios tiene un plan a pesar de todo, y está obrando para lograr su propósito final en nuestra vida. La historia de José es la historia de un joven que fue fiel a Dios en medio de una relación familiar disfuncional, pero Dios finalmente lo usó para salvar a su familia y restaurar la relación perdida.
+
+#### COMENTARIO
+
+El revolucionario estudio titulado Cunas de eminencia analiza las experiencias de la infancia de más de cuatrocientas personas consideradas “eminentes” por los autores Víctor y Mildred George Goertzel, ambos psicólogos. Eminente se define como superior o que logra la excelencia en su esfera, en contraposición a tener talentos naturales. Estos son científicos, políticos, estrellas de cine, empresarios, autores, dramaturgos y héroes deportivos. La pregunta que plantearon los Goertzel fue: ¿Qué experiencias de la primera infancia dieron forma a la vida futura de estas personas destacadas?
+
+Lo que descubrieron los sorprendió. Muchas de estas personas experimentaron traumas infantiles. Algunos tenían poca salud, otros se criaron en familias disfuncionales y otros sufrieron heridas importantes en la infancia. Varios de estos niños que alcanzaron la excelencia fueron criados en familias amorosas y comprensivas. La impactante verdad de Cunas de eminencia es que nuestras decisiones fundamentales y el descubrimiento de nuestro verdadero propósito en la vida son más importantes que nuestro entorno o la genética para determinar las alturas que alcanzamos y las contribuciones que hacemos a la sociedad.
+
+Esto, sin duda, fue así en la historia de José. Piensa en su origen genético por un momento. Provenía del linaje de Abraham, Isaac y Jacob, que estaba manchado por el pecado. Había mentirosos y ladrones en su árbol genealógico. Su hogar paterno estaba marcado por la disfunción. El favoritismo de su padre enfureció a sus hermanos; estos exhibieron celos, codicia y amargura. La solución: deshacerse de José. Piensa en el viaje de José, y recuerda su genética y su entorno familiar disfuncional.
+
+##### Los desafíos de José
+
+José fue vendido como esclavo cuando tenía 17 años (Gén. 37:2). En Egipto, después de servir fielmente en la casa de Potifar, José fue injustamente condenado y erróneamente encarcelado. Incluso después de interpretar con éxito los sueños del panadero y el mayordomo (después de tres días, como predijo José, el mayordomo fue liberado y volvió a asumir su puesto al servicio del faraón), José quedó languideciendo en prisión durante dos años más. Cuando el faraón soñó con las siete vacas gordas y las siete vacas flacas, y con las siete espigas llenas de trigo y las siete espigas vacías, el mayordomo se acordó de José. Según Génesis 41:46, José tenía ahora treinta años. Habían pasado trece difíciles años. Durante todo este tiempo, José había permanecido fiel a Dios. Su fe inquebrantable, su integridad admirable y su sabiduría previsora lo colocaron en una posición ventajosa con el faraón y se convirtió en la segunda autoridad del Imperio Egipcio.
+
+##### La fidelidad de José/Las bendiciones de Dios
+
+Las experiencias de los últimos trece años habían preparado a José para el momento actual. Trece años antes, en la casa de Potifar, la Escritura declara: “Y vio su amo que Jehová estaba con él, y que todo lo que él hacía, Jehová lo hacía prosperar en su mano” (39:3). El pasado de José no determinó su presente. Fue fiel a Dios y recibió el favor de Dios, incluso en las circunstancias más difíciles. Cuando la esposa de Potifar continuamente le hacía insinuaciones no deseadas a José, él huía. Sus palabras en respuesta a ella son clásicas: “¿Cómo, pues, haría yo este grande mal, y pecaría contra Dios?” (39:9). Cuando lo encarcelaron injustamente, su capacidad de liderazgo y su reputación inmaculada impresionaron al carcelero. Una vez más, José ascendió a una posición de liderazgo. Dios lo favoreció. El relato dice: “Pero Jehová estaba con José y le extendió su misericordia, y le dio gracia en los ojos del jefe de la cárcel” (Gén. 39:21). Después de interpretar los sueños del mayordomo y del panadero, José no se puso demasiado ansioso por su encarcelamiento; se propuso confiar en Dios y hacer lo mejor en la tarea que tenía más a mano. Cuando finalmente lo llamaron para interpretar el sueño del faraón, no se atribuyó ningún mérito. Simplemente, dijo: “No está en mí; Dios será el que dé respuesta propicia a Faraón” (41:16). Cuando el faraón entendió el sueño y su significado, eligió a José para que construyera los graneros a fin de conservar el grano durante los siete años de abundancia, porque el “Espíritu de Dios” estaba en él y José era “entendido” y “sabio” (41:38, 39).
+
+Ni la genética ni el entorno de José determinaron su futuro, sino su decisión de confiar en Dios. Su fe trascendió su entorno. Esta cita de Aristóteles habla del valor de las decisiones positivas sin importar nuestra situación o entorno: “La excelencia nunca es un accidente. Siempre es el resultado de una elevada intención, un esfuerzo sincero y una ejecución inteligente; representa la sabia elección de muchas alternativas: la decisión, no el azar, determina tu destino” (www.keepinspiringme/Aristotle-quotes, consultado el 6/2/2020).
+
+##### Las pruebas de José lo prepararon para el éxito
+
+El factor más importante en la fidelidad de José a Dios fue haber reconocido que las circunstancias de su vida no determinaban su relación con Dios. Dios lo cuidó, lo amó y lo fortaleció en cada circunstancia de la vida. Sus difíciles circunstancias no reflejaban la preocupación de Dios por él. Precisamente era todo lo contrario. Como dice tan poderosamente Elena de White:
+
+“Las pruebas y los obstáculos son los métodos de disciplina que el Señor escoge y las condiciones que señala para el éxito. El que lee los corazones de los hombres conoce sus caracteres mejor que ellos mismos. [...]
+
+“El hecho de que somos llamados a soportar pruebas demuestra que el Señor Jesús ve en nosotros algo precioso que desea desarrollar. Si no viera en nosotros nada con lo cual glorificar su nombre, no perdería tiempo en refinarnos. No echa piedras inútiles en su hornillo. Lo que él refina es mineral precioso. El herrero coloca el hierro y el acero en el fuego para saber qué clase de metal son. El Señor permite que sus escogidos pasen por el horno de la aflicción para probar su temperamento y saber si pueden ser amoldados para su obra” (MC 373, 374).
+
+Tardó trece años muy desafiantes, pero Dios estaba preparando a José para algo mucho más grande. José no tenía idea de cuáles eran los planes de Dios. Difícilmente podía imaginar que pasaría del pozo a la prisión, y de allí al palacio. En su sabiduría previsora, Dios estaba obrando para el bien de José. A través de este hombre, Dios salvaría a una nación. La estadía de José en Egipto no solo preservó al país en una época de hambruna; también salvó a Israel del hambre.
+
+José nunca se olvidó de que Dios tenía un plan eterno para su vida. Como Isaías escribió siglos después: “Pero ahora, así dice el SEÑOR, que te creó, oh Jacob, y el que te formó, oh Israel: ‘Ahora, así dice Jehová, Creador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, porque yo te redimí; te puse nombre, mío eres tú. Cuando pases por las aguas, yo estaré contigo; y si por los ríos, no te anegarán. Cuando pases por el fuego, no te quemarás, ni la llama arderá en ti’ ” (Isa. 43:1, 2). La eterna promesa de Dios para José y cada uno de sus seguidores es que somos “de gran estima [...] honorable[s]” y amados” (Isa. 43:4). Él nunca nos dejará ni nos desamparará (Heb. 13:5). Más allá de nuestro origen, nuestro entorno, nuestra situación familiar, él está allí para animarnos y apoyarnos. Él está allí para levantar nuestra vista de lo que es a lo que será, por su gracia. Él está allí para inspirarnos con sus planes más amplios para nuestra vida.
+
+#### APLICACIÓN A LA VIDA
+
+Algunos, en nuestra clase de Escuela Sabática, vienen de hogares maravillosos y piadosos. Otros provienen de hogares destruidos o donde las condiciones eran, o son, poco deseables. No importa cómo sea (o haya sido) nuestra vida familiar, cada uno de nosotros (al igual que José) pasará por algunas experiencias difíciles en la vida. La lección de Escuela Sabática de esta semana realmente tiene un pensamiento central: Dios no nos abandona cuando enfrentamos los desafíos de la vida. Si, como José, elegimos ser fieles a Dios en los tiempos difíciles, él nos preparará para algo mucho más grande de lo que podamos imaginar.
+
+Lean el Salmo 139:17 y 18 en clase, y pide a tu clase que comparta la diferencia que marca este pasaje al atravesar por tiempos difíciles.
+
+Efesios 2:19 y 20 describe a una familia comprensiva, de la que somos parte en Cristo. Dedica un momento en clase a leer personalmente este pasaje y lo que significa para ti personalmente. Reflexiona en la idea de que, a través de Cristo, eres miembro de la “familia de Dios”. ¿Qué significa eso para ti en términos prácticos?
+
+Durante esta semana, recuerda la experiencia de José. Él fue fiel a Dios durante trece largos y difíciles años. Durante todo este tiempo, la bendición de Dios estuvo sobre su vida. La fidelidad en el presente y la confianza en Dios hoy te prepararán y te abrirán las puertas para un futuro más allá de tu imaginación.

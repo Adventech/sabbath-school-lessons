@@ -53,7 +53,7 @@ II: Wir studieren die Bibel
 
 -   Fragen zum Text:
     -   Nach den Botschaften in den Kapiteln 1-35 (meist poetisch) und
-        der Beschreibug historischer Krisen in den Kapiteln 36-39,
+        der Beschreibung historischer Krisen in den Kapiteln 36-39,
         beginnt in Jesaja 40 ein neuer, poetischer Buchabschnitt
         (40-66). Warum wird der neue Abschnitt des Buches gerade mit
         einem doppelten Trostruf eingeleitet? Welche historischen
@@ -133,7 +133,7 @@ II: Wir studieren die Bibel
     -   In Jesaja 40,12-31 geht es um Gott. Wie stellt er sich für euch
         hier dar? Woran erkennt ihr die Größe Gottes? Woran die Nähe
         Gottes?
-    -   Jesja 40,29-31 zählt zu den schönsten Verheißungen der Bibel.
+    -   Jesaja 40,29-31 zählt zu den schönsten Verheißungen der Bibel.
         Was meint Gott damit in diesem Zusammenhang?
 -   Fragen zur Botschaft:
     -   Welche Art von Klagen hören wir heute von Nichtchristen? Von

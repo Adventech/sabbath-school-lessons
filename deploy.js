@@ -58,7 +58,7 @@ let donationNotice = {
     "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
     "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
     "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
-    "<p><strong><a href=\"https://zrzutka.pl/87vbnb\">https://zrzutka.pl/87vbnb</a></strong></p>\n" +
+    "<p><strong><a href=\"https://zrzutka.pl/wxbas9\">https://zrzutka.pl/wxbas9</a></strong></p>\n" +
     "<p><em>Zespół Adventech</em></p>" +
     "</div>\n" +
     "</div>"
@@ -89,6 +89,16 @@ let API_HOST = "https://sabbath-school.adventech.io/api/",
     FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
     FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
     FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
+
+const DAYS_MAP = new Map([
+  ['01', 'Saturday'],
+  ['02', 'Sunday'],
+  ['03', 'Monday'],
+  ['04', 'Tuesday'],
+  ['05', 'Wednesday'],
+  ['06', 'Thursday'],
+  ['07', 'Friday'],
+])
 
 let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
@@ -308,7 +318,7 @@ let languagesAPI = async function () {
 
 let quarterliesAPI = async function () {
   console.log('Deploying quarterlies API');
-  let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, 6));
+  let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, x.length-1));
 
   for (let language of languages) {
     let quarterlies = glob.sync(`src/${language}/${compile_quarter}/`).sort(function (a, b) {
@@ -419,8 +429,11 @@ let lessonAPI = async function () {
 let dayAPI = async function () {
   console.log('Deploying day API');
   let days = glob.sync(`src/${compile_language}/${compile_quarter}/**/*.md`);
+  let dayIndex = 0
+  let prevWeek = null
 
   for (let dayId of days) {
+
     let dayJSON = getDayJSON(dayId, true);
     let day = dayJSON[1],
         _day = dayJSON[0],
@@ -428,6 +441,12 @@ let dayAPI = async function () {
         read = {},
         meta = null,
         resultRead;
+
+    if (prevWeek !== info.lesson) {
+      dayIndex = 0
+    }
+    dayIndex++
+    prevWeek = info.lesson
 
     try {
       meta = JSON.parse(JSON.stringify(day.meta));
@@ -505,7 +524,16 @@ let dayAPI = async function () {
     fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
 
     let lesson = getLessonJSON(dayId.replace(dayId.split("/").pop(), ''));
-    meta.slug = slug(read.title);
+
+    var slugId = '';
+    let dayName = DAYS_MAP.get(read.id);
+    if (dayName === undefined) {
+      slugId = `${String(dayIndex).padStart(2, '0')} ${read.title}`;
+    } else {
+      slugId = `${String(dayIndex).padStart(2, '0')} ${dayName} ${read.title}`;
+    }
+
+    meta.slug = slug(slugId);
     meta.aliases = `/${info.language}/${info.quarterly}/${info.lesson}/${info.day}`;
     meta.lesson = convertDatesForWeb(lesson);
     meta.cover = lesson.cover;
@@ -520,11 +548,15 @@ let dayAPI = async function () {
   processMiscImages();
   processAssetImages();
 
-  await dayAPI();
-  await lessonAPI();
-  await quarterlyAPI();
-  await quarterliesAPI();
-  await languagesAPI();
+  try {
+    await dayAPI();
+    await lessonAPI();
+    await quarterlyAPI();
+    await quarterliesAPI();
+    await languagesAPI();
+  } catch (e) {
+    console.error(e)
+  }
 })()).then(() => {
   db.goOffline();
   firebase.app().delete();

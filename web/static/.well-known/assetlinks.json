@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cryart.sabbathschool",
+      "sha256_cert_fingerprints": [
+        "E2:E5:10:9A:78:25:65:BD:96:C6:20:23:5E:9F:2E:79:16:58:3A:88:34:74:77:09:34:CB:A4:8A:49:86:3F:0B"
+      ]
+    }
+  }
+]

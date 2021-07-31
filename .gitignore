@@ -8,3 +8,4 @@ web/content/*
 web/static/img/global
 test
 deploy-creds-*
+.vscode

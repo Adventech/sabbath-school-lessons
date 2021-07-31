@@ -58,7 +58,7 @@ Below is current list of languages and capabilities implemented
 |🇮🇳 Hindi|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇵🇭 Hiligaynon|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇭🇺 Hungarian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
-|🇯🇵 Japanese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
+|🇯🇵 Japanese|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇮🇸 Icelandic|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇵🇭 Ilocano|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇮🇩 Indonesian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
