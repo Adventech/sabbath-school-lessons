@@ -79,6 +79,7 @@ let API_HOST = "https://sabbath-school.adventech.io/api/",
     SOURCE_DIR = "src/",
     SOURCE_INFO_FILE = "info.yml",
     SOURCE_COVER_FILE = "cover.png",
+    SOURCE_SPLASH_FILE = "splash.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
     WEB_DIR = "web/content/",
     BIBLE_PARSER_CONFIG = require("./config.js"),
@@ -218,6 +219,14 @@ let processCoverImages = function () {
       fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
     }
   }
+
+  let splash = glob.sync(`images/global/${compile_quarter}/${SOURCE_SPLASH_FILE}`);
+  for (let i = 0; i < splash.length; i++) {
+    fs.copySync(splash[i], splash[i].replace("images/global", DIST_DIR + "images/global"));
+    if (!/master|stage/i.test(branch)) {
+      fs.copySync(splash[i], splash[i].replace("images/global", "web/static/img/global"));
+    }
+  }
 };
 
 // Processing other images
@@ -228,6 +237,17 @@ let processMiscImages = function () {
     fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
     if (!/master|stage/i.test(branch)) {
       fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
+    }
+  }
+};
+
+let processFeaturesImages = function () {
+  console.log('Processing features images');
+  let files = glob.sync("images/features/*.{png,jpg,jpeg}");
+  for (let i = 0; i < files.length; i++) {
+    fs.copySync(files[i], files[i].replace("images/features", DIST_DIR + "images/features"));
+    if (!/master|stage/i.test(branch)) {
+      fs.copySync(files[i], files[i].replace("images/features", "web/static/img/features"));
     }
   }
 };
@@ -250,9 +270,70 @@ let getQuarterlyJSON = function (quarterlyPath) {
   quarterly.index = `${info.language}-${info.quarterly}`;
   quarterly.path = `${info.language}/quarterlies/${info.quarterly}`;
   quarterly.full_path = `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}`;
+  quarterly.introduction = quarterly.description
 
-  if (quarterly.quarterly_name) {
-    quarterly.group = `${quarterly.index.substring(0, 10)}`
+  if (fs.pathExistsSync(quarterlyPath + "/introduction.md")) {
+    quarterly.introduction = fs.readFileSync(quarterlyPath + "/introduction.md", "utf-8")
+  }
+
+  if (quarterly.credits) {
+    quarterly.credits = quarterly.credits.filter(item => item.value.length)
+  }
+
+  if (fs.existsSync(`src/${compile_language}/features.yml`)) {
+    let quarterly_features = []
+    let features = yamljs.load(`src/${compile_language}/features.yml`);
+
+    for (let key of Object.keys(features)) {
+      features[key].image = `${API_HOST}${features[key].image}`
+    }
+
+    if (quarterly.features && quarterly.features.length) {
+      for (let feature of quarterly.features) {
+        if (feature && features[feature]) {
+          quarterly_features.push(features[feature])
+        }
+      }
+    }
+
+    let inside_stories = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/inside-story.md`);
+
+    if (inside_stories.length && features['inside-story']) {
+      quarterly_features.push(features['inside-story'])
+    }
+    let teacher_comments = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/teacher-comments.md`);
+
+    if (teacher_comments.length && features['teacher-comments']) {
+      quarterly_features.push(features['teacher-comments'])
+    }
+
+    quarterly.features = quarterly_features.filter((thing, index) => {
+      const _thing = JSON.stringify(thing);
+      return index === quarterly_features.findIndex(obj => {
+        return JSON.stringify(obj) === _thing;
+      });
+    });
+  }
+
+  if (fs.existsSync(`src/${compile_language}/groups.yml`)) {
+    let groups = yamljs.load(`src/${compile_language}/groups.yml`);
+    let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
+    if (!quarterly_group.length) {
+      quarterly_group = 'default'
+    }
+
+    if (quarterly_group.length && groups[quarterly_group]) {
+      quarterly.quarterly_group = groups[quarterly_group]
+    }
+  }
+
+  if (fs.existsSync(`${quarterlyPath}/${SOURCE_SPLASH_FILE}`)) {
+    fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
+    quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
+  } else {
+    if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+    }
   }
 
   try {
@@ -428,7 +509,7 @@ let lessonAPI = async function () {
 
 let dayAPI = async function () {
   console.log('Deploying day API');
-  let days = glob.sync(`src/${compile_language}/${compile_quarter}/**/*.md`);
+  let days = glob.sync(`src/${compile_language}/${compile_quarter}/+(0|1|2|3|4|5|6|7|8|9)/*.md`);
   let dayIndex = 0
   let prevWeek = null
 
@@ -546,6 +627,7 @@ let dayAPI = async function () {
 ((async function () {
   processCoverImages();
   processMiscImages();
+  processFeaturesImages();
   processAssetImages();
 
   try {

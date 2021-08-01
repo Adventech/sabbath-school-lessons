@@ -6,3 +6,8 @@
   end_date: "24/09/2021"
   color_primary: "#6FAEC7"
   color_primary_dark: "#3F8BA9"
+  credits:
+    - name: Автор
+      value: Шанталь и Геральд Клингбейл
+    - name: Редактор
+      value: Клиффорд Гольдштейн
