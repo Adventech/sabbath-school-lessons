@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Lehrerteil
+    description: Bereiten Sie sich darauf vor, die Unterrichtsdiskussion in der Sabbatschule mit dieser Lehrerausgabe zu erleichtern
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ausgewählte Zitate von Ellen G. White
+    description: Erweitern Sie Ihr Studium mit zusätzlichen ausgewählten Zitaten aus den Schriften von Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Mit Gott erlebt
+    description: Lesen Sie inspirierende Missionsgeschichten aus der ganzen Welt
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Hören Sie sich die Lektion unterwegs mit der Audioversion an
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Sehen Sie sich die wöchentliche Unterrichtsdiskussion an, um Ihr Studium zu vertiefen
+    image: "v1/images/features/feature_video.png"

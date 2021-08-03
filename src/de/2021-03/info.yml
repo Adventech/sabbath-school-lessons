@@ -6,3 +6,15 @@
   end_date: "24/09/2021"
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Chantal und Gerald Klingbeil"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: Redakteurin
+      value: "Soraya Homayouni"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"
