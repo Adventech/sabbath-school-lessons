@@ -280,9 +280,9 @@ let getQuarterlyJSON = function (quarterlyPath) {
     quarterly.credits = quarterly.credits.filter(item => item.value.length)
   }
 
-  if (fs.existsSync(`src/${compile_language}/features.yml`)) {
+  if (fs.existsSync(`src/${info.language}/features.yml`)) {
     let quarterly_features = []
-    let features = yamljs.load(`src/${compile_language}/features.yml`);
+    let features = yamljs.load(`src/${info.language}/features.yml`);
 
     for (let key of Object.keys(features)) {
       features[key].image = `${API_HOST}${features[key].image}`
@@ -314,9 +314,8 @@ let getQuarterlyJSON = function (quarterlyPath) {
       });
     });
   }
-
-  if (fs.existsSync(`src/${compile_language}/groups.yml`)) {
-    let groups = yamljs.load(`src/${compile_language}/groups.yml`);
+  if (fs.existsSync(`src/${info.language}/groups.yml`)) {
+    let groups = yamljs.load(`src/${info.language}/groups.yml`);
     let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
     if (!quarterly_group.length) {
       quarterly_group = 'default'
@@ -631,8 +630,8 @@ let dayAPI = async function () {
   processAssetImages();
 
   try {
-    await dayAPI();
-    await lessonAPI();
+    //await dayAPI();
+    //await lessonAPI();
     await quarterlyAPI();
     await quarterliesAPI();
     await languagesAPI();
