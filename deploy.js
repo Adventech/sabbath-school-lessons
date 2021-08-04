@@ -630,8 +630,8 @@ let dayAPI = async function () {
   processAssetImages();
 
   try {
-    //await dayAPI();
-    //await lessonAPI();
+    await dayAPI();
+    await lessonAPI();
     await quarterlyAPI();
     await quarterliesAPI();
     await languagesAPI();
