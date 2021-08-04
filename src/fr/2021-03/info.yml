@@ -6,3 +6,15 @@
   end_date: "24/09/2021"
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "Gerald et Chantal Klingbeil"
+    - name: Éditeur
+      value: "Clifford R. Goldstein"
+    - name: Éditeur associé
+      value: "Soraya Homayouni"
+    - name: Directeur de Publication
+      value: "Lea Alexander Greve"
+    - name: Adjointe à la rédaction
+      value: "Sharon Thomas-Crews"
