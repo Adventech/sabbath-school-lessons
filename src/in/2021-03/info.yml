@@ -6,3 +6,9 @@
   end_date: "24/09/2021"
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
+  splash: true
+  credits:
+    - name: Penulis Pelajaran
+      value: "Gerald and Chantal Klingbeil"
+    - name: Editor
+      value: "Clifford R. Goldstein"
