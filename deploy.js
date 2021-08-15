@@ -74,6 +74,8 @@ let firebase = require("firebase-admin"),
 
 const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
 
+const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
+
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     API_VERSION = "v1",
     SOURCE_DIR = "src/",
@@ -112,30 +114,9 @@ let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU
     .demand(["b"])
     .argv;
 
-let getCompilationQuarterValue = function (d) {
-  d = d || new Date();
-  let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),
-      nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
-
-  return "+(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")*";
-};
-
 let branch = argv.b,
     compile_language = argv.l || "*",
     compile_quarter = argv.q || getCompilationQuarterValue();
-
-let getInfoFromPath = function (path) {
-  let infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
-      matches = infoRegExp.exec(path),
-      info = {};
-
-  info.language = matches[1] || null;
-  info.quarterly = matches[2] || null;
-  info.lesson = matches[3] || null;
-  info.day = (matches[4]) ? matches[4].replace(".md", "") : null;
-
-  return info;
-};
 
 let renderer = new metaMarked.noMeta.Renderer();
 
