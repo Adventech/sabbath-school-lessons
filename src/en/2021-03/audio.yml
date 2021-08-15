@@ -34,3 +34,7 @@
       tracks:
         - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/B9/3lJJt-sJ4XFvNox0CSW3TVPohBZenWORYex1OfeFA/hss-20q3-20e8-20ex-390.mp3
           target: en/2021-03/08
+    - artist: The Sound of Scripture
+      tracks:
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_27_1_NKJV.mp3
+          target: en/2021-03/08
