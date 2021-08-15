@@ -5,12 +5,10 @@ let firebase = require("firebase-admin"),
     yamljs = require("yamljs"),
     fs = require("fs-extra"),
     crypto = require('crypto'),
-    url = require("url"),
+    metaMarked = require("meta-marked"),
     path = require("path");
 
 const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper')
-
-console.log(getCompilationQuarterValue())
 
 let argv = require("optimist").usage("Compile & deploy audio - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
@@ -30,15 +28,18 @@ let branch = argv.b,
     mode = argv.m || "sync";
 
 let API_HOST = "https://sabbath-school.adventech.io/api/",
+    MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
     API_VERSION = "v1",
     SOURCE_DIR = "src/",
     SOURCE_AUDIO_FILE = "audio.yml",
     SOURCE_COVER_FILE = "cover.png",
-    DIST_DIR = "dist/api/" + API_VERSION + "/";
+    DIST_DIR = "dist/api/" + API_VERSION + "/",
+    FIREBASE_DATABASE_AUDIO = "/api/" + API_VERSION + "/audio";
 
 let db
 if (branch.toLowerCase() === "master") {
     API_HOST = "https://sabbath-school.adventech.io/api/";
+    MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
     firebase.initializeApp({
         databaseURL: "https://blistering-inferno-8720.firebaseio.com",
         credential: firebase.credential.cert(require('./deploy-creds.json')),
@@ -49,6 +50,7 @@ if (branch.toLowerCase() === "master") {
     db = firebase.database();
 } else if (branch.toLowerCase() === "stage") {
     API_HOST = "https://sabbath-school-stage.adventech.io/api/";
+    MEDIA_HOST = "https://sabbath-school-media-stage.adventech.io/",
     firebase.initializeApp({
         databaseURL: "https://sabbath-school-stage.firebaseio.com",
         credential: firebase.credential.cert(require('./deploy-creds-stage.json')),
@@ -113,15 +115,30 @@ let audioAPI = async function (mode) {
                     }
                 }
 
-                // TODO: Generate title if doesnt exist
-
-                audioInfo.audio.push(audioItem)
-
                 let extname = path.extname(audioItem.src)
 
                 if (!extname.length || extname.length <= 1) {
                     extname = ".mp3"
                 }
+
+                audioItem.src = `${MEDIA_HOST}audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`
+
+                if (!audioItem.title) {
+                    let audioItemInfo = getInfoFromPath(`src/${audioItem.target}`)
+                    if (!audioItemInfo.lesson) {
+                        continue
+                    }
+
+                    if (audioItemInfo.day) {
+                        let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/${audioItemInfo.day}.md`, "utf-8"))
+                        audioItem.title = read.meta.title
+                    } else {
+                        let lesson = yamljs.load(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/info.yml`)
+                        audioItem.title = lesson.title
+                    }
+                }
+
+                audioInfo.audio.push(audioItem)
 
                 if (mode === "keep" && fs.pathExistsSync(`audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`)) {
                     let stats = fs.statSync(`audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`);
@@ -143,7 +160,8 @@ output = "audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.i
         }
 
         if (mode === "sync") {
-            // TODO: firebase upload
+            await db.ref(FIREBASE_DATABASE_AUDIO).child(`${info.language}-${info.quarterly}`).set(audioInfo);
+
             if (audioInfo.audio.length) {
                 fs.outputFileSync(`${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/audio.json`, JSON.stringify(audioInfo));
             }
