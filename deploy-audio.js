@@ -151,16 +151,16 @@ let audioAPI = async function (mode) {
                 audioInfo.push(audioItem)
 
                 if (mode === "keep" && fs.pathExistsSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`)) {
-                    let stats = fs.statSync(`audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`);
+                    let stats = fs.statSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`);
                     if (stats.size > 0) {
-                        fs.outputFileSync(`audio/${info.language}/${info.quarterly}/${audioItem.id}/.keep`, "");
+                        fs.outputFileSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/.keep`, "");
                     }
                 }
 
                 if (mode === "gen" && !fs.pathExistsSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/`)) {
                     curlConfig += `
 url = "${track.src}"
-output = "audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}"
+output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}"
 -C -
 --create-dirs
 -L
