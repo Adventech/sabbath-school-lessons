@@ -33,7 +33,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: node deploy-audio -b ${{ steps.extract_branch.outputs.branch }} -m "gen"
       - run: rm -r audio && mkdir audio
-      - run: test -f curl-config.txt && curl -K curl-config.txt
+      - run: test -f curl-config.txt && curl -K curl-config.txt || true
       - run: node deploy-audio -b ${{ steps.extract_branch.outputs.branch }} -m "keep"
       - name: Deploying to cloud
         run: aws s3 sync ./audio s3://sabbath-school-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io/audio --acl "public-read" --region us-east-1 --no-progress
