@@ -39,7 +39,7 @@ let API_HOST = "https://sabbath-school.adventech.io/api/",
 let db
 if (branch.toLowerCase() === "master") {
     API_HOST = "https://sabbath-school.adventech.io/api/";
-    MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
+    MEDIA_HOST = "https://sabbath-school-media.adventech.io/";
     firebase.initializeApp({
         databaseURL: "https://blistering-inferno-8720.firebaseio.com",
         credential: firebase.credential.cert(require('./deploy-creds.json')),
@@ -50,7 +50,7 @@ if (branch.toLowerCase() === "master") {
     db = firebase.database();
 } else if (branch.toLowerCase() === "stage") {
     API_HOST = "https://sabbath-school-stage.adventech.io/api/";
-    MEDIA_HOST = "https://sabbath-school-media-stage.adventech.io/",
+    MEDIA_HOST = "https://sabbath-school-media-stage.adventech.io/";
     firebase.initializeApp({
         databaseURL: "https://sabbath-school-stage.firebaseio.com",
         credential: firebase.credential.cert(require('./deploy-creds-stage.json')),
@@ -88,7 +88,7 @@ let audioAPI = async function (mode) {
     console.log('Deploying audio API');
 
     let audios = glob.sync(`${SOURCE_DIR}/${compile_language}/${compile_quarter}/${SOURCE_AUDIO_FILE}`);
-    let audioInfo = {}
+    let audioInfo = []
 
     let curlConfig = ""
 
@@ -96,9 +96,6 @@ let audioAPI = async function (mode) {
 
         let audioSource = yamljs.load(`${audio}`),
             info = getInfoFromPath(audio);
-
-        audioInfo.cover = `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
-        audioInfo.audio = []
 
         for (let artist of audioSource.audio) {
             for (let track of artist.tracks) {
@@ -123,6 +120,10 @@ let audioAPI = async function (mode) {
 
                 audioItem.src = `${MEDIA_HOST}audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`
 
+                if (!audioItem.image) {
+                    audioItem.image = artist.image || `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
+                }
+
                 if (!audioItem.title) {
                     let audioItemInfo = getInfoFromPath(`src/${audioItem.target}`)
                     if (!audioItemInfo.lesson) {
@@ -138,7 +139,7 @@ let audioAPI = async function (mode) {
                     }
                 }
 
-                audioInfo.audio.push(audioItem)
+                audioInfo.push(audioItem)
 
                 if (mode === "keep" && fs.pathExistsSync(`audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`)) {
                     let stats = fs.statSync(`audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`);
@@ -162,7 +163,7 @@ output = "audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.i
         if (mode === "sync") {
             await db.ref(FIREBASE_DATABASE_AUDIO).child(`${info.language}-${info.quarterly}`).set(audioInfo);
 
-            if (audioInfo.audio.length) {
+            if (audioInfo.length) {
                 fs.outputFileSync(`${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/audio.json`, JSON.stringify(audioInfo));
             }
         }
