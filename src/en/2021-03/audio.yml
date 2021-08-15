@@ -1,0 +1,20 @@
+---
+  audio:
+    - artist: Percy Harrold
+      tracks:
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-01-Jul-03.mp3
+          target: en/2021-03/01
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-02-Jul-10.mp3
+          target: en/2021-03/02
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-04-Jul-24.mp3
+          target: en/2021-03/03
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-05-Jul-31.mp3
+          target: en/2021-03/04
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-06-Aug-07.mp3
+          target: en/2021-03/05
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-07-Aug-14.mp3
+          target: en/2021-03/06
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-08-Aug-21.mp3
+          target: en/2021-03/07
+        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-09-Aug-28.mp3
+          target: en/2021-03/08
