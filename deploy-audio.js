@@ -123,7 +123,14 @@ let audioAPI = async function (mode) {
                 audioItem.targetIndex = audioItem.target.replace(/\//g, '-')
 
                 if (!audioItem.image) {
+                    if (artist.image && !/^http/.test(artist.image.trim())) {
+                        artist.image = `${API_HOST}${API_VERSION}/images/${artist.image}`
+                    }
                     audioItem.image = artist.image || `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
+                }
+
+                if (!audioItem.imageRatio) {
+                    audioItem.imageRatio = artist.imageRatio || "portrait"
                 }
 
                 if (!audioItem.title) {

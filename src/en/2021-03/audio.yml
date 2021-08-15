@@ -28,3 +28,9 @@
           target: en/2021-03/12
         - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-13-Sept-25.mp3
           target: en/2021-03/13
+    - artist: Hope Sabbath School
+      image: misc/hope-ss-audio.jpg
+      imageRatio: square
+      tracks:
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/B9/3lJJt-sJ4XFvNox0CSW3TVPohBZenWORYex1OfeFA/hss-20q3-20e8-20ex-390.mp3
+          target: en/2021-03/08
