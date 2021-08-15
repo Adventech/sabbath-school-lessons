@@ -120,6 +120,8 @@ let audioAPI = async function (mode) {
 
                 audioItem.src = `${MEDIA_HOST}audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}`
 
+                audioItem.targetIndex = audioItem.target.replace(/\//g, '-')
+
                 if (!audioItem.image) {
                     audioItem.image = artist.image || `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
                 }
