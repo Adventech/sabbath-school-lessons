@@ -1,20 +1,30 @@
 ---
   audio:
-    - artist: Percy Harrold
+    - artist: Adult Bible Study Guides
       tracks:
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-01-Jul-03.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-01-Jul-03.mp3
           target: en/2021-03/01
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-02-Jul-10.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-02-Jul-10.mp3
           target: en/2021-03/02
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-04-Jul-24.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-03-Jul-17.mp3
           target: en/2021-03/03
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-05-Jul-31.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-04-Jul-24.mp3
           target: en/2021-03/04
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-06-Aug-07.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-05-Jul-31.mp3
           target: en/2021-03/05
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-07-Aug-14.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-06-Aug-07.mp3
           target: en/2021-03/06
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-08-Aug-21.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-07-Aug-14.mp3
           target: en/2021-03/07
-        - src: http://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-09-Aug-28.mp3
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-08-Aug-21.mp3
           target: en/2021-03/08
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-09-Aug-28.mp3
+          target: en/2021-03/09
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-10-Sept-04.mp3
+          target: en/2021-03/10
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-11-Sept-11.mp3
+          target: en/2021-03/11
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-12-Sept-18.mp3
+          target: en/2021-03/12
+        - src: https://media.sabbathschoolpersonalministries.org/sabbathschoolaudio/ABSG/ABSG-2021-Q3-13-Sept-25.mp3
+          target: en/2021-03/13
