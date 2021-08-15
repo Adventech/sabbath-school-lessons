@@ -37,28 +37,41 @@
     - artist: The Sound of Scripture
       tracks:
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_84_2_NKJV.mp3
+          title: Memory Verse Scripture Song - Psalm 84:2
           target: en/2021-03/01
         - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_10_11_NKJV.mp3
+          title: Memory Verse Scripture Song - 1 Cor 10:11
           target: en/2021-03/02
         - src: https://thesoundofscripture.blob.core.windows.net/audio/James_3_16_ESV.mp3
+          title: Memory Verse Scripture Song - James 3:16
           target: en/2021-03/03
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_51_10_NKJV.mp3
+          title: Memory Verse Scripture Song - Psalm 51:10
           target: en/2021-03/04
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Matthew_11_28_NKJV.mp3
+          title: Memory Verse Scripture Song - Matthew 11:28
           target: en/2021-03/05
         - src: https://thesoundofscripture.blob.core.windows.net/audio/2Peter_3_17-18_NKJV.mp3
+          title: Memory Verse Scripture Song - 2 Peter 3:17-18
           target: en/2021-03/06
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_45_5_NKJV.mp3
+          title: Memory Verse Scripture Song - Genesis 45:5
           target: en/2021-03/07
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_27_1_NKJV.mp3
+          title: Memory Verse Scripture Song - Psalm 27:1
           target: en/2021-03/08
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_2_3_NKJV.mp3
+          title: Memory Verse Scripture Song - Genesis 2:3
           target: en/2021-03/09
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Leviticus_23_3_NKJV.mp3
+          title: Memory Verse Scripture Song - Lev 23:3
           target: en/2021-03/10
         - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_10_6_ESV.mp3
+          title: Memory Verse Scripture Song - 1 Cor 10:6
           target: en/2021-03/11
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Jonah_4_11_NKJV.mp3
+          title: Memory Verse Scripture Song - Jonah 4:11
           target: en/2021-03/12
         - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_2_9_NKJV.mp3
+          title: Memory Verse Scripture Song - 1 Cor 2:9
           target: en/2021-03/13
