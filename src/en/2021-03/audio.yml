@@ -4,6 +4,7 @@
       tracks:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-1.mp3
           target: en/2021-03/01/01
+          title: Introduction
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-2.mp3
           target: en/2021-03/01/01
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-3.mp3
