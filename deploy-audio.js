@@ -169,6 +169,17 @@ output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audio
             }
         }
 
+        audioInfo = audioInfo.sort(function(a, b){
+            if (a.targetIndex < b.targetIndex) {
+                return (a.targetIndex.length < b.targetIndex.length) && a.targetIndex.length === 13 ? 1 : -1;
+            }
+
+            if (a.targetIndex > b.targetIndex) {
+                return (a.targetIndex.length > b.targetIndex.length) && a.targetIndex.length === 13 ? -1 : 1;
+            }
+            return 0;
+        })
+
         if (mode === "sync") {
             await db.ref(FIREBASE_DATABASE_AUDIO).child(`${info.language}-${info.quarterly}`).set(audioInfo);
 
