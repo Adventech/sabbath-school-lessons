@@ -213,6 +213,22 @@
           target: en/2021-03/13/07
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-8.mp3
           target: en/2021-03/13/inside-story
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-14.mp3
+          target: en/2021-03/08/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-15.mp3
+          target: en/2021-03/08/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-16.mp3
+          target: en/2021-03/08/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-17.mp3
+          target: en/2021-03/08/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-18.mp3
+          target: en/2021-03/08/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-19.mp3
+          target: en/2021-03/08/06
     - artist: Hope Sabbath School
       image: misc/hope-ss-audio.jpg
       imageRatio: square
