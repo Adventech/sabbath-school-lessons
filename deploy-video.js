@@ -145,21 +145,19 @@ let videoAPI = async function (mode) {
                     }
                 }
 
-                let videoItemInfo = getInfoFromPath(`src/${videoItem.target}`)
-                if (!videoItemInfo.lesson) {
-                    continue
-                }
+                if (!videoItem.title) {
+                    let videoItemInfo = getInfoFromPath(`src/${videoItem.target}`)
+                    if (!videoItemInfo.lesson) {
+                        continue
+                    }
 
-                if (videoItemInfo.day) {
-                    let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/${videoItemInfo.day}.md`, "utf-8"))
-                    videoItem.title = videoItem.title ? videoItem.title : read.meta.title
-                    videoItem.start_date = read.meta.date
-                    videoItem.end_date = read.meta.date
-                } else {
-                    let lesson = yamljs.load(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`)
-                    videoItem.title = videoItem.title ? videoItem.title : lesson.title
-                    videoItem.start_date = lesson.start_date
-                    videoItem.end_date = lesson.end_date
+                    if (videoItemInfo.day) {
+                        let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/${videoItemInfo.day}.md`, "utf-8"))
+                        videoItem.title = read.meta.title
+                    } else {
+                        let lesson = yamljs.load(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`)
+                        videoItem.title = lesson.title
+                    }
                 }
 
                 videoInfo.clips.push(videoItem)
