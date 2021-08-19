@@ -26,3 +26,83 @@
         - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/4C/hIZ_BRIgSngRDeblIfCsv6-WAkNQsWLEodCffjFQc/hss-20q3-20e8-20ex-390.mp4
           thumbnail: https://hopechannel.io/api/containers/hopetvOrg-amsmedialibraryEpisodes-image/download/60afae2701d8d927f144604a-0-[en-us].png
           target: en/2021-03/08
+    - artist: Hope Sabbath School
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.webp
+          target: en/2021-03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          target: en/2021-03/08
+    - artist: Mission 360
+      clips:
+        - src: https://cdns.adventistmission.org/MS/MS-213-1-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2131THUMB.jpg"
+          title: "The Arctic Gospel"
+          target: en/2021-03/01
+        - src: https://cdns.adventistmission.org/MS/MS-213-2-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2132THUMB.jpg"
+          title: "From Refugee to Church Planter"
+          target: en/2021-03/02
+        - src: https://cdns.adventistmission.org/MS/MS-213-3-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2133THUMB.jpg"
+          title: "Purse Party!"
+          target: en/2021-03/03
+        - src: https://cdns.adventistmission.org/MS/MS-213-4-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2134THUMB.jpg"
+          title: "ADRA vs. COVID"
+          target: en/2021-03/04
+        - src: https://cdns.adventistmission.org/MS/MS-213-5-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2135THUMB.jpg"
+          title: "We’ve Got a Plan"
+          target: en/2021-03/05
+        - src: https://cdns.adventistmission.org/MS/MS-213-6-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2136THUMB.jpg"
+          title: "Pray Your Way Around the World"
+          target: en/2021-03/06
+        - src: https://cdns.adventistmission.org/MS/MS-213-7-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2137THUMB.jpg"
+          title: "Ebeye Thanks You"
+          target: en/2021-03/07
+        - src: https://cdns.adventistmission.org/MS/MS-213-8-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2138THUMB.jpg"
+          title: "Smiles and Songs"
+          target: en/2021-03/08
+        - src: https://cdns.adventistmission.org/MS/MS-213-9-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/2139THUMB.jpg"
+          title: "A Guitar, a Book, and a Bible"
+          target: en/2021-03/09
+        - src: https://cdns.adventistmission.org/MS/MS-213-10-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/21310THUMB.jpg"
+          title: "“I Will Go” by Contagious Faith"
+          target: en/2021-03/10
+        - src: https://cdns.adventistmission.org/MS/MS-213-11-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/21311THUMB.jpg"
+          title: "Offering Hope to Hanoi"
+          target: en/2021-03/11
+        - src: https://cdns.adventistmission.org/MS/MS-213-12-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/21312THUMB.jpg"
+          title: "Caring for the Foreigner"
+          target: en/2021-03/12
+        - src: https://cdns.adventistmission.org/MS/MS-213-13-WEEKLY-EN.mp4
+          thumbnail: "https://sabbath-school-media-tmp.s3.amazonaws.com/21313THUMB.jpg"
+          title: "A Day in the Life of a Missionary"
+          target: en/2021-03/13
