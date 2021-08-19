@@ -26,31 +26,31 @@
         - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/4C/hIZ_BRIgSngRDeblIfCsv6-WAkNQsWLEodCffjFQc/hss-20q3-20e8-20ex-390.mp4
           thumbnail: https://hopechannel.io/api/containers/hopetvOrg-amsmedialibraryEpisodes-image/download/60afae2701d8d927f144604a-0-[en-us].png
           target: en/2021-03/08
-    - artist: Hope Sabbath School
+    - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.webp
           target: en/2021-03/01
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-02.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-02.jpg
           target: en/2021-03/02
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-03.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-03.jpg
           target: en/2021-03/03
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-04.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-04.jpg
           target: en/2021-03/04
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-05.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-05.jpg
           target: en/2021-03/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-06.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-06.jpg
           target: en/2021-03/06
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-07.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-07.jpg
           target: en/2021-03/07
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-08.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-01.jpg
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-08.jpg
           target: en/2021-03/08
     - artist: Mission 360
       clips:
