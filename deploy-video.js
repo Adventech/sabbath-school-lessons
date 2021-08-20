@@ -89,11 +89,10 @@ let videoAPI = async function (mode) {
     console.log('Deploying video API');
 
     let videos = glob.sync(`${SOURCE_DIR}/${compile_language}/${compile_quarter}/${SOURCE_VIDEO_FILE}`);
-    let videoAPIJson = []
-
     let curlConfig = ""
 
     for (let video of videos) {
+        let videoAPIJson = []
         let videoSource = yamljs.load(`${video}`),
             info = getInfoFromPath(video);
 
@@ -124,7 +123,7 @@ let videoAPI = async function (mode) {
 
                 let extname = path.extname(videoItem.src)
 
-                if (!extname.length || extname.length <= 1) {
+                if (!extname.length || extname.length <= 1 || extname.length > 4 || !/^\./.test(extname)) {
                     extname = ".mp4"
                 }
 
@@ -184,11 +183,11 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${video
 
                 videoInfo.clips = videoInfo.clips.sort(function(a, b){
                     if (a.targetIndex < b.targetIndex) {
-                        return a.targetIndex.length < b.targetIndex.length ? 1 : -1;
+                        return a.targetIndex.length < b.targetIndex.length ? -1 : 1;
                     }
 
                     if (a.targetIndex > b.targetIndex) {
-                        return a.targetIndex.length > b.targetIndex.length ? -1 : 1;
+                        return a.targetIndex.length > b.targetIndex.length ? 1 : -1;
                     }
                     return 0;
                 })
