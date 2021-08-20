@@ -184,11 +184,11 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${video
 
                 videoInfo.clips = videoInfo.clips.sort(function(a, b){
                     if (a.targetIndex < b.targetIndex) {
-                        return a.targetIndex.length < b.targetIndex.length ? 1 : -1;
+                        return a.targetIndex.length < b.targetIndex.length ? -1 : 1;
                     }
 
                     if (a.targetIndex > b.targetIndex) {
-                        return a.targetIndex.length > b.targetIndex.length ? -1 : 1;
+                        return a.targetIndex.length > b.targetIndex.length ? 1 : -1;
                     }
                     return 0;
                 })
