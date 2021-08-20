@@ -148,6 +148,8 @@ let videoAPI = async function (mode) {
                     thumbExtname = ".png"
                 }
 
+                videoItem.thumbnail = `${MEDIA_HOST}video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`
+
                 if (videoItem.duration) {
                     if (typeof videoItem.duration === 'number') {
                         videoItem.duration = moment("2015-01-01").startOf('day').seconds(videoItem.duration).format("H:mm:ss").replace(/^[0:]+(?=\d[\d:]{3})/, '');
@@ -176,27 +178,34 @@ let videoAPI = async function (mode) {
                     if (stats.size > 0) {
                         fs.outputFileSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/.keep`, "");
                     }
+                }
 
-                    fs.statSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`);
+                if (mode === "keep" && fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`)) {
+                    let stats = fs.statSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`);
                     if (stats.size > 0) {
                         fs.outputFileSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/.keep`, "");
                     }
                 }
 
-                if (mode === "gen" && !fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
-                    curlConfig += `
+                if (mode === "gen") {
+                    if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
+                        curlConfig += `
 url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
 -C -
 --create-dirs
 -L
-
+`
+                    }
+                    if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb`)) {
+                        curlConfig += `
 url = "${videoInfo.thumbnail}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
 -C -
 --create-dirs
 -L
 `
+                    }
                 }
             }
 
