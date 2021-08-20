@@ -124,7 +124,7 @@ let videoAPI = async function (mode) {
 
                 let extname = path.extname(videoItem.src)
 
-                if (!extname.length || extname.length <= 1) {
+                if (!extname.length || extname.length <= 1 || extname.length > 4 || !/^\./.test(extname)) {
                     extname = ".mp4"
                 }
 
