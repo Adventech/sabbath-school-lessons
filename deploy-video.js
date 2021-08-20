@@ -106,8 +106,12 @@ let videoAPI = async function (mode) {
                 videoInfo.thumbnail = artist.thumbnail
             }
 
-            for (let clip of artist.clips) {
-                if (!clip['target'] || !clip['src']) { continue }
+            for (let [i, clip] of artist.clips.entries()) {
+                if (!clip['src']) { continue }
+
+                if (!clip['target']) {
+                    clip['target'] = `${info.language}/${info.quarterly}/${String(i+1).padStart(2, '0')}`
+                }
 
                 let videoItem = {
                     artist: videoInfo.artist
@@ -138,6 +142,12 @@ let videoAPI = async function (mode) {
                     videoItem.thumbnail = artist.thumbnail || `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
                 }
 
+                let thumbExtname = path.extname(videoItem.thumbnail)
+
+                if (!thumbExtname.length || thumbExtname.length <= 1 || thumbExtname.length > 5 || !/^\./.test(thumbExtname)) {
+                    thumbExtname = ".png"
+                }
+
                 if (videoItem.duration) {
                     if (typeof videoItem.duration === 'number') {
                         videoItem.duration = moment("2015-01-01").startOf('day').seconds(videoItem.duration).format("H:mm:ss").replace(/^[0:]+(?=\d[\d:]{3})/, '');
@@ -166,12 +176,23 @@ let videoAPI = async function (mode) {
                     if (stats.size > 0) {
                         fs.outputFileSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/.keep`, "");
                     }
+
+                    fs.statSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`);
+                    if (stats.size > 0) {
+                        fs.outputFileSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/.keep`, "");
+                    }
                 }
 
                 if (mode === "gen" && !fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
                     curlConfig += `
 url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
+-C -
+--create-dirs
+-L
+
+url = "${videoInfo.thumbnail}"
+output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
 -C -
 --create-dirs
 -L
