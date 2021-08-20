@@ -192,19 +192,21 @@ let videoAPI = async function (mode) {
                 if (mode === "gen") {
                     if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
                         curlConfig += `
-url = "${clip.src.replace(/(\[|\])/g, '\\\$1')}"
+url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
 -C -
 --create-dirs
+--globoff
 -L
 `
                     }
                     if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/`)) {
                         curlConfig += `
-url = "${thumbnailSrc.replace(/(\[|\])/g, '\\\$1')}"
+url = "${thumbnailSrc}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
 -C -
 --create-dirs
+--globoff
 -L
 `
                     }
@@ -238,6 +240,7 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
     }
 
     if (mode === "gen" && curlConfig.trim().length > 1) {
+        console.log(curlConfig)
         fs.outputFileSync(`curl-config.txt`, curlConfig);
     }
 };
