@@ -114,7 +114,7 @@ let audioAPI = async function (mode) {
 
                 let extname = path.extname(audioItem.src)
 
-                if (!extname.length || extname.length <= 1 || extname.length < 4 || !/^\./.test(extname)) {
+                if (!extname.length || extname.length <= 1 || extname.length > 4 || !/^\./.test(extname)) {
                     extname = ".mp3"
                 }
 
