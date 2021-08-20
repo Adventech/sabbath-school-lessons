@@ -142,6 +142,8 @@ let videoAPI = async function (mode) {
                     videoItem.thumbnail = artist.thumbnail || `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
                 }
 
+                let thumbnailSrc = videoItem.thumbnail
+
                 let thumbExtname = path.extname(videoItem.thumbnail)
 
                 if (!thumbExtname.length || thumbExtname.length <= 1 || thumbExtname.length > 5 || !/^\./.test(thumbExtname)) {
@@ -199,7 +201,7 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${video
                     }
                     if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb`)) {
                         curlConfig += `
-url = "${videoInfo.thumbnail}"
+url = "${thumbnailSrc}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
 -C -
 --create-dirs
