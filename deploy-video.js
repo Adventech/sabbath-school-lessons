@@ -192,16 +192,16 @@ let videoAPI = async function (mode) {
                 if (mode === "gen") {
                     if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
                         curlConfig += `
-url = "${clip.src}"
+url = "${clip.src.replace(/(\[|\])/g, '\\\$1')}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
 -C -
 --create-dirs
 -L
 `
                     }
-                    if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb`)) {
+                    if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/`)) {
                         curlConfig += `
-url = "${thumbnailSrc}"
+url = "${thumbnailSrc.replace(/(\[|\])/g, '\\\$1')}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
 -C -
 --create-dirs
