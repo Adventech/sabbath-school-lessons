@@ -89,11 +89,10 @@ let videoAPI = async function (mode) {
     console.log('Deploying video API');
 
     let videos = glob.sync(`${SOURCE_DIR}/${compile_language}/${compile_quarter}/${SOURCE_VIDEO_FILE}`);
-    let videoAPIJson = []
-
     let curlConfig = ""
 
     for (let video of videos) {
+        let videoAPIJson = []
         let videoSource = yamljs.load(`${video}`),
             info = getInfoFromPath(video);
 
