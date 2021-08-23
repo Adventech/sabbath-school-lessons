@@ -152,6 +152,9 @@ let videoAPI = async function (mode) {
 
                 videoItem.thumbnail = `${MEDIA_HOST}video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`
 
+
+                delete videoInfo.thumbnail
+
                 if (videoItem.duration) {
                     if (typeof videoItem.duration === 'number') {
                         videoItem.duration = moment("2015-01-01").startOf('day').seconds(videoItem.duration).format("H:mm:ss").replace(/^[0:]+(?=\d[\d:]{3})/, '');
