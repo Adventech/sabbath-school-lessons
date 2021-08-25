@@ -1,5 +1,25 @@
 ---
   video:
+    - artist: Escuela Sabática Universitaria
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.webp
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-213-1-WEEKLY-ES.mp4
@@ -41,23 +61,3 @@
         - src: https://cdns.adventistmission.org/MS/MS-213-13-WEEKLY-ES.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/21313TBNL.jpg
           title: Un día en la vida de una misionera
-    - artist: Escuela Sabática Universitaria
-      clips:
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-01.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-01.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-02.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-02.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-03.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-03.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-04.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-04.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-05.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-05.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-06.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-06.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-07.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-07.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.webp
