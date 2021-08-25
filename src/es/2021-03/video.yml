@@ -1,0 +1,63 @@
+---
+  video:
+    - artist: Mission 360
+      clips:
+        - src: https://cdns.adventistmission.org/MS/MS-213-1-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2131TBNL.jpg
+          title: El evangelio ártico
+        - src: https://cdns.adventistmission.org/MS/MS-213-2-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2132TBNL.jpg
+          title: De refugiado a plantador de iglesias
+        - src: https://cdns.adventistmission.org/MS/MS-213-3-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2133TBNL.jpg
+          title: ¡La feria del bolso!
+        - src: https://cdns.adventistmission.org/MS/MS-213-4-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2134TBNL.jpg
+          title: ADRA v/s COVID
+        - src: https://cdns.adventistmission.org/MS/MS-213-5-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2135TBNL.jpg
+          title: Tenemos un plan
+        - src: https://cdns.adventistmission.org/MS/MS-213-6-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2136TBNL.jpg
+          title: Recorra el mundo con sus oraciones
+        - src: https://cdns.adventistmission.org/MS/MS-213-7-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2137TBNL.jpg
+          title: Ebeye les agradece
+        - src: https://cdns.adventistmission.org/MS/MS-213-8-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2138TBNL.jpg
+          title: Sonrisas y canciones
+        - src: https://cdns.adventistmission.org/MS/MS-213-9-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/2139TBNL.jpg
+          title: Una guitarra, un libro y una Biblia
+        - src: https://cdns.adventistmission.org/MS/MS-213-10-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/21310TBNL.jpg
+          title: I Will Go by Contagious Faith
+        - src: https://cdns.adventistmission.org/MS/MS-213-11-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/21311TBNL.jpg
+          title: Ofreciendo esperanza a Hanoi
+        - src: https://cdns.adventistmission.org/MS/MS-213-12-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/21312TBNL.jpg
+          title: Cuidando a los extranjeros
+        - src: https://cdns.adventistmission.org/MS/MS-213-13-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/21313TBNL.jpg
+          title: Un día en la vida de una misionera
+    - artist: Escuela Sabática Universitaria
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.webp
