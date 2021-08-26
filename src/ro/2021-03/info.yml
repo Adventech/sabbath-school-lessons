@@ -7,13 +7,17 @@
   color_primary: "#559C72"
   color_primary_dark: "#388457"
   credits:
-    - name: Principal Contributor
-      value: "Gerald and Chantal Klingbeil"
-    - name: Editor
-      value: "Clifford R. Goldstein"
-    - name: Associate Editor
-      value: "Soraya Homayouni"
-    - name: Publication Manager
-      value: "Lea Alexander Greve"
-    - name: Editorial Assistant
-      value: "Sharon Thomas-Crews"
+    - name: Autor
+      value: Gerald și Chantal Klingbeil
+    - name: Traducere
+      value: Denisa Olariu
+    - name: Redactare
+      value: Gianina Floricel
+    - name: Lectura traducerii, adaptare
+      value: Florian Ristea
+    - name: Corectură
+      value: Lavinia Goran
+    - name: Tehnoredactare
+      value: Irina Toncu
+    - name: Copertă
+      value: Liliana Dincă
