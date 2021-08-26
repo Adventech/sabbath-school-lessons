@@ -155,6 +155,7 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-09.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-09.jpg
     - artist: 3ABN Sabbath School Panel
+      skip: true
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-01.mp4
           target: en/2021-03/01
@@ -184,6 +185,7 @@
           target: en/2021-03/09
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-09.jpg
     - artist: Central Study Hour
+      skip: true
       thumbnail: https://www.saccentral.org/wp-content/uploads/2021/06/Banner2021-3.jpg
       clips:
         - src: https://www.saccentral.org/wp-content/uploads/2021/06/CSH-22127-Website.m4v

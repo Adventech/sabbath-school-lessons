@@ -97,6 +97,9 @@ let videoAPI = async function (mode) {
             info = getInfoFromPath(video);
 
         for (let artist of videoSource.video) {
+            if (artist.skip) {
+                continue;
+            }
             let videoInfo = {
                 artist: artist.artist,
                 clips: []
