@@ -8,15 +8,8 @@ let yamljs  = require("js-yaml"),
 
 const DATE_FORMAT = "DD/MM/YYYY"
 
-let ellenWhiteAudio = async function () {
-    const ARTIST_TEMPLATE = {
-        artist: "Ellen G. White Notes",
-        image: "misc/ellen-white-notes.png",
-        imageRatio: "square",
-        tracks: []
-    }
-
-    let targetQuarterlies = glob.sync(`src/en/${getCompilationQuarterValue(null, true)}/`);
+let dailyAudio = async function (lang, title, template, srcFunc) {
+    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}/`);
 
     for (let targetQuarter of targetQuarterlies) {
         let quarterlyInfo = getInfoFromPath(targetQuarter)
@@ -30,7 +23,7 @@ let ellenWhiteAudio = async function () {
                 continue;
             }
 
-            console.log(`Checking EGW notes audio for ${targetDate.format(DATE_FORMAT)}`)
+            console.log(`Checking ${title} for ${targetDate.format(DATE_FORMAT)}`)
 
             let audioSource = yamljs.load(fs.readFileSync(`${targetQuarter}/audio.yml`), 'utf-8')
 
@@ -38,26 +31,26 @@ let ellenWhiteAudio = async function () {
             let week = Math.floor(diff / 7)
             let day = (diff % 7) + 1
 
-            let egwNotes = audioSource.audio.find(e => e.artist === ARTIST_TEMPLATE.artist)
+            let audio = audioSource.audio.find(e => e.artist === template.artist)
 
-            if (!egwNotes) {
-                console.log(`Looks like a brand new EGW notes audio section`)
-                egwNotes = JSON.parse(JSON.stringify(ARTIST_TEMPLATE))
-                audioSource.audio.push(egwNotes)
+            if (!audio) {
+                console.log(`Looks like a brand new ${title} audio section`)
+                audio = JSON.parse(JSON.stringify(template))
+                audioSource.audio.push(audio)
             }
 
-            let track = egwNotes.tracks.find(e => e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}`)
+            let track = audio.tracks.find(e => e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}`)
 
             if (track) {
-                console.log(`EGW notes audio for ${targetDate.format(DATE_FORMAT)} already exists.`)
+                console.log(`${title} for ${targetDate.format(DATE_FORMAT)} already exists.`)
                 return
             }
 
-            let src = `https://egwhiteaudio.com/wp-content/uploads/${targetDate.format("YYYY")}/${targetDate.format("MM")}/${targetDate.format("YYYY-MM-DD")}.mp3`
+            let src = srcFunc(targetDate, week, day)
             let response = await axios.head(src);
             if (response.status === 200) {
-                console.log(`Found EGW notes audio for ${targetDate.format(DATE_FORMAT)}. Will commit`)
-                egwNotes.tracks.push({
+                console.log(`Found ${title} for ${targetDate.format(DATE_FORMAT)}. Will commit`)
+                audio.tracks.push({
                     src: src,
                     target: `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}`
                 })
@@ -69,10 +62,48 @@ let ellenWhiteAudio = async function () {
             }
         } catch (e) {
             if (e && e.response && e.response.status === 404) {
-                console.log('EGW file is not uploaded')
+                console.log(`${title} file is not found`)
             }
         }
     }
 }
 
-ellenWhiteAudio();
+let ellenWhiteAudio = async function () {
+    await dailyAudio(
+        "en",
+        "EGW notes",
+        {
+            artist: "Ellen G. White Notes",
+            image: "misc/ellen-white-notes.png",
+            imageRatio: "square",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            return `https://egwhiteaudio.com/wp-content/uploads/${targetDate.format("YYYY/MM/YYYY-MM-DD")}.mp3`
+        }
+    )
+}
+
+let indonesiaAudio = async function () {
+    await dailyAudio(
+        "in",
+        "AWR Asia",
+        {
+            artist: "AWR Asia",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [7, 1, 2, 3, 4, 5, 6]
+            return `https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_${targetDate.format("YYYYMMDD")}_${mapping[day-1]}.mp3`
+        }
+    )
+}
+
+let run = async function () {
+    await ellenWhiteAudio();
+    await indonesiaAudio();
+}
+
+run().then(() => {
+    return true
+});
