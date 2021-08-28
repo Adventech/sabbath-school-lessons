@@ -1,9 +1,13 @@
-let getCompilationQuarterValue = function (d) {
+let getCompilationQuarterValue = function (d, strict) {
     d = d || new Date();
     let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),
         nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
 
-    return "+(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")*";
+    let ret = `+(${d.getFullYear()}-0${quarterIndex}|${nextQuarter})`;
+    if (!strict) {
+        ret = `${ret}*`
+    }
+    return ret
 };
 
 let getInfoFromPath = function (path) {
