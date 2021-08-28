@@ -98,11 +98,23 @@ let audioAPI = async function (mode) {
             info = getInfoFromPath(audio);
 
         for (let artist of audioSource.audio) {
-            for (let track of artist.tracks) {
+            let weekIterator = 1;
+            for (let [i, track] of artist.tracks.entries()) {
                 let audioItem = {
                     artist: artist.artist
                 }
-                if (!track['target'] || !track['src']) { continue }
+                if (!track['src'] || (!track['target'] && !artist['target'])) { continue }
+
+                if (!track['target']) {
+                    if (artist['target'] === 'daily') {
+                        track['target'] = `${info.language}/${info.quarterly}/${String(weekIterator).padStart(2, '0')}/${String(i+1 - ((weekIterator-1) * 7)).padStart(2, '0')}`
+                    } else {
+                        track['target'] = `${info.language}/${info.quarterly}/${String(i+1).padStart(2, '0')}`
+                    }
+                    if ((i+1) % 7 === 0) {
+                        weekIterator++;
+                    }
+                }
 
                 audioItem.id = crypto.createHash('sha256').update(artist.artist + track['target'] + track['src']).digest('hex');
 

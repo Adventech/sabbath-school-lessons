@@ -282,10 +282,23 @@ let getQuarterlyJSON = function (quarterlyPath) {
     if (inside_stories.length && features['inside-story']) {
       quarterly_features.push(features['inside-story'])
     }
+
     let teacher_comments = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/teacher-comments.md`);
 
     if (teacher_comments.length && features['teacher-comments']) {
       quarterly_features.push(features['teacher-comments'])
+    }
+
+    let audio = glob.sync(`${quarterlyPath}/audio.yml`);
+
+    if (audio.length && features['audio']) {
+      quarterly_features.push(features['audio'])
+    }
+
+    let video = glob.sync(`${quarterlyPath}/video.yml`);
+
+    if (video.length && features['video']) {
+      quarterly_features.push(features['video'])
     }
 
     quarterly.features = quarterly_features.filter((thing, index) => {

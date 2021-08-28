@@ -97,6 +97,9 @@ let videoAPI = async function (mode) {
             info = getInfoFromPath(video);
 
         for (let artist of videoSource.video) {
+            if (artist.skip) {
+                continue;
+            }
             let videoInfo = {
                 artist: artist.artist,
                 clips: []
@@ -106,8 +109,12 @@ let videoAPI = async function (mode) {
                 videoInfo.thumbnail = artist.thumbnail
             }
 
-            for (let clip of artist.clips) {
-                if (!clip['target'] || !clip['src']) { continue }
+            for (let [i, clip] of artist.clips.entries()) {
+                if (!clip['src']) { continue }
+
+                if (!clip['target']) {
+                    clip['target'] = `${info.language}/${info.quarterly}/${String(i+1).padStart(2, '0')}`
+                }
 
                 let videoItem = {
                     artist: videoInfo.artist
@@ -137,6 +144,19 @@ let videoAPI = async function (mode) {
                     }
                     videoItem.thumbnail = artist.thumbnail || `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/${SOURCE_COVER_FILE}`
                 }
+
+                let thumbnailSrc = videoItem.thumbnail
+
+                let thumbExtname = path.extname(videoItem.thumbnail)
+
+                if (!thumbExtname.length || thumbExtname.length <= 1 || thumbExtname.length > 5 || !/^\./.test(thumbExtname)) {
+                    thumbExtname = ".png"
+                }
+
+                videoItem.thumbnail = `${MEDIA_HOST}video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`
+
+
+                delete videoInfo.thumbnail
 
                 if (videoItem.duration) {
                     if (typeof videoItem.duration === 'number') {
@@ -168,14 +188,34 @@ let videoAPI = async function (mode) {
                     }
                 }
 
-                if (mode === "gen" && !fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
-                    curlConfig += `
+                if (mode === "keep" && fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`)) {
+                    let stats = fs.statSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`);
+                    if (stats.size > 0) {
+                        fs.outputFileSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/.keep`, "");
+                    }
+                }
+
+                if (mode === "gen") {
+                    if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
+                        curlConfig += `
 url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
 -C -
 --create-dirs
+--globoff
 -L
 `
+                    }
+                    if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/`)) {
+                        curlConfig += `
+url = "${thumbnailSrc}"
+output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
+-C -
+--create-dirs
+--globoff
+-L
+`
+                    }
                 }
             }
 
@@ -206,6 +246,7 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${video
     }
 
     if (mode === "gen" && curlConfig.trim().length > 1) {
+        console.log(curlConfig)
         fs.outputFileSync(`curl-config.txt`, curlConfig);
     }
 };

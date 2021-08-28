@@ -1,0 +1,18 @@
+---
+  audio:
+    - artist: Școala de Sabat Audio
+      tracks:
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_introducere.mp3
+          target: ro/2021-03/09/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_duminica.mp3
+          target: ro/2021-03/09/02
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_luni.mp3
+          target: ro/2021-03/09/03
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_marti.mp3
+          target: ro/2021-03/09/04
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_miercuri.mp3
+          target: ro/2021-03/09/05
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_joi.mp3
+          target: ro/2021-03/09/06
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st09/st09_vineri.mp3
+          target: ro/2021-03/09/07
