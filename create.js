@@ -22,7 +22,7 @@ var argv = require("optimist")
 
 var fs     =  require("fs-extra"),
     moment =  require("moment"),
-    yamljs = require("yamljs");
+    yamljs = require("js-yaml");
 
 var SRC_PATH = "src/",
     QUARTERLY_COVER = "images/quarterly_cover.png",
@@ -361,7 +361,7 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   start_date = moment(start_date).add(-1, "d");
 
   if (fs.existsSync(`${SRC_PATH}/en/${quarterlyId}/info.yml`)) {
-    let englishInfo = yamljs.load(`${SRC_PATH}/en/${quarterlyId}/info.yml`);
+    let englishInfo = yamljs.load(fs.readFileSync(`${SRC_PATH}/en/${quarterlyId}/info.yml`));
     if (!quarterlyColorPrimary) {
       quarterlyColorPrimary = englishInfo.color_primary
     }
@@ -374,7 +374,7 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   }
 
   if (fs.existsSync(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`)) {
-    credits = yamljs.load(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`);
+    credits = yamljs.load(fs.readFileSync(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`));
 
     try {
       credits = credits['credits']

@@ -66,7 +66,7 @@ let donationNotice = {
 
 let firebase = require("firebase-admin"),
     glob = require("glob"),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     metaMarked = require("meta-marked"),
     ent = require('ent'),
     fs = require("fs-extra"),
@@ -142,7 +142,7 @@ let convertDatesForWeb = function (object) {
 };
 
 let yamlify = function (json) {
-  return "---\n" + yamljs.stringify(json, 4) + "\n---";
+  return "---\n" + yamljs.dump(json, {lineWidth: -1}) + "\n---";
 };
 
 let db
@@ -243,7 +243,7 @@ let processAssetImages = function () {
 };
 
 let getQuarterlyJSON = function (quarterlyPath) {
-  let quarterly = yamljs.load(`${quarterlyPath}info.yml`),
+  let quarterly = yamljs.load(fs.readFileSync(`${quarterlyPath}info.yml`)),
       info = getInfoFromPath(quarterlyPath);
 
   quarterly.lang = info.language;
@@ -263,7 +263,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
 
   if (fs.existsSync(`src/${info.language}/features.yml`)) {
     let quarterly_features = []
-    let features = yamljs.load(`src/${info.language}/features.yml`);
+    let features = yamljs.load(fs.readFileSync(`src/${info.language}/features.yml`));
 
     for (let key of Object.keys(features)) {
       features[key].image = `${API_HOST}${features[key].image}`
@@ -309,7 +309,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
     });
   }
   if (fs.existsSync(`src/${info.language}/groups.yml`)) {
-    let groups = yamljs.load(`src/${info.language}/groups.yml`);
+    let groups = yamljs.load(fs.readFileSync(`src/${info.language}/groups.yml`));
     let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
     if (!quarterly_group.length) {
       quarterly_group = 'default'
@@ -340,7 +340,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
 };
 
 let getLessonJSON = function (lessonPath) {
-  let lesson = yamljs.load(`${lessonPath}info.yml`),
+  let lesson = yamljs.load(fs.readFileSync(`${lessonPath}info.yml`)),
       info = getInfoFromPath(lessonPath);
 
   lesson.id = info.lesson;
@@ -381,7 +381,7 @@ let languagesAPI = async function () {
   console.log('Deploying languages API');
   let languages = [];
   for (let language of glob.sync("src/*/info.yml")) {
-    languages.push(yamljs.load(language));
+    languages.push(yamljs.load(fs.readFileSync(language)));
   }
 
   // Firebase

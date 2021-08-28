@@ -2,7 +2,7 @@
 
 let firebase = require("firebase-admin"),
     glob = require("glob"),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     fs = require("fs-extra"),
     crypto = require('crypto'),
     metaMarked = require("meta-marked"),
@@ -94,7 +94,7 @@ let audioAPI = async function (mode) {
 
     for (let audio of audios) {
 
-        let audioSource = yamljs.load(`${audio}`),
+        let audioSource = yamljs.load(fs.readFileSync(`${audio}`)),
             info = getInfoFromPath(audio);
 
         for (let artist of audioSource.audio) {
@@ -155,7 +155,7 @@ let audioAPI = async function (mode) {
                         let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/${audioItemInfo.day}.md`, "utf-8"))
                         audioItem.title = read.meta.title
                     } else {
-                        let lesson = yamljs.load(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/info.yml`)
+                        let lesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/info.yml`))
                         audioItem.title = lesson.title
                     }
                 }

@@ -2,7 +2,7 @@
 
 let firebase = require("firebase-admin"),
     glob = require("glob"),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     fs = require("fs-extra"),
     crypto = require('crypto'),
     metaMarked = require("meta-marked"),
@@ -93,7 +93,7 @@ let videoAPI = async function (mode) {
 
     for (let video of videos) {
         let videoAPIJson = []
-        let videoSource = yamljs.load(`${video}`),
+        let videoSource = yamljs.load(fs.readFileSync(`${video}`)),
             info = getInfoFromPath(video);
 
         for (let artist of videoSource.video) {
@@ -174,7 +174,7 @@ let videoAPI = async function (mode) {
                         let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/${videoItemInfo.day}.md`, "utf-8"))
                         videoItem.title = read.meta.title
                     } else {
-                        let lesson = yamljs.load(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`)
+                        let lesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`))
                         videoItem.title = lesson.title
                     }
                 }
