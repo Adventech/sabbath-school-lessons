@@ -11,7 +11,12 @@ jobs:
         ref: stage
         fetch-depth: 0
     - name: Aggregate
-      run: node ./runners/content-aggregator/index.js
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '12'
+        check-latest: true
+    - run: npm install
+    - run: node ./runners/content-aggregator/index.js
     - name: Commit & Push changes
       uses: actions-js/push@v1.3
       with:
