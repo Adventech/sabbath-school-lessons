@@ -3,7 +3,7 @@ const { getCompilationQuarterValue } = require('./deploy-helper')
 
 let metaMarked = require("meta-marked"),
     fs = require('fs-extra'),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     glob = require("glob"),
     moment = require('moment'),
     axios = require('axios'),
@@ -23,12 +23,12 @@ let fail = function (message) {
  * @returns {Promise<void>}
  */
 let validateContent = async function () {
-    let quarterliesList = glob.sync("src/en/"+getCompilationQuarterValue()+"?(-cq|-er)")
+    let quarterliesList = glob.sync("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)")
     for (let quarterly of quarterliesList) {
         let validDate = null
 
         try {
-            let doc = yamljs.load(`${quarterly}/info.yml`);
+            let doc = yamljs.load(fs.readFileSync(`${quarterly}/info.yml`));
             validDate = moment(doc["start_date"], DATE_FORMAT).add(-1, 'd');
         } catch (e) {
             e = e.replace(/\n/g, '<br>');
