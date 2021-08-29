@@ -20,6 +20,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-08.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-03-10.webp
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-213-1-WEEKLY-ES.mp4
