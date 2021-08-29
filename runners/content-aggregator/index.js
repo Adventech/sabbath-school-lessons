@@ -48,7 +48,7 @@ let dailyAudio = async function (lang, title, template, srcFunc) {
 
             let src = srcFunc(targetDate, week, day)
             let response = await axios.head(src);
-            if (response.status === 200) {
+            if (response.status === 200 && response.headers['content-type'].indexOf('audio/') >= 0) {
                 console.log(`Found ${title} for ${targetDate.format(DATE_FORMAT)}. Will commit`)
                 audio.tracks.push({
                     src: src,
