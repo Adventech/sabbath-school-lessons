@@ -8,7 +8,7 @@ let yamljs  = require("js-yaml"),
 
 const DATE_FORMAT = "DD/MM/YYYY"
 
-let dailyAudio = async function (lang, title, template, srcFunc, priorCheck) {
+let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, postCheck) {
     let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}/`);
 
     for (let targetQuarter of targetQuarterlies) {
@@ -71,6 +71,10 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck) {
         for (let i = priorCheck || 0; i >= 0; i--) {
             await process(moment().add(-1*i, 'd'))
         }
+
+        for (let i = 1; i <= postCheck; i++) {
+            await process(moment().add(i, 'd'))
+        }
     }
 }
 
@@ -85,9 +89,10 @@ let ellenWhiteAudio = async function () {
             tracks: []
         },
         function (targetDate, week, day) {
-            return `https://egwhiteaudio.com/wp-content/uploads/${targetDate.format("YYYY/MM/YYYY-MM-DD")}.mp3`
+            return `https://egwhiteaudio.com/wp-content/uploads/${moment().format("YYYY/MM")}/${targetDate.format("YYYY-MM-DD")}.mp3`
         },
-        2
+        2,
+        5
     )
 }
 
