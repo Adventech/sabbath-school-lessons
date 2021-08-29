@@ -17,6 +17,7 @@ jobs:
     - run: npm install
     - name: Aggregate
       run: node ./runners/content-aggregator/index.js
+    - run: rm package-lock.json
     - name: Commit & Push changes
       uses: actions-js/push@v1.3
       with:
