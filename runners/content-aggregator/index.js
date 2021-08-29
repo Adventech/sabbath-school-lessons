@@ -40,16 +40,22 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     audioSource.audio.push(audio)
                 }
 
-                let track = audio.tracks.find(e => e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}`)
+                let src = srcFunc(targetDate, week, day)
+                let track = audio.tracks.find(e =>
+                    e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}` ||
+                    e.src === src
+                )
 
                 if (track) {
                     console.log(`${title} for ${targetDate.format(DATE_FORMAT)} already exists.`)
                     return
                 }
 
-                let src = srcFunc(targetDate, week, day)
                 let response = await axios.head(src);
-                if (response.status === 200 && response.headers['content-type'].indexOf('audio/') >= 0) {
+                if (response.status === 200 &&
+                    response.headers['content-type'].indexOf('audio/') >= 0
+                    || response.headers['content-type'].indexOf('application/mp3') >= 0)
+                {
                     console.log(`Found ${title} for ${targetDate.format(DATE_FORMAT)}. Will commit`)
                     audio.tracks.push({
                         src: src,
@@ -62,6 +68,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     );
                 }
             } catch (e) {
+
                 if (e && e.response && e.response.status === 404) {
                     console.log(`${title} file is not found`)
                 }
@@ -111,9 +118,64 @@ let indonesiaAudio = async function () {
     )
 }
 
+let spanishAudio = async function () {
+    await dailyAudio(
+        "es",
+        "Escuela Sabática en Audio",
+        {
+            artist: "Escuela Sabática en Audio",
+            target: 'daily',
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [
+                "SABADO",
+                "DOMINGO",
+                "LUNES",
+                "MARTES",
+                "MIERCOLES",
+                "JUEVES",
+                "VIERNES"
+            ]
+
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-${week}-${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
+let romanianAudio = async function () {
+    await dailyAudio(
+        "ro",
+        "Școala de Sabat Audio",
+        {
+            artist: "Școala de Sabat Audio",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [
+                "introducere",
+                "duminica",
+                "luni",
+                "marti",
+                "miercuri",
+                "joi",
+                "vineri"
+            ]
+
+            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
+    await spanishAudio();
+    await romanianAudio()
 }
 
 run().then(() => {
