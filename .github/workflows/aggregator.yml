@@ -10,6 +10,8 @@ jobs:
       with:
         ref: stage
         fetch-depth: 0
+        persist-credentials: false
+        github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
     - uses: actions/setup-node@v2
       with:
         node-version: '12'
@@ -22,4 +24,4 @@ jobs:
       uses: actions-js/push@v1.3
       with:
         branch: 'stage'
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
