@@ -87,7 +87,7 @@ let ellenWhiteAudio = async function () {
         function (targetDate, week, day) {
             return `https://egwhiteaudio.com/wp-content/uploads/${targetDate.format("YYYY/MM/YYYY-MM-DD")}.mp3`
         },
-        1
+        2
     )
 }
 
