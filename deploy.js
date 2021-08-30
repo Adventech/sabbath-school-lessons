@@ -58,7 +58,7 @@ let donationNotice = {
     "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
     "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
     "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
-    "<p><strong><a href=\"https://zrzutka.pl/wxbas9\">https://zrzutka.pl/wxbas9</a></strong></p>\n" +
+    "<p><strong><a href=\"https://zrzutka.pl/g8tfmw\">https://zrzutka.pl/g8tfmw</a></strong></p>\n" +
     "<p><em>Zespół Adventech</em></p>" +
     "</div>\n" +
     "</div>"
