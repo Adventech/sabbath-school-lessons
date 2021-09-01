@@ -187,4 +187,13 @@ languages:
   - native: ಕನ್ನಡ
     en: Kannada
     code: kn
+  - native: Batak Toba
+    en: Batak Toba
+    code: bbc
+  - native: Kreyòl ayisyen
+    en: Haitian Creole
+    code: ht
+  - native: Sinugboanon
+    en: Cebuano
+    code: ceb
 ---

@@ -1,0 +1,68 @@
+---
+  video:
+    - artist: Познаем Истину
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-01.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-06.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ru-2021-03-10.webp
+    - artist: Александр Болотников
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-02.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-04.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-05.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-07.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-08.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-09.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2021-03-10.jpg
+    - artist: Субботняя школа из ЗАУ
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-06.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2021-03-10.webp

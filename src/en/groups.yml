@@ -1,0 +1,13 @@
+---
+  default:
+    name: "Standard Adult"
+    order: 100
+  cq:
+    name: "InVerse"
+    order: 200
+  iv:
+    name: "InVerse"
+    order: 200
+  er:
+    name: "Easy Reading"
+    order: 300

@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Lærerkommentarer
+    description: Forbered deg på å legge til rette for diskusjon i leksjon på Sabbatsskolen med denne lærerutgaven
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White Citations
+    description: Forbedre studien din med flere utvalgte sitater fra Ellen G. White -skrifter
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Misjonsfortelling
+    description: Les inspirerende misjonshistorier fra hele verden
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Lyd
+    description: Lytt til leksjonen på farten med lydversjonen
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Se den ukentlige diskusjonen i leksjonen for å utdype studiet ditt
+    image: "v1/images/features/feature_video.png"

@@ -1,0 +1,19 @@
+### Rest for the Restless
+
+The flight had been uneventful until the moment the captain announced from the flight deck that the plane would have to cross a major storm. “Please tighten your seat belts. We will be in for quite a ride,” the voice from the cockpit said in ending the announcement.
+
+Soon after, the plane began to shake violently as it fought its way through the storm. Overhead bins opened; people sat tense in their seats. After a particularly violent shudder of the plane, someone shrieked in the back of the plane. Images of a wing breaking off and the plane careening to the earth flashed through a few minds. All passengers looked tense and fearful—all except a little girl seated in the front row of economy. She was busy drawing a picture on the open tray table before her. Now and again she would look out the small window at a particularly impressive lightning strike, but then she would calmly resume her drawing.
+
+After what seemed half an eternity, the plane finally landed at its destination. Passengers cheered and clapped, so grateful and relieved to be back on the ground. The little girl had packed her bag and was waiting for people to leave the plane when one of the travelers asked her if she hadn’t been afraid. How could she be that calm during such a major storm and with the plane shaking so much?
+
+“I wasn’t scared,” the little girl said to the surprised man. “My dad is the pilot, and I knew he was taking me home.”
+
+Restlessness and fear often go hand in hand. Living in a world that keeps most people busy 24-7 can result in restlessness and fear in our lives. Who doesn’t, at times, struggle with fear, with worry, and with dread of what the future holds? The past is done, the present is now; but the future is full of questions, and in this unstable world, the answers might not be what we want to hear. We wonder if we will be able to make a looming deadline, to cover the next rent or school payment, or to make our struggling marriages survive another storm. We wonder if God can continue to love us, even though we “disappoint” Him again and again.
+
+In this quarter, we will tackle some of those fears head on. Rest in Christ is not just a title for a study guide or the captivating logo of an evangelistic campaign or camp meeting. Resting in Christ is the key to the type of life that Jesus promises to His followers: “ ‘The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly’ ” (John 10:10, NKJV).
+
+As the authors worked on this study guide, they suddenly realized the all-­pervasiveness of the concept of rest in the texture of biblical theology. Rest connects to salvation, to grace, to Creation, to the Sabbath, to our understanding of the state of the dead, to the soon coming of Jesus—and to so much more.
+
+When Jesus invited us to come and find rest in Him (Matt. 11:28), He not only addressed His disciples or the early Christian church. He also saw future generations of sin-sick, weary, worn-out, struggling human beings who needed access to the Source of rest. As you study the weekly lessons during this quarter, remember to come, and rest in Him. After all, our heavenly Father is in control and is ready to bring us home safely.
+
+Chantal and Gerald Klingbeil enjoy a cross-cultural marriage and working as a team. Chantal, an associate director of the Ellen G. White Estate, hails from South Africa, while Gerald, an associate editor of Adventist Review Ministries and research professor of Old Testament and Ancient Near Eastern Studies at Andrews University, was born and raised in Germany.

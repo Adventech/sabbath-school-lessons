@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Edicion Maestros
+    description: Prepárese para facilitar el análisis de la lección de Escuela Sabática con esta edición para maestros
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Mostrar comentarios Elena G.W
+    description: Mejore su estudio con comentarios seleccionados adicionales de los escritos de Elena G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Inside Story
+    description: Lea historias inspiradoras de misiones de todo el mundo.
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Escuche la lección sobre la marcha con la versión de audio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Vea la discusión semanal de la lección para profundizar su estudio
+    image: "v1/images/features/feature_video.png"
