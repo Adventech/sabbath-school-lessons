@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   24/07/2021
+date:   24/09/2021
 ---
 
 [**Die letztendliche Ruhe**](https://sabbath-school.adventech.io/de/2021-03/13/01)
