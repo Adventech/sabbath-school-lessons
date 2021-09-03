@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   20/08/2021
+date:   13/08/2021
 ---
 
 [Ruhe, Beziehungen und Heilung](https://sabbath-school.adventech.io/de/2021-03/07/01)

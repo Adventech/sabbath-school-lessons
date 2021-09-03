@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   30/07/2021
+date:   23/07/2021
 ---
 
 [Der Preis der Ruhe](https://sabbath-school.adventech.io/de/2021-03/04/01)

@@ -74,7 +74,7 @@ validateContent().then(async function (){
         await axios({
             method: 'post',
             url: 'https://fh83o4b1ph.execute-api.us-east-1.amazonaws.com/default/SabbathSchoolPullRequestPost',
-            params: {
+            data: {
                 pullRequestID: prNum,
                 pullRequestComment: pullRequestComment
             }
