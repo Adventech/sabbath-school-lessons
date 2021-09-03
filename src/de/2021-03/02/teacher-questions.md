@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   16/07/2021
+date:   09/07/2021
 ---
 
 [Ruhelos und rebellisch](https://sabbath-school.adventech.io/de/2021-03/02/01)

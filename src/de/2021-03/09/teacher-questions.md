@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   03/09/2021
+date:   27/09/2021
 ---
 
 [Der Rhythmus der Ruhe](https://sabbath-school.adventech.io/de/2021-03/09/01)

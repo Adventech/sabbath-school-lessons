@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   10/09/2021
+date:   03/09/2021
 ---
 
 [Sabbatruhe](https://sabbath-school.adventech.io/de/2021-03/10/01)

@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   13/08/2021
+date:   06/08/2021
 ---
 
 [Ruhe finden in familiären Bindungen](https://sabbath-school.adventech.io/de/2021-03/06/01)

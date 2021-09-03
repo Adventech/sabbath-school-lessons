@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   06/08/2021
+date:   30/08/2021
 ---
 
 [“Kommt her zu mir …”](https://sabbath-school.adventech.io/de/2021-03/05/01)
