@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   27/08/2021
+date:   03/09/2021
 ---
 
 [Der Rhythmus der Ruhe](https://sabbath-school.adventech.io/de/2021-03/09/01)
@@ -138,4 +138,3 @@ Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
 
 </center>
-
