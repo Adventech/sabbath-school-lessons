@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   10/09/2021
+date:   17/09/2021
 ---
 
 [Sehnsucht nach mehr](https://sabbath-school.adventech.io/de/2021-03/11/01)
