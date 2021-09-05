@@ -1,0 +1,24 @@
+---
+  video:
+    - artist: InVerse Bible
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-02.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-06.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-07.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2021-03-inv-10.webp

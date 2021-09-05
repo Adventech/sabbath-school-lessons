@@ -1,0 +1,302 @@
+---
+  audio:
+    - artist: Adult Bible Study Guides
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-1.mp3
+          target: en/2021-03/01/01
+          title: Introduction
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-2.mp3
+          target: en/2021-03/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-3.mp3
+          target: en/2021-03/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-4.mp3
+          target: en/2021-03/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-5.mp3
+          target: en/2021-03/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-6.mp3
+          target: en/2021-03/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-7.mp3
+          target: en/2021-03/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-8.mp3
+          target: en/2021-03/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-01-Jul-03.mp3-9.mp3
+          target: en/2021-03/01/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-1.mp3
+          target: en/2021-03/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-2.mp3
+          target: en/2021-03/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-3.mp3
+          target: en/2021-03/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-4.mp3
+          target: en/2021-03/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-5.mp3
+          target: en/2021-03/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-6.mp3
+          target: en/2021-03/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-7.mp3
+          target: en/2021-03/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-02-Jul-10.mp3-8.mp3
+          target: en/2021-03/02/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-1.mp3
+          target: en/2021-03/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-2.mp3
+          target: en/2021-03/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-3.mp3
+          target: en/2021-03/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-4.mp3
+          target: en/2021-03/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-5.mp3
+          target: en/2021-03/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-6.mp3
+          target: en/2021-03/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-7.mp3
+          target: en/2021-03/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-03-Jul-17.mp3-8.mp3
+          target: en/2021-03/03/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-1.mp3
+          target: en/2021-03/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-2.mp3
+          target: en/2021-03/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-3.mp3
+          target: en/2021-03/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-4.mp3
+          target: en/2021-03/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-5.mp3
+          target: en/2021-03/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-6.mp3
+          target: en/2021-03/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-7.mp3
+          target: en/2021-03/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-04-Jul-24.mp3-8.mp3
+          target: en/2021-03/04/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-1.mp3
+          target: en/2021-03/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-2.mp3
+          target: en/2021-03/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-3.mp3
+          target: en/2021-03/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-4.mp3
+          target: en/2021-03/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-5.mp3
+          target: en/2021-03/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-6.mp3
+          target: en/2021-03/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-7.mp3
+          target: en/2021-03/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-05-Jul-31.mp3-8.mp3
+          target: en/2021-03/05/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-1.mp3
+          target: en/2021-03/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-2.mp3
+          target: en/2021-03/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-3.mp3
+          target: en/2021-03/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-4.mp3
+          target: en/2021-03/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-5.mp3
+          target: en/2021-03/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-6.mp3
+          target: en/2021-03/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-7.mp3
+          target: en/2021-03/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-06-Aug-07.mp3-8.mp3
+          target: en/2021-03/06/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-1.mp3
+          target: en/2021-03/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-2.mp3
+          target: en/2021-03/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-3.mp3
+          target: en/2021-03/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-4.mp3
+          target: en/2021-03/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-5.mp3
+          target: en/2021-03/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-6.mp3
+          target: en/2021-03/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-7.mp3
+          target: en/2021-03/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-07-Aug-14.mp3-8.mp3
+          target: en/2021-03/07/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-1.mp3
+          target: en/2021-03/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-2.mp3
+          target: en/2021-03/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-3.mp3
+          target: en/2021-03/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-4.mp3
+          target: en/2021-03/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-5.mp3
+          target: en/2021-03/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-6.mp3
+          target: en/2021-03/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-7.mp3
+          target: en/2021-03/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-08-Aug-21.mp3-8.mp3
+          target: en/2021-03/08/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-1.mp3
+          target: en/2021-03/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-2.mp3
+          target: en/2021-03/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-3.mp3
+          target: en/2021-03/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-4.mp3
+          target: en/2021-03/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-5.mp3
+          target: en/2021-03/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-6.mp3
+          target: en/2021-03/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-7.mp3
+          target: en/2021-03/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-09-Aug-28.mp3-8.mp3
+          target: en/2021-03/09/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-1.mp3
+          target: en/2021-03/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-2.mp3
+          target: en/2021-03/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-3.mp3
+          target: en/2021-03/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-4.mp3
+          target: en/2021-03/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-5.mp3
+          target: en/2021-03/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-6.mp3
+          target: en/2021-03/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-7.mp3
+          target: en/2021-03/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-10-Sept-04.mp3-8.mp3
+          target: en/2021-03/10/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-1.mp3
+          target: en/2021-03/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-2.mp3
+          target: en/2021-03/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-3.mp3
+          target: en/2021-03/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-4.mp3
+          target: en/2021-03/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-5.mp3
+          target: en/2021-03/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-6.mp3
+          target: en/2021-03/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-7.mp3
+          target: en/2021-03/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-11-Sept-11.mp3-8.mp3
+          target: en/2021-03/11/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-1.mp3
+          target: en/2021-03/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-2.mp3
+          target: en/2021-03/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-3.mp3
+          target: en/2021-03/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-4.mp3
+          target: en/2021-03/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-5.mp3
+          target: en/2021-03/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-6.mp3
+          target: en/2021-03/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-7.mp3
+          target: en/2021-03/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-12-Sept-18.mp3-8.mp3
+          target: en/2021-03/12/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-1.mp3
+          target: en/2021-03/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-2.mp3
+          target: en/2021-03/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-3.mp3
+          target: en/2021-03/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-4.mp3
+          target: en/2021-03/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-5.mp3
+          target: en/2021-03/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-6.mp3
+          target: en/2021-03/13/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-7.mp3
+          target: en/2021-03/13/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ABSG-2021-Q3-13-Sept-25.mp3-8.mp3
+          target: en/2021-03/13/inside-story
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-14.mp3
+          target: en/2021-03/08/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-15.mp3
+          target: en/2021-03/08/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-16.mp3
+          target: en/2021-03/08/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-17.mp3
+          target: en/2021-03/08/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-18.mp3
+          target: en/2021-03/08/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-19.mp3
+          target: en/2021-03/08/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-21.mp3
+          target: en/2021-03/09/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-22.mp3
+          target: en/2021-03/09/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-23.mp3
+          target: en/2021-03/09/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-24.mp3
+          target: en/2021-03/09/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-25.mp3
+          target: en/2021-03/09/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-26.mp3
+          target: en/2021-03/09/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-28.mp3
+          target: en/2021-03/10/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-29.mp3
+          target: en/2021-03/10/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-30.mp3
+          target: en/2021-03/10/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-08-31.mp3
+          target: en/2021-03/10/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-09-01.mp3
+          target: en/2021-03/10/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/08/2021-09-02.mp3
+          target: en/2021-03/10/06
+    - artist: Hope Sabbath School
+      image: misc/hope-ss-audio.jpg
+      imageRatio: square
+      tracks:
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/B9/3lJJt-sJ4XFvNox0CSW3TVPohBZenWORYex1OfeFA/hss-20q3-20e8-20ex-390.mp3
+          target: en/2021-03/08
+    - artist: The Sound of Scripture
+      tracks:
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_84_2_NKJV.mp3
+          title: Memory Verse - Psalm 84:2
+          target: en/2021-03/01
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_10_11_NKJV.mp3
+          title: Memory Verse - 1 Cor 10:11
+          target: en/2021-03/02
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/James_3_16_ESV.mp3
+          title: Memory Verse - James 3:16
+          target: en/2021-03/03
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_51_10_NKJV.mp3
+          title: Memory Verse - Psalm 51:10
+          target: en/2021-03/04
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Matthew_11_28_NKJV.mp3
+          title: Memory Verse - Matthew 11:28
+          target: en/2021-03/05
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/2Peter_3_17-18_NKJV.mp3
+          title: Memory Verse - 2 Peter 3:17-18
+          target: en/2021-03/06
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_45_5_NKJV.mp3
+          title: Memory Verse - Genesis 45:5
+          target: en/2021-03/07
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Psalm_27_1_NKJV.mp3
+          title: Memory Verse - Psalm 27:1
+          target: en/2021-03/08
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_2_3_NKJV.mp3
+          title: Memory Verse - Genesis 2:3
+          target: en/2021-03/09
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Leviticus_23_3_NKJV.mp3
+          title: Memory Verse - Lev 23:3
+          target: en/2021-03/10
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_10_6_ESV.mp3
+          title: Memory Verse - 1 Cor 10:6
+          target: en/2021-03/11
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Jonah_4_11_NKJV.mp3
+          title: Memory Verse - Jonah 4:11
+          target: en/2021-03/12
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_2_9_NKJV.mp3
+          title: Memory Verse - 1 Cor 2:9
+          target: en/2021-03/13

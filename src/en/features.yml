@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Teacher Comments
+    description: Prepare to facilitate Sabbath School lesson discussion with this teacher's edition
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White Quotes
+    description: Enhance your study with additional selected quotes from Ellen G. White writings
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Inside Story
+    description: Read inspiring mission stories from all over the world
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Listen to the lesson on the go with the audio version
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Watch the weekly lesson discussion to deepen your study
+    image: "v1/images/features/feature_video.png"

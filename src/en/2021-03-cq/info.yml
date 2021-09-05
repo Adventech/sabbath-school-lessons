@@ -6,3 +6,16 @@
   end_date: "24/09/2021"
   color_primary: "#8C9239"
   color_primary_dark: "#797E2C"
+  credits:
+    - name: Editor
+      value: "Justin Kim"
+    - name: Senior Editorial Assistant
+      value: "Sikhu Daco"
+    - name: Director of Sabbath School
+      value: "Ramon Canals"
+    - name: Assoc. Director of Sabbath School
+      value: "Jim Howard"
+    - name: Principal Contributor
+      value: "Editorial Staff"
+    - name: Design & Illustration
+      value: "Types & Symbols"
