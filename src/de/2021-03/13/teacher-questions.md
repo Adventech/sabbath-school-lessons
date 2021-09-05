@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   24/07/2021
+date:   24/09/2021
 ---
 
 [**Die letztendliche Ruhe**](https://sabbath-school.adventech.io/de/2021-03/13/01)
@@ -94,9 +94,5 @@ II: Wir studieren die Bibel
 -   Vers 9: Wie entscheidend ist der rechte Lebenswandel, um Frieden zu
     finden?
 
-\
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-</center>
-
