@@ -94,9 +94,5 @@ II: Wir studieren die Bibel
 -   Vers 9: Wie entscheidend ist der rechte Lebenswandel, um Frieden zu
     finden?
 
-\
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-</center>
-
