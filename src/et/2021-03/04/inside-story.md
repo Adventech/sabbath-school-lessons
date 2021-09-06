@@ -1,6 +1,6 @@
 ---
 title: 'Misjonilugu'
-date: 24/07/2021
+date: 23/07/2021
 ---
 
 #### Tänu Jumalale elu eest
