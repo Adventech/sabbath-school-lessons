@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   20/08/2021
+date:   27/08/2021
 ---
 
 [zu ruhen](https://sabbath-school.adventech.io/de/2021-03/08/01Frei)
