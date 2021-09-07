@@ -18,4 +18,4 @@ if [ ! -z "$rebuild" ]
     docker build -t adventech-ss .
 fi
 
-docker run -i -t -p1313:1313 -v $(pwd)/src:/app/src --env LANG=${lang} --env QUARTER=${quarter} adventech-ss
+docker run -i -t -p1313:1313 -v $(pwd)/verify.js:/app/verify.js -v $(pwd)/src:/app/src -v $(pwd)/deploy.js:/app/deploy.js -v $(pwd)/deploy-audio.js:/app/deploy-audio.js -v $(pwd)/deploy-video.js:/app/deploy-video.js -v $(pwd)/dist:/app/dist --env LANG=${lang} --env QUARTER=${quarter} adventech-ss

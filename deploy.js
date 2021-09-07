@@ -58,7 +58,7 @@ let donationNotice = {
     "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
     "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
     "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
-    "<p><strong><a href=\"https://zrzutka.pl/wxbas9\">https://zrzutka.pl/wxbas9</a></strong></p>\n" +
+    "<p><strong><a href=\"https://zrzutka.pl/g8tfmw\">https://zrzutka.pl/g8tfmw</a></strong></p>\n" +
     "<p><em>Zespół Adventech</em></p>" +
     "</div>\n" +
     "</div>"
@@ -66,7 +66,7 @@ let donationNotice = {
 
 let firebase = require("firebase-admin"),
     glob = require("glob"),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     metaMarked = require("meta-marked"),
     ent = require('ent'),
     fs = require("fs-extra"),
@@ -74,11 +74,14 @@ let firebase = require("firebase-admin"),
 
 const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
 
+const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
+
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     API_VERSION = "v1",
     SOURCE_DIR = "src/",
     SOURCE_INFO_FILE = "info.yml",
     SOURCE_COVER_FILE = "cover.png",
+    SOURCE_SPLASH_FILE = "splash.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
     WEB_DIR = "web/content/",
     BIBLE_PARSER_CONFIG = require("./config.js"),
@@ -111,30 +114,9 @@ let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU
     .demand(["b"])
     .argv;
 
-let getCompilationQuarterValue = function (d) {
-  d = d || new Date();
-  let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),
-      nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
-
-  return "+(" + d.getFullYear() + "-0" + quarterIndex + "|" + nextQuarter + ")*";
-};
-
 let branch = argv.b,
     compile_language = argv.l || "*",
     compile_quarter = argv.q || getCompilationQuarterValue();
-
-let getInfoFromPath = function (path) {
-  let infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}\.md)?\/?/g,
-      matches = infoRegExp.exec(path),
-      info = {};
-
-  info.language = matches[1] || null;
-  info.quarterly = matches[2] || null;
-  info.lesson = matches[3] || null;
-  info.day = (matches[4]) ? matches[4].replace(".md", "") : null;
-
-  return info;
-};
 
 let renderer = new metaMarked.noMeta.Renderer();
 
@@ -160,7 +142,7 @@ let convertDatesForWeb = function (object) {
 };
 
 let yamlify = function (json) {
-  return "---\n" + yamljs.stringify(json, 4) + "\n---";
+  return "---\n" + yamljs.dump(json, {lineWidth: -1}) + "\n---";
 };
 
 let db
@@ -218,6 +200,14 @@ let processCoverImages = function () {
       fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
     }
   }
+
+  let splash = glob.sync(`images/global/${compile_quarter}/${SOURCE_SPLASH_FILE}`);
+  for (let i = 0; i < splash.length; i++) {
+    fs.copySync(splash[i], splash[i].replace("images/global", DIST_DIR + "images/global"));
+    if (!/master|stage/i.test(branch)) {
+      fs.copySync(splash[i], splash[i].replace("images/global", "web/static/img/global"));
+    }
+  }
 };
 
 // Processing other images
@@ -232,6 +222,17 @@ let processMiscImages = function () {
   }
 };
 
+let processFeaturesImages = function () {
+  console.log('Processing features images');
+  let files = glob.sync("images/features/*.{png,jpg,jpeg}");
+  for (let i = 0; i < files.length; i++) {
+    fs.copySync(files[i], files[i].replace("images/features", DIST_DIR + "images/features"));
+    if (!/master|stage/i.test(branch)) {
+      fs.copySync(files[i], files[i].replace("images/features", "web/static/img/features"));
+    }
+  }
+};
+
 let processAssetImages = function () {
   console.log('Processing asset images');
   let assets = glob.sync(`src/*/${compile_quarter}/*/*.{png,jpg,jpeg}`);
@@ -242,7 +243,7 @@ let processAssetImages = function () {
 };
 
 let getQuarterlyJSON = function (quarterlyPath) {
-  let quarterly = yamljs.load(`${quarterlyPath}info.yml`),
+  let quarterly = yamljs.load(fs.readFileSync(`${quarterlyPath}info.yml`)),
       info = getInfoFromPath(quarterlyPath);
 
   quarterly.lang = info.language;
@@ -250,9 +251,82 @@ let getQuarterlyJSON = function (quarterlyPath) {
   quarterly.index = `${info.language}-${info.quarterly}`;
   quarterly.path = `${info.language}/quarterlies/${info.quarterly}`;
   quarterly.full_path = `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}`;
+  quarterly.introduction = quarterly.description
 
-  if (quarterly.quarterly_name) {
-    quarterly.group = `${quarterly.index.substring(0, 10)}`
+  if (fs.pathExistsSync(quarterlyPath + "/introduction.md")) {
+    quarterly.introduction = fs.readFileSync(quarterlyPath + "/introduction.md", "utf-8")
+  }
+
+  if (quarterly.credits) {
+    quarterly.credits = quarterly.credits.filter(item => item.value.length)
+  }
+
+  if (fs.existsSync(`src/${info.language}/features.yml`)) {
+    let quarterly_features = []
+    let features = yamljs.load(fs.readFileSync(`src/${info.language}/features.yml`));
+
+    for (let key of Object.keys(features)) {
+      features[key].image = `${API_HOST}${features[key].image}`
+    }
+
+    if (quarterly.features && quarterly.features.length) {
+      for (let feature of quarterly.features) {
+        if (feature && features[feature]) {
+          quarterly_features.push(features[feature])
+        }
+      }
+    }
+
+    let inside_stories = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/inside-story.md`);
+
+    if (inside_stories.length && features['inside-story']) {
+      quarterly_features.push(features['inside-story'])
+    }
+
+    let teacher_comments = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/teacher-comments.md`);
+
+    if (teacher_comments.length && features['teacher-comments']) {
+      quarterly_features.push(features['teacher-comments'])
+    }
+
+    let audio = glob.sync(`${quarterlyPath}/audio.yml`);
+
+    if (audio.length && features['audio']) {
+      quarterly_features.push(features['audio'])
+    }
+
+    let video = glob.sync(`${quarterlyPath}/video.yml`);
+
+    if (video.length && features['video']) {
+      quarterly_features.push(features['video'])
+    }
+
+    quarterly.features = quarterly_features.filter((thing, index) => {
+      const _thing = JSON.stringify(thing);
+      return index === quarterly_features.findIndex(obj => {
+        return JSON.stringify(obj) === _thing;
+      });
+    });
+  }
+  if (fs.existsSync(`src/${info.language}/groups.yml`)) {
+    let groups = yamljs.load(fs.readFileSync(`src/${info.language}/groups.yml`));
+    let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
+    if (!quarterly_group.length) {
+      quarterly_group = 'default'
+    }
+
+    if (quarterly_group.length && groups[quarterly_group]) {
+      quarterly.quarterly_group = groups[quarterly_group]
+    }
+  }
+
+  if (fs.existsSync(`${quarterlyPath}/${SOURCE_SPLASH_FILE}`)) {
+    fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
+    quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
+  } else {
+    if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+    }
   }
 
   try {
@@ -266,7 +340,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
 };
 
 let getLessonJSON = function (lessonPath) {
-  let lesson = yamljs.load(`${lessonPath}info.yml`),
+  let lesson = yamljs.load(fs.readFileSync(`${lessonPath}info.yml`)),
       info = getInfoFromPath(lessonPath);
 
   lesson.id = info.lesson;
@@ -307,7 +381,7 @@ let languagesAPI = async function () {
   console.log('Deploying languages API');
   let languages = [];
   for (let language of glob.sync("src/*/info.yml")) {
-    languages.push(yamljs.load(language));
+    languages.push(yamljs.load(fs.readFileSync(language)));
   }
 
   // Firebase
@@ -428,9 +502,12 @@ let lessonAPI = async function () {
 
 let dayAPI = async function () {
   console.log('Deploying day API');
-  let days = glob.sync(`src/${compile_language}/${compile_quarter}/**/*.md`);
+  let days = glob.sync(`src/${compile_language}/${compile_quarter}/+(0|1|2|3|4|5|6|7|8|9)/*.md`);
+  let dayIndex = 0
+  let prevWeek = null
 
   for (let dayId of days) {
+
     let dayJSON = getDayJSON(dayId, true);
     let day = dayJSON[1],
         _day = dayJSON[0],
@@ -438,6 +515,12 @@ let dayAPI = async function () {
         read = {},
         meta = null,
         resultRead;
+
+    if (prevWeek !== info.lesson) {
+      dayIndex = 0
+    }
+    dayIndex++
+    prevWeek = info.lesson
 
     try {
       meta = JSON.parse(JSON.stringify(day.meta));
@@ -519,9 +602,9 @@ let dayAPI = async function () {
     var slugId = '';
     let dayName = DAYS_MAP.get(read.id);
     if (dayName === undefined) {
-      slugId = read.title;
+      slugId = `${String(dayIndex).padStart(2, '0')} ${read.title}`;
     } else {
-      slugId = `${dayName} ${read.title}`;
+      slugId = `${String(dayIndex).padStart(2, '0')} ${dayName} ${read.title}`;
     }
 
     meta.slug = slug(slugId);
@@ -537,6 +620,7 @@ let dayAPI = async function () {
 ((async function () {
   processCoverImages();
   processMiscImages();
+  processFeaturesImages();
   processAssetImages();
 
   try {

@@ -58,7 +58,7 @@ II: Wir studieren die Bibel
     (Bsp.: Jesus als „Tür zu den Schafen“, „Licht“, „Brot/Manna“, „Weg“,
     „geschlachtetes Lamm“)
 
-### **Sonntag: Auf Adlerflügeln**
+### **Auf Adlerflügeln**
 
 **2. Mose 19,4; 5. Mose 32,10–12; 5. Mose 1,31; Hosea 11,1**
 
@@ -72,7 +72,7 @@ II: Wir studieren die Bibel
     Mensch wählen könntest, welche würdest du nehmen? Warum gerade
     diese?
 
-### **Montag: Das Muster der Erlösung**
+### **Das Muster der Erlösung**
 
 **2. Mose 6,6-7**
 
@@ -88,7 +88,7 @@ II: Wir studieren die Bibel
 -   Wovon sind wir losgekauft? Inwieweit ist das spür-/erlebbar?
     Inwiefern einfach „nur“ zu glauben?
 
-### **Dienstag: Der Bund am Sinai & Mittwoch: Gott und Israel**
+### **Der Bund am Sinai & Gott und Israel**
 
 **2. Mose 19,3-8 und 2. Mose 24 (nicht lesen, nur überfliegen)**
 
@@ -133,7 +133,7 @@ II: Wir studieren die Bibel
     24,18-24)? Sollten wir Ähnliches auch heutzutage fördern und wie
     geschieht es bzw. wie köntne es geschehen?
 
-### **Donnerstag: Verheißungen**
+### **Verheißungen**
 
 **Römer 9,31-32; 10,3; Hebräer 4,1-2**
 

@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Penuntun guru
+    description: Bersiaplah untuk memfasilitasi pembahasan pelajaran Sekolah Sabat dengan edisi guru ini
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Petikan terpilih dari Ellen G. White
+    description: Tingkatkan studi anda dengan kutipan pilihan tambahan dari tulisan Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Cerita misi
+    description: Baca kisah misi yang menginspirasi dari seluruh dunia
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Dengarkan pelajaran saat bepergian dengan versi audio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Tonton diskusi pelajaran mingguan untuk memperdalam studi anda
+    image: "v1/images/features/feature_video.png"

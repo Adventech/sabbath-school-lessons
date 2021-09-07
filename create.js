@@ -22,7 +22,7 @@ var argv = require("optimist")
 
 var fs     =  require("fs-extra"),
     moment =  require("moment"),
-    yamljs = require("yamljs");
+    yamljs = require("js-yaml");
 
 var SRC_PATH = "src/",
     QUARTERLY_COVER = "images/quarterly_cover.png",
@@ -35,8 +35,10 @@ var LOCALE_VARS = {
     "am": "ትምህርት",
     "af": "Les",
     "ar": "درس",
+    "bbc": "Parsiajaran",
     "bg": "Дневен урок",
     "cs": "Lekce",
+    "ceb": "Leksyon",
     "da": "Lektie",
     "de": "Tägliche Lektion",
     "el": "Μάθημα",
@@ -56,6 +58,7 @@ var LOCALE_VARS = {
     "hi": "पाठ",
     "hil": "Leksion",
     "hr": "Lekcija",
+    "ht": "Leson",
     "hu": "Lecke",
     "hy": "Դաս",
     "km": "ខ្មែរ",
@@ -99,8 +102,10 @@ var LOCALE_VARS = {
     "am": "### <center>እኛ በዚህ ሌንስ ላይ እየሰራን ነው ፡፡</center>\n<center>እባክዎ ቆየት ብለው ይሞክሩ.</center>",
     "af": "### <center>Ons werk aan hierdie les.</center>\n<center>Kom asseblief later terug.</center>",
     "ar": "### <center>ونحن نعمل على هذا الدرس.</center>\n<center>يرجى العودة لاحقا.</center>",
+    "bbc": "### <center>Kami sedang mengerjakan pelajaran ini</center>\n<center>Silahkan kembali lagi nanti</center>",
     "bg": "### <center>Работим по този урок.</center>\n<center>Моля, върнете се по-късно.</center>",
     "cs": "### <center>Na této lekci pracujeme.</center>\n<center>Prosim zkuste to znovu pozdeji.</center>",
+    "ceb": "### <center>Gihimo namo kini nga leksyon.</center>\n<center>Palihug balik unya.</center>",
     "da": "### <center>Vi arbejder på denne lektion.</center>\n<center>Prøv igen senere.</center>",
     "de": "### <center>Wir arbeiten noch an dieser Lektion.</center>\n<center>Bitte komme später zurück.</center>",
     "el": "### <center>Εργαζόμαστε σε αυτό το μάθημα</center>\n<center>Παρακαλώ ελάτε ξανά αργότερα</center>",
@@ -121,6 +126,7 @@ var LOCALE_VARS = {
     "hi": "### <center>हम इस पाठ पर काम कर रहे हैं।</center>\n<center>कृपया बाद में आइये।</center>",
     "hil": "### <center>Nagsusumikap kami sa araling ito.</center>\n<center>Lihog liwat.</center>",
     "hr": "### <center>Radimo na ovoj lekciji.</center>\n<center>Molimo pokušajte ponovo kasnije.</center>",
+    "ht": "### <center>Nou ap travay sou leson sa a.</center>\n<center>Tanpri tounen pita.</center>",
     "hu": "### <center>Erre a leckére dolgozunk.</center>\n<center>Légyszíves gyere vissza később.</center>",
     "hy": "### <center>Մենք աշխատում ենք այս դասի վրա:</center>\n<center>Խնդրում եմ փորձեք մի փոքր ուշ</center>",
     "km": "### <center>យើងកំពុងសិក្សាមេរៀននេះ។</center>\n<center>សូម​ព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ។</center>",
@@ -163,8 +169,10 @@ var LOCALE_VARS = {
     "am": "Teacher comments",
     "af": "Teacher comments",
     "ar": "Teacher comments",
+    "bbc": "Teacher comments",
     "bg": "Учител коментира.",
     "cs": "Teacher comments",
+    "ceb": "Teacher comments",
     "da": "Aktiviteter og dialog",
     "de": "Lehrerteil",
     "en": "Teacher Comments",
@@ -184,6 +192,7 @@ var LOCALE_VARS = {
     "he": "Teacher Comments",
     "hi": "Teacher Comments",
     "hil": "Teacher Comments",
+    "ht": "Teacher Comments",
     "hu": "Tanítói Melléklet",
     "hy": "Teacher Comments",
     "km": "Teacher Comments",
@@ -225,8 +234,10 @@ var LOCALE_VARS = {
     "am": "Inside story",
     "af": "Inside story",
     "ar": "Inside story",
+    "bbc": "Inside story",
     "bg": "Разказ",
     "cs": "Inside story",
+    "ceb": "Inside story",
     "da": "Missionsberetning",
     "de": "Mit Gott erlebt",
     "en": "Inside Story",
@@ -243,6 +254,7 @@ var LOCALE_VARS = {
     "hr": "Iskustvo",
     "he": "Inside Story",
     "hi": "Inside Story",
+    "ht": "Inside Story",
     "hil": "Inside Story",
     "lt": "Inside Story",
     "lv": "Misijas ziņas",
@@ -284,16 +296,6 @@ var LOCALE_VARS = {
     "zu": "Inside Story"
   },
 
-  "quarterly_name": {
-    "en": {
-      "default": "Standard Adult",
-      "er": "Easy Reading",
-      "cq": "InVerse",
-      "iv": "InVerse",
-      "45-sec": "45 Second version"
-    }
-  },
-
   "tmi": {
     "ko": "TMI"
   }
@@ -314,6 +316,8 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
       start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
+
+  let credits = null;
 
   console.log("Creating file structure for new quarterly. Please do not abort execution");
 
@@ -357,7 +361,7 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   start_date = moment(start_date).add(-1, "d");
 
   if (fs.existsSync(`${SRC_PATH}/en/${quarterlyId}/info.yml`)) {
-    let englishInfo = yamljs.load(`${SRC_PATH}/en/${quarterlyId}/info.yml`);
+    let englishInfo = yamljs.load(fs.readFileSync(`${SRC_PATH}/en/${quarterlyId}/info.yml`));
     if (!quarterlyColorPrimary) {
       quarterlyColorPrimary = englishInfo.color_primary
     }
@@ -367,6 +371,16 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   } else {
     quarterlyColorPrimary = "#7D7D7D";
     quarterlyColorDark = "#333333";
+  }
+
+  if (fs.existsSync(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`)) {
+    credits = yamljs.load(fs.readFileSync(`${SRC_PATH}/${quarterlyLanguage}/credits.yml`));
+
+    try {
+      credits = credits['credits']
+    } catch (e) {
+      credits = null
+    }
   }
 
   if (quarterlyHumanDate === true) {
@@ -384,13 +398,6 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
     quarterlyHumanDate = q;
   }
 
-  let quarterlyName = null
-  let quarterlyType = quarterlyId.substr(8) || "default"
-
-  if (quarterlyType && LOCALE_VARS["quarterly_name"][quarterlyLanguage] && LOCALE_VARS["quarterly_name"][quarterlyLanguage][quarterlyType]) {
-    quarterlyName = LOCALE_VARS["quarterly_name"][quarterlyLanguage][quarterlyType]
-  }
-
   let quarterlyInfoYaml = `---\n  title: "${quarterlyTitle}"
   description: "${quarterlyDescription}"
   human_date: "${quarterlyHumanDate}"
@@ -399,8 +406,12 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
   color_primary: "${quarterlyColorPrimary}"
   color_primary_dark: "${quarterlyColorDark}"`;
 
-  if (quarterlyName) {
-    quarterlyInfoYaml += `\n  quarterly_name: "${quarterlyName}"`
+  if (credits) {
+    quarterlyInfoYaml += `\n  credits:`;
+    for (credit of credits) {
+      quarterlyInfoYaml += `\n    - name: ${credit.name}`;
+      quarterlyInfoYaml += `\n      value: ${credit.value ? credit.value : "\"\""}`
+    }
   }
 
   fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + "info.yml", quarterlyInfoYaml);

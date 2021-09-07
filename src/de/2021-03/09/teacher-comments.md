@@ -1,0 +1,52 @@
+---
+title:  Lehrerteil
+date:   27/08/2021
+---
+
+### TEIL I: ÜBERSICHT
+
+Der Höhepunkt der gesamten Schöpfung Gottes ist der biblische Sabbat. Während der ersten drei Tage der Schöpfungswoche schuf Gott Licht, formte Himmel und Erde und schuf Wasser, Land und alle Arten von Pflanzen. Am vierten Tag schuf er Sonne, Mond und Sterne. An den folgenden zwei Tagen füllte Gott die Erde mit Fischen und Vögeln, Landtieren und Menschen. Am siebten Tag heiligte Gott den Sabbat – oder sonderte ihn als heilig aus – als einen Tag, an dem die Menschen Gott für die Wunder der Schöpfung anbeten, sich an liebevollen Beziehungen erfreuen und Gemeinschaft mit ihrem Schöpfer pflegen sollen. In der dieswöchigen Lektion, „Der Rhythmus der Ruhe“, werden wir entdecken, wie der Sabbat ins Gewebe der Zeit als ein Gedenken an unseren Schöpfer für sein Geschenk des Lebens an uns – sowohl des zeitlichen als auch des ewigen – eingeflochten ist.
+
+Diese Lektion zeigt, dass der Sabbat im Lauf der Jahrhunderte eine Gedächtnisstütze für Gottes Volk war und es ständig an seinen Schöpfer erinnerte. Wenn der Sabbat in jeder Generation treu gehalten würde, gäbe es keine Atheisten, Agnostiker und säkularen Humanisten. Der Sabbat spricht von einem Gott, der uns erschaffen hat, sich um uns sorgt und sich um unsere täglichen Bedürfnisse kümmert. Er ist auch eine Erinnerung an die Kraft Gottes, zu befreien. Der allmächtige Schöpfer befreite Israel aus der Knechtschaft Ägyptens und kann uns aus der Knechtschaft sündiger Gewohnheiten befreien, die uns versklaven.
+
+Am Sabbat ruhen wir im Segen des Einen, der uns geschaffen hat, des Einen, der uns erlöst hat, des Einen, der uns heiligt, und des Einen, der für uns wiederkommt. Der Sabbat ist die himmlische Oase der Ruhe in der ausgedörrten Wüste unserer hektischen säkularen Welt.
+
+### TEIL II: KOMMENTAR
+
+Das Ehrfurcht gebietende Wunder des Weltraums spricht von einem allmächtigen Gott, der der Schöpfer des Universums ist. Frank Borman war Kommandant der ersten Weltraumcrew, die die Erdumlaufbahn verlassen hat. Borman blickte aus über 400.000 Kilometern Entfernung auf die Erde herab und funkte eine Botschaft zurück, in der er 1. Mose 1,1 zitierte: „Am Anfang schuf Gott Himmel und Erde.“ Später erklärte er: „Ich hatte das überwältigende Gefühl, dass es eine Macht geben muss, die größer ist als jeder von uns – dass es einen Gott gibt, dass es tatsächlich einen Anfang gibt.“ Viele der größten Denker dieser Welt waren vom unglaublichen Design, der Komplexität, Ordnung und Weite des Universums so bewegt, dass sie einen grundlegenden Glauben an Gott entwickelten. Hier einige Beispiele:
+
+Manche Menschen glauben, dass die Wissenschaft dem Glauben entgegensteht. Doch die meisten der großen Persönlichkeiten, die die Wissenschaft von Anfang an geprägt haben, waren fromme Gläubige – Menschen wie Kopernikus, der entdeckte, dass die Sonne, nicht die Erde, das Zentrum unseres Sonnensystems ist; Isaac Newton, der das Gesetz der Schwerkraft entdeckte; Blaise Pascal, der die erste Rechenmaschine erfand; und James Maxwell, der die Gesetze des Elektromagnetismus formulierte. Alle waren Christen, die der Ansicht waren, dass das Studium der Natur ihren Glauben nicht infrage stellte, sondern ihn vielmehr stärkte.
+
+1. Mose 1,1 ist die Grundlage der gesamten Heiligen Schrift. „Am Anfang schuf Gott Himmel und Erde.“ Das hebräische Wort für „schaffen“ in diesem Abschnitt ist bara‘. Es bezieht sich auf etwas, das Gott getan hat. Dieses hebräische Verb ist immer mit Gottes schöpferischem Wirken verbunden. Gott hat die Fähigkeit, die Ehrfurcht gebietende Macht, etwas aus dem Nichts zu erschaffen. Gott spricht, und die Erde kommt ins Dasein. Er spricht, und die Erde ist mit lebendigem Grün überzogen. Er spricht, und Bäume und Blumen gedeihen. Er spricht, und Sonne, Mond und Sterne existieren augenblicklich.
+
+**Gottes unbegrenzte Macht**
+
+Um wenigstens eine kleine Vorstellung davon zu bekommen, wie unbegrenzt Gottes Macht ist, betrachten wir nur ein einziges Objekt am Himmel: die Sonne. Hat Gott die Sonne erschaffen? Gewiss. 1. Mose 1,14–16 berichtet, dass Gott zwei Lichter schuf, um den Himmel zu regieren: die Sonne, um den Tag zu regieren, und den Mond, um die Nacht zu regieren. Wir leben auf einem der Planeten, die um die Sonne kreisen. Die Sonne produziert in einer Sekunde mehr Energie, als die Menschen in ihrer ganzen bisherigen Geschichte produziert haben. Nehmen wir die gesamte elektrische Energie und die gesamte Energie, die seit Anbeginn der Zeit durch Sonnenenergie, Kohle oder Gas erzeugt wurde, zusammen – die Sonne produziert in einer Sekunde mehr Energie.
+
+Die Sonne hat einen Durchmesser von etwa 1,4 Millionen Kilometern, in sie passen eine Million Planeten von der Größe der Erde. Aber die Sonne ist nur einer von mindestens 100 Milliarden Sternen in unserer Galaxie, der Milchstraße. Ein Stern namens Pistolenstern stößt zehn Millionen Mal mehr Energie aus als unsere Sonne. Eine Million Sterne von der Größe unserer Sonne passen leicht in die Sphäre des Pistolensterns. Einige Wissenschaftler schätzen, dass es im Universum zehn Milliarden Billionen Sterne gibt. Jemand hat einmal gemeint, dies sei ungefähr die gleiche Anzahl von Sternen, wie es Sandkörner an den Meeresküsten gibt.
+
+Der Prophet Jesaja fordert uns mit folgenden Worten auf, über Gottes schöpferische Kraft nachzudenken: „Hebt eure Augen in die Höhe und seht! Wer hat all dies geschaffen? Er führt ihr Heer vollzählig heraus und ruft sie alle mit Namen; seine Macht und starke Kraft ist so groß, dass nicht eins von ihnen fehlt.“ (Jes 40,26) Der Sabbat am siebten Tag ist ein ewiges Denkmal, ein ewiges Zeichen, eine immerwährende Erinnerung an Gottes unglaubliche Schöpferkraft.
+
+1. Mose 2,1–3 erklärt am Ende der Schöpfungswoche: „So wurden vollendet Himmel und Erde mit ihrem ganzen Heer. Und so vollendete Gott am siebenten Tage seine Werke, die er machte, und ruhte am siebenten Tage von allen seinen Werken, die er gemacht hatte. Und Gott segnete den siebenten Tag und heiligte ihn, weil er an ihm ruhte von allen seinen Werken, die Gott geschaffen und gemacht hatte.“ Gott ruhte nicht, weil er müde war. Er ruhte erholt in der Schönheit und Majestät der Welt, die er geschaffen hatte. Er ruhte, um uns ein Beispiel zu geben. Der Sabbat ist eine wöchentliche Pause zum Lobpreis des Einen, der uns geschaffen hat. Wenn wir am Sabbat Gottesdienst feiern, öffnen wir unser Herz, um den besonderen Segen zu empfangen, den Gott in diesen Tag gelegt hat und der in keinen anderen Tag gelegt wurde.
+
+**Ein Schöpfer, der sich kümmert**
+
+Der Sabbat erinnert uns daran, dass wir keine kosmischen Waisen auf einer rotierenden Felskugel sind. Er weist uns auf einen Schöpfer hin, der uns mit einer bestimmten Absicht erschuf und uns zu sehr liebt, als dass er uns aufgeben würde, wenn wir von dieser Absicht wegdriften. Der Sabbat erinnert uns an den Einen, der all die guten Dinge des Lebens für uns bereitgestellt hat. Gottes Fürsorge wird durch das dreifache Sabbatwunder des Mannafalls veranschaulicht. Am Freitag fiel die doppelte Menge Manna. Am Sabbat fiel keines. Wenn die Israeliten außer am Freitag mehr sammelten, als sie an einem einzigen Wochentag essen konnten, verdarb es. Am Freitag verdarb das Manna, das zum Verzehr am Sabbat aufbewahrt wurde, nicht. Der Sabbatgottesdienst während dieser 40-jährigen Wüstenwanderung erinnerte die Israeliten an einen Schöpfergott, der für sie sorgte. Es ist wichtig, sich bewusst zu machen, dass die Israeliten den Sabbat vor der Verkündigung des Gesetzes am Berg Sinai hielten. Das Sabbatgebot in 2. Mose 20,8–11 beginnt mit dem Wort „gedenke“. Es weist auf einen Gott hin, der die Welt in sechs Tagen erschuf und am siebten Tag ruhte. Wenn, wie manche Menschen glauben, Gott diese Welt in Bewegung gesetzt und sie sich über Millionen von Jahren entwickelt hätte, gäbe es absolut keine Notwendigkeit für den Sabbat und nichts, woran man sich erinnern müsste.
+
+Der Sabbat ist ein ewiges Symbol für unsere Ruhe in Gott. Er ist ein besonderes Zeichen der Loyalität gegenüber dem Schöpfer (Hes 20,12.20). Statt eine willkürliche, legalistische Forderung zu sein, offenbart er vielmehr, dass in Gott wahre Ruhe von der Werksgerechtigkeit zu finden ist. Der Sabbat spricht von einem Gott, der etwas getan hat, damit wir in seinen Werken ruhen können. Wahre Sabbatruhe ist die Ruhe der Gnade in den liebenden Armen des Einen, der uns erschaffen hat, des Einen, der uns erlöst hat, und des Einen, der für uns wiederkommt.
+
+**Der Erlöser**
+
+Es gibt einen weiteren wichtigen Aspekt des Sabbatgebots.
+
+5. Mose 5 bekräftigt das Sabbatgebot für eine neue Generation, die im Begriff ist, das verheißene Land zu betreten. Dieser Abschnitt erinnert sie daran, dass sie Sklaven in Ägypten waren und ihr allmächtiger Schöpfer sie erlöst hat. Er ist der Einzige, der uns von der Knechtschaft der Sünde befreien kann. Er ist der Einzige, der die Ketten zerschlagen kann, die uns binden. Er ist der Einzige, der uns aus den Fängen der Sünde befreien kann. Das ist die Botschaft des Sabbats: Ein allmächtiger Schöpfer will unsere Herzen neu erschaffen.
+
+### TEIL III: ANWENDUNG
+
+Beschäftigt euch, während ihr über die praktische Anwendung des Sabbats auf euer Leben nachdenkt, mit folgenden Fragen:
+
+- Wenn ihr an die Sabbatruhe denkt, woran denkt ihr dann? Welche Bedeutung hat das Konzept der Sabbatruhe für euch?
+- Warum ist die biblische Wahrheit über die Schöpfung für euer Leben wichtig? Welchen praktischen Unterschied macht es, ob wir erschaffen wurden oder ob wir uns über Millionen von Jahren entwickelt haben? Wie beeinflusst mein Glaube an eine dieser beiden Ansichten mein gegenwärtiges Leben?
+- Habt ihr schon einmal über den Sabbat als ein Zeichen der Befreiung nachgedacht? Warum ist diese biblische Wahrheit wichtig?
+- Der Sabbat spricht davon, in einem Gott zu ruhen, der für all unsere Bedürfnisse sorgt. Das Manna veranschaulicht Gottes tägliche Fürsorge. Wie wirkt sich diese Vorstellung vom Sabbat in eurem Leben aus?
+- Wenn ihr über die Lektion dieser Woche nachdenkt: Was denkt ihr, was Ellen White mit der folgenden Aussage meint? „Und zu Anfang der Zeit der Trübsal werden wir mit dem Heiligen Geist erfüllt werden, dass wir hinausgehen und den Sabbat noch völliger verkündigen werden.“ (FS 24) Sie erklärt weiter, dass sie mit dem Beginn der Zeit der Trübsal von einer Zeit kurz vor dem Ende der Gnadenzeit spricht, in der Bewährung noch möglich ist.

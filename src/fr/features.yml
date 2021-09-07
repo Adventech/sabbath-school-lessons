@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Guide Moniteur
+    description: Préparez à faciliter la discussion sur la leçon de l'école du Sabbat avec cette édition de guide moniteur
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Citations d’Ellen White
+    description: Améliorez votre étude avec des citations sélectionnées supplémentaires des écrits d'Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Histoire
+    description: Lisez des histoires de mission inspirantes du monde entier
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Écoutez la leçon très efficace avec la version audio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Vidéo
+    description: Regardez les discussions sur les leçons de l'école du Sabbat pour approfondir votre étude
+    image: "v1/images/features/feature_video.png"

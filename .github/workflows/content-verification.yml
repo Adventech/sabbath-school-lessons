@@ -10,6 +10,6 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - run: npx danger ci
+    - run: node verify.js
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

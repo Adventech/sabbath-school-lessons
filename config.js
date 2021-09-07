@@ -9,10 +9,15 @@ var BIBLE_PARSER_CONFIG = {
   "ar": [
     "svd"
   ],
+  "bbc": [
+    "bbc"
+  ],
   "bg": [
     "bg1940"
   ],
-
+  "ceb": [
+    "cbv"
+  ],
   "cs": [
     "cep",
     "kralicka-1613",
@@ -29,6 +34,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "de": [
+    "hfa",
     "luth1545",
     "luth1912"
   ],
@@ -120,6 +126,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "hy": [
     "m43"
+  ],
+
+  "ht": [
+    "hcv"
   ],
 
   "ja": [
