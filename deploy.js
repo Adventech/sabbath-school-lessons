@@ -70,28 +70,12 @@ let firebase = require("firebase-admin"),
     metaMarked = require("meta-marked"),
     ent = require('ent'),
     fs = require("fs-extra"),
+    crypto = require('crypto'),
     moment = require("moment");
 
 const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
 
 const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
-
-let API_HOST = "https://sabbath-school.adventech.io/api/",
-    API_VERSION = "v1",
-    SOURCE_DIR = "src/",
-    SOURCE_INFO_FILE = "info.yml",
-    SOURCE_COVER_FILE = "cover.png",
-    SOURCE_SPLASH_FILE = "splash.png",
-    DIST_DIR = "dist/api/" + API_VERSION + "/",
-    WEB_DIR = "web/content/",
-    BIBLE_PARSER_CONFIG = require("./config.js"),
-    FIREBASE_DATABASE_LANGUAGES = "/api/" + API_VERSION + "/languages",
-    FIREBASE_DATABASE_QUARTERLIES = "/api/" + API_VERSION + "/quarterlies",
-    FIREBASE_DATABASE_QUARTERLY_INFO = "/api/" + API_VERSION + "/quarterly-info",
-    FIREBASE_DATABASE_LESSONS = "/api/" + API_VERSION + "/lessons",
-    FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
-    FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
-    FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
 const DAYS_MAP = new Map([
   ['01', 'Saturday'],
@@ -109,14 +93,35 @@ let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU
     .describe({
       "b": "branch",
       "l": "language",
-      "q": "quarter"
+      "q": "quarter",
+      "v": "api"
     })
     .demand(["b"])
     .argv;
 
 let branch = argv.b,
     compile_language = argv.l || "*",
-    compile_quarter = argv.q || getCompilationQuarterValue();
+    compile_quarter = argv.q || getCompilationQuarterValue(),
+    target_api = parseInt(argv.v) || 1;
+
+let API_HOST = "https://sabbath-school.adventech.io/api/",
+    API_VERSION = target_api === 1 ? "v1" : "v2",
+    PDF_HOST = "https://sabbath-school-pdf.adventech.io/",
+    SOURCE_DIR = "src/",
+    SOURCE_INFO_FILE = "info.yml",
+    SOURCE_PDF_FILE = "pdf.yml",
+    SOURCE_COVER_FILE = "cover.png",
+    SOURCE_SPLASH_FILE = "splash.png",
+    DIST_DIR = "dist/api/" + API_VERSION + "/",
+    WEB_DIR = "web/content/",
+    BIBLE_PARSER_CONFIG = require("./config.js"),
+    FIREBASE_DATABASE_LANGUAGES = "/api/" + API_VERSION + "/languages",
+    FIREBASE_DATABASE_QUARTERLIES = "/api/" + API_VERSION + "/quarterlies",
+    FIREBASE_DATABASE_QUARTERLY_INFO = "/api/" + API_VERSION + "/quarterly-info",
+    FIREBASE_DATABASE_LESSONS = "/api/" + API_VERSION + "/lessons",
+    FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
+    FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
+    FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
 
 let renderer = new metaMarked.noMeta.Renderer();
 
@@ -148,6 +153,7 @@ let yamlify = function (json) {
 let db
 if (branch.toLowerCase() === "master") {
   API_HOST = "https://sabbath-school.adventech.io/api/";
+  PDF_HOST = "https://sabbath-school-pdf.adventech.io/";
   firebase.initializeApp({
     databaseURL: "https://blistering-inferno-8720.firebaseio.com",
     credential: firebase.credential.cert(require('./deploy-creds.json')),
@@ -158,6 +164,7 @@ if (branch.toLowerCase() === "master") {
   db = firebase.database();
 } else if (branch.toLowerCase() === "stage") {
   API_HOST = "https://sabbath-school-stage.adventech.io/api/";
+  PDF_HOST = "https://sabbath-school-pdf-stage.adventech.io/";
   firebase.initializeApp({
     databaseURL: "https://sabbath-school-stage.firebaseio.com",
     credential: firebase.credential.cert(require('./deploy-creds-stage.json')),
@@ -195,18 +202,22 @@ let processCoverImages = function () {
   console.log('Processing cover images');
   let files = glob.sync(`images/global/${compile_quarter}/*/cover.png`);
   for (let i = 0; i < files.length; i++) {
-    fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
-    if (!/master|stage/i.test(branch)) {
-      fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
-    }
+    try {
+      fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
+      }
+    } catch (e) {}
   }
 
   let splash = glob.sync(`images/global/${compile_quarter}/${SOURCE_SPLASH_FILE}`);
   for (let i = 0; i < splash.length; i++) {
-    fs.copySync(splash[i], splash[i].replace("images/global", DIST_DIR + "images/global"));
-    if (!/master|stage/i.test(branch)) {
-      fs.copySync(splash[i], splash[i].replace("images/global", "web/static/img/global"));
-    }
+    try {
+      fs.copySync(splash[i], splash[i].replace("images/global", DIST_DIR + "images/global"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(splash[i], splash[i].replace("images/global", "web/static/img/global"));
+      }
+    } catch (e) {}
   }
 };
 
@@ -215,10 +226,12 @@ let processMiscImages = function () {
   console.log('Processing misc images');
   let files = glob.sync("images/misc/*.{png,jpg,jpeg}");
   for (let i = 0; i < files.length; i++) {
-    fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
-    if (!/master|stage/i.test(branch)) {
-      fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
-    }
+    try {
+      fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
+      }
+    } catch (e) {}
   }
 };
 
@@ -226,10 +239,12 @@ let processFeaturesImages = function () {
   console.log('Processing features images');
   let files = glob.sync("images/features/*.{png,jpg,jpeg}");
   for (let i = 0; i < files.length; i++) {
-    fs.copySync(files[i], files[i].replace("images/features", DIST_DIR + "images/features"));
-    if (!/master|stage/i.test(branch)) {
-      fs.copySync(files[i], files[i].replace("images/features", "web/static/img/features"));
-    }
+    try {
+      fs.copySync(files[i], files[i].replace("images/features", DIST_DIR + "images/features"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(files[i], files[i].replace("images/features", "web/static/img/features"));
+      }
+    } catch (e) {}
   }
 };
 
@@ -339,20 +354,51 @@ let getQuarterlyJSON = function (quarterlyPath) {
   return quarterly
 };
 
-let getLessonJSON = function (lessonPath) {
-  let lesson = yamljs.load(fs.readFileSync(`${lessonPath}info.yml`)),
+let getLessonJSON = function (lessonPath, pdf, pdfPath) {
+  let lesson = {}, info
+
+  if (pdf && pdfPath) {
+
+    let targetPdf = pdf[0]
+    let id = targetPdf.target.substr(targetPdf.target.lastIndexOf('/')+1)
+    info = getInfoFromPath(`${pdfPath.replace("/"+SOURCE_PDF_FILE, id)}/`);
+    lesson.title = targetPdf.title
+    lesson.start_date = targetPdf.start_date
+    lesson.end_date = targetPdf.end_date
+
+
+  } else if (lessonPath) {
+    try {
+      lesson = yamljs.load(fs.readFileSync(`${lessonPath}info.yml`))
       info = getInfoFromPath(lessonPath);
+    } catch (err) {
+      console.log(`${lessonPath}info.yml`)
+      console.log(err)
+    }
+  }
 
   lesson.id = info.lesson;
   lesson.index = `${info.language}-${info.quarterly}-${info.lesson}`;
   lesson.path = `${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}`;
   lesson.full_path = `${API_HOST}${API_VERSION}/${lesson.path}`;
-  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${info.lesson}/${SOURCE_COVER_FILE}`;
 
-  if (!/master|stage/i.test(branch)) {
-    lesson.cover = `/img/global/${info.quarterly.slice(0, 7)}/${info.lesson}/${SOURCE_COVER_FILE}`;
+  if (target_api === 2) {
+    lesson.pdfOnly = false
   }
 
+  let targetQuarterlyIndex = info.quarterly
+
+  if (!fs.pathExistsSync(`images/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
+    targetQuarterlyIndex = info.quarterly.slice(0, 7)
+  }
+
+  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`;
+
+  if (!/master|stage/i.test(branch)) {
+    lesson.cover = `/img/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`;
+  }
+
+  // TODO: Optimize to check if file exists instead of try / catch block
   try {
     fs.lstatSync(`${lessonPath}/${SOURCE_COVER_FILE}`);
     fs.copySync(`${lessonPath}/${SOURCE_COVER_FILE}`, `${DIST_DIR}${lesson.path}/${SOURCE_COVER_FILE}`);
@@ -376,6 +422,18 @@ let getDayJSON = function (dayPath, deep) {
   return deep ? [day, _day] : day;
 };
 
+let generatePDFId = function (pdf) {
+  return crypto.createHash('sha256').update(pdf['target'] + pdf['src']).digest('hex');
+}
+
+let groupPDFsByTarget = function (pdfs) {
+  return pdfs.reduce(function (r, a) {
+    r[a.target] = r[a.target] || [];
+    r[a.target].push(a);
+    return r;
+  }, Object.create(null))
+}
+
 // Create languages API endpoint
 let languagesAPI = async function () {
   console.log('Deploying languages API');
@@ -395,7 +453,21 @@ let quarterliesAPI = async function () {
   let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, x.length-1));
 
   for (let language of languages) {
-    let quarterlies = glob.sync(`src/${language}/${compile_quarter}/`).sort(function (a, b) {
+    let _quarterlies = glob.sync(`src/${language}/${compile_quarter}/`)
+    let quarterlies = []
+
+    if (target_api === 1) {
+      for (let quarterly of _quarterlies) {
+
+        if (fs.pathExistsSync(`${quarterly}/01`)) {
+          quarterlies.push(quarterly)
+        }
+      }
+    } else {
+      quarterlies = _quarterlies
+    }
+
+    quarterlies = quarterlies.sort(function (a, b) {
       if (a.length === 15) a = a + "_";
       if (a < b) return -1;
       if (a > b) return 1;
@@ -452,12 +524,47 @@ let quarterliesAPI = async function () {
 
 let quarterlyAPI = async function () {
   console.log('Deploying quarterly API');
+  let pdfs
   let quarterlies = glob.sync(`src/${compile_language}/${compile_quarter}/`);
 
   for (let quarterlyId of quarterlies) {
+    if (target_api === 1) {
+      if (!fs.pathExistsSync(`${quarterlyId}/01`)) {
+        continue
+      }
+    }
+
     let quarterly = getQuarterlyJSON(quarterlyId),
         info = getInfoFromPath(quarterlyId),
-        lessons = glob.sync(`${quarterlyId}*/`).map(x => getLessonJSON(x));
+        lessons = glob.sync(`${quarterlyId}*/`).map(x => getLessonJSON(x)),
+        pdfPath = `${quarterlyId}/${SOURCE_PDF_FILE}`;
+
+    if (fs.pathExistsSync(pdfPath)) {
+      pdfs = yamljs.load(fs.readFileSync(pdfPath))
+    }
+
+    if (pdfs && !lessons.length) {
+      let grouped_pdfs = groupPDFsByTarget(pdfs.pdf);
+
+      lessons = await Promise.all(lessons.concat(Object.keys(grouped_pdfs).map(
+          async function (x) {
+            grouped_pdfs[x].map(
+                x => {
+                  x.id = generatePDFId(x)
+                  x.src = `${PDF_HOST}pdf/${info.language}/${info.quarterly}/${x.id}/${x.id}.pdf`
+                }
+            )
+            let lesson = getLessonJSON(null, grouped_pdfs[x], pdfPath)
+            lesson['pdfOnly'] = true
+
+            let lessonInfo = {lesson: lesson, days: [], pdfs: grouped_pdfs[x]}
+            await db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.index).set(lessonInfo);
+            // API
+            fs.outputFileSync(`${DIST_DIR}${lesson.path}/index.json`, JSON.stringify(lessonInfo));
+            return lesson
+          }
+      )))
+    }
 
     // Firebase
     await db.ref(FIREBASE_DATABASE_QUARTERLY_INFO).child(quarterly.index).set({quarterly: quarterly, lessons: lessons});
@@ -484,18 +591,44 @@ let quarterlyAPI = async function () {
 let lessonAPI = async function () {
   console.log('Deploying lesson API');
   let lessons = glob.sync(`src/${compile_language}/${compile_quarter}/*/`);
+  let pdfs = glob.sync(`src/${compile_language}/${compile_quarter}/${SOURCE_PDF_FILE}`).map(function (pdfPath){
+    let _pdfs = yamljs.load(fs.readFileSync(pdfPath))
+    return groupPDFsByTarget(_pdfs.pdf)
+  });
+
+  if (pdfs.length) {
+    pdfs = Object.assign(...pdfs)
+  }
 
   for (let lessonId of lessons) {
     let lesson = getLessonJSON(lessonId),
       info = getInfoFromPath(lessonId),
-      days = glob.sync(`${lessonId}*.md`).map(x => getDayJSON(x));
+      days = glob.sync(`${lessonId}*.md`).map(x => getDayJSON(x)),
+      pdf = [];
+
+    let lessonInfo = {lesson: lesson, days: days}
+
+    if (target_api === 2) {
+      for (let pdfItem of pdfs[`${info.language}/${info.quarterly}/${info.lesson}`] || []) {
+        pdfItem.id = generatePDFId(pdfItem)
+        pdfItem.src = `${PDF_HOST}pdf/${info.language}/${info.quarterly}/${pdfItem.id}/${pdfItem.id}.pdf`
+        if (!pdfItem.title) { pdfItem.title = lesson.title }
+        if (!pdfItem.start_date) { pdfItem.start_date = lesson.start_date }
+        if (!pdfItem.end_date) { pdfItem.end_date = lesson.end_date }
+        pdf.push(pdfItem)
+      }
+
+      delete pdfs[`${info.language}/${info.quarterly}/${info.lesson}`]
+
+      lessonInfo.pdfs = pdf
+    }
 
     // Firebase
-    await db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.index).set({lesson: lesson, days: days});
+    await db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.index).set(lessonInfo);
     await db.ref(FIREBASE_DATABASE_DAYS).child(`${info.language}-${info.quarterly}-${info.lesson}`).set(days);
 
     // API
-    fs.outputFileSync(`${DIST_DIR}${lesson.path}/index.json`, JSON.stringify({lesson: lesson, days: days}));
+    fs.outputFileSync(`${DIST_DIR}${lesson.path}/index.json`, JSON.stringify(lessonInfo));
     fs.outputFileSync(`${DIST_DIR}${lesson.path}/days/index.json`, JSON.stringify(days));
   }
 };

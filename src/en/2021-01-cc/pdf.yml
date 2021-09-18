@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L01.pdf'
+      target: en/2021-01-cc/01
+      title: The Living Message
+      start_date: 26/12/2020
+      end_date: 01/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L02.pdf'
+      target: en/2021-01-cc/02
+      title: The Fathers God Chose for His Son
+      start_date: 02/01/2021
+      end_date: 08/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L03.pdf'
+      target: en/2021-01-cc/03
+      title: Countdown to the Savior
+      start_date: 09/01/2021
+      end_date: 15/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L04.pdf'
+      target: en/2021-01-cc/04
+      title: What You Seek Is What You Get
+      start_date: 16/01/2021
+      end_date: 22/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L05.pdf'
+      target: en/2021-01-cc/05
+      title: Following Yonder Star
+      start_date: 23/01/2021
+      end_date: 29/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L06.pdf'
+      target: en/2021-01-cc/06
+      title: Growing Up
+      start_date: 30/01/2021
+      end_date: 05/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L07.pdf'
+      target: en/2021-01-cc/07
+      title: One of a Kind
+      start_date: 06/02/2021
+      end_date: 12/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L08.pdf'
+      target: en/2021-01-cc/08
+      title: It Is Written
+      start_date: 13/02/2021
+      end_date: 19/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L09.pdf'
+      target: en/2021-01-cc/09
+      title: Come See
+      start_date: 20/02/2021
+      end_date: 26/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L10.pdf'
+      target: en/2021-01-cc/10
+      title: Celebrating With Jesus
+      start_date: 27/02/2021
+      end_date: 05/03/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L11.pdf'
+      target: en/2021-01-cc/11
+      title: Show Reverence in My House!
+      start_date: 06/03/2021
+      end_date: 12/03/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L12.pdf'
+      target: en/2021-01-cc/12
+      title: Born Again
+      start_date: 13/03/2021
+      end_date: 19/03/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/teens/Lessons/2021/Q1/English/Student/CC-21-Q1-L13.pdf'
+      target: en/2021-01-cc/13
+      title: It’s Your Turn
+      start_date: 20/03/2021
+      end_date: 26/03/2021

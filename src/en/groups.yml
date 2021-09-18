@@ -11,3 +11,6 @@
   er:
     name: "Easy Reading"
     order: 300
+  cc:
+    name: "Cornerstone Connections"
+    order: 400
