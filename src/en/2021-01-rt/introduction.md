@@ -1,4 +1,4 @@
-### The Jesus Walk
+### IM: Individual Messaging
 
 **What the lessons are about**
 
