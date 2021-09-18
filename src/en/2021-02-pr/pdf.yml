@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L00.pdf'
+      target: en/2021-02-pr/introduction
+      title: Introduction
+      start_date: 27/03/2021
+      end_date: 27/03/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L01.pdf'
+      target: en/2021-02-pr/01
+      title: Seventy Times Seven
+      start_date: 27/03/2021
+      end_date: 02/04/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L02.pdf'
+      target: en/2021-02-pr/02
+      title: Payday at the Vineyard
+      start_date: 03/04/2021
+      end_date: 09/04/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L03.pdf'
+      target: en/2021-02-pr/03
+      title: Loving the Unlovable
+      start_date: 10/04/2021
+      end_date: 16/04/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L04.pdf'
+      target: en/2021-02-pr/04
+      title: The Day Jesus Cried
+      start_date: 17/04/2021
+      end_date: 23/04/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L05.pdf'
+      target: en/2021-02-pr/05
+      title: A Cloud Leads the Way
+      start_date: 24/04/2021
+      end_date: 30/04/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L06.pdf'
+      target: en/2021-02-pr/06
+      title: Bitter Waters Made Sweet
+      start_date: 01/05/2021
+      end_date: 07/05/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L07.pdf'
+      target: en/2021-02-pr/07
+      title: God’s Choice
+      start_date: 08/05/2021
+      end_date: 14/05/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L08.pdf'
+      target: en/2021-02-pr/08
+      title: Water From a Rock?
+      start_date: 15/05/2021
+      end_date: 21/05/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L09.pdf'
+      target: en/2021-02-pr/09
+      title: Breakfast With the Birds
+      start_date: 22/05/2021
+      end_date: 28/05/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L10.pdf'
+      target: en/2021-02-pr/10
+      title: Food for One More
+      start_date: 29/05/2021
+      end_date: 04/06/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L11.pdf'
+      target: en/2021-02-pr/11
+      title: Fire on the Mountain
+      start_date: 05/06/2021
+      end_date: 11/06/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L12.pdf'
+      target: en/2021-02-pr/12
+      title: God’s Gentle Whisper
+      start_date: 12/06/2021
+      end_date: 18/06/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2021/Q2/Primary/Student/P-21-Q2-L13.pdf'
+      target: en/2021-02-pr/13
+      title: Up, Up, and Away
+      start_date: 19/06/2021
+      end_date: 25/06/2021
