@@ -31,10 +31,10 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      - run: node deploy-pdf -b ${{ steps.extract_branch.outputs.branch }} -m "gen"
+      - run: node deploy-pdf -q "2021-*" -b ${{ steps.extract_branch.outputs.branch }} -m "gen"
       - run: rm -r pdf && mkdir pdf
       - run: test -f curl-config.txt && curl -K curl-config.txt || true
-      - run: node deploy-pdf -b ${{ steps.extract_branch.outputs.branch }} -m "keep"
+      - run: node deploy-pdf -q "2021-*" -b ${{ steps.extract_branch.outputs.branch }} -m "keep"
       - name: Deploying to cloud
         run: aws s3 sync ./pdf s3://sabbath-school-pdf`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
         env:
