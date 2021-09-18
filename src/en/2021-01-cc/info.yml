@@ -1,11 +1,11 @@
 ---
-  title: "The Jesus Walk"
+  title: "In the Flesh"
   description: "The goal of Cornerstone Connections is to lead you to the Bible to see the big story of God and people. This big story continues from the first generation in Eden to your generation today. It’s about the lives of people as the God of the universe interacts with them."
-  human_date: "July · August · September 2021"
-  start_date: "26/06/2021"
-  end_date: "24/09/2021"
-  color_primary: "#5D8D62"
-  color_primary_dark: "#357A3C"
+  human_date: "January · February · March 2021"
+  start_date: "26/12/2020"
+  end_date: "26/03/2021"
+  color_primary: "#834E5D"
+  color_primary_dark: "#7A3C4E"
   quarterly_name: "Cornerstone Connections"
   credits:
     - name: Editorial Assistant
@@ -20,5 +20,3 @@
       value: "Review and Herald Design Center"
     - name: Circulation
       value: "Rebecca Hilde"
-
-
