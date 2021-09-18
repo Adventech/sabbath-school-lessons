@@ -1,10 +1,10 @@
 ---
   pdf:
     - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-Intro.pdf'
-      target: en/2021-01-rt/01
+      target: en/2021-01-rt/introduction
       title: Introduction
       start_date: 26/12/2020
-      end_date: 01/01/2021
+      end_date: 26/12/2020
     - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L01.pdf'
       target: en/2021-01-rt/01
       title: Living as Heaven’s Citizens
