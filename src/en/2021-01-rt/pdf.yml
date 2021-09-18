@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-Intro.pdf'
+      target: en/2021-01-rt/01
+      title: Introduction
+      start_date: 26/12/2020
+      end_date: 01/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L01.pdf'
+      target: en/2021-01-rt/01
+      title: Living as Heaven’s Citizens
+      start_date: 26/12/2020
+      end_date: 01/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L02.pdf'
+      target: en/2021-01-rt/02
+      title: Holiness
+      start_date: 02/01/2021
+      end_date: 08/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L03.pdf'
+      target: en/2021-01-rt/03
+      title: Living Beyond Ourselves
+      start_date: 09/01/2021
+      end_date: 15/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L04.pdf'
+      target: en/2021-01-rt/04
+      title: Finding My Place
+      start_date: 16/01/2021
+      end_date: 22/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L05.pdf'
+      target: en/2021-01-rt/05
+      title: Resisting Negative Peer Pressure
+      start_date: 23/01/2021
+      end_date: 29/01/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L06.pdf'
+      target: en/2021-01-rt/06
+      title: Substance and Other Body Abuses
+      start_date: 30/01/2021
+      end_date: 05/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L07.pdf'
+      target: en/2021-01-rt/07
+      title: 'Living in the Here and Now: Solid Ground'
+      start_date: 06/02/2021
+      end_date: 12/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L08.pdf'
+      target: en/2021-01-rt/08
+      title: Standing for Religious Liberty
+      start_date: 13/02/2021
+      end_date: 19/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L09.pdf'
+      target: en/2021-01-rt/09
+      title: Telling Your Story
+      start_date: 20/02/2021
+      end_date: 26/02/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L10.pdf'
+      target: en/2021-01-rt/10
+      title: Spiritual Gifts
+      start_date: 27/02/2021
+      end_date: 05/03/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L11.pdf'
+      target: en/2021-01-rt/11
+      title: Teens on a Mission
+      start_date: 06/03/2021
+      end_date: 12/03/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L12.pdf'
+      target: en/2021-01-rt/12
+      title: Relating to the Local Church
+      start_date: 13/03/2021
+      end_date: 19/03/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/earliteens/Lessons/2021/Q1/English/Student/R-21-Q1-L13.pdf'
+      target: en/2021-01-rt/13
+      title: Kingdom of the Narrow Way
+      start_date: 20/03/2021
+      end_date: 26/03/2021
