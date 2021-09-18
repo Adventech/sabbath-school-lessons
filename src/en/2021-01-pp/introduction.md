@@ -1,4 +1,6 @@
-### Dear student,
+### God's Grace Transcends Barriers
+
+**Dear student,**
 
 You are a gift from God, and He loves you very much! If the Lord knows each star by name and makes sure that it is in the proper place each night (Isaiah 40:26), how much more important are you?
 
