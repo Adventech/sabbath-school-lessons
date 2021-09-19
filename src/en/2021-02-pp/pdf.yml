@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-Intro.pdf'
+      target: en/2021-02-pp/introduction
+      title: Introduction
+      start_date: 27/03/2021
+      end_date: 27/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L01.pdf'
+      target: en/2021-02-pp/01
+      title: Staying Awake
+      start_date: 27/03/2021
+      end_date: 02/04/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L02.pdf'
+      target: en/2021-02-pp/02
+      title: Through Thick and Thin
+      start_date: 03/04/2021
+      end_date: 09/04/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L03.pdf'
+      target: en/2021-02-pp/03
+      title: Surprise at Sunrise
+      start_date: 10/04/2021
+      end_date: 16/04/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L04.pdf'
+      target: en/2021-02-pp/04
+      title: Risen Man Breaks Bread
+      start_date: 17/04/2021
+      end_date: 23/04/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L05.pdf'
+      target: en/2021-02-pp/05
+      title: Believing is Seeing
+      start_date: 24/04/2021
+      end_date: 30/04/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L06.pdf'
+      target: en/2021-02-pp/06
+      title: The Gift of Heaven
+      start_date: 01/05/2021
+      end_date: 07/05/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L07.pdf'
+      target: en/2021-02-pp/07
+      title: 'Heaven: A Sneak Preview'
+      start_date: 08/05/2021
+      end_date: 14/05/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L08.pdf'
+      target: en/2021-02-pp/08
+      title: Citizens of the Love Kingdom
+      start_date: 15/05/2021
+      end_date: 21/05/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L09.pdf'
+      target: en/2021-02-pp/09
+      title: Jesus Defends Us
+      start_date: 22/05/2021
+      end_date: 28/05/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L10.pdf'
+      target: en/2021-02-pp/10
+      title: Just the Beginning of Praise
+      start_date: 29/05/2021
+      end_date: 04/06/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L11.pdf'
+      target: en/2021-02-pp/11
+      title: A Thousand Years in Heaven
+      start_date: 05/06/2021
+      end_date: 11/06/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L12.pdf'
+      target: en/2021-02-pp/12
+      title: Everyone Will Bow
+      start_date: 12/06/2021
+      end_date: 18/06/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-L13.pdf'
+      target: en/2021-02-pp/13
+      title: Earth's Makeover
+      start_date: 19/06/2021
+      end_date: 25/06/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-Activities.pdf'
+      target: en/2021-02-pp/activities
+      title: Activities
+      start_date: 19/06/2021
+      end_date: 25/06/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-MemoryVerses.pdf'
+      target: en/2021-02-pp/memory-verses
+      title: Memory verses
+      start_date: 19/06/2021
+      end_date: 25/06/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q2/English/Student/PP-21-Q2-Parents.pdf'
+      target: en/2021-02-pp/parents
+      title: Parents
+      start_date: 19/06/2021
+      end_date: 25/06/2021

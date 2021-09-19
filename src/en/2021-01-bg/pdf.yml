@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2021/Q1/Beginner/Student/B-21-Q1-L00.pdf'
+      target: en/2021-01-bg/introduction
+      title: Introduction
+      start_date: 26/12/2020
+      end_date: 26/12/2020
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2021/Q1/Beginner/Student/B-21-Q1-L01.pdf'
+      target: en/2021-01-bg/01
+      title: Little Jesus, the Happy Helper
+      start_date: 26/12/2020
+      end_date: 29/01/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2021/Q1/Beginner/Student/B-21-Q1-L02.pdf'
+      target: en/2021-01-bg/02
+      title: Zacchaeus Climbs a Tree
+      start_date: 30/01/2021
+      end_date: 26/02/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2021/Q1/Beginner/Student/B-21-Q1-L03.pdf'
+      target: en/2021-01-bg/03
+      title: The Great Parade
+      start_date: 27/02/2021
+      end_date: 26/03/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2021/Q1/Beginner/Student/B-21-Q1-Activites.pdf'
+      target: en/2021-01-bg/activities
+      title: Activities
+      start_date: 27/02/2021
+      end_date: 26/03/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2021/Q1/Beginner/Student/B-21-Q1-MemoryVerses.pdf'
+      target: en/2021-01-bg/memory-verses
+      title: Memory verses
+      start_date: 27/02/2021
+      end_date: 26/03/2021

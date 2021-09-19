@@ -31,11 +31,14 @@ let branch = argv.b,
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
     API_VERSION = "v1",
+    API_VERSION_2 = "v2",
     SOURCE_DIR = "src/",
     SOURCE_VIDEO_FILE = "video.yml",
     SOURCE_COVER_FILE = "cover.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
-    FIREBASE_DATABASE_VIDEO = "/api/" + API_VERSION + "/video";
+    DIST_DIR_V2 = "dist/api/" + API_VERSION_2 + "/",
+    FIREBASE_DATABASE_VIDEO = "/api/" + API_VERSION + "/video",
+    FIREBASE_DATABASE_VIDEO_V2 = "/api/" + API_VERSION_2 + "/video";
 
 let db
 if (branch.toLowerCase() === "master") {
@@ -238,9 +241,11 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
 
         if (mode === "sync") {
             await db.ref(FIREBASE_DATABASE_VIDEO).child(`${info.language}-${info.quarterly}`).set(videoAPIJson);
+            await db.ref(FIREBASE_DATABASE_VIDEO_V2).child(`${info.language}-${info.quarterly}`).set(videoAPIJson);
 
             if (videoAPIJson.length) {
                 fs.outputFileSync(`${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/video.json`, JSON.stringify(videoAPIJson));
+                fs.outputFileSync(`${DIST_DIR_V2}${info.language}/quarterlies/${info.quarterly}/video.json`, JSON.stringify(videoAPIJson));
             }
         }
     }
