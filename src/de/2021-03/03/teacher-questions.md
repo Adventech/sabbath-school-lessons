@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   23/07/2021
+date:   16/07/2021
 ---
 
 [Die Wurzeln der Ruhelosigkeit](https://sabbath-school.adventech.io/de/2021-03/03/01)

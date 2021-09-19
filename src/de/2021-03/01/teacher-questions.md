@@ -1,6 +1,6 @@
 ---
 title:  Gesprächsfragen SabbatschulWiki
-date:   09/07/2021
+date:   02/07/2021
 ---
 
 [Leben in einer 24/7-Gesellschaft](https://sabbath-school.adventech.io/de/2021-03/01/01)

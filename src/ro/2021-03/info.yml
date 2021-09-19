@@ -6,3 +6,18 @@
   end_date: "24/09/2021"
   color_primary: "#559C72"
   color_primary_dark: "#388457"
+  credits:
+    - name: Autor
+      value: Gerald și Chantal Klingbeil
+    - name: Traducere
+      value: Denisa Olariu
+    - name: Redactare
+      value: Gianina Floricel
+    - name: Lectura traducerii, adaptare
+      value: Florian Ristea
+    - name: Corectură
+      value: Lavinia Goran
+    - name: Tehnoredactare
+      value: Irina Toncu
+    - name: Copertă
+      value: Liliana Dincă

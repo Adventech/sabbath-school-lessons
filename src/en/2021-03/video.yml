@@ -25,6 +25,18 @@
         - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/4C/hIZ_BRIgSngRDeblIfCsv6-WAkNQsWLEodCffjFQc/hss-20q3-20e8-20ex-390.mp4
           thumbnail: https://hopechannel.io/api/containers/hopetvOrg-amsmedialibraryEpisodes-image/download/60afae2701d8d927f144604a-0-[en-us].png
           target: en/2021-03/08
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/HN/V-MRNxQbW9S-0Hp9zwutNa0FzmUPSqpUeiTYLr2c0/hss-20q3-20e9-20ex-5032.mp4
+          thumbnail: https://hopechannel.io/api/containers/hopetvOrg-amsmedialibraryEpisodes-image/download/60afb403adf427280eb6081d-0-[en-us].png
+          target: en/2021-03/09
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/X4/EpxgVoO7hWovK7H4MTSYQV55YN_kdiFTdc0IyUgyg/jsvupp-4p5u871vtrve5f32f9vu.mp4
+          thumbnail: https://storage.googleapis.com/prod-uploads-01-930013d/jsvupp:RY1P5ILSWrvxBND1JJVB.png
+          target: en/2021-03/10
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/k1/twRToJuXwcV5fCkHUjcT76Iz_wczJ1OgzQU2kKCBE/hss_2021_q3_ep11.mp4
+          thumbnail: https://storage.googleapis.com/prod-uploads-01-930013d/jsvupp:b7ILx6ZAQxxgSV657rrQ.png
+          target: en/2021-03/11
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/2b/v3vTFYP06elb0QVEYbLE5VrWonvtNdw6gNKgG3H7c/hah_2021_q3_ep12-20updated.mp4
+          thumbnail: https://storage.googleapis.com/prod-uploads-01-930013d/jsvupp:nI7qXjAwDCZxNLTsoOcr.png
+          target: en/2021-03/12
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-213-1-WEEKLY-EN.mp4
@@ -105,6 +117,18 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-08.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en-2021-03-08.jpg
           target: en/2021-03/08
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw-en-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw-en-2021-03-09.jpg
+          target: en/2021-03/09
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw-en-2021-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw-en-2021-03-10.jpg
+          target: en/2021-03/10
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-11.jpg
+          target: en/2021-03/11
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-12.jpg
+          target: en/2021-03/12
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -126,7 +150,42 @@
           target: en/2021-03/08
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6114245266b027000122e046/6114245266b027000122e047/550b0b2669702d0707940200/48705614-da91-4886-b0e0-87cc0c488433.mp4?dHcMKPgXjBxLNNV-hv2ZcaJOOekXrA3vokfstE9qRb29XvBBh03dXEITbTFo4mE179Lxyg5j34pQ6ejXtRd6P_hGKXUd5O0UHv9Rhd-cJhLI0DP7adqaDRdYosqb_xgcIK4a_ZD0xPjuuqaerI38tw&F38b1dF4=611c2351925f0e0001b3af20
           target: en/2021-03/09
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6123d4811f14d60001b92dd8/6123d4811f14d60001b92dd9/550b0b2669702d0707940200/7a6e2be8-643f-48a0-835d-3a0930506f64.mp4?Rk88Hq9WXx-XIjIkuOZn325slitKWQ9tctZEniQV0XIDdRv_vsIFBBU9ctPKmyzkI6AX2Gy8Mfl66VIL8sHpq0AGVo5QslEwb-eWZK1RR1JoC6oYOJyCpKmjftx9IO93XLbug0_QOENxTcZralhpKA&F38b1dF4=6123e2228bae2e0001fb4556
+          target: en/2021-03/10
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61257b6546f7020001393820/61257b6546f7020001393821/550b0b2669702d0707940200/a03a50d5-2b30-486c-a738-24027485e00e.mp4?2A9xtfrELy48tZ5q8h7sFsJedkZhlTssop7uG278zmrO8O4928-43oPYN6LOSOPemNt3SAtu7o7qUDJUyH8w0dVxrTfM2kOZSsM6nUFaORijipkoNq5SrsVv8MiBRK1lQdl_RFXtEWy6ZME6_Un-xw&F38b1dF4=61258801894556000109f24e
+          target: en/2021-03/11
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61300ee5867fc600016f96ca/61300ee5867fc600016f96cb/550b0b2669702d0707940200/827cdd82-3dc5-4d90-b149-fbf2828a167a.mp4?eaXBUsjlMAEmfxFHYOJ3igqlMmpmVuFuuwMSVue94qJJDgJXj16Q30djj4s3ckmX-hIGqSBzpjlIvZ7MXhvwGTtgYgnGoiJLyg71tCajkD-8X2FiZ-AsMJT5-X3QrH_h3zOSMiCAP1vOUU1FsFMsiA&F38b1dF4=6130e6f21e31be000116b5f4
+          target: en/2021-03/12
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/613e6b30f78a4d00019d7bba/613e6b30f78a4d00019d7bbb/550b0b2669702d0707940200/46517656-1707-4230-86c8-32b4fe7c6fd1.mp4?ETT8-1WzbGsqVzV4egwr9GR03Ca7pY48mtzDvzOVg2mpGrEvPJuuyDP18YkTAS8XvNjSeLTXX-93OyCgxnK00A_xmYhzKKFkJgyw00oefXtBcdlEjqAb6wZfEN-v2Aqrb9KkjW6gKeoYNmY0JxZPgw&F38b1dF4=613fadc11f5f0e0001d7f3cc
+          target: en/2021-03/13
+    - artist: Sabbath School Talking Points
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-01.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-02.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-03.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-04.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-05.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-06.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-07.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-08.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-09.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-10.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-11.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-12.jpg
     - artist: 3ABN Sabbath School Panel
+      skip: true
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-01.mp4
           target: en/2021-03/01
@@ -152,3 +211,20 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-08.mp4
           target: en/2021-03/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-09.mp4
+          target: en/2021-03/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/3abn/en-2021-03-09.jpg
+    - artist: Central Study Hour
+      skip: true
+      thumbnail: https://www.saccentral.org/wp-content/uploads/2021/06/Banner2021-3.jpg
+      clips:
+        - src: https://www.saccentral.org/wp-content/uploads/2021/06/CSH-22127-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/07/CSH-22128-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/07/CSH-22129-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/07/CSH-22130-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/07/CSH-22131-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/07/CSH-22132-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/08/CSH-22133-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/08/CSH-22134-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/08/CSH-22135-Website.m4v
+        - src: https://www.saccentral.org/wp-content/uploads/2021/08/CSH-22136-Website.m4v

@@ -2,7 +2,7 @@
 
 let firebase = require("firebase-admin"),
     glob = require("glob"),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     fs = require("fs-extra"),
     crypto = require('crypto'),
     metaMarked = require("meta-marked"),
@@ -31,11 +31,14 @@ let branch = argv.b,
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
     API_VERSION = "v1",
+    API_VERSION_2 = "v2",
     SOURCE_DIR = "src/",
     SOURCE_VIDEO_FILE = "video.yml",
     SOURCE_COVER_FILE = "cover.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
-    FIREBASE_DATABASE_VIDEO = "/api/" + API_VERSION + "/video";
+    DIST_DIR_V2 = "dist/api/" + API_VERSION_2 + "/",
+    FIREBASE_DATABASE_VIDEO = "/api/" + API_VERSION + "/video",
+    FIREBASE_DATABASE_VIDEO_V2 = "/api/" + API_VERSION_2 + "/video";
 
 let db
 if (branch.toLowerCase() === "master") {
@@ -93,10 +96,13 @@ let videoAPI = async function (mode) {
 
     for (let video of videos) {
         let videoAPIJson = []
-        let videoSource = yamljs.load(`${video}`),
+        let videoSource = yamljs.load(fs.readFileSync(`${video}`)),
             info = getInfoFromPath(video);
 
         for (let artist of videoSource.video) {
+            if (artist.skip) {
+                continue;
+            }
             let videoInfo = {
                 artist: artist.artist,
                 clips: []
@@ -152,6 +158,9 @@ let videoAPI = async function (mode) {
 
                 videoItem.thumbnail = `${MEDIA_HOST}video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`
 
+
+                delete videoInfo.thumbnail
+
                 if (videoItem.duration) {
                     if (typeof videoItem.duration === 'number') {
                         videoItem.duration = moment("2015-01-01").startOf('day').seconds(videoItem.duration).format("H:mm:ss").replace(/^[0:]+(?=\d[\d:]{3})/, '');
@@ -168,7 +177,7 @@ let videoAPI = async function (mode) {
                         let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/${videoItemInfo.day}.md`, "utf-8"))
                         videoItem.title = read.meta.title
                     } else {
-                        let lesson = yamljs.load(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`)
+                        let lesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`))
                         videoItem.title = lesson.title
                     }
                 }
@@ -232,9 +241,11 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
 
         if (mode === "sync") {
             await db.ref(FIREBASE_DATABASE_VIDEO).child(`${info.language}-${info.quarterly}`).set(videoAPIJson);
+            await db.ref(FIREBASE_DATABASE_VIDEO_V2).child(`${info.language}-${info.quarterly}`).set(videoAPIJson);
 
             if (videoAPIJson.length) {
                 fs.outputFileSync(`${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/video.json`, JSON.stringify(videoAPIJson));
+                fs.outputFileSync(`${DIST_DIR_V2}${info.language}/quarterlies/${info.quarterly}/video.json`, JSON.stringify(videoAPIJson));
             }
         }
     }

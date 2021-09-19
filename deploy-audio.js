@@ -2,7 +2,7 @@
 
 let firebase = require("firebase-admin"),
     glob = require("glob"),
-    yamljs = require("yamljs"),
+    yamljs = require("js-yaml"),
     fs = require("fs-extra"),
     crypto = require('crypto'),
     metaMarked = require("meta-marked"),
@@ -30,11 +30,14 @@ let branch = argv.b,
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
     API_VERSION = "v1",
+    API_VERSION_2 = "v2",
     SOURCE_DIR = "src/",
     SOURCE_AUDIO_FILE = "audio.yml",
     SOURCE_COVER_FILE = "cover.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
-    FIREBASE_DATABASE_AUDIO = "/api/" + API_VERSION + "/audio";
+    DIST_DIR_V2 = "dist/api/" + API_VERSION_2 + "/",
+    FIREBASE_DATABASE_AUDIO = "/api/" + API_VERSION + "/audio",
+    FIREBASE_DATABASE_AUDIO_V2 = "/api/" + API_VERSION_2 + "/audio";
 
 let db
 if (branch.toLowerCase() === "master") {
@@ -88,21 +91,33 @@ let audioAPI = async function (mode) {
     console.log('Deploying audio API');
 
     let audios = glob.sync(`${SOURCE_DIR}/${compile_language}/${compile_quarter}/${SOURCE_AUDIO_FILE}`);
-    let audioInfo = []
+
 
     let curlConfig = ""
 
     for (let audio of audios) {
-
-        let audioSource = yamljs.load(`${audio}`),
+        let audioInfo = []
+        let audioSource = yamljs.load(fs.readFileSync(`${audio}`)),
             info = getInfoFromPath(audio);
 
         for (let artist of audioSource.audio) {
-            for (let track of artist.tracks) {
+            let weekIterator = 1;
+            for (let [i, track] of artist.tracks.entries()) {
                 let audioItem = {
                     artist: artist.artist
                 }
-                if (!track['target'] || !track['src']) { continue }
+                if (!track['src'] || (!track['target'] && !artist['target'])) { continue }
+
+                if (!track['target']) {
+                    if (artist['target'] === 'daily') {
+                        track['target'] = `${info.language}/${info.quarterly}/${String(weekIterator).padStart(2, '0')}/${String(i+1 - ((weekIterator-1) * 7)).padStart(2, '0')}`
+                    } else {
+                        track['target'] = `${info.language}/${info.quarterly}/${String(i+1).padStart(2, '0')}`
+                    }
+                    if ((i+1) % 7 === 0) {
+                        weekIterator++;
+                    }
+                }
 
                 audioItem.id = crypto.createHash('sha256').update(artist.artist + track['target'] + track['src']).digest('hex');
 
@@ -143,7 +158,7 @@ let audioAPI = async function (mode) {
                         let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/${audioItemInfo.day}.md`, "utf-8"))
                         audioItem.title = read.meta.title
                     } else {
-                        let lesson = yamljs.load(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/info.yml`)
+                        let lesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${audioItemInfo.language}/${audioItemInfo.quarterly}/${audioItemInfo.lesson}/info.yml`))
                         audioItem.title = lesson.title
                     }
                 }
@@ -182,9 +197,11 @@ output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audio
 
         if (mode === "sync") {
             await db.ref(FIREBASE_DATABASE_AUDIO).child(`${info.language}-${info.quarterly}`).set(audioInfo);
+            await db.ref(FIREBASE_DATABASE_AUDIO_V2).child(`${info.language}-${info.quarterly}`).set(audioInfo);
 
             if (audioInfo.length) {
                 fs.outputFileSync(`${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/audio.json`, JSON.stringify(audioInfo));
+                fs.outputFileSync(`${DIST_DIR_V2}${info.language}/quarterlies/${info.quarterly}/audio.json`, JSON.stringify(audioInfo));
             }
         }
     }
