@@ -1,0 +1,82 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L00.pdf'
+      target: en/2021-03-kd/introduction
+      title: Introduction
+      start_date: 26/06/2021
+      end_date: 26/06/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L01.pdf'
+      target: en/2021-03-kd/01
+      title: The Little Prince
+      start_date: 26/06/2021
+      end_date: 02/07/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L02.pdf'
+      target: en/2021-03-kd/02
+      title: Repairing the Temple
+      start_date: 03/07/2021
+      end_date: 09/07/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L03.pdf'
+      target: en/2021-03-kd/03
+      title: Queen Esther
+      start_date: 10/07/2021
+      end_date: 16/07/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L04.pdf'
+      target: en/2021-03-kd/04
+      title: Esther Saves Her People
+      start_date: 17/07/2021
+      end_date: 23/07/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L05.pdf'
+      target: en/2021-03-kd/05
+      title: The Little Maid
+      start_date: 24/07/2021
+      end_date: 30/07/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L06.pdf'
+      target: en/2021-03-kd/06
+      title: Little Maid Serves God
+      start_date: 31/07/2021
+      end_date: 06/08/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L07.pdf'
+      target: en/2021-03-kd/07
+      title: Disappearing Spots
+      start_date: 07/08/2021
+      end_date: 13/08/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L08.pdf'
+      target: en/2021-03-kd/08
+      title: Naaman Serves God
+      start_date: 14/08/2021
+      end_date: 20/08/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L09.pdf'
+      target: en/2021-03-kd/09
+      title: Baby Moses
+      start_date: 21/08/2021
+      end_date: 27/08/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L10.pdf'
+      target: en/2021-03-kd/10
+      title: Pillars of Cloud and Fire
+      start_date: 28/08/2021
+      end_date: 03/09/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L11.pdf'
+      target: en/2021-03-kd/11
+      title: Bitter Water to Better Water
+      start_date: 04/09/2021
+      end_date: 10/09/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L12.pdf'
+      target: en/2021-03-kd/12
+      title: God Gives Manna
+      start_date: 11/09/2021
+      end_date: 17/09/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-L13.pdf'
+      target: en/2021-03-kd/13
+      title: God’s 10 Rules
+      start_date: 18/09/2021
+      end_date: 24/09/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/B-21-Q3-Activites.pdf'
+      target: en/2021-03-kd/activities
+      title: Activities
+      start_date: 18/09/2021
+      end_date: 24/09/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q3/Kindergarten/Student/K-21-Q3-MemoryVerses.pdf'
+      target: en/2021-03-kd/memory-verses
+      title: Memory verses
+      start_date: 18/09/2021
+      end_date: 24/09/2021
