@@ -6,7 +6,7 @@
   end_date: "24/12/2021"
   color_primary: "#EDE5F1"
   color_primary_dark: "#3C0065"
-    quarterly_name: "Felnőtt szombatiskola"
+  quarterly_name: "Felnőtt szombatiskola"
   splash: true
   features:
     - egw-quotes
