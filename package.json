@@ -16,7 +16,7 @@
     "markdownlint": "^0.22.0",
     "meta-marked": "^0.5.0",
     "moment": "^2.29.1",
-    "optimist": "^0.6.1"
+    "optimist": "^0.5.2"
   },
   "scripts": {
     "compile": "node ./deploy -b test -l en -q 2021-02"
