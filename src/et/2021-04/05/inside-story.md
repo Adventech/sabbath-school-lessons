@@ -1,6 +1,6 @@
 ---
 title: 'Misjonilugu'
-date: 22/10/2021
+date: 29/10/2021
 ---
 
 #### Vastuvõetud sõnum
