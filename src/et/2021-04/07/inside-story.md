@@ -23,4 +23,4 @@ Mu poja palve pani mu südame igatsema Jeesuse peatset tulekut.
 
 Järgmisel päeval võtsin tervituspildi ukselt alla. Hoian seda alles. Mõnikord ootame suuri asju ja unustame, kuidas meie plaanid sekunditega muutuvad, unistused purunevad ning võime oma kallid kaotada. Meil on alati vaja Jeesuse tagasitulekuks valmis olla.
 
-_See misjonilugu illustreerib Seitsmenda Päeva Adventistide koguduse strateegilise plaani „Mina lähen“ vaimuliku kasvu eesmärki nr 5: „Õpetada üksik­isikuid ja perekondi elama Vaimust täidetud elu.“ Rohkemat saad teada aadressilt IWillGo2020.org._
+_See misjonilugu illustreerib Seitsmenda Päeva Adventistide koguduse strateegilise plaani „Mina lähen“ vaimuliku kasvu eesmärki nr 5: „Õpetada üksikisikuid ja perekondi elama Vaimust täidetud elu.“ Rohkemat saad teada aadressilt IWillGo2020.org._

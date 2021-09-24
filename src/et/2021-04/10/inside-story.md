@@ -11,7 +11,7 @@ Brasiilia pagulane Sandra Sato sõitis Jaapanis otsejoones Seitsmenda Päeva Adv
 
 Naine oli Jumalale tõotanud, et kui ta juhiloa kätte saab, sõidab ta autoga kõigepealt kirikusse.
 
-Sellel õhtul rääkis Sandra rõõmsalt Tokai Kristliku Keskuse kirikus koguduse­ liikmetele, et Jumal oli vastanud tema palvetele juhiluba saada.
+Sellel õhtul rääkis Sandra rõõmsalt Tokai Kristliku Keskuse kirikus koguduseliikmetele, et Jumal oli vastanud tema palvetele juhiluba saada.
 
 „Ja ma olen ka ristimiseks valmis,“ teatas naine.
 
