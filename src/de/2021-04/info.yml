@@ -4,16 +4,16 @@
   human_date: "Oktober · November · Dezember 2021"
   start_date: "25/09/2021"
   end_date: "24/12/2021"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
   credits:
     - name: Autor
-      value: ""
+      value: "Clifford R. Goldstein"
     - name: Herausgeber
       value: "Clifford R. Goldstein"
     - name: Redakteurin
-      value: ""
+      value: "Soraya Homayouni"
     - name: Publikationsleiterin
-      value: ""
+      value: "Lea Alexander Greve"
     - name: Redaktionsassistentin
-      value: ""
+      value: "Sharon Thomas-Crews"
