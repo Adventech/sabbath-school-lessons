@@ -1,0 +1,22 @@
+---
+  title: "Das 5. Buch Mose (Deuteronomium)"
+  description: "true"
+  human_date: "Oktober · November · Dezember 2021"
+  start_date: "25/09/2021"
+  end_date: "24/12/2021"
+  color_primary: "#ceb829"
+  color_primary_dark: "#ceb829"
+  quarterly_name: "imWort"
+  credits:
+    - name: Herausgeber
+      value: "Justin Kim"
+    - name: Koordination Sabbatschule
+      value: "Markus Gritschenberger"
+    - name: Publikationsleiter
+      value: "Franz Mössner"
+    - name: Übersetzung
+      value: "Angelika Uhlmann"
+    - name: Korrektorat
+      value: "Monika Lumpi"
+    - name: Design & Illustrationen
+      value: "Types & Symbols"
