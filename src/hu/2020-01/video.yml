@@ -1,0 +1,30 @@
+---
+  video:
+    - artist: Felnőtt szombatiskola
+      clips:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20201228.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200104.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200111.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200118.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200125.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200201.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200208.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200215.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200222.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200229.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200307.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200314.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200321.mp4
+          thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
