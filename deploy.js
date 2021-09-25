@@ -58,10 +58,30 @@ let donationNotice = {
     "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
     "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
     "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
-    "<p><strong><a href=\"https://zrzutka.pl/g8tfmw\">https://zrzutka.pl/g8tfmw</a></strong></p>\n" +
+    "<p><strong><a href=\"https://znakiczasu.pl/lekcje-bibilijne-zrzutka`\">https://znakiczasu.pl/lekcje-bibilijne-zrzutka</a></strong></p>\n" +
     "<p><em>Zespół Adventech</em></p>" +
     "</div>\n" +
     "</div>"
+}
+
+let egwTemplate = function(title, text) {
+  return `\n\n---\n\n<div style="display: none" class="ss-donation-appeal">
+<div class="ss-donation-appeal-title">
+<p>${title}</p>
+<div class="ss-donation-appeal-icon"></div>
+</div>
+<div class="ss-donation-appeal-text">
+${text}
+</div>
+</div>
+`
+}
+
+let egwTitles = {
+  "en": {
+    title: "Additional Reading: Selected Quotes from Ellen G. White",
+    regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
+  }
 }
 
 let firebase = require("firebase-admin"),
@@ -339,7 +359,9 @@ let getQuarterlyJSON = function (quarterlyPath) {
     fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
     quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
   } else {
-    if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+    if (fs.pathExistsSync(`images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`;
+    } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
       quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
     }
   }
@@ -671,6 +693,17 @@ let dayAPI = async function () {
           language = info.language;
 
       resultRead = day.markdown;
+
+      if (egwTitles[info.language]) {
+        let egwRegexTitle = new RegExp(egwTitles[info.language].regex, "img"),
+            egwRegexFull = new RegExp(`${egwTitles[info.language].regex}(.*\n?)+`, "img")
+
+        if (egwRegexTitle.test(resultRead)) {
+          let egwComments = resultRead.match(egwRegexFull)[0].replace(egwRegexTitle, "").trim()
+          resultRead = resultRead.replace(egwRegexFull, "").trim()
+          resultRead += egwTemplate(egwTitles[info.language].title, egwComments)
+        }
+      }
 
       if (bibleVersion.version) {
         language = bibleVersion.lang;
