@@ -1,0 +1,22 @@
+---
+title:  Zendingsbericht
+date:   10/12/2021
+---
+
+#### Liefdesvaccin
+
+_Zuid-Korea, 11 december_
+
+Jang Dong-woon (65)
+
+Biep, biep. Een paar keer per dag verschijnen er noodberichten op mijn mobiele telefoon. Deze berichten geven informatie over het coronavirus en raden ons aan het huis niet te verlaten. Te midden van de COVID-19 pandemie bleek het Zuid-Koreaanse gebied waar ik woon tot een coronavrije zone te behoren. Tot patiënt nummer 31 het virus naar mijn woonplaats bracht door een bijeenkomst bij te wonen van een christelijke groepering. Het evenement groeide uit tot één van de grootste verspreiders van het virus.
+
+Al snel bezat mijn dorp de meeste besmettingen van het hele land en dagelijks kwamen er honderden nieuwe besmettingen bij. Het aantal geregistreerde besmettingen bereikte de 6000, slechts een maand na de bijeenkomst. Terwijl de nationale media dagelijkse verslagen uitbrachten over mijn woonomgeving, keken mensen door heel Zuid-Korea op ons neer en bestempelden ons als de hoofdschuldigen in de landelijke verspreiding van het coronavirus. Alles viel ineens stil. Geen mens kwam meer naar de supermarkt, markten in de openlucht en restaurants. Niemand kocht of verkocht. Er reden maar een paar auto’s op de weg. Het onzichtbare virus keerde de zichtbare wereld in een mum van tijd ondersteboven. Ook mijn kerk werd erdoor beïnvloed. Tientallen jaren lang heb ik mijn liefde voor Jezus gedeeld, maar mijn verering en evangelisatie-activiteiten kwamen tot stilstand. Ik vroeg me af of Gods kerk gedwongen zou worden haar deuren te sluiten. Moesten we dan stilletjes een punt zetten achter de verspreiding van het evangelie en simpelweg wachten tot de situatie verbeterde? Dat ging mij te ver. Terwijl de wereld zich stilhield, bad ik.
+
+‘Mijn Vader, ik weet dat deze wereldcrisis U kansen biedt. Welke kans biedt U mij?’ Zo bad ik steeds weer. Een helder licht verscheen in mijn diepe duisternis. Ik herinnerde me dat ik tijdens kerkconferenties van het gezondheidsdepartement had geleerd hoe ik handreinigingsmiddel kon maken. ‘Één van de dingen die mensen nu nodig hebben is handreinigingsmiddel’, realiseerde ik me. Met de hulp van het gezondheidsdepartement fabriceerden mijn kerkleden zo’n duizend flesjes desinfecterende handgel en verspreidden die op openluchtmarkten.
+
+We zetten mondkapjes op en deden handschoenen aan om het handreinigingsmiddel weg te kunnen geven. De mensen reageerden erop alsof de desinfecterende handgel één van de meest waardevolle producten ter wereld was. Hun intense blijdschap was van hun gezicht te lezen. We liepen niet te koop met de naam van onze kerk, maar vele mensen vroegen ons, ‘Waar kom je vandaan?’ of ‘Voor welke organisatie werk je?’. Dan antwoordden we dat we bij de Adventkerk hoorden. Een crisis veranderde in een buitenkans. Gods liefde kon zich openbaren doordat wij uitdeelden aan de harten die zo bevroren waren geraakt door COVID-19.
+
+Toen gaf God me nog een ander idee. Heel Zuid-Korea was volledig in paniek toen er geen mondkapje meer te krijgen was. Grote aantallen mensen stonden in de rij te wachten om de zeldzame mondkapjes nog te kopen in winkels. ‘Hoe kan ik deze wanhopige mensen helpen?’, vroeg ik me af. Terwijl ik erover nadacht, realiseerde ik me dat ik in mijn jeugd had geleerd hoe een naaimachine werkt. Thuis begon ik stoffen mondkapjes te maken. Naarmate de stapel mondkapjes groeide, hoorden andere kerkleden over mijn actie en boden hun hulp aan. Hun bijdrage bemoedigde me en maakte me sterk. Het deed me helemaal goed om de kerkleden te zien die eerst waren gestopt met hun zendingswerk vanwege COVID-19, maar nu weer de energie hadden om voor Christus aan de slag te gaan.
+
+Onze God is een wendbare God en Hij verandert crisissituaties in kansen. Mensen die geïsoleerd raakten door de sociale onthouding konden bij elkaar komen door desinfecterende handgel en mondkapjes. Mijn kerk is een plaats geworden waar een liefdesvaccin wordt uitgedeeld, het beste vaccin in de hele crisis. Tot nu toe hebben we 3000 flesjes handreinigingsmiddel verspreid en honderd mondkapjes. Door deze verspreidingsactie, die begonnen is en mogelijk werd gemaakt door God, bid ik ijverig dat de wereld niet gevuld wordt met COVID-19, maar met ‘de kennis van de HEER, zoals het water de bodem van de zee bedekt’ (Jesaja 11:9). 
