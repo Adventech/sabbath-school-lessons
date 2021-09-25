@@ -7,7 +7,7 @@ date:  01/10/2021
 
 _By Hong Soon-mi_
 
-It didn’t seem that life could get much worse. My husband was stricken with bone-marrow cancer. Then his parents died. I had to pay for my mother-in-law’s funeral on my own and then take on responsibility for my family’s livelihood. Sometimes I didn’t even have 1,000 Korean won (US$1) to pay for my son’s school supplies. My salary wasn’t enough to cover my husband’s hospital bills. Every day, I worried that I wouldn’t have enough rice to feed my family. I wept. I felt so alone.
+It didn’t seem that life could get much worse. My husband was stricken with bone-marrow cancer. Then his parents died. I had to pay for my mother-in-law’s funeral on my own and then take on responsibility for my family’s livelihood. Sometimes I didn’t even have 1,000 Korean won (USD 1) to pay for my son’s school supplies. My salary wasn’t enough to cover my husband’s hospital bills. Every day, I worried that I wouldn’t have enough rice to feed my family. I wept. I felt so alone.
 
 Then I met Park Yeon-sook. She wasn’t a relative or even a friend, but she tried to cheer me up. She saw that I was struggling financially, and she gave me additional work at her shop in Hanam, a suburb of South Korea’s capital, Seoul. The extra money helped pay for living expenses and hospital bills.
 
