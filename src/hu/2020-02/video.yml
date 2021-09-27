@@ -1,0 +1,18 @@
+---
+  video:
+    - artist: Felnőtt szombatiskola
+      thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+      clips:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200328.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200404.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200411.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200418.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200425.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200502.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200509.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200516.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200523.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200530.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200606.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200613.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20200620.mp4

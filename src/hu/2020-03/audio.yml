@@ -1,0 +1,186 @@
+---
+  audio:
+    - artist: Felnőtt szombatiskola
+      tracks:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200627.mp3
+          target: hu/2020-03/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200628.mp3
+          target: hu/2020-03/01/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200629.mp3
+          target: hu/2020-03/01/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200630.mp3
+          target: hu/2020-03/01/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200701.mp3
+          target: hu/2020-03/01/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200702.mp3
+          target: hu/2020-03/01/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200703.mp3
+          target: hu/2020-03/01/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200704.mp3
+          target: hu/2020-03/02/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200705.mp3
+          target: hu/2020-03/02/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200706.mp3
+          target: hu/2020-03/02/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200707.mp3
+          target: hu/2020-03/02/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200708.mp3
+          target: hu/2020-03/02/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200709.mp3
+          target: hu/2020-03/02/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200710.mp3
+          target: hu/2020-03/02/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200711.mp3
+          target: hu/2020-03/03/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200712.mp3
+          target: hu/2020-03/03/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200713.mp3
+          target: hu/2020-03/03/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200714.mp3
+          target: hu/2020-03/03/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200715.mp3
+          target: hu/2020-03/03/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200716.mp3
+          target: hu/2020-03/03/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200717.mp3
+          target: hu/2020-03/03/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200718.mp3
+          target: hu/2020-03/04/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200719.mp3
+          target: hu/2020-03/04/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200720.mp3
+          target: hu/2020-03/04/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200721.mp3
+          target: hu/2020-03/04/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200722.mp3
+          target: hu/2020-03/04/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200723.mp3
+          target: hu/2020-03/04/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200724.mp3
+          target: hu/2020-03/04/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200725.mp3
+          target: hu/2020-03/05/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200726.mp3
+          target: hu/2020-03/05/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200727.mp3
+          target: hu/2020-03/05/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200728.mp3
+          target: hu/2020-03/05/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200729.mp3
+          target: hu/2020-03/05/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200730.mp3
+          target: hu/2020-03/05/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200731.mp3
+          target: hu/2020-03/05/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200801.mp3
+          target: hu/2020-03/06/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200802.mp3
+          target: hu/2020-03/06/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200803.mp3
+          target: hu/2020-03/06/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200804.mp3
+          target: hu/2020-03/06/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200805.mp3
+          target: hu/2020-03/06/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200806.mp3
+          target: hu/2020-03/06/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200807.mp3
+          target: hu/2020-03/06/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200808.mp3
+          target: hu/2020-03/07/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200809.mp3
+          target: hu/2020-03/07/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200810.mp3
+          target: hu/2020-03/07/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200811.mp3
+          target: hu/2020-03/07/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200812.mp3
+          target: hu/2020-03/07/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200813.mp3
+          target: hu/2020-03/07/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200814.mp3
+          target: hu/2020-03/07/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200815.mp3
+          target: hu/2020-03/08/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200816.mp3
+          target: hu/2020-03/08/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200817.mp3
+          target: hu/2020-03/08/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200818.mp3
+          target: hu/2020-03/08/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200819.mp3
+          target: hu/2020-03/08/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200820.mp3
+          target: hu/2020-03/08/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200821.mp3
+          target: hu/2020-03/08/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200822.mp3
+          target: hu/2020-03/09/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200823.mp3
+          target: hu/2020-03/09/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200824.mp3
+          target: hu/2020-03/09/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200825.mp3
+          target: hu/2020-03/09/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200826.mp3
+          target: hu/2020-03/09/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200827.mp3
+          target: hu/2020-03/09/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200828.mp3
+          target: hu/2020-03/09/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200829.mp3
+          target: hu/2020-03/10/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200830.mp3
+          target: hu/2020-03/10/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200831.mp3
+          target: hu/2020-03/10/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200901.mp3
+          target: hu/2020-03/10/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200902.mp3
+          target: hu/2020-03/10/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200903.mp3
+          target: hu/2020-03/10/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200904.mp3
+          target: hu/2020-03/10/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200905.mp3
+          target: hu/2020-03/11/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200906.mp3
+          target: hu/2020-03/11/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200907.mp3
+          target: hu/2020-03/11/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200908.mp3
+          target: hu/2020-03/11/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200909.mp3
+          target: hu/2020-03/11/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200910.mp3
+          target: hu/2020-03/11/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200911.mp3
+          target: hu/2020-03/11/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200912.mp3
+          target: hu/2020-03/12/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200913.mp3
+          target: hu/2020-03/12/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200914.mp3
+          target: hu/2020-03/12/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200915.mp3
+          target: hu/2020-03/12/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200916.mp3
+          target: hu/2020-03/12/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200917.mp3
+          target: hu/2020-03/12/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200918.mp3
+          target: hu/2020-03/12/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200919.mp3
+          target: hu/2020-03/13/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200920.mp3
+          target: hu/2020-03/13/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200921.mp3
+          target: hu/2020-03/13/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200922.mp3
+          target: hu/2020-03/13/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200923.mp3
+          target: hu/2020-03/13/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200924.mp3
+          target: hu/2020-03/13/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20200925.mp3
+          target: hu/2020-03/13/07

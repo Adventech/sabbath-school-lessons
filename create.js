@@ -14,10 +14,11 @@ var argv = require("optimist")
     "u": "Include teacher comments",
     "i": "Inside story",
     "m": "Create TMI (Total Member Involvement) News/Tips placeholder lessons",
-    "k": "Create lesson cover placeholder images"
+    "k": "Create lesson cover placeholder images",
+    "f": "Format. Default is md."
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
-  .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false })
+  .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false, "f": "md" })
   .argv;
 
 var fs     =  require("fs-extra"),
@@ -323,40 +324,63 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
 
   fs.mkdirSync(SRC_PATH + quarterlyLanguage + "/" + quarterlyId);
 
-  for (var i = 1; i <= quarterlyLessonAmount; i++){
-    fs.mkdirSync(SRC_PATH + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i));
-
-    fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/info.yml", "---\n  title: \"Weekly Lesson Title\"\n  start_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  end_date: \""+ moment(start_date).add(6, "d").format(DATE_FORMAT) +"\"");
-
-    for (var j = 1; j <= 7; j++){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/" + pad(j) + ".md",
-        "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguage]+"\ndate:   "+moment(start_date).format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
-      );
-      start_date = moment(start_date).add(1, "d");
+  if (argv.f === "pdf") {
+    let pdf = []
+    for (var i = 1; i <= quarterlyLessonAmount; i++) {
+      pdf.push({
+        src: "",
+        target: `${quarterlyLanguage}/${quarterlyId}/${String(i).padStart(2, '0')}`,
+        title: LOCALE_VARS["daily_lesson_title"][quarterlyLanguage],
+        start_date: moment(start_date).format(DATE_FORMAT),
+        end_date: moment(start_date).add(6, 'd').format(DATE_FORMAT)
+      })
+      start_date = moment(start_date).add(7, "d");
     }
+    fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/pdf.yml",
+        yamljs.dump({ pdf: pdf }, {
+          lineWidth: -1
+        }).replace(/^(?!$)/mg, '  ').replace(/^/, '---\n')
+    );
+  }
 
-    if (quarterlyTeacherComments){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/teacher-comments.md",
-        "---\ntitle:  "+LOCALE_VARS["teacher_comments"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
-      );
-    }
+  if (argv.f === "md") {
+    for (var i = 1; i <= quarterlyLessonAmount; i++){
+      fs.mkdirSync(SRC_PATH + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i));
 
-    if (quarterlyInsideStory){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/inside-story.md",
-        "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
-      );
-    }
+      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/info.yml", "---\n  title: \"Weekly Lesson Title\"\n  start_date: \""+moment(start_date).format(DATE_FORMAT)+"\"\n  end_date: \""+ moment(start_date).add(6, "d").format(DATE_FORMAT) +"\"");
 
-    if (quarterlyTmi){
-      fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/tmi.md",
-        "---\ntitle:  "+LOCALE_VARS["tmi"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
-      );
-    }
+      for (var j = 1; j <= 7; j++){
+        fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/" + pad(j) + ".md",
+            "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguage]+"\ndate:   "+moment(start_date).format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+        );
+        start_date = moment(start_date).add(1, "d");
+      }
 
-    if (lessonCover){
-      fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
+      if (quarterlyTeacherComments){
+        fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/teacher-comments.md",
+            "---\ntitle:  "+LOCALE_VARS["teacher_comments"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+        );
+      }
+
+      if (quarterlyInsideStory){
+        fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/inside-story.md",
+            "---\ntitle:  "+LOCALE_VARS["inside_story"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+        );
+      }
+
+      if (quarterlyTmi){
+        fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/tmi.md",
+            "---\ntitle:  "+LOCALE_VARS["tmi"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+        );
+      }
+
+      if (lessonCover){
+        fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
+      }
     }
   }
+
+
 
   start_date = moment(start_date).add(-1, "d");
 

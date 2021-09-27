@@ -11,7 +11,7 @@ let getCompilationQuarterValue = function (d, strict) {
 };
 
 let getInfoFromPath = function (path) {
-    let infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9]{2})?\/?([a-z0-9-]{2,}(\.md)?)?\/?/g,
+    let infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9a-z\-]{2,})?\/?([a-z0-9-]{2,}(\.md)?)?\/?/g,
         matches = infoRegExp.exec(path),
         info = {};
 

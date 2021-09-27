@@ -40,3 +40,19 @@
           target: in/2021-03/12/04
         - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210915_4.mp3
           target: in/2021-03/12/05
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210916_5.mp3
+          target: in/2021-03/12/06
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210917_6.mp3
+          target: in/2021-03/12/07
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210918_7.mp3
+          target: in/2021-03/13/01
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210919_1.mp3
+          target: in/2021-03/13/02
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210920_2.mp3
+          target: in/2021-03/13/03
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210921_3.mp3
+          target: in/2021-03/13/04
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210922_4.mp3
+          target: in/2021-03/13/05
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20210923_5.mp3
+          target: in/2021-03/13/06
