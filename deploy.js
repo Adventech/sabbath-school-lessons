@@ -71,6 +71,7 @@ let egwTemplate = function(title, text) {
 <div class="ss-donation-appeal-icon"></div>
 </div>
 <div class="ss-donation-appeal-text">
+
 ${text}
 </div>
 </div>
@@ -80,6 +81,8 @@ ${text}
 let egwTitles = {
   "en": {
     title: "Additional Reading: Selected Quotes from Ellen G. White",
+    final: "Supplemental EGW Notes",
+    pppCopyright: "_The above quotations are taken from Ellen G. White Notes for the Sabbath School Lessons, published by Pacific Press Publishing Association. Used by permission_",
     regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
   }
 }
@@ -701,7 +704,7 @@ let dayAPI = async function () {
         if (egwRegexTitle.test(resultRead)) {
           let egwComments = resultRead.match(egwRegexFull)[0].replace(egwRegexTitle, "").trim()
           resultRead = resultRead.replace(egwRegexFull, "").trim()
-          resultRead += egwTemplate(egwTitles[info.language].title, egwComments)
+          resultRead += egwTemplate(egwTitles[info.language].final, `${egwComments}\n\n${egwTitles[info.language].pppCopyright}`)
         }
       }
 
