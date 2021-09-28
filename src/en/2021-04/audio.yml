@@ -251,3 +251,19 @@
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Jude_9_NKJV.mp3
           title: Memory Verse - 1 Cor 2:9
           target: en/2021-04/13
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/09/2021-09-25.mp3
+          target: en/2021-04/01/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/09/2021-09-26.mp3
+          target: en/2021-04/01/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/09/2021-09-27.mp3
+          target: en/2021-04/01/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/09/2021-09-28.mp3
+          target: en/2021-04/01/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/09/2021-09-29.mp3
+          target: en/2021-04/01/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/09/2021-09-30.mp3
+          target: en/2021-04/01/06
