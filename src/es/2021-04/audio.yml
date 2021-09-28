@@ -43,3 +43,5 @@
           target: es/2021-04/02/02
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-LUNES.mp3
           target: es/2021-04/02/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-MARTES.mp3
+          target: es/2021-04/02/04
