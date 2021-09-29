@@ -6,7 +6,6 @@
   end_date: "25/06/2021"
   color_primary: "#20709A"
   color_primary_dark: "#125D84"
-  quarterly_name: "Beginner"
   credits:
     - name: Editorial Assistant
       value: "Kathleen D. Sowards"

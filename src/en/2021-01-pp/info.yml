@@ -6,7 +6,6 @@
   end_date: "26/03/2021"
   color_primary: "#3C474D"
   color_primary_dark: "#1F272B"
-  quarterly_name: "Junior PowerPoints"
   credits:
     - name: Editor
       value: "Andrea Nagy"
