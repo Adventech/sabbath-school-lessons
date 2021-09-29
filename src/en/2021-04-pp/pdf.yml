@@ -1,0 +1,88 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-Activities.pdf'
+      target: en/2021-04-pp/introduction
+      title: Introduction
+      start_date: 25/09/2021
+      end_date: 25/09/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L01.pdf'
+      target: en/2021-04-pp/01
+      title: Don't Do Something; Just Stand There
+      start_date: 25/09/2021
+      end_date: 01/10/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L02.pdf'
+      target: en/2021-04-pp/02
+      title: Prince Rescued
+      start_date: 02/10/2021
+      end_date: 08/10/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L03.pdf'
+      target: en/2021-04-pp/03
+      title: The King's Treasure Chest
+      start_date: 09/10/2021
+      end_date: 15/10/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L04.pdf'
+      target: en/2021-04-pp/04
+      title: Purifying the Temple
+      start_date: 16/10/2021
+      end_date: 22/10/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L05.pdf'
+      target: en/2021-04-pp/05
+      title: Passover Party
+      start_date: 23/10/2021
+      end_date: 29/10/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L06.pdf'
+      target: en/2021-04-pp/06
+      title: Habakkuk's Song
+      start_date: 30/10/2021
+      end_date: 05/11/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L07.pdf'
+      target: en/2021-04-pp/07
+      title: Don't Be Shy!
+      start_date: 06/11/2021
+      end_date: 12/11/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L08.pdf'
+      target: en/2021-04-pp/08
+      title: Journey to Jerusalelm
+      start_date: 13/11/2021
+      end_date: 19/11/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L09.pdf'
+      target: en/2021-04-pp/09
+      title: Building Up the Temple
+      start_date: 20/11/2021
+      end_date: 26/11/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L10.pdf'
+      target: en/2021-04-pp/10
+      title: Risking Everything
+      start_date: 27/11/2021
+      end_date: 03/12/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L11.pdf'
+      target: en/2021-04-pp/11
+      title: God, in Our Neighborhood
+      start_date: 04/12/2021
+      end_date: 10/12/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L12.pdf'
+      target: en/2021-04-pp/12
+      title: Beginning With a Gift
+      start_date: 11/12/2021
+      end_date: 17/12/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-L13.pdf'
+      target: en/2021-04-pp/13
+      title: Gift Exchange
+      start_date: 18/12/2021
+      end_date: 24/12/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-Activities.pdf'
+      target: en/2021-04-pp/activities
+      title: Activities
+      start_date: 18/12/2021
+      end_date: 24/12/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-MemoryVerses.pdf'
+      target: en/2021-04-pp/memory-verses
+      title: Memory Verses
+      start_date: 18/12/2021
+      end_date: 24/12/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q4/English/Student/PP-21-Q4-Parents.pdf'
+      target: en/2021-04-pp/parents
+      title: Parents
+      start_date: 18/12/2021
+      end_date: 24/12/2021
+

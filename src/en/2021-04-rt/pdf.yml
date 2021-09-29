@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-Intro.pdf'
+      target: en/2021-04-rt/introduction
+      title: Introduction
+      start_date: 25/09/2021
+      end_date: 25/09/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L01.pdf'
+      target: en/2021-04-rt/01
+      title: "Rules for Heaven’s Agents"
+      start_date: 25/09/2021
+      end_date: 01/10/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L02.pdf'
+      target: en/2021-04-rt/02
+      title: "End-time: Angels of Mercy"
+      start_date: 02/10/2021
+      end_date: 08/10/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L03.pdf'
+      target: en/2021-04-rt/03
+      title: "End-time: Disappointment"
+      start_date: 09/10/2021
+      end_date: 15/10/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L04.pdf'
+      target: en/2021-04-rt/04
+      title: "End-time: Home at Last"
+      start_date: 16/10/2021
+      end_date: 22/10/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L05.pdf'
+      target: en/2021-04-rt/05
+      title: "Guarding the Avenues to the Soul"
+      start_date: 23/10/2021
+      end_date: 29/10/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L06.pdf'
+      target: en/2021-04-rt/06
+      title: "Fashion and Self-Image"
+      start_date: 30/10/2021
+      end_date: 05/11/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L07.pdf'
+      target: en/2021-04-rt/07
+      title: "Identity (1): Tested"
+      start_date: 06/11/2021
+      end_date: 12/11/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L08.pdf'
+      target: en/2021-04-rt/08
+      title: "Identity (2): Over Time"
+      start_date: 13/11/2021
+      end_date: 19/11/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L09.pdf'
+      target: en/2021-04-rt/09
+      title: "Identity (3): Ups and Downs"
+      start_date: 20/11/2021
+      end_date: 26/11/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L10.pdf'
+      target: en/2021-04-rt/10
+      title: "Identity (4): Focused"
+      start_date: 27/11/2021
+      end_date: 03/12/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L11.pdf'
+      target: en/2021-04-rt/11
+      title: "Technology and the Christian"
+      start_date: 04/12/2021
+      end_date: 10/12/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L12.pdf'
+      target: en/2021-04-rt/12
+      title: "Ecology: Our Sacred Responsibility"
+      start_date: 11/12/2021
+      end_date: 17/12/2021
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2021/Q4/English/Student/R-21-Q4-L13.pdf'
+      target: en/2021-04-rt/13
+      title: "Rulership: God’s Managers"
+      start_date: 18/12/2021
+      end_date: 24/12/2021

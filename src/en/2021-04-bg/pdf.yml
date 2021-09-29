@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/gracelink/Lessons/Beginner/2021/Q4/Beginner/Student/B-21-Q4-L00.pdf'
+      target: en/2021-04-bg/introduction
+      title: Introduction
+      start_date: 25/09/2021
+      end_date: 25/09/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/gracelink/Lessons/Beginner/2021/Q4/Beginner/Student/B-21-Q4-L01.pdf'
+      target: en/2021-04-bg/01
+      title: Peter and the Lame Man
+      start_date: 25/09/2021
+      end_date: 29/10/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/gracelink/Lessons/Beginner/2021/Q4/Beginner/Student/B-21-Q4-L02.pdf'
+      target: en/2021-04-bg/02
+      title: Paul and the Shipwreck
+      start_date: 30/10/2021
+      end_date: 05/11/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/gracelink/Lessons/Beginner/2021/Q4/Beginner/Student/B-21-Q4-L03.pdf'
+      target: en/2021-04-bg/03
+      title: Angels Sing to the Shepherds
+      start_date: 06/11/2021
+      end_date: 24/12/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/gracelink/Lessons/Beginner/2021/Q4/Beginner/Student/B-21-Q4-Activities.pdf'
+      target: en/2021-04-bg/activities
+      title: Activities
+      start_date: 06/11/2021
+      end_date: 24/12/2021
+    - src: 'https://www.sabbathschoolpersonalministries.org/assets/gracelink/Lessons/Beginner/2021/Q4/Beginner/Student/B-21-Q4-MemoryVerses.pdf'
+      target: en/2021-04-bg/memory-verses
+      title: Memory Verses
+      start_date: 06/11/2021
+      end_date: 24/12/2021
