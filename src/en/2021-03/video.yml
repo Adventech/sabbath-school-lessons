@@ -37,6 +37,9 @@
         - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/2b/v3vTFYP06elb0QVEYbLE5VrWonvtNdw6gNKgG3H7c/hah_2021_q3_ep12-20updated.mp4
           thumbnail: https://storage.googleapis.com/prod-uploads-01-930013d/jsvupp:nI7qXjAwDCZxNLTsoOcr.png
           target: en/2021-03/12
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-13-the-ultimate-rest/-/40037571/-/-/-/-/-/-/1/1/
+          thumbnail: https://storage.googleapis.com/prod-uploads-01-930013d/jsvupp:HNjuxdKEHyBatDUT2uLn.png
+          target: en/2021-03/13
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-213-1-WEEKLY-EN.mp4
@@ -129,6 +132,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-12.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-12.jpg
           target: en/2021-03/12
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-03-13.jpg
+          target: en/2021-03/13
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -184,6 +190,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-11.jpg
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-12.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-12.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-03-13.jpg
     - artist: 3ABN Sabbath School Panel
       skip: true
       clips:

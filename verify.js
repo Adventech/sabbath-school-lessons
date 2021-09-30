@@ -30,12 +30,18 @@ let validateContent = async function () {
     let quarterliesList = glob.sync("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)")
     for (let quarterly of quarterliesList) {
         let validDate = null
+        let doc = null
+        try {
+            doc = yamljs.load(fs.readFileSync(`${quarterly}/info.yml`));
+        } catch (e) {
+            e = e.toString().replace(/\n/g, '<br>');
+            fail(`Critical error. Can not parse the quarterly info: \`${quarterly}\`/info.yml. Error: \`${e}\``);
+            break
+        }
 
         try {
-            let doc = yamljs.load(fs.readFileSync(`${quarterly}/info.yml`));
             validDate = moment(doc["start_date"], DATE_FORMAT).add(-1, 'd');
         } catch (e) {
-            e = e.replace(/\n/g, '<br>');
             fail(`Critical error. Can not obtain start date for the quarterly: \`${quarterly}\`/info.yml. Error: \`${e}\``);
             break
         }
