@@ -53,3 +53,7 @@
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61425e775d700d000158c3c7/61425e775d700d000158c3c8/550b0b2669702d0707940200/81b19d4b-73df-4572-baaf-5d1b7e83f7dd.mp4?rjB9UpMcVJcuMOlzIVcFVkbJk3g785EMkXdtyj9G0LqyztIihXbzHH2zjamIU3XXfjbENEYQIS9XCV9uI27gQishtX6sx39XQOXhBJzR6JrFsSvhzsFsZyZGeDWD1fHjwjOm5BDRBSjpw2zodGE9YQ&F38b1dF4=6143a241ca70dd0001621daf
+    - artist: Sabbath School Talking Points
+      clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-01.jpg
