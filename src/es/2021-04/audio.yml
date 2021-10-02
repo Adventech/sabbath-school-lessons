@@ -29,3 +29,7 @@
           target: es/2021-04/02/05
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-JUEVES.mp3
           target: es/2021-04/02/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-VIERNES.mp3
+          target: es/2021-04/02/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-SABADO.mp3
+          target: es/2021-04/03/01

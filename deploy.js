@@ -82,7 +82,7 @@ let egwTitles = {
   "en": {
     title: "Additional Reading: Selected Quotes from Ellen G. White",
     final: "Supplemental EGW Notes",
-    pppCopyright: "_The above quotations are taken from Ellen G. White Notes for the Sabbath School Lessons, published by Pacific Press Publishing Association. Used by permission_",
+    pppCopyright: "<small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small>",
     regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
   }
 }
