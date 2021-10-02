@@ -118,6 +118,20 @@ let indonesiaAudio = async function () {
     )
 }
 
+let hungarianAudio = async function () {
+    await dailyAudio(
+        "hu",
+        "Felnőtt szombatiskola",
+        {
+            artist: "Felnőtt szombatiskola",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            return `https://bibliatanulmanyok.hu/tanulmanyok/audio/${targetDate.format("YYYYMMDD")}.mp3`
+        }
+    )
+}
+
 let spanishAudio = async function () {
     await dailyAudio(
         "es",
@@ -176,6 +190,7 @@ let run = async function () {
     await indonesiaAudio();
     await spanishAudio();
     await romanianAudio()
+    await hungarianAudio();
 }
 
 run().then(() => {
