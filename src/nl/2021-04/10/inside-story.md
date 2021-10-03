@@ -5,7 +5,7 @@ date:   03/12/2021
 
 #### SOS-Zendeling
 
-_Zuid-Korea, 4 december _
+_Zuid-Korea, 4 december_
 
 Jang So-hee (19)
 
