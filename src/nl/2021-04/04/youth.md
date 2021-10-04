@@ -19,7 +19,7 @@ Deuteronomium 6:1-7
 
 #### Inspiratie
 
-‘Jezus antwoordde: ‘Dit is de belangrijkste regel: “Luister goed, Israëlieten! De Heer, onze God, is de enige God. Je moet van Hem houden met je hele hart, met je hele ziel, met je hele verstand en met al je kracht.”’1
+‘Jezus antwoordde: ‘Dit is de belangrijkste regel: “Luister goed, Israëlieten! De Heer, onze God, is de enige God. Je moet van Hem houden met je hele hart, met je hele ziel, met je hele verstand en met al je kracht.”’
 
 #### Behandel de tekst
 

@@ -5,7 +5,7 @@ date:   19/11/2021
 
 #### De gebeden van een bedrijfseigenaar
 
-_Zuid-Korea, 20 november _
+_Zuid-Korea, 20 november_
 
 Kiyong Kwon (56)
 
