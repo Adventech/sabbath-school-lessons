@@ -23,7 +23,7 @@ De houding van de HEER tegenover vreemdelingen (‘geriem’)
 
 `Vergelijk Deuteronomium 10:18 met Psalm 103:6 en 146:9. Wat doet God volgens deze teksten voor vreemdelingen? Zie ook Maleachi 3:5 en Matteüs 5:6.`
 
-`Hoe de Israëlieten met vreemdelingen dienden om te gaan N.a.v. Deuteronomium 10:19: Op welke manier dienden de Israëlieten volgens de onder- staande teksten vreemdelingen metterdaad lief te hebben?`
+`Hoe de Israëlieten met vreemdelingen dienden om te gaan N.a.v. Deuteronomium 10:19: Op welke manier dienden de Israëlieten volgens de onderstaande teksten vreemdelingen metterdaad lief te hebben?`
 
 Deuteronomium 1:16; 10:19; 23:8; 24:19-21 Leviticus 19:10,33-34; 23:22 Exodus 22:20; 23:9; Ezechiël 47:13, 21-23.
 

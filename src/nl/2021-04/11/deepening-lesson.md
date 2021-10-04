@@ -13,7 +13,7 @@ Jeremia 7:1-7
 
 #### Ik Verken
 
-Koning Josia had in 622 v. Chr. de tempeldienst weer hersteld, na de vondst van ‘het wetboek’. Het was een reorganisatie die helaas geen diepgaande reformatie onder het volk tot gevolg had. In dit gedeelte van het boek Jeremia worden de Judeeërs gewaarschuwd hun leven alsnog te beteren. Doen ze dat, dan mogen ze in het land Israël blijven wonen. De Heer draagt hen op elkaar weer rechtvaardig te behandelen, vreemdelingen, wezen en we- duwen niet meer te onderdrukken, geen onschuldigen meer te doden en niet langer aan afgoderij te doen. De woorden van Jeremia 7:5-7 sluiten aan op reeds in Deuteronomium voorkomende bepalingen. Ook van ons verlangt de Heer dat we Hem boven alles liefhebben en liefdevol omgaan met onze naasten. Jeremia 7:1-7 stamt uit de periode van koning Jojakim (608-597 v.Chr.), kort voordat Jeruzalem in 586 v.Chr. door de Babyloniërs werd verwoest.
+Koning Josia had in 622 v. Chr. de tempeldienst weer hersteld, na de vondst van ‘het wetboek’. Het was een reorganisatie die helaas geen diepgaande reformatie onder het volk tot gevolg had. In dit gedeelte van het boek Jeremia worden de Judeeërs gewaarschuwd hun leven alsnog te beteren. Doen ze dat, dan mogen ze in het land Israël blijven wonen. De Heer draagt hen op elkaar weer rechtvaardig te behandelen, vreemdelingen, wezen en weduwen niet meer te onderdrukken, geen onschuldigen meer te doden en niet langer aan afgoderij te doen. De woorden van Jeremia 7:5-7 sluiten aan op reeds in Deuteronomium voorkomende bepalingen. Ook van ons verlangt de Heer dat we Hem boven alles liefhebben en liefdevol omgaan met onze naasten. Jeremia 7:1-7 stamt uit de periode van koning Jojakim (608-597 v.Chr.), kort voordat Jeruzalem in 586 v.Chr. door de Babyloniërs werd verwoest.
 
 #### Ik Bestudeer
 
@@ -31,7 +31,7 @@ Vers 6 maakt duidelijk wie vaak niet rechtvaardig werden behandeld: vreemdelinge
 
 `Wat kan onrecht in de hand werken of in stand houden? Zie Jesaja 10:1-2.`
 
-Vreemdelingen, wezen en weduwen waren kwetsbaar, omdat ze afhankelijk waren van sociale voorzieningen of de barmhartigheid van andere mensen. Vanwege hun maat- schappelijke positie lag misbruik op de loer. In Jeremia 7:6 staat ook de oproep geen onschuldig bloed te vergieten.
+Vreemdelingen, wezen en weduwen waren kwetsbaar, omdat ze afhankelijk waren van sociale voorzieningen of de barmhartigheid van andere mensen. Vanwege hun maatschappelijke positie lag misbruik op de loer. In Jeremia 7:6 staat ook de oproep geen onschuldig bloed te vergieten.
 
 `Op welke manier maakt Matteüs 23:35 duidelijk dat deze oproep absoluut nodig was? Vgl. Jeremia 2:34; 19:4; 22:3.`
 
@@ -55,7 +55,7 @@ Kerkgang is net zo min zaligmakend als tempelbezoek.
 
 Een andere structuur leidt niet automatisch tot een andere cultuur.
 
-`Hoe kan een politieke of godsdienstige structuur aandacht voor de zwakkeren bevor- deren of belemmeren?`
+`Hoe kan een politieke of godsdienstige structuur aandacht voor de zwakkeren bevorderen of belemmeren?`
 
 In Deuteronomium 10:18 staat dat de Heer weduwen en wezen recht verschaft, vreemdelingen in bescherming neemt en hen van voedsel en kleding voorziet.
 
@@ -65,7 +65,7 @@ Een uitdrukking luidt: ‘Geld maakt blind.’
 
 `Om wat voor soort blindheid gaat het dan en hoe kun je zoiets voorkomen?`
 
-Machthebbers (koningen, presidenten, ministers, e.d.) hebben een grote verantwoorde- lijkheid als het gaat om de bescherming van de zwakkeren.
+Machthebbers (koningen, presidenten, ministers, e.d.) hebben een grote verantwoordelijkheid als het gaat om de bescherming van de zwakkeren.
 
 `Welke bijdrage kunnen wij als burgers leveren aan een goede behandeling van deze groep?`
 
