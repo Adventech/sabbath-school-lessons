@@ -1,0 +1,34 @@
+{
+  "name": "sabbath-school-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "dependencies": {
+    "@actions/core": "^1.5.0",
+    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
+    "axios": "^0.21.1",
+    "danger": "^10.6.0",
+    "ent": "^2.2.0",
+    "firebase-admin": "^9.4.2",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "js-yaml": "^4.1.0",
+    "markdownlint": "^0.22.0",
+    "meta-marked": "^0.5.0",
+    "moment": "^2.29.1",
+    "optimist": "^0.6.1"
+  },
+  "scripts": {
+    "compile": "node ./deploy -b test -l en -q 2021-02"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Adventech/sabbath-school-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adventech/sabbath-school-lessons/issues"
+  },
+  "homepage": "https://github.com/Adventech/sabbath-school-lessons#readme"
+}
