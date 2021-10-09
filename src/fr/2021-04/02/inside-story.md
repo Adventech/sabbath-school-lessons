@@ -24,4 +24,3 @@ Ce trimestre, votre offrande du treizième sabbat soutiendra deux projets missio
 Histoire Missionnaire
 
 Produit par le Comité de la Conférence Générale pour la Mission Adventiste. Site Web: www.AdventistMission.org
-
