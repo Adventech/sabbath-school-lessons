@@ -6,6 +6,7 @@
   end_date: "24/12/2021"
   color_primary: "#5A2C32"
   color_primary_dark: "#541B23"
+  splash: true
   credits:
     - name: Yazar
       value: "Clifford Goldstein"
