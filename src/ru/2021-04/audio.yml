@@ -1,0 +1,26 @@
+---
+audio:
+  - artist: Голос Надежды
+    target: 'daily'
+    tracks:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-1.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-2.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-3.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-4.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-5.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-6.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_01.mp3-7.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-1.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-2.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-3.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-4.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-5.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-6.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_02.mp3-7.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-1.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-2.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-3.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-4.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-5.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-6.mp3
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/ss_2021_04_03.mp3-7.mp3
