@@ -1,0 +1,34 @@
+---
+  audio:
+    - artist: Felnőtt szombatiskola
+      tracks:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20210925.mp3
+          target: hu/2021-04/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20210926.mp3
+          target: hu/2021-04/01/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20210927.mp3
+          target: hu/2021-04/01/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20210928.mp3
+          target: hu/2021-04/01/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20210929.mp3
+          target: hu/2021-04/01/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20210930.mp3
+          target: hu/2021-04/01/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211001.mp3
+          target: hu/2021-04/01/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211002.mp3
+          target: hu/2021-04/02/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211003.mp3
+          target: hu/2021-04/02/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211004.mp3
+          target: hu/2021-04/02/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211005.mp3
+          target: hu/2021-04/02/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211006.mp3
+          target: hu/2021-04/02/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211007.mp3
+          target: hu/2021-04/02/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211008.mp3
+          target: hu/2021-04/02/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211009.mp3
+          target: hu/2021-04/03/01

@@ -6,7 +6,6 @@
   end_date: "24/12/2021"
   color_primary: "#5A2C32"
   color_primary_dark: "#541B23"
-  quarterly_name: "Sekolah Sabat Dewasa"
   splash: true
   credits:
     - name: Penulis Pelajaran
@@ -22,6 +21,4 @@
     - name: Redaktur Pelaksana
       value: "F. Ngantung"
     - name: Anggota Redaksi
-      value: "S. P. Silalahi"
-      value: "F. Parhusip"
-      value: "A. Tumbal"
+      value: "S. P. Silalahi, F. Parhusip, A. Tumbal"

@@ -6,7 +6,6 @@
   end_date: "25/06/2021"
   color_primary: "#305487"
   color_primary_dark: "#123A73"
-  quarterly_name: "Primary"
   credits:
     - name: Editorial Assistant
       value: "Kathleen D. Sowards"

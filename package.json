@@ -4,8 +4,8 @@
   "description": "",
   "main": "compile.js",
   "dependencies": {
-    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "@actions/core": "^1.5.0",
+    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "axios": "^0.21.1",
     "danger": "^10.6.0",
     "ent": "^2.2.0",

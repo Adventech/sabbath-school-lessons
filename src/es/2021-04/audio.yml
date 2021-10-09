@@ -1,0 +1,49 @@
+---
+  audio:
+    - artist: Escuela Sabática en Audio
+      target: daily
+      tracks:
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-SABADO.mp3
+          target: es/2021-04/01/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-DOMINGO.mp3
+          target: es/2021-04/01/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-LUNES.mp3
+          target: es/2021-04/01/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-MARTES.mp3
+          target: es/2021-04/01/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-MIERCOLES.mp3
+          target: es/2021-04/01/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-JUEVES.mp3
+          target: es/2021-04/01/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-1-VIERNES.mp3
+          target: es/2021-04/01/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-SABADO.mp3
+          target: es/2021-04/02/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-DOMINGO.mp3
+          target: es/2021-04/02/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-LUNES.mp3
+          target: es/2021-04/02/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-MARTES.mp3
+          target: es/2021-04/02/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-MIERCOLES.mp3
+          target: es/2021-04/02/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-JUEVES.mp3
+          target: es/2021-04/02/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-2-VIERNES.mp3
+          target: es/2021-04/02/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-SABADO.mp3
+          target: es/2021-04/03/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-DOMINGO.mp3
+          target: es/2021-04/03/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-LUNES.mp3
+          target: es/2021-04/03/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-MARTES.mp3
+          target: es/2021-04/03/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-MIERCOLES.mp3
+          target: es/2021-04/03/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-JUEVES.mp3
+          target: es/2021-04/03/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-3-VIERNES.mp3
+          target: es/2021-04/03/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-4-SABADO.mp3
+          target: es/2021-04/04/01
