@@ -210,47 +210,6 @@
           target: en/2021-04/13/07
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ABSG-2021-Q4-13-Dec-25.mp3-8.mp3
           target: en/2021-04/13/inside-story
-    - artist: The Sound of Scripture
-      tracks:
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/1John_4_8_NKJV.mp3
-          title: Memory Verse - Psalm 84:2
-          target: en/2021-04/01
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_10_3-4_NKJV.mp3
-          title: Memory Verse - 1 Cor 10:11
-          target: en/2021-04/02
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_17_7_RSV.mp3
-          title: Memory Verse - James 3:16
-          target: en/2021-04/03
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_6_5_NKJV.mp3
-          title: Memory Verse - Psalm 51:10
-          target: en/2021-04/04
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_10_19_NKJV.mp3
-          title: Memory Verse - Matthew 11:28
-          target: en/2021-04/05
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_4_8_NKJV.mp3
-          title: Memory Verse - 2 Peter 3:17-18
-          target: en/2021-04/06
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Galatians_2_21_NKJV.mp3
-          title: Memory Verse - Genesis 45:5
-          target: en/2021-04/07
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_30_19_NKJV.mp3
-          title: Memory Verse - Psalm 27:1
-          target: en/2021-04/08
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_4_29_NKJV.mp3
-          title: Memory Verse - Genesis 2:3
-          target: en/2021-04/09
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_9_7_NKJV.mp3
-          title: Memory Verse - Lev 23:3
-          target: en/2021-04/10
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_10_15_NKJV.mp3
-          title: Memory Verse - 1 Cor 10:6
-          target: en/2021-04/11
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Matthew_4_4_NKJV.mp3
-          title: Memory Verse - Jonah 4:11
-          target: en/2021-04/12
-        - src: https://thesoundofscripture.blob.core.windows.net/audio/Jude_9_NKJV.mp3
-          title: Memory Verse - 1 Cor 2:9
-          target: en/2021-04/13
     - artist: Ellen G. White Notes
       image: misc/ellen-white-notes.png
       imageRatio: square
@@ -291,3 +250,44 @@
           target: en/2021-04/03/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2021/10/2021-10-14.mp3
           target: en/2021-04/03/06
+    - artist: The Sound of Scripture
+      tracks:
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/1John_4_8_NKJV.mp3
+          title: Memory Verse - 1 John 4:8 NKJV
+          target: en/2021-04/01
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/1Corinthians_10_3-4_NKJV.mp3
+          title: Memory Verse - 1 Corinthians 10:3 - 4 NKJV
+          target: en/2021-04/02
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_17_7_RSV.mp3
+          title: Memory Verse - Genesis 17:7 RSV
+          target: en/2021-04/03
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_6_5_NKJV.mp3
+          title: Memory Verse - Deuteronomy 6:5 NKJV
+          target: en/2021-04/04
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_10_19_NKJV.mp3
+          title: Memory Verse - Deuteronomy 10:19 NKJV
+          target: en/2021-04/05
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_4_8_NKJV.mp3
+          title: Memory Verse - Deuteronomy 4:8 NKJV
+          target: en/2021-04/06
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Galatians_2_21_NKJV.mp3
+          title: Memory Verse - Galatians 2:21 NKJV
+          target: en/2021-04/07
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_30_19_NKJV.mp3
+          title: Memory Verse - Deuteronomy 30:19 NKJV
+          target: en/2021-04/08
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_4_29_NKJV.mp3
+          title: Memory Verse - Deuteronomy 4:29 NKJV
+          target: en/2021-04/09
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_9_7_NKJV.mp3
+          title: Memory Verse - Deuteronomy 9:7 NKJV
+          target: en/2021-04/10
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Deuteronomy_10_15_NKJV.mp3
+          title: Memory Verse - Deuteronomy 10:15 NKJV
+          target: en/2021-04/11
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Matthew_4_4_NKJV.mp3
+          title: Memory Verse - Matthew 4:4 NKJV
+          target: en/2021-04/12
+        - src: https://thesoundofscripture.blob.core.windows.net/audio/Jude_9_NKJV.mp3
+          title: Memory Verse - Jude 9 NKJV
+          target: en/2021-04/13
