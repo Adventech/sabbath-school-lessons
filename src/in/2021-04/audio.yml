@@ -40,3 +40,7 @@
           target: in/2021-04/03/04
         - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20211013_4.mp3
           target: in/2021-04/03/05
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20211014_5.mp3
+          target: in/2021-04/03/06
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20211015_6.mp3
+          target: in/2021-04/03/07
