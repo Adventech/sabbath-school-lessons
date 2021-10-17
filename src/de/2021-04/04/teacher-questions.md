@@ -20,8 +20,8 @@ II: Wir studieren die Bibel
 -   Welche Bedeutung hat das Wort Liebe in unserem Sprachgebrauch?
 -   Wie kann man jemand lieben, den man nicht sieht und dem man nicht
     persönlich begegnet?
--   Gilt das „schma Jisrael“ auch für uns heute? Bitte begründet eure
-    Antwort.
+-   Gilt das „Schma Jisrael“ (= “Höre Israel” - 5. Mose 6,4-9) auch für
+    uns heute? Bitte begründet eure Antwort.
 
 ### Persönliche Anmerkungen
 
