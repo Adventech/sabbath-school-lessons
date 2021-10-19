@@ -15,7 +15,7 @@ II: Wir studieren die Bibel
     du das beschreiben? Wo gibt es heute noch „Bünde“? Welche
     Voraussetzungen gibt es? Welche Ziele? Welche Bündnispartner?
 
-### **Sonntag: Der Bund und das Evangelium**
+### **Der Bund und das Evangelium**
 
 **Römer 4,1-5**
 
@@ -32,7 +32,7 @@ II: Wir studieren die Bibel
     loszulassen, wenn auch wir fehlen? Wie ging Gott mit diesen
     Schwächen um?
 
-### **Montag: Der Bund und Israel**
+### **Der Bund und Israel**
 
 **5. Mose 9,5**
 
@@ -49,7 +49,7 @@ II: Wir studieren die Bibel
 -   Warum ist das Gesetz für jene, die doch aus Gnade gerettet sind,
     noch immer so entscheidend?
 
-### **Dienstag: Das Buch des Bundes**
+### **Das Buch des Bundes**
 
 -   Das 5. Buch Mose wird auch „Buch des Bundes“ genannt, weil das Wort
     „Bund“ (hebr. *berit*) darin so oft vorkommt. Es ist das letzte
@@ -67,7 +67,7 @@ II: Wir studieren die Bibel
 -   Welche Rolle spielen diese Gebote in dem ewigen Bund? Was macht sie
     so besonders?
 
-### **Mittwoch: Gottes besonderes Volk**
+### **Gottes besonderes Volk**
 
 **5. Mose 18,9**
 
@@ -85,7 +85,7 @@ II: Wir studieren die Bibel
 -   Inwieweit gibt es für uns ein tägliches „heute“ in der Nachfolge?
     \[Lk 9,23\] Wie sieht diese tägliche Übergabe praktisch aus?
 
-### **Donnerstag: Andere Bilder**
+### **Andere Bilder**
 
 **5. Mose 8,5 und 32,6**
 
