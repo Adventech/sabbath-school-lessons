@@ -59,3 +59,11 @@
           target: es/2021-04/04/06
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-4-VIERNES.mp3
           target: es/2021-04/04/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-SABADO.mp3
+          target: es/2021-04/05/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-DOMINGO.mp3
+          target: es/2021-04/05/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-LUNES.mp3
+          target: es/2021-04/05/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-MARTES.mp3
+          target: es/2021-04/05/04
