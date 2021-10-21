@@ -69,3 +69,5 @@
           target: es/2021-04/05/04
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-MIERCOLES.mp3
           target: es/2021-04/05/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-JUEVES.mp3
+          target: es/2021-04/05/06
