@@ -73,3 +73,5 @@
           target: es/2021-04/05/06
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-5-VIERNES.mp3
           target: es/2021-04/05/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-6-SABADO.mp3
+          target: es/2021-04/06/01
