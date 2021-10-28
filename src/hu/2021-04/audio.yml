@@ -62,3 +62,11 @@
           target: hu/2021-04/05/01
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211024.mp3
           target: hu/2021-04/05/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211025.mp3
+          target: hu/2021-04/05/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211026.mp3
+          target: hu/2021-04/05/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211027.mp3
+          target: hu/2021-04/05/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211028.mp3
+          target: hu/2021-04/05/06
