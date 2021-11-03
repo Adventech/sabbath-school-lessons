@@ -12,6 +12,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/static/opengraph/ams_medialibrary/2021/tx_amsmedialibrary_episodes_19454.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-5-the-stranger-in-your-gates/-/40037650/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/static/opengraph/ams_medialibrary/2021/tx_amsmedialibrary_episodes_19455.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-6-for-what-nation-is-there-so-great/-/40037692/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_CgvFgYEQ7nUiBO4Rr71X_c542d1b936.jpg
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-214-1-WEEKLY-EN.mp4
@@ -65,6 +67,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-04.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-05.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-06.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -87,3 +91,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-04.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-05.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-05.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-06.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-06.webp
