@@ -88,3 +88,5 @@
           target: hu/2021-04/06/07
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211106.mp3
           target: hu/2021-04/07/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211107.mp3
+          target: hu/2021-04/07/02
