@@ -23,7 +23,7 @@ STARTFRAGEN
 SONNTAG – An den Regenbogen erinnern
 ------------------------------------
 
-**Text**
+**1.Mose 9,8-17**
 
 -   Fragen zum Text:
     -   ...
@@ -37,7 +37,7 @@ SONNTAG – An den Regenbogen erinnern
 MONTAG – Dir früheren Zeiten, die vor dir gewesen sind
 ------------------------------------------------------
 
-**Text**
+**5.Mose 4,35-40**
 
 -   Fragen zum Text:
     -   ...
@@ -51,7 +51,7 @@ MONTAG – Dir früheren Zeiten, die vor dir gewesen sind
 DIENSTAG – Hüte dich - dass du nicht vergisst
 ---------------------------------------------
 
-**Text**
+**5.Mose 4,9**
 
 -   Fragen zum Text:
     -   ...
@@ -65,7 +65,7 @@ DIENSTAG – Hüte dich - dass du nicht vergisst
 MITTWOCH – Gespeist und satt
 ----------------------------
 
-**Text**
+**5.Mose 8,7-18**
 
 -   Fragen zum Text:
     -   ...
@@ -79,7 +79,7 @@ MITTWOCH – Gespeist und satt
 DONNERSTAG – Denkt daran, dass ihr Sklaven wart
 -----------------------------------------------
 
-**Text**
+**Eph 2,8-13**
 
 -   Fragen zum Text:
     -   ...
