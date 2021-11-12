@@ -14,6 +14,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-05.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-06.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-07.webp
     - artist: Pastor Alejandro Bullon
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-01.mp4
@@ -28,6 +30,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-05.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-06.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-07.webp
     - artist: Escuela Sabática Universitaria
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-01.mp4
@@ -42,6 +46,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-05.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-06.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-07.webp
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-214-1-WEEKLY-ES.mp4
