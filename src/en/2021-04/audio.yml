@@ -312,6 +312,8 @@
           target: en/2021-04/08/06
         - src: https://egwhiteaudio.com/wp-content/uploads/2021/11/2021-11-20.mp3
           target: en/2021-04/09/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/11/2021-11-21.mp3
+          target: en/2021-04/09/02
     - artist: The Sound of Scripture
       tracks:
         - src: https://thesoundofscripture.blob.core.windows.net/audio/1John_4_8_NKJV.mp3
