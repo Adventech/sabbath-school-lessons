@@ -16,6 +16,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_CgvFgYEQ7nUiBO4Rr71X_c542d1b936.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-7-law-and-grace-in-deuteronomy/-/40037698/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_7_694ca752a8.png
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-8-choose-life-1/-/40037908/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_Gj0YIBtKYYpYrUk7wkor_5185ab0e50.jpg
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-214-1-WEEKLY-EN.mp4
@@ -73,6 +75,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-06.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-07.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-08.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -84,6 +88,7 @@
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/616f4c7556ad64000181fec2/616f4c7556ad64000181fec3/550b0b2669702d0707940200/9555fac1-1ddc-47d0-9775-fc54e2a90f69.mp4?ZljagEqJ-l3rGWiVohyNomhM427IGG-FvlsasSMkKeSz3GVTsq67GEWz6xY3muowj1rogtMbzwa4eUmXzV0XAfdMMh5gMiV0vu9ppyU1SXB8_5bcZkovM8LF37WFP7jPOPZSvtckyxSnht7f0yr5RA&F38b1dF4=61770cc104adca000178e90b
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6179d6efdc33f10001a77c85/6179d6efdc33f10001a77c86/550b0b2669702d0707940200/9c823422-0131-41ac-b887-b1dcc144c951.mp4?lE6zlB_T1SKSAijWVv_Y5Xkdya-_auvceodb82HEcOmviGhwc6A85X7qRFl50M4vzdcP4gMoqdmidZcQpdbykat-kcDlICvOz4RYnPSrcM_nl6Zc4dii7P6kaR7zCtxmSvV0QcKmRmgap1Ii2CiD6Q&F38b1dF4=6179e80153e6aa0001a21c40
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6182d4f460af7400018764c6/6182d4f460af7400018764c7/550b0b2669702d0707940200/dd5c9ab3-27d9-48e7-94e5-f7d40ec410aa.mp4?ZQongVeFJ9b6P6vU0F9lehUn3bImxPFyIMuLSaMsWnarPkJ6rbA0xQONElo5n4NJcxo0Pti_dYP2ou8FY7F9q_-MrV-RsiIs1u1ieCTW8cxzeJx50vNjeNinhbOYZdCX8-1ImC6RepXC6xweVHdtzg&F38b1dF4=618973b88ac8c7000104634a
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6195351bda6c73000176c707/6195351bda6c73000176c708/550b0b2669702d0707940200/1aa48608-05e6-4ec6-a30f-09b91a12b843.mp4?2dMOsdB6oYVENSwR49gbQjqYYLHGEH_Cn_2bv2AfHyxqNTLTWn8bf0M0ZAuXH4nEmDwW_uyIvKZ5gKWbeqC4qWXTzYaMxowtZ50PEQzrKhpWCr3dYewKbLUi9y8l6-z1eQ_8qhdyJKdQCiY7919xSg&F38b1dF4=619543210be6fb0001f87d75
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-01.mp4
@@ -100,3 +105,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-06.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-07.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-07.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-08.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-08.webp
