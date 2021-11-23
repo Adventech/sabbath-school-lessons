@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   10/12/2021
 ---
 
-[<a href="https://www.bibleserver.com/LUT/Das5" class="bibleserver extern" target="_blank">Das 5</a>.Buch Mose in den späteren Schriften](https://sabbath-school.adventech.io/de/2021-04/11/01)
-===============================================================================================================================================================================================
+[<a href="https://www.bibleserver.com/LUT/<a href="https://www.bibleserver.com/LUT/Das5" class="bibleserver extern" target="_blank">Das5</a>" class=“bibleserver extern” target=“\_blank”&gt;<a href="https://www.bibleserver.com/LUT/Das5" class="bibleserver extern" target="_blank">Das 5</a></a>.Buch Mose in den späteren Schriften](https://sabbath-school.adventech.io/de/2021-04/11/01)
+===============================================================================================================================================================================================================================================================================================================================================================================================
 
 II: Wir studieren die Bibel
 ---------------------------
@@ -28,7 +28,7 @@ vorliegenden gemessen werden.*
 -   Woran sehen wir innerhalb der Bibel selbst dieses Prinzip?
     -   Wie wichtig ist dieses Prinzip? Warum ist es wichtig?
 
-**SONNTAG**
+**<u>SONNTAG:</u> Das Buch des Gesetzes**
 
 **2.Könige 22**
 
@@ -37,11 +37,11 @@ vorliegenden gemessen werden.*
         Tatsache, dass es der **Hohepriester** Hilkija war, der das Buch
         gefunden hatte?
 
-Dazu **5.Mose 31,24-26**: *“Als nun Mose damit fertig war, die Worte
-dieses Gesetzes vollständig in ein Buch zu schreiben, gebot er den
+Dazu **5.Mose 31,24-26**: ''“Als nun Mose damit fertig war, die Worte
+dieses Gesetzes vollständig in ein Buch zu schreiben,'' gebot er den
 Leviten, die die Lade des Bundes des HERRN trugen, und sprach: Nehmt
 dieses Buch des Gesetzes und legt es neben die Lade des Bundes des
-HERRN, eures Gottes, dass es dort ein Zeuge sei wider dich.”*
+HERRN, eures Gottes, dass es dort ein Zeuge sei wider dich.”
 
 -   Wie reagierte König Josia, als er das Buch gelesen hatte?
     -   Welche Teile des 5.Buch Mose mögen es wohl gewesen sein, die ihn
@@ -67,16 +67,21 @@ erschrecken.”* (William Shakespeare)
             praktischen Schritte sein?
 -   Konkret gefragt: Welche Stellen in der Bibel erschrecken euch?
 
-**Text**
+**<u>MONTAG:</u> Aller Himmel Himmel**
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+**5.Mose 10,12-15; 1.Könige 8,27; Nehemia 9,6; Psalm 148,4**
+
+-   Wie wird in diesen Texten die Größe Gottes dargestellt?
+    -   Was stellt ihr euch vor unter dem Begriff “aller Himmel Himmel”
+        (Luther) bzw. "der Himmel und die Himmel der Himmel
+        (Elberfelder) vor?
+-   Wie sollen (dürfen) wir uns als kleine Menschen diesem Gott nähern?
+    -   Was sagt euch die Tatsache, dass dieser Gott, dem das ganze
+        riesige Universum gehört, ausgerechnet diese Erde so geliebt
+        hat, dass er für die Menschen, die auf ihr leben, seinen Sohn
+        gegeben hat?
+
+**<u>DIENSTAG:</u> Das 5.Buch Mose in Jeremia**
 
 **Text**
 
