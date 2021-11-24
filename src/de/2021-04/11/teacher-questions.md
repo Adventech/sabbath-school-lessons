@@ -3,8 +3,8 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   10/12/2021
 ---
 
-[<a href="https://www.bibleserver.com/LUT/<a href="https://www.bibleserver.com/LUT/Das5" class="bibleserver extern" target="_blank">Das5</a>" class=“bibleserver extern” target=“\_blank”&gt;<a href="https://www.bibleserver.com/LUT/Das5" class="bibleserver extern" target="_blank">Das 5</a></a>.Buch Mose in den späteren Schriften](https://sabbath-school.adventech.io/de/2021-04/11/01)
-===============================================================================================================================================================================================================================================================================================================================================================================================
+[Das 5.Buch Mose in den späteren Schriften](https://sabbath-school.adventech.io/de/2021-04/11/01)
+=================================================================================================
 
 II: Wir studieren die Bibel
 ---------------------------
@@ -83,12 +83,37 @@ erschrecken.”* (William Shakespeare)
 
 **<u>DIENSTAG:</u> Das 5.Buch Mose in Jeremia**
 
-**Text**
+**Jeremia 7,1-7**
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
+-   Diese Botschaft ergeht an das Volk, das **noch** in Jerusalem bzw.
+    in Kanaan lebt. Worin sahen sie (laut dem Text) ihre (falsche)
+    Sicherheit?
+-   Zu welchen Verhaltensweisen rät ihnen Jeremia?
+
+<u>Anwendung:</u>
+
+Jeremia streicht **vier** Verhaltensweisen heraus, die auch im 5.Buch
+Mose immer wieder betont werden.
+
+-   Was bedeutet heute: “Recht üben untereinander” (Elberfelder)?
+    -   Wie könnte das speziell auf unser Gemeindeleben umgemünzt
+        werden?
+-   Was bedeutet heute: “Fremde, Waisen und Witwen nicht unterdrücken”?
+    -   Könnte da z.B. auch das Unterdrücken anderer Meinungen gemeint
+        sein?
+-   Was könnte heute bedeuten:“Kein unschuldiges Blut vergießen”?
+    -   Denkt auch hier an das Gemeindeleben! Was könnte das vor allem
+        für den Umgang mit unseren Jugendlichen bedeuten (was ja -
+        berechtigterweise - in Österreich gerade ein großes Thema ist)?
+
+<!-- -->
+
+-   Was bedeutet heute: “Fremden Göttern nachlaufen”?
+
+**<u>MITTWOCH</u>**
+
+-   -   
+
 -   Fragen zur Botschaft:
     -   ...
     -   ...
