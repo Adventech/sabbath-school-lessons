@@ -22,9 +22,9 @@ hat die Bibel Fehler, nicht der Koran. Als Christen sehen wir es
 umgekehrt. Jede zeitlich spätere Offenbarung muß an der bisher
 vorliegenden gemessen werden.*
 
--   Warum ist für euch das christliche Prinzip schlüssiger als die
-    Herangehensweise des Islam (denn im Kern ist beides eine
-    **Glaubenssache**)?
+-   Warum ist für euch das christliche Prinzip schlüssiger (sofern es
+    schlüssiger ist) als die Herangehensweise des Islam (denn im Kern
+    ist beides eine **Glaubenssache**)?
 -   Woran sehen wir innerhalb der Bibel selbst dieses Prinzip?
     -   Wie wichtig ist dieses Prinzip? Warum ist es wichtig?
 
@@ -53,7 +53,7 @@ HERRN, eures Gottes, dass es dort ein Zeuge sei wider dich.”
 
 <u>Anwendung:</u>
 
-**ZITAT:***“Guter Rat wirkt gewöhnlich ambesten nach einem gewaltigen
+**ZITAT:***“Guter Rat wirkt gewöhnlich am besten nach einem gewaltigen
 Schrecken.”*
 
 **ZITAT:***“Ein unbeflecktes Herz läßt sich nicht so leicht
@@ -110,25 +110,32 @@ Mose immer wieder betont werden.
 
 -   Was bedeutet heute: “Fremden Göttern nachlaufen”?
 
-**<u>MITTWOCH</u>**
+**<u>MITTWOCH:</u> Was fordert der Herr?**
 
--   -   
+**Micha 6,1-8**
 
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+**ZITAT:** *“Wer die Liebe unter Beweis stellen will, stellt sie unter
+Anklage.”* (Gerhard Uhlenbruck)
 
-**Text**
+-   Inwiefern tut Gott in seinem Rechtsstreit mit dem Volk genau das?
+    -   Was ist seine Antwort?
+-   Das Volk wird in dieser Rechtssache offensichtlich als schuldig
+    verurteilt und fragt daher: “Womi soll ich vor den Herrn treten?”
+    Welche zwei Alternativen zeigt Gott auf?
 
--   Fragen zum Text:
-    -   ...
-    -   ...
-    -   ...
--   Fragen zur Botschaft:
-    -   ...
-    -   ...
-    -   ...
+<u>Anwendung:</u>
+
+*Hier ist es günstig, verschiedene Übersetzungen zu verwenden!*
+
+-   Was bedeutet *“Gottes Wort halten”* (Luther), *“Recht üben”*
+    (Elberfelder) bzw. *“Recht tun”* (Schlachter)?
+-   Was bedeutet *“Liebe üben”* (Luther, Schlachter) bzw. *“Güte
+    lieben”* (Elberfelder)?
+-   Was bedeutet *“demütig sein vor deinem Gott”* (Luther), *“einsichtig
+    gehen mit deinem Gott”* (Elberfelder) bzw. *“demütig wandeln mit
+    deinem Gott”* (Schlachter)?
+
+**<u>DONNERSTAG:</u> Daniels Gebet**
 
 **Text**
 
