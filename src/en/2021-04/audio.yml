@@ -335,6 +335,11 @@
           target: en/2021-04/10/03
         - src: https://egwhiteaudio.com/wp-content/uploads/2021/11/2021-11-30.mp3
           target: en/2021-04/10/04
+<<<<<<< HEAD
+>>>>>>> upstream/stage
+=======
+        - src: https://egwhiteaudio.com/wp-content/uploads/2021/11/2021-12-01.mp3
+          target: en/2021-04/10/05
 >>>>>>> upstream/stage
     - artist: The Sound of Scripture
       tracks:
