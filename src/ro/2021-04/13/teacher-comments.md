@@ -3,7 +3,7 @@ title:  Material Pentru Instructori
 date:  24/12/2021
 ---
 
-**Text-cheie:** Iuda 9
+**Text-cheie:** Iuda 1:9
 
 ### I. Privire generală
 
@@ -31,7 +31,7 @@ Am putea crede că mesajul sugerat de această structură a influențat structur
 
 **Judecata lui Moise**
 
-Dumnezeu evocă momentul păcătuirii lui Moise împotriva Lui (Deute­rono­mul 32:51) la apele Meriba, la Cades, când acesta a lovit stânca de două ori. Ellen G. White comentează: „Moise a dat dovadă de neîncredere în Dumnezeu.” – Patriarhi și profeți, p. 417. Răspunsul lui Dumnezeu sugerează că a fost o chestiune de credință: „n-ați crezut în Mine” (Numeri 20:12). Această judecată poate fi mai ușor de înțeles în lumina incidentului cu mana, când poporul s-a concentrat pe pâinea în sine și a pierdut legătura cu Dătătorul pâinii (vezi studiul 12, secțiunea „Trăiește prin Cuvânt”). Atitudinea lui Moise pare să fie în același spirit ca acela al israeliților. În loc să se roage și să-I ceară lui Dumnezeu să facă o minune, el lovește stânca, de parcă soluția pentru setea poporului ar fi fost apa care ieșea din stâncă, nu cea dată de Creatorul Însuși.
+Dumnezeu evocă momentul păcătuirii lui Moise împotriva Lui (Deuteronomul 32:51) la apele Meriba, la Cades, când acesta a lovit stânca de două ori. Ellen G. White comentează: „Moise a dat dovadă de neîncredere în Dumnezeu.” – Patriarhi și profeți, p. 417. Răspunsul lui Dumnezeu sugerează că a fost o chestiune de credință: „n-ați crezut în Mine” (Numeri 20:12). Această judecată poate fi mai ușor de înțeles în lumina incidentului cu mana, când poporul s-a concentrat pe pâinea în sine și a pierdut legătura cu Dătătorul pâinii (vezi studiul 12, secțiunea „Trăiește prin Cuvânt”). Atitudinea lui Moise pare să fie în același spirit ca acela al israeliților. În loc să se roage și să-I ceară lui Dumnezeu să facă o minune, el lovește stânca, de parcă soluția pentru setea poporului ar fi fost apa care ieșea din stâncă, nu cea dată de Creatorul Însuși.
 
 Greșeala lui Moise a fost că nu L-a glorificat pe Dumnezeu. El s-a comportat ca un magician egiptean, concentrându-se pe puterea magiei, nu pe puterea lui Dumnezeu. El chiar s-a inclus, prin pronumele „noi”, în abilitatea de a scoate apă: „Vom putea noi oare să vă scoatem apă?” (Numeri 20:10). Păcatul lui Moise este greșeala oricărui lider – ispita de a-L înlocui pe Dumnezeu.
 
@@ -43,9 +43,9 @@ Citește Numeri 20:1-13. Ce alte greșeli a făcut Moise când a reacționat în
 
 Textul din Deuteronomul nu menționează învierea lui Moise. Deuteronomul 32:48-50; 33:1 și 34:5 se referă în mod specific la moartea lui, dar nu spun nimic despre înviere. Totuși, o serie de indicii din textul biblic arată spre ideea de înviere. Cel mai semnificativ indiciu legat de învierea lui Moise se poate găsi în ciudatul verset: „Nimeni nu i-a cunoscut mormântul până în ziua de azi” (Deuteronomul 34:6). Această ultimă parte a versetului biblic și chiar faptul că Dumnezeu este menționat ca fiind singurul implicat în înmormântarea lui Moise arată că a fost ceva deosebit legat de îngroparea lui.
 
-În plus, sintagma ebraică ’al pi IHWH, „după porunca Domnului” (Deutero­nomul 34:5), care literalmente înseamnă „pe gura Domnului”, pare să se refere la o moarte neobișnuită. Pe baza acestei expresii, un midraș antic iudaic afirmă că Moise a murit cu un sărut din partea lui Dumnezeu, evocând în mod ciudat suflarea de viață a lui Dumnezeu (Geneza 2:7) și sugerând, astfel, miraculoasa re-creare a lui Moise. Informația despre starea de sănătate perfectă a lui Moise (Deuteronomul 34:7) la momentul morții contribuie la anormalitatea morții sale. Moise nu a murit de moarte naturală. Dumnezeu Însuși l-a trecut la odihnă și apoi tot El l-a înviat.
+În plus, sintagma ebraică ’al pi IHWH, „după porunca Domnului” (Deuteronomul 34:5), care literalmente înseamnă „pe gura Domnului”, pare să se refere la o moarte neobișnuită. Pe baza acestei expresii, un midraș antic iudaic afirmă că Moise a murit cu un sărut din partea lui Dumnezeu, evocând în mod ciudat suflarea de viață a lui Dumnezeu (Geneza 2:7) și sugerând, astfel, miraculoasa re-creare a lui Moise. Informația despre starea de sănătate perfectă a lui Moise (Deuteronomul 34:7) la momentul morții contribuie la anormalitatea morții sale. Moise nu a murit de moarte naturală. Dumnezeu Însuși l-a trecut la odihnă și apoi tot El l-a înviat.
 
-În cântarea lui, Moise a înălțat puterea lui Dumnezeu de a învia din morți (Deuteronomul 32:39). Mai mult, asocierea cu țara care le fusese făgăduită patriarhilor (Deuteoronomul 34:4), o reminiscență a Grădinii Edenului (Ge­neza 15:18; compară cu Geneza 2:13-15), întărește ideea de înviere. Lui Moise nu i-a fost îngăduit să intre în Țara Promisă de pe pământ, dar a intrat în Țara Promisă din cer, o moștenire care îl așteaptă pe poporul lui Dumnezeu la momentul învierii (Daniel 12:2,3,13).
+În cântarea lui, Moise a înălțat puterea lui Dumnezeu de a învia din morți (Deuteronomul 32:39). Mai mult, asocierea cu țara care le fusese făgăduită patriarhilor (Deuteronomul 34:4), o reminiscență a Grădinii Edenului (Geneza 15:18; compară cu Geneza 2:13-15), întărește ideea de înviere. Lui Moise nu i-a fost îngăduit să intre în Țara Promisă de pe pământ, dar a intrat în Țara Promisă din cer, o moștenire care îl așteaptă pe poporul lui Dumnezeu la momentul învierii (Daniel 12:2,3,13).
 
 Pentru Ellen G. White, viziunea Canaanului primită de Moise pe muntele Nebo este legată de cea despre noul pământ, „țara aceea bună”: „Încă o scenă s-a înfăţişat privirii lui – aceea a pământului eliberat de blestem, mai plăcut decât minunata ţară făgăduită care i se arătase cu puţin timp înainte. Acolo nu mai este păcat şi moartea nu mai poate străbate. Acolo îşi găsesc cei mântuiţi patria lor cea veşnică. Cu o bucurie ce nu poate fi redată în cuvinte, Moise priveşte la scena aceea - realizarea unei eliberări mai minunate decât şi-ar fi putut imagina, având cele mai îndrăzneţe nădejdi. După ce şi-a sfârşit peregrinajul pământesc, Israelul lui Dumnezeu şi-a aşezat sălaşul în patria făgăduită. Apoi aceste scene au fost ascunse privirilor sale, iar ochii lui au putut vedea din nou ţinutul Canaanului, care se întindea până departe. Apoi, ca un călător obosit, se culcă pentru a se odihni.” – Patriarhi și profeți, p. 477
 
@@ -55,7 +55,7 @@ Pentru Ellen G. White, viziunea Canaanului primită de Moise pe muntele Nebo est
 
 Este important faptul că, din perspectiva lui Iuda, evenimentul învierii lui Moise a prezentat, în miniatură, marea luptă dintre Dumnezeu și Satana. Disputa dintre Mihail, marele războinic, care este Isus Hristos, și Diavolul surprinde tot destinul lumii. Pe de o parte, este Satana, care are motive întemeiate să-l țină pe Moise în mormânt din cauza eșecului de a fi neprihănit. Pe de altă parte, este Isus Hristos, care îl apără și îl salvează pe Moise prin puterea sângelui Său.
 
-**De discutat și de meditat:** Compară Geneza 3:15 și Iuda vers. 9. Enumeră temele pe care le au în comun aceste două texte. De ce Satana era atât de dornic să-l țină pe Moise în mormânt?
+**De discutat și de meditat:** Compară Geneza 3:15 și Iuda 1:9. Enumeră temele pe care le au în comun aceste două texte. De ce Satana era atât de dornic să-l țină pe Moise în mormânt?
 
 ### III. Aplicație
 
