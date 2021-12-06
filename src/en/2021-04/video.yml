@@ -22,6 +22,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_zlnF6lky5ff5EoCZS5ei_9bdbfb618c.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-10-remember-do-not-forget-1/-/40037710/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_T3z8eoour6xNC2XiRfk8_638a066b22.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-11-deuteronomy-in-the-later-writings/-/40037716/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_4IdC34v9lfDEzDv5gOxM_db1e219eb3.jpg
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-214-1-WEEKLY-EN.mp4
@@ -85,6 +87,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-09.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-10.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-11.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -122,3 +126,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-09.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-10.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-10.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-11.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-11.webp

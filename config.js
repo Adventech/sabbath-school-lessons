@@ -21,7 +21,8 @@ var BIBLE_PARSER_CONFIG = {
   "cs": [
     "cep",
     "kralicka-1613",
-    "csp"
+    "csp",
+    "b21"
   ],
   "my":[
     "tdb"
