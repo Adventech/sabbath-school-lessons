@@ -118,6 +118,20 @@ let indonesiaAudio = async function () {
     )
 }
 
+let hungarianAudio = async function () {
+    await dailyAudio(
+        "hu",
+        "Felnőtt szombatiskola",
+        {
+            artist: "Felnőtt szombatiskola",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            return `https://bibliatanulmanyok.hu/tanulmanyok/audio/${targetDate.format("YYYYMMDD")}.mp3`
+        }
+    )
+}
+
 let spanishAudio = async function () {
     await dailyAudio(
         "es",
@@ -138,7 +152,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2021/06/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2021/09/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -176,6 +190,7 @@ let run = async function () {
     await indonesiaAudio();
     await spanishAudio();
     await romanianAudio()
+    await hungarianAudio();
 }
 
 run().then(() => {
