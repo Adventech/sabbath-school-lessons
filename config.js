@@ -96,9 +96,9 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "lt": [
+    "lbd-eku",
     "lit",
-    "ltb",
-    "lbd-eku"
+    "ltb"
   ],
 
   "hi": ["hhbd"],
