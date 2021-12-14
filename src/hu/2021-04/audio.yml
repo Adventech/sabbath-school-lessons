@@ -130,3 +130,37 @@
           target: hu/2021-04/09/07
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211127.mp3
           target: hu/2021-04/10/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211128.mp3
+          target: hu/2021-04/10/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211129.mp3
+          target: hu/2021-04/10/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211130.mp3
+          target: hu/2021-04/10/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211201.mp3
+          target: hu/2021-04/10/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211202.mp3
+          target: hu/2021-04/10/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211203.mp3
+          target: hu/2021-04/10/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211204.mp3
+          target: hu/2021-04/11/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211205.mp3
+          target: hu/2021-04/11/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211206.mp3
+          target: hu/2021-04/11/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211207.mp3
+          target: hu/2021-04/11/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211208.mp3
+          target: hu/2021-04/11/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211209.mp3
+          target: hu/2021-04/11/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211210.mp3
+          target: hu/2021-04/11/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211211.mp3
+          target: hu/2021-04/12/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211212.mp3
+          target: hu/2021-04/12/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211213.mp3
+          target: hu/2021-04/12/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211214.mp3
+          target: hu/2021-04/12/04
