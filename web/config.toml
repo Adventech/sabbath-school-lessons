@@ -332,8 +332,8 @@ unsafe = true
 	lang = "🇸🇪 Svenska"
 
 [params.lt]
-	title = "Sabato Mokykla"
-	back = "Eik atgal"
+	title = "Sabatos Mokykla"
+	back = "Eiti atgal"
 	all = "Visos pamokos"
 	todaysLesson = "Šiandienos pamoka"
 	current = "Dabartinė pamoka"
