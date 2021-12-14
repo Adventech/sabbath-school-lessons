@@ -1,19 +1,22 @@
 ---
-  title: "Title"
-  description: "true"
+  title: "Die Botschaft des Hebräerbriefes"
+  description: "Das imWort-Studienheft wurde für diejenigen entwickelt, die sich nach einer tieferen Erfahrung bei ihrem Bibelstudium sehnen. Es ermöglicht eine tiefere und umfassendere Auseinandersetzung mit der Heiligen Schrift und befähigt dazu den wachsenden Glauben zu teilen. Sowohl der Inhalt als auch das Format sind darauf ausgerichtet dein geistliches Leben zu bereichern. Du musst dich nur auf dieses Abenteuer einlassen."
   human_date: "Januar · Februar · März 2022"
   start_date: "25/12/2021"
   end_date: "25/03/2022"
   color_primary: "#7D7D7D"
   color_primary_dark: "#333333"
   credits:
-    - name: Autor
-      value: ""
+
     - name: Herausgeber
-      value: ""
-    - name: Redakteurin
-      value: ""
-    - name: Publikationsleiterin
-      value: ""
-    - name: Redaktionsassistentin
-      value: ""
+      value: "Justin Kim"
+    - name: Leitende Redaktionsassistentin
+      value: "Sikhu Daco"
+    - name: Leiter der Sabbatschule
+      value: "Ramon Canals"
+    - name: Assoz. Leiter der Sabbatschule
+      value: "Jim Howard"
+    - name: Projektleitung
+      value: "Markus Gritschenberger, Franz Mössner"
+    - name: Übersetzung
+      value: "Deborah Külls"
