@@ -166,3 +166,5 @@
           target: in/2021-04/12/05
         - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20211216_5.mp3
           target: in/2021-04/12/06
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20211217_6.mp3
+          target: in/2021-04/12/07
