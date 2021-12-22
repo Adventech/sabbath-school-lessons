@@ -1,0 +1,22 @@
+---
+title:  Zendingsbericht
+date:   28/01/2022
+---
+
+### Engelen onder ons
+
+### Timor-Leste, 29 januari
+
+_Lusio en Yelri Dias_
+
+Lusio en zijn vrouw, Yelri, hadden nooit gedacht dat ze stenen op zich afgeworpen kregen door Jezus’ spoedige wederkomst te verkondigen aan een onbekeerde groep mensen in Timor-Leste. Ook hadden ze nooit gedacht dat ze engelen zouden zien. De zendingswerkers van Global Mission waren naar de bergen gestuurd om toenadering te zoeken tot sprekers van het Fataluku, één van de dertig talen die de 1.3 miljoen inwoners van het land eigen is. Het echtpaar had een streepje voor: het Fataluku was Lusio’s moedertaal. Omdat ze niet wisten waar ze moesten beginnen, ondernam het echtpaar elke dag een gebedswandeling door de vier dorpen van hun regio.
+
+Na een tijdje besloten ze het huis dat ze huurden ook open te stellen voor bijlessen in wiskunde en Engels. De naschoolse bijlessen waren razend populair; binnen een mum van tijd was het oorspronkelijke aantal kinderen, twaalf in totaal, uitgegroeid tot 57. Elke middag begon de bijles met Bijbelstudie en gebed. Twee maanden later vertelden kinderen hun vrienden dat Jezus snel weer komt en vroegen ze hun of ze naar de hemel wilden gaan. Sommige kinderen verlangden zich bij de Adventkerk aan te sluiten. Lusio en Yelri waren positief gestemd.
+
+Dat veranderde in de derde maand. Kinderen die de bijlessen niet bezochten, begonnen de bijeenkomsten te verstoren door de studenten te bedreigen en uit te horen. Het duurde niet lang voordat slechts vier tot maximaal zes leerlingen de bijlessen ’s middags bezochten. Uiteindelijk liet de huisbaas van het huis dat Lusio en Yelri huurden weten dat ze hun koffers konden pakken. Het echtpaar verhuisde naar een kleinere woning waar ze niet de ruimte hadden om kinderen bijles te geven. Enige tijd later zette Lusio evangelisatiebijeenkomsten op in één van de vier dorpen toen bleek dat een paar dopelingen van plan waren zich te laten dopen. Aan het einde van de bijeenkomsten was bijna het hele dorp aanwezig. Lusio en Yelri hoopten er het beste van.
+
+Tot Lusio aan werd gehouden door een vrouw toen hij naar de waterput ging om zijn drie waterreservoirs, het limiet, te vullen. ‘Verspreid je folders niet onder mijn mensen en probeer ze niet te bekeren’, sneerde ze. ‘Wat bedoel je?’, vroeg hij. ‘Ik ken jou en je bedoelingen’, zei ze. ‘Houd me maar niet voor de gek. Je probeert mijn mensen naar jouw kerk te lokken door ze geld aan te bieden’. Dat was een valse beschuldiging. Geld was nooit ter sprake gekomen. Plotseling gaf de onderwijzeres Lusio een harde klap met haar hand. Haar volwassen zoon, die vlakbij stond, stompte Lusio. Daarna raapten de moeder en zoon stenen op en gooiden die naar de zendingswerker van Global Mission. Geen steen raakte hem. Toen een menigte mensen was ontstaan, dreigde iemand Lusio neer te schieten en rende naar huis om een geweer te halen. Goedgezinde dorpelingen beschermden Lusio zodat hij naar het dorp kon vluchten.
+
+Twee maanden later arriveerde een adventistische leider om te spreken bij evangelisatiebijeenkomsten in een van de andere dorpen. De menigte nam met de dag toe en Lusio en Yelri zagen het helemaal zitten. Op een avond gooide een aantal mannen stenen in de ontmoetingstent. Één steen raakte het hoofd van een vrijwillige verpleegster, waardoor het bloed langs haar gezicht stroomde. De bijeenkomst voor die avond was van de baan. Nog meer door de lucht vliegende stenen stonden de mensen te wachten toen ze naar hun huizen reden in een truck die door de kerk gehuurd was om de berg te beklimmen. De dorpelingen waren bang. Plotseling verschenen zeven grote mannen in heldere, stralende kleding. De vreemdelingen waren alleen zichtbaar voor drie verblufte jongemannen, die zagen dat ze de plaats verlieten en steeds kleiner en kleiner werden terwijl ze de berg opgingen. Er werden geen stenen meer gegooid.
+
+Toen ze hoorden over de zeven stralende mannen, twijfelden de dorpelingen er niet aan dat God zijn engelen had gestuurd om zijn volk te beschermen. ‘De engel van de HEER waakt over wie Hem vrezen, en bevrijdt hen’ (2 Psalm 34:8). De volgende sabbat gaven dertien jonge mensen hun leven aan Jezus en lieten zich dopen. Onder hen waren twee van de drie jongemannen die de engelen hadden gezien. Ondanks de bovenmenselijke beproevingen waar ze mee te maken hebben gekregen, houden Lusio en Yelri de moed erin. Ze weten dat God verlost. 
