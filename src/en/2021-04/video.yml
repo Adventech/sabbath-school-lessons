@@ -24,6 +24,11 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_T3z8eoour6xNC2XiRfk8_638a066b22.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-11-deuteronomy-in-the-later-writings/-/40037716/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_4IdC34v9lfDEzDv5gOxM_db1e219eb3.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-12-deuteronomy-in-the-new-testament/-/40038334/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_jM2cohzn0SE_fea63ab30e.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-13-the-resurrection-of-moses/-/40038530/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_xpITJ91MauZfzz5vf2F2_ac52b108c9.jpg
+
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-214-1-WEEKLY-EN.mp4
@@ -89,6 +94,10 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-10.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-11.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2021-04-13.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -104,6 +113,7 @@
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6195a56954d4f70001ded3dd/6195a56954d4f70001ded3de/550b0b2669702d0707940200/9651c5f4-6ea8-4286-8cfb-7a0020107641.mp4?tvAucQWnk-LZU_2r-ZT43ZZSsG-MitTVwxVMldNG1uU_1zIG_lTHhIvb8s-MwMjlUhl15mGPk9XN3LUHXsGliT534Z6tbhwhfEjTBPlDkfKWA_1qPwmvWOL0ViCjgUSHPz4qgjhpfROsHHSKqduOxA&F38b1dF4=619d4841a50f280001e26e46
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/619e6238d5551f000194583e/619e6238d5551f000194583f/550b0b2669702d0707940200/8264d56c-516a-4d6e-b887-583178401de0.mp4?j4rqAF9lFUM_C-f4rJNpBww32zoPwaXz6WdIhveiFpDq5I33q7yTDmqoYEJTNnwP2uHwc2SBuLSGEDTSBespErtzDFtpAefVmhb49jmPPFzsbZJmoM53LWQDamhb0jefXQcGaqXfWWTZ1BALphdyWA&F38b1dF4=619e6f93fba56f0001c64183
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61a7c651db4a82000181fc7b/61a7c651db4a82000181fc7c/550b0b2669702d0707940200/40e9b3c5-a93d-4fb4-9e7a-1189a3fed1ea.mp4?5eDl88RqmrZu-vz3rvF3hF1kVin8woUaT7t8WFdG8NUwtttosGULbnT7MDGWnEvZTZK-bk83edHS5qbvG-DMUntz-3UmE1cb-3XW93i6karKBlGBpIHA8ClcaJ8gO3dZYi6iOfb49RosZfIGVy_mlA&F38b1dF4=61a7d4418015e70001004618
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61b2445d77d5ad0001c26f45/61b2445d77d5ad0001c26f46/550b0b2669702d0707940200/d0d8aaf9-b234-40b6-b38f-9e14d7369444.mp4?pTck37lTN03Mqo90PZI2AgSsN9R_ZbITHoMSVQKsirLZaHsT0cf8xkrYw0fpPYpTYTR4Fawvb5pUVMI3Cj9qk2PXkl9re6wuOO4YutPpREZNAEyLP_6m_7lNCRt4-1uiCGM3pD4-UaRnO9UKMG_E1w&F38b1dF4=61bb7ea7da0c5d00012f7836
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-01.mp4
@@ -128,3 +138,7 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-10.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-11.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-11.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-12.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-12.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-13.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2021-04-13.webp
