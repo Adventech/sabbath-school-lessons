@@ -6,6 +6,8 @@
   end_date: "25/03/2022"
   color_primary: "#304465"
   color_primary_dark: "#032C48"
+  quarterly_name: "Standard Adult"
+  splash: true
   credits:
     - name: Principal Contributor
       value: "Félix Cortez"
