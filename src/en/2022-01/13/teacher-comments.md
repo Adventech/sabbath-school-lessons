@@ -1,0 +1,50 @@
+---
+title:  Teacher Comments
+date:  25/03/2022
+---
+
+#### Part I: Overview
+
+Key Texts: Hebrews 13; Rom. 12:13; Eph. 5:3–5; 1 Pet. 5:1–4; Heb. 2:9; Heb. 4:16; Gal. 2:20.
+
+Lesson Themes: Paul concludes his letter with several admonitions for his audience to “let mutual love continue” (Heb. 13:1, NRSV), to “show hospitality to strangers” (Heb. 13:2, NRSV), and to “remember those who are in prison . . . [and] those who are being tortured” (Heb. 13:3, NRSV). Paul also admonishes his readers to ensure that “marriage be held in honor” (Heb. 13:4, NRSV), to “keep your lives free from the love of money” (Heb. 13:5, NRSV), to “obey your leaders and submit to them” (Heb. 13:17, NRSV), and to “pray for us” (Heb. 13:18, NRSV). Throughout the letter, Paul repeatedly calls on his audience to “exhort one another every day” (Heb. 3:13, NRSV), “to provoke one another to love and good deeds, not neglecting to meet together” (Heb. 10:24, 25, NRSV), and to see “that no one fails to obtain the grace of God; that no root of bitterness springs up and causes trouble, and through it many become defiled” (Heb. 12:15, NRSV). The letter, as a whole, is a “word of exhortation” (Heb. 13:22, NRSV).
+
+While Paul encourages his audience to practice mutual love, he does not expect a certain emotional sentiment. Rather, he exhorts them to specific actions, such as showing hospitality, sharing with those who are imprisoned, practicing faithfulness in marriage, and shunning greed. Similarly, when Paul exhorts his audience to remember their leaders, he is not interested in an exercise in recollection. Rather, he wishes that in showing their faithfulness to God, they would obey, submit to, and respect their leaders. Finally, Paul warns his audience not to follow strange teachings but to follow the Master Teacher, Christ.
+
+#### Part II: Commentary
+
+Strange Teachings and Foods: In Hebrews 13:9, Paul warns his audience: “Do not be led away by diverse and strange teachings, for it is good for the heart to be strengthened by grace, not by foods, which have not benefited those devoted to them” (ESV). This verse constitutes one of the more difficult texts in the book of Hebrews. What makes this verse difficult is the vague reference to its historical background. Because we cannot pinpoint exactly the precise situation to which the whole discourse was addressed, we should avoid drawing conclusions that are too strong.
+
+In the verse prior to the one just quoted, we are told that “Jesus Christ is the same yesterday and today and forever” (Heb. 13:8, ESV). In contrast to Christ’s constancy stands the admonition not to be carried away by all kinds of strange teachings. The metaphor of “carried away” (Heb. 13:9, NRSV) evokes images of wind and water, which carry things away. The use of this figure calls to mind the nautical metaphor used by Paul in Hebrews 2:1: “so that we do not drift away” (NRSV). There, Paul was keen in warning his audience to pay attention to what they heard from those who witnessed Christ. At that time, the audience was in danger of drifting away from Christ. Here, Paul reminds his audience of those stalwart teachers and leaders and calls for the imitation of their faith (Heb. 13:7). While leaders come and go, Christ is constant. Spiritual errors, however, have not ceased. That is why the audience is in danger of being carried away by the instrument of deceptive teachings. Those teachings seem to be in opposition to what they’ve heard from their teachers and leaders and are described by two adjectives: “diverse and strange” (Heb. 13:9, ESV).
+
+Paul tells his audience that the strengthening of the heart happens by grace, not by food. The antithesis between food (which is fleeting) and grace (which is permanent) is a comparison often employed by Bible writers to show the difference between this temporary existence and something much better. Paul, for example, states: “For the kingdom of God is not food and drink but righteousness and peace and joy in the Holy Spirit” (Rom. 14:17, NRSV). Likewise, Paul admonishes the Christians in Corinth: “ ‘Food will not bring us close to God.’ We are no worse off if we do not eat, and no better off if we do” (1 Cor. 8:8, NRSV). Actually, food very often brought division in the early church (Rom. 14:1–3), as well as today.
+
+What is the particular problem Paul addresses in Romans 14:1–3? Some scholars contend that members of the faith community in the church at Rome advocated eating meat offered to idols, something similar to the problem the church in Corinth faced (1 Corinthians 8 and 1 Corinthians 10). Comparing Hebrews with 1 Corinthians clearly shows that Paul uses much more forceful language with regard to food offered to idols (1 Cor. 8:12) than he does in Hebrews (“it is good for the heart to be strengthened by grace, not by foods” (Heb. 13:9, ESV). So, most likely, the issue in Hebrews is not food offered to idols.
+
+A more likely option inspiring the warning in Hebrews 13:9 would be dining on the food of temple sacrifices. What speaks in favor of this idea? Let us consider three scriptural possibilities. First, the immediate context seems to allude to the consumption of foods connected to Jewish sacrificial meals. Paul states, “We have an altar from which those who officiate in the tent have no right to eat” (Heb. 13:10, NRSV). Here, Paul is alluding to the Old Testament priests who ate from cultic meals at the tabernacle.
+
+Second, the very same word “food” is used in Hebrews 9:9, 10, in which we read: “gifts and sacrifices . . . deal only with food and drink and various baptisms, regulations for the body imposed until the time comes to set things right” (NRSV). Here, Paul makes the same point that he makes again in Hebrews 13:9: ceremonial sacrifices cannot perfect the conscience; rather, they deal with food and drink and various ceremonial washings. That is the reason the audience should not follow strange teachings, because these ceremonial sacrificial meals are useless even for those who practice (literally, “walk in”) them. Christians participate in a sacrifice far superior to any sacrificial meal (compare Heb. 13:10–12).
+
+Third, the Greek term “food” (in the Septuagint, the Greek Old Testament) is used in Malachi 1:7, 12 with reference to sacrificial foods on the altar. Priests offered polluted food, defined as blind, sick, and lame animals, as sacrifices (Mal. 1:7, 8). In sum, all three reasons—the immediate context, the further context, and the Old Testament context—seem to point to the fact that the strange teachings about food relate to Jewish sacrificial meals.
+
+Obey and Submit to Your Leaders: Within democratic or representative political systems of governance, an exhortation to obey and to submit to the leaders sounds rather authoritarian. Should a claim like that be made today? If so, how should we as members of a worldwide church respond to it?
+
+Several New Testament books contain important instruction on church leadership and so it should not be surprising that the book of Hebrews  does also. Church leaders are mentioned three times (Heb. 13:7, 17, 24). In verse 7, they are referred to as “those who spoke the word of God to you” (Heb. 13:7, NRSV). These individuals most likely were the missionary evangelists of Hebrews 2:3. Because of their preaching and teaching, the audience is confronted with “the word of God” as “living and active, sharper than any two-edged sword” (Heb. 4:12, NRSV).
+
+Three verbs draw attention to these leaders: “remember,” “consider,” and “imitate” (Heb. 13:7, NRSV). As the letter indicates, Paul has provided his audience with both negative (Heb. 4:11) and positive examples (Heb. 11:4–38) for avoidance and imitation, respectively. At this juncture, readers are supposed to consider the outcome of their leaders’ way of life. This contemplation implies that the leaders’ objectives have been accomplished. Thus, the audience now can review the course of their leaders’ efforts and imitate their faithful conduct.
+
+Later in the chapter, we see reference again to leadership and how church members should relate to them: “Obey your leaders and submit to them, for they are keeping watch over your souls and will give an account. Let them do this with joy and not with sighing—for that would be harmful to you” (Heb. 13:17, NRSV). The authority of the leaders resides   in faithfully executing the function of their office, “for they are keeping watch over your souls” (Heb. 13:17, NRSV). When leaders take their responsibilities seriously, they help their members avoid being carried away by all kinds of strange teachings and the consumption of foods that will not benefit even those who ingest them. At the same time, good leaders are aware that leadership demands accountability, as illustrated by the two servants in Jesus’ parable (Matt. 24:45–51).
+
+Finally, Paul urges his listeners to obey and submit to their leaders so that their duty can be done with joy and not with sighing. Joy recalls the attitude with which the audience accepted the plundering of their possessions (Heb. 10:34). Such joy is the very reason that Jesus endured the cross and disregarded its shame (Heb. 12:2) and the consequence of paternal discipline (Heb. 12:11). The work of leaders is made joyful when their members submit to, and obey, them. When that is not the case, their work is made arduous. According to Paul, under such conditions the leaders groan, and the church reaps no benefits. Thus, a successful collaboration between leaders and members requires trust and benevolence.
+
+#### Part III: Life Application
+
+If church leadership has been abused in the past under certain circumstances, or in parts of the world in which political regimes make church governance difficult how can we find the harmony between leaders and members that Hebrews talks about?
+
+1.	Why is there so much aversion to authority in some cultures?
+
+2.	Should leadership be followed only if a person agrees with the leader? Discuss.
+
+3.	What criteria does Paul give us in Hebrews 13 for following leaders?
+
+`Notes`

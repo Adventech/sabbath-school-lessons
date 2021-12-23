@@ -1,0 +1,54 @@
+---
+title:  Teacher Comments
+date:  18/02/2022
+---
+
+#### Part I: Overview
+
+Key Texts: Heb. 7:11–19; Heb. 8:10–12; Jer. 31:31–34; Heb. 8:1–6; Exod. 24:1–8; Ezek. 36:26, 27.
+
+Lesson Themes: The old covenant was given on the basis of the Levitical priesthood. As part of this agreement, the Levites alone acted as mediators between God and the Israelites. The book of Hebrews, however, talks about how Jesus has been appointed High Priest, according to the order of Melchizedek. Furthermore, Paul recalls the fact that Jesus is not from the tribe of Levi (Heb. 7:14). Rather, He is from the tribe of Judah. Thus, according to the laws of the Levitical priesthood, He was not eligible to serve as a priest. Yet, He was appointed High Priest by God Himself: “ ‘You are a priest forever’ ” (Heb. 7:21, NRSV).
+
+One might legitimately inquire how someone from the tribe of Judah could become priest, given the Levitical restrictions. Only Levites were supposed to serve at the temple. Logically, a change would need to take place first. Paul makes the point that such a change in the priesthood would necessitate a corresponding change in the laws of the priesthood (Heb. 7:12). The change in the laws of the priesthood, in turn, would lead to a change of the covenant. The first covenant was with the Levites and the second with Christ. Why the complete change? The lesson makes the point clear that the old covenant could not cleanse the conscience from sins (Heb. 10:4; Heb. 9:14), which cleansing is the righteousness of Christ given to us. Those animal sacrifices pointed forward to Christ, the true “ ‘Lamb of God who takes away the sin of the world!’ ” (John 1:29, NRSV). With this new covenant also comes not just an Arbiter, a Negotiator, or a Witness, but a Guarantor who assures that the covenant promises will be fulfilled. Further, in this new covenant, the laws will be internalized within people as God writes “them on their hearts” (Heb. 8:10, NRSV).
+
+#### Part II: Commentary
+
+The Superiority of Melchizedek: Several times in Hebrews (Heb. 5:6, 10; Heb. 6:20), Christ is portrayed as a priest according to the order of Melchizedek. In Hebrews 7, Paul dedicates some time to this priestly Melchizedek for the purpose of tracing the nature of Christ’s priesthood. At the same time, he establishes that Christ’s priesthood is superior to the Levitical priesthood.
+
+There are only two references in the Old Testament to Melchizedek: Genesis 14:18 and Psalm 110:4. Hebrews summarizes the Genesis account and establishes that Melchizedek is a priest (Heb. 7:1), that he is similar to Christ (Heb. 7:3), and that he is superior to Abraham (Heb. 7:4). The Genesis narrative describes the first war recorded in the Bible, showcasing Abraham as he pursues the four invading kings who took his nephew Lot captive. After liberating the captives, Abraham returns home. On the way, Melchizedek, the king-priest of Salem (Jerusalem), meets Abraham with bread and wine, a detail that is missing in the account of Hebrews. The former blesses the latter, and the latter returns tithes to the former (Heb. 7:1, 2). What then makes Melchizedek superior to the Levitical priesthood? Three things, as we shall see.
+
+First, Melchizedek is “without father, without mother, without genealogy, having neither beginning of days nor end of life” (Heb. 7:3, NRSV). In the Graeco-Roman world, to be without a father meant to be an illegitimate child. To be without a mother meant that the child was from a woman of low social status. In the Jewish world, however, to be without genealogy meant that the person could not qualify for the Levitical priesthood. Was Melchizedek a divine figure, as some people have concluded? No; he appears suddenly on the scene, in Genesis 14, and disappears just as quickly again—but without any mention of his family background. Because the Genesis record does not tell of his father, mother, or genealogy, Paul employs Melchizedek as a perfect example for the eternal nature of Christ. This is supported by the statement “having neither beginning of days nor end of life, but resembling the Son of God, he remains a priest forever” (Heb. 7:3, NRSV).
+
+Furthermore, the Levites are again compared with Melchizedek, in Hebrews 7:8. “In the one case” mortal Levites are taking tithes from their fellow Israelites, but “in the other,” meaning in the case of Melchizedek, tithes are received by “one of whom it is testified that he lives” (Heb. 7:8, NRSV). Here, the mortality of the Levites is contrasted with the absence of a recorded death of Melchizedek in Genesis 14.
+
+Did Melchizedek never die? No, but because his death is not recorded in Scripture, Paul sees in him a perfect example for Christ’s eternity. Such absence was a principle used by ancient writers. The silence of Scripture on a given point is taken as evidence that something did not exist. Melchizedek enters the narrative without ancestry and exits without an account of his death, which points typologically to the One who is eternal. Because Melchizedek points to eternity and the Levites were finite, Melchizedek is superior to them.
+
+Second, Melchizedek is superior to the Levites because he blessed Abraham, the patriarch, who is described as the one who received the promise (Heb. 6:13, Heb. 7:6). Thus, “it is beyond dispute that the inferior [Abraham] is blessed by the superior [Melchizedek]” (Heb. 7:7, NRSV). Not only is Melchizedek superior to the Levites because of his continuous priesthood—but he also is superior because he blessed Abraham.
+
+Third, Melchizedek is superior to the Levites because “even Abraham the patriarch gave him a tenth of the spoils” (Heb. 7:4, NRSV). The great-grandson Levi and his descendants basically returned tithes through Abraham to this non-Levitical priest of God, Melchizedek (Heb. 7:9, 10). A lack of Levitical genealogy does not prevent Melchizedek from receiving tithes from Abraham. In the same way, a lack of Levitical genealogy cannot prevent Jesus from serving as Priest. The Levites were commanded by the law to receive tithes from their fellow Israelites and, in turn, to return tithes from the tithes received (Num. 18:21–26). This tradition is something Paul recounts (Heb. 7:5). The logic of his argument is obvious. Melchizedek is greater than Abraham; consequently, he must be greater than Levi. By extension, the priesthood of Melchizedek is greater than that of the Levitical priesthood. If that is true, Christ’s priesthood is superior to that of any human priests in the earthly tabernacle or temple. Hence, He is called a Priest “forever, according to the order of Melchizedek” (Heb. 7:17, NRSV).
+
+In summary, Melchizedek is superior to the Levites because of his continuous priesthood. He blessed Abraham, the ancestor of the Levites, and the Levites returned tithes to Melchizedek through Abraham.
+
+The Superiority of Christ’s Priesthood: Based on what was just said, Christ’s priesthood is superior to the Levitical priesthood for several reasons.
+
+First, Christ became a priest by “the power of an indestructible life” and by God’s appointment, as witnessed to by Psalm 110:4; it was not through physical descent based on Aaronic legal requirements (Heb. 7:16, 17, NRSV; see Exodus 29). Christ’s priesthood is intimately connected to who He is. Yes, Christ died, but He was resurrected (Heb. 13:20). He was “exalted above the heavens” (Heb. 7:26, NRSV) and is now seated “at the right hand of the throne of the Majesty in the heavens” (Heb. 8:1, NRSV), where He “is able for all time to save those who approach God through him” (Heb. 7:25, NRSV).
+
+Moreover, the Levitical priests were appointed on a hereditary basis. None enjoyed the priesthood in perpetuity, “because they were prevented by death from continuing in office” (Heb. 7:23, NRSV). By contrast, Christ “holds his priesthood permanently, because he continues forever” (Heb. 7:24, NRSV) and “he always lives to make intercession for them” (Heb. 7:25, NRSV). Christ is described by Hebrews as Someone who “continues forever,” “is able for all time to save,” and “always lives” (Heb. 7:24, 25, NRSV). Simply put, Christ is superior to the Levitical priesthood because He has immortality in comparison to their transience.
+
+Second, Christ was confirmed as a priest by God through an oath: “ ‘The Lord has sworn and will not change his mind, “You are a priest forever” ’ ” (Heb. 7:21, NRSV). Oaths are solemn promises, often evoking a divine Witness. Because God could not swear by a greater divine power when He promised Abraham descendants, “he swore by himself, saying, ‘I will surely bless you and multiply you’ ” (Heb. 6:13, 14, NRSV). To the Exodus generation, God swore, “ ‘They will not enter my rest’ ” (Heb. 3:11, NRSV). When God swears an oath, He will faithfully execute it. That is why Jesus has “become the guarantee of a better covenant” (Heb. 7:22). The Levites, on the other hand, were inaugurated into the priesthood by divine command (Exod. 28:1), not by an oath. Thus, Christ is superior to them.
+
+Finally, Christ is superior to the Levitical priesthood because He is morally perfect. The priests of Aaron’s line sacrificed daily, although ultimately ineffectively (Heb. 10:1–4). They offered sacrifice first for their own sins before they offered sacrifice for others. By contrast, Christ offered Himself as a sinless sacrifice once for all (Heb. 7:27). Such a Priest is appropriate for us, for He is “holy, blameless, undefiled, separated from sinners, and exalted above the heavens” (Heb. 7:26, NRSV). While these terms are virtually synonymous, they nonetheless have slightly different nuances. Christ was morally separated, innocent, and unstained by sin. Such attributes make Christ superior to the Aaronic line of priests (see Acts 2:27, Heb. 4:15).
+
+In summary, Christ is better than the Levites, because He is immortal, was confirmed by divine oath, and is morally perfect.
+
+#### Part III: Life Application
+
+Think of how Christ is compared to Melchizedek in Hebrews 7. Melchizedek is thought of as both king of Salem and priest of the Most High God (Heb. 7:1).
+
+1.	Why do you think Melchizedek is portrayed as having a double role? Compare his duality of roles to that of Christ, who is, first, a Priest, according to the order of Melchizedek, but, second, a member of the royal tribe of Judah.
+
+2.	What is the tribe of Judah primarily associated with (see Gen. 49:10)? How does Christ fulfill both roles?
+
+3.	How would you view sin if every time you transgressed, it would cost you a lamb or a bull, depending on your social status (maybe a bike or a car in today’s terms)?
+
+`Notes`

@@ -1,0 +1,52 @@
+---
+title:  Teacher Comments
+date:  21/01/2022
+---
+
+#### Part I: Overview
+
+Key Texts: Lev. 25:25–27; Heb. 2:14–16; Heb. 11:24–26;
+
+1 Cor. 15:50; Heb. 5:8, 9; Heb. 12:1–4.
+
+Lesson Themes: Comparing Hebrews 1 with Hebrews 2 paints a picture of contrasts. In Hebrews 1, Christ is superior to the angels (Heb. 1:6), whereas in Hebrews 2, He is inferior to the angels, at least, for a certain time (Heb. 2:9). In Hebrews 1, Christ is close to God, at His right side (Heb. 1:13); in Hebrews 2, Christ is close to and not ashamed of us, His brethren (Heb. 2:11). Contrasting the pre-incarnate Christ to human nature, Hebrews tells us that Christ adopted flesh and blood in order to be like us (Heb. 2:14). Christ also died as we humans do (Heb. 2:14). But the big difference between our death and His is that His death accomplished what our death never could. His death freed us who all our “lives were held in slavery by the fear of death” (Heb. 2:15, NRSV). Christ is like us, yet different from us. He was truly human, yet without sin (Heb. 4:15). Like Moses who chose shame over fame (Heb. 11:25), Christ despised the shame of becoming human and dying on a cross but accepted it anyway. He became like us so that we might become like Him. In our becoming like Him, “He is not ashamed to call” us “brethren” (Heb. 2:11), even when we might “put Him to open shame” (Heb. 6:6, NASB). Humans go through trials and testing, which produce endurance and, finally, maturity of character. Paul describes Jesus in a similar manner. He “learned obedience through what he suffered” and was “made perfect” (Heb. 5:8, 9, NRSV). How did Jesus learn obedience? At some point in time, was He disobedient? That notion would contradict Hebrews 4:15, which says that Jesus was tested in everything as we are, yet He remained without sin.
+
+#### Part II: Commentary
+
+“Having Been Made Perfect”: Hebrews 5:7–9 poses several challenges. The text says: “In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to the one who was able to save him from death, and he was heard because of his reverent submission. Although he was a Son, he learned obedience through what he suffered; and having been made perfect, he became the source of eternal salvation for all who obey him” (Heb. 5:7–9, NRSV).
+
+There are at least three questions raised by this passage that deserve answers. First, Paul tells us that Christ offered prayers to God who was able to save Him from death, and He was heard. What does it mean that Jesus was heard and saved from death? Second, Jesus learned obedience. How did He learn obedience? Was it because, at some point, He was a disobedient Son? Third, Jesus was made perfect. Was He not all along perfect, without sin? We will tackle each one of these questions in order.
+
+Was Jesus heard and saved from death? The sentence in verse 7 begins with the phrase “in the days of his flesh” (Heb. 5:7), which is a clear reference to Christ’s human existence. As He went through the pre-Gethsemane and Gethsemane experience, the Gospels tell us only that Jesus was in distress. In Matthew 26:38, Jesus says, “ ‘I am deeply grieved’ ” (NRSV). In Mark 14:33, 34 and John 12:27, Jesus utters, “Now is my soul troubled” (NRSV). But none of these accounts record that He prayed with “loud cries and tears” (Heb. 5:7, NRSV). This detail is something Hebrews contributes to the Gethsemane narrative. Jesus’ prayers and supplication were offered “to the one who was able to save him from death” (Heb. 5:7, NRSV). But they were not offered in order that He might be saved from death at all costs. How, then, did God hear Jesus? Jesus did not pray for deliverance from death, but that God’s will might be done (Matt. 26:39). The Father did not deliver Jesus from crucifixion, but, through His resurrection, delivered Him from the power of death, inflicted by crucifixion. Thus, Jesus was heard, because God’s will was done, and Jesus was brought back to life. Paul even tells us why Christ’s prayer was heard. It was “because of his reverent submission” (Heb. 5:7, NRSV). Because of Christ’s reverent awe for and obedience to God’s will, His prayer was heard, and He was resurrected.
+
+How did Jesus learn obedience? This question implies that Christ might have been disobedient. That possibility, however, is clearly refuted by Hebrews 4:15, which claims that Jesus was obedient throughout His life. Christ learned obedience through submission (Heb. 5:7) and through suffering (Heb. 5:8). The Greek text employs a word play, emathen/epathen (learned/suffered), in verse 8, similar to the American English proverb: “no pain, no gain.” Jesus learned obedience, in part, by fully conforming to God’s will in Gethsemane. However, because Christ was not only God, but also human, He had to learn obedience in His vocational role as Savior. As God, He was holy and could not have been tempted by evil (James 1:13). But as a human, He needed to learn obedience and submission to God’s will, just as we human beings must learn it. As God, Jesus never needed to learn submission. However, in His human experience, when called to die, Jesus had to overcome His most basic human instinct of self-preservation (“If it is possible, let this cup pass from me” [Matt. 26:39, NRSV]) and submit to the will of God. Thus, Jesus learned submissive obedience. Paul states in Philippians, “He became obedient to the point of death—even death on a cross” (Phil. 2:8, NRSV).
+
+By comparison, we read that the Exodus generation was characterized by rebelling against, and testing, God (Heb. 3:8); hardened hearts (Heb. 3:8); and a lack of understanding about God’s ways (Heb. 3:10). Hebrews summarizes these characteristics as unbelief and sin (Heb. 3:12, 13, 17, 19), as well as disobedience (Heb. 3:18). Rebellion, disobedience, sin, and faithlessness all go together. In contrast, Hebrews applies a different set of terms to Christ. He was “without sin” (Heb. 4:15, NRSV) and faithful (Heb. 2:17; Heb. 3:2, 6) despite being tempted as we are, which enables Him to help us when we are tempted (Heb. 2:18). We must understand the obedience of Christ in Hebrews 5:8 in light of these sets of opposing characteristics, as evinced by the Exodus generation, in Hebrews 3:8–11, 15–19. Then we will identify readily Christ’s obedience as an education that is integral to our own faith and trust in God (compare Rom. 1:5; Rom. 16:26). Just as Christ learned obedience as a human by submitting to, and trusting in, God’s will over His own, so should we (Rev. 14:12).
+
+Now to our final question: Why does Hebrews 5:9 state that Christ was “made perfect”? After all, wasn’t He perfect already? In what way, then, was He made perfect? The previous verse furnishes us with context in answer to our inquiry: “Although he was a Son, he learned obedience through what he suffered” (Heb. 5:8, NRSV). Therefore, Paul concludes, “And having been made perfect, he became the source of eternal salvation for all who obey him” (Heb. 5:9, NRSV). Thus, Jesus’ perfection resulted from the obedience He learned through suffering and equipped Him to be our heavenly High Priest.
+
+In summary, we can say that Christ’s prayer to the One who was able to save Him from death was heard because He prayed for God’s will to be done. As a result, He was ultimately brought back to life. He learned obedience by submitting to, and trusting in, God’s will. Finally, Christ was made our perfect High Priest through obedience to God, so that He could become “the source of eternal salvation for all who obey him,” meaning us (Heb. 5:9, NRSV).
+
+**Thought Questions:**
+
+1.	If Christ was subject to obedience and learned it in His human experience, how important is obedience for us?
+
+2.	How can I walk in the Garden of Eden in the new earth if I never experience the Garden of Gethsemane (that is, that God’s will be done here and now)? Why do these two experiences come as a package?
+
+3.	Why do you think we human beings have a “semi-allergic reaction” to obeying almost any authority? How do you think we could “cure” a similar negative reaction to submission to divine authority?
+
+4.	Why might there be tension within the human heart between loving God and obeying Him? How could John 14:15 help us resolve this problem?
+
+Christ Like Us, Yet Different From Us: As we have seen, Christ is portrayed as far superior to the angels. In fact, He is portrayed as the exact imprint of God’s very being (Heb. 1:3). Thus, He is worthy of worship (Heb. 1:6), according to the first chapter of Hebrews. Subsequently, He is portrayed, in the second chapter, as being made lower than the angels for a while. Jesus is not just a trifle inferior to the angels. Rather, in adopting “flesh and blood” and the suffering that this experience entails, He fully shared the fate of His human brethren (Heb. 2:14). The manner in which Jesus was “made lower than the angels” was not simply by His incarnation, but by His suffering in death (Heb. 2:9). The Son entered the human sphere so much so that He embraced mortality in contrast to the angels, who do not face death.
+
+What Christ accomplished enabled Him to become “a merciful and faithful High Priest in the service of . . . atonement for the sins of the people” (Heb. 2:17, NRSV).
+
+Thought Question: At the very moment that this commentary is being penned, people the world over are fearful of becoming infected with, and dying from, COVID-19. How do the acts of Christ in adopting our flesh and blood and sharing our fate help us when we face such ominous threats and terminal diseases?
+
+#### Part III: Life Application
+
+Consider this statement from Ellen G. White on the human nature of Christ: “Many claim that it was impossible for Christ to be overcome by temptation. Then He could not have been placed in Adam’s position; He could not have gained the victory that Adam failed to gain. If we have in any sense a more trying conflict than had Christ, then He would not be able to succor us. But our Saviour took humanity, with all its liabilities. He took the nature of man, with the possibility of yielding to temptation. We have nothing to bear which He has not endured.”—The Desire of Ages, p. 117.
+
+Thought Question: What comfort and hope does it give you to know that Jesus has endured all what we are called to endure?
+
+`Notes`
