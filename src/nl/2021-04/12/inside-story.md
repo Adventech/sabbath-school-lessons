@@ -1,0 +1,20 @@
+---
+title:  Zendingsbericht
+date:   17/12/2021
+---
+
+#### Een dorpskerk
+
+_Taiwan, 18 december_
+
+Gao Xiu-yue (68)
+
+Dit verhaal over Xiu-yue, een 68-jarige inheemse vrouw uit Noord-Taiwan, laat zien onder welke omstandigheden de inlandse mensen in Taiwan leven. Drie jaar geleden werd een deel van de dertiende sabbatcollecte ingezet om het evangelie te verspreiden onder het inheemse volk. Dit kwartaal draagt de dertiende sabbatcollecte bij aan de opening van drie stedelijke invloedscentra die bedoeld zijn om de inheemse populatie en anderen in Taiwan te helpen. Dank u dat u de verspreiding van het evangelie aan alle leeftijdsgroepen steunt.
+
+Ik heb geen eigen auto. Ik kan geen motor berijden, zelfs geen fiets. De taxi is mijn enige vervoermiddel naar de kerk op sabbat. Mijn werkzaamheden op sabbat deden mijn huwelijk weinig goeds. Mijn man, die geen zevendedagsadventist was, vond het maar niks als ik hem alleen liet om God te aanbidden in de kerk in mijn geboortedorp. We woonden in een grote stad in Noord-Taiwan en daar was geen adventkerk. Mijn geboortedorp lag op een berg, niet ver bij ons vandaan. Mijn man had een slechte gezondheid en wilde niet met me mee. Maar hij wilde ook niet alleen achterblijven.
+
+Op een sabbat, ik was net thuis en had de lunch voorbereid, gooide hij het voedsel op de vloer. ‘Jij geeft alleen maar om de kerk!’, schreeuwde hij. ‘Het maakt jou niets uit of ik nou leef of sterf!’. Ik geef inderdaad om de kerk, maar ik hield ook van mijn man. Ik wist niet wat ik moest doen. Het leek alsof ik meteen door de vijand werd belaagd, zodra ik trouw probeerde te zijn aan de HEER. Mijn zoon raakte ernstig gewond in een ongeval tijdens zijn militaire dienstplicht. Ik verliet mijn thuis om voor hem te zorgen en terwijl ik weg was, stierf mijn man heel plotseling. Ik voelde me verantwoordelijk voor zijn dood, omdat ik hem misschien had kunnen helpen als ik thuis was gebleven. Het verdriet overspoelde me en een maand lang kon ik me er niet toe zetten om te bidden of de Bijbel te lezen. Toch kwam ik langzamerhand tot het besef dat God de touwtjes in handen had en een prachtig doel voor mij had.
+
+Ik zag ook in dat God een geweldig plan had voor onze dorpskerk. Onze kerk moest verbouwd worden en we dachten zo’n 100.000 Nieuw Taiwanese dollars kwijt te zijn (ca. 3000 euro). Het was een enorm bedrag in de ogen van de dorpelingen, leden van de Atayal mensen, een inheemse groep. Ons herstelwerk ging erg moeizaam. Eerst werd een vrouwelijk kerklid met spoed naar het ziekenhuis gebracht, waardoor we in één dag twee waardevolle vrijwilligers verloren – zij en haar man. Daarna viel de enige werknemer die we ingehuurd hadden, hij was geen adventist, flauw door een zonnesteek. Gelukkig kwam hij na een paar minuten weer bij kennis en ging weer aan het werk, nadat hij had aangegeven dat het prima met hem ging. Vervolgens zag mijn broer het niet meer zitten, omdat hij bang was dat we de reparatiekosten verkeerd berekend hadden. ‘We kunnen het nooit allemaal betalen’, zei hij. Ik moedigde hem aan op God te vertrouwen en door te gaan met zijn werk.
+
+Op dat dieptepunt liep een man, die een andere christelijke kerk in ons dorp bezocht, langs ons kerkgebouw. Hij bleef staan en bood aan dat hij zou helpen met het herstelwerk. ‘Het leven is te kort om een christen uit een andere denominatie tegen te houden voor God te werken’, zei hij. ’s Avonds overhandigde hij me een pakketje. ‘Ik wil een donatie doen’, zei hij. Bij het openen van de envelop had ik niet verwacht de stapel biljetten, ter waarde van 6000 Nieuw-Taiwanese dollars (ca. 180 euro), te zien. Toen de ingehuurde werknemer hoorde hoeveel er gedoneerd was, raakte dat nieuws hem zo dat hij niet langer betaald wilde worden voor zijn werk. ‘Ik zet me gratis in voor de kerk’, zei hij. Terwijl hij dit alles voor zijn ogen zag gebeuren, kreeg mijn broer weer vertrouwen in onze inspanningen en prees hij de HEER. Zes jaar later is de renovatie van de kerk nog steeds niet voltooid, maar ik geloof dat God voor zijn kerk en voor de behoeften van zijn volk zorgt. Dat doet Hij altijd. Blijft u alstublieft voor ons bidden! 

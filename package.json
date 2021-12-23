@@ -4,8 +4,8 @@
   "description": "",
   "main": "compile.js",
   "dependencies": {
-    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "@actions/core": "^1.5.0",
+    "adventech-bible-tools": "https://github.com/Adventech/bible-tools/tarball/master",
     "axios": "^0.21.1",
     "danger": "^10.6.0",
     "ent": "^2.2.0",
@@ -16,7 +16,8 @@
     "markdownlint": "^0.22.0",
     "meta-marked": "^0.5.0",
     "moment": "^2.29.1",
-    "optimist": "^0.6.1"
+    "optimist": "^0.6.1",
+    "@firebase/database-compat": "0.1.2"
   },
   "scripts": {
     "compile": "node ./deploy -b test -l en -q 2021-02"

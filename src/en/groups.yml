@@ -11,3 +11,21 @@
   er:
     name: "Easy Reading"
     order: 300
+  cc:
+    name: "Cornerstone Connections"
+    order: 400
+  rt:
+    name: "Real Time Faith"
+    order: 500
+  pp:
+    name: "Junior PowerPoints"
+    order: 600
+  pr:
+    name: "Primary"
+    order: 700
+  kd:
+    name: "Kindergarten"
+    order: 800
+  bg:
+    name: "Beginner"
+    order: 900

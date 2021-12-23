@@ -21,7 +21,8 @@ var BIBLE_PARSER_CONFIG = {
   "cs": [
     "cep",
     "kralicka-1613",
-    "csp"
+    "csp",
+    "b21"
   ],
   "my":[
     "tdb"
@@ -95,9 +96,9 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "lt": [
+    "lbd-eku",
     "lit",
-    "ltb",
-    "lbd-eku"
+    "ltb"
   ],
 
   "hi": ["hhbd"],
