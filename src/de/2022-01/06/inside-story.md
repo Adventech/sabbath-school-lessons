@@ -7,9 +7,9 @@ date:   04/02/2022
 
 _Daisy Jung_
 
-Ich war schon immer ein Feigling. Als ich das erste Mal in ein Studentenwohnheim in Südkorea zog, musste ich christliche Musik hören, um nachts ­einschlafen zu können. Nachdem mir 10.000 südkoreanische Won (etwa 10 Euro) auf der ­Toilette am Bahnhof geraubt wurden, hatte ich Angst, die Bahnhofstoilette wieder zu betreten.
+Ich war schon immer ein Feigling. Als ich das erste Mal in ein Studentenwohnheim in Südkorea zog, musste ich christliche Musik hören, um nachts einschlafen zu können. Nachdem mir 10.000 südkoreanische Won (etwa 10 Euro) auf der Toilette am Bahnhof geraubt wurden, hatte ich Angst, die Bahnhofstoilette wieder zu betreten.
 
-Meine Ängste erreichten ihren Höhepunkt, als ich ein Jahr lang als Studentenmissionarin in einer ländlichen Gegend der Philippinen diente. Junge ­Männer, neugierig auf mich, eine junge ausländische Frau, versammelten sich nachts um mein mit Kerzen beleuchtetes Haus, pfiffen und spähten manchmal durch die Fenster. Ich begann an Schlaflosigkeit zu leiden und konnte erst im ­Morgengrauen einschlafen, nachdem ich christliche Musik gehört und die Bibel gelesen hatte.
+Meine Ängste erreichten ihren Höhepunkt, als ich ein Jahr lang als Studentenmissionarin in einer ländlichen Gegend der Philippinen diente. Junge Männer, neugierig auf mich, eine junge ausländische Frau, versammelten sich nachts um mein mit Kerzen beleuchtetes Haus, pfiffen und spähten manchmal durch die Fenster. Ich begann an Schlaflosigkeit zu leiden und konnte erst im Morgengrauen einschlafen, nachdem ich christliche Musik gehört und die Bibel gelesen hatte.
 
 Meine Angst folgte mir nach Südasien, wo ich jetzt mit meinem Mann und zwei Söhnen lebe. Viele Male beobachtete mein Mann, wie ich in Bussen oder Zügen sorgfältig meine Umgebung prüfte, bevor ich die Augen zum Schlafen schloss. „Daisy“, sagte er, „ich frage mich wirklich, wieso eine so ängstliche Person wie du sich jemals als Missionarin gemeldet hat.“ Es stimmte. Ich war eine feige Missionarin. Ich zog es vor, an sicheren Orten zu bleiben.
 

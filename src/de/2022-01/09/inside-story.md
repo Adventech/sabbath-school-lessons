@@ -7,13 +7,13 @@ date:   25/02/2022
 
 _Andrew McChesney, Adventist Mission_
 
-Khamla, der Ernährer seiner Familie, der im ländlichen Laos lebte, wurde krank. Seine Beine wurden so schwer, dass er nicht mehr laufen konnte. Er war drei ­Monate lang ans Haus gefesselt.
+Khamla, der Ernährer seiner Familie, der im ländlichen Laos lebte, wurde krank. Seine Beine wurden so schwer, dass er nicht mehr laufen konnte. Er war drei Monate lang ans Haus gefesselt.
 
 Da er kein Geld hatte, um einen Arzt aufzusuchen, wandte sich Khamla (nicht sein richtiger Name) allen möglichen Arten von Kräutermedizin und traditionellen Heilern zu, einschließlich des Schamanen oder Geistheilers in seinem Dorf. Nichts half.
 
 Bei einem Telefonat erzählte ihm schließlich jemand, der seine Verzweiflung mitbekam, von einem Pastor der Siebenten-Tags-Adventisten, der schon vielen Menschen geholfen hatte. Khamla rief Pastor Sadua Lee an und bat um Hilfe.
 
-Allerdings war es nicht einfach ein Telefonanruf. Telefongespräche waren so ­etwas wie Luxus und kosteten 700 laotische Kips (ca. 10 Cent) pro Minute. Zu ­dieser Zeit lebte ein Drittel der Bevölkerung von weniger als 1,50 Euro pro Tag, und fast zwei Drittel lebten von weniger als 2 Euro pro Tag.
+Allerdings war es nicht einfach ein Telefonanruf. Telefongespräche waren so etwas wie Luxus und kosteten 700 laotische Kips (ca. 10 Cent) pro Minute. Zu dieser Zeit lebte ein Drittel der Bevölkerung von weniger als 1,50 Euro pro Tag, und fast zwei Drittel lebten von weniger als 2 Euro pro Tag.
 
 Khamla flehte Pastor Sadua an, ihn zu heilen. „Ich bin ein Niemand“, antwortete der Pastor. „Ich kann dich nicht heilen. Aber mein Gott, der Jesus genannt wird, kann dich heilen, wenn es sein Wille ist. Alles, was wir tun müssen, ist, ihn darum zu bitten.“
 

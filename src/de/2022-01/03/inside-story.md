@@ -7,7 +7,7 @@ date:   14/01/2022
 
 _Koo Mingji_
 
-Die Dorfbewohner im ländlichen Norden Taiwans schienen kein Interesse an ­Bibelstunden zu haben. Viele beteten in einer der beiden christlichen Kirchen im Dorf, während andere ihre Zeit mit Alkohol verbrachten. Die Kirchenbesucher mieden die Trinker. Was konnte ich tun?
+Die Dorfbewohner im ländlichen Norden Taiwans schienen kein Interesse an Bibelstunden zu haben. Viele beteten in einer der beiden christlichen Kirchen im Dorf, während andere ihre Zeit mit Alkohol verbrachten. Die Kirchenbesucher mieden die Trinker. Was konnte ich tun?
 
 Ich beschloss, dem Beispiel Jesu zu folgen und mich mit den Trinkern anzufreunden. „Allein die Vorgehensweise Christi wird den wahren Erfolg garantieren. Der Heiland aber begab sich unter die Menschen als einer, der Gutes für sie wünschte. Er bewies sein Mitgefühl für sie, half ihren Nöten ab und gewann ihr Vertrauen. Erst dann gebot er ihnen: ‚Folgt mir nach.‘“ (SGA 106).
 

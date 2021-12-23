@@ -13,7 +13,7 @@ Als der Pastor ihn erneut einlud, erklärte Oung, dass er den Gottesdienst verpa
 
 Als der Pastor wiederkam, erklärte Oung, dass sein Fahrrad kaputt gegangen sei. Der Pastor kam viele Male, und Oung hatte immer eine Ausrede. Die Gemeindeglieder beteten, und der Pastor lud ihn wieder und wieder ein. Aber Oung schien immer weiter von Jesus wegzudriften.
 
-Nach einiger Zeit begann er zu trinken und Probleme zu Hause zu verursachen. Viele Male schlug er seine ältere Schwester, so dass sie blaue Flecken im Gesicht, an den Armen und Beinen hatte. Seine Schwester, ein treues Gemeindeglied, musste schließlich aus dem Haus ausziehen. Sie kam mit Tränen in den ­Augen in die Gemeinde und bat inständig: „Bitte hört nicht auf, für Oung zu beten!“
+Nach einiger Zeit begann er zu trinken und Probleme zu Hause zu verursachen. Viele Male schlug er seine ältere Schwester, so dass sie blaue Flecken im Gesicht, an den Armen und Beinen hatte. Seine Schwester, ein treues Gemeindeglied, musste schließlich aus dem Haus ausziehen. Sie kam mit Tränen in den Augen in die Gemeinde und bat inständig: „Bitte hört nicht auf, für Oung zu beten!“
 
 Eines Tages stieg Oung während der Arbeit auf eine Leiter, um Zucker aus einem riesigen Stahlbehälter zu holen. Das gehörte zu seiner Arbeit. Aber an diesem Tag war ein elektrisches Kabel, das mit dem Stahlbehälter verbunden war, defekt. Als er seine Hände nach dem oberen Rand des Containers ausstreckte, durchfuhr ein Stromschlag seinen Körper.
 
