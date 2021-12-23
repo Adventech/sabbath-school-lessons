@@ -9,3 +9,5 @@ web/static/img/global
 test
 deploy-creds-*
 .vscode
+package.json
+package-lock.json
