@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-Intro.pdf'
+      target: en/2021-01-pp/introduction
+      title: Introduction
+      start_date: 26/12/2020
+      end_date: 26/12/2020
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L01.pdf'
+      target: en/2021-01-pp/01
+      title: The Great Gift Exchange
+      start_date: 26/12/2020
+      end_date: 01/01/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L02.pdf'
+      target: en/2021-01-pp/02
+      title: Being a Blessing
+      start_date: 02/01/2021
+      end_date: 08/01/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L03.pdf'
+      target: en/2021-01-pp/03
+      title: Who are the Blessed?
+      start_date: 09/01/2021
+      end_date: 15/01/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L04.pdf'
+      target: en/2021-01-pp/04
+      title: A Desperate Father
+      start_date: 16/01/2021
+      end_date: 22/01/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L05.pdf'
+      target: en/2021-01-pp/05
+      title: Unexpected Faith
+      start_date: 23/01/2021
+      end_date: 29/01/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L06.pdf'
+      target: en/2021-01-pp/06
+      title: Crumbs for the Dogs?
+      start_date: 30/01/2021
+      end_date: 05/02/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L07.pdf'
+      target: en/2021-01-pp/07
+      title: Who is Jesus?
+      start_date: 06/02/2021
+      end_date: 12/02/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L08.pdf'
+      target: en/2021-01-pp/08
+      title: A Heart of Stone
+      start_date: 13/02/2021
+      end_date: 19/02/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L09.pdf'
+      target: en/2021-01-pp/09
+      title: A Dinner Party to Remember
+      start_date: 20/02/2021
+      end_date: 26/02/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L10.pdf'
+      target: en/2021-01-pp/10
+      title: Jesus' Big Entrance
+      start_date: 27/02/2021
+      end_date: 05/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L11.pdf'
+      target: en/2021-01-pp/11
+      title: The Connection
+      start_date: 06/03/2021
+      end_date: 12/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L12.pdf'
+      target: en/2021-01-pp/12
+      title: That's All I Ask
+      start_date: 13/03/2021
+      end_date: 19/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-L13.pdf'
+      target: en/2021-01-pp/13
+      title: Friends Forever
+      start_date: 20/03/2021
+      end_date: 26/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-Activities.pdf'
+      target: en/2021-01-pp/activities
+      title: Activities
+      start_date: 20/03/2021
+      end_date: 26/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-MemoryVerses.pdf'
+      target: en/2021-01-pp/memory-verses
+      title: Memory Verses
+      start_date: 20/03/2021
+      end_date: 26/03/2021
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2021/Q1/English/Student/PP-21-Q1-Parents.pdf'
+      target: en/2021-01-pp/parents
+      title: Parents
+      start_date: 20/03/2021
+      end_date: 26/03/2021

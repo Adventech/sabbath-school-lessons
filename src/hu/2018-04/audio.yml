@@ -1,0 +1,186 @@
+---
+  audio:
+    - artist: Felnőtt szombatiskola
+      tracks:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20180929.mp3
+          target: hu/2018-04/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20180930.mp3
+          target: hu/2018-04/01/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181001.mp3
+          target: hu/2018-04/01/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181002.mp3
+          target: hu/2018-04/01/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181003.mp3
+          target: hu/2018-04/01/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181004.mp3
+          target: hu/2018-04/01/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181005.mp3
+          target: hu/2018-04/01/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181006.mp3
+          target: hu/2018-04/02/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181007.mp3
+          target: hu/2018-04/02/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181008.mp3
+          target: hu/2018-04/02/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181009.mp3
+          target: hu/2018-04/02/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181010.mp3
+          target: hu/2018-04/02/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181011.mp3
+          target: hu/2018-04/02/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181012.mp3
+          target: hu/2018-04/02/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181013.mp3
+          target: hu/2018-04/03/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181014.mp3
+          target: hu/2018-04/03/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181015.mp3
+          target: hu/2018-04/03/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181016.mp3
+          target: hu/2018-04/03/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181017.mp3
+          target: hu/2018-04/03/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181018.mp3
+          target: hu/2018-04/03/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181019.mp3
+          target: hu/2018-04/03/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181020.mp3
+          target: hu/2018-04/04/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181021.mp3
+          target: hu/2018-04/04/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181022.mp3
+          target: hu/2018-04/04/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181023.mp3
+          target: hu/2018-04/04/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181024.mp3
+          target: hu/2018-04/04/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181025.mp3
+          target: hu/2018-04/04/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181026.mp3
+          target: hu/2018-04/04/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181027.mp3
+          target: hu/2018-04/05/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181028.mp3
+          target: hu/2018-04/05/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181029.mp3
+          target: hu/2018-04/05/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181030.mp3
+          target: hu/2018-04/05/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181031.mp3
+          target: hu/2018-04/05/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181101.mp3
+          target: hu/2018-04/05/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181102.mp3
+          target: hu/2018-04/05/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181103.mp3
+          target: hu/2018-04/06/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181104.mp3
+          target: hu/2018-04/06/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181105.mp3
+          target: hu/2018-04/06/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181106.mp3
+          target: hu/2018-04/06/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181107.mp3
+          target: hu/2018-04/06/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181108.mp3
+          target: hu/2018-04/06/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181109.mp3
+          target: hu/2018-04/06/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181110.mp3
+          target: hu/2018-04/07/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181111.mp3
+          target: hu/2018-04/07/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181112.mp3
+          target: hu/2018-04/07/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181113.mp3
+          target: hu/2018-04/07/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181114.mp3
+          target: hu/2018-04/07/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181115.mp3
+          target: hu/2018-04/07/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181116.mp3
+          target: hu/2018-04/07/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181117.mp3
+          target: hu/2018-04/08/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181118.mp3
+          target: hu/2018-04/08/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181119.mp3
+          target: hu/2018-04/08/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181120.mp3
+          target: hu/2018-04/08/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181121.mp3
+          target: hu/2018-04/08/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181122.mp3
+          target: hu/2018-04/08/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181123.mp3
+          target: hu/2018-04/08/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181124.mp3
+          target: hu/2018-04/09/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181125.mp3
+          target: hu/2018-04/09/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181126.mp3
+          target: hu/2018-04/09/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181127.mp3
+          target: hu/2018-04/09/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181128.mp3
+          target: hu/2018-04/09/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181129.mp3
+          target: hu/2018-04/09/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181130.mp3
+          target: hu/2018-04/09/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181201.mp3
+          target: hu/2018-04/10/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181202.mp3
+          target: hu/2018-04/10/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181203.mp3
+          target: hu/2018-04/10/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181204.mp3
+          target: hu/2018-04/10/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181205.mp3
+          target: hu/2018-04/10/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181206.mp3
+          target: hu/2018-04/10/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181207.mp3
+          target: hu/2018-04/10/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181208.mp3
+          target: hu/2018-04/11/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181209.mp3
+          target: hu/2018-04/11/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181210.mp3
+          target: hu/2018-04/11/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181211.mp3
+          target: hu/2018-04/11/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181212.mp3
+          target: hu/2018-04/11/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181213.mp3
+          target: hu/2018-04/11/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181214.mp3
+          target: hu/2018-04/11/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181215.mp3
+          target: hu/2018-04/12/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181216.mp3
+          target: hu/2018-04/12/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181217.mp3
+          target: hu/2018-04/12/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181218.mp3
+          target: hu/2018-04/12/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181219.mp3
+          target: hu/2018-04/12/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181220.mp3
+          target: hu/2018-04/12/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181221.mp3
+          target: hu/2018-04/12/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181222.mp3
+          target: hu/2018-04/13/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181223.mp3
+          target: hu/2018-04/13/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181224.mp3
+          target: hu/2018-04/13/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181225.mp3
+          target: hu/2018-04/13/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181226.mp3
+          target: hu/2018-04/13/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181227.mp3
+          target: hu/2018-04/13/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20181228.mp3
+          target: hu/2018-04/13/07

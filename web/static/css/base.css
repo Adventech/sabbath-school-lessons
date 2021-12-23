@@ -162,11 +162,12 @@ img.ss-cover {
 .navbar .logo {
     width: 36px;
     height: 36px;
-    background: url(/img/logo.svg);
+    background: url(/img/logo.png);
     display: inline-block;
     vertical-align: middle;
     margin: -4px 10px 0 0;
-    opacity: .8
+    background-repeat: no-repeat;
+    background-size: 36px 36px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { 

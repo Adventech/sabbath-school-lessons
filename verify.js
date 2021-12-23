@@ -9,8 +9,12 @@ let metaMarked = require("meta-marked"),
     axios = require('axios'),
     core = require('@actions/core');
 
-const ev = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
-const prNum = ev.pull_request.number || true
+let prNum = false
+
+if (process && process.env && process.env.GITHUB_EVENT_PATH && fs.pathExistsSync(process.env.GITHUB_EVENT_PATH)) {
+    let ev = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
+    prNum = ev.pull_request.number || true
+}
 
 let failMessages = []
 
@@ -26,12 +30,18 @@ let validateContent = async function () {
     let quarterliesList = glob.sync("src/**/"+getCompilationQuarterValue()+"?(-cq|-er)")
     for (let quarterly of quarterliesList) {
         let validDate = null
+        let doc = null
+        try {
+            doc = yamljs.load(fs.readFileSync(`${quarterly}/info.yml`));
+        } catch (e) {
+            e = e.toString().replace(/\n/g, '<br>');
+            fail(`Critical error. Can not parse the quarterly info: \`${quarterly}\`/info.yml. Error: \`${e}\``);
+            break
+        }
 
         try {
-            let doc = yamljs.load(fs.readFileSync(`${quarterly}/info.yml`));
             validDate = moment(doc["start_date"], DATE_FORMAT).add(-1, 'd');
         } catch (e) {
-            e = e.replace(/\n/g, '<br>');
             fail(`Critical error. Can not obtain start date for the quarterly: \`${quarterly}\`/info.yml. Error: \`${e}\``);
             break
         }
@@ -39,7 +49,9 @@ let validateContent = async function () {
         let markdownFiles = glob.sync(`${quarterly}/+(0|1|2|3|4|5|6|7|8|9)/*.md`);
 
         if (markdownFiles.filter((f) => { return /\d{2}\.md$/img.test(f) }).length < 91) {
-            fail(`Incomplete quarterly \`${quarterly}\`. Expecting markdown for all 7 days for each 13 weeks`);
+            if (!fs.pathExistsSync(`${quarterly}/pdf.yml`)) {
+                fail(`Incomplete quarterly \`${quarterly}\`. Expecting markdown for all 7 days for each 13 weeks`);
+            }
         }
 
         for (let markdownFile of markdownFiles) {
@@ -63,12 +75,17 @@ let validateContent = async function () {
 }
 
 validateContent().then(async function (){
-    if (failMessages.length && prNum) {
+    if (failMessages.length) {
         let pullRequestComment = "Ooops! Looks like you have to fix some issues before I can merge this PR\n"
         pullRequestComment += "||Error description |\n| ----------- | ----------- |"
 
         for (let message of failMessages) {
             pullRequestComment += `\n|🛑| ${message}|`
+        }
+
+        if (!prNum) {
+            console.error(pullRequestComment)
+            return
         }
 
         await axios({

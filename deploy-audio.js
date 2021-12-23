@@ -30,11 +30,14 @@ let branch = argv.b,
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     MEDIA_HOST = "https://sabbath-school-media.adventech.io/",
     API_VERSION = "v1",
+    API_VERSION_2 = "v2",
     SOURCE_DIR = "src/",
     SOURCE_AUDIO_FILE = "audio.yml",
     SOURCE_COVER_FILE = "cover.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
-    FIREBASE_DATABASE_AUDIO = "/api/" + API_VERSION + "/audio";
+    DIST_DIR_V2 = "dist/api/" + API_VERSION_2 + "/",
+    FIREBASE_DATABASE_AUDIO = "/api/" + API_VERSION + "/audio",
+    FIREBASE_DATABASE_AUDIO_V2 = "/api/" + API_VERSION_2 + "/audio";
 
 let db
 if (branch.toLowerCase() === "master") {
@@ -88,12 +91,12 @@ let audioAPI = async function (mode) {
     console.log('Deploying audio API');
 
     let audios = glob.sync(`${SOURCE_DIR}/${compile_language}/${compile_quarter}/${SOURCE_AUDIO_FILE}`);
-    let audioInfo = []
+
 
     let curlConfig = ""
 
     for (let audio of audios) {
-
+        let audioInfo = []
         let audioSource = yamljs.load(fs.readFileSync(`${audio}`)),
             info = getInfoFromPath(audio);
 
@@ -194,9 +197,11 @@ output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audio
 
         if (mode === "sync") {
             await db.ref(FIREBASE_DATABASE_AUDIO).child(`${info.language}-${info.quarterly}`).set(audioInfo);
+            await db.ref(FIREBASE_DATABASE_AUDIO_V2).child(`${info.language}-${info.quarterly}`).set(audioInfo);
 
             if (audioInfo.length) {
                 fs.outputFileSync(`${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/audio.json`, JSON.stringify(audioInfo));
+                fs.outputFileSync(`${DIST_DIR_V2}${info.language}/quarterlies/${info.quarterly}/audio.json`, JSON.stringify(audioInfo));
             }
         }
     }
