@@ -3,5 +3,53 @@ title:  Lehrerteil
 date:   25/03/2022
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
-<center>Bitte komme später zurück.</center>
+**Schlüsseltexte:**
+Hebräer 13; Römer 12,13; Epheser 5,3–5; 1. Petrus 5,1–4; Hebräer 2,9; 4,16; Galater 2,20
+
+### TEIL I: ÜBERSICHT
+
+**Themen der Lektion**
+
+Paulus schließt seinen Brief mit mehreren Ermahnungen an seine Adressaten: „Bleibt fest in der brüderlichen Liebe“ (Hbr 13,1), „gastfrei zu sein vergesst nicht“ (V. 2) und „denkt an die Gefangenen … und an die Misshandelten“ (V. 3). Paulus ermahnt seine Leser außerdem: „Die Ehe soll in Ehren gehalten werden“ (V. 4), „seid nicht geldgierig“ (V. 5), „gehorcht euren Lehrern und folgt ihnen“ (V. 17) und „betet für uns“ (V. 18). Im ganzen Brief fordert Paulus seine Adressaten immer wieder auf, „ermahnt euch selbst alle Tage“ (Hbr 3,13), „spornt euch gegenseitig zu Liebe und zu guten Taten an. Und lasst uns unsere Zusammenkünfte nicht versäumen“ (Hbr 10,24–25 NLB), sowie darauf zu achten, „dass nicht jemand Gottes Gnade versäume; dass nicht etwa eine bittere Wurzel aufwachse und Unfrieden anrichte und viele durch sie verunreinigt werden“ (Hbr 12,15). Der Brief als Ganzes ist ein „Wort der Ermahnung“ (Hbr 13,22).
+
+Wenn Paulus seine Adressaten dazu ermutigt, gegenseitige Liebe zu üben, erwartet er nicht ein bestimmtes emotionales Empfinden. Vielmehr ermahnt er sie zu konkreten Handlungen, wie Gastfreundschaft zu zeigen, mit Gefangenen zu teilen, in der Ehe treu zu sein und Habgier zu meiden. In ähnlicher Weise geht es Paulus nicht um Gedächtnistraining, wenn er seine Adressaten ermahnt, an ihre Leiter zu denken. Vielmehr wünscht er sich, dass sie ihre Treue zu Gott dadurch zeigen, dass sie ihren Leitern gehorchen, sich ihnen unterordnen und sie respektieren. Schließlich warnt Paulus seine Adressaten davor, nicht fremden Lehren zu folgen, sondern dem Meisterlehrer Christus.
+
+### TEIL II: KOMMENTAR
+
+**Eigenartige Lehren und Lebensmittel**
+
+In Hebräer 13,9 warnt Paulus seine Zuhörer: „Lasst euch nicht durch mancherlei und fremde Lehren umtreiben, denn es ist ein köstlich Ding, dass das Herz fest werde, welches geschieht durch Gnade, nicht durch Speisegebote, von denen keinen Nutzen haben, die danach leben“. Dieser Vers stellt einen der schwierigeren Texte im Hebräerbrief dar. Was diesen Vers schwierig macht, ist der vage Hinweis auf seinen historischen Hintergrund. Da wir die genaue Situation, an die sich die ganze Ausführung richtet, nicht exakt bestimmen können, sollten wir zu drastische Schlussfolgerungen vermeiden.
+
+In dem Vers, der dem oben zitierten vorausgeht, heißt es: „Jesus Christus gestern und heute und derselbe auch in Ewigkeit“ (Hbr 13,8). Im Gegensatz zur Beständigkeit Christi stehen Gläubige in der Gefahr, sich von allerlei fremden Lehren mitreißen zu lassen, und bedürfen deshalb der Ermahnung.. Die Metapher „umtreiben“ (V. 9) erinnert an Bilder von Wind und Wasser, die Dinge umhertreiben. Die Verwendung dieses Bildes erinnert an die nautische Metapher, die Paulus in Hebräer 2,1 verwendet: „damit wir nicht am Ziel vorbeitreiben“. Dort warnt Paulus seine Zuhörer eindringlich, auf das zu achten, was sie von denen hören, die Christus bezeugen. Zu dieser Zeit standen die Adressaten in der Gefahr, von Christus wegzutreiben. Hier erinnert Paulus seine Zuhörer an diese standhaften Lehrer und Leiter und ruft zur Nachahmung ihres Glaubens auf (Hbr 13,7). Während Leiter kommen und gehen, ist Christus beständig. Geistliche Irrtümer gibt es jedoch immer noch. Deshalb stehen die Adressaten in der Gefahr, von trügerischen Lehren mitgerissen zu werden. Diese Lehren scheinen im Gegensatz zu dem zu stehen, was sie von ihren Lehrern und Leitern gehört haben, und werden mit zwei Adjektiven beschrieben: „verschiedenartige und fremde“ Lehren (V. 9 EB).
+
+Paulus sagt seinen Zuhörern, dass die Stärkung des Herzens durch Gnade geschieht, nicht durch Nahrung. Die Antithese zwischen Nahrung (ein Symbol für das Zeitliche) und Gnade (ein Symbol für das Ewige) wird von biblischen Autoren oft verwendet, um den Unterschied zwischen diesem zeitlichen Dasein und etwas viel Besserem aufzuzeigen. Paulus schreibt zum Beispiel: „Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist“ (Röm 14,17). In ähnlicher Weise ermahnt Paulus die Christen in Korinth: „Aber die Speise macht‘s nicht, wie wir vor Gott stehen. Essen wir nicht, so fehlt uns nichts, essen wir, so gewinnen wir nichts“ (1 Kor 8,8). Tatsächlich führte das Thema Essen in der frühen Gemeinde (Röm 14,1–3), wie auch heute noch, sehr oft zu Spaltungen.
+
+Was ist das besondere Problem, das Paulus in Römer 14,1–3 anspricht? Einige Gelehrte vertreten die Ansicht, dass Mitglieder der Glaubensgemeinschaft in der Gemeinde in Rom das Essen von Fleisch, das Götzen geopfert wurde, befürworteten – ähnlich dem Problem, dem die Gemeinde in Korinth gegenüberstand (1 Kor 8 und 10). Wenn man den Hebräerbrief mit dem 1. Korintherbrief vergleicht, sieht man deutlich, dass Paulus in letzterem eine viel eindringlichere Sprache in Bezug auf Götzenopfer verwendet (1 Kor 8,12) als im Hebräerbrief („es ist gut, dass das Herz fest wird, was durch Gnade geschieht, nicht durch Speisen“; Hbr 13,9 SLT). Wahrscheinlich geht es im Hebräerbrief also nicht um Götzenopfer.
+
+Eine andere, wahrscheinlichere Möglichkeit, die die Warnung in Hebräer 13,9 inspiriert haben könnte, ist die Teilnahme an den Mahlzeiten der Tempelopfer. Was spricht für diese Idee? Lasst uns drei biblische Möglichkeiten in Betracht ziehen. Erstens scheint der unmittelbare Kontext auf den Verzehr von Speisen im Zusammenhang mit jüdischen Opfermahlzeiten anzuspielen. Paulus sagt: „Wir haben einen Altar, von dem zu essen denen nicht erlaubt ist, die am Zelt dienen“ (Hbr 13,10). Hier spielt Paulus auf die alttestamentlichen Priester an, die von den kultischen Mahlzeiten in der Stiftshütte aßen.
+
+Zweitens wird das gleiche Wort „Speise“ in Hebräer 9,9–10 verwendet, wo wir lesen: „Gaben und Opfer … beziehen sich nur auf Essen und Trinken und rituelle Waschungen - auf äußere Bestimmungen, die nur gelten, bis eine neue Ordnung kommt, die besser ist“ (NLB). Hier macht Paulus dieselbe Aussage wie auch in Hebräer 13,9: Zeremonielle Opfer können das Gewissen nicht zufriedenstellen; vielmehr haben sie mit Essen und Trinken und verschiedenen zeremoniellen Waschungen zu tun. Das ist der Grund, warum die Zuhörer nicht fremden Lehren folgen sollten, denn diese zeremoniellen Opfermahlzeiten sind selbst für diejenigen nutzlos, die sie praktizieren (wörtlich: „darin wandeln“). Christen haben teil an einem Opfer, das jedem Opfermahl weit überlegen ist (vgl. Hbr 13,10–12).
+
+Drittens wird der griechische Begriff „Speise“ (in der Septuaginta, dem griechischen Alten Testament) in Maleachi 1,7.12 in Bezug auf die Opferspeisen auf dem Altar verwendet. Die Priester brachten verunreinigte Nahrung – definiert als blinde, kranke und lahme Tiere – als Opfer dar (Mal 1,7–8). Insgesamt scheinen alle drei Gründe – der unmittelbare Kontext, der erweiterte Kontext und der alttestamentliche Kontext – darauf hinzuweisen, dass sich die seltsamen Lehren über das Essen auf jüdische kultische Mahlzeiten beziehen.
+
+**Gehorcht euren Leitern und ordnet euch ihnen unter**
+
+In demokratischen Systemen oder Leitungssystemen mit repräsentativer Struktur klingt eine Aufforderung zum Gehorsam und zur Unterordnung unter die Leiter eher autoritär. Sollte eine solche Forderung heute erhoben werden? Wenn ja, wie sollten wir als Mitglieder einer weltweiten Kirche darauf reagieren?
+
+Verschiedene Bücher des Neuen Testaments beinhalten wichtige Hinweise zum Thema Gemeindeleitung, und so überrascht es nicht, dass auch der Hebräerbrief das tut. Die Leiter werden dreimal erwähnt (Hbr 13,7.17.24). In Vers 7 werden sie als diejenigen bezeichnet, „die euch das Wort Gottes gesagt haben“ (V. 7). Diese Personen waren höchstwahrscheinlich die missionarischen Evangelisten aus Hebräer 2,3. Aufgrund ihrer Verkündigung und Lehre wird die Zuhörerschaft mit dem „Wort Gottes“ als „lebendig und kräftig und schärfer als jedes zweischneidige Schwert“ (Hbr 4,12) konfrontiert.
+
+Drei Verben lenken die Aufmerksamkeit auf diese Leiter: denken an, nicht vergessen und zum Vorbild nehmen (Hbr 13,7 Hfa). Wie der Brief andeutet, hat Paulus seinen Adressaten zuvor sowohl negative (Hbr 4,11) als auch positive Beispiele für das Vermeiden beziehungsweise Nachahmen gegeben (Hbr 11,4–38). An dieser Stelle sollen die Leser über das Ergebnis der Lebensweise ihrer Leiter nachdenken. Diese Betrachtungsweise impliziert, dass die Ziele der Leiter erreicht worden sind. Auf diese Weise können die Zuhörer den Verlauf der Bemühungen ihrer Führer nachvollziehen und ihr treues Verhalten nachahmen.
+
+Im weiteren Verlauf des Kapitels wird erneut auf die Leiterschaft Bezug genommen und darauf, wie sich die Gemeindemitglieder ihnen gegenüber verhalten sollen: „Gehorcht euren Lehrern und folgt ihnen, denn sie wachen über eure Seelen – und dafür müssen sie Rechenschaft geben –, damit sie das mit Freuden tun und nicht mit Seufzen; denn das wäre nicht gut für euch“ (Hbr 13,17). Die Autorität der Leiter beruht auf der treuen Ausübung ihrer Ämter, „denn sie wachen über eure Seelen“ (V. 17). Wenn Leiter ihre Verantwortung ernst nehmen, tragen sie dazu bei, ihre Mitglieder davor zu bewahren, von allerlei seltsamen Lehren mitgerissen zu werden und Speisen zu verzehren, die nicht einmal denen nützen, die sie zu sich nehmen. Gleichzeitig sind sich gute Leiter bewusst, dass Leitung Rechenschaft verlangt, wie durch die beiden Knechte im Gleichnis Jesu dargestellt (Mt 24,45–51).
+
+Schließlich ermahnt Paulus seine Zuhörer, ihren Leitern zu gehorchen und sich ihnen unterzuordnen, damit diese ihre Aufgabe mit Freude und nicht mit Seufzen erfüllen können. Freude erinnert an die Haltung, mit der die Zuhörer die Plünderung ihres Besitzes hinnahmen (Hbr 10,34). Solche Freude ist der eigentliche Grund dafür, dass Jesus das Kreuz ertrug und seine Schande gering achtete (Hbr 12,2), und sie ist die Folge der väterlichen Züchtigung (V. 11). Der Dienst der Leiter wird freudig erfolgen, wenn ihre Mitglieder sich ihnen unterordnen und gehorchen. Wenn das nicht der Fall ist, wird ihre Arbeit beschwerlich. Laut Paulus seufzen die Leiter unter solchen Bedingungen und die Gemeinde hat keinen Nutzen davon. Eine erfolgreiche Zusammenarbeit zwischen Leitern und Mitgliedern erfordert also Vertrauen und Wohlwollen.
+
+### TEIL III: ANWENDUNG
+
+In der Vergangenheit wurde das Amt der Gemeindeleitung unter gewissen Umständen beziehungsweise in Teilen der Welt, in denen politische Regime das Leiten einer Gemeinde erschwerten, missbraucht. Wie können wir (trotz allem) zu der Harmonie zwischen Leitern und Gliedern kommen, von der der Hebräerbrief spricht?
+
+`1. Warum gibt es in manchen Kulturen so viel Abneigung gegen Autorität?`
+
+`2. Sollte man einer Leitung nur dann folgen, wenn man mit dem Leiter übereinstimmt? Begründet eure Meinung.`
+
+`3. Welche Kriterien gibt uns Paulus in Hebräer 13 dafür, Leitern zu folgen?`

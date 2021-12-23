@@ -3,5 +3,56 @@ title:  Lehrerteil
 date:   21/01/2022
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
-<center>Bitte komme später zurück.</center>
+Schlüsseltexte: 3. Mose 25,25–27; Hebräer 2,14–16; 11,24–26; 1. Korinther 15,50; Hebräer 5,8–9; 12,1–4
+
+### TEIL I: ÜBERSICHT
+
+**Themen der Lektion**
+
+Vergleicht man Hebräer 1 mit Hebräer 2, so ergibt sich ein Bild der Gegensätze. In Hebräer 1 ist Christus den Engeln überlegen (Hbr 1,6), während er in Hebräer 2 den Engeln unterlegen ist, zumindest für eine gewisse Zeit (Hbr 2,9). In Hebräer 1 ist Christus nahe bei Gott, an seiner rechten Seite (Hbr 1,13); in Hebräer 2 ist Christus nahe bei uns, seinen Brüdern, und schämt sich unserer nicht (Hbr 2,11). Indem er den prä-inkarnierten Christus mit der menschlichen Natur vergleicht, sagt uns der Hebräerbrief, dass Christus Fleisch und Blut angenommen hat, um wie wir zu sein (V. 14). Christus starb auch wie wir Menschen (V. 14). Aber der große Unterschied zwischen unserem Tod und seinem liegt darin, dass sein Tod das vollbrachte, was unser Tod niemals könnte. Sein Tod hat uns, die wir unser ganzes „Leben lang Sklaven … [unserer] Angst vor dem Tod waren“ (V. 15 NLB), befreit. Christus ist wie wir und doch anders als wir. Er war wahrhaft Mensch und doch ohne Sünde (Hbr 4,15). Wie Mose, der die Schande dem Ruhm vorzog (Hbr 11,25), achtete Christus die Schande gering, Mensch zu werden und am Kreuz zu sterben. Er wurde wie wir, damit wir wie er werden können. Indem wir ihm gleich werden, braucht er sich niemals für uns zu schämen (Hbr 2,11), selbst wenn wir ihn „zum Gespött machen“ könnten (Hbr 6,6 SLT). Menschen machen Krisen und Prüfungen durch, die Geduld und schließlich Charakterreife hervorbringen. Paulus beschreibt Jesus auf ähnliche Weise. Er „lernte … an dem, was er litt, den Gehorsam“ und wurde „vollendet“ oder „vollkommen gemacht“ (Hbr 5,8–9 EB). Wie lernte Jesus Gehorsam? War er zu einem bestimmten Zeitpunkt ungehorsam? Diese Vorstellung würde Hebräer 4,15 widersprechen, wo es heißt, dass Jesus in allem wie wir geprüft wurde und doch ohne Sünde blieb.
+
+### TEIL II: KOMMENTAR
+
+**„Vollkommen gemacht“**
+
+Hebräer 5,7–9 hält einige Herausforderungen bereit. Der Text sagt: „Solange Jesus hier auf der Erde lebte, hat er mit lautem Schreien und unter Tränen seine Gebete und Bitten an den einen gerichtet, der ihn aus dem Tod befreien konnte. Und weil er große Ehrfurcht hatte vor Gott, wurde er erhört. Obwohl Jesus der Sohn Gottes war, lernte er doch durch sein Leiden, gehorsam zu sein. Auf diese Weise machte Gott ihn vollkommen, und er wurde der Retter für alle, die ihm gehorchen“ (Hbr 5,7–9 NLB).
+
+Dieser Abschnitt wirft mindestens drei Fragen auf, die eine Antwort verdienen. Erstens sagt uns Paulus, dass Christus seine Gebete an Gott richtete, der in der Lage war, ihn vom Tod zu erretten, und dass er erhört wurde. Was bedeutet es, dass Jesus erhört und vor dem Tod bewahrt wurde? Zweitens: Jesus lernte Gehorsam. Wie lernte er Gehorsam? Geschah dies, weil er irgendwann einmal ein ungehorsamer Sohn war? Drittens: Jesus wurde vollkommen gemacht. War er nicht die ganze Zeit über vollkommen, ohne Sünde? Wir werden diese Fragen der Reihe nach angehen.
+
+Wurde Jesus erhört und vor dem Tod bewahrt? Der Satz in Vers 7 beginnt mit der Formulierung „Solange Jesus hier auf der Erde lebte“ (Hbr 5,7 NLB), was ein klarer Hinweis auf die menschliche Existenz Christi ist. Über seine Erlebnisse vor und in Gethsemane sagen uns die Evangelien nur, dass Jesus in Bedrängnis war. In Matthäus 26,38 und Markus 14,33–34 sagt Jesus: „Meine Seele ist sehr betrübt“ (EB). In Johannes 12,27 äußert Jesus: „Jetzt ist meine Seele voll Unruhe“. Aber keiner dieser Berichte sagt etwas darüber, dass er „mit lautem Schreien und unter Tränen“ betete (Hbr 5,7 NLB). Dieses Detail fügt der Hebräerbrief dem Gethsemane-Bericht hinzu. Jesu Gebete und Flehen waren „an den einen gerichtet, der ihn aus dem Tod befreien konnte“ (V. 7 NLB). Aber sie wurden nicht gesprochen, um ihn um jeden Preis vor dem Tod zu bewahren. Wie hat Gott Jesus dann erhört? Jesus betete nicht um Befreiung vom Tod, sondern darum, dass Gottes Wille geschehen möge (Mt 26,39). Der Vater befreite Jesus nicht von der Kreuzigung, sondern er befreite ihn durch seine Auferstehung von der Macht des Todes, der ihm durch die Kreuzigung zugefügt wurde. So wurde Jesus erhört, denn Gottes Wille wurde getan, und Jesus wurde wieder ins Leben zurückgebracht. Paulus sagt uns sogar, warum das Gebet von Christus erhört wurde: „weil er große Ehrfurcht hatte vor Gott“ (Hbr 5,7 NLB). Wegen Christi großer Achtung vor und seinem Gehorsam gegenüber Gottes Willen wurde sein Gebet erhört, und er wurde auferweckt.
+
+Wie lernte Jesus Gehorsam? Diese Frage impliziert, dass Christus ungehorsam gewesen sein könnte. Diese Möglichkeit wird jedoch eindeutig durch Hebräer 4,15 widerlegt, wo ausgesagt wird, dass Jesus während seines ganzen Lebens gehorsam war. Christus lernte Gehorsam durch Unterordnung (Hbr 5,7) und durch Leiden (V. 8). Der griechische Text verwendet in Vers 8 ein Wortspiel, emathen/epathen (gelernt/gelitten), ähnlich dem anglo-amerikanischen Sprichwort: „no pain, no gain“ [auf Deutsch etwa: „ohne Fleiß kein Preis“]. Jesus lernte zum Teil dadurch Gehorsam, indem er sich in Gethsemane ganz dem Willen Gottes unterstellte. Da Christus jedoch nicht nur Gott, sondern auch Mensch war, musste er in seiner berufenen Rolle als Erlöser Gehorsam lernen. Als Gott war er heilig und konnte nicht vom Bösen versucht werden (Jak 1,13). Aber als Mensch musste er Gehorsam und Unterordnung unter Gottes Willen lernen, so wie wir Menschen es auch lernen müssen. Als Gott musste Jesus nie Unterordnung lernen. Aber in seinem menschlichen Erleben, als er zum Sterben gerufen wurde, musste Jesus seinen grundlegendsten menschlichen Instinkt der Selbsterhaltung überwinden („wenn es möglich ist, so gehe dieser Kelch an mir vorüber“; Mt 26,39 EB) und sich dem Willen Gottes unterordnen. So lernte Jesus unterordnenden Gehorsam. Paulus sagt im Philipperbrief: Er „wurde gehorsam bis zum Tod, ja, zum Tod am Kreuz“ (Phil 2,8 EB).
+
+Im Vergleich dazu lesen wir, dass die Exodus-Generation dadurch gekennzeichnet war, dass sie gegen Gott rebellierte und ihn auf die Probe stellte (Hbr 3,8), dass ihr Herz verhärtet war (V. 8) und dass sie die Wege Gottes nicht verstand (V. 10). Der Hebräerbrief fasst diese Eigenschaften als Unglaube und Sünde (Hbr 3,12–13.17.19) sowie als Ungehorsam (V. 18) zusammen. Rebellion, Ungehorsam, Sünde und Unglaube gehören zusammen. Im Gegensatz dazu wendet der Hebräerbrief eine andere Reihe von Begriffen auf Christus an. Er ist „ohne Sünde“ (Hbr 4,15) und treu (Hbr 2,17; 3,2.6), ungeachtet dessen, dass er wie wir versucht wurde. Das wiederum ermöglicht ihm, uns beizustehen, wenn wir versucht werden (Hbr 2,18). Wir müssen den Gehorsam Christi in Hebräer 5,8 im Licht dieser Gruppen von gegensätzlichen Eigenschaften verstehen, wie sie von der Exodus-Generation in Hebräer 3,8–11.15–19 aufgezeigt werden. Dann werden wir den Gehorsam Christi problemlos als eine Erziehung erkennen, die auch Bestandteil unseres eigenen Glaubens an und Vertrauens auf Gott ist (vgl. Röm 1,5; 16,26). So wie Christus als Mensch Gehorsam lernte, indem er sich dem Willen Gottes unterordnete und ihm mehr vertraute als seinem eigenen, so sollten auch wir das tun.
+
+Nun zu unserer letzten Frage: Warum heißt es in Hebräer 5,9, dass Christus „vollkommen“ (NLB) gemacht wurde? War er denn nicht schon vollkommen? Auf welche Weise wurde er dann vollkommen gemacht? Der vorherige Vers liefert uns den Kontext für die Antwort auf unsere Frage: „Obwohl Jesus der Sohn Gottes war, lernte er doch durch sein Leiden, gehorsam zu sein“ (Hbr 5,8 NLB). Deshalb schließt Paulus: „Und nachdem er zur Vollendung gelangt ist, ist er allen, die ihm gehorchen, der Urheber ewigen Heils geworden“ (V. 9 SLT). Die Vollkommenheit Jesu resultierte also aus dem Gehorsam, den er durch das Leiden lernte und der ihn dazu befähigte, unser himmlischer Hohepriester zu sein.
+
+Zusammenfassend können wir sagen, dass Christi Gebet zu dem einen, der ihn vom Tod erretten konnte, erhört wurde, weil er darum betete, dass Gottes Wille geschehen möge. Infolgedessen wurde er schließlich wieder zum Leben erweckt. Er lernte Gehorsam, indem er sich dem Willen Gottes unterstellte und ihm vertraute. Schließlich wurde Christus durch den Gehorsam gegenüber Gott zu unserem vollkommenen Hohepriester gemacht, so dass er für alle, die „ihm gehorchen“ – also für uns –, „der Urheber ewigen Heils“ werden konnte (Hbr 5,9 EB).
+
+**Fragen zum Nachdenken**
+
+`1. Wenn Christus sich dem Gehorsam unterstellte und ihn in seinem menschlichen Leben lernte, wie wichtig ist dann Gehorsam für uns?`
+
+`2. Wie kann ich auf der neuen Erde im Garten Eden wandeln, wenn ich nie den Garten Gethsemane erlebe (d. h. Gottes Willen hier und jetzt tue)? Warum kommen diese beiden Erfahrungen als Paket?`
+
+`3. Was denkt ihr, warum wir Menschen fast jeder Autorität gegenüber eine „semi-allergische Reaktion“ zeigen, wenn wir zum Gehorsam aufgefordert werden? Wie könnten wir eurer Meinung nach eine ähnlich negative Reaktion auf die Unterordnung unter göttliche Autorität „heilen“?`
+
+`4. Warum besteht im menschlichen Herzen oft eine Spannung zwischen der Liebe zu Gott und dem Gehorsam ihm gegenüber? Wie könnte Johannes 14,15 uns helfen, dieses Problem zu lösen?`
+
+**Christus ist wie wir und doch anders**
+
+Wie wir gesehen haben, wird Christus als den Engeln weit überlegen dargestellt. Tatsächlich wird er als das genaue Abbild des Wesens Gottes dargestellt (Hbr 1,3). Daher ist er laut dem ersten Kapitel des Hebräerbriefes der Anbetung würdig (V. 6). Anschließend wird er im zweiten Kapitel so dargestellt, dass er eine Zeit lang niedriger als die Engel gemacht wurde. Jesus ist den Engeln nicht nur ein wenig unterlegen. Vielmehr teilte er, indem er „Fleisch und Blut“ und das damit verbundene Leiden annahm, voll und ganz das Schicksal seiner menschlichen Brüder (Hbr 2,14). Jesus wurde nicht einfach durch seine Inkarnation „niedriger … als die Engel“ gemacht, sondern durch sein Leiden im Tod (V. 9). Der Sohn betrat die menschliche Sphäre so sehr, dass er, im Gegensatz zu den Engeln, die den Tod nicht erleiden, die Sterblichkeit annahm.
+
+Was Christus vollbrachte, befähigte ihn, ein „barmherzig[er] und ein treuer Hoher Priester vor Gott … [zu werden], um die Sünden des Volkes zu sühnen“ (V. 17 EB).
+
+**Frage zum Nachdenken**
+
+`Genau in der Zeit, in der dieser Kommentar verfasst wird, haben Menschen auf der ganzen Welt Angst, sich mit dem Coronavirus zu infizieren und daran zu sterben. Wie helfen uns die Taten Christi, der unser Fleisch und Blut annahm und unser Schicksal teilte, wenn wir mit solch unheilvollen Bedrohungen und tödlichen Krankheiten konfrontiert sind?`
+
+### TEIL III: ANWENDUNG
+
+Denkt über Ellen Whites Aussage zur menschlichen Natur Christi nach: „Viele behaupten, dass es für den Erlöser unmöglich gewesen wäre, der Versuchung zu erliegen. Wäre das so gewesen, hätte Jesus nicht an Adams Stelle treten und den Sieg erringen können, den Adam verfehlt hatte. Wenn wir auf irgendeine Weise einen schwierigeren Kampf als Christus zu bestehen hätten, wäre er nicht imstande, uns zu helfen. Doch unser Erlöser nahm das Menschsein mit all seinen durch die Sünde entstandenen Belastungen auf sich. Er nahm die menschliche Natur mit der Möglichkeit an, der Versuchung nachzugeben. Wir haben nichts zu tragen, was er nicht auch erduldet hat“ (SDL 99).
+
+**Frage zum Nachdenken**
+
+`Welchen Trost und welche Hoffnung gibt euch das Wissen, dass Jesus all das ertragen hat, was wir ertragen müssen?`
