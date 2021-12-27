@@ -2,7 +2,7 @@
   pdf:
     - src: https://sobotniskola.casd.cz/lekce_PDF/2022_1/uvod.pdf
       target: cs/2022-01/01
-      title: Úvod
+      title: Ãšvod
     - src: https://sobotniskola.casd.cz/lekce_PDF/2022_1/01.pdf
       target: cs/2022-01/01
     - src: https://sobotniskola.casd.cz/lekce_PDF/2022_1/02.pdf
@@ -11,3 +11,4 @@
       target: cs/2022-01/03
     - src: https://sobotniskola.casd.cz/lekce_PDF/2022_1/04.pdf
       target: cs/2022-01/04
+      
