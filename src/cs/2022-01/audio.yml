@@ -1,6 +1,6 @@
 ---
   audio:
-    - artist: Prùvodce studiem Bible
+    - artist: PrÅ¯vodce studiem Bible
       tracks:
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1_01/2022_Q1_01-1.mp3
           target: cs/2022-01/01/01
@@ -16,8 +16,8 @@
           target: cs/2022-01/01/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1_01/2022_Q1_01-7.mp3
           target: cs/2022-01/01/07
-    - artist: Úvod
+    - artist: Ãšvod
       tracks:
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1_01/2022_Q1_01-0.mp3
-          title: Úvod
+          title: Ãšvod
           target: cs/2022-01/01
