@@ -1,0 +1,16 @@
+---
+title:  Histoire
+date:   31/12/2021
+---
+
+#### Gardiens par surprise
+
+_Par Khamsay Phetchareun_
+
+La célébration de mariage est généralement un moment joyeux pour les familles. Mais Khome et son mari, Eung, souffraient dans leur village reculé du Laos après cet évènement. Khome, qui appartient à un groupe ethnique dénommé Laven, était la fille d’un médium spirituel. Elle était préparée dès l’enfance pour remplacer sa mère. Mais elle rencontra le Seigneur et Lui donna sa vie contre la volonté de sa mère. Pire, elle épousa un chrétien d’un autre groupe tribal. Tout le monde semblait s’opposer à leur mariage – même les mauvais esprits. Un jour, un mauvais esprit apparut à Khome et se mit à se moquer d’elle. Khome s’agenouilla rapidement et pria. En se levant, elle essayait de marcher jusqu’à sa Bible pour la lire. La Bible n’était qu’à quelques pas de là, mais ses pieds étaient si lourds qu’elle pouvait à peine bouger. Ses pieds semblaient être coincés dans le sol. Alors qu’elle luttait pour marcher, elle pria: « Dieu, protège-moi. Mon Dieu, protège-moi. » Elle atteignit enfin la Bible et l’ouvrit. Après avoir lu quelques passages, elle pria au nom de Jésus, et le mauvais esprit disparut.
+
+La lutte contre les forces du mal continua pendant des années, mais Khome et Eung adoraient fidèlement Dieu dans leur maison. Leurs parents, leurs frères et sœurs et leurs voisins exprimaient une haine ouverte à leur égard. Quelqu’un les signala aux autorités sous de fausses accusations d’actes répréhensibles. Lorsque les policiers arrivèrent pour arrêter le couple, ils furent accueillis par des personnages mystérieux et puissants devant la maison. Les policiers s’enfuirent dans la peur. Une deuxième tentative d’arrestation du couple échoua lorsque les policiers furent effrayés à la vue de deux personnages mystérieux à l’intérieur de la maison. La nouvelle se répandit que le couple avait des gardiens surnaturels spéciaux, et les gens commencèrent à les craindre.
+
+Pendant ce temps, le couple partageait sa foi avec sa famille et ses voisins. Ils aidaient les autres à chaque occasion et, bien que désespérément pauvres eux-mêmes, aidaient ceux qui étaient encore plus pauvres. Peu à peu, les gens commencèrent à venir à eux pour obtenir de l’aide. Les malades et les gens possédés par les démons cherchaient la guérison. Un par un, ils acceptaient Dieu, et la maison du couple devint une église de maison. La sœur de Khome résista à l’évangile pendant un certain temps, mais une nuit, elle vit une lumière vive briller dans la maison de Khome. Le lendemain, elle demanda à sa sœur comment elle avait de la lumière quand personne dans le village n’avait d’électricité. Khome ne savait que dire. Elle et son mari s’étaient endormis. La sœur accepta Jésus.
+
+_Aujourd’hui, Eung et Khome font briller la lumière de Dieu parmi les Laven du Laos. Une partie de l’Offrande du Treizième Sabbat de ce trimestre aidera à ouvrir une école primaire dans le pays. S’il vous plaît priez pour le projet d’école, Eung et Khome, et le peuple précieux du Laos._
