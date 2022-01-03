@@ -1,0 +1,48 @@
+---
+title:  Tanítói melléklet
+date: 18/03/2022
+---
+
+Alapigék:  2Móz 32:32; Zsolt 15:5; 16:8; Dán 7:9-10, 13-22; Agg 2:6-9;  Zsid 12:18-29; 13:15-16
+
+#### Áttekintés
+
+A tanulmány témái:
+
+Az e heti tanulmány elsősorban Zsid 12:18-29 szakaszával foglalkozik. Ez a rész úgy mutatja be Jézust, mint a szövetség Közbenjáróját, Istent pedig mint mindenek Ítélőbíróját. Zsid 12:18-29 szakasza 2Mózes 19. fejezetének történelmi összefüggésére utal, amikor Izrael a törvényadásra gyülekezett a Sinai-hegynél. Ezt az eseményt állítja szembe A zsidókhoz írt levél hallgatóságával, akik nem járultak a Sinai-hegyhez, amit tilos volt érinteni Isten népének, hanem a Sion hegyéhez, az élő Isten városához, a mennyei Jeruzsálemhez mentek. A Sion hegye nem a rettegés, hanem az ünnepi összejövetel helye, mert a hívők ott kerülhetnek kapcsolatba Istennel. Örömteli bizalmunk alapja Jézus, az Újszövetség Közbenjárója. Sion hegyén történik meg Jézus koronázási szertartása (Zsolt 2:6-7; Zsid 1:5).
+
+Istent úgy látjuk itt, mint mindenek Ítélőbíróját (Zsid 12:23). Amikor alászállt a Sinai-hegyre, a föld megrázkódott (2Móz 19:18). A rázkódás Isten ítéletének képletes kifejezése. Az idők végén újra rengeni fog, de nemcsak a föld, hanem az ég is (Zsid 12:26). Csak a rendíthetetlen dolgok maradnak meg, az igazak, az igazságosak és azok, akik Istenben bíznak. A figyelmeztetésre válaszul az igazak adományokat visznek Istennek. Ezek az adományok abból állnak, hogy dicsőítik Isten nevét, jó tetteket hajtanak végre és megosztják másokkal azt, amijük van (Zsid 13:15-16).
+
+#### Kommentár
+
+A 10. tanulmányban már tisztáztuk „a tökéletes igazak lelkeihez” kifejezést (Zsid 12:23).
+
+Az advent előtti ítélet A zsidókhoz írt levélben
+
+A következő kérdéssel foglalkozunk itt: mit mond A zsidókhoz írt levél a mennyei szentélyről? Mi a bibliai alapja az advent előtti ítéletnek?
+
+A zsidókhoz írt levél szolgáltatja a legvilágosabb kijelentéseket arról, hogy a mennyben van egy szentély. Pál egyértelműen kijelenti: „Az elmondottak lényege az, hogy olyan főpapunk van, aki a Magasságos trónjának jobbjára ült a mennyekben, annak a szentélynek és igazi sátornak szolgálattevőjeként, amelyet nem ember épített, hanem az Úr” (Zsid 8:1-2). Pál minden kétséget kizáróan megerősíti prédikációjának fő gondolatát: Krisztus a Főpapunk a mennyei szentélyben, nem a földiben. Ha a mennyei szentélyben szolgál, akkor annak léteznie kell.
+
+A következő fejezet megismétli a kijelentést Krisztus mennyei főpapi szolgálatáról: „az ő tulajdon vére által ment be egyszer s mindenkorra a szentélybe, és örök váltságot szerzett” (Zsid 9:12). Ez egy újabb állítás, miszerint Krisztus az emberi kezek által készített sátornál magasabb rendű sátorban szolgál. Pál még erőteljesebben kijelenti: „Mert nem kézzel készített szentélybe, az igazinak csak másolatába ment be Krisztus, hanem magába a mennybe, hogy most Isten színe előtt megjelenjék értünk” (Zsid 9:24). Így, ha csak A zsidókhoz írt levelet olvassuk, látjuk, hogy vitathatatlanul van a mennyben egy szentély, és Krisztus abban szolgál. Arra viszont nem tér ki, hogy pontosan hogyan néz ki ez a szentély. Az utolsó idézett vers hangsúlyozza a földi szentélytől való különbséget, azaz, hogy az Újszövetség szentélye a mennyben van. Azonban óvatosnak kell lennünk abban, hogy meghatározzuk a mennyei szentély méreteit. Annyit viszont meggyőződéssel állíthatunk, hogy A zsidókhoz írt levél egyértelműen alátámasztja a mennyei szentély létezését, amelyben Krisztus főpapként szolgál.
+
+Pál állítása elbizonytalanít néhány olvasót: „szükséges volt, hogy a mennyei dolgok képmásait ezekkel tisztítsák meg, magukat a mennyei dolgokat azonban ezeknél különb áldozatokkal” (Zsid 9:23). Miért van szüksége megtisztító áldozatra a mennyei dolgoknak? Végül is a menny tiszta és szent, vagy nem? Néhány teológus azzal az érvvel próbálta feloldani ezt a rejtélyt, hogy a mennyei dolgok megtisztításra szorulnak, amint a lelkiismeret megtisztításra szorul (Zsid 9:9, 14). Mások szerint a megtisztítás a szentély felavatását jelenti. Ezek az elképzelések mind hiányosnak bizonyulnak a Zsid 8:1–10:18-ban kidolgozott érvek fényében, amelyek a szennyre, a megtisztításra és Krisztus mennyei szolgálatára összpontosítanak.
+
+Hetednapi adventistaként Dániel 7. és 8. fejezetével összefüggésben érthetjük meg az ilyen szakaszokat. Tudjuk, hogy a menny és a föld között kapcsolat van. Figyelmet szenteltünk az ószövetségi szentélyszolgálatnak, ami betekintést adott annak működésébe. Dán 8:14-ben így olvassuk: „És ő azt mondta nekem: Kétezer-háromszáz estéig és reggelig, azután visszakapja a szent hely az igazságát”, amivel megoldódik Zsid 9:23 kijelentése. Ugyanakkor el kell ismerni, hogy Zsid 9:23 hallgat a mennyei megtisztítás idejéről. Ezt Dániel próféta könyvéből tudjuk meg. Összefoglalásképpen elmondható, hogy a mennyei szentély létét vitathatatlan tényként látja A zsidókhoz írt levél. Továbbá vitathatatlan a mennyei dolgoknak a jobb áldozattal való megtisztítása is. A zsidókhoz írt levél csak azt nem adja meg, hogy mikor történik ez a megtisztítás. Nem próbálhatjuk rákényszeríteni a levélre, hogy többet mondjon vagy jelentsen, mint amennyit mond és jelent.
+
+Most pedig forduljunk ahhoz a kérdéshez, hogy mi az advent előtti ítélet bibliai alapja! Ehhez meg kell néznünk Dániel próféta könyvét. (Az advent előtti ítélet mélyebb megértéséhez vizsgáljuk meg A jelenések könyvét is!) Az advent előtti ítélet kulcsa Dániel próféta könyvének 7. fejezete. Bemutatja az egymást követő birodalmakat, amelyeket egy sor vadállat szimbolizál: az oroszlán, a medve, a párduc és a borzasztó és félelmetes vadállat, amelynek felülmúlhatatlan az ereje. Dániel 2. és 7. fejezetének összehasonlítása világossá teszi, hogy ugyanazzal az általános témával foglalkoznak: próféciák a mediterrán térség főbb hatalmainak felemelkedésről és bukásáról. E földi hatalmak a következők: Babilónia, Médó-Perzsia, Görögország és Róma. Miután Dániel meglátja a borzasztó és félelmetes, tízszarvú, felülmúlhatatlan erejű vadállatot, a szarvak közül kiemelkedik egy kis szarv. Majd a látomás hirtelen a földről a mennyre irányul, ahol feltűnik egy ragyogó trónterem (Dán 7:9-14). A jelenet három szakaszban bontakozik ki: 1) egy bírósági jelenet, amelyben királyi székeket állítanak fel (Dán 7:9-10); 2) az ítélet kimenetele, amelyben a fenevadat halálra adják (Dán 7:11-12); és 3) a birodalom átadása az Emberfiának (Dán 7:13-14). A fejezet eseményeinek időrendi sorrendje: Babilónia, Médó-Perzsia (lásd Dán 8:20), Görögország, Róma, a kis szarv, az ítélet, majd a szentek birtokba veszik az országot.
+
+Dániel 7. fejezetének második felében a próféta érdeklődése a negyedik vadállat tevékenységére és a kis szarvra terelődik, amely gőgösen beszél (Dán 7:19-20). Hadakozik a szentek ellen, „míg el nem jött az öregkorú, hogy igazságot szolgáltasson a Magasságos szentjeinek” (Dán 7:22), végül „a szentek elnyerik az országot” (Dán 7:22). A negyedik vadállat utáni események sorrendje szintén ez: kis szarv, ítélet, a szentek öröklik az országot. A sorrendet Dániel 7. fejezete harmadszor is megismétli, csak hogy el ne tévesszük. A kis szarv „sokat beszél majd a Felséges ellen, és a Magasságos szentjeit pusztítja. Úgy véli, hogy meg tudja változtatni az időket és a törvényt” (Dán 7:25). Ezt követi a biztosíték, hogy „azután összeül a törvénykezés” (Dán 7:26), végül pedig az „ország uralma, hatalma és nagysága a Magasságos szentjei népének adatik” (Zsid 7:27).
+
+Ha újra áttekintjük Dániel próféta könyvének 7. fejezetét, a sorrend nyilvánvaló. Babilóniát követi Médó-Perzsia, aztán jön Görögország és Róma. A 7. fejezet második felét a kis szarv tevékenysége és az ítélet képezi, majd a birodalom átvétele következik az Emberfia, illetve a szentek által. Krisztus országa az ő országuk. Ebben a mennyei ítéletben nyitott könyvek is szerepelnek a bizonyítékok bemutatásához. E könyvek jelzik, hogy a mennyei ítélet vizsgálati jellegű, mielőtt Isten a „kis szarv” ellen és a szentekért cselekszik (Dán 7:21-22, 27). Dániel 7-ben az utolsó három esemény háromszor ismétlődik meg. Ez világossá teszi, hogy az ítélet a kis szarv tevékenysége és az ország átvétele között történik, ezért nevezik advent előtti ítéletnek.
+
+#### Gyakorlati alkalmazás
+
+A vizsgálati ítélet fogalma nem ismeretlen a Bibliában. Mielőtt Isten kihirdetne egy ítéletet, kivizsgálja az ügyet. Ez világosan látszik Ádám és Éva bukásánál 1Mózes 3-ban: mielőtt átkot mondana a kígyóra és a földre, megvizsgálja Ádám és Éva helyzetét, viselkedését.
+
+Sodoma és Gomora esetében a Biblia úgy mutatja be Istent, mint aki alászáll a földre, hogy megvizsgálja: „vajon teljesen a hozzám felhatott kiáltás szerint cselekedtek-e, vagy sem, mert tudni akarom” (1Móz 18:21). Isten csak azután tárja fel teveit Ábrahám előtt, figyelmeztetve őt, csak azután szabadítja meg Lótot és családját Sodomából, csak azután zúdít tüzet és kénkövet az égből Sodomára és Gomorára, miután kivizsgálta a helyzetet (1Móz 19:24). A bűnbeesésről, valamint a Sodomáról és Gomoráról szóló elbeszélés egyaránt bibliai precedense a vizsgálati eljárásnak, ami megelőzi a végrehajtó ítéletet. Ez a minta látható a vizsgálati vagy advent előtti ítélet esetében is.
+
+1)  Miért fél olyan sok ember a vizsgálati ítélettől? Hogyan tudjuk világossá tenni, hogy az evangéliumnak központi szerepe van az ítéletben?
+
+2)  Miért jó nekünk az ítélet? Ha jó, akkor kell-e aggódnunk miatta? Magyarázd meg!
+
+`Jegyzetek`

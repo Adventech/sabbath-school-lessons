@@ -27,7 +27,7 @@ Jezus heeft veel gesprekken gevoerd met anderen. Soms gaf Hij onderwijs, soms we
 
 #### Gespreksvragen naar aanleiding van de tekst
 
-`Wat zegt Mozes over God? En wat verwacht hij van zijn toehoorders? (Deutero- nomium 10:17) Hoe ervaar jij God?`
+`Wat zegt Mozes over God? En wat verwacht hij van zijn toehoorders? (Deuteronomium 10:17) Hoe ervaar jij God?`
 
 `Wat is Gods houding ten opzichte van vreemdelingen? (vers 18) Welke adviezen zou God ons geven bij het tegenwoordige vreemdelingenvraagstuk?`
 

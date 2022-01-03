@@ -1,0 +1,15 @@
+#### S pohledem upřeným na Ježíše: Poselství listu Židům
+
+Poprvé viděl ten obraz v kostele. Zamyšleně procházel kolem, když mu zrak padl na malbu vysokou téměř dva metry a širokou tři metry. Dívka na obraze mladého muže upoutala. Proč z ní nemohl odtrhnout zrak? Když o tom později uvažoval, uvědomil si, že ta mladá žena měla něco zvláštního v očích. Na obraze byla jen její tvář a soustředěně se na něco dívala. Ale co to bylo a proč byl její pohled tak soustředěný? Ten obraz si dlouho uchovával v paměti.
+
+O několik let později mu malíř Arnold Jiménez vysvětlil tajemství tohoto svého obrazu. Snažil se jej namalovat tak, aby diváka zaujaly oči mladé ženy. Skutečné tajemství však spočívalo v zorničkách. Když se člověk podíval opravdu zblízka, uviděl v nich odraz toho, na co byl soustředěný její pohled. Její oči se dívaly na Ježíše na kříži.
+
+Portrét Ježíše Krista v listu Židům na nás může mít stejný vliv. Ježíš je vykreslen především jako Vládce vesmíru, který sedí po Boží pravici. Nespočetný zástup andělů ho slaví, uctívá a slouží mu (Žd 1,5–14; 12,22–24). Zvítězil a získal právo vládnout, protože vlastní smrtí zničil ďábla (Žd 2,14–16). Ježíš je vykreslen jako Velekněz. Bezhříšný a dokonale svatý koná dílo naší záchrany v nebeské svatyni (Žd 7,26–8,6). Získal toto právo tím, že sám sebe vydal jako dokonalou oběť za všechny a navždy (Žd 10,1–14). Ježíš je mimoto zprostředkovatelem nové smlouvy mezi Bohem a jeho lidem, smlouvy, která bude trvat navěky (Žd 8,6–13).
+
+Pozornost čtenáře je však upřena nejen na to, co Ježíš udělal, ale především na to, kým Ježíš je. Narodil se podobně jako my. Byl pokoušen a zesměšňován. Přesto má moc nad celým vesmírem. Když sledujeme události v nebesích, když pozorujeme různorodé nebeské bytosti, náš pohled se soustřeďuje na toho, který stojí uprostřed celého dění. Je pozoruhodné, že je nám podobný, protože se stal jedním z nás. Ježíš, náš bratr (Žd 2,11.12.17), je v nebesích a zastupuje nás i přes hanbu našeho hříchu a naší zkaženosti.
+
+V osobě Ježíše Krista se setkávají tři rozměry příběhu vykoupení. První je osobní rovina. Pro všechny unavené útrapami a soužením, které jako křesťané prožíváme (Žd 10,32–34), je Ježíš původcem a dokonavatelem víry. Potřebujeme se dívat na toho, který také trpěl, a přesto zvítězil (Žd 12,1–4). Druhý rozměr je společenský. Pro Boží lid, který putoval do Bohem zaslíbené země, je Ježíš novým Jozuem. Potřebují následovat jeho vedení (Židům 3, 4, 11 a 12). Třetí rozměr je obecný. Ježíš je nový Adam, Syn člověka, ve kterém se naplnil Boží záměr s lidmi (Žd 2,5–10; 12,22–28).
+
+V tomto čtvrtletí se budeme věnovat obrazu Ježíše, který obsáhl šířku, délku, výšku i hloubku Boží lásky k nám. A podobně jako obraz Ježíše v očích namalované ženy upoutal pohled mladého muže, ať i obraz Ježíše vyjádřený v listu Židům zaujme nejen náš pohled, ale ať vzbudí naši lásku a obdiv vůči Ježíši, našemu bratru v nebesích.
+
+_Félix H. Cortez vyučuje novozákonní literaturu na Teologickém semináři na Andrewsově univerzitě._

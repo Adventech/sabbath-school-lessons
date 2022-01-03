@@ -1,0 +1,24 @@
+---
+  audio:
+    - artist: Felnőtt szombatiskola
+      tracks:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211225.mp3
+          target: hu/2021-01/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211226.mp3
+          target: hu/2021-01/01/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211227.mp3
+          target: hu/2021-01/01/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211228.mp3
+          target: hu/2021-01/01/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211229.mp3
+          target: hu/2021-01/01/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211230.mp3
+          target: hu/2021-01/01/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20211231.mp3
+          target: hu/2021-01/01/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220101.mp3
+          target: hu/2022-01/02/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220102.mp3
+          target: hu/2022-01/02/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220103.mp3
+          target: hu/2022-01/02/03

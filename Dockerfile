@@ -1,10 +1,9 @@
-FROM node:14.16.1
+FROM node:16.13.1
 
 WORKDIR /app
 
-RUN wget https://github.com/gohugoio/hugo/releases/download/v0.87.0/hugo_0.87.0_Linux-ARM64.deb
-RUN dpkg -i hugo_0.87.0_Linux-ARM64.deb
-RUN rm *.deb
+RUN echo "\ndeb http://deb.debian.org/debian buster-backports main" >> /etc/apt/sources.list
+RUN apt update && apt -y install hugo/buster-backports
 
 ADD package.json ./
 

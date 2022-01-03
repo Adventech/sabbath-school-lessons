@@ -19,7 +19,7 @@ Deuteronomium 8:7-18
 
 #### Inspiratie
 
-‘Denk eens terug aan de reis door de woestijn! ... Hij wilde laten zien dat Hij een machtige God is.’1
+‘Denk eens terug aan de reis door de woestijn! ... Hij wilde laten zien dat Hij een machtige God is.’
 
 #### Behandel de tekst
 

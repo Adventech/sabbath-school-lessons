@@ -1,0 +1,56 @@
+---
+title:  Komen Guru
+date:  25/02/2022
+---
+
+**Ayat-ayat Utama**: Ibr. 9:15, Kej. 15:6-21, Yer. 34:8-22, Ef. 3:14-19, Ibr. 7:27, Ibr. 10:10, Ibr. 9:22-28.
+
+#### Bahagian I: Gambaran Keseluruhan
+
+**Tema-tema Pelajaran**: Ibrani menjelaskan bahawa pengganti kematian oleh Yesus adalah perlu untuk menyelamatkan kita, kerana “tanpa penumpahan darah tidak ada pengampunan” (Ibr. 9:22, LAI). Darah melambangkan nyawa milik pengganti. Tuntutan supaya pesalah itu mati telah dipenuhi oleh Yesus, yang mati sekali untuk selama-lamanya sebagai korban tanpa batasan bagi seluruh umat manusia.
+
+Perjanjian Lama menggambarkan lebih daripada satu jenis persembahan. Imamat menyenaraikan korban bakaran untuk pendamaian, korban sajian sebagai rasa syukur atas pemeliharaan Tuhan, korban keselamatan untuk jamuan bersama dengan keluarga dan teman-teman, korban penghapus dosa untuk penebusan dosa dalam hal dosa yang tidak disengajakan, dan korban penebus salah untuk kes-kes ganti rugi (lihat Imamat 1- 6). Namun, seperti yang Paulus telah nyatakan, korban-korban ini, termasuk yang dipersembahkan pada Hari Pendamaian, akhirnya tidak berkesan kerana ia tidak akan pernah dapat menghapuskan dosa (Ibr. 10:1-4). Melainkan hanya “darah Kristus yang mahal,” yang ditunjukkan oleh semua persembahan korban ini, yang boleh melakukan itu (Ibr. 9:14, 1 Pet. 1:19).
+
+#### Bahagian II: Ulasan
+
+Seperti yang kita lihat minggu lepas, Ibrani 7 bercakap tentang Melkisedek yang lebih tinggi daripada imam-imam dari garis keturunan Harun. Demikian juga, Kristus lebih tinggi daripada imamat Lewi kerana Dia adalah imam menurut peraturan Melkisedek. Ibrani 8 bercakap tentang keunggulan perjanjian kedua, yang keberkesanannya dibincangkan lebih lanjut dalam Ibrani 9:15. Perjanjian pertama, yang dibuat dengan orang Lewi, mempunyai kekurangan dan tidak dapat menghapuskan dosa (Ibr. 7:11, Ibr. 9:9).
+
+Dalam Ibrani 9, Paulus juga berbicara tentang korban Kristus yang unggul. Mengapakah ia lebih unggul? Pertama, persembahanNya bukan untuk tempat kudus duniawi, tetapi untuk syurgawi (Ibr. 9:23, 24). Kedua, darah yang Dia telah persembahkan bukan dari binatang tetapi adalah darahNya sendiri (Ibr. 9:25, 26). Akhir sekali, korban Kristus adalah unik (Ibr. 9:12, 28, LAI, “sekali untuk selama-lamanya”) dan berkesan (Ibr. 9:14, LAI, “menyucikan hati nurani kita”; Ibr. 10:14, LAI, “menyempurnakan untuk selama-lamanya”), berbeza dengan korban binatang (Ibr. 10:1, 4).
+
+**Dilema Mezbah Pembakaran Ukupan di Tempat Yang Maha Kudus**
+
+Ibrani 9 mengajukan apa yang kelihatan seperti percanggahan. Dalam ayat 3 dan 4 dikatakan: “Di belakang tirai yang kedua terdapat suatu kemah lagi yang disebut tempat yang maha kudus. Di situ terdapat mezbah pembakaran ukupan dari emas, dan tabut perjanjian yang seluruhnya disalut dengan emas” (LAI). Ayat-ayat ini kelihatannya bertentangan dengan ayat Keluaran 30:6, “Haruslah kautaruh tempat pembakaran itu di depan tabir penutup tabut hukum” (LAI), yang memberitahukan bahawa mezbah pembakaran ukupan itu bukan di dalam Bilik Maha Kudus, tetapi di dalam Bilik Kudus, bersama kaki pelita dan meja di mana roti yang disucikan diletakkan. Pada mezbah pembakaran ukupan ini, Harun sepatutnya membakar ukupan “tiap-tiap pagi” (Kel. 30:7, LAI). Begitu juga, petikan lain dalam Pentateukh meletakkan mezbah ukupan di Bilik Kudus, bukan di Bilik Maha Kudus (Kel. 40:5, 26). Jadi, mengapa Paulus meletakkan mezbah emas ukupan di Bilik Maha Kudus?
+
+**Bagaimanakah kita mengambil kira kelainan yang jelas ini?**
+
+Paulus mungkin berfikir seperti ini: “Walaupun terletak di ruang utama (iaitu, di bilik kudus), mezbah pembakaran ukupan (bandingkan Kel. 30:1–10; 1 Taw. 28:18) 'adalah milik debir’ (Bilik Maha Kudus). Nampaknya upacara pembakaran kemenyan yang dilakukan di atas mezbah ini mempunyai kesan langsung kepada Tempat Maha Kudus di mana Tuhan menyatakan kehadiranNya, di antara kerub. Lagipun, asap ukupan itu kemungkinan besar menyelubungi ruangan dalam. Ini mungkin menjelaskan mengapa Ibrani meletakkan mezbah ukupan di Bilik Maha Kudus (Ibr. 9:4).”—The Seventh-day Adventist International Bible Commentary, entri dari Ibrani 9:4.
+
+Juga penting untuk diperhatikan bahawa dalam bahasa Yunani, penulis Ibrani sebenarnya tidak menyatakan bahawa mezbah ukupan itu berdiri di bilik kedua; hanya menyatakan bahawa Bilik Maha Kudus “mempunyai” mezbah itu. Kata terjemahan “mempunyai” (NKJV) boleh diterjemahkan “mengandungi,” tetapi ini bukanlah satu-satunya atau makna yang diperlukan.
+
+Perkaitan di antara mezbah dan tempat yang maha kudus yang ditunjukkan di sini mungkin menyatakan bahawa fungsinya berkait rapat dengan bilik maha kudus. Ukupan yang dipersembahkan setiap hari di atas mezbah ini dihalakan terus kepada tutup pendamaian di tempat maha kudus. Di sana, Tuhan menyatakan kehadiranNya di antara kerub-kerub, dan ketika kemenyan naik bersama doa para penyembah, ia memenuhi tempat maha kudus dan juga tempat kudus. Tabir yang memisahkan kedua-dua bilik itu tidak memanjang mencapai siling tetapi hanya separuh sahaja. Oleh itu, ukupan itu sememangnya dipersembahkan di tempat kudus—satu-satunya tempat di mana para imam biasa boleh masuk—namun ia boleh sampai ke ruangan kedua, tempat di mana ia ditujukan.”—The SDA Bible Commentary, jil. 7, ms. 449.
+
+Kedua, perkataan yang digunakan oleh Paulus untuk “mezbah” (thymiatērion) mula digunakan dalam terjemahan Yunani Septuaginta Perjanjian Lama untuk merujuk kepada pedupaan itu sendiri (2 Taw. 26:19; Yehezkiel 8:11). Imam besar membawa pedupaan ini bersamanya ke dalam Tempat Maha Kudus pada Hari Pendamaian (Im. 16:12).
+
+Walau apapun, tumpuan Paulus nampaknya bukan kepada bilik dan perabotnya, kerana ayat 5 mengatakan, “Tetapi hal ini tidak dapat kita bicarakan sekarang secara terperinci.” Ayat ini menyiratkan bahawa lebih penting daripada perabot dan kedudukannya, perkara yang Paulus ingin nyatakan dengan merujuk kepada mereka adalah keunggulan korban Kristus.
+
+“Dupa, yang naik bersama-sama dengan doa orang Israel, menggambarkan merit dan pengantaraan Kristus, kebenaranNya yang sempurna, yang melalui iman dihubungkan kepada umatNya, yang hanya olehnya dapat menjadikan perbaktian manusia yang berdosa berkenan di hadapan Tuhan. Di hadapan tirai bilik yang maha suci itu terdapat sebuah mezbah pengantaraan yang berterusan. Oleh darah dan kemenyan, Tuhan harus didekati—lambang-lambang yang menunjuk kepada Pengantara yang agung itu, yang melaluinya orang-orang berdosa boleh datang dekat kepada Yehovah, dan hanya melalui Dia sahaja rahmat dan keselamatan dapat diberikan kepada orang yang percaya dan bertaubat.”—Ellen G. White, Patriarchs and Prophets, ms. 353.
+
+**Pengganti Kematian Kristus**
+
+Pengganti dan kepuasan adalah istilah yang telah menimbulkan banyak kritikan. Mengapa Tuhan memerlukan sejenis bentuk penggantian untuk hukuman dosa manusia? Apakah maksud pengganti? Pengganti dalam konteks ini bermaksud seseorang mengambil tempat orang lain untuk menanggung hukuman orang itu dengan tujuan menyelamatkannya.
+
+Mengenai istilah kedua, kepuasan, kita pasti bertanya ‘Apa yang perlu dipuaskan’? Adakah Alkitab menyokong konsep pengganti kematian? Pengganti berlaku dalam kes Abraham. Ketika dia berada di Gunung Moria untuk mengorbankan anaknya Ishak, “Abraham mengambil domba itu, lalu mengorbankannya sebagai korban bakaran pengganti anaknya” (Kej. 22:13, TB, diberikan penekanan). Dalam cerita Hari Paskah, nyawa diselamat melalui penggantian. Namun, anak-anak sulung lelaki yang terselamat adalah hanya dari keluarga yang telah mengorbankan seekor anak domba dan menyapu darah domba itu pada tiang pintu (Kel. 12:7, 13). Seluruh sistem korban adalah berdasarkan pengganti. Oleh kerana hukuman untuk dosa adalah maut, binatang pengganti itu dibunuh, dengan demikian menyelamatkan nyawa orang berdosa (Im. 17:11).
+
+Beralih kepada Perjanjian Baru, kita mendapati bahawa Yohanes Pembaptis mengenal pasti Yesus sebagai “Anak domba TUHAN yang menghapus dosa dunia!” (Yoh. 1:29, TB, penekanan diberikan). Paulus mengisytiharkan: “Sebab anak domba Paskah kita juga telah disembelih, yaitu Kristus” (1 Kor. 5:7, TB). Dalam surat kepada jemaat Efesus, Paulus yang sama ini secara terang-terangan mengatakan: “Kristus Yesus juga telah mengasihi kamu dan telah menyerahkan diri-Nya untuk kita sebagai persembahan dan korban yang harum bagi TUHAN” (Ef. 5:2, TB, diberikan penekanan). Dalam Roma, Paulus menyatakan: “Akan tetapi TUHAN menunjukkan kasih-Nya kepada kita, oleh karena Kristus telah mati untuk kita, ketika kita masih berdosa” (Rm. 5:8, TB, penekanan diberikan).
+
+Alkitab penuh dengan penggantian dan bahasa ‘menanggung dosa’. (Untuk lebih banyak contoh, lihat Yes. 53:12, Mrk. 10:45, 2 Kor. 5:14, 1 Tim. 2:6, Ibr. 9:28, 1 Ptr. 2:24.) Ibrani memahkotai topik ini dengan pernyataan yang tidak dapat dipertikaikan, walaupun sering diabaikan, bahawa “tanpa penumpahan darah tidak ada pengampunan” (Ibr. 9:22, LAI). Darah apa? Pasti ia bukan darah haiwan, kerana “Sebab tidak mungkin darah lembu jantan atau darah domba jantan menghapuskan dosa” (Ibr. 10:4, LAI). Oleh itu, ia semestilah darah, nyawa, Kristus.
+
+Yesus menanggung dosa kita dan mati untuk kita. Oleh itu, kita tidak boleh melihat Kristus sekadar pihak yang ketiga, individu yang terpisah daripada Tuhan dan manusia. Pandangan seperti ini akan memesongkan pemahaman tentang pendamaian. Kristus akan digambarkan sebagai Seseorang yang hanya mententeramkan Bapa. Tuhan pula, sebaliknya, akan digambarkan sebagai menghukum Yesus yang tidak bersalah, hanya supaya, kita, orang yang bersalah selamat. Kesatuan yang terputus antara Bapa dan Anak dapat dilihat sepenuhnya dalam pernyataan pendamaian besar Paulus di mana Bapa bertindak melalui Anak: “Dan semuanya ini [ciptaan baru dalam Kristus] dari TUHAN, yang dengan perantaraan Kristus telah mendamaikan kita” (2 Kor. 5:18, TB).
+
+Pengganti kita bukan Kristus sahaja, bukan Tuhan sahaja, tetapi Tuhan di dalam Kristus, yang merupakan Tuhan dan Manusia. Tuhan dalam Kristus menggantikan diriNya bagi kita. Oleh itu, bantahan terhadap penebusan ganti rugi hilang. Tidak ada sesuatu yang tidak bermoral (pelanggaran undang-undang) di sini, kerana Pengganti bagi pelanggar undang-undang adalah Pembuat Undang-undang, yang hanya boleh membuat penebusan untuk pelanggaran. Salib bukanlah transaksi tawar-menawar dengan syaitan. Namun sebagai Tuhan, Kristus mendamaikan kita dengan diriNya untuk “memuaskan tuntutan hukum yang dilanggar, dan dengan demikian Dia [Kristus] menjembatani jurang yang telah dibuat oleh dosa.”—Ellen G. White, Selected Messages, buku satu, ms. 341.
+
+#### Bahagian III: Penerapan
+
+`1.	Dalam konteks penggantian Kristus, pertimbangkan bahagian ulangan lagu pujian bertajuk “And Can It Be?” (The SDA Hymnal no. 198): “Cinta yang menakjubkan! Bagaimana mungkin Engkau, Tuhanku, mati untukku?” Apakah maksud sentimen ini kepada anda secara peribadi?`
+
+`2.	Mengapakah pengganti begitu penting kepada keseluruhan rancangan keselamatan? Apa yang ia katakan kepada kita tentang betapa jahatnya dosa yang memerlukan pengorbanan diri “Tuhan dalam Kristus” agar dapat menyelesaikan masalah itu dan menawarkan kepada kita pengharapan kehidupan kekal?`
