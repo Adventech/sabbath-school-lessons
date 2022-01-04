@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q1/Beginner/Student/B-22-Q1-L00.pdf'
+      target: en/2022-01-bg/introduction
+      title: Introduction
+      start_date: 25/12/2021
+      end_date: 25/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q1/Beginner/Student/B-22-Q1-L01.pdf'
+      target: en/2022-01-bg/01
+      title: God Made My World
+      start_date: 25/12/2021
+      end_date: 28/01/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q1/Beginner/Student/B-22-Q1-L02.pdf'
+      target: en/2022-01-bg/02
+      title: Noah's Big Boat
+      start_date: 29/01/2022
+      end_date: 28/02/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q1/Beginner/Student/B-22-Q1-L03.pdf'
+      target: en/2022-01-bg/03
+      title: Sarah's Baby
+      start_date: 25/03/2022
+      end_date: 25/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q1/Beginner/Student/B-22-Q1-Activities.pdf'
+      target: en/2022-01-bg/activities
+      title: Activities
+      start_date: 25/03/2022
+      end_date: 25/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q1/Beginner/Student/B-22-Q1-MemoryVerses.pdf'
+      target: en/2022-01-bg/memory-verses
+      title: Memory Verses
+      start_date: 25/03/2022
+      end_date: 25/03/2022
