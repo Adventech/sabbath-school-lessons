@@ -6,3 +6,8 @@
   end_date: "25/03/2022"
   color_primary: "#61949F"
   color_primary_dark: "#4C8090"
+  credits:
+    - name: Autor
+      value: "Félix H. Cortez"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
