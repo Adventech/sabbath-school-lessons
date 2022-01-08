@@ -1,0 +1,17 @@
+### Il ritratto di Gesù nella lettera agli Ebrei di Felix H. Cortez-Valles
+
+La prima volta che la vide fu in chiesa. Stava correndo a fare una commissione, assorto nei suoi pensieri, quando il suo sguardo si posò su un dipinto. Era alto circa due metri e largo tre, e la ragazza ritratta esercitò un certo fascino sul giovane. Perché non riusciva a staccare gli occhi da lei? Dopo averci riflettuto un po’, capì che si trattava dei suoi occhi. Il quadro ritraeva solo il suo volto, intento a osservare qualcosa. Ma che cosa, e perché l’attraeva tanto? Per diverso tempo, il ragazzo non riuscì a togliersi quel quadro dalla testa.
+
+Diversi anni dopo, il pittore Arnold Jiménes gli rivelò alcuni segreti. Il quadro era stato dipinto con la precisa intenzione di attrarre l’osservatore verso gli occhi della ragazza, ma il segreto vero era nelle sue pupille. Guardandole attentamente, e da vicino, si notava che in esse era riflesso l’oggetto del suo sguardo. I suoi occhi fissavano Gesù sulla croce.
+
+Il ritratto di Gesù nella Lettera agli Ebrei può esercitare su di noi un’analoga forza attrattiva. Per prima cosa, egli viene descritto quale Signore dell’universo, che siede alla destra di Dio. Un numero incalcolabile di angeli lo celebrano, lo adorano e lo servono (Eb 1:5-14; 12:22-24). Si è conquistato il diritto a governare perché con la sua morte ha assicurato la distruzione di Satana (2:14-16).
+
+Gesù viene poi ritratto nel ruolo di Sommo Sacerdote. Senza peccato, perfettamente santo, vive in eterno per mediare a nostro beneficio nel santuario del cielo (7:26-8:5). Si è conquistato questo diritto perché ha offerto se stesso quale perfetto sacrificio, per tutti e per sempre (10:1-14). Gesù ha inoltre mediato una nuova alleanza tra Dio e il suo popolo, che durerà per sempre (8:6-13).
+
+Ma ciò che cattura il lettore non è semplicemente quello che Gesù ha fatto, ma la sua vera essenza. Nato da donna, è stato tentato e deriso, proprio come succede a noi. Eppure, continua a conservare il potere nell’universo. Quando manteniamo lo sguardo fisso sulla scena celeste, popolata da diverse e straordinarie creature, i nostri occhi vengono attratti da colui che è al centro di tutto e che, incredibilmente, ci somiglia perché era diventato uno di noi. Gesù, nostro fratello, si trova lì, in cielo, per rappresentarci, nonostante l’onta del nostro peccato e della nostra condizione caduta. Nella sua persona si intersecano tre dimensioni della storia della redenzione.
+
+Per i lettori, stanchi dei rimproveri e delle difficoltà della vita cristiana (10:32-34), Gesù è colui che produce e perfeziona la fede. Bisogna guardare a lui, perché ha sofferto come noi per colpa dei peccatori (12:1-4). La seconda dimensione è quella collettiva. Per il popolo di Dio, in cammino verso la terra promessa, Gesù rappresenta il nuovo Giosuè, a noi la scelta di seguire la sua guida (capp. 3,4,11,12).
+
+La terza dimensione è universale. Gesù è il nuovo Adamo, il figlio dell’uomo nel quale si compiono i propositi di Dio per l’umanità (2:5-10; 12:22-28).
+
+Il ritratto di Gesù che ci fa trattenere il respiro, la vastità e la profondità dell’amore che Dio nutre per noi saranno i temi del trimestre. E così, come l’immagine di Gesù nelle pupille della ragazza hanno catturato l’attenzione del giovane, possa l’immagine di Cristo, rappresentata nella Lettera agli Ebrei, attrarre non solo il nostro sguardo, ma anche il nostro amore e l’ammirazione per lui, nostro fratello in cielo.
