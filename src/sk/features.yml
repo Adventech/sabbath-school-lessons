@@ -6,7 +6,7 @@
     image: "v1/images/features/feature_teacher_comments.png"
   inside-story:
     name: inside-story
-    title: Inside Story
+    title: Misijný príbeh
     description: Prečítajte si inšpiratívne misijné príbehy z celého sveta
     image: "v1/images/features/feature_inside_story.png"
   video:
