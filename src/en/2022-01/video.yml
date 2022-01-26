@@ -10,6 +10,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_3_98288820d6.png
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-4-jesus-our-faithful-brother/-/40038625/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_ynIgAuX6Xen_3ae069d24d.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-5-jesus-the-giver-of-rest/-/40038707/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_X3h4ZQqb1T2_dd05cb5052.jpg
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-221-1-WEEKLY-EN.mp4
@@ -61,6 +63,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-03.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-04.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-05.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -78,3 +82,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-03.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-04.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-04.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-05.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-05.webp
