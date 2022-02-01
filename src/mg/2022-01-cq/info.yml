@@ -6,6 +6,7 @@
   end_date: "25/03/2022"
   color_primary: "#DBA732"
   color_primary_dark: "#C88E0D"
+  quarterly_name: "Lesona Tanora Zokiny"
   splash: true
   credits:
     - name: Editor
