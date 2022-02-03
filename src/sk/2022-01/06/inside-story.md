@@ -1,38 +1,26 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  04/02/2022
 ---
 
-#### Statečná misionářka
+#### Statočná misionárka
 
 _Daisy Jung_
 
-Vždycky jsem byla zbabělá.
+Vždy som bola bojazlivá. Keď som sa nasťahovala do internátu vysokej školy v Južnej Kórei, musela som si večer pustiť kresťanskú hudbu, aby som zaspala. Potom mi na verejných toaletách vlakovej stanice ktosi ukradol 10 000 juhokórejských wonov (približne 7,5 eura). Odvtedy som sa bála ísť aj na verejné WC. 
 
-Když jsem se poprvé nastěhovala na kolej na akademii v Jižní Koreji, musela jsem poslouchat křesťanskou hudbu, abych večer usnula. Když mě nějací bezcitní studenti okradli na záchodě na nádraží o 10 000 jihokorejských wonů (asi 8 euro), bála jsem se znovu vstoupit na nádražní WC.
+Najväčší strach som však prežívala, keď som pôsobila ako študentská misionárka na vidieku na Filipínach. Pretože som bola mladá a cudzinka, začali sa o mňa zaujímať miestni mladí muži. Večer a v noci sa stretávali pri mojom dome, pískali na mňa a nazerali mi do okien. Začala som trpieť nespavosťou. Dokázala som zaspať až pri svitaní a to potom, čo som počúvala kresťanské piesne a čítala si z Biblie. 
 
-Můj strach vyvrcholil, když jsem rok sloužila jako studentská misionářka na filipínském venkově. Mladí muži, kteří byli na mě - mladou cizinku - zvědaví, se v noci shromažďovali kolem mého domu osvětleného svíčkami, pískali a občas nahlíželi do oken. Začala jsem trpět nespavostí a usínat jsem mohla až za svítání po poslechu křesťanské hudby a četbě Bible.
+Nervozita ma sprevádzala aj počas pobytu v južnej Ázii, kde teraz žijem spolu s manželom a dvoma synmi. Môj manžel bol neraz svedkom toho, ako dôkladne skontrolujem okolie, keď si chcem vo vlaku alebo autobuse aspoň na chvíľku zdriemnuť.  
 
-Moje úzkost mě následovala do jižní Asie, kde nyní žiji se svým manželem a dvěma syny. Manžel mě mnohokrát pozoroval, jak v autobusech nebo vlacích pečlivě kontroluji okolí, než zavřu oči a usnu.
+„Daisy,“ oslovil ma jedného dňa, „zaujímalo by ma, ako sa mohol niekto taký bojazlivý ako ty zapísať do misijnej služby.“ Bola to pravda. Bola som zbabelá misionárka. Preferovala som pobyt na bezpečných miestach.
 
-"Daisy," říkal, "opravdu by mě zajímalo, jak se člověk, který má takový strach jako ty, vůbec mohl přihlásit jako misionář."
+Potom sa však niečo zmenilo. Keď sme sa jedného dňa so synmi pri jedle rozprávali, povedala som chlapcom, že na svete bolo už veľa vojen. Sedemročný Saint, ktorý sa bojí rovnako ako jeho mama, sa ma opýtal: „Mami, na také miesta nemôžeme chodiť ako misionári, však?“
 
-Byla to pravda. Byla jsem zbabělá misionářka. Raději jsem zůstávala na bezpečných místech.
+„Áno, na nebezpečné miesta nemôžeme ísť,“ odpovedala som. „To znamená, že tam ľudia nepoznajú Ježiša?“ opýtal sa Saint. „Áno, veľa ľudí zomiera bez toho, aby poznali Ježiša.“
 
-Ale něco změnilo můj názor. Jednoho dne jsme se syny u jídla diskutovali o válce. Řekla jsem chlapcům, že po celém světě probíhá mnoho válek, a sedmiletý Saint, který má stejně jako jeho matka mnoho obav, se se zájmem zeptal: "Mami, tak do takových míst jako misionáři nemůžeme jít, že?"
+Na to mi Saint presvedčivo povedal: „Mami, tak poďme na tie nebezpečné miesta. Poďme tam a buďme misionármi.“
 
-"Ano, nemůžeme jít na nebezpečná místa," řekla jsem.
+Ako som mohla namietať proti takému presvedčeniu? „Dobre, niekedy tam pôjdeme,“ súhlasila som. Hlboko v srdci som však mala veľmi veľa otázok. Rozmýšľala som, či strach o vlastnú existenciu mi nebráni byť misionárom. Povedala som síce, že Bohu verím, ale nedôverujem mu náhodou iba vtedy, keď sa cítim v bezpečí?
 
-"Znamená to tedy, že tam lidé neznají Ježíše?", zeptal se Saint.
-
-"Ano, mnoho lidí tam umírá, aniž by znali Ježíše."
-
-Na to Saint řekl rozhodně: "Mami, tak do těch míst jděme. Pojďme tam a staňme se misionáři."
-
-Jak bych mohla něco namítat proti takovému přesvědčení? "Jednou to uděláme," souhlasila jsem.
-
-Hluboko v srdci jsem však měla mnoho otázek. Přemýšlel jsem: Jsem zde jako misionářka, ale strachuju se příliš o sebe? Říkám, že věřím v Boha, ale důvěřuji mu jen tehdy, když cítím, že je zajištěno mé vlastní bezpečí?
-
-Od tohoto rozhovoru se syny se moje každodenní modlitby změnily. Nyní se modlím: "Bože, prosím, dej mi mocnou víru. Dej mi srdce a víru k tomu milovat lidi, přiblížit se k nim a starat se o ně, která je větší než mé obavy o vlastní bezpečí."
-
-_Tento misijní příběh ilustruje misijní cíl číslo 1 strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): "Oživit koncept celosvětové misie a zasvěcení pro misii jako způsob života, který zapojuje nejen pastory, ale každého člena církve, mladého i starého, do radosti ze svědectví o Kristu a získávání učedníků." Více informací najdete na stránkách IWillGo2020.org._
+Moje každodenné modlitby sa od tohto rozhovoru zmenili. Teraz sa modlím za to, aby mi Boh dal silnú vieru. Aby mi dal pevné srdce a dôveru milovať ľudí, priblížiť sa k nim a starať sa o nich. Chcem, aby moja viera bola silnejšia ako strach.
