@@ -1,0 +1,54 @@
+---
+title:  Material Pentru Instructori
+date:  25/03/2022
+---
+
+**Texte-cheie:** Evrei 13; Romani 12:13; Efeseni 5:3-5; 1 Petru 5:1-4; Evrei 2:9; 4:16; Galateni 2:20.
+
+### I. Privire generală
+
+**Temele studiului**
+
+Pavel își încheie epistola cu numeroase sfaturi pentru destinatarii săi, ca ei să „[stăruie] în dragostea frățească” (Evrei 13:1, ca să „nu [dea] uitării primirea de oaspeți” (Evrei 13:2) și „[să-și aducă] aminte de cei ce sunt în lanțuri, ca și cum [ar fi] și ei legați cu ei” (Evrei 13:3). De asemenea, Pavel le mai dă și alte sfaturi: „căsătoria să fie ținută în toată cinstea” (Evrei 13:4); „să nu fiți iubitori de bani” (Evrei 13:5); „ascultați de mai-marii voștri și fiți-le supuși” (Evrei 13:17) și „rugați-vă pentru noi” (Evrei 13:18). Pe parcursul epistolei, Pavel îi invită în repetate rânduri pe credincioși să se îndemne „unii pe alții” (Evrei 3:13), „să [se îndemne] la dragoste și la fapte bune” (Evrei 10:24), precum și să ia seama bine „ca nimeni să nu se abată de la harul lui Dumnezeu, pentru ca nu cumva să dea lăstari vreo rădăcină de amărăciune, să [le] aducă tulburare și mulți să fie întinați de ele” (Evrei 12:15). În ansamblu, epistola este un „cuvânt de sfătuire” (Evrei 13:22).
+
+În timp ce îi încurajează să se iubească unii pe alții, Pavel nu așteaptă din partea lor reacții emoționale. Mai degrabă, îi îndeamnă la acțiuni specifice, precum manifestarea ospitalității, dărnicia față de cei întemnițați, manifestarea credincioșiei în cadrul căsătoriei și evitarea lăcomiei. La fel, când îi sfătuiește să-și aducă aminte de liderii lor, pe Pavel nu îl interesează exercițiul de memorie; mai degrabă, el dorește ca ei să-I fie credincioși lui Dumnezeu și, astfel, să asculte, să se supună și să îi respecte pe mai-marii lor. În final, Pavel îi avertizează să nu se ducă după învățături străine, ci să-L urmeze pe Domnul și învățătorul lor, Isus Hristos.
+
+### II. Comentariu
+
+**Învățăturile străine și mâncărurile**
+
+În Evrei 13:9, Pavel îi avertizează pe cei cărora le scrie: „Să nu vă lăsați amăgiți de orice fel de învățături străine, căci este bine ca inima să fie întărită prin har, nu prin mâncăruri, care n-au slujit la nimic celor ce le-au păzit”. Versetul acesta constituie cel mai dificil text din cartea Evrei. Ceea ce îl face să fie dificil este vaga aluzie pe care o face la contextul său istoric. Fiindcă nu putem stabili cu precizie situația exactă la care face referire întregul discurs, ar trebui să evităm să tragem concluzii prea forțate.
+
+În versetul precedent ni se spune că „Isus Hristos este același ieri și azi și în veci!” (Evrei 13:8). În contrast cu statornicia lui Isus se află sfatul de a nu fi amăgiți (în engleză, „purtați”) de tot felul de învățături străine. Metafora folosită în limba engleză, „a fi purtați”, evocă imaginea vântului și a apei care duc sau poartă cu sine lucrurile. Utilizarea acestei imagini ne reamintește de metafora din domeniul marinăresc pe care o folosește Pavel în Evrei 2:1: „ca să nu fim depărtați [duși în derivă] de ele”. În versetul acesta, Pavel a ținut mult să-i avertizeze pe credincioși să fie atenți la ce au auzit de la cei care L-au mărturisit pe Isus. La vremea aceea, credincioșii cărora Pavel le-a scris se aflau în pericolul de a se depărta de Isus. În capitolul 13, Pavel le reamintește de acei învățători și conducători neînfricați și îi somează să le imite credința (Evrei 13:7). În timp ce liderii vin și pleacă, Hristos nu Se schimbă niciodată. Totuși, rătăcirile pe tărâmul spiritual nu au încetat niciodată. Din acest motiv, destinatarii epistolei sunt în pericol de a fi amăgiți de învățături străine. Acestea par să fie în opoziție cu ceea ce credincioșii au auzit de la învățătorii și liderii lor și sunt descrise astfel: „de orice fel și străine” (Evrei 13:9).
+
+Pavel le spune că inima este întărită prin har, nu prin mâncăruri. Antiteza dintre hrană (care este trecătoare) și har (care este permanent) este o comparație utilizată adesea de scriitorii Bibliei pentru a arăta diferența dintre existența temporară și ceva mai bun. Pavel, de exemplu, afirmă: „Căci Împărăția lui Dumnezeu nu este mâncare și băutură, ci neprihănire, pace și bucurie în Duhul Sfânt” (Romani 14:17). Tot astfel, Pavel îi povățuiește pe creștinii din Corint: „Dar nu carnea ne face pe noi plăcuți lui Dumnezeu: nu câștigăm nimic dacă mâncăm din ea și nu pierdem nimic dacă nu mâncăm” (1 Corinteni 8:8). De fapt, mâncarea a adus deseori dezbinare în biserica primară (Romani 14:1-3), ca și astăzi.
+
+Care este problema specifică pe care Pavel o abordează în Romani 14:1-3? Unii specialiști susțin că membrii comunității de credincioși din Roma pledau în favoarea consumului de carne care era jertfită idolilor, o problemă similară cu problema cu care biserica din Corint s-a confruntat (1 Corinteni 8 și 10). Comparația dintre cartea Evrei și 1 Corinteni arată clar că în 1 Corinteni Pavel folosește un limbaj mult mai puternic cu privire la hrana jertfită idolilor (1 Corinteni 8:12) decât în Evrei („este bine ca inima să fie întărită prin har, nu prin mâncăruri” [Evrei 13:9]).
+
+O altă posibilitate, mai probabilă, cu privire la motivul care a inspirat avertizarea din Evrei 13:9 ar fi consumarea mâncărurilor care au fost aduse ca jertfă la templu. Ce anume susține această idee? Să luăm în considerare trei posibilități din Scriptură. În primul rând, contextul imediat pare să facă aluzie la consumarea mâncărurilor de la mesele dedicate jertfelor iudaice. Pavel afirmă: „Noi avem un altar din care n-au drept să mănânce cei ce fac slujbă în cort” (Evrei 13:10). Aici, Pavel se referă la preoții din Vechiul Testament care mâncau din darurile de jertfe aduse la cort.
+
+În al doilea rând, chiar termenul „mâncăruri” este folosit în Evrei 9:9,10, unde se spune: „daruri și jertfe [...] ele sunt doar niște porunci pământești, date ca toate cele privitoare la mâncăruri, băuturi și felurite spălături, până la o vreme de îndreptare”. În aceste versete, Pavel susține același lucru pe care îl susține iarăși în Evrei 13:9: jertfele ceremoniale nu pot curăța cugetul, ci, mai degrabă, ele au de-a face cu mâncărurile, cu băuturile și cu diferitele ritualuri de spălare din cadrul ceremoniei. Motivul pentru care credincioșii nu ar trebui să urmeze învățăturile străine este că aceste mâncăruri din cadrul jertfelor ceremoniale nu folosesc la nimic, nici măcar pentru cei care le practică (lit., „care umblă în ele”). Creștinii sunt părtași unei jertfe cu mult mai bune decât orice fel de mâncăruri de la jertfe (compară Evrei 13:10-12).
+
+În al treilea rând, termenul grecesc pentru „mâncăruri” (în Septuaginta, adică în traducerea în greacă a Vechiului Testament) este folosit în Maleahi 1:7,12 cu referire la bucatele pentru jertfele de pe altar. Preoții ofereau bucate necurate, definite ca fiind animalele oarbe, betege și șchioape aduse ca jertfă (Maleahi 1:7,8). În concluzie, toate cele trei motive – contextul imediat, contextul ulterior și contextul din Vechiul Testament – par să indice faptul că învățăturile străine despre mâncăruri au legătură cu mesele din cadrul jertfelor iudaice.
+
+**„Ascultați de mai-marii voștri și fiți-le supuși”**
+
+În sistemul de conducere democratic sau reprezentativ, îndemnul la ascultare și la supunere față de lideri sună destul de autoritar. Ar mai trebui să fie și astăzi valabil un asemenea îndemn? Dacă da, cum ar trebui noi, ca membri ai unei biserici mondiale, să răspundem?
+
+Numeroase cărți din Vechiul Testament conțin învățături importante cu privire la conducerea bisericii și, deci, nu ar trebui să ne surprindă faptul că și Epistola către evrei le conține. Liderii bisericii sunt menționați de trei ori (Evrei 13:7,17,24). În versetul 7 se face referire la ei ca la cei „care v-au vestit Cuvântul lui Dumnezeu”. Cel mai probabil, acești oameni au fost evangheliștii misionari din Evrei 2:3. Datorită lucrării lor de predicare și învățare, destinatarii epistolei lui Pavel au cunoscut „Cuvântul lui Dumnezeu” ca fiind „viu și lucrător, mai tăietor decât orice sabie cu două tăișuri” (Evrei 4:12).
+
+Trei verbe ne atrag atenția asupra acestor lideri: „aduceți-vă aminte”, „uitați-vă cu băgare de seamă” și „urmați-le” (Evrei 13:7). Așa cum vedem în epistolă, Pavel le-a oferit credincioșilor atât exemple negative (Evrei 4:11), cât și exemple pozitive (Evrei 11:4-38) pe care să le evite și, respectiv, să le imite. În acest punct, cititorii ar trebui să se gândească la influența felului de viețuire al conducătorilor lor. Această reflecție presupune că obiectivele conducătorilor au fost atinse. Deci, credincioșii pot acum să analizeze traseul eforturilor depuse de conducătorii lor și să le imite conduita caracterizată de credincioșie.
+
+Ulterior, pe parcursul capitolului, observăm că se face din nou referire la conducere și la modul în care membrii bisericii ar trebui să se raporteze la lideri: „Ascultați de mai-marii voștri și fiți-le supuși, căci ei priveghează asupra sufletelor voastre ca unii care au să dea socoteală de ele, pentru ca să poată face lucrul acesta cu bucurie, nu suspinând, căci așa ceva nu v-ar fi de niciun folos” (Evrei 13:17). Autoritatea liderilor derivă din credincioșia cu care își aduc la îndeplinire sarcina lor, „căci ei priveghează asupra sufletelor voastre” (Evrei 13:17). Atunci când liderii își iau în serios responsabilitățile, ei pot să-i ferească pe membrii comunității să se lase amăgiți de orice fel de învățături străine și să consume acele mâncăruri care nu sunt de niciun folos nici măcar pentru cei care le consumă. În același timp, liderii buni sunt conștienți că rolul pe care îl dețin necesită un simț al răspunderii, așa cum este ilustrat de cei doi robi din parabola lui Isus (Matei 24:45-51).
+
+În final, Pavel îi cheamă pe cititorii săi să asculte de mai-marii lor și să le fie supuși pentru ca aceștia să-și poată face datoria cu bucurie, și nu cu suspine. Bucuria evocă atitudinea cu care credincioșii au acceptat răpirea averilor lor (Evrei 10:34). Tocmai bucuria aceasta a constituit motivul pentru care Isus a suferit crucea și a disprețuit rușinea (Evrei 12:2). Lucrarea liderilor este ușurată și o pot face cu bucurie atunci când membrii sunt supuși și ascultă de ei. Dar când nu se întâmplă așa, lucrarea lor este îngreunată. Potrivit lui Pavel, în asemenea condiții liderii oftează și biserica nu culege niciun rod bun. Așadar, o colaborare plină de succes între lideri și membri necesită încredere și bunăvoință.
+
+### III. Aplicație
+
+Dacă, în trecut, liderii bisericii au suferit abuzuri în anumite situații sau în anumite părți ale lumii unde regimurile politice au îngreunat conducerea bisericii, cum putem restabili acea armonie între lideri și membri despre care vorbește cartea Evrei?
+
+1. De ce în unele culturi există o atât de mare aversiune împotriva autorității?
+
+2. Liderii ar trebui ascultați doar dacă suntem de acord cu ei?
+
+3. Ce criterii de urmare a liderilor ne oferă Pavel în Evrei 13?
