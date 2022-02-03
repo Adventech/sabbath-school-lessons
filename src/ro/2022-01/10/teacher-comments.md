@@ -1,6 +1,6 @@
 ---
-title:  Material Pentru Instructori
-date:  04/03/2022
+title: 'Material Pentru Instructori'
+date: 04/03/2022
 ---
 
 **Texte-cheie:** Evrei 9:24; Exodul 19:3,4; Evrei 12:18-21; Leviticul 16:1,2; Evrei 10:19-24; Coloseni 3:1.

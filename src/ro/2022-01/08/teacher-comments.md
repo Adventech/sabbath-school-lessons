@@ -1,6 +1,6 @@
 ---
-title:  Material Pentru Instructori
-date:  18/02/2022
+title: 'Material Pentru Instructori'
+date: 18/02/2022
 ---
 
 **Texte-cheie:** Evrei 7:11-19; 8:10-12; Ieremia 31:31-34; Evrei 8:1-6; Exodul 24:1-8; Ezechiel 36:26,27.

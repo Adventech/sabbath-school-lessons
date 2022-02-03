@@ -1,6 +1,6 @@
 ---
-title:  Material Pentru Instructori
-date:  25/03/2022
+title: 'Material Pentru Instructori'
+date: 25/03/2022
 ---
 
 **Texte-cheie:** Evrei 13; Romani 12:13; Efeseni 5:3-5; 1 Petru 5:1-4; Evrei 2:9; 4:16; Galateni 2:20.

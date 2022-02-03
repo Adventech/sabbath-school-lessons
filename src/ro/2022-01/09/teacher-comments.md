@@ -1,6 +1,6 @@
 ---
-title:  Material Pentru Instructori
-date:  25/02/2022
+title: 'Material Pentru Instructori'
+date: 25/02/2022
 ---
 
 **Texte-cheie:** Evrei 9:15; Geneza 15:6-21; Ieremia 34:8-22; Efeseni 3:14-19; Evrei 7:27; 10:10; 9:22-28.

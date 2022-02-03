@@ -1,6 +1,6 @@
 ---
-title:  Material Pentru Instructori
-date:  11/02/2022
+title: 'Material Pentru Instructori'
+date: 11/02/2022
 ---
 
 **Texte-cheie:** Evrei 6:4-6; Matei 16:24; Romani 6:6; Evrei 10:26-29; 6:9-13; 6:17-20.
