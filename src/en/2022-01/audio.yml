@@ -274,6 +274,18 @@
           target: en/2022-01/05/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-27.mp3
           target: en/2022-01/05/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-29.mp3
+          target: en/2022-01/06/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-30.mp3
+          target: en/2022-01/06/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-31.mp3
+          target: en/2022-01/06/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-02-01.mp3
+          target: en/2022-01/06/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-02-02.mp3
+          target: en/2022-01/06/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-02-03.mp3
+          target: en/2022-01/06/06
     - artist: The Sound of Scripture
       tracks:
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Hebrews_10_36_NKJV.mp3

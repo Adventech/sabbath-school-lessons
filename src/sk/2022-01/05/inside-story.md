@@ -1,44 +1,30 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  28/01/2022
 ---
 
-#### Nalezení pokoje
+#### Našiel som pokoj
 
 _Andrew McChesney_
 
-Byl to nejhorší den Yeanova života.
+Bol to najhorší deň v jeho živote. K Yeanovi prišiel dedinský šaman a oznámil mu, že čoskoro zomrie. Stalo sa to v odľahlej dedine štátu Laos.
 
-V jejich vesnici v jižním Laosu k němu přišel šaman a oznámil mu, že zemře.
+„Nie je na svete nikto, kto by ti mohol pomôcť,“ dodal šaman vážnym hlasom. Yeana to veľmi vystrašilo. Všetci v dedine verili, že šaman hovorí vždy pravdu. Nemohol predsa klamať.
 
-"A není nikdo, kdo by ti mohl pomoci," řekl vážně šaman.
+Yean však nechcel zomrieť. Strach ho tak paralyzoval, že nedokázal jesť ani spať. Jeho manželka si všimla, že niečo nie je v poriadku. 
 
-Yean byl vyděšený. Lidé v jeho vesnici věřili, že šaman mluví vždy pravdu. Nemohl lhát.
+„Čo sa stalo?“ spýtala sa ho. Yean jej porozprával, ako sa stretol s dedinským šaman a čo mu povedal. „Zomieram a vôbec neviem, čo mám robiť,“ povedal nakoniec. Ani jeho manželka nevedela, čo si počať.
 
-Yean nechtěl zemřít. Byl tak vyděšený, že nemohl jíst ani spát.
+Po nejakom čase sa dopočul o malej skupinke kresťanov, ktorí sa stretávali každú sobotu a mali spoločnú bohoslužbu. Yean nikdy nebol v kresťanskom spoločenstve. Rozhodol sa, že ich navštívi a zistí, či by nemohli poprosiť svojho Boha, aby mu pomohol. 
 
-Brzy si jeho žena všimla, že je něco strašně špatně.
+Nasledujúcu sobotu Yean spolu s manželkou prišli do zboru Cirkvi adventistov siedmeho dňa. Yean prítomným porozprával, ako sa stretol so šamanom a že má strach zo smrti.
 
-"Co se stalo?" zeptala se.
+Členovia zboru si vypočuli jeho príbeh a porozprávali mu o Ježišovi a jeho moci, ktorý ho môže nielen zachrániť od kliatby smrti, ale dokonca mu darovať večný život. Z Biblie mu prečítali Božie zasľúbenie zapísané v Jánovom evanjeliu 3,16: „Veď Boh tak miloval svet, že dal svojho jednorodeného Syna, aby nik, kto verí v neho, nezahynul, ale mal večný život.“
 
-Yean jí vyprávěl o svém setkání se šamanem.
+Posolstvo o Ježišovi naplnilo Yeanovo srdce radosťou. Jeho vnútro naplnil pokoj, ktorý mu môže ponúknuť len Ježiš: „Pokoj vám zanechávam, svoj pokoj vám dávam, ale ja vám ho dávam, nie ako svet dáva. Nech sa vám srdce neznepokojuje a neľaká.“ (Ján 14,27)
 
-"Já umřu," řekl.
+Zo zboru odchádzal celý nadšený. Túto radostnú správu si nemohol nechať len pre seba. Svojim susedom a ostatným dedinčanom rozprával o pokoji, ktorý mu Ježiš daroval. Celou cestou domov mal na tvári široký úsmev. Bol to najkrajší deň jeho života.
 
-Nevěděl, co má dělat. Jeho žena nevěděla, co má dělat.
+Yean stále žije a má sa dobre. Dodnes neprestal navštevovať zbor, kde sa prvýkrát stretol s Ježišom a našiel pokoj.
 
-Pak se doslechl o malé skupince křesťanů, kteří se v sobotu scházeli k bohoslužbám. Nikdy nebyl uvnitř křesťanského sboru, ale rozhodl se zjistit, zda by křesťané mohli požádat svého Boha, aby mu pomohl.
-
-Příští sobotu se Yean se svou manželkou objevili ve sboru adventistů sedmého dne. Členům sboru řekl o šamanovi a o svém strachu ze smrti.
-
-Poté, co ho vyslechli, mu členové sboru řekli o Ježíši. Řekli, že Ježíš má moc nejen ho zachránit před šamanem předpovězenou smrtí, ale také mu nabídnout věčný život. V jejich Bibli bylo zaslíbení: "Neboť Bůh tak miloval svět, že dal svého jednorozeného Syna, aby žádný, kdo v něho věří, nezahynul, ale měl život věčný" (Jan 3,16).
-
-Yean byl radostí bez sebe, když se o Ježíši dozvěděl! Mohl si nárokovat pokoj, který nabízí pouze Ježíš: "Pokoj vám zanechávám, svůj pokoj vám dávám; ne jako dává svět, já vám dávám. Ať se srdce vaše nechvěje a neděsí!" (Jan 14,27).
-
-Když odcházel ze sboru, byl tak šťastný, že si tu dobrou zprávu nemohl nechat pro sebe. Dychtivě se o pokoj, který mu Ježíš daroval, podělil s ostatními vesničany. Domů odcházel s širokým úsměvem na tváři. Byl to nejlepší den jeho života!
-
-Dnes je Yean živý a zdravý a navštěvuje sbor, kde poprvé našel Ježíše.
-
-_Děkujeme vám za vaše misijní dary při sobotní škole, které pomáhají šířit evangelium lidem v Laosu a dalších zemích Jižní asijsko-pacifické divize, kam poputují dary třinácté soboty v tomto čtvrtletí._
-
-_Tento misijní příběh ilustruje misijní cíl číslo 2 strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): "Posílit a diverzifikovat adventistické působení... mezi nezasaženými a nedostatečně oslovenými skupinami lidí a mezi nekřesťanskými náboženstvími.". Více informací najdete na stránkách IWillGo2020.org._
+_Ďakujeme za vaše misijné dary, ktoré podporujú šírenie evanjelia medzi obyvateľmi Laosu a ostatných krajín Juhoázijskej-pacifickej divízii Cirkvi adventistov siedmeho dňa. Práve pre túto oblasť sú určené dary trinástej soboty v tomto štvrťroku._
