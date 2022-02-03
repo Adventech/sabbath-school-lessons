@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L00.pdf
+      target: zh/2022-01-hant/01
+      title: 介紹
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L01.pdf
+      target: zh/2022-01-hant/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L02.pdf
+      target: zh/2022-01-hant/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L03.pdf
+      target: zh/2022-01-hant/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L04.pdf
+      target: zh/2022-01-hant/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L05.pdf
+      target: zh/2022-01-hant/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L06.pdf
+      target: zh/2022-01-hant/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L07.pdf
+      target: zh/2022-01-hant/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L08.pdf
+      target: zh/2022-01-hant/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L09.pdf
+      target: zh/2022-01-hant/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L10.pdf
+      target: zh/2022-01-hant/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L11.pdf
+      target: zh/2022-01-hant/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L12.pdf
+      target: zh/2022-01-hant/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/zh-hant/ABSG-2022-01-ZH-HANT-L13.pdf
+      target: zh/2022-01-hant/13
