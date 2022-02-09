@@ -14,6 +14,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_X3h4ZQqb1T2_dd05cb5052.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-6-jesus-the-faithful-priest/-/40038770/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_ajq864mLe2k_178f6f6689.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-7-jesus-the-anchor-of-the-soul/-/40038811/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_zckGApyqHhh_9b3176a979.jpg
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-221-1-WEEKLY-EN.mp4
@@ -69,6 +71,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-05.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-06.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-07.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -94,3 +98,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-05.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-06.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-06.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-07.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-07.webp
