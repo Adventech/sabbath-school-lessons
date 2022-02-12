@@ -250,6 +250,54 @@
           target: en/2022-01/03/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-13.mp3
           target: en/2022-01/03/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-15.mp3
+          target: en/2022-01/04/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-16.mp3
+          target: en/2022-01/04/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-17.mp3
+          target: en/2022-01/04/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-18.mp3
+          target: en/2022-01/04/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-19.mp3
+          target: en/2022-01/04/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-20.mp3
+          target: en/2022-01/04/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-22.mp3
+          target: en/2022-01/05/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-23.mp3
+          target: en/2022-01/05/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-24.mp3
+          target: en/2022-01/05/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-25.mp3
+          target: en/2022-01/05/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-26.mp3
+          target: en/2022-01/05/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-27.mp3
+          target: en/2022-01/05/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-29.mp3
+          target: en/2022-01/06/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-30.mp3
+          target: en/2022-01/06/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-01-31.mp3
+          target: en/2022-01/06/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-02-01.mp3
+          target: en/2022-01/06/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-02-02.mp3
+          target: en/2022-01/06/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/01/2022-02-03.mp3
+          target: en/2022-01/06/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/02/2022-02-05.mp3
+          target: en/2022-01/07/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/02/2022-02-06.mp3
+          target: en/2022-01/07/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/02/2022-02-07.mp3
+          target: en/2022-01/07/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/02/2022-02-08.mp3
+          target: en/2022-01/07/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/02/2022-02-09.mp3
+          target: en/2022-01/07/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/02/2022-02-10.mp3
+          target: en/2022-01/07/06
     - artist: The Sound of Scripture
       tracks:
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Hebrews_10_36_NKJV.mp3
