@@ -117,3 +117,5 @@
           target: es/2022-01/08/07
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-9-SABADO.mp3
           target: es/2022-01/09/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-9-DOMINGO.mp3
+          target: es/2022-01/09/02
