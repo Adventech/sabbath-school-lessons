@@ -102,3 +102,7 @@
           target: hu/2022-01/07/07
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220212.mp3
           target: hu/2022-01/08/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220213.mp3
+          target: hu/2022-01/08/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220214.mp3
+          target: hu/2022-01/08/03
