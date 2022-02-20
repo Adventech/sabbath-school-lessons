@@ -7,7 +7,7 @@ date:   04/02/2022
 
 _par Daisy Jung_
 
-J’ai toujours été lâche. Quand j’étais arrivée dans un dortoir d’académie en Corée du Sud, j’écoutais de la musique chrétienne pour m’endormir la nuit. Lorsque des étudiants méchants m’ont volé 10 000 wons sud-coréens (environ $10 US) dans la salle de bain de la gare, j’eus peur d’entrer à nouveau dans cette salle de bain.
+J’ai toujours été lâche. Quand j’étais arrivée dans un dortoir d’académie en Corée du Sud, j’écoutais de la musique chrétienne pour m’endormir la nuit. Lorsque des étudiants méchants m’ont volé 10 000 wons sud-coréens (environ 10 USD) dans la salle de bain de la gare, j’eus peur d’entrer à nouveau dans cette salle de bain.
 
 Mes craintes grandirent quand je servis pendant un an en tant que missionnaire étudiante dans les Philippines rurales. Les jeunes gens qui étaient curieux de moi, une jeune femme étrangère, se rassemblaient autour de ma maison éclairée aux chandelles la nuit, sifflant et parfois regardant à travers les fenêtres. Je commençai à souffrir d’insomnie et ne pouvais m’endormir qu’à l’aube après avoir écouté de la musique chrétienne et lu la Bible.
 
