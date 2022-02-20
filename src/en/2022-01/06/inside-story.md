@@ -9,7 +9,7 @@ _By Daisy Jung_
 
 I always was a coward.
 
-When I first moved into an academy dormitory in South Korea, I had to listen to Christian music to fall asleep at night. When some unkind students robbed me of 10,000 South Korean won (about USD 10) in the bathroom at the train station, I was scared to enter the train station’s bathroom again.
+When I first moved into an academy dormitory in South Korea, I had to listen to Christian music to fall asleep at night. When some unkind students robbed me of 10,000 South Korean won (about US$10) in the bathroom at the train station, I was scared to enter the train station’s bathroom again.
 
 My fears peaked when I served for a year as a student missionary in the rural Philippines. Young men who were curious about me—a young foreign woman—gathered around my candlelit house at night, whistling and sometimes peering into the windows. I began to suffer insomnia and could fall asleep only at dawn after listening to Christian music and reading the Bible.
 
