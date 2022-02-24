@@ -13,7 +13,7 @@ Sans argent pour consulter un médecin, Khamla (pas son vrai nom) eut recours à
 
 Enfin, voyant son désespoir, quelqu’un lui parla d’un pasteur adventiste du septième jour qui aidait beaucoup de gens par téléphone cellulaire. L’homme appela le pasteur Sadua Lee et demanda de l’aide.
 
-Ce n’était pas facile de passer un coup de fil. Faire des appels téléphoniques était un luxe, coûtant 700 Kips laotiens (8 centimes de dollar) par minute. À l’époque, un tiers de la population vivait avec moins de 1,25 $ par jour, et près des deux tiers vivaient avec moins de 2 $ par jour. Le malade supplia pasteur Sadua de le guérir.
+Ce n’était pas facile de passer un coup de fil. Faire des appels téléphoniques était un luxe, coûtant 700 Kips laotiens (8 centimes de dollar) par minute. À l’époque, un tiers de la population vivait avec moins de 1,25 USD par jour, et près des deux tiers vivaient avec moins de 2 USD par jour. Le malade supplia pasteur Sadua de le guérir.
 
 - Je ne suis personne, répondit le pasteur. « Je ne peux pas vous guérir. Mais mon Dieu, qui s’appelle Jésus, peut vous guérir si c’est Sa volonté. Tout ce que nous avons à faire est de lui demander. »
 

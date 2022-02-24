@@ -131,3 +131,13 @@
           target: es/2022-01/09/07
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-10-SABADO.mp3
           target: es/2022-01/10/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-10-DOMINGO.mp3
+          target: es/2022-01/10/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-10-LUNES.mp3
+          target: es/2022-01/10/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-10-MARTES.mp3
+          target: es/2022-01/10/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-10-MIERCOLES.mp3
+          target: es/2022-01/10/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2021/12/LECCION-10-JUEVES.mp3
+          target: es/2022-01/10/06
