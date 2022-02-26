@@ -1,32 +1,27 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  18/02/2022
 ---
 
-#### Sobota nebo stipendium?
+#### Sobota alebo škola?
 
 _Andrew McChesney_
 
-Byla to nabídka, kterou dívka, adventistka sedmého dne, nemohla odmítnout: plné stipendium ke studiu na soukromé ne-křesťanské škole.
+Bola to ponuka, ktorá sa neodmieta: plné štipendium na štúdium v súkromnej škole. 
 
-Malevelev vyrůstala v adventistické rodině a byla vedena k tomu, aby při všech svých rozhodnutích pamatovala na Boha. Plánovala, že až dokončí šestou třídu, nastoupí na Tchajwanskou adventistickou akademii. Pak se v její vesnici objevili náboráři ze soukromé školy a nabídli jí plné stipendium.
+Malevelev vyrástla v adventistickej rodine, kde ju učili, že má pamätať na Boha a jeho vôľu vo všetkých svojich rozhodnutiach. Po skončení šiesteho ročníka plánovala nastúpiť na Adventistickú akadémiu v Taiwane. Do ich dediny však prišli pracovníci inej súkromnej školy a ponúkli jej plné štipendium na štúdium v ich škole.
 
-Školné na Tchajwanské adventistické akademii bylo vysoké a pro její rodiče by bylo obtížné si ho dovolit. Požádali dívku, aby šla na soukromou školu.
+Poplatky na adventistickej akadémii sú dosť vysoké. Pre rodičov by nebolo jednoduché zabezpečiť dcére dostatočnú finančnú podporu. Poprosili ju preto, aby šla na súkromnú školu, ktorá jej dala lepšiu ponuku. 
 
-Během letních prázdnin Malevelev školu navštívila a zjistila, že bude muset chodit na vyučování i v sobotu. Nemohla by chodit do sboru na bohoslužby. Vypukl v ní konflikt: Má přijmout stipendium, nebo dodržovat sobotu? Věděla, že by si měla vybrat sobotu.
+Cez letné prázdniny sa Malevelev šla pozrieť do svojej budúcej školy. Zistila, že tam sa vyučuje aj v sobotu. To by znamenalo, že nebude môcť navštevovať pobožnosti v zbore. V jej vnútri sa rozpútal boj. Má uprednostniť štipendium alebo prikázanie o sobote? Vedela, že má zostať verná Božím nariadeniam.
+Na konci prázdnin na ňu rodičia naliehali, aby nastúpila na súkromnú školu. Bola znechutená a veľmi vrúcne sa modlila. „Bože, pomôž mi,“ hovorila v modlitbe. „Ukáž mi, čo mám robiť.“
 
-Na konci léta rodiče od Malevelev trvali na tom, aby chodila do soukromé školy. Dívka se cítila strašně sklíčená a vroucně se modlila.
+Potom nabrala odvahu a šla sa porozprávať s rodičmi. „Chcem ísť na Adventistickú akadémiu v Taiwane,“ povedala im. „Nebudem chodiť v sobotu do školy, pretože v sobotu chcem navštevovať  bohoslužby v zbore.“
 
-"Bože, pomoz mi," modlila se. "Ukaž mi, co mám dělat."
+Vysvetlila im, že chce zostať verná Bohu aj tým, že bude dodržiavať všetkých desať prikázaní, teda aj štvrté: „Pamätaj na sobotný deň, že ho máš svätiť!“ (2 Moj 20,8)
 
-Sebrala odvahu a laskavě, ale pevně promluvila k rodičům. "Chci jít na Tchajwanskou adventistickou akademii," řekla. "Nebudu chodit na vyučování v sobotu, protože chci chodit do sboru."
+„Nechcem zradiť pravdy, ktoré ma učil môj starý otec,“ dodala.
 
-Vysvětlila své přání zůstat věrná Bohu tím, že bude dodržovat všech deset přikázání, včetně čtvrtého: "Pamatuj na sobotní den, aby ti byl svatý" (2. Mojžíšova 20,8).
+Keď rodičia videli jej pevné rozhodnutie, dovolili jej nastúpiť na adventistickú akadémiu. Malevelev tam študuje už päť rokov. „Mám tu úžasných učiteľov aj spolužiakov. Sme ako jedna veľká rodina,“ povedala. „Mám tu veľa priateľov, ktorí sú kresťania rovnako ako ja. Spolu mávame ranné a večerné pobožnosti, modlíme sa spolu a spolu aj študujeme. Užívam si každý okamih, ktorý s nimi v škole strávim.“
 
-"Nechci zradit pravdu, kterou mě učil můj dědeček," řekla.
-
-Když rodiče viděli dívčino odhodlání, dovolili jí studovat na Adventistické akademii. Malevelev studuje na této škole již pět let a je v 11. třídě. "Mám skvělé učitele a spolužáky, jsme jako jedna velká rodina," řekla. "Našla jsem si mnoho křesťanských přátel. Máme společné ranní a večerní pobožnosti, společně se modlíme a společně studujeme. Vážím si každé chvilky ve škole."
-
-Malevelev jde do budoucnosti s nadějí. "Vím, že mě Bůh povede a naplní svůj úžasný plán se mnou," řekla. "Když potřebujete udělat důležité rozhodnutí, věřte v Boha a rozhodněte se podle jeho vůle a zalíbení. Neustále se povzbuzuji veršem [Kazatel 12,1]. Nyní se s vámi dělím o své tajemství. Kéž vám Bůh požehná."
-
-_Tento misijní příběh ilustruje následující součásti strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): Cíl duchovního růstu číslo 7: "Pomáhat mládeži a mladým dospělým klást Boha na první místo a být příkladem v biblickém pohledu na svět.". Více informací o strategickém plánu najdete na stránkách IWillGo2020.org._
+Malevelev žije nádejou do budúcnosti. „Viem, že Boh ma bude viesť a splní pri mne svoj úžasný plán,“ dodala. „Ak potrebujete urobiť dôležité rozhodnutie, dôverujte Bohu a rozhodnite sa podľa jeho vôle. V ťažkých situáciách nachádzam potešenie v knihe Kazateľ 12,1. Teraz som vám prezradila svoje tajomstvo. Nech vás Boh žehná.“
