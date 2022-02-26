@@ -1,40 +1,32 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  04/03/2022
 ---
 
-#### Bůh je nejlepší svědek
+#### Boh je najlepší svedok
 
 _Anna Likholet_
 
-V osmnácti letech jsem toužila sdílet Ježíše s ostatními. Ale měla jsem strach.
+Keď som mala 18 rokov, túžila som ľuďom so svojom okolí hovoriť o Ježišovi. Mala som však strach. Potom som musela podstúpiť operáciu. Bola som hospitalizovaná v nemocnici v meste Tula, ktoré je vzdialené približne dve a pol hodiny cesty autom od ruského hlavného mesta, Moskvy. Keď som prišla na nemocničnú izbu, tri zo šiestich postelí boli už obsadené. Moja operácia bola naplánovaná na ďalší deň, preto som rozmýšľala, čo budem robiť. Čo asi tak robia ľudia deň pred operáciou? Rozhodla som sa, že si niečo prečítam. Otvorila som si Bibliu. 
 
-Pak jsem potřebovala na operaci a byla jsem hospitalizována v Tule, městě vzdáleném asi dvě a půl hodiny jízdy autem od hlavního města Ruska, Moskvy. Když jsem přijela, tři ze šesti lůžek v mém pokoji byly obsazené. Moje operace byla naplánována na následující den. Co bych měla dělat? Co dělá člověk před operací? Přemýšlel jsem. A pak jsem otevřela svou Bibli.
+Žena, ktorá ležala na posteli oproti mne, sa hneď opýtala: „Si kresťanka?“
 
-Žena naproti mně se okamžitě zeptala: "Jste křesťanka?"
+„Áno,“ odpovedala som.
 
-"Ano," odpověděla jsem.
+Potom chcela vedieť, do akej cirkvi patrím. Nechcela som, aby sa mi vysmievala kvôli tomu, že som adventistka siedmeho dňa. Väčšina Rusov patrí k tradičným kresťanským denomináciám a cirkev adventistov považujú za sektu. „Som protestantka,“ odvetila som po krátkej úvahe.
 
-Pak chtěla vědět, do které církve chodím. Nechtěl jsem, aby se mi posmívala, že jsem adventistka sedmého dne. Mnoho Rusů patří k jiné křesťanské denominaci a adventisty odmítají jako členy sekty. "Jsem protestant," řekl jsem.
+Žene to však nestačilo. „A do ktorej protestantskej cirkvi patríš?“ spýtala sa.
 
-Ženě to ale nestačilo. "Ke které protestantské církvi patříte?" zeptala se.
+Čo iné som mohla povedať, než pravdu? „Som adventistka siedmeho dňa.“
 
-Co jsem mohl říct? "Jsem adventistka sedmého dne," řekla jsem.
+„Naozaj? Adventistka siedmeho dňa?“ povedala udivene. „Poznám tú cirkev! Sú to najlepší ľudia!“
 
-"Páni, adventistka sedmého dne!" vykřikla. "Já znám adventisty! Jsou to ti nejlepší lidé!"
+Žena s neskrývaným nadšením začala rozprávať o našej cirkvi, o tom, čo robíme a tiež o Adventistickej univerzite Zaokskij, ktorá sídli neďaleko mesta Tula. Zvyšné dve pacientky ticho ležali a počúvali. O Cirkvi adventistov doteraz nepočuli. 
 
-Žena nadšeně vyprávěla o církvi, její práci a Zaokskij adventistické univerzitě, která se nachází u Tuly. Další dva pacienti mlčky naslouchali. O církvi adventistů nikdy neslyšeli.
+„Adventisti sú veľmi dobrí kresťania!“ povedala žena. „Môj otec pozná osobne niekoľko milých adventistov.“
 
-"Adventisté jsou dobří křesťané!" řekla žena. "Můj otec zná několik milých adventistů."
+Ako tak rozprávala, do našej izby vstúpil lekár. Zdalo sa, že je prekvapený, že tú ženu vidí na našej izbe. „Čo tu ešte robíte?“ spýtal sa. „Ako to myslíte, pán doktor?“ opýtala sa pani prekvapene.
 
-Když ještě mluvila, vstoupil do místnosti lékař. Byl překvapen, že ji vidí. "Co tady děláte?" zeptal se.
+„Včera som nariadil, že máte byť prepustená,“ odvetil. „Mali ste byť už dávno doma.“ Jej manžel po ňu prišiel do tridsiatich minút. 
 
-"Jak to myslíte?" odpověděla.
-
-"Včera jsem nařídil, abyste byla propuštěna," řekl. "Už byste měla být doma."
-
-Její manžel ji vyzvedl během třiceti minut.
-
-Bůh vyslyšel mé modlitby nečekaným způsobem. Sám se odhalil svým způsobem v mém nemocničním pokoji. Bůh udělal všechno. Díky tomu ostatní pacienti věděli, že jsem adventistka a že adventisté milují Ježíše. Pokud se o něj toužíte podělit, On to může zařídit. On pro vás udělá všechno.
-
-_Tento misijní příběh ilustruje misijní cíl číslo 1 strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): "Oživit koncept celosvětové misie a zasvěcení pro misii jako způsob života, který zapojuje nejen pastory, ale každého člena církve, mladého i starého, do radosti ze svědectví o Kristu a získávání učedníků." Více informací najdete na stránkách IWillGo2020.org._
+Boh odpovedal na moje modlitby nečakaným spôsobom. Uprostred nemocničnej izby sa nám dal poznať svojím vlastným spôsobom. Boh urobil všetko. Výsledkom toho bolo, že ostatní pacienti vedeli, že som adventistka a že adventisti milujú Ježiša Krista. Ak túžite šíriť evanjelium o Bohu, Boh to dokáže zariadiť. Urobí pre vás čokoľvek.
