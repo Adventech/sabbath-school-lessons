@@ -1,34 +1,30 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  25/02/2022
 ---
 
-#### Zavolání evangelia
+#### Telefonát
 
 _Andrew McChesney_
 
-Khamla, živitel rodiny, na laoském venkově onemocněl. Nohy mu ztěžkly natolik, že nemohl chodit. Tři měsíce byl upoután ke svému domu.
+Khamla (pravé meno bolo zmenené) je jediný živiteľ rodiny. Pochádza z odľahlej vidieckej oblasti Laosu. Postihla ho vážna choroba, kvôli ktorej prestal chodiť. Tri mesiace bol pripútaný na lôžko. 
 
-Protože neměl peníze na návštěvu lékaře, uchýlil se Khamla (není to jeho pravé jméno) k nejrůznějším bylinným lékům a tradičním léčitelům, včetně šamana neboli duchovního lékaře ve své vesnici. Nic nepomohlo.
+Na vyšetrenie u lekára nemal dostatok peňazí, preto vyhľadal tradičných liečiteľov a začal užívať rôzne bylinkové lieky. Vyhľadal aj šamana v ich dedine, ktorý liečil ľudí pochybnými metódami. Nič však nepomáhalo.
 
-Nakonec někdo, když viděl jeho zoufalství, Khamalovi řekl o pastorovi adventistů sedmého dne, který prostřednictvím mobilního telefonu pomohl mnoha lidem. Muž zavolal pastoru Sadua Lee a požádal ho o pomoc.
+Keď už strácal akúkoľvek nádej, ktosi mu povedal o kazateľovi Cirkvi adventistov siedmeho dňa, ktorý cez telefón pomohol mnohým ľuďom. Khamla sa teda rozhodol, že zavolá tomu kazateľovi, ktorý sa volal Sadua Lee. 
 
-Nebyl to jednoduchý telefonát. Telefonní hovory byly brány za luxus a stály 700 laoských kipů (necelé 2 koruny) za minutu. V té době musela třetina obyvatel vyžít s méně než 27 Kč na den a téměř dvě třetiny za méně než 40 Kč na den.
+V tejto odľahlej oblasti to však nebolo také jednoduché. Zavolať niekomu bolo známkou luxusu. Minúta hovoru stála 700 laoských kipov (v prepočte 5 centov). V tom čase približne tretina populácie žila z menej ako 1,1 eura na deň a dve tretiny ľudí museli vyžiť z menej ako 1,7 eura denne.
 
-Nemocný muž prosil pastora Sadua, aby ho uzdravil.
+Chorý muž úprimne prosil kazateľa Sadua, aby ho uzdravil. „Ja ťa nedokážem ťa uzdraviť. Ale môj Boh, ktorého meno je Ježiš Kristus, ten ťa môže uzdraviť, ak to bude jeho vôľa. Jediné, čo musíme urobiť, je poprosiť ho,“ povedal mu kazateľ.
 
-"Já jsem nikdo," odpověděl pastor. "Nemohu tě uzdravit. Ale můj Bůh, který se jmenuje Ježíš, ten tě může uzdravit, pokud je to jeho vůle. Vše co musíme udělat, je ho o to požádat."
+Khamla teda poprosil o modlitbu a kazateľ sa za neho cez telefón pomodlil.
 
-Khamla požádal o modlitbu a pastor se za něj po telefonu modlil.
+Na druhý deň kazateľ zavolal Khamlovi, aby mu ponúkol modlitbu. Khamlov hlas znel v telefóne veľmi nadšene. „Opäť môžem chodiť!“ radostne oznámil kazateľovi. 
 
-Druhý den pastor muži zavolal, aby se za něj znovu modlil. Khamla zněl tak nadšeně. "Můžu chodit!" vykřikl.
+Nohy mal pochopiteľne ešte slabé, ale prvýkrát po troch mesiacoch sa na ne mohol postaviť. Dokonca urobil pár krokov a pomaličky zašiel na pole a trochu pracoval.
 
-Přestože měl slabé nohy, poprvé po třech měsících dokázal chodit. A hned se vydal pracovat na svou farmu.
+„Tvoj Boh je taký mocný,“ povedal. „Ako by som mohol oslavovať tvojho Boha, ktorého meno je Ježiš Kristus?“
 
-"Tvůj Bůh je tak mocný," řekl. "Jak mohu uctívat tvého Boha, který se jmenuje Ježíš?"
+Kazateľ mu povedal, že Boha môže oslavovať stále. Potom mu povedal, že Ježiš oddelil zvláštny deň – siedmy deň, sobotu, kedy ho máme oslavovať. Khamla súhlasil, že v sobotu nebude pracovať, ale bude oslavovať Boha. Jeho dedina však bola veľmi ďaleko od najbližšieho zboru, preto poprosil kazateľa, aby mu nejako pomohol. Znamenalo to, že kazateľ mu bude musieť každú sobotu zavolať, ale nevadilo mu to. Veď ak Ježiš dokázal Khamlu uzdraviť, môže zaobstarať dostatok prostriedkov, aby mohol Khamlovi každú sobotu zavolať. 
 
-Pastor mu řekl, že Ježíše může a měl by uctívat neustále, a dodal, že Ježíš si pro uctívání vyhradil zvláštní den - sobotu jako sedmý den. Muž souhlasil, že v sobotu přestane pracovat, aby mohl uctívat Ježíše. Když viděl, že bydlí daleko od sboru, požádal pastora, aby mu pomohl s konáním pobožností v sobotu. To znamenalo, že by pastor volal každou sobotu - ale to mu nevadilo. Pokud Ježíš mohl Khamlovi poskytnout uzdravení, poskytl by také prostředky na zaplacení hovorů.
-
-Děkujeme vám za vaše misijní dary při sobotní škole, které pomáhají šířit evangelium lidem v Laosu a dalších zemích Jižní asijsko-pacifické divize, kam poputují dary třinácté soboty v tomto čtvrtletí.
-
-_Tento misijní příběh ilustruje misijní cíl číslo 2 strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): "Posílit a diverzifikovat adventistické působení... mezi nezasaženými a nedostatečně oslovenými skupinami lidí a mezi nekřesťanskými náboženstvími.". Více informací najdete na stránkách IWillGo2020.org._
+_Ďakujeme za vaše dary sobotnej školy, ktoré pomáhajú šíriť evanjelium v Laose a ostatných krajinách Juhoázijsko-Pacifickej divízie cirkvi. Dary trinástej soboty v tomto štvrťroku sú určené pre túto oblasť._
