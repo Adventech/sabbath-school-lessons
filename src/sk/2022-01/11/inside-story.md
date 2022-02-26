@@ -1,32 +1,32 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  11/03/2022
 ---
 
-#### Mít bohoslužby jako Ježíš
+#### Byť ako Ježiš
 
 _Andrew McChesney_
 
-Před třemi lety pomohly dary třinácté soboty založit komunitní centrum, které má sloužit k oslovení lidi v Kambodži. Komunitní centrum, "městské centrum vlivu", však oslovilo prvního člověka ještě před svým otevřením.
+Pred tromi rokmi bolo aj vďaka misijným darom trinástej sobory otvorené jedno komunitné centrum v Kambodži. Cieľom projektu bolo priblížiť sa k ľuďom a získať príležitosti osloviť ich. Svojho prvého človeka si však projekt získal skôr, než bolo centrum postavené. 
 
-Koy Sopaon se doslechl, že na stavbě komunitního centra Essential Life Center začaly stavební práce a že mzdy jsou slušné, a tak požádal vedoucího projektu Garyho Rogerse o práci. Gary, americký misionář, který pracuje pro Adventistickou misii, zrovna neměl na stavbě v Battambangu, druhém největším kambodžském městě, žádná volná místa, ale vzal si na Sopaona telefonní číslo.
+Koy Sopaon sa dopočul, že na mieste, kde mala onedlho stáť budova komunitného centra, sa už začalo stavať. Mzda sa mu celkom pozdávala, preto šiel za projektovým manažérom Garym Rogersom a spýtal sa ho, či by pre neho nemal prácu. Gary je adventistický misionár zo Spojených štátov, ktorý sa podujal realizovať projekt stavby v druhom najväčšom meste Kambodže Battambang. Keď ho Koy Sopaon oslovil s prosbou o prácu, nemal práve voľné pracovné miesto, preto si od neho vypýtal telefónne číslo.
 
-Sopaon se po několika měsících vrátil a Gary, který se dozvěděl, že má zkušenosti se svařováním a zedničinou, mu řekl, že může druhý den nastoupit do práce.
+Sopaon sa na stavbu vrátil o niekoľko mesiacov. Gary sa dozvedel, že je murár a vie zvárať, tak mu povedal, že hneď na ďalší deň môže prísť do práce.
 
-"Proč čekat do zítřka?" Sopaon řekl. "Můžu začít hned."
+„Načo by som čakal do zajtra?“ odpovedal Sopaon. „Môžem začať hneď teraz.“
 
-Sopaona, vedoucího ve své vlastní křesťanské církvi, překvapilo, že Gary začínal každý pracovní den třicetiminutovou pobožností. Nikdy předtím neměl práci spojenou s bohoslužbami ale líbilo se mu to.
+Sopaon bol vedúcim vo svojom kresťanskom spoločenstve. Prekvapilo ho, že Gary začína každý pracovný deň 30 minútovým ranným zamyslením. Ešte nikdy nemal prácu, kde by boli pobožnosti. Páčilo sa mu to.
 
-Když skupina studovala, uvědomil si, že věci, které se učí z Bible, se liší od toho, co učila jeho církev. Jednoho rána se pobožnost zaměřila na sobotu, jako sedmý den. Sopaon četl v Lukáši 23. kapitole o tom, že Ježíš zemřel v den přípravy, šestý den v týdnu, a byl pohřben před západem slunce na sobotu, sedmý den v týdnu. Viděl, že učedníci v sobotu přestali pracovat a že Ježíš odpočíval v hrobě. Teprve první den přinesli vonné látky, aby pomazali jeho tělo. Překvapený Sopaon si řekl: "Sedmý den je tedy skutečně sobota!"
+Ako tak spolu každé ráno študovali Bibliu, Sopaon zistil, že Biblia učí niečo iné, než jeho cirkev. Raz ráno bol hlavnou myšlienkou ranného zamyslenia siedmy deň odpočinku, sobota. Sopaon čítal v 23. kapitole Lukášovho evanjelia o tom, ako Ježiš zomrel v prípravný deň, v šiesty deň týždňa, bol pochovaný ešte pred západom slnka, a potom nasledoval siedmy deň, sobota. Uvedomil si, že aj učeníci prestali v sobotu pracovať a Ježiš odpočíval v hrobe. Ženy prišli pomazať Ježišovo telo až v prvý deň týždňa. Sopaon si sám pre seba povedal, že siedmy deň musí byť tým pravým dňom odpočinku.
 
-Když Gary viděl Sopaonovu víru, zeptal se: "Chceš být jako Ježíš?"
+Keď Gary videl Sopaonovu vieru, opýtal sa ho: „Chceš byť ako Ježiš?“
 
-Sopaon neváhal. "Ano, chci," řekl.
+Sopaon bez váhania odvetil: „Áno, určite chcem.“
 
-"Pokud po tom toužíš, připoj se k nám, když budeme příští pátek večer společně zahajovat sobotu," řekl Gary a pozval ho na adventistické shromáždění.
+„Ak je to naozaj tvoja túžba, môžeš sa k nám pripojiť. V piatok večer si budeme spolu začínať sobotu,“ povedal Gary a pozval ho na malú adventistickú pobožnosť.
 
-Sopaon přišel nejen v pátek, ale druhý den se zůčastnil také sobotní bohoslužby. Byl ohromen tím, jak se lidé navzájem zdravili a říkali: "Požehnanou sobotu! Požehnanou sobotu!" To v něm vyvolalo pocit, že ho Bůh může učinit svatým.
+Sopaon prišiel v piatok večer a aj v sobotu ráno sa pridal k bohoslužbe. Veľmi sa mu páčilo, ako si ľudia medzi sebou podávali ruky a privítali sa pozdravom: Požehnanú sobotu! Zdalo sa mu, že Boh by ho tu mohol posvätiť a požehnať.
 
-Když se Sopaon dozvěděl více o Bohu, začal "vracet" desátky. V sobotu odpoledne se také připojoval ke členům církve a pomáhal potřebným. Pokřtěn byl 18 měsíců poté, co začal pracovat na stavbě centra Essential Life.
+Keď Sopaon spoznával pravdy o Bohu, postupne začal odovzdávať aj desiatky. V sobotu poobede sa pripojil k ostatným členom zboru, ktorí pomáhali núdznym. 18 mesiacov po tom, čo začal pracovať na budove komunitného centra, bol pokrstený.
 
-_Děkujeme vám za dary třinácte soboty, která pomohly otevřít Essential Life Center, "městské centrum vlivu" v Battambangu v Kambodži._
+_Ďakujeme za vaše dary trinástej soboty, ktoré pomohli otvoriť komunitné centrum v meste Battambang v Kambodži._
