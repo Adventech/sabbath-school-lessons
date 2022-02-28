@@ -1,42 +1,28 @@
 ---
-title:  Misijní příběh
+title:  Misijný príbeh
 date:  18/03/2022
 ---
 
-#### Dokonalé zdraví
+#### Úplne zdravá
 
 _Andrew McChesney_
 
-Noy byla zámožná žena, která dohlížela na více než 100 zaměstnanců na rodinné kávové plantáži v Laosu. Pak ale ve své vesnici onemocněla záhadnou chorobou.
+Noy bola zámožná žena. Vlastnila kávovú plantáž v štáte Laos. V jej rodinnom podniku pracovalo vyše 100 robotníkov. Život jej skomplikovala záhadná choroba. Pretože jej lekár nevedel chorobu jednoznačne diagnostikovať, vyhľadala pomoc rôznych ďalších špecialistov v celom južnom Laose. Nikto jej však nedokázal pomôcť.
 
-Její lékař nedokázal nemoc identifikovat.
+Zdravotný stav tejto bohatej ženy sa stále zhoršoval. Po čase už nemohla ani chodiť a ostala pripútaná na lôžko. Ešte horšie však bolo to, že sa u nej začali objavovať aj mentálne a neurologické problémy. Často si nepamätala ľudí z vlastnej rodiny.
 
-Noy navštívila mnoho lékařů po celém jižním Laosu, ale nikdo jí nedokázal pomoci.
+Prišla o všetkých zamestnancov, pretože im neplatila mzdu. Ostatní dedinčania povedali jej manželovi, že túto chorobu neprežije. 
 
-Její zdravotní stav se stále zhoršoval, až ji přestaly poslouchat nohy a byla upoutána na lůžko. A co víc, téměř přišla o rozum. Mnohokrát si nemohla vzpomenout na lidi z vlastní rodiny.
+Keď sa Noy cítila úplne na dne, zavítala k nim návšteva z hlavného mesta Laosu, Vientian. Žena nebola kresťanka, podobne ako Noy, ale jej syn s nevestou boli adventisti siedmeho dňa. Táto žena porozprávala Noy o ich viere v Ježiša. „Možno by ťa Ježiš mohol zachrániť,“ povedala jej.
 
-Všichni její zaměstnanci odešli, protože jim nevyplácela mzdy. Vesničané jí a jejímu manželovi říkali, že nepřežije.
+S manželovou pomocou Noy vyhľadala telefónne číslo adventistického kazateľa pôsobiaceho na juhu krajiny. Zavolala mu a poprosila o pomoc.
 
-V této ubohé části Noyina života přijela návštěva z Vientiane, hlavního města Laosu. Návštěvnice stejně jako Noy nebyla křesťanka, ale její syn a snacha byli adventisté sedmého dne. A tak řekla Noy o Ježíši.
+Kazateľ docestoval do dediny, kde Noy bývala, a modlil sa s ňou. Táto udalosť ju tak posilnila a povzbudila, že sa rozhodla dočasne presťahovať do hlavného mesta Vientian. Chcela sa stretnúť s členmi Cirkvi adventistov siedmeho dňa a spoznať ich.
 
-"Možná ti Ježíš může zachránit život," řekla.
+Po presťahovaní sa jej zdravotný stav výrazne nezlepšil. Nedokázala vstať z postele. Veľmi ťažko sa jej premýšľalo a komunikovalo. Členovia zboru sa s ňou pravidelne stretávali a modlili sa za ňu. Po čase sa jej zdravie začalo upravovať. Najprv si mohla sadnúť, potom aj vstať a chodiť.
 
-S pomocí svého manžela Noy našla telefonní číslo na adventistického pastora na jihu země a zavolala mu o pomoc.
+Päť mesiacov po tom, čo ochorela na záhadnú chorobu, sa Noy vrátila do svojej dediny úplne zdravá. Dedinčania boli veľmi prekvapení, keď ju uvideli. Mysleli si, že už zomrela. Teraz pred nimi stála živá a zdravá. S neskrývaným údivom sa jej pýtali, čo sa stalo. „Ježiš ma zachránil od smrti,“ povedala Noy.
 
-Pastor přijel do Noyiny vesnice a modlil se s ní.
+Vďaka tejto udalosti sa veľa dedinčanov chcelo dozvedieť viac o Ježišovi – o tom mocnom lekárovi.
 
-Modlitba Noy povzbudila a ona se rozhodla dočasně přestěhovat do Vientianu. Chtěla se setkat se členy adventistické církve a poznat je.
-
-Když přijela, nemohla vstát z postele a měla problémy s jasným myšlením. Členové církve se s ní ale pravidelně setkávali a modlili se s ní. Postupně se její zdravotní stav zlepšoval. Začala být schopná sedět, pak stát a nakonec i chodit.
-
-Pět měsíců po začátku onemocnění se Noy vrátila do své rodné vesnice v naprostém pořádku.
-
-Vesničané byli překvapeni tím, co viděli. Očekávali, že zemře, ale ona byla živá a zcela uzdravená. Udiveně se jí zeptali, co se stalo.
-
-"Ježíš mě zachránil před smrtí," řekla Noy.
-
-Mnoho vesničanů má nyní zájem dozvědět se více o Ježíši, mocném Lékaři, který může uzdravit všechny, kdo ho o to požádají.
-
-_Děkujeme vám za vaše misijní dary při sobotní škole, které pomůžou šířit evangelium lidem v Laosu a dalších zemích Jižní asijsko-pacifické divize. Část darů třinácté soboty v tomto čtvrtletí pomůže otevřít základní školu v Laosu._
-
-_Tento misijní příběh ilustruje misijní cíl číslo 2 strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): "Posílit a diverzifikovat adventistické působení... mezi nezasaženými a nedostatečně oslovenými skupinami lidí a mezi nekřesťanskými náboženstvími." Více informací najdete na stránkách IWillGo2020.org._
+_Ďakujeme za vaše misijné dary sobotnej školy, ktoré pomáhajú šíriť evanjelium v Laose a ostatných krajinách Juhoázijsko-Pacifickej divízie cirkvi. Časť darov trinástej soboty pomôže otvoriť základnú školu v Laose._
