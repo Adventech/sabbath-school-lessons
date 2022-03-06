@@ -9,7 +9,7 @@ _Anna Likholet_
 
 V osmnácti letech jsem toužila sdílet Ježíše s ostatními. Ale měla jsem strach.
 
-Pak jsem potřebovala na operaci a byla jsem hospitalizována v Tule, městě vzdáleném asi dvě a půl hodiny jízdy autem od hlavního města Ruska, Moskvy. Když jsem přijela, tři ze šesti lůžek v mém pokoji byly obsazené. Moje operace byla naplánována na následující den. Co bych měla dělat? Co dělá člověk před operací? Přemýšlel jsem. A pak jsem otevřela svou Bibli.
+Pak jsem potřebovala na operaci a byla jsem hospitalizována v Tule, městě vzdáleném asi dvě a půl hodiny jízdy autem od hlavního města Ruska, Moskvy. Když jsem přijela, tři ze šesti lůžek v mém pokoji byly obsazené. Moje operace byla naplánována na následující den. Co bych měla dělat? Co dělá člověk před operací? Přemýšlela jsem. A pak jsem otevřela svou Bibli.
 
 Žena naproti mně se okamžitě zeptala: "Jste křesťanka?"
 
