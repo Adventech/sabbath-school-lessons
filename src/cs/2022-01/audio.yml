@@ -144,6 +144,38 @@
           target: cs/2022-01/10/07
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_10-inside-story.mp3
           target: cs/2022-01/10/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-1.mp3
+          target: cs/2022-01/11/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-2.mp3
+          target: cs/2022-01/11/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-3.mp3
+          target: cs/2022-01/11/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-4.mp3
+          target: cs/2022-01/11/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-5.mp3
+          target: cs/2022-01/11/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-6.mp3
+          target: cs/2022-01/11/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-7.mp3
+          target: cs/2022-01/11/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_11-inside-story.mp3
+          target: cs/2022-01/11/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-1.mp3
+          target: cs/2022-01/12/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-2.mp3
+          target: cs/2022-01/12/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-3.mp3
+          target: cs/2022-01/12/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-4.mp3
+          target: cs/2022-01/12/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-5.mp3
+          target: cs/2022-01/12/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-6.mp3
+          target: cs/2022-01/12/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-7.mp3
+          target: cs/2022-01/12/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_12-inside-story.mp3
+          target: cs/2022-01/12/inside-story
     - artist: Úvod
       tracks:
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/2022_Q1_01-0.mp3
