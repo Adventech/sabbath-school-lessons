@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-Intro.pdf'
+      target: en/2022-01-cc/introduction
+      title: Introduction
+      start_date: 25/12/2021
+      end_date: 25/12/2021
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L01.pdf'
+      target: en/2022-01-cc/01
+      title: Last Words and Witnesses
+      start_date: 25/12/2021
+      end_date: 31/12/2021
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L02.pdf'
+      target: en/2022-01-cc/02
+      title: The Promised Gift
+      start_date: 01/01/2022
+      end_date: 07/01/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L03.pdf'
+      target: en/2022-01-cc/03
+      title: Reflecting Jesus
+      start_date: 08/01/2022
+      end_date: 14/01/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L04.pdf'
+      target: en/2022-01-cc/04
+      title: Truth and You
+      start_date: 15/01/2022
+      end_date: 21/01/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L05.pdf'
+      target: en/2022-01-cc/05
+      title: Power. Perseverance. Purpose.
+      start_date: 22/01/2022
+      end_date: 28/01/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L06.pdf'
+      target: en/2022-01-cc/06
+      title: The First Christian Martyr
+      start_date: 29/01/2022
+      end_date: 04/02/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L07.pdf'
+      target: en/2022-01-cc/07
+      title: Go the Distance
+      start_date: 05/02/2022
+      end_date: 11/02/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L08.pdf'
+      target: en/2022-01-cc/08
+      title: Evidence of Conversion
+      start_date: 12/02/2022
+      end_date: 18/02/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L09.pdf'
+      target: en/2022-01-cc/09
+      title: The Epicenter for Missions
+      start_date: 19/02/2022
+      end_date: 25/02/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L10.pdf'
+      target: en/2022-01-cc/10
+      title: Us and Them
+      start_date: 26/02/2022
+      end_date: 04/03/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L11.pdf'
+      target: en/2022-01-cc/11
+      title: Faith Works
+      start_date: 05/03/2022
+      end_date: 11/03/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L12.pdf'
+      target: en/2022-01-cc/12
+      title: Hope Against Hope
+      start_date: 12/03/2022
+      end_date: 18/03/2022
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2022/Q1/English/Student/CC-22-Q1-L13.pdf'
+      target: en/2022-01-cc/13
+      title: The Inspiring Minority
+      start_date: 19/03/2022
+      end_date: 25/03/2022

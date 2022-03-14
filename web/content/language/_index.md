@@ -196,4 +196,7 @@ languages:
   - native: Sinugboanon
     en: Cebuano
     code: ceb
+  - native: తెలుగు
+    en: Telugu
+    code: te
 ---

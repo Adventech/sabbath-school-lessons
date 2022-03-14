@@ -1,0 +1,15 @@
+### V týchto posledných dňoch: Posolstvo Listu Hebrejom
+
+Prvýkrát videl ten obraz v kostole. Zamyslene prechádzal okolo, keď mu padol zrak na maľbu vysokú takmer dva metre a širokú tri metre. Dievča na obraze upútalo mladého muža podmanivou silou. Prečo z nej nemohol odtrhnúť zrak? Keď o tom neskôr uvažoval, uvedomil si, že tá mladá žena mala v očiach čosi zvláštne. Na obraze bola len jej tvár. Sústredene sa na niečo pozerala. Ale čo to bolo a prečo bol jej pohľad taký sústredený? Ten obraz si dlho uchovával v pamäti.
+
+O niekoľko rokov neskôr mu maliar Arnold Jiménez vysvetlil tajomstvo svojho obrazu. Maľbu sa snažil urobiť tak, aby diváka zaujali oči mladej ženy. Skutočné tajomstvo však spočívalo v zreničkách. Keď sa človek pozrel zblízka, uvidel odraz toho, na čo bol jej pohľad sústredený. Jej oči sa pozerali na Ježiša na kríži.
+
+Portrét Ježiša v Liste Hebrejom môže mať na nás rovnaký vplyv. Ježiš je vykreslený predovšetkým ako Vládca vesmíru, ktorý sedí po Božej pravici. Nespočítateľný zástup anjelov ho oslavuje, uctieva ho a slúži mu (Heb 1,5–14; 12,22–24). Zvíťazil a získal právo vládnuť, pretože vlastnou smrťou zničil diabla (Heb 2,14–16). Ježiš je predstavený aj ako Veľkňaz. Bezhriešny a dokonale svätý koná dielo našej záchrany v nebeskej svätyni (Heb 7,26–8,5). Získal toto právo tým, že sám seba vydal ako dokonalú obeť za všetkých a navždy (Heb 10,1–14). Ježiš je okrem toho sprostredkovateľom novej zmluvy medzi Bohom a Jeho ľudom, zmluvy, ktorá bude trvať naveky (Heb 8,6–13).
+
+Pozornosť čitateľa je však upriamená nielen na to, čo Ježiš urobil, ale predovšetkým na to, kým Ježiš je. Narodil sa podobne ako my. Bol pokúšaný a zosmiešňovaný. Napriek tomu má moc nad celým vesmírom. Keď sledujeme udalosti v nebesiach, keď pozorujeme rôznorodé nebeské bytosti, náš pohľad sa sústreďuje na toho, ktorý stojí uprostred celého diania. Je pozoruhodné, že je nám podobný, pretože sa stal jedným z nás. Ježiš, náš Brat (Heb 2,11.12.17), je v nebesiach a zastupuje nás aj napriek hanbe nášho hriechu a našej skazenosti.
+
+V osobe Ježiša Krista sa stretávajú tri rozmery príbehu vykúpenia. Prvá je osobná rovina. Pre čitateľov unavených útrapami a súžením spojených s kresťanským životom (Heb 10,32–34) je Ježiš pôvodcom a završovateľom viery. Potrebujeme sa pozerať na toho, ktorý tiež prežíval utrpenie (Heb 12,1–4). Druhý rozmer je spoločenský. Pre Boží ľud, ktorý putoval do Bohom Zasľúbenej krajiny, je Ježiš novým Jozuom. Potrebujú nasledovať jeho vedenie (Hebrejom 3, 4, 11 a 12). Tretí rozmer je všeobecný. Ježiš je nový Adam, Syn človeka, v ktorom sa naplnil Boží zámer s ľudstvom (Heb 2,5–10; 12,22–28).
+
+Tento štvrťrok sa budeme venovať obrazu Ježiša, ktorý obsiahol šírku, dĺžku, výšku a hĺbku Božej lásky k nám. A podobne ako obraz Ježiša v očiach namaľovanej ženy upútal pohľad mladého muža, nech aj obraz Ježiša vyjadrený v Liste Hebrejom zaujme nielen náš pohľad, ale aj našu lásku a náš obdiv voči Ježišovi, nášmu bratovi v nebesiach.
+
+_Félix H. Cortez vyučuje novozmluvnú literatúru na Teologickom seminári na Andrewsovej univerzite._

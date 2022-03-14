@@ -1,0 +1,82 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L00.pdf'
+      target: en/2021-04-kd/introduction
+      title: Introduction
+      start_date: 25/09/2021
+      end_date: 25/09/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L01.pdf'
+      target: en/2021-04-kd/01
+      title: New Friends
+      start_date: 25/09/2021
+      end_date: 01/10/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L02.pdf'
+      target: en/2021-04-kd/02
+      title: Seven Special Helpers
+      start_date: 02/10/2021
+      end_date: 08/10/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L03.pdf'
+      target: en/2021-04-kd/03
+      title: Two Men and a Strange Message
+      start_date: 09/10/2021
+      end_date: 15/10/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L04.pdf'
+      target: en/2021-04-kd/04
+      title: In and Out of Prison
+      start_date: 16/10/2021
+      end_date: 22/10/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L05.pdf'
+      target: en/2021-04-kd/05
+      title: Helping Hands
+      start_date: 23/10/2021
+      end_date: 29/10/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L06.pdf'
+      target: en/2021-04-kd/06
+      title: A Blind Man Learns to Lead
+      start_date: 30/10/2021
+      end_date: 05/11/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L07.pdf'
+      target: en/2021-04-kd/07
+      title: Come to My House
+      start_date: 06/11/2021
+      end_date: 12/11/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L08.pdf'
+      target: en/2021-04-kd/08
+      title: Prison Praises
+      start_date: 13/11/2021
+      end_date: 19/11/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L09.pdf'
+      target: en/2021-04-kd/09
+      title: Shipwrecked
+      start_date: 20/11/2021
+      end_date: 26/11/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L10.pdf'
+      target: en/2021-04-kd/10
+      title: God’s Messengers
+      start_date: 27/11/2021
+      end_date: 03/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L11.pdf'
+      target: en/2021-04-kd/11
+      title: The Best Gift
+      start_date: 04/12/2021
+      end_date: 10/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L12.pdf'
+      target: en/2021-04-kd/12
+      title: Dedicated to God
+      start_date: 11/12/2021
+      end_date: 17/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-L13.pdf'
+      target: en/2021-04-kd/13
+      title: He's Coming Again
+      start_date: 18/12/2021
+      end_date: 24/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-Activites.pdf'
+      target: en/2021-04-kd/13
+      title: Activities
+      start_date: 18/12/2021
+      end_date: 24/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2021/Q4/Kindergarten/Student/K-21-Q4-MemoryVerses.pdf'
+      target: en/2021-04-kd/13
+      title: Memory verses
+      start_date: 18/12/2021
+      end_date: 24/12/2021

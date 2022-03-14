@@ -1,0 +1,58 @@
+---
+title:  El Sábado enseñaré
+date:  11/02/2022
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+##### Textos clave: Hebreos 6:4-6; Mateo 16:24; Romanos 6:6; Hebreos 10:26–29; 6:9–13; 6:17–20.
+
+##### Temática de la lección:
+
+Hebreos 5 termina con una nota algo sombría, ya que Pablo reprende a parte de su audiencia por no progresar en su experiencia espiritual. Sin embargo, Pablo tiene la intención de avanzar en su sermón hacia conocimientos teológicos más profundos, a pesar de que algunos de sus oyentes eran “tardos para oír” (ver Heb. 5:11). Solo si el tiempo lo permitiera volverá a abordar las enseñanzas básicas, como “el arrepentimiento de obras muertas”, “la fe en Dios”, “la doctrina de bautismos”, “la imposición de manos”, “la resurrección de los muertos” y “el juicio eterno” (Heb. 6:1, 2).
+
+Además, su audiencia ha experimentado, en algún momento del pasado, una cantidad de bendiciones divinas. Estas bendiciones se enumeran en Hebreos 6:4 y 5. Los oyentes han sido “iluminados”, “gustaron del don celestial”, “fueron hechos partícipes del Espíritu Santo” y “gustaron de la buena palabra de Dios y los poderes del siglo venidero”. Estas frases son sinónimo de experimentar la conversión, la gracia de Dios, el Espíritu Santo mediante señales y prodigios, la verdad del evangelio y la salvación.
+
+En medio de todo esto, algunos miembros de la audiencia parecen haber apostatado. Pablo le dice a su audiencia: “Es imposible que los que [...] recayeron, sean otra vez renovados para arrepentimiento” (Heb. 6:4, 6). En Hebreos 10:26 al 29 se pronuncia un juicio igualmente devastador contra quienes persisten voluntariamente en el pecado después de haber recibido el conocimiento de la verdad. El comportamiento del apóstata se caracteriza por medio de hechos que equivalen a rechazar a Cristo, su sacrificio, y al Espíritu Santo.
+
+#### COMENTARIO
+
+##### La imposibilidad del arrepentimiento
+
+Hebreos 6:4 al 6, así como Hebreos 10:26 al 29, ¿hablan de la imposibilidad de arrepentirse? Esta noción ¿significa que si un cristiano apostata no puede renovarse para arrepentimiento? ¿No hay forma de tener una segunda oportunidad de arrepentimiento? La idea de que el arrepentimiento no puede renovarse ha sido la interpretación predominante de Hebreos 6:4 al 6, como lo sostuvieron los cristianos a lo largo de la historia de la iglesia, lo que llevó a algunos a posponer su bautismo hasta el lecho de muerte. ¿Cómo se manifiestan estas advertencias tan fuertes al considerar la experiencia de Pedro después de Getsemaní (Mat. 26:69-75)? En el análisis siguiente, queremos entender Hebreos 6:4 al 6 y armonizarlo con la experiencia de Pedro, así como con toda la Escritura.
+
+En primer lugar, queremos entender lo que experimentó la audiencia de Hebreos. Habían sido iluminados, habían probado el don celestial, habían compartido el Espíritu Santo, habían probado la buena Palabra de Dios, pero luego algunos de ellos se habían apartado. El primer hecho que describe a la comunidad cristiana es  que fueron “iluminado[s]”, término que aparece en Hebreos 10:32, donde dice: “Pero traed a la memoria los días pasados, en los cuales, después de haber sido iluminados, sostuvisteis gran combate de padecimientos”. Este hecho parece describir la experiencia cristiana inicial que tuvo la audiencia. Por el Espíritu de Dios, la audiencia ha pasado de “obras muertas” a “fe en Dios” (Heb. 6:1) y al “conocimiento de la verdad” (Heb. 10:26).
+
+El segundo hecho, “gustaron del don celestial” (Heb. 6:4), muestra que la audiencia tuvo una experiencia espiritual con el don gratuito de la salvación de Dios. El verbo “gustar” aparece en Hebreos 2:9, donde habla de Cristo, que tuvo que “gusta[r] la muerte por todos”. Cuando Cristo probó la muerte como ser humano, estaba experimentando algo hasta entonces desconocido para él. Los oyentes de Hebreos han probado el don celestial, algo previamente desconocido para ellos, a saber, “una salvación tan grande” (Heb. 2:3).
+
+Estrechamente relacionado con la degustación del don celestial está el tercer hecho. Los cristianos “fueron hechos partícipes del Espíritu Santo” (Heb. 6:4), lo que evoca el lenguaje de participación, que recuerda la redacción de Hebreos 3:1 y 14, versículos en los que se describe a la audiencia como “hermanos santos, participantes del llamamiento celestial” y “participantes de Cristo”. La distribución del Espíritu Santo es algo que esta audiencia ha experimentado vívidamente en la fase inicial de su evangelización (Heb. 2:4).
+
+Esta serie de hechos continúa con una repetición de imágenes relacionadas con el sentido del gusto. Gustar “de la buena palabra de Dios” (Heb. 6:5) se refiere a oír el evangelio, recibido cuando los oyentes aceptaron las buenas nuevas de salvación (Heb. 2:3). Ocasionalmente la Biblia hebrea compara la Palabra de Dios con la comida (ver Deut. 8:3). La audiencia no es solo destinataria de la bondad de la Palabra de Dios; también experimenta los “poderes del siglo venidero” (Heb. 6:5), que incluyen “señales y prodigios y diversos milagros” (Heb. 2:4).
+
+Después de mencionar cuatro importantes hechos positivos, hay un cambio dramáticamente abrupto. El último hecho transmite el fenómeno de la apostasía: “y recayeron” (Heb. 6:6). El verbo “recaer”, o “apostatar”, puede significar “pecar” en un sentido general. Pero, debido a la fraseología que sigue, a saber, “crucificando de nuevo para sí mismos al Hijo de Dios” (Heb. 6:6) y exponerlo “a la vergüenza pública” (Heb. 6:6, NVI), el pecado debe ser entendido en el sentido más radical de romper con cada experiencia de salvación descrita hasta ahora en los versículos 4 y 5. En pocas palabras, la audiencia experimentó la conversión, la salvación, el Espíritu Santo a través de señales y prodigios y la bondad de la Palabra de Dios, pero luego algunos apostataron.
+
+Ahora que entendemos lo que experimentó la audiencia de Hebreos, pasemos a examinar la noción de la imposibilidad del arrepentimiento en Hebreos 6:4 al 6. Debemos ser algo técnicos en nuestro abordaje. Los cinco hechos mencionados anteriormente incluyen adjetivos verbales (participios) en griego. Todos están en tiempo pasado (aoristo), un tiempo que describe una acción ocurrida en el pasado. Las acciones son intrínsecamente irreversibles. La cadena de participios describe a un mismo grupo de personas. Por lo tanto, esta parte de la audiencia ha pasado de estar “iluminada” a “apostatar”, de modo que pasó por toda la gama de experiencias religiosas tiempo atrás.
+
+La última parte de Hebreos 6:6 emplea un segundo bloque de participios (“crucificando de nuevo” y “exponiéndole a vituperio”, en Heb. 6:6). Esta vez, Pablo utiliza los participios del tiempo presente. De repente, cambia del tiempo pasado (aoristo) al tiempo presente, que expresa la acción como un proceso. ¿Qué denota eso? El tiempo presente representa la acción a medida que se desarrolla, que está sucediendo al momento de hablar. Ambos participios describen la apostasía en tiempo presente. Por ende, la acción se considera un delito que impide la renovación para el arrepentimiento, porque convierte al apóstata en enemigo de Cristo. Este vuelve a crucificar al Hijo de Dios y lo expone a la vergüenza pública de manera continua. ¿Qué sugiere eso? Avergonzar a Cristo es recrear la crucifixión. Esta repetición muestra el impacto devastador y continuo de la apostasía en quienes alguna vez fueron iluminados. No pueden ser restaurados al arrepentimiento debido a la actitud actual y continua que muestran hacia Cristo. Sus acciones describen tanto la causa de la apostasía como la actitud constante del apóstata. Al rechazar a Cristo, el apóstata acepta la imposibilidad del arrepentimiento.
+
+Pero ¿qué ocurre con alguien que no tiene esa actitud? Esa persona ¿tiene alguna posibilidad? ¡Pero, por supuesto! Aquí nos sirve el ejemplo de Pedro. Mientras negaba a Cristo tres veces, de repente recordó lo que Cristo predijo acerca de él: “Y saliendo fuera, lloró amargamente” (Mat. 26:75). Este dolor es una actitud completamente diferente de la de los apóstatas en Hebreos 6, que crucifican al Hijo de Dios y lo avergüenzan abiertamente. Además, 1 Juan 2:1 declara: “Estas cosas os escribo para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, a Jesucristo el justo”. El Abogado solo puede ser útil si se lo acepta, no si se lo avergüenza ni si se lo crucifica.
+
+En resumen, Hebreos 6:4 al 6 deja en claro que parte de la audiencia enfrentó toda la gama de experiencias religiosas, desde la conversión hasta la apostasía. Lo que imposibilitaba que algunos de ellos se renovaran para arrepentimiento era su actitud de avergonzar a Cristo y así volver a representar el proceso de la crucifixión. Básicamente, esta actitud equivalía a declarar que Cristo era su enemigo. Sin embargo, con una actitud de humilde arrepentimiento, como la de Pedro, el perdón siempre es posible. El Abogado Jesucristo está dispuesto a renovarnos para arrepentimiento.
+
+Lo mismo ocurre con el pasaje de Hebreos 10:26 al 29. Este pasaje comienza con el pecado deliberado, prepotente e intencional. “Porque si pecáremos voluntariamente después de haber recibido el conocimiento de la verdad, ya no queda más sacrificio por los pecados” (Heb. 10:26). Una vez más, aquí se describe una persistencia actual, continua y deliberada en el pecado, que priva del perdón a cualquiera. Algunos “pisotear[on] al Hijo de Dios, y tuvier[on] por inmunda la sangre del pacto en la cual fue santificado, e hicier[on] afrenta al Espíritu de gracia” (Heb. 10:29). Su accionar retrata a Jesús como un enemigo, cuya sangre carece de poder salvador. Esta gente insulta y desprecia con arrogancia el ofrecimiento de la gracia de Dios. Esta gente ni siquiera quiere arrepentirse. Está demostrando una actitud de abierto desafío contra Cristo y su obra. Por lo tanto, el arrepentimiento es imposible.
+
+##### Estamos seguros de que les espera lo mejor
+
+Después de una advertencia tan severa, el Pablo de Hebreos se dirige a su audiencia con un cambio de tono y palabras de aliento: “En cuanto a ustedes, queridos hermanos, aunque nos expresamos así, estamos seguros de que les espera lo mejor, es decir, lo que atañe a la salvación” (Heb. 6:9, NVI). Esta audiencia es como la buena tierra mencionada en el versículo 7, que produce una cosecha fructífera. Estas personas tienen un historial de servicio cristiano. Dios es justo al no pasar esto por alto (Heb. 6:10). Al dirigirse a su audiencia como “amados”, Pablo afirma implícitamente que ve una esperanza auténtica para sus lectores.
+
+#### APLICACIÓN A LA VIDA
+
+Es un fenómeno muy común en la Iglesia Adventista del Séptimo Día que los jóvenes adolescentes se bauticen. Por más que su experiencia con Cristo haya sido auténtica y sincera, cuando sean mayores y asistan a la universidad, su fe puede debilitarse y menguar. Algunos abandonan la iglesia a los 19 años, y deambulan por la vida hasta que, en algún momento después de los 30, ante varias crisis de la vida, muchos de ellos encuentran el camino de regreso a la iglesia. ¿Cuál es la mejor manera de actuar con un exmiembro que regresa a la iglesia?
+
+**Preguntas para reflexionar:**
+
+**1.** ¿Cómo responderías a una persona tal si leyera Hebreos 6:4 al 6 y pensara que el arrepentimiento no es posible?
+
+**2.** ¿Qué podemos hacer en forma individual y colectiva para prevenir la apostasía en nuestras familias, y en nuestra iglesia?

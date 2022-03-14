@@ -1,0 +1,127 @@
+---
+  video:
+    - artist: Escuela Sabática Viva
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-01.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-02.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2021-04-13.webp
+    - artist: Pastor Alejandro Bullon
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-01.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2021-04-13.webp
+    - artist: Escuela Sabática Universitaria
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2021-04-13.webp
+    - artist: Mission 360
+      clips:
+        - src: https://cdns.adventistmission.org/MS/MS-214-1-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2141TBNL_ES.jpg
+          title: "Novedades sobre Misión Poco Común: Tokio"
+        - src: https://cdns.adventistmission.org/MS/MS-214-2-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2142TBNL_ES.jpg
+          title: Un lugar seguro y un nuevo idioma
+        - src: https://cdns.adventistmission.org/MS/MS-214-3-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2143TBNL_ES.jpg
+          title: El día cuando Beirut explotó
+        - src: https://cdns.adventistmission.org/MS/MS-214-4-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2144TBNL_ES.jpg
+          title: Dadles para que puedan ir
+        - src: https://cdns.adventistmission.org/MS/MS-214-5-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2145TBNL_ES.jpg
+          title: Tres veces salvado
+        - src: https://cdns.adventistmission.org/MS/MS-214-6-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2146TBNL_ES.jpg
+          title: Aliviada de la depresión
+        - src: https://cdns.adventistmission.org/MS/MS-214-7-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2147TBNL_ES.jpg
+          title: Pioneros en las calles de Kinshasa
+        - src: https://cdns.adventistmission.org/MS/MS-214-8-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2148TBNL_ES.jpg
+          title: La última invitación
+        - src: https://cdns.adventistmission.org/MS/MS-214-9-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2149TBNL_ES.jpg
+          title: La ciudadela de Erbil
+        - src: https://cdns.adventistmission.org/MS/MS-214-10-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/21410TBNL_ES.jpg
+          title: "\"Yo iré\" por H.O.P.E."
+        - src: https://cdns.adventistmission.org/MS/MS-214-11-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/21411TBNL_ES.jpg
+          title: Estudiantes adventistas al rescate
+        - src: https://cdns.adventistmission.org/MS/MS-214-12-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/21412TBNL_ES.jpg
+          title: Iglesia en una yurta
+        - src: https://cdns.adventistmission.org/MS/MS-214-13-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/21413TBNL_ES.jpg
+          title: Un nuevo plan para una iglesia estancada

@@ -1,0 +1,62 @@
+---
+title:  Komen Guru
+date:  31/12/2021
+---
+
+**Ayat-ayat Utama**: Ibr. 2:3, 4; 1 Ptr. 4:14, 16; Ibr. 13:1–9, 13; 1 Raj. 19:1–18; Ibr. 3:12–14; Bilangan 13.
+
+#### Bahagian I: Gambaran Keseluruhan
+
+Pengenalan: Kitab Ibrani pada mulanya dibaca dan diterima oleh gereja Kristian awal sebagai sepucuk surat daripada rasul Paulus. Hak penulisan Paulus terhadap Ibrani ditunjukkan dengan penggabungan Ibrani dalam surat-surat Paulus dalam manuskrip Yunani. Dalam manuskrip terawal yang masih ada, bertarikh sekitar 200 A.D., Ibrani diletakkan tepat selepas surat Paulus kepada orang Rom. Hari ini, kita dapati Ibrani tepat sebelum surat-surat umum Perjanjian Baru: Yakobus; 1 dan 2 Petrus; 1, 2, dan 3 Yohanes; dan Yudas.
+
+Ibrani tidak dimulakan dalam cara penulisan surat menurut protokal standard yang menjadi kebiasaan (lihat Ibr. 1:1-3). Sesungguhnya, buku itu tidak mempunyai nama Paulus, penerima yang khusus, ucapan salam, serta ucapan syukur (bandingkan dengan Flp. 1:1-11). Ibrani, bagaimanapun, diakhiri dalam bentuk penulisan sepucuk surat. Di sini, penulis, yang diakui oleh Ellen G. White sebagai Paulus, memberikan arahan yang relevan kepada hadirinnya: “Dan aku menasihatkan kamu, saudara-saudara, supaya kata-kata nasihat ini kamu sambut dengan rela hati, sekalipun pendek saja suratku ini kepada kamu” (Ibr. 13:22, LAI). Dia juga menyampaikan salam kepada gereja, serta para pemimpinnya: “Sampaikanlah salam kepada semua pemimpin kamu dan semua orang kudus” (Ibr. 13:24, LAI). Sebagai kesimpulan, dia menambahkan ucapan selamat tinggal terakhir: “Kasih karunia menyertai kamu sekalian” (Ibr. 13:25, LAI). Oleh itu, berdasarkan kepada penukaran haluan seperti yang kita perhatikan di sini, kita boleh mengatakan bahawa Ibrani adalah sepucuk surat yang luar biasa.
+
+Tema Pelajaran: Pelajaran minggu ini menekankan tiga perkara: “genre” surat ini, hadirinnya, dan “zaman akhir” di mana pembacanya hidup.
+
+#### Bahagian II: Ulasan
+
+**Genre Surat Ibrani**
+
+Gaya bahasa Ibrani telah dikenal pasti sebagai homili atau khotbah Kristian. Apakah ayat alkitabiah yang menjadi alasan untuk menganggap Ibrani sebagai sebuah khotbah?
+
+Pertama, Paulus menyifatkan karyanya sebagai “kata-kata nasihat” (Ibr. 13:22), yang paling mudah difahami sebagai ceramah secara lisan. Demikian juga, sewaktu dalam perjalanan penginjilan mereka yang pertama, Paulus dan Barnabas mengunjungi sinagog di Antiokhia di Pisidia pada satu Sabat. Para pemimpin rumah ibadat bertanya kepada Paulus dan Barnabas jika mereka mempunyai “pesan untuk membangun dan menghibur umat” (Kis. 13:15, LAI). Paulus segera berdiri dan menyampaikan khotbah penginjilan-sinagog, yang dicatatkan dalam Kisah 13:16-41.
+
+Kedua, kitab Ibrani menggunakan kata ganti nama jamak orang pertama [kita (we)/kita (us)/kita (our)] dengan cara yang tersendiri. Penggunaan ini membolehkan pembicara menyamakan dirinya dengan hadirinnya namun pada masa yang sama menegaskan autoritinya.
+
+Ketiga, terdapat beberapa rujukan kepada bercakap dan mendengar daripada menulis dan membaca, antara lain ciri penulisan Paulus. Renungkan contoh berikut: “. . . yang kita bicarakan ini” (Ibr. 2:5, LAI); “Tentang hal itu banyak yang harus kami katakan, tetapi yang sukar untuk dijelaskan, karena kamu telah lamban dalam hal mendengarkan” (Ibr. 5:11, LAI); “Sekalipun kami berkata demikian...” (Ibr. 6:9, LAI); “Inti segala yang kita bicarakan itu ialah...” (Ibr. 8:1, LAI); “Dan apa lagi yang harus aku sebut?” (Ibr. 11:32, LAI) (penekanan diberikan).
+
+Keempat, huraian yang diselang-selikan dengan nasihat dilihat di keseluruhan buku Ibrani disampaikan dengan begitu lancar. Seorang pemidato zaman Yunani-Rom menggunakan pola ini untuk menyatakan inti utamanya tanpa kehilangan perhatian dari para pendengarnya. Cara penyampaian pidato ini membantu kita mengenal pasti dengan mudah pola-pola yang diselang-selikan dalam kitab Ibrani. Oleh itu, kita melihat bahawa huraian Ibrani 1 menjurus kepada nasihat dalam Ibrani 2:1-4. Hujah Ibrani 2:5-18 segera berubah menjadi aplikasi dalam Ibrani 3:1. Perbincangan dalam Ibrani 3:2-6 diberi penekanan melalui perkataan “oleh itu,” yang seterusnya disalurkan kepada nasihat dalam Ibrani 3:7-13. Kemudian huraian dalam Ibrani 3:14-19 diterapkan dalam Ibrani 4:1, manakala huraian Ibrani 4:2-10 dilanjutkan kepada huraian dalam Ibrani 4:11-16, dsb. (Untuk informasi lebih lanjut mengenai pergantian antara huraian dan nasihat dalam Ibrani, lihat Donald A. Hagner, Encountering the Book of Hebrews: An Exposition, Encountering Biblical Studies [Grand Rapids, MI: Baker, 2002], hlm. 28).
+
+Kelima, cara Paulus memperkenalkan tema-tema ini menyokong bentuk penyampaian lisan yang boleh digunakannya untuk menghasilkan kesan yang kumulatif. Tema-tema ini dikembangkan sepenuhnya kemudian. Sebagai contoh, persekutuan Yesus dengan manusia, yang disebut dalam Ibrani 2:14-18, dijadikan tema dalam Ibrani 5:1-10. Imannya, yang digambarkan dalam Ibrani 3:1-6, dinyatakan secara eksplisit dalam Ibrani 12:1-3. PerananNya sebagai Imam Besar (Ibr. 4:14, Ibr. 5:1-10) dikembangkan dengan lebih lengkap dalam Ibrani 7:1-9:28.
+
+Ringkasnya, jika seseorang melihat Ibrani sebagai “kata nasihat”, maka kesimpulannya nampaknya tidak dapat dielakkan: Ibrani direka, sekurang-kurangnya pada asalnya, sebagai sebuah khotbah. Unsur-unsur lain yang terdapat di dalam surat ini yang menyokong kesimpulan ini adalah: (1) penggunaan khas kata ganti nama majmuk orang pertama, (2) rujukan untuk mendengar dan bercakap, (3) huraian dan nasihat yang silih berganti, serta (4) cara Paulus memperkenalkan tema-tema secara halus dan kemudian mengembangkannya.
+
+Soalan untuk difikirkan: Dalam buku mana lagi dalam Alkitab, atau dalam Perjanjian Baru, terdapat khotbah yang direkodkan, dan bagaimanakah ia jika dibandingkan dengan Ibrani? Apakah unsur-unsur yang terdapat pada khotbah ini yang sama dengan Ibrani, dan apakah unsur-unsur yang berbeza?
+
+**Hadirin Ibrani**
+
+Identiti tepat hadirin yang ditujukan oleh Ibrani tidak didedahkan dengan jelas kerana buku itu tidak menggunakan gaya penulisan surat yang standard di bahagian pengenalannya, di mana penerima surat akan disebut. Apa yang boleh kita katakan dengan pasti berkenaan ayat alkitabiah ini adalah bahawa hadirin yang ia tujukan merupakan orang Kristian. Kesimpulan ini nampaknya jelas dari rayuan Paulus kepada mereka untuk berpegang pada pengakuan iman mereka: “Karena kita sekarang mempunyai Imam Besar Agung, yang telah melintasi semua langit, yaitu Yesus, Anak TUHAN, baiklah kita teguh berpegang pada pengakuan iman kita” (Ibr. 4:14, LAI; lihat juga Ibr. 10:23, LAI). Sama ada golongan yang dituju itu adalah orang Kristian Yahudi, Kristian bukan Yahudi, atau hadirin yang bercampur-baur hangat diperdebatkan. Surat itu tidak pernah menyebut orang Yahudi atau Kristian. Ia juga tidak menyebut tentang sunat atau kaabah (tidak boleh dikelirukan dengan “suci”, yang diterjemahkan sebagai tempat kudus, atau “khemah,” diterjemahkan sebagai khemah pertemuan). Tambahan pula, surat itu mengelak pemecahbelahan dengan tidak membuat rujukan kepada orang Yahudi atau orang Yunani. Fakta ini membuktikan bahawa hadirin Ibrani terdiri daripada kelompok yang bercampur-baur. Oleh itu, panggilan “kepada Ibrani” merupakan satu tekaan dahulukala tentang hadirinnya. Namun, tidak kira siapa mereka, golongan penting ini termasuk dalam kelompok “umat Tuhan” (Ibr. 4:9).
+
+Surat itu telah ditujukan kepada komuniti Kristian yang jelasnya telah melalui tiga fasa pengalaman setidak-tidaknya.
+
+Fasa pertama dicirikan oleh penginjilan, yang dijalankan oleh saksi mata dan saksi telinga Kristus (Ibr. 2:3). Fasa ini disertai dengan tanda-tanda yang diberikan Tuhan, mukjizat, dan pembahagian Roh Kudus (Ibr. 2:4). Individu-individu yang menjadi orang Kristian semasa fasa ini telah “diterangi hatinya,” “mengecap karunia sorgawi,” “mendapat bagian dalam Roh Kudus,” dan “mengecap firman yang baik dari TUHAN dan karunia-karunia dunia yang akan datang” (Ibr. 6:4, 5, LAI). Melalui pengalaman sedemikian, komuniti ini mengembangkan identiti kelompoknya dan membezakan diri mereka daripada dunia luar.
+
+Fasa kedua dicirikan oleh penganiayaan dari luar komuniti, sementara orang-orang di dalam komuniti itu sendiri menunjukkan perpaduan sesama mereka (Ibr. 10:32, 33). Penganiayaan menjadi sangat keras; namun, Paulus ingat bahawa kelompok ini “menerima hal itu dengan sukacita” “ketika harta” mereka “dirampas” (Ibr. 10:34, LAI). Penganiayaan kejam sedemikian rupa, dalam jangka masa yang panjang, boleh menyebabkan keletihan, keraguan, dan penyakit.
+
+Keadaan ini nampaknya menjadi masalah dalam fasa ketiga. Itulah sebabnya Paulus menyampaikan khotbah yang begitu berkobar-kobar. Dia ingin memberikan semangat, nasihat dan peringatan kepada hadirinnya. Dia memperingatkan mereka supaya “jangan hanyut" (Ibr. 2:1, LAI), kerana dia menginginkan tidak seorang pun “murtad dari TUHAN yang hidup” (Ibr. 3:12, LAI) dan “supaya jangan seorang pun jatuh karena mengikuti contoh ketidaktaatan itu juga” (Ibr. 4:11, LAI). Paul menggalakkan penontonnya untuk terus maju, bukan mundur. Namun, dia menyedari bahawa para hadirinnya “memerlukan susu, bukan makanan keras” (Ibr. 5:12, LAI). Tambahan pula, hadirin kepada siapa surat ini ditujukan “menjauhkan diri dari pertemuan-pertemuan ibadah...seperti dibiasakan oleh beberapa orang” (Ibr. 10:25, LAI). Paulus menasihati hadirinnya supaya tidak meninggalkan keyakinan mereka kerana “besar upah yang menantinya” (Ibr. 10:35, LAI).
+
+Ringkasnya, seseorang boleh menyimpulkan bahawa penonton Ibrani terdiri daripada orang Kristian yang telah melalui fasa penginjilan yang penuh semangat, kemudian penganiayaan yang keras, dan, akhirnya, merasa sangat lelah dan berputus asa sehingga Paulus takut akan keselamatan kekal mereka. Pengalaman kelelahan rohani dan keputusasaan merupakan tujuan Paulus menyampaikan khotbahnya yang bertenaga ini.
+
+**Soalan Perbincangan**: Fikirkan kembali kitar kehidupan gereja anda. Selidiki di mana anda berada dalam perjalanan anda dengan Tuhan berbanding dengan hadirin Ibrani. Adakah anda sanggup menderita sehingga anda dengan gembira menerimanya apabila harta benda anda dirampas? Kristus memerhatikan bahawa gereja di Efesus telah kehilangan cinta pertama mereka (Why. 2:4). Pemerhatian yang serupa mungkin dibuat terhadap hadirin Ibrani, yang semangat rohani mereka berkurangan apabila penderitaan mereka semakin sengit dan semakin bertambah. Apakah akibat daripada kehilangan semangat rohani tersebut?
+
+“Pada Zaman Akhir Ini”
+
+Ucapan yang terakhir dan menjadi penentu Tuhan kepada umat manusia adalah melalui Yesus, Anak, “pada zaman akhir ini” (Ibr. 1:1, 2, LAI). “Zaman akhir ini” bermula dengan inkarnasi Kristus dan akan berakhir dengan kedatanganNya yang kedua apabila musuh-musuhNya akan dijadikan “tumpuan” bagi kakiNya (Ibr. 1:13, LAI). Tuhan bukan sahaja bercakap melalui kata-kata Yesus “pada hari-hari terakhir ini” tetapi juga melalui tindakan-Nya, khususnya kematian, kebangkitan, dan permuliaan-Nya. Itulah sebabnya kedua-dua penonton Ibrani dan kita "harus memberi perhatian yang lebih kepada apa yang telah kita dengar, supaya kita tidak hanyut daripadanya" (Ibr. 2:1, NRSV).
+
+**Soalan Perbincangan**: Apakah yang disampaikan oleh metafora pelayaran dalam Ibrani 2:1 tentang “hanyut”?
+
+#### Bahagian III: Penerapan
+
+Ketika Beethoven berumur 5 tahun, dia bermain violin di bawah bimbingan bapanya. Pada masa dia berumur 13 tahun, dia merupakan seorang pemain organ konsert. Dalam usia 20-an, dia belajar di bawah pemuzik terkenal, seperti Haydn dan Mozart. Sementara Beethoven mengembangkan kemahirannya, dia menjadi seorang komposer yang produktif. Keghairahannya terhadap muzik menghasilkan beberapa simfoni yang agung, sebilangan konserto untuk piano, dan beberapa karya muzik chamber. Cintanya terhadap muzik mendorongnya lebih jauh ke dalam pencapaian muziknya. Walau bagaimanapun, Beethoven tidak terkecuali dari melalui kesukaran. Semasa masih dalam lingkungan 20-an, dia mula kehilangan pendengarannya. Apabila dia mencapai usia 50-an, Beethoven benar-benar pekak. Bayangkan apa ertinya ini kepada seorang pemuzik sepertinya!
+
+Letakkan diri anda di tempat di mana hadirin Ibrani ini berada. Pada kemuncak tertinggi semangat Kristian anda, tiba-tiba bencana yang tidak dijangka berlaku. Jadi, bagaimana anda akan memberi respon kepada khotbah dalam buku Ibrani ini?
