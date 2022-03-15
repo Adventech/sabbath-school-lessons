@@ -6,6 +6,27 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_1_a515c2e832.png
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-2-the-message-of-hebrews-an-overview/-/40038318/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_2_ca332904bd.png
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-3-jesus-the-promised-son-1/-/40038323/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_3_98288820d6.png
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-4-jesus-our-faithful-brother/-/40038625/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_ynIgAuX6Xen_3ae069d24d.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-5-jesus-the-giver-of-rest/-/40038707/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_X3h4ZQqb1T2_dd05cb5052.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-6-jesus-the-faithful-priest/-/40038770/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_ajq864mLe2k_178f6f6689.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-7-jesus-the-anchor-of-the-soul/-/40038811/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_zckGApyqHhh_9b3176a979.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-8-jesus-the-mediator-of-the-new-covenant/-/40038978/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_JO2q38XIeah_c9391f81e9.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-9-jesus-the-perfect-sacrifice/-/40039243/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_mR5wSczZtvO_f4807f4f99.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-10-jesus-the-open-way-through-the-veil/-/40039444/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_XMvDnMnDVK0_56c2dbd4ec.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-11-jesus-author-and-perfecter-of-our-faith/-/40039751/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_ak1pBsTaozw_25908e6917.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-12-receiving-an-unshakeable-kingdom/-/40039917/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_kT96bKMELTX_58a9e3e169.jpg
+
     - artist: Mission 360
       clips:
         - src: https://cdns.adventistmission.org/MS/MS-221-1-WEEKLY-EN.mp4
@@ -53,15 +74,65 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-01.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-02.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-01-12.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61ba7dd294564f0001d44485/61ba7dd294564f0001d44486/550b0b2669702d0707940200/aaadacb5-0223-4cc3-bb49-36fd068f6e2c.mp4?3MRK_-H2f1SZDTHlfL5yAWN2b1BwpYxg17q72Q8XsmK17YmJe_Va2TOJG5dYEp-fM13_YgeXxts43-znrmPorIJ2wF9QvYq_3WT7GaMVGUX__CXSOQWxIHHMyzv0mPlvMvNkPOdwemoOJQO0NkQT7A&F38b1dF4=61c0e0c0233c150001b8a869
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61c37f5c86f09900018e3278/61c37f5c86f09900018e3279/550b0b2669702d0707940200/b56b57b8-7837-490f-8f29-24c703c172ae.mp4?hjSlgZO2-icyxZMZIHYPwYk_gpPRCUabmYVyJiZom5IvMrDmE4L53LhRlqLPudra9vQ28zyLRB461EsnlDy31upnqtJIVbkzl2o9odtzVurWZxH2CsX0Bs0OJXNVeFjm9GUy5KnaEDqAAPiuTl8L1Q&F38b1dF4=61c391d16cdc350001fa24b2
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61ccd8fcdc964800017f4a92/61ccd8fcdc964800017f4a93/550b0b2669702d0707940200/8623402a-dde8-44a1-acd8-221ce0ba459b.mp4?lj5SdTq2NaeIm-lo8qpW9JGnAo5ibz0_s-mHmZPkdrvkZ2YKmRPLwAbL3-4BBcBCWrFNQkUw0tSLjYQxiZhXyhpUfwI1HkhMu9tKDv3MAU3tUDWVbKgo158nU5jzMNfFXSzWpWMyqtvZOAe9y6fM3w&F38b1dF4=61cce871fd4bf70001c3dd7c
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61d773e5e3535700014768bd/61d773e5e3535700014768be/550b0b2669702d0707940200/e29fd66a-4049-45e1-b05d-948547edca44.mp4?uiNliNMzPE35SEpwMmcZmkWLU0RiBpCr3a_SWwXOU4bdKM1DF1DSZkTJMqEoWiWUQ26IhSr1vQSOSdmBYevD1vz0idMOqJcptvd5FtemqPbaUxt89y_795kAMuvu4u6GwG_ja5uRlibRjTthrnBLew&F38b1dF4=61dc74239658fc000146e7d0
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61e08ef17a12a60001ed67d7/61e08ef17a12a60001ed67d8/550b0b2669702d0707940200/095cbaa4-c0a4-461b-a310-ca007c5e5097.mp4?Nj2I4B0Lh4IRJ7XgPASeEox7URg4BeSH2GpD4dglswpzXusxdm5OwHXASA8osyIAFtvlTp-2eBnW-DBk0NtcFQ-CHgp7MJ5qI2wBX4gW7P_9PlTJCujk6LFZPlUhkq5h-idWr1pD5zx1hroDNDqp0g&F38b1dF4=61ef34cd13424b00010acf37
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61e9eb4a5039c300013fe062/61e9eb4a5039c300013fe063/550b0b2669702d0707940200/f26eff3f-4b67-4652-81a3-7e2120deef5a.mp4?zg6LJomGg97oiosw5U7tDzPVqtS6NOWMQmdlzjIR9jktixa6WqYq5Pvcq8-yan68rton-WpuDYXk2k9cTlLWF8gIwNkVPGkRl5WXuHq50ILv-gQmQ-zXLybv2Tjfrz2Xs2T9NRoBxrpHwKOP9E-eZw&F38b1dF4=61ef367e93d5ca0001ec1936
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61f1c49a05ce21000176e884/61f1c49a05ce21000176e885/550b0b2669702d0707940200/7d50713a-be57-4a1c-aeb6-45174a7bc9d4.mp4?ReDeDVyjMkgEChaobP96p4PRcS1r8NH9mSy93N963E4tyOcgPAC9cvpMZXyiub88QCHiKCzYb-yoGiEc6cut0Cv1xvFUKfz95Ts3Pvvrvhb2q_cVYWzrMf4bOD0v7e4uAZxRVGGLaE9tVEUN348keQ&F38b1dF4=61f831b15389310001185872
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/61f9e0f530ea4d000174c533/61f9e0f530ea4d000174c534/550b0b2669702d0707940200/eb11290d-a009-40c7-9f27-4f0bccb592ac.mp4?V8pIkSM1HdfHFkgWHfCXE9Op8DNKsTglABykxtkgcjzq1Weq1YA1asvPDLNd95vyuXAxsRXKHetR6L0gztHbNKO2SLSQw4efySeZUA0AW9SmaGKMb-3cmMVSeqJuts34VKwR7FLJ-ZK89_CH9vKNJw&F38b1dF4=61fab8914c372d000123a754
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/62055aaa8cbd87000108e26c/62055aaa8cbd87000108e26d/550b0b2669702d0707940200/62e8b69d-4cee-4e51-b91d-708b8be755d8.mp4?tf7-l-_0Yf3HsR28me9kKPMy__KyDKl-Y7V1neSdrmo3NOXliLKAFOmwvb8agSlcAJYrjNNhYzepXz9TW1SQ1iboxFrN-LvySawPO4KUZOXIYNxvzvkjOnU42ciaTbmGVcU92RjWMJztvZeEyHYaoQ&F38b1dF4=620ab4c11cc82a0001efecfe
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/620e979eb9d4640001f0dfed/620e979eb9d4640001f0dfee/550b0b2669702d0707940200/5617281b-026f-4d14-9719-976d8f5ec1e7.mp4?QBkqaEXN0k328Y4ln7cswmrnoJfd78JoY2DPv68x8Prs2nSqxrV43fPZTDC2guT3ecKJGWxUZbehGhzlmw_oaFa_NVibbuUIo4HZZvYcFCJBoInlY35TpF2xhZiif3iEr5EIqgcYTOmJCzkuEbfz1g&F38b1dF4=621d0e10b5508b00011b0bc1
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6217e01c773db40001254631/6217e01c773db40001254632/550b0b2669702d0707940200/d314efa1-a6b1-4667-a7b4-181cad328077.mp4?UItSTjKv0QpRccNCbgg-79rgnqZ2oXSsNNkZYxoCDTmJmvKCkcR625S-fy3oUmUKWvklQseqN5oDD83awd2QdQtrnihv2v5mjlFLqU0BMhiKdkUq2lvFZ5XSh9FXAJIUu-JiYuIn33NhbowszR57QQ&F38b1dF4=621fccc183ec2100018c58d9
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6220fb9a69b6f60001d06feb/6220fb9a69b6f60001d06fec/550b0b2669702d0707940200/46c99f22-af10-4dba-9d6b-8f11ec62cf27.mp4?spBejsi_2-NuHhP-D537z0_S1VEhsDGqVpwcKA7LYK-7xHio2K2p5cCSL9TGpjIa6yeanICglZuHmPjG8HBHdQEwGHm3pJl7tSKDohDjNeS3PQDqjl6D8AopG41IXTBOUEK3jm9MxN4vjtUqx7OALw&F38b1dF4=622a8b14e6fe5e00015ee02f
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/622a47aa5e31e60001e7335f/622a47aa5e31e60001e73360/550b0b2669702d0707940200/6613117f-933a-427d-a225-c5616fafb4f5.mp4?K4d0BWDe54f2a4eNydrSgh39Ip7TGfxfj5fhA6vxeqs_0kpYPQIKPNwO3SwOaRRyFKQPJSiSdFEK4XpecP6wKuPWVlbe2gtl0GFL42yIsWNFZAfgBy9Oq2Lq16G-aviSX35lR5jRB837dh1Tua0sHA&F38b1dF4=622fbae12251090001e0fa26
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-01.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-01.jpg
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-02.mp4
-        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-02.jpg
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-02.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-03.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-03.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-04.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-04.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-05.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-05.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-06.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-06.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-07.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-07.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-08.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-08.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-09.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-09.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-10.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-10.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-11.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-11.jpeg
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-12.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-01-12.webp
