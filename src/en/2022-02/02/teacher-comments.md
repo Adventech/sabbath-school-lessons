@@ -7,7 +7,7 @@ Key Text: Genesis 3:15
 
 Study Focus: Genesis 3; Rev. 12:7–9; Rom. 16:20; Heb. 2:14;
 
-1 Tim. 2:14, 15.
+1 Tim. 2:14, 15.
 
 #### Part I: Overview
 
@@ -33,7 +33,7 @@ The structure of the chapter highlights two main themes: the theme of temptation
 
 **The Temptation of Eve**
 
-The first section of this text (Gen. 3:1–13) tells the story of the temptation and analyzes its mechanism. Ironically, the temptation begins with a theological conversation, or, more precisely, an exegetical discussion about the meaning of the Word of God: “ ‘Has God indeed said . . . ?’ ” (Gen. 3:1, NKJV). The serpent initiates the discussion with a question to the woman, who immediately responds. The dialogue between the serpent and the woman unfolds in two rounds. Let’s note the strategy of the serpent and the woman’s mistake.
+The first section of this text (Gen. 3:1–13) tells the story of the temptation and analyzes its mechanism. Ironically, the temptation begins with a theological conversation, or, more precisely, an exegetical discussion about the meaning of the Word of God: “ ‘Has God indeed said . . . ?’ ” (Gen. 3:1, NKJV). The serpent initiates the discussion with a question to the woman, who immediately responds. The dialogue between the serpent and the woman unfolds in two rounds. Let’s note the strategy of the serpent and the woman’s mistake.
 
 **Round 1 (Gen. 3:1–3).**
 
@@ -47,7 +47,7 @@ The strategy of the serpent (read Gen. 3:4, 5). What are the two issues that the
 
 The mistake of the woman (read Gen. 3:6). What elements of the woman’s response indicate the serpent’s influence on her? Why did Adam not discuss with Eve her decision to eat the fruit?
 
-As soon as Eve hears the serpent’s last words, “ ‘you will be like God’ ” (Gen. 3:5, NKJV), she wants to be like God. The words that describe the first move of her temptation, “the woman saw that . . . was good,” are an exact repetition of God’s regular evaluation of His creation: “and God saw that . . . it was good.” This parallel suggests, perhaps, that the woman’s intention is to take the place of the Creator, as if she had herself created the fruit and owned it.
+As soon as Eve hears the serpent’s last words, “ ‘you will be like God’ ” (Gen. 3:5, NKJV), she wants to be like God. The words that describe the first move of her temptation, “the woman saw that . . . was good,” are an exact repetition of God’s regular evaluation of His creation: “and God saw that . . . it was good.” This parallel suggests, perhaps, that the woman’s intention is to take the place of the Creator, as if she had herself created the fruit and owned it.
 
 **The Salvation of Humanity**
 
@@ -63,7 +63,7 @@ Now, what is meant by the word seed? This word should neither be understood in a
 
 This rhythmic shift indicates that this pronoun is the hinge of the passage. Moreover, “he” is the first word in the phrase, thus giving it emphasis. Out of the 103 passages in which the Hebrew pronoun hu’, “he,” is translated in the Septuagint, Genesis 3:15 is the only occurrence in which it does not agree with its immediate antecedent.
 
-Indeed, the Greek form of the pronoun (autos) refers neither to the woman (it is not feminine), nor to the seed (it is not gender neutral). Rather, autos refers instead to a male individual. This syntactical irregularity shows us that the translators had in mind a specific person, a man in real history, the Messiah. This Messianic interpretation of Genesis 3:15 is even attested by the Hebrew Scriptures. One of the most eloquent testimonies of this view is found in Psalm 110, where the words of Genesis 3:15 reappear and are directly applied to the Davidic Messiah. The words of the psalm, “ ‘Till I make Your enemies’ ” (Ps. 110:1, NKJV), are indeed a verbal repetition of the first words of the Genesis promise “I will put enmity.”
+Indeed, the Greek form of the pronoun (autos) refers neither to the woman (it is not feminine), nor to the seed (it is not gender neutral). Rather, autos refers instead to a male individual. This syntactical irregularity shows us that the translators had in mind a specific person, a man in real history, the Messiah. This Messianic interpretation of Genesis 3:15 is even attested by the Hebrew Scriptures. One of the most eloquent testimonies of this view is found in Psalm 110, where the words of Genesis 3:15 reappear and are directly applied to the Davidic Messiah. The words of the psalm, “ ‘Till I make Your enemies’ ” (Ps. 110:1, NKJV), are indeed a verbal repetition of the first words of the Genesis promise “I will put enmity.”
 
 These are the only two texts in the Bible where this association of words is used. Moreover, it also is connected to the imagery of the enemy crawling under the foot as an expression of that same idea of victory (Ps. 110:1). Also, the familiar theme of “crushing the head” in Genesis 3:15 reappears here and is repeated twice (Ps. 110:6, 7).
 
