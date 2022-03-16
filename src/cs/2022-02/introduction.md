@@ -1,0 +1,17 @@
+### Na počátku
+
+Kniha Genesis je zprávou o Ježíši, našem Stvořiteli, Udržovateli a Vykupiteli. Když apoštol Jan tisíciletí po vzniku této knihy psal své evangelium, vrací se ke slovům Mojžíše a odhaluje Ježíšovu roli při stvoření: „Na počátku bylo Slovo, to Slovo bylo u Boha, to Slovo bylo Bůh. To bylo na počátku u Boha. Všechno povstalo skrze ně a bez něho nepovstalo nic, co jest. V něm byl život a život byl světlo lidí“ (J 1,1–4).
+
+Co se Jan snaží zdůraznit? „Na počátku“ bylo stvořeno to, co předtím neexistovalo, a vše bylo stvořeno Ježíšem. Celé stvoření – od galaxií, které se řítí vesmírem jako ohromující shluky ohně a světla, přes precizně zorganizovanou DNA zázračně vetkanou do buňky až po kvantové vlny – to vše Ježíš stvořil a udržuje. A právě kniha Genesis je prvním příběhem Písma o stvoření a zároveň o vykoupení, o záchraně tohoto stvoření. V Genesis se nachází jediný „oficiální“ záznam o našem původu.
+
+Název knihy – Genesis – pochází z řeckého slova genesis, což znamená „původ“ nebo „zrození“. Celý koncept je odvozen z hebrejského termínu berešit („na počátku“), prvního slova knihy (a tedy i prvního slova celé Bible). Kniha Genesis představuje základ, na kterém stojí celé Písmo. Je velice důležitá a je knihou, na kterou se ostatní části Bible nejvíce odvolávají a nejvíce z ní citují.
+
+Kniha Genesis nám pomáhá porozumět, kým jako lidské bytosti vlastně jsme. Je to důležité především dnes, kdy se lidstvo považuje jen za výsledek náhody a souhry okolností ryze materialistického vesmíru. Nebo jak řekl jeden fyzik, my lidé jsme jen „zorganizované bláto“ (což je do určité míry pravda, ačkoli z jeho pohledu byly oním organizátorem jen a jen přírodní zákony). Genesis nám však odhaluje náš skutečný původ. Jsme bytosti záměrně a dokonale stvořené k Božímu obrazu v dokonalém světě. Genesis také vysvětluje pád člověka do hříchu. To je důvod, proč náš svět už není dokonalý a proč nejsme dokonalí ani my lidé. Genesis nás však utěšuje Božím zaslíbením záchrany ve světě, který nám sám o sobě nenabízí nic jiného než utrpení a smrt.
+
+Genesis se svými dramatickými příběhy o zázracích (stvoření, narození, duha) a soudech (potopa, Sodoma a Gomora), které svědčí o svaté Boží přítomnosti, vzbuzuje úžas. Genesis je však i kniha dojímavých lidských příběhů o lásce (Jákob a Ráchel), o nenávisti (Jákob a Ezau), o narození (Izák, Jákob a Jákobovi synové), o smrti (Sára, Ráchel, Jákob a Josef), o vraždě (Kain, Simeon a Lévi) a odpuštění (Ezau a Jákob, Josef a jeho bratři). Je to také učebnice s lekcemi o etice (Kain, Babylon), o víře (Abraham, Jákob) a o naději a příslibu vykoupení (rozdrcení hada, zaslíbená země).
+
+Toto čtvrtletí budeme nejen číst a studovat knihu Genesis, ale budeme spolu s jejími aktéry prožívat i krásné příběhy, a tak se naučíme lépe chodit s Pánem stvoření, Bohem Abrahama, Izáka a Jákoba.
+
+Popisované příběhy se odehrávají na různých místech – od Edenu přes Babylon, zaslíbenou zemi, po Egypt –, připomínají nám, že i náš život je cesta, a posilují naši naději na skutečnou zaslíbenou zemi – na nové nebe a novou zemi. Když sledujeme postavy na stránkách knihy Genesis, zjišťujeme, že bez ohledu na to, jak odlišná je jejich doba, místo, kultura a okolnosti života od naší situace, často jsou jejich příběhy v mnoha ohledech i našimi příběhy.
+
+_Jacques B. Doukhan, DHL, ThD, je emeritním profesorem hebrejštiny a výkladu Starého zákona na Teologickém semináři CASD na Andrewsově univerzitě._
