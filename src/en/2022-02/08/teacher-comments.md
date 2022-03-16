@@ -1,0 +1,54 @@
+---
+title:  Teacher Comments
+date:  20/05/2022
+---
+
+Key Text: Genesis 24:1
+
+Study Focus: Genesis 22–25, Rom. 4:1–12, Rom. 5:6–8.
+
+#### Part I: Overview
+
+Introduction: This section takes us to the climax of Abraham’s religious journey: the sacrifice of Isaac. This sacrifice is the “test” of Abraham’s faith. This intriguing event marks the center of the structure of the book of Genesis, a literary device utilized to alert the reader to the chapter’s importance. A number of questions will be explored: What is the meaning of this test? Why did God ask Abraham to sacrifice his son in contradiction to His promise? How will God provide? Why did the sacrifice change from Isaac to the expectation of a lamb and finally to the ram? What is the theological and prophetic significance of the failed sacrifice? After this dramatic incident, no significant event happens in Abraham’s life. The next major story is Isaac’s marriage to Rebekah. Then Abraham marries Keturah and eventually dies “well advanced in age.”
+
+**Lesson Themes:**
+
+1.	The Significance of Atonement. The sacrifice of Isaac concerns more than an ethical problem or an existential encounter. The biblical narrative deals with the issue of atonement, and it unveils its mystery, its profound meaning, its cosmic process, and its eschatological purpose. God’s call to Abraham, designed for the blessing of the nations, is fulfilled through the atonement recorded in the sacrifice of Isaac.
+
+2.	The Power of Prayer. Isaac’s marriage is founded on prayer. The beautiful story of Eliezer’s prayer and its fulfillment is particularly inspiring and rich in meaning and spiritual lessons.
+
+#### Part II: Commentary
+
+**The Significance of Atonement**
+
+The reference to “atonement” is already present in the notion of “test.” The meaning of the Hebrew verb nissah, “tested” (Gen. 22:1, NKJV), embraces two opposite ideas. On the one hand, it concerns judgment. God “tests” in order “ ‘to know what is in your heart’ ” (Deut. 8:2, NKJV; compare Ps. 139:1, 23, 24). This aspect is clearly enunciated by the Angel of the Lord (Gen. 22:11, 12).
+
+On the other hand, the biblical idea of “testing” goes beyond the deep investigation that God needed to give Abraham in order to evaluate the quality of his faith. Moses uses the same verb nissah, “test,” in order to reassure his people, trembling before the thundering on Sinai (Exod. 20:18–20). Instead of being an arbitrary and cruel act directed against the one tested, the divine testing brings the positive and promising perspective of divine judgment and atonement in behalf of the one tested and is, therefore, to be understood in connection with the covenant of grace and salvation.
+
+The idea of atonement reappears with the ram, which Abraham is surprised to see. Abraham and Isaac were expecting a lamb (Gen. 22:7, 8). To Isaac’s trembling question “Where is the lamb?” which implied another—“Am I the lamb?”—Abraham answers: “God will provide for Himself” (Gen. 22:8, NKJV), which means literally, “God will see in connection to Himself the lamb.” The construction of the phrase suggests an emphasis on “God,” to indicate that the solution is only in God. It is God who will see. The expression “see in connection to Himself” is awkward. It is unique in the Hebrew Scriptures. It has the same form as the phrase lekh lekha, meaning “get out in connection to yourself,” or, in a reflexive sense, “go yourself.” The verbal form yr’eh lo (generally translated as “He will provide”) should therefore be translated as “God will see (for) Himself as the lamb,” which means that God will provide Himself as the Lamb.
+
+The intention of this story was not to answer the question of the origins of animal sacrifices or to prescribe what humans must do and give to God in order to obtain salvation. The ram that took Isaac’s place signified God’s gift of Himself to Abraham. The process of salvation originates in God, as Paul emphasized: “God was in Christ reconciling the world to Himself” (2 Cor. 5:19, NKJV). Yet, beyond this substitutionary function of the animal, the ram as a burnt offering contains profound theological lessons. The nature of the sacrifice expressed its spiritual meaning. The burnt offering was the only sacrifice that required the burning of the totality of the animal (Lev. 1:9). The burnt offering pointed, then, to the wholeness of God’s sacrifice through Jesus Christ for the salvation of the human race (Heb. 9:12, Heb. 10:10). In the same manner, a burnt offering was offered on the Day of Atonement (Lev. 16:3, 5). More than any other biblical passage, this one shares the language with the text of the sacrifice of Isaac. We find the same association of words in both texts: “burnt offering” (Gen. 22:13; compare Lev. 16:3, 5), “appear,” in the same passive form (Gen. 22:14; compare Lev. 16:2), “he took” (Gen. 22:13; compare Lev. 16:5); and “one ram” (Gen. 22:13; compare Lev. 16:5). This unique intertextual connection suggests that the writer of the Day of Atonement ritual had the text of the sacrifice of Isaac in mind, and that he deliberately set this story in the perspective of the Day of Atonement.
+
+The story of Abraham’s offering and binding of Isaac goes, then, beyond the private existential, religious, or ethical experience of an individual. This is a prophecy. That the ram was provided by God points typologically to the eschatological Day of Atonement wherein God accepts that sacrifice for the historical fulfillment of the atonement of humanity (Dan. 8:14) in view of the kingdom of God (Dan. 7:9–14).
+
+**The Power of Prayer**
+
+Eliezer’s prayer (Gen. 24:12–14) has three components:
+
+1. Eliezer addresses God as his personal and historical God (Gen. 24:12).
+
+2. Eliezer asks for the success of the operation. The Hebrew verb haqr’eh, “ ‘give me success’ ” (Gen. 24:12, NKJV), derives from the verb qarah, which means “to happen” and conveys the idea of “chance” (Ruth 2:3). The servant asks God to produce the chance of this encounter. The notion of accidental chance has no room here. The fact that God is in control of chance means that He will operate within the parameters of what appears to be chance from a human viewpoint. He is the God of providence, who can cause the event to occur. This view is reinforced by the fact that the servant goes so far as to determine not only the moment of this event, which should take place right away (Gen. 24:12), but also the place that should be right here, where the servant has “made his camels to kneel down” (Gen. 24:11) and where he stands, “by the well of water” (Gen. 24:13, NKJV).
+
+3. Eliezer sets specific conditions. To determine the selection of the bride, the servant proposes a test to God. The candidate woman must not only let down her pitcher to him, a stranger (Gen. 24:14), but also must volunteer to give a drink to his ten camels. The difficulty of the test will establish whether God is behind it (Gen. 24:14; compare Judg. 6:36–40). This test obviously is not merely a supernatural sign showing God’s approval; it also is a character test that will reveal the personality of that woman, her generosity and kindness, her willingness to serve beyond what is required, her hospitality, and her physical stamina as well as her strength. The fulfillment of the servant’s prayer began even before he prayed (Gen. 24:15; compare Matt. 6:8).
+
+The report of how his prayer is fulfilled begins with a surprise, which is rendered by the word “behold” introducing Rebekah. In addition, the reference to the pitcher on her shoulder (Gen. 24:15) echoes the terms of the servant’s request to God (Gen. 24:14). The report then proceeds to specify the physical qualities of that woman: her beauty and her virginity (Gen. 24:16). Her family background qualifies her to marry Isaac. The spatial information that she went down to the well adds to the suspense. The servant is anxious to know (Gen. 24:17). To the servant’s amazement, all the requirements of the test are accurately met by Rebekah. She lets her pitcher down (Gen. 22:18), just as the servant had described in his prayer. She also volunteers to draw water and give drink to the camels (Gen. 24:19), just as the servant had stipulated. Rebekah goes beyond even the servant’s expectations. She does not merely fulfill her duties by giving a drink to the servant but adds an express invitation to drink. She also works with zeal, enthusiasm, and efficiency. The servant’s reaction is silent awe (Gen. 24:21).
+
+Although he prayed for this sign, he wonders at the unbelievable miracle. And yet, his faith remains mixed with doubts; he really does not know whether he has been successful or not (Gen. 24:21). Only when Eliezer arrives at Rebekah’s house does he know that he has been successful. He prays a second prayer of blessing to the Lord (Gen. 24:27). The blessing marks the sentiment of arrival at the destination and the fulfillment of prophecy (Ezra 7:27, 28; Dan. 12:13). The actual event of Rebekah’s fulfilling the exact words of his prayer makes the servant understand that God is not merely a God of love and grace but also a God of truth and action who causes events to occur.
+
+#### Part III: Life Application
+
+The Significance of Atonement. Discuss with your class the theological meaning of atonement and how this truth affects your personal life. What is atonement for you? Why do we need atonement? How would you communicate this need to your postmodern friend who does not feel the need to be forgiven? Discuss the spiritual and existential significance of the Adventist truth of the eschatological Day of Atonement. Discuss the relevance of the prophetic interpretation of the 2,300 evenings and mornings (Dan. 8:14). How does this difficult prophetic truth affect your life? How able are you to communicate this truth in an efficient, clear, and convincing manner to your secular friend? What does it mean if you cannot do it? Why is the truth of the eschatological Day of Atonement so important for your religious life, for your relationship with God, for yourself and your neighbor?
+
+The Power of Prayer. What spiritual lessons did you learn from Eliezer’s experience of prayer? Think of stories about the fulfillment of prayers from your own life that illustrate these lessons. What lessons did you learn from these success stories? How did these experiences strengthen your faith? Also, find in your life stories of the times in which God did not respond to your requests. What lessons did you learn from your disappointment? How did these failure stories deepen and/or repair your faith? How do you explain the fact that bad things happen to good people, and good things happen to bad people (read and discuss Eccl. 9:2, 11)?
+
+`Notes`

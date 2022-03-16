@@ -1,0 +1,21 @@
+---
+  title: "Genesis"
+  description: "Genesis is about Jesus: Jesus our Creator, Jesus our Sustainer, Jesus our Redeemer. Writing millennia after the Genesis text itself had been penned by Moses, and reaching back across those ages to the patriarch’s very words, the apostle John reveals Jesus in the Creation account: “In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through Him, and without Him nothing was made that was made. In Him was life, and the life was the light of men” (John 1:1–4, NKJV)."
+  human_date: "April · May · June 2022"
+  start_date: "26/03/2022"
+  end_date: "24/06/2022"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  splash: true
+  quarterly_name: "Standard Adult"
+  credits:
+    - name: Principal Contributor
+      value: "Jacques B. Doukhan"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Homayouni"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
