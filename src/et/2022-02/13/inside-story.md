@@ -1,6 +1,6 @@
 ---
 title: Misjonilugu  
-date: 25/06/2022  
+date: 24/06/2022  
 ---
 
 #### 10 aastat palvetamist
