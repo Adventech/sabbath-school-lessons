@@ -1,0 +1,56 @@
+---
+title:  El Sábado enseñaré
+date:  21/01/2022
+---
+
+### El sábado enseñaré...
+
+#### RESEÑA
+
+##### Textos clave: Levítico 25:25–27; Hebreos 2:14–16; 11:24–26; 1 Corintios 15:50; Hebreos 5:8, 9; 12:1–4.
+
+##### Temática de la lección:
+
+La comparación de Hebreos 1 con Hebreos 2 presenta un cuadro de contrastes. En Hebreos 1, Cristo es superior a los ángeles (Heb. 1:6), mientras que en Hebreos 2 es inferior a los ángeles –al menos, por determinado tiempo (Heb. 2:9). En Hebreos 1, Cristo está cerca de Dios, a su diestra (Heb. 1:13); en Hebreos 2, Cristo está cerca de nosotros, sus hermanos, y no se avergüenza (Heb. 2:11). Al contrastar al Cristo preencarnado con la naturaleza humana, Hebreos nos dice que Cristo participó de carne y sangre para ser como nosotros (Heb. 2:14). Cristo también murió como lo hacemos los seres humanos (Heb. 2:14). Pero, la gran diferencia entre nuestra muerte y la suya es que su muerte logró lo que nuestra muerte nunca pudo. Su muerte liberó a quienes “por el temor de la muerte estaban durante toda la vida sujetos a servidumbre” (Heb. 2:15). Cristo es como nosotros, pero diferente de nosotros. Él era verdaderamente humano, pero sin pecado (Heb. 4:15). Como Moisés, que eligió la vergüenza por sobre la fama (Heb. 11:25), Cristo despreció la vergüenza de hacerse humano y morir en una cruz, pero la aceptó de todos modos. Se hizo como nosotros para que nosotros pudiéramos llegar a ser como él. En esto, él no tiene por qué avergonzarse jamás de nosotros (Heb. 2:11), incluso cuando podamos “exponerlo a la vergüenza pública” (Heb. 6:6, NVI). Los seres humanos pasan por diferentes pruebas que producen resistencia y, finalmente, madurez de carácter. Pablo describe a Jesús de manera similar: “Por lo que padeció aprendió la obediencia” y fue “perfeccionado” (Heb. 5:8, 9). ¿Cómo aprendió Jesús la obediencia? ¿Fue desobediente en algún momento? Esa noción contradeciría Hebreos 4:15, que dice que Jesús fue probado en todo como nosotros, pero permaneció sin pecado.
+
+#### COMENTARIO
+
+##### “Habiendo sido perfeccionado”
+
+Hebreos 5:7 al 9 plantea varios desafíos. El texto dice: “Cuando Cristo vivía en este mundo, con gran clamor y lágrimas ofreció ruegos y súplicas al que lo podía librar de la muerte, y fue escuchado por su temor reverente. Aunque era Hijo, aprendió a obedecer mediante el sufrimiento; y una vez que alcanzó la perfección, llegó a ser el autor de la salvación eterna para todos los que le obedecen” (Heb. 5:7-9, RVC).
+
+Hay al menos tres interrogantes que surgen de este pasaje que merecen respuesta. En primer lugar, Pablo nos dice que Cristo ofreció oraciones a Dios, quien podía salvarlo de la muerte, y fue escuchado. ¿Qué significa que Jesús fue escuchado y salvado de la muerte? En segundo lugar, Jesús aprendió a obedecer. ¿Cómo aprendió a obedecer? ¿Fue porque, en algún momento, fue un Hijo desobediente? En tercer lugar, Jesús fue perfeccionado. ¿No fue siempre perfecto, sin pecado? Abordaremos cada una de estas cuestiones en orden.
+
+Jesús ¿fue escuchado y salvado de la muerte? La oración del versículo 7 comienza con la frase “en los días de su carne” (Heb. 5:7), que es una clara referencia a la existencia humana de Cristo. Cuando vivió la experiencia anterior al Getsemaní y el Getsemaní, los evangelios solo nos dicen que Jesús estaba angustiado. En Mateo 26:38 y Marcos 14:33 y 34, Jesús dice: “Mi alma está muy triste”. En Juan 12:27, Jesús dice: “Ahora está turbada mi alma”. Pero ninguno de estos relatos registra que él oró con “gran clamor y lágrimas” (Heb. 5:7). Este detalle es una contribución de Hebreos al relato del Getsemaní. Jesús elevó las oraciones y las súplicas “al que le podía librar de la muerte” (Heb. 5:7). Pero, no las ofreció para poder salvarse de la muerte a toda costa. Entonces, ¿cómo escuchó Dios a Jesús? Jesús no oró solo por la liberación de la muerte, sino para que se hiciera la voluntad de Dios (Mat. 26:39). El Padre no libró a Jesús de la crucifixión, pero a través de su resurrección lo liberó del poder de la muerte, infligida por la crucifixión. Así, Jesús fue escuchado, porque se hizo la voluntad de Dios, y porque Jesús volvió a la vida. Pablo incluso nos dice por qué el Padre escuchó la oración de Cristo. Fue “a causa de su temor reverente” (Heb. 5:7). Debido al temor reverente y la obediencia de Cristo a la voluntad de Dios, su oración fue escuchada, y resucitó.
+
+¿Cómo aprendió Jesús la obediencia? Esta pregunta implica que Cristo pudo haber sido desobediente. Sin embargo, esa posibilidad es claramente refutada por Hebreos 4:15, que afirma que Jesús fue obediente durante toda su vida. Cristo aprendió la obediencia mediante la sumisión (Heb. 5:7) y el sufrimiento (Heb. 5:8). El texto griego emplea un juego de palabras, emathen/epathen (aprendió/ padeció), en el versículo 8, similar al refrán: “El aprender es amargura, el fruto es dulzura”. Jesús aprendió la obediencia, en parte, al ajustarse plenamente a la voluntad de Dios en Getsemaní. Sin embargo, debido a que Cristo no solo era Dios, sino también un ser humano, tuvo que aprender a obedecer en su papel vocacional como Salvador. Como Dios, era santo y no podía haber sido tentado por el mal (Sant. 1:13). Pero, como ser humano, necesitaba aprender la obediencia y la sumisión a la voluntad de Dios, así como los seres humanos debemos aprenderlo. Como Dios, Jesús nunca necesitó aprender a someterse. Sin embargo, en su experiencia humana, cuando fue llamado a morir, Jesús tuvo que vencer su instinto humano más básico de autoconservación (“Si es posible, pase de mí esta copa” [Mat. 26:39]) y someterse a la voluntad de Dios. Así, Jesús aprendió a obedecer sumisamente. Pablo declara, en Filipenses, que se hizo “obediente hasta la muerte, y muerte de cruz” (Fil. 2:8).
+
+En comparación, leemos que la generación del Éxodo se caracterizó por rebelarse contra Dios y ponerlo a prueba (Heb. 3:8); por su dureza de corazón (Heb. 3: 8); y por su falta de comprensión acerca de los caminos de Dios (Heb. 3:10). Hebreos resume estas características como incredulidad y pecado (Heb. 3:12, 13, 17, 19), así como desobediencia (Heb. 3:18). La rebelión, la desobediencia, el pecado y la infidelidad van de la mano. En contraste, Hebreos aplica un conjunto diferente de términos a Cristo. Él era “sin pecado” (Heb. 4:15) y fiel (Heb. 2:17; 3:2, 6), a pesar de ser tentado como nosotros; lo que le permite ayudarnos cuando somos tentados (Heb. 2:18). Debemos entender la obediencia de Cristo en Hebreos 5:8 a la luz de estos conjuntos de características opuestas, como lo demuestra la generación del Éxodo, en Hebreos 3:8 al 11 y 15 al 19. Entonces identificaremos fácilmente la obediencia de Cristo como una educación que es parte integral de nuestra propia fe y confianza en Dios (compara Rom. 1:5; 16:26). Así como Cristo aprendió la obediencia como ser humano al someterse y confiar en la voluntad de Dios por sobre la suya, nosotros también deberíamos hacerlo (Apoc. 14:12).
+
+Ahora vayamos a nuestra pregunta final: ¿Por qué Hebreos 5:9 declara que Cristo fue “perfeccionado”? A fin de cuentas, ¿no era ya perfecto? Entonces, ¿de qué manera fue perfeccionado? El versículo anterior nos brinda un contexto en respuesta a nuestra pregunta: “Y aunque era Hijo, por lo que padeció aprendió la obediencia” (Heb. 5:8). Por lo tanto, Pablo concluye: “Y habiendo sido perfeccionado, vino a ser autor de eterna salvación para todos los que le obedecen” (Heb. 5:9). Por lo tanto, la perfección de Jesús fue resultado de la obediencia que aprendió a través del sufrimiento y lo preparó para ser nuestro Sumo Sacerdote celestial.
+
+En síntesis, podemos decir que la oración de Cristo a aquel que podía salvarlo de la muerte fue escuchada porque oró para que se hiciera la voluntad de Dios. Como resultado, finalmente resucitó. Aprendió la obediencia sometiéndose y confiando en la voluntad de Dios. Finalmente, Cristo fue hecho nuestro Sumo Sacerdote perfecto mediante la obediencia a Dios, para que él pudiera llegar a ser “autor de eterna salvación para todos los que le obedecen”; es decir, nosotros (Heb. 5:9).
+
+**Preguntas para reflexionar:**
+
+**1.** Si Cristo estuvo sujeto a la obediencia y la aprendió en su experiencia humana, ¿qué importancia tiene la obediencia para nosotros?
+
+**2.** ¿Cómo podré andar en el Jardín del Edén de la Tierra Nueva si nunca experimenté el huerto del Getsemaní (es decir, la voluntad de Dios que se hace aquí y ahora)? ¿Por qué estas dos experiencias vienen como un paquete?
+
+**3.** ¿Por qué crees que los seres humanos tenemos una “reacción semialérgica” a obedecer a casi cualquier autoridad? ¿Cómo crees que podríamos “curarnos” de una reacción negativa similar para someternos a la autoridad divina?
+
+**4.** ¿Por qué podría haber tensión en el corazón humano entre amar a Dios y serle obedientes? ¿Cómo podría ayudarnos Juan 14:15 a resolver este problema?
+
+##### Cristo: como nosotros, pero diferente de nosotros
+
+Como hemos visto, se describe a Cristo como muy superior a los ángeles; de hecho, se lo presenta como la expresión exacta del propio ser de Dios (Heb. 1:3). Por lo tanto, es digno de adoración (Heb. 1:6), según el primer capítulo de Hebreos. Posteriormente, el segundo capítulo lo describe como hecho inferior a los ángeles por un tiempo. Jesús no es solamente un poquito menor que los ángeles: al participar de “carne y sangre” y el sufrimiento que esta experiencia conlleva, compartió plenamente el destino de sus hermanos humanos (Heb. 2:14). La manera en que Jesús fue “hecho menor que los ángeles” no es simplemente por su encarnación sino por su sufrimiento en la muerte (Heb. 2:9). El Hijo se introdujo tanto en la esfera humana que abrazó la mortalidad, en contraste con los ángeles, que no enfrentan la muerte.
+
+Lo que Cristo logró le permitió llegar a ser un “misericordioso y fiel sumo sacerdote [...] para expiar los pecados del pueblo” (Heb. 2:17).
+
+**Pregunta para reflexionar:**  En el mismo momento en que se está escribiendo este comentario, la gente de todo el mundo tiene miedo de infectarse y morir a causa del Coronavirus. ¿Cómo nos ayudan los actos de Cristo al participar de nuestra carne y sangre y compartir nuestro destino cuando enfrentamos amenazas tan siniestras y enfermedades terminales?
+
+#### APLICACIÓN A LA VIDA
+
+Analiza esta declaración de Elena de White sobre la naturaleza humana de Cristo: “Muchos sostienen que era imposible que Cristo fuese vencido por la tentación. En tal caso no podría haberse hallado en la posición de Adán; no podría haber obtenido la victoria que Adán falló en ganar. Si en algún sentido nosotros tuviésemos que soportar un conflicto más difícil que el que Cristo tuvo que soportar, entonces él no estaría capacitado para socorrernos. Pero nuestro Salvador tomó la humanidad con todas sus desventajas. Tomó la naturaleza humana con la posibilidad de ceder a la tentación. No tenemos que sobrellevar nada que él no haya soportado” (DTG 92).
+
+**Pregunta para reflexionar:**  ¿Qué consuelo y esperanza te da saber que Jesús ha soportado todo lo que somos llamados a soportar?

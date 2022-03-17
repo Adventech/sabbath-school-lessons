@@ -1,0 +1,121 @@
+---
+  video:
+    - artist: Escuela Sabática Viva
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-01-12.webp
+    - artist: Pastor Alejandro Bullon
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-01-12.webp
+    - artist: Escuela Sabática Universitaria
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/es-2022-01-12.webp
+    - artist: Mission 360
+      clips:
+        - src: https://cdns.adventistmission.org/MS/MS-221-1-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2211TBNL_ES.jpg
+          title: "No demasiado mayor para la Misión"
+        - src: https://cdns.adventistmission.org/MS/MS-221-2-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2212TBNL_ES.jpg
+          title: Ofrendas que hacen la diferencia en Timor-Leste
+        - src: https://cdns.adventistmission.org/MS/MS-221-3-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2213TBNL_ES.jpg
+          title: Hola, adiós, te amo
+        - src: https://cdns.adventistmission.org/MS/MS-221-4-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2214TBNL_ES.jpg
+          title: La iglesia plantada en el hospital
+        - src: https://cdns.adventistmission.org/MS/MS-221-5-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2215TBNL_ES.jpg
+          title: Servir a los más vulnerables de tu ciudad
+        - src: https://cdns.adventistmission.org/MS/MS-221-6-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2216TBNL_ES.jpg
+          title: Una vida de servicio y aventura
+        - src: https://cdns.adventistmission.org/MS/MS-221-7-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2217TBNL_ES.jpg
+          title: Descubrir lo esencial de la vida
+        - src: https://cdns.adventistmission.org/MS/MS-221-8-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2218TBNL_ES.jpg
+          title: La aventura sabática de Anita
+        - src: https://cdns.adventistmission.org/MS/MS-221-9-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/2219TBNL_ES.jpg
+          title: No hay crecimiento en tu zona de comodidad
+        - src: https://cdns.adventistmission.org/MS/MS-221-10-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/22110TBNL_ES.jpg
+          title: "\"Si no fuera por el desierto\" por Juan R. Salazar L."
+        - src: https://cdns.adventistmission.org/MS/MS-221-11-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/22111TBNL_ES.jpg
+          title: Martes fantásticos
+        - src: https://cdns.adventistmission.org/MS/MS-221-12-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/22112TBNL_ES.jpg
+          title: Se necesita arroz en la pandemia
+        - src: https://cdns.adventistmission.org/MS/MS-221-13-WEEKLY-ES.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/m360/es/22113TBNL_ES.jpg
+          title: 100 palabras por día

@@ -1,0 +1,60 @@
+---
+title: 'Material Pentru Instructori'
+date: 11/03/2022
+---
+
+**Texte-cheie:** Evrei 10:32-39; Romani 1:17; Evrei 11; Geneza 22:1-14; Iosua 2:8-11; Evrei 12:1-3.
+
+### I. Privire generală
+
+**Temele studiului**
+
+Dacă cineva ar fi în căutarea unei definiții biblice a credinței, atunci nu ar trebui să o caute mai departe de Evrei 11:1: „Și credința este o încredere neclintită în lucrurile nădăjduite, o puternică încredințare despre lucrurile care nu se văd.” Întregul capitol explică și ilustrează ce înseamnă să ne agățăm de promisiunile lui Dumnezeu, în ciuda faptului că nu avem dovezi palpabile pentru credința noastră. Capitolul despre credință este introdus de un citat din Habacuc 2:2-4. Habacuc Îl întreabă pe Dumnezeu de ce nu intervine în cazul celor neprihăniți care sunt nimiciți de cei răi (Habacuc 1:13; 2:1). Drept răspuns, Dumnezeu îi reamintește profetului că va trece un timp înainte ca El să acționeze. Contrar aparențelor, acest timp nu reprezintă o întârziere din partea lui Dumnezeu. În așteptare, profetul trebuie să-și exercite credința. Credința merge mână în mână cu răbdarea (Evrei 10:36-38). Eroii din Evrei 11 au dat dovadă de răbdare și de credință în cele nevăzute. Avraam a crezut că Dumnezeu putea să-l învie pe Isaac din morți (Evrei 11:19), pentru că el era un om aproape mort atunci când a devenit tatăl lui Isaac (Evrei 11:12). Deși era destinat să devină monarhul celui mai mare imperiu din Antichitate de după potop, Moise a ales să fie tratat rău, a preferat abuzul și suferința împreună cu poporul lui Dumnezeu decât plăcerile de o clipă de la palatul faraonilor. Moise a luat această decizie fiindcă a privit la răsplata din viitor făgăduită de Dumnezeu (Evrei 11:25,26). Destinatarii epistolei lui Pavel au putut să se identifice cu Moise pentru că și ei treceau prin situații asemănătoare. Și ei aveau nevoie să privească înainte spre răsplătirea care urma să vină. Următorul exemplu destul de remarcabil din Evrei 11 este Rahav, o prostituată dintre neamuri. Deși nu făcea parte din poporul lui Dumnezeu, ea a auzit despre tot ce făcuse Dumnezeu, a crezut în El și a acționat pe baza credinței ei atunci când a ascuns iscoadele israelite (Iosua 2:8-11). În mod similar, evreii cărora Pavel le-a scris nu L-au văzut pe Isus, dar au fost chemați să creadă și să acționeze prin credință ca răspuns la Cuvântul lui Dumnezeu.
+
+### II. Comentariu
+
+**Creatio ex nihilo (din latină, „crearea din nimic”)**
+
+Expresia de mai sus descrie perspectiva potrivit căreia Dumnezeu a creat universul din nimic. Unul dintre textele clasice care susțin această perspectivă este Evrei 11:3: „Prin credință pricepem că lumea a fost făcută prin Cuvântul lui Dumnezeu, așa că tot ce se vede n-a fost făcut din lucruri care se văd.” Pasajul acesta poate fi interpretat în lumina acestei perspective, dar vom analiza o înțelegere alternativă a pasajului.
+
+După ce oferă definiția credinței în Evrei 11:1, Pavel trece la oamenii din vechime care au fost lăudați pentru credința lor (Evrei 11:2). Surprinzător, catalogul cu numele celor credincioși nu începe cu Abel, ci cu noi (destinatarii epistolei) și cu Pavel, autorul. „Prin credință pricepem” (Evrei 11:3) exprimă o perspectivă intelectuală asupra realității credinței. Pricepem că universul (în mod literal, lumea) a fost creat prin Cuvântul lui Dumnezeu. Pavel afirmă că procesul creării lumii poate fi înțeles doar prin credință. Mai mult, tot ce se vede nu a fost făcut din lucrurile care se văd. Cu alte cuvinte, lumea care a fost creată este vizibilă, dar nu și originile ei. Originile ei pot fi cuprinse cu mintea, la nivel intelectual, doar prin credință.
+
+Care sunt aceste origini invizibile? A creat Dumnezeu lumea văzută ex nihilo, „din nimic”? Textul spune: „Tot ce se vede n-a fost făcut din lucruri care se văd” (Evrei 11:3), ceea ce înseamnă că lucrurile care nu sunt vizibile nu sunt neapărat inexistente. De exemplu, doar pentru că nu vedem vântul, nu înseamnă că el nu există. Ar putea fi lucrurile care nu se văd și din care a fost făcută lumea care se vede o aluzie la „Cuvântul lui Dumnezeu” rostit? Dacă da, aceasta este o aluzie clară la raportul despre Creație din Geneza 1, unde Cuvântul lui Dumnezeu este izvorul Creației („Dumnezeu a zis” se repetă în Geneza 1:3,6,9,11,14,20,24,26). Cu alte cuvinte, lumea senzorială își are obârșia într-o putere care rămâne inaccesibilă simțurilor noastre, și anume Cuvântul creator plin de putere al lui Dumnezeu. Dacă acest lucru este adevărat, atunci avem o explicație mai bună în versetul 3.
+
+În loc să facă referire la perspectiva creatio ex nihilo, Pavel folosește o structură paralelă pentru a sublinia invizibilitatea Cuvântului rostit al lui Dumnezeu. Să observăm cele trei serii de noțiuni corespondente și corelate din Evrei 11:3:
+
+A. „lumea” (vers. 3 p.p.)			A′. „tot ce se vede (vers. 3 u.p.)
+
+B. „a fost făcută” (vers. 3 p.p. )		B′. „n-a fost făcut” (vers. 3 u.p.)
+
+C. „Cuvântul lui Dumnezeu” (vers. 3 p.p.)	C′. „lucruri care se văd” (vers. 3 u.p.)
+
+Structura se mai poate scrie și într-un alt mod: [A] „prin credință pricepem că lumea [B] a fost făcută [C] prin Cuvântul lui Dumnezeu, [A′] așa că tot ce se vede [B′] n-a fost făcut din lucruri [C′] care se văd” (Evrei 11:3). Astfel, vedem cum cuvântul rostit și nevăzut al lui Dumnezeu a creat lumea care se vede. Această înțelegere a versetului întărește preocuparea lui Pavel ca destinatarii epistolei sale să își călăuzească viața după lucrurile care nu se văd, dar care sunt nădăjduite. „Și credința este o încredere neclintită în lucrurile nădăjduite, o puternică încredințare despre lucrurile care nu se văd” (Evrei 11:1). În concluzie, Cuvântul nevăzut al lui Dumnezeu dă naștere la lumea văzută și la universul nostru. Aceasta nu înseamnă că Dumnezeu nu a creat sau nu a putut crea ex nihilo, din nimic, ci doar că acest text pare să spună altceva.
+
+Prin credință noi, ca și Pavel și destinatarii epistolei sale, înțelegem că Dumnezeu a creat lumea prin Cuvântul Său puternic, dar nevăzut.
+
+1. Ce crezi ca l-a motivat pe Noe să construiască o corabie în ciuda faptului că până atunci nu mai fusese niciun potop și nici măcar nu plouase?
+
+2. Ce crezi că l-a motivat pe Avraam să pornească spre o țară pe care nu o explorase și nici nu o văzuse mai înainte?
+
+3. Ce crezi ca l-a motivat pe Moise să dea viața „de prestigiu” de la palatul Egiptului pe o viață modestă, de peregrin, alături de generația de oameni care a ieșit din Egipt?
+
+**Esau, măcar că o cerea cu lacrimi, n-a putut s-o schimbe**
+
+Evrei 12:17 spune despre Esau: „Știți că mai pe urmă, când a vrut să capete binecuvântarea, n-a fost primit, pentru că, măcar că o cerea cu lacrimi, n-a putut s-o schimbe” (KJV: „n-a fost primit pentru că nu a mai găsit loc de pocăință, măcar că a căutat-o cu lacrimi”). Acest verset, asemenea altor versete din Evrei (Evrei 6:4-6; 10:26-29) pare să spună că schimbarea sau pocăința nu este posibilă. (În studiul 7 poți găsi pasajul din Evrei 6:4-6 tratat în secțiunea: „Cu neputință să fie înnoiți”.) Chiar l-a lepădat Dumnezeu pe Esau?
+
+Evrei 12 vorbește despre alergarea pe care o avem de făcut și pentru care Isus este Modelul nostru de răbdare. Răbdarea se formează prin disciplină, iar disciplina întărește mâinile obosite și genunchii slăbănogiți. În plus, Pavel îi sfătuiește pe creștinii evrei să urmărească pacea și sfințirea, „fără care nimeni nu va vedea pe Domnul” (Evrei 12:14). Fiecare creștin este îndemnat să trăiască în pace și să mențină o relație armonioasă cu orice om, atât cât atârnă de el (Romani 12:18). Nu doar pacea, ci și sfințirea este o calitate creștină esențială, care trebuie urmărită. Care este scopul pedepsei pe care Dumnezeu o aplică uneori copiilor Săi? El vrea ca ei să devină părtași sfințeniei Lui (Evrei 12:10). Absența sfințeniei și a păcii echivalează cu a nu-L vedea pe Domnul. Absența sfințeniei este exemplificată prin viața lui Esau, care a fost „curvar” (în greacă, pornos) și „lumesc” (Evrei 12:16). Pavel comentează atât cu privire la disprețul pe care Esau l-a manifestat față de dreptul lui de întâi născut (Geneza 25:29-34), cât și cu privire la pierderea binecuvântării care îi revenea întâiului născut (Geneza 27:1-40). Având acest context în minte, ne vom ocupa de următoarea întrebare: Esau nu a mai avut ocazia de pocăință (KJV, „nu a mai găsit loc/șansă de pocăință”), deși a căutat-o cu lacrimi?
+
+Anumite traduceri ale Bibliei lasă impresia că Esau nu a mai avut șansa de a se pocăi, deși a căutat-o cu lacrimi; că el a dorit să se pocăiască, dar, din diverse motive, Dumnezeu i-a refuzat această șansă. Pentru a rezolva problema, trebuie să ne punem următoarea întrebare: Ce anume nu a putut să schimbe Esau? La ce se referă acel pronume neaccentuat din „n-a putut s-o schimbe”? Face referire la „binecuvântare” sau la „pocăință”? Și în greacă (la fel ca în română), pronumele neaccentuat este la genul feminin. Prin urmare, termenul la care face referire trebuie să fie și el un substantiv feminin. În engleză, substantivul cel mai aproape de pronumele neaccentuat este „pocăința”, și această proximitate este cauza confuziei. În greacă, atât „pocăința”, cât și „binecuvântarea” sunt substantive feminine. Totuși, termenul „pocăință” face parte dintr-o sintagmă consacrată, unde merge automat împreună cu „loc”, „loc de pocăință”, nu separat. Așadar, dacă Esau nu a mai găsit „loc de pocăință”, atunci ce a căutat cu lacrimi? Deoarece în greacă substantivul „loc” este masculin, pronumele neaccentuat „-o” nu poate face referire la el. Prin urmare, singura opțiune care mai rămâne este substantivul mai îndepărtat „binecuvântarea”. Esau nu a putut găsi loc/șansă/ocazie/ să se pocăiască, deși a căutat binecuvântarea cu lacrimi. Versiunea Noua Traducere Românească redă astfel acest text: „Voi știți că, mai târziu, când a dorit să moștenească binecuvântarea, a fost respins, căci n-a mai găsit loc de pocăință, chiar dacă a căutat-o cu lacrimi.”
+
+O astfel de traducere coincide cu narațiunea din Geneza 27:34-38. Raportul ne spune că Iacov l-a înșelat pe tatăl său pretinzând că este Esau. Când Esau a venit la tatăl lui cu mâncarea apetisantă, Isaac a fost surprins, pentru că a crezut că tocmai îl binecuvântase pe întâiul său născut, Esau. Odată ce și-a dat seama că fusese mințit de fiul său, Iacov, el „s-a înspăimântat foarte tare” (Geneza 27:33). Pe de altă parte, când a realizat că binecuvântarea îi fusese luată, Esau „a scos mari țipete, pline de amărăciune, și a zis tatălui său: «Binecuvân­tează-mă și pe mine, tată!»” (Geneza 27:38). În concluzie, putem spune că Esau nu a plâns după o ocazie de a se pocăi de toate lucrurile pe care le făcuse prin felul lui lumesc de viețuire, ci, mai degrabă, el a plâns după binecuvântarea pierdută, pe care i-a furat-o fratele lui. Aceasta este exact ceea ce Pavel vrea să spună atunci când afirmă: „Când a fost să capete binecuvântarea, n-a fost primit, măcar că o cerea cu lacrimi, n-a putut s-o schimbe [n-a găsit loc de pocăință]” (Evrei 12:17). Dumnezeu îi oferă oricărui om care dorește ocazia să se pocăiască (Romani 2:4; 2 Corinteni 7:9,10; 2 Timotei 2:25; 2 Petru 3:9).
+
+### III. Aplicație
+
+În decursul istoriei ei, biserica a supraviețuit multor crize. În secolul al XX-lea, ne-am confruntat cu dispute asupra unor subiecte precum inspirația, rolul lui Ellen G. White, natura lui Hristos, Trinitatea, biserica rămășiței, creația versus evoluționismul etc. Secolul al XXI-lea pare să fi readus în discuție aceste chestiuni și multe altele.
+
+1. Ce s-ar întâmpla dacă noi, adventiștii de ziua a șaptea, am ceda în fața sistemului de convingeri al evoluționismului sau al evoluționismului teist? Discutați.
+
+2. De ce raportul biblic despre Creație trebuie să aibă la bază principiul ex nihilo?
+
+3. De ce este important să consultăm mai multe traduceri atunci când dăm peste un text dificil?
