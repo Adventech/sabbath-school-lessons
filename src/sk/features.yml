@@ -1,0 +1,16 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Teacher Comments
+    description: Pripravte sa na diskusiu k lekcii sobotnej školy s materiálmi pre učiteľov.
+    image: "v1/images/features/feature_teacher_comments.png"
+  inside-story:
+    name: inside-story
+    title: Misijný príbeh
+    description: Prečítajte si inšpiratívne misijné príbehy z celého sveta
+    image: "v1/images/features/feature_inside_story.png"
+  video:
+    name: video
+    title: Video
+    description: Sledujte rozhovor na tému lekcie, na prehĺbenie svojho štúdia.
+    image: "v1/images/features/feature_video.png"

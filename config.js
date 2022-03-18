@@ -259,6 +259,10 @@ var BIBLE_PARSER_CONFIG = {
     "ervta"
   ],
 
+  "te": [
+    "irv"
+  ],
+
   "th": [
     "th-1971"
   ],

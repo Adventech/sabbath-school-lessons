@@ -1,0 +1,7 @@
+---
+  default:
+    name: "Standardowy dorosły"
+    order: 100
+  rt:
+    name: "Młody dorosły"
+    order: 200
