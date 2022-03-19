@@ -1,0 +1,50 @@
+---
+title:  Teacher Comments
+date:  29/04/2022
+---
+
+Key Text: Genesis 11:9
+
+Study Focus: Gen. 9:18–11:9, Ps. 139:7–12, Luke 10:1.
+
+#### Part I: Overview
+
+God’s first commandment to humanity after the Flood was an affirmation of life: He told them to multiply and replenish the earth (Gen. 9:1). The focus of this lesson will be to confront the human attempt to fulfill this commandment. So far, the biblical account concerned individuals (Adam and Eve, Cain and Abel, Seth, and Noah). In this lesson, the stories concern groups of people and have a universal scope. The survivors of the Flood, the three sons of Noah, will generate three branches of the humanity, which will constitute the nations of the world. It seems that humanity is on the right track to filling the earth and bringing God’s image to the ends to the earth. Yet, the story of the Tower of Babel marks a dramatic break in that momentum. God’s commission of universality is replaced by the human ideal of unity and uniformity. Humans want to be one, and worse, they want to be God.
+
+**Lesson Themes:**
+
+1.	Curses and Blessings. Canaan, the son of Ham, is cursed, and Shem and Japheth are blessed. What is the meaning and the historical significance of these curses and blessings? How do they impact the history of salvation?
+
+2.	Universality and Unity. The nations of the world want to engage in a common project: to become one against God. How did God’s purpose of universality become interpreted as an ideal of unity?
+
+3.	Usurpation of God. The builders of the Tower of Babel dreamed of reaching heaven. What was wrong with their way of thinking? Why did God come down to investigate their endeavor?
+
+#### Part II: Commentary
+
+**Curses and Blessings**
+
+The curse upon Ham’s son (Gen. 9:25) ultimately turns out to be a message of hope. Genesis 9:25 often has been disastrously misapplied to Africans or those of African descent, and, thus, has been used as a religious justification for slavery. However, this bigoted interpretation does not hold, for two reasons. First, the curse does not concern Ham but his son Canaan. Neither does this curse concern Cush, the firstborn son of Ham, which immediately excludes the reference to those of African descent or Africans in particular. Incidentally, biblical genealogies (see the table of nations in Genesis 10) are more about ethnogeography (that is, the geographic distribution of human groups) than about ethnicity, which deals with the origin of human races and languages. The very notion of “race” derives from the pseudoscientific racist and linguistic theories of the nineteenth century, based on the theory of evolution, another evil to arise from this modern creation myth. Thus, the biblical designations of people groups as “Japhetite,” “Semitic,” or “Hamitic” do not follow clear criteria of race as defined by evolution but are much more complex and blurred. For example: although Canaanite languages are Semitic, Canaan is counted among the Hamites. Although Cush is a descendant of Ham, he is the father of Nimrod, the founder of Babel. Elam, who belongs to a non-Semitic people, is a son of Shem.
+
+The second reason that Genesis 9:25 does not apply to Africans or those of African descent is that the reference to Canaan is an allusion to the inheritance of the Promised Land, with all that this land symbolizes, concerning the promise of salvation for the world. In this context, the use of the phrase “servant of servants” is ironic. “Servant of servants” is a superlative, meaning “the servant par excellence,” and suggests a spiritual direction, pointing to Jesus, the Servant of servants who comes to save the world (John 13:5).
+
+The blessings of Genesis 9 confirm this perspective. It is interesting that it is neither Shem nor Japheth who is blessed, but only God (Gen. 9:26). Also, from this perspective, the prophecy takes us beyond the immediate future of the Pentateuch’s history of Israel to the salvation of humanity (Gen. 9:27). The wording of the prophecy also refers to the Israelite tabernacle (Josh. 18:1), a prophetic allusion to the Gentiles who will respond to the Israelite message of salvation and join the holy community of Israel (Isa. 66:18–20, Rom. 11:25). But the fulfillment of this prophecy depends first on the fulfillment of another prophecy: the subjugation of Canaan. This event is so fundamental in the eyes of the author that he comes back to it at the end of the blessing when, for the third time, he refers to Canaan as the servant of Shem (Gen. 9:27; compare Gen. 9:25, 26). The language in the blessing section is given in the style of a prayer: “may . . . be” (Gen. 9:26, 27, NKJV). Moses, the author of this text and a contemporary of the Israelites enslaved in Egypt, prays for the salvation of Israel, a basic, necessary first step toward the salvation of humanity.
+
+**Universality and Particularity**
+
+This connection between the particular and the universal perspective is a characteristic feature of biblical thinking. Unlike Greek thinking, which promotes the idea of immediate access to the absolute truth, the Hebrew prophets speak of a God who chose a people, and later His Son, through whom He revealed Himself to humanity.
+
+One illustration of the biblical way of thinking is embodied in the number 70: there are 70 nations listed in the table of nations in Genesis 10 that foreshadow the 70 members of the family of Jacob (Gen. 46:27) and the 70 elders of Israel in the wilderness (Exod. 24:9). This correspondence between the “70s” seems to underlie Deuteronomy 32:8, which speaks of God dividing humankind “according to the number of the children of Israel” (NKJV). Just as there were 70 nations, so there were 70 languages, according to Jewish tradition. In the New Testament, Jesus sends 70 disciples to evangelize (Luke 10:1–16). The genealogy of Noah, the father of the nations of the earth (Gen. 9:19, Gen. 10:32), embodies the fulfillment of God’s blessing and promise to Noah: “Be fruitful and multiply” (Gen. 8:17; Gen. 9:1, 7, NKJV). The blessing and promise also are tied with the initial promise and blessing given to Adam at Creation (Gen. 1:28, 29).
+
+The God of the nations, the Creator of the world, and the Lord of Israel is the same God. This observation has two important theological implications. First, it means that God affects history even beyond the realms of religion. God also is present among the nations. Second, it means that the salvation of the nations also depends on the testimony of Israel. The blessing of the nations will be realized only through Israel (Gen. 12:3), for only the God of Israel is the true God (John 4:22, 23; NKJV). The lessons of the Hebrew Bible, the history of Israel, and the events that happened to the Jews and that were recorded in the New Testament are of redemptive significance for the nations.
+
+An Attempt to Unify and Usurp. It is troubling that the ideology of unity is the first concern of the builders of the Tower of Babel. The sentence “the whole earth had one language and one speech” (Gen. 11:1, NKJV) refers to the fact that these people used the same words and held the same discourse. The story of Babel records, however, the first attempt to unify the world. No wonder, then, that this way of thinking produced a totalitarian society that left no room for difference or disagreement (compare Dan. 3:1–7), and it engaged in the project to take God’s place. Actually, the two determinations—uniformity and usurpation—belong together. History has shown that the drive to compel other people to behave and think as we do inevitably leads to intolerance and persecutions. Ultimately, such compulsion ignites the ambition to take God’s place.
+
+Significantly, the builders of Babel use God’s words. The first word, an interjection, habah, “come,” which twice introduces the discourse of the builders (Gen. 11:3, 4, NKJV), is identical to words God uses (Gen. 11:7, NKJV). The expression of community collaboration, which is repeated four times in Genesis 11:1–7 (“Let us . . .”), recalls the divine plural of Creation “Let us make . . .” (Gen. 1:26) and betrays, then, the intention of the builders to usurp God’s power. Even the Hebrew word for “tower,” which describes the city of Babel, is indicative of their aspiration. This word is related to the word gadal, “great,” implying the idea of ambition and glory, often associated with God Himself (Exod. 18:11). Interestingly, the passage of Daniel 8, which shares a number of linguistic and theological motifs with our text, uses the same word gadal as a keyword to describe the attempt of the little horn to exalt itself unto God Himself (Dan. 8:9–11, 25). In fact, the tower is supposed to reach heaven, a specification that suggests more than just the monumental proportion of the tower. The builders of Babel are driven by the spiritual ambition to replace God, which is clearly revealed in their intention to “ ‘make a name for ourselves’ ” (Gen. 11:4, NKJV). God is the only One who makes a “name great” (Gen. 12:2) and the only One who can make a name for Himself (Isa. 63:12, 14).
+
+#### Part III: Life Application
+
+Curses Turned Into Blessings. Find in the Bible cases in which something originally intended as a curse ultimately became a blessing. Find in your life occasions when a bad experience (for example, the confinement of COVID-19) provided you with unexpected opportunities for reflection, fellowship, and a return to God. Why does suffering often bring with it the discovery of new values and draw us nearer to other people and to God?
+
+Unity and Usurpation of God. Find in the Bible, in history, in your religious community, and in your personal experience cases in which a well-intentioned leader, or perhaps even you yourself, behaved as the builders of the Tower of Babel. Why do great ideals of holiness, unity, and truth often lead to intolerance and pride? How does the model of Jesus inspire ways to avoid this mistake? Why is it that being right is not enough and that it may, in fact, produce hatred and self-righteous pride?
+
+`Notes`
