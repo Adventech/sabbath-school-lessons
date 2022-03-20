@@ -693,7 +693,8 @@ let dayAPI = async function () {
     for (let bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++) {
       let bibleVersion = iteratorArray[bibleVersionIterator],
           resultBible = {},
-          language = info.language;
+          language = info.language,
+          bibleCopyright = null;
 
       resultRead = day.markdown;
 
@@ -710,6 +711,7 @@ let dayAPI = async function () {
 
       if (bibleVersion.version) {
         language = bibleVersion.lang;
+        bibleCopyright = bibleVersion.copyright;
         bibleVersion = bibleVersion.version;
       }
 
@@ -729,6 +731,10 @@ let dayAPI = async function () {
         resultBible["verses"] = result.verses.reduce(function (result, item) {
           let key = Object.keys(item)[0];
           result[key] = item[key];
+
+          if (result[key] && bibleCopyright) {
+            result[key] += bibleCopyright
+          }
           return result;
         }, {});
         meta.bible.push(resultBible);

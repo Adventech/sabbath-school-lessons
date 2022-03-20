@@ -51,7 +51,7 @@ var BIBLE_PARSER_CONFIG = {
     {
       lang: "en",
       version: "niv",
-      copyright: "<div><strong>HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM</strong><br>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.<br>Used with permission. All rights reserved worldwide.</div>"
+      copyright: "<br><br><div><small>HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM</small><br><small>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.</small><br><small>Used with permission. All rights reserved worldwide.</small></div>"
     },
     "asv"
   ],
