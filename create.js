@@ -69,6 +69,7 @@ var LOCALE_VARS = {
     "mn": "Хичээл",
     "ml": "പാഠം",
     "ms": "Pelajaran",
+    "my": "သင်ခန်းစာ",
     "ne": "पाठ",
     "no": "Lekse",
     "nl": "Les",
