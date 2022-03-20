@@ -172,8 +172,8 @@ languages:
   - native: Suomen kieli
     en: Finnish
     code: fi
-  - native: Tedim Chin
-    en: Tedim Chin
+  - native: မြန်မာဘာသာ
+    en: Burmese
     code: my
   - native: ខ្មែរ
     en: Khmer
@@ -199,4 +199,7 @@ languages:
   - native: తెలుగు
     en: Telugu
     code: te
+  - native: Tedim Chin
+    en: Tedim Chin
+    code: ctd
 ---

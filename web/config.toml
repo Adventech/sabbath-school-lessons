@@ -187,7 +187,7 @@ unsafe = true
 	archive = "Archiv hodin"
 	lang = "🇨🇿 Česky"
 
-[params.my]
+[params.ctd]
 	title = "Sabbath School"
 	back = "Go back"
 	all = "See all"
@@ -600,3 +600,12 @@ unsafe = true
 	current = "ప్రస్తుత పాఠం"
 	archive = "పాఠం ఆర్కైవ్"
 	lang = "🇮🇳 తెలుగు"
+
+[params.my]
+	title = "ဥပုသ်ကျောင်း"
+	back = "ပြန်သွားသည်"
+	all = "သင်ခန်းစာအားလုံး"
+	todaysLesson = "ယနေ့သင်ခန်းစာများ"
+	current = "လက်ရှိသင်ခန်းစာ"
+	archive = "သင်ခန်းစာ တင်ထားပါတယ်။"
+	lang = "🇲🇲 မြန်မာဘာသာ"

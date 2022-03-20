@@ -24,7 +24,7 @@ var BIBLE_PARSER_CONFIG = {
     "csp",
     "b21"
   ],
-  "my":[
+  "ctd":[
     "tdb"
   ],
 
@@ -48,7 +48,11 @@ var BIBLE_PARSER_CONFIG = {
     "nasb",
     "nkjv",
     "kjv",
-    "niv",
+    {
+      lang: "en",
+      version: "niv",
+      copyright: "<div><strong>HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM</strong><br>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.<br>Used with permission. All rights reserved worldwide.</div>"
+    },
     "asv"
   ],
 
@@ -187,6 +191,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "ms": [
     "alkitab"
+  ],
+
+  "my":[
+    "jbb"
   ],
 
   "ne": [
