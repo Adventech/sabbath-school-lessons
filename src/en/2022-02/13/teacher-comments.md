@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  24/06/2022
 ---
 
-Key Text: Genesis 47:27
+**Key Text**: Genesis 47:27
 
-Study Focus: Genesis 46–50; Acts 3:25, 26.
+**Study Focus**: Genesis 46–50; Acts 3:25, 26.
 
 #### Part I: Overview
 

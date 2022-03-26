@@ -5,7 +5,7 @@ date:  13/05/2022
 
 Key Texts: Genesis 15:6, Genesis 17:5, Genesis 18:23.
 
-Study Focus: Genesis 15–19, Rom. 4:2–11, Amos 4:11.
+**Study Focus**: Genesis 15–19, Rom. 4:2–11, Amos 4:11.
 
 #### Part I: Overview
 

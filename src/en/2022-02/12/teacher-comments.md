@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  17/06/2022
 ---
 
-Key Text: Genesis 41:41
+**Key Text**: Genesis 41:41
 
-Study Focus: Gen. 41:37–Gen. 45:28, Rom. 5:7–11.
+**Study Focus**: Gen. 41:37–Gen. 45:28, Rom. 5:7–11.
 
 #### Part I: Overview
 

@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  03/06/2022
 ---
 
-Key Text: Genesis 32:28
+**Key Text**: Genesis 32:28
 
-Study Focus: Genesis 32–35; Hos. 12:3, 4; Jer. 30:5–7.
+**Study Focus**: Genesis 32–35; Hos. 12:3, 4; Jer. 30:5–7.
 
 #### Part I: Overview
 

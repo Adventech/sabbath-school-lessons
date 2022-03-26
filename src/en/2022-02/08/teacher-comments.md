@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  20/05/2022
 ---
 
-Key Text: Genesis 24:1
+**Key Text**: Genesis 24:1
 
-Study Focus: Genesis 22–25, Rom. 4:1–12, Rom. 5:6–8.
+**Study Focus**: Genesis 22–25, Rom. 4:1–12, Rom. 5:6–8.
 
 #### Part I: Overview
 

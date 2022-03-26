@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  08/04/2022
 ---
 
-Key Text: Genesis 3:15
+**Key Text**: Genesis 3:15
 
-Study Focus: Genesis 3; Rev. 12:7–9; Rom. 16:20; Heb. 2:14;
+**Study Focus**: Genesis 3; Rev. 12:7–9; Rom. 16:20; Heb. 2:14;
 
 1 Tim. 2:14, 15.
 

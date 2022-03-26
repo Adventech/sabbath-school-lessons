@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  22/04/2022
 ---
 
-Key Text: Matthew 24:37
+**Key Text**: Matthew 24:37
 
-Study Focus: Genesis 6–10, 2 Pet. 2:5–9.
+**Study Focus**: Genesis 6–10, 2 Pet. 2:5–9.
 
 #### Part I: Overview
 

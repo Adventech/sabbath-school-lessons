@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  06/05/2022
 ---
 
-Key Text: Hebrews 11:8
+**Key Text**: Hebrews 11:8
 
-Study Focus: Genesis 12–14, Heb. 7:1–10.
+**Study Focus**: Genesis 12–14, Heb. 7:1–10.
 
 #### Part I: Overview
 

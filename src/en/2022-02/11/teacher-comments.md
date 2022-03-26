@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  10/06/2022
 ---
 
-Key Text: Genesis 37:19
+**Key Text**: Genesis 37:19
 
-Study Focus: Gen. 37:1–41:36.
+**Study Focus**: Gen. 37:1–41:36.
 
 #### Part I: Overview
 

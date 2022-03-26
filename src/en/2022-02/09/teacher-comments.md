@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  27/05/2022
 ---
 
-Key Text: Genesis 27:36
+**Key Text**: Genesis 27:36
 
-Study Focus: Genesis 25–30, Gen. 11:1–9.
+**Study Focus**: Genesis 25–30, Gen. 11:1–9.
 
 #### Part I: Overview
 

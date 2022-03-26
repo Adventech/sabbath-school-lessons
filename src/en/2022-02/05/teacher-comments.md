@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  29/04/2022
 ---
 
-Key Text: Genesis 11:9
+**Key Text**: Genesis 11:9
 
-Study Focus: Gen. 9:18–11:9, Ps. 139:7–12, Luke 10:1.
+**Study Focus**: Gen. 9:18–11:9, Ps. 139:7–12, Luke 10:1.
 
 #### Part I: Overview
 

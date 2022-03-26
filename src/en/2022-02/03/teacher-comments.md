@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  15/04/2022
 ---
 
-Key Text: Genesis 4:7
+**Key Text**: Genesis 4:7
 
-Study Focus: Genesis 4, Heb. 11:4, Rev. 6:9.
+**Study Focus**: Genesis 4, Heb. 11:4, Rev. 6:9.
 
 #### Part I: Overview
 

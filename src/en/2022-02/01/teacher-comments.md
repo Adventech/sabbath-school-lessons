@@ -3,9 +3,9 @@ title:  Teacher Comments
 date:  01/04/2022
 ---
 
-Key Text: Genesis 1:1
+**Key Text**: Genesis 1:1
 
-Study Focus: Genesis 1, Genesis 2, Ps. 100:1–3, Exod. 20:8–11, Matt. 19:7–9, John 1:1–5.
+**Study Focus**: Genesis 1, Genesis 2, Ps. 100:1–3, Exod. 20:8–11, Matt. 19:7–9, John 1:1–5.
 
 #### Part I: Overview
 
