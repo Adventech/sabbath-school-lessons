@@ -9,7 +9,7 @@ _Saengsurin Phongchan_
 
 Bůh mě má moc rád.
 
-Když se kamarádka odstěhovala do Austrálie, souhlasila jsem, že budu jednou za čas navštěvovat její rodiče tady v Thajsku. Nebylo snadné najít dům rodičů. Musela jsem si vyhledat cestu a dozvěděla jsem se, že dům je od toho mého docela daleko. Na první návštěvu jsem si naplnil batoh a několik tašek nákupem. S jídlem, které jsem nesla, jsem si přivolala tříkolový tuk-tuk taxík, aby mě odvezl na autobusové nádraží.
+Když se kamarádka odstěhovala do Austrálie, souhlasila jsem, že budu jednou za čas navštěvovat její rodiče tady v Thajsku. Nebylo snadné najít dům rodičů. Musela jsem si vyhledat cestu a dozvěděla jsem se, že dům je od toho mého docela daleko. Na první návštěvu jsem si naplnila batoh a několik tašek nákupem. S jídlem, které jsem nesla, jsem si přivolala tříkolový tuk-tuk taxík, aby mě odvezl na autobusové nádraží.
 
 V polovině cesty řidič tuk-tuku najednou řekl: "Nemůžu vás dopravit na místo. Můžu vám zavolat jiný tuk-tuk?" Neuvedl žádný důvod, proč si to rozmyslel. Co jsem mohla dělat? Druhý tuk-tuk mě vyzvedl, ale řidič mě odvezl na špatné místo. Nastoupila jsem tedy do třetího tuk-tuku.
 
@@ -37,4 +37,4 @@ Rodičům mé kamarádky se ulevilo, když mě uviděli. Slyšeli o té nehodě.
 
 Ano, Bůh mě má moc rád.
 
-_Saengsurin Phongchan byla ředitelkou školy adventistů sedmého dne v thajském městě Nakhon Ratchasima, která před třemi lety obdržela část darů třinácté soboty. Děkujeme vám za vaše dary, která pomohly škole "Adventist International Mission School-Korat" (Adventistická mezinárodní misijní škola) rozšířit se na střední školu na novém místě._
+_Saengsurin Phongchan byla ředitelkou školy adventistů sedmého dne v thajském městě Nakhon Ratchasima, která před třemi lety obdržela část darů třinácté soboty. Děkujeme vám za vaše dary, které pomohly škole "Adventist International Mission School-Korat" (Adventistická mezinárodní misijní škola) rozšířit se na střední školu na novém místě._
