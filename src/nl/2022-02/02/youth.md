@@ -52,4 +52,3 @@ Op de zesde dag kijkt God naar zijn schepping en ziet dat het zeer goed is. Hij 
 #### Opdracht
 
 `Waarom zijn onze verkeerde keuzes niet het einde van de wereld?`
-
