@@ -1,0 +1,54 @@
+---
+title:  Lehrerteil
+date:   24/06/2022
+---
+
+**Schlüsseltext:**
+1. Mose 47,27
+
+**Studienschwerpunkt:**
+1. Mose 46–50; Apostelgeschichte 3,25–26
+
+### TEIL I: ÜBERSICHT
+
+**Einleitung**
+
+Dieser letzte Abschnitt des 1. Buches Mose führt uns mit dem Tod von Jakob und Josef an das Ende der Patriarchenzeit. Die gesamte Sippe Jakobs befindet sich nun im Exil in Ägypten. Die letzten Worte des Buches sind „einen Sarg in Ägypten“. Die Heilsgeschichte scheint kein Happy End zu haben. Und doch ist dies der Teil des Buches, der am stärksten von Hoffnung durchdrungen ist. Das Profil Israels als Gottes Volk zeichnet sich am Horizont ab. Die bedeutungsschwere Zahl „siebzig“, die das Haus Jakob ausmacht (1 Mo 46,27), weist den Leser auf das geistliche Schicksal dieses Volkes hin. Jakob segnet seine Söhne (1 Mo 49,1–28) und sagt die Zukunft derer voraus, die einmal die zwölf Stämme Israels sein werden sowie das künftige Kommen des Messias, der Israel und die Völker retten wird (V. 10–12). Die letzten Worte des Buches, in denen der Tod mitschwingt, sind in der Tat Worte, die auf die erlösende Zukunft hinweisen: Sie nehmen die Rückkehr in das verheißene Land in Begriffen vorweg, die an die ersten Worte des 1. Buches Mose erinnern, die das Ereignis der Schöpfung und die Anpflanzung des Gartens Eden einleiten. Das zugrunde liegende theologische Prinzip ist, dass Gott Böses in Gutes verwandelt (1 Mo 50,20). Diese Lektion vermittelt Josef seinen Brüdern, um sie zu trösten und zu beruhigen (V. 21), vor allem aber, um ihnen die Augen für Gottes Rettung der Welt zu öffnen (V. 20).
+
+### TEIL II: KOMMENTAR
+
+**Jakobs Segen**
+
+Nachdem Jakob seine Söhne versammelt hat (1 Mo 49,1–2), segnet er sie nacheinander in der Reihenfolge ihrer Geburt, von Ruben, dem Ältesten, bis hin zu Benjamin, dem Jüngsten (V. 3–27). Diese Segnungen sind in Wahrheit Prophezeiungen, die die Zukunft voraussagen (V. 1). Die hebräischen Worte be‘acharit hayyamim, „am Ende der Tage“ (V. 1 ZB), sind ein technischer Ausdruck, der sich oft auf das Kommen des messianischen Königs und die eschatologische Erlösung bezieht (Jes 2,2; Dan 10,14). Der Text von Jakobs Segen, angefangen von seinem ersten Sohn, Ruben, bis zu seinem letzten, Benjamin, ist daher von prophetisch-eschatologischer Spannung durchdrungen.
+
+Dies ist das dritte Mal im 1. Buch Mose, dass ein Segen an eine Gruppe von Personen gerichtet wird. Der erste kollektive Segen ist der Segen Gottes für Adam und Eva (1 Mo 1,28). Der zweite ist der Segen Noahs für seine drei Söhne (1 Mo 9,24–27). Jakobs Segen ist mit dem Segen Noahs insofern verwandt, als es sich bei beiden um väterliche Segnungen und sogar Flüche handelt; und beide enthalten spezifische Prophezeiungen, die das künftige Schicksal der Söhne enthüllen. Beide Segnungen stehen am Beginn einer neuen Ära und beide markieren die ersten Schritte eines neuen Menschengeschlechts. Daher hat der Segen Israels eine universelle Tragweite. Die Segenssprüche schließen mit dem Hinweis auf „die zwölf Stämme Israels“ (1 Mo 49,28). Dies ist die erste biblische Erwähnung der „zwölf Stämme“. Der Blick ist eindeutig auf das künftige Schicksal ganz Israels mit seinen Fehlern und Erfolgen gerichtet (vgl. V. 1).
+
+**Das Kommen des Messias**
+
+Die verwendeten Wörter – „Zepter“, „Herrscherstab“ (EB) – deuten darauf hin, dass ein König und nicht ein Stamm Gegenstand der Prophezeiung ist. Dieser Vers (1 Mo 49,10) findet sich auch in Bileams Prophezeiung wieder (4 Mo 24,17). Der Stern aus Jakob in Bileams Prophezeiung entspricht dem Löwen von Juda in Jakobs Prophezeiung. Außerdem führt unser Text ein zeitliches Element in diese Herrschaft ein (1 Mo 49,10). Das Kommen des Messias wird in die Geschichte Israels eingeordnet. Die adverbiale Konjunktion ‚ad ki, „bis“, in der Formulierung „bis ... Schilo“ (EB), bedeutet jedoch mehr als nur einen Zeitpunkt der Ankunft. Das hebräische ‚ad ki bezieht sich nicht unbedingt auf ein Ende, sondern eher auf eine Erfüllung oder einen Höhepunkt und drückt einen Superlativ aus (1 Mo 26,13; 41,19). Das bedeutet, dass das Königtum Judas mit dem Kommen des Schilo seinen Höhepunkt erreichen wird. Die universelle Dimension dieser Person wird in den nächsten Worten verdeutlicht: „dem gehört der Gehorsam der Völker“ (1 Mo 49,10 EB). Beachte, dass das Wort Volk im hebräischen Text im Plural steht (‚amim).
+
+Der universelle Geltungsbereich dieses Herrschers, dem „die Völker“ Gehorsam schulden, deutet auf eine Gestalt von messianischer und übernatürlicher Dimension hin. Das Wort Schilo ist der Name einer Person, wie die Parallele zum Namen Juda zeigt. Das hebräische Wort ist mit den Worten schalwah oder schalom („Frieden“) verwandt, die Synonyme sind (Ps 122,7). Diese Deutung ist in den ältesten christlichen und jüdischen Quellen belegt und hat den Vorzug, dass sie zum Kontext unseres Textes passt (1 Mo 49,11), der das Kommen dieses Herrschers mit der Herrschaft des Friedens in Verbindung bringt (vgl. Jes 9,5–6; Mi 5,4; Eph 2,14). Die letzten beiden Verse des Segens Jakobs für Juda (1 Mo 49,11–12) beschreiben den Charakter und die Aufgabe des Messias. Das hebräische Wort für „Esel“ bezieht sich im Allgemeinen auf den Esel, der zum Reiten benutzt wird (Ri 10,4). Der Esel erinnert an Frieden und Demut (im Gegensatz zum Pferd, das an Krieg und Arroganz erinnert; Spr 21,31). Dieselbe Assoziation von Königtum und Bescheidenheit wird von Sacharja verwendet, um den „demütigen“ (EB) davidischen König zu beschreiben, der auf einem Esel reiten (Sach 9,9) und über die ganze Welt herrschen wird, „von einem Meer bis zum andern und … bis an die Enden der Erde“ (V. 10). Dieses Bild erinnert uns an Salomo, der auf dem Maultier seines Vaters reitet, um zu zeigen, dass er der Gesalbte ist, der wahre Erbe des davidischen Throns (1 Kön 1,38–48). Auch die Aktion Jesu, den Esel loszubinden und auf ihm zu reiten, weist auf diese Tradition hin (Mk 11,2–11).
+
+Die anderen Bilder von „Wein“ und „Milch“ und ihre jeweiligen Farben Rot/Augen und Weiß/Zähne erinnern an die Fülle des Lebens und den Frieden und die Sicherheit, die das verheißene Land erfüllen werden (4 Mo 13,23.27). Die Erwähnung von Auge und Zahn in unserem Zusammenhang, die sich auf die Fülle des Genusses beziehen, soll also auf die Intensität des Lebens und den vollkommenen Frieden hinweisen, die das messianische Reich kennzeichnen werden.
+
+**Vom Bösen zum Guten**
+
+Als Josefs Brüder zu Josef kommen und ihn um Vergebung bitten (1 Mo 50,17), versichert Josef seinen Brüdern, dass er ihnen nichts Böses will. Seine Worte „Fürchtet euch nicht“ (V. 19) sind die gleichen Worte, mit denen Gott Abraham seine Zukunft zusicherte (1 Mo 15,1). Um die Spannung abzubauen, stellt sich Josef auf dieselbe menschliche Ebene: „Stehe ich denn an Gottes statt?“ (1 Mo 50,19). Jakob hatte sich mit denselben Worten an Rahel gewandt, als sie sich über ihre Kinderlosigkeit beklagte (1 Mo 30,2). Bei Josef ist dies jedoch etwas anderes. Während Jakob mit diesen Worten seinen Zorn zum Ausdruck brachte, drückt Josef mit denselben Worten seine Liebe zu seinen Brüdern aus und will ihre Sorgen zerstreuen.
+
+Und wenn Josef sich unerwartet auf Gott bezieht, deutet er an, dass die göttliche Vergebung mit der menschlichen Vergebung verbunden ist. Josef verweist sogar auf den Verrat seiner Brüder als Mechanismus dieser Vergebung: Was sie „Böses … beabsichtigt“ hatten, „hatte [Gott] beabsichtigt, es zum Guten (zu wenden)“ (1 Mo 50,20 EB). Die Taten seiner Brüder, die sie zu Recht als „böse“ anerkennen, wurden umgewandelt, um „ein großes Volk am Leben zu erhalten“ (V. 20 EB). Josef begnügt sich nicht damit, seinen Brüdern Vergebung zu gewähren; er nimmt ihnen das Gefühl der Schuld, denn ihre böse Tat hat sich zum Guten gewendet. Sie können nun Josef gegenübertreten und sich der Zukunft stellen. Josef beruhigt sie mit denselben Worten, die auch die Zukunft betreffen: „Fürchtet euch nicht“ (V. 21 EB; vgl. V. 19) und schließt mit dem Versprechen, dass er für sie und ihre Kinder sorgen wird.
+
+**Die Erlösung der Welt**
+
+Während der Text für Jakob ein Grab, aber keinen Sarg erwähnt (1 Mo 49,29), erwähnt der Text für Josef einen Sarg, aber kein Grab (1 Mo 50,26). Josef wurde einbalsamiert, aber wegen seiner Hoffnung auf das verheißene Land nicht begraben. Josef ordnet also nicht an, dass seine Gebeine nach seinem Tod begraben werden sollen. Er möchte, dass seine Gebeine zusammen mit dem ganzen Volk Israel nach Kanaan gebracht werden. In der Zwischenzeit „legte [man] ihn in einen Sarg in Ägypten“ (V. 26 EB). Im Hebräischen wird der bestimmte Artikel ba‘aron verwendet, was wörtlich „in den Sarg“ bedeutet und damit die Bedeutung dieses Sarges ohne Grab unterstreicht.
+
+So endet das 1. Buch Mose auf dieselbe Weise wie der gesamte Pentateuch: mit dem Tod, aber ohne Grab (5 Mo 34,6) und mit der Aussicht auf das verheißene Land (vgl. V. 1–4). Das 1. Buch Mose beginnt wie der Pentateuch mit der Schöpfung und dem Garten Eden (1 Mo 1–2) und endet mit der Aussicht auf das verheißene Land und der Hoffnung auf die Auferstehung der Toten (5 Mo 34,6; vgl. Jud 9). Dieses literarische Zusammentreffen ist kein Zufall. Wir finden dieselbe Verbindung auch an anderer Stelle und am Anfang und Ende mehrerer Bücher der Bibel (siehe z. B. Jes 1,2; 66,22–23; Pred 1,1–11; 12,14; Dan 1,12; 12,13; Joh 1,1–10; 21,22–23), und sogar der gesamten Bibel (1 Mose 1–2; Offb 22,20).
+
+### TEIL III: ANWENDUNG
+
+Jakobs Segen: Es gibt eine Geschichte über einen Dozenten im Fach Neues Testament, der seinen Studenten sagte: „Wer ein guter Christ sein will, muss den Juden in sich töten.“ Daraufhin ein Student: „Meinen Sie damit, Jesus zu töten?“ Wie bezieht sich der Segen Jakobs für seine Söhne auf euch persönlich? Ist es möglich, den Segen Jakobs zu empfangen und gleichzeitig seine jüdische Komponente zu verleugnen? Was macht diese Segnungen auch zu euren Segnungen?
+
+Das Kommen des Messias: Wie lässt sich diese Prophezeiung auf Jesus Christus anwenden? Sprecht über die reichhaltigen Bilder, die in diesem Abschnitt verwendet werden, um den Messias zu charakterisieren. Wie lässt sich das Bild von Christus als „Herrscherstab“ auf euer Leben anwenden? Was bedeuten die Bilder von Zahn und Augen, die für Lebensfreude und Frieden stehen, für eure Sicht des Christenlebens?
+
+Vom Bösen zum Guten: Erinnert ihr euch an ein Erlebnis, bei dem sich eine böse Handlung, die gegen euch gerichtet war und euch schaden sollte, als gut für euch herausstellte? Inwiefern hat dieses Erlebnis, diese Erfahrung von Leid und Ungerechtigkeit eine Rolle bei eurer Charakterbildung gespielt?
+
+Die Erlösung der Welt: Inwiefern zeigt unser Name „Siebenten-Tags-Adventisten“ unseren Glauben an die Schöpfung? Wie unser Namen schon andeutet – welcher Zusammenhang besteht zwischen unserem Glauben an die Schöpfung und unserer Hoffnung auf die Wiederkunft Jesu?
