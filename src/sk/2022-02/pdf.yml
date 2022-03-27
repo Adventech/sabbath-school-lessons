@@ -1,0 +1,7 @@
+---
+  pdf:
+    - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/sk/uvod.pdf
+      target: sk/2022-01/01
+      title: Úvod
+    - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q1/sk/01.pdf
+      target: sk/2022-01/01
