@@ -1,19 +1,21 @@
 ---
   title: "The Letter of James"
-  description: "true"
+  description: "It was at church when he first saw her. He was running an errand, absorbed in his thoughts, when the sight hit him. The painting was a little less than two meters (6.5 ft) high and three meters (10 ft) wide, but the girl portrayed in it exerted a strange, captivating force over the young man. Why could he not take his eyes off her? What was it? After some reflection, he realized it was her eyes that held his gaze. The painting portrayed only her face, and she was looking intently at something. But what was she so absorbed in, and why? For a long time afterward, he couldn’t get the painting out of his head."
   human_date: "April · May · June 2022"
   start_date: "26/03/2022"
   end_date: "24/06/2022"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#EF6A00"
+  color_primary_dark: "#BF5500"
   credits:
     - name: Principal Contributor
-      value: ""
+      value: "Callie Buruchara"
     - name: Editor
-      value: ""
-    - name: Associate Editor
-      value: ""
-    - name: Publication Manager
-      value: ""
-    - name: Editorial Assistant
-      value: ""
+      value: "Justin Kim"
+    - name: Senior Editorial Assistant
+      value: "Sikhu Daco"
+    - name: Director of Sabbath School
+      value: "Ramon Canals"
+    - name: Assoc. Director of Sabbath School
+      value: "Jim Howard"
+    - name: Design & Illustration
+      value: "Types & Symbols"
