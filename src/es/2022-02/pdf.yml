@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/EAQ222_00%20es-.pdf
+      target: es/2022-02/01
+      title: Introducción
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2001%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/01
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2002%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/02
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2003%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/03
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2004%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/04
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2005%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/05
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2006%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/06
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2007%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/07
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2008%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/08
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2009%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/09
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2010%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/10
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2011%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/11
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2012%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/12
+    - src: https://s3.us-east-2.wasabisys.com/rebiblicos/Escuela%20Sabatica/Leccion/2do%202022/_Lección%2013%20Segundo%20Trimestre%202022.pdf
+      target: es/2022-02/13
