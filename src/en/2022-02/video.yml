@@ -1,0 +1,15 @@
+---
+  video:
+    - artist: It Is Written
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-01.webp
+    - artist: Amazing Facts Study Hour
+      thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
+      clips:
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6233768e6c7fdb0001df1756/6233768f6c7fdb0001df1757/550b0b2669702d0707940200/25c234b2-36c0-4753-b46c-ea02cb6c0e58.mp4?5Mnosm_alFsgPo813uQ5ExtUy3XMeJDgc_EXbZwMhYs0Q6cB50EOMpM0udrWe7HTfes2kFHXYbzw-ym4xtT-5jEtDxsffTK8oe8XWpTWBQZh-T0KvqG2HsNnRcXBHNHPLlm8T04TAmIOcQeH_X-Uig&F38b1dF4=624232b10eb4f20001380fc2
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/623c9d4dad1d46000122f9bf/623c9d4dad1d46000122f9c0/550b0b2669702d0707940200/5e757de3-dbab-4e79-bbb8-a5531879f707.mp4?w3JHKGdsAybEVATWpKss7bozhM56HMY3HLj3HrVt7d2nPwZ2mqOvQZzdGCALeCXG3j1fT0JOX1zAQ7dnRgA_wPaj8i-bmOxuEDCGq7D0h9t5nR1p6mtm-PVeZUhcSIX4AheBxRpE-xV6_A5II66_tg&F38b1dF4=624232e38e10b0000186d58b
+    - artist: Sabbath School Talking Points
+      clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-01.webp

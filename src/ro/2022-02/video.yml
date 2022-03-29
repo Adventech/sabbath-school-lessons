@@ -2,4 +2,5 @@
   video:
     - artist: Scoala de Sabat Video
       clips:
-      
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2022-02-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2022-02-01.webp
