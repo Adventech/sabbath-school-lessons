@@ -1,4 +1,4 @@
-### The Book of the Beginning
+### Cartea începutului
 
 "Cartea Geneza este despre Isus: Isus, Creatorul nostru; Isus,
 Susținătorul nostru; Isus, Răscumpărătorul nostru. Scriind la milenii
