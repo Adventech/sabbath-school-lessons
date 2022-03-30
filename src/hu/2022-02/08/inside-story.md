@@ -16,11 +16,3 @@ Egyszer egy férfivel beszélgettem a dublini reptéren, míg vártunk a gépün
 „Hát nem érdekes? – mondtam. – Hiszem, hogy Isten mindent okkal tesz.”
 
 _„Ön hisz Istenben?” – kérdezte. Miután elmondtam, hogy hetednapi adventista vagyok, elárulta, hogy a felesége, aki szintén adventista, évek óta próbálja megtéríteni. Beszélgettünk a megváltásról, és adtam neki egy példányt a Jézushoz vezető út c. könyvből. „Ezúttal el fogom olvasni a könyvet” – ígérte. Hiszem, hogy mindkét találkozást Isten rendelte el._
-
-
-
----
-
-#### Ellen G. White idézetek
-
-Jézus élete: „Az élet világossága” című fejezet.

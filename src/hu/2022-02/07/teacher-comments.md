@@ -54,9 +54,3 @@ Az „állni” ige, amit éppen az imént olvastunk azzal kapcsolatban, hogy Á
 Ábrahám alkudozik az Úrral. Miért volt hitbeli lépés Ábrahám részéről, amikor vitába szállt Istennel? Hogyan alkalmaznánk ezt a példát saját imatapasztalatainkra? Keressünk példákat a Bibliában és a történelemben arra, hogy egy hívő ember alkudozik és egyezséget köt az Istennel!
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-A megváltás története: „Kételkedés Isten ígéreteiben” című fejezet.

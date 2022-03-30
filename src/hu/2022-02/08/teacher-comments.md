@@ -52,9 +52,3 @@ A jóvátétel jelentősége. Beszéljük meg az osztályban az engesztelés teo
 Az ima ereje. Milyen lelki tanulságokat sajátítottunk el Eliézer imatapasztalatából? Gondoljunk saját imameghallgatásaink történeteire, amelyekkel szemléltethetők ezek a tanulságok! Mi mindent tanultunk ezekből? Hogyan erősítették hitünket e tapasztalatok? Emlékezzünk vissza olyan történetekre is, amikor Isten nem válaszolt a kéréseinkre! Mit tanultunk a csalódásból? Hogyan mélyítették, újították meg hitünket a kudarcok? Hogyan magyarázzuk azt, hogy rossz dolgok történnek jó emberekkel és jó dolgok történnek rossz emberekkel is (olvassuk el és vitassuk meg: Préd 9:2, 11)?
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-Jézus élete: „Az élet világossága” című fejezet.

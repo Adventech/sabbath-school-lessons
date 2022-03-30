@@ -52,9 +52,3 @@ Fontos, hogy Bábel építői Isten szavait használják. A közbevetett megjeg
 Egység/egyformaság és Isten jogainak bitorlása: Találjunk a Bibliában, a történelemben, saját vallási közösségünkben és személyes tapasztalatunkban olyan eseteket, amikor egy jó szándékú vezető (talán mi magunk?) úgy viselkedett, mint Bábel tornyának építői! A szentség, az egység és az igazság magasztos gondolatai miért vezetnek sokszor türelmetlenséghez és önteltséghez? Jézus életpéldája hogyan indít arra, hogy elkerüljük ezt a hibát? Miért nem elég, ha az embernek igaza van, ami talán még haragot és önigazult büszkeséget is eredményezhet?
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-Pátriárkák és próféták: „Bábel tornya” című fejezet.

@@ -84,9 +84,3 @@ Beszéljük meg a második tanulságot! (Olvassuk el 1Móz 3:22 és Róm 7:22-2
 Beszéljük meg a harmadik tanulságot! (Olvassuk el Zsolt 104:33-34 verseit!) Mi az egyetlen megoldás a világban található gonoszság problémájára?
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-Próféták és királyok: „Illés lelkével és erejével” című fejezet.

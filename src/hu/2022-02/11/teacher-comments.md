@@ -44,9 +44,3 @@ Júda, József és a Messiás. Beszéljük meg az osztályban, mi a kapcsolat 
 Egyiptomiak álmai. Mit tanulhatunk missziómunkánkkal kapcsolatosan József börtönbeli tapasztalataiból? Milyen kommunikációs módszert használt József a rabtársaival és a fáraóval folytatott beszélgetéseiben? Miért fontos bizonyságot tenni a világ vezetőinek is? Milyen lelki üzenetet közvetítünk azzal, ahogyan a munkánkat végezzük?
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-A Te Igéd igazság: „Isten áll minden ígéret mögött” című fejezet.

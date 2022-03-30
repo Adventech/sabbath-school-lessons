@@ -42,9 +42,3 @@ Bétel és Bábel. Olvassuk el 1Móz 11:1-9 és 28:10-22 verseit! Hasonlítsuk �
 Jákób vallása. Mi milyen indíttatásból adunk tizedet? Miért tartjuk meg Isten parancsolatait? Miként kapcsolódik engedelmességünk istenhitünkhöz? Tegyük fel, hogy elveszítenénk a munkánkat, mert hűségesen megtartjuk a szombat parancsát. Miért tartanánk ki mégis amellett, hogy tizedet fizetünk?
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-A megváltás története: „Jákób száműzetésének évei” című fejezet.

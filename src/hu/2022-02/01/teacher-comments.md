@@ -48,9 +48,3 @@ Kezdetben Isten. A teremtés eseménye az Istenbe vetett hitünk alapja. Azt je
 2.  Mit tanulhatunk Isten teremtői munkájából, még ha nem is lehettünk szemtanúi annak az eseménynek? Hogyan hasson ez szombati pihenésünkre és ünneplésünkre?
 
 `Jegyzetek`
-
----
-
-#### Ellen G. White idézetek
-
-A megváltás története: „Teremtés” című fejezet.
