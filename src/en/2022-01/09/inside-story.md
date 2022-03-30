@@ -13,7 +13,7 @@ With no money to see a doctor, Khamla (not his real name) resorted to all sorts 
 
 Finally, seeing his desperation, someone told him about a Seventh-day Adventist pastor who had helped many people by cell phone. The man called up Pastor Sadua Lee (pictured) and asked for help.
 
-Now, it wasn’t simply a phone call. Phone calls were something of a luxury, costing 700 Laotian kips (8 US cents) per minute. At the time, a third of the population was living on less than US$1.25 a day, and nearly two-thirds were living on less than $2 a day.
+Now, it wasn’t simply a phone call. Phone calls were something of a luxury, costing 700 Laotian kips (8 US cents) per minute. At the time, a third of the population was living on less than USD 1.25 a day, and nearly two-thirds were living on less than USD 2 a day.
 
 The ill man begged Pastor Sadua to heal him.
 

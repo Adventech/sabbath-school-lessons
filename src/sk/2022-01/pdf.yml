@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-INTRO.pdf
+      target: sk/2022-01/01
+      title: Úvod
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-01.pdf
+      target: sk/2022-01/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-02.pdf
+      target: sk/2022-01/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-03.pdf
+      target: sk/2022-01/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-04.pdf
+      target: sk/2022-01/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-05.pdf
+      target: sk/2022-01/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-06.pdf
+      target: sk/2022-01/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-07.pdf
+      target: sk/2022-01/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-08.pdf
+      target: sk/2022-01/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-09.pdf
+      target: sk/2022-01/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-10.pdf
+      target: sk/2022-01/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-11.pdf
+      target: sk/2022-01/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-12.pdf
+      target: sk/2022-01/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/sk/ABSG-2022-01-SK-13.pdf
+      target: sk/2022-01/13

@@ -1,0 +1,56 @@
+---
+title:  Lehrerteil
+date:   13/05/2022
+---
+
+**Schlüsseltexte:**
+1. Mose 15,6; 17,5; 18,23
+
+**Studienschwerpunkt:**
+1. Mose 15–19; Römer 4,2–11; Amos 4,11
+
+### TEIL I: ÜBERSICHT
+
+**Einleitung**
+
+In diesem Abschnitt kommen wir zum Kern von Abrahams Glaubenserfahrung. Dies ist der Moment, in dem Gott seinen Bund mit Abram schließt, den zweiten Bund Gottes nach dem Bund mit Noah (1 Mo 6,18–9,20). Der abrahamitische Bund enthält dieselben Bedingungen wie der Bund mit Noah. Auch der abrahamitische Bund beginnt mit einer Opferzeremonie, verbunden mit der Verheißung eines Sohnes und eines Heimatlandes. Der Bund wird durch ein Zeichen bestätigt. Der abrahamitische Bund unterscheidet sich jedoch auch vom Bund mit Noah und enthält neue Elemente. Er beinhaltet zwei Opferzeremonien. Das Zeichen ist die Beschneidung und Abram erhält den neuen Namen Abraham. Darüber hinaus bietet die biblische Erzählung zwei unterschiedliche Perspektiven auf diesen Bund. Während im Bund mit Noah Gott im Mittelpunkt steht und die Person Noahs untergeordnet wird, bezieht der Bund mit Abraham die Perspektive Abrams mit ein, wodurch sich der Verlauf des Bundes komplexer gestaltet.
+
+**Themen der Lektion**
+
+1. Die Spannung des Glaubens: Abrahams Glaube besteht aus Fragen und Zweifeln; Abraham glaubt an Gott sich selbst zum Trotz. Abrahams Lachen ist von Ironie und Ehrfurcht geprägt. Sein Gebet zu Gott besteht aus Unterwerfung und Herausforderungen.
+2. Die Gesetze der Gastfreundschaft: Abrahams Fürsorge für seine ausländischen Gäste steht im Gegensatz zu der Gefühllosigkeit und den Drohungen der Sodomiter gegenüber den Fremden.
+3. Die Leidenschaft der Fürbitte: Abraham setzt sich für die Bösen in der Stadt Sodom ein und hofft, dass es genügend Gerechte gibt, um den Untergang abzuwenden.
+
+### TEIL II: KOMMENTAR
+
+**Abram glaubt an Gott**
+
+Abrams Glaube beginnt mit Angst und setzt sich mit Zweifeln und Fragen fort. Was Abram am meisten fürchtet, ist das Unbekannte, nämlich seine Zukunft, die er nicht kontrollieren kann. Deshalb verlässt sich Abram auf die Gegenwart und macht seinen Knecht Elieser zu seinem Erben (1 Mo 15,2). Als Gott zu Abram spricht, verwendet er daher eine Reihe von Ausdrücken, die in die Zukunft weisen. Die Formulierung „Fürchte dich nicht“ wird oft mit der Verheißung von Nachkommenschaft in Verbindung gebracht. Die gleiche Verheißung für die Zukunft ist auch in dem Wort magen, „Schild“ (V. 1), enthalten, das ein Echo des Verbs magan, „ausgeliefert“ (1 Mo 14,20 EB), ist, das im Zusammenhang mit Abrams zurückliegendem Sieg verwendet wurde. Wir sehen also, dass der Gott, der Abram in der Vergangenheit gerettet hat, derselbe Gott ist, der ihn in der Zukunft retten wird. Die Vision von Gott als seine Zukunft weckt in Abram den Glauben an die Zukunft: „Abram glaubte.“
+
+Das hebräische Verb he‘emin, „glauben“, beschreibt mehr als einen gefühlsmäßigen oder intellektuellen Vorgang oder die bloße Bezugnahme auf ein Glaubensbekenntnis. Im Hebräischen hat „glauben“ einen relationalen Charakter, wie die Wurzel ‚aman, „fest“, „zuverlässig“, andeutet. Im Vertrauen auf Gott „glaubte“ Abram, dass er Nachkommen haben würde. Diesen Glauben „rechnete“ Gott ihm als „Gerechtigkeit“ an. Mit anderen Worten: Gott „rechnete“ diesem Glauben den gleichen Wert zu wie der Gerechtigkeit. Diese Sichtweise macht vor dem Hintergrund altägyptischer Glaubensüberzeugungen Sinn. Während im antiken Ägypten das Gewicht der menschlichen Gerechtigkeit auf der Grundlage des Abwiegens der menschlichen Werke im Vergleich zum Gewicht der Maat, der göttlichen Gerechtigkeit, bewertet wurde, wird im Falle Abrams seine Gerechtigkeit auf der Grundlage der göttlichen Werke für ihn bewertet. Was Abram rechtschaffen macht, ist nicht die Summe seiner Taten, sondern seine Bereitschaft, sich auf Gottes Taten für ihn zu verlassen (Röm 4,2–4).
+
+**Abram lacht mit dem Herrn**
+
+Abrahams unmittelbare Reaktion auf die göttliche Ankündigung ist stilles Niederwerfen und Ehrfurcht (1 Mo 17,17). Dies ist das zweite Mal, dass Abraham sich schweigend niederwirft (vgl. V. 3). Dieses Mal ist sein Niederwerfen jedoch mit einem Lachen verbunden, dem ersten Lachen, das in der Bibel aufgezeichnet ist. Es ist nicht klar, ob dieses Lachen auf Skepsis hinweist oder seine Verwunderung zum Ausdruck bringt. Die Tatsache, dass das Lachen im Kontext von Abrahams Anbetungsakt stattfindet, lässt vermuten, dass Staunen gemeint ist. Doch sobald Abraham spricht, überwiegt die Skepsis. Er schlägt eine vernünftige Lösung vor. Abraham verweist auf Ismael. Aufgrund von Abrahams skeptischer Empfehlung muss Gott konkret werden. Die Verheißung Gottes bezieht sich nicht auf Ismael. Als Echo auf Abrahams Fragen antwortet Gott ausdrücklich mit dem Namen Isaak (V. 19). Ironischerweise bedeutet Isaak „er lacht“, was auf Abrams Lachen anspielt.
+
+Doch dieses Mal ist es Gott, der lacht, denn der Name Isaak beinhaltet den Namen Gottes, wie semitische und biblische Sprachstudien über Namen nahelegen. Parallel zum Namen Ismael, „Gott hat gehört“, musste auch Isaaks Name, zumindest implizit, den Namen Gottes enthalten: „[Gott] hat gelacht“. Das Lachen Gottes schwingt also in Abrahams Lachen mit. Später wird auch Sara lachen. Der Kontext, in dem Sara lacht, ergänzt das Staunen, das in den vorangegangenen Situationen angedeutet wird. Sara, die sich im Zelt versteckt hält, hört die unglaubliche Nachricht von der Geburt und lacht darüber. Dann geschieht etwas Seltsames. Obwohl Sara „bei sich selbst“ gelacht hatte (1 Mo 18,12), kennt der Besucher ihre intimsten Gedanken (V. 10–13). Diese außergewöhnliche Fähigkeit zeigt Abraham und Sara, dass sie sich in der Gegenwart des Herrn befinden, was das Wunder der erstaunlichen Geburt garantiert. Auf das erste Lachen Abrahams mit zitterndem Zweifel und Ehrfurcht antwortete Gott mit einem Lachen, das aus Ironie und Verheißung bestand.
+
+**Abram kocht für den Herrn**
+
+Zum ersten Mal empfängt Abraham himmlische Gäste, ohne es zu wissen. Sein Handeln wird als Vorbild für Gastfreundschaft in Erinnerung bleiben (vgl. Hbr 13,2). Anstatt sich gleich mit der Bundesverheißung, die der Grund für seinen Besuch ist, zu befassen, betritt Gott die menschliche Sphäre. Er wird von Abraham gesehen, empfangen und gespeist. Es ist Siesta-Zeit. Abraham sitzt vor dem Zelt, als ob er wartet und hofft, dass jemand kommt. In der Wüste kommen nicht viele Menschen vorbei. Als Abraham also jemanden weit entfernt sieht, läuft er los, was angesichts seines hohen Alters (er ist 99 Jahre alt) und seiner kürzlich durchgeführten Beschneidung
+(1 Mo 17,24) außergewöhnlich ist. Sobald Abraham die Gäste empfangen hat, kümmert er sich eifrig um sie und bereitet eine Mahlzeit für sie zu. Nachdem er Wasser bereitgestellt hat, um seinen Gästen die Füße zu waschen (1 Mo 18,4), wählt Abraham die besten Speisen für das Mahl aus (V. 6–7). Abraham bezieht seine ganze Familie in diese Arbeit ein. Sara bäckt das Brot (V. 6), und der junge Mann, wahrscheinlich Ismael, bereitet das Kalb zu (V. 8). Dennoch bezeichnet Abraham das Festmahl bescheiden als „einen Bissen Brot“ (V. 5). Es ist offensichtlich, dass Abrahams Engagement und Eifer gegenüber den drei Besuchern seinem Empfinden entstammt, dass sie einen besonderen Status haben. Die Art und Weise, wie er einen der Besucher als Adonai, „mein Herr“, anspricht (V. 2–3 NLB), deutet auf diese Wahrnehmung hin. Die Tatsache, dass Abraham dem göttlichen Besucher Essen und Wasser anbietet, schließt nicht unbedingt aus, dass er die göttliche Identität anerkennt. Das „menschliche“ Erscheinungsbild der Besucher, die physisch stehen (V. 2), essen (V. 8) und sich angeregt unterhalten (V. 9), ist Teil der göttlichen Strategie der Inkarnation Gottes, der zu den Menschen herabsteigt. Abraham steht dann bei ihnen (V. 8), hat ein offenes Ohr für ihre Bedürfnisse und ist bereit, ihnen zu dienen.
+
+**Abraham feilscht mit dem Herrn**
+
+Das Verb „stehen“, das gerade verwendet wurde, um Abrahams Dienst an seinen Gästen zu beschreiben (1 Mo 18,8), taucht jetzt wieder auf, um Abrahams Haltung vor Gott zu charakterisieren (V. 22). Die Präposition „vor“, die auf das Verb „stehen“ folgt, wird normalerweise verwendet, um die Ehrfurcht vor Gott und das Gebet zu ihm zu beschreiben (5 Mo 10,8; 1 Kön 17,1; Sach 3,1). Dies ist das erste Mal in der Bibel, dass ein Mensch für einen anderen Menschen betet. Selbst Noah hatte in einer ähnlichen Situation geschwiegen (1 Mo 6,13–22). Das hebräische Verb wayyigasch, „sich nähern“, weist auf Abrahams Zögern und seine langsame Annäherung an Gott hin
+(1 Mo 18,22–23). Abraham ist kühn und bleibt sich doch respektvoll der Distanz zu Gott bewusst. Taktvoll wendet er sich mit insgesamt sieben Fragen an Gott. Abraham verwickelt Gott in eine Verhandlungsrunde, in der er von 50 auf 10 heruntergeht. In Anlehnung an Amos 5,3 wird vermutet, dass 50 für eine halbe kleine Ortschaft steht, die mindestens 100 Männer umfasst (vgl. Ri 20,10). Abraham beginnt seine Verhandlung mit der Annahme, dass es in der Stadt gleich viele Gerechte und Böse gibt. Als Abraham zur Zahl Zehn kommt (1 Mo 18,32), begreift er, dass er nun die Grenze erreicht hat, und beschließt daher, diese Zahl nicht zu unterschreiten. Die Zahl Zehn symbolisiert die Idee des Minimums und wird bezeichnenderweise durch das Jod dargestellt, den kleinsten Buchstaben des hebräischen Alphabets (siehe Mt 5,18). Später wird die Zahl Zehn im Judentum zum Minimum für die gottesdienstliche Gemeinschaft (minjan). Dass diese Mindestzahl von zehn Gerechten zur Rettung der Gesamtgemeinschaft ausreichen würde, ist ein Konzept, das den Dienst des leidenden Gottesknechts vorwegnimmt, der „den Vielen zur Gerechtigkeit verhelfen“ wird (Jes 53,11 EB). Nach sechs Antworten bricht Gott sein Gespräch mit Abraham abrupt ab. Obwohl Gott eingewilligt hat, sich mit Menschen zu beraten, bleibt er in seinem Urteil souverän.
+
+### TEIL III: ANWENDUNG
+
+Abraham glaubt an den Herrn: Wie können wir Menschen beibringen, Glauben zu haben? Warum beschäftigt sich der biblische Glaube im Wesentlichen mit der Zukunft? Wie würdet ihr jemandem, der gerade einen geliebten Menschen verloren hat, raten, Glauben zu haben? Wie könnt ihr persönlichen Glauben mit Hoffnung verbinden?
+
+Abraham lacht mit dem Herrn: Diskutiert das manchmal angeführte Argument, dass Lachen vom Teufel kommt. Sucht in der Bibel (Altes und Neues Testament) nach Beispielen für Lachen und Humor. Warum sind Lachen und Humor mit echtem Glauben vereinbar? Warum findet sich die Ablehnung des Lachens oft bei religiösen Menschen?
+
+Abraham kocht für den Herrn: Inwiefern regt Abrahams Eifer, gutes Essen zuzubereiten, zu Mission und Anbetung an? Findet in der Bibel (Altes und Neues Testament) Momente, in denen Essen und Mahlzeiten eine entscheidende Rolle in den zeremoniellen Riten eines Bundes mit Gott spielten. Warum ist Essen in der Bibel so wichtig? Warum ist Askese unvereinbar mit biblischen Werten?
+
+Abraham feilscht mit dem Herrn: Warum waren Abrahams Kühnheit und seine Herausforderung des Willens Gottes ein Akt des Glaubens? Wie würdet ihr dieses Beispiel auf eure Gebetserfahrung anwenden? Findet in der Bibel und der Geschichte Fälle, in denen ein religiöser Mensch mit Gott feilschte und einen Handel einging.

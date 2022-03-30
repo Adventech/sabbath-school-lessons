@@ -1,0 +1,82 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L00.pdf'
+      target: en/2022-01-kd/introduction
+      title: Introduction
+      start_date: 25/12/2021
+      end_date: 25/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L01.pdf'
+      target: en/2022-01-kd/01
+      title: “In the Beginning . . .”
+      start_date: 25/12/2021
+      end_date: 31/12/2021
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L02.pdf'
+      target: en/2022-01-kd/02
+      title: God’s Friends
+      start_date: 01/01/2022
+      end_date: 07/01/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L03.pdf'
+      target: en/2022-01-kd/03
+      title: A Special Day
+      start_date: 08/01/2022
+      end_date: 14/01/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L04.pdf'
+      target: en/2022-01-kd/04
+      title: Hiding From God
+      start_date: 15/01/2022
+      end_date: 21/01/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L05.pdf'
+      target: en/2022-01-kd/05
+      title: Noah Builds a Boat
+      start_date: 22/01/2022
+      end_date: 28/01/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L06.pdf'
+      target: en/2022-01-kd/06
+      title: An Animal Parade
+      start_date: 29/01/2022
+      end_date: 04/02/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L07.pdf'
+      target: en/2022-01-kd/07
+      title: A Floating Zoo
+      start_date: 05/02/2022
+      end_date: 11/02/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L08.pdf'
+      target: en/2022-01-kd/08
+      title: God’s Rainbow Promise
+      start_date: 12/02/2022
+      end_date: 18/02/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L09.pdf'
+      target: en/2022-01-kd/09
+      title: Abram Follows God
+      start_date: 19/02/2022
+      end_date: 25/02/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L10.pdf'
+      target: en/2022-01-kd/10
+      title: Abram’s Altars
+      start_date: 26/02/2022
+      end_date: 04/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L11.pdf'
+      target: en/2022-01-kd/11
+      title: Lot Chooses First
+      start_date: 05/03/2022
+      end_date: 11/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L12.pdf'
+      target: en/2022-01-kd/12
+      title: Abram to the Rescue
+      start_date: 12/03/2022
+      end_date: 18/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-L13.pdf'
+      target: en/2022-01-kd/13
+      title: Sarah’s Special Baby
+      start_date: 19/03/2022
+      end_date: 25/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-Activites.pdf'
+      target: en/2022-01-kd/activities
+      title: Activities
+      start_date: 19/03/2022
+      end_date: 25/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q1/Kindergarten/Student/K-22-Q1-MemoryVerses.pdf'
+      target: en/2022-01-kd/memory-verses
+      title: Memory Verses
+      start_date: 19/03/2022
+      end_date: 25/03/2022

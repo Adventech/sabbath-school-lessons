@@ -1,0 +1,48 @@
+---
+title:  Teacher Comments
+date:  06/05/2022
+---
+
+**Key Text**: Hebrews 11:8
+
+**Study Focus**: Genesis 12–14, Heb. 7:1–10.
+
+#### Part I: Overview
+
+Introduction: This section takes us on a journey from Babel to the Promised Land—but with a new hero, Abram, who leaves his home without knowing his destination. Abram’s first steps toward the Promised Land are not easy and rather hesitant. Abram struggles to inherit the land. When he finally arrives in Canaan, he cannot stay there, because there is a famine. He, therefore, must move to Egypt. But Abram cannot settle there, either, because of a conflict with Pharaoh. Abram is then obliged to turn back, and so he goes up to Canaan again. But even there, things are complicated. Abram and his nephew Lot agree to part ways because of a land dispute. Afterward, a war breaks out that involves the whole country, the very place that God has established Abram. After the battle, Abram is met by a stranger, Melchizedek, to whom he gives his tithe, a way of acknowledging that nothing belongs to him. These episodes are rich with spiritual lessons in which issues of faith and ethics are intertwined.
+
+Thought Questions: Compare Abram’s manipulations and lies with Pharaoh’s trust and honesty; compare Abram’s selflessness toward Lot with Lot’s selfishness; compare Abram’s generosity to the greed of the kings. Analyze Abraham’s incoherence and lack of trust when he responds to God’s call.
+
+#### Part II: Commentary
+
+**Lekh Lekha, “Get Out”**
+
+This Hebrew phrase means “go in order to find yourself.” The call to Abram to “get out” of his country and move away from his roots should take him on a journey to find himself, to fulfill himself and establish his identity. It is not enough for Abram to get out of Babel; in order to find his real self, Abram needs to get rid of the Babel that is still in him—the idolatry of his fathers and the arrogant mentality of Babel. For that purpose, Abram not only must leave the place where he has been until now; he also must always be on the move. It is significant that this “moving” destiny is reflected in the language that covers the stories of his life. The verb “go,” halak, is a keyword that pervades the narratives about Abram from chapter 12 to chapter 22, which constitute the central section of the book of Genesis. It also is significant that the phrase lekh lekha, “go,” frames the spiritual journey of Abraham. This expression appears twice: the first time when Abraham is called to leave his past (Gen. 12:1), and the second time when he is called to abandon his future (Gen. 22:2). Suspended in the void, disconnected from his roots, Abraham depends only on God. Abraham exemplifies “faith.”
+
+**Abram and Pharaoh**
+
+When Abram arrives in Egypt, he is confronted with the threat of Pharaoh. But instead of seeking God’s help or guidance, he resorts to politics and lies. Yet, Abram’s deception turns against him. It is precisely because Abram lied and claimed that Sarai was his sister that Pharaoh took her into his harem (Gen. 12:15; compare Gen. 12:19). Ironically, it also is because Pharaoh believed that Sarai was Abram’s sister that he treated Abram well (Gen. 12:16), just as Abram planned (Gen. 12:13). The story is full of ambiguities. Even when Abram lies, he is telling the truth, for Sarai is both his sister and not his sister; she is his half sister. Even when Abram is blessed with all the gifts of Pharaoh, he is cursed, for his wife is now in the harem of Pharaoh. God does not rebuke Abram; yet, when Pharaoh speaks, his words sound like God’s words to Adam (Gen. 3:9; compare Gen. 21:17; Gen. 22:11, 15, 16). It also is interesting that Pharaoh asks a series of questions, just as in the call of God to Adam (Gen. 3:9, 11). This parallel between these two rebukes suggests that Abram’s iniquity is of the same vein as Adam’s iniquity.
+
+**Abram and Lot**
+
+For the first time since Canaan, the verb halak, “go,” which responds to the call lekh lekha, reappears. It is used twice (Gen. 13:1, 5). The first time it refers to Abram’s trip to Bethel, where Abram built an altar and worshiped God (Gen. 13:4). This move reconnects Abram to his past and restores what his trip to Egypt had interrupted. Abram comes back to “the old paths” (Jer. 6:16; compare Jer. 18:15). He repents.
+
+The second time the verb halak, “go,” is used, it refers to the going of Lot. Yet, unlike Abram’s move, the “going” of Lot has no spiritual connotation; instead, it is associated with his wealth (Gen. 13:5). Moreover, not only is the way they “go” different—but also the way they “dwell.” While Abram relates his “dwelling” to his relationship with God, Lot views his “dwelling” only in connection to himself and his material possessions. The difficulty of their cohabitation (Gen. 13:6) is not merely the result of outside factors; it essentially has to do with the profound spiritual divergences between them. Their worldviews are irreconcilable worldviews (Gen. 13:7–9), and therefore tensions between them are unavoidable. Although the biblical text reports a strife between the herdsmen, the dispute goes beyond the herdsmen and involves spiritual matters. Abram understands, then, that separation is the only way for peace. Lot takes the initiative and selects the territory of the rich plains. Abram takes what is left: the mountains of Canaan (Gen. 13:12). Unlike Lot, who decides by himself to lift his eyes and see (Gen. 13:10), Abram does this only at God’s injunction (Gen. 13:14).
+
+Later, during war, when Lot is taken captive from Sodom (along with his goods), Abram sets out with a band of men to rescue his nephew. At the end of the campaign, Lot and his people are finally rescued. The king of Sodom comes out to meet Abram on the way back from the campaign to thank him (Gen. 14:17). Ironically, Lot, who was so eager to control his destiny and took the best part of the land for himself, became a prisoner. Abram, on the other hand, who graciously and humbly ceded to Lot the right to choose first—a choice that was his by rights as the senior relative—is now the one who takes the initiative and controls the course of events. Abram had understood that trust in God and the readiness to lose his benefits was the best way to control his destiny and ensure the best outcome. The same paradoxical lesson is reinforced by Jesus in His Sermon on the Mount (Mark 8:35).
+
+**Abram and Melchizedek**
+
+This mysterious king seems completely out of place in the context of the narrative. First of all, Melchizedek comes from the city of Salem, the ancient name of Jerusalem, which was not involved in the war. Additionally, the name shalem, “Salem,” which means “peace,” contradicts the activities of war, which have been central to the story so far. Justice (tsedeq), which is included in the name of the king, stands in opposition to the evocations of “evil” and “wickedness” in the names of Bera (“in evil”), king of Sodom, and Birsha (“in wickedness”), king of Gomorrah. Melchizedek is called a “priest of God Most High.”
+
+This is the first occurrence in the Bible of the word “priest” (kohen). Melchizedek’s priesthood predates the Levitical priesthood. The fact that Abram uses the same title ’el ‘elyon (“God Most High”) for his God as does Melchizedek (Gen. 14:20, NKJV), in which he joins the name of YHWH to the name “God Most High” (Gen. 14:22, NKJV), suggests that Abram considered Melchizedek as a legitimate priest of the Creator God. Although Melchizedek belonged to the Canaanite community, God had chosen him to be His representative among the people of that time. In spite of his foreign origin, Abram gives him a tithe and is blessed by him. In addition, the numerous references to God, the sacred meal of the bread and the wine, and the blessing and hymn addressed to God imbue the Canaanite figure of Melchizedek with a spiritual significance, pointing beyond a simple meeting of kings. Notably, the subsequent scriptures maintain this spiritual connotation. Psalm 110 associates Melchizedek with the future Davidic Messiah (Ps. 110:4), followed by the authors of the New Testament, who relate the unique priesthood of Melchizedek to that of Jesus (Heb. 5:5– 6:10, Hebrews 7).
+
+#### Part III: Life Application
+
+Lekh Lekha, “Get Out.” Find passages in the Bible in which the prophets call for God’s people to get out of Babylon. What does this call mean for God’s people today? How does God’s call to His people to “get out” apply to you personally in relation to your social life? How does this appeal concern the character-building work you do each day? How does this expression apply to your experience of conversion?
+
+Abram and Lot. Why was Abram able to allow Lot to choose first? How does this attitude apply to your relationship with other people? Why is Abram’s future-oriented perspective superior to Lot’s present-oriented thinking? What principles and lessons does this story teach you about the way business should be conducted? Why ultimately do crime and deception not pay?
+
+Abram and Melchizedek. What lessons about the spiritual significance of the tithe can you learn from Abram, who gives his tithe to King Melchizedek, a Canaanite in his origin, who was a priest of God in Salem? How does Abram’s decision to give tithe of everything he brings back from the battle relate to his faith in the Creator and his Savior (Gen. 14:19, 20)? How does such a confession of faith in the Creator apply to material possessions in your life?
+
+`Notes`
