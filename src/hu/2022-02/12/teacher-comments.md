@@ -1,0 +1,48 @@
+---
+title:  Tanítói melléklet
+date: 17/06/2022
+---
+
+Alapige:  1Mózes 41:41
+
+Tanulmányozásra szánt szakaszok: 1Mózes 41:37–45:28; Róma 5:7-11
+
+#### Áttekintés
+
+Bevezetés: József nemcsak megmagyarázza a fáraó álmát, ami Egyiptom országának jövőbeli politikai és gazdasági problémáira vonatkozik, hanem megoldást is ajánl. Nem elégszik meg azzal, hogy kinyilatkoztatja Isten terveit. Nem is marad tétlen, várva, hogy Isten majd újabb csodát tesz. Azt javasolja a fáraónak, hogy jelöljön ki egy „értelmes és bölcs férfit” (1Móz 41:33), aki képes felügyelni az éhínségre való felkészülés teljes folyamatát. Ugyanezeket a szavakat használja az Írás arra a bölcsességre is, amit Isten Dávidnak adott az ország kormányzásához (1Kir 3:12; 3:9). Csak isteni segítség oldhatja meg a bekövetkező válságot. Ehhez a lelki tanácshoz ráadásként József még közgazdasági kurzust is tart, pontos módszertani részleteket és stratégiát vázol fel, ami segíthet Egyiptomnak túlélni az éhínséget. A fáraó ebből megérti, hogy József nem csupán álmodozó, hanem gyakorlatias ember, aki tudja, mit kell tenni, aktív, képes kivitelezni is az országot megmentő tervet.
+
+A fáraó tehát egész Egyiptom fejedelmévé nevezi ki Józsefet, felruházza minden hatalommal, ami szükséges a cél megvalósításához. Az elszenvedett sok-sok próba után a sikertörténet már a hős iránti csodálatot kelti az olvasóban. A bibliai beszámoló központi alakja azonban nem József. A boldog befejezés nem a sikerről szól, hanem a bűnbánatról, a megbocsátásról és arról, hogy Isten láthatatlanul jelen van az egész emberi történelemben.
+
+#### Kommentár
+
+József, Egyiptom minisztere
+
+József kivételes bölcsessége szerepet játszott abban, hogy a fáraó az ország miniszterének nevezte ki őt. Ez egybevág az ókori egyiptomi szokással, hogy az uralkodók leginkább a bölcsek közül választják ki a vezíreket (például Ptahhotep és Kagem szintén vezírek voltak, és a feljegyzések jelentős bölcseleti munkákat, az intelemirodalom gyöngyszemeit tulajdonítják nekik). Az egész ország József felügyelete alá tartozott (1Móz 41:41).
+
+Bizonyítékok támasztják alá, hogy az egyiptomi történelem során kineveztek más országokból való, még héber vezíreket is. A vezír feladatköre igen széles volt: ő lett az igazságszolgáltatás feje és az ország gazdasági felügyelője. Józsefet az egész ország fölé rendelték, ami azt erősíti meg, hogy az Egyiptomi Középbirodalomban vagy a második átmeneti korban élt, amikor erre a tisztségre a bölcsessége alapján választhattak meg embereket (1Móz 41:39). Más időszakokkal ellentétben a második átmeneti korban, a hükszoszok uralkodása idején a vezírek voltak a legnagyobb hatalommal rendelkező és legszilárdabb tisztségben lévő elöljárók a fáraók rövid uralkodása ellenére is.
+
+Szintén beleillik az egyiptomi háttérbe az, ahogyan a fáraó beiktatta Józsefet. A pecsétgyűrű (1Móz 41:42), a héber szöveg tabba’at, az egyiptomi pecsétet jelöli (djeba’ot), ami ujjat jelent, tekintve, hogy a gyűrűt az ujjukon hordták. Ez a pecsétgyűrű teljes jogot biztosított Józsefnek, hogy a király nevében hivatalos dokumentumokat hitelesítsen. A héber ses kifejezés, amely itt a „drága gyolcsruhát” jelöli, egy egyiptomi szó, a lenvászonra, a legelterjedtebb ruhaanyagra utal az ókori Egyiptomban. A József nyakába tett lánc (1Móz 41:42) a gallér, amelyen a Maat, a méltányosság, az igazságosság szimbóluma függött, az jelezte tulajdonképpen a „vezír” (arab gyökerű török szó), az állam miniszterelnöke szerepét. A „második” elnevezés, mint rang (1Móz 41:43), az ókori Egyiptomban a vezír címe volt, akit „a király után a másodiknak” neveztek. Szintén egyiptomi szokás a vezír beiktató szertartása, ami abból állt, hogy kocsin körbehordozták, előtte pedig hírnökök mentek, akik felhívták az emberek figyelmét az ott elhaladóra (1Móz 41:43). Az ’abrek szó (amit általában úgy fordítanak: „Térdet hajtsatok!”) szerepel a szövegünkben, de valójában nem héber, hanem egyiptomi. Ezen a nyelven pedig szó szerint azt jelenti, hogy „Figyelem!”, „Utat!” A fáraó nevet is ad Józsefnek, hogy az új feladatkörével járó megkülönböztetését jelezze. József egyiptomi neve Cáfenat-Panéah, egybecseng a következő egyiptomi átírással: djf n t’ pw ‘nkh, aminek jelentése: „a föld élelme, ez az élet”.
+
+Ez az olvasat nemcsak az adott helyzetre rezonál, hanem illik az ősi Egyiptomnak abban az időszakban betöltött szerepéhez is, hiszen az első elem (djf – élelem) ott volt a 13. és 14. dinasztiák magas rangú tisztviselőinek nevében is, a hükszoszok uralmát megelőzően. A fáraó egyiptomi feleséget ad Józsefnek, az ország egyik legkiemelkedőbb vallási alakjának, „Ón papjának leányát” (1Móz 41:45), tehát Józsefet így minden egyiptomi társadalmi réteg elfogadta, meglátogathatja az ország bármely területét (1Móz 41:45-46).
+
+József találkozik a testvéreivel
+
+József 20 év elteltével találkozik újra a testvéreivel. 17 éves korában látta utoljára őket, 30 évesen lett Egyiptom vezíre, 7 évvel később, az éhínség kezdetekor 37 éves. Ekkor teljesednek az álmai, amelyekben az apja és a testvérei meghajolnak előtte (1Móz 37:7-10). Mindez három szakaszban történik, mert a testvérek háromszor látogatnak el Egyiptomba és találkoznak Józseffel. Az első alkalommal tíz testvére van jelen (1Mózes 42. fejezet), akik megkérdőjelezték álmait és gyűlölték őt az álmok miatt (1Móz 37:8, 19). Ekkor hajolnak meg előtte (1Móz 42:6). A második találkozáskor jelen van József tíz bátyja és az öccse, Benjámin is (1Mózes 43-45. fejezet). Ekkor kétszer is meghajolnak előtte (1Móz 43:26, 28). A harmadik találkozáskor már ott van Jákób is, aki ekkor megy először Egyiptomba (1Mózes 46-47. fejezet).
+
+József felfedi kilétét
+
+22 év telt el azóta, hogy a 17 éves József először mondta el álmait a testvéreinek és az apjának. 39 éves, amikor felfedi kilétét a testvérei előtt. A „felfedte magát” kifejezés burkolt utalás Istenre. Egyetlen helyen fordul elő ezen kívül, amikor Isten megjelentette magát Mózesnek (4Móz 12:6). Ennek a fordulatnak a használata jelzi, hogy amikor felfedte kilétét a testvérei előtt, rajta keresztül Isten kinyilatkoztatta magát nekik.
+
+József valószínűleg látta a döbbenetet az arcukon, amikor elárulta, hogy ő a testvérük, hiszen másodszor is megismételte: „Én vagyok József” (1Móz 45:3-4). A testvéreket rémület szállja meg. Még kétségeik is lehetnének József állításával kapcsolatban, hiszen nem közöl velük mást, mint amit ők elmondtak neki. Ez az egész gyanúsnak tűnik, különösen a legutóbbi tapasztalataik fényében, amit megéltek vele. Féltik az életüket. Ezért ismétli meg József: „Én vagyok József!” Ezúttal azonban konkrétabban fogalmaz és hozzáfűz egy olyan részletet, amit senki nem tud a bátyjain kívül: „…a testvéretek, akit eladtatok Egyiptomba” (1Móz 45:4). Majd azzal folytatja, hogy Isten volt az, aki oda „küldte” őt. Isten küldte el a testvérei előtt, mégpedig konkrét céllal: „a ti megmaradásotokért” (1Móz 45:5). József ezzel arra utal, hogy az ő túlélésük biztosítása érdekében volt szükséges annak idején eladniuk őt. A testvérek úgy gondolták, ők adták el öccsüket, holott valójában Isten volt az, aki ezt végezte.
+
+„A fáraó atyja” szóösszetétel (1Móz 45:8) az itf-ntr egyiptomi címre utal, aminek szó szerinti jelentése: „Isten atyja”, tehát a fáraóra mint Istenre céloz. József nem úgy használja a kifejezést, ahogyan az egyiptomi nyelvben szokásos, mert tart attól, hogy nehogy istenkáromlónak tűnjön a testvérei szemében. Ez papi cím volt, amit a legmagasabb rangú hivatalnokok viseltek, beleértve a vezíreket is, mint amilyen Ptahhotep, Iszeszi vezíre volt (Kr. e. 2675). József másik címe, „Egyiptom egész földjének fejedelme” (1Móz 45:8) arra utal, hogy uralma kiterjed a két terület (Felső- és Alsó-Egyiptom) alkotta egész országra. Ez egy másik egyiptomi címet is tükröz – nb t3 wy – „a két föld ura”, ami a fáraó megbízottjának hivatalos, örökös címe volt. Figyeljük meg, hogy Egyiptom nevének héber megfelelője, a mitsrayim szintén Egyiptom két területére utal. József szándékosan hangsúlyozza Egyiptomban betöltött rangját: így emlékezteti őket az álomra, amelyben uralkodóként tűnt fel, aki előtt mindenki (beleértve az apjukat is) meg fog hajolni (1Móz 37:9). Az álomra hivatkozva József a beteljesedést úgy említi, mint Isten gondviselésének megdönthetetlen bizonyítékát.
+
+#### Gyakorlati alkalmazás
+
+József, Egyiptom vezíre. Hasonlítsuk össze Józsefet és Dánielt mint államférfiakat! A példájuk szerint istenfélő emberek miként vehetnek részt a politikában? Hasonlítsuk össze József tulajdonságait mai politikusokéval! Miért lenne nehéz egy hetednapi adventista hívő számára a miniszterelnöki posztot betölteni? Mi késztette Józsefet arra, hogy vezető legyen? Milyen vezetői alapelveket tanulhatunk meg a példájából? A csoportban beszélgessünk arról, hogy a heti tanulmányból milyen gyakorlati dolgokat vihetnénk át a családi életünkbe, a munkahelyi kapcsolatainkba és a gyülekezetbe!
+
+József találkozik a testvéreivel. Miért és hogyan hat az erkölcsi döntéseinkre a próféciák teljesedése? Miképpen befolyásolja napi magatartásunkat az, hogy tudjuk: a vég idején élünk! Miért kell az Isten országába vetett reménységünknek hatnia arra, ahogyan másokkal bánunk? Beszélgessünk az osztályban arról a jelenetről, amikor József találkozott a testvéreivel! Képzeljük el, milyen érzések kavaroghattak József szívé­ben! Mit érezhetett, amikor látta, hogy a testvérei és az apja meghajolnak előtte? Hogyan tekintsen a sikeres ember az ellenségre, aki kudarcot vallott?
+
+József felfedi kilétét. A megbékéléssel kapcsolatban mit tanulhatunk József viselkedéséből? Vajon hogyan reagált volna, ha nem kerül ki olyan jól a bajból?
+
+`Jegyzetek`

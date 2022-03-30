@@ -1,0 +1,50 @@
+---
+title:  Tanítói melléklet
+date: 27/05/2022
+---
+
+Alapige:  1Mózes 27:36
+
+Tanulmányozásra szánt szakaszok: 1Mózes 25–30; 11:1-9
+
+#### Áttekintés
+
+Bevezetés: A nemzetségrendben Izsák után Jákób következik. Ő viszi tovább a messiási magot. Míg elődeitől, Ábrahámtól és Izsáktól két ág származott, amelyek közül egy maradt a szövetség vonalában, Jákób az egyetlen pátriárka, akitől a szövetség egy vonalában Izrael népének 12 törzse született.
+
+Jákób életében gyakoriak a viszályok és problémák. Ebben a részben az ő harcait követjük nyomon születésétől kezdve mezopotámiai meneküléséig. Vérmérséklete és sorsa már anyja méhében megmutatkozott, ahol megküzdött testvérével az elsőbbségért. Jákób kezével Ézsau sarkába kapaszkodva születik meg. Később egy tál lencsével becsapja bátyját, hogy megszerezze az elsőszülöttségi jogot, majd csalással az áldást is megszerzi előle. Hogy elkerülje Ézsau haragját, menekülnie kell nagybátyjához Padan Aramba. A nagybátyja becsapja Jákóbot, így kötelezi, hogy több évig dolgozzon neki, mint amennyit eredetileg várt. Másrészt viszont Isten vele van és a javára fordítja az eseményeket. Kinyilatkoztatja magát neki álomban, ami megerősíti a gyötrődő Jákóbot. A pátriárka története 12 fiának születésével végződik, akik Isten népének ősatyái lesznek.
+
+#### Kommentár
+
+Eltérő jellemű ikrek
+
+Az ikertestvérek, Jákób és Ézsau közötti különbségek már kezdettől fogva megmutatkoztak és előre jelezték sorsukat. Az első fiúról, Ézsauról megjelenése alapján kapunk leírást: vörös és szőrös. A másik fiút cselekedeteivel jellemzi az Írás: megragadja testvére sarkát (’akeb); ebből ered a neve is: Ja’akob (Jákób), ami már előre sejteti jövőbeli tettét, hogy kitúrja helyéről a testvérét (1Móz 27:36). Később, amikor Ézsau ráébred, hogy Jákób ellopta az elsőszülöttségi áldást, öccse nevét (ja’akob) szójátékként használva panaszolja, hogy már másodszor ragadta meg a sarkát (1Móz 27:36). A sarok megragadása csalást és végzetes agressziót sejtet (1Móz 3:15; 49:17). Tehát a két testvér neve jövendölés, utalás jövendő sorsukra.
+
+A testvérek közötti különbség megnyilvánul a magatartásukban és a döntéseikben. Izmáelhez hasonlóan (1Móz 21:20) Ézsau gyakorlott vadász, szeret a természetben, a nyílt terepen időzni. Jákób viszont szelíd, szívesebben tartózkodik otthon. Ézsau az édesapa kedvence, Jákób pedig az anyukáé (1Móz 25:28). Jákób lelki, érzékeny természete különbözik Ézsau kemény, testi természetétől. A héber tam (szelíd) szó, amivel Jákóbot jellemzi az Írás, ugyanaz, ami Jóbra (Jób 8:20) és Noéra (1Móz 6:9) is utal. Hasonlóképpen a jasab szó („lakozik”) azt is jelenti, hogy „ül”, és Jákób csöndes, elmélkedő természetére vonatkozik (vö. Zsolt 84:4; 91:1). A jellemükre tett utalás alapján szinte várható az étellel kapcsolatos eset, ami bemutatja, hogy melyiküknek mi a fontos (1Móz 25:29:31). Jákób figyelembe vette az elsőszülöttségi jog jelentőségét, amit szenvedélyesen meg akart szerezni; Ézsaut ellenben nem foglalkoztatták a jelen életen túlmutató dolgok, nem érdekelte, mi lesz a halála után. Ézsautól eltérően, aki a jelenre koncentrált, Jákób számára a jövő volt a fontos. Különösen érzékeny a lelki értékekre, ezért akarja annyira megszerezni az elsőszülöttségi jogot, még anyagi eszközöket is felhasznált elérésére. Ironikus módon Jákóbnak elég hite volt ahhoz, hogy „meglássa” a lelki értékeket és az elsőszülöttségi jogból eredő, jövőbeni hasznot, ám ahhoz hiányzott a kellő hit, hogy bízzon Istenben: majd tőle megkapja (1Móz 27:41-45). A papság megalapítása előtt az elsőszülöttségi jog „nemcsak világi javak öröklését foglalta magában, hanem kiemelkedő lelki értékeket is. Az elsőszülöttségi jog birtokosa volt a család papja” (Ellen G. White: Pátriárkák és próféták. Budapest, 1993, Advent Kiadó, 141-142. o.). Ézsau kérése (1Móz 25:30) sugallja, hogy az elsőszülöttségi jogban nem látott lelki jelentőséget, csakis az azonnali jóllakása számított, tulajdonképpen megvetette az elsőszülöttségi jogát (1Móz 25:32, 34 vö. Zsid 12:16-17).
+
+Bétel és Bábel
+
+A „menny kapuja” kifejezés a teljes héber Bibliában csak itt fordul elő (1Móz 28:17) és a „Bab-El” („Isten kapuja”) névre, Bábel építőinek hiábavaló próbálkozására emlékeztet, akik sosem érték el „a menny kapuját”. Ez a kifejezés hasonló az „Isten háza” fordulathoz, ami „erre a helyre”, „a kőre” utal (1Móz 28:18-19), ez a hely viszont a Jákób álmában szereplő „létra” földi helye (1Móz 28:12). Tehát mint a földi „Isten házának” égi megfelelője, a „menny kapuja” Isten lakhelyére vagy templomi szentélyére utal.
+
+Bétel tanulsága, hogy van összeköttetés menny és föld között: Jákób lajtorjája, vagyis maga Isten. Ezért Jákób fog egyet a feje köré (vagy alá) tett kövek közül, amiről különleges álma jutott eszébe, hogy „oszlopot” emeljen belőle. A héber „oszlop” szó, a matseba azt jelenti, hogy „álló helyzetben lévő”, a felállított kőre utal, a mutsab és a nitsab szavakat visszhangozza. Ez jelöli az álló helyzetben lévő létrát és az őrt álló Istent.
+
+Jákób olajat önt a kőre, vagyis felszenteli emlékoszlopként, így közvetít egy bizonyos lelki üzenetet. Ez a kő emlékeztet a Jákób lajtorjája által közölt tanulságokra, a menny és a föld közötti összeköttetésre. Bábel nevével ellentétben, ami azoknak az embereknek a hiábavaló próbálkozásait idézi, akik sosem érték el a menny kapuját, Bétel megerősíti, hogy „Isten házában” vagyunk. A Bab-El név azt a törekvést tükrözte, hogy elérjenek Isten helyére, behatoljanak oda és elfoglalják azt. Bétel tanulsága az, hogy Istenhez csakis az Ő ajándéka által juthatunk el, kegyelme és testté létele folytán, Jézus Krisztus lajtorjáján (Jn 1:51).
+
+Jákób vallása. Figyelemre méltó, hogy Jákób ezen a kövön találja meg hitét, ott, ahol a létra áll (1Móz 28:22). Isten házának nevezi el a helyet (1Móz 28:22). A kő a bizonyíték, hogy összeköttetés van menny és föld között (1Móz 28:12). Jákób elkötelezi magát, hogy istentiszteleti helyet épít, szentélyt, ami erről az igazságról tanúskodik majd. Ez a fogadalom tulajdonképpen válasz arra, hogy Isten megvédi Jákóbot a visszafelé, az ígéret földje felé vezető úton. Jákób azt is megfogadja, hogy tizedet ad Isten ajándékáért, a kenyérért és ruhákért. Vallása, istentisztelete és hűsége úgy határozható meg, mint válasz Isten kegyelmes tetteire, semmiképpen sem tekinthetők Isten kegye elnyerésének eszközeinek. Mivel az Úr Jákób személyes Istene, aki lejött és összeköttetést teremtett a földdel, a pátriárka imádattal válaszol. Isten gondot visel róla, kirendeli fizikai szükségleteit, Ő a forrása mindenének (1Móz 28:22), ezért feleletként Jákób megígéri, hogy tizedet ad neki. A bibliai szöveg nem jegyzi fel, hogy Jákób teljesítette volna a szentély építésére és a tized fizetésére vonatkozó fogadalmát. Mózes első könyve csak az Isten oldaláról jegyzi fel a teljesítést. Jákób elismeri Isten részét, amikor utal az oltalmáról szerzett tapasztalatára (1Móz 35:3 vö. 46:3-4). Később arra utal Izrael szentélyének felépítése, ami a menny Istene imádatának jele, valamint a tized bevezetése, ami Isten elismerésének jele a földön, hogy Jákób fogadalma is teljesült.
+
+Jákób megkapja az áldást. Amikor Jákób alkut ajánl, hogy az összes pettyes és tarka juhot válogassák ki a nyájból és az legyen a bére, Lábán azonnal beleegyezik (1Móz 30:34). Célja elérése érdekében Jákób nyárfa, mandulafa és gesztenyefa vesszőket használ. Ez a választás nem véletlen, mivel ez a három fa olyan kémiai vegyületeket tartalmaz, amelyek élettanilag kedvező hatásokkal rendelkeznek. Mivel a kevert fajtájú állatok általában erősebbek, mint a fajtiszták, az Istentől kapott látás alapján az erősebbeket választotta ki (1Móz 30:41). Azokat a kosokat kérte, amelyekben ott vannak a látens gének. Ily módon hatalmasra nő a nyája, erős, tarka juhokból és kecskékből áll. A módszere talán babonás varázslásnak tűnhet, azonban a bibliai szöveg arról tájékoztat, hogy Jákób isteni vezetés alatt cselekedett (1Móz 31:11-12). Ráadásul a tudományos vizsgálatok bizonyítják, hogy a módszere egybevághatott a modern genetika tudományának törvényeivel. Végül „fölötte igen meggazdagodott” (1Móz 30:43). Ez a kifejezés felidézi azt, ahogyan Jákób korábban Lábán gazdagságát jellemezte (1Móz 30:30). Az összecsengés mutatja, hogy tehetősebb lett apósánál, vagyonát az ő gazdagságából szerezte, Isten áldása által (1Móz 20:27).
+
+#### Gyakorlati alkalmazás
+
+Eltérő jellemű ikrek. A Jákób és Ézsau közötti ellentét két mentalitást érzékeltet. Beszéljük át az osztályban a kétfajta személyiség jellemzőit és a kétféle életút részleteit, amelyeket e bibliai alakok bemutatnak! Miért az az embertípus kedves Istennek, amelyet Jákób képvisel? Vajon Ézsau minden tulajdonságáról elmondható (finom ételek élvezete, testmozgás, erő, az apa iránti szeretet), hogy kevésbé értékes, mint amit Jákób gyakorolt (elmélkedés, szelídlelkűség, az anya iránti szeretet)?
+
+Bétel és Bábel. Olvassuk el 1Móz 11:1-9 és 28:10-22 verseit! Hasonlítsuk össze Isten megközelítésének két módját! Mi a különbség Bétel (az Isten háza), ami arra utal, hogy valaki bent van Isten házában és Bábel (Isten ajtaja) között, ami azt jelzi, hogy Isten ajtajánál állni? Jelen civilizációnkat melyikhez sorolnánk és miért?
+
+Jákób vallása. Mi milyen indíttatásból adunk tizedet? Miért tartjuk meg Isten parancsolatait? Miként kapcsolódik engedelmességünk istenhitünkhöz? Tegyük fel, hogy elveszítenénk a munkánkat, mert hűségesen megtartjuk a szombat parancsát. Miért tartanánk ki mégis amellett, hogy tizedet fizetünk?
+
+`Jegyzetek`
+
+---
+
+#### Ellen G. White idézetek
+
+A megváltás története: „Jákób száműzetésének évei” című fejezet.
