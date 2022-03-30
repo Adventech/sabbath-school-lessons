@@ -6,9 +6,7 @@
   end_date: "24/06/2022"
   color_primary: "#EF6A00"
   color_primary_dark: "#BF5500"
-  splash: true
-  quarterly_name: "Lesona Tanora Zokiny"
-credits:
+  credits:
     - name: Principal Contributor
       value: "Callie Buruchara"
     - name: Editor
