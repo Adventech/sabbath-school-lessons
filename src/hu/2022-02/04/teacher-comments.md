@@ -1,0 +1,50 @@
+---
+title:  Tanítói melléklet
+date: 22/04/2022
+---
+
+Alapige: Máté 24:37
+
+Tanulmányozásra szánt szakaszok: 1Mózes 6–10; 2Péter 2:5-9
+
+#### Áttekintés
+
+Bevezetés: Sokan megkérdőjelezték már a vízözön bibliai beszámolójának történelmi hitelességét, és azzal érveltek, hogy egy egész világra kiterjedő esemény nem egyeztethető össze a természeti világ történelméről alkotott, modern tudományos nézetekkel. Azonban vannak feljegyzések a hatalmas áradásról sok, egymástól földrajzilag távol élő nép egyetemes, kulturális emlékeiben, nem csak az ősi Közel-Keleten, Mezopotámiában, Egyiptomban és Görögországban. A vízözönről szóló elbeszélések megtalálhatók Indiában, Kínában, Írországban, Közép-Amerikában a maják között, az amerikai indiánok, Dél-Amerika, Afrika és Ausztrália őslakosai emlékezetében is. A modern tudomány nem tartja észszerűnek a vízözön jelenségét, ami azonban még nem bizonyíték arra, hogy ne történt volna meg. Nem tudnak magyarázatot találni rá, ami további bizonyíték arra, hogy mennyi korlátja van a tudománynak, különösen egy olyan természetfeletti esemény kérdésében, mint az özönvíz Mózes első könyvében.
+
+Ezen a héten nem azért fogjuk tanulmányozni a kozmikus esemény történetét, hogy tudományos szempontból megértsük. Nem rendelkezünk mindazokkal az adatokkal, amelyek segítségével megtehetnénk ezt, viszont ezen kívül sok témát tárgyalni fogunk. Az alapvető kérdés Istenre vonatkozik: Mit tanít ez a történet a Biblia Istenéről és céljáról? A gnosztikus filozófus, Markión (Kr. u. 85-160), őt követően pedig sok keresztény használta fel a vízözön történetét arra, hogy bizonyítsa: az Ószövetség Istene erőszakos és kegyetlen, aki homlokegyenest különbözik Jézustól, a szeretet Istenétől.
+
+#### Kommentár
+
+Az igazság Istene
+
+A teremtés és a bűnbeesés után ősszüleink engedetlensége fokozódott, míg a világ egészen megtelt romlással és gonoszsággal. Káin és Ábel idejétől kezdve az emberiség két táborra szakadt. Érdekes, hogy mindkét nemzetségtáblázat alapja az emberek Istennel való kapcsolata. Káinról a nemzetségtáblázata (1Móz 4:17-22) előtt a bevezető megemlíti, hogy megtagadta Istent (1Móz 4:16), Sét nemzetségtáblázatának (1Móz 5:1-32) kezdetén pedig az Isten képmására történik utalás (1Móz 5:1). Ez az ellentét magyarázza, hogy miért nevezi később az Írás Káin vonalát úgy, hogy „az emberek fiai”, míg Sét vonalát pedig Isten fiainak (1Móz 6:1-2). Istent aggasztja, amikor látja, hogy a két vonal vegyülni kezd és egy új leszármazási vonalat hoznak létre, amelynek tagjai nyíltan lázadnak a Teremtő ellen. A „vettek maguknak” (1Móz 6:2) kifejezés azt sejteti, hogy „Isten fiai” le akarták cserélni Istennek a házasság működésére vonatkozó rendjét, szembementek azzal. Isten eredeti tervét az mutatja, hogy miután megformálta az asszonyt, odavitte Ádámhoz (1Móz 2:22). „Isten fiai” a Teremtő helyébe akartak lépni, hozzáállásukat a következő fordulat jelzi: „Látták…, hogy szépek…” (1Móz 6:2). A héberben itt ugyanaz a szó, a „tób” (a fordításban „szép”) áll, mint amit Isten a teremtés jellemzésére mondott: „Látta Isten, hogy jó” (1Móz 1:4, 10, 12, 18, 21, 25). Isten fiait ez arra vezette, hogy bűnös vágyaik hatására olyan dolgokat kövessenek el, amelyekkel szembehelyezkedtek Isten teremtési rendjével.
+
+A „feleség” többes számú alakja azt is sugallja, hogy megjelent a poligámia. A „feleségül vették közülük mindazokat, akiket megkedveltek” kifejezés arra utalhat, hogy vad és féktelen életet éltek, áthágva Isten törvényét. Ott van a jelzés ebben, hogy magatartásuk öncélú, kíméletlen, erőszakos volt (lásd 1Móz 39:14, 17). Szexuális kilengéseikkel nemcsak a Teremtőt tagadták meg, hanem kezdetét vette a nők elleni erőszak is.
+
+A Biblia szövege szerint Isten látta a gonoszságot (1Móz 6:5), ez a második alkalom, amikor hírt ad arról, hogy Isten az, aki lát, figyel (vö. 1Móz 6:1-4). A teremtésről szóló leírással párhuzamosan megállapíthatjuk, hogy az isteni szót azonnal követi az isteni megfigyelés: „És azt mondta az ÚR…” (1Móz 6:3, ÚRK).  „…látta az ÚR…, hogy szíve gondolatának minden alkotása szüntelen csak gonosz” (1Móz 6:5, ÚRK). Ez a sor a teremtés refrénjének második visszhangja: „És látta Isten… hogy jó” (1Móz 1:4). Azonban ami a teremtésben eredetileg „jó” (tób) volt, most éppen az ellentéte: gonosz (ra’ah). Isten következő megjegyzése elszomorító helyzetértékelés. A „megsokasodott az ember gonoszsága” kifejezés nemcsak bizonyos tettekre vagy alkalmi bűntényekre vonatkozik, hanem általános és mélyen romlott állapotra, amikor valami a velejéig, a gyökeréig rossz; az emberi szív alapvető indítékaira, amelyeket Isten véglegesen romlottnak talál. Elérték azt a pontot, ahonnan már nincs visszaút. Istennek az egész világra kiterjedő özönvízzel kellett közbelépnie, hogy az emberiség maradékát megőrizze a teljes erkölcsi romlástól és a kipusztulástól.
+
+A szeretet Istene
+
+Ebben az isteni közbelépésben a megfogalmazás a teremtés eseményét idézi. Isten megbánta, hogy embert alkotott. A „megbánás” itt szorosan összefügg Isten bánatával. A Teremtő „bánkódott szívében” (1Móz 6:6). A héber ’atsab (bánkódik, gyászol) az öröm ellentéte (Neh 8:10) és mentális fájdalomra utal (1Móz 3:16). Isten bánata az emberek iránti szeretetéből fakad. Megjegyzendő, hogy a héber nakham szó (megbán) tartalmaz némi pozitív árnyalatot is, kegyelmet és szeretetet. Ennélfogva a fordítása nem teljesen adja vissza Isten érzéseit. Ez nem azt jelenti, hogy meggondolta volna magát. Beleértendő a kegyelem, az irgalom, a vigasztalás is. A nakham időnként a sub (eltér, megtér, megfordul) szóval együtt szerepel (lásd Jer 4:28; Jón 3:9).
+
+A nakham szó használata reményt hoz a képbe: a megváltás távlatát az özönvíz által. Isten szeretete nyilvánul meg benne az emberiség iránt, az ítélettel is a szeretetét fejezi ki. A gonoszság megbüntetése is a szeretet cselekedete. A héber makhah (elpusztít, eltöröl) szójáték az előtte szereplő nakham szóval (megbán, vigasztal) Isten mély bánatát és az emberiség iránti együttérzését fejezi ki. A nakham érzékelteti az ítélet pozitív oldalát, a makhah pedig a negatív oldalt. Továbbá a makhah az ítélet fogalmához tartozik, pontosabb jelentése: „eltörölni”. Ez az „eltörlés” fizikai megsemmisítést jelent, gyakorlatilag visszafordítja Isten teremtői tetteit. Ezen túl az ítélet arra is utal, hogy az emberek lelki értelemben is kikerülnek az élet könyvéből (2Móz 32:32-33; Zsolt 69:28-29). A bibliai gondolkodásmódban a szeretet és az igazság mindig együtt jár (Mik 6:8).
+
+A bölcsesség Istene
+
+Pontosan a szeretet és az igazság összekapcsolódása képezi Isten bölcsességét. Ő nem csak jóakarata és szeretete által ment meg. A Noé és családja megmenekülését biztosító bárka építésének részletei (1Móz 6:14-22) kézzelfogható bizonyítékul szolgálnak arra, hogy Teremtőnk fokozottan figyel az élet realitásaira. A precíz részletek nemcsak a bárka építésének történelmi valóságáról tanúskodnak, hanem arra is rávilágítanak, hogy Isten törődik a folyamat sikerével. Ezért ad pontos utasításokat. A gyantás faanyag, amelyből a bárka vázát építették, valamint annak nedve pontosan megfelelt annak a célnak, hogy a bárka kívül és belül vízálló legyen. Ablakot is elhelyeztek a tetején, amelyen át beáramlott a fény és a levegő. Ez egy könyöknyire volt a tető szélétől. A tető vonala alatt bizonyára valamilyen rostélyokból álló elem futott végig, hogy a bárka minden helyisége világos és szellős legyen.
+
+Isten odafigyelt a bárka megépítésére, de később részletes utasításokat adott a vallási élet és az üdvösség kérdéseiben is az áldozatok és a szentélyszolgálat által. Sok párhuzam van a bárka és a szent sátor építésének terveiben. A bárka (1Móz 6:15) méreteit ugyanazon szabvány szerint és azokkal a szavakkal adta meg Isten, mint a szent sátorba helyezett frigyládáét (2Móz 25:10).
+
+Milyen nagy volt a bárka? Ha egy könyök 45 cm volt, akkor a bárka hossza több, mint 137 méter (300 könyök); szélessége 22 méter (50 könyök); magassága 13 méter (30 könyök) volt. A méreteknek nincs különleges szimbolikus vagy lelki jelentőségük – egyszerűen érzékeltetik a bárka hatalmas voltát, ami elég nagy volt ahhoz, hogy az állatok és emberek elférjenek benne. A bárka és a szent sátor közötti párhuzamok azonban komoly jelentőséggel bírnak: Isten, aki megment bennünket lelki értelemben, Jézus Krisztus, ugyanaz a Teremtő Isten, aki fizikailag is megment.
+
+Megbeszélendő és elgondolkodtató kérdések: Miként függ össze egymással teológiai értelemben Isten jellemének három vetülete – igazság, szeretet és bölcsesség?
+
+#### Gyakorlati alkalmazás
+
+Ne ölj! A vízözön alaptanulsága az életigenlés. Miután elpusztult a teremtett világ és meghalt minden ember, aki a bárkán kívül volt, Isten igent mond az életre. Ebben az összefüggésben meghagyta Noénak, hogy szaporodjanak, továbbá ne is vegyék el az életet, mert az szent. Ez az alapelv vonatkozik az állatokra is. Bár Isten megengedte egyes állatok húsának fogyasztását, figyelembe véve a vízözön utáni állapotot, úgy pontosította rendelkezését, hogy ne egyék a húst a vérrel együtt, mert a vér jelképezi az életet (1Móz 9:4). Az emberekre vonatkozóan azonban a kikötés abszolút. Mivel a saját képmására teremtette az embert, vérét tilos kiontani (1Móz 9:5-6). Az állatok élete is szent, ahogy azt a vér fogyasztásának tiltása is mutatja, azonban csak az emberélettel vagyunk kötelesek elszámolni Isten előtt (1Móz 9:5).
+
+A héber nyelvben több ige is van, ami ölést jelent. Ezek vonatkozhatnak emberre és állatra egyaránt, kivéve a ratsakh igét, ami csak emberre vonatkozik. Fontos, hogy a Tízparancsolat szövegében a „Ne ölj!” parancsban (2Móz 20:13) ez az ige szerepel. Ez a szóválasztás nem tesz különbséget a gyilkosság és egyéb emberölési esetek között, de az áldozat szempontjából megkülönbözteti az emberek vagy állatok életének kioltását. A hatodik parancsolatot tehát így fordíthatjuk: „Ne ölj embert!”
+
+Elgondolkodtató kérdés: Hogyan alkalmazzuk ezt az elvet a katonai szolgálat, illetve a halálbüntetés kérdésében?
+
+`Jegyzetek`
