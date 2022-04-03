@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L00.pdf'
+      target: en/2022-02-pr/introduction
+      title: Introduction
+      start_date: 26/03/2022
+      end_date: 26/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L01.pdf'
+      target: en/2022-02-pr/01
+      title: Human Gods?
+      start_date: 26/03/2022
+      end_date: 01/04/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L02.pdf'
+      target: en/2022-02-pr/02
+      title: Come Help Us!
+      start_date: 02/04/2022
+      end_date: 08/04/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L03.pdf'
+      target: en/2022-02-pr/03
+      title: The Unknown God
+      start_date: 09/04/2022
+      end_date: 15/04/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L04.pdf'
+      target: en/2022-02-pr/04
+      title: Miracle at Midnight!
+      start_date: 16/04/2022
+      end_date: 22/04/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L05.pdf'
+      target: en/2022-02-pr/05
+      title: God’s Special Gift
+      start_date: 23/04/2022
+      end_date: 29/04/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L06.pdf'
+      target: en/2022-02-pr/06
+      title: First Place!
+      start_date: 30/04/2022
+      end_date: 06/05/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L07.pdf'
+      target: en/2022-02-pr/07
+      title: In and Out of the Lions’ Den
+      start_date: 07/05/2022
+      end_date: 13/05/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L08.pdf'
+      target: en/2022-02-pr/08
+      title: Another New Law
+      start_date: 14/05/2022
+      end_date: 20/05/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L09.pdf'
+      target: en/2022-02-pr/09
+      title: The Right Choice
+      start_date: 21/05/2022
+      end_date: 27/05/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L10.pdf'
+      target: en/2022-02-pr/10
+      title: Who Is My Neighbor?
+      start_date: 28/05/2022
+      end_date: 03/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L11.pdf'
+      target: en/2022-02-pr/11
+      title: Home Again!
+      start_date: 04/06/2022
+      end_date: 10/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L12.pdf'
+      target: en/2022-02-pr/12
+      title: Ready or Not
+      start_date: 11/06/2022
+      end_date: 17/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-L13.pdf'
+      target: en/2022-02-pr/13
+      title: You Did It for Me
+      start_date: 18/06/2022
+      end_date: 24/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2022/Q2/Primary/Student/P-22-Q2-MemoryVerses.pdf'
+      target: en/2022-02-pr/memory-verses
+      title: Memory Verses
+      start_date: 18/06/2022
+      end_date: 24/06/2022
