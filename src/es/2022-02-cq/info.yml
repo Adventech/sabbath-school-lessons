@@ -4,8 +4,9 @@
   human_date: "Abril · Mayo · Junio 2022"
   start_date: "26/03/2021"
   end_date: "24/06/2021"
-  color_primary: "#EF6A00"
-  color_primary_dark: "#BF5500"
+  color_primary: "#D7AD5D"
+  color_primary_dark: "#CA9020"
+  splash: true
   credits:
     - name: Autores
       value: "Justin Kim"
