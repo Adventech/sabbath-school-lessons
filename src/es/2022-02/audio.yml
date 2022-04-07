@@ -41,3 +41,5 @@
           target: es/2022-02/03/04
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-3-MIERCOLES.mp3
           target: es/2022-02/03/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-3-JUEVES.mp3
+          target: es/2022-02/03/06
