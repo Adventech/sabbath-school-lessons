@@ -1,7 +1,7 @@
 ---
   video:
     - artist: Hope Sabbath School
-        clips:
+      clips:
         - src: https://storage.googleapis.com/hc-jetstream-uploads/HSS_2022_Q2_EP01.mp4
           thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:9MtNXMpamODOMXKatUeN.png
         - src: https://storage.googleapis.com/hc-jetstream-uploads/HSS_2022_Q2_EP02.mp4
