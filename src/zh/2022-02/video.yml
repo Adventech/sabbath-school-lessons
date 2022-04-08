@@ -4,7 +4,11 @@
       clips:
         - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-uploads/SABA0698YCH2220.mp4
           thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:AuoCSvjRqUKDPVW6AOXh.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://hcchinesev.content.video.llnw.net/smedia/50daca82487d42f7bd3310c0a627b3b6/RB/fvR-IhL6gfSvjme2CSMDUEpHyybKE8RWG2c1Dlqao/saba0693ych2215.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:FXxLNFvjQMeLgZLmkiyK.png
     - artist: 希望中文台 (粵語版視頻)
       clips:
-      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-02-01.mp4
-        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-02-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-02-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-02-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-02-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-02-02.webp

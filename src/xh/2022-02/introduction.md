@@ -1,0 +1,19 @@
+### Incwadi Yesiqalo
+
+IGenesis ingoYesu: uYesu uMdali wethu, uYesu uMxhasi wethu, uYesu uMkhululi wethu. Ebhala kwiwaka leminyaka emva kokuba ingxelo yeGenesis ngokunokwayo ibhalwe nguMoses, kwaye efikelela ngasemva ukucanda loo maphakade ukusinga kanye kumazwi enyange, umpostile uYohane utyhila uYesu kwingxelo yeNdalo: “Ekuqalekeni ube ekho uLizwi, waye uLizwi ekuye uThixo, waye uLizwi enguThixo. Izinto zabakho ngaye, engekho yena akubangakho nanye into ethe yabakho. Kuye kwakukho ubomi, baye ubomi obo bulukhanyiselo lwabantu” (Yohane 1:1-4).
+
+UYohane wabhala ntoni apha? “Ekuqalekeni” izinto zonke ezenziwayo, izinto zonke ezazingekho kuqala, zathi zabakhona-ngoYesu. Yonke indalo-ukusuka kwiminyele yesibhakabhaka kulo lonke elimiweyo ngeevili ezijikeleze zikhwankqisa zomlilo nokukhanya ukusinga kwincindi yofuzo echanekileyo ebunjwe ngokungumangaliso kwiseli kumasuntswana angumsinga-uYesu wadala kwaye ukuxhasa konke. Kwaye incwadi yeGenesis libali lokuqala kwisiBhalo lazo zombini, le ndalo kunye nokukhululwa kwale ndalo. Apha, kule ncwadi, kukho ingxelo “esesikweni” ekuphela kwayo ehlabathi ngemvelaphi yethu.
+
+Igama lesiNgesi uGenesis lisuka kugenesisi wesiGrike, elithetha “isiqalo,” lona ngokunokwalo lisuka ku-bere’shit wesiHebhere, “ekuqalekeni”-igama lokuqala lale ncwadi (yiyo lo nto, iligama lokuqala layo yonke iBhayibhile!) IGenesis isinika isiseko, umzantsi, nalapho zonke iziBhalo ezilandelayo zimi khona. Ngenxa yokuba iyeyokuqala, yaye isisiseko sayo yonke into elandelayo, iGenesis mhlawumbi yeyona ncwadi icatshulwe okanye kusingiselwe kakhulu kuyo kwiziBhalo ziphela.
+
+IGenesis ibalulekile kuba iyincwadi ethi, ngaphezu kwawo nawuphi umsebenzi, naphi na, isincede siqonde ukuba singobani njengabantu, inyaniso ebaluleke ngokukodwa ngoku, kwixesha apho thina njengabantu sibonwa njengebhaqo, amabona-ndenzile ezidalwa zelizwe elikholelwa ngokuphandle kwizinto eziphathekayo kwaphela. Okanye, njengoku isitsho enye inzulu-lwazi, thina njengabantu “siludaka oluhlanganisiweyo,” (nto leyo enobunyani kwelinye icala, nangona ngokwakuye iyimithetho yemvelo kuphela eyaluhlanganisayo!)
+
+IGenesis, noko kunjalo, ityhila kuthi imvelaphi yethu yokwenene, yokuba sizizidalwa ezenziwe ngenjongo nangokugqibeleleyo ngokomfanekiselo kaThixo kwihlabathi eligqibeleleyo. IGenesis kanjalo edandalazisa elubala uKuwa; oko kukuthi, isizathu sokuba ihlabathi lethu lingasagqibelelanga kwanokuba kutheni nathi njengabantu singagqibelelanga, kanjalo.
+
+Ngamabali ayo anika umdla emimangaliso (indalo, uzalo, umnyama) nemigwebo (uNogumbe, iSodom neGomora) engqina ubungcwele bobukho bukaThixo, iGenesis iyoyikeka. Kodwa iGenesis kanjalo iyincwadi enamabali achukumisayo othando (uYakobi noRakeli), entiyo (uYakobi noEsawu) ozalo (uIsake, uYakobi, oonyana bakaYakobi), okufa (uSara, uRakeli, uYakobi, uYosefu), okubulala (uKayin, uSimon, noLevi), nawoxolo (uEsawu noYakobi, uYosefu nabantakwabo). Kanjalo ikwa yincwadi eyalelayo enezifundo ngokuziphatha (uKayin, uAbheli) ngokholo (uAbraham, uYakobi), nangethemba nedinga lenkululo (ukutyunyuzwa kwenyoka, iLizwe leDinga).
+
+Kule kota, asizokulesa sifunde kuphela incwadi yeGenesis-sizakonwabela amabali ayo amnandi size sifunde ukuhamba ngcono neNkosi yeNdalo, uThixo kaAbraham, uIsake, noYakobi.
+
+Ngaxa linye, iintshukumo ngezentlalo zencwadi-ukusuka eEdeni ukuya eBhabhile, ukusinga kwiLizwe leDinga, ukusinga eYiputa, nombono weLizwe leDinga-zisikhumbuza ngeehambo zethu ezizulazulayo zize zikhulise ithemba lethu leLizwe leDinga lokwenene, izulu elitsha nomhlaba omtsha. Xa silandela aba bantu sidukuda kumaphepha eGenesis, sizakufumanisa ukuba-nokuba lahluke kangakanani na ixesha, indawo, inkcubeko, nemeko-amabali abo asoloko, ngeendlela ezininzi, engawethu, ngokunjalo.
+
+_Jacques B. Doukhan, DHL, ThD, is emeritus professor of Hebrew and Old Testament exegesis in the SDA Theological Seminary, Andrews University._

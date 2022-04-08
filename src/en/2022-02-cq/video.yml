@@ -3,4 +3,6 @@
     - artist: InVerse Bible
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-01.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-01.webp
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:f1eciPzNxi3phPkMXGfQ.jpg
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/Rj/kdcgP9qXIXn0FhkVdPAW_u9AZnvOB8Mvcni7s6ltA/inv220403_nobreaks.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:TTKwUAeefSHUnP2f0Iir.jpg

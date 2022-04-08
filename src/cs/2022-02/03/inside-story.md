@@ -7,7 +7,7 @@ date:   15/04/2022
 
 _Andrew McChesney_
 
-Následující sobotu přivítal vězeň Matías ve španělské věznici Danteho, 36letého studenta teologie z adventistické univerzity v Sagunto, s přívalem veselé konverzace. Po několika minutách však Matías náhle změnil tón a začal se nervózně vrtět. Vyprávěl o svém dětství a dospělém životě. Popisoval dlouholetý boj s hříšnými touhami.
+Následující sobotu přivítal ve španělské věznici vězeň Matías Danteho, 36letého studenta teologie z adventistické univerzity v Sagunto, s přívalem veselé konverzace. Po několika minutách však Matías náhle změnil tón a začal se nervózně vrtět. Vyprávěl o svém dětství a dospělém životě. Popisoval dlouholetý boj s hříšnými touhami.
 
 "Nemám pocit, že bych udělal něco špatného," řekl. "Až vyjdu z vězení, zopakuju, co jsem udělal." Zadíval se na Danteho a čekal na jeho reakci.
 
@@ -25,7 +25,7 @@ Dante otevřel Bibli a četl: "Vždyť nečiním dobro, které chci, nýbrž zlo
 
 Matías vzal Dantovi z rukou Bibli a tu pasáž si přečetl.
 
-Dante otočil na Římanům 8,1.2 a četl: "Nyní tedy není žádného odsouzení pro ty, kteří jsou v Kristu Ježíši a nechodí podle těla, ale podle Ducha. Vždyť zákon Ducha života v Kristu Ježíši mě osvobodil od zákona hříchu a smrti."
+Dante otočil na Římanům 8,1.2 a četl: "Nyní však není žádného odsouzení pro ty, kteří jsou v Kristu Ježíši, neboť zákon Ducha, který vede k životu v Kristu Ježíši, osvobodil tě od zákona hříchu a smrti."
 
 "Bůh tě neodsoudil," řekl Dante. "Chce ti pomoci a stále tě miluje. Můžeš žít jinak. Musíš jen nechat v sobě žít Božího Ducha. On ti chce pomáhat, stejně jako pomáhal mně."
 

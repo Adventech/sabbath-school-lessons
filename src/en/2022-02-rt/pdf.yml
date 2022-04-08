@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-Intro.pdf'
+      target: en/2022-02-rt/introduction
+      title: Introduction
+      start_date: 26/03/2022
+      end_date: 26/03/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L01.pdf'
+      target: en/2022-02-rt/01
+      title: Way to Pray, Part 1
+      start_date: 26/03/2022
+      end_date: 01/04/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L02.pdf'
+      target: en/2022-02-rt/02
+      title: Way to Pray, Part 2
+      start_date: 02/04/2022
+      end_date: 08/04/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L03.pdf'
+      target: en/2022-02-rt/03
+      title: Walking With God, Part 1
+      start_date: 09/04/2022
+      end_date: 15/04/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L04.pdf'
+      target: en/2022-02-rt/04
+      title: Walking With God, Part 2
+      start_date: 16/04/2022
+      end_date: 22/04/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L05.pdf'
+      target: en/2022-02-rt/05
+      title: Hanging On in God's Apparent Absence
+      start_date: 23/04/2022
+      end_date: 29/04/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L06.pdf'
+      target: en/2022-02-rt/06
+      title: Retreating Before You Charge
+      start_date: 30/04/2022
+      end_date: 06/05/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L07.pdf'
+      target: en/2022-02-rt/07
+      title: Listening on Prupose, Part 1
+      start_date: 07/05/2022
+      end_date: 13/05/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L08.pdf'
+      target: en/2022-02-rt/08
+      title: Listening on Prupose, Part 2
+      start_date: 14/05/2022
+      end_date: 20/05/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L09.pdf'
+      target: en/2022-02-rt/09
+      title: Gold Like Glass (Being Real, Part 1)
+      start_date: 21/05/2022
+      end_date: 27/05/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L10.pdf'
+      target: en/2022-02-rt/10
+      title: Made Without Wax (Being Real, Part 2)
+      start_date: 28/05/2022
+      end_date: 03/06/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L11.pdf'
+      target: en/2022-02-rt/11
+      title: Living in a Material World
+      start_date: 04/06/2022
+      end_date: 10/06/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L12.pdf'
+      target: en/2022-02-rt/12
+      title: God's Armor
+      start_date: 11/06/2022
+      end_date: 17/06/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q2/English/Student/R-22-Q2-L13.pdf'
+      target: en/2022-02-rt/13
+      title: Success, God's Way!
+      start_date: 18/06/2022
+      end_date: 24/06/2022
