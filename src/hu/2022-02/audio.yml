@@ -32,3 +32,5 @@
           target: hu/2022-02/02/07
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220409.mp3
           target: hu/2022-02/03/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220410.mp3
+          target: hu/2022-02/03/02
