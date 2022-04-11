@@ -49,3 +49,5 @@
           target: es/2022-02/04/01
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-4-DOMINGO.mp3
           target: es/2022-02/04/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-4-LUNES.mp3
+          target: es/2022-02/04/03
