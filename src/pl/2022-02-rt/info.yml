@@ -4,8 +4,8 @@
   human_date: "Kwiecień · Maj · Czerwiec 2022"
   start_date: "26/03/2022"
   end_date: "24/06/2022"
-  color_primary: "#7892B7"
-  color_primary_dark: "#43889d"
+  color_primary: "#3992A5"
+  color_primary_dark: "#186178"
   credits:
     - name: Tłumacz
       value: "Czarek Szczerkowski"
