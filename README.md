@@ -73,7 +73,7 @@ Below is current list of languages and capabilities implemented
 |🇳🇵 Nepali|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇳🇴 Norwegian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇮🇷 Persian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇵🇱 Polish|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
+|🇵🇱 Polish|✅ Yes|✅ Yes|❌ No|❌ No|✅ Yes|
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
