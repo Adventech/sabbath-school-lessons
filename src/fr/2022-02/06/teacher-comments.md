@@ -1,6 +1,6 @@
 ---
 title:  Commentaires Moniteurs
-date:   07/05/2022
+date:   06/05/2022
 ---
 
 **Texte clé**: Hébreux 11:8
