@@ -65,3 +65,5 @@
           target: es/2022-02/05/02
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-5-LUNES.mp3
           target: es/2022-02/05/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-5-MARTES.mp3
+          target: es/2022-02/05/04
