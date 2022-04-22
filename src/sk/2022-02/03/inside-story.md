@@ -3,38 +3,32 @@ title:  Misijný príbeh
 date:   15/04/2022
 ---
 
-#### Odpuštěno ve vězení: Část 2
+#### Odpustenie som získal vo väzení (2. časť)
 
 _Andrew McChesney_
 
-Následující sobotu přivítal ve španělské věznici vězeň Matías Danteho, 36letého studenta teologie z adventistické univerzity v Sagunto, s přívalem veselé konverzace. Po několika minutách však Matías náhle změnil tón a začal se nervózně vrtět. Vyprávěl o svém dětství a dospělém životě. Popisoval dlouholetý boj s hříšnými touhami.
+O týždeň v sobotu sa Dante, 36-ročný študent teológie na adventistickej univerzite Sagunto, opäť stretol s Matiasom, ktorý si odpykáva trest vo väzení v Španielsku. Matias ho privítal celý nadšený. Po niekoľkých minútach sa však zmenil tón jeho hlasu. Začal sa nepokojne vrtieť na stoličke. Rozprával o svojom detstve a dospelosti, o rokoch, keď sa trápil a bojoval s hriešnou žiadostivosťou.
 
-"Nemám pocit, že bych udělal něco špatného," řekl. "Až vyjdu z vězení, zopakuju, co jsem udělal." Zadíval se na Danteho a čekal na jeho reakci.
+„Nemám pocit, že by som vlastne urobil niečo zlé,“ povedal. „Keď ma prepustia z väznice, budem ďalej pokračovať v tom, čo som robil predtým.“ Uprel pohľad na Danteho a čakal, ako zareaguje.
 
-Dante pochopil, že ho zkouší. Matías chtěl zjistit, zda se v něm odráží odsuzující nebo milující Bůh. Dante se tiše modlil: "Ježíši, dej mi Svou milost. Ty jsi odpustil mně a můžeš odpustit i jemu."
+Dante pochopil, že Matias ho skúša. Chcel vedieť, čo mu povie o Bohu – či povie, že Boh človeka miluje, alebo že ho odsudzuje. Dante sa v duchu pomodlil: „Pane Ježišu, prosím, udeľ mi zo svojej milosti. Ty si mi predsa odpustil a môžeš odpustiť aj jemu.“
 
-Když Matías viděl, že jeho návštěvník tiše sedí, znovu promluvil.
+Keď Matias videl, že Dante neodpovedá, spýtal sa ho: „Čo by ste urobili, keby ste ma opäť prichytili?“
 
-"Co bys mi udělal, kdybys mě přistihl?" zeptal se.
+Dante s modlitbou na perách mu pomaly odvetil: „Ak Boh mohol omilostiť mňa a dať mi spasenie, môže ho dať aj vám.“
 
-Dante, který se stále modlil, pomalu odpověděl: "Když Bůh může dát milost a spásu mně, může dát milost a spásu i tobě."
+Matiasovou tvárou preblesklo prekvapenie. „Neodsúdite ma?“ spýtal sa.
 
-Matíasovi se překvapením zkřivila tvář. "Ty se mě nechystáš odsoudit?" zeptal se.
+Dante otvoril Bibliu a prečítal: „ Nerobím totiž to dobré, čo chcem, ale konám zlé, čo nechcem. Ak však robím to, čo nechcem, nerobím to ja, ale hriech, ktorý prebýva vo mne. “ (Rim 7,19-20) Potom pokračoval: „Často svojim činom nerozumieme. Nerobíme to, čo chceme. Nakoniec skončíme tam, kde sme nechceli byť. Je pravda, že necítite vinu za to, čo ste robili, pretože nedokážete ovládať svoje správanie.“
 
-Dante otevřel Bibli a četl: "Vždyť nečiním dobro, které chci, nýbrž zlo, které nechci. Jestliže však činím to, co nechci, nedělám to již já, ale hřích, který ve mně přebývá." (Římanům 7,19.20 CSP) "Svému jednání často nerozumíme," řekl. "Neděláme to, co chceme dělat, a nakonec děláme to, co dělat nechceme. Je možné, že nemáš špatný pocit ze svých činů, protože je nedokážeš ovládat?"
+Matias si vzal od Danteho Bibliu a ešte raz si prečítal tie verše. Potom mu Dante otočil list a ukázal verše Rim 8,1-2: „A tak teraz už nie je žiadne odsúdenie pre tých, čo sú v Kristovi Ježišovi. Veď zákon životodarného Ducha v Kristovi Ježišovi ťa oslobodil od zákona hriechu a smrti.“
 
-Matías vzal Dantovi z rukou Bibli a tu pasáž si přečetl.
+„Boh vás neodsudzuje,“ povedal Dante. „Chce vám pomôcť a stále vás miluje. Môžete žiť inak. Musíte však dovoliť Duchu Svätému, aby vo vás prebýval. Chce vám pomôcť rovnako, ako pomohol mne.“
 
-Dante otočil na Římanům 8,1.2 a četl: "Nyní však není žádného odsouzení pro ty, kteří jsou v Kristu Ježíši, neboť zákon Ducha, který vede k životu v Kristu Ježíši, osvobodil tě od zákona hříchu a smrti."
+Na Matiasovej tvári sa objavil hlboký smútok. Pohŕdanie a neúcta boli zrazu preč. Dante až teraz prvýkrát pochopil, že Matias prežíval veľmi silný pocit viny za svoju minulosť. Od toho dňa sa všetko zmenilo. Matias sa prestal vysmievať Bohu i Biblii.
 
-"Bůh tě neodsoudil," řekl Dante. "Chce ti pomoci a stále tě miluje. Můžeš žít jinak. Musíš jen nechat v sobě žít Božího Ducha. On ti chce pomáhat, stejně jako pomáhal mně."
+„Potom som začal s Matiasom študovať Bibliu,“ povedal Dante na záver. „Matias sa rozhodol, že chce zmeniť svoj život. Už netúžil kráčať po starých chodníčkoch, ale chcel byť na Božej strane.“
 
-Matíasovu tvář naplnil hluboký smutek. Pohrdání a opovržení bylo pryč. Dante pochopil, že Matías poprvé prožívá hluboký pocit viny.
+_Matias (jeho pravé meno bolo zmenené) je jedným z vyše tucta väzňov, ktorí každé sobotné popoludnie študujú Bibliu s Dantem a ďalšími deviatimi študentmi teológie na adventistickej univerzite Sagunto. Vaše misijné dary podporujú adventistické školy na celom svete v príprave študentov hovoriť o Kristovi a jeho sľube milosti a spasenia ďalším ľuďom v tomto svete plnom hriechu._
 
-Od toho dne se všechno změnilo. Matías se přestal vysmívat Bohu a Bibli.
-
-"Od té chvíle jsem s ním začal studovat Bibli," řekl Dante v jednom rozhovoru. "Od té chvíle chtěl změnit svůj život. Už nechtěl pokračovat ve svých starých způsobech, ale chtěl být na Boží straně."
-
-_Matías (není to jeho pravé jméno) patří mezi více než tucet vězňů, kteří se každé sobotní odpoledne účastní biblického studia pod vedením Danteho a dalších devíti studentů z Adventistické univerzity Sagunto. Vaše dary na misii při sobotní škole pomáhají adventistickým vzdělávacím institucím po celém světě vychovávat studenty, jako je Dante, aby sdíleli Ježíšovo vzácné zaslíbení milosti a spasení ve světě nemocném hříchem._
-
-_"Pokud Bůh může změnit mé srdce, může změnit srdce kohokoli," řekl Dante._
+_„Ak Boh dokáže zmeniť moje srdce, tak dokáže zmeniť srdce každého človeka,“ povedal Dante._
