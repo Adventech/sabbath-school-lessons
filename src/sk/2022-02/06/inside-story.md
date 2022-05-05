@@ -3,24 +3,22 @@ title:  Misijný príbeh
 date:   06/05/2022
 ---
 
-#### Vysněné manželství
+#### Vysnívané manželstvo
 
-_Julia Bondarenko_
+_Yulia Bondarenko_
 
-Den, kdy Rút udělala první krok k tomu, aby se stala misionářkou, byl den, ve kterém odevzdala svůj život Ježíši a nechala se pokřtít. V té době chodila ve Spojených státech do sedmé třídy.
+Ruth odovzdala svoj život Ježišovi a nechala sa pokrstiť, keď bola v siedmom ročníku na škole v Spojených štátoch amerických. Bol to jej prvý krok na ceste k tomu, aby sa stala misionárkou.
 
-V osmé třídě byla požádána, aby uklízela ve svém sboru Církve adventistů sedmého dne. O úklidu ve sborech nic nevěděla, a tak místo toho sedla ke klavíru. Když hrála a zpívala o svém Spasiteli, představovala si lidi z různých zemí, jak sedí v lavicích, a v její mysli se zformovala zbožná touha vzít si muže, který by hrál a zpíval s ní. Ale kdo by to mohl být?
+Keď bola ôsmačka, požiadali ju, aby upratovala zbor Cirkvi adventistov siedmeho dňa, do ktorého chodievala. O upratovaní toho veľa nevedela, tak namiesto toho si sadla za klavír, hrala a spievala svoju Spasiteľovi. Predstavovala si pritom, ako ľudia z rôznych krajín sedia v laviciach. V jej mysli sa zrodila túžba vydať sa za niekoho, kto by s ňou hral a spieval. Ale kto by to mohol byť?
 
-Když bylo Rút patnáct let, sledovala svou čerstvě provdanou sestru, která přijela domů z líbánek, jak vklouzla do svatebních šatů, zakryla si rukama oči a vzlykala. Rút se rozhodla, že se jí podobná situace nestane, a začala si sestavovat seznam žádoucích vlastností svého budoucího manžela. Její matka, která se o seznamu dozvěděla, moudře řekla: "Rút, ty se také musíš stát takovou ženou, jakou by ten muž mohl chtít." Rút se začala s modlitbou snažit získat ty vlastnosti, které očekávala také od svého muže. Ale kdo by to mohl být?
+Keď sa jej sestra vydávala, Ruth mala 15 rokov. Po návrate zo svadobnej cesty ich šla navštíviť. Keď sestra odkladala svadobné šaty, rozplakala sa. Ruth sa pevne rozhodla, že do takejto situácie sa nechce dostať. Začala si teda písať zoznam povahových vlastností, ktoré by mal jej budúci manžel mať. Keď sa mama dozvedela o tomto zozname, pripomenula jej: „Ruth, ale aj ty sa musíš stať ženou, ktorú bude ten muž chcieť.“ Ruth sa teda začala modliť, aby aj ona sama mala vlastnosti, ktoré očakávala od svojho muža. Ale kto by to mohol byť?
 
-Těsně před nástupem na Andrewsovu univerzitu byla Rút krátce zasnoubená, ale zásnuby zrušila. O několik měsíců později ukončila další vztah, když zjistila, že tento muž ve stejné době chodil i s jinou.
+Tesne predtým, než začala študovať na Andrews University, Ruth krátko s niekým chodila, ale potom sa rozišli. O niekoľko mesiacov neskôr začala chodiť s iným mužom, no vzťah ukončila hneď ako zistila, že v tom istom čase sa stretáva aj s iným dievčaťom.
 
-Tu zimu byla Rút na ženské koleji a čekala, až půjde zpívat koledy, když kamarádka vykřikla: "Tamhle je Emil Moldrik! Pojďme k němu do auta!" "Kdo?" Rút se zeptala. "Ty to nevíš?" odpověděla jí kamarádka. "Zpívá, hraje na varhany a chce se stát pastorem." Rút si pomyslela: To je on!
+Potom prišla zima. Ruth sedela v hale a čakala na ostatných, že spolu pôjdu koledovať. Zrazu ktosi z kamarátov zakričal: „Prišiel Emil Moldrik! Poďme rýchlo k nemu do auta!“ „Kto?“ opýtala sa Ruth. „Nepoznáš ho?“ odvetil kamarát a pokračoval: „Vie spievať, hrá na organe a chce sa stať kazateľom.“ Ruth prebleskla hlavou myšlienka: To musí byť on!
 
-Několik následujících hodin zpívala Rút soprán a Emil tenor. V srdci cítila novou radost a nemohla se přestat dívat do jeho očí. Věřila, že oči jsou oknem do srdce, a jeho oči byly tak laskavé a čisté. Emil při zpěvu opětoval Rútin pohled a příštího večera ji pozval na rande.
+Niekoľko nasledujúcich hodín Ruth spievala soprán a Emil tenor. V srdci pocítila radosť. Nedokázala sa prestať pozerať do jeho očí. Verila, že oči sú oknom do srdca a jeho pohľad bol taký láskavý a čistý. Emil jej očný kontakt opätoval a na druhý deň ju pozval na prvé rande.
 
-Dnes jsou Emil a Rút Moldrikovi manželé téměř 60 let a slouží Bohu ve více než 15 zemích, kde jako misionáři zpívají a hrají na hudební nástroje. Emil hraje na 12 nástrojů včetně pily a autoharfy (akordová citera). Jen na Ukrajinu manželé zavítali desetkrát a vedli zde kurzy manželství, angličtiny a biblická setkání.
+Dnes sú Emil a Ruth Moldrikovi manželmi už takmer 60 rokov. Slúžili Bohu vo vyše 15 krajinách. Na svojich cestách spievali a hrali na hudobné nástroje ako misionári. Emil vie hrať na 12 hudobných nástrojoch vrátane autoharfy a tzv. hracej píly. Spolu asi desaťkrát navštívili Ukrajinu, kde mávali lekcie anglického jazyka, skupinky biblického štúdia a semináre o manželstve.
 
-Když Rút vzpomíná na den, kdy zpívala a hrála v prázdném sboru, chválí Boha za splnění svého snu. "Opravdu jsem zpívala a hrála po celém světě, takže Bůh vyslyšel mé modlitby," říká.
-
-_Tento misijní příběh ilustruje duchovní misijní cíl č. 7 strategického plánu Církve adventistů sedmého dne "I Will Go" (Půjdu): "Pomáhat mládeži a mladým dospělým klást Boha na první místo a být příkladem v biblickém pohledu na svět."_
+Keď si Ruth spomenie na deň, keď hrala a spievala v prázdnom zbore, jej srdce naplní vďačnosť Bohu za to, že splnil jej sen. „Boh mi umožnil spievať a hrať po celom svete ako odpoveď na moje modlitby,“ dodala nakoniec.
