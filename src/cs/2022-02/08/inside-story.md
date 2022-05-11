@@ -3,22 +3,26 @@ title:  Misijní příběh
 date:   20/05/2022
 ---
 
-#### Dve stretnutia pripravené Bohom
+#### Dvě setkání od Boha
 
 _Theda Pienaar_
 
-Mám zvyk, že vždy, keď niekam potrebujem cestovať, spýtam sa najprv Boha, či to bude v súlade s jeho vôľou. Bývam v Írsku, ale moja rodina žije v južnej Afrike a sestra v Namíbii. Navštevujem ich asi raz za rok. Počas letu si v lietadle čítam Bibliu, knihy od Ellen Whiteovej alebo študujem lekcie sobotnej školy. V kufri mám vždy pribalenú aj knihu Cesta ku Kristovi. Vďaka knihám mi cesta nepripadá taká zdĺhavá. Spoznala som tiež nemálo zaujímavých ľudí. Vždy keď cestujem, prihodí sa mi niečo zaujímavé.
+Než vycestuji, mám ve zvyku se Boha ptát, zda je cesta podle jeho vůle. Žiji v Irsku, zatímco moje rodina žije v Jihoafrické republice a sestra v Namibii. Navštěvuji je přibližně jednou ročně. V letadle si čtu Bibli, knihy Ellen Whiteové a Příručku pro studium Bible v sobotní škole. Do tašky si také vždy dám Cestu ke Kristu. Knihy zkracují cestu a vedou k zajímavým kontaktům. Pokaždé, když cestuji, stane se něco zajímavého.
 
-Raz som sa pustila do reči s mužom, ktorý sedel vedľa mňa na letisku v írskom hlavnom meste Dublin. Spolu sme čakali na let. Začal mi rozprávať, že pracuje ako zvláštny detektív pre írsku políciu. Bol práve na ceste domov do Kapského mesta v južnej Afrike, aby navštívil svoju rodinu. Chodieval za nimi každé dva-tri mesiace. Keď sme nastúpili do lietadla, sadla si vedľa mňa mladá žena a hneď mi začala rozprávať. „Meškal mi autobus na letisko a len tak-tak som stihla nastúpiť do lietadla,“ povedala. „Som taká vystresovaná!“
+Když jsem jednou na letišti v irském Dublinu čekala na let, dala jsem se do řeči s mužem, který seděl vedle mě. Ukázalo se, že pracuje jako speciální detektiv irské policie a každé dva až tři měsíce cestuje domů za rodinou do Kapského Města v Jihoafrické republice. Zatímco jsme čekali, až budem moci nastoupit do letadla, povídali jsme si o životě. V letadle si vedle mě sedla mladá žena a hned se dala do řeči. "Přijela jsem pozdě na letiště a tak tak jsem stihla letadlo," řekla. "Jsem tak vystresovaná!"
 
-„Boh vedel, že potrebujete stihnúť toto lietadlo,“ odvetila som jej. Potom som jej začala rozprávať o tom, ako sa Boh stará o všetko v našom živote, ak mu to dovolíme.
+"Bůh věděl, že potřebujete stihnout toto letadlo," řekla jsem.
 
-Tesne predtým, ako sme vzlietli, letuška prišla povedať tejto mladej žene, aby si presadla, pretože si pomýlila sedadlo. Odišla teda. A hádajte, kto si vedľa mňa sadol – policajt, s ktorým som sa rozprávala na letisku. „Nie je to zvláštne?“ povedala som mu. „Verím, že všetko, čo Boh robí, robí z nejakého dôvodu.“
+Mluvila jsem o tom, jak Bůh jedná v našich životech, když mu to dovolíme.
 
-„Veríte v Boha?“ opýtal sa ma muž. Potom sa začal pýtať na moje náboženské korene. Povedala som mu, že som adventistka siedmeho dňa. „To je zvláštne,“ dodal. „Moja manželka sa ma snaží prekonvertovať už veľa rokov. Tiež je adventistka.“
+Těsně před startem letuška mladé ženě řekla, že si sedla na špatné místo. A komu jinému by mělo patřit, než tomu policistovi. "Není to zajímavé?" Řekla jsem mu, když si sedl vedle mě. "Věřím, že Bůh dělá věci z nějakého důvodu."
 
-„Som veľmi rada, že som vás stretla,“ odpovedala som. A naozaj som bola šťastná.
+"Vy věříte v Boha?" zeptal se muž.
 
-Rozprávali sme sa o spasení a dala som mu výtlačok knihy Cesta ku Kristovi. „Moja žena sa ma tiež snažila nahovoriť, aby som si to prečítal,“ povedal. „Ale teraz si ju už určite prečítam.“
+Zeptal se na mé náboženské vyznání a já jsem řekla, že jsem Adventistka sedmého dne. "Není to zvláštní?" řekl. "Moje žena se mě už mnoho let snaží obrátit na víru. Je také Adventistkou sedmého dne."
 
-Moje dve stretnutia v ten deň mali pre mňa veľký význam. S policajtom sme sa zoznámili skôr, než sme nastúpili do lietadla. Mohla som povedať o Bohu aj žene, ktorá sa posadila na nesprávne sedadlo. Írsko je veľmi sekulárna krajina a nie je tu jednoduché hovoriť ľuďom o kresťanstve. Ale Boh mi pripravil hneď dve príležitosti, a to skôr, než vôbec lietadlo vzlietlo.
+"Jsem nadšená, že vás poznávám," řekla jsem. A taky jsem byla.
+
+Mluvili jsme o spasení a já mu dala výtisk knihy Cesta ke Kristu. "Moje žena se mě snaží přimět, abych si ji přečetl," řekl. "Teď si ji už určitě přečtu."
+
+Moje dvě setkání byla tak pozoruhodná. S policejním detektivem se ledy prolomily ještě předtím, než jsme nastoupili do letadla. Také jsem se dokázala zmínit o Bohu ženě, která seděla na špatném sedadle. Irsko je velmi sekulární země a není snadné mluvit s lidmi o křesťanství. Bůh mi však poskytl dvě příležitosti ještě předtím, než se letadlo odlepilo od země.
