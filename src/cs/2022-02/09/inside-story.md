@@ -3,38 +3,38 @@ title:  Misijní příběh
 date:   27/05/2022
 ---
 
-#### Moje najcennejšie bohatstvo
+#### Můj nejcennější majetek
 
 _Theda Pienaar_
 
-Ako mám vo zvyku, počas letu z Namíbie do južnej Afriky som si otvorila Bibliu. Mladý muž, ktorý sedel vedľa mňa, ma hneď oslovil.
+Jak je mým zvykem, otevřela jsem si při letu z Namibie do Jihoafrické republiky svou Bibli. Vzápětí se ozval mladý muž, který seděl vedle mě.
 
-„Je to Biblia?“ opýtal sa. Očividne pochádzal z východnej Európy.
+"To je Bible?" zeptal se. Zřejmě pocházel z východní Evropy.
 
-„Áno, Biblia,“ odvetila som.
+"Ano, je to Bible," řekla jsem.
 
-„Vy veríte v Bibliu?“ pokračoval.
+"Věříte v Bibli?" zeptal se.
 
-„Áno, verím jej celým srdcom.“
+"Ano, z celého srdce."
 
-Potom mi rozprával, že jeho starí rodičia mu zvykli čítavať z Biblie, ale on tým príbehom neveril. Najmä správe o stvorení. Ja som mu zasa porozprávala, ako Boh zmenil môj život. Pätnásť rokov som žila bez neho, ale nakoniec ma doviedol k sebe do bezpečia. Môj príbeh mladého muža zaujal.
+Řekl, že mu prarodiče kdysi četli Bibli, ale že on těm příběhům, zejména o stvoření světa, nevěřil. Podělila jsem se s ním o svou životní zkušenost, jako osoba, která se vrátila k Bohu po patnáci letech bez něj. Můj příběh ho zaujal.
 
-„Mohol by som si pozrieť vašu Bibliu, prosím?“ spýtal sa ma.
+"Můžu se prosím podívat na vaši Bibli?" zeptal se.
 
-S nadšením som sa pozerala na svoju Bibliu v cudzích rukách. Zdalo sa, že to na neho urobilo veľký dojem. Keď mi ju vrátil, našla som 43. kapitolu proroka Izaiáša a nahlas som z nej prečítala niekoľko veršov. Muž so záujmom počúval Božie zasľúbenia o tom, že nás bude chrániť.
+Bylo vzrušující vidět v jeho rukou mou Bibli. Zdálo se, že na něj udělala velký dojem. Poté, co mi ji vrátil, jsem nahlas četla z Izajáše 43. Se zájmem poslouchal o zaslíbení Boží záštity.
 
-Skôr než sme pristáli, spýtala som sa ho: „Prijmete odo mňa dar?“ V taške som mala výtlačok knihy Cesta ku Kristovi. Nechcel ju odo mňa prijať, ale ja som ho uistila, že mám viac takých kníh. „Ak by ste mali akékoľvek otázky, prosím, napíšte mi,“ povedala som na záver a napísala svoje telefónne číslo do knihy.
+Než letadlo přistálo, zeptala jsem se: "Přijal byste dar?" V tašce jsem měla výtisk knihy Cesta ke Kristu. Nechtěl si knihu vzít, ale ujistila jsem ho, že mám ještě další výtisk. "Kdybyste měl nějaké otázky, napište mi, prosím," řekla jsem a napsala své telefonní číslo dovnitř obálky knihy.
 
-Na moje prekvapenie v deň, keď som dorazila domov do Írska, mi od tohto muža prišla správa: „Docestoval som domov bezpečne.“ Začala som sa za neho modliť. Nemyslím si, že to bola náhoda. Ďalej mi ešte napísal, že v Namíbii stretol ženu, ktorá sa modlila každý deň. „Keď som to videl, začal som znovu rozmýšľať o mojich starých rodičov, ktorí mi čítali z Biblie. A potom som stretol vás,“ povedal.
+K mému překvapení mi během dne po příjezdu domů do Irska napsal: "Jsem v pořádku doma." Modlila jsem se: "Nemyslím si, že je to náhoda". Napsal, že se v Namibii setkal s ženou, která se denně modlila. "Když jsem to viděl, začal jsem přemýšlet o svých prarodičích, kteří četli Bibli, a pak jsem potkal vás," napsal.
 
-„Neverím na náhody,“ odpísala som mu. „Dovoľte Bohu, aby prehováral do vášho srdca.“
+"Nevěřím na náhody," napsala jsem. "Nechte Boha, aby promluvil k vašemu srdci."
 
-Odvtedy si často píšeme. Posielam mu rôzne biblické verše. Jedného dňa mi poslal obrázok nejakého kostola. „Bývam neďaleko tohto kostola,“ povedal.
+Každou chvíli jsme si psali a já jsem posílala biblické verše. Jednoho dne mi poslal obrázek kostela. "Bydlím vedle tohoto kostela," napsal.
 
-Odpísala som mu, že by som mu rada poslala nejakú knihu, ktorá hovorí o histórii kresťanstva. Poslal mi teda svoju adresu a ja som mu zabalila a poslala knihu Veľký spor vekov.
+Odpověděla jsem mu, že mu chci poslat dějiny křesťanské církve, a když jsem dostal jeho adresu, poslal jsem mu Velký spor.
 
-Po nejakom čase mi ktosi ukázal video o pláne spasenia a ja som ho hneď poslala tomuto mužovi. Odpísal mi, že sa mu to veľmi páči a je to úžasné.
+O něco později mi někdo poslal video o plánu spasení a já mu ho přeposlala. Odpověděl: "To je úžasné."
 
-Modlila som sa: „Pane, potrebujem zistiť, čo by mohlo zafungovať v jeho živote.“ Vtedy mi Boh vložil do mysle veľmi silnú myšlienku: Držal tvoju Bibliu. Daruj mu svoju Bibliu.
+Modlila jsem se: "Pane, potřebuji vědět, co by mohlo v jeho životě zafungovat." Na mysl mi přišla silná myšlenka: V ruce držel tvou Bibli. Dej mu svou Bibli.
 
-Rozhodla som sa teda poslať mu svoju Bibliu. Napísala som mu list so slovami: „Toto je moje najväčšie bohatstvo. Boh dal svojho jednorodeného Syna, to najcennejšie, čo mal, aby nás mohol spasiť. Verím, že si prečítate to najcennejšie, čo mám.“
+Rozhodl jsem se, že mu svou Bibli pošlu poštou. Napsala jsem k tomu dopis: "Je to můj nejcennější majetek. Bůh dal svého jediného Syna, to nejcennější, co měl, pro naši záchranu. Doufám, že si tento můj nejcennější majetek přečtete."
