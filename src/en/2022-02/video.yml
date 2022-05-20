@@ -16,6 +16,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_b7haXiD84Fg_37d58c9ef0.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-7-the-covenant-with-abraham/-/40040502/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_uITqF0OYSt7_13dacf2ad2.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-8-the-promise/-/40040536/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_AC0WVPA9DAG_5504dbcaf3.jpg
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-01.mp4
@@ -32,6 +34,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-06.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-07.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-02-08.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -43,6 +47,7 @@
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6260867f3d53fe000188a4d4/6260867f3d53fe000188a4d5/550b0b2669702d0707940200/de92612e-dc62-4831-9884-d9d87c157b17.mp4?WmxY6EBQyVRlqYYzokWXkeWx1D9HJMOvWi53QEYQAMfVlyMWoerYuvY4W1P9YRW_4rpo_K8slgUX72tlO-e4SKqP3DDM_PZMxuvC7GTNZC6iGzURTnL0Yc7wVJnyGtGIIYF0vmJioIHe9753TCenLA&F38b1dF4=62714fadea6199000151b129
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6269c98e25ddd900010b319d/6269c98e25ddd900010b319e/550b0b2669702d0707940200/337a15bb-8731-432e-b46e-a60498cbaa64.mp4?BAIf7Tn9oEU_vm1D0joG0KOmD7f70q_WcbQwv61ClWyJbHIrMYWtFSZjzMslH1pszAwQPCVBYvKu-Okolf4vqVflGg23sE16TgM0z8TeWbNMhDeWrXkSMqqa6duoHMb53jneXoDjTHIBawt63W8b7A&F38b1dF4=62714fc909551a00010a44c5
         - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/6272e81cb738ac000165e537/6272e81cb738ac000165e538/550b0b2669702d0707940200/92552c4c-c4f5-4b34-9f74-b3bc1bbf2e74.mp4?Ti9bWsPjAqBjwYn1kw_tC65INOwFdqMz2q9584REL7gUb0odbTkSbMbF033ZeqZWO_xQw3h8MroiAdDgdcSnZ5nUgGpV7MFa6B4nK4D6PYvjbE7UvuNDGiBVDq-oYktpatJ94Lvg6YlA5cENAQRtWA&F38b1dF4=6272f762ad4f7a0001cca1c3
+        - src: https://gvpd.zype.com/5e83774c2f149b0001306ffa/627be1fb9b9a4500017468bb/627be1fb9b9a4500017468bc/550b0b2669702d0707940200/3f28c584-c7fe-4cbb-ade8-bf6cfd3927b4.mp4?1VLtnoOQabqerT-Nch_PV4fbODIuhNIvmEI92H-Az7mU7jwd1mAZJbONUCacbJcdl57yztn05i79EW7VTWwarbrMdVBpKtQ7cz0fi21nNzqB847ab_86eZFWFgzcht7YmfcX8KBazQwjR3EoJ6tuoA&F38b1dF4=627bf9a1e8d2e00001e9bde1
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-01.mp4
@@ -59,3 +64,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-06.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-07.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-07.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-08.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-02-08.webp
