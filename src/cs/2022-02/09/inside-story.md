@@ -37,4 +37,4 @@ O něco později mi někdo poslal video o plánu spasení a já mu ho přeposlal
 
 Modlila jsem se: "Pane, potřebuji vědět, co by mohlo v jeho životě zafungovat." Na mysl mi přišla silná myšlenka: V ruce držel tvou Bibli. Dej mu svou Bibli.
 
-Rozhodl jsem se, že mu svou Bibli pošlu poštou. Napsala jsem k tomu dopis: "Je to můj nejcennější majetek. Bůh dal svého jediného Syna, to nejcennější, co měl, pro naši záchranu. Doufám, že si tento můj nejcennější majetek přečtete."
+Rozhodla jsem se, že mu svou Bibli pošlu poštou. Napsala jsem k tomu dopis: "Je to můj nejcennější majetek. Bůh dal svého jediného Syna, to nejcennější, co měl, pro naši záchranu. Doufám, že si tento můj nejcennější majetek přečtete."
