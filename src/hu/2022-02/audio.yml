@@ -148,3 +148,5 @@
           target: hu/2022-02/11/02
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220606.mp3
           target: hu/2022-02/11/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220607.mp3
+          target: hu/2022-02/11/04
