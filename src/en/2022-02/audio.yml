@@ -346,6 +346,18 @@
           target: en/2022-02/11/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-09.mp3
           target: en/2022-02/11/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-11.mp3
+          target: en/2022-02/12/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-12.mp3
+          target: en/2022-02/12/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-13.mp3
+          target: en/2022-02/12/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-14.mp3
+          target: en/2022-02/12/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-15.mp3
+          target: en/2022-02/12/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-16.mp3
+          target: en/2022-02/12/06
     - artist: The Sound of Scripture
       tracks:
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Genesis_1_1_NKJV.mp3
