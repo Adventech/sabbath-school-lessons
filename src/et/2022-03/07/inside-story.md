@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 12/08/2022  
+title: Misjonilugu
+date: 12/08/2022
 ---
 
 #### Isa alistub

@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 15/07/2022  
+title: Misjonilugu
+date: 15/07/2022
 ---
 
 #### Isa poolt hüljatud

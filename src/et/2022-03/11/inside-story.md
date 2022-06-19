@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 09/09/2022  
+title: Misjonilugu
+date: 09/09/2022
 ---
 
 #### Viimane rünnak

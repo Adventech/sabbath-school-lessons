@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 26/08/2022  
+title: Misjonilugu
+date: 26/08/2022
 ---
 
 #### Kasvamine Kristuses

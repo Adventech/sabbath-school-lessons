@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 05/08/2022  
+title: Misjonilugu
+date: 05/08/2022
 ---
 
 #### Templi maa-alal tagasi

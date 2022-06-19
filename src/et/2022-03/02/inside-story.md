@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 08/07/2022  
+title: Misjonilugu
+date: 08/07/2022
 ---
 
 #### Koolikiusamine

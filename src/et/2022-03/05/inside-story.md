@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 29/07/2022  
+title: Misjonilugu
+date: 29/07/2022
 ---
 
 #### Ootamatus ristimisel

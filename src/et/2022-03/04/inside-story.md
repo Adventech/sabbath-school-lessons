@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 22/07/2022  
+title: Misjonilugu
+date: 22/07/2022
 ---
 
 #### Vaimude vandenõu

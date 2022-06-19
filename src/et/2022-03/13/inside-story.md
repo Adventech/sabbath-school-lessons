@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 23/09/2022  
+title: Misjonilugu
+date: 23/09/2022
 ---
 
 ### Valmistu kohtuma Jeesusega

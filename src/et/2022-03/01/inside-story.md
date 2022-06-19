@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 01/07/2022  
+title: Misjonilugu
+date: 01/07/2022
 ---
 
 #### 11 valduses

@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 19/08/2022  
+title: Misjonilugu
+date: 19/08/2022
 ---
 
 #### Laulatatud Kristusega

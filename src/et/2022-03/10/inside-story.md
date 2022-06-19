@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 02/09/2022  
+title: Misjonilugu
+date: 02/09/2022
 ---
 
 #### Nime jõud
