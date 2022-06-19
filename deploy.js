@@ -100,16 +100,6 @@ const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
 
 const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
 
-const DAYS_MAP = new Map([
-  ['01', 'Saturday'],
-  ['02', 'Sunday'],
-  ['03', 'Monday'],
-  ['04', 'Tuesday'],
-  ['05', 'Wednesday'],
-  ['06', 'Thursday'],
-  ['07', 'Friday'],
-])
-
 let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
     .alias({"b": "branch"})
