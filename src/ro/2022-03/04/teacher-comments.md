@@ -5,146 +5,35 @@ date:   22/07/2022
 
 ### I. Privire generală
 
-Studiul din această săptămână se concentrează pe cuptorul încercării
-care duce la purificare. Aceasta necesită un standard. În cazul nostru,
-standardul este chipul lui Dumnezeu în noi și chipul lui Isus Hristos,
-care este oglindirea perfectă a chipului lui Dumnezeu (Evrei 1:3). De asemenea,
-purificarea necesită și un agent de curățare, pe care Biblia îl prezintă
-drept focul (1 Petru 1:7; Apocalipsa 3:18). Rezultatul procesului de
-curățare este caracterul nostru, reprezentat de uleiul din candelele celor
-zece fecioare din parabola lui Isus (Matei 25:1-13). Cartea Daniel îi descrie
-ca „înțelepți” în lucrurile lui Dumnezeu pe cei cu caracterul curățat
-(Daniel 1:19,20; 2:47,48; 3:26-30).
+Studiul din această săptămână se concentrează pe cuptorul încercării care duce la purificare. Aceasta necesită un standard. În cazul nostru, standardul este chipul lui Dumnezeu în noi și chipul lui Isus Hristos, care este oglindirea perfectă a chipului lui Dumnezeu (Evrei 1:3). De asemenea, purificarea necesită și un agent de curățare, pe care Biblia îl prezintă drept focul (1 Petru 1:7; Apocalipsa 3:18). Rezultatul procesului de curățare este caracterul nostru, reprezentat de uleiul din candelele celor zece fecioare din parabola lui Isus (Matei 25:1-13). Cartea Daniel îi descrie ca „înțelepți” în lucrurile lui Dumnezeu pe cei cu caracterul curățat (Daniel 1:19,20; 2:47,48; 3:26-30).
 
-**1** În primul rând, vom vedea rolul esențial al suferinței în procesul formării
-și înnobilării caracterului.
+**1** În primul rând, vom vedea rolul esențial al suferinței în procesul formării și înnobilării caracterului.
 
-**2** În al doilea rând, vom vedea că formarea caracterului înseamnă refacerea
-chipului lui Dumnezeu în oameni, așa cum au fost creați de Dumnezeu la
-început, precum și modelarea caracterului după chipul lui Hristos.
+**2** În al doilea rând, vom vedea că formarea caracterului înseamnă refacerea chipului lui Dumnezeu în oameni, așa cum au fost creați de Dumnezeu la început, precum și modelarea caracterului după chipul lui Hristos.
 
-**3** În al treilea rând, formarea caracterului atinge tema conflictului cosmic.
-În acest conflict dintre bine și rău, dintre Dumnezeu și Satana avem parte
-noi de creuzetul maturizării.
+**3** În al treilea rând, formarea caracterului atinge tema conflictului cosmic. În acest conflict dintre bine și rău, dintre Dumnezeu și Satana avem parte noi de creuzetul maturizării.
 
-**4** În al patrulea rând, purificarea și maturizarea nu sunt niciodată obținute
-de indivizii care rămân izolați, ci de oamenii care aparțin unei comunități.
+**4** În al patrulea rând, purificarea și maturizarea nu sunt niciodată obținute de indivizii care rămân izolați, ci de oamenii care aparțin unei comunități.
 
 ### II. Comentariu
 **Ellen G. White, despre încercările ce aduc suferință**
 
-Subiectul relației dintre încercări și curățire este foarte important.
-Comentariile lui Ellen G. White pe acest subiect sunt revelatoare și relevante.
-Într-una din cărțile ei de mare importanță, ea citează din scrisoarea
-lui Ian Hus adresată unui prieten, în care Hus corelează suferința
-lui Isus cu suferințele noastre. În aceeași scrisoare, Hus leagă suferința
-de purificare: „Isus Hristos a suferit pentru cei dragi ai Lui, prin urmare
-ar trebui oare să ne mire faptul că ne-a lăsat exemplul Său, ca să suferim
-şi noi cu răbdare toate lucrurile pentru mântuirea noastră? El este
-Dumnezeu, iar noi suntem făpturile Sale; El este Domnul, iar noi suntem
-slujitorii Săi; El este Stăpânul lumii, iar noi suntem muritori vrednici de
-dispreţ. Şi, cu toate acestea, El a suferit! De ce atunci să nu suferim şi noi, îndeosebi atunci când suferinţa este pentru curăţirea noastră? De
-aceea, dragii mei, dacă moartea mea poate contribui la slava Sa, rugaţivă
-ca ea să vină cât mai repede, ca Dumnezeu să mă facă în stare să
-suport toate nenorocirile cu statornicie” (Ellen G. White, Tragedia veacurilor,
-p. 105).
+Subiectul relației dintre încercări și curățire este foarte important. Comentariile lui Ellen G. White pe acest subiect sunt revelatoare și relevante. Într-una din cărțile ei de mare importanță, ea citează din scrisoarea lui Ian Hus adresată unui prieten, în care Hus corelează suferința lui Isus cu suferințele noastre. În aceeași scrisoare, Hus leagă suferința de purificare: „Isus Hristos a suferit pentru cei dragi ai Lui, prin urmare ar trebui oare să ne mire faptul că ne-a lăsat exemplul Său, ca să suferim şi noi cu răbdare toate lucrurile pentru mântuirea noastră? El este Dumnezeu, iar noi suntem făpturile Sale; El este Domnul, iar noi suntem slujitorii Săi; El este Stăpânul lumii, iar noi suntem muritori vrednici de dispreţ. Şi, cu toate acestea, El a suferit! De ce atunci să nu suferim şi noi, îndeosebi atunci când suferinţa este pentru curăţirea noastră? De aceea, dragii mei, dacă moartea mea poate contribui la slava Sa, rugaţivă ca ea să vină cât mai repede, ca Dumnezeu să mă facă în stare să suport toate nenorocirile cu statornicie” (Ellen G. White, Tragedia veacurilor, p. 105).
 
-Într-un alt loc, Ellen G. White scrie ea însăși ceva asemănător:
-„Nu vă plângeți amarnic de încercarea care se abate asupra voastră, ci
-îndreptați-vă ochii spre Hristos, care Și-a acoperit divinitatea cu haina
-umanității ca să înțelegem cât de mare este interesul Lui față de noi,
-din moment ce S-a identificat cu omenirea suferindă! El a gustat cupa
-durerii umane, a suferit toate chinurile noastre, a fost făcut desăvârșit
-prin suferință, ispitit în toate privințele la fel cum sunt ispitiți oamenii,
-ca să-i poată ajuta pe cei ispitiți. El spune: «Voi face pe oameni mai rari
-decât aurul curat și mai scumpi decât aurul din Ofir» (Isaia 13:12). Îi va
-face pe oameni valoroși prin faptul că locuiește cu ei, dându-le Duhul
-Sfânt. El spune: «Deci, dacă voi, care sunteți răi, știți să dați daruri
-bune copiilor voștri, cu cât mai mult Tatăl vostru, care este în ceruri,
-va da lucruri bune celor ce I le cer!» (Matei 7:12)” (Ellen G. White, în
-The Signs of the Times, 5 martie 1896).
+Într-un alt loc, Ellen G. White scrie ea însăși ceva asemănător: „Nu vă plângeți amarnic de încercarea care se abate asupra voastră, ci îndreptați-vă ochii spre Hristos, care Și-a acoperit divinitatea cu haina umanității ca să înțelegem cât de mare este interesul Lui față de noi, din moment ce S-a identificat cu omenirea suferindă! El a gustat cupa durerii umane, a suferit toate chinurile noastre, a fost făcut desăvârșit prin suferință, ispitit în toate privințele la fel cum sunt ispitiți oamenii, ca să-i poată ajuta pe cei ispitiți. El spune: «Voi face pe oameni mai rari decât aurul curat și mai scumpi decât aurul din Ofir» (Isaia 13:12). Îi va face pe oameni valoroși prin faptul că locuiește cu ei, dându-le Duhul Sfânt. El spune: «Deci, dacă voi, care sunteți răi, știți să dați daruri bune copiilor voștri, cu cât mai mult Tatăl vostru, care este în ceruri, va da lucruri bune celor ce I le cer!» (Matei 7:12)” (Ellen G. White, în The Signs of the Times, 5 martie 1896).
 
-Unui membru din biserică stăpânit de poftă, ea îi scrie: „Acum, el
-ar trebui să prețuiască atât de mult răsplata veșnică, comoara cerului,
-moștenirea nepieritoare, cununa slavei care nu se ofilește, încât să poată
-sacrifica bucuros satisfacerea poftei pervertite, oricât de grele ar fi
-consecințele sau suferința, ca să realizeze lucrarea de curățire a trupului
-și a sufletului” (Ellen G. White, Mărturii pentru biserică, vol. 2, p. 99).
+Unui membru din biserică stăpânit de poftă, ea îi scrie: „Acum, el ar trebui să prețuiască atât de mult răsplata veșnică, comoara cerului, moștenirea nepieritoare, cununa slavei care nu se ofilește, încât să poată sacrifica bucuros satisfacerea poftei pervertite, oricât de grele ar fi consecințele sau suferința, ca să realizeze lucrarea de curățire a trupului și a sufletului” (Ellen G. White, Mărturii pentru biserică, vol. 2, p. 99).
 
-Fratelui G, Ellen G. White îi scrie o scrisoare în care îi explică relația
-dintre suferință și curățire între așteptătorii celei de-a doua veniri a lui
-Isus: „Curățirea poporului lui Dumnezeu nu poate fi făcută fără suferință.
-Dumnezeu permite ca focul suferinței să mistuie zgura, să separe ce este
-lipsit de valoare de ceea ce este prețios, pentru ca metalul pur să poată
-străluci. El îngăduie să trecem dintr-un foc în altul pentru a ne testa
-adevărata valoare. Dacă nu putem suporta aceste încercări, ce vom face
-în timpul de strâmtorare? Dacă prosperitatea sau nenorocirea scoate la
-iveală falsitate, mândrie sau egoism în inima noastră, ce vom face atunci
-când Dumnezeu va încerca prin foc lucrarea fiecărui om și va scoate la
-lumină secretele inimii? Adevărata virtute este dispusă să fie pusă la încercare.
-Dacă nu ne place să fim cercetați de Domnul, starea noastră este
-cu adevărat gravă. Dumnezeu este Cel care rafinează și purifică sufletul; în văpaia cuptorului, zgura este separată pentru totdeauna de argintul
-și de aurul curat din caracterul creștin. Isus urmărește testul. El știe de
-ce este nevoie pentru a purifica prețiosul metal, astfel încât acesta să
-reflecte strălucirea iubirii Sale divine” (Ellen G. White, Mărturii pentru
-biserică, vol. 4, p. 85, 86).
+Fratelui G, Ellen G. White îi scrie o scrisoare în care îi explică relația dintre suferință și curățire între așteptătorii celei de-a doua veniri a lui Isus: „Curățirea poporului lui Dumnezeu nu poate fi făcută fără suferință. Dumnezeu permite ca focul suferinței să mistuie zgura, să separe ce este lipsit de valoare de ceea ce este prețios, pentru ca metalul pur să poată străluci. El îngăduie să trecem dintr-un foc în altul pentru a ne testa adevărata valoare. Dacă nu putem suporta aceste încercări, ce vom face în timpul de strâmtorare? Dacă prosperitatea sau nenorocirea scoate la iveală falsitate, mândrie sau egoism în inima noastră, ce vom face atunci când Dumnezeu va încerca prin foc lucrarea fiecărui om și va scoate la lumină secretele inimii? Adevărata virtute este dispusă să fie pusă la încercare. Dacă nu ne place să fim cercetați de Domnul, starea noastră este cu adevărat gravă. Dumnezeu este Cel care rafinează și purifică sufletul; în văpaia cuptorului, zgura este separată pentru totdeauna de argintul și de aurul curat din caracterul creștin. Isus urmărește testul. El știe de ce este nevoie pentru a purifica prețiosul metal, astfel încât acesta să reflecte strălucirea iubirii Sale divine” (Ellen G. White, Mărturii pentru biserică, vol. 4, p. 85, 86).
 
-Ea continuă pe acest subiect în aceeași manieră profundă: „Dumnezeu
-îi apropie de El pe cei care sunt poporul Său, prin încercări aspre, dificile,
-arătându-le slăbiciunile și incapacitățile și învățându-i să se bazeze
-pe El ca singurul lor ajutor și singura lor apărare. Atunci, scopul Său este
-atins. Ei sunt pregătiți să fie folosiți în orice situație de urgență, să ocupe
-poziții importante, de încredere, și să realizeze planurile mărețe pentru
-care le-au fost date puterile. Dumnezeu îi pune pe oameni la încercare, îi
-testează pe o parte și pe cealaltă și astfel îi educă, îi instruiește și îi disciplinează.
-Isus, Răscumpărătorul nostru, reprezentantul și conducătorul
-omului, a trecut prin acest proces de punere la probă. El a suferit mai
-mult decât putem fi noi chemați să suferim. Și-a asumat infirmitățile
-noastre și a fost ispitit ca și noi, în toate privințele. El nu a suferit în felul
-acesta pentru El, ci din cauza păcatelor noastre. Bazându-ne pe meritele
-Biruitorului, putem deveni și noi biruitori în numele Său.
-Acțiunea lui Dumnezeu de rafinare și purificare trebuie să continue
-până când slujitorii Săi ajung atât de smeriți, de morți față de ei înșiși,
-încât, atunci când sunt chemați la o slujire activă, să aibă în vedere doar
-slava Lui. Atunci, El va primi cu plăcere eforturile lor, iar ei nu vor acționa
-pripit, din impuls, nici nu se vor năpusti înainte, punând în pericol cauza
-Domnului, devenind sclavi ai ispitelor și ai patimilor și urmându-și propriile
-minți firești înflăcărate de Satana. O, în ce mod înfricoșător este
-afectată cauza lui Dumnezeu de voința pervertită a omului și de firea lui
-nesupusă! Câtă suferință atrage omul asupra lui însuși când își urmează
-propriile patimi încăpățânate! Dumnezeu îi trece pe oameni prin încercări
-din nou și din nou, crescând mereu presiunea, până când umilința
-desăvârșită și transformarea caracterului îi aduc în armonie cu Hristos și
-cu spiritul cerului, făcându-i biruitori asupra lor înșiși” (Ellen G. White,
-Mărturii pentru biserică, vol. 4, p. 86).
+Ea continuă pe acest subiect în aceeași manieră profundă: „Dumnezeu îi apropie de El pe cei care sunt poporul Său, prin încercări aspre, dificile, arătându-le slăbiciunile și incapacitățile și învățându-i să se bazeze pe El ca singurul lor ajutor și singura lor apărare. Atunci, scopul Său este atins. Ei sunt pregătiți să fie folosiți în orice situație de urgență, să ocupe poziții importante, de încredere, și să realizeze planurile mărețe pentru care le-au fost date puterile. Dumnezeu îi pune pe oameni la încercare, îi testează pe o parte și pe cealaltă și astfel îi educă, îi instruiește și îi disciplinează. Isus, Răscumpărătorul nostru, reprezentantul și conducătorul omului, a trecut prin acest proces de punere la probă. El a suferit mai mult decât putem fi noi chemați să suferim. Și-a asumat infirmitățile noastre și a fost ispitit ca și noi, în toate privințele. El nu a suferit în felul acesta pentru El, ci din cauza păcatelor noastre. Bazându-ne pe meritele Biruitorului, putem deveni și noi biruitori în numele Său. Acțiunea lui Dumnezeu de rafinare și purificare trebuie să continue până când slujitorii Săi ajung atât de smeriți, de morți față de ei înșiși, încât, atunci când sunt chemați la o slujire activă, să aibă în vedere doar slava Lui. Atunci, El va primi cu plăcere eforturile lor, iar ei nu vor acționa pripit, din impuls, nici nu se vor năpusti înainte, punând în pericol cauza Domnului, devenind sclavi ai ispitelor și ai patimilor și urmându-și propriile minți firești înflăcărate de Satana. O, în ce mod înfricoșător este afectată cauza lui Dumnezeu de voința pervertită a omului și de firea lui nesupusă! Câtă suferință atrage omul asupra lui însuși când își urmează propriile patimi încăpățânate! Dumnezeu îi trece pe oameni prin încercări din nou și din nou, crescând mereu presiunea, până când umilința desăvârșită și transformarea caracterului îi aduc în armonie cu Hristos și cu spiritul cerului, făcându-i biruitori asupra lor înșiși” (Ellen G. White, Mărturii pentru biserică, vol. 4, p. 86).
 
 ### III. Aplicație
 
-**1** Am învățat că am fost curățiți de păcatele noastre prin jertfa înlocuitoare
-a lui Isus. Dar am mai învățat că suntem rafinați și prin suferință.
-Există vreo contradicție între cele două noțiuni? Absolut deloc. Suntem considerați neprihăniți prin harul lui Dumnezeu și primim iertarea
-păcatelor din partea Lui prin credință; așadar, noi suntem puși deoparte
-pentru Dumnezeu și trăim pentru Dumnezeu. Îndreptățirea
-și iertarea sunt atât declarații, cât și experiențe spirituale profunde.
-Dar apoi continuăm prin parcurgerea experienței harului în contextul
-marii lupte, în cadrul căreia suntem încercați și în care dovedim
-dacă suntem credincioși și plini de iubire față de Domnul nostru. În
-această experiență descoperim că de multe ori dăm greș. De asemenea,
-descoperim și anumite trăsături ascunse la care trebuie să
-renunțăm. Ne eliberăm de ele prin harul lui Dumnezeu. Rafinarea, purificarea
-este o experiență reală care li se întâmplă unor persoane reale
-într-un timp real. Cum te ajută această înțelegere în experiența
-ta de curățire? În ce fel ai observat personal că Duhul Sfânt îți curăță
-caracterul?
+**1** Am învățat că am fost curățiți de păcatele noastre prin jertfa înlocuitoare a lui Isus. Dar am mai învățat că suntem rafinați și prin suferință. Există vreo contradicție între cele două noțiuni? Absolut deloc. Suntem considerați neprihăniți prin harul lui Dumnezeu și primim iertarea păcatelor din partea Lui prin credință; așadar, noi suntem puși deoparte pentru Dumnezeu și trăim pentru Dumnezeu. Îndreptățirea și iertarea sunt atât declarații, cât și experiențe spirituale profunde. Dar apoi continuăm prin parcurgerea experienței harului în contextul marii lupte, în cadrul căreia suntem încercați și în care dovedim dacă suntem credincioși și plini de iubire față de Domnul nostru. În această experiență descoperim că de multe ori dăm greș. De asemenea, descoperim și anumite trăsături ascunse la care trebuie să renunțăm. Ne eliberăm de ele prin harul lui Dumnezeu. Rafinarea, purificarea este o experiență reală care li se întâmplă unor persoane reale într-un timp real. Cum te ajută această înțelegere în experiența ta de curățire? În ce fel ai observat personal că Duhul Sfânt îți curăță caracterul?
 
-**2** Cum trăiești experiența contemplării continue a chipului lui Hristos
-în viața ta? În ce fel ai traversat o transformare a caracterului și a personalității
-tale după chipul Său?
+**2** Cum trăiești experiența contemplării continue a chipului lui Hristos în viața ta? În ce fel ai traversat o transformare a caracterului și a personalității tale după chipul Său?
 
-**3** În ce fel ai trăit experiența creșterii și maturizării credinței tale ca individ?
-Cum ai descrie această creștere?
+**3** În ce fel ai trăit experiența creșterii și maturizării credinței tale ca individ? Cum ai descrie această creștere?
 
-**4** Cum s-a maturizat spiritual comunitatea din care faci parte? În ce aspecte
-au observat ceilalți oameni, din interiorul și din afara comunității tale,
-aceeași creștere? Descrie ceea ce tu și alți membri ai comunității tale ați
-observat.
+**4** Cum s-a maturizat spiritual comunitatea din care faci parte? În ce aspecte au observat ceilalți oameni, din interiorul și din afara comunității tale, aceeași creștere? Descrie ceea ce tu și alți membri ai comunității tale ați observat.

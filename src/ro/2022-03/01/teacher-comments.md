@@ -5,166 +5,42 @@ date:   01/07/2022
 
 ### I. Privire generală
 
-În acest trimestru pornim într-o călătorie de înțelegere a semnificației
-suferinței, a răului și a morții. Da, suferința poate fi studiată ca un fenomen
-distinct al existenței umane; poate fi studiată dintr-o perspectivă
-științifică sau psihologică, în termeni ce țin de percepție, sentimente și
-consecințe. Dar perspectiva biblică asupra suferinței este mult mai profundă.
-Biblia îi explică originea – care Îl exonerează pe Dumnezeu de
-orice responsabilitate de a fi adus la existență păcatul. Biblia mai arată
-și modul în care Dumnezeu folosește suferința ca pe un cadru în care
-să aibă loc transformarea pentru înnobilarea noastră, pentru reușita și
-viața noastră veșnică. Dacă ne imaginăm viața ca pe o călătorie, Psalmul
-23 este cel mai bun punct de plecare, pentru că vorbește despre o cărare.
-Aceasta ne poartă prin suișurile și coborâșurile vieții noastre. Mai important,
-Cineva ne conduce pe această cărare. Acel Cineva este mai mult
-decât un ghid; El este un Păstor grijuliu și iubitor. Cele mai importante
-întrebări legate de călătoria noastră, de suișurile și coborâșurile vieții
-noastre sunt următoarele: Îl cunoaștem pe Păstor? Avem încredere în El
-indiferent ce s-ar întâmpla sau indiferent pe unde ar decide să ne ducă?
+În acest trimestru pornim într-o călătorie de înțelegere a semnificației suferinței, a răului și a morții. Da, suferința poate fi studiată ca un fenomen distinct al existenței umane; poate fi studiată dintr-o perspectivă științifică sau psihologică, în termeni ce țin de percepție, sentimente și consecințe. Dar perspectiva biblică asupra suferinței este mult mai profundă. Biblia îi explică originea – care Îl exonerează pe Dumnezeu de orice responsabilitate de a fi adus la existență păcatul. Biblia mai arată și modul în care Dumnezeu folosește suferința ca pe un cadru în care să aibă loc transformarea pentru înnobilarea noastră, pentru reușita și viața noastră veșnică. Dacă ne imaginăm viața ca pe o călătorie, Psalmul 23 este cel mai bun punct de plecare, pentru că vorbește despre o cărare. Aceasta ne poartă prin suișurile și coborâșurile vieții noastre. Mai important, Cineva ne conduce pe această cărare. Acel Cineva este mai mult decât un ghid; El este un Păstor grijuliu și iubitor. Cele mai importante întrebări legate de călătoria noastră, de suișurile și coborâșurile vieții noastre sunt următoarele: Îl cunoaștem pe Păstor? Avem încredere în El indiferent ce s-ar întâmpla sau indiferent pe unde ar decide să ne ducă?
 
-**1.** Este foarte important să înțelegem că viața noastră este un drum cu diverse
-viraje, curbe, schimbări de direcție.
+**1.** Este foarte important să înțelegem că viața noastră este un drum cu diverse viraje, curbe, schimbări de direcție.
 
-**2.** De asemenea este crucial să ne amintim că acest drum nu șerpuiește
-haotic, la întâmplare. Dumnezeu este Ghidul, Îndrumătorul și Păstorul
-nostru și El ne poate lăsa – sau ne poate face El însuși – să trecem prin
-văile suferinței și ale morții. Dar Dumnezeu nu așteaptă de la noi să parcurgem
-acest drum legați la ochi. Ci ne oferă o promisiune sigură că ne
-va conduce spre salvare.
+**2.** De asemenea este crucial să ne amintim că acest drum nu șerpuiește haotic, la întâmplare. Dumnezeu este Ghidul, Îndrumătorul și Păstorul nostru și El ne poate lăsa – sau ne poate face El însuși – să trecem prin văile suferinței și ale morții. Dar Dumnezeu nu așteaptă de la noi să parcurgem acest drum legați la ochi. Ci ne oferă o promisiune sigură că ne va conduce spre salvare.
 
-**3.** Nu avem nicio șansă să supraviețuim în cuptoarele încinse ale vieții dacă
-nu avem încrederea că Păstorul nostru ne va trece prin ele.
+**3.** Nu avem nicio șansă să supraviețuim în cuptoarele încinse ale vieții dacă nu avem încrederea că Păstorul nostru ne va trece prin ele.
 
 ### II. Comentariu
+
 **Cele două cărări**
 
-Una dintre reprezentările biblice ale vieții este cea a unei cărări.
-Această cărare urmează parcursul omului de la naștere la moarte. Și
-nu există o singură cale, ci două. Cea dintâi este calea cea bună, calea
-dreptății, a neprihănirii, „a nevinovăției” (Proverbele 8:20), care duce
-la bunăstare și viață (Psalmii 1:2,3), fiindcă Dumnezeu Însuși netezește calea (Proverbele 2:8; Isaia 26:7). Aceia care merg pe calea cea bună sau
-dreaptă sunt conduși de Cuvântul divin, care le servește drept lumină
-pentru picioare atunci când viața este întunecată (Psalmii 119:105). În
-cele din urmă, cărarea lor devine din ce în ce mai luminoasă ca strălucirea
-de la miezul zilei (Proverbele 4:18). De asemenea, călătorii de
-pe această cărare Îl recunosc pe Dumnezeu în toate aspectele vieții
-(Proverbele 3:5,6). Deși duce la viață, această cale este îngustă și puțini
-merg pe ea (Matei 7:14). A doua este calea cea rea sau păcătoasă. Aceasta
-este calea cea largă, ce duce la nelegiuire, la o existență superficială și la
-moarte (Psalmii 1:4,5; Proverbele 14:12; Matei 7:13).
+Una dintre reprezentările biblice ale vieții este cea a unei cărări. Această cărare urmează parcursul omului de la naștere la moarte. Și nu există o singură cale, ci două. Cea dintâi este calea cea bună, calea dreptății, a neprihănirii, „a nevinovăției” (Proverbele 8:20), care duce la bunăstare și viață (Psalmii 1:2,3), fiindcă Dumnezeu Însuși netezește calea (Proverbele 2:8; Isaia 26:7). Aceia care merg pe calea cea bună sau dreaptă sunt conduși de Cuvântul divin, care le servește drept lumină pentru picioare atunci când viața este întunecată (Psalmii 119:105). În cele din urmă, cărarea lor devine din ce în ce mai luminoasă ca strălucirea de la miezul zilei (Proverbele 4:18). De asemenea, călătorii de pe această cărare Îl recunosc pe Dumnezeu în toate aspectele vieții (Proverbele 3:5,6). Deși duce la viață, această cale este îngustă și puțini merg pe ea (Matei 7:14). A doua este calea cea rea sau păcătoasă. Aceasta este calea cea largă, ce duce la nelegiuire, la o existență superficială și la moarte (Psalmii 1:4,5; Proverbele 14:12; Matei 7:13).
 
-Căile vieții noastre sunt permanent sub observația lui Dumnezeu;
-El le vede, le examinează, „le cântărește” (Proverbele 5:21, NTR) și ne
-avertizează: „Nu intra pe cărarea celor răi și nu umbla pe calea celor
-nelegiuiți!” (Proverbele 4:14; vezi și Psalmii 1:1). Dacă cineva este pe
-calea greșită, păcătoasă, Dumnezeu îl cheamă să se mute pe calea cea
-bună: „«Pe viața Mea», zice Domnul Dumnezeu, «că nu doresc moartea
-păcătosului, ci să se întoarcă de la calea lui și să trăiască. Întoarceți-vă,
-întoarceți-vă de la calea voastră cea rea! Pentru ce vreți să muriți, voi,
-casa lui Israel?»” (Ezechiel 33:11).
+Căile vieții noastre sunt permanent sub observația lui Dumnezeu; El le vede, le examinează, „le cântărește” (Proverbele 5:21, NTR) și ne avertizează: „Nu intra pe cărarea celor răi și nu umbla pe calea celor nelegiuiți!” (Proverbele 4:14; vezi și Psalmii 1:1). Dacă cineva este pe calea greșită, păcătoasă, Dumnezeu îl cheamă să se mute pe calea cea bună: „«Pe viața Mea», zice Domnul Dumnezeu, «că nu doresc moartea păcătosului, ci să se întoarcă de la calea lui și să trăiască. Întoarceți-vă, întoarceți-vă de la calea voastră cea rea! Pentru ce vreți să muriți, voi, casa lui Israel?»” (Ezechiel 33:11).
 
-Două concluzii se conturează din această scurtă incursiune biblică.
-(1) Da, capătul fiecăreia dintre cele două cărări este stabilit: cărarea neprihănirii
-duce la viață, cărarea nelegiuirii duce la moarte. A fi pe o cărare
-sau alta este o chestiune de alegere. (2) Dacă decidem să fim pe calea
-neprihănirii, Dumnezeu promite că aceasta ne va duce la viață. Da, calea
-neprihănirii poate fi strâmtă; ne poate purta printre munți întunecoși sau
-prin văi unde ne-ar prinde bine mai multă lumină, hrană, perseverență,
-răbdare sau putere. Dar la capătul cărării neprihănirii se găsește lumină,
-fericire și viață. Prin profetul Isaia, Dumnezeu le promite celor care se
-încred în El că această potecă se va transforma într-un drum larg, ușor
-de parcurs: „Acolo se va croi o cale, un drum, care se va numi «Calea cea
-sfântă»: niciun om necurat nu va trece pe ea, ci va fi numai pentru cei
-sfinți; cei ce vor merge pe ea, chiar și cei fără minte, nu vor putea să se
-rătăcească” (Isaia 35:8).
+Două concluzii se conturează din această scurtă incursiune biblică. (1) Da, capătul fiecăreia dintre cele două cărări este stabilit: cărarea neprihănirii duce la viață, cărarea nelegiuirii duce la moarte. A fi pe o cărare sau alta este o chestiune de alegere. (2) Dacă decidem să fim pe calea neprihănirii, Dumnezeu promite că aceasta ne va duce la viață. Da, calea neprihănirii poate fi strâmtă; ne poate purta printre munți întunecoși sau prin văi unde ne-ar prinde bine mai multă lumină, hrană, perseverență, răbdare sau putere. Dar la capătul cărării neprihănirii se găsește lumină, fericire și viață. Prin profetul Isaia, Dumnezeu le promite celor care se încred în El că această potecă se va transforma într-un drum larg, ușor de parcurs: „Acolo se va croi o cale, un drum, care se va numi «Calea cea sfântă»: niciun om necurat nu va trece pe ea, ci va fi numai pentru cei sfinți; cei ce vor merge pe ea, chiar și cei fără minte, nu vor putea să se rătăcească” (Isaia 35:8).
 
 ### III. Comentariu
+
 **Religia ca o cărare**
 
-Ca și în cazul altor viziuni orientale asupra lumii, Biblia redă conceptul
-de religie ca o cărare, o cale, un drum, un parcurs. „Enoh a umblat
-cu Dumnezeu trei sute de ani” (Geneza 5:22). Profetul Mica descrie o
-vreme când mulți oameni din toată lumea vor zice: „«Veniți, haidem să ne suim la muntele Domnului [...] ca să ne învețe căile Lui și să umblăm
-pe cărările Lui!» [...] Pe când toate popoarele umblă fiecare în numele
-dumnezeului său, noi vom umbla în Numele Domnului Dumnezeului
-nostru totdeauna și în veci de veci!” (Mica 4:2,5). Dumnezeu face apel
-la poporul Său să umble „cu neprihănire” înaintea Lui (1 Împărați 3:14;
-9:4; Proverbele 10:9; Zaharia 3:7), iar când se abate din drum îl cheamă
-înapoi: „Stați în drumuri, uitați-vă și întrebați care sunt cărările cele
-vechi, care este calea cea bună: umblați pe ea, și veți găsi odihnă pentru
-sufletele voastre!” (Ieremia 6:16).
+Ca și în cazul altor viziuni orientale asupra lumii, Biblia redă conceptul de religie ca o cărare, o cale, un drum, un parcurs. „Enoh a umblat cu Dumnezeu trei sute de ani” (Geneza 5:22). Profetul Mica descrie o vreme când mulți oameni din toată lumea vor zice: „«Veniți, haidem să ne suim la muntele Domnului [...] ca să ne învețe căile Lui și să umblăm pe cărările Lui!» [...] Pe când toate popoarele umblă fiecare în numele dumnezeului său, noi vom umbla în Numele Domnului Dumnezeului nostru totdeauna și în veci de veci!” (Mica 4:2,5). Dumnezeu face apel la poporul Său să umble „cu neprihănire” înaintea Lui (1 Împărați 3:14; 9:4; Proverbele 10:9; Zaharia 3:7), iar când se abate din drum îl cheamă înapoi: „Stați în drumuri, uitați-vă și întrebați care sunt cărările cele vechi, care este calea cea bună: umblați pe ea, și veți găsi odihnă pentru sufletele voastre!” (Ieremia 6:16).
 
-La început, credința creștină a fost numită „Calea” (credinței sau
-Domnului) (Faptele 9:2; 19:9,23; 22:4; 24:14,22) sau „calea mântuirii”
-(Faptele 16:17). Apolo a fost „învățat în ce privește Calea Domnului”,
-apoi, odată aflat pe această cale, a primit și mai multă învățătură
-(Faptele 18:25,26). Și apostolul Pavel asociază religia sau credința cu
-„umblarea” și insistă ca toți creștinii „să nu mai [trăiască] cum trăiesc
-păgânii, în deșertăciunea gândurilor lor” (Efeseni 4:17). Apostolul Ioan
-ne îndeamnă să „umblăm” în poruncile lui Dumnezeu și în dragostea Sa
-(2 Ioan 1:6). Isus a declarat despre Sine: „Eu sunt Calea, Adevărul și
-Viața. Nimeni nu vine la Tatăl decât prin Mine” (Ioan 14:6).
+La început, credința creștină a fost numită „Calea” (credinței sau Domnului) (Faptele 9:2; 19:9,23; 22:4; 24:14,22) sau „calea mântuirii” (Faptele 16:17). Apolo a fost „învățat în ce privește Calea Domnului”, apoi, odată aflat pe această cale, a primit și mai multă învățătură (Faptele 18:25,26). Și apostolul Pavel asociază religia sau credința cu „umblarea” și insistă ca toți creștinii „să nu mai [trăiască] cum trăiesc păgânii, în deșertăciunea gândurilor lor” (Efeseni 4:17). Apostolul Ioan ne îndeamnă să „umblăm” în poruncile lui Dumnezeu și în dragostea Sa (2 Ioan 1:6). Isus a declarat despre Sine: „Eu sunt Calea, Adevărul și Viața. Nimeni nu vine la Tatăl decât prin Mine” (Ioan 14:6).
 
-Combinația „Calea”, „Adevărul” și „Viața” constituie trei stâlpi importanți
-ai religiei creștine. Acum ne-am putea întreba: Este importantă
-religia creștină? Mai este ea relevantă astăzi? Este adevărat că istoria
-creștinismului este presărată cu apostazie, abuz, înșelăciune și corupție;
-de nenumărate ori, creștinismul a luat-o pe căi diferite de calea lui
-Hristos. Dar aceasta nu înseamnă că nu este nicio cale a neprihănirii de
-urmat. Isus rămâne în continuare Calea și ne promite că această cale a
-Lui este adevărul și că ne va duce la viață, la viața veșnică. Isus nu doar
-că este Calea, ci, așa cum a zis despre Sine, este și „Păstorul cel bun”
-(Ioan 10:11). Ce înseamnă acest lucru? Isus explică: „Eu Îmi cunosc oile
-Mele, și ele Mă cunosc pe Mine” (Ioan 10:14), inclusiv cele din alte staule
-(vezi și Ioan 10:16). Și mai este ceva: Isus, fiind Păstorul cel bun, „Își dă
-viața pentru oi” (Ioan 10:11) și le va da „viața veșnică, în veac nu vor pieri
-și nimeni nu le va smulge din mâna [Lui]” (Ioan 10:28). Așadar, a-L
-urma pe Hristos pe calea Lui, pe cărarea neprihănirii Sale, este singura
-și cea mai sigură cale care duce la viață (Faptele 4:12). Chiar dacă este
-strâmtă, chiar dacă presupune și focuri ale încercării de-a lungul ei, este
-singura și cea mai bună cale spre viață. Păstorul nostru ne va duce acolo.
-Conceptul și termenul occidental de religie derivă din latinescul re
-(„din nou”) + ligare („a lega, a conecta”) – a lega din nou, a reconecta.
+Combinația „Calea”, „Adevărul” și „Viața” constituie trei stâlpi importanți ai religiei creștine. Acum ne-am putea întreba: Este importantă religia creștină? Mai este ea relevantă astăzi? Este adevărat că istoria creștinismului este presărată cu apostazie, abuz, înșelăciune și corupție; de nenumărate ori, creștinismul a luat-o pe căi diferite de calea lui Hristos. Dar aceasta nu înseamnă că nu este nicio cale a neprihănirii de urmat. Isus rămâne în continuare Calea și ne promite că această cale a Lui este adevărul și că ne va duce la viață, la viața veșnică. Isus nu doar că este Calea, ci, așa cum a zis despre Sine, este și „Păstorul cel bun” (Ioan 10:11). Ce înseamnă acest lucru? Isus explică: „Eu Îmi cunosc oile Mele, și ele Mă cunosc pe Mine” (Ioan 10:14), inclusiv cele din alte staule (vezi și Ioan 10:16). Și mai este ceva: Isus, fiind Păstorul cel bun, „Își dă viața pentru oi” (Ioan 10:11) și le va da „viața veșnică, în veac nu vor pieri și nimeni nu le va smulge din mâna [Lui]” (Ioan 10:28). Așadar, a-L urma pe Hristos pe calea Lui, pe cărarea neprihănirii Sale, este singura și cea mai sigură cale care duce la viață (Faptele 4:12). Chiar dacă este strâmtă, chiar dacă presupune și focuri ale încercării de-a lungul ei, este singura și cea mai bună cale spre viață. Păstorul nostru ne va duce acolo. Conceptul și termenul occidental de religie derivă din latinescul re („din nou”) + ligare („a lega, a conecta”) – a lega din nou, a reconecta.
 
-Deși formulat în mediul occidental creștin, acest termen are sens și din
-perspectiva biblică și poate fi corelat cu viziunea Bibliei asupra religiei
-ca o cărare și un parcurs. Când omenirea a luat-o pe drumul pierzării,
-am pierdut legătura cu Dumnezeu. Religia este acel proces prin intermediul
-căruia oamenii și Dumnezeu sunt reconectați. Dar cum ne reconectăm
-cu Dumnezeu? Dacă religia este o cale sau o călătorie înseamnă
-că nu reprezintă un fenomen atemporal, în afara istoriei și a timpului,
-ca în mitologia păgână sau în religiile filozofice. Mai curând, potrivit viziunii
-biblice, religia (sau reconectarea omenirii cu Divinitatea) este un
-proces în timp și spațiu. Este un parcurs personal și istoric, atât pentru
-Dumnezeu, cât și pentru noi. Dumnezeu vine la noi acolo unde suntem,
-în istorie. O altă diferență între religiile păgâne și cea biblică este că în
-păgânism oamenii trebuie să-și croiască drumul pe cont propriu, să găsească
-singuri acea cale spre lumea zeilor, să le câștige bunăvoința, să
-se reconecteze cu ei sau să le fure secretele ori secretul vieții eterne. În
-religia biblică, dimpotrivă, Dumnezeu Însuși este cel care ne deschide
-drumul. El vine la noi, căutând să ne salveze, ca să ne ducă înapoi la El.
-De fapt, El Însuși devine Calea, Călăuza și Păstorul. Parcurge cu noi și
-valea, conducându-ne pe calea care duce la reconectarea cu Dumnezeu.
-Aceasta este religia lui Dumnezeu, religia harului!
+Deși formulat în mediul occidental creștin, acest termen are sens și din perspectiva biblică și poate fi corelat cu viziunea Bibliei asupra religiei ca o cărare și un parcurs. Când omenirea a luat-o pe drumul pierzării, am pierdut legătura cu Dumnezeu. Religia este acel proces prin intermediul căruia oamenii și Dumnezeu sunt reconectați. Dar cum ne reconectăm cu Dumnezeu? Dacă religia este o cale sau o călătorie înseamnă că nu reprezintă un fenomen atemporal, în afara istoriei și a timpului, ca în mitologia păgână sau în religiile filozofice. Mai curând, potrivit viziunii biblice, religia (sau reconectarea omenirii cu Divinitatea) este un proces în timp și spațiu. Este un parcurs personal și istoric, atât pentru Dumnezeu, cât și pentru noi. Dumnezeu vine la noi acolo unde suntem, în istorie. O altă diferență între religiile păgâne și cea biblică este că în păgânism oamenii trebuie să-și croiască drumul pe cont propriu, să găsească singuri acea cale spre lumea zeilor, să le câștige bunăvoința, să se reconecteze cu ei sau să le fure secretele ori secretul vieții eterne. În religia biblică, dimpotrivă, Dumnezeu Însuși este cel care ne deschide drumul. El vine la noi, căutând să ne salveze, ca să ne ducă înapoi la El. De fapt, El Însuși devine Calea, Călăuza și Păstorul. Parcurge cu noi și valea, conducându-ne pe calea care duce la reconectarea cu Dumnezeu. Aceasta este religia lui Dumnezeu, religia harului!
 
 ### IV. Aplicație
 
-**1.** Analizează-ți parcursul propriei vieți. Pe ce cale ești? Ce poți face ca să te
-asiguri că ești pe calea neprihănirii care te va duce la viața veșnică?
+**1.** Analizează-ți parcursul propriei vieți. Pe ce cale ești? Ce poți face ca să te asiguri că ești pe calea neprihănirii care te va duce la viața veșnică?
 
-**2.** Ai mai întâlnit și alți oameni pe aceeași cărare pe care mergi tu? Ai întâlnit
-oameni pe o cale care duce în sens opus? Ce poți face pentru a-i ajuta
-și pe alții să aleagă calea lui Isus și care duce la Isus?
+**2.** Ai mai întâlnit și alți oameni pe aceeași cărare pe care mergi tu? Ai întâlnit oameni pe o cale care duce în sens opus? Ce poți face pentru a-i ajuta și pe alții să aleagă calea lui Isus și care duce la Isus?
 
-**3.** Putem avea încredere în Păstorul nostru când ne trece prin cuptoare ale
-încercării, deoarece, înainte de a ne lăsa să trecem prin ele, El Însuși a
-trecut pe acolo. Dar există o diferență crucială între încercările Lui și
-încercările noastre. Multe din încercările noastre sunt cauzate de noi sau
-de alți oameni ori de consecințele păcatului în general. Cuptorul prin
-care a trecut Păstorul a fost creat de noi, iar El Și l-a asumat ca pe un
-sacrificiu, ca pe un act de înlocuire, ca pe un act de răscumpărare. Cum
-te ajută această înțelegere să treci prin suferință?
+**3.** Putem avea încredere în Păstorul nostru când ne trece prin cuptoare ale încercării, deoarece, înainte de a ne lăsa să trecem prin ele, El Însuși a trecut pe acolo. Dar există o diferență crucială între încercările Lui și încercările noastre. Multe din încercările noastre sunt cauzate de noi sau de alți oameni ori de consecințele păcatului în general. Cuptorul prin care a trecut Păstorul a fost creat de noi, iar El Și l-a asumat ca pe un sacrificiu, ca pe un act de înlocuire, ca pe un act de răscumpărare. Cum te ajută această înțelegere să treci prin suferință?
 
-**4.** Identifică două cuptoare ale încercării prin care ai trecut recent, apoi
-identifică și călăuzirea și grija lui Dumnezeu față de tine în acele experiențe.
+**4.** Identifică două cuptoare ale încercării prin care ai trecut recent, apoi identifică și călăuzirea și grija lui Dumnezeu față de tine în acele experiențe.
