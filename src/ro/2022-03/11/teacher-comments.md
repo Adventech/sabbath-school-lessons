@@ -1,0 +1,167 @@
+---
+title:  Material Pentru Instructori
+date:   09/09/2022
+---
+
+### I. Privire generală
+
+Speranța și blândețea – elemente esențiale pentru a depăși cu bine
+greutățile vieții – sunt definite de așteptare. Totuși conceptul biblic de
+așteptare nu presupune doar așteptare și atât, ci așteptare cu răbdare.
+Acest gen de răbdare nu este o stratagemă politică, ci face parte din rodul
+Duhului Sfânt. Poporul lui Dumnezeu așteaptă cu răbdare în cuptorul
+încercării pentru că Însuși Dumnezeu este răbdător. Dumnezeu este răbdător
+fiindcă este iubitor prin natura Lui și pentru că alege momentul cel
+mai potrivit pentru a interveni. Dar acest moment potrivit este calculat
+de Dumnezeu ca să ofere cât mai mult timp posibil pentru salvarea cât
+mai multor oameni. Din nou, așteptarea este posibilă doar atunci când
+ne încredem în Cel pe care Îl așteptăm.
+
+**1** Înțelegem că așteptarea cu răbdare este o parte a rodului Duhului Sfânt
+și este foarte importantă ca să depășim cu bine încercările.
+
+**2** Așteptarea plină de răbdare devine posibilă atunci când cunoaștem persoana
+pe care o așteptăm și ne încredem în ea.
+
+### II. Comentariu
+**Răbdarea lui Dumnezeu**
+
+O expresie din Biblie care descrie răbdarea lui Dumnezeu este „încet
+la mânie” (Neemia 9:17; vezi și Exodul 34:6; Numeri 14:18; Psalmii
+103:8; Iona 4:2; Naum 1:3). Să observăm că majoritatea acestor texte
+așază această expresie și altele similare în contextul altor trăsături ale lui
+Dumnezeu, precum faptul că este „bogat în bunătate”, „îndurător și milostiv”.
+În plus, Biblia Îl prezintă pe Dumnezeu ca „suferindu-i” sau „îngăduindu-
+i” pe oameni (Geneza 18:17-33; Numeri 14:27; Deuterononul
+8:2; Neemia 9:30,31; Psalmii 78:38; Isaia 42:14; Ezechiel 20:17; Faptele
+13:18; 1 Petru 3:20). În același timp se subliniază că Dumnezeu este „plin
+de bunătate și credincioșie” (Exodul 34:6) și că este Autorul minunilor
+(vezi Neemia 9:17). Totodată, El nu îl consideră „pe cel vinovat drept
+nevinovat” (Numeri 14:18; vezi și Naum 1:3; 1 Petru 3:20).
+
+Deci este clar că răbdarea lui Dumnezeu nu trebuie confundată cu
+indiferența, cu neputința sau cu nehotărârea. Și nu este nici de fațadă,
+ca să-Și calculeze cel mai bun moment pentru a Se răzbuna. Mai curând,
+Dumnezeu este răbdător pentru că este plin de dragoste față de noi și vrea să salveze cât mai mulți oameni cu putință. Pavel ne adresează o
+întrebare retorică: „Sau disprețuiești tu bogățiile bunătății, îngăduinței
+și îndelungii Lui răbdări? Nu vezi tu că bunătatea lui Dumnezeu te îndeamnă
+la pocăință?” (Romani 2:4; vezi și Romani 9:22-24). De asemenea,
+Petru declară și că „îndelunga răbdare a Domnului nostru este
+mântuire” (2 Petru 3:15) pentru că „Domnul nu întârzie în împlinirea
+făgăduinței Lui, cum cred unii, ci are o îndelungă răbdare pentru voi și
+dorește ca niciunul să nu piară, ci toți să vină la pocăință” (vezi contextul
+mai larg la 2 Petru 3:9).
+
+### III. Comentariu
+**Răbdarea noastră**
+
+Explicația dată de Biblie răbdării lui Dumnezeu îi va ajuta pe toți
+creștinii și în special pe noi, adventiștii de ziua a șaptea, să înțelegem
+motivul întârzierii revenirii lui Isus. Pe lângă aceasta, ne va ajuta să ne
+evaluăm propria răbdare și să o dezvoltăm. Un studiu succint și necuprinzător
+despre răbdare oferă câteva idei: 
+
+(1) Biblia susține că răbdarea
+face parte din viața creștină și vine de la Dumnezeu. Dumnezeu ne face
+răbdători, dar și miloși, umili și blânzi pentru că „Hristos este totul și în
+toți” (Coloseni 3:11) și pentru că Dumnezeu ne-a ales (vezi Coloseni 3:12).
+Isus lucrează în noi răbdarea Sa (1 Timotei 1:16). Noi suntem răbdători
+datorită chemării pe care Dumnezeu ne-a adresat-o și nouă (Efeseni 4:1,2;
+2 Timotei 4:2). Răbdarea creștină este un aspect al rodului Duhului Sfânt
+(Galateni 5:22). Ea vine la pachet cu alte virtuți creștine, precum dragostea,
+speranța și blândețea (Galateni 5:22; Coloseni 3:12; Efeseni 4:1,2;
+2 Timotei 4:2). Dragostea este răbdătoare (1 Corinteni 13:4) și speranța
+pe care o nutrim ne face în stare să așteptăm cu răbdare (Romani 8:25).
+Suntem întăriți prin răbdare cu bucurie (Coloseni 1:11), iar răbdarea
+„lucrează integritate” (Romani 5:3,4, NTR; vezi și Iacov 1:3,4).
+
+(2) Răbdarea este o trăsătură-cheie a rămășiței lui Dumnezeu de la
+sfârșitul timpului: „Aici este răbdarea sfinților, care păzesc poruncile
+lui Dumnezeu și credința lui Isus” (Apocalipsa 14:12; vezi și Apocalipsa
+13:10). Cei care fac parte din poporul rămășiței înțeleg că trebuie să aibă
+răbdare până la venirea Domnului în același fel în care un agricultor are
+răbdare până ce recolta este gata (Iacov 5:7,8; vezi și Luca 8:15; Evrei
+6:12; 10:36; Apocalipsa 14:14-20). Ne facem curaj gândindu-ne la porunca
+lui Dumnezeu adresată lui Habacuc, care spune că, deși anumite
+profeții privitoare la vremea sfârșitului par să fie departe de împlinirea
+lor finală, noi trebuie să perseverăm în așteptare: „Căci este o prorocie a cărei vreme este hotărâtă, se apropie de împlinire și nu va minți; dacă
+zăbovește, așteapt-o, căci va veni și se va împlini negreșit” (Habacuc
+2:3). Dumnezeu ne cheamă să ne oprim și să conștientizăm că El este
+Dumnezeu (Psalmii 46:10). David insistă asupra faptului că un credincios
+trebuie să învețe următoarea lecție: „Nădăjduiește în Domnul! Fii
+tare, îmbărbătează-ți inima și nădăjduiește în Domnul!” (Psalmii 27:14).
+
+(3) Între timp, un mare nor de martori care au avut răbdare ne încurajează
+de pe margine: „Și noi dar, fiindcă suntem înconjurați de un nor
+așa de mare de martori, să dăm la o parte orice piedică și păcatul care ne
+înfășoară așa de lesne și să alergăm cu stăruință în alergarea care ne stă
+înainte. Să ne uităm țintă la Căpetenia și Desăvârșirea credinței noastre,
+adică la Isus, care, pentru bucuria care-I era pusă înainte, a suferit
+crucea, a disprețuit rușinea și șade la dreapta scaunului de domnie al lui
+Dumnezeu” (Evrei 12:1,2).
+
+Printre marile exemple de răbdare se numără Avraam (Evrei 6:15),
+precum și profeții și Iov, care dovedesc că „Domnul este plin de milă și
+de îndurare” (Iacov 5:11). Ieremia a decis să aștepte în Domnul, indiferent
+ce s-ar fi întâmplat: „«Domnul este partea mea de moștenire», zice
+sufletul meu, «de aceea nădăjduiesc în El»” (Plângerile 3:24), pentru că
+„Domnul este bun cu cine nădăjduiește în El, cu sufletul care-L caută”
+(vers. 25).
+
+Pavel lămurește că exemplele pe care le avem în Scriptură au menirea
+să ne ajute să ne dezvoltăm răbdarea și să ne dea speranță (Romani
+15:4,5). Mulți alți bărbați și femei ale credinței, atât din vremea Noului
+Testament, cât și după aceea, au îndurat cu răbdare necazurile și au suferit
+cu curaj pentru Numele și cauza lui Dumnezeu: „Știu că ai răbdare,
+că ai suferit din pricina Numelui Meu și că n-ai obosit” (Apocalipsa
+2:3; vezi și Romani 12:12; 2 Timotei 2:24; 2 Tesaloniceni 1:4; Apocalipsa
+1:9; 2:19; 3:10). Desigur, Isus este marele nostru model de răbdare și
+blândețe în suferință: „Și la aceasta ați fost chemați, fiindcă și Hristos a
+suferit pentru voi și v-a lăsat o pildă, ca să călcați pe urmele Lui. «El n-a
+făcut păcat și în gura Lui nu s-a găsit vicleșug.» Când era batjocorit, nu
+răspundea cu batjocuri și, când era chinuit, nu amenința, ci Se supunea
+dreptului Judecător” (1 Petru 2:21-23).
+
+(4) Da, există aspecte practice ale răbdării demne de reținut: opusul
+ei, nerăbdarea, ne distruge viața prezentă și ne face să comitem multe
+prostii (Proverbele 14:29; 15:18; 16:32; 25:15; Eclesiastul 7:8,9). Dar răbdarea
+este acea virtute pe care Dumnezeu ne-o oferă în mijlocul necazului și care ne ajută să reușim și să dobândim viața veșnică. În învățăturile
+Sale despre necazurile din lume, Isus ne spune: „Prin răbdarea voastră,
+vă veți câștiga sufletele voastre” (Luca 21:19). Apostolul Pavel declară că
+Dumnezeu „va da viața veșnică celor ce, prin stăruința în bine, caută slava,
+cinstea și nemurirea” (Romani 2:7). Prin profetul Isaia, Dumnezeu
+ne promite: „Dar cei ce se încred în Domnul își înnoiesc puterea; ei zboară
+ca vulturii; aleargă, și nu obosesc, umblă, și nu ostenesc” (Isaia 40:31;
+vezi și Psalmii 37:7-9; 40:1).
+
+### IV. Comentariu
+**Răbdare înseamnă a avea încredere**
+
+Ian zăcea în spital bolnav de cancer. Era o iarnă grea, cu temperaturi
+joase extreme. Într-o dimineață, când asistenta a intrat în salonul lui,
+Ian i-a spus că soția lui, Anastasia, urma să-l viziteze în acea zi. Asistenta
+i-a răspuns: „Nu prea cred, sunt minus 30 de grade afară!” Bărbatul i-a
+replicat: „Îmi cunosc soția și am încredere în ea. Este specială! Când face
+o promisiune, o va respecta indiferent ce s-ar întâmpla!” O oră mai târziu,
+Anastasia intra în salonul lui Ian. Mai târziu în acea zi, asistenta i-a
+spus lui Ian: „M-am îndoit serios că avea să vină soția ta. Dar acum știu
+că ea este într-adevăr specială!” Așteptarea noastră este determinată de
+cât de bine cunoaștem persoana pe care o așteptăm și de câtă încredere
+avem în ea. Dacă Îl cunoaștem pe Dumnezeu și ne încredem în El, procesul
+așteptării nu ne va duce la disperare, ci mai degrabă la o așteptare
+răbdătoare, activă.
+
+### V. Aplicație
+
+**1** Răbdarea noastră se manifestă – și mare nevoie avem de ea – în diferite
+aspecte ale vieții: familie, afaceri, sănătate, spiritualitate etc. Totuși
+răbdarea noastră autentică va avea întotdeauna ca sursă rodul Duhului.
+Autoevaluează-ți răbdarea în diferite ipostaze ale vieții. Ce ai descoperit?
+În ce domenii o poți îmbunătăți? Prin ce metode, pe lângă ajutorul lui
+Dumnezeu?
+
+**2** Nerăbdarea este considerată o caracteristică a imaturității. În general,
+copiii găsesc grea așteptarea; oamenii maturi pot aștepta mai ușor.
+Datorită experienței și încrederii, adulții ajung să poată aștepta cu răbdare.
+Evaluează-ți maturitatea spirituală. Cum intenționezi să continui
+să crești la capitolul răbdare?
