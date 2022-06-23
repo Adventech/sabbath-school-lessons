@@ -1,0 +1,20 @@
+---
+  title: "Im Schmelztiegel mit Christus"
+  description: "„Alle Dinge sind durch dasselbe gemacht, und ohne dasselbe ist nichts gemacht, was gemacht ist“ (Joh 1,3)."
+  human_date: "Juli · August · September 2022"
+  start_date: "25/06/2022"
+  end_date: "23/09/2022"
+  color_primary: "#553F2D"
+  color_primary_dark: "#4B3521"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Gavin Anthony"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: Redakteurin
+      value: "Soraya Homayouni"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"
