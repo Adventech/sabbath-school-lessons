@@ -1,4 +1,7 @@
---- title: Verdieping date: 01/07/2022 ---
+--- 
+title: Verdieping 
+date: 01/07/2022 
+---
 
 ## Het strijdperk van de herder
 
