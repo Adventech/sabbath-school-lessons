@@ -1,0 +1,30 @@
+---
+  video:
+    - artist: InVerse Bible
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-01.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:f1eciPzNxi3phPkMXGfQ.jpg
+        - src: https://hcintlincv.content.video.llnw.net/smedia/e9198650df78490ea2b9b5a263fc3350/Rj/kdcgP9qXIXn0FhkVdPAW_u9AZnvOB8Mvcni7s6ltA/inv220403_nobreaks.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:TTKwUAeefSHUnP2f0Iir.jpg
+        - src: https://storage.googleapis.com/hc-jetstream-uploads/_INV220410_NOBREAKS.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:bWE1KCs88y5DAGXocjiG.jpg
+        - src: https://videodelivery.net/a6540a1a5131e0a0975e7e73e19ff421/downloads/default.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:1oB5nldKeeraK0mdCg10.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-08.webp
+        - src: https://videodelivery.net/2bb44fff50e14474dc17a28f31a5e8a5/downloads/default.mp4
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_oa9Y0GBGk9s_73c363c3f2.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2022-02-inv-13.webp

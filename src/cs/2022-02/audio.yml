@@ -1,0 +1,215 @@
+---
+  audio:
+    - artist: Úvod
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-uvod.mp3
+          title: Úvod
+          target: cs/2022-02/01
+    - artist: Průvodce studiem Bible
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-1.mp3
+          target: cs/2022-02/01/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-2.mp3
+          target: cs/2022-02/01/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-3.mp3
+          target: cs/2022-02/01/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-4.mp3
+          target: cs/2022-02/01/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-5.mp3
+          target: cs/2022-02/01/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-6.mp3
+          target: cs/2022-02/01/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-7.mp3
+          target: cs/2022-02/01/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_01-inside-story.mp3
+          target: cs/2022-02/01/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-1.mp3
+          target: cs/2022-02/02/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-2.mp3
+          target: cs/2022-02/02/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-3.mp3
+          target: cs/2022-02/02/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-4.mp3
+          target: cs/2022-02/02/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-5.mp3
+          target: cs/2022-02/02/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-6.mp3
+          target: cs/2022-02/02/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-7.mp3
+          target: cs/2022-02/02/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_02-inside-story.mp3
+          target: cs/2022-02/02/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-1.mp3
+          target: cs/2022-02/03/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-2.mp3
+          target: cs/2022-02/03/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-3.mp3
+          target: cs/2022-02/03/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-4.mp3
+          target: cs/2022-02/03/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-5.mp3
+          target: cs/2022-02/03/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-6.mp3
+          target: cs/2022-02/03/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-7.mp3
+          target: cs/2022-02/03/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_03-inside-story.mp3
+          target: cs/2022-02/03/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-1.mp3
+          target: cs/2022-02/04/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-2.mp3
+          target: cs/2022-02/04/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-3.mp3
+          target: cs/2022-02/04/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-4.mp3
+          target: cs/2022-02/04/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-5.mp3
+          target: cs/2022-02/04/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-6.mp3
+          target: cs/2022-02/04/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-7.mp3
+          target: cs/2022-02/04/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_04-inside-story.mp3
+          target: cs/2022-02/04/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-1.mp3
+          target: cs/2022-02/05/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-2.mp3
+          target: cs/2022-02/05/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-3.mp3
+          target: cs/2022-02/05/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-4.mp3
+          target: cs/2022-02/05/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-5.mp3
+          target: cs/2022-02/05/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-6.mp3
+          target: cs/2022-02/05/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-7.mp3
+          target: cs/2022-02/05/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_05-inside-story.mp3
+          target: cs/2022-02/05/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-1.mp3
+          target: cs/2022-02/06/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-2.mp3
+          target: cs/2022-02/06/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-3.mp3
+          target: cs/2022-02/06/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-4.mp3
+          target: cs/2022-02/06/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-5.mp3
+          target: cs/2022-02/06/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-6.mp3
+          target: cs/2022-02/06/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_06-7.mp3
+          target: cs/2022-02/06/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-1.mp3
+          target: cs/2022-02/07/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-2.mp3
+          target: cs/2022-02/07/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-3.mp3
+          target: cs/2022-02/07/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-4.mp3
+          target: cs/2022-02/07/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-5.mp3
+          target: cs/2022-02/07/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-6.mp3
+          target: cs/2022-02/07/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-7.mp3
+          target: cs/2022-02/07/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_07-inside-story.mp3
+          target: cs/2022-02/07/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-1.mp3
+          target: cs/2022-02/08/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-2.mp3
+          target: cs/2022-02/08/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-3.mp3
+          target: cs/2022-02/08/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-4.mp3
+          target: cs/2022-02/08/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-5.mp3
+          target: cs/2022-02/08/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-6.mp3
+          target: cs/2022-02/08/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-7.mp3
+          target: cs/2022-02/08/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_08-inside-story.mp3
+          target: cs/2022-02/08/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-1.mp3
+          target: cs/2022-02/09/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-2.mp3
+          target: cs/2022-02/09/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-3.mp3
+          target: cs/2022-02/09/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-4.mp3
+          target: cs/2022-02/09/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-5.mp3
+          target: cs/2022-02/09/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-6.mp3
+          target: cs/2022-02/09/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-7.mp3
+          target: cs/2022-02/09/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_09-inside-story.mp3
+          target: cs/2022-02/09/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-1.mp3
+          target: cs/2022-02/10/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-2.mp3
+          target: cs/2022-02/10/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-3.mp3
+          target: cs/2022-02/10/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-4.mp3
+          target: cs/2022-02/10/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-5.mp3
+          target: cs/2022-02/10/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-6.mp3
+          target: cs/2022-02/10/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-7.mp3
+          target: cs/2022-02/10/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_10-inside-story.mp3
+          target: cs/2022-02/10/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-1.mp3
+          target: cs/2022-02/11/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-2.mp3
+          target: cs/2022-02/11/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-3.mp3
+          target: cs/2022-02/11/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-4.mp3
+          target: cs/2022-02/11/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-5.mp3
+          target: cs/2022-02/11/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-6.mp3
+          target: cs/2022-02/11/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-7.mp3
+          target: cs/2022-02/11/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_11-inside-story.mp3
+          target: cs/2022-02/11/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-1.mp3
+          target: cs/2022-02/12/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-2.mp3
+          target: cs/2022-02/12/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-3.mp3
+          target: cs/2022-02/12/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-4.mp3
+          target: cs/2022-02/12/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-5.mp3
+          target: cs/2022-02/12/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-6.mp3
+          target: cs/2022-02/12/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-7.mp3
+          target: cs/2022-02/12/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_12-inside-story.mp3
+          target: cs/2022-02/12/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-1.mp3
+          target: cs/2022-02/13/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-2.mp3
+          target: cs/2022-02/13/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-3.mp3
+          target: cs/2022-02/13/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-4.mp3
+          target: cs/2022-02/13/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-5.mp3
+          target: cs/2022-02/13/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-6.mp3
+          target: cs/2022-02/13/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-7.mp3
+          target: cs/2022-02/13/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q2/2022_Q2_13-inside-story.mp3
+          target: cs/2022-02/13/inside-story

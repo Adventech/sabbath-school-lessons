@@ -1,7 +1,7 @@
 ---
   default:
-    name: "Standardowy dorosły"
+    name: "Dorosły"
     order: 100
   rt:
-    name: "Młody dorosły"
+    name: "Młodzież"
     order: 200

@@ -1,0 +1,22 @@
+---
+  title: "Yaratılış"
+  description: "Yaratılış Kitabı İsa hakkındadır: Yaratcımız olan, Gözeticimiz olan ve Kurtarıcımız olan İsa’dır. Yaratılış kitabının Musa tarafından yazılmasından bin yıldan fazla sonra, elçi Yuhanna o çağlara, atanın kendi sözlerine geri dönerek Yaratılış öyküsünde İsa’yı ortaya çıkarıyor: “Başlangıçta Söz vardı. Söz Tanrı’yla birlikteydi ve Söz Tanrı’ydı. Başlangıçta O, Tanrı’yla birlikteydi. Her şey O’nun aracılığıyla var oldu, var olan hiçbir şey O’nsuz olmadı. Yaşam O’ndaydı ve yaşam insanların ışığıydı” (Yuhanna 1:1–4)."
+  human_date: "Nisan · Mayıs · Haziran 2022"
+  start_date: "26/03/2022"
+  end_date: "24/06/2022"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  splash: true
+  credits:
+    - name: Yazar
+      value: "Jacques B. Doukhan"
+    - name: Editör (English)
+      value: "Clifford R. Goldstein"
+    - name: Kapak
+      value: "Lars Justinen"
+    - name: Sayfa Tasarım
+      value: "Sara Calado ve Marisa Ferreira"
+    - name: Çeviri
+      value: "Bora Şimşek"
+    - name: Redaksiyon
+      value: "Dilara Oliveira"

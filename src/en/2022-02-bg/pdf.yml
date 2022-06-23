@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q2/Beginner/Student/B-22-Q2-L00.pdf'
+      target: en/2022-02-bg/introduction
+      title: Introduction
+      start_date: 26/03/2022
+      end_date: 26/03/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q2/Beginner/Student/B-22-Q2-L01.pdf'
+      target: en/2022-02-bg/01
+      title: Breakfast by the Sea
+      start_date: 26/03/2022
+      end_date: 06/05/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q2/Beginner/Student/B-22-Q2-L02.pdf'
+      target: en/2022-02-bg/02
+      title: Jesus Goes to Church
+      start_date: 07/05/2022
+      end_date: 03/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q2/Beginner/Student/B-22-Q2-L03.pdf'
+      target: en/2022-02-bg/03
+      title: Loaves and Fishes
+      start_date: 04/06/2022
+      end_date: 24/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q2/Beginner/Student/B-22-Q2-Activites.pdf'
+      target: en/2022-02-bg/activities
+      title: Activities
+      start_date: 04/06/2022
+      end_date: 24/06/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q2/Beginner/Student/B-22-Q2-MemoryVerses.pdf'
+      target: en/2022-02-bg/memory-verses
+      title: Memory Verses
+      start_date: 04/06/2022
+      end_date: 24/06/2022

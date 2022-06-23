@@ -100,16 +100,6 @@ const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
 
 const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
 
-const DAYS_MAP = new Map([
-  ['01', 'Saturday'],
-  ['02', 'Sunday'],
-  ['03', 'Monday'],
-  ['04', 'Tuesday'],
-  ['05', 'Wednesday'],
-  ['06', 'Thursday'],
-  ['07', 'Friday'],
-])
-
 let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
     .alias({"b": "branch"})
@@ -136,7 +126,6 @@ let API_HOST = "https://sabbath-school.adventech.io/api/",
     SOURCE_COVER_FILE = "cover.png",
     SOURCE_SPLASH_FILE = "splash.png",
     DIST_DIR = "dist/api/" + API_VERSION + "/",
-    WEB_DIR = "web/content/",
     BIBLE_PARSER_CONFIG = require("./config.js"),
     FIREBASE_DATABASE_LANGUAGES = "/api/" + API_VERSION + "/languages",
     FIREBASE_DATABASE_QUARTERLIES = "/api/" + API_VERSION + "/quarterlies",
@@ -536,14 +525,6 @@ let quarterliesAPI = async function () {
 
     // API
     fs.outputFileSync(`${DIST_DIR}/${language}/quarterlies/index.json`, JSON.stringify(existingQuarterlies));
-
-    // Web
-    fs.outputFileSync(`${WEB_DIR}/${language}/_index.md`, yamlify({
-      quarterlies: existingQuarterlies.map(function (q) {
-        q.path = q.path.replace(/quarterlies\//g, "");
-        return convertDatesForWeb(q)
-      }), type: "quarterly"
-    }));
   }
 };
 
@@ -598,18 +579,6 @@ let quarterlyAPI = async function () {
     // API
     fs.outputFileSync(`${DIST_DIR}${quarterly.path}/index.json`, JSON.stringify({quarterly: quarterly,lessons: lessons}));
     fs.outputFileSync(`${DIST_DIR}${quarterly.path}/lessons/index.json`, JSON.stringify(lessons));
-
-    // Web
-    quarterly.type = "lesson";
-    delete quarterly.index;
-    delete quarterly.id;
-    quarterly.path = quarterly.path.replace(/quarterlies\//g, "");
-    quarterly.lessons = lessons.map(function (l) {
-      l.path = l.path.replace(/(quarterlies|lessons)\//g, "");
-      l.path_index = `${info.language}/${info.quarterly}/${l.id}/01`;
-      return convertDatesForWeb(l);
-    });
-    fs.outputFileSync(`${WEB_DIR}${info.language}/${info.quarterly}/_index.md`, yamlify(convertDatesForWeb(quarterly)));
   }
 };
 
@@ -693,7 +662,8 @@ let dayAPI = async function () {
     for (let bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++) {
       let bibleVersion = iteratorArray[bibleVersionIterator],
           resultBible = {},
-          language = info.language;
+          language = info.language,
+          bibleCopyright = null;
 
       resultRead = day.markdown;
 
@@ -710,6 +680,7 @@ let dayAPI = async function () {
 
       if (bibleVersion.version) {
         language = bibleVersion.lang;
+        bibleCopyright = bibleVersion.copyright;
         bibleVersion = bibleVersion.version;
       }
 
@@ -729,6 +700,10 @@ let dayAPI = async function () {
         resultBible["verses"] = result.verses.reduce(function (result, item) {
           let key = Object.keys(item)[0];
           result[key] = item[key];
+
+          if (result[key] && bibleCopyright) {
+            result[key] += bibleCopyright
+          }
           return result;
         }, {});
         meta.bible.push(resultBible);
@@ -765,24 +740,6 @@ let dayAPI = async function () {
     // API
     fs.outputFileSync(`${DIST_DIR}${_day.path}/index.json`, JSON.stringify(_day));
     fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
-
-    let lesson = getLessonJSON(dayId.replace(dayId.split("/").pop(), ''));
-
-    var slugId = '';
-    let dayName = DAYS_MAP.get(read.id);
-    if (dayName === undefined) {
-      slugId = `${String(dayIndex).padStart(2, '0')} ${read.title}`;
-    } else {
-      slugId = `${String(dayIndex).padStart(2, '0')} ${dayName} ${read.title}`;
-    }
-
-    meta.slug = slug(slugId);
-    meta.aliases = `/${info.language}/${info.quarterly}/${info.lesson}/${info.day}`;
-    meta.lesson = convertDatesForWeb(lesson);
-    meta.cover = lesson.cover;
-
-    // Web
-    fs.outputFileSync(`${WEB_DIR}${info.language}/${info.quarterly}/${info.lesson}/${info.day}.md`, yamlify(convertDatesForWeb(meta)) + resultRead);
   }
 };
 

@@ -1,0 +1,20 @@
+---
+  title: "Księga Rodzaju"
+  description: "Księga początku. Księga Rodzaju jest księgą o Jezusie. Mówi ona o Jezusie jako naszym Stworzycielu, Dawcy Życia i Odkupicielu. Pisząc setki lat po tym, jak Mojżesz napisał już Księgę Rodzaju, sięgając wstecz i nawiązując do słów tego patriarchy, apostoł Jan tak przedstawia Jezusa w swoim opisie stworzenia: „Na początku było Słowo, a Słowo było u Boga, a Bogiem było Słowo. Ono było na początku u Boga. Wszystko przez nie powstało, a bez niego nic nie powstało, co powstało. W nim było życie, a życie było światłością ludzi” (J 1,1-4)."
+  human_date: "Kwiecień · Maj · Czerwiec 2022"
+  start_date: "26/03/2022"
+  end_date: "24/06/2022"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  splash: true
+  credits:
+    - name: Kierownik Wydawniczy
+      value: "Mirosław Harasim"
+    - name: Tłumacz
+      value: "Jan Trzeciak"
+    - name: Projektant okładki i typograf
+      value: "Jarosław Kauc"
+    - name: Recenzent
+      value: "dr Julian Hatała"
+    - name: Redaktor i korektor
+      value: "Mirosław Chmiel"

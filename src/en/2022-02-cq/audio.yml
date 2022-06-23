@@ -1,0 +1,30 @@
+---
+  audio:
+    - artist: inVerse Bible
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L01.mp3
+          target: en/2022-02-cq/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L02.mp3
+          target: en/2022-02-cq/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L03.mp3
+          target: en/2022-02-cq/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L04.mp3
+          target: en/2022-02-cq/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L05.mp3
+          target: en/2022-02-cq/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L06.mp3
+          target: en/2022-02-cq/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L07.mp3
+          target: en/2022-02-cq/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L08.mp3
+          target: en/2022-02-cq/08
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L09.mp3
+          target: en/2022-02-cq/09
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L10.mp3
+          target: en/2022-02-cq/10
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L11.mp3
+          target: en/2022-02-cq/11
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L12.mp3
+          target: en/2022-02-cq/12
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2022-02-inv/audio/INV_2022_Q2_L13.mp3
+          target: en/2022-02-cq/13

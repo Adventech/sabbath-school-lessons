@@ -1,0 +1,52 @@
+---
+title:  Teacher Comments
+date:  13/05/2022
+---
+
+Key Texts: Genesis 15:6, Genesis 17:5, Genesis 18:23.
+
+**Study Focus**: Genesis 15–19, Rom. 4:2–11, Amos 4:11.
+
+#### Part I: Overview
+
+Introduction: In this section we get into the heart of Abraham’s religious experience. This is the moment God makes His covenant with Abram, which is God’s second covenant after His covenant with Noah (Gen. 6:18–9:20). The Abrahamic covenant contains the same requirements as the Noahic covenant. However, unlike the covenant with Noah, the Abrahamic covenant starts with a sacrificial ceremony associated with the promise of a son and a homeland. The covenant is confirmed by a sign. The Abrahamic covenant is, however, different from the covenant with Noah, as well, and contains new elements. It has two sacrificial ceremonies. The sign is the circumcision, and Abram receives the new name of Abraham. Furthermore, the biblical narrative offers two different perspectives of that covenant. While in the covenant with Noah the focus is on God, and the person of Noah is subdued, the covenant with Abraham includes Abraham’s perspective, and, as a result, the course of that covenant develops in a more complicated manner.
+
+**Lesson Themes:**
+
+1.	The Tension of Faith. Abraham’s faith is made of questions and doubts; Abraham believes in God in spite of himself. Abraham’s laughter is made of irony and awe. Abraham’s prayer to God is made of submission and challenges.
+
+2.	The Laws of Hospitality. Abraham’s care for his foreign guests contrasts with the Sodomites’ callousness and threats toward the foreigners.
+
+3.	The Passion of Intercession. Abraham pleads for the wicked in the city of Sodom, hoping that there are enough righteous within to avert destruction.
+
+#### Part II: Commentary
+
+**Abram Believes in the Lord**
+
+Abram’s faith begins with fear and continues with doubts and questions. What Abram fears most is the unknown, which is his future, something he cannot control. This is why Abram relies on the present, thus making his servant Eliezer his heir (Gen. 15:2). So, when God speaks to Abram, He uses a number of expressions that point to the future. The phrase “do not be afraid” often is associated with the promise of descendants. The same promise for the future also is contained in the word magen, “shield” (Gen. 15:1), which echoes the verb magan, “deliver” (Gen. 14:20), which has been used in connection to his past victory. Thus, we see that the God who saved Abram in the past is the same God who will save him in the future. The vision of God as his future inspires in Abram faith in the future: “Abram believed.”
+
+The Hebrew verb he’emin, “believed,” describes more than a sentimental or intellectual process or the mere reference to a creed. In Hebrew, “to believe” is relational, as implied in the root ’aman, “firm,” “reliable.” Relying on God, Abram “believed” that he would have descendants. It is this faith that God “accounted” as “righteousness.” In other words, God “counted” (ESV) this faith as having the same value as righteousness. This view makes sense against the background of ancient Egyptian beliefs. Whereas in ancient Egypt, the weight of human righteousness was evaluated on the basis of counting human works against the weight of the Maat, the divine righteousness. In the case of Abram, his righteousness is evaluated on the basis of the divine works for him. What makes Abram righteous is not the sum of his deeds but his willingness to rely on God’s deeds for him (Rom. 4:2–4).
+
+**Abraham Laughs With the Lord**
+
+Abraham’s immediate reaction to the divine announcement is silent prostration and awe (Gen. 17:17). This is the second time that Abraham prostrates in silence (compare Gen. 17:3). This time, however, his prostration is associated with laughter, the first laughter recorded in the Bible. It is not clear whether this laughter indicates skepticism or expresses his wonder. The fact that laughter takes place in the context of Abraham’s act of worship suggests that wonder is intended. Yet, as soon as Abraham speaks, skepticism prevails. He proposes a reasonable solution. Abraham refers to Ishmael. Abraham’s skeptical recommendation requires God to become specific. God’s promise does not concern Ishmael. In an echo of Abraham’s questions, God responds explicitly with the name of Isaac (Gen. 17:19). Ironically, Isaac means “he laughs,” resonating with Abraham’s laughter.
+
+But this time it is God who laughs, for the name Isaac implies the name of God, as Semitic and biblical linguistic studies of names suggest. In parallel to the name Ishmael, “God has heard,” Isaac’s name also must have carried, at least implicitly, the name of God: “[God] has laughed.” God’s laughter resonates, then, with Abraham’s laughter. Later, Sarah also will laugh. The context of Sarah’s laughter adds to the wonder that is implied in the previous situations. Sarah, who is hiding within the tent, hears about the unbelievable news of birth and then laughs about it. Something strange then happens. Although Sarah had laughed “within herself” (Gen. 18:12, NKJV), her most intimate thoughts are known by the Visitor (Gen. 18:10–13). This exceptional capacity indicates to Abraham and Sarah that they are in the presence of the Lord, which guarantees the wonder of the miraculous birth. To Abraham’s first laughter made of trembling doubt and awe, God responded with a laughter made of irony and promise.
+
+**Abraham Cooks for the Lord**
+
+For the first time, Abraham receives heavenly guests without knowing it. His actions will be remembered as a model of hospitality (compare Heb. 13:2). Instead of engaging right away in the covenant promise, which is the reason for His visit, God enters the human sphere. He will be seen, met, and fed by Abraham. This is a time of siesta. Abraham is sitting before the tent, as if he is waiting, hoping for someone to come. In the desert, not many people pass by. So, when Abraham sees someone from far away, he runs, which is extraordinary, considering his great age (he is 99 years old) and his just having been circumcised (Gen. 17:24). As soon as Abraham has met with the guests, he busily attends to them and prepares a meal for them. After providing water to wash his guests’ feet (Gen. 18:4), Abraham selects the best food for the meal (Gen. 18:6, 7). Abraham involves all his family in this work. Sarah prepares the bread (Gen. 18:6), and the young man, probably Ishmael, prepares the calf (Gen. 18:8). Yet, Abraham humbly qualifies the feast as “a morsel of bread” (Gen. 18:5). Obviously, Abraham’s passion and zeal toward the three visitors derives from his intuition that they hold a special status. The way he addresses one of the visitors as Adonai, “my Lord” (Gen. 18:2, 3, NKJV), suggests that perception. The fact that Abraham offers food and water to the Visitor does not necessarily exclude his recognition of the divine identity. The “human” expression of the visitors, who physically stand (Gen. 18:2), eat (Gen. 18:8), and have articulate conversations (Gen. 18:9), is a part of the divine strategy of the incarnation of God, who comes down to humans. Abraham then stands by them (Gen. 18:8), attentive to their needs and ready to serve them.
+
+**Abraham Bargains Against the Lord**
+
+The verb “stand,” which was just used to describe Abraham serving his guests (Gen. 18:8), reappears now to characterize Abraham’s attitude before God (Gen. 18:22). Actually, the preposition “before,” which follows the verb “stand,” is normally used to describe reverence before God and praying to Him (Deut. 10:8, 1 Kings 17:1, Zech. 3:1). This instance is the first time in the Bible that one person prays on behalf of another person. Even Noah had kept quiet in similar circumstances (Gen. 6:13–22). The Hebrew verb wayyigash, “came near,” suggests Abraham’s hesitation and slow approach to God (Gen. 18:22, 23). Abraham is bold yet remains respectfully conscious of God’s distance. Tactfully, he addresses God with a total of seven questions. Abraham engages God in a bargaining session, moving from 50 down to 10. It has been suggested on the basis of Amos 5:3 that 50 stands for half of a small city, which contains a minimum of 100 men (compare Judg. 20:10). Abraham starts his challenge with the assumption of equal numbers of righteous and wicked in the city. When Abraham reaches the number 10 (Gen. 18:32), he understands that he has now come to the limit and therefore decides that he will not go beyond this number. The number 10 symbolizes the idea of minimum. Significantly, the number 10 is represented by the yod, the smallest letter of the Hebrew alphabet (see Matt. 5:18). Later the number 10 will become in Judaism the minimum required for the worshiping community (minyan). That this minimum of ten righteous would be enough to save the collective community is a concept that prefigures the ministry of the Suffering Servant, who will “justify many” (Isa. 53:11). After six responses God abruptly ends His conversation with Abraham. Although God consented to consult with humans, He remains sovereign in His judgment.
+
+#### Part III: Life Application
+
+Abraham Believes in the Lord. How can we train people to have faith? Why is biblical faith concerned, essentially, with the future? How would you counsel someone who just has lost a loved one to have faith? How can you relate personal faith to hope?
+
+Abraham Laughs With the Lord. Discuss the argument that has sometimes been presented that laughter is from the devil. Search in the Bible (Old Testament and New Testament) for instances of laughter and humor. Why are laughter and humor compatible with true religion? Why is the rejection of laughter often found among religious peoples?
+
+Abraham Cooks for the Lord. How does Abraham’s zeal to prepare good food inspire mission and worship? Find in the Bible (Old Testament and New Testament) moments when food and meals played a crucial role in the ceremonial rites of a covenant with God. Why is food so important in the Bible? Why is asceticism incompatible with biblical values?
+
+Abraham Bargains Against the Lord. Why was Abraham’s boldness and challenge of God’s will an act of faith? How would you apply this example to your experience of prayer? Find cases in the Bible and in history in which a religious person would bargain and make a deal with God.
