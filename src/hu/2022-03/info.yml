@@ -6,7 +6,7 @@
   end_date: "23/09/2022"
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
-    splash: true
+  splash: true
   features:
     - egw-quotes
   credits:
