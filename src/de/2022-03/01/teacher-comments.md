@@ -3,5 +3,52 @@ title:  Lehrerteil
 date:   01/07/2022
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
-<center>Bitte komme später zurück.</center>
+**Schlüsseltext:**
+Psalm 23,2
+
+**Studienschwerpunkt:**
+Psalm 23; Römer 12,18–21
+
+### TEIL I: ÜBERSICHT
+
+Wir begeben uns in diesem Quartal auf eine lange, aber sehr wichtige Reise. Eine Reise zum Sinn des Leidens, des Bösen und des Todes. Ja, Leiden kann als eigenständiges Phänomen der menschlichen Existenz studiert werden; es kann aus wissenschaftlicher oder psychologischer Sicht in Begriffen wie Wahrnehmung, Neigungen und Folgen untersucht werden. Die biblische Sicht des Leides geht jedoch viel tiefer. Die Bibel erklärt den Ursprung des Leides – einen Ursprung, der Gott von jeglicher Verantwortung dafür entbindet, die Sünde ins Leben gerufen zu haben. Die Bibel zeigt auch, wie Gott Leiden als verändernden Rahmen für unsere Bereicherung, unseren Sieg und unser ewiges Leben nutzt. Wenn wir uns das Leben als eine Reise vorstellen, ist Psalm 23 einer der besten Ausgangspunkte, denn er spricht von einem Weg. Dieser Weg führt uns durch die Höhen und Tiefen unseres Lebens. Und was noch wichtiger ist: Jemand leitet uns auf diesem Weg. Dieser Jemand ist mehr als ein Führer; er ist ein fürsorglicher und liebender Hirte. Die wichtigsten Fragen für unsere Reise, für unsere Höhen und Tiefen sind: Kennen wir den Hirten? Vertrauen wir ihm, was auch immer geschieht und wohin er uns führen will?
+
+**Themen der Lektion**
+
+Die Lektion dieser Woche beleuchtet drei Hauptthemen.
+
+1. Es ist sehr wichtig zu verstehen, dass unser Leben eine Reise ist, die verschiedene Wendungen nimmt.
+2. Es ist auch wichtig, nicht zu vergessen, dass dieser Weg nicht chaotisch und zufällig verläuft. Gott ist unser Führer und Hirte und gestattet es vielleicht, dass wir Täler des Leides und des Todes durchqueren, oder er führt uns aktiv dorthin. Aber Gott erwartet nicht, dass wir diese Reise mit verbundenen Augen machen. Vielmehr gibt er uns die sichere Verheißung, dass er uns zur Erlösung führen wird.
+3. Es gibt keine Möglichkeit, die Schmelztiegel des Lebens zu überstehen, wenn wir nicht darauf vertrauen, dass unser Hirte uns durch sie hindurchführt.
+
+### TEIL II: KOMMENTAR
+
+**Die beiden Wege**
+
+Eine biblische Darstellung des Lebens ist die eines Weges durch eine Landschaft. Dieser Weg folgt einer Bahn von der Geburt bis zum Tod. Es gibt nicht nur einen, sondern zwei Wege. Der erste ist der gute Weg, der Weg der Gerechtigkeit oder Rechtschaffenheit (Spr 8,20), der zu Wohlstand und Leben führt (Ps 1,2–3), denn Gott selbst ebnet den Weg (Spr 2,8; Jes 26,7). Diejenigen, die auf dem guten oder gerechten Weg gehen, werden von dem göttlichen Wort geleitet, das ihrem Fuß in der Dunkelheit des Lebens als Leuchte dient (Ps 119,105). Schließlich wird ihr Weg allmählich heller als der Mittag (Spr 4,18). Diejenigen, die diesen Weg gehen, erkennen Gott auch in allen Aspekten des Lebens an (Spr 3,5–6). Obwohl dieser Weg zum Leben führt, ist er schmal, und nur wenige gehen auf ihm (Mt 7,14). Der zweite Weg ist der schlechte oder sündige Weg. Das ist der breite Weg, der zu Ungerechtigkeit, oberflächlicher Existenz und Tod führt (Ps 1,4–5; Spr 14,12; Mt 7,13).
+
+Die Wege unseres Lebens sind für Gott sichtbar; er prüft sie (Spr 5,21) und warnt uns: „Komm nicht auf den Pfad der Gottlosen und tritt nicht auf den Weg der Bösen“ (Spr 4,14; siehe auch Ps 1,1). Wenn jemand auf dem falschen, sündigen Weg ist, ruft Gott ihn oder sie auf, auf den guten Weg zu wechseln: „So wahr ich lebe, spricht Gott der HERR: Ich habe kein Gefallen am Tode des Gottlosen, sondern dass der Gottlose umkehre von seinem Wege und lebe. So kehrt nun um von euren bösen Wegen. Warum wollt ihr sterben, ihr vom Hause Israel?“ (Hes 33,11).
+
+Aus diesem kurzen Bibelstudium ergeben sich zwei Schlussfolgerungen. 1. Ja, das Ende eines jeden der beiden Wege ist vorbestimmt: Der Weg der Gerechtigkeit führt zum Leben, der Weg der Ungerechtigkeit zum Tod. Aber ob wir uns für den einen oder den anderen Weg entscheiden, hängt von uns ab. 2. Wenn wir uns für den Weg der Gerechtigkeit entscheiden, verspricht Gott, dass der Weg der Gerechtigkeit uns zum Leben führen wird. Ja, der Weg der Gerechtigkeit mag schmal sein; er mag uns auf dunkle Berge oder durch Täler führen, die vielleicht zusätzliches Licht, Nahrung, Ausdauer, Geduld oder Kraft erfordern. Aber der Weg der Gerechtigkeit wird mit Licht, Glück und Leben enden. Durch den Propheten Jesaja verheißt Gott denen, die auf ihn vertrauen, dass sein Weg zu einer Straße wird, die leicht zu begehen ist: „Und dort wird eine Straße sein und ein Weg, und er wird der heilige Weg genannt werden. Kein Unreiner wird darüber hinziehen, sondern er wird für sie sein. Wer auf dem Weg geht – selbst Einfältige werden nicht irregehen“ (Jes 35,8 EB).
+
+**Religion als Weg**
+
+Wie in anderen östlichen Weltanschauungen stellt die Bibel das Konzept der „Religion“ als einen Weg oder eine Reise dar. „Henoch wandelte mit Gott … 300 Jahre“
+(1 Mo 5,22 EB). Der Prophet Micha schildert eine Zeit, in der viele Menschen aus aller Welt sagen werden: „Kommt, lasst uns hinauf zum Berge des HERRN gehen …, dass er uns lehre seine Wege und wir in seinen Pfaden wandeln! … Ein jedes Volk wandelt im Namen seines Gottes, aber wir wandeln im Namen des HERRN, unseres Gottes, immer und ewiglich! (Mi 4,2.5). Gott ruft sein Volk auf, treu vor ihm zu wandeln
+(1 Kön 3,14; 9,4; Spr 10,9; Sach 3,7), und wenn es vom Weg abkommt, ruft Gott es zurück: „Tretet hin an die Wege und schaut und fragt nach den Wegen der Vorzeit, welches der gute Weg sei, und wandelt darin, so werdet ihr Ruhe finden für eure Seele!“ (Jer 6,16).
+
+Das frühe Christentum wurde zunächst „der Weg“ (Apg 9,2; 19,9.23; 22,4; 24,14.22) oder der „Weg des Heils“ (Apg 16,17) genannt. Apollos wurde „im Weg des Herrn unterwiesen“ und erhielt noch mehr Unterweisung, während er sich auf diesem Weg befand (Apg 18,25–26 EB). Auch der Apostel Paulus verbindet Religion mit „wandeln“ und betont, dass Christen „nicht mehr wandeln … [sollen], wie auch die Nationen wandeln, in Nichtigkeit ihres Sinnes“ (Eph 4,17 EB). Der Apostel Johannes ermahnt uns, in Gottes Geboten und in seiner Liebe zu „wandeln“ (2 Joh 1,6).
+
+Jesus erklärte über sich selbst: „Ich bin der Weg und die Wahrheit und das Leben; niemand kommt zum Vater denn durch mich“ (Joh 14,6). Die Kombination aus „Weg“, „Wahrheit“ und „Leben“ bildet drei wichtige Säulen der christlichen Religion. Nun können wir uns fragen: Ist die christliche Religion wichtig? Ist sie heute noch relevant? Es stimmt, dass die Geschichte des Christentums von Abtrünnigkeit, Missbrauch, Täuschung und Korruption geprägt und das Christentum immer wieder vom Weg Christi abgewichen ist. Aber das bedeutet nicht, dass es keinen Weg der Gerechtigkeit gibt, dem man folgen kann. Jesus bleibt der Weg und er verspricht uns, dass sein Weg die Wahrheit ist und er uns zum Leben, zum ewigen Leben, führen wird. Jesus ist nicht nur der Weg; er ist auch, wie er von sich selbst sagt, „der gute Hirte“ (Joh 10,11). Was bedeutet das? Jesus erklärt es: Ich „kenne die Meinen und die Meinen kennen mich“ (V. 14), auch die Schafe aus anderen Herden (siehe V. 16). Mehr noch: Jesus als „gute[r] Hirte lässt sein Leben für die Schafe“ (V. 11; siehe auch V. 15) und wird „ihnen das ewige Leben [geben], und sie werden nimmermehr umkommen, und niemand wird sie aus meiner Hand reißen“ (V. 28). Christus auf seinem Weg zu folgen, dem Weg seiner Gerechtigkeit, ist also der einzige und sichere Weg zum Leben (Apg 4,12). Auch wenn er schmal ist, auch wenn er Tücken hat, ist er der einzige und beste Weg zum Leben. Unser Hirte wird uns dorthin führen.
+
+Das westliche Konzept und Wort „Religion“ kommt vom lateinischen re (wieder) + ligare (verbinden, binden) – wieder binden, neu verbinden. Obwohl der Begriff im christlich-abendländischen Umfeld entwickelt wurde, ergibt er auch aus biblischer Sicht Sinn und kann mit der biblischen Auffassung von Religion als „Weg“ und „Reise“ in Verbindung gebracht werden. Als die Menschheit den Weg ins Verderben einschlug, verloren wir die Verbindung zu Gott. Religion ist der Prozess, durch den Menschen und Gott wieder in Verbindung gebracht werden. Aber wie verbinden wir uns wieder mit Gott? Wenn Religion ein „Weg“ oder eine „Reise“ ist, dann ist sie kein Phänomen außerhalb von Zeit und Geschichte wie in den heidnischen mythologischen oder philosophischen Religionen. Vielmehr ist nach biblischer Auffassung Religion (oder die Wiederverbindung des Menschen mit dem Göttlichen) ein Prozess in Zeit und Raum. Sie ist eine persönliche und historische Reise, sowohl für Gott als auch für uns. Gott kommt zu uns und begegnet uns dort, wo wir sind, in der Weltgeschichte. Ein weiterer Unterschied zwischen heidnischen Religionen und biblischer Religion besteht darin, dass in den heidnischen Religionen die Menschen sich selbst einen Weg bahnen müssen, um zur Welt der Götter zu gelangen, um sich ihre Gunst zu verdienen, um mit ihnen wieder in Verbindung zu treten oder um ihre Geheimnisse oder das Geheimnis des ewigen Lebens zu stehlen. In der biblischen Religion hingegen ist es Gott selbst, der uns den Weg bahnt. Er kommt zu uns, um uns zu retten, uns auf den Weg des Lebens zurückzubringen, um uns zu sich selbst zurückzubringen. In der Tat wird er selbst zum Weg, zum Führer und zum Hirten. Er geht mit uns durch dieses Tal und führt uns auf dem Weg der Wiederverbindung mit Gott. Das ist die Religion Gottes, die Religion der Gnade!
+
+### TEIL III: ANWENDUNG
+
+`1. Überprüft den Weg eures Lebens. Auf welchem Weg befindet ihr euch? Was könnt ihr tun, um sicherzustellen, dass ihr auf dem Weg der Gerechtigkeit seid, der euch zum ewigen Leben führt?`
+
+`2. Seid ihr anderen Menschen begegnet, die auf demselben Weg sind wie ihr? Seid ihr Menschen auf einem Weg begegnet, der in die entgegengesetzte Richtung führt? Was könnt ihr tun, um anderen zu helfen, den Weg von und zu Jesus zu wählen?`
+
+`3. Wir können unserem Hirten vertrauen, dass er uns durch die Schmelztiegel des Lebens führt, denn bevor er uns durch die Schmelztiegel gehen lässt, ist er selbst durch diesen Schmelztiegel gegangen. Aber es gibt einen wesentlichen Unterschied zwischen seinem Schmelztiegel und unserem. Viele unserer Schmelztiegel sind durch uns selbst oder andere Menschen oder durch die Folgen der Sünde im Allgemeinen verursacht. Der Schmelztiegel des Hirten wurde durch uns verursacht und er hat ihn als Opfer auf sich genommen, stellvertretend für uns und um uns zu erlösen. Wie hilft euch dieses Verständnis dabei, durch Leiden zu gehen?`
+
+`4. Nennt zwei Schmelztiegel, durch die ihr in letzter Zeit gegangen seid. Zeigt Gottes Führung und Fürsorge für euch in diesen Erfahrungen auf.`
