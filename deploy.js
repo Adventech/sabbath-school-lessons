@@ -425,7 +425,6 @@ let getDayJSON = function (dayPath, deep) {
   let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer}),
       info = getInfoFromPath(dayPath);
 
-  console.log(dayPath)
   let day = _day.meta;
   day.id = info.day;
   day.index = `${info.language}-${info.quarterly}-${info.lesson}-${info.day}`;
