@@ -17,6 +17,6 @@ Nach einigen Minuten des Gebets schlug Mutter vor, dass sie aus dem Haus gehen s
 
 Als sie wieder draußen waren, sahen sich Junior und Mutter Vater genauer an. Ganze Haarbüschel fehlten auf seinem Kopf. Es sah aus, als hätte jemand eine Schere genommen und ihm wahllos Haare abgeschnitten. Vater zuckte zusammen, dann meinte er: „Ich werde mir den Kopf rasieren müssen. Aber es ist mir egal, ob ich eine Glatze habe.“
 
-Als am Sabbatmorgen die Sonne aufging, fühlte sich Vater furchtbar müde. Nach dem nächtlichen Angriff der bösen Geister war er ungewöhnlich schwach, so als wäre er heftig verprügelt worden. Er beschloss, zu Hause zu beten, anstatt in die Gemeinde zu gehen. Er betete: „Jesus, lass sie nicht von meinem Körper ­Besitz ergreifen. Bitte sei mir nahe. Ich will nicht mehr besessen sein.“
+Als am Sabbatmorgen die Sonne aufging, fühlte sich Vater furchtbar müde. Nach dem nächtlichen Angriff der bösen Geister war er ungewöhnlich schwach, so als wäre er heftig verprügelt worden. Er beschloss, zu Hause zu beten, anstatt in die Gemeinde zu gehen. Er betete: „Jesus, lass sie nicht von meinem Körper Besitz ergreifen. Bitte sei mir nahe. Ich will nicht mehr besessen sein.“
 
 Als er seine Bibel aufschlug, las er Psalm 37,5: „Befiehl dem HERRN deine Wege und hoffe auf ihn, er wird’s wohlmachen.“ Er verstand, dass Jesus ihm sagte, er brauche keine Angst zu haben. Jesus würde ihn zu seiner Taufe führen. Die bösen Geister suchten Vater nach dieser Freitagnacht nie wieder heim. Aber er konnte sie immer noch hören.

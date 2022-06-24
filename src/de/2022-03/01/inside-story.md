@@ -7,7 +7,7 @@ date:   01/07/2022
 
 _Andrew McChesney, Adventist Mission_
 
-„Eduardo Ferreira dos Santos!“, rief Mutter. „Komm rein und dusch dich vor dem Mittagessen.“ Erhitzt vom Skateboard-Fahren lief Eduardo Richtung Küche; er ­ignorierte eine Frau, die im Wohnzimmer saß und darauf wartete, dass sie ihre Nägel lackiert bekam. Die Mutter betrieb in ihrem Haus einen Schönheitssalon.
+„Eduardo Ferreira dos Santos!“, rief Mutter. „Komm rein und dusch dich vor dem Mittagessen.“ Erhitzt vom Skateboard-Fahren lief Eduardo Richtung Küche; er ignorierte eine Frau, die im Wohnzimmer saß und darauf wartete, dass sie ihre Nägel lackiert bekam. Die Mutter betrieb in ihrem Haus einen Schönheitssalon.
 
 Bevor Eduardo die Küche erreichte, wurde er von seiner zwölfjährigen Schwester aufgehalten. „Setz dich hin und hol erst mal Luft“, sagte sie. Eduardo ließ sich gehorsam auf einen Stuhl im Flur plumpsen. Sofort entwich ihm ein Fluch. Sein Körper begann zu krampfen. Die Mutter eilte zu dem Jungen. Eine tiefe, verzerrte Stimme sprach aus Eduardos Mund und befahl der Mutter, ihren Sohn auszuliefern oder ihn sterben zu sehen. Die Mutter begann zu weinen. Die Frau kam aus dem Wohnzimmer und sagte: „Machen Sie sich keine Sorgen. Ihr Sohn ist auserwählt worden, Teil unserer Gruppe zu sein. Ich bin eine Candomblé-Leiterin.“
 

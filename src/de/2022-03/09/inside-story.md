@@ -7,7 +7,7 @@ date:   26/08/2022
 
 _Andrew McChesney, Adventist Mission_
 
-Nach Mutters Taufe hatte der Vater einen schweren geistlichen Kampf zu ­bestehen. Böse Geister suchten ihn nachts heim und er konnte kaum schlafen. Immer wenn er besessen war und Mutter sah, schürten die Geister Hass gegen sie. Vater und Mutter stärkten ihren Glauben, indem sie jeden Tag beteten und das Bibelstudienheft durcharbeiteten. Vater lernte, täglich Zeit mit Gott im Gebet zu verbringen.
+Nach Mutters Taufe hatte der Vater einen schweren geistlichen Kampf zu bestehen. Böse Geister suchten ihn nachts heim und er konnte kaum schlafen. Immer wenn er besessen war und Mutter sah, schürten die Geister Hass gegen sie. Vater und Mutter stärkten ihren Glauben, indem sie jeden Tag beteten und das Bibelstudienheft durcharbeiteten. Vater lernte, täglich Zeit mit Gott im Gebet zu verbringen.
 
 Die Mutter vertraute Gott und spürte seine ständige Fürsorge. Sie fand Glauben und Zuversicht in der Bibel und einige Verse halfen ihr besonders während Vaters Kampf mit bösen Geistern. „So seid nun Gott untertan. Widersteht dem Teufel, so flieht er von euch“, las sie in Jakobus 4,7. „Aber der Herr ist treu; der wird euch stärken und bewahren vor dem Bösen“, las sie in 2. Thessalonicher 3,3. Sie berief sich auf die Verheißung Jesu in Johannes 10,10: „Ein Dieb kommt nur, um zu stehlen, zu schlachten und umzubringen. Ich bin gekommen, damit sie das Leben haben und volle Genüge.“ Wenn sie einen Bibelvers fand, der ihr half oder ihr Hoffnung gab, schrieb sie ihn in ein spezielles Tagebuch und betete diese Verse während ihrer morgendlichen Gebetszeit um fünf Uhr.
 
