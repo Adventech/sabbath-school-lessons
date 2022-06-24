@@ -16,4 +16,3 @@ Az édesanya elkezdett sírni. Az idegen a nappaliban odamenet hozzá és ezt mo
 Az édesanya elvitte a fiát a candomblé templomba, ahol bevezették a szellem­imádatba. Később főpap lett. A gonosz lelkek megtiltották neki, hogy átkot mondjon hetednapi adventistákra és egyéb protestánsokra, mert szerintük ők védettek, és ha mégis megteszi, elveszítheti erejét. Még szóba sem állhatott velük.
 
 Eduardo élettársi kapcsolatot létesített Sidilene Silva de Oliveirával, és született egy fiuk, Eduardo Junior. Az élet békésen telt egészen addig a napig, amíg Junior azt nem mondta, hogy csatlakozni akar a Hetednapi Adventista Egyházhoz.
-
