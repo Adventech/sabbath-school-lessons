@@ -1,0 +1,3 @@
+### En el crisol con Cristo
+
+Durante estos próximos meses buscaremos entender mejor la incomprensible: nuestro propio sufrimiento, el sufrimiento de los cristianos, de aquellos que han entregado su vida a Cristo. No pretendemos tener todas las respuestas ni mucho menos; solo afirmamos que “Dios es amor” (I Juan 4:8) y que, aunque estas cosas suceden, podemos confiar en Dios a pesar de ellas y, por cierto, crecer en gracia por medio de ellas, sin importar cuán doloroso sea el proceso.
