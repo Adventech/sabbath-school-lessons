@@ -253,3 +253,19 @@
         - src: https://thesoundofscripture.blob.core.windows.net/audio/Matthew_27_46_NKJV.mp3
           title: Memory Verse - Matthew 27:46 NKJV
           target: en/2022-03/13
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-25.mp3
+          target: en/2022-03/01/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-26.mp3
+          target: en/2022-03/01/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-27.mp3
+          target: en/2022-03/01/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-28.mp3
+          target: en/2022-03/01/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-29.mp3
+          target: en/2022-03/01/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/06/2022-06-30.mp3
+          target: en/2022-03/01/06
