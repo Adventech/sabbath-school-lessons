@@ -19,3 +19,5 @@
           target: es/2022-03/01/07
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-2-SABADO.mp3
           target: es/2022-03/02/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-2-DOMINGO.mp3
+          target: es/2022-03/02/02
