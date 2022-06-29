@@ -1,0 +1,13 @@
+### Introduction
+
+As His final creative act during creation week, God created holy time. Without the record of God declaring the seventh day holy, nothing would differentiate the time on the first day from that on the seventh. Accepting the creation narrative as the authoritative account of origins requires faith (Heb. 11:3). In the same manner, embracing the holiness of the Sabbath is a faith venture. Faithfully observing the Sabbath facilitates an allegiance to the God who created the world in six literal days by His Word.
+
+Coming to us pristine from the Garden of Eden, the Sabbath teaches lessons as it is kept, meditated upon, and shared. It is a microcosm of salvation theology, a harbinger of faith, and an indication of one’s fealty. Given as a gift to all of humanity at the beginning of time, it enshrines an understanding of God’s character as revealed through His work. Those who keep it are themselves kept from a myriad of pitfalls in their Christian walk, and they may experience joy in their journey with Jesus.
+
+True Sabbath-keeping has implications beyond one’s behavior on the seventh day. In order to enter into the rest of the Sabbath, proper preparation is required, because Sabbath observance is more than a legalistic cessation of labor. The Christian must enter into the spirit of the Sabbath that transcends the day. Civic engagement, social benevolence, and environmental concern are the natural outflow of being a Sabbath keeper.
+
+The depth and breadth of the meaning of the Sabbath could not possibly be encapsulated in this abbreviated thirteen-week study. Rather, these lessons present a few reflections on the Sabbath. They are an invitation to engage the Sabbath experience more meaningfully, regardless of whether someone has always known about the Sabbath or if the concept is new to them.
+
+This study is not primarily an apologetic presentation of the Sabbath. It does not seek to answer objections, common or uncommon, to the Sabbath. Nor does it seek to establish the validity of a seventh-day Sabbath. We assume the Sabbath is a holy stretch of time extending from sunset to sunset every seventh day of the week. There are a myriad books, articles, and oral presentations that address arguments against the Sabbath—this is not one of them. This is not a defense of the Sabbath.
+
+At the end of these lessons, it is our prayer that you will more fully delight in the Sabbath day. May these studies challenge any false preconceived notions about what it means to truly rest in Jesus. And may your Sabbath observance take on a renewed vivacity.

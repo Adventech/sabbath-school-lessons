@@ -1,0 +1,10 @@
+---
+  default:
+    name: "Standardausgabe"
+    order: 100
+  cq:
+    name: "imWort"
+    order: 200
+  iv:
+    name: "imWort"
+    order: 200

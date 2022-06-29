@@ -1,0 +1,48 @@
+---
+title:  Komen Guru
+date:  22/07/2022
+---
+
+**Ayat-ayat Utama**: 1 Petrus 1:6
+
+**Fokus Kajian**: Kel. 14, 15:22–27, 17:1–7, Ams.l 3, Luk. 4:1–13, 1 Pet. 1:6–9.
+
+#### Bahagian 1: Gambaran Keseluruhan
+
+Pelajaran minggu ini memfokuskan kepada ujian penyucian. Penyucian memerlukan standard. Dalam kes kita, standard adalah imej Tuhan dalam kita dan imej Yesus Kristus, yang merupakan pantulan sempurna imej Tuhan (Ibr. 1:3). Penyucian juga memerlukan agen penyucian, yang sering dinyatakan oleh Alkitab sebagai api (1 Pet. 1:7, Why. 3:18). Hasil penyucian ialah tabiat kita, dilambangkan oleh minyak dalam pelita sepuluh anak dara dalam perumpamaan Yesus (Mat. 25:1-13). Kitab Daniel menggambarkan karakter mereka yang disucikan sebagai "bijaksana" dalam perkara Tuhan (Dan. 1:19, 20; Dan. 2:47, 48; Dan. 3:26-30).
+
+Tema Pelajaran: Pelajaran minggu ini menyerlahkan empat tema utama:
+
+1.	Pertama, peranan penting penderitaan dalam proses pembentukan dan pemurnian karakter.
+
+2.	Kedua, kita akan melihat bahawa pembentukan tabiat adalah pemulihan imej Tuhan dalam diri manusia, kerana mereka diciptakan oleh Tuhan pada mulanya, serta membentuk tabiat kita mengikut imej Kristus.
+
+3.	Ketiga, pembentukan tabiat ini melibatkan tema konflik kosmik. Dalam konflik antara yang baik dan yang jahat inilah, antara Tuhan dan Syaitan,   kita mengalami ujian kematangan.
+
+4.	Keempat, pemurnian dan kematangan tidak pernah dicapai oleh individu dalam keterasingan; sebaliknya, pemurnian dan kematangan dicapai oleh individu-individu dalam komuniti.
+
+#### Bahagian II: Ulasan
+
+Ellen G. White Mengulas Tentang Penderitaan Ujian
+
+Subjek hubungan antara ujian dan pemurnian adalah sangat penting. Ulasan Ellen G. White mengenai perkara ini adalah membuka pikiran dan relevan. Dalam salah satu buku utamanya, dia memetik surat John Huss kepada seorang kawan di mana Huss mengaitkan penderitaan Yesus dengan penderitaan kita. Dalam surat yang sama, Huss juga mengaitkan penderitaan dengan penyucian: “Yesus Kristus menderita untuk umat kesayanganNya;  oleh itu patutkah kita tercengang bahawa Dia telah meninggalkan teladanNya kepada kita, supaya kita sendiri boleh menanggung segala sesuatu dengan kesabaran untuk keselamatan kita sendiri? Dia adalah Tuhan, dan kita adalah makhlukNya; Dia adalah Tuhan, dan kita adalah hambaNya; Dia adalah Penguasa dunia, dan kita adalah manusia yang hina—namun, Dia menderita! Jadi, mengapakah kita tidak harus menderita juga, terutama jika penderitaan adalah penyucian bagi kita? Oleh itu, saudara-saudara kekasih, jika kematianku  harus menyumbang kepada kemuliaanNya, berdoalah agar kematian itu datang dengan segera, agar Dia memampukan aku untuk menahan semua malapetakaku dengan penuh keteguhan.”—Ellen G. White, The Great Controversy, hlm. 105.
+
+Di tempat lain, Ellen G. White menulis dengan nada yang sama: “Janganlah mengeluh dengan pahit tentang pencubaan yang menimpa kamu, tetapi biarkan matamu tertuju kepada Kristus, yang telah melapisi keilahianNya dengan kemanusiaan, agar kita dapat memahami betapa besarnya kepeduliannya terhadap kita kerana dia telah menyamakan dirinya dengan manusia yang menderita. Dia telah merasakan cawan kesedihan manusia, Dia menderita dalam semua kesengsaraan kita, Dia telah menjadi sempurna melalui penderitaan, dicobai dalam segala hal seperti manusia dicobai, supaya Dia dapat menolong mereka yang berada dalam pencobaan. Dia berkata, ‘Aku akan menjadikan seseorang lebih berharga daripada emas murni, bahkan seorang manusia daripada jongkong emas Ofir.’ Dia akan menjadikan seseorang itu berharga dengan tinggal bersamanya, dengan memberikan kepadanya Roh Kudus. Dia berkata, 'Jadi jika kamu, yang jahat, tahu memberikan pemberian yang baik kepada anak-anakmu, apatah lagi Bapamu yang di sorga akan memberikan Roh Kudus kepada mereka yang meminta kepadaNya?'”—Ellen G. White, The Signs of the Times, 5 Mac 1896.
+
+Kepada anggota gereja yang dikendalikan oleh nafsu makan, dia menulis: “Sekarang dia harus menganggarkan ganjaran yang kekal, harta di syurga, warisan abadi, mahkota kemuliaan yang tidak luntur, sehingga dia dapat dengan riang mengorbankan kepuasan nafsu makan yang rosak, biarlah akibatnya atau penderitaan menjadi begitu besar, untuk menyelesaikan pekerjaan penyucian daging dan roh.”—Ellen G. White, Testimonies for the Church, vol. 2, hlm. 99.
+
+Kepada Saudara G, Ellen G. White menulis surat yang menerangkan hubungan antara penderitaan dan penyucian dalam umat Adventist yang bersiap untuk kedatangan Yesus yang kedua: “Pemurnian umat Tuhan tidak dapat dicapai tanpa penderitaan mereka. Tuhan mengizinkan api penderitaan memakan kotoran, memisahkan yang tidak berharga dari yang berharga, sehingga logam murni dapat bersinar. Dia memindahkan kita dari satu api ke api yang lain, menguji nilai sebenar kita. Jika kita tidak dapat menanggung ujian ini, apakah yang akan kita lakukan pada masa kesusahan? Jika kemakmuran atau kesusahan membongkar kepalsuan, kesombongan, atau keegoisan dalam hati kita, apakah yang akan kita lakukan apabila Tuhan menguji setiap pekerjaan manusia seperti melalui api, dan menyingkap rahsia semua hati? Rahmat sejati bersedia dicobai; jika kita enggan diperiksa oleh Tuhan, keadaan kita sungguh serius. Tuhan adalah pemurni dan penyucian jiwa; dalam relau yang panas kekotoran dipisahkan selama-lamanya daripada perak dan emas yang tulin. Demikian juga  karakter Kristian. Yesus melihat ujian itu. Dia mengetahui apa yang diperlukan untuk memurnikan logam berharga itu agar ia dapat memantulkan pancaran kasih ilahiNya.”—Testimonies for the Church, vol. 4, ms 85, 86.
+
+Dia meneruskan topik ini dalam cara mendalam yang sama: “Tuhan membawa umatNya mendekatiNya dengan pencubaan yang menguji, dengan menunjukkan kepada mereka kelemahan dan ketidakmampuan mereka sendiri, dan dengan mengajar mereka untuk bersandar kepadaNya sebagai satu-satunya pertolongan dan perlindungan mereka. Maka tujuanNya tercapai. Mereka bersedia untuk digunakan dalam setiap kecemasan, untuk mengisi kedudukan penting yang diamanahkan, dan untuk mencapai tujuan-tujuan besar yang mana untuk itulah  mereka diberikan kuasa. Tuhan membawa manusia ke dalam ujian; Dia menguji mereka di sebelah kanan dan di sebelah kiri, dan dengan itu mereka terdidik, terlatih, berdisiplin.  Yesus, Penebus kita, wakil dan ketua manusia, menanggung proses ujian ini. Dia menderita lebih daripada ujian yang mana kita diminta untuk menanggungnya. Dia menanggung kelemahan kita dan dalam semua perkara digoda seperti kita. Dia tidak menderita sedemikian atas  kesalahanNya sendiri, tetapi kerana dosa kita; dan sekarang, bergantung pada jasa Pemenang kita, kita boleh menjadi pemenang dalam namaNya.
+
+“Pekerjaan Tuhan untuk memurnikan dan menyucikan mesti diteruskan sehingga hamba-hambaNya menjadi sangat rendah hati, mati kepada diri sendiri, sehingga, apabila dipanggil untuk melayani secara aktif, mata mereka akan tertuju kepada kemuliaanNya. Dia kemudiannya akan menerima usaha mereka; mereka tidak akan bertindak terburu-buru atas  dorongan hati; mereka tidak akan tergesa-gesa dan membahayakan tujuan Tuhan, menjadi hamba kepada godaan dan nafsu dan pengikut fikiran daging mereka sendiri yang diapi-apikan oleh Iblis. Oh, betapa dahsyatnya pekerjaan Tuhan dicemari oleh kehendak manusia yang sesat dan perangai yang tidak terkendali!  Betapa banyak penderitaan yang ditimbulkannya atas dirinya sendiri dengan mengikuti hawa nafsunya yang keras kepala! Tuhan membawa manusia ke dalam ujian berkali-kali, meningkatkan tekanan sehingga kerendahan hati yang sempurna dan perubahan tabiat membawa mereka ke dalam keselarasan dengan Kristus dan roh syurga, dan mereka menjadi pemenang atas diri mereka sendiri.”—Testimonies for the Church, vol. 4, hlm. 86.
+
+#### Bahagian III: Penerapan  Hidup
+
+1.	Kita telah mengetahui bahawa kita disucikan daripada dosa-dosa kita melalui pengorbanan Yesus sebagai pengganti. Tetapi kita juga telah mengetahui bahawa kita disucikan oleh penderitaan. Adakah terdapat percanggahan antara kedua-dua idea ini? Tidak sama sekali. Kita dibenarkan oleh kasih kurnia Tuhan, dan kita menerima pengampunan dosa-dosa oleh iman; dengan itu, kita diasingkan untuk Tuhan dan hidup untuk Tuhan. Pembenaran dan pengampunan adalah deklarasi dan pengalaman rohani yang mendalam. Tetapi kemudian, kita meneruskan pengalaman kasih kurnia  dalam konteks kontroversi besar, di mana kita diuji dan di mana kita membuktikan diri kita setia dan mengsihi Tuhan kita. Dalam pengalaman ini, kita mendapati bahawa banyak kali kita mungkin gagal. Kita juga menemui sifat-sifat  tersembunyi yang mesti ditinggalkan. Kita membersihkan sifat-sifat ini melalui kasih kurnia Tuhan.  Pemurnian adalah pengalaman sebenar yang berlaku kepada orang sebenar dalam sejarah sebenar. Bagaimanakah pemahaman ini membantu anda dalam pengalaman penyucian anda? Dalam cara apakah anda secara peribadi telah menyedari bahawa Roh Kudus sedang memurnikan karakter  anda?
+
+2.	Bagaimanakah anda mengalami secara berterusan merenungkan imej Kristus dalam hidup anda? Bagaimanakah anda mengalami perubahan karakter  dan keperibadian anda sesuai dengan imejNya?
+
+3.	Dalam cara apakah anda telah mengalami pertumbuhan yang lebih matang dalam iman anda sebagai individu? Bagaimanakah anda boleh menerangkan pertumbuhan ini?
+
+4.	Bagaimanakah komuniti iman anda telah matang secara rohani? Dalam cara apakah orang lain, di dalam dan di luar komuniti iman anda, melihat pertumbuhan yang sama? Terangkan apa yang anda dan ahli komuniti anda anda yang lain telah perhatikan.
