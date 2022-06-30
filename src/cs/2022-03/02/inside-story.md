@@ -25,7 +25,7 @@ V Cliffersonově domě Junior našel několik chlapců, kteří hráli sportovn�
 
 Junior si své nové kamarády oblíbil; od té doby už nevynechal žádné setkání.
 
-Jednoho dne Cliffersonova matka pozvala Juniora, aby šel s rodinou do sboru. Junior byl rád, že může s Cliffersonem trávit více času, a přestal chodit na kurzy bojových umění. Matce neřekl, že navštěvuje Společenství Církve adventistů sedmého dne. Řekl jen, že jde ven.
+Jednoho dne Cliffersonova matka pozvala Juniora, aby šel s rodinou do sboru. Junior byl rád, že může s Cliffersonem trávit více času, a přestal chodit na kurzy bojových umění. Matce neřekl, že navštěvuje Alpha společenství sboru Církve adventistů sedmého dne. Řekl jen, že jde ven.
 
 Matka si brzy všimla, že je Junior každou sobotu nedočkavý, aby už mohl opustit dům, a zeptala se ho, co dělá. Ukázal jí kanál na YouTube, kde církev živě vysílala své sobotní bohoslužby a matka se začala dívat.
 
