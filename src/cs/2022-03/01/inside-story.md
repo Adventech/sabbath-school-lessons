@@ -29,6 +29,6 @@ Teprve jedenáctiletý Eduardo se seznámil se spiritismem a uctíváním ďábl
 
 V dospělosti se Eduardo stal veleknězem chrámu. Získával peníze od lidí, kteří chtěli, aby proklel jejich nepřátele. Zlí duchové mu však zakázali proklínat adventisty sedmého dne a další protestantské křesťany. "Oni jsou chráněni," řekli duchové a dodali, že jakýkoli pokus o jejich prokletí by Eduardovi způsobil ztrátu moci. Duchové Eduardovi také zakázali komunikovat s adventisty a dalšími protestanty.
 
-Eduardo si našel manželku Sidilene Silva de Oliveira a měli spolu syna Eduarda Juniora. Život byl klidný, dokud Junior neřekl, že chce vstoupit do Církve adventistů sedmého dne.
+Eduardo si našel družku Sidilene Silva de Oliveira a měli spolu syna Eduarda Juniora. Život byl klidný, dokud Junior neřekl, že chce vstoupit do Církve adventistů sedmého dne.
 
 _Vaše dary třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde Eduardo Ferreira dos Santos žije._
