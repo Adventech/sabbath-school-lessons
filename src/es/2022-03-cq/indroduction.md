@@ -1,4 +1,4 @@
-Introducción general
+### Introducción general
 
 Como su último acto creativo durante la semana de la creación, Dios estableció un tiempo sagrado. Si no existiera el registro escrito de que Dios declaró el séptimo día como santo, nada diferenciaría el tiempo del primer día de la semana del tiempo del séptimo día. Aceptar la narrativa bíblica de la creación como un relato fdedigno de los orígenes requiere fe (Hebreos 11: 3). Igualmente, aceptar la santidad del sábado es un paso de fe. La fel observancia del sábado facilita nuestra lealtad a Dios, que creó el mundo en seis días literales por su palabra.
 
