@@ -3,7 +3,7 @@ title:  Misijní příběh
 date:   01/07/2022
 ---
 
-#### Část 1: Posedlost v jedenácti
+#### Část 1: Posedlý v jedenácti
 
 _Andrew McChesney_
 
@@ -15,7 +15,7 @@ Zpocený a udýchaný Eduardo zamířil rovnou do kuchyně, na sprchu zapomněl 
 
 Než Eduardo došel do kuchyně, zastavila ho jeho dvanáctiletá sestra. "Sedni si a popadni dech," řekla mu.
 
-Eduardo se poslušně svalil na židli. Vzápětí mu ze rtů vyšel příšerný výkřik. Jeho tělo se začalo zmítat v křečích. Matka se k němu vrhla a z Eduardových úst začal promlouvat tichý, zkreslený hlas, který matce říkal, aby syna vydala, nebo se bude dívat, jak umírá. Eduardova matka začala plakat.
+Eduardo se poslušně svalil na židli. Vzápětí mu ze rtů vyšel příšerný výkřik. Jeho tělo se začalo zmítat v křečích. Matka se k němu vrhla a z Eduardových úst začal promlouvat hluboký, zkreslený hlas, který matce říkal, aby syna vydala, nebo se bude dívat, jak umírá. Eduardova matka začala plakat.
 
 "Nebojte se," řekla cizí žena Eduardově matce. "Váš syn byl vybrán do naší skupiny. Jsem vůdce Candomblé."
 
