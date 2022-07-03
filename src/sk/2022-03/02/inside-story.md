@@ -11,9 +11,9 @@ Matka měla o Juniora strach. Obvykle veselý patnáctiletý chlapec se v jejich
 
 "Eduardo, nelíbí se mi, že se Junior učí bojovému umění," řekla svému manželovi.
 
-"Pro mě není problém ho tam vzít," odpověděl. "Ty kurzy jsou jen kousek od chrámu Candomblé, kde pracuji."
+"Pro mě není problém ho vzít," odpověděl. "Ty kurzy jsou jen kousek od chrámu Candomblé, kde pracuji."
 
-"To mi také vadí," řekla matka. "Nevěděla jsem, jestli spolu Capoeira a Candomblé nějak souvisí, ale nechci, aby můj syn dělal obojí."
+"To mi také vadí," řekla matka. "Nevěděla jsem, jestli spolu Capoeira a Candomblé nějak souvisí, ale nechci, aby můj syn dělal ani jedno."
 
 Otec se zamračil, "Junior mi řekl, že ho ve škole šikanují nějací kluci. Proto se rozhodl, že bude chodit na bojová umění."
 
