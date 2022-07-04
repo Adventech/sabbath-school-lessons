@@ -17,7 +17,7 @@ Matka také obdržela zprávu na WhatsApp-u. Otec řekl, že se přestěhoval do
 
 "Nikdy se svého náboženství nevzdám," řekl. "Musíte ho přijmout."
 
-Matka nikdy neslyšela o velkém sporu mezi Kristem a Satanem. Měla však obavy, a proto se setkala s Ricardem Coelhem, pastorem Alpha společenství Církve adventistů sedmého dne. S pláčem se mu svěřila, že otec pracuje jako velekněz Candomblé a rodinu opustil.
+Matka nikdy neslyšela o velkém sporu mezi Kristem a Satanem. Měla však obavy, a proto se setkala s Ricardem Coelhem, pastorem Alpha společenství sboru Církve adventistů sedmého dne. S pláčem se mu svěřila, že otec pracuje jako velekněz Candomblé a rodinu opustil.
 
 Pastor Ricardo matku utěšil, otevřel Bibli a laskavě řekl: "Dovolte mi, abych se s vámi podělil o několik rad." V 1. Korintským 7,3 četl: "Muž ať prokazuje ženě, čím je jí povinen, a podobně i žena muži." V Přísloví 14,1 četl: "Moudrá žena buduje svůj domov, hloupá jej boří svýma rukama." Podíval se na matku a řekl: "Buď svému muži, Eduardovi, dobrou ženou a modli se za něj."
 

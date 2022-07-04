@@ -25,3 +25,9 @@
           target: es/2022-03/02/03
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-2-MARTES.mp3
           target: es/2022-03/02/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-2-MIERCOLES.mp3
+          target: es/2022-03/02/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-2-JUEVES.mp3
+          target: es/2022-03/02/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-2-VIERNES.mp3
+          target: es/2022-03/02/07
