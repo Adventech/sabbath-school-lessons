@@ -1,0 +1,21 @@
+### Panompa na Tarsilang
+
+“Saluhutna i  marhite sian Hata I do, umbahen na manjadi; jala ndang adong  nanggo sada sian naung  jadi i, naso marhite sian I” (Joh 1:3)
+
+“Saluhutna”dijadihon  Ibana, Jesus, alai- manurut hata ni Tuhan ima Bibel- dungi I tarili-ilu ma mata ni Jesus  (Joh 11:35). Tarilu –ilu si panompa? Jala lumobi dope na “dipalea jala dipasidingsiding  halak, nag ok hasusaan dohot na manaon na hassit.  Si panoppa, sahalak nag ok arsak ni roha, marlea jala ndang di terima haadongon na. Jala na hea mandok Ale Debatangku, Debatangku ,boasa tung  tadingkononmu ahu?
+
+Songon dia ma na masa on? Ima  alani Jesus si Panompa hita, na tong songon si Partobus hita, jala alani do Ibana Debata naung  tarsilang – si Panompa na mamakke hajolmaon jala dibagasan hajolmaon I Ibana manaon na susah, angka hahurangan dohot angka sitaonon  na borat jala naung  marujung  di hau pinorsilang  naung digantung ni  halak Romawi.
+
+Jadi, si Panompa hita, Ibana naung adong dibagasan hita, nab oi hita mangolu, marhusor, jala hita adong, na mananon na susah dihajolmaon  na so hea tarasahon boratna naung diataon Ibana I, di hau pinorsilang  ditaon Ibana songoni jala manaon na hassit- saluhutna. Onma songon sada tindakan na nag ok halongangan  na adong dibagasan sejarah ni alam semesta on.
+
+Dohot nang latar belakang  ( Tuhan naung targantung di hau pinorsilang) hita na ikkon piga-piga bulan  tu joloan on, na marusaha na laho mangantusi songon sada na bangkol antusannta- hasusaan ta sandiri, hasusaan ni halak Kristen, jala nasida naung mangalehon dirina sandiri tu Jesus. Jala ndang  na b oi na laho mangkalim bahwa “debat do holongi” jala na ta pe angka on masa. Hita na ikkon boi do porsea tu Debata molo tung pen dang masa sisongoni, na mangodang dibagasan asi ni roha, jala ndang  parduli hita manang tung songon dia pe hassit ni prosesna.
+
+Triwulan on hita na ikkon mamparsiajari hata ni Tuhan jala mamereng na asing nai sian daging dohot sian mudra, nang pen a boi tarida sian haporseaonta, alai mangadopi angka putus asa, penghianatan,kecewa,hamagoan, ketidakadilan. Jala songon dia  ma hita na laho mangadopi i? jala aha do naung diajathon tu hita? jala aha do naung diajarhon sian teladan naung dibahen nasida tu hita?
+
+Saonari boi ma tabereng  nasida, angka pengalamanna,parjuangan  nasida, dohot nang angka pangunjunan  na ro tu haporseaon nasida, jala hita na ikkon mamereng nasida sian latar belakang ni silang. Jala hita na ikkon mangingot bahwa manang na songon di ape na dialami sasahalak, Jesus Kristus, si Panompa dohot nan g si Partobus hita, nungga mangalami hal na umburuk.
+
+Tuhanta nungga mangalami hasusaan. Songon naung  di hatahon si Albert Camus na so halak Kristen boi mangantusi songon dia do implikasi ni silang dohot hasusaan ni Tuhani disilang i. “Haholomon na adong di Golgota I tung  massai penting  dibagasan sejarah ni jolmai, jala songon nang komentar ni Ellen G.White “ Silang I memang songon sada pernyataan manang na wahyu tu perasaanta na majal taringot tu hinahassit na sian najolo, naung diboan dosa I tu pusu-pusu ni Debata” seri membina, jld.3,hlm.248.
+
+Parsiajaranta ndang  teodisi (pembenaran ni Debata na laho mangadopi hajahaton), alai sebalikna, songon  naung  dihatahon, ima songon upaya laho  manolong  hita na laho mangatasi angka hassusaan naso tahindarhon na hita saluhutna dison, diportibion mangulahon dosa songon gampangna marhosa. Jala aha do na dipatudu dison songon dia do hassitna, hasusaan, haagoan naso mararti, bahwa debata nungga maninggalhon hita, jala songon nasib ni angka naung  mardosa. Songon dia ma nang  pangaropan naung ditawarhon, boi boi mandapot lapatanna dohot tujuan, jala molo tung pe hita ndang  boi mambayangkon songon dia carana, hita boi porsea tu janji na alai taboto do,saluhutna manumpak tu na denggan di angka na marholong ni roha di Debata, angka na jinouna sian tahina hian.- Debata, nata pe Ibana na manompa saluhutna, na tong manaon na susah alani ido umbahen na porsea hita tu Ibana.
+	
+_Gavin Anthony, panurat ni parsiajaran  di Triwulan on, dipagodang di Sri Lanka songon  anak ni sahalak  Missionaris, na melayani songon sahalak pandita di Inggris jala dohot manjabat songon Ketua Konfrens Islandia di tikki manurat parsiajaran on._

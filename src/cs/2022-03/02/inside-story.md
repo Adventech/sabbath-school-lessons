@@ -11,9 +11,9 @@ Matka měla o Juniora strach. Obvykle veselý patnáctiletý chlapec se v jejich
 
 "Eduardo, nelíbí se mi, že se Junior učí bojovému umění," řekla svému manželovi.
 
-"Pro mě není problém ho tam vzít," odpověděl. "Ty kurzy jsou jen kousek od chrámu Candomblé, kde pracuji."
+"Pro mě není problém ho vzít," odpověděl. "Ty kurzy jsou jen kousek od chrámu Candomblé, kde pracuji."
 
-"To mi také vadí," řekla matka. "Nevěděla jsem, jestli spolu Capoeira a Candomblé nějak souvisí, ale nechci, aby můj syn dělal obojí."
+"To mi také vadí," řekla matka. "Nevěděla jsem, jestli spolu Capoeira a Candomblé nějak souvisí, ale nechci, aby můj syn dělal ani jedno."
 
 Otec se zamračil, "Junior mi řekl, že ho ve škole šikanují nějací kluci. Proto se rozhodl, že bude chodit na bojová umění."
 
@@ -25,7 +25,7 @@ V Cliffersonově domě Junior našel několik chlapců, kteří hráli sportovn�
 
 Junior si své nové kamarády oblíbil; od té doby už nevynechal žádné setkání.
 
-Jednoho dne Cliffersonova matka pozvala Juniora, aby šel s rodinou do sboru. Junior byl rád, že může s Cliffersonem trávit více času, a přestal chodit na kurzy bojových umění. Matce neřekl, že navštěvuje Společenství Církve adventistů sedmého dne. Řekl jen, že jde ven.
+Jednoho dne Cliffersonova matka pozvala Juniora, aby šel s rodinou do sboru. Junior byl rád, že může s Cliffersonem trávit více času, a přestal chodit na kurzy bojových umění. Matce neřekl, že navštěvuje Alpha společenství sboru Církve adventistů sedmého dne. Řekl jen, že jde ven.
 
 Matka si brzy všimla, že je Junior každou sobotu nedočkavý, aby už mohl opustit dům, a zeptala se ho, co dělá. Ukázal jí kanál na YouTube, kde církev živě vysílala své sobotní bohoslužby a matka se začala dívat.
 

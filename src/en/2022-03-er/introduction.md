@@ -1,0 +1,19 @@
+### The Suffering Savior
+
+The Bible tells us that Jesus made everything: “God made everything by the Word [Jesus]. Nothing has been made without him” (John 1:3, WE). At the same time, the Bible also tells us that the One who made everything also is the One who “cried” (John 11:35) when His friend Lazarus died. Jesus cried? Yes. What is more, “people looked down on him. They didn’t accept him. He knew all about pain and suffering. He was like [the same as] someone people turn their faces away from” (Isaiah 53:3, NIrV). Jesus was hated and rejected? Yes. When Jesus died, He cried, “ ‘My God, my God, why have you left me alone?’ ” (Matthew 27:46, ERV).
+
+How are these awful things possible? The answer is that Jesus, who made us, also is our Savior. As our Savior, He died on the cross. He became human, one of us. He suffered as we suffer. He lived life as a poor Man. He worked hard. Then His life ended on a Roman cross.
+
+So, the One who made us (Acts 17:28) suffered in many ways, more than any of us. We can know only our own pain and suffering. But at the cross, Jesus “suffered the things we should have suffered. He took [accepted] on himself the pain that should have been ours” (Isaiah 53:4, NIrV). What Jesus did on the cross is the most surprising and wonderful act in the history of heaven and earth.
+
+For the next few months, we will try to better understand a topic that is difficult to understand: suffering. We will look at human suffering and the sufferings of Christians. We will ask hard questions. We don’t have all the answers to these questions. But we know for sure that “God is love” (1 John 4:8, KJV). Yes, terrible things happen in this life. But we can trust God in all our pain and loss. God will help us to grow closer to Him no matter what we suffer.
+
+This quarter, we will study the Bible to see how other humans suffered loss and pain. What were their experiences? What did they do? What did they learn? What can their examples teach us?
+
+As we look at these people and their experiences, we must always remember the Cross. Whatever suffering and pain we meet in this life, Jesus suffered worse at Calvary.
+
+Our God is a suffering God. Albert Camus was a thinker and writer, who did not believe in God. But even Camus understood that what happened at the Cross was very important. Camus wrote: “The night on Golgatha is very important in human history. There, on the cross, God gave up the things that belonged to Him. He ‘drank’ suffering, pain, and death to the last drop.”—Albert Camus, The Rebel (New York: Vintage International, 1991), page 33, adapted. 
+
+Our lessons are not going to try to explain why God punishes evil. What we want to do this quarter is help you understand better the suffering that all of us suffer on an earth filled with sin. What we will try to show is God does not leave us alone when we suffer pain and loss. Pain, suffering, and loss mean only that we share in the experience of being human. But Jesus offers us hope in our suffering. We can find meaning in pain that seems to have no meaning at all. Maybe we can’t understand how suffering helps us to have hope. But we can trust God’s promise that “we know that God works out everything for the good of those who love him” (Romans 8:28, WE). Our God who made all things also suffered all things, too. That’s why we love Him.
+
+_Gavin Anthony wrote this quarter’s guide. He grew up in Sri Lanka. Gavin’s parents worked in Sri Lanka as Bible workers for the Seventh-day Adventist Church. Gavin worked as a pastor in England. He also was conference president in Iceland when he wrote these lessons._

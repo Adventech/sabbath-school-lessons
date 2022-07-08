@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-Intro.pdf'
+      target: en/2022-03-pp/introduction
+      title: Introduction
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L01.pdf'
+      target: en/2022-03-pp/01
+      title: Master Designer
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L02.pdf'
+      target: en/2022-03-pp/02
+      title: The Creator's Best Gift
+      start_date: 02/07/2022
+      end_date: 08/07/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L03.pdf'
+      target: en/2022-03-pp/03
+      title: Harmony Broken
+      start_date: 09/07/2022
+      end_date: 15/07/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L04.pdf'
+      target: en/2022-03-pp/04
+      title: My Way or God's Way
+      start_date: 16/07/2022
+      end_date: 22/07/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L05.pdf'
+      target: en/2022-03-pp/05
+      title: Father's Favorite
+      start_date: 23/07/2022
+      end_date: 29/07/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L06.pdf'
+      target: en/2022-03-pp/06
+      title: Brother for Sale
+      start_date: 30/07/2022
+      end_date: 05/08/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L07.pdf'
+      target: en/2022-03-pp/07
+      title: That's Going Too Far
+      start_date: 06/08/2022
+      end_date: 12/08/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L08.pdf'
+      target: en/2022-03-pp/08
+      title: Strange Friends in Strange Place
+      start_date: 13/08/2022
+      end_date: 19/08/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L09.pdf'
+      target: en/2022-03-pp/09
+      title: Dreams Do Come True
+      start_date: 20/08/2022
+      end_date: 26/08/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L10.pdf'
+      target: en/2022-03-pp/10
+      title: Adopted by the Enemy
+      start_date: 27/08/2022
+      end_date: 02/09/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L11.pdf'
+      target: en/2022-03-pp/11
+      title: The Battle Belongs to the Lord
+      start_date: 03/09/2022
+      end_date: 09/09/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L12.pdf'
+      target: en/2022-03-pp/12
+      title: Victory in Defeat
+      start_date: 10/09/2022
+      end_date: 16/09/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-L13.pdf'
+      target: en/2022-03-pp/13
+      title: God's Magnet
+      start_date: 17/09/2022
+      end_date: 23/09/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-Activities.pdf'
+      target: en/2022-03-pp/activities
+      title: Activities
+      start_date: 17/09/2022
+      end_date: 23/09/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-MemoryVerses.pdf'
+      target: en/2022-03-pp/memory-verses
+      title: Memory verses
+      start_date: 17/09/2022
+      end_date: 23/09/2022
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2022/Q3/English/Student/PP-22-Q3-Parents.pdf'
+      target: en/2022-03-pp/parents
+      title: Parents
+      start_date: 17/09/2022
+      end_date: 23/09/2022
