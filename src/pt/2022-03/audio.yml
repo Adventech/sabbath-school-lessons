@@ -1,0 +1,47 @@
+---
+  audio:
+    - artist: Áudio da Escola Sabatina
+      target: daily
+      tracks:
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-1SAB.wav
+          target: es/2022-03/01/01
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-2DOM.wav
+          target: es/2022-03/01/02
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-3SEG.wav
+          target: es/2022-03/01/03
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-4TER.wav
+          target: es/2022-03/01/04
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-5QUA.wav
+          target: es/2022-03/01/05
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-6QUI.wav
+          target: es/2022-03/01/06
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L01-7SEX.wav
+          target: es/2022-03/01/07
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-1SAB.wav
+          target: es/2022-03/02/01
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-2DOM.wav
+          target: es/2022-03/02/02
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-3SEG.wav
+          target: es/2022-03/02/03
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-4TER.wav
+          target: es/2022-03/02/04
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-5QUA.wav
+          target: es/2022-03/02/05
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-6QUI.wav
+          target: es/2022-03/02/06
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L02-7SEX.wav
+          target: es/2022-03/02/07
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-1SAB.wav
+          target: es/2022-03/03/01
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-2DOM.wav
+          target: es/2022-03/03/02
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-3SEG.wav
+          target: es/2022-03/03/03
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-4TER.wav
+          target: es/2022-03/03/04
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-5QUA.wav
+          target: es/2022-03/03/05
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-6QUI.wav
+          target: es/2022-03/03/06
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-7SEX.wav
+          target: es/2022-03/03/07
