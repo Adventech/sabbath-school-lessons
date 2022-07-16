@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ar/2022-03/ABSG-2022-03-AR-INTRO.pdf
+      target: ar/2022-03/01
+      title: مقدمة
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L01.pdf
+      target: ar/2022-03/01
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L02.pdf
+      target: ar/2022-03/02
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L03.pdf
+      target: ar/2022-03/03
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L04.pdf
+      target: ar/2022-03/04
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L05.pdf
+      target: ar/2022-03/05
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L06.pdf
+      target: ar/2022-03/06
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L07.pdf
+      target: ar/2022-03/07
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L08.pdf
+      target: ar/2022-03/08
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L09.pdf
+      target: ar/2022-03/09
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L10.pdf
+      target: ar/2022-03/10
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L11.pdf
+      target: ar/2022-03/11
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L12.pdf
+      target: ar/2022-03/12
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2022/Q3/Arabic/Student/ABSG-22-Q3-AR-L13.pdf
+      target: ar/2022-03/13
