@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-INTRO.pdf
+      target: ilo/2022-03/01
+      title: Pauna
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-01.pdf
+      target: ilo/2022-03/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-02.pdf
+      target: ilo/2022-03/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-03.pdf
+      target: ilo/2022-03/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-04.pdf
+      target: ilo/2022-03/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-05.pdf
+      target: ilo/2022-03/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-06.pdf
+      target: ilo/2022-03/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-07.pdf
+      target: ilo/2022-03/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-08.pdf
+      target: ilo/2022-03/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-09.pdf
+      target: ilo/2022-03/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-10.pdf
+      target: ilo/2022-03/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-11.pdf
+      target: ilo/2022-03/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-12.pdf
+      target: ilo/2022-03/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ilo/2022-03/ABSG-2022-03-ILO-13.pdf
+      target: ilo/2022-03/13
