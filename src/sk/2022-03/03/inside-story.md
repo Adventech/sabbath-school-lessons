@@ -15,7 +15,7 @@ Matka jejich synovi Juniorovi neřekla ani slovo. Chlapec, zaneprázdněný ško
 
 Matka také obdržela zprávu na WhatsApp-u. Otec řekl, že se přestěhoval do chrámu Candomblé, kde jako velekněz uctívá zlé duchy.
 
-"Nikdy se svého náboženství nevzdám," řekl. "Musíte ho přijmout."
+"Nikdy se svého náboženství nevzdám," řekl. "Musíte to přijmout."
 
 Matka nikdy neslyšela o velkém sporu mezi Kristem a Satanem. Měla však obavy, a proto se setkala s Ricardem Coelhem, pastorem Alpha společenství sboru Církve adventistů sedmého dne. S pláčem se mu svěřila, že otec pracuje jako velekněz Candomblé a rodinu opustil.
 
