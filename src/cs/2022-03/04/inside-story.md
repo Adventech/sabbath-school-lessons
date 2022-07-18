@@ -19,7 +19,7 @@ Junior mezitím začal studovat Bibli, aby se připravil na křest. Připojil se
 
 Pastor Ricardo stanovil datum Juniorova křtu na 29. října - rok poté, co chlapec poprvé slyšel o Církvi adventistů v domě svého přítele Cliffersona. Matka toužila být pokřtěna ve stejnou dobu. Když to řekla pastoru Ricardovi, vážně se na ni zadíval. "Nemůžeš být pokřtěna, protože nejsi zákonná manželka", řekl. Matku ta slova zasáhla jako rána pěstí. Její nesezdané soužití bránilo její touze být pokřtěna spolu s Juniorem. Pastor Ricardo viděl její zklamání. "Nedělej si starosti," řekl. "Požádej Eduarda, aby si tě vzal."
 
-Když matka odcházela z kostela, po tvářích jí stékaly slzy. Pochybovala, že by otec souhlasil, ale vyhledala ho. "Mám otázku. Ať odpovíš jakkoli, náš vztah se nezmění. Vezmeš si mě?"
+Když matka odcházela ze sboru, po tvářích jí stékaly slzy. Pochybovala, že by otec souhlasil, ale vyhledala ho. "Mám otázku. Ať odpovíš jakkoli, náš vztah se nezmění. Vezmeš si mě?"
 
 Otec našpulil rty do výrazu štěněte. Pak jeho tvář zvážněla. "Ne," řekl. "Nikdy si tě nevezmu."
 
