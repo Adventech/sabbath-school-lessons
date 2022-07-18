@@ -46,6 +46,18 @@ let validateContent = async function () {
             break
         }
 
+        let weeklyInfoFiles = glob.sync(`${quarterly}/+(0|1|2|3|4|5|6|7|8|9)/info.yml`);
+
+        for (let weeklyInfoFile of weeklyInfoFiles) {
+            try {
+                doc = yamljs.load(fs.readFileSync(`${weeklyInfoFile}`));
+            } catch (e) {
+                e = e.toString().replace(/\n/g, '<br>');
+                fail(`Critical error. Can not parse the weekly info: \`${weeklyInfoFile}\`. Error: \`${e}\``);
+                break
+            }
+        }
+
         let markdownFiles = glob.sync(`${quarterly}/+(0|1|2|3|4|5|6|7|8|9)/*.md`);
 
         if (markdownFiles.filter((f) => { return /\d{2}\.md$/img.test(f) }).length < 91) {
