@@ -167,6 +167,10 @@ var BIBLE_PARSER_CONFIG = {
     "lb"
   ],
 
+  "lus": [
+    "miz"
+  ],
+
   "lv": [
     "rt65"
   ],
