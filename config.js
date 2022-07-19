@@ -171,6 +171,10 @@ var BIBLE_PARSER_CONFIG = {
     "miz"
   ],
 
+  "mr": [
+    "mar"
+  ],
+
   "lv": [
     "rt65"
   ],
