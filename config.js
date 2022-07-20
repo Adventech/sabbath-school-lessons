@@ -222,6 +222,10 @@ var BIBLE_PARSER_CONFIG = {
     "nb-bibelen-1930"
   ],
 
+  "or": [
+    "orov"
+  ],
+
   "pl": [
     "bw1975"
   ],
