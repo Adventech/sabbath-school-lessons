@@ -45,3 +45,31 @@
           target: pt/2022-03/03/06
         - src: https://mais.cpb.com.br/wp-content/uploads/2022/06/L03-7SEX.wav
           target: pt/2022-03/03/07
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-1SAB.wav
+          target: pt/2022-03/03/01
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-2DOM.wav
+          target: pt/2022-03/03/02
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-3SEG.wav
+          target: pt/2022-03/03/03
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-4TER.wav
+          target: pt/2022-03/03/04
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-5QUA.wav
+          target: pt/2022-03/03/05
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-6QUI.wav
+          target: pt/2022-03/03/06
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L04-7SEX.wav
+          target: pt/2022-03/03/07
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-1SAB.wav
+          target: pt/2022-03/03/01
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-2DOM.wav
+          target: pt/2022-03/03/02
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-3SEG.wav
+          target: pt/2022-03/03/03
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-4TER.wav
+          target: pt/2022-03/03/04
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-5QUA.wav
+          target: pt/2022-03/03/05
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-6QUI.wav
+          target: pt/2022-03/03/06
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/07/L05-7SEX.wav
+          target: pt/2022-03/03/07
