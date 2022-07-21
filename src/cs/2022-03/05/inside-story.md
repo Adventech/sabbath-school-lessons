@@ -3,7 +3,7 @@ title:  Misijní příběh
 date:   29/07/2022
 ---
 
-#### Část 5: Nabourání křtu
+#### Část 5: Úžasný křest
 
 _Andrew McChesney_
 
