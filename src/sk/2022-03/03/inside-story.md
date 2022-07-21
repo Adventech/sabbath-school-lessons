@@ -3,32 +3,30 @@ title:  Misijný príbeh
 date:   15/07/2022
 ---
 
-#### Část 3: Opuštěn otcem
+#### Část 3: Bez otca
 
 _Andrew McChesney_
 
-Otec vypadal rozlobeně pokaždé, když mu matka řekla, že odchází do sboru adventistů. Rozčilovala ho každá maličkost. Jednou večer vybuchl vzteky, když matka přišla z církevní akce pozdě domů.
+Zmena nastala, keď mama povedala otcovi, že chodí do zboru Cirkvi adventistov siedmeho dňa. Zdalo sa, že otca všetko hnevá. Vadila mu každá maličkosť. Raz večer vybuchol, pretože sa mama vrátila neskoro z akejsi akcie vo zbore.
 
-Druhý den ráno matka dorazila na zubní kliniku v brazilském Manausu, kde pracovala jako sekretářka, a dozvěděla se, že už nemá práci. Klinika byla zavřená. Celou cestu domů přemýšlela, jak to říct otci. Ten však nebyl doma a nezvedal telefony. Pak si matka všimla, že ve skříni chybí jeho oblečení. Odešel z domova.
+Na druhé ráno mama šla na dentálnu kliniku v meste Manaus v Brazílii, kde pracovala ako sekretárka. Čakalo ju nepríjemné prekvapenie. Kliniku zatvorili a ona prišla o prácu. Celou cestou domov rozmýšľala, ako to povie otcovi. Nebol však doma a nedvíhal ani telefón. Potom si všimla, že v skrini chýba jeho oblečenie. Jednoducho odišiel z domu.
 
-Matka jejich synovi Juniorovi neřekla ani slovo. Chlapec, zaneprázdněný školou a hráčským klubem, si všiml, že otec je pryč, až o tři dny později, když mu na mobil přišla videozpráva z WhatsApp-u. Otec řekl, že adventismus a jeho víra, Candomblé, nemohou koexistovat pod jednou střechou.
+Svojmu synovi Juniorovi nič povedala. Bol zaneprázdnený povinnosťami v škole a ďalej navštevoval skupinku, kde hrali videohry a študovali Bibliu. O tri dni si však uvedomil, že ich otec opustil. Cez aplikáciu na telefóne dostal videosprávu, v ktorej mu otec vysvetlil, že náboženstvo Condomblé a adventistická viera nemôžu existovať pod jednou strechou.
 
-Matka také obdržela zprávu na WhatsApp-u. Otec řekl, že se přestěhoval do chrámu Candomblé, kde jako velekněz uctívá zlé duchy.
+Aj mame poslal správu. Oznámil jej, že sa presťahoval do chrámu Condomblé, kde bude ako miestny vodca uctievať zlých duchov.
 
-"Nikdy se svého náboženství nevzdám," řekl. "Musíte to přijmout."
+„Svojho náboženstva sa nikdy nevzdám,“ povedal jej. „A ty to musíš prijať.“ 
 
-Matka nikdy neslyšela o velkém sporu mezi Kristem a Satanem. Měla však obavy, a proto se setkala s Ricardem Coelhem, pastorem Alpha společenství sboru Církve adventistů sedmého dne. S pláčem se mu svěřila, že otec pracuje jako velekněz Candomblé a rodinu opustil.
+Mama nikdy nepočula o veľkom spore medzi Kristom a satanom. Mala obavy, preto poprosila o stretnutie Ricarda Coelho, kazateľa zboru Cirkvi adventistov siedmeho dňa Alpha. S plačom mu porozprávala o tom, že jej manžel je vodcom v chráme Condomblé a preto ich opustil.
 
-Pastor Ricardo matku utěšil, otevřel Bibli a laskavě řekl: "Dovolte mi, abych se s vámi podělil o několik rad." V 1. Korintským 7,3 četl: "Muž ať prokazuje ženě, čím je jí povinen, a podobně i žena muži." V Přísloví 14,1 četl: "Moudrá žena buduje svůj domov, hloupá jej boří svýma rukama." Podíval se na matku a řekl: "Buď svému muži, Eduardovi, dobrou ženou a modli se za něj."
+Kazateľ Ricardo sa snažil potešiť ju. Povedal jej: „Dovoľ, aby som ti niečo prečítal z Biblie.“ Potom otvoril Bibliu a prečítal jej text 1 Kor 7,3: „Muž nech plní voči žene svoje povinnosti a podobne aj žena voči svojmu mužovi.“ Ďalej pokračoval z knihy Prísl 14,1: „Múdra žena si buduje dom, ale hlúpa ho vlastnými rukami rúca.“ Pozrel sa na ňu a povedal jej: „Buď dobrou manželkou svojmu manželovi a modli sa za neho.“
 
-Biblické verše matku povzbudily a rozhodla se modlit ještě víc.
+Biblické verše mamu povzbudili. Rozhodla sa, že sa za otca bude modliť ešte viac. O niekoľko týždňov jej však došli peniaze. Silu zvládnuť túto situáciu našla opäť v Biblii. Spolu s Jozuom sa spoľahla na zasľúbenie, ktoré je zapísané v Joz 1,9: „Buď silný a odvážny, nestrachuj sa a nezúfaj! Veď Hospodin, tvoj Boh, bude s tebou, kamkoľvek pôjdeš.“
 
-Uplynuly týdny a matce došly peníze. Našla sílu v Bibli a modlila se zaslíbením z Jozue 1,9, kde se píše: "Buď silný a statečný ... neboť Hospodin, tvůj Bůh, je s tebou, kamkoli půjdeš."
+Keď sa jej svokra dozvedela, v akej situácii sa nachádza, zavolala otcovi, ktorý im začal donášať potraviny.
 
-Když se babička, otcova matka, dozvěděla, že rodina má málo jídla, zavolala otci a ten začal dovážet potraviny.
+Jedného dňa svokra povedala mame, že ju spolu s Juniorom duchovia pozvali do svojho chrámu. Keď tam prišli, našli otca posadnutého zlým duchom. Prihovoril sa im nízkym divným hlasom. Duch im povedal, že otec sa môže vrátiť domov len pod podmienkou, že mu nebudú hovoriť o svojej viere ani ho volať do zboru. Inak ho duchovia zabijú.
 
-Jednoho dne babička řekla matce, že ji a Juniora povolali duchové do chrámu. Když dvojice dorazila, otce posedl zlý duch, který skrze něj promlouval hlubokým, zkresleným hlasem. Duch řekl, že se otec může vrátit domů, ale pohrozil, že ho zabije, pokud se ho matka nebo Junior pokusí poučit o jejich náboženství nebo ho pozvou do sboru.
+Otec sa ešte v ten deň vrátil domov. Bol preč dva mesiace. Mama sa za neho modlila ešte viac.
 
-Otec se toho dne vrátil domů. Byl pryč dva měsíce. Matka se modlila ještě víc.
-
-_Vaše daty třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde otec (Eduardo Ferreira dos Santos) a jeho rodina žijí._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._
