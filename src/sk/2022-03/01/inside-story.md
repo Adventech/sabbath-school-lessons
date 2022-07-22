@@ -3,32 +3,32 @@ title:  Misijný príbeh
 date:   01/07/2022
 ---
 
-#### Část 1: Posedlý v jedenácti
+#### Část 1: Posadnutý chlapec
 
 _Andrew McChesney_
 
-Jedenáctiletému Eduardovi stékal pot po tváři, když se za horkého letního rána proháněl po ulici před svým domem sem a tam na skateboardu.
+Bolo horúce letné dopoludnie. Eduardo doslova lietal na svojom skejtborde po ulici pred domom. Po tvári mu stekal pot.
 
-"Eduardo Ferreira dos Santos!" volala na něj matka. "Pojď už a před obědem se osprchuj."
+„Eduardo Ferreira dos Santos!“ zakričala naňho mama. „Poď už dnu! A pred obedom sa osprchuj.“
 
-Zpocený a udýchaný Eduardo zamířil rovnou do kuchyně, na sprchu zapomněl a myslel jen na oběd. Eduardo si nevšímal cizí ženy, která seděla v obývacím pokoji a čekala, až jí nalakují nehty. Jeho matka provozovala vlastní domácí podnik, kosmetický salon nabízející manikúru a stříhání vlasů.
+Zadýchaný a spotený Eduardo zamieril rovno do kuchyne. Na sprchu zabudol. Jediné, čo ho zaujímalo, bol obed. Nevšimol si ani cudzieho človeka, ktorý sedel v obývačke. Jeho mama prevádzkovala doma súkromný salón krásy. Robila zákazníkom manikúru a účesy.
 
-Než Eduardo došel do kuchyně, zastavila ho jeho dvanáctiletá sestra. "Sedni si a popadni dech," řekla mu.
+Cestou do kuchyne ho zastavila jeho dvanásťročná sestra. „Tu si sadni a vydýchaj sa,“ povedala mu.
 
-Eduardo se poslušně svalil na židli. Vzápětí mu ze rtů vyšel příšerný výkřik. Jeho tělo se začalo zmítat v křečích. Matka se k němu vrhla a z Eduardových úst začal promlouvat hluboký, zkreslený hlas, který matce říkal, aby syna vydala, nebo se bude dívat, jak umírá. Eduardova matka začala plakat.
+Eduardo poslušne klesol na stoličku. V tej chvíli zaznel z jeho pier príšerný výkrik. Celý sa začal triasť. Mama k nemu rýchlo pribehla. Eduardo začal rozprávať nízkym a divným hlasom. Hlas povedal mame, aby mu odovzdala svojho syna a sledovala, ako umrie. Mama začala plakať.
 
-"Nebojte se," řekla cizí žena Eduardově matce. "Váš syn byl vybrán do naší skupiny. Jsem vůdce Candomblé."
+„Neboj sa,“ povedal cudzinec, ktorý čakal v obývačke. „Tvoj syn bol vyvolený, aby patril do našej skupiny. Ja som vodcom v náboženstve Candomblé.“
 
-Eduardova matka slyšela o Candomblé, náboženství, které se do Brazílie dostalo na otrokářských lodích z Afriky na počátku 19. století. Candomblé učí, že lidé mohou být posedlí duchy bohů. Tito duchové však nejsou bohové, ale padlí andělé. Eduardo byl jedním z nich posedlý - zlým duchem z legie, která obklopovala onu cizí ženu.
+Eduardova mama už počula o Candomblé. Je to náboženstvo, ktoré priniesli do Brazílie otroci z Afriky na začiatku 19. storočia. Jeho stúpenci veria, že ľudia môžu byť posadnutí duchmi bohov. Duchovia však nie sú bohovia, ale padlí anjeli. Eduardo bol očividne posadnutý jedným zo zlých duchov, ktorí obklopovali cudzinca v ich dome.
 
-Po nějaké době zlý duch odešel a Eduardo se vrátil do normálního stavu. Na událost si nepamatoval, ale jeho matka nemohla zapomenout a vzala ho do chrámu Candomblé. Chrámoví kněží přivítali Eduarda jako krále.
+Po nejakom čase ho zlý duch opustil a Eduardo sa vrátil do normálneho sveta. Na udalosť si nepamätal, ale jeho mama na to nedokázala zabudnúť. Nakoniec sa rozhodla zobrať ho do chrámu náboženstva Candomblé. Miestni vodcovia ho privítali ako kráľa.
 
-"Jaká čest," řekl jeden z nich. "Byl jsi vybrán," řekl další.
+„Taká česť,“ povedal jeden z nich. „Práve ty si bol vyvolený,“ povedal iný.
 
-Teprve jedenáctiletý Eduardo se seznámil se spiritismem a uctíváním ďábla. Během následujících sedmi let strávil v chrámu mnoho času a učil se být knězem. Zlí duchové k němu a jeho prostřednictvím promlouvali. Říkali mu, že nejdůležitějším úkolem je nikdy nenechat práci nedokončenou. Pokud nějaký úkol začal, musel ho dokončit.
+Eduardo mal ešte len 11 rokov, keď sa dostal do styku so špiritizmom a uctievaním diabla. Nasledujúcich sedem rokov trávil v chráme veľa času a učil sa byť vodcom. Zlí duchovia sa mu prihovárali a prostredníctvom neho hovorili aj iným ľuďom. Pripomínali mu, že najdôležitejšie je, aby nikdy nenechal prácu nedokončenú. Ak niečo začal, musel to aj dokončiť.
 
-V dospělosti se Eduardo stal veleknězem chrámu. Získával peníze od lidí, kteří chtěli, aby proklel jejich nepřátele. Zlí duchové mu však zakázali proklínat adventisty sedmého dne a další protestantské křesťany. "Oni jsou chráněni," řekli duchové a dodali, že jakýkoli pokus o jejich prokletí by Eduardovi způsobil ztrátu moci. Duchové Eduardovi také zakázali komunikovat s adventisty a dalšími protestanty.
+Keď Eduardo dospel, stal sa v chráme vodcom. Peniaze si zarábal tým, že preklínal nepriateľov svojich zákazníkov. Zlí duchovia mu zakázali preklínať adventistov siedmeho dňa a ostatných protestantských kresťanov. „Oni sú chránení,“ povedali mu duchovia. Upozornili ho, že ak by sa pokúsil prekliať ich, stratil by svoju moc. Duchovia mu zakázali vôbec komunikovať s adventistami a ďalšími protestantmi. 
 
-Eduardo si našel družku Sidilene Silva de Oliveira a měli spolu syna Eduarda Juniora. Život byl klidný, dokud Junior neřekl, že chce vstoupit do Církve adventistů sedmého dne.
+Eduardo si našiel priateľku, ktorá sa volala Sidilene Silva de Oliveira. Spolu mali syna, ktorému dali meno Eduardo Junior. Všetko bolo v poriadku, kým Junior doma neoznámil, že sa chce pripojiť k Cirkvi adventistov siedmeho dňa.
 
-_Vaše dary třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde Eduardo Ferreira dos Santos žije._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._
