@@ -3,36 +3,36 @@ title:  Misijný príbeh
 date:   08/07/2022
 ---
 
-#### Část 2: Šikana ve škole
+#### Část 2: Šikanovaný chlapec
 
 _Andrew McChesney_
 
-Matka měla o Juniora strach. Obvykle veselý patnáctiletý chlapec se v jejich domě v brazilském Manausu stal upjatým a nepřátelským. Proti její vůli se přihlásil na výuku Capoeiry, afrobrazilského bojového umění.
+Mama začala mať obavy o svojho syna Juniora. Žijú v meste Manaus v Brazílii. Z radostného 15-ročného chlapca sa stal nepriateľský a podráždený človek. Napriek tomu, že s tým nesúhlasila, Junior sa zapísal na kurz Capoeira, čo je africko-brazílske bojové umenie.
 
-"Eduardo, nelíbí se mi, že se Junior učí bojovému umění," řekla svému manželovi.
+„Eduardo, nepáči sa mi, že Junior sa dal na bojové umenia,“ povedala mama otcovi.
 
-"Pro mě není problém ho vzít," odpověděl. "Ty kurzy jsou jen kousek od chrámu Candomblé, kde pracuji."
+„Ja v tom nevidím problém. Budem ho tam brávať,“ odvetil manžel. „Hodiny majú neďaleko chrámu náboženstva Candomblé, kde pracujem.“
 
-"To mi také vadí," řekla matka. "Nevěděla jsem, jestli spolu Capoeira a Candomblé nějak souvisí, ale nechci, aby můj syn dělal ani jedno."
+„Aj to mi robí starosti,“ povedala mu. „Neviem, či bojové umenie Capoeira a náboženstvo Candomblé sú nejako prepojené, ale nechcem, aby sa môj syn niečomu z toho venoval.“
 
-Otec se zamračil, "Junior mi řekl, že ho ve škole šikanují nějací kluci. Proto se rozhodl, že bude chodit na bojová umění."
+Otec sa zamračil a povedal: „Junior mi prezradil, že niektorí chlapci v škole sa mu posmievajú. Preto sa rozhodol naučiť bojové umenie.“
 
-Druhý den, když matka čekala ve škole, aby odvedla Juniora domů, vylila si srdce Dilmě Araujos dos Santos, matce Cliffersona, jednoho z Juniorových spolužáků. "Můj syn nemá žádné dobré kamarády," řekla.
+Na druhý deň mama čakala na Juniora pred školou, aby ho odviezla domov. Stretla sa tam s mamou Juniorovho spolužiaka Cliffersona, ktorá sa volala Dilma Araujos dos Santos. Vyrozprávala jej, čo ju trápi. „Môj syn nemá žiadnych dobrých kamarátov,“ povedala nakoniec.
 
-O několik dní později Clifferson pozval Juniora do klubu hráčů videoher u sebe doma. Matka, potěšená, že si Junior našel kamaráda, mu dovolila jít.
+O niekoľko dní Clifferson pozval Juniora a ďalších chlapcov k sebe domov, aby si zahrali videohry. Mama sa potešila, že Junior si našiel kamaráta, preto ho pustila.
 
-V Cliffersonově domě Junior našel několik chlapců, kteří hráli sportovní videohru. Po několika minutách Clifferson hru vypnul a vyzval chlapce, aby zpívali o Ježíši. Pak chlapci otevřeli Bibli a mluvili o tom, co pro ně Ježíš znamená. "Jste křesťané?" zeptal se Junior. "Ano," odpověděl Clifferson. "V našem klubu hrajeme sportovní hry a mluvíme o Ježíši."
+Keď tam Junior prišiel, našiel Cliffersona a niekoľkých ďalších chlapcov hrať športové videohry. Po chvíli Clifferson vypol hru a pozval všetkých, aby si spolu zaspievali piesne o Ježišovi. Potom chlapci otvorili Biblie a rozprávali o Ježišovi a o tom, čo to pre nich znamená. „Vy ste kresťania?“ spýtal sa Junior. „Áno,“ odvetil Clifferson. „U nás doma si zvykneme zahrať videohru a potom sa rozprávame o Ježišovi.“
 
-Junior si své nové kamarády oblíbil; od té doby už nevynechal žádné setkání.
+Junior si obľúbil stretávania s novými kamarátmi. Nevymeškal ani jedno stretnutie tejto skupinky.
 
-Jednoho dne Cliffersonova matka pozvala Juniora, aby šel s rodinou do sboru. Junior byl rád, že může s Cliffersonem trávit více času, a přestal chodit na kurzy bojových umění. Matce neřekl, že navštěvuje Alpha společenství sboru Církve adventistů sedmého dne. Řekl jen, že jde ven.
+Jedného dňa Cliffersonova mama pozvala Juniora, aby s nimi šiel do zboru. Junior sa celkom potešil, že bude môcť stráviť viac času s Cliffersonom. Zároveň prestal chodiť na kurz bojového umenia. Svojej mame nepovedal, že chodí do zboru Cirkvi adventistov siedmeho dňa Alpha. Vždy jej len povedal, že ide von.
 
-Matka si brzy všimla, že je Junior každou sobotu nedočkavý, aby už mohl opustit dům, a zeptala se ho, co dělá. Ukázal jí kanál na YouTube, kde církev živě vysílala své sobotní bohoslužby a matka se začala dívat.
+Mama si však všimla, že Junior chodí von práve v sobotu a tak sa ho raz spýtala, kam ide a čo tam robí. Junior jej ukázal, ako sa napojiť na živé vysielanie zo sobotných bohoslužieb. Jeho mama ich začala sledovať.
 
-Jednou v sobotu Junior matce řekl, že ve sboru jeden muž odevzdal své srdce Ježíši a nechal se pokřtít. "Chci se nechat pokřtít," řekl.
+Raz v sobotu sa Junior vrátil domov a povedal mame o mužovi, ktorý odovzdal svoj život Ježišovi a bol pokrstený. „Aj ja chcem byť pokrstený,“ povedal jej.
 
-O několik sobot později matka doprovodila Juniora do sboru. Poslouchala, jak učitel sobotní školy vyučuje z biblické příručky pro dospělé. Někdo jí dal Bibli a ona si vyhledala verše, které učitel četl ze Zjevení. Přejel jí mráz po zádech, když četla: "Ale bázliví, nevěrní, ohavní, vrazi, smilníci, čarodějové, modláři i všichni lháři mají svůj díl v jezeře, které hoří ohněm a sírou – to je ta druhá smrt'" (Zj 21,8 [B21]).
+O niekoľko týždňov začala s Juniorom chodiť do zboru aj jeho mama. Na sobotnej škole pozorne počúvala preberanú tému. Ktosi jej podal Bibliu, tak si mohla vyhľadať verše zo Zjavenia, ktoré učiteľ práve rozoberal. Po chrbte jej prebehol mráz, keď čítala verš zo Zjavenia 21,8: „Ale zbabelci, neveriaci, nemravníci, vrahovia, smilníci, čarodejníci, modloslužobníci a všetci luhári budú mať podiel v ohnivom jazere, horiacom sírou; to je tá druhá smrť.“
 
-"To je osud mého manžela", pomyslela si matka. "Zahyne v ohnivém jezeře." A začala se za otce modlit.
+´Takýto údel čaká otca môjho syna,´ pomyslela si. ´Bude zatratený v ohnivom jazere.´ Začala sa za neho modliť.
 
-_Vaše daty třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde otec (Eduardo Ferreira dos Santos) a jeho rodina žijí._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._

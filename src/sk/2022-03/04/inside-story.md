@@ -3,24 +3,24 @@ title:  Misijný príbeh
 date:   22/07/2022
 ---
 
-#### Část 4: Pikle s duchy
+#### Část 4: Zahrávanie sa s diablom
 
 _Andrew McChesney_
 
-Uplynuly měsíce, než se matka a Junior dozvěděli, proč je otec na dva měsíce opustil a žil v chrámu Candomblé v brazilském Manausu. Bylo to proto, že se Junior chtěl stát adventistou sedmého dne.
+Trvalo niekoľko mesiacov, kým mama a Junior pochopili, prečo otec odišiel a dva mesiace žil v chráme náboženstva Condomblé v brazílskom meste Manaus. Dôvodom bolo to, že Junior sa chcel stať adventistom siedmeho dňa.
 
-Poté, co Junior viděl, jak v Alpha společenství sboru Církve adventistů sedmého dne pokřtili muže, řekl matce, že se chce také nechat pokřtít. Matka to řekla otci a ten v chrámu dostal od zlých duchů příkaz, aby tento plán zastavil.
+Po tom, čo Junior bol svedkom krstu jedného muža v zbore Cirkvi adventistov s.d. Alpha, povedal mame, že aj on chce byť pokrstený. Mama to povedala otcovi. Otec dostal v chráme od zlých duchov príkaz, aby mu to prekazil.
 
-Doma se otec snažil Juniora přesvědčit, aby si to rozmyslel, ale chlapec si stál za svým. Zlí duchové zesílili svůj nátlak a řekli otci, že bude zničen, pokud Juniora nezastaví. Otec nechápal, jak ho může Juniorovo pokřtění zničit, ale souhlasil s plánem duchů odstěhovat se z domu. Duchové řekli, že matka přijde ve stejný den o manžela i o práci a že pak přestane Juniora vodit do sboru. Otec nechtěl odejít z domu a celý den si s tímto plánem dělal starosti. Když se však večer matka vrátila pozdě domů z církevní akce, rozzlobeně se rozhodl odejít.
+Otec sa snažil Juniora presvedčiť, aby od svojho rozhodnutia upustil, ale chlapec bol pevne rozhodnutý. Zlí duchovia museli preto pritvrdiť. Povedali otcovi, že ho zničia, ak Juniora nezastaví. Otec nechápal, prečo by ho mali kvôli synovmu krstu zničiť, ale súhlasil s plánom zlých duchov, aby sa odsťahoval od rodiny. Duchovia mu povedali, že jeho manželka stratí v jednom dni prácu aj manžela. Potom prestane brávať Juniora do zboru. Otec nechcel odísť od svojej rodiny. Celý deň prežil v nepokoji. Keď sa však mama vrátila neskoro večer zo stretnutia vo zbore, nahneval sa a rozhodol, že odíde.
 
-Zpočátku se plán vyvíjel podle předpokladů. Následující den otec odešel z domu a matka přišla o práci. Zbytek plánu však ztroskotal. Duchové doufali, že matce dojdou peníze a přestane brát Juniora do sboru. Když si však matka nemohla dovolit koupit benzín, členové sboru jí nabídli, že ji svezou svým autem. Po dvou měsících duchové prohlásili, že vymyslí nový plán, jak zabránit Juniorovi, aby byl pokřtěn. Řekli otci, aby se vrátil domů.
+Najprv sa zdalo, že všetko ide podľa plánu. Mama naozaj na ďalší deň prišla o prácu a otec sa odsťahoval od rodiny. Zvyšok predpovede sa však nesplnil. Zlí duchovia dúfali, že keď sa mame minú peniaze, prestane brávať Juniora do zboru. Keď si mama nemohla dovoliť chodiť do zboru vlastným autom, ostatní členovia zboru jej ponúkli, že ich budú voziť. Po dvoch mesiacoch sa zlí duchovia dohodli, že vytvoria nový plán, ako zabrániť Juniorovi pokrstiť sa. Povedali otcovi, aby sa vrátil domov.
 
-Junior mezitím začal studovat Bibli, aby se připravil na křest. Připojil se k Pathfinderu, podílel se na sborovém hudebním programu a pomáhal obsluhovat sborové ozvučení. Přestože zlí duchové slíbili, že Juniorovi zabrání, aby se nechal pokřtít, chlapcova touha jen rostla. K otcově nelibosti začala křest zvažovat i matka.
+Medzitým Junior začal študovať Bibliu v rámci prípravy na krst. Stal sa súčasťou klubu Pathfinder, zúčastňoval sa zborových hudobných programov a pomáhal s ozvučovaním zboru. Napriek tomu, že zlí duchovia sľubovali, že Juniorovi nedovolia nechať sa pokrstiť, chlapcova túžba patriť do rodiny veriacich zo dňa na deň rástla. A aby toho nebolo málo, aj mama začal rozprávať o krste.
 
-Pastor Ricardo stanovil datum Juniorova křtu na 29. října - rok poté, co chlapec poprvé slyšel o Církvi adventistů v domě svého přítele Cliffersona. Matka toužila být pokřtěna ve stejnou dobu. Když to řekla pastoru Ricardovi, vážně se na ni zadíval. "Nemůžeš být pokřtěna, protože nejsi zákonná manželka", řekl. Matku ta slova zasáhla jako rána pěstí. Její nesezdané soužití bránilo její touze být pokřtěna spolu s Juniorem. Pastor Ricardo viděl její zklamání. "Nedělej si starosti," řekl. "Požádej Eduarda, aby si tě vzal."
+Kazateľ Ricardo stanovil dátum Juniorovho krstu na 29. október. Bolo to rok po tom, čo od svojho kamaráta Cliffersona prvýkrát počul o Cirkvi adventistov. Mama chcela, aby boli pokrstení spolu. Keď o tom povedala kazateľovi Ricardovi, ten sa na ňu vážne zahľadel a povedal: „To bude problém. Nemôžeš byť pokrstená, pretože nie ste s mužom právne zosobášení.“ Tieto slová mamu zasiahli ako facka. Jej spolužitie s otcom bez sobáša bránilo jej túžbe byť pokrstená s Juniorom. Kazateľ Ricardo videl jej veľké sklamanie. „Neboj sa," dodal, „jednoducho popros Eduarda, aby sa s tebou oženil.“
 
-Když matka odcházela ze sboru, po tvářích jí stékaly slzy. Pochybovala, že by otec souhlasil, ale vyhledala ho. "Mám otázku. Ať odpovíš jakkoli, náš vztah se nezmění. Vezmeš si mě?"
+Slzy jej stekali po tvári, keď sa vracala domov zo zboru. Pochybovala, že by otec súhlasil so sobášom, ale predsa sa rozhodla spýtať sa ho. „Mám na teba otázku. Bez ohľadu na to, ako mi odpovieš, náš vzťah to nezmení. Oženíš sa so mnou?“
 
-Otec našpulil rty do výrazu štěněte. Pak jeho tvář zvážněla. "Ne," řekl. "Nikdy si tě nevezmu."
+Na otcovej tvári sa vystriedalo niekoľko grimás. Nakoniec sa zatváril veľmi vážne. „Nie,“ povedal. „Nikdy sa s tebou neožením.“
 
-_Vaše dary třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde otec (Eduardo Ferreira dos Santos) a jeho rodina žijí._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._
