@@ -15,6 +15,9 @@ var BIBLE_PARSER_CONFIG = {
   "bg": [
     "bg1940"
   ],
+  "bn": [
+    "bsi2016"
+  ],
   "ceb": [
     "cbv"
   ],
