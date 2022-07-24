@@ -6,7 +6,6 @@
   end_date: "23/09/2022"
   color_primary: "#553F2D"
   color_primary_dark: "#4B3521"
-  quarterly_name: "Standard Adult"
   splash: true
   credits:
     - name: Principal Contributor
