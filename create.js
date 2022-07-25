@@ -66,6 +66,7 @@ var LOCALE_VARS = {
     "hu": "Lecke",
     "hy": "Դաս",
     "km": "ខ្មែរ",
+    "kha": "lynnong",
     "kn": "ಪಾಠ",
     "mk": "Лекција",
     "mg": "Lesona",
@@ -140,6 +141,7 @@ var LOCALE_VARS = {
     "hu": "### <center>Erre a leckére dolgozunk.</center>\n<center>Légyszíves gyere vissza később.</center>",
     "hy": "### <center>Մենք աշխատում ենք այս դասի վրա:</center>\n<center>Խնդրում եմ փորձեք մի փոքր ուշ</center>",
     "km": "### <center>យើងកំពុងសិក្សាមេរៀននេះ។</center>\n<center>សូម​ព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ។</center>",
+    "kha": "### <center>We are working on this lesson</center>\n<center>Please come back later</center>",
     "kn": "### <center>ನಾವು ಈ ಪಾಠದಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇವೆ</center>\n<center>ದಯವಿಟ್ಟು ನಂತರ ಹಿಂತಿರುಗಿ</center>",
     "mk": "### <center>Ние работиме на оваа лекција</center>\n<center>Те молам врати се подоцна</center>",
     "mg": "### <center>Eo am-panatanterahana ity lesona ity izahay.</center>\n<center>Andramo indray azafady.</center>",
@@ -210,6 +212,7 @@ var LOCALE_VARS = {
     "hu": "Tanítói Melléklet",
     "hy": "Teacher Comments",
     "km": "Teacher Comments",
+    "kha": "Teacher Comments",
     "kn": "Teacher Comments",
     "mk": "Teacher Comments",
     "mg": "Teacher Comments",
@@ -281,6 +284,7 @@ var LOCALE_VARS = {
     "hu": "Inside Story",
     "hy": "Inside Story",
     "km": "រឿងខ្លី",
+    "kha": "រឿងខ្លី",
     "kn": "Inside Story",
     "mk": "Inside Story",
     "mg": "Inside Story",
@@ -398,9 +402,10 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
         );
       }
 
-      if (lessonCover){
-        fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
-      }
+      // Not need anymore.
+      // if (lessonCover){
+      //   fs.copySync(LESSON_COVER, SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/cover.png");
+      // }
     }
   }
 
