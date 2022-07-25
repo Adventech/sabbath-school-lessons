@@ -96,6 +96,10 @@ var BIBLE_PARSER_CONFIG = {
     "orthodox"
   ],
 
+  "kha": [
+    "khb"
+  ],
+
   "kn": [
     "kanjv-bsi",
     "kanirv",
