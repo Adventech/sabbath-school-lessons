@@ -4,12 +4,14 @@
       clips:
         - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_KNqW43H41Ft/jsv_KNqW43H41Ft-jsren_sHdolRgCZV7-master.mp4
           thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_DydzvAWGMzTurAJFmwRrv5.png
-        - src: https://storage.cloud.google.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_yvjrkvWJuKF/jsv_yvjrkvWJuKF-jsren_I3J6tZvMKFH-master.mp4
+        - src: https://storage.cloud.google.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_yvjrkvWJuKF/jsv_yvjrkvWJuKF-jsren_I3J6tZvMKFH-master.mp4?2
           thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:ZRVzE0rBi9ShdklxWqQV.png
-        - src: https://storage.cloud.google.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_JoQopthwYfY/jsv_JoQopthwYfY-jsren_pz0IV6aMEd5-master.mp4
+        - src: https://storage.cloud.google.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_JoQopthwYfY/jsv_JoQopthwYfY-jsren_pz0IV6aMEd5-master.mp4?2
           thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:AlPqknG2Y6v2SI68h3Rj.png
         - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_koGHIy5bk1R/jsv_koGHIy5bk1R-jsren_m7jSVgOJU2D-360p.mp4
           thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:3YOcpSYOFsvQ81dnSSDc.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_4Z1JnAegqug/jsv_4Z1JnAegqug-jsren_0PD4UjAwMBt-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:mWu7ojysbEX0Lc9YX1oi.png
     - artist: 希望中文台 (粵語版視頻)
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-01.mp4
@@ -20,3 +22,5 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-03.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-04.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-05.webp

@@ -10,6 +10,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_HIDaHkkNVGR_42ab2bd662.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-4-welcoming-the-refiners-fire/-/40040825/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_l4C2knXpT5S_7209274582.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-5-enduring-extreme-suffering/-/40040863/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_nn5W4IqDRrP_bfad7f76fb.jpg
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-01.mp4
@@ -20,6 +22,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-03.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-04.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-05.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -29,6 +33,7 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-03-04.mp4
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-03-05.mp4
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-03-06.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-03-07.mp4
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-01.mp4
@@ -39,3 +44,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-03.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-04-upd.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-04-upd.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-05.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-05.webp
