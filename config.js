@@ -83,6 +83,10 @@ var BIBLE_PARSER_CONFIG = {
     "lsg"
   ],
 
+  "gu": [
+    "gu2017"
+  ],
+
   "it": [
     "nr2006"
   ],
