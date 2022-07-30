@@ -83,6 +83,8 @@ var BIBLE_PARSER_CONFIG = {
     "lsg"
   ],
 
+  "grt": [],
+
   "gu": [
     "gu2017"
   ],
@@ -98,6 +100,10 @@ var BIBLE_PARSER_CONFIG = {
   "ka": [
     "geo",
     "orthodox"
+  ],
+
+  "kar": [
+    "kswc"
   ],
 
   "kha": [
