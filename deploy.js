@@ -659,6 +659,8 @@ let dayAPI = async function () {
     let quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-') + 1);
     let iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
 
+    resultRead = day.markdown;
+
     for (let bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++) {
       let bibleVersion = iteratorArray[bibleVersionIterator],
           resultBible = {},
