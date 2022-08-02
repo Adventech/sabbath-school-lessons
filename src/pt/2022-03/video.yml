@@ -1,5 +1,19 @@
 ---
   video:
+  	- artist: Adventistas Lago Sul
+        clips:
+          - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-01.mp4
+            thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-01.webp
+          - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-02.mp4
+            thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-02.webp
+          - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-03.mp4
+            thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-03.webp
+          - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-04.mp4
+            thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-04.webp
+          - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-05.mp4
+            thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-05.webp
+          - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-06.mp4
+            thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2022-03-06.webp
     - artist: Lições da Bíblia
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/pt-2022-03-01.mp4
@@ -10,3 +24,5 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/pt-2022-03-03.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/pt-2022-03-04.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/pt-2022-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/pt-2022-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/pt-2022-03-05.webp
