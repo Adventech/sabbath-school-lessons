@@ -31,6 +31,10 @@ var BIBLE_PARSER_CONFIG = {
     "tdb"
   ],
 
+  "cfm":[
+    "fcl"
+  ],
+
   "da": [
     "bph",
     "dn1933",
