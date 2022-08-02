@@ -7,7 +7,7 @@ date:   12/08/2022
 
 _Andrew McChesney_
 
-Čtyři dny po Juniorově křtu zlí duchové přikázali otci, aby zabil svou rodinu. Jinak, varovali, by ho Junior a matka zničili, protože se za něj modlí. Otec poprvé sebral odvahu a vzdoroval. "Jak?" zeptal se. "Nejsou naše modlitby mocnější?"
+Čtyři dny po Juniorově křtu zlí duchové otci přikázali, aby zabil svou rodinu. Varovali, že jinak by ho Junior a matka zničili, protože se za něj modlí. Otec poprvé sebral odvahu a vzdoroval. "Jak?" zeptal se. "Nejsou naše modlitby mocnější?"
 
 Duchové ustoupili a řekli otci, aby opustil svůj domov v brazilském Manausu. Řekli mu, aby se vydal lodí do jednoho z pěti měst, kde na něj čekají kněží Candomblé. Když si však otec chtěl koupit lodní lístek, do těchto měst nebyl žádný k dispozici. Jediné lístky byly do Coari. Otec si vzpomněl na svého strýce v Coari a tak se rozhodl odplout tam.
 
