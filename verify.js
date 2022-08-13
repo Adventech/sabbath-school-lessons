@@ -66,6 +66,26 @@ let validateContent = async function () {
             }
         }
 
+        if (fs.pathExistsSync(`${quarterly}/video.yml`)) {
+            try {
+                doc = yamljs.load(fs.readFileSync(`${quarterly}/video.yml`));
+            } catch (e) {
+                e = e.toString().replace(/\n/g, '<br>');
+                fail(`Critical error. Can not parse the quarterly video file: \`${quarterly}\`/video.yml. Error: \`${e}\``);
+                break
+            }
+        }
+
+        if (fs.pathExistsSync(`${quarterly}/audio.yml`)) {
+            try {
+                doc = yamljs.load(fs.readFileSync(`${quarterly}/audio.yml`));
+            } catch (e) {
+                e = e.toString().replace(/\n/g, '<br>');
+                fail(`Critical error. Can not parse the quarterly audio file: \`${quarterly}\`/audio.yml. Error: \`${e}\``);
+                break
+            }
+        }
+
         for (let markdownFile of markdownFiles) {
             try {
                 if (/\d{2}\.md$/.test(markdownFile)) {
