@@ -3,32 +3,30 @@ title:  Misijný príbeh
 date:   19/08/2022
 ---
 
-#### Část 8: Sňatek s Kristem
+#### Krst 8. časť
 
 _Andrew McChesney_
 
-Týden poté, co otec odevzdal své srdce Ježíši, začal vyklízet chrám v brazilském Manausu. Posbíral obrazy a kamenné oltáře, na kterých obětoval zvířata a u kterých se klaněl zlým duchům. Na žádost duchů otec odeslal chrámové vybavení dvěma ženám do jiného města.
+Prešiel týždeň odkedy otec odovzdal svoje srdce Ježišovi. Prišiel čas, aby vyčistil chrám v brazílskom meste Manaus. Pozbieral všetky obrazy a kamenné oltáre, na ktorých obetoval zvieratá a pri ktorých sa klaňal démonom. Na žiadosť zlých duchov poslal chrámové príslušenstvo dvom ženám z neďalekého mestečka.
 
-Úkol dokončil v pátek. Když nastoupil do svého auta, zlí duchové zavrčeli, že ho jdou zabít. Náhle do auta vstoupil temný stín ve tvaru člověka, který se skládal ze tří duchů. Duchové ukázali otci vzdálené světlo. Zpoza světla se vynořil kříž plný bláta. Duchové se ušklíbli, že to je otcův konec. "Mohu jako mrtvý člověk pronést poslední řeč?", zeptal se otec. Aniž by čekal na odpověď, řekl: "Ježíši, prosím, sedni si vedle mě do auta a odvez mě domů." Náhle temný stín zmizel. To bylo poprvé, co otec vzýval Ježíše, a cítil se chráněný.
+S prácami skončil v piatok. Keď nasadol do auta, zavrčali na neho zlí duchovia, že ho zabijú. Zrazu do auta nastúpil tmavý tieň tvaru človeka, ktorý pozostával z troch zlých duchov. Ukázali mu vzdialené svetlo. Vo svetle sa začal vynárať kríž pokrytý blatom. Duchovia sa otcovi začali vysmievať, pretože takto mal vyzerať jeho koniec. „Keď už mám teda zomrieť, mohol by som vysloviť posledné slová?“ spýtal sa otec. Nečakal na odpoveď a dodal: „Ježiš, prosím, sadni si vedľa mňa do auta a vezmi ma domov.“ Tmavý tieň hneď zmizol. Bolo to prvýkrát, čo otec poprosil Ježiša a pocítil jeho ochraňujúcu moc.
 
-Příštího rána se otec poprvé zúčastnil sobotní bohoslužby. Probíhala Památka večeře Páně a on cítil nadpřirozenou energii podobnou té, kterou zažil při křtu Juniora. Když mu někdo umýval nohy, otcovy hříchy mu procházely před očima. Tekly mu slzy, když prosil Boha o odpuštění. Měl pocit, jako by ho Duch svatý obmyl.
+Ráno šiel prvýkrát do zboru na sobotnú bohoslužbu. Akurát prebiehala Večera Pánova a on znovu pocítil zvláštnu energiu ako počas Juniorovho krstu. Keď mu ktosi umýval nohy, pred očami mu mizli hriechy. Po tvári mu tiekli slzy, keď prosil Boha o odpustenie. Mal pocit, akoby ho sám Duch Svätý očisťoval.
 
-Krátce nato požádal otec matku o ruku a oficiálně se vzali. Matka byla obzvlášť šťastná. Nyní se mohla nechat pokřtít.
+Krátko nato sa otec zasnúbil s mamou a oficiálne sa zosobášili. Mama sa veľmi tešila, pretože teraz mohla byť aj ona konečne pokrstená.
 
-Den před jejím křtem šli otec a Junior do sboru Alfa společenství Církve adventistů sedmého dne, aby si poslechli, jak matka nacvičuje s pěveckým sborem. Žebřík, který se používal k výzdobě sboru, se náhle převrátil a muž, který na něm stál, vrazil do otce a srazil ho na zem.
+Deň predtým, než sa mal konať krst, šiel otec a Junior do zboru Cirkvi adventistov siedmeho dňa Alfa na skúšku speváckeho zboru, v ktorom spievala aj mama. V modlitebni akurát prebiehali prípravy. Jeden muž stál na rebríku. Zrazu sa rebrík pošmykol a spolu s mužom spadli priamo na otca a zvalili ho na zem.
 
-Otec všechny ujišťoval, že je v pořádku, ale o chvíli později začal křičet. Posedli ho dva zlí duchové.
+Otec sa hneď postavil a povedal, že je v poriadku. Krátko na to však začal kričať a vrieskať. Posadli ho dvaja démoni.
 
-Junior se rozběhl k otci. Ležel na zemi a jeho tělo se třáslo. Jeden z duchů vrčel skrze jeho ústa, že chtěl otce tím žebříkem zabít.
+Junior utekal k otcovi, ktorý medzitým padol na zem a celý sa triasol. Zlý duch cez jeho ústa zavrčal, že tým rebríkom ho chcel zabiť.
 
-Junior slyšel o velkém sporu mezi Kristem a Satanem, ale nikdy nebyl jeho svědkem ve skutečném životě. Modlil se. A pěvecký sbor spontánně zpíval: "Ježíši Kriste, ty jsi Ženich, Rozsévač, můj Otec a můj Pastýř, velmi vzácná Perla. Kriste, ty jsi všechno."
+Junior vedel o veľkom boji, ktorý vládne medzi Kristom a satanom. Ešte nikdy ho však nevidel na vlastné oči. Začal sa modliť. Spevácky zbor začal spontánne spievať o Ježišovi, ktorý je naším ženíchom, otcom, pastierom, vzácnou perlou a všetkým čo potrebujeme.
 
-Matka uchopila otcovy zkroucené ruce a snažila se je narovnat. Byly strašně studené. Duch na ni chrlil nenávist.
+Mama chytila otcove pokrútené ruky a pokúsila sa ich vyrovnať. Boli neskutočne chladné. Zlí duchovia na ňu vychrlili spŕšku nenávisti.
 
-Pak Otec promluvil slabým a vzdáleným hlasem. "Bolí to," řekl.
+Potom otec slabým hlasom povedal, že ho to bolí. Asi po hodine modlitieb a spevu sa vrátil do normálneho stavu.
 
-Asi po hodině modliteb a zpěvu se otec vrátil do normálního stavu.
+Aj keď stále cítil bolesť, spolu s Juniorom sa zúčastnili maminho krstu v sobotu doobeda. Pri krste mama prežívala veľkú radosť a bola nesmierne šťastná.
 
-Ačkoli otce vše bolelo, přidal se v sobotní ráno k Juniorovi při matčině křtu ve sboru. Matka se s radostí ponořila do vody.
-
-_Vaše dary třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde otec (Eduardo Ferreira dos Santos) a jeho rodina žijí._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._
