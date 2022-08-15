@@ -3,32 +3,32 @@ title:  Misijný príbeh
 date:   12/08/2022
 ---
 
-#### Část 7: Otec se vzdává
+#### Část 7: Otcovo rozhodnutie 7. časť
 
 _Andrew McChesney_
 
-Čtyři dny po Juniorově křtu zlí duchové otci přikázali, aby zabil svou rodinu. Varovali, že jinak by ho Junior a matka zničili, protože se za něj modlí. Otec poprvé sebral odvahu a vzdoroval. "Jak?" zeptal se. "Nejsou naše modlitby mocnější?"
+Štyri dni po Juniorovom krste zlí duchovia prikázali otcovi zabiť syna i jeho mamu. Upozornili ho, že ak to neurobí, Junior a mama ho zničia, pretože sa za neho modlia. Otec pozbieral všetku odvahu a opýtal sa duchov: „Ako to je možné? Nie sú naše modlitby silnejšie?“
 
-Duchové ustoupili a řekli otci, aby opustil svůj domov v brazilském Manausu. Řekli mu, aby se vydal lodí do jednoho z pěti měst, kde na něj čekají kněží Candomblé. Když si však otec chtěl koupit lodní lístek, do těchto měst nebyl žádný k dispozici. Jediné lístky byly do Coari. Otec si vzpomněl na svého strýce v Coari a tak se rozhodl odplout tam.
+Zlí duchovia sa stiahli. Povedali otcovi, aby odišiel zo svojho domova v brazílskom meste Manaus. Prikázali mu, aby nastúpil na loď, ktorá smerovala do jedného z piatich miest, kde sa nachádzali chrámy náboženstva Condomblé. Keď si chcel otec kúpiť lístok, nebolo už žiadne voľné miesto. Mohol cestovať jedine do Coari. Otec si spomenul, že tam žije jeho strýko. Rozhodol sa preto odísť tam.
 
-Strýc Cesario Ferreira byl nadšený, že otce vidí, a zorganizoval rodinné setkání. Otec tyto příbuzné moc dobře neznal, ale svěřil se jim, že doma vypukl duchovní konflikt. Dvaadevadesátiletá teta Tereza ho poplácala po rameni. "Synu, je čas, aby ses vzdal," řekla. "Celý život jsi sloužil zlým duchům. Teď je čas sloužit Bohu."
+Strýko Cesario Ferreira sa potešil, keď uvidel otca. Hneď zorganizoval rodinné stretnutie. Otec síce nepoznal všetkých príbuzných, ale zveril sa im, že doma práve riešia duchovný konflikt. 92-ročná teta Tereza ho poklepala po pleci a povedala: „Synu, prišiel čas, aby si prestal bojovať. Zlým duchom si slúžil celý život. Teraz je čas, aby si slúžil Bohu.“
 
-Otec vypadal šokovaně. "Ty jsi protestantská křesťanka?" zeptal se a vzpomněl si, že mu zlí duchové říkali, aby se od nich držel dál.
+Otec bol šokovaný. „Patríte do protestantskej cirkvi?“ opýtal sa jej. Veľmi dobre vedel, že zlí duchovia mu povedali, aby sa týmto ľuďom vyhýbal.
 
-Teta Tereza se usmála a pokynula směrem k ostatním příbuzným, kteří se také usmívali. "Synu, my všichni jsme protestantští křesťané!" řekla.
+Teta Tereza sa usmiala. Aj ostatní príbuzní sa usmievali. „Synu, všetci sme protestanti!“ povedala.
 
-Druhý den otec ustaraně zavolal chrámovému knězi, aby mu poradil. Rozhovor zaslechl strýc Cesario, který připravoval snídani. Když otec zavěsil, zeptal se: "Synu, víš, že Ježíš vyháněl zlé duchy?"
+Na druhý deň otec s obavami zavolal do svojho chrámu a pýtal sa kňaza na radu. Strýko Cesario, ktorý práve pripravoval raňajky, počul ich rozhovor. Po tom, čo otec zvesil telefón, povedal mu: „Synu, vieš o tom, že Ježiš vyháňal zlých duchov?“
 
-"Jak to dělal?", zeptal se otec.
+„Ako to robil?“ spýtal sa otec.
 
-Následující tři dny strýc Cesario četl biblické příběhy o tom, jak Ježíš vyháněl zlé duchy. Čtvrtý den vyprávěl o muži posedlém legií zlých duchů v Markovi 5,1-19. Otce překvapilo, že duchové Ježíšovi řekli: "'Mé jméno je Legie, neboť je nás mnoho' (verš 9)." "To je pravda!" řekl. "Když jsem šel do kostela na křest Juniora, šel jsem s legií zlých duchů."
+Najbližšie tri dni mu strýko Cesario čítal biblické príbehy o tom, ako Ježiš vyháňal démonov. Na štvrtý deň mu prečítal príbeh o mužovi, ktorý bol posadnutý légiou zlých duchov. Je zaznamenaný v Marekovom evanjeliu 5,1-19. Otca prekvapilo najmä to, čo démoni povedali Ježišovi: „Volám sa Légia, lebo je nás mnoho.“ (Mk 5,9) „Tak to musí byť pravda,“ zareagoval otec. „Keď som šiel na Juniorov krst, išla so mnou légia zlých duchov.“
 
-Pátý den strýc Cesario nevyprávěl žádné příběhy. Otec se bál zeptat proč, a vydal se na dlouhou procházku. Toho večera se rozčílil, když mu zavolal chrámový kněz, aby ho požádal o pomoc při zajišťování zvířat k obětování.
+Na piaty deň strýko Cesario už nepovedal žiaden príbeh. Otec sa bál spýtať, prečo. Vybral sa na dlhú prechádzku. Večer dostal telefonát, ktorý ho veľmi nahneval. Zavolal mu kňaz z chrámu a prosil ho o pomoc pri príprave zvierat na obetovanie.
 
-"Ať se obětí stanou duchové!" vyhrkl. "Přikázali mi, abych zabil vlastního syna. Vyřešte si své problémy beze mě!"
+„Nech sú obeťou samotní démoni!“ vybuchol otec hnevom. „Prikázali mi, aby som zabil vlastného syna. Vyriešte si svoje problémy bezo mňa!“
 
-Otec, stále ještě rozrušený, usedl ke stolu k večeři. "Synu," řekl strýc Cesario, "víš, že ďábel zabil Jobova vlastního syna a další děti?" Otec o Jobovi nikdy neslyšel, a když slyšel tento příběh z Bible, rozplakal se. Na konci otec řekl: "Rozhodl jsem se. Opustím Candomblé a seznámím se s Bohem adventistů. Prosím, modlete se. Ďábel se mě bude snažit zabít."
+Poriadne nahnevaný si otec sadol k stolu, aby sa navečeral. „Synu,“ povedal strýko Cesario, „vieš o tom, že diabol zabil Jóbovi synov a dcéry?“ Otec ešte nikdy nepočul o Jóbovi. Rozplakal sa, keď mu strýko vyrozprával celý biblický príbeh. Nakoniec otec povedal: „Rozhodol som sa. Odídem z náboženstva Condomblé. Chcem spoznať Boha adventistov. Prosím modlite sa za mňa. Diabol ma bude chcieť zabiť.“
 
-Druhý den se otec vrátil domů a oznámil své rozhodnutí matce. "Jsem ochoten následovat vašeho Boha," řekl.
+Na druhý deň sa otec vrátil domov a oznámil mame svoje rozhodnutie. „Som ochotný nasledovať tvojho Boha,“ povedal.
 
-_Vaše dary třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde otec (Eduardo Ferreira dos Santos) a jeho rodina žijí._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._
