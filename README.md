@@ -187,6 +187,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Tamil Language 🇮🇳
 - [x] Add Xhosa Language 🇿🇦
 - [x] Add Zulu Language 🇿🇦
+- [ ] Add Kinyarwanda Language <sub>KI</sub>
 
 ## Contributing
 
