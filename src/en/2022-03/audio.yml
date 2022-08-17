@@ -353,3 +353,9 @@
           target: en/2022-03/08/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2022/08/2022-08-18.mp3
           target: en/2022-03/08/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/08/2022-08-20.mp3
+          target: en/2022-03/09/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/08/2022-08-21.mp3
+          target: en/2022-03/09/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/08/2022-08-22.mp3
+          target: en/2022-03/09/03
