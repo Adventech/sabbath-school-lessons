@@ -64,7 +64,7 @@ Below is current list of languages and capabilities implemented
 |🇮🇩 Indonesian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇮🇹 Italian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇰🇷 Korean|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|KI Kinyarwanda|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
+|🇰🇮🇳 Kinyarwanda|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇱🇦 Lao|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇱🇻 Latvian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇱🇹 Lithuanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
@@ -153,7 +153,7 @@ Below is current list of languages and capabilities implemented
 | 🇿🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇸🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇰🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| KI  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 🇰🇮🇳  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇮🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇹🇭  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🇵🇭  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -189,7 +189,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Tamil Language 🇮🇳
 - [x] Add Xhosa Language 🇿🇦
 - [x] Add Zulu Language 🇿🇦
-- [x] Add Kinyarwanda Language <sub>KI</sub>
+- [x] Add Kinyarwanda Language 🇰🇮🇳
 
 ## Contributing
 
