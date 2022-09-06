@@ -46,6 +46,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-09.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-10.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-11.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
