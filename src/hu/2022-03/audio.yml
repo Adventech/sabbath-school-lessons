@@ -156,3 +156,11 @@
           target: hu/2022-03/11/06
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220909.mp3
           target: hu/2022-03/11/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220910.mp3
+          target: hu/2022-03/12/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220911.mp3
+          target: hu/2022-03/12/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220912.mp3
+          target: hu/2022-03/12/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220913.mp3
+          target: hu/2022-03/12/04
