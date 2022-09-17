@@ -7,7 +7,7 @@ date:   02/09/2022
 
 _Andrew McChesney_
 
-Otce v brazilském Manausu probudily neviditelné ruce svírající jeho hrdlo. Marně se snažil ruce odtáhnout. Nakonec zalapal po dechu: "Pane, prosím, pomoz mi!". Ale smrtící stisk jej ještě více sevřel. Když už se zdálo, že je veškerá naděje ztracena, uslyšel tichý hlas: "Požádej Ježíše o pomoc. Řekni Ježíšovo jméno."
+Otce v brazilském Manausu probudily neviditelné ruce svírající jeho hrdlo. Marně se snažil ruce odtáhnout. Nakonec zalapal po dechu: "Pane, prosím, pomoz mi!". Ale smrtící stisk jej ještě více sevřel. Když už se zdálo, že je veškerá naděje ztracena, uslyšel tichý hlas: "Požádej o pomoc Ježíše. Řekni Ježíšovo jméno."
 
 "Ježíši, zachraň mě!", otec vykřikl. Neviditelné ruce okamžitě uvolnily své sevření. Otec, který lapal po dechu, si poprvé uvědomil moc Ježíšova jména. I když ještě ležel na posteli, radostně zvolal: "Jsem zachráněn ve jménu Ježíše! Jsem zachráněn Ježíšovou krví a Ježíšovou obětí!" Od toho dne otec vzýval Ježíšovo jméno, kdykoli ho obtěžovali zlí duchové.
 

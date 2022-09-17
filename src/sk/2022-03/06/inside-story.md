@@ -3,30 +3,26 @@ title:  Misijný príbeh
 date:   05/08/2022
 ---
 
-#### Část 6: Zmaření chrámového spiknutí
+#### Zmarený plán 6. časť
 
 _Andrew McChesney_
 
-Uplynuly měsíce, než Junior s matkou zjistili, proč si to otec rozmyslel a šel na Juniorův křest. Zlí duchové zakázali otci jít na sobotní odpolední křest, a tak odmítl pozvání svého syna, aby se ho zúčastnil. V den křtu se otec cítil neklidný a požádal matku, aby ho odvezla do chrámu Candomblé v brazilském Manausu. Kolem páté hodiny odpoledne duchové v chrámu otci řekli, aby se oblékl do velekněžského roucha a odešel do sboru Alfa společenství adventistů sedmého dne. Slíbili, že posednou lidi v kostele, aby zabránili Juniorovi ve křtu.
+Prešlo niekoľko mesiacov, kým sa Junior s mamou dozvedeli, prečo otec zmenil svoje plány a rozhodol sa prísť na Juniorov krst. Zlí duchovia mu zakázali ísť v sobotu poobede na krst, preto musel najprv synovo pozvanie odmietnuť. V deň krstu cítil v srdci veľký nepokoj. Poprosil mamu, aby ho odviezla do chrámu Condomblé v brazílskom meste Manaus. Okolo piatej poobede mu zlí duchovia povedali, aby sa obliekol do svojho kňazského rúcha a šiel do zboru Cirkvi adventistov siedmeho dňa Alfa. Sľúbili mu, že ovládnu prítomných a postarajú sa o to, aby sa Juniorov krst nekonal.
 
-Otec si oblékl roucho a zavolal si taxi. Slyšel, jak kolem něj víří neviditelná legie zlých duchů. U vchodu do kostela duchové náhle prohlásili, že dovnitř nemůžou.
+Otec sa obliekol do kňazského rúcha a zavolal si taxík. Celkom zreteľne počul, ako ho sprevádzala skupina zlých duchov. Pri vchode do zboru zlí duchovia zrazu vyhlásili, že dnu nemôžu vojsť.
 
-Otec si vzpomněl na nejdůležitější lekci, kterou mu duchové před lety dali: Nikdy nenechávejte práci nedokončenou. Pokud nějaký úkol začal, musel ho dokončit. Otec odvážně vstoupil do kostela. Jakmile vešel do přeplněného hlavního sálu, zaplavila ho příjemná, posvěcená energie. Nepodobala se ničemu, co kdy zažil, a bylo to příjemné. Později si uvědomil, že to musela být přítomnost Ducha svatého.
+Otec si však spomenul na najdôležitejšiu lekciu, ktorú ho duchovia učili pred niekoľkými rokmi: nikdy nenechávaj prácu nedokončenú. Ak teda niečo začal, musí to dokončiť. Rozhodol sa teda odvážne vstúpiť do zboru. Ako tak kráčal preplnenou hlavnou sálou, vnímal príjemnú, posvätnú atmosféru. Nikdy predtým nič podobné nezažil. Cítil sa tam veľmi dobre. Neskôr si uvedomil, že to musela byť prítomnosť Ducha Svätého.
 
-Otcův hněv kvůli křtu zmizel. Vzadu se s ním setkal diakon Roberto Fernandez, objal ho a odvedl ke křestnímu bazénku. Otec se otočil a podíval se na shromáždění, kde viděl lidi se skloněnými hlavami. Myslel si, že jsou vyděšení, ale později pochopil, že se modlí. Když uviděl Juniora ve křestním bazénku, pochopil, že mu duchové lhali. Junior nebyl přinucen, aby vstoupil do Církve adventistů. Bylo to jeho vlastní rozhodnutí.
+Otcov hnev kvôli Juniorovmu krstu sa zrazu vytratil. Miestny diakon Roberto Fernandez sa mu prihovoril hneď pri vchode, privítal ho a doviedol dopredu k bazénu, kde sa mal konať krst. Keď sa otec otočil, videl, že ľudia v zhromaždení majú sklonené hlavy. Najprv si myslel, že je to zo strachu. Neskôr pochopil, že sa modlili. Keď uvidel Juniora v bazéne, uvedomil si, že zlí duchovia mu klamali. Juniora nikto nenútil, aby sa stal členom Cirkvi adventistov s.d. Bolo to jeho vlastné rozhodnutie. 
 
-Po písni pastor Ricardo pozvedl ruku a řekl: "Jako služebník evangelia tě křtím ve jménu Otce, Syna a Ducha svatého. Amen." Pak ponořil Juniora do vody.
+Po piesni kazateľ Ricardo zdvihol ruku a povedal: „Ako služobník evanjelia ťa krstím v mene Otca, Syna a Ducha Svätého. Amen.“ Potom Juniora ponoril.
 
-Po křtu si Junior vzal mikrofon a podíval se na otce.
+Po krste si Junior poprosil mikrofón. Zahľadel sa na otca a povedal: „Ocko, napriek tvojmu náboženstvu ťa mám veľmi rád. Nasledovalo vrúcne objatie. Chlapec sa rozplakal. Jeho slová otcovi zlomili srdce.
 
-"Tati, navzdory tvému náboženství tě mám moc rád," řekl.
+Keď sa celá slávnostná bohoslužba skončila, mnohí členovia zboru prišli za otcom, zoznámili sa s ním a objali ho. Bol z toho úplne šokovaný. Nikdy by nebol povedal, že niekde sa k nemu budú správať tak milo. „Je to veľmi pekné miesto a ľudia sú tu naozaj milí,“ povedal otec, keď nasadol do auta.
 
-Objal otce a začal plakat. Jeho slova přemohla otcovo srdce.
+Po návrate domov otec zavolal všetkým známym a hrdo im oznamoval, že jeho syn bol pokrstený. Všetkým povedal, že to bola neuveriteľne fantastická skúsenosť.
 
-Když obřad skončil, členové církve zasypali otce objetím. Ten byl v šoku. Nikdy nečekal, že s ním bude zacházeno s takovou láskou. "Tohle je tak hezké místo a lidé jsou tak milí," řekl, když nastupoval do auta.
+Mama si uvedomila, že v jeho srdci začal pôsobiť Duch Svätý. Počas najbližších štyroch dní naplnil ich domov neuveriteľný pokoj. Potom však zlí duchovia prikázali otcovi, aby zabil mamu aj Juniora.
 
-Doma otec obvolal všechny známé, aby jim hrdě oznámil, že jeho syn byl pokřtěn. Zážitek popsal jako neuvěřitelný.
-
-Matka si uvědomila, že v jeho srdci začal působit Duch svatý. Jejich domov na čtyři dny naplnil neuvěřitelný pokoj. Pak zlí duchové přikázali otci, aby matku a Juniora zabil.
-
-_Vaše dary třinácté soboty pomůžou otevřít osm sborů v jihoamerické divizi, včetně čtyř v Brazílii, kde otec (Eduardo Ferreira dos Santos) a jeho rodina žijí._
+_Vaše dary trinástej soboty pomôžu otvoriť osem nových zborov v Juhoamerickej divízii. Štyri z nich sa nachádzajú v Brazílii, kde žije aj rodina Eduarda dos Santos._
