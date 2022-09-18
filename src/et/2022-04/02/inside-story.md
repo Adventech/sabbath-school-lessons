@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 07/10/2022  
+title: Misjonilugu
+date: 07/10/2022
 ---
 
 #### Tunnustähed ja imed

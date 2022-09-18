@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 02/12/2022  
+title: Misjonilugu
+date: 02/12/2022
 ---
 
 #### Modesty! Modesty! Modesty!

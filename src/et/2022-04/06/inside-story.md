@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 04/11/2022  
+title: Misjonilugu
+date: 04/11/2022
 ---
 
 #### Teise põse pööramine

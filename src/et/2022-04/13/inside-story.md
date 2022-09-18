@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 23/12/2022  
+title: Misjonilugu
+date: 23/12/2022
 ---
 
 #### Kaks unenägu Angolas

@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 09/12/2022  
+title: Misjonilugu
+date: 09/12/2022
 ---
 
 #### Julge tunnistaja

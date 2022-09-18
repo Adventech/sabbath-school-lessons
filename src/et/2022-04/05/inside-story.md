@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 28/10/2022  
+title: Misjonilugu
+date: 28/10/2022
 ---
 
 #### Kristuse saadik

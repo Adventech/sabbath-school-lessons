@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 14/10/2022  
+title: Misjonilugu
+date: 14/10/2022
 ---
 
 #### Iga sent on püha

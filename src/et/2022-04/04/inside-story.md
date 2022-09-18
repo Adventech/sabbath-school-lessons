@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 21/10/2022  
+title: Misjonilugu
+date: 21/10/2022
 ---
 
 #### Elava vee jagamine

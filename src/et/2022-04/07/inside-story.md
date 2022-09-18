@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 11/11/2022  
+title: Misjonilugu
+date: 11/11/2022
 ---
 
 #### Sõna omaks võtmine, 1. osa

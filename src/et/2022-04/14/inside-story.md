@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 30/12/2022  
+title: Misjonilugu
+date: 30/12/2022
 ---
 
 #### Mõjukas mahlabaar Fidžil

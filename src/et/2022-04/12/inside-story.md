@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 16/12/2022  
+title: Misjonilugu
+date: 16/12/2022
 ---
 
 #### Jeesus versus lohe

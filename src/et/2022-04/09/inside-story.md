@@ -1,6 +1,6 @@
 ---
-title: Misjonilugu  
-date: 25/11/2022  
+title: Misjonilugu
+date: 25/11/2022
 ---
 
 #### Misjonär
