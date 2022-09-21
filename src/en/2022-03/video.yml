@@ -26,6 +26,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_j6j3I3w1vsM_132a1677cc.jpg
         - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-12-total-surrender-to-christ-in-times-of-suffering-and-trial/-/40041103/-/-/-/-/-/-/1/1/
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_SVj8wzrVnOA_3e0de0c144.jpg
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-13-reflecting-on-the-sufferings-of-christ/-/40041174/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_oWx6ZQgqDZj_c32a661125.jpg
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-01.mp4
@@ -52,6 +54,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-11.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-12.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-03-13.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -94,3 +98,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-11.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-12.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-12.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-13.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-03-13.jpeg
