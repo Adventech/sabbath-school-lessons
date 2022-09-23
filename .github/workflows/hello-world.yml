@@ -1,0 +1,9 @@
+name: Say Hello World
+on: [pull_request]
+jobs:
+  sayHelloWorld:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: adventech/sabbath-school-action-content-verification@v1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
