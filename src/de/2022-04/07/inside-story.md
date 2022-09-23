@@ -7,7 +7,7 @@ date:   11/11/2022
 
 _Andrew McChesney, Adventist Mission_
 
-Eulalia Rashid, die auf den Nördlichen Marianen, einem US-Außengebiet im Pazi­fischen Ozean lebt, ging das Bier aus und sie machte sich auf den Weg zum ­Laden, um neues zu kaufen. Es war Heiligabend. Sie war einsam und hatte niemanden, mit dem sie das Fest feiern konnte. Seit 37 Jahren war sie Alkoholikerin und hatte keinen Kontakt mehr zu ihren 4 Kindern und 13 Enkelkindern. Außerdem war sie an Dickdarmkrebs erkrankt.
+Eulalia Rashid, die auf den Nördlichen Marianen, einem US-Außengebiet im Pazifischen Ozean lebt, ging das Bier aus und sie machte sich auf den Weg zum Laden, um neues zu kaufen. Es war Heiligabend. Sie war einsam und hatte niemanden, mit dem sie das Fest feiern konnte. Seit 37 Jahren war sie Alkoholikerin und hatte keinen Kontakt mehr zu ihren 4 Kindern und 13 Enkelkindern. Außerdem war sie an Dickdarmkrebs erkrankt.
 
 Unterwegs fiel Eulalia auf der dunklen Straße eine kleine Holzschachtel auf. Sie hob sie auf und schüttelte sie, weil sie dachte, dass darin Geld sein könnte. Tatsächlich war eine Centmünze darin und sie steckte die Schachtel in die Tasche. Als sie im Laden stand, zog sie die Schachtel heraus und sah die Worte auf der Oberseite: „Dein Wort ist meines Fußes Leuchte und ein Licht auf meinem Wege“ (Ps 119,105).
 

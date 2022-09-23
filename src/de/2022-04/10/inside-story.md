@@ -15,7 +15,7 @@ Der Hexendoktor erklärte, dass Hexen den Jungen mit einem bösen Zauber belegt 
 
 Kurze Zeit später hatte Modesty einen Traum. Als er schlief, hörte er eine Stimme, die ihn bei seinem Namen rief: „Modesty! Modesty! Modesty! Dies ist mein Kind. Warum hast du ihn mit bösen Geistern befleckt? Ich will nicht, dass du dich mit Hexendoktoren einlässt, wenn du möchtest, dass er lebt.“
 
-Erschüttert stand Modesty auf und warf die traditionelle Medizin weg. Er ­erinnerte sich an einen adventistischen Arzt und brachte den Jungen zu ihm. Der Arzt diagnostizierte bei Akurious Tuberkulose und eine Lungenentzündung und schickte ihn in ein Krankenhaus, wo er behandelt werden konnte. Modesty ­betete weiter und Rebecca schloss sich ihm an. Sie setzten ihr ganzes Vertrauen auf ­Jesus.
+Erschüttert stand Modesty auf und warf die traditionelle Medizin weg. Er erinnerte sich an einen adventistischen Arzt und brachte den Jungen zu ihm. Der Arzt diagnostizierte bei Akurious Tuberkulose und eine Lungenentzündung und schickte ihn in ein Krankenhaus, wo er behandelt werden konnte. Modesty betete weiter und Rebecca schloss sich ihm an. Sie setzten ihr ganzes Vertrauen auf Jesus.
 
 Heute ist Akurious 22 Jahre alt. Seine Eltern Modesty und Rebecca Kakula bekamen später vier weitere Kinder. Bei der Geburt eines jeden Kindes weigerten sie sich jedoch, an der traditionellen Zeremonie teilzunehmen, die für Neugeborene abhalten wird. Stattdessen brachten sie ihre Babys in die Adventgemeinde, um sie Jesus zu weihen.
 

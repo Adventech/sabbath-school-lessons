@@ -11,7 +11,7 @@ Schreie zerrissen die Luft in dem abgelegenen Dorf in Laos. Ein adventistischer 
 
 Die Eltern hatten all ihr Geld ausgegeben, um ein Heilmittel zu finden. Aber die Situation wurde immer schlimmer, bis sie sich widerwillig entschlossen, Aer die ganze Zeit anzuketten, um ihn daran zu hindern, sich selbst und andere zu verletzen. Nun war er schon seit sechs Monaten an den Holzboden gefesselt.
 
-Der Pastor sprach mit Aer und erzählte ihm und seinen Eltern von der rettenden Liebe Jesu. „Wenn Jesus will, kann er Aer heilen“, sagte er. Er bat um die Erlaubnis, für den Jungen zu beten. Aers Eltern stimmten freudig zu. In ihren ­Gesichtern leuchtete die Hoffnung, dass ihr Sohn geheilt werden würde.
+Der Pastor sprach mit Aer und erzählte ihm und seinen Eltern von der rettenden Liebe Jesu. „Wenn Jesus will, kann er Aer heilen“, sagte er. Er bat um die Erlaubnis, für den Jungen zu beten. Aers Eltern stimmten freudig zu. In ihren Gesichtern leuchtete die Hoffnung, dass ihr Sohn geheilt werden würde.
 
 Ein paar Tage später kamen der Pastor und sein Team erneut und beteten für Aer. Der Pastor lud die Familie ein, den Gottesdienst in der Adventgemeinde im Nachbardorf zu besuchen.
 
@@ -21,4 +21,4 @@ Die Nachbarn waren erstaunt und überhäuften Aers Eltern mit Fragen: „Warum g
 
 Nicht nur Aers Eltern nahmen nach der Heilung Jesus als ihren persönlichen Retter an, sondern auch viele andere Familien. Diese Familien gehören zu den 122 Menschen, die sich im April 2021 taufen ließen. Bei der Taufe war der Gemeindesaal bis auf den letzten Platz gefüllt.
 
-„Wir preisen Gott dafür, dass er in dieser Gegend so viele Wunder vollbracht hat, die dazu führten, dass viele Menschen zu ihm gekommen sind, um ­gerettet zu werden“, sagte der laotische Pastor, der diese Geschichte Advent Mission ­erzählte.
+„Wir preisen Gott dafür, dass er in dieser Gegend so viele Wunder vollbracht hat, die dazu führten, dass viele Menschen zu ihm gekommen sind, um gerettet zu werden“, sagte der laotische Pastor, der diese Geschichte Advent Mission erzählte.

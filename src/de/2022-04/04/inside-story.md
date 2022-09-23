@@ -17,6 +17,6 @@ Nach dem Trinkspruch wandte sich der Präsident an Antonio und fragte fast flüs
 
 Der Präsident reichte ihm die Hand. „Ich gratuliere Ihnen, dass Sie so ein großartiges Beispiel sind“, sagte er. „Auch ich bin ein Mann des Glaubens. Gott segne Sie.“ Ein fester Händedruck beendete das Gespräch.
 
-Als Antonio sich anschließend unter die Gäste mischte, spürte er neugierige Blicke. Seine Gewohnheit, auf Alkohol zu verzichten, hatte, gestärkt durch ­seinen Glauben, zu einer unerwarteten Begegnung mit einem der mächtigsten ­Menschen der Welt geführt. Sein Herz freute sich, dass er Gott im Weißen Haus vertreten konnte.
+Als Antonio sich anschließend unter die Gäste mischte, spürte er neugierige Blicke. Seine Gewohnheit, auf Alkohol zu verzichten, hatte, gestärkt durch seinen Glauben, zu einer unerwarteten Begegnung mit einem der mächtigsten Menschen der Welt geführt. Sein Herz freute sich, dass er Gott im Weißen Haus vertreten konnte.
 
 Heute versucht Antonio jeden Tag in Concepción, Peru, wo er mit seiner Frau Enma lebt, Gott zu repräsentieren. Er ist 99 und sie 90 Jahre alt – ein lebendiges Zeugnis ihrer Überzeugung: „Ob ihr nun esst oder trinkt oder was ihr auch tut, das tut alles zu Gottes Ehre“ (1 Kor 10,31).
