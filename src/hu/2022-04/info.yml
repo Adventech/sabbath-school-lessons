@@ -7,7 +7,7 @@
   color_primary: "#5A2C32"
   color_primary_dark: "#541B23"
   splash: true
-    features:
+  features:
     - egw-quotes
   credits:
     - name: Írta
