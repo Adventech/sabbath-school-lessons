@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-INTRO.pdf
+      target: et/2022-03/01
+      title: Εισαγωγή
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-01.pdf
+      target: et/2022-03/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-02.pdf
+      target: et/2022-03/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-03.pdf
+      target: et/2022-03/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-04.pdf
+      target: et/2022-03/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-05.pdf
+      target: et/2022-03/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-06.pdf
+      target: et/2022-03/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-07.pdf
+      target: et/2022-03/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-08.pdf
+      target: et/2022-03/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-09.pdf
+      target: et/2022-03/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-10.pdf
+      target: et/2022-03/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-11.pdf
+      target: et/2022-03/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-12.pdf
+      target: et/2022-03/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/et/2022-03/ABSG-2022-03-ET-13.pdf
+      target: et/2022-03/13

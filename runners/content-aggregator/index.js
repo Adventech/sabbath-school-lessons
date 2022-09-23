@@ -54,7 +54,8 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                 let response = await axios.head(src);
                 if (response.status === 200 &&
                     response.headers['content-type'].indexOf('audio/') >= 0
-                    || response.headers['content-type'].indexOf('application/mp3') >= 0)
+                    || response.headers['content-type'].indexOf('application/mp3') >= 0
+                    || response.headers['content-type'].indexOf('application/wav') >= 0)
                 {
                     console.log(`Found ${title} for ${targetDate.format(DATE_FORMAT)}. Will commit`)
                     audio.tracks.push({
@@ -152,7 +153,34 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2022/07/LECCION-${week}-${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
+let portgueseAudio = async function () {
+    await dailyAudio(
+        "pt",
+        "Áudio da Escola Sabatina",
+        {
+            artist: "Áudio da Escola Sabatina",
+            target: 'daily',
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [
+                "1SAB",
+                "2DOM",
+                "3SEG",
+                "4TER",
+                "5QUA",
+                "6QUI",
+                "7SEX"
+            ]
+
+            return `https://mais.cpb.com.br/wp-content/uploads/2022/08/L${week}-${mapping[day-1]}.wav`
         },
         2,
         7
@@ -191,6 +219,7 @@ let run = async function () {
     await spanishAudio();
     await romanianAudio()
     await hungarianAudio();
+    await portgueseAudio();
 }
 
 run().then(() => {

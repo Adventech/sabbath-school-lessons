@@ -19,3 +19,8 @@
     title: Video
     description: Sledujte rozhovor na téma lekce, k prohloubení svého studia.
     image: "v1/images/features/feature_video.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White citáty
+    description: Rozšiřte své studium s doplňkovými vybranými citáty ze spisů Ellen G. White
+    image: "v1/images/features/feature_egw.png"
