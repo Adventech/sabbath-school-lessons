@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-Intro.pdf'
+      target: en/2022-04-rt/introduction
+      title: 'Introduction'
+      start_date: 24/09/2022
+      end_date: 30/09/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L01.pdf'
+      target: en/2022-04-rt/01
+      title: 'Spiritual Exercise'
+      start_date: 24/09/2022
+      end_date: 30/09/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L02.pdf'
+      target: en/2022-04-rt/02
+      title: 'Bible Study and Prayer'
+      start_date: 01/10/2022
+      end_date: 07/10/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L03.pdf'
+      target: en/2022-04-rt/03
+      title: 'Christian Service'
+      start_date: 08/10/2022
+      end_date: 14/10/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L04.pdf'
+      target: en/2022-04-rt/04
+      title: 'Jesus Our High Priest'
+      start_date: 15/10/2022
+      end_date: 21/10/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L05.pdf'
+      target: en/2022-04-rt/05
+      title: 'Submission'
+      start_date: 22/10/2022
+      end_date: 28/10/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L06.pdf'
+      target: en/2022-04-rt/06
+      title: 'Secret Goodness'
+      start_date: 29/10/2022
+      end_date: 04/11/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L07.pdf'
+      target: en/2022-04-rt/07
+      title: 'Fasting, Purity, and Simplicity'
+      start_date: 05/11/2022
+      end_date: 11/11/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L08.pdf'
+      target: en/2022-04-rt/08
+      title: 'Christian Sacrifice and Leaps of Faith'
+      start_date: 12/11/2022
+      end_date: 18/11/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L09.pdf'
+      target: en/2022-04-rt/09
+      title: 'The Christian and Money'
+      start_date: 19/11/2022
+      end_date: 25/11/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L10.pdf'
+      target: en/2022-04-rt/10
+      title: 'Saying It With Tact'
+      start_date: 26/11/2022
+      end_date: 02/12/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L11.pdf'
+      target: en/2022-04-rt/11
+      title: 'Expressing Your Feelings'
+      start_date: 03/12/2022
+      end_date: 09/12/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L12.pdf'
+      target: en/2022-04-rt/12
+      title: 'Someone to Talk To'
+      start_date: 10/12/2022
+      end_date: 16/12/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L13.pdf'
+      target: en/2022-04-rt/13
+      title: 'A Matter of Time'
+      start_date: 17/12/2022
+      end_date: 23/12/2022
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2022-04-rt/R-22-Q4-L14.pdf'
+      target: en/2022-04-rt/14
+      title: "Jesus\' Second Coming"
+      start_date: 24/12/2022
+      end_date: 30/12/2022
