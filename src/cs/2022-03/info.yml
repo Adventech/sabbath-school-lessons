@@ -1,0 +1,20 @@
+---
+  title: "V Žáru Zkoušek"
+  description: "„Všechno povstalo skrze ně [Slovo] a bez něho nepovstalo nic, co jest.“ (J 1,3) Všechno povstalo skrze Krista, a přece – podle Písma – i on plakal (J 11,35). Stvořitel plakal? Kdyby jen to. Ježíš „byl v opovržení, kdekdo se ho zřekl, muž plný bolestí, zkoušený nemocemi“ (Iz 53,3). Stvořitel, muž bolesti – opovržený a opuštěný? A ve chvíli smrti dokonce zvolal: „Bože můj, Bože můj, proč jsi mě opustil?“ (Mt 27,46)."
+  human_date: "Červenec · Srpen · Září 2022"
+  start_date: "25/06/2022"
+  end_date: "23/09/2022"
+  color_primary: "#553F2D"
+  color_primary_dark: "#4B3521"
+  splash: true
+  features:
+    - egw-quotes
+  credits:
+    - name: Autor
+      value: "Gavin Anthony"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Audio verze lekcí
+      value: "Richard Babinec"
+    - name: Dodatečné otázky k diskuzi
+      value: "Vlastimil Fürst"

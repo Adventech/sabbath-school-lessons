@@ -1,0 +1,21 @@
+### Der gekreuzigte Schöpfer
+
+„Alle Dinge sind durch dasselbe gemacht, und ohne dasselbe ist nichts gemacht, was gemacht ist“ (Joh 1,3).
+
+„Alle Dinge“ sind durch ihn, Jesus, gemacht und doch sagt die Bibel, dass Jesus „weinte“ (Joh 11,35 EB). Der Schöpfer weinte? Mehr noch, Jesus war „verachtet und von den Menschen verlassen, ein Mann der Schmerzen und mit Leiden vertraut“ (Jes 53,3 EB). Der Schöpfer, ein Mann der Schmerzen, verachtet und verlassen? Er rief einst: „Mein Gott, mein Gott, warum hast du mich verlassen?“ (Mt 27,46).
+
+Wie kann das sein? Es liegt daran, dass Jesus, unser Schöpfer, auch unser Erlöser war. Als solcher war er der gekreuzigte Gott – der Schöpfer, der Menschengestalt annahm und in dieser Menschengestalt ein Leben der Entbehrung und Mühsal führte, an dessen Ende er an einem römischen Kreuz hing.
+
+So litt unser Schöpfer, derjenige, in dem wir „leben, handeln und sind“ (Apg 17,28 NLB), als Mensch auf eine Weise, wie es keiner von uns je könnte. Wir können nur unseren eigenen Kummer, unsere eigenen Sorgen erfahren; am Kreuz trug er „unsere Leiden … und unsere Schmerzen“ (Jes 53,4 EB) – sie alle. Das ist die erstaunlichste Tat in der ganzen kosmischen Geschichte.
+
+Vor diesem Hintergrund (dem des gekreuzigten Gottes, der über uns hängt) werden wir in den nächsten Monaten versuchen, das Unfassbare besser zu verstehen: unser eigenes Leiden, die Leiden der Christen, derer, die ihr Leben Christus unterstellt haben. Wir erheben nicht den Anspruch, alle Antworten zu haben; stattdessen berufen wir uns auf 1. Johannes 4,8: „Gott ist Liebe.“ Obwohl schlimme Dinge geschehen, können wir Gott vertrauen und tatsächlich durch sie in der Gnade wachsen, wie schmerzhaft der Prozess auch sein mag.
+
+In diesem Quartal werden wir das Wort Gottes studieren und sehen, wie andere Menschen aus Fleisch und Blut zwar Glauben ausstrahlten, aber dennoch mit Verzweiflung, Verrat, Enttäuschung, Verlust, Ungerechtigkeit und Missbrauch zu tun hatten (klingt das nach etwas, das du nachvollziehen kannst?). Wie sind sie damit fertiggeworden? Was haben sie gelernt? Was können wir von ihrem Beispiel lernen?
+
+Wenn wir diese Menschen, ihre Erfahrungen, ihre Kämpfe und ihre Glaubensprüfungen (die unseren eigenen sehr ähnlich sein können) betrachten, müssen wir sie immer vor dem Hintergrund des Kreuzes sehen. Wir müssen uns immer daran erinnern, dass, egal was jemand durchmacht, Jesus Christus, unser Schöpfer und Erlöser, Schlimmeres durchgemacht hat.
+
+Unser Gott ist ein leidender Gott. Selbst Albert Camus, den man schwerlich als Christen bezeichnen kann, verstand einige der Implikationen des Kreuzes und der Leiden Gottes dort: „Die Nacht auf Golgatha ist in der Geschichte der Menschheit nur deshalb so wichtig, weil in ihrem Schatten die Gottheit ihre traditionellen Privilegien aufgab und bis zum letzten Tropfen die Agonie des Todes trank einschließlich der Verzweiflung“ (Albert Camus, The Rebel, New York 1991, S. 33). Oder wie Ellen White es ausdrückte: „Das Kreuz führt lediglich unseren stumpfen Sinnen das Leid vor Augen, das die Sünde Gott von Anfang an zufügte“ (E 270).
+
+Unsere Lektionen sind keine Theodizee, die Rechtfertigung Gottes angesichts des Bösen. Stattdessen sind sie, wie wir gesagt haben, ein Versuch, uns zu helfen, das unvermeidliche Leiden zu verarbeiten, das wir alle hier in einer Welt erleben, in der das Sündigen so leicht wie das Atmen ist. Wir werden versuchen zu zeigen, dass Schmerz, Leid und Verlust nicht bedeuten, dass Gott uns verlassen hat; sie bedeuten nur, dass selbst wir als Gläubige das Los einer gefallenen Menschheit teilen. Der Unterschied besteht darin, (1) dass wir durch Jesus und die Hoffnung, die er anbietet, einen Sinn und einen Zweck in dem finden können, was sinn- und zwecklos erscheint, und (2) dass wir irgendwie – auch wenn wir uns nicht vorstellen können, wie – der Verheißung vertrauen können, „dass denen, die Gott lieben, alle Dinge zum Guten mitwirken“ (Röm 8,28 EB) – denen, die den Gott lieben, der, obwohl er alles geschaffen hat, auch alles erlitten hat (und deshalb lieben wir ihn).
+
+Gavin Anthony, der Hauptautor dieser Studienanleitung, wuchs als Missionarskind in Sri Lanka auf. Er arbeitete als Pastor in England und war Vereinigungsvorsteher in Island, als er diese Studienbetrachtung verfasste.

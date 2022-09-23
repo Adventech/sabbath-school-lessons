@@ -1,0 +1,21 @@
+### Sersiamtu Thahnak Rapthlak
+
+“Thil hmuahhmuah hi amah ih sersiam theh mi an si ih, thil sersiam mi lakah amah ih sersiam lo mi thil ziang hman a um lo.” (Johan 1:3)
+
+Bible ih sim danah cun ziangkim hi Jesui sersiam mi a si ih “Jesu a tap” (Johan 11:35) tiah a ti. Sersiam tu cu a tap maw? Culawng si lo in” riahsiat, vansannak le thinnatnak a tuar, mi ih ngaisan a hlawh lo, an hmuhsuam.”  (Isaiah 53:3). Riahsiat vansangnak a tuartu Sersiamtu cu ngaisang lo in an hnong maw? Cule “Ka Pathian, Ka Pathian, ziangah so i fehsan? tiah a au suak.
+
+Hivek hi ziangah so a cang thei? Kanmah in Sersiamtu le in Runtu a si ih Amah cu that a tuartu Pathian, hringnun in tawmpi Sersiamtu a si. Milai ih tuarmi retheih zonzaihnak cu amai thubuai orh mi  vekah la in hringnun a hmang ih cross parah Rom pawl ih thah a tuarnak in a cemnet ter.
+
+In Sersiamtu Amah zarah “nunnak nei cangvai thei kan si” (Tirhthlah 17:28). Milai sinak ih reitheihnak cu ziangti khalin kan tong thei. Kan riahsiatnak, le kan ninghannak cu kanmah ten kan tuar rero thei men, “kan riahsiatnak, le kan ninghannakpawl” cu Amah in cross ah a zaten a phur theh zo (Isaiah 53:4).  Himi cangvaihnak hi lei le van ih thuanthu roling pakhat a si.
+
+Khami thuhla sirhsan in (cross ah thah tuartu Pathian in kan nun a luahkhat), Khrih hnenah pumpek awtu Khrihfa pawl ih tuarnak, kan theih thei lo mi pawl cu thate ih theihthiam kan tum. Asinan a ruang kan theih lo mi tampi a um, “Pathian cu duhdawtnak” a si timi lawng kan thei  (1 John 4:8). Cule tuarnak poisaknak nei lo in Pathian kan rinsan thei.
+
+Tui quarter ah Pathian thusuak kan zir ding, zumnak phun tampi le vun rong le cithlah danglamnak aum ih, beidon thlak ih dungsipnak, sungnak, dan nei lo ih cangvaihnak, thuneihnak hmansualnak, kan ton rero mi pawl cu ziangvekin an pehtlaih aw timi kan zoh din? Ziangtin so nehnak an rak ngah? An zirsuah mi ziangso a si? Zohthimtlak an nun in ziangso in zirh?
+
+Hi milai pawl ih, an cangvaih dan, harsa zetih an talbuainak, an zumnak hniksak an tonnak, (cuih pawl cu kan ton mi thawn a bang aw zul mai thei). Cross thuhla bensan ih zoh tikah a kalh aw ringring vekin kan hmu ding. Zokhalin siat kan ton tik khalah, kanmah hnakin in Sersiamtu le in Runtu Jesu Khrih ih a tuar mi a bese sawn timi kan cing ringring ding.
+
+Kan Pathian cu harsatnak tuartu Pathian a si. Abert Camus cu Khrihfa a si ko nan cross ih manneihnak le Pathian ih retheih zohzaih a tuarnak pawl cu a rak theithei lo. “Golgotha tiang par ih an thah zan kha milai san thuanthu ah a poimawh ruangah, Khawzing Pathian cu anmai nunphung cotha ngahnak ding a hnong ih a netabik thihnak a thlen tiang harsatnak khuathai sung ih sabitzu cu farkkhat hman tang lo in a in thluh.” Albert Camus, The Rebel (New York: Vintage International, 1991), p. 33. Khami thuhla Ellen G. White, ih a ngan mi cu,” A hramthok ih kan sualnak, Pathian thinlung nat tertu ruahnak neilo ih kan aatnak cu Cross in a langter.” Education, p. 263.
+
+Kan zirlai hi fimzirnak a si lo, Pathian diknak le felnak in thillirthalo a hmaisannak a si. Cumi hnakin kan sim theu mi cu leitlun hi thawthawt tluk ih ol in sual tuahnak hmun a si. Pumpelh theih lo in harsatnak kan ton mi paltlang thei dingah in rak bawm an tumnak pakhat cu, Pathian ih dungtunnak ruangah harsatnak le natnak kan tuar tiah zumtu khalin langter seh timi lawng an duh. Khami ruangah kan tuar mi a si lo tiah sual cithlah milai pawl hnenah lungrual ten kan langter cio ding mi a si. Danglamnak cu khami ciah a si, Jesu Khrih le amai in pek mi ruahsannak zarah, “Pathian duhdawttu pawl hrangah thil ziangkim hin an thatnak dingah ah tuan tlang.” (Rom. 8:28, NKJV). Himi thutiam rinsann in san nei lo zet le kan ruah ban lo mi thil khirhkhan kan ton mi cu a sullam le a san kan thei thei ding. Thil ziangkim tuahtu Pathian a si, kan hrang harsatnak tinkim tuarsuak tu khal a si ruangah amah kan duhdawt.
+
+Tui Kuata zirlai tuahtu cu Gavin Anthony, a si. Amah cu Sri Lanka ih ramthar nortu sungsuak ih thang lian mi a si. Himi zirlai a ngan laiah amah cu England ram Iceland peng ah Conference President le Pastor hnatuantu a si.

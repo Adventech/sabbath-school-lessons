@@ -29,6 +29,4 @@ Back home, Father called everyone he knew to announce proudly that his son had b
 
 Mother realized that the Holy Spirit had started to work in his heart. An unbelievable peace filled their home for four days. Then the evil spirits ordered Father to kill Mother and Junior.
 
-_Your Thirteenth Sabbath Offering will help open eight churches in the South American Divi-_
-
-_sion, including four in Brazil, where Father (Eduardo Ferreira dos Santos) and his family live._
+_Your Thirteenth Sabbath Offering will help open eight churches in the South American Division, including four in Brazil, where Father (Eduardo Ferreira dos Santos) and his family live._
