@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L00.pdf'
+      target: en/2022-04-kd/introduction
+      title: "Introduction"
+      start_date: 24/09/2022
+      end_date: 30/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L01.pdf'
+      target: en/2022-04-kd/01
+      title: "\"Wake Up, Little Girl!\""
+      start_date: 24/09/2022
+      end_date: 30/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L02.pdf'
+      target: en/2022-04-kd/02
+      title: "Jesus' Get-well Party"
+      start_date: 01/10/2022
+      end_date: 07/10/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L03.pdf'
+      target: en/2022-04-kd/03
+      title: "A Hole in the Roof"
+      start_date: 08/10/2022
+      end_date: 14/10/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L04.pdf'
+      target: en/2022-04-kd/04
+      title: "\"Now I See!\""
+      start_date: 15/10/2022
+      end_date: 21/10/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L05.pdf'
+      target: en/2022-04-kd/05
+      title: "\"Young Man, Get Up\""
+      start_date: 22/10/2022
+      end_date: 28/10/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L06.pdf'
+      target: en/2022-04-kd/06
+      title: "The Lost Sheep"
+      start_date: 29/10/2022
+      end_date: 04/11/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L07.pdf'
+      target: en/2022-04-kd/07
+      title: "Lost and Found"
+      start_date: 05/11/2022
+      end_date: 11/11/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L08.pdf'
+      target: en/2022-04-kd/08
+      title: "The Naughty Son"
+      start_date: 12/11/2022
+      end_date: 18/11/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L09.pdf'
+      target: en/2022-04-kd/09
+      title: "The Big, Big Tree"
+      start_date: 19/11/2022
+      end_date: 25/11/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L10.pdf'
+      target: en/2022-04-kd/10
+      title: "The First Christmas"
+      start_date: 26/11/2022
+      end_date: 02/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L11.pdf'
+      target: en/2022-04-kd/11
+      title: "The First Christmas Song"
+      start_date: 03/12/2022
+      end_date: 09/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L12.pdf'
+      target: en/2022-04-kd/12
+      title: "The Shepherds Find Baby Jesus"
+      start_date: 10/12/2022
+      end_date: 16/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L13.pdf'
+      target: en/2022-04-kd/13
+      title: "Birthday Presents for Jesus"
+      start_date: 17/12/2022
+      end_date: 23/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-L14.pdf'
+      target: en/2022-04-kd/14
+      title: "The Poor Widow’s Offering"
+      start_date: 24/12/2022
+      end_date: 30/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-Activities.pdf'
+      target: en/2022-04-kd/activities
+      title: "Activities"
+      start_date: 24/12/2022
+      end_date: 30/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q4/Kindergarten/Student/K-22-Q4-MemoryVerses.pdf'
+      target: en/2022-04-kd/memory-verses
+      title: "Memory Verses"
+      start_date: 24/12/2022
+      end_date: 30/12/2022
