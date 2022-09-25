@@ -29,4 +29,4 @@ Later that day, when a Sabbath-keeping friend video-called Omar, he was greeted 
 
 “You have heard that it was said, ‘An eye for an eye and a tooth for a tooth.’ But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also” (Matthew 5:38, 39, NKJV).
 
-_This mission story illustrates Mission Objective No. 2 of the Seventh-day Adventist Church’s “I Will Go” strategic plan: “To strengthen and diversify Adventist outreach . . . across the 10/40 Window . . . and to non-Christian religions.” Read more: IWillGo2020.org. Omar is a pseudonym._
+_This mission story illustrates Mission Objective No. 2 of the Seventh-day Adventist Church’s “I Will Go” strategic plan: “To strengthen and diversify Adventist outreach . . . across the 10/40 Window . . . and to non-Christian religions.” Read more: IWillGo2020.org. Omar is a pseudonym._
