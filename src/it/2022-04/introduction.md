@@ -1,0 +1,19 @@
+### La vita eterna: La nostra speranza futura
+
+Dio ha creato gli esseri umani per far loro godere l’eternità in una relazione d’amore con lui e con il suo creato. Ma questa relazione fu distorta dalla misteriosa apparizione del peccato all’interno delle corti celesti (Is 14:12-15; Ez 28:12-19; Ap 12:7-12) e dalla successiva caduta di Adamo ed Eva (Ge 3:1-19; Ro 5:12). La morte ha tragicamente travolto non solo il genere umano, ma la vita nel suo insieme. Lo cogliamo oggi quando osserviamo le foglie cadere dagli alberi, i fiori appassire, i nostri piccoli cuccioli d’animale soffrire e morire, per non parlare dei nostri amati che spesso ci vengono sottratti brutalmente. Il nostro è un mondo intriso di sofferenza e lacrime non asciugate.
+
+Nel desiderio di un luogo migliore in cui vivere, la gente si è raffigurata tanti «paradisi» nei quali vorrebbe abitare. Nel 1933, per esempio, lo scrittore inglese James Hilton scrisse un libro - _Orizzonte perduto_ - che qualche anno dopo divenne un film, la cui trama parla di un aereo che esaurisce il carburante e finisce per schiantarsi sulle pendici innevate dell’Himalaya. Il pilota muore sul colpo, ma i pochi sopravvissuti vengono tratti in salvo dalla carcassa e portati da un gruppo di tibetani alla vallata paradisiaca di Shangri-La. Isolati dal mondo esterno i suoi abitanti crescono in amore e sapienza, vivendo una vita quasi immortale di gioia e armonia perduranti.
+
+Naturalmente è solo finzione. Noi, esseri umani mortali, abbiamo bisogno di certezze nel presente e di una speranza per il futuro. Come ha efficacemente affermato Emil Brunner, teologo svizzero, «se l’ossigeno è indispensabile per i polmoni, altrettanto lo è la speranza per dare significato alla vita umana». Togliete l’ossigeno e subentrerà la morte per soffocamento, rimuovete la speranza e l’umanità resterà senza fiato; subentrerà la disperazione, che provocherà la paralisi delle cognizioni intellettive e spirituali dando all’esistenza un senso di inutilità. Come la sorte dell’organismo umano dipende dall’approvvigionamento dell’ossigeno, così quella dell’umanità dipende dalla fornitura di speranza».
+
+La speranza biblica ci sostiene durante le crisi esistenziali che attraversiamo lungo questo nostro viaggio verso l’eternità.
+
+In contrasto con la filosofia presente nel film Orizzonte perduto, la nostra speranza eterna non va «dietro a favole abilmente inventate» (2 P 1:16), ma si basa sulla promessa attendibile di un mondo perfetto senza più lacrime, dolore o morte (Ap 21:1-5). Questa promessa preziosa ispirò la chiesa apostolica ed è stata fatta propria e apprezzata da tanti credenti cristiani nel corso dei secoli. Oggi non ha perso un briciolo della sua forza e continua a dare senso e scopo alle nostre vite. Ci consente di guardare con fiducia al futuro; ci assicura che tutti i nostri amati che si sono addormentati in Cristo risorgeranno dalla morte per ereditare la vita eterna.
+
+Il nostro studio biblico di questo trimestre tratta il tema del gran conflitto tra bene e male dalla prospettiva di due tematiche principali: l’origine e l’esistenza perdurante del male e della morte è la prima; l’azione continua di Dio per risolvere questo problema e ripristinare la condizione perfetta originale del mondo è la seconda.
+
+Una particolare attenzione viene dedicata alla questione riguardante la natura mortale degli esseri umani e al fatto che solo la risurrezione porterà all’immortalità.
+
+In realtà, non dobbiamo temere la morte perché Cristo, sacrificandosi per noi, ha sconfitto il suo potere. Abbiamo anzi la certezza che egli detiene «le chiavi della morte e del soggiorno dei morti» (Ap 1:18).
+
+Questo trimestre esploreremo il doloroso argomento della morte, ma attraverso le lenti della speranza offertaci mediante Gesù.
