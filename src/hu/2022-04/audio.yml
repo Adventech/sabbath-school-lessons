@@ -4,3 +4,5 @@
       tracks:
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220924.mp3
           target: hu/2022-04/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20220925.mp3
+          target: hu/2022-04/01/02
