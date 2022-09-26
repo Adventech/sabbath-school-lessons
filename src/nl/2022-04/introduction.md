@@ -1,4 +1,4 @@
-# Over de dood en sterven: onze hoop voor de toekomst
+### Over de dood en sterven: onze hoop voor de toekomst
 
 _Dr. Alberto R. Timm_
 
@@ -10,6 +10,4 @@ Natuurlijk is het maar een verhaal. Als sterfelijke mensen hebben we zekerheid n
 
 De Bijbelse hoop geeft ons inderdaad steun in de levenscrises waar we mee te maken krijgen tijdens onze reis naar de eeuwigheid. In tegenstelling tot de fictieve Shangri-La in Lost Horizon, ‘baseerden wij ons niet op vernuftige verzinsels.’ Die hoop is gebaseerd op Gods betrouwbare belofte van een volmaakte wereld zonder tranen, pijn of dood (Openbaring 21:1-5). Deze kostbare belofte inspireerde de apostolische kerk en vele christenen hebben daar door de eeuwen heen aan vastgehou- den en hebben die belofte gekoesterd. Deze belofte heeft nooit aan kracht ingeboet en geeft ook ons leven zin en betekenis. We kunnen de toekomst met vertrouwen tegemoet zien. Het verzekert ons ervan dat al onze geliefden die in Christus zijn gestorven uiteindelijk uit de dood worden opgewekt om het eeuwig leven te krijgen. De grote strijd tussen goed en kwaad staat in deze Bijbellessen centraal en zal vanuit het perspectief van twee hoofdthema’s worden bestudeerd. Het eerste thema is het ontstaan en blijvende bestaan van zonde en dood. Het tweede thema is Gods voortdurende inzet om deze problemen op te lossen en de wereld terug te brengen tot haar oorspron- kelijke volmaakte staat. Er ligt vooral ook een speciale nadruk op de sterfelijke natuur van mensen en waarom juist de opstanding leidt tot onsterfelijkheid. In werkelijkheid hoeven we niet bang te zijn voor de dood omdat Christus voor ons is gestorven en de macht van de dood heeft overwonnen. We mogen er zeker van zijn dat Hij ‘de sleutels van de dood en van het dodenrijk heeft’ (Openbaring 1:18). Dit kwartaal richten we ons op het pijnlijke thema van ‘de dood’, maar we doen dat vanuit de hoop die Jezus ons biedt.
 
-Dr. Alberto R. Timm (Andrews Universiteit), is adjunct-directeur van de Ellen White Stichting en lid van het Instituut voor Bijbelonderzoek en het Instituut voor Geowetenschap. Voorheen was hij werkzaam als voorzitter van het Latijns-Amerikaanse Adventistische Theologische Seminarie, dat uit meerdere campussen bestaat.
-
-
+_Dr. Alberto R. Timm (Andrews Universiteit), is adjunct-directeur van de Ellen White Stichting en lid van het Instituut voor Bijbelonderzoek en het Instituut voor Geowetenschap. Voorheen was hij werkzaam als voorzitter van het Latijns-Amerikaanse Adventistische Theologische Seminarie, dat uit meerdere campussen bestaat._
