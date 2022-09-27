@@ -4,8 +4,8 @@
   human_date: "Октябрь · Ноябрь · Декабрь 2022"
   start_date: "24/09/2022"
   end_date: "30/12/2022"
-  color_primary: "#5A2C32"
-  color_primary_dark: "#541B23"
+  color_primary: "#7F153E"
+  color_primary_dark: "#67072C"
   splash: true
   credits:
     - name: Автор
