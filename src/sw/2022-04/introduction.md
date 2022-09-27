@@ -1,4 +1,4 @@
-**Juu ya Mauti na Kufa: Tumaini Letu La Siku Zijazo**
+### Juu ya Mauti na Kufa: Tumaini Letu La Siku Zijazo
 
 Mungu aliwaumba wanadamu ili wafurahie kuishi umilele katika uhusiano wa upendo na Yeye na viumbe Wake. Lakini uhusiano huu ulipotoshwa na mwonekano wa ajabu wa dhambi ndani ya nyua za mbinguni (Isa. 14:12-15, Eze. 28:12-19, Ufu. 12:7-12) na anguko lililofuata la Adamu na Hawa (Mwa. 3:1-19, Rum. 5:12). Kwa masikitiko makubwa, mauti ilikumba sio tu jamii ya wanadamu bali viumbe vyote pia. Mwonekano wa mauti unaweza kuonekana leo katika majani yadondokayo kutoka kwenye miti, maua ambayo yanafifia kwenye vyombo vyetu vya maua, wanyama tuwapendao wasio na hatia ambao hufa kwa ucbungu, na wapendwa wetu ambao wanachukuliwa kutoka kwetu kwa ukatili sana. Ulimwengu wetu umejawa na mateso na machozi yasiyokoma.
 
