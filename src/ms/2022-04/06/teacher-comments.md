@@ -1,0 +1,66 @@
+---
+title:  Komen Guru
+date:  04/11/2022
+---
+
+**Ayat-ayat Utama**:Yesaya 52:13–53:12
+
+#### Bahagian I: Gambaran Keseluruhan
+
+Kematian yang menggantikan kematian kita adalah kebenaran utama pada dimensi kosmik. Yesus Kristus adalah korban pendamaian, kerana Dia telah mati untuk dosa-dosa kita (Rom. 3:25, Rom. 4:25, 1 Kor. 15:3, Ibr. 2:17, 1 Yohanes 2:2, 1 Yohanes 4:10). ). Pengorbanan terbesar yang pernah dibuat dipersembahkan apabila Raja seluruh alam datang ke dunia kita yang berdosa, melalui hidup tanpa dosa sebagai manusia, dan mati untuk menggantikan kematian kita. Kekristianan sejati adalah berpusat pada Salib (1 Kor. 2:2).
+
+Ellen G. White menyatakan dengan penuh kuasa: ““Pengorbanan Kristus sebagai penebusan dosa adalah kebenaran agung yang dikelilingnya semua kebenaran berkumpul. Agar dapat difahami dan dihayati dengan betul, setiap kebenaran dalam Firman Tuhan, dari Kejadian hingga Wahyu, mesti dipelajari di dalam sinaran cahaya yang memancar dari salib Kalvari. Saya mempersembahkan di hadapan kamu satu tugu hebat dan agung tentang rahmat dan kelahiran semula, keselamatan dan penebusan,—iaitu Anak Tuhan yang ditinggikan di kayu salib. Inilah yang menjadi asas bagi setiap khutbah yang disampaikan oleh para pendeta kita.”—Gospel Workers, ms. 315. Dia menambah: “Dari semua orang yang mengaku Kristian, umat Seventh-day Adventist harus menjadi yang paling utama dalam mengangkat Kristus di hadapan dunia.” Kematian Yesus di atas Salib adalah batu dasar yang diatasnya terletak semua ajaran Alkitab.
+
+Yesus Kristus datang untuk pelbagai sebab: (1) untuk menebus manusia—Dia dilahirkan sebagai manusia untuk mati bagi kita (Markus 10:45; Yohanes 3:16, 17); (2) untuk mendedahkan kepada kita sifat pengasih Tuhan yang sebenar (Yohanes 1:14, Yohanes 10:28–30, Yohanes 14:6–9); (3) untuk mengalahkan Syaitan dan menyangkal dakwaan palsunya (Mat. 4:1–11, Yohanes 12:31, 16:11, Ibr. 2:14); (4) dan untuk membuktikan bahawa Adam pertama boleh mentaati Tuhan sebagaimana Kristus dalam kemanusiaan-Nya mematuhi dengan sempurna semua tuntutan hukum dan menjalani kehidupan yang suci dan tanpa dosa (Mzm. 16:10; Lukas 1:35; Yohanes 8:46; Yohanes 14). :30; Kis. 2:24; 1 Kor. 15:22, 45; 1 Yohanes 3:5).
+
+#### Bahagian II: Ulasan
+
+Hamba Yang Menderita
+
+Dalam kitab Yesaya, terdapat lima lagu mengenai Hamba Tuhan yang diakui oleh para sarjana: (1) Yesaya 42:1–9; (2) Yesaya 49:1–7; (3) Yesaya 50:4–9; (4) Yesaya 52:13–53:12; dan (5) Yesaya 61:1–3. Puisi-puisi ini membentangkan pekerjaan Yesus Kristus. Dia memulakan pelayanan umum-Nya dengan petikan dari Yesaya 61:1, 2, yang berbicara tentang misi-Nya (lihat Lukas 4:16–21). Walau bagaimanapun, eksposisi terbaik dan paling terperinci mengenai makna kematian Kristus dalam Alkitab ialah Yesaya 53. Lagu teras Hamba yang Menderita, yang bermula dalam bab 52 dan berterusan sehingga bab 53, disusun secara simetri (lima rangkap, setiap satunya dengan tiga ayat, yang boleh dilabelkan sebagai berikut):
+
+1. Yesaya 52:13–15—Dalam bentuk Teka-teki: Lagu ini bermula dengan teka-teki, kerana Hamba ini bijak dan sangat ditinggikan di satu pihak. Tetapi sebaliknya, Dia cacat, dibenci oleh orang lain dan dicemari.
+
+2. Yesaya 53:1–3—Penolakan: Ayat ini menunjukkan penghinaan sepenuhnya pada Hamba itu. Dia menderita, dihina, ditolak, dan menjadi “orang yang berdukacita”.
+
+3. Yesaya 53:4–6—Korban Pendamaian: Segmen ini adalah inti pada perkara di mana alasan diberikan untuk semua penderitaan dan kematian Kristus. Kerana “dia menanggung kesakitan kita,” “memikul penderitaan kita,” “ditikam oleh kerana pelanggaran kita,” dan “diremukkan oleh kerana kejahatan kita,” dan “Tuhan telah menimpakan kepadanya kejahatan kita semua.”
+
+4. Yesaya 53:7–9—Penyerahan-Nya: Ayat ini menggambarkan penderitaan, pencubaan, kematian dan pengkebumian Kristus.
+
+5. Yesaya 53:10–12—Pemuliaan-Nya: Lagu itu memuncak dengan kebangkitan Dia yang menjadi korban untuk dosa dan kemakmuran dan kemenangan-Nya. Dia membenarkan banyak orang, kerana “dia menanggung dosa banyak orang” dan berkongsi pahala-Nya dengan mereka. Kematiannya adalah secara sukarela, penggantian dan penebusan dosa; sesudah itu hasil kematian-Nya yang penuh kemenangan itu diterapkan kepada umat percaya dalam pelayanan pengantaraan-Nya untuk mereka.
+
+Yesaya 53 adalah ayat Alkitab yang dibaca oleh sida-sida dari Ethiopia. Penginjil Filipus menjelaskan kepadanya bahawa ia mengandungi berita baik tentang Yesus Kristus. Hasilnya ialah pertaubatan dan pembaptisan sida-sida itu (Kis. 8:26–39).
+
+Salib—Titik Pusat Teologi
+
+Secara paradoks, kematian Kristus adalah jaminan kehidupan dan kematian-Nya membawa hidup kekal kepada Secara paradoks, kematian Kristus adalah jaminan kehidupan, dan kematian-Nya membawa hidup kekal kepada kita (Yohanes 3:16, 17; Rom. 3:22–26; 1 Yohanes 5:11, 12). Tidak ada satu teori pun yang dapat menjelaskan sepenuhnya makan mendalam pada kematian Kristus di kayu salib. Walaupun kita boleh mengumpulkan himpunan sebab bagi kematian-Nya, gambaran seperti itu akan hanya mampu mempamerkan sebahagian kecil daripada makna besar salib. Salib menyingkapkan kasih Tuhan yang tidak dapat difahami bagi orang berdosa; keadilan-Nya, kebenaran-Nya, kemegahan tabiat-Nya yang kudus, ketetapan hukum-Nya yang tidak dapat diubah, sifat dosa yang menjijikkan, keselamatan pemerintahan-Nya, kemenangan-Nya atas dosa, siapa yang berada dalam kuasa besar. kontroversi, dan kemenangan mutlak Kristus terhadap Syaitan dan kuasa-kuasa jahat. (Yohanes 3:16, 17; Rom. 3:22–26; 1 Yohanes 5:11, 12). Tidak ada satu teori pun yang dapat menjelaskan sepenuhnya kepentingan kematian Kristus di kayu salib. Walaupun kita boleh mengumpulkan keseluruhan mozek sebab kematian-Nya, gambaran seperti itu akan menangkap hanya sebahagian kecil daripada makna besar salib. Salib menyingkapkan kasih Tuhan yang tidak dapat dimengerti bagi orang berdosa, keadilan-Nya, kebenaran-Nya, kemegahan tabiat-Nya yang kudus, ketetapan hukum-Nya yang tidak dapat diubah, sifat dosa yang menjijikkan, keselamatan pemerintahan-Nya, kemenangan-Nya atas dosa, piahk mana yang terlibat di dalam kontroversi besar dan kemenangan mutlak Kristus terhadap Syaitan dan kuasa-kuasa jahat.
+
+Atas alasan ini maka kematian Kristus melaksanakan satu kedudukan yang menentukan dan dominan di dalam teologi Adventist kita. Tiada apa pun yang dapat menggantikan keutamaan dan kepentingan tertinggi pada kematian Kristus (Rom. 1:16, 17; Rom. 3:22–26; 1 Kor. 1:30; 1 Kor. 2:2; Eph. 4:21; Phil. 1:21; Kol. 1:27, 28). Apa yang berlaku di atas salib adalah satu tindakan penyelamatan ilahi yang unik, tiada tandingan dan tidak akan berulang (Ibr. 9:28; Ibr. 10:12, 14) yang daripadanya semua manfaat keselamatan mengalir keluar, termasuk pelayanan perantaraan Kristus untuk kita hari ini. Tiada sebarang perkara yang boleh memperbaiki atau menokok-tambah pada salib dan tidak ada yang dapat menambahkan apa-apa pada pengorbanan Kristus yang luar biasa untuk manusia; keselamatan itu lengkap di dalam Dia (Rom. 3:21–26; 1 Kor. 1:18, 23, 24; 1 Kor. 2:2; Gal. 2:16, 21; Efe. 2:4–10). Kematian pendamaian Kristus di Kalvari adalah seperti mata air yang daripadanya semua berkat lain akan muncul; atau dengan kata lain, Pendamaian-Nya adalah serupa dengan benih yang di dalamnya terkandung seluruh pohon.
+
+Sesungguhnya, pendamaian Yesus adalah sempurna. Ellen G. White menjelaskan: “Apabila Bapa melihat pengorbanan Putera-Nya, Dia tunduk di hadapannya sebagai pengakuan terhadap kesempurnaannya. ‘Cukuplah,’ katanya. ‘Pendamaian telah selesai.’ ”—The Review and Herald, September 24, 1901; penekanan ditambahkan. “Imam Besar kita yang agung telah membuat satu-satunya pengorbanan yang tidak ternilai dalam keselamatan kita. Apabila Dia mempersembahkan diri-Nya di atas kayu Salib, penebusan yang sempurna telah dibuat untuk dosa semua orang.”—The Signs of the Times, June 28, 1899.
+
+Yesus telah menjadi dosa dan kutukan bagi kita (Yes. 53:3–6, 2 Kor. 5:21, Gal. 3:13) supaya kita boleh memiliki hidup. Apa yang telah dicapai di kayu salib hampir dua ribu tahun yang lalu kini perlu diterapkan, direalisasikan dan diterapkan ke dalam kehidupan kita agar kita dapat dipulihkan kepada imej Tuhan dan mempunyai kehidupan yang berkelimpahan (Yohanes 10:10). Kristus adalah Pembebas dan Pengantara kita (1 Tim. 2:6) kerana Dia adalah Juruselamat kita. Pengantaraan-Nya adalah kesinambungan dari aktiviti penyelamatan-Nya bagi kita dan integrasi pekerjaan-Nya untuk kita di kayu salib. Kita memerlukan kematian dan kehidupan-Nya agar kita dapat hidup secara rohani (Rom. 3:24, 25; Rom. 5:10). Raoul Dederen menekankan peranan utama kematian Kristus dengan berkata: “Sementara pengorbanan-Nya untuk dosa dilakukan sekali untuk selama-lamanya di atas kayu salib (Ibr. 7:27, Ibr. 9:28, Ibr. 10:11–14), Kristus yang telah naik sedang menyediakan semua manfaat pengorbanan pendamaian-Nya untuk kita.”—“Christ: His Person and Work,” Handbook of Seventh-day Adventist Theology, (Hagerstown, MD: Review and Herald, 2000), ms. 187.
+
+Kestabilan Kosmik
+
+Seluruh alam semesta ini selamat untuk selama-lamanya kerana Salib. Bahasa manusia tidak dapat menggambarkan kemegahan faedahnya yang luar biasa dan besar (Kol. 1:19, 20; Kol. 2:15; Ef. 1:10; 6:12; Flp. 2:9, 10). Pemberontakan dan dosa tidak akan berlaku lagi di Syurga kerana pengorbanan terakhir Yesus Kristus di Golgota.
+
+Ellen G. White dengan tepat menjelaskan bahawa kesejahteraan seluruh alam semesta sepanjang kekekalan bergantung pada pekerjaan Kristus yang dicapai di atas salib: “Bukan sahaja manusia tetapi malaikat akan memberikan penghormatan dan kemuliaan kepada Penebus, kerana mereka pun selamat hanya melalui penderitaan Anak Tuhan. Adalah melalui keberkesanan salib inilah maka penduduk dunia yang tidak jatuh telah dijaga daripada kemurtadan. Inilah yang telah mendedahkan dengan berkesan segala tipu daya Syaitan dan menyangkal dakwaannya. Bukan sahaja mereka yang dibasuh oleh darah Kristus, tetapi juga para malaikat kudus, ditarik kepada-Nya melalui tindakan-Nya yang muktamad dalam menyerahkan nyawa-Nya untuk menebus dosa dunia.”—Ellen G. White, unpublished manuscript, MS 41, 1892.
+
+“Apabila Kristus berseru, ‘Sudah selesai,’ maka semua dunia yang tidak jatuh telah menjadi aman. Bagi mereka pertempuran itu telah diperjuangkan dan kemenangan telah dicapai. Sejak itu Syaitan tidak mempunyai tempat di dalam belas kasihan alam semesta. Hujah yang dikemukakannya, bahawa penyangkalan diri adalah mustahil bagi Tuhan dan oleh itu secara tidak adil dituntut dari kepintaran pada ciptaan-Nya, telah dijawab selamanya. Dakwaan Syaitan selamanya diketepikan. Seluruh langit alam semesta telah dijamin di dalam kesetiaan abadi.”—Ellen G. White, The Review and Herald, March 12, 1901, ms. 271.
+
+“Para malaikat memberikan penghormatan dan kemuliaan kepada Kristus, kerana mereka sendiri juga merasa tidak aman kecuali dengan melihat kepada penderitaan Anak Tuhan. Melalui kemanjuran salib itulah para malaikat syurgawi terpelihara daripada kemurtadan. Tanpa salib mereka tidak akan lebih selamat terhadap kejahatan daripada keadaan para malaikat sebelum kejatuhan Iblis.”—Ellen G. White, The Signs of the Times, Disember 30, 1889, ms. 345.
+
+Ilmu Salib
+
+Ellen G. White berkata: “Tujuan kurnia kasih Tuhan yang indah itu, misteri kasih pada penebusan, adalah tema yang kepadanya 'malaikat ingin melihat,' dan itu akan menjadi kajian mereka sepanjang zaman yang tidak berkesudahan. Kedua-dua makhluk yang telah ditebus dan yang tidak jatuh akan mendapati di dalam salib Kristus ilmu dan dan nyanyian mereka.”—The Desire of Ages, ms. 19, 20 (lihat juga The Great Controversy, ms. 651, 652).
+
+Ellen G. White menasihati agar kita mempelajari sendiri ilmu salib dan mengajarkannya kepada anak-anak muda kita: “Penyataan kasih Tuhan kepada manusia berpusat di salib. Lidah yang penuh makna tidak dapat diucapkan; pena tidak boleh menggambarkan; fikiran manusia tidak dapat memahami. . . . Kristus yang disalibkan untuk dosa-dosa kita, Kristus yang telah bangkit dari kematian, Kristus yang telah naik ke tempat yang tinggi, adalah ilmu keselamatan yang harus kita pelajari dan ajarkan.”—Ellen G. White, God’s Amazing Grace, ms. 178. “Biarlah para muda mudi menjadikan firman Tuhan sebagai santapan fikiran dan jiwa mereka. Biarlah salib Kristus dijadikan ilmu bagi semua pendidikan, pusat segala pengajaran dan semua kajian.”—Ellen G. White, The Ministry of Healing, ms. 460.
+
+#### Bahagian III: Penerapan Hidup
+
+1.	Apakah maksud pernyataan oleh Ellen G. White berikut: “Misteri salib menjelaskan semua misteri yang lain” (The Great Controversy, ms. 652)?
+
+2.	Jika semasa dalam kekekalan nanti, kita akan mempelajari ilmu keselamatan dan sentiasa mencari sesuatu yang baru untuk dikagumi dan dikejutkan olehnya, apakah yang hakikat ini katakan kepada kita tentang makna kematian Kristus di Kalvari?
+
+3.	Paulus menyatakan bahawa salib bagi sesetengah orang adalah kebodohan dan bagi orang lain batu sandungan. Tetapi bagi orang yang percaya, itu adalah “kuasa Tuhan, dan hikmat Tuhan” (1 Kor. 1:24). Mengapakah anda fikir Paulus wajar membuat kenyataan ini ini?
