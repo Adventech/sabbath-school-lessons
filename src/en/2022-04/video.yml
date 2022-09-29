@@ -1,0 +1,20 @@
+---
+  video:
+    - artist: Hope Sabbath School
+      clips:
+        - src: https://www.hopetv.org/shows/media/ml/hope-sabbath-school/lesson-1-rebellion-in-a-perfect-universe/-/40041277/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_rZf7f4ZzvZi_1f2516bedb.jpg
+    - artist: It Is Written
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-01.webp
+    - artist: Amazing Facts Study Hour
+      thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-01.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-02.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-03.mp4
+    - artist: Sabbath School Talking Points
+      clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-01.webp

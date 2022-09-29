@@ -180,7 +180,7 @@ let portgueseAudio = async function () {
                 "7SEX"
             ]
 
-            return `https://mais.cpb.com.br/wp-content/uploads/2022/08/L${week}-${mapping[day-1]}.wav`
+            return `https://mais.cpb.com.br/wp-content/uploads/2022/09/L${week}-${mapping[day-1]}.wav`
         },
         2,
         7
