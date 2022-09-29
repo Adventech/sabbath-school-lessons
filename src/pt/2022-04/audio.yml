@@ -1,0 +1,19 @@
+---
+  audio:
+    - artist: Áudio da Escola Sabatina
+      target: daily
+      tracks:
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-1SAB.wav
+          target: pt/2022-04/01/01
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-2DOM.wav
+          target: pt/2022-04/01/02
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-3SEG.wav
+          target: pt/2022-04/01/03
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-4TER.wav
+          target: pt/2022-04/01/04
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-5QUA.wav
+          target: pt/2022-04/01/05
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-6QUI.wav
+          target: pt/2022-04/01/06
+        - src: https://mais.cpb.com.br/wp-content/uploads/2022/09/L01-7SEX.wav
+          target: pt/2022-04/01/07
