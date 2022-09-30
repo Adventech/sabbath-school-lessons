@@ -1,0 +1,21 @@
+### Sele Kufiwe Naxa Kufiwa: Ithemba Lethu Elizayo
+
+UThixo wabadala abantu ukuze bonwabele unaphakade kulwalamano olunothando kunye naYe nendalo yaKhe. Phofu ke olu lwalamano lwakrunwa yimbonakalo engaqondakalanga yesono ngaphakathi kwiinkundla zasezulwini (Isa. 14:12–15, Hez. 28:12–19, IsiTyh. 12:7–12) kwanokuwa kuka-Adam noEva (Gen. 3:1–19, Roma 5:12). Ngendlela eyingozi, ukufa akuzange kwanele ukugubungela uhlanga loluntu kuphela kodwa nayo yonke into enobomi. Imbonakalo yokufa iyabonakala namhla kumagqabi awayo emithini, kwiintyatyambo ezibuna zihombise ezitafileni zethu, kusizi lwezilwanyana esizifuyileyo nesizithanda kakhulu ezithi zife zisezintlungwini, nabantu bethu esibathandayo abahluthwa kuthi ngokudlavulwa. Ihlabathi lethu lizele kukuphathana kwabantu kakubi kunye neenyembezi ezingenamesuli.
+
+Bathi ngokulangazelela ilizwe elingcono, abantu bazizobele ‘iiParadisi’ apho bebengathanda ukuhlala khona. Umzekelo, ngowe-1933, umbhali wesiNgesi uJames Hilton wakhupha incwadi yakhe [Impelazwe elahlekileyo], eyathi kwiminyaka nje embalwa emva koko kwakhelwa kuyo umdlalo weqonga okwabizwa kwangelo gama. Lo mdlalo uchaza intlekele yenqwelo-moya eyathi yaphelelwa ngamafutha, ekugqibeleni yantlitheka kwiintaba zeHimalaya ezazigqunywe likhephu. Umqhubi wafa kuloo ntlekele, kodwa abambalwa abasindayo ekufeni basiwa liqela labantu baseTibet kwintili entle kakhulu yase Shangri-La. Bekude nehlabathi, abemi bakhula eluthandweni nasebulumkweni, bephila ubomi obuphantsa kufana nobomi bokungabi nakufa bemvisiswano eninzi novuyo oluzinzileyo.
+
+Phofu konke oku kuyintsomi.
+
+Ngokuqinisekileyo, kuyintsomi.
+
+Singabantu abanokufa, sidinga ingqiniseko kokweli xesha nethemba lokuzayo. Njengoko kwabekwa kakuhle ngofunda ngoThixo uEmil Brunner, “Oko umongo-moya ukuko kwimiphunga, linjalo ithemba ukunika intsingiselo kubomi bomntu. Susa umongo- moya, kubakho ukufa ngokufuthaniseleka, susa ithemba, uluntu LUFUTHANISELEKA kukungabi namphefumlo; kungenelela ukuphelelwa lithemba, kuchazeka ukudodobala kwengqondo yokucinga namandla asemoyeni ngenxa yemvakalelo yokungasebenzi kakuhle kwengqondo kwakunye nokuphila ubomi ngaphandle kwenjongo ebhadlileyo. Njengoko ukuphila kwento engumntu kuxhomekeke kubukho bomongo-moya, kunjalo nokuphila kobuntu ukuxhomekeka ekufumaneni kwabo ithemba.”—Emil Brunner, Eternal Hope (London: Lutterworth Press, 1954), p. 7. Ngokwenene, ithemba elimile eBhayibhileni liyasixhasa ngexesha kukho iintlekele esijongene nazo kuhambo lwethu olusinga kunaphakade.
+
+Ngokuchaseneyo neMpelazwe yaseShangri-La entsomini, ithemba lethu lobomi obungunaphakade “alilandelanga zintsomi zabuqhinga” (2 Pet. 1:16).
+
+Lisekwe phezu kwesithembiso sikaThixo esinokuthenjwa selizwe okanye somhlaba ongenazinyembezi, zintlungu, nakufa (IsiTy. 21:1–5). Esi sithembiso sinexabiso salikhuthaza ibandla labapostile, saza sabanjwa, saxatyiswa ngamaKristu amaninzi kuzo zonke iinkulungwane. Siya kuthi singakhange silahlekwe ligunya laso, kwasona esi sithembiso sinika intsingiselo nenjongo kubomi bethu bangoku. Siyasivumela ukuba sikhangele ngesibindi kwixesha elizayo. Sisiqinisekisa ukuba bonke esibathandayo abafele kuKristu ekugqibeleni baya kuvuswa kwabafileyo baxhamle ubomi obungunaphakade.
+
+Esi sikhokelo sesifundo seBhayibhile siphethe umba wembambano enkulu phakathi kokulungileyo nokubi sijonge imixholo emibini emikhulu. Omnye ungemvelaphi yesono nokuqhubeka sikho kunye nokufa. Omnye umxholo ungomsebenzi kaThixo ohlala uhleli ukusombulula ezi ngxaki nokubuyisela ihlabathi kwimeko yalo egqibeleleyo yasekuqaleni. Kucinezelwa ngokukodwa kwindalo yokuba nokufa kwabantu kwanendlela uvuko oluyinto ekhokelela kukungabi nakufa. Ngokwenene, akufuneki sikoyike ukufa kuba uKristu wasifela wawoyisa amandla okufa. Ngokuqinisekileyo, siqinisekisiwe ukuba uKristu uphethe “ ‘izitshixo zokufa nezendawo abakuyo abafileyo’ ” (IsiTy. 1:18, NCV).
+
+Kule kota siza kuxovula umba obuhlungu wokufa, kodwa ngamehlo ethemba esilinikwayo ngoYesu.
+
+_UAlberto R. Timm, PhD (Andrews University), ungumlawuli weziko iEllen G. White Estate, Inc. ekwa lilungu lekomiti yophando-lwazi lweBhayibhile iBiblical Research Institute Committee (BRICOM) nekomiti yophando iGeoscience Research Institute Committee (GRICOM). Sele evela kuba ngumongameli weLatin-American Adventist Theological Seminary (LATS) enamaziko-aliqela._
