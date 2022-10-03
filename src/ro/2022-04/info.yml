@@ -6,6 +6,7 @@
   end_date: "30/12/2022"
   color_primary: "#05A5A6"
   color_primary_dark: "#01797A"
+  splash: true
   credits:
     - name: Autor
       value: "Alberto R. Timm"
