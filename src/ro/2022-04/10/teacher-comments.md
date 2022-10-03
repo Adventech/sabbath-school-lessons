@@ -1,0 +1,56 @@
+---
+title:  Material Pentru Instructori
+date:   02/12/2022
+---
+
+### I. Privire generală
+
+Destinul veșnic al celor neprihăniți și al celor nelegiuiți este descris într-un contrast izbitor. Prima categorie primește viața veșnică, iar cealaltă va suporta sentința dureroasă de condamnare și va fi anihilată în totalitate. Marea minciună despre pedeapsa veșnică și suferința perpetuă a celor răi în iad este întemeiată pe amăgirea satanică rostită în Grădina Edenului: „Hotărât că nu veți muri” (Geneza 3:4).
+
+Acest text contrazice învățătura biblică referitoare la nemurirea sufletului. Pe baza primei minciuni, cum că neascultarea nu va aduce moarte, s-a clădit o altă amăgire: când mori, doar trupul îți este lipsit de viață, nu și duhul/spiritul. Astfel, dacă omul are un suflet nemuritor sau un duh care nu poate muri, păcătosul va fi veșnic pedepsit de Dumnezeu într-un iad de foc chinuitor. Această viziune înfiorător de negativă Îl prezintă pe Dumnezeu ca un monstru și un tiran. O altă invenție foarte populară îi induce în eroare pe oameni prin falsa speranță că, după ce vor muri, vor trece printr-un proces de purificare și de îmbunătățire, care culminează cu salvarea lor și primirea vieții veșnice în rai. Această minciună elimină responsabilitatea pentru propriile acțiuni din această viață.
+
+### II. Comentariu
+**Diverse viziuni asupra pedepsirii în iad**
+
+Aceste perspective asupra focului veșnic din iad concurează în creștinism:
+
+**1.** Viziunea tradițională: Focul iadului îi chinuie pe oameni veșnic, fără încetare. Iadul ar exista ca un loc real undeva, în lumea de dedesubt, unde un foc real ar chinui sufletele nemuritoare pe vecie. Potrivit acestei perspective, suferința celor nelegiuiți urmează imediat
+după moarte și se întinde pe durata veșniciei.
+
+**2.** Viziunea condiționalistă sau a anihilării: Iazul de foc îi mistuie ireversibil și total pe cei nelegiuiți, pe îngerii răi și pe diavol la judecata de apoi. Prin natura lor, ființele umane nu sunt nemuritoare și nu dețin un suflet nemuritor. Ca păcătoși, oamenii sunt condamnați la moarte veșnică dacă nu Îl acceptă pe Isus Hristos ca Mântuitor personal. Nemurirea este condiționată de acceptarea harului lui Dumnezeu și de manifestarea credinței în Isus (Ioan 3:16; 5:24; Romani 3:21-31; Efeseni 2:1-10). Iadul, infernul, nu este un loc în care sufletele sau duhurile celor răi merg imediat după moarte, ci este înțeles ca un „iaz de foc” în care cei nelegiuiți vor fi mistuiți în întregime la sfârșitul istoriei umane (Maleahi 4:1; Matei 25:41; 2 Tesaloniceni 1:6-10; Apocalipsa 20:9,10,14,15). Acest foc, pregătit pentru diavol și pentru îngerii căzuți, îi va anihila, împreună cu cei răi, la judecata finală, sau executorie. Efectele focului sunt definitive. Nimeni nu poate stinge flăcările atâta timp cât ard. Focul are consecințe veșnice și își va atinge scopul: distrugerea răului, a păcatului, a morții, a celor răi, a îngerilor răzvrătiți și a lui Satana însuși. Rezultatul este descris drept „moartea a doua”, din care nu există răscumpărare sau scăpare; moartea a doua este eradicarea răului.
+
+**3.** Viziunea restauraționistă sau universalistă: Focul iadului îi va purifica și îi va salva pe toți în cele din urmă. Universaliștii cred că toți oamenii vor fi salvați în final, inclusiv cei nelegiuiți, îngerii răi și Satana, fiindcă focul iadului îi va purifica. Această înțelegere se bazează pe recunoașterea faptului că, după moarte, sufletul nemuritor al celor răi nu poate merge imediat în cer, dar va suferi în focul judecății lui Dumnezeu. Acest foc îi va curăța treptat și apoi, la un anumit moment din viitor (momentul exact va depinde de răspunsul fiecărui individ la procesul de purificare), fiecare va fi în sfârșit salvat. (Pentru o evaluare a acestor trei diferite perspective, vezi Jiří Moskala, „The Current Theological Debate Regarding Eternal Punishment in Hell and the Immortality of the Soul”, în Andrews University Seminary Studies vol. 53, nr. 1, 2015, p. 91-125.)
+
+**Expresii problematice**
+
+Există câteva exprimări biblice dificile legate de doctrina despre iad și ele trebuie explicate deoarece adesea sensul lor este scos din context:
+
+**(1) Viermele care nu moare (Isaia 66:24)**
+
+Cum trebuie să interpretăm formularea biblică: „Căci viermele [ebr., tola′im] lor [al celor nelegiuiți] nu va muri și focul lor nu se va stinge”? În contextul capitolelor 65 și 66 din Isaia, nelegiuiții sunt aceia care nu Îi slujesc Domnului, care s-au răzvrătit împotriva Lui (Isaia 66:3) și care, în final, sunt „uciși de Domnul” (Isaia 66:16). În primul rând, descrierea este una fizică. Acești oameni răi pot fi văzuți, au trupuri fizice. Viermii
+nu consumă suflete sau duhuri imateriale ale celor decedați. În al doilea rând, nicăieri nu se subînțelege din textul biblic că acești viermi dețin nemurirea. Viermii nu primesc darul vieții veșnice. Nicio minune divină nu este înfăptuită în dreptul lor. În al treilea rând, această imagine a viermilor care devorează trupurile moarte ale celor răi este o metaforă asemănătoare cu imaginea focului care nu se va stinge.
+
+**(2) Focul care nu se va stinge (Isaia 66:24)**
+„«Și, când vor ieși, vor vedea trupurile moarte ale oamenilor care s-au răzvrătit împotriva Mea, căci viermele lor nu va muri și focul lor nu se va stinge și vor fi o pricină de groază pentru orice făptură” (Isaia 66:24, subl. ad.; vezi și Isaia 66:15,17). A stinge un foc înseamnă a-l opri, a-l împiedica să mai ardă sau a-l stopa înainte să-și facă treaba. Astfel, prin extensie, un foc ce „nu se va stinge” înseamnă că nu a fost stins pentru că nu este nicio putere care să-l oprească din ceea ce aduce la îndeplinire: distrugerea totală. Focului nu i se poate opune rezistență sau nu poate fi respins. Astfel, sensul imaginii focului este clar: aceste persoane moarte nu au nicio șansă să trăiască din nou. Judecata asupra celor răi este irevocabilă și înseamnă că sentința lui Dumnezeu de nimicire nu se va opri până când nu se va realiza o mistuire totală. Nu există nicio scăpare din această moarte definitivă. Nimeni nu îi poate salva pe cei răi de la acest sfârșit teribil. Nicio răsturnare de situație nu este posibilă. Sentința este finală, definitivă, iar distrugerea, totală. Nu va fi întreruptă până când trupurile nu vor pieri; în acest fel, destinul final al celor nelegiuiți este irevocabil și definitiv. Berry Webb exprimă următoarea concluzie în legătură cu versetul 24 din Isaia 66: „Așa cum e exprimat, pare să descrie distrugerea totală în loc de chinul veșnic. Trupurile sunt moarte” (The Message of Isaia: On Eagles′ Wings, Inter-Varsity Press,
+1996, p. 251).
+
+Profetul Isaia explică distrugerea finală, și totală, a Edomului și o descrie în termenii obișnuiți ai focului care va mistui Edomul. Focul arde zi și noapte; „nu se va stinge”; „fumul lui se va înălța în veci” și astfel se va preface în „pucioasă” (Isaia 34:10,9). Ulterior, această imagine va fi preluată și aplicată clar în Apocalipsa 14:10,11 și Apocalipsa 20:10, în pasaje încărcate de simbolism. Limbajul este metaforic și face trimitere la sentința lui Dumnezeu de distrugere ireversibilă și totală. În mod similar, Ezechiel afirmă: „Așa vorbește Domnul Dumnezeu: «Iată, voi aprinde un foc în tine care va mistui orice copac verde și orice copac uscat: nimeni nu va putea stinge flacăra aprinsă și totul va fi ars de ea, de la miazăzi până la miazănoapte. Și orice făptură va vedea că Eu, Domnul, l-am aprins, și nu se va stinge nicidecum!»” (Ezechiel 20:47,48; subl. ad.; vezi Ieremia 7:20).
+
+Ralph Bowels își încheie interpretarea versetului 11 din Apocalipsa 14 cu următoarea concluzie: „Interpretarea tradițională a elementelor din acest verset omite structura paralelei răsturnate din Apocalipsa 14:9-11. Când se observă chiasmul, se vede că sensul textului nu confirmă ideea de «chin veșnic». În schimb, textul acesta se armonizează cu interpretarea conceptului de nemurire condiționată. Conform acestuia, Dumnezeu îi va aduce în cele din urmă și în totalitate pe dușmanii Lui la judecată, urmarea fiind distrugerea absolută, exterminarea” („Does Revelation 14:11 Teach Eternal Torment? Examining a Proof-Text on Hell”, în Evangelical Quarterly vol. 73, nr. 1, 2001, p. 36).
+
+Focul înțeles ca judecata lui Dumnezeu implică faptul că urmarea lui este veșnică și că pentru rău nu mai există posibilitatea de revenire. Soarta răului va fi sub controlul lui Dumnezeu pe vecie. Răul nu va mai apărea a doua oară, este eliminat cu desăvârșire și nu va mai exista. Distrugerea lui este totală. Dumnezeu nu va întreține în mod miraculos un foc nici nu îi va menține în viață în vreun fel, într-o anumită formă veșnică, pe cei nelegiuiți, pe îngerii căzuți și pe diavol ca să îi pedepsească la nesfârșit. Această amăgire abordează foarte speculativ învățătura biblică referitoare la punerea în aplicare a judecății. După cum înainte de răzvrătirea lui Lucifer împotriva lui Dumnezeu a existat o armonie perfectă în cer, la fel va fi din nou când răul și toate formele lui vor fi distruse.
+
+**(3) Veșnic, pentru totdeauna, pururea**
+
+Termenii „veșnic” și „etern” (ebr., ′olam) au un pronunțat caracter relativ în Sfintele Scripturi. Au trei sensuri posibile: (1) „veșnicie” cu un început și un sfârșit (de exemplu, sclavii din Exodul 21:6 – ′olam are în acest context sensul de „pe viață”; preoția din Exodul 40:15; Numeri 25:13); (2) „veșnicie” cu un început, dar fără un sfârșit (viața veșnică a tuturor celor răscumpărați; vezi Marcu 10:30; Ioan 3:16,36; Ioan 5:24) și, în final, (3) veșnicie fără început și fără sfârșit (care îi aparține doar lui Dumnezeu; vezi 1 Timotei 6:16; compară cu Deuteronomul 33:27). Contextul textului este cel care stabilește întotdeauna sensul precis al termenului folosit cu sensul de veșnic. Celor care cred în Dumnezeu, nemurirea le este oferită ca un dar prin Isus Hristos (Ioan 11:26; Coloseni 3:3,4).
+
+**(4) Termenul „ocară” din Daniel 12:2**
+„Și mulți din cei ce dorm în țărâna pământului se vor scula: unii pentru viața veșnică și alții pentru ocară și rușine veșnică” (Daniel 12:2). Termenul „ocară” (ebr., dera′on, „repulsie, aversiune, dezgust”) este folosit în Biblia ebraică doar în Daniel 12:2 și în Isaia 66:24. Sensul acestui termen este garantat de contextul textului: este vorba despre condamnare în raport cu judecata și cu învierea. Daniel vorbește despre condamnarea veșnică și rușinea celor răi, iar Isaia explică faptul că cei nelegiuiți vor fi distruși din cauză că nimeni nu poate opri focul mistuitor din a-și atinge scopul nimicirii. Oamenii răzvrătiți, nepocăiți sunt condamnați la o inexistență eternă, dar celor neprihăniți le este oferită viața veșnică.
+
+### III. Aplicație
+
+**1** Care este diferența dintre viziunea populară despre iad și tabloul biblic despre iazul de foc? Este iazul de foc real? Sau este doar figură de stil? Dezbateți în cadrul grupei.
+
+**2** Cum le poți explica membrilor grupei tale într-un limbaj simplu că oamenii nu merg în rai sau în iad (ori în purgatoriu) imediat după ce mor? Cum ar putea fi aceasta o veste bună?
+
+**3** Putem scăpa de focul iadului? De ce da sau de ce nu? Dacă da, explică modul în care Dumnezeu va face ca această posibilitate să devină o realitate în viața noastră.
