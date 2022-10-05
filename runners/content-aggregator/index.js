@@ -213,6 +213,33 @@ let romanianAudio = async function () {
     )
 }
 
+let czechAudio = async function () {
+    await dailyAudio(
+        "cs",
+        "Průvodce studiem Bible",
+        {
+            artist: "Průvodce studiem Bible",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "inside-story"
+            ]
+
+            return `https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -220,6 +247,7 @@ let run = async function () {
     await romanianAudio()
     await hungarianAudio();
     await portgueseAudio();
+    await czechAudio();
 }
 
 run().then(() => {
