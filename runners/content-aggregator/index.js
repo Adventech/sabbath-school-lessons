@@ -206,7 +206,7 @@ let romanianAudio = async function () {
                 "vineri"
             ]
 
-            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2022/trim4/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
         },
         2,
         7
