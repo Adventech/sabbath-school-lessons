@@ -3,5 +3,59 @@ title:  Commentaires Moniteurs
 date:   14/10/2022
 ---
 
-### <center>Nous travaillons sur cette leçon.</center>
-<center>Revenez plus tard, s'il vous plaît.</center>
+Texte clé: Genèse 1:27, 28; Genèse 2:7; Ecclésiaste 12:7; 1 Thessaloniciens 5:23 
+
+**Partie I: Aperçu**
+
+Dieu a créé les humains à Son image comme l’acte suprême de Sa création physique. Ce fait est souligné par le langage poétique employé pour la première fois dans la Bible: « Dieu créa l’homme à son image, il le créa à l’image de Dieu, il créa l’homme et la femme » (Genèse 1:27, LSG). L’histoire biblique de la création est sans ambigüité dans son enseignement selon lequel l’homme et la femme avaient été créés à l’image de Dieu. Ils avaient été rendus égaux avec différentes fonctions biologiques, mais dans une dépendance totale à Dieu. Bien qu’ils ne soient pas immortels, car seul Dieu est immortel (1 Tim. 6:16), ils pouvaient néanmoins vivre éternellement s’ils étaient restés dans une relation de confiance et d’amour avec leur créateur.
+
+Le monisme biblique enseigne que chaque être humain a été créé en tant qu’unité et qu’aucune partie d’un être humain ne peut vivre après sa mort. L’expression âme immortelle et l’enseignement selon lequel les humains naissent immortels, ou avec des âmes ou des esprits immortels, ne se trouvent pas dans la Bible. Les humains ou les âmes ne sont pas intrinsèquement immortels. Les humains n’ont pas d’existence consciente en dehors du corps. Après la mort, la conscience cesse de fonctionner. L’immortalité humaine est toujours, et seulement, dérivée de Dieu.
+
+**Partie II: Commentaire**
+
+**Spécialement créés en tant qu’âmes vivantes**
+
+Le récit de la création indique clairement que les humains ont été créés par le Seigneur. Genèse 2:7 décrit deux des actions intimes du créateur. Le résultat de ces actions est la création du premier être humain, Adam (la première action):« L’Éternel Dieu forma l’homme de la poussière de la terre, il souffla dans ses narines un souffle de vie [la deuxième action] et [le résultat] l’homme devint un être vivant [nefesh khayah] » (Genèse 2:7, LSG). Ontologiquement parlant, nous sommes une unité (corps + esprit = âme vivante). Dieu avait créé Adam comme une personne vivante ou un être humain, littéralement, en hébreu, « une âme vivante ». Le mot « âme » signifie dans ce contexte « personne », « être », « soi ». La base de l’anthropologie biblique est que nous sommes une âme; nous n’avons pas d’âme. Hans Wolff demande: « Que veut dire nepheš [âme] ici... [dans Genèse 2:7]? Certainement pas l’âme [au sens dualiste traditionnel]. Nephesh devrait être compris comme étant l’homme dans son ensemble, et surtout avec son souffle; de plus l’homme n’a pas de nephesh, il est nephesh, il vit comme étant nephesh. » (Hans Walter Wolff, Anthropology of the Old Testament (Philadelphie, PA: Fortress, 1974), p. 10.)
+
+Dieu a créé les humains en tant que corps animé, mais pas en tant qu’âme incarnée. Ainsi, les humains n’ont pas été créés avec une âme immortelle, en tant qu’entité en soi, en eux; mais en tant qu’êtres humains, ils sont des âmes. Cette doctrine est confirmée par l’utilisation ultérieure de ce terme dans les Écritures et par d’autres auteurs bibliques. Par exemple, Luc, mentionnant le nombre de personnes ayant été baptisées après la prédication de Pierre le jour de la Pentecôte dit: le nombre des disciples s’augmenta d’environ trois mille âmes (Actes 2:41, LSG).
+
+Le corps, l’âme et l’esprit fonctionnent en étroite coopération, révélant une relation intensément sympathique entre les facultés spirituelles, mentales etéducatives d’une personne. À ces aspects, nous devons également ajouter une dimension sociale parce que nous sommes créés en tant qu’êtres sociaux. Paul développe cet aspect multidimensionnel du comportement humain et explique que, en tant qu’êtres humains, nous devons laisser Dieu nous transformer par Sa grâce et Son Esprit: « Que le Dieu de paix vous sanctifie lui-même tout entiers, et que tout votre être, l’esprit, l’âme et le corps, soit conservé irrépréhensible, lors de l’avènement de notre Seigneur Jésus Christ! » (1 Thes. 5:23, LSG). Ainsi, tout ce que nous sommes et faisons doit être sanctifié par Dieu. Dans notre existence en tant qu’humains, nous faisons l’expérience de la vie sur le plan physique, émotionnel, mental/intellectuel, spirituel et social. Ces aspects sont inséparables. Par exemple, lorsque nous faisons de l’exercice physique (que nous fassions du jogging, travaillions dans le jardin ou conduisions), nous engageons également nos sentiments, nos pensées, ainsi que nos facultés mentales, spirituelles (dans le cas où nous prions ou récitons un texte biblique) et sociales (si nous ne sommes pas seuls) pendant notre activité.
+
+**La mort, l’inversion de la vie**
+
+La mort provoque un renversement de l’activité créatrice de Dieu, de notre existence en tant qu’êtres vivants. La chose la plus importante à savoir est que notre identité est entre les mains de Dieu. L’Ecclésiaste encadre cette pensée dans un langage poétique: « avant que le cordon d’argent se détache, que le vase d’or se brise, que le seau se rompe sur la source, et que la roue se casse sur la citerne; avant que la poussière retourne à la terre, comme elle y était, et que l’esprit retourne à Dieu qui l’a donné » (Eccl. 12:6, 7, LSG). « Esprit » signifie ici « caractère » (Ps. 32:2), notre identité. Dieu ne nous oublie pas, car nos noms sont dans le livre de vie (Phil. 4:3, Apocalypse 3:5, Apocalypse 13:8, Apocalypse 20:15, Apocalypse 21:27).
+
+Contrairement à la compréhension commune de l’immortalité, l’esprit humain ne survit pas à la mort et ne continue pas son existence consciente sans fin. L’âme en tant qu’être humain est mortelle. Le prophète Ézéchiel dit clairement que « l’âme » est mortelle lorsqu’il déclara: « l’âme [hébreu, nephesh, c’est-à-dire, la personne humaine] qui pèche, c’est celle qui mourra »(Ézéchiel 18:4, LSG). Une âme qui pèche, c’est-à-dire, une personne qui ne vit pas selon la volonté de Dieu, périra. Cela signifie qu’une âme (un être humain) peut pécher et mourir. Jésus le confirme: « craignez plutôt celui qui peut faire périr l’âme et le corps dans la géhenne » (Matthieu 10:28, LSG). Notez que Jésus parlait de la destruction de la personne toute entière (« âme et corps », dimensions internes et externes de notre existence) dans la géhenne (en enfer), dans l’étang de feu.
+
+L’âme n’existe pas sans le corps et ne survit pas à la mort du corps. Seul Dieu est capable de tuer l’âme, ce qui signifie que l’âme n’est pas immortelle. L’âme signifie ici la vie d’une personne, son existence totale et son destin (il ne se réfère pas à une âme ou à un esprit immortel); pendant ce temps, le corps ne représente qu’une existence physique temporaire.
+
+Claude Tresmontant affirme à juste titre: « En appliquant au mot hébreu Nephesch [âme]... les caractéristiques de la psyché platonicienne [âme], ... nous laissons le vrai sens de Nephesch nous échapper et de plus, nous nous retrouvons avec d’innombrables pseudo-problèmes. » Claude Tresmontant, Essai sur la pensée hébraïque, (Paris, 1953), p. 94. La mort, c’est le sommeil ou le repos, et mourir, c’est rejoindre le peuple de Dieu, c’est-à-dire, aller se coucher dans la tombe auprès d’eux (Genèse 25:8, 2 Sam. 7:12, 1 Rois 2:10, 1 Rois 22:40, Ps. 13:3, Jean 11:11-15, Actes 13:36, Apocalypse 14:13). Les morts ne savent rien, ne louent pas le Seigneur, ne travaillent pas, ne planifient pas, ils ne font aucune activité dans la tombe (Job 3:11-13; Ps. 115:17; Ps. 146:4; Eccl. 9:5, 10).
+
+**L’immortalité de l’âme est d’origine païenne**
+
+La croyance en l’immortalité de l’âme est tirée de la philosophie grecque. Pythagore (un plus jeune contemporain de Daniel) avait fondé ses enseignements religieux sur le principe de la métempsychose. La métempsycose affirme que l’âme ne meurt jamais, au contraire, elle est destinée à un cycle de renaissances jusqu’à ce qu’elle ne se libère de ce cycle par la pureté de sa vie. Pythagore croyait en la transmigration, ou la réincarnation de l’âme, encore et encore dans le corps des humains, des animaux ou des végétaux jusqu’à ce qu’elle devienne immortelle. Les idées de Pythagore sur la réincarnation étaient influencées par la religion grecque antique.
+
+Platon (approximativement, un contemporain de Malachie, le dernier prophète de l’Ancien Testament) améliora cet enseignement hellénistique, rendant la croyance de l’âme humaine immortelle si dominante qu’elle est devenue une vision populaire. Pendant la période intertestamentaire, l’enseignement de la torture éternelle (Judith 16:17) et la pratique de prier pour les morts (2 Maccabées 12:39-45) avait commencé à pénétrer le judaïsme (pour les exceptions à ces tendances, voir aussi Tobit 14:6-8; Sirach 7:17; Sirach 19:2, 3; Sirach 21:9; Sirach 36:7-10; Baruch 4:32-35; 1 Maccabées 2:62-64; 2 Maccabées 7:9, 14).
+
+Josephus Flavius mentionne que les pharisiens croyaient en l’immortalité de l’âme (voir Josephus Flavius, The Jewish War 2. 8. 14; Antiquities 18. 1. 2, 3). Tertullien (c. 155-220), un apologiste chrétien, fut l’un des premiers parmi les chrétiens à affirmer que les humains ont une âme immortelle: « Je peux donc utiliser l’opinion de Platon, quand il déclara: toute âme est immortelle. » (Tertullian, « On the Resurrection of the Flesh », Ante-Nicene Fathers, vol. 3, ed. Alexander Roberts and James Donaldson, Peabody, MA: Hendrickson Publishers Inc., 2004, p. 547.)
+
+Oscar Cullmann conteste le point de vue de Tertullien et s’y oppose. Cullmann écrit un livre très influent et dans celui-ci, il soutient que l’idée de l’immortalité humaine est d’origine grecque, et les théologiens ne pourraient pas l’avoir dans les deux sens: une croyance en une âme immortelle et l’immortalité reçue comme don au moment de la résurrection. (Oscar Cullmann, Immortality of the Soul or Resurrection of the Dead? The Witness of the New Testament, New York: Macmillan Company, 1958).
+
+Brevard Childs explique: « Il est remarqué depuis longtemps que, selon l’Ancien Testament, l’homme n’a pas d’âme, mais est une âme (Genèse 2:7). C’est-àdire, qu’il est une entité complète et non un composé comprenant le corps, l’âme et l’esprit. » (Brevard S. Childs, Old Testament Theology in a Canonical Context, Philadelphia: Fortress, 1985, p. 199.)
+
+Certains érudits essaient de soutenir l’idée de la vie après la mort en faisant simplement appel au bon sens parce qu’il n’y a pas de déclaration biblique àce sujet. Par exemple, Stewart Goetz déclare: « L’Écriture dans son ensemblen’enseigne pas que l’âme existe. L’Écriture présuppose simplement l’existence de l’âme parce que son existence est affirmée par le bon sens des personnes ordinaires. » (Stewart Goetz, “A Substance Dualist Response,” dans In Search of the Soul: Perspectives on the Mind-Body Problem—Four Views of the Mind-Body Problem, ed. by Joel B. Green, 2nd ed. (Eugene, OR: Wipf and Stock, 2010), 
+p. 139.) Le « bon sens » peut cependant être très trompeur.
+
+**Le don de la vie éternelle**
+
+La vie éternelle est le don de Dieu à ceux qui croient en Jésus-Christ comme Seigneur et Sauveur personnel (Jean 3:16; Jean 5:24, 25; 10:27, 28; Jean 17:3; Romains 2:7; Romains 6:22, 23; Gal. 6:8). L’immortalité est conditionnelle et dépend de notre réponse positive à la bonté de Dieu et de notre acceptation de l’évangile. Cette immortalité sera donnée aux croyants lors de la seconde venue de Christ (1 Corinthiens 15:51-55, 1 Thess. 4:13-18).
+
+**Partie III: Application**
+
+1. Sur le plan relationnel et ontologique, que signifie la réalité d’être créé à l’image de Dieu?
+
+2. Seul Christ par Sa grâce, Son Esprit et Sa Parole peut restaurer l’image de Dieu chez les humains. Comment pouvez-vous vivre en tant qu’une personne faite à l’image de Dieu?
+
+3. Si nous sommes créés mortels sans âme immortelle, expliquez comment nous pourrions avoir la vie éternelle pendant toute l’éternité.
+
+4. Dieu a mis dans chaque cœur humain un désir de l’éternité (Eccl. 3:11). Comment pouvez-vous aider à éveiller ce désir profond chez un collègue ou un voisin agnostique ou athée par vos actions et lors de vos conversations avec lui?
