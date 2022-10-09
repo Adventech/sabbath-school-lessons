@@ -13,7 +13,8 @@ var BIBLE_PARSER_CONFIG = {
     "bbc"
   ],
   "bg": [
-    "bg1940"
+    "bg1940",
+    "ribbd"
   ],
   "bn": [
     "bsi2016"

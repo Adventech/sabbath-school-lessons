@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-Intro.pdf
+      title: Intro
+      target: zh/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-01.pdf
+      target: zh/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-02.pdf
+      target: zh/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-03.pdf
+      target: zh/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-04.pdf
+      target: zh/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-05.pdf
+      target: zh/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-06.pdf
+      target: zh/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-07.pdf
+      target: zh/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-08.pdf
+      target: zh/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-09.pdf
+      target: zh/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-10.pdf
+      target: zh/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-11.pdf
+      target: zh/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-12.pdf
+      target: zh/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-13.pdf
+      target: zh/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2022-04-hant/ABSG-2022-04-ZH-HANT-14.pdf
+      target: zh/2022-04/14

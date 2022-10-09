@@ -11,4 +11,5 @@ Studiile biblice de față tratează subiectul marii lupte dintre bine și rău 
 În acest trimestru vom studia durerosul subiect al morții, dar prin filtrul speranței care ne este oferită în Isus.
 
 Alberto R. Timm deține titlul de doctor din partea Universității Andrews și este director asociat la Ellen G. White Estate, membru al Comitetului Institutului de Cercetări Biblice (BRICOM) și al Comite-tului Institutului de Cercetare a Științelor Pământului (GRICOM).
+
 Anterior a slujit ca președinte al Seminarului Teologic Adventist Latino-American (LATS).
