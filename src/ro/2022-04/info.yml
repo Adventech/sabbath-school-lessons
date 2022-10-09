@@ -4,8 +4,8 @@
   human_date: "Octombrie · Noiembrie · Decembrie 2022"
   start_date: "24/09/2022"
   end_date: "30/12/2022"
-  color_primary: "#05A5A6"
-  color_primary_dark: "#01797A"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
   splash: true
   credits:
     - name: Autor
