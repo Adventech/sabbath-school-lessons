@@ -1,0 +1,32 @@
+---
+title:  'Da: Phrimeris Nongphud'
+date:  25/11/2022
+---
+
+Dangsah Ka Jingshongthait Ka Sabbaton Ia U Paitlang U Blei
+
+Nga la heh la san ha ka Balang Presbyterian tangba ngam shym la dei ka Khristan kaba minot ia ki jingiaseng naduh dangrit bad ngam shym la dei ruh kaba ieit ban pule ia ka Baibl, ki jingsngewbha pyrthei ki la long kiba khring eh ia nga.
+
+Namar ka jingim kaba sakma na U Blei, ki jingeh kiba bun nga ju ia kynduh barabor kiba pynkthang bad pynsngewsih ia ka jingim jong nga, watla kata ruh ngam pat shemphang eiei.   Bunsien ki jingjia kiba sngewtriem ki ju pynsheptieng ia ka jingim, ym tang katta ka pynsngew marwei bad sngewkhia ka mynsiem.
+
+Ki jingsngewkhia jong ki jingmut jingpyrkhat ne ki jingpang mynsiem ki ban ia nga man ka por, nga la pyrshang ban wad ki nongiarap ban pyntngen lem ia nga barabor, hynrei ngam shym la ioh bad ki la nang jur pynban ki jingeh ba kynja mynsiem.  Khatduh nga kynmaw ia U Blei kum u khun sarong awria nga pyrta ‘Ah Blei to map ia nga, nga la leh pop bad pynsngewsih ia Me namar ngam shym la kynmaw ia Me’.  Ki ummat kiba jaw katba nga dang duwai, kyndit nga ioh sngew ia ka jingphasiaw kaba phyla kaba ong ‘Lada phi phai bad kylla kaba mut dang don ka jingmap’, hangta hi nga ong ha ka mynsiem ba U Blei U dang ieit shisha ia nga bad U dang lah ruh ban map ia ki pop jong nga.   Nga la kut jingmut bad da ka rai kaba skhem ba ngan iai shakri ia U Blei ha ka jingpule ia ka Ktien jong U bad ki jingiaseng kiba tista.
+
+Ha kawei ka por katba nga dang leit jingiaseng, ha ka jingiaseng jingiathuhkhana nga iohsngew ba u nongialap u kren shaphang ‘Ka jingmihpat U Jisu’.  Bad haba nga la leit phai sha iing, nga la pule tikna bad tista ia ka Baibl ba la ai sngewbha da i mei kaba don tang ka Testament bathymmai.  Ha ka jingsngewthuh jong nga, ka sngi nyngkong jong ka taiew kaba U Jisu U la mihpat kadei ka sngi lah Robibar ne ka Monday bad ka sngi Sunday pat ka dei ka sngi kaba hynñiew. Ngam shym la poi pyrkhat ei ei shaphang kane tad ynda ha kawei ka por ba la don ka jingiaseng kaba kyrpang ha ka balang, ka jingiaseng ka Easter Sunday ne ka Jingia rakhe ia ka sngi mihpat U Jisu, ba ia kane la leh ne rakhe ha ka sngi Sunday kaba nga sngewthuh kum ka sngi kaba hynñiew, bad hangta nga la lyngngoh hi ngaiñ.
+
+Nga la ia kynduh ia ki nongialam balang da ki jingkylli nga ong ‘Balei haba U Jisu u mihpat ha ka sngi nyngkong (Monday), ki briew pat ki ia rakhe ha ka sngi ba hynñiew (Sunday)?’ hynrei ka jubab kaba nga ioh ka long ‘Ngim kwah ban wad bniah ia kata, hynrei ia kaei ba ki longshwa ki la leh ia kata hi ngi bud bad ngi ia leh’.  Ka jingjubab jong ki ka la nang pynlyngngoh shuh shuh ia nga, hynrei wat la hapdeng ka jingkah dum nga iai shakri ia U Blei da la ka jingsngur mynsiem ha la ka dohnud bad ka jingshida baroh.
+
+Nga la iai minot ha ki jingiaseng bad ha ka jinghikai jingrwai na ka bynta ka prokram Khristmas.  Nga shim bynta ha kiba bun ki kam jong ka balang, ban lum pisa bad kiwei kiwei, ia kine baroh ki kam nga la ienoh namar ki jingiashem ki bym sngewiahap ia ka rukom jinghikai niam ki bym bud katkum ka Baibl, hynrei ngam ju pep pat ban leit jingiaseng lait noh haba nga pang.  Ha kawei ka sngi Sunday katba nga dang pynkhreh leit jingiaseng, i lok jong nga wat la u dang long tang u Hindu, u ong, ‘Mynta ka sngi kam dei ka sngi mane Blei kaba shisha, hynrei ka sngi kaba dei hok ban mane ia U Blei bashisha ka la dep mynhynnin ka sngi saitjain’.  Ngam tip ia kata ka jingong ka long kaba shisha ne em, nga la kren beiñ ia kata ka jingkren jong u, hynrei hala ka dohnud nga shu iai puson ia kita ki ktien.
+
+Dei tad ha kawei ka sngi ba nga leit jingiaseng Synod, nga la iohi ia u nongdie kotniam jong ka Balang Seventh-Day Adventist uba phuh samrkhie bad u la khot ia nga ba ngan thied ia kita ki kot niam kiba sngewtynnad.  Nga kwah eh ban thied kawei ka kot, hynrei nga twad ia ka pla nga don sa tang ka bai kali, ha kaba khadduh nga la kut jingmut ban thied bad shuwa ba nga la leit phai, la khot biang ia nga bad la ai sngewbha ia nga da kawei ka kot lyngkdop kaba rit kaba kren shaphang ka Sabbaton kaba long ha ka sngi saitjain, kaba U Blei da ma U hi U la shong sngi, U la kyrkhu, bad pynkyntang khuid i aka.  Nga la ioh jingshai shuh shuh ba ka la don ka jingpynkylla ia ka hukum, na ka Sabbaton ka sngi ba hynñiew sha ka Sunday ka sngi nyngkong jong ka taïew.
+
+Khlem jingsngew artatien shuh, nga la pdiang bad ngeit ha ka dohnud, nga la shong sngi ruh marwei ha ka sngi Sabbaton da ka jingrhem mynsiem, nga la phla sha ki briew ia kane ka jingshisha ba nga la shem.  La don ruh ka paralok ba iajan bha bad nga, bad ka ruh ka la shongthait lang bad nga shi por.
+
+Ha kawei ka sngi kane ka paralok ka la wan jingwan na Shillong hynrei kam shym la dap pisa ba kan siew ia ka bai kali, ka la pyrpad ia u draibar ban map ia ka ba kan sa siew pat ha kawei ka por.  Te la don hangta u Pastor uba la iarap ban pynsiew.  Ka la sngew ipher ia u bad ka la ai khublei ha ryngkat ka jingkylli i sah shano bad I dei na ka balang aiu, khatduh une u dei u Pastor jong ka Balang Seveth-Day Adventsit uba iathuh ba u leit jingiaseng ha ka sngi Saitjain ne ka Sabbaton ha ka iingmane Nongdein, New Nongstion.
+
+Mar shu iohsngew ia kane ka khubor, khlem da pynslem shuh bad baroh arngut ngi la ia leit sha Nongstoiñ.  Shwa ban poi ha ingmane, ka surok syndah ïingmane, u ne u Pastor u la iohi ia ngi bad u la pdiang sngewbha bad ai khublei ruh ia ngi bad ialam artad shapoh ïingmane. Kaba sngewtynnad shuh shuh ka long ba ha kata ka sngi Sabbaton jong u August 31, 2013 ka dei ka sngi ba pynkyntang Pastor ia I hi, i Pr Koster Syiemlieh.
+
+Hadien ba nga la ioh ia ka jingpule Baibl kaba bniah na i Pastor bad na ki parabangeit kiba shitrhem jong ka balang na Nongstoin, nga la pdiang bad shim ia ka jingpynbaptist bad ka khun khadduh jong nga ha u snem 2013.
+
+Hadien kane, ngi la don palat 20 ngut na ki hynriew iing kiba la shim ia ka jingpynbaptist hadien ki jingiai wan ban wanrah jingshai jong ki parabangeit ka Balang Seventh-Day Adventist Nongstion bad na ki jingiasengialap ba la wan pynlong da I Pr S Hynniewta.
+
+Ka jingsuk bad ka jingkmen kaba khraw ki la wan ban synshar ha ki longiing jong ngi, bad la don ruh kiba la sngewthuh bha ia kane ka Jingshisha tangba ki dang don hapdeng ka jingialeh ban shim ia ka rai.
