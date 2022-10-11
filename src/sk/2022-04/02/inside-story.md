@@ -3,20 +3,20 @@ title:  Misijný príbeh
 date:   07/10/2022
 ---
 
-#### Znamení a zázraky
+#### Znaky a znamenia
 
 _Dmitry Bagal_
 
-Při studiu Izajáše v sobotní škole před několika čtvrtletími mě obzvlášť zaujal jeden verš: "Hle – já a děti, které mi dal Hospodin, jsme v Izraeli jako divy a znamení od Hospodina zástupů, který přebývá na hoře Sion." (Izaiáš 8,18). Připadalo mi, že se verš týká mě. S manželkou jsme již jedno dítě měli a čekali jsme na narození druhého. Pomyslel jsem si: _Hle – já a děti, které mi dal Hospodin! Bylo by skvělé mít od Boha také znamení a zázraky!_
+Keď sme pred niekoľkými rokmi študovali na sobotnej školy proroka Izaiáša, veľmi ma zaujal jeden verš. „Hľa, ja a deti, ktoré mi dal Hospodin, sme v Izraeli znakmi a znameniami od Hospodina zástupov, ktorý býva na vrchu Sion.“ (Iz 8,18) Mal som dojem, že ten verš je presne o mne. S manželkou sme jedno dieťa už mali a práve sme čakali druhé. Pomyslel som si, že je to o nás a o deťoch, ktoré sme dostali od Boha! Bolo by skvelé, keby sme tiež mohli byť znakmi a znameniami od Hospodina!
 
-Při přemýšlení o tomto verši jsem si vzpomněl, jak jsem četl o úžasných Božích zásazích v životech adventistů, kterým se jen díky víře podařilo získat značné finanční prostředky na misijní projekty. Modlil jsem se: "Pane, také bych rád přispěl. Mám k tomu dokonce dobrou příležitost: narodilo se mi druhé dítě. Prosím, dej mi představu, kolik bych měl s Tvou pomocí darovat jako projev vděčnosti za dobré těhotenství a bezproblémový porod, a dej mi vědět, kdo by měl dar dostat."
+Keď som o tom premýšľal, spomenul som si na rôzne príbehy, ako Boh zasiahol a pomohol zabezpečiť nemalé prostriedky na misijné projekty tým, ktorí sa na neho vo viere spoliehali. Začal som sa modliť: „Pane, aj ja by som chcel prispieť na tvoje dielo. A teraz mám dokonca dobrú príležitosť. Má sa nám narodiť druhé dieťa. Prosím, ukáž mi, akú čiastku mám darovať s tvojou pomocou na znak vďačnosti za tehotenstvo a pôrod mojej manželky bez komplikácii. Ukáž mi tiež, prosím, komu máme náš dar poslať.“
 
-Téměř okamžitě jsem získal dojem, že bych měl sehnat 1000 eur (kolem 25.000 korun). Tato částka se zdála nedosažitelná pro někoho s omezeným příjmem, jako jsem měl já v Německu. Modlil jsem se: "Pane, je to Tvůj cíl, takže musíš zajistit, aby se peníze odněkud vzaly. Ty víš, že můj plat nestačí na to, abych mohl dát něco stranou. Jediné, co mohu slíbit, je, že se budu denně modlit a odkládat stranou všechny peníze, které dostanu navíc ke svému platu".
+Vo svojom vnútri som okamžite pocítil, že by som si mal pripraviť 1000 eur. Takáto suma sa mi však zdala nedostupná. Pochádzam z Nemecka a môj príjem je značne obmedzený. Moja modlitba pokračovala takto: „Pane, ty si mi dal tento cieľ. Ty mi musíš pomôcť zabezpečiť potrebnú sumu. Vieš, že náš príjem nám nedovoľuje ktovieako šetriť. Môžem ti však sľúbiť, že sa budem každý deň modliť a odkladať všetky peniaze, ktoré nám zvýšia.“
 
-Každý den jsem se modlil, aby Všemohoucí nějak umožnil dosáhnout cíle 1000 eur. Za necelý měsíc jsem již obdržel asi polovinu této částky. Jeden starší pár mi nečekaně daroval 200 eur za to, že jsem jim pomohl přestěhovat se do nového domu. Pak mi dal 200 eur jeden adventistický podnikatel, když jsme s manželkou ve snaze být pohostinní ubytovali na noc dva jeho zaměstnance u nás doma. Poté jedni manželé neohlášeně převedli na náš bankovní účet 50 eur. Měsíc před narozením dítěte jsem již měl k dispozici 1000 eur.
+Každý deň som sa modlil k Všemohúcemu, aby mi pomohol dosiahnuť cieľ – 1000 eur ako dar. Neprešiel ani mesiac a podarilo sa mi našetriť asi polovicu. Starší manželský pár mi nečakane dal 200 eur za to, že sme im pomohli pri sťahovaní. Potom jeden adventistický podnikateľ nám dal 200 eur, pretože sme u nás nechali prenocovať dvoch jeho zamestnancov. Následne nám nečakane pribudlo na účte 50 eur od istého manželského páru. Mesiac pred narodením nášho druhého dieťaťa som mal našetrených 1000 eur.
 
-Narození Maranathy Yessenie proběhl 4. května hladce a rychle. Zaparkoval jsem před nemocnicí v 8:37 a o 20 minut později se narodila. Finanční prostředky šly na misijní projekt.
+Naša dcérka Maranatha Yessenia sa narodila 4. mája a pôrod prebehol bez komplikácii. Pred nemocnicou som zaparkoval o 8:37 a o 20 minút neskôr bola už na svete. Našetrené peniaze sme darovali na misijný projekt.
 
-Pán se postaral o to, abychom dosáhli Jeho dárcovského cíle. Požehnán se svou ženou a dvěma dětmi mohu skutečně říci: "Hle – já a děti, které mi dal Hospodin, jsme v Izraeli jako divy a znamení od Hospodina zástupů, který přebývá na hoře Sion."
+Pán nám pomohol našetriť čiastku, ktorú nám vložil do mysle. Božie požehnanie vnímam aj v mojej manželke a dvoch deťoch, preto môžem povedať: „Hľa, ja a deti, ktoré mi dal Hospodin, sme v Izraeli znakmi a znameniami od Hospodina zástupov, ktorý býva na vrchu Sion.“ (Iz 8,18) 
 
-_Děkujeme vám za podporu misijních projektů prostřednictvím misijních darů při sobotní škole, darů třinácté soboty a darů modlitebního týdne._
+_Ďakujeme, že podporujete misijné projekty prostredníctvom misijných darov, darov trinástej soboty aj iných zvláštnych zbierok._
