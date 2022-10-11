@@ -3,20 +3,22 @@ title:  Misijný príbeh
 date:   14/10/2022
 ---
 
-#### Každý cent je posvátný
+#### Každý cent je posvätný
 
 _Andrew McChesney_
 
-Shyamale se překvapením rozšířily oči, když si přečetla ručně psaný vzkaz zastrčený v obálce se dvěma peněžními poukázkami v hodnotě 110,52 dolarů. Dopis přišel z východního pobřeží USA a složenky byly vystaveny na Global Mission, přední linii organizace Adventist Mission, jejíž misionáři zakládají nové skupinky věřících na nezasažených územích.
+Shyamalinou tvárou preblesol výraz prekvapenia. Práve otvorila obálku, v ktorej boli dve peňažné poukážky na 110 dolárov a 52 centov a rukou napísaný odkaz. Obálka jej prišla z východného pobrežia Spojených štátov. Peňažné poukážky boli vystavené na účet globálnej misie, ktorej pracovníci zakladajú nové skupinky veriacich v odľahlých oblastiach.
 
-"Přikládám dar pro Global Mission, abych pomohl lidem poznat Boží lásku," stálo v dopise. "Miluji Boha a snažím se pomáhat šířit evangelium ve svém okolí."
+V odkaze bolo napísané: „Rozhodla som sa urobiť zbierku pre účely globálnej misie, aby sa aj ďalší ľudia mohli dozvedieť o Božej láske. Milujem Boha a snažím sa šíriť evanjelium vo svojom susedstve.“
 
-Právě další část dopisu udivila Shyamalu, specialistku na dárcovství v Global Mission. Pisatelka vysvětlila, že dar ve výši 110,52 dolarů se skládá z drobných mincí, které našla na ulici. Když se jí sklenice s mincemi naplnila, vybrala je a dar poslala.
+Shaymalu najviac prekvapili ďalšie slová, ktoré boli napísané v liste. Shaymala pracuje ako finančná manažérka v rámci globálnej misie, no s takýmto darom sa ešte nestretla. Pisateľka vysvetlila, že jej dar 110 dolárov a 52 centov tvoria drobné mince, ktoré našla na ulici. Keď boli fľaše na drobné plné, zamenila ich za peňažnú poukážku a odoslala ako dar na misiu.
 
-"Tento dar jsou mince, které jsem nasbírala pro Ježíše," napsala. "Doufám, že někomu vykouzlí úsměv na tváři, když se s ním podělíte o Boží lásku."
+„Mojím darom sú centy, ktoré som zbierala pre Ježiša,“ napísala. „Dúfam, že ľuďom vyčaria úsmev na tvári, keď aj vďaka nim sa budú môcť dozvedieť o Božej láske.“
 
-O několik týdnů dříve přišel do kanceláře Global Mission na Generální konferenci jiný překvapivý dopis. Dopis ze západního pobřeží USA neobsahoval žádný vzkaz, ale přiložený šek na 165 dolarů hovořil jasně. Byl vystaven věznicí jménem jednoho z vězňů. Vzhledem k tomu, že vězni si ve věznici vydělávají až 55 dolarů měsíčně, musel by dárce na tento dar pracovat nejméně tři měsíce. "A to nebyl jeho první dar," řekla Shyamala.
+Ďalší prekvapivý list dostali do kancelárie globálnej misie o niekoľko týždňov. List prišiel zo západného pobrežia Spojených štátov. Vnútri nebol žiaden odkaz, len šek na 165 dolárov. Adresa odosielateľa však prezradila všetko. Odosielateľom bolo väzenie, ktoré poslalo dar v mene jedného svojho väzňa. Za mrežami si človek dokáže zarobiť do 55 dolárov za mesiac, takže darca musel tvrdo pracovať minimálne tri mesiace, aby zarobil na tento dar. „A to nebol jeho prvý dar, ktorý sme od neho dostali,“ dodala Shyamala.
 
-Třetí dopis otevřela Nimfa, která spolu se Shyamalou vede v Global Mission oddělení pro vztahy s dárci. Dopis přišel od muže, který před několika dny zavolal na horkou linku Global Mission, aby se zeptal, zda Global Mission obdržela dar zaslaný prostřednictvím webových stránek. Nimfa zjistila, že banka volajícího transakci odmítla. Když se volající zeptal na alternativní způsob darování, navrhla mu šek nebo bankovní převod. Šek na 70.000 dolarů dorazil o několik dní později. Dar představoval výtěžek z prodeje nemovitosti. "Ten muž slíbil Bohu, že pokud nemovitost prodá, dá vše na misii," řekla Nimfa.
+Tretí zaujímavý list otvorila Nimfa, Shyamalina kolegyňa, ktorá tiež pracuje na finančnom oddelení globálnej misie. List prišiel od muža, ktorý im pred niekoľkými dňami zatelefonoval. Chcel sa uistiť, či dostali dar, ktorý im poslal prostredníctvom webovej stránky globálnej misie. Nimfa to skontrolovala a zistila, že banka jeho transakciu zamietla. Volajúci sa teda opýtal na iné spôsoby, ako by im mohol svoj dar poslať. Na to mu Nimfa odporučila použiť šek alebo poštovú poukážku. O niekoľko dní neskôr dostali šek na 70 000 dolárov. Dar predstavoval výnos z predaja pozemku. „Ten muž sľúbil Bohu, že ak sa jeho pozemok podarí predať, celý výnos dá na misiu,“ dodala Nimfa.
 
-Příběhy o věrnosti lidí k Boží misii se hluboce dotýkají srdcí Shyamaly, Nimfy i dalších pracovníků Global Mission. Ať už jde o dar ve výši jednoho dolaru - jeden dárce posílal tři dolarové bankovky každý měsíc po celá léta - nebo 70.000 dolarů, každý cent jde na práci v první linii. "Každý cent, který dostaneme, není obyčejný cent," říká Nimfa. "Když obdržíme dar, zvláště když se dozvíme, jak se k nám tyto peníze dostaly nebo proč nám byly poslány, připomínáme si, že každý cent je posvátný. Jsou to Pánovy peníze. Každý cent jde jen na to, aby pomohl dokončit dílo a Ježíš mohl přijít."
+Príbehy, ktoré odhaľujú vernosť ľudí Bohu a jeho misii sa silne dotkli sŕdc Shyamaly, Nimfy a ostatných pracovníkov globálnej misie. Či je to dar v hodnote jedného dolára alebo 70 000, každý cent je určený pre prácu misijných pracovníkov. Jeden darca už roky posiela na misiu jednodolárové šeky trikrát mesačne. 
+
+„Ani jeden cent, ktorý dostaneme, nepovažujeme za samozrejmosť,“ povedala Nimfa. „Keď obdržíme dar a keď sa dozvieme, ako alebo prečo sa tieto peniaze k nám dostali, pripomenieme si, že každý cent je svätý. Sú to Pánove peniaze. Každý cent je určený na to, aby pomohol dokončiť misijnú prácu a Ježiš mohol čoskoro prísť.“
