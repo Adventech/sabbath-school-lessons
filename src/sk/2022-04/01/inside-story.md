@@ -3,36 +3,32 @@ title:  Misijný príbeh
 date:   30/09/2022
 ---
 
-#### Osvobozen z řetězů
+#### Oslobodený z pút
 
 _Andrew McChesney_
 
-Vzduch v zemědělské vesnici v Laosu pronikaly výkřiky.
+Kazateľ Cirkvi adventistov siedmeho dňa spolu s niekoľkými ďalšími členmi zboru boli práve na návšteve jednej dediny v štáte Laos. Ticho vidieka odrazu prerušili výkriky. Hneď sa vydali smerom, odkiaľ výkriky prichádzali. Vošli do jedného domu, kde našli 16-ročného chlapca pripútaného k drevenej podlahe. „Čo sa stalo vášmu synovi?“ opýtal sa kazateľ rodičov. „Prečo je pripútaný reťazami k podlahe?“
 
-Pastor adventistů sedmého dne, který vesnici navštívil s malým týmem církevních pracovníků, zamířil k hlasitému křiku, aby zjistil, co se děje. S překvapením spatřil šestnáctiletého chlapce připoutaného řetězem k dřevěné podlaze rodinného domu. "Co se stalo vašemu chlapci?" zeptal se rodičů. "Proč je připoutaný?"
+Rodičia boli utrápení. „Náš syn Aer je už dlho chorý,“ povedal otec. „Niekoľko hodín sa správa normálne, ale potom si začne ubližovať. To sa opakuje niekoľkokrát za deň,“ doplnila ho mama.
 
-Rodiče vypadali smutně. "Náš syn Aer je už mnoho let nemocný," řekl otec. "Na několik hodin se stane normálním, ale pak zase přijde o rozum. Děje se tak několikrát denně," dodala jeho matka.
+Rodičia minuli všetky peniaze v snahe chlapca vyliečiť. Jeho stav sa však stále zhoršoval. Zúfalstvo ich priviedlo k tomu, že Aera prikovali k podlahe. Chceli tak ochrániť ostatných aj jeho samého pred zraneniami. Pripútaný bol už šesť mesiacov.
 
-Rodiče utratili všechny své peníze, aby našli lék. Situace se však neustále zhoršovala, až se neochotně rozhodli nechat Aera stále v řetězech, aby neublížil sobě ani ostatním. K dřevěné podlaze byl připoután posledních šest měsíců.
+Kazateľ začal rozprávať Aerovi a jeho rodičom o Ježišovej láske, ktorá ho môže zachrániť. „Ak to bude jeho vôľa, Ježiš môže vášho syna uzdraviť,“ povedal im. Potom sa spýtal, či by sa mohol za chlapca pomodliť. Aerovi rodičia s radosťou súhlasili. Na ich tvárach sa objavil záblesk nádeje, že ich syn by mohol byť uzdravený.
 
-Pastor s Aerem promluvil a vyprávěl mu i jeho rodičům o Ježíšově zachraňující lásce. "Pokud to bude Ježíšova vůle, může Aera uzdravit," řekl.
+O niekoľko dní kazateľ spolu so svojím tímom opäť navštívili Aera a modlili sa za neho. Celú rodinu pozvali na bohoslužbu do najbližšieho adventistického zboru, ktorý bol v susednej dedine. 
 
-Požádal o svolení modlit se za chlapce. Aerovi rodiče s radostí souhlasili. Ve tvářích jim zářila naděje, že jejich syn bude uzdraven.
+Na ďalšiu sobotu prišla do zboru celá rodina. Aer prišiel so zviazanými rukami. Každý člen zboru sa za neho pomodlil. Potom kazateľ vyzval aj otca, aby sa aj on pomodlil. Celé zhromaždenie sklonilo hlavy, kým otec prosil Ježiša o uzdravenie syna. Od toho dňa bol chlapec zdravý. Správal sa úplne normálne a nikdy už nemusel byť spútaný.
 
-O několik dní později pastor se svým týmem znovu navštívil Aera a modlil se za něj. Pastor pozval rodinu na bohoslužbu do nejbližšího adventistického sboru v sousední vesnici.
+Susedov táto zmena veľmi prekvapila. Aerových rodičov zaplavili otázkami.
 
-Následující sobotu přišli rodiče do sboru s Aerem, který měl ruce spoutané řetězy. Každý člen církve se za Aera modlil a poté pastor požádal také chlapcova otce, aby se za něj pomodlil. Všechny hlavy se sklonily, když se otec modlil k Ježíši za svého syna. Od toho dne byl chlapec uzdraven. Vrátil se do normálního života a už nemusel být připoután.
+„Je to naozaj ten chlapec, ktorý bol celé roky chorý a musel byť spútaný?“ spýtal sa jeden z nich.
 
-Sousedé byli ohromeni a zasypali Arovy rodiče otázkami.
+„Ako je možné, že je už v poriadku?“ spýtal sa iný. „Kto ho uzdravil?“
 
-"Je to ten chlapec, který byl dlouhá léta nemocný a byl připoutaný?" ptal se jeden z nich.
+Rodičia im vysvetlili, že ich chlapca uzdravil kresťanský Boh.
 
-"Proč je teď v pořádku?" ptal se další. "Kdo ho uzdravil?"
+Nielen Aerovi rodičia prijali po uzdravení svojho syna Ježiša za svojho osobného Spasiteľa, ale pridali sa k nim aj ďalšie rodiny. A tak v apríli roku 2021 bolo spolu pokrstených 122 ľudí. Tým sa kapacita ich lokálneho zboru naplnila.
 
-Rodiče vysvětlili, že jejich chlapce uzdravil křesťanský Bůh.
+„Chválime Boha za zázračné prejavy jeho moci v tejto oblasti. Aj vďaka nim mohli mnohí prísť k Bohu a byť zachránení,“ povedal miestny kazateľ.
 
-Po uzdravení přijali Ježíše jako svého osobního Spasitele nejen Aerovi rodiče, ale i mnoho dalších rodin. Tyto rodiny patří mezi 122 lidí, kteří byli v dubnu 2021 ve sboru pokřtěni a zaplnili tak budovu sboru do posledního místa.
-
-"Chválíme Boha za to, že v této oblasti vykonal tolik zázraků, které vedly k tomu, že k Němu přišlo mnoho lidí, aby byli zachráněni," řekl laoský pastor, který se o tento příběh podělil s organizací Adventist Mission.
-
-_Děkujeme vám za vaše misijní dary při sobotní škole, které podporují šíření evangelia v Laosu a po celém světě._
+_Ďakujeme, že podporujete misiu. Aj vďaka misijným darom sa môže evanjelium šíriť v štáte Laos i na celom svete._
