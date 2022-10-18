@@ -8,6 +8,8 @@
           thumbnail: https://www.hopetv.org/fileadmin/_processed_/csm_episode_jsv_916FcuqM87S_60b734e2dc.jpg
         - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_33O0ldvawCD/v/jsv_kiLL77kZcvD/jsv_kiLL77kZcvD-jsren_80hvjFB4Un8-360p.mp4
           thumbnail: https://images.hopeplatform.org/resize/L3c6NzY4LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyLzZ4STE2NjUzNzQ0MDIzMzUuanBn/w:768,q:75/hope-images/620e23d4c49d64006595c192/6xI1665374402335.jpg
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_33O0ldvawCD/v/jsv_CHVLFPDnzQ9/jsv_CHVLFPDnzQ9-jsren_fF7T2hRuUHd-360p.mp4
+          thumbnail: https://images.hopeplatform.org/resize/L3c6Mzg0LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL25WbDE2NjYxMDA0NDc2NDUuanBn/w:384,q:75/hope-images/620e23d4c49d64006595c192/nVl1666100447645.jpg
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-01.mp4
@@ -16,6 +18,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-02.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-03.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-04.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -32,3 +36,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-02.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-03.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-03.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-04.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-04.webp
