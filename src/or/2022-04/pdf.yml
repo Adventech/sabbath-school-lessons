@@ -1,0 +1,30 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-01.pdf
+      target: or/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-02.pdf
+      target: or/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-03.pdf
+      target: or/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-04.pdf
+      target: or/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-05.pdf
+      target: or/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-06.pdf
+      target: or/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-07.pdf
+      target: or/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-08.pdf
+      target: or/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-09.pdf
+      target: or/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-10.pdf
+      target: or/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-11.pdf
+      target: or/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-12.pdf
+      target: or/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-13.pdf
+      target: or/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/or/2022-04/ABSG-2022-04-OR-14.pdf
+      target: or/2022-04/14
