@@ -71,8 +71,6 @@
           target: cs/2022-04/04/07
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_04-inside-story.mp3
           target: cs/2022-04/04/inside-story
-        - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_05-1.mp3
-          target: cs/2022-04/05/01
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_05-2.mp3
           target: cs/2022-04/05/02
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_05-3.mp3
