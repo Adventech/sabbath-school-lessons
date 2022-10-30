@@ -1,0 +1,51 @@
+---
+title:  Lehrerteil
+date:   26/08/2022
+---
+
+**Schlüsseltext:**
+Philipper 4,4
+
+**Studienschwerpunkt:**
+Josua 5,13–6,20; 2. Chronik 20,1–30; Psalm 145; Apostelgeschichte 16,16–34; Philipper 4,4–7
+
+### TEIL I: ÜBERSICHT
+
+„Wie könnten wir des HERRN Lied singen in fremdem Lande?“, klagten die jüdischen Gefangenen an den Flüssen von Babylon, als sie von ihren Entführern aufgefordert wurden, einige der Lieder Zions zu singen (Ps 137,1–4). Wie können wir denn inmitten von Leid und Tod singen und Gott loben? Diese Frage verkörpert eines der großen Paradoxa des Christentums. Auch hier geht es darum, die Quelle der Freude und des Lobes zu verstehen: Gott selbst. Ein solches Verständnis bedeutet nicht, dass Gott uns zwingt oder programmiert, sein Loblied zu singen. Im Gegenteil, wenn es wahr wäre, dass Gott uns für sein Lob vorherbestimmt hätte, würde die Welt einmütig genau das tun; aber das ist offensichtlich nicht der Fall.
+
+Vielmehr ist Gott die Quelle des Lobes, weil er der ist, der er ist: unser Schöpfer und unser Retter, unser König und unser Vater, unser Richter und unser Freund. Er ist ehrfurchtgebietend! Ein Grundprinzip des christlichen Lebens in dieser Welt ist, dass wir Gott im Schmelztiegel preisen können, wenn wir ein kontinuierliches – und nicht nur ein sporadisches – Leben des Lobpreises führen. Ein weiteres Grundprinzip ist, dass der Lobpreis Gottes in Krisenzeiten aus unserer Beziehung zu Gott erwächst, in der wir ihn kennen, lieben und ihm vertrauen.
+
+**Themen der Lektion**
+
+Die Lektion dieser Woche beleuchtet zwei wichtige Themen:
+
+1. Freude und Lobpreis sind in unserer tiefen und bedeutungsvollen Beziehung zu Gott verwurzelt, und zwar als Teil unseres Lebens, als Lebensstil.
+2. Christliche Freude und Lobpreis sind nicht nur gut für unsere Gesundheit und die Überwindung von Schwierigkeiten, sondern werden von Gott auch zur Rettung anderer eingesetzt.
+
+### TEIL II: KOMMENTAR
+
+**Freude im Leiden**
+
+Horace Williams Jr., der Autor des preisgekrönten Buches Unleash the Power of Prayer in Your Life [Entfessle die Kraft des Gebets in deinem Leben], nennt acht Ziele, die Gott in unserem Leben erreicht, wenn er unser Leiden zu unserem Nutzen einsetzt. Laut Williams benutzt Gott das Leiden, um „die Sünde in unserem Leben zu entlarven, unseren Glauben zu entwickeln, unseren Stolz zu zerstören, unseren Weg zu bestimmen, seine Gnade zu demonstrieren, seine Liebe zu zeigen, unsere Hingabe an ihn zu vertiefen und uns Hoffnung, Trost und Freude zu geben“ (Horace Williams Jr., The Furnace of Affliction: How God Uses Our Pain and Suffering for His Purpose, Kindle Edition, 2020, S. 11). Wie schenkt Gott uns Freude durch Leiden? Williams erklärt, dass „Freude mehr ist als Glück, das auf einem Ergebnis oder einem Umstand beruht. Freude ist die übernatürliche Freude über Gottes Absicht für unser Leben. Freude ist etwas, das Gott uns inmitten unseres Schmerzes und Leids anbietet. Wir müssen uns dafür entscheiden, mit Freude zu leben. ‚Ich aber will von deiner Macht singen / und des Morgens rühmen deine Güte; denn du bist mir Schutz und Zuflucht in meiner Not‘ (Ps 59,17)“ (Ebd., S. 90). Williams kommt zu dem Schluss, dass „Freude zu erleben nicht bedeutet, dass ich keinen Schmerz mehr erlebe. Stattdessen bedeutet es, dass Gott mich an einen Ort bringt, an dem ich nun die Neigung habe, ihn zu fragen: ‚Was willst du, dass ich in dieser leidvollen Situation sehe, Herr?‘“ (Ebd., S. 97). Was Williams in seinen Leiden sieht, das ihm Freude bereitet, ist Gottes Anwesenheit im gegenwärtigen und künftigen ewigen Leben.
+
+**Polykarp lobt Gott auf dem Scheiterhaufen**
+
+Der römische Kaiser Antoninus Pius (138–161 n. Chr.) setzte die Politik und Praxis der Christenverfolgung von Kaiser Trajan fort. Im Jahr 155 n. Chr. schleppte eine Menschenmenge eine Gruppe von Christen vor die Behörden der Stadt Smyrna in Kleinasien, damit sie verurteilt und bestraft würden. Als die Christen sich weigerten, die Götter des Reiches anzuerkennen, wurden sie mit dem Tod bestraft. Danach forderte die Menge, dass Polykarp, der Bischof der Gemeinde in Smyrna, vor die Stadt gebracht werden sollte. Der alte Polykarp war ein Jünger und Freund des Apostels Johannes und außerdem ein weithin bekannter und einflussreicher christlicher Führer in Asien und darüber hinaus. Als Polykarp schließlich ins Amphitheater gebracht wurde, versuchte der Prokonsul, ihn zu überreden, seinen Glauben zu widerrufen und Christus zu verfluchen.
+
+Der treue Jünger Jesu erwiderte: „86 Jahre lang habe ich ihm gedient und er hat mir nichts Böses getan. Wie könnte ich meinen König, der mich gerettet hat, verfluchen?“ Als der Prokonsul ihn schließlich dazu verurteilte, auf dem Scheiterhaufen verbrannt zu werden, und die Soldaten ihn an den Pfahl banden, betete Polykarp und lobte Gott mit lauter Stimme: „Herr, allmächtiger Gott … Ich danke dir, dass du mich dieses Augenblicks für würdig befunden hast, damit ich zusammen mit deinen Märtyrern am Kelch Christi teilhaben kann … Dafür … segne und verherrliche ich dich“ (Justo L. González, The Story of Christianity, Bd. 1, „The Early Church to the Dawn of the Reformation”, überarbeitete und aktualisierte Ausgabe, New York 2010, S. 54).
+
+Polykarp war nur einer von Tausenden von Christen, die wie andere biblische Persönlichkeiten, wie etwa David und Paulus, Gott inmitten von Verfolgung und den Prüfungen des Lebens lobten. Diese frühen Christen lobten Gott in den Flammen, an den Pfählen, in Amphitheatern voll wilder Tiere, an Kreuzen, in Gefängniszellen und in Folterkammern. Sie dachten nicht an das Unrecht, das ihnen angetan wurde; sie berechneten nicht das Kosten-Nutzen-Verhältnis ihres Tuns. Sie liebten und vertrauten Gott und zögerten nicht, eine radikale und endgültige Verpflichtung gegenüber ihrem Gott einzugehen. Sie hielten es nicht für ein Ungemach, für ihren Herrn zu sterben. Vielmehr betrachteten sie es als ein Privileg, für ihren geliebten Erlöser zu leiden und zu sterben. Sie vertrauten ohne zu zögern auf Gott und seine Verheißung der Auferstehung und betrachteten den Tod nur als einen Moment auf dem Weg zur Begegnung mit ihrem Herrn in der Herrlichkeit. Ellen White schreibt über die Erfahrungen Davids angesichts der Rebellion seines Sohnes Absalom und weist auf Davids Gewohnheit hin, in Zeiten der Not zu singen und Gott zu preisen: „Welche Gefühle mögen den Vater und König, dem so schweres Unrecht zugefügt wurde, in dieser schrecklichen Gefahr bewegt haben? Er, ein ‚tapferer Mann und tüchtig zum Kampf‘ (1. Samuel 16,18), ein König, dessen Wort Gesetz war, verraten von seinem Sohn, den er so geliebt hatte, dem er nachgegeben und dem er unklugerweise vertraut hatte, fühlte sich auch von seinen Untertanen, die ihm durch die starken Bande von Ehre und Treue verpflichtet waren, beleidigt und im Stich gelassen. Mit was für Worten hat David seinen Empfindungen Ausdruck verliehen? In der dunkelsten Stunde der Heimsuchung setzte er sein Vertrauen auf Gott und sprach … Psalm 3,2–7“ (WAB 722–723).
+
+In Kapitel 2 des Buches Vom Schatten zum Licht, das überschrieben ist mit „Treu in Verfolgung“, beschreibt Ellen White, wie das Singen und Loben Gottes den Christen wahrste und innigste Freude und Frieden inmitten heftigster Bedrängnis und Verfolgung gab: „Wie die Diener Gottes vor Zeiten sind sie ‚gemartert worden und haben die Freilassung nicht angenommen, damit sie die Auferstehung, die besser ist, erlangten‘ (Hebräer 11,35). Sie riefen sich die Worte ihres Meisters ins Gedächtnis, dass sie bei Verfolgungen um Christi willen fröhlich und getrost sein sollten, weil ihr Lohn im Himmel wunderbar sein würde, denn die Propheten vor ihnen waren genauso verfolgt worden. Sie freuten sich, würdig zu sein, für die Wahrheit zu leiden, und Triumphgesänge stiegen aus den prasselnden Flammen empor. Sie sahen zu Christus auf und erblickten ihn und seine heiligen Engel, die mit inniger Anteilnahme und Anerkennung auf die Standhaftigkeit der Leidenden herabschauten. Eine Stimme kam vom Thron Gottes zu ihnen hernieder: ‚Sei getreu bis an den Tod, so will ich dir die Krone des Lebens geben‘ (Offenbarung 2,10)“ (VSL 41).
+
+**Bedingungen, damit man sich im Schmelztiegel freuen kann**
+
+Gott zu loben und sich in einer Krise über ihn zu freuen, ist nur möglich, wenn wir uns der Güte und Gerechtigkeit der Sache oder der Person, für die wir kämpfen, sicher sind. In unserem Fall sind die Sache und die Person eins. Freude inmitten von Prüfungen und Verfolgung ist möglich, wenn wir Gott vertrauen, wenn wir ihn und seine Pläne verstehen, wenn wir davon überzeugt sind, dass Gott gerecht und gut ist und dass er und seine Sache unseren vollen und radikalen Einsatz wert sind. Freude inmitten von Schmelztiegeln entspringt also der Erkenntnis, 1. dass Gott real ist und dass er gut ist; 2. dass er uns geschaffen hat, dass wir ihm gehören, dass er uns liebt und dass wir ihn auch lieben; 3. dass der Große Kampf real ist, dass er ein Angriff Satans auf Gott und auf uns ist und dass Gott auf unserer Seite steht und wir auf seiner; 4. dass Gott uns von der Macht der Sünde und Satans erlöst hat und dass wir und Gott, in Christus, siegreich sind und sein werden und 5. dass Gottes Sache oder Mission, der ganzen Welt das Heil zu bringen, all das Leid wert ist, das wir ertragen müssen – wenn es sein muss, sogar bis zum Tod.
+
+### TEIL III: ANWENDUNG
+
+`1. Lest Habakuk 3,16–17 und überlegt, wie ihr euch in eurem Leiden freuen könnt. Wie könnt ihr Gott in Momenten der Bedrängnis loben?`
+
+`2. Musik ist bei menschlichen Aktivitäten wie Arbeit, Sport und Kampf ein starker Motivationsgeber. So haben zum Beispiel Armeen auf der ganzen Welt ihre eigene Musik, die die Moral der Soldaten hebt. Denkt über die Musik nach, die euer geistliches Leben motiviert. Wie viel Freude und Frieden erfahrt ihr durch euren Lobpreis und euer Singen für Gott?`
+
+`3. Nehmt euch vor, alte und neue Lieder auswendig zu lernen, um sie aus dem Gedächtnis und mit Verständnis zu singen. Singt ein Lied, wenn ihr euch in einer schwierigen Situation befindet. Wie hilft euch diese Erfahrung, siegreich zu werden und/oder wie gibt sie euch Kraft?`

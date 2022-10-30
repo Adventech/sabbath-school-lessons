@@ -12,4 +12,3 @@ Egy héttel azután, hogy Eduardo átadta szívét Jézusnak, elkezdte megtiszt�
 Az apa és az anya összeházasodtak. Így már semmi nem gátolta a feleséget, hogy megkeresztelkedjen. A keresztség előtti nap Eduardo és Junior elmentek a gyülekezetbe, hogy hallgassák, amint az édesanya a kórussal próbál. Egyszer csak eldőlt egy létra, amit a díszítéshez használtak, a rajta levő emberrel együtt a földre döntötte Eduardót. Remegve feküdt a földön, ekkor két szellem elkezdte gyötörni. Junior odarohant az apjához és hallotta, amint a szellem azt suttogta, hogy meg akarta ölni az apját.
 
 A kórus ezt énekelte: „Jézus, te vagy a Vőlegény, a Magvető, én Atyám és Pásztorom, a drága Gyöngy.” Az apa csak ennyit suttogott: „nagyon fáj.” Egy óra ima és éneklés után az apa jobban lett. Bár mindene nagyon fájt, másnap rész vett a felesége keresztségén. Az anya boldogan merült be a medence vizébe.
-

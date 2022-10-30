@@ -1,0 +1,14 @@
+---
+  video:
+    - artist: die BIBEL. das LEBEN.
+      clips:
+        - src: https://hopechannel.de/fileadmin/videos/2022/DEU_HCTV_0174_0511_013730_20220925_1_m.mp4
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_0174_0511_wo-tod-herkommt_johannes-feldmann_75244fb71c.jpg
+        - src: https://hopechannel.de/fileadmin/videos/2022/DEU_HCTV_0174_0512_013730_20221002_1_m.mp4
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/koerper-seele-geist/-/60020654/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/fruehe-hoffnung/-/60020674/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/tote-werden-lebendig/-/60020709/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg

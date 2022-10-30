@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Moderador
+    description: Prepare-se para facilitar a discussão da lição da Escola Sabatina com esta edição para professores
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Comentários de Ellen G. White
+    description: Aprimore seu estudo com citações adicionais comentários dos escritos de Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: História da missão
+    description: Leia histórias missionárias inspiradoras de todo o mundo
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Áudio
+    description: Ouça a lição em movimento com a versão em áudio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Vídeo
+    description: Assista à discussão semanal da lição para aprofundar seu estudo
+    image: "v1/images/features/feature_video.png"

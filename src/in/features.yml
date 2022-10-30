@@ -11,7 +11,7 @@
     image: "v1/images/features/feature_egw.png"
   inside-story:
     name: inside-story
-    title: Cerita misi
+    title: Berita Misi
     description: Baca kisah misi yang menginspirasi dari seluruh dunia
     image: "v1/images/features/feature_inside_story.png"
   audio:

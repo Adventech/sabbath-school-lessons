@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-Intro.pdf'
+      target: en/2022-03-rt/introduction
+      title: Introduction
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L01.pdf'
+      target: en/2022-03-rt/01
+      title: Being Perfect
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L02.pdf'
+      target: en/2022-03-rt/02
+      title: Handling Emotions
+      start_date: 02/07/2022
+      end_date: 08/07/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L03.pdf'
+      target: en/2022-03-rt/03
+      title: Coping With Guilt and Fear
+      start_date: 09/07/2022
+      end_date: 15/07/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L04.pdf'
+      target: en/2022-03-rt/04
+      title: Created in God's Image
+      start_date: 16/07/2022
+      end_date: 22/07/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L05.pdf'
+      target: en/2022-03-rt/05
+      title: Reflecting God's Image
+      start_date: 23/07/2022
+      end_date: 29/07/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L06.pdf'
+      target: en/2022-03-rt/06
+      title: God's Truth
+      start_date: 30/07/2022
+      end_date: 05/08/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L07.pdf'
+      target: en/2022-03-rt/07
+      title: The Way the World Began
+      start_date: 06/08/2022
+      end_date: 12/08/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L08.pdf'
+      target: en/2022-03-rt/08
+      title: Changed by Baptism
+      start_date: 13/08/2022
+      end_date: 19/08/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L09.pdf'
+      target: en/2022-03-rt/09
+      title: Gossip and Grace
+      start_date: 20/08/2022
+      end_date: 26/08/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L10.pdf'
+      target: en/2022-03-rt/10
+      title: Authentic Worship
+      start_date: 27/08/2022
+      end_date: 02/09/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L11.pdf'
+      target: en/2022-03-rt/11
+      title: Random Acts of Kindness
+      start_date: 03/09/2022
+      end_date: 09/09/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L12.pdf'
+      target: en/2022-03-rt/12
+      title: Vocation and the Christian
+      start_date: 10/09/2022
+      end_date: 16/09/2022
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2022/Q3/English/Student/R-22-Q3-L13.pdf'
+      target: en/2022-03-rt/13
+      title: Thinking Right in a Gone-Wrong World
+      start_date: 17/09/2022
+      end_date: 23/09/2022

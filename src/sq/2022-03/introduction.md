@@ -1,0 +1,21 @@
+### Krijuesi i kryqëzuar
+  
+“Të gjitha gjërat u bënë prej tij; dhe pa të nuk u bë asnjë nga ato që u bënë” (Gjoni 1:3).
+
+"Të gjitha gjërat" u bënë nga Ai, Jezusi, e megjithatë - sipas Shkrimit - "Jezusi qau" (Gjoni 11:35). Krijuesi qau? Për më tepër, Jezusi ishte “i përbuzur dhe i refuzuar nga njerëzit; njeri i dhembjeve dhe njohës i pikëllimit” (Isa. 53:3). Krijuesi, njeri i dhembjeve, i përbuzur dhe i refuzuar? Dhe një herë ai bërtiti: "Perëndia im, Perëndia im, pse më ke braktisur"? (Mat. 27:46).
+
+Si mund të ndodhin këto gjëra? Është kështu sepse Jezusi, Krijuesi ynë, ishte gjithashtu Shpenguesi ynë, dhe si i tillë Ai ishte Perëndia i Kryqëzuar – Krijuesi që u bë njeri dhe si i tillë vuajti përmes një jete të varfërisë dhe mundimit, që përfundoi me varje në një kryq romak.
+
+Kështu, Krijuesi ynë, ai në të cilin "ne jetojmë, lëvizim dhe kemi qenien tonë" (Veprat e Apostujve 17:28), vuajti si njeri në mënyra që askush nga ne nuk mundet kurrë. Ne mund të përjetojmë vetëm pikëllimet tona; në kryq Ai mbajti “pikëllimet tona dhe mbarti dhembjet tona” (Isa. 53:4)—të gjitha. Është akti më i mahnitshëm në të gjithë historinë kozmike.
+
+Me atë sfond (atë të Zotit të kryqëzuar që duket mbi ne), ne do të kërkojmë për muajt e ardhshëm të kuptojmë më mirë të pakuptueshmen - vuajtjet tona, vuajtjet e të krishterëve, të atyre që ia kanë kushtuar jetën Krishtit. Ne nuk pretendojmë të kemi të gjitha përgjigjet; ne po pretendojmë vetëm se "Perëndia është dashuri" (1 Gjonit 4:8) dhe se, megjithëse këto gjëra ndodhin, ne mund t'i besojmë Perëndisë pavarësisht nga to dhe, në të vërtetë, të rritemi në hir nëpërmjet tyre, pavarësisht sa i dhimbshëm është procesi.
+
+Këtë tremujor ne do të studiojmë Fjalën e Perëndisë dhe do të shohim se si njerëz të tjerë prej gjaku dhe mishi, megjithëse rrezatuan në besim, gjithsesi u përballën me dëshpërimin, tradhtinë, zhgënjimin, humbjen, padrejtësinë dhe abuzimin (duket si situatat me të cilat jemi përballur të gjithë). Si e kanë përballuar? Çfarë mësuan ata? Çfarë mund të na mësojnë shembujt e tyre?
+
+Ndërsa i shikojmë këta njerëz, përvojat e tyre, betejat e tyre dhe sprovat e tyre të besimit, (të cilat mund të jenë shumë të ngjashme me tonat), ne duhet t'i shohim gjithmonë në kontekstin dhe në sfondin e Kryqit. Ne duhet të kujtojmë gjithmonë se, pavarësisht se me çfarë përballet dikush, Jezus Krishti, Krijuesi dhe Shpenguesi ynë kaloi edhe më keq.
+
+Perëndia ynë është një Perëndi që vuan. Madje edhe Albert Kamy, jo një i krishterë, kuptoi disa nga implikimet e Kryqit dhe vuajtjet e Zotit atje: “Nata në Golgotë është kaq e rëndësishme në historinë e njeriut vetëm, sepse nën hijen e saj, hyjnia braktisi privilegjet e saj tradicionale dhe piu deri në pikën e fundit, përfshirë dëshpërimin dhe agoninë e vdekjes»—Albert Kamy, The Rebel (New York: Vintage International, 1991), f. 33. Ose, siç u shpreh Ellen G. White: «Kryqi është një zbulesë e dhimbjes për shqisat tona të shurdhëra, të dhimbjes që, mëkati në fillimet e tij, solli në zemrën e Perëndisë»—Education, f. 263.
+
+Mësimet tona nuk janë një teodici, justifikimi i Zotit përballë së keqes. Në vend të kësaj, siç kemi thënë, ato janë një përpjekje për të na ndihmuar të përballojmë vuajtjet e pashmangshme, me të cilat përballemi të gjithë këtu në një botë, në të cilën mëkati është po aq i lehtë sa frymëmarrja. Ajo që do të përpiqemi të tregojmë është se dhimbja, vuajtja dhe humbja nuk tregojnë se Perëndia na ka braktisur; ato nënkuptojnë vetëm se, edhe si besimtarë, ne ndajmë tani fatin e përbashkët të një race të rënë në mëkat. Dallimi është se, nëpërmjet Jezusit dhe shpresës që Ai ofron, ne mund të gjejmë kuptim dhe qëllim në atë që duket e pakuptimtë dhe e paqëllimtë. Edhe nëse nuk mund ta imagjinojmë se si, ne mund t'i besojmë premtimit se “të gjitha gjërat bashkëveprojnë për mirë për ata që e duan Perëndinë” (Rom. 8:28)—Perëndia që, megjithëse krijoi të gjitha gjërat, vuajti të gjitha gjithashtu (dhe kjo është arsyeja pse ne e duam Atë).
+
+_Gavin Anthony, kontribuesi kryesor i këtij tremujori, u rrit në Sri Lanka si një fëmijë misionar. Ai punoi si pastor në Angli dhe ishte president i konferencës në Islandë kur shkroi këto mësime._
