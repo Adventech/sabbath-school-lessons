@@ -5,7 +5,7 @@ date:  30/09/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### No more chains
+### No More Chains
 
 _by Andrew McChesney_
 

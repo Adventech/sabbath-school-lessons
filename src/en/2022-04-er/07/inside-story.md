@@ -5,7 +5,7 @@ date:  11/11/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### Accepting the Bible: part 1
+### Accepting the Bible: Part 1
 
 _by Andrew McChesney_
 

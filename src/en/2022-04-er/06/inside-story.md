@@ -5,7 +5,7 @@ date:  04/11/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### “Don’t  fight back!”
+### “Don’t Fight Back!”
 
 _by Rick McEdward_
 

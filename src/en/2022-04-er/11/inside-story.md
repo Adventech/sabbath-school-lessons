@@ -5,7 +5,7 @@ date:  09/12/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### A brave witness for Jesus
+### A Brave Witness for Jesus
 
 _by Rick McEdward_
 
