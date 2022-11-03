@@ -5,7 +5,7 @@ date:  21/10/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### Sharing living water
+### Sharing Living Water
 
 _by David Maldonado_
 

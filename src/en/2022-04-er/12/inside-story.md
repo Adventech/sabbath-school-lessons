@@ -5,7 +5,7 @@ date:  16/12/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### Jesus beats the dragon
+### Jesus Beats the Dragon
 
 _by Andrew McChesney_
 

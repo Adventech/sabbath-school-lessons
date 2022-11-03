@@ -5,7 +5,7 @@ date:  25/11/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### “Rule number 1: God first!”
+### “Rule Number 1: God First!”
 
 _by Ocrhain Matengu_
 

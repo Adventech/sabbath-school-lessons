@@ -5,7 +5,7 @@ date:  07/10/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### “Signs and proofs”
+### “Signs and Proofs”
 
 _by Dmitry Bagal_
 

@@ -5,7 +5,7 @@ date:  28/10/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### A messenger for Jesus
+### A Messenger for Jesus
 
 _by Benjie Leach_
 

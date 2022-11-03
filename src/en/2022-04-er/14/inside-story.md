@@ -5,7 +5,7 @@ date:  30/12/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### Juice bar for jesus
+### Juice Bar for Jesus
 
 _by George Kwong_
 

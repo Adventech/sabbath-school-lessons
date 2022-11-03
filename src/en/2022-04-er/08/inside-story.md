@@ -5,9 +5,9 @@ date:  18/11/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### Accepting the Bible: part 2
+### Accepting the Bible: Part 2
 
-by Andrew McChesney
+_by Andrew McChesney_
 
 Eulalia Rashid lives on the Pacific Island named Saipan. Eulalia wanted to read the Bible all the way through. It took her three years. Because of what she read, Eulalia started to keep the Sabbath and to eat a diet of plant foods. Eulalia had been an alcoholic for 37 years. She told her family that she didn’t want to drink anymore because of Jesus.
 

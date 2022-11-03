@@ -5,7 +5,7 @@ date:  14/10/2022
 
 **This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
 
-### Every penny belongs to God
+### Every Penny Belongs to God
 
 _by Andrew McChesney_
 
