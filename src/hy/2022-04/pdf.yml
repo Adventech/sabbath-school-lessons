@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-Intro.pdf
+      target: hy/2022-04/01
+      title: Ներածություն
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-01.pdf
+      target: hy/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-02.pdf
+      target: hy/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-03.pdf
+      target: hy/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-04.pdf
+      target: hy/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-05.pdf
+      target: hy/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-06.pdf
+      target: hy/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-07.pdf
+      target: hy/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-08.pdf
+      target: hy/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-09.pdf
+      target: hy/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-10.pdf
+      target: hy/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-11.pdf
+      target: hy/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-12.pdf
+      target: hy/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-13.pdf
+      target: hy/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/hy/2022-04/ABSG-2022-04-HY-14.pdf
+      target: hy/2022-04/14
