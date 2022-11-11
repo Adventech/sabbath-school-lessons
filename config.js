@@ -115,6 +115,10 @@ var BIBLE_PARSER_CONFIG = {
     "kswc"
   ],
 
+  "kin": [
+      "bysb"
+  ],
+
   "kjp": [
     "pwokyn"
   ],
