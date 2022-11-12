@@ -94,6 +94,10 @@ var BIBLE_PARSER_CONFIG = {
     "gu2017"
   ],
 
+  "iba": [
+    "bk"
+  ],
+
   "it": [
     "nr2006"
   ],
@@ -109,6 +113,14 @@ var BIBLE_PARSER_CONFIG = {
 
   "kar": [
     "kswc"
+  ],
+
+  "kin": [
+      "bysb"
+  ],
+
+  "kjp": [
+    "pwokyn"
   ],
 
   "kha": [
