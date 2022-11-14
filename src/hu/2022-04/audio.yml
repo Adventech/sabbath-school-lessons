@@ -104,3 +104,5 @@
           target: hu/2022-04/08/01
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20221113.mp3
           target: hu/2022-04/08/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20221114.mp3
+          target: hu/2022-04/08/03
