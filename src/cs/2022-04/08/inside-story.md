@@ -3,7 +3,7 @@ title:  Misijní příběh
 date:   18/11/2022
 ---
 
-#### Přijetí slova: 2. část
+#### Přijetí Slova: 2. část
 
 _Andrew McChesney_
 
