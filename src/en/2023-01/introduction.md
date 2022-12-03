@@ -1,0 +1,17 @@
+### Managing for the Master—Till He Comes
+
+It is difficult for us to fully comprehend the relationship that our God, the Creator of the universe, wants to have with us as human beings. (The mere idea of it is astounding!) “Behold what manner of love the Father has bestowed on us, that we should be called children of God!” (1 John 3:1, NKJV). Or as Ellen G. White wrote: “Can any human dignity equal this? What higher position can we occupy than to be called the sons of the infinite God? . . . Can any worldly honor equal this?”—God’s Amazing Grace, p. 341. It’s only the darkness of this sin-laden world that causes us not to appreciate fully the status that we have been given in Jesus.
+
+Yet, if we are not careful, the lure of the world and the things of the world will pull us away from Christ. The Word of God informs us of the temptations and allurements of Satan. “But those who desire to be rich fall into temptation and a snare, and into many foolish and harmful lusts which drown men in destruction and perdition. For the love of money is a root of all kinds of evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows” (1 Tim. 6:9, 10, NKJV).
+
+The Lord, however, gives us guidance on how to earn money and utilize it wisely and not to let it be something that, as Paul warned, can lead to “destruction and perdition.” In the more than two thousand verses in the Scriptures that deal with money and possessions and our attitude toward them, God gives practical instruction on how to live above the stresses of life and to manage in financially faithful ways what we have been given.
+
+In this quarter’s lessons, we will study God’s ideal in our relationship with Him and clearly see how we can develop a trust so deep that we will remain faithful to Him, even when we can’t buy or sell. (See Rev. 13:17.) But this kind of faith does not come overnight; by faithfully managing what God has given us, we can be prepared, even now, for whatever comes our way.
+
+God is the One with the resources, and when we work with Him, He allows us to handle them for Him. It is the Savior’s purpose that human beings, purified and sanctified, shall be His helping hand. For this great privilege, let us give thanks to Him “who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son: in whom we have redemption through his blood, even the forgiveness of sins” (Col. 1:13, 14).
+
+God’s counsel to His children through the wise man, Solomon, is: “Honor the Lord with your possessions, and with the firstfruits of all your increase” (Prov. 3:9, NKJV). This counsel is appropriate because “ ‘You are worthy, O Lord, to receive glory and honor and power; for You created all things, and by Your will they exist and were created’ ” (Rev. 4:11, NKJV).
+
+From a merely secular perspective, we live in very challenging and stressful times. However, our Christian worldview gives us confidence and hope as we see the signs Jesus gave to let us know that the great climax of human history, the second coming of Christ, is very near—even at the door. We pray that these practical lessons will deepen your faith and trust in God and encourage you to be a faithful manager for Him.
+
+_G. Edward Reid, MDiv (Andrews University), MPH (Loma Linda University), JD (Georgia State University), is an ordained minister and licensed attorney who served for many years as the director of Stewardship Ministries of the North American Division._
