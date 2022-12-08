@@ -386,3 +386,13 @@
           target: en/2022-04/10/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2022/11/2022-12-01.mp3
           target: en/2022-04/10/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/12/2022-12-03.mp3
+          target: en/2022-04/11/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/12/2022-12-04.mp3
+          target: en/2022-04/11/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/12/2022-12-06.mp3
+          target: en/2022-04/11/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/12/2022-12-07.mp3
+          target: en/2022-04/11/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2022/12/2022-12-08.mp3
+          target: en/2022-04/11/06
