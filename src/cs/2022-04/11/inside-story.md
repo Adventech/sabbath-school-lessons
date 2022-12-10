@@ -11,9 +11,9 @@ Na začátku semestru požádal Sandru spolužák z univerzity, zda by si mohl m
 
 Na univerzitě na Blízkém východě se nevyučovalo v angličtině. Angličtina však byla Sandřiným rodným jazykem, a tak pro ni bylo snazší dělat si poznámky v angličtině. "Tady máš," řekla Sandra a posunula k němu svůj sešit.
 
-Druhý den spolužák opět požádal o povolení fotografovat. Poté, co spolužák žádal o fotografování několik dní po sobě, se Sandra rozhodla, že si bude poznámky dělat cílevědoměji. Rozhodla se, že si na konec stránek svého sešitu bude psát oblíbené biblické verše.
+Druhý den spolužák opět požádal o povolení fotografovat. Poté, co spolužák žádal o ofocení několik dní po sobě, se Sandra rozhodla, že si bude poznámky dělat cílevědoměji. Rozhodla se, že si na konec stránek svého sešitu bude psát oblíbené biblické verše.
 
-Když však spolužák požádal o fotografování příště, Sandra pocítila záchvěv strachu. Obávala se, že si veršů všimne a přestane ji žádat o nahlédnutí do jejích poznámek. Modlila se, aby si Bůh biblické verše použil ke své slávě.
+Když však spolužák požádal o ofocení příště, Sandra pocítila záchvěv strachu. Obávala se, že si veršů všimne a přestane ji žádat o nahlédnutí do jejích poznámek. Modlila se, aby si Bůh biblické verše použil ke své slávě.
 
 Zdálo se, že spolužák si biblických veršů zpočátku nevšiml. Po několika dnech si však uvědomil, že poznámky obsahují informace, které učitel během přednášek nezmínil. Šel za Sandrou a ukázal na verš na konci jedné stránky. "Je to verš z Bible?" zeptal se.
 

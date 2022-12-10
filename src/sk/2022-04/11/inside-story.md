@@ -3,28 +3,26 @@ title:  Misijný príbeh
 date:   09/12/2022
 ---
 
-#### Odvážný svědek
+#### Odvážne svedectvo
 
 _Rick McEdward_
 
-Na začátku semestru požádal Sandru spolužák z univerzity, zda by si mohl mobilem vyfotit její poznámky z hodin. "Viděl jsem, že píšeš anglicky," řekl. "Chci si zlepšit svou angličtinu."
+Na začiatku semestra sa spolužiak spýtal Sandry, či by si mohol telefónom odfotiť jej poznámky. „Videl som, že si ich píšeš v angličtine a ja by som sa rád v angličtine zdokonalil,“ dodal.
 
-Na univerzitě na Blízkém východě se nevyučovalo v angličtině. Angličtina však byla Sandřiným rodným jazykem, a tak pro ni bylo snazší dělat si poznámky v angličtině. "Tady máš," řekla Sandra a posunula k němu svůj sešit.
+Na jednej univerzite na Strednom východe sa neprednáša po anglicky. Pre Sandru je angličtina rodný jazyk, preto je pre ňu jednoduchšie zapisovať si poznámky v tomto jazyku. „Nech sa páči,“ povedala Sandra a podala zošit spolužiakovi.
 
-Druhý den spolužák opět požádal o povolení fotografovat. Poté, co spolužák žádal o fotografování několik dní po sobě, se Sandra rozhodla, že si bude poznámky dělat cílevědoměji. Rozhodla se, že si na konec stránek svého sešitu bude psát oblíbené biblické verše.
+Na druhý deň ju spolužiak opäť poprosil, či by si mohol odfotiť jej poznámky. Keď to takto šlo niekoľko dní po sebe, Sandra sa rozhodla viac dbať na svoje poznámky v zošite. Navyše sa rozhodla, že na spodný okraj listu napíše svoje obľúbené verše z Biblie.
 
-Když však spolužák požádal o fotografování příště, Sandra pocítila záchvěv strachu. Obávala se, že si veršů všimne a přestane ji žádat o nahlédnutí do jejích poznámek. Modlila se, aby si Bůh biblické verše použil ke své slávě.
+Keď si na ďalší deň spolužiak opäť poprosil jej poznámky, Sandra pocítila, ako sa jej zmocnil strach. Bála sa, že si spolužiak všimne biblické verše a kvôli tomu si prestane pýtať poznámky. Začala sa preto modliť, aby Boh použil biblické verše na svoju chválu.
 
-Zdálo se, že spolužák si biblických veršů zpočátku nevšiml. Po několika dnech si však uvědomil, že poznámky obsahují informace, které učitel během přednášek nezmínil. Šel za Sandrou a ukázal na verš na konci jedné stránky. "Je to verš z Bible?" zeptal se.
+Najprv sa zdalo, že spolužiak si verše vôbec nevšimol. Po niekoľkých dňoch si uvedomil, že v poznámkach je aj niečo, čo prednášajúci počas svojej prezentácie nespomínal. Zašiel teda za Sandrou, ukázal na verš napísaný dolu na strane a opýtal sa: „Tento verš je z Biblie?“
 
-"Ano," řekla Sandra a hlavou se jí honilo, jak to vysvětlit.
+„Áno,“ odvetila Sandra. V hlave jej už vírili rôzne myšlienky, ako mu to vysvetlí.
 
-Spolužák se odmlčel. "Je to způsob, jakým se motivuješ?" zeptal se.
+Spolužiak sa na chvíľu zamyslel a potom sa spýtal: „Je to niečo, čo ťa motivuje?“
 
-Sandra se s úlevou usmála. "Přesně tak," řekla. "Píšu si do sešitu své oblíbené verše. Pro můj život jsou opravdu nápomocné a užitečné."
+Sandra sa s úľavou usmiala. „Presne tak,“ odpovedala mu. „Svoje obľúbené verše si zapisujem do zápisníka. Vždy sú mi veľmi nápomocné a užitočné.“
 
-Po tomto dni se spolužák Sandry vyptával na mnoho otázek týkajících se jejího náboženství a víry. Když spolu studovali na univerzitě, dozvěděl se také o víře Církve adventistů sedmého dne. Na konci semestru požádal o kopii celého Sandřina sešitu plného veršů. Chtěl se o zápisky podělit se svými sourozenci.
+Po tomto rozhovore položil spolužiak Sandre ešte množstvo ďalších otázok o jej náboženstve a viere. Počas spoločného štúdia na univerzite mal možnosť zoznámiť sa s tým, čomu veria adventisti siedmeho dňa. Na konci semestra poprosil Sandru, či by si mohol spraviť kópiu celého jej zošita, ktorý bol plný biblických veršov. Chcel sa o ne podeliť so svojimi súrodencami.
 
-Přestože už pak s ním Sandra nestudovala, zůstali spolu v kontaktu a on se na ni pravidelně obrací s prosbou o radu do života. Sandra se za něj, jeho sourozence i zbytek jeho rodiny modlí. Děkuje Bohu za to, že jí vnukl odvážný nápad psát biblické verše na konec stránek svého sešit.
-
-_Sandra je pseudonym._
+Napriek tomu, že počas ďalšieho štúdia už nemali spoločné prednášky, Sandra s ním zostala v kontakte. Často sa spolu rozprávajú. Onen spolužiak prosí o rôzne rady do života. Sandra sa za neho, jeho súrodencov aj celú rodinu modlí. Zároveň je Bohu veľmi vďačná za odvážny nápad zapisovať si biblické verše do zošita.

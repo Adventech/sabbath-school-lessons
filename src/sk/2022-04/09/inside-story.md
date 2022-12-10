@@ -3,22 +3,22 @@ title:  Misijný príbeh
 date:   25/11/2022
 ---
 
-#### "Číslo 1: Bůh na prvním místě!"
+#### Boh na prvom mieste
 
 _Ocrhain Matengu_
 
-Modesty Kakula, podnikatel v Namibii, má neobvyklý způsob, jak se sdílet o Ježíši. Nápisy namalované na jeho třech autech hlásají: "Číslo 1: Bůh na prvním místě".
+Modesty Kakula je podnikateľ. Žije v Namíbii. Vymyslel si nezvyčajný spôsob, ako hovoriť ľuďom o Ježišovi. Na svojich troch autách má napísaný slogan: „Boh na prvom mieste.“
 
-Modestyho neotřelý přístup k misijní práci začal, když mu jeho první zaměstnavatel nabídl prodej auta za 50 000 namibijských dolarů (80 000 Kč) ve městě Katima Mulilo. Modesty, dva roky po střední škole a čerstvě ženatý, tvrdě pracoval a během čtyř měsíců se mu podařilo splatit téměř celou částku kromě 5 000 namibijských dolarů (8 000 Kč). Pak si to jeho zaměstnavatel rozmyslel a auto ocenil na 60 000 namibijských dolarů. "Proč měníš cenu zrovna teď, když se auto chystám doplatit?" zeptal se Modesty.
+Modestyho nezvyčajná misia začala, keď mu jeho prvý zamestnávateľ ponúkol auto za 50 000 namibijských dolárov (približne 3 400 eur). Udialo sa to v meste Katima Mulilo. Modesty pred dvoma rokmi ukončil štúdium na strednej škole a práve sa oženil. Usilovne pracoval, aby čím skôr splatil auto. Až na 5 000 namibijských dolárov sa mu podarilo splatiť celú sumu za štyri mesiace. Vtedy sa však jeho zamestnávateľ rozhodol zmeniť cenu na 60 000 dolárov. „Prečo meníš cenu auta práve teraz, keď som ju už takmer celú splatil?“ spýtal sa Modesty.
 
-O několik měsíců později, když Modesty splatil všechno kromě 5 000 namibijských dolarů, zvýšil jeho zaměstnavatel cenu na 70 000 namibijských dolarů. Modesty se pokusil auto znovu splatit a k jeho překvapení ho pak zaměstnavatel obvinil, že žádné splátky neplatí. Případ skončil u soudu a soudce rozhodl ve prospěch Modestyho. Zaměstnavatel však soudu zuřivě řekl: "Auto dostane jen přes mou mrtvolu." Modestyho manželka Rebecca něco pošeptala svému manželovi a pak požádala, aby mohla promluvit k soudu. S pláčem řekla: "Ať si to auto nechá. Bůh si pro nás připraví jinou cestu." Zaměstnavatel vrátil Modestymu 22 000 namibijských dolarů a propustil ho.
+O niekoľko mesiacov, keď sa Modestymu podarilo splatiť zvyšných 5 000 namibijských dolárov, zamestnávateľ zvýšil cenu na 70 000 dolárov. Modesty sa nevzdával a ďalej sa snažil auto splatiť. Na jeho prekvapenie ho tentoraz zamestnávateľ obvinil, že od neho nedostáva žiadne platby. Ich prípad skončil nakoniec na súde, kde sudca rozhodol v prospech Modestyho. Zamestnávateľ na rozsudok reagoval nahnevane. Povedal: „Modesty dostane auto iba cez moju mŕtvolu.“ Modestyho manželka Rebecca niečo pošepkala manželovi a potom si vyžiadala slovo. So slzami v očiach pred súdom povedala: „Dovoľte mu nechať si to auto. Boh sa o nás postará.“ Zamestnávateľ nakoniec vrátil 22 000 namibijských dolárov Modestymu a prepustil ho.
 
-Doma si Modesty bez práce a bez příjmu se slzami v očích vyléval své srdce Bohu. Když se modlil, omylem shodil na zem svou Bibli. Když Modesty otevřenou Bibli zvedl, padl mu zrak na verš Římanům 8,28, kde se píše: "Víme, že těm, kdo milují Boha, všechno napomáhá k dobrému – totiž těm, které povolal podle svého záměru."
+Modesty sa ocitol doma bez práce a finančnému príjmu. S plačom vylieval svoj žiaľ v srdci pred Bohom. Raz sa stalo, že počas modlitby nechtiac zhodil svoju Bibliu na podlahu. Keď ju zdvihol, pohľad mu padol na verš Rimanom 8,28, kde je napísané: „Vieme, že všetky veci slúžia na dobro tým, čo milujú Boha, ktorí sú povolaní podľa jeho predsavzatia.“
 
-"Páni!" Modesty vykřikl, když jeho srdce naplnil pokoj a jistota.
+„Naozaj,“ povedal si Modesty a jeho srdce zaplavil pokoj a istota.
 
-Druhý den ráno, když Modesty ještě ležel v posteli, zazvonil telefon. Neznámý mužský hlas mu nabízel prodej auta za 23 000 namibijských dolarů.
+Na druhý deň ráno, keď bol ešte v posteli, zazvonil mu telefón. Akýsi neznámy mužský hlas mu ponúkol na predaj auto za 23 000 namibijských dolárov.
 
-Modesty spěchal do domu tohoto muže. Auto bylo opravdu na prodej. Na Modestyho prosby muž snížil cenu na 22 500 namibijských dolarů a Modesty si na zaplacení zbytku půjčil peníze od svých rodičů.
+Modesty sa rýchlo ponáhľal k nemu domov. A naozaj, auto bolo ešte stále na predaj. Modestymu sa podarilo znížiť cenu na 22 500 dolárov. Peniaze, ktoré mu chýbali, si požičal od rodičov.
 
-Aby Modesty všem dosvědčil Boží dobrotu, okamžitě nad zadní okno namaloval slogan "Číslo 1: Bůh na prvním místě". Dnes je Modesty starším mužem a majitelem firmy se třemi auty, z nichž každé má nad zadním oknem slogan. Kamkoli jeho auta přijedou, lidé jej vidí a říkají: "Bůh na prvním místě!".
+Aby mohol každému povedať o Božej dobrote, Modesty ihneď napísal nad kufor auta slogan: „Boh na prvom mieste.“ Modesty dnes podniká ako majiteľ firmy. Vlastní tri autá a každé z nich má vzadu nad oknom napísaný tento slogan. Kamkoľvek ide, ľudia si to môžu prečítať a pripomenúť si, že Boh má byť na prvom mieste.
