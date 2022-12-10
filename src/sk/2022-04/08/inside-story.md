@@ -3,22 +3,22 @@ title:  Misijný príbeh
 date:   18/11/2022
 ---
 
-#### Přijetí Slova: 2. část
+#### Prijať slovo 2. časť
 
 _Andrew McChesney_
 
-Eulalie Rashidová z tichomořského ostrovu Saipan za tři roky splnila svůj cíl přečíst Bibli od začátku do konce. Na základě přečteného začala dodržovat sobotu a jíst rostlinnou stravu. Jako 37letá alkoholička řekla své rodině, že ji Ježíš zbavil touhy pít.
+Eulalia Rashid splnila cieľ, ktorý si dala a prečítala celú Bibliu. Podarilo sa jej to za tri roky. Eulalia pochádza z najväčšieho ostrova Saipan zo súostrovia Severné Mariany v Tichom oceáne. Na základe toho, čo sa dočítala, začala zachovávať sobotu a do svojej stravy zaradila veľa zeleniny. Tridsaťsedem rokov bola alkoholička. Svojej rodine rozprávala o tom, ako ju Ježiš zbavil túžby piť alkohol.
 
-Měla však rakovinu tlustého střeva, což byla lékařská diagnóza, která byla stanovena ještě předtím, než začala číst Bibli. Pak onemocněla bolestivým pásovým oparem. Obě nemoci jí způsobily strašné utrpení. Její pozornost však byla upřena jinam. Nechápala, proč má pocit, že Ježíše vlastně nezná, přestože přečetla celou Bibli. A tak se vroucně modlila.
+Trápila ju však rakovina hrubého čreva. Túto diagnózu jej lekári oznámili ešte predtým, než začala čítať Bibliu. K tomu sa pridružil aj veľmi bolestivý pásový opar. Tieto dve diagnózy jej spôsobovali veľké utrpenie. Svoju pozornosť však upriamila na niečo iné. Nerozumela, prečo mala stále pocit, že Ježiša v skutočnosti vlastne nepozná. A to aj napriek tomu, že prečítala celú Bibliu. Začala sa teda za to úprimne modliť.
 
-Náhle ji přemohla nevysvětlitelná touha zavolat na Kliniku adventistů sedmého dne v Saipanu. "Je mi líto, ale toto se netýká kliniky," řekla Eulalia osobě, která zvedla telefon. "Potřebuji mluvit s někým z církve. Přečetla jsem celou Bibli, ale stále mám hlad a žízeň."
+Zrazu pocítila nevysvetliteľnú potrebu zatelefonovať na adventistickú kliniku na ostrove Saipan. „Prepáčte, ale potrebujem vám povedať niečo, čo s klinikou ani tak veľmi nesúvisí,“ povedala Eulalia osobe, ktorá zdvihla telefón. „Potrebovala by som hovoriť s niekým z cirkvi. Prečítala som celú Bibliu, ale stále pociťujem hlad a smäd.“
 
-O chvíli později se u Eulaliiných dveří objevil mladý pastor. Oba si okamžitě padli do oka. Eulalia měla pocit, jako by pastora znala celý život, a začali spolu studovat Bibli. Eulalia požádala o křest.
+Zanedlho sa pri jej dverách objavil mladý kazateľ. Od samého začiatku si veľmi dobre rozumeli. Eulalia mala pocit, ako keby ho poznala celý život. Začali spolu študovať Bibliu a po nejakom čase Eulalia požiadala o krst.
 
-Asi měsíc před křtem na podzim 2019 Eulaliiny strašné bolesti náhle zmizely. Lékař Eulalii řekl, že pásový opar je neléčitelný a že bude trpět mnoho měsíců. Nyní však bolest zmizela. Dotkla se břicha a ucítila, že je něco jinak. O něco později lékař prohlásil, že je bez rakoviny.
+Asi mesiac predtým, ako mala byť na jeseň v roku 2019 pokrstená, jej hrozné bolesti zrazu ustúpili. Lekári jej povedali, že v jej prípade sa pásový opar nedá úplne vyliečiť a že bude musieť znášať bolesti niekoľko mesiacov. A teraz bola zrazu všetka bolesť preč. Potom si prehmatala brucho a pocítila, že aj tam nastala nejaká zmena. Zakrátko jej lekári oznámili, že rakovina je preč.
 
-Dnes je Eulalia misionářkou svých sousedů a své rodiny se čtyřmi dětmi a 13 vnoučaty na Saipanu. Modlí se za ně, zatímco pečuje o svou svěží zelenou zahradu, kterou nazývá svou modlitební zahradou. Plody své práce rozdává sousedům. Místnost v jejím domě je vyhrazena jako místo pro bohoslužby, kde se adventisté a další lidé scházejí o sobotních večerech.
+Dnes je Eulalia misionárkou medzi svojimi príbuznými a susedmi. Má štyri deti a trinásť vnúčat, ktoré žijú tiež na ostrove Saipan. Stará sa o svoju krásnu záhradu a pritom sa modlí za celú svoju rodinu. Zvykne hovorievať, že je to jej modlitebná záhrada. To, čo v nej dopestuje, rozdáva susedom. Vo svojom dome vyčlenila jednu miestnosť na sobotné bohoslužby, kde sa stretávajú adventisti a ďalší veriaci. 
 
-Šestašedesátiletá Eulálie nepochybuje, že žalmista měl pravdu, když řekl: "Tvé slovo je lampou pro mé nohy, je světlem na mé stezce." (Žalm 119,105).
+Eulalia má dnes 66 rokov. Nemá pochybnosti o tom, že žalmista mal pravdu, keď napísal: „Sviecou mojej nohe je tvoje slovo, svetlom môjmu chodníku.“ (Ž 119,105)
 
-"Moje naděje a povzbuzení pro ostatní lidi zní: následujte Slovo," řekla. "Ježíš je Slovo. On je cestou k věčnému životu."
+„Mojou nádejou a povzbudením pre ostatných ľudí je, aby tiež nasledovali to Slovo,“ dodáva nakoniec. „Tým Slovom je Ježiš. On je cesta k večnému životu.“
