@@ -24,6 +24,8 @@
           thumbnail: https://images.hopeplatform.org/resize/L3c6Mzg0LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyLzZURjE2NjcxMDI0MDU2NTAuanBn/w:384,q:75/hope-images/620e23d4c49d64006595c192/6TF1667102405650.jpg
         - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_33O0ldvawCD/v/jsv_UI9SvBpAlcK/jsv_UI9SvBpAlcK-jsren_z2OG5KXMxGk-360p.mp4
           thumbnail: https://images.hopeplatform.org/resize/L3c6NzY4LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL0R6VzE2NzAyODEzNzkwMzQucG5n/w:768,q:75/hope-images/620e23d4c49d64006595c192/DzW1670281379034.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_33O0ldvawCD/v/jsv_sgg53ggyLNj/jsv_sgg53ggyLNj-jsren_mhtqoLkIlPU-360p.mp4
+          thumbnail: https://images.hopeplatform.org/resize/L3c6NzY4LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL3lrYTE2NzA0MjM3MTg3OTYucG5n/w:768,q:75/hope-images/620e23d4c49d64006595c192/yka1670423718796.png
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-01.mp4
@@ -48,6 +50,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-10.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-11.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2022-04-12.webp
     - artist: Amazing Facts Study Hour
       thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
       clips:
@@ -62,6 +66,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-09.mp4
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-10.mp4
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-11.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-12.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2022-04-13.mp4
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-01.mp4
@@ -86,3 +92,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-10.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-11.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-11.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-12.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2022-04-12.webp
