@@ -1,0 +1,20 @@
+---
+  video:
+    - artist: Escuela Sabática Viva
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2022-04-02.webp
+    - artist: Escrito Está
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2022-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2022-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2022-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2022-04-02.webp
+    - artist: Pastor Alejandro Bullon
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2022-04-02.webp

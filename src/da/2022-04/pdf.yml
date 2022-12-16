@@ -1,0 +1,30 @@
+---
+  pdf:
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/01-BS-4Q22-Oproer-i-et-fuldkomment-univers.pdf
+      target: da/2022-04/01
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/02-BS-4Q22-Doed-i-en-syndig-.pdf
+      target: da/2022-04/02
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/03-BS-4Q22-Hvordan-er-menneskets-natur.pdf
+      target: da/2022-04/03
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/04-BS-4Q22-Det-Gamle-Testamentes-haab.pdf
+      target: da/2022-04/04
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/05-BS-4Q22-Opstandelser-foer-korset.pdf
+      target: da/2022-04/05
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/06-BS-4Q22-Han-doede-for-os.pdf
+      target: da/2022-04/06
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/07-BS-4Q22-Kristi-sejr-over-doeden.pdf
+      target: da/2022-04/07
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/08-BS-4Q22-Det-Nye-Testamentes-haab.pdf
+      target: da/2022-04/08
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/09-BS-4Q22-Tekster-i-strid-med-hinanden%EF%80%A5.pdf
+      target: da/2022-04/09
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/10-BS-4Q22-Helvedes-ild.pdf
+      target: da/2022-04/10
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/11-BS-4Q22-Forfoerelser-i-de-sidste-tider.pdf
+      target: da/2022-04/11
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/12-BS-4Q22-Rede-for-livet-med-Jesus.pdf
+      target: da/2022-04/12
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/13-BS-4Q22-Domsprocessen.pdf
+      target: da/2022-04/13
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/09/14-BS-4Q22-Alt-bliver-nyt.pdf
+      target: da/2022-04/14

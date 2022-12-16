@@ -29,6 +29,6 @@ The president extended a hand. “Congratulations for being such a magnificent e
 
 As Antonio mingled at the reception, he felt curious stares. His habit of abstaining from alcohol, strengthened by his faith, had resulted in an unexpected encounter with one of the most powerful people on earth. His heart rejoiced that he had been able to represent God at the White House.
 
-_Today, Antonio seeks to represent God every day in Concepción, Peru, where he lives with his wife, Enma. He is 99, and she is 90—a living witness to their conviction that “whether you eat or drink, or whatever you do, do all to the glory of God” (1 Corinthians 10:31, NKJV)._
+_Today, Antonio seeks to represent God every day in Concepción, Peru, where he lives with his wife, Enma. He is 99, and she is 90—a living witness to their conviction that “whether you eat or drink, or whatever you do, do all to the glory of God” (1 Corinthians 10:31, NKJV)._
 
 _This mission story illustrates Spiritual Growth Objective No. 5 of the Seventh-day Adventist Church’s “I Will Go” strategic plan, “To disciple individuals and families into Spirit-filled lives.” Read more: IWillGo2020.org._
