@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-Intro.pdf
+      title: Intro
+      target: no/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-01.pdf
+      target: no/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-02.pdf
+      target: no/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-03.pdf
+      target: no/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-04.pdf
+      target: no/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-05.pdf
+      target: no/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-06.pdf
+      target: no/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-07.pdf
+      target: no/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-08.pdf
+      target: no/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-09.pdf
+      target: no/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-10.pdf
+      target: no/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-11.pdf
+      target: no/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-12.pdf
+      target: no/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-13.pdf
+      target: no/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/no/2022-04/ABSG-2202-04-NO-14.pdf
+      target: no/2022-04/14

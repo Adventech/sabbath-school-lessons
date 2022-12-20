@@ -45,22 +45,6 @@ let donationNotice = {
     "<p>Gracias,</p>\n" +
     "<p><em>Equipo de Adventech</em></p>" +
     "</div>\n" +
-    "</div>",
-  "pl": "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
-    "<div class=\"ss-donation-appeal-title\">\n" +
-    "<p>Potrzebujemy Twojej pomocy!</p>\n" +
-    "<div class=\"ss-donation-appeal-icon\"></div>\n" +
-    "</div>\n" +
-    "<div class=\"ss-donation-appeal-text\">\n" +
-    "<p>Drodzy bracia i drogie siostry w Chrystusie, pragniemy szczególnie podziękować wam wszystkim oraz każdemu z osobna za wasze wsparcie i korzystanie z aplikacji Szkoła Sobotnia. Jak dobrze wiecie, wszyscy, którzy pracujemy w Adventech jesteśmy wolontariuszami. Z pasją uczestniczymy w największym zleceniu i dlatego naszą misją jest wykorzystanie technologii dla Jego chwały!</p>\n" +
-    "<p>Jesteśmy naprawdę zaszczyceni, że wielu z was wspiera nas, dzieląc się aplikacją z przyjaciółmi i rodziną. </p>\n" +
-    "<p>Niedawno osiągnęliśmy porozumienie z wydawnictwem Znaki Czasu, aby za ich zgodą publikować polską wersję lekcji szkoły sobotniej. Prosimy Was wszystkich o wsparcie wydawnictwa poprzez przekazanie darowizn. Liczy się każda kwota i bardzo Wam dziękujemy, że jesteście tu.</p>\n" +
-    "<p>Koszt lekcji w wersji elektronicznej kwartalnie w wydawnictwie wynosi:</p>\n" +
-    "<p>11 zł - przekazując tę kwotę dla wydawnictwa pomagasz sfinansować materiał, który otrzymujesz!</p>\n" +
-    "<p>Darowiznę możesz przekazać poprzez kliknięcie poniższego linku:</p>\n" +
-    "<p><strong><a href=\"https://znakiczasu.pl/lekcje-bibilijne-zrzutka`\">https://znakiczasu.pl/lekcje-bibilijne-zrzutka</a></strong></p>\n" +
-    "<p><em>Zespół Adventech</em></p>" +
-    "</div>\n" +
     "</div>"
 }
 
@@ -731,7 +715,7 @@ let dayAPI = async function () {
 
     read.content = metaMarked(resultRead, {renderer: renderer}).html;
 
-    if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId) || /^src\/pl\/202\d-\d{2}/img.test(dayId))) {
+    if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId))) {
       read.content = donationNotice[info.language] + read.content;
       resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
     }

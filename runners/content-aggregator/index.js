@@ -160,33 +160,6 @@ let spanishAudio = async function () {
     )
 }
 
-let portgueseAudio = async function () {
-    await dailyAudio(
-        "pt",
-        "Áudio da Escola Sabatina",
-        {
-            artist: "Áudio da Escola Sabatina",
-            target: 'daily',
-            tracks: []
-        },
-        function (targetDate, week, day) {
-            let mapping = [
-                "1SAB",
-                "2DOM",
-                "3SEG",
-                "4TER",
-                "5QUA",
-                "6QUI",
-                "7SEX"
-            ]
-
-            return `https://mais.cpb.com.br/wp-content/uploads/2022/08/L${week}-${mapping[day-1]}.wav`
-        },
-        2,
-        7
-    )
-}
-
 let romanianAudio = async function () {
     await dailyAudio(
         "ro",
@@ -206,7 +179,34 @@ let romanianAudio = async function () {
                 "vineri"
             ]
 
-            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2022/trim4/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
+let czechAudio = async function () {
+    await dailyAudio(
+        "cs",
+        "Průvodce studiem Bible",
+        {
+            artist: "Průvodce studiem Bible",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "inside-story"
+            ]
+
+            return `https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -219,7 +219,7 @@ let run = async function () {
     await spanishAudio();
     await romanianAudio()
     await hungarianAudio();
-    await portgueseAudio();
+    await czechAudio();
 }
 
 run().then(() => {

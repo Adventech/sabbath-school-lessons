@@ -43,6 +43,6 @@ Paul went to the Carter home. He had to go through the Secret Service, but he wa
 
 And the soft-spoken, 16-year-old teen became Christ’s ambassador to the U.S. president.
 
-You and I also are ambassadors for Christ. “Now then, we are ambassadors for Christ, as though God were pleading through us” (2 Corinthians 5:20, NKJV). Let us, with Christ’s help, be faithful ambassadors.
+You and I also are ambassadors for Christ. “Now then, we are ambassadors for Christ, as though God were pleading through us” (2 Corinthians 5:20, NKJV). Let us, with Christ’s help, be faithful ambassadors.
 
 _This mission story illustrates Mission Objective No. 1 of the Seventh-day Adventist Church’s “I Will Go” strategic plan, “To revive the concept of worldwide mission and sacrifice for mission as a way of life.” Read more: IWillGo2020.org._
