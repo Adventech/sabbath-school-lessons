@@ -7,22 +7,20 @@ date:   23/12/2022
 
 _Andrew McChesney_
 
-Pokaždé, když šel malý William Frederico João Lumbo do kostela, zdálo se mu, že kazatel říká stejnou frázi. Velký kazatel stál za kazatelnou v Angolském kostele. Zvedl ruku do vzduchu a zahřímal: "Ti, kdo nežijí, aby sloužili Bohu, nejsou způsobilí k životu!"
+Keď William Frederico João Lumbo ako malý chlapec chodil do kostola, neraz počul kazateľa opakovať jednu vetu. Kazateľ bol vysoký muž. Postavil sa za kazateľnicu, zdvihol ruku a mocným hlasom povedal: "Tí, ktorí nežijú službou Bohu, vlastne nežijú."
 
-Kazatelova slova udělala na jeho mladou mysl velký dojem. Ale velký dojem na něj udělal i svět mimo kostal a rozhodl se, že bude raději tančit, než chodit do kostela. Ve 14 letech založil taneční skupinu a vystupoval na večírcích a školních akcích v hlavním městě Angoly Luandě.
+Kazateľove slová zanechali na mladého chlapca veľký vplyv. Ale lákal ho aj okolitý svet. Rozhodol sa, že namiesto bohoslužby pôjde tancovať. Keď mal 14 rokov, založil tanečnú skupinu, s ktorou vystupoval na školských akciách a na rôznych párty v hlavnom meste Angoly Luanda. 
 
-Přestože Williama tanec bavil, něco se mu nezdálo. Cítil v sobě prázdnotu a vzpomněl si na slova kazatele: "Ti, kdo nežijí, aby sloužili Bohu, nejsou způsobilí k životu."
+William tancoval veľmi rád, no aj tak ho stále prenasledoval pocit, že niečo nie je v poriadku. Vnútri cítil prázdnotu. V tom čase si spomenul na kazateľove slová: "Tí, ktorí nežijú službou Bohu, vlastne vôbec nežijú."
 
-Radost z tance se vytratila a William začal kouřit a pít. Cítil se však stále více prázdnější. Jednoho dne se zoufale modlil: "Nežiji, abych Ti sloužil, a nejsem způsobilý k životu. Pomoz mi!"
+Radosť z tanca opadla a William začal fajčiť a piť alkohol. Prázdnota v jeho vnútri sa prehlbovala. Jedného dňa sa celý zúfalý modlil: "Bože, nežijem tak, aby som Ti slúžil, a tak mám pocit, že nežijem vôbec. Pomôž mi!"
 
-Krátce po této modlitbě dal Williamovi přítel flash disk s kázáním. William flash disk chtěl, protože měl na něm přítel uloženo také video, na kterém tančil.
+Krátko po tejto modlitbe dal Williamovi istý priateľ USB kľúč, na ktorom bolo uložené video, ako tancuje. Okrem toho tam mal priateľ nahraté aj kázanie. William si ho vypočul. Veľmi sa ho to dotklo. Padol na kolená a prosil o odpustenie. Rozhodol sa, že znovu začne chodiť na bohoslužby. Všetky kostoly však boli v tom čase v Angole kvôli pandémii COVID-19 zatvorené. A tak William skončil v malom domácom zbore Cirkvi adventistov s.d.
 
-Kázání se dotklo Williamova srdce. Padl na kolena a prosil o odpuštění. Rozhodl se jít do kostela. Všechny kostely však byly v Angole kvůli COVIDu-19 zavřené a William skončil v domácím sboru adventistů.
+Tam naňho čakalo veľké prekvapenie. Filip, vedúci zboru, mal počas posledných dvoch nocí dva sny o Williamovi. V prvom sne stál Filip vedľa veľkého stromu a v ruke držal malý konár. Potreboval ho pripojiť k stromu, aby mohol znovu rásť. V druhom sne stál Filip vedľa veľkej rieky. Neďaleko tiekol menší potok. Filip chcel nejakým spôsobom spojiť potok s veľkou riekou.
 
-Williama čekalo velké překvapení. Vedoucí domácího sboru Filip měl o Williamovi během posledních dvou nocí dva sny. V prvním snu stál Filip u velkého stromu a v ruce držel malou větvičku. Potřeboval větvičku nějak připojit ke stromu, aby mohla znovu růst. Ve druhém snu stál Filip u velké řeky. Vedle velké řeky tekla malá řeka a Filip potřeboval nějak spojit malou řeku s velkou řekou.
+"Ty si ten malý konár, ktorý musí byť pripojený k veľkému stromu," povedal Filip Williamovi. "Veľký strom je Ježiš. On je strom života. Ty si ten malý potok a Ježiš je veľká rieka. Potrebuješ sa pripojiť k Ježišovi, ktorý je Riekou života."
 
-"Ty jsi ta malá větev, kterou je třeba připojit k velkému stromu," řekl Filip Williamovi. "Velký strom je Ježíš, který je Stromem života. Ty jsi malá řeka a velkou řekou je Ježíš. Potřebuješ být napojen na Ježíše, který je Řekou života."
+William nedokázal uveriť vlastným ušiam. "Ježiš chce, aby som sa napojil na neho?" opýtal sa.
 
-William sotva věřil svým uším. "Ježíš chce, abych s ním byl spojen?" zeptal se.
-
-Když se William účastnil bohoslužeb v domácím sboru, prázdnotu v jeho srdci začal vyplňovat pokoj a radost. Rozhodl se, že bude spojen pouze s Ježíšem. Dnes už William nemůže být šťastnější. Žije jen proto, aby sloužil Bohu.
+William začal pravidelne navštevovať bohoslužby v tomto malom zbore. Pokoj a radosť naplnili prázdnotu v jeho srdci. Rozhodol sa, že chce byť napojený na Ježiša. Dnes je William nesmierne šťastný. Svoj život žije v službe Bohu.
