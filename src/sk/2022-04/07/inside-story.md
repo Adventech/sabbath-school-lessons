@@ -3,22 +3,22 @@ title:  Misijný príbeh
 date:   11/11/2022
 ---
 
-#### Přijetí Slova: 1. část
+#### Prijať slovo – 1. časť
 
 _Andrew McChesney_
 
-Eulalii Rashidové došlo pivo a tak se vydala do obchodu pro další v Severní Marianě, ostrovním území USA v Tichém oceánu.
+Bol práve Štedrý večer. Eulalia Rashid bola sama a akurát sa jej minulo pivo. Vybrala sa teda do obchodu, aby si kúpila ďalšie. Eulalia žije na ostrovoch Severné Mariany, ktoré sa nachádzajú v Tichom oceáne.
 
-Byl Štědrý den. Byla osamělá a neměla nikoho, s kým by svátky oslavila. Už 37 let byla alkoholičkou a téměř opustila své čtyři děti a 13 vnoučat. Také měla rakovinu tlustého střeva.
+Cítila sa veľmi osamelá. Nemala s kým osláviť tieto sviatky. Už 37 rokov bola alkoholička. Opustila svoje 4 deti a 13 vnúčat. A aby toho nebolo málo, trpela rakovinou hrubého čreva.
 
-Když Eulalia šla, na potemnělé ulici ji na zemi upoutala malá dřevěná krabička. Zvedla ji a zatřásla s ní v domnění, že by uvnitř mohly být nějaké peníze. A měla pravdu, byl v ní peníz a tak si krabičku strčila do kapsy. O několik minut později, když už stála ve světle obchodu, vytáhla krabičku a uviděla slova napsaná na jejím vrchu: "Tvé slovo je lampou pro mé nohy, je světlem na mé stezce." (Žalm 119,105).
+Ako tak kráčala tmavou ulicou, zaujala ju malá drevená krabička na chodníku. Zdvihla ju a potriasla ňou. ´Možno tam budú nejaké peniaze,´ pomyslela si. Naozaj tam boli. Krabičku s drobnými mincami si dala do vrecka. O niekoľko minút vytiahla krabičku v obchode. Na vrchnáku bolo napísané: „Sviecou mojej nohe je tvoje slovo, svetlom môjmu chodníku.“ (Žalmy 119,105)
 
-Druhý den ráno si Eulálie znovu a znovu četla slova napsaná na krabičce. Co je to "slovo", přemýšlela. Co je to za "lampu", která má osvětlovat mou cestu? Eulálie vždy věřila v Ježíše, ale nikdy s ním neměla vztah. Nyní se pokusila přeložit Žalm 119,105 do svého rodného jazyka tomorštiny a palauštiny. Verš vyhledala v několika biblických překladech. Stále však slovům nerozuměla, a tak se rozhodla přečíst si celou Bibli. Možná někde najde vysvětlení.
+Na ďalšie ráno, v Prvý sviatok vianočný, Eulalia si znovu prečítala verš napísaný na krabičke. Rozmýšľala, čo vlastne znamená to slovo? Aká svieca mi to má svietiť na cestu? Eulalia vždy verila v Ježiša, ale nikdy s ním nemala osobný vzťah. Teraz sa snažila preložiť žalm 119,105 do svojho rodného jazyka Tomoro a Palau. Pozrela si tento verš aj v iných prekladoch Biblie. Stále však nerozumela, preto sa rozhodla, že si prečíta celú Bibliu. Možno niekde nájde vysvetlenie.
 
-Jednoho dne si přečetla Jan 1,1, kde se píše: "Na počátku bylo Slovo a to Slovo bylo u Boha a to Slovo bylo Bůh." Oči se jí rozzářily radostí. Četla dál: "A Slovo se stalo tělem a přebývalo mezi námi." (Jan 1,14). Tady je odpověď, pomyslela si. Slovo je Ježíš! Ježíš je Lampa, která osvětluje mou cestu!
+Jedného dňa sa dostala k Jánovmu evanjeliu, kde je napísané: „Na počiatku bolo Slovo, to Slovo bolo u Boha a to Slovo bolo Boh.“ (Ján 1,1) Jej oči sa rozžiarili radosťou. Ďalej bolo napísané: „To Slovo sa stalo telom a prebývalo medzi nami...“ (Ján 1,14) Hneď jej napadlo, že toto by mohla byť odpoveď. Tým Slovom je Ježiš! Ježiš je tou sviecou, ktorá osvetľuje jej chodník.
 
-Teď už Bibli četla ráda. Četla dál a začala se pravidelně modlit. Jak četla a modlila se, její život se změnil. Dočetla se, že Bůh ve 20. kapitole knihy Exodus vyhradil sedmý den jako šabat, a začala sobotu dodržovat i u sebe doma. V 11. kapitole knihy Leviticus si přečetla o čistých a nečistých pokrmech a upravila svůj jídelníček. Když viděla, že Bůh dal Adamovi a Evě rostlinnou stravu, začla na zahradě pěstovat sladké brambory, špenát, fazole, lilek, rajčata, tapioku, papáju, mango, citróny, dračí ovoce, graviolu, moruše a kokosové ořechy.
+Odvtedy si čítanie Biblie zamilovala. Čítala stále viac a pravidelne sa začala modliť. Vďaka tomu, že veľa čítala a modlila sa, jej život sa zmenil. V Druhej Mojžišovej knihe sa dozvedela, že Boh oddelil siedmy deň, sobotu, a tak začala tento deň doma svätiť. Ďalej sa dočítala o čistých a nečistých jedlách, ktoré sú opísané v 11. kapitole Tretej Mojžišovej knihy, preto sa rozhodla upraviť svoj jedálniček. Keď si uvedomila, že Boh dal Adamovi a Eve stravu zloženú najmä z ovocia a zeleniny, zaumienila si, že si ich bude sama pestovať. Na záhrade si zasadila sladké zemiaky, špenát, fazuľu, baklažán, paradajky, tapioku, papáje, mango, citróny, dračie ovocie, graviolu, morušu a kokosové orechy.
 
-Její rodina nechápala, co se děje. S údivem zjistili, že přestala pít. Řekla jim, že se jednoho dne prostě rozhodla nepít a Ježíš ji v mžiku zbavil touhy po alkoholu.
+Jej rodina nechápala, čo sa deje. Boli veľmi prekvapení, keď videli, že prestala piť alkohol. Povedala im, že jedného dňa si jednoducho povedala, že prestane piť a Ježiš ju v tom okamihu zbavil akejkoľvek túžby po alkohole.
 
-Eulálie o tom nevěděla, ale svým příkladem se již stávala misionářkou pro svou rodinu.
+Eulalia o tom síce ešte nevedela, ale už vtedy sa svojím príkladom stala misionárkou pre svojich blízkych.
