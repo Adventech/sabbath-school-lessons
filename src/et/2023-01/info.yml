@@ -1,9 +1,9 @@
 ---
-  title: 'Majandamine Meistri nimel – kuni Ta tuleb'
-  description: 'Meil on raske täielikult mõista, missugust suhet soovib meie Jumal, universumi Looja, meiega, inimestega. (Juba selline kavatsus iseenesest on jahmatav!) „Vaadake, kui suure armastuse Isa on meile andnud: meid hüütakse Jumala lasteks“ (1Jh 3:1). Või, nagu kirjutas Ellen G. White: „Kas mingi inimlik auväärsus on sellega võrreldav? Mida oleks ääretu Jumala lasteks olemisest kõrgemat meil üldse saavutada?... Kas mingi maine au on sellega võrreldav?“ – Ellen G. White, „God’s Amazing Grace“, lk 341. Üksnes patuga koormatud maailma pimeduse tõttu ei hinda me täielikult seisust, mille Jeesus meile andnud on.'
-  human_date: jaanuar • veebruar • märts 2023
-  start_date: 31/12/2022
-  end_date: 24/03/2023
-  color_primary: '#5E5A5B'
-  color_primary_dark: '#364258'
+  title: "Majandamine Meistri nimel – kuni Ta tuleb"
+  description: "Meil on raske täielikult mõista, missugust suhet soovib meie Jumal, universumi Looja, meiega, inimestega. (Juba selline kavatsus iseenesest on jahmatav!) „Vaadake, kui suure armastuse Isa on meile andnud: meid hüütakse Jumala lasteks“ (1Jh 3:1). Või, nagu kirjutas Ellen G. White: „Kas mingi inimlik auväärsus on sellega võrreldav? Mida oleks ääretu Jumala lasteks olemisest kõrgemat meil üldse saavutada?... Kas mingi maine au on sellega võrreldav?“ – Ellen G. White, „God’s Amazing Grace“, lk 341. Üksnes patuga koormatud maailma pimeduse tõttu ei hinda me täielikult seisust, mille Jeesus meile andnud on."
+  human_date: "Jaanuar • Veebruar • Märts 2023"
+  start_date: "31/12/2022"
+  end_date: "24/03/2023"
+  color_primary: "#5E5A5B"
+  color_primary_dark: "#364258"
   splash: true
