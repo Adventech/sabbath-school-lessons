@@ -3,28 +3,30 @@ title:  Misijný príbeh
 date:   04/11/2022
 ---
 
-#### Nastavení druhé tváře
+#### Nastaviť druhé líce
 
 _Rick McEdward_
 
-Omar, student univerzity na Blízkém východě, zoufale potřeboval práci, ale pro to, aby ho přijali, nebyl ochoten udělat cokoli. Během pracovního pohovoru otevřeně řekl zástupci firmy, že nemůže pracovat v sobotu, protože je to jeho svatý den. Zástupce firmy ani nemrkl.
+Omar (pravé meno bolo zmenené) študuje na vysokej školy na Strednom východe. Zúfalo potreboval nejakú prácu. Počas vstupného pohovoru v jednej firme otvorene povedal zástupcovi spoločnosti, že v sobotu pracovať nebude, pretože tento deň považuje za svätý. Personalista ani nemihol okom. 
 
-"To je v pořádku," odpověděl. "My vás nepotřebujeme."
+„V poriadku,“ odpovedal, „nepotrebujeme vás.“
 
-Byla to pravda. Nezaměstnanost v zemi byla tak vysoká, že firma Omara opravdu nepotřebovala. Mnoho lidí hledalo práci a bylo by snadné najít někoho, kdo by byl ochoten pracovat i v sobotu.
+Nezamestnanosť v tejto oblasti je veľmi vysoká. Veľa ľudí si hľadá prácu, preto určite nebol problém nájsť niekoho, kto bol ochotný pracovať aj v sobotu.
 
-Omar žel kancelář firmy opustil. Omar byl nově věřící, který jen několik dní předtím odevzdal svůj život Kristu. Šest let se stýkal s věřícími a před svým rozhodnutím zkoumal Bibli. Po odmítnutí práce si koupil tříkolový vozík s plánem vydělávat peníze prodejem simitu, kulatého chleba posypaného sezamovými semínky.
+Omar odchádzal z kancelárie smutný. Nebol ešte dlho veriacim človekom. Svoj život odovzdal Kristovi len pred niekoľkými dňami. S veriacimi ľuďmi sa síce stretával už takmer šesť rokov, ale pred týmto vážnym rozhodnutím si chcel poriadne preštudovať Bibliu. Keďže nemal prácu, kúpil si trojkolesový vozík a rozhodol sa, že bude zarábať predajom simitu – okrúhleho chleba so sezamovými semienkami.
 
-Omarovi přátelé, kteří dodržovali sobotu, byli dojati jeho věrným postojem k Ježíši a začali se za něj modlit.
+Omarovi priatelia, ktorí tiež svätili sobotu, boli dojatí jeho vernosťou Ježišovi. Začali sa za neho modliť. O niekoľko dní im Omar celý nadšený povedal, že mu volali zo spoločnosti, v ktorej bol na pohovore, a ponúkli mu pozíciu, kde bude mal voľné soboty. Bol tým taký nadšený, že sa rozhodol každý deň aspoň jednému človeku povedať o Kristovi.
 
-O několik dní později Omar nadšeně oznámil, že mu firma zavolala zpět a nabídla mu práci s volnými sobotami. Byl tak nadšený, že se rozhodl najít alespoň jednoho člověka denně, kterému by řekl o Kristu.
+O niekoľko dní sedel v miestnej kaviarni a popíjal nejaký nápoj. Prihovoril sa staršiemu mužovi a dali sa do reči. Reč prišla aj na náboženstvo. Omar mu vyrozprával príbeh o tom, ako opustil tradičné náboženstvo svojej rodiny a začal čítať Bibliu. Povedal mu tiež o úžasnom pokoji, ktorý zavládol v jeho vnútri.
 
-Když o několik dní později popíjel v místní kavárně drink, začal s jedním starším mužem hovořit o víře. Omar se podělil se svou cestou od tradiční svaté knihy své rodiny k Bibli a o neuvěřitelný pokoj, který našel.
+Keď Omar odchádzal z kaviarne, vyšiel za ním muž od vedľajšieho stola, ktorý počúval, o čom sa so starším mužom rozprávali. 
 
-Když Omar odcházel z kavárny, muž, který rozhovor zaslechl od vedlejšího stolu, ho sledoval. "Nemůžu uvěřit, že jsi mohl říkat takové věci!" křičel muž. "To se nestydíš? Vyrostl jsi v naší zemi a víš, co je lepší!" Na to muž začal Omara mlátit pěstmi.
+„Nemôžem uveriť, ako môžeš hovoriť také veci!“ kričal na neho. „Vôbec sa nehanbíš? Vyrástol si predsa v tejto krajine a mal by si vedieť, čo sa patrí!“ A začal biť Omara päsťami.
 
-Když se později toho dne spojil s Omarem přes videohovor jeho přítel, který také dodržoval sobotu, přivítalo jej velké opuchlé oko a ještě větší úsměv radosti. "Mohl jsi zavolat policii!" řekl přítel.
+V ten istý deň zavolal Omarovi cez videohovor jeden priateľ, ktorý tiež svätil sobotu. Omar ho pozdravil s opuchnutým okom, ale veľkým úsmevom. 
 
-"Ano," řekl Omar. "Ale... Ježíš nám říká, že máme nastavit druhou tvář."
+„Mohol si zavolať políciu!“ povedal mu priateľ.
 
-"Slyšeli jste, že bylo řečeno: "Oko za oko a zub za zub." Já však vám pravím, abyste neodporovali zlému člověku, ale když tě někdo udeří do tvé pravé tváře, nastav mu i druhou tvář." (Matouš 5,38.39).
+„Mohol,“ odvetil Omar, „ale Ježiš nám povedal, aby sme nastavili druhé líce.“
+
+Počuli ste, že bolo povedané: Oko za oko a zub za zub. Ja vám však hovorím: Neprotivte sa zlému! Naopak: Tomu, kto ťa udrie po pravom líci, nastav aj ľavé. (Mat 5,38-39)
