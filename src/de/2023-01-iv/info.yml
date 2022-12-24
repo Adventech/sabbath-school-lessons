@@ -6,7 +6,7 @@
   end_date: "25/03/2023"
   color_primary: "#DF387F"
   color_primary_dark: "#b42260"
-
+  splash: true
   credits:
     - name: Herausgeber
       value: "Justin Kim"
