@@ -21,7 +21,7 @@ To that end, we shall look at the concepts of poverty and charity in the Bible, 
 
 The Least of These (Read Matt. 25:35–40.)
 
-1. All Those Who Suffer: From Bible references, it is possible to identify classes of suffering indi­viduals who needed protection. Using a basic grouping concept, the poor were
+_1. All Those Who Suffer:_ From Bible references, it is possible to identify classes of suffering individuals who needed protection. Using a basic grouping concept, the poor were
 
 (a) those who were incapable of providing for their material needs and thus were unable to live a dignified life because of social rejection or prejudice (prisoners, lepers, and foreigners, for example);
 
@@ -37,7 +37,7 @@ The Least of These (Read Matt. 25:35–40.)
 
 The circumstances of poverty and the question of whether the sufferer is responsible for his or her impoverished state are irrelevant. Neither is the question of whether such a person deserves to receive assistance or not. Even a person from a rival nation should be the object of God’s love in practicing charity, as we see demonstrated in the parable of the Samaritan (Luke 10:28–37, Luke 17:16–18, John 8:48).
 
-2. The Redeemer, A Close Relative: In the Old Testament, the redeemer was a close relative who had the obligation to rescue and free a family member from slavery, poverty, and destitution. This duty also included the close relative’s obligation to marry the childless widow of his brother, preventing her from becoming destitute (Lev. 25:25, 48, 49; Deut. 25:5; Ruth 2:20). The Jews usually understood this obligation as being applicable only among the members of the chosen nation.
+_2. The Redeemer, A Close Relative:_ In the Old Testament, the redeemer was a close relative who had the obligation to rescue and free a family member from slavery, poverty, and destitution. This duty also included the close relative’s obligation to marry the childless widow of his brother, preventing her from becoming destitute (Lev. 25:25, 48, 49; Deut. 25:5; Ruth 2:20). The Jews usually understood this obligation as being applicable only among the members of the chosen nation.
 
 However, in the story of the Samaritan, Jesus shows that the idea of the relative who helps his brother is not linked to ties of blood, religion, or nationality. The Samaritan—foreign and despised—who is the redeemer (savior) in the story stands in as the close relative of the beaten Jew, who was left for dead on the side of the road (Luke 10:29–37). The duty to love our neighbor is part of the two great commandments (Luke 10:27, 28) upon which all the law and the writings of the prophets are established. This duty also means that we should love one another because all are neighbors (redeemers) at some point. The word “neighbor” evokes the compassionate and practical love that God commanded the families in Israel to demonstrate. This love should be extended to humanity in its entirety.
 
@@ -53,9 +53,9 @@ However, the Scriptures recommend immediate relief measures (Deut. 15:11; Isa. 5
 
 How to Help
 
-1. Feel the Desire to Participate: Church members may adopt a personal support plan to assist someone in need. They also may work together to volunteer in an educational project run by the church to help the needy with life skills and personal development.
+_1. Feel the Desire to Participate:_ Church members may adopt a personal support plan to assist someone in need. They also may work together to volunteer in an educational project run by the church to help the needy with life skills and personal development.
 
-2. A Dedicated Fund for the Poor: Each member may set aside a dedicated amount or percentage from the family budget to regularly assist people in need, as well as to contribute to the welfare and development projects run by his or her church.
+_2. A Dedicated Fund for the Poor:_ Each member may set aside a dedicated amount or percentage from the family budget to regularly assist people in need, as well as to contribute to the welfare and development projects run by his or her church.
 
 The money in every believer’s hand should be divided into three equal parts: (a) God first, through tithes and offerings (Mal. 3:8–10, Matt. 6:33); (b) the family (1 Tim. 5:8); and (c) the destitute (Gal. 2:10, James 1:27). However, it is important to remember that “the tithe is set apart for a special use. It is not to be regarded as a poor fund. It is to be especially devoted to the support of those who are bearing God’s message to the world; and it should not be diverted from this purpose.”—Ellen G. White, Counsels on Stewardship, p. 103.
 
@@ -67,7 +67,7 @@ Every devout Israelite had to spend in Jerusalem one-tenth of the increase of th
 
 Read from Ellen G. White the following chapter regarding the second tithe: “God’s Care for the Poor,” in Patriarchs and Prophets.
 
-3. Care for the Poor, A Hallmark of God’s Righteousness in the Life of the Christian.:We need to be more than religious because Job, the rich young man, and Zacchaeus were rich and religious. Their stories show—for better, as was the case with Job and Zacchaeus, or for worse, as was the case with the rich young ruler—that where wealth is concerned, our spiritual lives must not be defined by the blessing of riches or by a pretense of religion but by a genuine response to the divine command to help the poor and unfortunate.
+_3. Care for the Poor, A Hallmark of God’s Righteousness in the Life of the Christian:_ We need to be more than religious because Job, the rich young man, and Zacchaeus were rich and religious. Their stories show—for better, as was the case with Job and Zacchaeus, or for worse, as was the case with the rich young ruler—that where wealth is concerned, our spiritual lives must not be defined by the blessing of riches or by a pretense of religion but by a genuine response to the divine command to help the poor and unfortunate.
 
 The emphasis in the stories of these three men is on their spiritual experience, not on the destitute persons who would receive their charity. The Bible accounts highlight the spiritual diagnosis of each character in the three stories, using charity as a reference.
 
@@ -77,9 +77,9 @@ Job understood that charity was God’s righteousness in his life (Job 29:12–1
 
 Care for the poor is a divine covenant commandment (Deut. 15:7) and an expression of pure religion before God (James 1:27).
 
-1.	What do the tithe command and Christian charity have in common?
+`1. What do the tithe command and Christian charity have in common?`
 
-2.	What are the differences and similarities between welfare and Christian charity? (1 Cor. 13:1–3).
+`2. What are the differences and similarities between welfare and Christian charity? (1 Cor. 13:1–3).`
 
 We help Christ when we care for those who suffer (Matt. 25:35–46).
 
@@ -87,8 +87,10 @@ Ask a class member to read aloud the quotations below. Then discuss with your cl
 
 “I saw that it is in the providence of God that widows and orphans, the blind, the deaf, the lame, and persons afflicted in a variety of ways, have been placed in close Christian relationship to His church; it is to prove His people and develop their true character.”—Ellen G. White, Testimonies for the Church, vol. 3, p. 511.
 
-Why is it important to understand the concept of charity as a love commandment and not as an option in our Christian life? In what way does charity make our profession of faith genuine?
+`Why is it important to understand the concept of charity as a love commandment and not as an option in our Christian life? In what way does charity make our profession of faith genuine?`
 
 “Those on the left hand of Christ, those who had neglected Him in the person of the poor and the suffering, were unconscious of their guilt. Satan had blinded them; they had not perceived what they owed to their brethren. They had been self-absorbed, and cared not for others’ needs.”—Ellen G. White, The Desire of Ages, p. 639.
 
-Why can we not allege before God that we didn’t know the extent of our obligation to the poor and suffering? Now that we do know, what will be our response going forward?
+`Why can we not allege before God that we didn’t know the extent of our obligation to the poor and suffering? Now that we do know, what will be our response going forward?`
+
+`Notes`

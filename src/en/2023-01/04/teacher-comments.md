@@ -33,17 +33,17 @@ On the other hand, the word “optional” generally means something elective, s
 
 While essential, the giving of offering also is voluntary. Yet, to stop giving could have serious spiritual consequences. Therefore, the word “offering” was used for spiritual life’s nonnegotiable duties in ancient Israel. Here are some examples of such duties:
 
-1.	Serving the Messiah is a voluntary act. The Hebrew word nedabah, “willing” (Ps. 110:3), elsewhere in the Bible translated as “freewill” and “voluntary,” is used to refer to those who come to honor the Messiah. The same word is used for freewill offerings (Num. 29:39), or simply an offering.
+_1. Serving the Messiah is a voluntary act._ The Hebrew word nedabah, “willing” (Ps. 110:3), elsewhere in the Bible translated as “freewill” and “voluntary,” is used to refer to those who come to honor the Messiah. The same word is used for freewill offerings (Num. 29:39), or simply an offering.
 
 In Psalm 110:3, the people offered themselves voluntarily to the Messiah. All that is done for God must be done with a willing spirit. As mentioned earlier, voluntary means “spontaneous,” not by force. Even that which is essential to the service of the Messiah must be done in the spirit of a freewill offering.
 
-2.	Feast offerings. Nedabah also is used in the offering itself, even when it is mandatory: “And thou shalt keep the feast of weeks unto the Lord thy God with a tribute of a freewill offering [nedabah = voluntary offerings] of thine hand, which thou shalt give unto the Lord thy God, according as the Lord thy God hath blessed thee” (Deut. 16:10). However, despite being voluntary, one could not attend the feast empty-handed (Deut. 16:16). Additionally, the offerings should be proportional, according to the blessing (Deut. 16:10). As such, when the Bible uses the word “freewill,” it doesn’t necessarily mean optional, except when the person chooses not to serve God.
+_2. Feast offerings._ Nedabah also is used in the offering itself, even when it is mandatory: “And thou shalt keep the feast of weeks unto the Lord thy God with a tribute of a freewill offering [nedabah = voluntary offerings] of thine hand, which thou shalt give unto the Lord thy God, according as the Lord thy God hath blessed thee” (Deut. 16:10). However, despite being voluntary, one could not attend the feast empty-handed (Deut. 16:16). Additionally, the offerings should be proportional, according to the blessing (Deut. 16:10). As such, when the Bible uses the word “freewill,” it doesn’t necessarily mean optional, except when the person chooses not to serve God.
 
-3.	Gratitude and atonement offerings. Freewill offerings were essential in the worship of God and in the sanctuary service, as is understood in the reading of Leviticus 1–7. In these chapters, the atonement and sin offerings were voluntary, such as the burnt offering and the meat offering, among other gifts. For example, one could not receive forgiveness without the offering; it, therefore, was essential. In these examples, voluntary actions also are presented as essential.
+_3. Gratitude and atonement offerings._ Freewill offerings were essential in the worship of God and in the sanctuary service, as is understood in the reading of Leviticus 1–7. In these chapters, the atonement and sin offerings were voluntary, such as the burnt offering and the meat offering, among other gifts. For example, one could not receive forgiveness without the offering; it, therefore, was essential. In these examples, voluntary actions also are presented as essential.
 
-4.	Tithe as offering. Tithe is mandatory (Mal. 3:8), but the tithe should also be returned with a willing spirit. “But the tithes of the children of Israel” are offered “as an heave offering unto the Lord” (Heb. terumah) (Num. 18:24, emphasis supplied; see also Num. 18:19, 26, 28). Therefore, failing to give offerings and tithes is to rob the Lord (Mal. 3:8). Not giving offerings to God is not an option for a converted heart. “He has specified tithes and offerings as the measure of our obligation.”—Ellen G. White, Counsels on Stewardship, pp. 80, 81.
+_4. Tithe as offering._ Tithe is mandatory (Mal. 3:8), but the tithe should also be returned with a willing spirit. “But the tithes of the children of Israel” are offered “as an heave offering unto the Lord” (Heb. terumah) (Num. 18:24, emphasis supplied; see also Num. 18:19, 26, 28). Therefore, failing to give offerings and tithes is to rob the Lord (Mal. 3:8). Not giving offerings to God is not an option for a converted heart. “He has specified tithes and offerings as the measure of our obligation.”—Ellen G. White, Counsels on Stewardship, pp. 80, 81.
 
-5.	Temple tax. The mandatory temple tax is also called an offering (terumah) (Exod. 30:13, 14).
+_5. Temple tax._ The mandatory temple tax is also called an offering (terumah) (Exod. 30:13, 14).
 
 Prescribed or freewill offerings are denoted in the Bible by the use of certain terms: “bring” the tithe (Mal. 3:10), “give” the temple tax (Exod. 29:28), and “bring me” an offering (Exod. 25:2). These expressions make it clear that the instructions from God must be obeyed. As such, in all the stages of the history of God’s people, offerings were a duty to be performed with a willing heart.
 
@@ -51,11 +51,11 @@ Prescribed or freewill offerings are denoted in the Bible by the use of certain 
 
 The tabernacle offerings (Exod. 25:1, 2) contain principles for all offerings, whether freewill or mandatory, which must be given willingly with the heart: “Speak unto the children of Israel, that they bring me an offering [in Hebrew, terumah]: of every man that giveth it willingly with his heart ye shall take my offering [in Hebrew, terumah].”
 
-1.	We find here in these verses the utterance of a divine command and the necessity of a willing heart. If the command is obeyed without a willing heart, the offering is not acceptable (2 Cor. 9:6, 7). Furthermore, if the giver has a willing heart, but his or her willingness is not out of love (1 Cor. 13:1–3) and with joy (2 Cor. 9:7), nothing will be gained (1 Cor. 13:3).
+1\. We find here in these verses the utterance of a divine command and the necessity of a willing heart. If the command is obeyed without a willing heart, the offering is not acceptable (2 Cor. 9:6, 7). Furthermore, if the giver has a willing heart, but his or her willingness is not out of love (1 Cor. 13:1–3) and with joy (2 Cor. 9:7), nothing will be gained (1 Cor. 13:3).
 
-2.	God instructs us to keep His commandments (Deut. 30:19). At the same time, He gives us freedom of choice: “Therefore choose life, that both thou and thy seed may live” (Deut. 30:19) because all obedience is predicated upon joyfulness and gladness of heart (Deut. 28:47).
+2\. God instructs us to keep His commandments (Deut. 30:19). At the same time, He gives us freedom of choice: “Therefore choose life, that both thou and thy seed may live” (Deut. 30:19) because all obedience is predicated upon joyfulness and gladness of heart (Deut. 28:47).
 
-3.	David’s appeal to build Solomon’s temple illustrates well the importance of internal motivation: “Who then is willing to consecrate his service this day unto the Lord?” (1 Chron. 29:5). As a result, the “people rejoiced, for that day they offered willingly, because with perfect heart they offered willingly to the Lord” (1 Chron. 29:9, emphasis supplied). Here are the same principles pointed out by Paul: “Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver” (2 Cor. 9:7, emphasis supplied).
+3\. David’s appeal to build Solomon’s temple illustrates well the importance of internal motivation: “Who then is willing to consecrate his service this day unto the Lord?” (1 Chron. 29:5). As a result, the “people rejoiced, for that day they offered willingly, because with perfect heart they offered willingly to the Lord” (1 Chron. 29:9, emphasis supplied). Here are the same principles pointed out by Paul: “Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver” (2 Cor. 9:7, emphasis supplied).
 
 Examples of those who gave generously and in proportion to the blessings received, with perfect and joyful hearts and willing spirits, can be seen in the lives of the poor widow (Mark 12:41–44), the centurion (Acts 10:4), and Barnabas (Acts 4:36, 37). These Bible characters show hearts moved by the Holy Spirit to perform acts of generosity.
 
@@ -63,9 +63,9 @@ Examples of those who gave generously and in proportion to the blessings receive
 
 A. Ask a student to read Jeremiah 17:9. Jeremiah warns us that the human heart is deceitful (Jer. 17:9). Keeping this thought in mind, ask your students the following questions:
 
-1.	Can someone give “voluntarily” but be moved only by social custom or fear of damnation? Explain.
+`Can someone give “voluntarily” but be moved only by social custom or fear of damnation? Explain.`
 
-2.	Is it possible to use the expression “freewill offering” to excuse oneself from giving, or for giving small amounts, merely to ease the conscience? Discuss with your class.
+`Is it possible to use the expression “freewill offering” to excuse oneself from giving, or for giving small amounts, merely to ease the conscience? Discuss with your class.`
 
 B. Select volunteers to read the passages below. Invite your class to reflect on their meaning. Then ask your class members the questions that follow.
 
@@ -73,10 +73,12 @@ B. Select volunteers to read the passages below. Invite your class to reflect on
 
 “He can admit no rival in the soul, nor accept of partial service; but He desires only voluntary service, the willing surrender of the heart under the constraint of love.”—Ellen G. White, The Desire of Ages, p. 487.
 
-1.	What does the second quote mean by “voluntary service . . . under the constraint of love”? Why does God desire service from your class members only in this way? How might class members apply this principle to offerings?
+`What does the second quote mean by “voluntary service . . . under the constraint of love”? Why does God desire service from your class members only in this way? How might class members apply this principle to offerings?`
 
-2.	How does love enable the student to keep the commandments (Eccles. 12:13) in a way that is acceptable to the Lord without quashing his or her freedom? How is the same principle applicable to his or her voluntary return of tithes and offerings?
+`How does love enable the student to keep the commandments (Eccles. 12:13) in a way that is acceptable to the Lord without quashing his or her freedom? How is the same principle applicable to his or her voluntary return of tithes and offerings?`
 
 Prayers are “the freewill offerings of my mouth” (Ps. 119:108); however, they must never cease to be uttered.
 
 What is the importance of always praying and giving offerings as acts of worship (Acts 10:4)?
+
+`Notes`

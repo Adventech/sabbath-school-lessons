@@ -45,9 +45,9 @@ The New Testament also presents the meaning of this legacy of material and spiri
 
 All the blessings received during our lifetime should be faithfully used to glorify God (1 Cor. 10:31, Mal. 3:8–10). We glorify Him by sharing directly with, and through, the church all that He gives us. Bible examples that demonstrate this principle are as follows:
 
-Abraham: God praised Abraham for instructing his family “after” him to continue to serve the Lord after his death (Gen. 18:17–19).
+_Abraham:_ God praised Abraham for instructing his family “after” him to continue to serve the Lord after his death (Gen. 18:17–19).
 
-David: David appointed his son Solomon as his heir. David also ensured that his son received a material and spiritual legacy to continue the work that God had given David, which David himself was unable to accomplish personally.
+_David:_ David appointed his son Solomon as his heir. David also ensured that his son received a material and spiritual legacy to continue the work that God had given David, which David himself was unable to accomplish personally.
 
 After being generous with God’s work throughout his life, David, now an old man, offered the resources he had prepared, both personal and from his kingdom, to build the temple (1 Chron. 29:2, 3). This work would begin approximately three years after his death (2 Chron. 3:2) and would serve as a witness to all nations (2 Chron. 6:32, 33).
 
@@ -75,16 +75,18 @@ Ask a class member to read aloud the quotations below. Then discuss with your cl
 
 “Dying legacies are a miserable substitute for living benevolence. The servants of God should be making their wills every day, in good works and liberal offerings to God.”—Ellen G. White, Counsels on Stewardship, p. 326.
 
-How are good works and generous offerings connected to faith (Eph. 2:8–10)? Why?
+_How are good works and generous offerings connected to faith (Eph. 2:8–10)? Why?_
 
 **After God’s People Are Gone**
 
 “They should arrange their property in such a manner that they may leave it at any time.”—Ellen G. White, Counsels on Stewardship, p. 328.God plans deeds since ancient times (2 Kings 19:25).
 
-Why is it important to plan and make arrangements beforehand, especially concerning property, so that we may be ready to “leave it at any time”?
+_Why is it important to plan and make arrangements beforehand, especially concerning property, so that we may be ready to “leave it at any time”?_
 
 **Our Sacred Duty**
 
 “Many manifest a needless delicacy on this point [drawing up a will]. . . . But this duty is just as sacred as the duty to preach the word to save souls.”—Ellen G. White, Counsels on Stewardship, pp. 323, 324.
 
-How is the drawing up of a will a duty as sacred as the duty “to preach the word to save souls”? Why?
+_How is the drawing up of a will a duty as sacred as the duty “to preach the word to save souls”? Why?_
+
+`Notes`
