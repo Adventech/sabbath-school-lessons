@@ -1,0 +1,17 @@
+### Ukuphathela iNkosi — Ize Ifike
+
+Kulukhuni kithina ukuthi siqonde ngokuphelele lobo budlelwane uNkulunkulu wethu owadala amazulu, afuna ukuba nakho nathi thina bantu. Lowo mcabango-nje, uwodwa, uyethusa!) “Bhekani uthando olungaka asinike lona uBaba lokuba sithiwe singabantwana bakaNkulunkulu!” (1 Johane 3:1). Noma njengokokubhala kukaEllen G. White: “Kukhona yini ukuhlonipheka komuntu okungalingana nalokhu? Yisiphi isikhundla esiphakeme esingaba naso esikhulu ngaphezu kokubizwa ngamadodana kaNkulunkulu ongenakulinganiswa?...Ikhona yini inhlonipho yasezweni engalingana nalokhu?”—Ellen G. White, God’s Amazing Grace, p. 341. Ubumnyama balomhlaba wesono kuphela obenza ukuthi singalithakaseli ngokugcwele leli lungelo esiliphiwe kuJesu.
+
+Kodwa uma singaqaphele, ukuheha kwezwe nezinto zomhlaba kuzosidonsa sisuke kuKrestu. IZwi likaNkulunkulu liyasitshela ngezilingo nezikhangiso zikaSathane. “Kepha abafuna ukuceba bayela ekulingweni, nasesihibeni, nasezinkanukweni eziningi zobuwula ezilimazayo, ezishonisa abantu ekufeni nasekubhujisweni. Ngokuba ukuthanda imali kuyimpande yakho konke okubi; abanye ngokuyifisa badukelwa ukukholwa, bazigwaza ngeminjunju eminingi” (1 Thimothewu 6:9, 10).
+
+Kodwa uNkulunkulu usinika isiqondiso mayelana nokuzuza imali nokuyisebenzisa ngobuhlakani, ingabi yilokho uPawulu axwayisa ngakho, okuholela ekubhujisweni nasekufeni.” Ezindimaneni ezingaphezu kuka 2 000 eBhayibhelini ezikhuluma ngemali nezimpahla, nendlela esiyibuka ngayo imali nempahla, uNkulunkulu usinika iziyalo eziphathekayo zokuphila ngaphandle kwengcindezi yasemhlabeni, siphathe ngendlela yokwethembeka lokho esikunikiwe.
+
+Kulezifundo zalekota, sizofunda ngenhloso kaNkulunkulu mayelana nobudlelwane bethu naYe, sibone kahle ukuthi singaba nakho kanjani ukwethemba okujule ngendlela yokuthi singahlala sethembekile kuYe yize singakwazi ukuthenga nokuthengisa. (Bheka iSambulo 13:17.) Kodwa ukukholwa okunjalo akuqhibuki njengekhowe. Ngokuphatha ngokwethembeka lokho esikunikwe nguNkulunkulu, singakulungela kwamanje, ukubhekana nanoma yini esihlangana nayo.
+
+UNkulunkulu uYena onezipho zonke, kanti uma sisebenzisana naYe, uyasivumela ukuba simphathele lezo zipho. Yinjongo yoMsindisi ukuthi abantu, abahlanziwe bangcweliswa, babe yizandla zokusiza uNkulunkulu. Asimbonge ngaleli lungelo elikhulukazi “owasikhipha emandleni obumnyama, wasiphakamisela embusweni weNdodana yaKhe ethandekayo esinokusindiswa kuYona ngegazi laYo, nokuthethelelwa kwezono” (Kolose 1:13, 14).
+
+Isiyalo sikaNkulunkulu ebantwaneni baKhe, ekhuluma ngendoda ehlakaniphile uSolomoni, sithi: “Dumisa uNkululnkulu ngempahla yakho, nangolibo lwazo zonke izithelo zakho” (Izaga 3:9). Lesi siyalo sifanelekile ngoba “ufanele Wena Jehova ukwamukela inkazimulo nodumo, namandla; ngokuba wadala zonke izinto, futhi zimi ngenxa yentando yakho njengoba zadalwa ngokwentando yaKho.
+
+Ngokubuka ngeso lezwe, siphila ezikhathini ezilukhuni nezinengcindezi. Kodwa, indlela thina maKrestu esibuka ngayo izinto isinika ukuqiniseka nethemba njengoba sibona izibonakaliso ezashiwo nguJesu ukuze sazi ukuthi isiphetho somlando womhlaba, okungukubuya kukaKrestu, sesisondela kangakanani—sesisemnyango. Siyathandaza ukuthi lezifundo eziphathekayo zizojulisa ukukholwa kwenu nokwethemba uNkulunkulu, zinikhuthaze ukuba yizinceku zaKhe ezethembekile.
+
+_U G. Edward Reid, M.Div. (Andrews University), MPH (Loma Linda University), JD (Georgia State University), umfundisi ogcotshiwe futhi ungummeli owake wasebenza iminyaka eminingi njengomphathi wezobunceku eNorth American Division._
