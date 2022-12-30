@@ -21,19 +21,19 @@ Even for those who live in economically advantaged countries, sin will find a wa
 
 **Conditions for True Success**
 
-1. God First: Success in our material and spiritual life depends on putting God first (Matt. 6:33, Deut. 28:1–14). God then calls us to keep His commandments, in order to establish us as a holy people (Deut. 28:9), who are called by His name (Deut. 28:10). Then, through material blessings, He sets His people and His name high above all nations (Deut. 28:1, Mal. 3:12).
+_1. God First:_ Success in our material and spiritual life depends on putting God first (Matt. 6:33, Deut. 28:1–14). God then calls us to keep His commandments, in order to establish us as a holy people (Deut. 28:9), who are called by His name (Deut. 28:10). Then, through material blessings, He sets His people and His name high above all nations (Deut. 28:1, Mal. 3:12).
 
 Our understanding is imperfect. There are ways that seem right but are not good (Prov. 16:25). Thus, we need to trust in the Lord so that He will direct our paths (Prov. 3:5–8).
 
-2. Diligence: In the Scriptures, diligence can refer to someone who is quick, skillful, and prepared (Heb. mahir) (Prov. 22:29). Another meaning of diligent is sharp, keen, and acute (Heb. harutz), said of someone who is efficient (Prov. 13:4). As such, a diligent person is one who acts promptly and competently. Indolence and idleness are not compatible with success.
+_2. Diligence:_ In the Scriptures, diligence can refer to someone who is quick, skillful, and prepared (Heb. mahir) (Prov. 22:29). Another meaning of diligent is sharp, keen, and acute (Heb. harutz), said of someone who is efficient (Prov. 13:4). As such, a diligent person is one who acts promptly and competently. Indolence and idleness are not compatible with success.
 
-3. Prosperity and Integrity: Joseph was prosperous because the Lord was with him, according to Genesis 39:2–5. In this text from Genesis, “prosperous” (Hebrew: tsalah) means to “push forward,” “be profitable,” or to “be good.” Joseph was not a victim of circumstances or idleness, because he “pushed forward” and made things happen. He seized opportunities, always in consultation with the Lord, and, consequently, excelled at what he did.
+_3. Prosperity and Integrity:_ Joseph was prosperous because the Lord was with him, according to Genesis 39:2–5. In this text from Genesis, “prosperous” (Hebrew: tsalah) means to “push forward,” “be profitable,” or to “be good.” Joseph was not a victim of circumstances or idleness, because he “pushed forward” and made things happen. He seized opportunities, always in consultation with the Lord, and, consequently, excelled at what he did.
 
 Furthermore, Joseph found favor in the eyes of Potiphar, who fully trusted him and placed all that he had in his hands. The extent of this responsibility shows that, in addition to being very good at what he did, Joseph was upright, honest, and trustworthy. The world needs people like Joseph in all spheres of life.
 
 “The greatest want of the world is the want of men—men who will not be bought or sold, men who in their inmost souls are true and honest, men who do not fear to call sin by its right name, men whose conscience is as true to duty as the needle to the pole, men who will stand for the right though the heavens fall.”—Ellen G. White, Education, p. 57.
 
-4. Understanding the Limitations of Worldly Success: It is common for people to define success only in terms of material blessings, without considering more important, intangible gifts, such as health, joy, strong social and family relationships, and an effectual prayer life.
+_4. Understanding the Limitations of Worldly Success:_ It is common for people to define success only in terms of material blessings, without considering more important, intangible gifts, such as health, joy, strong social and family relationships, and an effectual prayer life.
 
 Sadly, one doesn’t always acquire these intangibles all at once. Worse, these gifts may even be sacrificed to attain worldly success. Therefore, it is better to have fewer material possessions, “with the fear of the Lord,” than to have a lot of money, with worry and distress (Prov. 15:16, also read Eccles. 4:6).
 
@@ -45,13 +45,13 @@ Additionally, material success is uncertain. There are possessions that become d
 
 **Examples of Success**
 
-1. Success and Wisdom: One word used in the Bible for good fortune (in Hebrew: sakal) can be translated in various scriptural passages as “good success,” “to be prudent,” and “to wisely understand.” This word is used in reference to Joshua in the victory over Canaan (Joshua 1:7, 8) and of David, when he was successful in his military battles (1 Sam. 18:5, 14, 15). All wisdom and prudence that lead to real success come from God (Prov. 9:10). This Bible truth may be the reason the same words (sakal) in these examples can be translated both as wisdom and success.
+_1. Success and Wisdom:_ One word used in the Bible for good fortune (in Hebrew: sakal) can be translated in various scriptural passages as “good success,” “to be prudent,” and “to wisely understand.” This word is used in reference to Joshua in the victory over Canaan (Joshua 1:7, 8) and of David, when he was successful in his military battles (1 Sam. 18:5, 14, 15). All wisdom and prudence that lead to real success come from God (Prov. 9:10). This Bible truth may be the reason the same words (sakal) in these examples can be translated both as wisdom and success.
 
-2. Success in Marriage and the Family: Marriage and the family rely on wise and successful (in Hebrew: sakal) spouses, and, thus, the wise (sakal) woman is from the Lord (Prov. 19:14). On the other hand, there are foolish husbands, such as Nabal (1 Sam. 25:25), whose arrogance and folly can be detrimental.
+_2. Success in Marriage and the Family:_ Marriage and the family rely on wise and successful (in Hebrew: sakal) spouses, and, thus, the wise (sakal) woman is from the Lord (Prov. 19:14). On the other hand, there are foolish husbands, such as Nabal (1 Sam. 25:25), whose arrogance and folly can be detrimental.
 
 We can learn valuable, life-guiding principles about marriage in the story of Abraham’s search for a bride for Isaac. Abraham trusted in God to find a wife for his son (Gen. 24:7). Abraham’s servant, in response to his master’s faith, was diligent in the search for the prospective bride, praying to the Lord for divine guidance (Gen. 24:12). It was while Isaac also meditated and prayed in the field (Gen. 24:63) that God brought Rebekah to him to be his wife. In the same way, the Christian woman also must pray that God will provide her with a wise and prudent (sakal) husband and a financially stable and successful home.
 
-3. Success in Any Situation: God desired to open the windows of heaven to bless the Israelites, so that they could move forward and progress (Heb. ashar) in His plan to make them a blessing to all nations. This blessing was contingent upon the nation’s faithfulness in returning tithes and offerings (Mal. 3:10–12). In the Greek translation of the Old Testament, rendered by the Jews (LXX), the word for “progress” was translated to the Greek as makarioi, which means blessed or happy (Mal. 3:12). This blessing (makarioi) would draw the attention of all nations to the Lord’s name.
+_3. Success in Any Situation:_ God desired to open the windows of heaven to bless the Israelites, so that they could move forward and progress (Heb. ashar) in His plan to make them a blessing to all nations. This blessing was contingent upon the nation’s faithfulness in returning tithes and offerings (Mal. 3:10–12). In the Greek translation of the Old Testament, rendered by the Jews (LXX), the word for “progress” was translated to the Greek as makarioi, which means blessed or happy (Mal. 3:12). This blessing (makarioi) would draw the attention of all nations to the Lord’s name.
 
 In the Beatitudes, Jesus identifies the happy (in Greek: makarioi) of His kingdom as those who are poor in spirit, meek, merciful, peacemakers, and the pure in heart (Matt. 5:1–9). Jesus points out another group of happy people (makarioi): the ones who are persecuted and falsely accused for His name’s sake (Matt. 5:10, 11), as well as those who patiently endure trial and affliction for their faith (James 5:11).
 
@@ -69,18 +69,20 @@ Ask a class member to read aloud the quotations below. Then discuss with your cl
 
 “It is in appearance, not in reality, that evil succeeds.”—Ellen G. White, Education, p. 108.
 
-How can one not be troubled by the apparent success of people who do not fear God (Ps. 73:2–20)?
+`How can one not be troubled by the apparent success of people who do not fear God (Ps. 73:2–20)?`
 
 **Apparent Failure**
 
 “Our devised plans often fail that God’s plans for us may be a complete success. Oh, it is in the future life we shall see the tangles and mysteries of life, that have so annoyed and disappointed our fond hopes, explained. We will see that the prayers and hopes for certain things which have been withheld have been among our greatest blessings.”—Ellen G. White, Our High Calling, p. 318.
 
-How does this quote console us with our own losses, unfulfilled expectations, and dashed hopes in this life? Additionally, how do the sentiments expressed herein help us not to be troubled by the apparent failure of believers (1 Cor. 13:7; 1 Pet. 1:6, 7; 1 Pet. 4:16)?
+`How does this quote console us with our own losses, unfulfilled expectations, and dashed hopes in this life? Additionally, how do the sentiments expressed herein help us not to be troubled by the apparent failure of believers (1 Cor. 13:7; 1 Pet. 1:6, 7; 1 Pet. 4:16)?`
 
 **Principles for True Success**
 
 “There is no branch of legitimate business for which the Bible does not afford an essential preparation. Its principles of diligence, honesty, thrift, temperance, and purity are the secret of true success.”—Ellen G. White, Education, p. 135.
 
-1.	Why are the biblical principles for success so important (Eccles. 7:12, Prov. 3:13–18)?
+`Why are the biblical principles for success so important (Eccles. 7:12, Prov. 3:13–18)?`
 
-2.	How do we prosper socially and financially without losing our faith along the way or falling prey to a love for mammon (Matt.  6:33; 1 Chron. 29:14–16; Prov. 3:9, 10)?
+`How do we prosper socially and financially without losing our faith along the way or falling prey to a love for mammon (Matt.  6:33; 1 Chron. 29:14–16; Prov. 3:9, 10)?`
+
+`Notes`
