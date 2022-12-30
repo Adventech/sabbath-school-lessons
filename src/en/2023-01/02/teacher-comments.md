@@ -29,64 +29,64 @@ Because salvation is by grace, some may presume that human beings have no obliga
 
 **Laws, Promise, and Covenant**
 
-1. Laws: Laws are unilateral decisions from the lawgiver and are not dependent on the other party’s acceptance. These laws are promulgated by the lawgiver and must be obeyed. We don’t participate in the process of making God’s laws that are part of the divine covenant. It wouldn’t make sense to have a law in a contract that was not meant to be kept. As such, both the old and the new covenants have law and obedience elements (Heb. 8:8–13).
+_1. Laws:_ Laws are unilateral decisions from the lawgiver and are not dependent on the other party’s acceptance. These laws are promulgated by the lawgiver and must be obeyed. We don’t participate in the process of making God’s laws that are part of the divine covenant. It wouldn’t make sense to have a law in a contract that was not meant to be kept. As such, both the old and the new covenants have law and obedience elements (Heb. 8:8–13).
 
-2. Promise: Similar to a decree, a promise is unilateral. God alone may make a promise. Trust in the promise depends on the credibility and abilit­y of the one who promises. God promised and will deliver because He doesn’t lie and never fails. God’s promise of salvation by grace through faith to those who accept His covenant is an assurance for the redeemed (Heb. 6:13–20, 1 John 2:25).
+_2. Promise:_ Similar to a decree, a promise is unilateral. God alone may make a promise. Trust in the promise depends on the credibility and ability of the one who promises. God promised and will deliver because He doesn’t lie and never fails. God’s promise of salvation by grace through faith to those who accept His covenant is an assurance for the redeemed (Heb. 6:13–20, 1 John 2:25).
 
-3. Covenant: A covenant needs at least two people (bilateral agreement) to be binding. A covenant is different from a decree or promise in that there is no alliance or covenant without the contractual parties. In this regard, human beings decide whether they want to be part of God’s covenant or not. God invites us to enter His covenant, by faith in Christ, so that we may have eternal life (John 3:16).
+_3. Covenant:_ A covenant needs at least two people (bilateral agreement) to be binding. A covenant is different from a decree or promise in that there is no alliance or covenant without the contractual parties. In this regard, human beings decide whether they want to be part of God’s covenant or not. God invites us to enter His covenant, by faith in Christ, so that we may have eternal life (John 3:16).
 
 **Characteristics of the Covenant**
 
 Everything in the covenant points to faith, followed by obedience.
 
-1. Mutuality means that the parties have joint duties and rights under the contract. Therefore, being obedient is our part of the covenant (Heb. 8:10, Rev. 14:12).
+_1. Mutuality_ means that the parties have joint duties and rights under the contract. Therefore, being obedient is our part of the covenant (Heb. 8:10, Rev. 14:12).
 
-2. Achievable means that the covenant’s terms can be fulfilled by both parties. It doesn’t make sense to have a contract with rules that one of the parties is unable to observe. As such, honoring the terms of the covenant simply is doing what God requires by His grace because grace brings forth good works (Eph. 2:8–10).
+_2. Achievable_ means that the covenant’s terms can be fulfilled by both parties. It doesn’t make sense to have a contract with rules that one of the parties is unable to observe. As such, honoring the terms of the covenant simply is doing what God requires by His grace because grace brings forth good works (Eph. 2:8–10).
 
 If God commands us to keep the Sabbath or to return tithes and offerings, such a command is a divine clause in the contract, indicating that human beings can do what is required. God would never ask anything that is impossible, and His enabling grace is part of the covenant.
 
-3. Conditionality means that the contract is valid only if there is practical adherence. Anyone who believes and is faithful will be saved (Rev. 2:10) and will be blessed (Mal. 3:10–12) because this is part of the contract. There are complementary and basic blessings. Sin may hamper the receiving of some complementary blessings in this world, but it does not change the basic blessings of salvation if we remain in the faith, according to the contract.
+_3. Conditionality_ means that the contract is valid only if there is practical adherence. Anyone who believes and is faithful will be saved (Rev. 2:10) and will be blessed (Mal. 3:10–12) because this is part of the contract. There are complementary and basic blessings. Sin may hamper the receiving of some complementary blessings in this world, but it does not change the basic blessings of salvation if we remain in the faith, according to the contract.
 
-4. Cancellation conditions refer to the fact that all contracts provide for cancellation in certain special situations. Such also is the case with God’s covenant. The covenant parties who remain in sin may create the cancellation conditions by transgressing specific clauses.
+_4. Cancellation_ conditions refer to the fact that all contracts provide for cancellation in certain special situations. Such also is the case with God’s covenant. The covenant parties who remain in sin may create the cancellation conditions by transgressing specific clauses.
 
 **God’s Covenant Includes Tithes and Offerings**
 
 All aspects of life are part of God’s covenant. In this covenant, God promises to give human beings strength to obtain material possessions. In return, God requires faithfulness to the covenant, for the following three reasons:
 
-1. Material possessions should remind us that God is fulfilling His part of the covenant. God declares that His people shall remember Him, because He is the One who gives them the strength to obtain riches and because these blessings are part of the covenant.
+1\. Material possessions should remind us that God is fulfilling His part of the covenant. God declares that His people shall remember Him, because He is the One who gives them the strength to obtain riches and because these blessings are part of the covenant.
 
 God’s aim in providing His people with riches is to confirm the alliance between Himself and His people. Thus, He indicates that the covenant includes both material and spiritual aspects (Deut. 8:18). As such, tithes and offerings show the mutual loyalty between God (the One who blesses) and His children (who acknowledge, believe, and obey Him).
 
 The faithful use of our possessions, in turn, reminds us of our mission in our salvation covenant with Christ: namely, that God desires that we, through the blessings bestowed upon us, will make His name known among all nations (Mal. 3:12).
 
-2. The return, or withholding, of tithes and offerings is an indication of one’s spiritual condition with God. Material possessions are part of God’s covenant with His people. This fact becomes clear in ancient Israel’s unfaithfulness during times of apostasy. On the other hand, during spiritual revivals, the faithful return of tithes and generous offerings indicated a renewal of the covenant with God (2 Chron. 31:5–10; Neh. 10:37, 38; Neh. 12:44; Neh. 13:5, 12; Mal. 1:9, 14; Mal. 3:7–10).
+2\. The return, or withholding, of tithes and offerings is an indication of one’s spiritual condition with God. Material possessions are part of God’s covenant with His people. This fact becomes clear in ancient Israel’s unfaithfulness during times of apostasy. On the other hand, during spiritual revivals, the faithful return of tithes and generous offerings indicated a renewal of the covenant with God (2 Chron. 31:5–10; Neh. 10:37, 38; Neh. 12:44; Neh. 13:5, 12; Mal. 1:9, 14; Mal. 3:7–10).
 
-3. Being faithful in material possessions is a way of honoring God, according to Proverbs 3:1–10. As we look at this text in more detail, we observe the following:
+3\. Being faithful in material possessions is a way of honoring God, according to Proverbs 3:1–10. As we look at this text in more detail, we observe the following:
 
-a.	The word “honor” (in Hebrew: _kabad_) means to glorify and be rich toward God.
+a. The word “honor” (in Hebrew: _kabad_) means to glorify and be rich toward God.
 
-b.	The Hebrew word for “increase” (hown) (Proverbs 3:9) means “wealth,” “riches.” This verse conveys a clear message that is still valid today: being faithful with our possessions brings honor and glory to God. This general counsel is well detailed in Scripture, in the laws relating to tithes and offerings.
+b. The Hebrew word for “increase” (hown) (Proverbs 3:9) means “wealth,” “riches.” This verse conveys a clear message that is still valid today: being faithful with our possessions brings honor and glory to God. This general counsel is well detailed in Scripture, in the laws relating to tithes and offerings.
 
-c.	“Firstfruits” (Proverbs 3:9) in Hebrew is reshyith, meaning “first, beginning, best.” God cannot be properly honored by being second or by our giving Him the leftovers. The Lord of the covenant requires top priority where our time is concerned and in the quality of what we offer Him. This requirement is part of God’s covenant with us.
+c. “Firstfruits” (Proverbs 3:9) in Hebrew is reshyith, meaning “first, beginning, best.” God cannot be properly honored by being second or by our giving Him the leftovers. The Lord of the covenant requires top priority where our time is concerned and in the quality of what we offer Him. This requirement is part of God’s covenant with us.
 
-d.	The Hebrew word kol means “all, the whole of, any, each, everything.” “Increase” is the translation of the Hebrew word tevuah. It means “produce, product, income, revenue, gain.” Both words together (kol and tevuah) indicate that no increase shall be exempted from honoring the Lord, because He is the Lord of any increase. Conversely, no reduction will be accepted as an excuse for not honor­ing Him with “all the increase.” Thus, God requires “all” (kol) the material possessions we have. (Thus, no excuse will be accepted as valid for withholding from Him any aspect of our lives that it is our privilege to consecrate fully to Him.)
+d. The Hebrew word kol means “all, the whole of, any, each, everything.” “Increase” is the translation of the Hebrew word tevuah. It means “produce, product, income, revenue, gain.” Both words together (kol and tevuah) indicate that no increase shall be exempted from honoring the Lord, because He is the Lord of any increase. Conversely, no reduction will be accepted as an excuse for not honoring Him with “all the increase.” Thus, God requires “all” (kol) the material possessions we have. (Thus, no excuse will be accepted as valid for withholding from Him any aspect of our lives that it is our privilege to consecrate fully to Him.)
 
 “All” our assets and increase of wealth shall be a reminder that God is the God of the covenant. He is the One who provides all that we have. The Bible clearly shows that an important way of remembering the covenant of God is by regularly returning tithes and offerings.
 
 #### Part III: Life Application
 
-1. Ask your students: How does your faithfulness or unfaithfulness to God’s covenant, in terms of material possessions, impact your spiritual life? Why?
+1\. Ask your students: How does your faithfulness or unfaithfulness to God’s covenant, in terms of material possessions, impact your spiritual life? Why?
 
-2. Invite one or two of your class members to read the following two passages from Ellen White’s writings while the rest of the class reflects on the words. Then ask your class to answer the questions that follow each quotation.
+2\. Invite one or two of your class members to read the following two passages from Ellen White’s writings while the rest of the class reflects on the words. Then ask your class to answer the questions that follow each quotation.
 
 “Let those who have become careless and indifferent, and are withholding their tithes and offerings, remember that they are blocking the way, so that the truth cannot go forth to the regions beyond. I am bidden to call upon the people of God to redeem their honor by rendering to God a faithful tithe.”—Ellen G. White, Counsels on Stewardship, p. 96.
 
-a.	In what ways do your students feel that they continue to be “careless and indifferent” in their faithfulness to God with their tithes and offerings? Why do they think that is so?
-
-b.	Discuss with your students the expression “blocking the way” and its implications for their spiritual lives. How might they be “blocking the way” of the gospel by a failure to return faithful tithes and offerings? How does this failure impact the people who are waiting and needing to hear this message? If your students feel they are indifferent in this aspect, how can they change?
-
-c.	What does the expression “redeem their honor,” when applied to the church’s faithful return of tithes, mean to class members?
+* In what ways do your students feel that they continue to be “careless and indifferent” in their faithfulness to God with their tithes and offerings? Why do they think that is so?
+* Discuss with your students the expression “blocking the way” and its implications for their spiritual lives. How might they be “blocking the way” of the gospel by a failure to return faithful tithes and offerings? How does this failure impact the people who are waiting and needing to hear this message? If your students feel they are indifferent in this aspect, how can they change?
+* What does the expression “redeem their honor,” when applied to the church’s faithful return of tithes, mean to class members?
 
 “Every man should freely and willingly and gladly bring tithes and offerings into the storehouse of the Lord, because in so doing there is a blessing.”—Ellen G. White, Counsels on Stewardship, p. 67.
 
-Ask students to share their testimonies of how returning tithes and offerings has been an occasion for either joyfulness or blessing in their lives.
+* Ask students to share their testimonies of how returning tithes and offerings has been an occasion for either joyfulness or blessing in their lives.
+
+`Notes`

@@ -19,9 +19,9 @@ In the Bible, the word “tithe” (in Hebrew: maaser) literally means “tenth.
 
 **Two Temporary Tithes**
 
-1. The King’s Tithe: The king’s tithe was a tax established in the days of Saul (1 Sam. 8:11, 15, 17). This tithe was not part of the covenant and ceased with the end of the Jewish monarchy.
+_1. The King’s Tithe:_ The king’s tithe was a tax established in the days of Saul (1 Sam. 8:11, 15, 17). This tithe was not part of the covenant and ceased with the end of the Jewish monarchy.
 
-2. Second Tithe (in Hebrew: maaser sheni): (See Ellen G. White, Patriarchs and Prophets, chapter 51.) This tithe ended with the destruction of the temple and the nation of Israel, as it depended on the seven-year cycle (Deut. 14:22–29, Deut. 15:1, Deut. 26:12), which started only when the Israelites entered the Promised Land (Lev. 25:1–7).
+_2. Second Tithe_ (in Hebrew: maaser sheni): (See Ellen G. White, Patriarchs and Prophets, chapter 51.) This tithe ended with the destruction of the temple and the nation of Israel, as it depended on the seven-year cycle (Deut. 14:22–29, Deut. 15:1, Deut. 26:12), which started only when the Israelites entered the Promised Land (Lev. 25:1–7).
 
 The second tithe was spent by the family on the annual visit to the sanctuary. The exception to this practice occurred during the third and sixth years of the seven-year cycle, when the second tithe was saved at home to provide a feast and assistance to those who didn’t own land (Deut. 14:28, 29). As such, the second tithe wasn’t taken to the storehouse, and it was not a ministerial tithe. (See Fred Skolnik and Michael Berenbaum, Encyclopaedia Judaica, 2nd ed. [Farmington Hills, MI: Thomson Gale, 2007], vol. 8, pp. 254, 313, 314.)
 
@@ -35,17 +35,17 @@ Moreover, there are no Bible references indicating the end of the ministerial ti
 
 Let’s look at six principles and practices of tithing:
 
-1. The “entire” ministerial tithe should be taken to the storehouse. The purpose of the ministerial tithe always has been to exclusively support the priestly ministry (Gen. 14:18–20, Lev. 27:30–34, Num. 18:21–24, Mal. 3:8–10).
+1\. The “entire” ministerial tithe should be taken to the storehouse. The purpose of the ministerial tithe always has been to exclusively support the priestly ministry (Gen. 14:18–20, Lev. 27:30–34, Num. 18:21–24, Mal. 3:8–10).
 
-2. Money was scarce in the ancient Middle East; thus, there was an emphasis on tithes and offerings to be taken to the sanctuary in goods and animals.
+2\. Money was scarce in the ancient Middle East; thus, there was an emphasis on tithes and offerings to be taken to the sanctuary in goods and animals.
 
-3. The tithe doctrine is based on all Scripture and not only on the Levitical period texts. In the first instances where tithe is mentioned, the Bible instructs that the principle of tithing includes “all” (Gen. 14:20, Gen. 28:22); that is, all possessions or increase.
+3\. The tithe doctrine is based on all Scripture and not only on the Levitical period texts. In the first instances where tithe is mentioned, the Bible instructs that the principle of tithing includes “all” (Gen. 14:20, Gen. 28:22); that is, all possessions or increase.
 
-4. Considering the size of the depositories in the tabernacle or the temple, it would be unrealistic to imagine that the tithes of the entire nation of Israel, given in goods and animals, would fit in the sanctuary’s depositories.
+4\. Considering the size of the depositories in the tabernacle or the temple, it would be unrealistic to imagine that the tithes of the entire nation of Israel, given in goods and animals, would fit in the sanctuary’s depositories.
 
-5. Furthermore, the reference in the Bible to agricultural produce and animals is only an allusion to the most common products. However, the tithe could be converted to money when convenient (Gen. 14:20, Gen. 28:22). (See Fred Skolnik and Michael Berenbaum, Encyclopaedia Judaica, vol. 19, pp. 736, 737; also vol. 1, pp. 47, 48, 83, 139; vol. 8, pp. 254, 313, 314 of this same series.)
+5\. Furthermore, the reference in the Bible to agricultural produce and animals is only an allusion to the most common products. However, the tithe could be converted to money when convenient (Gen. 14:20, Gen. 28:22). (See Fred Skolnik and Michael Berenbaum, Encyclopaedia Judaica, vol. 19, pp. 736, 737; also vol. 1, pp. 47, 48, 83, 139; vol. 8, pp. 254, 313, 314 of this same series.)
 
-6. Moreover, the Bible section dealing with tithing of agricultural produce establishes that this tithe could be exchanged for money, according to the law of redemption of holy things (Lev. 27:31). In this case, the corresponding tithe amount to be redeemed should be paid, plus a fine of one-fifth in shekels (571-gram silver bars), which were the currency of the sanctuary (Lev. 27:8–12, 19, 25, 31). All estimations of holy things, including the tithe, were done by the priest (Lev. 27:8, 12) before the tithe could be redeemed (Lev. 27:31).
+6\. Moreover, the Bible section dealing with tithing of agricultural produce establishes that this tithe could be exchanged for money, according to the law of redemption of holy things (Lev. 27:31). In this case, the corresponding tithe amount to be redeemed should be paid, plus a fine of one-fifth in shekels (571-gram silver bars), which were the currency of the sanctuary (Lev. 27:8–12, 19, 25, 31). All estimations of holy things, including the tithe, were done by the priest (Lev. 27:8, 12) before the tithe could be redeemed (Lev. 27:31).
 
 **Gross and Net**
 
@@ -63,7 +63,7 @@ Storehouse means more than a mere depository. The storehouse was an administrati
 
 There was in that sanctuary organization system a group of treasurers who managed some special offerings (terumah), dedicated things and tithes, which were intended for the Levites and priests (2 Chron. 31:12, 13). There was another team in charge of other types of offerings: freewill offerings (nedabah), and the most holy things (2 Chron. 31:14).
 
-The exclusive purpose of tithes was to sustain the ministerial ­workers—Levites and priests (Num. 18:21–28, Neh. 10:37–39, Mal. 3:10). This system, sanctioned by God, was originally designed according to His will (2 Chron. 31:21, Mal. 3:10) and used in the Old Testament for approximately 1,400 years.
+The exclusive purpose of tithes was to sustain the ministerial workers—Levites and priests (Num. 18:21–28, Neh. 10:37–39, Mal. 3:10). This system, sanctioned by God, was originally designed according to His will (2 Chron. 31:21, Mal. 3:10) and used in the Old Testament for approximately 1,400 years.
 
 Although many of us today live in an industrialized society (as opposed to an agricultural one), the storehouse principle established by God still remains valid, enabling institutional unity and equitable distribution of resources so that the gospel may be preached locally and around the world.
 
@@ -75,12 +75,14 @@ Today, as in the past, it is essential for the worshiper to identify his or her 
 
 The Bible shows that tithing is an important part of worshiping God and our relationship with Him (Mal. 3:7, 8). So class members should not be surprised that faithfulness in tithing will be examined in the judgment, resulting in a blessing or curse (Mal. 3:9–11). Their faithful tithing opens the “windows” of heaven for a blessing whose liberality and magnitude will draw the attention of the nations (Mal. 3:12).
 
-1.	In what way does tithing strengthen your students’ fellowship with God and enhance the fulfillment of the commission to preach the gospel to the world?
+`In what way does tithing strengthen your students’ fellowship with God and enhance the fulfillment of the commission to preach the gospel to the world?`
 
-2.	Invite your students to think about the experience of ancient Israel. What spiritual and material losses or blessings may unfaithfulness in tithes and offerings bring to individual church members and to the church, as a whole, today?
+`Invite your students to think about the experience of ancient Israel. What spiritual and material losses or blessings may unfaithfulness in tithes and offerings bring to individual church members and to the church, as a whole, today?`
 
-“He [God] asks us to acknowledge Him as the Giver of all things. . . . This is the provision God has made for carrying forward the work of the ­gospel.”—Ellen G. White, Counsels on Stewardship, p. 65.
+“He [God] asks us to acknowledge Him as the Giver of all things. . . . This is the provision God has made for carrying forward the work of the gospel.”—Ellen G. White, Counsels on Stewardship, p. 65.
 
-1.	Abraham returned the tithe after declaring that God is the “most high God, possessor of heaven and earth” (Gen. 14:19). What important reason to tithe does this declaration teach your students?
+`Abraham returned the tithe after declaring that God is the “most high God, possessor of heaven and earth” (Gen. 14:19). What important reason to tithe does this declaration teach your students?`
 
-2.	God regarded tithing of such importance that He included it in the history of Abraham, in Jacob’s vow, in the life of God’s people, and in the description of the ministry of Jesus, represented by Melchizedek and the divine covenant. Ask your students why they think this is so. Lead your class in a discussion about this topic.
+`God regarded tithing of such importance that He included it in the history of Abraham, in Jacob’s vow, in the life of God’s people, and in the description of the ministry of Jesus, represented by Melchizedek and the divine covenant. Ask your students why they think this is so. Lead your class in a discussion about this topic.`
+
+`Notes`

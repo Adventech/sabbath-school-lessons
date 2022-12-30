@@ -35,7 +35,7 @@ Furthermore, in Greek, the concept of steward (oikonomos) (Luke 12:42; 1 Cor. 4:
 
 **The Prize and the Crown Are Gifts.**
 
-The reward of the redeemed is presented in the Bible as a “prize” (in Greek: brabeion) given to the winners in ancient public stadium games (1 Cor. 9:24, Phil. 3:14) and as a “crown” won in a competition (1 Cor. 9:25). The attainment of this reward involves perseverance and self-­sacrifice on the part of the Christian (1 Cor. 9:26, 27).
+The reward of the redeemed is presented in the Bible as a “prize” (in Greek: brabeion) given to the winners in ancient public stadium games (1 Cor. 9:24, Phil. 3:14) and as a “crown” won in a competition (1 Cor. 9:25). The attainment of this reward involves perseverance and self-sacrifice on the part of the Christian (1 Cor. 9:26, 27).
 
 The assurance of our victory doesn’t prevent affliction during the journey. Like Jesus, who, being the Son, chose to do the will of the Father, despite affliction and suffering (Heb. 5:8), we also, being God’s children, will endure sorrows in this life (Phil. 1:29, John 16:33). We do so without taking our eyes off the prize, even though that means we must resist and abstain from everything harmful, as an athlete does.
 
@@ -59,14 +59,14 @@ Ask a class member to read aloud the quotations below. Then discuss with your cl
 
 **The Capital and Ability Come From God.**
 
-“God keeps a faithful account with every human being in our world. And when the day of reckoning comes, the faithful steward takes no credit to himself. He does not say, ‘My pound;’ but, ‘Thy pound hath gained’ other pounds. He knows that without the entrusted gift no increase could have been made. He feels that in faithfully discharging his stewardship he has but done his duty. The capital was the Lord’s, and by His power he was enabled to trade upon it successfully. His name only should be glorified. Without the entrusted capital he knows that he would have been bankrupt for ­eternity.”—Ellen G. White, Counsels on Stewardship, pp. 111, 112.
+“God keeps a faithful account with every human being in our world. And when the day of reckoning comes, the faithful steward takes no credit to himself. He does not say, ‘My pound;’ but, ‘Thy pound hath gained’ other pounds. He knows that without the entrusted gift no increase could have been made. He feels that in faithfully discharging his stewardship he has but done his duty. The capital was the Lord’s, and by His power he was enabled to trade upon it successfully. His name only should be glorified. Without the entrusted capital he knows that he would have been bankrupt for eternity.”—Ellen G. White, Counsels on Stewardship, pp. 111, 112.
 
-What do such expressions as “work out,” “be not conformed,” “be ye transformed,” “deny himself,” and “return unto me” in the Bible (Phil. 2:12–14; Rom. 12:1, 2; Luke 9:23; Mal. 3:7, 8) teach you about the role of planning and personal will in the pursuit of faithful Christian stewardship (1 Cor. 4:2)?
+`What do such expressions as “work out,” “be not conformed,” “be ye transformed,” “deny himself,” and “return unto me” in the Bible (Phil. 2:12–14; Rom. 12:1, 2; Luke 9:23; Mal. 3:7, 8) teach you about the role of planning and personal will in the pursuit of faithful Christian stewardship (1 Cor. 4:2)?`
 
 **Talents Are Spiritual and Material.**
 
 “I was then shown that the parable of the talents has not been fully understood. . . . The parable [also] applies to the temporal means which God has entrusted to His people.”—Ellen G. White, Spiritual Gifts, vol. 4, p. 38.
 
-What connection exists between faithfulness in the spiritual life and in the material life (Matt. 25:14–30)?
+`What connection exists between faithfulness in the spiritual life and in the material life (Matt. 25:14–30)?`
 
 `Notes`

@@ -13,15 +13,15 @@ But the love of riches can choke out the Word from the hearts of people (Matt. 1
 
 **Treasure for God**
 
-Jesus advises us to lay up treasure in heaven (Matt. 6:19, 20). But how do we do this? One way is investment. When we invest in church and charit­y, acknowledging these aspects of God’s kingdom on earth, we invest in heaven.
+Jesus advises us to lay up treasure in heaven (Matt. 6:19, 20). But how do we do this? One way is investment. When we invest in church and charity, acknowledging these aspects of God’s kingdom on earth, we invest in heaven.
 
 **A. Investing**
 
 “Earthly treasures are blessings when rightly used. Those who have them should realize that they are lent them of God and should cheerfully spend their means to advance His cause.”—Ellen G. White, Testimonies for the Church, vol. 1, p. 141.
 
-1. Where our treasures lie is an indication of the loyalties and priorities of our hearts (affections, commitments, and preferences) (Matt. 6:21). Those who love money will never have enough of it (Eccles. 5:10). Paul tells us that this love is the root of all evil (1 Tim. 6:10). The way we use our money is a test of faithfulness for eternity (Luke 16:10, 11). But if our money is invested only in worldly undertakings, we will love mammon more than God (Luke 16:13). God wants our hearts (Prov. 23:26), and we can offer them to Him by investing in His work. Therefore, we will make “friends” among those who will receive us in the “everlasting habitations” (Luke 16:9), where we will love and serve God, not possessions (Luke 16:13).
+1\. Where our treasures lie is an indication of the loyalties and priorities of our hearts (affections, commitments, and preferences) (Matt. 6:21). Those who love money will never have enough of it (Eccles. 5:10). Paul tells us that this love is the root of all evil (1 Tim. 6:10). The way we use our money is a test of faithfulness for eternity (Luke 16:10, 11). But if our money is invested only in worldly undertakings, we will love mammon more than God (Luke 16:13). God wants our hearts (Prov. 23:26), and we can offer them to Him by investing in His work. Therefore, we will make “friends” among those who will receive us in the “everlasting habitations” (Luke 16:9), where we will love and serve God, not possessions (Luke 16:13).
 
-2. The divine commission to proclaim salvation to all nations (Matt. 28:18–20) is all-encompassing. Large investments are required.
+2\. The divine commission to proclaim salvation to all nations (Matt. 28:18–20) is all-encompassing. Large investments are required.
 
 In terms of sin, Heaven invested the blood of Jesus in our salvation. Jesus, the Lamb, who was slain before the foundation of the world (1 Pet. 1:18, 19), gave us the promise that the Holy Spirit would remain with us always, as assurance of our redemption (Eph. 1:13, 14). The blood of martyrs is a most precious investment that was shed for God’s Word (Rev. 6:9, 10). The dead in Christ are investors waiting for an inheritance that includes the end of sin and the restoration of all things (2 Pet. 3:13, Rev. 21:1–7).
 
@@ -29,9 +29,9 @@ Investing our life and possessions in the spreading of the gospel (Matt. 28:19),
 
 **B. Examples of Good Investments**
 
-1. Investing Despite Opposition: Opposition to faith comes from outside us in the form of persecution (2 Tim. 3:12) and in the form of attacks from spiritually evil forces (Eph. 6:11, 12). But from within us, human nature brings forth lust and sin, which lead to death (James 1:14, 15). That’s because the unregenerate heart is not of the Father but of the world (1 John 2:15, 16). Bible examples point to situations in which it seemed impossible for God’s promises to be fulfilled because of opposition from within and without. But the faithful remained steadfast in doing what God commanded, and they prevailed.
+_1. Investing Despite Opposition:_ Opposition to faith comes from outside us in the form of persecution (2 Tim. 3:12) and in the form of attacks from spiritually evil forces (Eph. 6:11, 12). But from within us, human nature brings forth lust and sin, which lead to death (James 1:14, 15). That’s because the unregenerate heart is not of the Father but of the world (1 John 2:15, 16). Bible examples point to situations in which it seemed impossible for God’s promises to be fulfilled because of opposition from within and without. But the faithful remained steadfast in doing what God commanded, and they prevailed.
 
-2. Noah (Genesis 6): Noah and his family felt social pressure to conform to prevailing beliefs because their warnings of coming destruction by a flood of water went contrary to the fact that it had never rained. They were persecuted and mocked by those who had scientific knowledge at the time that contradicted the divine prediction. But faith doesn’t always rely on, nor is it always in line with, science or evidence.
+_2. Noah (Genesis 6):_ Noah and his family felt social pressure to conform to prevailing beliefs because their warnings of coming destruction by a flood of water went contrary to the fact that it had never rained. They were persecuted and mocked by those who had scientific knowledge at the time that contradicted the divine prediction. But faith doesn’t always rely on, nor is it always in line with, science or evidence.
 
 The world around Noah was not wrong regarding the natural signs. They simply did not believe in God’s revelation. The antediluvians laid their treasure (and hearts) in this earth, and it made the difference between life and death.
 
@@ -39,27 +39,27 @@ It is not enough to be right and in line with science and public opinion. It is 
 
 Noah and his family also must have suffered great psychological stress caused by the prevalent reaction and awareness of the imminent destruction of the planet. Noah was able to withstand the pressure only by stepping out in faith and obeying wholeheartedly the mission that God gave him.
 
-3. Abraham (Gen. 12:1–9): Abraham faced the unknown, separation from his family, and the dangers of nomadic life in his long sojourn. The “scientific” evidence was against his becoming the father of a great multitude, as the years went by and Sarah remained barren.
+_3. Abraham (Gen. 12:1–9):_ Abraham faced the unknown, separation from his family, and the dangers of nomadic life in his long sojourn. The “scientific” evidence was against his becoming the father of a great multitude, as the years went by and Sarah remained barren.
 
 Once again, we see an example of fear within and opposing evidence outside warring against God’s word. Ultimately, Abraham invested in the mission that God gave him. He laid his treasure in heaven, investing all in the work God gave him, and he became the father of a great multitude through Isaac’s miraculous birth.
 
-4. Moses (Exod. 3:1–4:16): Moses was timid but went to speak with the greatest ruler on earth; without an army, Moses went to demand the release of the Hebrew slaves. Without food or water, Moses crossed the desert with more than one million men, women, children, and animals. With a mere staff, Moses performed supernatural miracles that God empowered him to do. Rejecting the throne of the world’s superpower, Moses relinquished the greatest earthly fortune anyone could ever wish for and laid up treasure in heaven.
+_4. Moses (Exod. 3:1–4:16):_ Moses was timid but went to speak with the greatest ruler on earth; without an army, Moses went to demand the release of the Hebrew slaves. Without food or water, Moses crossed the desert with more than one million men, women, children, and animals. With a mere staff, Moses performed supernatural miracles that God empowered him to do. Rejecting the throne of the world’s superpower, Moses relinquished the greatest earthly fortune anyone could ever wish for and laid up treasure in heaven.
 
 **C. Examples of Bad Investments**
 
-1. Psychologically, people give priority to the immediate fulfillment of their desires and urgent needs, or to those needs and desires that are before their eyes. In reality, hope deferred discourages (Prov. 13:12). Therefore, patience is required to wait for the fulfillment of God’s promises according to His perfect timing (Rom. 8:25). Human beings tend to seek instant gratification, wanting to hasten the fulfillment of the promises and the attainment of their expectations.
+1\. Psychologically, people give priority to the immediate fulfillment of their desires and urgent needs, or to those needs and desires that are before their eyes. In reality, hope deferred discourages (Prov. 13:12). Therefore, patience is required to wait for the fulfillment of God’s promises according to His perfect timing (Rom. 8:25). Human beings tend to seek instant gratification, wanting to hasten the fulfillment of the promises and the attainment of their expectations.
 
 Jacob and Lot were shortsighted at certain points in their lives. As a result, they were forced to endure loss until they yielded all to Christ and accepted divine mercy.
 
 We don’t always have an immediate answer to our prayers, and things aren’t always the way we would like. The following counsel is fitting at such times: “Walk the narrow plank of faith. Trust all on the promises of the Lord. Trust God in darkness. That is the time to have faith.”—Ellen G. White, Testimonies for the Church, vol. 1, p. 167.
 
-2. God destined Jacob to become the inheritor of the covenant promises and blessings that were Esau’s by right of birth. Instead of trusting to providence to overrule the impediments to his destiny, Jacob agreed to his mother’s underhanded scheme to lie and steal the birthright blessing belonging to his brother (Genesis 27). Apart from the controlling power of faith, Jacob was a reckless opportunist who hastened to bring about, at any cost, the result he deemed beneficial. After Bethel (Gen. 28:11–22), Jacob was touched and transformed by the vision of the Ladder connecting heaven and earth (John 1:51). In the encounter at Jabbok (Gen. 32:24–29), after much weeping and supplication (Hos. 12:4, 5), he was given the name Israel. His name change commemorated his wrestling match with God and its victorious outcome. Jacob’s victory represents the experience of the saved.
+2\. God destined Jacob to become the inheritor of the covenant promises and blessings that were Esau’s by right of birth. Instead of trusting to providence to overrule the impediments to his destiny, Jacob agreed to his mother’s underhanded scheme to lie and steal the birthright blessing belonging to his brother (Genesis 27). Apart from the controlling power of faith, Jacob was a reckless opportunist who hastened to bring about, at any cost, the result he deemed beneficial. After Bethel (Gen. 28:11–22), Jacob was touched and transformed by the vision of the Ladder connecting heaven and earth (John 1:51). In the encounter at Jabbok (Gen. 32:24–29), after much weeping and supplication (Hos. 12:4, 5), he was given the name Israel. His name change commemorated his wrestling match with God and its victorious outcome. Jacob’s victory represents the experience of the saved.
 
-3. Ambitious Lot sought the promise of gain and of profit. He chose the city along the best trade route, with green plains and a large consumer market. He made his home in the wicked city of Sodom, abandoning the nomadic life of Abraham (Gen. 13:10–13). In the end, Lot lost all his material possessions and part of his family. His dreams of prosperity having shattered, he was forced to flee to the mountains with his two daughters because of his short-sighted choice (Gen. 19:15–30).
+3\. Ambitious Lot sought the promise of gain and of profit. He chose the city along the best trade route, with green plains and a large consumer market. He made his home in the wicked city of Sodom, abandoning the nomadic life of Abraham (Gen. 13:10–13). In the end, Lot lost all his material possessions and part of his family. His dreams of prosperity having shattered, he was forced to flee to the mountains with his two daughters because of his short-sighted choice (Gen. 19:15–30).
 
 Jesus’ appeal is still valid today: trust in Divine Providence and lay up treasure in heaven (Matt. 6:19–21). Invest in the preaching of the gospel while there is still time.
 
-“There is now a good opportunity for them to use their means for the bene­fit of suffering humanity and also for the advancement of the truth.”—Ellen G. White, Testimonies for the Church, vol. 1, p. 638.
+“There is now a good opportunity for them to use their means for the benefit of suffering humanity and also for the advancement of the truth.”—Ellen G. White, Testimonies for the Church, vol. 1, p. 638.
 
 #### Part III: Life Application
 
@@ -71,11 +71,11 @@ Ask a class member to read aloud the quotations below. Then discuss with your cl
 
 Pressure from circumstances led Lot and Jacob to seek success without waiting on God’s perfect timing.
 
-1.	What precautions should we take to avoid what happened to Lot and Jacob?
+`What precautions should we take to avoid what happened to Lot and Jacob?`
 
-2.	How does patience to wait on God, without anxiously seeking material security, foster faithfulness in tithes and offerings?
+`How does patience to wait on God, without anxiously seeking material security, foster faithfulness in tithes and offerings?`
 
-3.	Do you find yourself growing restless when you can’t immediately know the outcome of affairs? Why do you think that patiently enduring life’s uncertainties and waiting for God’s salvation is so difficult for many of us? How does impatience hinder faith (Heb. 11:1, 2, 6; Heb. 6:15; Heb. 10:36)? Why do you think that is so?
+`Do you find yourself growing restless when you can’t immediately know the outcome of affairs? Why do you think that patiently enduring life’s uncertainties and waiting for God’s salvation is so difficult for many of us? How does impatience hinder faith (Heb. 11:1, 2, 6; Heb. 6:15; Heb. 10:36)? Why do you think that is so?`
 
 **Faith and Works**
 
@@ -83,6 +83,8 @@ Pressure from circumstances led Lot and Jacob to seek success without waiting on
 
 Salvation is through faith (Eph. 2:8–10).
 
-1.	How does faithfulness in tithes, offerings, and helping those in need promote fellowship with God and reveal trust in His providence?
+`How does faithfulness in tithes, offerings, and helping those in need promote fellowship with God and reveal trust in His providence?`
 
-2.	How does faithfulness in tithes and offerings affect our faith?
+`How does faithfulness in tithes and offerings affect our faith?`
+
+`Notes`
