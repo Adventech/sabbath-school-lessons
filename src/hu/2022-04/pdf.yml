@@ -1,12 +1,75 @@
 ---
   pdf:
-    - src: 'https://bibliatanulmanyok.hu/tanulmanyok/letoltes.php?download=letoltes/2022-4.pdf'
-      target: hu/2022-04/lessons
-      title: Bibliatanulmány
-      start_date: 24/09/2022
-      end_date: 30/12/2022
-    - src: 'https://bibliatanulmanyok.hu/tanulmanyok/letoltes.php?download=letoltes/2022-4_tanitoi_melleklet.pdf'
-      target: hu/2022-04/teachers-comments
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-Intro.pdf
+      title: Intro
+      target: hu/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-01.pdf
+      target: hu/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-02.pdf
+      target: hu/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-03.pdf
+      target: hu/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-04.pdf
+      target: hu/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-05.pdf
+      target: hu/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-06.pdf
+      target: hu/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-07.pdf
+      target: hu/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-08.pdf
+      target: hu/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-09.pdf
+      target: hu/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-10.pdf
+      target: hu/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-11.pdf
+      target: hu/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-12.pdf
+      target: hu/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-13.pdf
+      target: hu/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-14.pdf
+      target: hu/2022-04/14
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-01.pdf
       title: Tanítói melléklet
-      start_date: 24/09/2022
-      end_date: 30/12/2022
+      target: hu/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-02.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-03.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-04.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-05.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-06.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-07.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-08.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-09.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-10.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-11.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-12.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-13.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2022-04/ABSG-2022-04-HU-TA-14.pdf
+      title: Tanítói melléklet
+      target: hu/2022-04/14

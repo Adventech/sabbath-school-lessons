@@ -1,0 +1,56 @@
+---
+title:  Material Pentru Instructori
+date:   23/12/2022
+---
+
+### I. Privire generală
+
+Dumnezeu este Judecătorul nostru (Isaia 35:4). În această calitate, El este imparțial în judecata Sa. Aceasta este o veste bună pentru noi. Ca ființe umane căzute, cu o gândire defectuoasă și cu o înclinație spre părtinire și prejudecată, tindem să îi vedem pe unii demni de cer, iar altora să le refuzăm intrarea acolo. Dumnezeu cunoaște inima, gândirea și motivațiile omului. Drept urmare, doar El poate rosti în dreptul fiecărei ființe umane o sentință imparțială și dreaptă.
+
+Prin judecățile Sale, Dumnezeu Își restaurează gloria și Își apără caracterul. El o face în mod deschis și consecvent pentru ca toți să știe cine este El (Psalmii 34:8). Dumnezeu vrea ca toate ființele inteligente din univers să Îi înțeleagă scopurile și să știe că El tratează răul în mod drept, că pe cei răi îi pedepsește în mod corespunzător și pe cei păcătoși îi salvează în mod corect (Ezechiel 18:21,23,32; 33:11; Romani 3:21-26). În raport cu judecata lui Dumnezeu, Evanghelia se concentrează asupra salvării păcătoșilor care se pocăiesc și prezintă astfel vestea bună despre Dumnezeul iubirii care, în virtutea sentimentelor Lui, judecă și aduce o soluție de durată la problema morții, suferinței, durerii, nedreptății și violenței, ce reprezintă urmările păcatului (Romani 6:23; 2 Tesaloniceni 1:9; Apocalipsa 21:3,4).
+
+În final, Dumnezeu va restaura pe deplin armonia și pacea în întregul univers (Efeseni 1:10). Răul și oricine sau orice se asociază cu el vor fi eliminați și distruși (Matei 25:41,46; Apocalipsa 20:13-15). Toți aceia care s-au supus total și de bunăvoie lui Dumnezeu, recunoscându-L drept Creator, Răscumpărător, Domn și Împărat al lor vor primi viața veșnică, Îl vor sluji și I se vor închina cu bucurie pe vecie (Exodul 34:6,7; Daniel 7:14,27; Naum 1:7; Ioan 3:16,17; Efeseni 1:4-10; Filipeni 2:10,11; Apocalipsa 15:3,4). Astfel, viața de la început, plină de bucurie și pace, va fi restaurată și niciodată nu va mai fi tulburată de vreo formă de neascultare sau revoltă (Naum 1:9; Ioan 10:10; Romani 2:7; 1 Timotei 1:16;
+2 Timotei 4:7,8; Tit 2:11-14).
+
+### II. Comentariu
+**Judecata primordială și cosmică de la cruce**
+
+În găsirea unei soluții la problema păcatului, Dumnezeu este un
+mare specialist. Moartea lui Isus pe cruce constituie miezul soluției.
+
+Evenimentul de la cruce atestă anumite dovezi și judecăți: (1) Dumnezeu a fost reabilitat, dezvinovățit – Golgota dovedește că Dumnezeu este Dumnezeul iubirii, al adevărului, al dreptății, al sfințeniei, al ordinii și al libertății, precum și Garantul păcii, bucuriei și al prosperității (Psalmii 51:4; Ioan 3:16; Romani 3:21-26); (2) Satana a fost judecat și condamnat (Ioan 16:11; Evrei 2:14); (3) păcatul a fost judecat și condamnat (Romani 8:3); (4) oamenii au fost judecați, iar Domnul Isus a luat condamnarea lor asupra Lui (Isaia 53:4-6; 2 Corinteni 5:21; Galateni 3:13) și acelora care L-au acceptat pe Hristos ca Mântuitor personal li s-a dat posibilitatea să trăiască veșnic (1 Ioan 5:12,13). Dumnezeu vrea ca fiecare om să trăiască (Ezechiel 18:30-32; 1 Timotei 2:2,3).
+
+**Judecata anterioară revenirii (preadventă), sau judecata de cercetare**
+
+Biblia atestă că, atunci când Dumnezeu convoacă tribunalul ceresc
+înainte de a doua venire a lui Isus (Daniel 7:9,10,13,14,22,26,27; Apocalipsa 11:19; 14:7; compară cu Matei 22:1-14), scopul principal va fi acela de a ne asigura din punct de vedere legal și veșnic locul nostru în cadrul familiei cerești. Versetele 2 și 3 din Ioan 14 ne asigură că Isus nu ne construiește locuințele în ceruri în calitate de maistru constructor, clădindu-ne niște case frumoase (ar putea face acest lucru într-o clipă), ci El ne asigură din punct de vedere legal locul în ceruri înaintea reprezentanților întregului univers. Această procedură legală necesită mult timp, după cum este dovedit în Daniel 7:9,10,13,14,22,26,27. În calitate de Martor adevărat, Isus va prezenta în mod corect cazul fiecăruia dintre noi și va proclama în fața universului că noi, în calitate de credincioși în El, suntem ai Lui, că am acceptat moartea Lui ca să ne curețe de păcat, că harul Lui ne este suficient și că puterea harului Său acționează în noi.
+
+Isus ne garantează salvarea în mod legal, deschis, public și, de asemenea, în mod transparent înaintea tuturor locuitorilor universului, astfel încât nimeni, în toată veșnicia, să nu mai ridice problema că ceva s-ar fi făcut în secret sau cu părtinire. Isus spune clar că cei mântuiți sunt oameni demni de încredere și că se integrează bine în familia cerească, fiindcă harul uimitor al lui Dumnezeu este un har transformator, care îi schimbă. Dumnezeu vrea ca noi să fim acceptați în cer fără niciun dubiu sau semn de întrebare.
+
+Prin urmare, dată fiind natura acestei judecăți de cercetare, ea ar putea fi numită și „judecată de confirmare”, care adeverește, sigilează, validează ce a fost făcut în timpul vieții fiecărui om. Judecata de confirmare este o recunoaștere a deciziilor luate în timpul vieții.
+
+Pot fi folosiți mai mulți termeni pentru a explica diversele aspecte ale judecății desfășurate înainte de a doua venire a lui Isus: (1) judecată de confirmare – mai ales din perspectiva celor răscumpărați, fiindcă Isus ia cazul fiecăruia dintre ei și confirmă în fața universului relația lor cu El; (2) judecată revelatoare, fiindcă Isus dezvăluie înaintea întregii familii cerești cine sunt adevărații urmași ai lui Dumnezeu și îl demască pe antihrist, care se dă drept Dumnezeu și agentul Lui de salvare; (3) judecată demonstrativă – Dumnezeu le prezintă dovezi ființelor cerești și le arată care au fost atitudinile noastre față de El și de Legea Sa, față de oameni, de natură și față de păcat și le și explică modul în care El tratează păcatul, răul, pe diavol și pe toți cei care l-au urmat pe Satana; (4) judecată de cercetare – îngerii și ființele cerești au nevoie de această judecată pentru a dobândi noi perspective asupra marii lupte și a motivului pentru care Dumnezeu îi salvează pe unii, iar pe alții nu îi primește în cer. În acest fel sunt deschise cărțile pentru locuitorii cerului (Daniel 7:10), demonstrând imparțialitatea deciziilor lui
+Dumnezeu.
+
+Judecata preadventă nu pronunță o nouă sentință, contrară a ceea ce trăim noi în viața de zi cu zi. Isus va confirma acțiunea mântuitoare a lui Dumnezeu sau condamnarea în dreptul fiecărei persoane. Nu trebuie să ne temem de judecata de cercetare realizată de Dumnezeu, fiindcă în cadrul acestei judecăți El validează, scoate la lumină și demonstrează lumii cerești deciziile pe care noi le-am luat de partea Lui în timpul vieții. El nu va adăuga nimic altceva la deciziile noastre și nici nu le va schimba. Ca Unul care este credincios și drept, El declară solemn în dreptul poporului Său că suntem ai Lui (Romani 8:31; Apocalipsa 3:14).
+
+**Ultima judecată, sau judecata nimicitoare**
+
+Judecata finală de pe pământ are loc la sfârșitul celor o mie de ani, când cei nelegiuiți vor fi înviați. Ei se vor aduna pentru a-L ataca pe Dumnezeu și poporul Său în Noul Ierusalim (Apocalipsa 20:7-10; 21:1-3). Dumnezeu Însuși va sta pe marele tron alb și va judeca toate ființele pe care le-a creat și care nu s-au pocăit (Apocalipsa 20:11,12). În lumina crucii, se va derula istoria păcatului și a mântuirii. Va fi prezentată fiecare fază a răzvrătirii împotriva lui Dumnezeu, precum și minunatul Său plan de răscumpărare – de la începutul revoltei lui Satana în cer la sacrificiul suprem al lui Isus pe cruce și până la victoria finală la a doua Sa venire. De asemenea, toți cei nelegiuiți își vor vedea propria viață în lumina crucii.
+
+Crucea lui Isus va fi înălțată deasupra tronului lui Dumnezeu, după cum afirmă Ellen G. White: „Deasupra tronului se dezvăluie crucea. Ca într-o panoramă, apar scenele ispitirii și căderii lui Adam și etapele succesive ale marelui plan de răscumpărare” (Tragedia veacurilor, p. 666). Cei nelegiuiți vor vedea ce a făcut Dumnezeu pentru salvarea lor, câte șanse au respins, cât de mult au disprețuit harul Său în mândria și ignoranța lor. Încăpățânarea și indiferența lor vor fi foarte bine demascate și ei vor vedea adevărata natură a răzvrătirii lor.
+
+Satana îi va conduce pe toți păcătoșii într-un ultim atac disperat asupra Sfintei Cetăți. Caracterul lor ticălos se va manifesta și va fi dovedit încă o dată. Chiar și cele mai bune cunoștințe despre Dumnezeu, despre caracterul și acțiunile Sale nu vor schimba aceste ființe. Acești oameni sunt cu desăvârșire răi. Există doar o singură soluție: anihilarea răului în toate formele lui. Foc din cer va cădea și va pune capăt definitiv păcatului, răului și rebeliunii pentru totdeauna (Apocalipsa 20:9,10). Acest foc purificator va constitui judecata nimicitoare, moartea definitivă, veșnică, ireversibilă. Nu mai există speranță pentru cei care L-au respins pe Isus ca Mântuitor personal și au continuat în atitudinea lor de încăpățânare. Le stătea în fire să distrugă. Prin urmare, din dragoste, Dumnezeu trebuie să-i distrugă pe acești distrugători. Natura acestei judecăți este executarea sentinței. Dumnezeu trebuie să reacționeze la comportamentul distructiv al oamenilor nepocăiți, al îngerilor răi și al diavolului. Dacă nu ar avea nicio reacție, răul ar triumfa și viața ar fi pusă în pericol și în cele din urmă eradicată. Păcatul, păcătoșii și diavolul cu îngerii lui vor fi anihilați și pământul va fi curățat de rău (Apocalipsa 20:9,13-15; compară cu 2 Petru 3:7,10-13).
+
+După ce va reteza partea bolnavă și păcătoasă fără șansă de vindecare, Dumnezeu va acționa în calitate de Re-creator al vieții. El va crea un cer nou și un pământ nou (Apocalipsa 21 – 22). Mântuirea și viața vor fi asigurate de-a lungul veșniciei. Păcatul nu va mai apărea niciodată. Toate ființele inteligente din univers Îi vor sluji lui Dumnezeu cu devotament și din dragoste și recunoștință, deoarece vor cunoaște bunătatea, iubirea, dreptatea și adevărul lui Dumnezeu. Iubirea, pacea, armonia, bucuria, dreptatea, libertatea, ordinea și adevărul vor domni veșnic. Dumnezeu, în calitate de Domn al domnilor și Împărat al Imparatilor, va fi iubit, admirat, urmat, ascultat și adorat pentru întreaga eternitate de către oricine (Daniel 7:27; Apocalipsa 21 – 22).
+
+Astfel, teologia despre judecata lui Dumnezeu este revelația și demonstrația supremă a iubirii, adevărului și dreptății lui Dumnezeu (Filipeni 2:10,11; Apocalipsa 15:2-4). Modul de guvernare al lui Dumnezeu este transparent; căile Lui sunt învederate și dovedite corecte și drepte. Dumnezeu este corect când îi îndreptățește pe păcătoșii care L-au acceptat, s-au încrezut în El ca Mântuitor personal și au spus „nu” păcatului, nelegiuirii, lui Satana și îngerilor căzuți.
+
+### III. Aplicație
+
+**1** De ce judecata lui Dumnezeu este atât de necesară și esențială în contextul marii lupte și al interesului manifestat de univers în problematica
+păcatului?
+
+**2** Cum deosebim judecățile divine cu implicații pozitive de cele cu implicații negative?
+
+**3** Cum trăim în așteptarea judecății lui Dumnezeu fără a fi speriați de ea?

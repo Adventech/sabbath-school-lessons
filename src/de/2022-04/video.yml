@@ -1,0 +1,32 @@
+---
+  video:
+    - artist: die BIBEL. das LEBEN.
+      clips:
+        - src: https://hopechannel.de/fileadmin/videos/2022/DEU_HCTV_0174_0511_013730_20220925_1_m.mp4
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_0174_0511_wo-tod-herkommt_johannes-feldmann_75244fb71c.jpg
+        - src: https://hopechannel.de/fileadmin/videos/2022/DEU_HCTV_0174_0512_013730_20221002_1_m.mp4
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/koerper-seele-geist/-/60020654/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/fruehe-hoffnung/-/60020674/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/tote-werden-lebendig/-/60020709/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/ein-tod-bringt-leben/-/60020777/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/die-auferstehung-5/-/60020790/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/darum-hoffen-wir/-/60020798/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/missverstaendnisse-aufklaeren-1/-/60020803/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/die-hoellenluege-1/-/60020821/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/falsche-versprechen-1/-/60020854/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/sinnvoll-leben-1/-/60020884/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/gottes-rechtsprechung-1/-/60020886/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
+        - src: https://hopetv.de/mediathek/media/ml/die-bibel-das-leben-1/die-bibel-das-leben-s01-ep-525-sondersendung-zum-abschied/-/60020890/-/-/-/-/-/-/1/1/
+          thumbnail: https://www.diebibel-dasleben.de/fileadmin/_processed_/csm_2020-04_dbdl_0b5658fce2.jpg
