@@ -721,7 +721,7 @@ let dayAPI = async function () {
     }
 
     if (/src\/([a-z]{2,3})\/2023-01/img.test(dayId)) {
-      let disclaimer = "Disclaimer: Contents of these lessons are not intended to be financial advice but is general commentary based on biblical principles. The reader is encouraged to seek competent professional advice which will suit their particular personal situation."
+      let disclaimer = "<p><small>Disclaimer: Contents of these lessons are not intended to be financial advice but is general commentary based on biblical principles. The reader is encouraged to seek competent professional advice which will suit their particular personal situation.</small></p>"
       read.content = read.content + disclaimer;
       resultRead = `\n\n${disclaimer}\n\n${resultRead}`;
     }
