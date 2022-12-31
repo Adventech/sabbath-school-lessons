@@ -720,6 +720,12 @@ let dayAPI = async function () {
       resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
     }
 
+    if (/src\/([a-z]{2,3})\/2023-01/img.test(dayId)) {
+      let disclaimer = "Disclaimer: Contents of these lessons are not intended to be financial advice but is general commentary based on biblical principles. The reader is encouraged to seek competent professional advice which will suit their particular personal situation."
+      read.content = read.content + disclaimer;
+      resultRead = `\n\n${disclaimer}\n\n${resultRead}`;
+    }
+
     // Firebase
     await db.ref(FIREBASE_DATABASE_READ).child(read.index).set(read);
 
