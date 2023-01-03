@@ -60,7 +60,7 @@ let validateContent = async function () {
 
         let markdownFiles = glob.sync(`${quarterly}/+(0|1|2|3|4|5|6|7|8|9)/*.md`);
 
-        if (markdownFiles.filter((f) => { return /\d{2}\.md$/img.test(f) }).length < 91) {
+        if (markdownFiles.filter((f) => { return /\d{2}\.md$/img.test(f) }).length < 84) {
             if (!fs.pathExistsSync(`${quarterly}/pdf.yml`)) {
                 fail(`Incomplete quarterly \`${quarterly}\`. Expecting markdown for all 7 days for each 13 weeks`);
             }

@@ -3,9 +3,9 @@ title:  Bacaan Persembahan
 date:   30/09/2022
 ---
 
-## Berbuah.
+### Berbuah.
 
-> <p>Ayat Tema</p> 
+> **<p>Ayat Tema</p>** 
 > “Tinggallah di dalam Aku dan Aku di dalam kamu. Sama seperti ranting tidak dapat berbuah dari dirinya sendiri, kalau ia tidak tinggal pada pokok anggur, demikian juga kamu tidak berbuah, jikalau kamu tidak tinggal di dalam Aku.” (Yohanes 15: 4)
 
 Kita menyembah Tuhan melalui harta kita sebagai tanggapan atas panggilan untuk menghasilkan buah. Yohanes Pembaptis mengimbau mereka yang datang kepadanya untuk dibaptis, “Hasilkan buah yang sesuai dengan pertobatan” _(Mat. 3: 8)._ Bagi Yohanes, baptisan dan menjadi bagian dari umat Allah saja tidak cukup. Injil Lukas membagikan beberapa contoh konkret tentang “buah pertobatan” yang diberikan Yohanes Pembaptis kepada mereka yang datang kepadanya. Dia meminta pemungut cukai untuk tidak memungut lebih dari yang seharusnya. Dia mendesak para prajurit untuk tidak “memeras uang” dan “merasa puas dengan gaji mereka.” Dan dia memerintahkan orang banyak untuk berbagi baju dan makanan kepada mereka yang tidak memiliki _(Luk. 3: 10–14)._ Contoh-contoh yang dilaporkan oleh Lukas ini memiliki kesamaan; terkait dengan sikap seseorang terhadap keuangan dan harta benda. Buah pertobatan terdiri dari cara kita berhati-hati dalam menggunakan harta kita untuk memberkati orang lain.

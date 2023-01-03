@@ -1,0 +1,14 @@
+---
+  video:
+    - artist: Hope Sabbath School
+      clips:
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_33O0ldvawCD/v/jsv_vLyKDyejG9N/jsv_vLyKDyejG9N-jsren_UFthH0quKBD-360p.mp4
+          thumbnail: https://images.hopeplatform.org/resize/L3c6Mzg0LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL0xuTTE2NzE1OTUyMjY2MDguanBn/w:384,q:75/hope-images/620e23d4c49d64006595c192/LnM1671595226608.jpg
+    - artist: It Is Written
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-01-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-01-01.webp
+    - artist: Sabbath School Talking Points
+      clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-01-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-01-01.webp
