@@ -1,0 +1,28 @@
+---
+  default:
+    name: "成人学课"
+    order: 100
+  inv:
+    name: "深入人心"
+    order: 200
+  cc:
+    name: "房角石"
+    order: 300
+  pp:
+    name: "少年学课"
+    order: 400
+  pr:
+    name: "高级学课"
+    order: 500
+  kd:
+    name: "中级学课"
+    order: 600
+  bg:
+    name: "初级学课"
+    order: 700
+  hant:
+    name: "成人學課"
+    order: 110
+  hant-inv:
+    name: "深入人心"
+    order: 210
