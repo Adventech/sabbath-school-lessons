@@ -125,6 +125,10 @@ renderer.codespan = function (text) {
   return '<code>' + ent.decode(text) + '</code>';
 };
 
+renderer.image = function (href, title, text) {
+  return `<img alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
+}
+
 let slug = function (input) {
   return input.toLowerCase().replace(/ /g, "-")
 };
@@ -406,8 +410,8 @@ let getLessonJSON = function (lessonPath, pdf, pdfPath) {
 };
 
 let getDayJSON = function (dayPath, deep) {
-  let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer}),
-      info = getInfoFromPath(dayPath);
+  let info = getInfoFromPath(dayPath);
+  let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer, baseUrl: `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/`});
 
   let day = _day.meta;
   day.id = info.day;
@@ -713,7 +717,8 @@ let dayAPI = async function () {
       }]
     }
 
-    read.content = metaMarked(resultRead, {renderer: renderer}).html;
+    read.content = metaMarked(resultRead, {renderer: renderer,
+      baseUrl: `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/`}).html;
 
     if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId))) {
       read.content = donationNotice[info.language] + read.content;
