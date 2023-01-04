@@ -126,7 +126,7 @@ renderer.codespan = function (text) {
 };
 
 renderer.image = function (href, title, text) {
-  return `<img alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
+  return `<img style="max-width:100%" alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
 }
 
 let slug = function (input) {
