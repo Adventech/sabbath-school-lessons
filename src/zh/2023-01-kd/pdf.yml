@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-INTRO.pdf'
+      target: zh/2023-01-kd/introduction
+      title: 简介
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH1.pdf'
+      target: zh/2023-01-kd/01
+      title: 像我一样的孩子
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH2.pdf'
+      target: zh/2023-01-kd/02
+      title: 爸爸的好帮手
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH3.pdf'
+      target: zh/2023-01-kd/03
+      title: 走失与寻回
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH4.pdf'
+      target: zh/2023-01-kd/04
+      title: 世界万物的朋友
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH5.pdf'
+      target: zh/2023-01-kd/05
+      title: 让他们来！
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH6.pdf'
+      target: zh/2023-01-kd/06
+      title: 太矮了，看不见！
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH7.pdf'
+      target: zh/2023-01-kd/07
+      title: “谁是你的邻舍？”
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH8.pdf'
+      target: zh/2023-01-kd/08
+      title: “拉撒路，出来吧！”
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH9.pdf'
+      target: zh/2023-01-kd/09
+      title: 赞美的队伍
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH10.pdf'
+      target: zh/2023-01-kd/10
+      title: 不平凡的晚餐
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH11.pdf'
+      target: zh/2023-01-kd/11
+      title: 耶稣爱我
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH12.pdf'
+      target: zh/2023-01-kd/12
+      title: 祂活着！
+      start_date: 18/03/2023
+      end_date: 24/03/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-CH13.pdf'
+      target: zh/2023-01-kd/13
+      title: 在云中降临
+      start_date: 25/03/2023
+      end_date: 31/03/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Kindergarten/K-B-Q1-S-ACTIVITY.pdf'
+      target: zh/2023-01-kd/activities
+      title: 活动
+      start_date: 25/03/2023
+      end_date: 31/03/2023
