@@ -1,0 +1,10 @@
+---
+  default:
+    name: "成人學課"
+    order: 100
+  inv:
+    name: "深入人心"
+    order: 200
+  cc:
+    name: "房角石"
+    order: 300
