@@ -34,11 +34,11 @@
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q1/2023_Q1_02-5.mp3
           target: cs/2023-01/02/05
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q1/2023_Q1_02-6.mp3
-          target: cs/2023-04/02/06
+          target: cs/2023-01/02/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q1/2023_Q1_02-7.mp3
-          target: cs/2023-04/02/07
+          target: cs/2023-01/02/07
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q1/2023_Q1_02-inside-story.mp3
-          target: cs/2023-04/02/inside-story
+          target: cs/2023-01/02/inside-story
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_02-6.mp3
           target: cs/2023-01/02/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2022_Q4/2022_Q4_02-7.mp3
