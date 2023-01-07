@@ -16,4 +16,4 @@ Boží rada ústy moudrého Šalomouna zní: „Cti Hospodina ze svého majetku 
 
 Žijeme ve velmi náročném období lidských dějin, které je naplněno utrpením a nejistotou. Náš biblický pohled nám však dává důvěru a naději. Když vidíme znamení, o kterých mluvil Ježíš, poznáváme, že velké vyvrcholení dějin v podobě druhého příchodu Krista je velmi blízko – dokonce přede dveřmi. Modlíme se, aby tyto praktické lekce prohloubily vaši víru a důvěru v Boha a povzbudily vás, abyste byli jeho věrnými správci.
 
-G. Edward Reid je vysvěcený kazatel a také právník, který dlouhá léta působil jako vedoucí oddělení správcovství v Severoamerické divizi.) a výboru Výzkumného institutu GRICOM. Dříve působil jako prezident Latinsko-amerického adventistického teologického semináře (LATS)._
+_G. Edward Reid je vysvěcený kazatel a také právník, který dlouhá léta působil jako vedoucí oddělení správcovství v Severoamerické divizi._
