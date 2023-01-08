@@ -1,0 +1,19 @@
+### Johdanto
+
+#### Herran taloudenhoitajana – kunnes hän saapuu
+
+Meidän on vaikea täysin käsittää, millaisen suhteen Jumalamme, maailmankaikkeuden Luoja, haluaa meihin ihmisiin. Jo pelkkä ajatus tällaisen suhteen olemassaolosta on hämmästyttävä! ”Katsokaa, kuinka suurta rakkautta Isä on meille osoittanut: me olemme saaneet Jumalan lapsen nimen – –.” (1. Joh. 3:1.) Tai kuten Ellen G. White kirjoittaa: ”Voiko mikään ihmisen saama arvoasema olla tämän veroinen? Voiko meillä olla korkeampaa asemaa kuin se, että meitä kutsutaan äärettömän Jumalan lapsiksi? – – Voiko mikään maallinen kunnia vetää tälle vertoja?” (AG 341.) Vain tämän synnintäyteisen maailman pimeys estää sen, ettemme pysty täysin arvostamaan asemaa, joka meille on annettu Jeesuksessa.
+
+Niin se on. Jos emme ole tarkkoina, tämän maailman houkutukset ja asiat vetävät meidät pois Kristuksesta. Jumalan sana varoittaa meitä Paholaisen kiusauksista ja viettelyksistä. ”Ne, jotka tahtovat rikastua, joutuvat kiusaukseen ja lankeavat ansaan, monenlaisten järjettömien ja vahingollisten halujen valtaan, jotka syöksevät ihmiset tuhoon ja perikatoon. Rahanhimo on kaiken pahan alkujuuri. Rahaa havitellessaan monet ovat eksyneet pois uskosta ja tuottaneet itselleen monenlaista kärsimystä.” (1. Tim. 6:9, 10.)
+
+Herra antaa meille kuitenkin ohjeita siihen, miten ansaita rahaa ja käyttää sitä viisaasti niin, ettei se pääse syöksemään meitä, kuten Paavali varoitti, tuhoon ja perikatoon. Niissä yli 2 000 raamatunjakeessa, jotka käsittelevät rahaa ja omaisuutta ja meidän asennettamme niihin, Jumala antaa käytännöllisiä ohjeita siitä, kuinka voimme elää elämän huolien yläpuolella ja hallita uskollisesti kaikkea sitä, mitä meille on annettu.
+
+Tämän neljänneksen tutkisteluissa perehdymme Jumalan ihanteisiin suhteessamme häneen, ja meille selviää, kuinka voimme kehittää niin syvän luottamuksen, että pysymme hänelle uskollisina myös silloin, kun emme voi ostaa emmekä myydä (ks. Ilm. 13:17). Tällainen usko ei synny yhdessä yössä; huolehtimalla uskollisesti siitä, mitä Jumala on antanut meille, voimme olla jo nyt valmiita kaikkeen, mitä sitten kohtaammekin.
+
+Jumala on kaikkien resurssien hallitsija, ja kun työskentelemme hänen kanssaan, hän antaa meidän hoitaa niitä hänen puolestaan. Pelastajan tarkoitus on, että puhdistetut ja pyhitetyt ihmiset ovat hänen apukäsiään. Kiittäkäämme tästä suuresta etuoikeudesta häntä, joka on ”pelastanut meidät pimeyden vallasta ja siirtänyt meidät rakkaan Poikansa valtakuntaan, hänen, joka on meidän lunastuksemme, syntiemme anteeksianto” (Kol. 1:13, 14).
+
+Jumala neuvoo viisaan Salomon kautta lapsiaan: ”Siitä, mitä omistat, anna Herran kunniaksi uhrit, kaikesta sadostasi paras osa.” (Sananl. 3:9.) Tämä neuvo on sattuva, koska ”Herra, meidän Jumalamme! Sinä olet arvollinen saamaan ylistyksen, kunnian ja vallan, sillä sinä olet luonut kaiken. Kaikki, mikä on olemassa, on sinun tahdostasi luotu.” (Ilm. 4:11.)
+
+Ihan maallisestakin näkökulmasta katsottuna me elämme hyvin haastavia ja stressaavia aikoja. Kristillinen maailmankatsomuksemme antaa meille kuitenkin luottamusta ja toivoa, kun näemme ne merkit, joista Jeesus kertoi meidän pystyvän ennakoimaan ihmiskunnan historian suuren huipentuman, Jeesuksen toisen tulemisen, olevan hyvin lähellä – aivan oven edessä. Rukoilemme, että nämä käytännönläheiset tutkistelut voivat syventää meidän uskoamme ja luottamustamme Jumalaan ja rohkaista meitä olemaan hänen uskollisia taloudenhoitajiaan.
+
+_G. Edward Reid, teologian maisteri (Andrews University), kansanterveystieteen maisteri (Loma Linda University), oikeustieteen tohtori (Georgia State University), on vihitty pastori ja laillistettu asianajaja, joka palveli useiden vuosien ajan Pohjois-Amerikan osaston kristillisen vastuun johtajana._
