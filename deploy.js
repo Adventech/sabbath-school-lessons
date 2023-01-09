@@ -48,7 +48,7 @@ let donationNotice = {
     "</div>"
 }
 
-let egwTemplate = function(title, text) {
+let getAdditionalReadingHtml = function(title, text) {
   return `\n\n---\n\n<div style="display: none" class="ss-donation-appeal">
 <div class="ss-donation-appeal-title">
 <p>${title}</p>
@@ -62,12 +62,18 @@ ${text}
 `
 }
 
-let egwTitles = {
+let additionalReadingTitles = {
   "en": {
     title: "Additional Reading: Selected Quotes from Ellen G. White",
     final: "Supplemental EGW Notes",
     pppCopyright: "<small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small>",
     regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
+  },
+  "mk": {
+    title: "Додаток: Утрински стих",
+    final: "Утрински стих",
+    pppCopyright: "",
+    regex: "---\n+#{2,} Додаток: Утрински стих"
   }
 }
 
@@ -657,14 +663,14 @@ let dayAPI = async function () {
 
       resultRead = day.markdown;
 
-      if (egwTitles[info.language]) {
-        let egwRegexTitle = new RegExp(egwTitles[info.language].regex, "img"),
-            egwRegexFull = new RegExp(`${egwTitles[info.language].regex}(.*\n?)+`, "img")
+      if (additionalReadingTitles[info.language]) {
+        let additionalReadingRegex = new RegExp(additionalReadingTitles[info.language].regex, "img"),
+            additionalReadingFull = new RegExp(`${additionalReadingTitles[info.language].regex}(.*\n?)+`, "img")
 
-        if (egwRegexTitle.test(resultRead)) {
-          let egwComments = resultRead.match(egwRegexFull)[0].replace(egwRegexTitle, "").trim()
-          resultRead = resultRead.replace(egwRegexFull, "").trim()
-          resultRead += egwTemplate(egwTitles[info.language].final, `${egwComments}\n\n${egwTitles[info.language].pppCopyright}`)
+        if (additionalReadingRegex.test(resultRead)) {
+          let additionalReadingComments = resultRead.match(additionalReadingFull)[0].replace(additionalReadingRegex, "").trim()
+          resultRead = resultRead.replace(additionalReadingFull, "").trim()
+          resultRead += getAdditionalReadingHtml(additionalReadingTitles[info.language].final, `${additionalReadingComments}\n\n${additionalReadingTitles[info.language].pppCopyright}`)
         }
       }
 
