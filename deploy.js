@@ -71,6 +71,19 @@ let egwTitles = {
   }
 }
 
+let tquestionsTitles = {
+  "cs": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+  },
+  "sk": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+  }
+}
+
 let firebase = require("firebase-admin"),
     glob = require("glob"),
     yamljs = require("js-yaml"),
@@ -667,6 +680,18 @@ let dayAPI = async function () {
           resultRead += egwTemplate(egwTitles[info.language].final, `${egwComments}\n\n${egwTitles[info.language].pppCopyright}`)
         }
       }
+
+      if (tquestionsTitles[info.language]) {
+        let tqRegexTitle = new RegExp(tquestionsTitles[info.language].regex, "img"),
+            tqRegexFull = new RegExp(`${tquestionsTitles[info.language].regex}(.*(\r?\n)?)+`, "img")
+
+        if (tqRegexTitle.test(resultRead)) {
+          let tQuestions = resultRead.match(tqRegexFull)[0].replace(tqRegexTitle, "").trim()
+          resultRead = resultRead.replace(tqRegexFull, "").trim()
+          resultRead += egwTemplate(tquestionsTitles[info.language].final, `${tQuestions}`)
+        }
+      }
+      
 
       if (bibleVersion.version) {
         language = bibleVersion.lang;
