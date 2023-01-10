@@ -1,6 +1,6 @@
 ---
-title:  IMIRONGO IVUGA IBIHABANYE?
-date:   19/11/2022
+title:  Inside Story
+date:   06/01/2023
 ---
 
 ### <center>Turacyari gukora aya migisho</center>
