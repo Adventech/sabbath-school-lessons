@@ -4,3 +4,5 @@
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-01-01.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-01-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-01-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-01-02.webp
