@@ -74,6 +74,18 @@ let additionalReadingTitles = {
     final: "Утрински стих",
     pppCopyright: "",
     regex: "---\n+#{2,} Додаток: Утрински стих"
+  },
+  "cs": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+  },
+  "sk": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
   }
 }
 
