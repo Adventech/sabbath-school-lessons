@@ -3,20 +3,20 @@ title:  Misijný príbeh
 date:   13/01/2023
 ---
 
-#### Uzavření dohody s Bohem
+#### Dohoda s Bohom
 
 _Andrew McChesney_
 
-Dmitriji Bagalovi, studentovi z Ruska, došly peníze několik měsíců po zápisu do magisterského studia teologie na Adventistické univerzitě ve Friedensau v Německu. Jeho možnosti se zdály být omezené. Mohl pracovat v kampusu nebo v nedalekém domově důchodců, ale příjem by pokryl školné jen částečně. Jako cizinec si nemohl vzít státní půjčku jako němečtí studenti. Mohl však požádat o stipendium, které bylo nižší než půjčka, ale nevyžadovalo splácení.
+Dmitrijovi Bagalovi, študentovi z Ruska, došli peniaze niekoľko mesiacov po zápise do magisterského teologického programu na Friedensau Adventist University v Nemecku. Zdalo sa, že jeho možnosti sú obmedzené. Mohol pracovať v škole alebo v neďalekom domove dôchodcov, ale príjem by len sčasti pokryl jeho školné. Ako cudzinec si nemohol vziať pôžičku od štátu, ako nemeckí študenti. Mohol však požiadať o štipendium, ktoré bolo síce menšie ako pôžička, ale nemusel to potom splácať.
 
-Když se Dmitrij v tomto dilematu modlil, měl silný pocit, že by měl uzavřít dohodu s Bohem. "Pane," modlil se, "pokud mi požehnáš tímto stipendiem, slibuji, že si odložím druhý desátek na podporu misijní práce."
+Keď Dmitrij riešil túto dilemu a modlil sa za to, cítil, že by mal urobiť s Bohom dohodu. "Pane," modlil sa, "ak mi požehnáš toto štipendium, sľubujem, že budem dávať druhý desiatok na podporu misie."
 
-Dmitrij o stipendium požádal a k jeho radosti mu bylo schváleno. Začal odkládat druhých 10 % svého hrubého příjmu na misijní práci. Jak se semestry střídaly, stipendium mu bylo znovu a znovu schvalováno a on stále odváděl druhý desátek na misijní práci. I přes druhý desátek mu vždy nějakým způsobem zbylo dost peněz na pokrytí školného a dalších výdajů. Dokonce si dokázal odkládat peníze stranou pro případ nouze.
+Dmitrij požiadal o štipendium a bolo mu schválené. Veľmi sa z toho tešil. Začal odkladať druhých desať percent zo svojho hrubého príjmu na misiu. Štipendium mu bolo v ďalších semestroch stále obnovované a on stále dával druhý desiatok na misijnú prácu. Napriek tomu, že odovzdával druhý desiatok, stále mu zostalo dosť peňazí na školné a ďalšie výdavky. Dokonca si mohol aj odložiť nejaké peniaze pre prípad núdze.
 
-Pak začal Dmitrijův pět let starý notebook zlobit, když pracoval na své magisterské práci. Dvakrát si musel koupit náhradní díly, aby si ho opravil sám. Jednoho dne zjistil, že už nemůže zavřít obrazovku notebooku. Panty se odmítaly pohnout. Pokud chtěl mít šanci diplomovou práci dokončit, potřeboval nový notebook. Byl rád, že má malý nouzový fond.
+Keď Dmitrij pracoval na svojej magisterskej práci, začal mu zlyhávať päť rokov starý notebook. Dvakrát si musel kúpiť náhradné diely a opraviť si ho. Jedného dňa zistil, že sa už nedá zavrieť. Pánty sa nechceli pohnúť. Aby dokončil svoju diplomovú prácu, potreboval nový notebook. Vtedy bol veľmi rád, že má niečo našetrené.
 
-Když se však za tuto situaci modlil, vzpomněl si na svého přítele, rovněž z bývalého Sovětského svazu, který se svou pětičlennou rodinou sloužil jako misionář v jihoamerické džungli. Vysoká vlhkost zničila jeho příteli tablet a pro další práci nutně potřeboval odolné zařízení. Dmitrij nechápal, proč myslí na svého přítele v Jižní Americe, když právě on potřebuje notebook k absolvování studia. Koupil však voděodolný a prachuvzdorný notebook a poslal ho kamarádovi poštou.
+Keď sa za túto situáciu modlil, spomenul si na priateľa, tiež z bývalého Sovietskeho zväzu, ktorý so svojou päťčlennou rodinou pôsobil ako misionár v juhoamerickej džungli. Vysoká vlhkosť mu zničila tablet a zúfalo potreboval nejaký odolný počítač, aby mohol pokračovať vo svojej práci. Dmitrij nechápal, prečo teraz myslí na svojho priateľa v Južnej Amerike, keď on predsa potrebuje notebook, aby mohol absolvovať štúdium. Ale nakoniec kúpil vodotesný a prachuvzdorný notebook a poštou ho poslal priateľovi.
 
-Krátce po odeslání balíčku se na obrazovce Dmitrijova notebooku objevil internetový inzerát, který nabízel právě ty panty, které pro notebook potřeboval. Panty si objednal a po jejich instalaci se obrazovka otevírala a zavírala jako nová. Kupodivu notebook funguje i dnes, po osmi letech.
+Krátko po tom, čo odoslal balík, na obrazovke Dmitrijovho notebooku sa objavil inzerát, ktorý ponúkal práve také pánty, aké potreboval na svoj notebook. Objednal si ich, namontoval a monitor sa zas otváral a zatváral ako nový. Je úžasné, že tento notebook, ktorý má už osem rokov, mu dodnes funguje.
 
-_Dmitry nepochybuje o tom, že Bůh žehná těm, kteří kladou misii na první místo. "Pán prodloužil životnost notebooku," říká Dmitrij. "V Bibli je skutečně napsáno: 'Kdo pomáhá chudým, půjčuje Hospodinu; on sám mu jeho dobrodiní odplatí.' (Přísloví 19,17)."_
+_Dmitrij nepochybuje o tom, že Boh požehnáva tých, ktorí dávajú misiu na prvé miesto. "Pán predĺžil životnosť notebooku," konštatuje Dmitrij. "V Biblii je napísané: Kto sa zľutuje nad biednym, požičiava Hospodinovi, ktorý mu odplatí jeho dobročinnosť.“ (Prísl 19,17)_
