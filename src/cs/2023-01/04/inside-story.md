@@ -3,7 +3,7 @@ title:  Misijní příběh
 date:   27/01/2023
 ---
 
-#### Dárek pro začínajícího umělce
+#### Dar pro začínajícího umělce
 
 _Sachiko Obara_
 
