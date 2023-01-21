@@ -47,3 +47,17 @@
           target: es/2023-01/03/06
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-3-VIERNES.mp3
           target: es/2023-01/03/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-SABADO.mp3
+          target: es/2023-01/04/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-DOMINGO.mp3
+          target: es/2023-01/04/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-LUNES.mp3
+          target: es/2023-01/04/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-MARTES.mp3
+          target: es/2023-01/04/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-MIERCOLES.mp3
+          target: es/2023-01/04/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-JUEVES.mp3
+          target: es/2023-01/04/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-4-VIERNES.mp3
+          target: es/2023-01/04/07
