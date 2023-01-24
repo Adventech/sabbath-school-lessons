@@ -16,8 +16,8 @@ Content © 2020 General Conference of Seventh-day Adventists®. All rights reser
 
 ## Contribution
 
-[Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
-[Click here](https://medium.com/@tittoft/cara-kontribusi-pelajaran-sekolah-sabat-ke-adventech-8d4936bc4edf) to read the lesson contribution guide in Bahasa Indonesia.
+- [Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
+- [Click here](https://medium.com/@tittoft/cara-kontribusi-pelajaran-sekolah-sabat-ke-adventech-8d4936bc4edf) to read the lesson contribution guide in Bahasa Indonesia.
 
 
 ## Acknowledgments
