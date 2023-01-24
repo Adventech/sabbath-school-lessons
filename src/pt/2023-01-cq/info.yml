@@ -1,0 +1,25 @@
+---
+  title: "Fidelidade"
+  description: "As narrativas bíblicas são formas poderosas de expressar as instruções e advertências de Deus. Referindo-se às histórias do Antigo Testamento, Paulo diz que “tudo o que no passado foi escrito, para o nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança” (Rm 15:4)."
+  human_date: "Janeiro · Fevereiro · Março 2023"
+  start_date: "31/12/2022"
+  end_date: "24/03/2023"
+  color_primary: "#B5CE37"
+  color_primary_dark: "#768E3A"
+  credits:
+    - name: Autor
+      value: Marcos Faiock Bomfim
+    - name: Editora
+      value: Ágatha Lemos
+    - name: Editor Associado
+      value: Michelson Borges
+    - name: Revisora
+      value: Rosemara Santos
+    - name: Tradutor
+      value: Matheus Cardoso
+    - name: Projeto Gráfico e Capa
+      value: Bruna Ribeiro, Milena Ribeiro e Samuel K. Santana
+    - name: Programação Visual
+      value: Samuel K. Santana
+    - name: Ilustrações
+      value: Kaleb de Carvalho

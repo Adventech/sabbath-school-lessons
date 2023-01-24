@@ -1,0 +1,26 @@
+---
+  pdf:
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-1.pdf
+      target: fi/2023-01/01
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-2.pdf
+      target: fi/2023-01/02
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-3.pdf
+      target: fi/2023-01/03
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-4.pdf
+      target: fi/2023-01/04
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-5.pdf
+      target: fi/2023-01/05
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-6.pdf
+      target: fi/2023-01/06
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-7.pdf
+      target: fi/2023-01/07
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-8.pdf
+      target: fi/2023-01/08
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-9.pdf
+      target: fi/2023-01/09
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-10.pdf
+      target: fi/2023-01/10
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-11.pdf
+      target: fi/2023-01/11
+    - src: https://www.adventist.fi/wp-content/uploads/2022/12/RS2023-1-12.pdf
+      target: fi/2023-01/12

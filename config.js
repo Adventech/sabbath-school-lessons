@@ -13,7 +13,8 @@ var BIBLE_PARSER_CONFIG = {
     "bbc"
   ],
   "bg": [
-    "bg1940"
+    "bg1940",
+    "ribbd"
   ],
   "bn": [
     "bsi2016"
@@ -93,6 +94,10 @@ var BIBLE_PARSER_CONFIG = {
     "gu2017"
   ],
 
+  "iba": [
+    "bk"
+  ],
+
   "it": [
     "nr2006"
   ],
@@ -108,6 +113,14 @@ var BIBLE_PARSER_CONFIG = {
 
   "kar": [
     "kswc"
+  ],
+
+  "kin": [
+      "bysb"
+  ],
+
+  "kjp": [
+    "pwokyn"
   ],
 
   "kha": [

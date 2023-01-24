@@ -1,0 +1,17 @@
+### Forvaltning for Mesteren – indtil han kommer
+
+Gud er universets skaber, og det kan være vanskeligt for os helt at forstå det forhold, som han ønsker at have med os, som kun er mennesker. Selve tanken er utrolig. ”Se, hvor stor kærlighed Faderen har vist os, at vi kaldes Guds børn, og vi er det!“ (1 Joh 3,1). Eller som Ellen White skrev: ”Hvilken højere stilling kan vi få end at blive kaldt den evige Guds børn? … Kan nogen menneskelig ære måle sig med det?“ (Ellen White, God’s Amazing Grace, s. 341). Det skyldes kun mørket i den syndige verden, at vi ikke til fulde kan se og værdsætte den status, som vi har fået i Jesus.
+
+Men hvis vi ikke er opmærksomme, vil denne verdens fristelser og materialistiske goder drage os bort fra Kristus. Guds ord oplyser os om Satans fristelser og tiltrækning. ”Men de, der vil være rige, falder i fristelse og baghold og henfalder til utallige tåbelige og skadelige tilbøjeligheder, som styrter mennesker i undergang og fortabelse. For kærlighed til penge er roden til alt ondt; drevet af den er nogle blevet ført bort fra troen og har voldt sig selv mange smerter“ (1 Tim 6,9-10).
+
+Herren giver os vejledning om, hvordan vi skal tjene penge og bruge dem på en klog måde og ikke lade det føre til ”undergang og fortabelse“, som Paulus siger. I de mere end 2000 vers i Bibelen, som handler om penge og ejendele og vores holdning til dem, giver Gud praktisk undervisning om, hvordan vi kan leve uden stress og i økonomisk trofasthed forvalte det, vi er blevet givet.
+
+I dette kvartals lektier skal vi studere Guds ideal for vores forhold til ham. Vi vil tydeligt se, hvordan vi kan udvikle en tillid så dyb, at vi forbliver trofaste mod ham, selv når vi ikke kan købe eller sælge (se Åb 13,17). Men en sådan tillid bliver ikke til på et øjeblik. Ved i trofasthed at forvalte det, Gud har givet os, kan vi allerede nu forberede os på, hvad der måtte ramme os i fremtiden.
+
+Gud har alle ressourcerne, og når vi samarbejder med ham, giver han os lov til at forvalte nogle af dem for ham. Det er Frelserens hensigt, at mennesker, som er blevet renset og helliget, skal være hans hjælpende hænder. Lad os takke ham for dette store privilegium. Det er ham, som ”friede os ud af mørkets magt og flyttede os over i sin elskede søns rige; i ham har vi forløsningen, syndernes forladelse“ (Kol 1,13-14).
+
+Guds råd til sine børn gennem vismanden Salomo lyder: ”Du skal ære Herren med din rigdom, med det første af al din afgrøde“ (Ordsp 3,9). Det er et klogt råd, for ”værdig er du, vor Herre og Gud, til at få pris og ære og magt; for du har skabt alle ting, af din vilje blev de til og blev skabt“ (Åb 4,11).
+
+Set fra et rent verdsligt perspektiv lever vi i en meget vanskelig og krævende tid. Men vores kristne verdenssyn giver os tillid og håb. Når vi ser de tegn, som Jesus gav, så kan vi vide, at det store klimaks på menneskenes historie, Jesu genkomst, er meget nær; det står lige for døren. Vores bøn er, at dette kvartals praktiske studier vil styrke din tro og tillid til Gud og opmuntre dig til at være en trofast forvalter for ham.
+
+_G. Edward Reid, M.Div. (Andrews University), MPH (Loma Linda University), JD (Georgia State University), er ordineret prædikant og autoriseret sagfører. Han var i mange år leder af Forvaltningsafdelingen i Adventistkirkens Nordamerikanske Division._

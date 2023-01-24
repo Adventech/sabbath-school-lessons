@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L00.pdf'
+      target: en/2023-01-pr/introduction
+      title: Introduction
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L01.pdf'
+      target: en/2023-01-pr/01
+      title: The Golden Rule
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L02.pdf'
+      target: en/2023-01-pr/02
+      title: First Things Last
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L03.pdf'
+      target: en/2023-01-pr/03
+      title: Friends Find a Way
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L04.pdf'
+      target: en/2023-01-pr/04
+      title: Seeing Is Believing
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L05.pdf'
+      target: en/2023-01-pr/05
+      title: Lost and Found
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L06.pdf'
+      target: en/2023-01-pr/06
+      title: Too Precious to Lose!
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L07.pdf'
+      target: en/2023-01-pr/07
+      title: Safe in the Storm
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L08.pdf'
+      target: en/2023-01-pr/08
+      title: Appointment With God
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L09.pdf'
+      target: en/2023-01-pr/09
+      title: A Bitter Choice
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L10.pdf'
+      target: en/2023-01-pr/10
+      title: Judging Jesus
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L11.pdf'
+      target: en/2023-01-pr/11
+      title: For Me!
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-L12.pdf'
+      target: en/2023-01-pr/12
+      title: He Is Risen!
+      start_date: 18/03/2023
+      end_date: 24/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2023/Q1/Primary/Student/P-23-Q1-MemoryVerses.pdf'
+      target: en/2023-01-pr/memory-verses
+      title: Memory Verses
+      start_date: 18/03/2023
+      end_date: 24/03/2023

@@ -1,18 +1,18 @@
 ---
   teacher-comments:
     name: teacher-comments
-    title: Ediția profesorului
-    description: Pregătiți-vă pentru a facilita discuția lecției Școlii Sabatului cu ediția acestui profesor
+    title: Ediția pentru Instructori
+    description: Pregătiți-vă pentru a facilita discuția Școlii de Sabat cu Ediția pentru Instructori
     image: "v1/images/features/feature_teacher_comments.png"
   egw-quotes:
     name: egw-quotes
     title: Citate Ellen G. White
-    description: Îmbunătățiți-vă studiul cu citate selectate suplimentare din scrierile lui Ellen G. White
+    description: Îmbunătățiți-vă studiul cu citate suplimentare selectate din scrierile lui Ellen G. White
     image: "v1/images/features/feature_egw.png"
   inside-story:
     name: inside-story
-    title: Povestea misiunii
-    description: Citiți povești de misiune inspirate din întreaga lume
+    title: Vești Misionare
+    description: Citiți povești de misiune din întreaga lume
     image: "v1/images/features/feature_inside_story.png"
   audio:
     name: audio
@@ -22,5 +22,5 @@
   video:
     name: video
     title: Video
-    description: Urmăriți discuția săptămânală a lecției pentru a vă aprofunda studiul
+    description: Urmăriți discuția săptămânală a lecțiunii pentru a aprofunda studiul
     image: "v1/images/features/feature_video.png"

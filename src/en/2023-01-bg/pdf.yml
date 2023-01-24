@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q1/Beginner/Student/B-23-Q1-L00.pdf'
+      target: en/2023-01-bg/introduction
+      title: Introduction
+      start_date: 31/12/2022
+      end_date: 31/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q1/Beginner/Student/B-23-Q1-L01.pdf'
+      target: en/2023-01-bg/01
+      title: Little Jesus, the Happy Helper
+      start_date: 31/12/2022
+      end_date: 27/01/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q1/Beginner/Student/B-23-Q1-L02.pdf'
+      target: en/2023-01-bg/02
+      title: Zacchaeus Climbs a Tree
+      start_date: 28/01/2023
+      end_date: 24/02/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q1/Beginner/Student/B-23-Q1-L03.pdf'
+      target: en/2023-01-bg/03
+      title: The Great Parade
+      start_date: 25/02/2023
+      end_date: 24/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q1/Beginner/Student/B-23-Q1-Activites.pdf'
+      target: en/2023-01-bg/activities
+      title: Activities
+      start_date: 25/02/2023
+      end_date: 24/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q1/Beginner/Student/B-23-Q1-MemoryVerses.pdf'
+      target: en/2023-01-bg/memory-verses
+      title: Memory Verses
+      start_date: 25/02/2023
+      end_date: 24/03/2023

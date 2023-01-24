@@ -1,0 +1,20 @@
+---
+  title: "Über Tod, Sterben und Zukunftshoffnung"
+  description: "Gott schuf die Menschen, damit sie die Ewigkeit in einer liebevollen Beziehung mit ihm und seiner Schöpfung genießen können."
+  human_date: "Oktober · November · Dezember 2022"
+  start_date: "24/09/2022"
+  end_date: "30/12/2022"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Alberto R. Timm"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: Redakteurin
+      value: "Soraya Homayouni"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"
