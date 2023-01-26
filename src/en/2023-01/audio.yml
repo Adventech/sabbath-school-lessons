@@ -288,3 +288,7 @@
           target: en/2023-01/05/01
         - src: https://egwhiteaudio.com/wp-content/uploads/2023/01/2023-01-29.mp3
           target: en/2023-01/05/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/01/2023-01-30.mp3
+          target: en/2023-01/05/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/01/2023-01-31.mp3
+          target: en/2023-01/05/04
