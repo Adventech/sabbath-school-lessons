@@ -5,7 +5,7 @@ date: 03/02/2023
 
 #### Cyprus: Befriending a Shoe Shiner
 
-Proverbs 11:24-25 (ESV)—“One gives freely, yet grows all the richer; another withholds what he should give, and only suffers want. 25 Whoever brings blessing will be enriched, and one who waters will himself be watered.”
+Proverbs 11:24-25 (ESV) “One gives freely, yet grows all the richer; another withholds what he should give, and only suffers want. 25 Whoever brings blessing will be enriched, and one who waters will himself be watered.”
 
 Yulian hurried to a busy corner in the city of Nicosia, Cyprus, where he set up his shoe-shine stand. He had come from Bulgaria 10 years earlier in search of work. But cigarettes and alcohol consumed most of his earnings. When he lost his job, his family told him to leave his home. Although he worked long hours as a shoe shiner, he could barely support himself.
 
