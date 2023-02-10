@@ -1,0 +1,62 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-01.pdf'
+      target: ta/2023-01-pr/01
+      title: பொன்னான சட்டம்
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-02.pdf'
+      target: ta/2023-01-pr/02
+      title: முதலான காரியங்கள் கடைசியில்
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-03.pdf'
+      target: ta/2023-01-pr/03
+      title: நண்பர்கள் தேடிய வழி
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-04.pdf'
+      target: ta/2023-01-pr/04
+      title: பார்ப்பது நம்பிக்கை
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-05.pdf'
+      target: ta/2023-01-pr/05
+      title: இழந்து கிடைத்தவை
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-06.pdf'
+      target: ta/2023-01-pr/06
+      title: இழக்க முடியாத அளவு பெறுமதியானது
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-07.pdf'
+      target: ta/2023-01-pr/07
+      title: புயலிலிருந்து பாதுகாப்பு
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-08.pdf'
+      target: ta/2023-01-pr/08
+      title: தேவனோடு ஒரு சந்திப்பு
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-09.pdf'
+      target: ta/2023-01-pr/09
+      title: கசப்பான தேர்வு
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-10.pdf'
+      target: ta/2023-01-pr/10
+      title: இயேசுவை நியாயம் தீர்த்தல்
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-11.pdf'
+      target: ta/2023-01-pr/11
+      title: எனக்காக!
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PR-12.pdf'
+      target: ta/2023-01-pr/12
+      title: அவர் உயிர்த்தெழுந்தார்!
+      start_date: 18/03/2023
+      end_date: 24/03/2023
