@@ -30,6 +30,12 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-04.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-05.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2023-01-08.webp
     - artist: Escrito Está
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-01.mp4
@@ -42,6 +48,12 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-04.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-05.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2023-01-08.webp
     - artist: Pastor Alejandro Bullon
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-01.mp4
@@ -54,3 +66,9 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-04.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-05.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-01-08.webp
