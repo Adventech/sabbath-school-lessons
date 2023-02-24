@@ -300,3 +300,37 @@
           target: en/2023-01/06/01
         - src: https://egwhiteaudio.com/wp-content/uploads/2023/01/2023-02-05.mp3
           target: en/2023-01/06/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-11.mp3
+          target: en/2023-01/07/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-12.mp3
+          target: en/2023-01/07/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-13.mp3
+          target: en/2023-01/07/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-14.mp3
+          target: en/2023-01/07/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-15.mp3
+          target: en/2023-01/07/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-16.mp3
+          target: en/2023-01/07/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-18.mp3
+          target: en/2023-01/08/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-19.mp3
+          target: en/2023-01/08/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-20.mp3
+          target: en/2023-01/08/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-21.mp3
+          target: en/2023-01/08/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-22.mp3
+          target: en/2023-01/08/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-23.mp3
+          target: en/2023-01/08/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-25.mp3
+          target: en/2023-01/09/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-26.mp3
+          target: en/2023-01/09/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-27.mp3
+          target: en/2023-01/09/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-02-28.mp3
+          target: en/2023-01/09/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/02/2023-03-01.mp3
+          target: en/2023-01/09/05
