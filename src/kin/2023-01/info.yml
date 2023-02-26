@@ -4,16 +4,17 @@
   human_date: "Mutarama · Gashyatare · Werurwe 2023"
   start_date: "31/12/2022"
   end_date: "24/03/2023"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
   credits:
-    - name: Umwanditsi W'iki kigisho
+    - name: "Umwanditsi W'iki kigisho"
       value: "G. Edward Reid"
-    - name: Unoza Inyandiko Mukuru
+    - name: "Unoza Inyandiko Mukuru"
       value: "Clifford R. Goldstein"
-    - name: Unoza Inyandiko Wungirije
+    - name: "Unoza Inyandiko Wungirije"
       value: "Soraya Homayouni"
-    - name: Ushinzwe Imirimo yo Gusohora Inyandiko
+    - name: "Ushinzwe Imirimo yo Gusohora Inyandiko"
       value: "Lea Alexander Greve"
-    - name: Ushinzwe Ubwanditsi Wungirije
+    - name: "Ushinzwe Ubwanditsi Wungirije"
       value: "Sharon Thomas-Crews"
