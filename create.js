@@ -254,7 +254,7 @@ var LOCALE_VARS = {
     "pt": "Moderador",
     "ro": "Teacher Comments",
     "ru": "Комментарий для Учителей",
-    "ka": "კომენტარები მასწავლებლებისთვის",  
+    "ka": "კომენტარები მასწავლებლებისთვის",
     "sk": "Pouka za učitelje",
     "sl": "Pouka za učitelje",
     "si": "Teacher comments",
