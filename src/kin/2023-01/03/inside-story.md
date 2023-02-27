@@ -1,5 +1,5 @@
 ---
-title:  undefined
+title:  Inside Story
 date:   20/01/2023
 ---
 
