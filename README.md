@@ -66,7 +66,6 @@ Below is current list of languages and capabilities implemented
 |🇮🇩 Indonesian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇮🇹 Italian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
 |🇰🇷 Korean|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇰🇮🇳 Kinyarwanda|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇱🇦 Lao|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇱🇻 Latvian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇱🇹 Lithuanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
