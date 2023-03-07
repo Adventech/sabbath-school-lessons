@@ -20,8 +20,8 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-08.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-09.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-09.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-10.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-10.mp4?upd
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-01-10.webp?upd
     - artist: Александр Болотников
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-01.mp4
@@ -42,5 +42,5 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-08.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-09.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-09.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-10.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-10.mp4?upd
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-01-10.webp?upd
