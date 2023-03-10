@@ -1,0 +1,23 @@
+---
+  title: "true"
+  description: "true"
+  human_date: "aprilie · mai · iunie 2023"
+  start_date: "25/03/2023"
+  end_date: "23/06/2023"
+  color_primary: "#7D7D7D"
+  color_primary_dark: "#333333"
+  credits:
+    - name: Autor
+      value: "Mark Finley"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Redactare
+      value: "Gianina Floricel"
+    - name: Referent
+      value: "Daniel Brînzan"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Corectură
+      value: "Lavinia Goran"
+    - name: Copertă
+      value: "Liliana Dincă"
