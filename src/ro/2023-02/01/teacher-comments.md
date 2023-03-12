@@ -162,11 +162,11 @@ să vă păstreze viața printr-o mare izbăvire”, Dumnezeu Își trimite răm
 înainte de a doua Lui venire pentru a avertiza lumea și a salva
 mulți oameni de la distrugerea iminentă prin ultimele șapte plăgi.
 
-În al doilea rând, în 1 Împărați 19:14,18, cuvântul „rămășiță” este
+În al doilea rând, în 1 Imparati 19:14,18, cuvântul „rămășiță” este
 folosit pentru a denumi „ceea ce rămâne”. Ilie strigă la Dumnezeu: „Am
-rămas numai eu singur” (1 Împărați 19:14). Iar Dumnezeu răspunde: „Am
+rămas numai eu singur” (1 Imparati 19:14). Iar Dumnezeu răspunde: „Am
 lăsat în Israel șapte mii de bărbați, și anume pe toți cei ce nu și-au plecat
-genunchii înaintea lui Baal” (1 Împărați 19:18 – KJV). Aici cuvântul
+genunchii înaintea lui Baal” (1 Imparati 19:18 – KJV). Aici cuvântul
 „rămășiță” face referire la cei care rămân credincioși și nu cedează
 presiunii corupției
 din jur sau a închinării false.
