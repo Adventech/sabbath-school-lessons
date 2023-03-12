@@ -11,7 +11,7 @@ I wish you could meet Hussein, the security guard for the building where my wife
 
 As our friendship grew by God’s grace, we sought to take a new step in our friendship. We began to pray for the right moment to give him a Bible.
 
-One day, I noticed that Hussein was upset. He impatiently explained that his bicycle, his only transportation to work, had been stolen. He was preoccupied with trying to find a bicycle to borrow. That’s the day that I began praying for a bicycle for my friend. Several months passed, and we received an unexpected gift of U.S.$40. I was puzzled. It seemed like God had sent the money directly from heaven. As I was praying a short time later, the distinct thought came to me, “Show Jesus to your friend. Buy a bicycle for Hussein.” I set aside the $40 and began adding to it.
+One day, I noticed that Hussein was upset. He impatiently explained that his bicycle, his only transportation to work, had been stolen. He was preoccupied with trying to find a bicycle to borrow. That’s the day that I began praying for a bicycle for my friend. Several months passed, and we received an unexpected gift of USD 40. I was puzzled. It seemed like God had sent the money directly from heaven. As I was praying a short time later, the distinct thought came to me, “Show Jesus to your friend. Buy a bicycle for Hussein.” I set aside the $40 and began adding to it.
 
 But the country’s economy worsened by the day, and no matter how much money I saved, I did not seem to have enough to buy a bicycle. But I kept praying and saving. I also went to many second-hand bicycle shops. I began imagining what it would be like to give Hussein a bicycle for his birthday!
 
