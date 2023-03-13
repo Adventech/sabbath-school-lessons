@@ -5,18 +5,15 @@
   inv:
     name: "深入人心"
     order: 200
-  cc:
-    name: "房角石"
-    order: 300
   pp:
     name: "少年学课"
-    order: 400
+    order: 300
   pr:
     name: "高级学课"
-    order: 500
+    order: 400
   kd:
     name: "中级学课"
-    order: 600
+    order: 500
   bg:
     name: "初级学课"
-    order: 700
+    order: 600
