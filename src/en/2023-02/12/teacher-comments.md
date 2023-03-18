@@ -31,7 +31,7 @@ The seal of God, as manifested by keeping the Sabbath, is a sign of accepting Go
 
 #### Part III: Life Application
 
-Reflect: As diametrically opposed as the seal of God is to the mark of the beast, they do have one thing in common. Neither is assigned instantly. The reception of the seal of God takes place over a period of time in which our minds are daily conformed to the image of Christ. Ellen G. White writes, “It is a law both of the intellectual and the spiritual nature that by _beholding _we become changed. The mind gradually adapts itself to the subjects upon which it is allowed to dwell.”—The Great Controversy, p. 555, emphasis supplied.
+Reflect: As diametrically opposed as the seal of God is to the mark of the beast, they do have one thing in common. Neither is assigned instantly. The reception of the seal of God takes place over a period of time in which our minds are daily conformed to the image of Christ. Ellen G. White writes, “It is a law both of the intellectual and the spiritual nature that by _beholding_ we become changed. The mind gradually adapts itself to the subjects upon which it is allowed to dwell.”—The Great Controversy, p. 555, emphasis supplied.
 
 By beholding Jesus and saturating our minds with the teachings of His Word, we become more like Him. It takes time for character to develop. Meaningful, lasting relationships are developed over time and take time. As we meditate on the life of Christ, the Holy Spirit works in our lives to “seal” within us the principles of God’s kingdom in preparation for the final test over the Sabbath commandment.
 
