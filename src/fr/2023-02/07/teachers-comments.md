@@ -1,0 +1,60 @@
+---
+title:  Approfondissement
+date:   12/05/2023
+---
+
+### Ire partie: Aperçu
+
+Le fait que Dieu ait créé ce monde en sept jours littéraux est l’une des vérités fondamentales de l’Écriture. La Bible entière commence par les paroles « Au commencement, Dieu créa le ciel et la terre » (Gen. 1:1). Le dernier livre de la Bible, l’Apocalypse, nous appelle à « adorer celui qui a fait le ciel et la terre » (Apo. 14:7, LSG). Dieu est digne de notre adoration parce qu’Il nous a créés. Nous n’avons pas évolué. Nous ne sommes pas un simple accident génétique. Nous sommes bien plus qu’un membre avancé de l’espèce animale. Nous sommes des êtres humains d’une valeur incroyable parce que Dieu nous a créés. Chacun d’entre nous est unique à Ses yeux.
+
+La leçon de cette semaine explore la signification du sabbat en relation avec la création. Le sabbat nous parle de notre valeur aux yeux de Dieu. Bien compris, le sabbat démolit tout sentiment d’infériorité et de dévalorisation de soi. Nous appartenons à Christ par création. Le sabbat parle également de notre repos en Christ. Le jour du sabbat, nous nous reposons du travail épuisant du système de valeurs de ce monde. Le sabbat nous invite à nous arrêter et à réfléchir aux valeurs éternelles. Il nous invite à nous reposer en Christ pour notre salut et à faire confiance à Son pouvoir créateur pour nous transformer afin de Lui ressembler davantage chaque jour.
+
+Notre leçon de cette semaine nous conduit également à une compréhension plus approfondie du sabbat en tant que rappel éternel de la communion du ciel avec Christ. Lorsque nous célébrons le sabbat chaque semaine, il devient un avant-gout de ce que sera le ciel. L’Apocalypse, comme nous le verrons, révèle l’importance du sabbat à la lumière de l’éternité.
+
+### IIe partie: Commentaire
+
+En novembre 1998, Charles Colson a écrit dans un article intitulé ‘‘Les astronautes qui ont trouvé Dieu: Une vision spirituelle de l’espace’’: « Le retour dans l’espace de l’astronaute John Glenn, 36 ans après son impressionnant vol orbital autour de la Terre, nous rappelle le type d’héroïsme qui rend l’exploration spatiale possible… [déclara Glenn aux journalistes en 1998, juste après son retour, à l’âge de 77 ans, de son dernier voyage dans l’espace]. Pour moi, il est impossible de regarder ce genre de création et de ne pas croire en Dieu. Cela ne fait que renforcer ma foi. » – Charles Colson, Breakpoint Commentary, 5 novembre 1998.
+
+Les gens ne sont peut-être pas conscients du fait que beaucoup des premiers héros astronautes avaient une foi religieuse profonde. Leur vision de l’espace infini n’a fait que fortifier leur foi. « Neil Armstrong et Buzz Aldrin sont surtout connus comme étant [deux] des premiers astronautes à se poser sur la lune et à faire ce ‘pas de géant pour l’humanité’. Mais vous ne savez probablement pas qu’avant de sortir du vaisseau spatial, Aldrin a sorti une Bible, un calice en argent, du pain et du vin de sacrement. Là, sur la lune, son premier acte a été de célébrer la communion.
+
+« Frank Borman était le commandant de la première équipe spatiale à voyager au-delà de l’orbite de la Terre. Regardant la Terre depuis une distance de plus de 400 000 km, Borman a transmis un message par radio, citant Genèse 1: Au commencement, Dieu créa les cieux et la terre. Comme il l’a expliqué plus tard, j’ai eu l’énorme sentiment qu’il devait y avoir une puissance supérieure à chacun d’entre nous, qu’il y avait un Dieu, qu’il y avait bien un commencement. » - Charles Colson, Breakpoint Commentary, 5 novembre 1998. Chacun des astronautes dont il est question ici a senti que ce monde n’était pas le fruit d’un hasard fortuit. La vie n’était pas non plus un accident cosmique. Les astronautes ont réalisé la vérité de Genèse 1:1, que ce monde a été créé par un Dieu omniscient et tout-puissant.
+
+Les messages des trois anges d’Apocalypse 14 proclament d’une « voix forte » le message de la création et d’un Dieu omniscient. Dieu n’est jamais pris par surprise. Il voit les évènements qui vont se dérouler avant même qu’ils ne se produisent. Le message des trois anges est spécifiquement conçu par Dieu pour répondre aux défis humanistes et postmodernes de cette génération. Ce n’est pas un hasard si, au moment même où la théorie de l’évolution s’est développée, Dieu a envoyé un message au monde pour qu’il adore le Créateur.
+
+Trois grandes forces philosophiques ou politiques se sont élevées au XIXe siècle pour influencer le monde entier. L’évolution a eu un impact sur la communauté scientifique et a influencé des millions de personnes. Le communisme et le marxisme ont dévalorisé la vie humaine et ont eu un impact politique et social sur des millions de personnes. Les enseignements de Sigmund Freud ont modifié la pensée de millions de personnes dans le domaine de la psychologie.
+
+Le sabbat est un monument à la mémoire de notre Créateur à une époque impie et de sécularisation croissante. Comme le souligne la leçon de cette semaine, le sabbat est un symbole de notre allégeance à celui qui nous a créés. Le sabbat est la reconnaissance que la vie n’est pas un accident génétique. Nous existons par la volonté et le plan même de Dieu. Nous avons été amenés à l’existence pour une raison. La compréhension de la création, telle qu’elle est révélée dans l’adoration du sabbat, nous libère des chaines déshumanisantes de l’évolution. L’adoration du sabbat accorde une valeur à chaque vie. Chaque vie compte pour Dieu car chaque personne est une création unique, spécialement façonnée par notre Créateur pour remplir un objectif spécifique dans Son plan.
+
+**Un plan pour chaque vie**
+
+À 19 ans, Bruce Olson s’est rendu dans la jungle, à la frontière de la Colombie et du Venezuela, pour apporter L’évangile à la tribu Barí. Les Baris étaient un peuple aborigène primitif, isolé dans les jungles denses d’Amérique du Sud. Ils étaient connus pour leur féroce capacité de combat et leurs tactiques violentes et barbares lorsqu’ils faisaient la guerre aux tribus. Bruce n’était pas impressionné par leur réputation brutale et, si nécessaire, il était prêt à donner sa vie pour partager l’évangile avec eux. Il a passé des semaines à essayer de gagner leur confiance. Aucun Occidental n’était encore entré sur leur territoire. Lentement, avec le temps, les Baris ont appris à aimer cet étranger doux et attentionné. Alors que Bruce partageait l’évangile avec ces indigènes primitifs, ils ont fait l’expérience d’une nouvelle vie en Christ. Le Créateur tout-puissant a changé leur vie. Cette tribu autrefois belliqueuse et violente est devenue une force de paix dans toute la région.
+
+Au moment où Bruce faisait de réels progrès pour l’évangile, l’inattendu se produisit. Des guérilleros colombiens l’enlevèrent et le retinrent dans une cachette secrète au fin fond de la jungle. Par la suite, l’armée colombienne tenta de recruter les Baris pour combattre les guérilleros.
+
+Les Baris refusèrent en disant: « La violence n’engendre que la violence ».
+
+Bruce fut détenu pendant des mois dans des conditions inhumaines; toutefois, il fut capable de surmonter l’horreur de sa situation. Il gagna la confiance de ses ravisseurs. Ils finirent par lui donner une Bible. Jour après jour, il partagea la Parole de Dieu avec eux. Plus de 100 de ces combattants rebelles acceptèrent Christ et rompirent avec la guérilla, déposèrent leurs armes et réintégrèrent la société en tant que citoyens colombiens productifs.
+
+Malgré les forces du mal rassemblées contre Bruce Olson, le Créateur tout-puissant avait un plan pour sa vie, et toutes les puissances de l’enfer n’ont pas pu le détruire. Notre Créateur n’avait pas seulement un plan pour la vie de Bruce Olson; il a un plan pour notre vie, mais il y a encore mieux. Notre Créateur a non seulement un plan pour notre vie, mais par le Saint-Esprit, Il nous guidera dans Son plan. Comprendre la richesse du sabbat nous permet de mieux comprendre le plan de Dieu pour nous, et de donner un sens plus profond à notre vie.
+
+Comme le souligne la leçon de cette semaine, le mot hébreu bara désigne quelque chose que seul Dieu peut faire. Les êtres humains peuvent faire quelque chose à partir des matériaux existants, mais seul Dieu peut faire quelque chose à partir de rien. Lorsque Dieu prononce Sa parole, une matière tangible apparait (Ps. 33:6, 9; Heb. 1:1, 2). Lorsque Dieu parle, tout ce qu’Il dit devient réalité, même si cela n’a jamais été le cas auparavant, car la Parole de Dieu a le pouvoir créatif de le faire. Lorsque nous adorons le Créateur du ciel et de la terre le jour du sabbat, nous reconnaissons qu’Il est tout-puissant.
+
+S’Il est assez puissant pour créer ce monde et tout ce qu’il contient, Il est certainement assez puissant pour changer nos vies. Le sabbat est un symbole de la justification (notre repos en Christ seul) et de la sanctification (notre force en Christ seul). Le prophète Ézéchiel exprime clairement cette idée:
+
+« Je leur donnai aussi mes sabbats comme un signe entre moi et eux, pour qu’ils connussent que je suis l’Éternel qui les sanctifie » (Ézéchiel 20:12). Lorsque nous adorons Dieu chaque sabbat, le Créateur nous recrée. Celui qui nous a fait nous refait. Celui qui nous a formés nous réforme.
+
+Le conflit final concernant l’adoration, tel qu’il est décrit dans le livre de l’Apocalypse, est précisément dû au fait que Christ nous a créés, nous a rachetés, nous a transformés et revient pour nous. Le diable déteste le sabbat parce qu’il déteste tout ce qu’il représente. Le sabbat est un symbole de l’autorité de Christ, de Sa domination, de Sa grâce et de Sa puissance. Si Satan peut tromper les gens en leur faisant croire que le sabbat n’a aucune importance, il peut alors saper l’autorité du Créateur et détourner l’allégeance de millions de personnes vers lui. C’est pourquoi Dieu a envoyé Son message des derniers jours dans Apocalypse 14 pour préparer notre monde au retour de notre Créateur et Rédempteur, qui recréera cette planète dans une splendeur édénique.
+
+### IIIe partie: Application
+
+Pour une réflexion personnelle: Le Dieu de la création a donné l’existence au soleil, à la lune et aux étoiles. Sa puissance impressionnante a créé cette planète et l’a remplie d’êtres vivants. Ce même Dieu a délivré Son peuple de l’esclavage égyptien, l’a guidé dans ses pérégrinations dans le désert, a fait tomber la manne du ciel, a fait effondrer les murs de Jéricho et a vaincu les ennemis d’Israël. Ce même Dieu s’intéresse à vous et à moi. En notre nom, Il libère la puissance de la création pour vaincre l’ennemi qui se bat pour notre âme. Notre compréhension et notre acceptation de cette vérité biblique font toute la différence.
+
+Chacun d’entre nous est confronté chaque jour à des luttes contre la tentation. Voici l’incroyable bonne nouvelle: le même Dieu, qui a libéré Sa puissance infinie pour créer le monde, libère cette même puissance infinie pour vaincre les forces de l’enfer qui se battent pour nos âmes. Jésus a quelque chose de bien plus à offrir qu’une défaite frustrée. Il a quelque chose de plus à offrir que des échecs répétés. Il a quelque chose de bien plus à offrir que d’échouer sur le même obstacle à maintes reprises. Qui est-ce que nous servons? Le Créateur tout-puissant, à la puissance illimitée, infinie. Cette puissance nous appartient lorsque nous la saisissons par la foi. Nous sommes transformés, changés, rendus nouveaux par la puissance du Créateur.
+
+**Discussion et prière**: Demandez à un volontaire de lire 2 Corinthiens 5:17: « Si quelqu’un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées; voici, toutes choses sont devenues nouvelles » (LSG).
+
+Discutez avec votre classe de ce que cela signifie d’être une nouvelle créature.
+
+Pour conclure, priez pour les membres, en demandant à Dieu de les aider à comprendre plus profondément et plus complètement comment Sa puissance créatrice peut changer leur vie.
+
+` `
