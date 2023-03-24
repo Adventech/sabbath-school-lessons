@@ -34,4 +34,3 @@ Polis Juvinil'i bir hafta boyunca hapiste tuttu ama daha sonra serbest bıraktı
 Zelindo, afallamış yerel topluluğun Tanrı'nın onları, tıpkı Edu'nun Juvinil'i affettiği gibi affetmek istediğini anlayacağını umuyor. Saldırıdan sonra Edu’nun erkek ve kız kardeşi vaftiz edildi ve Zelindo daha fazla insanın onların örneklerini takip etmesini umuyor.
 
 “Herkes Edu’nun affetme kararını konuşuyor ama bunu kimse anlamıyor” dedi. “Bu Tanrı'nın gücüdür.”
-
