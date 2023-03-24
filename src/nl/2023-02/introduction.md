@@ -1,6 +1,6 @@
-# De drie-engelen boodschap
+### De drie-engelen boodschap
 
-__Mark Finley__
+_Mark Finley_
 
 Op 15 oktober 1844, een week voor de grote teleurstelling, werd er een jongen geboren in een vroom Luthers gezin in Duitsland. Zijn naam was Friedrich Nietzsche. Hij zou één van de meest invloedrijke atheïsten van de moderne tijd worden. Nietzsche geloofde dat de christelijke God van de westerse wereld stervende was en daarom verzette hij zich tegen de voortdurende morele invloed van de christelijke religie. Hij bespotte het christelijke geloof als een ‘slavenmoraal’. In zijn ogen was dat de moraal van de zwakken die zulke dwaze begrippen als ‘heb je vijanden lief’ bedacht. Dat deden de christenen in een poging zichzelf te beschermen tegen de sterkeren. Voor Nietzsche moest de moderne tijd verder gaan dan de achterhaalde begrippen van ‘goed en kwaad’. In één van van zijn boeken (Aldus sprak Zarathoestra) zei hij: ‘Breek die oude tafels van de wet in stukken’ (daarmee bedoelde hij natuurlijk de Tien Geboden).
 
