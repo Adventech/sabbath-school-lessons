@@ -1,11 +1,12 @@
 ---
-  title: "true"
-  description: "true"
-  human_date: "aprilie · mai · iunie 2023"
+  title: "Trei mesaje cerești"
+  description: "În data de 15 octombrie 1844, cu o săptămână înainte de Marea Dezamăgire, într-o familie evlavioasă luterană din Germania s-a născut un băiat. Numele lui era Friedrich Nietzsche, cel care avea să devină unul dintre cei mai influenți atei ai lumii moderne."
+  human_date: "Aprilie · Mai · Iunie 2023"
   start_date: "25/03/2023"
   end_date: "23/06/2023"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#AD644E"
+  color_primary_dark: "#9C462D"
+  splash: true
   credits:
     - name: Autor
       value: "Mark Finley"
