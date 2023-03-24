@@ -1,0 +1,23 @@
+### Trei mesaje cerești
+
+În data de 15 octombrie 1844, cu o săptămână înainte de Marea Dezamăgire, într-o familie evlavioasă luterană din Germania s-a născut un băiat. Numele lui era Friedrich Nietzsche, cel care avea să devină unul dintre cei mai influenți atei ai lumii moderne.
+
+Crezând că Dumnezeul creștin era pe moarte în lumea apuseană, Nietzsche a criticat influența morală continuă a religiei creștine, catalogând-o în batjocură drept o „moralitate a sclavilor”, o moralitate a celor slabi care, în încercarea lor de a se proteja de cei mai puternici decât ei, au inventat astfel de noțiuni absurde precum: „Iubiți-i pe vrăjmașii voștri.” Pentru Nietzsche, modernismul trebuia să depășească noțiunile arhaice de „bine și rău”; un personaj al uneia dintre cărțile lui (Așa grăit-a Zarathustra) declara: „Spargeți vechile table ale Legii!” (referindu-se, desigur, la Cele Zece Porunci).
+
+Anul 1844 a fost important și pentru Karl Marx, fondatorul comunismului. Lucrarea cu titlul Manuscrise economico-filozofice din 1844 a fost scrisă de Marx în anul acela, chiar dacă a fost publicată abia în 1932, în Uniunea Sovietică. Manuscrisele arată dezvoltarea timpurie a ideologiei lui Marx, în care acesta pleda pentru o realitate în întregime materialistă, care avea să treacă prin diferite etape economice până când muncitorii din întreaga lume aveau să se unească pentru a-i înlătura pe opresorii capitaliști și a crea „Utopia” pe pământ.
+
+Anul 1844 a fost unul important și pentru Charles Darwin. În lucrarea cunoscută ca Eseul din 1844, Darwin a prezentat una dintre cele mai timpurii expuneri ale teoriei sale despre evoluționism, chiar dacă nu a fost făcută publică atunci. De-abia în 1859, odată cu publicarea Originii speciilor, Darwin și-a prezentat public ideea că întreaga viață de pe Pământ își avea originea într-un strămoș comun și a evoluat numai prin procese naturale și pur întâmplătoare.
+
+Cu toate acestea, anul 1844 a reprezentat împlinirea profeției de 2.300 de zile din Daniel 8:14 și, în același an, din rămășițele Marii Dezamăgiri au fost plantate semințele care aveau să înmugurească într-o  mișcare mondială al cărei mesaj central respingea îndrăzneala ideologiei marxiste, nietzscheene și darwiniene.
+
+Împotriva lui Marx, mișcarea adventistă de ziua a șaptea a proclamat că marea luptă dintre Hristos și Satana, și nu o concepție materialistă asupra istoriei, explica istoria omenirii, care avea să se încheie nu într-o utopie comunistă creată de om, ci în instituirea supranaturală a Împărăției lui Dumnezeu.
+
+Împotriva lui Darwin, mișcarea adventistă de ziua a șaptea propovăduia că viața își avea originea nu în procesul natural și accidental al unor mutații întâmplătoare și în selecția naturală, ci în puterea Dumnezeului Creator, care a creat toată viața de pe pământ în șase zile, iar în a șaptea S-a odihnit.
+
+Iar împotriva lui Nietzsche, mișcarea adventistă de ziua a șaptea proclama nu numai că Dumnezeu există, ci și că Legea stabilită de El, codul Său universal de conduită morală (acele „vechi table ale Legii”), Cele Zece Porunci, rămâne standardul fundamental al lui Dumnezeu pentru judecată și are caracter obligatoriu pentru întreaga omenire. Să fie oare o coincidență că toate aceste evenimente s-au petrecut în 1844? Nimeni nu ar trebui să creadă lucrul acesta.
+
+Marx, Nietzsche, Darwin – trei personaje influente ale căror lucrări au adus omenirii un prejudiciu ireparabil. Dar, în mijlocul acestor rătăciri, Dumnezeu nu a lăsat lumea fără un martor al adevărului Său: în mijlocul acestor ideologii distructive a dat naștere unei mișcări care, în timp, avea să se transforme în Biserica Adventistă de Ziua a Șaptea și care avea să proclame lumii adevărul Lui pentru zilele din urmă – cele trei solii îngerești. Acestea sunt solii care, în esență, infirmă rătăcirile și concepțiile greșite promovate de acei trei oameni atât de amăgiți.
+
+Cele trei solii îngerești sunt, într-o oarecare măsură, ordinele de înaintare ale Bisericii Adventiste de Ziua a Șaptea. Și, în esență, sunt Evanghelia (vestea bună), pură și simplă, dar prezentată în contextul „adevărul[ui] pe care-l aveți” (2 Petru 1:12). Și tot ele, cele trei solii îngerești, sunt subiectul studiului nostru din acest trimestru.
+
+_Originar din Connecticut, SUA, Mark Finley, un evanghelist cunoscut la nivel internațional, a fost vicepreședintele Conferinței Generale în perioada 2005-2010. După ce s-a retras din activitatea cu normă întreagă, a devenit asistent al președintelui Conferinței Generale. Pastorul Finley și soția lui, Ernestine, au trei copii și cinci nepoți._
