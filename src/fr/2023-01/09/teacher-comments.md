@@ -1,0 +1,62 @@
+---
+title:  Commentaires Moniteurs
+date:   03/03/2023
+---
+
+Ire partie: Aperçu
+
+La convoitise engendre le péché, entrainant la mort (Jacques 1:15, voir aussi Jude 1:18). La convoitise est une transgression de la loi de l’amour désintéressé (1 Corinthiens 13:4-5). D’autre part, une vie pieuse avec le contentement est un grand gain (1 Timothée 6:6-10).
+
+La convoitise ne connait pas de limites, pas même lorsqu’il s’agit de ce qui est sacré, comme le démontre souvent la vie des hommes et des anges dans la Bible. Au ciel, Lucifer désirait s’élever (Ésaïe 14:12-14). Aujourd’hui sur la terre, l’humanité continue de convoiter ce qui n’appartient qu’à Dieu. Pendant la chute de Jéricho, Acan convoita une partie de ce qui était consacré à l’Éternel (Jos. 6:19, 24; Jos. 7:20, 21). Judas était un voleur et avait l’habitude de voler l’argent qu’on mettait dans la bourse (Jean 12:4-6). Pendant que l’Esprit Saint se manifestait dans l’église, Ananias et Saphira avaient menti parce qu’ils convoitaient une partie de ce qui avait été promis (Actes 5:1-10). Même les élus volaient Dieu après avoir été délivrés de leur exil (Mal. 3:8-10).
+
+La solution à cette avidité et convoitise est de marcher selon l’Esprit, pas selon la chair (Gal. 5:22, Rom. 8:4-9). Ceux qui ne connaissent pas Dieu marchent dans la passion de la convoitise ou de la concupiscence (1 Thess. 4:5). Cependant, ceux qui suivent Jésus doivent renoncer à eux-mêmes et prendre leur croix (Luc 9:23), échappant à la corruption qui existe dans le monde par la convoitise (2 Pierre 1:4).
+
+En imitant Dieu, qui nous accorde toutes choses, y compris les choses que nous Lui donnons (1 Chron. 29:14) – nous marchons dans l’amour, tout comme Jésus l’avait fait. L’amour pour les pécheurs avait inspiré Jésus à Se donner de manière désintéressée pour nous en tant qu’offrande et sacrifice (Éphésiens 5:1, 2). Une vie menée par la prière et par la grâce de Jésus, qui est la Parole faite chair, confirmera les vérités bibliques selon lesquelles « Il y a plus de bonheur à donner qu’à recevoir » (Actes 20:35) et que « Dieu aime celui qui donne avec joie » (2 Corinthiens 9:7).
+
+IIe partie: Commentaire
+
+**Le désir et la convoitise**
+
+1. Un mot utilisé dans le Nouveau Testament pour le désir est epithymia (grec), qui peut avoir le sens de « convoitise », « désir » ou « convoitise de la chair » (Jacques 1:14, 1 Jean 2:16, 17). Avant notre conversion, nous marchions dans la convoitise (epithymia) de la chair (Éphésiens 2:3). Ne connaissant pas Dieu, l’humanité marche selon les convoitises (epithymia) de son propre cœur (Romains 1:21-24). D’autre part, Paul désire (epithymia) voir ses frères (Rom. 15:23) et désire (epithymia) aussi être avec Christ (Phil. 1:23).
+
+Selon le sens ci-dessus, le désir peut être bon ou mauvais. En tant que tel, l’apôtre Paul nous conseille de faire mourir les membres du péché, parmi lesquels se trouvent les mauvais désirs (kakós epithymia) qui sont nocifs et malsains, ainsi que la convoitise (pleoneksia), qui est une idolâtrie (Col 3:5).
+
+2. En revanche, la convoitise est particulièrement marquée par un désir démesuré de richesse ou de possessions, ou de possessions d’autrui. L’apôtre Paul utilise le mot « convoitise » (grec: pleoneksia) dans le sens d’être cupide ou pressé d’être riche (Éphésiens 5:5). Jésus lie également la convoitise à l’abondance des biens matériels (Luc 12:15). La convoitise peut également être appliquée au désir excessif ou illégal de quelque chose. La convoitise (pleoneksia) ou le mauvais désir (kakós epithymia) déforme la perception du pécheur parce qu’il s’agit d’un désir sans maitrise de soi (Gal. 5:22), conduisant à l’idolâtrie (Eph. 5:5) par l’exaltation des choses matérielles (possessions) à la place du Créateur.
+
+**Exemples d’avertissement**
+
+1. Lucifer avait l’intention de s’emparer de la position (trône) de Dieu (Ésaïe 14:12-14) et du droit d’être adoré (Matthieu 4:9), s’exaltant ainsi et plaçant une créature à la place du Créateur. Cependant, ayant échoué au ciel, Lucifer déplaça son attention maléfique vers l’humanité, favorisant le péché et la convoitise pour détruire le trésor du Seigneur sur la terre (Mal. 3:8-10).
+
+Mais le Seigneur fait appel aux fidèles pour qu’ils se tournent vers Lui (Mal. 3:7, 8), promettant des bénédictions incommensurables (Mal. 3:10-12), qui sont meilleures que les gains de la convoitise.
+
+2. Acan reconnut qu’il avait convoité (en hébreu: hamad) des objets consacrés au trésor de l’Éternel. (Jos. 6:18, 19; Jos. 7:21). Hamad signifie désir et aussi « convoitise », « luxure », « beauté », « chose délectable », « délice », « agréable » et « chose précieuse ». Ce mot est utilisé dans le dixième commandement pour interdire la convoitise (Exode 20:17). En tant que tel, le péché peut aussi commencer par le désir de choses bonnes mais interdites. La version grecque de l’Ancien Testament traduit par les Juifs (la septante), ainsi que les écrits de l’apôtre Paul, traduisent hamad (hébreu) dans le dixième commandement comme epithymia (grec), ce qui signifie aussi désir (Rom. 7:7, Rom. 13:9). Mais ce désir ou cette attirance (hamad) pour la beauté et le plaisir interdits peut être surmonté en veillant et en priant (Matt. 26:41). Si l’on ne met pas Dieu à la première place dans sa vie (Matthieu 6:33), le désir, même s’il est initialement innocent et justifié, sera satisfait sans maitrise de soi (Gal. 5:22), conduisant au péché.
+
+Dans le cas d’Acan, son désir s’était porté sur une chose interdite. Après que son péché ait été exposé, Acan, aveuglé par la convoitise (hamad), continuait à décrire le manteau volé comme « bon » ou « beau » (Jos. 7:21). Mais la beauté et la valeur de quelque chose ne justifient ni ne diminuent la culpabilité du péché.
+
+3. Ève (Genèse 3:6) comprit que l’arbre était bon, agréable et désirable (hamad), et elle mangea le fruit défendu. Elle avait violé en Éden le principe du dixième commandement. Encore une fois, la leçon qui nous est donnée est celle de savoir que c’était une chose belle, bonne et désirable (hamad et epithymia), qui avait conduit au péché en Éden, et continue de faire de même après la chute (Jacques 1:14; 1 Jean 2:16, 17).
+
+4. L’expérience de Judas (Jean 12:1-8) est un avertissement que les positions de dirigeant et les évènements miraculeux, en eux-mêmes, ne limitent pas la convoitise dans le cœur humain. En tant que membre des 12 disciples, Judas entendait directement les paroles du Maitre, participait à des miracles merveilleux et servait en tant que trésorier du Seigneur. Cependant, Judas volait les offrandes destinées à l’œuvre de Christ (Jean 12:5, 6) et avait reproché le don couteux qui Lui avait été accordé par un cœur reconnaissant et pénitent. Judas, et quelques autres, n’avaient pas approuvé l’hommage de Marie au Sauveur parce qu’ils estimaient que le parfum offert à Jésus était un gaspillage d’argent qu’on pouvait donner comme offrande. Ils estimaient que cet argent aurait pu être mieux utilisé en étant donné aux pauvres (Marc 14:4, 5). Ou, peut-être, Judas le voulait-il pour lui-même? En plus de pourvoir à l’œuvre du Seigneur (Mal. 3:10), les dimes et les offrandes ont d’autres significations spirituelles pour le fidèle adorateur, telles que, exalter le nom du Seigneur (Mal. 1:11), revenir à Lui (Mal. 3:7, 8), L’honorer (Prov. 3:9) et L’adorer (Ps. 66:13). En tant que telle, la récompense de Marie (Jean 12:3-8) ne lui sera pas enlevée. Pour elle, laver les pieds de Jésus avec un parfum valant plus de trois cents jours de travail était trop peu. Agenouillée et essuyant les pieds du Seigneur avec ses cheveux, Marie s’était également donnée en offrande. Dans cet esprit, la récompense du donateur fidèle ne lui sera jamais enlevée: « les biens de cette terre sont des bénédictions lorsqu’on en fait bon usage. Mais ceux qui les possèdent ne doivent jamais oublier qu’ils les ont reçus de Dieu afin de les employer à l’avancement de sa cause. Ainsi, ils ne perdront pas leur récompense ici-bas, les anges de Dieu les considèreront d’un œil favorable et ils s’amasseront un trésor dans le ciel. » Ellen G. White, Témoignages pour l’église, vol. 1, p. 43.
+
+5. Ananias et Saphira servent d’exemple (Actes 5:1-11). Le livre du Lévitique établit que l’argent de la vente d’une propriété doit être donné comme offrande à la maison du trésor (Lev. 27:8-33). La dime est également incluse dans la liste des choses sacrées (Lev. 27:31-33, Mal. 3:10). Cependant, Lévitique 27 souligne que tout ce qui devait être consacré au Seigneur devait d’abord être évalué par le sacrificateur avant d’être vendu ou racheté, selon la loi de la rédemption (Lev. 27:8, 11-13, 25, 27, 31, 32).
+
+Cette évaluation par le sacrificateur peut suggérer l’intention d’empêcher la convoitise en raison de la sous-évaluation de l’objet donné ou à racheter. D’autre part, l’évaluation du sacrificateur pouvait empêcher le fidèle de conserver une partie des revenus. Étant donné que les sacrificateurs ne supervisaient plus les estimations des biens à vendre ou le déboursement ultérieur du montant donné en offrande, la détermination du prix de l’actif vendu reposait uniquement sur la conscience d’Ananias et de Saphira. Mais Ananias et Saphira avaient menti pour garder pour eux-mêmes une partie de ce qu’ils avaient promis.
+
+Dans le Nouveau Testament, les dimes et les offrandes restent saintes et intouchables, tout comme dans l’Ancien Testament. À l’appui de ce précepte, nous avons la révélation directe du Seigneur Lui-même (Heb. 2:1-4) et du Saint-Esprit (Actes 5:1-11). À Chaque fois qu’il y avait une réforme spirituelle, la libéralité du peuple reprenait clairement en terme de réveil (Exode 35:20-29, 2 Chron. 31:1-12, Mal. 3:6-12, Actes 4:34-37). Mais Ananias et Saphira n’avaient pas été suffisamment impressionnés par l’effusion du Saint-Esprit, et ils en avaient récolté les conséquences. Si Ananias et Saphira avaient réussi dans leur fraude, la crédibilité des apôtres et la légitimité divine de l’église auraient été compromises dès le début. Bien que le même jugement immédiat ne se produise pas aujourd’hui, un jour viendra où tous rendront un compte juste au Seigneur de tous leurs actes, qu’ils soient bons ou mauvais (Eccl. 12:13, 14).
+
+« Cet exemple de la haine divine pour la cupidité, le mensonge et l’hypocrisie était comme un signal d’alarme, non seulement pour l’église primitive, mais pour toutes les générations à venir. L’avarice qu’Ananias et Saphira avaient nourrie dans leur cœur provoqua leur péché... Les offrandes volontaires et la dime constituent les réserves de son œuvre. » Ellen G. White, Conquérants pacifiques, p. 66.
+
+IIIe partie: Application
+
+Demandez à un élève de lire à haute voix les citations ci-dessous. Discutez ensuite avec votre classe des questions qui suivent.
+
+**Remède contre la convoitise**
+
+« Une charité constante et désintéressée constitue le remède divin à l’égoïsme et à la convoitise qui nuisent à notre caractère... Il a voulu que nous prenions ainsi l’habitude de donner, afin de neutraliser le dangereux et fallacieux péché de la cupidité. En effet, si nous donnons continuellement, la convoitise perd son emprise sur nous. » Ellen G. White, Le foyer chrétien, p. 356.
+
+1. La charité désintéressée peut sembler étrangère au cœur humain non régénéré. Comment pouvons-nous cultiver l’habitude de faire la charité désintéressée et prendre plaisir à être généreux, nous libérant ainsi de la convoitise?
+
+2. Comment pouvons-nous impliquer les gens dans les campagnes visant à renforcer la fidélité dans les dimes, les offrandes et les dons réguliers, pour des besoins caritatifs et missionnaires?
+
+**La libéralité et le Saint-Esprit**
+
+« Ces libéralités de la part des croyants résultaient de l’effusion de l’Esprit. Les néophytes “n’étaient qu’un cœur et qu’une âme”. Un intérêt commun les dirigeait: le succès du mandat qui leur était confié; et la cupidité ne trouvait aucune place dans leur vie. » Ellen G. White, Conquérants pacifiques, pp. 64. « Plus tard, ils [Ananias et Saphira] contristèrent le Saint-Esprit, en cédant à un sentiment de cupidité. » Conquérants pacifiques, p. 65. La libéralité chrétienne vient en réponse à notre abandon à l’Esprit d’œuvrer dans nos vies. La convoitise est son opposé. Quelle serait le résultat de votre autoévaluation spirituelle si vous considérez la fidélité, la fréquence et la générosité avec lesquelles vous contribuez aux projets caritatifs et missionnaires de l’église? (Lisez aussi 2 Corinthiens 13:5.)

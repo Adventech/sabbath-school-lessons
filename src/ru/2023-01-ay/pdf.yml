@@ -1,0 +1,29 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-Intro.pdf
+      title: Введение
+      target: ru/2023-01-ay/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-01.pdf
+      target: ru/2023-01-ay/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-02.pdf
+      target: ru/2023-01-ay/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-03.pdf
+      target: ru/2023-01-ay/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-04.pdf
+      target: ru/2023-01-ay/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-05.pdf
+      target: ru/2023-01-ay/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-06.pdf
+      target: ru/2023-01-ay/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-07.pdf
+      target: ru/2023-01-ay/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-08.pdf
+      target: ru/2023-01-ay/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-09.pdf
+      target: ru/2023-01-ay/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-10.pdf
+      target: ru/2023-01-ay/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-11.pdf
+      target: ru/2023-01-ay/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ru/2023-01/ABSG-2023-01-RU-INV-12.pdf
+      target: ru/2023-01-ay/12

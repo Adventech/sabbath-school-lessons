@@ -3,44 +3,44 @@ title:  Misijný príbeh
 date:   28/10/2022
 ---
 
-#### Kristův vyslanec
+#### Kristov veľvyslanec
 
 _Benjie Leach_
 
-Jedním z mých cílů ve funkci kaplana na Forest Lake Academy v Orlandu na Floridě bylo seznámit se s každým studentem. Ve škole se 450 studenty to byla v polovině 70. let minulého století výzva.
+Jedným z mojich cieľov ako kaplána na akadémii Forest Lake v meste Orlando na Floride bolo spoznať každého študenta. Bola to veľká výzva, pretože v 70-tych rokoch minulého storočia bolo na škole približne 450 študentov.
 
-Na začátku školního roku za mnou přišel jeden student a zeptal se: "Už jsi měl možnost seznámit se s Pavlem?" "Ještě ne", odpověděl jsem.
+Na začiatku školského roka prišiel za mnou jeden študent a spýtal sa ma: „Mali ste už možnosť zoznámiť sa s Paulom?“ 
 
-"Musíte se seznámit," řekl student. "Stačí se zeptat, odkud je."
+„Nie, Paula ešte nepoznám.“
 
-Moje zvědavost byla probuzena, a tak jsem Pavla pozval do své kanceláře. Ukázalo se, že je to poměrně ostýchavý šestnáctiletý mladík. "Tak co, Pavle," zeptal jsem se, "odkud jsi?"
+„Tak sa s ním určite musíte porozprávať,“ pokračoval študent. „Spýtajte sa ho, odkiaľ je.“
 
-"Jsem z malého městečka v Georgii, které se jmenuje Plains," řekl.
+Vzbudil vo mne zvedavosť a tak som si Paula zavolal k sebe do kancelárie. Ukázalo sa, že je to nesmelý šestnásťročný chlapec. „Tak Paul, odkiaľ vlastne si?“ spýtal som sa ho.
 
-Ústa se mi otevřela. "Cože?" Řekl jsem. "Tam přece žije prezident Spojených států - Jimmy Carter!"
+„Som z malého mestečka Plains, ktoré je v štáte Georgia,“ odvetil.
 
-Musel jsem se zeptat: "Pavle," řekl jsem, "znáš prezidenta?"
+Prekvapilo ma to. „Čože? Veď z toho mesta pochádza prezident Spojených štátov Jimmy Carter!“ Nedalo mi nespýtať sa ho: „Paul, stretol si sa s prezidentom osobne?“
 
-"Ó, ano," řekl.
+„Jasne že áno,“ odpovedal.
 
-Začátkem léta potřeboval práci, aby si mohl zaplatit školné na Forest Lake Academy, a sehnal si práci ve skladu buráků, hlavním průmyslovým odvětvím, v Plains. Byl nadšený, že si našel práci, a myslel si, že se jasně vyjádřil o tom, že si bere volné soboty. Jeho nadřízený v práci ho však zastavil, když v pátek odcházel se slibem, že se vrátí v pondělí.
+V to isté leto, skôr než začal školský rok, Paul si hľadal brigádu, aby si zarobil na školné v akadémii Forest Lake. Začal pracovať v podniku na spracovanie arašidov, čo je vlastne najrozšírenejšie odvetvie priemyslu v meste Plains. Bol veľmi rád, že sa mu podarilo nájsť si prácu. Pri vstupnom pohovore otvorene povedal, že v sobotu pracovať nebude. Keď však v piatok poobede odchádzal domov so slovami, že príde až v pondelok, zastavil sa pri ňom jeho nadriadený.
 
-"Ne," řekl nadřízený. "Přijď zítra. V sobotu máme otevřeno."
+„Tak to teda nie,“ povedal mu. „Príď aj zajtra, pracujeme predsa aj v sobotu.“
 
-"Ale víte, já jsem adventista sedmého dne," řekl Pavel.
+„Ale viete, ja som adventista siedmeho dňa,“ odvetil Paul.
 
-"Přijď zítra, jinak už práci mít nebudeš," řekl vedoucí.
+„Ak neprídeš zajtra do práce, nemusíš už prísť vôbec,“ povedal nadriadený.
 
-Pavel se na chvíli zamyslel... "Můžu mluvit s majitelem?"
+Paul sa na chvíľku zamyslel a potom povedal: „Mohol by som hovoriť s majiteľom?“
 
-"Ale to je přece prezident!" vykřikl vedoucí.
+„Ale to je predsa pán prezident!“ povedal prekvapene nadriadený.
 
-"Je ve městě?", zeptal se Pavel.
+„A je teraz v meste?“ spýtal sa Paul.
 
-"Ano, ale nemyslím si, že by to něco změnilo."
+„Áno, ale myslím si, že sa vôbec nič nezmení.“
 
-Pavel se vydal do Carterova domu. Musel projít přes tajnou službu, ale mohl si s prezidentem sednout. Jimmy Carter pozorně naslouchal, když mu vysvětloval situaci a své dodržování soboty jako sedmého dne. "Vážím si každého mladého člověka, který má své přesvědčení a stojí si za tím, čemu věří," řekl prezident. "Můžete mít volné soboty."
+Paul sa rozhodol zájsť ku Carterovým domov. Musel prejsť kontrolou ochranky, ale nakoniec sa mu podarilo posedieť si s pánom prezidentom. Jimmy Carter si pozorne vypočul, ako mu chlapec vysvetľoval svoju situáciu a postoj k sobote. „Rešpektujem každého mladého človeka, ktorý je ochotný postaviť sa za to, čomu verí,“ povedal mu prezident. „Budeš mať voľné soboty.“
 
-A tento jemně mluvící šestnáctiletý teenager se stal Kristovým vyslancem u amerického prezidenta.
+A tak sa tento nesmelý šestnásťročný chlapec stal Kristovým veľvyslancom pred prezidentom Spojených štátov.
 
-Vy i já jsme také vyslanci Krista. Píše se to také v 2. Korintským 5:20. Buďme tedy s Kristovou pomocí věrnými vyslanci.
+Rovnako aj ja a ty sme Kristovými veľvyslancami. „V mene Krista sme vyslanci a cez nás akoby Boh napomínal.“ (2 Kor 5,20) Buďme s Božou pomocou vernými veľvyslancami.

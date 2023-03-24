@@ -65,18 +65,18 @@ Daily communion with God and modest living must be life’s rules because we don
 
 In these last days, times have been perilous (2 Tim. 3:1). With this peril in mind, remind your students that God requires them to fulfill two sacred duties: (a) advancing God’s kingdom on this earth and (b) staying faithful during trials and persecution.
 
-A. God’s Followers Must Give Heed to the Advancement of God’s Work.
+**A. God’s Followers Must Give Heed to the Advancement of God’s Work.**
 
 “The work of God is to become more extensive, and if His people follow His counsel, there will not be much means in their possession to be consumed in the final conflagration. All will have laid up their treasure where moth and rust cannot corrupt; and the heart will not have a cord to bind it to earth.”—Ellen G. White, Counsels on Stewardship, p. 60.
 
-1.	How can you be more faithful with your means? In what ways are you withholding the Lord’s portion, which will “be consumed in the final conflagration”?
+`How can you be more faithful with your means? In what ways are you withholding the Lord’s portion, which will “be consumed in the final conflagration”?`
 
-2.	Lot’s wife looked back to the possessions that held her heart; thus, she met a tragic end (Gen. 19:26). What can you do so that your heart will “not have a cord to bind it to earth” and so that you will not look back as Lot’s wife did?
+`Lot’s wife looked back to the possessions that held her heart; thus, she met a tragic end (Gen. 19:26). What can you do so that your heart will “not have a cord to bind it to earth” and so that you will not look back as Lot’s wife did?`
 
-B. We Must Be Faithful Amid Hardships.
+**B. We Must Be Faithful Amid Hardships.**
 
 “When the Light of the world passes by, privilege will be discerned in hardship, order in confusion, success in apparent failure. Calamities will be seen as disguised blessings; woes, as mercies.”—Ellen G. White, Education, p. 270.
 
-Even those who are faithful go through trials (John 16:33). Ask a student to share with the class how he or she learned to depend fully on God in a time of tribulation. How did this experience teach your student that God is fully in control of everything and works all things out for his or her good? How did this experience increase your student’s trust in God and in His faithfulness? Ask other students to share with the class the lessons they learned from this class member’s experience.
+`Even those who are faithful go through trials (John 16:33). Ask a student to share with the class how he or she learned to depend fully on God in a time of tribulation. How did this experience teach your student that God is fully in control of everything and works all things out for his or her good? How did this experience increase your student’s trust in God and in His faithfulness? Ask other students to share with the class the lessons they learned from this class member’s experience.`
 
 `Notes`

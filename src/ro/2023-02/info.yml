@@ -1,0 +1,24 @@
+---
+  title: "Trei mesaje cerești"
+  description: "În data de 15 octombrie 1844, cu o săptămână înainte de Marea Dezamăgire, într-o familie evlavioasă luterană din Germania s-a născut un băiat. Numele lui era Friedrich Nietzsche, cel care avea să devină unul dintre cei mai influenți atei ai lumii moderne."
+  human_date: "Aprilie · Mai · Iunie 2023"
+  start_date: "25/03/2023"
+  end_date: "23/06/2023"
+  color_primary: "#AD644E"
+  color_primary_dark: "#9C462D"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Mark Finley"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Redactare
+      value: "Gianina Floricel"
+    - name: Referent
+      value: "Daniel Brînzan"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Corectură
+      value: "Lavinia Goran"
+    - name: Copertă
+      value: "Liliana Dincă"
