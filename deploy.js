@@ -48,7 +48,7 @@ let donationNotice = {
     "</div>"
 }
 
-let egwTemplate = function(title, text) {
+let getAdditionalReadingHtml = function(title, text) {
   return `\n\n---\n\n<div style="display: none" class="ss-donation-appeal">
 <div class="ss-donation-appeal-title">
 <p>${title}</p>
@@ -62,12 +62,30 @@ ${text}
 `
 }
 
-let egwTitles = {
+let additionalReadingTitles = {
   "en": {
     title: "Additional Reading: Selected Quotes from Ellen G. White",
     final: "Supplemental EGW Notes",
     pppCopyright: "<small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small>",
     regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
+  },
+  "mk": {
+    title: "Додаток: Утрински стих",
+    final: "Утрински стих",
+    pppCopyright: "",
+    regex: "---\n+#{2,} Додаток: Утрински стих"
+  },
+  "cs": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+  },
+  "sk": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
   }
 }
 
@@ -124,6 +142,10 @@ let renderer = new metaMarked.noMeta.Renderer();
 renderer.codespan = function (text) {
   return '<code>' + ent.decode(text) + '</code>';
 };
+
+renderer.image = function (href, title, text) {
+  return `<img style="max-width:100%" alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
+}
 
 let slug = function (input) {
   return input.toLowerCase().replace(/ /g, "-")
@@ -406,8 +428,8 @@ let getLessonJSON = function (lessonPath, pdf, pdfPath) {
 };
 
 let getDayJSON = function (dayPath, deep) {
-  let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer}),
-      info = getInfoFromPath(dayPath);
+  let info = getInfoFromPath(dayPath);
+  let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer, baseUrl: `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/`});
 
   let day = _day.meta;
   day.id = info.day;
@@ -653,14 +675,14 @@ let dayAPI = async function () {
 
       resultRead = day.markdown;
 
-      if (egwTitles[info.language]) {
-        let egwRegexTitle = new RegExp(egwTitles[info.language].regex, "img"),
-            egwRegexFull = new RegExp(`${egwTitles[info.language].regex}(.*\n?)+`, "img")
+      if (additionalReadingTitles[info.language]) {
+        let additionalReadingRegex = new RegExp(additionalReadingTitles[info.language].regex, "img"),
+            additionalReadingFull = new RegExp(`${additionalReadingTitles[info.language].regex}(.*\n?)+`, "img")
 
-        if (egwRegexTitle.test(resultRead)) {
-          let egwComments = resultRead.match(egwRegexFull)[0].replace(egwRegexTitle, "").trim()
-          resultRead = resultRead.replace(egwRegexFull, "").trim()
-          resultRead += egwTemplate(egwTitles[info.language].final, `${egwComments}\n\n${egwTitles[info.language].pppCopyright}`)
+        if (additionalReadingRegex.test(resultRead)) {
+          let additionalReadingComments = resultRead.match(additionalReadingFull)[0].replace(additionalReadingRegex, "").trim()
+          resultRead = resultRead.replace(additionalReadingFull, "").trim()
+          resultRead += getAdditionalReadingHtml(additionalReadingTitles[info.language].final, `${additionalReadingComments}\n\n${additionalReadingTitles[info.language].pppCopyright}`)
         }
       }
 
@@ -713,7 +735,8 @@ let dayAPI = async function () {
       }]
     }
 
-    read.content = metaMarked(resultRead, {renderer: renderer}).html;
+    read.content = metaMarked(resultRead, {renderer: renderer,
+      baseUrl: `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/`}).html;
 
     if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId))) {
       read.content = donationNotice[info.language] + read.content;

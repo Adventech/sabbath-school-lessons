@@ -11,7 +11,7 @@ My 14-year-old son, Eichiro, had a special plan for his summer vacation in Japan
 
 Eichiro did careful preliminary online research to find out which tablet would be the best for him, and he even went to the store with his father to see it in person. At the same time, he eagerly looked for ways to earn money, even asking me to pay him for doing simple household chores.
 
-After some time, he saved up 55,000 Japanese yen (U.S.$500), and he ordered the tablet online. “It will arrive soon!” he excitedly told me. Every three hours, he went online to check the delivery status.
+After some time, he saved up 55,000 Japanese yen (U.S.500), and he ordered the tablet online. “It will arrive soon!” he excitedly told me. Every three hours, he went online to check the delivery status.
 
 A few days later, the package arrived. Eichiro carefully opened it, checked the tablet’s functions, and began to paint. For the next three days, he was like a professional artist holed up in a studio. Then he emerged from his room and made an astonishing announcement. “I’m thinking about giving the tablet away,” he said. He had seen a video, produced by the Seventh-day Adventist Church in Japan, about a project to create a comic-book version of Ellen G. White’s The Great Controversy. In the video, he had seen a young Adventist artist starting to work on the project with an old tablet.
 

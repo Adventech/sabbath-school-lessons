@@ -1,0 +1,17 @@
+### Kunga Resursu Pārvaldnieki līdz Viņa nākšanai
+
+Mums ir grūti pilnībā aptvert, kādas attiecības mūsu Dievs, visuma Radītājs, vēlas ar mums, cilvēkiem. (Jau pati ideja par to ir pārsteidzoša!) “Redziet, kādu mīlestību Tēvs mums ir parādījis, ka tiekam saukti Dieva bērni." (1)ņ 3:1) Elena Vaita rakstīja: “Vai jelkāds cilvēcisks cienīgums var tam līdzināties? Vai mēs varam ieņemt vēl augstāku stāvokli, kā tikt sauktiem par bezgalīgā Dieva dēliem? [..] Vai jelkāds pasaulīgs pagodinājums var tam līdzināties?" (Elena Vaita "God's Amazing Grace", 341. lpp.) Tikai šīs grēka pārņemtās pasaules tumsa ir cēlonis tam, ka mēs pilnībā nenovērtējam statusu, kas mums ir dots Jēzū.
+
+Tomēr, ja mēs neesam uzmanīgi, pasaules vilinājumi un pasaules lietas aizvedīs mūs prom no Kristus. Dieva Vārds informē mūs par sātana kārdināšanām un valdzināju- miem. "Bet, kas grib tapt bagāts, krīt kārdinājumā un valgā un daudzās bezprātīgās un kaitīgās iegribās, kas gāž cilvēkus postā un pazušanā. Jo visa ļaunuma sakne ir mantas kārība; dažs labs, tiekdamies pēc tās, ir nomaldījies no ticības un pats sev nodarījis daudz sāpju." (1Tim 6:9, 10)
+
+Tomēr Kungs mūs vada šajā jautājumā, kā nopelnīt naudu un to izlietot gudri, lai neļautu tam novest mūs “postā un pazušanā”, kā Pāvils brīdina. Vairāk nekā 2000 pantos, kuros Bībelē ir runāts par naudu un īpašumiem un par mūsu attieksmi pret tiem, Dievs sniedz praktiskus norādījumus, kā tikt galā ar dzīves spriedzi un finansiāli uzticamā veidā pārvaldīt to, kas mums ir dots.
+
+Šī ceturkšņa tēmās mēs pētīsim Dieva ideālu mūsu attiecībām ar Viņu un skaidri redzēsim, kā mēs varam attīstīt tik dziļu uzticību, ka paliekam uzticīgi Viņam, pat ja mēs nevaram pirkt vai pārdot. (Sk. Atkl 13:17.) Taču šāda veida ticība nerodas vienā naktī. Uzticīgi pārvaldot to, ko Dievs mums ir devis, mēs varam būt jau tagad gatavi tam, kas nāk mūsu ceļā. Dievam pieder resursi, un, ja mēs strādājam ar Viņu, Viņš ļauj mums ar tiem rīkoties Viņa labā. Glābēja nolūks ir, lai cilvēki, šķīstīti un darīti svēti, būtu Viņa palīdzošās rokas.
+
+Pateiksimies par šo lielo priekšrocību Viņam, kas “mūs ir izrāvis no tumsības varas un pār- cēlis Sava mīļā Dēla valstībā, kurā mums dota pestīšana, grēku piedošana” (Kol 1:13,14).
+
+Dieva padoms Viņa bērniem ar gudrā vīra Salamana starpniecību ir: "Godini Dievu ar saviem īpašumiem un ar visas savas peļņas pirmajiem augļiem." (Sak 3:9, NKJV) Šis padoms ir atbilstošs, jo “Tu, Kungs, mūsu Dievs, Tu esi cienīgs saņemt slavu, godu un spēku, jo Tu esi radījis visas lietas, ar Tavu gribu visas lietas bija un ir radītas” (Atkl 4:11).
+
+Tikai no laicīgas perspektīvas raugoties, mēs dzīvojam ļoti izaicinošos un spriedzes pilnos laikos. Tomēr mūsu kristīgais pasaules uzskats dod mums pārliecību un cerību, redzot zīmes, ko Jēzus ir devis, lai mēs zinātu, ka cilvēces vēstures lielā kulminācija, Kristus otrā nākšana, ir ļoti tuvu-tepat pie durvīm. Mēs lūdzam, lai šīs praktiskās Bībeles studijas padziļina jūsu ticību un uzticību Dievam un iedrošina jūs būt uzticīgiem Viņa pārvaldniekiem.
+
+_Edvards Reids, M.Div. (Endrjūsas universitāte), MPH (Loma Lindas universitāte), JD (Džordžijas valsts universitāte) ir ordinēts mācītājs un sertificēts advokāts, daudzus gadus kalpojis kā Ziemeļamerikas divīzijas namturības kalpošanas vadītājs. Bībeles citātos izmantots 1965. gada izdevuma revidētais teksts un 2012. gadā izdotās Bībeles teksts (norādīts kā JT)._

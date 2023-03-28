@@ -76,6 +76,16 @@ let validateContent = async function () {
             }
         }
 
+        if (fs.pathExistsSync(`${quarterly}/pdf.yml`)) {
+            try {
+                doc = yamljs.load(fs.readFileSync(`${quarterly}/pdf.yml`));
+            } catch (e) {
+                e = e.toString().replace(/\n/g, '<br>');
+                fail(`Critical error. Can not parse the quarterly pdf file: \`${quarterly}\`/pdf.yml. Error: \`${e}\``);
+                break
+            }
+        }
+
         if (fs.pathExistsSync(`${quarterly}/audio.yml`)) {
             try {
                 doc = yamljs.load(fs.readFileSync(`${quarterly}/audio.yml`));

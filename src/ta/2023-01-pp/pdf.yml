@@ -1,0 +1,62 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-01.pdf'
+      target: ta/2023-01-pp/01
+      title: உளவுசேவை
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-02.pdf'
+      target: ta/2023-01-pp/02
+      title: தீரச்‌ செயலும்‌ சவாலும்‌
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-03.pdf'
+      target: ta/2023-01-pp/03
+      title: யோர்தான்‌ ஊடாக
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-04.pdf'
+      target: ta/2023-01-pp/04
+      title: வெற்றியும்‌ தோல்வியும்‌
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-05.pdf'
+      target: ta/2023-01-pp/05
+      title: குடும்ப ஒற்றுமை
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-06.pdf'
+      target: ta/2023-01-pp/06
+      title: மரணமா தூக்கமா?
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-07.pdf'
+      target: ta/2023-01-pp/07
+      title: துக்கத்தில்‌ இரு சகோதரிகள்‌
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-08.pdf'
+      target: ta/2023-01-pp/08
+      title: லாசரும்‌ உயிர்த்தெழும்‌ சத்தியமும்‌
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-09.pdf'
+      target: ta/2023-01-pp/09
+      title: சந்தோஷம்‌ கவலை - தேவனுக்கு மகிமை
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-10.pdf'
+      target: ta/2023-01-pp/10
+      title: கீழ்படியாத ஆசாரியர்கள்‌
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-11.pdf'
+      target: ta/2023-01-pp/11
+      title: ஒரு ராஜா, ஒரு சூனியக்காரி ஒரு பிசாசு
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ta/2023-01/ABSG-2023-01-TA-PP-12.pdf'
+      target: ta/2023-01-pp/12
+      title: தேர்ந்தெடுத்தல்‌
+      start_date: 18/03/2023
+      end_date: 24/03/2023

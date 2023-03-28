@@ -1,0 +1,25 @@
+### Dagiti Damdamag Dagiti Tallo nga Angel
+
+Idi Oktobre 15, 1844, maysa a lawas sakbay ti Dakkel a Pannakauppapay, maysa nga ubing a lalaki iti nayanak iti maysa a relihioso a pamilya ti Lutheran idiay Germany. Ti naganna ket Friedrich Nietzsche, nga isu nga agbalin a maysa a kabaroan a kaiimpluwensyaan nga ateista [di mamati iti Dios]. Iti panamatina a ti Nacristianoan a Dios ket matmatay idiay Laud, ni Nietzsche binaraanna ti agtultuloy a namoralan nga impluwensya ti Cristiano, inum-umsina dayta a kas maysa nga “adipen ti moralidad,” ti moralidad ti nakapuy nga isu, nga iti maysa a pananggandat a mangsalaknib kadagiti bagbagida manipud iti napigpigsa, nangaramid iti kasta a minamaag a kapkapanunotan a kas iti “Ayatem dagiti kabusormo.” Ken Nietzsche, ti kabaroanan ket masapul a labsanna pay dagiti kadaanan a kapkapanunotan ti “naimbag ken dakes”; maysa a karakter iti maysa kadagiti librona (THUS SPAKE ZARATHUSTRA) impakdaarna, “Buraken dagiti daan a taptapi ti linteg!” (agpayso, ti kayatna a saoen, ti Sangapulo a Bilbilin).
+
+Ti tawen nga 1844 ket napateg met ken ni Karl Marx, ti nangbangon iti kinakomonista. Nanaganan iti “ECONOMIC AND PHILOSOPHIC MANUSCRIPTS OF 1844,” daytoy a trabaho ket insurat ni Marx iti dayta a tawen, uray pay no saan a naipablaak agingga idi 1932 babaen ti Soviet Union. Dagiti sursurat ipakitana ti immuna a pannakairugi ti kapanunotan ti Marx nga isu nga inrikkiarna iti maysa a namimpinsan a namaterialan a kinapaypayso a naggunay babaen kadagiti nadumaduma a tukad ti ekonomya agingga a dagiti trabahador ti lubong ket agkaykaysada, a mangrugpo kadagiti mamarparigat a kapitalistada, ken mangpataud iti maysa a talna ditoy daga.
+
+Ti tawen nga 1844 ket maysa met a napateg idi ken ni Charles Darwin. Iti dayta ket nagbalin a pagaammo a kas “ESSAY OF 1844,” ni Darwin pinataudna ti maysa kadagiti kauunaan a pannakaipakita ti teoryana iti ebolosyon, uray pay no saan pay a naipubliko. Idi laeng 1859, agraman ti pannakaipablaak ti ON THE ORIGIN OF SPECIES, nga impablaak ni Darwin iti publiko ti panangkitana nga amin a nabiag ditoy daga ket naggapuda iti maymaysa a gagangay a nagtaudan babaen ti natoral ken karkarna a proseso laeng.
+
+Nupay kasta, ti tawen nga 1844 ket, isu ti pannakatungpal ti padto a 2300 nga al-aldaw iti Daniel 8:14, ken iti isu met la a tawen a, kadagiti nabatbati iti Dakkel a Pannakauppapay, dagiti bukbukel ket naimula a dimmakkel iti maysa a sangalubongan a tignay a ti bugas iti damagda ti nangtukiad kadagiti lalaem ti idolohiya ti Marxist, Nietzschean, ken Darwinian.
+
+Maisupadi iti Marx, ti tignay ti Adventista Del Septimo Dia inwaragawagna a ti dakkel a panagbinnusor iti nagbaetan ni Cristo ken Satanas, saan a maysa a namaterialan nga ayus ti historya [pakasaritaan], inlawlawagna ti pakasaritaan ti lubong nga agpatingganto, saan a ti inaramid ti tao a kinokomonista a talna no di ket iti panangipasdek ti Dios iti agnanayon a pagarian.
+
+Maisupadi ken Darwin, ti tignay ti Adventista Del Septimo Dia insurona a ti biag naggapu, saan nga iti natoral ken karkarna a proseso no di ket iti babaen ti pannakabalin ti Namarsua a Dios, nga isu nga iti innem nga alaldaw pinarsuana ti biag ditoy daga ken naginana iti maikapito.
+
+Ken maisupadi ken Nietzsche, ti tignay ti Adventista Del Septimo Dia inwaragawagna, saan laeng nga adda iti Dios no di pay ket ti sapasap a linteg ti moralidad (dagiti Daan a taptapi ti Linteg), ti Sangapulo a Bilbilin, ket agtalinaed a namimpinsan a pagrukodan ti Dios iti panangokom ken agtultuloy iti amin a sangkataoan.
+
+Nairanrana ngata nga amin dagitoy a paspasamak ket napasamakda idi 1844? Saan koma a panunoten a kasta.
+
+Da Marx, Nietzsche, Darwin—tallo a naimpluwensya a tattao a dagiti trabahoda ket namataud iti saan a matarimaan a dangran iti sangkataoan. Ngem iti tengnga ti amin dagitoy a biddut, ti Dios ket dina pinanawan ti lubong nga awan ti saksi iti kinapudnona, nga isu ti gapu no apay nga iti tengnga dagitoy makadadael nga idolohiya, Isu ket namataud iti maysa a tignay nga iti panaglabas ti tiempo, ket agbalin nga Iglesia Adventista Del Septimo Dia ken iwaragawagna ti kinapudnona iti maudi nga aldaw ditoy lubong—dagiti damdamag dagiti tallo nga angel. Dagitoy dagiti damdamag nga, iti bugasda, ket sinuppiatna dagiti biddut ken saan a husto a pannakaawat a pinarang-ay dagidiay tallo a nakabutbuteng iti pannakaallilawda a lallaki.
+
+Dagiti damdamag dagiti tallo nga angel, iti maysa a panangkita, ket ti agdama nga ar-aramiden ti Iglesia Adventista Del Septimo Dia. Ken iti bugasda, isuda ti evangelio, nadalus ken nalaka, ngem ti evangelio a maiparang ket iti lawag ti “agdama a kinapudno” (2 Ped. 1:12).
+
+Ket iti daytoy, dagiti damdamag dagiti tallo nga angel, ket isu ti adalentayo ita a tremestre.
+
+_Maysa a tubo ti Connecticut, U.S.A., ni Mark Finley, maysa a sangalubongan a pagaammo a mangaskasaba, ket nagbalin a bise presidente iti General Conference manipud 2005—2010. Kalpasan a nagretiro manipud iti pannakaiyemplona, nagbalin a katulongan iti presidente ti General Conference. 107Ni Pastor Finley ken ti asawana, ni Ernestine, ket addaanda iti tallo nga annak ken lima nga appoko._
