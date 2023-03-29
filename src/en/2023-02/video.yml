@@ -1,0 +1,18 @@
+---
+  video:
+    - artist: Hope Sabbath School
+      clips:
+        - src: https://storage.googleapis.com/hc-jetstream-library/hcorg_33O0ldvawCD/v/jsv_ttxFRKOMgqR/jsv_ttxFRKOMgqR-jsren_AvTNDv4SXzs-360p.mp4
+          thumbnail: https://images.hopeplatform.org/resize/L3c6NzY4LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL01oTDE2NzkzNzEyMDI2MTIuanBn/w:768,q:75/hope-images/620e23d4c49d64006595c192/MhL1679371202612.jpg
+    - artist: It Is Written
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-01.webp
+    - artist: Amazing Facts Study Hour
+      thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg"
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-02-01.mp4
+    - artist: Sabbath School Talking Points
+      clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-01.webp
