@@ -1,4 +1,5 @@
 ### Úvod
+
 #### Posolstvo troch anjelov
 
 Dňa 15. októbra 1844, týždeň pred veľkým sklamaním, sa v zbožnej luteránskej rodine v Nemecku narodil chlapec. Volal sa Friedrich Nietzsche a stal sa jedným z najvplyvnejších ateistov modernej doby. Nietzsche bol presvedčený, že kresťanský Boh na Západe umiera, kritizoval pokračujúci morálny vplyv kresťanského náboženstva a posmieval sa mu ako „morálke otrokov“, morálke slabých, ktorí si v snahe ochrániť sa pred silnejšími vymysleli také hlúpe pravidlá ako napríklad „Milujte svojich nepriateľov“. Nietzsche to vnímal tak, že v modernej dobe sa človek potrebuje dostať za zastarané predstavy o „dobre a zle“. Vo svojej slávnej knihe Tak vravel Zarathustra hovorí Nietzsche: „Rozbite tie staré dosky!“ (čím mal, samozrejme, na mysli Desatoro).
