@@ -1,0 +1,62 @@
+---
+title:  '#### Bahagian I: Gambaran Keseluruhan'
+date:  23/06/2023
+---
+
+Nubuatan Wahyu mendedahkan apa yang akan datang, supaya umat Tuhan dapat bersiap sedia untuk itu. Dalam suratnya kepada jemaat di Tesalonika, rasul Paulus dengan jelas menyatakan tujuan nubuatan: “Tetapi kamu, saudara-saudara, kamu tidak hidup di dalam kegelapan, sehingga hari itu tiba-tiba mendatangi kamu seperti pencuri,  karena kamu semua adalah anak-anak terang dan anak-anak siang. Kita bukanlah orang-orang malam atau orang-orang kegelapan. Sebab itu baiklah jangan kita tidur seperti orang-orang lain, tetapi berjaga-jaga dan sadar.” (1 Tes. 5:4–6, ITB). Firman Tuhan memberikan terang  jalan di hadapan. Dalam pelajaran minggu ini, kita akan mengkaji ramalan Wahyu tentang pergerakan terakhir sejarah bumi ini.
+
+Memahami apa yang akan datang akan membantu kita bersedia untuk konflik terakhir antara kuasa yang baik dan yang jahat. Wahyu 18 meramalkan bahawa gabungan kuasa agama, politik, dan ekonomi, yang dipanggil Babilon, akan bersatu dalam usaha untuk memerintah dunia. Tetapi Tuhan tahu semua itu sebelum terjadi. Menurut Wahyu 18:1, 2, Tuhan akan bergerak melalui Roh Kudus-Nya untuk menerangi dunia dengan kemuliaan-Nya. Kuasa iblis dari bawah akan ditentang oleh kuasa syurga dari atas. Kemudian akan ditunjukkan melalui umat Tuhan bahawa kemuliaan Tuhan adalah karakterNya.
+
+Fokus kajian pelajaran kita minggu ini adalah mengenai kemuliaan Tuhan, yang dinyatakan melalui umat-Nya, untuk menerangi dunia ini yang digelapkan oleh dosa. Diubah oleh rahmat, ditransformasi oleh kasih, dipenuhi dengan Roh Kudus, gereja hari terakhir Tuhan memberikan rayuan terakhir-Nya kepada dunia ini, maka berpuluh-puluh ribu mendengar dan menyahut panggilan itu. Oleh itu, “Injil Kerajaan ini akan diberitakan di seluruh dunia menjadi kesaksian bagi semua bangsa, sesudah itu barulah tiba kesudahannya” (Mat. 24:14, ITB).
+
+#### Bahagian II: Ulasan
+
+Kemuliaan Tuhan
+
+Wahyu 18:1 adalah salah satu petikan yang paling penting dalam keseluruhan kitab Wahyu. Ia berbunyi, “Sesudah itu aku melihat malaikat lain turun dari syurga, mempunyai kuasa yang besar, dan bumi bercahaya dengan kemuliaan-Nya” (ITB). Ungkapan “bumi diterangi dengan kemuliaan [kemuliaan Tuhan]” sangat penting. Seluruh Wahyu terdapat tiga perkataan yang dihubungkan bersama—“Kemuliaan Tuhan, kehormatan Tuhan, dan kuasa Tuhan.”
+
+Wahyu 4:11 menyatakan ‘’ ’Engkau layak menerima puji-pujian dan hormat dan kuasa’ ” (ITB). Lihat Wahyu 5:12, di mana Yohanes sekali lagi berkata bahawa Yesus layak menerima, antara lain, kemuliaan, kehormatan, dan kuasa. Kita menemukan pemikiran ini lagi dalam Wahyu 19:1, “‘Keselamatan dan kemuliaan dan hormat dan kuasa ada pada TUHAN, Elohim kita!’” (IMB). Dan perhatikan bagaimana Wahyu, merujuk kepada Yerusalem Baharu tempat tinggal  orang-orang kudus: “Mereka akan membawa kemuliaan dan hormat bangsa-bangsa ke dalamnya” (Wahyu 21:26, ITB).
+
+Kontroversi besar antara yang baik dan yang jahat di alam semesta adalah mengenai kehormatan dan reputasi Tuhan. Syaitan, seorang malaikat yang memberontak, telah menyatakan bahawa Tuhan tidak adil—bahawa Dia menuntut penyembahan tetapi memberikan sedikit balasan. Si jahat mengisytiharkan bahawa hukum Tuhan adalah sewenang-wenangnya dan menyekat kebebasan kita dan menghadkan kegembiraan kita.
+
+Kehidupan, kematian, dan kebangkitan Yesus menghancurkan mitos itu. Dia yang mencipta kita terjun ke dalam lubang ular dunia ini untuk menebus kita. Di atas salib, Yesus menjawab tuduhan Syaitan dan menunjukkan bahawa Tuhan adalah pengasih dan adil. Terpesona oleh kasih-Nya, prihatin akan kehormatan-Nya, maka umat-Nya akhir zaman menyatakan kemuliaan-Nya—sifat-Nya yang penuh kasih yang rela berkorban—kepada dunia yang tidak bertuhan yang mementingkan diri sendiri. Dengan demikian, bumi akan diterangi oleh penyataan tentang sifat Tuhan.
+
+Kepenuhan Roh
+
+Roh Kudus akan dicurahkan dalam kepenuhan kuasa-Nya sejurus sebelum kedatangan Yesus, maka bumi akan diterangi dengan kemuliaan Tuhan. Wahyu 18:1 adalah penggenapan kata-kata nabi Perjanjian Lama Habakuk: “Sebab bumi akan penuh dengan pengetahuan tentang kemuliaan TUHAN, seperti air yang menutupi dasar laut” (Hab. 2:14, ITB). Seperti yang baru kita ulas, kemuliaan Tuhan adalah karakter kasih-Nya. Tetapi pernyataan ini menimbulkan persoalan: Bagaimanakah kemuliaan ini akan didedahkan pada saat-saat terakhir sejarah di atas sebuah planet yang gelap secara moral dan tercemar oleh dosa?
+
+Untuk menjawab soalan ini, mari kita fikirkan pengalaman Musa. Ingat ketika Musa meminta Tuhan untuk menunjukkan kemuliaan-Nya? Apakah yang Tuhan nyatakan? Mari kita baca jawapan Tuhan kepada soalan Musa: “Tetapi jawabnya: ‘Perlihatkanlah kiranya kemuliaan-Mu kepadaku.’  Tetapi firman-Nya: ‘Aku akan melewatkan segenap kegemilangan-Ku dari depanmu dan menyerukan nama TUHAN di depanmu: Aku akan memberi kasih karunia kepada siapa yang Kuberi kasih karunia dan mengasihani siapa yang Kukasihani.’ ” (Keluaran 33:18, 19, ITB). Kemuliaan Tuhan adalah karakter-Nya.
+
+Kemuliaan Tuhan memenuhi bumi pada masa kegelapan rohani, ketika umat-Nya, diliputi oleh kasih-Nya, diubah oleh kasih karunia-Nya, dan berkomitmen pada misi-Nya, mengungkapkan kepada dunia sifat pengasih-Nya dalam kehidupan dan kesaksian mereka. Kesaksian tentang kehidupan mereka yang tidak mementingkan diri sendiri dan pemberitaan perkhabaran tentang kebaikan, kasih kurnia, dan kebenaran-Nya sangat bertentangan dengan keegoisan, kesombongan, dan kepalsuan sistem dunia ini.
+
+Rayuan Terakhir Tuhan
+
+Seorang malaikat turun dari syurga dengan perkhabaran terus dari takhta Tuhan, perkhabaran yang memanggil umat-Nya keluar dari persekutuan agama politik yang murtad bernama Babilon. Amaran Tuhan adalah bahawa “‘Sudah rubuh, sudah rubuh Babel, kota besar itu, dan ia telah menjadi tempat kediaman roh-roh jahat’” (Wahyu 18:2, ITB). Pengisytiharan ini mencerminkan malaikat kedua dalam Wahyu 14 yang juga mengumumkan kejatuhan Babel (Why. 14:8). Wahyu 18:4 adalah panggilan terakhir Tuhan kepada semua manusia. Dia dengan segera menyeru kepada orang-orang yang dipanggil dengan nama-Nya, ” ‘Keluarlah dari padanya [Babel], hai umat-Ku, supaya kamu jangan mengambil bahagian dalam dosanya, dan supaya kamu jangan menerima tulah-tulahnya’ ” (ITB). “Dosa adalah pelanggaran hukum Tuhan”
+
+(1 Yohanes 3:4). Tuhan memanggil umat-Nya untuk keluar dari setiap gereja yang melanggar hukum. Mengapakah Tuhan memanggil umat-Nya keluar dari Babel pada saat ini? Wahyu 18:5 memberi tahu kita: “ ‘Sebab dosa-dosanya telah bertimbun-timbun sampai ke langit, dan Tuhan telah mengingat segala kejahatannya’ ”(ITB). Babel telah memenuhi cawan kejahatannya. Tuhan menyimpan catatan yang tepat tentang dosa kekuatan duniawi, dan setelah jumlahnya mencapai jumlah tertentu, Tuhan berkata, "Cukup!"
+
+Itulah yang berlaku kepada zaman Nuh. Tuhan menghantar khabar penebusan kepada dunia sebelum air bah, tetapi apabila dosa mereka mencapai jumlah tertentu, dan selepas setiap orang di bumi mempunyai peluang untuk bertaubat, hujan datang. Kita melihat perkara yang sama sekali lagi dalam pemusnahan Sodom dan Gomora. Lot membuat rayuan yang sungguh-sungguh kepada anak-anaknya untuk meninggalkan Sodom bersamanya. Apabila jumlah dosa mencapai jumlah tertentu, api itu turun.
+
+Perkara yang sama berlaku dengan Babilon purba. Tuhan menghantar perkhabaran demi perkhabaran kepada Babel, menyeru para pemimpin dan rakyatnya untuk bertaubat, tetapi apabila perkhabaran itu ditolak, orang Media dan Persia menyerang. Belas kasihan Tuhan bertahan lama dengan anak-anak-Nya yang sesat. Dia memberi mereka setiap peluang untuk bertaubat. Dia menghantar Roh-Nya kepada hati individu. Dia menghantar amaran melalui nabi dan membuat rayuan segera, tetapi Dia memberi kepada semua kebebasan untuk memilih. Babilon rohani, seperti juga Babilon purba, mengeraskan hatinya dalam pemberontakan.
+
+Angkatan iblis akhirnya akan menguasai sepenuhnya Babilon rohani moden. Dia menjadi “tempat kediaman roh-roh jahat dan tempat bersembunyi semua roh najis” (Wahyu 18:2, ITB). Umat Tuhan dipenuhi dengan Roh Kudus,  sebaliknya, roh-roh iblis memenuhi Babel. Apabila mana-mana individu atau organisasi keagamaan dengan sengaja berpaling daripada ajaran Kitab Suci, mereka menjadi terbuka kepada khayalan rohani. Satu-satunya cara untuk mengelak daripada dikawal oleh roh yang tidak kudus adalah dengan dikawal oleh Roh Kudus..
+
+Penipuan Babel rohani menjadi universal, karena semua bangsa akan meminum anggur hawa nafsu cabulnya. Anggur menggambarkan doktrin palsu, seperti yang kita telah lihat dalam pelajaran sebelumnya. Mereka yang meminum anggur Babel menjadi bingung dalam berpikir. Mereka menyangka kesalahan sebagai kebenaran dan menyimpulkan bahawa kebenaran adalah kesalahan. Perhatikan baik-baik kata-kata dalam Wahyu 18:3: “ ‘Karena semua bangsa telah minum dari anggur hawa nafsu cabulnya dan raja-raja di bumi telah berbuat cabul dengan dia, dan pedagang-pedagang di bumi telah menjadi kaya oleh kelimpahan hawa nafsunya’ ” (ITB).
+
+Percabulan adalah persatuan terlarang. Ada tiga kelompok yang bersatu dalam persatuan terlarang ini, atau persekutuan akhir zaman: Babel (semua agama palsu di dunia, termasuk spiritualisme, bersekutu dengan kekuasaan kepausan), raja-raja bumi (kekuatan politik/negara), dan para pedagang bumi (kuasa ekonomi).  Bercakap tentang penyatuan gereja dan negara yang akan datang, Ellen G. White memperingatkan kita bahawa “apabila Protestantisme akan berjabat tangan dengan kekuasaan Romawi, apabila  dia akan berjabat  tangan dengan spiritualisme, apabila, di bawah pengaruh persatuan tiga rangkap ini, negara kita akan menolak setiap prinsip Konstitusinya sebagai pemerintahan Protestan dan republik, dan akan membuat ketentuan untuk penyebaran kebohongan dan delusi kepausan, maka kita dapat mengetahui bahawa waktunya telah tiba untuk pekerjaan Setan yang menakjubkan dan akhir zaman sudah dekat.”—Testimonies for the Church, jilid 5, hal. 451. Tuhan akan menghadapi “pekerjaan Syaitan yang menakjubkan” dengan manifestasi terbesar kuasa syurga sejak Pentakosta—pencurahan Roh Kudus dalam hujan akhir. Bumi akan diterangi oleh kemuliaan Tuhan. Injil akan dikhutbahkan ke hujung bumi oleh orang yang akan menjadi saksi hidup tentang kuasanya yang mengubah. Puluhan ribu lelaki dan wanita yang berhati jujur akan melarikan diri dari Babilon dan bersatu dengan pengikut Kristus. Kemudian Yesus akan turun melalui koridor langit dalam kemuliaan dan membawa anak-anak-Nya pulang.
+
+#### Bahagian III: Penerapan  Hidup
+
+Renungkan: Dua hal terpenting dalam hidup adalah mengenal Yesus dan membantu orang lain mengenal Dia. Dengan kata lain, dua hal terpenting dalam hidup adalah bersedia untuk kedatangan Yesus dan membantu orang lain untuk bersedia apabila Dia datang. Semakin dekat kita datang kepada Kristus, semakin kita mengungkapkan kemuliaan-Nya kepada dunia. Seperti yang ditulis Yohanes: “Dan Firman itu menjadi daging dan diam di antara kita, dan kita melihat kemuliaan-Nya, kemuliaan sebagai Anak Tunggal Bapa, penuh kasih karunia dan kebenaran. . . . Dan dari kepenuhan-Nya kita semua telah menerima, dan kasih karunia demi kasih karunia (Yohanes 1:14, 16, ITB). Memantulkan kemuliaan Tuhan bererti dipenuhi dengan kasih, anugerah, dan kuasa Kristus. Iaitu hidup untuk kemuliaan nama-Nya dan kehormatan kerajaan-Nya.
+
+Adventist Hymnal 322, “Tidak Ada di Antara,” mengungkapkan kerinduan setiap hati yang bertaubat: “Tidak ada apa-apa antara jiwaku dan Juruselamat, Tidak ada mimpi khayalan dunia ini: aku telah meninggalkan semua kesenangan dosa—Yesus adalah milikku! Tidak ada di antara keduanya.”—The Seventh-day Adventist Hymnal (Hagerstown, MD: Review and Herald Publishing Association, 1985).
+
+Mintalah anggota kelas untuk merenungkan pada minggu akan datang mengenai pertanyaan-pertanyaan di bawah:
+
+1.	Adakah sesuatu yang lebih saya sukai daripada Yesus? Jika demikian, apakah “berhala” ini? Apakah yang mengisi waktu saya? Bagaimanakah saya menghabiskan masa lapang saya? Apalah yang menghabiskan pikiran terdalam saya?
+
+2.	Dengan cara apakah hidup saya mencerminkan pengakuan iman saya secara lahiriah? Bagaimanakah tindakan saya membuktikan komitmen spiritual saya?
+
+3.	Jika Yesus datang hari ini, apakah saya sudah bersedia? Jika tidak, mengapa tidak?
+
+4.	Apakah Kristus memiliki penguasaan penuh atas hidup saya? Jika tidak, apakah yang menghalangi, dan apakah yang dapat saya, dengan bantuan Roh Kudus, lakukan?
