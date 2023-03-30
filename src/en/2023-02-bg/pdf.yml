@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q2/Beginner/Student/B-23-Q2-L00.pdf'
+      target: en/2023-02-bg/introduction
+      title: Introduction
+      start_date: 25/03/2023
+      end_date: 25/03/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q2/Beginner/Student/B-23-Q2-L01.pdf'
+      target: en/2023-02-bg/01
+      title: David, the Shepherd Boy
+      start_date: 25/03/2023
+      end_date: 28/04/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q2/Beginner/Student/B-23-Q2-L02.pdf'
+      target: en/2023-02-bg/02
+      title: Daniel and the Lions
+      start_date: 29/04/2023
+      end_date: 26/05/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q2/Beginner/Student/B-23-Q2-L03.pdf'
+      target: en/2023-02-bg/03
+      title: Joseph’s New Coat
+      start_date: 27/05/2023
+      end_date: 23/06/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q2/Beginner/Student/B-23-Q2-Activites.pdf'
+      target: en/2023-02-bg/activities
+      title: Activities
+      start_date: 17/06/2023
+      end_date: 23/06/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q2/Beginner/Student/B-23-Q2-MemoryVerses.pdf'
+      target: en/2023-02-bg/memory-verses
+      title: Memory verses
+      start_date: 17/06/2023
+      end_date: 23/06/2023
+
