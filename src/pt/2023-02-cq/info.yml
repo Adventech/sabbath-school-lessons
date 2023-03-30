@@ -1,0 +1,26 @@
+---
+  title: "Mensagens: A verdade presente para os nossos dias"
+  description: "Em 15 de outubro de 1844, exatamente uma semana antes do Grande Desapontamento, nasceu Friedrich Nietzsche, que se tornaria um dos filósofos ateus mais influentes do mundo."
+  human_date: "Abril · Maio · Junho 2023"
+  start_date: "25/03/2023"
+  end_date: "23/06/2023"
+  color_primary: "#803538"
+  color_primary_dark: "#6F1623"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Mark Finley"
+    - name: Tradutor
+      value: "Matheus Cardoso"
+    - name: Editora
+      value: "Ágatha Lemos"
+    - name: Editor Associado
+      value: "Michelson Borges"
+    - name: Revisora
+      value: "Rosemara Santos"
+    - name: Projeto Gráfico e Capa
+      value: "Bruna Ribeiro, Milena Ribeiro e Samuel K. Santana"
+    - name: Programação Visual
+      value: "Samuel K. Santana"
+    - name: Ilustrações
+      value: "Joseilton Gomes Alves"

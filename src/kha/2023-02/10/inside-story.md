@@ -1,0 +1,18 @@
+---
+title:  Ka Jingiathuhkhanna kaba Jia shisha
+date:  02/06/2023
+---
+
+### Ka Bike bad Ka Baibl: Bynta 2
+
+_Da M.B., ba la iathuh ha I Kathie Lichtenwalter_
+
+Ma nga bad I lok, ngi la ialum pisa la bun bun bnai ba ngin ia thied baisikil na ka bynta u Hussein, uba long u nongap khyrdop ha ka ingbah ba shong ma ngi.  U Blei u la jubab ia ka jingduwai jong ngi bad u la iarap ia ngi ba ngin thied ia kane ka baisikil.  Katba ngi dang ia puson ia kane ka jubab, ngi la ioh kawei ka jingmut lang “ Kumno lada ngin ia ai kawei ka Baibl ryngkat kane ka cycle?”
+
+Ngi la thoh ia kawei ka jingthoh ka ka kot bad ngi la song ia kawei ka Baibl kaba ngi la thied la bun bnai mynshuwa.  Ngi la duwai ia ka lad kaba bha tam eh ba ngin lah ban ai ia kine ki jingaisngewbha.  Nga la pyrkhat bha kaei ba nga dei ban ong.  Nga tip ba ka baisikil kan long kaba don jingmut shisha.  Nga la kyrmen ba kane ka jingaisngewbha kan long u mawjam uban pynjem ia ki jingeh ba ngin iasam ia ka jingshisha.
+
+U Hussein u la sngewkynduh eh ha ki jingjaw ummat haba ngi la poi ha ka khmat ing jong u ryngkat ka baisikil.  Kane ka baisikil ka long kaba itynnad eh!  Hynrei nga khlem la khmih lynti ia ka dur ba kmen bad jemnud kaba u la pynpaw katba u shim ia ka Baibl bad u la plie ia ki sla jong ka.  U la sngewkmen ha ka jinglong ba tlem eh.  Hynrei ngam tip mano ba kham kmen ma u ne ma nga.  Hadien arsnem jong ka jingialong paralok, khadduh nga la lah ban ai ia u paralok bad u para jong nga ia ka jingai sngewbha da ka Baibl, ka jingai kaba nga la thrang eh ban ai.  Ym lah shuh ban batai ia ka jingkmen jong nga.
+
+Hadien katto katne sngi, u Hussein u la khot sngewbha ia nga ban leit dih jingdih ha ing jong u.  Haba nga la poi nga iohi ia u ba u pule Baibl na ka Kitab Jenesis.  Ki khmat jong u ki phalang.  U la batai ba u khlem la ju pule mynno mynno ia ka jingthoh shaphang ka jingpynlong.  Nga tip ba ngi don shibun eh kiei kiei kiba ngin ia kren.  Nga la duwai ba U Mynsiem Bakhuid un ai ia ki ktien kiba dei biang ia nga ban kren.  Ha kata ka janmiet ngi la iakren shaphang ka bneng bad ka jingiap.  Nga la pyni ia u Hussein ia ki dkhot kiba sngewtynnad eh na ka Baibl ba thymmai jong u.  katba ngi dang ia kren u Hussein u la sngapjar da kaba u plie ruh ia ki sla ka Baibl.  I kumba u la pynleit jingmut eh ha ka Baibl, ba nga sngewthuh ba U Blei u la kyntu ia nga ba ngan tyrwa jingiapule Baibl bad u.  Nga la ioh sngew ia lade ba nga la tyrwa ia kine ki ktien kiba kmen ha u  “Hato phi kwah ba phin iapule Baibl lang bad nga?”  Ha ka jinglyngngoh jong nga, u Hussein u la pynpaw ia ka jingkmen ban leh ia kata ryngkat ka jingthrang eh.  Ha kata ka taiew ngi la sdang ia ka jingiapule Baibl jong ngi.  Ha kane ka juh ka taiew U Blei u la iaibteng ban leh ia ki kam phylla jong U bad u dang trei kam.  U Hussein ba nga, ngi la la nang jan nang jan  sha U Blei bad sha iwei iwei pat.
+
+Ia ka dohnud jong nga la pyndap da ka jingsngewnguh kaba khraw eh ia U Blei.  Nga dap tang da ka jingsngewmaian da kane ka kabu ban iasam ia U Blei ha u Hussein.  Nga sngewnguh eh ia I lok jong nga iba da ka jingngeit I la kyrshan ia nga.  Nga ai nguh ia ki bahaing jong nga kiba la duwai na ka bynta jong nga bad ia U Hussein.  Nga ai khublei ia ki paralok ba ngeit jong nga kiba la duwai ia ngi ha kane ka jingiashem.  Nga ainguh ia U Blei uba la phah ia kane ka pisa ha nga ban thied baisikil bad uba la ai bor ia ngi ban iasam ia ka Ktien bad u Hussein ryngkat kiwei kiba thrang ban tip shuh shuh ia U Blei.
