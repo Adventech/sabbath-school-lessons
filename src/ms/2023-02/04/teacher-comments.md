@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  21/04/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Perkhabaran tiga malaikat itu terdiri, secara kolektif, daripada perkhabaran ilahi yang dihantar oleh syurga yang tujuannya adalah untuk mempersiapkan dunia bagi kedatangan Yesus yang kedua kali. Perkhabaran ini ditentukan oleh Tuhan untuk memberi kesan praktikal dalam kehidupan kita. Ia mendedahkan rancangan Yesus untuk kehidupan akhir zaman. Perkhabaran tiga malaikat adalah lebih daripada doktrin teori yang mempunyai sedikit kesan ke atas kehidupan kita. Walaupun ia membawa amaran yang serius kepada mereka yang tidak bertaubat yang tidak boleh diabaikan, namun tujuan utamanya  adalah untuk mendekatkan kita kepada Yesus.
 

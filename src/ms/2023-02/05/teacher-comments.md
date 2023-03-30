@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  28/04/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Apabila ramai orang Kristian merenungkan penghakiman itu, mereka cenderung dipenuhi dengan ketakutan. Mereka membayangkan Tuhan di ruang sidang syurga-Nya duduk sebagai Hakim Agung alam semesta, menimbang perbuatan baik mereka berbanding perbuatan jahat mereka. Mereka mempunyai anggapan yang samar-samar bahawa jika perbuatan baik mereka melebihi keburukan mereka, mereka akan diselamatkan. Jika, secara kebetulan, perbuatan buruk mereka melebihi perbuatan baik mereka, mereka akan hilang.
 

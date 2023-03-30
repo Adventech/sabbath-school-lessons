@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  14/04/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Dalam pelajaran minggu ini, kita memulakan kajian terperinci tentang perkhabaran tiga malaikat dalam Wahyu 14:6–12. Di seluruh Kitab Suci, malaikat digambarkan sebagai utusan Tuhan. Dalam kitab Wahyu, malaikat-malaikat yang terbang di udara melambangkan perkhabaran syurgawi yang berasal daripada Tuhan, dengan pantas dibawa ke hujung bumi. Perkhabaran ini, tentu saja, harus diberitakan oleh umat Tuhan pada akhir zaman.
 

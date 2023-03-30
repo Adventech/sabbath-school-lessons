@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  09/06/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Pelajaran minggu ini membincangkan meterai Tuhan dan tanda binatang. Sepanjang abad, Sabat telah menjadi tanda kesetiaan yang istimewa kepada Tuhan. Sabat telah mendedahkan bahawa Tuhan layak disembah sebagai Pencipta alam semesta. Tanda binatang itu juga berkisar tentang penyembahan. Syaitan telah memperkenalkan sabat palsu, hari pertama dalam minggu itu, sebagai simbol kekuasaannya. Konflik terakhir antara Kristus dan Syaitan memberi tumpuan kepada siapa yang layak untuk memerintah alam semesta. Oleh kerana Yesus adalah Pemberi kehidupan, maka Dia layak untuk disembah. Syaitan memahami kebenaran ini sebagai salah satu isu yang dominan dalam kontroversi besar antara yang baik dan yang jahat. Atas sebab ini, Syaitan menyerang Sabat, simbol kuasa penciptaan Tuhan.
 
