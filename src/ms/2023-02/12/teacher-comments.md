@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  16/06/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Alkitab adalah satu kesatuan yang utuh. Tema kontroversi besar itu berjalan seperti benang merah di seluruh halamannya, menenun naratif dan kebenaran suci bersama-sama. Pelayanan Kristus, korban pendamaian-Nya, pelayanan imam besar-Nya, dan kedatngan-Nya kembali adalah tema yang bergema melalui halaman-halamannya. Kontroversi besar itu sampai ke kemuncaknya dalam kitab Wahyu. Pelajaran minggu ini, bertajuk “Meterai Tuhan dan Tanda Binatang (Bahagian 2),” meneruskan pengenalan kita tentang kuasa binatang dari dalam laut, menggariskan peristiwa terakhir bumi, dan berkongsi prinsip praktikal yang akan membantu kita bersedia untuk kedatangan  Yesus.
 

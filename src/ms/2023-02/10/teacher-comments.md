@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  02/06/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Wahyu 14:8 mengumumkan kejatuhan Babel rohani. Seperti yang kita lihat minggu lalu, Babylon adalah penindas umat Tuhan dalam Perjanjian Lama. Oleh itu, Babylon adalah simbol yang sesuai untuk lambang kesesatan, pusat kemurtadan, dan musuh utama kebenaran. Minggu lalu, kita juga mengkaji perbezaan antara wanita berbaju putih, gereja Kristus yang sebenar, dan perempuan sundal, Babylon. Mari perhatikan sistem agama palsu yang dilambangkan sebagai Babylon memandang kepada pemimpin agama manusia untuk mendapatkan kuasa dan bukannya Firman Tuhan. Babylon memperoleh kuasanya daripada negara dan bukannya daripada Kristus. Selaras dengan kebiasaan banyak agama palsu, Babilon menggunakan berhala sebagai gambaran tuhan mereka.
 
