@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  23/06/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Nubuatan Wahyu mendedahkan apa yang akan datang, supaya umat Tuhan dapat bersiap sedia untuk itu. Dalam suratnya kepada jemaat di Tesalonika, rasul Paulus dengan jelas menyatakan tujuan nubuatan: “Tetapi kamu, saudara-saudara, kamu tidak hidup di dalam kegelapan, sehingga hari itu tiba-tiba mendatangi kamu seperti pencuri,  karena kamu semua adalah anak-anak terang dan anak-anak siang. Kita bukanlah orang-orang malam atau orang-orang kegelapan. Sebab itu baiklah jangan kita tidur seperti orang-orang lain, tetapi berjaga-jaga dan sadar.” (1 Tes. 5:4–6, ITB). Firman Tuhan memberikan terang  jalan di hadapan. Dalam pelajaran minggu ini, kita akan mengkaji ramalan Wahyu tentang pergerakan terakhir sejarah bumi ini.
 
@@ -11,7 +13,7 @@ Fokus kajian pelajaran kita minggu ini adalah mengenai kemuliaan Tuhan, yang din
 
 #### Bahagian II: Ulasan
 
-Kemuliaan Tuhan
+**Kemuliaan Tuhan**
 
 Wahyu 18:1 adalah salah satu petikan yang paling penting dalam keseluruhan kitab Wahyu. Ia berbunyi, “Sesudah itu aku melihat malaikat lain turun dari syurga, mempunyai kuasa yang besar, dan bumi bercahaya dengan kemuliaan-Nya” (ITB). Ungkapan “bumi diterangi dengan kemuliaan [kemuliaan Tuhan]” sangat penting. Seluruh Wahyu terdapat tiga perkataan yang dihubungkan bersama—“Kemuliaan Tuhan, kehormatan Tuhan, dan kuasa Tuhan.”
 
@@ -21,7 +23,7 @@ Kontroversi besar antara yang baik dan yang jahat di alam semesta adalah mengena
 
 Kehidupan, kematian, dan kebangkitan Yesus menghancurkan mitos itu. Dia yang mencipta kita terjun ke dalam lubang ular dunia ini untuk menebus kita. Di atas salib, Yesus menjawab tuduhan Syaitan dan menunjukkan bahawa Tuhan adalah pengasih dan adil. Terpesona oleh kasih-Nya, prihatin akan kehormatan-Nya, maka umat-Nya akhir zaman menyatakan kemuliaan-Nya—sifat-Nya yang penuh kasih yang rela berkorban—kepada dunia yang tidak bertuhan yang mementingkan diri sendiri. Dengan demikian, bumi akan diterangi oleh penyataan tentang sifat Tuhan.
 
-Kepenuhan Roh
+**Kepenuhan Roh**
 
 Roh Kudus akan dicurahkan dalam kepenuhan kuasa-Nya sejurus sebelum kedatangan Yesus, maka bumi akan diterangi dengan kemuliaan Tuhan. Wahyu 18:1 adalah penggenapan kata-kata nabi Perjanjian Lama Habakuk: “Sebab bumi akan penuh dengan pengetahuan tentang kemuliaan TUHAN, seperti air yang menutupi dasar laut” (Hab. 2:14, ITB). Seperti yang baru kita ulas, kemuliaan Tuhan adalah karakter kasih-Nya. Tetapi pernyataan ini menimbulkan persoalan: Bagaimanakah kemuliaan ini akan didedahkan pada saat-saat terakhir sejarah di atas sebuah planet yang gelap secara moral dan tercemar oleh dosa?
 
@@ -29,11 +31,9 @@ Untuk menjawab soalan ini, mari kita fikirkan pengalaman Musa. Ingat ketika Musa
 
 Kemuliaan Tuhan memenuhi bumi pada masa kegelapan rohani, ketika umat-Nya, diliputi oleh kasih-Nya, diubah oleh kasih karunia-Nya, dan berkomitmen pada misi-Nya, mengungkapkan kepada dunia sifat pengasih-Nya dalam kehidupan dan kesaksian mereka. Kesaksian tentang kehidupan mereka yang tidak mementingkan diri sendiri dan pemberitaan perkhabaran tentang kebaikan, kasih kurnia, dan kebenaran-Nya sangat bertentangan dengan keegoisan, kesombongan, dan kepalsuan sistem dunia ini.
 
-Rayuan Terakhir Tuhan
+**Rayuan Terakhir Tuhan**
 
-Seorang malaikat turun dari syurga dengan perkhabaran terus dari takhta Tuhan, perkhabaran yang memanggil umat-Nya keluar dari persekutuan agama politik yang murtad bernama Babilon. Amaran Tuhan adalah bahawa “‘Sudah rubuh, sudah rubuh Babel, kota besar itu, dan ia telah menjadi tempat kediaman roh-roh jahat’” (Wahyu 18:2, ITB). Pengisytiharan ini mencerminkan malaikat kedua dalam Wahyu 14 yang juga mengumumkan kejatuhan Babel (Why. 14:8). Wahyu 18:4 adalah panggilan terakhir Tuhan kepada semua manusia. Dia dengan segera menyeru kepada orang-orang yang dipanggil dengan nama-Nya, ” ‘Keluarlah dari padanya [Babel], hai umat-Ku, supaya kamu jangan mengambil bahagian dalam dosanya, dan supaya kamu jangan menerima tulah-tulahnya’ ” (ITB). “Dosa adalah pelanggaran hukum Tuhan”
-
-(1 Yohanes 3:4). Tuhan memanggil umat-Nya untuk keluar dari setiap gereja yang melanggar hukum. Mengapakah Tuhan memanggil umat-Nya keluar dari Babel pada saat ini? Wahyu 18:5 memberi tahu kita: “ ‘Sebab dosa-dosanya telah bertimbun-timbun sampai ke langit, dan Tuhan telah mengingat segala kejahatannya’ ”(ITB). Babel telah memenuhi cawan kejahatannya. Tuhan menyimpan catatan yang tepat tentang dosa kekuatan duniawi, dan setelah jumlahnya mencapai jumlah tertentu, Tuhan berkata, "Cukup!"
+Seorang malaikat turun dari syurga dengan perkhabaran terus dari takhta Tuhan, perkhabaran yang memanggil umat-Nya keluar dari persekutuan agama politik yang murtad bernama Babilon. Amaran Tuhan adalah bahawa “‘Sudah rubuh, sudah rubuh Babel, kota besar itu, dan ia telah menjadi tempat kediaman roh-roh jahat’” (Wahyu 18:2, ITB). Pengisytiharan ini mencerminkan malaikat kedua dalam Wahyu 14 yang juga mengumumkan kejatuhan Babel (Why. 14:8). Wahyu 18:4 adalah panggilan terakhir Tuhan kepada semua manusia. Dia dengan segera menyeru kepada orang-orang yang dipanggil dengan nama-Nya, ” ‘Keluarlah dari padanya [Babel], hai umat-Ku, supaya kamu jangan mengambil bahagian dalam dosanya, dan supaya kamu jangan menerima tulah-tulahnya’ ” (ITB). “Dosa adalah pelanggaran hukum Tuhan” (1 Yohanes 3:4). Tuhan memanggil umat-Nya untuk keluar dari setiap gereja yang melanggar hukum. Mengapakah Tuhan memanggil umat-Nya keluar dari Babel pada saat ini? Wahyu 18:5 memberi tahu kita: “ ‘Sebab dosa-dosanya telah bertimbun-timbun sampai ke langit, dan Tuhan telah mengingat segala kejahatannya’ ”(ITB). Babel telah memenuhi cawan kejahatannya. Tuhan menyimpan catatan yang tepat tentang dosa kekuatan duniawi, dan setelah jumlahnya mencapai jumlah tertentu, Tuhan berkata, "Cukup!"
 
 Itulah yang berlaku kepada zaman Nuh. Tuhan menghantar khabar penebusan kepada dunia sebelum air bah, tetapi apabila dosa mereka mencapai jumlah tertentu, dan selepas setiap orang di bumi mempunyai peluang untuk bertaubat, hujan datang. Kita melihat perkara yang sama sekali lagi dalam pemusnahan Sodom dan Gomora. Lot membuat rayuan yang sungguh-sungguh kepada anak-anaknya untuk meninggalkan Sodom bersamanya. Apabila jumlah dosa mencapai jumlah tertentu, api itu turun.
 

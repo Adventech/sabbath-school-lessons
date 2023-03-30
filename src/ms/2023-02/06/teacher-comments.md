@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  05/05/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Matematik adalah sains tepat. Dalam nubuatan Daniel dan Wahyu mengenai penghakiman, Roh Kudus menyatakan kepada para nabi bukti matematik yang sangat spesifik bahawa Firman Tuhan boleh dipercayai. Dalam pelajaran minggu ini, kita akan meneliti beberapa daripada  bukti ini.
 

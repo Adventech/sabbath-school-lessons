@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  12/05/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Hakikat bahawa Tuhan mencipta dunia ini dalam tujuh hari literal adalah salah satu kebenaran asas Kitab Suci. Seluruh Alkitab bermula dengan perkataan “Pada mulanya Tuhan menciptakan langit dan bumi” (Kej. 1:1). Buku terakhir Alkitab, Wahyu, menyeru kita untuk "menyembah Dia yang menjadikan langit dan bumi" (Wahyu 14:7, ITB). Tuhan layak kita sembah kerana Dia yang menciptakan kita. Kita bukan hasil evolusi. Kita bukan   kemalangan genetik semata-mata. Kita adalah lebih daripada spesies haiwan yang telah maju. Kita adalah manusia yang mempunyai nilai yang luar biasa kerana Tuhan menciptakan kita. Setiap daripada kita adalah unik di mata-Nya.
 

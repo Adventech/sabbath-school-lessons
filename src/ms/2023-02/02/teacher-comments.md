@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  07/04/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Kitab Wahyu adalah kitab perbandingan. Setiap perbandingan ini memanggil kita untuk membuat pilihan yang kekal. Kita akan menyembah sama ada naga itu atau Anak Domba itu. Kita akan menerima sama ada tanda binatang atau meterai Tuhan. Sama ada kita akan jatuh dalam penipuan licik wanita berbaju merah itu—gerakan palsu Syaitan; atau kita akan berjalan dengan wanita berbaju putih itu—gereja Tuhan yang benar. Sama ada kita akan menerima ajaran penipuan Babilon rohani, atau kita akan bersukacita dalam kebenaran yang mengalir dari Yerusalem Baharu.
 

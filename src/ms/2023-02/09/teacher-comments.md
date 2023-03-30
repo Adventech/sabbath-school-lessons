@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  26/05/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Pelajaran minggu ini membezakan dua sistem agama, yang dilambangkan dengan wanita berbaju putih, dalam Wahyu 12, dan wanita berbaju kirmizi, dalam Wahyu 17. Percanggahan tersebut mengungkapkan perbezaan antara kedua sistem ini. Sistem pertama didasarkan pada Firman Tuhan, dengan Yesus Kristus sebagai pusatnya. Sistem kedua didasarkan pada penalaran manusia, dengan pemimpin agama manusia sebagai pusatnya. Perbezaannya adalah antara kebenaran dan kesalahan, keselamatan oleh kasih kurnia dan keselamatan oleh perbuatan, ketaatan pada perintah Tuhan, dan tunduk kepada ketetapan manusia.
 
