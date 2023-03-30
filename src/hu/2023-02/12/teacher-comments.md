@@ -1,0 +1,48 @@
+---
+title:  Tanítói melléklet
+date: 16/06/2023
+---
+
+#### Áttekintés
+
+A Biblia összefüggő egész. A nagy küzdelem témája vörös fonalként húzódik végig lapjain, összeszövi az elbeszéléseket és a szent igazságokat. Krisztus szolgálata, engesztelő áldozata, főpapi szolgálata és visszatérése olyan témák, amelyek végigvonulnak a Biblia lapjain. A nagy küzdelem A jelenések könyvében ér csúcspontjára. E heti leckénk folytatja a tengerből feljövő fenevad hatalmának azonosítását, felvázolja a föld végső eseményeit és olyan gyakorlati elveket oszt meg, amelyek segítenek felkészülni Jézus eljövetelére.
+
+A Biblia idői próféciáinak megértésében az egyik fontos alapelv a nap/év elv. Dániel és Jelenések idői próféciáiban egy prófétai nap egy szó szerinti évnek felel meg. Most ismét áttekintjük ennek bibliai és történelmi alátámasztását. A prófétai értelmezés másik fontos elve a két említett könyv próféciái közötti kapcsolat.
+
+Dániel 7. fejezetében a kis szarv, 2Thesszalonika 2-ben „a bűn embere” és Jelenések 13-ban a tengerből jövő fenevad ugyanazt az elnyomó hatalmat jelképezi, amely a középkorban üldözte Isten népét: a pápaságot. E heti tanulmányunkban felfedezzük, hogy Jelenések 13. fejezetében a tengerből jövő fenevad hogyan nyomja el Isten végidei egyházát is, azokat, akik „megtartják Isten parancsolatait és Jézus hitét” (Jel 14:12).
+
+#### Kommentár
+
+Jelenések 12. fejezete rámutat Sátán középkori üldözésére. Krisztus hűséges követői 1260 napra a pusztába menekültek (Jel 12:6). „De adatott az asszonynak két nagy sasszárny, hogy a kígyó elől elrepüljön a pusztába az ő helyére, hogy tápláltassék ott ideig, időkig és az időnek feléig” (Jel 12:14). Dán 7:25 magyarázza, hogy a kis szarv, vagyis a Római Katolikus Egyház „véli, hogy meg tudja változtatni az időket és a törvényt. [A szentek] az ő kezébe adatnak ideig, időkig és egy fél időre”. Jel 13:5 szerint „negyvenkét hónapig” tevékenykedhet. Ez a három időszak: 1260 nap, idő és idők és fél idők, valamint 42 hónap mind ugyanazt az időszakot írja le, és hétszer fordul elő Dániel és Jelenések könyveiben.
+
+„A 19. századig Dániel és Jelenések apokaliptikus könyveinek legtöbb kutatója a történeti módszert alkalmazta a könyvek próféciáinak értelmezésére. Ennek egyik fő pillére a nap-év elv, amely szerint az apokaliptikus idői próféciákban egy nap egy évet jelent. A 19. század folyamán a történeti módszert lassan felváltotta a preterista és a futurista értelmezés; mindkettő tagadja az év-nap elvet. A preteristák a legtöbb próféciát a múltba, a Római Birodalom idejére helyezik; a futuristák pedig a jövőbe tolják, a titkos elragadtatás és a második advent közötti utolsó hét évre” (Gerhard Pfandl: „A nap-év elv védelmében” c. írása, Journal of the Adventist Theological Society. 23. szám, 2012, 3. o.).
+
+Logikus következtetés, hogy a Dániel 7., 8., 9. és 12. fejezetében szereplő képek szimbolikus jellege, valamint a Jelenések 12. és 13. fejezeté­ben szereplő szimbólumok miatt ezek az időszakok is szimbolikusak. Ha minden egyes esetben alkalmazzuk az „1 nap = 1 év” elvet, a megjövendölt események pontosan időben következnek be.
+
+Pfandl cikke a következő megállapítást is tartalmazza: „A szövegkörnyezet szerint az »idő, idők és fél idők« (Dán 7:25; 12:7; Jel 12:14), a »negyvenkét hónap« (Jel 11:2; 13:5) és az »ezerkétszázhatvan nap« (Jel 11:3; 12:6) kifejezések mind ugyanarra az időszakra vonatkoznak, de a természetes »három év és hat hónap« kifejezés egyszer sem fordul elő. »Úgy tűnik, bizonyos értelemben a Szentlélek kimeríti az összes kifejezést, amellyel az intervallumot le lehetne írni, mindig kizárva azt az egy formát, amelyet természetesen használnánk a hétköznapi írásban és amelyet a Szentírás más alkalmakkor is változatlanul használ a szó szerinti időszak jelölésére. Ez az eltérés a legjelentősebb, ha elfogadjuk az év-nap rendszert, de teljesen megmagyarázhatatlan a másik nézet szerint«” (Thomas R. Birks: First Elements of Sacred Prophecy. Idézi: Pfandl, i. m. 8. o.).
+
+1260 évnek felel meg az 1260 prófétai nap – a Dániel és Jelenések könyveiben szereplő idő, idők és fél idők. „A kis szarv prófétai időszaka Kr. u. 538-ban kezdődött, amikor az osztrogótok felhagytak Róma ostromával, és Róma püspöke, felszabadulva az ariánus ellenőrzés alól, szabadon gyakorolhatta Justinianus 533-as rendeletének előjogait, ettől kezdve növelte a »Szentszék« hatalmát (lásd 8. v.). Pontosan 1260 évvel később (1798-ban) Napóleon seregeinek látványos itáliai győzelmei folytán a pápa kiszolgáltatottá vált a francia forradalmi kormánynak. Közölték vele, hogy a római vallás a köztársaság kibékíthetetlen ellensége, továbbá »van egy dolog, ami még fontosabb a kívánt cél eléréséhez, mégpedig az, hogy lehetőleg megsemmisítsük a római egyház egységének központját; és az Ön feladata, aki személyében a hadvezér és a felvilágosult politikus legkiválóbb tulajdonságait egyesíti, hogy ezt a célt megvalósítsa, ha megvalósíthatónak tartja«. Ezen utasításokra válaszul és Napóleon parancsára Berthier [tábornok] francia csapata bevonult Rómába, véget vetett a pápaság politikai uralmának, foglyul ejtette és Franciaországba hurcolta a pápát, aki száműzetésben halt meg” (The SDA Bible Commentary. 4. köt. 834. o.).
+
+A jelenések könyvének próféciái megjövendölik, hogy begyógyul a halálos seb, amelyet Napóleon seregei ejtettek, és a pápaság nemzetközi elsőségre emelkedik (Jel 13:3). Ez vezeti be a végső összecsapást a fenevad bélyege és Isten pecsétje között. Ahhoz, hogy jobban megértsük a konfliktus természetét, először meg kell fejtenünk Isten pecsétjének jelentését. Mit jelent?
+
+Róm 4:11 szerint a jel és a pecsét felcserélhető. Pecséteket általánosan használtak az ókori világban dokumentumok hitelesítésére és a tulajdonjogot is jelezték velük. Gyakran viaszból készítették őket vagy frissen formázott agyagba nyomták. Az összes parancsolat közül a szombat az egyetlen, amely Isten pecsétjének minősül. Tartalmazza a törvényadó nevét, címét és hatáskörét. A szombat parancsolatát nevezhetjük tehát pecsétnek, mert „a negyedik parancsolat az egyetlen a tíz közül, amelyben benne van a törvényadó neve és jogcíme. Ez az egyetlen, amely megmutatja, ki a törvényadó. Magán viseli Isten pecsétjét, amelyet törvényére helyezett annak hitelessége és kötelező ereje bizonyítékaként” (Ellen G. White: Pátriárkák és próféták. Budapest, 1993, Advent Kiadó, 263-264. o.). A szombat adja a Tízparancsolatba foglalt törvények különleges jelentőségét. „A szombat az élő Isten pecsétjeként került be a Tízparancsolatba, rámutatva a törvényhozóra és ismertetve uralkodói jogát.” Így a szombat az Isten és az Ő népe közötti kapcsolat jele, amely „az iránta való hűség próbájaként szolgál” (Signs of the Times. 1886. május 13.). A hetednapi adventisták küldetése, hogy „Isten törvényét a jellem próbájaként és az élő Isten pecsétjeként mutassák be” (Ellen G. White: Testimonies for the Church. 2. köt. 468. o.).
+
+Isten pecsétje, amely a szombat megtartásában nyilvánul meg, annak jele, hogy elfogadjuk Isten hatalmát az életünkben. „Amint Isten népe megpecsételtetik a homlokán – ez nem valamilyen látható pecsét vagy jel, hanem az igazságban való megalapozódás, mind értelmileg, mind szellemileg, hogy ne lehessen őket megingatni –, tehát amint Isten népe elpecsételtetik és felkészül a rostálásra, az el fog jönni” (Ellen G. White megjegyzése, The SDA Bible Commentary. 4. köt. 161. o.). Akkor készülünk fel az előttünk álló válságra, ha a Szentlélek elpecsételt bennünket. Jól tesszük, ha megfogadjuk Pál apostol intését: „És meg ne szomorítsátok az Isten Szentlelkét, aki által megpecsételtettetek a megváltás napjára” (Ef 4:30).
+
+#### Gyakorlati alkalmazás
+
+Elmélkedjünk: Homlokegyenest különbözik egymástól Isten pecsétje és a fenevad bélyege, mégis van bennük egy közös vonás: egyiket sem egy pillanat alatt kapják az emberek. A pecsét felvétele/elfogadása hosszú időn keresztül történik, mégpedig úgy, hogy elménk napról napra alakul át Krisztus képmására. „Mind szellemi, mind lelki életünk törvénye, hogy szemlélés által átalakulunk. Gondolatvilágunk fokozatosan alkalmazkodik ahhoz a témához, amellyel foglalkozunk” (Ellen G. White: A nagy küzdelem. Budapest, 1985, H. N. Adventista Egyház, 493. o.).
+
+Jézust szemlélve és elménket átitatva Igéjének tanításaival egyre inkább hasonlóvá válunk hozzá. A jellem kialakulásához időre van szükség. Az értelmes, tartós kapcsolatok idővel alakulnak ki, és azok ápolása is időbe telik. Miközben Krisztus életén elmélkedünk, a Szentlélek munkálkodik bennünk, „megpecsételi” Isten országának elveit, hogy felkészüljünk a szombat parancsolata körüli végső próbára.
+
+Isten pecsétjét nem kapja meg az ember egy pillanat alatt, de a fenevad bélyegét sem. A mindennapi megalkuvások, a dédelgetett bűnök, a szív rejtett bálványainak megtartása, a keresztényietlen magatartás ápolása – mind-mind a fenevad bélyegének elfogadásához vezet. Ha nem állunk meg a mai próbatételekben, a holnapi, még nagyobb próbákban biztosan elbukunk, amikor kényszeríteni fogják a fenevad bélyegének felvételét. Ahogy a régi adventista prédikátor, Luther Warren mondta: „Az egyetlen módja, hogy készen álljunk Jézus eljövetelére az, hogy felkészülünk és készen is maradunk.”
+
+Gondolkodjunk Luther Warren mondásán! A következő héten imádkozzunk azért, hogy Isten mutasson rá életünkben mindarra, ami akadályoz a második adventre való felkészülésben!
+
+`Jegyzetek`
+
+---
+
+#### Ellen G. White idézetek
+
+Tapasztalatok és látomások, „Az állat jele” című fejezet.
