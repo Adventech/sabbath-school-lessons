@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  19/05/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Pada masa krisis, apakah yang manusia inginkan lebih daripada segala-galanya? Apabila bencana melanda, apakah yang kita semua cari? Satu perkara yang manusia inginkan lebih daripada segala-galanya pada masa ketidakpastian ialah keselamatan dari bahaya. Apabila puting beliung, taufan, atau beberapa bencana alam lain melanda, apakah yang kita sangat inginkan? Kita inginkan tempat yang selamat bersama keluarga kami. Keinginan untuk keselamatan ini juga berlaku semasa peperangan atau apabila keganasan berlaku di lorong-lorong jalan kita.
 

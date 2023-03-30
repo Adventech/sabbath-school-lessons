@@ -1,7 +1,9 @@
 ---
-title:  '#### Bahagian I: Gambaran Keseluruhan'
+title:  Komen Guru
 date:  31/03/2023
 ---
+
+#### Bahagian I: Gambaran Keseluruhan
 
 Pelajaran kita minggu ini memfokuskan kepada kontroversi besar antara yang baik dan yang jahat selama berabad-abad. Wahyu 12 membentangkan empat episod hebat dalam konflik ini. Empat episod ini adalah pemberontakan Lucifer di syurga, percubaannya untuk memusnahkan bayi Yesus, serangannya terhadap umat Tuhan semasa Zaman Pertengahan, dan serangan terakhirnya terhadap umat Tuhan yang sisa di zaman akhir. Dalam setiap konflik ini, Kristus dinyatakan sebagai Tuhan kita yang menang, Penebus   kita yang beroleh kemenangan, dan Penakluk kita yang perkasa.
 
