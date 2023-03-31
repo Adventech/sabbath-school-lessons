@@ -32,9 +32,7 @@ főszerkesztő
 
 Tanulmányunkban a bibliai idézeteket többnyire a Károli-féle fordításban közöljük. Más idézeteknél zárójelben olvasható a forrás megjelölése. Számos idézet, valamint a bibliai könyvek neve és rövidítése az újonnan revideált Károli-Biblia (rövidítve: ÚRK, Budapest, 2019, Veritas Kiadó) szerint szerepel. Szintén gyakran idézünk még a Magyar Bibliatársulat 2014-ben kiadott, revideált új fordításából (rövidítve: RÚF). Ha az idézetben egy, az oldalon már ismertetett műre hivatkozunk, akkor használjuk az i. m. (idézett mű) rövidítést.
 
-Érdemes ellátogatni a Bibliatanulmányok internetes oldalára: www.bibliatanulmanyok.hu. A web-
-oldal formátuma letisztult és könnyen áttekinthető, egy helyen megtalálunk rajta minden szolgáltatást: az írott tanulmányt, a Tanítói mellékletet, a White-idézeteket, a hanganyagot, valamint
-a hetenkénti videobeszélgetéseket és a Misszió DVD-t. Az oldal nemcsak számítógépen, hanem táblagépen és okostelefonon is elérhető.
+Érdemes ellátogatni a Bibliatanulmányok internetes oldalára: www.bibliatanulmanyok.hu. A weboldal formátuma letisztult és könnyen áttekinthető, egy helyen megtalálunk rajta minden szolgáltatást: az írott tanulmányt, a Tanítói mellékletet, a White-idézeteket, a hanganyagot, valamint a hetenkénti videobeszélgetéseket és a Misszió DVD-t. Az oldal nemcsak számítógépen, hanem táblagépen és okostelefonon is elérhető.
 
 Az érdeklődőket várjuk a Facebook Bibliatanulmányok csoportjában az alábbi címen: https://www.facebook.com/groups/bibliatanulmanyok/.
 
