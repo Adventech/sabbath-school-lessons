@@ -1,0 +1,23 @@
+### Nai Tukutuku ni Agilosi e Lewe Tolu
+
+Ena Okotova 15, 1844, ni vo tiko e dua na macawa me yaco na gauna ni Rarawa Levu, a sucu kina e dua na gonetagane mai Jamani ena dua na matavuvale lotu Lutheran. Na yacana ko Friedrich Nietzsche, a mani yaco e muri me dua na tamata e sega ni kila na Kalou ka sa veirawai sara tiko na nonai le ena gauna oqo. E vakabauta ni Kalou ni Lotu Vakarisito e sa mai yali ena Muaira kei vuravura, E vakalewa vakalevu ko Ni- etzsche na bula vakadodonu ni lotu Vakarisito, ena nona vakalolovirataka me vaka e dua e bobula tu ena dua na yavu,” na yavu ni tamata malumalumu me na taqomaki ira mai vei ira na tamata kaukauwa, na yavutaki ni dua na vakanananu lialia me vaka na “Lomani ira na kemu meca." Vei Nietzsche, na vakanananu ena gauna oqo sa dodonu me ulabaleta na ivakarau ni vakanananu makawa me baleta na vinaka kei na ca; o koya e vola na Thus Spake Zarathustra, “Vorolaka na vatu ni vunau makawa” (oya nai Vunau e Tini).
+
+E rui ka bibi talega ki vei Karl Marx na vakanananu oqo, e dua a tekivutaka na komanisi, ena yabaki 1844. . E vakatokai na “Economic and Philosophic Manuscripts of 1844," na cakacaka oqo e vola ko Marx ena yabaki oya, dina ga nia sega ni a tabaka me yacova na 1932.
+
+Na 1844 e dua na yabaki e rui bibi vakalevu talega ki vei Charles Darwin. Ena ka e vakatokai tu ni "Essay of 1844," Ko Darwin e solia e dua nai vakaraitaki taudonu ni nona vakanananunu me baleta na nona bula ga vakataki koya na tamata (evolutionary), dina ga ni se bera ni kacivaki raraba. Ena 1859, a tabaki kina na On the Origin of Species, e sa qai kaburaka kina e matanalevu ko Darwin na nona raica ni veika bula kece e vuravura era tekivu mai na dua na ka somidi sa qai veiveisau ena veigauna e toso duadua tiko kina.
+
+Na yabaki 1844, e mai cava kina na parofisai ni 2300-na siga ka tiko ena Taniela 8:14, kei na yabaki vata talega oya, era sa qai teivaka kina na sore ni kau ko ira na kena vo mai na Veivakararawataki Levu, ka sa laki kadre me dua nai soqosoqo e roboti vuravura taucoko kei na nodra itukutuku e vakagogotaka saraga na suitu ni tukutuku nei Marxist, Nietzschean, kei na vakanananu nei Darwin.
+
+Na veidutuitaki kei na vakanananu nei Marx, na Lotu ni Kavitu ni Lesu Vakarua mai e kacivaka ni veivaluvaluti levu e rau cakava tiko ko Setani kei Karisito, ena laki cava, sega ena nona bulia na tamata na parataisi vakomanisi, ia ena yavu kaukauwa ni matanitu tawa mudu ni Kalou.
+
+Ni veidutaitaki kei na vakanananu nei Darwin, Na lotu ni Kavitu e vakatavuvulitaka ni bula e sega ni vu mai na veiveisau ni dua na ka somidi, ia mai na kaukauwa ni Kalou na Dauveibuli, ka a bulia na vuravura ena ono na siga ka qai vakacegu enai kavitu ni siga. Ni veidutaitaki kei na vakanananu nei Nietzsche, na Lotu ni Kavitu e kaya, ni sega walega ni o Koya na Kalou e bula tiko ia na Nona yavu talega ni bula savasava (na vatu ni Vunau Makawa), na Vunau e Tini, ka se yavu tudei tikoga ni Nona vakatulewa na Kalou ka semata vata tiko na kawa tamata kecega.
+
+Erui veivakurabuitaki nira yaco kece tiko ena 1844 na veika kece oqo?
+
+Ko Marx, Nietzsche, Darwin-e lewe tolu na tamata rogo, kei na nodratou cakacaka e vakavu- na na veileqa o koya e dredre me vakavinakataki ki na kawa tamata. Ia ena loma ni veivakavuvuli lasu oya, na Kalou e sega ni biuta vakailoa tu na vuravura me sega nai vakadinadina ni Nona dina, sai koya oya na vuna, ena loma ni veivakanananu e veivakacalai oqo, e vakaduria kina e dua nai soqosoqo lotu ka sa laki yaco me Lotu ni Kavitu ni Lesu Vakarua mai ka me na kacivaka na Nona dina ni vakataotioti ni gauna ki vuravura—nai tukutuku ni agilosi e lewe tolu. Oqo nai tukutuku e saqata na lasu kei nai tukutuku e veivakacalai eratou tukuna cake tiko mai na lewe tolu na tamata oya.
+
+Nai tukutuku ni agilosi e lewe tolu sai koya na ivakaro ni nona toso se taubale na Lotu ni Kavitu ni Lesu Vakarua mai. Ka kena usotu, sai koya na kosipeli, e savasava ka rawarawa, ia na kosipeli e vakatakilai enai yaloyalo levu ni dina ena gauna oqo (2 Pita 1:12).
+
+Sai koya oqo nai tukutuku ni agilosi e tolu, eda na vulica tiko ena vula tolu oqo.
+
+A native of Connecticut, U.S.A., Mark Finley, an internationally known evangelist, was a vice president at the General Conference from 2005–2010. After retiring from full- time employment, he became an assistant to the president of the General Conference. Pastor Finley and his wife, Ernestine, have three children and five grandchildren.
