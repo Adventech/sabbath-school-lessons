@@ -1,0 +1,80 @@
+---
+  pdf:
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L01.pdf
+      target: en/2023-02-cq/01
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L02.pdf
+      target: en/2023-02-cq/02
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L03.pdf
+      target: en/2023-02-cq/03
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L04.pdf
+      target: en/2023-02-cq/04
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L05.pdf
+      target: en/2023-02-cq/05
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L06.pdf
+      target: en/2023-02-cq/06
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L07.pdf
+      target: en/2023-02-cq/07
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L08.pdf
+      target: en/2023-02-cq/08
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L09.pdf
+      target: en/2023-02-cq/09
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L10.pdf
+      target: en/2023-02-cq/10
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L11.pdf
+      target: en/2023-02-cq/11
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L12.pdf
+      target: en/2023-02-cq/12
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-D-2023-Q2-L13.pdf
+      target: en/2023-02-cq/13
+      title: Devotional
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L01.pdf
+      target: en/2023-02-cq/01
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L02.pdf
+      target: en/2023-02-cq/02
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L03.pdf
+      target: en/2023-02-cq/03
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L04.pdf
+      target: en/2023-02-cq/04
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L05.pdf
+      target: en/2023-02-cq/05
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L06.pdf
+      target: en/2023-02-cq/06
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L07.pdf
+      target: en/2023-02-cq/07
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L08.pdf
+      target: en/2023-02-cq/08
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L09.pdf
+      target: en/2023-02-cq/09
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L10.pdf
+      target: en/2023-02-cq/10
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L11.pdf
+      target: en/2023-02-cq/11
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L12.pdf
+      target: en/2023-02-cq/12
+      title: Journal
+    - src: https://www.inversebible.org/assets/inverse/lessons/3AM/INV-J-2023-Q2-L13.pdf
+      target: en/2023-02-cq/13
+      title: Journal

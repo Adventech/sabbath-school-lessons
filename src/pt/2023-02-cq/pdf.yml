@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-Intro.pdf
+      title: Intro
+      target: pt/2023-02-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-01.pdf
+      target: pt/2023-02-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-02.pdf
+      target: pt/2023-02-cq/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-03.pdf
+      target: pt/2023-02-cq/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-04.pdf
+      target: pt/2023-02-cq/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-05.pdf
+      target: pt/2023-02-cq/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-06.pdf
+      target: pt/2023-02-cq/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-07.pdf
+      target: pt/2023-02-cq/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-08.pdf
+      target: pt/2023-02-cq/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-09.pdf
+      target: pt/2023-02-cq/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-10.pdf
+      target: pt/2023-02-cq/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-11.pdf
+      target: pt/2023-02-cq/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-12.pdf
+      target: pt/2023-02-cq/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-02-cq/ABSG-2023-02-INV-PT-13.pdf
+      target: pt/2023-02-cq/13

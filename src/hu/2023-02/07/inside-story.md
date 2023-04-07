@@ -1,0 +1,10 @@
+---
+title: Történet
+date: 12/05/2023
+---
+
+#### ISTEN KEGYELMÉBŐL JÓZANON
+
+_Dale Wolcott_
+
+Az 1970-es években két, egymás számára ismeretlen navahó szülőpár elküldte gyermekeit, hogy az otthonuktól 160 km-re lévő Holbrook Hetednapi Adventista Indián Iskola kollégiumában lakjanak. A fiatalok megismerkedtek egymással, elfogadták Jézust és megkeresztelkedtek. Idővel esküvőre került sor, az elsőre, amelyet a fiú szülővárosában, az arizonai Chinle-ben, az újonnan épült hetednapi adventista imaházban tartottak. Amikor Dennis és Gloria Fulton első gyermeke megszületett, magukkal vitték a gyülekezetbe. Így a kis Oliver abban a tudatban nőtt fel, hogy az adventista egyház az ő egyháza. De valahogy sosem találkozott igazán Jézussal. A helyzetet tovább rontotta Dennis alkohol problémája, és tinédzserként Oliver is inni kezdett. Elvégezte az állami középiskolát, a nagyvárosba költözött, hogy informatikusnak tanuljon, később azonban rá kellett jönnie, hogy az alkohol irányítja az életét. Oliver 38 éves korában kétségbeesve hazaköltözött Chinle-be, ahol az édesanyja mindvégig imádkozott érte. Elkezdett járni gyermekkora gyülekezetébe, remélve, hogy valami megváltozik. A gyülekezet szenvedélybetegek gyógyulását segítő szolgálatot működtet. 80 navahó ember küzdött hozzá hasonlóan, és hetente öt este találkozott a gyülekezet közösségi termében a „Jézus és én” program keretén belül, amelyet az Anonim Alkoholisták mintájára szerveztek. Oliver élete kezdett megváltozni. Reménnyel töltötte el a tudat, hogy Jézus valóban megbocsát neki. Már négy éve józan. A gyülekezetben találkozott egy lánnyal, Tracivel, akit Jézus a heroinfüggőségtől szabadított meg. Oliver néhány nappal Tracivel kötött házassága előtt keresztelkedett meg, ugyanabban a gyülekezetben, ahol 40 éve a szülei is összeházasodtak. Ma Oliver vezeti a chinle-i gyülekezet szenvedélybetegeket segítő szolgálatát. Emellett szorgalmasan tanul, hogy képzett addiktológus legyen. Oliver édesapja szintén évek óta józan. Szombatonként néha apa és fia egymás mellett ül a templomban, párjukkal az oldalukon és mosollyal a szívükben.

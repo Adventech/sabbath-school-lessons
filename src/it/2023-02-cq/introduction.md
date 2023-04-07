@@ -1,0 +1,21 @@
+### Tre messaggi cosmici
+
+Il 15 ottobre 1844, una settimana prima della grande delusione, nacque un bambino in una famiglia luterana devota in Germania. Si chiamava Friedrich Nietzsche, e sarebbe diventato uno degli atei più influenti dell'epoca moderna. Credendo che il Dio cristiano stesse morendo in Occidente, Nietzsche si scagliò contro la costante influenza morale della religione cristiana, deridendola come «morale degli schiavi», la moralità dei deboli che, nel tentativo di proteggersi dai più forti, si erano inventati delle nozioni sciocche come «amate i vostri nemici». Per Nietzsche, la modernità doveva andare oltre le nozioni antiquate di «bene e male» esemplificate da un personaggio in uno dei suoi libri (Così parlò Zarathustra) che dichiarò, «Spezzate le vecchie tavole!» (intendendo ovviamente i dieci comandamenti).
+
+L'anno 1844 fu importante anche per Karl Marx, il fondatore del comunismo. Quell'anno Marx scrisse un'opera chiamata i «Manoscritti economico-filosofici del 1844», pubblicata postuma dall'Unione Sovietica nel 1932. I manoscritti mostrano il primo sviluppo dell'ideologia di Marx in cui sosteneva una realtà completamente materialista che si muoveva attraverso diversi stadi economici finché i lavoratori del mondo non si fossero uniti, rovesciando i loro oppressori capitalisti e creando un'utopia sulla terra.
+
+L'anno 1844 fu importante anche per Charles Darwin. In quello che diventò famoso come il «Saggio del 1844», Darwin produsse una delle prime espressioni della sua teoria evoluzionistica, anche se non fu pubblicata allora. Solo nel 1859, con la pubblicazione del libro L'origine delle specie, Darwin diffuse pubblicamente la sua opinione che tutta la vita sulla terra originasse da un antenato comune attraverso processi naturali e casuali.
+
+L'anno 1844 però fu anche il compimento della profezia dei duemilatrecento giorni di Daniele 8:14 e lo stesso anno in cui, da ciò che restava della grande delusione, furono piantati i semi che sarebbero germogliati in un movimento mondiale il cui messaggio centrale ripudia il fulcro dell'ideologia nietzschiana, marxista e darwiniana.
+
+Al contrario di Nietzsche, il movimento avventista del settimo giorno annunciava che non solo Dio esiste, ma anche che il suo codice morale universale (le «vecchie tavole», i dieci comandamenti), resta il suo massimo standard di giudizio e vincola tutta l'umanità.
+
+Al contrario di Marx, il movimento avventista del settimo giorno annunciava che il gran conflitto tra Cristo e Satana, e non un flusso materialista della storia, spiegava sia la storia del nostro mondo fino a quel punto sia come la nostra storia finirà nel futuro: non in un'utopia comunista creata dall'uomo, ma nell'istituzione soprannaturale del regno eterno di Dio.
+
+E al contrario di Darwin, il movimentò avventista del settimo giorno insegnava che la vita originò non nel processo naturale delle mutazioni casuali e della selezione naturale, ma dalla potenza del Dio creatore, che in sei giorni creò la vita sulla terra e si riposò il settimo giorno.
+
+È possibile che fosse una coincidenza che tutti questi eventi avvennero nel 1844? Non si dovrebbe pensare che lo sia.
+
+Nietzsche, Marx, Darwin; tre figure influenti le cui opere hanno causato danni irreparabili all'umanità. Ma in mezzo a tutti questi errori Dio non ha lasciato il mondo senza un testimone della sua verità, ed è per questo che, in mezzo a queste ideologie distruttive, egli ha sollevato un movimento che nel tempo si sarebbe trasformato nella chiesa avventista del settimo giorno e che avrebbe annunciato la sua verità degli ultimi giorni al mondo: i messaggi dei tre angeli. Questi messaggi confutano gli errori e i fraintendimenti promossi da quei tre uomini terribilmente ingannati.
+
+In un certo senso, i messaggi dei tre angeli sono gli ordini di marcia della chiesa avventista del settimo giorno. Nella loro essenza, essi sono il vangelo puro e semplice, il vangelo annunciato nel contesto della «verità che è presso di voi» (2 Pietro 1:12). E questo, i messaggi dei tre angeli, è il nostro studio per il trimestre.
