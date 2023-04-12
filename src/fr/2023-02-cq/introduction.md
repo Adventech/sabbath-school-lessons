@@ -1,0 +1,21 @@
+### Le message cosmique des trois anges
+
+Le 15 octobre 1844, une semaine avant la grande déception, un garçon naît dans une famille luthérienne pieuse en Allemagne. Il s’appelle Friedrich Nietzsche et deviendra l’un des athées les plus influents de la modernité. Convaincu que le Dieu chrétien est en train de mourir en Occident, Nietzsche s’insurge contre l’influence morale continue de la religion chrétienne, qu’il qualifie de « moralité d’esclave », la moralité des faibles qui, pour se protéger des plus forts, ont concocté des notions stupides telles que « Aimez vos ennemis ». Pour Nietzsche, la modernité doit dépasser les notions archaïques de « bien et mal », comme l’illustre un personnage de l’un de ses livres (Ainsi parlait Zarathoustra) qui déclare : « Brisez les vieilles tables de la loi ! » (c’est-à-dire, les dix commandements).
+
+L’année 1844 a aussi été importante pour Karl Marx, fondateur du communisme. Cette année-là, Marx a rédigé un ouvrage intitulé Manuscrits économiques et philosophiques de 1844, publié à titre posthume par l’Union soviétique en 1932. Ces manuscrits montrent le développement précoce de l’idéologie de Marx, dans laquelle il défend une réalité totalement matérialiste qui passe par différentes étapes économiques jusqu’à ce que les travailleurs du monde s’unissent, renversent leurs oppresseurs capitalistes et créent une utopie sur terre.
+
+L’année 1844 a été tout aussi importante pour Charles Darwin. Dans ce que l’on a appelé « L’essai de 1844 », Darwin a produit l’une des premières expressions de sa théorie de l’évolution, même si elle n’a pas été rendue publique à l’époque. Ce n’est qu’en 1859, avec la publication du livre De l’origine des espèces, que Darwin a publiquement promulgué son point de vue selon lequel toutes les formes de vie sur terre sont nées d’un ancêtre commun par des processus uniquement naturels et fortuits.
+
+Cependant, l’année 1844 a aussi été l’accomplissement de la prophétie des 2 300 jours de Daniel 8.14, et la même année où, à partir d’une poignée de croyants qui venaient de vivre la grande déception, des graines ont été plantées, qui allaient éclore en un mouvement mondial dont le message central répudie le cœur même de l’idéologie nietzschéenne, marxiste et darwinienne.
+
+Contrairement à Nietzsche, le mouvement adventiste du septième jour a proclamé que non seulement Dieu existe, mais aussi que son code universel de moralité (les « vieilles tables de la loi »), les dix commandements, demeure sa norme ultime de jugement, obligatoire pour toute l’humanité.
+
+Contrairement à Marx, le mouvement adventiste du septième jour a proclamé que la grande controverse entre le Christ et Satan, et non un flux matérialiste de l’histoire, explique à la fois l’histoire de notre monde jusqu’à ce point, et la façon dont notre histoire se terminera dans le futur : non pas dans une utopie communiste forgée par l’homme, mais dans l’établissement surnaturel du royaume éternel de Dieu.
+
+Et contrairement à Darwin, le mouvement adventiste a enseigné que la vie a commencé non par le processus naturel et fortuit de la mutation aléatoire et de la sélection naturelle, mais par la puissance du Dieu créateur qui, en six jours, a créé la vie sur terre et s’est reposé le septième.
+
+Tous ces événements se sont-ils produits en 1844 par coïncidence ? Il ne faut pas le penser.
+
+Nietzsche, Marx, Darwin… Les travaux de ces trois personnages influents ont causé à l’humanité des dommages irréparables. Mais au milieu de toutes ces erreurs, Dieu n’a pas laissé le monde sans témoin de sa vérité. C’est pourquoi, parmi ces idéologies destructrices, il a suscité un mouvement qui, avec le temps, est devenu l’Église adventiste du septième jour, qui proclame au monde sa vérité des derniers jours : le message des trois anges. Ce message réfute les erreurs et les idées fausses promues par ces trois hommes terriblement trompés.
+
+Dans un sens, le message des trois anges constitue les ordres de marche de l’Église adventiste. Ils sont, fondamentalement, l’Évangile pur et simple, mais l’Évangile déclaré dans le contexte de la « vérité présente » (2 P 1.12). Ce précieux message sera le thème de notre étude pour ce trimestre.
