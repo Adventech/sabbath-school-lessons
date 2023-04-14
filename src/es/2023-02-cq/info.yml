@@ -1,0 +1,14 @@
+---
+  title: "Tres mensajes cósmicos"
+  description: "El 15 de octubre de 1844, una semana antes del Gran Chasco, nació un niño en una devota familia luterana de Alemania. Le pusieron por nombre Friedrich Nietzsche, quien llegaría a ser uno de los ateos más influyentes de la era moderna."
+  human_date: "Abril · Mayo · Junio 2023"
+  start_date: "25/03/2023"
+  end_date: "23/06/2023"
+  color_primary: "#BD5346"
+  color_primary_dark: "#9D3528"
+  splash: true
+  credits:
+    - name: Autores
+      value: "Mark Finley"
+    - name: Dirección general
+      value: "Jim Howard"

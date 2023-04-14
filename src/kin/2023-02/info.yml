@@ -6,6 +6,7 @@
   end_date: "23/06/2023"
   color_primary: "#0A454E"
   color_primary_dark: "#01373F"
+  splash: true
   credits:
     - name: Umwanditsi W'iki kigisho
       value: "Mark Finley"

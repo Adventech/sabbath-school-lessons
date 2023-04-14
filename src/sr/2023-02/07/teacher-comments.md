@@ -1,0 +1,54 @@
+---
+title:  Obožavanje Stvoritelja
+date:  12/05/2023
+---
+
+### PRVI DEO: PREGLED
+
+Činjenica da je Bog stvorio ovaj svet za sedam doslovnih dana jedna je od osnovnih istina Svetog pisma. Biblija počinje rečima: „U početku stvori Bog nebo i zemlju“ (1. Mojsijeva 1,1). Poslednja knjiga Biblije, Otkrivenje, poziva nas da se klanjamo „Onome koji je stvorio nebo i zemlju“ (Otkrivenje 14,7). Bog je dostojan našeg obožavanja jer nas je stvorio. Mi nismo evoluirali. Nismo tek neka genetička slučajnost. Mi smo mnogo više od nekog naprednog primerka jedne životinjske vrste. Mi smo ljudska bića neverovatne vrednosti jer nas je stvorio Bog. I svako od nas je jedinstven u Njegovim očima.
+
+Pouka za ovu sedmicu istražuje značaj subote u njenoj povezanosti sa stvaranjem. Subota nam govori o vrednosti koju imamo u Božjim očima. Kada se ispravno shvati, subota ruši svako osećanje inferiornosti i niskog samopoštovanja. Mi po stvaranju pripadamo Hristu. Subota takođe govori o našem počivanju u Hristu. Subotom se odmaramo od iscrpljujućeg rada koji nam nameće sistem vrednosti ovog sveta. Subota nas poziva da zastanemo i razmislimo o večnim vrednostima. Poziva nas da počivamo u Hristu kad je reč o našem spasenju, i da se oslonimo na Njegovu stvaralačku silu da nas preobrazi, da bismo iz dana u dan bili sve sličniji Njemu.
+
+Naša pouka za ovu sedmicu vodi nas takođe ka dubljem razumevanju subote kao večnog podsetnika na nebesko zajedništvo sa Hristom. Svake subote kad prisustvujemo bogosluženju, to postaje predokus onoga što ćemo iskusiti na nebu. Knjiga Otkrivenje, kao što ćemo videti, pokazuje koliko je subota važna u svetlu večnosti.
+
+### DRUGI DEO: KOMENTAR
+
+U novembru 1998. Čarls Kolson je napisao članak pod naslovom „Astronauti koji su pronašli Boga: duhovni pogled na svemir“: „Povratak astronauta Džona Glena u svemir 36 godina nakon njegovog veličanstvenog kruženja Zemljinom orbitom, podseća nas na onu vrstu heroizma koji je istraživanje svemira učinio mogućim... (Glen je 1998, u svojoj 77. godini, neposredno nakon što se vratio sa svog poslednjeg putovanja u svemir, izjavio pred reporterima: ’Za mene je prosto nemoguće da posmatram takve tvorevine, a da ne verujem u Boga. To samo jača moju veru.’“ – Charles Colson, Breakpoint Commentary, November 5, 1998.
+
+Javnost možda nije svesna činjenice da su mnogi od ranih astronauta – heroja bili ljudi dubokih religioznih uverenja. A posmatranje beskonačnog svemira samo je uvećalo njihovu veru. „Nil Armstrong i Baz Oldrin su najpoznatiji po tome što su bili među prvim astronautima koji su sleteli na Mesec i napravili taj ‚džinovski skok za čovečanstvo‘. Ali verovatno ne znate da je, pre nego što su izašli iz svemirskog broda, Oldrin izvukao Bibliju, srebrni putir i osvećeni hleb i vino. Tamo na mesecu, njihov prvi čin bio je pričešćenje.
+
+Frenk Borman je bio zapovednik prve svemirske posade koja je putovala izvan Zemljine orbite. Gledajući dole na Zemlju sa udaljenosti od preko 400 000 kilometara, Borman je radio-vezom poslao poruku, citirajući 1. stih 1. Mojsijeve: ’U početku stvori Bog nebo i zemlju.’ Kako je kasnije objasnio: ’Imao sam neodoljiv osećaj da mora postojati neka sila veća od bilo koga od nas – da postoji Bog, da zaista postoji početak.’“ – Charles Colson, Breakpoint Commentary, November 5, 1998. Svaki od pomenutih astronauta doživeo je taj osećaj da ovaj svet nije proizvod nekog nepredviđenog slučaja. Kao što ni život nije samo kosmička slučajnost. Astronauti su, dakle, shvatili istinu iz teksta 1. Mojsijeva 1,1 – da je ovaj svet stvorio sveznajući, svemogući Bog.
+
+Tri anđela iz teksta Otkrivenje 14 „velikijem glasom“ objavljuju poruku o Stvaranju i o sveznajućem Bogu. Boga ništa ne može da iznenadi. On vidi događaje koji tek treba da se odigraju pre nego što do njih uopšte dođe. Bog je poruku tri anđela osmislio konkretno kao odgovor na humanističke, postmoderne izazove ove generacije. Nije nikakva slučajnost to što je Bog, baš u trenutku kad se teorija evolucije pojavila, uputio svetu poziv da Ga obožava kao Stvoritelja.
+
+Tri glavne filozofsko-političke struje koje su se pojavile u devetnaestom veku, izvršile su snažan uticaj na čitav svet. Teorija evolucije je, preko naučne zajednice, uticala na milione ljudi. Komunizam i marksizam su obezvredili ljudski život, i takođe su, na političkom i društvenom planu, uticali na milione. Učenje Sigmunda Frojda je opet, u domenu psihologije, izmenilo način razmišljanja miliona ljudi.
+
+S druge strane, subota stoji kao spomenik našem Stvoritelju u ovo doba rastućeg sekularizma. Kao što pouka za ovu sedmicu ističe, subota je simbol naše odanosti Onome koji nas je stvorio. Subota je priznanje da život nije neka genetička slučajnost. Mi postojimo na osnovu volje i plana samog Boga. Dovedeni smo u postojanje s razlogom. Razumevanje Stvaranja, u skladu sa subotnim bogosluženjem, oslobađa nas dehumanizujućih okova evolucije. Bogosluženje subotom daje vrednost svakom životu. Svaki život se računa pred Bogom, jer je svaka osoba jedinstveno stvorenje, koje je naš Tvorac posebno načinio da ispuni određenu svrhu u Njegovom planu.
+
+**Plan za svaki život**
+
+Sa svojih 19 godina, Brus Olson je otišao u džunglu na granici Kolumbije i Venecuele, da bi odneo evanđelje plemenu Bari. Bari su bili primitivni, aboridžinski narod, izolovan u gustim džunglama Južne Amerike. Njegovi pripadnici bili su poznati po svojoj žestokoj borbenosti i nasilnoj, varvarskoj taktici, koju su primenjivali u ratovanju protiv ostalih plemena. Međutim, Brusa nije brinula njihova reputacija kao brutalnog naroda i bio je spreman, ako zatreba, i život da položi da bi im objavio evanđelje. Proveo je više sedmica pokušavajući da pridobije njihovo poverenje. Nijedan zapadnjak pre toga nije ušao na njihovu teritoriju. Ipak, pripadnici plemena Bari vremenom su zavoleli tog blagog, brižnog stranca. Na osnovu Brusovog propovedanja, oni su iskusili novi život u Hristu. Svemoćni Stvoritelj je promenio njihov život. To nekada ratoborno, nasilno pleme postalo je činilac mira u čitavom regionu.
+
+Baš kada je Brus bio na putu da ostvari veliki napredak u objavljivanju evanđelja, dogodilo se nešto neočekivano. Kolumbijski gerilci su ga kidnapovali i držali u tajnom skrovištu duboko u džungli. Nakon toga, kolumbijska vojska je pokušala da regrutuje pleme Bari za rat protiv gerilaca. Međutim, oni su to odbili, rekavši: „Nasilje rađa samo nasilje.“
+
+Brus je mesecima držan u nehumanim uslovima. Ipak, uspeo je da se uzdigne iznad užasa svojih okolnosti. Zadobio je poverenje svojih otmičara. Na kraju su mu dali Bibliju, i on je, iz dana u dan, delio s njima Božju Reč. Kao rezultat toga, više od stotinu tih pobunjeničkih boraca prihvatilo je Hrista i raskinulo sa gerilskim snagama. Položili su oružje i ponovo se uključili u društveni život kao produktivni građani Kolumbije.
+
+Uprkos delovanju zlih sila protiv Brusa Olsona, svemoćni Tvorac je imao plan za njegov život, koji ni sve sile pakla nisu mogle da unište. Međutim, naš Tvorac nije imao samo plan za život Brusa Olsona. On ima plan i za naš život, ali postoji nešto još bolje. Ne samo da Stvoritelj ima plan za naš život, već će nas On, putem Svetog Duha, i uvesti u svoj plan. Razumevanje punog značenja subote pružiće nam dublje razumevanje Božjeg plana za nas, kao i dublju svrhu našeg života.
+
+Kao što pouka za ovu sedmicu ističe, jevrejska reč bara označava nešto što samo Bog može da učini. Ljudska bića mogu da naprave nešto od već postojećih, dostupnih materijala, ali samo Bog može da stvara ni iz čega. Kada Bog izgovori svoju reč, pojavljuje se nešto opipljivo (Psalmi 33,6.9; Jevrejima 1,1.2). Kada Bog govori, šta god On kaže biva tako, čak i ako nikada ranije nije bilo tako, jer Božja Reč ima stvaralačku moć da to tako učini. Kada Stvoritelja neba i zemlje obožavamo subotom, mi potvrđujemo činjenicu da je On svemoćan.
+
+A ako je Bog dovoljno moćan da stvori ovaj svet i sve što je u njemu, sigurno je dovoljno moćan i da promeni naš život. Subota je istovremeno simbol opravdanja (našeg počivanja samo u Hristu) i posvećenja (snage koju nalazimo samo u Hristu). Prorok Jezekilj jasno iznosi tu ideju:
+
+„I subote svoje dadoh im da su znak između mene i njih da bi znali da sam ja Gospod koji ih posvećujem“ (Jezekilj 20,12). Svake subote, dok prisustvujemo bogosluženju, naš Tvorac nas ponovo stvara. Onaj koji nas je načinio obnavlja nas. Onaj koji nas je oblikovao preoblikuje nas.
+
+Do konačnog sukoba u vezi sa bogosluženjem, kao što je navedeno u knjizi Otkrivenje, doći će upravo zato što nas je Hristos stvorio, iskupio, preobrazio, i zato što se uskoro vraća po nas. Đavo mrzi subotu, jer mrzi sve što ona predstavlja. Subota je simbol Hristovog autoriteta, Njegove vladavine, Njegove milosti i Njegove moći. Kad bi uspeo da prevari ljude, uverivši ih da subota nema nikakav značaj, sotona bi uspeo i da potkopa autoritet Stvoritelja, i da odanost miliona ljudi zadobije za sebe. Iz tog razloga, Bog je poslao svoju poruku za poslednje vreme, koju nalazimo u 14. poglavlju Otkrivenja – da bi pripremio ovaj svet za povratak našeg Stvoritelja i Iskupitelja, koji će ponovo stvoriti ovu planetu i vratiti joj njen edemsi sjaj.
+
+### TREĆI DEO: PRIMENA U ŽIVOTU
+
+**Za lično razmišljanje:** Bog Tvorac je načinio sunce, mesec i zvezde. On je svojom strahovitom silom stvorio ovu planetu i ispunio je živim bićima. Taj isti Bog je izbavio svoj narod iz egipatskog ropstva, vodio ga u njegovom lutanju po pustinji, slao manu s neba, srušio zidove Jerihona i pobeđivao neprijatelje Izraela. Taj isti Bog je zainteresovan za vas i mene. On u našu korist oslobađa silu Stvaranja, da bi porazio neprijatelja koji se bori za našu dušu. Naše razumevanje i prihvatanje te biblijske istine od presudnog je značaja.
+
+Svako od nas se svakodnevno bori sa iskušenjima. Ali, evo jedne neverovatno dobre vesti: isti Bog, koji je upotrebio svoju beskonačnu silu da bi stvorio svet, upotrebiće tu istu beskonačnu silu da bi porazio sile tame koje vode bitke za našu dušu. Isus može da nam ponudi nešto mnogo više od frustrirajućeg poraza. On ima da nam ponudi nešto mnogo više od ponovljenih neuspeha. On može da nam ponudi nešto mnogo više od spoticanja o istu prepreku uvek iznova. Ko je, dakle, Taj kome mi služimo? To je Bog Stvoritelj koji poseduje neograničenu, beskonačnu silu. Ta sila postaje naša kada je verom prihvatimo. Tako se preobražavamo, menjamo, obnavljamo silom Boga Stvoritelja.
+
+**Razgovor i molitva:** Zamolite nekog dobrovoljca da pročita stih 2. Korinćanima 5,17: „Ako je ko u Hristu, nova je tvar: staro prođe, gle, sve novo postade.“
+
+Razgovarajte u razredu o tome šta znači biti „nova tvar“.
