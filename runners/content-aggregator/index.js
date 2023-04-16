@@ -153,7 +153,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2023/01/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2023/04/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -206,7 +206,7 @@ let czechAudio = async function () {
                 "inside-story"
             ]
 
-            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q1/2023_Q1_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q2/2023_Q2_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
         },
         2,
         7

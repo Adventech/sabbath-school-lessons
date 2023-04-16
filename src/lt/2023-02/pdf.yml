@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-Intro.pdf
+      title: Įvadas
+      target: lt/2023-02/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-01.pdf
+      target: lt/2023-02/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-02.pdf
+      target: lt/2023-02/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-03.pdf
+      target: lt/2023-02/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-04.pdf
+      target: lt/2023-02/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-05.pdf
+      target: lt/2023-02/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-06.pdf
+      target: lt/2023-02/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-07.pdf
+      target: lt/2023-02/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-08.pdf
+      target: lt/2023-02/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-09.pdf
+      target: lt/2023-02/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-10.pdf
+      target: lt/2023-02/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-11.pdf
+      target: lt/2023-02/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-12.pdf
+      target: lt/2023-02/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lt/2023-02/ABSG-2023-02-LT-13.pdf
+      target: lt/2023-02/13

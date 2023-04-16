@@ -1,0 +1,11 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ja/2023-02/ABSG-2023-02-JA-Intro.pdf
+      title: 序章
+      target: ja/2023-02/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ja/2023-02/ABSG-2023-02-JA-01.pdf
+      target: ja/2023-02/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ja/2023-02/ABSG-2023-02-JA-02.pdf
+      target: ja/2023-02/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ja/2023-02/ABSG-2023-02-JA-03.pdf
+      target: ja/2023-02/03

@@ -1,0 +1,48 @@
+---
+title:  Bojte se Boga i dajte Mu slavu
+date:  21/04/2023
+---
+
+### PRVI DEO: PREGLED
+
+Kad razmišljaju o sudu, mnogi hrišćani su ispunjeni strahom. Oni zamišljaju Boga u Njegovoj nebeskoj sudnici kako sedi kao Vrhovni sudija svemira, odmeravajući njihova dobra i loša dela. Imaju tu maglovitu ideju da će biti spaseni ako njihova dobra dela budu nadmašila ona loša. Ali, ako kojim slučajem njihova loša dela budu nadmašila dobra, smatraju da će biti izgubljeni.
+
+U pouci za ovu sedmicu pokazaćemo da takvo viđenje suda nije samo pogrešno, već i da je to jedna od đavolskih obmana kako bi se Božji karakter predstavio u krivom svetlu. Sotona želi da prikaže Boga kao osvetoljubivog sudiju, kao neku vrstu gnevnog tiranina, koji želi da kazni svoja stvorenja za svaki greh koji su ikad počinila.
+
+Međutim, naša subotnoškolska pouka ove sedmice otkriva jednog Boga beskrajne ljubavi, koji čini sve što je u Njegovoj moći kako bi nas spasao. On želi da mi budemo na nebu, čak i više nego što sami to želimo. Božji sud potvrđuje činjenicu da je Nebo učinilo sve što je moglo da bi spasilo ceo ljudski rod. Ako ipak budemo izgubljeni, to će biti samo zato što smo se neprekidno odupirali zahtevima božanske ljubavi. Naša dobra dela jesu važna na sudu, jer pokazuju kakav je naš odgovor na Božju bezuslovnu, neiscrpnu ljubav koja se, preko Hrista, otkrila na krstu. Ta dobra dela svedoče o tome da je naša vera u Isusa iskrena. Naše poimanje onoga što je Isus činio, što sada čini, i što će nastaviti da čini, rađa u nama želju da Mu zauvek služimo.
+
+### DRUGI DEO: KOMENTAR
+
+Knjiga Otkrivenje objavljuje da „dođe čas suda njegova“ (Otkrivenje 14,7). Međutim, tu nam nije otkrivena ni priroda tog suda, a ni tačno vreme njegovog početka. To je otkriveno u Knjizi proroka Danila. Tekst Danilo 7-9 pokazuje unutrašnju povezanost i jasno otkriva prirodu i vreme Suda. Proročke knjige Danilo i Otkrivenje čine jednu celinu. Razumevanje Knjige proroka Danila pomaže nam da razumemo Otkrivenje. Kada govori o prirodi suda u tekstu Danilo 7, prorok ga opisuje u kontekstu Hristove pobede nad despotskim silama ovog sveta. Na početku 7. poglavlja Knjige proroka Danila, četiri zveri marširaju preko pejzaža, tlačeći Božji narod. Prema tekstu Danilo 7,17.23, te zveri predstavljaju careve ili carstva. Ključne reči u tekstu Danilo 7 su „carstvo“ i „vlast“.
+
+Vodi se bitka za vlast nad ovim svetom. Konačno, javlja se „mali rog“ kao versko-politička sila koja menja Božji zakon i teži da zavlada planetom zemljom. Naša pažnja se tada sa zemlje usmerava ka nebu. Starac, naš nebeski Otac, proglašava početak nebeskog suda. Sin čovečiji, Isus, pridružuje se Ocu. Na tom sudu se otkriva da je Hristos zakoniti vladar svemira. Danilo kaže: „Vidjeh u utvarama noćnijem, i gle, kao sin čovječji iđaše s oblacima nebeskim, i dođe do starca i stade pred njim. I dade mu se vlast i slava i carstvo da mu služe svi narodi i plemena i jezici; vlast je njegova vlast vječna, koja neće proći, i carstvo se njegovo neće rasuti“ (Danilo 7,13.14).
+
+Na tom sudu se Hristos, pred čitavom vasionom, otkriva kao njen zakoniti vladar. Sotonino carstvo je, s druge strane, u potpunosti razotkriveno kao zlo, obmanjujuće, sebično i destruktivno. Nebo otkriva da je Božanstvo učinilo sve što je bilo moguće da bi, na krstu, spasilo ceo ljudski rod. Na tom sudu biva osuđena sila malog roga (papski Rim) i sve zemaljske vlasti. Presuda se donosi u korist Božjeg naroda. Shodno tome, povereno im je delo suđenja tokom hiljadugodišnjeg perioda, kada će zajedno sa Hristom vladati na nebu posle Njegovog drugog dolaska. Dakle, za posvećene hrišćane, odane Hristu, koji veruju u Njegovu milost i obučeni su u Njegovu pravednost, sud je dobra, a ne loša vest.
+
+Sedmo poglavlje Knjige proroka Danila napisano je tokom prve godine vladavine Valtazara, vavilonskog cara. Prema Zigfridu Hornu, doktoru nauka, arheologu i bivšem predavaču na Univerzitetu Endrjuz, „Vavilonjani su imali veoma pesimističan pogled na zagrobni život. Njihov podzemni svet, carstvo mrtvih, mračna je zemlja, puna prašine, gde je hleb gorak, a voda bljutava, i gde mrtvi nose odeću od perja da bi se zaštitili od hladnoće. Smatralo se da, tokom noći, njihove potrebe za svetlom, hranom i pićem zadovoljava bog sunce.“ – Ministry, December 1981 (tom 54, br. 12), str. 25.
+
+Horn dalje kaže: „Postoji izrazita razlika između Egipćana i Vavilonjana kad je reč o shvatanju budućeg suda. Iako malo znamo o tome šta su Vavilonjani mislili o svojoj budućoj sudbini, Egipćani su ostavili brojne zapise o svojim verovanjima. Ti posmrtni tekstovi variraju od tekstova piramida Starog carstva, preko tekstova kovčega Srednjeg carstva, do Knjige mrtvih Novog carstva. Tokom skoro 3000 godina njihova verovanja su se menjala u nekim aspektima, kao što ilustruju ovi različiti tekstovi... Oni veoma detaljno opisuju, i rečju i slikom, šta bi osoba mogla da očekuje da će doživeti posle smrti, i kako bi mogla da obezbedi povoljan ishod svog suđenja pred božanskim sudijama“ (stranica 27).
+
+Egipatske knjige mrtvih živopisno prikazuju egipatsko shvatanje suda kakvo je postojalo u eri Novog carstva. Ta ideja je najpotpunije razvijena u delu o Sudskoj dvorani u kojoj se, navodno, određuju sudbine mrtvih. „Oziris sedi u Sudskoj dvorani, a pred njim je vaga pravde, i on čeka da proceni pokojnika. Oni koji padnu na tom testu biće uništeni... Taj složeni, poduži tekst sadrži takozvano „negativno priznanje“, u kojem pokojnik tvrdi (prvo pred Ozirisom a zatim i pred četrdeset dvojicom drugih sudija) da je dostojan, time što nabraja zločine i prestupe koje nije počinio. A onda se srce pokojnika odmerava tako što se stavlja na jedan tas vage, dok se kao kontrateg koristi pero Ma'ata (kosmičkog zakona).“ – Ancient Egypt Online, „The Judgment of the Dead“, (https://ancientegyptonline.co.uk/judgmentofthedead/).
+
+Ako bi nečija loša dela nadjačala njegova dobra dela, tas bi prevagnuo na stranu večne tame, a srce bi bilo bačeno čudovištu koje je vrebalo priliku da ga proguta. Egipatski tekstovi takođe otkrivaju da skoro niko nikada nije uspeo da pobedi u raspravi sa bogovima. Egipatski bogovi su, po svemu sudeći, bili bezosećajni, neljubazni i spremni da vas prožderu.
+
+Važno je zapaziti suprotnost između drevnih paganskih shvatanja suda i biblijskog shvatanja koje  nalazimo u proročkim knjigama Danilo i Otkrivenje. Stih Otkrivenje 14,7 kaže: „Dođe čas suda njegova“ . Taj „čas“ nije samo vreme Božjeg suđenja ovom svetu, već i trenutak otkrivenja Božje ljubavi i blagodati pred vasionom. Kad je Hristos umro na krstu, cela vasiona je sagledala Božju ljubav. Nema većeg otkrivenja Božje ljubavi od Golgote. Krst definitivno potvrđuje: Bog je ljubav.
+
+Međutim, u kosmičkom sukobu između dobra i zla još uvek ima pitanja na koja treba odgovoriti. Kako se Božja ljubav pokazuje prema svakom pojedincu? Da li svaka osoba na planeti Zemlji ima dovoljno dokaza da bi mogla da donese jednu takvu, večnu odluku? Da li je Bog učinio sve što je bilo moguće da bi spasao svakog čoveka? Postoji li još nešto što je Bog mogao da učini? Da bi se svemir zauvek zaštitio od nove pojave greha, i da bi se božanska ljubav, van senke sumnje, učvrstila u srcima stanovnika svetova koji nisu pali, kao i ljudi iskupljenih sa zemlje iz svih vekova, na ta pitanja se mora odgovoriti, i na njih će biti odgovoreno.
+
+Po završetku suda, cela vasiona će radosno zapevati: „Velika su i divna djela tvoja, Gospode Bože svedržitelju, pravedni su i istiniti putovi tvoji, care svetijeh. Ko se neće pobojati tebe, Gospode, i proslaviti ime tvoje? Jer si ti jedan svet; jer će svi neznabošci doći i pokloniti se pred tobom; jer se tvoji sudovi javiše“ (Otkrivenje 15,3.4). I spaseni i izgubljeni, i opravdani i zli, priznaće da je Bog pravedan, svet i pun ljubavi u svom postupanju prema nama. Svemir će zauvek biti bezbedan, jer je Njegova ljubav obelodanjena, kako na krstu, tako i na konačnom sudu na zemlji.
+
+### TREĆI DEO: PRIMENA U ŽIVOTU
+
+**Za lično razmišljanje:** Tema koju proučavamo ove sedmice sadrži bogate duhovne pouke za naš svakodnevni život. Prvi važan princip koji možemo izvući iz našeg proučavanja je da živimo u jedinstvenom trenutku zemaljske istorije – kucnuo je čas Božjeg suda. Sudbina svih ljudi treba da se odluči. Kao što je Dan pomirenja u jevrejskom verskom kalendaru ujedno bio i dan suda, kada se sav Božji narod okupljao u drevnom svetilištu, ispovedajući grehe i preispitujući svoja srca, tako i danas objava sudnjeg časa predstavlja poziv na pokajanje, na ispovedanje i napuštanje greha. Objava sudnjeg časa je Božji poziv ljudima da budu potpuno predani Hristu na vrhuncu zemaljske istorije.
+
+Druga bitna istina u pouci za ovu sedmicu je da, kad smo u Hristu, ne treba da se plašimo suda. Možemo biti sigurni da će nas naš Gospod pun ljubavi izbaviti. Isus nije samo naš Sudija, već je i naš Branilac (Jovan 5,22, 1. Jovanova 2,1). Kada bi u zemaljskim sudovima nečiji sudija bio ujedno i njegov branilac, došlo bi do ozbiljnog sukoba interesa. Ali u nebeskoj sudnici tas pravde prevagnjuje u našu korist. Ako postoji ikakva mogućnost da nas Isus spasi, On će to i učiniti.
+
+Treća biblijska istina iz našeg proučavanja za ovu sedmicu je da će, na kraju, Hristos biti proslavljen, sotona razotkriven, a pravednici iskupljeni. Razumevanje suda iz knjige Otkrivenje uliva nam sigurnost da će se jednog dana ceo svemir pokloniti pred našim Stvoriteljem, Iskupiteljem i pobedonosnim Carom.
+
+**Za razgovor:**
+
+1. Kakvu utehu vam pruža saznanje da je vaš sudija ujedno i vaš branilac?
+
+2. Šta znači biti potpuno predan Hristu tokom sudnjeg časa na vrhuncu zemaljske istorije?
