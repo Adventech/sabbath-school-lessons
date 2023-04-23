@@ -262,3 +262,15 @@
           target: en/2023-02/04/05
         - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-20.mp3
           target: en/2023-02/04/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-22.mp3
+          target: en/2023-02/05/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-23.mp3
+          target: en/2023-02/05/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-24.mp3
+          target: en/2023-02/05/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-25.mp3
+          target: en/2023-02/05/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-26.mp3
+          target: en/2023-02/05/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/04/2023-04-27.mp3
+          target: en/2023-02/05/06
