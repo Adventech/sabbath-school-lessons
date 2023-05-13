@@ -14,3 +14,6 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-02-05.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-02-06.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-02-07.mp4
+          target: pt/2023-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-02-07.webp
