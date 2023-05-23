@@ -3,56 +3,56 @@ title:  Berita Misi
 date:  19/05/2023
 ---
 
-### Rencana Melarikan Diri Yang Berani
+### Dari Los Angeles ke Roma
 
-_Georgio, dari Italia_
+Melanie, dari Italia_
 
-Georgio menemukan apa yang dia pikir adalah rencana sempurna yaitu melarikan diri dari komunis Rumania.
+Melanie adalah seorang gadis yang sangat senang pergi ke tempat pesta. Setelah dia lulus dari sebuah universitas di Los Angeles. Dia suka bepergian dan bersenang-senang.
 
-Dia melihat orang-orang beruntung menaiki kereta di Ibu Kota Rumania, Bukares, untuk perjalanan dari negara tertutup ke Ibu Kota Prancis, Paris. Saat dia memperhatikan, dia melihat celah antara langit-langit dan atap gerbong kereta penumpang. Itu adalah ruangan yang hanya cukup untuk menyembunyikan seorang pria muda.
+Melanie berada di Roma ketika dia mendapat telepon bahwa adiknya Randy telah meninggal pada usia 20 tahun. Dia adalah anak bungsu dari lima bersaudara dalam keluarga. Randy dan Melanie sangat dekat. Mayatnya ditemukan mengambang di kolam renang pada pukul 05.00. Pemeriksa medis menduga penyebab kematiannya adalah serangan jantung. Tidak ada bukti tindakan kriminal.
 
-Dia tidak bisa naik kereta tanpa tiket, tetapi setiap kereta tujuan Paris berhenti selama beberapa menit setelah keluar dari stasiun kereta. Itu hanya cukup waktu baginya untuk berlari melintasi rel, naik ke gerbong kereta, dan masuk ke ruangan yang sempit itu. Adalah kejahatan untuk mencoba melarikan diri dari Rumania. Dia akan masuk penjara jika dia tertangkap. Tetapi pada tahun 1982, dia berusia 20 tahun, dan dia merindukan kehidupan baru.
+Dengan perasaan yang sangat sedih, Melanie pulang ke Los Angeles untuk mencari jawaban. Mengapa Randy meninggal? Dia bertanya-tanya tentang kematian itu sendiri dan apa yang terjadi pada orang-orang setelah mereka mati. Dia mempertanyakan arti hidup.
 
-Dia berpikir bahwa dialah yang pertama kali membuat rencana pelarian. Tetapi dia bukan yang pertama. Penjaga mengantisipasi upaya melarikan diri yang berani itu dan menangkapnya. Georgio diinterogasi selama dua minggu. Pihak berwenang bertanya apakah dia anti-komunis dan apakah dia punya rahasia untuk dibawa ke luar negeri. Kemudian dia dikirim ke penjara untuk menunggu hukuman pengadilan.
+Melanie semakin larut dalam kehidupan berpesta pora, berusaha melarikan diri dari rasa sakitnya.
 
-Georgio adalah seorang ateis dan tidak percaya pada Tuhan. Meskipun ia telah menolak ideologi. Pemerintah telah meyakinkannya bahwa lebih baik menjadi seorang ateis daripada seorang Kristen. Dia percaya bahwa hanya orang bodoh yang percaya pada Tuhan.
+Kemudian salah satu saudara perempuannya, yang tertarik menjadi aktor, mengundangnya untuk mengambil kelas akting. “Ini cara yang baik untuk menghabiskan energi dan menghadapi rasa sakit anda,” katanya.
 
-Di penjara, Georgio bertemu dengan seorang Advent untuk pertama kalinya. Pemuda itu kira-kira sebaya dengannya. Dia telah wajib militer dan dipenjarakan karena menolak bekerja pada hari Sabat. Georgio memperhatikan bahwa dia berperilaku berbeda dari tahanan lain. Wajahnya berbeda. Dia tampak seperti orang yang baik. Keduanya mulai berbicara. Yang mengejutkan Georgio, dia tidak bodoh meskipun dia percaya pada Tuhan.
+Melanie mengambil kelas akting dan mulai berakting.
 
-Tahanan Advent memberi tahu dia tentang Alkitab yang dilarang di Rumania.
+Jatuh cinta dengan seorang pria Italia, dia pindah bersamanya ke Italia. Dua setengah tahun kemudian, mereka putus, dan Melanie kembali ke kehidupan pestanya sambil mengejar karier akting di Roma.
 
-Georgio ingin tahu lebih banyak dan memutuskan untuk menemukan Alkitab setelah dia dibebaskan.
+Tetapi dia merasa semakin kosong dalam kehidupan pestanya. Dia bangun dengan perasaan sedih setiap pagi. Hidupnya terasa tidak berarti lagi. Dia bertanya-tanya apakah kekuatan spiritual sedang bekerja di dunia. Dia bertanya-tanya siapa yang menguasai dunia. Melihat banyak kejahatan di dunia, dia mulai mencari ilmu gaib.
 
-Beberapa jam setelah membuat resolusi ini, Georgio dibawa ke pengadilan untuk dihukum karena upaya pelariannya. Dia tahu dia menghadapi hukuman berat yang bertujuan untuk mencegah orang lain melakukan upaya serupa. Dia sudah berada di penjara selama dua bulan.
+Suatu hari, dia menemukan khotbah di YouTube tentang Daniel dan nubuatan Alkitab. Dia tertarik dan membuka Alkitabnya untuk melihat apakah presenter mengatakan kebenaran. Dia meneliti sejarah Babel, Media-Persia, Yunani, dan Kekaisaran Romawi. Semuanya cocok dengan apa yang dia dengar dalam khotbah.
 
-Tetapi hakim membuat keputusan yang tidak biasa. “Anda akan segera dibebaskan,” katanya.
+“Ini semua benar,” bisiknya pada dirinya sendiri.
 
-Jaksa penuntut negara memprotes. “Tetapi dia melakukan kejahatan terhadap negara,” katanya.
+Dia jatuh bertelut, menangis. Dia merasa seperti dia bukan bagian dari dunia ini tetapi dari dunia lain. Dia memberikan hidupnya kepada Yesus.
 
-Hakim tidak bergeming. Beralih ke petugas polisi yang membawa Georgio ke pengadilan, dia bertanya, “Kapan Anda bisa membebaskannya?”
+“Saya tidak dapat dipuaskan lagi dengan pesta, narkoba, dan minuman keras,” doanya. “Saya tidak bisa hidup seperti ini lagi. Saya lebih baik mati. Engkau harus mengubah sesuatu dalam hidup saya. Saya tidak dapat hidup seperti ini lagi.”
 
-“Dia akan bebas besok,” kata petugas itu.
+Dia terus menonton presenter YouTube, presenter itu adalah seorang Advent. Dia membandingkan khotbahnya dengan Alkitab. Dia membaca Alkitab dengan setia. Dia mulai memelihara Sabat hari ketujuh di rumah.
 
-Saat Georgio digiring kembali ke penjara, petugas polisi itu berkata dengan kagum, “Tentunya Anda mengenal seseorang yang berpangkat tinggi.”
+Setelah dua tahun, dia merasa terkesan bahwa dia harus beribadah di gereja pada hari Sabat. Pencarian online menemukan sebuah gereja Advent di dekat rumahnya. Dia pergi ke gereja pada hari Sabat. Dia memberi tahu orang pertama yang dia lihat di sana, seorang pria tua, bahwa dia ingin dibaptis.
 
-Georgio hampir mengatakan dia tidak mengenal siapapun yang berpangkat tinggi. Kemudian dia menyadari bahwa Seseorang di surga dapat membantunya.
+“Hai,” katanya. “Saya perlu dibaptis.”
 
-Georgio tidak dibebaskan pada hari berikutnya. Tidak juga berikutnya. Pada hari keenam, teman Adventnya bertanya, “Apakah Anda yakin bahwa hakim benar-benar mengatakan bahwa Anda akan segera dibebaskan?”
+Pria tua itu terkejut.
 
-Pada saat itu, Georgio teringat tekadnya untuk mempelajari Alkitab setelah dibebaskan. Dia memutuskan untuk belajar Alkitab bahkan di penjara, dengan bantuan teman Adventnya. Saat dia memberi tahu temannya tentang keputusannya, seorang penjaga penjara datang. “Anda dibebaskan dari tugas kerja anda besok,” katanya. “Kamu harus tetap di selmu karena kamu akan dibebaskan.”
+“Apa yang kau bicarakan?” dia berkata.
 
-Dan itulah yang terjadi.
+Dia menjelaskan bahwa dia telah membaca Alkitab selama dua tahun dan mengikuti ajarannya.
 
-Georgio menepati janjinya kepada Tuhan. Dia menemukan sebuah gereja Advent dan mulai beribadah setiap hari Sabat. Hidupnya berubah. Dia tidak lagi ingin melarikan diri dari Rumania. Dia telah menemukan sesuatu yang lebih penting: kebebasan dalam Yesus. Dia bahagia.
+“Saya siap untuk dibaptis,” katanya.
 
-Saat ini, Georgio tinggal di Italia dan merupakan anggota setia gereja Advent Rumania di Roma. Dia dan istrinya memiliki tiga anak yang sudah dewasa dan delapan cucu. Dia meninggalkan Rumania setelah komunis runtuh.
+Hidup tidak berubah dalam semalam bagi Melanie setelah pembaptisannya. Dia masih berpesta dan mencoba menyesuaikan kehidupan barunya dengan kehidupan lamanya. Tetapi hal-hal yang dulu dia sukai menjadi membosankan. Hal-hal yang dulu dia pikir membosankan menjadi menarik. Dia sedang mengalami proses pengudusan. Pengaruh Roh Kudus tumbuh di dalam dirinya.
 
-Sampai saat ini, Georgio tidak bisa menjelaskan mengapa hakim membebaskannya. Dia yakin bahwa hanya Tuhan yang bisa campur tangan.
+“Dia memiliki banyak hal yang harus dilakukan, tetapi Dia bekerja untuk saya,” kata Melanie.
 
-Georgio tetap berhubungan dengan mantan tahanan Advent, sekarang pemilik perusahaan konstruksi. Karena menolak untuk meninggalkan hari Sabat, orang Advent itu menghadapi hukuman penjara dua tahun. Tetapi dia dibebaskan di bawah amnesti presiden dua bulan setelah Georgio. Dia telah dipenjara hanya selama satu tahun.
+Saat ini, Melanie tahu bahwa kematian adalah akibat dari dosa (Roma 6: 23). Dia tahu bahwa ketika orang mati, mereka tidur di kuburan sampai kedatangan Yesus yang kedua kali (1 Tesalonika 4: 15–17). Dia katakan bahwa dia telah menemukan makna hidup; itu adalah untuk membagikan kasihnya kepada Yesus dan harapannya akan kedatangan-Nya yang segera kembali. Daniel 12: 3 mengatakan, “Orang-orang bijaksana akan bercahaya seperti cahaya cakrawala, dan yang telah menuntun banyak orang kepada kebenaran seperti bintang-bintang, tetap untuk selama-lamanya.
 
-Georgio adalah pria kurus berusia 60 tahun dengan rambut putih dan senyum yang ramah. Tidak ada apa pun tentang wajahnya yang memberi petunjuk tentang pengalamannya yang luar biasa dengan Tuhan. Untuk mengetahui kisahnya, dia harus ditanya. Itulah alasan Georgio suka meminta orang untuk membagikan kesaksian pribadi mereka.
+Melanie meninggalkan risalah gereja dan majalah kesehatan di kursi bus dan di restoran di Roma. Dia menempatkan kartu berbagi tentang gereja dan radio Advent di gym. Dia menantikan untuk melihat Yesus—dan dipertemukan kembali dengan adik bungsunya, Randy.
 
-“Karena pengalaman ini, saya suka mengundang orang ke rumah kami untuk mendengar cerita mereka,” katanya. “Kamu tidak tahu apa yang ada di balik wajah orang-orang.”
+“Harapan saya yang penuh sukacita adalah saya akan bertemu Randy lagi,” katanya.
 
-Terima kasih atas persembahan misi Sekolah Sabat Anda yang membantu menyebarkan kabar baik tentang kebebasan dalam Yesus di Italia, Rumania, dan di seluruh Divisi Inter-Eropa, yang akan menerima Persembahan Sabat Ketiga Belas triwulan ini.
+Terima kasih atas persembahan misi Sekolah Sabat Anda yang membantu menyebarkan kabar baik tentang kedatangan Yesus yang segera kembali di Italia dan di seluruh Divisi Inter- Eropa, yang akan menerima Persembahan Sabat Ketiga Belas triwulan ini.

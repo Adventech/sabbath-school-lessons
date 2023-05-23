@@ -3,82 +3,56 @@ title:  Berita Misi
 date:  12/05/2023
 ---
 
-### Pria Alkitab
+### Rencana Melarikan Diri Yang Berani
 
-_Remus, dari Spanyol_
+_Georgio, dari Italia_
 
-Remus dikenal sebagai “Orang Alkitab.”
+Georgio menemukan apa yang dia pikir adalah rencana sempurna yaitu melarikan diri dari komunis Rumania.
 
-Dia adalah seorang perawat, dan istrinya adalah seorang arsitek. Mereka memiliki kehidupan yang nyaman dengan tiga anak di Prancis. Secara keseluruhan mereka memiliki semua yang mereka butuhkan untuk bahagia. Tapi ada sesuatu yang hilang.
+Dia melihat orang-orang beruntung menaiki kereta di Ibu Kota Rumania, Bukares, untuk perjalanan dari negara tertutup ke Ibu Kota Prancis, Paris. Saat dia memperhatikan, dia melihat celah antara langit-langit dan atap gerbong kereta penumpang. Itu adalah ruangan yang hanya cukup untuk menyembunyikan seorang pria muda.
 
-Remus rindu bisa mengulang doa Yesus kepada Bapa-Nya, “Aku telah mempermuliakan Engkau di bumi dengan jalan menyelesaikan pekerjaan yang Engkau berikan kepada-Ku untuk melakukannya” (Yohanes 17:4).
+Dia tidak bisa naik kereta tanpa tiket, tetapi setiap kereta tujuan Paris berhenti selama beberapa menit setelah keluar dari stasiun kereta. Itu hanya cukup waktu baginya untuk berlari melintasi rel, naik ke gerbong kereta, dan masuk ke ruangan yang sempit itu. Adalah kejahatan untuk mencoba melarikan diri dari Rumania. Dia akan masuk penjara jika dia tertangkap. Tetapi pada tahun 1982, dia berusia 20 tahun, dan dia merindukan kehidupan baru.
 
-Remus ingin memuliakan Tuhan dengan hidup-Nya. Tetapi bagaimana caranya?
+Dia berpikir bahwa dialah yang pertama kali membuat rencana pelarian. Tetapi dia bukan yang pertama. Penjaga mengantisipasi upaya melarikan diri yang berani itu dan menangkapnya. Georgio diinterogasi selama dua minggu. Pihak berwenang bertanya apakah dia anti-komunis dan apakah dia punya rahasia untuk dibawa ke luar negeri. Kemudian dia dikirim ke penjara untuk menunggu hukuman pengadilan.
 
-Dia bertanya-tanya apakah misinya harus serupa dengan misi Yesus ketika Dia menyatakan di sebuah sinagoge, “Roh Tuhan ada pada-Ku, oleh sebab Ia telah mengurapi Aku, untuk menyampaikan kabar baik kepada orang-orang miskin; dan Ia telah mengutus Aku untuk memberikan pembebasan kepada orang-orang tawanan, dan penglihatan bagi orang-orang buta, untuk membebaskan orang-orang yang tertindas, untuk memberitakan tahun rahmat Tuhan telah datang” (Lukas 4:18, 19).
+Georgio adalah seorang ateis dan tidak percaya pada Tuhan. Meskipun ia telah menolak ideologi. Pemerintah telah meyakinkannya bahwa lebih baik menjadi seorang ateis daripada seorang Kristen. Dia percaya bahwa hanya orang bodoh yang percaya pada Tuhan.
 
-Remus membacakan perintah Yesus kepada murid-murid-Nya, “Karena itu pergilah, jadikanlah semua bangsa murid-Ku, baptislah mereka dalam nama Bapa dan Anak dan Roh Kudus, ajar mereka melakukan segala sesuatu yang telah Kuperintahkan kepadamu” (Matius 28:19, 20).
+Di penjara, Georgio bertemu dengan seorang Advent untuk pertama kalinya. Pemuda itu kira-kira sebaya dengannya. Dia telah wajib militer dan dipenjarakan karena menolak bekerja pada hari Sabat. Georgio memperhatikan bahwa dia berperilaku berbeda dari tahanan lain. Wajahnya berbeda. Dia tampak seperti orang yang baik. Keduanya mulai berbicara. Yang mengejutkan Georgio, dia tidak bodoh meskipun dia percaya pada Tuhan.
 
-Kemudian dia membaca dalam buku Ellen White: Colporteur Ministry, “Pekerjaan membagikan literatur, yang dilakukan dengan benar, adalah pekerjaan misionaris yang paling tinggi” (halaman 6)
+Tahanan Advent memberi tahu dia tentang Alkitab yang dilarang di Rumania.
 
-Remus memutuskan untuk menjadi penginjil literatur. Dia ingin menjadi seseorang yang, menurutnya, “mencoba menjual buku kepada orang yang tidak mau membelinya.”
+Georgio ingin tahu lebih banyak dan memutuskan untuk menemukan Alkitab setelah dia dibebaskan.
 
-Remus dan keluarganya pindah ke Galicia, wilayah yang sangat sekuler di Spanyol. Di antara populasi hampir 3 juta, hanya sekitar 500 orang Advent yang beribadah di lima gereja.
+Beberapa jam setelah membuat resolusi ini, Georgio dibawa ke pengadilan untuk dihukum karena upaya pelariannya. Dia tahu dia menghadapi hukuman berat yang bertujuan untuk mencegah orang lain melakukan upaya serupa. Dia sudah berada di penjara selama dua bulan.
 
-Remus mulai menjual Alkitab dan buku-buku lain di pasar terbuka, di mana orang-orang berkumpul untuk membeli hasil pertanian, pakaian, mainan, buku, dan barang-barang bekas. Saat ia menjual buku di stan, orang-orang mulai memanggilnya “Pria Alkitab”.
+Tetapi hakim membuat keputusan yang tidak biasa. “Anda akan segera dibebaskan,” katanya.
 
-Di salah satu pasar terbuka, Remus melihat seorang rekan penjual buku juga. Dia mendekati pria itu dan mulai berbicara.
+Jaksa penuntut negara memprotes. “Tetapi dia melakukan kejahatan terhadap negara,” katanya.
 
-Pria itu jelas tidak ingin terlibat dalam percakapa, tetapi dia sepertinya tidak bisa berpaling.
+Hakim tidak bergeming. Beralih ke petugas polisi yang membawa Georgio ke pengadilan, dia bertanya, “Kapan Anda bisa membebaskannya?”
 
-“Ada sesuatu yang tidak biasa pada dirimu,” pria itu akhirnya mengakui.
+“Dia akan bebas besok,” kata petugas itu.
 
-Setelah banyak percakapan di pasar, pria itu setuju untuk menempatkan beberapa buku Remus di stannya untuk dijual.
+Saat Georgio digiring kembali ke penjara, petugas polisi itu berkata dengan kagum, “Tentunya Anda mengenal seseorang yang berpangkat tinggi.”
 
-Sebagai tanda terima kasih, Remus memberinya sebuah Alkitab.
+Georgio hampir mengatakan dia tidak mengenal siapapun yang berpangkat tinggi. Kemudian dia menyadari bahwa Seseorang di surga dapat membantunya.
 
-Pria itu membaca Alkitab di rumah dan meminta Remus untuk bersamanya dalam belajar Alkitab. Setelah beberapa bulan, dia memberikan hatinya kepada Yesus. Saat ini, pria itu berusaha meyakinkan putrinya, saudara perempuan, dan ibunya untuk juga menerima Yesus.
+Georgio tidak dibebaskan pada hari berikutnya. Tidak juga berikutnya. Pada hari keenam, teman Adventnya bertanya, “Apakah Anda yakin bahwa hakim benar-benar mengatakan bahwa Anda akan segera dibebaskan?”
 
-Dia dan Remus adalah teman, dan setiap kali mereka bertemu, dia memanggil, “Halo, Pria Alkitab!”
+Pada saat itu, Georgio teringat tekadnya untuk mempelajari Alkitab setelah dibebaskan. Dia memutuskan untuk belajar Alkitab bahkan di penjara, dengan bantuan teman Adventnya. Saat dia memberi tahu temannya tentang keputusannya, seorang penjaga penjara datang. “Anda dibebaskan dari tugas kerja anda besok,” katanya. “Kamu harus tetap di selmu karena kamu akan dibebaskan.”
 
-Terkadang buku Remus terjual tanpa suatu usaha yang keras. Suatu kali seseorang menghentikannya saat dia membawa beberapa Alkitab di jalan.
+Dan itulah yang terjadi.
 
-“Apakah itu Alkitab?” tanya orang asing itu.
+Georgio menepati janjinya kepada Tuhan. Dia menemukan sebuah gereja Advent dan mulai beribadah setiap hari Sabat. Hidupnya berubah. Dia tidak lagi ingin melarikan diri dari Rumania. Dia telah menemukan sesuatu yang lebih penting: kebebasan dalam Yesus. Dia bahagia.
 
-“Ya, saya menjual Alkitab,” kata Remus.
+Saat ini, Georgio tinggal di Italia dan merupakan anggota setia gereja Advent Rumania di Roma. Dia dan istrinya memiliki tiga anak yang sudah dewasa dan delapan cucu. Dia meninggalkan Rumania setelah komunis runtuh.
 
-“Berapa harganya?”
+Sampai saat ini, Georgio tidak bisa menjelaskan mengapa hakim membebaskannya. Dia yakin bahwa hanya Tuhan yang bisa campur tangan.
 
-“Sepuluh euro,” katanya, atau sekitar 10 dolar AS.
+Georgio tetap berhubungan dengan mantan tahanan Advent, sekarang pemilik perusahaan konstruksi. Karena menolak untuk meninggalkan hari Sabat, orang Advent itu menghadapi hukuman penjara dua tahun. Tetapi dia dibebaskan di bawah amnesti presiden dua bulan setelah Georgio. Dia telah dipenjara hanya selama satu tahun.
 
-“Tolong beri aku satu. Aku mau membeli satu.”
+Georgio adalah pria kurus berusia 60 tahun dengan rambut putih dan senyum yang ramah. Tidak ada apa pun tentang wajahnya yang memberi petunjuk tentang pengalamannya yang luar biasa dengan Tuhan. Untuk mengetahui kisahnya, dia harus ditanya. Itulah alasan Georgio suka meminta orang untuk membagikan kesaksian pribadi mereka.
 
-Dalam hal ini, Remus tidak perlu melakukan apa pun untuk melakukan penjualan. Dia hanya harus meninggalkan rumahnya. Tuhanlah yang menjual Alkitab, katanya.
+“Karena pengalaman ini, saya suka mengundang orang ke rumah kami untuk mendengar cerita mereka,” katanya. “Kamu tidak tahu apa yang ada di balik wajah orang-orang.”
 
-Di lain waktu, seorang wanita benar-benar melompat kegirangan saat melihat Remus menjual Alkitab.
-
-“Saya telah berdoa kepada Tuhan untuk sebuah Alkitab!” serunya dan kemudian mencium Alkitab yang baru saja dibelinya. “Ini adalah jawaban dari Tuhan!”
-
-Di waktu lain, Remus menempuh jarak 70 mil (120 km) untuk mencapai pasar terbuka. Dia bergembira, dia menjual banyak buku hari itu. Tetapi ketika malam tiba, dia menyadari bahwa buku yang dia jual tidak cukup menutupi biaya bensin untuk perjalannya.
-
-Dia bertanya-tanya: “Apakah perjalanan itu sepadan?”
-
-Kemudian seorang pria tua berusia sekitar 90 tahun datang ke stan buku. “Apakah kamu punya Alkitab?” pria itu bertanya.
-
-Pria itu ingin tahu apakah Yesus mungkin bisa mengasihinya.
-
-Remus berbicara dengan gembira tentang Yesus dan kasih-Nya.
-
-Dengan air mata berlinang, kedua pria itu merenungkan kasih Yesus.
-
-Kemudian pria itu membeli sebuah Alkitab.
-
-Tidak ada kata terlambat untuk mengenal Yesus. Bertemu dengan lelaki tua itu dan berbagi kasih Yesus dengannya sepadan dengan biaya perjalanan ke pasar. Remus berharap bisa melihat pria itu bersama Yesus di surga.
-
-Remus senang melayani Tuhan di Spanyol.
-
-“Ada banyak orang yang mencari Roti Kehidupan,” katanya. “Kami dapat membantu mereka dengan memberi mereka Alkitab.”
-
-Ia juga senang karena sebagai “Pria Alkitab”
-
-Spanyol memiliki banyak kota besar dan kota kecil tanpa kehadiran Gereja Masehi Advent Hari Ketujuh. Terima kasih atas Persembahan Sabat Ketiga Belas Anda tiga tahun lalu yang membantu Sagunto Adventist College Spanyol untuk melatih orang untuk menyebarkan kabar baik tentang kedatangan Yesus yang segera di negara ini dan di luar negeri.
+Terima kasih atas persembahan misi Sekolah Sabat Anda yang membantu menyebarkan kabar baik tentang kebebasan dalam Yesus di Italia, Rumania, dan di seluruh Divisi Inter-Eropa, yang akan menerima Persembahan Sabat Ketiga Belas triwulan ini.
