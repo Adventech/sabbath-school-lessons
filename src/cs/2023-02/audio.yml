@@ -163,3 +163,7 @@
           target: cs/2023-02/10/05
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q2/2023_Q2_10-6.mp3
           target: cs/2023-02/10/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q2/2023_Q2_10-7.mp3
+          target: cs/2023-02/10/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q2/2023_Q2_10-inside-story.mp3
+          target: cs/2023-02/10/inside-story
