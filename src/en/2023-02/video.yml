@@ -20,6 +20,8 @@
           thumbnail: https://images.hopeplatform.org/resize/L3c6Mzg0LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL2NGRjE2ODE3MDQwMTEwMzEuanBn/w:384,q:75/hope-images/620e23d4c49d64006595c192/cFF1681704011031.jpg
         - src: https://storage.googleapis.com/hc-jetstream-library/hcorg_33O0ldvawCD/v/jsv_TEgjxBoXuxm/jsv_TEgjxBoXuxm-jsren_rrLVTjwVRUu-360p.mp4
           thumbnail: https://images.hopeplatform.org/resize/L3c6Mzg0LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL0xIaTE2ODE3MDQwMTI3MTMuanBn/w:384,q:75/hope-images/620e23d4c49d64006595c192/LHi1681704012713.jpg
+        - src: https://storage.googleapis.com/hc-jetstream-library/hcorg_33O0ldvawCD/v/jsv_u5L0xtnH3YE/jsv_u5L0xtnH3YE-jsren_EnsMescLNVL-360p.mp4
+          thumbnail: https://images.hopeplatform.org/resize/L3c6NzY4LHE6NzUvaG9wZS1pbWFnZXMvNjIwZTIzZDRjNDlkNjQwMDY1OTVjMTkyL1ZmaTE2ODE3MDQwMTQxMTEuanBn/w:768,q:75/hope-images/620e23d4c49d64006595c192/Vfi1681704014111.jpg
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-01.mp4
@@ -43,6 +45,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-09.mp4
           target: en/2023-02/09
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-10.mp4
+          target: en/2023-02/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-02-10.webp
     - artist: Amazing Facts Study Hour
       thumbnail: https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg
       clips:
@@ -79,3 +84,5 @@
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-08.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-09.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-09.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-10.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-02-10.webp
