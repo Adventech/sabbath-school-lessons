@@ -26,3 +26,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2023-02-10.mp4
           target: ro/2023-02/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2023-02-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2023-02-11.mp4
+          target: ro/2023-02/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2023-02-11.webp
