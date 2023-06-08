@@ -26,6 +26,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-02-10.mp4
           target: ru/2023-02/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-02-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-02-11.mp4
+          target: ru/2023-02/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-02-11.webp
     - artist: Александр Болотников
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-02-01.mp4
@@ -52,3 +55,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-02-10.mp4
           target: ru/2023-02/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-02-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-02-11.mp4
+          target: ru/2023-02/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-02-11.webp
