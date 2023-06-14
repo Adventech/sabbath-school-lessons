@@ -15,7 +15,7 @@ Stumped, she prayed for an answer. “Jesus,” she said, “I have read that I 
 
 Almira didn’t really want to read the Bible or Ellen White’s The Desire of Ages, but she forced herself to read both every day. At first, she fought boredom as she read. She didn’t have a close relationship with Jesus. Even though she worshiped on Sabbath, she lived her own life during the week.
 
-Almira kept reading and finally found an answer. She read in The Desire of Ages, “Satan with his fierce temptations wrung the heart of Jesus. The Saviour could not see through the portals of the tomb. Hope did not pre­sent to Him His coming forth from the grave a conqueror, or tell Him of the Father’s acceptance of the sacrifice. He feared that sin was so offensive to God that Their separation was to be eternal” (p. 753).
+Almira kept reading and finally found an answer. She read in The Desire of Ages, “Satan with his fierce temptations wrung the heart of Jesus. The Saviour could not see through the portals of the tomb. Hope did not present to Him His coming forth from the grave a conqueror, or tell Him of the Father’s acceptance of the sacrifice. He feared that sin was so offensive to God that Their separation was to be eternal” (p. 753).
 
 This was the answer to her prayer. Jesus also had been afraid that He would die forever, but He had been ready to take the risk for her. It struck her that He had not known the end, just as she did not know how her story would end. But He had risked His eternal life to save her.
 
