@@ -1,0 +1,50 @@
+---
+title:  Teacher Comments
+date:  30/06/2023
+---
+
+#### Part I: Overview
+
+Key Text: Ephesians 1:9, 10
+
+Study Focus: Acts 18:18–21; Acts 19:13–20:1; Acts 20:17–38; Eph. 1:1, 2; Eph. 6:21–24; Eph. 3:13; Eph. 1:9, 10.
+
+Introduction: The first lesson for this quarter sketches the background to the study of the entire Epistle to the Ephesians and focuses on several major themes. First, we learn about Paul’s purpose in writing his Epistle to the Ephesians: to help the Ephesians remember their identity and role in God’s kingdom and His plans. Second, we get to know the Ephesians better. We virtually visit Ephesus, walk on its streets, listening to the people of the city talk and hearing their interest in magic and the otherworld. We watch hundreds of ships anchored in their port, and we visit the impressive temple of Artemis, while seeing people of all classes and ages rushing to join the riot in the amphitheater. Third, we study the literary structure of the epistle and thus form a panoramic view of the apostle’s flow of thoughts and his main subjects. Fourth, we discover that Paul’s all-pervasive theme in this epistle is threefold: Jesus Christ, His love for His church, and His work through the church for the salvation of humanity.
+
+In our study this week, let’s remember the general title of these lessons as described in the Introduction: “Ephesians: How to Follow Jesus in Trying Times.” Indeed, Paul’s Epistle to the Ephesians is the best, the most systematic theology of the church. Yet, this quality does not mean Ephesians is a cold, theoretical, detached, abstract theological construct. Rather, the epistle describes the church in a real, living, and loving relationship with its Creator and Savior, the Lord Jesus Christ, with the resultant Christian living in a real world and accomplishing the church’s great mission.
+
+Lesson Themes: This week’s lesson highlights three major themes:
+
+1.	Getting to know the author of the Epistle to the Ephesians.
+2.	Getting to know the Ephesian people, the recipients of the epistle.
+3.	Getting to know the main topic of Paul’s message to the church in Ephesus.
+
+#### Part II: Commentary
+
+**The Book of Acts on Ephesus and the Ephesians**
+
+We can much more easily understand Paul’s Epistle to the Ephesians if we look at it in the context of the book of Acts. Several narrative aspects of the Acts of the Apostles are especially relevant for the birth of the Ephesian church:
+
+1.	Accompanied by Aquila and Priscilla (Acts 18:18), Paul seems to have been the first to briefly preach the gospel of Jesus Christ in Ephesus, where he first contacted the Jews (Acts 18:19). Unlike the Jews in Corinth, who rejected and persecuted Paul (Acts 18:6, 12, 13), the Jews in Ephesus initially appeared more open to the gospel (Acts 18:20). It was only later that some of the Jews in Ephesus became obstinate and rejected Paul’s message (Acts 19:8, 9). However, these Jews did not appeal to the authorities to throw Paul out of the city.
+2.	After Paul’s first departure from Ephesus, Priscilla and Aquila continued the gospel work there, being joined later by Apollos of Alexandria (Acts 18:24–26). Their work resulted in a fledgling community of Christians (Acts 19:1).
+3.	Apollos, Priscilla, and Aquila seemed to be well versed in Christian teaching. However, the Ephesians received instruction for a limited time before Apollos left for Corinth. Possibly for this reason, the Ephesian disciples had a limited understanding of the gospel and what Christianity was about. The disciples there did not even know about the Holy Spirit (Acts 19:2, 3). For this reason, when Paul returned to Ephesus, he decided to spend more time there and provide the needed solid theological foundation to the church both in the city and in the entire region of Asia Minor (Acts 19:10).
+4.	It is important to note that one of Paul’s most evident ways to test the veracity and quality of Christianity was to ask the church members whether they had received the Holy Spirit (Acts 19:2) and whether they correctly understood who Jesus was, who God was, and how people are saved through baptism in Jesus Christ (Acts 19:2–5). For this reason, when Paul was writing to the Ephesians many years later, he returned to, and insisted upon, these crucial topics (see, for instance, Ephesians 4). These topics were determinant to the Christian identity and life, both at the level of the individual and of groups (family and church). There is no Christian church without Jesus Christ, the Holy Spirit, and the Father.
+5.	When the Holy Spirit descended on the disciples in Ephesus, they became the church of Jesus Christ, led by the Holy Spirit in their mission. The Holy Spirit immediately equipped them for ministry and mission by bestowing upon them the gift of tongues and other spiritual gifts. For this reason, when Paul wrote the Epistle to the Ephesians, he insisted on the cruciality of the spiritual gifts for the life and mission of the church.
+
+**Book Burning**
+
+Contemporary intellectuals, such as Rebecca Knuth, former chairwoman of the Library and Information Science program at the University of Hawaii, in her _Burning Books and Leveling Libraries: Extremist Violence and Cultural Destruction_ (Westport, CT: Praeger, 2006), concludes that book burning constitutes the destruction of human cultural heritage. In his Burning the Books: A History of the Deliberate Destruction of Knowledge (Cambridge, MA: The Belknap Press/Harvard University Press, 2020), Richard Ovenden, director of the Bodleian Libraries at the University of Oxford, argues that humanity must reject book burning and preserve human knowledge and culture. The burning of mostly Jewish books by the Nazis in 1933 or the destruction of Western capitalist-leaning books by Mao Zedong’s Red Guards in 1966 are used as classical examples of book burning with the political purpose of controlling the population’s access to information and imposing a new culture, ideology, historical interpretation, and worldview. The story of insurgents who burned thousands of ancient African manuscripts in Timbuktu in 2013 is used as an example of indiscriminate extremist religious book burning. During that time, a few Christian pastors from various denominations were condemned as bigots or intolerant when they conducted book-burning services, calling for witchcraft books to be burned.
+
+How can we understand the book burning described in Acts 19:19? Several points should be noted:
+
+1.	This book burning was a voluntary act of those who had converted to Christianity from paganism and magic. They did not destroy the libraries and the properties of other people, but they burned their own books of witchcraft, books they themselves had used in practicing their pagan religions. By this voluntary act, they publicly proclaimed that, once they received the call of Jesus Christ to join His kingdom, they were cutting themselves off from their sinful past. They did not want to have anything further to do with Satan and his demonic activities. Two hundred fifty years later, Emperor Diocletian ordered all Christians to bring their sacred books to be burned if they wanted to avoid being burned themselves. Some Christians complied and handed their Scriptures over to the Roman authorities to be burned; these Christians were called _traditores_, or “those who handed over” their books. Other Christians, however, preferred to be burned themselves rather than betray or renounce the Word of God. Thus, while the book burning in Acts 19 was a voluntary and joyous proclamation of liberation from the snares of sin and Satan, Diocletian’s book burning was a violent and oppressive political and ideological persecution of Christianity, with the purpose of annihilating the people of God and imposing the pagan religion.
+2. God calls His people to categorically refuse and reject any trace of idolatry and witchcraft in their homes and properties (see Gen. 35:2–4).
+3. Although, Israel would enter other countries and destroy the idols and burn the witchcraft paraphernalia that was not their main goal. Their mission was to proclaim that idolatry is destructive and leads to death (Ps. 135:15–18; Isa. 44:9–20; Isa. 45:20; Jer. 2:11–13; Jer. 16:19, 20; Jon. 2:8; Gal. 5:19–21; Rev. 9:20, 21) and to live out their lives free from idolatry and witchcraft as an example of a nation free from the power of Satan and death.
+4. This does not mean that God takes away the joy of art and of writing. On the contrary, God enjoys human creativity and culture expressed in books. But those books and art must express the experience of a human life liberated from sin and Satan. Otherwise, we are back under Satan’s controlling power.
+
+#### Part III: Life Application
+
+1.	Salvation, Mission, and Education. The book of Acts associates the origin of the church in Ephesus with education, which is described as “reasoning” and “persuading.” At first, Paul reasoned with, spoke to, and persuaded the Jews in their synagogues, which were not only places of worship but also public educational spaces (Acts 18:19, Acts 19:8). Later, Paul moved into a local school, the school of Tyrannus, and continued “reasoning with” or “teaching” both the Jews and the Greeks the way of salvation (Acts 19:9, 10). Engage your students in thinking about how they, as a class, could contribute to transforming their church into a gospel school for the community. How can they make their local church a public arena where they may reason with the community about the gospel?
+2.	Paul’s Epistle to the Ephesians displays a wonderful balance between reason, emotions, feelings, theological contemplations, and practical life. Challenge your students to identify two ways that they can contribute to transforming their church into a ministry that would address these aspects of human life in your community.
+
+`Notes`

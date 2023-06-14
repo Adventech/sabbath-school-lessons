@@ -1,0 +1,56 @@
+---
+title:  Teacher Comments
+date:  22/09/2023
+---
+
+#### Part I: Overview
+
+Key Text: Ephesians 6:16, 17
+
+Study Focus: Eph. 6:10–20, 1 Pet. 4:1, 1 Pet. 5:8, Isa. 59:17, Isa. 52:8–10, 1 Thess. 5:16–18.
+
+Introduction: By listing and describing the armor of God as individual items (belt, breastplate, shoes, shield, helmet, sword), Paul does not mean to depict a lonely warrior. On the contrary, in Greek, he uses the verbs in the second person plural to address an entire army: (1) you (plural) be strong (Eph. 6:10), (2) you (plural) put on the armor of God (Eph. 6:11), (3) so that you (plural) may be able to resist (Eph. 6:11), (4) for our (obviously plural here) struggle (Eph. 6:12), (5) you (plural) take up the complete armor (Eph. 6:13), (6) you (plural) stand firm. In fact, all or most of the other verbs Paul uses in addressing the church here are in the plural form. By his use of the plural, then, Paul paints before our eyes God’s glorious army of brave soldiers fully equipped for their mission.
+
+But what is this army’s mission? God’s soldiers are armored and ready to proclaim to the universe a message from Him, the message that God brings peace to the universe, to the people on earth, peace among the nations, peace in the communities, in the families, between generations and classes. But this peace is not a peace achieved because of compromise or syncretism, in which all the parties in the conflict secure the acceptance of a piece of their own worldview, values, or projects. Rather, God brought peace by revealing His love and justice at the cross and thus winning the battle against His accusers and enemies. When people embrace what the Lord Jesus accomplished at the cross, God joyously blesses them with Christ’s righteousness. It is this righteousness and love that brings peace between humans and God, between people, and to the entire universe. It is this peace that Christians proclaim. The history of the nations, of religions, of culture, of philosophy, of psychology, and of science has shown that there is no other way to achieve peace. Because Christians have experienced this peace themselves in their individual lives, in their families, in their communities, and in the church, they now can proclaim it to the entire humanity, indeed to the entire universe.
+
+Lesson Themes: This week’s study focuses on four related themes:
+
+1.	The church is involved in the cosmic conflict with the mission of proclaiming the gospel of peace.
+
+2.	We are not fighting alone in this battle: we are fighting “in the Lord” and in His armor.
+
+3.	We are not fighting this battle as lone warriors but as God’s army, the people of God.
+
+4.	We are not fighting an open-ended, uncertain battle but a battle that already has a certain outcome: at the cross, God won the victory over sin, evil, death, and Satan.
+
+#### Part II: Commentary
+
+**War and Peace**
+
+Paul starts the fragment of Ephesians 6:10–17 with a triple reference to power (Eph. 6:10), using three different words: the verb _endunamoó_, “to empower,” and two nouns, _kratos_, “strength” or “might,” and _ischus_, “strength,” “might,” “force,” or “ability.” The apostle used the same words, all three in noun form, at the beginning of his letter (Eph. 1:19–21) when describing God’s greatness and power, as revealed in Christ. Now, at the end of his letter (Ephesians 6), Paul tells the Ephesians that this power is available to them. The apostle appeals to the theme of power because he is introducing the theme of conflict, war, fighting, and overcoming.
+
+Unfortunately, the Christian life is closely related to struggle and overcoming. True, all religions, philosophies, sciences, literature, and history—indeed, all such narratives as evolutionism, Marxism, Nazism—perceive and describe life as a struggle, as a conflict. In fact, anyone who wants to sell a story needs to plot it on conflict and struggle. In such stories, the protagonist or hero is fighting against something or somebody: for instance, a protagonist fights a superpower, another hero is struggling to overcome a black hole, and a third hero fights an incurable disease.
+
+But the Christian’s struggle, Paul explains, is against the “devil’s schemes” (Eph. 6:11, NIV). The war he describes “is not against flesh and blood, but against the rulers, against the powers, against the world forces of this darkness, against the spiritual forces of wickedness in the heavenly places” (Eph. 6:12, NASB; see also Eph. 1:19–21, Eph. 2:6, Eph. 3:10). This spiritual battle in the “heavenly realms” has direct and crucial repercussions on our lives. We are directly involved in this war, and we must pick a side. However, in the entire epistle, Paul explains that we are not involved in this war simply because two superpowers are fighting, and we are innocent collateral victims, entangled, or caught up, in this battle against our will.
+
+In fact, it is the other way around. It is God who got entangled in this fight for us. It was we who sided with the forces of darkness to fight against God. Instead of destroying us, God offered to fight for our salvation. He took upon Himself our guilt and sin, died in our place so that He could bring us peace, so that He could restore us to our rightful state in His kingdom.
+
+That is why, when we become Christians, we accept God’s offer of peace, we accept His call to experience it, and we want to share it with the people in the world who are still at war with God. We do not join Christ from a position of neutrality but from the lines of the enemies of God. When we join Christ’s army, we will be attacked by the devil and by all the other forces of evil that are working in us, as well. For this assault, we need the armor of God and the weapon of proclaiming His gospel of peace. Consider this profound perspective from Ellen G. White:
+
+Many look on this conflict between Christ and Satan as having no special bearing on their own life; and for them it has little interest. But within the domain of every human heart this controversy is repeated. Never does one leave the ranks of evil for the service of God without encountering the assaults of Satan. The enticements which Christ resisted were those that we find it so difficult to withstand. They were urged upon Him in as much greater degree as His character is superior to ours. With the terrible weight of the sins of the world upon Him, Christ withstood the test upon appetite, upon the love of the world, and upon that love of display which leads to presumption. These were the temptations that overcame Adam and Eve, and that so readily overcome us.—The Desire of Ages, pp. 116, 117.
+
+**The Great Controversy**
+
+In his extensive work Systematic Theology, Norman Gulley highlights that Christian theology has generally missed the theme of the cosmic conflict or great controversy (see Norman Gulley, Systematic Theology: The Church and the Last Things [Berrien Springs, MI: Andrews University Press, 2016], vol. 4, p. 478). While for other Christians the great controversy (the spiritual cosmic conflict between God and the evil forces of Satan) is one of the details more related to theodicy. For Ellen G. White and Seventh-day Adventists, the great controversy is the overarching doctrine that integrates all the other doctrines, not only systematically but historically. For Seventh-day Adventists, the theme of the great controversy is not only a system of doctrines but a story, the story of God. It is the story of His loving act of Creation; of our rebellion against Him; of His sacrificial love for us; of His direct intervention in the history of our world through incarnation; of His death on the cross, resurrection, and ascension; of His desire and work to restore our relationship with Him; of His restoring the unity and love in humanity through the church; of His promises to put an end to the story of sin and evil; and of His promise to usher us into His eternal joy and peace. For this reason, Seventh-day Adventists have articulated the great controversy theme as fundamental belief 8, voted by the General Conference in 1980:
+
+All humanity is now involved in a great controversy between Christ and Satan regarding the character of God, His law, and His sovereignty over the universe. This conflict originated in heaven when a created being, endowed with freedom of choice, in self-exaltation became Satan, God’s adversary, and led into rebellion a portion of the angels. He introduced the spirit of rebellion into this world when he led Adam and Eve into sin. This human sin resulted in the distortion of the image of God in humanity, the disordering of the created world, and its eventual devastation at the time of the global flood, as presented in the historical account of Genesis 1–11. Observed by the whole creation, this world became the arena of the universal conflict, out of which the God of love will ultimately be vindicated. To assist His people in this controversy, Christ sends the Holy Spirit and the loyal angels to guide, protect, and sustain them in the way of salvation.—“The Great Controversy,” available from https://www.adventist.org/the-great-controversy.
+
+Herbert E. Douglass ably and richly explains the role that the great controversy theme (GCT) plays in Seventh-day Adventist theology: “For Seventh-day Adventists, the GCT is the core concept that brings coherence to all biblical subjects. It transcends the age-old divisions that have fractured the Christian church for centuries. It brings peace to theological adversaries who suddenly see in a new harmony the truths that each had been vigorously arguing for. Herein lies the uniqueness of Adventism. That uniqueness is not some particular element of its theology, such as its sanctuary doctrine. Rather, the distinctiveness of Adventism rests in its overall understanding of the central message of the Bible that is governed by its seminal, governing principle—the Great Controversy Theme.”—“The Great Controversy Theme: What It Means to Adventists,” Ministry, December 2000, p. 5.
+
+#### Part III: Life Application
+
+Ask your students to read and discuss the following questions in class:
+
+1.	What are some of the ways that language is militarized in everyday life? Think, also, of the ostensibly “combative” language that some of our hymns, poems, and Bible-reading passages employ. As Seventh-day Adventists, we are very clear that we apply such language and expressions spiritually. However, this language may be misunderstood by the people around us, who regard Christianity, in general, and Seventh-day Adventism, in particular, as a religion of peace. How could we keep the biblical ethos of battling the spiritual forces of evil in the framework of the great controversy while helping our friends and community understand that our church is a community of God’s love, grace, and peace? Discuss your answer not only with the Sabbath School class but also with your church.
+
+2.	Imagine that your church is invited to be involved in peace-promoting projects in your community, region, or country. In what ways can your church be involved in such projects? How can your church ensure that its involvement is not political but based on the teachings of Jesus and the apostles in the context of the biblical themes of the great controversy and the gospel?
