@@ -1,0 +1,25 @@
+### Die Drie-Engeleboodskap
+
+Op 15 Oktober 1844, ’n week voor die Groot Teleurstelling, word ’n vrome Lutheraanse egpaar ’n babaseuntjie ryker in Duitsland. Die kleinding se naam? — Friedrich Nietzsche. Die einste Nietzsche wat later moderniteit se mees invloedryke ateïs sou wees. Oortuig dat die Christelike God aan’t sterwe in die Weste was, vaar hy teen die Christelike godsdiens se voortgesette morele invloed op die samelewing uit. Nietzsche het dit as ’n “slawe-moraliteit” afgemaak. Volgens hom was dit die sedes van die magtelose, hul poging tot ’n verweer teen die maghebbendes en die groot rede waarom eersgenoemde onsinnige idees soos “Jy moet jou vyande liefhê” uitgedink het. Nietzsche het gemeen dat die moderne mensdom nou verouderde idees — idees soos “goed en kwaad” — moes agterlaat. ’n Karakter in een van sy boeke, So Spreek Zarathoestra, sê inderdaad: “Slaan die ou kliptafels van die wet stukkend!” (verwysende, natuurlik, na die tien gebooie).
+
+Die jaar 1844 was ook deurslaggewend vir Karl Marx, die grondlegger van kommunisme. Dit is toe dat hy sy boek Die Ekonomies-Filosofiese Manuskripte uit die Jaar 1844 geskryf het, hoewel dit eers in 1932 deur die destydse Sowjetunie uitgegee is. Dié werk toon die beginfase van sy ideologie. Marx voer aan dat die werklikheid geheel en al materialisties is en dat dit deur verskeie ekonomiese fases gaan totdat die werkers van die wêreld saamstaan, hul kapitalistiese onderdrukkers omver werp, en ’n wêreldwye utopia op die been bring.
+
+Die jaar 1844 was ook beduidend vir ’n ander figuur, ene Charles Darwin. Darwin het ’n referaat geskryf wat uiteindelik as die “1844-opstel” bekend sou staan, waarin hy ’n eerste uiteensetting van sy evolusieteorie gee. Nietemin het Darwin se nuutgevonde teorie in daardie stadium nog nie die openbare sfeer bereik nie. Dit was eers in 1859, met die verskyning van sy boek On the Origin of Species, dat hy sy sienings bekend gemaak het – te wete dat alle lewe op aarde uit ’n enkele voorsaat gespruit het, en dat dit slegs deur natuurlike en toevallige prosesse gebeur het.
+
+1844 is egter ook die jaartal waarin Daniël 8:14 se profesie oor die 2300 aande en môres in vervulling gegaan het. Boonop in dieselfde jaar – in die puin van die Groot Teleurstelling – word die saadjies geplant vir ’n beweging wat wêreldwyd sou blom, een wat die verwaande aansprake van Marx, Nietzsche en Darwin se idees sou teëstaan.
+
+Ter verwerping van Marx se ideologie, verkondig die Adventbeweging toe dat die wêreldgeskiedenis slegs aan die hand van die groot stryd tussen Christus en Satan verklaar kan word, en nie hoedat materiële dinge in opeenvolgende fases deur die mensdom gebruik en besit is nie. Die ware verloop van die wêreldgeskiedenis eindig ook nie in ’n mensgemaakte, kommunistiese utopia soos Marx meen nie, maar in die bonatuurlike vestiging van God se ewige koninkryk.
+
+Ter verwerping van Darwin se ideologie, verkondig die Adventbeweging toe ook dat lewe op aarde nie aan natuurlike prosesse en ewekansigheid, in die vorm van terloopse mutasies en natuurlike seleksie, toe te skryf is nie. Nee, dit is deur die mag en krag van die Skepper God tot stand gebring, wat alles in ses dae geskep en op die sewende dag gerus het.
+
+Ter verwerping van Nietzsche se ideologie, verkondig die Adventbeweging boonop die volgende: dat God nie slegs wel bestaan nie, maar dat sy universele wette (daardie sogenaamde “ou kliptafels van die wet”), die tien gebooie, God se hoogste maatstaf vir sy oordele bly en steeds geldig vir die ganse mensdom is.
+
+Is dit toeval dat al hierdie dinge in 1844 gebeur het? Allermins.
+
+Marx, Nietzsche en Darwin – drie invloedryke figure wie se geskrifte die mensdom onherstelbare skade aangerig het. Te midde van al hierdie mistastings laat die Here ons nie sonder die getuienis van sy waarheid nie. Dit is juis die rede waarom Hy, te midde van al dié afbrekende ideologieë, ’n beweging op die been gebring het; een wat mettertyd tot die totstandkoming van die Sewendedag-Adventistekerk sou lei en wat God se eindtydboodskap — die drie-engeleboodskap — aan die wêreld sou bring. Op die keper beskou, is dit hierdie drievoudige boodskap wat daardie drie gruwelik-misleide mans se wydverkondigde dwalings en mistastings weerlê.
+
+In ’n sekere sin is die drie-engeleboodskap die Sewendedag-Adventistekerk se grootse evangelieopdrag. Van nader beskou, kom hierdie drieledige boodskap eenvoudig op die evangelie neer, maar weliswaar binne die konteks van “die waarheid wat by julle is” (2 Pet. 1:12, OAB & NLV) of soos die New King James dit stel: die “present truth” (NKJV), oftewel die teenswoordige waarheid.
+
+Dít — die drie-engeleboodskap — is dan wat ons dié kwartaal gaan bestudeer.
+
+_Mark Finley is gebore en getoë in die Amerikaanse staat, Connecticut en is ’n wêreldbekende evangelis. Van 2005 tot 2010 is hy die adjunkpresident van die Wêreldkonferensie van die Sewendedag-Adventiste Kerk. Ná sy aftrede word hy aangestel as assistent vir die president van die Wêreldkonferensie. Leraar Finley en sy vrou, Ernestine, het drie kinders en vyf kleinkinders._

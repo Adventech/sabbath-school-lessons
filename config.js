@@ -24,9 +24,11 @@ var BIBLE_PARSER_CONFIG = {
   ],
   "cs": [
     "cep",
-    "kralicka-1613",
+    "bkr",
     "csp",
-    "b21"
+    "b21",
+    "pmp",
+    "snc"
   ],
   "ctd":[
     "tdb"
@@ -297,7 +299,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "sk": [
-    "seb"
+    "seb",
+    "roh"
   ],
 
   "sq": [

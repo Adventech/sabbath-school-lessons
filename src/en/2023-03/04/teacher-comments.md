@@ -1,0 +1,68 @@
+---
+title:  Teacher Comments
+date:  21/07/2023
+---
+
+#### Part I: Overview
+
+Key Text: Ephesians 2:4, 5
+
+Study Focus: Eph. 2:1–10, Eph. 5:14, Rom. 5:17, Eph. 5:6, 1 Tim. 1:7.
+
+Introduction: While Paul, in Ephesians 1, highlights God’s overarching plan of salvation in Christ at the universal level, in chapter 2 the apostle explains in more detail the way God operates in our salvation at the individual level. After humans left the Garden of Eden, they entered a condition that Paul calls “dead in trespasses and sins” (Eph. 2:1). In this condition, humans are dead in their sins in the sense of being controlled by both internal forces (sinful tendencies) and external forces (the devil and the world). Humans in this condition cannot hope for a life with God; rather, they are “children of wrath” (Eph. 2:3). The only hope for us is to become resurrected, to ascend, and to be exalted with Christ (Eph. 2:6, 7).
+
+But we cannot resurrect, ascend, and exalt ourselves. For this reason, Paul emphasizes that we are saved “by grace” (Eph. 2:5, 8). It is totally God’s work, initiative, love, mercy, and power (Eph. 2:4). For Paul, this work is the foundation of the gospel. Yet, Paul immediately rushes to add that we are saved “through faith” (Eph. 2:8). While our salvation is, in totality, God’s work, God does not save us against our wills. Those who are saved will not ascend to heaven or be exalted to the heavenly places by a divine act of predestination. Rather, God’s salvation becomes operational in us when we exercise faith—that is, when we accept and receive God’s salvation, allowing God’s power to resurrect us, to exalt our lives, and to empower us to live in Christ Jesus.
+
+Lesson Themes: This week’s lesson emphasizes three major themes of Ephesians 2:1–10 that describe the dynamic process of personal salvation:
+
+1.	What does it mean to be dead in sin? What is the nature of sinful living?
+
+2.	What does it mean to be raised with Christ to new life in Him?
+
+3.	What does it mean to be saved by grace through faith?
+
+#### Part II: Commentary
+
+**Ellen G. White on the Concepts of Dead in Sin and Salvation by Grace**
+
+In chapter 2 of her book Steps to Christ, Ellen G. White explains the fallen human condition. She notes that after Adam’s “sin, he could no longer find joy in holiness, and he sought to hide from the presence of God. Such is still the condition of the unrenewed heart. It is not in harmony with God and finds no joy in communion with Him. The sinner could not be happy in God’s presence; he would shrink from the companionship of holy beings. Could he be permitted to enter heaven, it would have no joy for him. The spirit of unselfish love that reigns there—every heart responding to the heart of Infinite Love—would touch no answering chord in his soul. His thoughts, his interests, his motives, would be alien to those that actuate the sinless dwellers there. He would be a discordant note in the melody of heaven. Heaven would be to him a place of torture; he would long to be hidden from Him who is its light and the center of its joy. It is no arbitrary decree on the part of God that excludes the wicked from heaven: they are shut out by their own unfitness for its companionship. The glory of God would be to them a consuming fire. They would welcome destruction, that they might be hidden from the face of Him who died to redeem them.”—Steps to Christ, pp. 17, 18.
+
+She then insists, “It is impossible for us, of ourselves, to escape from the pit of sin in which we are sunken. Our hearts are evil, and we cannot change them. . . . Education, culture, the exercise of the will, human effort, all have their proper sphere, but here they are powerless. They may produce an outward correctness of behavior, but they cannot change the heart; they cannot purify the springs of life. There must be a power working from within, a new life from above, before men can be changed from sin to holiness. That power is Christ. His grace alone can quicken the lifeless faculties of the soul, and attract it to God, to holiness.”—Page 18.
+
+Ellen G. White further explains that “it is not enough to perceive the loving-kindness of God, to see the benevolence, the fatherly tenderness, of His character. It is not enough to discern the wisdom and justice of His law, to see that it is founded upon the eternal principle of love. Paul the apostle saw all this when he exclaimed, ‘I consent unto the law that it is good.’ ‘The law is holy, and the commandment holy, and just, and good.’ But he added, in the bitterness of his soul-anguish and despair, ‘I am carnal, sold under sin.’ Romans 7:16, 12, 14. He longed for the purity, the righteousness, to which in himself he was powerless to attain, and cried out, ‘O wretched man that I am! who shall deliver me from this body of death?’ Romans 7:24, margin. Such is the cry that has gone up from burdened hearts in all lands and in all ages. To all, there is but one answer, ‘Behold the Lamb of God, which taketh away the sin of the world.’ John 1:29.”—Page 19.
+
+**Dead in Sins and Resurrected by and in Christ**
+
+Paul’s expression “dead in trespasses and sins” (Eph. 2:1) highlights three major aspects of the fallen human condition.
+
+First, “dead in trespasses and sins” points to a literal death. Sin is essentially antithetical to God and life. To be in sin is to negate God and life. Paul emphasizes that “the wages of sin is death” (Rom. 6:23). Being in sin and remaining in sin leads to death (see also 1 John 5:16)—literal death—a complete annihilation of the totality of the human being. Being in sin is being condemned to death; it is tantamount to being “dead.” This death does not refer only to the body; the human being who participates, and chooses to remain, in sin will be dead in his or her entirety, in all aspects, without any surviving elements.
+
+Second, “dead in trespasses and sins” is a spiritual and moral condition. To be “dead in trespasses and sins” is to be dead to God. For humans, to be “dead in trespasses and sins” does not mean they cannot perceive God’s love, justice, or call, or that they cannot recognize their own decadent state. To state otherwise would lead to the concept of predestination. But humans can, and do, perceive God’s revelation and call; for this reason, they are “without excuse” (Rom. 1:19–21; see Rom. 2:1, 9–16, NASB). The problem arises when they perceive God’s call of grace but decide that all is well with them and that they will be better off if they go their own way, claiming they can change themselves and fix the world by themselves (Isa. 5:21, Rom. 1:21–23; see also Gen. 11:1–5). This warped thinking, however, sinks them deeper in the mire of sin (Rom. 1:24–32).
+
+In his letter to the Ephesians, Paul illustrates this lost condition with the trope of walking in “the course of this world” (Eph. 2:2), fulfilling the cravings, the lusts, the desires, and the thoughts of the flesh (Eph. 2:3). By doing so, the unrenewed reach the point wherein they “call evil good, and good evil” and substitute “darkness for light, and light for darkness” (Isa. 5:20). This state constitutes not only moral confusion but moral rebellion against God.
+
+Third and consequently, “dead in trespasses and sins” points to our being utterly unable to overcome the gravitational pull of the black hole of sin. This inability is so because sin has become a pervasive controlling force in our beings, becoming “another law waging war” in and against us (Rom. 7:23, ESV). Our very nature was affected, diseased in an irremediable way, to the point of becoming a “body of death” (Rom. 7:24, ESV).
+
+It is for this very reason that Paul notes that only a “resurrection” can save us from our being “dead in sins” (Eph. 2:5, 6). But Paul does not talk about a resurrection akin to the resurrection of the avian phoenix of ancient myth, a bird that had an intrinsic regenerative power. Our death in sin and because of sin is definitive and irreversible. We do not have in us any intrinsic power to revive. Only God, who created us, can re-create or resurrect us.
+
+For Paul, resurrection is not a “simple” regeneration of our biological tissues so that we might live for several decades more in the same sinful condition. Rather, Paul’s notion of resurrection is a total escape from the damaging power of the world and from the domination of sin. Paul’s belief in resurrection constitutes another kind, or quality, of life—eternal life (Rom. 6:23). This unique power of renewal was manifested in Christ’s resurrection from the dead (Eph. 1:20) and then given to us in the sense that God invited us to share and partake, through the Spirit, in Christ’s resurrection (Eph. 2:5, 6).
+
+In his Epistle to the Romans, Paul explains that because sin is such a pervasive force in us, it is inevitable that we die. But because of God’s grace, we do not need to die in sin, but to sin. Christ died in our place for our sin. Now, in Christ we die, but we die with Christ to sin (Rom. 6:2–4). Paul, then, concludes that, because “we have become united with Him in the likeness of His death, certainly we shall also be in the likeness of His resurrection, knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin; for the one who has died is freed from sin” (Rom. 6:5–7, NASB).
+
+**By Grace Through Faith**
+
+When Paul says that we are saved “by grace . . . through faith” (Eph. 2:8), he does not say we are saved only by grace or only by faith. The two always work together in salvation. However, they do have an essential sequential order of operation. In the gospel, it is not faith that generates grace. Faith is not an inner energy of ours that gives us life and power, that elevates us to God, that changes God’s disposition toward us, or that generates salvation. Rather, for Paul faith occurs or is born and becomes operational in us when God offers us His grace (Rom. 10:17). Grace generates faith. Faith is our reception of God’s grace manifested to us.
+
+This understanding has at least two major implications. First, faith is not, and cannot be, meritorious. In fact, even faith is a gift from God, because God offers us all the possibility of receiving His grace. Both grace and faith are the gifts of God (Eph. 2:8). For this reason, Paul emphasizes that our works do not have any role in producing our salvation (Eph. 2:9). Rather, we, as saved people, are God’s “workmanship, created in Christ Jesus for good works” (Eph. 2:10, NASB). These good works, therefore, are not ours; they are not generated by the genius or power of our faith; rather, they were “prepared [by God] beforehand so that we would walk in them” (Eph. 2:10, NASB).
+
+Second, Paul joins justification with sanctification in an inextricable relation. While justification means we are clothed in Christ’s righteousness, sanctification means we are clothed in Christ’s robe of good works and are walking in it.
+
+Third, grace and faith are the foundation of the unity of the church, which is one of the central themes of Paul’s theology of the church. The church is united in the same experience of receiving the divine revelation of grace and in the same experience of accepting and embracing it in faith, “one faith” (Eph. 4:5). In this experience, all church members are equal. Again, the church is not a multitiered society in which some members are better Christians because they received more grace. The church is not divided into camps of more spiritual or less spiritual members, according to the degree of their faith. Rather, the entire church is founded on, and united in, the same grace and the same acceptance of that grace in faith. In Ephesians 4:7, Paul seems to talk about various degrees or types of grace. Here, though, he does not speak of salvific grace but about the diversity of the spiritual gifts for the edification of God’s church and for the accomplishment of its mission. Also, when, in 1 Corinthians 12:9, Paul says that the Spirit gives faith to some, he refers to the same topic of the spiritual gifts and not to the salvific faith given to all humans.
+
+#### Part III: Life Application
+
+1.	While for some people the Christian God is a punitive and vengeful divinity, many contemporary people simply cannot associate a loving and gracious God with wrath, judgment, and condemnation. In Ephesians 2:3, Paul describes sinful people as “children of wrath,” which means that, if they remain in that condition, they will receive the wrath, or the condemnation, of God directed against sin (Rom. 1:18). Invite class members to think of ways to explain the wrath of God to the following groups of people: (1) their children, (2) their non-Adventist neighbors, and (3) their secular, atheist colleagues.
+
+2.	Ask class members to remember their experience of being made alive with, and in, Christ. How would they describe this experience to friends and to members of their community? How can they keep that experience fresh in their Christian life?
+
+3.	Many Seventh-day Adventists grew up in what we would call an insulated or “pure” Christian environment in which they were not exposed to many of the temptations of a more secular or worldly life. However, these Adventists are still dead in their sins all the same and have not experienced the new birth. What are ways that your class members could help these fellow Adventists to experience the fullness of being “made . . . alive together with Christ” (Eph. 2:5, ESV)? That is, how can your students encourage these Adventists to be reborn without first having to go through the entire misery of a sinful life?

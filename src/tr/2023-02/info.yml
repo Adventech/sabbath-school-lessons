@@ -1,0 +1,22 @@
+---
+  title: "Üç Meleğin Mesajı"
+  description: "15 Ekim 1844 tarihinde, Büyük Hayal Kırıklığından bir hafta önce, Almanya’da yaşayan Luther yanlısı bir ailede bir erkek bebek dünyaya geldi. Onun Adı Friedrich Nietzsche’ydi ve modern çağın en etkili Tanrıtanımazlarından biri olacaktı. Batıda Hristiyan Tanrısı’nın ölmekte olduğuna inanan Nietzsche, Hristiyan dininin devam eden ahlâki etkisinin bir “köle ahlâkı,” kendilerini güçlüden koruma çabasıyla “düşmanını sevmek” gibi aptalca kavramlar uyduran zayıfların ahlâkı olduğunu söyleyip onunla alay ederek sövüp sayıyordu. Nietzsche’ye göre çağdaşlık “iyi ve kötü” gibi köhneleşmiş kavramların ötesine geçmeliydi; kitaplarından birindeki (Böyle Buyurdu Zerdüşt) bir karakterin şöyle bir sözü vardır: “Eski yasa yazıtlarını kırın!” (burada elbette On Emir’i kastetmektedir)."
+  human_date: "Nisan · Mayıs · Haziran 2023"
+  start_date: "25/03/2023"
+  end_date: "23/06/2023"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  splash: true
+  credits:
+    - name: Yazar
+      value: "Mark Finley"
+    - name: "Editör (English)"
+      value: "Clifford R. Goldstein"
+    - name: Editör Sekreteri
+      value: "Soraya Homayouni"
+    - name: Yayın Müdürü
+      value: "Lea Alexander Greve"
+    - name: Asistan Editör
+      value: "Sharon Thomas-Crews"
+    - name: Sayfa Tasarım
+      value: "Joanna Touma"

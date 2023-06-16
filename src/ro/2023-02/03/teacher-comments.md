@@ -5,196 +5,52 @@ date:  14/04/2023
 
 ### I. Privire generală
 
-În lecția din săptămâna aceasta începem un studiu detaliat al celor
-trei solii îngerești din Apocalipsa 14:6-12. În întreaga Scriptură, îngerii
-sunt descriși ca mesageri ai lui Dumnezeu. În cartea Apocalipsa, îngerii
-care zboară prin mijlocul cerului reprezintă o solie cerească de origine
-divină, răspândită cu repeziciune până la marginile pământului. Acest
-mesaj, desigur, trebuie proclamat de poporul lui Dumnezeu din zilele
-din urmă. Chiar înainte de venirea lui Isus, solia Evangheliei veșnice,
-în contextul judecății, se răspândește rapid pe întreg globul. De ce este
-numită veșnică? De ce trebuie ca fiecare ființă omenească de pe pământ
-să aibă oportunitatea să răspundă Evangheliei? De ce mântuirea
-fiecărei persoane care trăiește în ultimele zile ale istoriei acestui pământ
-depinde de răspunsul ei? Studiul din această săptămână va răspunde
-acestor întrebări și ne va oferi o înțelegere aprofundată a expresiei
-„Evanghelia veșnică”.
+În lecția din săptămâna aceasta începem un studiu detaliat al celor trei solii îngerești din Apocalipsa 14:6-12. În întreaga Scriptură, îngerii sunt descriși ca mesageri ai lui Dumnezeu. În cartea Apocalipsa, îngerii care zboară prin mijlocul cerului reprezintă o solie cerească de origine divină, răspândită cu repeziciune până la marginile pământului. Acest mesaj, desigur, trebuie proclamat de poporul lui Dumnezeu din zilele din urmă. Chiar înainte de venirea lui Isus, solia Evangheliei veșnice, în contextul judecății, se răspândește rapid pe întreg globul. De ce este numită veșnică? De ce trebuie ca fiecare ființă omenească de pe pământ să aibă oportunitatea să răspundă Evangheliei? De ce mântuirea fiecărei persoane care trăiește în ultimele zile ale istoriei acestui pământ depinde de răspunsul ei? Studiul din această săptămână va răspunde acestor întrebări și ne va oferi o înțelegere aprofundată a expresiei „Evanghelia veșnică”.
 
-Un al doilea scop pe care și-l propune studiul din această săptămână
-este îmbunătățirea înțelegerii noastre asupra misiunii lui Hristos
-pentru biserica Lui din zilele din urmă. Îngerul care zboară în mijlocul
-cerului cu Evanghelia veșnică proclamă acest adevăr al sfârșitului
-timpului „oricărui neam, oricărei seminții, oricărei limbi și oricărui
-norod” (Apocalipsa 14:6). Solia este una vastă. Ne cheamă să-i oferim
-Împărăției lui Dumnezeu tot ce avem mai bun. Ne invită să cooperăm
-cu Hristos în apelul Său final adresat omenirii. Ne cere să avem ca
-prioritate misiunea lui Dumnezeu de a răscumpăra omenirea pierdută,
-pentru că aceasta este și prioritatea Lui.
+Un al doilea scop pe care și-l propune studiul din această săptămână este îmbunătățirea înțelegerii noastre asupra misiunii lui Hristos pentru biserica Lui din zilele din urmă. Îngerul care zboară în mijlocul cerului cu Evanghelia veșnică proclamă acest adevăr al sfârșitului timpului „oricărui neam, oricărei seminții, oricărei limbi și oricărui norod” (Apocalipsa 14:6). Solia este una vastă. Ne cheamă să-i oferim Împărăției lui Dumnezeu tot ce avem mai bun. Ne invită să cooperăm cu Hristos în apelul Său final adresat omenirii. Ne cere să avem ca prioritate misiunea lui Dumnezeu de a răscumpăra omenirea pierdută, pentru că aceasta este și prioritatea Lui.
 
 ### II. Comentariu
 
-Dumnezeu pune sigiliul aprobării Sale asupra poporului Său pentru
-a separa adevărul de falsitate. În vechime, în timp ce națiunile păgâne
-din jurul evreilor erau politeiste și se închinau mai multor dumnezei,
-declarația de credință clară, distinctivă și puternică a lui Israel se găsea
-în Deuteronomul 6:4, cunoscută și ca Shema.
+Dumnezeu pune sigiliul aprobării Sale asupra poporului Său pentru a separa adevărul de falsitate. În vechime, în timp ce națiunile păgâne din jurul evreilor erau politeiste și se închinau mai multor dumnezei, declarația de credință clară, distinctivă și puternică a lui Israel se găsea în Deuteronomul 6:4, cunoscută și ca Shema.
 
-De două ori pe zi, dimineața și seara, familiile evreiești repetau:
-„Ascultă, Israele! Domnul Dumnezeul nostru este singurul Domn”
-(Deuteronomul 6:4).
+De două ori pe zi, dimineața și seara, familiile evreiești repetau: „Ascultă, Israele! Domnul Dumnezeul nostru este singurul Domn” (Deuteronomul 6:4).
 
-„Ascultă, Israele!” În secolele lor de exil, rostirea acestei declarații
-le-a amintit evreilor de viziunea spirituală și de calea de urmat care îi
-unea ca popor. Intonarea Shemei le dădea, de asemenea, puterea de a
-rezista diferitelor încercări de a-i determina să își abandoneze viziunea
-și calea spirituală.
+„Ascultă, Israele!” În secolele lor de exil, rostirea acestei declarații le-a amintit evreilor de viziunea spirituală și de calea de urmat care îi unea ca popor. Intonarea Shemei le dădea, de asemenea, puterea de a rezista diferitelor încercări de a-i determina să își abandoneze viziunea și calea spirituală.
 
-Deuteronomul 6:4 era unul dintre primele versete pe care un copil
-evreu din Israelul din vechime le învăța, de îndată ce învăța să vorbească.
-În plus, mamele evreice își învățau continuu copiii să cânte Shema
-înainte de a merge la culcare.
+Deuteronomul 6:4 era unul dintre primele versete pe care un copil evreu din Israelul din vechime le învăța, de îndată ce învăța să vorbească. În plus, mamele evreice își învățau continuu copiii să cânte Shema înainte de a merge la culcare.
 
-Un exemplu uimitor al puterii acestui element de identitate a credinței
-s-a manifestat imediat după încheierea Celui de-Al Doilea Război
-Mondial, în 1945. Câțiva rabini conducători au vizitat orfelinatele creștine
-în căutarea copiilor evrei. În timpul războiului, mulți părinți evrei
-din Europa și-au trimis copiii în orfelinate creștine, pentru a-i salva de
-naziști. Speranța acestor părinți era că, mai târziu, după război, aveau să
-fie reuniți cu copiii lor, iar dacă ei – părinții – nu ar fi supraviețuit, sperau
-că rudele rămase în viață sau prietenii aveau să-i găsească pe acești
-copii și să-i recupereze.
+Un exemplu uimitor al puterii acestui element de identitate a credinței s-a manifestat imediat după încheierea Celui de-Al Doilea Război Mondial, în 1945. Câțiva rabini conducători au vizitat orfelinatele creștine în căutarea copiilor evrei. În timpul războiului, mulți părinți evrei din Europa și-au trimis copiii în orfelinate creștine, pentru a-i salva de naziști. Speranța acestor părinți era că, mai târziu, după război, aveau să fie reuniți cu copiii lor, iar dacă ei – părinții – nu ar fi supraviețuit, sperau că rudele rămase în viață sau prietenii aveau să-i găsească pe acești copii și să-i recupereze.
 
-După război, majoritatea preoților și măicuțelor care conduceau
-aceste orfelinate nu au vrut să îi lase pe copiii evrei să se întoarcă la familiile
-lor. Acești administratori de instituții creștine spuneau adesea că
-nu au copii evrei în orfelinat. În timpul unei vizite, un rabin i-a cerut
-preotului care se afla la conducerea unui orfelinat să îi dea voie să se
-întoarcă seara, atunci când copiii se duceau la culcare. Preotul a fost cu
-greu de acord cu cererea acestuia. Când rabinul s-a întors, a intrat în
-camera copiilor și, în timp ce se plimba printre paturi, a început să cânte
-cuvintele evreiești din Shema. Unul câte unul, copiii au început să plângă
-și să strige: „Mama!” Mulți au repetat cuvintele învățate în copilărie.
-Preoții au fost luați complet prin surprindere. Nu putuseră să șteargă
-amintirile acestor copii despre mamele lor, care îi puneau la culcare în
-fiecare noapte cu Shema pe buze. Starețul nu a avut de ales decât să recunoască
-faptul că se „înșelase”; astfel, acești copii pierduți ai Israelului
-au putut să se întoarcă „acasă”, la poporul lor și la Tora.
+După război, majoritatea preoților și măicuțelor care conduceau aceste orfelinate nu au vrut să îi lase pe copiii evrei să se întoarcă la familiile lor. Acești administratori de instituții creștine spuneau adesea că nu au copii evrei în orfelinat. În timpul unei vizite, un rabin i-a cerut preotului care se afla la conducerea unui orfelinat să îi dea voie să se întoarcă seara, atunci când copiii se duceau la culcare. Preotul a fost cu greu de acord cu cererea acestuia. Când rabinul s-a întors, a intrat în camera copiilor și, în timp ce se plimba printre paturi, a început să cânte cuvintele evreiești din Shema. Unul câte unul, copiii au început să plângă și să strige: „Mama!” Mulți au repetat cuvintele învățate în copilărie. Preoții au fost luați complet prin surprindere. Nu putuseră să șteargă amintirile acestor copii despre mamele lor, care îi puneau la culcare în fiecare noapte cu Shema pe buze. Starețul nu a avut de ales decât să recunoască faptul că se „înșelase”; astfel, acești copii pierduți ai Israelului au putut să se întoarcă „acasă”, la poporul lor și la Tora.
 
-Aceste cuvinte care confirmau identitatea lor evreiască, „Domnul
-Dumnezeul nostru este singurul Domn”, erau întipărite în conștiința
-acestor copii, impregnate pentru totdeauna în mintea lor.
+Aceste cuvinte care confirmau identitatea lor evreiască, „Domnul Dumnezeul nostru este singurul Domn”, erau întipărite în conștiința acestor copii, impregnate pentru totdeauna în mintea lor.
 
 **Cele trei solii îngerești: Elementul nostru de identificare**
 
-Cele trei solii îngerești din Apocalipsa sunt, pentru adventiștii de ziua
-a șaptea, echivalentul Shemei, reprezintă elementul care ne unește. Ele
-sunt declarația noastră distinctivă de credință. Definesc cine suntem ca
-popor și descriu lumii misiunea noastră.
+Cele trei solii îngerești din Apocalipsa sunt, pentru adventiștii de ziua a șaptea, echivalentul Shemei, reprezintă elementul care ne unește. Ele sunt declarația noastră distinctivă de credință. Definesc cine suntem ca popor și descriu lumii misiunea noastră.
 
-Identitatea noastră profetică unică este enunțată în Apocalipsa 14:6-12
-și de aici ne extragem entuziasmul de a proclama Evanghelia întregii
-lumi. Ellen G. White exprimă această idee în felul următor: „Într-un
-anumit sens, adventiștii de ziua a șaptea au fost trimiși în lume ca veghetori
-și purtători de lumină. Lor le-a fost încredințată ultima avertizare
-pentru o lume care piere. Asupra lor strălucește lumina minunată
-din Cuvântul lui Dumnezeu. Lor li s-a dat de îndeplinit o lucrare de cea
-mai mare importanță – proclamarea primei, a celei de-a doua și a celei
-de-a treia solii îngerești. Nu există nicio altă lucrare de o asemenea
-importanță. Ei nu trebuie să îngăduie ca altceva să le absoarbă atenția”
-(Mărturii pentru biserică, vol. 9, p. 19).
+Identitatea noastră profetică unică este enunțată în Apocalipsa 14:6-12 și de aici ne extragem entuziasmul de a proclama Evanghelia întregii lumi. Ellen G. White exprimă această idee în felul următor: „Într-un anumit sens, adventiștii de ziua a șaptea au fost trimiși în lume ca veghetori și purtători de lumină. Lor le-a fost încredințată ultima avertizare pentru o lume care piere. Asupra lor strălucește lumina minunată din Cuvântul lui Dumnezeu. Lor li s-a dat de îndeplinit o lucrare de cea mai mare importanță – proclamarea primei, a celei de-a doua și a celei de-a treia solii îngerești. Nu există nicio altă lucrare de o asemenea importanță. Ei nu trebuie să îngăduie ca altceva să le absoarbă atenția” (Mărturii pentru biserică, vol. 9, p. 19).
 
-Aceste solii sunt urgente, eterne și universale. În centrul lor se află
-Evanghelia veșnică. Ce este Evanghelia? Este vestea bună a vieții, morții,
-învierii, lucrării de Mare-Preot și revenirii în curând a lui Hristos.
-Este vestea bună că Isus ne mântuiește de păcat și ne dă putere să biruim.
-A înțelege Evanghelia înseamnă a înțelege semnificația iubirii nemuritoare,
-inimaginabile, inepuizabile a lui Dumnezeu pentru noi.
-Evanghelia începe în inima lui Dumnezeu. Înainte ca noi să Îl căutăm,
-El ne căuta pe noi. Înainte să facem un pas spre El, El ne trăgea spre
-Sine prin puterea
-dragostei Sale. Apostolul Ioan atestă acest adevăr
-prin aceste cuvinte memorabile: „Și dragostea stă nu în faptul că noi
-am iubit pe Dumnezeu, ci în faptul că El ne-a iubit pe noi și a trimis pe
-Fiul Său ca jertfă de ispășire pentru păcatele noastre” (1 Ioan 4:10). În
-Romani 5, apostolul Pavel adaugă: „Dar Dumnezeu Își arată dragostea
-față de noi prin faptul că, pe când eram noi încă păcătoși, Hristos a
-murit
-pentru noi” (Romani 5:8).
+Aceste solii sunt urgente, eterne și universale. În centrul lor se află Evanghelia veșnică. Ce este Evanghelia? Este vestea bună a vieții, morții, învierii, lucrării de Mare-Preot și revenirii în curând a lui Hristos. Este vestea bună că Isus ne mântuiește de păcat și ne dă putere să biruim. A înțelege Evanghelia înseamnă a înțelege semnificația iubirii nemuritoare, inimaginabile, inepuizabile a lui Dumnezeu pentru noi. Evanghelia începe în inima lui Dumnezeu. Înainte ca noi să Îl căutăm, El ne căuta pe noi. Înainte să facem un pas spre El, El ne trăgea spre Sine prin puterea dragostei Sale. Apostolul Ioan atestă acest adevăr prin aceste cuvinte memorabile: „Și dragostea stă nu în faptul că noi am iubit pe Dumnezeu, ci în faptul că El ne-a iubit pe noi și a trimis pe Fiul Său ca jertfă de ispășire pentru păcatele noastre” (1 Ioan 4:10). În Romani 5, apostolul Pavel adaugă: „Dar Dumnezeu Își arată dragostea față de noi prin faptul că, pe când eram noi încă păcătoși, Hristos a murit pentru noi” (Romani 5:8).
 
-În Evanghelie, Dumnezeu, prin Hristos, ia inițiativa salvării noastre.
-Hristos a trăit viața desăvârșită pe care noi ar fi trebuit să o trăim;
-a murit de moartea de care noi ar fi trebuit să murim, ne-a atras la
-Sine prin Duhul Sfânt și, prin iubirea, prin harul și prin puterea Lui ne
-schimbă viețile. Prin cruce, stăpânirea păcatului asupra vieților noastre
-este îndepărtată. Primind harul lui Dumnezeu, acceptând jertfa Lui
-și crezând în făgăduința vieții veșnice, devenim fii și fiice ale Lui.
+În Evanghelie, Dumnezeu, prin Hristos, ia inițiativa salvării noastre. Hristos a trăit viața desăvârșită pe care noi ar fi trebuit să o trăim; a murit de moartea de care noi ar fi trebuit să murim, ne-a atras la Sine prin Duhul Sfânt și, prin iubirea, prin harul și prin puterea Lui ne schimbă viețile. Prin cruce, stăpânirea păcatului asupra vieților noastre este îndepărtată. Primind harul lui Dumnezeu, acceptând jertfa Lui și crezând în făgăduința vieții veșnice, devenim fii și fiice ale Lui.
 
-Această solie a Evangheliei veșnice se află în centrul celor trei solii
-îngerești. Aceste mesaje ale zilelor din urmă sunt toate despre Isus. Ele
-ne conduc să abandonăm orice mândrie omenească și orice îndreptățire
-de sine. Ne cer ca, pentru mântuire, să ne încredem în Isus complet. Ne
-conduc, prin credință, să acceptăm neprihănirea Lui în locul comportamentului
-nostru nelegiuit. Desăvârșirea vieții lui Hristos este a noastră
-atunci când Îl primim ca Răscumpărătorul nostru crucificat. Evanghelia
-ne invită să venim la Isus așa cum suntem, dar nu ne lasă acolo. Ca răspuns
-la iubirea lui Isus, vom dori să trăim o viață duhovnicească. Harul
-Lui nu doar că ne acoperă trecutul, ci lucrează și ca principiu dinamic
-în viața noastră, dându-ne puterea de ascultare. Apostolul Pavel prezintă
-clar această idee în Romani 1:5: „Prin [Isus Hristos] [...] am primit
-harul și apostolia, ca să aducem, pentru Numele Lui, la ascultarea
-credinței.” Harul lui Dumnezeu ne învață că ar trebui să „trăim în veacul
-de acum cu cumpătare, dreptate și evlavie” (Tit 2:12). Aceasta este
-vestea incredibil de bună a Evangheliei.
+Această solie a Evangheliei veșnice se află în centrul celor trei solii îngerești. Aceste mesaje ale zilelor din urmă sunt toate despre Isus. Ele ne conduc să abandonăm orice mândrie omenească și orice îndreptățire de sine. Ne cer ca, pentru mântuire, să ne încredem în Isus complet. Ne conduc, prin credință, să acceptăm neprihănirea Lui în locul comportamentului nostru nelegiuit. Desăvârșirea vieții lui Hristos este a noastră atunci când Îl primim ca Răscumpărătorul nostru crucificat. Evanghelia ne invită să venim la Isus așa cum suntem, dar nu ne lasă acolo. Ca răspuns la iubirea lui Isus, vom dori să trăim o viață duhovnicească. Harul Lui nu doar că ne acoperă trecutul, ci lucrează și ca principiu dinamic în viața noastră, dându-ne puterea de ascultare. Apostolul Pavel prezintă clar această idee în Romani 1:5: „Prin [Isus Hristos] [...] am primit harul și apostolia, ca să aducem, pentru Numele Lui, la ascultarea credinței.” Harul lui Dumnezeu ne învață că ar trebui să „trăim în veacul de acum cu cumpătare, dreptate și evlavie” (Tit 2:12). Aceasta este vestea incredibil de bună a Evangheliei.
 
-Când suntem mântuiți prin harul Său, cuceriți de dragostea Sa și
-schimbați prin puterea Sa, răspunsul nostru natural este să le împărtășim
-și altora ce a făcut Hristos pentru noi. Mărturia noastră creștină
-este preaplinul unei inimi umplute cu dragostea lui Dumnezeu. Când
-Evanghelia pătrunde în inimile noastre întărite și murdărite de păcat,
-tânjim să le spunem și altora povestea harului Său. Înțelegerea Evangheliei
-veșnice este însăși temelia mărturiei noastre pentru lume. Evanghelia
-din Apocalipsa 14:6, care este proclamată până la marginile pământului,
-este o Evanghelie pe care fiecare dintre noi a cunoscut-o și a
-trăit-o personal, în propria viață.
+Când suntem mântuiți prin harul Său, cuceriți de dragostea Sa și schimbați prin puterea Sa, răspunsul nostru natural este să le împărtășim și altora ce a făcut Hristos pentru noi. Mărturia noastră creștină este preaplinul unei inimi umplute cu dragostea lui Dumnezeu. Când Evanghelia pătrunde în inimile noastre întărite și murdărite de păcat, tânjim să le spunem și altora povestea harului Său. Înțelegerea Evangheliei veșnice este însăși temelia mărturiei noastre pentru lume. Evanghelia din Apocalipsa 14:6, care este proclamată până la marginile pământului, este o Evanghelie pe care fiecare dintre noi a cunoscut-o și a trăit-o personal, în propria viață.
 
-Ideea centrală a studiului din această săptămână este înțelegerea
-Evangheliei, trăirea ei și împărtășirea ei în contextul revenirii în curând
-a lui Isus.
+Ideea centrală a studiului din această săptămână este înțelegerea Evangheliei, trăirea ei și împărtășirea ei în contextul revenirii în curând a lui Isus.
 
 ### III. Aplicație
 
-**Pentru meditație personală:** În timpul studierii acestei lecții,
-este posibil ca mulți dintre membrii grupei tale să își pună întrebări cu
-privire la propria mântuire. Poate că le lipsește asigurarea că păcatele
-lor sunt iertate. Poate au experimentat o durere mare în viață și se întreabă:
-„Unde era Dumnezeu când treceam prin valea umbrei morții?”
-Sau este posibil să lupte cu un viciu ascuns sau cu o atitudine negativă pe
-care li se pare că nu o pot birui.
+**Pentru meditație personală:** În timpul studierii acestei lecții, este posibil ca mulți dintre membrii grupei tale să își pună întrebări cu privire la propria mântuire. Poate că le lipsește asigurarea că păcatele lor sunt iertate. Poate au experimentat o durere mare în viață și se întreabă: „Unde era Dumnezeu când treceam prin valea umbrei morții?” Sau este posibil să lupte cu un viciu ascuns sau cu o atitudine negativă pe care li se pare că nu o pot birui.
 
-Amintește-le că Evanghelia este pentru toată lumea. Același Hristos
-care a murit pentru alții a murit și pentru ei. Iubirea Sa este pentru fiecare
-dintre copiii Săi. La fel sunt și harul și puterea Lui.
+Amintește-le că Evanghelia este pentru toată lumea. Același Hristos care a murit pentru alții a murit și pentru ei. Iubirea Sa este pentru fiecare dintre copiii Săi. La fel sunt și harul și puterea Lui.
 
-Cere cuiva să citească apoi cu voce tare acest pasaj scris de Ellen
-G. White: „Lui Isus Îi face plăcere să venim la El chiar așa cum suntem:
-păcătoși, neajutorați, simțind că depindem de El. Noi putem veni
-la El cu toată slăbiciunea noastră, cu ignoranța și păcătoșenia noastră,
-căzând la picioarele Sale plini de căință. Slava Lui se manifestă tocmai
-prin faptul că ne cuprinde în brațele dragostei Sale, ne vindecă rănile și
-ne eliberează de orice păcat” (Calea către Hristos, p. 52). Aceasta este
-frumusețea Evangheliei. Nu trebuie să ne temem. Isus nu ține în mână
-biciul vinovăției, pentru a ne condamna. El stă cu brațele larg deschise,
-pentru a ne cuprinde cu dragostea Sa, pentru a ne ierta, pentru a ne da
-putere și pentru a ne trimite ca martori importanți ai Săi în aceste ultime
-zile, ca să dăm mărturie despre slava harului Său.
+Cere cuiva să citească apoi cu voce tare acest pasaj scris de Ellen G. White: „Lui Isus Îi face plăcere să venim la El chiar așa cum suntem: păcătoși, neajutorați, simțind că depindem de El. Noi putem veni la El cu toată slăbiciunea noastră, cu ignoranța și păcătoșenia noastră, căzând la picioarele Sale plini de căință. Slava Lui se manifestă tocmai prin faptul că ne cuprinde în brațele dragostei Sale, ne vindecă rănile și ne eliberează de orice păcat” (Calea către Hristos, p. 52). Aceasta este frumusețea Evangheliei. Nu trebuie să ne temem. Isus nu ține în mână biciul vinovăției, pentru a ne condamna. El stă cu brațele larg deschise, pentru a ne cuprinde cu dragostea Sa, pentru a ne ierta, pentru a ne da putere și pentru a ne trimite ca martori importanți ai Săi în aceste ultime zile, ca să dăm mărturie despre slava harului Său.
 
-Îndeamnă-i pe membrii grupei tale să mediteze la următoarele întrebări
-în timpul orei Școlii de Sabat și în săptămâna care le stă în față:
+Îndeamnă-i pe membrii grupei tale să mediteze la următoarele întrebări în timpul orei Școlii de Sabat și în săptămâna care le stă în față:
 
-**1** Am eu certitudinea mântuirii chiar acum, în acest moment? Daca da,
-de ce? Dacă nu, ce mă împiedică să cred că Isus așteaptă să îmi lege
-rănile și să mă cuprindă în brațele iubirii Sale?
+**1** Am eu certitudinea mântuirii chiar acum, în acest moment? Daca da, de ce? Dacă nu, ce mă împiedică să cred că Isus așteaptă să îmi lege rănile și să mă cuprindă în brațele iubirii Sale?
 
-**2** Cum am slujit în această săptămână ca martor înaintea altora cu privire
-la iertarea, mila și dragostea lui Dumnezeu? Care sunt alte căi prin
-care pot împărtăși harul Lui cu oamenii din cercul meu de cunoștințe?
+**2** Cum am slujit în această săptămână ca martor înaintea altora cu privire la iertarea, mila și dragostea lui Dumnezeu? Care sunt alte căi prin care pot împărtăși harul Lui cu oamenii din cercul meu de cunoștințe? 

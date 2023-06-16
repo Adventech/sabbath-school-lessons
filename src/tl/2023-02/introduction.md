@@ -1,0 +1,25 @@
+### Ang Mga Mensahe ng Tatlong Anghel
+
+Noong Oktubre 15, 1844, isang linggo bago ang Dakilang Kabiguan, isang batang lalaki ang ipinanganak sa isang debotong pamilya ng mga Lutheran sa Alemanya. Ang kanyang pangalan ay Friedrich Nietzsche, na siyang magiging isa sa mga pinakamaimpluwensyang ateista ng modernidad. Sa paniniwalang ang Diyos ng Cristiano ay naghihingalo na sa Kanluran, tinuligsa ni Nietzsche ang patuloy na impluwensyang moral ng relihiyong Kristiyano, na tinutuya ito bilang isang “moralidad ng alipin,” ang moralidad ng mahihina na, sa pagtatangkang protektahan ang kanilang sarili laban sa mga mas malakas, ay gumawa ng mga hangal na paniniwala tulad ng “Mahalin mo ang iyong mga kaaway.” Para kay Nietzsche, kailangan ng modernidad na lampasan ang mga lumang paniniwala tungkol sa “mabuti at masama”; isang tauhan sa isa sa kanyang mga aklat (THUS SPAKE ZARATHUSTRA) ay nagpahayag “Wasakin mo ang mga tapyas ng lumang kautusan!” (Siyempre ang tinutukoy nito ay ang Sampung Utos).
+
+Ang taong 1844 ay mahalaga rin para kay Karl Marx, ang nagtatag ng komunismo. Tinawag na “Economic And Philosophic Manuscripts Of 1844,” ang akdang ito ay isinulat ni Marx noong taong iyon, kahit na hindi ito nailathala ng Soviet Union hanngang noong 1932. Ang mga manuskrito ay nagpapakita ng naunang pagsulong ng paniniwala ni Marx kung saan siya ay nangatwiran para sa isang ganap na materyalistang realidad na dumaan sa ibat’t ibang yugto ng ekonomiya hanggang sa magkaisa ang mga manggagawa sa mundo, ibagsak ang mga mapang-aping kapitalista, at lumikha ng isang perpektong lipunan sa lupa.
+
+Ang taong 1844 ay naging mahalaga rin para kay Charles Darwin. Tungkol sa naging kilala bilang ang “Sanaysay ng 1844,” ginawa ni Darwin ang isa sa mga pinakaunang paghahayag ng kanyang teorya sa ebolusyon, kahit na hindi pa ito isinapubliko noon. Noong 1859 lamang, sa paglalathala ng On The Origin Of Species, hayagang ipinroklama ni Darwin ang kanyang pananaw na ang lahat ng buhay sa lupa ay nagmula sa iisang ninuno sa pamamagitan ng natural at nagkataong mga proseso lamang.
+
+Gayunpaman, ang taong 1844 ang katuparan ng 2300-araw na propesiya sa Daniel 8:14, at sa taon ring iyon na, mula sa mga natira sa Dakilang Kabiguan, ang mga binhi na naitanim ay uusbong patungo sa isang pansanlibutang kilusan na ang pinakasentrong mensahe ay itinakwil ang determinasyon ng ideolohiyang Marxist, Nietzschean, at Darwinian.
+
+Laban kay Marx, ang kilusang Seventh-day Adventist ay nagpahayag na ang dakilang labanan sa pagitan ni Cristo at ni Satanas, at hindi ang isang materyal na pag-agos ng kasaysayan, ang nagpaliwanag sa kasaysayan ng mundo na magtatapos, hindi sa isang gawa-ng-tao na perpektong lugar ng komunista kundi sa supernatural na pagtatatag ng walang hanggang kaharian ng Diyos.
+
+Laban kay Darwin, ang kilusan ng Seventh-day Adventist ay nagturo na ang buhay ay nagmula, hindi sa isang natural at aksidenteng proseso ng random mutation at natural selection, kundi sa pamamagitan ng kapangyarihan ng Diyos na Lumikha, na sa loob ng anim na araw ay nilikha ang buhay sa lupa at nagpahinga sa ikapito.
+
+At laban kay Nietzsche ang kilusan ng Seventh-day Adventist ay nagpahayag, hindi lamang nabubuhay ang Diyos kundi pati na ang Kanyang pang-malawakang utos ng moralidad (ang “matandang tapyas ng Kautusan”), ang Sampung Utos, ay nananatili bilang pinaka-pamantayan ng paghuhukom at pinagtitibay para sa buong sangkatauhan.
+
+Nagkataon lang ba na ang lahat ng kaganapang ito ay nangyari noong 1844? Hindi dapat ganito ang isipin ng sinuman.
+
+Sina Marx, Nietzsche, Darwin—ang tatlong maimpluwensyang tao na ang mga sinulat ay nagdulot ng hindi na maaayos na pinsala sa sangkatauhan. Ngunit sa gitna ng lahat ng mga pagkakamaling ito, hindi iniwan ng Diyos ang mundo na walang  saksi sa Kanyang katotohanan, ito ang dahilan kung bakit, sa kalagitnaan ng mga nakakasirang ideolohiya, itinatag Niya ang isang kilusan na, sa paglipas ng panahon, ay kikilalanin bilang Seventh-day Adventist Church, na magpapahayag ng Kanyang panghuling-araw na katotohanan sa mundo—ang mga mensahe ng tatlong anghel. Ang mga mensaheng ito, sa kanilang kaibuturan, ay pinabubulaanan ang mga kamalian at maling akala na itinataguyod ng tatlong lalaking iyon na lubhang nalinlang.
+
+Ang mga mensahe ng tatlong anghel ay, masasabing, ang mga utos para kumilos ang Seventh-day Adventist Church. Sa kanilang kaibuturan, ang mga ito ang ebanghelyo, dalisay at simple, ngunit ang ebanghelyo na inilalahad sa konteksto ng “pangkasalukuyang katotohanan” (2 Pedro 1:12).
+
+At ito, ang mga mensahe ng tatlong anghel, ang ating pag-aaralan sa quarter na ito,
+
+_Lumaki sa Connecticut, U.S.A., si Mark Finley, isang kilalang ebanghelista sa buong mundo, ay naging bise-presidente sa General Conference mula 2005– 2010. Matapos magretiro mula sa full time na trabaho, naging assistant siya ng presidente ng General Conference. Si Pastor Finley at ang kanyang asawa na si Ernestine, ay mayroong tatlong anak at limang apo._

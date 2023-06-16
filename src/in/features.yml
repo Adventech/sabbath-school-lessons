@@ -1,7 +1,7 @@
 ---
   teacher-comments:
     name: teacher-comments
-    title: Penuntun guru
+    title: Penuntun Guru
     description: Bersiaplah untuk memfasilitasi pembahasan pelajaran Sekolah Sabat dengan edisi guru ini
     image: "v1/images/features/feature_teacher_comments.png"
   egw-quotes:
