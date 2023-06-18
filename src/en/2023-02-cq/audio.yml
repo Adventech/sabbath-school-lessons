@@ -18,3 +18,13 @@
           target: en/2023-02-cq/07
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/2023-02-inv/audio/INV_2023_Q2_L08.mp3
           target: en/2023-02-cq/08
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-02-inv/INV_2023_Q2_L09.mp3
+          target: en/2023-02-cq/09
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-02-inv/INV_2023_Q2_L10.mp3
+          target: en/2023-02-cq/10
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-02-inv/INV_2023_Q2_L11.mp3
+          target: en/2023-02-cq/11
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-02-inv/INV_2023_Q2_L12.mp3
+          target: en/2023-02-cq/12
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-02-inv/INV_2023_Q2_L13.mp3
+          target: en/2023-02-cq/13

@@ -1,0 +1,19 @@
+### Úvod
+
+#### Efezanom: Ako nasledovať Ježiša v ťažkých časoch
+
+V Liste Efezanom apoštol Pavol hovorí o situácii, ktorú prežívali jeho adresáti. Roky po vzrušujúcich udalostiach zo začiatku kresťanskej misie v Efeze zápasili teraz Efezania so zmyslom svojej kresťanskej viery.
+
+Pavol, ktorého misijné pôsobenie kedysi štvrtému najväčšiemu mestu Rímskej ríše pôsobilo značné ekonomické ťažkosti (pozri Sk 19,24–27), je teraz uväznený. Keď píše z väzenia, obáva sa, že veriaci v Efeze môžu „stratiť odvahu“ a zabudnúť na to, čo znamená byť Ježišovými učeníkmi v sofistikovanej, mestskej a úplne pohanskej kultúre Efezu. Hoci jeho poslucháči sú už kresťania, Pavol k nim hovorí ako evanjelista. Snaží sa ich znovu získať v kresťanskej viere, znovu zapáliť oheň ich oddanosti Kristovi a vzkriesiť vzrušenie z toho, že sú súčasťou veľkého Božieho podniku vo svete, cirkvi.
+
+Pretože v kresťanskej viere ide predovšetkým o Krista, Pavol sa snaží adresátov „nakaziť“ svojím obdivom a úctou ku Kristovi. Ak majú nestáli kresťanskí učeníci znovu získať svoje pevné miesto, bude to preto, že znovu získajú svoju prvú lásku k Ježišovi a nadobudnú novú dôveru v Jeho milosť a moc. Pavol teda vyzdvihuje Kristovo vyvýšenie v nebi nad všetky sily a božstvá, ktoré sa snažia pritiahnuť oddanosť veriacich v Efeze. Ježiš je cieľom Božieho plánu na veky, plánu, v ktorom veriaci ako cirkev zohrávajú dôležitú úlohu v Božích plánoch zjednotiť všetko v Kristovi.
+
+Keď sa Pavol snaží priviesť veriacich v Efeze k novej oddanosti svojmu Pánovi, neznižuje požiadavky kresťanského učeníctva. Pomerne podrobne vysvetľuje, ako vyzerá kresťanské správanie a spoločenstvo. Kresťania sú povolaní k Duchom inšpirovanému, Kristovi ctiacemu a Bohom riadenému uctievaniu, ktoré Pavol znovu a znovu ilustruje. Oddanosť Kristovi ovplyvňuje to, ako človek koná a hovorí. Milovať Krista znamená rešpektovať a vážiť si spoluveriacich. Znamená to odolať vzorom podlého a sexuálne dekadentného správania, ktoré je v ich kultúre také rozšírené. Znamená to, že v našich vzťahoch v rámci cirkvi a domácnosti si požičiavame z príkladu sebaobetovania, ktoré ponúka Kristus. Znamená to ponúknuť spoluobčanom Efezu jasné príklady nového modelu ľudskej existencie.
+
+Pavol venuje veľkú časť svojho listu vyjadreniu svojho nadšenia z tohto nového modelu toho, čo znamená byť človekom prostredníctvom členstva v Božej cirkvi. Zvlášť ho povzbudzuje myšlienka, že Boh spojil odcudzené časti ľudstva – Židov a pohanov – do jedného v cirkvi. V jednote, kde by sa očakávalo nepriateľstvo, majú príležitosť prejaviť vlastnosti novej Božej spoločnosti a prichádzajúceho kráľovstva.
+
+Pri sledovaní dôležitosti byť súčasťou Božej cirkvi Pavol rozvíja štyri metafory pre cirkev. Veriaci tvoria Kristovo telo, čím demonštrujú svoju oddanosť Kristovi a svoju vzájomnú jednotu. Sú živým chrámom, vybudovaným Kristovou obetou na Kalvárii, v ktorej sa uctieva Boh. Sú to Kristove nevesty, ktoré hľadia na veľkolepý svadobný obrad, keď si ich ženích príde vyhlásiť za svoje. V poslednej metafore, ktorá vyjadruje Pavlovo úsilie znovu ich získať v kresťanskej viere, sú Kristovou armádou, ktorá vedie zápas o pokoj v Jeho mene a bojuje proti silám temnoty v Božej sile, keď hľadia na Kristov návrat.
+
+List Efezanom teda hovorí najmä o časoch, ako je naša súčasnosť, v ktorých pôvab sveta a plynúci čas ohrozujú otupené kresťanské učeníctvo. Pozdvihuje Krista a zdôrazňuje význam nasledovania Ho ako angažovaných, aktívnych členov Jeho cirkvi, keď žijeme v nádeji na Jeho návrat. V tomto štvrťroku máme tú česť načúvať s modlitbou Listu Efezanom a nanovo zažiť vzrušenie z nasledovania Ježiša v náročných časoch.
+
+_John K. McVay, Ph.D., je rektor a profesor teológie na Walla Walla University v College Place, Washington, USA, kde pôsobí od roku 2006._
