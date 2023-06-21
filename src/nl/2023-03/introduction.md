@@ -12,4 +12,4 @@ Paulus wijdt een groot deel van zijn brief aan hoe blij hij is met deze nieuwe l
 
 Efeziërs zal ons dus bekend in de oren klinken. Wij leven ook in een tijd waarin de pleziertjes van de wereld en het verstrijken van de tijd de energie wegzuigt uit het leerling van Jezus zijn. Als we de hoop op zijn terugkomst uitleven, verheerlijken we Christus en bevestigen we hoe belangrijk het is Hem te volgen door betrokken en actieve leden te zijn van zijn gemeente. Dit kwartaal hebben we het voorrecht om onder gebed het boek Efeziërs te bestuderen en opnieuw te ervaren hoe heerlijk het is Jezus in moeilijke tijden te volgen.
 
-`John K. McVay, PhD, is sinds 2006 voorzitter en professor in religie aan de Walla Walla University in College Place, Washington, USA.`
+_John K. McVay, PhD, is sinds 2006 voorzitter en professor in religie aan de Walla Walla University in College Place, Washington, USA._
