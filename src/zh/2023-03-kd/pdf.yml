@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-INTRO.pdf'
+      target: zh/2023-03-kd/introduction
+      title: 简介
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L1.pdf'
+      target: zh/2023-03-kd/01
+      title: 小王子
+      start_date: 01/04/2023
+      end_date: 07/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L2.pdf'
+      target: zh/2023-03-kd/02
+      title: 修复圣殿
+      start_date: 08/07/2023
+      end_date: 14/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L3.pdf'
+      target: zh/2023-03-kd/03
+      title: 以斯帖皇后
+      start_date: 15/07/2023
+      end_date: 21/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L4.pdf'
+      target: zh/2023-03-kd/04
+      title: 以斯帖拯救她的民族
+      start_date: 22/07/2023
+      end_date: 28/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L5.pdf'
+      target: zh/2023-03-kd/05
+      title: 小女仆
+      start_date: 29/07/2023
+      end_date: 04/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L6.pdf'
+      target: zh/2023-03-kd/06
+      title: 小女仆服侍上帝
+      start_date: 05/08/2023
+      end_date: 11/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L7.pdf'
+      target: zh/2023-03-kd/07
+      title: 消失不见的斑点
+      start_date: 12/08/2023
+      end_date: 18/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L8.pdf'
+      target: zh/2023-03-kd/08
+      title: 乃缦服侍上帝
+      start_date: 19/08/2023
+      end_date: 25/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L9.pdf'
+      target: zh/2023-03-kd/09
+      title: 小婴孩摩西
+      start_date: 26/08/2023
+      end_date: 01/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L10.pdf'
+      target: zh/2023-03-kd/10
+      title: 云柱和火柱
+      start_date: 02/09/2023
+      end_date: 08/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L11.pdf'
+      target: zh/2023-03-kd/11
+      title: 苦水变好水
+      start_date: 09/09/2023
+      end_date: 15/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L12.pdf'
+      target: zh/2023-03-kd/12
+      title: 上帝赐下吗哪
+      start_date: 16/09/2023
+      end_date: 22/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-L13.pdf'
+      target: zh/2023-03-kd/13
+      title: 上帝的十条诫命（喜乐的秘诀）
+      start_date: 23/09/2023
+      end_date: 29/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Kindergarten/K-B-Q3-CH-S-ACTIVITY.pdf'
+      target: zh/2023-03-kd/activities
+      title: 活动
+      start_date: 23/09/2023
+      end_date: 29/09/2023

@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-Intro.pdf
+      title: Ievads
+      target: lv/2023-02/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-01.pdf
+      target: lv/2023-02/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-02.pdf
+      target: lv/2023-02/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-03.pdf
+      target: lv/2023-02/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-04.pdf
+      target: lv/2023-02/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-05.pdf
+      target: lv/2023-02/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-06.pdf
+      target: lv/2023-02/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-07.pdf
+      target: lv/2023-02/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-08.pdf
+      target: lv/2023-02/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-09.pdf
+      target: lv/2023-02/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-10.pdf
+      target: lv/2023-02/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-11.pdf
+      target: lv/2023-02/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-12.pdf
+      target: lv/2023-02/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lv/2023-02/ABSG-2023-02-LV-13.pdf
+      target: lv/2023-02/13

@@ -1,0 +1,16 @@
+---
+  title: "Le message cosmique des trois anges"
+  description: "Le 15 octobre 1844, une semaine avant la grande déception, un garçon naît dans une famille luthérienne pieuse en Allemagne. Il s’appelle Friedrich Nietzsche et deviendra l’un des athées les plus influents de la modernité."
+  human_date: "Avril · Mai · Juin 2023"
+  start_date: "25/03/2023"
+  end_date: "23/06/2023"
+  color_primary: "#BD5346"
+  color_primary_dark: "#9D3528"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "Mark Finley"
+    - name: Éditeur
+      value: "Justin Kim"
+    - name: Éditeur associé
+      value: "Sikhu Daco"
