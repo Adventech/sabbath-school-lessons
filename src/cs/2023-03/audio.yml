@@ -1,0 +1,30 @@
+---
+  audio:
+    - artist: List Efezským
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-bible.mp3
+          title: Úvod
+          target: cs/2023-03/01
+    - artist: Úvod
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-uvod.mp3
+          title: Úvod
+          target: cs/2023-03/01
+    - artist: Průvodce studiem Bible
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-1.mp3
+          target: cs/2023-03/01/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-2.mp3
+          target: cs/2023-03/01/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-3.mp3
+          target: cs/2023-03/01/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-4.mp3
+          target: cs/2023-03/01/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-5.mp3
+          target: cs/2023-03/01/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-6.mp3
+          target: cs/2023-03/01/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-7.mp3
+          target: cs/2023-03/01/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-inside-story.mp3
+          target: cs/2023-03/01/inside-story
