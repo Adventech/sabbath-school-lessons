@@ -1,0 +1,24 @@
+---
+  title: "Epistola lui Pavel către efeseni"
+  description: "În Epistola către efeseni, Pavel ne vorbește despre locuitorii din Efes. La ani distanță de evenimentele extraordinare de la începutul misiunii creștine în Efes, efesenii se luptau să înțeleagă sensul credinței lor creștine."
+  human_date: "Iulie · August · Septembrie 2023"
+  start_date: "24/06/2023"
+  end_date: "29/09/2023"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Autor
+      value: "John K. McVay"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Redactare
+      value: "Delia-Mirela Buciuman"
+    - name: Referent
+      value: "Daniel Brînzan"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Corectură
+      value: "Lavinia Goran"
+    - name: Copertă
+      value: "Liliana Dincă"

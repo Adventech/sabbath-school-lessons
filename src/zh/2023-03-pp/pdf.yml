@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-INTRODUCTION.pdf'
+      target: zh/2023-03-pp/introduction
+      title: 简介
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-INSTRUCTION.pdf'
+      target: zh/2023-03-pp/instruction
+      title: 指引
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L01.pdf'
+      target: zh/2023-03-pp/01
+      title: 长期的天气预报
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L02.pdf'
+      target: zh/2023-03-pp/02
+      title: 家庭的影响
+      start_date: 08/07/2023
+      end_date: 14/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L03.pdf'
+      target: zh/2023-03-pp/03
+      title: 上帝的拯救计划
+      start_date: 15/07/2023
+      end_date: 21/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L04.pdf'
+      target: zh/2023-03-pp/04
+      title: 应许的颜色
+      start_date: 22/07/2023
+      end_date: 28/07/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L05.pdf'
+      target: zh/2023-03-pp/05
+      title: 站立，观看，歌唱
+      start_date: 29/07/2023
+      end_date: 04/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L06.pdf'
+      target: zh/2023-03-pp/06
+      title: 谁在掌管？
+      start_date: 05/08/2023
+      end_date: 11/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L07.pdf'
+      target: zh/2023-03-pp/07
+      title: 耶和华是我的旌旗
+      start_date: 12/08/2023
+      end_date: 18/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L08.pdf'
+      target: zh/2023-03-pp/08
+      title: 正在建造
+      start_date: 19/08/2023
+      end_date: 25/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L09.pdf'
+      target: zh/2023-03-pp/09
+      title: 探子的工作
+      start_date: 26/08/2023
+      end_date: 01/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L10.pdf'
+      target: zh/2023-03-pp/10
+      title: 探险和挑战
+      start_date: 02/09/2023
+      end_date: 08/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L11.pdf'
+      target: zh/2023-03-pp/11
+      title: 过约旦河
+      start_date: 09/09/2023
+      end_date: 15/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L12.pdf'
+      target: zh/2023-03-pp/12
+      title: 胜利和失败
+      start_date: 16/09/2023
+      end_date: 22/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-L13.pdf'
+      target: zh/2023-03-pp/13
+      title: 你站在哪边？
+      start_date: 23/09/2023
+      end_date: 29/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-ACTIVITY.pdf'
+      target: zh/2023-03-pp/activities
+      title: 活动
+      start_date: 23/09/2023
+      end_date: 29/09/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q3/Junior/PP-D-Q3-CH-PARENTS.pdf'
+      target: zh/2023-03-pp/parents
+      title: 家长的话
+      start_date: 23/09/2023
+      end_date: 29/09/2023

@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-Intro.pdf
+      target: es/2023-03-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-01.pdf
+      target: es/2023-03-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-02.pdf
+      target: es/2023-03-cq/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-03.pdf
+      target: es/2023-03-cq/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-04.pdf
+      target: es/2023-03-cq/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-05.pdf
+      target: es/2023-03-cq/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-06.pdf
+      target: es/2023-03-cq/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-07.pdf
+      target: es/2023-03-cq/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-08.pdf
+      target: es/2023-03-cq/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-09.pdf
+      target: es/2023-03-cq/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-10.pdf
+      target: es/2023-03-cq/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-11.pdf
+      target: es/2023-03-cq/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-12.pdf
+      target: es/2023-03-cq/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-13.pdf
+      target: es/2023-03-cq/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2023-03/ABSG-2023-03-ES-CQ-14.pdf
+      target: es/2023-03-cq/14
