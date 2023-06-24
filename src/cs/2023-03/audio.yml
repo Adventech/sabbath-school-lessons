@@ -1,13 +1,13 @@
 ---
   audio:
-    - artist: List Efezským
-      tracks:
-        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-bible.mp3
-          title: Úvod
-          target: cs/2023-03/01
     - artist: Úvod
       tracks:
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-uvod.mp3
+          title: Úvod
+          target: cs/2023-03/01
+    - artist: List Efezským
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-bible.mp3
           title: Úvod
           target: cs/2023-03/01
     - artist: Průvodce studiem Bible
@@ -28,5 +28,3 @@
           target: cs/2023-03/01/07
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_01-inside-story.mp3
           target: cs/2023-03/01/inside-story
-        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q2/2023_Q2_02-1.mp3
-          target: cs/2023-03/02/01
