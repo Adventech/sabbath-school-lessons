@@ -4,8 +4,8 @@
   human_date: "Julho · Agosto · Setembro 2023"
   start_date: "24/06/2023"
   end_date: "29/09/2023"
-  color_primary: "#605045"
-  color_primary_dark: "#4B3C32"
+  color_primary: "#738F4B"
+  color_primary_dark: "#43552A"
   splash: true
   credits:
     - name: Autor
