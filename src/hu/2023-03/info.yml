@@ -6,3 +6,4 @@
   end_date: "29/09/2023"
   color_primary: "#EDE5F1"
   color_primary_dark: "#3B2525"
+  splash: true
