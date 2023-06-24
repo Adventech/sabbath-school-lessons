@@ -2,6 +2,7 @@
   pdf:
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-03-cq/ABSG-2023-03-FR-CQ-Intro.pdf
       target: fr/2023-03-cq/01
+      title: Intro
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-03-cq/ABSG-2023-03-FR-CQ-01.pdf
       target: fr/2023-03-cq/01
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-03-cq/ABSG-2023-03-FR-CQ-02.pdf
