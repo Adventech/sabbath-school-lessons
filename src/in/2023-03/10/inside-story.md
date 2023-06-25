@@ -1,6 +1,6 @@
 ---
-title:  Inside Story
-date:   02/09/2023
+title:  Berita Misi
+date:   01/09/2023
 ---
 
 ### <center>Kami sedang mengerjakan pelajaran ini</center>
