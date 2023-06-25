@@ -1,0 +1,7 @@
+---
+title:  Penuntun Guru
+date:   18/08/2023
+---
+
+### <center>Kami sedang mengerjakan pelajaran ini</center>
+<center>Silahkan kembali lagi nanti</center>

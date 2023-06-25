@@ -64,7 +64,9 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     })
                     fs.outputFileSync(`${targetQuarter}/audio.yml`,
                         yamljs.dump(audioSource, {
-                            lineWidth: -1
+                            lineWidth: -1,
+                            forceQuotes: true,
+                            quotingType: "\""
                         }).replace(/^(?!$)/mg, '  ').replace(/^/, '---\n')
                     );
                 }
