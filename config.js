@@ -285,6 +285,10 @@ var BIBLE_PARSER_CONFIG = {
     "ssp"
   ],
 
+  "sn": [
+    "bdsc"
+  ],
+
   "sr": [
     "biblija"
   ],
