@@ -1,0 +1,18 @@
+---
+title:  Histoire Missionnaire
+date:   29/09/2023
+---
+
+### Louer Dieu pour l’épilepsie
+
+_par Andrew McChesney_
+
+Anna luttait contre l’épilepsie depuis son enfance à Riga, en Lettonie. Il ne s’agissait pas seulement de convulsions, mais l’épilepsie affectait ses émotions et ses fonctions cérébrales. Il arrive des fois qu’elle ne puisse tout simplement pas se concentrer, et elle aspirait à être guérie. L’été suivant l’obtention de son diplôme d’études secondaires, l’adolescente de 19 ans s’était rendue chez une voyante qui prétendait pouvoir la guérir en canalisant son énergie. Mais l’épilepsie demeurait toujours
+
+Quand la voyante vit qu’elle ne pouvait pas aider, elle parla à Anna d’un autre client apparemment désespéré qui avait trouvé la guérison grâce à la prière d’un pasteur et donna à Anna le numéro de téléphone du pasteur. « Il vous en dira beaucoup sur son église et Dieu, mais ne l’écoutez pas », dit-elle. « Il suffit d’avoir votre guérison et de partir. Le reste de ce qu’il dira est un mensonge. » Anna appela le pasteur. Au cours de leur conversation téléphonique, elle entendit parler pour la première fois de l’Église adventiste du septième jour et ils convinrent de se rencontrer. Lors de leur deuxième rencontre, le pasteur pria pour Anna. Mais l’épilepsie demeurait toujours. Anna aimait le pasteur et accepta une invitation à assister à des études bibliques. Plus tard cet été-là, elle assista à une réunion de petit groupe à l’église. Puis elle participa à un culte d’adoration le sabbat. « Tu sais quoi? » dit-elle à sa mère par la suite. « Je pense que l’église est bonne. » Ainsi, la mère d’Anna l’accompagnait à l’église le sabbat
+
+Quelques mois plus tard, Anna allait à l’église accompagnée de sa mère et son père. L’été suivant, Anna et sa mère furent baptisées. Un an plus tard, son père le fut aussi. Puis sa grand-mère et son frère se firent aussi baptisés. Au fil des années, beaucoup de personnes priaient pour Anna et elle fut ointe d’huile. Mais l’épilepsie demeurait toujours. Anna se demandait pourquoi Dieu ne lui accorde pas la guérison. Tout comme l’apôtre Paul, qui priait aussi pour être soulagé, Dieu lui dit: « Ma grâce te suffit, car ma puissance s’accomplit dans la faiblesse » (2 Corinthiens 12:9, LSG)
+
+Aujourd’hui âgée de 30 ans, Anna Rozenberga considère l’épilepsie comme une énorme bénédiction. Puisque cela est une maladie à laquelle elle devrait faire face tous les jours, elle apprit encore plus qu’elle avait besoin de faire confiance à Dieu tous les jours. Certains sabbats matins, il lui arrive de penser qu’il est préférable de rester au lit, mais elle se souvient ensuite qu’elle doit diriger une classe lors de l’école du sabbat; puis elle va à l’église tout en ayant confiance que Dieu l’aidera. L’épilepsie l’avait également aidé à témoigner plus. Le défi lui avait donné de l’empathie pour les autres. Elle ne mentionne pas toujours son épilepsie lorsqu’elle rencontre des gens pour la première fois, mais elle se rendit compte que le fait d’être vulnérable à propos d’elle-même amène les autres à s’ouvrir et à être plus prêts à écouter. « Mon épilepsie m’a donc aidée à faire propager la Parole », dit Anna. « Je suis reconnaissante pour les défis liés à ma santé. »
+
+`’L’Offrande du Treizième Sabbat de ce trimestre sera consacrée à deux projets de la Division Transeuropéenne, dont un en Lettonie. Merci d’avoir planifié une offrande généreuse ce sabbat.`
