@@ -1,9 +1,9 @@
 ---
-  title: ''
-  description: ''
-  human_date: juuli • august • september 2023
-  start_date: Sat Jun 24 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
-  end_date: Fri Sep 29 2023 00:00:00 GMT+0000 (Coordinated Universal Time)
-  color_primary: ''
-  color_primary_dark: ''
+  title: "Kiri efeslastele"
+  description: "Kirjas efeslastele räägib Paulus meile efeslastest. Mõni aasta pärast kristliku misjonitöö algset edu Efesoses olid efeslased hädas oma kristliku usu tähenduse mõistmisega."
+  human_date: "Juuli • August • September 2023"
+  start_date: "24/06/2023"
+  end_date: "29/09/2023"
+  color_primary: "#503D36"
+  color_primary_dark: "#4B392F"
   splash: true
