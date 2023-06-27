@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/uvod.pdf
+      target: cs/2023-03/01
+      title: Úvod
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/01.pdf
+      target: cs/2023-03/01
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/02.pdf
+      target: cs/2023-03/02
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/03.pdf
+      target: cs/2023-03/03
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/04.pdf
+      target: cs/2023-03/04
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/05.pdf
+      target: cs/2023-03/05
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/06.pdf
+      target: cs/2023-03/06
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/07.pdf
+      target: cs/2023-03/07
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/08.pdf
+      target: cs/2023-03/08
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/09.pdf
+      target: cs/2023-03/09
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/10.pdf
+      target: cs/2023-03/10
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/11.pdf
+      target: cs/2023-03/11
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/12.pdf
+      target: cs/2023-03/12
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/13.pdf
+      target: cs/2023-03/13
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/14.pdf
+      target: cs/2023-03/14

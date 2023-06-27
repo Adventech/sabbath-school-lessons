@@ -64,9 +64,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     })
                     fs.outputFileSync(`${targetQuarter}/audio.yml`,
                         yamljs.dump(audioSource, {
-                            lineWidth: -1,
-                            forceQuotes: true,
-                            quotingType: "\""
+                            lineWidth: -1
                         }).replace(/^(?!$)/mg, '  ').replace(/^/, '---\n')
                     );
                 }
@@ -208,7 +206,7 @@ let czechAudio = async function () {
                 "inside-story"
             ]
 
-            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q2/2023_Q2_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
         },
         2,
         7
