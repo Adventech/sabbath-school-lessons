@@ -7,23 +7,21 @@ date:  25/08/2023
 
 **Ayat-ayat Utama**:Ephesians 5:15-17
 
-Tumpuan Kajian: Efesus  5:1-20, 1 Kor. 5:1-12, Why. 16:1-16, Kol. 4:5, Amsal 20:1, Amsal 23:29-35, Kisah 16:25.
+**Tumpuan Kajian**: Efesus  5:1-20, 1 Kor. 5:1-12, Why. 16:1-16, Kol. 4:5, Amsal 20:1, Amsal 23:29-35, Kisah 16:25.
 
-Pengenalan:  Pandangan dunia dan identiti adalah yang menentukan nilai dan kebijaksanaan. Pandangan dunia oleh bangsa yang bukan Yahudi akan membangunkan satu set nilai dan jenis kebijaksanaan tertentu. Kerajaan Tuhan, pandangan dunia Tuhan, nilai Tuhan, menghasilkan jenis kebijaksanaan yang sama sekali berbeza. Atas sebab ini, Paulus tidak menyeru orang Kristian untuk memeluk kebijaksanaan daripada salah satu sekolah falsafah yang sederhana, atau mencontohi kesombongan Greco-Rom, dalam memperjuangkan kebajikan. Sebaliknya, dalam pandangannya, kebijaksanaan Kristian berakar pada kasih pengorbanan Tuhan, dalam cahaya Kristus dan moral yang murni. Orang Kristian yang bijak akan lari dari kebijaksanaan dunia, yang dinyatakan dalam kezaliman seksual yang memakan habis-habisan, kemegahan yang mementingkan ego dan meminum wain. Sebaliknya, orang Kristian yang bijak akan bangun dari “tidur” dunia, akan dicerahkan oleh Injil Kristus, akan diberi kuasa oleh kehadiran Roh Kudus, akan meraih saat keselamatan, dan akan . . . menyembah Tuhan!
+*Pengenalan*: Pandangan dunia dan identiti adalah yang menentukan nilai dan kebijaksanaan. Pandangan dunia oleh bangsa yang bukan Yahudi akan membangunkan satu set nilai dan jenis kebijaksanaan tertentu. Kerajaan Tuhan, pandangan dunia Tuhan, nilai Tuhan, menghasilkan jenis kebijaksanaan yang sama sekali berbeza. Atas sebab ini, Paulus tidak menyeru orang Kristian untuk memeluk kebijaksanaan daripada salah satu sekolah falsafah yang sederhana, atau mencontohi kesombongan Greco-Rom, dalam memperjuangkan kebajikan. Sebaliknya, dalam pandangannya, kebijaksanaan Kristian berakar pada kasih pengorbanan Tuhan, dalam cahaya Kristus dan moral yang murni. Orang Kristian yang bijak akan lari dari kebijaksanaan dunia, yang dinyatakan dalam kezaliman seksual yang memakan habis-habisan, kemegahan yang mementingkan ego dan meminum wain. Sebaliknya, orang Kristian yang bijak akan bangun dari “tidur” dunia, akan dicerahkan oleh Injil Kristus, akan diberi kuasa oleh kehadiran Roh Kudus, akan meraih saat keselamatan, dan akan . . . menyembah Tuhan!
 
 Perbezaan antara kebijaksanaan dunia ini dan kebijaksanaan Tuhan terdiri daripada memahami siapa yang menjadi objek penyembahan seseorang: diri sendiri atau Tuhan? Siapakah yang dipaksikan: diri sendiri atau Tuhan? Siapakah dia dia yang dipenuhi dengan: diri sendiri atau Tuhan?
 
-Tema Pelajaran: Pembelajaran minggu ini menekankan tiga tema utama:
+**Tema Pelajaran**: Pembelajaran minggu ini menekankan tiga tema utama:
 
 1. Kebijaksanaan Kristian berakar pada wahyu Tuhan atau cahaya Kristus.
-
 2. Kebijaksanaan Kristian bukanlah satu koleksi kenyataan pintar tentang kehidupan. Sebaliknya, ia adalah satu gaya hidup, satu perjalanan hidup yang diubah oleh Roh Kudus mengikut corak yang ditinggalkan kepada kita di dalam Kristus.
-
 3. Kebijaksanaan Kristian adalah mengenai keselamatan dan penyembahan.
 
 #### Bahagian II: Ulasan
 
-Hikmah Yang Datang Dari Atas
+**Hikmah Yang Datang Dari Atas**
 
 Adalah suatu yang hampir mustahil untuk memikirkan Paulus sebagai menulis mengenai aspek praktikal kehidupan Kristian dan tidak memasukkan kebijaksanaan dalam hujahnya. Dunia kuno penuh dengan perbahasan tentang kebijaksanaan. Hanya beberapa abad sebelum Paulus, orang Yunani melahirkan apa yang mereka panggil sebagai “falsafah,” iaitu cinta kepada kebijaksanaan. Falsafah ini memberontak terhadap kebijaksanaan mitologi Yunani kuno, di mana Zeus, Metis (isteri pertama Zeus), Athena (anak perempuan mereka), dan Apollo dikaitkan dengan kebijaksanaan dengan cara yang berbeza. Semua dewa ini dihubungi oleh manusia, yang dibuat menjadi penaung pelbagai bandar atau kumpulan manusia. Sebagai contoh, adalah dipercayai bahawa orang yang mencari kebijaksanaan dalam pelbagai perkara kehidupan boleh mengakses minda atau pengetahuan dewa Yunani Apollo melalui Pythia, pendeta kuil Apollo, juga dikenali sebagai orakel Delphi. Tetapi selain daripada mencari kebijaksanaan dari Pythia, pelawat ke kuil Apollo akan disambut dan dididik oleh pelbagai maksim yang membentuk kebijaksanaan Delphic, yang mana tiga daripadanya adalah yang paling popular: "kenali dirimu sendiri," "tidak ada yang berlebihan," dan " kepastian membawa kepada kehancuran.” Pepatah lain mengajar cara hidup Yunani, dari menghormati dewa kepada menjalankan kehidupan beretika dan terus kepada mengorbankan nyawa untuk negara.
 
@@ -41,18 +39,20 @@ Dalam pada itu, kata-kata mereka “kosong” kerana falsafah ini tidak mempunya
 
 Atas sebab ini, kehidupan Kristian yang dianuti Paulus adalah berdasarkan penyataan Tuhan di dalam Kristus Yesus. Hanya Tuhan alkitabiah yang mencipta kita boleh menyatakan kepada kita siapa Dia, siapa kita, dan bagaimana kita boleh hidup untuk menjadi bahagia. Hanya Tuhan yang boleh memberi kita rahmat dan kuasa untuk menjalani kehidupan itu di dalam kerajaan-Nya.
 
-Terang Dari Cahaya
+**Terang Dari Cahaya**
 
 Dalam Efesus 5, Paulus tidak mengatakan bahawa orang Efesus itu berada “dalam kegelapan” tetapi bahawa mereka itu adalah “kegelapan” (Efesus 5:8). Tetapi sekarang, “dalam Tuhan,” mereka adalah “terang” (Efesus 5:8). Atas sebab ini, dia menyeru umat di Efesus untuk “berjalan sebagai anak terang” (Efesus 5:8) dan menjelaskan bahawa berjalan dalam terang bermakna menghasilkan “kebaikan dan keadilan dan kebenaran”  (Efesus 5:9, ITB), untuk hidup dalam cara yang “berkenan kepada Tuhan” (lihat Efesus 5:10, ITB), dan untuk hidup dalam terang Kristus, diterangi oleh Kristus (Efesus 5:13, 14) . Jadi, kita adalah terang “di dalam Tuhan” (Efesus 5:8) kerana kita diterangi oleh Kristus (Efesus 5:14).
 
-Teologi Gaya Hidup Adventist
+**Teologi Gaya Hidup Adventist**
 
 Sebagai Adventist, kita telah memasukkan gaya hidup dalam senarai pernyataan doktrin kita.  Menurut Paulus, gaya hidup bukanlah satu aspek marginal agama Kristian bagi kita tetapi bahagian tengah agama Kristian, iaitu, menjalani kehidupan Kristian. Adventist secara khusus menyatakan ajaran alkitabiah tentang Kristian sebagai satu gaya hidup dalam dua kepercayaan asas: 19 (“Hukum Tuhan”) dan 22 (“Kelakuan Kristian”). Di samping itu, hakikat bahawa, dalam Kristus, kita menganggap gaya hidup kita yang diubah sebagai penting untuk pengalaman Kristian juga dipantulkan dalam disiplin gereja kita dan juga dalam panggilan berulang kita untuk kebangkitan dan reformasi.
 
 #### Bahagian III: Penerapan Hidup
 
-1. 	Minta ahli kelas anda untuk mengingat kembali bagaimana mereka memandang kepada kebijaksanaan itu sebelum menjadi Kristian. Apakah hikmah bagi mereka ketika itu? Jemput ahli kelas anda untuk menulis definisi yang mereka sendiri berikan kepada kebijaksanaan setelah mereka menjadi Kristian sejati. Minta mereka berkongsi pemahaman mereka tentang kebijaksanaan dengan kelas.
+1\. Minta ahli kelas anda untuk mengingat kembali bagaimana mereka memandang kepada kebijaksanaan itu sebelum menjadi Kristian. Apakah hikmah bagi mereka ketika itu? Jemput ahli kelas anda untuk menulis definisi yang mereka sendiri berikan kepada kebijaksanaan setelah mereka menjadi Kristian sejati. Minta mereka berkongsi pemahaman mereka tentang kebijaksanaan dengan kelas.
 
-2. 	Minta ahli kelas anda untuk memperhatikan soalan ini: Apakah yang dimaksudkan dengan “menjadi pencerahan” dan “berjalan dalam terang” dalam konteks tempatan anda? Bagaimanakah konsep ini dibandingkan dengan pandangan alkitabiah tentang  “dicerahkan” dan “berjalan dalam terang”? Apakah maksud konsep ini untuk anda secara peribadi?
+2\. Minta ahli kelas anda untuk memperhatikan soalan ini: Apakah yang dimaksudkan dengan “menjadi pencerahan” dan “berjalan dalam terang” dalam konteks tempatan anda? Bagaimanakah konsep ini dibandingkan dengan pandangan alkitabiah tentang  “dicerahkan” dan “berjalan dalam terang”? Apakah maksud konsep ini untuk anda secara peribadi?
 
-3. 	Kadang kala orang Kristian dituduh menindas kebijaksanaan dan menghalang perkembangan pengetahuan manusia. Sesetengah orang menganggap orang Kristian sebagai sombong dan mengenepikan kebijaksanaan dunia. Bagaimanakah kita, sebagai umat Kristian Adventist, menghargai pencarian kebijaksanaan duniawi; belajar daripada warisan kebijaksanaan dunia; rendah hati tentang kebijaksanaan kita sendiri, seperti yang diterima daripada Tuhan dan bukan milik kita; namun mengkhabarkan bahawa Tuhan adalah satu-satunya sumber kebijaksanaan yang sebenar? Bincangkan jawapan di dalam kelas.
+3\. Kadang kala orang Kristian dituduh menindas kebijaksanaan dan menghalang perkembangan pengetahuan manusia. Sesetengah orang menganggap orang Kristian sebagai sombong dan mengenepikan kebijaksanaan dunia. Bagaimanakah kita, sebagai umat Kristian Adventist, menghargai pencarian kebijaksanaan duniawi; belajar daripada warisan kebijaksanaan dunia; rendah hati tentang kebijaksanaan kita sendiri, seperti yang diterima daripada Tuhan dan bukan milik kita; namun mengkhabarkan bahawa Tuhan adalah satu-satunya sumber kebijaksanaan yang sebenar? Bincangkan jawapan di dalam kelas.
+
+` `

@@ -7,21 +7,21 @@ date:  04/08/2023
 
 **Ayat-ayat Utama**:Ephesians 3:20, 21
 
-Tumpuan Kajian: Efesus 3; Ayub 11:5-9; Yeh. 43:13-16; Amos 7:7, 8; Why. 11:1, 2.
+**Tumpuan Kajian**: Efesus 3; Ayub 11:5-9; Yeh. 43:13-16; Amos 7:7, 8; Why. 11:1, 2.
 
-Pengenalan: Selepas dia berkongsi dalam Efesus 3:1 penglihatannya yang mulia tentang salib Kristus dan apa yang telah dicapainya bagi orang Yahudi dan bagi orang bukan Yahudi, Paulus ingin meyakinkan para saudaranya di Efesus bahawa dia berdoa supaya mereka sentiasa merenung, memahami dan dibimbing serta diubah oleh penglihatan salib itu dan oleh kemuliaan, kuasa dan kasih Tuhan yang dinyatakan oleh salib. Walau bagaimanapun, sama seperti Paulus mula memberitahu orang Efesus bahawa dia sedang berdoa untuk mereka, dia, “yang terpenjara kerana Kristus Yesus untuk kamu, orang bukan orang Israel” (Efesus 3:1, AVB), memutuskan untuk memberikan lebih tumpuan lagi tentang pelayanannya untuk orang bukan Yahudi. Pelayanan-Nya terdiri daripada memahami “rahsia” Tuhan yang mulia untuk memasukkan mereka, orang bukan Yahudi, dalam rancangan keselamatan-Nya dan dalam gereja-Nya. Rahsia ini, tegas rasul itu, bukanlah sesuatu yang baru difikirkan semula dalam rancangan Tuhan. Sebaliknya, itu adalah “matlamat kekal” Tuhan (Efesus 3:11) dan sekarang, dalam zaman Kristus, Tuhan terus menyatakan sepenuhnya tujuan ini kepada dunia, menggenapinya melalui Kristus dan sekarang melalui dia, selaku rasul Kristus.
+*Pengenalan*: Selepas dia berkongsi dalam Efesus 3:1 penglihatannya yang mulia tentang salib Kristus dan apa yang telah dicapainya bagi orang Yahudi dan bagi orang bukan Yahudi, Paulus ingin meyakinkan para saudaranya di Efesus bahawa dia berdoa supaya mereka sentiasa merenung, memahami dan dibimbing serta diubah oleh penglihatan salib itu dan oleh kemuliaan, kuasa dan kasih Tuhan yang dinyatakan oleh salib. Walau bagaimanapun, sama seperti Paulus mula memberitahu orang Efesus bahawa dia sedang berdoa untuk mereka, dia, “yang terpenjara kerana Kristus Yesus untuk kamu, orang bukan orang Israel” (Efesus 3:1, AVB), memutuskan untuk memberikan lebih tumpuan lagi tentang pelayanannya untuk orang bukan Yahudi. Pelayanan-Nya terdiri daripada memahami “rahsia” Tuhan yang mulia untuk memasukkan mereka, orang bukan Yahudi, dalam rancangan keselamatan-Nya dan dalam gereja-Nya. Rahsia ini, tegas rasul itu, bukanlah sesuatu yang baru difikirkan semula dalam rancangan Tuhan. Sebaliknya, itu adalah “matlamat kekal” Tuhan (Efesus 3:11) dan sekarang, dalam zaman Kristus, Tuhan terus menyatakan sepenuhnya tujuan ini kepada dunia, menggenapinya melalui Kristus dan sekarang melalui dia, selaku rasul Kristus.
 
-Tema Pelajaran: Pelajaran minggu ini mengetengahkan tiga tema utama:
+**Tema Pelajaran**: Pelajaran minggu ini mengetengahkan tiga tema utama:
 
-1. 	Doa Paulus dan keinginannya untuk gereja adalah untuk melihat gereja sebagai masyarakat manusia yang baru, termasuk orang bukan Yahudi.
+1\. Doa Paulus dan keinginannya untuk gereja adalah untuk melihat gereja sebagai masyarakat manusia yang baru, termasuk orang bukan Yahudi.
 
-2. 	Kemasukan orang bukan Yahudi adalah satu rahsia dan kejutan besar Tuhan kepada manusia. Paulus adalah pelayan yang rendah hati bagi rahsia ini.
+2\. Kemasukan orang bukan Yahudi adalah satu rahsia dan kejutan besar Tuhan kepada manusia. Paulus adalah pelayan yang rendah hati bagi rahsia ini.
 
-3. 	Kerana kemasukan orang bukan Yahudi, dan dengan demikian semua bangsa manusia ke dalam rancangan keselamatan, gereja menjadi paparan kebijaksanaan, kasih, kuasa dan kemuliaan Tuhan, baik di bumi dan di seluruh alam semesta.
+3\. Kerana kemasukan orang bukan Yahudi, dan dengan demikian semua bangsa manusia ke dalam rancangan keselamatan, gereja menjadi paparan kebijaksanaan, kasih, kuasa dan kemuliaan Tuhan, baik di bumi dan di seluruh alam semesta.
 
 #### Bahagian II: Ulasan
 
-Misteri Tuhan dan Dasar untuk Para Rasul dan Nabi
+**Misteri Tuhan dan Dasar untuk Para Rasul dan Nabi**
 
 Perbahasan tentang orang Yahudi dan orang bukan Yahudi, yang bersatu dalam tubuh Kristus, menimbulkan isu hubungan antara gereja dan Israel. Orang Kristian telah membangunkan model yang berbeza dalam hubungan Israel-gereja. Satu pendirian tradisional ialah Israel adalah bangsa perjanjian Tuhan, tetapi selepas Israel sebagai sebuah negara telah menolak Yesus sebagai Mesias, Israel sebagai sebuah negara telah ditolak dan digantikan oleh gereja sekarang ini. Oleh itu, selepas Kristus, Israel tidak memenuhi apa-apa peranan dalam ekonomi penyelamatan Tuhan. Ahli teologi lain mengambil satu “tafsiran literal” pada Kitab Suci dan mengembangkan teori dispensasionalis: iaitu bahawa Israel dan gereja mewakili dua umat Tuhan yang berbeza. Mereka ini mempunyai panggilan yang berbeza, perjanjian yang berbeza, jalan yang berbeza menuju keselamatan dan tujuan yang berbeza dalam ekonomi penyelamatan.
 
@@ -41,8 +41,10 @@ Keempat, pandangan Paulus tentang hubungan Israel-gereja juga menyatakan pemaham
 
 #### Bahagian III: Penerapan Hidup
 
-1. Manusia gemar dengan misteri, rahsia. Minta ahli kelas anda untuk memperhatikan soalan ini: Pernahkah anda menjalani kehidupan Kristian anda seolah-olah anda adalah penjaga misteri yang agung dan mulia, misteri yang mengubah hidup anda selama-lamanya dan, seperti yang anda fahami, akan mengubah dunia selama-lamanya dalam cara yang paling positif? Jika ya, jelaskan. Pernahkah anda berkongsi injil seolah-olah ia adalah misteri yang hebat dan indah? Bincangkan.
+1\. Manusia gemar dengan misteri, rahsia. Minta ahli kelas anda untuk memperhatikan soalan ini: Pernahkah anda menjalani kehidupan Kristian anda seolah-olah anda adalah penjaga misteri yang agung dan mulia, misteri yang mengubah hidup anda selama-lamanya dan, seperti yang anda fahami, akan mengubah dunia selama-lamanya dalam cara yang paling positif? Jika ya, jelaskan. Pernahkah anda berkongsi injil seolah-olah ia adalah misteri yang hebat dan indah? Bincangkan.
 
-2. Dalam Efesus 3:10, Paulus menegaskan bahawa gereja adalah cara yang melaluinya Tuhan menyatakan hikmat-Nya “kepada segala pemerintah dan kuasa di syurga.” (AVB). Tanyakan kepada ahli kelas anda soalan berikut: Dalam pemahaman anda, adakah gereja merupakan wahyu tentang rencana keselamatan Tuhan kepada seluruh alam semesta? Bagaimanakah hal itu suatu kebenaran? Bagaimanakah kesatuan dalam gereja dalam Kristus, kesatuan antara orang-orang bukan Yahudi dan Yahudi, kesatuan dalam keluarga dan dalam masyarakat merupakan sebahagian penting pernyataan yang menyelamatkan dari kasih kurnia dan kuasa Tuhan? Bincangkan jawapan dengan kelas anda.
+2\. Dalam Efesus 3:10, Paulus menegaskan bahawa gereja adalah cara yang melaluinya Tuhan menyatakan hikmat-Nya “kepada segala pemerintah dan kuasa di syurga.” (AVB). Tanyakan kepada ahli kelas anda soalan berikut: Dalam pemahaman anda, adakah gereja merupakan wahyu tentang rencana keselamatan Tuhan kepada seluruh alam semesta? Bagaimanakah hal itu suatu kebenaran? Bagaimanakah kesatuan dalam gereja dalam Kristus, kesatuan antara orang-orang bukan Yahudi dan Yahudi, kesatuan dalam keluarga dan dalam masyarakat merupakan sebahagian penting pernyataan yang menyelamatkan dari kasih kurnia dan kuasa Tuhan? Bincangkan jawapan dengan kelas anda.
 
-3. Dalam Kolose 1:27, ayat yang sejajar dengan Efesus 3, Paulus menekankan bahawa misteri yang diwahyukan Tuhan kepada “orang-orang kudus” dalam gereja ialah “Kristus dalam kamu, harapan untuk mendapat kemuliaan” (AVB). Jemput ahli kelas anda anda untuk berkongsi bagaimana mereka boleh menerangkan ungkapan ini kepada orang bukan Kristian. Apakah yang dimaksudkan oleh rasul dengan “Kristus dalam kamu”? Bagaimanakah ungkapan ini berkaitan dengan “harapan akan kemuliaan”? Sebaliknya, bagaimanakah "rahsia" ini mempengaruhi kehidupan harian anda? Pimpin kelas anda dalam perbincangan tentang jawapan kepada soalan-soalan ini.
+3\. Dalam Kolose 1:27, ayat yang sejajar dengan Efesus 3, Paulus menekankan bahawa misteri yang diwahyukan Tuhan kepada “orang-orang kudus” dalam gereja ialah “Kristus dalam kamu, harapan untuk mendapat kemuliaan” (AVB). Jemput ahli kelas anda anda untuk berkongsi bagaimana mereka boleh menerangkan ungkapan ini kepada orang bukan Kristian. Apakah yang dimaksudkan oleh rasul dengan “Kristus dalam kamu”? Bagaimanakah ungkapan ini berkaitan dengan “harapan akan kemuliaan”? Sebaliknya, bagaimanakah "rahsia" ini mempengaruhi kehidupan harian anda? Pimpin kelas anda dalam perbincangan tentang jawapan kepada soalan-soalan ini.
+
+` `
