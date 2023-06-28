@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q3/Beginner/Student/B-23-Q3-L00.pdf'
+      target: en/2023-03-bg/introduction
+      title: Introduction
+      start_date: 24/06/2023
+      end_date: 24/06/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q3/Beginner/Student/B-23-Q3-L01.pdf'
+      target: en/2023-03-bg/01
+      title: Joash, the Boy King
+      start_date: 24/06/2023
+      end_date: 28/07/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q3/Beginner/Student/B-23-Q3-L02.pdf'
+      target: en/2023-03-bg/02
+      title: Captain Naaman’s Little Maid
+      start_date: 29/07/2023
+      end_date: 25/08/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q3/Beginner/Student/B-23-Q3-L03.pdf'
+      target: en/2023-03-bg/03
+      title: Baby Moses
+      start_date: 26/08/2023
+      end_date: 29/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q3/Beginner/Student/B-23-Q3-Activites.pdf'
+      target: en/2023-03-bg/activities
+      title: Activities
+      start_date: 29/09/2023
+      end_date: 29/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q3/Beginner/Student/B-23-Q3-MemoryVerses.pdf'
+      target: en/2023-03-bg/memory-verses
+      title: Memory Verses
+      start_date: 29/09/2023
+      end_date: 29/09/2023
+
