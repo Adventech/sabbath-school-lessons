@@ -7,13 +7,13 @@ date:  29/09/2023
 
 **Ayat-ayat Utama**: Efesus 2:8-10
 
-Tumpuan Kajian: Efesus 1-6.
+**Tumpuan Kajian**: Efesus 1-6.
 
-Pengenalan: Walaupun Surat kepada Jemaat Efesus adalah kunci utama kepada surat-surat Pauline yang lain, kajian minggu ini ialah kunci utama yang membuka kunci keseluruhan kajian mengenai Surat kepada Jemaat Efesus, seperti berikut:
+**Pengenalan**: Walaupun Surat kepada Jemaat Efesus adalah kunci utama kepada surat-surat Pauline yang lain, kajian minggu ini ialah kunci utama yang membuka kunci keseluruhan kajian mengenai Surat kepada Jemaat Efesus, seperti berikut:
 
 Bahagian Ahad dalam panduan belajar Alkitab Edisi Standard meringkaskan pandangan Paulus yang menakjubkan tentang rancangan Penciptaan dan Penebusan Tuhan yang kekal dan bersejarah.
 
-#### Bahagian Isnin meringkaskan Efesus 2, yang secara grafik menggambarkan keadaan manusia yang suram tentang dosa dan kematian, keadaan yang tanpa janji, tanpa harapan, tanpa Kristus, dan tanpa Tuhan di dunia. Tetapi Paul—dan Alkitab secara umum—tidak berakhir dengan gambaran yang suram ini. Sebaliknya, dia memperincikan unsur-unsur asas Injil, misteri Tuhan, yang membawa harapan kepada manusia: di dalam dan bersama Kristus, Tuhan membangkitkan kita dan meninggikan kita ke tempat kudus-Nya di tempat-tempat syurga. Selain itu, dalam dan bersama Kristus, kita menjadi bait baru Tuhan di bumi. Transformasi ini dibuat oleh rahmat, dan rahmat adalah asas iman, kehidupan, dan misi Kristian.
+Bahagian isnin meringkaskan Efesus 2, yang secara grafik menggambarkan keadaan manusia yang suram tentang dosa dan kematian, keadaan yang tanpa janji, tanpa harapan, tanpa Kristus, dan tanpa Tuhan di dunia. Tetapi Paul—dan Alkitab secara umum—tidak berakhir dengan gambaran yang suram ini. Sebaliknya, dia memperincikan unsur-unsur asas Injil, misteri Tuhan, yang membawa harapan kepada manusia: di dalam dan bersama Kristus, Tuhan membangkitkan kita dan meninggikan kita ke tempat kudus-Nya di tempat-tempat syurga. Selain itu, dalam dan bersama Kristus, kita menjadi bait baru Tuhan di bumi. Transformasi ini dibuat oleh rahmat, dan rahmat adalah asas iman, kehidupan, dan misi Kristian.
 
 Bab 3, disemak dalam bahagian untuk hari Selasa, menyerlahkan misteri Tuhan tentang penciptaan gereja.
 
@@ -27,7 +27,7 @@ Tema Pelajaran: Kajian minggu ini adalah sintesis keseluruhan Surat kepada Jemaa
 
 #### Bahagian II: Ulasan
 
-Misteri Injil
+**Misteri Injil**
 
 Di tengah-tengah Surat Paulus kepada Jemaat Efesus menyuarakan ketertarikannya terhadap Injil sebagai misteri yang kini tidak dikodkan. Dia memulakan suratnya dengan meraikan bahawa Tuhan "memberitahukan kepada kita rahasia kehendak-Nya" (Ef 1:9, NASB), dan misteri ini adalah mengenai "warisan" (Efesus 1:11). Misteri ini bukan tentang keadaan kita yang terdesak dan gelap (Efesus 2:1-4) atau tentang pengasingan, perpecahan, dan permusuhan yang dibawa oleh dosa kepada kita sebagai individu, sebagai keluarga, dan sebagai masyarakat manusia (Efesus 2:11, 12). . Sebab perpecahan dan permusuhan ini bukanlah misteri bagi kita sama sekali dalam keadaan kita yang berdosa. Ketidakupayaan kita untuk menyelesaikan masalah dosa dan kematian juga bukanlah suatu misteri (Efesus 2:9, Yohanes 1:13). Semasa sejarah membuktikan berkali-kali, kita semua sedar bahawa tiada ciptaan manusia boleh menarik kita keluar dari medan graviti lubang hitam dosa. Sebaliknya, misteri yang dibincangkan oleh Paulus adalah mukjizat kasih Tuhan yang tidak terduga kepada kita! Kita sangka Tuhan tidak sayang kita. Kami fikir Dia melupakan kami. Kami fikir Dia mengutamakan orang Yahudi dan orang bukan Yahudi dilarang. Kami menyangka bahawa kes orang Yahudi telah hilang selama-lamanya apabila mereka menolak Yesus sebagai Mesias.
 
@@ -35,7 +35,7 @@ Ternyata kita salah tentang Tuhan dalam semua aspek ini. Apabila Tuhan membuka m
 
 Kita benar-benar dapat melihat kegembiraan Paulus atas penemuan hebat ini. Seluruh hidupnya dipengaruhi, bahkan, diubah, oleh kebenaran Injil. Seperti dalam perumpamaan Yesus tentang harta yang ditemui (Mat. 13:44), Paulus “menjual” semua yang dia miliki untuk memperoleh dan memiliki harta rahsia ini (Flp. 3:4-8). Wajahnya memberitahu orang lain bahawa dia tahu sesuatu yang orang lain tidak tahu. Walau bagaimanapun, tidak seperti pemburu harta karun (Mat. 13:44) atau tidak seperti hamba yang tidak setia (Mat. 25:18), Paul tidak menyembunyikan harta misterinya di dalam tanah. Sebaliknya, apabila Tuhan mendedahkan misteri-Nya kepadanya, Paul memulakan perjalanan ke seluruh dunia untuk memberitahu semua orang tentang misteri ini. Misteri ini adalah tentang hakikat bahawa Tuhan adalah cinta. Dia mencipta kita daripada cinta, Dia mati menggantikan kita kerana Dia adalah cinta. Dia membangkitkan kita untuk tinggal bersama-Nya dalam Roh dalam kediaman-Nya yang kudus kerana Dia adalah kasih. Dia berjuang untuk kita kerana Dia adalah cinta. Dan Dia akan kembali untuk kita kerana Dia adalah kasih. Misteri itu, dalam kata-kata Paulus sendiri, “adalah Kristus di dalam kamu, pengharapan akan kemuliaan” (Kol. 1:27, NASB).
 
-Berakhirnya Kontroversi Besar
+**Berakhirnya Kontroversi Besar**
 
 Suatu hari nanti, sejarah dosa akan berakhir, tetapi misteri Tuhan tidak akan habis. Menggambarkan berakhirnya kontroversi besar itu, bahasa dan etos Ellen G. White sepenuhnya mengharmonikan dan bergema dengan semangat tinggi Paulus dalam Suratnya kepada Jemaat Efesus:
 
@@ -49,12 +49,14 @@ Suatu hari nanti, sejarah dosa akan berakhir, tetapi misteri Tuhan tidak akan ha
 
 #### Bahagian III: Penerapan Hidup
 
-1. Ini adalah kajian ringkasan. Galakkan pelajar anda untuk membuat ringkasan mereka sendiri tentang Efesus dan berkongsi dengan kelas Sekolah Sabat.
+1\. Ini adalah kajian ringkasan. Galakkan pelajar anda untuk membuat ringkasan mereka sendiri tentang Efesus dan berkongsi dengan kelas Sekolah Sabat.
 
-2. Apakah tiga tema utama yang terkandung dalam surat Paulus kepada jemaat Efesus? Bagaimanakah tema ini berkaitan antara satu sama lain? Minta pelajar anda mengenal pasti tema yang mereka anggap sebagai yang utama dan tema yang mereka anggap sebagai subordinat.
+2\. Apakah tiga tema utama yang terkandung dalam surat Paulus kepada jemaat Efesus? Bagaimanakah tema ini berkaitan antara satu sama lain? Minta pelajar anda mengenal pasti tema yang mereka anggap sebagai yang utama dan tema yang mereka anggap sebagai subordinat.
 
-3. Jemput pelajar anda untuk membayangkan bahawa mereka dijemput untuk membina sebuah gereja baru di kawasan yang tidak diinjili. Bagaimanakah Surat Paulus kepada Jemaat Efesus dapat membantu mereka mempersiapkan diri untuk projek yang begitu berani? Minta pelajar anda untuk mengenal pasti tema dalam Efesus yang akan membentuk mesej penginjilan untuk kawasan baharu ini. Dalam susunan apakah pelajar anda akan menyampaikan tema ini? Juga, minta pelajar anda untuk mengenal pasti prinsip yang mereka boleh membantu menubuhkan gereja yang bertenaga, sedekat mungkin dengan contoh rasul Paulus yang dibayangkan dan dikongsi dalam suratnya.
+3\. Jemput pelajar anda untuk membayangkan bahawa mereka dijemput untuk membina sebuah gereja baru di kawasan yang tidak diinjili. Bagaimanakah Surat Paulus kepada Jemaat Efesus dapat membantu mereka mempersiapkan diri untuk projek yang begitu berani? Minta pelajar anda untuk mengenal pasti tema dalam Efesus yang akan membentuk mesej penginjilan untuk kawasan baharu ini. Dalam susunan apakah pelajar anda akan menyampaikan tema ini? Juga, minta pelajar anda untuk mengenal pasti prinsip yang mereka boleh membantu menubuhkan gereja yang bertenaga, sedekat mungkin dengan contoh rasul Paulus yang dibayangkan dan dikongsi dalam suratnya.
 
 Prinsip yang dicadangkan oleh pelajar anda seharusnya berguna dalam mengembangkan gereja yang penuh dengan kegembiraan keselamatan. Apakah asas tambahan yang dapat pelajar anda kenal pasti yang akan membantu menyatukan ahli baru dalam Kristus dan menyatukan mereka bersama dalam kehidupan dan misi gereja? Prinsip apakah yang akan mengilhami gereja untuk didorong oleh kuasa Roh Kudus melalui karunia rohani?
 
-4. Arahkan ahli kelas untuk mengenal pasti prinsip-prinsip daripada Efesus yang kita pelajari pada suku tahun ini yang akan membantu ahli-ahli gereja mencapai gaya hidup yang selaras dengan injil, prinsip-prinsip yang akan menumbuhkan keluarga yang bahagia dan membina hubungan yang sihat antara pelbagai kumpulan.
+4\. Arahkan ahli kelas untuk mengenal pasti prinsip-prinsip daripada Efesus yang kita pelajari pada suku tahun ini yang akan membantu ahli-ahli gereja mencapai gaya hidup yang selaras dengan injil, prinsip-prinsip yang akan menumbuhkan keluarga yang bahagia dan membina hubungan yang sihat antara pelbagai kumpulan.
+
+` `
