@@ -1,0 +1,20 @@
+---
+  title: "Der Brief an die Epheser"
+  description: "Im Epheserbrief berichtet uns Paulus von den Ephesern. Jahre nach den aufregenden Ereignissen der ersten Tage der christlichen Mission in Ephesus rangen die Epheser mit der Bedeutung ihres christlichen Glaubens."
+  human_date: "Juli · August · September 2023"
+  start_date: "24/06/2023"
+  end_date: "29/09/2023"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Dr. John K. McVay"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: Redakteurin
+      value: "Soraya Homayouni"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"

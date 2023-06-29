@@ -29,15 +29,12 @@ Lesson Themes: This week’s lesson highlights three major themes:
 
 Throughout his Epistle to the Ephesians, Paul uses several conclusive expressions, such as:
 
-•	dia touto (Eph. 1:15, Eph. 5:17, Eph. 6:13, meaning “through,” “because of,” “on account of”),
+* dia touto (Eph. 1:15, Eph. 5:17, Eph. 6:13, meaning “through,” “because of,” “on account of”),
+* dio (Eph. 2:11, Eph. 3:13, Eph. 4:25, Eph. 5:14, meaning “wherefore,” “on which account,” “therefore”),
+* oun (Eph. 4:1; Eph. 5:1, 7; Eph. 6:14, meaning “therefore,” “then”), and
+* toutou charin (Eph. 3:1, 14, meaning “in favor of,” “for the pleasure of,” “for the sake of,” “by reason of,” “on account of”).
 
-•	dio (Eph. 2:11, Eph. 3:13, Eph. 4:25, Eph. 5:14, meaning “wherefore,” “on which account,” “therefore”),
-
-•	oun (Eph. 4:1; Eph. 5:1, 7; Eph. 6:14, meaning “therefore,” “then”), and
-
-•	toutou charin (Eph. 3:1, 14, meaning “in favor of,” “for the pleasure of,” “for the sake of,” “by reason of,” “on account of”).
-
-In English translations, such as the NASB, these phrases are translated as “therefore” (Eph. 2:11; Eph. 3:13; Eph. 4:1, 25; Eph. 5:1, 7, 17; Eph. 6:13, 14) or “for this reason” _(Eph. 1:15; Eph. 3:1, 14; Eph. 5:14)_. Thus, Paul first states and describes a theological reality or truth as a foundational section. Then, he develops a “therefore” section to apply these ideas to the life of the church. However, sometimes Paul uses a “therefore” or application section as the foundation section for another “application” or “therefore” section. In this way, Paul progressively expands, develops, and enriches the horizon of his thought on the gospel, the church, and Christian life.
+In English translations, such as the NASB, these phrases are translated as “therefore” (Eph. 2:11; Eph. 3:13; Eph. 4:1, 25; Eph. 5:1, 7, 17; Eph. 6:13, 14) or “for this reason” (Eph. 1:15; Eph. 3:1, 14; Eph. 5:14). Thus, Paul first states and describes a theological reality or truth as a foundational section. Then, he develops a “therefore” section to apply these ideas to the life of the church. However, sometimes Paul uses a “therefore” or application section as the foundation section for another “application” or “therefore” section. In this way, Paul progressively expands, develops, and enriches the horizon of his thought on the gospel, the church, and Christian life.
 
 In Ephesians 1:11–14, Paul summarizes the essence of the gospel, the platform upon which he places his “for this reason” theology (Eph. 1:15, NASB) and shows how the gospel relates to the church (Eph. 1:15–23), which is comprised of “saints” (Eph. 1:15, 18). The Christians or the saints are those who have faith in Jesus (Eph. 1:15), have “the spirit of wisdom and revelation” in knowing God (Eph. 1:17), and have been enlightened to know Christ’s calling, the inheritance He wants to give us and the superpower of His resurrection (Eph. 1:18, 19). These saints are the church, or Christ’s body (Eph. 1:22, 23). This example of Paul’s “for this reason” theology is the essence of the church.
 
@@ -73,8 +70,8 @@ For this reason, the Seventh-day Adventist Church felt the need to express this 
 
 #### Part III: Life Application
 
-1.	Some Seventh-day Adventist Church buildings are closed for much of the week. In contrast, the divine worship services on the Sabbath days are sometimes agglomerated with program items that allow only for a limited time for individual or corporate prayer. Encourage your students, together with their local church, to develop a plan to transform the church, both as a congregation and as a building, into a house or space for continuous prayer for all the community and visitors throughout the week.
+1\. Some Seventh-day Adventist Church buildings are closed for much of the week. In contrast, the divine worship services on the Sabbath days are sometimes agglomerated with program items that allow only for a limited time for individual or corporate prayer. Encourage your students, together with their local church, to develop a plan to transform the church, both as a congregation and as a building, into a house or space for continuous prayer for all the community and visitors throughout the week.
 
-2.	Invite your students to think of ways that their families and church may become centers where people in the community could experience the power of Christ. How could you help the people in your community overcome the various fears that hold them in bondage to the powers of the universe, technology, self, or other humans, as well as to demonic powers?
+2\. Invite your students to think of ways that their families and church may become centers where people in the community could experience the power of Christ. How could you help the people in your community overcome the various fears that hold them in bondage to the powers of the universe, technology, self, or other humans, as well as to demonic powers?
 
-3.	Ask class members to imagine that they each have been invited to preach on fundamental belief 11. What three ideas would constitute the main points of their sermon?
+3\. Ask class members to imagine that they each have been invited to preach on fundamental belief 11. What three ideas would constitute the main points of their sermon?
