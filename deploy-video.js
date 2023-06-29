@@ -93,11 +93,11 @@ let videoAPI = async function (mode) {
 
     let videoLanguages = glob.sync(`${SOURCE_DIR}/${compile_language}`)
     let availableLanguages = []
+    let curlConfig = ""
 
     for (let videoLanguage of videoLanguages) {
         let languageVideos = []
         let videos = glob.sync(`${videoLanguage}/${compile_quarter}/${SOURCE_VIDEO_FILE}`);
-        let curlConfig = ""
         let languageInfo = getInfoFromPath(videoLanguage)
 
         for (let video of videos) {
@@ -274,11 +274,11 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
             availableLanguages.push(languageInfo.language)
             fs.outputFileSync(`${DIST_DIR_V2}${languageInfo.language}/video/latest.json`, JSON.stringify(languageVideos));
         }
+    }
 
-        if (mode === "gen" && curlConfig.trim().length > 1) {
-            console.log(curlConfig)
-            fs.outputFileSync(`curl-config.txt`, curlConfig);
-        }
+    if (mode === "gen" && curlConfig.trim().length > 1) {
+        console.log(curlConfig)
+        fs.outputFileSync(`curl-config.txt`, curlConfig);
     }
 
     if (availableLanguages.length) {
