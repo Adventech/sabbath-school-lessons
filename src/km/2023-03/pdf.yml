@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-Intro.pdf
+      title: Introduction
+      target: km/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-01.pdf
+      target: km/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-02.pdf
+      target: km/2023-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-03.pdf
+      target: km/2023-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-04.pdf
+      target: km/2023-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-05.pdf
+      target: km/2023-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-06.pdf
+      target: km/2023-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-07.pdf
+      target: km/2023-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-08.pdf
+      target: km/2023-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-09.pdf
+      target: km/2023-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-10.pdf
+      target: km/2023-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-11.pdf
+      target: km/2023-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-12.pdf
+      target: km/2023-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-13.pdf
+      target: km/2023-03/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/km/2023-03/ABSG-2023-03-KM-14.pdf
+      target: km/2023-03/14
