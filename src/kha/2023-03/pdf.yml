@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-Intro.pdf
+      title: Introduction
+      target: kha/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-01.pdf
+      target: kha/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-02.pdf
+      target: kha/2023-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-03.pdf
+      target: kha/2023-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-04.pdf
+      target: kha/2023-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-05.pdf
+      target: kha/2023-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-06.pdf
+      target: kha/2023-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-07.pdf
+      target: kha/2023-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-08.pdf
+      target: kha/2023-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-09.pdf
+      target: kha/2023-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-10.pdf
+      target: kha/2023-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-11.pdf
+      target: kha/2023-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-12.pdf
+      target: kha/2023-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-13.pdf
+      target: kha/2023-03/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kha/2023-03/ABSG-2023-03-KHA-14.pdf
+      target: kha/2023-03/14
