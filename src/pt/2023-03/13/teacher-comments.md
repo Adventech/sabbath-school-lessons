@@ -1,0 +1,56 @@
+---
+title:  Auxiliar
+date:  22/09/2023
+---
+
+TEXTO-CHAVE: Efésios 6:16,17
+
+FOCO DO ESTUDO: Ef 6:10-20; 1Pe 4:1; 1Pe 5:8; Is 59:17; Is 52:8-10; 1Ts 5:16-18
+
+#### VISÃO GERAL
+
+**Introdução**: Ao listar e descrever a armadura de Deus como itens individuais (cinto, couraça, sapatos, escudo, capacete, espada), Paulo não pretende descrever um guerreiro solitário. Pelo contrário, em grego, ele usa os verbos na segunda pessoa do plural para se dirigir a um exército inteiro: (1) sejam fortalecidos (Ef 6:10); (2) vistam-se com toda a armadura de Deus (Ef 6:11); (3) para poderem ficar firmes (Ef 6:11); (4) porque a nossa luta (Ef 6:12); (5) peguem toda a armadura (Ef 6:13) e (6) fiquem firmes. De fato, todos ou a maioria dos outros verbos que Paulo usa ao se dirigir à igreja estão no plural. Por seu uso do plural, Paulo retrata diante de nossos olhos o glorioso exército de bravos soldados de Deus totalmente equipados para a missão.
+
+Mas qual é a missão desse exército? Eles estão blindados e prontos para proclamar ao Universo uma mensagem de Deus, a mensagem de que Ele traz paz ao Universo, às pessoas na Terra, paz entre as nações, nas comunidades, nas famílias, entre gerações e classes. Contudo, essa paz não é alcançada por meio de concessão ou sincretismo, em que todas as partes no conflito garantem a aceitação de uma parte de sua própria visão de mundo, seus valores ou projetos. Em vez disso, Deus trouxe paz ao revelar Seu amor e justiça na cruz e, assim, vencer a batalha contra Seus acusadores e inimigos. Quando as pessoas aceitam o que o Senhor Jesus fez na cruz, Deus alegremente as abençoa com a justiça de Cristo. É essa justiça e esse amor que traz paz entre os seres humanos e Deus, entre as pessoas e para todo o Universo. É essa paz que os cristãos proclamam. A história das nações, das religiões, da cultura, da filosofia, da psicologia e da ciência mostrou que não há outro caminho para alcançar a paz. Pelo fato de que os cristãos experimentaram essa paz na vida, na família, na comunidade e na igreja, eles podem proclamá-la a toda a humanidade e a todo o Universo.
+
+**Temas da lição**: O estudo desta semana se concentra em quatro temas relacionados:
+
+1. A igreja está envolvida no conflito cósmico com a missão de proclamar o evangelho da paz;
+
+2. Não estamos lutando sozinhos nessa batalha: Estamos lutando “no Senhor” e em Sua armadura;
+
+3. Não estamos Lutando como guerreiros solitários, mas como o exército de Deus, o Seu povo;
+
+4. Não estamos travando uma batalha sem fim e incerta, mas uma batalha que já tem um desfecho certo: na cruz, Deus conquistou a vitória sobre o pecado, o mal,a morte e Satanás.
+
+#### COMENTÁRIO
+
+**Guerra e paz**
+
+Paulo inicia o fragmento de Efésios 6:10-17 com uma tríplice referência ao poder (Ef 6:10), usando três palavras diferentes: o verbo *endunamoó*, “fortalecer”, e dois substantivos, *kratos*, “força” ou “ poder”, e *ischus*, “resistência”, “poder”, “força” ou “habilidade”. O apóstolo usou as mesmas palavras, todas as três em forma de substantivo, no início de sua epístola (Ef 1:19-21) ao descrever a grandeza e o poder de Deus, conforme revelados em Cristo. No fim de sua carta (Ef 6), Paulo diz aos efésios que esse poder está disponível para eles. O apóstolo apela para o tema do poder porque está introduzindo o tema do conflito, da guerra, da luta e da superação.
+
+Infelizmente, a vida cristã está intimamente relacionada com luta e superação. É verdade que todas as religiões, filosofias, ciências, toda a literatura e toda história - na verdade, todas as narrativas como evolucionismo, marxismo, nazismo - percebem e descrevem a vida como uma luta, como um conflito. De fato, quem quer vender uma história precisa fazer um enredo de conflito e luta. Nessas histórias, o protagonista, ou herói, luta contra algo ou alguém, por exemplo, um protagonista luta contra um superpoder, outro herói Luta para superar um buraco negro, um terceiro herói Luta contra uma doença incurável.
+
+Contudo, Paulo explica que a luta do cristão é contra as “ciladas do diabo” (Ef 6:11). A guerra que ele descreve “não é contra o sangue e a carne, mas contra os principados e as potestades, contra os dominadores deste mundo tenebroso, contra as forças espirituais do mal, nas regiões celestiais” (Ef 6:12; veja também Ef 1:19-21,; Ef 2:6; Ef 3:10). Essa batalha espiritual nas “regiões celestiais” tem repercussões diretas e cruciais em nossa vida. Estamos diretamente envolvidos nessa guerra e devemos escolher um lado. No entanto, em toda a epístola, o apóstolo explica que não estamos envolvidos nessa guerra simplesmente porque duas superpotências estão Lutando e somos vítimas colaterais inocentes, enredadas ou apanhadas nessa batalha contra nossa vontade.
+
+Na verdade, é o contrário disso. Foi Deus que Se envolveu nessa batalha por nós. Fomos nós que nos aliamos às forças das trevas para lutar contra Deus. Em vez de nos destruir, Deus Se ofereceu para lutar pela nossa salvação. Ele tomou sobre Si a nossa culpa e o nosso pecado, Ele morreu em nosso Lugar para que pudesse nos trazer paz, a fim de que pudesse nos restaurar ao nosso estado de direito em Seu reino.
+
+É por isso que, quando nos tornamos cristãos, aceitamos a oferta da paz de Deus, aceitamos Seu chamado para experimentá-la e desejamos compartilhá-la com pessoas que ainda estão em guerra com Deus. Não nos unimos a Cristo a partir de uma posição neutra, mas a partir da linha dos inimigos de Deus. Quando nos unimos ao exército de Cristo, somos atacados pelo diabo e por todas as forças do mal que trabalham em nós também. Nessa batalha, precisamos da armadura de Deus e da arma da proclamação do Seu evangelho da paz. Analise essa profunda visão de Ellen G. White:
+
+“Muitos não consideram esse conflito entre Cristo e Satanás como tendo relação especial com sua vida e pouco se interessam por ele. No entanto, essa Luta se repete em cada coração. Ninguém abandona o exército do mal e entra no serviço de Deus sem enfrentar os ataques de Satanás. As sedutoras sugestões as quais Cristo resistiu são as mesmas que achamos tão difícil vencer. A pressão contra Ele era proporcional à superioridade de Seu caráter em relação ao nosso. Com o terrível peso dos pecados do mundo sobre Si, Cristo suportou a prova quanto ao apetite, ao amor ao mundo e à ostentação que induz à soberba. Foram essas as tentações que derrotaram Adão e Eva e tão rapidamente nos vencem” (O Desejado de Todas as Nações [CPB, 2021], p. 83).
+
+**O grande conflito**
+
+Em sua abrangente obra, *Systematic Theology* [Teologia Sistemática], Norman Gulley destaca que a teologia cristã geralmente tem omitido o tema do conflito cósmico ou do grande conflito. (Ver Norman Gulley, *Systematic Theology: The Church and the Last Things* [*Berrien Springs, MI: Andrews University Press*, 2016], v. 4, p. 478). Enquanto para outros cristãos o grande conflito (o conflito cósmico espiritual entre Deus e as forças malignas de Satanás) é um dos detalhes mais relacionados à teodiceia, para Ellen G. White. e os Adventistas do Sétimo Dia, o grande conflito é a doutrina abrangente que integra não apenas sistemática, mas historicamente todas as outras doutrinas. Para os Adventistas do Sétimo Dia, o tema do grande conflito não é apenas um sistema de doutrinas, mas uma história, a história de Deus. É a história de Seu ato amoroso de criação, da nossa rebelião contra Ele e de Seu amor sacrifical por nós; da Sua intervenção direta na história do nosso mundo por meio da encarnação, da Sua morte na cruz, ressurreição e ascensão; de Seu desejo e de Sua obra para restaurar nosso relacionamento com Ele; de Sua restauração da unidade e do amor na humanidade por intermédio da igreja; de Suas promessas de pôr fim à história do pecado e do mal e de Sua promessa de nos conduzir à Sua alegria e paz eternas. Por essa razão, os Adventistas do Sétimo Dia expressaram o tema do grande conflito como a crença fundamental 8, votada pela Assembleia da Associação Geral em 1980:
+
+“Toda a humanidade está agora envolvida num grande conflito entre Cristo e Satanás, quanto ao caráter de Deus, Sua lei e Sua soberania sobre o Universo. Esse conflito se originou no Céu quando um ser criado, dotado de Liberdade de escolha, por exaltação própria se tornou Satanás, o adversário de Deus, e conduziu à rebelião uma parte dos anjos. Ele introduziu o espírito de rebelião neste mundo, ao induzir Adão e Eva ao pecado. Esse pecado humano resultou na deformação da imagem de Deus na humanidade, no transtorno do mundo criado e em sua consequente devastação por ocasião do dilúvio mundial. Observado por toda a criação, este mundo se tornou o palco do conflito universal, dentro do qual será finalmente vindicado o Deus de amor. Para ajudar Seu povo nesse conflito, Cristo envia o Espírito Santo e os anjos leais, para os guiar, proteger e amparar no caminho da salvação.” (Associação Ministerial da Associação Geral dos Adventistas do Sétimo Dia, Nisto Cremos: As 28 Crenças Fundamentais da Igreja Adventista do Sétimo Dia, 8º ed. [Tatuí, SP: Casa Publicadora Brasileira, 2008], p. 125).
+
+Herbert E. Douglass explica de forma rica e habilidosa o papel que o tema do grande conflito (TGC) desempenha na teologia adventista do sétimo dia: “Para os Adventistas do Sétimo Dia, o TGC é o conceito central que traz coerência a todos os assuntos bíblicos. Ele transcende as antigas divisões que fraturaram a igreja cristã por séculos. Traz paz aos adversários teológicos que de repente veem em uma nova harmonia as verdades as quais cada um vinha defendendo vigorosamente. Nisso reside a singularidade do adventismo. Essa singularidade não é um elemento particular de sua teologia, como sua doutrina do santuário. Em vez disso, a distinção do adventismo repousa em sua compreensão geral da mensagem central da Bíblia que é governada por seu princípio governante seminal: o tema do grande conflito” (*Ministry*, dezembro de 2000, p. 5).
+
+#### APLICAÇÃO À VIDA
+
+Peça aos alunos que leiam e discutam as seguintes perguntas:
+
+1. Quais são algumas das maneiras pelas quais a linguagem é militarizada na vida cotidiana? Pense também na Linguagem bastante “combativa” que alguns de nossos hinos, nossos poemas e nossas passagens bíblicas usam. Como Adventistas do Sétimo Dia, é muito claro que aplicamos essa linguagem e expressões de forma espiritual. No entanto, essa linguagem pode ser mal compreendida pelas pessoas ao nosso redor, que consideram o cristianismo, em geral, e o adventismo do sétimo dia, em particular, como uma religião de paz. Como podemos manter o espírito bíblico de Lutar contra as forças espirituais do mal no contexto do grande conflito ao passo que ajudamos nossos amigos e nossa comunidade a entender que nossa igreja é uma comunidade de amor, graça e paz de Deus? Discuta sua resposta não apenas com a classe da Escola Sabatina, mas também com sua igreja.
+
+2. Imagine que sua igreja seja convidada a se envolver em projetos de promoção da paz em sua comunidade, sua região ou seu país. De que maneira ela pode fazer isso? Como a sua igreja pode garantir que esse envolvimento não seja político, mas fundamentado nos ensinamentos de Jesus e dos apóstolos no contexto dos temas bíblicos do grande conflito e do evangelho?
