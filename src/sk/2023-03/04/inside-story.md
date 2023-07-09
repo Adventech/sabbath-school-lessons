@@ -3,7 +3,7 @@ title:  Misijný príbeh
 date:   21/07/2023
 ---
 
-#### Vystrašená v Rusku: Část 1
+#### Vystrašená v Rusku: 1. část
 
 _Andrew McChesney_
 
