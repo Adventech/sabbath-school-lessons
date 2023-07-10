@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-Intro.pdf'
+      target: en/2023-03-rt/introduction
+      title: Introduction
+      start_date: 24/06/2023
+      end_date: 24/06/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L01.pdf'
+      target: en/2023-03-rt/01
+      title: "Growing Stronger In Jesus"
+      start_date: 24/06/2023
+      end_date: 30/06/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L02.pdf'
+      target: en/2023-03-rt/02
+      title: "Dealing With Addictions, Part 1"
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L03.pdf'
+      target: en/2023-03-rt/03
+      title: "Dealing With Addictions, Part 2"
+      start_date: 08/07/2023
+      end_date: 14/07/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L04.pdf'
+      target: en/2023-03-rt/04
+      title: "Friendship"
+      start_date: 15/07/2023
+      end_date: 21/07/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L05.pdf'
+      target: en/2023-03-rt/05
+      title: "Guys and Girls, Part 1"
+      start_date: 22/07/2023
+      end_date: 28/07/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L06.pdf'
+      target: en/2023-03-rt/06
+      title: "Guys and Girls, Part 2"
+      start_date: 29/07/2023
+      end_date: 04/08/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L07.pdf'
+      target: en/2023-03-rt/07
+      title: "Setting Standards"
+      start_date: 05/08/2023
+      end_date: 11/08/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L08.pdf'
+      target: en/2023-03-rt/08
+      title: "God Is Holy!"
+      start_date: 12/08/2023
+      end_date: 18/08/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L09.pdf'
+      target: en/2023-03-rt/09
+      title: "Quiet Desperation"
+      start_date: 19/08/2023
+      end_date: 25/08/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L10.pdf'
+      target: en/2023-03-rt/10
+      title: "God’s Way Is Best"
+      start_date: 26/08/2023
+      end_date: 01/09/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L11.pdf'
+      target: en/2023-03-rt/11
+      title: "God’s Witnesses"
+      start_date: 02/09/2023
+      end_date: 08/09/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L12.pdf'
+      target: en/2023-03-rt/12
+      title: "Make a Joyful Noise"
+      start_date: 09/09/2023
+      end_date: 15/09/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L13.pdf'
+      target: en/2023-03-rt/13
+      title: "Family Matters"
+      start_date: 16/09/2023
+      end_date: 22/09/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q3/English/Student/R-23-Q3-L14.pdf'
+      target: en/2023-03-rt/14
+      title: "Judging"
+      start_date: 23/09/2023
+      end_date: 29/09/2023

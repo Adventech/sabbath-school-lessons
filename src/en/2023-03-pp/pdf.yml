@@ -1,0 +1,93 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-Intro.pdf'
+      target: en/2023-03-pp/introduction
+      title: Introduction
+      start_date: 24/06/2023
+      end_date: 24/06/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L01.pdf'
+      target: en/2023-03-pp/01
+      title: Long-range Weather Forecast
+      start_date: 24/06/2023
+      end_date: 30/06/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L02.pdf'
+      target: en/2023-03-pp/02
+      title: Family Influence
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L03.pdf'
+      target: en/2023-03-pp/03
+      title: God's Rescue Plan
+      start_date: 08/07/2023
+      end_date: 14/07/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L04.pdf'
+      target: en/2023-03-pp/04
+      title: Colors of Promise
+      start_date: 15/07/2023
+      end_date: 21/07/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L05.pdf'
+      target: en/2023-03-pp/05
+      title: Stand Still, Watch, Then Sing
+      start_date: 22/07/2023
+      end_date: 28/07/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L06.pdf'
+      target: en/2023-03-pp/06
+      title: Who's In Charge?
+      start_date: 29/07/2023
+      end_date: 04/08/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L07.pdf'
+      target: en/2023-03-pp/07
+      title: The Lord Is My Banner
+      start_date: 05/08/2023
+      end_date: 11/08/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L08.pdf'
+      target: en/2023-03-pp/08
+      title: Under Construction
+      start_date: 12/08/2023
+      end_date: 18/08/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L09.pdf'
+      target: en/2023-03-pp/09
+      title: Spy Service
+      start_date: 19/08/2023
+      end_date: 25/08/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L10.pdf'
+      target: en/2023-03-pp/10
+      title: Adventure and Challenge
+      start_date: 26/08/2023
+      end_date: 01/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L11.pdf'
+      target: en/2023-03-pp/11
+      title: Across the Jordan
+      start_date: 02/09/2023
+      end_date: 08/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L12.pdf'
+      target: en/2023-03-pp/12
+      title: Victory and Defeat
+      start_date: 09/09/2023
+      end_date: 15/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L13.pdf'
+      target: en/2023-03-pp/13
+      title: Whose Side Are You On?
+      start_date: 16/09/2023
+      end_date: 22/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-L14.pdf'
+      target: en/2023-03-pp/14
+      title: Blessed by the Presence
+      start_date: 23/09/2023
+      end_date: 29/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-Activities.pdf'
+      target: en/2023-03-pp/activities
+      title: Activities
+      start_date: 29/09/2023
+      end_date: 29/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-MemoryVerses.pdf'
+      target: en/2023-03-pp/memory-verses
+      title: Memory Verses
+      start_date: 29/09/2023
+      end_date: 29/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q3/English/Student/PP-23-Q3-Parents.pdf'
+      target: en/2023-03-pp/parents
+      title: Parents
+      start_date: 29/09/2023
+      end_date: 29/09/2023
+

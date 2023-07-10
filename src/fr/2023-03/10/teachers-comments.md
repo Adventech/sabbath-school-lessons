@@ -1,0 +1,68 @@
+---
+title:  Approfondissement
+date:   01/09/2023
+---
+
+### Ire partie: Aperçu
+
+**Verset de base**: Éphésiens 5:25-27
+
+**Lecture**: Eph. 5:21-33; Phil. 2:3, 4; Ézéchiel. 16:1-14; 2 Cor. 11:1-4; Genèse 2:15-25
+
+**Introduction**: Le thème de l’unité est présent tout au long de la lettre de Paul aux Éphésiens. L’unité ne s’applique pas seulement à la relation entre les Juifs et les Gentils dans l’église (Éphésiens 2). Tout au long de l’épitre, Paul discute de la façon dont l’unité est réalisée par le Dieu de la trinité; par le salut; par le baptême; par la foi; par des dons spirituels; par la présence de l’Esprit Saint en nous; par la transformation de notre vie, selon le modèle de Christ; et par la sagesse chrétienne. En fin de compte, pour Paul, l’unité dans tous ses aspects n’est possible qu’en Christ
+
+Paul apporte à sa juste place toute sa discussion sur l’unité de l’église en tant que nouvelle humanité: la famille. S’il y a un exemple ou un modèle d’unité, c’est bien la famille. La famille ne peut être vraiment unie qu’en Christ, tout comme les Païens et les Juifs sont unis en Christ et les membres de l’église sont unis dans un seul corps, le corps de Christ. Dans la famille, les femmes se soumettront au mari en Christ et le mari aimera la femme « dans le Seigneur ». L’aspect divin dans la relation conjugale signifie que nous devons voir la famille telle que Dieu la voit. Cet aspect divin signifie aussi que la famille doit remplir la fonction et le but que le Seigneur lui a donnés à la création: « une seule chair », une unité indivisible. Les deux ne font qu’un, mais pas seulement à cause des avantages mutuels, mais parce que Dieu les a créés ainsi, parce que Dieu leur a demandé de l’être. L’unité de la famille pointe au-delà d’elle-même, tout comme l’unité de l’église indique l’unité du Dieu trine et Sa relation avec l’humanité
+
+**Thèmes de la leçon**: Cette étude se centre sur trois grands thèmes:
+
+1. Le thème de l’unité de Paul se poursuit avec la famille chrétienne, comme le révèle la relation entre le mari et la femme
+2. La seule façon dont une vraie famille chrétienne peut garder son unité est d’être « dans le Seigneur », ce qui signifie qu’ils se soumettent les uns aux autres comme Dieu l’avait voulu à la création et comme le confirme l’amour sacrificiel de Jésus pour l’humanité dans Son plan du salut
+3. Une famille qui est vraiment « dans le Seigneur » ne connaitrait pas de relations abusives, comme l’adultère ou la violence, parce que le mari et la femme apprendraient à se respecter et à s’aimer mutuellement dans le Seigneur
+
+### IIe partie: Commentaire
+
+**La théologie de Paul sur la famille**
+
+Éphésiens 5:21-33 est une discussion christologique et ecclésiologique profonde. Comme ailleurs dans ses épitres, Paul mêle une solide discussion théologique (la doctrine de Christ et la doctrine de l’église) dans ses considérations pratiques. Selon Paul, la théologie biblique n’existe pas simplement dans le seul but de concevoir un système intellectuel cohérent et beau; le message pratique de l’apôtre est toujours construit sur le fondement solide de la théologie biblique. Pour cette raison, l’apôtre n’aborde pas la discussion sur la famille comme s’il s’agissait d’un sujet marginal qui pourrait être abordé avec quelques solutions tirées de la sagesse humaine générale, de la psychologie ou de la sociologie. Au contraire, il place sa discussion sur la famille dans le contexte des doctrines chrétiennes fondamentales: Dieu, la création, Christ, le salut et l’église. En effet, Paul n’utilise pas la famille pour illustrer ces doctrines, il utilise plutôt ces doctrines pour illustrer la famille chrétienne!
+
+Comme dans le cas de l’église, Paul n’accepte pas que l’approche de la famille chrétienne soit déterminée par les réalités de notre nature humaine et de notre société déchue. Au contraire, il suit le principe d’interprétation de Jésus: « au commencement » ( « au commencement, il n’en était pas ainsi » Matt. 19:8, LSG), qui aide l’église chrétienne et sa théologie à s’orienter vers la restauration des idéaux de Dieu pour nous, au lieu de légitimer les réalités du monde pécheur. Le traitement du sujet de la famille par Paul dans le contexte de ces doctrines chrétiennes fondamentales montre que la famille chrétienne ne peut être soumise à des compromis
+
+**Se soumettre et aimer**
+
+Le langage de soumission et d’amour de Paul, faisant référence aux relations hommes-femmes, a provoqué de nombreux débats, attirant même quelques condamnations du christianisme comme étant misogyne. Cependant, ces réactions sont basées sur une mauvaise compréhension du message de Paul. Plusieurs points peuvent nous aider à mieux comprendre ce passage:
+
+(1) Les attitudes du mari et de la femme viennent du contexte de la soumission l’un à l’autre (Eph. 5:21), à la suite du fait d’être remplis du Saint-Esprit (Eph. 5:18)
+
+(2) La femme se soumet à son mari, non pas comme à un patron, mais comme à Christ, son Sauveur et Protecteur. Le sens de la soumission est de tenir son mari en haute estime, en le respectant, reconnaissant sa valeur et l’appréciant comme son protecteur et son aide. La Bible ne donne aucun fondement à l’idée de considérer la femme comme étant inférieure à son mari et, par conséquent, exiger sa soumission à lui comme à un supérieur. Au contraire, Paul enseigne ici la bonne attitude d’humilité et de respect que la femme devrait avoir pour son mari. Le fait que le christianisme proclame la dignité égale des hommes et des femmes en Christ ne doit pas conduire les femmes à adopter une attitude d’arrogance et de supériorité envers leurs maris. Au contraire, l’attitude de la femme doit être une attitude de fidélité aimante et solidaire
+
+(3) Les maris, à leur tour, devraient se rappeler que les femmes perçoivent l’amour en termes de soins et de protection. L’amour du mari pour sa femme est comme l’amour sacrificiel du Seigneur pour l’église. Paul enseigne aux hommes à avoir la bonne attitude d’humilité, d’appréciation et d’amour pour leur femme
+
+(4) Certes, Paul compare la soumission de la femme à la soumission de l’église, et l’amour du mari à l’amour de Christ; mais Paul ne fait pas cette comparaison de manière fortuite, en mélangeant des concepts théologiques, fournissant ainsi un terrain pour des relations hiérarchiques entre les hommes et les femmes ou une vision sacramentelle du mariage. Au contraire, l’apôtre nuance immédiatement sa comparaison et explique très soigneusement ce qu’il voulait dire exactement et quels sont les points de comparaison. Cette comparaison fait référence aux attitudes et aux formes de soumission les uns aux autres et à l’expression de l’amour
+
+Jean Chrysostome (347-407 apr. JC), le célèbre prédicateur et patriarche de l’église de Constantinople, a utilisé ses meilleures compétences homilétiques pour décrire l’amour du mari pour sa femme:
+
+« Tu veux que ta femme t’obéisse, comme l’église à Christ? Veille donc sur elle, comme Christ sur l’église. Il faut donner ta vie pour elle, être déchiré mille fois, tout souffrir, tout endurer, ne recule devant rien. Quand tu auras fait tout cela, tu n’auras encore rien fait de comparable à ce qu’a fait Christ… Car avant de te dévouer pour ta femme, tu es uni à elle. Tout comme Christ s’est immolé pour ceux qui Le haïssaient et L’avaient en aversion, fais donc pour ta femme ce qu’il a fait pour ce peuple qui Le haïssait, L’abhorrait, Le méprisait, L’insultait. Sans menaces, sans injures, sans terreur, par l’unique instrument de Son infinie sollicitude, Il a amené Son église à Ses pieds. De même, même quand ta femme ne te témoigne que dédain, mépris, insolence, il ne tient qu’à toi de la ramener à tes pieds à force de bonté, d’amour, de tendresse. Car il n’y a pas d’attache plus forte, principalement entre homme et femme. On peut faire peur à un serviteur et lier ses mains, mais même dans ce cas, tardera-t-il à s’échapper? Mais la compagne de ta vie, la mère de tes enfants, la source de ton bonheur, ce n’est point par la crainte, par les menaces qu’il faut l’enchainer, mais par l’amour et l’affection. Qu’est-ce qu’un ménage où la femme tremble devant le mari? Quelle joie y a-t-il pour l’époux, quand il vit avec son épouse comme avec une esclave, et non comme avec une femme libre? Quand bien même vous auriez souffert quelque chose pour elle, ne lui reprochez pas: suivez en cela même l’exemple de Christ. » Homélie de Saint Jean Chrysostome, archevêque de Constantinople, sur l’épitrede saint Paul, l’apre aux Éphésiens
+
+**La doctrine adventiste sur le mariage et la famille**
+
+La théologie de la famille est si importante que certaines églises chrétiennes incluent la famille dans la liste de leurs doctrines (voir, par exemple, la Confession de foi de Westminster, article XXIV). Malheureusement, certaineséglises, telles que l’Église Catholique romaine, l’Église orthodoxe orientaleet l’Église anglicane, sont allées à l’extrême pour considérer le mariage et la famille comme un sacrement
+
+Le point de vue des adventistes du septième jour sur la famille, en particulier sur la relation entre les époux, est exprimé dans la croyance fondamentale 23: « Lemariage a été institué par Dieu en Éden. Jésus déclare qu’il s’agit d’une union à vie entre un homme et une femme qui marchent ensemble dans l’amour. Aux yeux du chrétien, les vœux du mariage l’engagent aussi bien vis-à-vis de Dieu que vis-à-vis de son conjoint et ne devraient être échangés qu’entre un homme et une femme qui partagent la même foi. L’amour, l’estime, la responsabilité et le respect mutuels constituent la trame des liens conjugaux qui doivent refléter l’amour, la sainteté, l’intimité et la permanence des liens unissant Christ à son église… Bien que certaines relations familiales puissent ne pas atteindre l’idéal, l’homme et la femme qui se donnent l’un à l’autre en Christ dans le cadre du mariage peuvent néanmoins trouver l’unité dans l’amour grâce à la direction du Saint-Esprit et au ministère de l’église. Dieu bénit la famille et désire que ses membres se prêtent mutuellement assistance en vue d’atteindre une pleine maturité. Le resserrement des liens familiaux est l’un des signes distinctifs du dernier message évangélique. » Manuel d’église (ed. 2015).
+
+L’Église adventiste fournit également une réflexion supplémentaire sur la famille à travers des déclarations officielles. Sa déclaration de 1996 sur le « mariage » (voirci-dessous) est clairement associée à Éphésiens 5, bien qu’on ne cite pas de références bibliques dans la déclaration. Cependant, plusieurs points de cette déclaration soulignent l’importance théologique du mariage et de la famille:
+
+Tout d’abord, la déclaration relie le mariage à la nature trinitaire du Dieu biblique: « En se basant sur la diversité des deux genres humains, l’unité dans le mariage reflète d’une manière singulière l’unité dans la diversité de la divinité. »
+
+Deuxièmement, la famille symbolise la relation entre Dieu et l’humanité: « Tout au long de l’Écriture, l’union hétérosexuelle dans le mariage est élevée comme un symbole du lien entre Dieu et l’humanité. C’est un témoignage humain de l’amour et de l’alliance de Dieu avec Son peuple. L’affiliation harmonieuse d’un homme et d’une femme dans le mariage fournit un microcosme d’unité sociale intemporelle en tant qu’ingrédient central des sociétés stables. »
+
+Troisièmement, la déclaration souligne que les familles humaines sont dans un état de péché et ont besoin d’être rétablies en Jésus-Christ et dans le Saint-Esprit: « Le mariage ayant été corrompu par le péché, la pureté et la beauté du mariage tel qu’il a été conçu par Dieu doivent être restaurées. Grâce à une appréciation de l’œuvre rédemptrice de Christ et de l’œuvre de Son Esprit dans les cœurs humains, le but originel du mariage peut être restauré et l’homme et la femme qui unissent leur vie dans l’alliance du mariage peuvent en jouir de l’expérience délicieuse et saine » Comité administratif de la Conférence généralede l’Église adventiste du septième jour, « Mariage », 23 avril 1996, disponible en anglais sur https://www.adventist.org/official-statements/mariage/.
+
+L’Église adventiste a publié des déclarations supplémentaires condamnant les abus et la violence conjugale. Voir par exemple la « déclaration sur les abus et la violence familiale », l’affirmation et le soutien des femmes dans divers contextes difficiles telle que la « déclaration sur les questions relatives aux femmes », publiées par le Bureau du Président, Robert S. Folkenberg, lors de la session de la Conférence générale à Utrecht, Pays-Bas, 29 juin – 8 juillet 1995)
+
+### IIIe partie: Application
+
+1\. Ensemble avec les membres de votre classe, pensez aux moyens par lesquels leur famille ou leur église peuvent devenir un centre de réconciliation familiale, où les maris et les femmes de la communauté au sens large peuvent se réconcilier
+
+2\. Demandez aux membres de votre classe d’imaginer qu’elle a été invitée à faire trois présentations dans le cadre d’un projet de promotion des relations chrétiennes entre maris et femmes dans la communauté. Quels sont les trois sujets qu’ils choisiraient et, par conséquent, quels éléments incluraient-ils dans chaque sujet?
+
+3\. Demandez aux membres de votre classe d’identifier et d’expliquer trois différences majeures entre la façon dont la Bible et leur culture locale perçoivent la relation mari-femme dans la famille. Donnez trois moyens par lesquels ils peuvent corriger les relations dans leur propre famille afin d’aborder le modèle biblique des relations mari-femme
