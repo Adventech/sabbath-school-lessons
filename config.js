@@ -275,6 +275,8 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "run": [],
+
   "si": [
     "srov"
   ],
