@@ -1,0 +1,17 @@
+### Ephesians: Zia-etna Hunsung in Zeisu Zuih dingzia
+
+Ephesian laikhak sungah, Paul in Ephesus mite’thu mah hong gen hi. Ephesus khua ah Christian masate in a tuakkhak uh thulamdang teng khitciang in, Ephesian pawlpi mite in amau upna kician mahmah ahihna hong phukha ta uhhi.
+
+Rome gamsung ah khuapi lian leh hau a lina ahi hih khuapi a ding in a lungkham denpa Paul hi a, tu in kiman in thongkiata hi. Thongsung panin laikhak in, Ephesus khua thu-umte in, gamkhangto leh khuapilian Ephesus milim biakna sungkhawng ah “lungkia” in Zeisu’ nungzui ahihna uh amangngilh khak ding dahmahmah hi. Ama thungai mite pen Christian hikhin mahta leh, Paul in mithak mahbang in hilhcian ngiatngiat hi. Christian upna sungah guangphapha in, Christ tungah a ki-aapna uh kuangphasak in, hih pawlpi in zong leitungbup zawhna dingin Pasian khutzat khat a hihna hingpha sak kikkik hi.
+
+Christian upna pen Christ hang ahih manin, Paul in Christ mah zahtak pahtawi ding hanthawn tangtang hi. A hoidengdong Christiante in amau’khe uh tangsak kik ding hileh, Zeisu a itna masa uhmah mankik ding uh a, Ama’ hehpihna leh vangliatna sungmah ah bulphut ding uhhi. Tua ahih manin Paul in Christ pen vantung in, Ephesiante biaknop mahmah pasiante khempeuh tungah lamto mahmah ahihna pulakpha diak hi. Khang tawntungin Zeisu pen Pasian ngiimna bulpi hi a; thu-umte leh pawlpi in, Christ sungah nakhempeuh gawmkhawpna tawh mapang dingin Pasian’ngiimna ahihi.
+
+Paul in Ephesus thu-umte Topa tungah ki-aapthak dingin a sapkawm in, nungzui Christiante ahihna zong mangngilh saklo hi. Christian nundan leh kimkot akibatna pawlkhat hilh hi. Christian peuhmah Kha’mi, Christ zahtak, Pasian makaihna tawh biaknapia cihte pen Paul in genpahpah hi. Christ tungah kipiakna in mikhat gamtat kampau huzaap hi. Christ a itmite in a lawm nungzuite zahtak in vangpia uhhi. Tua zongpen amau gamtatna sungah a kidimlua kha-bulphuhna leh zualzangna teng a langdona zong hipah hi. Innkuansung leh pawlpi sungah zong Kizopna limlim pen Christ hong kipumpiak bang kizopnate hiding hi. Ephesus khua mite ading in mihing nundan athak khat alahna zong hipah hi.  
+
+Pasian’ pawlpimi hihna tungtawnin mihing’ nundanthak ahoihnono tampitak mah Paul in honglak hi. Amah in mihingte lakah Jew leh Gentile (dawibia) pen Pasian in pawlpikhat sungah hong gawmkhawm cihthu thupisak phadiak hi. Tuabang kipumkhat in nuntakna hangin, galphuan nopna peuh hong omding sangsik in, Pasian’ gamthak sungah Ama’mite omzia dingpeuh hong lakkhia thei zawsop uhhi. 
+
+Pasian’ pawlpi mimal hihnop kawmkal ah, Paul in zong thu-li hong pia sawnsawn hi. Thu ummite pen Christ’ pumpi, Christ tungah ki-aapna leh khatlehkhat kipumkhatna nei uhhi. Pasian tungah biakpiakna mun a nungta biakinnpi hi uh a, Calvary ah Christ kipiakna tawh akilam ahi hi. Christ’ mo hi uh a, Mopiipa hongpaini ciangin alianmahmah mopawi bawl ding hun ngakin a omuh hi. A nunungpen Paul gentehna pen, Christian upna sungah Christ’ galkap hi a, Pasian’ thahatna tawh khuamial’ vangliatna ado a, Zeisu hong paikik ding a lam-ente ahi uhhi. 
+
+Ephesian laibu in tulai a thadah Christian nungzuite mahbang ahi tua hunlai mite’thu hong gen hi. Christ lamto pahtawi in, a nungzuite peuhmah Ama’ hongpaikik ding lam-en in, pilvang takin omding cihi. Tu quarter sungin thungetna tawh Ephesian laibu i simding a, Zeisu’ nungzuite phutkhak thuthakte zong isin ding uhhi. 
+
+_John K. McVay, Ph.D., Walla Walla University College Place, Washington, USA, ah 2006 kumpan kipan tuni ciangdong President leh Religion Professor sem hi._
