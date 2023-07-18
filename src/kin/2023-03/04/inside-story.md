@@ -1,5 +1,5 @@
 ---
-title:  GAHUNDA YO KUGARURA ICYACUMI NO GUTURA AMATURO
+title:  Gahunda Yo Kugarura Icyacumi No Gutura Amaturo
 date:   21/07/2023
 ---
 
