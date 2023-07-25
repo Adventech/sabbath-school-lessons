@@ -5,6 +5,7 @@ on:
 jobs:
   sync-stage-into-master:
     runs-on: ubuntu-latest
+    if: github.ref_name == 'stage'
     steps:
       - uses: actions/checkout@v2
         with:
