@@ -78,6 +78,7 @@ Below is current list of languages and capabilities implemented
 |🇵🇱 Polish|✅ Yes|✅ Yes|❌ No|❌ No|✅ Yes|
 |🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
+|🇷🇺🇳 Ikirundi|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
 |🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
 |🇱🇸 Sesotho|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
 |🇱🇰 Sinhala|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
