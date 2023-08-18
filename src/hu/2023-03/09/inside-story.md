@@ -1,0 +1,10 @@
+---
+title: Történet
+date: 25/08/2023
+---
+
+#### PELENKA A BEVÁSÁRLÓLISTÁN
+
+_Amy McHenry_
+
+Egy péntek reggel a heti bevásárlást végeztem a helyi üzletben, a libanoni Bejrútban. A férjem a cserkészeknek vásárolt, én pedig élelmet vettem a családnak. Misszionáriusként szolgálunk a Közel-keleti Egyetemen. Amikor felmentem a második szintre, hogy fertőtlenítő- és mosogatószert vásároljak, rápillantottam a pelenkás polcra és késztetést éreztem: „Vegyél egy csomag pelenkát!” Meglepett a hirtelen gondolat. „Uram, ez Te vagy?” – tettem fel a kérdést. „Miért vennék pelenkát? A legkisebb gyerekem is 10 éves már!” „Vegyél egy csomag pelenkát!” A liftajtó felé indultam. „De, Uram, nem ismerek senkit, akinek kisbabája van!” „Vegyél egy csomag pelenkát!” Kénytelen-kelletlen visszamentem a pelenkás polchoz. „Rendben, Uram, veszek pelenkát, de vajon kinek adjam oda? Milyen méretű legyen?” Betettem a kosárba egy csomag midi pelenkát, és folytattam a vásárlást. Amikor beültünk az autóba, mondtam a férjemnek, hogy ne lepődjön meg, ha pelenkát lát a csomagtartóban. Az Úr indított, hogy vegyem meg, biztosan ajándék, csak még nem tudom, kinek. Másnap, szombaton találkoztam egy barátunkkal, akinek a felesége menekült családoknak segít Bejrútban. Megkérdeztem, vajon vannak-e ott családok, akiknek pelenkára van szükségük. Este kaptam egy üzenetet a barátunktól. „Amikor a feleségemnek elmondtam a történetedet a pelenkáról, elsírta magát. Holnap két családot fog meglátogatni, akiknek szüksége van pelenkára. Elmehetnénk ma este a csomagért?” Aznap este átadtam nekik a pelenkát, amit az Úr vetetett meg velem. Megtudtam a hölgytől, hogy több mint 20 család van a gondozottai között, akiknek pelenkára lenne szükségük, de nem engedhetik meg maguknak. Most már tudom, hogy többször kell felvennem a listámra ezt a terméket.
