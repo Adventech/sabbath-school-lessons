@@ -140,3 +140,19 @@
           target: cs/2023-03/08/07
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_08-inside-story.mp3
           target: cs/2023-03/08/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-1.mp3
+          target: cs/2023-03/09/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-2.mp3
+          target: cs/2023-03/09/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-3.mp3
+          target: cs/2023-03/09/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-4.mp3
+          target: cs/2023-03/09/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-5.mp3
+          target: cs/2023-03/09/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-6.mp3
+          target: cs/2023-03/09/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-7.mp3
+          target: cs/2023-03/09/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_09-inside-story.mp3
+          target: cs/2023-03/09/inside-story
