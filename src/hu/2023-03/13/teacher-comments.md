@@ -1,0 +1,54 @@
+---
+title:  Tanítói melléklet
+date: 22/09/2023
+---
+
+#### Áttekintés
+
+Kulcsszöveg: Efezus 6:16-17
+
+Alapigék: Ézs 52:8-10; 59:17; Ef 6:10-20; 1Thessz 5:16-18; 1Pt 4:1; 5:8
+
+Bevezetés: Pál szemléletesen ír Isten fegyverzetének elemeiről (öv, mellvért, saru, páncél, sisak, kard), de nem egy magányos katonát akar ábrázolni. Éppen ellenkezőleg, a görögben az igéket többes szám második személyben használja, amivel egész hadseregre utal: 1) legyetek (többes szám) erősek (Ef 6:10), 2) öltsétek (többes szám) magatokra Isten teljes fegyverzetét, 3) hogy megállhassatok (többes szám), 4) mert nem vér és test ellen van nekünk tusakodásunk (többes szám), 5) vegyé­tek fel (többes szám) Isten teljes fegyverzetét (Ef 6:13), 6) hogy megállhassatok (többes szám). Tehát szinte minden ige, amit Pál az egyházzal kapcsolatosan használ, többes számban szerepel itt. Az apostol bátor katonák dicső hadseregét vetíti elénk, akik teljes fegyverzetet öltöttek a küldetés teljesítése érdekében.
+
+Mi a sereg küldetése? Felöltötték a fegyverzetüket és készek hirdetni Isten üzenetét a világegyetemnek, ami békét hoz a föld lakóinak, a nemzetek között, a közösségekben, a családokban, a generációk és a társadalmi osztályok között. A békét azonban nem a megalkuvás vagy a szinkretizmus talaján teremti meg, amiben mindkét fél fenntartja a jogot, hogy az ő világnézetük, értékeik, projektjeik egy részét fogadják el. Nem, Isten úgy hoz békét, hogy a kereszten bemutatta szeretetét, igazságát, ezzel nyerte meg a harcot vádolóival és ellenségeivel szemben. Amikor az ember elfogadja, amit az Úr Jézus elvégzett érte a kereszten, Isten örömmel megáldja Krisztus igazságával. Ez az igazság és szeretet az, ami békét hoz ember és Isten, ember és ember között és az egész világegyetemben. Ez az a békesség, amit a keresztények hirdetnek. A nemzetek, a vallások, a kultúrák, a filozófia, a pszichológia és a tudomány története egyaránt azt bizonyítja, hogy a béke elérésére nincs más mód. Mivel a keresztények egyénileg is tapasztalták ezt a békességet, a családjukban, a közösségeikben és a gyülekezetben, ezért hirdethetik az egész emberiségnek, sőt az egész világegyetemnek.
+
+A tanulmány témái: Az e heti tanulmány négy fő témára összpontosít:
+
+1.  Az egyház egy kozmikus küzdelemben vesz részt azzal a küldetéssel, hogy hirdesse a békesség evangéliumát.
+
+2.  Nem egyedül, magányos harcosként küzdünk, hanem „az Úrban” és a tőle kapott fegyverzetben.
+
+3.  Nem magányos harcosok vagyunk, hanem Isten hadserege, Isten népe.
+
+4.  Nem bizonytalan kimenetelű harcot folytatunk, hanem azt, aminek már megvan a győztese: a kereszten Isten végérvényesen győzött a bűn, a gonoszság, a halál és Sátán felett.
+
+#### Kommentár
+
+Háború és béke
+
+Pál Ef 6:10-17 szakaszát a hatalomra való hármas utalással kezdi (Ef 6:10). Háromféle szót használ itt: az endünamoó igét („felhatalmaz”, „hatalommal ruház fel”), és két főnevet: kratosz („erő”, „hatalom”) és iszkhüsz („erő”, „képesség”). Az apostol ugyanezeket a szavakat használta – mindet főnévi alakban – a levele elején (Ef 1:19-21), amikor Isten Krisztusban megnyilvánult nagyságáról és hatalmáról beszélt. A levél végén (Efezus 6) azt mondja az efezusiaknak, hogy Jézus Krisztus ereje számukra is elérhető. Azért hivatkozik az erőre, mert az összecsapás, a háború, a harc és a győzelem témáját részletezi.
+
+Sajnos a keresztényi élet szorosan kapcsolódik a harc és a legyőzés fogalmához. Igaz, hogy minden vallás, filozófia, tudományág, az irodalom, a történelem és minden narratíva, mint például az evolúció, a marxizmus, a nácizmus háborúként, harcként, konfliktusok sorozatként jellemzi az életet. Aki el akar adni egy történetet, annak bele kell írnia a cselekménybe valamilyen összecsapást vagy küzdelmet. A főszereplő vagy a hős harcol valami vagy valaki ellen, például egy szuperhatalommal küzd meg, vagy a fekete lyukat, vagy egy gyógyíthatatlan betegséget kell legyőznie.
+
+Pál magyarázata szerint a keresztény harca „az ördög minden ravaszságával szemben” zajlik (Ef 6:11). A háború „nem vér és test ellen van…, hanem a fejedelemségek ellen, a hatalmasságok ellen, a sötétség világának urai ellen, a gonoszság lelkei ellen, amelyek az ég magasságában vannak” (Ef 6:12; lásd még Ef 1:19-21; 2:6; 3:10). Ez „az ég magasságában” zajló lelki küzdelem közvetlen és reális következményekkel jár az életünkre nézve. Benne vagyunk, és el kell döntenünk, melyik oldalon állunk. Pál az egész levelében azt mondja el, hogy nem csak azért vagyunk benne a háborúban, mert két szuperhatalom harcol egymással, mi pedig csak ártatlan áldozatként bonyolódtunk bele, vagy ragadtunk ott, akaratunk ellenére.
+
+Éppen fordítva van. Isten az, aki belebonyolódott a harcba, mégpedig értünk. Ő az, aki mellénk állt, amikor a rossz oldalon harcoltunk ellene. Ahelyett, hogy elpusztított volna bennünket, felajánlotta, hogy harcol az üdvösségünkért. Magára vette vétkeinket és bűneinket, meghalt helyettünk, hogy békességet adhasson nekünk, helyreállíthassa jog szerinti státuszunkat az országában.
+
+Ezért van az, hogy amikor keresztények leszünk, elfogadjuk Isten békeajánlatát, felhívását, és ezt el akarjuk mondani másoknak is, akik még harcban állnak Istennel. Nem semleges pozícióból csatlakozunk Krisztushoz, hanem Isten ellenségeinek a soraiból. Amikor csatlakozunk Krisztus seregéhez, támadni fog Sátán meg a többi gonosz erő, amelyek bennünk dolgoznak. Ezért szükségünk van Isten védőpajzsára és a békesség evangéliuma hirdetésének fegyverére. „Sokan úgy tekintik ezt a Krisztus és Sátán közötti küzdelmet, mintha ennek nem lenne különösebb kihatása az ő egyéni életükre, ezért kevésbé érdekli őket. Pedig ez a küzdelem minden emberi szívben lejátszódik. Soha nem léphet ki senki a gonosz soraiból, hogy Istennek szolgáljon, anélkül, hogy ne találkozzék Sátán támadásaival. Krisztus ellenállt azoknak a csábításoknak, amelyek legyőzését mi olyan nehéznek találjuk. Pedig a csábítások annyival jobban vonzották Őt, amennyivel jelleme a mienk fölött áll. Ránehezedett a világ bűneinek szörnyű súlya, így állta ki az étvágy, a világ szeretete és az elbizakodottsághoz vezető feltűnési vágy próbáját. Ezek voltak az Ádámot és Évát legyőző kísértések, ezek győznek le oly könnyen minket is” (Ellen G. White: Jézus élete. Budapest, 2010, Advent Kiadó, 88. o.).
+
+A nagy küzdelem
+
+Norman Gulley rávilágít, hogy a keresztény teológia általában szem elől tévesztette a kozmikus konfliktus/nagy küzdelem témáját (lásd Norman Gulley: Systematic Theology: The Church and the Last Things. Berrien Springs, MI., 2016, Andrews University Press, 4. köt. 478. o.). Miközben más keresztények számára a nagy küzdelem (az Isten és Sátán gonosz erői közötti kozmikus harc) csupán olyan részlet, ami a teodiceával kapcsolatos, tehát csak filozófiai kérdés és a filozófia fogalmaival határozható meg, addig Ellen G. White és a hetednapi adventisták értelmezésé­ben a nagy küzdelem az a mindenen átívelő tan, ami magába foglalja az összes többi tantételt, nemcsak a rendszer szintjén, hanem történelmileg is. Hitünkben a nagy küzdelem témája nemcsak a tantételek rendszere, hanem egy történet, Istené. Ebben ott van a teremtés szeretetteljes cselekedete, az Isten elleni lázadásunk, az Úr irántunk való, önfeláldozó szeretete, testet öltése általi közvetlen beavatkozása világunk történelmébe, kereszthalála, feltámadása, vágy a vele való kapcsolatunk helyreállítására és az ezért való munkálkodása, az emberek közötti egység és szeretet helyreállítása az egyház által, az ígéretei, hogy véget vet a bűnnek és a gonoszságnak és végül az ígéret, hogy elvisz az örök öröm és béke országába. Ezért van a nagy küzdelem témája a 8. hitelvükben, amit a Generál Konferencia 1980-ban fogadott el.
+
+„Az egész emberiség belebonyolódott az Isten és Sátán közötti nagy küzdelembe, ami Isten jelleme, törvénye és a világmindenség fölötti uralom kérdése körül forog. A harc a mennyben kezdődött, amikor egy szabad akaratú teremtett lény önmagát felmagasztalva Isten ellenségévé, Sátánná vált és az angyalok egy részét is fellázította. E világba is behozta a lázadás szellemét, amikor Ádámot és Évát bűnre vitte. Az ember bűne azt eredményezte, hogy az emberiség elvesztette istenképűségét, a teremtett világ rendje felbomlott és a föld a vízözön idején elpusztult, amint olvasható 1Mózes 1-11. fejezeteinek történelmi beszámolójában. E világ az egyetemes küzdelem színtere lett, amit az egész univerzum figyelemmel kísér. Isten szeretete végül igazolódik. Krisztus, hogy segítse népét a harcban, elküldi Szentlelkét és a jó angyalokat, hogy az üdvösség útján vezessék, védelmezzék és oltalmazzák őket” („A nagy küzdelem” c. hitelv: https://adventista.hu/kik-az-adventistak/hitelveink/a-nagy-kuzdelem/).
+
+Herbert E. Douglass érthetően és szemléletesen kifejti a nagy küzdelem témájának szerepét a hetednapi adventista teológiában: „A hetednapi adventisták számára a nagy küzdelem témája az a központi fogalom, amely minden bibliai gondolatot koherenssé tesz. Felülemelkedik a kereszténységet szétszabdaló ősrégi megosztottságon, békét hoz a teológiai ellenfeleknek, akik hirtelen új harmóniában látják azokat az igaz­ságokat, amelyek miatt mind heves vitákat folytattak. Ebben rejlik az adventizmus egyedisége. Ez nem a teológiájának valamely sajátos eleme, mint például a szentély tana. Az adventizmus különlegessége sokkal inkább abban rejlik, hogy átfogóan értelmezi a Biblia központi üzenetét, ami a Biblia alapelve, irányadó elve: a nagy küzdelem témája” (A nagy küzdelem témája: Mit jelent az adventisták számára? Ministry, 2000 december, 5. o.).
+
+#### Gyakorlati alkalmazás
+
+1.  Hol érjük tetten a mindennapi beszédünkben a katonai kifejezéseket? Gondoljunk a nyilvánvalóan „küzdelmet idéző” szóhasználatra például a himnuszban, a versekben, a bibliaolvasó kalauzokban! Adventistaként világosan értjük, hogy az ilyen kifejezéseket kizárólag lelki értelemben használjuk. Ugyanakkor félreérthetik, akik általában a kereszténységet és konkrétan az adventizmust a béke vallásának tartják. Hogyan tudnánk megőrizni azt a bibliai ethoszt, hogy a nagy küzdelem keretein belül harcolunk a gonosz szellemi erői ellen, miközben segítünk a barátainknak és a közösségünknek megérteni, hogy egyházunk Isten szeretetének, kegyelmének és békéjének közössége? Válaszunkat ne csak a csoportunkban, hanem az egész gyülekezettel is beszéljük meg!
+
+2.  Tegyük fel, hogy a gyülekezetet meghívják a közösség, a térség vagy az ország egy békével kapcsolatos programjára! Hogyan vehet részt a gyülekezetünk ilyen eseményeken? Hogyan biztosíthatjuk, hogy a bekapcsolódásunk ne politikai jellegű legyen, hanem Jézus és az apostolok tanításain alapuljon a nagy küzdelem, valamint az evangélium összefüggésében?
+
+`Jegyzetek`
