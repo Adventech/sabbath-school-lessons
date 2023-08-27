@@ -4,6 +4,7 @@ on:
     - cron:  '0 */2 * * *'
 jobs:
   aggregate:
+    if: (github.event_name == 'schedule' && github.repository == 'Adventech/sabbath-school-lessons') || (github.event_name != 'schedule')
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
