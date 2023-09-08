@@ -1,0 +1,54 @@
+---
+title:  Teacher Comments
+date:  24/11/2023
+---
+
+#### Part I: Overview
+
+We cannot deny that the Old Testament emphasizes the responsibility of God’s people to help those in need. In fact, the Hebrew Bible has hundreds of references (and regulations or laws) that guarantee and safeguard the rights of widows, orphans, foreigners, the poor, and so on.
+
+Deuteronomy 15:4 states: “However, there need be no poor people among you, for in the land the Lord your God is giving you to possess as your inheritance, he will richly bless you” (NIV). But a few verses later it says: “There will always be poor people in the land. Therefore I command you to be openhanded toward your fellow Israelites who are poor and needy in your land” (Deut. 15:11, NIV).
+
+How do we reconcile these two verses (Deut. 15:4 and Deut. 15:11)? What is the problem here? How can we solve this apparent contradiction? In essence, the Bible is telling us that because God can provide He wants to use us in helping those in need, as Jesus did. The biblical tradition, as a whole, does not regard poverty as a “normal” part of life but as an evil exception to the divine plan. What is meant to be “normal” is the concern that moves people to show kindness to those in need. “God imparts His blessing to us that we may impart to others. When we ask Him for our daily bread, He looks into our hearts to see if we will share the same with those more needy than ourselves.”—Ellen G. White, Testimonies for the Church, vol. 6, p. 283.
+
+#### Part II: Commentary
+
+**“ ‘God has come to help His [needy] people’ ” (Luke 7:16, NIV).**
+
+In Luke 7, we read about a large crowd that recognizes what Jesus had just done. The crowd not only recognized Jesus as a prophet—and a great one—but, filled with awe and praising God, they declared that God had come to help them. Jesus was the Prophet of benevolence and compassion, the One who came to proclaim the good news of God. Jesus also came to proclaim liberty to the captives and to announce that the kingdom of God was near (Mark 1:14, 15; see also Luke 4:18, 19). It was on behalf of the neediest and most neglected that Jesus spent most of His time and energy during His earthly ministry. His heart was constantly touched by the misery and suffering of the most poor, destitute, and deprived human beings.
+
+Among the oppressed and destitute were many women, and for them, Jesus had special consideration. The women who were marginalized by society were graciously received by the Savior and cared for; thus, they were relieved from their distresses and maladies. The compassion and merciful acts of Jesus were constantly demonstrated toward these women.
+
+Jesus’ encounter with the Samaritan woman at Jacob’s well sets the example for all who labor in favor of women, wherever they are and whatever their condition, be they poor, outcasts, sinners, widows, mothers, prostitutes, or otherwise oppressed by the devil. Giving the Samaritan woman the water of life, Jesus relieved her of her oppression and guilt, empowering her to live a better life, as well as enabling her to become one of His witnesses (John 4:1–26). The Samaritan woman was thirsty, she was poor, she had to carry her own water, she was tired and needy, and Jesus met her physical, social, and spiritual needs.
+
+The way Jesus handled the situation of the woman caught in adultery and the situations of many other women indicates His interest in relieving and restoring the dignity of women and demonstrates that His love has no preference toward any class of individuals. Jesus crossed cultural barriers and even went against strong religious traditions in order to heal, save, and develop the gifts and lives of women for His kingdom. Jesus’ love has no limits, no strings attached, and is bestowed upon all women in need. Look at the following examples of women who were recipients of the Savior’s love: the Canaanite or Syrophoenician woman (Matt. 15:21–28, Mark 7:24–30); Jesus’ mother (John 19:25–27); Martha and Mary, whom Jesus encouraged (John 11:17–37); and the widow of Nain, whose son Jesus raised from the dead (Luke 7:11–17). Jesus was anointed by a sinful woman and forgave her sins (John 12:1–11, Matt. 26:6–13, Mark 14:3–9, Luke 7:36–50); Jesus healed and dialogued with a sick woman (Luke 8:43–48, Matt. 9:20–22, Mark 5:25–34); women were cured from evil spirits and diseases by Jesus (Luke 8:1–3); Jesus healed a crippled woman (Luke 13:10–13); Jesus noticed the widow giving her offering (Mark 12:41–44, Luke 21:1–4); and Jesus appeared to Mary Magdalene (John 20:10–18).
+
+According to the Gospels, Jesus’ healing ministry toward all those who needed His help, relieving their suffering and setting them free from their maladies, indicates that “none who came to Him went away unhelped. From Him flowed a stream of healing power, and in body and mind and soul men were made whole.”—Ellen G. White, The Ministry of Healing, p. 17. We find Jesus healing the mother-in-law of Simon (Peter) from a high fever (Matt. 8:14, 15; Mark 1:29, 30; Luke 4:38, 39); Jesus cured a man with leprosy by saying “be clean” (Matt. 8:2–4, NIV; Mark 1:40–44; Luke 5:12, 13); Jesus healed (forgave) a paralytic by saying, “ ‘Friend, your sins are forgiven’ ” (Luke 5:20, NIV) and by adding, “I tell you, get up, take your mat and go home” (Luke 5:24, NIV; also see Matt. 9:2–8, Mark 2:3–12).
+
+Jesus found great faith in a centurion whose servant was sick and about to die, and He rewarded the centurion’s faith by healing his servant (Luke 7:1–10, Matt 8:5–13). It was also by such great faith that a woman who was suffering from a flow of blood for 12 years touched Jesus and was healed immediately by His power. Jesus confirmed her faith by saying, “ ‘Daughter, your faith has healed you. Go in peace’ ” (Luke 8:48, NIV; see also Matt. 9:20–22, Mark 5:25–34).
+
+Jesus not only healed those who came, or were brought, to Him, but He often demonstrated His love when He saw a person in need. For example, Jesus was teaching in a synagogue on a Sabbath day where there happened to be a crippled woman who was bent over and could not straighten herself up. Jesus said to her, “ ‘Woman, you are set free from your infirmity’ ” (Luke 13:12, NIV). What a relief to be set free after being crippled by an evil spirit for 18 years! The record says that Jesus put His hand on her, and she was immediately made straight and able to praise God in her newfound freedom.
+
+Jesus’ ministry of healing went far beyond what the Bible tells us, but it must suffice to mention here what the inspired writers of the Gospels recorded to us. Many other sick people with varied illnesses were healed by the Great Physician. An official in Capernaum had a son who was sick, and he asked Jesus to heal him. Jesus graciously granted the official’s request by saying, “ ‘You may go; your son will live’ ” (John 4:50, NABRE).
+
+The apostle Paul wrote, “Though He [Jesus] was rich, yet for your sakes He became poor, that you through His poverty might become rich” (2 Cor. 8:9, NKJV). Christ’s identification with the poor is clearly stated by the apostle. Jesus was rich but gave up His possessions and became poor in order that poor humanity could inherit the riches of temporal, as well as eternal, salvation.
+
+**True Fellowship in the Apostolic Church**
+
+The early Christian community was characterized by true fellowship. This fellowship was the trademark of the apostles and new believers. They had decided to abide in unity with Christ and with one another, having everything in common (Acts 2:42–44), and being of one heart and mind. The desire of each one of them was to share the possessions they had in order that their goods might be distributed to those in need. It was because of this practice that “there were no needy persons among them” (Acts 4:34, NIV). Thus the act of sharing their possessions was what made it possible for the new believers to meet the needs of those who were in distress (Acts 4:32–47).
+
+James rightly emphasized the integration of listening to the Word and practicing it, of love that manifests itself in words but also in actions. What, then, is true religion? “Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world” (James 1:27, NIV). It seems that James is somewhat echoing these words of Jesus: “ ‘For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in, I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me’ ” (Matt. 25:35–37, NIV). Needy orphans and widows suffer distress that touches the heart of the Father, so the one who lives a religion that is true will “take up the cause of the fatherless” and will “plead the case of the widow” (Isa. 1:17, NIV).
+
+It was in Antioch that the followers of Jesus were first called Christians (Acts 11:26). Further in the chapter, the text reads: “The disciples, as each one was able, decided to provide help for the brothers and sisters living in Judea. This they did, sending their gift to the elders by Barnabas and Saul” (Acts 11:29, 30, NIV). To provide help (eis diakonian) in this context can mean to provide resources (money, gifts) to be used for needy individuals living in distress.
+
+#### Part III: Life Application
+
+The poor and needy have a special place in the ministry of Jesus because it is to them that the gospel (the good news, the kingdom of God) is preached (Matt. 11:5, Luke 4:18). Other biblical passages confirm that the poor are not only poor in the spiritual sense but also in the material sense (Matt. 5:3, Luke 6:20). The story of the poor widow’s offering illustrates this point well.
+
+As He looked up, Jesus saw the rich putting their gifts into the temple treasury. He also saw a poor widow put in two very small copper coins. “ ‘Truly I tell you,’  he said,  ‘this poor widow has put in more than all the others. All these people gave their gifts out of their wealth; but she out of her poverty put in all she had to live on’ ” (Luke 21:3, 4, NIV; see also Mark 12:41–44 and 2 Cor. 8:9, 12).
+
+The story does not tell us that the woman had any relatives to care for her; instead, it mentions that she was a poor widow and gave all she had to live on. Jesus’ reference to this poor widow is interesting because, again, His attention is focused on the poorest of the poor, not only in a spiritual sense but very much in the material sense: “ ‘She, out of her poverty, put in everything—all she had to live on’ ” (Mark 12:44, NIV).
+
+When needy people, such as the poor widow, look at you or your church, in what ways do they see the embodiment of Jesus Christ and the comprehensive healing and help that He imparts through His church?
+
+`Notes`
