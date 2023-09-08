@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_00.pdf
+      title: Introduction
+      target: en/2023-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_01.pdf
+      target: en/2023-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_02.pdf
+      target: en/2023-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_03.pdf
+      target: en/2023-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_04.pdf
+      target: en/2023-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_05.pdf
+      target: en/2023-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_06.pdf
+      target: en/2023-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_07.pdf
+      target: en/2023-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_08.pdf
+      target: en/2023-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_09.pdf
+      target: en/2023-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_10.pdf
+      target: en/2023-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_11.pdf
+      target: en/2023-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_12.pdf
+      target: en/2023-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/ETQ423_13.pdf
+      target: en/2023-04/13
