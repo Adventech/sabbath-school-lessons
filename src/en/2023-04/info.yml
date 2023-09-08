@@ -1,0 +1,20 @@
+---
+  title: "God's Mission, My Mission"
+  description: "Years ago, one of our Adventist magazines published a parable about a dreadful swamp. As people passed along the path going through it, they were often overcome and fell in. Their dying cries could be heard all through the nearby village. It was terrible."
+  human_date: "October · November · December 2023"
+  start_date: "30/09/2023"
+  end_date: "29/12/2023"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Principal Contributors
+      value: "Petras Bahadur, Richard Elofer, Kleber Gonçalves, Jeff Scoggins, Clifmond Shameerudeen, Homer Trecartin, Doug Venn, Amy Whitsett, and Greg Whitsett"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Homayouni"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
