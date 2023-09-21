@@ -361,7 +361,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
     if (fs.pathExistsSync(`images/global/${tqi}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
       quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi}/${SOURCE_SPLASH_FILE}`;
     } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
     }
   }
 
