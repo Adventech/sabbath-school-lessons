@@ -5,8 +5,7 @@ human_date: "Oktober · November · Dezember 2023"
 start_date: "30/09/2023"
 end_date: "29/12/2023"
 color_primary: "#67526E"
-color_primary_dark: "#514456"
-
+color_primary_dark: "#593B62"
 credits:
   - name: Herausgeber
     value: "Joe Reeves"
