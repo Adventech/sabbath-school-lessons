@@ -6,6 +6,7 @@ start_date: "30/09/2023"
 end_date: "29/12/2023"
 color_primary: "#67526E"
 color_primary_dark: "#593B62"
+splash: true
 credits:
   - name: Herausgeber
     value: "Joe Reeves"
