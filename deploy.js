@@ -357,10 +357,11 @@ let getQuarterlyJSON = function (quarterlyPath) {
     fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
     quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
   } else {
-    if (fs.pathExistsSync(`images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`;
+    let tqi = /-iv$/.test(info.quarterly) ? info.quarterly.replace(/-iv$/, '-cq') : info.quarterly;
+    if (fs.pathExistsSync(`images/global/${tqi}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi}/${SOURCE_SPLASH_FILE}`;
     } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
     }
   }
 
