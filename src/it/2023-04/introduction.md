@@ -1,0 +1,15 @@
+**La missione di Dio è anche la mia: Basta parlare, cominciamo a fare qualcosa**
+
+Anni fa uno dei nostri periodici avventisti pubblicò un racconto su una paurosa palude. Mentre le persone passavano lungo il sentiero che l’attraversava, spesso venivano sopraffatte e ci cadevano dentro. Le loro urla di morte arrivavano fino al villaggio più vicino. Un evento terribile. Gli abitanti del villaggio riunirono il consiglio e furono presentate varie teorie e documenti che analizzavano le cause e proponevano alcune soluzioni. Ma non fu fatto niente di concreto a tal proposito, solo incontri e parole...
+
+La discussione proseguì per anni, la gente scrisse rapporti sull’argomento e furono invitati anche docenti. Furono allestite vendite di oggetti usati per raccogliere il denaro necessario a garantire i pasti di chi sacrificava tante ore per presenziare a quelle riunioni. Alla fine, venne accumulata una somma sufficiente per costruire una sala riunioni insonorizzata, tale da impedire che le urla dei disperati nella palude interrompessero i dibattiti in corso. Ma nessuno fece niente né per aiutare chi era in difficoltà né per cercare di evitare che altre persone andassero incontro a quella sorte. Proseguirono semplicemente a parlare.
+
+La chiesa nel suo insieme, e la tua classe della Scuola del sabato nello specifico, non vuole somigliare agli abitanti di quel villaggio. Ci piace passare del tempo insieme pregando, ragionando, condividendo e discutendo. Ma desideriamo andare oltre e fare qualcosa di concreto per le persone intorno a noi. Vogliamo provare a fare la differenza nei nostri contesti abitativi e nel mondo intero. Auspichiamo la conclusione dell’opera e desideriamo che Gesù ritorni.
+
+Questo trimestre si propone di concentrare la nostra attenzione sulla necessità di uscire dalle nostre chiese, dalle nostre case e fare qualcosa. Studieremo tanti bei racconti biblici, impareremo che ci sono delle risorse da utilizzare per raggiungere i nostri vicini. Ma sarà solo un modo per motivarci. Il focus vero di ogni lezione si concentra nella parte di ogni giovedì: le “sfide” per uscire dal nostro guscio e fare qualcosa di concreto.
+
+Condivideremo approfondimenti teologici, forniremo strumenti e idee con i quali lavorare. Ogni giovedì si procederà con una prudente progressione delle sfide. L’obiettivo è quello di stimolare ciascuno di noi a raccoglierle, a pregare lo Spirito Santo affinché ci guidi, ci aiuti ad applicare quanto appreso, per poi dedicare cinque minuti nella settimana successiva per analizzare come siano andate le cose.
+
+Questo non dovrà essere un momento in cui esibire un vanto, ma di condivisione, sia di ciò che è andato bene sia di ciò che può essere migliorato. Mentre ne parleremo assieme, il gruppo genererà delle idee e gli elenchi di preghiera (collettivi e personali) aumenteranno.
+
+Ci auguriamo che questo trimestre sia ricordato non per le riflessioni memorabili, per le storie coinvolgenti o per i profondi concetti teologici, ma per il tempo in cui lo Spirito Santo ha accolto i nostri umili sforzi per trasformarli in miracoli missionari per l’onore e la gloria del suo nome.
