@@ -357,10 +357,11 @@ let getQuarterlyJSON = function (quarterlyPath) {
     fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
     quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
   } else {
-    if (fs.pathExistsSync(`images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`;
+    let tqi = /-iv$/.test(info.quarterly) ? info.quarterly.replace(/-iv$/, '-cq') : info.quarterly;
+    if (fs.pathExistsSync(`images/global/${tqi}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi}/${SOURCE_SPLASH_FILE}`;
     } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
     }
   }
 
@@ -408,14 +409,16 @@ let getLessonJSON = function (lessonPath, pdf, pdfPath) {
 
   let targetQuarterlyIndex = info.quarterly
 
-  if (!fs.pathExistsSync(`images/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
-    targetQuarterlyIndex = info.quarterly.slice(0, 7)
+  let tqi = /-iv$/.test(targetQuarterlyIndex) ? targetQuarterlyIndex.replace(/-iv$/, '-cq') : targetQuarterlyIndex;
+
+  if (!fs.pathExistsSync(`images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
+    tqi = info.quarterly.slice(0, 7)
   }
 
-  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`;
+  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`;
 
   if (!/master|stage/i.test(branch)) {
-    lesson.cover = `/img/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`;
+    lesson.cover = `/img/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`;
   }
 
   // TODO: Optimize to check if file exists instead of try / catch block
