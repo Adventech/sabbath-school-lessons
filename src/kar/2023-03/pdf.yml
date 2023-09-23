@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/Intro.pdf
+      title: တၢ်ကတိၤအိးထီၣ်
+      target: kar/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/1.pdf
+      target: kar/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/2.pdf
+      target: kar/2023-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/3.pdf
+      target: kar/2023-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/4.pdf
+      target: kar/2023-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/5.pdf
+      target: kar/2023-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/6.pdf
+      target: kar/2023-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/7.pdf
+      target: kar/2023-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/8.pdf
+      target: kar/2023-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/9.pdf
+      target: kar/2023-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/10.pdf
+      target: kar/2023-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/11.pdf
+      target: kar/2023-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/12.pdf
+      target: kar/2023-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/13.pdf
+      target: kar/2023-03/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2023-03/14.pdf
+      target: kar/2023-03/14

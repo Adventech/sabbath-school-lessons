@@ -174,7 +174,7 @@ let audioAPI = async function (mode) {
 
                 if (mode === "gen" && !fs.pathExistsSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/`)) {
                     curlConfig += `
-url = "${track.src}"
+url = "${track.src.replace(/ /g, "\%20")}"
 output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}"
 -C -
 --create-dirs

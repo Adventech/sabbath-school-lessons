@@ -1,0 +1,32 @@
+---
+  title: "Az Efezusi levél"
+  description: "Az Efezusi levélben Pál azokról a hívőkről számol be, akik keresztény hitük jelentőségével küzdöttek a missziónak a városukban történt izgalmas korai eseményeit követően."
+  human_date: "Július · Augusztus · Szeptember 2023"
+  start_date: "24/06/2023"
+  end_date: "29/09/2023"
+  color_primary: "#EDE5F1"
+  color_primary_dark: "#3B2525"
+  splash: true
+  credits:
+    - name: Írta
+      value: "John K. McVay"
+    - name: Fordította
+      value: "dr. Zarka Dávid"
+    - name: Korrektor
+      value: "Fürjné Simon Edina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-963-9930-86-5"

@@ -1,0 +1,11 @@
+### Efésios: como seguir Jesus em tempos difíceis
+
+Anos após a obra de Paulo em Éfeso, os crentes lutavam com o significado de sua fé. Paulo, antes o instigador de problemas econômicos na quarta maior cidade do Império Romano, estava afastado e preso. Escrevendo da prisão, temia que os crentes se desanimassem, esquecendo o que significava ser discípulo de Jesus naquela cultura sofisticada, urbana e pagã. Embora os ouvintes fossem cristãos, o tom de Paulo era de recrutamento. Ele procurava realistá-los na fé, reacender a devoção a Cristo e o envolvimento no empreendimento divino, a igreja.
+
+Visto que a fé cristã é sobre Cristo, Paulo irradiava adoração a Ele. Para firmar os pés, discípulos vacilantes devem ressuscitar seu primeiro amor por Jesus e estabelecer nova confiança na graça. Paulo destacou a exaltação de Cristo acima dos poderes que atraíam a devoção dos efésios. Jesus é o objetivo do plano divino para as eras, no qual a igreja tem papel importante na unificação de todas as coisas em Cristo.
+
+Paulo desenvolveu quatro metáforas para a igreja. Os crentes compõem o corpo de Cristo, demonstrando devoção a Cristo e unidade uns com os outros. Eles são um templo vivo, construído por meio do sacrifício de Cristo no Calvário, no qual Deus é adorado. Eles são a noiva de Cristo, que olha em direção a uma grande cerimônia de casamento quando o Noivo virá para reivindicá-la como Dele. Em uma metáfora final que expressa os esforços de Paulo para realistar os crentes na fé cristã, eles são o exército de Cristo, que luta pela paz em Seu nome, combatendo as forças das trevas no poder de Deus enquanto aguarda o retorno de Cristo.
+
+Efésios fala para tempos como o nosso, quando o fascínio do mundo e o passar do tempo ameaçam entorpecer o discipulado. Eleva Cristo e destaca a importância de segui-Lo como membros engajados de Sua igreja enquanto esperamos Seu retorno.
+
+John K. McVay, Ph.D., é reitor e professor de religião na Universidade de Walla Walla em College Place, Washington, EUA, onde atua desde 2006.

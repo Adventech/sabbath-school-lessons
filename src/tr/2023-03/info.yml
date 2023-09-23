@@ -1,0 +1,22 @@
+---
+  title: "Efesliler"
+  description: "Efesliler’e Mektup’ta, Pavlus bize Efeslilerden bahsediyor. Hristiyan müjdeciliğinin Efes’teki ilk günlerinde yaşanan heyecan verici olaylardan yıllar sonra, Efesliler Hristiyan imanlarının önemi ile mücadele ediyorlardı. Bir zamanlar Roma İmparatorluğunun bu dördüncü büyük kentini yönetenlerin mesele çıkaran kişisi olan Pavlus, artık kenara çekilmiş ve zindana atılmıştı. Zindandan yazarken, Efes’teki imanlıların “cesaretini kaybetmiş,” Efes’in çok yönlü, kentli ve bütünüyle putperest toplumu içerisinde İsa’nın öğrencileri olmanın ne anlama geldiğine dair faal algılarını unutacaklarından endişeleniyordu. Mektubunun muhatapları Hristiyanlar olmasına rağmen, cümlelerindeki tavır acemilere hitap eder gibiydi. Onları yeniden Hristiyan imanına çekmeye, Mesih’e olan bağlılık ateşlerini yeniden tutuşturmaya ve Tanrı’nın dünyadaki büyük girişiminin, kilisenin bir parçası olmanın heyecanını diriltmeye çalışıyordu."
+  human_date: "Temmuz · Ağustos · Eylül 2023"
+  start_date: "24/06/2023"
+  end_date: "29/09/2023"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Yazar
+      value: "John K. McVay"
+    - name: "Editör (English)"
+      value: "Clifford R. Goldstein"
+    - name: Editör Sekreteri
+      value: "Soraya Homayouni"
+    - name: Yayın Müdürü
+      value: "Lea Alexander Greve"
+    - name: Asistan Editör
+      value: "Sharon Thomas-Crews"
+    - name: Sayfa Tasarım
+      value: "Joanna Touma"

@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L00.pdf'
+      target: en/2023-03-kd/introduction
+      title: Introduction
+      start_date: 24/06/2023
+      end_date: 24/06/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L01.pdf'
+      target: en/2023-03-kd/01
+      title: The Little Prince
+      start_date: 24/06/2023
+      end_date: 30/06/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L02.pdf'
+      target: en/2023-03-kd/02
+      title: Repairing the Temple
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L03.pdf'
+      target: en/2023-03-kd/03
+      title: Queen Esther
+      start_date: 08/07/2023
+      end_date: 14/07/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L04.pdf'
+      target: en/2023-03-kd/04
+      title: Esther Saves Her People
+      start_date: 15/07/2023
+      end_date: 21/07/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L05.pdf'
+      target: en/2023-03-kd/05
+      title: The Little Maid
+      start_date: 22/07/2023
+      end_date: 28/07/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L06.pdf'
+      target: en/2023-03-kd/06
+      title: Little Maid Serves God
+      start_date: 29/07/2023
+      end_date: 04/08/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L07.pdf'
+      target: en/2023-03-kd/07
+      title: Disappearing Spots
+      start_date: 05/08/2023
+      end_date: 11/08/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L08.pdf'
+      target: en/2023-03-kd/08
+      title: Naaman Serves God
+      start_date: 12/08/2023
+      end_date: 18/08/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L09.pdf'
+      target: en/2023-03-kd/09
+      title: Baby Moses
+      start_date: 19/08/2023
+      end_date: 25/08/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L10.pdf'
+      target: en/2023-03-kd/10
+      title: Pillars of Cloud and Fire
+      start_date: 26/08/2023
+      end_date: 01/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L11.pdf'
+      target: en/2023-03-kd/11
+      title: Bitter Water to Better Water
+      start_date: 02/09/2023
+      end_date: 08/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L12.pdf'
+      target: en/2023-03-kd/12
+      title: God Gives Manna
+      start_date: 09/09/2023
+      end_date: 15/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L13.pdf'
+      target: en/2023-03-kd/13
+      title: God’s 10 Rules
+      start_date: 16/09/2023
+      end_date: 22/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-L14.pdf'
+      target: en/2023-03-kd/14
+      title: The Poor Widow's Offering
+      start_date: 23/09/2023
+      end_date: 29/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/B-23-Q3-Activites.pdf'
+      target: en/2023-03-kd/activities
+      title: Activities
+      start_date: 29/09/2023
+      end_date: 29/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2023/Q3/Kindergarten/Student/K-23-Q3-MemoryVerses.pdf'
+      target: en/2023-03-kd/memory-verses
+      title: Memory Verses
+      start_date: 29/09/2023
+      end_date: 29/09/2023

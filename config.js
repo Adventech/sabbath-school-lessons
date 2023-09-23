@@ -275,6 +275,10 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "run": [
+    "byk"
+  ],
+
   "si": [
     "srov"
   ],
@@ -283,6 +287,10 @@ var BIBLE_PARSER_CONFIG = {
     "chr",
     "eku",
     "ssp"
+  ],
+
+  "sn": [
+    "bdsc"
   ],
 
   "sr": [

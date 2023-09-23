@@ -1,0 +1,52 @@
+---
+title:  Teacher Comments
+date:  03/11/2023
+---
+
+#### Part I: Overview
+
+The past several weeks have highlighted that mission is rooted in God’s initiative and that God calls us to mission. This week, the focus is on the reality that some who have experienced God avoid the call to mission and the privilege to share the loving experience they have had.
+
+At some point, all people who have had an experience with God will face the temptation to avoid sharing this experience with others. It is best to humbly admit to this reality rather than assume such a temptation happens only to others. Once we recognize that we are confronted by this temptation at some point, it is easier to take intentional steps out of this zone of avoidance and into the healthier space of sharing God’s love with others.
+
+Ultimately, excuses to avoid mission are temptations of the devil, who does not want anyone to hear or experience the goodness of God. Thus, avoiding mission is not simply a dereliction of duty; it is instead a missed opportunity to draw others into a deeper and more meaningful walk with God and toward a more abundant life. The following commentary section describes two potential ways in which excuses are used to avoid mission. These excuses do not comprise the only ways that avoidance can happen, but they are two of the more prominent ways. The first example is demonstrated through the disciples’ story in the Garden of Gethsemane. The second example will draw critical points from the story of Jonah.
+
+#### Part II: Commentary
+
+**Gethsemane**
+
+When Jesus was nearing His last hours of life on earth before His arrest, trial, and death, He took the disciples into the Garden of Gethsemane to pray. Jesus asked the three disciples who were closest to Him to pray with Him and stay awake while He prayed because the weight of what was happening to Him was heavy. Jesus desperately needed the comfort of friends at this time (Matt. 26:36–45).
+
+Unfortunately, the disciples, who genuinely loved Jesus and considered Him a dear Friend, could not fulfill the request and fell asleep. This negligence happened twice; the disciples grew complacent and allowed their sleepiness to keep them from sharing the Lord’s burdens. Before they had a chance to make it right, Jesus was arrested and taken from their midst (Matt. 26:47–56). Thus, it became a missed opportunity for the disciples to serve the One whom they loved so much.
+
+The problem in this situation was not that the disciples had never experienced Jesus’ love. By this point, they had plenty of evidence demonstrating His love for them. It wasn’t even that they had drifted far away from Jesus. After all, they were there with Him in the Garden. Nonetheless, a sense of complacency settled in. The disciples could not understand how critical staying awake and praying for Jesus was at that crucial time. The disciples missed the opportunity to share the Father’s love with the One who had taught them so much about love.
+
+Sad to say, we are often guilty of the same complacency and negligence today. We have beautiful experiences with Jesus. And we are openly followers of Jesus. But the reality, when we take a closer look, is that many of us have grown complacent in our faith. This complacency often happens subtly. When we reflect on our lives, we may realize that we do not love others in tangible ways. Much like the disciples, we know Jesus is good and that we want to be with Him, but we slide into a state of spiritual sleepiness, missing multiple opportunities to share the love of God with a desperate world. We need to remind each other, respectfully, to stay awake and always be ready to share the love we have experienced with a suffering world.
+
+**Jonah**
+
+The second excuse we make to avoid mission is embodied in the form of missed opportunities in the narrative of Jonah. This form of excuse differs from the negligence and complacency shown by the disciples in Gethsemane. However, the second excuse, like the first, also is prevalent. The story of Jonah exemplifies the second excuse in several instances. While the story is multifaceted, the book of Jonah, in many ways, is, at its heart, as we have just asserted, a story of missed opportunities.
+
+Jonah knew God and prophesied on God’s behalf in Israel before getting the call to go to Nineveh (2 Kings 14:25). But his prior prophetic work had always been among Israelites and involved encouraging things on behalf of Israel. Jonah’s work did not include prophesying among Israel’s enemies. When you read the whole book of Jonah, you notice that Jonah struggled a great deal with loving people who came from a non-Jewish background.
+
+There are two significant missed opportunities found in the book of Jonah. The first missed opportunity takes place on the ship that Jonah boarded to run away from God. During the storm, Jonah was surrounded by sailors who worshiped other deities. Yet, during the storm, the sailors begged Jonah to pray to his God in the hope that his intercession would make a difference (Jon. 1:6). Jonah never prayed. Jonah’s solution was to commit assisted suicide (Jon. 1:12). At this stage in the story, Jonah did not know a whale would save his life, and so he asked the sailors to cast him overboard to his death.
+
+The sailors, who had more compassionate hearts than did Jonah, refused, at first, until they had no other options (Jon. 1:13). (Remember the previous lesson about being open to receiving a blessing from those whom you meet.) The storm stopped when Jonah was thrown overboard. As a result, the sailors had a newfound respect for Jonah’s God. The problem was that Jonah missed the opportunity to pray to God rather than proposing a human solution. This opportunity would have given the sailors a more complete and better understanding of who God is.
+
+The second missed opportunity came after Jonah preached in Nineveh. The people accepted Jonah’s message and repented. But Jonah was nowhere to be found. Instead, he climbed a nearby hill, hoping to see the destruction of Nineveh (Jon. 4:5). When that failed to take place, Jonah got angry at God (Jon. 4:1). Jonah reveals the real reason for his excuses to avoid God’s mission. Jonah says to God that he knew that God was a loving and compassionate Being and, thus, would likely forgive the Ninevites (Jon. 4:2). Recognizing this Bible truth, Jonah didn’t want to go out in mission to people he didn’t like because he didn’t want them to experience the goodness of God.
+
+The book of Jonah is the only book in the Bible that ends with a question (Jon. 4:11). The question is straightforward. God asks Jonah, “Why can’t you love people the way I do?” Because Jonah refused to love his enemies, he was outside the city when he should have been inside, helping the people of Nineveh take the next steps in their relationship with God. Jonah’s refusal turned into a missed opportunity.
+
+The excuses of Jonah were wrapped up in what we today call ethno­centrism, prejudice, and racism. Jonah experienced the love of God in his life and knew God was compassionate. But Jonah couldn’t get past his feelings of national pride. Because he believed that he was better than others, he was unwilling to go in mission the way that God desired. What a sad story. Yet, we can continue to learn from it today.
+
+The question at the end of the book of Jonah is one for us to ask ourselves and our churches. Do we demonstrate a love for the communities around us, especially for its members who look different from us or come from other parts of the world? All too often, I have heard conversations in church or in Sabbath School that reveal prejudices and harmful ethnocentric attitudes. These attitudes are often accompanied by excuses for why certain groups of people fall outside our mission. Such thinking is no different from the mindset of Jonah.
+
+Jonah failed to grasp that when God shows love and compassion to others, His divine manifestation of mercy should serve as a reminder that God has done the same for us. When you go out in mission and share the love of God and watch as it transforms people’s lives, such an experience also can enhance your journey with God. This experience also can draw you into new human relationships with people who may be very different from you but who share a relationship with Jesus. Jonah could have made new friends on the ship with whom to share his faith. The same goes for Nineveh. Unfortunately, those opportunities were missed because Jonah opted for excuses rooted in his selfish pride and ethnocentrism.
+
+#### Part III: Life Application
+
+We should all be thankful for the beautiful experiences we have with Jesus. Over time, though, we often become complacent in our journey with God. With this complacency often comes a tendency to make excuses for not sharing the love of God with others. Complacency can happen subtly, and before we know it, we are asleep when we should be awake. As individuals and as churches, we need to take an honest look at our daily lives and hold ourselves accountable. If we are not actively pursuing relationships with people who are suffering or need help in bearing their burdens, we have grown complacent. Accountability requires getting together with a small group of trusted friends from your local church who are willing to be open about their complacency and are ready to help each other come up with ways to rekindle experiences with God by creatively sharing Him with the broader world around us.
+
+For others, the reality is grimmer; they have developed excuses to avoid mission to specific groups of people, such as Muslims or Catholics, because they feel that these people are unworthy of God’s love. Such excuses reveal that an attitude of superiority and ethnocentrism is at work among them; in which case, there is a need to ask God to help them love all people. We can achieve this goal by asking ourselves what we think about certain people. If we are afraid of certain groups or think they are not worth saving, then it is a sign something is wrong with us, not the group in question. Honest assessment takes a level of self-scrutiny and truthfulness that is hard to achieve, but a church willing to grapple with these realities is a church the Holy Spirit can influence.
+
+`Notes`
