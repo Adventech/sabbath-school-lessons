@@ -1,0 +1,28 @@
+name: sync-stage-into-master
+on:
+  schedule:
+    - cron: '0 1,7 * * *'
+jobs:
+  sync-stage-into-master:
+    if: github.ref_name == 'stage'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: stage
+          fetch-depth: 0
+          persist-credentials: false
+          github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
+      - name: Get Status of current ref
+        id: get-status
+        uses: danieldeichfuss/get-status@v0.0.10
+        with:
+          ref: ${{ github.sha }}
+      - name: Merge stage -> master
+        if: ${{steps.get-status.outputs.all-checks-completed == 'true' &&  steps.get-status.outputs.all-checks-passed == 'true'}}
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: stage
+          target_branch: master
+          github_token: ${{ secrets.PERSONAL_GH_TOKEN }}

@@ -1,0 +1,25 @@
+### Ephesians: How to Follow Jesus When Times Are Hard
+
+In the letter to the Ephesians, Paul tells us about the experience of the Ephesian Christians. Paul writes to the Ephesians many years after the Christian religion came to the city of Ephesus. When Paul writes his letter to the Ephesians, they are in trouble. Many of them wonder if their faith is important to their lives in Ephesus.
+
+Ephesus was the fourth largest city in the Kingdom of Rome at the time Paul wrote his letter. In the past, Paul’s preaching made many businessmen in Ephesus upset. The businessmen made and sold statues of Diana, the goddess of the moon. The businessmen felt that Paul’s preaching was bad for business. They were afraid that people would become Christians and stop buying the statues of Diana. Now many years after that experience, Paul writes to the Ephesians from jail. Paul worries that the Ephesian Christians will lose hope because they live in a city where most people worship false gods. Paul’s readers are already Christian. But Paul talks to them the same way a general talks to people that he wants to convince to join his army. Paul wants His readers to join God’s army again. Paul wants to help his readers feel excited again about serving Jesus. Then we will feel excited because we are a part of God’s church.
+
+The Christian faith is all about Jesus. So, Paul talks about Jesus in his letter to the Ephesians. Paul’s letter is filled with respect and worship for God. Weak Christians will grow strong if they fall in love with Jesus all over again. Christians must trust in God’s mercy and His power over sin. Paul wants to help his readers to do that. So, Paul talks about the honor that Jesus got when He woke up from the dead and went to heaven. God’s plan to save sinners is all about Jesus, too. As part of this plan, God wants to join everything in heaven and on earth in peace and agreement. God wants to put everything under Jesus’ control, too. The church has an important part in this work.
+
+Paul explains to the Ephesian Christians more about God’s plan for His church. God offers a new way of life for Christians. If Christians want this new life, they must let God change their behavior and help them live holy lives. Jesus’ love for us will change how we behave and communicate. When we belong to Jesus, we must not act mean and nasty to other people. We will not use people for sex or do sex sins. What if the people around us are doing these sins and say they are okay to do? We will behave the same as Jesus. Jesus is our Example, and not the people around us. Jesus suffered and gave His life for us. So, because of Jesus’ offering for us, we will love our friends, family, and church members. We will serve everyone with joy. God’s plan for His church also includes fellowship with Him and with other members. Paul invites Christians to worship God, accept the Holy Spirit, and honor Jesus.
+
+Paul talks a lot in his letter about how our lives will change when we belong to God’s church. Paul is very excited about the idea that God has joined together two groups who were separated in the past: Jews and non-Jews. God joins these two groups together as one people in His church. The church shows God’s love to the people on this earth. The church also shows to them the important rules of God’s coming kingdom.
+
+Paul uses four word pictures for the church:
+
+**1.  Body.** Christians are part of Jesus’ body. As part of Jesus’ body, the church members show other people their love for Jesus and their loyalty to Him. Church members also show their peace and agreement with each other.
+
+**2.  Temple.** The church is a living temple. Jesus built this temple when He died on the cross at Calvary. We worship God in this temple, the church.
+
+**3.  Bride.** The church is Jesus’ bride. Jesus is the Groom. The same as Jesus’ bride, the church looks forward to the time when the Groom will come to take His people home to live with Him forever. That happy time will feel the same as a wedding.
+
+**4.  Army.** The church is the same as God’s army. As soldiers in God’s army, Christians fight hard in Jesus’ name to bring peace to the hearts of people. Church members fight in God’s strength against Satan and his evil angels.
+
+Ephesians has an important message that we need for our time today. As time passes, we may become lazy or too relaxed in our worship of God. Paul’s letter to the Ephesians helps us to remember to look to Jesus for new life. As Christians, we must do more for Jesus than just showing up for church. We must work for Jesus while we wait for Him to come back. This quarter we will prayerfully and carefully study the letter to the Ephesians. May we get excited again about following Jesus in these difficult times.
+
+_John K. McVay is the president and a religion professor at Walla Walla University in College Place, Washington, USA. Dr. McVay has served there since 2006._

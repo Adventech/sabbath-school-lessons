@@ -1,0 +1,58 @@
+---
+title:  Penuntun Guru
+date:   25/08/2023
+---
+
+#### Bagian I: Ringkasan
+
+**Ayat Inti:** Efesus 5:15-17
+
+**Fokus Pelajaran:** Ef. 5:1-20; 1 Kor. 5:1-12; Why. 16:1-16; Kol. 4:5; Ams. 20:1; Ams. 23:29-35; Kis. 16:25.
+
+**Pendahuluan:** Pandangan hidup dan identitas menentukan nilai dan kebijaksanaan. Pandangan hidup bukan Yahudi akan mengembangkan seperangkat nilai dan jenis kebijaksanaan tertentu. Kerajaan Allah, pandangan Allah, nilai-nilai Allah, menghasilkan jenis kebijaksanaan yang sama sekali berbeda. Untuk alasan ini, Paulus tidak memanggil orang Kristen untuk merangkul kebijaksanaan salah satu aliran filsafat moderat, atau bahkan meniru filsafat kebanggaan Yunani-Romawi, dalam memperjuangkan kebajikan. Sebaliknya, dalam pandangannya, hikmat Kristen berakar pada kasih pengorbanan Allah, dalam terang Kristus dan moralitas yang murni. Orang Kristen yang bijaksana akan lari dari hikmat dunia, yang diekspresikan dalam pesta pora seksual yang bejat, kesombongan egosentris, dan minum anggur. Sebaliknya, orang Kristen yang bijaksana akan terbangun dari “tidurnya” dunia, akan diterangi oleh Injil Kristus, akan diberdayakan oleh kehadiran Roh Kudus, akan meraih momen keselamatan, dan akan . . . menyembah Allah!
+
+Perbedaan antara hikmat dunia ini dan hikmat Allah terletak pada pemahaman siapa yang menjadi objek penyembahan seseorang: diri sendiri atau Allah? Kepada siapa seseorang memusatkan kehidupannya: diri sendiri atau Allah? Kepada siapa seseorang mengisi hidupnya: diri sendiri atau Allah?
+
+**Tema-Tema Pelajaran:** Pelajaran pekan ini menekankan tiga tema utama:
+
+1.  Hikmat Kristen berakar pada wahyu Allah atau terang Kristus.
+
+2.  Hikmat Kristen bukanlah kumpulan pernyataan cerdas tentang kehidupan. Sebaliknya, ini adalah gaya hidup, jalan hidup yang diubahkan oleh Roh Kudus menurut teladan yang diberikan kepada kita di dalam Kristus.
+
+3.  Hikmat Kristen adalah tentang kesempatan dan penyembahan.
+
+#### Bagian II: Komentar
+
+**Hikmat yang Datang dari Atas**
+
+Hampir tidak mungkin membayangkan Paulus menulis tentang aspek-aspek praktis kehidupan Kristen dan tidak memasukkan hikmat dalam pembahasannya. Dunia kuno tenggelam dalam pembicaraan tentang kebijaksanaan. Hanya beberapa abad sebelum Paulus, orang Yunani melahirkan apa yang mereka sebut “filsafat”, yaitu cinta akan kebijaksanaan. Filsafat memberontak terhadap kebijaksanaan mitologi Yunani kuno, di mana Zeus, Metis (istri pertama Zeus), Athena (putri mereka), dan Apollo dikaitkan dengan kebijaksanaan dengan cara yang berbeda. Semua dewa-dewa ini dipercaya oleh manusia, menjadi pelindung berbagai kota atau kelompok orang. Misalnya, diyakini bahwa orang yang mencari kebijaksanaan dalam berbagai masalah kehidupan dapat mengakses pikiran atau pengetahuan dewa Yunani Apollo melalui Pythia, pendeta kuil Apollo, yang juga dikenal sebagai peramal Delphi. Tetapi selain mencari kebijaksanaan dari yang membentuk kebijaksanaan Delphi, tiga di antaranya yang paling populer: “kenalilah dirimu sendiri,” “jangan berlebihan,” dan “kepastian mengarah pada kehancuran.” Pepatah-pepatah lain mengajarkan cara hidup Yunani, mulai dari menghormati para dewa hingga menjalankan kehidupan yang etis hingga mengorbankan hidup seseorang untuk negaranya.
+
+Sementara para filsuf, atau “pencinta kebijaksanaan,” menolak aspek mitologis dari agama kuno mereka, mereka menempatkan diri mereka di garis suksesi peramal di Delphi. Di satu sisi, para filsuf mengklaim bahwa Pythia telah menyebut Socrates sebagai orang Yunani yang paling bijaksana. Di sisi lain, para filsuf memanfaatkan kebijaksanaan Delphi, terutama pepatah pertama, “kenalilah dirimu sendiri.”
+
+Untuk alasan ini, filsafat Yunani menentukan dan membentuk tujuan selanjutnya dari pemikiran Barat untuk mencari kebijaksanaan dengan menggunakan akal manusia. Akal manusia yang sama digunakan sebagai landasan etika atau cara hidup Yunani. Filsafat lain, terutama di Timur, dibangun di atas dasar pemikiran yang sama. Buddhisme, misalnya, adalah usulan tentang cara hidup yang berpusat pada pengalaman dan psikologi manusia. Terlepas dari keragaman aliran filosofis yang kaya, baik di Barat maupun di Timur, mereka semua memiliki landasan yang sama: prinsip “kenalilah dirimu sendiri.” Prinsip ini menunjukkan bahwa filsafat-filsafat ini mewakili upaya yang berpusat pada manusia untuk memahami realitas tertinggi kehidupan dan, dengan demikian, mereka menyimpulkan cara hidup, pengambilan keputusan, dan perilaku berdasarkan intropeksi dan akal manusia. Dengan demikian, kebijaksanaan manusia, baik di Barat maupun di Timur, menolak atau menyimpang dari wahyu Ilahi.
+
+Di sisi lain, karakteristik dasar dari hikmat Alkitab adalah bahwa kebijaksanaan itu berakar pada wahyu Ilahi. Baik Paulus maupun Yakobus menyebutkan karakteristik hikmat yang juga dipromosikan oleh para filsuf lain: ketenangan, keseimbangan, moderasi, keadilan, dll. Namun, Yakobus mencirikan hikmat Kristen sebagai “dari atas” (Yak. 3:17), dan bukan “nafsu manusia, dari setan-setan” (Yak. 3:15). Paulus mengembangkan kontras yang sama antara hikmat Kristen dan hikmat duniawi dengan mengacu pada konsep terang versus kegelapan. Untuk alasan ini, dia memperingatkan orang-orang Efesus agar tidak tertipu “kata-kata yang hampa” (Ef. 5:6) atau “perbuatan-perbuatan kegelapan” (Ef. 5:11), karena tertipu oleh hal-hal ini adalah menjadi tidak bijaksana.
+
+Tetapi mengapa Paulus mencirikan hikmat dunia dengan cara yang begitu suram? Bukankah para filsuf dunia juga memberikan nasihat yang baik, mengajarkan cara hidup yang berdasarkan keadilan dan saling menghormati? Ya, banyak dari mereka melakukannya. Namun, betapapun mulianya cara hidup yang dirancang oleh filsafat manusia, itu akan selalu kurang, parsial, dan berdasarkan motivasi yang salah, menolak wahyu Allah. Masalah filsafat duniawi tidak terletak pada apa yang mereka tegaskan, tetapi pada apa yang mereka tolak atau sangkal. Seorang filsuf mungkin mendapatkan satu aspek kehidupan yang sebagian benar, tetapi penolakan terhadap wahyu Allah dan kuasa perantaraan-Nya di dunia membuat filosofinya tidak berguna untuk keselamatan dan kehidupan di kerajaan Allah. Itulah sebabnya, misalnya, ketidakmurnian seksual tidak dianggap bermasalah dalam etika kebanyakan filsafat. Dan bahkan jika beberapa filsuf mempromosikan untuk menahan nafsu seksual, alasan untuk melakukannya adalah salah.
+
+Ellen G. White mencatat: “Banyak tindakan yang dianggap sebagai perbuatan baik, bahkan perbuatan kedermawanan, jika diselidiki dengan cermat, ternyata didorong oleh motif yang salah. Banyak yang menerima pujian untuk kebajikan yang tidak mereka miliki. Penyelidik hati memeriksa motif, dan setiap perbuatan yang dipuji oleh manusia dicatat oleh-Nya sebagai apa yang muncul dari motif yang egois dan kemunafikan. Setiap perbuatan dalam hidup kita, baik itu sesuatu yang baik dan terpuji atau pantas untuk dikecam, dinilai oleh Penyelidik hati menurut motif yang mendorongnya”—_Testimonies for the Church_, jld. 2, hlm. 512.
+
+Di sisi lain, kata-kata mereka “kosong” karena filsafat ini tidak memiliki kuasa kasih karunia, penebusan, pengampunan, atau kuasa Roh untuk mengubah kita dan membantu kita berjalan di jalan Allah. Dalam sebuah surat, Ellen G. White menjelaskan pentingnya motivasi dan wahyu dalam hubungannya dengan kebenaran dan filsafat: “Iman dalam kebohongan tidak akan memiliki pengaruh yang menyucikan pada kehidupan atau karakter. Tidak ada kesalahan yang merupakan kebenaran, atau dapat dijadikan benar dengan pengulangan, atau dengan iman di dalamnya. Ketulusan tidak akan pernah menyelamatkan jiwa dari konsekuensi memercayai kesalahan. Tanpa ketulusan tidak ada agama yang benar, tetapi ketulusan dalam agama palsu tidak akan pernah menyelamatkan seseorang. Saya mungkin benar-benar tulus dalam mengikuti jalan yang salah, tetapi itu tidak akan menjadikannya jalan yang benar, atau membawa saya ke temapt yang ingin saya capai. Allah tidak ingin kita memiliki kepercayaan yang buta, dan menyebutnya sebagai iman yang menguduskan. Kebenaran adalah prinsip yang menguduskan, dan oleh karena itu membuat kita mengetahui apa itu kebenaran. Kita harus membandingkan hal-hal rohani dengan yang rohani. Kita harus menguji segala sesuatu, tetapi berpegang teguh hanya pada apa yang baik, apa yang memiliki kepercayaan Ilahi, yang memberikan kepada kita motif dan prinsip sejati yang seharusnya mendorong kita untuk beretindak”—_Selected Messages,_ buku 2, hlm. 56.
+
+Untuk alasan ini, perjalanan Kristen yang diyakini Paulus didasarkan pada wahyu Allah di dalam Kristus Yesus. Hanya Allah di Alkitab yang menciptakan kita yang dapat mengungkapkan kepada kita siapa Dia, siapa kita, dan bagimana kita bisa hidup bahagia. Hanya Allah yang dapat memberi kita rahmat dan kuasa untuk menjalani kehidupan itu di dalam kerajaan-Nya.
+
+**Terang dari Terang**
+
+Dalam Efesus 5, Paulus tidak mengatakan bahwa orang-orang Efesus “dalam kegelapan” tetapi bahwa mereka adalah “kegelapan” (Ef. 5:8). Tetapi sekarang, “di dalam Tuhan,” mereka adalah “terang” (Ef. 5:8). Untuk alasan ini, ia memanggil jemaat di Efesus untuk “hidup sebagai anak-anak terang” (Ef. 5:8) dan menjelaskan bahwa hidup dalam terang berarti menghasilkan “buah terang”, “segala kebaikan, kebenaran, dan kebenaran” (Ef. 5:9, _NASB_), untuk hidup sedemikian rupa untuk “menyenangkan Tuhan” (_lihat_ Ef. 5:10, _NASB_), dan untuk hidup dalam terang Kristus, diterangi oleh Kristus (Ef. 5:13, 14). Jadi, kita adalah terang “di dalam Tuhan” (Ef. 5:8) karena kita diterangi oleh Kristus (Ef. 5:14).
+
+**Teologi Advent tentang Gaya Hidup**
+
+Sebagai orang Advent, kita telah memasukkan gaya hidup dalam daftar pernyataan doktrin kita. Meneladani Paulus, gaya hidup bukanlah aspek yang sepele melainkan bagian sentral dari kekristenan, yaitu, dengan menjalani kehidupan yang benar sebagai orang Kristen. Orang Advent secara khusus mengartikulasikan ajaran Alkitab tentang cara hidup orang Kristen dalam dua keyakinan mendasar: 19 (“Hukum Allah”) dan 22 (“Perilaku Kristen”). Selain itu, fakta bahwa, di dalam Kristus, kita menganggap gaya hidup kita yang telah diubah sebagai hal yang penting bagi pengalaman Kristen juga tercermin dalam disiplin gereja kita dan juga dalam pekabaran kita yang diulang-ulang untuk kebangunan dan reformasi
+
+#### Bagian III: Aplikasi Kehidupan
+
+1.  Mintalah UKSS Anda untuk mengingatkan bagaimana mereka memandang hikmat sebelum menjadi orang Kristen. Apakah hikmat bagi mereka saat itu? Undanglah UKSS Anda untuk menuliskan definisi mereka sendiri tentang hikmat setelah mereka menjadi orang Kristen sejati. Mintalah mereka untuk membagikan pemahaman mereka tentang hikmat dengan anggota UKSS.
+
+2.  Mintalah UKSS Anda untuk mempertimbangkan pertanyaan-pertanyaan ini: Apa arti “menjadi tercerahkan” dan “hidup dalam terang” dalam konteks budaya Anda? Bagaimanakah konsep-konsep ini dibandingkan dengan pandangan Alkitab tentang “menjadi tercerahkan” dan “berjalan dalam terang”? Apa arti konsep-konsep ini bagi Anda secara pribadi?
+
+3.  Kadang-kadang orang Kristen dituduh menekan kebijaksanaan dan mencegah perkembangan pengetahuan manusia. Beberapa orang menganggap orang Kristen sebagai orang yang arogan dan meremehkan hikmat dunia. Bagaimanakah kita, sebagai orang Kristen Advent, menghargai pencarian dunia akan kebijaksanaan; belajar dari warisan kebijaksanaan dunia; menjdi rendah hati tentang kebijaksanaan kita sendiri, seperti yang diterima dari Allah dan bukan miliki kita sendiir; namun mengkhotbahkan bahwa Allah adalah sumber hikmat yang nyata, dan satu-satunya? Diskusikan jawabannya di kelas.

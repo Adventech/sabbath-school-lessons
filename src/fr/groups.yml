@@ -11,3 +11,6 @@
   jo:
     name: "InVerse"
     order: 200
+  iad:
+    name: "Division Interaméricaine"
+    order: 150
