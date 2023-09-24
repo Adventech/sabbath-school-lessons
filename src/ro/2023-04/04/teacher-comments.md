@@ -27,7 +27,7 @@ După cum am menționat într-un studiu anterior, misiunea este întotdeauna un 
 
 **În al doilea rând**, avem ceva de împărtășit. Deși este acolo înaintea noastră, Duhul lucrează împreună cu noi. Fiecare dintre noi are o istorie sau o mărturie unică despre parcursul lui cu Isus Hristos. Istoriile noastre trebuie împărtășite. În acest mod, prin experiențele personale relatate, s-ar putea să trezim în inima cuiva o nouă înțelegere cu privire la Dumnezeu sau o nouă dorință de a-L urma pe Mântuitorul. Aceste noi dorințe și noi înțelegeri din inima oamenilor sunt generate de faptul că noi, prin vorbe și prin fapte, am demonstrat iubirea lui Dumnezeu. Pentru că relațiile sănătoase sunt esența a ceea ce dorește Dumnezeu pentru noi, deseori El Își amână sau Își limitează descoperirea, până când un urmaș al Său va fi prezent pentru a împărtăși vestea bună. Prin urmare, este de datoria noastră să recunoaștem acest privilegiu, să ne rugăm și să ne armonizăm cu cei cu care Dumnezeu lucrează deja, căutând să le vorbim altora despre Dumnezeu cu fiecare ocazie.
 
-### IV. Aplicație
+### III. Aplicație
 
 Deși liderii bisericii încearcă deseori să îi motiveze pe oameni pentru misiune, este esențial să recunoaștem că există câteva lucruri simple pe care fiecare dintre noi le poate face pentru a se evalua pe sine și biserica sa locală în ce privește capacitatea de implicare în lucrarea lui Dumnezeu. Aceste lucruri simple, realizate în mod conștient, ne pot transforma radical în direcția adoptării unei atitudini umile și a unor schimbări în biserică ce ne vor face să ne concentrăm mai mult pe nevoile lumii.
 

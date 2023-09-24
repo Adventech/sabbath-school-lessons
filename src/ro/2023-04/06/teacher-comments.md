@@ -92,7 +92,7 @@ Acest mesaj este important pentru misiunea noastră de astăzi, pentru că mulț
 
 Creștinii nu ajung în ceruri ca suflete lipsite de trup. A doua venire readuce totul la viață. Credincioșii ar trebui să se pregătească pentru a doua venire ca oameni întregi. Dumnezeu vrea să ne facă iarăși oameni întregi. Mântuirea vizează fiecare parte din viața și ființa noastră. Isus vrea să trăim vieți complete, depline. În Ioan 10:10, El spune: „Eu am venit ca oile să aibă viață, și s-o aibă din belșug.” Motivația și pregătirea noastră pentru lucrare sunt necesare mai mult ca oricând într-o lume care este bolnavă, stăpânită de dependențe și care trăiește în ignoranță, o lume care are nevoie disperată de mesajul Domnului Isus, Cel care este preocupat și acționează în toate domeniile vieții noastre. O lume pe moarte are nevoie de speranța unei vieți noi trăite la maximum prin harul și puterea lui Dumnezeu.
 
-### IV. Aplicație
+### III. Aplicație
 
 Credinciosul așteaptă a doua venire a lui Isus studiind Cuvântul lui Dumnezeu și intonând imnuri de laudă în părtășie cu trupul lui Hristos (biserica), în timp ce se pregătește să slujească omenirea. Nu ar trebui să existe nicio clipă de inactivitate, niciun moment de pierdut, fiecare moment fiind folosit pentru pregătirea și implicarea în misiunea lui Dumnezeu. Noi mergem înainte încrezători în făgăduințele Lui. „Să nu obosim în facerea binelui, căci, la vremea potrivită, vom secera, dacă nu vom cădea de oboseală” (Galateni 6:9).
 
