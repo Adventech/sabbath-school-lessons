@@ -6,6 +6,7 @@ on:
       - stage
 jobs:
   deploy-pdf:
+    if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
