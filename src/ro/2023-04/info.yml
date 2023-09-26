@@ -4,8 +4,8 @@
   human_date: "Octombrie · Noiembrie · Decembrie 2023"
   start_date: "30/09/2023"
   end_date: "29/12/2023"
-  color_primary: "#5A2C32"
-  color_primary_dark: "#541B23"
+  color_primary: "#782F2F"
+  color_primary_dark: "#650B0E"
   splash: true
   credits:
     - name: Autori
