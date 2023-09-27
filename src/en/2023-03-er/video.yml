@@ -28,6 +28,8 @@ video:
         thumbnail: https://images.hopeplatform.org/resize/L3dfMzg0X19xXzc1L2hvcGUtaW1hZ2VzLzYyMGUyM2Q0YzQ5ZDY0MDA2NTk1YzE5Mi94WlcxNjkwODAwNjQ4MjI0LnBuZw/w_384__q_75/hope-images/620e23d4c49d64006595c192/xZW1690800648224.png
       - src: https://jstre.am/videos/jsv:Vy0UuKbrdsM-360p.mp4
         thumbnail: https://images.hopeplatform.org/resize/L3dfMzg0X19xXzc1L2hvcGUtaW1hZ2VzLzYyMGUyM2Q0YzQ5ZDY0MDA2NTk1YzE5Mi9jcEMxNjgzODIyOTAxNDA4LmpwZw/w_384__q_75/hope-images/620e23d4c49d64006595c192/cpC1683822901408.jpg
+      - src: https://jstre.am/videos/jsv:tzqtlI2WzGx-360p.mp4
+        thumbnail: https://images.hopeplatform.org/resize/L3dfNzY4X19xXzc1L2hvcGUtaW1hZ2VzLzYyMGUyM2Q0YzQ5ZDY0MDA2NTk1YzE5Mi9mSTExNjk1MjE5ODc3NDc0LnBuZw/w_768__q_75/hope-images/620e23d4c49d64006595c192/fI11695219877474.png
   - artist: Hope Lives 365
     clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-03-01.mp4
@@ -56,6 +58,8 @@ video:
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-03-12.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-03-13.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-03-13.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-03-14.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-03-14.webp
   - artist: It Is Written
     clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-03-01.mp4
@@ -84,6 +88,8 @@ video:
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-03-12.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-03-13.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-03-13.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-03-14.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-03-14.webp
   - artist: Amazing Facts Study Hour
     thumbnail: https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg
     clips:
@@ -129,3 +135,35 @@ video:
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-03-12.webp
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-03-13.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-03-13.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-03-14.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-03-14.webp
+  - artist: Hebrew Bible Institute
+    clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-01.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-02.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-02.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-03.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-03.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-04.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-04.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-05.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-05.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-06.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-06.png
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-07.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-07.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-08.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-08.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-09.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-09.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-10.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-10.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-11.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-11.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-12.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-12.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-13.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-13.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-14.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-03-14.webp
