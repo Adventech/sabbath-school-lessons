@@ -1,0 +1,19 @@
+### Sissejuhatus
+
+#### Lakakem rääkimast ja asugem tegutsema!
+
+Mitu aastat tagasi avaldas üks meie adventkoguduse ajakiri mõistukõne kohutavast soost. Kui inimesed sellest soost läbi läksid ja rajalt kõrvale kaldusid, vajusid nad enamasti laukasse. Lähedalasuvas külas oli kuulda nende surmakarjeid. See oli õudne.
+
+Külarahvas tuli kokku nõu pidama. Tegelikult pidasid nad mitu korda nõu. Põhjuse analüüsimiseks esitati erinevaid teooriaid ja koostati dokumente ning mõnikord pakuti välja isegi lahendusi. Ent kunagi ei tehtud midagi peale jätkuva kokkutulemise ja rääkimise. Arutelud kestsid mitu aastat. Inimesed kirjutasid sel teemal väitekirju. Kohale kutsuti külalislektorid. Peeti hoovimüüke, et koguda raha toidu valmistamiseks neile, kes ohverdasid oma aega sellistel koosolekutel istumisele. Lõpuks koguti raha helikindla koosolekusaali ehitamiseks, et teelt eksinute ja surijate karjed ei lõhestaks käimasolevat arutelu. Ent keegi ei teinud midagi, et aidata hädas olijaid. Ja keegi ei teinud midagi, et takistada veel rohkem inimesi sohu kadumast. Nad ainult rääkisid.
+
+Kogudus tervikuna ja sinu hingamispäevakooli klass ei taha olla kõnealuste külaelanike moodi. Armastame ühiselt koos olla, palvetada, mõelda, rääkida ja arutleda. Ent igatseme minna veel kaugemale ja teha midagi päriselt nende heaks, kes on meie ümber. Tahame oma kogukonnas ja kogu maailmas midagi muuta. Tahame, et töö saaks lõpetatud, ja tahame, et Jeesus tuleks tagasi.
+
+Selle veerandaasta „Täiskasvanute hingamispäevakooli õppetükkide“ eesmärk on suunata tähelepanu välja minemisele ja tegutsemisele. Vaatleme mitut imehead piiblilugu. Loeme põnevatest kogemustest ja näidetest. Uurime, millised meie käsutuses olevad vahendid aitavad meil jõuda oma naabriteni (eriti nendeni, kel pole kristlikku tausta). Ent need on vaid meetodid meie motiveerimiseks ja võimalike tegevusviiside kirjeldamiseks. Iga õppetüki tegelik tulipunkt, tegelik tuum, on nädala neljapäevases osas – üleskutse minna ja päriselt midagi teha.
+
+Jagame teoloogilisi tähelepanekuid ning pakume teile vahendeid ja ideid, mille abil töötada. Igas neljapäevases osas on mõni väljakutse. Esialgu on need üsna lihtsad. Veerandaasta edenedes kasvavad eesmärgid tasapisi (ja vahel mitte väga tasapisi). Eesmärgiks on, et igaüks meist võtaks ülesande omaks ja palvetaks, et Püha Vaim juhiks, rakendaks õpitu ellu ning võtaks järgmisel nädalal mõne minuti aega, et rääkida, kuidas läks. See pole hooplemise hetk, vaid aeg kirjeldada, mis läks hästi ja mis mitte. Kui räägime, tekivad rühmas ideed. Eestpalvenimekiri (nii isiklik kui ka kollektiivne) pikeneb.
+
+Lõpuks soovime, et seda veerandaastat ei mäletataks ennekõike meeldejäävate mõtete, haaravate lugude ega sügavate teoloogiliste mõistete pärast. Loomulikult on see ka väga tähtis. Ent soovime, et me kõik vaataksime sellele veerandaastale tagasi kui ajale, mil Püha Vaim võttis meie alandlikud püüded ning tegi Tema nime auks ja austuseks misjoni-imesid.
+
+*Globaalmisjoni keskused rajas 1980. aastail Peakonverents. Need tegutsevad Peakonverentsi alluvuses oleva Adventmisjoni juhtimisel. Praegu on keskusi kuus. Nende eesmärgiks on aidata kogudustel veel tõhusamalt asutada uusi usklike gruppe peamiselt maailma mittekristlike inimrühmade hulgas.*
+
+*Käesoleva „Täiskasvanute hingamispäevakooli õppetükkide“ vihiku autorid on keskuste juhid (Petras Bahadur, Richard Elofer, Kleber Gonçalves, Clifmond Shameerudeen, Doug Venn, Amy Whitsett, Greg Whitsett), kellele olid abiks Gary Krause (Adventmisjoni juht), Homer Trecartin (Globaalmisjoni keskuste emeriitjuht) ja Jeff Scoggins (Globaalmisjoni planeerimisosakonna juht).*
