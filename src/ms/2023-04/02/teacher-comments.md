@@ -1,0 +1,56 @@
+---
+title:  Komen Guru
+date:  13/10/2023
+---
+
+#### Bahagian I: Gambaran Keseluruhan
+
+Dalam ucapan perpisahan sebelum kenaikan-Nya ke syurga, Yesus menugaskan murid-murid-Nya  dengan berkata kepada mereka, “Segala kekuasaan telah diserahkan kepada-Ku, baik di syurga mahupun di bumi. 19Oleh itu pergilah, jadikan semua bangsa murid-Ku. Baptislah mereka dengan nama Bapa, Anak dan Roh Kudus. 20Ajarlah mereka supaya taat akan segala perkara yang telah Kuperintahkan kepadamu. Aku akan sentiasa bersamamu, hingga ke akhir zaman.” (Mat. 28:18-20, AVB). Arahan ini telah dikenali sebagai Suruhan Agung. Dengan Suruhan Agung ini, Yesus menetapkan agenda untuk gereja dalam semua era dan konteks. Selain daripada menyatakan dengan jelas tanggungjawab murid-murid-Nya untuk menyebarkan ajaran-Nya kepada semua kumpulan manusia di dunia ini, Yesus juga meyakinkan para pengikut-Nya bahawa menyelesaikan tugas yang menakutkan ini boleh dilakukan kerana kemahakuasaan-Nya dan kemahahadiran-Nya, yang akan dilaksanakan-Nya bagi pihak mereka.
+
+#### Bahagian II: Ulasan
+
+Walaupun pada mulanya terdapat perselisihan yang sengit mengenai beberapa aspek pada Suruhan Agung ini (Kis. 15:1-29, Gal. 2:11-14), namun secara keseluruhan, pemahaman gereja yang mula-mula tentang identiti dan misinya berpusat di sekitar perintah Kristus untuk menjadikan semua bangsa murid-Nya. Hakikat bahawa setiap daripada empat Kitab Injil berakhir dengan satu versi Suruhan Agung ini adalah saksi yang kuat tentang kepetingannya (Mat. 28:18–20, Markus 16:15–20, Lukas 24:45–49, Yohanes 20:21). –23). Sejak itu, Suruhan Agung ini telah ditafsirkan dan digunakan secara berbeza selama berabad-abad.
+
+**Komponen Pada Pemuridan**
+
+Tinjauan literatur pemuridan menyatakan tiga dimensi penting, atau proses, bagi setiap pendekatan yang berkesan untuk pemuridan: dimensi rasional, relasional dan misi.
+
+Dimensi rasional (pembelajaran) pemuridan ialah proses di mana orang percaya sengaja belajar daripada Yesus. Dalam konteks asalnya, "murid" (mathetes) merujuk kepada seseorang yang menunutut ilmu (berguru) dengan seorang guru. Orang itu akan melekatkan dirinya kepada seorang guru untuk tujuan memperoleh pengetahuan teori dan praktikal. Dimensi rasional menekankan keperluan untuk meneruskan metamorfosis dan pertumbuhan, termasuk mereka yang telah menjadi murid. Kerana “pengajaran” dalam Matius 28:19 adalah proses yang berterusan, dimensi rasional pemuridan ialah proses pembelajaran dan pertumbuhan sepanjang hayat. Walau bagaimanapun, matlamat pembelajaran berterusan ini bukan untuk menyampaikan pengetahuan sahaja tetapi untuk menyemai komitmen sepenuhnya kepada Yesus.
+
+Dimensi perhubungan - relasional (komuniti) pada pemuridan berkembang dalam konteks satu komuniti yang menyokong di mana akauntabiliti boleh berlaku. Perjanjian Baru menggambarkan budaya komunal yang sangat dinamik dalam Gereja Awal kerana pemahaman mereka tentang menjadikan murid itu sebagai satu proses hubungan. Oleh kerana ia berakar pada Perjanjian Lama maka Gereja Awal terus menekankan kekerabatan sebagai salah satu nilai terasnya. Apa yang berbeza tentang komuniti baru ini ialah persaudaraan tidak lagi ditakrifkan dari segi garis keturunan dan etnik tetapi dari segi kepercayaan dan persekutuan bersama di dalam Kristus. Gereja menjadi persekitaran kemasukan dan penerimaan (Gal. 3:28). Keanggotaan terbuka kepada semua atas dasar pengakuan iman kepada Kristus sebagai Juruselamat dan demonstrasi umum, melalui baptisan air, atas kesetiaan sepenuhnya kepada Kristus (Kis. 2:37, 38).
+
+Gereja Awal menyatakan nilai solidariti korporat dan kekerabatan melalui penggunaan motif, seperti tubuh Kristus dan keluarga Tuhan, untuk menggambarkan saling kebergantungan di kalangan anggotanya dan untuk menyampaikan ikatan erat yang membolehkan mereka memperlakukan satu sama lain sebagai sesama anggota satu keluarga (Roma 12, 1 Korintus 12, Ef. 2:19, Efesus 4, Gal. 6:10, 1 Tim. 3:15, 1 Petrus 4:17). Keprihatinan sedemikian memupuk perkembangan rasa saling bergantung, perpaduan korporat dan akauntabiliti di kalangan anggota gereja. Saling kebergantungan mereka menunjukkan bahawa setiap anggota tubuh itu mempunyai peranan yang unik untuk dilaksanakan dan masih bergantung kepada sesama anggota yang lain.
+
+Dengan menunjukkan cara hidup yang baru, orang ramai telah tertarik kepada satu komuniti iman baru ini (Kis. 2:46, 47). Dalam suasana seperti itu, menjadi seorang murid tidak sinonim dengan hanya menerima kebenaran abstrak yang seimbang tentang Yesus. Menjadi murid Kristus adalah tentang belajar daripada Yesus dan mencontohi dalam kehidupan pengetahuan tentang Dia. Jenama pemuridan ini adalah apa yang dilakukan oleh Gereja Awal bagi pihak Kristus dan bagaimana mereka menggambarkan Kristus di dunia. Budaya komunal Perjanjian Baru ini, di mana orang-orang percaya adalah ahli kumpulan sokongan bersepadu, telah menjadi tanah yang subur bagi benih injil untuk disemai dan dipelihara.
+
+Dimensi misi pemuridan (perkongsian iman seseorang) berkaitan dengan memahami panggilan untuk “menjadikan murid” (matheteusate), dalam Matius 28:19, sebagai asas kepada satu panggilan untuk terlibat dalam misi dan menduplikasikan diri seseorang. Perintah ini adalah perintah utama pada Suruhan Agung dan ia mesti kekal sebagai tanggungjawab utama bagi gereja dalam setiap konteks. Umat percaya Perjanjian Baru mengaitkan idea kepunyaan komuniti dengan tanggungjawab berkongsi apa yang diperjuangkan oleh komuniti itu. Misi, dalam konteks Suruhan Agung, adalah lebih daripada sekadar satu panggilan untuk berkongsi Injil dengan mereka yang tidak mengenali Kristus. Misi adalah panggilan untuk berkongsi iman dengan seseorang dan untuk memuridkan penerima yang berminat untuk tujuan membebaskan mereka daripada cengkaman Syaitan, supaya mereka boleh sepenuhnya dan terus menerus mengabdikan diri mereka kepada ketuhanan Yesus Kristus.
+
+Oleh itu, Perjanjian Baru menggunakan perkataan “murid” untuk menunjukkan hubungan dengan, dan komitmen penuh kepada, Kristus yang datang sebagai hasil daripada pembelajaran dan penghayatan pengajaran-Nya, diubah oleh pertumbuhan berterusan dalam pengetahuan tentang Yesus Kristus (2 Petrus 3:18), menjalani kehidupan yang tunduk sepenuhnya kepada ketuhanan-Nya melalui kuasa Roh Kudus (Flp. 3:8), dan membantu orang lain untuk mula mengalami, mempercayai dan mengikut Yesus (2 Tim. 2:2). Dari perspektif ini, pemuridan tidak boleh difahami sebagai salah satu program gereja, kerana ia bukan peristiwa di dalam waktu. Pemuridan adalah proses seumur hidup untuk bertumbuh dalam Kristus yang mengubah perspektif kognitif, afektif, dan perspektif penilaian orang percaya tentang kehidupan.
+
+**Beberapa Perspektif Mengenai Keadaan Pemuridan Masa Ini**
+
+Terdapat satu konsensus di kalangan para sarjana pemuridan Kristian hari ini bahawa, berbanding dengan Perjanjian Baru, amalan pemuridan semasa, sebahagian besarnya, telah kehilangan tumpuan utamanya di kalangan umat Kristian. Menjadikan murid sebahagian besarnya telah dikurangkan kepada hanya memindahkan orang yang memeluk agama Kristian dan menjadi anggota gereja. Malangnya, pertumbuhan gereja semasa dilihat sebagai sebahagian besar pertumbuhan angka dan statistic sahaja tanpa banyak pendalaman rohani. Dalam erti kata lain, orang Kristian, secara umumnya, adalah lebih baik dalam mentaubatkan orang menjadi Kristian daripada membantu orang yang telah bertaubat menjadi murid Kristus. Malangnya, fenomena ini membayangkan bahawa seseorang boleh menjadi seorang Kristian tanpa perlu menjadi murid Kristus.
+
+**Menjadikan Murid: Tanggungjawab Setiap Orang Beriman**
+
+Perintah Yesus untuk menjadikan semua bangsa murid-Nya bukan hanya ditujukan kepada dua belas murid yang asal. Keperluan ini adalah tanggungjawab yang diamanahkan kepada setiap orang Kristian. Bagi Petrus, itulah sebab mengapa setiap orang percaya wujud: “Tetapi kamu umat terpilih, para imam raja, bangsa suci, umat-Nya sendiri, yang dipilih untuk mengisytiharkan puji-pujian bagi Dia yang telah memanggilmu daripada kegelapan kepada cahaya-Nya yang gemilang” (1 Petrus 2:9, AVB). Perhatikan juga pernyataan berikut dari Roh Nubuat:
+
+* “Setiap murid sejati dilahirkan ke dalam kerajaan Tuhan sebagai seorang misionari. Dia yang minum air hidup akan menjadi mata air kehidupan. Penerima menjadi pemberi. Kasih kurnia Kristus dalam jiwa adalah seperti mata air di padang pasir, yang memancar untuk menyegarkan semua orang, dan membuat mereka yang siap untuk binasa agar bersemangat untuk minum dari air kehidupan.”—Ellen G. White, The Desire of Ages, ms. 195.
+
+* “Tuhan mengharapkan pelayanan peribadi daripada setiap orang yang Dia telah Dia amanahkan dengan pengetahuan tentang kebenaran untuk masa ini. Tidak semua boleh pergi ke negara asing sebagai misionari, tetapi semua orang boleh menjadi misionari rumahtangga di dalam keluarga dan kawasan kejiranan mereka.”—Ellen G. White, Testimonies for the Church, vol. 9, ms. 30.
+
+* “Bukan kepada pastor yang telah diurapi sahaja terletaknya tanggungjawab untuk pergi memenuhi suruhan ini. Setiap orang yang telah menerima Kristus dipanggil untuk bekerja demi keselamatan sesama manusia.”—Ellen G. White, The Acts of the Apostles, ms. 110.
+
+* “Di mana sahaja gereja didirikan, semua anggotanya hendaklah terlibat secara aktif dalam kerja penginjilan. Mereka harus melawat setiap keluarga di kawasan kejiranan dan mengetahui keadaan rohani mereka.”—Ellen G. White, Testimonies for the Church, Vol. 6, ms. 296.
+
+Mengambil bahagian secara aktif dalam melaksanakan Suruhan Agung adalah satu tuntutan wajib yang berterusan untuk menjadi murid Kristus.
+
+#### Bahagian III: Penerapan Hidup
+
+Berdasarkan kepada suruhan injil ini, semua orang Kristian dipanggil, dalam apa jua kapasiti, untuk berkongsi iman mereka. Di bawah adalah tiga cara umat percaya boleh menjalankan mandat misionari Kristus dalam setiap bidang kehidupan, termasuk pekerjaan:
+
+1.	Semua umat Kristian perlu menjadikan etika kerja yang kukuh sebagai sebahagian daripada kesaksian Kristian mereka. Kitab Suci menyuruh orang Kristian untuk mengekalkan watak yang memuliakan Tuhan dalam kehidupan profesional mereka semasa mereka mengerahkan usaha terbaik mereka dalam apa yang mereka lakukan, seolah-olah mereka bekerja secara langsung untuk Tuhan (Kol. 3:23, 24). Apabila umat percaya melihat pekerjaan mereka sebagai sebahagian daripada panggilan Tuhan dalam hidup mereka, mereka menambah makna baru kepada kesaksian Kristian. Mengekalkan integriti, berusaha untuk kecemerlangan, boleh dipercayai dan boleh diharapkan dan melayan orang lain dengan hormat di tempat kerja adalah sifat yang boleh memberi orang Kristian platform untuk berkongsi iman mereka.
+
+2.	Melalui mentor yang bermindakan misi, gereja boleh membimbing para anggota yang lebih muda dalam cara menghubungkan impian profesional mereka secara mendalam dengan iman mereka kepada Kristus dan mandat misionari-Nya.
+
+3.	Dengan pendekatan yang betul untuk pemuridan dan sokongan berterusan, ibu bapa boleh meningkatkan potensi sifat misionari pada anak-anak mereka. Oleh itu, gereja harus melabur dalam program pemuridan oleh ibu bapa terhadap anak-anak mereka, membantu mereka merangka semula tanggungjawab membesarkan anak-anak mereka ke dalam panggilan untuk menjadikan mereka murid Yesus.
