@@ -357,7 +357,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
     fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
     quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
   } else {
-    let tqi = /-iv$/.test(info.quarterly) ? info.quarterly.replace(/-(iv|ay)$/, '-cq') : info.quarterly;
+    let tqi = /-(iv|ay)$/.test(info.quarterly) ? info.quarterly.replace(/-(iv|ay)$/, '-cq') : info.quarterly;
     if (fs.pathExistsSync(`images/global/${tqi}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
       quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi}/${SOURCE_SPLASH_FILE}`;
     } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
@@ -409,7 +409,7 @@ let getLessonJSON = function (lessonPath, pdf, pdfPath) {
 
   let targetQuarterlyIndex = info.quarterly
 
-  let tqi = /-iv$/.test(targetQuarterlyIndex) ? targetQuarterlyIndex.replace(/-(iv|ay)$/, '-cq') : targetQuarterlyIndex;
+  let tqi = /-(iv|ay)$/.test(targetQuarterlyIndex) ? targetQuarterlyIndex.replace(/-(iv|ay)$/, '-cq') : targetQuarterlyIndex;
 
   if (!fs.pathExistsSync(`images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
     tqi = info.quarterly.slice(0, 7)
