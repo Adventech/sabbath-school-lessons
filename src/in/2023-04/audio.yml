@@ -1,0 +1,14 @@
+---
+  audio:
+    - artist: AWR Asia
+      tracks:
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20230930_7.mp3
+          target: in/2023-04/01/01
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231001_1.mp3
+          target: in/2023-04/01/02
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231002_2.mp3
+          target: in/2023-04/01/03
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231003_3.mp3
+          target: in/2023-04/01/04
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231004_4.mp3
+          target: in/2023-04/01/05
