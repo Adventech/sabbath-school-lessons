@@ -1,0 +1,20 @@
+---
+audio:
+  - artist: Суботня Школа
+    target: 'daily'
+    tracks:
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-09-30.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-01.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-02.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-03.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-04.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-05.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-06.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-07.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-08.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-09.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-10.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-11.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-12.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-13.mp3
+      - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2023-04/2023-10-14.mp3
