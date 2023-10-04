@@ -1,0 +1,20 @@
+---
+  title: "La mission de Dieu : ma mission"
+  description: "Il y a des années, l’un de nos magazines adventistes publia une parabole sur un horrible marécage. Les personnes qui s’aventuraient sur le sentier qui le traversait finissaient souvent par s’épuiser et tombaient dedans. Leurs cris d’agonie résonnaient dans tout le village à proximité. C’était épouvantable."
+  human_date: "Octobre · Novembre · Décembre 2023"
+  start_date: "30/09/2023"
+  end_date: "29/12/2023"
+  color_primary: "#007097"
+  color_primary_dark: "#003B50"
+  splash: true
+  credits:
+    - name: Auteur
+      value: "Directeurs des Centres Mission Globale"
+    - name: Rédacteur en chef
+      value: "Clifford R. Goldstein"
+    - name: Rédactrice adjointe IADPA
+      value: "Dina Albicy"
+    - name: Traduction
+      value: "Fay Sainte-Rose, Ana Aurouze"
+    - name: Responsable de publication
+      value: "Lea Alexander Greve"
