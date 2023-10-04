@@ -179,7 +179,7 @@ let romanianAudio = async function () {
                 "vineri"
             ]
 
-            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2022/trim4/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2023/trim4/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -206,7 +206,7 @@ let czechAudio = async function () {
                 "inside-story"
             ]
 
-            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q3/2023_Q3_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q4/2023_Q4_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
         },
         2,
         7
