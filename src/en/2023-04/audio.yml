@@ -4,6 +4,7 @@
       tracks:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/introduction.mp3
           target: en/2023-04/01/01
+          title: Introduction
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/003 SS Lesson 30 September 2023.mp3
           target: en/2023-04/01/01
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/004 SS Lesson 1 October 2023.mp3
