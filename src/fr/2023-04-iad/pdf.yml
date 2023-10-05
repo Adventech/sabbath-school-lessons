@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-Intro.pdf
+      target: fr/2023-04-iad/01
+      title: Intro
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-01.pdf
+      target: fr/2023-04-iad/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-02.pdf
+      target: fr/2023-04-iad/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-03.pdf
+      target: fr/2023-04-iad/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-04.pdf
+      target: fr/2023-04-iad/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-05.pdf
+      target: fr/2023-04-iad/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-06.pdf
+      target: fr/2023-04-iad/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-07.pdf
+      target: fr/2023-04-iad/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-08.pdf
+      target: fr/2023-04-iad/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-09.pdf
+      target: fr/2023-04-iad/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-10.pdf
+      target: fr/2023-04-iad/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-11.pdf
+      target: fr/2023-04-iad/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-12.pdf
+      target: fr/2023-04-iad/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2023-04/ABSG-2023-04-FR-IAD-13.pdf
+      target: fr/2023-04-iad/13
