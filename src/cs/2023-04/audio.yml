@@ -21,3 +21,5 @@
           target: cs/2023-04/01/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q4/2023_Q4_01-7.mp3
           target: cs/2023-04/01/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2023_Q4/2023_Q4_01-inside-story.mp3
+          target: cs/2023-04/01/inside-story
