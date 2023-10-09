@@ -4,25 +4,36 @@
       clips:
         - src: https://jstre.am/videos/jsv:rP8clSOgzhU-360p.mp4
           thumbnail: https://images.hopeplatform.org/resize/L3dfMzg0X19xXzc1L2hvcGUtaW1hZ2VzLzYyMGUyM2Q0YzQ5ZDY0MDA2NTk1YzE5Mi9vZ3UxNjk1OTkxNjcxNDIyLnBuZw/w_384__q_75/hope-images/620e23d4c49d64006595c192/ogu1695991671422.png
+        - src: https://jstre.am/videos/jsv:shHHDmkh4Kg/360p/HSS2304002.mp4.mp4
+          thumbnail: https://images.hopeplatform.org/resize/L3dfNjQwX19xXzc1L2hvcGUtaW1hZ2VzLzYyMGUyM2Q0YzQ5ZDY0MDA2NTk1YzE5Mi9STjIxNjk2NjI4NjcxMDAxLnBuZw/w_640__q_75/hope-images/620e23d4c49d64006595c192/RN21696628671001.png
     - artist: Hope Lives 365
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-01.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-02.webp
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-01.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-02.webp
     - artist: Amazing Facts Study Hour
       thumbnail: https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-01.mp4
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-02.mp4
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-03.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-04.mp4
     - artist: Sabbath School Talking Points
       clips:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-01.mp4
         thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-01.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-02.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-02.webp
     - artist: Hebrew Bible Institute
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-04-01.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-2023-04-02.webp

@@ -1,10 +1,14 @@
 ---
-  video:
-    - artist: 希望中文台 (普通話版視頻)
-      clips:
-        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_yoScmq0xzr7/jsv_yoScmq0xzr7-jsren_LWUYdqwP1Ah-H264_360P.mp4
-          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:yoScmq0xzr7/t/jsth:nAdy3bjTtxS-1694577602881.png
-    - artist: 希望中文台 (粵語版視頻)
-      clips:
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-01.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-01.webp
+video:
+  - artist: 希望中文台 (普通話版視頻)
+    clips:
+      - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_yoScmq0xzr7/jsv_yoScmq0xzr7-jsren_LWUYdqwP1Ah-H264_360P.mp4
+        thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:yoScmq0xzr7/t/jsth:nAdy3bjTtxS-1694577602881.png
+      - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_3TQyzR0FbNt/jsv_3TQyzR0FbNt-jsren_jF9CTkWw4QE-H264_360P.mp4
+        thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:3TQyzR0FbNt/t/jsth:1ivpgotafNH-1694743202910.png
+  - artist: 希望中文台 (粵語版視頻)
+    clips:
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-01.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-01.webp
+      - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-02.mp4
+        thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-02.webp
