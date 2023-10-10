@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-Intro.pdf
+      title: 介绍
+      target: zh/2023-04-inv/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-01.pdf
+      target: zh/2023-04-inv/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-02.pdf
+      target: zh/2023-04-inv/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-03.pdf
+      target: zh/2023-04-inv/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-04.pdf
+      target: zh/2023-04-inv/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-05.pdf
+      target: zh/2023-04-inv/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-06.pdf
+      target: zh/2023-04-inv/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-07.pdf
+      target: zh/2023-04-inv/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-08.pdf
+      target: zh/2023-04-inv/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-09.pdf
+      target: zh/2023-04-inv/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-10.pdf
+      target: zh/2023-04-inv/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-11.pdf
+      target: zh/2023-04-inv/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-12.pdf
+      target: zh/2023-04-inv/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-13.pdf
+      target: zh/2023-04-inv/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2023-04-inv/ABSG-2023-04-ZH-INV-14.pdf
+      target: zh/2023-04-inv/14
