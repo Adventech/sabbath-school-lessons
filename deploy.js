@@ -336,8 +336,8 @@ let getQuarterlyJSON = function (quarterlyPath) {
 
     let pdf = glob.sync(`${quarterlyPath}/pdf.yml`);
 
-    if (pdf.length && features['original-layout']) {
-      quarterly_features.push(features['original-layout'])
+    if (pdf.length && features['original_layout']) {
+      quarterly_features.push(features['original_layout'])
     }
 
     quarterly.features = quarterly_features.filter((thing, index) => {
