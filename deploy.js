@@ -334,6 +334,12 @@ let getQuarterlyJSON = function (quarterlyPath) {
       quarterly_features.push(features['video'])
     }
 
+    let pdf = glob.sync(`${quarterlyPath}/pdf.yml`);
+
+    if (pdf.length && features['original-layout']) {
+      quarterly_features.push(features['original-layout'])
+    }
+
     quarterly.features = quarterly_features.filter((thing, index) => {
       const _thing = JSON.stringify(thing);
       return index === quarterly_features.findIndex(obj => {

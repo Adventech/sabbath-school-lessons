@@ -24,3 +24,8 @@
     title: Video
     description: Watch the weekly lesson discussion to deepen your study
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Original Layout
+    description: Enhance your study of the lesson using original print layout with numerous annotation tools
+    image: "v1/images/features/feature_original_layout.png"
