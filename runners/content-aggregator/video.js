@@ -103,6 +103,31 @@ let englishVideo = async function () {
 
     await weeklyVideo(
         "en",
+        "Hope Lives 365",
+        {
+            artist: "Hope Lives 365",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "en",
+        "Hope Lives 365",
+        {
+            artist: "Hope Lives 365",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        },
+        "er"
+    )
+
+    await weeklyVideo(
+        "en",
         "Hope Sabbath School",
         {
             artist: "Hope Sabbath School",
