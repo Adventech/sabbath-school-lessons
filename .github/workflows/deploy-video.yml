@@ -4,6 +4,9 @@ on:
     branches:
       - master
       - stage
+    paths:
+      - '**.js'
+      - 'src/**'
 jobs:
   deploy-video:
     if: (github.repository == 'Adventech/sabbath-school-lessons')

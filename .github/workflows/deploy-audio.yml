@@ -4,6 +4,9 @@ on:
     branches:
       - master
       - stage
+    paths:
+      - '**.js'
+      - 'src/**'
 jobs:
   deploy-audio:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
