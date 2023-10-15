@@ -15,6 +15,9 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-01.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-02.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-03.mp4
+          target: en/2023-04/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-03.webp
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-01.mp4
