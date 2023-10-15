@@ -40,7 +40,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     audioSource.audio.push(audio)
                 }
 
-                let src = srcFunc(targetDate, week, day)
+                let src = srcFunc(targetDate, week, day, quarterlyInfo.quarterly.slice(0, 7))
                 let track = audio.tracks.find(e =>
                     e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}` ||
                     e.src === src
@@ -96,11 +96,11 @@ let ellenWhiteAudio = async function () {
             imageRatio: "square",
             tracks: []
         },
-        function (targetDate, week, day) {
-            return `https://egwhiteaudio.com/wp-content/uploads/${moment().format("YYYY/MM")}/${targetDate.format("YYYY-MM-DD")}.mp3`
+        function (targetDate, week, day, targetQuarter) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${targetQuarter}/en-egw-${targetQuarter}-${String(week).padStart(2, '0')}-${String(day).padStart(2, '0')}.mp3`
         },
         2,
-        5
+        7
     )
 }
 
