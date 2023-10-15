@@ -30,3 +30,7 @@
           target: hu/2023-04/02/06
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20231013.mp3
           target: hu/2023-04/02/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20231014.mp3
+          target: hu/2023-04/03/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20231015.mp3
+          target: hu/2023-04/03/02
