@@ -1,0 +1,1 @@
+yt-dlp "https://www.youtube.com/watch?v=qYzQ-jjjlOI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "test/en/af/en-af-2023-04-05-updated.mp4"

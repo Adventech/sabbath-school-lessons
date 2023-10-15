@@ -13,6 +13,12 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
           github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+          check-latest: true
+      - run: npm install
+      - run: node verify.js
       - name: Get Status of current ref
         id: get-status
         uses: danieldeichfuss/get-status@v0.0.10
