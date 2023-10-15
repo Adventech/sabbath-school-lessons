@@ -1,9 +1,9 @@
-name: aggregator
+name: aggregate-audio
 on:
   schedule:
     - cron:  '0 */2 * * *'
 jobs:
-  aggregate:
+  aggregate-audio:
     if: (github.event_name == 'schedule' && github.repository == 'Adventech/sabbath-school-lessons') || (github.event_name != 'schedule')
     runs-on: ubuntu-latest
     steps:
@@ -18,10 +18,8 @@ jobs:
         node-version: '12'
         check-latest: true
     - run: npm install
-    - name: Aggregate
+    - name: Aggregate audio
       run: node ./runners/content-aggregator/index.js
-    - name: Aggregate video
-      run: node ./runners/content-aggregator/video.js
     - run: rm package-lock.json
     - name: Commit & Push changes
       uses: actions-js/push@v1.3
