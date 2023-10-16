@@ -32,7 +32,10 @@ let downloadEGWaudio = async function() {
     // Check if this lesson has already been processed and uploaded to the cloud
     try {
         let existing = await axios.head(`${SERVER_URL}-${lesson}-01.mp3`);
-        if (existing.status === 200) { return 2 }
+        if (existing.status === 200) {
+            fs.outputFileSync(`audio-commands.txt`, '');
+            return 2
+        }
     } catch (e) {}
 
     let description = episode.description.replace(/\n/gm, ' ')
