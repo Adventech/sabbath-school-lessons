@@ -7,7 +7,7 @@ on:
       - 'video-links.txt'
 
 jobs:
-  video-download:
+  download-video:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: ubuntu-latest
     steps:
@@ -30,7 +30,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
   aggregate-video:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
-    needs: video-download
+    needs: download-video
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

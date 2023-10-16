@@ -1,11 +1,45 @@
 name: aggregate-audio
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 */2 * * *'
 jobs:
+  download-audio:
+    if: (github.event_name == 'schedule' && github.repository == 'Adventech/sabbath-school-lessons') || (github.event_name != 'schedule')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup yt-dlp
+        uses: AnimMouse/setup-yt-dlp@v1
+        with:
+          with-ffmpeg: true
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+          check-latest: true
+      - run: npm install
+      - name: Create work dir folder
+        run: mkdir ss-audio
+      - name: Run download audio script
+        run: node ../runners/content-downloader/download-audio.js
+        working-directory: ss-audio
+      - name: Download audio
+        shell: bash
+        working-directory: ss-audio
+        run: bash audio-commands.txt
+      - name: Clean the audio commands
+        run: rm audio-commands.txt
+        working-directory: ss-audio
+      - name: Upload
+        working-directory: ss-audio
+        run: aws s3 cp . s3://sabbath-school-media-tmp --region us-east-1 --acl "public-read" --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
   aggregate-audio:
     if: (github.event_name == 'schedule' && github.repository == 'Adventech/sabbath-school-lessons') || (github.event_name != 'schedule')
     runs-on: ubuntu-latest
+    needs: download-audio
     steps:
     - uses: actions/checkout@v2
       with:
