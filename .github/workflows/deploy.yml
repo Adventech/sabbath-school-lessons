@@ -40,7 +40,7 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
       - name: Get changed files and write the outputs to a JSON file
