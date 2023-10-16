@@ -1,5 +1,6 @@
 name: sync-stage-into-master
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 1,7 * * *'
 jobs:
