@@ -124,28 +124,26 @@ try {
     let changedFiles = require('./.github/outputs/all_changed_files.json')
 
     // if no changes detected then fallback
-    if (!changedFiles || !changedFiles.length) {
-      return
-    }
+    if (changedFiles && changedFiles.length) {
+      // Forcing all resources to be redeployed if any github action or deploy scripts change
+      let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*\.js$)/.test(f))
 
-    // Forcing all resources to be redeployed if any github action or deploy scripts change
-    let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*\.js$)/.test(f))
+      // if no deploy related changes
+      if (!deployRelatedChanges.length) {
+        let sourceRelatedChanges = changedFiles.filter((f) => /^src\//.test(f)).map(
+            (f) => {
+              let stripped = f.replace(/^src\//g, '')
+              return stripped.substring(0, stripped.indexOf('/'))
+            }
+        )
+        let languages = [...new Set(sourceRelatedChanges)]
 
-    if (deployRelatedChanges) {
-      return
-    }
-
-    let sourceRelatedChanges = changedFiles.filter((f) => /^src\//.test(f)).map(
-        (f) => {
-          let stripped = f.replace(/^src\//g, '')
-          return stripped.substring(0, stripped.indexOf('/'))
+        // if any languages are in the change list
+        if (languages && languages.length) {
+          compile_language = `+(${languages.join('|')})`
         }
-    )
-    let languages = [...new Set(sourceRelatedChanges)]
-    if (!languages || !languages.length) {
-      return
+      }
     }
-    compile_language = `+(${languages.join('|')})`
   }
 } catch (e) {
   console.log(e)
