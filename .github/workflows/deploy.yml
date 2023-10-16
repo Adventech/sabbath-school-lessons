@@ -57,9 +57,9 @@ jobs:
         with:
           json: true
           write_output_files: true
-      - name: Verify the contents of the .github/outputs/added_files.json file
+      - name: Verify the contents of the .github/outputs/all_changed_files.json file
         run: |
-          cat .github/outputs/added_files.json
+          cat .github/outputs/all_changed_files.json
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
