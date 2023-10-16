@@ -129,7 +129,7 @@ try {
       let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*\.js$)/.test(f))
 
       // if no deploy related changes
-      if (!deployRelatedChanges.length) {
+      if (!deployRelatedChanges || !deployRelatedChanges.length) {
         let sourceRelatedChanges = changedFiles.filter((f) => /^src\//.test(f)).map(
             (f) => {
               let stripped = f.replace(/^src\//g, '')
