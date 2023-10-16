@@ -10,6 +10,22 @@ let getCompilationQuarterValue = function (d, strict) {
     return ret
 };
 
+let getCurrentQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+    // let nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
+
+    return `${d.getFullYear()}-0${quarterIndex}`;
+};
+
+let getNextQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+    let nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
+
+    return `${nextQuarter}`;
+};
+
 let getInfoFromPath = function (path) {
     let infoRegExp = /src\/([a-z]{2,3})?\/?([a-z0-9-]{6,})?\/?([0-9a-z\-]{2,})?\/?([a-z0-9-]{2,}(\.md)?)?\/?/g,
         matches = infoRegExp.exec(path),
@@ -23,4 +39,4 @@ let getInfoFromPath = function (path) {
     return info;
 };
 
-module.exports = { getCompilationQuarterValue, getInfoFromPath }
+module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getInfoFromPath }
