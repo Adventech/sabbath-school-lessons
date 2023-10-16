@@ -45,7 +45,7 @@ jobs:
           fetch-depth: 0
       - name: Get changed files and write the outputs to a JSON file
         id: changed-files-write-output-files-json
-        uses: ./
+        uses: tj-actions/changed-files@v39
         with:
           json: true
           write_output_files: true
