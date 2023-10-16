@@ -1,5 +1,3 @@
-
-
 let getCompilationQuarterValue = function (d, strict) {
     d = d || new Date();
     let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),

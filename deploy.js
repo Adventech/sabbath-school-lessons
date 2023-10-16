@@ -800,7 +800,6 @@ let dayAPI = async function () {
 };
 
 ((async function () {
-  return
   processCoverImages();
   processMiscImages();
   processFeaturesImages();
