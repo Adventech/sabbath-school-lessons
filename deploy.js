@@ -268,7 +268,7 @@ let processFeaturesImages = function () {
 
 let processAssetImages = function () {
   console.log('Processing asset images');
-  let assets = glob.sync(`src/*/${compile_quarter}/*/*.{png,jpg,jpeg}`);
+  let assets = glob.sync(`src/${compile_language}/${compile_quarter}/*/*.{png,jpg,jpeg}`);
   for (let asset of assets) {
     let info = getInfoFromPath(asset)
     fs.copySync(asset, `${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/${asset.split("/").pop()}`);
