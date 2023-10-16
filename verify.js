@@ -13,7 +13,7 @@ let prNum = false
 
 if (process && process.env && process.env.GITHUB_EVENT_PATH && fs.pathExistsSync(process.env.GITHUB_EVENT_PATH)) {
     let ev = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
-    prNum = ev.pull_request.number || true
+    prNum = (ev.pull_request) ? ev.pull_request.number || true : false
 }
 
 let failMessages = []
