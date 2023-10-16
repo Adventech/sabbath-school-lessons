@@ -119,6 +119,38 @@ let branch = argv.b,
     compile_quarter = argv.q || getCompilationQuarterValue(),
     target_api = parseInt(argv.v) || 1;
 
+try {
+  if (!argv.l && fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
+    let changedFiles = require('./.github/outputs/all_changed_files.json')
+
+    // if no changes detected then fallback
+    if (!changedFiles || !changedFiles.length) {
+      return
+    }
+
+    // Forcing all resources to be redeployed if any github action or deploy scripts change
+    let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*\.js$)/.test(f))
+
+    if (deployRelatedChanges) {
+      return
+    }
+
+    let sourceRelatedChanges = changedFiles.filter((f) => /^src\//.test(f)).map(
+        (f) => {
+          let stripped = f.replace(/^src\//g, '')
+          return stripped.substring(0, stripped.indexOf('/'))
+        }
+    )
+    let languages = [...new Set(sourceRelatedChanges)]
+    if (!languages || !languages.length) {
+      return
+    }
+    compile_language = `+(${languages.join('|')})`
+  }
+} catch (e) {
+  console.log(e)
+}
+
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     API_VERSION = target_api === 1 ? "v1" : "v2",
     PDF_HOST = "https://sabbath-school-pdf.adventech.io/",
@@ -768,6 +800,7 @@ let dayAPI = async function () {
 };
 
 ((async function () {
+  return
   processCoverImages();
   processMiscImages();
   processFeaturesImages();
