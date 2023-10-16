@@ -13,7 +13,26 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+      - name: List all changed files
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "$file was changed"
+          done
+      - name: Get changed files and write the outputs to a JSON file
+        id: changed-files-write-output-files-json
+        uses: tj-actions/changed-files@v39
+        with:
+          json: true
+          write_output_files: true
+      - name: Verify the contents of the .github/outputs/all_changed_files.json file
+        run: |
+          cat .github/outputs/all_changed_files.json
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
@@ -40,7 +59,26 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+      - name: List all changed files
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo "$file was changed"
+          done
+      - name: Get changed files and write the outputs to a JSON file
+        id: changed-files-write-output-files-json
+        uses: tj-actions/changed-files@v39
+        with:
+          json: true
+          write_output_files: true
+      - name: Verify the contents of the .github/outputs/all_changed_files.json file
+        run: |
+          cat .github/outputs/all_changed_files.json
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
