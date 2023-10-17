@@ -1,6 +1,7 @@
 ---
 audio:
   - artist: École du Sabbat en audio
+    target: 'daily'
     tracks:
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/fr/2023-04/01-SEMAINE 01 - 4T2023 Final.mp3-1.mp3
       - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/fr/2023-04/01-SEMAINE 01 - 4T2023 Final.mp3-2.mp3
