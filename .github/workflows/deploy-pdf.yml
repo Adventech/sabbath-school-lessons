@@ -5,8 +5,8 @@ on:
       - master
       - stage
     paths:
-      - '**.js'
-      - 'src/**'
+      - 'deploy-pdf.js'
+      - 'src/**/pdf.yml'
 jobs:
   deploy-pdf:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
