@@ -126,11 +126,18 @@ try {
     // if no changes detected then fallback
     if (changedFiles && changedFiles.length) {
       // Forcing all resources to be redeployed if any github action or deploy scripts change
-      let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*\.js$)/.test(f))
+      let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*)|(config.js)/.test(f))
 
       // if no deploy related changes
       if (!deployRelatedChanges || !deployRelatedChanges.length) {
-        let sourceRelatedChanges = changedFiles.filter((f) => /^src\//.test(f)).map(
+        let sourceRelatedChanges = changedFiles.filter(
+            (f) => {
+              // check if the changed file is in src dir and its not audio.yml or video.yml
+              return /^src\//.test(f)
+                && !/audio.yml$/.test(f)
+                && !/video.yml$/.test(f)
+            }
+        ).map(
             (f) => {
               let stripped = f.replace(/^src\//g, '')
               return stripped.substring(0, stripped.indexOf('/'))
@@ -141,6 +148,11 @@ try {
         // if any languages are in the change list
         if (languages && languages.length) {
           compile_language = `+(${languages.join('|')})`
+        } else {
+          // here we assuming the changes are made in src folder but are either audio or video, hence we can abort
+          fs.ensureDirSync("./dist")
+          console.log(`Looks like source changes are targeting audio or video content hence aborting execution`)
+          return
         }
       }
     }
