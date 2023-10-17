@@ -150,6 +150,7 @@ try {
           compile_language = `+(${languages.join('|')})`
         } else {
           // here we assuming the changes are made in src folder but are either audio or video, hence we can abort
+          fs.ensureDirSync("./dist")
           console.log(`Looks like source changes are targeting audio or video content hence aborting execution`)
           return
         }
