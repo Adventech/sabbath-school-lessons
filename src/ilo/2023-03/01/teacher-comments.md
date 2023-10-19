@@ -1,0 +1,60 @@
+---
+title:  Komentaryo Dagiti Mannursuro
+date:   30/06/2023
+---
+
+### Paset I: Pakabuklan
+
+**Kangrunaan a Teksto**: Efeso 1:9, 10
+
+**Sentro ti Panagadal**: Aramid 18:18–21; Aramid 19:13-20:1; Aramid 20:17–38; Efe. 1:1, 2; Efe. 6:21–24; Efe. 3:13; Efe. 1:9, 10.
+
+**Pauna**: Ti umuna nga adal iti daytoy a tremestre ibaskagna ti pakasaritaan iti adal ti intero nga Epistolo [Surat] kadagiti taga Efeso ken isentrona kadagiti adu a kangrunaan a tema. Umuna, maadaltayo maipapan ti panggep ni Pablo iti panangisurat iti Suratna kadagiti taga Efeso: tapno tulonganna dagiti taga Efeso a manglagip iti pakailasinan ken pasetda iti pagarian ti Dios ken iti planona. Maikadua, maam-ammotayo a naim-imbag dagiti taga Efeso. Sarungkarantayo ti Efeso, magna kadagiti lanlansanganna, dumdumngeg kadagiti tattao iti ciudad nga agsao ken mangngeg dagiti panagngayangayda iti salamangka ken dadduma pay a labes daytoy lubong. Mabuyatayo dagiti ginasgasut a barko a nakaangkla idiay sangladanda, ken sarungkarantayo ti napintas a templo ti Artemis, kabayatan a makita dagiti amin a klase ken idad dagiti tattao nga agdadarison a mapan tumipon iti riribok idiay teatro. Maikatlo, adalentayo ti langa ti surat ket iti kasta mabukel ti napintas a buya ti ayus ti panpanunot ti apostol ken ti kangrunaan nga adal. Maikapat, matakuatan a dagiti amin nga agraraira a tema ni Pablo iti daytoy a surat ket tallo a kakupin: ni Jesu-Cristo, ti ayatna iti Iglesiana, ken ti trabahona babaen ti iglesia nga agpaay iti pannakaisalakan ti tao.
+
+Iti adaltayo ita a lawas, laglagipentayo ti gagangay a titolo dagitoy nga ad-adal kas nailadawan idiay Pauna: “Efeso: Kasano iti Panangsurot ken Jesus kadagiti Makasuot a Panpanawen.” Pudno unay, ti Surat ni Pablo kadagiti taga Efeso ket isu ti kaimbagan, ti kasisistemaan a teolohiya ti iglesia. Ngem, daytoy a kalidad ket saanna a kayat a saoen a ti Efeso ket maysa a nalamiis, nateoryaan, mauli-ulit, naisina, narikut ti pannakaaramidna. No di ket, ti surat ket iladawanna ti iglesia iti maysa a napaypayso, nabiag, ken naayat a pannakikayamet iti Namarsua ken Mangisalakanna, ni Apo Jesu-Cristo, agraman iti nabunga a Nacristianoan a panagbiag iti maysa a napaypayso a lubong ken mangileppas iti dakkel a mission ti iglesia.
+
+**Dagiti Tema ti Adal**: Ti adal ita a lawas ket ipaganetgetna dagiti tallo a kangrunaan a tema:
+
+1. Panangammo iti nagsurat iti Epistolo [Surat] kadagiti taga Efeso.
+
+2. Panangammo kadagiti taga Efeso a tattao, dagiti umawat iti epistolo [surat].
+
+3. Panangammo iti kangrunaan a topiko ti mensahe ni Pablo iti iglesia idiay Efeso.
+
+### Paset II: Komentaryo
+
+**Ti Libro ti Aramid iti Efeso ken Dagiti Taga Efeso**
+
+Nalaklaka nga amang a maawatantayo ti Epistolo [Surat] ni Pablo kadagiti taga Efeso no kitaentayo dayta iti lawag ti libro ti Aramid. Adu dagiti istoria a paset ti ar-aramid dagiti apostoles ket naisangsangayan a mayataday iti pannakayanak ti iglesia ti Efeso:
+
+1\. Kinuyog da Aquila ken Priscilla (Aramid 18:18), kas la ni Pablo iti immuna a nangasaba iti ababa a panangasaba iti evangelio ni Jesu-Cristo idiay Efeso, nga idiay nga immuna a nasarakanna dagiti Judio (Aramid 18:19). Saan a kas kadagiti Judio idiay Corinto, nga isu a nangtukiad ken nangidadanes ken Pablo (Aramid 18:6, 12, 13), dagiti Judio idiay Efeso ket nagparangda nga ad-adda a silulukatda iti evangelio idi damo (Aramid 18:20). Iti laeng ud-udina a sumagmamano kadagiti Judio idiay Efeso ti timmangken ken nagsukir ken tinukiadda dagiti mensahe ni Pablo (Aramid 19:8, 9). Nupay kasta, dagitoy a Judio ket dida nagpakaasi kadagiti agtuturay tapno ibellengda ni Pablo iti ruar ti ciudad.
+
+2\. Kalpasan iti immuna nga ipapanaw ni Pablo manipud Efeso, da Priscilla ken Aquila intuloyda ti trabaho ti evangelio idiay, iti ud-udina nakikadua ni Apolos ti Alejandria (Aramid 18:24–26). Ti trabahoda nagbunga iti maysa a maladaga a komonidad dagiti Cristiano (Aramid 19:1).
+
+3\. Da Apolos, Priscilla, ken Aquila ket kas la batidoda iti sursuro ti Cristiano. Nupay kasta, dagiti taga Efeso inawatda ti sursuro iti nakedngan laeng a tiempo sakbay a napan ni Apolos idiay Corinto. Nalabit a daytoy iti gapu a, dagiti disipolos ti Efeso ket nakedngan iti pannakaawatda iti evangelio ken ti kaipapanan ti kina Cristiano. Dagiti disipolos idiay ket dida pay ammo ti maipapan iti Espiritu Santo (Aramid 19:2, 3). Gapu iti daytoy a rason, idi nagsubli ni Pablo idiay Efeso, inkeddengna a manggastar iti ad-adu a tiempo idiay ken impaayna ti kasapulan a natibtibker a nateolohiyaan a pamuon ti iglesia iti ciudad ken iti amin a rehiyon ti Asia Minor (Aramid 19:10).
+
+4\. Napateg a paliiwen a maysa kadagiti kalalawagan a wagas ni Pablo a pakakitaan a panangsuot iti kinapudno ken kalidad ti kinacristiano ket iti panangdamag kadagiti kamkameng ti iglesia no naawatdan ti Espiritu Santo (Aramid 19:2) ken no umiso met laeng iti pannakaawatda iti kinasiasino ni Jesus, no siasino ti Dios, ken no kasano iti pannakaisalakan dagiti tattao babaen iti pannakabautisar ken Jesu-Cristo (Aramid 19:2–5). Gapu iti daytoy a rason, idi agsursurat ni Pablo kadagiti taga Efeso iti ud-udina nga adu a tawtawen, nagsubli, ken impapilitna, dagitoy a napapateg a topiko (kitaen kas pangarigan, ti Efeso 4). Dagitoy a topiko ket mangikeddeng iti biag ken pakailasinan ti Cristiano, iti agpadpada a tukad ti minnaysa ken dagiti bunggoy (pamilia ken iglesia). Awan ti nacristianoan nga iglesia no awan ni Jesu-Cristo, ti Espiritu Santo, ken ti Ama.
+
+5\. Idi bimmaba ti Espiritu Santo kadagiti disipolos idiay Efeso, nagbalinda nga iglesia ni Jesu-Cristo, indalan ti Espiritu iti misyonda. Ti Espiritu Santo dagus nga inarwatanna ida nga agpaay iti panagministro ken misyon babaen iti panangitedna kadakuada ti sagut ti pagsasao ken dadduma pay a sagsagut. Iti daytoy a rason, idi insurat ni Pablo ti Epistolo [Surat] kadagiti taga Efeso, impapilitna ti kinapateg dagiti naespirituan a sagsagut nga agpaay iti biag ken misyon ti iglesia.
+
+**Panagpuor Libro**
+
+Dagiti agdama a mamasirib, kas ken Rebecca Knuth, sigud a chairwoman iti programa ti Library and Information Science idiay University of Hawaii, iti suratna iti librona a Burning Books and Leveling Libraries: Extremist Violence and Cultural Destruction (Westport, CT: Praeger, 2006), ket dagdagupenna a ti panagpuor libro ket buklen iti panangdadael iti tawid a kultura ti tao. Iti Burning the Books: A History of the Deliberate Destruction of Knowledge (Cambridge, MA: The Belknap Press/Harvard University Press, 2020), ni Richard Ovenden, director ti Bodleian Libraries idiay University of Oxford, irikiarna a ti sangkataoan ket masapul a tukiadenna ti panagpuor libro ken pagtaginayunenna ti pannakaammo ken kultura ti tao. Ti panagpuor iti kaaduan kadagiti libro dagiti Judio ket inaramid dagiti Nazi idi 1933 wenno ti panangdadael kadagiti liblibro-ti-akinlaud a Kapitalista babaen kadagiti Red Guards ni Mao Zedong, idi 1966, ket naaramatda a kas kadaanan a pagwadan iti panagpuor libro a nabuyogan iti napolitikaan a panggep a mangtengngel iti yaasideg dagiti tattao iti impormasyon ken panangyulog iti maysa a baro a kultura, kapkapanunotan, pannakaipatarus iti pakasaritaan, ken panangkita iti lubong. Ti istoria dagiti rebelde nga isu a nangpuor kadagiti rinibribu a kadaanan a sursurat ti Africa idiay Timbuktu idi 2013 ket naaramat a kas maysa a pagwadan iti nalablabes nga awan gawgawidna a panagpuor kadagiti narelihiyosoan a liblibro. Iti dayta a panawen, sumagmamano a Nacristianoan a papastor ket nababalawda a kas managinsisingpet wenno di mangikankano idi nangaramidda kadagiti servicio a panagpuor-libro, nga agay-ayabda iti pannakapuor dagiti libro ti salamangka.
+
+Kasano iti pannakaawattayo iti panagpuor-libro a nailadawan idiay Aramid 19:19? Adu a banbanag ti mapaliiw koma: 1. Daytoy a panagpuor-libro ket maysa a disnudo nga aramid dagidiay a nakonvertir iti kina Cristiano manipud iti kinapagano ken salamangka. Saanda a dinadael dagiti libreria ken dagiti sansanikua dagiti sabsabali a tattao, no di ket pinuoranda dagiti bukodda a liblibro ti salamangka, dagiti liblibro nga isuda a mismo iti nangaramat iti panangaramid iti relihiyonda a pagano. Babaen daytoy disnudo nga aramid, impakdaarda iti publiko nga iti kanito a naawatda ti ayab ni Jesu-Cristo a tumiponda iti Pagarianna, isinsinada dagiti bagbagida manipud iti naimbasolan a napalabasda. Dida kayat a maaddaan iti aniaman a banag a makaaramid iti agpaay ken Satanas ken dagiti sinasairo nga ar-aramid.
+
+Kalpasan iti dua gasut lima pulo a tawtawen, ni Emperador Diocletian imbilinna kadagiti amin a Cristiano nga iyegda amin dagiti nasagradoan a liblibroda tapno mapuoran no kayatda a maliklikan a dagiti mismo a bagbagida iti mapuoran. Sumagmamano a Cristiano ti nagtungpal ken inyawatda dagiti Sursurat kadagiti agtuturay ti Roma tapno mapuoranda; dagitoy a Cristiano ket nanaganan a traditores, wenno “dagidiay a nangited” kadagiti liblibroda. Nupay kasta, dadduma a Cristiano ket kinaykayatda iti mapuoran a mismo ngem iti liputan wenno libakenda iti Sao ti Dios. Gapuna, kabayatan a ti panagpuor-libro idiay Aramid 19 ket maysa a disnudo ken naragsak a pannakaipakdaar iti pannakaluk-at manipud kadagiti palab-og ti basol ken ni Satanas, ti panagpuor-libro ni Diocletian ket maysa a naranggas ken makaparigat a napolitikaan ken ideological a panangidadanes iti kina Cristiano, agraman ti panggep a mangikisap kadagiti tattao ti Dios ken panangyulog iti relihiyon a pagano.
+
+2\. Ti Dios ayabanna dagiti tattaona a silalawag nga agmadi ken tukiaden ti aniaman a pakakitaan iti panagruknoy iti ladladawan ken salamangka idiay pagtaengan ken dagiti sansanikuada (kitaen ti Gen. 35:2–4).
+
+3\. Nupay kasta, nupay ti Israel ket mabalin a serkenna dagiti dadduma nga il-ili ken dadaelen dagiti ladladawan ken puoran dagiti gargaret ti salamangka ket saan nga isu iti kangrunaan a kalatda. Ti misyonda ket tapno ipakdaarda a ti panagdaydayaw ti ladladawan ket makadadael ken mangiturong iti patay (Sal. 135:15–18; Isa. 44:9–20; Isa. 45:20; Jer. 2:11–13; Jer. 16:19, 20; Jon. 2:8; Gal. 5:19–21; Apo. 9:20, 21) ken tapno pagbiaganda dagiti biagda a wayawaya manipud iti panagdaydayaw iti ladladawan ken salamangka a kas maysa a pagwadan ti maysa a nacion a wayawaya manipud iti pannakabalin ni Satanas ken patay.
+
+4\. Daytoy ket saanna a kayat a saoen a ti Dios ket ikkatenna ti rag-o iti art ken iti panagsurat. Iti kasunganina, ti Dios ket ragsakenna ti kinamanagpanunot ti tao ken ti naiyebkas a kultura kadagiti libro. Ngem dagidiay a liblibro ken art ket masapul nga iyebkasna ti kapadasan ti biag ti tao a naluk-atan manipud basol ken ni Satanas. Ta no saan, maisublitayo iti babaen ti mangtengngel a pannakabalin ni Satanas.
+
+### Paset III: Aplikasion iti Biag
+
+1\. Pannakaisalakan, Misyon, ken Edukasyon. Ti libro ti Aramid ikaduana ti naggapuan ti iglesia idiay Efeso iti edukasyon, nga isu a nailadawan a kas “nakisupsuppiat” ken “namagbaga.” Iti un-unana, ni Pablo ket nakisupsuppiat, nagsao ken namagbaga kadagiti Judio idiay sinagogada, nga isu a saan laeng a luglugar a pagdaydayawan no di ket luglugar a pagadalan met ti publiko (Aramid 18:19; Aramid 19:8). Iti ud-udina, ni Pablo ket immalis iti maysa a lokal nga eskuelaan, ti eskuelaan ni Tiranno, ket intuloyna ti “nakisupsuppiat” wenno “nangisursuro” kadagiti Judio ken Griego nga agpadpada iti dalan ti pannakaisalakan (Aramid 19:9, 10). Iramanyo dagiti estudyanteyo iti panagpanunot maipapan no kasano, a kas maysa a klase, ket mabalin a makatulongda a makabalbaliw iti iglesiada iti maysa nga eskuelaan ti evangelio nga agpaay iti komonidad. Kasano iti panangaramidda iti lokal nga iglesiada a maysa a lugar ti publiko a mabalinda iti makipag-usig iti komonidad maipapan iti evangelio?
+
+2\. Ti Epistolo [Surat] ni Pablo kadagiti taga Efeso ket ipakitana ti maysa a nakaskasdaaw a timbeng ti rason, emosyon, rikrikna, nateolohiyaan a panagpanpanunot ken napraktikalan a biag. Karitenyo dagiti estudyanteyo a mangipakita iti dua a wagas a mabalinda iti tumulong a mangbalbaliw iti iglesiada iti maysa a panagministro a mangtratar kadagitoy a paspaset ti biag ti tao iti komonidadyo.
+
+` `

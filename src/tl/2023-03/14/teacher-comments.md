@@ -1,0 +1,60 @@
+---
+title:  Komento ng Guro
+date:   29/09/2023
+---
+
+### Unang Bahagi: Pangkalahatang Ideya
+
+**Susing Talata**: Efeso 2:8-10
+
+**Pokus ng Pag-aaral**: Efeso 1-6.
+
+**Panimula**: Bagama't ang Sulat sa Mga Taga-Efeso ay ang pangunahing susi sa iba pang mga sulat ni Pablo, ang pag-aaral sa linggong ito ay ang pangunahing susi na magbubukas sa buong pag-aaral sa Sulat sa mga taga-Efeso, tulad ng sumusunod:
+
+Ang seksyon ng Linggo ng Standard Edition Bible study guide ay nagbubuod sa nakamamanghang pananaw ni Pablo sa walang hanggan at makasaysayang plano ng Paglikha at Pagtubos ng Diyos.
+
+Ang seksyon ng Lunes ay nagbubuod sa Efeso 2, na grapikong naglalarawan sa malungkot na kalagayan ng kasalanan at kamatayan ng sangkatauhan, isang estado na walang mga pangako, walang pag-asa, walang Cristo, at walang Diyos sa mundo. Ngunit si Pablo—at ang Biblia sa pangkalahatan—ay hindi nagtatapos sa nakalulunos na paglalarawang ito. Sa halip, idinetalye niya ang mga pangunahing elemento ng ebanghelyo, ang misteryo ng Diyos, na nagdudulot ng pag-asa sa sangkatauhan: at kasama ni Cristo, binuhay tayong muli ng Diyos at itinaas tayo sa Kanyang santuwaryo sa mga makalangit na dako. Bukod dito, kasama ni Cristo, tayo ay naging bagong templo ng Diyos sa lupa. Ang pagbabagong ito ay ginawa sa pamamagitan ng biyaya, at ang biyaya ay ang pundasyon ng pananampalatayang Kristiyano, buhay, at misyon.
+
+Ang Kabanata 3, na sinuri sa seksyon para sa Martes, ay nagtatampok sa misteryo ng Diyos sa paglikha ng iglesya.
+
+Ang seksyon ng Miyerkules (muling pagbabalik sa Efeso 4) ay nagpapaliwanag kung paano nakakamit ang dalawang layunin ng Diyos kapag ang mga anak ng Diyos mula sa buong mundo ay nagkakaisa sa tunay na kabanalan, sa paggamit ng kanilang espirituwal na mga kaloob, at sa misyon. Kaya naman ang pagkakaisa ng iglesya ay hindi opsyonal para sa pagkakaroon ng iglesya.
+
+Gaya ng binibigyang-diin ng seksyon para sa Huwebes (pagsusuri sa Efeso 5), ang pagkakaisa ay hindi makakamit nang hindi tinatalikuran ang ating nakaraang pagtataas ng sarili o “Ako.” Ang pagkakaisa ay nagiging totoo lamang kung yayakapin natin ang ating bagong pagkakakilanlan at lumakad kay Cristo. Ang malalim na pagbabagong ito kay Cristo ay makakaapekto rin sa lahat ng aspeto ng ating buhay bilang tao, kabilang ang ating mga pamilya (asawang lalaki, asawang babae, at mga anak), lipunan (mga grupo ng tao at mga uri ng lipunan), at ang ating personal na indibidwal na buhay.
+
+Ang seksyon ng Biyernes (Efeso 6) ay tumatawag sa atin na tingnan ang iglesya bilang isang masigla, at nagkakaisang hukbo, na lubos na nahahanda para sa kanyang misyon sa pakikipaglaban na ipahayag ang ebanghelyo ng kapayapaan ng Panginoon. Tanging ang kapayapaang ito kay Cristo ang magtitiyak sa atin ng tagumpay at ng buhay. Ang tagumpay ay tiyak kay Cristo. Ang ating tagumpay ay nakasalalay lamang sa kung tayo ay maninindigan ng tunay na paniniwala sa tagumpay ni Cristo at kikilos ayon dito.
+
+**Mga Tema ng Aralin**: Ang pag-aaral sa linggong ito ay isang pagbubuod ng buong Sulat sa Mga Taga-Efeso, isang pagtatangka na itanyag at pagsamasamahin ang lahat ng mga pangunahing tema nito.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Misteryo ng Ebanghelyo**
+
+Sa pinakapuso ng Sulat ni Pablo sa mga taga-Efeso ay tumitibok ang kanyang pagkahumaling sa ebanghelyo bilang isang misteryo na ngayon ay nahayag. Sinimulan niya ang kanyang sulat sa pagdiriwang na “ipinaalam sa atin ng Diyos ang hiwaga ng Kanyang kalooban” (Efeso 1:9, NASB), at ang misteryong ito ay tungkol sa “isang mana” (Efeso 1:11). Ang misteryong ito ay hindi tungkol sa ating desperado at madilim na kalagayan (Efeso 2:1-4) o tungkol sa paghihiwalay, pagkakabaha-bahagi, at poot na dulot ng kasalanan sa atin bilang mga indibiduwal, bilang pamilya, at bilang lipunan ng tao (Efeso 2:11, 12). Ang dahilan ng mga pagkakabaha-bahagi at poot na ito ay hindi misteryo sa atin sa ating makasalanang kalagayan. Hindi rin isang misteryo ang ating kawalan ng kakayahan na lutasin ang problema ng kasalanan at kamatayan (Efeso 2:9, John 1:13). Habang paulit-ulit na pinatutunayan ng kasaysayan, lahat tayo ay masakit na nababatid na walang nilikhang tao ang makapag-aalis sa atin mula sa gravitational field ng black hole ng kasalanan. Bagkus, ang misteryong binanggit ni Pablo ay ang hindi maarok na himala ng pag-ibig ng Diyos sa atin! Akala natin hindi tayo mahal ng Diyos. Akala natin nakalimutan na Niya tayo. Naisip natin na mas gusto Niya ang mga Judio at ang mga Hentil ay itinakuwil. Akala natin ay tuluyan nang nawala ang kaso ng mga Judio nang tanggihan nila si Jesus bilang Mesiyas.
+
+Lumalabas na mali tayo tungkol sa Diyos sa lahat ng aspetong ito. Nang buksan ng Diyos ang Kanyang mga misteryo sa harap ni Pablo, nagulat si Pablo. Dahil dito, bagama't inilalarawan ng buong sulat ang misteryong ito mula sa iba't ibang pananaw, bumalik ang apostol sa gitna ng sulat, sa pagtawag dito na “misteryo” (Efeso 3:3, 9) at “misteryo ni Cristo” (Efeso 3:4), at sa dulo ng kanyang sulat “ang misteryo ng ebanghelyo” (Efeso. 6:19, NASB). Ang misteryong ito ay higit na mahalaga, paliwanag ni Pablo, kapag napagtanto natin na ito ay nakatago mula sa mga tao sa nakalipas na mga siglo at millennia, at pinili ng Diyos ang henerasyon ni Pablo upang mamuhay sa natatanging makasaysayang panahon kung kailan ang misteryo ng mga misteryo ay ganap na nahayag para sa lahat upang makita (Efeso 3:9; Roma 16:25; 1 Corinto 2:7; Colosas 1:26, 27; Colosas. 2:2). Anong laking pribilehiyo, anong kaluwalhatian!
+
+Literal na makikita natin ang kagalakan ni Pablo sa dakilang pagtuklas na ito. Ang kanyang buong buhay ay apektado, nabago ng katotohanan ng ebanghelyo. Tulad ng sa talinghaga ni Jesus tungkol sa nasumpungang kayamanan (Mateo 13:44), “ipinagbili” ni Pablo ang lahat ng mayrron siya upang makuha at ariin ang lihim na kayamanan na ito (Filipos 3:4-8). Ang kanyang mukha ay nagpahayag sa iba na may alam siya na hindi alam ng iba. Gayunpaman, hindi tulad ng naghahanap ng kayamanan (Mateo 13:44) o hindi tulad ng hindi tapat na alipin (Mateo 25:18), hindi itinago ni Pablo ang kanyang misteryong kayamanan sa lupa. Sa kabaligtaran, nang ihayag ng Diyos ang Kanyang misteryo sa kanya, nagsimula si Pablo sa isang pandaigdigang paglalakbay upang sabihin sa lahat ang tungkol sa misteryong ito. Ang misteryong ito ay tungkol sa katotohanan na ang Diyos ay pag-ibig. Nilikha Niya tayo mula anaha-ibig, namatay Siya sa ating lugar dahil Siya ay pag-ibig. Binuhay Niya tayong muli upang anahan kasama Niya sa Espiritu sa Kanyang banal na tahanan dahil Siya ay pag-ibig. Ipinaglaban Niya tayo dahil Siya ay pag-ibig. At babalik Siya para sa atin dahil Siya ay pag-ibig. Ang misteryong iyon, sa sariling mga salita ni Pablo, “ay si Cristo ay nasa inyo, ang pag-asa ng kaluwalhatian” (Colosas 1:27, NASB).
+
+**Ang Katapusan ng Malaking Tunggalian**
+
+Isang araw, ang kasaysayan ng kasalanan ay magwawakas, ngunit ang misteryo ng Diyos ay hindi mauubos. Sa paglalarawan sa pagtatapos ng malaking tunggalian, ang wika at etos ni Ellen G. White ay ganap na umaayon at umaalingawngaw sa mataas na espiritu ni Pablo sa kanyang Sulat sa mga Taga-Efeso:
+
+“Lahat ng kayamanan ng sansinukob ay magiging bukas sa pag-aaral ng mga tinubos ng Diyos. Hindi nahahadlangan ng pagiging mortal, lumipad sila nang walang pagod na paglipad sa malayong mga daigdig—mga daigdig na namamangha sa kalungkutan dahil sa panoorin ng paghihirap ng tao at umaawit ng mga awit ng kagalakan sa balita ng isang kaluluwang tinubos. Sa hindi masambit na kagalakan ang mga anak sa lupa ay pumapasok sa kagalakan at karunungan ng mga hindi nagkasalang nilalang. Ibinahagi nila ang mga kayamanan ng kaalaman at pang-unawa na natamo sa mga panahon at kapanahunan sa pagmumuni-muni sa gawa ng Diyos. Sa malinaw na pananaw ay tumitingin sila sa kaluwalhatian ng sangnilikha—mga araw at mga bituin at mga sistema, lahat sa kanilang itinalagang kaayusan ay umiikot sa trono ng Diyos. Sa lahat ng bagay, mula sa pinakamaliit hanggang sa pinakadakila, ang pangalan ng Lumikha ay nakasulat, at sa lahat ay ipinakita ang kayamanan ng Kanyang kapangyarihan.
+
+“At ang mga taon ng walang-hanggan, habang dumadaan ang mga ito, ay magdadala ng mas mayaman at mas maluwalhating paghahayag ng Diyos at ni Cristo. Kung ang kaalaman ay umuunlad, gayundin ang pagmamahal, pagpipitagan, at kaligayahan ay lalago. Habang higit na natututo ang mga tao tungkol sa Diyos, mas magiging malaki ang kanilang paghanga sa Kanyang katangian. Habang binubuksan ni Jesus sa harap nila ang mga kayamanan ng pagtubos at ang mga kamangha-manghang tagumpay sa malaking tunggalian laban kay Satanas, ang mga puso ng tinubos na mananabik na may higit na taimtim na debosyon, at sa mas masiglang kagalakan ay kinalabit nila ang mga alpa na ginto; at sampung libong beses na sampung libo at libu-libong mga tinig ay nagkakaisa upang palakihin ang makapangyarihang koro ng papuri.
+
+“At ang bawa't nilalang na nasa langit, at nasa lupa, at nasa ilalim ng lupa, at ang nasa dagat, at ang lahat ng nasa kanila, ay narinig kong sinasabi, Pagpapala, at karangalan, at kaluwalhatian, at kapangyarihan, nawa ay suma-Kanya na nakaupo sa trono, at sa Kordero magpakailanman.” Apocalipsis 5:13. “Natapos na ang malaking tunggalian. Ang kasalanan at ang mga makasalanan ay wala na. Malinis ang buong uniberso. Isang pulso ng pagkakaisa at kagalakan ang tumatagos sa malawak na nilikha. Mula sa Kanya na lumikha ng lahat, dumaloy ang buhay at liwanag at kagalakan, sa buong kaharian ng walang hangganang kalawakan. Mula sa pinakamaliit na atomo hanggang sa pinakadakilang daigdig, ang lahat ng bagay, may buhay at walang buhay, sa kanilang walang aninong kagandahan at sakdal na kagalakan, ay nagpapahayag na ang Diyos ay pagibig.”—Ellen G. White, THE GREAT CONTROVERSY, pp. 677, 678.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+1\. Ito ay isang pagbubuod ng pag-aaral. Hikayatin ang iyong mga estudyante na gumawa ng sarili nilang buod sa Mga Taga-Efeso at ibahagi ito sa klase ng Paaralang Sabado.
+
+2\. Ano ang tatlong pangunahing tema na tumatakbo sa liham ni Pablo sa mga taga-Efeso? Paano nauugnay ang mga temang ito sa isa't isa? Hilingin sa iyong mga mag-aaral na tukuyin kung aling tema ang itinuturing nilang pangunahin at kung aling mga tema ang itinuturing nilang nasa ilalim nito.
+
+3\. Anyayahan ang iyong mga estudyante na isipin na sila ay iniimbitahan na magtayo ng bagong iglesya sa isang lugar na hindi pa nababahagihan ng ebanghelyo. Paano sila matutulungan ng Sulat ni Pablo sa mga taga-Efeso na maghanda para sa gayong mapangahas na proyekto? Sabihin sa iyong mga estudyante na tukuyin ang mga tema sa Mga Taga Efeso na bubuo ng isang mensaheng pang-ebanghelyo para sa bagong lugar na ito. Sa anong pagkakasunud-sunod ihahatid ng iyong mga mag-aaral ang mga temang ito? Gayundin, sabihin sa iyong mga estudyante na tukuyin ang mga alituntunin kung saan sila makatutulong sa pagtatatag ng isang masiglang iglesya, hangga't maaari sa huwarang nakita at ibinahagi ni apostol Pablo sa kanyang sulat.
+
+Ang mga alituntuning iminumungkahi ng iyong mga estudyante ay dapat na maging kapaki-pakinabang sa pagpapalago ng isang iglesya na puno ng kagalakan ng kaligtasan. Anong mga karagdagang alituntunin ang matutukoy ng iyong mga estudyante na makatutulong upang pagkaisahin ang mga bagong miyembro kay Cristo at pagkaisahin sila sa buhay at misyon ng iglesya? Anong mga simulain ang magpapasigla sa iglesya upang himukin ng kapangyarihan ng Banal na Espiritu sa pamamagitan ng mga espirituwal na kaloob?
+
+4\. Atasan ang mga miyembro ng klase na tukuyin ang mga prinsipyo mula sa Mga Taga-Efeso na pinag-aralan natin ngayong tremestre na makatutulong sa mga miyembro ng iglesya na makamit ang pamumuhay na naaayon sa ebanghelyo, mga alituntunin na magpapalago ng masayang pamilya at bubuo ng malusog na relasyon sa pagitan ng iba't ibang grupo.
+
+` `
