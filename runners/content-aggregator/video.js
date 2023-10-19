@@ -404,7 +404,8 @@ let portugueseVideo = async function () {
         },
         function (targetDate, targetQuarter, year, week) {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        }
+        },
+        "pt"
     )
 
     await weeklyVideo(
