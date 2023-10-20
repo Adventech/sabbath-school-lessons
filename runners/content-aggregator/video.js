@@ -41,7 +41,15 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
                     videoSource.video.push(video)
                 }
 
-                let src = srcFunc(targetDate, quarterlyInfo.quarterly.slice(0, 7), year, week)
+                let srcFuncRet = srcFunc(targetDate, quarterlyInfo.quarterly.slice(0, 7), year, week)
+                let src, thumbnail
+
+                if (Array.isArray(srcFuncRet)) {
+                    src = srcFuncRet[0]
+                    thumbnail = srcFuncRet[1]
+                } else {
+                    src = srcFuncRet
+                }
 
                 let clip = video.clips.find(e =>
                     e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}`
@@ -66,7 +74,7 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
                     }
 
                     if (!video.thumbnail) {
-                        newClip.thumbnail = src.replace(/\.mp4$/, '.webp')
+                        newClip.thumbnail = thumbnail ? thumbnail : src.replace(/\.mp4$/, '.webp')
                     }
 
                     video.clips.push(newClip)
@@ -253,6 +261,49 @@ let englishVideo = async function () {
         },
         "cq"
     )
+
+
+    await weeklyVideo(
+        "en",
+        "Gracelink",
+        {
+            artist: "Gracelink",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/kd/en-kd-${targetQuarter}-${String(week).padStart(2, '0')}`
+            return [`${r}.mp4`, `${r}.jpg`]
+        },
+        "kd"
+    )
+
+    await weeklyVideo(
+        "en",
+        "Gracelink",
+        {
+            artist: "Gracelink",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/pr/en-pr-${targetQuarter}-${String(week).padStart(2, '0')}`
+            return [`${r}.mp4`, `${r}.jpg`]
+        },
+        "pr"
+    )
+
+    await weeklyVideo(
+        "en",
+        "Gracelink",
+        {
+            artist: "Gracelink",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/cc/en-cc-${targetQuarter}-${String(week).padStart(2, '0')}`
+            return [`${r}.mp4`, `${r}.jpg`]
+        },
+        "cc"
+    )
 }
 
 let spanishVideo = async function () {
@@ -404,7 +455,8 @@ let portugueseVideo = async function () {
         },
         function (targetDate, targetQuarter, year, week) {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        }
+        },
+        "pt"
     )
 
     await weeklyVideo(

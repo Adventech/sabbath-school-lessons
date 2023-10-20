@@ -183,8 +183,21 @@ let videoAPI = async function (mode) {
                             let read = metaMarked(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/${videoItemInfo.day}.md`, "utf-8"))
                             videoItem.title = read.meta.title
                         } else {
-                            let lesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`))
-                            videoItem.title = lesson.title
+                            if (fs.pathExistsSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`)) {
+                                let lesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/${videoItemInfo.lesson}/info.yml`))
+                                videoItem.title = lesson.title
+                            } else if (fs.pathExistsSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/pdf.yml`)) {
+                                let pdfLesson = yamljs.load(fs.readFileSync(`${SOURCE_DIR}${videoItemInfo.language}/${videoItemInfo.quarterly}/pdf.yml`))
+                                let pdfLessonItem = pdfLesson.pdf.find((e) => e.target === `${videoItem.target}`)
+                                if (!pdfLessonItem) {
+                                    console.error('Can not determine the lesson title from PDF')
+                                } else {
+                                    videoItem.title = pdfLessonItem.title
+                                }
+                            } else {
+                                console.error('Can not determine the lesson title')
+                                return
+                            }
                         }
                     }
 
