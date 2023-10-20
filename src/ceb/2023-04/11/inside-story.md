@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  15/12/2023
 ---
 
-Nagdamgo nga mga Damgo: Bahin 1
+### Nagdamgo nga mga Damgo: Bahin 1
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Ang 16 anyos nga si Joseph Delamou nabalaka. Nabalaka siya nga wala siya motambong sa husto nga simbahan sa Conakry, kapital sa nasud sa Guinea sa West Africa.
 

@@ -1,5 +1,5 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  03/11/2023
 ---
 

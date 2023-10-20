@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  20/10/2023
 ---
 
-Desperado alang sa Istorya sa Misyon
+### Desperado alang sa Istorya sa Misyon
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Si Gina Wahlen naghinam-hinam sa pagbisita sa usa ka balay nga simbahan sa usa ka nasud diin ang mga Kristohanon nag-atubang ug paglutos tungod sa ilang pagkamatinumanon sa Dios. Miabot siya aron mangolekta og mga istorya sa misyon para sa Adventist Mission.
 

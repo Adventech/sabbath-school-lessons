@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  27/10/2023
 ---
 
-Ang Gamay nga Simbahan nga Mahimo
+### Ang Gamay nga Simbahan nga Mahimo
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Morag ang Seventh-day Adventist Church sa Rügen island sa Germany kinahanglang magsira. Unom lang ka tawo ang nagsimba didto: upat ka tigulang nga membro sa usa ka pamilya, ug duha pa ka tigulang. Ang mga miyembro mikunhod gikan sa pito sa dihang ang simbahan natukod niadtong 1940 ug gikan sa iyang kabantog nga 33 ka mga miyembro sa ulahing bahin sa 1950s. Girekomenda sa mga lider sa komperensya nga ibaligya ang site.
 

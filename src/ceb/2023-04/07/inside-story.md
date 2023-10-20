@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  17/11/2023
 ---
 
-Dalan sa Misyon sa Espanya: Bahin 1
+### Dalan sa Misyon sa Espanya: Bahin 1
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Nasakit si Luis wala madugay human siya nabunyagan ug nagpalista isip estudyante sa teolohiya sa Venezuelan Adventist University.
 

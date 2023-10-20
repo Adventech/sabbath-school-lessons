@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  24/11/2023
 ---
 
-Dalan sa Misyon sa Espanya: Bahin 2
+### Dalan sa Misyon sa Espanya: Bahin 2
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Lima lang ka pamilya ang naa sa balay sa dihang ang mga armadong lalaki milugsong sa pungpong sa siyam ka balay nga giokupar sa mga pamilyang pastoral sa Seventh-day Adventist sa Venezuela. Nagwarawara sa mga hinagiban, gipugos sa mga tig-atake ang mga pamilya sa usa ka balay diin gibulag nila ang mga lalaki, babaye, ug mga bata. Ang mga pulis miabot ug gilibotan ang balay, nga misangpot sa usa ka standoff nga natapos nga malinawon napulo ka oras ang milabay sa dihang, sa alas 3:00 sa kaadlawon, ang mga armado milayas sa usa ka lasang sa luyo sa balay.
 

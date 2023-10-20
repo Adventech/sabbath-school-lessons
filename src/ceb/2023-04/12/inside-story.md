@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  22/12/2023
 ---
 
-Nagdamgo nga mga Damgo: Bahin 2
+### Nagdamgo nga mga Damgo: Bahin 2
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Sukad sa pagkabata, si Joseph Delamou miadto sa simbahan kada adlaw ug, nagsunod sa ehemplo sa iyang amahan, miluhod atubangan sa mga imahen. Apan siya adunay usa ka tin-aw nga damgo sa dihang siya nangutana sa Dios kon siya moadto sa husto nga simbahan. Iyang gibati nga ang Dios nagtawag kaniya sa pagbiya sa simbahan sa iyang amahan.
 

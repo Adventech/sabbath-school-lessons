@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  01/12/2023
 ---
 
-Dalan sa Misyon sa Espanya: Bahin 3
+### Dalan sa Misyon sa Espanya: Bahin 3
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Si Pastor Luis Paiva milagrusong nakadawat ug US$1,000 aron mabayran ang utang, nga mitultol kaniya sa pagtuo nga kabubut-on sa Diyos nga siya, iyang asawa, ug ilang tulo ka anak mobiya sa Venezuela. Apan wala silay savings.
 
