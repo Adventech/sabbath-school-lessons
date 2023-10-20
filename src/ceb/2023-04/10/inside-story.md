@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  08/12/2023
 ---
 
-Dalan sa Misyon sa Espanya: Bahin 4
+### Dalan sa Misyon sa Espanya: Bahin 4
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Nakahukom si Luis Paiva nga magbukas og fruit stand sa Spain. Apan mipadayon siya sa unahan uban ang kahadlok, nakaamgo nga ang Dios nagtawag kaniya sa pag-alagad sa laing dapit. Nabalaka usab siya nga ang iyang bag-ong negosyo mahimong makapugong kaniya sa paghatag sa tanan sa Diyos.
 

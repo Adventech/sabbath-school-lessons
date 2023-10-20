@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  10/11/2023
 ---
 
-“Ang Panalangin Mas Dako Kanato”
+### “Ang Panalangin Mas Dako Kanato”
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Usa ka babaye sa estado sa US sa North Carolina nag-imbitar sa iyang duha ka pastor sa simbahan sa iyang balay aron hisgotan ang usa ka butang nga makapabug-at sa iyang kasingkasing: ang Tinuig nga Halad sa Halad. Gihulagway niya kung giunsa pagtukod sa Seventh-day Adventist Church ang paghalad sa usa ka katapusan nga paningkamot sa paglikay sa pagtawag sa mga misyonaryo sa balay tungod sa kakuwang sa pundo sa 1922. Naghisgot siya kung giunsa ang paghatag sa mga tawo kaniadto ug kung giunsa ang pagtanyag nagsuporta gihapon sa mga misyonaryo karon.
 

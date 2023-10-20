@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  29/12/2023
 ---
 
-Nagdamgo nga mga Damgo: Bahin 3
+### Nagdamgo nga mga Damgo: Bahin 3
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Si Joseph Delamou nag-ampo sa Dios nga ipadayag ang Iyang tinuod nga simbahan, apan si Joseph wala masayud asa mosimba sa Conakry, kapital sa French nga pinulongan nga nasud sa Guinea sa West Africa. Human sa pagtuon sa Bibliya uban sa iyang magtutudlo sa English, usa ka Seventh-day Adventist nga ginganlag Fortunate Kaloubilori, nagpuasa siya sulod sa tulo ka adlaw ug nangamuyo sa Dios nga ipadayag ang Iyang kabubut-on.
 

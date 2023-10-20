@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  13/10/2023
 ---
 
-Duha ka Lalaki, Duha ka Pag-ampo: Bahin 2
+### Duha ka Lalaki, Duha ka Pag-ampo: Bahin 2
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Walo ka bulan ang milabay human sa milagrosong tubag sa pag-ampo, ug ang mga miyembro sa simbahan sa Seventh-day Adventist mibisita kang Papa sa ikaduhang higayon sa usa ka Igpapahulay sa Conakry, Guinea. Napulog lima ka tawo ang miabot uban sa mga anak ni Papa, si Junior ug Emilie, nga nag-eskwela sa Adventist school sa compound sa simbahan. “Ania mi aron mag-ampo,” miingon ang usa ka elder sa simbahan.
 

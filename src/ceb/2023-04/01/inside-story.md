@@ -1,11 +1,11 @@
 ---
-title:  Inside story
+title:  Usa ka Sugilanon
 date:  06/10/2023
 ---
 
-Duha ka Lalaki, Duha ka Pag-ampo: Bahin 1
+### Duha ka Lalaki, Duha ka Pag-ampo: Bahin 1
 
-Ni Andrew McChesney
+_Ni Andrew McChesney_
 
 Nalipay si Papa sa dihang nakakita siyag bag-ong karatula nga nagbasag “Adventist Maranatha School” sa usa ka dalan sa Conakry, kaulohan sa nasod sa Guinea sa Kasadpang Aprika. Gusto niya nga ang iyang duha ka anak nga lalaki moeskuyla sa usa ka Kristohanong eskwelahan, ug tingali kini ang ilang kahigayonan. Wala gyud siya magdamgo nga ang eskuylahan magbag-o sa iyang kinabuhi.
 
