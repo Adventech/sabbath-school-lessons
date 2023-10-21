@@ -24,3 +24,8 @@
     title: Видео
     description: Видео версия урока Субботней Школы доступна для удобства в изучении
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Оригинальный макет
+    description: Улучшите изучение урока, используя оригинальный PDF с многочисленными инструментами аннотаций.
+    image: "v1/images/features/feature_original_layout.png"

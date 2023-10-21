@@ -24,3 +24,8 @@
     title: Ellen G. White citáty
     description: Rozšiřte své studium s doplňkovými vybranými citáty ze spisů Ellen G. White
     image: "v1/images/features/feature_egw.png"
+  original_layout:
+    name: original-layout
+    title: Původní rozvržení
+    description: Vylepšete si studium lekce pomocí originálního rozvržení tisku s mnoha anotačními nástroji
+    image: "v1/images/features/feature_original_layout.png"
