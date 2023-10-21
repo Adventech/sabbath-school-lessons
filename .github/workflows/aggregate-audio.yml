@@ -23,7 +23,7 @@ jobs:
       - name: Run download audio script
         run: node ../runners/content-downloader/download-audio.js
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
         working-directory: ss-audio
       - name: Download audio
         shell: bash
