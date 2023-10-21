@@ -222,7 +222,7 @@ let ukrainianAudio = async function () {
             tracks: []
         },
         function (targetDate, week, day, targetQuarter) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/uk/${targetQuarter}/${targetDate.format('YYYY-MM-DD')}.mp3`
+            return `https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/${targetQuarter}/${targetDate.format('YYYY-MM-DD')}.mp3`
         },
         2,
         7
