@@ -115,7 +115,7 @@ let downloadRussianAudio = async function() {
     }
 
     if (newUrls.length) {
-        commands += `aws ses send-email --to="amara@adventech.io" --subject="New Russian Audio available" --html="New Russian audio is available for download:<br/><br/>${newUrls.join('<br/>')}" --from="vitaliy@adventech.io"\n`
+        commands += `aws ses send-email --region us-east-1 --to="amara@adventech.io" --subject="New Russian Audio available" --html="New Russian audio is available for download:<br/><br/>${newUrls.join('<br/>')}" --from="vitaliy@adventech.io"\n`
     }
 
     fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
