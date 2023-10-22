@@ -1,6 +1,6 @@
 const { XMLParser } = require("fast-xml-parser"),
     axios   = require("axios"),
-    { getCurrentQuarter } = require('../../deploy-helper'),
+    { getCompilationQuarterValue, getCurrentQuarter } = require('../../deploy-helper'),
     fs = require("fs-extra"),
     moment  = require("moment"),
     crypto = require("crypto"),
