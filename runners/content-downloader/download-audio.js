@@ -93,7 +93,6 @@ let downloadRussianAudio = async function() {
 
     // Iterate over remaining weeks
     for (let week = currentWeek; week <= lessons; week++) {
-        console.log('Checking', `${SERVER_URL}/ru-${currentQuarter}-${String(week).padStart(2, '0')}.mp3`)
         let response
 
         try {
