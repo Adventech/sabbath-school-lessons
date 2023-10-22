@@ -1,10 +1,12 @@
 const { XMLParser } = require("fast-xml-parser"),
     axios   = require("axios"),
-    { getCompilationQuarterValue } = require('../../deploy-helper'),
+    { getCurrentQuarter } = require('../../deploy-helper'),
     fs = require("fs-extra"),
     moment  = require("moment"),
     crypto = require("crypto"),
-    algorithm = "aes-192-cbc";
+    algorithm = "aes-192-cbc",
+    glob    = require("glob"),
+    yamljs  = require("js-yaml");
 
 let downloadEGWaudio = async function() {
     const URL = "https://www.egwhiteaudio.com/feed.xml"
@@ -34,7 +36,7 @@ let downloadEGWaudio = async function() {
     try {
         let existing = await axios.head(`${SERVER_URL}-${lesson}-01.mp3`);
         if (existing.status === 200) {
-            fs.outputFileSync(`audio-commands.txt`, '');
+            fs.appendFileSync(`audio-commands.txt`, '');
             return 2
         }
     } catch (e) {}
@@ -68,7 +70,51 @@ let downloadEGWaudio = async function() {
 
     commands += `rm en-egw-${quarter}-${lesson}.mp3`
 
-    fs.outputFileSync(`audio-commands.txt`, commands);
+    fs.appendFileSync(`audio-commands.txt`, commands);
+}
+
+let downloadRussianAudio = async function() {
+    let commands = `\n`
+    let newUrls = []
+    let currentQuarter = getCurrentQuarter()
+
+    const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/${currentQuarter}`
+
+    // Determining current week relative to the quarter
+    let date = moment()
+    let infoSource = yamljs.load(fs.readFileSync(`src/ru/${currentQuarter}/info.yml`), 'utf-8')
+    let startDate = moment(infoSource.start_date, 'DD/MM/YYYY')
+    let currentWeek = date.week() - startDate.week()
+
+    // Getting number of lessons
+    let lessons = glob.sync(`src/ru/${currentQuarter}/*/info.yml`).length;
+
+    // Iterate over remaining weeks
+    for (let week = currentWeek; week <= lessons; week++) {
+        console.log('Checking', `${SERVER_URL}/ru-${currentQuarter}-${String(week).padStart(2, '0')}.mp3`)
+        let response
+
+        try {
+            response = await axios.head(`${SERVER_URL}/ru-${currentQuarter}-${String(week).padStart(2, '0')}.mp3`);
+        } catch (e) {}
+
+        if (!response || (response && response.status !== 200)) {
+            try {
+                let remoteUrl = `https://www.adventistfiles.net/documents/ss/${currentQuarter.slice(0, 4)}/${currentQuarter.slice(-1)}/adult/mp3/ss_${currentQuarter.slice(0, 4)}_0${currentQuarter.slice(-1)}_${String(week).padStart(2, '0')}.mp3`
+                let remoteResponse = await axios.head(remoteUrl)
+                if (remoteResponse.status === 200) {
+                    newUrls.push(`${SERVER_URL}/ru-${currentQuarter}-${String(week).padStart(2, '0')}.mp3`)
+                    commands += `curl -C - -L --create-dirs -o audio/ru/${currentQuarter}/ru-${currentQuarter}-${String(week).padStart(2, '0')}.mp3 "${remoteUrl}"\n`
+                }
+            } catch (e) {}
+        }
+    }
+
+    if (newUrls.length) {
+        commands += `aws ses send-email --to="amara@adventech.io" --subject="New Russian Audio available" --html="New Russian audio is available for download:<br/><br/>${newUrls.join('<br/>')}" --from="vitaliy@adventech.io" >> /dev/null\n`
+    }
+
+    fs.appendFileSync(`audio-commands.txt`, commands);
 }
 
 let downloadUKAudio = async function() {
@@ -124,6 +170,7 @@ let downloadUKAudio = async function() {
 let run = async function () {
     await downloadEGWaudio();
     await downloadUKAudio();
+    await downloadRussianAudio();
 }
 
 run().then(() => {
