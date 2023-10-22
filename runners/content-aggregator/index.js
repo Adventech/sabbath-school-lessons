@@ -115,7 +115,9 @@ let indonesiaAudio = async function () {
         function (targetDate, week, day) {
             let mapping = [7, 1, 2, 3, 4, 5, 6]
             return `https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_${targetDate.format("YYYYMMDD")}_${mapping[day-1]}.mp3`
-        }
+        },
+        2,
+        7
     )
 }
 
@@ -129,7 +131,9 @@ let hungarianAudio = async function () {
         },
         function (targetDate, week, day) {
             return `https://bibliatanulmanyok.hu/tanulmanyok/audio/${targetDate.format("YYYYMMDD")}.mp3`
-        }
+        },
+        2,
+        7
     )
 }
 
