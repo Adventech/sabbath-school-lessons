@@ -21,10 +21,9 @@ jobs:
       - name: Create work dir folder
         run: mkdir ss-audio
       - name: Run download audio script
-        run: node ../runners/content-downloader/download-audio.js
+        run: node runners/content-downloader/download-audio.js
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
-        working-directory: ss-audio
       - name: Download audio
         shell: bash
         working-directory: ss-audio

@@ -8,6 +8,8 @@ const { XMLParser } = require("fast-xml-parser"),
     glob    = require("glob"),
     yamljs  = require("js-yaml");
 
+const WORKING_DIR = `ss-audio`
+
 let downloadEGWaudio = async function() {
     const URL = "https://www.egwhiteaudio.com/feed.xml"
     const parser = new XMLParser({ignoreAttributes : false});
@@ -36,7 +38,7 @@ let downloadEGWaudio = async function() {
     try {
         let existing = await axios.head(`${SERVER_URL}-${lesson}-01.mp3`);
         if (existing.status === 200) {
-            fs.appendFileSync(`audio-commands.txt`, '\n');
+            fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, '\n');
             return 2
         }
     } catch (e) {}
@@ -70,7 +72,7 @@ let downloadEGWaudio = async function() {
 
     commands += `rm en-egw-${quarter}-${lesson}.mp3`
 
-    fs.appendFileSync(`audio-commands.txt`, commands);
+    fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
 }
 
 let downloadRussianAudio = async function() {
@@ -117,7 +119,7 @@ let downloadRussianAudio = async function() {
         commands += `aws ses send-email --to="amara@adventech.io" --subject="New Russian Audio available" --html="New Russian audio is available for download:<br/><br/>${newUrls.join('<br/>')}" --from="vitaliy@adventech.io" >> /dev/null\n`
     }
 
-    fs.appendFileSync(`audio-commands.txt`, commands);
+    fs.appendFileSync(`${WORKING_DIR}}/audio-commands.txt`, commands);
 }
 
 let downloadUKAudio = async function() {
@@ -164,7 +166,7 @@ let downloadUKAudio = async function() {
             console.log(`Sleeping for 500ms`)
             await new Promise(resolve => setTimeout(resolve, 500));
         }
-        fs.appendFileSync(`audio-commands.txt`, commands);
+        fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
     } catch (e) {
         console.error(e)
     }
