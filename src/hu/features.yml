@@ -14,3 +14,13 @@
     title: Video
     description: Beszélgetés a heti Bibliatanulmányról
     image: "v1/images/features/feature_video.png"
+  inside-story:
+    name: inside-story
+    title: Történet
+    description: Olvasson inspiráló küldetéstörténeteket a világ minden tájáról
+    image: "v1/images/features/feature_inside_story.png"
+  original_layout:
+    name: original-layout
+    title: Eredeti elrendezés
+    description: Javítsa a lecke tanulmányozását az eredeti nyomtatási elrendezés használatával, számos megjegyzéseszközzel
+    image: "v1/images/features/feature_original_layout.png"
