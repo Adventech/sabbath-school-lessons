@@ -25,9 +25,6 @@ jobs:
         with:
           node-version: '12'
           check-latest: true
-      - run: curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
-      - run: unzip awscli-bundle.zip
-      - run: ./awscli-bundle/install -b ~/bin/aws
       - run: npm install
       - run: mkdir video
       - name: Sync from cloud
