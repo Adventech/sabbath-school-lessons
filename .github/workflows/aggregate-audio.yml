@@ -27,7 +27,7 @@ jobs:
       - name: Download audio
         shell: bash
         working-directory: ss-audio
-        run: bash audio-commands.txt
+        run: cat audio-commands.txt && bash audio-commands.txt
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
