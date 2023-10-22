@@ -36,7 +36,7 @@ let downloadEGWaudio = async function() {
     try {
         let existing = await axios.head(`${SERVER_URL}-${lesson}-01.mp3`);
         if (existing.status === 200) {
-            fs.appendFileSync(`audio-commands.txt`, '');
+            fs.appendFileSync(`audio-commands.txt`, '\n');
             return 2
         }
     } catch (e) {}
