@@ -9,6 +9,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-03.mp4
           target: pt/2023-04/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-04.mp4
+          target: pt/2023-04/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-04.webp
     - artist: Adventismo Vivo
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2023-04-01.mp4
@@ -18,6 +21,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2023-04-03.mp4
           target: pt/2023-04/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2023-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2023-04-04.mp4
+          target: pt/2023-04/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2023-04-04.webp
     - artist: Pr Samuel Ramos
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/ram/pt-ram-2023-04-01.mp4
@@ -27,6 +33,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/ram/pt-ram-2023-04-03.mp4
           target: pt/2023-04/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/ram/pt-ram-2023-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/ram/pt-ram-2023-04-04.mp4
+          target: pt/2023-04/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/ram/pt-ram-2023-04-04.webp
     - artist: Adventistas Lago Sul
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-04-01.mp4
@@ -36,4 +45,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-04-03.mp4
           target: pt/2023-04/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-04-03.webp
-
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-04-04.mp4
+          target: pt/2023-04/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2023-04-04.webp
