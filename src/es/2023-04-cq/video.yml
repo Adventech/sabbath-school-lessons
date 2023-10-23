@@ -9,3 +9,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2023-04-inv-03.mp4
           target: es/2023-04-cq/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2023-04-inv-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2023-04-inv-04.mp4
+          target: es/2023-04-cq/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2023-04-inv-04.webp
