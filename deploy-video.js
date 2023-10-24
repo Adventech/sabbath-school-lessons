@@ -291,6 +291,7 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
                         return r === b && a.artist === videoInfo.artist
                     })
 
+                    // TODO: ugly way for now, but perhaps the flag in the language config can be used in the future
                     if (!(info.language === "en" && /\d{4}-\d{2}-er/.test(info.quarterly))) {
                         if (languageVideoArtist && languageVideoArtistMatch) {
                             languageVideoArtist.clips = videoInfo.clips.concat(languageVideoArtist.clips)
