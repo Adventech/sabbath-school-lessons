@@ -25,7 +25,7 @@ let argv = require("optimist").usage("Compile & deploy video - DON'T USE IF YOU 
 
 let branch = argv.b,
     compile_language = argv.l || "*",
-    compile_quarter = argv.q || getCompilationQuarterValue(),
+    compile_quarter = argv.q || getCompilationQuarterValue(null, null, true),
     mode = argv.m || "sync";
 
 let API_HOST = "https://sabbath-school.adventech.io/api/",
@@ -92,12 +92,37 @@ let videoAPI = async function (mode) {
     console.log('Deploying video API');
 
     let videoLanguages = glob.sync(`${SOURCE_DIR}/${compile_language}`)
+
     let availableLanguages = []
     let curlConfig = ""
 
     for (let videoLanguage of videoLanguages) {
         let languageVideos = []
         let videos = glob.sync(`${videoLanguage}/${compile_quarter}/${SOURCE_VIDEO_FILE}`);
+
+        if (fs.pathExistsSync(`${videoLanguage}/groups.yml`)) {
+            let groups = yamljs.load(fs.readFileSync(`${videoLanguage}/groups.yml`))
+            videos = videos.sort(function (a, b) {
+                let quarterlyTypeA = a.replace(`${videoLanguage}/`, '').replace(/\d{4}-\d{2}-?/g, '').replace('/video.yml', '').trim() || 'default'
+                let quarterlyTypeB = b.replace(`${videoLanguage}/`, '').replace(/\d{4}-\d{2}-?/g, '').replace('/video.yml', '').trim() || 'default'
+
+                if (!groups[quarterlyTypeA] || !groups[quarterlyTypeB] || !groups[quarterlyTypeA].order || !groups[quarterlyTypeB].order) {
+                    return 0
+                }
+
+                if (groups[quarterlyTypeA].order > groups[quarterlyTypeB].order) return 1;
+                if (groups[quarterlyTypeA].order < groups[quarterlyTypeB].order) return -1;
+                return 0;
+            })
+        } else {
+            videos = videos.sort(function (a, b) {
+                if (a.length === 15) a = a + "_";
+                if (a < b) return -1;
+                if (a > b) return 1;
+                return 0;
+            }).reverse()
+        }
+
         let languageInfo = getInfoFromPath(videoLanguage)
 
         for (let video of videos) {
@@ -244,7 +269,6 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
                 }
 
                 if (videoInfo.clips.length) {
-
                     videoInfo.clips = videoInfo.clips.sort(function(a, b){
                         if (a.targetIndex < b.targetIndex) {
                             return a.targetIndex.length < b.targetIndex.length ? -1 : 1;
@@ -259,10 +283,20 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
                     videoAPIJson.push(videoInfo)
 
                     let languageVideoArtist = languageVideos.find(a => a.artist === videoInfo.artist)
-                    if (languageVideoArtist) {
-                        languageVideoArtist.clips = videoInfo.clips.concat(languageVideoArtist.clips)
-                    } else {
-                        languageVideos.push(videoInfo)
+
+                    let languageVideoArtistMatch = languageVideos.find(a => {
+                        let r = a.clips[0].target.replace(`${info.language}/`, '').replace(/\d{4}-\d{2}-?/, '').replace(/\/(\d*)$/, '').trim() || 'adult'
+                        let b = videoInfo.clips[0].target.replace(`${info.language}/`, '').replace(/\d{4}-\d{2}-?/, '').replace(/\/(\d*)$/, '').trim() || 'adult'
+
+                        return r === b && a.artist === videoInfo.artist
+                    })
+
+                    if (!(info.language === "en" && /\d{4}-\d{2}-er/.test(info.quarterly))) {
+                        if (languageVideoArtist && languageVideoArtistMatch) {
+                            languageVideoArtist.clips = videoInfo.clips.concat(languageVideoArtist.clips)
+                        } else {
+                            languageVideos.push(videoInfo)
+                        }
                     }
                 }
             }
