@@ -749,6 +749,204 @@ let frenchVideo = async function () {
     )
 }
 
+let germanVideo = async function () {
+    await weeklyVideo(
+        "de",
+        "Joel Media",
+        {
+            artist: "Joel Media",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "de",
+        "Die Bibelschule",
+        {
+            artist: "Die Bibelschule",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "de",
+        "Adventgemeinde Fürstenfeld",
+        {
+            artist: "Adventgemeinde Fürstenfeld",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let tagalogVideo = async function () {
+    await weeklyVideo(
+        "tl",
+        "Oras ng Pag-aaral",
+        {
+            artist: "Oras ng Pag-aaral",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "tl",
+        "Solid Rock Ministries",
+        {
+            artist: "Solid Rock Ministries",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let ilocanoVideo = async function () {
+    await weeklyVideo(
+        "ilo",
+        "Pastor Elias Rafanan",
+        {
+            artist: "Pastor Elias Rafanan",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let afrikaansVideo = async function () {
+    await weeklyVideo(
+        "af",
+        "Insig",
+        {
+            artist: "Insig",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/af/insig/af-insig-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "af",
+        "Woord in Diepte",
+        {
+            artist: "Woord in Diepte",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/af/hb/af-hb-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let japaneseVideo = async function () {
+    await weeklyVideo(
+        "ja",
+        "Hope Channel Japan",
+        {
+            artist: "Hope Channel Japan",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ja/hope/ja-hope-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "ja",
+        "横浜キリスト教会",
+        {
+            artist: "横浜キリスト教会",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ja/yok/ja-yok-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let malayalamVideo = async function () {
+    await weeklyVideo(
+        "ml",
+        "Eden TV",
+        {
+            artist: "Eden TV",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let tamilVideo = async function () {
+    await weeklyVideo(
+        "ta",
+        "Hope Channel Tamil",
+        {
+            artist: "Hope Channel Tamil",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ta/ta-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let polishVideo = async function () {
+    await weeklyVideo(
+        "pl",
+        "Głos Nadziei",
+        {
+            artist: "Głos Nadziei",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
+let koreanVideo = async function () {
+    await weeklyVideo(
+        "ko",
+        "ABN 재림방송",
+        {
+            artist: "ABN 재림방송",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "ko",
+        "류대균의 교과방송",
+        {
+            artist: "류대균의 교과방송",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+}
+
 let run = async function () {
     await englishVideo();
     await spanishVideo();
@@ -762,6 +960,15 @@ let run = async function () {
     await italianVideo();
     await hungarianVideo();
     await frenchVideo();
+    await germanVideo();
+    await tagalogVideo()
+    await ilocanoVideo()
+    await afrikaansVideo()
+    await japaneseVideo()
+    await malayalamVideo()
+    await tamilVideo()
+    await polishVideo()
+    await koreanVideo()
 }
 
 run().then(() => {
