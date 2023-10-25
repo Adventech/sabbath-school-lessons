@@ -1,3 +1,7 @@
-yt-dlp "https://vimeo.com/876112274" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2023-04-05.mp4"
+yt-dlp "https://www.youtube.com/watch?v=b_INm09PwIQ" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "hr/hr-2023-04-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=LRp-XAVM2Qs" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "in/hope/in-hope-2023-04-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=osq2ya-F4tI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ml/ml-2023-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=LxBFegWTYYE" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "af/insig/af-insig-2023-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=HxAYaNqK-RU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/af/en-af-2023-04-07.mp4"
