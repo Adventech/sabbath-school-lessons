@@ -1,1 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=lbDeeOAsz9Q" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pl/pl-2023-04-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=7hDg-QnLd6A" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "tl/srm/tl-srm-2023-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Bl-n1eOw3KI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ko/dsn/ko-dsn-2023-04-05.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=_zXF6SJMsRU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ko/abn/ko-abn-2023-04-05.mp4"
