@@ -271,7 +271,7 @@ let englishVideo = async function () {
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
-            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/kd/en-kd-${targetQuarter}-${String(week).padStart(2, '0')}`
+            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-${targetQuarter}-${String(week).padStart(2, '0')}`
             return [`${r}.mp4`, `${r}.jpg`]
         },
         "kd"
@@ -285,7 +285,7 @@ let englishVideo = async function () {
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
-            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/pr/en-pr-${targetQuarter}-${String(week).padStart(2, '0')}`
+            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-${targetQuarter}-${String(week).padStart(2, '0')}`
             return [`${r}.mp4`, `${r}.jpg`]
         },
         "pr"
@@ -299,7 +299,7 @@ let englishVideo = async function () {
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
-            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/cc/en-cc-${targetQuarter}-${String(week).padStart(2, '0')}`
+            let r = `https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-${targetQuarter}-${String(week).padStart(2, '0')}`
             return [`${r}.mp4`, `${r}.jpg`]
         },
         "cc"
