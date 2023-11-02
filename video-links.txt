@@ -1,5 +1,3 @@
-curl -C - -L -o "inv/en-2023-04-inv-05.mp4" --create-dirs "https://jstre.am/videos/jsv:WsmFVy3yacn/360p/INV2304005.mp4.mp4"
+yt-dlp "https://www.youtube.com/watch?v=CWHQc7UY8mE" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/af/en-af-2023-04-10.mp4"
 
-curl -C - -L -o "inv/en-2023-04-inv-05.webp" --create-dirs "https://images.hopeplatform.org/resize/L3dfNjQwX19xXzc1L2hvcGUtaW1hZ2VzLzYyMGUyM2Q0YzQ5ZDY0MDA2NTk1YzE5Mi9IcFcxNjk1MTU1NDA1NzU1LmpwZw/w_640__q_75/hope-images/620e23d4c49d64006595c192/HpW1695155405755.jpg"
-
-yt-dlp "https://www.youtube.com/watch?v=Wa_EsI6oZdU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ml/ml-2023-04-05.mp4"
+yt-dlp "https://www.youtube.com/watch?v=rDtGPAGpKjM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ilo/ilo-2023-04-05.mp4"
