@@ -17,7 +17,7 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-05.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-06-updated.mp4
           target: pt/2023-04/06
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-06.webp
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2023-04-06-updated.webp
     - artist: Adventismo Vivo
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2023-04-01.mp4
