@@ -4,8 +4,12 @@ on:
     branches:
       - master
       - stage
+    paths:
+      - 'deploy-video.js'
+      - 'src/**/video.yml'
 jobs:
   deploy-video:
+    if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -21,13 +25,10 @@ jobs:
         with:
           node-version: '12'
           check-latest: true
-      - run: curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
-      - run: unzip awscli-bundle.zip
-      - run: ./awscli-bundle/install -b ~/bin/aws
       - run: npm install
       - run: mkdir video
       - name: Sync from cloud
-        run: aws s3 sync s3://sabbath-school-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io video --region us-east-1 --no-progress --exclude "*" --include "video/*.keep"
+        run: aws s3 sync s3://sabbath-school-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io video --region us-east-1 --no-progress --exclude "*" --include "video/*/`node -e 'console.log(require("./deploy-helper.js").getCurrentQuarter())'`*/*.keep" --include "video/*/`node -e 'console.log(require("./deploy-helper.js").getNextQuarter())'`*/*.keep" --include "video/*/`node -e 'console.log(require("./deploy-helper.js").getPreviousQuarter())'`*/*.keep"
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-Intro.pdf'
+      target: si/2023-04-pp/introduction
+      title: හැදින්වීම
+      start_date: 30/09/2023
+      end_date: 30/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-01.pdf'
+      target: si/2023-04-pp/01
+      title: දිගුකාලීන කාළගුණ වාර්තාව
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-02.pdf'
+      target: si/2023-04-pp/02
+      title: පවුලේ බලපෑම
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-03.pdf'
+      target: si/2023-04-pp/03
+      title: දෙවිඳුන්ගේ ගැලවීමේ සැලැස්ම
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-04.pdf'
+      target: si/2023-04-pp/04
+      title: පොරොන්දුවේ වර්ණ
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-05.pdf'
+      target: si/2023-04-pp/05
+      title: නායකයා අනුගමනය කිරීම
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-06.pdf'
+      target: si/2023-04-pp/06
+      title: තාප්ප අළුත්වැඩියා කිරීම
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-07.pdf'
+      target: si/2023-04-pp/07
+      title: ශුභාරංචිය පතළ කිරීම
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-08.pdf'
+      target: si/2023-04-pp/08
+      title: ජාතීන් එක්රැස් කිරීම
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-09.pdf'
+      target: si/2023-04-pp/09
+      title: නිවැරදි වචනය තේරීම
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-10.pdf'
+      target: si/2023-04-pp/10
+      title: අපගේ අසල්වැසියන් පදිංචි ස්ථානයට මාරුවීම
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-11.pdf'
+      target: si/2023-04-pp/11
+      title: දෙවියන් වහන්සේ මධ්‍යස්ථ කිරීම
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-12.pdf'
+      target: si/2023-04-pp/12
+      title: සැලැස්මේ කොටසක්
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PP-13.pdf'
+      target: si/2023-04-pp/13
+      title: දෙවිඳුන් වෙත ළඟාවිය හැකි කවුළු
+      start_date: 23/12/2023
+      end_date: 29/12/2023

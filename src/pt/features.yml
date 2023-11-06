@@ -24,3 +24,8 @@
     title: Vídeo
     description: Assista à discussão semanal da lição para aprofundar seu estudo
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Layout original
+    description: Aprimore seu estudo da lição usando o layout de impressão original com inúmeras ferramentas de anotação
+    image: "v1/images/features/feature_original_layout.png"

@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Коментари на наставникот
+    description: Подгответе се да ја олесните дискусијата за часовите во Сабатското училиште со изданието за наставникот
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Елен Г. Вајт Цитати
+    description: Подобрете ја вашата студија со дополнителни избрани цитати од списите на Елен Г. Вајт
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Приказна за мисијата
+    description: Прочитајте инспиративни приказни за мисија од целиот свет
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Аудио
+    description: Слушајте ја лекцијата во движење со аудио верзијата
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Видео
+    description: Гледајте ја неделната дискусија за лекцијата за да ја продлабочите студијата
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Оригинален распоред
+    description: Подобрете го вашето проучување на лекцијата користејќи оригинален распоред за печатење со бројни алатки за прибелешки
+    image: "v1/images/features/feature_original_layout.png"

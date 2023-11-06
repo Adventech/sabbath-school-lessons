@@ -1,0 +1,50 @@
+---
+title: 'Izgovori da se izbegne misija'
+date: 03/11/2023
+---
+
+### PRVI DEO: OPŠTI PREGLED
+
+U poslednjih nekoliko sedmica naglašeno je da je misija utemeljena na Božjem delovanju, i da nas Bog poziva na misiju. Ove sedmice bićemo usredsređeni na činjenicu da pojedine osobe koje su stekle iskustvo sa Bogom izbegavaju poziv na misiju i prednost da dele drago iskustvo koje su imali.
+
+U nekom trenutku svi ljudi koji su stekli iskustvo sa Bogom suočiće se sa iskušenjem da izbegnu da podele ovo iskustvo sa drugima. Najbolje je ponizno priznati ovu činjenicu radije nego pretpostaviti da se takvo iskušenje događa samo drugima. Kada jednom prepoznamo da smo se u jednom trenutku suočili sa ovim iskušenjem, lakše je izaći iz te zone izbegavanja i ući u zdraviji prostor deljenja Božje ljubavi sa drugima.
+
+Konačno, izgovori za izbegavanje misije su iskušenja đavola, koji ne želi da bilo ko čuje o Božjoj dobroti ili da je iskusi. Prema tome, izbegavanje misije nije samo zanemarivanje dužnosti; ono umesto toga predstavlja propuštenu priliku da se drugi povedu u dublji i smisleniji hod sa Bogom i prema izobilnijem životu. Sledeći odeljak opisuje dva moguća načina na koja se izgovori koriste kako bi se izbegla misija. Ovi izgovori ne obuhvataju jedine načine na koje može doći do izbegavanja, ali oni su dva od istaknutijih načina. Prvi primer je prikazan u izveštaju o učenicima u Getsimanskom vrtu. U okviru drugog primera izvući ćemo ključne pojedinosti iz izveštaja o Joni.
+
+### DRUGI DEO: KOMENTAR
+
+**Getsimanija**
+
+Kada se Isus bližio poslednjim časovima života na Zemlji, pre hapšenja, suđenja i smrti, poveo je svoje učenike u Getsimanski vrt. Isus je zamolio tri svoja najbliža učenika da se mole sa Njim i ostanu budni dok je On na molitvi, jer je teret svega što Mu se događalo bio težak. Isusu je u tom trenutku očajnički bila potrebna uteha prijatelja (Matej 26,36-45).
+
+Nažalost, učenici, koji su iskreno voleli Isusa i smatrali Ga dragim prijateljem, nisu mogli da ispune molbu, te su zaspali. Ova nemarnost dogodila se dva puta; učenici su postali samozadovoljni i dozvolili su da ih pospanost odvoji od deljenja Gospodnjih tereta. Pre nego što su imali priliku da to isprave, Isus je bio uhapšen i odveden (Matej 26,47-56). Dakle, učenici su propustili priliku da služe Onome koga su toliko voleli.
+
+Problem u ovoj situaciji nije ležao u tome da učenici nikada nisu iskusili Isusovu ljubav. Do tog trenutka, imali su mnoštvo dokaza koji su ukazivali na Njegovu ljubav. Nije ležao čak ni u tome da su se udaljili od Isusa. Uostalom, bili su sa Njim u vrtu. Ipak, osećaj zadovoljstva ih je obuzeo. Učenici nisu mogli da shvate koliko je ključno bilo da ostanu budni i mole se za Isusa u tom presudnom trenutku. Učenici su propustili priliku da dele Očevu ljubav sa Onim koji ih je toliko mnogo učio o ljubavi.
+
+Žalosno je reći, ali mi smo danas često krivi zbog istog samozadovoljstva i zanemarivanja. Imamo divna iskustva sa Isusom. I otvoreno Ga sledimo. Međutim, stvarnost je da su mnogi od nas, kada bliže pogledamo, postali samozadovoljni u svojoj veri. Ovo samozadovoljstvo često se događa suptilno. Kada razmišljamo o svom životu, možemo shvatiti da ne volimo druge na stvaran način. U velikoj meri kao i učenici, znamo da je Isus dobar i da želimo da budemo sa Njim, ali klizimo u stanje duhovne pospanosti, propuštajući mnoštvo prilika da delimo Božju ljubav sa očajnim svetom. Treba da podsetimo jedni druge, sa poštovanjem, da ostanemo budni i da uvek budemo spremni da delimo ljubav koju smo iskusili sa svetom koji pati.
+
+**Jona**
+
+Drugi izgovor koji navodimo da bismo izbegli misiju utelovljen je u obliku propuštenih prilika u narativu o Joni. Ovaj oblik izgovora razlikuje se od zanemarivanja i samozadovoljstva koje su učenici ispoljili u Getsimaniji. Međutim, drugi izgovor, kao i prvi, takođe je rasprostranjen. Izveštaj o Joni predstavlja primer drugog izgovora na nekoliko načina. Iako je izveštaj višestruk, Knjiga o Joni je, u svojoj suštini, kao što smo upravo potvrdili, izveštaj o propuštenim prilikama.
+
+Jona je poznavao Boga i prorokovao je o Bogu u Izrailju pre nego što je dobio poziv da pođe u Nineviju (2. O carevima 14,25). Međutim, njegov prethodni proročki rad uvek se odvijao među Izrailjcima i obuhvatao je ohrabrujuće vesti u korist Izrailja. Jonin rad nije uključivao proricanje među izrailjskim neprijateljima. Kada pročitate celu Knjigu proroka Jone, zapažate da se Jona borio u velikoj meri da voli ljude koji su dolazili iz nejevrejske sredine.
+
+Dve značajne propuštene prilike pronalazimo u Knjizi proroka Jone. Prva propuštena prilika dešava se na brodu na koji se Jona ukrcao da bi pobegao od Boga. U toku oluje, Jona je bio okružen mornarima koji su obožavali druga božanstva. Ipak, tokom oluje, moreplovci su preklinjali Jonu da se moli svom Bogu u nadi da će njegovo posredovanje nešto postići (Jona 1,6). Jona se nije pomolio. Jonino rešenje je bilo da izvrši samoubistvo uz njihovu pomoć (Jona 1,12). U ovom delu izveštaja, Jona nije znao da će mu kit spasiti život, i tako je upitao mornare da ga bace preko palube u smrt.
+
+Mornari, koji su imali saosećajnija srca od Jone, odbijali su u početku to da učine, sve dok im to nije bila jedina opcija (Jona 1,3). (Setite se prethodne lekcije o tome da treba biti otvoren za primanje blagoslova od onih koje srećete.) Oluja se zaustavila kada je Jona bačen sa lađe. Kao rezultat, mornari su stekli poštovanje prema Joninom Bogu. Problem je ležao u tome što je Jona radije propustio priliku da se moli Bogu nego da predloži ljudsko rešenje. Ova prilika pružila bi mornarima potpunije i bolje razumevanje ko je Bog.
+
+Druga propuštena prilika nastupila je nakon što je Jona propovedao u Nineviji. Narod je prihvatio Joninu poruku i pokajao se. Međutim, Jonu niko nije mogao da pronađe. Popeo se na obližnje brdo, nadajući se da će videti uništenje Ninevije (Jona 4,5). Kada se to nije dogodilo, Jona se naljutio na Boga (Jona 4,1). Jona otkriva pravi razlog svojih izgovora da izbegne Božju misiju. Jona kazuje Bogu da je znao da je Bog pun ljubavi i saučešća i da će, prema tome, najverovatnije oprostiti Ninevljanima (Jona 4,2). Shvatajući ovu biblijsku istinu, Jona nije želeo da pođe u misiju ljudima koje nije voleo, zato što nije želeo da iskuse Božju dobrotu.
+
+Knjiga proroka Jone je jedina knjiga u Bibliji koja se završava pitanjem (Jona 4,11). Pitanje je jasno. Bog pita Jonu: „Zašto ne možeš da voliš ljude kao što ih Ja volim?“ Pošto je Jona odbio da voli svoje neprijatelje, bio je izvan grada kada je trebalo da bude u njemu i pomogne stanovnicima Ninevije da preduzmu sledeći korak u svom odnosu sa Bogom. Jonino odbijanje pretvorilo se u propuštenu priliku.
+
+Jonini izgovori bili su obavijeni onim što danas nazivamo etnocentrizmom, predrasudama i rasizmom. Jona je iskusio Božju ljubav u svom životu i znao je da je Bog pun samilosti. Međutim, Jona nije mogao da prevaziđe svoja osećanja nacionalnog ponosa. Budući da je verovao da je bolji od drugih, nije bio voljan da pođe u misiju onako kako je Bog želeo. Kakav žalostan izveštaj. Ipak, možemo i dalje da učimo iz njega danas.
+
+Pitanje postavljeno na kraju Knjige proroka Jone je pitanje koje treba da postavimo sebi i svojoj crkvi. Da li pokazujemo ljubav za zajednice oko nas, naročito prema članovima koji se razlikuju od nas ili dolaze iz drugih delova sveta? Veoma često čuo sam razgovore u crkvi ili u subotnoškolskom razredu koji otkrivaju predrasude i štetne etnocentrične stavove. Ovi stavovi su često praćeni izgovorima zašto su određene grupe ljudi izvan naše misije. Takvo razmišljanje se ne razlikuje od Joninog načina razmišljanja.
+
+Jona nije shvatio da kada Bog pokazuje ljubav i saučešće drugima, Njegova božanska manifestacija milosti treba da služi kao podsetnik da je Bog to isto učinio za nas. Kada pođete u misiju, delite Božju ljubav i posmatrate kako menja živote ljudi, takvo iskustvo može da poboljša vaše putovanje sa Bogom. Ovo iskustvo takođe vas može približiti novim odnosima sa ljudima koji se mogu veoma razlikovati od vas, ali koji neguju zajednicu sa Isusom. Jona je mogao da stekne nove prijatelje na brodu i sa njima podeli svoju veru. Isto važi i za Ninevljane. Nažalost, ove prilike su bile propuštene zato što se Jona odlučio za izgovore ukorenjene u njegovom sebičnom ponosu i etnocentrizmu.
+
+### TREĆI DEO: PRIMENA U ŽIVOTU
+
+Svi treba da budemo zahvalni za divna iskustva koja imamo sa Isusom. Tokom vremena, međutim, često postajemo samozadovoljni na našem putovanju sa Bogom. Sa tim samozadovoljstvom često dolazi i sklonost da se izgovaramo što ne delimo Božju ljubav sa drugima. Samozadovoljstvo može da se dogodi suptilno, i, pre nego što smo toga svesni, mi spavamo kada treba da budemo budni. Kao pojedinci i kao crkve, treba pošteno da pogledamo u svoj svakodnevni život i sebe smatramo odgovornima. Ako aktivno ne težimo odnosima sa ljudima koji pate ili im je potrebna pomoć u nošenju tereta, postali smo samozadovoljni. Odgovornost zahteva da se sastajemo sa malom grupom pouzdanih prijatelja iz svoje mesne crkve koji su spremni da budu otvoreni kad je reč o svom samozadovoljstvu i spremni da pomognu jedni drugima u pronalaženju načina da obnove iskustva sa Bogom, govoreći o Njemu na kreativne načine široj zajednici oko sebe.
+
+Za druge, realnost je mračnija: oni su osmislili izgovore da izbegnu misiju prema posebnim grupama ljudi, kao što su muslimani ili katolici, zato što smatraju da ovi ljudi nisu vredni Božje ljubavi. Takvi izgovori otkrivaju da među njima vlada stav superiornosti i etnocentrizma, što u tom slučaju ukazuje na potrebu da mole Boga da im pomogne da vole sve ljude. Ovaj cilj možemo postići ukoliko upitamo sebe šta mislimo o određenim ljudima. Ako se plašimo određenih grupa ili smatramo da nisu vredni spasenja, onda je to znak da nešto nije u redu sa nama, a ne sa gupom o kojoj je reč. Iskrena procena zahteva određeni nivo samoispitivanja i iskrenosti koju je teško postići, ali crkva koja je spremna da se bori sa ovim činjenicama jeste crkva na koju Sveti Duh može da deluje.

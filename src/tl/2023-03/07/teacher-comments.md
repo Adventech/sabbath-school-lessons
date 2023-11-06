@@ -1,0 +1,78 @@
+---
+title:  Komento ng Guro
+date:   11/08/2023
+---
+
+### Unang Bahagi: Pangkalahatang Ideya
+
+**Susing Talata**: Efeso 4:11, 12
+
+**Pokus ng Pag-aaral**: Efeso 4:1-16; Filipos 2:3; Mga Awit 68:18;
+
+Gawa 2; 1 Corinto 12:4-11, 27-30; Isaias 5:4. Panimula: Hanggang dito, ipinaliwanag ni Pablo ang kapangyarihan ng pagliligtas ng Diyos at kung paano ito gumagawa sa kasaysayan ng mundo, na pinag-iisa ang mga Judio at mga Hentil sa isang bagong sangkatauhan kay Cristo. Sa Efeso 4:1-17, ipinagpatuloy ni Pablo ang tema ng pagkakaisa. Sa paggawa nito, binibigyang-diin ni Pablo na ang pagkakaisa ay isang napakahalagang katangian o tanda ng iglesya. Ang pagkakaisa ay resulta ng pagliligtas ng Diyos, ngunit ito rin ay kasangkapan ng Diyos para sa pagtupad ng Kanyang misyon para sa iglesya at sa pamamagitan ng iglesya. Sa dahilang ito, lumipat si Pablo sa kabila ng tema ng pagkakaisa ng mga Judio at mga Hentil sa iglesya upang tumuon sa panloob na pagkakaisa ng iglesya sa buhay at misyon. Ngayong kay Cristo ay walang Judio o Hentil, ngayong kay Cristo tayong lahat ay magkakapatid na walang pinipiling lahi, tinalakay ni Pablo ang pagkakaisa ng lahat ng Kristiyano bilang mga miyembro ng iisang katawan at kasangkot sa parehong misyon ni Cristo.
+
+Ang pagkakaisa ng iglesiya ay nakakamit sa maraming paraan:
+
+(1) sa pamamagitan ng pakikibahagi sa mga pag-uugali ng kapakumbabaan, kahinahunan, at pagtitiis ni Cristo;
+
+(2) sa pamamagitan ng pagninilay sa pinakahuling huwaran para sa buhay ng iglesya: ang Panguluhang Diyos sa Tatlong Persona ng Ama, Anak, at Banal na Espiritu at ang kanilang gawain sa Paglikha at Pagtubos;
+
+(3) sa pamamagitan ng nagkakaisang mga kasangkapan ni Cristo ng kaligtasan na bumubuo sa iglesya—isang pag-asa, isang pananampalataya, at isang bautismo; at
+
+(4) sa pamamagitan ng mga espirituwal na kaloob kung saan pinagpapala ng Diyos ang iglesya upang lumago at magkaisa sa isang katawan kay Cristo at maisakatuparan ang misyon nito sa mundo.
+
+**Mga Tema ng Aralin**: Ang pag-aaral na ito ay nakatuon sa tatlong pangunahing tema mula sa Efeso 4:1-16:
+
+1. Ang pagkakaisa ng iglesya ay mahalaga sa pagkakakilanlan, buhay, at misyon ng iglesya.
+
+2. Natatamo ang pagkakaisa ng iglesya kapag tinitingnan ng iglesya ang buhay ng Tatlong Persona ng Kadiosan at tinatanggap ang mga pagpapahalaga at ugali ng Diyos: magkakaiba ang Tatlong Persona ng Kadiyosan; gayunpaman, Sila ay nabubuhay at kumikilos sa perpektong pagkakaisa.
+
+3. Ang mga espirituwal na kaloob ay mahalaga para sa pagkakaisa, buhay, at misyon ng iglesiya.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Iglesya bilang Katawan ni Cristo**
+
+Nang binanggit ni Pablo sa Efeso 1:22 na ang iglesya ay ang katawan ni Cristo, hindi niya ibig sabihin na ang iglesya mismo ay banal o supernatural. Sa ekonomiya ng plano ng kaligtasan, ang Diyos ang nagkatawang-tao, at hindi ang mga tao ang naging Diyos. Ang iglesya ay ang katawan ni Cristo sa diwa na ito ang bago, naligtas na sangkatauhan na kinakatawan at naisakatuparan sa pamamagitan ng pagkakatawang-tao ni Cristo. Ito ang bagong sangkatauhan na nilikha, iniligtas, at pinamumunuan ni Cristo, ang Tagapaglikha, Tagapagligtas, at Panginoon nito. Kaya, ang iglesya ay hindi pagpapakitang-anyo ng Diyos; sa halip, ang iglesya ay bayan ng Diyos—mga taong nilikha ng Diyos at ngayon ay ibinalik Niya sa Kanyang kaharian. Sa ganitong diwa ang iglesya ay ang “kapuspusan Niya na pumupuspos ng lahat sa lahat” (Efeso. 1:23).
+
+**Ang Trinidad Bilang Pinanggagalingan at Modelo ng Pag-iral at Pagkakaisa ng Iglesiya**
+
+Ang pagkakaisa ng iglesya ay mahalaga sa doktrina ni Pablo tungkol sa iglesya. Gayunpaman, hindi itinulad ni Pablo ang pagkakaisa na ito ayon sa pagkakaisa ng administratibong pulitikal, ekonomikal, at militar ng Imperyo ng Roma o ilang iba pang institusyon ng tao. Bagkus, pinag-ugatan ni Pablo ang pagkakaisa ng iglesya sa mismong kalikasan ng Kristiyanong Diyos, ang Trinidad na Diyos. Sa katunayan, ang Sulat sa mga Taga-Efeso ay puno ng mga pagtukoy sa iba't ibang Persona ng Kadiyosan na naghahayag ng dakilang pangitain ni Pablo sa lahat ng Tatlong Persona ng Kadiyosan na kumikilos sa plano ng kaligtasan, sa paglikha at pagtatayo ng iglesya.
+
+Tulad ng sa Efeso 1:1-14 inilalarawan ni Pablo ang mga miyembro ng Kadiyosan na gumagawa para sa ating kaligtasan, sa Efeso 1:15-23 inilalarawan ni Pablo ang Ama at ang Anak na kumikilos sa paglikha, pagpapala, at pagbibigay kapangyarihan sa iglesya. Dahil dito, tinapos ni Pablo ang bahaging ito sa pamamagitan ng pagtawag sa iglesya na “katawan” ni Cristo at ang “kapuspusan” ng Ama (Efeso 1:23; tingnan din sa Efeso 4:6). Sa Efeso 2:1922, lahat ng miyembro ng Kadiyosan ay kasangkot sa paggawa ng iglesya: ang iglesiya ay ang "sambahayan" o ang "banal na templo" ng Ama na itinayo kay Cristo Jesus "na sa Kanya" ang mga kaanib ng iglesya ay “sama-samang itinayo sa isang tahanan ng Diyos sa Espiritu” (NASB). Sa Efeso 3, tinitingnan ni Pablo ang iglesya bilang resulta ng biyaya ng Ama (Efeso. 3:2) na inihayag “sa Espiritu” (Efeso. 3:5, NASB) bilang “hiwaga ni Cristo” (Efeso 3:4) o “dimaarok na kayamanan ni Cristo” (Efeso 3:8, NASB) sa “mga apostol at mga propeta” (Efeso 3:5). Gayundin, binibigyang kapangyarihan ng Ama (Efeso 3:14) ang iglesya “sa pamamagitan ng Kanyang Espiritu . . . upang si Cristo ay manahan sa inyong mga puso sa pamamagitan ng pananampalataya” (Efeso 3:16, 17, NASB) at upang “maunawaan” ng iglesya ang pag-ibig ni Cristo (Efeso 3:18) at “mapuspos ng buong kapuspusan. ng Diyos” (Efeso 3:19, NASB). Bilang karagdagan, ang iglesya ay nilikha at pinag-isa ng Diyos dahil ang kanyang Diyos ay ang Ama ng “bawat pamilya sa langit at sa lupa” (Efeso 3:14, 15, NASB). Ang lahat ng nilalang sa sansinukob ay kumukuha sa Kanya ng apelyido dahil nilikha Niya tayong lahat, at sa Kanya tayo ay isang pamilya. Sa unibersal na pamilya ng Diyos, tayo ay kamag-anak, hindi lamang ng lahat ng iba pang miyembro ng iglesya sa buong sangkatauhan kundi maging ng buong populasyon ng sansinukob (tingnan din sa Hebreo 12:22, 23). Kaya, habang si Pablo ay nakatutok sa kaligtasan at sa iglesya sa lupa, siya ay nag-iingat na panatilihin ang kanyang pambuong-mundong pananaw na kanyang ipinakilala noong nagsusulat siya tungkol sa mga makalangit na dako sa Efeso 1.
+
+Sa Efeso 4, dinala ni Pablo sa kasukdulan ang kanyang dakilang pagbuo ng doktrina ng iglesya bilang nilikha at pinagsama ng Kadiyosan. Ipinahayag ni Pablo na ang pagkakaisa ng iglesya, ay sa katunayan, ang “pagkakaisa ng Espiritu” (Efeso 4:3). Sa patulang paraan, sinabi ng apostol sa kanyang mga mambabasa na ang pagkakaisang ito ay mahalagang nauugnay sa lahat ng Persona ng Kadiyosan. Tayo ay “isang katawan” dahil mayroong “isang Espiritu” na tumawag sa atin “sa isang pag-asa” (Efeso 4:4). Sa katulad na paraan, sa ating “isang Panginoon” mayroon tayong “isang pananampalataya, isang bautismo” (Efeso 4:5). Sa huli, ang iglesya ay nagkakaisa dahil mayroon tayong “isang Diyos at Ama ng lahat na nasa ibabaw ng lahat at sumasa lahat at nasa lahat” (Efeso 4:6, NASB). Kaya, umiiral ang iglesya dahil nilikha at tinawag tayo ng Diyos. Bilang karagdagan, ang iglesya ay umiiral bilang isang nagkakaisang katawan dahil ang Diyos na lumikha at tumawag sa kanya ay Iisa: Tatlong Persona, ngunit isang Diyos. Ang iglesya ay hindi mabubuhay kung wala ang Diyos; hindi maaaring umiral ang iglesya kung hindi ito "isa"; at hindi maaaring maging isa ang iglesya kung hindi ito nakaugat sa turo ng Biblia na Isang Diyos sa Tatlong Persona.
+
+**Ang mga Espirituwal na Kaloob, Pag-iral, Pagkakaisa, at Misyon ng Iglesiya**
+
+Matapos ilatag ang teolohikong pundasyon para sa pag-iral at pagkakaisa ng iglesiya sa Trinidad, ipinaliwanag ni Pablo sa Efeso 4, sa mas praktikal na paraan kung paano ang iglesiya ay katawan ni Cristo at kung paano gumagawa ang Banal na Espiritu sa pagkakaisa nito. Upang gawin ito, bumalik si Pablo sa isang pangkat ng mga tema sa Efeso 1: Ang pag-akyat ni Cristo sa trono ng Diyos (Efeso 1:20), ang Kanyang kadakilaan (Efeso. 1:21, 22) sa katayuan ng “Ulo” ng iglesya, ang “kanyang katawan” (Efeso 1:22, 23), at ang pagpapala ng Kanyang iglesya “sa bawat pagpapalang espirituwal sa mga makalangit na dako” (Efeso1:3, NASB). Ang mga pagpapalang ito ay mga pagpapala ng biyaya para sa kaligtasan kay Cristo: “katubusan sa pamamagitan ng Kanyang dugo, ang kapatawaran ng mga kasalanan” (Efeso 1:7, NKJV), paghahayag ng ebanghelyo ni Cristo (Efeso 1:7-13), at pananampalataya (Efeso 1:13, 15).
+
+Sa Efeso 4, ang apostol ay sumusunod sa isang katulad na kaisipan upang ipaliwanag na si Cristo ay umakyat (Efeso 4:8) at itinaas (Efeso 4:10). Ang pagiging “Ulo” ng iglesya (Efeso 4:15), na Kanyang katawan (Efeso 4:16), at si Cristo ay “nagbigay ng mga kaloob” sa Kanyang bayan (Efeso 4:8). Ang mga kaloob na ito ay tinatawag na mga kaloob ni Cristo at iniuugnay din sa “biyaya”: “sa bawat isa sa atin ay ibinigay ang biyaya ayon sa sukat ng kaloob ni Cristo” (Efeso 4:7, NKJV). Gayunpaman, ang mga kaloob na ito ay hindi mga pagpapala para sa pagliligtas ng mga makasalanan, tulad ng sa Efeso 1, kundi mga pagpapala o mga kaloob ng pagbibigay-kapangyarihan para sa konstitusyon, pagkakaisa, at misyon ng iglesya. Tinukoy ni Pablo ang mga kaloob na ito bilang “mga apostol . . . mga propeta . . . mga ebanghelista . . . mga pastor at mga guro” (Efeso 4:11). Sa ibang lugar, tinawag sila ni Pablo na mga kaloob ng biyaya (charismata; Roma 12:6-8, 1 Corinto 12:4) o mga kaloob ng Espiritu (pneumatikois; 1 Corinto 12:1), na ibinigay at ipinamahagi ng Banal na Espiritu (1 Corinto 12:4, 7-11) sa mga miyembro ng katawan ni Cristo (1 Corinto 12:12, 13).
+
+Kaya, bagama't si Pablo ay gumagamit ng magkatulad na disenyo ng mga tema sa Efeso 1 at 4, tinutugunan niya ang iba't ibang aspeto ng iglesya. Habang sa Efeso 1 ang apostol ay nagsasalita tungkol sa kaligtasan ng mga tao, sa Efeso 4 ay tinatalakay niya ang pagkakaroon, pagkakaisa, at misyon ng iglesya. Kaya nga, sa Efeso 4, ang nabuhay at umakyat na Panginoong Jesus (Efeso 4:8-10) ay nagbibigay sa bawat miyembro ng iglesya ng “biyaya . . . ayon sa sukat ng kaloob ni Cristo” (Efeso 4:7). Dito, ang “pagbibigay” o ang “biyaya” ay isang atas (Efeso 4:11), at hindi ang biyaya ng kaligtasan o kapatawaran. Ito ay kaloob ng “pagsasangkap sa mga banal para sa gawain ng ministeryo, para sa ikatitibay ng katawan ni Cristo” (Efeso 4:12, NASB).
+
+Tunay nga, ang iglesya ay binubuo ng mga indibidwal na naligtas, ngunit ang kanilang pagkaligtas ay simula lamang ng buhay na ipinanukala ng Diyos para sa Kanyang iglesya. Lumilikha ang Diyos ng bagong sangkatauhan, ang Kanyang bayan, at ang bagong komunidad na ito ay itinayo ng Espiritu sa pamamagitan ng “biyaya” (charismata; Efeso 4:7). Sa pamamagitan ng charismata o mga kaloob, gumagawa ang Espiritu sa iglesya “hanggang sa maabot nating lahat ang pagkakaisa sa pananampalataya at sa pagkakilala sa Anak ng Diyos” (Efeso 4:13, NIV). Sa madaling salita, hanggang tayong lahat ay lumago “sa sukat ng pangangatawan ng kapuspusan ni Cristo” (Efeso 4:13, NKJV), na siyang Ulo ng iglesiya (Efeso 4:15).
+
+May ilang mga pangunahing konklusyon at implikasyon na maaari nating makuha mula sa teolohiya ni Pablo ng iglesya sa Efeso 4:
+
+Una, ang iglesiya ay hindi isang organisasyon ng tao, na itinayo at pinapanatili ng mga tao at para sa mga layunin ng tao. Bagkus, ang iglesya ay nilikha, inaalalayan, at ginagabayan sa kanyang misyon ng Diyos mismo.
+
+Pangalawa, sa pagpapakita ng imahe ng Trinidad, ang iglesya ay dapat nagkakaisa. Sa Kanyang panalangin bilang Punong Saserdote, nagsumamo si Jesus sa Ama na ang iglesya “nawa'y maging isa; tulad mo . . . na nasa Akin at Ako ay nasa Iyo . . . upang ang sanlibutan ay maniwala na ikaw ang nagsugo sa Akin” (Juan 17:21, NASB).
+
+Ikatlo, ang pagkakaisang ito ay hindi bunga ng kalooban o galing ng tao, kundi ng gawain ng Ama, ni Cristo Jesus, at ng Banal na Espiritu na gumagawa sa loob at sa pamamagitan ng iglesya.
+
+Ikaapat, tinatrabaho ng Trinidad ang pagkakaisa at paglago ng iglesiya sa pamamagitan ng mga espirituwal na kaloob. Kaya, ang mga espirituwal na kaloob ay hindi isang opsyonal na programa ng iglesya na gagamitin kapag kinakailangan ng mga miyembro ng iglesya. Sa halip, ang mga espirituwal na kaloob ay ang paraan kung saan binubuo, pinapanatili, at ginagabayan ng Diyos ang iglesya. Mahalagang tandaan na kapag pinag-uusapan ang kakanyahan at ang pagkakaisa ng iglesya, si Pablo ay hindi nagmumungkahi ng isang hierarchial at sacramental na istraktura ng pamamahala ng iglesya. Bagkus, habang itinataguyod ang isang mabuting organisasyon ng iglesya, tiningnan ng apostol ang pinagmulan ng pag-iral, pagkakaisa, at misyon ng iglesya bilang nakaugat sa Trinidad, na siyang Ulo ng iglesiya at ng mga espirituwal na kaloob na ipinagkaloob Niya upang ipakita ang Kanyang presensya at gawain sa iglesiya.
+
+Ikalima, napakahalaga para sa biblikal na teolohiya ang mga paksa ng Kadiyosan at ang mga espirituwal na kaloob na itinuturing ng mga Seventh-day Adventists sa maraming pahayag ng paniniwala. Ang Kadiyosan ay tinalakay sa limang pangunahing paniniwala (fundamental beliefs): 2 (na tumatalakay sa turo ng Biblia tungkol sa Trinidad na Diyos), 3 (“Diyos Ama”), 4 (“Diyos Anak”), 5 (“Diyos Espiritu Santo”), at 10 (“Ang Karanasan ng Kaligtasan,” na tumatalakay sa implikasyon ng lahat ng Tatlong Persona ng Kadiyosan sa kaligtasan ng sangkatauhan). Ang doktrina ng iglesya ay masaganang naipahayag sa pitong pangunahing paniniwala: 12 (“Ang Iglesiya”), 13 (“Ang Nalabi at ang Misyon Nito”), 14 (“Pagkakaisa sa Katawan ni Cristo”), 15 (“Pagbabautismo”) , 16 (“Ang Hapunan ng Panginoon”), 17 (“Mga Espirituwal na Kaloob at Mga Ministeryo”), at 18 (“Ang Kaloob ng Propesiya”).
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+1\. Isa sa mga kalunos-lunos na pangyayari sa kasaysayan ng alinmang iglesya ay ang pagkakahati at pagkakawatak-watak nito. Batay sa pagaaral ng klase sa Efeso 4:1–16, patnubayan ang iyong mga estudyante sa pagbuo ng tatlong-puntong estratihiya upang mapanatiling nagkakaisa at lumalago ang iyong lokal o rehiyonal na iglesya.
+
+2\. Ano, sa pang-unawa ng iyong mga estudyante, ang kaugnayan sa pagitan ng pagbabalik-loob ng isang tao, pagiging miyembro sa iglesya bilang katawan ni Cristo, at mga espirituwal na kaloob?
+
+3\. Pangunahan ang iyong klase sa talakayan tungkol sa sumusunod na tanong: Kailan mo huling naisip ang iyong sarili, ang iyong pamilya, ang iyong grupo ng mga kaibigan, o ang iyong iglesya tungkol sa mga espirituwal na kaloob? Ngayon tanungin ang iyong mga estudyante kung paano sa palagay nila ang kanilang grupo o iglesya ng Paaralang Sabado ay makakatulong na mas maisulong ang ideya na ang mga espirituwal na kaloob ay gawain ng Banal na Espiritu sa iglesya. Hilingin sa mga miyembro ng klase na tukuyin ang tatlong paraan kung saan ang proseso ng halalan ng iglesya o ang pamunuan ng iglesya ay maaaring magsulong ng mga espirituwal na kaloob upang ituloy ang paglago, pagkakaisa, at misyon ng iglesya.
+
+4\. Marahil ay mahirap mag-imbento ng isang kasangkapan na panukat sa kababaang-loob, kahinahunan, at pasensya. Gayunpaman, kung magkakaroon ng ganoong kagamitan sa pagsukat, anong antas ng mga pagpapahalaga at pag-uugaling ito ang iniisip ng iyong mga estudyante na ipapakita ng kasangkapan sa kanilang sariling buhay, sa buhay ng kanilang mga kaibigan, o sa buhay ng kanilang iglesya? Hilingin sa mga miyembro ng klase na mag-isip ng tatlong paraan upang itaguyod ang tunay na mga biblikal na pagpapahalaga (values) ng pagpapakumbaba at pagtitiyaga sa kanilang sariling buhay at sa buhay ng inyong iglesya na tutulong na humantong sa higit na pagkakaisa.
+
+` `

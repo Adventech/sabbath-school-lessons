@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-Intro.pdf'
+      target: si/2023-02-pp/introduction
+      title: හැදින්වීම
+      start_date: 25/03/2023
+      end_date: 25/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-01.pdf'
+      target: si/2023-02-pp/01
+      title: 'සමාව ලැබු පරාජිතයෝ'
+      start_date: 25/03/2023
+      end_date: 31/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-02.pdf'
+      target: si/2023-02-pp/02
+      title: 'සීමොන් බලාපොරොත්තු නොවු කුරුසිය'
+      start_date: 01/04/2023
+      end_date: 07/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-03.pdf'
+      target: si/2023-02-pp/03
+      title: 'විශාල වෘත්තයක්'
+      start_date: 08/04/2023
+      end_date: 14/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-04.pdf'
+      target: si/2023-02-pp/04
+      title: 'විශේෂ ත්‍යාගයක්'
+      start_date: 15/04/2023
+      end_date: 21/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-05.pdf'
+      target: si/2023-02-pp/05
+      title: 'දූපතක් පිළිබඳ සිහිනය'
+      start_date: 22/04/2023
+      end_date: 28/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-06.pdf'
+      target: si/2023-02-pp/06
+      title: 'ජයග්‍රාහකයෙකු වන්නේ කෙසේද?'
+      start_date: 29/04/2023
+      end_date: 05/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-07.pdf'
+      target: si/2023-02-pp/07
+      title: 'දිවි රකින අවවාදය'
+      start_date: 06/05/2023
+      end_date: 12/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-08.pdf'
+      target: si/2023-02-pp/08
+      title: 'ගරුඬ පාෂාණයෙන් තැනු සිංහාසනය'
+      start_date: 13/05/2023
+      end_date: 19/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-09.pdf'
+      target: si/2023-02-pp/09
+      title: 'ඔබ ගැන සිතීම'
+      start_date: 20/05/2023
+      end_date: 26/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-10.pdf'
+      target: si/2023-02-pp/10
+      title: 'පළමුවෙන් ගින්දර, ඉන්පසු වර්ෂාව'
+      start_date: 27/05/2023
+      end_date: 02/06/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-11.pdf'
+      target: si/2023-02-pp/11
+      title: 'ඉටු කළාවු පොරොන්දුවක්'
+      start_date: 03/06/2023
+      end_date: 09/06/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-12.pdf'
+      target: si/2023-02-pp/12
+      title: 'දෙවිඳුන් වෙතින් පැන යාම'
+      start_date: 10/06/2023
+      end_date: 16/06/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-02/ABSG-2023-02-SI-PP-13.pdf'
+      target: si/2023-02-pp/13
+      title: 'දෙවිඳුන් සමඟ දිවිම'
+      start_date: 17/06/2023
+      end_date: 23/06/2023

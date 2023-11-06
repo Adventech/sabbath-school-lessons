@@ -1,0 +1,80 @@
+---
+title:  Komentaryo Dagiti Mannursuro
+date:   11/08/2023
+---
+
+### Paset I: Pakabuklan
+
+**Kangrunaan a Teksto**: Efeso 4:11, 12
+
+**Sentro ti Panagadal**: Efe. 4:1–16; Fil. 2:3; Sal. 68:18; Aramid 2; 1 Cor. 12:4–11, 27–30; Isa. 5:4.
+
+**Pauna**: Ni Pablo ket inlawlawagna ti pannakabalin ti panangisalakan ti Dios ken no kasano iti panagtrabahona iti pakasaritaan ti lubong, panamagkaykaysa kadagiti Judio kadagiti Gentil iti maysa a baro a tao ken Cristo. Idiay Efeso 4:1–17, itultuloy ni Pablo ti tema ti panagmaymaysa. Iti panangaramid dayta, ipaganetget ni Pablo a ti panagmaymaysa ket saan a maisina a kababalin wenno marka ti iglesia. Ti panagmaymaysa ket isu ti bunga iti panangisalakan ti Dios, ngem dayta ket rimienta pay ti Dios nga agpaay iti panangtungpal iti misyonna nga agpaay iti iglesia ken babaen ti iglesia. Gapu itoy, ni Pablo mapan iti labes pay ti tema ti panagmaymaysa dagiti Judio ken dagiti Gentil iti iglesia tapno maisentrona iti akin uneg a panagmaymaysa iti biag ken misyon. Itan ta ken Cristo ket awan iti Judio wenno Gentil, itan ta ken Cristo datayo amin ket agkakabsat a lallaki ken babbai nga awan iti panaglalasin ti tribu, ni Pablo ket saritaenna ti panagmaymaysa ti amin a Cristiano a kas kamkameng ti isu met la a bagi ken nairaman iti isu met la a misyon ni Cristo.
+
+Ti panagmaymaysa ti iglesia ket nagun-od iti adu a wagas:
+
+(1) babaen iti panangibingay kadagiti kababalin ni Cristo a kinapakumbaba, kinaemma, ken kinaanus;
+
+(2) babaen iti panangut-utob iti pagwadan nga agpaay iti biag ti iglesia: ti Kinadios iti Tallo a Persona ti Ama, Anak, ken Espiritu Santo ken ti trabahoda iti Panamarsua ken Panangsubbot;
+
+(3) babaen ti mamagkaykaysa a rimienta ni Cristo iti panangisalakan a buklen ti iglesia—maysa a namnama, maysa a pammati, ken maysa a bautisar; ken
+
+(4) babaen kadagiti naespirituan a sagsagut nga isu a pangbendicionan ti Dios iti iglesia tapno dumakkel ken agmaymaysa iti maysa a bagi ken Cristo ken malpasna ti misyonna iti lubong.
+
+**Dagiti Tema ti Adal**: Daytoy nga adal ket maisentro kadagiti tallo a kangrunaan a tema manipud ti Efeso 4:1–16:
+
+1. Ti panagmaymaysa ti iglesia ket nasken iti pakailasinan, biag, ken misyon ti iglesia.
+
+2. Ti panagmaymaysa ti iglesia ket magun-od no ti iglesia ket kumita iti biag ti Tallo a Persona ti Kinadios ken arakupenna dagiti pateg ken kababalin ti Dios: ti Tallo a Persona ti Kinadios ket agduduma; ngem, Agbiag ken agtrabahoda iti naan-anay a panagmaymaysa.
+
+3. Dagiti naespirituan a sagsagut ket naskenda nga agpaay iti panagmaymaysa, biag, ken misyon ti iglesia.
+
+### Paset II: Komentaryo
+
+**Ti Iglesia a kas Bagi ni Cristo**
+
+Idi imbaga ni Pablo idiay Efeso 1:22 a ti iglesia ket isu ti bagi ni Cristo, saanna a kayat a saoen a ti iglesia a mismo ket nadiosan wenno nailangitan. Iti ekonomiya ti plano ti pannakaisalakan, ti Dios iti naglasag, ket saan a dagiti tao ti napagbalin a dios. Ti iglesia ket isu ti bagi ni Cristo iti panangkita a dayta iti baro, naisalakan a tao nga intakderan ken nalpas babaen, ken iti, panaglasag ni Cristo. Dayta iti baro a tao a naparsua, naisalakan, ken inturayan ni Cristo, ti Namarsua, Mangisalakan, ken Apona. Gapuna, ti iglesia ket saan a maysa naggapu iti nadiosan; no di ket, ti iglesia ket tattao ti Dios—dagiti tattao a pinarsua ti Dios ket itan ket insublina idiay pagarianna. Iti daytoy a panangkita a ti iglesia ket isu “daydiay mangpunno amin cadagiti isu-amin” (Efe. 1:23).
+
+**Ti Paggappuan ti Tallo a Persona ken Pagwadan ti Kaadda ken Panagmaymaysa ti Iglesia**
+
+Ti panagmaymaysa ti iglesia ket nasken iti doktrina ni Pablo iti iglesia. Nupay kasta, saan nga itulad ni Pablo daytoy a panagmaymaysa iti napolitikaan, ekonomiya, panagmaymaysa ti buybuyot ti Pagarian ti Roma wenno sumagmamano a dadduma a nataoan a pasdek. No di ket, iramut ni Pablo ti panagmaymaysa ti iglesia iti mismo a kababalin ti Dios ti Cristiano, ti Tallo a Persona ti Dios. Iti kinaagpaysoanna, ti Surat kadagiti taga Efeso ket napno kadagiti pakakitaan kadagiti nadumaduma a Persona ti Kinadios a mangipakaammo iti dakkel a sirmata ni Pablo iti amin a Tallo a Persona ti Kinadios nga agtartrabaho iti plano ti pannakaisalakan, iti panamarsua ken panangbangun iti iglesia.
+
+Kas latta idiay Efeso 1:1–14 ni Pablo iladawanna dagiti kamkameng ti Kinadios nga agtartrabaho nga agpaay iti pannakaisalakantayo, idiay Efeso 1:15–23 iladawan ni Pablo ti Ama ken ti Anak nga agtartrabaho iti panamarsua, panangbendicion, ken panangpapigsa iti iglesia. Gapu itoy, ipatingga ni Pablo daytoy a segkay babaen iti panangawagna iti iglesia a “bagi” ni Cristo ken “mangpunno” iti Ama (Efe. 1:23; kitaen pay ti Efe. 4:6). Idiay Efeso 2:19–22, amin dagiti kamkameng iti Kinadios ket nairaman iti panangaramid iti iglesia: ti iglesia ket isu ti “cabbalay” wenno ti “Templo a nasantoan” ti Ama a nabangun ken Cristo Jesus nga isu a dagiti kamkameng ti iglesia nga “isu a pacaicuyoganyo met a mabangbangon tapno pagbalayan ti Dios babaen ti Espiritu.” Idiay Efeso 3, kitaen ni Pablo ti iglesia a kas bunga ti parabur ti Ama (Efe. 3:2) kas naipakaammo “iti Espiritu” (Efe. 3:5) a kas “ti palimed ni Cristo” (Efe. 3:4) wenno “di matucod a kinabacnang ni Cristo” (Efe. 3:8) kadagiti “apostoles ken mammadto” (Efe.3:5). Kasta met, ti Ama (Efe. 3:14) papigsaenna ti iglesia “babaen ti Espirituna . . . tapno ni Cristo ket makapagtaeng kadagiti puspusoyo babaen ti pammati” (Efe. 3:16, 17) ken tapno ti iglesia ket “maawatanna” ti ayat ni Cristo (Efe. 3:18) ken “tapno mapnocayo iti isu-amin a pannacapunno ti Dios” (Efe. 3:19). Mainayon pay, ti iglesia ket naaramid ken napagmaymaysa babaen ti Dios agsipud ta ti Diosna ket isu ti Ama “ti amin a sangacabbalayan idiay langit ken ditoy daga” (Efe. 3:14, 15). Amin dagiti nabiag iti uniberso alaenda ti apilyedona agsipud ta pinarsuanatayo amin, ket Kenkuana ket maymaysatayo a pamilia. Iti sapasap a pamilia ti Dios, agkakabagyantayo, saan laeng a kadagiti dadduma a kamkameng ti iglesia iti amin a sangkataoan no di ket iti intero a tattao iti uniberso (kitaen pay ti Heb. 12:22, 23). Gapuna, kabayatan nga isentro ni Pablo iti pannakaisalakan ken iti iglesia ditoy daga, isu ket naannad a mangsalimetmet iti nailangian a panangkitana iti inyammona idi agsursurat maipapan dagiti nailangitan a yan idiay Efeso 1.
+
+Idiay Efeso 4, iyeg ni Pablo iti maysa a panagpatingga ti dakkel a pannakapasayaat ti doktrina ti iglesia a kas naparsua ken napagmaymaysa babaen, ken iti Kinadios. Ipakdaar ni Pablo a ti panagmaymaysa ti iglesia ket, iti kinapudnoanna, ti “panagmaymaysa ti Espiritu” (Efe. 4:3). Iti maysa a naindaniwan a buya, ti apostol ibagana kadagiti agbasbasa kenkuana a daytoy a panagmaymaysa ket nasken ti pannakainaigna kadagiti amin a Persona ti Kinadios. Datayo ket “maysa a bagi” agsipud ta adda “maysa nga Espiritu” nga isu a mangayab kadatayo “iti maysa nga inanama” (Efe. 4:4). Iti isu met laeng a wagas, iti “maysa nga Apo” tayo addaantayo iti “maysa a pammati, maysa a pammautizar” (Efe. 4:5). Panungpalanna, ti iglesia ket agmaymaysa agsipud ta addaantayo iti “maysa a Dios ken Ama dagiti isu-amin, isu a panguloen dagiti isu-amin, ken adda iti nagtengaan dagiti isu-amin, ken adda cadacay amin” (Efe. 4:6). Gapuna, ti iglesia ket adda agsipud ta ti Dios pinarsuanatayo ken inayabannatayo. Mainayon pay, ti iglesia ket adda a kas maysa a maymaysa a bagi agsipud ta ti Dios a namarsua ken nangayab kenkuana ket Maysa: Tallo a Persona, ngem maymaysa a Dios. Ti iglesia ket saan a maadda no awan ti Dios; ti iglesia ket saan a maadda no saan a “maysa”; ken ti iglesia ket saan nga agbalin a maymaysa no saan a nairamut iti sursuro a naibatay iti Biblia ti Maysa a Dios iti Tallo a Persona.
+
+**Dagiti Naespirituan a Sagsagut, Kaadda, Panagmaymaysa, ken Misyon ti Iglesia**
+
+Kalpasan a naibaskag ti nateolohiyaan a pamuon nga agpaay iti kaadda ken panagmaymaysa ti iglesia iti Tallo a Persona ti Dios, ni Pablo, idiay Efeso 4, ilawlawagna iti ad-adu pay a napraktikalan a wagas no kasano a ti iglesia ket isu ti bagi ni Cristo ken no kasano a ti Espiritu Santo ket agtrabaho iti panagmaymaysana. Iti panangaramid a kasta, ni Pablo agsubli kadagiti tema idiay Efeso 1: ti yuuli ni Cristo idiay trono ti Dios (Efe. 1:20), ti Pannakaitan-okna (Efe. 1:21, 22) iti kasasaad nga “Olo” ti iglesia, ti “Bagina” (Efe. 1:22, 23), ken ti pannakabendicion ti Iglesiana “cadagiti amin a kita ti naespirituan a bendicion a nailangitan” (Efe. 1:3). Dagitoy a bendicion ket bendicion ida ti parabur nga agpaay ti pannakaisalakan ken Cristo: “pannacasubbot gapu iti darana, ti pannacapacawan dagiti basbasol” (Efe. 1:7), pannakaipakaammo ti evangelio ni Cristo (Efe. 1:7–13), ken pammati (Efe. 1:13, 15).
+
+Idiay Efeso 4, ti apostol ket surotenna ti maysa nga umas-asping a pagwadan a mangilawlawag a ni Cristo immuli (Efe. 4:8) ken naitan-ok (Efe. 4:10). Kas “Olo” ti iglesia (Efe. 4:15)—dayta ket, ti Bagina (Efe. 4:16)—ni Cristo “iniccanna ti rangrangcap” dagiti tattaona (Efe. 4:8). Dagitoy a sagsagut ket nanaganan sagsagut ni Cristo ken naikadua pay iti “parabur”: “iti tunggal maysa cadatayo naiccan ti parabur, cas iti rucod ti sagut ni Cristo” (Efe. 4:7). Nupay kasta, dagitoy a sagsagut ket saanda a bendicion nga agpaay a mangisalakan kadagiti managbasol, a kas idiay Efeso 1, no di ket bendicion wenno sagsagut a mangpapigsa iti principio, panagmaymaysa, ken misyon ti iglesia. Inaganan ni Pablo dagitoy a sagsagut a kas “apostol . . . mammadto . . . evangelistas . . .
+
+paspastor ken mannursuro” (Efe. 4:11). Iti sabali, naganen ni Pablo dagitoy a sagsagut ti parabur (charismata; Rom. 12:6–8; 1 Cor. 12:4) wenno sagsagut ti Espiritu (pneumatikois; 1 Cor 12:1), inted ken inwaras ti Espiritu Santo (1 Cor. 12:4, 7–11) kadagiti kamkameng ti bagi ni Cristo (1 Cor. 12:12, 13).
+
+Gapuna, nupay aramaten ni Pablo iti umas-asping unay a pagwadan ti tema idiay Efeso 1 ken 4, tratarenna dagiti nadumaduma a paspaset ti iglesia. Kabayatan nga adda idiay Efeso 1 ti apostol saritaenna maipapan ti pannakaisalakan dagiti tattao, idiay Efeso 4 saritaenna ti kaadda, panagmaymaysa, ken misyon ti iglesia. Dayta ti gapuna no apay nga, idiay Efeso 4, ti nagungar ken immuli nga Apo Jesus (Efe. 4:8–10) ikkanna ti tunggal kamkameng ti iglesia “ti parabur cas iti rucod ti sagut ni Cristo” (Efe. 4:7). Ti “pannakaited” wenno ti “parabur” ket maysa nga aramiden ditoy (Efe. 4:11), ket saan a parabur ti pannakaisalakan wenno pannakapakawan. Dayta ket sagut a “maipaay iti pannacapaananay dagiti sasanto a maipaay iti aramid ti panagservi, a maipaay iti pannacabangon ti bagi ni Cristo” (Efe. 4:12).
+
+Wen, ti iglesia ket binukel dagiti tattao a naisalakan, ngem iti pannakaisalakanda ket isu laeng ti pangruggian ti biag a kayat ti Dios nga agpaay iti iglesiana. Ti Dios namarsua iti baro a tao, ti tattaona, ken daytoy a komonidad ket nabangun babaen ti Espiritu babaen ti “parabur” (charisma; Efe. 4:7). Babaen ti charismata wenno sagsagut, ti Espiritu agtrabaho idiay iglesia “agingga iti macagtengtay amin iti panagmaymaysa ti pammati ken ti pannacaammo iti Anac ti Dios” (Efe. 4:13). Wenno, iti sabali a pannao, agingga a mataengantayo amin iti “pannacapunno ni Cristo” (Efe. 4:13), nga isu ti Olo ti iglesia (Efe. 4:15).
+
+Adda adu a kangrunaan a pannakadagdagup ken ipakitana a mabalin a maalatayo manipud iti teolohiya ti iglesia idiay Efeso 4:
+
+Umuna, ti iglesia ket saan a maysa a nataoan nga organisasyon, nabangun ken tinarawidwidan dagiti tattao ken agpaay iti nataoan a panggep. No di ket, ti iglesia ket naparsua, natarawidwidan, ken naibagnos iti misyonna babaen ti Dios a Mismo.
+
+Maikadua, iti panangipaduyakyak ti ladawan ti Tallo a Persona ti Diosna, ti iglesia ket, ken masapul nga, agmaymaysa. Iti nangato-a-kinapadina a kararag, ni Jesus nagpakaasi iti Ama a ti iglesia “tapno isuda amin agmaymaysada coma: a cas met sica . . . tapno addada met coma cadata; tapno ti lubong patienna coma a sica imbaonnac” (Juan 17:21).
+
+Maikatlo, daytoy a panagmaymaysa ket saan a bunga ti nataoan a pagayatan wenno kinalaing, no di ket trabaho ti Ama, ni Cristo Jesus, ken ti Espiritu Santo nga agtartrabaho iti uneg ken babaen, ti iglesia.
+
+Maikapat, ti Tallo a Persona ti Dios ket trabahoenna ti panagmaymaysa ken idadakkel ti iglesia babaen dagiti naespirituan a sagsagut. Gapuna, dagiti naespirituan a sagsagut ket saanda a maysa a pagpilian a programa ti iglesia a maaramat koma no makita a kasapulan dagiti kamkameng ti iglesia. No di ket, dagiti naespirituan a sagsagut ket isuda dagiti wagas a buklen, tarawidwidan, ken ibagnos ti Dios ti iglesia. Napateg a paliiwen a no saritaen maipapan iti kababagas ken ti panagmaymaysa ti iglesia, ni Pablo ket saanna nga ibagbaga ti maysa a panagsasaganad ti agturay ken nasakramentoan a panangituray ti iglesia. No di ket, kabayatan a parparang-ayan ti maysa a naimbag nga organisasyon ti iglesia, ti apostol kitaenna ti paggapuan ti kaadda, panagmaymaysa, ken misyon ti iglesia a kas nairamut iti Tallo a Persona ti Dios, nga isu ti Olo ti iglesia ken dagiti naespirituan a sagsagut nga intedna a mangipaduyakyak iti kaaddana ken trabaho idiay iglesia.
+
+Maikalima, nakapatpateg unay nga agpaay iti teolohiya a naibatay ti Biblia dagiti topiko ti Kinadios ken dagiti naespirituan a sagsagut a ti Adventista Del Septimo Dia ket kitaenda dagiti nakaad-adu a sasao a patpatien. Ti Kinadios ket nasao kadagiti lima a kangrunaan a patpatien: 2 (nga isu a saritaenna ti sursuro ti Tallo a Persona ti Dios idiay Biblia), 3 (“ti Dios Ama”), 4 (“ti Dios Anak”), 5 (“ti Dios Espiritu Santo”), ken 10 (“Ti Kapadasan ti Pannakaisalakan,” nga isu a mangsarita ti ipakpakita ti amin a Tallo a Persona ti Kinadios iti pannakaisalakan ti tao). Ti doktrina ti iglesia ket nabaknang unay iti pannakaibagana kadagiti pito a kangrunaan a patpatien: 12 (“Ti Iglesia”), 13 (“Ti Natda ken ti Misyonna”), 14 (“Panagmaymaysa iti Bagi ni Cristo”), 15 (“Pannakabautizar”), 16 (“Ti Santa Sena”), 17 (“Dagiti Naespirituan a Sagsagut ken Panagministro”), ken 18 (“Ti Sagut ti Padto”).
+
+### Paset III: Aplikasion iti Biag
+
+1\. Maysa kadagiti nakalkaldaang a paspasamak iti pakasaritaan ti aniaman nga iglesia ket ti panaglalasinna ken pannakasinasina. Iti naibatay iti adal ti klase idiay Efeso 4:1–16, ibagnosmo dagiti estudyantem iti panangaramid iti tallo-a-ponto nga estratehiya tapno masalimetmetan ti lokal wenno ti iglesia ti rehiyon nga agmaymaysa ken dumakdakkel.
+
+2\. Ania, iti panagawat dagiti estudyantem, ti panagnaig ti pannakakonvertir ti maysa, pannakaikamkameng iti iglesia a kas bagi ni Cristo, ken dagiti naespirituan a sagsagut?
+
+3\. Idalanmo ti klasem iti maysa a panagiinnadal kadagiti sumaganad a salsaludsod: Kaano iti naudi a pinanunotmo ta bagbagim, ti pamiliam, ti bunggoy dagiti gagayyemmo, wenno iti iglesiam iti benneg dagiti naespirituan a sagsagut? Itan damagem dagiti estudyantem no kasano iti panangpanunotda iti bunggoy ti Eskuela Sabatinada wenno ti iglesia a mabalin a makatulong iti nasaysayaat a panangparang-ay iti kapanunotan a dagiti naespirituan a sagsagut ket trabaho ti Espiritu Santo iti iglesia. Damagen kadagiti kamkameng ti klase a mangipakita iti tallo a wagas a ti proseso ti panagbobotos ti iglesia wenno mangipangpangulo iti iglesia ket mabalinda a parang-ayen dagiti naespirituan a sagsagut a mangidur-as ti idadakkel, panagmaymaysa, ken misyon ti iglesia.
+
+4\. Nalabit a mabalin a narigat ti mangtakuat iti maysa a rimienta a mangrukod iti kinapakumbaba, kinaemma, ken kinaanus. Nupay kasta, no iti kasta a pagrukod nga alikamen ket adda koma, ania a tukad dagitoy a pateg ken kababalin ti panangipagarup dagiti estudyantem nga iparangarang iti kasta nga alikamen iti bukodda a biag, iti biag dagiti gagayyemda, wenno iti biag ti iglesiada. Dawaten dagiti kamkameng ti klase a mangpanunot iti tallo a wagas a mangparang-ay iti pudno a naibatay iti Biblia a pateg ti kinapakumbaba ken kinaanus iti bukodda a biag ken iti biag ti iglesiayo a mabalin a makatulong a mangidalan iti dakdakkel a panagmaymaysa.
+
+` `

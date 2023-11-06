@@ -1,0 +1,20 @@
+---
+  video:
+    - artist: В контексті
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-03.mp4
+          target: uk/2023-04/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-04.mp4
+          target: uk/2023-04/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-05.mp4
+          target: uk/2023-04/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-06.mp4
+          target: uk/2023-04/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-06.webp

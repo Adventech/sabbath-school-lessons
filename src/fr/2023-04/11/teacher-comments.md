@@ -1,0 +1,52 @@
+---
+title:  Approfondissement
+date:   15/12/2023
+---
+
+### Ire partie: Aperçu
+
+Bien que l’Évangile selon Matthieu ait été écrit spécifiquement pour un public juif, la présence de Gentils près de Jésus est un thème récurrent dans son récit, parfois en contraste avec la dévotion des Israélites. Par exemple, alors que les mages (astrologues perses) firent un long chemin pour honorer le vrai roi d’Israël, les principaux sacrificateurs et les scribes (les sages d’Hérode) ne firent aucun effort pour le faire. La foi d’un centurion romain est louée par Jésus comme étant plus grande que celle des Israélites (Matthieu 8:10).
+
+L’équipe de Gentils, qui avait exécutée Jésus était la première à confesser Sa filiation divine après la crucifixion (Matthieu 27:54). De cette manière distinctive, Matthieu souligne trois choses:
+
+(1) le plan de rédemption de Dieu a toujours inclus toutes les nations de la terre;
+
+(2) Les Gentils ne sont pas insensibles à l’œuvre du Saint-Esprit; et
+
+(3) la mise de côté des préjugés ethniques, culturels et religieux pour aimer et servir les autres, comme l’avait fait Christ, est une condition préalable à un ministère interculturel efficace. Ainsi, en plus d’être un appel à la mission mondiale, l’Évangile de Matthieu est aussi un message de réconciliation ethnique en Christ.
+
+Les autres auteurs des Évangiles soulignent également les interactions notables de Jésus avec les Gentils: Il avait étendu Sa mission à la région païenne des Gadaréniens (Marc 5:1), Il avait guéri le serviteur d’un centenier romain (Luc 7:1-10) et Il avait exercé Son ministère dans une ville samaritaine (Jean 4).
+
+Les interactions de Jésus avec les étrangers révèlent que le Royaume de Dieu est pour toutes les nations, Juifs et Gentils. Jésus avait démontré de manière pratique que Dieu s’est toujours préoccupé du fait d’étendre Son amour et Son pardon à toutes les nations.
+
+### IIe partie: Commentaire
+
+**L’implication missionnaire de Dieu chez les nations à l’époque de l’Ancien Testament**
+
+Dieu a toujours désiré une relation d’alliance avec toutes les sociétés humaines. Il Se préoccupait non seulement de sauver les Israélites, mais, par Abraham, Dieu voulait aussi que Sa grâce rédemptrice soit étendue à toutes les nations (Genèse 12:1-3). L’appel d’Abraham à être une bénédiction pour toutes les nations indique singulièrement que l’inclusion de ces nations dans le plan de rédemption de Dieu n’était pas une réflexion après coup. En d’autres termes, le désir de Dieu que les Gentils (les nations du monde) fassent l’expérience de Son salut n’était pas un plan B.
+
+Des siècles plus tard, après l’appel d’Abraham, Dieu étendit le même appel aux descendants biologiques d’Abraham (Israël) à être un royaume de sacrificateurs pour toutes les nations (Exode 19:6). À de nombreuses reprises, Dieu avait rappelé à Israël qu’ils avaient été choisis non pas parce qu’ils étaient les meilleurs parmi les nations (par exemple, Deutéronome 7), mais parce que Dieu les aimait. Israël avait été choisi pour être le canal par lequel d’autres nations connaitraient et adoreraient Dieu. Israël devait être une lumière pour le reste des nations. Dans Jérémie 2:3, Israël est mentionné comme étant les prémices de la moisson de Dieu, ce qui signifie qu’en dehors d’Israël, il y a une plus grande récolte.
+
+Dès le moment où Dieu a appelé Abraham à être Son porte-étendard, Son plan était d’apporter le salut aux Juifs et aux Gentils. Israël, en tant que nation, n’avait donc pas été choisi par Dieu à l’exclusion de toutes les autres nations. Le récit de l’Ancien Testament est ponctué d’histoires de Gentils qui avaient embrassé le Dieu d’Israël comme leur Dieu. Les exemples incluent Rahab, Ruth, Urie le Hittite et la reine de Saba.
+
+Bien que Dieu ait choisi Israël comme nation pour être Son représentant, Il n’avait pas laissé la médiation de Son plan de rédemption à eux seuls. De bien d’autres façons, Dieu s’était révélé sans relâche aux peuples d’autres nations. Ellen G. White fait l’observation importante suivante: « Des maitres inspirés, avides de vérité, quoique n’appartenant pas à la nation juive, avaient annoncé l’apparition d’un instructeur divin. Ils s’étaient levés, l’un après l’autre, comme des étoiles dans un ciel obscur et leurs paroles prophétiques avaient allumé l’espérance dans le cœur de milliers de païens. » Jésus-Christ, p. 25.
+
+Melchisédek, un sacrificateur et roi cananéen, est l’un de ces non-Israélites à qui Dieu avait tendu la main sans l’intermédiaire d’autres humains. Melchisédek était un sacrificateur du Dieu Très-Haut (El Elyon). Le récit de la rencontre de Melchisédek avec Abraham dans Genèse 14:14-24 est très instructif. Abraham identifia son Dieu, Yahweh, à El Elyon de trois manières. Tout d’abord, il joignit les deux noms divins – Yahweh et El Elyon – dans un geste qui suggère qu’ils désignent le même Dieu (Genèse 14:22). Deuxièmement, Abraham donna la description d’El Elyon donné par Melchisédek à Yahweh: maitre du ciel et de la terre (Genèse 14:22). Troisièmement, l’acceptation par Abraham des bénédictions de Melchisédek et son don de sa dime au sacrificateur cananéen suggèrent qu’Abraham avait légitimé le sacerdoce de Melchisédek (Genèse 14:19, 20). Dieu avait choisi Melchisédek « pour être Son représentant parmi le peuple de cette époque, bien qu’il appartienne à la communauté cananéenne ». (Jacques B. Doukhan, Genesis, Seventh-day Adventist International Bible Commentary, 2016, page 214.)
+
+Il est important de noter que l’ouverture missionnaire incessante de Dieu à Ses créatures de diverses manières ne rend pas l’implication des croyants dans la mission hors de propos. Matthieu 28:18-20 et 1 Pierre 2:9 soulignent que le fait de faire des disciples pour Christ est notre raison fondamentale d’exister à la fois en tant qu’église et en tant que croyants individuels. C’est un privilège pour nous d’être des collaborateurs de Dieu dans ce qu’Il pourrait parfaitement accomplir sans notre participation. De plus, le fait de savoir que Dieu va devant nous, préparant le terrain pour la propagation de l’évangile, est une autre incitation à accepter le privilège qu’Il nous accorde gracieusement de faire partie de Son équipe.
+
+**L’implication missionnaire de Dieu chez les nations dans le Nouveau Testament**
+
+Comme indiqué ci-dessus, bien que la majeure partie du ministère public de Jésus ait été menée en territoire juif, le nombre de Ses rencontres personnelles avec les Gentils, rapporté dans les Évangiles est remarquable. Jésus va jusqu’à déclarer qu’Il a d’autres brebis en dehors de la communauté juive (Jean 10:16). Grâce à la vie et au ministère de Jésus, et au mandat à Ses disciples de faire de toutes les nations des disciples (Matthieu 28:18-20, Actes 1:8), les premiers chrétiens avaient progressivement compris que la promesse d’alliance de Dieu d’accueillir non seulement les descendants d’Abraham, mais aussi les personnes venant de toutes les autres nations comme Ses héritiers, serait mise en œuvre par le témoignage de l’église. Par la conversion de la maison de Corneille (Actes 10), une nouvelle dynamique fit irruption dans la vie de la communauté chrétienne naissante. Cet évènement et la longue délibération qui s’ensuit sur la signification de cette nouvelle chose que Dieu faisait (Actes 15), avaient convaincu l’église primitive que l’admission des Gentils dans la communauté des croyants, en tant que bénéficiaires à part entière de l’œuvre rédemptrice de Dieu en Christ, a été ordonnée par Dieu. En tant que tels, ils ne pouvaient rien faire pour invalider ce décret divin. Au contraire, il était alors de leur responsabilité de ne négliger personne dans le partage de l’évangile.
+
+En tant que peuple inclusif de Dieu, appelé de chaque nation à constituer une seule entité spirituelle (1 Pier. 2:9), l’église a été appelée, par le biais du Saint-Esprit, et chargée d’accomplir la tâche missionnaire d’être la lumière des nations, qu’Israël en tant que nation n’avait pas réussi à devenir. 1 Pierre 2:9 indique donc clairement que toute la communauté chrétienne est la possession particulière de Dieu venant de tous les peuples de la terre. Ce verset combine l’affirmation de l’identité des croyants en tant qu’élus de Dieu et peuple de la sainte alliance avec leur responsabilité de proclamer les œuvres merveilleuses de Dieu à tous ceux qui n’ont pas encore donné leur vie à la seigneurie de Jésus-Christ.
+
+Convaincu de son apostolat auprès des Gentils (Rom. 11:13, Rom. 15:16, Gal. 2:7) et stimulé par les délibérations du Concile de Jérusalem (Actes 15), Paul consacra la majeure partie de son ministère aux Gentils. Son engagement indéfectible dans cette mission avait propulsé l’évangile au-delà des frontières de la nation. En envoyant Paul vers les Gentils non atteints, le but de Dieu était de montrer que Son offre de salut est destinée à tous les peuples.
+
+### IIIe partie: Application
+
+Connaissant l’intention de Dieu que chaque groupe de peuple fasse l’expérience de Son salut, nous sommes appelés à assumer Sa mission. Tout comme Israël, en tant que nation, avait été mandaté d’être une lumière pour les Gentils, nous, en tant que chrétiens – ou Israël spirituel – sommes également mandatés d’être les ambassadeurs de Dieu auprès de ceux qui n’ont pas encore accepté Jésus comme Seigneur et Sauveur (Matthieu 28:18-20, 2 Corinthiens 5:20). De toute évidence, les disciples de Christ ont une obligation envers ceux qui n’ont pas encore entendu la bonne nouvelle. La bonne nouvelle est que nous n’avons nécessairement pas besoin d’aller au bout du monde pour trouver les gens.
+
+Il existe, dans tous les contextes de la vie, des personnes n’ayant pas encore répondu à l’évangile. Il peut s’agir de nos voisins, de nos collègues, de nos camarades de classe, de nos clients, de nos patients ou de nos étudiants. Nous pouvons les rencontrer en tant qu’immigrants, réfugiés, étudiants internationaux, diplomates ou hommes d’affaires internationaux. Quel que soit le contexte social, culturel et religieux des personnes non atteintes que nous rencontrons et à qui nous témoignons, nous devons reconnaitre que nous ne pouvons pas témoigner efficacement à un groupe de personnes sans d’abord nous libérer des stéréotypes, des préjugés et de la discrimination à leur égard. Nous devons donc prier pour que Dieu nous libère de tels préjugés.
+
+` `

@@ -26,6 +26,10 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-11.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-12.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-13.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-14.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2023-03-14.webp
     - artist: Александр Болотников
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-01.mp4
@@ -48,7 +52,11 @@
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-09.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-10.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-10.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-11.mp4
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-11-upd2.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-11-upd2.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-12.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-13.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-14.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2023-03-14.webp

@@ -1,0 +1,162 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-Intro.pdf'
+      target: en/2023-04-pp/introduction
+      title: Introduction
+      start_date: 30/09/2023
+      end_date: 30/09/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L01.pdf'
+      target: en/2023-04-pp/01
+      title: The Wisest Man on Earth
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L02.pdf'
+      target: en/2023-04-pp/02
+      title: Words Fit For a King
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L03.pdf'
+      target: en/2023-04-pp/03
+      title: Wisdom Rules
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L04.pdf'
+      target: en/2023-04-pp/04
+      title: Prayer Warrior
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L05.pdf'
+      target: en/2023-04-pp/05
+      title: It's a Match!
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L06.pdf'
+      target: en/2023-04-pp/06
+      title: Eat, Drink, and Be Healthy
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L07.pdf'
+      target: en/2023-04-pp/07
+      title: Facing the Fire
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L08.pdf'
+      target: en/2023-04-pp/08
+      title: King on His Knees
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L09.pdf'
+      target: en/2023-04-pp/09
+      title: Lion Lunch
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L10.pdf'
+      target: en/2023-04-pp/10
+      title: Wars and Wars and More of the Same
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L11.pdf'
+      target: en/2023-04-pp/11
+      title: Moving Into Our Neighborhood
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L12.pdf'
+      target: en/2023-04-pp/12
+      title: God in the Center
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-L13.pdf'
+      target: en/2023-04-pp/13
+      title: Part of the Plan
+      start_date: 23/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-Activities.pdf'
+      target: en/2023-04-pp/activities
+      title: Activities
+      start_date: 29/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-MemoryVerses.pdf'
+      target: en/2023-04-pp/memory-verses
+      title: Memory Verses
+      start_date: 29/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Student/PP-23-Q4-Parents.pdf'
+      target: en/2023-04-pp/parents
+      title: Parents
+      start_date: 29/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-Intro-T.pdf'
+      target: en/2023-04-pp/introduction
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 30/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L01-T.pdf'
+      target: en/2023-04-pp/01
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L02-T.pdf'
+      target: en/2023-04-pp/02
+      title: Teacher
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L03-T.pdf'
+      target: en/2023-04-pp/03
+      title: Teacher
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L04-T.pdf'
+      target: en/2023-04-pp/04
+      title: Teacher
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L05-T.pdf'
+      target: en/2023-04-pp/05
+      title: Teacher
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L06-T.pdf'
+      target: en/2023-04-pp/06
+      title: Teacher
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L07-T.pdf'
+      target: en/2023-04-pp/07
+      title: Teacher
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L08-T.pdf'
+      target: en/2023-04-pp/08
+      title: Teacher
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L09-T.pdf'
+      target: en/2023-04-pp/09
+      title: Teacher
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L10-T.pdf'
+      target: en/2023-04-pp/10
+      title: Teacher
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L11-T.pdf'
+      target: en/2023-04-pp/11
+      title: Teacher
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L12-T.pdf'
+      target: en/2023-04-pp/12
+      title: Teacher
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-L13-T.pdf'
+      target: en/2023-04-pp/13
+      title: Teacher
+      start_date: 23/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q4/English/Teacher/PP-23-Q4-Activities-T.pdf'
+      target: en/2023-04-pp/activities
+      title: Teacher
+      start_date: 29/12/2023
+      end_date: 29/12/2023
