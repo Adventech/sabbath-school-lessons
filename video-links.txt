@@ -1,3 +1,19 @@
-yt-dlp "https://www.youtube.com/watch?v=YJKMJvBM-9U" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/hopess/en-hopess-2023-04-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=qffwuNTX_YY" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ro/ro-2023-04-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=9XPvAuADmEc" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "inv/en-2023-04-inv-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=3kAE8LRbVoI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/em/fr-em-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=7EyfMIjwPl4" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "in/hope/in-hope-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=udT9Mrfnq4c" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "tl/hope/tl-hope-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=1FxetsLim2Y" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/bol/en-bol-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=JjGrYZiAOb4" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ta/ta-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=vmULt0H34j0" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/af/de-af-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=jngq9ic0UfA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-2023-04-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=d9n6PWXFTWg" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ru/bol/ru-bol-2023-04-06.mp4"
+
+yt-dlp "https://vimeo.com/880676333" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2023-04-07.mp4"
