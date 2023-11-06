@@ -1,6 +1,5 @@
 name: download-video
 on:
-  workflow_dispatch:
   push:
     branches:
       - stage
