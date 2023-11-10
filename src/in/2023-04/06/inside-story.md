@@ -9,13 +9,13 @@ _Theophane, dari Guinea_
 
 Ayah kesal saat Theophane bergabung dengan Gereja Masehi Advent Hari Ketujuh di negara Guinea, Afrika Barat. Ayah seorang pemimpin dalam denominasi Kristen lain, dan dia merasa malu bahwa anaknya, seorang siswa sekolah menengah, telah memilih keyakinan yang berbeda.
 
-"Kamu punya waktu seminggu untuk berubah pikiran," dia katakan. “Jika kau tidak pergi ke gereja pada hari Minggu, lebih baik kita berpisah.”
+“Kamu punya waktu seminggu untuk berubah pikiran,” dia katakan. “Jika kau tidak pergi ke gereja pada hari Minggu, lebih baik kita berpisah.”
 
 Theophane merasa sedih. Dia sangat mencintai ayahnya. Tetapi dia juga pernah mengalami kuasa Yesus setelah paman mengundang dia ke gereja Advent. Dia menderita serangan Iblis yang hanya berhenti ketika orang Advent berdoa untuknya. Kemudian, dalam membaca Alkitab, dia telah mempelajarinya. Orang Kristen harus beribadah pada Sabat hari ketujuh, bukan pada hari Minggu, hari pertama. Theophane tidak ingin kembali ke kehidupan lamanya. Jika dia tidak bisa tinggal di rumah, dia akan pergi. Dia pindah dengan seorang teman yang tinggal di lingkungan itu.
 
 Kakek Theophane memutuskan untuk campur tangan. Sebagai orang tertua dalam keluarga, dia sangat dihormati. Theophane telah dinamai menurut namanya.
 
-“Kamu bingung,” kata Kakek. "Saya akan mengatur pertemuan dengan seorang pendeta. Dia akan membantumu memahami kebenaran.”
+“Kamu bingung,” kata Kakek. “Saya akan mengatur pertemuan dengan seorang pendeta. Dia akan membantumu memahami kebenaran.”
 
 Kakek dan ayah membawa Theophane ke rumah seorang pendeta. Dia bukan sembarang pendeta. Dia adalah seorang teolog terkemuka, dan dia mengajar agama di universitas.
 
@@ -31,15 +31,15 @@ Pendeta membela gambar ukiran di gereja. Dia mengatakan orang Israel diselamatka
 
 Theophane pindah ke perintah keempat yang mengatakan, “Ingat dan kuduskanlah hari Sabat” (Keluaran 20:8). Pendeta membalas bahwa hukum itu telah berubah. Theophane menanggapi dengan kata-kata Yesus, “Janganlah kamu menyangka, bahwa Aku datang untuk meniadakan hukum Taurat atau kitab para nabi. Aku datang bukan untuk meniadakannya, melainkan untuk menggenapinya” (Matius 5:17).
 
-Kemudian pendeta itu menuduh Theophane tidak mematuhi perintah kelima. "Apakah kamu mencintai ayahmu?” dia berkata. Kamu tidak melakukan apa yang dia katakan padamu. Tuhan berkata, "Hormatilah ayah dan ibumu.”
+Kemudian pendeta itu menuduh Theophane tidak mematuhi perintah kelima. “Apakah kamu mencintai ayahmu?” dia berkata. Kamu tidak melakukan apa yang dia katakan padamu. Tuhan berkata, “Hormatilah ayah dan ibumu.”
 
-Theophane menjawab, “Tetapi Yesus berkata, 'Barangsiapa mengasihi bapa atau ibunya lebih dari pada-Ku, ia tidak layak bagi-Ku’” (Matius 10:37).
+Theophane menjawab, “Tetapi Yesus berkata, ‘Barangsiapa mengasihi bapa atau ibunya lebih dari pada-Ku, ia tidak layak bagi-Ku’ ” (Matius 10:37).
 
-Pendeta itu menatap ayah. "Anakmu ini keterlaluan,” katanya. “Jangan pernah biarkan dia tinggal di rumah karena dia akan mencemari orang lain."
+Pendeta itu menatap ayah. “Anakmu ini keterlaluan,” katanya. “Jangan pernah biarkan dia tinggal di rumah karena dia akan mencemari orang lain.”
 
 Meninggalkan rumah pendeta, ayah sangat marah. Dia mengancam akan membakar akte kelahiran Theophane dan memutuskan semua hubungan dengan dia. Dia mengutuk paman yang telah mengundang Theophane ke gereja Advent.
 
-Theophane membela pamannya. "Dia tidak pernah mengajari saya hal buruk,” katanya. "Dia hanya menunjukkan jalan kepada saya.”
+Theophane membela pamannya. “Dia tidak pernah mengajari saya hal buruk,” katanya. “Dia hanya menunjukkan jalan kepada saya.”
 
 Ayah mengeluh langsung ke paman, dan paman mengingatkannya tentang serangan setan. “Theophane sangat kesulitan,” katanya. “Kamu membawanya ke banyak dokter dan memberinya obat. Kamu melakukan yang terbaik, tetapi tidak ada yang membantu. Anak laki-laki itu tidak mengikuti aku. Dia mengikuti Firman Tuhan.”
 
