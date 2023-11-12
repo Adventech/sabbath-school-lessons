@@ -57,3 +57,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-04-05.mp4
           target: es/2023-04/05
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-04-07.mp4
+          target: es/2023-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2023-04-07.webp
