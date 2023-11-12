@@ -16,6 +16,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2023-04-06.mp4
           target: ko/2023-04/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2023-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2023-04-07.mp4
+          target: ko/2023-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2023-04-07.webp
     - artist: 류대균의 교과방송
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2023-04-01.mp4
@@ -32,3 +35,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2023-04-06.mp4
           target: ko/2023-04/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2023-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2023-04-07.mp4
+          target: ko/2023-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2023-04-07.webp
