@@ -84,3 +84,5 @@
           target: in/2023-04/06/06
         - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231111_7.mp3
           target: in/2023-04/07/01
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231112_1.mp3
+          target: in/2023-04/07/02
