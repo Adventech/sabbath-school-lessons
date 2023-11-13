@@ -1,9 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=BIXawZpus6k" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ru/bol/ru-bol-2023-04-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=ECZMqa_YBN0" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/af/de-af-2023-04-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=VZ2Kjk2tlok" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/hope/fr-hope-2023-04-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=MFyvFS0XS7Y" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/bul/es-2023-04-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=dI0tpc5e1cU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "zh/hopetv/zh-hopetv-2023-04-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=1NyS2DhoWio" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ta/ta-2023-04-07.mp4"
-
-yt-dlp "https://vimeo.com/882159866" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2023-04-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=W0mlHhu33V8" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/bol/en-bol-2023-04-07.mp4"
