@@ -42,7 +42,7 @@ Below is current list of languages available in the app
 - 🇦🇲 Armenian
 - 🇮🇩 Batak Toba
 - 🇧🇬 Bulgarian
-- 🇪🇸 Catalan
+- 🇦🇩 Catalan
 - 🇵🇭 Cebuano
 - 🇨🇳 Chinese
 - 🇭🇷 Croatian
