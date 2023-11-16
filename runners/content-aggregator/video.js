@@ -424,18 +424,6 @@ let portugueseVideo = async function () {
 
     await weeklyVideo(
         "pt",
-        "Pr Samuel Ramos",
-        {
-            artist: "Pr Samuel Ramos",
-            clips: []
-        },
-        function (targetDate, targetQuarter, year, week) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/pt/ram/pt-ram-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        }
-    )
-
-    await weeklyVideo(
-        "pt",
         "Adventistas Lago Sul",
         {
             artist: "Adventistas Lago Sul",

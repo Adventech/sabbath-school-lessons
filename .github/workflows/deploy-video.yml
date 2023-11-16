@@ -1,5 +1,6 @@
 name: deploy-video
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
