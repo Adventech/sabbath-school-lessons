@@ -621,9 +621,9 @@ let italianVideo = async function () {
 let hungarianVideo = async function () {
     await weeklyVideo(
         "hu",
-        "Felnőtt szombatiskola",
+        "Bibliatanulmányok minden napra",
         {
-            artist: "Felnőtt szombatiskola",
+            artist: "Bibliatanulmányok minden napra",
             thumbnail: "https://egw.hu/ssq/bibliatanulmany.jpg",
             clips: []
         },
