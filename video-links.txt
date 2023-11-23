@@ -1,3 +1,5 @@
 yt-dlp "https://www.youtube.com/watch?v=uCYn8bmiddw" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ilo/ilo-2023-04-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=yLQSfu6RW2U" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ro/ro-2023-04-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=wy3Fb6WLqoM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ml/ml-2023-04-08.mp4"
