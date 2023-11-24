@@ -9,9 +9,9 @@ _Nusrat, dari Ghana_
 
 Nusrat yang berusia sepuluh tahun tidak bisa mengerti mengapa seorang wanita dengan diabetes datang secara teratur ke rumah itu untuk membalut luka.
 
-“Apakah kamu menyukai wanita itu sehingga kamu selalu membantunya dan membalut lukanya?" tanyanya pada nenek.
+“Apakah kamu menyukai wanita itu sehingga kamu selalu membantunya dan membalut lukanya?” tanyanya pada nenek.
 
-“Ini adalah tanggung jawab saya sebagai perawat,” jawab nenek. "Inilah yang saya lakukan."
+“Ini adalah tanggung jawab saya sebagai perawat,” jawab nenek. “Inilah yang saya lakukan.”
 
 Nusrat menyukai pekerjaan nenek. Dia ingin seperti nenek dan juga membantu orang-orang. Dia mulai bermimpi untuk menjadi seorang perawat di tanah kelahirannya di Ghana.
 
@@ -29,17 +29,17 @@ Nusrat tertarik, tetapi dia juga khawatir. Dia, pamannya, dan keluarga mereka ya
 
 Paman Nurideen menjawab sekolah Advent itu tidak seperti sekolah Kristen lainnya. “Saya merasa benar-benar bebas untuk beribadah di Valley View University,” katanya. “Tidak ada diskriminasi.”
 
-Dia mengakui bahwa dia merasa sedikit asing saat pertama kali dia masuk gereja Advent. “Tetapi mereka memberitahukan kepada saya untuk mengingat bahwa saya berada di hadirat Tuhan, bukan di gereja,” katanya. “Itu sangat membantu. Mereka membuat saya mengerti bahwa datang untuk berbakti itu berbeda, saya berada di hadirat Tuhan."
+Dia mengakui bahwa dia merasa sedikit asing saat pertama kali dia masuk gereja Advent. “Tetapi mereka memberitahukan kepada saya untuk mengingat bahwa saya berada di hadirat Tuhan, bukan di gereja,” katanya. “Itu sangat membantu. Mereka membuat saya mengerti bahwa datang untuk berbakti itu berbeda, saya berada di hadirat Tuhan.”
 
 Paman Nurideen bilang dia pergi ke setiap program gereja di universitas, tetapi tidak ada yang menghalanginya untuk berdoa sesuai dengan keyakinannya.
 
-Nusrat didorong oleh pamannya. “Akan menyenangkan untuk pergi ke sekolah di mana engkau diizinkan untuk beribadah seperti yang kau harapkan dan merasa diterima, ”katanya. "Itu akan menjadi tempat yang terbaik.”
+Nusrat didorong oleh pamannya. “Akan menyenangkan untuk pergi ke sekolah di mana engkau diizinkan untuk beribadah seperti yang kau harapkan dan merasa diterima,” katanya. “Itu akan menjadi tempat yang terbaik.”
 
 Valley View University jauh sekali, dan Nusrat mencari sekolah Advent yang lebih dekat ke rumahnya. Dia menemukan Perguruan Tinggi Advent Keperawatan dan Kebidanan.
 
 Hari ini, Nusrat menyelesaikan tahun pertamanya. “Kami belajar nyanyian pujian bersama di Sekolah Sabat, dan kami pergi ke gereja bersama,” katanya. “Saya datang untuk menikmati ibadah hari Sabat.”
 
-Belum lama ini, dia memberi tahu Paman Nurideen kesannya tentang pendidikan Advent adalah benar. "Apa yang kamu katakan padaku itu benar," katanya. “Tidak ada diskriminasi.”
+Belum lama ini, dia memberi tahu Paman Nurideen kesannya tentang pendidikan Advent adalah benar. “Apa yang kamu katakan padaku itu benar,” katanya. “Tidak ada diskriminasi.”
 
 Paman Nurideen senang mendengar laporannya. “Aku tahu kamu akan merasa nyaman di sana,” katanya.
 
