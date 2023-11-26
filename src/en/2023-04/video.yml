@@ -24,6 +24,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-08.mp4
           target: en/2023-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-09.mp4
+          target: en/2023-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-09.webp
     - artist: Hope Lives 365
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-01.mp4
@@ -89,6 +92,8 @@
           target: en/2023-04/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-06.mp4
           target: en/2023-04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-09.mp4
+          target: en/2023-04/09
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-01.mp4
