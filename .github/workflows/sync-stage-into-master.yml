@@ -16,7 +16,7 @@ jobs:
           github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
       - uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: '16'
           check-latest: true
       - run: npm install
       - run: node verify.js

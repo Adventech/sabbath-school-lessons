@@ -106,3 +106,11 @@
           target: in/2023-04/08/04
         - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231122_4.mp3
           target: in/2023-04/08/05
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231123_5.mp3
+          target: in/2023-04/08/06
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231124_6.mp3
+          target: in/2023-04/08/07
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231125_7.mp3
+          target: in/2023-04/09/01
+        - src: https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_20231126_1.mp3
+          target: in/2023-04/09/02
