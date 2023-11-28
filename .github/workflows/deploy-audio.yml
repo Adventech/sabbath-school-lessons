@@ -23,11 +23,8 @@ jobs:
       - run: tar xvf deploy-creds.tar
       - uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: '16'
           check-latest: true
-      - run: curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip
-      - run: unzip awscli-bundle.zip
-      - run: ./awscli-bundle/install -b ~/bin/aws
       - run: npm install
       - run: mkdir audio
       - name: Sync from cloud

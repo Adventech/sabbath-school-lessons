@@ -21,12 +21,17 @@ jobs:
       - name: Create work dir folder
         run: mkdir ss-audio
       - name: Run download audio script
-        run: node ../runners/content-downloader/download-audio.js
-        working-directory: ss-audio
+        run: node runners/content-downloader/download-audio.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
       - name: Download audio
         shell: bash
         working-directory: ss-audio
-        run: bash audio-commands.txt
+        run: cat audio-commands.txt && bash audio-commands.txt
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_EC2_METADATA_DISABLED: true
       - name: Clean the audio commands
         run: rm audio-commands.txt
         working-directory: ss-audio
@@ -49,7 +54,7 @@ jobs:
         github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
     - uses: actions/setup-node@v2
       with:
-        node-version: '12'
+        node-version: '16'
         check-latest: true
     - run: npm install
     - name: Aggregate audio

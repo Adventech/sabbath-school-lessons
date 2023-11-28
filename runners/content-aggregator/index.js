@@ -115,7 +115,9 @@ let indonesiaAudio = async function () {
         function (targetDate, week, day) {
             let mapping = [7, 1, 2, 3, 4, 5, 6]
             return `https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_${targetDate.format("YYYYMMDD")}_${mapping[day-1]}.mp3`
-        }
+        },
+        2,
+        7
     )
 }
 
@@ -129,7 +131,9 @@ let hungarianAudio = async function () {
         },
         function (targetDate, week, day) {
             return `https://bibliatanulmanyok.hu/tanulmanyok/audio/${targetDate.format("YYYYMMDD")}.mp3`
-        }
+        },
+        2,
+        7
     )
 }
 
@@ -213,6 +217,22 @@ let czechAudio = async function () {
     )
 }
 
+let ukrainianAudio = async function () {
+    await dailyAudio(
+        "uk",
+        "Суботня Школа",
+        {
+            artist: "Суботня Школа",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            return `https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/${targetQuarter}/${targetDate.format('YYYY-MM-DD')}.mp3`
+        },
+        2,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -220,6 +240,7 @@ let run = async function () {
     await romanianAudio()
     await hungarianAudio();
     await czechAudio();
+    await ukrainianAudio();
 }
 
 run().then(() => {

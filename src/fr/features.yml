@@ -24,3 +24,8 @@
     title: Vidéo
     description: Regardez les discussions sur les leçons de l'école du Sabbat pour approfondir votre étude
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Mise en page originale
+    description: Améliorez votre étude de la leçon en utilisant une mise en page originale avec de nombreux outils d'annotation
+    image: "v1/images/features/feature_original_layout.png"
