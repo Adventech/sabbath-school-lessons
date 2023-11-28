@@ -23,7 +23,7 @@ jobs:
       - run: tar xvf deploy-creds.tar
       - uses: actions/setup-node@v2
         with:
-          node-version: '12'
+          node-version: '16'
           check-latest: true
       - run: npm install
       - run: mkdir audio
