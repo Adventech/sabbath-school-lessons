@@ -226,31 +226,6 @@ let englishVideo = async function () {
 
     await weeklyVideo(
         "en",
-        "Hebrew Bible Institute",
-        {
-            artist: "Hebrew Bible Institute",
-            clips: []
-        },
-        function (targetDate, targetQuarter, year, week) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        },
-    )
-
-    await weeklyVideo(
-        "en",
-        "Hebrew Bible Institute",
-        {
-            artist: "Hebrew Bible Institute",
-            clips: []
-        },
-        function (targetDate, targetQuarter, year, week) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/en/bol/en-bol-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        },
-        "er"
-    )
-
-    await weeklyVideo(
-        "en",
         "InVerse Bible",
         {
             artist: "InVerse Bible",
