@@ -22,6 +22,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2023-04-08.mp4
           target: de/2023-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2023-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2023-04-09.mp4
+          target: de/2023-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2023-04-09.webp
     - artist: Die Bibelschule
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2023-04-01.mp4
