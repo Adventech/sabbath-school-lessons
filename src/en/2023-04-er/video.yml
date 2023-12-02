@@ -94,6 +94,8 @@
           target: en/2023-04-er/06
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-09.mp4
           target: en/2023-04-er/09
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2023-04-10.mp4
+          target: en/2023-04-er/10
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-01.mp4
