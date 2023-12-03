@@ -1,19 +1,25 @@
-yt-dlp "https://www.youtube.com/watch?v=68R6f2Pil4s" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "tp/tp-en-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=-Onp6URGQEA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/hopess/en-hopess-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=okBuqZYmOPI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/365/365-en-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=U9umMff5AOg" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "inv/en-2023-04-inv-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=x8dRqJYHHMc" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "iiw/iiw-en-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=-L6kU2A5UlU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/bul/es-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=vXTyZY3g2rs" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/inv/es-2023-04-inv-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=q8Y0Yuca3KM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-inv-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=C9ducJ9bBzM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/ee/es-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=KbROGpQh0UU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/ffn/fr-ffn-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Y284URzjtYk" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/viva/es-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=HPSmczyf1-M" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/hope/fr-hope-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=LGAtVKW1fZM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/lago/pt-lago-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=PQMpFy3G0ns" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "it/it-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=o5LXWd3GChA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/apl/pt-apl-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=Vn3aDDCl3Dw" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "zh/hopetv/zh-hopetv-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=bd60t8DJP5I" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=38e4QTkueo4" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ru/bol/ru-bol-2023-04-10.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=2WZ900JalSc" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/inv/pt-inv-2023-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=tlVNJWLjEJI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ru/zau/ru-zau-2023-04-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=ZwPHDXzG0fQ" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "uk/uk-2023-04-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=uSGsrGPjBss" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ta/ta-2023-04-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=528bs76QonY" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/af/de-af-2023-04-10.mp4"
