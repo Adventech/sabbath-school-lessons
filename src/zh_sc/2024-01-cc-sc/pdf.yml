@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch1.pdf'
+      target: zh_sc/2024-01-cc/01
+      title: 未送达的礼物
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch2.pdf'
+      target: zh_sc/2024-01-cc/02
+      title: 所罗门的智慧
+      start_date: 06/01/2024
+      end_date: 12/01/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch3.pdf'
+      target: zh_sc/2024-01-cc/03
+      title: 建造圣殿
+      start_date: 13/01/2024
+      end_date: 19/01/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch4.pdf'
+      target: zh_sc/2024-01-cc/04
+      title: 强盛中的高傲
+      start_date: 20/01/2024
+      end_date: 26/01/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch5.pdf'
+      target: zh_sc/2024-01-cc/05
+      title: 所罗门的悔改
+      start_date: 27/01/2024
+      end_date: 02/02/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch6.pdf'
+      target: zh_sc/2024-01-cc/06
+      title: 偶像的威胁
+      start_date: 03/02/2024
+      end_date: 09/02/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch7.pdf'
+      target: zh_sc/2024-01-cc/07
+      title: 耶罗波安
+      start_date: 10/02/2024
+      end_date: 16/02/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch8.pdf'
+      target: zh_sc/2024-01-cc/08
+      title: 国王的献身
+      start_date: 17/02/2024
+      end_date: 23/02/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch9.pdf'
+      target: zh_sc/2024-01-cc/09
+      title: 从未孤单
+      start_date: 24/02/2024
+      end_date: 01/03/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch10.pdf'
+      target: zh_sc/2024-01-cc/10
+      title: 迦密山顶的信心
+      start_date: 02/03/2024
+      end_date: 08/03/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch11.pdf'
+      target: zh_sc/2024-01-cc/11
+      title: 山谷中的疑惑
+      start_date: 09/03/2024
+      end_date: 15/03/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch12.pdf'
+      target: zh_sc/2024-01-cc/12
+      title: 谁才是可靠的？
+      start_date: 16/03/2024
+      end_date: 22/03/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Cornerstone-Connections/2024/Q1/CC_2024_Q1_S_SC_Ch13.pdf'
+      target: zh_sc/2024-01-cc/13
+      title: 约沙法的人生评语
+      start_date: 23/03/2023
+      end_date: 29/03/2023

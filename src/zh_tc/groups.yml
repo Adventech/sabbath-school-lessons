@@ -8,3 +8,6 @@
   cc:
     name: "房角石"
     order: 300
+  am:
+    name: "聖工消息"
+    order: 400

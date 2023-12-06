@@ -17,3 +17,6 @@
   bg:
     name: "初级学课"
     order: 600
+  cc:
+    name: "房角石"
+    order: 700
