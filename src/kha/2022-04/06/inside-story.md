@@ -1,0 +1,26 @@
+---
+title:  'Da: Leiki Kasar'
+date:  04/11/2022
+---
+
+Ka Lynti Jong Nga Kum Ka Adventist
+
+Ha ka por ba nga long tang ka khynnah rit, i pa i shait ialam ia ngi sha kino kino ki jingiaseng ha shnong ne sha shnong ki briew namar ba i pa i long i Seventh-day.  Kaba ar, da kaba nga shong bad ki briew kiba dei ruh ki Seventh-day Adventist bad ha u snem 1993, nga la sdang ban tip ia ka jingshisha malu mala da kaba pule hi ia ka ktien U Blei lyngba ka jingialam bastad jong U.
+
+Ha u snem 1995 nga la rai ban shah pynbaptis noh bad la pynbaptis ia nga da i Pr. W Dkhar, Mowkaiaw.  Haba nga la long ka Seventh-day Adventist kaba pura, i ma ma  i shait bitar ia nga, ki hynmen, ki para bad i mei ruh ki ong ka niam khyllah aiu kato kaba phi leit bad bunsien bunsien haba i ma ma i dih kyiad nga shait wan jingiaseng na jingkhang ïit.  Katba nga shong pyrkhat marwei shaphang ka jingneit ba nga don, nga sngewsih bad ki jingkylli ki wan hapoh ka dohnud jong nga, hato kane ka jingngeit kaba nga don ka long ne em kaba shisha.
+
+Ha u snem 1998 nga duwai ia U Blei ba Un pynshai ia nga, te nga la rai ba ngan ym leit shano shano.  Miet la bad sngi nga pule ia ka Baibl naduh Jenesis haduh Jingpynpaw lait noh ka Kitab Esekiel nga khlem pule tang shi lynnong ruh, bad ryngkat ka jingialam U Blei nga leit sha ki lum ban pule lyndet ia ka Baibl khnang ba ngan dup tip kumno ban iakren bad kiba haïing hasem.  I mei i shait ong ia nga imat kane ka khynnah ka la bieit.  Hynrei i pa i long iba bha khyndiat ia i mei i ong ai lad ia ka.  Nga pule wat haba nga kyndit thiah ruh.  Te nga ainguh ia U Blei bad ngam lah hi ruh banklet ha ka jingim jong nga ba u snem 1998 u long u snem jong ka jingkyrmen ha ka jingim jong nga.  Pleng ym don Blei da uwei pat U Blei nalor Uba nga shakri mynta bad kumjuh ruh nga ainguh ia U Blei ba mynta ngi la long ki Seventh-day Adventist baroh shiïing.
+
+Ki Jingkyrkhu –
+
+Ha u snem 2000 nga ia poi kha noh bad uwei u khynah ubad dei na ka balang Church of God, hynrei shuwa ba ngin ia shong, nga ai ia u ka Baibl study man ka por ban wan sha ïing bad nga ong ruh ia u lada u treh ban long Seventh-day ngan ia shong noh bad u.  Te u kohnguh bad ngi la iathoh tymmen noh ha u juh u snem 2000 da ka jingbymhun kiba haïing jong u.  Nga ainguh ia ka ialam bastad jong U Blei, bad ia ki jingkyrkhu ba U la ai ba mynta ngi la don 5 ngut ki khun, 2 ki khynthei bad 3 ki shynrang.
+
+Hynrei sngewsih ban ong ha u snem 2008 katba u kpa ki khun u dang leit pom synsar ha khlaw, u kum ot iai ki 2 tylli ki shynriah kti te ha kata ka por ba u khun b alai jong ngi u dang rit ng akum ka kmie ngam lah banleit trei, te bunsien ka jingthngan jingkyrduh ka lap ia ngi, hynrei ngi ia im ha ka jingduwai khnang ba U Blei un iarap ia ngi man la ka khyllipmat.  I pa i ong ia nga, to ngin ia dem khohsiew ba ngin pan bor na U Blei ba ngin lah ban shah iai ki jingtynjuh bad ngi shait pule ruh ia kato ka ktien kaba ong, “Ki sing samla ki shah thngan bad ki kyrduh, hynrei kiba wad ia U Trai kin ym kyrduh ia kaei kaei kaba bha”.  Te da ka jingialam bastad U Blei man ka por ki para marjan ki wan ai ia ngi u khaw ki jhur ki sabon bad ki pira ruh te ngim lah khlem da ainguh ia U Blei iai ki jingpyniaid bastad jong U.
+
+Te khlem lap ba sngewthuh ki sngi ki iaid sha ki taïew, ki taïew sha ki bnai bad ki bnai sha ki snem, ngi shu im te ha u snem 2010, sngewsih ban ong haba u khun rit jongngi u dap 5 bnai i pa i kem pang noh tad haduh ba u khun rit jong ngi u la jan dap 5 snem.  ka mut u la pang la jan da ki 4 snem te kata ka long ka por jong ka jingsngewsih.  Ka jingkut lad, ka jingduh jingkyrmen ka po rjong ka jingsngew marwei hynrei bunsien ngi pyndem tang ha ki jingduwai bad ka mynsiem ka tngen bad da kaba pule ruh ia ki kyntein kiba ong, (Jakob 1:2) “To phin ñiew ka jingkmen suda ko parabangeit jong nga haba phi hap ha ki jingtynjuh ba bunjait”  bad da kaba rwai ia kato ka jingrwai kaba ong, “Nga tip U Trai Un thaw ka lad”.  Te ha kata ka por ngi shu im da kaba nga suh jaiñ iai ki briew, pynkhuid ia ki ïing ki sem, sait jaiñ sha ïing ki briew katba ki ai kam, hynrei wat la hapdneg ka jingduk jingkyrduh hapdeng ka jingpang kaba jur, u kpa ki khun um ju pynwit ia nga, u iai ong khie leit trei ba ngin dup ioh bam, bad duwai ia U Blei ba un don ryngkat bad ngi ha ki liang baroh.
+
+Da ka jingianoh synñiang ka Balang Khasi Jaintia Conference, kiba ha ïing jong ngi baroh arliang, ki lok ki jor, ngi la lah ban pyndih dawai, pyndep ia ki test ki bapher bapher haduh la jan dap 4 snem.
+
+Sngewkmen ban ong ba ha ka 15th September, 2014, U Blei U la khot noh ia i pa sha lade.  Nga ainguh ia U Blei haba nga pyrkhat ia kito ki snem ba la leit hoid, wat la hapdeng ka jingduh jingkyrmen, ki jingkhuslai, ki jingjawummat, nga iohi bad nga tip ba ka kti bakhlaiñ jong U Blei ka kyrshan bad kyrkhu ia nga bad ia ki khun jong nga, bad mynta ngi la ioh ia la ka jong ka ïng kaba don tang saw kamra ban lah ban rieh tngen ia ka met ba rangli jong ngi.
+
+Kaba kongsan ka long nga dang donkam ia ka jingkyrshan jong phi ki parabangeit stalk ka pyrthei ha ka jingduwai jong phi ba ngan don ia ka jingngeit kaba skhem bad ban nang kumno ban hikai ia ki khun.

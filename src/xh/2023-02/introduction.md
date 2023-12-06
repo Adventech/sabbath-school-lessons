@@ -1,0 +1,23 @@
+### Izigidimi Zeengelosi Ezintathu
+
+Ngomhla we-15 kaOktobha, 1844, kwiveki nje ngaphambi koDano Olukhulu, kwazalwa inkwenkwana kwikhaya lamaLutere azinikele kakhulu eJamani. Igama layo lalinguFriedrich Nietzsche, owaba ngomnye wodidi olutsha olunempembelelo enkulu lwabangakholwayo kuThixo. Ekholelwa ukuba uThixo wamaKristu wayesifa eNtshona, uNietzsche wayigculela kakhulu inkolo yamaKristu ngempembelelo yokuziphatha kwayo, esithi “kukuziphatha kobukhoboka,” ukuziphatha kwabangenamandla abazama ukuzikhusela kwabanawo, kwada kwakho neentethwana zempambano ezithi “zithandeni iintshaba zenu.” KuNietzsche, impucuko yayifanele ukudlula ngaphaya kwengqondo yakudala ethi kukho “okulungileyo nokubi”; wada omnye kwenye yeencwadi zakhe, (uthi Zarathustra) wathi, “Tyumza amacwecwe omthetho omdala!” (ethetha imiThetho eliShumi).
+
+Umnyaka we-1844 wawukwabalulekile kuKarl Marx, umqali wobukomanisi. Umsebenzi owabizwa ngokuba yi“Economic and Philosophic Manuscripts of 1844,” wawubhalwe nguMarx ngawo loomnyaka, nangona ungazange wapapashwa kwada kwangowe-1932 yiSoviet Union [iRashiya]. Amaxwebhu abonisa ukukhula kwasekuqaleni kwengcingane kaMarx apho wayexoxela ubume obupheleleyo bokuba nezinto obawatyhutyhayo amabanga ezemveliso yendyebo ngenjongo yokuba abasebenzi bamanyane babongamele abacinezeli babo abangoongxowa-nkulu, badale eli phupha kulo mhlaba.
+
+Umnyaka we-1844 wawungobalulekileyo naku Charles Darwin. Kuncwadi olwaziwa ngokuthi “Essay of 1844,” uDarwin waveza ezona mbono zakuqala zemfundiso yeevolushini, nangona ingazanga yasasazwa kwangoko. Kwathi ngowe-1859, ngokupapashwa koncwadi iOn the Origin of Species, awathi uDarwin wayiveza ekuhleni imbono yakhe ethi bonke ubomi emhlabeni buphuma kwisinyanya esinye ngemvelo nendlela engusambhaqa kuphela.
+
+Kanti ke kunjalo, umnyaka we-1844 wawungowokuzaliseka kwesiprofeto sikaDaniyeli 8:14 sama-2300 eentsuku, kanti kwangawo loo mnyaka kwiintsalela zoDaniso Olukhulu, kwabakho imbewu eyatyalwayo eyayiza kukhula iwuzalise umhlaba ngentshukumo esigidimi sayo sasiza kuphikisana nobugorha neemfundiso zikaMarx, nezikaNietzsch kwakunye nezikaDarwin.
+
+IContra Marx [intshukumo yamaSeventh-day Adventist] yavakalisa ukuba imbambano enkulu phakathi kukaKristu noSathana, engekuko ukubakho kobutyebi kwimbali, yayichaza imbali yehlabathi eya yiya kuphela, kungekuko kwilizwe lephupha lobukomanisi elenziwe ngumntu kodwa kubukumkani bukaThixo obungaphaya kwendalo obuya kuma ngonaphakade.
+
+IContra Darwin, [intshukumo yamaSeventh-day Adventist] yafundisa ukuba ubomi baqala, kungengankqubo yemvelo nosambhaqa ngokwanda kokuzenzekela nokuzikhethela kwendalo, kodwa ngamandla kaThixo uMdali, owathi ngentsuku ezintandathu wadala ubomi emhlabeni waza waphumla ngomhla wesixhenxe.
+
+Ukuchasa uNietzsche, intshukumo yamaSeventh-day Adventist yavakalisa, kungekuphela nje ukuba uThixo ukho kodwa nokuba umthetho waKhe wokuziphatha kwezwe lonke (“Amacwecwe Wakudala Omthetho”), iMithetho eliShumi, usahleli ungumgangatho ekuphela kwawo wokugweba nobandakanya uluntu lonke.
+
+Ingaba kwaba yingozi ukuba zonke ezi ziganeko zenzeke ngowe-1844? Akufanele ukuba umntu acinge njalo.
+
+UMarx, uNietzsche, noDarwin—sisithathu samadoda aya anempembelelo amisebenzi yawo yenza umonakalo omkhulu kakhulu eluntwini. Noko kunjalo, phakathi kwazo zonke ezi mposiso, uThixo akazange alishiye ihlabathi lingenabo ubungqina benyaniso yaKhe, nto leyo, ekwathi phakathi kwezingcamango neemfundiso ziyintshabalalo, wavusa intshukumo eyayiza kuthi, ekuhambeni kwexesha, ibe negama iSeventh-day Adventist Church, eya kuvakalisa inyaniso yemihla yokugqibela emhlabeni — izigidimi zengelosi ezintathu. Ezi zizigidimi, owona mxholo wazo, ikukuphikisa iimposiso neemfundiso ezigwenxa ezikhuthazwa ngaloo madoda mathathu akhohliswe ngendlela emangalisayo. Izigidimi zeengelosi ezintathu, ngandlela ithile, ziyimiyalelo yokubheka phambili kwempi iSeventh-day Adventist Church. Owona mxholo wazo, yigospile, Iindaba Ezilungileyo Ezingunaphakade, enyulu nelula, ezinikwa njenge“nyaniso yeli xesha” (2 Pet. 1:12).
+
+Ezi zigidimi zeengelosi ezintathu zizo esiza kufunda zona kule kota.
+
+_Inzalelwane yaseConnecticut, U.S.A., uMark Finley, umvangeli owaziwa kulo lonke, waba lisekela likamongameli weGeneral Conference ngeminyaka yama-2005–2010. Akuba ahlukene nokuqeshwa ngokupheleleyo, waba ngumncedisi kamongameli weGeneral Conference. Umfundisi uFinley nenkosikazi yakhe uErnestine banabantwana abathanthu nabazukulwana abahlanu._

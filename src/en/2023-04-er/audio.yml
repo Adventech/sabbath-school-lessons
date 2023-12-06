@@ -1,0 +1,230 @@
+---
+  audio:
+    - artist: Adult Bible Study Guides
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/introduction.mp3
+          target: en/2023-04/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/003 SS Lesson 30 September 2023.mp3
+          target: en/2023-04/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/004 SS Lesson 1 October 2023.mp3
+          target: en/2023-04/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/005 SS Lesson 2 October 2023.mp3
+          target: en/2023-04/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/006 SS Lesson 3 October 2023.mp3
+          target: en/2023-04/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/007 SS Lesson 4 October 2023.mp3
+          target: en/2023-04/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/008 SS Lesson 5 October 2023.mp3
+          target: en/2023-04/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/009 SS Lesson 6 October 2023.mp3
+          target: en/2023-04/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/009a INSIDE STORY 1 October 2023.mp3
+          target: en/2023-04/01/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/023 SS Lesson 7 October 2023.mp3
+          target: en/2023-04/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/024 SS Lesson 8 October 2023.mp3
+          target: en/2023-04/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/025 SS Lesson 9 October 2023.mp3
+          target: en/2023-04/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/026 SS Lesson 10 )ctober 2023.mp3
+          target: en/2023-04/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/027 SS Lesson 11 October 2023.mp3
+          target: en/2023-04/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/028 SS Lesson 12 October 2023.mp3
+          target: en/2023-04/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/029 SS Lesson 13 October 2023.mp3
+          target: en/2023-04/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/029a INSIDE STORY 2.mp3
+          target: en/2023-04/02/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/033 14 October 2023.mp3
+          target: en/2023-04/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/034 SS Lesson 15 October 2023.mp3
+          target: en/2023-04/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/035 SS Lesson 16 October 2023.mp3
+          target: en/2023-04/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/036 SS Lesson 17 October 2023.mp3
+          target: en/2023-04/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/037 SS Lesson 18 October 2023.mp3
+          target: en/2023-04/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/038 SS Lesson 19 October 2023.mp3
+          target: en/2023-04/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/039 SS Lesson 20 October 2023.mp3
+          target: en/2023-04/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/039a SS Lesson INSIDE STORY 3 October 2023.mp3
+          target: en/2023-04/03/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/043 SS Lesson 21 October 2023.mp3
+          target: en/2023-04/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/044 SS Lesson 22 October 2023.mp3
+          target: en/2023-04/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/045 SS Lesson 23 October 2023.mp3
+          target: en/2023-04/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/046 SS Lesson 24 October 2023.mp3
+          target: en/2023-04/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/047 SS Lesson 25 October 2023.mp3
+          target: en/2023-04/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/048 SS Lesson 26 October 2023.mp3
+          target: en/2023-04/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/049 SS Lesson 27 October 2023.mp3
+          target: en/2023-04/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/049a INSIDE STORY 4 October 2023.mp3
+          target: en/2023-04/04/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/053 SS Lesson 28 October 2023.mp3
+          target: en/2023-04/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/054 SS Lesson 29 October 2023.mp3
+          target: en/2023-04/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/055 SS Lesson 30 October 2023.mp3
+          target: en/2023-04/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/056 SS Lesson 31 October 2023.mp3
+          target: en/2023-04/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/057 SS Lesson 1 November 2023.mp3
+          target: en/2023-04/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/058 SS Lesson 2 November 2023.mp3
+          target: en/2023-04/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/059 SS Lesson 3 November 2023.mp3
+          target: en/2023-04/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/059a INSIDE STORY 5 November 2023.mp3
+          target: en/2023-04/05/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/063 SS Lesson 4 November 2023.mp3
+          target: en/2023-04/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/064 SS Lesson 5 November 2023.mp3
+          target: en/2023-04/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/065 SS Lesson 6 November 2023.mp3
+          target: en/2023-04/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/066 7 November 2023.mp3
+          target: en/2023-04/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/067 SS Lesson 8 November 2023.mp3
+          target: en/2023-04/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/068 SS Lesson 9 November 2023.mp3
+          target: en/2023-04/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/069 SS Lesson 10 November 2023.mp3
+          target: en/2023-04/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/069a INSIDE STORY 6 November 2023.mp3
+          target: en/2023-04/06/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/073 SS Lesson 11 November 2023.mp3
+          target: en/2023-04/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/074 SS Lesson 12 November 2023.mp3
+          target: en/2023-04/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/075 SS Lesson 13 November 2023.mp3
+          target: en/2023-04/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/076 SS Lesson 14 November 2023.mp3
+          target: en/2023-04/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/077 SS Lesson 15 November 2023.mp3
+          target: en/2023-04/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/078 SS Lesson 16 November 2023.mp3
+          target: en/2023-04/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/079 SS Lesson 17 November 2023.mp3
+          target: en/2023-04/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/079a INSIDE STORY 7 November 2023.mp3
+          target: en/2023-04/07/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/083 SS Lesson 18 November 2023.mp3
+          target: en/2023-04/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/084 SS Lesson 19 November 2023.mp3
+          target: en/2023-04/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/085 SS Lesson 20 November 2023.mp3
+          target: en/2023-04/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/086 SS Lesson 21 November 2023.mp3
+          target: en/2023-04/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/087 SS Lesson 22 November 2023.mp3
+          target: en/2023-04/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/088 SS Lesson 23 November 2023.mp3
+          target: en/2023-04/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/089 SS Lesson 24 November 2023.mp3
+          target: en/2023-04/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/089a INSIDE STORY 8 November 2023.mp3
+          target: en/2023-04/08/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/093 SS Lesson 25 November 2023.mp3
+          target: en/2023-04/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/094 SS Lesson 26 November 2023.mp3
+          target: en/2023-04/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/095 SS Lesson 27 November 2023.mp3
+          target: en/2023-04/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/096 SS Lesson 28 November 2023.mp3
+          target: en/2023-04/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/097 SS Lesson 29 November 2023.mp3
+          target: en/2023-04/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/098 SS Lesson 30 November 2023.mp3
+          target: en/2023-04/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/099 SS Lesson 1 December 2023.mp3
+          target: en/2023-04/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/099a INSIDE STORY 9 December 2023.mp3
+          target: en/2023-04/09/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/103 SS Lesson 2 December 2023.mp3
+          target: en/2023-04/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/104 SS Lesson 3 December 2023.mp3
+          target: en/2023-04/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/105 SS Lesson 4 December 2023.mp3
+          target: en/2023-04/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/106 SS Lesson 5 December 2023.mp3
+          target: en/2023-04/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/107 SS Lesson 6 December 2023.mp3
+          target: en/2023-04/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/108 SS Lesson 7 December 2023.mp3
+          target: en/2023-04/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/109 SS Lesson 8 December 2023.mp3
+          target: en/2023-04/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/109a INSIDE STORY 10 December 2023.mp3
+          target: en/2023-04/10/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/113 SS Lesson 9 December 2023.mp3
+          target: en/2023-04/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/114 SS Lesson 10 December 2023.mp3
+          target: en/2023-04/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/115 SS Lesson 11 December 2023.mp3
+          target: en/2023-04/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/116 SS Lesson 12 December 2023.mp3
+          target: en/2023-04/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/117 SS Lesson 13 December 2023.mp3
+          target: en/2023-04/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/118 SS Lesson 14 December 2023.mp3
+          target: en/2023-04/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/119 SS Lesson 15 December 2023.mp3
+          target: en/2023-04/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/119a INSIDE STORY 11 December 2023.mp3
+          target: en/2023-04/11/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/123 SS Lesson 16 December 2023.mp3
+          target: en/2023-04/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/124 SS Lesson 17 December 2023.mp3
+          target: en/2023-04/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/125 SS Lesson 18 December 2023.mp3
+          target: en/2023-04/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/126 SS Lesson 19 December 2023.mp3
+          target: en/2023-04/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/127 SS Lessson 20 December 2023.mp3
+          target: en/2023-04/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/128 SS Lesson 21 December 2023.mp3
+          target: en/2023-04/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/129 SS Lesson 22 December 2023.mp3
+          target: en/2023-04/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/129a INSIDE STORY December 2023.mp3
+          target: en/2023-04/12/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/133 SS Lesson 23 December 2023.mp3
+          target: en/2023-04/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/134 SS Lesson 24 December 2023.mp3
+          target: en/2023-04/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/135 SS Lesson 25 December 2023.mp3
+          target: en/2023-04/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/136 SS Lesson 26 December 2023.mp3
+          target: en/2023-04/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/137 SS Lesson 27 December 2023.mp3
+          target: en/2023-04/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/138 SS Lesson 28 December 2023.mp3
+          target: en/2023-04/13/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/139 SS Lesson 29 December 2023.mp3
+          target: en/2023-04/13/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/139a INSIDE STORY 13 Dec 2023.mp3
+          target: en/2023-04/13/inside-story
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-30.mp3
+          target: en/2023-04/01/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-01.mp3
+          target: en/2023-04/01/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-02.mp3
+          target: en/2023-04/01/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-03.mp3
+          target: en/2023-04/01/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-04.mp3
+          target: en/2023-04/01/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-05.mp3
+          target: en/2023-04/01/06

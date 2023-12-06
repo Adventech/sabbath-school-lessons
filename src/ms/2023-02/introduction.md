@@ -1,0 +1,25 @@
+### Perkhabaran Tiga Malaikat
+
+Pada 15 Oktober 1844, seorang lelaki dilahirkan dalam keluarga Lutheran yang alim di Jerman. Budak itu dilahirkan seminggu sebelum Kekecewaan Besar. Nama budak itu ialah Friedrich Nietzsche. Dia akan membesar menjadi salah seorang ateis yang paling berpengaruh pada zaman moden. Nietzsche percaya bahawa Tuhan Kristian telah mati. Jadi, Nietzsche menyerang agama Kristian. Nietzsche berkata bahawa ajaran Kristian mengubah manusia menjadi hamba. Dia percaya kebenaran Alkitab membuat orang lemah. Dia berpendapat bahawa ajaran Alkitab “Kasihilah musuhmu” adalah idea yang bodoh. Nietzsche percaya bahawa orang moden perlu membuang idea Kristian tentang "baik dan jahat." Beliau berkata idea-idea ini sudah lapuk dan ketinggalan zaman. Nietzsche menulis buku tentang ideanya menentang Kristian. Salah satu bukunya bernama Thus Spoke Zarathustra. Salah satu watak dalam buku ini mengumumkan, "Hancurkan loh undang-undang lama!" (Loh yang dia maksudkan Sepuluh Perintah.)
+
+Tahun 1844 juga penting bagi seorang lelaki bernama Karl Marx. Komunisme  mengajar bahawa tiada siapa yang harus memiliki apa-apa dan pekerja harus mengawal cara sesuatu dibuat. Pada tahun 1844, Karl Marx menulis “Economic and Philosophic Manuscripts of 1844.” Tulisan-tulisan penting ini tidak dicetak sehingga tahun 1932 oleh Kesatuan Soviet. Tulisan menunjukkan idea Marx. Beliau berkata bahawa pekerja di seluruh dunia akan bergabung bersama pada masa depan dan mengambil alih kawalan daripada pemimpin kerajaan mereka. Kemudian pekerja akan memulakan komuniti yang sempurna di bumi.
+
+Tahun 1844 juga penting bagi Charles Darwin. Darwin menulis artikel yang kini dinamakan "Essay of 1844." Dalam esei ini, Darwin bercakap tentang ideanya yang dinamakan evolusi. Evolusi adalah ajaran palsu yang mengatakan bahawa kehidupan di bumi bermula kerana perubahan perlahan pada tumbuhan dan haiwan yang berlaku dalam masa yang sangat lama.
+
+Tahun 1844 adalah kegenapan nubuatan 2,300 hari dalam Daniel 8:14. Masa itu juga dinamakan Kekecewaan Besar. Tidak lama selepas Kekecewaan Besar, sebuah agama telah dimulakan. Agama ini menjadi Gereja Seventh-day Adventist. Tuhan memberikan gereja sedunia ini satu Perkhabaran yang penting. Perkhabaran ini menolak ajaran Nietzsche, Marx dan Darwin.
+
+Seventh-day Adventist mengajar bagaimana sejarah di bumi ini akan berakhir. Sejarah tidak akan berakhir seperti yang dikatakan oleh Marx. Ingat, Marx berkata sejarah akan berakhir apabila pekerja menyertai dan mengambil alih kawalan daripada pemimpin mereka. Kemudian pekerja akan membina komuniti buatan manusia yang sempurna. Adventist mengajar bahawa idea ini adalah palsu. Sejarah akan berakhir apabila Tuhan memulakan kerajaan-Nya yang kekal.
+
+Seventh-day Adventist juga mengajar bahawa kehidupan bermula apabila Tuhan menjadikan langit dan bumi dalam enam hari. Jadi, kehidupan tidak bermula dengan evolusi, seperti yang dikatakan Darwin.
+
+Gereja Seventh-day Adventist mengumumkan bahawa Tuhan tidak mati. Tuhan ini mempunyai undang-undang yang mengajar semua orang apa yang betul dan apa yang salah. Undang-undang ini ialah Hukum Sepuluh. Tuhan akan menggunakan hukum ini untuk menghakimi semua manusia yang pernah hidup.
+
+Ajaran-ajaran palsu oleh Nietzsche, Marx dan Darwin semuanya ditulis dalam beberapa bentuk pada tahun 1844. Pada tahun yang sama berlakunya Kekecewaan Besar. Adakah anda fikir ketiga-tiga orang ini menulis idea mereka pada tahun yang sama hanya secara kebetulan? Kita tidak sepatutnya berfikiran begitu.
+
+Nietzsche, Marx dan Darwin semuanya adalah pemikir yang sangat berkuasa yang tulisan dan ajarannya telah menyakiti ramai orang. Tetapi Tuhan tidak meninggalkan kita tanpa harapan atau kebenaran Alkitab. Dia memulakan sebuah gereja yang menjadi agama di seluruh dunia. Agama ini mesti mengumumkan perkhabaran akhir zaman-Nya kepada semua orang di bumi. Pengumuman ini dinamakan Perkhabaran Tiga Malaikat. Perkhabaran ini menolak idea-idea palsu yang diajarkan Nietzsche, Marx dan Darwin.
+
+Perkhabaran Tiga Malaikat menunjukkan kepada anggota Gereja Seventh-day Adventist pekerjaan yang Tuhan mahu mereka lakukan. Perkhabaran Tiga Malaikat menunjukkan kepada kita Berita Baik bahawa Yesus menyelamatkan kita daripada dosa. Perkhabaran Tiga Malaikat adalah "kebenaran masa kini" untuk zaman kita (2 Pet. 1:12). Kebenaran sekarang ialah kebenaran Alkitab yang paling kita perlukan untuk masa yang kita hidup.
+
+Kuartal ini kita akan mengkaji Perkhabaran Tiga Malaikat.
+
+_Berasal dari Connecticut, A.S.A., Mark Finley, seorang penginjil yang terkenal di peringkat antarabangsa, adalah naib presiden di General Conference dari 2005–2010. Selepas bersara daripada pekerjaan sepenuh masa, beliau menjadi pembantu kepada presiden General Conference. Pastor Finley dan isterinya, Ernestine, mempunyai tiga orang anak dan lima cucu._

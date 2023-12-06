@@ -1,0 +1,21 @@
+### ‘Mopi ea Thakhisitsoeng
+
+“Lintho tsohle li entsoe ke eena, ’me hara lintho tse leng teng ha ho letho le sa kang la etsoa ke eena” (John 1:3).
+
+“L intho tsohle” li entsoe ke eena, Jesu, le ho le joalo—ho latela Lengolo— “Jesu a lla” (Johanne 11:35). ’Mopi a llaThe? Le ho feta moo, Jesu o ile a “nyatsoa, le ho furalloa ke batho; ke motho oa mahloko, ea tsebang mahlomola” (Esa. 53:3). ’Mopi, motho oa mahloko, a nyatsoa le ho furalloa? ’Me o kile a lla, “Molimo oa ka, Molimo oa ka, u ntloheletse’ng?” (Matt. 27:46).
+
+Lintho li ka ba joalo joang? Ke hobane Jesu, ’mopi oa rōna, e bile hape molopolli oa rōna, ’me ka hoo e bile Molimo ea thakhisitsoeng—’mopi ea nkileng botho ’me bothong boo a utloa bohloko ba ho hloka le ho sokola bo qetelletseng ka fanyehoa sefapanong sa Roma.
+
+Ke hona, ’mopi oa rōna, eo ka eena re “utloang, re sisinyehang, re leng teng” (Lik. 17:28), u utloileng bohloko bothong ka litsela tseo ho seng e mong oa rōna ea khonang. Re ka ba le maiphihlelo fela a mahloko a rōna, mahlomola a rōna; sefapanong o jere “maloetse a rōna, o nkile mahlomola a rōna” (Esa. 53:4)—kaofela ha oona. Ke ketso e makatsang nalaneng eohle.
+
+Ka selelekela seo (sa ho thakhisoa ha Molimo ha ntse luma maikutlong a rōna), ka likhoeli tse ’maloa tse latelang re tla batla ho utloisisa hantle ho se utloisisehe—ha mahlomola, mahlomola a Bakreste, a bao ba nehelaneng ka maphelo a bona ho Kreste. Ha bolele hore re na le likarabo tsohle kapa tsona tse ngata; re mpa re bolela fela hore “Molimo ke lerato” (1 John 4:8) le hore leha lintho tsena li etsahala, re ka tšepa Molimo ntle le tsona, ’me ruri, re hole mohaung ka tsona, ho sa natsoe bohloko ba tšebetso eo.
+
+Kotareng ena re tla ithuta Lentsoe la Molimo le ho bona hore ke joang batho ba bang ba nama le mali, leha ba ne ba khanya ka tumelo, leha ho le joalo ba ile ba tobana le ho nyahama, ho ekoa, ho phoqeha, tahlehelo, ho hloka toka, le tlhekefetso (na li utlohala e le lintho tseo u amanang le tsona?). Ba khonne joang? Ba ile ba ithuta eng? Mehlala ea bona e ka re ruta eng?
+
+Ha re sheba batho bana, maiphihlelo a bona, mathata a bona, le liqholotso tsa bona tsa tumelo (tse ka tšoanang haholo le tsa rōna), re ka li sheba ka mehla ka leihlo la sefapano. Re lokela ka mehla ho hopola hore ho sa natsoe hore na mang o tobana le eng, Jesu Kreste, ’Mopi le Molopolli oa rōna, o fetile ho tse fetisang.
+
+Molimo oa rōna ke Molimo ea mahlomoleng. Le Albert Camus, eo e seng Mokreste hakalo, o ile a utloisisa tse ling tsa tse boleloang ke sefapano le mahlomola a Molimo moo: “Bosiu ba Golgotha bo bohlokoa nalaneng ea motho fela hobane, seriting sa teng, bo-Molimo bo ile ba behella ka thoko melemo ea bona le ho noa ho isa lerotholing la ho qetela, ho nyahama ho keneletse, mahloko a lefu.”—Albert Camus, The Rebel (New York: Vintage International, 1991), p. 33. Kapa, joalo ka Ellen G. White a e hlalositse: “Sefapano ke tšenolo maikutlong a rōna a fokolang ea bohloko, ho tloha qalong, boo sebe se bo tlisitseng pelong ea Molimo.”—Education, p. 263.
+
+Lithuto tsa rōna ha se ho lokafatsa Molimo malebana le bobe. Empa joalo ka ha re boletse, ke liteko tsa ho re thusa hore re fete mahlomola a maholo ao re tobanang le oona lefatšeng lena moo sebe se leng bonolo joalo ka ho phefumoloha fela. Seo re tla leka ho se bontša ke ho re bohloko, mahlomola le tahlehelo ha li bolela hore Molimo o se a re lahlile; empa li bolela hore, leha re le balumeli, re nka karolo ho tse oelang moloko ona o oeleng. Phapano ke hore, ka Jesu le tšepo eo a fanang ka eona, re fumana moelelo le sepheo ho se bonahalang se sena moelelo le sepheo le ho hloka tšepo le hore, leha re sa utloisise hore na joang, re ka tšepa tšepiso ea hore “lintho tsohle li sebelisana hammoho molemo oa ba ratang Molimo” (Ba-Ba-Roma 8:28)—Molimo eo leha a entse lintho tsohle, a ileng a ba mahlomoleng ana kaofela le eena (’me ke ka hoo re mo ratang).
+
+_Gavin Anthony, sengoli se ka sehlohong sa bukana ea kotare ena, o holetse Sri Lanka e le morumuoa oa ngoana. O sebelitse e le moruti England ’me ea e-ba mookameli oa conference Iceland ha a ne a ngola thuto ena._

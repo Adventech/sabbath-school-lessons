@@ -1,0 +1,64 @@
+---
+title:  Komen Guru
+date:  18/11/2022
+---
+
+**Ayat-ayat Utama**:1 Korintus 15:20
+
+#### Bahagian I: Gambaran Keseluruhan
+
+Petikan ayat Perjanjian Baru tentang kebangkitan daripada kematian, sama ada daripada Paulus dan para rasul yang lain atau daripada Yesus sendiri, sekali lagi tidak mengatakan apa-apa tentang jiwa atau roh yang tidak akan mati yang sudah berada di syurga. Harapan Perjanjian Baru ditemui di dalam kebangkitan dan Kedatangan Kedua Kali.
+
+Petikan yang disebut dalam pelajaran ini sehubungan dengan keadaan orang mati adalah seperti berikut:
+
+•	Ibrani 11:39, 40: tokoh iman tidak menerima ganjaran syurgawi mereka sehingga kita menerima ganjaran kita.
+
+•	1 Yohanes 5:11, 12: ayat ini mengajar bahawa hanya mereka yang ada di dalam Kristus memiliki hidup yang kekal. Oleh itu, implikasinya adalah jelas: kita tidak dikurniakan “jiwa” yang abadi, kerana hanya mereka yang memilih Kristus akan menerima kehidupan kekal.
+
+•	1 Korintus 15:12–19: pengharapan kita terhadap kehidupan kekal dan kebangkitan berasal daripada kebangkitan Yesus. Jika kita tidak bangkit pada masa itu, ini bermakna bahawa Kristus tidak bangkit. Jika itu benar, maka kita semua akan mati dan kekal mati selama-lamanya.
+
+•	Yohanes 14:1–3: Yesus berjanji untuk menyediakan tempat bagi kita dan kembali untuk menjemput kita. Janji ini tidak diperlukan sekiranya kita sudah berada di syurga.
+
+•	Yohanes 6:35–54: Yesus mengatakan empat kali bahawa Dia akan membangkitkan dia (manusia) pada akhir zaman. Jika manusia akan dibangkitkan, maka mereka perlu hidup semula selepas kematian, yang tidak membolehkan kewujudan mereka berada di tempat lain sebagai roh atau jiwa.
+
+•	1 Tesalonika 4:13–18: Tuhan akan membangkitkan orang percaya yang telah mati dan mereka akan ditemui oleh mereka yang masih hidup pada masa itu. Kebangkitan terakhir tidak akan berbaloi jika jiwa sudah berada di syurga.
+
+•	1 Korintus 15:51–55: “Rahsia” adalah perubahan orang benar yang hidup pada Kedatangan Kedua Kali. Kebangkitan orang mati dan perubahan orang benar yang hidup berlaku pada masa yang sama.
+
+#### Bahagian II: Ulasan
+
+Mari kita lihat lebih dekat kepada 1 Korintus 15, kerana dua petikan yang dikaji di dalam pelajaran ini adalah daripada bab ini. Bab 15 penuh dengan maklumat tentang kebangkitan Yesus, kebangkitan kita, dan bagaimana kita semua akan diubah dan diberikan tubuh abadi pada Kedatangan Kedua Kali (1 Kor. 15:35–44). Walaupun begitu, kita akan dapat memiliki keabadian hanya kerana kuasa penopang dari Tuhan. “Ketiadaan kematian tidak bermakna bahawa kehidupan manusia akan wujud terpisah daripada Tuhan, yang satu-satunya memiliki keabadian yang muktamad (1 Tim. 6:16). Manusia yang dimuliakan akan terus bergantung kepada Pencipta untuk sokongan hidup mereka.”—Roy E. Gane, “At-one-ment Forever in God’s New Heaven and New Earth,” Salvation: Contours of Adventist Soteriology, edited by Martin F. Hanna, Darius W. Jankiewicz, and Yohanes w. Reeve (Berrien Springs, MI: Andrews University Press, 2018), ms. 254.
+
+Sungai kehidupan dan pohon kehidupan, yang disebut di dalam Wahyu 22, menunjukkan bahawa manusia akan sentiasa bergantung kepada Sumber kehidupan, iaitu Tuhan. Dia juga akan menjadi terang mereka (Wahyu 22:5), walaupun itu tidak bermakna matahari dan bulan tidak akan berada di sana. Fakta bahawa manusia akan memakan buah dari pohon itu dan meminum air dari sungai menunjukkan bahawa manusia akan dibangkitkan dalam bentuk jasmani dan bukan sekadar roh yang tidak mempunyai tubuh. Manusia akan dibangkitkan “untuk hidup selama-lamanya dalam bentuk fizikal, bukan dengan tubuh (soma) semula jadi/tidak rohaniah (Yunani psuchikos) sekarang yang membusuk dan mati, tetapi dengan tubuh (soma) yang abadi kerana rohani (pneumatikos; 1). Kor 15:44; rujuk konteks dalam ayat 42–43, 45–54). Tubuh diubah (ay. 52), tetapi orang itu tidak menjadi roh yang tidak berjasad.”— Gane, “At-one-ment Forever in God’s New Heaven and New Earth,” in Salvation: Contours of Adventist Soteriology, ms. 254.
+
+1 Korintus 15
+
+Di dalam 1 Korintus 15, Paulus membicarakan mengenai kepercayaan palsu bahawa tidak ada kebangkitan tubuh pada masa hadapan. Kesilapan ini berpunca daripada kepercayaan Gnostik Hellenistik tentang ketidakfanaan jiwa yang pasti mudah diterima oleh beberapa, atau ramai, penganut di Korintus. Paulus membuat hujah bahawa penolakan kebangkitan tubuh bagi orang percaya adalah penolakan kebangkitan tubuh Yesus. Jika orang tidak akan dibangkitkan secara fizikal, maka jelas Yesus juga tidak dibangkitkan (1 Kor. 15:12–19). Jika demikian keadaannya, maka kita harus dikasihani lebih daripada orang lain kerana kita percaya kepada dusta dan akibatnya, tiada seorang pun daripada kita yang akan diampuni untuk dosa kita. Oleh itu, kita yang masih hidup dan kita yang telah mati, tidak mempunyai harapan untuk hidup yang kekal.
+
+Sebaliknya, Yesus dikatakan sebagai "buah sulung" daripada mereka yang telah tertidur (meninggal dunia). “Kerana sama seperti semua orang mati dalam persekutuan dengan Adam, demikian pula semua orang akan dihidupkan kembali dalam persekutuan dengan Kristus.Tetapi tiap-tiap orang menurut urutannya: Kristus sebagai buah sulung; sesudah itu mereka yang menjadi milik-Nya pada waktu kedatangan-Nya” (1 Kor. 15:22, 23). Metafora ini berasal dari hasil tuaian pertama. Sama seperti mula-mula datang buah/hasil pertama yang menandakan bahawa keseluruhan tuaian akan segera menyusul, begitu juga Kristus adalah yang pertama, dan kemudian penuaian terhadap yang lain akan datang. Hasil tuaian adalah terdiri daripada semua orang yang “menjadi milik-Nya”.
+
+Istilah  Yunani untuk “buah sulung” ialah aparche dan bermaksud, pertama sekali “buah sulung,” kedua, ia berupa “hadiah yang sepadan” daripada pendapatan (persembahan terima kasih), atau ketiga, ia boleh bermaksud “persembahan”. Orang Israel akan mempersembahkan “buah sulung”, berkas tuaian pertama di bait suci dan seorang imam akan melambainya di hadapan Tuhan. Semua tindakan ini berlaku pada 16hb Nisan dan merupakan peringatan tentang satu ikrar mengenai penuaian penuh.
+
+Menariknya, bahawa Yesus telah dibangkitkan pada 16hb Nisan. Oleh itu, Dia bertindak sebagai satu ikrar, iaitu berkas pertama, buah sulung, penuaian penuh terhadap semua umat percaya yang akan dibangkitkan pada suatu hari nanti, juga. Tetapi penting untuk diperhatikan bahawa penuaian hanya muncul “apabila dia datang” lagi. Oleh itu, tidak ada penuaian secara fizikal yang sudah berada di syurga, kecuali bagi mereka yang diberitahu kepada kita sebagai telah dibangkitkan atau dibawa terus ke syurga, seperti Henokh, Elia, dan Musa, dan mereka yang dibangkitkan daripada kematian semasa kebangkitan Kristus (Mat. 27:52). “Hidup yang baru” di dalam Yesus (Rom. 6:4) menunjukkan kepada kehidupan baru dan kebangkitan semua orang percaya.
+
+Walaupun Paulus berkata “semua akan dihidupkan,” namun dia sama sekali tidak bermaksud bahawa setiap orang akan diberikan kehidupan kekal. Paulus tidak percaya kepada keselamatan universal (Rom. 2:5–12, Ef. 5:6, 2 Tes. 1:6–10) dan dia menyatakan dengan jelas bahawa mereka yang akan dibangkitkan pada Kedatangan Kedua Kali adalah mereka yang berada “dalam Kristus.” Paulus menggunakan frasa “dalam Kristus” dalam surat-suratnya untuk menandakan hubungan yang rapat dan kesatuan antara umat percaya dan Yesus. Paulus menekankan bahawa kebangkitan Kristus mencapai lebih daripada Dia hidup kembali. Kebangkitan Kristus telah menyediakan kehidupan kekal bagi semua orang yang telah mempraktikkan iman kepada-Nya.
+
+“Kemudian tiba kesudahannya” (1 Kor. 15:24). Kesudahannya itu digambarkan oleh kehancuran “semua pemerintahan, autoriti dan kuasa,” yang merujuk kepada kerajaan dan kuasa Syaitan. Paulus menggunakan istilah autoriti dan kuasa untuk menunjukkan kuasa manusia dan kuasa iblis (Rom. 13:1–3, Ef. 1:21, Ef. 6:12). Pada Kedatangan Kedua Kali, penghakiman ilahi dilaksanakan ke atas Syaitan, termasuk semua yang menjadi miliknya dan yang telah memilih untuk mengikuti jalan kejahatan dan kebinasaan. Paulus menambah, “Musuh yang terakhir, yang dibinasakan ialah maut” (1 Kor. 15:26). Penghapusan ini tidak akan berlaku sehingga selepas milenium nanti (Wahyu 20:1–10), pada masa itu orang jahat akan dihidupkan semula dan ditunjukkan kepada mereka bahawa Tuhan itu adil di dalam tindakan-Nya untuk memusnahkan kejahatan. Kemudian mereka akan binasa di dalam api yang terakhir. Api ini kekal abadi kerana hasilnya kekal selama-lamanya. Tiada sesiapapun yang bangkit kembali dari kematian ini.
+
+Selepas Paul menjelaskan bahawa sebenarnya, tubuhlah yang akan dibangkitkan pada hari kebangkitan nanti dan dia menggunakan metafora benih yang disemai, yang akan tumbuh menjadi pohon yang hidup, walaupun ia tertanam di dalam tanah, dia meneruskan untuk menyatakan bahawa tubuh yang akan dibangkitkan akan menjadi satu tubuh yang baru (1 Kor. 15:35–41). Benih itu tidak menggambarkan atau kelihatan seperti tumbuhan yang ia akan bertumbuh, namun benih itu akan berubah menjadi tumbuhan. Dalam cara yang sama, kita akan diberikan tubuh baru.
+
+Pada titik ini, Paulus mengetengahkan empat perbezaan yang boleh dijangkakan dengan kebangkitan orang benar yang telah mati. Pertama, jasad semasa di bumi boleh menjadi rosak—tertakluk kepada penyakit dan kematian—tetapi ia akan menjadi tidak boleh rosak. Kedua, daripada penghinaan kita akan pergi kepada tubuh yang dimuliakan—hinaan kerana kita berdosa, tetapi tubuh yang dibangkitkan tidak akan menanggung batasan dosa; ia akan menjadi sempurna. Ketiga, badan kita lemah, kerana dosa mempengaruhi segala-galanya, termasuk keupayaan kita untuk menentang dosa; tetapi badan kita akan dibangkitkan dengan memiliki kuasa. Akhir sekali, tubuh semula jadi akan diubah menjadi tubuh rohani.
+
+Di dalam -ayat berikutnya ini, Paulus menjelaskan perbezaan di antara tubuh semula jadi dan tubuh rohani. Pertama, kita tidak boleh menganggap bahawa Paulus bermaksud untuk mengatakan bahawa hanya tubuh semula jadi adalah tubuh yang sebenar dan bukan tubuh rohani, juga, semata-mata kerana tubuh rohani akan bebas daripada kutukan dosa. Kita telah mewarisi tubuh semula jadi daripada Adam selepas Kejatuhan (dengan memiliki batasan seperti sakit, kelaparan, kesakitan, keletihan, dan kematian), manakala tubuh rohani datang melalui Yesus. “Manusia pertama, Adam menjadi makhluk yang hidup, tetapi Adam yang akhir menjadi roh yang menghidupkan” (1 Kor. 15:45). Adam dihidupkan, tetapi Kristus menghidupkan. Kristus tidak hanya menerima kehidupan secara pasif tetapi memberikan hidup yang kekal kepada setiap orang yang percaya kepada-Nya. Tubuh yang akan diberikan kepada orang percaya adalah tubuh rohani, syurgawi yang bermakna bahawa ia dikurniakan sifat rohani Kristus dan bukannya sifat manusia yang berdosa.
+
+Selepas penjelasan ini, Paulus memimpin pembaca untuk melalui satu pengkajian mengenai “rahsia,” iaitu ajaran bahawa “kita semua akan diubah” (1 Kor. 15:51). Pada Kedatangan Kedua Kali, mereka yang akan diubah ke dalam awan-awan bersama Yesus akan terdiri daripada dua kumpulan dari bumi: mereka yang telah mati dan mereka yang masih hidup. “Perubahan” itu bermakna satu kebangkitan tubuh bagi orang yang mati di dalam Kristus dan perubahan jasmani orang benar yang hidup pada waktu itu. Kedua-dua kumpulan akan berubah daripada fana kepada abadi “dalam sekejap mata, pada waktu bunyi nafiri yang terakhir” (1 Kor. 15:52).
+
+Maut akan kehilangan sengatnya dan kemenangannya (1 Kor. 15:55). Dosa telah menyebabkan kematian. Ia adalah racun yang mematikan. Tetapi kerana kematian Kristus di kayu salib dan kebangkitan-Nya, maka Dia telah beroleh kemenangan atas dosa dan kematian. Kita mempunyai janji yang pasti tentang kehidupan kekal yang diubah kepada tubuh syurgawi dan kesudahan dosa dan kematian, semuanya kerana Kristus telah dibangkitkan daripada kematian.
+
+#### Bahagian III: Penerapan Hidup
+
+1. 	Apakah harapan yang terdapat di dalam 1 Korintus 15 untuk anda secara khusus? Ayat manakah yang berbicara kepada anda dan mengapa?
+
+2. 	Yesus adalah buah sulung daripada hasil tuaian yang memberi jaminan kepada kita tentang realiti bahawa akan ada penuaian selanjutnya bagi orang percaya yang akan dibangkitkan. Pada Kedatangan Kedua Kali, orang percaya akan dibangkitkan dan diangkat ke syurga. Apakah yang anda nantikan pada Kedatangan Kristus yang Kedua Kali? Adakah untuk dapat melihat Yesus? Adalah untuk melihat orang tersayang? Atau belajar tentang apa yang berlaku di belakang tabir? Adakah itu mengenai hal-hal yang lain? Kongsi harapan dan kerinduan anda dengan kelas.
+
+3. 	Pada Kedatangan Kedua Kali, kita semua akan diubah. Tubuh kita yang mudah rosak dan fana akan diubah kepada yang tidak dapat binasa dan kekal. Adakah perkembangan pada sifat kita sekarang ini penting untuk masa depan? Terangkan. Bagaimanakah dengan mengetahui bahawa satu hari nanti kita akan dibangkitkan dapat membantu anda membuat pilihan yang lebih baik dalam kehidupan sekarang?

@@ -1,0 +1,17 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q4/Begin/Begin_B4_Oct_S.pdf'
+      target: zh/2023-04-bg/01
+      title: 彼得和瘸腿的人
+      start_date: 30/09/2023
+      end_date: 27/10/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q4/Begin/Begin_B4_Nov_S.pdf'
+      target: zh/2023-04-bg/02
+      title: 保罗和船难
+      start_date: 28/10/2023
+      end_date: 24/11/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q4/Begin/Begin_B4_Dec_S.pdf'
+      target: zh/2023-04-bg/03
+      title: 天使对牧羊人唱诗
+      start_date: 25/11/2023
+      end_date: 29/12/2023

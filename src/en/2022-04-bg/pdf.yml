@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q4/Beginner/Student/B-22-Q4-L00.pdf'
+      target: en/2022-04-bg/introduction
+      title: Introduction
+      start_date: 24/09/2022
+      end_date: 30/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q4/Beginner/Student/B-22-Q4-L01.pdf'
+      target: en/2022-04-bg/01
+      title: Jesus Heals a Little Girl
+      start_date: 24/09/2022
+      end_date: 28/10/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q4/Beginner/Student/B-22-Q4-L02.pdf'
+      target: en/2022-04-bg/02
+      title: The Good Shepherd
+      start_date: 29/10/2022
+      end_date: 25/11/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q4/Beginner/Student/B-22-Q4-L03.pdf'
+      target: en/2022-04-bg/03
+      title: Baby Jesus Is Born
+      start_date: 26/11/2022
+      end_date: 30/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q4/Beginner/Student/B-22-Q4-Activites.pdf'
+      target: en/2022-04-bg/activities
+      title: Activities
+      start_date: 24/12/2022
+      end_date: 30/12/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q4/Beginner/Student/B-22-Q4-MemoryVerses.pdf'
+      target: en/2022-04-bg/03
+      title: Memory Verses
+      start_date: 24/12/2022
+      end_date: 30/12/2022
+

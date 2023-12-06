@@ -1,0 +1,29 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-Intro.pdf
+      target: el/2023-01/01
+      title: Εισαγωγή
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-01.pdf
+      target: el/2023-01/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-02.pdf
+      target: el/2023-01/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-03.pdf
+      target: el/2023-01/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-04.pdf
+      target: el/2023-01/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-05.pdf
+      target: el/2023-01/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-06.pdf
+      target: el/2023-01/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-07.pdf
+      target: el/2023-01/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-08.pdf
+      target: el/2023-01/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-09.pdf
+      target: el/2023-01/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-10.pdf
+      target: el/2023-01/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-11.pdf
+      target: el/2023-01/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/el/2023-01/ABSG-2023-01-EL-12.pdf
+      target: el/2023-01/12

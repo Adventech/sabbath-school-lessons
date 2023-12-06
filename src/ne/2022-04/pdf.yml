@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-Intro.pdf
+      target: ne/2022-04/01
+      title: परिचय
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-01.pdf
+      target: ne/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-02.pdf
+      target: ne/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-03.pdf
+      target: ne/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-04.pdf
+      target: ne/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-05.pdf
+      target: ne/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-06.pdf
+      target: ne/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-07.pdf
+      target: ne/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-08.pdf
+      target: ne/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-09.pdf
+      target: ne/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-10.pdf
+      target: ne/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-11.pdf
+      target: ne/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-12.pdf
+      target: ne/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-13.pdf
+      target: ne/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ne/2022-04/ABSG-2022-04-NE-14.pdf
+      target: ne/2022-04/14

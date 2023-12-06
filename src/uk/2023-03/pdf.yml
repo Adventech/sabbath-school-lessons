@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-Intro.pdf
+      title: Вступ
+      target: uk/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-01.pdf
+      target: uk/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-02.pdf
+      target: uk/2023-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-03.pdf
+      target: uk/2023-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-04.pdf
+      target: uk/2023-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-05.pdf
+      target: uk/2023-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-06.pdf
+      target: uk/2023-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-07.pdf
+      target: uk/2023-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-08.pdf
+      target: uk/2023-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-09.pdf
+      target: uk/2023-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-10.pdf
+      target: uk/2023-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-11.pdf
+      target: uk/2023-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-12.pdf
+      target: uk/2023-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-13.pdf
+      target: uk/2023-03/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/uk/2023-03/ABSG-2023-03-UK-13.pdf
+      target: uk/2023-03/14

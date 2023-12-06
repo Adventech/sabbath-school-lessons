@@ -1,0 +1,52 @@
+---
+title:  Sudbinski trenutak
+date:  07/04/2023
+---
+
+### PRVI DEO: PREGLED
+
+Knjiga Otkrivenje je knjiga kontrasta. A svaki od tih kontrasta poziva nas da donesemo odluke sa večnim posledicama. Poklonićemo se ili aždaji ili Jagnjetu. Primićemo ili žig zveri ili pečat Božji. Ili ćemo nasedati na lukave prevare žene u skerletu – sotoninog lažnog pokreta, ili ćemo hodati sa ženom u belom – Božjom istinskom crkvom. Ili ćemo prihvatiti varljiva učenja duhovnog Vavilona, ili ćemo se radovati istini koja potiče iz Novog Jerusalima.
+
+Ove sedmice proučavaćemo posebno dve žetve iz teksta Otkrivenje 14,14-20. To su: žetva zrelog žita koje se skuplja u Božje ambare, i žetva krvavog grožđa koje se gazi u presi Njegovog gneva.
+
+U celoj Bibliji koristi se simbolika žetve da bi se opisao završetak delovanja Božje blagodati na dušu. Kad se to delo završi i evanđelje bude objavljeno svim narodima, „tada će doći pošljedak“ (Matej 24,14). Evanđelje po Marku to izražava ovako: „A kad sazri rod, odmah pošlje srp; jer nasta žetva“ (Marko 4,29). Isus dodaje: „Žetva je pošljedak ovoga vijeka“ (Matej 13,39). Pre Isusovog povratka, svakom ljudskom biću na planeti Zemlji pružiće se poštena prilika da odgovori na Njegovu ljubav, da primi Njegovu blagodat i živi u skladu s Njegovom istinom. Ove sedmice proučavaćemo konačnu žetvu na Zemlji, i otkriti kako da budemo deo žetve „zrelog žita“, a ne „krvavog grožđa“.
+
+### DRUGI DEO: KOMENTAR
+
+Tekst Otkrivenje 14,14-20 opisuje ishod objavljivanja poruka tri anđela, iznetih jakim glasom „svakome plemenu i jeziku i koljenu i narodu“, kao što se navodi u stihovima 6-12. Hristos će po drugi put doći tek pošto te poruke budu objavljene. Objavljivanje tih poruka zapravo priprema svet za Isusov dolazak. Te poruke su, dakle, od večnog značaja. Jer, prihvatanje tih poruka donosi večni život, dok njihovo odbacivanje, u krajnjoj liniji, rezultira drugom smrću – uništenjem čije su posledice nepovratne i trajne.
+
+U tekstu Otkrivenje 14,14, Jovan izjavljuje: „I vidjeh, i gle, oblak bijel, i na oblaku sjeđaše kao sin čovječij.“ U celom Svetom pismu oblaci označavaju Božje prisustvo. Tokom izlaska iz Egipta, „Gospod iđaše pred njima danju u stupu od oblaka vodeći ih putem“ (2. Mojsijeva 13,21). Na Sinaju, kada je Mojsije primio Deset zapovesti, izveštaj kaže: „Oblak pokri goru“ (2. Mojsijeva 24,15). Božja slava počivala je na Sinaju, i „oblak je pokrivaše šest dana“ (2. Mojsijeva 24,16). Tokom posvećenja drevnog svetilišta u pustinji, Božje prisustvo se pokazalo u vidu oblaka koji je počivao na ulazu u svetilište. Kada bi prvosveštenik ulazio u Svetinju nad svetinjama, Božje prisustvo se takođe otkrivalo Njegovom pojavom „u oblaku nad zaklopcem“ (3. Mojsijeva 16,2).
+
+U veličanstvenoj sceni suda opisanoj u tekstu Danilo 7,9-14, prorok gleda „i gle, kao sin čovječji iđaše s oblacima nebeskim, i dođe“ (Danilo 7,13) do svog Oca, Starca. Prilikom svog vaznesenja, Isus se uzdigao na oblaku (Dela 1,9). Dakle, Isus se vazneo na oblacima, a kada ponovo dođe u slavi, doći će na oblacima (Otkrivenje 1,7).
+
+„Sin čovečiji“ je omiljena Isusova titula, koju On najradije koristi za sebe. Ona se u četiri evanđelja pominje više od 80 puta. Interesantno je zapaziti da niko osim Isusa ne koristi naziv „sin čovečiji“ da bi utvrdio Njegov identitet. Isus koristi tu titulu da bi pokazao da se u potpunosti poistovetio s našom  ljudskom prirodom. On je „jedno s nama“. On je naš Spasitelj koji je veoma blizu. On razume naše slabosti, iskusio je naše teškoće i upoznao naše tuge, kao što rečito govori Jevrejima poslanica: „Budući pak da djeca imaju tijelo i krv, tako i on uze dijel u tome, da smrću satre onoga koji ima državu smrti, to jest đavola“ (Jevrejima 2,14).
+
+Upravo Sin čovečiji je Onaj koji se vraća na oblacima slave da bi nas odveo kući. To je isti Isus koji je hodao prašnjavim ulicama Galileje. Taj isti Isus je isceljivao bolesne. Čistio je gubave. Otvarao je slepe oči i gluve uši. Oslobađao je opsednute ljude od vlasti sotone i njegovih legija zlih anđela. Isus je praštao preljubnicima, lopovima, samopravednim farisejima i posrnulim učenicima. Taj isti Hristos koji je jedanput već došao, doći će ponovo. Isusovu omiljenu titulu za sebe, Sin čovečiji, Jovan koristi kako bi nas uverio da će svi oni koji su iskupljeni na krstu, koji su prihvatili Njegovu milost, i koji su preobraženi Njegovom silom, gledati na taj slavni dan s radošću, i da će iskusiti puninu obećanja zapisanog u Knjizi proroka Isaije: „Reći će se u ono vrijeme: gle, ovo je Bog naš, njega čekasmo, i spašće nas; ovo je Gospod, njega čekasmo; radovaćemo se i veselićemo se za spasenje njegovo“ (Isaija 25,9).
+
+**Koncept žetve**
+
+Šta znači to da je žetva potpuno sazrela? Konkretno, šta anđeo misli kad Sinu čovečijem kaže: „Zamahni srpom svojijem i žnji, jer dođe vrijeme da se žnje, jer se osuši žito zemaljsko“ (Otkrivenje 14,15)? Većina zemljoradnika čeka da im usevi potpuno sazru pre nego što ih požanju. Iz istog razloga se ni Isus, božanski Žetelac, neće vratiti sve dok Njegovi usevi ne budu potpuno zreli. Tekst Otkrivenje 22,11.12 opisuje tu žetvu na drugi način: „Ko čini nepravdu, neka čini još nepravdu; i ko je pogan, neka se još pogani; i ko je pravedan, neka još čini pravdu; i ko je svet, neka se još sveti. I evo ću doći skoro, i plata moja sa mnom, da dam svakome po djelima njegovijem.“ Propovedanje Božje poruke za poslednje vreme navodi muškarce i žene da donesu odluke od večne važnosti. Sveti Duh donosi osvedočenje u njihova srca. Njihov izbor da prihvate ili odbace Isusovu ljubav, milost i istinu određuje njihovu večnu sudbinu jednom zauvek. Oni na taj način donose svoju konačnu, neopozivu odluku.
+
+Kad se neophodni uslovi steknu, rod će biti zreo za žetvu. U to vreme, na zemlji će postojati samo dve klase ljudi: oni koji su potpuno i bezrezervno posvećeni Hristu, čiju odanost Njemu ništa ne može da poljulja, i oni koji su narušili svoj integritet i prodali se đavolu. U tom trenutku ceo svemir će moći da vidi kako se Hristov karakter otkriva u iskupljenima, a karakter sotone u izgubljenima.
+
+Svrha poruke koju proučavamo u ovom tromesečju je da obezbedimo slavnu žetvu za Božje carstvo. Komentarišući načelo žetve iz 4. poglavlja Evanđelja po Marku, Elen Vajt piše:
+
+„’A kad sazri rod, odmah pošlje srp, jer nasta žetva’. Hristos s dubokom čežnjom očekuje da se pokaže u svojoj Crkvi. Kada se Njegov karakter bude savršeno obnovio u Njegovom narodu, tada će doći da njegove pripadnike uzme kao svoje. Prednost svakog hrišćanina je ne samo da očekuje već i da ubrza dolazak našeg Gospoda Isusa Hrista (2. Petrova 3,12). Kada bi svi koji nose Njegovo ime donosili rodove Njemu na slavu, ceo svet bi brzo bio zasejan semenom jevanđelja. Poslednja velika žetva brzo će sazreti i Hristos će doći da prikupi dragoceno zrno.“ – Pouke velikog Učitelja, str. 69 (original).
+
+To je neverovatno dobra vest! Isus će dovršiti ono što je započeo u životu pripadnika svog naroda. On je začetnik i dovršitelj naše vere (Jevrejima 12,1.2). Kao što apostol Pavle poručuje crkvi u Filipima: „Uzdajući se u ovo isto da će onaj koji je počeo dobro djelo u vama dovršiti ga tja do dana Isusa Hrista“ (Filibljanima 1,6). Blagodat je veća od greha, jer „gdje se umnoži grijeh ondje se još većma umnoži blagodat“ (Rimljanima 5,20).
+
+Možda je teško razumeti kako će Isus dovesti do sazrevanja konačnu žetvu u ovom našem, grehom zagađenim životu, ali sve se to postiže blagodaću kroz veru. Mada se spasavamo uvek, i jedino, na osnovu Hristove pravednosti, koja nam se uračunava i pripisuje blagodaću kroz veru, mi takođe prihvatamo i Njegovu silu posvećenja u svom životu, i svakodnevno rastemo u duhovnom hodanju sa Njim.
+
+### TREĆI DEO: PRIMENA U ŽIVOTU
+
+**Za lično razmišljanje:** Naša pouka za ovu sedmicu jasno otkriva da će Isus dovršiti delo koje je započeo na ovom svetu. „I propovjediće se ovo jevanđelje o carstvu po svemu svijetu za svjedočanstvo svijem narodima. I tada će doći pošljedak“ (Matej 24,14, naglasak dodat). Reč „svedočanstvo“ u ovom stihu posebno je značajna. Svedok je neko ko daje izjavu pod zakletvom na sudu. Dokazi koje svedok prilaže potvrđuju istinitost njegovih reči. Slično tome, i konačno objavljivanje evanđelja biće nešto više od pukog verbalnog ispovedanja evanđeoske istine. Biće to živa demonstracija – potvrda u vidu božanski preobraženog života Isusovih sledbenika – te istine koja će biti upućena „svakome plemenu i jeziku i koljenu i narodu“ (Otkrivenje 14,6). To „svedočanstvo“ izazvaće jednu od dve reakcije: prihvatanje ili odbacivanje Hristovih tvrdnji od strane naroda na zemlji. A njihova reakcija će, zauzvrat, dovesti do konačne žetve.
+
+Evo jedne dobre vesti. Istorija nije beskonačan ciklus događaja. To nije beskonačno odvijanje vremena koje nikuda ne vodi. Celokupna istorija vodi u pravcu jednog vrhunskog događaja – konačne žetve na Zemlji i povratka našeg Gospoda, Isusa Hrista. U poslednjim časovima planete Zemlje neutralnost neće biti moguća. Muškarci i žene biće ili spaseni Njegovom milošću, preobraženi Njegovom pravednošću, ispunjeni Njegovim Duhom i spremni da svedoče o slavi Njegovog imena, ili će biti sputani egocentričnošću svog neposvećenog života i kontrolisani silom demona. Ozbiljnost našeg vremena i realnost večnih posledica odluka koje su pred nama navode nas da postavimo neka pitanja od životne važnosti, kao što su ova koja navodimo u nastavku.
+
+**Uputstva za učitelje:** Sledeća pitanja pročitajte naglas pred svojim učenicima. Zamolite ih da u sebi razmišljaju o njima dok ih budete čitali. Pravite pauze između pitanja da biste učenicima dali vremena da u sebi razmisle o svojim odgovorima.
+
+1. Da li u vašem životu postoji nešto što vas sprečava da se u ovim poslednjim časovima, na  samom vrhuncu zemaljske istorije, u potpunosti posvetite Isusu? Ako postoji, šta je to?
+
+2. Pročitajte stih Jevrejima 12,15. Svaki koren donosi svoj plod, bilo dobar ili loš. Da li u vašem srcu postoji ikakav koren gorčine, ljubomore, besa, ozlojeđenosti, požude ili sebičnosti?
+
+**Završna molitva:** Na kraju časa pozovite svoje učenike da odvoje trenutak da razmisle o sopstvenom životu, tražeći od Boga da im omogući da, Njegovom blagodaću, ostvare pobedu nad svim onim što ih sprečava da budu spremni za Njegov povratak. Pre nego što se pomolite, zadužite nekog od učenika da pred razredom pročita sledeće ohrabrujuće obećanje: „Ako je ko u Hristu, nova je tvar: staro prođe, gle, sve novo postade“ (2. Korinćanima 5,17).

@@ -1,0 +1,400 @@
+---
+  audio:
+    - artist: Adult Bible Study Guides
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/003 SS Lesson 1 JULY Intro and Sabbath.mp3
+          target: en/2023-03/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/005 SS Lesson 25 June 2023.mp3
+          target: en/2023-03/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/006 SS Lesson 26 June 2023.mp3
+          target: en/2023-03/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/007 SS Lesson 27 June 2023.mp3
+          target: en/2023-03/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/008 SS Lesson 28 June 2023.mp3
+          target: en/2023-03/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/009 SS Lesson 29 June 2023.mp3
+          target: en/2023-03/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/010 SS Lesson 30 June 2023.mp3
+          target: en/2023-03/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/011 SS Lesson INSIDE STORY 1 July 2023.mp3
+          target: en/2023-03/01/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/023 SS Lesson 1 July 2023.mp3
+          target: en/2023-03/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/024 SS Lesson 2 July 2023.mp3
+          target: en/2023-03/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/025 SS Lesson 3 July 2023.mp3
+          target: en/2023-03/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/026 SS Lesson 4 July 2023.mp3
+          target: en/2023-03/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/027 SS Lesson 5 July 2023.mp3
+          target: en/2023-03/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/028 SS Lesson 6 July 2023.mp3
+          target: en/2023-03/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/029 SS Lesson 7 July 2023.mp3
+          target: en/2023-03/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/029a SS Lesson INSIDE STORY 2 July.mp3
+          target: en/2023-03/02/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/033 SS Lesson 8 July 2023.mp3
+          target: en/2023-03/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/034 SS Lesson 9 July 2023.mp3
+          target: en/2023-03/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/035 SS Lesson 10 July 2023.mp3
+          target: en/2023-03/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/036 SS Lesson 11 July 2023.mp3
+          target: en/2023-03/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/037 SS Lesson 12 July 2023.mp3
+          target: en/2023-03/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/038 SS Lesson 13 July 2023.mp3
+          target: en/2023-03/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/039 SS Lesson 14 July 2023.mp3
+          target: en/2023-03/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/039a SS Lesson INSIDE STORY 3 July 2023.mp3
+          target: en/2023-03/03/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/043 SS Lesson 15 July 2023.mp3
+          target: en/2023-03/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/044 SS Lesson 16 July 2023.mp3
+          target: en/2023-03/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/045 SS Lesson 17 July 2023.mp3
+          target: en/2023-03/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/046 SS Lesson 18 July 2023.mp3
+          target: en/2023-03/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/047 SS Lesson 19 July 2023.mp3
+          target: en/2023-03/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/048 SS Lesson 20 July 2023.mp3
+          target: en/2023-03/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/049 SS Lesson 21 July 2023.mp3
+          target: en/2023-03/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/049a SS Lesson INSIDE STORY 4 July 2023.mp3
+          target: en/2023-03/04/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/053 SS Lesson 22 July 2023.mp3
+          target: en/2023-03/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/054 SS Lesson 23 July 2023.mp3
+          target: en/2023-03/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/055 SS Lesson 24 July 2023.mp3
+          target: en/2023-03/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/056 SS Lesson 25 July 2023.mp3
+          target: en/2023-03/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/057 SS Lesson 26 July 2023.mp3
+          target: en/2023-03/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/058 SS Lesson 27 July 2023.mp3
+          target: en/2023-03/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/059 SS Lesson 28 July 2023.mp3
+          target: en/2023-03/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/059a SS Lesson INSIDE STORY 5 JULY 2023.mp3
+          target: en/2023-03/05/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/063 SS Lesson 29 July 2023.mp3
+          target: en/2023-03/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/064 SS Lesson 30 July 2023.mp3
+          target: en/2023-03/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/065 SS Lesson 31 July 2023.mp3
+          target: en/2023-03/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/066 SS Lesson 1 August 2023.mp3
+          target: en/2023-03/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/067 SS Lesson 2 August 2023.mp3
+          target: en/2023-03/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/068 SS Lesson 3 August 2023.mp3
+          target: en/2023-03/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/069 SS Lesson 4 August 2023.mp3
+          target: en/2023-03/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/069a SS Lesson INSIDE STORY 6 July 2023.mp3
+          target: en/2023-03/06/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/073 SS Lesson 5 August 2023.mp3
+          target: en/2023-03/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/074 SS Lesson6 August 2023.mp3
+          target: en/2023-03/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/075 SS Lesson 7 August 2023.mp3
+          target: en/2023-03/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/076 SS Lesson 8 August 2023.mp3
+          target: en/2023-03/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/077 SS Lesson 9 August 2023.mp3
+          target: en/2023-03/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/078 SS Lesson 10 August 2023.mp3
+          target: en/2023-03/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/079 SS Lesson 11 August 2023.mp3
+          target: en/2023-03/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/079a SS Lesson INSIDE STORY 7 August 2023.mp3
+          target: en/2023-03/07/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/083 SS Lesson 12 August 2023.mp3
+          target: en/2023-03/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/084 SS Lesson 13 August 2023.mp3
+          target: en/2023-03/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/085 SS Lesson 14 August 2023.mp3
+          target: en/2023-03/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/086 SS Lesson 15 August 2023.mp3
+          target: en/2023-03/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/087 SS Lesson 16 August 2023.mp3
+          target: en/2023-03/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/088 SS Lesson 17 August 2023.mp3
+          target: en/2023-03/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/089 SS Lesson 18 August 2023.mp3
+          target: en/2023-03/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/089a SS Lesson INSIDE STORY 8 AUG 2023.mp3
+          target: en/2023-03/08/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/093 SS Lesson 19 August 2023.mp3
+          target: en/2023-03/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/094 SS Lesson 20 August 2023.mp3
+          target: en/2023-03/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/095 SS Lesson 21 August 2023.mp3
+          target: en/2023-03/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/096 SS Lesson 22 August 2023.mp3
+          target: en/2023-03/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/097 SS Lesson 23 August 2023.mp3
+          target: en/2023-03/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/098 SS Lesson 24 August 2023.mp3
+          target: en/2023-03/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/099 SS Lesson 25 August 2023.mp3
+          target: en/2023-03/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/099a SS Lesson INSIDE STORY 9 August 2023.mp3
+          target: en/2023-03/09/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/103 SS Lesson 26 August 2023.mp3
+          target: en/2023-03/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/104 SS Lesson 27 August 2023.mp3
+          target: en/2023-03/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/105 SS Lesson 28 August 2023.mp3
+          target: en/2023-03/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/106 SS Lesson 29 August 2023.mp3
+          target: en/2023-03/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/107 SS Lesson 30 August 2023.mp3
+          target: en/2023-03/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/108 SS Lesson 31 August 2023.mp3
+          target: en/2023-03/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/109 SS Lesson 1 September 2023.mp3
+          target: en/2023-03/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/109a SS Lesson INSIDE STORY 10 September 2023.mp3
+          target: en/2023-03/10/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/113 SS Lesson 2 September 2023.mp3
+          target: en/2023-03/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/114 SS Lesson 3 September 2023.mp3
+          target: en/2023-03/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/115 SS Lesson 4 September 2023.mp3
+          target: en/2023-03/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/116 SS Lesson 5 September 2023.mp3
+          target: en/2023-03/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/117 SS Lesson 6 September 2023.mp3
+          target: en/2023-03/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/118 SS Lesson 7 September 2023.mp3
+          target: en/2023-03/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/119 SS Lesson 8 September 2023.mp3
+          target: en/2023-03/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/119a SS Lesson INSIDE STORY 11 September 2023.mp3
+          target: en/2023-03/11/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/123 SS Lesson 9 September 2023.mp3
+          target: en/2023-03/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/124 SS Lesson 10 September 2023.mp3
+          target: en/2023-03/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/125 SS Lesson 11 September 2023.mp3
+          target: en/2023-03/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/126 SS Lesson 12 September 2023.mp3
+          target: en/2023-03/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/127 SS Lesson 13 September 2023.mp3
+          target: en/2023-03/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/128 SS Lesson 14 September 2023.mp3
+          target: en/2023-03/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/129 SS Lesson 15 September 2023.mp3
+          target: en/2023-03/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/129a SS Lesson INSIDE STORY 12 September 2023.mp3
+          target: en/2023-03/12/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/133 SS Lesson 16 September 2023.mp3
+          target: en/2023-03/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/134 SS Lesson 17 September 2023.mp3
+          target: en/2023-03/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/135 SS Lesson 18 September 2023.mp3
+          target: en/2023-03/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/136 SS Lesson 19 September 2023.mp3
+          target: en/2023-03/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/137 SS Lesson 20 September 2023.mp3
+          target: en/2023-03/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/138 SS Lesson 21 September 2023.mp3
+          target: en/2023-03/13/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/139 SS Lesson 22 September 2023.mp3
+          target: en/2023-03/13/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/139a SS Lesson INSIDE STORY 13 September 2023.mp3
+          target: en/2023-03/13/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/143 SS Lesson 23 September 2023.mp3
+          target: en/2023-03/14/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/144 SS Lesson 24 September 2023.mp3
+          target: en/2023-03/14/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/145 SS Lesson 25 September 2023.mp3
+          target: en/2023-03/14/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/146 SS Lesson 26 September 2023.mp3
+          target: en/2023-03/14/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/147 SS Lesson 27 September 2023.mp3
+          target: en/2023-03/14/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/148 SS Lesson 28 September 2023.mp3
+          target: en/2023-03/14/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/149 SS Lesson 29 September 2023.mp3
+          target: en/2023-03/14/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-03/fix/149a SS Lesson INSIDE STORY 14 September 2023.mp3
+          target: en/2023-03/14/inside-story
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/06/2023-06-24.mp3
+          target: en/2023-03/01/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/06/2023-06-25.mp3
+          target: en/2023-03/01/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/06/2023-06-26.mp3
+          target: en/2023-03/01/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/06/2023-06-27.mp3
+          target: en/2023-03/01/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/06/2023-06-28.mp3
+          target: en/2023-03/01/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/06/2023-06-29.mp3
+          target: en/2023-03/01/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-01.mp3
+          target: en/2023-03/02/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-02.mp3
+          target: en/2023-03/02/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-03.mp3
+          target: en/2023-03/02/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-04.mp3
+          target: en/2023-03/02/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-05.mp3
+          target: en/2023-03/02/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-06.mp3
+          target: en/2023-03/02/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-08.mp3
+          target: en/2023-03/03/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-09.mp3
+          target: en/2023-03/03/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-10.mp3
+          target: en/2023-03/03/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-11.mp3
+          target: en/2023-03/03/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-12.mp3
+          target: en/2023-03/03/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-13.mp3
+          target: en/2023-03/03/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-15.mp3
+          target: en/2023-03/04/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-16.mp3
+          target: en/2023-03/04/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-17.mp3
+          target: en/2023-03/04/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-18.mp3
+          target: en/2023-03/04/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-19.mp3
+          target: en/2023-03/04/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-20.mp3
+          target: en/2023-03/04/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-22.mp3
+          target: en/2023-03/05/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-23.mp3
+          target: en/2023-03/05/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-24.mp3
+          target: en/2023-03/05/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-25.mp3
+          target: en/2023-03/05/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-26.mp3
+          target: en/2023-03/05/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-27.mp3
+          target: en/2023-03/05/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-29.mp3
+          target: en/2023-03/06/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-30.mp3
+          target: en/2023-03/06/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-07-31.mp3
+          target: en/2023-03/06/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-08-01.mp3
+          target: en/2023-03/06/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-08-02.mp3
+          target: en/2023-03/06/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/07/2023-08-03.mp3
+          target: en/2023-03/06/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-05.mp3
+          target: en/2023-03/07/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-06.mp3
+          target: en/2023-03/07/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-07.mp3
+          target: en/2023-03/07/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-08.mp3
+          target: en/2023-03/07/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-09.mp3
+          target: en/2023-03/07/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-10.mp3
+          target: en/2023-03/07/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-12.mp3
+          target: en/2023-03/08/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-13.mp3
+          target: en/2023-03/08/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-14.mp3
+          target: en/2023-03/08/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-15.mp3
+          target: en/2023-03/08/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-16.mp3
+          target: en/2023-03/08/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-17.mp3
+          target: en/2023-03/08/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-19.mp3
+          target: en/2023-03/09/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-20.mp3
+          target: en/2023-03/09/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-21.mp3
+          target: en/2023-03/09/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-22.mp3
+          target: en/2023-03/09/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-23.mp3
+          target: en/2023-03/09/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-24.mp3
+          target: en/2023-03/09/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-26.mp3
+          target: en/2023-03/10/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-27.mp3
+          target: en/2023-03/10/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-28.mp3
+          target: en/2023-03/10/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-29.mp3
+          target: en/2023-03/10/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-30.mp3
+          target: en/2023-03/10/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/08/2023-08-31.mp3
+          target: en/2023-03/10/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-02.mp3
+          target: en/2023-03/11/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-03.mp3
+          target: en/2023-03/11/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-04.mp3
+          target: en/2023-03/11/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-05.mp3
+          target: en/2023-03/11/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-06.mp3
+          target: en/2023-03/11/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-07.mp3
+          target: en/2023-03/11/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-09.mp3
+          target: en/2023-03/12/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-10.mp3
+          target: en/2023-03/12/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-11.mp3
+          target: en/2023-03/12/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-12.mp3
+          target: en/2023-03/12/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-13.mp3
+          target: en/2023-03/12/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-14.mp3
+          target: en/2023-03/12/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-16.mp3
+          target: en/2023-03/13/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-17.mp3
+          target: en/2023-03/13/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-18.mp3
+          target: en/2023-03/13/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-19.mp3
+          target: en/2023-03/13/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-20.mp3
+          target: en/2023-03/13/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-21.mp3
+          target: en/2023-03/13/06
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-23.mp3
+          target: en/2023-03/14/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-24.mp3
+          target: en/2023-03/14/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-25.mp3
+          target: en/2023-03/14/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-26.mp3
+          target: en/2023-03/14/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-27.mp3
+          target: en/2023-03/14/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-28.mp3
+          target: en/2023-03/14/06

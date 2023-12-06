@@ -1,0 +1,19 @@
+---
+  title: "Dieu d'abord"
+  description: "Les récits bibliques sont des moyens puissants d’exprimer les instructions et les avertissements de Dieu. Se référant aux récits de l’Ancien Testament, Paul dit : « Tout ce que nous trouvons dans l’Écriture a été écrit dans le passé pour nous instruire, afin que, grâce à la patience et au réconfort qu’elle nous apporte, nous possédions l’espérance. » (Rm 15.4)"
+  human_date: "Janvier · Février · Mars 2023"
+  start_date: "31/12/2022"
+  end_date: "24/03/2023"
+  color_primary: "#DF6453"
+  color_primary_dark: "#C84331"
+  credits:
+    - name: Rédacteur en chef
+      value: "Justin Kim"
+    - name:  Rédactrice adjointe
+      value: "Sikhu Daco"
+    - name: Traduction
+      value: "Monique Lemay"
+    - name: Édition française
+      value: "Dina Albicy"
+    - name: Révision
+      value: "Francine Schweitzer"

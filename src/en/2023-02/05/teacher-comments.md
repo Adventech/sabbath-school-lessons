@@ -1,0 +1,50 @@
+---
+title:  Teacher Comments
+date:  28/04/2023
+---
+
+#### Part I: Overview
+
+When many Christians consider the judgment, they tend to be filled with fear. They envision God in His celestial courtroom sitting as the Supreme Judge of the universe, weighing their good deeds against their bad deeds. They have this vague notion that if their good deeds outweigh their bad, they will be saved. If, perchance, their bad deeds outweigh their good deeds, they will be lost.
+
+In this week’s lesson, we will discover that this view of the judgment is not only false, but it is also one of the devil’s deceptions to distort the character of God. Satan desires to picture God as a vindictive judge, some sort of wrathful tyrant, who wants to punish His creatures for every sin they have ever committed.
+
+Our Sabbath School study this week reveals a God of unending love who is doing everything He can to save us. He wants us in heaven even more than we want to be there. The judgment attests to the divine reality that heaven has done everything it can to save all humanity. If we are lost, it will be because we have continually resisted the claims of divine love. In the judgment, our good deeds are important because they reveal our response to the unconditional, exhaustless love of God as revealed in Christ on the cross. Our good deeds testify to the fact that our faith in Jesus is genuine. Our recognition of what Jesus has done, is doing, and will continue to do leads us to desire to serve Him forever.
+
+#### Part II: Commentary
+
+The book of Revelation announces that “ ‘the hour of His judgment has come’ ” (Rev. 14:7, NKJV). Revelation does not indicate either the nature of the judgment or the exact time that the judgment begins. But Daniel does. Daniel 7–9 is interconnected and clearly reveals both the nature and timing of the judgment. The prophetic books of Daniel and Revelation belong together. Understanding Daniel helps us understand Revelation. When Daniel describes the nature of the judgment in Daniel 7, he describes it in the context of Christ’s victory over the despotic powers of this world. Earlier in Daniel 7, four beasts march across the landscape, oppressing the people of God. According to Daniel 7:17, 23, these beasts represent kings or kingdoms. The key words in Daniel 7 are “kingdom” and “dominion.”
+
+There is a battle for control of this world. Finally, a “little horn” power arises as a religio-political power that attempts to change God’s law and seeks to rule over the earth. Our attention is then turned from earth to heaven. The Ancient of Days, our heavenly Father, convenes heaven’s judgment hour. The Son of man, Jesus, joins the Father. In the judgment, it is revealed that Christ is the rightful ruler of the universe. Daniel states, “ ‘I was watching in the night visions, and behold, One like the Son of Man, coming with the clouds of heaven! He came to the Ancient of Days, and they brought Him near before Him. Then to Him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve Him. His dominion is an everlasting dominion, which shall not pass away, and His kingdom the one which shall not be destroyed’ ” (Dan. 7:13, 14, NKJV).
+
+In the judgment, in front of the entire universe, Christ is revealed as its rightful ruler. Satan’s kingdom is fully exposed as evil, deceptive, selfish, and destructive. Heaven reveals that the Godhead did everything possible to save all humanity at the cross. The little-horn power (papal Rome) and all earthly powers are condemned in the judgment. Judgment is passed in favor of the people of God. As a consequence, the work of judgment also is entrusted to them during the millennial reign with Christ in heaven after the Second Coming. For committed Christians loyal to Christ, trusting His grace, and clothed in His righteousness, the judgment is good news, not bad news.
+
+Daniel 7 was written during the first year of the reign of Belshazzar, king of Babylon. According to Siegfried Horn, PhD, archaeologist, and former teacher at Andrews University, “The Babylonians had a very pessimistic outlook about the hereafter. Their underworld, the realm of the deceased, was a dark land, full of dust, where the bread was bitter and the water brackish and where the dead wore garments of feathers to protect them from the cold. During the night their needs for light, food, and drink were thought to be supplied by the sun god.”—Ministry, December 1981 (vol. 54, no. 12), p. 25.
+
+Horn goes on to state, “There is a marked difference between the Egyptians and Babylonians regarding judgment in the hereafter. While we know little of what the Babylonians thought concerning their fate in the hereafter, the Egyptians have left numerous records of their beliefs. These mortuary texts range from the Pyramid Texts of the Old Kingdom via the Coffin Texts of the Middle Kingdom to the Books of the Dead of the New Kingdom. In the course of nearly 3,000 years their beliefs did change in some respects, as illustrated by these various texts. . . . These describe in great detail, both in word and picture, what a person could expect to experience after death and how he could ensure a favorable outcome of his trial before his divine judges.”—Page 27.
+
+The Egyptian Books of the Dead graphically portray the Egyptian concept of the judgment during the era of the New Kingdom. This idea is most fully developed in the section on the Hall of Judgment, where the destinies of the dead are determined. “Osiris sits in the Hall of Judgement [sic], the scales of justice before him, and waits to assess the deceased. Those who fail this test will be destroyed. . . . This complex, and lengthy, text contains the Negative Confession in which the deceased asserts (first to Osiris and then to forty-two other judges) that they are worthy by listing the crimes and offences [sic] they have not committed. Then the heart of the deceased was weighed against the feather of Ma’at.”—Ancient Egypt Online, “The Judgement [sic] of the Dead,” https://ancientegyptonline.co.uk/judgement -ofthedead/.
+
+If the individual’s bad deeds outweighed their good deeds, the balance scales would tip in favor of eternal gloom, and the heart would be thrown to a monster-like figure waiting to gobble it up. The Egyptian texts also reveal that almost no one could win an argument against the gods. The gods of Egypt appear to be callous, unloving, and ready to devour.
+
+It is important to notice the contrast between the ancient pagan concepts of judgment and the biblical concept, as outlined in the prophetic books of Daniel and Revelation. Revelation 14:7 states, “The hour of His judgment has come” (NKJV). This hour is not only the time of God’s judging this world, but it is also the hour of the revelation of God’s love and grace before the universe. When Christ died on the cross, the entire universe beheld the love of God. There can be no greater revelation of God’s love than Calvary. The Cross settles it: God is love.
+
+Yet, there are still questions to be answered in the cosmic conflict between good and evil. How does God’s love apply to each person? Has every person on planet Earth had sufficient evidence to make an eternal decision? Has God done everything possible to save every human being? Is there anything more that God could have done? To secure the universe forever and to enshrine, beyond a shadow of doubt, divine love within the hearts of the unfallen worlds and the redeemed of all ages, these questions must be answered, and they will be answered.
+
+At the consummation of the judgment, the entire universe will joyfully sing, “ ‘Great and marvelous are Your works, Lord God Almighty! Just and true are Your ways, O King of the saints! Who shall not fear You, O Lord, and glorify Your name? For You alone are holy. For all nations shall come and worship before You, for Your judgments have been manifested’ ” (Rev. 15:3, 4, NKJV). Both the saved and the lost, the redeemed and the wicked, will acknowledge that God is just, righteous, and loving in His actions toward us. The universe will be secure forever because His love has been revealed both on the cross and in earth’s final judgment.
+
+#### Part III: Life Application
+
+For Personal Reflection: This week’s lesson contains rich spiritual lessons for our daily lives. The first important principle to be gleaned from our study this week is that we are living in a unique hour of earth’s history; the hour of God’s judgment has come. The destinies of all humans are to be decided. Just as the Day of Atonement in the Jewish religious calendar was also a day of judgment when all of God’s people gathered at the ancient sanctuary, confessing their sins and examining their hearts, so today the call of the judgment hour is a call to confession, repentance, and the forsaking of sin. The judgment-hour call is an appeal from God to humans to be totally committed to Christ at the climax of earth’s history.
+
+The second vital truth in this week’s study is that, in Christ, we need not fear the judgment. We can have the assurance that our loving Lord will see us through. Jesus is not only our Judge, but He is also our defense attorney (John 5:22, 1 John 2:1). In earthly courts, if one’s judge is also one’s defense attorney, there would be a serious conflict of interest, but in heaven’s courtroom, the balance scales are tipped in our favor. If there is any way Jesus can save us, He will.
+
+The third Bible truth from our study this week is that, in the final analysis, Christ will be honored, Satan will be exposed, and the righteous will be redeemed. Understanding Revelation’s judgment gives us confidence that one day the entire universe will bow in worship before our Creator, Redeemer, and triumphant King.
+
+**Discuss:**
+
+`1.	How does it comfort you to know that your Judge is also your defense attorney?`
+
+`2.	What does it mean to be totally committed to Christ during the judgment hour at the climax of earth’s history?`
+
+`Notes`

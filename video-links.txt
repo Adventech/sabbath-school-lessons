@@ -1,0 +1,7 @@
+yt-dlp "https://www.youtube.com/watch?v=LqxDLo8n6TQ" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "tl/hope/tl-hope-2023-04-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=r0Bu_f1EwTQ" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "in/hope/in-hope-2023-04-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=OV-jfu4PRzs" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ro/tbs/ro-tbs-2023-04-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=kbAPHncKMxk" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/tbs/de-tbs-2023-04-10.mp4"

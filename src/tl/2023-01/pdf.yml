@@ -1,0 +1,29 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-Intro.pdf
+      title: Pagpapakilala
+      target: tl/2023-01/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-01.pdf
+      target: tl/2023-01/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-02.pdf
+      target: tl/2023-01/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-03.pdf
+      target: tl/2023-01/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-04.pdf
+      target: tl/2023-01/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-05.pdf
+      target: tl/2023-01/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-06.pdf
+      target: tl/2023-01/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-07.pdf
+      target: tl/2023-01/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-08.pdf
+      target: tl/2023-01/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-09.pdf
+      target: tl/2023-01/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-10.pdf
+      target: tl/2023-01/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-11.pdf
+      target: tl/2023-01/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/tl/2023-01/ABSG-2023-01-TL-12.pdf
+      target: tl/2023-01/12

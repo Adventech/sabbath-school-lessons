@@ -1,0 +1,20 @@
+---
+  title: "Umurimo w'Imana Umurimo Wanjye"
+  description: "Mu myaka yashize, kimwe mu binyamakuru by’Abadiventisiti cyasohoye inkuru ivuga iby'igishanga giteye ubwoba cyane. Igihe abantu babaga bacyambukiranya, inshuro nyinshi barananirwaga bakagwamo. Umuborogo wabo igihe babaga bari hafi gupfa, wumvwaga n’abari batuye mu mudugudu wari hafi aho. Byari biteye ubwoba cyane."
+  human_date: "Ukwakira · Ugushyingo · Ukuboza 2023"
+  start_date: "30/09/2023"
+  end_date: "29/12/2023"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Umwanditsi W'iki kigisho
+      value: "Petras Bahadur, Richard Elofer, Kleber Gonçalves, Jeff Scoggins, Clifmond Shameerudeen, Homer Trecartin, Doug Venn, Amy Whitsett na Greg Whitsett"
+    - name: Unoza Inyandiko Mukuru
+      value: "Clifford R. Goldstein"
+    - name: Unoza Inyandiko Wungirije
+      value: "Soraya Homayouni"
+    - name: Ushinzwe Imirimo yo Gusohora Inyandiko
+      value: "Lea Alexander Greve"
+    - name: Ushinzwe Ubwanditsi Wungirije
+      value: "Sharon Thomas-Crews"

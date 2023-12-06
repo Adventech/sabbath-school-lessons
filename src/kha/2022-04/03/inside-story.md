@@ -1,0 +1,26 @@
+---
+title:  'Da: Tbn Hospident Hynniewta'
+date:  14/10/2022
+---
+
+Ka Jingialeh Ha Ka Jingkit Bakhia – Bynta 1
+
+Nyngkong eh nga dap da ka jingsngewnguh ïa U Blei ba nga ïoh ïa kane ka lad ban phla ïa ka jingïashem bashimet jong nga ha shuwa ban ngan rung sha ka Balang Adventist.
+
+Shuwa ba ngan tip ïa ka Sabbaton kum ka sngi bahynñiew, khyndiat nga kwah ban ïathuh: la kha ïa nga  ha ka 16-1-1989 bad i mei jong nga i don ha ka Balang Presbyterian. La pynheh pynsan ïa nga ha ka balang Presbyterian bad nga dei u khun uba 4 napdeng ki 9 ngut shipara.
+
+Naduh dang khynnah nga ju smat ban leit jingïaseng bad nga ju shong ha ki ben ba shakhmat ban sngap ïa ka jingïalap bad jubab ïa ki jingkylli. Ynda nga la sdang samla, nga don ka jingthrang ban sngewthuh ne shemphang ïa ka Ktien U Blei. Nga thrang ruh ban ïalap ïa ka khubor jong U Blei. Hapdeng kata ka jingthrang nga la ïasnoh bad kawei ka kynhun ïalap hapoh ri Khasi Jaintia kaba don kumba 500 ngut ki dkhot hangta bad nga la sdang ban ïashim bynta ha ka jingleit ïalap kylleng kylleng. Dei ha kane ka por, ba nga sngewtynnad eh ban syllok bad ki riewshemphang ïa ka Ktien U blei bad ha kum kane ka por jong ka jingangnud jong nga bad ka dei ruh ha ka snem 2008 don u hynmen arkmie jong nga u la ïathuh ïa nga ba ki don ki nongpynpule Bibl khlem da tharai sniew ïa kano kano ka Balang, hynrei tang ban sngewthuh ïa ka Ktien U Blei.
+
+Te ngi la ïa pule Bible bad la pynpule da U Rangbah balang Nongmensong i Bah Bashanskhem Wahlang. Ha kata ka por ngi la ïapule na kawei ka miet sha kawei pat haduh  22 tylli ki miet bad hangta nga sngew long nod (zero) ha ka jinglong khristan jong nga mynshuwa bad baroh nga sngew ba ka long markhongpong ha ka jinghikai ia ka Baibl.  Bad da ka mynsiem basngur bad bakmen nga pdiang ïa ka bad nga la rai ban leit ïathuh ïa i mei bad ki hynmen jong nga baroh namar ba nga la tip ïa ka jingshisha kaba ma ki kim tip bad nga la pyrkhat ruh ba kin pdiang ïa ka. Hynrei markhongpong pynban kata ka long ba ka la don ka jingïapyni nia ryngkat ka jingdon lang bad i mei-ieit jong nga bad nga la sngewsih hangta ha la marwei namar ba ka long markhongpong bad ki jingpyrkhat basngur jong nga.
+
+Nga la ïathuh ha i mei ba ïa ka sngi kaba Hynñiew ba la thoh ha ka Bible ka dei ka sngi Saitjaiñ ym ka sngi Sunday bad nga la shim ïa ka Bible ban pule hynrei i mei i ong pynban ïa nga, “U khun u wan hikai Bible ïa nga ka kmie ka long pop” bad kumta i khlem shah ïa nga ban pule te nga la shu sngap noh, bad nga la kylli ha lade ‘kaei kane ïanga?’
+
+Hangta nga phai sha U Blei ha ryngkat ki jingkylli ba bun. Naduh kane ka por ka la sdang ka jingïaleh ha ka mynsiem jong nga hapdeng jong nga bad i mei katba nang mih ki sngi. I Mei i la ong ïa nga, “khun kane ka dei ka jingshah ïalam bakla jong u soitan bad i la phone sha i ma ma rangbah jong nga iba dei ruh i Pastor hapoh ka Balang Presbyterian bad u la ong ba nga dei ban leit ïakynduh ïa u ha Mawklot namar ha kata ka por u long u Principal. Kumta ngi la leit ban ïakren shaphang ka Sabbaton bad i ong ka dei ka jutang barim. Hynrei kata kam pynhun ïa nga nga kynmaw Hebru 4:9. Ngi la ïakren ruh shaphang ka jingpynbaptis hynrei ngam sngewhun nga la wan ryngkat bad i mei lem bad i hynmen kynthei jong nga. Nga la ïoh ban ïasyllok man ka miet bad ine i hynmen kynthei jong nga bad i ruh i la pdiang ï aka jingpyni jong nga. Te wat lada ngam pat shim ïaka jingpynbaptis ruh, hynrei nga la leit jingïaseng beit man lal ka Sabbaton. I Mei jong nga i la nang bitar ïa nga, bad i la wan ïalam biang da uwei u pastor bad ki tymmen basan ban pynphai biang ïa nga sha ka jingngeit barim. U Pastor u ong ba U Jisu U la pyndam ïaka Sabbaton bad nga la pyni ïa u kam long kumta bad nga la shim ïaka Baibl ban pynskhem ïa kata. Hynrei um shah ïa nga ban pule bad u ong pynban ïa nga, “phi mut ban ia challenge bad nga, phi long aiu ma phi, nga uba la pass Theoloji’ bad hangta nga la shu sngap noh khlem kren shuh  bad ngam kwah shuh hi ruh ban ïakren namar kim shah ïa nga ban pule ïa ka Baibl. Kumta ki la shu pynkut da ka jingdwai na ka bynta jong nga bad nga ruh na ka bynta jong ki.
+
+Hangne ruh la pynkut khlem da pynhun ïa i mei namar ba ngam pdiang shuh. Katba nang ïaid ki sngi ka jingïapher jingmut hapdeng jong nga bad i mei ka nangjur nangjur. Ha kawei ka Sabbaton i mei i wan da ka jingbitar bad ka jingthmu ban ai Case ïa ka balang Nongmensong, hynrei la khang noh ïa i da u Pastor Bantei bad u la ong ban wan ïakynduh shuwa ïa u. Khlem pynslem ma nga bad i mei ngi la ïaleit ha ka office jong u, hynrei hangne ruh kam shym la wanrah ka jinghun jingkmen shuh ïa i mei namar ba une u Pastor um lah hi ruh ban jubab ïa ki jingkylli jong nga bad ngi la wan phai noh sha shnong.
+
+Hadien kane ki tymmen basan ki Baibl man ki la wan ban pynsngewthuh ïa nga hynrei nga khlem pdiang shuh ïa kata baroh. I mei i la kutlad bad i la dum ka buit ka stad, i la shim sa kawei ka sienjam ban phah wan ïa nga sha shnong ha ka jingdon lang kiba haïing baroh bad hangta i la ong “lada mem kylla, ngin kyntait noh ïa me. Mem bit shuh ban wan shaïing bad ngim tip ei ei shuh shaphang jong me lada me long kumno kumno ruh.”
+
+Te nga la shu sngap khlem da ong ei ei shuh, hynrei ka jinghikai ka la neh skhem ha ka mynsiem jong nga.
+
+Yn dang bteng

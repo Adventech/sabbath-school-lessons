@@ -1,0 +1,30 @@
+---
+  video:
+    - artist: Bibliatanulmányok minden napra
+      thumbnail: https://egw.hu/ssq/bibliatanulmany.jpg
+      clips:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20230930.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20231007.mp4
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20231014.mp4
+          target: hu/2023-04/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/video/20231028.mp4
+          target: hu/2023-04/04
+    - artist: Biblia Iskola
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-05.mp4
+          target: hu/2023-04/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-06.mp4
+          target: hu/2023-04/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-07.mp4
+          target: hu/2023-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-2023-04-07.webp

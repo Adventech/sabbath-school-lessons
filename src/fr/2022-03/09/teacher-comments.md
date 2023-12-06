@@ -1,0 +1,50 @@
+---
+title:  Commentaires Moniteurs
+date:   26/08/2022
+---
+
+**Texte clé**: Philippiens 4:4
+
+Textes d’approfondissement: Jos. 5:13-6:20, 2 Chron. 20:1-30, Psaume 145, Actes 16:16-34, Phil. 4:4-7.
+
+### Partie I: Aperçu
+
+« Comment chanterions-nous les cantiques de l’Éternel Sur une terre étrangère? » déplorèrent les captifs juifs au bord des fleuves de Babylone lorsque leurs ravisseurs leur demandèrent de chanter certains des cantiques de Sion (Ps. 137:1-4, LSG). En effet, comment pouvons-nous chanter et louer Dieu au milieu de la souffrance et de la mort? Cette question incarne l’un des grands paradoxes du christianisme. Encore une fois, l’aspect essentiel ici est de comprendre la source de la joie et de la louange: Dieu Lui-même. Avoir une telle compréhension ne signifie pas que Dieu nous force, ou nous programme, à chanter Ses louanges. Au contraire, s’il était vrai que Dieu nous prédestine à Le louer, le monde le ferait à l’unisson; mais ce n’est évidemment pas le cas.
+
+Dieu est la source de la louange en étant qui Il est, notre Créateur et notre Sauveur, notre Roi et notre Père, notre Juge et notre Ami. Il est génial! Un principe de base de la vie chrétienne dans ce monde est que le fait de louer Dieu dans le creuset est possible lorsque nous vivons une vie de louange continue et non occasionnelle. Un autre principe est que le fait de louer Dieu en temps de crise découle de notre relation avec Dieu, dans laquelle nous Le connaissons, L’aimons et Lui faisons confiance.
+
+Thèmes de la leçon: La leçon de cette semaine met en évidence deux thèmes principaux:
+
+1. La joie et la louange sont enracinées dans notre relation profonde et significative avec Dieu, dans le cadre de notre vie comme un mode de vie.
+
+2. La joie et la louange chrétiennes ne sont pas seulement bénéfiques pour notre santé et pour surmonter les creusets, mais sont également utilisées par Dieu pour sauver les autres.
+
+### Partie II: Commentaire
+
+**La joie dans la souffrance**
+
+Horace Williams, Jr., qui a reçu un prix pour son œuvre intitulé Unleash the Power of Prayer in Your Life, identifie huit objectifs que Dieu atteint dans nos vies lorsqu’Il utilise notre propre souffrance à notre avantage. Selon Williams, Dieu utilise la souffrance pour « révéler le péché dans nos vies, développer notre foi, démolir notre orgueil, déterminer nos voies, démontrer Sa grâce, afficher Son amour, approfondir notre engagement envers Lui, apporter espoir, réconfort et joie ». (Horace Williams, Jr., The Furnace of Affliction: How God Uses Our Pain and Suffering for His Purpose, Kindle Edition, Black Lillie Press, 2020, p. 11.) Comment Dieu nous donne-t-Il la joie par la souffrance? Williams partage que « la joie est plus que le bonheur basé sur un résultat ou une circonstance. La joie est le délice surnaturel dans le dessein de Dieu pour nos vies. La joie est quelque chose que Dieu nous offre au milieu de notre douleur et de notre souffrance. Nous devons choisir de vivre avec joie. “Et moi, je chanterai ta force; dès le matin, je célèbrerai ta bonté. Car tu es pour moi une haute retraite, un refuge au jour de ma détresse” (Psaume 59:16). » (The Furnace of Affliction: How God Uses Our Pain and Suffering for His Purpose, p. 90.) Williams conclut que « vivre la joie ne signifie pas de ne plus éprouver la douleur. Au contraire, cela signifie que Dieu nous amène à un endroit où nous avons alors tendance à Lui demander: que veux-Tu que je voie dans cette circonstance pénible, Seigneur? » Ce que Williams lui-même voit dans ses souffrances, qui lui donne de la joie, c’est la présence de Dieu dans le présent et la vie éternelle dans l’avenir.
+
+**Polycarpe loue Dieu sur le bucher**
+
+L’empereur romain Antonin le Pieux (138-161 apr. J.-C.) avait continué la politique et la pratique de l’empereur Trajan de persécuter les chrétiens. En 155 après J.-C., une foule amena un groupe de chrétiens aux autorités de la ville de Smyrne en Asie Mineure pour être condamnés et punis. Lorsque les chrétiens avaient refusé de reconnaitre les dieux de l’empire, ils furent punis de mort. Par la suite, la foule exigea que Polycarpe, l’évêque de l’église de Smyrne, soit amené devant la ville. Disciple et ami de l’apôtre Jean, le vieux Polycarpe était également un leadeur chrétien largement connu et influent en Asie et au-delà. Lorsque Polycarpe fut finalement amené dans l’amphithéâtre, le proconsul essaya de le persuader de se rétracter et de maudire Christ.
+
+Le fidèle disciple de Jésus répondit: « Pendant quatre-vingt-six ans, je l’ai servi, et il ne m’a fait aucun mal. Comment pourrais-je maudire mon Roi, qui m’a sauvé? » Quand, finalement, le proconsul le condamna à être brulé sur le bucher et que les soldats l’attachèrent au bucher, Polycarpe pria et loua Dieu d’une voix forte: « Seigneur Souverain Dieu... Je Te remercie de m’avoir jugé digne de ce moment, afin que, conjointement avec Tes martyrs, je puisse participer à la coupe de Christ... Pour cela… Je Te bénis et je Te glorifie. Amen ». (Justo L. González, The Story of Christianity, vol. 1, The Early Church to the Dawn of the Reformation, édition révisée et mise à jour, New York: HarperCollins Publishers, 2010), p. 54.]
+
+Polycarpe n’était que l’un des milliers de chrétiens qui, suivant des personnages bibliques tels que David et Paul, louaient Dieu au milieu de la persécution et des épreuves de la vie. Ces premiers chrétiens louaient Dieu au milieu des flammes, des pieux, des amphithéâtres remplis d’animaux sauvages, des croix, des cellules de prison et des chambres de torture. Ils ne pensaient pas à l’injustice qui leur était faite; ils ne calculaient pas le rapport couts-avantages de leur acte. Ils aimaient et faisaient confiance à Dieu et n’hésitaient pas à prendre un engagement radical et ultime envers leur Dieu. Ils ne considéraient pas comme une épreuve le fait de mourir pour leur Seigneur. Ils considéraient plutôt que c’était un privilège de souffrir et de mourir pour leur Sauveur bienaimé. Ils n’hésitaient pas à faire confiance à Dieu et à Sa promesse de résurrection et considéraient la mort comme un moment les guidant sur leur chemin à la rencontre de leur Seigneur dans la gloire.
+
+Écrivant sur l’expérience de David alors qu’il faisait face à la rébellion de son fils Absalom, Ellen G. White nota l’habitude de David de recourir au chant et à la louange de Dieu dans les moments difficiles: « David, accablé de douleur et de fatigue après une première journée de marche, apprit qu’il devait, cette même nuit, fuir plus loin encore. Menacé par un fils choyé en qui il avait toute confiance et par des sujets qui lui avaient juré fidélité, le roi d’Israël chante néanmoins ce sublime cantique... Psaume 3:2-9. » Ellen G. White, Patriarches et prophètes, p. 677.
+
+Dans le chapitre 2 de La tragédie des siècles, intitulé « La persécution aux premiers siècles », Ellen G. White décrit comment le fait de chanter et louer Dieu donnait aux chrétiens la joie et la paix les plus authentiques et les plus profondes au milieu de l’affliction et de la persécution les plus féroces: « “Livrés aux tourments”, comme autrefois les serviteurs de Dieu, ils “n’acceptèrent point de délivrance, afin d’obtenir une meilleure résurrection”. Ils se rappelaient la parole du Maître les prévenant que la persécution endurée à cause de son nom devait être pour eux un sujet de joie, parce que leur récompense serait grande dans les cieux; car c’est ainsi que les prophètes avaient été persécutés avant eux. Ils se réjouissaient à tel point d’être jugés dignes de souffrir pour la vérité que leurs chants de triomphe dominaient le crépitement des flammes, lorsqu’ils étaient sur le bucher. Levant les yeux, ils voyaient par la foi Jésus et les saints anges qui les contemplaient avec amour et se réjouissaient de leur fermeté. Du ciel leur parvenaient ces paroles : “Sois fidèle jusqu’à la mort, et je te donnerai la couronne de vie.” Apocalypse 2:10. » La tragédie des siècles, p. 35.
+
+**Conditions pour se réjouir dans les creusets**
+
+Louer Dieu et se réjouir en Lui en cas de crise n’est possible que lorsque nous sommes certains de la bonté et de la justice de la cause ou de la personne pour laquelle nous combattons. Dans notre cas, la cause et la Personne sont Une. Se réjouir au milieu des épreuves et des persécutions est possible lorsque nous faisons confiance à Dieu, lorsque nous Le comprenons et comprenons Ses plans, lorsque nous sommes convaincus que Dieu est juste et bon et que Lui et Sa cause sont dignes de notre engagement total et radical. Ainsi, se réjouir au milieu des creusets jaillit de la prise de conscience (1) que Dieu est réel et qu’Il est bon; (2) qu’Il nous a créés, que nous sommes à Lui, qu’Il nous aime et que nous L’aimons en retour; (3) que le grand conflit est réel, que c’est l’attaque de Satan contre Dieu et contre nous, et que Dieu est de notre côté et que nous sommes à Lui; (4) que Dieu nous rachète de la puissance du péché et de Satan et que nous et Dieu, en Christ, sommes et serons victorieux; et (5) que la cause ou la mission de Dieu d’apporter le salut au monde entier vaut toutes les souffrances que nous devons endurer, même si nécessaire, jusqu’à la mort.
+
+### Partie III: Application
+
+1. Lisez Habaquq 3:16, 17 et pensez à la façon dont vous pouvez vous réjouir de votre propre souffrance. Comment pouvez-vous louer Dieu dans les moments d’affliction?
+
+2. La musique est une puissante motivation pour les activités humaines telles que le travail, l’exercice et le combat. Par exemple, les forces armées du monde entier ont chacune leur propre musique qui élève le moral de leurs soldats. Examinez la musique qui motive votre vie spirituelle. Combien de joie et de paix éprouvez-vous de votre vie de louange à Dieu?
+
+3. Engagez-vous à apprendre les anciennes et les nouvelles chansons par cœur, pour les chanter par cœur et avec compréhension. Lorsque vous êtes dans une situation difficile, chantez. Comment cette expérience vous aide-t-elle à devenir victorieux et/ou à vous soutenir?

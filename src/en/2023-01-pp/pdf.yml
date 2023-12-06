@@ -1,0 +1,82 @@
+---
+  pdf:
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-Intro.pdf'
+      target: en/2023-01-pp/introduction
+      title: Introduction
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L01.pdf'
+      target: en/2023-01-pp/01
+      title: Family Ties
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L02.pdf'
+      target: en/2023-01-pp/02
+      title: Spreading Good News
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L03.pdf'
+      target: en/2023-01-pp/03
+      title: The Invisible Kingdom
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L04.pdf'
+      target: en/2023-01-pp/04
+      title: More Secrets of the Kingdom
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L05.pdf'
+      target: en/2023-01-pp/05
+      title: Midnight Friend in Galilee
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L06.pdf'
+      target: en/2023-01-pp/06
+      title: Touching the Untouchable
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L07.pdf'
+      target: en/2023-01-pp/07
+      title: Unlimited
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L08.pdf'
+      target: en/2023-01-pp/08
+      title: 'Talents: Use Them or Lose Them'
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L09.pdf'
+      target: en/2023-01-pp/09
+      title: Service With a Smile
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L10.pdf'
+      target: en/2023-01-pp/10
+      title: Dead or Asleep?
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L11.pdf'
+      target: en/2023-01-pp/11
+      title: Two Sad Sisters
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-L12.pdf'
+      target: en/2023-01-pp/12
+      title: A Resurrection Promise
+      start_date: 18/03/2023
+      end_date: 24/03/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-Activities.pdf'
+      target: en/2023-01-pp/activities
+      title: Activities
+      start_date: 18/03/2023
+      end_date: 24/03/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-MemoryVerses.pdf'
+      target: en/2023-01-pp/memory-verses
+      title: Memory Verses
+      start_date: 18/03/2023
+      end_date: 24/03/2023
+    - src: 'https://www.juniorpowerpoints.org/assets/juniors/Lessons/2023/Q1/English/Student/PP-23-Q1-Parents.pdf'
+      target: en/2023-01-pp/parents
+      title: Parents
+      start_date: 18/03/2023
+      end_date: 24/03/2023

@@ -40,7 +40,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     audioSource.audio.push(audio)
                 }
 
-                let src = srcFunc(targetDate, week, day)
+                let src = srcFunc(targetDate, week, day, quarterlyInfo.quarterly.slice(0, 7))
                 let track = audio.tracks.find(e =>
                     e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}` ||
                     e.src === src
@@ -54,7 +54,8 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                 let response = await axios.head(src);
                 if (response.status === 200 &&
                     response.headers['content-type'].indexOf('audio/') >= 0
-                    || response.headers['content-type'].indexOf('application/mp3') >= 0)
+                    || response.headers['content-type'].indexOf('application/mp3') >= 0
+                    || response.headers['content-type'].indexOf('application/wav') >= 0)
                 {
                     console.log(`Found ${title} for ${targetDate.format(DATE_FORMAT)}. Will commit`)
                     audio.tracks.push({
@@ -95,11 +96,11 @@ let ellenWhiteAudio = async function () {
             imageRatio: "square",
             tracks: []
         },
-        function (targetDate, week, day) {
-            return `https://egwhiteaudio.com/wp-content/uploads/${moment().format("YYYY/MM")}/${targetDate.format("YYYY-MM-DD")}.mp3`
+        function (targetDate, week, day, targetQuarter) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${targetQuarter}/en-egw-${targetQuarter}-${String(week).padStart(2, '0')}-${String(day).padStart(2, '0')}.mp3`
         },
         2,
-        5
+        7
     )
 }
 
@@ -114,7 +115,9 @@ let indonesiaAudio = async function () {
         function (targetDate, week, day) {
             let mapping = [7, 1, 2, 3, 4, 5, 6]
             return `https://podcasts.awr.org/Audio/Asia/LowResWeb/INDJA/SSL/INDJAaSSLx_${targetDate.format("YYYYMMDD")}_${mapping[day-1]}.mp3`
-        }
+        },
+        2,
+        7
     )
 }
 
@@ -128,7 +131,9 @@ let hungarianAudio = async function () {
         },
         function (targetDate, week, day) {
             return `https://bibliatanulmanyok.hu/tanulmanyok/audio/${targetDate.format("YYYYMMDD")}.mp3`
-        }
+        },
+        2,
+        7
     )
 }
 
@@ -152,7 +157,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2022/03/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2023/10/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -178,7 +183,50 @@ let romanianAudio = async function () {
                 "vineri"
             ]
 
-            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2021/trim3/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2023/trim4/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
+let czechAudio = async function () {
+    await dailyAudio(
+        "cs",
+        "Průvodce studiem Bible",
+        {
+            artist: "Průvodce studiem Bible",
+            tracks: []
+        },
+        function (targetDate, week, day) {
+            let mapping = [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "inside-story"
+            ]
+
+            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q4/2023_Q4_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+        },
+        2,
+        7
+    )
+}
+
+let ukrainianAudio = async function () {
+    await dailyAudio(
+        "uk",
+        "Суботня Школа",
+        {
+            artist: "Суботня Школа",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            return `https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/${targetQuarter}/${targetDate.format('YYYY-MM-DD')}.mp3`
         },
         2,
         7
@@ -191,6 +239,8 @@ let run = async function () {
     await spanishAudio();
     await romanianAudio()
     await hungarianAudio();
+    await czechAudio();
+    await ukrainianAudio();
 }
 
 run().then(() => {

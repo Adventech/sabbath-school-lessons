@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-Intro.pdf
+      target: ko/2023-04/01
+      title: 소개
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L1.pdf
+      target: ko/2023-04/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L2.pdf
+      target: ko/2023-04/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L3.pdf
+      target: ko/2023-04/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L4.pdf
+      target: ko/2023-04/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L5.pdf
+      target: ko/2023-04/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L6.pdf
+      target: ko/2023-04/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L7.pdf
+      target: ko/2023-04/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L8.pdf
+      target: ko/2023-04/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L9.pdf
+      target: ko/2023-04/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L10.pdf
+      target: ko/2023-04/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L11.pdf
+      target: ko/2023-04/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L12.pdf
+      target: ko/2023-04/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ko/2023-04/2023-4-ABSG-L13.pdf
+      target: ko/2023-04/13

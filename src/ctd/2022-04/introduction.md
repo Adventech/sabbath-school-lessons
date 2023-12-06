@@ -1,0 +1,19 @@
+### Sihna Leh Laitah Hunah: Eite’ Lam-etna
+
+Pasian in mihing pen ki itna sungah Amah leh Ama’’ bawlsa khempeuh tawh gualnuamsa ding in hong bawl ahi hi. Ahihhang tua gualnopna pen, thuthukpi tawh vantung panin hong piang mawhna in susia ahih manin (Isa. 14:12-15; Ezek. 28:12-19; Mang 12:7-12) Adam leh Eve tenupa in hong puuklawh uhhi (Pian. 3:1-19; Rom. 5:12).
+  
+Dahhuai takin, mihing bek hi lo nuntakna khempeuh in sihna masuanta uhhi. Tua sihna pen singkung tungpan a tehpulhte leh paakbeel sungpan paakvulte, i ganno khawite sileekleek, it leh ngaihte zong ngongtat takin hong kilakkhiatsak cihte in honglak hi. Leitung in thuaksiatna tawh kidim in luankhi theng theilo hi.
+
+A hoihzaw leitung lam-etna tawh, mihingte in amau teennop daan leitung geelgeel uh a, tuapen “paradise” ci uhhi. Genteh paktheih dingin, 1933 kumin English mi laguiphuak siampa James Hilton in Lost Horizon kici ama’ gelh laibu hawmkhia a, tuakhit a sawtlo in tua laibu sung a thute melmuh tongsan in kibawlkhia leuleu hi. A tangthu paizia bel, vanleng khat a datsi bei a hih manin Himalya Mualte tungah kiasuk cihi. Vanleng hawlpa sipah in, a suakta vanleng tuangte pawlkhat pen, Tibet minamte in honkhia uh a, a nuammahmah Shangri La zaangtam ah omsak uh cihi. Mundang tawh kizopna peuhmah omvetlo in, amauteng ki-itna leh pilna tawh kidim uhin, nuamtak in nungta tawntung uh cihi.   
+
+Tuabel phuaktawm tuanthu hilel hi. 
+
+A sithei mihingte ihi uh a, tumahmah a dingin khamuanna leh mailam a ding lametna kisam hihang. Swiss minam laisiangtho siampa Emil Brunner in, “Oxygen pen tuap ading hi a mihing nuntakna ahi hi. Oxygen lakhia leng husam in ki si ahihmah bangin; lam-etna kilakhia leh, mihingte husang zonawnlo, lungkia dikdek, ngaihsutna bei, kha thanem gawp in, leitungah omna in kimanna neilo zah dongin kingaihsun hi. Mihing’ pumpi in oxygen tawh nungta ahih mahbang in, mihing’ mailam in zong lam-etna tawh a nungta ahi hi.” —Emil Brunner, Eternal Hope (London: Lutterworth Press, 1954), p. 7. Tuamah bangin laisiangtho’ lam-etna in, eite’ mailam tawntung nuntakna lam hong masuansak hi. 
+
+Shangri-La a Lost Horizon tuanthu tawh enkakleng, eite’ lamet tawntung nuntakna pen “mihingte phuahtawm tuanthute siksan hi lo” (2Pet. 1:16) cihi. Tua pen a muanhuai mahmah, Pasian in hong kamciam ngiat khitui, natna leh sihna omnawnlohna mun (Mang. 21:1–5) ahi hi. Hibangin a manpha kamciam in nungzuite’ pawlpi leh a khang a khang a Christian pawlpi huzaap in kipkho sakzo hi. Tua in a vangliatna kiamngeilo ahih manin, tuni tuhun eite adingin zong tua kamciam in khiatna neilai hi. I mailamthu ding hong lungmuangsak hi. Christ sunga a sisa itleh ngaihte zong a nungta tawntung dingin hong thokik ding cih thukip hongpia hi.
+
+Hih i thusinna pen sialehpha Kidona Lianpi sungah thupaipi-nih omna honglak hi. Khatpen mawhna leh sihna hong kipatna ahi hi. A dangkhat pen, hih leitung in ama’ dinmun ngeina a tunkik theihna ding in Pasian in thuaktentan in nasem ahihna ahi hi. A sithei mihing ihihna leh thawhkikna in tawntung nuntakna hong masuansak aihna kician takin honghilh hi. A taktak in cileng, Christ in Ama’ sihna tawh sihna vangliatna tungah gualzo khinta ahih manin, sihna i kihta nawnkei uhhi. Amah in “sihna leh misite’gam ukpa” ahihlam i theitelta hi (Mang. 1:18).
+
+Tu quarter buppi sungah, Zeisu hongpiaksa lam-etna limlang tungtawnin, sihna’thu i sin ding uhhi.
+
+_Alberto R. Timm, PhD (Andrews University), pen Ellen G. White Estate, Inc. ah associate director, Biblical Research Institute Committee (BRICOM) leh Geoscience Research Institute Committee (GRICOM) ah zong member khat ahi hi. A beisa hunsungah Latin-American Adventist Theological Seminary (LATS) ah zong President a hingei hi._

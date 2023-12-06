@@ -1,0 +1,10 @@
+---
+  default:
+    name: "Съботноучилищните"
+    order: 100
+  cq:
+    name: "InVerse"
+    order: 200
+  iv:
+    name: "InVerse"
+    order: 200

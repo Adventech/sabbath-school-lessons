@@ -1,0 +1,17 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Begin/Begin_B2_Apr_S.pdf'
+      target: zh/2023-02-bg/01
+      title: 海边的早餐
+      start_date: 25/03/2023
+      end_date: 28/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Begin/Begin_B2_May_S.pdf'
+      target: zh/2023-02-bg/02
+      title: 耶稣前往教堂
+      start_date: 28/04/2023
+      end_date: 26/05/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Begin/Begin_B2_June_S.pdf'
+      target: zh/2023-02-bg/03
+      title: 五饼儿鱼
+      start_date: 27/05/2023
+      end_date: 23/06/2023

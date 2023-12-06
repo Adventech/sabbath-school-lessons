@@ -1,0 +1,52 @@
+---
+title:  Teacher Comments
+date:  21/04/2023
+---
+
+#### Part I: Overview
+
+The three angels’ messages comprise, collectively, a divine, heaven-sent message whose purpose is to prepare the world for the second coming of Jesus. These messages are designed by God to have a practical impact on our lives. They reveal Jesus’ plan for end-time living. The three angels’ messages are much more than theoretical doctrines that have little impact on our lives. Although they carry a solemn warning to the unconverted that cannot be ignored, their major purpose is to draw us closer to Jesus.
+
+This week’s lesson focuses on two phrases of the first angel’s message: first, the expression “fear God,” and second, “give glory to Him.” As we shall discover in our study this week, fearing God refers to respect, awe, and wonder at His infinite wisdom, His incredible power, and His amazing grace. Fearing God also is a state of mind, one that is loyal to God. In an age of self-inflated importance, consumerism, and self-centeredness, the first angel calls us to live a God-centered life rather than a self-centered life. Giving glory to God refers to how we live. Giving God glory impacts every area of our lives, from what we eat and drink, to what we take into our minds, and to the places we go. Giving glory to God influences the things we read and what we view on the internet or television.
+
+Our lesson will examine closely these two phrases to discover the impact they have on our lives in the twenty-first century. We will explore together how understanding the gospel of Jesus Christ enables us to both “fear God” and “give glory to Him.”
+
+#### Part II: Commentary
+
+To “fear God” means to live a God-centered life. Rather than being restrictive, short-circuiting our joy and limiting our happiness, making God the center of our lives is the very foundation of authentic identity, true purpose, and genuine joy. Jesus clearly links knowing and doing His will with our happiness.
+
+In John 13:17, He states, “ ‘If you know these things, blessed are you if you do them’ ” (NKJV). A life wrapped up in self is a very small package. Being locked in the prison of our own self-centered behavior is a miserable way to live. Knowing Christ, obeying Christ, and living for something bigger than ourselves brings life’s greatest joy. The One who made us has designed us to live, really live, for the delights of His kingdom. Psalm 16:11 puts it this way: “You will show me the path of life; in Your presence is fullness of joy; at Your right hand are pleasures forevermore” (NKJV).
+
+The SDA Bible Commentary makes this insightful observation regarding the expression “fear God” in Revelation 14:7: “The message to fear God is especially timely in the period represented by the preaching of this angel, for men are worshipping gods of materialism and pleasure and many others of their own devising.”—Volume 7, p. 827.
+
+“A series of studies . . . published in the journal Motivation and Emotion [T. Kasser et al., “Changes in Materialism, Changes in Psychological Well-being: Evidence From Three Longitudinal Studies and an Intervention Experiment,” Motivation and Emotion 38 (2014), pp. 1-22] showed that as people become more materialistic, their sense of well-being and purpose is reduced and if they become less materialistic, it rises. While materialism is good for the economy, fueling growth, it can have a negative impact on a personal level, leading to anxiety and depression. Consumerism can also damage relationships, communities, and the environment.”—Kirstie Pursey, “How Consumerism and Materialism of Modern Society Make Us Unhappy, Lonely, and Unconfident,” https://www.learning-mind.com/consumerism-and-materialism-unhappy/.
+
+The appeal of Revelation 14:7 to “fear God” is an appeal to find our true happiness in doing God’s will. Revelation 14:7 is an appeal to find in Christ our highest delight and deepest joy. When we surrender our lives to Jesus, obedience springs naturally from the heart. Duty becomes a delight and sacrifice for the cause of Christ a pleasure.
+
+Ellen G. White states it this way: “All true obedience comes from the heart. It was heart work with Christ. And if we consent, He will so identify Himself with our thoughts and aims, so blend our hearts and minds into conformity to His will, that when obeying Him we shall be but carrying out our own impulses. The will, refined and sanctified, will find its highest delight in doing His service. When we know God as it is our privilege to know Him, our life will be a life of continual obedience. Through an appreciation of the character of Christ, through communion with God, sin will become hateful to us.”—The Desire of Ages, p. 668.
+
+To “give glory” to God means to honor God in our lifestyle. Giving God glory involves the recognition that we are ambassadors for Christ. We are the light of the world—the salt of the earth. The word used for “glory” in Revelation 14:7 is doxa. This word is used regularly in the New Testament. It may have two distinct meanings. The first meaning indicates honor, fame, or recognition. In this sense, to give God glory would mean to give Him the honor or recognition He deserves. Rightly so, for He created us. He redeems us. Daily He sustains our lives, and He is coming again for us. At the same time, there is another aspect of the word doxa that is often overlooked. In some instances, in the New Testament, doxa can signify brightness or glorious appearance. According to the apostle Paul, the glory of God shone forth in the face of Jesus Christ (2 Cor. 4:6). “As this glory of God revealed in Christ shines forth from the gospel into the heart and mind of the believer, it transforms him into ‘light in the Lord’ (Eph. 5:8). Thus ‘we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory’ (2 Cor. 3:18).”—The SDA Bible Commentary, vol. 6, p. 503. To embody this twofold meaning, honoring God and guarding His reputation while letting the brightness of His glory shine through our lives, ought to be the goal of each Christian.
+
+This twofold meaning leads us to a few basic questions. Can we give God glory if we fail to care for our bodies? Is it possible to honor God when we are willfully violating His principles of health? What relationship do our physical lifestyle habits have to our spiritual health?
+
+In 1 Corinthians 6:19, 20, the apostle Paul provides an answer to these questions: “Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own? For you were bought at a price; therefore glorify God in your body and in your spirit, which are God’s” (NKJV).
+
+The apostle adds to our understanding of what it means to glorify God: “Therefore, whether you eat or drink, or whatever you do, do all to the glory of God” (1 Cor. 10:31, NKJV). When we surrender our lives to Christ, our bodies become the temple of the Holy Spirit. An unbeliever certainly may become impressed by the Spirit, convicted by the Spirit, and moved by the Spirit, but the Holy Spirit takes up residence in the life of the committed believer. Our bodies become the dwelling place of the Spirit of God. This tenancy is indeed an awesome thought: the Third Person of the Godhead takes residence in the lives of believers. Thus, to defile our bodies and willingly violate the laws of health is to dishonor our Maker. We are Christ’s because He created us and has redeemed us.
+
+There is another reason it is vitally important to God that we give Him glory in our health practices. Spirituality and health are closely aligned. The Holy Spirit communicates with us through the spiritual faculties of our brains. If the brain is nourished by a poor quality of blood because of poor health habits, we will be less capable of discerning the voice of the Holy Spirit. Our understanding of the plan of salvation and Bible truth will be obscured and compromised. If we are destroying our bodies because of our willful neglect of our health, our witness to the world certainly will not be one that gives God glory. This principle applies not only to our health habits but also to the things we watch on television and read in magazines and books, the content that occupies us on the internet, and a host of other lifestyle practices.
+
+To fear God is an invitation to live a God-centered life, giving Him glory in all that we do. This invitation is the call of the judgment hour, a call that will prepare a people for the coming of Jesus. Through His grace and by His power, we can give glory to Him, honor His name, and shine as lights in this world of darkness. Such a life is our calling and our destiny.
+
+#### Part III: Life Application
+
+Read and Reflect: Several years ago, Pastor Mark Finley was helping an older woman quit smoking. They studied the Bible together, counseled, and prayed together, but nothing seemed to work. She just did not have the motivation to quit smoking. In fact, she enjoyed smoking and only halfheartedly desired to quit. One day when Pastor Finley visited this elderly grandmother, she had a big smile on her face and exclaimed, “Pastor Finley, I quit, I quit! I haven’t smoked for a number of days!” Eager to discover what made the change, the pastor asked, “What motivated you?” She simply responded, “My little seven-year-old granddaughter.” She explained, “One evening I was sitting in my favorite chair, smoking away, and my granddaughter climbed up on my lap and said, ‘Grandma, when I get big, I want to smoke just like you.’ That was it, pastor. I quit for her sake.”
+
+If a grandma can quit smoking for her granddaughter’s sake, can we not, by the grace of God and the power of His Spirit, give up any habit not in harmony with His will for Christ’s sake? The devil says that it is impossible to overcome our evil habits and sinful tendencies. Jesus says, “ ‘To him who overcomes I will give to eat from the tree of life. . . . Be faithful unto death, and I will give you the crown of life’ ” (Rev. 2:7–10, NKJV). Jesus promises us the strength to be victorious in the battle with evil.
+
+**Ask your students:**
+
+`1.	How is the message of the three angels both a call to obedience and a call to godly living in this crisis hour of earth’s history?`
+
+`2.	In what ways does Jesus, our Savior and Lord, provide us with both the motivation and power to overcome?`
+
+`Notes`

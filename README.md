@@ -12,11 +12,13 @@ This repository contains all lessons for the Sabbath School app (for all platfor
 
 ## Copyright
 
-Content © 2020 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.
+Content © 2023 General Conference of Seventh-day Adventists®. All rights reserved. No part of the Adult Sabbath School Bible Study Guide may be edited, altered, modified, adapted,  translated, re-produced, or published by any person or entity without prior written authorization from the General Conference of Seventh-day Adventists®. The division offices of the General Conference of Seventh-day Adventists® are authorized to arrange for translation of the Adult Sabbath School Bible Study Guide, under specific guidelines. Copyright of such translations and their publication shall remain with the General Conference.
 
 ## Contribution
 
-[Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
+- [Click here](https://medium.com/p/https-medium-com-imasaru-how-to-contribute-to-adventech-6818aaca56c7) to read the lesson contribution guide.
+- [Click here](https://medium.com/@tittoft/cara-kontribusi-pelajaran-sekolah-sabat-ke-adventech-8d4936bc4edf) to read the lesson contribution guide in Bahasa Indonesia.
+
 
 ## Acknowledgments
 
@@ -31,141 +33,89 @@ Yes, it exists. [Click here](https://adventech-sabbath-school.api-docs.io/v1/get
 
 ## Languages matrix
 
-Below is current list of languages and capabilities implemented
+Below is current list of languages available in the app
 
-| Language  | Adult Lesson | Bible verses | Inside Story | Teacher Edition | Youth Lesson |
-|:--|:-:|:-:|:-:|:-:|:-:|
-|🇦🇱 Albanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇿🇦 Afrikaans|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇪🇹 Amharic|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇸🇦 Arabic|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇦🇲 Armenian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇧🇬 Bulgarian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇨🇳 Chinese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇭🇷 Croatian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇨🇿 Czech|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇩🇰 Danish|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
-|🇳🇱 Dutch|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇺🇸 English|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇪🇪 Estonian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇫🇯 Fijian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇫🇮 Finnish|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇫🇷 French |✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
-|🇩🇪 German|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
-|🇬🇪 Georgian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇬🇷 Greek|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇮🇱 Hebrew|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇮🇳 Hindi|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇵🇭 Hiligaynon|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇭🇺 Hungarian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|❌ No|
-|🇯🇵 Japanese|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇮🇸 Icelandic|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇵🇭 Ilocano|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇮🇩 Indonesian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇮🇹 Italian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇰🇷 Korean|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇱🇦 Lao|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇱🇻 Latvian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇱🇹 Lithuanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇲🇰 Macedonian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇲🇾 Malay|✅ Yes|✅ Yes|❌ No|✅ Yes|❌ No|
-|🇲🇳 Mongolian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇳🇵 Nepali|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇳🇴 Norwegian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇮🇷 Persian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇵🇱 Polish|✅ Yes|✅ Yes|❌ No|❌ No|✅ Yes|
-|🇷🇴 Romanian|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇷🇺 Russian|✅ Yes|✅ Yes|✅ Yes|✅ Yes|✅ Yes|
-|🇷🇸 Serbian|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
-|🇱🇸 Sesotho|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
-|🇱🇰 Sinhala|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
-|🇸🇰 Slovak|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
-|🇸🇮 Slovenian|✅ Yes|✅ Yes|❌ No|❌ No |❌ No|
-|🇪🇸 🇲🇽 Spanish|✅ Yes|✅ Yes|❌ No|✅ Yes|✅ Yes|
-|🇰🇪 Swahili|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇸🇪 Swedish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇵🇭 Tagalog|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇮🇳 Tamil|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇹🇭 Thai|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇹🇷 Turkish|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇺🇦 Ukrainian|✅ Yes|✅ Yes|✅ Yes|❌ No|❌ No|
-|🇻🇳 Vietnamese|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇿🇦 Xhosa|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-|🇿🇦 Zulu|✅ Yes|✅ Yes|❌ No|❌ No|❌ No|
-
-#### Current summary of lessons for 2020-01
-
-##### 2020-04
-
-|  | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09 | 10 | 11 | 12 | 13 |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 🇿🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇸🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇧🇬  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇨🇿  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇩🇰  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇩🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇬🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇺🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇺🇸 -CQ |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇺🇸 -ER |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇪🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇪🇸 -CQ |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🇪🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇫🇮  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇫🇯  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇫🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇱  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇵🇭  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇭🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇭🇺  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇦🇲  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇩  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🇮🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇹  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇯🇵  |  ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🇬🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇰🇭  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇰🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇱🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇱🇹  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇱🇻  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇲🇬  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🇲🇰  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇲🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇲🇾  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇳🇵  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇳🇱  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇳🇴  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇵🇱  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇷🇴  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🇷🇺  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇱🇰  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇸🇰  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇸🇮  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇦🇱  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇷🇸  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇿🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇸🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇰🇪  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇮🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇹🇭  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇵🇭  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇹🇷  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇺🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇻🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇿🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇨🇳  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇨🇳 -HANT |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 🇿🇦  |  ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-
-_* ER - Easy Reading_
-_* AY - Young Adults_
-_* CQ - Collegiate Quarterly_
+- 🇿🇦 Afrikaans
+- 🇦🇱 Albanian
+- 🇪🇹 Amharic
+- 🇸🇦 Arabic
+- 🇦🇲 Armenian
+- 🇮🇩 Batak Toba
+- 🇧🇬 Bulgarian
+- 🇦🇩 Catalan
+- 🇵🇭 Cebuano
+- 🇨🇳 Chinese
+- 🇭🇷 Croatian
+- 🇨🇿 Czech
+- 🇩🇰 Danish
+- 🇳🇱 Dutch
+- 🇺🇸 English
+- 🇪🇪 Estonian
+- 🇲🇲 🇮🇳 Falam Chin
+- 🇫🇯 Fijian
+- 🇫🇮 Finnish
+- 🇫🇷 French 
+- 🇮🇳 Garo 
+- 🇩🇪 German
+- 🇬🇪 Georgian
+- 🇬🇷 Greek
+- 🇮🇳 Gujarati
+- 🇭🇹 Haitian Creole
+- 🇮🇱 Hebrew
+- 🇮🇳 Hindi
+- 🇵🇭 Hiligaynon
+- 🇭🇺 Hungarian
+- 🇯🇵 Japanese
+- 🇧🇳 Iban
+- 🇮🇸 Icelandic
+- 🇵🇭 Ilocano
+- 🇮🇩 Indonesian
+- 🇮🇹 Italian
+- 🇮🇳 Kannada
+- 🇮🇳 Khasi
+- 🇰🇭 Khmer
+- 🇷🇼 Kinyarwanda
+- 🇰🇷 Korean
+- 🇱🇦 Lao
+- 🇱🇻 Latvian
+- 🇱🇹 Lithuanian
+- 🇲🇰 Macedonian
+- 🇲🇬 Malagasy
+- 🇲🇾 Malay
+- 🇮🇳 Malayalam
+- 🇮🇳 Marathi
+- 🇮🇳 Mizo
+- 🇲🇳 Mongolian
+- 🇲🇲 Burmese
+- 🇳🇵 Nepali
+- 🇳🇴 Norwegian
+- 🇮🇳 Odia
+- 🇮🇷 Persian
+- 🇵🇱 Polish
+- 🇲🇲 Pwo Karen
+- 🇷🇴 Romanian
+- 🇷🇺 Russian
+- 🇧🇮 Ikirundi
+- 🇷🇸 Serbian
+- 🇱🇸 Sesotho
+- 🇲🇲 S'gaw Karen
+- 🇿🇼 Shona
+- 🇱🇰 Sinhala
+- 🇸🇰 Slovak
+- 🇸🇮 Slovenian
+- 🇪🇸 🇲🇽 Spanish
+- 🇰🇪 Swahili
+- 🇸🇪 Swedish
+- 🇵🇭 Tagalog
+- 🇮🇳 Tamil
+- 🇲🇲 🇮🇳 Tedim Chin
+- 🇮🇳 Telugu
+- 🇹🇭 Thai
+- 🇹🇷 Turkish
+- 🇺🇦 Ukrainian
+- 🇻🇳 Vietnamese
+- 🇿🇦 Xhosa
+- 🇿🇦 Zulu
 
 ### Language Roadmap
 
@@ -180,7 +130,7 @@ _* CQ - Collegiate Quarterly_
 - [x] Add Korean Language 🇰🇷
 - [x] Add Chinese Simplified Language 🇨🇳
 - [x] Add Afrikaans Language 🇿🇦
-- [ ] Add Malayalam Language 🇧🇳 🇲🇾
+- [x] Add Malayalam Language 🇧🇳 🇲🇾
 - [x] Add Nepali Language 🇳🇵
 - [ ] Add SiSwati Language 🇸🇿
 - [x] Add Sesotho Language 🇱🇸

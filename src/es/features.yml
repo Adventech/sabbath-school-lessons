@@ -24,3 +24,8 @@
     title: Video
     description: Vea la discusión semanal de la lección para profundizar su estudio
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Diseño original
+    description: Mejore su estudio de la lección utilizando el diseño de impresión original con numerosas herramientas de anotación.
+    image: "v1/images/features/feature_original_layout.png"

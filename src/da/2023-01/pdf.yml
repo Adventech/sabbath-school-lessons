@@ -1,0 +1,26 @@
+---
+  pdf:
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/01-BS-1Q23-Medlem-af-Guds-familie.pdf
+      target: da/2023-01/01
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/02-BS-1Q23-Guds-pagt-med-os.pdf
+      target: da/2023-01/02
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/03-BS-1Q23-Tiendeaftalen.pdf
+      target: da/2023-01/03
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/04-BS-1Q23-Gaver-til-Jesus.pdf
+      target: da/2023-01/04
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/05-BS-1Q23-Hvad-goer-jeg-med-gaeld.pdf
+      target: da/2023-01/05
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/06-BS-1Q23-At-samle-sig-skatte-i-himlen.pdf
+      target: da/2023-01/06
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/07-BS-1Q23-Mod-en-af-disse-mine-mindste.pdf
+      target: da/2023-01/07
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/08-BS-1Q23-Planer-for-fremgang.pdf
+      target: da/2023-01/08
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/09-BS-1Q23-Vogt-jer-for-griskhed.pdf
+      target: da/2023-01/09
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/10-BS-1Q23-At-give-tilbage.pdf
+      target: da/2023-01/10
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/11-BS-1Q23-Gode-raad-til-vanskelige-tider.pdf
+      target: da/2023-01/11
+    - src: https://s3.eu-central-1.amazonaws.com/mg-web-site-adventist.dk/2022/12/12-BS-1Q23-Trofasthedens-beloenning.pdf
+      target: da/2023-01/12

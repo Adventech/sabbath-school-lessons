@@ -1,0 +1,17 @@
+### Prievaizdavimas dėl Viešpaties - kol Jis ateis 
+
+Mums sunku iki galo suvokti santykius, kurių mūsų Dievas, visatos Kūrėjas, tikisi turėti su mumis, žmonėmis. (Pati su tuo susijusi mintis yra stulbinanti!) „Žiūrėkite, kokia meile apdovanojo mus Tėvas: mes vadinamės Dievo vaikai ir esame!“ (1 Jn 3, 1) Arba kaip rašė E. Vait: „Ar kas gali prilygti šiam žmogaus orumui? Kokią aukštesnę padėtį galime užimti, nei vadintis begalinio Dievo vaikais? ... Ar gali tam prilygti kokia nors pasaulietiška garbė?“ (E. Vait, „God’s Amazing Grace“, p. 341) Tik šio nuodėmės persmelkto pasaulio tamsa verčia mus ne iki galo branginti šią padėtį, mums suteiktą Jėzuje. 
+
+Tačiau, jei nebūsime atsargūs, pasaulis ir tai, ką jis siūlo, atitolins mus nuo Kristaus. Dievo Žodis mus įspėja dėl šėtono pagundų ir klastų. „Kas geidžia pralobti, pakliūva į pagundą ir į spąstus bei į daugelį neprotingų ir kenksmingų aistrų, kurios žmones sugadina ir pražudo. Visų blogybių šaknis yra meilė pinigams. Kai kurie, jai pasidavę, nuklydo nuo tikėjimo ir patys save drasko daugybe kančių“ (1 Tim 6, 9–10). 
+
+Tačiau Viešpats mus moko, kaip užsidirbti pinigų ir juos protingai panaudoti bei neleisti, kad jie, kaip įspėjo Paulius, virstu tuo, kas „sugadina ir pražudo“. Daugiau nei 2000 Šventojo Rašto tekstų, kalbančių apie pinigus ir turtą bei mūsų nusistatymą jų atžvilgiu, Dievas pateikia praktinių nurodymų, kaip pakilti virš gyvenimo įtampos ir finansiškai ištikimai valdyti tai, kas mums duota. 
+
+Šį ketvirtį tyrinėsime Dievo idealą santykiams su Juo ir aiškiai pamatysime, kaip galime sukurti itin gilų pasitikėjimą, kad išliktume Jam ištikimi, net negalint pirkti ar parduoti (žr. Apr 13, 17). Tačiau toks tikėjimas neatsiranda per naktį; ištikimai tvarkydami tai, ką Dievas mums pavedė, galime net dabar būti pasiruošę viskam, kas mūsų laukia. 
+
+Dievas turi išteklių, ir kai mes bendradarbiaujame su Juo, Jis leidžia mums juos tvarkyti. Gelbėtojo tikslas – kad žmonės, apvalyti ir pašventinti, būtų Jo gelbstinčios rankos. Už šią didelę privilegiją dėkokime Jam, „kuris išgelbėjo mus iš tamsybių valdžios ir perkėlė į savo mylimojo Sūnaus karalystę; Jame mes turime atpirkimą, nuodėmių atleidimą“ (Kol 1, 13–14). 
+
+Dievo patarimas savo vaikams per išmintingą Saliamoną yra toks: „Gerbk Viešpatį viskuo, ką turi, visomis savo derliaus pirmienomis“ (Pat 3, 9). Šis patarimas dera, nes: „Vertas esi, mūsų Viešpatie ir Dieve, priimti šlovę, pagarbą ir galybę, nes Tu visa sutvėrei, Tavo valia visa yra ir buvo sutverta“ (Apr 4, 11). 
+
+Žvelgiant tik iš pasaulietinės perspektyvos, gyvename labai sudėtingais ir įtemptais laikais. Tačiau mūsų krikščioniška pasaulėžiūra suteikia mums pasitikėjimo ir vilties, nes matome ženklus, kuriuos Jėzus nurodė, kad žinotume, jog didžioji žmonijos istorijos kulminacija, Kristaus antrasis atėjimas, yra labai arti – net prie durų slenksčio. Meldžiame, kad šios praktinės pamokos sustiprintų jūsų tikėjimą ir pasikliovimą Dievu bei paskatintų būti ištikimu Jo prievaizdu. 
+
+G. Edward Reid, (teologijos mokslų magistras – Andrews universitetas; visuomeninės sveikatos priežiūros magistras – Loma Linda universitetas; teisės bakalauras – Džordžijos Valstybinis Universitetas) yra įšventintas tarnautojas ir licencijuotas advokatas, daug metų dirbęs Šiaurės Amerikos Divizijos Prievaizdavimo Skyriaus direktoriumi. 

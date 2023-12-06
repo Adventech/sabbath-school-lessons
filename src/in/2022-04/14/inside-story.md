@@ -1,0 +1,15 @@
+---
+title: Berita Misi
+date: 30/12/2022
+---
+
+#### Pengaruh Bar Jus
+
+Pantai Wailoaloa adalah tujuan wisata populer yang terkenal dengan akomodasi terjangkau, restoran, dan terutama bar dan tempat hiburan malamnya di Nadi, Fiji. Ketika COVID-19 melanda Fiji, banyak kedai kopi kecil, gerai makanan cepat saji, dan restoran kehilangan bisnis di sepanjang pantai. Salah satu tempat tersebut adalah Bamboo Resort. Merasakan kesempatan, tiga gereja Advent setempat bekerja sama dengan Bamboo Resort untuk membuka Bitu Wellness Bar, bar jus yang menawarkan program kesehatan dan kesehatan seperti pemeriksaan biometrik gratis, program olahraga, tantangan penurunan lemak, dan rencana makan yang disesuaikan. Bar, yang namanya bitu berarti “bambu” dalam bahasa lokal, dengan cepat mendapatkan popularitas di antara penduduk setempat, yang datang untuk jus segar yang sehat. Anggota gereja berdoa agar bar tersebut berfungsi sebagai pusat pengaruh untuk mendorong orang Fiji mengambil pendekatan yang lebih menyeluruh dan alami terhadap kesehatan mereka di wilayah di mana orang berjuang dengan penyakit polah hidup, terutama diabetes. Bar, yang didukung oleh kampanye selamatkan10.000 Jari Kaki
+
+Divisi Pasifik Selatan, penerima Persembahan Sabat Ketiga Belas tahun 2019, juga berupaya meningkatkan kesadaran akan alternatif sehat selain alkohol. Tetapi kemudian gelombang kedua COVID-19 melanda Fiji, dan pihak berwenang memerintahkan agar Bamboo Resort ditutup, bersama dengan kedai jus. Selama dua minggu, pelanggan menelepon setiap hari untuk mencari tahu kapan dan di mana kedai jus akan dibuka kembali. Apa yang terjadi selanjutnya sungguh tidak terduga. Pasangan suami istri yang mengelola Beach Escape Resort yang bertetangga telah menyaksikan kerumunan orang setiap hari masuk dan keluar dari Bamboo Resort dan telah memperhatikan bahwa lebih banyak orang mengunjungi bar jus daripada bar minuman keras. Mereka juga mencatat penurunan insiden terkait alkohol di jalan. Pasangan itu menghubungi anggota gereja dan menawarkan penggunaan bar minuman keras mereka dan tempat lain sebagai pusat kesehatan. Para anggota gereja awalnya menolak tawaran itu, tidak ingin menawarkan jus buah di tempat yang sama dengan alkohol, tetapi para manajer menjelaskan bahwa mereka ingin berhenti menjual alkohol sama sekali.
+
+Alkohol dibersihkan dari bar, dan peralatan bar diganti dengan mesin pembuat jus, blender, buah-buahan, sayuran, dan rempah-rempah. Bitu Wellness Bar kembali beroperasi. Para anggota gereja mengungkapkan keheranannya atas cara menakjubkan yang dipimpin oleh Allah. Bar jus berhasil tidak hanya memengaruhi pelanggan tetap dari Bamboo Resort tetapi juga telah mengubah Beach Escape Resort menjadi pusat pengaruh yang membawa harapan dan penyembuhan bagi masyarakat. Terima kasih atas Persembahan Sabat Ketiga Belas tahun 2019
+Anda yang mendukung kampanye selamatkan 10.000 Jari Kaki Divisi Pasifik Selatan di Fiji dan negaranegara Pasifik Selatan lainnya.
+
+_Terima kasih telah merencanakan Persembahan Sabat Ketiga Belas yang murah hati hari ini untuk mendukung proyek-proyek baru untuk menyebarkan Injil di Divisi Pasifik Selatan dan sekitarnya._

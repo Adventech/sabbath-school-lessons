@@ -13,19 +13,32 @@ var BIBLE_PARSER_CONFIG = {
     "bbc"
   ],
   "bg": [
-    "bg1940"
+    "bg1940",
+    "ribbd"
+  ],
+  "bn": [
+    "bsi2016"
+  ],
+  "ca": [
+      "bci"
   ],
   "ceb": [
     "cbv"
   ],
   "cs": [
     "cep",
-    "kralicka-1613",
+    "bkr",
     "csp",
-    "b21"
+    "b21",
+    "pmp",
+    "snc"
   ],
   "ctd":[
     "tdb"
+  ],
+
+  "cfm":[
+    "fcl"
   ],
 
   "da": [
@@ -80,6 +93,16 @@ var BIBLE_PARSER_CONFIG = {
     "lsg"
   ],
 
+  "grt": [],
+
+  "gu": [
+    "gu2017"
+  ],
+
+  "iba": [
+    "bk"
+  ],
+
   "it": [
     "nr2006"
   ],
@@ -91,6 +114,22 @@ var BIBLE_PARSER_CONFIG = {
   "ka": [
     "geo",
     "orthodox"
+  ],
+
+  "kar": [
+    "kswc"
+  ],
+
+  "kin": [
+      "bysb"
+  ],
+
+  "kjp": [
+    "pwokyn"
+  ],
+
+  "kha": [
+    "khb"
   ],
 
   "kn": [
@@ -167,6 +206,14 @@ var BIBLE_PARSER_CONFIG = {
     "lb"
   ],
 
+  "lus": [
+    "miz"
+  ],
+
+  "mr": [
+    "mar"
+  ],
+
   "lv": [
     "rt65"
   ],
@@ -214,6 +261,10 @@ var BIBLE_PARSER_CONFIG = {
     "nb-bibelen-1930"
   ],
 
+  "or": [
+    "orov"
+  ],
+
   "pl": [
     "bw1975"
   ],
@@ -227,6 +278,10 @@ var BIBLE_PARSER_CONFIG = {
     "rusv"
   ],
 
+  "run": [
+    "byk"
+  ],
+
   "si": [
     "srov"
   ],
@@ -235,6 +290,10 @@ var BIBLE_PARSER_CONFIG = {
     "chr",
     "eku",
     "ssp"
+  ],
+
+  "sn": [
+    "bdsc"
   ],
 
   "sr": [
@@ -251,7 +310,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "sk": [
-    "seb"
+    "seb",
+    "roh"
   ],
 
   "sq": [

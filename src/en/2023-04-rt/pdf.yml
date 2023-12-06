@@ -1,0 +1,142 @@
+---
+  pdf:
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-Intro.pdf'
+      target: en/2023-04-rt/intro
+      title: "Introduction"
+      start_date: 30/09/2023
+      end_date: 30/09/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L01.pdf'
+      target: en/2023-04-rt/01
+      title: "Rules for Heaven’s Agents"
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L02.pdf'
+      target: en/2023-04-rt/02
+      title: "End-time: Angels of Mercy"
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L03.pdf'
+      target: en/2023-04-rt/03
+      title: "End-time: Disappointment"
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L04.pdf'
+      target: en/2023-04-rt/04
+      title: "End-time: Home at Last"
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L05.pdf'
+      target: en/2023-04-rt/05
+      title: "Guarding the Avenues to the Soul"
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L06.pdf'
+      target: en/2023-04-rt/06
+      title: "Fashion and Self-Image"
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L07.pdf'
+      target: en/2023-04-rt/07
+      title: "Identity (1): Tested"
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L08.pdf'
+      target: en/2023-04-rt/08
+      title: "Identity (2): Over Time"
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L09.pdf'
+      target: en/2023-04-rt/09
+      title: "Identity (3): Ups and Downs"
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L10.pdf'
+      target: en/2023-04-rt/10
+      title: "Identity (4): Focused"
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L11.pdf'
+      target: en/2023-04-rt/11
+      title: "Technology and the Christian"
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L12.pdf'
+      target: en/2023-04-rt/12
+      title: "Ecology: Our Sacred Responsibility"
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Student/R-23-Q4-L13.pdf'
+      target: en/2023-04-rt/13
+      title: "Rulership: God’s Managers"
+      start_date: 23/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-Intro-T.pdf'
+      target: en/2023-04-rt/intro
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L01-T.pdf'
+      target: en/2023-04-rt/01
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L02-T.pdf'
+      target: en/2023-04-rt/02
+      title: Teacher
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L03-T.pdf'
+      target: en/2023-04-rt/03
+      title: Teacher
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L04-T.pdf'
+      target: en/2023-04-rt/04
+      title: Teacher
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L05-T.pdf'
+      target: en/2023-04-rt/05
+      title: Teacher
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L06-T.pdf'
+      target: en/2023-04-rt/06
+      title: Teacher
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L07-T.pdf'
+      target: en/2023-04-rt/07
+      title: Teacher
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L08-T.pdf'
+      target: en/2023-04-rt/08
+      title: Teacher
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L09-T.pdf'
+      target: en/2023-04-rt/09
+      title: Teacher
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L10-T.pdf'
+      target: en/2023-04-rt/10
+      title: Teacher
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L11-T.pdf'
+      target: en/2023-04-rt/11
+      title: Teacher
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L12-T.pdf'
+      target: en/2023-04-rt/12
+      title: Teacher
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://www.realtimefaith.net/assets/earliteens/Lessons/2023/Q4/English/Teacher/R-23-Q4-L13-T.pdf'
+      target: en/2023-04-rt/13
+      title: Teacher
+      start_date: 23/12/2023
+      end_date: 29/12/2023

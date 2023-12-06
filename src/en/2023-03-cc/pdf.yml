@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-Intro.pdf'
+      target: en/2023-03-cc/introduction
+      title: "Introduction"
+      start_date: 24/06/2023
+      end_date: 24/06/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L01.pdf'
+      target: en/2023-03-cc/01
+      title: "The Trust Test"
+      start_date: 24/06/2023
+      end_date: 30/06/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L02.pdf'
+      target: en/2023-03-cc/02
+      title: "Greed: The Bottomless Pit"
+      start_date: 01/07/2023
+      end_date: 07/07/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L03.pdf'
+      target: en/2023-03-cc/03
+      title: "Roads to the Soul"
+      start_date: 08/07/2023
+      end_date: 14/07/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L04.pdf'
+      target: en/2023-03-cc/04
+      title: "Law and Love Revisited"
+      start_date: 15/07/2023
+      end_date: 21/07/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L05.pdf'
+      target: en/2023-03-cc/05
+      title: "Last Longing Look"
+      start_date: 22/07/2023
+      end_date: 28/07/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L06.pdf'
+      target: en/2023-03-cc/06
+      title: "Promises Don’t Die"
+      start_date: 29/07/2023
+      end_date: 04/08/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L07.pdf'
+      target: en/2023-03-cc/07
+      title: "Behind the Walls"
+      start_date: 05/08/2023
+      end_date: 11/08/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L08.pdf'
+      target: en/2023-03-cc/08
+      title: "First Things First"
+      start_date: 12/08/2023
+      end_date: 18/08/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L09.pdf'
+      target: en/2023-03-cc/09
+      title: "Oops!"
+      start_date: 19/08/2023
+      end_date: 25/08/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L10.pdf'
+      target: en/2023-03-cc/10
+      title: "Real Estate Section"
+      start_date: 26/08/2023
+      end_date: 01/09/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L11.pdf'
+      target: en/2023-03-cc/11
+      title: "Line in the Sand"
+      start_date: 02/09/2023
+      end_date: 08/09/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L12.pdf'
+      target: en/2023-03-cc/12
+      title: "Famines and Feasts"
+      start_date: 09/09/2023
+      end_date: 15/09/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L13.pdf'
+      target: en/2023-03-cc/13
+      title: "Knowing God’s Will"
+      start_date: 16/09/2023
+      end_date: 22/09/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q3/English/Student/CC-23-Q3-L14.pdf'
+      target: en/2023-03-cc/14
+      title: "You First"
+      start_date: 23/09/2023
+      end_date: 29/09/2023

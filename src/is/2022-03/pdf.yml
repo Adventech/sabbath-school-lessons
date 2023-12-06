@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-INTRO.pdf
+      target: is/2022-03/01
+      title: Kynning
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-01.pdf
+      target: is/2022-03/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-02.pdf
+      target: is/2022-03/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-03.pdf
+      target: is/2022-03/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-04.pdf
+      target: is/2022-03/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-05.pdf
+      target: is/2022-03/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-06.pdf
+      target: is/2022-03/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-07.pdf
+      target: is/2022-03/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-08.pdf
+      target: is/2022-03/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-09.pdf
+      target: is/2022-03/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-10.pdf
+      target: is/2022-03/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-11.pdf
+      target: is/2022-03/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-12.pdf
+      target: is/2022-03/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/is/2022-03/ABSG-2022-03-IS-13.pdf
+      target: is/2022-03/13

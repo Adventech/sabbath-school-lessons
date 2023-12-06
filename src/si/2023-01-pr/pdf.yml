@@ -1,0 +1,62 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-01.pdf'
+      target: si/2023-01-pr/01
+      title: ඔත්තු සේවය
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-02.pdf'
+      target: si/2023-01-pr/02
+      title: නිරභීත ක්‍රියා සහ අභියෝගයන්‌
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-03.pdf'
+      target: si/2023-01-pr/03
+      title: යෝර්දාන්‌ නදිය හරහා
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-04.pdf'
+      target: si/2023-01-pr/04
+      title: ජය පරාජය
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-05.pdf'
+      target: si/2023-01-pr/05
+      title: පවුලේ බැඳීම්
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-06.pdf'
+      target: si/2023-01-pr/06
+      title: මියගොස්ද, නැත්නමි නිදිද?
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-07.pdf'
+      target: si/2023-01-pr/07
+      title: ශෝක වූ සොහොයුරියන්‌ දෙදෙනෙක්‌
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-08.pdf'
+      target: si/2023-01-pr/08
+      title: ලාසරස්‌ සහ නැවත නැගිටීමේ පොරොන්දුව
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-09.pdf'
+      target: si/2023-01-pr/09
+      title: සතුටේදීත්‌ දුකේදීත්‌ දෙවිඳුන්‌ පසසන්න
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-10.pdf'
+      target: si/2023-01-pr/10
+      title: කරදරකාරී පුජකවරු
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-11.pdf'
+      target: si/2023-01-pr/11
+      title: රජෙක්‌, මන්ත්‍රකාරියක්‌, යක්ෂයෙක්‌
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-01/ABSG-2023-01-SI-PR-12.pdf'
+      target: si/2023-01-pr/12
+      title: තෝරාගැනිම්
+      start_date: 18/03/2023
+      end_date: 24/03/2023

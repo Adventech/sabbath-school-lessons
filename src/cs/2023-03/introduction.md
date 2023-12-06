@@ -1,0 +1,19 @@
+### Úvod
+
+Jak následovat Ježíše v těžkých časech
+
+V listu Efezským píše apoštol Pavel o situaci, jakou prožívali křesťané v Efezu. Mnoho let po vzrušujících událostech z počátku křesťanské misie v Efezu nyní znovu hledali význam své křesťanské víry.
+
+Pavel, jehož misijní působení kdysi čtvrtému největšímu městu římské říše působilo značné ekonomické potíže (viz Sk 19,24–27), je nyní odstaven a uvězněn. Píše z vězení a obává se, že věřící v Efezu mohou „ztratit odvahu“ a zapomenout na to, co znamená být Ježíšovými učedníky v sofistikované, městské a zcela pohanské kultuře Efezu. Přestože jeho posluchači již jsou křesťané, Pavlova slova je opět zvou ke Kristu. Snaží se je znovu získat pro křesťanství, znovu zapálit oheň jejich oddanosti Kristu a vzkřísit nadšení z toho, že jsou součástí velkého Božího díla ve světě – církve.
+
+Protože základem křesťanské víry je Kristus, Pavel mu vyjadřuje obdiv a úctu. Mají-li ochabující křesťanští učedníci znovu získat pevnou půdu pod nohama, jedinou cestou je, že opět probudí svou první lásku k Ježíši a posílí svou důvěru v jeho milost a moc. Pavel tedy vyzdvihuje Kristovo oslavení v nebi, kdy je vyvýšen nad všechny síly a božstva, která se snaží zaujmout oddanost věřících v Efezu. Ježíš je cílem věčného Božího plánu, ve kterém věřící, tedy církev, hrají důležitou roli v Božím záměru sjednotit vše v Kristu.
+
+Pavel se snaží dovést věřící v Efezu k živé oddanosti svému Pánu, ale nesnižuje požadavky křesťanského učednictví. Poměrně podrobně vysvětluje, jak vypadá křesťanské chování a společenství. Křesťané jsou povoláni k Duchem svatým inspirovanému, Krista oslavujícímu a Bohem vedenému uctívání, které Pavel znovu a znovu vysvětluje. Oddanost Kristu ovlivňuje to, jak člověk jedná a mluví. Milovat Krista znamená respektovat a vážit si spoluvěřících. Znamená to odolat modelům podlého a sexuálně dekadentního chování, které bylo v jejich kultuře tak rozšířené. Znamená to, že ve vztazích v církvi i v rodině převezmeme příklad sebeobětování, který nám dal Kristus. Znamená to nabídnout obyvatelům Efezu jasné příklady nového vzoru lidské života.
+
+Pavel věnuje velkou část svého dopisu vyjádření svého nadšení z toho, co znamená být člověkem a součástí Boží církve. Zvláště ho povzbuzuje myšlenka, že Bůh v církvi spojil odcizené židy a pohany v jedno. Tím, že prožívají jednotu tam, kde by se očekávalo nepřátelství, mají příležitost projevit Boží vůli pro církev a přicházející království.
+
+Při sledování důležitosti toho, že jsme součástí Boží církve, Pavel rozvíjí čtyři metafory pro církev. Věřící tvoří Kristovo tělo, čímž demonstrují svou oddanost Kristu a svou vzájemnou jednotu. Jsou živým chrámem, vybudovaným Kristovou obětí na Golgotě, v němž je uctíván Bůh. Jsou Kristovou nevěstou, která vyhlíží velkolepý svatební obřad, až ji ženich přijde prohlásit za svou. V poslední metafoře, která vyjadřuje Pavlovo úsilí znovu je získat pro křesťanství, jsou Kristovou armádou, která v jeho jménu a síle usiluje o mír a bojuje proti silám temnoty, při očekávání Kristova návratu.
+
+Dopis Efezským je tedy aktuální zejména v době, jako je ta naše, v níž půvab světa a plynoucí čas ohrožují otupělostí křesťanské učednictví. Vyzdvihuje Krista a zdůrazňuje, abychom ho následovali jako angažovaní, aktivní členové jeho církve, žijící v naději na jeho návrat. V tomto čtvrtletí máme tu čest naslouchat s modlitbou listu Efezským a nově prožít nadšení z následování Ježíše v náročných dobách.
+
+John K. McVay, Ph.D., je rektorem a profesorem teologie na University of Walla Walla v College Place ve státě Washington, USA, kde působí od roku 2006.

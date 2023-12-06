@@ -1,0 +1,29 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-Intro.pdf
+      title: Intro
+      target: pt/2023-01-pt/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-01.pdf
+      target: pt/2023-01-pt/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-02.pdf
+      target: pt/2023-01-pt/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-03.pdf
+      target: pt/2023-01-pt/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-04.pdf
+      target: pt/2023-01-pt/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-05.pdf
+      target: pt/2023-01-pt/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-06.pdf
+      target: pt/2023-01-pt/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-07.pdf
+      target: pt/2023-01-pt/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-08.pdf
+      target: pt/2023-01-pt/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-09.pdf
+      target: pt/2023-01-pt/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-10.pdf
+      target: pt/2023-01-pt/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-11.pdf
+      target: pt/2023-01-pt/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2023-01-pt/ABSG-2023-01-PT-PORTUGAL-12.pdf
+      target: pt/2023-01-pt/12

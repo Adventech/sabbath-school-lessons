@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-Intro.pdf'
+      target: si/2023-02-pr/introduction
+      title: 'හැදින්වීම'
+      start_date: 25/03/2023
+      end_date: 25/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-01.pdf'
+      target: si/2023-02-pr/01
+      title: 'තවමත් දෙවියන්වහන්සේගේ පවුලේ කොටසක්'
+      start_date: 25/03/2023
+      end_date: 31/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-02.pdf'
+      target: si/2023-02-pr/02
+      title: 'ගිනි දළු'
+      start_date: 01/04/2023
+      end_date: 07/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-03.pdf'
+      target: si/2023-02-pr/03
+      title: 'පවුලට පිළිගනිමු'
+      start_date: 08/04/2023
+      end_date: 14/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-04.pdf'
+      target: si/2023-02-pr/04
+      title: 'මහත් ගැළවීම'
+      start_date: 15/04/2023
+      end_date: 21/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-05.pdf'
+      target: si/2023-02-pr/05
+      title: 'අළුත් ලෝකය'
+      start_date: 22/04/2023
+      end_date: 28/04/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-06.pdf'
+      target: si/2023-02-pr/06
+      title: 'දෙවියන්වහන්සේගේ ස්වරූපය'
+      start_date: 29/04/2023
+      end_date: 05/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-07.pdf'
+      target: si/2023-02-pr/07
+      title: 'උත්සවාකාර දවසක්'
+      start_date: 06/05/2023
+      end_date: 12/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-08.pdf'
+      target: si/2023-02-pr/08
+      title: 'සහෝදර ප්‍රේමය?'
+      start_date: 13/05/2023
+      end_date: 19/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-09.pdf'
+      target: si/2023-02-pr/09
+      title: 'දෙවියන්වහන්සේ සමඟ ගෙදර යාම'
+      start_date: 20/05/2023
+      end_date: 26/05/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-10.pdf'
+      target: si/2023-02-pr/10
+      title: 'ඉටු කළ පොරොන්දුවක්'
+      start_date: 27/05/2023
+      end_date: 02/06/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-11.pdf'
+      target: si/2023-02-pr/11
+      title: 'පවුලේ මහත් එකතුවීමක්'
+      start_date: 03/06/2023
+      end_date: 09/06/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-12.pdf'
+      target: si/2023-02-pr/12
+      title: 'පීනන්න, නඟින්න, ඉගිලෙන්න!'
+      start_date: 10/06/2023
+      end_date: 16/06/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-04/ABSG-2023-04-SI-PR-13.pdf'
+      target: si/2023-02-pr/13
+      title: 'උන්වහන්සේට ප්‍රශංසා කරන්න!'
+      start_date: 17/06/2023
+      end_date: 23/06/2023

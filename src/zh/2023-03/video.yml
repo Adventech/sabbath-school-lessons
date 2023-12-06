@@ -1,0 +1,62 @@
+---
+  video:
+    - artist: 希望中文台 (普通話版視頻)
+      clips:
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_QrssCG8help/jsv_QrssCG8help-jsren_xVg4JMvtY1u-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads-us/hcupp_K9QLA0a13gxQfq3zYqCJGMCcu4oQp3aI.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_0Trps4xl9tp/jsv_0Trps4xl9tp-jsren_qjp2gGx47gQ-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads-us/hcupp_1rN0LYBX7lf3nnayXLr6OBd88XyfAx73.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_tZIDXilyUPR/jsv_tZIDXilyUPR-jsren_8KHKvdsMLOr-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads-us/hcupp_cxDYq7MsX6gkFAmKQi2m8mBihKb42aNi.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_vFm5fBOUHhU/jsv_vFm5fBOUHhU-jsren_GJz0lwKTN79-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads-us/hcupp_ebdZMDfz5P7gaywgzUYI61IJFhWieQcu.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_qM1Kv89oPYD/jsv_qM1Kv89oPYD-jsren_eMvpfdXMNc9-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads-us/hcupp_3bPTHKh25vK5rirRLr4JKrFaOO7OdCV5.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_CuPep2qM4eM/jsv_CuPep2qM4eM-jsren_8fazmDzNBOK-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads-us/hcupp_3wraQlGbSxG4rDISg8HKMm9aUIrexMab.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_UMw00iZmjZi/jsv_UMw00iZmjZi-jsren_FwrykpKK5Nu-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:UMw00iZmjZi/t/jsth:bmLm400Hnng-1691581496522.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_qqmH0QFPWlc/jsv_qqmH0QFPWlc-jsren_pAJZXDsEz4H-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:qqmH0QFPWlc/t/jsth:DRcbAUUdX9G-1691655970379.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_GOlQfAKqkwG/jsv_GOlQfAKqkwG-jsren_IARUQvpBuWh-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:GOlQfAKqkwG/t/jsth:RQP5azrs9Lu-1691588126726.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_zDpK1Ao9tKG/jsv_zDpK1Ao9tKG-jsren_7rC4jxymjlT-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:zDpK1Ao9tKG/t/jsth:YkgleTbimWa-1691655723127.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_0394X10YXx3/jsv_0394X10YXx3-jsren_BBjK7VlqFr8-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:0394X10YXx3/t/jsth:YhxD1TtqmGH-1691651884455.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_DtjXMxUo82b/jsv_DtjXMxUo82b-jsren_bC5jF6iufCe-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:DtjXMxUo82b/t/jsth:1nLARarOMiF-1691655235954.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_cduoz9BJnY3/jsv_cduoz9BJnY3-jsren_RELFzYR6Fyu-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:cduoz9BJnY3/t/jsth:butjZAgTJmV-1691656388394.png
+        - src: http://www.chinesehope.tv/directdown.php?url=https://storage.googleapis.com/hc-jetstream-library/hcorg_jjs5dHCTs7w/v/jsv_ACu7vljvJNN/jsv_ACu7vljvJNN-jsren_TU1f8O8YoU1-360p.mp4
+          thumbnail: https://assets.jetstream.studio/orgs/hcorg:jjs5dHCTs7w/media/jsv:ACu7vljvJNN/t/jsth:lwJ1c2IJDT4-1691587948155.png
+    - artist: 希望中文台 (粵語版視頻)
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-13.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-14.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-03-14.webp

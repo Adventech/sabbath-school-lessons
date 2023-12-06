@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q3/Beginner/Student/B-22-Q3-L00.pdf'
+      target: en/2022-03-bg/introduction
+      title: Introduction
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q3/Beginner/Student/B-22-Q3-L01.pdf'
+      target: en/2022-03-bg/01
+      title: Samuel Listens to God
+      start_date: 25/06/2022
+      end_date: 29/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q3/Beginner/Student/B-22-Q3-L02.pdf'
+      target: en/2022-03-bg/02
+      title: Food for Elijah
+      start_date: 30/07/2022
+      end_date: 26/08/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q3/Beginner/Student/B-22-Q3-L03.pdf'
+      target: en/2022-03-bg/03
+      title: A New Baby Boy
+      start_date: 27/08/2022
+      end_date: 23/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q3/Beginner/Student/B-22-Q3-Activites.pdf'
+      target: en/2022-03-bg/activities
+      title: Activities
+      start_date: 27/08/2022
+      end_date: 23/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2022/Q3/Beginner/Student/B-22-Q3-MemoryVerses.pdf'
+      target: en/2022-03-bg/memory-verses
+      title: Memory verses
+      start_date: 27/08/2022
+      end_date: 23/09/2022

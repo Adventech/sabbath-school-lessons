@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-Intro.pdf'
+      target: en/2023-01-cc/introduction
+      title: Introduction
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L01.pdf'
+      target: en/2023-01-cc/01
+      title: The Way of Two Worlds
+      start_date: 31/12/2022
+      end_date: 06/01/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L02.pdf'
+      target: en/2023-01-cc/02
+      title: Law Meets Love
+      start_date: 07/01/2023
+      end_date: 13/01/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L03.pdf'
+      target: en/2023-01-cc/03
+      title: Out of Control
+      start_date: 14/01/2023
+      end_date: 20/01/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L04.pdf'
+      target: en/2023-01-cc/04
+      title: A Very Long Walk With God
+      start_date: 21/01/2023
+      end_date: 27/01/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L05.pdf'
+      target: en/2023-01-cc/05
+      title: Noah Way!
+      start_date: 28/01/2023
+      end_date: 03/02/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L06.pdf'
+      target: en/2023-01-cc/06
+      title: Reaching Toward Heaven
+      start_date: 04/02/2023
+      end_date: 10/02/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L07.pdf'
+      target: en/2023-01-cc/07
+      title: Long, Strange Trip
+      start_date: 11/02/2023
+      end_date: 17/02/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L08.pdf'
+      target: en/2023-01-cc/08
+      title: God Provides
+      start_date: 18/02/2023
+      end_date: 24/02/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L09.pdf'
+      target: en/2023-01-cc/09
+      title: No Laughing Matter
+      start_date: 25/02/2023
+      end_date: 03/03/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L10.pdf'
+      target: en/2023-01-cc/10
+      title: Winsome . . . and Then Some
+      start_date: 04/03/2023
+      end_date: 10/03/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L11.pdf'
+      target: en/2023-01-cc/11
+      title: Identity Theft
+      start_date: 11/03/2023
+      end_date: 17/03/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q1/English/Student/CC-23-1Q-L12.pdf'
+      target: en/2023-01-cc/12
+      title: Struggle by a Stream
+      start_date: 18/03/2023
+      end_date: 24/03/2023

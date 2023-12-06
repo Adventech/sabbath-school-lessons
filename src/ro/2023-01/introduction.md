@@ -1,0 +1,19 @@
+### Administratori pentru adevăratul Proprietar
+
+Este dificil de înțeles pe deplin relația pe care Dumnezeul nostru, Creatorul universului, vrea să o aibă cu noi, ființele umane – această idee în sine este uimitoare. „Vedeți ce dragoste ne-a arătat Tatăl: să ne numim copii ai lui Dumnezeu!” (1 Ioan 3:1). Sau, cum a scris Ellen G. White: „Poate vreo demnitate umană să o egaleze? Ce poziție mai înaltă putem ocupa decât aceea de a fi numiți fii ai nemărginitului Dumnezeu? […] Poate vreo onoare omenească să o egaleze?” (Ellen G. White, Harul uimitor al lui Dumnezeu, p. 341). Numai întunericul acestei lumi căzute în păcat ne face să nu apreciem pe deplin statutul care ne-a fost oferit prin Isus.
+
+Așadar, dacă nu avem grijă, momelile lumii și lucrurile lumești ne vor îndepărta de Hristos. Cuvântul lui Dumnezeu ne avertizează cu privire la ispitele și ademenirile lui Satana. „Cei ce vor să se îmbogățească, dimpotrivă, cad în ispită, în laț și în multe pofte nesăbuite și vătămătoare, care cufundă pe oameni în prăpăd și pierzare. Căci iubirea de bani este rădăcina tuturor relelor; și unii, care au umblat după ea, au rătăcit de la credință și s-au străpuns singuri cu o mulțime de chinuri” (1 Timotei 6:9,10).
+
+Domnul însă ne oferă îndrumare cu privire la cum să câștigăm bani și să îi folosim într-un mod înțelept astfel încât să nu devină un lucru care, așa cum ne avertizează Pavel, să ducă la „prăpăd și pierzare”. În cele peste 2.000 de versete din Scriptură care vorbesc despre bani, bunuri și atitudinea noastră față de ele, Dumnezeu ne oferă instrucțiuni practice despre cum să trăim mai presus de stresul vieții de zi cu zi și cum să gestionăm cu credincioșie ceea ce ne-a fost dat.
+
+În lecțiile din acest trimestru vom studia idealul lui Dumnezeu în ce privește relația noastră cu El și vom vedea clar cum putem dezvolta o încredere atât de profundă încât să Îi rămânem devotați chiar și atunci când nu vom putea cumpăra sau vinde. (Vezi Apocalipsa 13:17.) Acest tip de credință nu apare însă peste noapte; administrând corect ceea ce ne-a oferit Dumnezeu, putem fi pregătiți încă de pe acum pentru orice ne va ieși în cale.
+
+Dumnezeu este cel care deține toate resursele, iar atunci când colaborăm cu El, ne permite să le gestionăm în numele Lui. Scopul Salvatorului este ca ființele umane, curățate și sfințite, să fie ajutoarele Lui. Să Îi mulțumim pentru acest mare privilegiu Celui care „ne-a izbăvit de sub puterea întunericului și ne-a strămutat în Împărăția Fiului dragostei Lui, în care avem răscumpărarea, prin sângele Lui, iertarea păcatelor” (Coloseni 1:13,14)!
+
+Sfatul lui Dumnezeu pentru copiii Săi, prin intermediul înțeleptului Solomon, este: „Cinstește pe Domnul cu averile tale și cu cele dintâi roade din tot venitul tău” (Proverbele 3:9). Se cade acest sfat, pentru că: „Vrednic ești, Doamne și Dumnezeul nostru, să primești slava, cinstea și puterea, căci Tu ai făcut toate lucrurile și prin voia Ta stau în ființă și au fost făcute!” (Apocalipsa 4:11).
+
+Dintr-o perspectivă pur seculară, trăim în vremuri extrem de dificile și stresante. Cu toate acestea, perspectiva noastră creștină asupra lumii ne dă încredere și speranță atunci când vedem semnele pe care Isus ni le-a oferit pentru a ști că punctul culminant al istoriei omenirii, a doua venire a lui Isus, este aproape, este chiar la uși.
+
+Ne rugăm ca aceste studii cu caracter practic să îți sporească încrederea în Dumnezeu și să te încurajeze să fii un ispravnic credincios pentru El.
+
+_G. Edward Reid, M. Div. (Universitatea Andrews), MPH (Universitatea Loma Linda), JD (Universitatea de Stat din Georgia), este pastor hirotonit și avocat. A slujit mulți ani ca director al Departamentului Administrarea Creștină a Vieții din cadrul Diviziunii Nord-Americane._

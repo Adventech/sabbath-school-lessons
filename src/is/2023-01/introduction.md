@@ -1,0 +1,17 @@
+### Ráðsmenn Drottins þar til hann kemur
+
+Það er erfitt fyrir okkur að skilja til fulls það samband sem Guð, skapari alheimsins, vill hafa við okkurmennina. (Sjálf hugmyndin er jafnvel undraverð!). „Sjáið hvílíkan kærleika faðirinn hefur auðsýnt okkur, að við skulum kallast Guðs börn. Og það erum við“ (1Jóh 3.1). Eða eins og Ellen G. White kemst að orði: „Getur nokkur mannleg virðing jafnast á við þetta? Er nokkur staða í þjóðfélaginu æðri en að vera kölluð börn hins eilífa Guðs? . . . Getur nokkur veraldlegur heiður jafnast á við það?“ (AG, bls. 341). En það er myrkur þessa synduga heims sem gerir það að verkum að við metum ekki sem skyldi þá stöðu sem okkur er búin í Jesú.
+
+En ef við gætum okkar ekki þá mun tálbeita heimsins og það sem heimsins er draga okkur burt frá Kristi. Orð Guðs varar okkur við freistingum og töfrum Satans. „En þeir sem ríkir vilja verða falla í freistni og lenda í snöru alls kyns óviturlegra og skaðlegra fýsna er sökkva mönnunum niður í tortímingu og glötun. Fégirndin er rót alls ills. Við þá fíkn hafa nokkrir villst frá trúnni og valdið sjálfum sér mörgum harmkvælum“ (1Tím 6.9,10).
+
+En Drottinn veitir okkur leiðsögn varðandi það að vinna sér inn peninga og nota þá viturlega og leyfa þeim ekki að leiða okkur í tortímingu og glötun, eins og Páll segir. Í þeim rúmlega 2000 versum í Biblíunni sem fjalla um fjármuni og eignir og afstöðu okkar til þeirra gefur Guð okkur hagnýta fræðslu um hvernig við ættum að vera hafin yfir streitu lífsins og stjórna af trúmennsku þeim fjármunum sem okkur hafa verið gefnir.
+
+Í lexíunum þennan ársfjórðung munum við kynna okkur hugsjón Guðs varðandi samband okkar við hannog hvernig við getum þroskað djúptstætt traust þannig að við séum honum trú jafnvel þegar við getum hvorki keypt né selt (sjá Opb 13.17). En slík trú þroskast ekki á einni nóttu, en með því að vera trúföst í því að meðhöndla það sem Guð hefur gefið okkur getum við verið viðbúin hverju því sem koma mun.
+
+Guði tilheyra auðlindirnar og þegar við samstörfum honum leyfir hann okkur að nota þær á hans vegum.
+
+Það er áform frelsarans að maðurinn sé hjálparhönd hans þegar hann hefur verið helgaður og hreinsaður. Fyrir þau miklu forréttindi skulum við færa honum þakkir þar sem „hann hefur frelsað okkur frá valdi myrkursins og flutt okkur yfir í ríki síns elskaða sonar. Í honum eigum við endurlausnina, fyrirgefningu synda okkar“ (Kól 1.13, 14).
+
+Guð ráðleggur okkur fyrir munn spekingsins Salómons: „Tignaðu Drottin með eigum þínum og með frumgróða allrar uppskeru þinnar“ (Okv 3.9). Þetta er mjög viðeigandi ráðlegging vegna þess að „verður ert þú, Drottinn vor og Guð, að fá dýrðina og heiðurinn og máttinn því að þú hefur skapað alla hluti og að þínum vilja urðu þeir til og voru skapaðir“ (Opb 4.11). Frá heimslegum sjónarhóli séð lifum við á mjög krefjandi og streituvaldandi tímum. En kristið viðhorf okkar veitir okkur von og fullvissu þegar við sjáum þau tákn sem Jesús gaf okkur til þess að við gætum vitað að hámark mannkynssögunnar, endurkoma Krists, er í nánd, jafnvel fyrir dyrum. Við biðjum þess að þessar hagnýtu lexíur megi efla trú okkar og traust til Guðs og hvetja okkur til að vera trúir ráðsmenn hans.
+
+_G. Edward Reid, M.Div. (Andrews University), MPH (Loma Linda University), JD Georgia State University), er vígður prestur og löggiltur lögfræðingur sem gegndi störfum í mörg ár sem yfirmaður ráðsmennskudeildar Norður-Ameríku deildarinnar._

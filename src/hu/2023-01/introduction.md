@@ -1,0 +1,21 @@
+### Sáfárkodni, amíg a Gazda vissza nem tér
+
+Nem könnyű teljesen megérteni, hogy milyen kapcsolatot szeretne velünk kialakítani Isten, a világegyetem Teremtője. (Már a kapcsolat puszta gondolata is elképesztő!) „Lássátok meg, milyen nagy szeretetet tanúsított irántunk az Atya: Isten gyermekeinek neveznek minket, és azok is vagyunk” (1Jn 3:1, RÚF). Vagy ahogy Ellen G. White írta: „Bármilyen emberi méltóság hasonlítható ehhez? Mi volna magasabb tisztség annál, hogy a végtelen Isten gyermekeinek neveznek bennünket?... Van olyan világi megtiszteltetés, ami felérne ezzel” (Ellen G. White: God’s Amazing Grace. 431. o.)? Csak a bűnterhes világ sötétsége miatt nem értékeljük teljes mértékben azt a kiemelt helyet, amit Jézusban kaptunk.
+
+Ám ha nem vagyunk óvatosak, a világ és annak dolgai elszakíthatnak bennünket Krisztustól. Isten Igéje figyelmeztet Sátán kísértéseire és csábításaira: „Akik pedig meg akarnak gazdagodni, kísértetbe meg tőrbe és sok esztelen és káros kívánságba esnek, melyek az embereket veszedelembe és romlásba merítik. Mert minden rossznak gyökere a pénz szerelme: mely után sóvárogván némelyek eltévelyedtek a hittől, és magokat általszegezték sok fájdalommal” (1Tim 6:9-10).
+
+Az Úr azonban iránymutatást ad arra nézve, hogyan keressünk pénzt és használjuk fel azt bölcsen, illetőleg mit tegyünk, nehogy „veszedelembe és romlásba” döntsön minket. A Szentírásban kétezernél is több vers szól arról, hogyan bánjunk a pénzünkkel, a vagyonunkkal, illetve milyen legyen a hozzáállásunk az anyagiakhoz. Isten gyakorlatias segítséget ad arra, miként kerekedjünk felül az élet stresszhelyzetein és gazdálkodjunk hűségesen a tőle kapott javakkal.
+
+Ebben a negyedévben az isteni ideállal foglalkozunk a vele való kapcsolatunk tekintetében. Tisztán látjuk majd, hogyan mélyíthetjük el a bizalmunkat benne annyira, hogy hűségesek maradjunk hozzá még akkor is, ha nem adhatunk és nem vehetünk (lásd Jel 13:17). Az ilyen hit nem jön egy szempillantás alatt. Hűségesen kell gazdálkodnunk azzal, amit a jó Isten nekünk adott, így felkészülhetünk már most, bármi várjon is ránk!
+
+Az Úré minden erőforrás, és ha együtt dolgozunk vele, engedi, hogy az Ő érdekében használjuk azokat. Az a Megváltó terve, hogy a megtisztult és megszentelt emberek a segítő kezei legyenek. Adjunk hálát ezért a hatalmas megtiszteltetésért annak, aki „megszabadított minket a sötétség hatalmából, és általvitt az Ő szerelmes Fiának országába; Kiben van a mi váltságunk az Ő vére által, bűneinknek bocsánata” (Kol 1:13-14)!
+
+Bölcs Salamon által Isten a következőt tanácsolja gyermekeinek: „Tiszteld az URat vagyonodból és egész jövedelmed legjavából” (Péld 3:9, RÚF). Ez a tanács azért állja meg a helyét, mert „Méltó vagy Uram, hogy végy dicsőséget és tisztességet és erőt; mert te teremtettél mindent, és a te akaratodért vannak és teremttettek” (Jel 4:11).
+
+Pusztán világi szemszögből nézve nagy kihívásokkal és stresszel teli időszakban élünk. Keresztény világnézetünk viszont bizalmat és reményt kínál, mivel látjuk a jeleket, amelyeket Jézus adott, hogy tudjuk milyen közel (szinte a küszöbön) van a földi történelem nagy befejezése, azaz a második advent. Adja Isten, hogy ezek a gyakorlatias tanulmányok tovább mélyítsék a hitünket és a belé vetett bizalmunkat! Reméljük, mindenki bátorítást talál ezekben a gondolatokban, hogy hűségesen tudjon gazdálkodni az Úrért!
+
+_G. Edward Reid az Andrews Egyetemen mester fokozatú teológiai, a Loma Linda Egyetemen mester fokozatú közegészségügyi diplomát szerzett, jogi doktori címét pedig a Georgiai Állami Egyetemen kapta. Felszentelt lelkész és szakvizsgát letett ügyvéd, aki több évig szolgált az Észak-amerikai Divízió Sáfársági Osztályának vezetőjeként._
+
+### Néhány megjegyzés a magyar kiadáshoz
+
+Tanulmányunkban a bibliai idézeteket többnyire a Károli-féle fordításban közöljük. Más idézeteknél zárójelben olvasható a forrás megjelölése. Számos idézet, valamint a bibliai könyvek neve és rövidítése az újonnan revideált Károli-Biblia (rövidítve: ÚRK, Budapest, 2019, Veritas Kiadó) szerint szerepel. Szintén gyakran idézünk még a Magyar Bibliatársulat 2014-ben kiadott, revideált új fordításából (rövidítve: RÚF). Ha az idézetben egy, az oldalon már ismertetett műre hivatkozunk, akkor használjuk az i. m. (idézett mű) rövidítést.

@@ -1,0 +1,82 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L00.pdf'
+      target: en/2022-03-kd/introduction
+      title: Introduction
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L01.pdf'
+      target: en/2022-03-kd/01
+      title: Hannah's Special Baby
+      start_date: 25/06/2022
+      end_date: 01/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L02.pdf'
+      target: en/2022-03-kd/02
+      title: Hannah's Gift to God
+      start_date: 02/07/2022
+      end_date: 08/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L03.pdf'
+      target: en/2022-03-kd/03
+      title: Ears to Hear
+      start_date: 09/07/2022
+      end_date: 15/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L04.pdf'
+      target: en/2022-03-kd/04
+      title: Samuel's Service
+      start_date: 16/07/2022
+      end_date: 22/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L05.pdf'
+      target: en/2022-03-kd/05
+      title: Birds to the Rescue
+      start_date: 23/07/2022
+      end_date: 29/07/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L06.pdf'
+      target: en/2022-03-kd/06
+      title: Miracle Oil
+      start_date: 30/07/2022
+      end_date: 05/08/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L07.pdf'
+      target: en/2022-03-kd/07
+      title: The Boy Is Alive!
+      start_date: 06/08/2022
+      end_date: 12/08/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L08.pdf'
+      target: en/2022-03-kd/08
+      title: Up, Up, and Away!
+      start_date: 13/08/2022
+      end_date: 19/08/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L09.pdf'
+      target: en/2022-03-kd/09
+      title: Never-ending Oil
+      start_date: 20/08/2022
+      end_date: 26/08/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L10.pdf'
+      target: en/2022-03-kd/10
+      title: Alive Again
+      start_date: 27/08/2022
+      end_date: 02/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L11.pdf'
+      target: en/2022-03-kd/11
+      title: Poison in the Pot
+      start_date: 03/09/2022
+      end_date: 09/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L12.pdf'
+      target: en/2022-03-kd/12
+      title: The Floating Axhead
+      start_date: 10/09/2022
+      end_date: 16/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-L13.pdf'
+      target: en/2022-03-kd/13
+      title: Angels All Around
+      start_date: 17/09/2022
+      end_date: 23/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-Activites.pdf'
+      target: en/2022-03-kd/activities
+      title: Activities
+      start_date: 17/09/2022
+      end_date: 23/09/2022
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-MemoryVerses.pdf'
+      target: en/2022-03-kd/memory-verses
+      title: Memory verses
+      start_date: 17/09/2022
+      end_date: 23/09/2022

@@ -1,0 +1,52 @@
+---
+title: 'Novozavetna nada'
+date: 24/11/2023
+---
+
+### PRVI DEO: PREGLED
+
+Ne možemo poreći da Stari zavet naglašava da Božji narod ima odgovornost da pomogne onima kojima je pomoć potrebna. U stvari, jevrejska Biblija ima na stotine referenci (i propisa ili zakona) koji garantuju i čuvaju prava udovica, siročadi, stranaca, siromašnih itd.
+
+Knjiga 5. Mojsijeva 15,4 glasi: „Da ne bi bilo siromaha mešu vama, jer će te obilno blagosloviti Gospod u zemlji koju ti Gospod Bog tvoj da u nasljedstvo da je tvoja.“ Međutim, nekoliko stihova kasnije Mojsije kaže: „Jer neće biti bez siromaha u zemlji; zato ti zapovijedam i kažem: Otvaraj ruku svoju bratu svojemu, nevoljniku i siromahu svojemu u zemlji svojoj.“ (5. Mojsijeva 15,11)
+
+Kako možemo da pomirimo ova dva stiha (5. Mojsijeva 15,4 i 5. Mojsijeva 15,11)? U čemu je problem ovde? Kako možemo da rešimo ovu očiglednu kontradiktornost? U suštini, Biblija nam govori da, budući da Bog može da obezbedi sve što je potrebno, On želi da nas upotrebi u pomaganju nevoljnima, kao što je Isus činio. Biblijska tradicija, kao celina, ne smatra siromaštvo „normalnim“ delom života, već zlim izuzetkom u okviru božanskog plana. Ono što se smatra „normalnim“ jeste briga koja pokreće ljude da pokažu ljubaznost onima koji su u potrebi. „Kada se ovi tekstovi [5. Mojsijeva 15,4.11] čitaju naspram šireg okvira biblijske tradicije, nije siromaštvo, već zajednička briga, ono što je normalan obrazac života zajednice.“ (Leslie J. Hoppe, *There Shall Be No Poor Among You: Poverty in the Bible* [Nashville: Abingdon Press, 2004], p. 173)
+
+### DRUGI DEO: KOMENTAR
+
+**Bog je došao da pomogne svom [nevoljnom] narodu Luka 7,16**
+
+U Luki 7 čitamo o velikom mnoštvu koje prepoznaje šta je Isus upravo učinio. Mnoštvo ne samo da je prepoznalo Isusa kao Proroka, i Uzvišenoga, već, ispunjeni strahopoštovanjem i hvaleći Boga, izjavili su da je Bog došao da im pomogne. Isus je bio Prorok dobrote i saučešća, Onaj koji je došao da objavi radosnu vest o Bogu. Isus je takođe došao da proglasi slobodu zarobljenima i objavi da je Božje carstvo blizu (Marko 1,14.15; videti takođe Luka 4,18.19). Isus je u toku svoje zemaljske službe većinu svog vremena i snage posvetio najnevoljnijima i najzanemarenijima. Njegovo srce neprestano je bilo dirnuto jadom i patnjom najsiromašnijih, najubogijih i najbednijih ljudi.
+
+Među potlačenima i ubogima bilo je mnogo žena, i prema njima Isus je posebno imao obzira. Žene koje su bile marginalizovane od strane društva bile su milostivo primljene od strane Spasitelja i zbrinute; prema tome, bile su oslobođene svojih nevoja i bolesti. Isusovo saučešće i dela milosti neprestano su pokazivani prema ovim ženama.
+
+Isusov susret sa ženom Samarjankom na Jakovljevom studencu predstavlja primer svima koji rade u korist žena, gde god da se nalaze i u kakvom god da su stanju, bilo da su siromašne, odbačene, grešnice, udovice, majke, prostitutke ili na neki drugi način potlačene od strane đavola. Dajući ženi Samarjanki vodu života, Isus ju je oslobodio potlačenosti i krivice, pružajući joj snagu da živi boljim životom, i osposobljavajući je da postane jedna od Njegovih svedoka (Jovan 4,1-26). Žena Samarjanka bila je žedna, siromašna, morala je sama da nosi vodu, bila je umorna i nevoljna, i Isus je ispunio njene fizičke, društvene i duhovne potrebe.
+
+Način na koji je Isus upravljao okolnostima žene uhvaćenoj u preljubi i okolnostima mnogih drugih žena ukazuje na Njegovo zanimanje da obnovi dostojanstvo žena i pokaže da Njegova ljubav ne daje prednost nijednoj grupi pojedinaca. Isus je prešao kulturološke barijere i čak se usprotivio snažnim verskim tradicijama da bi izlečio, spasao i razvio darove i živote žena za svoje carstvo. Isusova ljubav nema granice, bezuslovna je, i darovana je svim ženama u potrebi. Pogledajte sledeće primere žena koje su primile Spasiteljevu ljubav: žena Hananejka ili Sirofeničanka (Matej 15,21-28; Marko 7,24-30); Isusova majka (Jovan 19,25-27); Marta i Marija, koje je Isus ohrabrio (Jovan 11,17-37); i udovica iz Naina, čijeg je sina Isus podigao iz mrtvih (Luka 7,11-17). Isusa je pomazala grešnica i On joj je oprostio grehe (Jovan 12,1-11; Matej 26,6-13; Marko 14,3-9; Luka 7,36-50); Isus je izlečio bolesnu ženu i razgovarao sa njom (Luka 8,43.48; Matej 9,20-22; Marko 5,25-34); Isus je iscelio žene od zlih duhova i bolesti (Luka 8,1-3); Isus je izlečio obogaljenu ženu (Luka 13,10-13); Isus je zapazio udovicu koja je priložila svoj dar (Marko 12,41-44; Luka 21,1-4); i Isus se javio Mariji Magadaleni (Jovan 20,10-18).
+
+Prema Jevanđeljima, Isusova služba isceljenja prema svima onima kojima je bila potrebna Njegova pomoć, koju je pružao ublažavajući njihovu patnju i oslobađajući ih od njihovih bolesti, ukazuje da „nijedan koji je došao k Njemu nije otišao bez pomoći. On je lečio telo, dušu i duh ljudi, jer je od Njega tekla reka isceljujuće sile“ (Elen Vajt, *U potrazi za boljim životom*, str. 17. original). Zatičemo Isusa kako leči Simonovu (Petrovu) taštu od visoke temperature (Matej 8,14.15; Marko 1,29-31; Luka 4,38.39); Isus je izlečio čoveka koji je bolovao od gube izgovarajući reči: „Očisti se“ (Matej 8,2-4; Marko 1,40-44; Luka 5,12.13); Isus je izlečio (i oprostio) oduzetom čoveku govoreći: „Čovječe, opraštaju ti se grijesi tvoji“ (Luka 5,20) i dodajući: „Tebi govorim, ustani i uzmi odar svoj i idi kući svojoj“ (Luka 5,24; videti takođe Matej 9,2-8; Marko 2,3-12).
+
+Isus je pronašao veliku veru kod kapetana čiji je sluga bio bolestan i na umoru, i nagradio je kapetanovu veru izlečivši njegovog slugu (Luka 7,1-10; Matej 8,5-13). Takođe je žena koja je bolovala od tečenja krvi dvanaest godina, zahvaljujući takvoj velikoj veri, dodirnula Isusa i odmah bila izlečena Njegovom silom. Isus je potvrdio njenu veru rečima: „Kćeri, vjera tvoja pomože ti; idi s mirom.“ (Luka 8,48; videti takođe Matej 9,20-22; Marko 5,25-34)
+
+Isus ne samo da je lečio one koji su došli, ili koje su doneli, k Njemu, već je često pokazivao ljubav kada bi ugledao osobu u potrebi. Na primer, Isus je u Subotu poučavao u sinagogi u kojoj se zatekla obogaljena, zgrčena žena koja nije mogla da se ispravi. Isus joj je rekao: „Ženo, oproštena si od bolesti svoje.“ (Luka 13,12) Kakvo je olakšanje ovo oslobođenje donelo nakon što je osamnaest godina bila onemoćala od zlog duha! Izveštaj kaže da je Isus položio ruku na nju, i ona se odmah ispravila i slavila Boga u svojoj novostečenoj slobodi.
+
+Isusova služba isceljenja išla je mnogo dalje od onoga što nam Biblija kaže, ali dovoljno je ako se ovde spomene šta su nadahnuti pisci Jevanđelja zabeležili za nas. Veliki Lekar izlečio je mnoge druge bolesnike koji su bolovali od različitih bolesti. Carev čovek u Kapernaumu imao je bolesnog sina, te je zamolio Isusa da ga isceli. Isus je milostivo ispunio zvaničnikovu molbu govoreći: „Idi, sin je tvoj zdrav.“ (Jovan 4,50)
+
+Apostol Pavle je zapisao: „[Isus] bogat budući, vas radi osiromaši, da se vi Njegovijem siromaštvom obogatite“ (2. Korinćanima 8,9). O Hristovom poistovećivanju sa siromašnima apostol je jasno govorio. Isus je bio bogat, ali se odrekao onoga što je posedovao i postao siromašan da bi siromašan ljudski rod mogao da nasledi blaga zemaljskog, kao i večnog, spasenja.
+
+**Pravo zajedništvo u apostolskoj crkvi**
+
+Rana hrišćanska zajednica odlikovala se istinskim zajedništvom. Ovo zajedništvo bilo je obeležje apostola i novih vernika. Odlučili su da nastavaju u jedinstvu sa Hristom i jedni sa drugima, imajući sve zajedničko (Dela 2,42-44) i imajući jedno srce i um. Želja svakoga od njih bila je da dele ono što su posedovali da bi njihova dobra mogla biti darovana onima koji su bili u potrebi. Zahvaljujući ovoj praksi, „nijedan među njima ne bješe siromašan“ (Dela 4,34); prema tome, deljenje onoga što su posedovali omogućilo je da novi vernici ispune potrebe onih koji su bili u nevolji (Dela 4,32-47).
+
+Jakov je s pravom naglasio važnost spajanja slušanja Reči i njenog primenjivanja, ljubavi koja se ispoljava u rečima ali i u delima. Šta je, onda, prava religija? „Vjera čista i bez mane pred Bogom i Ocem jest ova: Obilaziti sirote i udovice u njihovijem nevoljama, i držati sebe neopoganjena od svijeta.“ (Jakov 1,27) Čini se da Jakov donekle ponavlja ove Isusove reči: „Jer ogladnjeh, i daste Mi da jedem; ožednjeh, i napojiste Me; gost bijah, i primiste Me; go bijah, i odjenuste Me; bolestan bijah, i obiđoste Me, u tamnici bijah, i dođoste k Meni.“ (Matej 25,35.36) Nevoljna siročad i udovice podnose nevolju koja dotiče Očevo srce, tako da će onaj ko živi u skladu sa istinskom verom „dati pravicu siroti“ i „braniti udovicu“ (Isaija 1,17).
+
+U Antiohiji su Isusovi sledbenci prvi put nazvani hrišćanima (Dela 11,25). Tekst glasi: „A od učenika odredi svaki koliko koji mogaše da pošlju u pomoć braći koja življahu u Judeji. Koje i učiniše poslavši starješinama preko ruke Varnavine i Savlove.“ (Dela 11,29.30) Pružiti pomoć (*eis diakonian*) u ovom kontekstu može da znači obezbediti sredstva (novac, darove) da bi se upotrebila za pojedince koji su u nevolji.
+
+### TREĆI DEO: PRIMENA U ŽIVOTU
+
+Siromašni i nevoljni zauzimaju posebno mesto u Isusovoj službi, zato što je upravo njima propovedano Jevanđelje (radosna vest, Božje carstvo; Matej 11,5; Luka 4,18). Drugi biblijski tekstovi potvrđuju da siromašni nisu samo siromašni u duhovnom smislu, već i u materijalnom smislu (Matej 5,3; Luka 6,20). Izveštaj o daru siromašne udovice dobro ukazuje na ovu suštinu.
+
+Kada je podigao pogled, Isus je ugledao bogate kako prilažu svoje darove u riznicu u hramu. Takođe je ugledao siromašnu udovicu koja je stavila dva novčića. „Zaista vam kažem: Ova siromašna udovica metnu više od sviju; jer svi ovi metnuše u prilog Bogu od suviška svojega, a ona od sirotinje svoje metnu svu hranu svoju što imaše.“ (Luka 21,3.4; videti takođe Marko 12,41-44 i 2. Korinćanima 8,9.12)
+
+Izveštaj nam ne kaže da li je žena imala rođake da se brinu o njoj; umesto toga, spominje da je siromašna udovica i da je dala sve od čega je živela. Isusovo upućivanje na ovu ženu je zanimljivo zato što je, ponovo, Njegova pažnja usredsređena na najsiromašnije među siromašnima, ne samo u duhovnom smislu, već u velikoj meri u materijalnom smislu: „A ona od sirotinje svoje metnu svu hranu svoju što imaše.“ (Marko 12,44)
+
+Kada nevoljni ljudi, kao što je siromašna udovica, pogledaju u vas ili vašu crkvu, na koje načine oni vide utelovljenje Isusa Hrista i sveobuhvatno isceljenje i pomoć  koje On deli kroz Crkvu?

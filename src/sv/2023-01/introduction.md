@@ -1,0 +1,15 @@
+### Förvaltarskap för Mästaren – tills han kommer
+
+Det är svårt för oss att till fullo förstå relationen som Gud, universums Skapare, vill ha med oss människor. (Bara tanken är häpnadsväckande!) ”Vilken kärlek har inte Fadern skänkt oss när vi får heta Guds barn” (1 Joh. 3:1). Eller, som Ellen White skrev: ”Kan någon mänsklig värdighet jämföras med detta? Vilken högre ställning kan vi få än att vi kallas den oändlige Gudens söner? ... Kan någon världslig ära jämföras med detta?” (Ellen White: God´s Amazing Grace, s. 341). Bara den syndfulla världens mörker kan få oss att inte till fullo värdesätta den ställning vi fått i Jesus.
+
+Ja, om vi inte aktar oss kan världens lockelser och prylar dra oss bort från Kristus. Guds Ord ger oss information om Satans frestelser och bedrägerier. ”De som vill bli rika låter sig snärjas av frestelsen och faller offer för alla de dåraktiga och skadliga begär som störtar människorna i fördärv och undergång. Kärleken till pengar är roten till allt ont; genom den har många förts bort från tron och vållat sig själva mycket lidande” (1 Tim. 6:9, 10).
+
+Men Herren ger oss vägledning i hur vi kan tjäna pengar och använda dem klokt utan att låta dem bli något som kan, som Paulus varnade, leda oss till ”fördärv och undergång”. Mer än 2 000 verser i Bibeln handlar om pengar och ägodelar och vår inställning till dem. Där ger Gud praktisk vägledning i hur vi ska klara oss genom livets stress och troget hantera den ekonomi vi har fått.
+
+Detta kvartal ska vi studera Guds ideal i våra relationer med honom och se klart hur vi kan utveckla en så djup förtröstan på honom att den består även när vi inte kan köpa eller sälja (se Upp. 13:17). Men denna sorts tro kommer inte över en natt. Genom att troget förvalta det Gud har gett oss kan vi redan nu förbereda oss för vad som än kommer.
+
+Gud är den som har resurserna, och när vi arbetar med honom låter han oss hantera dem för honom. Frälsarens avsikt är att renade och helgade människor ska vara hans hjälpande hand. Låt oss tacka honom för detta stora privilegium, honom som ”har räddat oss ur mörkrets välde och fört oss in i sin älskade sons rike, och genom Sonen har vi friköpts och fått förlåtelse för våra synder” (Kol. 1:13, 14). 
+
+Genom en vis man ger Gud följande råd till sina barn: ”Ära Herren med allt du äger och med det första av din skörd” (Ords. 3:9). Detta råd är på sin plats eftersom ”Du, vår Herre och Gud, är värdig att ta emot härligheten och äran och makten. Ty du har skapat världen, och genom din vilja blev den till och skapades den” (Upp. 4:11).
+
+Utifrån ett enbart sekulärt perspektiv lever vi i en mycket utmanande och stressande tid. Men vår kristna världsbild ger oss trygghet och hopp när vi ser de tecken som Jesus gav oss för att låta oss veta att den mänskliga historiens höjdpunkt, Kristus andra ankomst, är mycket nära, vid dörren. Vi ber att dessa praktiska lärdomar kan fördjupa din tro och förtröstan på Gud och uppmuntra dig att vara en trogen förvaltare åt honom.

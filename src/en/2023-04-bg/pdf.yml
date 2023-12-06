@@ -1,0 +1,57 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Student/B-23-Q4-L00.pdf'
+      target: en/2023-04-bg/introduction
+      title: 'Introduction'
+      start_date: 30/09/2023
+      end_date: 30/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Student/B-23-Q4-L01.pdf'
+      target: en/2023-04-bg/01
+      title: 'Peter and the Lame Man'
+      start_date: 30/09/2023
+      end_date: 27/10/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Student/B-23-Q4-L02.pdf'
+      target: en/2023-04-bg/02
+      title: 'Paul and the Shipwreck'
+      start_date: 28/10/2023
+      end_date: 01/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Student/B-23-Q4-L03.pdf'
+      target: en/2023-04-bg/03
+      title: 'Angels Sing to the Shepherds'
+      start_date: 02/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Student/B-23-Q4-Activities.pdf'
+      target: en/2023-04-bg/activities
+      title: 'Activities'
+      start_date: 29/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Student/B-23-Q4-MemoryVerses.pdf'
+      target: en/2023-04-bg/memory-verses
+      title: 'Memory Verses'
+      start_date: 29/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Teacher/B-23-Q4-L00-T.pdf'
+      target: en/2023-04-bg/introduction
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 30/09/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Teacher/B-23-Q4-L01-T.pdf'
+      target: en/2023-04-bg/01
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 27/10/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Teacher/B-23-Q4-L02-T.pdf'
+      target: en/2023-04-bg/02
+      title: Teacher
+      start_date: 28/10/2023
+      end_date: 01/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Teacher/B-23-Q4-L03-T.pdf'
+      target: en/2023-04-bg/03
+      title: Teacher
+      start_date: 02/12/2023
+      end_date: 29/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2023/Q4/Beginner/Teacher/B-23-Q4-Activities-T.pdf'
+      target: en/2023-04-bg/activities
+      title: Teacher
+      start_date: 29/12/2023
+      end_date: 29/12/2023

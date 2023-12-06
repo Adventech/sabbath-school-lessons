@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/Ievads.pdf
+      target: lv/2022-04/01
+      title: Ievads
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-1.pdf
+      target: lv/2022-04/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-2.pdf
+      target: lv/2022-04/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-3.pdf
+      target: lv/2022-04/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-4.pdf
+      target: lv/2022-04/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-5.pdf
+      target: lv/2022-04/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-6.pdf
+      target: lv/2022-04/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-7.pdf
+      target: lv/2022-04/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-8.pdf
+      target: lv/2022-04/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-9.pdf
+      target: lv/2022-04/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-10.pdf
+      target: lv/2022-04/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-11.pdf
+      target: lv/2022-04/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-12.pdf
+      target: lv/2022-04/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-13.pdf
+      target: lv/2022-04/13
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/lv/2022-04/apc2022-4-14.pdf
+      target: lv/2022-04/14

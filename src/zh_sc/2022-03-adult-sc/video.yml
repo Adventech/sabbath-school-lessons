@@ -1,0 +1,58 @@
+---
+  video:
+    - artist: 希望中文台 (普通話版視頻)
+      clips:
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_KNqW43H41Ft/jsv_KNqW43H41Ft-jsren_sHdolRgCZV7-master.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_DydzvAWGMzTurAJFmwRrv5.png
+        - src: https://storage.cloud.google.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_yvjrkvWJuKF/jsv_yvjrkvWJuKF-jsren_I3J6tZvMKFH-master.mp4?2
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:ZRVzE0rBi9ShdklxWqQV.png
+        - src: https://storage.cloud.google.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_JoQopthwYfY/jsv_JoQopthwYfY-jsren_pz0IV6aMEd5-master.mp4?2
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:AlPqknG2Y6v2SI68h3Rj.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_koGHIy5bk1R/jsv_koGHIy5bk1R-jsren_m7jSVgOJU2D-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:3YOcpSYOFsvQ81dnSSDc.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_4Z1JnAegqug/jsv_4Z1JnAegqug-jsren_0PD4UjAwMBt-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsvupp:mWu7ojysbEX0Lc9YX1oi.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_6OSBmdEJX8e/jsv_6OSBmdEJX8e-jsren_oUgccSavyvm-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_tcBLPvnp8fR65M9xTgt37z.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_YxZKbRdYlJC/jsv_YxZKbRdYlJC-jsren_ZI8PnzjZlpU-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_BajdCCg9V8Y3rAbpTdXgQJ.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_airybpNBXqp/jsv_airybpNBXqp-jsren_doKW6ERaPJo-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_9DDcRUJ24pXfu1DnPhjzDe.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_VRonuwMsegp/jsv_VRonuwMsegp-jsren_TE6IFc8ALVo-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_efiFs1zSW47s6YtkhwRQIr.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_0u5y41iytdL/jsv_0u5y41iytdL-jsren_MFChrzD0Ss8-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_E4Vc3wffwLjpCRQ1OGotGY.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_xhsdME8I43S/jsv_xhsdME8I43S-jsren_reeHIfITpiP-master.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_zfEYFXkYdLWv9aTOtlx8X1.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_Qe8GierVGsG/jsv_Qe8GierVGsG-jsren_ie5DplznZrf-master.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_Oj1sTHzJ6sWzpwNVC5Np8U.png
+        - src: https://storage.googleapis.com/hc-jetstream-library/jsorg_jjs5dHCTs7w/v/jsv_eVjn2D7glEA/jsv_eVjn2D7glEA-jsren_6L4TDKm1CEz-360p.mp4
+          thumbnail: https://storage.googleapis.com/hc-jetstream-uploads/jsup_R59lx7Z4F4EhfGUKhgWp9l.png
+    - artist: 希望中文台 (粵語版視頻)
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2022-03-13.webp

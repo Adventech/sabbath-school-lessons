@@ -1,0 +1,21 @@
+### Wprowadzenie
+
+**O śmierci, umieraniu i naszej przyszłej nadziei.** Bóg stworzył ludzi, by cieszyli się wiecznym życiem w więzi miłości z Nim i Jego stworzeniem. Jednak ta więź została naruszona przez tajemnicze pojawienie się grzechu na niebiańskim dworze (zob. Iz 14,12-15; Ez 28,12-19; Ap 12,7-12), a następnie upadek Adama i Ewy (zob. Rdz 3,1-19; Rz 5,12). Niestety, śmierć stała się udziałem nie tylko ludzi, ale całego ziemskiego stworzenia. Przejawy śmierci widzimy dzisiaj wszędzie wokoło siebie — od liści spadających z drzew, przez kwiaty więdnące w wazonach i zwierzęta umierające w cierpieniu, po naszych bliskich odchodzących od nas w nieubłaganym procesie wymiany pokoleń. Nasz świat przepełniony jest bólem, udręczony cierpieniem oraz zroszony niepowstrzymanymi łzami żalu i bezsilności.
+
+Tęskniąc za lepszym światem, ludzie nazmyślali sobie szereg rajów, w których chcieliby się znaleźć. W 1933 roku angielski pisarz James Hilton (1900--1954) opublikował powieść Zaginiony horyzont, która cztery lata później została zekranizowana pod tym samym tytułem. Ów amerykański film opowiada o losach pasażerów samolotu, który wskutek braku paliwa rozbija się w pokrytych śniegiem Himalajach. Pilot ginie w katastrofie, ale ci, którzy ocaleli, zostają uratowani przez grupę Tybetańczyków i zabrani do rajskiej doliny o nazwie Shangri-La. Będąc odizolowani od zewnętrznego świata, mieszkańcy doliny rozwijają się w miłości i mądrości, wiodąc niemal nieśmiertelne życie w pełnej harmonii i radości.
+
+Oczywiście to tylko literacko-filmowa fikcja.
+
+Jako śmiertelni ludzie potrzebujemy pewności w teraźniejszości i nadziei na przyszłość. Trafnie wyraził to Emil Brunner (1889-1966), kalwiński teolog ze Szwajcarii: „Czym tlen dla płuc, tym jest nadzieja dla sensu ludzkiego życia. Zabierzcie tlen, a organizm umrze wskutek uduszenia. Zabierzcie nadzieję, a ludzkość zacznie się dusić z braku tchu. Zapanuje rozpacz, która zdusi i sparaliżuje siły intelektualne i duchowe wszechogarniającym poczuciem bezsensu i bezcelowości istnienia. Jak los ludzkiego ciała jest zależny od dopływu tlenu, tak los ludzkości zależy od dostępności nadziei”1. Rzeczywiście, biblijna nadzieja podtrzymuje nas podczas naszych życiowych kryzysów, na jakie napotykamy w drodze do wieczności.
+
+1 Emil Brunner, Eternal Hope, Londyn 1954, s. 7.
+
+W przeciwieństwie do fikcyjnej doliny Shangri-La z powieści Zaginiony horyzont nasza nadzieja życia wiecznego nie opiera się „na zręcznie zmyślonych baśniach” (2 P 1,16). Jest oparta na wiarygodnej obietnicy Boga — obietnicy doskonałego świata bez łez, cierpienia i śmierci (zob. Ap 21,1-5). Ta bezcenna obietnica inspirowała pierwszych chrześcijan, a potem była podtrzymywana i ceniona przez wszystkie pokolenia wyznawców Chrystusa. Nigdy nie utraciła swej mocy oraz nadal nadaje sens i cel naszemu życiu. Pozwala nam ufnie patrzeć w przyszłość. Upewnia nas, że nasi ukochani, którzy zasnęli w Chrystusie, powstaną z martwych, by odziedziczyć życie wieczne.
+
+Niniejszy kwartalnik Lekcji Biblijnych omawia zagadnienie wielkiego boju między dobrem a złem z perspektywy dwóch wielkich tematów. Pierwszy z nich to pochodzenie i istnienie grzechu oraz śmierci. Drugi temat to stałe dążenie Boga do rozwiązania problemu grzechu i śmierci oraz przywrócenia świata do pierwotnego doskonałego stanu. Szczególny nacisk został położony na śmiertelną naturę człowieka oraz zmartwychwstanie jako jedyną drogę wiodącą ze śmierci do nieśmiertelności. W gruncie rzeczy nie powinniśmy już bać się śmierci, bo Chrystus umarł za nas i zatriumfował nad jej mocą. On sam zapewnia nas:
+
+— „Mam klucze śmierci i piekła” (Ap 1,18).
+
+W tym kwartale będziemy zgłębiać bolesne zagadnienie śmierci, ale przyjrzymy się jej przez lupę nadziei danej nam w Jezusie2.
+
+_Autorem Lekcji Biblijnych 4/2022 jest dr Alberto R. Timm, zastępca dyrektora Ellen G. White Estate oraz członek Komitetu Instytutu Badań Biblijnych i Komitetu Instytutu Badań Nauki o Ziemi. Wcześniej pracował jako rektor międzynarodowego Latynoamerykańskiego Adwentystycznego Seminarium Teologicznego z siedzibą w Brasilii, stolicy Brazylii (przyp. red.)._

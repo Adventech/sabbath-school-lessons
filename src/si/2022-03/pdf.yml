@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-INTRO.pdf
+      target: si/2022-03/01
+      title: හැදින්වීම
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-01.pdf
+      target: si/2022-03/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-02.pdf
+      target: si/2022-03/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-03.pdf
+      target: si/2022-03/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-04.pdf
+      target: si/2022-03/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-05.pdf
+      target: si/2022-03/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-06.pdf
+      target: si/2022-03/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-07.pdf
+      target: si/2022-03/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-08.pdf
+      target: si/2022-03/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-09.pdf
+      target: si/2022-03/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-10.pdf
+      target: si/2022-03/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-11.pdf
+      target: si/2022-03/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-12.pdf
+      target: si/2022-03/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/si/2022-03/ABSG-2022-03-SI-13.pdf
+      target: si/2022-03/13

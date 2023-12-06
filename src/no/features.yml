@@ -24,3 +24,8 @@
     title: Video
     description: Se den ukentlige diskusjonen i leksjonen for å utdype studiet ditt
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Original utskriftslayout
+    description: Forbedre studiet av leksjonen ved å bruke original utskriftslayout med en rekke merknadsverktøy
+    image: "v1/images/features/feature_original_layout.png"

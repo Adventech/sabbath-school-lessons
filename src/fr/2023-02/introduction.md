@@ -1,0 +1,23 @@
+### Les messages des trois anges
+
+Le 15 octobre 1844, une semaine avant la grande déception, un garçon était né dans une famille luthérienne pieuse en Allemagne. Il s’appelait Friedrich Nietzsche, qui allait devenir l’un des athées les plus influents de la modernité. Convaincu que le Dieu chrétien est en train de mourir en Occident, Nietzsche s’insurge contre l’influence morale continue de la religion chrétienne, qu’il qualifie de « morale d’esclave », la morale des faibles qui, pour se protéger des plus forts, ont concocté des notions aussi stupides qu’ « aimez vos ennemis ». Pour Nietzsche, la modernité devait dépasser les notions archaïques de « bien et de mal ». Un personnage de l’un de ses livres (Ainsi parlait Zarathoustra) déclarait: « Brisez... les vieilles tablettes! ». (c’est-à-dire, les dix commandements, bien évidemment).
+
+L’année 1844 a également été importante pour Karl Marx, le fondateur du communisme. Appelé « Manuscrits économiques et philosophiques de 1844 », cet ouvrage avait été écrit par Marx cette année-là, même s’il n’a été publié qu’en 1932 par l’Union soviétique. Les manuscrits montrent les premiers développements de l’idéologie de Marx, dans laquelle il défendait une réalité totalement matérialiste qui passait par différentes étapes économiques jusqu’à ce que les travailleurs du monde s’unissent, renversent leurs oppresseurs capitalistes et créent une utopie sur la terre.
+
+L’année 1844 a également été importante pour Charles Darwin. Dans ce que l’on a appelé « L’Essai de 1844 », Darwin a produit l’une des premières expressions de sa théorie de l’évolution, même si elle n’a pas été rendue publique à l’époque. Ce n’est qu’en 1859, avec la publication de L’origine des espèces, que Darwin a publiquement promulgué son point de vue selon lequel toutes les formes de vie sur terre sont issues d’un ancêtre commun par des processus naturels et fortuits uniquement.
+
+L’année 1844 fut cependant celle de l’accomplissement de la prophétie de 2 300 jours de Daniel 8:14, et l’année même où furent plantées sur le reste de la grande déception, les graines qui allaient éclore en un mouvement mondial dont le message central répudiait les entrailles de l’idéologie marxiste, nietzschéenne et darwinienne.
+
+Contre Marx, le mouvement adventiste du septième jour a proclamé que le grand conflit entre Christ et Satan, et non un flux matérialiste de l’histoire, expliquait l’histoire du monde qui se terminerait, non pas dans une utopie communiste faite par l’homme, mais dans l’établissement surnaturel du royaume éternel de Dieu.
+
+Contre Darwin, le mouvement adventiste du septième jour a enseigné que la vie est née, non pas du processus naturel et fortuit de la mutation aléatoire et de la sélection naturelle, mais de la puissance du Dieu créateur, qui a créé la vie sur terre en six jours et s’est reposé le septième.
+
+Et contre Nietzsche, le mouvement adventiste du septième jour a proclamé non seulement que Dieu existe, mais aussi que son code universel de moralité (les « vieilles tablettes »), les dix commandements, reste la norme ultime de son jugement et lie toute l’humanité.
+
+Une coïncidence que tous ces évènements se soient produits en 1844? Absolument pas.
+
+Marx, Nietzsche et Darwin sont trois personnages influents dont les travaux ont causé à l’humanité des dommages irréparables. Mais au milieu de toutes ces erreurs, Dieu n’a pas laissé le monde sans un témoin de Sa vérité. C’est pourquoi, au milieu de ces idéologies destructrices, il a suscité un mouvement qui, avec le temps, deviendrait l’Église adventiste du septième jour et qui proclamerait au monde Sa vérité des derniers jours, à savoir, les messages des trois anges. Ce sont des messages qui, au fond, réfutent les erreurs et les conceptions erronées promues par ces trois hommes terriblement trompés.
+
+Les messages des trois anges sont, en un sens, la feuille de route de l’Église adventiste du septième jour. Et au fond, ils sont L’évangile, pur et simple, mais l’évangile présenté dans le contexte de la « vérité présente » (2 Pierre 1:12, LSG). Les messages des trois anges constituent le thème de notre étude ce trimestre.
+
+_Originaire du Connecticut (États-Unis), Mark Finley, évangéliste de renommée internationale, a été vice-président de la Conférence générale de 2005 à 2010. Après sa retraite, il est devenu assistant du président de la Conférence générale. Le pasteur Finley et son épouse, Ernestine, ont trois enfants et cinq petits-enfants._
