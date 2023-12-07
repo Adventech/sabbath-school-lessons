@@ -9,7 +9,7 @@ _Andrew McChesney_
 
 Šestnáctiletý Joseph Delamou neměl klid. Obával se, že v Konakry, hlavním městě západoafrické Guineje, nenavštěvuje správnou církev.
 
-"Ukaž mi cestu," modlil se. "Půjdu, kamkoli mě povedeš." Té noci měl živý sen. Zdálo se mu, že on a 70 členů jeho sboru jsou v církevním areálu a plánují, jak rozšířit místo, kde se shromažďují. Za areálem se tyčil palác mocného krále, vládce světa.
+"Ukaž mi cestu," modlil se. "Půjdu, kamkoli mě povedeš." Té noci měl živý sen. Zdálo se mu, že on a 70 členů z jeho církevního společenství jsou v církevním areálu a plánují, jak rozšířit místo, kde se shromažďují. Za areálem se tyčil palác mocného krále, vládce světa.
 
 Náhle do areálu vtrhla jednotka vojáků. "Musíš odejít," řekl Josefovi jeden z vojáků. "Chceme vás vycvičit, abyste vstoupili do našich řad."
 
