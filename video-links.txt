@@ -1,19 +1,19 @@
-yt-dlp "https://www.youtube.com/watch?v=Zbm-Z71C-jg" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "tp/tp-en-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=GMypV4NdlGo" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "iiw/iiw-en-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=GIZasQRsoFs" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/365/365-en-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=1oFB6nAbRQE" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/ee/es-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=os46NRMHJFM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/inv/pt-inv-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=DJV94UiWdf8" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/viva/es-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=_VV0_fTiYsg" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=CK_0FTt3SEo" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/apl/pt-apl-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=tRSTZHfBvOk" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/lago/pt-lago-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=SQVYj4WTkao" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ro/tbs/ro-tbs-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Z895t1O6Q48" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/inv/es-2023-04-inv-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=dc8Yv5WtZUc" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/tbs/de-tbs-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=3n9u1tmpv5I" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/em/fr-em-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=VJlJjeamUFg" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/jm/de-jm-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=6_bhzTBakM4" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/esj/fr-esj-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=vKAEv15XSGs" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "it/it-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=EhnLUm_EN8M" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/ffn/fr-ffn-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=9LfH0hpYFdA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "cs/cs-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=iK3iqpWkGRo" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "fr/hope/fr-hope-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=hDOjECagRZ0" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "uk/uk-2023-04-11.mp4"
