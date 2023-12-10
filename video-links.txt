@@ -3,3 +3,5 @@ yt-dlp "https://www.youtube.com/watch?v=mK3Wj33KQYA" --format "best[height<=?108
 yt-dlp "https://www.youtube.com/watch?v=T6w_3vGSPqU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "inv/en-2023-04-inv-11.mp4"
 
 yt-dlp "https://vimeo.com/891121043" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2023-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=mI0jh7cHxRE" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ro/ro-2023-04-11.mp4"
