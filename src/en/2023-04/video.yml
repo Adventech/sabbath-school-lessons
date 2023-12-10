@@ -60,6 +60,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-10.mp4
           target: en/2023-04/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-11.mp4
+          target: en/2023-04/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-11.webp
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-01.mp4
@@ -90,6 +93,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-10.mp4
           target: en/2023-04/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-11.mp4
+          target: en/2023-04/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2023-04-11.webp
     - artist: Amazing Facts Study Hour
       thumbnail: https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg
       clips:
@@ -145,3 +151,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-10.mp4
           target: en/2023-04/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-11.mp4
+          target: en/2023-04/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2023-04-11.webp
