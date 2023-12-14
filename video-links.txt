@@ -1,17 +1,7 @@
-yt-dlp "https://www.youtube.com/watch?v=JTkgm2771r8" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ru/zau/ru-zau-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=HnmBhN1LWd4" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "hr/hr-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=0y4uoAuAmuA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ru/bol/ru-bol-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=brRZ5dBFCRo" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "af/hb/af-hb-2023-04-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=BsL3n8PR5-I" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "zh/cant/zh-cant-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=RHoW5FCpm2U" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ko/dsn/ko-dsn-2023-04-12.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=4ovTRsOLf5g" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "zh/hopetv/zh-hopetv-2023-04-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=2KwHWl4nSBk" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "in/af/in-af-2023-04-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=JRtvm3gh1sY" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-inv-2023-04-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Hq6iB9-sYx8" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/bul/es-2023-04-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=gh8spkZtsRE" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/af/de-af-2023-04-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=boFxv2bMo7M" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ta/ta-2023-04-11.mp4"
+yt-dlp "https://vimeo.com/894299472" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2023-04-12.mp4"
