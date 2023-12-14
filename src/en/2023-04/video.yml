@@ -30,6 +30,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-10.mp4
           target: en/2023-04/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-11.mp4
+          target: en/2023-04/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2023-04-11.webp
     - artist: Hope Lives 365
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2023-04-01.mp4
