@@ -27,3 +27,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-09.mp4
           target: uk/2023-04/09
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-10.mp4
+          target: uk/2023-04/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-11.mp4
+          target: uk/2023-04/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2023-04-11.webp
