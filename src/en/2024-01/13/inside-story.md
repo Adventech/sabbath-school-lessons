@@ -31,7 +31,7 @@ The police officers read the letter carefully. Then they saluted.
 
 But that wasn’t the end of the story. Shortly afterward, a grandmother stopped by the book stand. Someone had given her The Great Controversy some time earlier, and she had read it to her grandson. He had liked it very much, especially the portrayal of Waldensian young people clandestinely sharing the Word of God at the risk of their lives in the Middle Ages. The grandmother told Ryszard that her grandson wanted to be like the Waldensians. Her grandson understood that he needed to be like them—faithful to the Word of God at all costs.
 
-“He saw your stand and your book The Great Controversy,” she said. “He said to me, ‘Grandma, the Waldensians are in our town.’ ”
+“He saw your stand and your book _The Great Controversy_,” she said. “He said to me, ‘Grandma, the Waldensians are in our town.’ ”
 
 So, the grandmother sought out Ryszard to tell him about her grandson. She later joined the Seventh-day Adventist Church.
 

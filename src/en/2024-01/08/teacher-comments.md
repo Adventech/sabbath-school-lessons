@@ -7,7 +7,7 @@ date:  23/02/2024
 
 Key Texts: Psalms 1, 19, 32, 34, 37, 49, 73, 112, 119, 127, 128, 133
 
-How do we define wisdom? A modern dictionary defines wisdom as “the body of knowledge and principles that develops within a specified society or period.” Wisdom also relates to the “soundness of an action or decision.” We also use wisdom to mean “the quality of having experience, knowledge, and good judgment.”—Oxford Language Dictionary. Wisdom relates to knowledge, including the ability to make a wise decision.
+How do we define wisdom? A modern dictionary defines wisdom as “the body of knowledge and principles that develops within a specified society or period.” Wisdom also relates to the “soundness of an action or decision.” We also use wisdom to mean “the quality of having experience, knowledge, and good judgment.”—_Oxford Language Dictionary_. Wisdom relates to knowledge, including the ability to make a wise decision.
 
 When we meet someone with vast knowledge in a specific area of science or literature, we call him or her “wise.” Wisdom in our common understanding today often refers to possessing expertise or knowledge in a specialized area. For some people, wisdom encompasses secret knowledge and the ability to decipher mysteries or reach a higher spiritual level.
 
@@ -39,29 +39,29 @@ Many Bible scholars classify certain Psalms among the wisdom literature of the S
 
 Below we will examine the treatment of wisdom in the aforementioned psalms, as cited in the quotation above:
 
-Psalm 1. This psalm presents two ways of life: the life of righteousness (verses 2, 3) and the life of wickedness (verses 4, 5). The song starts with a description of how the righteous go in the opposite direction from the unrighteous (verse 1). As a result of their choices, the wicked receive a very different destiny from the righteous (verse 6).
+**Psalm 1**. This psalm presents two ways of life: the life of righteousness (verses 2, 3) and the life of wickedness (verses 4, 5). The song starts with a description of how the righteous go in the opposite direction from the unrighteous (verse 1). As a result of their choices, the wicked receive a very different destiny from the righteous (verse 6).
 
-Psalm 19. This psalm is divided into two clear sections. The first section contains the revelation of God in the Creation (verses 1–6), and the second section contains His revelation in the Law (verses 7–14). These two themes are very important to an understanding and attainment of biblical wisdom. Both topics are an inspiration to the believer who aspires to be “blameless” and “innocent of great transgression” (verse 13, NKJV).
+**Psalm 19**. This psalm is divided into two clear sections. The first section contains the revelation of God in the Creation (verses 1–6), and the second section contains His revelation in the Law (verses 7–14). These two themes are very important to an understanding and attainment of biblical wisdom. Both topics are an inspiration to the believer who aspires to be “blameless” and “innocent of great transgression” (verse 13, NKJV).
 
-Psalm 32. This song provides a contrast between the repentant one and the wicked one (verses 10, 11). It also adopts the sapiential tone of instruction and teaching (verses 8, 9) that is common to wisdom literature (Prov. 4:1–15, Prov. 6:20–23, Prov. 7:1–5).
+**Psalm 32**. This song provides a contrast between the repentant one and the wicked one (verses 10, 11). It also adopts the sapiential tone of instruction and teaching (verses 8, 9) that is common to wisdom literature (Prov. 4:1–15, Prov. 6:20–23, Prov. 7:1–5).
 
-Psalm 34. Some portions of Psalm 34 are evocative of the practical advice that characterizes wisdom literature, as is seen in the tender call of the father to his son to desire long life, to pursue the fear of the Lord, and to flee from sin (verses 11–14). Subsequent to offering this advice, the psalmist describes the destiny of the faithful (verses 15, 16, 21). Doubtless, the best choice we can make in life is to walk in the way of wisdom.
+**Psalm 34**. Some portions of Psalm 34 are evocative of the practical advice that characterizes wisdom literature, as is seen in the tender call of the father to his son to desire long life, to pursue the fear of the Lord, and to flee from sin (verses 11–14). Subsequent to offering this advice, the psalmist describes the destiny of the faithful (verses 15, 16, 21). Doubtless, the best choice we can make in life is to walk in the way of wisdom.
 
-Psalm 37. This psalm answers the big question: Why do the wicked prosper? Nowadays, we raise the same question. The answer provided is not philosophical in its analysis; rather, it is faith-based counsel for a righteous life. Carefully contemplate the timeless wisdom in this song!
+**Psalm 37**. This psalm answers the big question: Why do the wicked prosper? Nowadays, we raise the same question. The answer provided is not philosophical in its analysis; rather, it is faith-based counsel for a righteous life. Carefully contemplate the timeless wisdom in this song!
 
-Psalm 49. In the opening lines this song states: “My mouth shall speak wisdom, and the meditation of my heart shall give understanding. I will incline my ear to a proverb; I will disclose my dark saying on the harp” (verses 3, 4, NKJV). From there, the writer proceeds to describe the fate of the prosperous wicked (verses 5–20).
+**Psalm 49**. In the opening lines this song states: “My mouth shall speak wisdom, and the meditation of my heart shall give understanding. I will incline my ear to a proverb; I will disclose my dark saying on the harp” (verses 3, 4, NKJV). From there, the writer proceeds to describe the fate of the prosperous wicked (verses 5–20).
 
-Psalm 73. The Hebrew people attempted to understand the origins of evil in this world and the injustice in society. They wrestled with whether or not divine retribution had failed. This issue presented no less a problem to them as it does to us today.
+**Psalm 73**. The Hebrew people attempted to understand the origins of evil in this world and the injustice in society. They wrestled with whether or not divine retribution had failed. This issue presented no less a problem to them as it does to us today.
 
-Psalm 112. This song depicts the blessings of fearing the Lord (verse 1). There are 16 blessings for those who are righteous (verses 2–9). A careful examination of these blessings will show that to fear the Lord is to aspire to the highest spiritual attainment in our daily lives. The psalmist ends with a short description of the dire fate of the wicked man in comparison to the righteous man.
+**Psalm 112**. This song depicts the blessings of fearing the Lord (verse 1). There are 16 blessings for those who are righteous (verses 2–9). A careful examination of these blessings will show that to fear the Lord is to aspire to the highest spiritual attainment in our daily lives. The psalmist ends with a short description of the dire fate of the wicked man in comparison to the righteous man.
 
-Psalm 119. The longest psalm in the Psalter is about the Torah (Law), which comprises more than merely the Mosaic code. The Torah refers to the whole of Scripture. It changes the lives of those who grasp the teachings of God’s Word.
+**Psalm 119**. The longest psalm in the Psalter is about the Torah (Law), which comprises more than merely the Mosaic code. The Torah refers to the whole of Scripture. It changes the lives of those who grasp the teachings of God’s Word.
 
-Psalm 127. Only five verses long, this psalm is focused on the Lord’s blessings upon the home and upon the children of those who trust in the Creator. Perhaps for this reason, the song is considered a sapiential expression. Wisdom must be the foundation upon which is laid the most precious treasure we have: our family.
+**Psalm 127**. Only five verses long, this psalm is focused on the Lord’s blessings upon the home and upon the children of those who trust in the Creator. Perhaps for this reason, the song is considered a sapiential expression. Wisdom must be the foundation upon which is laid the most precious treasure we have: our family.
 
-Psalm 128. The six lines of this short psalm are classed among the writings of wisdom literature because they refer to God’s prosperity in the homes of everyone “who fears the Lord” (verses 1, 4, NKJV).
+**Psalm 128**. The six lines of this short psalm are classed among the writings of wisdom literature because they refer to God’s prosperity in the homes of everyone “who fears the Lord” (verses 1, 4, NKJV).
 
-Psalm 133. Some may question the inclusion of this psalm in the sapiential literature of the Scriptures. But the expression “for the brethren to dwell together in unity” (verse 1, NKJV) infuses the verse with that characteristic tinge of biblical wisdom we have thus far identified as a distinguishing feature of wisdom literature. To be imbued with this spirit of brotherhood is the Almighty’s desire for us as His followers. Such unity is the practical evidence of a Christian life.
+**Psalm 133**. Some may question the inclusion of this psalm in the sapiential literature of the Scriptures. But the expression “for the brethren to dwell together in unity” (verse 1, NKJV) infuses the verse with that characteristic tinge of biblical wisdom we have thus far identified as a distinguishing feature of wisdom literature. To be imbued with this spirit of brotherhood is the Almighty’s desire for us as His followers. Such unity is the practical evidence of a Christian life.
 
 #### Part III: Life Application
 
