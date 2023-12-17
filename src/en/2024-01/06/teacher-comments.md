@@ -13,7 +13,7 @@ In Lesson 4, we explored the idea that God is our shelter, refuge, tower, and st
 
 **Social Oppression**
 
-Mosaic law commands God’s people to take special care of three groups of people: “the stranger, the fatherless, and the widow” _(Deut. 10:18, Deut. 14:29; Deut. 16:11, 14; Deut. 24:17_–_20; Deut. 26:12, 13; Deut. 27:19)_. Usually, these people didn’t have a source of stable income; many times they often didn’t own land that could be worked or tilled to sustain their families. Ideally, these fringe citizens and immigrants sought to find places where they could hire out their services or, at the very least, be permitted to gather the leftover fruits and sheaves behind the harvesters (see Ruth 2:6–8). Such persons didn’t have familial protection. Given their vulnerability, we can see how the abuse of widows, orphans, and strangers was considered one of the worst sins in society during Old Testament times. The prophets regularly admonished the people to provide for this underprivileged class _(Isa. 1:17, 23; Jer. 7:6; Jer. 22:3; Ezek. 22:7; Zech. 7:10)._
+Mosaic law commands God’s people to take special care of three groups of people: “the stranger, the fatherless, and the widow” (Deut. 10:18, Deut. 14:29; Deut. 16:11, 14; Deut. 24:17–20; Deut. 26:12, 13; Deut. 27:19). Usually, these people didn’t have a source of stable income; many times they often didn’t own land that could be worked or tilled to sustain their families. Ideally, these fringe citizens and immigrants sought to find places where they could hire out their services or, at the very least, be permitted to gather the leftover fruits and sheaves behind the harvesters (see Ruth 2:6–8). Such persons didn’t have familial protection. Given their vulnerability, we can see how the abuse of widows, orphans, and strangers was considered one of the worst sins in society during Old Testament times. The prophets regularly admonished the people to provide for this underprivileged class (Isa. 1:17, 23; Jer. 7:6; Jer. 22:3; Ezek. 22:7; Zech. 7:10).
 
 For this reason, the psalmist depicts the Lord as “a father of the fatherless, a defender of widows” (Ps. 68:5, NKJV). This is the Psalter’s promise: “The Lord watches over the strangers; He relieves the fatherless and widow; but the way of the wicked He turns upside down” (Ps. 146:9, NKJV; compare with Ps. 10:14). Our God is the God of the oppressed and the outcast.
 
@@ -29,13 +29,13 @@ The “Lord of hosts” (Josh. 5:14, 1 Sam 1:11, 1 Sam. 4:4, 1 Sam. 17:45, 2�
 
 The psalmist invokes this metaphor in Psalm 18:3–19. He claims to be delivered (Ps. 18:3) from a “strong enemy, from those who hated me, for they were too strong for me” (Ps. 18:17, NKJV). YHWH is described as a warrior, fighting for His servant, and as a Champion who, astride His warhorse, wields His weapons against the oppressors of His people. Read carefully verses 7–15. There are four scenarios, as follows:
 
-Psalm 18:6–8: The Divine Warrior is in His castle (His temple); He is stirred to righteous anger on behalf of His servant after hearing his prayer. The Divine Warrior reacts with fury in His servant’s defense (Ps. 18:8).
+**Psalm 18:6–8**: The Divine Warrior is in His castle (His temple); He is stirred to righteous anger on behalf of His servant after hearing his prayer. The Divine Warrior reacts with fury in His servant’s defense (Ps. 18:8).
 
-Psalm 18:9–12: The description of the Divine Warrior, who rides down in a magnificent display of power, is impressive. This imagery creates confidence in the heart of the Warrior’s servant. Assuredly, our God is no weakling.
+**Psalm 18:9–12**: The description of the Divine Warrior, who rides down in a magnificent display of power, is impressive. This imagery creates confidence in the heart of the Warrior’s servant. Assuredly, our God is no weakling.
 
-Psalm 18:13–15: In these verses, we read about an assault mounted by a Man of war, along with His fearsome munitions: hailstones, fire, arrows, and lightning. This figure of the Man of war, with His meteorological arsenal, connotes a powerful Soldier who, angered by injustice and oppression, fights valiantly and righteously for His loyal servant.
+**Psalm 18:13–15**: In these verses, we read about an assault mounted by a Man of war, along with His fearsome munitions: hailstones, fire, arrows, and lightning. This figure of the Man of war, with His meteorological arsenal, connotes a powerful Soldier who, angered by injustice and oppression, fights valiantly and righteously for His loyal servant.
 
-Psalm 18:16–19: Here we read about the servant’s deliverance; the Warrior rescues, emancipates, and sustains him. “He also brought me out into a broad place” (Ps. 18:19, NKJV).
+**Psalm 18:16–19**: Here we read about the servant’s deliverance; the Warrior rescues, emancipates, and sustains him. “He also brought me out into a broad place” (Ps. 18:19, NKJV).
 
 What an amazing and detailed description of the Lord’s work for His children under the most trying circumstances. This understanding of God’s character will transform the world and our church. The oppressed and persecuted must rest in the assurance that God is fighting for them.
 

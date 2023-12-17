@@ -17,13 +17,13 @@ The honesty and straightforwardness of the psalmists in their petitions to YHWH 
 
 Not so the sons of Korah. Let’s look at some of the lessons we can learn from their bold prayer in Psalm 44:
 
-1.	The sons of Korah trust in God (Ps. 44:4–8), no matter what humiliations they face, because they remember YHWH’s works for them (Ps. 44:1–3). Their complaint is not one in which hard feelings and recrimination toward God dominate. Rather, their prayer is based on true faith in His strength and mercy.
+1. The sons of Korah trust in God (Ps. 44:4–8), no matter what humiliations they face, because they remember YHWH’s works for them (Ps. 44:1–3). Their complaint is not one in which hard feelings and recrimination toward God dominate. Rather, their prayer is based on true faith in His strength and mercy.
 
-2.	They claim the Lord has abandoned them to the mercy of their enemies (Ps. 44:9–16). Can we express the same sentiment to our Creator without losing our faith?
+2. They claim the Lord has abandoned them to the mercy of their enemies (Ps. 44:9–16). Can we express the same sentiment to our Creator without losing our faith?
 
-3.	The sons of Korah confirm they have not forgotten their God (Ps. 44:17). They have been faithful and acknowledge they cannot cheat the Lord (Ps. 44:17–22).
+3. The sons of Korah confirm they have not forgotten their God (Ps. 44:17). They have been faithful and acknowledge they cannot cheat the Lord (Ps. 44:17–22).
 
-4.	The song ends with strong cries for God to act on their behalf: “awake,” “arise,” “redeem” (Ps. 44:23–26). Thus, they plead mightily for deliverance.
+4. The song ends with strong cries for God to act on their behalf: “awake,” “arise,” “redeem” (Ps. 44:23–26). Thus, they plead mightily for deliverance.
 
 The psalm ends without a clear answer from the Lord. His silence is a reminder that many times, this side of eternity, we may not always get the response from heaven that we desire. But we must not permit dismay to overwhelm us or cause us to make a shipwreck of our faith.
 
@@ -33,15 +33,11 @@ This psalm is composed in the same vein as Psalm 44, although it should be noted
 
 Whatever the historical origin of this song, there is no doubt that this psalm is Messianic. The New Testament quotes from it several times in the context of the suffering that Jesus experienced during His trial, torture, and crucifixion:
 
-•	“ ‘My God, my God, why have You forsaken me?’ ” (Mark 15:34, Matt. 27:46, NKJV) is a direct quotation of Psalm 22:1.
-
-•	Psalm 22:7 is applied to Jesus on the cross and to His mockers (Mark 15:29, Matt. 27:39, 40).
-
-•	Psalm 22:16 (“ ‘My hands and feet have shriveled’ ” NRSV) is a direct allusion to Jesus being nailed to the cross, even though this particular verse is not quoted by the Gospels.
-
-•	Mark 15:24 and Matthew 27:35 allude to Psalm 22:18.
-
-•	Psalm 22:12–15 also can be applied, without any hesitation, to the experience of Jesus. Psalm 22:17 depicts the condition of our Savior on the cross: “ ‘I can count all My bones. They look and stare at Me’ ” (NKJV).
+- “ ‘My God, my God, why have You forsaken me?’ ” (Mark 15:34, Matt. 27:46, NKJV) is a direct quotation of Psalm 22:1.
+- Psalm 22:7 is applied to Jesus on the cross and to His mockers (Mark 15:29, Matt. 27:39, 40).
+- Psalm 22:16 (“ ‘My hands and feet have shriveled’ ” NRSV) is a direct allusion to Jesus being nailed to the cross, even though this particular verse is not quoted by the Gospels.
+- Mark 15:24 and Matthew 27:35 allude to Psalm 22:18.
+- Psalm 22:12–15 also can be applied, without any hesitation, to the experience of Jesus. Psalm 22:17 depicts the condition of our Savior on the cross: “ ‘I can count all My bones. They look and stare at Me’ ” (NKJV).
 
 In the context of the study of our lesson this week, it’s a comforting thought to know that this same Creator, when in our human condition, faced a degree of suffering that far exceeds any anguish or trial we shall ever face in our lives. For sure, our Lord recalled this psalm during that fateful Friday of His death and prayed it with tears in His eyes. We, too, can make these words our own amid our sorrows.
 
@@ -51,7 +47,7 @@ Likewise, Psalm 22 expresses this same perfect trust and submission to the will 
 
 **Psalm 13**
 
-The writers of the Psalter list two questions to express desperation amid suffering and trials. One question is “Why?” [Heb. lamah]. “Why?” is used when the interlocutor wants to understand the actions of God under difficult circumstances, as follows: (1) when it seems the Lord is not doing anything to save His follower (Ps. 10:1, Ps. 44:23); (2) when it seems that God has forsaken the sufferer (Ps. 22:1, Ps. 42:9, Ps. 44:24); or (3) when it appears that the Lord has cast him off (Ps. 42:3, Ps. 74:1, Ps. 88:14). In essence, this question is employed in an attempt to understand the reason for the action (or inaction) of God.
+The writers of the Psalter list two questions to express desperation amid suffering and trials. One question is “Why?” [Heb. _lamah_]. “Why?” is used when the interlocutor wants to understand the actions of God under difficult circumstances, as follows: (1) when it seems the Lord is not doing anything to save His follower (Ps. 10:1, Ps. 44:23); (2) when it seems that God has forsaken the sufferer (Ps. 22:1, Ps. 42:9, Ps. 44:24); or (3) when it appears that the Lord has cast him off (Ps. 42:3, Ps. 74:1, Ps. 88:14). In essence, this question is employed in an attempt to understand the reason for the action (or inaction) of God.
 
 The second question the psalmists use is “How long?” (Ps. 13:1, 2; Ps. 35:17; Ps. 74:10; Ps. 79:5; Ps. 80:4; Ps. 89:46; Ps. 90:13; Ps. 94:3). “How long?” is utterly dissimilar to “Why?” in its intention. “How long?” doesn’t dispute God’s actions in the midst of one’s suffering. Rather, “How long?” acknowledges that the Lord is always in control. Further, this question doesn’t petition God for vengeance against the source of one’s pain and sorrow. This interrogative expression simply voices the desire to know how much longer God will require the believer to wait. Moreover, “How long?” requests the Lord to act. This question also embodies the feeling of spiritual fatigue we endure in the face of our ongoing suffering and the yearning for it to end. We, too, with the psalmist may ask the Lord in our prayers: “How long?” Likewise, we may submit to Him a petition for His intervention and mercy. Such a plea can be termed a “grievance of faith.”
 

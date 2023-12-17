@@ -37,19 +37,20 @@ The Exodus paradigm is repeated in the new exodus when the Jews came back from B
 
 The actions of God in history offer us another important lesson, as stated by the psalmist:
 
-I will open my mouth in a parable;
-
-I will utter dark sayings of old,
-
-which we have heard and known,
-
-and our fathers have told us.
-
-We will not hide them from their children,
-
-telling to the generation to come the praises of the Lord,
-
-and His strength and His wonderful works that He has done (Ps. 78:2–4, NKJV).
+> <p></p>
+> I will open my mouth in a parable;
+> <p></p>
+> I will utter dark sayings of old,
+> <p></p>
+> which we have heard and known,
+> <p></p>
+> and our fathers have told us.
+> <p></p>
+> We will not hide them from their children,
+> <p></p>
+> telling to the generation to come the praises of the Lord,
+> <p></p>
+> and His strength and His wonderful works that He has done (Ps. 78:2–4, NKJV).
 
 In ancient Israel, parents educated their children by reciting to them the actions of the God of their forefathers. Time after time, the command is given to parents to repeat those deeds of salvation—the slaying of the firstborn males in Egypt (Exod. 13:14–16), the miracles of the Exodus (Deut. 6:20–25), and the crossing of the Jordan River (Josh. 4:20–24)—to their children. Such recitation involved more than simply memorizing statements and laws. Rather, implicit in this form of education is the idea that a strong grasp of history was the best way for the next generation to preserve their parents’ faith.
 
@@ -57,7 +58,7 @@ There is intentionality in the commands to teach our children. We should teach t
 
 **Don’t Forget Your Past**
 
-It oft has been said, “The people who forget their past are condemned to repeat it.” Likewise, the Spirit of Prophecy tells us, “We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and His teaching in our past history.”—Ellen G. White, Last Day Events, p. 72. Psalm 105:5 asserts, “Remember His marvelous works which He has done, His wonders, and the judgments of His mouth” (NKJV).
+It oft has been said, “The people who forget their past are condemned to repeat it.” Likewise, the Spirit of Prophecy tells us, “We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and His teaching in our past history.”—Ellen G. White, _Last Day Events_, p. 72. Psalm 105:5 asserts, “Remember His marvelous works which He has done, His wonders, and the judgments of His mouth” (NKJV).
 
 History was often expressed in song to facilitate its memorization and instill biblical truth in the minds of the people of ancient Israel. We can benefit from an application of this vital truth in our own lives. To repeat the miracles and providences of our Almighty God, as recorded in the Scriptures and from our own personal experience, is a source of inspiration, faith, and strength.
 
@@ -83,11 +84,11 @@ But what good do all these things do us if we lack the accompanying spirit of pr
 
 Below is a summary of the important concepts of this week’s lesson. Share them with your class:
 
-1.	The Lord is a personal God. Additionally, the Lord of the Old Testament is intimately involved in the affairs of human beings.
+1\. The Lord is a personal God. Additionally, the Lord of the Old Testament is intimately involved in the affairs of human beings.
 
-2.	God acts even today; if He acted on behalf of His people in the past, there’s no reason He cannot do the same for His people today. It’s our privilege to see His deeds in our daily life.
+2\. God acts even today; if He acted on behalf of His people in the past, there’s no reason He cannot do the same for His people today. It’s our privilege to see His deeds in our daily life.
 
-3.	Every event of human existence—our personal experiences, the actions and decisions of our church, the government of our country—is in His hands. Everything is controlled and guided by Him.
+3\. Every event of human existence—our personal experiences, the actions and decisions of our church, the government of our country—is in His hands. Everything is controlled and guided by Him.
 
 Praise the Lord that our God is a real Person and our Friend!
 

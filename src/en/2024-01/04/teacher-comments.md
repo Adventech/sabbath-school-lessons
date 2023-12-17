@@ -15,11 +15,11 @@ Last week, we considered the supremacy of God and how, as Divine Sovereign, He i
 
 **God Hears**
 
-The psalmist constantly pleads with the Lord to hear him. Several psalms start with a cry for YHWH to listen: Psalm 4:1, Psalm 13:3, Psalm 17:1, Psalm 27:1, Psalm 28:2, Psalm 54:2, Psalm 55:2, Psalm 60:5, Psalm 61:1, Psalm 64:1, Psalm 86:1, Psalm 102:1, Psalm 108:6, Psalm 130:2, Psalm 140:6, Psalm 142:6, and Psalm 143:1. In such songs, the psalmist cries out to God, his heart filled with grief: “O Lord God of hosts, hear my prayer; give ear, O God of Jacob!” (Ps. 84:8, NKJV; emphasis supplied). In their prayers, the psalmists insist on being heard (Ps. 30:10; Ps. 38:16; Ps. 39:12; Ps. 66:16; Ps. 69:13, 16, 17; Ps. 119:145, 149). They cry out in the assurance that “the Lord hears, and delivers them out of all their troubles” (Ps. 34:17, NKJV).
+The psalmist constantly pleads with the Lord to hear him. Several psalms start with a cry for YHWH to listen: Psalm 4:1, Psalm 13:3, Psalm 17:1, Psalm 27:1, Psalm 28:2, Psalm 54:2, Psalm 55:2, Psalm 60:5, Psalm 61:1, Psalm 64:1, Psalm 86:1, Psalm 102:1, Psalm 108:6, Psalm 130:2, Psalm 140:6, Psalm 142:6, and Psalm 143:1. In such songs, the psalmist cries out to God, his heart filled with grief: “O Lord God of hosts, _hear_ my prayer; give ear, O God of Jacob!” (Ps. 84:8, NKJV; emphasis supplied). In their prayers, the psalmists insist on being heard (Ps. 30:10; Ps. 38:16; Ps. 39:12; Ps. 66:16; Ps. 69:13, 16, 17; Ps. 119:145, 149). They cry out in the assurance that “the Lord hears, and delivers them out of all their troubles” (Ps. 34:17, NKJV).
 
 Sometimes the writers of the Psalms affirm that God has heard their complaints and needs (Ps. 22:24, Ps. 28:7, Ps. 31:22, Ps. 34:4, Ps. 40:1, Ps. 66:19, Ps. 116:1, Ps. 120:1): “I cried out to God with my voice—to God with my voice; and He gave ear to me” (Ps. 77:1, NKJV). Remembering God’s answers to prayer in the past strengthens the psalmists in the assurance that He will answer them now and in the future. In full confidence of a divine response, the psalmists state repeatedly that the Lord will answer their prayers (Ps. 4:1; Ps. 6:8, 9; Ps. 10:7; Ps. 17:6; Ps. 65:2). They assure us that God is available to hear our prayers morning, noon, or night (Ps. 5:3, Ps. 55:17). Experience has proven that, even if family fails them, God will hear their cry (Ps. 106:44).
 
-“To hear, to listen” (Hebrew shamah) means more than to perceive the voice or register a sound. In the context of the Lord as auditor, the word hear, or listen, also means to act. That is, we can trust that God will act for His people in response to their prayers. When Israel was enslaved in Egypt, the Lord “heard” (Exod. 2:24), and He delivered them. The book of Psalms is an invitation to us to have this same level of confidence.
+“To hear, to listen” (Hebrew _shamah_) means more than to perceive the voice or register a sound. In the context of the Lord as auditor, the word hear, or listen, also means to act. That is, we can trust that God will act for His people in response to their prayers. When Israel was enslaved in Egypt, the Lord “heard” (Exod. 2:24), and He delivered them. The book of Psalms is an invitation to us to have this same level of confidence.
 
 **God Cares**
 
@@ -33,39 +33,39 @@ What tender depictions of God’s solicitude on behalf of every one of us. May s
 
 The Bible is stingy in its use of adjectives. To compensate for this paucity of modifiers, the Hebrew poets strongly depend on comparisons to articulate their ideas, using a wide array of rich metaphors to express, for example, how God protects His followers in a complicated world: “For You have been a shelter for me, a strong tower from the enemy” (Ps. 61:3, NKJV). Let’s take a brief moment to consider the connotations of the specific images in these comparisons:
 
-1.	Shelter—(Ps. 61:3, Ps. 143:9). This image suggests a safe place amid war, a refuge from storm and heat.
+1. **Shelter**—(Ps. 61:3, Ps. 143:9). This image suggests a safe place amid war, a refuge from storm and heat.
 
-2.	Tower—(Ps. 61:3). Towers in biblical times had a much stronger meaning as a safeguard than they do today. In times of war or persecution, the people hid in a tower, as in the cases of Gideon (Judg. 8:17) and Abimelech (Judg. 9:50–52).
+2. **Tower**—(Ps. 61:3). Towers in biblical times had a much stronger meaning as a safeguard than they do today. In times of war or persecution, the people hid in a tower, as in the cases of Gideon (Judg. 8:17) and Abimelech (Judg. 9:50–52).
 
 Psalm 18:1, 2 provides a collection of other metaphors applied to YHWH, drawn from the rest of the Psalter:
 
-3.	Strength—This term alludes to the idea of firmness, as in the One who is our support.
+3. **Strength**—This term alludes to the idea of firmness, as in the One who is our support.
 
-4.	A Rock—Usually this term in the Hebrew language referred to a big stone on a cliff that afforded protection from attacks. The remnant of Benjamin fled and hid in the rock of Rimmon (Judg. 20:47). Thus, they were spared from annihilation.
+4. **A Rock**—Usually this term in the Hebrew language referred to a big stone on a cliff that afforded protection from attacks. The remnant of Benjamin fled and hid in the rock of Rimmon (Judg. 20:47). Thus, they were spared from annihilation.
 
-5.	A Fortress—Fortresses were small, well-defended military posts. Jehoshaphat built many such fortresses in the land of Judah to protect his kingdom (2 Chron. 17:12).
+5. **A Fortress**—Fortresses were small, well-defended military posts. Jehoshaphat built many such fortresses in the land of Judah to protect his kingdom (2 Chron. 17:12).
 
-6.	A Shield—This piece of armor was the soldier’s greatest defense on the battlefield (see also Ps. 114:2).
+6. **A Shield**—This piece of armor was the soldier’s greatest defense on the battlefield (see also Ps. 114:2).
 
-7.	A Stronghold—Symbols of security, strongholds were defensive structures built in the mountains (Judg. 6:2) or in the wilderness (1 Sam. 23:14, 19).
+7. **A Stronghold**—Symbols of security, strongholds were defensive structures built in the mountains (Judg. 6:2) or in the wilderness (1 Sam. 23:14, 19).
 
 Imagine the ways in which these images might be reinvented in modern terms to help us understand God’s watch care and protection for us today. For sure, the Lord provides us with His guardianship, day by day, amid the perils of this world.
 
 **God Is Our Defender**
 
-God is our Vindicator, our Advocate, and our Champion. This imagery is obviously drawn from the legal realm (Job 5:4) and is primarily employed in the context of the widow and the fatherless. The book of Job and the Psalms depict the Lord as the Defender of widows and orphans (Ps. 68:5, Hebrew dayin, meaning “judge”). Dayin is paired with “my right and my cause” (Ps. 9:4), or parallels with judgment, as in Psalm 76:8, where God is depicted as the Defender of the needy and the oppressed (Ps. 10:17, 18; compare with Deut. 10:18, Ps. 10:14). God is praised by the poor (Ps. 74:21) because “He has not despised nor abhorred the affliction of the afflicted; nor has He hidden His face from Him; but when He cried to Him, He heard” (Ps. 22:24, NKJV). YHWH always defends the oppressed (Ps. 72:4, Ps. 103:6, Ps. 146:7).
+God is our Vindicator, our Advocate, and our Champion. This imagery is obviously drawn from the legal realm (Job 5:4) and is primarily employed in the context of the widow and the fatherless. The book of Job and the Psalms depict the Lord as the Defender of widows and orphans (Ps. 68:5, Hebrew _dayin_, meaning “judge”). Dayin is paired with “my right and my cause” (Ps. 9:4), or parallels with judgment, as in Psalm 76:8, where God is depicted as the Defender of the needy and the oppressed (Ps. 10:17, 18; compare with Deut. 10:18, Ps. 10:14). God is praised by the poor (Ps. 74:21) because “He has not despised nor abhorred the affliction of the afflicted; nor has He hidden His face from Him; but when He cried to Him, He heard” (Ps. 22:24, NKJV). YHWH always defends the oppressed (Ps. 72:4, Ps. 103:6, Ps. 146:7).
 
 **God, Our Deliverer**
 
 All the terms and metaphors we have considered depict various aspects of God’s watch care over His followers. Hence, the Lord is called our Deliverer. Four times He is called Deliverer in the book of Psalms, as follows:
 
-1.	Psalm 18:2 names God as Deliverer in the context of the psalmist’s struggles with his enemies. As we have seen, this song depicts the Lord as a mighty warrior.
+1. Psalm 18:2 names God as Deliverer in the context of the psalmist’s struggles with his enemies. As we have seen, this song depicts the Lord as a mighty warrior.
 
-2.	Psalm 40:17 talks about deliverance from sin. David acknowledges the crushing reality that “innumerable evils have surrounded me; my iniquities have overtaken me” (Ps. 40:12, NKJV).
+2. Psalm 40:17 talks about deliverance from sin. David acknowledges the crushing reality that “innumerable evils have surrounded me; my iniquities have overtaken me” (Ps. 40:12, NKJV).
 
-3.	The psalmist calls on his Deliverer (Ps. 70:5) when he is attacked by those who seek his life and desire to do him harm.
+3. The psalmist calls on his Deliverer (Ps. 70:5) when he is attacked by those who seek his life and desire to do him harm.
 
-4.	In Psalm 144, the psalmist asks his Deliverer (Ps. 144:2) to rescue him from the one “whose mouth speaks lying words, and whose right hand is a right hand of falsehood” (Ps. 144:8, NKJV).
+4. In Psalm 144, the psalmist asks his Deliverer (Ps. 144:2) to rescue him from the one “whose mouth speaks lying words, and whose right hand is a right hand of falsehood” (Ps. 144:8, NKJV).
 
 As the Psalms show, God wants to deliver us from our sins, anxieties, and problems with other people. Thus, in the fullest sense of the word, Jesus is our Savior.
 

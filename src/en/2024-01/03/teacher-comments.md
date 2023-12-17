@@ -11,15 +11,15 @@ Study Focus: Psalm 8, Psalm 100, Psalm 97, Psalm 75:1−10, Psalm 105:7−10, Ga
 
 This week, we shall examine five aspects of God’s sovereignty in the Psalter. We will see that the Psalms affirm the following:
 
-1.	The foundation of God’s sovereignty is based in the Creation. The Lord is the Maker of the heavens and the earth (Gen. 1:1) and humanity (Gen. 1:26).
+1. The foundation of God’s sovereignty is based in the Creation. The Lord is the Maker of the heavens and the earth (Gen. 1:1) and humanity (Gen. 1:26).
 
-2.	On the basis of this Bible truth, the various psalmists proclaim that YHWH is the ruler over all the world and the nations.
+2. On the basis of this Bible truth, the various psalmists proclaim that YHWH is the ruler over all the world and the nations.
 
-3.	The sovereignty of the Lord is inseparably intertwined in His work as Judge.
+3. The sovereignty of the Lord is inseparably intertwined in His work as Judge.
 
-4.	As Judge, God intercedes for His people because of His covenant with them.
+4. As Judge, God intercedes for His people because of His covenant with them.
 
-5.	He is faithful to the rules of this treaty because the Law of His covenant is the foundation of His kingdom.
+5. He is faithful to the rules of this treaty because the Law of His covenant is the foundation of His kingdom.
 
 As we shall see, these five topics are closely intertwined.
 
@@ -37,15 +37,15 @@ God made the universe; therefore, it belongs to Him. Thus, He is its King. “Th
 
 Psalm 97 summarizes well the message of God’s kingship:
 
-1.	God reigns (Ps. 97:1). Many psalms exalt God as King (Psalm 47, Psalm 93, Psalms 95–99).
+1. God reigns (Ps. 97:1). Many psalms exalt God as King (Psalm 47, Psalm 93, Psalms 95–99).
 
-2.	Dramatic elements such as clouds, darkness, fire, lightning, the earth, mountains, and the heavens surround God (Ps. 97:2–6). These meteorological phenomena and geological splendors portray the greatness of the King of kings, who inspires our awe and reverence.
+2. Dramatic elements such as clouds, darkness, fire, lightning, the earth, mountains, and the heavens surround God (Ps. 97:2–6). These meteorological phenomena and geological splendors portray the greatness of the King of kings, who inspires our awe and reverence.
 
-3.	The shamefulness of idolatry is condemned in contrast to the superiority of worshiping God (Ps. 97:7).
+3. The shamefulness of idolatry is condemned in contrast to the superiority of worshiping God (Ps. 97:7).
 
-4.	God’s children praise Him and rejoice in the righteous judgments of His government (Ps. 97:8, 9).
+4. God’s children praise Him and rejoice in the righteous judgments of His government (Ps. 97:8, 9).
 
-5.	Love for God inspires believers to “hate evil” (Ps. 97:10). The Lord preserves and delivers His people from the hand of the wicked. These reasons are grounds enough to rejoice and give thanks to Him (Ps. 97:11, 12).
+5. Love for God inspires believers to “hate evil” (Ps. 97:10). The Lord preserves and delivers His people from the hand of the wicked. These reasons are grounds enough to rejoice and give thanks to Him (Ps. 97:11, 12).
 
 God as King is the source of the peace and confidence of His children. “The King’s strength also loves justice; You have established equity; You have executed justice and righteousness in Jacob” (Ps. 99:4, NKJV). Because God is the King over all the earth, we should rejoice and “sing praises with understanding” (Ps. 47:7; see also verses 1–6).
 
@@ -81,17 +81,18 @@ Acknowledging the Lord as our Maker will lead us to accept His Lordship in our l
 
 One detail that we touched on lightly in this lesson but didn’t explore in great depth is cultivating an attitude of praise and rejoicing. Ask a volunteer to read aloud the verses below. Alternately, have class members read the psalm in unison. Encourage your students to aspire to the same spiritual life of the psalmist:
 
-Oh come, let us sing to the Lord!
-
-Let us shout joyfully to the Rock of our salvation.
-
-Let us come before His presence with thanksgiving;
-
-Let us shout joyfully to Him with psalms.
-
-For the Lord is the great God,
-
-And the great King above all gods (Psalm 95:1–3, NKJV).
+> <p></p>
+> Oh come, let us sing to the Lord!
+> <p></p>
+> Let us shout joyfully to the Rock of our salvation.
+> <p></p>
+> Let us come before His presence with thanksgiving;
+> <p></p>
+> Let us shout joyfully to Him with psalms.
+> <p></p>
+> For the Lord is the great God,
+> <p></p>
+> And the great King above all gods (Psalm 95:1–3, NKJV).
 
 More than with requests and complaints, we should fill our prayers to our King and Judge with praise. Also, our daily toil will be more easily borne, and our devotional life made happier, when we are in a covenant relationship with the God of the heavens.
 
