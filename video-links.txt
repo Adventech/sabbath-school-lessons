@@ -1,5 +1,19 @@
-yt-dlp "https://www.youtube.com/watch?v=eaVSYql27zc" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "af/insig/af-insig-2023-04-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=h8FWMH7uDcA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "tp/tp-en-2023-04-12.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=bpw20ZO_DOU" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ro/tbs/ro-tbs-2023-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=NPHCUNIzZRs" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/365/365-en-2023-04-12.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=HX8h_9ePnJo" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/tbs/de-tbs-2023-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=6Ryj_JunvTA" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "iiw/iiw-en-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Ds25MvJcuag" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/ee/es-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=KkKjhbZ84IQ" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/viva/es-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=3ZwNoat_aow" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/lago/pt-lago-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=76kFhQGzM4g" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=tJDZorceu3c" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/inv/pt-inv-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Sbdbq6UrkZk" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "pt/vivo/pt-vivo-inv-2023-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=8G28nTv17Yw" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "it/it-2023-04-12.mp4"
