@@ -63,3 +63,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-11.mp4
           target: zh/2023-04-hant/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-12.mp4
+          target: zh/2023-04-hant/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/cant/zh-cant-2023-04-12.webp

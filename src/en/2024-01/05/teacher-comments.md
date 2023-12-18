@@ -19,13 +19,13 @@ The Psalms are more than pretty songs in praise of God. They are meant to exert 
 
 Even if the Psalter does not explicitly address this specific question, Psalms 74 and 79, which are about the destruction of Jerusalem, are based on these concerns. Between these two psalms, we see some notable similarities concerning the topic of sin and suffering:
 
-1.	Each psalm deals with the destruction of the beloved city (Ps. 74:3–9, Ps. 79:1–4), which elicits plaintive laments from the psalmist.
+1. Each psalm deals with the destruction of the beloved city (Ps. 74:3–9, Ps. 79:1–4), which elicits plaintive laments from the psalmist.
 
-2.	In both psalms, Asaph wants to see the Lord overturn the destruction (Ps. 74:10, 11; Ps. 79:5–7). Thus, he inquires of the Lord, “How long?”
+2. In both psalms, Asaph wants to see the Lord overturn the destruction (Ps. 74:10, 11; Ps. 79:5–7). Thus, he inquires of the Lord, “How long?”
 
-3.	The cause of Jerusalem’s misfortunes is the sin of the people (Ps. 79:8–10). Only Psalm 79 mentions this reason: God’s people have failed.
+3. The cause of Jerusalem’s misfortunes is the sin of the people (Ps. 79:8–10). Only Psalm 79 mentions this reason: God’s people have failed.
 
-4.	In both songs, Asaph doesn’t lose faith in his heavenly King (Ps. 74:12–17) or confidence in “the greatness of Your power” (Ps. 79:11, NKJV).
+4. In both songs, Asaph doesn’t lose faith in his heavenly King (Ps. 74:12–17) or confidence in “the greatness of Your power” (Ps. 79:11, NKJV).
 
 As Asaph, we may ask why we face sin, suffering, and death. These are the universal questions that inquiring minds have asked from the dawn of human history. The answer is always the same: sin. Sin is the strange intruder in God’s creation. From Satan’s fall in heaven to our fallen condition today, iniquity has spawned all the suffering and death in history. We could argue, justifiably, that God has given free will to His creatures and, from there, philosophize about the ramifications of sin and suffering. But the biblical writers refrain from this tack. Let us then, as Asaph did, trust in our Creator’s power and wisdom to resolve this question in His own way and time.
 
@@ -49,21 +49,22 @@ Notice that even if it seems the Creator is not present, the psalmist’s plea i
 
 Psalm 77 expresses well the feelings of doubt and discouragement that often oppress us in times of distress:
 
-Will the Lord cast off forever?
-
-And will He be favorable no more?
-
-Has His mercy ceased forever?
-
-Has His promise failed forevermore?
-
-Has God forgotten to be gracious?
-
-Has He in anger shut up His tender mercies? (Ps. 77:7–9, NKJV).
+> <p></p>
+> Will the Lord cast off forever?
+> <p></p>
+> And will He be favorable no more?
+> <p></p>
+> Has His mercy ceased forever?
+> <p></p>
+> Has His promise failed forevermore?
+> <p></p>
+> Has God forgotten to be gracious?
+> <p></p>
+> Has He in anger shut up His tender mercies? (Ps. 77:7–9, NKJV).
 
 The answer that the writer himself provides is simple but crucial: remember in the present the miracles that God has wrought for you in the past (Ps. 77:11–20). “I will remember the works of the Lord” (Ps. 77:11, NKJV). Thereafter, the psalmist describes the most paradigmatic moment of God’s intervention in Israel’s history: the Exodus from Egypt. The psalmist recalls the wonders that YHWH performed when He delivered His people from Egyptian bondage (Ps. 77:14, 15). Special attention is given to the miraculous parting of the Red Sea (Ps. 77:16–19): “Your way was in the sea” (Ps. 77:19, NKJV). The psalmist also recalls how God guided the ministry of Moses and Aaron (Ps. 77:20).
 
-As the Spirit of Prophecy so aptly admonishes: “We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and His teaching in our past history.”—Ellen G. White, Testimonies for the Church, vol. 9, p. 10.
+As the Spirit of Prophecy so aptly admonishes: “We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and His teaching in our past history.”—Ellen G. White, _Testimonies for the Church, vol. 9_, p. 10.
 
 When sick or beset by tribulation, we would do well to engage in the following faith-strengthening exercise: highlight in a journal the most precious blessings the Lord has given us in our lives, from the simplest to the most impactful. After all, was this act of remembrance not what the psalmist did?
 
@@ -71,35 +72,35 @@ When sick or beset by tribulation, we would do well to engage in the following f
 
 David introduces the topic under consideration by couching it in the following counsel: “Do not fret because of evildoers” (Ps. 37:1, NKJV). He summarizes the rationale for his advice—evildoers will perish (Ps. 37:2)—before moving on to his main concern, which is the believer. David encourages him or her with several principles for godly living (Ps. 37:3–9). These moral imperatives are the basis for maintaining one’s mental health and fitness in an unfair world. David embeds promises in the midst of his imperatives, as follows:
 
-1.	“Trust in the Lord, . . .
+1. “Trust in the Lord, . . .
 
-2.	“Do good;
+2. “Do good;
 
-Promise: “Dwell in the land, and feed on His faithfulness” (Ps. 37:3, NKJV).
+_Promise_: “Dwell in the land, and feed on His faithfulness” (Ps. 37:3, NKJV).
 
-3.	“Delight yourself also in the Lord,
+3. “Delight yourself also in the Lord,
 
-Promise: “And He shall give you the desires of your heart” (Ps. 37:4, NKJV).
+_Promise_: “And He shall give you the desires of your heart” (Ps. 37:4, NKJV).
 
-4.	“Commit your way to the Lord,
+4. “Commit your way to the Lord,
 
-5.	“Trust also in Him,
+5. “Trust also in Him,
 
-Promises: “And He shall bring it to pass” (Ps. 37:5, NKJV). “He shall bring forth your righteousness as the light, and your justice as the noonday” (Ps. 37:6, NKJV).
+_Promises_: “And He shall bring it to pass” (Ps. 37:5, NKJV). “He shall bring forth your righteousness as the light, and your justice as the noonday” (Ps. 37:6, NKJV).
 
-6.	“Rest in the Lord,
+6. “Rest in the Lord,
 
-7.	“And wait patiently for Him;
+7. “And wait patiently for Him;
 
-8.	“Do not fret because of him who prospers in his way, because of the man who brings wicked schemes to pass” (Ps. 37:7, NKJV).
+8. “Do not fret because of him who prospers in his way, because of the man who brings wicked schemes to pass” (Ps. 37:7, NKJV).
 
-9.	“Cease from anger,
+9. “Cease from anger,
 
-10.	“And forsake wrath;
+10. “And forsake wrath;
 
-11.	“Do not fret—it only causes harm” (Ps. 37:8, NKJV).
+11. “Do not fret—it only causes harm” (Ps. 37:8, NKJV).
 
-Promise: “For evildoers shall be cut off; but those who wait on the Lord, they shall inherit the earth” (Ps. 37:9, NKJV).
+_Promise_: “For evildoers shall be cut off; but those who wait on the Lord, they shall inherit the earth” (Ps. 37:9, NKJV).
 
 This psalm is a masterpiece of literary form and substance. Were we to ardently endeavor to practice the guidelines contained within, we would avoid much disappointment and bitterness. As an extra bonus, the text of the psalm provides us with encouraging promises that motivate us to put its precepts into action.
 

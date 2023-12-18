@@ -39,7 +39,7 @@ The righteous (Ps. 15:2–5) are depicted as those who will dwell on the holy mo
 
 **Noteworthy Psalms About Zion**
 
-Psalm 2
+**Psalm 2**
 
 Psalm 2 is recognized as a royal, or Messianic, anthem that exalts Jehovah’s Anointed. It contains the following three aspects or themes: the historical, the Messianic, and the cultic or devotional. The poem is structured in four stanzas. In the second stanza (Ps. 2:4–6), God shows His disdain for the arrogance of the nations (Ps. 2:1–3); the stanza concludes by indicating that God has set His King on Zion, His holy mountain (Ps. 2:6).
 
@@ -49,13 +49,13 @@ Thus, Zion, the sacred mount, consecrated by the theophanic presence of YHWH in 
 
 Psalm 2:6, 7 reveals that the Lord claims as His own both the Anointed One and jurisdiction over the mount. The Anointed One and the mount are of central importance to the theology of the kingdom of God in Psalms. In the election of the king as my Anointed (Ps. 2:2), My King (Ps. 2:6), and My Son (Ps. 2:7), who is placed on “the mount of my holiness,” we see that the election is determined by divine decree and that human beings have no influence in this selection. Hans LaRondelle insists that “as long as the Lord stayed in the Most Holy Place of that sanctuary, that mountain was ‘holy’ because God’s Shekinah glory dwelled there.”—Deliverance in the Psalms (Bradenton, FL: First Impressions, 2006), p. 55.
 
-Psalm 48:1–3
+**Psalm 48:1–3**
 
 This psalm expands on the Messianic concept of Zion, both as the dwelling place of God and as the capital of His kingdom. The psalmist sings of Jehovah’s care for Jerusalem and the deliverance of His people from the hands of the enemy. The central theme of the song is the praise of the greatness of God, as symbolized by Zion, “the mountain of his holiness” (verse 1).
 
 In verses 1–3, the psalmist uses different expressions to refer to the site of the divine manifestation, such as “the city of our God,” “Mount Zion,” “the sides of the north,” and “the city of the great King.” The psalmist also refers to Zion as this “holy mountain of His,” which could be translated as “the mountain consecrated to Him” (see Ps. 2:6, Ps. 87:2, Ps. 121:1, Zech. 8:3).
 
-Psalm 99
+**Psalm 99**
 
 In Psalm 99, we again see the connection between Mount Zion and Israel’s experiences in both the wilderness and at Mount Sinai. The psalm is composed of three stanzas, each of which ends with the sentence: “He is holy” (Ps. 99:3, 5, 9, NKJV). After exalting Jehovah as king (Ps. 99:1), as the One who dwells in Zion (Ps. 99:2), and declaring Him to be “great,” “dreadful,” “holy” (Ps. 99:3), and “righteous” (Ps. 99:4), the psalmist invites the people to worship Him (Ps. 99:5).
 
