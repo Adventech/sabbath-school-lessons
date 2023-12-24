@@ -1,17 +1,9 @@
-yt-dlp "https://www.youtube.com/watch?v=aUTE2SX_VyM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ta/ta-2023-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=nAPTaTcPeII" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/365/365-en-2023-04-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=3CKej0Fkzcg" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "hr/hr-2023-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=ZnQNAOoUIX0" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "iiw/iiw-en-2023-04-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=rkxjzUGM_4M" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "uk/uk-2023-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=ljs7ug2Ezvw" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/inv/es-2023-04-inv-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=IFftPTRO0nM" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "af/hb/af-hb-2023-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=agmKhZTXYWI" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/ee/es-2023-04-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=d3e2LaNd5VY" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "de/jm/de-jm-2023-04-12.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=bXuiQAAg74Q" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "zh/hopetv/zh-hopetv-2023-04-12.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=CDP1GHG9da4" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ja/hope/ja-hope-2023-04-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=j4Y04etXhsc" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ja/yok/ja-yok-2023-04-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=CkUdCzhDMek" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "ko/abn/ko-abn-2023-04-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=Z06N7I5Y64k" --format "best[height<=?1080]" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "es/viva/es-2023-04-13.mp4"
