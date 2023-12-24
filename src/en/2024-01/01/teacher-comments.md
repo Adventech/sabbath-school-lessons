@@ -7,7 +7,7 @@ date:  05/01/2024
 
 Key Text: Luke 24:44
 
-The book of Psalms, also known as the Psalter, stands as the apex of Hebrew poetry. An inspiring and inspired collection of songs, the Psalms express the multifarious feelings and struggles of believers, spanning from the United Monarchy of Israel (tenth century b.c.) through the postexilic days (fifth century b.c.). The Psalter comprises a wide variety of genres: songs of thanksgiving, praises, confessions, prayers for deliverance, hymns for protection, imprecations, meditations on the Creator’s works, etc. Our careful study of the Psalms this quarter will seek to reflect this rich diversity.
+The book of Psalms, also known as the Psalter, stands as the apex of Hebrew poetry. An inspiring and inspired collection of songs, the Psalms express the multifarious feelings and struggles of believers, spanning from the United Monarchy of Israel (tenth century B.C.) through the postexilic days (fifth century B.C.). The Psalter comprises a wide variety of genres: songs of thanksgiving, praises, confessions, prayers for deliverance, hymns for protection, imprecations, meditations on the Creator’s works, etc. Our careful study of the Psalms this quarter will seek to reflect this rich diversity.
 
 Lesson Themes: By way of introduction to this quarter’s study, we will touch on the following preliminary topics:
 
@@ -23,90 +23,17 @@ Additionally, we shall enlarge our study of the Psalter by surveying the followi
 
 **A Well-Organized “Church Hymnal”**
 
-The Psalter is an assortment of songs edited during the fifth century b.c. Ezra and his fellow scribes most likely organized this collection.
+The Psalter is an assortment of songs edited during the fifth century B.C. Ezra and his fellow scribes most likely organized this collection.
 
 The book is divided into five smaller sections, showing the intention of the editors to organize the songs in a thematic way, both chronologically and historically (see chart below):
 
-BOOK
-						
-						
-							CHAPTERS/PSALMS
-						
-						
-							THEME
-						
-						
-							CONTENT
-						
-					
-					
-						
-							I
-						
-						
-							1–41
-						
-						
-							Conflict between David and Saul
-						
-						
-							Personal laments: The majority of psalms in this section mention the psalmist’s adversarial agents, designated as “my enemies.” Notable psalms among this collection include: 1, 2, and 24.
-						
-					
-					
-						
-							II
-						
-						
-							42–72
-						
-						
-							Kingship of David
-						
-						
-							Mention is likewise made of the enemy in many of the psalms in this section. Notable psalms: 45, 48, 51, 54–64.
-						
-					
-					
-						
-							III
-						
-						
-							73–89
-						
-						
-							Assyrian crisis during eighth century b.c.
-						
-						
-							Collections from the sons of Asaph and Korah. Notable psalm: 78.
-						
-					
-					
-						
-							IV
-						
-						
-							90–106
-						
-						
-							Theological evaluation after destruction of Jerusalem in 586 b.c.
-						
-						
-							Collection of praise psalms: 95–100. Key psalms: 90, 103–105.
-						
-					
-					
-						
-							V
-						
-						
-							107–150
-						
-						
-							Praise and reflection after the exile—a new era
-						
-						
-							The Hallelujah collection: 111–117; pilgrimage: 120–134. Key psalms: 107, 110, 119.
+| BOOK | CHAPTERS/PSALMS | THEME | CONTENT |
+| --- | --- | --- | --- |
+| I | 1–41 | Conflict between David and Saul | Personal laments: The majority of psalms in this section mention the psalmist’s adversarial agents, designated as “my enemies.” Notable psalms among this collection include: 1, 2, and 24. |
+| II | 42–72 | Kingship of David | Mention is likewise made of the enemy in many of the psalms in this section. Notable psalms: 45, 48, 51, 54–64. |
+| III | 73–89 | Assyrian crisis during eighth century B.C. | Collections from the sons of Asaph and Korah. Notable psalm: 78. |
+| IV | 90–106 | Theological evaluation after destruction of Jerusalem in 586 B.C. | Collection of praise psalms: 95–100. Key psalms: 90, 103–105. |
+| V | 107–150 | Praise and reflection after the exile—a new era | The Hallelujah collection: 111–117; pilgrimage: 120–134. Key psalms: 107, 110, 119. |
 
 Today, our church has its own collection of songs for worship, the Seventh-day Adventist Church Hymnal. If you consult the index at the back of our hymnbook, you will find the distribution of songs by topic. The Psalter has a similar organization, though it is chronological as opposed to topical.
 
@@ -135,38 +62,24 @@ All these figures of speech and various other literary devices applied by the wr
 A general classification of the Psalms is furnished in Tuesday’s study. What follows is a more detailed grouping of the melodies of the Psalter, though it is certainly possible to find other acceptable distributions:
 
 1. Hymns
-
-•	General hymns: 8, 29, 33, 100, 103, 104, 111, 113, 114, 117, 135, 136, 145–150
-
-•	Historical hymns: 78, 105
-
-•	Zion hymns: 46, 48, 76, 87, 122
-
-•	Kingship hymns: 47, 93, 96–99
+- General hymns: 8, 29, 33, 100, 103, 104, 111, 113, 114, 117, 135, 136, 145–150
+- Historical hymns: 78, 105
+- Zion hymns: 46, 48, 76, 87, 122
+- Kingship hymns: 47, 93, 96–99
 
 2. Laments
-
-•	Individual laments: 3, 5, 6, 7, 12, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 43, 51, 54, 55–57, 59, 61, 63, 64, 69–71, 86, 88, 102, 109, 120, 130, 140–143
-
-•	Communal laments: 44, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137
+- Individual laments: 3, 5, 6, 7, 12, 13, 17, 22, 25, 26, 28, 31, 35, 36, 38, 39, 43, 51, 54, 55–57, 59, 61, 63, 64, 69–71, 86, 88, 102, 109, 120, 130, 140–143
+- Communal laments: 44, 60, 74, 77, 79, 80, 82, 83, 85, 90, 94, 106, 108, 123, 126, 137
 
 3. Miscellaneous forms
-
-•	Royal psalms: 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144
-
-•	Individual thanksgivings: 9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138
-
-•	Communal thanksgivings: 65–68, 118, 124
-
-•	Individual psalms of confidence: 4, 11, 16, 23, 27, 62, 84, 91, 121, 131
-
-•	Communal psalms of confidence: 115, 125, 129, 133
-
-•	Liturgies: 15, 24, 134
-
-•	Prophetic exhortations: 14, 50, 52, 53, 58, 75, 81, 95
-
-•	Didactic psalms: 1, 19, 37, 49, 73, 112, 119, 127, 128, 139
+- Royal psalms: 2, 18, 20, 21, 45, 72, 89, 101, 110, 132, 144
+- Individual thanksgivings: 9, 10, 30, 32, 34, 40, 41, 92, 107, 116, 138
+- Communal thanksgivings: 65–68, 118, 124
+- Individual psalms of confidence: 4, 11, 16, 23, 27, 62, 84, 91, 121, 131
+- Communal psalms of confidence: 115, 125, 129, 133
+- Liturgies: 15, 24, 134
+- Prophetic exhortations: 14, 50, 52, 53, 58, 75, 81, 95
+- Didactic psalms: 1, 19, 37, 49, 73, 112, 119, 127, 128, 139
 
 The organization of this list reveals that the Psalms are composed of personal songs as well as communal ones. Today, the emphasis of Western culture is on the individual. The Hebrew mind, however, was focused on a sense of community, an element that we, as Christians, cannot afford to lose sight of today, especially in light of the fact that, as a church, we are a global community with a worldwide mission.
 
@@ -176,23 +89,23 @@ A final observation that the above catalog affords us is the notion that there a
 
 This week’s lesson alludes to collections of songs for special occasions, such as “The Songs of Ascents” (Psalms 120−134) and “Egyptian Hallel” (Psalms 113−118). Years of scholarship have unearthed more connections between the various psalms. One such connection is found in Psalms 15–24 (see W. Brown, “ ‘Here Comes the Sun!’ The Metaphorical Theology of Psalms 15–24,” in The Composition of the Book of Psalms [Leuven, 2010], p. 260). This assemblage can be depicted in the following chiastic structure:
 
-A Psalm 15 (Entrance liturgy)
+**A Psalm 15** (Entrance liturgy)
 
-B Psalm 16 (Song of confidence)
+&nbsp;&nbsp;&nbsp;&nbsp;**B Psalm 16** (Song of confidence)
 
-C Psalm 17 (Prayer for help)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C Psalm 17** (Prayer for help)
 
-D Psalm 18 (Royal song)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D Psalm 18** (Royal song)
 
-E Psalm 19 (REVELATION: Creation and the Torah)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E Psalm 19** (REVELATION: Creation and the Torah)
 
-D' Psalm 20, 21 (Royal songs)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D' Psalm 20, 21** (Royal songs)
 
-C' Psalm 22 (Prayer for help)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C' Psalm 22** (Prayer for help)
 
-B' Psalm 23 (Song of confidence)
+&nbsp;&nbsp;&nbsp;&nbsp;**B' Psalm 23** (Song of confidence)
 
-A' Psalm 24 (Entrance liturgy)
+**A' Psalm 24** (Entrance liturgy)
 
 A chiasm is an extended parallelism (see Tuesday’s study for a short explanation about “parallelism”). By way of an analogy, a chiasm is akin to the reflection of a person’s face or image in a mirror wherein the second part (i.e., the reflection) is the repetition of ideas of the first section (original image) but in inverse order. Usually, the center of the chiasm points out the main idea of the parallelism. The idea, as seen in the chiastic structure formed by Psalms 15–24, is to exalt the revelation of God through His Creation and His Word. This chiastic structure is enclosed by two psalms connected with the sanctuary, both of which start with similar questions (Ps. 15:1; compare with Ps. 24:3).
 
@@ -201,3 +114,5 @@ This chiasm suggests that the editors of the Psalter worked carefully on its org
 #### Part III: Life Application
 
 In the Psalms, we find a wide range of emotions that run the gamut of human experience, from sublime reverence to abject sorrow. Though written more than 25 centuries ago, the Psalms transcend the time in which they were written and remain deeply relevant for us today. This quarter, encourage class members to pray through these songs, making them their personal prayers.
+
+`Notes`
