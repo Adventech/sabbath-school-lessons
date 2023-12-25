@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L00.pdf
+      target: ml/2024-01/01
+      title: ആമുഖം
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L01.pdf
+      target: ml/2024-01/01
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L02.pdf
+      target: ml/2024-01/02
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L03.pdf
+      target: ml/2024-01/03
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L04.pdf
+      target: ml/2024-01/04
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L05.pdf
+      target: ml/2024-01/05
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L06.pdf
+      target: ml/2024-01/06
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L07.pdf
+      target: ml/2024-01/07
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L08.pdf
+      target: ml/2024-01/08
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L09.pdf
+      target: ml/2024-01/09
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L10.pdf
+      target: ml/2024-01/10
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L11.pdf
+      target: ml/2024-01/11
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L12.pdf
+      target: ml/2024-01/12
+    - src: https://www.sabbathschoolpersonalministries.org/assets/sspm/Lessons/2024/Q1/Malayalam/Student/ABSG-24-Q1-ML-L13.pdf
+      target: ml/2024-01/13
