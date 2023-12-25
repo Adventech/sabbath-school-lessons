@@ -16,7 +16,7 @@ Dragoslava Santrac PhD. ószövetséges teológus, a Hetednapi Adventista Egyhá
 
 Clifford R. Goldstein
 
-főszerkesztő
+_főszerkesztő_
 
 ### Néhány megjegyzés a magyar kiadáshoz
 
@@ -32,4 +32,4 @@ Továbbra is szeretettel ajánlom a Tanítói mellékletet és a White-idézetek
 
 Zarkáné Teremy Krisztina
 
-a magyar változat szerkesztője
+_a magyar változat szerkesztője_

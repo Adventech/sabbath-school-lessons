@@ -4,8 +4,9 @@
   human_date: "Január · Február · Március 2024"
   start_date: "30/12/2023"
   end_date: "29/03/2024"
-  color_primary: "#132c48"
-  color_primary_dark: "#96a5b6"
+  color_primary: "#132C48"
+  color_primary_dark: "#0A213A"
+  splash: true
   credits:
     - name: Írta
       value: "Dragoslava Santrac"

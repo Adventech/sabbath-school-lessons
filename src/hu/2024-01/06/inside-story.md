@@ -19,7 +19,7 @@ A kollégiumban az egyik tanárnője meglátta nála a Bibliát. Éppen azt akar
 
 – Sok mindent!
 
-A tanárnő feltett neki néhány villámkérdést Dániel könyvéből, és ő kapásból válaszolt mindegyikre. A tanárnő meglepődött, és meghívta a fiút a gyülekezetbe. Sekule nem merte visszautasítani a meghívást, hiszen a tanára volt, és tartott tőle, hogy lerontja az osztályzatait, ha nem megy el.
+A tanárnő feltett neki néhány villámkérdést Dániel könyvéből, és ő kapásból válaszolt mindegyikre. A tanárnő meglepődött, és meghívta a fiút a gyülekezetbe. Sekule nem merte visszautasítani a meghívást, hiszen a tanára volt, és tartott tőle, hogy lerontja az osztályzatait, ha nem megy el.
 
 – Rendben, elmegyek – ígérte meg, de közben esze ágában sem volt.
 

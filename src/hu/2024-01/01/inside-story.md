@@ -27,4 +27,4 @@ A férfi meglepődött. Érdeklődni kezdett.
 
 – Ez ugyanaz a Jézus, aki a Bibliában szerepel? – kérdezte. A következő négy hét során többször találkoztak, és csak Jézusról tanultak a szent könyvből, ami nem keresztre feszített Megváltóként mutatta be Jézust, de szó volt benne visszatéréséről. Eltelt egy év, miközben Paul nem találkozott a férfivel. Majd egy szombaton ez az ember megjelent Paul gyülekezetében.
 
-– Ide szeretnék járni – mondta. Ezúttal Paul lepődött meg. A férfi elmondta, hogy családja vallásának a könyve nem tölti fel lelkileg, mert nem szól a Megváltóról. Bűnbocsánatra vágyott és meg akart keresztelkedni. Isten segítségével leszokott a dohányzásról is, már több mint négy éve nem dohányzik. Ő lett a gyülekezet misszióvezetője, és nagyon várja Jézus visszajövetelét.
+– Ide szeretnék járni – mondta. Ezúttal Paul lepődött meg. A férfi elmondta, hogy családja vallásának a könyve nem tölti fel lelkileg, mert nem szól a Megváltóról. Bűnbocsánatra vágyott és meg akart keresztelkedni. Isten segítségével leszokott a dohányzásról is, már több mint négy éve nem dohányzik. Ő lett a gyülekezet misszióvezetője, és nagyon várja Jézus visszajövetelét.
