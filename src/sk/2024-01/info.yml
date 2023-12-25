@@ -1,0 +1,15 @@
+---
+  title: "Žalmy"
+  description: "Žalmy sú vo svojej podstate biblické modlitby a oslavy Boha. Ide o texty, ktoré vyjadrujú chválu, radosť, smútok aj zúfalstvo. Zaznievali v súkromí aj na verejnosti. Ich autormi sú králi, básnici, kňazi aj obyčajní ľudia. Vyjadrujú myšlienky spravodlivých, ale aj zlomených, kajúcich hriešnikov. Kniha žalmov slúži mnohým generáciám veriacich ako modlitebná kniha aj spevník."
+  human_date: "Január · Február · Marec 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#3D8FBD"
+  color_primary_dark: "#2476A3"
+  credits:
+    - name: Autor
+      value: "Dragoslava Santrac"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Dodatočné otázky na diskusiu
+      value: "Vlastimil Fürst"
