@@ -1,0 +1,20 @@
+---
+  title: "O Livro dos Salmos"
+  description: "Salmos são orações e hinos da Bíblia por excelência. Proferidos em louvor, alegria, tristeza e desespero, falados ou cantados no privado e em público, por leigos, reis, poetas e sacerdotes, vindos tanto de pecadores justos quanto de arrependidos, Salmos tem sido o livro de orações e o hinário para gerações de crentes."
+  human_date: "Janeiro · Fevereiro · Março 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#503625"
+  color_primary_dark: "#3F2413"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Dragoslava Santrac"
+    - name: Tradutora
+      value: "Fernanda Caroline de Andrade Souza"
+    - name: Editor
+      value: "André Oliveira Santos"
+    - name: Revisoras
+      value: "Rosemara Santos e Adriana Teixeira"
+    - name: Projeto Gráfico
+      value: "André Rodrigues"

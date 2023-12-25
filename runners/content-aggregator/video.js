@@ -10,6 +10,8 @@ const DATE_FORMAT = "DD/MM/YYYY"
 
 let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
     let postfix = (!postFix) ? "" : `-${postFix}`
+    let priorCheck = 1
+    let postCheck = 2
     let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}${postfix}/`);
 
     for (let targetQuarter of targetQuarterlies) {
@@ -92,7 +94,15 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
             }
         }
 
+        for (let i = priorCheck || 0; i >= 0; i--) {
+            await process(moment().add(-1*i, 'w'))
+        }
+
         await process()
+
+        for (let i = 1; i <= postCheck; i++) {
+            await process(moment().add(i, 'w'))
+        }
     }
 }
 
