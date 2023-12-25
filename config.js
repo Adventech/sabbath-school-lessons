@@ -373,3 +373,4 @@ var BIBLE_PARSER_CONFIG = {
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
+
