@@ -94,11 +94,11 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
             }
         }
 
-        await process()
-
         for (let i = priorCheck || 0; i >= 0; i--) {
             await process(moment().add(-1*i, 'w'))
         }
+
+        await process()
 
         for (let i = 1; i <= postCheck; i++) {
             await process(moment().add(i, 'w'))
