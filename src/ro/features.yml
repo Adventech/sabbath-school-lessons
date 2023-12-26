@@ -24,3 +24,8 @@
     title: Video
     description: Urmăriți discuția săptămânală a lecțiunii pentru a aprofunda studiul
     image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Aspect original
+    description: Îmbunătățiți-vă studiul lecției folosind aspectul original de tipărire cu numeroase instrumente de adnotare
+    image: "v1/images/features/feature_original_layout.png"

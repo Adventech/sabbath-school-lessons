@@ -1,0 +1,21 @@
+### Wprowadzenie
+
+Księga Psalmów — tam, gdzie serce Boga spotyka się z sercami Jego ludu. Księga Psalmów to modlitwy i pieśni zapisane w Biblii. Wypowiadane i śpiewane w uwielbieniu, radości, smutku i rozpaczy, prywatnie i publicznie, przez prosty lud, królów, poetów i kapłanów, zarówno sprawiedliwych, jak i skruszonych grzeszników, psalmy stały się modlitewnikiem i śpiewnikiem dla pokoleń wierzących.
+
+Księga Psalmów zawdzięcza swoją szczególną rolę faktowi, że większość Biblii przemawia do nas, a Księga Psalmów przemawia za nas i z nami. Księga Psalmów jest źródłem błogosławieństwa, nadziei i ożywienia duchowego, przewodnikiem zarówno w osobistej refleksji, jak i w rozmyślaniu o Bożej wielkości, wyzwoleniu w odpowiedzi na wołanie z głębokości oraz odnowieniu poddania się Bogu. Nic dziwnego, że wielu ludzi utożsamia się z Księgą Psalmów w swoich emocjach i doświadczeniach, przyjmując wiele z tych pieśni jako własne modlitwy.
+
+Niemiecki teolog Marcin Luter (1483-1546) trafnie wyraził się o Księdze Psalmów: „Gdzie znajdziemy wspanialsze słowa radości niż w psalmach pochwalnych i psalmach dziękczynnych? Tu spoglądasz wszystkim świętym w serce jak w piękny wesoły ogród, ba, jak w niebo (...). Z drugiej strony, gdzie znajdziesz głębsze, żałośniejsze, pełniejsze boleści słowa o smutku niż w psalmach lamentacyjnych? Tu spoglądasz znów wszystkim świętym w serce jak w śmierć, ba, jak w piekło. Jak mrocznie i ciemno jest tam od wszelkiego smutnego widoku Bożego gniewu! (...).
+
+Stąd też bierze się to, że Psałterz jest książeczką wszystkich świętych, i każdy, w jakimkolwiek jest położeniu, znajduje tam psalmy i słowa, które są do jego położenia stosowne i tak odpowiednie, jakby były ułożone jedynie ze względu na niego, tak, że i on sam nie może ich lepiej ułożyć ani lepszych znaleźć, ani sobie lepszych życzyć”1.
+
+1 Marcin Luter, Przedmowy do ksiąg biblijnych, Warszawa 1992, s. 26 (przyp. red.).
+
+Aby doświadczyć odradzającej mocy Księgi Psalmów, zostaliśmy powołani do śpiewania ich i modlenia się nimi podobnie jak pokolenia przed nami, które używały Księgi Psalmów, by wyrażać uwielbienie, prośby, wyznania, lamenty i dziękczynienia wszechmogącemu, łaskawemu i sprawiedliwemu Bogu.
+
+Czy potrzebujemy studiowania Księgi Psalmów? Podobnie jak to było z pozostałymi księgami Pisma Świętego, także Księga Psalmów powstała w określonym kontekście historycznym, teologicznym i literackim. Wyzwanie towarzyszące badaniu Księgi Psalmów polega na potrzebie przybliżenia szczególnego świata psalmistów współczesnym czytelnikom. Musimy zauważyć, że choć psalmy są modlitwami ludu Bożego, a nawet modlitwami Jezusa jako ucieleśnionego Pana, to jednak są one także modlitwami mówiącymi o Jezusie. Są Bożym objawieniem dla ludzkości. Innym wyzwaniem związanym ze studiowaniem Księgi Psalmów jest zatem nauczenie się z nich o tym, czego Bóg dokonał, dokonuje i dokona dla ludzkości przez Jezusa Chrystusa.
+
+Choć Księga Psalmów jest zbiorem stu pięćdziesięciu poetyckich utworów, to jednak nie jest to zbiór przypadkowy, mimo że na pozór może się tak wydawać. Księga Psalmów przedstawia duchową drogę wspólną dla wielu dzieci Bożych. Droga ta zaczyna się od wiary utwierdzonej głęboko dzięki mocy Bożej — wiary, że dobro jest nagradzane, a zło karane. W miarę postępu studium zobaczymy, co się wydarzy, gdy uporządkowany świat wiary stanie wobec wyzwania i zagrożenia ze strony zła. Czy Bóg nadal panuje? Jak wierzący mogą śpiewać pieśń Pana w obcym kraju?
+
+Naszą modlitwą jest to, by Księga Psalmów wzmacniała nas w życiowej wędrówce i abyśmy przy pomocy tych pieśni spotykali się codziennie z Bogiem, serce z sercem, aż do dnia, gdy ujrzymy Jezusa Chrystusa twarzą w twarz2.
+
+_2 Autorką Lekcji Biblijnych 1/2024 jest Dragoslava Santrac, doktor Starego Testamentu oraz redaktor naczelny Encyclopedia of Seventh-day Adventists przy Generalnej Konferencji Kościoła Adwentystów Dnia Siódmego. Napisała komentarz poświęcony drugiej części Księgi Psalmów w Seventh-day Adventist International Bible Commentary (przyp. red.)._

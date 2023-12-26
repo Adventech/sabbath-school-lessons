@@ -1,5 +1,6 @@
 name: sync-stage-into-master
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 1,7 * * *'
 jobs:
@@ -13,6 +14,12 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
           github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          check-latest: true
+      - run: npm install
+      - run: node verify.js
       - name: Get Status of current ref
         id: get-status
         uses: danieldeichfuss/get-status@v0.0.10

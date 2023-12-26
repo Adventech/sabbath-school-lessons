@@ -1,0 +1,60 @@
+---
+title:  Penuntun Guru
+date:   17/11/2023
+---
+
+#### Bagian 1: Ikhtisar
+
+Bacalah perumpamaan tentang Orang Samaria yang Baik Hati (Luk. 10:25-37) dan renungkanlah pertanyaan-pertanyaan berikut:
+
+Lukas 10:29: “Dan siapakah sesamaku manusia?” Apakah menanyakan atau menjawab pertanyaan ini dari sudut pandang pribadi (“siapa _sesamaku_ manusia?”) mengubah fokus atau prioritas dari seorang yang membutuhkan bantuan menjadi seorang yang menyediakannya? Apakah pergeseran fokus seperti itu berisiko mengubah pekabaran dan prinsip yang Yesus ingin kita pahami dan praktikkan?
+
+Lukas 10:36: “Siapakah di antara ketiga orang ini, menurut pendapatmu, adalah sesama manusia dari orang yang jatuh ke tangan penyamun itu?” Pertanyaa Yesus berfokus pada orang yang dirampok, luka-lukanya, dan kebutuhannya. Yesus memusatkan perhatian pada orang yang dirampok dan dianiaya dan bagi orang yang diberikan pertolongan. Yesus juga membandingkan dengan mereka yang punya kesempatan menolong tetapi mengabaikannya.
+
+Lukas 10:37: “Ahli Taurat itu menjawab, ‘Orang yang telah menunjukkan belas kasihan kepadanya.’ Kata Yesus kepadanya: ‘Pergilah, dan perbuatlah demikian.’ ” Seperti yang Yesus tunjukkan, menjawab pertanyaan dengan benar tidaklah cukup. Dalam petunjuk-Nya kepada ahli Taurat itu, Yesus menekankan pentingnya tindakan ketika menerapkan Injil. Artinya, kita harus menjadi tangan dan kaki tubuh Kristus.
+
+#### Bagian II: Komentar
+
+**“Kasihilah Sesamamu Manusia seperti Dirimu Sendiri”**
+
+Saat kita menjadi bagian dari umat Allah, kita akan melihat masalah dari setiap anggotanya, dan kita akan mengalami apa artinya hidup bersama mereka dan juga menderita bersama mereka. Kita dapat berharap bahwa, saat kita menderita bersama umat Allah, kita harus memenuhi kebutuhan mereka. Kita juga harus menjadi sesama bagi mereka yang membutuhkan. Banyak masyarakat yang menderita dan membutuhkan bantuan. Bisakah kita mencari tahu siapa yang membutuhkan bantuan kita sebagai sesama? Apakah gereja saya meringankan penderitaan mereka yang membutuhkan, atau apakah kita berkontribusi pada penderitaan, baik secara sengaja maupun tidak?
+
+Patut dicatat bahwa kata-kata Yesus dalam Matius 23, cukup keras, diberi penekanan kebenaran mengenai situasi, dan isi keagamaan Israel. Kata-kata Yesus juga ditujukan untuk pemulihan umat-Nya sehingga umat-Nya dapat menjadi sesama yang berbelas kasih. Yesus ingin umat-Nya memahami hukum-Nya dengan cara baru. Dia ingin Israel untuk fokus pada Tuhan dan juga pada sesama mereka. Maksud Yesus adalah bahwa Israel harus “Kasihilah Tuhan, Allahmu, dengan segenap hatimu dan dengan segenap jiwamu dan dengan segenap akal budimu” (Mar. 22:37). Hukum ini adalah perintah yang pertama dan terutama. Tetapi perintah kedua adalah lanjutan dari yang pertama: “Kasihilah sesamamu manusia seperti dirimu sendiri” (Mat. 22:39). Kejujuran dan keadilan, kasih dan kepedulian, tidak dapat dilakukan oleh seseorang saja; itu juga harus dipraktikkan dan dilaksanakan oleh gereja sebagai tubuh Kristus.
+
+**Para Nabi Perjanjian Lama sebagai Pembela Sesama**
+
+Nabi-nabi Perjanjian Lama sangat terang-terangan mengenai hukum dan peraturan yang berhubungan dengan sesama atau dengan mereka yang membutuhkan kesembuhan dan keselamatan. Hukum dan peraturan itu, yang diucapkan melalui para nabi, adalah cara Allah menyampaikan kehendak-Nya bagi Israel untuk bersaksi kepada sesamanya, untuk menjadi terang bagi bangsa-bangsa. Para nabi harus melayani sebagai pemberita Injil dan menjadi juru bicara melawan semua ketidakadilan dan kejahatan.
+
+Para nabi mendesak orang-orang dan para pemimpin untuk “mengusahakan keadilan, membela yang tertindas, membela hak anak yatim; memperjuangkan perkara janda-janda” (Yes. 1:17), dan melarang penindasan “janda dan anak yatim, orang asing dan orang miskin” (Za. 7:10). Para nabi juga mengecam keras semua ketidakadilan. Elia menegur Raja Ahab karena membunuh Nabot dan mencuri kebun anggurnya. Amos mengecam para penguasa Israel karena, sebagai imbalan menerima suap, mereka menginjak-injak orang miskin, menindas yang membutuhkan, dan menyangkal keadilan bagi yang tertindas, gantinya membiarkan “keadilan mengalir seperti sungai, dan kebenaran seperti aliran yang tidak berhenti”—John R. W. Stott. _Decisive Issues Facing Christians Today_ (Tarrytown, NY: Fleming H. Revell Company, 1990), hlm. 236.
+
+Struktur dan masyarakat Israel “menjunjung tinggi kerja, mencela kemalasan, mengharapkan para ayah untuk melatih anak laki-laki agar memiliki keterampilan tangan, mendorong prinsip timbal balik, dan keadilan, serta menunjukkan kepedulian yang aktif terhadap sesama,” dan, terutama, “menghormati martabat pria maupun wanita, yang memiliki gambar Allah”—Arthur F. Glasser, _Announcing the Kingdom: The Story of God’s Mission in the Bible_ (Grand Rapids, MI: Baker Academic, 2003), hlm. 88. Selain itu, ibadah dan ketaatan kepada Allah berhubungan langsung dengan keadilan dan kedermawanan. Hal ini berjalan beriringan, sama seperti keadilan dan belas kasihan kepada sesama terkait dengan berjalan bersama Tuhan dengan rendah hati. Semua petunjuk dan peraturan untuk kesejahteraan dan perlakuan yang adil terhadap orang miskin, orang asing, yatim piatu, janda, dan yang lemah berasal dari Tuhan. Dia yang merawat anak-anak-Nya dan menunjukkan kasih sayang dan belas kasihan kepada siapa pun yang membutuhkan-Nya. Dalam gema dari pekabaran Alkitab, seorang penulis meringkaskan pengajaran Injil untuk merawat orang miskin dengan cara seperti ini: “Berbicara tentang kemiskinan berarti menjamah Hati Allah”—William Robert Domeris, _Touching the Heart of God: The Social Construction of Poverty among Biblical Peasants_ (New York: T & T Clark, 2007), hlm. 8.
+
+Seringkali sebuah pertanyaan diajukan: Bagaimana sesama saya, yang seringkali adalah orang miskin, tunawisma, dan pengangguran dapat ditolong untuk mendapatkan berkat-berkat pemeliharaan Allah dan menjalani kehidupan yang Yesus inginkan untuk manusia jalani? Berikut ini adalah pernyataan dari Ellen G. White yang menjelaskan pokok permasalahan ini:
+
+“Sekiranya manusia mau lebih memperhatikan pengajaran firman Allah, mereka akan menemukan pemecahan dari persoalan-persoalan yang membingungkan mereka itu. Banyak yang dapat dipelajari dari Perjanjian Lama yang menyangkut masalah perburuhan dan pertolongan kepada orang miskin.
+
+“Dalam rencana Allah bagi Israel, setiap keluarga harus mempunyai rumah tinggal di negeri ini, dengan cukup lahan untuk digarap. Dengan demikian tersedia sarana dan dorongan untuk hidup yang berguna, rajin dan mandiri. Belum pernah ada penemuan manusia yang pernah memperbaiki rencana itu. Karena dunia meninggalkan rencana itu maka sebagian besar dari kemiskinan dan keadaan yang menyedihkan terjadi dewasa ini”—Ellen G. White, _Hidup yang Terbaik,_ hlm. 163, 164.
+
+Pelajaran dan petunjuk dari Alkitab menolong kita untuk memahami maksud Allah mengenai sesama yang memerlukan. Tuhan ingin kita berhubungan dengan firman-Nya sehingga kita dapat menjadi alat kemurahan dan kasih-Nya bagi mereka yang menderita dan membutuhkan pengharapan. Terlebih lagi, “ adalah rencana Allah agar yang kaya dan yang miskin terikat erat oleh ikatan rasa simpati dan suka menolong”—Ellen G. White, _Hidup yang Terbaik,_ hlm. 170. Kebersamaan ini akan menjadi berkat bagi kedua kelompok. Itu akan membantu baik yang miskin maupun yang kaya, dalam memahami rencana keselamatan Allah dan akan menunjukkan fakta bahwa kehidupan yang penuh kebajikan akan mengungkapkan kebenaran rohani yang dapat dipahami hanya ketika berada di tengah kesusahan dan penderitaan.
+
+Hanya dengan kasih dan pelayanan kita bagi sesama yang membutuhkan pertolongan dapat membuktikan ketulusan kasih kita kepada Kristus. Pelayanan misi yang sejati datang dari kasih kita kepada Juruselamat, suatu perasaan yang memperkuat gagasan bahwa _keberadaan_ sering kali lebih penting daripada _memberi_ atau sekadar _melakukan_ perbuatan baik bagi mereka yang membutuhkan atau yang miskin. “Pekabaran Perjanjian Lama adalah panggilan untuk gaya hidup etis yang dicontohkan dalam apa yang telah Allah lakukan bagi kita di dalam Kristus. Itu berkaitan dengan mengikuti prinsip-prinsip Allah melalui menjalani kehidupan bersaksi, menolong, dan mengasihi sesama dan mereka yang membutuhkan seperti diri Anda sendiri”—Jiří Moskala, “Misi Umat Allah dalam Perjanjian Lama,” _Journal of Adventist Theological Society,_ 19/1-2 (2008) hlm. 58.
+
+**Hidup dan Misi Yesus**
+
+Pelayanan kasih yang diwujudkan dalam kehidupan dan pelayanan Yesus adalah contoh terbaik yang ada bagi para murid, rasul, pengikut, dan orang percaya baru dari gereja mula-mula pada zaman para rasul. Yesus (Imanuel) tinggal di antara pria dan wanita untuk memulihkan dan menyelamatkan, menyembuhkan dan mengampuni, dengan cinta yang bahkan lebih kuat dari kematian itu sendiri. Perhatian-Nya yang khusus kepada sesama, orang lain—termasuk yang membutuhkan, yang miskin, yang sakit, yang kerasukan setan, orang asing, dan banyak lainnya menyebabkan Anak Allah mencurahkan sebagian besar waktu dan tenaga-Nya untuk penyembuhan, dan merawat mereka semua selama pelayanan-Nya di bumi.
+
+Ajaran Yesus selalu dibenarkan oleh tindakan-Nya, dan pelayanan penyembuhan-Nya (keselamatan) meneguhkan apa yang Dia khotbahkan. Ajaran-Nya adalah pelayanan pemulihan, yang menjadikan manusia sehat dalam tubuh, jiwa, dan pikiran. Yesus datang untuk menyatakan karakter Allah kepada umat manusia yang telah jatuh, dan dengan melakukan itu, Dia memungkinkan pemulihan gambar Allah dalam ciptaan-Nya.
+
+Ketika kebutuhan baik anggota gereja maupun bukan anggota gereja terpenuhi, ketika kita menjadi sesama orang miskin dan memperhatikan kebutuhan mereka, ketika kita melihat yang lapar dan haus serta memberi mereka makan, ketika kita memberi pakaian kepada yang telanjang dan mengunjungi yang dipenjara, maka anggota tubuh Kristus memiliki persekutuan yang benar dengan Allah dan dengan satu sama lain. Persekutuan ini menunjukkan bahwa kita tidak lagi egois tetapi dapat berbagi bersama dan menjalani kehidupan yang memberi kesaksian tentang agama dan kehidupan yang benar dan murni, yaitu kehidupan Kristus.
+
+Rasul Paulus mendorong misi kepada sesama dengan mendesak anggota gereja untuk berbuat baik kepada semua orang, terutama kepada mereka yang termasuk dalam keluarga orang percaya (Gal. 6:10). Tetapi Paulus juga memiliki pandangan yang lebih luas tentang misi kasih kepada sesama, yang bahkan termasuk musuh kita: “Jika seterumu lapar, berilah dia makan; jika ia haus, berilah dia minum! Dengan berbuat demikian kamu menumpukkan bara api di atas kepalanya” (Rm. 12:20).
+
+#### Bagian III: Penerapan Hidup
+
+Bagaimana seluruh Injil Yesus Kristus—Injil yang mampu menyembuhkan dan menyelamatkan, melindungi dan memulihkan mengubah sesama kita menjadi ahli waris kerajaan Allah? Kita percaya bahwa transformasi ini adalah pekerjaan atau pelayanan yang harus dilakukan melalui kuasa Roh Allah, agar banyak orang dapat menerima rahmat Injil Kristus dan diubah menjadi serupa dengan-Nya untuk kepentingan keluarga, masyarakat, dan bangsa untuk kemuliaan Tuhan. Betapa berbedanya jika kita semua dengan kesadaran penuh berkomitmen untuk pelayanan ini.
+
+Pertanyaan yang paling penting adalah, siapa Yesus Kristus bagi kita hari ini? Apa artinya ini secara praktis?
+
+“Amal yang benar membantu orang lain untuk menolong diri mereka sendiri. Kalau seorang datang ke pintu rumah kita dan meminta makanan, janganlah mengusir di dalam keadaan lapar; kemiskinan itu mungkin akibat dari kemalangan. Tetapi kemurahan hati yang murni lebih berarti dari sekadar pemberian. Itu berarti perhatian yang sesungguhnya terhadap kesejahteraan orang lain. Kita harus berusaha memahami kebutuhan orang miskin dan yang tertekan, dan memberi pertolongan yang paling menguntungkan bagi mereka. Memberi buah pikiran, waktu, dan usaha pribadi jauh lebih bernilai daripada sekadar memberi uang. Itulah perbuatan amal yang sejati”—Ellen G. White, _Hidup yang Terbaik,_ hlm. 173.
+
+`Catatan`

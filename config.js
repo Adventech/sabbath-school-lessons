@@ -19,6 +19,9 @@ var BIBLE_PARSER_CONFIG = {
   "bn": [
     "bsi2016"
   ],
+  "ca": [
+      "bci"
+  ],
   "ceb": [
     "cbv"
   ],
@@ -370,3 +373,4 @@ var BIBLE_PARSER_CONFIG = {
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
+

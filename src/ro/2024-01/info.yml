@@ -1,0 +1,24 @@
+---
+  title: "Cartea psalmilor"
+  description: "Psalmii sunt, prin excelență, rugăciuni și imnuri biblice. Exprimați în momente de laudă, de bucurie, de tristețe sau de disperare, rostiți sau cântați în privat ori în public, de către oameni obișnuiți, de regi, poeți sau preoți, compuși atât de oameni neprihăniți, cât și de păcătoși pocăiți, cartea psalmilor a slujit drept carte de rugăciuni și carte de imnuri pentru generații întregi de credincioși."
+  human_date: "Ianuarie · Februarie · Martie 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#BB483C"
+  color_primary_dark: "#9C261A"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Dragoslava Santrac"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Redactare
+      value: "Delia-Mirela Buciuman"
+    - name: Referent
+      value: "Daniel Brînzan"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Corectură
+      value: "Lavinia Goran"
+    - name: Copertă
+      value: "Liliana Dincă"

@@ -119,6 +119,48 @@ let branch = argv.b,
     compile_quarter = argv.q || getCompilationQuarterValue(),
     target_api = parseInt(argv.v) || 1;
 
+try {
+  if (!argv.l && fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
+    let changedFiles = require('./.github/outputs/all_changed_files.json')
+
+    // if no changes detected then fallback
+    if (changedFiles && changedFiles.length) {
+      // Forcing all resources to be redeployed if any github action or deploy scripts change
+      let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*)|(config.js)/.test(f))
+
+      // if no deploy related changes
+      if (!deployRelatedChanges || !deployRelatedChanges.length) {
+        let sourceRelatedChanges = changedFiles.filter(
+            (f) => {
+              // check if the changed file is in src dir and its not audio.yml or video.yml
+              return /^src\//.test(f)
+                && !/audio.yml$/.test(f)
+                && !/video.yml$/.test(f)
+            }
+        ).map(
+            (f) => {
+              let stripped = f.replace(/^src\//g, '')
+              return stripped.substring(0, stripped.indexOf('/'))
+            }
+        )
+        let languages = [...new Set(sourceRelatedChanges)]
+
+        // if any languages are in the change list
+        if (languages && languages.length) {
+          compile_language = `+(${languages.join('|')})`
+        } else {
+          // here we assuming the changes are made in src folder but are either audio or video, hence we can abort
+          fs.ensureDirSync("./dist")
+          console.log(`Looks like source changes are targeting audio or video content hence aborting execution`)
+          return
+        }
+      }
+    }
+  }
+} catch (e) {
+  console.log(e)
+}
+
 let API_HOST = "https://sabbath-school.adventech.io/api/",
     API_VERSION = target_api === 1 ? "v1" : "v2",
     PDF_HOST = "https://sabbath-school-pdf.adventech.io/",
@@ -268,7 +310,7 @@ let processFeaturesImages = function () {
 
 let processAssetImages = function () {
   console.log('Processing asset images');
-  let assets = glob.sync(`src/*/${compile_quarter}/*/*.{png,jpg,jpeg}`);
+  let assets = glob.sync(`src/${compile_language}/${compile_quarter}/*/*.{png,jpg,jpeg}`);
   for (let asset of assets) {
     let info = getInfoFromPath(asset)
     fs.copySync(asset, `${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/${asset.split("/").pop()}`);
@@ -334,6 +376,12 @@ let getQuarterlyJSON = function (quarterlyPath) {
       quarterly_features.push(features['video'])
     }
 
+    let pdf = glob.sync(`${quarterlyPath}/pdf.yml`);
+
+    if (pdf.length && features['original_layout']) {
+      quarterly_features.push(features['original_layout'])
+    }
+
     quarterly.features = quarterly_features.filter((thing, index) => {
       const _thing = JSON.stringify(thing);
       return index === quarterly_features.findIndex(obj => {
@@ -357,10 +405,11 @@ let getQuarterlyJSON = function (quarterlyPath) {
     fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
     quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
   } else {
-    if (fs.pathExistsSync(`images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly}/${SOURCE_SPLASH_FILE}`;
+    let tqi = /-(iv|ay)$/.test(info.quarterly) ? info.quarterly.replace(/-(iv|ay)$/, '-cq') : info.quarterly;
+    if (fs.pathExistsSync(`images/global/${tqi}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi}/${SOURCE_SPLASH_FILE}`;
     } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
-      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
     }
   }
 
@@ -408,14 +457,16 @@ let getLessonJSON = function (lessonPath, pdf, pdfPath) {
 
   let targetQuarterlyIndex = info.quarterly
 
-  if (!fs.pathExistsSync(`images/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
-    targetQuarterlyIndex = info.quarterly.slice(0, 7)
+  let tqi = /-(iv|ay)$/.test(targetQuarterlyIndex) ? targetQuarterlyIndex.replace(/-(iv|ay)$/, '-cq') : targetQuarterlyIndex;
+
+  if (!fs.pathExistsSync(`images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
+    tqi = info.quarterly.slice(0, 7)
   }
 
-  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`;
+  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`;
 
   if (!/master|stage/i.test(branch)) {
-    lesson.cover = `/img/global/${targetQuarterlyIndex}/${info.lesson}/${SOURCE_COVER_FILE}`;
+    lesson.cover = `/img/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`;
   }
 
   // TODO: Optimize to check if file exists instead of try / catch block

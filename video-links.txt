@@ -1,0 +1,3 @@
+yt-dlp "https://www.youtube.com/watch?v=bIo1q8cjgJQ" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2023-04-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Ln-KI1A4nbA" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2023-04-13.mp4"

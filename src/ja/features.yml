@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: 先生のコメント
+    description: この教師用エディションを使用して、安息日学校のレッスンのディスカッションを促進する準備をしてください。
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: 預言の精神の名言
+    description: エレン G. ホワイトの著書から厳選した引用を追加して学習を強化します。
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: ミッションストーリー
+    description: 世界中から寄せられた感動的なミッションストーリーを読む
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: オーディオ
+    description: 音声バージョンで外出先でもレッスンを聞くことができます
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: ビデオ
+    description: 毎週のレッスンディスカッションを視聴して学習を深めましょう
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: オリジナルレイアウト
+    description: 多数の注釈ツールを備えたオリジナルの印刷レイアウトを使用して、レッスンの学習を強化します
+    image: "v1/images/features/feature_original_layout.png"

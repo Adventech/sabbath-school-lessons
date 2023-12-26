@@ -1,0 +1,33 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-Intro.pdf
+      title: හැදින්වීම
+      target: si/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-01.pdf
+      target: si/2023-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-02.pdf
+      target: si/2023-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-03.pdf
+      target: si/2023-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-04.pdf
+      target: si/2023-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-05.pdf
+      target: si/2023-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-06.pdf
+      target: si/2023-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-07.pdf
+      target: si/2023-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-08.pdf
+      target: si/2023-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-09.pdf
+      target: si/2023-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-10.pdf
+      target: si/2023-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-11.pdf
+      target: si/2023-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-12.pdf
+      target: si/2023-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-13.pdf
+      target: si/2023-03/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2023-03/ABSG-2023-03-SI-14.pdf
+      target: si/2023-03/14

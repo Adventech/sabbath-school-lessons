@@ -1,0 +1,142 @@
+---
+  pdf:
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-Intro-T.pdf'
+      target: en/2023-04-cc/intro
+      title: Introduction
+      start_date: 30/09/2023
+      end_date: 30/09/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/ABSG-2023-04-EN-CC-01.pdf'
+      target: en/2023-04-cc/01
+      title: Consequences
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/ABSG-2023-04-EN-CC-02.pdf'
+      target: en/2023-04-cc/02
+      title: Prayer Power
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/ABSG-2023-04-EN-CC-03.pdf'
+      target: en/2023-04-cc/03
+      title: Eli’s Bad, Bad Boys
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L04.pdf'
+      target: en/2023-04-cc/04
+      title: Turn It Around
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L05.pdf'
+      target: en/2023-04-cc/05
+      title: Trading Leaders
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L06.pdf'
+      target: en/2023-04-cc/06
+      title: So Long, Saul
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L07.pdf'
+      target: en/2023-04-cc/07
+      title: Giant Faith
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L08.pdf'
+      target: en/2023-04-cc/08
+      title: Running
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L09.pdf'
+      target: en/2023-04-cc/09
+      title: A Sad End
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L10.pdf'
+      target: en/2023-04-cc/10
+      title: When Will I Be King?
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L11.pdf'
+      target: en/2023-04-cc/11
+      title: The Golden Age of Israel
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L12.pdf'
+      target: en/2023-04-cc/12
+      title: The Fall and Rise of David
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://www.cornerstoneconnections.net/assets/teens/Lessons/2023/Q4/English/Student/CC-23-Q4-L13.pdf'
+      target: en/2023-04-cc/13
+      title: The Fathers God Chose for His Son
+      start_date: 23/12/2023
+      end_date: 29/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-Intro.pdf'
+      target: en/2023-04-cc/intro
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-01.pdf'
+      target: en/2023-04-cc/01
+      title: Teacher
+      start_date: 30/09/2023
+      end_date: 06/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-02.pdf'
+      target: en/2023-04-cc/02
+      title: Teacher
+      start_date: 07/10/2023
+      end_date: 13/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-03.pdf'
+      target: en/2023-04-cc/03
+      title: Teacher
+      start_date: 14/10/2023
+      end_date: 20/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-04.pdf'
+      target: en/2023-04-cc/04
+      title: Teacher
+      start_date: 21/10/2023
+      end_date: 27/10/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-05.pdf'
+      target: en/2023-04-cc/05
+      title: Teacher
+      start_date: 28/10/2023
+      end_date: 03/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-06.pdf'
+      target: en/2023-04-cc/06
+      title: Teacher
+      start_date: 04/11/2023
+      end_date: 10/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-07.pdf'
+      target: en/2023-04-cc/07
+      title: Teacher
+      start_date: 11/11/2023
+      end_date: 17/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-08.pdf'
+      target: en/2023-04-cc/08
+      title: Teacher
+      start_date: 18/11/2023
+      end_date: 24/11/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-09.pdf'
+      target: en/2023-04-cc/09
+      title: Teacher
+      start_date: 25/11/2023
+      end_date: 01/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-10.pdf'
+      target: en/2023-04-cc/10
+      title: Teacher
+      start_date: 02/12/2023
+      end_date: 08/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-11.pdf'
+      target: en/2023-04-cc/11
+      title: Teacher
+      start_date: 09/12/2023
+      end_date: 15/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-12.pdf'
+      target: en/2023-04-cc/12
+      title: Teacher
+      start_date: 16/12/2023
+      end_date: 22/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2023-04/cc/t/ABSG-2023-04-EN-CC-T-13.pdf'
+      target: en/2023-04-cc/13
+      title: Teacher
+      start_date: 23/12/2023
+      end_date: 29/12/2023

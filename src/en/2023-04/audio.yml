@@ -2,6 +2,9 @@
   audio:
     - artist: Adult Bible Study Guides
       tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/introduction.mp3
+          target: en/2023-04/01/01
+          title: Introduction
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/003 SS Lesson 30 September 2023.mp3
           target: en/2023-04/01/01
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/004 SS Lesson 1 October 2023.mp3
@@ -132,7 +135,7 @@
           target: en/2023-04/08/inside-story
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/093 SS Lesson 25 November 2023.mp3
           target: en/2023-04/09/01
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/094 SS Lesson 26 November 2023.mp3
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/correction/094 SS Lesson 26 November 2023 CORRECTED.mp3
           target: en/2023-04/09/02
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/095 SS Lesson 27 November 2023.mp3
           target: en/2023-04/09/03
@@ -152,9 +155,9 @@
           target: en/2023-04/10/02
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/105 SS Lesson 4 December 2023.mp3
           target: en/2023-04/10/03
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/106 SS Lesson 5 December 2023.mp3
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/correction/106 SS Lesson 5 December 2023 CORRECTED.mp3
           target: en/2023-04/10/04
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/107 SS Lesson 6 December 2023.mp3
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/correction/107 SS Lesson 6 December 2023 CORRECTED.mp3
           target: en/2023-04/10/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/108 SS Lesson 7 December 2023.mp3
           target: en/2023-04/10/06
@@ -170,7 +173,7 @@
           target: en/2023-04/11/03
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/116 SS Lesson 12 December 2023.mp3
           target: en/2023-04/11/04
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/117 SS Lesson 13 December 2023.mp3
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/correction/117 SS Lesson 13 December 2023 CORRECTED.mp3
           target: en/2023-04/11/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/118 SS Lesson 14 December 2023.mp3
           target: en/2023-04/11/06
@@ -210,3 +213,185 @@
           target: en/2023-04/13/07
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/139a INSIDE STORY 13 Dec 2023.mp3
           target: en/2023-04/13/inside-story
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-09-30.mp3
+          target: en/2023-04/01/01
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-01.mp3
+          target: en/2023-04/01/02
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-02.mp3
+          target: en/2023-04/01/03
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-03.mp3
+          target: en/2023-04/01/04
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-04.mp3
+          target: en/2023-04/01/05
+        - src: https://egwhiteaudio.com/wp-content/uploads/2023/09/2023-10-05.mp3
+          target: en/2023-04/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-01.mp3
+          target: en/2023-04/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-02.mp3
+          target: en/2023-04/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-03.mp3
+          target: en/2023-04/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-04.mp3
+          target: en/2023-04/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-05.mp3
+          target: en/2023-04/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-06.mp3
+          target: en/2023-04/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-02-07.mp3
+          target: en/2023-04/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-01.mp3
+          target: en/2023-04/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-02.mp3
+          target: en/2023-04/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-03.mp3
+          target: en/2023-04/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-04.mp3
+          target: en/2023-04/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-05.mp3
+          target: en/2023-04/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-06.mp3
+          target: en/2023-04/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-03-07.mp3
+          target: en/2023-04/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-01.mp3
+          target: en/2023-04/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-02.mp3
+          target: en/2023-04/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-03.mp3
+          target: en/2023-04/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-04.mp3
+          target: en/2023-04/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-05.mp3
+          target: en/2023-04/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-06.mp3
+          target: en/2023-04/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-04-07.mp3
+          target: en/2023-04/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-01.mp3
+          target: en/2023-04/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-02.mp3
+          target: en/2023-04/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-03.mp3
+          target: en/2023-04/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-04.mp3
+          target: en/2023-04/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-05.mp3
+          target: en/2023-04/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-06.mp3
+          target: en/2023-04/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-05-07.mp3
+          target: en/2023-04/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-01.mp3
+          target: en/2023-04/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-02.mp3
+          target: en/2023-04/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-03.mp3
+          target: en/2023-04/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-04.mp3
+          target: en/2023-04/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-05.mp3
+          target: en/2023-04/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-06.mp3
+          target: en/2023-04/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-06-07.mp3
+          target: en/2023-04/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-01.mp3
+          target: en/2023-04/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-02.mp3
+          target: en/2023-04/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-03.mp3
+          target: en/2023-04/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-04.mp3
+          target: en/2023-04/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-05.mp3
+          target: en/2023-04/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-06.mp3
+          target: en/2023-04/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-07-07.mp3
+          target: en/2023-04/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-01.mp3
+          target: en/2023-04/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-02.mp3
+          target: en/2023-04/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-03.mp3
+          target: en/2023-04/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-04.mp3
+          target: en/2023-04/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-05.mp3
+          target: en/2023-04/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-06.mp3
+          target: en/2023-04/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-08-07.mp3
+          target: en/2023-04/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-01.mp3
+          target: en/2023-04/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-02.mp3
+          target: en/2023-04/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-03.mp3
+          target: en/2023-04/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-04.mp3
+          target: en/2023-04/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-05.mp3
+          target: en/2023-04/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-06.mp3
+          target: en/2023-04/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-09-07.mp3
+          target: en/2023-04/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-01.mp3
+          target: en/2023-04/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-02.mp3
+          target: en/2023-04/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-03.mp3
+          target: en/2023-04/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-04.mp3
+          target: en/2023-04/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-05.mp3
+          target: en/2023-04/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-06.mp3
+          target: en/2023-04/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-10-07.mp3
+          target: en/2023-04/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-01.mp3
+          target: en/2023-04/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-02.mp3
+          target: en/2023-04/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-03.mp3
+          target: en/2023-04/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-04.mp3
+          target: en/2023-04/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-05.mp3
+          target: en/2023-04/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-06.mp3
+          target: en/2023-04/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-11-07.mp3
+          target: en/2023-04/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-01.mp3
+          target: en/2023-04/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-02.mp3
+          target: en/2023-04/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-03.mp3
+          target: en/2023-04/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-04.mp3
+          target: en/2023-04/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-05.mp3
+          target: en/2023-04/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-06.mp3
+          target: en/2023-04/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-12-07.mp3
+          target: en/2023-04/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-13-01.mp3
+          target: en/2023-04/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-13-02.mp3
+          target: en/2023-04/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-13-03.mp3
+          target: en/2023-04/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-13-04.mp3
+          target: en/2023-04/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-13-05.mp3
+          target: en/2023-04/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2023-04/en-egw-2023-04-13-06.mp3
+          target: en/2023-04/13/06

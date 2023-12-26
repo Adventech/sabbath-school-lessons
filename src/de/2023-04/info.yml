@@ -1,0 +1,20 @@
+---
+  title: "Gottes Mission - meine Mission"
+  description: "Vor Jahren veröffentlichte eine unserer adventistischen Zeitschriften ein Gleichnis über einen furchtbaren Sumpf. Wenn Menschen den Weg entlanggingen, wurden sie oft überwältigt und fielen hinein. Ihre Todesschreie konnte man im ganzen nahe gelegenen Dorf hören. Es war schrecklich."
+  human_date: "Oktober · November · Dezember 2023"
+  start_date: "30/09/2023"
+  end_date: "29/12/2023"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Global Mission Center Directors"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: Redakteurin
+      value: "Soraya Homayouni"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"

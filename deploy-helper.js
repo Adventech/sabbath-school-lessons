@@ -1,13 +1,36 @@
-let getCompilationQuarterValue = function (d, strict) {
+let getCompilationQuarterValue = function (d, strict, includePrevious) {
     d = d || new Date();
     let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),
         nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
 
-    let ret = `+(${d.getFullYear()}-0${quarterIndex}|${nextQuarter})`;
+    let ret = `+(${includePrevious ? getPreviousQuarter() + "|" : ''}${d.getFullYear()}-0${quarterIndex}|${nextQuarter})`;
     if (!strict) {
         ret = `${ret}*`
     }
     return ret
+};
+
+let getCurrentQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+
+    return `${d.getFullYear()}-0${quarterIndex}`;
+};
+
+let getNextQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+    let nextQuarter = (quarterIndex <= 3) ? d.getFullYear() + "-0" + (quarterIndex + 1) : (d.getFullYear() + 1) + "-01";
+
+    return `${nextQuarter}`;
+};
+
+let getPreviousQuarter = function () {
+    let d = new Date();
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+    let prevQuarter = (quarterIndex === 1) ? (d.getFullYear() - 1) + "-04" : (d.getFullYear()) + `-0${(quarterIndex - 1)}`;
+
+    return `${prevQuarter}`;
 };
 
 let getInfoFromPath = function (path) {
@@ -23,4 +46,4 @@ let getInfoFromPath = function (path) {
     return info;
 };
 
-module.exports = { getCompilationQuarterValue, getInfoFromPath }
+module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath }

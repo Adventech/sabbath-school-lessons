@@ -9,6 +9,7 @@
     "axios": "^0.21.1",
     "danger": "^10.6.0",
     "ent": "^2.2.0",
+    "fast-xml-parser": "^4.3.2",
     "firebase-admin": "^9.4.2",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6",

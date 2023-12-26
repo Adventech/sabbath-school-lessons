@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: അധ്യാപകരുടെ അഭിപ്രായങ്ങൾ
+    description: ഈ ടീച്ചേഴ്‌സ് എഡിഷൻ ഉപയോഗിച്ച് സബത്ത് സ്‌കൂൾ പാഠ ചർച്ച സുഗമമാക്കാൻ തയ്യാറെടുക്കുക
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: എല്ലെൻ ജി. വൈറ്റ് ഉദ്ധരണികൾ
+    description: എല്ലെൻ ജി. വൈറ്റ് രചനകളിൽ നിന്നുള്ള അധിക തിരഞ്ഞെടുത്ത ഉദ്ധരണികൾ ഉപയോഗിച്ച് നിങ്ങളുടെ പഠനം മെച്ചപ്പെടുത്തുക
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: മിഷൻ കഥ
+    description: ലോകമെമ്പാടുമുള്ള പ്രചോദനാത്മക മിഷൻ കഥകൾ വായിക്കുക
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: ഓഡിയോ
+    description: ഓഡിയോ പതിപ്പിനൊപ്പം യാത്രയിൽ പാഠം കേൾക്കുക
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: വീഡിയോ
+    description: നിങ്ങളുടെ പഠനം കൂടുതൽ ആഴത്തിലാക്കാൻ പ്രതിവാര പാഠ ചർച്ച കാണുക
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: യഥാർത്ഥ ലേഔട്ട്
+    description: നിരവധി വ്യാഖ്യാന ടൂളുകൾ ഉപയോഗിച്ച് യഥാർത്ഥ പ്രിന്റ് ലേഔട്ട് ഉപയോഗിച്ച് പാഠത്തെക്കുറിച്ചുള്ള നിങ്ങളുടെ പഠനം മെച്ചപ്പെടുത്തുക
+    image: "v1/images/features/feature_original_layout.png"

@@ -1,0 +1,22 @@
+---
+  title: "L’héritage adventiste: notre identité, notre mission et notre message"
+  description: "Ces dernières années, des gens ont commencé à s’intéresser à la recherche de leurs racines biologiques. Pour répondre à cette demande croissante, des entreprises multimilliardaires ont vu le jour, proposant des tests ADN rapides et faciles à réaliser soi-même. Ces tests permettent aux gens de découvrir quel pourcentage de leur ADN est chinois, nord-européen, sud-africain ou amérindien, pour ne citer que quelques exemples."
+  human_date: "octobre · novembre · décembre 2023"
+  start_date: "30/09/2023"
+  end_date: "29/12/2023"
+  color_primary: "#B35A4E"
+  color_primary_dark: "#C93A28"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "Adam Ramdin"
+    - name: Éditeur
+      value: "Justin Kim"
+    - name: Éditeur associé
+      value: "Sikhu Daco"
+    - name: Traduction
+      value: "Monique Lemay"
+    - name: Édition française
+      value: "Dina Albicy"
+    - name: Révision
+      value: "Francine Schweitzer"

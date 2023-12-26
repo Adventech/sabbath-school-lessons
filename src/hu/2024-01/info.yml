@@ -1,0 +1,32 @@
+---
+  title: "A zsoltárok könyve"
+  description: "A Zsoltárok a Biblia legszebb imádságainak és énekeinek gyűjteménye, a hívők generációinak ima- és énekeskönyve. Szavait hívők, királyok, poéták, papok – igazak és megtérő bűnösök – dicsőítve, örömmel, szomorúan vagy elkeseredetten mondták és énekelték magányuk csendjében, vagy nyilvánosan."
+  human_date: "Január · Február · Március 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#132C48"
+  color_primary_dark: "#0A213A"
+  splash: true
+  credits:
+    - name: Írta
+      value: "Dragoslava Santrac"
+    - name: Fordította
+      value: "Zarkáné Teremy Krisztina"
+    - name: Korrektor
+      value: "Fürjné Simon Edina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-963-9930-88-9"
