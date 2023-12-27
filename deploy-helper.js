@@ -19,7 +19,7 @@ let getCurrentQuarter = function () {
 
 let getCurrentQuarterWithOffset = function (offset) {
     let d = new Date();
-    d = d.add(offset, 'd')
+    d.setDate(d.getDate() + offset);
     let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
 
     return `${d.getFullYear()}-0${quarterIndex}`;
