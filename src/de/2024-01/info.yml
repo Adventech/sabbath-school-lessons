@@ -1,0 +1,19 @@
+---
+  title: "Die Psalmen"
+  description: "description"
+  human_date: "Januar · Februar · März 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  credits:
+    - name: Autor
+      value: ""
+    - name: Herausgeber
+      value: ""
+    - name: Redakteurin
+      value: ""
+    - name: Publikationsleiterin
+      value: ""
+    - name: Redaktionsassistentin
+      value: ""
