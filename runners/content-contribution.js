@@ -9,11 +9,11 @@ if (process && process.env && process.env.GITHUB_TOKEN) {
 }
 
 // TODO: check for next quarter as well
-const {  getCurrentQuarter } = require('../deploy-helper')
+const {  getCurrentQuarterWithOffset } = require('../deploy-helper')
 
 let glob        = require("glob"),
     axios       = require("axios"),
-    quarters    = [getCurrentQuarter()],
+    quarters    = [getCurrentQuarterWithOffset(14)],
     fs          = require("fs-extra");
 
 let SRC_DIR = 'src'
