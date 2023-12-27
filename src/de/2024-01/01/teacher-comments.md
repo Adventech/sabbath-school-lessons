@@ -87,8 +87,7 @@ Eine letzte Beobachtung, die uns der obige Katalog ermöglicht, ist der Gedanke,
 
 **„Sammlungen“ im Buch der Psalmen**
 
-Die Studienanleitung dieser Woche weist auf Sammlungen von Liedern für besondere Anlässe hin, wie die „Wallfahrtspsalmen“ (Ps 120–134) und die „Hallel-Psalmen“ (Ps 113–118). Jahrelange Forschung hat weitere Verbindungen zwischen den verschiedenen Psalmen ans Licht gebracht. Eine solche Verbindung findet sich in den Psalmen 15 bis 24 (siehe W. Brown, „‚Here Comes the Sun!‘ The Metaphorical Theology of Psalms 15–24“,
-in: Erich Zenger (Hg.), The Composition of the Book of Psalms, Leuven 2010, S. 260). Diese Zusammenstellung kann in folgender chiastischer Struktur dargestellt werden:
+Die Studienanleitung dieser Woche weist auf Sammlungen von Liedern für besondere Anlässe hin, wie die „Wallfahrtspsalmen“ (Ps 120–134) und die „Hallel-Psalmen“ (Ps 113–118). Jahrelange Forschung hat weitere Verbindungen zwischen den verschiedenen Psalmen ans Licht gebracht. Eine solche Verbindung findet sich in den Psalmen 15 bis 24 (siehe W. Brown, „‚Here Comes the Sun!‘ The Metaphorical Theology of Psalms 15–24“, in: Erich Zenger (Hg.), The Composition of the Book of Psalms, Leuven 2010, S. 260). Diese Zusammenstellung kann in folgender chiastischer Struktur dargestellt werden:
 
 **A Psalm 15** (Eingangsliturgie)
 
