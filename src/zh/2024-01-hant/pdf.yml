@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-Intro.pdf
+      title: 介紹
+      target: zh/2024-01-hant/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-01.pdf
+      target: zh/2024-01-hant/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-02.pdf
+      target: zh/2024-01-hant/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-03.pdf
+      target: zh/2024-01-hant/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-04.pdf
+      target: zh/2024-01-hant/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-05.pdf
+      target: zh/2024-01-hant/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-06.pdf
+      target: zh/2024-01-hant/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-07.pdf
+      target: zh/2024-01-hant/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-08.pdf
+      target: zh/2024-01-hant/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-09.pdf
+      target: zh/2024-01-hant/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-10.pdf
+      target: zh/2024-01-hant/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-11.pdf
+      target: zh/2024-01-hant/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-12.pdf
+      target: zh/2024-01-hant/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-13.pdf
+      target: zh/2024-01-hant/13
