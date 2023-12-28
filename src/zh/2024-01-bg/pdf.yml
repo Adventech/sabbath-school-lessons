@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q1/Begin/Begin_A1_Jan_S.pdf'
+      target: zh/2024-01-bg/01
+      title: 上帝创造我们这个世界
+      start_date: 30/12/2023
+      end_date: 26/01/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q1/Begin/Begin_A1_Feb_S.pdf'
+      target: zh/2024-01-bg/02
+      title: 挪亚的大船
+      start_date: 27/01/2024
+      end_date: 24/02/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q1/Begin/Begin_A1_Mar_S.pdf'
+      target: zh/2024-01-bg/03
+      title: 撒拉的婴孩
+      start_date: 25/02/2024
+      end_date: 29/03/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%AF%BEA%E5%B9%B4%E7%AC%AC1%E5%AD%A3/A%E5%B9%B41%E5%AD%A31%E6%9C%88%E6%95%99%E5%B8%88.pdf'
+      target: zh/2024-01-bg/01
+      title: 教師本
+      start_date: 30/12/2023
+      end_date: 26/01/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%AF%BEA%E5%B9%B4%E7%AC%AC1%E5%AD%A3/A%E5%B9%B41%E5%AD%A32%E6%9C%88%E6%95%99%E5%B8%88.pdf'
+      target: zh/2024-01-bg/02
+      title: 教師本
+      start_date: 27/01/2024
+      end_date: 24/02/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%AF%BEA%E5%B9%B4%E7%AC%AC1%E5%AD%A3/A%E5%B9%B41%E5%AD%A33%E6%9C%88%E6%95%99%E5%B8%88.pdf'
+      target: zh/2024-01-bg/03
+      title: 教師本
+      start_date: 25/02/2024
+      end_date: 29/03/2024
