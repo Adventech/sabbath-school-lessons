@@ -1,5 +1,3 @@
-yt-dlp "https://www.youtube.com/watch?v=Ldz8aU2_6hw" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2023-04-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=mtuLypCHiH4" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ilo/ilo-2023-04-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=o-DrmQF7uqA" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ml/ml-2023-04-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=zkZWnLbFlcM" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "af/insig/af-insig-2023-04-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=3UbI4mC9UoY" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "hr/hr-2023-04-13.mp4"
