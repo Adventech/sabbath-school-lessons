@@ -1,0 +1,54 @@
+---
+title:  Lehrerteil
+date:   22/03/2024
+---
+
+### TEIL I: ÜBERSICHT
+
+**Schlüsseltext:** Psalm 104,33
+
+Anbetung lässt sich wie folgt zusammenfassen: die Antwort des Geschöpfes auf die Gaben des Schöpfers. In dieser Zusammenfassung werden zwei biblische Lehren deutlich. Erstens: Gott hat der Menschheit viele Segnungen geschenkt. Diese Gaben sollten im Herzen der Menschen Dankbarkeit für die Größe der Liebe Gottes wecken, sodass wir uns mit dem Psalmisten vereinen können, um „dir zu danken mit lauter Stimme und zu verkünden alle deine Wunder“ (Ps 26,7). Der Eifer des Psalmisten, anderen die Größe Gottes zu verkünden, erinnert uns daran, dass Anbetung eine missionarische Dimension hat. So sollten wir als Kirche der Welt die Taten Gottes, die er für jeden Einzelnen tut und seine göttliche Barmherzigkeit verkünden.
+
+Zweitens sind die Menschen mit einer angeborenen Veranlagung ausgestattet, auf Gottes Wunder zu reagieren. Als Antwort auf die göttliche Gnade sollten wir uns mit einem dankbaren Herzen verneigen und alles in unserem Leben dem Willen unseres Schöpfers und Erlösers unterordnen.
+
+Anbetung sollte aus dem Herzen kommen. Gleichzeitig lehrt uns das Buch der Psalmen, dass Anbetung nicht unüberlegt erfolgen sollte. Es gibt angemessene Wege, den Herrn zu verehren. Ein kluges Gleichgewicht zwischen Dankbarkeit und ehrfürchtiger Unterordnung wird unsere Anbetung so gestalten, dass sie erfreut und vereint.
+
+### TEIL II: KOMMENTAR
+
+Der Psalter ist ein Buch der Anbetung und für die Anbetung. Jedes Lied und jedes Gebet sind in gewisser Weise Ausdruck der Hingabe an Gott. Betrachten wir verschiedene Ansätze zur Anbetung in diesem heiligen Kirchengesangbuch.
+
+**Psalm 3: Anbetung am Morgen und am Abend**
+
+David schreibt Psalm 3 in einer Zeit der Bedrängnis. Er weiß, dass er sich Gott anvertrauen kann und dass der Herr ihn erhören wird (Ps 3,5). Gottes liebevolle Zuwendung stärkt Davids tägliches Vertrauen in die göttliche Treue, wie Psalm 3,6 zeigt. Dieser Text erinnert auch an Psalm 55,18: „Abends, morgens und mittags will ich beten und ringen, so wird er meine Stimme hören“ (SLT). Dieser Vers lehrt uns, dass Anbetung in unserem Herzen zu jeder Tageszeit stattfinden kann.
+
+Auch Platz und Ort sind kein Hindernis für unsere Anbetung. In Psalm 4,4 heißt es: „Der HERR hört, wenn ich ihn anrufe.“ Der Psalmist fügt sogleich hinzu: „Zürnet ihr, so sündiget nicht; redet in eurem Herzen auf eurem Lager und seid stille“ (V. 5). Ob in der Abgeschiedenheit des Schlafzimmers, wie im Falle des Psalmisten, oder in der felsigen Abgeschiedenheit von Patmos, wohin der Apostel Johannes verbannt war – unsere Gebete steigen zu Gott auf, unabhängig von Geografie oder Ort.
+
+Das Buch der Psalmen ist voll von persönlichen Gebeten, Klagen und Segnungen (Ps 9; 10; 30; 32; 34; 40; 41; 92; 107; 116; 138). Anbetung in der Gemeinde beginnt mit dem Einsatz jedes einzelnen Gemeindeglieds für persönliche Andacht.
+
+**Psalm 22: Anbetung in der Gemeinde**
+
+In Psalm 22 fällt auf, dass David die Ich-Perspektive einnimmt (Ps 22,23.26). Die Intimität und Unmittelbarkeit dieses Blickwinkels unterstreichen die Vorstellung, dass der Lobpreis der Gemeinde mit dem einzelnen Anbeter beginnt. David verkündet: „Ich will deinen Namen kundtun meinen Brüdern, ich will dich in der Gemeinde rühmen“ (V. 23). Und dann fügt er hinzu: „Dich will ich preisen in der großen Gemeinde, ich will mein Gelübde erfüllen vor denen, die ihn fürchten“ (V. 26). Was für eine Lektion für uns, wenn wir versuchen, in der Anbetung in die Gegenwart Gottes zu kommen! Psalm 22 zeigt uns, wie wichtig die Anbetung in der Gemeinde für unseren Glauben und unsere Lebenskraft ist. Unsere Kinder sollten diese essenzielle Wahrheit verstehen lernen, wenn wir sie in die Gemeinde mitnehmen. Darüber hinaus gehen wir in den Tempel in einem Geist der Unterordnung, nicht so sehr, um einen Segen zu erhalten, sondern um Segen zu geben und zu sein.
+
+Auch wenn die persönliche Hingabe die Grundlage für unseren Gemeindegottesdienst ist, müssen wir uns darüber im Klaren sein, dass Gemeindeglieder nicht in Isolation gedeihen können. So schließt sich der Psalmist in Psalm 22,23–26 im Gottesdienst mit der Gesamtheit des Gottesvolkes zusammen. Das Argument „Ich kann zu Hause anbeten, ich brauche die anderen Gemeindeglieder nicht“ löst sich angesichts dieses Textes in Luft auf. Der Gottesdienst in der Gemeinde bringt Einheit, fördert die Liebe unter Gottes Volk und prägt unsere Identität weltweit.
+
+**Anbetung in einem umfassenderen Sinne**
+
+Wie in unserer ersten Studienbetrachtung erwähnt, endet das Buch der Psalmen mit Psalm 150. Die letzten fünf Lieder – die Psalmen 146 bis 150 – bilden einen majestätischen Abschluss des Buches. Da es das Ziel unserer Anbetung ist, den Namen des allmächtigen Gottes zu ehren, sind diese letzten fünf Lieder in angemessener Weise seiner Anbetung und seinem Lobpreis gewidmet: „Singet dem HERRN ein neues Lied; die Gemeinde der Heiligen soll ihn loben“ (Ps 149,1).
+
+Das Verb halal (hebr. „loben“) wird in den Psalmen 146–150 über 30 Mal verwendet und jede Stelle bezieht sich auf Gott selbst. Unsere in diesen Psalmen aufgeführten Gründe, den Herrn zu loben, sind mannigfaltig. Der Herr ist unsere Hilfe und Hoffnung (Ps 146,5); er ist Schöpfer und Erhalter (Ps 146,6; 147,4.8–9.16–19); er verteidigt und befreit die Bedürftigen und Unterdrückten (Ps 146,7–9; 147,2–3); er stützt die Demütigen und straft die Bösen (Ps 147,6; 149,5); er stillt die Bedürfnisse seines Volkes (Ps 147,14; 149,7–9) und er regiert für immer (Ps 146,10). Psalm 148,13 fasst den wichtigsten Grund für unsere Anbetung und unseren Lobpreis Gottes zusammen: „Denn sein Name allein ist hoch, seine Herrlichkeit reicht, so weit Himmel und Erde ist.“ Der Herr ist der einzige Gott, den es gibt, und er ist des Lobes würdig wegen „seiner großen Herrlichkeit“ (Ps 150,2).
+
+Unsere Anbetung, sowohl die öffentliche als auch die private, sollte klug und überlegt erfolgen. Wir sollten uns jeden Tag und besonders an jedem Sabbat Zeit nehmen, um uns an die Segnungen zu erinnern, die Gott über uns ausgegossen hat. Jede Segnung in einem Tagebuch festzuhalten, ist von unschätzbarem Nutzen sowohl für unseren Glauben als auch für unseren Gottesdienst.
+
+Wie wir bereits festgestellt haben, ist die Anbetung eine kollektive Erfahrung, an der der ganze Leib Christi teilhat (Ps 147,12.19–20; 148,14; 149,1; 150,1). Zwar kann der Einzelne Gott für sich in der Privatsphäre seines Hauses und nach seinem persönlichen Verständnis der Heiligen Schrift anbeten, aber der Herr beabsichtigte, dass seine Anbetung in seinem Heiligtum (Ps 150,1) oder an einem anderen geweihten Ort der Anbetung „in der Versammlung der Gläubigen“ (Ps 149,1) stattfindet. Unsere Anbetung ist unvollständig, wenn wir uns stets von den anderen abkapseln und Gott für uns allein die Ehre geben.
+
+Die letzten Lieder des Buches der Psalmen laden nicht nur das Volk Gottes ein, seinen Namen zu preisen, sondern rufen die ganze Welt auf, den Schöpfer anzubeten und ihm die Ehre zu erweisen. „Alles, was Odem hat, lobe den HERRN!“ (Ps 150,6; vgl. Ps 148,11–12). Wie wir diese Woche gelernt haben, hat Anbetung eine missionarische Dimension. Wenn unser Gottesdienst darauf ausgerichtet ist, fröhlich, kreativ, inklusiv und abwechslungsreich zu sein, können und werden wir Menschen für das Reich Gottes erreichen.
+
+Im Zuge einer solchen Einschätzung stellt sich die Frage: Wie umfangreich und umfassend sollte unsere Anbetung Gottes sein? In Psalm 148 fordert der Psalmist nicht nur die Engel auf, den Namen Gottes zu preisen (Ps 148,2), sondern auch „Sonne und Mond“ und „alle leuchtenden Sterne“ (V. 3). Durch die Personifizierung dieser unbelebten Gegenstände und Himmelskörper (V. 3–4.7–10) vermittelt uns der Psalmist den Gedanken, dass die Anbetung jeden Bereich des Lebens durchdringen sollte. Angesichts dieser biblischen Wahrheit täten viele von uns, die ihren Lobpreis und ihre Verehrung Gottes nur auf den Sabbat beschränken, gut daran, ihr Konzept und ihre Praxis der ­Anbetung Gottes neu zu bewerten.
+
+Ein letztes Thema, über das wir in den Psalmen 146 bis 150 nachdenken sollten, ist die Verwendung von Instrumenten bei unserer Anbetung. Sieben Instrumente werden in diesen letzten Psalmen erwähnt: 1. Harfe (Ps 147,7; 149,3; 150,3), 2. Tamburin (Ps 149,3; 150,4), 3. Trompete und 4. Laute (Ps 150,3), 5. Saiteninstrumente, 6. Flöten (Ps 150,4) und 7. „schallende“ Becken (Ps 150,5 EB). Anbetung erfordert, dass wir Gott unsere besten Gaben bringen. Der Bereich der Musik bildet keine Ausnahme. All die Technik, die uns heute zur Verfügung steht, ist sicherlich ein Segen für unseren Gottesdienst. Gleichzeitig kommt an Live-Gesang und -Musik nichts heran. Solche Musik ist nicht nur persönlicher und unmittelbarer, sie hat auch die Kraft, das Herz auf einzigartige Weise zu berühren. In diesem Sinne tun Eltern gut daran, ihre Kinder zu ermutigen, ein Musikinstrument zu erlernen und zu singen. Wir sollten alles in unserer Macht Stehende tun, um den Einsatz verschiedener Instrumente in unseren Gottesdiensten zu fördern. Letztendlich sollte der Schwerpunkt der Musik in unserem Gottesdienst darin liegen, unseren Erlöser zu preisen.
+
+### TEIL III: ANWENDUNG
+
+Anbetung ist ein integraler Bestandteil des Erlebens eines Gläubigen, nicht nur ein ­Zusatz. Das Buch der Psalmen bietet Motivation und Inspiration für unsere Anbetung. Daher sollten wir jeden Psalm sorgfältig und unter Gebet lesen, und zwar mit der Absicht, unsere Gemeinschaft mit Gott zu vertiefen. Bitte die Gesprächsteilnehmer, mit aufgeschlagener Bibel niederzuknien und zu beten und dabei die Worte der Psalmen als Gebete zu verwenden. Auf diese Weise werden sie feststellen, dass die Psalmen ihre persönliche Unterordnung unter den Herrn und ihre Hingabe an ihn fördern.
+
+Wir haben uns in dieser Woche mit verschiedenen Formen der Anbetung befasst, sowie mit der Frage, wie sie in unserem Leben und in unserer Kirche ein Segen sein können. In diesem letzten Abschnitt wenden wir uns nun der praktischen Anwendung dieser Grundsätze zu. Die Einführung verschiedener Gottesdienstformen hat manchmal zu Spaltungen in unserer Kirche geführt. Das ist ein sicheres Zeichen dafür, dass wir uns in die falsche Richtung bewegen. Wir haben gelernt, dass Anbetung Einheit und Harmonie unter Gottes Volk bringt. Wenn in unserem Gottesdienst die Harmonie ­Geisteshaltung und Ziel ist, gehen die Gottesdienstbesucher mit einem Gefühl des ­Segens nach Hause. Deshalb ist es sehr wichtig, dieses Gleichgewicht der Harmonie zu erreichen und zu erhalten. Wir sollten uns in jedem Bereich unseres Gottesdienstes darum bemühen, wie unser Studium aufzeigte. Lasst uns mit demütiger Haltung bereit sein, gemeinsam mit unseren Mitgeschwistern unseren Schöpfer harmonisch zu verehren; er erwartet genau das von uns.
