@@ -6,6 +6,7 @@
   end_date: "29/03/2024"
   color_primary: "#304465"
   color_primary_dark: "#032C48"
+  splash: true
   credits:
     - name: Autor
       value: "Dragoslava Santrac"

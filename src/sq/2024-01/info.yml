@@ -1,0 +1,18 @@
+---
+  title: "Libri i Psalmeve"
+  description: "Psalmet janë lutje dhe himne të Biblës par excellence. Të krijuara në lavde, gëzimi, trishtime, dhe dëshpërime, të shqiptuara apo kënduara në vende private dhe publike, nga njerëz të thjeshtë, mbretër, poetë, dhe priftërinj, si nga të drejtët ashtu edhe mëkatarët e penduar, Psalmet kanë shërbyer si një libër lutjesh dhe një libër këngësh për breza të tërë besimtarësh."
+  human_date: "Janar · Shkurt · Mars 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Përkthyesi
+      value: "Trifjol Ngjela"
+    - name: Redaktore
+      value: "Kornelia Gjata"
+    - name: Dizenjues grafik
+      value: "Enea Xhengo"
+    - name: Përgjegjës
+      value: "Gentian Thomollari, ALM Publishing Service"
