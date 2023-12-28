@@ -1,5 +1,10 @@
 ---
   pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-Intro.pdf'
+      target: zh/2024-01-hant-cc/intro
+      title: 教學準備
+      start_date: 30/12/2023
+      end_date: 30/12/2023
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-01.pdf'
       target: zh/2024-01-hant-cc/01
       title: 未送達的禮物
@@ -65,11 +70,6 @@
       title: 約沙法的人生評語
       start_date: 23/03/2023
       end_date: 29/03/2023
-    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-01.pdf'
-      target: zh/2024-01-hant-cc/intro
-      title: 教學準備
-      start_date: 30/12/2023
-      end_date: 30/12/2023
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-01.pdf'
       target: zh/2024-01-hant-cc/01
       title: 教師版
