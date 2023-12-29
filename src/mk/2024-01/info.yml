@@ -6,3 +6,4 @@
   end_date: "29/03/2024"
   color_primary: "#DCD796"
   color_primary_dark: "#C3BE82"
+  splash: true
