@@ -1,0 +1,20 @@
+---
+  title: "Le livre des Psaumes"
+  description: "Les Psaumes sont les prières et les hymnes de la Bible par excellence. Dits dans la louange, dans la joie, dans le chagrin, le désespoir ; prononcés ou chantés en privé, en public, par des laïcs, des rois, des poètes et des prêtres ; venant à la fois de justes et de pécheurs repentants, les Psaumes ont servi de livre de prières et de recueil de cantiques à des générations de croyants."
+  human_date: "Janvier · Février · Mars 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#0F2D1F"
+  color_primary_dark: "#02160C"
+  splash: true
+  credits:
+    - name: Auteur
+      value: "Dragoslava Santrac"
+    - name: Rédacteur en chef
+      value: "Clifford R. Goldstein"
+    - name: Rédactrice adjointe IADPA
+      value: "Dina Albicy"
+    - name: Traduction
+      value: "Fay Sainte-Rose, Ana Aurouze"
+    - name: Responsable de publication
+      value: "Lea Alexander Greve"
