@@ -14,6 +14,6 @@ yt-dlp "https://www.youtube.com/watch?v=8NT9vu0i-LE" --format "bv*[height<=1080]
 
 yt-dlp "https://www.youtube.com/watch?v=89xmHZdE4gk" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2024-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=6FPWiCJ3zs0" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=gImuypOHppQ" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "de/jm/de-jm-2024-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=pE4bvB7WmWg" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ro/tbs/ro-tbs-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=R4_a75zxvaw" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "de/tbs/de-tbs-2024-01-01.mp4"
