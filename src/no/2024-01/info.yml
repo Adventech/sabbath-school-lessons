@@ -1,0 +1,18 @@
+---
+  title: "Salmenes bok"
+  description: "Salmenes bok er bønner og salmer fra Bibelen. Den har vært bønnebok og salmebok for generasjoner av troende, med lovprisning, glede, sorg og fortvilelse. Den er også blitt talt eller sunget privat og offentlig av lekfolk, konger, poeter og prester, både rettferdige og angrende syndere."
+  human_date: "January · February · March 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#7C7E71"
+  color_primary_dark: "#54564B"
+  splash: true
+  credits:
+    - name: Originaltittel
+      value: "Psalms"
+    - name: Studieforfatter
+      value: "Dragoslava Santrac"
+    - name: Redaktør
+      value: "Clifford R. Goldstein"
+    - name: Oversetter
+      value: "Egil Fredheim"

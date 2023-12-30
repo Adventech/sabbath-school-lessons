@@ -1,0 +1,28 @@
+---
+  title: "Psaltaren"
+  description: "Psaltaren är Bibelns mest innerliga böner och psalmer. Genom sina uttryck för lovprisning, glädje, sorg och förtvivlan har Psaltaren varit en bönbok och en psalmbok för många generationer av troende lekmän, kungar, poeter och präster som har talat eller sjungit psalmerna både privat och offentligt som antingen rättfärdiga eller ångerfulla syndare."
+  human_date: "Januari · Februari · Mars 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#D27344"
+  color_primary_dark: "#B4571C"
+  splash: true
+  credits:
+    - name: Ansvarig utgivare
+      value: "Rainer Refsbäck"
+    - name: Originalets titel
+      value: "The Book of Psalms"
+    - name: Huvudförfattare detta kvartal
+      value: "Dragoslava Santrac"
+    - name: Internationell redaktör
+      value: "Clifford Goldstein"
+    - name: Svensk redaktör
+      value: "Liane Edlund"
+    - name: Översättare
+      value: "Jonathan Karlsson"
+    - name: Formgivning
+      value: "Vanessa Hansen"
+    - name: Illustrationer
+      value: "Lars Justinen"
+    - name: Bild på framsidan
+      value: "4th Life Photography, Stock.adobe.com"
