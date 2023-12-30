@@ -1,0 +1,21 @@
+---
+  title: "Das Buch der Psalmen"
+  description: "Die Psalmen sind die Gebete und Hymnen der Bibel schlechthin. Sie werden zum Lob, zur Freude, zur Trauer und zur Verzweiflung gesprochen oder gesungen, privat und öffentlich, von Laien, Königen, Dichtern und Priestern, von Gerechten und reuigen Sündern – die Psalmen haben Generationen von Gläubigen als Gebet und Gesangbuch gedient."
+  human_date: "Januar · Februar · März 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#785390"
+  color_primary_dark: "#5f476e"
+  credits:
+  - name: Herausgeber
+    value: "TOP LIFE Wegweiser-Verlag, Wien"
+  - name: Projektleitung
+    value: "Markus Gritschenberger, Franz Mössner"
+  - name: Redaktion
+    value: "Peter Krumpschmid, Hubert Kazmierczak"
+  - name: Korrektorat
+    value: "Monika Lumpi"
+  - name: Design und Illustrationen
+    value: "Simon Eitzenberger"
+  - name: Satz
+    value: "Pierre Intering"
