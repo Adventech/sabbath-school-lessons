@@ -5,13 +5,13 @@ date:  09/02/2024
 
 #### Bahagian I: Pandangan Keseluruhan
 
-Ayat Kunci: Mazmur 12:5
+**Ayat Kunci**: Mazmur 12:5
 
 Dalam Pelajaran4, kita menerokai idea bahawa Tuhan adalah tempat perlindungan, pertahanan, menara, dan kekuatan kita. Metafora ini menandakan kebenaran Alkitab bahawa Tuhan sentiasa berada di sisi anak-anak-Nya yang setia dengan menyediakan perlindungan dan penjagaan. Minggu ini, kita akan mempelajari kiasan yang serupa: tentang Tuhan kita, sebagai Pahlawan Perkasa, berjuang untuk anak-anak-Nya. Kita juga akan memperhatikan idea ini dalam konteks penindasan sosial, yang terlalu biasa berlaku pada zaman alkitabiah dan sebagaimana,  malangnya, terjadi juga pada zaman kita sendiri. Tema penindasan sosial, topik utama dalam buku nubuatan Perjanjian Lama, bergema di seluruh Mazmur. Walaupun penderaan orang oleh para pemimpin politik mereka menyebabkan kita susah, kita bukan tanpa jalan untuk berharap: sesungguhnya, Tuhan adalah pembelaan untuk mereka yang rendah hati.
 
 #### Bahagian II: Ulasan
 
-Penindasan Sosial
+**Penindasan Sosial**
 
 Hukum Musa memerintahkan umat Tuhan untuk menjaga secara khas tiga kumpulan manusia: “orang asing, anak yatim dan janda” (Ul. 10:18, Ulangan 14:29; Ulangan 16:11, 14; Ulangan 24). :17-20; Ulangan 26:12, 13; Ulangan 27:19). Biasanya, mereka ini tidak mempunyai sumber pendapatan yang stabil; sering kali mereka tidak memiliki tanah yang boleh diusahakan atau dikerjakan untuk menyara keluarga mereka. Sebaik-baiknya, kumplan masyarakat yang terpinggir dan pendatang ini berusaha untuk mencari tempat di mana mereka boleh mendapatkan pekerjaan, atau sekurang-kurangnya, dibenarkan untuk mengumpul sisa buah-buahan dan berkas di belakang para penuai (lihat Rut 2:6-8). Orang sedemikian tidak mempunyai perlindungan keluarga. Memandangkan keadaan kelemahan mereka, kita dapat melihat bagaimana penderaan terhadap balu, anak yatim, dan orang asing dianggap sebagai salah satu dosa paling teruk dalam masyarakat pada zaman Perjanjian Lama. Para nabi selalu menasihati orang ramai agar menyediakan untuk golongan yang kurang bernasib baik ini (Yes. 1:17, 23; Yer. 7:6; Yer. 22:3; Yehezkiel 22:7; Zakh. 7:10).
 
@@ -21,7 +21,7 @@ Kini, beberapa tempat mengadakan program sosial untuk membantu anak yatim dan ba
 
 Penghijrahan merupakan satu lagi isu yang mencabar di banyak negara di seluruh dunia. Penghijrahan telah menjadi isu sejak hari pertama sejarah manusia. Orang ramai sentiasa mencari tempat yang lebih baik untuk hidup dan berkembang maju. Kita adalah tangan Tuhan: Dia meminta kita untuk menyokong dan memberi pertolongan kepada mereka yang hilang, yang sesat, yang asing dan yang terbuang di dalam masyarakat kita. Kita harus mengajak ahli-ahli kumpulan ini untuk menumpukan pandangan mereka kepada Dia yang merupakan Pembela anak yatim dan pendatang.
 
-Tuhan, Pahlawan Ilahi
+**Tuhan, Pahlawan Ilahi**
 
 Terdapat satu metafora yang lebih kuat tentang Tuhan dalam Perjanjian Lama, dan, pada tahap yang sedikit rendah di dalam Perjanjian Baru, yang tidak terlalu popular di kalangan orang Kristian pada masa kini: iaitu, Tuhan sebagai pahlawan. Idea sedemikian mungkin terlalu kasar atau bersifat ketenteraan oleh budaya yang lebih suka ungkapan cinta, belas kasihan, keterangkuman dan kedamaian Tuhan.
 
@@ -39,7 +39,7 @@ Mazmur 18:16-19: Di sini kita membaca tentang pembebasan terhadap hamba: Pahlawa
 
 Sungguh ia berupa satu huraian yang menakjubkan dan terperinci tentang pekerjaan Tuhan untuk anak-anak-Nya di bawah keadaan yang paling sukar. Satu pemahaman tentang watak Tuhan ini akan mengubah dunia dan gereja kita. Orang yang ditindas dan dianiaya mesti yakin bahawa Tuhan sedang berjuang untuk mereka.
 
-Teguran kepada Pemimpin
+**Teguran kepada Pemimpin**
 
 Mazmur 82 merupakan satu teguran keras kepada para pemimpin, yang memiliki pengaruh dan kuasa untuk mengubah keadaan “orang miskin dan anak yatim; lakukanlah keadilan kepada orang yang miskin dan ditindas” (Mazmur 82:3, AVB), tetapi gagal melaksanakan.
 
@@ -47,7 +47,7 @@ Mazmur menggambarkan satu pertemuan di mana pemimpin dimarahi kerana kecuaian da
 
 Pemazmur mengingatkan kita bahawa kita adalah “tuhan” dan “anak Yang Mahatinggi” (Mazmur 82:6, AVB). Tuhan mencipta manusia mengikut gambar dan rupa-Nya (Kej. 1:26), yang bermaksud bahawa kita adalah makhluk yang bijak dengan hati nurani moral. Oleh itu, kita harus menyokong orang yang menderita, orang asing dan orang yang memerlukan. Walau apa pun bidang kita—sama ada kejiranan atau tempat kerja—kita harus berusaha untuk menjadi sumber bantuan kepada mereka yang memerlukan.
 
-Penghakiman Tuhan
+**Penghakiman Tuhan**
 
 Pelajaran hari Khamis mengundang kita untuk memperhatikan nasib orang yang tertindas dalam konteks penghakiman terakhir di tempat kudus syurgawi (Mazmur 96:6-10; Mazmur 99:1-4; dan Mazmur 132:7-9, 13-18) dan kontroversi besar antara Tuhan dan Syaitan, seperti yang digambarkan dalam kitab Daniel dan Wahyu khususnya.
 
@@ -66,3 +66,5 @@ Kebenaran Alkitab yang di dalam ayat ini menyatakan stau hakikat yang patut kita
 Tuhan adalah tempat berteduh dan perlindungan bagi mereka yang dalam kesusahan, tetapi Dia juga adalah Pahlawan Ilahi yang berjuang untuk orang yang tertindas. Tambahan pula, Dia adalah seorang pemimpin yang proaktif. Justeru, kita seharusnya bersikap proaktif dalam menghadapi masalah sosial yang kita hadapi hari ini di dunia ini. Yang pasti, kita tidak dapat menyelesaikan semua masalah ini, tetapi kita boleh berusaha untuk memberi kesan positif kepada komuniti kita dan pada kehidupan mereka yang terdedah dan tertindas di sekeliling kita: orang miskin, orang yang terpinggir dan orang yang teraniaya. Kita boleh melakukan kerja yang bermakna dan mengubah hidup bagi golongan minoriti yang telah dipinggirkan oleh masyarakat, seperti yang dilakukan Yesus bagi pihak pemungut cukai, orang berdosa (Mat. 9:10), pelacur (Lukas 7:37-39), dan orang yang dibuang (Mat. 15:21-28) pada zaman-Nya.
 
 Teguran pemazmur untuk pemimpin masyarakat dan politik (Mazmur 82) juga termasuk kita jika kita tidak peduli dengan penderitaan atau ketidakadilan masyarakat dan gagal menangani atau mengurangkannya. Akhirnya, kita mesti ingat bahawa penyelesaian terakhir untuk kejahatan dunia kita yang tidak adil akan datang dari tempat kudus di syurga. Mari kita lakukan bahagian kita, percaya kepada Pahlawan Ilahi untuk hasil akhir keadilan.
+
+` `

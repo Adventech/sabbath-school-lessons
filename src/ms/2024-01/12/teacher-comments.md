@@ -5,7 +5,7 @@ date:  22/03/2024
 
 #### Bahagian I: Pandangan Keseluruhan
 
-Ayat Kunci: Mazmur 104:33
+**Ayat Kunci**: Mazmur 104:33
 
 Ibadah boleh diringkaskan seperti berikut: respons makhluk terhadap karunia Pencipta. Dua kebenaran Bible terbukti dalam abstrak ini.
 
@@ -19,7 +19,7 @@ Ibadah hendaklah datang dari hati. Pada masa yang sama, kitab Mazmur mengajar ki
 
 Mazmur adalah kitab penyembahan dan untuk penyembahan. Setiap lagu dan doa adalah, dalam beberapa cara, pengabdian kepada Tuhan. Mari kita pertimbangkan pendekatan yang berbeza untuk beribadat dalam himne gereja suci ini.
 
-Mazmur 3: Beribadah pada waktu pagi dan petang
+**Mazmur 3: Beribadah pada waktu pagi dan petang**
 
 Daud menulis Mazmur 3 pada masa kesusahan. Daud tahu bahawa dia boleh percaya kepada Tuhan, dan Tuhan akan mendengarnya (Mazmur 3:4). Perhatian Tuhan yang lembut menguatkan keyakinan Daud setiap hari dalam kesetiaan ilahi, seperti Mazmur 3:5 mendedahkan. Teks ini juga membangkitkan Mazmur 55:17, “Petang, pagi dan tengah hari aku akan berdoa dan meratap kuat, dan Dia akan mendengar suaraku” (AVB). Ayat ini mengajar kita bahawa ibadah boleh dilakukan dalam hati pada bila-bila masa sepanjang hari.
 
@@ -27,13 +27,13 @@ Selain itu, tempat atau lokasi bukanlah penghalang kepada ibadah kita. Mazmur 4:
 
 Mazmur penuh dengan doa, ratapan, dan berkat peribadi (Mazmur 9, Mazmur 10, Mazmur 30, Mazmur 32, Mazmur 34, Mazmur 40, Mazmur 41, Mazmur 92, Mazmur 107, Mazmur 116, Mazmur 138). Ibadah jemaah bermula dengan komitmen setiap ahli gereja terhadap pengabdian peribadi.
 
-Mazmur 22: Ibadah dalam Perhimpunan
+**Mazmur 22: Ibadah dalam Perhimpunan**
 
 Dalam Mazmur 22, kita perhatikan bahawa Daud menggunakan sudut pandangan orang pertama (Mazmur 22:22, 25). Keakraban dan kedekatan sudut pandangan ini menguatkan tanggapan bahawa pujian berjemaah bermula dengan penyembah individu. Daud menyatakan, “Aku akan mengisytiharkan nama-Mu kepada saudara-saudaraku; di tengah-tengah perhimpunan aku akan memuji-Mu” (Mazmur 22:22, AVB). Selepas itu, dia menambah, “Pujian-pujian aku untuk-Mu kelak di perhimpunan besar; aku akan menunaikan sumpahku di hadapan mereka yang takut aka Dia” (Mazmur 22:25, AVB). Sungguh suatu pelajaran bagi kita sewaktu kita berusaha untuk datang ke hadirat Tuhan dalam penyembahan! Mazmur 22 menunjukkan kepada kita pentingnya ibadat jemaah kepada iman dan tenaga kita. Anak-anak kita harus dibuat untuk memahami kebenaran penting ini apabila kita membawa mereka ke gereja. Lebih-lebih lagi, kita pergi ke bait suci dalam semangat penyerahan diri, bukan untuk mendapat berkat seperti memberi, dan menjadi, satu.
 
 Walaupun penyucian peribadi adalah asas untuk ibadat jemaah kita, kita mesti sama-sama memastikan bahawa ahli gereja tidak boleh berkembang secara berasingan. Oleh itu, pemazmur bergabung bersama dengan tubuh umat Tuhan dalam penyembahan, dalam Mazmur 22:22-25. Hujah bahawa “Saya boleh beribadat di rumah; Saya tidak memerlukan ahli gereja,” larut dalam menghadapi petikan ini. Ibadah berjemaah membawa perpaduan, memupuk kasih sayang di kalangan umat Tuhan, dan membentuk identiti kita di seluruh dunia.
 
-Ibadah dalam Pengertian Yang Lebih Luas
+**Ibadah dalam Pengertian Yang Lebih Luas**
 
 Seperti yang dinyatakan dalam pelajaran pertama kita, buku-buku Mazmur berakhir dengan Mazmur 145. Lima lagu terakhir—Mazmur 146 hingga 150—merupakan kesimpulan yang megah bagi buku itu. Memandangkan penghormatan kepada nama Tuhan Yang Maha Kuasa adalah tujuan penyembahan kita, lima melodi terakhir ini dikhususkan secara tepat untuk penyembahan dan pujian kepada-Nya: “Pujilah TUHAN! Nyanyikanlah kepada TUHAN lagu baru, dan pujian untuk-Nya dalam perhimpunan orang warak” (Mazmur 149:1, AVB).
 
@@ -54,3 +54,5 @@ Topik terakhir untuk dipertimbangkan dalam Mazmur 146 hingga 150 ialah penggunaa
 Ibadah adalah sebahagian daripada pengalaman orang beriman, bukan sekadar aksesori kepadanya. Kitab Mazmur memberikan motivasi dan inspirasi kepada kehidupan bhakti kita. Oleh itu, kita harus membaca setiap mazmur dengan teliti dan penuh doa, dengan niat untuk memperdalam persekutuan kita dengan Tuhan. Jemput pelajar anda untuk sujud dan berdoa dengan Alkitab terbuka, menggunakan kata-kata Mazmur sebagai doa mereka. Dengan cara ini, mereka akan mendapati bahawa Mazmur meningkatkan penyerahan dan pengabdian peribadi mereka kepada Tuhan.
 
 Kita telah mempertimbangkan cara ibadat yang berbeza pada minggu ini dan cara di mana ia boleh menjadi berkat dalam kehidupan kita dan dalam gereja kita. Sekarang, dalam bahagian terakhir kita ini, kita beralih kepada aplikasi praktikal prinsip-prinsip ini. Pelaksanaan cara ibadat yang berbeza kadangkala membawa perpecahan di kalangan kita dalam gereja. Itu petanda pasti bahawa kita bergerak ke arah yang salah. Kita telah belajar bahawa ibadat membawa kesatuan dan keharmonian di kalangan umat Tuhan. Apabila semangat dan niat keharmonian wujud dalam perkhidmatan ibadat kita, para penyembah hilang daripada pengalaman itu dengan perasaan diberkati daripada pengalaman itu. Itulah sebabnya mencapai dan mengekalkan keseimbangan keharmonian ini sangat penting. Kita harus berusaha untuk itu dalam setiap bidang ibadat kita, seperti yang digariskan dalam pelajaran kita. Dalam kerendahan hati, marilah kita bersedia untuk bergabung dengan sesama anggota gereja dalam penyembahan yang harmoni kepada Pencipta kita; Dia mengharapkan daripada kita.
+
+` `
