@@ -1,0 +1,20 @@
+---
+  title: "Kitab Mazmur"
+  description: "Mazmur adalah doa dan nyanyian pujian dalam Alkitab yang tertinggi kecemerlangannya. Ia diucapkan di dalam pujian, kegembiraan, kesedihan dan keputusasaan; diucapkan atau dinyanyikan secara tertutup dan di khalayak ramai, oleh orang awam, raja, penyair dan imam, yang terdiri daripada orang yang saleh dan orang berdosa yang telah bertaubat, Mazmur telah berfungsi sebagai buku doa dan kitab buku nyanyian kepada beberapa generasi umat yang beriman."
+  human_date: "Januari · Februari · Mac 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Penyumbang Utama
+      value: "Dragoslava Santrac"
+    - name: Penerbit Eksekutif
+      value: "Feldinand Sawanai, Earie Madius, Daven Lamam"
+    - name: Penterjemah
+      value: "Lesaya L Sorudim, Raychel L Sorudim"
+    - name: Pengarah Penerbitan
+      value: "Herbert Ginduk"
+    - name: Konsep Kulit/Rekacipta Dalaman
+      value: "Nelton N. Paulus / Lesaya L. Sorudim"
