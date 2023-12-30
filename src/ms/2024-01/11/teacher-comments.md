@@ -5,7 +5,7 @@ date:  15/03/2024
 
 #### Bahagian I: Pandangan Keseluruhan
 
-Ayat Kunci: Mazmur 84:2
+**Ayat Kunci**: Mazmur 84:2
 
 Minggu ini kita akan memberi tumpuan kepada kiasan, "Sion," seperti yang dinyatakan dalam kitab Mazmur (lihat Mazmur 46, Mazmur 84, Mazmur 87, Mazmur 122, dan Mazmur 125). Mazmur penuh dengan harapan dan harapan orang benar untuk melawat, dan diam, dengan aman di tempat kudus Tuhan, tempat perlindungan keselamatan dan kedamaian.
 
@@ -13,13 +13,13 @@ Konsep "Sion" dalam Kitab Suci sendiri adalah gabungan geografi, politik, dan te
 
 #### Bahagian II: Ulasan
 
-Geografi Sion
+**Geografi Sion**
 
 Lokasi Gunung Sion di Yerusalem berhubung dengan Gunung Moria mempunyai kepentingan teologi yang penting. Daud menakluki Gunung Sion (2 Raja-raja 5:6, 7; 1 Tawarikh 11:5-7), menduduki kawasan yang agak kecil dari bukit yang kemudiannya dipanggil Kota Daud. Di sebelah utara, kira-kira enam ratus meter, atau dua ribu kaki jauhnya, berdiri Gunung Moria, di mana Ishak telah “dipersembahkan” sebagai korban (Kejadian 22:1–12). Di sini juga Malaikat Tuhan berdiri di dekat tempat pengirikan Arauna, orang Yebus, dan dihentikan di tengah-tengah memusnahkan Israel akibat dosa Daud, yang cuba melakukan sensus (2 Samuel 24:16). bertentangan dengan kehendak Tuhan. Selepas itu, Daud membeli tempat pengirikan dan mendirikan sebuah mezbah bagi Tuhan di sana, dan sebagai pendamaian atas kesombongannya, memberikan korban bakaran dan korban keselamatan kepada Tuhan (2 Samuel 24:25; bandingkan dengan 1 Tawarikh 21:15-30).
 
 Kuil Salomo dan bangunan luarnya juga dibina di tempat yang sama ini (2 Tawarikh 3:1). Kota Yerusalem meluas ke utara dan merangkul gunung suci, dan akhirnya nama Sion datang untuk memasukkan Gunung Bait. Seperti yang telah kita lihat dalam Mazmur, Sion sering merujuk kepada kota Yerusalem secara keseluruhan (Mazmur 48:1-3; Mazmur 69:35; Mazmur 74:2; Mazmur 82:2-5; Mazmur 125:1, 2).
 
-Sion, Gunung Suci
+**Sion, Gunung Suci**
 
 Lama sebelum Salomo membina Tuhan sebuah bait suci, Tuhan menyatakan diri-Nya di Gunung Sinai dan memerintahkan Israel untuk membina Dia sebuah khemah supaya Dia boleh tinggal di tengah-tengah mereka (Keluaran 25:8, 9). Apabila tempat kudus selesai dan didirikan, hadirat Tuhan turun dalam awan dan bersandar di atas khemah pertemuan (Keluaran 40:34, 35), menjadikannya pusat manifestasi dan ibadah bagi Israel. Oleh itu, Tuhan memindahkan manifestasi fizikal kehadiran-Nya dari Sinai ke tengah-tengah perkhemahan Israel. Teofani Sinai terus kekal di atas Khemah Pertemuan, semasa perjalanan melalui padang pasir.
 
@@ -27,7 +27,7 @@ Khemah suci mengabadikan, menguatkan, dan menyelesaikan pekerjaan Tuhan di atas 
 
 Ingatlah bahawa Yehuwa tidak pernah terbatas pada gunung tertentu. Dia juga tidak terhad kepada lokasi duniawi tertentu dalam Perjanjian Lama, kerana tidak ada lokasi, dalam dan dengan sendirinya, kudus. Walaupun Dia sering dikaitkan dengan Sinai dan Sion, Tuhan menyatakan diri-Nya berkaitan dengan pelbagai jenis gunung. Dia menyatakan kehadiran-Nya di mana sahaja yang Dia kehendaki. Malah Sion sendiri tidak layak mendapat pembezaan istimewa sebagai kediaman Tuhan di bumi. Sebaliknya, Sion hanyalah tumpuan kaki keagungan yang tidak dapat ditampung oleh langit pun (1 Raja-raja 8:27, 2 Tawarikh 6:18).
 
-Sion dan Perspektif Eskatologinya
+**Sion dan Perspektif Eskatologinya**
 
 Bagaimanakah Sion digambarkan dalam Kitab Suci? Gunung Sion, yang merupakan lambang umat Tuhan (Yesaya 29:8), juga merupakan tempat Yehuwa berperang melawan bangsa musuh (Yesaya 31:4) yang berperang melawan Israel. Selebihnya Israel akan keluar dari Sion dan dipelihara (2 Raja-raja 19:31), dan ke Sion mereka akan kembali (Yesaya 51:11). Keselamatan ditemui di Sion (Yesaya 37:32, Yoel 2:32). Gunung ini juga berkaitan dengan tanda-tanda kosmik (Yesaya 24:23). Akhirnya, Tuhan akan memerintah umat-Nya di Gunung Sion (Mikha 4:7) di bumi yang dibuat baru.
 
@@ -37,7 +37,7 @@ Pada kemuncak konfrontasi antara Tuhan dan bangsa-bangsa, “TUHAN mengaum bak g
 
 Orang benar (Mazmur 15:2-5) digambarkan sebagai mereka yang akan tinggal di gunung suci Tuhan (Mazmur 15:1), dari mana Tuhan menjawab doa (Mazmur 3:4). Sebaliknya, mereka yang meninggalkan Yehuwa melupakan gunung-Nya yang kudus (Yesaya 65:11). Tuhan memilih untuk menjadikan Sion duniawi sebagai pusat tindakan-Nya, bukan kerana ia sememangnya unik atau berharga, tetapi kerana Dia menghendakinya.
 
-Mazmur Penting Mengenai Sion
+**Mazmur Penting Mengenai Sion**
 
 Mazmur 2
 
@@ -68,3 +68,5 @@ Mazmur diakhiri dengan seruan agar orang ramai meninggikan Tuhan dan menyembah D
 Tuhan Pencipta kita adalah Guru yang paling cemerlang. Dia menggunakan tempat-tempat fizikal dan benda-benda material untuk menyatakan konsep rohani, seperti dalam kes Gunung Sion literal dan bukit-bukit di sekelilingnya. Melalui pelajaran objek ini, orang Israel dapat lebih memahami rancangan penebusan Tuhan.
 
 Sion adalah simbol kehadiran Tuhan, tempat di mana Tuhan berdoa untuk, dan melindungi, umat-Nya. Sebagai orang Israel di masa lalu, kita harus menyimpan dalam hati kita keinginan yang membara untuk berada di hadapan Yang Mahakuasa. Persekutuan pada hari Sabat tidak dapat dinafikan penting. Tetapi marilah kita juga berusaha, sepanjang minggu, untuk berkomunikasi dengan hadirat Tuhan di tempat kudus surgawi-Nya. “Maka marilah kita hamper dengan hati yang tulus dan iman yang teguh sepenuhnya” (Ibrani 10:22, AVB).
+
+` `
