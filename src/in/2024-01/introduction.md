@@ -12,5 +12,4 @@ Meskipun kitab Mazmur adalah kumpulan dari 150 puisi, kumpulan itu mungkin tidak
 
 Keinginan dan doa kita adalah agar kitab Mazmur memperkuat kita dalam perjalanan hidup kita, dan melaluinya kita dapat bertemu Tuhan setiap hari, dari hati ke hati, sampai hari ketika kita melihat Yesus Kristus muka dengan muka.
 
-
-Dragoslava Santrac, Ph.D. dalam Perjanjian Lama, adalah editor pelaksana dari _Encyclopedia of Seventh-day Adventists_ di Kantor Pusat Gereja Masehi Advent Hari Ketujuh General Conference. Dia adalah penulis dari _Seventh-day Adventist International Bible Commentary_ tentang Mazmur 76-150.
+_Dragoslava Santrac, Ph.D. dalam Perjanjian Lama, adalah editor pelaksana dari _Encyclopedia of Seventh-day Adventists_ di Kantor Pusat Gereja Masehi Advent Hari Ketujuh General Conference. Dia adalah penulis dari _Seventh-day Adventist International Bible Commentary_ tentang Mazmur 76-150._
