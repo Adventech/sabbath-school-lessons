@@ -27,7 +27,38 @@ The Psalter is an assortment of songs edited during the fifth century B.C. Ezra 
 
 The book is divided into five smaller sections, showing the intention of the editors to organize the songs in a thematic way, both chronologically and historically (see chart below):
 
-| BOOK | CHAPTERS/PSALMS | THEME | CONTENT |
+**Book I**
+- Chapters/Psalms: _1-41_
+- Theme: _Conflict between David and Saul_
+- Content: _Personal laments: The majority of psalms in this section mention the psalmist’s adversarial agents, designated as “my enemies.”_
+- Notable psalms among this collection include: _1, 2, and 24_
+
+**Book II**
+- Chapters/Psalms: _42–72_
+- Theme: _Kingship of David_
+- Content: _Mention is likewise made of the enemy in many of the psalms in this section._
+- Notable psalms: _45, 48, 51, 54–64_
+
+**Book III**
+- Chapters/Psalms: _73–89_
+- Theme: _Assyrian crisis during eighth century B.C._
+- Content: _Collections from the sons of Asaph and Korah._
+- Notable psalm: _78_
+
+**Book IV**
+- Chapters/Psalms: _90–106_
+- Theme: _Theological evaluation after destruction of Jerusalem in 586 B.C._
+- Content: _Collection of praise psalms: 95–100._
+- Key psalms: _90, 103–105_
+
+**Book V**
+- Chapters/Psalms: _107–150_
+- Theme: _Praise and reflection after the exile—a new era_
+- Content: _The Hallelujah collection: 111–117; pilgrimage: 120–134._
+- Key psalms: _107, 110, 119_
+
+
+| Book | Chapters/Psalms | Theme | Content |
 | --- | --- | --- | --- |
 | I | 1–41 | Conflict between David and Saul | Personal laments: The majority of psalms in this section mention the psalmist’s adversarial agents, designated as “my enemies.” Notable psalms among this collection include: 1, 2, and 24. |
 | II | 42–72 | Kingship of David | Mention is likewise made of the enemy in many of the psalms in this section. Notable psalms: 45, 48, 51, 54–64. |
@@ -89,23 +120,15 @@ A final observation that the above catalog affords us is the notion that there a
 
 This week’s lesson alludes to collections of songs for special occasions, such as “The Songs of Ascents” (Psalms 120−134) and “Egyptian Hallel” (Psalms 113−118). Years of scholarship have unearthed more connections between the various psalms. One such connection is found in Psalms 15–24 (see W. Brown, “ ‘Here Comes the Sun!’ The Metaphorical Theology of Psalms 15–24,” in The Composition of the Book of Psalms [Leuven, 2010], p. 260). This assemblage can be depicted in the following chiastic structure:
 
-**A Psalm 15** (Entrance liturgy)
-
-&nbsp;&nbsp;&nbsp;&nbsp;**B Psalm 16** (Song of confidence)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C Psalm 17** (Prayer for help)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D Psalm 18** (Royal song)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**E Psalm 19** (REVELATION: Creation and the Torah)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**D' Psalm 20, 21** (Royal songs)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**C' Psalm 22** (Prayer for help)
-
-&nbsp;&nbsp;&nbsp;&nbsp;**B' Psalm 23** (Song of confidence)
-
-**A' Psalm 24** (Entrance liturgy)
+- **A Psalm 15** (Entrance liturgy)
+	- **B Psalm 16** (Song of confidence)
+		- **C Psalm 17** (Prayer for help)
+			- **D Psalm 18** (Royal song)
+				- **E Psalm 19** (REVELATION: Creation and the Torah)
+			- **D' Psalm 20, 21** (Royal songs)
+		- **C' Psalm 22** (Prayer for help)
+	- **B' Psalm 23** (Song of confidence)
+- **A' Psalm 24** (Entrance liturgy)
 
 A chiasm is an extended parallelism (see Tuesday’s study for a short explanation about “parallelism”). By way of an analogy, a chiasm is akin to the reflection of a person’s face or image in a mirror wherein the second part (i.e., the reflection) is the repetition of ideas of the first section (original image) but in inverse order. Usually, the center of the chiasm points out the main idea of the parallelism. The idea, as seen in the chiastic structure formed by Psalms 15–24, is to exalt the revelation of God through His Creation and His Word. This chiastic structure is enclosed by two psalms connected with the sanctuary, both of which start with similar questions (Ps. 15:1; compare with Ps. 24:3).
 
