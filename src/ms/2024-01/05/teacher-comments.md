@@ -5,7 +5,7 @@ date:  02/02/2024
 
 #### Bahagian I: Pandangan Keseluruhan
 
-Ayat Kunci: Mazmur 137:4
+**Ayat Kunci**: Mazmur 137:4
 
 Kehadiran penderitaan dan kejahatan di tengah-tengah kita menimbulkan satu persoalan yang membingungkan dalam fikiran ramai orang tentang watak Tuhan. Mengapakah Tuhan membiarkan dosa wujud? Mengapa Dia membiarkan orang yang tidak bersalah itu menderita? Mengapakah Dia membenarkan dosa dan penderitaan berterusan? Mengapakah orang jahat menjadi makmur? Adakah janji Tuhan di dalam Alkitab telah gagal? Adakah Kitab Suci hanyalah sebuah karya sastera yang indah—memberi inspirasi tetapi tidak diilhamkan oleh ilahi—untuk orang yang cenderung rohani? Atau lebih buruk lagi, adakah Alkitab dan janji-janjinya adalah khayalan fikiran yang saleh, tetapi tanpa sebarang asas dalam realiti, kerana, akhirnya, seperti yang didakwa oleh fikiran sekular, Tuhan itu tidak wujud?
 
@@ -15,7 +15,7 @@ Mazmur adalah lebih daripada sekadar lagu-lagu indah dalam memuji Tuhan. Ia bert
 
 #### Bahagian II: Ulasan
 
-Mengapakah Tuhan Mengizinkan Dosa dan Penderitaan Wujud?
+**Mengapakah Tuhan Mengizinkan Dosa dan Penderitaan Wujud?**
 
 Walaupun Mazmur tidak secara eksplisit menjawab soalan khusus ini, namun Mazmur 74 dan 79, yang mengenai pemusnahan Yerusalem, adalah berdasarkan kebimbangan ini. Di antara dua mazmur ini, kita melihat beberapa persamaan yang ketara mengenai topik dosa dan penderitaan:
 
@@ -29,7 +29,7 @@ Dalam kedua-dua lagu, Asaf tidak kehilangan kepercayaan kepada Rajanya yang di s
 
 Seperti Asaf, kita mungkin bertanya mengapa kita menghadapi dosa, penderitaan dan kematian. Ini adalah soalan-soalan universal yang ditanyakan oleh minda yang bertanya sejak awal sejarah manusia. Jawapannya sentiasa sama: dosa. Dosa adalah penceroboh aneh di dalam ciptaan Tuhan. Dari kejatuhan Syaitan di syurga kepada keadaan kita yang jatuh hari ini, kedurhakaan telah melahirkan semua penderitaan dan kematian dalam sejarah. Kita boleh berhujah, secara wajar, bahawa Tuhan telah memberikan kehendak bebas kepada makhluk-Nya dan, dari situ, berfalsafah tentang akibat dosa dan penderitaan. Tetapi para penulis alkitabiah mengelak daripada taktik ini. Jadi, marilah kita, seperti Asaf, percaya kepada kuasa dan hikmat Pencipta kita untuk menyelesaikan persoalan ini mengikut cara dan masa-Nya sendiri.
 
-Mengapakah Tuhan Membiarkan Orang Yang Tidak Bersalah Menderita?
+**Mengapakah Tuhan Membiarkan Orang Yang Tidak Bersalah Menderita?**
 
 Pelajaran ini mengingatkan kita bahawa dosa boleh membawa penyakit (Mazmur 41:3, 4). Dengan memikirkan idea ini, mari kita pertimbangkan soalan ini; "Mengapa Tuhan membiarkan orang yang tidak bersalah menderita?" berdasarkan empat mazmur: Mazmur 6, Mazmur 41, Mazmur 88, dan Mazmur 102.
 
@@ -39,27 +39,28 @@ Pada ketika ini dalam analisa kita, kita harus ambil perhatian bahawa minda Ibra
 
 Adakah kita telah mencontohi sikap yang sama ketika ditimpa penyakit? Kita biasanya mengeluh, “Mengapa saya, ya Tuhan?” Bukankah, sudah tentulah,  lebih baik pada saat yang sukar itu, untuk percaya kepada Tuhan dan menunggu pembenaran-Nya agar kita dapat bersaksi tentang kemuliaan-Nya?
 
-Mengapa Tuhan Tidak Mengakhiri Penderitaan Kita Sekarang?
+**Mengapa Tuhan Tidak Mengakhiri Penderitaan Kita Sekarang?**
 
 Di tengah-tengah penderitaan kita, kita sering bertanya, “Di manakah Tuhan?” Soalan ini sering timbul dalam diri kita dari tempat kegelisahan dan keputusasaan yang paling dalam. Pada saat-saat seperti itu, kecenderungan kita, sebagai manusia, bukan untuk bermoral atau terlibat secara falsafah dengan kesakitan dan penderitaan kita. Kita hanya mahukan jawapan dan kelegaan. Dalam keadaan terdesak, kita sering, seperti para pemazmur, berpaling kepada Tuhan untuk meminta pertolongan.
 
 Perhatikan bahawa walaupun nampaknya Pencipta seperti tidak hadir, permohonan pemazmur adalah: “ ‘Dengarkanlah doaku, ya TUHAN, dan berikanlah telinga kepada seruanku; jangan berdiam diri mendengar air mataku’” (Mazmur 39:12, NKJV). Pemazmur tahu bahawa Tuhan ada di sana, walaupun dia tidak mempunyai tanda lahiriah kehadiran ilahi. Sekarang itulah iman! Pemazmur tidak berkata: “Saya berhenti! Saya meninggalkan iman saya kerana Tuhan tidak akan menjawab saya. Jadi, Dia mesti tidak wujud.” Sebaliknya, pemazmur mempercayai Tuhan dan menunggu Dia bertindak bagi pihak-Nya pada saat yang tepat. “Sandarkan hatimu kepada TUHAN dan sabarlah menanti tindakan-Nya” (Mazmur 37:7, AVB). Jika Tuhan berdiam diri, sudah tiba masanya untuk kita berdiam diri juga, dan menunggu. Persoalannya bukan “Di mana Tuhan?” Tuhan itu ada, dan Dia mengambil berat tentang kita. Persoalannya, Adakah kita akan berada di sana juga, menunggu dengan iman kepada-Nya untuk bertindak bagi pihak kita?
 
-Have His Promises in the Scriptures Failed?
+**Have His Promises in the Scriptures Failed?**
 
 Mazmur 77 menyatakan dengan baik perasaan keraguan dan keputusasaan yang sering menindas kita pada masa kesusahan:
 
-Adakah Tuhan akan menyingkiri selama-lamanya?
-
-Dan tidakkah Dia berkenan lagi?
-
-Sudah berakhirkah kasih setia-Nya untuk selama-lamanya?
-
-Sudah batalkah janji-Nya untuk selama-lamanya?
-
-Sudah lupakah Tuhan bersikap penuh belas kasihan?
-
-Dalam kemurkaan-Nya sudahkah ditutup-Nya belas kasih-Nya? (Mazmur 77:7-9, AVB).
+> <p></p>
+> Adakah Tuhan akan menyingkiri selama-lamanya?
+> <p></p>
+> Dan tidakkah Dia berkenan lagi?
+> <p></p>
+> Sudah berakhirkah kasih setia-Nya untuk selama-lamanya?
+> <p></p>
+> Sudah batalkah janji-Nya untuk selama-lamanya?
+> <p></p>
+> Sudah lupakah Tuhan bersikap penuh belas kasihan?
+> <p></p>
+> Dalam kemurkaan-Nya sudahkah ditutup-Nya belas kasih-Nya? (Mazmur 77:7-9, AVB).
 
 Jawapan yang penulis sendiri sediakan adalah mudah tetapi penting: ingatlah pada masa kini mukjizat yang telah Tuhan lakukan untuk anda pada masa lalu (Mazmur 77:11-20). “Aku akan mengingati keajaiban yang Kaulakukan dahulu” (Mazmur 77:11, AVB). Selepas itu, pemazmur menerangkan saat paling paradigmatik campur tangan Tuhan dalam sejarah Israel: Keluaran dari Mesir. Pemazmur mengingat kembali keajaiban yang YHWH lakukan ketika Dia membebaskan umat-Nya dari perhambaan Mesir (Mazmur 77:14, 15). Perhatian khusus diberikan kepada pemisahan ajaib Laut Merah (Mazmur 77:16-19): “Jalan-Mu di laut” (Mazmur 77:19, AVB). Pemazmur juga mengingat bagaimana Tuhan membimbing pelayanan Musa dan Harun (Mazmur 77:20).
 
@@ -67,7 +68,7 @@ Seperti yang ditegaskan oleh Roh Nubuat dengan begitu tepat: “Kita tidak perlu
 
 Apabila sakit atau ditimpa kesengsaraan, sebaiknya kita melibatkan diri dalam latihan pengukuhan iman berikut: serlahkan dalam jurnal tentang berkat yang paling berharga yang Tuhan telah berikan kepada kita dalam kehidupan kita, daripada yang paling mudah kepada yang paling berkesan. Lagipun, adakah tindakan mengingat ini bukan yang dilakukan oleh pemazmur?
 
-Mengapa Orang Jahat Makmur?
+**Mengapa Orang Jahat Makmur?**
 
 Daud memperkenalkan topik yang sedang kita pertimbangkan ini dengan menyampaikannya melalui nasihat berikut: “Jangan gusar kerana orang melakukan kejahatan” (Mazmur 37:1, AVB). Dia meringkaskan rasional nasihatnya—para penjahat akan binasa (Mazmur 37:2)—sebelum beralih ke perhatian utamanya, iaitu orang percaya. Daud menggalakkan dia dengan beberapa prinsip untuk hidup saleh (Mazmur 37:3-9). Keperluan moral ini adalah asas untuk mengekalkan kesihatan mental dan kecergasan seseorang dalam dunia yang tidak adil. Daud menanamkan janji itu di tengah-tengah nasihatnya yang penting, seperti berikut:
 
@@ -110,3 +111,5 @@ Pemazmur mengulas konsep yang sama dalam lagunya yang lain: (a) kemakmuran orang
 #### Bahagian III: Penerapan Hidup
 
 Pemazmur mengundang kita untuk percaya kepada Tuhan di tengah-tengah penderitaan dan ujian. Lebih kerap lagi, kita mungkin tidak mendapat jawapan yang jelas kepada soalan kita yang paling membingungkan di dunia kita sekarang ini. Kadang-kadang, kita mungkin tidak merasakan kehadiran Penjaga syurgawi kita di sebelah kita. Atau kita mungkin berasa seolah-olah janji Tuhan itu gagal. Tetapi kita mesti ingat perintah moral para pemazmur: percaya kepada Tuhan, tanpa mengira keadaan; ingat keajaiban-Nya dalam hidup anda; belajar lebih mendalam Firman Tuhan; berpegang pada janji Tuhan; dan berpegang teguh kepada Tuhan! “Penyelamatan orang yang benar adalah daripada TUHAN; Dia ialah kekuatan mereka pada waktu kesusahan. TUHAN akan menolong dan menyelamatkan mereka; Dia akan menyelamatkan mereka daripada orang zalim dan memelihara mereka, kerana mereka berlindung kepada-Nya” (Mazmur 37:39, 40, AVB).
+
+` `

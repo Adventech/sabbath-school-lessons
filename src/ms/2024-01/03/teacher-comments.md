@@ -5,21 +5,21 @@ date:  19/01/2024
 
 #### Bahagian I: Pandangan Keseluruhan
 
-Ayat Kunci: Mazmur 93:1
+**Ayat Kunci**: Mazmur 93:1
 
-Study Focus: Mazmur 8, Mazmur 100, Mazmur 97, Mazmur 75:1−10, Mazmur 105:7−10, Galatia 3:26-29, dan Mazmur 25:10.
+**Study Focus**: Mazmur 8, Mazmur 100, Mazmur 97, Mazmur 75:1−10, Mazmur 105:7−10, Galatia 3:26-29, dan Mazmur 25:10.
 
-Pendahuluan: Minggu ini, kita akan mengkaji lima aspek kedaulatan Tuhan dalam Mazmur. Kita akan melihat bahawa Mazmur menegaskan perkara berikut: (1) asas kedaulatan Tuhan adalah berdasarkan Penciptaan. Tuhan adalah Pencipta langit dan bumi (Kej. 1:1) dan manusia (Kej. 1:26); (2) Berdasarkan kebenaran Alkitab ini, pelbagai pemazmur mengisytiharkan bahawa YHWH adalah penguasa atas seluruh dunia dan bangsa; (3) kedaulatan Tuhan terjalin secara tidak terpisahkan dalam pekerjaan-Nya sebagai Hakim. (4) Sebagai Hakim, Tuhan menjadi perantara bagi umat-Nya kerana perjanjian-Nya dengan mereka. (5) Dia setia kepada peraturan perjanjian ini kerana Hukum perjanjian-Nya adalah asas kerajaan-Nya. Seperti yang akan kita lihat, lima topik ini saling berkait rapat.
+**Pendahuluan**: Minggu ini, kita akan mengkaji lima aspek kedaulatan Tuhan dalam Mazmur. Kita akan melihat bahawa Mazmur menegaskan perkara berikut: (1) asas kedaulatan Tuhan adalah berdasarkan Penciptaan. Tuhan adalah Pencipta langit dan bumi (Kej. 1:1) dan manusia (Kej. 1:26); (2) Berdasarkan kebenaran Alkitab ini, pelbagai pemazmur mengisytiharkan bahawa YHWH adalah penguasa atas seluruh dunia dan bangsa; (3) kedaulatan Tuhan terjalin secara tidak terpisahkan dalam pekerjaan-Nya sebagai Hakim. (4) Sebagai Hakim, Tuhan menjadi perantara bagi umat-Nya kerana perjanjian-Nya dengan mereka. (5) Dia setia kepada peraturan perjanjian ini kerana Hukum perjanjian-Nya adalah asas kerajaan-Nya. Seperti yang akan kita lihat, lima topik ini saling berkait rapat.
 
 #### Bahagian II: Ulasan
 
-Tuhan Sebagai Pencipta
+**Tuhan Sebagai Pencipta**
 
 Mazmur 8 boleh dibahagikan kepada dua idea utama: Tuhan adalah Pencipta (Mazmur 8:2-4), dan manusia adalah pencapaian puncak ciptaan-Nya (Mazmur 8:5-8). Konsep ini diapit pada permulaan dan di akhir mazmur dengan baris yang sama, yang dikenali sebagai “inclusio”: “Ya TUHAN, Tuhan kami, betapa mulianya nama-Mu di seluruh bumi” (Mazmur 8:1). , 9, NKJV).
 
 Kita tidak boleh mengabaikan kepentingan Penciptaan dalam ajaran Kitab Suci. Yesaya menggunakan hujah Tuhan sebagai Pencipta untuk memusnahkan kesahihan kepercayaan terhadap berhala (Yes. 40:12-31). Begitu juga, pemazmur menggunakan alasan yang sama untuk mengakui YHWH sebagai Penguasa syurga dan menolak penyembahan berhala (Mazmur 115:1-8; Mazmur 95:3-5, 7; Mazmur 96:5). Asas kerajaan Tuhan adalah Penciptaan. Asas itu seharusnya menjadi sebab penyembahan kita kepada-Nya (Mazmur 100:3-5). Penciptaan juga merupakan sebab bagi hari Sabat (Kej. 2:1-3, Kel. 20:8-11), dan hari ketujuh adalah peringatan terhadap kuasa Tuhan. Dengan latar belakang ini, kita lebih memahami mengapa mesej dalam Wahyu 14:7 menyatakan: “ ‘Dan sembahlah Dia yang menjadikan langit dan bumi, laut dan mata air’ ” (NKJV). Dakwah mesej ini lebih relevan daripada sebelumnya pada masa ini, masa di mana musuh telah mencipta paradigma etiologi kehidupan yang agak baru: evolusi.
 
-Tuhan Sebagai Raja
+**Tuhan Sebagai Raja**
 
 Tuhan telah menjadikan alam semesta; maka ia adalah milikNya. Maka, Dialah Rajanya. “TUHAN bertakhta, … Takhta-Mu diasaskan dari dahulu; Engkau memang ada selama-lamanya” (Mazmur 93:1, 2, AVB).
 
@@ -39,7 +39,7 @@ Tuhan sebagai Raja adalah sumber kedamaian dan keyakinan anak-anak-Nya. “Kekua
 
 Engkau telah mengasaskan kesaksamaan; Engkau telah melakukan yang benar dan adil dalam Yakub” (Mazmur 99:4, AVB). Kerana Tuhan adalah Raja atas seluruh bumi, kita harus bersukacita dan “nyanyikan puji-pujian sepenuh pengertian” (Mazmur 47:7; lihat juga ayat 1-6).
 
-Tuhan Sebagai Hakim
+**Tuhan Sebagai Hakim**
 
 Tuhan adalah Hakim kerana Dia adalah Raja. Di Israel kuno, raja memberikan keputusan dalam perbicaraan dan perkara kehakiman (lihat Daud [2 Sam. 14:1-23]; Salomo [2 Raja-raja 3:16-28]). Oleh itu, idea seorang raja-hakim adalah tanggapan yang biasa kepada orang ramai pada zaman itu. Apabila mereka mendengar para pemazmur menyanyikan melodi mereka tentang Tuhan sebagai Hakim, mereka dengan mudah memahami konsep itu.
 
@@ -49,13 +49,13 @@ Tujuan penghakiman Tuhan adalah untuk merendahkan “yang angkuh” (yang jahat 
 
 Orang beriman merayakan penghakiman Tuhan (Mazmur 75:9), bukan kerana mereka bergembira dalam kemusnahan orang jahat tetapi kerana Tuhan setia kepada janji-janji-Nya, dan Dia membebaskan orang yang tidak bersalah (lihat Why. 19:2). Kita dapati, pada akhir Mazmur 75, satu idea tentang kesetiaan dan pembebasan ilahi ini: “Semua tanduk orang zalim akan dipotong-Nya, tetapi tanduk orang yang benar akan ditinggikan” (Mazmur 75:10, AVB).
 
-Tuhan Perjanjian
+**Tuhan Perjanjian**
 
 Di wilayah Timur Dekat purba, perjanjian ialah satu persetujuan antara raja yang berkuasa dan wilayah jajahannya (vasal). Perjanjian ini termasuk apa yang diperlukan daripada wilayah jajahan itu untuk kekal berada di bawah perlindungan rajanya. Perjanjian Lama memperuntukkan kiasan sekular pada zaman itu dan menerapkannya pada hubungan antara Raja syurga dan para pengikut-Nya. “Dalam perjanjian Timur Dekat purba, Raja Besar akan membuat dua janji kepada vasal: pertama, dia akan menyerang vasal itu jika dia memberontak terhadapnya; dan kedua, dia akan membela mana-mana pengikut setia yang ditugaskan.”—Tremper Longman III dan Raymond B. Dillard, An Introduction to the Old Testament (Grand Rapids: Zondervan, 2006), ms. 260. Pemahaman tentang konsep ini menimbulkan keyakinan kepada orang yang beriman, kerana melaluinya, dia belajar bahawa dia boleh bersandar pada jaminan perlindungan Tuhan.
 
 Dalam konteks ini, YHWH digambarkan sebagai Pahlawan dalam Mazmur. Mazmur 7 adalah doa sebelum pertempuran di mana pemazmur meminta campur tangan Tuhan demi umat-Nya (Mazmur 7:1, 2). Pemazmur juga menuntut perlindungan Tuhan dan meminta pemusnahan ke atas musuh Tuhan (Mazmur 7:4-9). Tuhan adalah pembelaan pemazmur (Mazmur 7:10), yang membangkitkan idea tentang istana atau perisai. Tuhan, Pahlawan Ilahi, digambarkan sebagai memakai pedang, busur dan anak panah: “membawa maut” (Mazmur 7:12, 13, AVB).n Dia telah menyediakan jerat bagi musuh-musuh-Nya (Mazmur 7:15).
 
-Tuhan Pada Hukum
+**Tuhan Pada Hukum**
 
 Kerana Tuhan adalah Penguasa yang adil, “Dia ingat akan perjanjian-Nya selama-lamanya, firman yang diperintahkan-Nya” (Mazmur 105:8, AVB). Asas perjanjian itu ialah Hukum Tuhan. Oleh itu, bukanlah suatu kebetulan bahawa salah satu tema utama dalam Kitab Mazmur ialah perintah Tuhan (lihat Mazmur 1). Sebenarnya, mazmur dan bab yang terpanjang dalam Alkitab, Mazmur 119, tertumpu sepenuhnya pada Taurat, atau hukum.
 
@@ -71,16 +71,19 @@ Mengakui Tuhan sebagai Pencipta kita akan membawa kita menerima Ketuhanan-Nya da
 
 Satu perincian yang kita telah sentuh dalam pelajaran ini tetapi tidak diterokai secara mendalam ialah memupuk sikap memuji dan bergembira. Minta sukarelawan untuk membaca dengan kuat ayat-ayat di bawah. Secara bergantian, minta ahli kelas membaca mazmur secara serentak. Galakkan para pelajar anda untuk berusaha mencapai satu kehidupan rohani yang sama seperti para pemazmur ini:
 
-Marilah, marilah kita menyanyi untuk TUHAN;
-
-marilah kita bersorak riang untuk Batu Pejal penyelamatan kita.
-
-Marilah kita pergi ke hadirat-Nya sambil mengucap syukur,
-
-marilah kita bersorak riang untuk-Nya dengan mazmur.
-
-Kerana TUHAN ialah Tuhan Yang Maha Besar,
-
-Raja besar di atas semua tuhan.  (Mazmur 95:1-3, NKJV).
+> <p></p>
+> Marilah, marilah kita menyanyi untuk TUHAN;
+> <p></p>
+> marilah kita bersorak riang untuk Batu Pejal penyelamatan kita.
+> <p></p>
+> Marilah kita pergi ke hadirat-Nya sambil mengucap syukur,
+> <p></p>
+> marilah kita bersorak riang untuk-Nya dengan mazmur.
+> <p></p>
+> Kerana TUHAN ialah Tuhan Yang Maha Besar,
+> <p></p>
+> Raja besar di atas semua tuhan.  (Mazmur 95:1-3, NKJV).
 
 Lebih daripada sekadar dengan permintaan dan keluhan, kita harus mengisi doa kita kepada Raja dan Hakim kita dengan puji-pujian. Selain itu, kerja keras harian kita akan lebih mudah ditanggung dan kehidupan beribadah kita menjadi lebih bahagia, apabila kita berada dalam hubungan perjanjian dengan Tuhan di syurga.
+
+` `

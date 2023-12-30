@@ -5,7 +5,7 @@ date:  12/01/2024
 
 #### Bahagian I: Pandangan Keseluruhan
 
-Ayat Kunci: Lukas 11:1
+**Ayat Kunci**: Lukas 11:1
 
 Minggu ini, kita akan memperhatikan atas keputusasaan yang dinyatakan oleh pemazmur di tengah-tengah masa kesusahan. Dalam kajian kita ini, kita akan mempertimbangkan empat lagu daripada Mazmur yang akan memberikan tunjuka ajar kepada kita cara berdoa di tengah-tengah perjuangan harian kita: Mazmur 44, 22, 13, 60.
 
@@ -74,3 +74,5 @@ Melodi pada Mazmur 60 menjanjikan kita bahawa Tuhan bersama umat-Nya (Mazmur 60:
 Kajian terhadap empat lagu ini—Mazmur 44, 22, 13, 60—mengajar kita tentang cara berdoa dalam masa kesusahan kita. Kita telah belajar tentang perlunya meluahkan dengan jujur kesusahan, kegagalan, dan kekecewaan kita kepada Tuhan dalam doa. Dengan jaminan, kita boleh membawa keluhan dan kesedihan kita kepada Pencipta kita serta bertindak dengan iman dan percaya bahawa doa kita didengari.
 
 Jemput ahli kelas anda untuk menyatakan kesedihan mereka kepada Tuhan. Mintalah mereka untuk berkongsi dengan kumpulan yang lain idea-idea baru yang telah diajarkan oleh pelajaran ini kepada mereka tentang doa. Jika boleh, pilih seorang sukarelawan untuk berkongsi, dalam semangat para pemazmur, suatu pengalaman dalam kehidupan doanya yang menguatkan iman dan memberi kuasa. Ingat, daripada sekadar koleksi puisi yang indah, Mazmur adalah jemputan untuk melakukan kehendak Tuhan!
+
+` `
