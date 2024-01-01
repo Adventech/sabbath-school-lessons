@@ -1,15 +1,9 @@
-yt-dlp "https://www.youtube.com/watch?v=pNYjDcPZOYs" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "uk/uk-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=FKJpi-8fSJ8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "de/af/de-af-2024-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=UsX5Vwp81a0" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "it/it-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=m5a2X81qasI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Z3ydMqp4krE" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=bkyLYqmxGk8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=qCaKmkFIT9E" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=Y8Xyan7eC5A" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "inv/en-2024-01-inv-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=_Cqgy7QA0Gk" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/hope/ja-hope-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=1R4yLPrF0ZY" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=IEHAnIIlttA" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=MMdvZ69zdfE" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ta/ta-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=eeNjuHH8VrI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ro/ro-2024-01-01.mp4"
