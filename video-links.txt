@@ -9,3 +9,5 @@ yt-dlp "https://www.youtube.com/watch?v=Y8Xyan7eC5A" --format "bv*[height<=1080]
 yt-dlp "https://www.youtube.com/watch?v=eeNjuHH8VrI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ro/ro-2024-01-01.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=1T_D5d8iGvc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-01-01.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=WFHTfV6VI9o" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-01.mp4"
