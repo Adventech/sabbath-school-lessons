@@ -11,3 +11,7 @@ yt-dlp "https://www.youtube.com/watch?v=eeNjuHH8VrI" --format "bv*[height<=1080]
 yt-dlp "https://www.youtube.com/watch?v=1T_D5d8iGvc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-01-01.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=WFHTfV6VI9o" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-01.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=kFxIKLtMsMk" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2024-01-01.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=M5S1beYH0G4" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "in/hope/in-hope-2024-01-01.mp4"
