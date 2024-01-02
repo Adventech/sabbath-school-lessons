@@ -31,6 +31,11 @@ let downloadEGWaudio = async function() {
 
     // Identifying the lesson #
     let lesson = LESSON_NUMBER.exec(episode.title.trim())
+
+    console.log(lesson)
+
+    return
+
     if (!lesson[1]) { return }
     lesson = String(lesson[1]).padStart(2, '0')
 
@@ -84,6 +89,11 @@ let downloadRussianAudio = async function() {
 
     // Determining current week relative to the quarter
     let date = moment()
+
+    if (!fs.pathExistsSync('src/ru/${currentQuarter}/info.yml')) {
+        return
+    }
+
     let infoSource = yamljs.load(fs.readFileSync(`src/ru/${currentQuarter}/info.yml`), 'utf-8')
     let startDate = moment(infoSource.start_date, 'DD/MM/YYYY')
     let currentWeek = date.week() - startDate.week()
