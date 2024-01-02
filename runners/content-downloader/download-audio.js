@@ -32,10 +32,6 @@ let downloadEGWaudio = async function() {
     // Identifying the lesson #
     let lesson = LESSON_NUMBER.exec(episode.title.trim())
 
-    console.log(lesson)
-
-    return
-
     if (!lesson[1]) { return }
     lesson = String(lesson[1]).padStart(2, '0')
 
@@ -169,7 +165,7 @@ let downloadUKAudio = async function() {
                     }
                 }
             } catch (e) {
-                console.error(e)
+                // console.error(e)
             }
             date.add(1, 'd')
             console.log(`Sleeping for 500ms`)
