@@ -16,6 +16,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
         let process = async function (date) {
             try {
                 let targetDate = date || moment()
+
                 let infoSource = yamljs.load(fs.readFileSync(`${targetQuarter}/info.yml`), 'utf-8')
                 let startDate = moment(infoSource.start_date, DATE_FORMAT)
                 let endDate = moment(infoSource.end_date, DATE_FORMAT)
@@ -25,6 +26,10 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                 }
 
                 console.log(`Checking ${title} for ${targetDate.format(DATE_FORMAT)}`)
+
+                if (!fs.pathExistsSync(`${targetQuarter}/audio.yml`)) {
+                    return
+                }
 
                 let audioSource = yamljs.load(fs.readFileSync(`${targetQuarter}/audio.yml`), 'utf-8')
 
@@ -69,7 +74,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     );
                 }
             } catch (e) {
-
+                console.log(e)
                 if (e && e.response && e.response.status === 404) {
                     console.log(`${title} file is not found`)
                 }
@@ -198,7 +203,10 @@ let czechAudio = async function () {
             artist: "Průvodce studiem Bible",
             tracks: []
         },
-        function (targetDate, week, day) {
+        function (targetDate, week, day, targetQuarter) {
+            let year = targetQuarter.slice(0, 4)
+            let quarter = targetQuarter.slice(6)
+
             let mapping = [
                 "1",
                 "2",
@@ -210,7 +218,7 @@ let czechAudio = async function () {
                 "inside-story"
             ]
 
-            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q4/2023_Q4_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+            return `https://radvanice.casd.cz/sobotniskola/audio/${year}_Q${quarter}/${year}_Q${quarter}_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
         },
         2,
         7
