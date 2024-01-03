@@ -13,7 +13,7 @@ const WORKING_DIR = `ss-audio`
 let downloadEGWaudio = async function() {
     const URL = "https://www.egwhiteaudio.com/feed.xml"
     const parser = new XMLParser({ignoreAttributes : false});
-    const LESSON_NUMBER = /^Lesson\s*(\d+)/gm
+    const LESSON_NUMBER = /Lesson\s*(\d+)/gm
     const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
     const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${quarter}/en-egw-${quarter}`
     const TIMESTAMPS = /(\d\d:\d\d)/gm
@@ -31,6 +31,7 @@ let downloadEGWaudio = async function() {
 
     // Identifying the lesson #
     let lesson = LESSON_NUMBER.exec(episode.title.trim())
+
     if (!lesson[1]) { return }
     lesson = String(lesson[1]).padStart(2, '0')
 
@@ -84,6 +85,11 @@ let downloadRussianAudio = async function() {
 
     // Determining current week relative to the quarter
     let date = moment()
+
+    if (!fs.pathExistsSync('src/ru/${currentQuarter}/info.yml')) {
+        return
+    }
+
     let infoSource = yamljs.load(fs.readFileSync(`src/ru/${currentQuarter}/info.yml`), 'utf-8')
     let startDate = moment(infoSource.start_date, 'DD/MM/YYYY')
     let currentWeek = date.week() - startDate.week()
@@ -159,7 +165,7 @@ let downloadUKAudio = async function() {
                     }
                 }
             } catch (e) {
-                console.error(e)
+                // console.error(e)
             }
             date.add(1, 'd')
             console.log(`Sleeping for 500ms`)
