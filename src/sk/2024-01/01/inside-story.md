@@ -1,6 +1,6 @@
 ---
-title:  Inside Story
-date:   29/12/2023
+title: 'Inside Story'
+date: 05/01/2024
 ---
 
 ### <center>Pracujeme na tejto lekcii.</center>
