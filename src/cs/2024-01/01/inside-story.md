@@ -1,6 +1,6 @@
 ---
 title:  Misijní příběh
-date:   29/12/2023
+date:   05/01/2024
 ---
 
 #### Hledání Ježíše ve Svaté knize

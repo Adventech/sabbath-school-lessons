@@ -1,6 +1,6 @@
 ---
 title:  Misijný príbeh
-date:   29/12/2023
+date:   12/01/2024
 ---
 
 #### Úpěnlivé volání Radostinova srdce
