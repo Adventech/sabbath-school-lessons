@@ -1,6 +1,6 @@
 ---
-title: 'Inside story'
-date: 15/03/2024
+title:  Misijní příběh
+date:   15/03/2024
 ---
 
 ### <center>Na této lekci pracujeme.</center>
