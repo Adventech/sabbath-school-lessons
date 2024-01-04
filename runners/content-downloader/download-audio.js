@@ -17,8 +17,13 @@ let downloadEGWaudio = async function() {
     const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
     const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${quarter}/en-egw-${quarter}`
     const TIMESTAMPS = /(\d\d:\d\d)/gm
+    let response
+    try {
+         response = await axios.get(URL);
+    } catch (e) {
+        return
+    }
 
-    let response = await axios.get(URL);
     let rss = parser.parse(response.data);
 
     if (!rss.rss.channel.item.length || !rss.rss.channel.item[0].title || !rss.rss.channel.item[0].description
