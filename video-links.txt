@@ -1,1 +1,3 @@
-yt-dlp "https://www.youtube.com/watch?v=HR72-kFJmu8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pl/pl-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=26UQeotvuzw" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-01-01.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=D1ylIs7TMUc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-02.mp4"
