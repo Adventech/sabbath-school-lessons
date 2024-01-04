@@ -1,8 +1,1 @@
-
-yt-dlp "https://www.youtube.com/watch?v=bU3CX-cKRSI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ilo/ilo-2024-01-01.mp4"
-
-yt-dlp "https://vimeo.com/899265191" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=fvUtlmgmyqo" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "hr/hr-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=NC7pU5nVzFw" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=HR72-kFJmu8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pl/pl-2024-01-01.mp4"
