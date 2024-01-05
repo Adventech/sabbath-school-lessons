@@ -1,7 +1,7 @@
 ---
   pdf:
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-01/ABSG-2024-01-EN-CC-Intro.pdf'
-      target: en/2024-01-cc/intro
+      target: en/2024-01-cc/introduction
       title: 'Introduction'
       start_date: 30/12/2023
       end_date: 30/01/2024
@@ -71,7 +71,7 @@
       start_date: 23/03/2024
       end_date: 29/03/2024
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-01/ABSG-2024-01-EN-CC-TE-Intro.pdf'
-      target: en/2024-01-cc/intro
+      target: en/2024-01-cc/introduction
       title: Teacher
       start_date: 30/12/2023
       end_date: 30/01/2024
