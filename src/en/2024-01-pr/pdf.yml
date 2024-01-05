@@ -3,12 +3,12 @@
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Student/P-24-Q1-L00.pdf'
       target: en/2024-01-pr/introduction
       title: Introduction
-      start_date: 30/12/2024
-      end_date: 30/12/2024
+      start_date: 30/12/2023
+      end_date: 30/12/2023
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Student/P-24-Q1-L01.pdf'
       target: en/2024-01-pr/01
       title: A New World
-      start_date: 30/12/2024
+      start_date: 30/12/2023
       end_date: 05/01/2024
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Student/P-24-Q1-L02.pdf'
       target: en/2024-01-pr/02
@@ -73,22 +73,22 @@
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Student/P-24-Q1-MemoryVerses.pdf'
       target: en/2024-01-pr/memory-verses
       title: Memory Verses
-      start_date: 30/12/2024
-      end_date: 30/12/2024
+      start_date: 23/03/2024
+      end_date: 23/03/2024
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Teacher/P-24-Q1-Activities-T.pdf'
       target: en/2024-01-pr/activities
       title: Activities
-      start_date: 30/12/2024
-      end_date: 30/12/2024
+      start_date: 23/03/2024
+      end_date: 23/03/2024
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Teacher/P-24-Q1-L00-T.pdf'
       target: en/2024-01-pr/introduction
       title: Teacher
-      start_date: 30/12/2024
-      end_date: 30/12/2024
+      start_date: 30/12/2023
+      end_date: 30/12/2023
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Teacher/P-24-Q1-L01-T.pdf'
       target: en/2024-01-pr/01
       title: Teacher
-      start_date: 30/12/2024
+      start_date: 30/12/2023
       end_date: 05/01/2024
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q1/Primary/Teacher/P-24-Q1-L02-T.pdf'
       target: en/2024-01-pr/02
