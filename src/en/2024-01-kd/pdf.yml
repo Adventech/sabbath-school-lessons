@@ -3,12 +3,12 @@
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L00.pdf'
       target: en/2024-01-kd/introduction
       title: Introduction
-      start_date: 30/12/2024
-      end_date: 30/12/2024
+      start_date: 30/12/2023
+      end_date: 30/12/2023
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L01.pdf'
       target: en/2024-01-kd/01
       title: “In the Beginning . . .”
-      start_date: 30/12/2024
+      start_date: 30/12/2023
       end_date: 05/01/2024
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L02.pdf'
       target: en/2024-01-kd/02
@@ -83,12 +83,12 @@
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L00.pdf'
       target: en/2024-01-kd/introduction
       title: Teacher
-      start_date: 30/12/2024
-      end_date: 30/12/2024
+      start_date: 30/12/2023
+      end_date: 30/12/2023
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L01.pdf'
       target: en/2024-01-kd/01
       title: Teacher
-      start_date: 30/12/2024
+      start_date: 30/12/2023
       end_date: 05/01/2024
     - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L02.pdf'
       target: en/2024-01-kd/02
