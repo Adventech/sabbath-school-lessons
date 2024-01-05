@@ -1,6 +1,6 @@
 ---
-title:  Inside story
-date:   02/02/2024
+title: 'Inside story'
+date: 02/02/2024
 ---
 
 ### <center>Na této lekci pracujeme.</center>

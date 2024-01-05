@@ -1,5 +1,5 @@
 ---
-title:  Inside Story
+title:  Misijný príbeh
 date:   09/02/2024
 ---
 

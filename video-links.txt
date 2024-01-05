@@ -1,19 +1,25 @@
-yt-dlp "https://www.youtube.com/watch?v=FKJpi-8fSJ8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "de/af/de-af-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/293992685" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=m5a2X81qasI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/150556795" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=bkyLYqmxGk8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/151384792" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-03.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Y8Xyan7eC5A" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "inv/en-2024-01-inv-01.mp4"
+yt-dlp "https://vimeo.com/152371581" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=eeNjuHH8VrI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ro/ro-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/366510095" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-05.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=1T_D5d8iGvc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/366514680" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=WFHTfV6VI9o" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/154522811" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=kFxIKLtMsMk" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/155295510" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=M5S1beYH0G4" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "in/hope/in-hope-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/156164336" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=oe-uowEH8zk" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ml/ml-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/157029294" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-10.mp4"
+
+yt-dlp "https://vimeo.com/157885894" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-11.mp4"
+
+yt-dlp "https://vimeo.com/158781271" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-12.mp4"
+
+yt-dlp "https://vimeo.com/159734511" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/pr/en-pr-2024-01-13.mp4"
