@@ -4,3 +4,6 @@
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-01.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-01.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-02.mp4
+          target: en/2024-01-cc/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-02.jpg
