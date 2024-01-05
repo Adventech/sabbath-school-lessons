@@ -1,1 +1,1 @@
-yt-dlp "https://www.youtube.com/watch?v=HR72-kFJmu8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pl/pl-2024-01-01.mp4"
+yt-dlp "https://vimeo.com/899313808" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --playlist-items 1-9 --output "en/cc/en-cc-2024-01-02.mp4"
