@@ -368,8 +368,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
   "zu": [
     "zul59"
-  ]
-
+  ],
+  "tw": ["asw"]
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
