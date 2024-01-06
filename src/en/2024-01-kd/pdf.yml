@@ -1,0 +1,157 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L00.pdf'
+      target: en/2024-01-kd/introduction
+      title: Introduction
+      start_date: 30/12/2023
+      end_date: 30/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L01.pdf'
+      target: en/2024-01-kd/01
+      title: “In the Beginning . . .”
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L02.pdf'
+      target: en/2024-01-kd/02
+      title: God’s Friends
+      start_date: 06/01/2024
+      end_date: 12/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L03.pdf'
+      target: en/2024-01-kd/03
+      title: A Special Day
+      start_date: 13/01/2024
+      end_date: 19/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L04.pdf'
+      target: en/2024-01-kd/04
+      title: Hiding From God
+      start_date: 20/01/2024
+      end_date: 26/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L05.pdf'
+      target: en/2024-01-kd/05
+      title: Noah Builds a Boat
+      start_date: 27/01/2024
+      end_date: 02/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L06.pdf'
+      target: en/2024-01-kd/06
+      title: An Animal Parade
+      start_date: 03/02/2024
+      end_date: 09/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L07.pdf'
+      target: en/2024-01-kd/07
+      title: A Floating Zoo
+      start_date: 10/02/2024
+      end_date: 16/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L08.pdf'
+      target: en/2024-01-kd/08
+      title: God’s Rainbow Promise
+      start_date: 17/02/2024
+      end_date: 23/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L09.pdf'
+      target: en/2024-01-kd/09
+      title: Abram Follows God
+      start_date: 24/02/2024
+      end_date: 01/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L10.pdf'
+      target: en/2024-01-kd/10
+      title: Abram’s Altars
+      start_date: 02/03/2024
+      end_date: 08/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L11.pdf'
+      target: en/2024-01-kd/11
+      title: Lot Chooses First
+      start_date: 09/03/2024
+      end_date: 15/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L12.pdf'
+      target: en/2024-01-kd/12
+      title: Abram to the Rescue
+      start_date: 16/03/2024
+      end_date: 22/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-L13.pdf'
+      target: en/2024-01-kd/13
+      title: Sarah’s Special Baby
+      start_date: 23/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-Activites.pdf'
+      target: en/2024-01-kd/activities
+      title: Activities
+      start_date: 29/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Student/K-24-Q1-MemoryVerses.pdf'
+      target: en/2024-01-kd/memory-verses
+      title: Memory Verses
+      start_date: 29/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L00.pdf'
+      target: en/2024-01-kd/introduction
+      title: Teacher
+      start_date: 30/12/2023
+      end_date: 30/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L01.pdf'
+      target: en/2024-01-kd/01
+      title: Teacher
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L02.pdf'
+      target: en/2024-01-kd/02
+      title: Teacher
+      start_date: 06/01/2024
+      end_date: 12/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L03.pdf'
+      target: en/2024-01-kd/03
+      title: Teacher
+      start_date: 13/01/2024
+      end_date: 19/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L04.pdf'
+      target: en/2024-01-kd/04
+      title: Teacher
+      start_date: 20/01/2024
+      end_date: 26/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L05.pdf'
+      target: en/2024-01-kd/05
+      title: Teacher
+      start_date: 27/01/2024
+      end_date: 02/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L06.pdf'
+      target: en/2024-01-kd/06
+      title: Teacher
+      start_date: 03/02/2024
+      end_date: 09/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L07.pdf'
+      target: en/2024-01-kd/07
+      title: Teacher
+      start_date: 10/02/2024
+      end_date: 16/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L08.pdf'
+      target: en/2024-01-kd/08
+      title: Teacher
+      start_date: 17/02/2024
+      end_date: 23/02/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L09.pdf'
+      target: en/2024-01-kd/09
+      title: Teacher
+      start_date: 24/02/2024
+      end_date: 01/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L10.pdf'
+      target: en/2024-01-kd/10
+      title: Teacher
+      start_date: 02/03/2024
+      end_date: 08/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L11.pdf'
+      target: en/2024-01-kd/11
+      title: Teacher
+      start_date: 09/03/2024
+      end_date: 15/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L12.pdf'
+      target: en/2024-01-kd/12
+      title: Teacher
+      start_date: 16/03/2024
+      end_date: 22/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-L13.pdf'
+      target: en/2024-01-kd/13
+      title: Teacher
+      start_date: 23/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q1/Kindergarten/Teacher/K-24-Q1-Activites-T.pdf'
+      target: en/2024-01-kd/activities
+      title: Teacher
+      start_date: 29/03/2024
+      end_date: 29/03/2024
