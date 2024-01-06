@@ -1,11 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=YT3bCLjqV-k" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "en/af/en-af-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=GP91cVHRHnc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/hope/ja-hope-2024-01-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=bGYvK0jnJwo" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "en/af/en-af-2024-01-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=xvyoSDB7lBc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ro/tbs/ro-tbs-2024-01-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=sWTeDFeM1uA" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "af/hb/af-hb-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=nzVyfhtRGXY" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-02.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=oBKRFAubGto" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=XBRkbrb47Bw" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=HU7ECBbYFzs" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "de/tbs/de-tbs-2024-01-02.mp4"
