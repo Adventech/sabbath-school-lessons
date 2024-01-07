@@ -201,7 +201,7 @@ let romanianAudio = async function () {
 
             return [
                 `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/${year}/trim${quarter}/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}.mp3`,
-                `${targetQuarter}/${String(week).padStart(2, '0')}/01`
+                `ro/${targetQuarter}/${String(week).padStart(2, '0')}/01`
             ]
         },
         2,
@@ -268,7 +268,7 @@ let bulgarianAudio = async function () {
             let quarter = targetQuarter.slice(6)
             return [
                 `https://web.3-16.bg/lessons/${year}_Q${quarter}/${year}_Q${quarter}_Lesson_${week}.mp3`,
-                `${targetQuarter}/${String(week).padStart(2, '0')}/01`
+                `bg/${targetQuarter}/${String(week).padStart(2, '0')}/01`
             ]
         },
         2,
