@@ -35,3 +35,5 @@
           target: es/2024-01/03/01
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-3-DOMINGO.mp3
           target: es/2024-01/03/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-3-LUNES.mp3
+          target: es/2024-01/03/03
