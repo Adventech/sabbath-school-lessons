@@ -34,3 +34,5 @@
           target: hu/2024-01/03/01
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240114.mp3
           target: hu/2024-01/03/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240115.mp3
+          target: hu/2024-01/03/03
