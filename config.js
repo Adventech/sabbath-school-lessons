@@ -351,7 +351,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "uk": [
-    "ukr"
+    "ukr",
+     "cuv"
   ],
 
   "zh": [
