@@ -1,11 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=KhdcvrLhXjU" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "inv/en-2024-01-inv-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=hSc0_HpTTLU" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-01-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=vmbScYhXPnI" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "uk/uk-2024-01-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=5IFfAGLp2ZY" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ro/ro-2024-01-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=PzdQZB2XMeg" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-01-02.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=_iXJZT20a5o" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ta/ta-2024-01-02.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=wlpEwInDaHc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "de/af/de-af-2024-01-02.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=F5-PfotmN2c" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2024-01-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=F5AeLItgBG8" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-02.mp4"
