@@ -158,20 +158,30 @@ let downloadUKAudio = async function() {
         let commands = `\n`
 
         for (let i = 1; i <= 7; i++) {
+            let existCloud = false
             try {
                 // check if target exists already
-                let existCloud = await axios.head(`${SERVER_URL}/${date.format(DATE_FORMAT)}.mp3`);
-                if (existCloud.status !== 200) {
+                let existCloudResult = await axios.head(`${SERVER_URL}/${date.format(DATE_FORMAT)}.mp3`);
+                if (existCloudResult.status === 200) {
+                    existCloud = true
+                }
+            } catch (e) {
+                console.error(e)
+            }
+
+            try {
+                if (!existCloud) {
                     let remoteFileUrl = `${REMOTE_URL}${date.format(DATE_FORMAT)}.mp3`
                     let exists = await axios.head(remoteFileUrl);
+                    console.log(`${REMOTE_URL}${date.format(DATE_FORMAT)}.mp3`)
                     if (exists.status === 200) {
                         // exist on remote add to download list
+
                         commands += `curl -C - -L --create-dirs -o audio/uk/${quarter}/${date.format(DATE_FORMAT)}.mp3 "${remoteFileUrl}"\n`
                     }
                 }
-            } catch (e) {
-                // console.error(e)
-            }
+            } catch (e) {}
+
             date.add(1, 'd')
             console.log(`Sleeping for 500ms`)
             await new Promise(resolve => setTimeout(resolve, 500));
