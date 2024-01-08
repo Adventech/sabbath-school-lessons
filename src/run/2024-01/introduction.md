@@ -1,4 +1,4 @@
-# AMAZABURI UMUHUZAMITIMA HAGATI Y'IMANA N'ABANTU
+### AMAZABURI UMUHUZAMITIMA HAGATI Y'IMANA N'ABANTU
 
 Amazaburi ni amasengesho n'indirimbo vyo ku rwego rwo hejuru vya Bibiliya. Zarasubiwemwo mu guhimbaza, mu munezero, mu mubabaro, zarasomwe canke ziraririmbwa haba ku giti c'umuntu canke mu bantu benshi, n'abantu basanzwe, abami, abisiga(abavuga ivyese), abatanga ibimazi, abo baba bavuye mu bagororotsi no mu banyavyaha bihanye, Amazaburi yarakoreshejwe nk'igitabo c'amasengesho n'indirimbo mu runganwe n'urunganwe rw'abizera.
 
