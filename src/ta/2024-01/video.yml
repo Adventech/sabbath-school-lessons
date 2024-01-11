@@ -1,0 +1,8 @@
+---
+  video:
+    - artist: Hope Channel Tamil
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ta/ta-2024-01-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ta/ta-2024-01-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ta/ta-2024-01-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ta/ta-2024-01-02.webp
