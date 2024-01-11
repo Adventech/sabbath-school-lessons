@@ -1,1 +1,3 @@
-yt-dlp "https://www.youtube.com/watch?v=MrS7POCMl8Y" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-01-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=2K6DcSUYK9k" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "en/af/en-af-2024-01-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=HBReVyhbpfc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-03.mp4"
