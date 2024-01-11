@@ -34,3 +34,5 @@
           target: en/2024-01/02
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-01-03.mp4
           target: en/2024-01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-01-04.mp4
+          target: en/2024-01/04
