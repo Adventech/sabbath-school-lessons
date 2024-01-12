@@ -1,1 +1,17 @@
-yt-dlp "https://www.youtube.com/watch?v=hjKmAb2bRKc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=YqKk4LcbNLg" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-01-02.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=NDFnOqrE0Zw" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-03.mp4"
+
+yt-dlp "https://vimeo.com/885692604" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-02.mp4"
+
+yt-dlp "https://vimeo.com/890041476" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-03.mp4"
+
+yt-dlp "https://vimeo.com/890062046" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-04.mp4"
+
+yt-dlp "https://vimeo.com/892766636" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-05.mp4"
+
+yt-dlp "https://vimeo.com/892766652" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-06.mp4"
+
+yt-dlp "https://vimeo.com/894658875" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-07.mp4"
+
+yt-dlp "https://vimeo.com/894676294" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-08.mp4"
