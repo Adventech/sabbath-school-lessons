@@ -1,1 +1,1 @@
-yt-dlp "https://www.youtube.com/watch?v=hjKmAb2bRKc" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=AdiQEgJfA3w" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/hope/ja-hope-2024-01-03.mp4"
