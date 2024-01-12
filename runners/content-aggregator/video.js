@@ -782,6 +782,18 @@ let germanVideo = async function () {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
+
+    await weeklyVideo(
+        "de",
+        "Seminar Schloss Bogenhofen",
+        {
+            artist: "Seminar Schloss Bogenhofen",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
 }
 
 let tagalogVideo = async function () {
