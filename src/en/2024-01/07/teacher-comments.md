@@ -21,7 +21,7 @@ When we read these six psalms in the original Hebrew, we discover that the psalm
 
 Hesed is the most common Hebrew word used for “mercy” in the Old Testament. It is better understood as “loving kindness.” Psalm 109:12, 16 connects _hesed_ with compassion to the poor, the fatherless, and the needy. Because God saves His people from disasters and oppressors, the psalmist praises His name for His merciful actions (Ps. 31:7, 21; Ps. 32:10; Ps. 57:3; Ps. 59:10; Ps. 94:18; Ps. 143:12).
 
-With this context in mind, let’s begin our study of _hesed_, or mercy, by looking at how it relates to deliverance. The psalmist asks for mercy during calamity, persecution, wandering in the desert, illness, storm, or bondage (Ps. 57:1–4, Ps. 23:6, Ps. 40:11). The narrator of the Psalms also considers _hesed_ a delivering power, or as the ability to deliver (Ps. 31:17; Ps. 94:18; Ps. 109:26; Ps. 62:12, 13; Ps. 59:11, 17, 18). Thus, _hesed_ is, in essence, the redemptive act of God on behalf of His people. In Psalm 119, the writer asks God to spare, or deliver, him according to His _hesed_ (Ps. 119:88, 149, 159).
+With this context in mind, let’s begin our study of _hesed_, or mercy, by looking at how it relates to deliverance. The psalmist asks for mercy during calamity, persecution, wandering in the desert, illness, storm, or bondage (Ps. 57:1-4, Ps. 23:6, Ps. 40:11). The narrator of the Psalms also considers _hesed_ a delivering power, or as the ability to deliver (Ps. 31:17; Ps. 94:18; Ps. 109:26; Ps. 62:12, 13; Ps. 59:11, 17, 18). Thus, _hesed_ is, in essence, the redemptive act of God on behalf of His people. In Psalm 119, the writer asks God to spare, or deliver, him according to His _hesed_ (Ps. 119:88, 149, 159).
 
 We also see _hesed_ used in relation to protection. In Psalm 36:10, 11 and Psalm 32:10, the writer makes a plea for _hesed_, or God’s protection, from the wicked and the arrogant. Hesed also is identified with the faithfulness of God (see Psalm 85 and Psalm 90).
 
@@ -43,7 +43,7 @@ according to the multitude of Your tender mercies [raham],
 
 blot out my transgressions” (NKJV).
 
-Raham comes from a Hebrew noun that means “womb, belly” (Gen. 29:31, Ps. 22:9), a word that contains within it the idea of a mother’s tender care for her baby (see Job 24:20). Raham also represents an emotion that stands in contrast to anger (Amos 1:11, Zech. 1:12–17). This emotion is a kindness that far exceeds what someone deserves (Gen. 43:14, 1 Kings 8:50). In this context, raham means to “show compassion, favor” (Neh. 1:11, Ps. 106:46), as in someone with power in a superior position who decides to show favor to a subordinate. This explanation is the quintessence of God’s mercy to us.
+Raham comes from a Hebrew noun that means “womb, belly” (Gen. 29:31, Ps. 22:9), a word that contains within it the idea of a mother’s tender care for her baby (see Job 24:20). Raham also represents an emotion that stands in contrast to anger (Amos 1:11, Zech. 1:12-17). This emotion is a kindness that far exceeds what someone deserves (Gen. 43:14, 1 Kings 8:50). In this context, raham means to “show compassion, favor” (Neh. 1:11, Ps. 106:46), as in someone with power in a superior position who decides to show favor to a subordinate. This explanation is the quintessence of God’s mercy to us.
 
 God’s mercy “signifies a warm compassion, a compassion which goes the second mile, which is ready to forgive sin, to replace judgment with grace.”—_New International Dictionary of Old Testament Exegesis_, (Grand Rapids, MI: Zondervan, 1997), vol. 3, p. 1091. What is more, the Lord shows His compassion to those who are sin-damaged and who have failed Him. Though we are undeserving of His mercy, He uplifts us by His grace and restores us to His favor.
 
@@ -51,7 +51,7 @@ God’s mercy “signifies a warm compassion, a compassion which goes the second
 
 Hanan is a verb that means “favor, to be gracious to, generous toward, to take pity on.” Usually, _hanan_ is used in the idiom “to find favor in the eyes of someone else” (Gen. 30:24, Gen. 39:7, Ruth 2:13, 1 Sam. 20:3). This meaning is applied to the relationship between God and His people. Hanan is used primarily with God as its subject. It reveals God’s disposition and actions toward His creatures. God freely bestows His favor on willing recipients (Gen. 6:8, 9; Prov. 3:3, 4; Isa. 30:19); but He can withhold His grace when the response to His offer is spurned (Jer. 16:13) or when there’s no indication of repentance on the part of His people (Neh. 9:17, 31).
 
-It’s common in Psalms to find the plea “be gracious to me” (Ps. 4:1, ESV). The psalmist makes this plea because he knows that the Lord is gracious (Ps. 86:15–17) and hears the believer’s entreaty (Ps. 6:9; Ps. 28:2, 6). The Creator graciously provides food (Ps. 111:4, 5), a good harvest (Ps. 67:1), vindication (Ps. 103:6–8), and especially, as we have studied this week, forgiveness (Ps. 51:1; Ps. 123:3).
+It’s common in Psalms to find the plea “be gracious to me” (Ps. 4:1, ESV). The psalmist makes this plea because he knows that the Lord is gracious (Ps. 86:15-17) and hears the believer’s entreaty (Ps. 6:9; Ps. 28:2, 6). The Creator graciously provides food (Ps. 111:4, 5), a good harvest (Ps. 67:1), vindication (Ps. 103:6-8), and especially, as we have studied this week, forgiveness (Ps. 51:1; Ps. 123:3).
 
 Let’s look at Psalm 103 to consider what the psalmist has to say further about the nature of the Lord’s mercy:
 
@@ -66,7 +66,7 @@ Let’s look at Psalm 103 to consider what the psalmist has to say further about
 > <p></p>
 > He has not dealt with us according to our sins,
 > <p></p>
-> nor punished us according to our iniquities” (Ps. 103:8–10, NKJV).
+> nor punished us according to our iniquities” (Ps. 103:8-10, NKJV).
 
 As we can see, the Psalter teaches us that God’s love is compassionate, tender, boundless, and infinite.
 
@@ -85,9 +85,9 @@ How do God’s followers manifest and demonstrate His mercy to others? The Psalt
 
 “There is forgiveness [_selihah_] with You” (Ps. 130:4, NKJV). This expression comes from the Hebrew verb _salah_ (“pardon, forgive”). The Lord is the only subject of this verb in the entire Old Testament. _Selihah_ means that forgiveness is an act made by God alone. The foundation of this forgiveness is the mercy of the Lord (Ps. 86:5).
 
-Psalm 25:11–18 states that forgiveness is the removal of sins. Daniel would add that forgiveness also includes averting the punishment for sin (Dan. 9:16). Exodus 34:6–9 reminds us that God is “ ‘merciful [_raham_] and gracious [_hanan_], longsuffering, and abounding in goodness [_hesed_] and truth, keeping mercy [_hesed_] for thousands, forgiving iniquity and transgression and sin, [and] by no means clearing the guilty’ ” (NKJV). Thus, David says that forgiveness requires a confession of guilt (Ps. 32:2–5). The Psalter also connects “forgiveness” with other words, such as “purify” (Ps. 51:2), “conceal from” (Ps. 51:9), and “restore” (Ps. 103:3).
+Psalm 25:11-18 states that forgiveness is the removal of sins. Daniel would add that forgiveness also includes averting the punishment for sin (Dan. 9:16). Exodus 34:6-9 reminds us that God is “ ‘merciful [_raham_] and gracious [_hanan_], longsuffering, and abounding in goodness [_hesed_] and truth, keeping mercy [_hesed_] for thousands, forgiving iniquity and transgression and sin, [and] by no means clearing the guilty’ ” (NKJV). Thus, David says that forgiveness requires a confession of guilt (Ps. 32:2-5). The Psalter also connects “forgiveness” with other words, such as “purify” (Ps. 51:2), “conceal from” (Ps. 51:9), and “restore” (Ps. 103:3).
 
-Imbued with a spirit of contrition and humility, the psalmist implores God for His pardon in full assurance that his sin will be removed (Ps. 25:11–18). The psalmist praises God because He has been absolved (Ps. 103:3, 4). Thus, we may conclude that forgiveness comes to humanity only because of the _hesed_ of God toward His creatures.
+Imbued with a spirit of contrition and humility, the psalmist implores God for His pardon in full assurance that his sin will be removed (Ps. 25:11-18). The psalmist praises God because He has been absolved (Ps. 103:3, 4). Thus, we may conclude that forgiveness comes to humanity only because of the _hesed_ of God toward His creatures.
 
 #### Part III: Life Application
 
@@ -105,6 +105,6 @@ There are clear lessons for our spiritual lives in the study of the Hebrew expre
 
 6\. Finally, _selihah_ provides us new insights into the depths and breadth of the loving-kindness of our Creator. But the most important idea it emphasizes is that we should be as merciful and kind to our neighbors as God is to us.
 
-All these lessons are masterfully assembled together by Jesus in the parable of “the unforgiving servant” (Matt. 18:23–35). It illustrates the Old Testament _hesed_ of God toward our desperate condition. The narrative suggests that we, the believers, are the cruel and unmerciful man of the parable. This sober realization should cause us to reflect with gratitude and humility upon the grace and mercy we have received freely from our heavenly Father.
+All these lessons are masterfully assembled together by Jesus in the parable of “the unforgiving servant” (Matt. 18:23-35). It illustrates the Old Testament _hesed_ of God toward our desperate condition. The narrative suggests that we, the believers, are the cruel and unmerciful man of the parable. This sober realization should cause us to reflect with gratitude and humility upon the grace and mercy we have received freely from our heavenly Father.
 
 `Notes`
