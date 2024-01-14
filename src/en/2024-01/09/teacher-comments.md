@@ -28,8 +28,8 @@ There are many references in the Psalter to Christ’s deity and His ministry on
 - New Testament Application: Heb. 1:8, 9
 
 **Prophecy: Jesus is Creator and is eternal.**
-- Psalm: Ps. 102:25–27
-- New Testament Application: Heb. 1:10–12
+- Psalm: Ps. 102:25-27
+- New Testament Application: Heb. 1:10-12
 
 **Prophecy: Jesus is the Son of God.**
 - Psalm: Ps. 2:7
@@ -40,8 +40,8 @@ The divinity of Jesus is an important topic for New Testament writers as it shou
 **The Life and Ministry of Jesus**
 
 **Prophecy: Jesus’ incarnation and complete offering**
-- Psalm: Ps. 40:6–10
-- New Testament Application: Heb. 10:5–7
+- Psalm: Ps. 40:6-10
+- New Testament Application: Heb. 10:5-7
 
 **Prophecy: Zeal for God’s house shall consume Jesus.**
 - Psalm: Ps. 69:9
@@ -57,7 +57,7 @@ The divinity of Jesus is an important topic for New Testament writers as it shou
 
 **Prophecy: Jesus is the cornerstone.**
 - Psalm: Ps. 118:22
-- New Testament Application: Matt. 21:42, Mark 12:10–11, Luke 20:17
+- New Testament Application: Matt. 21:42, Mark 12:10-11, Luke 20:17
 
 **Prophecy: Children shall praise Jesus’ works in the temple.**
 - Psalm: Ps. 8:2
@@ -108,8 +108,8 @@ The writers of the Gospels and of the New Testament understood that particular p
 - New Testament Application: John 19:36
 
 **Prophecy: His body will not decay in the grave.**
-- Psalm: Ps. 16:8–11
-- New Testament Application: Acts 2:25–28, Acts 13:35
+- Psalm: Ps. 16:8-11
+- New Testament Application: Acts 2:25-28, Acts 13:35
 
 The apostles sought to furnish scriptural evidence in support of the suffering and death of Jesus as an event predicted in detail in the Old Testament. (Keep in mind that we are working here with scriptural evidence based only on the Psalter. Of course, much more evidence in favor of the suffering of Christ can be found in the Old Testament, especially in the book of Isaiah.)
 
@@ -137,7 +137,7 @@ The accumulation of scriptural evidence from the Psalms validates the factualnes
 - Psalm: Ps. 68:18
 - New Testament Application: Eph. 4:7, 8
 
-Jesus’ ministry of atonement in heaven is of no less importance than the atoning sacrifice He accomplished on Mount Calvary. Thus, it’s no coincidence that, among New Testament writers, Psalm 110 is the most quoted, or alluded to, passage from the Old Testament. Case in point, Psalm 110:1 is used 17 times in the New Testament: Matthew 22:44; Matthew 26:44; Mark 12:36; Mark 16:19; Luke 20:42–43; Luke 22:69; Acts 2:34, 35; 1 Corinthians 15:25; Ephesians 1:20; Colossians 3:1; Hebrews 1:3, 13; Hebrews 8:1; Hebrews 10:12, 13; Hebrews 12:2; Colossians 3:1; while Psalm 110:4 is quoted a total of four times: Hebrews 5:6; Hebrews 6:20; Hebrews 7:17, 21.
+Jesus’ ministry of atonement in heaven is of no less importance than the atoning sacrifice He accomplished on Mount Calvary. Thus, it’s no coincidence that, among New Testament writers, Psalm 110 is the most quoted, or alluded to, passage from the Old Testament. Case in point, Psalm 110:1 is used 17 times in the New Testament: Matthew 22:44; Matthew 26:44; Mark 12:36; Mark 16:19; Luke 20:42-43; Luke 22:69; Acts 2:34, 35; 1 Corinthians 15:25; Ephesians 1:20; Colossians 3:1; Hebrews 1:3, 13; Hebrews 8:1; Hebrews 10:12, 13; Hebrews 12:2; Colossians 3:1; while Psalm 110:4 is quoted a total of four times: Hebrews 5:6; Hebrews 6:20; Hebrews 7:17, 21.
 
 The heavenly ministry of Jesus, along with our understanding of His work on our behalf, is central to our daily spiritual experience as Christians. Hebrews states with confidence: “This hope we have as an anchor of the soul, both sure and steadfast, and which enters the Presence behind the veil, where the forerunner has entered for us, even Jesus, having become High Priest forever according to the order of Melchizedek” (Heb. 6:19, 20, NKJV, where it quotes the end of Psalm 110:4).
 
@@ -158,9 +158,9 @@ As these examples show, the God of the Psalms is the Messiah revealed in the New
 
 **The Messianic Tone of Psalm 24**
 
-Some psalms allude to certain Messianic events or pictures. Psalm 24 is one such psalm. Verses 1–6 relate back to Psalm 15, given their thematic similarity. Psalm 24 also provides insight into the identity of the ones who are permitted to go into the Holy Place, or God’s holy hill.
+Some psalms allude to certain Messianic events or pictures. Psalm 24 is one such psalm. Verses 1-6 relate back to Psalm 15, given their thematic similarity. Psalm 24 also provides insight into the identity of the ones who are permitted to go into the Holy Place, or God’s holy hill.
 
-In verses 7–10, the psalm assumes a Messianic tone. It describes the Lord entering a holy city. Many commentators, one of whom is Ellen G. White, apply this section to Jesus’ ascension to heaven (see _Early Writings_, pp. 190–192). These verses are a joyful depiction of the entrance of Jesus into the celestial kingdom amidst the singing of the angels, who proclaim Him the “King of glory” and “the Lord strong and mighty, the Lord mighty in battle” (Ps. 24:8, NKJV). This scene is a representation in miniature of the grand event in the future when all the redeemed will enter through the gates of the Holy City.
+In verses 7-10, the psalm assumes a Messianic tone. It describes the Lord entering a holy city. Many commentators, one of whom is Ellen G. White, apply this section to Jesus’ ascension to heaven (see _Early Writings_, pp. 190-192). These verses are a joyful depiction of the entrance of Jesus into the celestial kingdom amidst the singing of the angels, who proclaim Him the “King of glory” and “the Lord strong and mighty, the Lord mighty in battle” (Ps. 24:8, NKJV). This scene is a representation in miniature of the grand event in the future when all the redeemed will enter through the gates of the Holy City.
 
 #### Part III: Life Application
 

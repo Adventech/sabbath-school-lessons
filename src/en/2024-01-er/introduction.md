@@ -16,4 +16,4 @@ The Book of Psalms is a collection of 150 poems. These poems help us understand 
 
 Our hope is that the Book of Psalms will help answer these difficult questions. We also hope our study will help us grow strong during our life journey. May we meet with God daily, heart to heart, in the Book of Psalms until that day when we see Jesus face-to-face.
 
-_Dragoslava Santrac has a PhD in Old Testament studies. Dr Santrac is the managing editor for the Encyclopedia of Seventh-day Adventists at the General Conference of Seventh-day Adventists world headquarters. She wrote the volume on Psalms 76–150 for the Seventh-day Adventist International Bible Commentary._
+_Dragoslava Santrac has a PhD in Old Testament studies. Dr Santrac is the managing editor for the Encyclopedia of Seventh-day Adventists at the General Conference of Seventh-day Adventists world headquarters. She wrote the volume on Psalms 76-150 for the Seventh-day Adventist International Bible Commentary._

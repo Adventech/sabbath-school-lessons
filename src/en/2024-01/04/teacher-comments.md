@@ -35,7 +35,7 @@ The Bible is stingy in its use of adjectives. To compensate for this paucity of 
 
 1. **Shelter**—(Ps. 61:3, Ps. 143:9). This image suggests a safe place amid war, a refuge from storm and heat.
 
-2. **Tower**—(Ps. 61:3). Towers in biblical times had a much stronger meaning as a safeguard than they do today. In times of war or persecution, the people hid in a tower, as in the cases of Gideon (Judg. 8:17) and Abimelech (Judg. 9:50–52).
+2. **Tower**—(Ps. 61:3). Towers in biblical times had a much stronger meaning as a safeguard than they do today. In times of war or persecution, the people hid in a tower, as in the cases of Gideon (Judg. 8:17) and Abimelech (Judg. 9:50-52).
 
 Psalm 18:1, 2 provides a collection of other metaphors applied to YHWH, drawn from the rest of the Psalter:
 
@@ -73,7 +73,7 @@ As the Psalms show, God wants to deliver us from our sins, anxieties, and proble
 
 The purpose of our study this week is not simply to admire the literary prowess and artistry of the psalmists. More than the pleasure such skillful imagery affords us, the figures and metaphors of the Psalms furnish us with deep insights into the work of God in the redemption of humanity. David says: “I cried to the Lord with my voice, and He heard me from His holy hill [His sanctuary]” (Ps. 3:4); and “He heard my voice from His temple” (Ps. 18:6, NKJV). Thus, God’s work of deliverance and His tender watch care begin with His work for us in the sanctuary in heaven.
 
-Several key moments in the book of Psalms teach us that the Lord works on behalf of humans in His heavenly headquarters (see Ps. 11:5, 6; Ps. 20:2; Ps. 29:9; Ps. 33:13, 14; Ps. 60:6; Ps. 68:35; Ps. 96:1–13; Ps. 102:20, 21; and Ps. 150:1–6). After a study of these passages, along with other Old Testament texts related to the sanctuary, Elias Brasil de Souza states: “The heavenly sanctuary is also depicted as a place of worship where heavenly beings adore YHWH, source of help, and place of atonement, where cleansing and forgiveness are granted.”—“The Heavenly Sanctuary/Temple Motif in the Hebrew Bible: Function and Relationship to the Earthly Counterparts” (dissertation, Andrews University, 2005), p. 358.
+Several key moments in the book of Psalms teach us that the Lord works on behalf of humans in His heavenly headquarters (see Ps. 11:5, 6; Ps. 20:2; Ps. 29:9; Ps. 33:13, 14; Ps. 60:6; Ps. 68:35; Ps. 96:1-13; Ps. 102:20, 21; and Ps. 150:1-6). After a study of these passages, along with other Old Testament texts related to the sanctuary, Elias Brasil de Souza states: “The heavenly sanctuary is also depicted as a place of worship where heavenly beings adore YHWH, source of help, and place of atonement, where cleansing and forgiveness are granted.”—“The Heavenly Sanctuary/Temple Motif in the Hebrew Bible: Function and Relationship to the Earthly Counterparts” (dissertation, Andrews University, 2005), p. 358.
 
 Our Defender and Deliverer hears from His holy hill and works in our behalf. For the most part, as Seventh-day Adventists, when we hear the expression “heavenly sanctuary,” we most often think of the Day of Atonement and the pre-Advent judgment. Of course, that’s central to “present truth.” At the same time, we should strive to focus on the work of forgiveness, defense, care, and protection that our Lord offers us from the Most Holy Place of the heavenly sanctuary—even before the closing work of the Day of Atonement. Christ’s work of priestly intercession on our behalf is essential. All heaven is involved in the redemption of us sinners.
 
