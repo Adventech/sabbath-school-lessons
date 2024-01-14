@@ -19,13 +19,13 @@ The Psalms are more than pretty songs in praise of God. They are meant to exert 
 
 Even if the Psalter does not explicitly address this specific question, Psalms 74 and 79, which are about the destruction of Jerusalem, are based on these concerns. Between these two psalms, we see some notable similarities concerning the topic of sin and suffering:
 
-1. Each psalm deals with the destruction of the beloved city (Ps. 74:3–9, Ps. 79:1–4), which elicits plaintive laments from the psalmist.
+1. Each psalm deals with the destruction of the beloved city (Ps. 74:3-9, Ps. 79:1-4), which elicits plaintive laments from the psalmist.
 
-2. In both psalms, Asaph wants to see the Lord overturn the destruction (Ps. 74:10, 11; Ps. 79:5–7). Thus, he inquires of the Lord, “How long?”
+2. In both psalms, Asaph wants to see the Lord overturn the destruction (Ps. 74:10, 11; Ps. 79:5-7). Thus, he inquires of the Lord, “How long?”
 
-3. The cause of Jerusalem’s misfortunes is the sin of the people (Ps. 79:8–10). Only Psalm 79 mentions this reason: God’s people have failed.
+3. The cause of Jerusalem’s misfortunes is the sin of the people (Ps. 79:8-10). Only Psalm 79 mentions this reason: God’s people have failed.
 
-4. In both songs, Asaph doesn’t lose faith in his heavenly King (Ps. 74:12–17) or confidence in “the greatness of Your power” (Ps. 79:11, NKJV).
+4. In both songs, Asaph doesn’t lose faith in his heavenly King (Ps. 74:12-17) or confidence in “the greatness of Your power” (Ps. 79:11, NKJV).
 
 As Asaph, we may ask why we face sin, suffering, and death. These are the universal questions that inquiring minds have asked from the dawn of human history. The answer is always the same: sin. Sin is the strange intruder in God’s creation. From Satan’s fall in heaven to our fallen condition today, iniquity has spawned all the suffering and death in history. We could argue, justifiably, that God has given free will to His creatures and, from there, philosophize about the ramifications of sin and suffering. But the biblical writers refrain from this tack. Let us then, as Asaph did, trust in our Creator’s power and wisdom to resolve this question in His own way and time.
 
@@ -33,7 +33,7 @@ As Asaph, we may ask why we face sin, suffering, and death. These are the univer
 
 The lesson reminds us that sin can bring sickness (Ps. 41:3, 4). With this idea in mind, let’s consider the question, “Why did God allow the innocent to suffer?” in light of four Psalms: Psalm 6, Psalm 41, Psalm 88, and Psalm 102.
 
-First, we note that these four songs describe the suffering that the psalmists experience because of illness (Ps. 6:2, 6, 7; Ps. 41:3; Ps. 88:3–9; Ps. 102:3–7, 9–11). Second, the psalmists plead with the Lord for healing (Ps. 6:2, 4; Ps. 41:1, 4; Ps. 88:1, 2, 13, 14; Ps. 102:1, 2). They consider their healing to be a vindication from God in the presence of their enemies (Ps. 6:8–10, Ps. 41:5–12, Ps. 102:15–19). Finally, they argue persuasively that, had they died, they would have been bereft of the opportunity to praise God’s name (Ps. 6:5, Ps. 88:10–12).
+First, we note that these four songs describe the suffering that the psalmists experience because of illness (Ps. 6:2, 6, 7; Ps. 41:3; Ps. 88:3-9; Ps. 102:3-7, 9-11). Second, the psalmists plead with the Lord for healing (Ps. 6:2, 4; Ps. 41:1, 4; Ps. 88:1, 2, 13, 14; Ps. 102:1, 2). They consider their healing to be a vindication from God in the presence of their enemies (Ps. 6:8-10, Ps. 41:5-12, Ps. 102:15-19). Finally, they argue persuasively that, had they died, they would have been bereft of the opportunity to praise God’s name (Ps. 6:5, Ps. 88:10-12).
 
 At this point in our analysis, we should note that the Hebrew mind was not interested in asking philosophical questions about human pain and suffering. Rather, its focus was on God and His glory. The psalmists acknowledge that the Lord permits their sorrows (Ps. 6:1). They also acknowledge that He alone can give health. Cured of their afflictions, they want to testify to God’s healing mercies.
 
@@ -60,9 +60,9 @@ Psalm 77 expresses well the feelings of doubt and discouragement that often oppr
 > <p></p>
 > Has God forgotten to be gracious?
 > <p></p>
-> Has He in anger shut up His tender mercies? (Ps. 77:7–9, NKJV).
+> Has He in anger shut up His tender mercies? (Ps. 77:7-9, NKJV).
 
-The answer that the writer himself provides is simple but crucial: remember in the present the miracles that God has wrought for you in the past (Ps. 77:11–20). “I will remember the works of the Lord” (Ps. 77:11, NKJV). Thereafter, the psalmist describes the most paradigmatic moment of God’s intervention in Israel’s history: the Exodus from Egypt. The psalmist recalls the wonders that YHWH performed when He delivered His people from Egyptian bondage (Ps. 77:14, 15). Special attention is given to the miraculous parting of the Red Sea (Ps. 77:16–19): “Your way was in the sea” (Ps. 77:19, NKJV). The psalmist also recalls how God guided the ministry of Moses and Aaron (Ps. 77:20).
+The answer that the writer himself provides is simple but crucial: remember in the present the miracles that God has wrought for you in the past (Ps. 77:11-20). “I will remember the works of the Lord” (Ps. 77:11, NKJV). Thereafter, the psalmist describes the most paradigmatic moment of God’s intervention in Israel’s history: the Exodus from Egypt. The psalmist recalls the wonders that YHWH performed when He delivered His people from Egyptian bondage (Ps. 77:14, 15). Special attention is given to the miraculous parting of the Red Sea (Ps. 77:16-19): “Your way was in the sea” (Ps. 77:19, NKJV). The psalmist also recalls how God guided the ministry of Moses and Aaron (Ps. 77:20).
 
 As the Spirit of Prophecy so aptly admonishes: “We have nothing to fear for the future, except as we shall forget the way the Lord has led us, and His teaching in our past history.”—Ellen G. White, _Testimonies for the Church, vol. 9_, p. 10.
 
@@ -70,7 +70,7 @@ When sick or beset by tribulation, we would do well to engage in the following f
 
 **Why Do the Wicked Ones Prosper?**
 
-David introduces the topic under consideration by couching it in the following counsel: “Do not fret because of evildoers” (Ps. 37:1, NKJV). He summarizes the rationale for his advice—evildoers will perish (Ps. 37:2)—before moving on to his main concern, which is the believer. David encourages him or her with several principles for godly living (Ps. 37:3–9). These moral imperatives are the basis for maintaining one’s mental health and fitness in an unfair world. David embeds promises in the midst of his imperatives, as follows:
+David introduces the topic under consideration by couching it in the following counsel: “Do not fret because of evildoers” (Ps. 37:1, NKJV). He summarizes the rationale for his advice—evildoers will perish (Ps. 37:2)—before moving on to his main concern, which is the believer. David encourages him or her with several principles for godly living (Ps. 37:3-9). These moral imperatives are the basis for maintaining one’s mental health and fitness in an unfair world. David embeds promises in the midst of his imperatives, as follows:
 
 1. “Trust in the Lord, . . .
 
@@ -104,7 +104,7 @@ _Promise_: “For evildoers shall be cut off; but those who wait on the Lord, th
 
 This psalm is a masterpiece of literary form and substance. Were we to ardently endeavor to practice the guidelines contained within, we would avoid much disappointment and bitterness. As an extra bonus, the text of the psalm provides us with encouraging promises that motivate us to put its precepts into action.
 
-The psalmist reviews the same concepts in the rest of his song: (a) the prosperity of the wicked ones (Ps. 37:12, 14); (b) the command to trust YHWH (Ps. 37:27, 34, 37); (c) the behavior of the righteous (Ps. 37:21, 26, 30, 31); (d) the destruction of the evildoers (Ps. 37:10, 13, 15, 22, 35, 36, 38); and (e) promises for the faithful (Ps. 37:11, 16–20, 22–25, 28, 29, 32, 33, 39, 40). The concepts expressed within this psalm make it worthy of our most profound study.
+The psalmist reviews the same concepts in the rest of his song: (a) the prosperity of the wicked ones (Ps. 37:12, 14); (b) the command to trust YHWH (Ps. 37:27, 34, 37); (c) the behavior of the righteous (Ps. 37:21, 26, 30, 31); (d) the destruction of the evildoers (Ps. 37:10, 13, 15, 22, 35, 36, 38); and (e) promises for the faithful (Ps. 37:11, 16-20, 22-25, 28, 29, 32, 33, 39, 40). The concepts expressed within this psalm make it worthy of our most profound study.
 
 #### Part III: Life Application
 

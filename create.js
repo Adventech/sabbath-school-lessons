@@ -34,6 +34,7 @@ var LOCALE_VARS = {
 
   "daily_lesson_title": {
     "am": "ትምህርት",
+    "as": "পাঠ",
     "af": "Les",
     "ar": "درس",
     "bbc": "Parsiajaran",
@@ -120,6 +121,7 @@ var LOCALE_VARS = {
 
   "empty_placeholder": {
     "am": "### <center>እኛ በዚህ ሌንስ ላይ እየሰራን ነው ፡፡</center>\n<center>እባክዎ ቆየት ብለው ይሞክሩ.</center>",
+    "as": "### <center>আমি এই পাঠটোৰ ওপৰত কাম কৰি আছো।</center>\n<center>অনুগ্ৰহ কৰি পিছত আহিব।</center>",
     "af": "### <center>Ons werk aan hierdie les.</center>\n<center>Kom asseblief later terug.</center>",
     "ar": "### <center>ونحن نعمل على هذا الدرس.</center>\n<center>يرجى العودة لاحقا.</center>",
     "bbc": "### <center>Kami sedang mengerjakan pelajaran ini</center>\n<center>Silahkan kembali lagi nanti</center>",
@@ -206,6 +208,7 @@ var LOCALE_VARS = {
 
   "teacher_comments": {
     "am": "Teacher comments",
+    "as": "Teacher comments",
     "af": "Teacher comments",
     "ar": "Teacher comments",
     "bbc": "Teacher comments",
@@ -289,6 +292,7 @@ var LOCALE_VARS = {
 
   "inside_story": {
     "am": "Inside story",
+    "as": "Inside story",
     "af": "Inside story",
     "ar": "Inside story",
     "bbc": "Inside story",
