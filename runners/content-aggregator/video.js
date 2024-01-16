@@ -609,12 +609,10 @@ let hungarianVideo = async function () {
         "Bibliatanulmányok minden napra",
         {
             artist: "Bibliatanulmányok minden napra",
-            thumbnail: "https://egw.hu/ssq/bibliatanulmany.jpg",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
-            targetDate.isoWeekday(6)
-            return `https://bibliatanulmanyok.hu/tanulmanyok/video/${targetDate.format('YYYYMMDD')}.mp4`
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/hu/hope/hu-hope-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
 
