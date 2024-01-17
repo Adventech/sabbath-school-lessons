@@ -7,3 +7,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-02.mp4
           target: en/2024-01-cc/02
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-02.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-03.mp4
+          target: en/2024-01-cc/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-03.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-04.mp4
+          target: en/2024-01-cc/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-04.jpg
