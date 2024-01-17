@@ -366,6 +366,30 @@ let russianVideo = async function () {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
+
+    await weeklyVideo(
+        "ru",
+        "Изучаем Библию с Виталием Олийником",
+        {
+            artist: "Изучаем Библию с Виталием Олийником",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "ru",
+        "Субботняя школа с Алехандро Буйоном",
+        {
+            artist: "Субботняя школа с Алехандро Буйоном",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
 }
 
 let ukrainianVideo = async function () {
