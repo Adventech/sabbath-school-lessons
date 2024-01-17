@@ -6,3 +6,5 @@
           target: de/2024-01/01/01
         - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-01/de-bh-2024-01-02.mp3
           target: de/2024-01/02/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-01/de-bh-2024-01-03.mp3
+          target: de/2024-01/03/01
