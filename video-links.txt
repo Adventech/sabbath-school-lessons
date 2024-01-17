@@ -1,1 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=HpZDrAbZW88" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=f1yutxM4Z-c" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2024-01-03.mp4"
+
+yt-dlp "https://vimeo.com/903427571" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/cc/en-cc-2024-01-03.mp4"
+
+yt-dlp "https://vimeo.com/903460579" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/cc/en-cc-2024-01-04.mp4"
