@@ -276,6 +276,25 @@ let bulgarianAudio = async function () {
     )
 }
 
+let germanAudio = async function () {
+    await dailyAudio(
+        "de",
+        "Seminar Schloss Bogenhofen",
+        {
+            artist: "Seminar Schloss Bogenhofen",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            return [
+                `https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/${targetQuarter}/de-bh-${targetQuarter}-${String(week).padStart(2, '0')}.mp3`,
+                `de/${targetQuarter}/${String(week).padStart(2, '0')}/01`
+            ]
+        },
+        2,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -285,6 +304,7 @@ let run = async function () {
     await czechAudio();
     await ukrainianAudio();
     await bulgarianAudio();
+    await germanAudio();
 }
 
 run().then(() => {

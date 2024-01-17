@@ -192,10 +192,67 @@ let downloadUKAudio = async function() {
     }
 }
 
+let downloadGermanAudio = async function() {
+    const URL = "https://bogenhofen.podigee.io/feed/mp3"
+    const parser = new XMLParser({ignoreAttributes : false});
+    const LESSON_NUMBER = /^Q\d\s*-\s*E(\d)./gm
+    const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
+    const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/de/${quarter}/de-bh-${quarter}`
+    let response
+    try {
+        response = await axios.get(URL);
+    } catch (e) {
+        return
+    }
+
+    let rss = parser.parse(response.data);
+
+    if (!rss.rss.channel.item.length || !rss.rss.channel.item[0].title || !rss.rss.channel.item[0].description
+        || !rss.rss.channel.item[0].enclosure['@_url']) {
+        console.error('The return from the server does not seem to be supported XML feed we are expecting')
+        return
+    }
+
+    let year = parseInt(quarter.substring(0, 4))
+    let quarterInt = parseInt(quarter.substring(6))
+
+    let itemsThisQuarter = rss.rss.channel.item.filter(i => {
+        let regex = new RegExp(`${quarterInt}\.\\s*Quartal\\s*${year}`)
+        return regex.test(i["itunes:subtitle"])
+    })
+
+    if (!itemsThisQuarter.length || !itemsThisQuarter[0].title || !itemsThisQuarter[0].description
+        || !itemsThisQuarter[0].enclosure['@_url']) {
+        console.error('The return from the server does not seem to be have the lessons for the current quarter')
+        return
+    }
+
+    let episode = itemsThisQuarter[0]
+
+    // Identifying the lesson #
+    let lesson = LESSON_NUMBER.exec(episode.title.trim())
+    if (!lesson[1]) { return }
+    lesson = String(lesson[1]).padStart(2, '0')
+
+    // Check if this lesson has already been processed and uploaded to the cloud
+    try {
+        let existing = await axios.head(`${SERVER_URL}-${lesson}.mp3`);
+        if (existing.status === 200) {
+            fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, '\n');
+            return 2
+        }
+    } catch (e) {}
+
+    let url = episode.enclosure['@_url']
+    let commands = `curl -C - -L --create-dirs -o audio/de/${quarter}/de-bh-${quarter}-${lesson}.mp3 "${url}"\n`
+    fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
+}
+
 let run = async function () {
     await downloadEGWaudio();
     await downloadUKAudio();
     await downloadRussianAudio();
+    await downloadGermanAudio();
 }
 
 run().then(() => {
