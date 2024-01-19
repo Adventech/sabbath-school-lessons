@@ -1,15 +1,9 @@
-yt-dlp "https://www.youtube.com/watch?v=fHI7yCEvP3w" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=O2ljJnQj5Pc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/tbs/ro-tbs-2024-01-03.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=ATrV4XI1Jho" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2024-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=YPpg6IXwTX4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/tbs/de-tbs-2024-01-03.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=1gVTB5T8Z-Y" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2024-01-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=V1y6QzKjwkg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/tbs/ro-tbs-2024-01-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=v6upTmD-Oa4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=nMH6rSJZ3aY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/tbs/de-tbs-2024-01-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=WunSgfwiUuU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2024-01-03.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Fwc1TPCRFJk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-04.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=d29IqTbby5E" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-04.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=CQYcZoaUqe8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=A-da1CY4z3Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/hope/ja-hope-2024-01-04.mp4"
