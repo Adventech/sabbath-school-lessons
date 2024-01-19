@@ -2,7 +2,7 @@
   pdf:
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PR-Intro.pdf'
       target: si/2024-01-pr/introduction
-      title: අළුත් ලෝකයක්
+      title: හැදින්වීම
       start_date: 30/12/2023
       end_date: 30/12/2023
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PR-01.pdf'
