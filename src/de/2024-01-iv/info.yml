@@ -6,7 +6,7 @@
   end_date: "29/03/2024"
   color_primary: "#785390"
   color_primary_dark: "#5f476e"
-credits:
+  credits:
   - name: Herausgeber
     value: "TOP LIFE Wegweiser-Verlag, Wien"
   - name: Projektleitung
@@ -15,7 +15,7 @@ credits:
     value: "Peter Krumpschmid, Hubert Kazmierczak"
   - name: Korrektorat
     value: "Monika Lumpi"
-  - name: Designe und Illustrationen:
+  - name: "Designe und Illustrationen"
     value: "Simon Eitzenberger"
   - name: Satz
     value: "Pierre Intering"
