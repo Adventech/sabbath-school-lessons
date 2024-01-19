@@ -1,0 +1,10 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ceb/2024-01/ABSG-2024-01-CEB-01.pdf
+      target: ceb/2024-01/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ceb/2024-01/ABSG-2024-01-CEB-02.pdf
+      target: ceb/2024-01/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ceb/2024-01/ABSG-2024-01-CEB-03.pdf
+      target: ceb/2024-01/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/ceb/2024-01/ABSG-2024-01-CEB-04.pdf
+      target: ceb/2024-01/04

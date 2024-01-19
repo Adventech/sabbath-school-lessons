@@ -1,6 +1,6 @@
 ### Einführung in das Buch der Psalmen
 
-###### Die Psalmen: Wo Gott und Menschen sich von Herz zu Herz begegnen
+##### Die Psalmen: Wo Gott und Menschen sich von Herz zu Herz begegnen
 
 Die Psalmen sind die Gebete und Hymnen der Bibel schlechthin. Sie werden zum Lob, zur Freude, zur Trauer und zur Verzweiflung gesprochen oder gesungen, privat und öffentlich, von Laien, Königen, Dichtern und Priestern, von Gerechten und reuigen Sündern – die Psalmen haben Generationen von Gläubigen als Gebet und Gesangbuch gedient.
 

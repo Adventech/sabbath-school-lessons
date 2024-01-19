@@ -6,9 +6,83 @@ const { XMLParser } = require("fast-xml-parser"),
     crypto = require("crypto"),
     algorithm = "aes-192-cbc",
     glob    = require("glob"),
-    yamljs  = require("js-yaml");
+    yamljs  = require("js-yaml"),
+    { exec } = require('child_process'),
+    util = require('util'),
+    execAsync = util.promisify(exec);
 
 const WORKING_DIR = `ss-audio`
+
+let checkCebuanoAPK = async function() {
+    let downloadAPK = async function () {
+        let CEBUANO_APK_URL = `https://d.apkpure.net/b/XAPK/ph.edu.fusterobisaya?version=latest`
+        try {
+            const response = await axios({
+                method: 'get',
+                url: CEBUANO_APK_URL,
+                responseType: 'stream'
+            });
+
+            const writer = fs.createWriteStream(`${WORKING_DIR}/cebuano.zip`)
+
+
+            response.data.pipe(writer)
+
+            return new Promise((resolve, reject) => {
+                writer.on('finish', resolve);
+                writer.on('error', reject);
+            });
+        } catch (error) {
+            console.error('Error downloading the Cebuano APK:', error);
+        }
+    }
+    let executeCommand = async function (command) {
+        try {
+            const { stdout, stderr } = await execAsync(command);
+            if (stderr) {
+                console.error(`Stderr: ${stderr}`);
+                return;
+            }
+            return stdout
+        } catch (error) {
+            console.error(`Error: ${error.message}`);
+        }
+    }
+
+    let commands = "\n"
+    await downloadAPK()
+    await executeCommand(`[[ -f "./ss-audio/cebuano.zip" ]] && mkdir -p "./ss-audio/cebuano" && unzip -o "./ss-audio/cebuano.zip" -d "./ss-audio/cebuano" && [[ -f "./ss-audio/cebuano/ph.edu.fusterobisaya.apk" ]] && unzip -o "./ss-audio/cebuano/ph.edu.fusterobisaya.apk" -d "./ss-audio/cebuano" && mkdir -p "./ss-audio/pdf/ceb/fustero" && cp ./ss-audio/cebuano/assets/*.pdf ./ss-audio/pdf/ceb/fustero/ || echo "Error: Zip file does not exist."`)
+    await executeCommand(`rm -r ./ss-audio/cebuano ./ss-audio/cebuano.zip`)
+
+    let files = await executeCommand(`ls -1 ./ss-audio/pdf/ceb/fustero`)
+    let filesArray = files.trim().split("\n")
+    let newFiles = []
+
+    if (files && filesArray.length) {
+        for (let file of filesArray) {
+            console.log(`Sleeping for 500ms`)
+
+            await new Promise(resolve => setTimeout(resolve, 500));
+            console.log(`Checking ${file}`)
+
+            let remoteUrl = `https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ceb/fustero/${file}`
+            try {
+                let remoteResponse = await axios.head(remoteUrl)
+                if (remoteResponse.status !== 200) {
+                    newFiles.push(file)
+                }
+            } catch (e) {
+                newFiles.push(file)
+            }
+        }
+    }
+    console.log(newFiles)
+
+    if (newFiles.length) {
+        commands += `aws ses send-email --region us-east-1 --to="vitaliy@adventech.io" --subject="Cebuano files" --html="Cebuano files that are uploaded:<br/><br/>${newFiles.join("<br/>")}" --from="vitaliy@adventech.io"\n`
+    }
+    fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
+}
 
 let downloadEGWaudio = async function() {
     const URL = "https://www.egwhiteaudio.com/feed.xml"
@@ -253,6 +327,7 @@ let run = async function () {
     await downloadUKAudio();
     await downloadRussianAudio();
     await downloadGermanAudio();
+    await checkCebuanoAPK();
 }
 
 run().then(() => {

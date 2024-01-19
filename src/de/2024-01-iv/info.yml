@@ -4,8 +4,8 @@
   human_date: "Januar · Februar · März 2024"
   start_date: "30/12/2023"
   end_date: "29/03/2024"
-  color_primary: "#775490"
-  color_primary_dark: "#58396E"
+  color_primary: "#785390"
+  color_primary_dark: "#5f476e"
   credits:
   - name: Herausgeber
     value: "TOP LIFE Wegweiser-Verlag, Wien"
@@ -15,7 +15,7 @@
     value: "Peter Krumpschmid, Hubert Kazmierczak"
   - name: Korrektorat
     value: "Monika Lumpi"
-  - name: Design und Illustrationen
+  - name: "Designe und Illustrationen"
     value: "Simon Eitzenberger"
   - name: Satz
     value: "Pierre Intering"
