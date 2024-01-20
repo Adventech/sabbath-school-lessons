@@ -167,7 +167,7 @@ let downloadRussianAudio = async function() {
     // Determining current week relative to the quarter
     let date = moment()
 
-    if (!fs.pathExistsSync('src/ru/${currentQuarter}/info.yml')) {
+    if (!fs.pathExistsSync(`src/ru/${currentQuarter}/info.yml`)) {
         return
     }
 
