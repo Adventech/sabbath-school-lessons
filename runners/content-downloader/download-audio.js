@@ -24,8 +24,6 @@ let checkCebuanoAPK = async function() {
             });
 
             const writer = fs.createWriteStream(`${WORKING_DIR}/cebuano.zip`)
-
-
             response.data.pipe(writer)
 
             return new Promise((resolve, reject) => {
@@ -51,7 +49,12 @@ let checkCebuanoAPK = async function() {
 
     let commands = "\n"
     await downloadAPK()
-    await executeCommand(`[[ -f "./ss-audio/cebuano.zip" ]] && mkdir -p "./ss-audio/cebuano" && unzip -o "./ss-audio/cebuano.zip" -d "./ss-audio/cebuano" && [[ -f "./ss-audio/cebuano/ph.edu.fusterobisaya.apk" ]] && unzip -o "./ss-audio/cebuano/ph.edu.fusterobisaya.apk" -d "./ss-audio/cebuano" && mkdir -p "./ss-audio/pdf/ceb/fustero" && cp ./ss-audio/cebuano/assets/*.pdf ./ss-audio/pdf/ceb/fustero/ || echo "Error: Zip file does not exist."`)
+
+    if (!fs.pathExistsSync(`${WORKING_DIR}/cebuano.zip`)) {
+        return
+    }
+
+    await executeCommand(`mkdir -p "./ss-audio/cebuano" && unzip -o "./ss-audio/cebuano.zip" -d "./ss-audio/cebuano" && unzip -o "./ss-audio/cebuano/ph.edu.fusterobisaya.apk" -d "./ss-audio/cebuano" && mkdir -p "./ss-audio/pdf/ceb/fustero" && cp ./ss-audio/cebuano/assets/*.pdf ./ss-audio/pdf/ceb/fustero/ || echo "Error: Zip file does not exist."`)
     await executeCommand(`rm -r ./ss-audio/cebuano ./ss-audio/cebuano.zip`)
 
     let files = await executeCommand(`ls -1 ./ss-audio/pdf/ceb/fustero`)
@@ -76,7 +79,6 @@ let checkCebuanoAPK = async function() {
             }
         }
     }
-    console.log(newFiles)
 
     if (newFiles.length) {
         commands += `aws ses send-email --region us-east-1 --to="vitaliy@adventech.io" --subject="Cebuano files" --html="Cebuano files that are uploaded:<br/><br/>${newFiles.join("<br/>")}" --from="vitaliy@adventech.io"\n`
