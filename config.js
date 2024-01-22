@@ -268,6 +268,11 @@ var BIBLE_PARSER_CONFIG = {
     "orov"
   ],
 
+  "pap": [
+    "bpk13"
+  ],
+
+
   "pl": [
     "bw1975"
   ],

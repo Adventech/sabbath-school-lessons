@@ -295,6 +295,27 @@ let germanAudio = async function () {
     )
 }
 
+let papiamentoAudio = async function () {
+    await dailyAudio(
+        "pap",
+        "Les di Sabbatskol",
+        {
+            artist: "Les di Sabbatskol",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            let year = targetQuarter.slice(0, 4)
+            let quarter = targetQuarter.slice(6)
+            return [
+                `https://joycita-adv.nl/media/audio/sabbatskol/${year}/${quarter}/${week}.mp3`,
+                `pap/${targetQuarter}/${String(week).padStart(2, '0')}/01`
+            ]
+        },
+        2,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -305,6 +326,7 @@ let run = async function () {
     await ukrainianAudio();
     await bulgarianAudio();
     await germanAudio();
+    await papiamentoAudio();
 }
 
 run().then(() => {
