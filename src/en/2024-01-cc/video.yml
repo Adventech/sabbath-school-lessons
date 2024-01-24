@@ -13,3 +13,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-04.mp4
           target: en/2024-01-cc/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-04.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-05.mp4
+          target: en/2024-01-cc/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-05.jpg
