@@ -1,1 +1,1 @@
-yt-dlp "https://www.youtube.com/watch?v=VjpDBTcZJBM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2024-01-04.mp4"
+yt-dlp "https://vimeo.com/904269166" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/cc/en-cc-2024-01-05.mp4"
