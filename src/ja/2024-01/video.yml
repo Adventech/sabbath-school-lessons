@@ -26,3 +26,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ja/yok/ja-yok-2024-01-04.mp4
           target: ja/2024-01/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ja/yok/ja-yok-2024-01-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ja/yok/ja-yok-2024-01-05.mp4
+          target: ja/2024-01/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ja/yok/ja-yok-2024-01-05.webp
