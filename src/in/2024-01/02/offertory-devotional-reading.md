@@ -1,6 +1,6 @@
 ---
 title:  Bacaan Persembahan
-date:   26/01/2024
+date:   12/01/2024
 ---
 
 ### Gerja Satu-Orang
