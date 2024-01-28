@@ -75,3 +75,5 @@
           target: es/2024-01/05/07
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-6-SABADO.mp3
           target: es/2024-01/06/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-6-DOMINGO.mp3
+          target: es/2024-01/06/02
