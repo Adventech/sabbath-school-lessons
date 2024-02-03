@@ -39,7 +39,7 @@ Dia menambahkan bahwa dia bisa tidur di kamar untuk pertama kalinya dalam enam t
 
 Twinkle dan suaminya sangat senang dengan berita tersebut.
 
-“Alkitab berjanji, 'Firman-Ku ... tidak akan kembali kepada-Ku dengan sia-sia,' ” kata Twinkle dalam sebuah wawancara, mengutip Yesaya 55:11. “Jadi setiap hari ketika Arnav membaca sebuah ayat, hal itu membawa perubahan positif pada karakternya.”
+“Alkitab berjanji, ‘Firman-Ku ... tidak akan kembali kepada-Ku dengan sia-sia,’ ” kata Twinkle dalam sebuah wawancara, mengutip Yesaya 55:11. “Jadi setiap hari ketika Arnav membaca sebuah ayat, hal itu membawa perubahan positif pada karakternya.”
 
 Sejak proyek kamar tidur pertama itu, pasangan ini telah mendesain ulang banyak ruangan. Mereka selalu berdoa sebelum memulai proyek baru, dan mereka tidak pernah meninggalkan gambar di sebuah ruangan, bahkan sebagai bagian dari dekorasi rumah. Sebaliknya, setiap ruangan dipenuhi dengan ayat-ayat Alkitab. Jika seorang klien bertanya tentang Tuhan, mereka akan menghubungkannya dengan seorang teman yang memberikan pelajaran Alkitab.
 
