@@ -1,5 +1,19 @@
-yt-dlp "https://www.youtube.com/watch?v=zAkQbreaawQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/hope/ja-hope-2024-01-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=sxExw2zY01Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-01-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=PayhMiqGIqY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/tbs/ro-tbs-2024-01-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=7nwdXSk6wqM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2024-01-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=u6U7VGgxwTQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/tbs/de-tbs-2024-01-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=h3UCKGbPBPQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=JE6SlsaqsEE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=7qgLAk9ZH8A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=O1TuK_vfl4Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=a_tZTJULKYo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=wb93d5DTBnk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=iWFZMaF7Z-w" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2024-01-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=W5lljRtc364" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2024-01-06.mp4"
