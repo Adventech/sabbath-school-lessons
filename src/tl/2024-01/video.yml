@@ -19,6 +19,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2024-01-06.mp4
           target: tl/2024-01/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2024-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2024-01-07.mp4
+          target: tl/2024-01/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2024-01-07.webp
     - artist: Solid Rock Ministries
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2024-01-01-upd.mp4
