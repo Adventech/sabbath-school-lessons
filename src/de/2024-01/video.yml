@@ -63,6 +63,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-01-06.mp4
           target: de/2024-01/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-01-07.mp4
+          target: de/2024-01/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-01-07.webp
     - artist: Seminar Schloss Bogenhofen
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-01-01-upd.mp4
