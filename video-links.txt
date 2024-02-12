@@ -1,1 +1,1 @@
-yt-dlp "https://www.youtube.com/watch?v=EhKpJvfRUSI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2024-01-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=7VYtQNSPk8M" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2024-01-07.mp4"
