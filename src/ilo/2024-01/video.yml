@@ -19,3 +19,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-2024-01-06.mp4
           target: ilo/2024-01/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-2024-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-2024-01-07.mp4
+          target: ilo/2024-01/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-2024-01-07.webp
