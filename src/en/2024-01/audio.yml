@@ -325,3 +325,5 @@
           target: en/2024-01/08/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-01/en-egw-2024-01-08-06.mp3
           target: en/2024-01/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-01/en-egw-2024-01-08-07.mp3
+          target: en/2024-01/08/07
