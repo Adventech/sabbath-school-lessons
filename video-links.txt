@@ -1,3 +1,11 @@
+yt-dlp "https://www.youtube.com/watch?v=c9FwMMPIYhM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=pFZskHOUzww" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=0XRg55UxnNI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=wPzaHBzi77A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-01-08.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=r1eR32xJLvo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2024-01-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=IPalFafPg9s" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2024-01-08.mp4"
@@ -9,11 +17,3 @@ yt-dlp "https://www.youtube.com/watch?v=ie2OXua2F5g" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=dxodKlUGJBA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-01-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=46R50OB16kE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-01-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=wPzaHBzi77A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-01-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=pFZskHOUzww" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=0XRg55UxnNI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=c9FwMMPIYhM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-07.mp4"
