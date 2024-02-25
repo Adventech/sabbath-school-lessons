@@ -25,3 +25,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-01-inv-08.mp4
           target: en/2024-01-cq/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-01-inv-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-01-inv-09.mp4
+          target: en/2024-01-cq/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-01-inv-09.webp
