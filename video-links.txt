@@ -1,13 +1,11 @@
-yt-dlp "https://www.youtube.com/watch?v=4xEfaEBrqLs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2024-01-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=c_AI3Jily2Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2024-01-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=5T9FTIT54zw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2024-01-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=jaPKbf0OabA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-01-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=qTmE89fDFVQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2024-01-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=QsLa03zbZtQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-01-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=e0BvOrSTVB4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-01-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=ReXVKBJtFIQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2024-01-inv-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=PRyKwWKIrDc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2024-01-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=a9VdEElFVHo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Gzim2UZ_l-c" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-01-09.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=3_dcLH7n5Uc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-01-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=Fab9Kt--aG8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-01-09.mp4"
