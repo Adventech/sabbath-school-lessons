@@ -15,7 +15,7 @@ const WORKING_DIR = `ss-audio`
 
 let checkCebuanoAPK = async function() {
     let downloadAPK = async function () {
-        let CEBUANO_APK_URL = `https://d.apkpure.net/b/XAPK/ph.edu.fusterobisaya?version=latest`
+        let CEBUANO_APK_URL = `https://d.apkpure.net/b/APK/ph.edu.fusterobisaya?version=latest`
         try {
             const response = await axios({
                 method: 'get',
