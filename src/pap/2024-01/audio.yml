@@ -20,3 +20,5 @@
           target: pap/2024-01/08/01
         - src: https://joycita-adv.nl/media/audio/sabbatskol/2024/1/9.mp3
           target: pap/2024-01/09/01
+        - src: https://joycita-adv.nl/media/audio/sabbatskol/2024/1/10.mp3
+          target: pap/2024-01/10/01
