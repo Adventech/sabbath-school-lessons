@@ -1,0 +1,24 @@
+---
+  title: "Kitab Mazmur"
+  description: "Kitab Mazmur adalah doa dan himne Alkitab yang lebih baik dibandingkan dengan yang lain. Diucapkan dalam pujian, kegembiraan, kesedihan, dan keputusasaan, yang diucapkan atau dinyanyikan secara pribadi dan di depan umum, oleh orang awam, raja, penyair, dan imam, yang berasal dari orang berdosa yang benar dan bertobat, kitab Mazmur telah berfungsi sebagai kitab doa dan penyembahan. Kitab nyanyian rohani untuk generasi orang percaya."
+  human_date: "Januari · Februari · Maret 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Penulis Pelajaran
+      value: "Dragoslava Santrac"
+    - name: Penerjemah
+      value: "Franklin Hutabarat, Martinus Kornelis (Penuntun Guru)"
+    - name: Ketua Yayasan
+      value: "H. Manullang"
+    - name: Ketua Bidang Usaha
+      value: "J. F. Manullang"
+    - name: Pemimpin Redaksi
+      value: "J. Pardede"
+    - name: Redaktur Pelaksana
+      value: "F. Ngantung"
+    - name: Anggota Redaksi
+      value: "S. P. Silalahi, F. Parhusip, A. Tumbal, J. Medellu"

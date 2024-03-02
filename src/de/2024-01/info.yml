@@ -1,0 +1,20 @@
+---
+  title: "Die Psalmen"
+  description: "Die Psalmen sind die Gebete und Hymnen der Bibel par excellence. Ausdruck des Lobes, der Freude, der Trauer und Verzweiflung, gesprochen oder gesungen, privat und öffentlich, von Laien, Königen, Dichtern und Priestern, von Gerechten und reuigen Sündern – die Psalmen haben Generationen von Gläubigen als Gebets- und Gesangbuch gedient."
+  human_date: "Januar · Februar · März 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Dragoslava Santrac"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: Redakteurin
+      value: "Soraya Homayouni"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"

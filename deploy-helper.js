@@ -17,6 +17,14 @@ let getCurrentQuarter = function () {
     return `${d.getFullYear()}-0${quarterIndex}`;
 };
 
+let getCurrentQuarterWithOffset = function (offset) {
+    let d = new Date();
+    d.setDate(d.getDate() + offset);
+    let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
+
+    return `${d.getFullYear()}-0${quarterIndex}`;
+};
+
 let getNextQuarter = function () {
     let d = new Date();
     let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3));
@@ -46,4 +54,4 @@ let getInfoFromPath = function (path) {
     return info;
 };
 
-module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath }
+module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath, getCurrentQuarterWithOffset }

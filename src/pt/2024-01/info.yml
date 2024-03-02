@@ -8,13 +8,21 @@
   color_primary_dark: "#3F2413"
   splash: true
   credits:
-    - name: Autor
+    - name: Autora
       value: "Dragoslava Santrac"
-    - name: Tradutora
-      value: "Fernanda Caroline de Andrade Souza"
+    - name: Tradutores
+      value: "Fernanda Caroline de Andrade Souza e Matheus Cardoso"
     - name: Editor
       value: "André Oliveira Santos"
     - name: Revisoras
-      value: "Rosemara Santos e Adriana Teixeira"
-    - name: Projeto Gráfico
-      value: "André Rodrigues"
+      value: "Rosemara Santos, Esther Fernandes e Adriana Teixeira"
+    - name: Editor de Arte
+      value: "Thiago Lobo"
+    - name: Projeto Gráfico e Capa
+      value: "André Rodrigues e Eduardo Olszewski"
+    - name: Programação Visual
+      value: "Eduardo Olszewski"
+    - name: Ilustração de Capa
+      value: "Thiago Lobo"
+    - name: Ilustrações Internas
+      value: "Alexandre Siqueira"

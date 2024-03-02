@@ -26,3 +26,6 @@
   hant-inv:
     name: "深入人心"
     order: 210
+  hant-cc:
+    name: "房角石"
+    order: 310

@@ -1,3 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=bIo1q8cjgJQ" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2023-04-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=lYpUBSP2fco" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-01-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Ln-KI1A4nbA" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2023-04-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=IJe8zqiIKbY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-10.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=XeHqboQGbFI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2024-01-09.mp4"

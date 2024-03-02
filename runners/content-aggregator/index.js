@@ -8,7 +8,7 @@ let yamljs  = require("js-yaml"),
 
 const DATE_FORMAT = "DD/MM/YYYY"
 
-let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, postCheck) {
+let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, postCheck, insideStoryCheck) {
     let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}/`);
 
     for (let targetQuarter of targetQuarterlies) {
@@ -16,6 +16,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
         let process = async function (date) {
             try {
                 let targetDate = date || moment()
+
                 let infoSource = yamljs.load(fs.readFileSync(`${targetQuarter}/info.yml`), 'utf-8')
                 let startDate = moment(infoSource.start_date, DATE_FORMAT)
                 let endDate = moment(infoSource.end_date, DATE_FORMAT)
@@ -25,6 +26,10 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                 }
 
                 console.log(`Checking ${title} for ${targetDate.format(DATE_FORMAT)}`)
+
+                if (!fs.pathExistsSync(`${targetQuarter}/audio.yml`)) {
+                    return
+                }
 
                 let audioSource = yamljs.load(fs.readFileSync(`${targetQuarter}/audio.yml`), 'utf-8')
 
@@ -41,6 +46,14 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                 }
 
                 let src = srcFunc(targetDate, week, day, quarterlyInfo.quarterly.slice(0, 7))
+
+                let target
+
+                if (Array.isArray(src)) {
+                    target = src[1]
+                    src = src[0]
+                }
+
                 let track = audio.tracks.find(e =>
                     e.target === `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}` ||
                     e.src === src
@@ -60,7 +73,7 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     console.log(`Found ${title} for ${targetDate.format(DATE_FORMAT)}. Will commit`)
                     audio.tracks.push({
                         src: src,
-                        target: `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}`
+                        target: target || `${quarterlyInfo.language}/${quarterlyInfo.quarterly}/${String(week).padStart(2, '0')}/${String(day).padStart(2, '0')}`
                     })
                     fs.outputFileSync(`${targetQuarter}/audio.yml`,
                         yamljs.dump(audioSource, {
@@ -69,7 +82,6 @@ let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, pos
                     );
                 }
             } catch (e) {
-
                 if (e && e.response && e.response.status === 404) {
                     console.log(`${title} file is not found`)
                 }
@@ -157,7 +169,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2023/10/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -172,7 +184,11 @@ let romanianAudio = async function () {
             artist: "Școala de Sabat Audio",
             tracks: []
         },
-        function (targetDate, week, day) {
+        function (targetDate, week, day, targetQuarter) {
+
+            let year = targetQuarter.slice(0, 4)
+            let quarter = targetQuarter.slice(6)
+
             let mapping = [
                 "introducere",
                 "duminica",
@@ -183,7 +199,10 @@ let romanianAudio = async function () {
                 "vineri"
             ]
 
-            return `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2023/trim4/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}_${mapping[day-1]}.mp3`
+            return [
+                `http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/${year}/trim${quarter}/st${String(week).padStart(2, '0')}/st${String(week).padStart(2, '0')}.mp3`,
+                `ro/${targetQuarter}/${String(week).padStart(2, '0')}/01`
+            ]
         },
         2,
         7
@@ -198,7 +217,10 @@ let czechAudio = async function () {
             artist: "Průvodce studiem Bible",
             tracks: []
         },
-        function (targetDate, week, day) {
+        function (targetDate, week, day, targetQuarter) {
+            let year = targetQuarter.slice(0, 4)
+            let quarter = targetQuarter.slice(6)
+
             let mapping = [
                 "1",
                 "2",
@@ -210,7 +232,7 @@ let czechAudio = async function () {
                 "inside-story"
             ]
 
-            return `https://radvanice.casd.cz/sobotniskola/audio/2023_Q4/2023_Q4_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
+            return `https://radvanice.casd.cz/sobotniskola/audio/${year}_Q${quarter}/${year}_Q${quarter}_${String(week).padStart(2, '0')}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -233,6 +255,67 @@ let ukrainianAudio = async function () {
     )
 }
 
+let bulgarianAudio = async function () {
+    await dailyAudio(
+        "bg",
+        "Съботно училище",
+        {
+            artist: "Съботно училище",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            let year = targetQuarter.slice(0, 4)
+            let quarter = targetQuarter.slice(6)
+            return [
+                `https://web.3-16.bg/lessons/${year}_Q${quarter}/${year}_Q${quarter}_Lesson_${week}.mp3`,
+                `bg/${targetQuarter}/${String(week).padStart(2, '0')}/01`
+            ]
+        },
+        2,
+        7
+    )
+}
+
+let germanAudio = async function () {
+    await dailyAudio(
+        "de",
+        "Seminar Schloss Bogenhofen",
+        {
+            artist: "Seminar Schloss Bogenhofen",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            return [
+                `https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/${targetQuarter}/de-bh-${targetQuarter}-${String(week).padStart(2, '0')}.mp3`,
+                `de/${targetQuarter}/${String(week).padStart(2, '0')}/01`
+            ]
+        },
+        2,
+        7
+    )
+}
+
+let papiamentoAudio = async function () {
+    await dailyAudio(
+        "pap",
+        "Les di Sabbatskol",
+        {
+            artist: "Les di Sabbatskol",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            let year = targetQuarter.slice(0, 4)
+            let quarter = targetQuarter.slice(6)
+            return [
+                `https://joycita-adv.nl/media/audio/sabbatskol/${year}/${quarter}/${week}.mp3`,
+                `pap/${targetQuarter}/${String(week).padStart(2, '0')}/01`
+            ]
+        },
+        2,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -241,6 +324,9 @@ let run = async function () {
     await hungarianAudio();
     await czechAudio();
     await ukrainianAudio();
+    await bulgarianAudio();
+    await germanAudio();
+    await papiamentoAudio();
 }
 
 run().then(() => {

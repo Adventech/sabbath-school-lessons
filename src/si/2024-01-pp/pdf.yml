@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-Intro.pdf'
+      target: si/2024-01-pp/introduction
+      title: හැදින්වීම
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-01.pdf'
+      target: si/2024-01-pp/01
+      title: පිරිමි ළමයා සහ බැටළුවා
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-02.pdf'
+      target: si/2024-01-pp/02
+      title: යෝධයා සහ පර්වතය
+      start_date: 06/01/2024
+      end_date: 12/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-03.pdf'
+      target: si/2024-01-pp/03
+      title: කිසිවක් නොකරන්නත නිකම් සිටගෙන ඉන්න!
+      start_date: 13/01/2024
+      end_date: 19/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-04.pdf'
+      target: si/2024-01-pp/04
+      title: කුණාටුවක් වැනි දෙවි කෙනෙකුට වඩා යමක්
+      start_date: 20/01/2024
+      end_date: 26/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-05.pdf'
+      target: si/2024-01-pp/05
+      title: යාච්ඤාවට වඩා පරෙවියන්
+      start_date: 27/01/2024
+      end_date: 02/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-06.pdf'
+      target: si/2024-01-pp/06
+      title: උන්වහන්සේව ඔබ දැන් දකීත දැන් නොදකී
+      start_date: 03/02/2024
+      end_date: 09/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-07.pdf'
+      target: si/2024-01-pp/07
+      title: නමස්කාර කිරීමේ ක්‍රමයක්!
+      start_date: 10/02/2024
+      end_date: 16/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-08.pdf'
+      target: si/2024-01-pp/08
+      title: යේසුස් වහන්සේ පිපාසා වූ විට
+      start_date: 17/02/2024
+      end_date: 23/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-09.pdf'
+      target: si/2024-01-pp/09
+      title: යේසුස් වහන්සේ පිපාසා වූ විට
+      start_date: 24/02/2024
+      end_date: 01/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-10.pdf'
+      target: si/2024-01-pp/10
+      title: රහස් පහරදීම
+      start_date: 02/03/2024
+      end_date: 08/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-11.pdf'
+      target: si/2024-01-pp/11
+      title: මිනීමැරීමද, පිළිවෙලද?
+      start_date: 09/03/2024
+      end_date: 15/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-12.pdf'
+      target: si/2024-01-pp/12
+      title: රැවටිල්ලේ මරණය
+      start_date: 16/03/2024
+      end_date: 22/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-01/ABSG-2024-01-SI-PP-13.pdf'
+      target: si/2024-01-pp/13
+      title: සොයාගෙන සමාව දෙනු ලැබීම
+      start_date: 23/03/2024
+      end_date: 29/03/2024

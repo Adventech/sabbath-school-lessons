@@ -2,6 +2,9 @@ var BIBLE_PARSER_CONFIG = {
   "am": [
     "nasv"
   ],
+  "as": [
+    "irv"
+  ],
   "af": [
     "afr83",
     "afr1953"
@@ -265,6 +268,11 @@ var BIBLE_PARSER_CONFIG = {
     "orov"
   ],
 
+  "pap": [
+    "bpk13"
+  ],
+
+
   "pl": [
     "bw1975"
   ],
@@ -351,7 +359,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "uk": [
-    "ukr"
+    "ukr",
+     "cuv"
   ],
 
   "zh": [
@@ -368,8 +377,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
   "zu": [
     "zul59"
-  ]
-
+  ],
+  "tw": ["asw"]
 };
 
 module.exports = BIBLE_PARSER_CONFIG;

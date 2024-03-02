@@ -19,43 +19,97 @@ There are many references in the Psalter to Christ’s deity and His ministry on
 
 **Jesus Is the Yahweh of the Old Testament—He Is God!**
 
-| Prophecy | Psalm | New Testament Application |
-| --- | --- | --- |
-| Jesus should be worshiped. | Ps. 97:7 | Heb. 1:6 |
-| Jesus, as God, receives honors. | Ps. 45:6, 7 | Heb. 1:8, 9 |
-| Jesus is Creator and is eternal. | Ps. 102:25–27 | Heb. 1:10–12 |
-| Jesus is the Son of God. | Ps. 2:7 | Acts 13:33, Heb. 1:5, Heb. 5:5 |
+**Prophecy: Jesus should be worshiped.**
+- Psalm: Ps. 97:7
+- New Testament Application: Heb. 1:6
+
+**Prophecy: Jesus, as God, receives honors.**
+- Psalm: Ps. 45:6, 7
+- New Testament Application: Heb. 1:8, 9
+
+**Prophecy: Jesus is Creator and is eternal.**
+- Psalm: Ps. 102:25-27
+- New Testament Application: Heb. 1:10-12
+
+**Prophecy: Jesus is the Son of God.**
+- Psalm: Ps. 2:7
+- New Testament Application: Acts 13:33, Heb. 1:5, Heb. 5:5
 
 The divinity of Jesus is an important topic for New Testament writers as it should be for us, too. In the table on the previous page, we can see the passages from the Psalms, referring to Yahweh’s divinity, that Paul and Luke apply to Jesus. Jesus’ divinity makes His sacrifice both singular and powerful; that is, the One who died on the cross to redeem us was the Creator Himself. What a profound thought! We will never fully fathom its sublime depths in all of its dimensions, now or throughout the endless ages of eternity, though seeking to contemplate and internalize its beautiful truths will, nonetheless, transform our hearts.
 
 **The Life and Ministry of Jesus**
 
-| Prophecy | Psalm | New Testament Application |
-| --- | --- | --- |
-| Jesus’ incarnation and complete offering | Ps. 40:6–10 | Heb. 10:5–7 |
-| Zeal for God’s house shall consume Jesus. | Ps. 69:9 | John 2:17 |
-| Jesus shall open His mouth in a parable. | Ps. 78:2 | Matt. 13:35 |
-| Jesus shall feed the people with the bread of heaven. | Ps. 78:24 | John 6:31 |
-| Jesus is the cornerstone. | Ps. 118:22 | Matt. 21:42, Mark 12:10–11, Luke 20:17 |
-| Children shall praise Jesus’ works in the temple. | Ps. 8:2 | Matt. 21:16 |
+**Prophecy: Jesus’ incarnation and complete offering**
+- Psalm: Ps. 40:6-10
+- New Testament Application: Heb. 10:5-7
+
+**Prophecy: Zeal for God’s house shall consume Jesus.**
+- Psalm: Ps. 69:9
+- New Testament Application: John 2:17
+
+**Prophecy: Jesus shall open His mouth in a parable.**
+- Psalm: Ps. 78:2
+- New Testament Application: Matt. 13:35
+
+**Prophecy: Jesus shall feed the people with the bread of heaven.**
+- Psalm: Ps. 78:24
+- New Testament Application: John 6:31
+
+**Prophecy: Jesus is the cornerstone.**
+- Psalm: Ps. 118:22
+- New Testament Application: Matt. 21:42, Mark 12:10-11, Luke 20:17
+
+**Prophecy: Children shall praise Jesus’ works in the temple.**
+- Psalm: Ps. 8:2
+- New Testament Application: Matt. 21:16
 
 The writers of the Gospels and of the New Testament understood that particular passages from the Old Testament, such as certain Psalms, proclaimed the ministry of Jesus. On account of the numerous citations in the New Testament from the Psalter, one arguably could say that the Psalms was the favorite book of the New Testament authors. The New Testament writers used the Psalms to affirm that the prophets foretold the significant events of Jesus’ ministry on earth, as highlighted by six of these events in the table above.
 
 **Jesus’ Suffering and Passion**
 
-| Prophecy | Psalm | New Testament Application |
-| --- | --- | --- |
-| Jesus is betrayed by a close associate. | Ps. 41:9 | John 13:18 |
-| His enemies give Him gall and vinegar to drink when He thirsts. | Ps. 69:21 | Matt. 27:34, 48 |
-| He is forsaken by God. | Ps. 22:1 | Matt. 27:46, Mark 15:34 |
-| Jesus is mocked. | Ps. 22:7 | Matt. 27:39, Luke 23:35 |
-| His enemies shaked their heads at Him. | Ps. 109:25 | Matt. 27:39 |
-| They defy Jesus’ faith. | Ps. 22:8 | Matt. 27:43 |
-| They divide His garments. | Ps. 22:18 | Matt. 27:35, Mark 15:24 |
-| Jesus becomes a reproach to His friends. | Ps. 88:8 | Luke 23:49 |
-| Jesus utters His last words. | Ps. 31:5 | Luke 23:46 |
-| His bones are not broken. | Ps. 34:20 | John 19:36 |
-| His body will not decay in the grave. | Ps. 16:8–11 | Acts 2:25–28, Acts 13:35 |
+**Prophecy: Jesus is betrayed by a close associate.**
+- Psalm: Ps. 41:9
+- New Testament Application: John 13:18
+
+**Prophecy: His enemies give Him gall and vinegar to drink when He thirsts.**
+- Psalm: Ps. 69:21
+- New Testament Application: Matt. 27:34, 48
+
+**Prophecy: He is forsaken by God.**
+- Psalm: Ps. 22:1
+- New Testament Application: Matt. 27:46, Mark 15:34
+
+**Prophecy: Jesus is mocked.**
+- Psalm: Ps. 22:7
+- New Testament Application: Matt. 27:39, Luke 23:35
+
+**Prophecy: His enemies shaked their heads at Him.**
+- Psalm: Ps. 109:25
+- New Testament Application: Matt. 27:39
+
+**Prophecy: They defy Jesus’ faith.**
+- Psalm: Ps. 22:8
+- New Testament Application: Matt. 27:43
+
+**Prophecy: They divide His garments.**
+- Psalm: Ps. 22:18
+- New Testament Application: Matt. 27:35, Mark 15:24
+
+**Prophecy: Jesus becomes a reproach to His friends.**
+- Psalm: Ps. 88:8
+- New Testament Application: Luke 23:49
+
+**Prophecy: Jesus utters His last words.**
+- Psalm: Ps. 31:5
+- New Testament Application: Luke 23:46
+
+**Prophecy: His bones are not broken.**
+- Psalm: Ps. 34:20
+- New Testament Application: John 19:36
+
+**Prophecy: His body will not decay in the grave.**
+- Psalm: Ps. 16:8-11
+- New Testament Application: Acts 2:25-28, Acts 13:35
 
 The apostles sought to furnish scriptural evidence in support of the suffering and death of Jesus as an event predicted in detail in the Old Testament. (Keep in mind that we are working here with scriptural evidence based only on the Psalter. Of course, much more evidence in favor of the suffering of Christ can be found in the Old Testament, especially in the book of Isaiah.)
 
@@ -63,15 +117,27 @@ The accumulation of scriptural evidence from the Psalms validates the factualnes
 
 **Jesus’ Exaltation After His Resurrection**
 
-| Prophecy | Psalm | New Testament Application |
-| --- | --- | --- |
-| The Messiah sits at the right hand of the Lord. | Ps. 110:1 | Matt. 22:34, Mark 12:36, Luke 20:42, Acts 2:34 |
-| A descendant from David will be on David’s throne. | Ps. 132:11 | Acts 2:30 |
-| Jesus rules the nations. | Ps. 2:1, 2 | Acts 4:25, 26 |
-| Jesus is a priest according to the order of Melchizedek. | Ps. 110:1 | Heb. 5:6, 10; Heb. 6:20; Heb. 7:17, 21|
-| Jesus led captivity captive. | Ps. 68:18 | Eph. 4:7, 8 |
+**Prophecy: The Messiah sits at the right hand of the Lord.**
+- Psalm: Ps. 110:1
+- New Testament Application: Matt. 22:34, Mark 12:36, Luke 20:42, Acts 2:34
 
-Jesus’ ministry of atonement in heaven is of no less importance than the atoning sacrifice He accomplished on Mount Calvary. Thus, it’s no coincidence that, among New Testament writers, Psalm 110 is the most quoted, or alluded to, passage from the Old Testament. Case in point, Psalm 110:1 is used 17 times in the New Testament: Matthew 22:44; Matthew 26:44; Mark 12:36; Mark 16:19; Luke 20:42–43; Luke 22:69; Acts 2:34, 35; 1 Corinthians 15:25; Ephesians 1:20; Colossians 3:1; Hebrews 1:3, 13; Hebrews 8:1; Hebrews 10:12, 13; Hebrews 12:2; Colossians 3:1; while Psalm 110:4 is quoted a total of four times: Hebrews 5:6; Hebrews 6:20; Hebrews 7:17, 21.
+**Prophecy: A descendant from David will be on David’s throne.**
+- Psalm: Ps. 132:11
+- New Testament Application: Acts 2:30
+
+**Prophecy: Jesus rules the nations.**
+- Psalm: Ps. 2:1, 2
+- New Testament Application: Acts 4:25, 26
+
+**Prophecy: Jesus is a priest according to the order of Melchizedek.**
+- Psalm: Ps. 110:1
+- New Testament Application: Heb. 5:6, 10; Heb. 6:20; Heb. 7:17, 21
+
+**Prophecy: Jesus led captivity captive.**
+- Psalm: Ps. 68:18
+- New Testament Application: Eph. 4:7, 8
+
+Jesus’ ministry of atonement in heaven is of no less importance than the atoning sacrifice He accomplished on Mount Calvary. Thus, it’s no coincidence that, among New Testament writers, Psalm 110 is the most quoted, or alluded to, passage from the Old Testament. Case in point, Psalm 110:1 is used 17 times in the New Testament: Matthew 22:44; Matthew 26:44; Mark 12:36; Mark 16:19; Luke 20:42-43; Luke 22:69; Acts 2:34, 35; 1 Corinthians 15:25; Ephesians 1:20; Colossians 3:1; Hebrews 1:3, 13; Hebrews 8:1; Hebrews 10:12, 13; Hebrews 12:2; Colossians 3:1; while Psalm 110:4 is quoted a total of four times: Hebrews 5:6; Hebrews 6:20; Hebrews 7:17, 21.
 
 The heavenly ministry of Jesus, along with our understanding of His work on our behalf, is central to our daily spiritual experience as Christians. Hebrews states with confidence: “This hope we have as an anchor of the soul, both sure and steadfast, and which enters the Presence behind the veil, where the forerunner has entered for us, even Jesus, having become High Priest forever according to the order of Melchizedek” (Heb. 6:19, 20, NKJV, where it quotes the end of Psalm 110:4).
 
@@ -92,9 +158,9 @@ As these examples show, the God of the Psalms is the Messiah revealed in the New
 
 **The Messianic Tone of Psalm 24**
 
-Some psalms allude to certain Messianic events or pictures. Psalm 24 is one such psalm. Verses 1–6 relate back to Psalm 15, given their thematic similarity. Psalm 24 also provides insight into the identity of the ones who are permitted to go into the Holy Place, or God’s holy hill.
+Some psalms allude to certain Messianic events or pictures. Psalm 24 is one such psalm. Verses 1-6 relate back to Psalm 15, given their thematic similarity. Psalm 24 also provides insight into the identity of the ones who are permitted to go into the Holy Place, or God’s holy hill.
 
-In verses 7–10, the psalm assumes a Messianic tone. It describes the Lord entering a holy city. Many commentators, one of whom is Ellen G. White, apply this section to Jesus’ ascension to heaven (see _Early Writings_, pp. 190–192). These verses are a joyful depiction of the entrance of Jesus into the celestial kingdom amidst the singing of the angels, who proclaim Him the “King of glory” and “the Lord strong and mighty, the Lord mighty in battle” (Ps. 24:8, NKJV). This scene is a representation in miniature of the grand event in the future when all the redeemed will enter through the gates of the Holy City.
+In verses 7-10, the psalm assumes a Messianic tone. It describes the Lord entering a holy city. Many commentators, one of whom is Ellen G. White, apply this section to Jesus’ ascension to heaven (see _Early Writings_, pp. 190-192). These verses are a joyful depiction of the entrance of Jesus into the celestial kingdom amidst the singing of the angels, who proclaim Him the “King of glory” and “the Lord strong and mighty, the Lord mighty in battle” (Ps. 24:8, NKJV). This scene is a representation in miniature of the grand event in the future when all the redeemed will enter through the gates of the Holy City.
 
 #### Part III: Life Application
 
