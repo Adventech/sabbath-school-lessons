@@ -28,3 +28,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-01-09.mp4
           target: zh/2024-01/09
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-01-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-01-10.mp4
+          target: zh/2024-01/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-01-10.webp
