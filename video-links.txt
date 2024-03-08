@@ -11,3 +11,5 @@ yt-dlp "https://www.youtube.com/watch?v=heirz0zsG-k" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=5o9-WonCS9k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=QewIiHOO_ec" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-11.mp4"
+
+yt-dlp "https://vimeo.com/915337824" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/cc/en-cc-2024-01-10.mp4"
