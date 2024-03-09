@@ -49,6 +49,8 @@ jobs:
       - name: Aggregate video
         run: node ./runners/content-aggregator/video.js
       - run: rm package-lock.json
+      - name: Reset .npmrc
+        run: git restore .npmrc
       - name: Commit & Push changes
         uses: actions-js/push@v1.3
         with:

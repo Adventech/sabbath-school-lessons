@@ -64,6 +64,8 @@ jobs:
     - name: Aggregate audio
       run: node ./runners/content-aggregator/index.js
     - run: rm package-lock.json
+    - name: Reset .npmrc
+      run: git restore .npmrc
     - name: Commit & Push changes
       uses: actions-js/push@v1.3
       with:
