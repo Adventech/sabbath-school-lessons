@@ -10,13 +10,31 @@ yt-dlp "https://vimeo.com/915337824" -S vcodec:h264,res:1080,acodec:m4a --no-ove
 
 yt-dlp "https://www.youtube.com/watch?v=IVIFYWLMnUI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-01-10.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=_11S9xblSyw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=AGT2k5OWv2g" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=5d_JQncY2_U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=TWfwOwPWGWE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2024-01-inv-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=ktl-c0GtEPs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=8WdeXeeOWZA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=26JLUosvxj8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=hvMN_4lu570" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=5gRZg4h-3D0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2024-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=0pdzBYfm8Ec" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2024-01-11.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=heirz0zsG-k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=5o9-WonCS9k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=QewIiHOO_ec" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=_11S9xblSyw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-01-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=eBqRrDVfViw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2024-01-11.mp4"
 
