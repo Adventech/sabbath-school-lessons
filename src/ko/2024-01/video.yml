@@ -31,6 +31,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2024-01-10.mp4
           target: ko/2024-01/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2024-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2024-01-11.mp4
+          target: ko/2024-01/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2024-01-12.mp4
+          target: ko/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/dsn/ko-dsn-2024-01-12.webp
     - artist: ABN 재림방송
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2024-01-01-upd.mp4
@@ -63,3 +69,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2024-01-10.mp4
           target: ko/2024-01/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2024-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2024-01-11.mp4
+          target: ko/2024-01/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ko/abn/ko-abn-2024-01-11.webp
