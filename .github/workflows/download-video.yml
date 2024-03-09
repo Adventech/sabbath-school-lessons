@@ -18,16 +18,19 @@ jobs:
       - uses: actions/checkout@v2
       - name: Create work dir folder
         run: mkdir ss-video
-      - name: Download videos
-        shell: bash
-        working-directory: ss-video
-        run: bash ../video-links.txt
-      - name: Upload
-        working-directory: ss-video
-        run: aws s3 cp . s3://sabbath-school-media-tmp --region us-east-1 --acl "public-read" --recursive
+      - name: Split video-links
+        run: split -l 14 video-links.txt split_video_links_
+      - run: |
+          test -f ../split_video_links_aa && for file in ../split_video_links_*; do
+              echo "Processing $file..."
+              bash "$file"
+              aws s3 cp . s3://sabbath-school-media-tmp --region us-east-1 --acl "public-read" --recursive
+              rm -rf ./*
+          done || true
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        working-directory: ss-video
   aggregate-video:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     needs: download-video
