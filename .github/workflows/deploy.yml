@@ -45,6 +45,8 @@ jobs:
         with:
           node-version: '16'
           check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
       - run: node deploy -b ${{ steps.extract_branch.outputs.branch }}
       - name: Web deploy
@@ -88,6 +90,8 @@ jobs:
         with:
           node-version: '16'
           check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
       - run: node deploy -b ${{ steps.extract_branch.outputs.branch }} -v 2
       - name: Web deploy
