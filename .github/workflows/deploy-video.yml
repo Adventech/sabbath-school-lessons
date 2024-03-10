@@ -26,6 +26,8 @@ jobs:
         with:
           node-version: '16'
           check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
       - run: mkdir video
       - name: Sync from cloud
