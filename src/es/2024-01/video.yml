@@ -99,3 +99,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-01-10.mp4
           target: es/2024-01/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-01-11.mp4
+          target: es/2024-01/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-01-11.webp
