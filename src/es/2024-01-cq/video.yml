@@ -1,0 +1,33 @@
+---
+  video:
+    - artist: Juventud Adventista de España
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-01-upd.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-02-upd.mp4
+          target: es/2024-01-cq/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-04.mp4
+          target: es/2024-01-cq/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-05.mp4
+          target: es/2024-01-cq/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-06.mp4
+          target: es/2024-01-cq/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-07.mp4
+          target: es/2024-01-cq/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-08.mp4
+          target: es/2024-01-cq/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-09.mp4
+          target: es/2024-01-cq/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-10.mp4
+          target: es/2024-01-cq/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-11.mp4
+          target: es/2024-01-cq/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/inv/es-2024-01-inv-11.webp

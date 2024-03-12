@@ -1,0 +1,28 @@
+---
+  title: "سِفرالمزامير"
+  description: "إنَّ سِفر المزامير هو السِّفر الذي يدوِّن ترانيم الكتاب المقدَّس وصلواته بامتياز. وإذ ينطق بكلمات هذا السِّفر الملوكُ والشعراءُ والكهنةُ وعامَّةُ الناس مِن الصالحين والخطاة التائبين في السرِّ والعلن وقتَ الحمد والفرح والحزن واليأس، يبقى سفر المزامير كتاب الصلاة والترانيم في كلمة الله على مدى أجيال عديدة مِن المؤمنين."
+  human_date: "يناير · فبراير · مارس 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Dragoslava Santrac"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Homayouni"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
+    - name: Managing Director
+      value: "Jean-Jack Kareh"
+    - name: Translation to Arabic
+      value: "Joulian Kebbas"
+    - name: Publishing Resources Manager
+      value: "Ashraf Fawzy"
+    - name: Arabic Layout and Design
+      value: "Joanna Touma"

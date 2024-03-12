@@ -1,0 +1,14 @@
+---
+  title: "El libro de Salmos"
+  description: "El libro de Salmos contiene las oraciones y los himnos bíblicos por excelencia. Pronunciados desde la alabanza, el gozo, el dolor y la desesperación, recitados o cantados en secreto y en público, por laicos, reyes, poetas y sacerdotes, procedentes tanto de justos como de pecadores arrepentidos, Salmos ha servido de devocionario y de himnario a generaciones de creyentes."
+  human_date: "Enero · Febrero · Marzo 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#0F2D1F"
+  color_primary_dark: "#02160C"
+  splash: true
+  credits:
+    - name: Autores
+      value: "Dragoslava Santrac"
+    - name: Dirección general
+      value: "James Howard"

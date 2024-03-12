@@ -1,0 +1,72 @@
+---
+title:  Komento ng guro
+date:   29/03/2024
+---
+
+### Unang Bahagi: Pangkalahatang-Ideya
+
+Pangunahing Teksto: Awit 27:14
+
+Ang konsepto ng paghihintay sa aklat ng Mga Awit ay tumutukoy sa pagkakaroon at pagpapakita ng matibay na pananampalataya. Tinatawag ang mga mananampalatayang maghintay sa Panginoon para sa pagtupad ng Kanyang mga pangako, tulad ng pagtawag sa paghihintay kay Abraham at kay Sarah para sa pagpapala ng pangakong anak (Genesis 12:1-4, Genesis 21:1-5), na sa wakas ay binigyan pagkatapos ng 25 taon. Gayundin, naghintay ang Israel ng kaligtasan, na tumagal ng 430 taon sa Ehipto bago lumisan patungo sa Lupang Pangako (Genesis 15:13; Exodo 12:40, 41). Gayundin, ang mga salmistang, may matibay na pananampalataya, ay nagtitiwala sa mga pangako ng Diyos, tulad ni Daniel, na sa pagtupad sa propesiya ni Jeremias ng 70 taon (Jeremias 29:10, 11), naghihintay para sa pagbabalik ng mga Judio sa Lupang Pangako (Daniel 9:1, 2). Naghintay rin ang mga Judio ng daang taon para sa pangakong Mesiyas, hanggang sa marating ang kaganapan ng panahon, at dumating si Jesus sa mundo bilang tao.
+
+Ang paghihintay ay binubuo ng dalawang bahagi: (1) ang pag-aabang sa pagtupad ng pangako, at (2) ang pag-asa na ang ipinangakong bagay ay matutupad sa loob ng tiyak na panahon o bago magtapos ang isang partikular na panahon. Sa buhay, kapag naghihintay tayo, aktibong inaasahan natin ang isang kaganapang darating, kung naghihintay tayo ng bagong trabaho, isang malapit na kasal, ang pagkapanganak ng sanggol, pagkumpleto ng akademikong antas, darating na paglalakbay, isang bagong pagtatalaga, atbp. Kailangan lumipas ng isang panahon mula sa pag-aasam ng kaganapan ng isang pangyayari hanggang sa pagkakatupad nito. Ganito rin ang nangyayari sa mga pangako ng Diyos sa ating pang-araw-araw na buhay, pati na rin sa pangwakas na pagkakatupad ng mga mahahalagang pangyayari sa plano ng Kaligtasan.
+
+### Ikalawang Bahagi: Komentaryo
+
+May anim na mga salitang Hebreo o mga pandiwang ginagamit ng mga salmista kapag nais nilang maipahayag ang mga hamon sa paghihintay. Pag-aaralan natin ang bawat isa ng maikli.
+
+**_Qawah_**
+
+Ang _qawah_ ay ang pinakakaraniwang salitang Hebreong ginagamit upang maipahayag ang konsepto ng “pag-asa,” na maaari ring maipahayag sa pamamagitan ng pandiwang “maghintay,” “mag-antay,” “mag-asam.” Sa mga 20 beses na ginamit ang salitang _qawah_ sa aklat ng Mga Awit, ang Panginoon ang paksa o ang pinakahihintay: “Huwag nawang mapahiya ang lahat ng sa Iyo’y naghihintay” (Awit 25:3; tingnan din ang Awit 69:6); “Nawa’y maingatan ako ng katapatan at katuwiran, sapagkat sa Iyo ako’y naghihintay” (Awit 25:21); “Sa Diyos lamang naghihintay nang tahimik ang aking kaluluwa, sapagkat ang aking pag-asa ay mula sa Kanya” (Awit 62:5). Tulad ng ipinapakita ng mga talatang ito, dapat laging nakatutok ang ating tiwala sa Panginoon.
+
+Ang salitang pangngalan na “pag-asa” (Hebreo, tiqvah) ay nagmumula rin sa pandiwang _qawah_: “Sapagkat Ikaw ang aking pag-asa, O Panginoong Diyos, Ikaw ay aking tiwala mula sa aking kabataan” (Awit 71:5). Para sa mga salmista, ang tanging pag-asa natin sa buhay na ito ay nasa Diyos lamang. Pagkatapos isaalang-alang kung gaano kadaling maglaho ang buhay na ito, sumisigaw ang salmista sa Panginoon, “Ang aking pag-asa ay nasa Iyo” (Awit 39:7).
+
+Maaari ring gamitin ang pandiwang _qawah_ sa negatibong kahulugan, tulad ng paghihintay sa pagkawasak ng bayan ng Diyos sa kamay ng kalaban (Awit 56:6, Awit 119:95). Ang negatibong paggamit ng salitang ito ay nagpapaalala sa atin, bilang mga makasalanan, na ang ating pag-asa ay madalas nakatuon sa pag-aabang ng isang masamang kahihinatnan. Upang maiwasan ang ganitong pagkakataon, ang ating mga inaasahan ay dapat manggagaling sa mga pusong binago ng Banal na Espiritu.
+
+**_Yahal_**
+
+Ang _yahal_ ay nangangahulugang “maghintay, umasa, magtiis, at maghangad.” Matapos ang _qawah_, ito ang pangalawang pinakakaraniwang pandiwa sa Lumang Tipan na ginagamit upang maipahayag ang pag-asa. Sa mga 48 beses na ginamit ito, 21 sa mga insidente ay nangyari sa aklat ng Mga Awit. Karaniwan nang iniuugnay ang _yahal_ sa _qawah_ (Job 30:26, Awit 39:8, Awit 130:5, Kawikaan 10:28, Kawikaan 11:7, Isaias 51:5).
+
+Sa aklat ng Job, karaniwan nang ginagamit ang _yahal_ sa pag-asa na walang kabuluhan o tila walang saysay, at kaya’t hindi konektado sa Diyos (Job 6:11, Job 14:14, Job 29:21). Ngunit hindi ganito ang nangyayari sa aklat ng Mga Awit. Ang Diyos ang malinaw na paksa ng pag-asa na nanggagaling sa _yahal_, tulad ng ipinakikita sa: Awit 31:24, “kayong lahat na umaasa sa Panginoon;” Awit 33:22, “kung paanong kami ay umaasa sa Iyo”; Awit 38:15, “ngunit sa Iyo ako naghihintay;” Awit 39:7, “ang aking pag-asa ay nasa Iyo;” Awit 42:11, “umasa ka sa Diyos;” and Awit 69:3, “ang mga mata ko’y lumalabo sa kahihintay sa aking Diyos.” Ang ating Lumikha ay karapat-dapat ng ating buong tiwala. Ang ating pagtitiwala sa Kanyang katapatan at pag-ibig ay ang pundasyon ng lahat ng tunay na relihiyon, at ang batayan ng relasyon sa pagitan ng Diyos at ng mga tao. Ang relasyong ito ay batay sa Kanyang awa at sa Kanyang magandang-loob, na ibinibigay Niya sa mga nagtitiwala sa Kanya (Awit 33:18, Awit 147:11).
+
+Sa liwanag ng mga nabanggit na katotohanan sa Biblia, nakakabuting ibaling natin muli ang ating pansin sa Awit 119. Tulad ng sinasabi ng salmong ito, ang paksa ng pag-asa ay ang Salita ng Diyos (Awit 119:43, 49, 74, 81, 114, 147). Bukod dito, ang mga salita mula sa bibig ng Diyos, na nakatala sa mga Banal na Kasulatan, ang tanging tunay na pundasyon ng pananampalatayang Kristiyano. Sa loob ng mga pahina at pangako ng mga Kasulatan, matatagpuan ng Kristiyano ang katiyakan ng kanyang pag-asa at kaligtasan. Ang kaaway ay lubos na nakakaalam sa katotohanang ito at ginawa ang Biblia bilang espesyal na pokus ng kanyang mga atake, na nagtatangkang lituhin ang paniniwala ng mga mananampalataya o lansagin sila sa pag-aakalang ang Kasulatan ay pawang kathang-isip lamang na imbento ng mga tao. Ang lahat ng ebidensyang nakikita natin bilang suporta sa Biblia, ang kanyang kapangyarihang magbago ng buhay, ang mga natupad na propesiya at mga kahanga-hangang pangako nito, ay dapat mag-udyok sa ating sumama sa salmistang nagsasabing, “At sa kanyang salita ako ay umaasa” (Awit 130:5). Sa lahat ng bagay, ang ating pansin ay dapat nakatuon sa mga Kasulatan bilang pinagmumulan ng lahat ng ating pag-asa.
+
+**_Hakah_**
+
+Ang salitang _hakah_ ay nangangahulugang “maghintay, magtiis, umasa, at maghintay ng may pag-asa.” Katulad ng nakaraang pandiwa na _yahal_, karaniwan nang tumutukoy ang paksa ng _hakah_ sa Diyos (Isaias 8:17, Isaias 30:18, Isaias 64:3, Sefanias 3:8).
+
+Ang _hakah_ ay ginagamit lamang ng dalawang beses sa Aklat ng mga Awit. Ang unang paggamit nito ay matatagpuan sa Awit 33:20, isang awit na nagpaparangal sa Lumikha at Tagapagpanatili ng mundo (Awit 33:1-11). Ang Awit 33:12 ang pangunahing taludtod ng awit na ito, na nagpapahayag ng pagpili ng Panginoon sa Kanyang bayan. Ang pagpiling ito ang pundasyon ng tiwala ng mga mananampalataya sa Diyos. Sa kabila nito, hindi natin dapat asahan ang lakas ng mga armas, sandata, o mga mandirigma (Awit 33:16, 17). Nagpapahayag ang salmista, “Naghihintay sa Panginoon ang aming kaluluwa; siya ang aming saklolo at panangga” (Awit 33:20). Bilang mga taong nabubuhay sa isang sekyular, materyalistikong kultura, madalas tayong nagtitiwala sa ating pera, kakayahan at mga diploma, sa agham, o sa ating bansa; ngunit bilang mga Kristiyano, dapat lamang na ang ating tiwala ay nakatutok sa Panginoon.
+
+Ang gamit ng pandiwa sa Awit 106, ay nagpapakita ng kakulangan ng pasensya at matiyagang espiritu. Ang Awit 106 ay isang kasaysayang tulad ng nakita natin sa nakaraang aralin. Sa Awit 106:6, binabalikan ng sumulat ang mga himala ng Diyos para sa Kanyang bayan sa panahon ng Pag-alis at sa kanilang paglalakbay sa ilang. Ngunit ang bayan ng Diyos ay “agad nilang nalimutan ang Kanyang mga gawa; hindi nila hinintay (hkah) ang Kanyang payo” (Awit 106:13). Sa kasalukuyan, nakakapagharap din tayo sa parehong malaking tukso. Madalas nating nakakalimutan ang mga ginawa ng Panginoon sa ating buhay, kaya mahirap maghintay para sa Kanyang mga pangako. Ang pusong nakalimot na maghintay sa Panginoon ay maaaring gumawa ng desperadong pagtatangkang “tulungan” ang Panginoon na tuparin ang Kanyang mga pangako, gaya ng nakikita natin sa kasaysayan ni Jacob at ng kanyang inang si Rebekah. Ang kanilang pagkainip na masiguro ang pagpapala ng panganay, sa halos anumang paraan, ay nagsisilbing makapangyarihang paalala sa ating maghintay na tuparin ng Panginoon, sa Kanyang sariling panahon, ang mga pangakong Kanyang ipinangako.
+
+**_Dumah_**
+
+Ang _dumah_ ay isang pangngalan na nangangahulugang “katahimikan, kapahingahan.” “Tumutukoy ito sa katahimikan ng kamatayan ([Mga Awit] 94:17; 115:17) . . . ang _dumah_‎ ay tumutukoy sa isang katahimikan o kapahingahan na nagpapakita ng tiwala sa Diyos (Awit 39:2 [3]; 62:1 [2]) o kakulangan ng katahimikan na resulta ng tila hindi pagkilos ng Diyos ([Awit] 22:2).”—New International Dictionary of Old Testament Exegesis, entry on _dumah_, vol. 1, p. 912.
+
+Ang Awit 62 ay gumagamit ng pangngalang ito upang magpakahulugan ng paghihintay sa katahimikan. Ang salitang ito ay isinalin ng dalawang beses, gaya ng sumusunod:
+
+Awit 62:1: “Sa Diyos lamang naghihintay nang tahimik ang aking kaluluwa; ang aking kaligtasan ay nanggagaling sa Kanya.”
+
+Awit 62:5: “Sa Diyos lamang naghihintay nang tahimik ang aking kaluluwa, sapagkat ang aking pag-asa ay mula sa Kanya.”
+
+Sa ibang bahagi ng Kasulatan, ang “paghihintay” ay nangangahulugang “manatiling tahimik.” Sa panahon ng paghihintay, ang pinakamahusay na paraan upang magtiis at manatiling matatag ay manatiling tahimik at magpokus sa Salita ng Diyos. Ang ganitong pag-iisip ay tumutulong sa ating manatili at maghanda para sa pagsubok ng matatag na kailangan nating daanan bago natin makamit ang ating mga inaasahan. Ang Kasulatan ay nagbibigay ng kaginhawahan sa atin sa panahon ng ating paghihintay sa pamamagitan ng mga salitang ito: “Sapagkat ang pangitain ay naghihintay pa ng panahon nito; at nagsasalita tungkol sa wakas—hindi ito magsisinungaling. Kung ito’y parang mabagal ay hintayin mo; ito’y tiyak na darating, hindi ito maaantala” (Habakuk 2:3).
+
+**_Sabar_**
+
+Ang pandiwang _sabar_ ay mas bihirang gamitin para sa pag-asa sa Lumang Tipan kaysa sa iba pang mga salitang ating tinalakay. Ang _sabar_ ay nagpapahiwatig ng ideya ng “umasa, maghintay, magsuri.” Nang may kumpiyansa, sinasabi ng salmista, “Maligaya siyang ang saklolo ay ang Diyos ni Jacob, na ang pag-asa [_sabar_] ay nasa Panginoon niyang Diyos (Awit 146:5). Ang pagtitiwala sa Panginoon ay magdadala ng kaligayahan sa mga mananampalataya, kahit sa gitna ng mga pagsubok. Naging aral natin ang mga dahilan kung bakit dapat tayong magtiwala at sumamba sa Diyos; ang pinakatampok na dahilan sa mga ito ay ang pag-asa.
+
+Nakakatuwa, dalawang beses ginamit ng salmista ang salitang _sabar_ upang maipahayag ang kahulugan ng paghihintay, at sa gayon, ito ay nagpapakita kung ano talaga ang ibig sabihin ng paghihintay. Ang Awit 104:27 at Awit 145:15 ay nagpapakita ng mga hayop na naghihintay sa Lumikha upang sila ay pakainin: “lahat ng ito sa Iyo ay naghihintay,” at “Ang mga mata ng lahat sa Iyo ay nakatingin.” Ang mga larawang ito ay nagpapaalala sa mga salitang binitawan ni Jesus: “Tingnan ninyo ang mga ibon sa himpapawid: hindi sila naghahasik, o gumagapas, o nag-iimbak man sa mga kamalig, ngunit pinapakain sila ng inyong Ama na nasa langit. Hindi ba higit na mahalaga kayo kaysa kanila?” (Mateo 6:26). Tulad ng pagtuturo sa atin ng mga larawang ito, dapat tayong maghintay na may pasensya at may pananampalataya tulad ng mga ibon sa himpapawid, nang walang pagkabalisa o desperasyon, para sa mga biyayang ipinangako ng Diyos na manggagaling sa langit. Kapag ating binibigyang halaga ang pagiging pasensyoso at mayroong simpleng pananampalataya tulad ng isang bata, tayo ay magkakaroon ng lakas habang naghihintay. Dahil dito, ang ating pananalangin ay magiging mas may lakas at makapangyarihan.
+
+**_Hil_**
+
+Ang pandiwang “_hil_” ay nangangahulugang “magtrabaho, magpagal, mangilabot” at maaari rin itong mangahulugan ng “ipanganak” o “ipagbuntis.” Kaya naman, maaaring isalin ang Awit 37:7 nang literal: “Magpahinga kay YHWH at ‘magtrabaho, o manganak’ dahil sa Kanya” (binigyan-diin). Ang implikasyon nito ay ang tagal na paghihintay na kailangan nating tiisin habang naghihintay ng pagtupad ng mga pangako ng Diyos ay tulad ng paghihirap na nararamdaman ng isang buntis na handang manganak. Ang panahong ito ng pagdurusa ay nagpapakita ng mahirap na pagpapagal, matinding sakit, at pagluha. Gayunpaman, ang resulta ng bagong silang na sanggol ay nag-aalis sa anumang antas ng paghihirap at paghihintay. Sa parehong paraan, ang paghihintay sa Panginoon ay madalas na may kasamang pansamantalang paghihirap at pagdurusa, ngunit ang bunga nito ay magiging mayaman sa mga biyaya ng Panginoon.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+Ang pag-asa ay isang mahalagang bahagi ng bawat aspeto ng panandalian at espirituwal na buhay. Isinaalang-alang ito ng apostol Pablo kasama ng pananampalataya at pag-ibig bilang isa sa tatlong pangunahing kagandahang-asal ng isang buhay Kristiyanong nagbubunga at pinuspos ng Espiritu (1 Corinto 13:13).
+
+Ang pag-asa ang nagbibigay sa atin ng motibasyon upang magpatuloy sa kabila ng karamdaman o trahedya. Ang pag-asa ang apoy na nagliliyab sa loob natin, nagpapalakas sa ating pagnanais upang hawakan ang lakas ng mga pangako ng Diyos. Ang apoy na ito ay nabubuhay sa pamamagitan ng araw-araw na pagbabasa at pagmumuni-muni sa Banal na Kasulatan. Ang bawat suliranin sa ating buhay ay mayroong solusyong matatagpuan sa isang espesyal na bahagi ng katotohanang nakasaad sa Biblia. Ang pag-asa ang kamay na humuhuli ng mga makislap na kayamanan ng pananampalataya at itinatanim ito nang matibay sa puso. Habang naghihintay tayo ng katuparan ng mga pangako ng Diyos, ang ating pagtitiis ay maaaring subukin, kung minsan ay sa loob ng ilang oras, kung minsan naman ay sa loob ng ilang taon, ngunit ang pag-asa ang nagbibigay sa atin ng lakas upang manatiling matatag, ano man ang tagal o kalubha ng pagsubok na ating haharapin.
+
+Walang duda, ang pag-asa ang katangiang nagpapanatili ng ating mga mata na nakatutok sa langit habang naghihintay tayo sa ikalawang pagparito ni Jesus.
+
+` `

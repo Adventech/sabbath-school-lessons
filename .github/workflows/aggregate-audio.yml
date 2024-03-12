@@ -17,6 +17,8 @@ jobs:
         with:
           node-version: '12'
           check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
       - name: Create work dir folder
         run: mkdir ss-audio
@@ -56,10 +58,14 @@ jobs:
       with:
         node-version: '16'
         check-latest: true
+    - name: Add token for private packages
+      run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
     - run: npm install
     - name: Aggregate audio
       run: node ./runners/content-aggregator/index.js
     - run: rm package-lock.json
+    - name: Reset .npmrc
+      run: git restore .npmrc
     - name: Commit & Push changes
       uses: actions-js/push@v1.3
       with:

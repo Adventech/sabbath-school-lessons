@@ -1,0 +1,17 @@
+---
+  title: "Kniha Žalmů"
+  description: "Žalmy, jak je nacházíme v Bibli, jsou modlitby a písně oslavující Boha. Jejich texty vyjadřují radost, smutek i zoufalství. Zaznívaly v soukromí i na veřejnosti. Autory jsou králové, básníci, kněží i obyčejní lidé. Vyjadřují myšlenky spravedlivých, ale i zlomených, kajících hříšníků. Kniha žalmů slouží mnoha generacím věřících jako kniha modliteb i zpěvník."
+  human_date: "Leden · Únor · Březen 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#759931"
+  color_primary_dark: "#5F811F"
+  credits:
+    - name: Autor
+      value: "Dragoslava Santrac"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Audio verze lekcí
+      value: "Richard Babinec"
+    - name: Dodatečné otázky k diskuzi
+      value: "Vlastimil Fürst"

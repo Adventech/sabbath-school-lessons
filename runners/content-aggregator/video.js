@@ -10,6 +10,8 @@ const DATE_FORMAT = "DD/MM/YYYY"
 
 let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
     let postfix = (!postFix) ? "" : `-${postFix}`
+    let priorCheck = 1
+    let postCheck = 2
     let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}${postfix}/`);
 
     for (let targetQuarter of targetQuarterlies) {
@@ -92,7 +94,15 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
             }
         }
 
+        for (let i = priorCheck || 0; i >= 0; i--) {
+            await process(moment().add(-1*i, 'w'))
+        }
+
         await process()
+
+        for (let i = 1; i <= postCheck; i++) {
+            await process(moment().add(i, 'w'))
+        }
     }
 }
 
@@ -356,6 +366,30 @@ let russianVideo = async function () {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
+
+    await weeklyVideo(
+        "ru",
+        "Изучаем Библию с Виталием Олийником",
+        {
+            artist: "Изучаем Библию с Виталием Олийником",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "ru",
+        "Субботняя школа с Алехандро Буйоном",
+        {
+            artist: "Субботняя школа с Алехандро Буйоном",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
 }
 
 let ukrainianVideo = async function () {
@@ -599,12 +633,10 @@ let hungarianVideo = async function () {
         "Bibliatanulmányok minden napra",
         {
             artist: "Bibliatanulmányok minden napra",
-            thumbnail: "https://egw.hu/ssq/bibliatanulmany.jpg",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
-            targetDate.isoWeekday(6)
-            return `https://bibliatanulmanyok.hu/tanulmanyok/video/${targetDate.format('YYYYMMDD')}.mp4`
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/hu/hope/hu-hope-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
 
@@ -770,6 +802,18 @@ let germanVideo = async function () {
         },
         function (targetDate, targetQuarter, year, week) {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "de",
+        "Seminar Schloss Bogenhofen",
+        {
+            artist: "Seminar Schloss Bogenhofen",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
 }

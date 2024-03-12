@@ -1,0 +1,137 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-Intro.pdf'
+      target: zh/2024-01-hant-cc/intro
+      title: 教學準備
+      start_date: 30/12/2023
+      end_date: 30/12/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-01.pdf'
+      target: zh/2024-01-hant-cc/01
+      title: 未送達的禮物
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-02.pdf'
+      target: zh/2024-01-hant-cc/02
+      title: 所羅門的智慧
+      start_date: 06/01/2024
+      end_date: 12/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-03.pdf'
+      target: zh/2024-01-hant-cc/03
+      title: 建造聖殿
+      start_date: 13/01/2024
+      end_date: 19/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-04.pdf'
+      target: zh/2024-01-hant-cc/04
+      title: 強盛中的高傲
+      start_date: 20/01/2024
+      end_date: 26/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-05.pdf'
+      target: zh/2024-01-hant-cc/05
+      title: 所羅門的悔改
+      start_date: 27/01/2024
+      end_date: 02/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-06.pdf'
+      target: zh/2024-01-hant-cc/06
+      title: 偶像的威脅
+      start_date: 03/02/2024
+      end_date: 09/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-07.pdf'
+      target: zh/2024-01-hant-cc/07
+      title: 耶羅波安
+      start_date: 10/02/2024
+      end_date: 16/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-08.pdf'
+      target: zh/2024-01-hant-cc/08
+      title: 國王的獻身
+      start_date: 17/02/2024
+      end_date: 23/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-09.pdf'
+      target: zh/2024-01-hant-cc/09
+      title: 從未孤單
+      start_date: 24/02/2024
+      end_date: 01/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-10.pdf'
+      target: zh/2024-01-hant-cc/10
+      title: 迦密山頂的信心
+      start_date: 02/03/2024
+      end_date: 08/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-11.pdf'
+      target: zh/2024-01-hant-cc/11
+      title: 山谷中的疑惑
+      start_date: 09/03/2024
+      end_date: 15/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-12.pdf'
+      target: zh/2024-01-hant-cc/12
+      title: 誰才是可靠的？
+      start_date: 16/03/2024
+      end_date: 22/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-13.pdf'
+      target: zh/2024-01-hant-cc/13
+      title: 約沙法的人生評語
+      start_date: 23/03/2023
+      end_date: 29/03/2023
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-01.pdf'
+      target: zh/2024-01-hant-cc/01
+      title: 教師版
+      start_date: 30/12/2023
+      end_date: 05/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-02.pdf'
+      target: zh/2024-01-hant-cc/02
+      title: 教師版
+      start_date: 06/01/2024
+      end_date: 12/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-03.pdf'
+      target: zh/2024-01-hant-cc/03
+      title: 教師版
+      start_date: 13/01/2024
+      end_date: 19/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-04.pdf'
+      target: zh/2024-01-hant-cc/04
+      title: 教師版
+      start_date: 20/01/2024
+      end_date: 26/01/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-05.pdf'
+      target: zh/2024-01-hant-cc/05
+      title: 教師版
+      start_date: 27/01/2024
+      end_date: 02/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-06.pdf'
+      target: zh/2024-01-hant-cc/06
+      title: 教師版
+      start_date: 03/02/2024
+      end_date: 09/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-07.pdf'
+      target: zh/2024-01-hant-cc/07
+      title: 教師版
+      start_date: 10/02/2024
+      end_date: 16/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-08.pdf'
+      target: zh/2024-01-hant-cc/08
+      title: 教師版
+      start_date: 17/02/2024
+      end_date: 23/02/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-09.pdf'
+      target: zh/2024-01-hant-cc/09
+      title: 教師版
+      start_date: 24/02/2024
+      end_date: 01/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-10.pdf'
+      target: zh/2024-01-hant-cc/10
+      title: 教師版
+      start_date: 02/03/2024
+      end_date: 08/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-11.pdf'
+      target: zh/2024-01-hant-cc/11
+      title: 教師版
+      start_date: 09/03/2024
+      end_date: 15/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-12.pdf'
+      target: zh/2024-01-hant-cc/12
+      title: 教師版
+      start_date: 16/03/2024
+      end_date: 22/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-01/ABSG-2024-01-ZH-HANT-CC-TE-13.pdf'
+      target: zh/2024-01-hant-cc/13
+      title: 教師版
+      start_date: 23/03/2023
+      end_date: 29/03/2023

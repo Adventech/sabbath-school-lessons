@@ -1,0 +1,28 @@
+---
+  audio:
+    - artist: Școala de Sabat Audio
+      tracks:
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st01/st01.mp3
+          target: ro/2024-01/01/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st02/st02.mp3
+          target: ro/2024-01/02/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st03/st03.mp3
+          target: ro/2024-01/03/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st04/st04.mp3
+          target: ro/2024-01/04/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st05/st05.mp3
+          target: ro/2024-01/05/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st06/st06.mp3
+          target: ro/2024-01/06/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st07/st07.mp3
+          target: ro/2024-01/07/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st08/st08.mp3
+          target: ro/2024-01/08/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st09/st09.mp3
+          target: ro/2024-01/09/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st10/st10.mp3
+          target: ro/2024-01/10/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st11/st11.mp3
+          target: ro/2024-01/11/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim1/st12/st12.mp3
+          target: ro/2024-01/12/01

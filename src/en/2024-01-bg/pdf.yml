@@ -1,0 +1,57 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Student/B-24-Q1-L00.pdf'
+      target: en/2024-01-bg/introduction
+      title: Introduction
+      start_date: 30/12/2023
+      end_date: 30/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Student/B-24-Q1-L01.pdf'
+      target: en/2024-01-bg/01
+      title: "God Made My World"
+      start_date: 30/12/2023
+      end_date: 26/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Student/B-24-Q1-L02.pdf'
+      target: en/2024-01-bg/02
+      title: "Noah's Big Boat"
+      start_date: 27/01/2024
+      end_date: 01/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Student/B-24-Q1-L03.pdf'
+      target: en/2024-01-bg/03
+      title: "Sarah's Baby"
+      start_date: 02/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Student/B-24-Q1-Activities.pdf'
+      target: en/2024-01-bg/activities
+      title: Activities
+      start_date: 29/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Student/B-24-Q1-MemoryVerses.pdf'
+      target: en/2024-01-bg/memory-verses
+      title: Memroy Verses
+      start_date: 29/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Teacher/B-24-Q1-L00-T.pdf'
+      target: en/2024-01-bg/introduction
+      title: Teacher
+      start_date: 30/12/2023
+      end_date: 30/12/2023
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Teacher/B-24-Q1-L01-T.pdf'
+      target: en/2024-01-bg/01
+      title: Teacher
+      start_date: 30/12/2023
+      end_date: 26/01/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Teacher/B-24-Q1-L02-T.pdf'
+      target: en/2024-01-bg/02
+      title: Teacher
+      start_date: 27/01/2024
+      end_date: 01/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Teacher/B-24-Q1-L03-T.pdf'
+      target: en/2024-01-bg/03
+      title: Teacher
+      start_date: 02/03/2024
+      end_date: 29/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q1/Beginner/Teacher/B-24-Q1-Activities-T.pdf'
+      target: en/2024-01-bg/activities
+      title: Teacher
+      start_date: 29/03/2024
+      end_date: 29/03/2024

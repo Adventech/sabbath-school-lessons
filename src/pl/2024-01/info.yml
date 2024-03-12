@@ -1,0 +1,20 @@
+---
+  title: "Księga Psalmów"
+  description: "Księga Psalmów — tam, gdzie serce Boga spotyka się z sercami Jego ludu. Księga Psalmów to modlitwy i pieśni zapisane w Biblii. Wypowiadane i śpiewane w uwielbieniu, radości, smutku i rozpaczy, prywatnie i publicznie, przez prosty lud, królów, poetów i kapłanów, zarówno sprawiedliwych, jak i skruszonych grzeszników, psalmy stały się modlitewnikiem i śpiewnikiem dla pokoleń wierzących."
+  human_date: "Styczeń · Luty · Marzec 2024"
+  start_date: "30/12/2023"
+  end_date: "29/03/2024"
+  color_primary: "#7C6E3C"
+  color_primary_dark: "#726022"
+  splash: true
+  credits:
+    - name: Kierownik Wydawniczy
+      value: "Mirosław Harasim"
+    - name: Tłumacz
+      value: "Jan Trzeciak"
+    - name: Projektant okładki i typograf
+      value: "Jarosław Kauc"
+    - name: Recenzent
+      value: "Dr Julian Hatała"
+    - name: Redaktor i korektor
+      value: "Mirosław Chmiel"
