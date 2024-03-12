@@ -5,7 +5,7 @@ on:
     - cron: '0 1,7 * * *'
 jobs:
   sync-stage-into-master:
-    if: github.ref_name == 'stage'
+    if: (github.repository == 'Adventech/sabbath-school-lessons' && github.ref_name == 'stage')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
