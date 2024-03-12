@@ -1,15 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=pNYjDcPZOYs" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "uk/uk-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=nF6j_EUoMvM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-01-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=UsX5Vwp81a0" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "it/it-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=r_M3_6VOod8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-01-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Z3ydMqp4krE" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=qCaKmkFIT9E" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=_Cqgy7QA0Gk" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ja/hope/ja-hope-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=1R4yLPrF0ZY" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=IEHAnIIlttA" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-01-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=MMdvZ69zdfE" --format "bv*[height<=1080][ext=mp4]+ba[ext=m4a][acodec!=opus]/b[height<=1080][ext=mp4] / bv*+ba/b" --no-overwrites --write-thumbnail --output "ta/ta-2024-01-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=lRIXK0T8UbA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2024-01-11.mp4"

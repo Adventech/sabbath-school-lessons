@@ -12,4 +12,4 @@ Although the Psalms are a collection of 150 poems, the collection may not be as 
 
 Our desire and prayer are that the Psalms strengthen us on our life journey, and through them we get to meet God daily, heart to heart, until the day when we see Jesus Christ face to face.
 
-_Dragoslava Santrac, PhD in Old Testament, is managing editor of the Encyclopedia of Seventh-day Adventists at the General Conference of Seventh-day Adventists world headquarters. She has authored the volume on Psalms 76–150 for the Seventh-day Adventist International Bible Commentary._
+_Dragoslava Santrac, PhD in Old Testament, is managing editor of the Encyclopedia of Seventh-day Adventists at the General Conference of Seventh-day Adventists world headquarters. She has authored the volume on Psalms 76-150 for the Seventh-day Adventist International Bible Commentary._
