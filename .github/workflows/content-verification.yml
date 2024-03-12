@@ -11,7 +11,7 @@ jobs:
         check-latest: true
     - name: Ignore Bible tools
       run: |
-        sed -i '' -e '/"@Adventech\/bible-tools": "^\(.\..\..\)",/d' package.json
+        sed -i -e '/"@Adventech\/bible-tools": "^\(.\..\..\)",/d' package.json
     - run: npm install
     - run: node verify.js
       env:
