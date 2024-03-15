@@ -1,7 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=eoYEgwYfVXI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-01-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=ks8FYe2IS2U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-01-11.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=_dac1NbTlEU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ml/ml-2024-01-11.mp4"
+yt-dlp "https://www.youtube.com/watch?v=f0wM3zVcFaM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/abn/ko-abn-2024-01-12.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=0PDUsbvMBx8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-01-11.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=sIFefSmSNok" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=8LF2uCUxWfA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ja/yok/ja-yok-2024-01-12.mp4"
