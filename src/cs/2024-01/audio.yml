@@ -197,3 +197,5 @@
           target: cs/2024-01/12/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q1/2024_Q1_12-7.mp3
           target: cs/2024-01/12/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q1/2024_Q1_12-inside-story.mp3
+          target: cs/2024-01/12/inside-story
