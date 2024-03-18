@@ -20,3 +20,9 @@
           target: bg/2024-01/08/01
         - src: https://web.3-16.bg/lessons/2024_Q1/2024_Q1_Lesson_9.mp3
           target: bg/2024-01/09/01
+        - src: https://web.3-16.bg/lessons/2024_Q1/2024_Q1_Lesson_10.mp3
+          target: bg/2024-01/10/01
+        - src: https://web.3-16.bg/lessons/2024_Q1/2024_Q1_Lesson_11.mp3
+          target: bg/2024-01/11/01
+        - src: https://web.3-16.bg/lessons/2024_Q1/2024_Q1_Lesson_12.mp3
+          target: bg/2024-01/12/01
