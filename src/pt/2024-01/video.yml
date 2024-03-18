@@ -34,6 +34,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-01-11.mp4
           target: pt/2024-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-01-12.mp4
+          target: pt/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-01-12.webp
     - artist: Adventismo Vivo
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-01-01-upd.mp4
@@ -68,6 +71,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-01-11.mp4
           target: pt/2024-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-01-12.mp4
+          target: pt/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-01-12.webp
     - artist: Adventistas Lago Sul
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-01-01-upd.mp4
@@ -102,3 +108,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-01-11.mp4
           target: pt/2024-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-01-12.mp4
+          target: pt/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-01-12.webp
