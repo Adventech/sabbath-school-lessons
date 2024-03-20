@@ -145,3 +145,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-01-11.mp4
           target: de/2024-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-01-12.mp4
+          target: de/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-01-12.webp
