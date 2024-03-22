@@ -34,6 +34,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-01-11.mp4
           target: ro/2024-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-01-12.mp4
+          target: ro/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-01-12.webp
     - artist: Școala Biblică
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-01-01-upd.mp4
@@ -68,3 +71,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-01-11.mp4
           target: ro/2024-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-01-12.mp4
+          target: ro/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-01-12.webp
