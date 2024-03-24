@@ -37,6 +37,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-01-12.mp4
           target: ru/2024-01/12
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-01-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-01-13.mp4
+          target: ru/2024-01/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-01-13.webp
     - artist: Александр Болотников
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-01-01-upd.mp4
@@ -74,6 +77,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-01-12.mp4
           target: ru/2024-01/12
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-01-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-01-13.mp4
+          target: ru/2024-01/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-01-13.webp
     - artist: Изучаем Библию с Виталием Олийником
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-01-01.mp4
