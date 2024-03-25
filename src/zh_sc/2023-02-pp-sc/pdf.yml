@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-INTRODUCTION.pdf'
+      target: zh_sc/2023-02-pp/introduction
+      title: 简介
+      start_date: 01/04/2023
+      end_date: 07/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-INSTRUCTION.pdf'
+      target: zh_sc/2023-02-pp/instruction
+      title: 指引
+      start_date: 01/04/2023
+      end_date: 07/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L01.pdf'
+      target: zh_sc/2023-02-pp/01
+      title: 与西门不期而遇的十字架
+      start_date: 01/04/2023
+      end_date: 07/08/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L02.pdf'
+      target: zh_sc/2023-02-pp/02
+      title: 更大的范围
+      start_date: 08/04/2023
+      end_date: 14/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L03.pdf'
+      target: zh_sc/2023-02-pp/03
+      title: 一项特别的恩赐
+      start_date: 15/04/2023
+      end_date: 21/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L04.pdf'
+      target: zh_sc/2023-02-pp/04
+      title: 补破口的人
+      start_date: 22/04/2023
+      end_date: 28/04/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L05.pdf'
+      target: zh_sc/2023-02-pp/05
+      title: 最大的顺从
+      start_date: 29/04/2023
+      end_date: 05/05/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L06.pdf'
+      target: zh_sc/2023-02-pp/06
+      title: 饶恕逃忙的人
+      start_date: 06/05/2023
+      end_date: 12/05/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L07.pdf'
+      target: zh_sc/2023-02-pp/07
+      title: 将万国都聚来
+      start_date: 13/05/2023
+      end_date: 19/05/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L08.pdf'
+      target: zh_sc/2023-02-pp/08
+      title: 选择正确的道
+      start_date: 20/05/2023
+      end_date: 26/05/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L09.pdf'
+      target: zh_sc/2023-02-pp/09
+      title: 荒岛上的梦想
+      start_date: 27/05/2023
+      end_date: 02/06/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L10.pdf'
+      target: zh_sc/2023-02-pp/10
+      title: 如何得胜？
+      start_date: 03/06/2023
+      end_date: 09/06/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L11.pdf'
+      target: zh_sc/2023-02-pp/11
+      title: 挽救生命的建议
+      start_date: 10/06/2023
+      end_date: 16/06/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L12.pdf'
+      target: zh_sc/2023-02-pp/12
+      title: 翠绿色的宝座
+      start_date: 17/06/2023
+      end_date: 23/06/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-L13.pdf'
+      target: zh_sc/2023-02-pp/13
+      title: 上帝对分离焦虑者的医治
+      start_date: 24/06/2023
+      end_date: 30/06/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-ACTIVITY.pdf'
+      target: zh_sc/2023-02-pp/activities
+      title: 活动
+      start_date: 24/06/2023
+      end_date: 30/06/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q2/Junior/PP-D-Q2-CH-PARENTS.pdf'
+      target: zh_sc/2023-02-pp/parents
+      title: 家长的话
+      start_date: 24/06/2023
+      end_date: 30/06/2023

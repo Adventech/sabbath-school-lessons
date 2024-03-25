@@ -1,0 +1,17 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Begin/Begin_B1_Jan_S.pdf'
+      target: zh_sc/2023-01-bg/01
+      title: 小小耶稣，是快乐的助手
+      start_date: 31/12/2022
+      end_date: 27/01/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Begin/Begin_B1_Feb_S.pdf'
+      target: zh_sc/2023-01-bg/02
+      title: 撒该爬上一棵树
+      start_date: 28/01/2023
+      end_date: 24/02/2023
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2023/Q1/Begin/Begin_B1_Mar_S.pdf'
+      target: zh_sc/2023-01-bg/03
+      title: 壮观的行进队伍
+      start_date: 25/02/2023
+      end_date: 24/03/2023

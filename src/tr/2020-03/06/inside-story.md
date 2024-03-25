@@ -30,4 +30,3 @@ Wilson, “Uruguay ve şehirlerdeki çalışmalarınızda bu vaad için ısrar e
 İnsanlar, Rab için zor bir şey olmadığına dair, toplum merkezlerindeki programlara veya kilise tarafından yönetilen “kentsel etki merkezlerine” katıldıktan sonra şimdi insanlar Uruguay'da vaftiz ediliyor.
 
 Yeni üyeler arasında, Montevideo'da kentsel bir etki merkezinde stres yönetimi kursları aldıktan sonra 2019 yılında İsa'ya kalbini veren genç bir adam olan Fernando Aguirre var. Lütfen dünyadaki diğer seküler toplumlara, Uruguay’a ve diğer umut verici misyon alanları için dua edin..
-
