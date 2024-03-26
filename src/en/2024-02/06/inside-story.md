@@ -5,9 +5,7 @@ date:  10/05/2024
 
 #### One Angel, Four Encounters
 
-_By Nelson Cinco Reis Chitaonga_
-
-_and Calavete Sabonete Ossifo_
+_By Nelson Cinco Reis Chitaonga and Calavete Sabonete Ossifo_
 
 Few people can say that they have seen an angel. Oyele says he has seen an angel—not just once, but four times.
 

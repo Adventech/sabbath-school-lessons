@@ -13,22 +13,19 @@ Introduction: The biblical themes of the great controversy and of the heavenly s
 
 Defending God’s law is defending God’s character and His status as Creator and rightful King of the universe, enthroned in His heavenly sanctuary. Upholding God’s law means that we understand that God is the only source of moral standards and of the meaning of life. Abandoning God and His principles of life will lead to chaos and to eternal death. For this reason, Seventh-day Adventists proclaim the following Bible truths:
 
-•	the immutability of God’s law,
-
-•	the Sabbath as the sign of God’s Creatorship and Kingship,
-
-•	the heavenly sanctuary as the seat of God’s government and of salvation in the universe, and
-
-•	the Adventist movement as the remnant church, called to proclaim God’s last invitation to humanity to return to His kingdom.
+* the immutability of God’s law,
+* the Sabbath as the sign of God’s Creatorship and Kingship,
+* the heavenly sanctuary as the seat of God’s government and of salvation in the universe, and
+* the Adventist movement as the remnant church, called to proclaim God’s last invitation to humanity to return to His kingdom.
 
 The centerpiece of the mission of the Seventh-day Adventist Church is the three angels’ messages of Revelation 14. These messages indicate that the great controversy is a choice between two diametrically opposed principles: the devil’s, which leads to perdition; and God’s, which leads to life.
 
 Lesson Themes: This week’s study emphasizes four major themes:
 
-1.	The law of God, which includes the Sabbath, is eternal and immutable because it represents God’s being, character, status as Creator and King of the universe, and His principles for life and relationships.
-2.	The heavenly sanctuary is the seat of God’s government and of His salvation.
-3.	The great controversy started because of Lucifer’s impulses to usurp God’s status and authority.
-4.	Toward the end of the great controversy on earth, God called forth, and established, His remnant church. God commissioned this remnant church to proclaim His final call of mercy to members of humanity, inviting them to embrace Him as their Creator, Savior, and Lord, who is the only Source and way of life.
+1. The law of God, which includes the Sabbath, is eternal and immutable because it represents God’s being, character, status as Creator and King of the universe, and His principles for life and relationships.
+2. The heavenly sanctuary is the seat of God’s government and of His salvation.
+3. The great controversy started because of Lucifer’s impulses to usurp God’s status and authority.
+4. Toward the end of the great controversy on earth, God called forth, and established, His remnant church. God commissioned this remnant church to proclaim His final call of mercy to members of humanity, inviting them to embrace Him as their Creator, Savior, and Lord, who is the only Source and way of life.
 
 #### Part II: Commentary
 
@@ -54,6 +51,14 @@ Second, the law of God is the reflection of God’s nature of love and righteous
 
 #### Part III: Life Application
 
-1.	If you are in a non-Christian country, how does your local religion understand the concept of law, in general, and of divine law, in particular? How could you explain the law of God to your friends in the context of your local culture? If you live in a Christian country, how do the Christians in your country relate to God’s law? How can you share with them the Adventist message of God’s law?
-2.	In most Christian countries today, we could debate about Sunday versus Saturday as God’s current holy day. But what if you live in a non-Christian country? How could you explain to your friends the truth about the Sabbath and the great controversy? How also might you explain about the mark of the beast in your non-Christian context?
-3.	Compare the ceremonial with the moral law. What is similar, and what is different about them? What does each of these laws reveal about God? How do each of these laws relate to Jesus Christ?
+If you are in a non-Christian country, how does your local religion understand the concept of law, in general, and of divine law, in particular? How could you explain the law of God to your friends in the context of your local culture? If you live in a Christian country, how do the Christians in your country relate to God’s law? How can you share with them the Adventist message of God’s law?
+
+` `
+
+In most Christian countries today, we could debate about Sunday versus Saturday as God’s current holy day. But what if you live in a non-Christian country? How could you explain to your friends the truth about the Sabbath and the great controversy? How also might you explain about the mark of the beast in your non-Christian context?
+
+` `
+
+Compare the ceremonial with the moral law. What is similar, and what is different about them? What does each of these laws reveal about God? How do each of these laws relate to Jesus Christ?
+
+` `

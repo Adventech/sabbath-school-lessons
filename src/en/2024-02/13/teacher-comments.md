@@ -13,10 +13,10 @@ Introduction: This week’s lesson wraps up our study, highlighting the final de
 
 Lesson Themes: This week’s study focuses on four related themes:
 
-1.	God Himself will sustain and protect His people during the most brutal parts of the final battle of the great controversy.
-2.	The great controversy will end with God’s victory over the devil, over evil and sin, and over suffering and death. This threefold victory is assured because it has already been secured by Christ through His death and resurrection.
-3.	We share in God’s victory when we accept it by faith and allow the Holy Spirit to work it out in us.
-4.	God’s victory will culminate in the second coming of Jesus, in the millennial judgment, and in the restoration of all things.
+1. God Himself will sustain and protect His people during the most brutal parts of the final battle of the great controversy.
+2. The great controversy will end with God’s victory over the devil, over evil and sin, and over suffering and death. This threefold victory is assured because it has already been secured by Christ through His death and resurrection.
+3. We share in God’s victory when we accept it by faith and allow the Holy Spirit to work it out in us.
+4. God’s victory will culminate in the second coming of Jesus, in the millennial judgment, and in the restoration of all things.
 
 #### Part II: Commentary
 
@@ -52,7 +52,18 @@ The millennial judgment in heaven will also be a historical event that will take
 
 #### Part III: Life Application
 
-1.	Do you have Adventists in your congregation who are afraid to talk about last-day events? Are you one of them? How would you help them to overcome this fear? How could you and your Adventist community communicate our biblical message as good news rather than as some warped version, produced by Hollywood, of a scary, postapocalyptic movie? On the other hand, what is the best way to present realistically many of the darker aspects of the great controversy, such as religious persecution and the time of trouble?
-2.	Do people in your culture believe in the return of a divinity or of a great guru? What does this belief tell us about humanity’s hope for the return of a savior from “the beyond”? How could you share the hope of the second coming of Jesus Christ with such an audience? What points would you emphasize?
-3.	Some Christians or secular persons believe that the second coming of Christ is merely a symbol of a profound moral transformation of the human individual or society. How could you explain to such persons that Christ’s coming will be a literal, visible, and audible event, one in which Jesus Himself will enter into our history, time, and space, in person?
-4.	What do the people in your culture think of heaven? What is problematic about their views of heaven, as compared with Scripture? How could you share with them the biblical description of heaven? What points in the biblical view of heaven would be especially attractive to the people in your culture?
+Do you have Adventists in your congregation who are afraid to talk about last-day events? Are you one of them? How would you help them to overcome this fear? How could you and your Adventist community communicate our biblical message as good news rather than as some warped version, produced by Hollywood, of a scary, postapocalyptic movie? On the other hand, what is the best way to present realistically many of the darker aspects of the great controversy, such as religious persecution and the time of trouble?
+
+` `
+
+Do people in your culture believe in the return of a divinity or of a great guru? What does this belief tell us about humanity’s hope for the return of a savior from “the beyond”? How could you share the hope of the second coming of Jesus Christ with such an audience? What points would you emphasize?
+
+` `
+
+Some Christians or secular persons believe that the second coming of Christ is merely a symbol of a profound moral transformation of the human individual or society. How could you explain to such persons that Christ’s coming will be a literal, visible, and audible event, one in which Jesus Himself will enter into our history, time, and space, in person?
+
+` `
+
+What do the people in your culture think of heaven? What is problematic about their views of heaven, as compared with Scripture? How could you share with them the biblical description of heaven? What points in the biblical view of heaven would be especially attractive to the people in your culture?
+
+` `

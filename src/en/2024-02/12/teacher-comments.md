@@ -15,8 +15,8 @@ This week, we focus on several key elements of the end-time preparation of God�
 
 Lesson Themes: This week’s study focuses on two major themes:
 
-1.	Accepting God’s love and salvation in Jesus Christ will generate in us an unwavering love for Him and a resolution to be faithful to Him, to His Word, and to His Sabbath.
-2.	The Holy Spirit will empower us with the outpouring of the latter rain. This outpouring will enable us to give the “loud cry,” or the final call to the world to repent and be saved.
+1. Accepting God’s love and salvation in Jesus Christ will generate in us an unwavering love for Him and a resolution to be faithful to Him, to His Word, and to His Sabbath.
+2. The Holy Spirit will empower us with the outpouring of the latter rain. This outpouring will enable us to give the “loud cry,” or the final call to the world to repent and be saved.
 
 #### Part II: Commentary
 
@@ -48,25 +48,17 @@ To help answer these questions, let us consider the story of Job. In conversatio
 
 On that first Friday night in the jail cell, Ian’s loyalty to God was immediately rewarded. But this reward was not the basis of his faithfulness to God. Ian was determined to remain faithful to God, apart from any apparent response. Similarly, when facing the prospect of a horrifying death in “ ‘a furnace of blazing fire’ ” on the plain of Dura (Dan. 3:15, NASB), Daniel’s friends valiantly answered Nebuchadnezzar: “We are not in need of an answer to give you concerning this matter. . . . Our God whom we serve is able to rescue us from the furnace of blazing fire; and He will rescue us from your hand, O king. But even if He does not, let it be known to you, O king, that we are not going to serve your gods nor worship the golden statue that you have set up” (Dan. 3:16–18, NASB). Years later, the prophet Habakkuk sang:
 
-Even if the fig tree does not blossom,
-
-and there is no fruit on the vines,
-
-if the yield of the olive fails,
-
-and the fields produce no food,
-
-Even if the flock disappears from the fold,
-
-And there are no cattle in the stalls,
-
-Yet I will triumph in the Lord,
-
-I will rejoice in the God of my salvation (Hab. 3:17, 18, NASB).
+> <p></p>
+> Even if the fig tree does not blossom, and there is no fruit on the vines, if the yield of the olive fails, and the fields produce no food, Even if the flock disappears from the fold, And there are no cattle in the stalls, Yet I will triumph in the Lord, I will rejoice in the God of my salvation (Hab. 3:17, 18, NASB).
 
 But how is such loyalty generated in the hearts and minds of God’s people? Yes, God’s people, and the rest of the universe, feel the impulse to be loyal to Him because He is their Creator and, thus, their Father. Family is a compelling reason in and of itself. But there is more: God’s people get their loyalty from God. They are created in His image (Gen. 1:26, 27). God is love, and by His grace, humans are loving. God is righteous, and humans originally were created righteous. God is faithful or loyal, and humans can choose to be faithful or loyal, too, with God’s help. It is precisely His love and faithfulness to us that generates in us love and loyalty for Him. The apostle John explained that we are not loyal to God because of fear, for “there is no fear in love, but perfect love drives out fear, because fear involves punishment, and the one who fears is not perfected in love;” rather, “we love, because He first loved us” (1 John 4:18, 19, NASB). John explains, “In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins” (1 John 4:10, NASB; see also John 3:16).
 
 #### Part III: Life Application
 
-1.	Ian’s story is, truly, an amazing and encouraging one. But we also know that for every account like that, there are many others whose faithfulness brought calamity and suffering upon them and, perhaps, their loved ones. How do we understand stories like that?
-2.	While we may imagine how we will stand firm and venerate God’s Sabbath during times of persecution, how many times do we fail to maintain the sacredness and the solemnity of the Sabbath during times of peace and prosperity? Sometimes, we may find ourselves wondering whether it isn’t easier to betray the Lord of the Sabbath during times of freedom than during times of persecution. If we cannot keep the Sabbath holy when we have all the freedom to do so, how can we expect to be faithful to the Sabbath in times of turbulence and pressure? Create a strategy for being faithful to God’s Sabbath, during both good times and bad times.
+Ian’s story is, truly, an amazing and encouraging one. But we also know that for every account like that, there are many others whose faithfulness brought calamity and suffering upon them and, perhaps, their loved ones. How do we understand stories like that?
+
+` `
+
+While we may imagine how we will stand firm and venerate God’s Sabbath during times of persecution, how many times do we fail to maintain the sacredness and the solemnity of the Sabbath during times of peace and prosperity? Sometimes, we may find ourselves wondering whether it isn’t easier to betray the Lord of the Sabbath during times of freedom than during times of persecution. If we cannot keep the Sabbath holy when we have all the freedom to do so, how can we expect to be faithful to the Sabbath in times of turbulence and pressure? Create a strategy for being faithful to God’s Sabbath, during both good times and bad times.
+
+` `
