@@ -1,0 +1,23 @@
+### Pengenalan
+
+Jika ditanya, “Apakah tema utama yang terdapat di seluruh Alkitab?" bagaimana anda akan merespon? Yesus? Rancangan keselamatan? Salib? Ya, kepada ketiga-tiganya, sudah tentu! Tetapi tiga topik penting ini dibentangkan terhadap tema yang lebih menyeluruh: iaitu “Kontroversi Besar.” Tema ini merangkumi Alkitab, dari kitab Kejadian hingga kitab Wahyu.
+
+Kontroversi besar bermula di syurga dengan pemberontakan Lucifer terhadap Tuhan. Di tengah-tengah konflik kosmik ini adalah isu mengenai kasih Tuhan. Adakah Dia mengasihi sepenuhnya? Adakah Dia melihat kepentingan terbaik untuk makhluk-Nya? Atau adakah Dia seorang diktator yang berautoriti hanya menginginkan apa yang ada dalam kepentingan diri-Nya sendiri?
+
+Pelajaran suku ini menelusuri sejarah dunia dari sudut pandangan Tuhan, seperti yang diungkapkan oleh nubuatan, bermula dari zaman Kristus turun-temurun berabad-abad hingga ke zaman kita dan seterusnya. Sifat Tuhan adalah kasih dan oleh itu, semua tindakan-Nya adalah pengasih walaupun hakikat ini mungkin tidak selalu berupa suatu yang nyata kepada manusia yang terbatas atau bahkan kepada malaikat. Tetapi kasih Tuhan secara beransur-ansur dinyatakan apabila kontroversi besar itu menjadi nyata. Kita melihat ketinggian dan kedalamannya yang paling jelas melalui salib. Di Kalvari, kasih Tuhan ditunjukkan di hadapan seluruh alam semesta, ketika Kristus mencurahkan nyawa-Nya untuk menebus umat manusia, dan kekalahan terakhir Syaitan telah terjamin.
+
+Namun, pertempuran itu berterusan. Syaitan cuba memusnahkan Yesus di kayu salib dan, pada sepanjang abad, kita melihat dia cuba memusnahkan umat Tuhan. Walaupun Syaitan telah menganiaya gereja Kristus dengan kejam dan membunuh berjuta-juta orang, Tuhan sentiasa hadir bersama umat-Nya dan tidak akan pernah meninggalkan mereka.
+
+Pelajaran pada suku tahun ini akan menelurusi perkembangan utama dalam kontroversi besar ini, bermula dengan pemberontakan di syurga. Kita akan meneroka isu utama konflik antara Kristus dan Syaitan. Kita akan melihat keberanian orang Waldenses yang tidak tergoyahkan walaupun dianiaya dengan hebat, dan keazaman para Pembaharu untuk mengikuti kebenaran Alkitab walaupun dalam menghadapi penyeksaan, dirantai, dipancang, dan mati syahid.
+
+Ketika mengulas tentang iman tokoh rohani ini, Ellen G. White menyatakan, “Alkitab adalah kuasa mereka, dan melalui pengajarannya mereka menguji semua doktrin dan semua tuntutan. Iman kepada Tuhan dan firman-Nya menopang orang-orang suci ini semasa mereka menyerahkan nyawa mereka di pancang.”—The Great Controversy, ms. 249.
+
+Gerakan reformasi telah menyalakan obor kebenaran yang masih menyala dengan terang. Iman para pembaharu berlandaskan dengan teguh pada Kitab Suci dan jaminan keselamatan mereka yang teguh melalui rahmat melalui iman membuka jalan bagi kebangkitan gerakan Advent, yang diperjuangkan oleh William Miller dan sejumlah besar orang lain di seluruh dunia.
+
+Gereja Seventh-day Adventist telah dibangkitkan oleh Tuhan untuk membina atas asas yang diletakkan oleh Pembaharu untuk memulihkan kebenaran alkitabiah yang telah hilang dari pandangan selama berabad-abad. Inti kepada misinya ialah mengisytiharkan mesej tiga malaikat dalam Wahyu 14:6-12, amaran terakhir Tuhan kepada dunia yang akan segera akan berakhir.
+
+Pengisytiharan ini membangkitkan kemarahan Syaitan, yang digambarkan sebagai seekor naga oleh rasul Yohanes: “Naga itu amat marah terhadap perempuan itu lalu pergi memerangi anak-anaknya yang lain, yang taat kepada perintah Allah dan mempunyai kesaksian Yesus Kristus” (Wahyu 12:17, AVB). Kita juga akan mengkaji peristiwa-peristiwa terakhir dalam kontroversi besar ini, termasuk kemenangan kasih Tuhan atas semua kerajaan dan kuasa neraka, yang membawa kepada penciptaan langit baru dan bumi baru.
+
+Walaupun asas utama pelajaran suku tahun ini adalah Alkitab, kita akan menggunakan buku The Great Controversy, oleh Ellen G. White, sebagai garis besar tematik kita dalam mempelajari topik yang hebat biasa ini. Bab-bab yang menjadi asas setiap pelajaran dicatatkan untuk memudahkan penggunaannya sebagai buku pendamping untuk kajian dan perkongsian lanjut supaya kita semua mungkin lebih “mengetahui kasih Kristus ini yang tidak terjangkau oleh pengetahuan” (Ef. 3:19, AVB).
+
+_Berasal dari Connecticut, A.S., Mark Finley, seorang penginjil yang terkenal di peringkat antarabangsa, adalah naib-presiden di General Conference dari 2005–2010. Selepas bersara daripada pekerjaan sepenuh masa, beliau menjadi pembantu kepada presiden General Conference. Pastor Finley dan isterinya, Ernestine, mempunyai tiga anak dan lima cucu._
