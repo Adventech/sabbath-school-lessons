@@ -1,0 +1,23 @@
+### Suuri taistelu
+
+Jos sinulta kysyttäisiin: “Mikä on koko Raamatun keskeisin teema?” kuinka vastaisit? Onko se Jeesus? Pelastussuunnitelma? Vai risti? Kaikkiin näihin kolmeen ehdotukseen vastaisimme: “Kyllä, ehdottomasti.” Nämä kolme tärkeää aihetta avautuvat kuitenkin entistä paremmin erästä vielä kattavampaa teemaa vasten, jota voimme kutsua suuren taistelun teemaksi. Tämä teema läpäisee koko Raamatun Ensimmäisestä Mooseksen kirjasta aina Ilmestyskirjaan asti.
+
+Suuri taistelu alkoi taivaassa Luciferin noustua kapinaan Jumalaa vastaan. Tämän kosmisen konfliktin ytimessä on kysymys Jumalan rakkaudesta. Onko hän täysin rakastava? Onko hänellä luotujensa etu mielessään? Vai onko hän määräilevä diktaattori, joka haluaa pitää huolta vain omista eduistaan.
+
+Tämän neljänneksen tutkisteluissa jäljitämme maailmanhistoriaa Jumalan näkökulmasta, sellaisena kuin se profetioissa on paljastettu. Liikumme Kristuksen ajasta vuosisatoja eteenpäin aina meidän aikaamme ja sen jälkeiseen aikaan asti. Jumalan luonne on rakkaus, ja siksi kaikki hänen tekonsa ovat rakastavia, vaikkei tämä aina ole niin ilmeistä rajallisille ihmisille tai edes enkeleille. Jumalan rakkaus paljastuu kuitenkin asteittain suuren taistelun edetessä. Me näemme sen korkeuden ja syvyyden selvimmin ristin kautta. Golgatalla Jumalan rakkaus tuli näkyväksi koko maailmankaikkeudelle, kun Kristus antoi elämänsä lunastaakseen ihmiskunnan ja varmisti näin Paholaisen lopullisen tappion.
+
+Silti taistelu raivoaa edelleen. Paholainen yritti tuhota Jeesuksen ristillä, ja vuosisatojen ajan hän on yrittänyt tuhota Jumalan kansaa. Vaikka Paholainen on säälimättä vainonnut Kristuksen seurakuntaa ja teurastanut miljoonia, Jumala on aina ollut läsnä kansansa kanssa, eikä hän koskaan jätä heitä.
+
+Tässä neljänneksessä seuraamme suuren taistelun tärkeimpiä tapahtumia alkaen kapinasta taivaassa. Tutkimme Kristuksen ja Paholaisen välisen taistelun keskeisiä kysymyksiä. Tulemme näkemään valdolaisten peräänantamattoman rohkeuden ankarasta vainosta huolimatta sekä uskonpuhdistajien päättäväisyyden seurata Raamatun totuutta kidutuksen, kahleiden, polttorovion ja marttyyrikuoleman uhallakin.
+
+Ellen G. White toteaa näiden hengellisten jättiläisten uskosta seuraavaa: “Raamattu oli heidän ohjeensa, ja sen opetuksilla he koettelivat kaikki opit ja vaatimukset. Usko Jumalaan ja hänen sanaansa ylläpiti näitä pyhiä miehiä, kun he antoivat roviolla henkensä.” (ST2023 156, 157.)
+
+Uskonpuhdistus sytytti totuuden soihdun, joka palaa yhä kirkkaana. Uskonpuhdistajien järkkymätön usko Raamattuun ja heidän vankkumaton vakaumuksensa siitä, että pelastus tulee uskon kautta yksin armosta, tasoittivat tietä adventtiliikkeen nousulle, jonka puolesta William Miller ja monet muut ympäri maailmaa taistelivat.
+
+Jumala nostatti seitsemännen päivän adventistit rakentamaan uskonpuhdistajien laskemalle perustukselle, jotta raamatullinen totuus, joka oli ollut unohdettuna vuosisatojen ajan, voisi jälleen nousta kunniaan. Adventtikirkon keskeisenä tehtävänä on julistaa Ilmestyskirjasta löytyvää kolmen enkelin sanomaa (Ilm. 14:6–12), joka on Jumalan viimeinen varoitus tälle maailmalle, jonka loppu jo häämöttää.
+
+Kolmen enkelin sanoman julistaminen herättää vihaa Paholaisessa, jota apostoli Johannes kuvasi lohikäärmeeksi: “Lohikäärmeen raivo yltyi, ja se lähti sotimaan naisen muita lapsia vastaan, niitä, jotka ovat uskollisia Jumalan käskyille ja Jeesuksen todistukselle.” (Ilm. 12:17.) Tutkimme myös suuren taistelun viimeisiä tapahtumia, joihin kuuluu Jumalan rakkauden voitto kaikista helvetin valloista ja voimista. Tuo voitto tuo mukanaan uuden taivaan ja uuden maan luomisen.
+
+Vaikka tämän neljänneksen tutkisteluiden perustana on Raamattu, käytämme Ellen G. Whiten kirjaa Suuri taistelu (Alfa ja omega -kirjasarjan osat 7 ja 8) teemalle ominaisten suuntaviivojen antajana tämän valtavan suuren aiheen tutkimisessa. Luvut, joihin kukin tutkistelu perustuu, on mainittu, jotta niitä olisi vaivatonta käyttää lisälukemisena ja helposti jaettavana aineistona, jotta me kaikki voisimme täydemmin “tajuta Kristuksen rakkauden, joka ylittää kaiken tiedon” (Ef. 3:19).
+
+_Yhdysvaltojen Connecticutin osavaltiosta kotoisin oleva Mark Finley on kansainvälisesti tunnettu evankelista, joka toimi maailmanlaajuisen adventtikirkon keskustoimiston (pääkonferenssin) varajohtajana vuosina 2005–2010. Jäätyään eläkkeelle kokoaikatyöstään hänestä tuli pääkonferenssin johtajan avustaja. Pastori Finleyllä ja hänen vaimollaan Ernestinellä on kolme lasta ja viisi lastenlasta._

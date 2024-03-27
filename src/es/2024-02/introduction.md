@@ -1,0 +1,23 @@
+### El gran conflicto
+
+Si te preguntaran: “¿Qué eje temático atraviesa toda la Biblia?”, ¿qué responderías? ¿Jesús? ¿El Plan de Salvación? ¿La Cruz? Sí a los tres, ¡por supuesto! Pero estos tres importantes temas se desarrollan en el marco de una trama aún más abarcadora: “El Gran Conflicto”. Esta temática permea toda la Biblia, desde el libro de Génesis hasta el libro de Apocalipsis.
+
+El Gran Conflicto comenzó en el Cielo con la rebelión de Lucifer en contra de Dios. En el centro de este conflicto cósmico está la temática del amor de Dios. ¿Es todo amor? ¿Tiene en cuenta los intereses de sus criaturas? ¿O es un dictador autoritario a quien solo le interesa lo que le conviene?
+
+Las lecciones de este trimestre recorren la historia del mundo desde la perspectiva de Dios, tal como lo revela la profecía, desde los tiempos de Cristo, a lo largo de los siglos, hasta nuestros días y más allá. La naturaleza misma de Dios es amor y, por lo tanto, todos sus actos son amorosos, aunque este hecho no siempre sea evidente para los seres humanos finitos, o incluso para los ángeles. Pero el amor de Dios se revela progresivamente a medida que se desarrolla el Gran Conflicto. Percibimos su altura y profundidad en forma más clara mediante la Cruz. En el Calvario, el amor de Dios se manifestó ante todo el universo cuando Cristo derramó su vida para redimir a la humanidad y la derrota definitiva de Satanás quedó garantizada.
+
+Sin embargo, la batalla continúa. Satanás trató de destruir a Jesús en la Cruz, y a lo largo de los siglos lo vemos tratando de destruir al pueblo de Dios. Aunque Satanás ha perseguido con saña a la iglesia de Cristo y ha masacrado a millones de personas, Dios siempre ha estado presente con su pueblo y nunca lo abandonará.
+
+Este trimestre trazaremos los principales acontecimientos del Gran Conflicto, comenzando con la rebelión en el Cielo. Exploraremos las cuestiones centrales del conflicto entre Cristo y Satanás. Veremos la valentía indómita de los valdenses a pesar de la feroz persecución, y la determinación de los reformadores de seguir la verdad bíblica incluso ante la tortura, las cadenas, la hoguera y el martirio.
+
+Al referirse a la fe de estos gigantes espirituales, Elena de White afirma: “La Biblia era su autoridad, y por medio de las enseñanzas de ella juzgaban todas las doctrinas y exigencias. La fe en Dios y en su Palabra era lo que sostenía a estos santos varones cuando entregaban su vida en la hoguera” (El conflicto de los siglos, p. 255).
+
+La Reforma encendió una antorcha de la verdad que aún brilla intensamente. La fe inquebrantable que los reformadores tenían en las Escrituras y su firme seguridad en la salvación por gracia mediante la fe allanaron el camino para el surgimiento del movimiento adventista, impulsado por William Miller y muchos otros en todo el mundo.
+
+Dios estableció la Iglesia Adventista del Séptimo Día para edificar sobre los cimientos establecidos por los reformadores, con el fin de restaurar las verdades bíblicas que se habían perdido de vista a lo largo de los siglos. Un elemento fundamental de su misión es la proclamación del mensaje de los tres ángeles de Apocalipsis 14:6 al 12, la advertencia final de Dios a un mundo que pronto llegará a su fin.
+
+Esta proclamación despierta la ira de Satanás, descrito como un dragón por el apóstol Juan: “Entonces el dragón se airó contra la mujer, y fue a combatir al resto de sus hijos, los que guardan los mandamientos de Dios y tienen el testimonio de Jesús” (Apoc. 12:17). También estudiaremos los acontecimientos finales del Gran Conflicto, incluyendo el triunfo del amor de Dios sobre todos los principados y las potestades del infierno, lo que da paso a la creación de nuevos cielos y una nueva Tierra.
+
+Aunque la base de las lecciones de este trimestre es la Biblia, utilizaremos el libro El conflicto de los siglos, de Elena de White, como índice temático para estudiar este tema formidable. Se indican los capítulos en los que se basa cada lección a fin de facilitar su uso como libro complementario para profundizar en el estudio y compartir, y para que todos podamos “conocer el amor de Cristo, que excede a todo conocimiento” (Efe. 3:19).
+
+_Mark Finley, oriundo de Connecticut (EE. UU.), es un reconocido evangelista internacional. Fue vicepresidente de la Asociacin General entre 2005 y 2010. Tras retirarse de su empleo de tiempo completo, pasa ser asistente del presidente de la Asociacin General. El pastor Finley y su esposa, Ernestine, tienen tres hijos y cinco nietos._
