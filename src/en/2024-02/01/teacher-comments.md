@@ -23,9 +23,9 @@ For this reason, God’s plan of salvation does not consist in simply identifyin
 
 Lesson Themes: This week’s lesson highlights three major themes:
 
-1.	Evil and the cosmic conflict originated in a perfect heaven. They then spread to earth, taking root in the hearts and minds of free moral agents, who were created in the image of God.
-2.	Sin and evil became manifest as rebellion against God.
-3.	The only way to salvation, and to the end of the cosmic conflict, is through the Cross and through the mediation of Christ and His creative, restorative power.
+1. Evil and the cosmic conflict originated in a perfect heaven. They then spread to earth, taking root in the hearts and minds of free moral agents, who were created in the image of God.
+2. Sin and evil became manifest as rebellion against God.
+3. The only way to salvation, and to the end of the cosmic conflict, is through the Cross and through the mediation of Christ and His creative, restorative power.
 
 #### Part II: Commentary
 
@@ -47,13 +47,13 @@ The Bible is its own expositor. Scripture is to be compared with scripture. The 
 
 As a result of this biblical approach to interpretation, the great controversy theme is interwoven into all other biblical doctrines of Adventist theology. The integration of the great controversy theme into Adventist theology commences with the doctrine of God, with the very essence of His nature as free, loving, gracious, righteous, just, and faithful. Throughout Scripture, the great controversy theme continues to be interwoven with the following doctrines:
 
-1.	The teaching of Creation as an expression of God’s love, freedom, and power
-2.	The origin of human nature, its present condition, and its final destiny
-3.	The fall of humanity from its original righteousness and communion with God
-4.	God’s actions of salvation, as manifested in the incarnation, ministry, death, resurrection, ascension, and mediatorial ministry of Christ in the heavenly sanctuary, as well as in His second coming
-5.	God’s redemptive plan of justification, sanctification, and the promise of future glorification for the human race
-6.	God’s constitution of His people throughout all periods of human history, culminating in the calling out of an end-time remnant from among the Protestant churches to proclaim His final invitation of mercy to humanity
-7.	The pre-Advent, millennial, and executive judgments of God, climaxing in the end of evil and in the restoration of all things
+1. The teaching of Creation as an expression of God’s love, freedom, and power
+2. The origin of human nature, its present condition, and its final destiny
+3. The fall of humanity from its original righteousness and communion with God
+4. God’s actions of salvation, as manifested in the incarnation, ministry, death, resurrection, ascension, and mediatorial ministry of Christ in the heavenly sanctuary, as well as in His second coming
+5. God’s redemptive plan of justification, sanctification, and the promise of future glorification for the human race
+6. God’s constitution of His people throughout all periods of human history, culminating in the calling out of an end-time remnant from among the Protestant churches to proclaim His final invitation of mercy to humanity
+7. The pre-Advent, millennial, and executive judgments of God, climaxing in the end of evil and in the restoration of all things
 
 Second, the great controversy is historical in nature. Because traditional Christianity integrated Greek philosophical presuppositions and concepts, such as the immaterial, timeless, spaceless nature of heaven, many Christians interpret biblical references to the cosmic conflict and of the fall of humans into sin, as allegories or theological myths. However, the Adventist historical-grammatical interpretation of the Bible presents God as personally and historically involved in the history of humanity’s fall into sin and in the history of salvation. God, Lucifer, the angels—both rebellious and righteous—Adam and Eve, and their fall into sin are all real historical characters and events. Jesus referred to Satan as a literal, historical person, one whom Jesus knew from before the start of this earth’s history, and who was the originator of evil and sin. Jesus once explained to the Pharisees that they were neither the children of Abraham (John 8:39, 40) nor the children of God (John 8:41, 42), but rather were of their father “the devil” who “was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies” (John 8:44, NIV).
 
@@ -63,6 +63,14 @@ John the revelator also depicts both the devil and the cosmic conflict that he i
 
 Discuss the following questions in class with your students.
 
-1.	What do people in your culture think of the apparent existence of the conflict between good and evil, both in our world and in human society? How do they understand the origin of evil? Do they believe evil will ever end? Why, or why not? Have they already given up on any hope for the termination of evil? If so, why? Perhaps they think evil is here to stay, or is even necessary to keep some sort of balance in the universe and in history. If so, explain why they may feel this way. How can you share with them the biblical perspective on evil?
-2.	In what way do the various theories about the origin of the conflict between good and evil affect the understanding of human morality and responsibility? Take, for instance, the theory of evolution. How does this theory impact our understanding of the origin of evil and, consequently, our understanding of human morality? What other theories regarding the origin of evil can you think of, besides evolution, that are prevalent in your culture?
-3.	Think of ways to describe and explain to the people around you the Adventist doctrine of the origin of evil, of the great controversy, and of the biblical hope. How can you share these Bible truths with your friends, neighbors, and colleagues from other Christian denominations or from other religions, philosophies, or worldviews? What elements would you include in the outline of your description of the great controversy?
+What do people in your culture think of the apparent existence of the conflict between good and evil, both in our world and in human society? How do they understand the origin of evil? Do they believe evil will ever end? Why, or why not? Have they already given up on any hope for the termination of evil? If so, why? Perhaps they think evil is here to stay, or is even necessary to keep some sort of balance in the universe and in history. If so, explain why they may feel this way. How can you share with them the biblical perspective on evil?
+
+` `
+
+In what way do the various theories about the origin of the conflict between good and evil affect the understanding of human morality and responsibility? Take, for instance, the theory of evolution. How does this theory impact our understanding of the origin of evil and, consequently, our understanding of human morality? What other theories regarding the origin of evil can you think of, besides evolution, that are prevalent in your culture?
+
+` `
+
+Think of ways to describe and explain to the people around you the Adventist doctrine of the origin of evil, of the great controversy, and of the biblical hope. How can you share these Bible truths with your friends, neighbors, and colleagues from other Christian denominations or from other religions, philosophies, or worldviews? What elements would you include in the outline of your description of the great controversy?
+
+` `

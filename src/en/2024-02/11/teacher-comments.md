@@ -17,8 +17,8 @@ But God has never been without a people in the great controversy. To the end of 
 
 Lesson Themes: This study highlights two major themes:
 
-1.	Biblical prophecy describes a final battle between God and His people on the one side, and the devil and his agents (symbolized, in Revelation 13, by the beasts from the sea and the earth) on the other. The battle will focus on worship and the Sabbath, which celebrates God’s Creatorship, Kingship, and salvation.
-2.	God will emerge victorious. He calls His people to partake in His victory over evil and over the devil by proclaiming His eternal gospel.
+1. Biblical prophecy describes a final battle between God and His people on the one side, and the devil and his agents (symbolized, in Revelation 13, by the beasts from the sea and the earth) on the other. The battle will focus on worship and the Sabbath, which celebrates God’s Creatorship, Kingship, and salvation.
+2. God will emerge victorious. He calls His people to partake in His victory over evil and over the devil by proclaiming His eternal gospel.
 
 #### Part II: Commentary
 
@@ -58,6 +58,14 @@ Second, as God’s prophet for the remnant church, Ellen G. White clearly has wa
 
 #### Part III: Life Application
 
-1.	Maybe you live in a place far from the influence of the Roman Catholic Church or from an American presence or impact. How would you, then, best explain to your friends the prophecies about the beast from the sea and the beast from the land?
-2.	Is it consistent for us to identify the Roman Catholic Church as the sea beast and the United States as the earth beast and, at the same time, pray for the salvation of the people associated with these entities? Explain your answer.
-3.	The prophet Daniel, the medieval Christians, the nineteenth-century Adventists, the Adventists in the Soviet Union and in many other places and times trusted Bible prophecy against all odds. How can you trust Bible prophecy when all evidence seems contrary to its fulfillment?
+Maybe you live in a place far from the influence of the Roman Catholic Church or from an American presence or impact. How would you, then, best explain to your friends the prophecies about the beast from the sea and the beast from the land?
+
+` `
+
+Is it consistent for us to identify the Roman Catholic Church as the sea beast and the United States as the earth beast and, at the same time, pray for the salvation of the people associated with these entities? Explain your answer.
+
+` `
+
+The prophet Daniel, the medieval Christians, the nineteenth-century Adventists, the Adventists in the Soviet Union and in many other places and times trusted Bible prophecy against all odds. How can you trust Bible prophecy when all evidence seems contrary to its fulfillment?
+
+` `

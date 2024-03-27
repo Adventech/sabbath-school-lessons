@@ -15,8 +15,8 @@ By the end of the 70-week prophetic period, there were faithful people of God, s
 
 Lesson Themes: This study focuses on two major themes:
 
-1.	Although the exact date and year of Christ’s second coming is not given in the biblical prophecies, the 70-week and 2,300-days prophecies, which are related to both the first and the second coming of Jesus, have been fulfilled with precision. Their precise fulfillment assures us that Christ’s second coming is certain and imminent.
-2.	The Adventist people were called by God to proclaim to the world the fulfillment of the longest time prophecy in the Bible. God also appointed them to call the world to embrace the hope in the second coming of Jesus to end the great controversy forever.
+1. Although the exact date and year of Christ’s second coming is not given in the biblical prophecies, the 70-week and 2,300-days prophecies, which are related to both the first and the second coming of Jesus, have been fulfilled with precision. Their precise fulfillment assures us that Christ’s second coming is certain and imminent.
+2. The Adventist people were called by God to proclaim to the world the fulfillment of the longest time prophecy in the Bible. God also appointed them to call the world to embrace the hope in the second coming of Jesus to end the great controversy forever.
 
 #### Part II: Commentary
 
@@ -26,7 +26,7 @@ Hope and optimism filled the atmosphere of the nineteenth-century United States,
 
 But what is postmillennialism? Millennialism comes from the word “millennium,” which refers to the 1,000 years of Christ’s reign with the saints as described in Revelation 20:1–6. While most Christians accept this biblical teaching about the millennium, not all agree on how to relate the millennium to the Second Coming and to the last judgment.
 
-The first post-apostolic theologians—the apostolic fathers—adopted premillennialism, the belief that Christ would return to earth before the millennium and execute the last judgment. (Adventists, of course, understand that the millennium will be in heaven.) However, soon, subsequent church fathers, such as Origen of Alexandria (a.d. 185–253/254) and Augustine of Hippo (a.d. 354–430), integrated Greek philosophy with Christian theology and applied the allegorical method to the reading and interpretation of the Bible. Consequently, they rejected premillennialism as a naive and superficial reading of the book of Revelation, and proposed instead a new theory of the millennium, which was later called amillennialism.
+The first post-apostolic theologians—the apostolic fathers—adopted premillennialism, the belief that Christ would return to earth before the millennium and execute the last judgment. (Adventists, of course, understand that the millennium will be in heaven.) However, soon, subsequent church fathers, such as Origen of Alexandria (A.D. 185–253/254) and Augustine of Hippo (A.D. 354–430), integrated Greek philosophy with Christian theology and applied the allegorical method to the reading and interpretation of the Bible. Consequently, they rejected premillennialism as a naive and superficial reading of the book of Revelation, and proposed instead a new theory of the millennium, which was later called amillennialism.
 
 According to this theory, the millennium must be understood allegorically or spiritually. As in Greek philosophy, which posited that time has no particular relevance to spirituality or to the ethereal sphere of existence, these church fathers concluded that the millennium refers to the church period that runs between the first and the second comings of Jesus. For this reason, the millennium is not past or future but represents the entire Christian era. During this period, Christ reigns spiritually with the souls of the dead saints in heaven, as well as with the church on earth. The church is God’s kingdom on this planet. Christ works to establish His church to the ends of the earth, thus diminishing the power of the devil. However, before the Second Coming, Satan will corrupt the church, leading to the installment of the antichrist. At this moment, Jesus will return, saving the church from the antichrist, and executing the last judgment, thereby reestablishing a new order of things. This position was embraced by the Roman Catholic Church, the Orthodox churches, and some Protestant denominations, such as the Lutheran, Anglican, and the Presbyterian churches.
 
@@ -48,6 +48,14 @@ In just a few decades, the twentieth century’s two world wars and one cold war
 
 #### Part III: Life Application
 
-1.	How does the second coming of Jesus Christ bring hope to your religious and/or cultural context? How can you explain to your neighbors that the return of Jesus is humanity’s only hope?
-2.	How relevant is the fulfillment of the biblical time prophecies (such as 2,300 years) in your religious or cultural context? Think and propose ways in which you could make it relevant to the people of your community.
-3.	William Miller developed a specific way of reading and understanding the Bible. What is your model of reading and interpreting the Scriptures? Develop and share with your Sabbath School class your own meaningful way of understanding God’s Word. Share how Bible truth has transformed not only your own life but also the life of your family and of your community.
+How does the second coming of Jesus Christ bring hope to your religious and/or cultural context? How can you explain to your neighbors that the return of Jesus is humanity’s only hope?
+
+` `
+
+How relevant is the fulfillment of the biblical time prophecies (such as 2,300 years) in your religious or cultural context? Think and propose ways in which you could make it relevant to the people of your community.
+
+` `
+
+William Miller developed a specific way of reading and understanding the Bible. What is your model of reading and interpreting the Scriptures? Develop and share with your Sabbath School class your own meaningful way of understanding God’s Word. Share how Bible truth has transformed not only your own life but also the life of your family and of your community.
+
+` `

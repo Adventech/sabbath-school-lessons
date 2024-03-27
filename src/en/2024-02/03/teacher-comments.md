@@ -19,10 +19,10 @@ The Bible depicts the great controversy in terms of a conflict between two radic
 
 Lesson Themes: This week’s lesson highlights four major themes:
 
-1.	In depicting the great controversy, the Bible uses diametrically opposed terms, such as light and darkness, to highlight the fact that God and His people cannot compromise the truth in any way with error and falsehood.
-2.	From the earliest days of Jesus’ ministry and in the subsequent work of His apostles, the devil relentlessly pressured the church to slide into error or, at the very least, to compromise God’s truth.
-3.	To compromise truth, however, is tantamount to the betrayal of God and the destruction of truth itself. Ultimately, such compromise constitutes siding with Satan.
-4.	The only way the church may emerge victorious in the great controversy is to remain faithful to the divine revelation in Jesus Christ and in God’s Holy Word.
+1. In depicting the great controversy, the Bible uses diametrically opposed terms, such as light and darkness, to highlight the fact that God and His people cannot compromise the truth in any way with error and falsehood.
+2. From the earliest days of Jesus’ ministry and in the subsequent work of His apostles, the devil relentlessly pressured the church to slide into error or, at the very least, to compromise God’s truth.
+3. To compromise truth, however, is tantamount to the betrayal of God and the destruction of truth itself. Ultimately, such compromise constitutes siding with Satan.
+4. The only way the church may emerge victorious in the great controversy is to remain faithful to the divine revelation in Jesus Christ and in God’s Holy Word.
 
 #### Part II: Commentary
 
@@ -56,6 +56,14 @@ For the same reasons, God’s true people do not compromise. True, traditional C
 
 #### Part III: Life Application
 
-1.	What criterion or criteria does your culture appeal to in order to determine what is truth? What are the sources of truth in your society, religion, or culture? In what ways, if any, does your society or culture view the Bible as the source of truth about the origin, meaning, direction, and destiny of our world?
-2.	In what ways can you share our Adventist understanding of the Scriptures as the premier trustworthy source of truth? How does this understanding of Scripture help us develop the correct worldview and path to salvation?
-3.	Examine your life. Do you think there are areas in your life that are the result of compromising God’s truth? If yes, what are they? What can you do to rectify this situation?
+What criterion or criteria does your culture appeal to in order to determine what is truth? What are the sources of truth in your society, religion, or culture? In what ways, if any, does your society or culture view the Bible as the source of truth about the origin, meaning, direction, and destiny of our world?
+
+` `
+
+In what ways can you share our Adventist understanding of the Scriptures as the premier trustworthy source of truth? How does this understanding of Scripture help us develop the correct worldview and path to salvation?
+
+` `
+
+Examine your life. Do you think there are areas in your life that are the result of compromising God’s truth? If yes, what are they? What can you do to rectify this situation?
+
+` `

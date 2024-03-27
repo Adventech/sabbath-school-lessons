@@ -11,7 +11,7 @@ Study Focus: John 14:6; Jude 3, 4; Rev. 2:10; 1 John 1:7; Heb. 11:6; Acts 4:12; 
 
 Introduction: The early and medieval faithful Christians were characterized not only by their individual faithfulness to God and to His Word but also by the public stand they took in proclaiming the principles of God’s kingdom and of salvation. This week, we continue to witness the church’s stand on the side of God in the great controversy, throughout the periods of the Middle Ages and during the Reformation. During this time, the early Reformers and church leaders drew inspiration from the example of Christ and the apostles, as well as from martyrs, such as Polycarp.
 
-This era of reform comprises no ordinary period of persecution, though; rather, it constitutes a prophetic period of 1,260 years, spanning from a.d. 538 to a.d. 1798. As in the case of the other prophetic periods of persecution, this era also points to the fact that the time of persecution is limited and that God is ultimately in control.
+This era of reform comprises no ordinary period of persecution, though; rather, it constitutes a prophetic period of 1,260 years, spanning from A.D. 538 to A.D. 1798. As in the case of the other prophetic periods of persecution, this era also points to the fact that the time of persecution is limited and that God is ultimately in control.
 
 During this epoch, numerous Christians, such as the Waldensians, Wycliffe, and Huss, not only suffered persecution at the hands of God’s enemies but went on the offensive against the forces of spiritual darkness. The weapons of their offensive were not derived from their own strength, vision, or wisdom. Nor did these defenders of the faith mount an assault against the forces of evil with cunningly devised military strategies. Rather, the mission of the true Christians and the secret of their power consisted in their discovery of, love for, and proclamation of the Word of God, no matter the cost.
 
@@ -19,9 +19,9 @@ The work of the Reformers resulted in a double achievement for both humanity and
 
 Lesson Themes: This week’s lesson emphasizes three major themes:
 
-1.	The persecution that the medieval church waged against Bible-believing Christians transpired during a prophetic period, limited in time and under God’s ultimate supervision, as forecasted by Scripture.
-2.	The Waldensians, John Wycliffe, and John Huss illustrate what it means to stand on the side of God, witnessing to and proclaiming the Word of God in the darkest times of the cosmic conflict.
-3.	God’s Word is our greatest source of hope and power, enabling us to live, and stand, on God’s side.
+1. The persecution that the medieval church waged against Bible-believing Christians transpired during a prophetic period, limited in time and under God’s ultimate supervision, as forecasted by Scripture.
+2. The Waldensians, John Wycliffe, and John Huss illustrate what it means to stand on the side of God, witnessing to and proclaiming the Word of God in the darkest times of the cosmic conflict.
+3. God’s Word is our greatest source of hope and power, enabling us to live, and stand, on God’s side.
 
 #### Part II: Commentary
 
@@ -81,5 +81,10 @@ The Waldenses did not, in their lifetimes, receive the reward for their faithful
 
 #### Part III: Life Application
 
-1.	The Waldenses spread the Word of God in times of persecution. Maybe, like them, you are in a setting of persecution. Or perhaps you are currently in a situation of religious tolerance and peacefulness. Either way, what can you do to spread the Word of God in your circumstance in a meaningful way for the people around you?
-2.	Develop a three-point plan to help you stand faithful on the side of God in times of persecution. Share your plan with your family or Sabbath School group.
+The Waldenses spread the Word of God in times of persecution. Maybe, like them, you are in a setting of persecution. Or perhaps you are currently in a situation of religious tolerance and peacefulness. Either way, what can you do to spread the Word of God in your circumstance in a meaningful way for the people around you?
+
+` `
+
+Develop a three-point plan to help you stand faithful on the side of God in times of persecution. Share your plan with your family or Sabbath School group.
+
+` `
