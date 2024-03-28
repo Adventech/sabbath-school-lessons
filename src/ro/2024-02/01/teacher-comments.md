@@ -1,6 +1,6 @@
 ---
 title:  Material Pentru Instructori
-date:  05/04/2023
+date:  05/04/2024
 ---
 
 ### I. Privire generală
