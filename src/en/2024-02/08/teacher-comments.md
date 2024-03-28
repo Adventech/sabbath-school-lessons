@@ -11,17 +11,12 @@ Study Focus: Exod. 25:8, 9, 40; Heb. 8:1–6; Matt. 25:1–10; Dan. 7:9, 10; Heb
 
 Introduction: So prominent is the theme of the sanctuary in both the Old and New Testaments that it is simply astonishing to consider that many Christians lost sight of the doctrine of the heavenly sanctuary for almost two millennia. Seventh-day Adventists realized that the doctrine of the heavenly sanctuary was not only an important biblical teaching but was the central tenet of a biblical theology that connected other doctrines. These teachings include:
 
-•	the doctrine of God, His character, creation, work, and government;
-
-•	the doctrine of the origin of evil and of the great controversy;
-
-•	the doctrine of Christ, His first coming to earth, His incarnation, life, ministry, death, resurrection, and ascension;
-
-•	the doctrine of salvation in Christ;
-
-•	the doctrine of the last things, the second coming of Christ, the final judgment, and the restoration of all things; and
-
-•	the doctrine of the church, especially the teaching of the remnant church in the end time, before the second coming of Jesus.
+* the doctrine of God, His character, creation, work, and government;
+* the doctrine of the origin of evil and of the great controversy;
+* the doctrine of Christ, His first coming to earth, His incarnation, life, ministry, death, resurrection, and ascension;
+* the doctrine of salvation in Christ;
+* the doctrine of the last things, the second coming of Christ, the final judgment, and the restoration of all things; and
+* the doctrine of the church, especially the teaching of the remnant church in the end time, before the second coming of Jesus.
 
 The longest biblical prophecy—the 2,300 years of Daniel 8:14—concerns the heavenly sanctuary and the great controversy. This prophecy acquaints us with both the attack on the heavenly sanctuary and its cleansing in the day of God’s judgment and in the restoration of all things. However, Adventists do not think of this prophecy as a mere abstraction with no basis or fulfillment in reality. Rather, they understand that this prophecy was fulfilled in history, commencing in the mid-nineteenth century, in 1844. The fulfillment of this prophecy calls for all people living in these probationary times to accept Jesus’ atonement for their sins before the close of His intercessory ministry in the heavenly sanctuary.
 
@@ -29,8 +24,8 @@ The fulfillment of the 2,300-day prophecy is especially important to Adventists 
 
 Lesson Themes: The study for this week highlights two major themes:
 
-1.	The earthly sanctuary in the Old Testament was not just a part of the culture of Israel; it principally pointed to the heavenly sanctuary and the ministry of Jesus on behalf of humanity.
-2.	As such, the heavenly sanctuary is central to the universal and eternal gospel, to the salvation of humanity, and to the mission of the church.
+1. The earthly sanctuary in the Old Testament was not just a part of the culture of Israel; it principally pointed to the heavenly sanctuary and the ministry of Jesus on behalf of humanity.
+2. As such, the heavenly sanctuary is central to the universal and eternal gospel, to the salvation of humanity, and to the mission of the church.
 
 #### Part II: Commentary
 
@@ -40,13 +35,13 @@ The first and the second coming of Jesus are closely associated with the sanctua
 
 The longest biblical prophecy, that of the 2,300 years (Dan. 8:14), was focused on the heavenly sanctuary (Dan. 8:10–12). This prophecy was “sealed,” or confirmed (Dan. 9:24), by the first coming of Jesus to the earthly sanctuary. After receiving the 2,300-year prophecy, Daniel “was astounded . . . and there was no one who could explain it” (Dan. 8:27, AMP). Left without an explanation for this vision for several years, Daniel focused on the data he had at hand: Jeremiah’s prophecy concerning the 70 years of “the desolations of Jerusalem” (Dan. 9:2, NASB; compare with Jer. 25:11, 12).
 
-Daniel prayed for God’s intervention to fulfill Jeremiah’s 70-year prophecy, pleading with the Most High to redeem His people (Dan. 9:3–19), and to “let Your face shine on Your desolate sanctuary” (Dan. 9:17, NASB). To Daniel’s joy, God sent “the man Gabriel” to instruct him (Dan. 9:21, 22). However, Gabriel did not immediately focus on answering Daniel’s prayer about Jeremiah’s 70-year prophecy. Instead, Gabriel began to exhort Daniel to “pay attention to the message and gain understanding of the vision” (Dan. 9:23, NASB). Obviously, the vision in question is the one described in Daniel 8:14 because Gabriel does not speak of 70 literal weeks but of 70 prophetic weeks (Dan. 9:24), or 490 years. The 490 years could be “determined” or deducted only from the 2,300 years in Daniel’s vision (Dan. 8:14)—not from the 70 years in Jeremiah’s prophecy. By this calculation, Gabriel also revealed the event that marked the beginning of the 70 prophetic weeks and, therefore, of the 2,300 years. This event was “the issuing of a decree to restore and rebuild Jerusalem” (Dan. 9:25, NASB), which took place in 457 b.c. Thus, the prophecy of the 70 prophetic weeks is a subset, or the first part, of the 2,300-years prophecy; the two periods constitute one great prophecy.
+Daniel prayed for God’s intervention to fulfill Jeremiah’s 70-year prophecy, pleading with the Most High to redeem His people (Dan. 9:3–19), and to “let Your face shine on Your desolate sanctuary” (Dan. 9:17, NASB). To Daniel’s joy, God sent “the man Gabriel” to instruct him (Dan. 9:21, 22). However, Gabriel did not immediately focus on answering Daniel’s prayer about Jeremiah’s 70-year prophecy. Instead, Gabriel began to exhort Daniel to “pay attention to the message and gain understanding of the vision” (Dan. 9:23, NASB). Obviously, the vision in question is the one described in Daniel 8:14 because Gabriel does not speak of 70 literal weeks but of 70 prophetic weeks (Dan. 9:24), or 490 years. The 490 years could be “determined” or deducted only from the 2,300 years in Daniel’s vision (Dan. 8:14)—not from the 70 years in Jeremiah’s prophecy. By this calculation, Gabriel also revealed the event that marked the beginning of the 70 prophetic weeks and, therefore, of the 2,300 years. This event was “the issuing of a decree to restore and rebuild Jerusalem” (Dan. 9:25, NASB), which took place in 457 B.C. Thus, the prophecy of the 70 prophetic weeks is a subset, or the first part, of the 2,300-years prophecy; the two periods constitute one great prophecy.
 
 Here Gabriel finally answers Daniel’s question and prayer about the restoration and rebuilding of Jerusalem (Dan. 9:25), God’s “holy mountain” (Dan. 9:20). However, Gabriel immediately explains that this fulfillment of Jeremiah’s prophecy of 70 years is only the beginning of a much longer prophecy. That is, it is the beginning of the 70 prophetic weeks, and then the beginning of an even longer prophecy—the 2,300 years. For this reason, keeping the focus on this bigger prophecy, Gabriel further explained to Daniel that these 70 prophetic weeks, or 490 literal years, would be “decreed” or “determined” for “your people and your holy city” (Dan. 9:24, NASB) for a special purpose: “until Messiah the Prince” (Dan. 9:25, NKJV).
 
 The end, or the aim, of these 490 years was the first advent of the Messiah. Gabriel explained that the purpose of the Messiah would be “ ‘to make an end of sin, to make atonement for guilt, to bring in everlasting righteousness . . . and to anoint the Most Holy Place’ ” (Dan. 9:24, NASB). In the seventieth prophetic week, the Messiah would “ ‘confirm a covenant with the many for one week, but in the middle of the week he will put a stop to sacrifice and grain offering’ ” (Dan. 9:27, NASB). The only plausible fulfillment for all these events was in the sacrifice of Jesus, the “ ‘Messiah the Prince’ ” (Dan. 9:25, NASB) and “ ‘the Lamb of God who takes away the sin of the world’ ” (John 1:29, NKJV), who “ ‘will be cut off and have nothing’ ” (Dan. 9:26, NASB).
 
-Thus, the prophecy of the 70 weeks starts the prophecy of the 2,300 years. We can be sure that the 2,300-year prophecy about the cleansing of the sanctuary was fulfilled in 1844 because the prophecy of the 70 weeks (Dan. 9:24–27) was fulfilled with exactitude in the sacrificial death of the Messiah in the middle of the seventieth week, in a.d. 31. In addition, in the same way that the prophecy of the 70 weeks was fulfilled in the Messiah’s sacrificial death in relation to the earthly sanctuary, the prophecy of the 2,300 years would be fulfilled in the Messiah’s cleansing of the heavenly sanctuary. Similarly, the two parts of the prophecy are related to the two comings of the Messiah: the end of the 70-week period relates to Christ’s first coming, while the end of the 2,300 years pertains to His second coming.
+Thus, the prophecy of the 70 weeks starts the prophecy of the 2,300 years. We can be sure that the 2,300-year prophecy about the cleansing of the sanctuary was fulfilled in 1844 because the prophecy of the 70 weeks (Dan. 9:24–27) was fulfilled with exactitude in the sacrificial death of the Messiah in the middle of the seventieth week, in A.D. 31. In addition, in the same way that the prophecy of the 70 weeks was fulfilled in the Messiah’s sacrificial death in relation to the earthly sanctuary, the prophecy of the 2,300 years would be fulfilled in the Messiah’s cleansing of the heavenly sanctuary. Similarly, the two parts of the prophecy are related to the two comings of the Messiah: the end of the 70-week period relates to Christ’s first coming, while the end of the 2,300 years pertains to His second coming.
 
 **The Loss of the Doctrine of the Sanctuary**
 
@@ -68,5 +63,10 @@ Thus, our mission, as Seventh-day Adventists, is to guard against compromising t
 
 #### Part III: Life Application
 
-1.	Think of the concept of priesthood in your culture. How does this concept compare to the biblical concept? How could you use the local concept of priesthood to communicate to other people the priesthood of Jesus?
-2.	Think of the concept of judgment in your culture or country. How does this concept of judgment compare or contrast with the biblical concept of judgment? How could you explain the biblical understanding of judgment to people from your own culture?
+Think of the concept of priesthood in your culture. How does this concept compare to the biblical concept? How could you use the local concept of priesthood to communicate to other people the priesthood of Jesus?
+
+` `
+
+Think of the concept of judgment in your culture or country. How does this concept of judgment compare or contrast with the biblical concept of judgment? How could you explain the biblical understanding of judgment to people from your own culture?
+
+` `

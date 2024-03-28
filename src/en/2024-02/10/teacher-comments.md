@@ -15,9 +15,9 @@ The movement of the European Enlightenment embarked on a long, hard battle to er
 
 Lesson Themes: This study focused on three major themes:
 
-1.	The true essence, and intentions, of spiritualism in the context of the great controversy is to deceive humanity into entering a direct relationship with demonic forces.
-2.	The Bible teaches that humans are unitary, integrated beings; that the first death is a temporary sleep; and that the second death is total annihilation, which is also the biblical depiction of hell.
-3.	The true hope that the Word of God gives us is the resurrection of the entire human being and an eternal relationship with God.
+1. The true essence, and intentions, of spiritualism in the context of the great controversy is to deceive humanity into entering a direct relationship with demonic forces.
+2. The Bible teaches that humans are unitary, integrated beings; that the first death is a temporary sleep; and that the second death is total annihilation, which is also the biblical depiction of hell.
+3. The true hope that the Word of God gives us is the resurrection of the entire human being and an eternal relationship with God.
 
 #### Part II: Commentary
 
@@ -67,5 +67,10 @@ Initially, this fundamental belief was necessitated by the situation in some par
 
 #### Part III: Life Application
 
-1.	What do people in your particular culture think about human nature and death? How can you share with them the truth about death, as taught in the Word of God?
-2.	What do people in your culture think about hell? What can you and your church do in your society to promote the biblical understanding of hell?
+What do people in your particular culture think about human nature and death? How can you share with them the truth about death, as taught in the Word of God?
+
+` `
+
+What do people in your culture think about hell? What can you and your church do in your society to promote the biblical understanding of hell?
+
+` `

@@ -19,20 +19,16 @@ as manifested in Jesus Christ and the Holy Scriptures.
 
 During medieval times, these three principles appeared to be forever engulfed in the devil’s own darkness, never to be upheld, or proclaimed, again. But God called several great warriors, the Reformers, to stand up in the midst of the battlefield and raise the standard of God’s truth once more. These warriors were few. But the paucity in the ranks of the Reformers was meant to show that the movement was not human but divine, both in its origins and in its operations; that is, we who are on God’s side in the great controversy are not winning the battle by our wisdom or strength. On the contrary, we gain the victory in the great controversy only as we give witness to what the Word of God proclaims and to what the power of God’s grace can do, and does, for us and in us. For these reasons, the Reformers understood that their mission was to proclaim the five great solas:
 
-•	sola scriptura (Scripture alone),
-
-•	sola gratia (grace alone),
-
-•	sola fide (faith alone),
-
-•	solus or solo Christus (Christ alone), and
-
-•	soli Deo gloria (to the glory of God alone).
+* sola scriptura (Scripture alone),
+* sola gratia (grace alone),
+* sola fide (faith alone),
+* solus or solo Christus (Christ alone), and
+* soli Deo gloria (to the glory of God alone).
 
 Lesson Themes: This week’s lesson explores two major themes:
 
-1.	To be on God’s side in the great controversy means to manifest an unshakable faith in Scripture as the most authoritative revelation of God’s character and love for us.
-2.	To be on God’s side in the great controversy also means to manifest an unshakable faith in God’s grace as the sole source and way of salvation.
+1. To be on God’s side in the great controversy means to manifest an unshakable faith in Scripture as the most authoritative revelation of God’s character and love for us.
+2. To be on God’s side in the great controversy also means to manifest an unshakable faith in God’s grace as the sole source and way of salvation.
 
 #### Part II: Commentary
 
@@ -72,6 +68,14 @@ As God’s end-time remnant church, Seventh-day Adventists have been divinely en
 
 #### Part III: Life Application
 
-1.	Think of the five solas of the Protestant Reformers. How are they relevant to your life? How are they relevant to the religions and culture around you as well? What contributions could the five solas make to the community in which you live?
-2.	How does your community and/or culture view the Holy Scriptures? In what ways would you say that upholding Scripture in your particular religio-spiritual context is part of the great controversy?
-3.	What is your personal contribution to upholding Scripture in your local community as part of the great controversy? How can you be a Wycliffe, Tyndale, or Luther in your religio-spiritual context?
+Think of the five solas of the Protestant Reformers. How are they relevant to your life? How are they relevant to the religions and culture around you as well? What contributions could the five solas make to the community in which you live?
+
+` `
+
+How does your community and/or culture view the Holy Scriptures? In what ways would you say that upholding Scripture in your particular religio-spiritual context is part of the great controversy?
+
+` `
+
+What is your personal contribution to upholding Scripture in your local community as part of the great controversy? How can you be a Wycliffe, Tyndale, or Luther in your religio-spiritual context?
+
+` `
