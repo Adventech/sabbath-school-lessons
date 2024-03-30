@@ -1,0 +1,77 @@
+---
+title:  Lehrerteil
+date:   03/05/2024
+---
+
+### TEIL I: ÜBERSICHT
+
+**Schlüsseltext:** Psalm 119,11
+
+**Studienschwerpunkt:** Psalm 119,162; 2. Petrus 1,20–21; Johannes 16,13–14; Epheser 2,8–9; Römer 3,23–31; 5,8–10; 6,22–23
+
+**Einführung:**
+
+Die Studienanleitung beleuchtet diese Woche drei zentrale Prinzipien, die den Großen Kampf charakterisieren:
+
+1. Gottes Charakter ist Liebe und Gerechtigkeit.
+2. Der einzige Weg zur Erlösung ist in seiner Liebe und Gerechtigkeit begründet.
+3. Die ersten beiden Prinzipien entspringen einer einzigen Quelle: Gottes Offenbarung, wie sie sich in Jesus Christus und der Heiligen Schrift zeigt.
+
+Im Mittelalter schienen diese drei Grundsätze für immer in der dem Teufel eigenen Finsternis versunken zu sein, mit der Aussicht, nie wieder unterstützt oder verkündet zu werden. Doch Gott rief einige große Krieger, die Reformatoren, dazu auf, mitten auf dem Schlachtfeld aufzustehen und die Fahne der Wahrheit Gottes wieder aufzurichten. Diese Kämpfer waren nur eine kleine Schar. Aber die geringe Zahl der Reformatoren sollte zeigen, dass die Bewegung sowohl in ihren Ursprüngen als auch in ihrem Wirken nicht menschlich, sondern göttlich war: Das heißt, wir, die wir im Großen Kampf auf Gottes Seite stehen, gewinnen den Kampf nicht durch unsere Weisheit oder Kraft. Im Gegenteil, wir erringen den Sieg im Großen Kampf nur, wenn wir bezeugen, was das Wort Gottes verkündet und was die Macht der Gnade Gottes für uns und in uns tun kann und tut. Aus diesen Gründen sahen die Reformatoren ihre Aufgabe darin, die fünf großen solas zu verkünden:
+
+- sola scriptura (allein die Schrift),
+- sola gratia (allein die Gnade),
+- sola fide (allein der Glaube),
+- solus oder solo Christus (allein Christus),
+- soli Deo gloria (allein zur Ehre Gottes).
+
+**Themen der Lektion**
+
+In der Lektion dieser Woche werden zwei wichtige Themen beleuchtet:
+
+1. Im Großen Kampf auf der Seite Gottes zu stehen bedeutet, einen unerschütterlichen Glauben an die Heilige Schrift als einzige Offenbarung von Gottes Charakter und Liebe zu uns zu bekunden.
+2. Im Großen Kampf auf der Seite Gottes zu stehen bedeutet auch, einen unerschütterlichen Glauben an Gottes Gnade als einzige Quelle und einzigen Weg der Erlösung zu bekunden.
+
+### TEIL II: KOMMENTAR
+
+Sola scriptura, sola gratia, sola fide
+
+Warum ist das protestantische Prinzip sola scriptura sehr wichtig für den Großen Kampf? Wie hängt es mit der Erlösung und den anderen protestantischen solas zusammen, insbesondere mit sola gratia und sola fide? (Anmerkung: In Übereinstimmung mit Epheser 2,8 behandelt dieser Kommentar sola gratia und sola fide als Einheit).
+
+Wie wir gesehen haben, begann der Große Kampf im Himmel mit Luzifers falscher Anschuldigung, Gott sei böse und seine Herrschaft diktatorisch. Danach verlagerte sich der Große Kampf auf die Erde, als Luzifer unsere ersten Eltern zu dem Glauben verführte, dass sie Götter seien oder werden könnten. In jeder Phase der Menschheitsgeschichte hat der Teufel mit unermüdlicher Bosheit daran gearbeitet, Gottes Charakter, seine Pläne, seine Souveränität und sein Gesetz zu verzerren. Gott reagierte darauf, indem er sich der Menschheit offenbarte. Eine Möglichkeit, wie Gott sich uns offenbart, ist durch die Natur, die Geschichte, die menschliche Natur und unser Bewusstsein. Diese göttliche Offenbarung wird gemeinhin als allgemeine Offenbarung bezeichnet. Die allgemeine Offenbarung ist jedoch nicht spezifisch, weil sie nicht aussagebezogen daherkommt, das heißt, sie wird nicht direkt in Worte gefasst. Darüber hinaus hat die Sünde die Natur, die Geschichte, die menschliche Natur, die Moral, das menschliche Denken und unsere Wahrnehmung der Wirklichkeit so stark verändert, dass wir die allgemeine Offenbarung nicht mehr richtig einschätzen und begreifen können.
+
+Aus diesen Gründen offenbart sich Gott in erster Linie durch besondere Offenbarung. Besondere Offenbarung bedeutet, dass Gott sich persönlich und mit einer Aussage offenbart. In ihr können wir Gottes Charakter, seine Persönlichkeit, seine Pläne, seine Herrschaft über die menschliche Geschichte und seine Handlungs- und Herrschaftsprinzipien erkennen und verstehen. Vor dem Sündenfall äußerte sich Gottes besondere Offenbarung durch seine persönliche Beziehung und seine Gespräche mit Adam und Eva. Nach dem Sündenfall ließ Gott die Menschheit nicht im Stich, obwohl die Sünde seine Beziehung zum Menschengeschlecht schwerwiegend veränderte. Er setzte seine persönliche Offenbarung an Adam und Eva und den Rest der Menschheit fort und zwar durch verschiedene Mittel wie Theophanien (göttliche Erscheinungen in verschiedenen Formen) oder prophetische Erlebnisse (Träume und Visionen).
+
+Jahrtausendelang agierte Gott durch Patriarchen und Propheten, um den Fehlinformationen des Teufels entgegenzuwirken, aber vor allem, um die Menschheit aufzurufen, ihn richtig zu verstehen, ihm zu vertrauen und seinen Erlösungsplan anzunehmen. Aber Gott blieb nicht bei dieser Form der vermittelten Offenbarung stehen. Gott der Sohn, die zweite Person der dreieinigen Gottheit, wurde ein Mensch, damit Gott als Person bei uns sein (Joh 1,1–3.14) und uns seine Liebe persönlich offenbaren konnte. Um uns zu retten, nahm Gott die Schuld unserer Sünde auf sich und wurde für uns zur Sünde, damit wir in ihm zur Gerechtigkeit Gottes würden (2 Kor 5,21). Jesus Christus, der menschgewordene Gott, war der Höhepunkt der besonderen und persönlichen Offenbarung Gottes an die Menschheit und sogar an das gesamte Universum (Hbr 1,1–3). Durch Jesus – seine Menschwerdung, sein Leben, seinen Dienst, seinen Opfertod und seine Auferstehung – offenbarte Gott seinen Charakter der Liebe und der Gerechtigkeit sowie seine schöpferische und erlösende Macht in vollem Umfang. Nach der Himmelfahrt Christi setzte Gott seine prophetische Offenbarung durch die Gegenwart und das Wirken des Heiligen Geistes fort.
+
+Aber Gottes besondere Offenbarung hört nicht mit diesen historischen, göttlichen Manifestationen auf. Durch den Prozess der Inspiration arbeitete Gott direkt mit und durch Propheten und Apostel (Eph 2,20), um seine besondere göttliche Offenbarung aufzuzeichnen, damit sie veröffentlicht und der ganzen Welt verkündet werden konnte (2 Tim 3,16; Mt 28,20). Diese Aufzeichnung der göttlichen Offenbarung ist die Heilige Schrift, die aus dem Alten und dem Neuen Testament besteht und sich auf die Offenbarung Gottes in Christus konzentriert (Joh 5,39–40; Lk 24,27).
+
+Die Heilige Schrift ist somit ein integraler Bestandteil der besonderen Offenbarung Gottes und trägt als Wort Gottes die volle Imprimatur der göttlichen Autorität. Durch die Heilige Schrift möchte Gott alle Menschen wissen lassen, wer er wirklich ist und was er zu ihrer Erlösung getan hat und noch tut.
+
+**Angriffe**
+
+Satan setzte mehrere Strategien ein, um Gottes besondere Offenbarung zu untergraben. Eine dieser Strategien bestand darin, die Menschheit dazu zu bringen, an dem zu zweifeln, was Gott in seinem Wort offenbart hat. Doch nachdem sich Gottes Wort immer wieder als wahr erwiesen hatte, verlegte der Teufel das Augenmerk auf seine Hauptstrategie: die Heilige Schrift von menschlicher Auslegung und Tradition abhängig zu machen. Dieser Wandel geschah bei Gottes Volk in alttestamentlicher Zeit. In neutestamentlicher Zeit fiel es daher einigen Juden schwer, Jesus anzunehmen, nicht weil die Heilige Schrift unklar war, sondern weil sie Gottes Wort durch ihre eigene Überlieferung filtern wollten (Mk 7,1–13). Auf diese Weise erreichte der Teufel sein dreifaches Ziel: Gottes Gebot verlassen, Gottes Gebot aufheben und „Gottes Wort ... durch ... Überlieferung“ aufheben (Mk 7,1–13).
+
+Wie bei den Juden mag die Überlieferung zunächst gut gemeint sein. Aber wenn sie nicht sorgfältig durch biblische Prinzipien geregelt wird, führt Tradition schließlich zum eigentlichen Wesen der Sünde: die Aufhebung der Autorität Gottes, der Versuch, ihn zu kontrollieren, und die Errichtung menschlicher Autorität über Gott, sein Reich und seine Offenbarung. Die Einführung der Überlieferung anstelle des Wortes Gottes zerstört den eigentlichen Zweck und die Bedeutung von Gottes besonderer Offenbarung, die darin besteht, seinen wahren Charakter, seine Absichten und Pläne zu offenbaren und den Weg der Erlösung zu zeigen. Anstelle von Gottes Liebe und Erlösung aus Gnade werden die Menschen gelehrt, den Anweisungen der religiösen Experten zu folgen und einen beschwerlichen Weg der Erlösung zu gehen (Mt 23,4).
+
+Ebenso wie Christus lehnten die ersten Christen Überlieferungen ab und legten die Heilige Schrift entsprechend deren Sinn neu aus (Joh 5,39–40; Lk 24,25–27; Apg 2,14–32). Später jedoch folgten die Christen dem Beispiel des Judentums und entwickelten ihre eigene Auslegung der Heiligen Schrift, die von verschiedenen kulturellen, politischen und philosophischen Vorannahmen geprägt war. Zur Zeit Luthers waren die Heilige Schrift und ihre Auslegung fest in der Hand des kirchlichen Lehramts. Dessen Autorität zufolge war die Bibel zu göttlich und heilig, um von „normalen“ Menschen ausgelegt zu werden. Wie die Schriftgelehrten zur Zeit Jesu behaupteten die römisch-katholischen Prälaten, Priester und Gelehrten unter dem Vorwand, die Identität und Einheit der Kirche zu wahren, dass nicht jeder die Bibel lesen und verstehen könne. Da sie den Menschen die Heilige Schrift vorenthielten, führte dies zu einem Mangel an wahrer Gotteserkenntnis und einem Mangel an Spiritualität, was fatale Folgen hatte. Konsequenterweise führte das Fehlen der biblischen Wahrheit dazu, dass die Sünde überhandnahm; bald beanspruchte die Kirche Autorität und Kontrolle über Gott, sein Reich und seinen Weg der Erlösung. Aufgrund dieser Entwicklung führte die Kirche, wie die jüdischen Führer der Vergangenheit, einen „neuen“ Weg der Erlösung ein: einen Weg durch Werke. Nach dieser Lehre werden die Menschen von der und durch die Kirche gerettet, indem sie das tun, was die Kirche sie zu tun heißt. Auf diese Weise wurde die Lehre der Kirche in die Einhaltung hierarchischer und sakramentaler Riten umgewandelt, während die Erlösungslehre in die Akzeptanz von Buße und Ablasshandel umgewandelt wurde. Gott wurde des Mittels beraubt, das er geschaffen hatte, um alle Menschen direkt anzusprechen, nämlich die Heilige Schrift.
+
+Mit der Einführung des sola scriptura-Grundsatzes erhoben sich die protestantischen Reformatoren gegen diese dämonische Strategie innerhalb der Kirche. Die Reformatoren stellten fest, dass die Heilige Schrift die einzige Form der besonderen Offenbarung ist, die Gott der Kirche zu jener Zeit gegeben hat, und dass es den Menschen erlaubt sein muss, Gott direkt zu hören, indem sie die Bibel selbst lesen. Sola scriptura bedeutet nicht, dass die protestantischen Reformatoren jede andere Form der Erkenntnis ausschlossen, wie etwa die Vernunft, die Kunst oder die Erfahrung. Was die Reformatoren mit sola scriptura meinten, ist, dass die Heilige Schrift die maßgebliche Offenbarung Gottes ist, die unsere Weltanschauung prägt und uns sagt, wer er ist, was er getan hat, wer wir sind und was mit uns beim Sündenfall geschehen ist. Außerdem offenbart die Heilige Schrift, wie Gott uns rettet und was er von uns erwartet. Daher steht die Autorität der Heiligen Schrift über der Autorität der Kirche und über jeder anderen menschlichen Autorität oder Form von Wissen. Das Wort Gottes hat die Kirche geschaffen, nicht umgekehrt.
+
+Der Grundsatz sola scriptura steht in direktem und untrennbarem Zusammenhang mit der Errichtung eines anderen Grundsatzes, sola gratia/sola fide. Als Martin Luther die Bibel ohne den Filter der Überlieferung las, entdeckte er in ihr den wahren Charakter Gottes und seinen wahren Weg der Erlösung. In der Heiligen Schrift entdeckten die Protestanten die zentrale Botschaft, die Gott den Menschen inmitten des Großen Kampfes vermitteln wollte: Unser Gott ist ein Gott der Liebe und der Gerechtigkeit und kein Tyrann. Selbst als wir uns gegen ihn auflehnten, starb er an unserer Stelle. Er bot uns das Geschenk seiner Gerechtigkeit an, damit wir für sein Reich wiederhergestellt werden können, wenn wir dieses Geschenk im Glauben annehmen.
+
+**Der liberale Angriff**
+
+Leider wurde der Protestantismus selbst innerhalb einiger Jahrhunderte von einer weiteren Strategie des Teufels überschwemmt, die darauf abzielte, die Beziehung zwischen Gott und der Menschheit zu kappen. Die liberalen Protestanten verboten den Menschen nicht, die Heilige Schrift selbst zu lesen. Vielmehr interpretierten diese liberalen Denker die Definition und das Wesen der Heiligen Schrift neu. Für sie war die Bibel nicht mehr die göttliche besondere Offenbarung, sondern lediglich ein Produkt des sich entwickelnden menschlichen Geistes, der Kultur und der Moral. Die Heilige Schrift war also nicht Gottes Wort an die Menschheit, sondern lediglich menschliche Worte, Vorstellungen und Spekulationen über Gott, die dem natürlichen oder historischen Umfeld der Menschen entsprangen. Aus diesem Grund ist nach Ansicht des liberalen Protestantismus eine direkte, natürliche, wörtliche und fromme Lektüre der Heiligen Schrift als Wort Gottes schlichtweg falsch. Vielmehr müssen wir die Heilige Schrift auf dieselbe Weise und mit denselben Methoden lesen, die für die Lektüre von Literatur, Geschichte, Kultur und Philosophie erforderlich sind.
+
+Folglich haben die Anhänger der liberalen protestantischen Theologie der Heiligen Schrift statt der traditionellen protestantischen historisch-grammatischen Methode der Schriftauslegung die historisch-kritische Methode der Bibelauslegung aufgezwungen. Das protestantische Prinzip sola scriptura brach zusammen, denn in dieser Denkweise war die Heilige Schrift nun nicht mehr die einzige maßgebliche Quelle der besonderen Offenbarung Gottes. Stattdessen wurde die Bibel lediglich eines der vielen historischen oder monumentalen Dokumente, die die Menschheit hervorgebracht hat. Darüber hinaus brach auch der Grundsatz sola gratia/sola fide zusammen, weil sowohl die Heilige Schrift als auch der Weg zur Erlösung zu Produkten menschlicher Gedanken und moralischer und religiöser Anstrengungen wurden. Hinzu kommt, dass Christus im Gegensatz zur Heiligen Schrift (Apg 4,12) nur einer von vielen Wegen der Erlösung ist. Tragischerweise haben sich diese Sicht der Heiligen Schrift und diese Methode der Bibelauslegung in christlichen Denominationen durchgesetzt.
+
+Als Gottes Gemeinde der Übrigen in der Endzeit haben Siebenten-Tags-Adventisten den göttlichen Auftrag, erneut die biblischen Grundprinzipien sola scriptura und sola gratia/sola fide zu verkünden.
+
+### TEIL III: ANWENDUNG
+
+`1. Denkt an die fünf solas der protestantischen Reformatoren. Inwiefern sind sie für euer Leben relevant? Inwiefern sind sie auch für die Religionen und die Kultur um euch herum relevant? Welchen Beitrag könnten die fünf solas in dem Umfeld, in dem ihr lebt, leisten?`
+
+`2. Wie sieht euer Umfeld und/oder eure Kultur die Heilige Schrift? Inwiefern würdet ihr sagen, dass das Aufrechterhalten der Heiligen Schrift in eurem speziellen religiös-spirituellen Kontext Teil des Großen Kampfes ist?`
+
+`3. Was ist euer persönlicher Beitrag zur Aufrechterhaltung der Heiligen Schrift in eurer Umgebung als Teil des Großen Kampfes? Wie könnt ihr ein Wycliff, Tyndale oder Luther in eurem religiös-spirituellen Kontext sein?`
