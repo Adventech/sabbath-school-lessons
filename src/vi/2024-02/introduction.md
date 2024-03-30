@@ -1,0 +1,25 @@
+### Dẫn nhập
+
+Nếu được hỏi, “Trọng tâm của Kinh Thánh là gì?” Chúng ta sẽ trả lời như thế nào? Chúa Giê-su? Kế hoạch của sự cứu rỗi? Thập tự giá? Đúng là tất cả nói về ba điều này! Nhưng ba chủ đề quan trọng này mở ra một chủ đề thậm chí còn có tính bao gồm nhiều hơn: “Thiện ác đấu tranh”. Chủ đề này được tìm thấy rộng khắp trong Kinh Thánh từ sách Sáng-thế Ký đến sách Khải-huyền.
+
+Cuộc chiến khốc liệt bắt đầu trên thiên đàng khi Lu-xi-phe chống nghịch lại Đức Chúa Trời. Khởi nguồn của cuộc chiến này xuất phát từ mâu thuẫn về tình yêu của Đức Chúa Trời. Ngài có tình yêu thương trọn vẹn hay không? Ngài có quan tâm đến những lợi ích tốt nhất cho các tạo vật của Ngài trong sự quan phòng hay không? Hay Ngài là một vị cai trị độc tài chỉ mong muốn những gì có lợi cho riêng mình?
+
+Trong bài học quí này, theo dõi lịch sử thế giới từ quan điểm của Đức Chúa Trời, như lời tiên tri tiết lộ về nó, từ thời Đấng Christ qua nhiều thế kỷ cho đến thời đại của chúng ta và hơn thế nữa. Bản tánh của Đức Chúa Trời là tình yêu, do đó, tất cả các hành động của Ngài đều yêu thương, mặc dù thực tế này có thể không phải lúc nào cũng hiển nhiên đối với con người hữu hạn hoặc thậm chí là thiên sứ. Nhưng tình yêu của Đức Chúa Trời dần dần được bày tỏ khi cuộc chiến khốc liệt diễn ra. Chúng ta thấy chiều cao và chiều sâu của nó rõ ràng nhất qua thập tự giá. Tại đồi Sọ, tình yêu của Đức Chúa Trời đã được bày tỏ trước toàn thể vũ trụ, khi Đấng Cơ Đốc tuôn đổ sự sống của Ngài để cứu chuộc nhân loại, và cuối cùng Sa-tan đã thất bại hoàn toàn.
+
+Tuy nhiên, trận chiến vẫn diễn ra ác liệt. Sa-tan đã cố gắng tiêu diệt Chúa Giê-su trên thập tự giá và qua nhiều thế kỷ, chúng ta thấy Sa-tan đang cố gắng tiêu diệt dân sự Chúa. Mặc dù Sa-tan đã bắt bớ tàn bạo hội thánh của Đấng Cơ Đốc và tàn sát hàng triệu người, nhưng Đức Chúa Trời luôn hiện diện với dân sự của Ngài và sẽ không bao giờ rời bỏ họ.
+
+Quý này chúng ta sẽ theo dõi những diễn biến chính trong cuộc chiến khốc liệt này, bắt đầu với cuộc nổi loạn trên thiên đàng. Chúng ta sẽ khám phá các vấn đề trọng tâm của cuộc xung đột giữa Đấng Cơ Đốc và Sa-tan. Chúng ta sẽ thấy lòng can đảm bất khuất của người Waldenses bất chấp sự bắt bớ khốc liệt, và quyết tâm của các nhà cải cách để tuân theo lẽ thật Kinh Thánh ngay cả khi họ đối mặt với tra tấn, xiềng xích và tử vì đạo.
+
+Nhận xét về đức tin thuộc linh vĩ đại này, Ellen G. White nói, "Kinh Thánh là thẩm quyền của họ, và bằng sự giảng dạy của nó, họ đã thử nghiệm tất cả các giáo lý và tất cả các tuyên bố. Đức tin nơi Đức Chúa Trời và lời của Ngài đã nâng đỡ những người thánh thiện này khi họ hy sinh mạng sống của mình trên cây cọc treo." — Thiện ác đấu tranh, trang 249.
+
+Cuộc cải cách đã thắp lên một ngọn đuốc của sự thật vẫn còn cháy sáng. Đức tin nền tảng của các nhà cải cách trong Kinh Thánh và sự bảo đảm kiên định của họ về sự cứu rỗi bởi ân điển thông qua đức tin đã mở đường cho sự trỗi dậy của phong trào Chờ Chúa Trở Lại, được William Miller và một loạt những người khác trên khắp thế giới ủng hộ.
+
+Giáo hội Cơ Đốc Phục Lâm được Đức Chúa Trời dựng lên để xây dựng trên nền tảng do các nhà cải cách đặt ra nhằm khôi phục các lẽ thật Kinh Thánh đã bị mất qua nhiều thế kỷ. Trọng tâm của sứ mệnh của họ là công bố sứ điệp của ba thiên sứ trong Khải-huyền 14:6-12, lời cảnh báo cuối cùng của Đức Chúa Trời cho một thế giới sắp kết thúc.
+
+Lời tuyên bố này khơi dậy cơn thịnh nộ của Sa-tan, được sứ đồ Giăng mô tả như một con rồng: "Và con rồng giận người đàn bà, bèn đi tranh chiến cùng các con cái của người, là những kẻ vẫn giữ các điều răn của Đức Chúa Trời, và lời chứng của Đức Chúa Giê-su" (Khải-huyền 12:17). Chúng ta cũng sẽ nghiên cứu các sự kiện cuối cùng trong Thiện ác đấu tranh này, bao gồm cả chiến thắng của tình yêu Ngài trên tất cả các quyền lực và quyền lực của địa ngục, mở ra việc tạo ra trời mới và đất mới.
+
+Nền tảng của các bài học quý này là Kinh Thánh, chúng tôi sẽ sử dụng cuốn sách Thiện ác đấu tranh, của Ellen G. White, làm phác thảo chủ đề của chúng tôi trong việc nghiên cứu chủ đề to lớn này. Các chương mà mỗi bài học dựa trên được ghi chú để tạo điều kiện thuận lợi cho việc sử dụng nó như một cuốn sách đồng hành để nghiên cứu và chia sẻ thêm để tất cả chúng ta có thể "biết trọn vẹn hơn tình yêu thương của Đấng Christ là Đấng vượt qua mọi hiểu biết" (Ê-phê-sô 3:19).
+
+Là người sinh ra và lớn lên ở bang Connecticut, Hoa Kỳ, Mark Finley, một nhà truyền giáo nổi tiếng quốc tế, là mục sư Phó Hội trưởng của Toàn Cầu Tổng Hội từ năm 2005–2010. Sau khi nghỉ hưu từ công việc toàn thời gian, ông trở thành phụ tá cho mục sư Phó Hội trưởng của Toàn Cầu Tổng Hội. Mục sư Finley và vợ, bà Ernestine, có ba người con và năm đứa cháu.
+
+_Chú thích: Connecticut là tiểu bang Hoa Kỳ thuộc về miền đông bắc Hoa Kỳ. Connecticut có khí hậu ôn hòa với đường bờ biển dài quanh vịnh Long Island. Điều này đã giúp bang có truyền thống phát triển ngành hàng hải từ lâu đời._

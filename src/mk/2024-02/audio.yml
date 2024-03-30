@@ -1,0 +1,186 @@
+---
+  audio:
+    - artist: Саботна школа
+      tracks:
+        - src: https://audio.jukehost.co.uk/02OAiOwB7zRkdfl9oxy57FfI4biJJE32
+          target: mk/2024-02/01/01
+        - src: https://audio.jukehost.co.uk/fG22ml36l1sSN8vm3EpeX3bPNbfhkmcC
+          target: mk/2024-02/01/02
+        - src: https://audio.jukehost.co.uk/xdn8DLobKegDk1VV62cUB5MGz79dQoC6
+          target: mk/2024-02/01/03
+        - src: https://audio.jukehost.co.uk/bjsLgJ8JZxvsIm70gRCZACp1OnL7TOYJ
+          target: mk/2024-02/01/04
+        - src: https://audio.jukehost.co.uk/DFljQG5em2zHZIaFsDJPZKRWJPld8cCZ
+          target: mk/2024-02/01/05
+        - src: https://audio.jukehost.co.uk/rpZ8QvLlrHOpbkUuOHW9Tolsnod1Q0tb
+          target: mk/2024-02/01/06
+        - src: https://audio.jukehost.co.uk/V7Ji11p8Eod90wWM6RJeGmQyUsYTJFRs
+          target: mk/2024-02/01/07
+        - src: https://audio.jukehost.co.uk/jEm7Cn4EsPB8wvxTyCPbtiVcY3ZSrAgp
+          target: mk/2024-02/02/01
+        - src: https://audio.jukehost.co.uk/CW1hBHRH8zyCNX8W5YUParvd5my5FjKs
+          target: mk/2024-02/02/02
+        - src: https://audio.jukehost.co.uk/jsbZLUgVZDcphwHYHLMThJLTKWxVfg3a
+          target: mk/2024-02/02/03
+        - src: https://audio.jukehost.co.uk/tWe9ENlUe9s2qq6feztrJs7AUfL8GXdL
+          target: mk/2024-02/02/04
+        - src: https://audio.jukehost.co.uk/OtUeRyS32IOcg7c2Hw4VEGqH50NSnpwN
+          target: mk/2024-02/02/05
+        - src: https://audio.jukehost.co.uk/BC5Wlc2jZ4taTB1tPUKWDritsv2FhZpk
+          target: mk/2024-02/02/06
+        - src: https://audio.jukehost.co.uk/csfiYeAx0DKQy5z88kSkbN8KMBts3lOp
+          target: mk/2024-02/02/07
+        - src: https://audio.jukehost.co.uk/16xXUmzIjmJNXTwxl21hHSTndexVdvpj
+          target: mk/2024-02/03/01
+        - src: https://audio.jukehost.co.uk/e6nOMtMDjLedrjS4rIgSC42PNBpCybWQ
+          target: mk/2024-02/03/02
+        - src: https://audio.jukehost.co.uk/MT2e8wsdunpBPlpCfjVpiAmNrnwh3VKi
+          target: mk/2024-02/03/03
+        - src: https://audio.jukehost.co.uk/nKo3ooZHHQ5KtJZrZx6tVQRQALMy0PgD
+          target: mk/2024-02/03/04
+        - src: https://audio.jukehost.co.uk/2jiPWJiaUNgInmkOlqL55AeIj2pVGyeI
+          target: mk/2024-02/03/05
+        - src: https://audio.jukehost.co.uk/Jv6YmF5zEneLVX6p7dP5C8V4ZEbybzs3
+          target: mk/2024-02/03/06
+        - src: https://audio.jukehost.co.uk/LpxknYrti6E7zdb2x78LyKuSCCjpusG9
+          target: mk/2024-02/03/07
+        - src: https://audio.jukehost.co.uk/A3wpMw4vFv6LT3vIgiAQaJ4KWHewVQB0
+          target: mk/2024-02/04/01
+        - src: https://audio.jukehost.co.uk/hVMlyckexMHrTpGKu0HyIKKj6wu4rukN
+          target: mk/2024-02/04/02
+        - src: https://audio.jukehost.co.uk/EoX9LphhW5YfG7GQRDWa4UUMWOTVRelP
+          target: mk/2024-02/04/03
+        - src: https://audio.jukehost.co.uk/kfMRMQc8STZeNmYoMPGydg0PblwFd1pg
+          target: mk/2024-02/04/04
+        - src: https://audio.jukehost.co.uk/yjcPcBF4suFpXawjq2lKPgCivyYKZwgy
+          target: mk/2024-02/04/05
+        - src: https://audio.jukehost.co.uk/VJkrsQKq7dKBTZ8q23OxdbUgDyckZNBs
+          target: mk/2024-02/04/06
+        - src: https://audio.jukehost.co.uk/qmnQBMdLG7vp3PTPddOLeWDdXr7NtPx6
+          target: mk/2024-02/04/07
+        - src: https://audio.jukehost.co.uk/3omrbnZUG6QUIh1DWaATiUyZqk1SXUzR
+          target: mk/2024-02/05/01
+        - src: https://audio.jukehost.co.uk/OrInpqZtL4PPknQf391zo6Ze6pmTUYPm
+          target: mk/2024-02/05/02
+        - src: https://audio.jukehost.co.uk/JGUjdmZY6RJGhLshzWVNZ2DE5EhSG816
+          target: mk/2024-02/05/03
+        - src: https://audio.jukehost.co.uk/bw8zm5dZu8l9qsDV0UWBazynvNMj5isO
+          target: mk/2024-02/05/04
+        - src: https://audio.jukehost.co.uk/pR8XOluJulxZ8c8YjG5psWDs135kXmph
+          target: mk/2024-02/05/05
+        - src: https://audio.jukehost.co.uk/s5Nyfry90PgtYbns3pgAGjMPvPKFmAqb
+          target: mk/2024-02/05/06
+        - src: https://audio.jukehost.co.uk/xSDTw7SDpCTDBYdJ4CSKGyc8scehEku7
+          target: mk/2024-02/05/07
+        - src: https://audio.jukehost.co.uk/M9IsQbd5jRqI0ttJKHI4G7J37SL6N7ys
+          target: mk/2024-02/06/01
+        - src: https://audio.jukehost.co.uk/zp7MJer0WZ8qNcNYLITp4zgmPWTQzhhQ
+          target: mk/2024-02/06/02
+        - src: https://audio.jukehost.co.uk/ZQDrIPhUkiGZWUA8CxAsA4jIj3mQxu5v
+          target: mk/2024-02/06/03
+        - src: https://audio.jukehost.co.uk/2NYnT7F0FKQX62UwVfNzf4R4h5LznlQ6
+          target: mk/2024-02/06/04
+        - src: https://audio.jukehost.co.uk/DCSQA7O8DEZJNPk30xDODOhb085ezT9Z
+          target: mk/2024-02/06/05
+        - src: https://audio.jukehost.co.uk/ZPq8BDaDUFt0AtunsYeO8kzwWV4SUTii
+          target: mk/2024-02/06/06
+        - src: https://audio.jukehost.co.uk/MH47J4O8WZxVTQaxin9t592AVf4Hg6cm
+          target: mk/2024-02/06/07
+        - src: https://audio.jukehost.co.uk/LHnxt6aEFBbLkdEfZVME8rm7VeFaxud5
+          target: mk/2024-02/07/01
+        - src: https://audio.jukehost.co.uk/PsrMtWrgiEHzh91ac1rePz4RjtuUmx5O
+          target: mk/2024-02/07/02
+        - src: https://audio.jukehost.co.uk/byqaU9wlKcECKkzFYmwjOYQGKR2gYy1R
+          target: mk/2024-02/07/03
+        - src: https://audio.jukehost.co.uk/Rob5u9L8oPdJp2IxQERammj681rKw7a1
+          target: mk/2024-02/07/04
+        - src: https://audio.jukehost.co.uk/jZ5aS7XlzIHZ4IzYVQAp8Bs9fT0gQaNX
+          target: mk/2024-02/07/05
+        - src: https://audio.jukehost.co.uk/BT16KoaGU1FKbwktvHJ7QXAQKen6fmpn
+          target: mk/2024-02/07/06
+        - src: https://audio.jukehost.co.uk/d3622yBEswPsOVSVt7wmoS5jyIGdh5r0
+          target: mk/2024-02/07/07
+        - src: https://audio.jukehost.co.uk/9Aa5QOk4Uh0RVBOEQmjlwQNwEJxbhk2j
+          target: mk/2024-02/08/01
+        - src: https://audio.jukehost.co.uk/LCxMo2k9huR1IT9Iv8654nQz7FV6Tlsd
+          target: mk/2024-02/08/02
+        - src: https://audio.jukehost.co.uk/QOnINbV7TaES9LQUgx3ipHwoC1KdR2ix
+          target: mk/2024-02/08/03
+        - src: https://audio.jukehost.co.uk/2NYVEvgFl3BOoyhh8eO27dhTw4Mqatux
+          target: mk/2024-02/08/04
+        - src: https://audio.jukehost.co.uk/aKQ1Hjk66oz1XJEIBDcRM0DQEzrH8NGD
+          target: mk/2024-02/08/05
+        - src: https://audio.jukehost.co.uk/UrtAUjv7qq4WmBypUy9C2Lc6ZYBugfFY
+          target: mk/2024-02/08/06
+        - src: https://audio.jukehost.co.uk/2mrZccin9E2f0xE2lk3IGsLviK6FzLpQ
+          target: mk/2024-02/08/07
+        - src: https://audio.jukehost.co.uk/MOAkZFXTDufvNfxJGgCS85P9Pz789BuL
+          target: mk/2024-02/09/01
+        - src: https://audio.jukehost.co.uk/p5VdfdmEEjktpa2J7jeZ78K0QpAQm6xG
+          target: mk/2024-02/09/02
+        - src: https://audio.jukehost.co.uk/Uy5sHVgW4Un9PopkjiOswW8oCG35LsyH
+          target: mk/2024-02/09/03
+        - src: https://audio.jukehost.co.uk/g87X6CQnjSIAsvmakLC6VfscqfYYjBwT
+          target: mk/2024-02/09/04
+        - src: https://audio.jukehost.co.uk/Lnmol5xPnloKKZuV2W17rzVklxlO8Ist
+          target: mk/2024-02/09/05
+        - src: https://audio.jukehost.co.uk/kTNsJ8dlxgkVkIMOaAhEag4BIbAui2K7
+          target: mk/2024-02/09/06
+        - src: https://audio.jukehost.co.uk/Eho70dUbjPiOpYHloG6HInvq5k5DW9XH
+          target: mk/2024-02/09/07
+        - src: https://audio.jukehost.co.uk/XXIizcGtWmSO2sm0Ycbm4osK5TNRTyPb
+          target: mk/2024-02/10/01
+        - src: https://audio.jukehost.co.uk/RAklO7JpiGmbRNnwLEnF1OeG2gxkXnYr
+          target: mk/2024-02/10/02
+        - src: https://audio.jukehost.co.uk/3hL7qKCzgbJt9byvAeblcKy9Sl5cJm2S
+          target: mk/2024-02/10/03
+        - src: https://audio.jukehost.co.uk/pVkn7kxCjYw6bsoVKBrYH1Q898f6mEma
+          target: mk/2024-02/10/04
+        - src: https://audio.jukehost.co.uk/FJcqwL0kcoOMWkeTjEXJitiMd00gdFyR
+          target: mk/2024-02/10/05
+        - src: https://audio.jukehost.co.uk/tKPRboklNoH8CYQTvWwaKeqrrpUoKefx
+          target: mk/2024-02/10/06
+        - src: https://audio.jukehost.co.uk/uVaFtMwvbftPk8Ap67KV3lualVH9pbAg
+          target: mk/2024-02/10/07
+        - src: https://audio.jukehost.co.uk/IpPeXb87IMrJWykC1KP5DyzRjPpvcva5
+          target: mk/2024-02/11/01
+        - src: https://audio.jukehost.co.uk/fX4GOeijr68Pp5aTgXiHPTwKliQmvIIk
+          target: mk/2024-02/11/02
+        - src: https://audio.jukehost.co.uk/98in2H4GAfuGAjXzqlDrQUY1o7CfHycu
+          target: mk/2024-02/11/03
+        - src: https://audio.jukehost.co.uk/BljZOjS2qTi30S4tDmQZXni2zruF7n7a
+          target: mk/2024-02/11/04
+        - src: https://audio.jukehost.co.uk/5bdzoF5b8a1rQZhHTNBvsGizZFAo6Qhq
+          target: mk/2024-02/11/05
+        - src: https://audio.jukehost.co.uk/rIyvzmvcc3ewBoCGwyPJBothnEuXWmoH
+          target: mk/2024-02/11/06
+        - src: https://audio.jukehost.co.uk/LtcAjYYXR15wk5raXdqaAGZ8jex0Y92l
+          target: mk/2024-02/11/07
+        - src: https://audio.jukehost.co.uk/GvzzdSFUu87xv5uCld514B0xJOBxMd1m
+          target: mk/2024-02/12/01
+        - src: https://audio.jukehost.co.uk/0BrgOXqp3VNm8FRFX4QY1JWKzeyumdYF
+          target: mk/2024-02/12/02
+        - src: https://audio.jukehost.co.uk/sCrJoy2Ou0N1teMjEdYKqEPP1Ql1RG8M
+          target: mk/2024-02/12/03
+        - src: https://audio.jukehost.co.uk/iOyb3GdMbZ7JTyCparC9wjXKh88AgDAH
+          target: mk/2024-02/12/04
+        - src: https://audio.jukehost.co.uk/sfjqJVQSBKkbrHmE0PNv8p2agIFixGWC
+          target: mk/2024-02/12/05
+        - src: https://audio.jukehost.co.uk/sbj524JObzNiGoji3GpkZ3mboAHYAD9c
+          target: mk/2024-02/12/06
+        - src: https://audio.jukehost.co.uk/kgy0UI8g1pGfUFexQdfNSrxbRmA7IS7A
+          target: mk/2024-02/12/07
+        - src: https://audio.jukehost.co.uk/35iaMBaGMkIJ6gd3uooHf6fbIRB7ECVN
+          target: mk/2024-02/13/01
+        - src: https://audio.jukehost.co.uk/gLCJL55CUAGtmMFv1u4wnBZzSybk71Yf
+          target: mk/2024-02/13/02
+        - src: https://audio.jukehost.co.uk/hDnDPk3BGU74hnHEgkmWJgxsDP0vJjJ5
+          target: mk/2024-02/13/03
+        - src: https://audio.jukehost.co.uk/6o4inTV2rxNojzmUkJC1NOmMpqujPlI6
+          target: mk/2024-02/13/04
+        - src: https://audio.jukehost.co.uk/weIVaI2g63IInJCjbFqJUZSiFG1lYPpe
+          target: mk/2024-02/13/05
+        - src: https://audio.jukehost.co.uk/H4pd04VrYb75EVUhPpPgMaH4rpLYwa05
+          target: mk/2024-02/13/06
+        - src: https://audio.jukehost.co.uk/7RLm55hUXPaWi0kKSCSISehmbB2qZypt
+          target: mk/2024-02/13/07

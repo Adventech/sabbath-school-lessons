@@ -64,11 +64,6 @@ var BIBLE_PARSER_CONFIG = {
     "nasb",
     "nkjv",
     "kjv",
-    {
-      lang: "en",
-      version: "niv",
-      copyright: "<br><br><div><small>HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM</small><br><small>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.</small><br><small>Used with permission. All rights reserved worldwide.</small></div>"
-    },
     "asv"
   ],
 
@@ -382,4 +377,3 @@ var BIBLE_PARSER_CONFIG = {
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
-

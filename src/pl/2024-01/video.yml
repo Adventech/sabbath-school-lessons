@@ -31,3 +31,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-01-10.mp4
           target: pl/2024-01/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-01-11.mp4
+          target: pl/2024-01/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-01-12.mp4
+          target: pl/2024-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-01-12.webp
