@@ -1,2 +1,6 @@
 ---
-  audio: []
+  audio:
+    - artist: Școala de Sabat Audio
+      tracks:
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim2/st01/st01.mp3
+          target: ro/2024-02/01/01
