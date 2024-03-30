@@ -1,6 +1,7 @@
 ### Ilay Fifanandrinana Lehibe
 
 Ny ady lehibe
+
 Raha anontaniana ianao hoe: “Inona no foto-kevitra ivon’ny Baiboly rehetra?” ahoana no havalinao? Jesosy? Ny drafitry ny famonjena? Ny Hazo fijaliana? Eny ho an'ny telo, mazava ho azy! Saingy ireo lohahevitra telo manan-danja ireo dia mipoitra manoloana lohahevitra iray hafa mahafaoka rehetra: ny resabe lehibe. Io foto-kevitra io dia manenika ny Baiboly, manomboka amin’ny bokin’ny Genesisy ka hatramin’ny bokin’ny Apokalypsy.
 
 Nanomboka tany an-danitra ny fifandirana lehibe tamin’ny fikomian’i Losifera tamin’Andriamanitra. Ao anatin’ity fifandonana ara-tontolo iainana ity dia ny olan’ny fitiavan’Andriamanitra. Tena be fitiavana ve Izy? Moa ve Izy mihevitra izay hahasoa ny zavaboariny? Sa mpanao didy jadona manam-pahefana tsy maniry afa-tsy izay mahasoa ny tenany ihany?
