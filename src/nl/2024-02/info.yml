@@ -4,5 +4,6 @@
   human_date: "Tweede kwartaal van 2024"
   start_date: "30/03/2024"
   end_date: "28/06/2024"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#25548F"
+  color_primary_dark: "#19447A"
+  splash: true
