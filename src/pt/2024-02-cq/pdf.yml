@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-Intro.pdf
+      title: Intro
+      target: pt/2024-02-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-01.pdf
+      target: pt/2024-02-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-02.pdf
+      target: pt/2024-02-cq/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-03.pdf
+      target: pt/2024-02-cq/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-04.pdf
+      target: pt/2024-02-cq/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-05.pdf
+      target: pt/2024-02-cq/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-06.pdf
+      target: pt/2024-02-cq/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-07.pdf
+      target: pt/2024-02-cq/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-08.pdf
+      target: pt/2024-02-cq/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-09.pdf
+      target: pt/2024-02-cq/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-10.pdf
+      target: pt/2024-02-cq/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-11.pdf
+      target: pt/2024-02-cq/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-12.pdf
+      target: pt/2024-02-cq/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/pt/2024-02/ABSG-2024-02-PT-CQ-13.pdf
+      target: pt/2024-02-cq/13

@@ -1,0 +1,67 @@
+---
+title:  Komento ng Guro
+date:   31/05/2024
+---
+
+### Unang Bahagi: Pangkalahatang Ideya
+
+Susing Talata: Apocalipsis 12:17
+
+Pokus sa Pag-aaral: Ecclesiastes 12:13, 14; Kawikaan 28:9; Daniel 7:25; Isaias 51:7, 8; Apocalipsis 13:15-17; Apocalipsis 12:17; Apocalipsis 14:6-12.
+
+**Panimula**: Ang mga tema sa Biblia tungkol sa malaking tunggalian at sa makalangit na santuwaryo ay nakalakip na hindi maihihiwalay sa tema ng kautusan ng Diyos at ng Kanyang Sabbath, na kasama sa Kanyang kautusan. Sa katunayan, nagsimula ang malaking tunggalian sa mga maling paratang ni Lucifer laban sa karakter ng Diyos, sa Kanyang kautusan, at sa mga prinsipyo ng Kanyang pamahalaan. Iminungkahi ng rebeldeng anghel na tayo ay mga malayang nilalang, ganap na may kakayahang ipaliwanag ang kahulugan ng buhay sa ating sariling mga termino at hubugin ang ating mga relasyon at lipunan sa paraang gusto natin. Sa huli, ang kalapastanganang panukalang ito ay bumubuo ng malinaw na pagnanais na ihiwalay ang Diyos sa ating buhay, sa ating mga relasyon, at maging sa sansinukob. Sa kadahilanang ito, ang ating paggigiit sa bisa ng kautusan ng Diyos ay hindi isang usapin ng legalismo o kaligtasan sa pamamagitan ng mga gawa ngunit dahil ang kautusan ng Diyos ay ang pagpapahayag ng Kanyang karakter, ang kautusan ay tumatayo sa ubod mismo ng malaking tunggalian.
+
+Ang pagtatanggol sa kautusan ng Diyos ay pagtatanggol sa karakter ng Diyos at sa Kanyang katayuan bilang Manlilikha at karapat-dapat na Hari ng sansinukob, na nakaluklok sa Kanyang makalangit na santuwaryo. Ang pagtataguyod sa kautusan ng Diyos ay nangangahulugang nauunawaan natin na ang Diyos ang tanging pinagmumulan ng mga pamantayang moral at ng kahulugan ng buhay. Ang pagtalikod sa Diyos at sa Kanyang mga prinsipyo ng buhay ay hahantong sa kaguluhan at sa walang hanggang kamatayan. Dahil dito, ipinapahayag ng mga Seventh-day Adventists ang mga sumusunod na katotohanan sa Biblia:
+
+* ang di-nababagong kautusan ng Diyos,
+* ang Sabbath bilang tanda ng pagiging Manlalalang at Paghahari ng Diyos,
+* ang makalangit na santuwaryo bilang luklukan ng pamahalaan ng Diyos at ng kaligtasan sa sansinukob,
+* ang kilusang Adventists bilang ang nalabing iglesya, tinawag upang ipahayag ang huling paanyaya ng Diyos sa sangkatauhan na bumalik sa Kanyang kaharian.
+
+Ang sentro ng misyon ng Seventh-day Adventist Church ay ang mga mensahe ng tatlong anghel sa Apocalipsis 14. Ang mga mensaheng ito ay nagpapahayag na ang malaking tunggalian ay isang pagpili sa pagitan ng dalawang magkasalungat na prinsipyo: ang diyablo, na humahantong sa kapahamakan; at ang Diyos, na humahantong sa buhay.
+
+**Mga Tema ng Aralin**: Ang pag-aaral sa linggong ito ay nagbibigay-diin sa apat na pangunahing tema:
+
+1\. Ang kautusan ng Diyos, na kinabibilangan ng Sabbath, ay walang hanggan at hindi nababago dahil kinakatawan nito ang likas, karakter, katayuan ng Diyos bilang Manlilikha at Hari ng sansinukob, at ang Kanyang mga prinsipyo para sa buhay at mga relasyon.
+
+2\. Ang makalangit na santuwaryo ay ang luklukan ng pamahalaan ng Diyos at ng Kanyang pagliligtas.
+
+3\. Nagsimula ang malaking tunggalian dahil sa mga pagnanasa ni Lucifer na agawin ang katayuan at awtoridad ng Diyos.
+
+4\. Sa pagtatapos ng malaking tungalian sa lupa, tinawag ng Diyos, at itinatag, ang Kanyang nalabing iglesya. Inatasan ng Diyos ang nalabing iglesyang ito na ipahayag ang Kanyang huling panawagan ng kaawaan sa sangkatauhan, inaanyayahan silang yakapin Siya bilang kanilang Manlalalang, Tagapagligtas, at Panginoon, na siyang tanging Pinagmumulan at paraan ng pamumuhay.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Kristiyanismo at ang Kautusan ng Diyos**
+
+Maraming Kristiyano ang may magkahalong damdamin hinggil sa kautusan ng Diyos. Sa isang banda, lahat sila ay sumasang-ayon, sa iba't ibang antas, na ang kautusan ng Diyos ay mabuti at kailangan. Maging si Martin Luther, na inaakala ng maraming Protestante na may negatibong pananaw sa kautusan, ay nagtalaga ng malaking bahagi ng kanyang Large Catechism upang magkomento sa kahalagahan ng kautusan ng Diyos para sa buhay ng Kristiyano. Sa paunang salita sa Large Catechism, ipinahayag ni Luther na, hangga't maaari, binibigkas niya ang Sampung Utos, kasama ang Panalangin ng Panginoon, ang Kredo, at ang Awit.
+
+Sa kabilang banda, sa buong kasaysayan, ang mga Kristiyano ay nakahanap ng mga dahilan at paraan hindi lamang para bawasan ang kahalagahan ng kautusan ng Diyos kundi para baguhin din ito. Noong unang bahagi at medieval na mga panahon, nakita ng mga teologo na madaling baguhin ang Sabbath. Bakit? Tulad ng santuwaryo, ang pagsasanib ng dualismo at pananaw sa mundo ng pilosopiyang Griyego ay ginawang posible sa pag-aalis sa Sabbath. Kung, ayon sa pilosopiyang Griyego, ang makalangit na lugar ay walang espasyo, ang pagkakaroon ng isang literal na santuwaryo na sumasakop sa espasyo sa langit ay walang kabuluhan. Ang pag-akyat ni Jesus sa langit sa isang literal, puno ng espasyo, materyal na katawan ng tao ay hindi rin katanggap-tanggap sa pilosopiyang Griego.
+
+Gayundin, kung ang makalangit na lugar ay walang panahon, ang literal na Sabbath, bilang banal na panahon, ay walang kaugnayan sa Diyos at sa relihiyon. Gayunpaman, ang Sabbath ay masyadong halata na isang tema sa Bibliya para iwaksi lamang. Dahil dito, maraming sinauna at medieval na mga Kristiyano ang naglapat sa Biblia ng alegorikong pagpapakahulugang pamamaraan, ang tanging paraan na nagbigay-daan sa kanilang pagkasunduin ang Griyego at ang mga pananaw sa mundo ng Biblia. Ayon sa pamamaraang ito, ang pinakamahalagang kahulugan ng isang pagtuturo sa Biblia ay hindi literal, kundi isang espirituwal, transendente, walang hanggang kahulugan. Kung gayon, napagpasyahan nilang hindi kailangang ipagdiwang ng mga Kristiyano ang isang literal na Sabbath. Sa halip, maaari nilang palitan ito ng isang espirituwal na kahulugan, tulad ng abstract, walang hanggang kapahingahan sa Diyos. Kaya hindi kataka-taka na ang mga Kristiyano ay hindi nagbigay ng espesyal na pansin sa kautusan ng Diyos noong medieval na panahon.
+
+Babaguhin ng mga Protestanteng Repormador ang kalakarang ito sa pamamagitan ng pagbabalik sa isang gramatika, o literal, na pagbabasa ng Biblia. Dahil dito, binigyan ng mga Repormador ang Sampung Utos ng isang kilalang gampanin sa buhay Kristiyano at maging isang lugar sa mga katekismo. Gayunpaman, kahit na sa mga dokumentong ito, ang kautusan ng Diyos ay itinuturing na bahagyang may awtoridad. Halimbawa, ilang talata lamang pagkatapos itanyag ang kahalagahan ng Sampung Utos para sa buhay ng Kristiyano, gumawa ng komento si Luther tungkol sa utos ng Sabbath. Ang Large Catechism ni Luther ay nagtapos na ang Sabbath ay isang ordinansa sa Lumang Tipan at hindi nauugnay sa mga Kristiyano, na pinalaya mula dito ni Cristo. Sa kabila ng repormasyon sa teolohiya na kanyang iminumungkahi, hindi ganap na nakawala si Luther mula sa gravitational na hatak ng mga pilosopikal na presupposisyon ng Griyego at ang tradisyonal na paraan ng pag-iisip ng Kristiyano.
+
+Sa kasalukuyang panahon, ang dispensationalism ay nakahanap ng isa pang dahilan para sa, o paraan ng, pagbawas sa kahalagahan ng kautusan ng Diyos para sa mga Kristiyano. Ang pundasyong pagtuturo ng dispensationalism ay ang kasaysayan ng kaligtasan ay nahahati sa ilang dispensasyon o mga yugto ng panahon. Gayunpaman, ang segmentasyong ito ay hindi isang simpleng pagyuyugto o dibisyon ng kasaysayan ng kaligtasan. Sa halip, sa bawat isa sa mga dispensasyong ito, ang Diyos ay nagtatag ng isang natatanging tipan sa isang partikular na grupo ng mga tao, na nagbibigay sa kanila ng kakaibang paghahayag at ibang responsibilidad mula sa mga nakipagtipan sa Diyos noon. Ang isa sa mga dispensasyon, ang kautusan, na sumasaklaw sa panahon mula sa Sinai hanggang sa kamatayan ni Jesus, ay nailalarawan sa pamamagitan ng tipan at ng kautusang inihayag sa Sinai. Iniisip ng mga dispensationalists na ang kautusan ay inihayag o “idinagdag” lamang sa Israel at hindi sa ibang tao bago ang Sinai o pagkatapos ni Cristo. Dahil dito, ang batas ng Diyos at ang Sabbath ay hindi mahalaga sa mga Kristiyano.
+
+Ang lahat ng mga paraang ito ng pagbabawas o pagwawalang-bahala sa kautusan ng Diyos ay hahantong sa pagtatatag ng tanda ng hayop, isang pagpapalit ng kautusan ng Diyos ng mga batas ng tao o demonyo, kahit na sa loob ng balangkas ng Kristiyanismo. Kaya, ang Sabbath ay papalitan ng isang huwad na Sabbath. Ang tanda ng hayop ay tiyak na kumakatawan sa unang intensyon at layunin ni Satanas sa malaking tunggalian: tanggihan ang awtoridad ng Diyos at ang Kanyang kautusan at palitan ang mga ito ng sariling awtoridad at batas ng diyablo. Naniniwala ang mga Seventh-day Adventists na sila ay inatasan ng Diyos na ipahayag ang mga mensahe ng tatlong anghel, na tumatawag sa mga tao na bumalik sa kaharian ng Diyos; upang tanggapin at itaguyod ang Kanyang kautusan; upang tanggihan ang tanda ni Satanas at ang awtoridad ng kapangyarihan ng kanyang hayop; at upang makasama sa nalabing bayan ng Diyos sa huling panahon, na naghihintay sa malapit na pagbabalik ni Cristo (Apocalipsis 14:6-12). Dahil dito, isinama ng mga Seventh-day Adventists ang isang buong Fundamental Belief sa Kautusan ng Diyos:
+
+“Ang mga dakilang alituntunin ng kautusan ng Diyos ay nakapaloob sa Sampung Utos at ipinakita sa buhay ni Cristo. Ipinapahayag nila ang pag-ibig, kalooban, at mga layunin ng Diyos tungkol sa pag-uugali at pakikipag-ugnayan ng tao at nakatali sa lahat ng tao sa bawat panahon. Ang mga tuntuning ito ay ang batayan ng tipan ng Diyos sa Kanyang bayan at ang pamantayan sa paghatol ng Diyos. Sa pamamagitan ng ahensiya ng Banal na Espiritu ay itinuturo nila ang kasalanan at ginigising ang isang pagkadama ng pangangailangan para sa isang Tagapagligtas. Ang kaligtasan ay pawang biyaya at hindi sa mga gawa, at ang bunga nito ay pagsunod sa mga Kautusan. Ang pagsunod na ito ay bumubuo ng katangiang Kristiyano at nagbubunga sa isang pakiramdam ng kagalingan. Ito ay katibayan ng ating pagmamahal sa Panginoon at ng ating pagmamalasakit sa ating kapwa tao. Ang pagsunod sa pananampalataya ay nagpapakita ng kapangyarihan ni Cristo na baguhin ang mga buhay, at samakatuwid ay nagpapatibay ng pagsaksing Kristiyano.”—Fundamental Belief 19, “The Law of God,” https://www.adventist.org/the-law-of-god.
+
+Itinatampok ng Fundamental Belief na ito ang hindi bababa sa dalawang mahahalagang aspeto ng kautusan ng Diyos. Una, ang kautusan ng Diyos ay ang salamin ng karakter ng Diyos at ng mga prinsipyo ng Kanyang kaharian (tingnan ang Awit 89:14). Dahil dito, ang kautusan ay matatagpuan sa pinakapuso ng makalangit na santuwaryo, sa kaban ng tipan sa Dakong Kabanal-banalan (Apocalipsis 11:19). Dahil dito, ang kautusan ng Diyos ay walang hanggan at naaangkop sa lahat ng tao sa lahat ng panahon. Dahil ang Diyos, ang Kanyang kalikasan, at ang Kanyang karakter ay hindi nagbabago, ang Kanyang kautusan ay hindi kailanman nagbabago; Si Jesu Cristo Mismo ang nagpahayag na Siya ay naparito hindi upang baguhin ang kautusan kundi upang tuparin ito (Mateo 5:17-19); at hindi Siya kailanman nagbigay ng anumang awtoridad sa sinuman sa Kanyang bayan, sa anumang panahon ng kasaysayan, na bawasan o baguhin ang Kanyang kautusan, sa kabuuan o sa bahagi!
+
+Pangalawa, ang kautusan ng Diyos ay sumasalamin sa kalikasan ng Diyos ng pag-ibig at katuwirang, makikita sa mga prinsipyo ng Kanyang kaharian. Ayon kay Pablo, “ang pag-ibig ang katuparan ng kautusan” (Roma 13:10, NKJV). Dahil dito, ang kautusan ay hindi maaaring ilagay sa pagsalungat sa ebanghelyo o sa kaligtasan. Ang kautusan ay hindi sa ngayon, noon, at kailanman magiging kaaway. Ang ating mga kaaway ay ang kasalanan at ang diyablo. Ang kautusan ng Diyos ay “banal, at ang utos ay banal at matuwid at mabuti” (Roma 7:12, NASB). Ang kaligtasan ay sa pamamagitan ng biyaya ng Diyos at tinatanggap ng, at inilalaan sa pamamagitan ng, pananampalataya. Gayunpaman, ang kaligtasan ay gawain ng Banal na Espiritu, na naglalayong ibalik tayo sa ating orihinal na katayuan bilang mga anak ng Diyos, na perpektong sumasalamin sa Kanyang pagmamahal at katuwiran.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+1\. Kung ikaw ay nasa isang di-Kristiyanong bansa, paano naiintindihan ng iyong lokal na relihiyon ang konsepto ng kautusan, sa pangkalahatan, at ng banal na kautusan, sa partikular? Paano mo maipapaliwanag ang kautusan ng Diyos sa iyong mga kaibigan sa konteksto ng iyong lokal na kultura? Kung nakatira ka sa isang bansang Kristiyano, paano nakakaugnay ang mga Kristiyano sa iyong bansa sa kautusan ng Diyos? Paano mo maibabahagi sa kanila ang mensahe ng Adventista tungkol sa kautusan ng Diyos?
+
+` `
+
+2\. Sa karamihan ng mga Kristiyanong bansa ngayon, maaari tayong magdebate tungkol sa Linggo laban sa Sabado bilang kasalukuyang banal na araw ng Diyos. Ngunit paano kung nakatira ka sa isang bansang hindi Kristiyano? Paano mo maipaliliwanag sa iyong mga kaibigan ang katotohanan tungkol sa Sabbath at ang malaking tunggalian? Paano mo rin maipaliliwanag ang tungkol sa tanda ng hayop sa iyong kontekstong hindi Kristiyano?
+
+` `
+
+3\. Ihambing ang seremonyal sa kautusang moral. Ano ang magkatulad, at ano ang pagkakaiba sa kanila? Ano ang inihahayag ng bawat isa sa mga kautusang ito tungkol sa Diyos? Paano nauugnay ang bawat isa sa mga kautusang ito kay Jesu Cristo?
+
+` `
