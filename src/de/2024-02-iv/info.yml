@@ -6,17 +6,16 @@
   end_date: "28/06/2024"
   color_primary: "#624B83"
   color_primary_dark: "#4f4064"
-credits:
+  credits:
   - name: Herausgeber
     value: "TOP LIFE Wegweiser-Verlag, Wien"
-
   - name: Projektleitung
     value: "Markus Gritschenberger, Franz Mössner"
   - name: Redaktion
     value: "Peter Krumpschmid, Hubert Kazmierczak"
   - name: Korrektorat
     value: "Monika Lumpi"
-  - name: Designe und Illustrationen:
+  - name: Designe und Illustrationen
     value: "Simon Eitzenberger"
   - name: Satz
     value: "Pierre Intering"
