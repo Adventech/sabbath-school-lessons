@@ -1,0 +1,14 @@
+---
+  title: "El gran conficto"
+  description: "Todos los seres humanos vivimos conforme a alguna metanarrativa, cosmovisión o ideología que guía nuestra percepción de la realidad y, en consecuencia, nuestra toma de decisiones, nuestras ideas y nuestros planes. Las metanarrativas influyen en la forma en que interpretamos los acontecimientos que nos suceden y el mundo que nos rodea, así como en los pensamientos y los sentimientos que albergamos. Son las lentes interpretativas a través de las cuales miramos para dar sentido a nuestra vida. Afectan a nuestras creencias, valores y acciones; proporcionan un sentido de continuidad y coherencia; vinculan el pasado, el presente y el futuro; y dan a la vida una estructura ordenada y, en cierto modo, predecible."
+  human_date: "Abril · Mayo · Junio 2024"
+  start_date: "30/03/2024"
+  end_date: "28/06/2024"
+  color_primary: "#E84C38"
+  color_primary_dark: "#CB412F"
+  splash: true
+  credits:
+    - name: Editor
+      value: "Joe Reeves"
+    - name: Dirección general
+      value: "Jim Howard"
