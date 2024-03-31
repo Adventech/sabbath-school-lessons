@@ -7,9 +7,7 @@ date:   05/04/2024
 
 _Artyom, dari Uzbekistan_
 
-Hati untuk Satu Misi
 
-Artyom dari Uzbekistan
 
 
 Ketika Artyom masih kecil, sekitar usia 5 tahun, dia pergi ke Gereja Masehi Advent Hari Ketujuh bersama ayah dan neneknya untuk beberapa kali di Uzbekistan. 
