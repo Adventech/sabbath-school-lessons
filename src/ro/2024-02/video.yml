@@ -1,2 +1,12 @@
 ---
-  video: []
+  video:
+    - artist: Scoala de Sabat Video
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-01.mp4
+          target: ro/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-01.webp
+    - artist: Școala Biblică
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-02-01.mp4
+          target: ro/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-02-01.webp
