@@ -1,2 +1,12 @@
 ---
-  video: []
+  video:
+    - artist: Diskusi Sekolah Sabat
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-02-01.mp4
+          target: in/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-02-01.webp
+    - artist: Amazing Facts Indonesia
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-01.mp4
+          target: in/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-01.webp
