@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-Intro.pdf
+      target: lus/2024-02/01
+      title: Inhmelhriattirna
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-01.pdf
+      target: lus/2024-02/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-02.pdf
+      target: lus/2024-02/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-03.pdf
+      target: lus/2024-02/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-04.pdf
+      target: lus/2024-02/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-05.pdf
+      target: lus/2024-02/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-06.pdf
+      target: lus/2024-02/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-07.pdf
+      target: lus/2024-02/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-08.pdf
+      target: lus/2024-02/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-09.pdf
+      target: lus/2024-02/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-10.pdf
+      target: lus/2024-02/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-11.pdf
+      target: lus/2024-02/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-12.pdf
+      target: lus/2024-02/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2024-02/ABSG-2024-02-LUS-13.pdf
+      target: lus/2024-02/13
