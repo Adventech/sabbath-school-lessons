@@ -13,7 +13,7 @@ Az első keresztény gyülekezet 80 évvel korábban létesült, és a városban
 
 A környező települések adventista gyülekezetei próbálták elérni Umuachát, de amikor evangelizációt akartak tartani, senki nem biztosított nekik termet. A remény azonban feléledt, amikor az Mba gyülekezet egy kéthetes evangelizációt tartott a városon kívül, majd egy szombatiskolai osztályt is indítottak a városban. Azonban ezt három hónap múlva be is zárták. Később a Mba gyülekezet fiataljai bibliaórákat tartottak, amelyekre néhány család járni kezdett a Mba gyülekezetbe, de elmaradtak, amikor a szomszédaik kővel dobálták meg őket.
 
-2021-ben az Aba Északi Egyházterület új evangelizációs terveket készített. Sajnos nem találtak termet, de aztán az egyik földtulajdonos megengedte, hogy a földjén sátrakban tartsanak összejöveteleket, csakhogy később hirtelen meggondolta magát. 2022-ben szintén meghiúsultak a kezdeményezéseik.
+2021-ben az Aba Északi Egyházterület új evangelizációs terveket készített. Sajnos nem találtak termet, de aztán az egyik földtulajdonos megengedte, hogy a földjén sátrakban tartsanak összejöveteleket, csakhogy később hirtelen meggondolta magát. 2022-ben szintén meghiúsultak a kezdeményezéseik.
 
 Utána Christian, a gyülekezet egyik tagja keresett termet. Találkozott egy iskola tulajdonosával, Chilakával, aki felajánlotta nekik az iskolát. Egy hónapon át adventista lelkészek hirdették az evangéliumot az iskolában, hozzájuk csatlakozott egy egészségügyi csoport, akik kezelték a betegeket. A sorozat végén 29 ember keresztelkedett meg.
 
