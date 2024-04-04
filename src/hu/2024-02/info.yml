@@ -6,7 +6,7 @@
   end_date: "28/06/2024"
   color_primary: "#a7ada3"
   color_primary_dark: "#162c23"
-    splash: true
+  splash: true
   credits:
     - name: Írta
       value: "Mark Finley"
