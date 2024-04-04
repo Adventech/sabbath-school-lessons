@@ -1,0 +1,23 @@
+### Partontangan Bolon
+
+Molo disungkun, “Aha do impola ni saluhut na tarsurat di Bibel i?” Songon dia do alusmu? Taringot di Jesus? Baga-baga haluaon? Silang? Tutu na tolu i! Alai tahe na tolu hata i nunga tarsuan dibagasan sada hata na umbalga lapatanna, “partontangan bolon”. Hata on mameop sandok isi ni Bibel, sian buku sada Musa sahat ro di buku Psalmen.
+
+Partontangan bolon marmula sian banua ginjang marhite paraloon ni Lusifer dompak Debata. Impolana i ma taringot di holong ni Debata. Na tutu do Ibana manghaholongi? Na diharingkothon Ibana do na dumenggan diangka na tinompaNa? Manang Ibana sahalak na holan manarihon na hombar tu rohaNa?
+
+Saluhut parsiajaran di Triwulan on manulingkiti mula ni tano on sian hata ni Debata, songon na tarsurat di hasurirangan, sian tingki ni Jesus sahat tu piga-piga taon na mangihut nang sahat ro di tu tingkinta saonari nang dohot tu ari marsogot muse. Sasintongna parholong do Debata, asa dibahen i nasa pambahenanNa marisihon holong, molo tung pe i buni sian roha ni jolma pardosa nang sian angka suru-suruan i. Alai ia holong ni Debata lam tu lelengna lam tu patarna do mangihuthon partontangan bolon na masa i. Tangkas do i tarida hinabolon dohot hinabagas ni holongNa i marhite silang. Di Golgota, holong ni Debata dipatuduhon tu sandok hasiangan on, uju Kristus i maneahon diriNa bahen paluahon jolma, disi do tarjepol sibolis i.
+
+Alai, ndang marujung dope ia partontangan i. Margogo do sibolis i laho manaluhon Jesus di hau pinarsilang jala, diganup partingkian, taida do na sai margogo do ibana laho manaluhon bangso ni Debata. Jala tung pe sibolis i mardongan hagogoon nunga paporsuk-porsuk huria ni Kristus jala mamotongi marjuta halak, na jongjong do Kristus i ditonga-tonga ni bangsoNa jala ndang jadi tadingkononNa nasida.
+
+Triwulan on naeng ma hita manulingkiti barita ni partontangan bolon, na marmula sian partontangan di banua ginjang. Sulingkitanta ma godang barita dompak partontangan ni Debata dohot sibolis. Parsiajaranta nang hatoguon ni haporseaon di halak Waldensia tung pe nasida dipaporsuk-porsuk, dohot hatoguon ni angka Reformator laho mangihuthon hata ni Debata na manaon na porsuk, tarrante, api pamururan, nang hamatean.
+
+Taringot di haporseaon ni angka partigor i, Ellen G. White mandok “Hata ni Debata do na gabe hagogoon di nasida, jala marhite jamita nasida papitahon sandok jamita dohot uhum. Haporseaon dompak Debata dohot HataNa mangaramoti sandok partigor i uju nasida pasahathon diri nasida di api pamururan” -Kemenangan Akhir, hlm. 212.
+
+Reformasi pagalakhon palito hatigoran na sai tongtong marsinonda. Ojahan haporseaon ni angka reformator i ma Hata ni Debata jala haporseaon ni nasida na togu di haluaon ala ni asi ni roha marhite haporseaon naung mambuhai dalan di hajongjongon ni Advent, na pinungka ni William Miller dohot torop jolma di sandok sisik ni protibi on.
+
+Huria Masehi Advent hari Ketujuh dipahehe Debata laho pajongjongkon di atas ojahan naung niampehon ni angka Reformator bahen paulakkon hasintongan ni Bibel naung mago na sai laon. Impola sian jamitana i ma laho mamaritahon barita ni tolu surusuruan na dibagasan Pangungkapon 14: 6-12, poda na parpudi sian Debata tu portibi na laho tibu na ma salpu.
+
+Jamita on pahehehon rimas ni sibolis, na ginombarhon Apostel Johanes songon naga: “Jadi tarrimas ma naga i mida boruboru i, gabe laho ma ibana marmusu dompak angka pomparanna na tading i, angka na mangaradoti patik ni Debata jala marsihohot di panindangion ni Jesus. Jala didapothon ma tu pasir ni laut” (Pangk. 12: 17). Parsiajaranta ma nang angka na masa di ari parpudi di partontangan bolon i, dohot ma i nang hamonangan ni holong ni Debata tu sandok harajaon dohot huaso ni naroko, na manogu tu panompaon di langit na imbaru dohot tano na imbaru.
+
+Ojahan ni parsiajaran di triwulan on i ma Bibel, alai laho pasingkophon parsiajaran i taenet ma nang sian buku Kemenangan Akhir na sinurat ni Ellen G. White na manurathon godang barita di partontangan bolon di ari parpudi. Angka bindu na gabe ojahan ni parsiajaran i disurathon laho mangurupi hita dumenggan manangkasi songon buku na mangurupi hita marsiajar jala gumodang asa dibahen i hita saluhutna denggan “laho tumanda holong ni roha ni Kristus, na mangatasi nasa pangantusion” (Ep. 3: 19).
+
+_Ro sian Conneticutt, Amerika Serikat, Mark Finley, sahalak parjamita naung tarbarita, ibana sada sian Wakil Ketua General Conference sian taon 2005-2010. Dungkon pensiun sian ulaonna, ibana gabe Asisten Ketua General Conference. Pendeta Finley dohot jolmana, Ernestine, di nasida adong tolu dakdanak dohot lima pahompu._
