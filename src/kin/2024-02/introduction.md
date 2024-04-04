@@ -6,8 +6,7 @@ Intambara ikomeye yatangirijwe mu ijuru na Satani yigomeka ku Mana. Ku ipfunde r
 
 Ibyigisho by'iki gihembwe bitwereka amateka y'isi mu mboni y’Imana, nk'uko ubuhanuzi buyahishura, kuva mu gihe cya Kristo ugakomereza mu binyejana bikaza no muri iyi minsi yacu ukanayirenga. Kamere y'Imana ni urukundo, bityo kandi n'ibikorwa byayo byose birangwa n'urukundo, nubwo iki gihamya kitabasha igihe cyose kugaragarira ibiremwamuntu bigira iherezo cyangwa ndetse n'abamarayika. Ariko urukundo rw Imana rukomeza kugenda rwigaragaza uko intambara ikomeye igenda yihishura. Tubona uburebure n'ubugari bwarwo cyane cyane byagaragariye ku musaraba. I Kaluvari, urukundo rw’Imana rwagiye ahabona imbere y'ijuru n’isi yose, ubwo Kristo yatangaga ubugingo bwe agacungura mwenemuntu, no gutsindwa uruhenu kwa Satani kukaba kudashidikanywa.
 
-Arikonanone, urugamba rugeze mu mahina. Satani yagerageje kurimbura Yesu ku musaraba, Kandi no mu binyejana byinshi, tumubona agerageza kurimbura ubwoko bw'Imana. Nubwo Satani yatoteje bikomeye itorero rya Kristo akanica amamiliyoni y'abantu, igihe cyose Imana
-yakomeje kubana n'ubwoko bwayo, kandi ntizigera ibutererana.
+Arikonanone, urugamba rugeze mu mahina. Satani yagerageje kurimbura Yesu ku musaraba, Kandi no mu binyejana byinshi, tumubona agerageza kurimbura ubwoko bw'Imana. Nubwo Satani yatoteje bikomeye itorero rya Kristo akanica amamiliyoni y'abantu, igihe cyose Imana yakomeje kubana n'ubwoko bwayo, kandi ntizigera ibutererana.
 
 Iki gihembwe kizerekena intambwe z'ingenzi mu ntambara ikomeye, guhera ku kwigomeka kwabereye mu ijuru. Tuzarebera hamwe ibibazo byipfundo ry’intambara iri hagati ya Kristo ha Satani. Tuzarebera hamwe ubutwari bw’intarumikwa bw’Abawalidensi (Abavoduwa) mu guhangana n’itotezwa rikaze, n'icyemezo cy’Abagorozi cyo kwiyemeza gukurikira ukuri kwa Bibiliya no mu bihe bahanganye n'iyicarubozo, baboshywe mu minyururu, batwikwa, bakanicwa bahorwa kwizera Yesu.
 

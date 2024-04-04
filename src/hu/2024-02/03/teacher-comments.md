@@ -1,0 +1,64 @@
+---
+title:  Tanítói melléklet
+date: 19/04/2024
+---
+
+#### Áttekintés
+
+Kulcsszöveg: Jn 12:35
+
+Alapige: Zsolt 119:30; Péld 4:18; 23:23; Jn 8:32; 8:33; ApCsel 20:27-32; 2Thessz 2:7-12; Jel 12:7-9
+
+Bevezetés: Ezen a héten azt fogjuk tanulmányozni, miként lépett be az apostoli, majd az apostoli korszakot követő egyház az Isten és Sátán közti nagy küzdelembe.
+
+Mivel az egyház Jézustól ered, az Ő oldalán lépett be a nagy küzdelembe. Ám hamarosan ugyanazzal a kísértéssel nézett szembe, mint Ádám és Éva, hogy megkérdőjelezze Jézus szavait, valamint kössön kompromisszumot Isten parancsai és Sátán csábításai közötti.
+
+Az e heti tanulmányunk azt hangsúlyozza, hogy a két fél a nagy küzdelemben nem egyenlő és nem összebékíthető. Erejük azért egyenlőtlen, mert Isten – Isten, Sátán pedig maga a Gonosz. Isten örökkévaló, Ő a Teremtő, az univerzum szerető és igazságos Királya, Sátánnak és a bűnnek viszont volt kezdete, így vége is lesz. Sátán, a bűn és a gonoszság ideiglenesen meglévő ártó tényezők, amelyek bizonyos értelemben hatnak az egész univerzumra, viszont a mindenható, kizárólag szeretettel teljes és mindenestől igazságos Isten örökre meg fogja azokat semmisíteni. Következésképpen a nagy küzdelem ellenfelei – Isten és Sátán – semmiképpen nem egyezhetnek ki egymással.
+
+A Biblia úgy jellemzi a nagy küzdelmet, mint két, egymástól radikálisan különböző erő harcát: a világosság a sötétség ellen, az igazság a hazugságok ellen. A gonosz oldal az igazsággal való alku kötését követeli, mert Sátán abban lát egyetlen esélyt a túlélésre. Bármi áron biztosítani próbálja a túlélést, de csak azért, hogy tönkretegyen minden jót, ami Istentől származik. Ezért igyekszik folyamatosan megalkuvásra csábítani az egyházat. Sajnos az egyház megalkuvó lett, mint ahogy ősszüleink is. Ennek hatásai a mai napig láthatók és érezhetők. Isten azonban, aki az igazság és a világosság forrása, soha nem lesz megalkuvó. A belé vetett bizalom és az igazsághoz való hűség – ahogy a Szentírásban, Jézus életében látjuk – az egyetlen bástya, ami megvéd bennünket és az egyházat a megalkuvástól és attól, hogy Sátán prédái legyünk.
+
+A tanulmány témái: Az e heti tanulmány négy fő témára összpontosít:
+
+1.  A nagy küzdelem jellemzésére a Biblia egymással szöges ellentétben álló fogalmakat használ, mint amilyen a világosság és a sötétség. Ezzel is érzékelteti, hogy Isten és népe semmilyen módon nem békítheti össze az igazságot a hamissággal.
+
+2.  Jézus szolgálatának első napjaitól kezdve, majd az apostolok idején Sátán szüntelenül hamisságra csábította az egyházat, vagy legalább megalkuvásra akarta rávenni Isten igazságát illetően.
+
+3.  Az igazsággal megalkudni azonban egyenlő azzal, hogy valaki Istennel szemben lesz megalkuvó, és lerombolja az igazságot, aki megalkuszik, az Sátán oldalára áll.
+
+4.  Az egyház csak úgy kerülhet ki győztesen a nagy küzdelemből, ha hűséges marad Isten kijelentéséhez, amely Jézus Krisztusban és Isten szent Igéjében található.
+
+#### Kommentár
+
+Kompromisszum
+
+A megegyezés (kompromisszum) elfogadható, sőt sok esetben kívánatos lépés különféle társas vagy társadalmi kapcsolatokban, mint a családi élet és a politika. Általánosságban a „kompromisszum” jelentése: megegyezésre jutni, kölcsönös engedményekkel megállapodni, két vagy több fél álláspontja között eljutni egy köztes megoldásra. A kulcs az ilyen megállapodások esetében az „engedmény”: mindkét oldalnak el kell engedni valamit, hogy mindkét, vagy mindegyik oldal tudjon tovább létezni, vagy együtt élni/létezni. Időnként mindkét oldal engedményt tesz, mert egyik sem elég erős ahhoz, hogy meggyőzze, vagy erővel irányítsa, behódolásra késztesse a másikat. Más esetekben a felek egyszerűen azért egyeznek meg, mert szeretnének békében élni egymás mellett, mint szomszédok vagy családtagok, kölcsönös szeretetben és tiszteletben.
+
+Ez utóbbi szempontból a kompromisszumnak egyértelműen pozitív felhangja van, hiszen megoldásnak tűnik a konfliktushelyzetben, lehetőséget teremt a békés egymás mellett élésre. Az ilyenfajta megegyezések gyakoriak a mindennapi életben, és engedményeket, elfogadást követelnek meg tőlünk. Ám általánosságban a kompromisszum – megalkuvás értelemben – negatív jelenségként azonosítható, mert ott van benne a gondolat, hogy a folyamatban elvész valamilyen létfontosságú érték, elv, igazság vagy minőség. A kompromisszum azonban, ha gyógyszerről, immunrendszerről, nemzeti identitásról, oktatásról, erkölcsről, hírnévről, termésről vagy katonai rangról van szó, nemkívánatos és elfogadhatatlan megalkuvás, hiszen a mindennapi életünket vagy a létezésünket fenyegeti.
+
+Mi a helyzet Istennel? Nem tudott volna megegyezni a lázadó angyalokkal vagy bukott emberekkel, hogy elkerülje a háborút a mennyben, és mindenki békésen éljen egymás mellett? Nem tudta volna legalább eltűrni az ellenfelet? Nem tudta volna teljesíteni a kérését, amikor függetlenséget vagy autonómiát követelt? Nem tudott volna a lázadóknak egy területet adni valahol az univerzum sarkában, ahol magukban élhettek volna, ahelyett, hogy végül elpusztítsa őket?
+
+A válasz összetett, de néhány szempont kellő megvilágításba helyezheti.
+
+Isten részéről nincs kiegyezés/megalkuvás
+
+Először: Minőségi különbség van a mi hétköznapi megegyezéseink és a Lucifer által elérni kívánt alku között. Isten minden olyan képességgel ellátott bennünket teremtésünk idején, ami segít kifejezni magunkat, kapcsolódni, kommunikálni, egyezkedni egymással, szeretettel és igaz­ságosan. De vannak áttörhetetlen és kétségbe vonhatatlan fizikai és erkölcsi korlátok, mivel ezek létezésünk alapját alkotják. Ebbe tartoznak azok az igazságok, hogy Isten a Teremtőnk, a Gondviselőnk, a Törvényadónk (ezért Ő mondja meg, hogyan éljük az életünket úgy, hogy boldogok legyünk). Ő a Királyunk, az életünk Forrása, nélküle nem létezhetünk. Lucifer ezt a szilárd alapot akarta megváltoztatni. Megkérdőjelezte Isten jellemét, státuszát, tekintélyét, és kijelentette, hogy az emberek istenek (1Móz 3:4), mivel életük van önmagukban, meg tudják határozni saját életük és boldogságuk értelmét, szabályait.
+
+Másodszor (és ez szorosan kapcsolódik a fenti ponthoz): a bűn természete. A bűn nem azt jelenti, hogy egyszerűen más véleményen vagyok. A bűn Isten önkinyilatkoztatása elleni tudatos, szándékos lázadás, tagadása annak, hogy Ő az egyedüli Teremtő, Gondviselő, Törvényadó és Király. A bűn nem tudja elviselni Isten létét. Alapvető indítéka, hogy letaszítsa Istent a trónjáról és önmagát ültesse a helyére. Sátán azonban kiegyezést ajánl. Hajlandó lemondani arról az igényéről, hogy teljesen tagadjuk Isten létezését, amíg őt, vagyis Lucifert szintén elismerjük istennek. Isten – az egyedül igaz Isten – viszont nem enged ilyen megalkuvást vagy egyezkedést a bűnnel. Mi lehetne mégis engedmény a részéről? Hogy nem Ő a Teremtő? Nem Ő a Gondviselő? Nem Ő az élet Forrása, a boldogság és erkölcs mércéje? Azt mondani, hogy akár angyaloknak akár embereknek lehet életük nélküle is? Ez mind hazugság lenne. Míg az ördög részéről a kompromisszum győzelem lenne, Isten részéről ugyanez kapitulációt jelentene.
+
+Harmadszor (kapcsolódva az első két ponthoz): a fentebb vázolt helyzet nemcsak az igazságról és a becsületről szól, hanem ez az igazi élet-halál kérdés. Képzeljük egy pillanatra magunkat Ádám és Éva helyébe, amikor Sátán kifejti az álláspontját még a bűnbeesés előtt! Sátán azt állítja, Isten hazudik, mi önállóak, istenek, halhatatlanok vagyunk, sőt azt próbálja elhitetni velünk, hogy nem fogunk meghalni, még ha el is utasítjuk Isten kívánalmait (1Móz 3:4), mert eredendő módon életünk van. Továbbá azzal vádolja Istent, hogy a teljes kontrol alatt tartásunkra használja fel azt az állítását, miszerint Ő az élet Forrása és mércéje. Sátán szerint ez zsarnokság, egyeduralom, erőszak, megtévesztés és igazságtalanság, és mivel Isten nem akar megegyezést, az ő vádjait támasztja alá. Tehát Sátán arra buzdít, hogy törjünk ki Isten „hazugságainak” és „túlkapásainak” rabságából, és tapasztaljuk meg az újfajta tudatot és függetlenséget, ahol felfedezhetjük és élvezhetjük az örök isteni lehetőségeket. Vajon nem valótlanság és spekuláció ez az egész? Felvállalásával nem kockáztatjuk létezésünket, Istennel való egységünket? Érdemes kipróbálni csak azért, hogy tapasztalati módon bizonyítsunk egy elméletet? Lucifer nyilvánvalóan úgy gondolta, hogy megéri vállalni a kockázatot.
+
+Isten azonban azt mondja, hogy egyedül Ő a Teremtő és a Megtartó, ennélfogva nem is létezhetünk nélküle. Amennyiben nem hiszünk benne, ha elutasítjuk Őt és állításait, akkor elszakadunk tőle, az élet Forrásától, meghalunk, vagyis megszűnünk létezni. Isten elmagyarázza, hogy ez a végkifejlet nem spekuláció, hanem tény, mert Ő a Teremtőnk. Nem mi alkottuk meg magunkat, és nem vagyunk önmagunkban örökkévalók. Már egyedül ennek az Ő szaván alapuló ténynek is elégnek kell lennie ahhoz, hogy higgyünk benne. Isten még arra is rámutat, hogy állításait bizonyítja életünk múltja és jelene: vagyis, amíg hittünk benne és vele éltünk, mindenki boldog volt. Az egész világegyetem zökkenőmentesen működött, senki nem halt meg. Elmagyarázza, hogy nem köthet kompromisszumot, nemcsak azért, mert neki van igaza, hanem azért sem, mert ha leköszön a trónjáról, akkor nemcsak mi emberek, de az egész világegyetem megszűnne létezni, hiszen egyedül Ő biztosítja az életet, tartja fenn a létezést. Isten tehát arra hív, hogy higgyünk benne, bízzunk benne, maradjunk vele és éljünk örökre vele.
+
+Kinek hinnél, ha egy ilyen vitának lennél szem- és fültanúja?
+
+Negyedszer: az emberiség számára sajnálatos módon ősszüleink elfogadták Lucifer spekulációját. Megérte vállalni a kockázatot? Nem. Döntésüknek tragédia lett a következménye nemcsak számukra, hanem az egész emberiség számára is. Ez a következtetés nem csupán elmélet, mert történelmi és tapasztalati bizonyítékon alapul. Miután Isten törvényét áthágták, ahelyett, hogy isteniek és örök élettől virulók lettek volna, üresnek, mezítelennek, szégyenteljesnek érezték magukat, szívük és kapcsolataik összetörtek (1Móz 3:7-8). Elkezdődött az emberiség szenvedése, és sorra haltak meg az emberek. Lucifer azonban nem hagyta abba mesterkedéseit Isten kormányzata ellen, újabb megalkuvást követelt. Kitartott amellett, hogy mivel Ádám és Éva nem haltak meg rögtön azután, hogy engedetlenekké váltak Istennel szemben, ezért állítólagos teóriája tulajdonképpen helytálló volt. Azt állította, hogy halhatatlanok vagyunk, mert halhatatlan lelkünk van, ami a test halálát követően bekerül egy spirituális, mennyei szférába. Tragikus módon sokan beleestek ebbe a csapdába, elhitték ezt a hazugságot. Lucifer ezután Istent és az emberiséget is arra hívta, hogy új normaként fogadják el a bűn és a halál létezését. A történelem folyamán sok nem biblikus vallás által Sátán azt propagálta, hogy fogalmazzák és értelmezzék újra a szenvedést meg a halált, hogy így el lehessen kerülni azok mindent átható jelenlétét, amelyek állandóan támadják hazug állításait.
+
+Ötödször: Isten hű maradt önmagához. Elmagyarázta: Ádám és Éva nem azért maradtak életben, miután megtagadták Őt, mert Sátánnak igaza volt, az ember halhatatlan lenne, és nem is azért, mert Isten engedményt tett volna. Azért nem haltak meg azonnal, mert Isten az emberiség iránti, örök szeretetétől vezérelve már korábban elkészítette a megváltási tervet, ami működésbe lépett a bűnbeesés után azonnal. Isten nem kompromisszumot kötött, hanem új lehetőséget adott arra, hogy a megmenekülést, az életet, a vele maradást válasszuk. Az új lehetőség, az üdvösség nem megalkuvás eredménye volt. Nem szabad összekeverni a kompromisszumot Isten hosszútűrésével, szeretetével és kegyelmével. Isten áldozatának köszönhető a megváltás és az új lehetőség az életre. Pontosan azért hozott áldozatot, mert nem alkudott és nem is alkudhatott meg, inkább feláldozta értünk a saját életét. Amennyiben lehetséges lett volna a kompromisszum, nem kellett volna meghalnia helyettünk. Nem alkudott meg, inkább azt választotta, hogy meghal helyettünk annak érdekében, hogy hű legyen igazságához, kinyilvánítsa szeretetét és igazságosságát, megmentsen bennünket vétkeinkből és a bűn hatalmától. Továbbá azért nem alkudott meg, mert tudta, milyen következményekkel járna a megalkuvás: szenvedéssel, kínnal, az egész emberiség és az univerzum halálával.
+
+Isten igaz népe ugyanezen okból nem köthet kompromisszumot. Igen, a tradicionális kereszténység kompromisszumot kötött Istennek a Szentírásban kifejezett igazságát illetően. Isten azonban azért cselekszik, hogy helyreállítsa igazságát, és annyi embert megmentsen, amennyit csak lehetséges. Hűséges, maradék egyháza ezért örömmel működik együtt vele, segít terjeszteni az igazságot, az Ő fényét tükrözi vissza.
+
+#### Gyakorlati alkalmazás
+
+Milyen kritériumok alapján határozzuk meg, hogy mi az igazság és az igazság forrása? Milyen mértékig van ebben szerepe a Bibliának az eredetünket, létezésünk értelmét és végső sorsunkat illetően?
+
+`Jegyzetek`

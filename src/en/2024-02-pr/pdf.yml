@@ -1,0 +1,152 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L00.pdf'
+      target: en/2024-02-pr/introduction
+      title: Introduction
+      start_date: 30/03/2024
+      end_date: 30/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L01.pdf'
+      target: en/2024-02-pr/01
+      title: Jesus, the Servant
+      start_date: 30/03/2024
+      end_date: 05/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L02.pdf'
+      target: en/2024-02-pr/02
+      title: On the Way to Calvary
+      start_date: 06/04/2024
+      end_date: 12/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L03.pdf'
+      target: en/2024-02-pr/03
+      title: The Day Jesus Died
+      start_date: 13/04/2024
+      end_date: 19/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L04.pdf'
+      target: en/2024-02-pr/04
+      title: He’s Alive!
+      start_date: 20/04/2024
+      end_date: 26/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L05.pdf'
+      target: en/2024-02-pr/05
+      title: Do You Love Me?
+      start_date: 27/04/2024
+      end_date: 03/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L06.pdf'
+      target: en/2024-02-pr/06
+      title: Noah Builds a Boat
+      start_date: 04/05/2024
+      end_date: 10/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L07.pdf'
+      target: en/2024-02-pr/07
+      title: The Floating Zoo
+      start_date: 11/05/2024
+      end_date: 17/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L08.pdf'
+      target: en/2024-02-pr/08
+      title: Waiting Patiently?
+      start_date: 18/05/2024
+      end_date: 24/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L09.pdf'
+      target: en/2024-02-pr/09
+      title: A Rainbow Promise
+      start_date: 25/05/2024
+      end_date: 31/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L10.pdf'
+      target: en/2024-02-pr/10
+      title: What Is It?
+      start_date: 01/06/2024
+      end_date: 07/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L11.pdf'
+      target: en/2024-02-pr/11
+      title: Snakebite!
+      start_date: 08/06/2024
+      end_date: 14/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L12.pdf'
+      target: en/2024-02-pr/12
+      title: Words to Remember
+      start_date: 15/06/2024
+      end_date: 21/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-L13.pdf'
+      target: en/2024-02-pr/13
+      title: Balaam and the Talking Donkey
+      start_date: 22/06/2024
+      end_date: 28/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Student/P-24-Q2-MemoryVerses.pdf'
+      target: en/2024-02-pr/memory-verses
+      title: Memory Verses
+      start_date: 28/06/2024
+      end_date: 28/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-Activities-T.pdf'
+      target: en/2024-02-pr/activities
+      title: Activities
+      start_date: 28/06/2024
+      end_date: 28/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L00-T.pdf'
+      target: en/2024-02-pr/introduction
+      title: Teacher
+      start_date: 30/03/2024
+      end_date: 30/03/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L01-T.pdf'
+      target: en/2024-02-pr/01
+      title: Teacher
+      start_date: 30/03/2024
+      end_date: 05/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L02-T.pdf'
+      target: en/2024-02-pr/02
+      title: Teacher
+      start_date: 06/04/2024
+      end_date: 12/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L03-T.pdf'
+      target: en/2024-02-pr/03
+      title: Teacher
+      start_date: 13/04/2024
+      end_date: 19/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L04-T.pdf'
+      target: en/2024-02-pr/04
+      title: Teacher
+      start_date: 20/04/2024
+      end_date: 26/04/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L05-T.pdf'
+      target: en/2024-02-pr/05
+      title: Teacher
+      start_date: 27/04/2024
+      end_date: 03/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L06-T.pdf'
+      target: en/2024-02-pr/06
+      title: Teacher
+      start_date: 04/05/2024
+      end_date: 10/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L07-T.pdf'
+      target: en/2024-02-pr/07
+      title: Teacher
+      start_date: 11/05/2024
+      end_date: 17/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L08-T.pdf'
+      target: en/2024-02-pr/08
+      title: Teacher
+      start_date: 18/05/2024
+      end_date: 24/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L09-T.pdf'
+      target: en/2024-02-pr/09
+      title: Teacher
+      start_date: 25/05/2024
+      end_date: 31/05/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L10-T.pdf'
+      target: en/2024-02-pr/10
+      title: Teacher
+      start_date: 01/06/2024
+      end_date: 07/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L11-T.pdf'
+      target: en/2024-02-pr/11
+      title: Teacher
+      start_date: 08/06/2024
+      end_date: 14/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L12-T.pdf'
+      target: en/2024-02-pr/12
+      title: Teacher
+      start_date: 15/06/2024
+      end_date: 21/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q2/Primary/Teacher/P-24-Q2-L13-T.pdf'
+      target: en/2024-02-pr/13
+      title: Teacher
+      start_date: 22/06/2024
+      end_date: 28/06/2024
