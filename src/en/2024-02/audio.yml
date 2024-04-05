@@ -217,6 +217,12 @@
       image: misc/ellen-white-notes.png
       imageRatio: square
       tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-01-01.mp3
+          target: en/2024-02/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-01-02.mp3
+          target: en/2024-02/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-01-03.mp3
+          target: en/2024-02/01/03
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-01-04.mp3
           target: en/2024-02/01/04
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-01-05.mp3
