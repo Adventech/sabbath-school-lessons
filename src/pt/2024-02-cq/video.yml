@@ -5,3 +5,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2024-02-01.mp4
           target: pt/2024-02-cq/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2024-02-01.webp
+    - artist: Adventismo Vivo
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-02-01.mp4
+          target: pt/2024-02-cq/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-02-01.webp

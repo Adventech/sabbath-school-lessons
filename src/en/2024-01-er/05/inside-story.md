@@ -3,6 +3,8 @@ title:  Inside Story
 date:   02/02/2024
 ---
 
+**This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
+
 ### Sekule’s Story (Part 1): Giving Up on God
 
 _by Andrew McChesney_
