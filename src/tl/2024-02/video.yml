@@ -5,3 +5,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2024-02-01.mp4
           target: tl/2024-02/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2024-02-01.webp
+    - artist: Solid Rock Ministries
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2024-02-01.mp4
+          target: tl/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2024-02-01.webp

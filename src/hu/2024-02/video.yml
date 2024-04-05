@@ -1,2 +1,7 @@
 ---
-  video: []
+  video:
+    - artist: Bibliatanulmányok minden napra
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/hope/hu-hope-2024-02-01.mp4
+          target: hu/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hu/hope/hu-hope-2024-02-01.webp
