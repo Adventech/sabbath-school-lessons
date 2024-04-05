@@ -169,7 +169,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2024/04/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7
