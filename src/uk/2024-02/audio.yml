@@ -26,3 +26,7 @@
           target: uk/2024-02/02/06
         - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-02/2024-04-12.mp3
           target: uk/2024-02/02/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-02/2024-04-13.mp3
+          target: uk/2024-02/03/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-02/2024-04-14.mp3
+          target: uk/2024-02/03/02
