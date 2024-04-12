@@ -42,3 +42,5 @@
           target: ru/2024-02/03/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/2024-02/ru-2024-02-03.mp3-6.mp3
           target: ru/2024-02/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/2024-02/ru-2024-02-03.mp3-7.mp3
+          target: ru/2024-02/03/07
