@@ -21,3 +21,5 @@ yt-dlp "https://youtu.be/r_J9Lv87w0E?feature=shared" -S vcodec:h264,res:1080,aco
 yt-dlp "https://youtu.be/1n9Q35DLsmg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/tbs/ro-tbs-2024-02-03.mp4"
 
 yt-dlp "https://youtu.be/MiMspcCD7Ik?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/tbs/de-tbs-2024-02-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=w3MCYOysr_8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/af/in-af-2024-02-03.mp4"
