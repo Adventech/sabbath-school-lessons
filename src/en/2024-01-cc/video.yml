@@ -19,3 +19,21 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-06.mp4
           target: en/2024-01-cc/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-06.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-07.mp4
+          target: en/2024-01-cc/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-07.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-08.mp4
+          target: en/2024-01-cc/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-08.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-10.mp4
+          target: en/2024-01-cc/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-10.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-13.mp4
+          target: en/2024-01-cc/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-13.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-11.mp4
+          target: en/2024-01-cc/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-11.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-12.mp4
+          target: en/2024-01-cc/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/cc/en-cc-2024-01-12.jpg

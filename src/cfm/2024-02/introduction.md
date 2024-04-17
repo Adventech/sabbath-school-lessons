@@ -1,0 +1,23 @@
+### Doawknak Maksak
+
+Hitin, “Bible pumhlum laimi bik thupi ziangsaw a si?” tin lo sut bang sehla, ziangtin na let ding? Jesuh? Rundam khawkhannak? Thinglamtah? Si e, an pathum in a si ko ding! Asinan hi a thupi zetmi thupi 3 phuangsuaknak cun thupi pawl hmuahhmuah kulh theh thluh tu a dodalh a si: “Dodawknak ropi”. Himi thupi pawl cu Bible sungah a khat thluh, Semtirnak ihsin thuphuan tiang a um.
+
+Doawknak ropi hi Lucifer in vanram ih Pathian a dokalhnak ihsin hram a thok. Himi vanlam karlak doawknak laimu bik cu Pathian duhdawtnak a si. Duhdawtnak khat ih um a si ngaingai maw? A sersiammi hrang ih thabik dingmi thil a ruat maw? asilole amai hlawknak lawng duhtu thuneihnak nei kaihruai tu diklo saw a si?
+
+Tui quarter zirlai ahcun Pathian hmuhdan ihsin leitlun san thuanthu a thlir ih, simcianak ih a landan vekin Khrih umlai ihsin kum zabi fehtlang in a tui kan san le a ra lai dingmi tiang in a si ding. Pathian sinak cu duhdawtnak a si, curuangah a cangvaihnak cu duhdawtnak hlir a si. Asinan himi thildik cu netnak nei minung le vancungmi pawl hrangah a lang ringring lo. Asinan Dodawknak ropi ih phuangawk vekin Pathian duhdawtnak cu nuamnai teten a langsuak a si. Thinglamtah ih a sannak le a thuknak pawl fiangzetin kan hmu thei. Khrih in milai tlennak dingah a nun a hlanawknak Kalvari tlang ahkhan Pathian duhdawtnak cu lei le van pumpuluk hmai ah pharh a si, Satan nehnak netabik cu a fiang zet.
+
+Asinan doawknak cu thinai thawhnak men a si. Satan cun thinglamtah parah Jesuh siatsuah a duh, santitluan in Pathian minung pawl siatsuah dingin a zuam rero timi khal kan hmu thei. Satan cun khrih kawhhran hrem in, mipi tampi thah khal sehla, Pathian cu a minung pawl hnenah a um ringring ih, ziangtik hmanah a fehsan dah zik lo.
+
+Himi quarter cun vanram ih dodalnak a um ihsin thok in doawknak ropi sungih thansohnak thupi zet pawl a thlir ding. Khrih le Satan karlak doawknak sungmuril buainak bik kan phawrh suak ding. Hremnak le hmuhsuamnak pawl an tuar khal ih Waldense pawl ih thazang a tumsuk lo zia le Tuahthu tu pawl in harsatnak, kaihnak le thahnak, martyar tiang an tuar lai khalah Bible thudik thlun dingih tumruhnak an neihdan pawl khal kan hmu ding.
+
+Himi thlarau lam zumnak parah thubetnei in Ellen. G. White cun, “ Bible cu an thuneitu bik a si, cumi ih zirhnak ihsin thurin an fiah ih, an kaihnget a si. Pathian ih zumnak an neihnak in le a thu ih an umnak thawng in hi mithianghlim pawl in an nun ih harsatnak an ton laiah thazang an ngah a si”—The Great Controversy, p. 249.
+
+Tuahthatsalnak thutak meisa alh a nawkkang ih, cumi cu tu tiang a eng hemhem lai a si. Tuahthatu pawl ca thianghlim sungah zumnak lungphum an neih mi le zumnak thawngin zangfahnek ih rundam an si zia thu hngetzet ih an rak pawm mi cun harhtharnak lamzin a ong ih, William millar le leitlun khua zakip ih mi pawl cu kaih tawh in an um.
+
+Seventh-day Adventist kawhhran cu kum zabi tampi fehtlang ih Bible thudik phuangsuah a si theinak dingah tuahthatu pawl ih lungphum ah Pathian ih a dinmi kawhhran a si. Himi kawhhran ih a hmuitinmi laimubik cu Thuthuan 14:6-12 ih vancungmi pathum thucah, leitlun san a cem mai ding thu Pathian ih ralrin peknak netabik phuang suah ding hi a si.
+
+Himi phuangsuahnak cun Satan thinhnengnak a cok tho, tirhthlah Johan in rulhreng vekin a rak sim, “Cun rulhreng cu cui nunau nu ih parah a thin a heng tuk ih, cunu ih cithlah tangsun, Pathian ih thupek a thluntu, le Jesuh Khrih ih thutheihternak a neitu pawl cu do dingin a feh” (Thup 12:17). Doawknak ropi ih a netnak ih thil a thleng mi pawl khal kan zir ding, himi ahhin Pathian duhdawtnak in thuneihnak hmuahhmuah le hellram thiltitheinak a nehzia le leithar le vanthar tuahnak ding khal a dinnget ding zia pawl khal a tel thluh ding.
+
+Himi tui quarter zirlai hi Bible ah thum aw khal sehla, Ellen G White ih ngan mi doawknak ropi timi khal kan zoh thotho ding, ziangahtile kan zirlai thupi ih kan hman ruangah a si. Bung pakhat fingfing ih thupi pawl cu zirbet ding a koppi cabu pawl thawn hman a si, cumi cu thuhla thuk deuh in, “theihnak hleih tu Khrih duhdawtnak” (Efesa 3:19) kan theih sinsinnak dingah a si.
+
+_U.S.A rammi Mark Finley hi ramtin huap theih hlawh zet Evangelist a si ih, kum 205-2010 tiang General Confernce ih Vice President tuantu a si. A hnatuannak ihsin a cawlh ngah hnu ah General Conference ih president bomtu hna a tuan. Pastor Finley le a nupi Ernestine cun fanau 3 le tu 5 an nei._

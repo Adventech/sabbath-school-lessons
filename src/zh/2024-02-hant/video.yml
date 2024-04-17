@@ -1,0 +1,13 @@
+---
+  video:
+    - artist: 希望中文台 (普通話版視頻)
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-01.mp4
+          target: zh/2024-02-hant/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-02.mp4
+          target: zh/2024-02-hant/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-03.mp4
+          target: zh/2024-02-hant/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-03.webp

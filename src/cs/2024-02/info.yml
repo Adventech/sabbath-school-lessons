@@ -1,0 +1,18 @@
+---
+  title: "Velký spor"
+  description: "Jaké je podle vás hlavní téma Bible? Ježíš? Plán spasení? Kříž? Ano, každé z těchto tří témat je mimořádně důležité a všechna tvoří základ Písma. Odehrávají a uskutečňují se však v kontextu tématu, které je všechny zahrnuje – a to je velký spor mezi dobrem a zlem. Toto téma je přítomno v celé Bibli – od Genesis až po Zjevení."
+  human_date: "Duben · Květen · Červen 2024"
+  start_date: "30/03/2024"
+  end_date: "28/06/2024"
+  color_primary: "#8299C2"
+  color_primary_dark: "#45608F"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Mark Finley"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Audio verze lekcí
+      value: "Richard Babinec"
+    - name: Dodatečné otázky k diskuzi
+      value: "Vlastimil Fürst"

@@ -1,0 +1,10 @@
+---
+  audio:
+    - artist: Съботно училище
+      tracks:
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_1.mp3
+          target: bg/2024-02/01/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_2.mp3
+          target: bg/2024-02/02/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_3.mp3
+          target: bg/2024-02/03/01

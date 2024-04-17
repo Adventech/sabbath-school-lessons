@@ -169,7 +169,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2024/01/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2024/04/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7
@@ -316,6 +316,22 @@ let papiamentoAudio = async function () {
     )
 }
 
+let russianAudio = async function () {
+    await dailyAudio(
+        "ru",
+        "Голос Надежды",
+        {
+            artist: "Голос Надежды",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/${targetQuarter}/ru-${targetQuarter}-${String(week).padStart(2, '0')}.mp3-${day}.mp3`
+        },
+        7,
+        7
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -327,6 +343,7 @@ let run = async function () {
     await bulgarianAudio();
     await germanAudio();
     await papiamentoAudio();
+    await russianAudio();
 }
 
 run().then(() => {

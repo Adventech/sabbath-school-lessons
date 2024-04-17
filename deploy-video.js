@@ -94,7 +94,7 @@ let videoAPI = async function (mode) {
     let videoLanguages = glob.sync(`${SOURCE_DIR}/${compile_language}`)
 
     let availableLanguages = []
-    let curlConfig = ""
+    let curlConfig = []
 
     for (let videoLanguage of videoLanguages) {
         let languageVideos = []
@@ -244,7 +244,7 @@ let videoAPI = async function (mode) {
 
                     if (mode === "gen") {
                         if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
-                            curlConfig += `
+                            curlConfig.push(`
 url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
 -C -
@@ -252,10 +252,10 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${video
 --globoff
 --insecure
 -L
-`
+`)
                         }
                         if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/`)) {
-                            curlConfig += `
+                            curlConfig.push(`
 url = "${thumbnailSrc}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}"
 -C -
@@ -263,7 +263,7 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
 --globoff
 --insecure
 -L
-`
+`)
                         }
                     }
                 }
@@ -324,9 +324,14 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
         }
     }
 
-    if (mode === "gen" && curlConfig.trim().length > 1) {
-        console.log(curlConfig)
-        fs.outputFileSync(`curl-config.txt`, curlConfig);
+    if (mode === "gen" && curlConfig.length >= 1) {
+        const chunkSize = 10
+        let iterator = 0
+        for (let i = 0; i < curlConfig.length; i+=chunkSize) {
+            const chunk = curlConfig.slice(i, i+chunkSize)
+            fs.outputFileSync(`curl-config-${iterator}.txt`, chunk.join("\n\n"))
+            iterator++
+        }
     }
 
     if (availableLanguages.length) {

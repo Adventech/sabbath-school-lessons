@@ -4,5 +4,6 @@
   human_date: "መጋቢት · ሚያዝያ · ግንቦት · ሰኔ 2016"
   start_date: "30/03/2024"
   end_date: "28/06/2024"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  splash: true

@@ -1,0 +1,10 @@
+---
+  audio:
+    - artist: Seminar Schloss Bogenhofen
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-01.mp3
+          target: de/2024-02/01/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-02.mp3
+          target: de/2024-02/02/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-03.mp3
+          target: de/2024-02/03/01

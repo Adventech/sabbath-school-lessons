@@ -1,0 +1,13 @@
+---
+  video:
+    - artist: InVerse Bible
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-02-inv-01.mp4
+          target: en/2024-02-cq/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-02-inv-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-02-inv-02.mp4
+          target: en/2024-02-cq/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-02-inv-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-02-inv-03.mp4
+          target: en/2024-02-cq/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/inv/en-2024-02-inv-03.webp

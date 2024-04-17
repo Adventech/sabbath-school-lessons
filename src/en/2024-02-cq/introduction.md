@@ -1,0 +1,19 @@
+### Introduction to The Great Controversy
+
+#### The Essential Metanarrative
+
+All human beings live by some metanarrative, worldview, or ideology that guides their perception of reality, and, consequently, their decision-making, ideas, and plans. Metanarratives influence how we interpret the events and world around us as well as the thoughts and feelings within us. They are the interpretive lenses through which we look to make sense of life. They affect our beliefs, values, and actions, provide a sense of continuity and coherence, link past, present, and future, and give life an orderly and somewhat predictable structure.
+
+Through metanarratives, we connect our individual experiences to a broader context, finding our place in the overarching story of life. They bridge the chasm between the personal and the universal, the known and the unknown, the actual and the possible. We would be lost in a world without metanarratives, adrift in a sea of disconnected experiences. They are, in essence, the compass that guides our way through the labyrinth of life, providing us with a sense of purpose and meaning.
+
+Life on this planet offers an overabundance of such narratives to choose from. However, only one of them cuts through the fog of confusion and provides answers that lead to a profound comprehension of truth. Only one shines a powerful light into the darkness of this world: the old and ongoing true story of the great controversy between God and Satan. This is the metanarrative we’ll be discussing in this lesson. It is the most cohesive, logical, and relevant story ever written, offering us clarity on the major issues of life. It answers big questions such as, “If God is good, why is there evil?”, “Will there ever be full and true justice?”, and “Does God even care?” Though the great controversy narrative has yet to draw to a close, we already know the ending, and—spoiler alert—it’s good. Jesus wins!
+
+In this quarter, we will examine the biblical evidence that underpins this monumental conflict. We will navigate through various foundational themes and multiple key components that will paint for us a more complete picture of this cosmic war between good and evil. Both our exploration and the celestial conflict will unveil the true state of the character of God and the character of Satan.
+
+Our weekly studies will lead us into history, prophecy, and philosophy as well as biblical stories and passages that illustrate and reveal the great controversy metanarrative and its various dynamics, both in the seen and the unseen dimensions of reality. We will examine its relevancy to our daily lives with a renewed perspective and, by God’s grace, be encouraged to make decisions for Christ.
+
+Be prepared for attempts to deter and distract you from studying the Bible and these carefully assembled lessons. Do not yield. Immerse yourself in God’s Word and approach these lessons with steadfast prayer. Pray not only for your own understanding but also for others around the world engaged in this study, “For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places” (Eph. 6:12).
+
+As an additional resource, the book The Great Controversy by Ellen G. White is highly recommended. It provides inspired insight into the themes of this study guide and is a must-read for every sincere believer. It’s available for free on egwwritings.org and through the “EGW Writings 2” app.
+
+It is the author’s fervent hope and belief that delving into this topic with humility will cultivate a deeper love for God, a stronger identity in Jesus, and a resilient trust in God, even when facing trials, heartaches, and adversity on this side of heaven.

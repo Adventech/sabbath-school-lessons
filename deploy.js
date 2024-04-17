@@ -86,7 +86,13 @@ let additionalReadingTitles = {
     final: "Dodatečné otázky k diskuzi",
     pppCopyright: "",
     regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
-  }
+  },
+  "in": {
+    title: "Bacaan Tambahan: Kutipan dari Ellen G. White",
+    final: "Bacaan Tambahan: Kutipan dari Ellen G. White",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Bacaan Tambahan: Kutipan dari Ellen G. White"
+  },
 }
 
 let firebase = require("firebase-admin"),
@@ -98,7 +104,7 @@ let firebase = require("firebase-admin"),
     crypto = require('crypto'),
     moment = require("moment");
 
-const bibleSearchBCV = require('adventech-bible-tools/bible_tools_bcv');
+const bibleSearchBCV = require('@Adventech/bible-tools');
 
 const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
 
