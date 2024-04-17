@@ -143,6 +143,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "hi": ["hhbd"],
+  "hmn": [],
 
   "hil": [
     "hil82"
