@@ -11,6 +11,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2024-02-03.mp4
           target: fr/2024-02-iad/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2024-02-04.mp4
+          target: fr/2024-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2024-02-04.webp
     - artist: Espoir Médias
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2024-02-01.mp4
@@ -22,6 +25,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2024-02-03.mp4
           target: fr/2024-02-iad/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2024-02-04.mp4
+          target: fr/2024-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2024-02-04.webp
     - artist: An Ti Kozé
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2024-02-01.mp4
@@ -33,6 +39,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2024-02-03.mp4
           target: fr/2024-02-iad/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2024-02-04.mp4
+          target: fr/2024-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2024-02-04.webp
     - artist: Autrement Dit
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2024-02-01.mp4
@@ -44,3 +53,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2024-02-03.mp4
           target: fr/2024-02-iad/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2024-02-04.mp4
+          target: fr/2024-02-iad/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2024-02-04.webp
