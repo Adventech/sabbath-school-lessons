@@ -22,3 +22,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-02-03.mp4
           target: pt/2024-02-cq/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-02-04.mp4
+          target: pt/2024-02-cq/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-02-04.webp
