@@ -11,6 +11,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-03.mp4
           target: ro/2024-02/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-04.mp4
+          target: ro/2024-02/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-04.webp
     - artist: Școala Biblică
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-02-01.mp4
