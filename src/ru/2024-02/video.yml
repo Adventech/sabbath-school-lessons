@@ -53,3 +53,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-02-03.mp4
           target: ru/2024-02/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-02-04.mp4
+          target: ru/2024-02/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-02-04.webp
