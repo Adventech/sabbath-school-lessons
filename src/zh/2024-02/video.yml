@@ -14,3 +14,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-04.mp4
           target: zh/2024-02/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-05.mp4
+          target: zh/2024-02/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/zh/hopetv/zh-hopetv-2024-02-05.webp
