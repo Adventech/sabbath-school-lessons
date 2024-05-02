@@ -1,1 +1,1 @@
-yt-dlp "https://www.youtube.com/watch?v=abTp1fAx3Mg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2024-02-05.mp4"
+yt-dlp "https://youtu.be/OdAsJ6BD_xo?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-02-05.mp4"
