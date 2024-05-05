@@ -48,4 +48,14 @@ yt-dlp "https://www.youtube.com/watch?v=v-0_W1Uu-rs" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://youtu.be/UOO-gQMJHgQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-02-06.mp4"
 
+yt-dlp "https://youtu.be/o-iwOzoTU3Y?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-02-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=_WEQpc_JlSg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2024-02-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=fVih7CvTACI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-02-06.mp4"
+
+yt-dlp "https://youtu.be/vndA-0NASxU?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-02-06.mp4"
+
+yt-dlp "https://youtu.be/u_T02zTInsI?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-02-06.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=sSKX_5t7mUg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-02-06.mp4"
