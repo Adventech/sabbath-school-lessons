@@ -34,6 +34,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-05.mp4
           target: de/2024-02/05
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-06.mp4
+          target: de/2024-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-06.webp
     - artist: Adventgemeinde Fürstenfeld
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-02-01.mp4
@@ -51,6 +54,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-02-05.mp4
           target: de/2024-02/05
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-02-06.mp4
+          target: de/2024-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-02-06.webp
     - artist: Seminar Schloss Bogenhofen
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-01.mp4
@@ -68,3 +74,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-05.mp4
           target: de/2024-02/05
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-06.mp4
+          target: de/2024-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-06.webp
