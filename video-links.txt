@@ -13,3 +13,11 @@ yt-dlp "https://www.youtube.com/watch?v=vg5VGNe6O_g" -S vcodec:h264,res:1080,aco
 yt-dlp "https://youtu.be/F-PjtyE1Lhc?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-02-06.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=-sE9FUyHlXg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ml/ml-2024-02-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=HM2imK2U1Yk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-02-06.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=7OHj7A3XUYA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2024-02-06.mp4"
+
+yt-dlp "https://youtu.be/B_FCzsedKAU?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-02-06.mp4"
+
+yt-dlp "https://youtu.be/ZCTP0As3B-c?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-02-07.mp4"
