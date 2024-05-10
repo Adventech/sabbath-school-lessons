@@ -20,3 +20,11 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-02-06.mp4
           target: ro/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-2024-02-06.webp
+    - artist: Scoala de Sabat Video
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-05.mp4
+          target: ro/2024-02/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-06.mp4
+          target: ro/2024-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-2024-02-06.webp
