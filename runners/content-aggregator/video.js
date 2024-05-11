@@ -495,18 +495,6 @@ let romanianVideo = async function () {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/ro/ro-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
-
-    await weeklyVideo(
-        "ro",
-        "Școala Biblică",
-        {
-            artist: "Școala Biblică",
-            clips: []
-        },
-        function (targetDate, targetQuarter, year, week) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/ro/tbs/ro-tbs-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        }
-    )
 }
 
 let chineseVideo = async function () {
@@ -639,18 +627,6 @@ let hungarianVideo = async function () {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/hu/hope/hu-hope-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
-
-    await weeklyVideo(
-        "hu",
-        "Biblia Iskola",
-        {
-            artist: "Biblia Iskola",
-            clips: []
-        },
-        function (targetDate, targetQuarter, year, week) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/hu/tbs/hu-tbs-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        }
-    )
 }
 
 let frenchVideo = async function () {
@@ -778,18 +754,6 @@ let germanVideo = async function () {
         },
         function (targetDate, targetQuarter, year, week) {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
-        }
-    )
-
-    await weeklyVideo(
-        "de",
-        "Die Bibelschule",
-        {
-            artist: "Die Bibelschule",
-            clips: []
-        },
-        function (targetDate, targetQuarter, year, week) {
-            return `https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
 
