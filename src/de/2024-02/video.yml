@@ -60,11 +60,3 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-06.mp4
           target: de/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-02-06.webp
-    - artist: Die Bibelschule
-      clips:
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-05.mp4
-          target: de/2024-02/05
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-05.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-06.mp4
-          target: de/2024-02/06
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/tbs/de-tbs-2024-02-06.webp
