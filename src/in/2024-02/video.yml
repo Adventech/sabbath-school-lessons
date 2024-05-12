@@ -20,6 +20,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-02-06.mp4
           target: in/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-02-07.mp4
+          target: in/2024-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-02-07.webp
     - artist: Amazing Facts Indonesia
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-01.mp4
@@ -40,3 +43,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-06.mp4
           target: in/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-07.mp4
+          target: in/2024-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-02-07.webp
