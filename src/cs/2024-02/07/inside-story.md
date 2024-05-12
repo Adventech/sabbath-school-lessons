@@ -25,6 +25,6 @@ O několik dní později mi Shirley zavolala a zeptala se, zda mluvím "súdáns
 
 Shirleyina upřímná láska a vřelost k cizincům stále odemyká srdce. Její příklad nás inspiruje k následování Kristovy metody. "Jedině Kristova metoda přinese skutečný úspěch v oslovování lidí. Spasitel se stýkal s lidmi jako ten, kdo touží po jejich dobru. Projevoval jim své sympatie, sloužil jejich potřebám a získával si jejich důvěru. Pak je vyzval: 'Následujte mě.' " (Ellen G. Whiteová, The Ministry of Healing, s. 143.)
 
-Jesus said, “By this all will know that you are My disciples, if you have love for one another” (John 13:35, NKJV). The love that reveals we are His disciples is the same power that opens the hearts of strangers and moves them to consider becoming His disciples.
+Shirley se stýká s lidmi, naslouchá jim, slouží jim a projevuje jim nezištnou lásku a přijetí, čímž boří i ty nejhrozivější bariéry. I my můžeme jít od srdce k srdci, jak to Shirley dělá každý den.
 
 Ježíš řekl: "Podle toho všichni poznají, že jste moji učedníci, budete-li mít lásku jedni k druhým" (Jan 13,35). Láska, která odhaluje, že jsme jeho učedníci, je stejnou silou, která otevírá srdce cizích lidí a pohání je k uvažování o tom, aby se stali jeho učedníky.
