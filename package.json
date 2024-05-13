@@ -5,7 +5,6 @@
   "main": "compile.js",
   "dependencies": {
     "@actions/core": "^1.5.0",
-    "@Adventech/bible-tools": "^1.0.6",
     "axios": "^0.21.1",
     "danger": "^10.6.0",
     "ent": "^2.2.0",
