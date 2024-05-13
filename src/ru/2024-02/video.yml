@@ -37,6 +37,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-02-06.mp4
           target: ru/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-02-07.mp4
+          target: ru/2024-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-02-07.webp
     - artist: Изучаем Библию с Виталием Олийником
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-02-01.mp4
@@ -57,6 +60,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-02-06.mp4
           target: ru/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-02-07.mp4
+          target: ru/2024-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-02-07.webp
     - artist: Субботняя школа с Алехандро Буйоном
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-02-01.mp4

@@ -27,6 +27,4 @@ Shirleyina upřímná láska a vřelost k cizincům stále odemyká srdce. Její
 
 Shirley se stýká s lidmi, naslouchá jim, slouží jim a projevuje jim nezištnou lásku a přijetí, čímž boří i ty nejhrozivější bariéry. I my můžeme jít od srdce k srdci, jak to Shirley dělá každý den.
 
-Jesus said, “By this all will know that you are My disciples, if you have love for one another” (John 13:35, NKJV). The love that reveals we are His disciples is the same power that opens the hearts of strangers and moves them to consider becoming His disciples.
-
 Ježíš řekl: "Podle toho všichni poznají, že jste moji učedníci, budete-li mít lásku jedni k druhým" (Jan 13,35). Láska, která odhaluje, že jsme jeho učedníci, je stejnou silou, která otevírá srdce cizích lidí a pohání je k uvažování o tom, aby se stali jeho učedníky.
