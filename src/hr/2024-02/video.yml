@@ -1,0 +1,22 @@
+---
+  video:
+    - artist: Tajne Biblije
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-01.mp4
+          target: hr/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-02.mp4
+          target: hr/2024-02/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-03.mp4
+          target: hr/2024-02/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-04.mp4
+          target: hr/2024-02/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-05.mp4
+          target: hr/2024-02/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-06.mp4
+          target: hr/2024-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/hr/hr-2024-02-06.webp

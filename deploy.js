@@ -75,18 +75,32 @@ let additionalReadingTitles = {
     pppCopyright: "",
     regex: "---\n+#{2,} Додаток: Утрински стих"
   },
-  "cs": {
-    title: "Dodatečné otázky k diskuzi",
-    final: "Dodatečné otázky k diskuzi",
-    pppCopyright: "",
-    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
-  },
+  "cs": [
+    {
+      title: "Dodatečné otázky k diskuzi",
+      final: "Dodatečné otázky k diskuzi",
+      pppCopyright: "",
+      regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+    },
+    {
+      title: "Další čtení: Vybrané citace od Ellen Whiteové",
+      final: "Další čtení: Vybrané citace od Ellen Whiteové",
+      pppCopyright: "",
+      regex: "---(\r?\n)+#{2,} Další čtení: Vybrané citace od Ellen Whiteové"
+    }
+  ],
   "sk": {
     title: "Dodatečné otázky k diskuzi",
     final: "Dodatečné otázky k diskuzi",
     pppCopyright: "",
     regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
-  }
+  },
+  "in": {
+    title: "Bacaan Tambahan: Kutipan dari Ellen G. White",
+    final: "Bacaan Tambahan: Kutipan dari Ellen G. White",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Bacaan Tambahan: Kutipan dari Ellen G. White"
+  },
 }
 
 let firebase = require("firebase-admin"),
@@ -727,13 +741,24 @@ let dayAPI = async function () {
       resultRead = day.markdown;
 
       if (additionalReadingTitles[info.language]) {
-        let additionalReadingRegex = new RegExp(additionalReadingTitles[info.language].regex, "img"),
-            additionalReadingFull = new RegExp(`${additionalReadingTitles[info.language].regex}(.*\n?)+`, "img")
 
-        if (additionalReadingRegex.test(resultRead)) {
-          let additionalReadingComments = resultRead.match(additionalReadingFull)[0].replace(additionalReadingRegex, "").trim()
-          resultRead = resultRead.replace(additionalReadingFull, "").trim()
-          resultRead += getAdditionalReadingHtml(additionalReadingTitles[info.language].final, `${additionalReadingComments}\n\n${additionalReadingTitles[info.language].pppCopyright}`)
+        let replaceInstance = function (additionalReadingTitlesObject) {
+          let additionalReadingRegex = new RegExp(additionalReadingTitlesObject.regex, "img"),
+              additionalReadingFull = new RegExp(`${additionalReadingTitlesObject.regex}(.*?\n?(?!---))+`, "img")
+
+          if (additionalReadingRegex.test(resultRead)) {
+            let additionalReadingComments = resultRead.match(additionalReadingFull)[0].replace(additionalReadingRegex, "").trim()
+            resultRead = resultRead.replace(additionalReadingFull, "").trim()
+            resultRead += getAdditionalReadingHtml(additionalReadingTitlesObject.final, `${additionalReadingComments}\n\n${additionalReadingTitlesObject.pppCopyright}`)
+          }
+        }
+
+        if (Array.isArray(additionalReadingTitles[info.language])) {
+          for (let additionalReadingTitlesObject of additionalReadingTitles[info.language]) {
+            replaceInstance(additionalReadingTitlesObject)
+          }
+        } else {
+          replaceInstance(additionalReadingTitles[info.language])
         }
       }
 

@@ -3,6 +3,8 @@ title:  Inside Story
 date:   16/02/2024
 ---
 
+**This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
+
 ### Sekule’s Story (Part 3): Bible Answers
 
 _by Andrew McChesney_

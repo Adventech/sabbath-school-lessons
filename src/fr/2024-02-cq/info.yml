@@ -1,0 +1,22 @@
+---
+  title: "La grande controverse"
+  description: "Tous les êtres humains vivent selon un métarécit, une vision du monde ou une idéologie qui oriente leur perception de la réalité et, par conséquent, leurs prises de décision, leurs idées et leurs projets. Les métarécits influencent la manière dont nous interprétons les événements et le monde qui nous entoure, ainsi que les pensées et les sentiments qui nous habitent. Ils sont les lunettes d’interprétation à travers lesquelles nous cherchons à donner un sens à la vie. Ils influencent nos croyances, nos valeurs et nos actes, donnent un sentiment de continuité et de cohérence, relient le passé, le présent et l’avenir, et donnent à la vie une structure ordonnée et quelque peu prévisible."
+  human_date: "Avril · Mai · Juin 2024"
+  start_date: "30/03/2024"
+  end_date: "28/06/2024"
+  color_primary: "#E84C38"
+  color_primary_dark: "#CB412F"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "Jonathan Walter"
+    - name: Rédacteur en chef
+      value: "Joe Reeves"
+    - name: Rédactrice adjointe
+      value: "Paige Swanson"
+    - name: Directeur du Département de l’École du sabbat
+      value: "Jim Howard"
+    - name: Traduction
+      value: "Monique Lemay"
+    - name: Édition française
+      value: "Francine Schweitzer"
