@@ -20,3 +20,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-06.mp4
           target: ml/2024-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-07.mp4
+          target: ml/2024-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-07.webp
