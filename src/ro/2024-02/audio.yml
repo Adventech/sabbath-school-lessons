@@ -16,3 +16,5 @@
           target: ro/2024-02/06/01
         - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim2/st07/st07.mp3
           target: ro/2024-02/07/01
+        - src: http://www.7adventist.com/wp-content/themes/adventist-corporate/download-audio.php?f=/2024/trim2/st08/st08.mp3
+          target: ro/2024-02/08/01
