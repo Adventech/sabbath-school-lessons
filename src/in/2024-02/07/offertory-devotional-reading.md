@@ -3,7 +3,7 @@ title:  Bacaan Persembahan
 date:   17/05/2024
 ---
 
-### MENGURUS KEUANGAN.
+### MENUJU SURGA
 
 > <p>Ayat Tema</p>
 > “Peringatkanlah kepada orang-orang kaya di dunia ini agar mereka jangan tinggi hati dan  jangan berharap pada sesuatu yang tak tentu seperti kekayaan, melainkan pada Allah yang  dalam kekayaan-Nya memberikan kepada kita segala sesuatu untuk dinikmati. Peringatkanlah agar mereka itu berbuat baik, menjadi kaya dalam kebajikan, suka memberi dan membagi” (1 Timotius 6: 17, 18).
