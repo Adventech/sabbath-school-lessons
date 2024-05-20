@@ -49,12 +49,14 @@ Sekarang, Viktor masih belum yakin apa yang akan dilakukannya setelah lulus dari
 
 Sebagian dari Persembahan Sabat Ketiga Belas triwulan ini akan membantu membuka sebuah pusat pengaruh bagi kaum muda di Minsk, Belarusia. 
 
-
-
 **Tip Cerita**
-
-
-
+1. Tunjukkan lokasi Belarusia pada peta. Kemudian tunjukkan lokasi Minsk, ibu kota, di mana bagian dari Persembahan Sabat Ketiga Belas triwulan ini akan membuka pusat pengaruh bagi kaum muda. 
+2. Ucapkan Zaoksky sebagai: zaOK-ski. 
+3. Dengarkan Viktor menyanyikan lagu "Kindness" (Доброта) di YouTube: bit.ly/Viktor1-ESD. 
+4. Dengarkan Viktor menyanyikan lagu "How Many Ways" (Сколько дорог), sebuah lagu yang juga ia tulis musik dan liriknya, di YouTube: bit.ly/Viktor2-ESD. 
+Unduh foto di Facebook: bit. ly/fb-mq. 
+5. Unduh Postingan Misi dan Fakta Singkat dari Divisi Euro-Asia: bit.ly/esd-2024. 
+6. Ketahuilah bahwa kisah misi ini mengilustrasikan tujuan berikut dari rencana strategis GMAHK “I Will Go”: Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Tuhan dan memberikan teladan tentang pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: IWillGo2020.org.
 
 **Pos Misi**
 1. Pada tahun 1901, Field Misionaris Rusia Utara diorganisasi. Termasuk wilayah Belarus, di mana umat Advent yang pertama bertobat, dibantu oleh traktat dan literatur Advent lainnya.
