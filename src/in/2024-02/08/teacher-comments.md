@@ -6,7 +6,7 @@ date:   24/05/2024
 #### Bagian I: Ikhtisar
 
 
-> Ayat Inti: Ihr 8: 1,2
+> Ayat Inti: Ibr 8: 1,2
 > Fokus Pelajaran: Kel. 25: 8, 9, 40; Ibr 8: 1-6; Mat. 25: 1-10; Dan. 7:9,10;  Ibr  8:1-5; Ibr. 9: 23-28, Why. 11: 19; Ibr. 10: 16; Im. 16: 21, 29-34; Im. 23: 26-32;
 
 

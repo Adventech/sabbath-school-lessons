@@ -1,19 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=sF113N9pckE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-02-08.mp4"
+yt-dlp "https://youtu.be/gPTTnRbkRPQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-02-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=__sI_MaUL2k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2024-02-inv-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=hD2aVBn85cs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-02-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=WQzGesLK9cY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=BawgW0F4wLU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=ixLMIOvKfOU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=d5jQuaAsriU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=dSCb1cQFjVM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=3Xs2lhb7scE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=XcR8qjXXB_o" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=cq64KR4IXjo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-02-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=A58oIxZReXc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2024-02-08.mp4"
