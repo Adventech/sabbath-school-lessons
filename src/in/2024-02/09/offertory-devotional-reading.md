@@ -3,7 +3,7 @@ title:  Bacaan Persembahan
 date:   31/05/2024
 ---
 
-### Allah dari Permulaan-Permulaan Kecil
+### Di Seluruh Dunia
 
 > <p>Ayat Tema</p>
 > "Sampai lewat dua ribu tiga ratus petang dan pagi, lalu tempat kudus itu akan dipulihkan dalam keadaan yang wajar” (Daniel 8: 14).
