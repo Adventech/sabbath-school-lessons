@@ -1,5 +1,15 @@
-yt-dlp "https://youtu.be/gPTTnRbkRPQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-02-08.mp4"
+yt-dlp "https://youtu.be/oaFy_PZol_g?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2024-02-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=hD2aVBn85cs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-02-08.mp4"
+yt-dlp "https://youtu.be/V-T6YuYzjao?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-02-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=A58oIxZReXc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2024-02-08.mp4"
+yt-dlp "https://youtu.be/MDQ3b41Psl4?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2024-02-08.mp4"
+
+yt-dlp "https://youtu.be/5_xomeLz1r8?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ml/ml-2024-02-08.mp4"
+
+yt-dlp "https://youtu.be/CimVe49W1wU?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2024-02-08.mp4"
+
+yt-dlp "https://youtu.be/-DGIGrfnlpw?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2024-02-08.mp4"
+
+yt-dlp "https://youtu.be/kGQnqYDGDoc?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-02-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=fJBc6HW1F50" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-02-09.mp4"
