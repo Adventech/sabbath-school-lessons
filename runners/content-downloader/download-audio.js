@@ -120,7 +120,7 @@ let downloadEGWaudio = async function() {
                 try {
                     let existing = await axios.head(`${SERVER_URL}-${lesson}-01.mp3`);
                     if (existing.status === 200) {
-                        fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, '\n');
+                        fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, '\n\n');
                         return 2
                     }
                 } catch (e) {}
@@ -138,6 +138,10 @@ let downloadEGWaudio = async function() {
                     }
                 } while (timestamp);
 
+                if (timestamps.indexOf("00:00") < 0) {
+                    timestamps.unshift("00:00")
+                }
+
                 if (timestamps.length <= 0 || timestamps.length > 8) {
                     console.error(`Encountered unexpected timestamps amount. Expect 8, found ${timestamps.length}`)
                     return
@@ -154,7 +158,7 @@ let downloadEGWaudio = async function() {
                     commands += `ffmpeg -i en-egw-${quarter}-${lesson}.mp3 -ss 00:${timestamps[i]} ${!last ? `-to ${timestamps[i+1]}` : ''} -c copy audio/en/${quarter}/en-egw-${quarter}-${lesson}-${String(i+1).padStart(2, '0')}.mp3\n`
                 }
 
-                commands += `rm en-egw-${quarter}-${lesson}.mp3`
+                commands += `rm en-egw-${quarter}-${lesson}.mp3\n`
 
                 fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
 
