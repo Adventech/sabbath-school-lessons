@@ -1,3 +1,7 @@
+yt-dlp "https://www.youtube.com/watch?v=9hq0n7tQE5s" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2024-02-09.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=kILnyKerlQ8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-02-09.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=qVuDHDTLsIg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-02-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=P4Z8BtwpJj4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2024-02-09.mp4"
