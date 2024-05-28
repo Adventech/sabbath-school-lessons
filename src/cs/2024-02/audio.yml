@@ -151,3 +151,11 @@
           target: cs/2024-02/09/07
         - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q2/2024_Q2_09-inside-story.mp3
           target: cs/2024-02/09/inside-story
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q2/2024_Q2_10-1.mp3
+          target: cs/2024-02/10/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q2/2024_Q2_10-2.mp3
+          target: cs/2024-02/10/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q2/2024_Q2_10-3.mp3
+          target: cs/2024-02/10/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2024_Q2/2024_Q2_10-4.mp3
+          target: cs/2024-02/10/04
