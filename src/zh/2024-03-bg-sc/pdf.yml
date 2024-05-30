@@ -1,0 +1,17 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_July_S.pdf'
+      target: zh_sc/2024-03-bg/01
+      title: 撒母耳倾听主话
+      start_date: 29/06/2024
+      end_date: 26/07/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_Aug_S.pdf'
+      target: zh_sc/2024-03-bg/02
+      title: 以利亚的食粮
+      start_date: 27/07/2024
+      end_date: 30/08/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_Sept_S.pdf'
+      target: zh_sc/2024-03-bg/03
+      title: 一个新生儿
+      start_date: 31/08/2024
+      end_date: 27/09/2024

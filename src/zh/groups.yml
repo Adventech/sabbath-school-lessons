@@ -1,0 +1,34 @@
+---
+  default:
+    name: "成人学课_简体"
+    order: 100
+  adult-tc:
+    name: "成人學課_繁體"
+    order: 200
+  inv-sc:
+    name: "深入人心_简体"
+    order: 300
+  inv-tc:
+    name: "深入人心_繁體"
+    order: 400
+  pp:
+    name: "少年学课"
+    order: 500
+  pr:
+    name: "高级学课"
+    order: 600
+  kd:
+    name: "中级学课"
+    order: 700
+  bg:
+    name: "初级学课"
+    order: 800
+  cc-sc:
+    name: "房角石_简体"
+    order: 900
+  cc-sc:
+    name: "房角石_繁體"
+    order: 1000
+  am:
+    name: "聖工消息"
+    order: 1100
