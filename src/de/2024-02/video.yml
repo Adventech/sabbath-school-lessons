@@ -32,6 +32,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-02-10.mp4
           target: de/2024-02/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-02-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-02-11.mp4
+          target: de/2024-02/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-02-11.webp
     - artist: Adventgemeinde Fürstenfeld
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-02-01.mp4
