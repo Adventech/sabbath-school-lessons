@@ -155,3 +155,7 @@
           target: es/2024-02/11/06
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/04/LECCION-11-VIERNES.mp3
           target: es/2024-02/11/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/04/LECCION-12-SABADO.mp3
+          target: es/2024-02/12/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/04/LECCION-12-DOMINGO.mp3
+          target: es/2024-02/12/02
