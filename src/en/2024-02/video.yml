@@ -32,6 +32,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-02-11.mp4
           target: en/2024-02/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-02-12.mp4
+          target: en/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-02-12.webp
     - artist: Hope Lives 365
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2024-02-01.mp4
@@ -67,6 +70,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2024-02-11.mp4
           target: en/2024-02/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2024-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2024-02-12.mp4
+          target: en/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/365/365-en-2024-02-12.webp
     - artist: It Is Written
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2024-02-01.mp4
@@ -102,6 +108,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2024-02-11.mp4
           target: en/2024-02/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2024-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2024-02-12.mp4
+          target: en/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2024-02-12.webp
     - artist: Amazing Facts Study Hour
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-02-01.mp4?updated
@@ -137,6 +146,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-02-11.mp4
           target: en/2024-02/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-02-12.mp4
+          target: en/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-02-12.webp
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2024-02-01.mp4
@@ -172,3 +184,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2024-02-11.mp4
           target: en/2024-02/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2024-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2024-02-12.mp4
+          target: en/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2024-02-12.webp
