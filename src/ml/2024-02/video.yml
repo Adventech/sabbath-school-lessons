@@ -32,3 +32,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-10.mp4
           target: ml/2024-02/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-12.mp4
+          target: ml/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-02-12.webp
