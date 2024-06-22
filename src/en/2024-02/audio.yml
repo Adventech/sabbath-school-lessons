@@ -385,3 +385,15 @@
           target: en/2024-02/12/06
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-12-07.mp3
           target: en/2024-02/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-13-01.mp3
+          target: en/2024-02/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-13-02.mp3
+          target: en/2024-02/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-13-03.mp3
+          target: en/2024-02/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-13-04.mp3
+          target: en/2024-02/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-13-05.mp3
+          target: en/2024-02/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-02/en-egw-2024-02-13-06.mp3
+          target: en/2024-02/13/06
