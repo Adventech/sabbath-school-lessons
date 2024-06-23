@@ -1,0 +1,7 @@
+---
+title:  Inside Story
+date:   20/09/2024
+---
+
+### <center>Kami sedang mengerjakan pelajaran ini</center>
+<center>Silahkan kembali lagi nanti</center>
