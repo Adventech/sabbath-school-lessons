@@ -9,13 +9,13 @@ Key Text: Mark 1:1
 
 Study Focus: Mark 1
 
-Introduction: In the first verse of his Gospel, Mark encapsulates the theme not only of the opening chapter but of his entire account: “the gospel of Jesus Christ.” In a century in which people often were enticed by the allure of “a gospel contrary to that which [they] received” (Gal. 1:9, RSV), Mark introduces his account with its transcendent opening statement in order to highlight the essence of the Christian religion: the good news about Jesus Christ. Jesus revealed the gospel not only to those who were restored by His healing touch but also to a disparate faith community that needed to believe it. According to Mark’s perspective, Jesus, ultimately, is the gospel.
+**Introduction**: In the first verse of his Gospel, Mark encapsulates the theme not only of the opening chapter but of his entire account: “the gospel of Jesus Christ.” In a century in which people often were enticed by the allure of “a gospel contrary to that which [they] received” (Gal. 1:9, RSV), Mark introduces his account with its transcendent opening statement in order to highlight the essence of the Christian religion: the good news about Jesus Christ. Jesus revealed the gospel not only to those who were restored by His healing touch but also to a disparate faith community that needed to believe it. According to Mark’s perspective, Jesus, ultimately, is the gospel.
 
-Lesson Themes: This week’s study reviews two components of the first verse of the Gospel according to Mark: the phrase “the gospel of Jesus Christ,” and then, more specifically, the name “Jesus Christ” itself.
+**Lesson Themes**: This week’s study reviews two components of the first verse of the Gospel according to Mark: the phrase “the gospel of Jesus Christ,” and then, more specifically, the name “Jesus Christ” itself.
 
-1. “The gospel of Jesus Christ.” For Mark, the gospel, or euangeliou, is God’s good news, rooted in the Holy Scriptures, proclaimed by Christ in the synagogues and revealed in His earthly ministry. As such, the good news of God also is, in verity, the good news of Jesus.
+1\. “The gospel of Jesus Christ.” For Mark, the gospel, or euangeliou, is God’s good news, rooted in the Holy Scriptures, proclaimed by Christ in the synagogues and revealed in His earthly ministry. As such, the good news of God also is, in verity, the good news of Jesus.
 
-2. “Jesus Christ.” Mark presents Jesus in the many facets of His ministry. Jesus is the Son of God and the Holy One. He also is referred to as a great teacher and preacher, as well as a compassionate healer, in the region of Galilee and beyond.
+2\. “Jesus Christ.” Mark presents Jesus in the many facets of His ministry. Jesus is the Son of God and the Holy One. He also is referred to as a great teacher and preacher, as well as a compassionate healer, in the region of Galilee and beyond.
 
 #### Part II: Commentary
 
@@ -29,7 +29,7 @@ Mark introduces his Gospel with a statement that summarizes the topic of his boo
 
 With the exception of Mark, no other Gospel writer uses the expression “the gospel of Jesus Christ” [euangeliou Iēsou] (Mark 1:1) in his writings. This expression is found only in Mark. It tells us that Jesus and His gospel constitute the focus, and the essence, of Mark’s narrative.
 
-Thus, we would do well in our study of Mark’s Gospel to begin by asking, What is the gospel? From lexicographical studies, the Greek expression euangelion, commonly translated as “gospel,” has more than a single meaning. Euangelion refers to “God’s good news to humans, good news as proclamation.” It also pertains to “a book dealing with the life and teaching of Jesus, a gospel account.” The expression euangelion also is connected with the “details relating to the life and ministry of Jesus, [the] good news of Jesus.”—William Arndt, F. W. Gingrich, Frederick W. Danker, eds., A Greek-English Lexicon of the New Testament and Other Early Christian Literature (Chicago: University of Chicago Press, 2000), p. 403. With these definitions in mind, we may reason that Mark uses the expression “gospel” to describe the merciful acts of Jesus during His ministry, as well as to designate the idea of the gospel itself as “good news” from God.
+Thus, we would do well in our study of Mark’s Gospel to begin by asking, What is the gospel? From lexicographical studies, the Greek expression _euangelion_, commonly translated as “gospel,” has more than a single meaning. Euangelion refers to “God’s good news to humans, good news as proclamation.” It also pertains to “a book dealing with the life and teaching of Jesus, a gospel account.” The expression euangelion also is connected with the “details relating to the life and ministry of Jesus, [the] good news of Jesus.”—William Arndt, F. W. Gingrich, Frederick W. Danker, eds., _A Greek-English Lexicon of the New Testament and Other Early Christian Literature_ (Chicago: University of Chicago Press, 2000), p. 403. With these definitions in mind, we may reason that Mark uses the expression “gospel” to describe the merciful acts of Jesus during His ministry, as well as to designate the idea of the gospel itself as “good news” from God.
 
 **Jesus’ Acts as Gospel**
 
@@ -57,7 +57,7 @@ Mark amply describes Jesus’ acts as a human being, but not before presenting H
 
 **Jesus as the Holy One**
 
-In line with the idea of Jesus as divine, Mark also presents Jesus Christ as “the Holy One of God” (Mark 1:24). This depiction may be an al­lusion to Isaiah 6, in which the Lord is presented as holy (Isa. 6:3). Holy is the preferred expression used by heavenly beings to refer to the Lord. In Mark, even the demons recognize Jesus as the Holy One [ho hagios] (Mark 1:24); that is, they recognize Jesus as pure (Frederick W. Danker, et al., A Greek-English Lexicon of the New Testament and Other Early Christian Literature, p. 11). Purity is the essence of God’s being. Therefore, the demons or unclean spirits cannot stand before Him. Moreover, they recognize that they will be destroyed before His presence (Mark 1:24).
+In line with the idea of Jesus as divine, Mark also presents Jesus Christ as “the Holy One of God” (Mark 1:24). This depiction may be an al­lusion to Isaiah 6, in which the Lord is presented as holy (Isa. 6:3). Holy is the preferred expression used by heavenly beings to refer to the Lord. In Mark, even the demons recognize Jesus as the Holy One [ho hagios] (Mark 1:24); that is, they recognize Jesus as pure (Frederick W. Danker, et al., _A Greek-English Lexicon of the New Testament and Other Early Christian Literature_, p. 11). Purity is the essence of God’s being. Therefore, the demons or unclean spirits cannot stand before Him. Moreover, they recognize that they will be destroyed before His presence (Mark 1:24).
 
 **Jesus as a Teacher and Preacher**
 
@@ -77,12 +77,12 @@ In addition to an active ministry in teaching and preaching, Jesus was very acti
 
 From Paul, we learn of the prevalence of many “other” gospels during the first century, apart from the one that he taught. Sad to say, many Christians were duped by “a different gospel” (Gal. 1:6, NASB) or a distorted one. Invite your students to contemplate the following questions:
 
-1.	What does the gospel mean to me?
+`What does the gospel mean to me?`
 
-2.	What is the essence of the gospel that I believe?
+`What is the essence of the gospel that I believe?`
 
-3.	Nowadays, social media shapes many aspects of our lives—how we communicate, how we stay in touch, how we share news and information, and so on. What is the source of the gospel that I believe in?
+`Nowadays, social media shapes many aspects of our lives—how we communicate, how we stay in touch, how we share news and information, and so on. What is the source of the gospel that I believe in?`
 
-4.	Is God’s Word still relevant as the source of His good news? Discuss.
+`Is God’s Word still relevant as the source of His good news? Discuss.`
 
-5.	Jesus dedicated a great deal of His ministry to teaching in ad­dition to preaching, healing, and praying. Share with your class an aspect of Jesus’ ministry that has impacted your life the most as a teacher. Now ask your class members, in turn, which aspect of the ministry of Jesus has most impacted their lives.
+`Jesus dedicated a great deal of His ministry to teaching in ad­dition to preaching, healing, and praying. Share with your class an aspect of Jesus’ ministry that has impacted your life the most as a teacher. Now ask your class members, in turn, which aspect of the ministry of Jesus has most impacted their lives.`
