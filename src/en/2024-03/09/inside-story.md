@@ -21,7 +21,7 @@ Something clicked. Father understood that the frightened people in his dream did
 
 “I need to get baptized,” Father said.
 
-But the words sounded strange to him even as they came out of his mouth. Armenia prides itself as the first country to adopt Christianity, in 301 a.d., and many Armenians consider it their duty to be Christian. They were baptized as infants, not as adults. Now, Father wasn’t sure what to do.
+But the words sounded strange to him even as they came out of his mouth. Armenia prides itself as the first country to adopt Christianity, in 301 A.D., and many Armenians consider it their duty to be Christian. They were baptized as infants, not as adults. Now, Father wasn’t sure what to do.
 
 “You have the Bible,” Anush said. “Read it. Let the Bible answer your questions. Let the Bible lead you to the right church.”
 
