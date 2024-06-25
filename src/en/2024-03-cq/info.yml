@@ -6,6 +6,7 @@
   end_date: "27/09/2024"
   color_primary: "#313761"
   color_primary_dark: "#242A51"
+  splash: true
   credits:
     - name: Principal Contributor
       value: "Daniel Pel"
