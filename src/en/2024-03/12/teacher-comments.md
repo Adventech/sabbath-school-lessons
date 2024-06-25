@@ -1,0 +1,60 @@
+---
+title:  Teacher Comments
+date:  20/09/2024
+---
+
+#### Part I: Overview
+
+Key Texts: Mark 15:26, 32, 43
+
+Study Focus: Mark 15
+
+**Introduction**: Mark 15 presents three key scenes related to Jesus’ trial, crucifixion, and resurrection. These events furnish us with insight into the nature of the kingdom of God. First, Mark examines the role that the Sanhedrin plays in Jesus’ condemnation. In this event, the priests and other Jewish leaders are featured as the antagonists. (What the Bible describes as the council is identified with the Sanhedrin by the historians of Jesus’ time.) Next, Mark devotes considerable space in his narrative to a description of the role of Pontius Pilate in Jesus’ condemnation and trial. Finally, Mark narrates the actions of Joseph of Arimathea, who lays Jesus in the tomb that was meant for himself.
+
+**Lesson Themes**: This week’s study is divided into three sections:
+
+1. The Sanhedrin and the Condemnation of Jesus. In this section, we examine the attitude of the council and the high priest toward Jesus prior to His crucifixion.
+
+2. The Approval of the Roman Authority in the Condemnation of Jesus. In this section, we explore the role of Pontius Pilate in Jesus’ trial.
+
+3. Joseph of Arimathea and the Kingdom of God. Mark briefly highlights the actions of Joseph of Arimathea in the aftermath of Jesus’ death.
+
+#### Part II: Commentary
+
+**Condemned by the Sanhedrin and the Priests**
+
+Mark 14 describes the active role that the priests and other leaders of the nation played in seizing Jesus (Mark 14:1). When Judas comes to nego­tiate the act of betrayal, “they were delighted when they heard this” (Mark 14:11, NASB). The priests, the scribes, and the elders colluded together in the plot to put Jesus to death. Their collusion is evident when they send a crowd with swords and clubs to seize Jesus (Mark 14:43).
+
+Jesus is taken and made to stand trial. Initially, His trial took place in the council. Mark 14:53, 55 describe the scene: “They led Jesus away to the high priest; and all the chief priests, the elders, and the scribes gathered together. . . . Now the chief priests and the entire Council were trying to obtain testimony against Jesus to put Him to death” (NASB). It seems that the high priest was the one who led the council, as well as the interrogatory trial of Jesus (Mark 14:60, 61). Moreover, it was the high priest who presented to the members of the council the argument for Jesus’ condemnation. Mark describes this action in the following words: “Again the high priest was questioning Him, and said to Him, ‘Are You the Christ, the Son of the Blessed One?’ And Jesus said, ‘I am; and you shall see the Son of Man sitting at the right hand of power, and coming with the clouds of heaven.’ Tearing his clothes, the high priest said, ‘What further need do we have of witnesses? You have heard the blasphemy; how does it seem to you?’ And _they all condemned Him as deserving of death_” (Mark 14:61–64, NASB; _emphasis added_). Thus, it was in this council, among the body of the nation’s preeminent religious leaders, that Jesus was condemned and sentenced to death.
+
+Later, the leaders of this council attempt to secure a legal confirmation of the pre–agreed-upon sentence. To this end, in another meeting it seems that the council determined to take Jesus before Pontius Pilate as part of a strategy to procure a sentence of condemnation from the Roman authority. Mark introduces chapter 15 by saying, “Early in the morning the chief priests with the elders, scribes, and the entire Council immediately held a consultation; and they bound Jesus and led Him away, and turned Him over to Pilate” (Mark 15:1, NASB).
+
+The Sanhedrin, located in Jerusalem, was the “supreme judicial council of Judaism with 71 members. It figures prominently in the Passion narratives of the Gospels as the body that tried Jesus, and it appears again in Acts as the judicial court that investigated and persecuted the growing Christian church.”—Philip Wesley Comfort and Walter A. Elwell, eds., _Tyndale Bible Dictionary_ (Carol Stream, IL: Tyndale House Publishers, 2001), p. 1165. Even though the region of Judea was under the dominion of Roman government, for some issues the region was under the jurisdiction of the council. “Procurators, such as Pontius Pilate or Felix, depended on Jewish courts or councils to handle many administrative matters.”—Green and McDonald, eds., _The World of the New Testament: Cultural, Social, and Historical Contexts_, p. 270. As mentioned above, during the first century A.D., the council consisted of priests, Pharisees, Sadducees, scribes, and elders (Mark 15:1; Act 23:1, 6). The role of the priests, particularly of the high priest, was dominant in the assemblies.
+
+The antagonism of the priests toward Jesus is evident in their response to Jesus’ ministry, particularly in Jerusalem. Pilate “was aware that the chief priests had handed [Jesus] over because of envy” (Mark 15:10, NASB). Their hostility toward Jesus was so evident that, in the following verse, Mark describes the demand they make of Pilate to sentence Jesus to death: “The chief priests stirred up the crowd to ask him to release Barabbas for them instead” (Mark 15:11, NASB).
+
+When Jesus was crucified, the priests (along with the scribes) “were mocking Him among themselves and saying, ‘He saved others; He cannot save Himself! Let this Christ, the King of Israel, come down now from the cross, so that we may see and believe!’ ” (Mark 15:31, 32, NASB). How ironic that when Jesus was dying on the cross, the priests, in their uncontrolled excitement, declared that the One on the cross was Christ, the King of Israel! Even though Jesus is referred to as king many times in this chapter, it is Pilate who enunciates it most clearly. But now, even the leaders of the Israelite nation declare Jesus as Messiah and King of Israel, albeit in mockery. They do not know that, with Jesus’ death, the necessity for their administration of sacrifices in the earthly sanctuary was about to cease. Mark 15:37 says, “Jesus let out a loud cry, and died,” (NASB) and in the following verse, the Gospel notes that “the veil of the temple was torn in two from top to bottom” (Mark 15:38, NASB).
+
+The temple was now open. Thus, it no longer made any sense to continue offering animal sacrifices, for the Lamb of God had already been slaughtered. Anyone who accepted Jesus’ sacrifice could become part of His kingdom. The borders of the kingdom have been enlarged, and the invitation to join it has extended to all nations.
+
+**The Approval of Rome Secured in the Trial of Jesus**
+
+The city of Jerusalem, wherein the events of Jesus’ trial and crucifixion transpired, belonged to the region of Judea. Years before, Herod the Great controlled this area, including the region of Galilee. He had built a palace in Jerusalem. Now, in Jesus’ time, the region of Judea was under the direct supervision and control of the Roman Empire. Thus, it was considered a Roman province, with a Roman-appointed governor. In this particular period of Jesus’ life, the appointed Roman governor was Pontius Pilate.
+
+So, it was before Pilate that the priests brought Jesus in order to secure an official sentence of death. The Gospel of Mark indicates that Pilate’s actions were ultimately dictated by his desire to pander to the bloodthirsty mob. In Jesus’ trial, we see Pilate vacillate between the convictions of his conscience and his moral weakness. He wrestles with freeing Jesus, even though he finds no reason to condemn Him. Mark describes Pilate’s dilemma in verses 12 to 15 of the fifteenth chapter of his Gospel. After interrogating Jesus, Pilate cannot find any reason to condemn Him. He then asks the priests, “ ‘What shall I do with Him whom you call the King of the Jews?’ ” (Mark 15:12, NASB). Then, in Mark 15:14, when the priests shout, “ ‘Crucify Him!’ ” Pilate answers, “ ‘Why, what evil has He done?’ ” (NASB). And finally, in Mark 15:15, Mark gives us a glimpse into the heart of the Roman prefect and the reason that motivates him to sentence Jesus to death by crucifixion. “Intent on satisfying the crowd, Pilate released Barabbas for them, and after having Jesus flogged, he handed Him over to be crucified” (Mark 15:15, NASB).
+
+Ironically, it is Pilate, not the Jewish leaders, who alludes several times to God’s kingdom in his identification of Jesus as the King of the Jews. Jesus brought the possibility of the kingdom of God to His nation, but the invitation was rejected by the leaders of the nation. The secular governor recognized Jesus as King, and Jesus permitted Himself to be called such. From Pilate’s perspective, Jesus died as “the King of the Jews.” According to the Gospel of John, “Pilate also wrote an inscription and put it on the cross. It was written: ‘JESUS THE NAZARENE, THE KING OF THE JEWS’ ”(John 19:19, NASB).
+
+Let us clarify that Pilate does not recognize the spiritual dimension of the kingdom of God in his designation of Jesus as the King of the Jews. Pilate said to Jesus, “ ‘Are you not speaking to me? Do You not know that I have authority to release You, and I have authority to crucify You?’ ” (John 19:10, NASB). Jesus immediately put things into the proper cosmic perspective for Pilate. “Jesus answered him, ‘You would have no authority over Me at all, if it had not been given to you from above’ ” (John 19:11, NASB). In other words, Jesus says to Pilate, I am not only the King of the Jews, but I am also above all powers and kingdoms on the earth, including yours. The import of these electrifying words seared Pilate’s mind so that he “made efforts to release Him” (John 19:12, NASB). However, Pilate’s understanding of the kingdom of God was limited by his view that there was no king higher than Caesar (see John 19:12, 15), which, of course, was a title for the Roman emperor.
+
+Ellen G. White mentions why Pilate permitted Jesus to be crucified. “Pilate yielded to the demands of the mob. Rather than risk losing his position, he delivered Jesus up to be crucified. But in spite of his precautions, the very thing he dreaded afterward came upon him. His honors were stripped from him, he was cast down from his high office, and, stung by remorse and wounded pride, not long after the crucifixion he ended his own life.”—_The Desire of Ages_, p. 738.
+
+**Joseph and the Kingdom of God**
+
+While the religious leaders did not recognize the authority of Jesus or His kingdom, and while Pilate’s perspective of Jesus’ kingship was limited by his own pagan worldview, there was one who believed in, and accepted, the kingdom that Jesus preached about: Joseph of Arimathea, a prominent member of the Sanhedrin. The Gospel of Mark says that “[he] was himself also waiting for the kingdom of God; and he gathered up courage and went in before Pilate, and asked for the body of Jesus” (Mark 15:43, NASB). Jesus’ proclamation had a powerful effect on the life of this leading member of Israelite society. Jesus’ works were starting to yield their firstfruits. The chapter concludes with the actions of this Jewish leader, a man who found in Jesus the King of his life and of all his possessions. Joseph of Arimathea assumed all responsibility and expenses for Jesus’ burial. When most of the disciples were far away and the nation had rejected the kingdom, there was one man, Joseph of Arimathea, who recognized that “ ‘the time is fulfilled, and the kingdom of God is at hand’ ” (Mark 1:15, NASB).
+
+#### Part III: Life Application
+
+Pilate almost had been persuaded to release Jesus from the condemnation of crucifixion. However, the people shouted, “ ‘If you release this Man, you are not a friend of Caesar’ ” (John 19:12, NASB). Ask your students, What principles and/or factors mold and motivate our thoughts and decisions in life today?
+
+`Notes`

@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-Intro.pdf'
+      target: si/2024-02-pr/introduction
+      title: හැදින්වීම
+      start_date: 30/03/2024
+      end_date: 30/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-01.pdf'
+      target: si/2024-02-pr/01
+      title: සේවකයාණන් වූ යේසුස්වහන්සේ
+      start_date: 30/03/2024
+      end_date: 05/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-02.pdf'
+      target: si/2024-02-pr/02
+      title: කල්වරියට යන මාර්ගයේදී
+      start_date: 06/04/2024
+      end_date: 12/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-03.pdf'
+      target: si/2024-02-pr/03
+      title: යේසුස්වහන්සේ මිය ගියාවූ දිනයේදී
+      start_date: 13/04/2024
+      end_date: 19/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-04.pdf'
+      target: si/2024-02-pr/04
+      title: උන්වහන්සේ ජීවමානය!
+      start_date: 20/04/2024
+      end_date: 26/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-05.pdf'
+      target: si/2024-02-pr/05
+      title: ඔබ මට ප්‍රේම කරන්නේද?
+      start_date: 27/04/2024
+      end_date: 03/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-06.pdf'
+      target: si/2024-02-pr/06
+      title: නෝවා නැවක් සාදයි
+      start_date: 04/05/2024
+      end_date: 10/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-07.pdf'
+      target: si/2024-02-pr/07
+      title: පාවෙන සත්තු වත්ත
+      start_date: 11/05/2024
+      end_date: 17/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-08.pdf'
+      target: si/2024-02-pr/08
+      title: ඉවසිල්ලෙන් බලා සිටීම
+      start_date: 18/05/2024
+      end_date: 24/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-09.pdf'
+      target: si/2024-02-pr/09
+      title: දේදුන්නේ පොරොන්දුව
+      start_date: 25/05/2024
+      end_date: 31/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-10.pdf'
+      target: si/2024-02-pr/10
+      title: ඒ කුමක්ද?
+      start_date: 01/06/2024
+      end_date: 07/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-11.pdf'
+      target: si/2024-02-pr/11
+      title: සර්පයෙකුගේ දෂ්ඨ කිරීම!
+      start_date: 08/06/2024
+      end_date: 14/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-12.pdf'
+      target: si/2024-02-pr/12
+      title: මතක තබා ගැනීමට වචන
+      start_date: 15/06/2024
+      end_date: 21/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PR-13.pdf'
+      target: si/2024-02-pr/13
+      title: බාලාම් සහ කථා කරන බැටළුවා
+      start_date: 22/06/2024
+      end_date: 28/06/2024

@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-Intro.pdf'
+      target: si/2024-02-pp/introduction
+      title: හැදින්වීම
+      start_date: 30/03/2024
+      end_date: 30/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-01.pdf'
+      target: si/2024-02-pp/01
+      title: ව්‍යාපාරිකයන් තිදෙනා
+      start_date: 30/03/2024
+      end_date: 05/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-02.pdf'
+      target: si/2024-02-pp/02
+      title: සේවක සේව්‍යයා
+      start_date: 06/04/2024
+      end_date: 12/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-03.pdf'
+      target: si/2024-02-pp/03
+      title: ගසක් මත ප්‍රකාශ කළ ප්‍රේමය
+      start_date: 13/04/2024
+      end_date: 19/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-04.pdf'
+      target: si/2024-02-pp/04
+      title: ජීවමාන පුද්ගලයා ඇවිදියි
+      start_date: 20/04/2024
+      end_date: 26/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-05.pdf'
+      target: si/2024-02-pp/05
+      title: යෙරුසලම වෙත ගමනක්
+      start_date: 27/04/2024
+      end_date: 03/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-06.pdf'
+      target: si/2024-02-pp/06
+      title: දේවමාළිගාව ගොඩනැගීම
+      start_date: 04/05/2024
+      end_date: 10/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-07.pdf'
+      target: si/2024-02-pp/07
+      title: දෙවියන්වහන්සේගේ මිනිසුන් රැස් කිරීම
+      start_date: 11/05/2024
+      end_date: 17/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-08.pdf'
+      target: si/2024-02-pp/08
+      title: සදාකාලයටම සමාව දීම
+      start_date: 18/05/2024
+      end_date: 24/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-09.pdf'
+      target: si/2024-02-pp/09
+      title: මට අවශ්‍යවන්නේ එපමණයි
+      start_date: 25/05/2024
+      end_date: 31/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-10.pdf'
+      target: si/2024-02-pp/10
+      title: මධ්‍යම රාත්‍රියේ පැමිණි ගලීලයේ මිත්‍රයා
+      start_date: 01/06/2024
+      end_date: 07/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-11.pdf'
+      target: si/2024-02-pp/11
+      title: අදෘශ්‍යමාන රාජධානිය
+      start_date: 08/06/2024
+      end_date: 14/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-12.pdf'
+      target: si/2024-02-pp/12
+      title: දේව රාජ්‍යයේ තවත් රහස්
+      start_date: 15/06/2024
+      end_date: 21/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-02/ABSG-2024-02-SI-PP-13.pdf'
+      target: si/2024-02-pp/13
+      title: සම්බන්ධතාවය
+      start_date: 22/06/2024
+      end_date: 28/06/2024
