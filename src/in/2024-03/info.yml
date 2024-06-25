@@ -1,0 +1,21 @@
+---
+  title: "Kitab Markus"
+  description: "Test Description text here"
+  human_date: "Juli · Agustus · September 2024"
+  start_date: "29/06/2024"
+  end_date: "27/09/2024"
+  color_primary: "#7D7D7D"
+  color_primary_dark: "#333333"
+  credits:
+    - name: Penulis Pelajaran
+      value: "Thomas R. Shepherd"
+    - name: Penerjemah
+      value: "Leroy Pakpahan"
+    - name: Ketua Yayasan
+      value: "H. Manullang"
+    - name: Ketua Bidang Usaha
+      value: "J.F Manullang"
+    - name: Pemimpin Redaksi
+      value: "J. Pardede"
+    - name: Redaktur Pelaksana
+      value: "F. Ngantung"
