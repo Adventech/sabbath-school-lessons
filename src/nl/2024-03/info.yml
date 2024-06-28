@@ -4,5 +4,6 @@
   human_date: "Derde kwartaal van 2024"
   start_date: "29/06/2024"
   end_date: "27/09/2024"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#CDA476"
+  color_primary_dark: "#A58057"
+  splash: true
