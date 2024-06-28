@@ -4,8 +4,8 @@
   human_date: "Iulie · August · Septembrie 2024"
   start_date: "29/06/2024"
   end_date: "27/09/2024"
-  color_primary: "#468A85"
-  color_primary_dark: "#246862"
+  color_primary: "#B7A58C"
+  color_primary_dark: "#80725F"
   splash: true
   credits:
     - name: Autor
