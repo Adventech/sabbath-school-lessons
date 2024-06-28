@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-Intro.pdf
+      title: Intro
+      target: it/2024-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-01.pdf
+      target: it/2024-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-02.pdf
+      target: it/2024-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-03.pdf
+      target: it/2024-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-04.pdf
+      target: it/2024-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-05.pdf
+      target: it/2024-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-06.pdf
+      target: it/2024-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-07.pdf
+      target: it/2024-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-08.pdf
+      target: it/2024-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-09.pdf
+      target: it/2024-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-10.pdf
+      target: it/2024-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-11.pdf
+      target: it/2024-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-12.pdf
+      target: it/2024-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/it/2024-03/ABSG-2024-03-IT-13.pdf
+      target: it/2024-03/13
