@@ -143,6 +143,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "hi": ["hhbd"],
+  "hmn": ["hmowsv"],
 
   "hil": [
     "hil82"
@@ -377,4 +378,3 @@ var BIBLE_PARSER_CONFIG = {
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
-

@@ -1,0 +1,73 @@
+---
+title:  Lehrerteil
+date:   24/05/2024
+---
+
+### TEIL I: ÜBERSICHT
+
+**Schlüsseltext:** Hebräer 8,1–2
+
+**Studienschwerpunkt:** 2. Mose 25,8–9.40; Hebräer 8,1–6; Matthäus 25,1–10; Daniel 7,9–10; Hebräer 8,1–5; 9,23–28; Offenbarung 11,19; Hebräer 10,16; 3. Mose 21,29–34; 23,26–32
+
+**Einführung:**
+
+Das Thema Heiligtum ist sowohl im Alten als auch im Neuen Testament derart präsent, dass es erstaunlich ist, dass viele Christen die Lehre vom himmlischen Heiligtum fast zwei Jahrtausende lang aus den Augen verloren haben. Die Siebenten-Tags-Adventisten haben erkannt, dass die Lehre vom himmlischen Heiligtum nicht nur eine wichtige biblische Lehre ist, sondern auch das zentrale Grundprinzip einer biblischen Theologie, die andere Lehren miteinander verbindet. Zu diesen Lehren gehören:
+
+- die Lehre von Gott, seinem Charakter, seiner Schöpfung, seinem Wirken und seiner Regierung;
+- die Lehre vom Ursprung des Bösen und vom Großen Kampf;
+- die Lehre von Christus, seinem ersten Kommen auf die Erde, seiner Menschwerdung, seinem Leben, seinem Wirken, seinem Tod, seiner Auferstehung und seiner Himmelfahrt;
+- die Lehre von der Erlösung in Christus;
+- die Lehre von den letzten Dingen, der Wiederkunft Christi, dem Endgericht und der Wiederherstellung aller Dinge;
+- die Lehre von der Gemeinde, insbesondere die Lehre von der Gemeinde der Übrigen in der Endzeit vor der Wiederkunft Jesu.
+
+Die längste biblische Zeitweissagung – die 2300 Jahre in Daniel 8,14 – betrifft das himmlische Heiligtum und den Großen Kampf. Diese Prophezeiung macht uns sowohl mit dem Angriff auf das himmlische Heiligtum als auch mit seiner Reinigung am Tag von Gottes Gericht und der Wiederherstellung aller Dinge vertraut. Adventisten betrachten diese Prophezeiung jedoch nicht als eine bloße Abstraktion, die keine Grundlage oder Erfüllung in der Realität hat. Vielmehr verstehen sie, dass sich diese Prophezeiung in der Geschichte erfüllt hat, beginnend Mitte des 19. Jahrhunderts, im Jahr 1844. Die Erfüllung dieser Prophezeiung fordert alle Menschen auf, die in dieser Bewährungszeit leben, Jesu Sühne für ihre Sünden vor dem Ende seines Mittlerdienstes im himmlischen Heiligtum anzunehmen.
+
+Die Erfüllung der 2300-Tage-Prophezeiung ist Adventisten besonders wichtig, weil sie verstehen, dass Gott sie als seine Gemeinde der Übrigen berufen hat, der Welt die Erfüllung dieser Prophezeiung, die Wiederkunft Jesu und die bevorstehende Vollendung des Großen Kampfes zu verkünden. Somit ist die Botschaft der 2300-Tage-Prophezeiung das eigentliche Wesen des ewigen Evangeliums (Offb 14,6). Die gute Nachricht im Zusammenhang mit der Dreiengelsbotschaft ist Gottes letzter Liebesruf an die Menschheit. Gott fordert die Sünder auf der Erde auf, sich ihm zuzuwenden, damit sie durch das Blut Jesu und durch seine Vermittlung im himmlischen Heiligtum gerettet werden können.
+
+**Themen der Lektion**
+
+In der Lektion dieser Woche werden zwei wichtige Themen beleuchtet:
+
+1. Das irdische Heiligtum im Alten Testament war nicht einfach nur Teil der Kultur ­Israels; es wies in erster Linie auf das himmlische Heiligtum und den Dienst Jesu für die Menschheit hin.
+
+2. Als solches ist das himmlische Heiligtum von zentraler Bedeutung für das universelle und ewige Evangelium, für die Erlösung der Menschheit und für die Mission der Kirche.
+
+### TEIL II: KOMMENTAR
+
+**Die Versiegelung der 2300-Jahre-Prophezeiung**
+
+Das erste und das zweite Kommen Jesu sind eng mit dem Heiligtum verbunden, sowohl dem irdischen als auch dem himmlischen. Als Maria und Josef Jesus in den Tempel in Jerusalem brachten, dienten dort Simeon und Hanna (Lk 2,25–38). Sie wussten, dass der Messias in den Tempel kommen würde. Lukas berichtet, dass Simeon, während er auf die Erfüllung von Gottes Verheißung des ersten Kommens des Messias wartete, aus diesem Grund „vom Geist geführt in den Tempel“ kam, um Jesus zu begegnen (V. 27), und die Prophetin Hanna „ihre ganze Zeit im Tempel“ zubrachte (V. 37 Hfa).
+
+Die längste biblische Zeitweissagung, die der 2300 Jahre (Dan 8,14), bezog sich auf das himmlische Heiligtum (Dan 8,10–12). Diese Prophezeiung wurde durch das erste Kommen Jesu in das irdische Heiligtum „versiegelt“ oder bestätigt (Dan 9,24). Nachdem Daniel die 2300-Jahre-Prophezeiung erhalten hatte, „war [er] entsetzt über die Erscheinung, und keiner war da, der es verstand“ (Dan 8,27 EB). Da Daniel mehrere Jahre lang keine Erklärung für diese Vision hatte, konzentrierte er sich auf die Daten, die ihm vorlagen: Jeremias Prophezeiung über die 70 Jahre, die „Jerusalem wüst liegen“ soll (Dan 9,2; vgl. Jer 25,11–12).
+
+Daniel betete um Gottes Eingreifen für die Erfüllung der 70-Jahre-Prophezeiung Jeremias. Er flehte den Allerhöchsten an, sein Volk zu erlösen (Dan 9,3–19) und bat: „Lass leuchten dein Angesicht über dein zerstörtes Heiligtum“ (V. 17). Zu Daniels Freude sandte Gott den „Mann Gabriel“, um ihn zu unterweisen (V. 21–22). Gabriel konzen­trierte sich jedoch nicht sofort auf die Beantwortung von Daniels Gebet über Jeremias 70-Jahre-Prophezeiung. Stattdessen begann Gabriel, Daniel zu ermahnen: „So achte nun auf das Wort und verstehe die Erscheinung“ (V. 23 EB). Offensichtlich handelte es sich um die Vision, die in Daniel 8,14 beschrieben wird, denn Gabriel sprach nicht von 70 buchstäblichen Wochen, sondern von 70 prophetischen Wochen (V. 24), also 490 Jahren. Die 490 Jahre konnten nur von den 2300 Jahren in Daniels Vision (Dan 8,14) „bestimmt“ oder abgezogen werden – nicht von den 70 Jahren in Jeremias Prophezeiung. Nach dieser Berechnung offenbarte Gabriel auch das Ereignis, das den Beginn der 70 prophetischen Wochen und damit der 2300 Jahre markiert. Dieses Ereignis war der „Erlass des Befehls zur Wiederherstellung und zum Aufbau Jerusalems“ (Dan 9,25 SLT), der im Jahr 457 v. Chr. gegeben wurde. Die Prophezeiung der 70 prophetischen Wochen ist also eine Teilmenge oder der erste Teil der 2300-Jahre-Prophezeiung; die beiden Zeiträume bilden gemeinsam eine große Prophezeiung.
+
+Hier beantwortete Gabriel endlich Daniels Frage und sein Gebet über die Wiederherstellung und den Wiederaufbau Jerusalems (Dan 9,25), Gottes „heiligen Berg“ (V. 20). Gabriel erklärte jedoch sofort, dass diese Erfüllung von Jeremias Prophezeiung von 70 Jahren nur der Anfang einer viel längeren Prophezeiung sei. Das heißt, es war der ­Beginn der 70 prophetischen Wochen und dann der Beginn einer noch längeren Prophezeiung – der 2300 Jahre. Aus diesem Grund erklärte Gabriel Daniel im Anschluss – bei weiter bestehendem Fokus auf der langen Prophezeiung –, dass diese 70 prophetischen Wochen, das heißt 490 buchstäbliche Jahre, „über dein Volk und über deine heilige Stadt“ (V. 24) zu einem besonderen Zweck „verhängt“ oder „bestimmt“ (EB) würden: „bis ein Gesalbter, ein Fürst, kommt“ (V. 25).
+
+Das Ende beziehungsweise das Ziel dieser 490 Jahre war die erste Ankunft des ­Messias. Gabriel erklärte, dass die Aufgabe des Messias darin bestehen würde, „der Übertretung ein Ende zu machen und die Sünden abzutun, um die Missetat zu sühnen und eine ewige Gerechtigkeit herbeizuführen … und ein Allerheiligstes zu salben“ (Dan 9,24 SLT). In der 70. prophetischen Woche wird der Messias „mit den Vielen einen festen Bund schließen eine Woche lang; und in der Mitte der Woche wird er Schlacht- und Speisopfer aufhören lassen“ (V. 27 SLT). Die einzige plausible Erfüllung für all diese Ereignisse war das Opfer Jesu, des Gesalbten, des Fürsten (V. 25) und des Lammes Gottes, das die Sünde der Welt wegnimmt (Joh 1,29 EB), der „ausgerottet werden [wird], und niemand wird ihm helfen“ (Dan 9,26).
+
+Somit läutet die Prophezeiung der 70 Wochen die Prophezeiung der 2300 Jahre ein. Wir können sicher sein, dass die 2300-Jahre-Prophezeiung über die Reinigung des Heiligtums im Jahr 1844 erfüllt wurde, weil die Prophezeiung der 70 Wochen (Dan 9,24–27) mit dem Opfertod des Messias in der Mitte der 70. Woche im Jahr 31 n. Chr. genau erfüllt wurde. Und so wie sich die Prophezeiung der 70 Wochen im Opfertod des Messias für das irdische Heiligtum erfüllte, würde sich die Prophezeiung der 2300 Jahre in der Reinigung des himmlischen Heiligtums durch den Messias erfüllen. In ähnlicher Weise sind die beiden Teile der Prophezeiung mit den beiden Kommen des Messias verbunden: Das Ende des 70-Wochen-Zeitraums bezieht sich auf das erste Kommen Christi, während das Ende der 2300 Jahre sich auf sein zweites Kommen bezieht.
+
+**Die Lehre vom Heiligtum ging verloren**
+
+Das Heiligtum ist eines der wichtigsten Themen und Lehren in der Heiligen Schrift. Die Bibel beschreibt zwei Heiligtümer, ein irdisches und ein himmlisches. Beide Heilig­tümer offenbaren grundlegende Aspekte des Charakters Gottes, des Großen Kampfes und der Erlösung. So dienen die beiden Heiligtümer als Ort der Offenbarung Gottes an sein Volk, als Ort, an dem er unter ihm wohnt und an dem er über es herrscht. Am Heiligtum begegnete Gott den Israeliten und sie antworteten ihm mit Anbetung. In gleicher Weise dient das himmlische Heiligtum dem Reich Gottes auf einer kosmischen Ebene. An diesem zentralen Ort errichtete Gott seinen Thron. Er offenbarte sich den Bewohnern des Universums, übte seine Souveränität über sie aus und sorgte für ihre Bedürfnisse.
+
+Als jedoch die Sünde in das Universum eintrat, übernahm das himmlische Heiligtum mit seinen Opfer- und Mittlerdiensten eine erlösende Funktion. Die beiden Heiligtümer sind also nicht getrennt, sondern stehen in einer engen typologischen Beziehung zueinander: Das heißt, das irdische Heiligtum wurde ausdrücklich errichtet, um die Bedeutung und die Rolle des himmlischen Heiligtums zu offenbaren, darauf hinzuweisen und zu erklären.
+
+Wenn wir uns dieses Verständnis der grundlegenden Rolle des Heiligtums für Gottes Reich vor Augen halten, kommen wir nicht umhin festzustellen, dass seine Präsenz in der Heiligen Schrift unübersehbar ist. Wie ausgerechnet Christen das Studium und die Bedeutung des himmlischen Heiligtums über Jahrtausende hinweg ignorieren konnten, ist rätselhaft. Wie war ein solches Versäumnis möglich?
+
+Adventisten weisen auf zwei wichtige Faktoren hin, die dazu führten, dass die Lehre vom Heiligtum aus der christlichen Theologie ausgeklammert wurde. Erstens: Angesichts der Bedeutung des himmlischen Heiligtums für die Erlösung liegt es auf der Hand, dass der Teufel alles tun würde, um die biblische Lehre vom himmlischen Heiligtum zu verschleiern oder gar zu vernichten. Auf diese Weise würden die Menschen die Wahrheit über Gott, über das Opfer Christi und über seinen anhaltenden Mittlerdienst im himmlischen Heiligtum zu unserer Erlösung nicht erfahren.
+
+**Kosmischer Dualismus**
+
+Wie wurde diese Lehre im Christentum verschleiert? Die Antwort auf diese Frage leitet nahtlos über zum zweiten wichtigen Faktor: dem Konzept des Dualismus. In den ersten Jahrhunderten seiner Geschichte nahm das Christentum die griechische Philosophie mit ihrem grundlegenden Konzept des Dualismus auf. Diesem Konzept zufolge ist unsere gesamte Realität in zwei Sphären unterteilt: die irdische und die himmlische. Diese beiden Sphären sind jedoch radikal und wesentlich verschieden. Während die irdische Sphäre materiell, zeitlich und räumlich ist, ist die himmlische Sphäre immateriell, zeitlos und raumlos. Mit anderen Worten: In der himmlischen Sphäre gibt es weder eine physische Existenz noch eine persönliche Beziehung. Da es keine Kommunikation oder Beziehung zwischen den beiden Sphären gibt, konnten die Menschen nur in die himmlische Sphäre gelangen, indem sie sich von ihrer irdischen Existenz lösten, was darauf hinauslief, dass sie aufhörten, als ganzheitliche menschliche Wesen zu existieren, und irgendwie als körperlose Seelen oder Geister überlebten, die Zeit und Raum nicht erleben. Offensichtlich ist diese Weltanschauung nur möglich, wenn man die Vorstellung akzeptiert, dass der Mensch einen physischen Körper sowie eine unsterbliche, völlig autonome Seele hat. Als die frühen Christen dieses Weltbild annahmen, war es für sie unmöglich, sich ein buchstäbliches Heiligtum im Himmel vorzustellen. Es fiel ihnen sogar schwer, sich den Himmel als einen buchstäblichen Raum vorzustellen, ganz zu schweigen von Jesus, der in einem menschlichen Körper in diesen Raum aufstieg. Als die frühen Christen in der Heiligen Schrift über das himmlische Heiligtum lasen, ­allegorisierten sie es deshalb oder vergeistigten es und schlossen daraus, dass das ­israelitische Heiligtum auf die Kirche anwendbar sei. Von einem buchstäblichen Heiligtum in einem buchstäblichen Himmel zu sprechen, schien einer „gehobenen“ Theologie nicht „würdig“ zu sein.
+
+Ja, die frühen und mittelalterlichen Christen stellten eine Verbindung zwischen dem Opfersystem des Heiligtums und dem Tod Christi her. Aber wegen des Einflusses der griechischen Philosophie konnten sich diese frühen Christen den Mittlerdienst Christi für die Menschheit nicht in einem buchstäblichen himmlischen Heiligtum vorstellen. Aus diesem Grund übertrug die römisch-katholische Kirche das Mittleramt Christi auf die Kirche und deren Priestertum. Tragischerweise führte diese Aneignung des Mittleramtes Christi im himmlischen Heiligtum dazu, dass die Kirche sogar das Opfer Christi untergrub. Gott wirkte jedoch durch die Bewegungen der protestantischen Reformation, um sein Volk zu einer wörtlichen Auslegung der Bibel zurückzuführen und durch die adventistische Bewegung die biblische Lehre vom himmlischen Heiligtum in den Prophezeiungen und im Hebräerbrief wiederzuentdecken.
+
+Unsere Aufgabe als Siebenten-Tags-Adventisten besteht daher darin, keine Kompromisse in Bezug auf die Bibel einzugehen und sowohl die Christen als auch die Welt aufzurufen, ihre Aufmerksamkeit auf das Opfer Christi auf Erden und seinen Mittlerdienst im himmlischen Heiligtum zu richten. Für eine weitere Diskussion siehe Ángel Manuel Rodríguez, „The Heavenly Sanctuary“, in: Handbook of Seventh-day Adventist Theology, S. 381–382, 403–406.
+
+### TEIL III: ANWENDUNG
+
+`1. Denkt an das Konzept des Priestertums in eurer Kultur. Wie lässt sich dieses Konzept mit dem biblischen Konzept vergleichen? Wie könnt ihr das bei euch vorherrschende Konzept des Priestertums nutzen, um anderen Menschen das Priestertum Jesu zu vermitteln?`
+
+`2. Denkt an die Vorstellung von Gericht in eurer Kultur oder eurem Land. Wie unterscheidet sich diese Vorstellung vom Gericht von der biblischen Vorstellung vom ­Gericht? Wie könnt ihr Menschen aus eurer Kultur das biblische Verständnis von ­Gericht erklären?`

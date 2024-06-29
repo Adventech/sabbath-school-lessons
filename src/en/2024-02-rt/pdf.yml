@@ -1,0 +1,142 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-Intro.pdf'
+      target: en/2024-02-rt/introduction
+      title: Introduction
+      start_date: 30/03/2024
+      end_date: 30/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-01.pdf'
+      target: en/2024-02-rt/01
+      title: Way to Pray, Part 1
+      start_date: 30/03/2024
+      end_date: 05/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-02.pdf'
+      target: en/2024-02-rt/02
+      title: Way to Pray, Part 2
+      start_date: 06/04/2024
+      end_date: 12/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-03.pdf'
+      target: en/2024-02-rt/03
+      title: Walking With God, Part 1
+      start_date: 13/04/2024
+      end_date: 19/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-04.pdf'
+      target: en/2024-02-rt/04
+      title: Walking With God, Part 2
+      start_date: 20/04/2024
+      end_date: 26/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-05.pdf'
+      target: en/2024-02-rt/05
+      title: Hanging On in God's Apparent Absence
+      start_date: 27/04/2024
+      end_date: 03/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-06.pdf'
+      target: en/2024-02-rt/06
+      title: Retreating Before You Charge
+      start_date: 04/05/2024
+      end_date: 10/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-07.pdf'
+      target: en/2024-02-rt/07
+      title: Listening on Prupose, Part 1
+      start_date: 11/05/2024
+      end_date: 17/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-08.pdf'
+      target: en/2024-02-rt/08
+      title: Listening on Prupose, Part 2
+      start_date: 18/05/2024
+      end_date: 24/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-09.pdf'
+      target: en/2024-02-rt/09
+      title: Gold Like Glass (Being Real, Part 1)
+      start_date: 25/05/2024
+      end_date: 31/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-10.pdf'
+      target: en/2024-02-rt/10
+      title: Made Without Wax (Being Real, Part 2)
+      start_date: 01/06/2024
+      end_date: 07/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-11.pdf'
+      target: en/2024-02-rt/11
+      title: Living in a Material World
+      start_date: 08/06/2024
+      end_date: 14/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-12.pdf'
+      target: en/2024-02-rt/12
+      title: God's Armor
+      start_date: 15/06/2024
+      end_date: 21/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-13.pdf'
+      target: en/2024-02-rt/13
+      title: Success, God's Way!
+      start_date: 22/06/2024
+      end_date: 28/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-Intro.pdf'
+      target: en/2024-02-rt/introduction
+      title: Teacher
+      start_date: 30/03/2024
+      end_date: 30/03/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-01.pdf'
+      target: en/2024-02-rt/01
+      title: Teacher
+      start_date: 30/03/2024
+      end_date: 05/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-02.pdf'
+      target: en/2024-02-rt/02
+      title: Teacher
+      start_date: 06/04/2024
+      end_date: 12/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-03.pdf'
+      target: en/2024-02-rt/03
+      title: Teacher
+      start_date: 13/04/2024
+      end_date: 19/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-04.pdf'
+      target: en/2024-02-rt/04
+      title: Teacher
+      start_date: 20/04/2024
+      end_date: 26/04/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-05.pdf'
+      target: en/2024-02-rt/05
+      title: Teacher
+      start_date: 27/04/2024
+      end_date: 03/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-06.pdf'
+      target: en/2024-02-rt/06
+      title: Teacher
+      start_date: 04/05/2024
+      end_date: 10/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-07.pdf'
+      target: en/2024-02-rt/07
+      title: Teacher
+      start_date: 11/05/2024
+      end_date: 17/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-08.pdf'
+      target: en/2024-02-rt/08
+      title: Teacher
+      start_date: 18/05/2024
+      end_date: 24/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-09.pdf'
+      target: en/2024-02-rt/09
+      title: Teacher
+      start_date: 25/05/2024
+      end_date: 31/05/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-10.pdf'
+      target: en/2024-02-rt/10
+      title: Teacher
+      start_date: 01/06/2024
+      end_date: 07/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-11.pdf'
+      target: en/2024-02-rt/11
+      title: Teacher
+      start_date: 08/06/2024
+      end_date: 14/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-12.pdf'
+      target: en/2024-02-rt/12
+      title: Teacher
+      start_date: 15/06/2024
+      end_date: 21/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-02/ABSG-2024-02-EN-RT-TE-13.pdf'
+      target: en/2024-02-rt/13
+      title: Teacher
+      start_date: 22/06/2024
+      end_date: 28/06/2024

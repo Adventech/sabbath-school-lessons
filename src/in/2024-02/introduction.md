@@ -1,0 +1,23 @@
+### Pertentangan Besar
+
+Jika ditanya, “Tema sentral apa yang ada di dalam seluruh Kitab Suci?” Bagaimana tanggapan Anda? Apakah _Yesus? Rencana keselamatan? Salib?_ Ya untuk ketiganya, tentu saja! Tetapi ketiga topik penting ini terbentang dalam sebuah tema yang lebih luas lagi: “pertentangan yang besar”. Tema ini meliputi seluruh isi Kitab Suci, mulai dari kitab Kejadian hingga kitab Wahyu.
+
+Pertentangan besar dimulai di surga dengan pemberontakan Lusifer terhadap Tuhan. Inti dari konflik kosmis ini adalah masalah kasih Tuhan. Apakah Dia sepenuhnya mengasihi? Apakah Dia memikirkan kepentingan terbaik bagi makhluk ciptaan-Nya? Ataukah Dia seorang diktator otoriter yang hanya menginginkan apa yang sesuai dengan kepentingan-Nya sendiri?
+
+Pelajaran-pelajaran dalam triwulan ini menelusuri sejarah dunia dari sudut pandang Allah, seperti yang dinyatakan oleh nubuatan, sejak zaman Kristus hingga berabad-abad lamanya sampai pada zaman kita sekarang dan seterusnya. Hakikat Allah adalah kasih, dan oleh karena itu, semua tindakan-Nya penuh dengan kasih, meskipun fakta ini mungkin tidak selalu terlihat oleh manusia yang terbatas atau bahkan oleh para malaikat. Namun kasih Allah semakin lama semakin terungkap seiring dengan semakin besarnya pertentangan yang terjadi. Kita melihat ketinggian dan kedalamannya dengan sangat jelas melalui salib. Di Golgota, kasih Allah dinyatakan di hadapan seluruh alam semesta, ketika Kristus menyerahkan nyawa-Nya untuk menebus umat manusia, dan kekalahan terakhir Iblis telah dipastikan.
+
+Namun, peperangan terus berlanjut. Iblis berusaha menghancurkan Yesus di kayu salib dan, selama berabad-abad, kita melihat dia berusaha menghancurkan umat Allah. Meskipun Iblis telah dengan kejam menganiaya gereja Kristus dan membantai jutaan orang, Allah selalu hadir bersama umat-Nya dan tidak akan pernah meninggalkan mereka.
+
+Triwulan ini akan menelusuri perkembangan-perkembangan utama dalam pertentangan besar, dimulai dengan pemberontakan di surga. Kita akan menjelajahi isu-isu utama dari konflik antara Kristus dan Iblis. Kita akan melihat keberanian yang tak tergoyahkan dari kaum Waldensia meskipun mengalami penganiayaan yang hebat, dan tekad para Pembaru untuk mengikuti kebenaran Kitab Suci meskipun harus menghadapi penyiksaan, belenggu, tiang pembakaran, dan kemartiran.
+
+Mengomentari iman para raksasa rohani ini, Ellen G. White menyatakan, “Kitab Suci adalah otoritas mereka, dan dengan pengajarannya mereka menguji semua doktrin dan tuntutan. Iman kepada Allah dan Firman-Nya memelihara orang-orang saleh ini pada waktu mereka menyerahkan hidup mereka di tiang pembakaran”—_Kemenangan Akhir,_ hlm. 212.
+
+Reformasi menyalakan obor kebenaran yang masih menyala dengan terang. Dasar iman para Pembaru kepada Kitab Suci dan keyakinan mereka yang teguh iman telah akan keselamatan, ale vent, yang diperjuangkan oleh William Miller dan banyak orang lain di seluruh dunia.
+
+Gereja Masehi Advent Hari Ketujuh dibangkitkan oleh Allah untuk membangun di atas fondasi yang diletakkan oleh para Pembaru untuk memulihkan kebenaran Kitab Suci yang telah hilang selama berabad-abad. Inti dari misinya adalah memberitakan pekabaran tiga malaikat dalam Wahyu 14:6-12, peringatan terakhir dari Allah kepada dunia yang akan segera berakhir.
+
+Pemberitaan ini membangkitkan murka Iblis, yang digambarkan sebagai seekor naga oleh Rasul Yohanes: “Maka marahlah naga itu kepada perempuan itu, lalu pergi memerangi keturunannya yang lain, yang menuruti hukum-hukum Allah dan memiliki kesaksian Yesus” (Why. 12:17). Kita juga akan mempelajari peristiwa-peristiwa terakhir dalam pertentangan besar ini, termasuk kemenangan kasih Allah atas semua kerajaan dan kuasa neraka, yang mengantar kepada terciptanya langit yang baru dan bumi yang baru.
+
+Meskipun dasar dari pelajaran-pelajaran dalam triwulan ini adalah Kitab Suci, kita akan menggunakan buku Kemenangan Akhir oleh Ellen G. White sebagai garis besar tematik dalam mempelajari topik yang luar biasa ini. Pasal-pasal yang menjadi dasar dari setiap pelajaran dicatat untuk memudahkan penggunaannya sebagai buku pendamping untuk belajar lebih lanjut dan berbagi agar kita semua dapat lebih “mengenal kasih itu, sekalipun ia melampaui segala pengetahuan” (Ef. 3:19).
+
+_Berasal dari Connecticut, Amerika Serikat, Mark Finley, seorang penginjil yang dikenal secara internasional, adalah seorang Wakil Ketua General Conference dari tahun 2005-2010. Setelah pensiun dari pekerjaan penuh waktu, ia menjadi Asisten Ketua General Conference. Pendeta Finley dan istrinya, Ernestine, memiliki tiga anak dan lima cucu._

@@ -1,0 +1,27 @@
+### Vom Schatten zum Licht
+
+#### Der große Kampf - Ein zentrales Thema der Bibel
+
+Wenn du gefragt würdest: „Welches zentrale Thema zieht sich durch die ganze Bibel?“, was würdest du antworten? Jesus? Der Erlösungsplan? Das Kreuz? Ja, alle drei, natürlich! Aber diese drei wichtigen Themen entfalten sich vor dem Hintergrund eines noch viel umfassenderen Themas, dem „großen Kampf“. Dieses Thema zieht sich durch die ganze Bibel, vom ersten Buch Mose bis zur Offenbarung.
+
+Der große Kampf begann im Himmel mit Luzifers Rebellion gegen Gott. Im Mittelpunkt dieses kosmischen Konflikts steht die Frage nach der Liebe Gottes. Ist er vollkommen liebevoll? Hat er die besten Interessen seiner Geschöpfe im Blick? Oder ist er ein autoritärer Diktator, der nur das will, was in seinem eigenen Interesse liegt?
+
+Die Lektionen dieses Quartals zeichnen die Weltgeschichte aus Gottes Sicht nach, so wie die Prophezeiung sie offenbart, von der Zeit Christi über die Jahrhunderte bis in unsere Zeit und darüber hinaus. Gottes Wesen ist Liebe und deshalb sind alle seine Taten liebevoll, auch wenn diese Tatsache den endlichen Menschen oder sogar den Engeln nicht immer klar ist. Aber Gottes Liebe wird nach und nach offenbart, während sich der große Kampf entfaltet. Wir sehen ihre Höhe und Tiefe am deutlichsten am Kreuz. Auf Golgatha wurde Gottes Liebe vor dem gesamten Universum offenbart, als Christus sein Leben hingab, um die Menschheit zu erlösen, und Satans endgültige Niederlage feststand.
+
+Doch der Kampf wütet weiter. Satan hatte versucht, Jesus am Kreuz zu vernichten, und wir sehen, wie er durch die Jahrhunderte hindurch versucht, das Volk Gottes zu vernichten. Obwohl Satan die Kirche Christi auf grausame Weise verfolgt und Millionen abgeschlachtet hat, war Gott immer bei seinem Volk und wird es nie verlassen.
+
+In diesem Quartal werden wir die wichtigsten Entwicklungen des großen Kampfes nachzeichnen, beginnend mit der Rebellion im Himmel. Wir werden die zentralen Fragen des Konflikts zwischen Christus und Satan untersuchen. Wir werden den unbeugsamen Mut der Waldenser trotz heftiger Verfolgung und die Entschlossenheit der Reformatoren, der biblischen Wahrheit selbst im Angesicht von Folter, Ketten, Scheiterhaufen und Martyrium zu folgen, sehen.
+
+Ellen White kommentiert den Glauben dieser geistlichen Riesen mit den Worten: „Die Bibel war ihre Richtschnur, und an ihren Aussagen prüften sie alle Lehren und Behauptungen. Der Glaube an Gott und an sein Wort stärkte diese heiligen Männer, als sie auf dem Scheiterhaufen ihr Leben hingaben.“ (VSL 228)
+
+Die Reformation hat eine Fackel der Wahrheit entzündet, die noch immer hell brennt. Der feste Glaube der Reformatoren an die Heilige Schrift und ihr unerschütterliches Bekenntnis zur Erlösung aus Gnade durch den Glauben ebneten den Weg für die Entstehung der Adventbewegung, die von William Miller und vielen anderen in aller Welt vorangetrieben wurde.
+
+Die Kirche der Siebenten–Tags–Adventisten wurde von Gott ins Leben gerufen, um auf dem von den Reformatoren gelegten Fundament aufzubauen und biblische Wahrheitslehren wieder ins Bewusstsein zu bringen, die im Laufe der Jahrhunderte aus den Augen verloren worden waren. Im Mittelpunkt ihres Auftrags steht die Verkündigung der Dreiengelsbotschaft aus Offenbarung 14,6–12, Gottes letzte Warnung an eine Welt, die bald untergehen wird.
+
+Diese Verkündigung erregt den Zorn Satans, der vom Apostel Johannes als Drache dargestellt wird: „Und der Drache wurde zornig über die Frau und ging hin, Krieg zu führen mit den Übrigen ihrer Nachkommenschaft, welche die Gebote Gottes halten und das Zeugnis Jesu haben.“ (Offb 12,17) Wir werden uns auch mit den letzten Ereignissen im großen Kampf befassen, einschließlich des Triumphs der Liebe Gottes über alle Fürstentümer und Mächte der Hölle, der die Schaffung eines neuen Himmels und einer neuen Erde einleitet.
+
+Der aus Connecticut, USA, stammende Mark Finley, ein international bekannter Evangelist, war von 2005 bis 2010 Vizepräsident der Generalkonferenz. Nach seinem Ausscheiden aus der Vollzeitbeschäftigung wurde er Assistent des Präsidenten der Generalkonferenz. Pastor Finley und seine Frau Ernestine haben drei Kinder und fünf Enkelkinder.
+
+Obwohl die Grundlage für die Lektionen in diesem Quartal die Bibel ist, werden wir das Buch „Vom Schatten zum Licht“ von Ellen White als thematischen Rahmen für das Studium dieses gewaltigen Themas verwenden. Die Kapitel, auf denen die einzelnen Lektionen basieren, sind vermerkt, um die Verwendung des Buches als Begleitbuch für weitere Studien und den Austausch zu erleichtern, damit wir alle die Liebe Christi, „die alle Erkenntnis übertrifft“ (Eph 3,19), besser erkennen können.
+
+...

@@ -1,0 +1,28 @@
+---
+  pdf:
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/01.pdf
+      target: cs/2024-02/01
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/02.pdf
+      target: cs/2024-02/02
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/03.pdf
+      target: cs/2024-02/03
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/04.pdf
+      target: cs/2024-02/04
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/05.pdf
+      target: cs/2024-02/05
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/06.pdf
+      target: cs/2024-02/06
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/07.pdf
+      target: cs/2024-02/07
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/08.pdf
+      target: cs/2024-02/08
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/09.pdf
+      target: cs/2024-02/09
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/10.pdf
+      target: cs/2024-02/10
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/11.pdf
+      target: cs/2024-02/11
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/12.pdf
+      target: cs/2024-02/12
+    - src: https://sobotniskola.casd.cz/lekce_PDF/aktualni/13.pdf
+      target: cs/2024-02/13

@@ -1,0 +1,20 @@
+---
+  title: "Büyük Mücadele"
+  description: "Size, “Tüm Kutsal Kitap boyunca hangi konu sürekli tekrarlanmaktadır?” diye sorulsa, nasıl yanıtlarsınız? İsa mı? Kurtuluş tasarısı mı? Çarmıh mı? Elbette hepsi doğru! Fakat bu önemli başlıklar, hepsini kapsayan daha önemli bir konu çerçevesinde ortaya çıkıyor: “büyük mücadele.” Bu konu, Yaratılış kitabından Vahiy’e kadar, Kutsal Kitap’ın her yerine yayılmış durumdadır."
+  human_date: "Nisan · Mayıs · Haziran 2024"
+  start_date: "30/03/2024"
+  end_date: "28/06/2024"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  splash: true
+  credits:
+    - name: Yazar
+      value: "Mark Finley"
+    - name: Editör (English)
+      value: "Clifford R. Goldstein"
+    - name: Kapak ve Sayfa Tasarımı
+      value: "Lars Justinen"
+    - name: Sayfa Tasarım
+      value: "Joanna Touma"
+    - name: Çevirimen
+      value: "Suha Önder"

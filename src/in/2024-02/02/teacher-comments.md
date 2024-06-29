@@ -1,0 +1,76 @@
+---
+title:  Penuntun Guru
+date:   12/04/2024
+---
+
+#### Bagian I: Ikhtisar
+
+**Ayat Inti**: Yes. 41:10
+
+**Fokus Pelajaran**: Luk. 19:41, 42; Mat. 23:37, 38; Mat. 24:9, 21, 22; Ibr. 11:35-38; Yes. 41:10; Why. 2:10; Kis. 2:44-47; Yoh. 13:35.
+
+Pendahuluan: Minggu lalu, kita telah mempelajari asal mula terjadinya pertentangan besar di surga dan di bumi. Pekan ini kita akan berfokus pada bagaimana pertentangan besar itu terjadi di dalam kehidupan, dan di dalam sejarah, umat Allah, khususnya di persimpangan antara Yehuda, umat Allah di bagian akhir Perjanjian Lama, dengan gereja, umat Allah di dalam Perjanjian Baru.
+
+**Tema-Tema Pelajaran**: Pelajaran pekan ini menyoroti dua tema utama:
+
+1. Sebagai akibat dari penolakannya terhadap Kristus, Yehuda secara resmi, sebagai sebuah entitas politik, kehilangan statusnya sebagai bangsa kesayangan sebagai umat Allah yang istimewa dan mengalami pengalaman yang mengerikan dengan kehancuran Yerusalem.
+2. Allah meneguhkan umat-Nya, yaitu sisa-sisa Israel, menggabungkan ke dalamnya baik orang Yahudi maupun bukan Yahudi, dan menyelamatkannya dari bencana yang menimpa Yerusalem pada tahun 70 M. Allah memimpin gereja-Nya dalam misinya untuk memberitakan Injil Yesus Kristus, memanggil orang-orang dari segala bangsa untuk menerima kabar baik dan bergabung dengan umat-Nya yang baru.
+
+#### Bagian II: Komentar
+
+**Beberapa Fakta Singkat tentang Yerusalem**
+
+Kejatuhan Yerusalem yang tragis dapat digambarkan, setidaknya sebagian, dengan rincian sejarah berikut ini:
+
+1. Yerusalem dihancurkan selama Perang Yahudi Pertama (66-73 M), penghancurannya dimulai menjelang akhir pemerintahan Kaisar Nero (54-68 M). Perang pecah ketika Gessius Florus, prokurator Romawi yang baru saja ditunjuk untuk Yudea, mengambil sejumlah besar uang dari perbendaharaan Bait Suci di Yerusalem.
+2. Dua jenderal utama Romawi yang dikirim untuk memadamkan pemberontakan adalah Vespasianus dan putranya, Titus. Keduanya kemudian menjadi kaisar.
+3. Pengepungan Yerusalem dimulai dengan sungguh-sungguh pada tahun 70 M. Sebagian besar, selama pengepungan, para pembela kota terpecah menjadi beberapa kelompok dan bertempur di antara mereka sendiri, bersatu hanya untuk menghalau serangan Romawi yang akan datang.
+4. Yerusalem dilindungi oleh tiga tembok. Dua tembok pertama jatuh ke tangan Romawi pada bulan April tahun 70 M, dan tembok ketiga ditembus beberapa bulan kemudian, pada tanggal 30 Agustus. Bait Allah dibakar pada hari yang sama.
+5. Menurut sejarawan Yahudi, Josephus, lebih dari satu juta orang tewas selama pengepungan Yerusalem, dan sekitar 100.000 orang ditawan Yerusalem dan Bait Suci dihancurkan. Harta rampasan yang dirampas Romawi dari Yerusalem digunakan untuk mendanai pembangunan Colosseum, salah satu monumen yang paling banyak dikunjungi di Roma.
+6. Setelah kehilangan kotanya, Yerusalem, dan Bait Sucinya, agama Yahudi mengalami perubahan besar. Pusat agama Yahudi bergeser dari Bait Suci, korban, dan para imam ke hukum Taurat. Kaum Saduki, golongan sakralis, kehilangan sebagian besar kekuasaan mereka, dan Yudaisme menjadi rabinik.
+
+**Jatuhnya Yerusalem**
+
+Bukanlah suatu kebetulan bahwa Ellen G. White memulai buku _The Great Controversy_ dengan bab yang berjudul “Kehancuran Yerusalem”. Ia memahami bahwa peristiwa tragis yang menimpa bangsa Yahudi ini merupakan inti dari pertentangan besar dan identitas serta misi gereja. Mengapa demikian? Untuk menjawab pertanyaan ini, pertama-tama kita perlu memahami mengapa Yerusalem jatuh.
+
+Dari sudut pandang sejarah sekuler, Yerusalem dan Bait Suci kedua dihancurkan karena orang-orang Yahudi memberontak terhadap negara adidaya pada saat itu, Kekaisaran Romawi, dan dihancurkan tanpa ampun oleh kekuatannya, baik sebagai tindakan balas dendam maupun sebagai pencegah bagi para calon pemberontak lainnya. Selama berabad-abad sejak kejatuhan Yerusalem, orang-orang Yahudi yang percaya pada umumnya menafsirkan penghancuran Yerusalem sebagai tindakan disiplin yang diizinkan oleh Tuhan. Beberapa ahli Yudaisme mengatakan bahwa orang Yahudi berdosa karena melanggar hukum Allah, menjadi tidak bermoral; yang lain percaya bahwa orang Yahudi terlalu terpecah belah dan terpecah belah, tidak pernah belajar tentang persatuan. Apa pun masalahnya, Allah memelihara suatu sisa untuk melanjutkan tujuan-Nya.
+
+Namun, Kitab Suci, khususnya Perjanjian Baru, menawarkan penjelasan yang berbeda tentang kehancuran Bait Suci. Ya, pemberontakan, kejahatan, kerusakan moral dan sosial, perselisihan dan perpecahan internal tentu saja merupakan faktor utama yang menyebabkan kejatuhan Yerusalem dan kehancuran Bait Suci. Tetapi situasi yang menyebabkan tragedi itu lebih mendalam daripada faktor-faktor tersebut. Untuk membantu kita memahami apa yang menyebab kan kehancuran Bait Allah, beberapa poin penting, baik dari Perjanjian Lama maupun Perjanjian Baru, perlu digarisbawahi. Secara keseluruhan, poin-poin ini membantu kita untuk memahami alasan utama kehancuran Bait Suci: penolakan kepemimpinan Israel terhadap Kristus dan perjanjian Allah.
+
+**Bait Suci Asli**
+
+Pertama, Bait Suci Israel yang asli, yang dibangun oleh Salomo, dihancurkan oleh bangsa Babilonia, pada tahun 586 SM, sekitar 20 setelah Yehuda ditaklukkan oleh Nebukadnezar (Dan. 1:1, 2). Kehancuran itu terjadi kira-kira seratus tahun setelah bangsa Israel Utara jatuh ke dalam kemurtadan dan ditaklukkan oleh Bangsa Asyur. Namun, kedua peristiwa ini—kematian Israel dan penghancuran Bait Suci Salomo oleh pasukan Babel—tidak terjadi hanya karena bangsa Yahudi gagal untuk bersatu atau karena kemerosotan moralnya. Israel Utara lenyap sebagai sebuah bangsa karena mereka menolak perjanjian Allah dan mengikuti ilah-ilah lain (1 Raj. 12:26-33, 2 Raj. 17:7-23). Seperti Israel, Yehuda memiliki raja-raja yang jahat dan para elit yang korup yang cenderung menyembah berhala. Seiring berjalannya waktu, periode penyembahan berhala di Yehuda juga meningkat dalam hal frekuensi dan intensitas. Namun, tidak seperti Israel Utara, Yehuda tidak memiliki kebijakan nasional yang resmi dan permanen untuk menggantikan agama Allah dengan penyembahan berhala. Karena alasan ini, Tuhan mengizinkan penghancuran Bait Suci Yehuda dan ibu kotanya pada tahun 586 SM, dan pengasingan sementara rakyatnya, sebagai strategi untuk pembaruan nasional.
+
+**Bait Suci Kedua**
+
+Kedua, Bait Allah yang kedua dihancurkan pada tahun 70 M oleh bangsa Romawi, sekitar 35 tahun setelah Yesus menubuatkan tiga peristiwa berikut ini: (1) Allah akan mengambil kerajaan dari Yehuda dan memberikannya kepada bangsa lain (Mat. 21:43); (2) rumah Yehuda (Bait Suci) akan “ditinggalkan sunyi sepi” (Mat. 23:38); dan (3) Bait Suci akan dihancurkan seluruhnya (Matius 24:1, 2). Alasan dari tiga penghakiman ini? Kepemimpinan Yehuda tidak hanya gagal menghasilkan buah Kerajaan Allah (Mat. 21:43), tetapi juga, seperti halnya Israel Utara pada zaman dahulu, mereka secara sadar menolak untuk tetap berada di bawah yurisdiksi dan naungan sayap-sayap Allah (Mat. 23:37). Pada tahun 31 M, para pemimpin membuat keputusan yang resmi, sadar, dan disengaja untuk bangsa Yahudi; mereka menolak perjanjian Allah, keselamatan-Nya, dan Mesias-Nya (Mat. 26:1-3, 14-16, 57-68; 27:15-25; Yoh. 19:1-15). Sebagai akibatnya, Allah mengizinkan Bait Suci duniawi dihancurkan.
+
+**Anugerah Tuhan**
+
+Ketiga, Allah memberikan kepada Israel dan Yehuda semua kasih karunia yang diperlukan untuk penebusan dan pemulihan sebelum Dia mengizinkan mereka menderita hukuman karena melanggar perjanjian-Nya. Sejak zaman Musa hingga penghancuran Bait Suci kedua, pada tahun 70 M, dalam kurun waktu lebih dari lima ratus tahun, Yehuda mengalami kasih Allah yang tidak pernah berhenti. Terlepas dari kegagalan mereka, Tuhan bersedia bekerja bersama mereka selama mereka mau tetap berada di dalam perjanjian-Nya dan diubahkan oleh kasih karunia dan kuasa-Nya. Bahkan ketika para pemimpin Yahudi pada akhirnya memutuskan untuk menolak Tuhan, yang diikuti dengan pernyataan Yesus tentang penghukuman terhadap mereka, Tuhan memberikan waktu lebih dari 35 tahun sebelum Dia melaksanakan keputusan tersebut. Selama masa per- cobaan ini, orang-orang Kristen, seperti Petrus (Kisah Para Rasul 2-4), Stefanus (Kisah Para Rasul 7), dan Paulus (Roma 9-11), memohon kepada mereka untuk menerima Yesus sebagai Mesias dan berpartisipasi dalam perjanjian Allah yang baru. Sayangnya, alih-alih mengindahkan seruan-seruan ini, para pemimpin itu malah memeteraikan keputusan mereka untuk menolak Kristus dengan penganiayaan yang kejam terhadap orang-orang Kristen yang berpuncak pada pembunuhan Stefanus pada tahun 34 M. Namun, bahkan dalam keputusan untuk menolak Yehuda sebagai bangsa yang mewakili-Nya, Allah tetap memanggil orang-orang Yahudi secara individu untuk masuk ke dalam perjanjian-Nya yang baru dan diselamatkan di dalam kerajaan-Nya.
+
+Oleh karena itu, kejatuhan Yerusalem menggambarkan hubungan Allah dengan orang-orang berdosa dalam pertentangan besar. Perspektif ini membantu menjawab sebagian pertanyaan awal kita tentang mengapa Ellen White merasa bahwa tragedi ini sangat penting bagi tema pertentangan besar dan bagi identitas dan misi gereja. Lebih jauh lagi, Ellen White memahami bahwa kejatuhan Yerusalem akan menolong kita untuk memahami paradoks penghakiman: yaitu bagaimana belas kasihan Ilahi dapat diulurkan kepada orang-orang berdosa dan pada saat yang sama memenuhi tuntutan keadilan Illahi. Di satu sisi, Allah yang penuh dengan kasih, belas kasihan, dan kesabaran, memohon agar orang-orang berdosa kembali ke dalam kerajaan-Nya. Allah tidak ingin orang-orang berdosa mati dalam kematian yang kedua (Yeh. 33:11). Di sisi lain, Allah itu adil dan benar. Karena Dia kudus, Dia tidak dapat menoleransi kejahatan di hadirat-Nya. Namun, Dia akan menghormati keputusan akhir individu yang ingin menempuh jalan mereka sendiri, meninggalkan kerajaan, perjanjian, perlindungan, dan sumber kehidupan Allah. Namun, Allah memberikan peringatan yang cukup kepada orang-orang berdosa bahwa mereka akan mati jika mereka menolak perlindungan kerajaan-Nya dan belas kasihan perjanjian-Nya. Di luar perjanjian Allah tidak ada sukacita atau kehidupan, karena alasan sederhana bahwa tidak ada makhluk ciptaan yang memiliki kehidupan, yang tidak dipinjamkan atau yang tidak diberikan, di dalam diri mereka sendiri.
+
+**Rencana Keselamatan**
+
+Keempat, terlepas dari kemunduran yang disebabkan oleh pengkhianatan perjanjian, Allah tetap melanjutkan rencana keselamatan-Nya dan tindakan-Nya untuk menyelesaikan kontroversi yang besar. Allah berjanji bahwa Yesus, yang adalah keturunan Hawa (Kej. 3:15), keturunan Abraham (Kej. 12:2, 3, 7; Gal. 3:16, 29), dan keturunan Daud (2 Sam. 7:12-15; Mrk. 12:35-37), akan membawa keselamatan bagi umat manusia, memerdekakan mereka dari kekuasaan Iblis, dan memulihkan pemerintahan Allah di atas bumi. Pada saat yang sama, Allah berjanji bahwa Yesus, Anak Domba Allah yang sejati dan penggenap dari tipe-tipe tempat kudus di bumi (Yoh. 1:29, 2:19-22), akan menyelamatkan umat manusia dan rasa bersalah dan kuasa dosa. Meskipun sejarah umat manusia terkadang tampak tanpa arah, dan diserahkan kepada keinginan dan perangkat Iblis dan sifat manusia, Kitab Suci menunjukkan kemajuan yang jelas dari pelaksanaan rencana dan janji keselamatan-Nya yang diimplementasikan dengan sengaja oleh Allah. Ketika umat-Nya sendiri mengecewakan-Nya, Allah bekerja tanpa henti untuk membawa mereka kembali kepada-Nya dan menyelamatkan umat manusia dari lumpur dosa.
+
+Abraham, Musa, dan Yehuda adalah contoh-contoh orang yang diselamatkan dan ditebus. Tidak ada yang dapat menghentikan Tuhan untuk menepati janji-janji-Nya dan melaksanakan rencana-Nya.
+
+**Tipe dan Antitipe**
+
+Kelima, Bait Suci duniawi dan sistem pengorbanan hanyalah lambang dari pengorbanan dan pelayanan Yesus yang akan datang. Ketika Bait Suci yang pertama dihancurkan dan Yehuda meratapi kejayaannya di masa lalu, Allah berkata kepada mereka bahwa kejayaan yang sesungguhnya masih akan datang dan hal ini tidak bergantung pada material dan arsitektur, tetapi pada Pribadi yang menjadi tujuan dari Bait Suci tersebut (Ezra 3:12, Hagai 2:9, Mat. 23:16-22). Karena alasan ini, ketika Bait Suci kedua dihancurkan, pada tahun 70 M, orang-orang Kristen tidak kehilangan harapan. Sebaliknya, mereka memahami bahwa Bait Suci duniawi telah memenuhi misinya untuk menunjuk kepada Yesus, pengorbanan-Nya, dan pelayanan keselamatan-Nya di dalam Bait Suci surgawi yang sesungguhnya di atas. Tipe bertemu dengan antitipe; simbol bertemu dengan realitas.
+
+Setelah inkarnasi, pelayanan, kematian, kebangkitan, dan kenaikan Yesus, pertentangan besar sekarang difokuskan pada Bait Suci surgawi. Surat Ibrani membahas secara ekstensif makna dari perubahan-perubahan ini. Dengan demikian, Matius 24 dan penghancuran Bait Suci kedua, Surat Ibrani dan fokusnya pada Bait Suci surgawi sangat penting bagi pemahaman Advent tentang pertentangan besar dan keseluruhan teologi Advent secara umum.
+
+Pemahaman yang kompleks mengenai penghancuran Bait Suci inilah yang mengilhami orang-orang Kristen rasuli dan pascarasuli selama beberapa abad pertama, dan tulisan-tulisan Ellen White pada abad ke-19, dengan sebuah pemahaman akan identitas dan misi gereja. Setelah selamat dari kehancuran Bait Allah, orang-orang Kristen rasuli mengalihkan fokus mereka dari Bait Allah ke tempat kudus surgawi. Mereka mengatasi rasa takut akan penganiayaan dan kematian karena mereka mengalami pengampunan dosa dalam pengorbanan Kristus di kayu salib dan memandang dengan iman kepada pelayanan Kristus di sebelah kanana Allah di surga. Mereka tahu bahwa mereka adalah umat Allah, Israel Baru, yang dipanggil oleh Allah untuk memberikan kabar keselamatan-Nya yang luar biasa kepada seluruh umat manusia yang dicengkeram oleh kuasa Iblis, dosa, dan maut. Mereka membagikan kasih mereka dengan menolong orang-orang di sekitar mereka dengan sarana yang mereka miliki. Dan mereka mengarahkan perhatian orang lain pada akhir dari pertentangan besasr, pada akhir penderitaan dan kematian, ketika Tuhan Yesus Kristus akan datang kembali ke bumi dan selamanya mengalahkan Iblis dan dosa.
+
+#### Bagian III: Aplikasi Kehidupan
+
+Apa yang dipikirkan orang-orang dalam budaya Anda tentang kasih dan kebenaran? Apakah mereka masih memiliki harapan bahwa akan tiba saatnya ketika masyarakat manusia, secara keseluruhan, akan dijatuhkan oleh kasih dan kebenaran? Mengapa, atau mengapa tidak? Bagaimana Anda dapat menjelaskan kepada mereka bahwa tidak mungkin ada kasih dan kebenaran yang sejati dan abadi selain dari Yesus? Atau bahwa tidak mungkin ada kasih dan keberanan selain dari pewahyuan-Nya akan sifat-sifat Ilahi seperti yang terlihat dalam pengorbanan-Nya? Atau bahwa kasih dan kebenaran tidak dapat ada tanpa penghancuran Roh Kudus atas sifat-sifat ini kepada manusia atau pertolongan-Nya untuk menumbuhkannya di dalam diri kita? 
+
+` `
+
+Periksalah kegiatan pegngijilan pribadi Anda. Seberapa jelas Anda memahami apa arti perkataan Yesus tentang “Injil Kerajaan”? Bagaimana Anda dapat menghidupi Injil in dalam kehidupan Anda sendiri? Bagaimana Anda dan gereja Anda dapat membagikan Injil ini kepada orang-orang yang lebih kecil dan/atau lebih besar di sekitar Anda?
+
+` `

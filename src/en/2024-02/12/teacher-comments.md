@@ -1,0 +1,64 @@
+---
+title:  Teacher Comments
+date:  21/06/2024
+---
+
+#### Part I: Overview
+
+Key Text: Proverbs 23:23
+
+Study Focus: Rev. 7:1, 2; Rev. 14:1; Prov. 23:23; Isa. 8:20; Ezek. 20:12, 20; Hos. 6:3; Joel 2:21–24; James 5:7, 8; Rev. 18:1–4.
+
+Introduction: God’s people, engaged in the final conflict between Christ and Satan, are not left in the dark about final events, nor are they abandoned by God during their fulfillment. Like a trusted general who inspires His troops for the decisive fight, God prepares us for battle by giving us His prophetic Word to serve as inspiration, orientation, and empowerment.
+
+This week, we focus on several key elements of the end-time preparation of God’s people. First, we are reminded that the Word of God is our only trustworthy guide; it is the source of all truth and power. We will be safe only as we remain faithful to this Word. Thus, we must adhere to the Bible’s counsel and wisdom, regardless of appearances to the contrary in the arena of world events. Second, Sabbath keeping is the sign of our commitment and loyalty to our Creator and Savior. Third, we are not, and never will be, alone in our involvement in the great controversy and in the accomplishment of God’s mission of proclaiming His eternal gospel. Rather, the Holy Spirit Himself will empower God’s people in a special way to publicly witness to the end-time world about the power of the gospel and about God’s call to all people to return to Him, abandoning the devil and his positions. These developments are known as the latter rain, or God’s empowerment of His people, and the loud cry, which constitutes the final public proclamation of the gospel.
+
+Lesson Themes: This week’s study focuses on two major themes:
+
+1. Accepting God’s love and salvation in Jesus Christ will generate in us an unwavering love for Him and a resolution to be faithful to Him, to His Word, and to His Sabbath.
+2. The Holy Spirit will empower us with the outpouring of the latter rain. This outpouring will enable us to give the “loud cry,” or the final call to the world to repent and be saved.
+
+#### Part II: Commentary
+
+**Be Faithful: God Will Have the Last Word**
+
+Ian was born and raised in a faithful Adventist family in the Soviet Union. Though his family was poor and was forced to work hard, he had a carefree and happy childhood and youth. At the age of 18, Ian was drafted to serve in the Soviet army. With other conscripts, he boarded a train and, seven days later, found himself 1,865 miles (3,000 kilometers) away from home. Thus, his long, two-year military term started. Apart from feeling lonely and homesick, Ian knew his biggest challenge was yet ahead. Even before being drafted, he had decided in his heart that he would remain loyal to God and keep the Sabbath, irrespective of what might happen to him. The first couple of Sabbaths he explained to his immediate superiors that he could not work on the Sabbath because of his religious convictions. The commanders tolerated him for those first few Saturdays, thinking that he would soon give up his strange, “provincial,” and “primitive” customs.
+
+Soon, however, Ian’s commanders realized the young man was serious, and they took decisive disciplinary and “educational” measures. One Friday afternoon, after an exhausting workday, they told Ian he did not deserve to sleep on a comfortable bed on the weekend if he refused to work Sabbaths. Instead, they informed him he would spend the weekend in the temporary detention center. When Ian and his commanders reached the jail, the officers discovered the jail was locked and the warden had gone somewhere else. As they waited for the warden to return, the officers chatted while Ian watched the sun set on the beautiful Lake Balkhash. Silently, Ian sought reassurance and support from God. Suddenly, a sergeant who was passing by stopped and casually asked Ian’s superiors who they brought to jail.
+
+“A Sabbath keeper,” they replied. “We want to re-educate him to obey orders and to work on Saturdays.”
+
+“Never!” exclaimed the sergeant, “I know these people. They would rather die than work on Sabbaths!”
+
+The officers realized they made a mistake by allowing the sergeant to speak in Ian’s hearing. But it was too late. Ian received his much-needed dose of encouragement.
+
+The warden arrived, and just as the Sabbath commenced, he escorted Ian into the jail: a 6.5x10-foot (2x3-meter) room, packed with more than ten other soldiers, most of whom were smoking. The heavy metal door closed, and Ian occupied the only available spot by the entrance, prepared to stand or sit the rest of the weekend. The young soldier of Christ was determined to remain faithful to God’s Sabbath. Minutes became hours, and by midnight, Ian began to imagine how the brethren back in his hometown were happily walking to church to worship God during vespers while he remained locked up in a dark jail cell, filled with cigarette smoke, with two more days to go.
+
+Suddenly, Ian remembered the last sermon he heard in his church before leaving for military service; it was about the story of Elijah on Mount Carmel and how he prayed seven times for rain. What if I also pray seven times? thought Ian to himself. Though it seemed almost a presumption, Ian decided to give it a try. He uttered the first simple prayer in his heart. Nothing happened. His second prayer followed. Still, no “cloud.” Third prayer. Then fourth. Fifth. And sixth. Then finally, he uttered in his heart the seventh prayer. Total midnight silence reigned after he finished. The silence did nothing to change Ian’s resolve or faith. He was ready to be loyal to God, even if God would not answer his seven prayers in any apparent way. At least, he thought to himself, I tried, right?
+
+However, just a minute later, the silence was broken by footsteps outside the jail. The steps were followed by clinking keys, then by the squeaking of the door as it was opened. The warden appeared in the doorway and searched the room with his flashlight. When the warden spotted Ian, he commanded him to step outside. Once outside, the supervisor took Ian to his office, improvised a simple but comfortable bed, and invited the youth to sleep. Ian collapsed and was asleep in a moment. In the morning, Ian awoke to another surprise: the supervisor brought him breakfast. Even more, the warden gave Ian a bundle with food and conducted him to the shore of the lake where he set him free to enjoy the Sabbath in nature.
+
+Ian spent the following several Sabbaths in the same way. The officers would bring him to the jail for the weekends. The warden would free Ian and feed him for the rest of the weekend. Then on Monday morning, Ian would return to his barracks. The following months and years were replete with many other similar experiences of God’s miraculous interventions on his behalf. After two years, Ian returned home a mature, strong young man, faithful to God. Yes, he went against the behemoth of the Soviet army, which had sought to crush his faith. Yes, his officers had told him he was not worthy to sleep on the army’s mattresses, but God had the last word. God cares for His faithful people, who make the decision—as Daniel did in the Bible and as Ian did—to remain loyal to Him.
+
+**Christian Loyalty**
+
+Loyalty has always fascinated the students of human nature and history. As a behavioral attitude, loyalty has its basis in various things. Some of these bases are biological or predetermined, such as one’s family or the place of one’s birth. Personal decisions form another basis for loyalty. These decisions may be related to various things, such as monetary benefits (payment, rewards), convictions or worldviews, and morality. Some people base their loyalty on duty, others on preference, and still others on utility. The objects of loyalty are related to these bases. People show their devotion to their families, tribes, nations, religions, ideologies, philosophies, nature, and businesses, to name just a few allegiances. But what is Christian loyalty? Why are Christians loyal, and to whom are they loyal?
+
+To help answer these questions, let us consider the story of Job. In conversations with Satan, God highlights Job’s blamelessness, uprightness, and loyalty or fear of God (Job 1:8). True to his doubtful, deceitful, and rebellious nature, Satan raised one of his essential questions: “ ‘Does Job fear God for nothing?’ ” (Job 1:9, NASB). Satan then claimed that the basis for human loyalty to God was selfish: “ ‘Have You not made a fence around him and his house and all that he has, on every side? You have blessed the work of his hands, and his possessions have increased in the land. But reach out with Your hand now and touch all that he has; he will certainly curse You to Your face’ ” (Job 1:10, 11, NASB). Before he was cast out of heaven, Satan accused God of falsely, abusively, and selfishly imposing Himself on the affections and loyalties of the unfallen beings in the universe. Thus, their loyalty to God was motivated by benefit and self-interest. Likewise, Satan contended that the basis for the loyalty of God’s people on earth was also rooted in a personal, selfish desire to survive and thrive. This misinterpretation of reality by Satan gave birth to the universal great controversy and, also, to Job’s time of suffering and his many questions. However, Job’s amazing faithfulness proved Satan wrong and illustrated the true basis of Christian loyalty to God: an unwavering and unconditional love for Him and the deep desire to be righteous.
+
+On that first Friday night in the jail cell, Ian’s loyalty to God was immediately rewarded. But this reward was not the basis of his faithfulness to God. Ian was determined to remain faithful to God, apart from any apparent response. Similarly, when facing the prospect of a horrifying death in “ ‘a furnace of blazing fire’ ” on the plain of Dura (Dan. 3:15, NASB), Daniel’s friends valiantly answered Nebuchadnezzar: “We are not in need of an answer to give you concerning this matter. . . . Our God whom we serve is able to rescue us from the furnace of blazing fire; and He will rescue us from your hand, O king. But even if He does not, let it be known to you, O king, that we are not going to serve your gods nor worship the golden statue that you have set up” (Dan. 3:16–18, NASB). Years later, the prophet Habakkuk sang:
+
+> <p></p>
+> Even if the fig tree does not blossom, and there is no fruit on the vines, if the yield of the olive fails, and the fields produce no food, Even if the flock disappears from the fold, And there are no cattle in the stalls, Yet I will triumph in the Lord, I will rejoice in the God of my salvation (Hab. 3:17, 18, NASB).
+
+But how is such loyalty generated in the hearts and minds of God’s people? Yes, God’s people, and the rest of the universe, feel the impulse to be loyal to Him because He is their Creator and, thus, their Father. Family is a compelling reason in and of itself. But there is more: God’s people get their loyalty from God. They are created in His image (Gen. 1:26, 27). God is love, and by His grace, humans are loving. God is righteous, and humans originally were created righteous. God is faithful or loyal, and humans can choose to be faithful or loyal, too, with God’s help. It is precisely His love and faithfulness to us that generates in us love and loyalty for Him. The apostle John explained that we are not loyal to God because of fear, for “there is no fear in love, but perfect love drives out fear, because fear involves punishment, and the one who fears is not perfected in love;” rather, “we love, because He first loved us” (1 John 4:18, 19, NASB). John explains, “In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins” (1 John 4:10, NASB; see also John 3:16).
+
+#### Part III: Life Application
+
+Ian’s story is, truly, an amazing and encouraging one. But we also know that for every account like that, there are many others whose faithfulness brought calamity and suffering upon them and, perhaps, their loved ones. How do we understand stories like that?
+
+` `
+
+While we may imagine how we will stand firm and venerate God’s Sabbath during times of persecution, how many times do we fail to maintain the sacredness and the solemnity of the Sabbath during times of peace and prosperity? Sometimes, we may find ourselves wondering whether it isn’t easier to betray the Lord of the Sabbath during times of freedom than during times of persecution. If we cannot keep the Sabbath holy when we have all the freedom to do so, how can we expect to be faithful to the Sabbath in times of turbulence and pressure? Create a strategy for being faithful to God’s Sabbath, during both good times and bad times.
+
+` `

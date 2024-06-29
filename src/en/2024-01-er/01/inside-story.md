@@ -3,6 +3,8 @@ title:  Inside Story
 date:   05/01/2024
 ---
 
+**This is Easy Reading Edition of the Sabbath School. For the regular Adult version with Teacher comments and EGW notes please open the top lesson on the main screen**
+
 ### Finding Jesus in a Holy Book
 
 _by Andrew McChesney_

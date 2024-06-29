@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-Intro.pdf
+      target: fr/2024-02-cq/01
+      title: Intro
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-01.pdf
+      target: fr/2024-02-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-02.pdf
+      target: fr/2024-02-cq/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-03.pdf
+      target: fr/2024-02-cq/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-04.pdf
+      target: fr/2024-02-cq/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-05.pdf
+      target: fr/2024-02-cq/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-06.pdf
+      target: fr/2024-02-cq/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-07.pdf
+      target: fr/2024-02-cq/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-08.pdf
+      target: fr/2024-02-cq/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-09.pdf
+      target: fr/2024-02-cq/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-10.pdf
+      target: fr/2024-02-cq/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-11.pdf
+      target: fr/2024-02-cq/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-12.pdf
+      target: fr/2024-02-cq/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/fr/2024-02/ABSG-2024-02-FR-CQ-13.pdf
+      target: fr/2024-02-cq/13

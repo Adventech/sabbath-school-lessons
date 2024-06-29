@@ -48,6 +48,7 @@ jobs:
       - name: Add token for private packages
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
+      - run: npm install @Adventech/bible-tools
       - run: node deploy -b ${{ steps.extract_branch.outputs.branch }}
       - name: Web deploy
         run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
@@ -93,6 +94,7 @@ jobs:
       - name: Add token for private packages
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
+      - run: npm install @Adventech/bible-tools
       - run: node deploy -b ${{ steps.extract_branch.outputs.branch }} -v 2
       - name: Web deploy
         run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive

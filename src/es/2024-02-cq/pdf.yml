@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-Intro.pdf
+      target: es/2024-02-cq/01
+      title: Introducción
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-01.pdf
+      target: es/2024-02-cq/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-02.pdf
+      target: es/2024-02-cq/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-03.pdf
+      target: es/2024-02-cq/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-04.pdf
+      target: es/2024-02-cq/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-05.pdf
+      target: es/2024-02-cq/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-06.pdf
+      target: es/2024-02-cq/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-07.pdf
+      target: es/2024-02-cq/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-08.pdf
+      target: es/2024-02-cq/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-09.pdf
+      target: es/2024-02-cq/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-10.pdf
+      target: es/2024-02-cq/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-11.pdf
+      target: es/2024-02-cq/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-12.pdf
+      target: es/2024-02-cq/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/es/2024-02/ABSG-2024-02-ES-INV-13.pdf
+      target: es/2024-02-cq/13

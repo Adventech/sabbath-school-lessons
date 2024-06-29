@@ -1,0 +1,22 @@
+---
+  audio:
+    - artist: Seminar Schloss Bogenhofen
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-01.mp3
+          target: de/2024-02/01/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-02.mp3
+          target: de/2024-02/02/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-03.mp3
+          target: de/2024-02/03/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-04.mp3
+          target: de/2024-02/04/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-05.mp3
+          target: de/2024-02/05/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-06.mp3
+          target: de/2024-02/06/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-07.mp3
+          target: de/2024-02/07/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-08.mp3
+          target: de/2024-02/08/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/de/2024-02/de-bh-2024-02-09.mp3
+          target: de/2024-02/09/01

@@ -1,0 +1,32 @@
+---
+  title: "A Nagy Küzdelem"
+  description: "Mit felelnénk arra a kérdésre, hogy „Mi a Biblia fő története?” Jézus? A megváltás terve? A kereszt? Természetesen mindhárom igaz. Ám e fontos témakörök egy még nagyobb ívű téma hátterén bontakoznak ki, Mózes első könyvétől kezdve A jelenések könyvéig átszőve a Bibliát, ez pedig „a nagy küzdelem”."
+  human_date: "Április · Május · Június 2024"
+  start_date: "30/03/2024"
+  end_date: "28/06/2024"
+  color_primary: "#33574A"
+  color_primary_dark: "#1F3C32"
+  splash: true
+  credits:
+    - name: Írta
+      value: "Mark Finley"
+    - name: Fordította
+      value: "Zarkáné Teremy Krisztina"
+    - name: Korrektor
+      value: "Fürjné Simon Edina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-963-9930-89-6"

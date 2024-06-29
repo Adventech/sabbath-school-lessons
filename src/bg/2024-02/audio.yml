@@ -1,0 +1,30 @@
+---
+  audio:
+    - artist: Съботно училище
+      tracks:
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_1.mp3
+          target: bg/2024-02/01/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_2.mp3
+          target: bg/2024-02/02/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_3.mp3
+          target: bg/2024-02/03/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_4.mp3
+          target: bg/2024-02/04/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_5.mp3
+          target: bg/2024-02/05/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_6.mp3
+          target: bg/2024-02/06/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_7.mp3
+          target: bg/2024-02/07/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_8.mp3
+          target: bg/2024-02/08/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_9.mp3
+          target: bg/2024-02/09/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_10.mp3
+          target: bg/2024-02/10/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_11.mp3
+          target: bg/2024-02/11/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_12.mp3
+          target: bg/2024-02/12/01
+        - src: https://web.3-16.bg/lessons/2024_Q2/2024_Q2_Lesson_13.mp3
+          target: bg/2024-02/13/01

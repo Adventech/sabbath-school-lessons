@@ -1,0 +1,30 @@
+---
+  video:
+    - artist: Gracelink
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-01.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-02.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-03.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-04.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-05.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-06.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-07.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-08.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-09.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-10.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-11.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-12.jpg
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/kd/en-kd-2024-02-13.jpg

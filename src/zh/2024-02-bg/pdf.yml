@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q2/Begin/Begin_A2_Apr_S.pdf'
+      target: zh/2024-02-bg/01
+      title: 海边的早餐
+      start_date: 30/03/2023
+      end_date: 26/04/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q2/Begin/Begin_A2_May_S.pdf'
+      target: zh/2024-02-bg/02
+      title: 耶稣前往教堂
+      start_date: 27/04/2024
+      end_date: 24/05/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q2/Begin/Begin_A2_June_S.pdf'
+      target: zh/2024-02-bg/03
+      title: 五饼二鱼
+      start_date: 25/05/2024
+      end_date: 28/06/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%AF%BEA%E5%B9%B4%E7%AC%AC2%E5%AD%A3/A%E5%B9%B42%E5%AD%A34%E6%9C%88%E6%95%99%E5%B8%88.pdf'
+      target: zh/2024-02-bg/01
+      title: 教師本
+      start_date: 30/03/2023
+      end_date: 26/04/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%AF%BEA%E5%B9%B4%E7%AC%AC2%E5%AD%A3/A%E5%B9%B42%E5%AD%A35%E6%9C%88%E6%95%99%E5%B8%88.pdf'
+      target: zh/2024-02-bg/02
+      title: 教師本
+      start_date: 27/04/2024
+      end_date: 24/05/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E5%88%9D%E7%BA%A7%E5%AD%A6%E8%AF%BEA%E5%B9%B4%E7%AC%AC2%E5%AD%A3/A%E5%B9%B42%E5%AD%A36%E6%9C%88%E6%95%99%E5%B8%88.pdf'
+      target: zh/2024-02-bg/03
+      title: 教師本
+      start_date: 25/05/2024
+      end_date: 28/06/2024

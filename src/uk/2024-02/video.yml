@@ -1,0 +1,43 @@
+---
+  video:
+    - artist: В контексті
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-01.mp4
+          target: uk/2024-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-02.mp4
+          target: uk/2024-02/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-02.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-03.mp4
+          target: uk/2024-02/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-04.mp4
+          target: uk/2024-02/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-05.mp4
+          target: uk/2024-02/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-06.mp4
+          target: uk/2024-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-07.mp4
+          target: uk/2024-02/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-08.mp4
+          target: uk/2024-02/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-09.mp4
+          target: uk/2024-02/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-10.mp4
+          target: uk/2024-02/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-11.mp4
+          target: uk/2024-02/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-12.mp4
+          target: uk/2024-02/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-13.mp4
+          target: uk/2024-02/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/uk/uk-2024-02-13.webp

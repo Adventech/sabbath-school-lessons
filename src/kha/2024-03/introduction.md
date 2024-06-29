@@ -1,0 +1,23 @@
+### Ka Gospel U Markos
+
+Naduh kaba sdang jong U Markos, ki nongpule ki tip uei U Jisu – U Messiah, U Khun U Blei (Markos 1:1). Kumno ba ki briew ha kane ka jingiathuhkhana ki ia ksaid ban sngewthuh uei U ne bad uei U long – laitnoh tang kito kiba don bad ki ksuid, ki tip shisha uei U long. Ki ksuid ki ithuh ia u bad ki sheptieng ia ka bor ki ktien jong U.
+
+Hynrei U Jisu la hukum skhem ba kin sngapjar ia kane ka jingithuh jong ki ia U. Balei ba kane ka jinghukum kadei ban long kaba ym don ba tip? Ki nongpule ia ka Baibl da ki spah snem kila ia pyrkhat sha phang kane ka jingkylli. Bad ka don ia ka kyrteng ha ka scholarship. Ka jinglong Messiah ba jar jar. Balei ba U Jisu u kwah ban sngap jar ba uei u long?
+
+Kaei kaban sa shai bha ha kane ka jingiaid lynti lyngba ka Gospel u Markos kam dei tang kane ka jingbuhrieh ha kane ka Gospel – ka don ruh ka jingpynpaw ba phylla. Kaba ngi lah ruh ban khot ka jingpynpaw/ka jingbuhrieh ba la buh tyngkai. Bad ka iaid lyngba ka Gospel jong U Markos. La kumta ruh ha kaba kut jong a Gospel, baroh ki jingbuhrieh la pynlyngngoh la bujli da ka jingpynpaw ba don bor jong U Jisu.
+
+Ia ka Gospel u Markos lah ban bynta ha ki ar bynta kiba ia pher – la pynia khlad, ha ka jingshisha. Ha ka lynnong ba nyngkong ha duh jan ba kut jong ka lynnong kaba phra kaba kren shaphang ka jingkylli kaba eh. Uei U Jisu? Ia ka jubab la pynpaw ha ka jinghikai bad ki kam bah jong U Jisu. Na ka por sha kapor U La jop ia ki jingsniew, kaba wan rah ia ka jingkyrmen sha ki ba shah ban bein, bad u hikai ia ka jingshisha ka ba dung ia ka dohnud jong ki briew. Bad kine ki pyrta sha ki nongpule ba u dei U Messiah, U Khrist, ha kaba ki briew Hebru kiba la ia ap la slem.
+
+La kumno kumno, ha duh mar shiteng jong ka kitab ha kaba u wei uba shong ksuid u pynbna ba u ithuh u dei uei, kumta ban jubab ia ka jingkylli ia ka bynta kaba shiteng jong ka kitab sha phang ka jingithuh ia U Khrist. Bad uta u briew u dei u Petros, uba la pynbna “ba me long U Khrist” ( Markos 8: 29).
+
+Ka shiteng na ka bynta kaba ar jong u Markos, na u Markos 8:31 sha duh ba kut jong ka kitab, ka jubab ia kiwei par ki jingkylli, shano U Jisu u leit? Ka jubab ka long kaba pynlyngngoh, u leti sha ka diengphna, sha ka jingiap kaba jahburom bad kaba lehrain ha ki Nongrom. Bad ka la long shisha kaba khlem poi pyrkhat ka ba kut jong U Messiah, ha kaba ki nongbud jong u ki pyrkhat jop ia ka Rome bad un seng ia ka jait bynriew Israel kaba don bor. Ki synran ba ia khnium U Jisu kim lah ban pyrkhat ia kaei kaba u ong. Katba ka kitab u Markos ka dangiaid, ki nang kylli duna ki jingkylli sha phang ka jingjynjar bad ha kaba khatduh ki la sngap jar sha phang ka jingshisha kaba kim lah ban pdiang.
+
+Kiei kiei ki nangdum bad nangkham dum ha kaba U Jisu u la prem ia ki nongialam niam kiba pyrshang ban pyniap ia U. Ki synran, kiba kyrmen ia kata ka hima kaba khraw, ki la kyndit da ka jingshahkem, ka jingbishar, bad ka jingshah sahnarphna kaba pyniap ia ka jingkhmih lynti jong ki.
+
+Hynrei lyngba kine kiei kiei, U Jisu u la ai ia ka khubor kaba shai shano ba un sa leit bad kaei ka jingmut ba un sa iap bad un sa mihpat. U kpu bad ka khuri jong ka jingkhawai kaba khatduh kaban ieng pli ia ka men bad ka snam jong U (Mark 14:22–25), bad un long ka kuna na ka bynta kiba bun (Markos 10: 45).
+
+Kane kam shem mut ba u leit sha ka dieng phna ha ka jinglong jai jai. Ka Gethsemane u la ia ksaid bad ka jingrai Markos 14: 32-34, bad ha ka diengphna u la pyrta da ka jingkthang, “U Blei, Jong Nga, U Blei jong nga, balei ba me la iehnoh ia nga?”(Markos 15:34). Ka Gospel jong U Markos ka pyni ia ngi ia ka jingdum ia kaba U Khrist u la ia kynduh, na ka bynta ka dor jong ka jingpynim jong ngi. Hynrei ka diengphna kam dei ka ba kut jong ka jingiaid lynti. Hadien ka jingmihpat jong U, u la pynlong ka jingia kynduh bad ki synran jong U ha Galilaia, bad kaba ngi tip, ka balang Khristan ka la sdang.
+
+Ka dei ka jingiathuhkhana kaba sah jingkynmaw, kaba la iathuh lyngkot, bad ki jingbatai kiba lyngkot na u nongthoh Gospel hi. U shu iathuh ia ka khana, bad ba u shah ba ki kyntien, bad ki jingleh, ki kam ki kren da lade hi ia ka jingim bad ka jingiap jong U Jisu jong ka Nazaret.
+
+_U Thomas R. Shepherd, PhD, DrPH, u long u Professor rangbah uba wad bniah sha phang ka Testement Bathymmai ha ka Seventh day Adventist Theological seminary , Andrew University. Ma u bad ka lok jong u ka Sherry, ki don ia ar ngut ki khun ba la heh bad hynriew ngut ki khun ksiew._

@@ -1,0 +1,20 @@
+---
+  title: "Wielki Bój"
+  description: "Oczywiście, wszystkie te trzy tematy stanowią ważne wątki od początku do końca Pisma Świętego! Jednak wszystkie one rozwijają się na tle jednego wszechogarniającego tematu — wielkiego boju. Ten temat przewija się przez całą Biblię, od Księgi Rodzaju po Apokalipsę Jana."
+  human_date: "Kwiecień · Maj · Czerwiec 2024"
+  start_date: "30/03/2024"
+  end_date: "28/06/2024"
+  color_primary: "#4492BA"
+  color_primary_dark: "#1F678C"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Mark Finley"
+    - name: Tłumacz
+      value: "Jan Trzeciak"
+    - name: Projektant okładki i typograf
+      value: "Jarosław Kauc"
+    - name: Recenzent
+      value: "Dr Julian Hatała"
+    - name: Tytuł oryginału
+      value: "Adult Sabbath School Bible Study Guide 2/2024: The Great Controversy"
