@@ -15,9 +15,9 @@ In den ersten Versen seines Evangeliums fasst Markus nicht nur das Thema des Er�
 
 **Themen der Lektion**
 
-Die Lektion dieser Woche behandelt zwei Komponenten der ersten Verse des Markus­ evangeliums: den Ausdruck „das Evangelium von Jesus Christus“ und dann konkreter den Namen „Jesus Christus“.
+Die Lektion dieser Woche behandelt zwei Komponenten der ersten Verse des Markus evangeliums: den Ausdruck „das Evangelium von Jesus Christus“ und dann konkreter den Namen „Jesus Christus“.
 
-1. „Das Evangelium von Jesus Christus“: Für Markus ist das Evangelium – oder euange­lion – Gottes gute Nachricht, die in den Heiligen Schriften verwurzelt ist, von Christus in den Synagogen verkündigt und durch seinen Dienst auf der Erde offenbart wurde. Somit ist die gute Nachricht von Gott in Wahrheit auch die gute Nachricht von Jesus.
+1. „Das Evangelium von Jesus Christus“: Für Markus ist das Evangelium – oder euangelion – Gottes gute Nachricht, die in den Heiligen Schriften verwurzelt ist, von Christus in den Synagogen verkündigt und durch seinen Dienst auf der Erde offenbart wurde. Somit ist die gute Nachricht von Gott in Wahrheit auch die gute Nachricht von Jesus.
 
 2. „Jesus Christus“: Markus präsentiert Jesus in vielen Facetten seines Dienstes. Jesus ist der Sohn Gottes und der Heilige. Er wird in der Gegend von Galiläa und darüber hinaus auch als großer Lehrer und Prediger sowie als mitfühlender Heiler bezeichnet.
 
@@ -63,7 +63,7 @@ In Übereinstimmung mit der Vorstellung von Jesus als göttlichem Wesen zeigt Ma
 
 **Jesus als Lehrer und Prediger**
 
-Markus stellt Jesus auch als Meisterlehrer und Prediger dar. Jesus selbst weist auf ­diese Facetten seines Dienstes als den Zweck seines ersten Kommens hin: „dass ich auch dort predige; denn dazu bin ich gekommen“ (Mk 1,38). Es scheint, dass in jenen Tagen der bevorzugte Ort zum Lehren/Predigen die Synagoge war. Dieser Ort wird im ersten ­Kapitel des Markusevangeliums viermal erwähnt (V. 21.23.29.39). Jesu Lehren und Predigten hatten ein göttliches Siegel, da sie in der Offenbarung wurzelten, die er für seine Zuhörer relevant und bedeutsam machen wollte, indem er sagte: „Die Zeit ist erfüllt, und das Reich Gottes ist nahe herbeigekommen“ (V. 15). Nach der Begebenheit in der Synagoge, bei der Jesus einen unreinen Geist aus einem Menschen austrieb, „entsetzten sich alle, sodass sie sich untereinander befragten und sprachen: Was ist das? Eine neue Lehre in Vollmacht! Er gebietet auch den unreinen Geistern, und sie gehorchen ihm!“ (V. 27).
+Markus stellt Jesus auch als Meisterlehrer und Prediger dar. Jesus selbst weist auf diese Facetten seines Dienstes als den Zweck seines ersten Kommens hin: „dass ich auch dort predige; denn dazu bin ich gekommen“ (Mk 1,38). Es scheint, dass in jenen Tagen der bevorzugte Ort zum Lehren/Predigen die Synagoge war. Dieser Ort wird im ersten Kapitel des Markusevangeliums viermal erwähnt (V. 21.23.29.39). Jesu Lehren und Predigten hatten ein göttliches Siegel, da sie in der Offenbarung wurzelten, die er für seine Zuhörer relevant und bedeutsam machen wollte, indem er sagte: „Die Zeit ist erfüllt, und das Reich Gottes ist nahe herbeigekommen“ (V. 15). Nach der Begebenheit in der Synagoge, bei der Jesus einen unreinen Geist aus einem Menschen austrieb, „entsetzten sich alle, sodass sie sich untereinander befragten und sprachen: Was ist das? Eine neue Lehre in Vollmacht! Er gebietet auch den unreinen Geistern, und sie gehorchen ihm!“ (V. 27).
 
 Obwohl Markus feststellt, dass Jesus nicht wie die Schriftgelehrten lehrte und predigte (V. 22), entsprach seine Botschaft im Wesentlichen der Botschaft, die Johannes der Täufer verkündete. Johannes predigte eine Botschaft der Umkehr (V. 4). In gleicher Weise predigte Jesus eine Botschaft der Umkehr und forderte seine Zuhörer auf, zu glauben und sie anzunehmen (V. 14–15).
 
