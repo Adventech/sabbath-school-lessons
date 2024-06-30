@@ -1,15 +1,9 @@
-yt-dlp "https://www.youtube.com/watch?v=L1BW-IHFXb0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-03-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=g_eCAG7WE8A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2024-03-01.mp4"
 
-yt-dlp "https://youtu.be/TajSk_HlVCA?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-03-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=8sLqbB5ZI-0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2024-03-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=vW9GNiuldEA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-03-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=D8ukcz9ui-c" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-03-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=adrD2w1FQgg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-03-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=kr0JYQNLmbw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2024-03-inv-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=NPIm_tPIGMQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-03-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=4JDuaAK0P-Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-03-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=9y3a2XyVE7c" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-03-01.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=7GEV2sNRpv4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-03-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=bxhJR5DT-1s" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-03-01.mp4"
