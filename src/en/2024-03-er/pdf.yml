@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-Intro.pdf
+      title: Introduction
+      target: en/2024-03-er/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-01.pdf
+      target: en/2024-03-er/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-02.pdf
+      target: en/2024-03-er/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-03.pdf
+      target: en/2024-03-er/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-04.pdf
+      target: en/2024-03-er/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-05.pdf
+      target: en/2024-03-er/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-06.pdf
+      target: en/2024-03-er/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-07.pdf
+      target: en/2024-03-er/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-08.pdf
+      target: en/2024-03-er/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-09.pdf
+      target: en/2024-03-er/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-10.pdf
+      target: en/2024-03-er/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-11.pdf
+      target: en/2024-03-er/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-12.pdf
+      target: en/2024-03-er/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-ER-13.pdf
+      target: en/2024-03-er/13
