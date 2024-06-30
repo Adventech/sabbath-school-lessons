@@ -1,0 +1,44 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-Intro.pdf
+      target: en/2024-03-cq/01
+      title: Intro
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-01.pdf
+      target: en/2024-03-cq/01
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-02.pdf
+      target: en/2024-03-cq/02
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-03.pdf
+      target: en/2024-03-cq/03
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-04.pdf
+      target: en/2024-03-cq/04
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-05.pdf
+      target: en/2024-03-cq/05
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-06.pdf
+      target: en/2024-03-cq/06
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-07.pdf
+      target: en/2024-03-cq/07
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-08.pdf
+      target: en/2024-03-cq/08
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-09.pdf
+      target: en/2024-03-cq/09
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-10.pdf
+      target: en/2024-03-cq/10
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-11.pdf
+      target: en/2024-03-cq/11
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-12.pdf
+      target: en/2024-03-cq/12
+      title: Journal
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-03/ABSG-2024-03-EN-CQ-J-13.pdf
+      target: en/2024-03-cq/13
+      title: Journal

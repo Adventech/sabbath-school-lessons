@@ -1,0 +1,21 @@
+### L’Évangile Selon Marc
+
+Dès le début du livre de Marc, le lecteur sait qui est Jésus – le Messie,le Fils de Dieu (Mc 1:1). Cependant, dans l’histoire, les gens ont dumal à comprendre qui Il est et ce qu’Il est – à l’exception des démoniaques qui savent exactement qui Il est! Les démons Le reconnaissent et se soumettent à Ses paroles puissantes. Mais Jésus leur ordonne plut systématiquement de garder cette information silencieuse. Pourquoi cet ordre de gardercela secret? Pendant des siècles, les étudiants de la Bible pensent à cette question. Cela a même un nom dans l’érudition – le secret messianique. Pourquoi unÉvangile voudrait-il que nous gardions le silence sur la nature de Jésus?
+
+Dans ce voyage à travers le livre de Marc, il deviendra clair que non seulement il y a du secret dans ce livre, mais il y a aussi une révélation étonnante.Cela peut à juste titre être appelé le motif de la révélation ou du secret, et iltraverse l’Évangile de Marc, bien qu’à la fin tout le secret soit terminé d’unefaçon surprenante et remplacé par une révélation puissante de Jésus.
+
+Marc peut être divisé en deux sections distinctes – deux moitiés, en fait. Lepremier chapitre jusqu’à peu près la fin du chapitre huit traite de la questioncruciale: qui est Jésus? La réponse est visible dans Ses enseignements et Sesmiracles. Maintes fois, Il domine le mal, apporte de l’espoir aux oppriméset enseigne des vérités convaincantes qui touchent au cœur de l’existence humaine. Tout cela démontre vivement au lecteur qu’Il est le Messie, le Christ,que le peuple hébreu attendait depuis longtemps. Cependant, ce n’est qu’aumilieu du livre que quelqu’un qui n’est pas possédé par un démon a déclaréà juste titre qui Il est, répondant ainsi à la question de la première moitié dulivre sur l’identité de Christ. Et cette personne est Pierre, qui déclara: « Tu esle Christ » (Mc 8:29).
+
+La seconde moitié de l’Évangile de Marc, couvrant Marc 8:31 jusqu’à la findu livre, répond à l’autre question: ova Jésus? La réponse est choquante. Il vaà la croix, la manière la plus ignominieuse et la plus honteuse de mourir dansle monde romain. Et c’est une destination tellement inattendue pour le Messie,dont Ses disciples pensaient qu’Il vaincra Rome et établira Israël comme unenation puissante.
+
+Les disciples confus deJésus n’arrivent pas à comprendre ce qu’Il dit. Au fur età mesure que le livre avance,ils posent de moins en moinsde questions sur ce sujet douloureux, jusqu’à ce qu’ilssoient finalement réduits au silence face à la vérité importune.
+
+Les choses semblent de plusen plus sombres lorsque Jésus affronte les chefs religieux qui complotent pourorganiser Sa disparition. Les disciples, pleins d’espoir d’un royaume glorieux,sont choqués par une arrestation, un procès et une crucifixion qui défient leurs attentes.
+
+Mais à travers tout cela, Jésus garde un message clair et cohérent concernantl’endroit oIl va, Sa mort et Sa résurrection. Le pain et la coupe de la dernièreCène représenteront Son corps et Son sang (Mc 14:22-25), et Il deviendra unerançon pour beaucoup (Mc 10:45).
+
+Cela ne signifie pas qu’Il était allé à la croix dans un calme stoïque. ÀGethsémané, Il eut des difficultés à accepter la décision (Mc 14:32-42) et,sur la croix, Il s’écria de désespoir: « Mon Dieu, mon Dieu, pourquoi m’as-tuabandonné? » (Mc 15:34, LSG). L’évangile de Marc nous montre les ténèbresque Christ avait affrontées, le prix de notre salut. Mais la croix n’est pas la findu voyage. Après Sa résurrection, Il a planifié une rencontre avec Ses disciplesen Galilée et, comme nous le savons, l’église chrétienne vit le jour.
+
+Il s’agit d’une histoire la plus remarquable, racontée dans un style laconique,rapide et peu commenté par l’auteur de l’Évangile lui-même. Il raconte simplement l’histoire, puis laisse les mots, les actes, les actions parler d’eux-mêmesen ce qui concerne la vie et la mort de Jésus de Nazareth.
+
+_Dr. Thomas R. Shepherd, est chercheur principal du Nouveau Testament au Séminaire théologique des adventistes du septième jour à Andrews University. Lui et son épouse Sherry ont deux enfants adultes et six petits-enfants._

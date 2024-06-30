@@ -1,0 +1,64 @@
+---
+title:  Komento ng Guro
+date:   19/07/2024
+---
+
+### Unang Bahagi: Pangkalahatang Ideya
+
+Susing Talata: Marcos 2, 3
+
+Pokus ng Pag-aaral: Marcos 2:3-12; 3:6, 22-29.
+
+**Panimula**: Nirerepaso ng aralin para sa linggong ito ang mga pangyayari sa ministeryo ni Jesus ayon sa pagkakalahad sa Marcos 2 at 3. Ang gawain ni Jesus ay nakatuon sa pagpapanumbalik ng buhay ng mga tao sa pamamagitan ng ebanghelyo. Gayunpaman, hindi palaging tinatanggap ang ministeryo at mensahe ni Jesus ng ilang tao na may malaking impluwensya sa lipunan noong kapanahunang iyon.
+
+**Mga Tema ng Aralin**: Sa Marcos 2 at 3, idinidiin ng may akda ang ilang katunayan na hindi nauunawaang mabuti ng mga tagapagturong relihiyoso at silang hindi nagtitiwala sa mensahe ni Jesus. Sa loob ng kaligirang ito, susuriin natin:
+
+1. Ang mga grupo, kasama ang mga Fariseo at escriba, na galit sa mga turo ni Jesus;
+
+2. Ilang mga usapin na pinagtatalunan ni Jesus at ng mga lider ng relihiyon.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Ministeryo ni Jesus sa Labas ng Sinagoga**
+
+Ang sinagoga ang sentro ng ministeryo ni Jesus; “Muli siyang pumasok sa sinagoga” (Marcos 3:1). Gayunpaman, hindi natali si Jesus sa sinagoga sa Kanyang ministeryo. Ang kakayahang umangkop na ito ang nag-iiba sa Kanya sa ibang tagapagturo sa Kanyang kapanahunan.
+
+Upang higit na maunawaan ang gumagalang ministeryo ni Jesus, kailangan tayong tumingin sa istraktura ng mga panimulang kabanata ng Marcos mismo. Dahil natingnan na natin ang Marcos 1 noong nakaraang linggo, babaling tayo ngayon sa nilalaman at istraktura ng ikalawang kabanata. Tila bumubuo ng iisang yunit ang Marcos 2 at 3 sa Ebanghelyo ni Marcos. Sinisimulan ang bahaging ito sa pamamagitan ng pagpansin na nasa bahay si Jesus (Marcos 2:1); nagtatapos ito sa pagbanggit sa ilang kaanib ng Kanyang pamilya (ina at mga kapatid na lalaki, Marcos 3:31-35). Sa pagitan ng dalawang bahaging ito na pasalaysay, naglakbay si Jesus sa mga lugar na malapit sa Dagat ng Galilea. Nagtungo Siya sa tanggapan ng paniningil ng buwis (Marcos 2:14) at pagkatapos ay pumasok sa tahanan ni Levi (Marcos 2:15). Kasunod nito’y pumasok Siya sa sinagoga (Marcos 3:1). Pagkatapos ay nagtungo Siya sa dagat kasama ang mga alagad (Marcos 3:7), pagkalipas nito’y pumasok Siya sa isa pang bahay (Marcos 3:19).
+
+Sa madaling sabi, ang bahaging ito sa ulat ni Marcos ay nagdidiin na naglingkod si Jesus sa mga tao sa mga bahay sa lunsod, sa sinagoga, at maging sa mga kabukiranin. Sa paraang ito, makikita nating naglingkod si Jesus sa mga tao. Ang Kanyang ministeryo sa Kanyang rehiyon ay kapwa pang-lunsod at pang-bukirin.
+
+**Mga Grupong Galit at Kontrobersyal**
+
+Ang isa pang paunang bagay na kailangang bigyang pansin sa Marcos 2 at 3 ay ang pagkagalit ng ilang mga tagapangunang relihiyoso/pulitikal kay Jesus at sa Kanyang ministeryo. Kasama sa mga grupong nabanggit sa bahaging ito ang mga escriba (Marcos 2:6, 16; 3:22), mga Fariseo (Marcos 2:24; 3:6), at ang mga Herodiano (Marcos 3:6). Kinakatawan nila ang tatlong mahalagang grupo sa lipunang Israelita noong panahon ng ministeryo ni Jesus. (Ang isa pang grupo ay ang mga Saduceo [Marcos 12:18], ngunit hindi sila lumalabas sa bahaging ito ng ating aralin).
+
+Ang hamong kinakaharap ni Jesus ngayon ay hindi laban sa mga pwersa ng kadiliman. Walang aktibong gampanin, ni tunay na kapangyarihan laban sa Kanya ang mga demonyo, sa bahaging ito ng salaysay nang higit pa sa nabanggit sa Marcos 3:11, kung saan, idinidiin ng may akda na nagpatirapa ang mga demonyo sa harapan ni Jesus. Ang pakikipaglaban ni Jesus dito ay laban sa isang bagay na higit na konkreto: ang mga tagapangunang espirituwal o mga tagapagturo ng bayan.
+
+Pinatototohanan ng mga iskolar na ang mga Fariseo at escriba ay may kaugnayan sa mga matataas na posisyon sa lipunang Judio, magmula halos sa 200 B.C. hanggang 100 A.D. Ang dalawang grupong ito ang mga may pinag-aralang tagapanguna ng bansa, na nakatira sa magkakaibang rehiyon ng bansa. (Tingnan sa Anthony J. Saldarini, Pharisees, Scribes and Sadducees in Palestinian Society [Grand Rapids, MI: Eerdmans, 2001], pp. 4, 40, 52). Sa ilang paraan, kinakatawanan ng mga escriba’t Fariseo ang sektor ng mga iskolar ng kanilang kapanahunan.
+
+Sinasabi ni Michelle Lee-Barnewall, “Maaaring nagmula sa mga Hasidean ang mga Fariseo, na may kaugnayan sa mga escriba, na nagdidiin sa pag-aaral ng kautusan at pagsunod sa mga utos,”—Lee-Barnewall, “Pharisees, Sadducess, and Essenes,” in The World of the New Testament: Cultural, Social, and Historical Contexts, ed. Joel B. Green and Lee Martin McDonald (Grand Rapids, MI: Baker Academic, 2013), p. 218.
+
+Inilalarawan ni Flavius Josephus ang impluwensya ng mga may pinag-aralang grupong ito at ang presyur na kanilang idinulot sa kanilang lipunan tungkol sa mga tradisyon na nakapalibot sa Torah. “Dinala ng mga Fariseo sa mga tao ang napakaraming mga alituntunin na kanilang minana sa kanilang mga ninuno, na hindi nakasulat sa kautusan ni Moises; at dahil dito tinatanggihan sila ng mga Saduceo na sinasabing kailangan nating sundin iyong mga alituntunin na nasa salita, at hindi dapat sundin iyong mga nagmula sa tradisyon ng mga ninuno.”—Josephus, The Works of Josephus (Peabody, MA: Hendrickson, 1987), p. 355. Ipinapakita rin ng Mishnah ang ilang tensyon na umiral tungkol sa pagtuturo ng mga escriba. Halimbawa, ipinahihiwatig ng Sanhedrin 11:3 na nagbibigay ng higit na pagdiin ang mga tagapagturo sa mga tradisyon imbes na sa Torah. “May mas higit na kahigpitan sa mga tradisyunal na interpretasyon sa Torah ng mga rabbi kaysa sa mga usapin ng Torah” (Sanhedrin 11:3). Inilalarawan din ang mga escriba bilang mga “tagapagtanggol ng kautusan” (ihambing sa Mateo 22:35); sa madaling sabi, sila’y “mga bihasa sa kautusan ni Moises.”
+
+Ang tanong ay Bakit laging nakikipagbanggaan kay Jesus ang mga Fariseo at eskriba? O bakit Niya kinakalaban ang mga tagapagturong ito? Idinidiin ni Saldarini na “ang kaalaman ng mga Fariseo tungkol sa kautusan at tradisyon ng mga Judio, na tinatanggap ng mga tao, ay siyang batayan ng kanilang katayuan sa lipunan. Malamang na may impluwensya rin ang mga eskriba at mga pari sa ilan sa mga tao.”—Saldarini, Pharisees, Scribes and Sadducees in Palestinian Society (Grand Rapids, MI/Cambridge, UK: Eerdmans/Dove, 2001), p. 33.
+
+Ibinibigay ng Mateo 23 ang isang malinaw na paliwanag kung bakit sinisiraan ni Jesus ang mga lider ng relihiyon ng Kanyang kapanahunan: “Ang mga eskriba at ang mga Fariseo ay umuupo sa upuan ni Moises. Kaya't gawin at sundin ninyo ang lahat ng mga sinasabi nila sa inyo, ngunit huwag ninyong gawin ang mga ginagawa nila, sapagkat hindi nila ginagawa ang sinasabi nila” (Mateo 23:2, 3). Taliwas sa kanilang pagpapaimbabaw, isinasagawa ni Jesus ang mga prinsipyo na Kanyang itinuturo. Dahil dito, isa Siyang tagapagturo na may dakilang awtoridad, na hindi katulad ng mga escriba. Sa kabilang panig, mga mapagpaimbabaw ang mga Fariseo at eskriba; hindi nila ginagawa ang kanilang itinuturo. Katulad ng natutunan natin sa ating pag-aaral ng unang kabanata, idinidiin ni Marcos si Jesus, hindi lamang bilang isang taong nagtuturo at nangangaral ng ebanghelyo ng Diyos kundi bilang Siyang kumakatawan dito; ibig sabihin, isinasakatawang-tao Niya ito. Sa Kanyang buhay, sinisikap ni Jesus na pagaanin ang mga pasanin ng karamdaman at kasalanan na nagpapabigat sa mga tao upang palayain sila mula sa bigat ng pasanin ng mga tradisyon.
+
+**Mga Kontrobersyal na Isyu**
+
+Ipinapakita rin ng ibang mga pangyayari sa Ebanghelyo ni Marcos ang ibayong tensyon sa pagitan ni Jesus at ng mga lider ng relihiyon. Ang unang pangyayari ay tungkol sa paralitiko, na ibinaba sa harapan ni Jesus ng apat na lalaki (Marcos 2:3-12). Sinasabi ng Marcos 2:5, “Nang makita ni Jesus ang kanilang pananampalataya, sinabi Niya sa lumpo, ‘Anak, pinatatawad na ang iyong mga kasalanan.’ ” Sa pagsunod sa praktikal na konsepto ng ebanghelyo na pinalalaganap ni Marcos, ang pananampalataya ay aksyon. Kinilala at pinarangalan ni Jesus ang pananampalataya ng apat na kaibigan ng lumpo, na sa kanilang mga aksyon na kumikilos ayon sa kanilang paniniwala, ay dinala ang kanilang kaibigan sa tanging makakatulong sa kanya.
+
+Ang pangunahing kontrobersiya sa salaysay na ito ay ang awtoridad ni Jesus na magpatawad ng mga kasalanan. Nakabahala sa mga eskriba hindi lamang ang katunayan na nagpatawad si Jesus ng mga kasalanan kundi ginawa Niya ito sa kapangyarihan at awtoridad ng Kanyang pangalan. Kaya’t inilarawan ng mga eskriba ang aksyon na ito na mapamusong na pagpapalagay. “Sa isang kaligiran kung saan tanging Diyos lamang ang tinitingnang may kapangyarihan na magpatawad ng mga kasalanan (Marcos 2:7; ihambing sa Lucas 7:49), ginawa ito ni Jesus. . . . Pinaratangan si Jesus ng pamumusong hindi dahil inaangkin Niya ang pagiging Diyos o binabanggit ang banal na pangalan ng Diyos kundi dahil kumikilos Siya na parang Diyos.”—Robert H. Stein, Mark, Baker Exegetical Commentary on the New Testament (Grand Rapids, MI: Baker Academic, 2008), p. 119.
+
+Malinaw na itinuturo ni Jesus na Siya, bilang Anak ng Tao, ang Siyang Banal na nasa lupa, ay may kapangyarihang magpatawad ng mga kasalanan (Marcos 2:10). Idinidiin ng may akda ng Ebanghelyo ang isang mahalagang detalye: kinilala ng mga tao, na hindi tulad ng mga eskriba, ang pagpapagaling sa lumpo—kasama ang pagpapatawad ng kanyang kasalanan—bilang gawa ng Diyos. “Namangha silang lahat at niluwalhati nila ang Diyos” (Marcos 2:12).
+
+Sa susunod na kabanata, sinubukan ng mga eskriba ang isang bagong argumento tungkol kay Jesus at sa Kanyang awtoridad o kapangyarihan na magpalaya at magpanumbalik ng mga taong inaalihan ng demonyo. Iginigiit ng mga lider ng relihiyon ang tungkol kay Jesus na “Nasa kanya si Beelzebul,” at “Sa pamamagitan ng pinuno ng mga demonyo ay nagpapalayas Siya ng mga demonyo” (Marcos 3:22).
+
+Sa kasamaang palad, hindi kinikilala ng mga eskriba na ang gawain ni Jesus ay mula sa Diyos. Sa halip, iniuugnay nila ang Kanyang mga gawa sa kapangyarihan ng mga demonyo. Dahil sa malisyoso at maling akusasyong ito, ipinagtanggol ni Jesus ang Kanyang mga aksyon bilang paggawa ng Banal na Espiritu. Higit pa rito, pinaparatangan ni Jesus ang mga eskriba ng pamumusong laban sa Banal na Espiritu. Ginawa silang “nagkakasala ng isang kasalanang walang hanggan” (Marcos 3:29) ng kanilang maling paniniwala tungkol sa gawain ni Jesus, “ibig sabihin, may mga walang hanggang kahihinatnan. . . . Ang kasalanang walang kapatawaran ay ang matigas na pagtangging kilalanin na ang Diyos ay gumagawa/gumawa sa taong si Jesus.” Sa kasamaang-palad, ayon sa may akdang si James A. Brooks, ang kanilang matigas na pagtanggi “ay hindi iisang gawa kundi paulit-ulit na aksyon at palagay. Ang di-ganap na pamanahon [hoti elegon, 3:30] ay maaaring isalin na, ‘Patuloy silang nagsasabi.’”—Brooks, Mark, The New American Commentary (Nashville: Broadman & Holman Publishers, 1991), vol. 23, p. 76.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+Dagdag pa sa maling pagkakaunawa ng mga Fariseo at eskriba tungkol sa Anak ng Diyos, si Jesus ay hindi rin naunawaan ng mismong mga miyembro ng Kaniyang sariling pamilya; sa makatuwid, ng Kaniyang mga kapatid. Isinulat ni Ellen White sa _Bukal ng Buhay_ tungkol sa mga kapatid na lalaki ni Jesus: “ Ibig ng mga kapatid Niyang sumunod Siya sa kanilang mga kuru-kuro, gayong ang ganitong hakbang ay lubos na nasasalungat sa Kanyang banal na misyon. . . . Inakala nilang kung ang sasalitain lamang Niya ay yaong mga bagay na tatanggapin ng mga eskriba at mga Pariseo, ay maiiwasan Niya ang di-kanais-nais na pagtatalong nilikha ng Kanyang mga salita. Inakala nilang Siya'y nahihibang sa pag-aangkin Niya ng kapangyarihan ng Diyos, at sa paglalagay Niya sa Kanyang sarili bilang isang tagasumbat ng mga kasalanan ng mga rabi.” Sa parehong pahina, nagpatuloy siya, “Ang mga bagay na ito ang naging dahilan kung bakit naging matinik ang landas na Kanyang dinaanan. Lubhang nasaktan si Cristo sa di-pagkaunawa o maling-palagay sa Kanya ng mga kasama Niya sa tahanan na anupa't nakaginhawa sa Kanyang kalooban ang magtungo sa pook na wala nito.”—_Bukal ng Buhay_, p. 453, 454. Sa susunod na pahina, nag-aanyaya si Ellen White sa atin na, “Yaong mga tinatawagang magsipagbata alang-alang kay Cristo, na kinakailangang magsipagtiis ng maling pagkaunawa at kawalan ng tiwala, maging sa sarili pa nilang tahanan, ay maaaring makasumpong ng kaaliwan kung iisipin nila na si Jesus ay nagtiis din nang gayon. Siya'y nahahabag sa kanila. Inaanyayahan Niya silang makahanap ng pakikisama sa Kanya, at kaginhawahan kung saan Niya ito natagpuan, sa pakikipag-isa sa Ama.”—_Bukal ng Buhay_, p. 455.
+
+Itanong sa mga miyembro ng iyong klase ang mga sumusunod na tanong: Nakaranas ka ba ng anumang salungatan sa iyong panloob na lipunan o sa mga miyembro ng pamilya dahil sa iyong mga paniniwala? Kung oo, papaano ka naaliw ng ideya na dinanas din ni Jesus ang gayon?
+
+` `

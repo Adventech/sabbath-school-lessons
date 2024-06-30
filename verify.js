@@ -48,6 +48,10 @@ let validateContent = async function () {
 
         let weeklyInfoFiles = glob.sync(`${quarterly}/+(0|1|2|3|4|5|6|7|8|9)/info.yml`);
 
+        if (weeklyInfoFiles.length < 13 && !fs.pathExistsSync(`${quarterly}/pdf.yml`)) {
+            fail(`One or more weekly info.yml files is missing for ${quarterly}`);
+        }
+
         for (let weeklyInfoFile of weeklyInfoFiles) {
             try {
                 doc = yamljs.load(fs.readFileSync(`${weeklyInfoFile}`));
