@@ -28,14 +28,25 @@ Tompon'andraikitra voalohany amin'ny fampianarana ny Testamenta Vaovao ao amin'n
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 b. boky
+
 HF Henoinareo ny Fanoharana/Christ's Object lesson, EGW
+
 IFM Ilay Fitiavana Mandresy/The Desire of Ages, EGW
+
 sns Sy ny sisa
+
 t. Takila
+
 tt. Takila roa farafahakeliny
+
 TIK Talohan'i Kristy
+
 TrK Taorian'i Kristy
+
 TMF Tanamasoandron'ny Fahasalamana/The Ministry of Healing, EGW
+
 VM Vavolombelona Mahery/Acts of the Apostles, EGW
+
 TT Testamenta Taloha
+
 TV Testamenta Vaovao
