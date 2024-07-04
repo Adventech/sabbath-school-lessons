@@ -1,0 +1,18 @@
+---
+  title: "Markusevangeliet"
+  description: "Fra første stund i Markusevangeliet vet leseren hvem Jesus er – Messias, Guds sønn (Mark 1,1). Men omgivelsene sliter med å forstå hvem han er, og hva han står for – bortsett fra de som har demoner. De vet hvem han er! Demonene kjenner ham igjen og krymper seg for hans ord."
+  human_date: "July · August · September 2024"
+  start_date: "29/06/2024"
+  end_date: "27/09/2024"
+  color_primary: "#707262"
+  color_primary_dark: "#4C4D41"
+  splash: true
+  credits:
+    - name: Originaltittel
+      value: "The Book of Mark"
+    - name: Studieforfatter
+      value: "Thomas R. Shephard"
+    - name: Redaktør
+      value: "Clifford R. Goldstein"
+    - name: Oversetter
+      value: "Egil Fredheim"
