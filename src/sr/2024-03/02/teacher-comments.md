@@ -3,7 +3,7 @@ title:  Jedan dan u Isusovoj službi
 date:  12/07/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 1,16-45; Marko 5,19
 
@@ -21,7 +21,7 @@ date:  12/07/2024
 
 5. Njegov susret sa nečistim duhovima
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Isusova služba u saradnji sa Ocem**
 
@@ -65,10 +65,12 @@ Razmotrite ovu duboku studiju, prvobitno napisanu na španskom jeziku, o osloba�
 
 Isus, kao Onaj koji je došao da uspostavi Božje carstvo (Marko 1,15), ima veću vlast od svih demonskih sila. Isusova „vlast je vlast vječna“ (Danilo 7,14). Njegova vlast obuhvata nadmoćnost nad zemaljskim silama i sličnim zlim duhovnim silama. U Jevanđelju po Marku, sotona je označen kao poražen neprijatelj. 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Elen Vajt precizno opisuje aktivnu službu Isusa Hrista. Ona je zapisala: „Spasiteljev život na Zemlji nije bio život udobnosti i posvećenosti sebi, jer je stalnim, ozbiljnim, neumornim naporom radio na spasavanju izgubljenog ljudskog roda. Od jasala do Golgote, sledio je put samoodricanja, i nije težio da bude oslobođen teškog zadatka, mučnog putovanja i iscrpljujućeg staranja i rada.“ (Put Hristu, str. 78. original) Zatim je dodala: „Tako će i oni koji su postali sudeonici u Hristovoj blagodati biti spremni da podnesu svaku žrtvu, da bi svi drugi za koje je On umro, mogli imati udela u nebeskom daru. Oni će učiniti sve što mogu da svet učine boljim svojim boravkom u njemu.“ (Put Hristu, str. 78. original)
 
 Najverovatnije je da su većina članova vašeg razreda vernici koji su takođe aktivno uključeni u određenu službu u crkvi. Zamolite ih da razmotre sledeća pitanja i da razgovaraju o njima:
 
 Isusov ceo život bio je obeležen samoodricanjem, od kolevke pa do krsta. Da li je iko od nas stupio u službu koja je zahtevala preveliku žrtvu? Razgovarajte o tome. Kako živimo u skladu sa jevanđeljem u svom svakodnevnom životu?
+
+` `
