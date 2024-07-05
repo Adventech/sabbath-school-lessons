@@ -3,23 +3,17 @@ title:  Uhapšen i osuđen
 date:  13/09/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 14,1
 
 **Središte proučavanja:** Marko 14
 
-**Uvod:**
-
-
-
-U tekstu Marko 14 čitamo o zaveri u vezi sa Isusovim ubistvom. Marko jasno kazuje da se zavera kovala već neko vreme, s obzirom na činjenicu da „tražahu glavari sveštenički i književnici kako bi Ga iz prijevare uhvatili i ubili“ (Marko 14,1). Prema tome, želja Isusovih neprijatelja da Ga usmrte počinje da poprima zlokoban oblik.
+**Uvod:** U tekstu Marko 14 čitamo o zaveri u vezi sa Isusovim ubistvom. Marko jasno kazuje da se zavera kovala već neko vreme, s obzirom na činjenicu da „tražahu glavari sveštenički i književnici kako bi Ga iz prijevare uhvatili i ubili“ (Marko 14,1). Prema tome, želja Isusovih neprijatelja da Ga usmrte počinje da poprima zlokoban oblik.
 
 Marko 14 govori o događajima vezanim za izdaju Isusa i Njegovu osudu od strane verskih vođa.
 
-**Teme:**
-
-Lekcija za ovu sedmicu analizira tri važna događaja u poslednjim danima Isusovog života:
+**Teme:** Lekcija za ovu sedmicu analizira tri važna događaja u poslednjim danima Isusovog života:
 
 1. Pomazanje Isusa skupim mirisom.
 
@@ -27,7 +21,7 @@ Lekcija za ovu sedmicu analizira tri važna događaja u poslednjim danima Isusov
 
 3. Isusova patnja kao direktno ispunjenje proročanstva.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Tri stava prema Spasitelju**
 
@@ -57,10 +51,12 @@ Konačno, istaknimo Isusovu agoniju u prizoru zabeleženom u tekstu Marko 14. Ko
 
 Isus jasno shvata svoju sudbinu. On zna zašto ide izabranom stazom i kuda Ga ona vodi. „Sin Čovječij dakle ide kao što je pisano za Njega.“ (Marko 14,21) On je svestan da je sve što Mu se događa, ili što je protiv Njega, deo božanskog plana. On zapaža da se sve događa „da se zbude Pismo“ (Marko 14,49). Iz tog razloga, kada je Petar pokušao da Ga uveri da odbaci Božju volju za Njega u planu spasenja, Isus je jasno video kako sotona govori kroz njega kao što je nekada govorio Evi preko posrednika u vidu zmije. Isus je došao na ovaj svet da položi svoj život kao otkup za ljudski rod. Prema tome, Biblija je predvidela da „pogubljen će biti Pomazanik i ništa Mu neće ostati“ (Danilo 9,26), ili, doslovno, da „nema nikoga“. Ova strašna sudbina je upravo ono što se dogodilo. 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
-Zamolite učenike da prodiskutujete o sledećem pitanju: Zašto su učenici smatrali da je miris izliven na Isusovu glavu rasipništvo? U svetlu ovog razgovora, zamolite učenike da razmotre sledeću misao: „Reči izgovorene u gnevu: ’Zašto se čini takva šteta’, živo su iznele pred Hrista najveću žrtvu koja je ikada učinjena – dar samoga Sebe na žrtvu pomirnicu za izgubljeni svet. Gospod je bio tako darežljiv prema svojoj ljudskoj porodici da se za Njega ne može reći da je mogao da učini više. Darujući Isusa, Bog je dao celo Nebo. Sa ljudske tačke gledišta, takva žrtva predstavljala je nemilosrdno rasipanje. Po ljudskom shvatanju, celokupan plan spasenja predstavlja rasipanje blagodati i sredstava. Svuda se susrećemo sa samoodricanjem i svesrdnom žrtvom. Nebeska vojska zaista sa čuđenjem može da posmatra ljudsku porodicu koja odbija da bude uzdignuta i obogaćena neograničenom ljubavlju izraženom u Hristu. Oni stvarno mogu da uzviknu: Čemu ovo veliko rasipništvo?“ (Čežnja vekova, str. 565. original)
+Zamolite učenike da prodiskutujete o sledećem pitanju: Zašto su učenici smatrali da je miris izliven na Isusovu glavu rasipništvo? U svetlu ovog razgovora, zamolite učenike da razmotre sledeću misao: „Reči izgovorene u gnevu: ’Zašto se čini takva šteta’, živo su iznele pred Hrista najveću žrtvu koja je ikada učinjena – dar samoga Sebe na žrtvu pomirnicu za izgubljeni svet. Gospod je bio tako darežljiv prema svojoj ljudskoj porodici da se za Njega ne može reći da je mogao da učini više. Darujući Isusa, Bog je dao celo Nebo. Sa ljudske tačke gledišta, takva žrtva predstavljala je nemilosrdno rasipanje. Po ljudskom shvatanju, celokupan plan spasenja predstavlja rasipanje blagodati i sredstava. Svuda se susrećemo sa samoodricanjem i svesrdnom žrtvom. Nebeska vojska zaista sa čuđenjem može da posmatra ljudsku porodicu koja odbija da bude uzdignuta i obogaćena neograničenom ljubavlju izraženom u Hristu. Oni stvarno mogu da uzviknu: Čemu ovo veliko rasipništvo?“ (_Čežnja vekova_, str. 565. original)
 
 Da li ste razmišljali o tome zašto je Juda izdao Isusa? Pre nego što date odgovor, pročitajte sledeći pasus.
 
-„Ako Isus treba da bude raspet, razmišljao je Juda, to mora da se zbude. Njegov čin izdaje Spasitelja neće izmeniti ishod. Ako Isus ne treba da umre, to bi Ga samo prinudilo da se oslobodi. Iz svih događaja, Juda bi izdajom stekao neku korist. Računao je da je izdajom svoga Gospoda zaključio odličan posao.“ (Čežnja vekova, str. 720. original)
+„Ako Isus treba da bude raspet, razmišljao je Juda, to mora da se zbude. Njegov čin izdaje Spasitelja neće izmeniti ishod. Ako Isus ne treba da umre, to bi Ga samo prinudilo da se oslobodi. Iz svih događaja, Juda bi izdajom stekao neku korist. Računao je da je izdajom svoga Gospoda zaključio odličan posao.“ (_Čežnja vekova_, str. 720. original)
+
+` `
