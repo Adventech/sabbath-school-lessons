@@ -3,21 +3,15 @@ title:  Poziv da čvrsto stojimo
 date:  20/09/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 15,26.32.43
 
 **Središte proučavanja:** Marko 15
 
-**Uvod:**
+**Uvod:** Marko 15 prikazuje tri ključna prizora povezana sa Isusovim suđenjem, raspećem i vaskrsenjem. Ovi događaji pružaju nam uvid u prirodu Božjeg carstva. Prvo, Marko ispituje ulogu koju Sinedrion ima u osudi Isusa. U ovom događaju sveštenici i druge jevrejske vođe predstavljeni su kao protivnici. (Ono što Biblija opisuje kao sabor, savet ili skupštinu istoričari Isusovog vremena poistovećuju sa Sinedrionom.) Zatim, Marko posvećuje znatan prostor u svom narativu opisu uloge Pontija Pilata u osudi Isusa i Njegovom suđenju. Konačno, Marko priča o delima Josifa iz Arimateje, koji polaže Isusa u grobnicu koja je bila njegova.
 
-Marko 15 prikazuje tri ključna prizora povezana sa Isusovim suđenjem, raspećem i vaskrsenjem. Ovi događaji pružaju nam uvid u prirodu Božjeg carstva. Prvo, Marko ispituje ulogu koju Sinedrion ima u osudi Isusa. U ovom događaju sveštenici i druge jevrejske vođe predstavljeni su kao protivnici. (Ono što Biblija opisuje kao sabor, savet ili skupštinu istoričari Isusovog vremena poistovećuju sa Sinedrionom.) Zatim, Marko posvećuje znatan prostor u svom narativu opisu uloge Pontija Pilata u osudi Isusa i Njegovom suđenju. Konačno, Marko priča o delima Josifa iz Arimateje, koji polaže Isusa u grobnicu koja je bila njegova.
-
-**Teme:**
-
-
-
-Lekcija za ovu sedmicu podeljena je na tri dela:
+**Teme:** Lekcija za ovu sedmicu podeljena je na tri dela:
 
 1. *Sinedrion i osuda Isusa*. U ovom delu istražujemo stav sabora i poglavara svešteničkog prema Isusu pre raspeća.
 
@@ -25,7 +19,7 @@ Lekcija za ovu sedmicu podeljena je na tri dela:
 
 3. *Josif iz Arimateje i Božje carstvo*. Marko ukratko ističe postupke Josifa iz Arimateje nakon Isusove smrti.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Osuđen od strane Sinedriona i sveštenika**
 
@@ -59,6 +53,8 @@ Elen Vajt spominje zašto je Pilat dozvolio da Isus bude razapet. „Pilat je po
 
 Dok verske vođe nisu prepoznavale Isusovu vlast ili Njegovo carstvo, i dok je Pilatovo sagledavanje Isusovog carstva bilo ograničeno ličnim paganskim pogledom na svet, postojao je neko ko je verovao u carstvo o kome je Isus propovedao i prihvatio ga: Josif iz Arimateje, istaknuti član Sinedriona. Jevanđelje po Marku kaže da „koji i sam carstva Božijega čekaše, i usudi se te uđe k Pilatu i zaiska tijelo Isusovo“ (Marko 15,43). Isusovo propovedanje imalo je snažan uticaj na život ovog vodećeg člana izrailjskog društva. Isusova dela počela su da donose svoje prve rodove. Poglavlje se završava postupcima ovog jevrejskog vođe, čoveka koji je u Isusu pronašao Cara svog života i svega što poseduje. Josif iz Arimateje preuzeo je svu odgovornost i troškove za Isusov pogreb. Kada je većina učenika bila daleko, i narod odbacio carstvo, jedan čovek, Josif iz Arimateje, prepoznao je da „iziđe vrijeme i približi se carstvo Božije“ (Marko 1,15). 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Pilat je skoro bio nagovoren da oslobodi Isusa od osude raspeća. Međutim, narod je povikao: „Ako ovoga pustiš nijesi prijatelj ćesaru.“ (Jovan 19,12) Pitajte učenike koji principi i/ili činioci oblikuju ili motivišu naše misli i odluke danas u životu?
+
+` `

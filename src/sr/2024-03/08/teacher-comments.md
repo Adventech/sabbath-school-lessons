@@ -19,7 +19,7 @@ date:  23/08/2024
 
 3. Da bismo sada iskusili Božje carstvo, moramo imati na umu određena načela.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Božje carstvo i mala deca**
 
@@ -41,8 +41,6 @@ Važno pitanje ovde je da Božje carstvo mora biti uzdignuto u ljudskom srcu izn
 
 **Iskusiti Božje carstvo**
 
-
-
 Pitanje o kome smo prethodno razgovarali usredsređuje se na glavnu prepreku ulaska u Božje carstvo: davanje prioriteta zemaljskoj imovini u odnosu na Božje cartsvo. Naša sledeća tema tiče se naših međusobnih odnosa. Kako bi stanovnici Božjeg carstva trebalo da žive u zajednici jedni sa drugima? Ova tema je sada za nas ključna. 
 
 Na samom početku zapažamo da se izraz „među vama“ naglašava u ovom delu 10. poglavlja Jevanđelja po Marku. Marko 10,31 povezuje prethodni razgovor o imovini sa razgovorom o odnosima. Isus kaže: „Ali će mnogi prvi biti poslednji, i poslednji prvi.“ Drugim rečima, ulazak u Božje carstvo ne temelji se na ljudskoj hijerarhiji. Da bismo ilustrovali ovu misao, osvrnimo se na trenutak na izveštaj o Isusu i Njegovim učenicima na njihovom putu za Jerusalim. Učenici su smatrali da Isus ide u Jerusalim da osnuje svoje carstvo. Prema tome, dvojica od njih su Mu se obratila: „Daj nam da sjednemo jedan s desne strane Tebi, a drugi s lijeve.“ (Marko 10,37) Da li zapažate da učenici nisu pitali da uđu u carstvo? Umesto toga, oni su lobirali za glavne položaje u njemu. U svom odgovoru, Isus je objasnio da će Njegovi sledbenici koji nastoje da uđu u carstvo primiti blagoslove (Marko 10,30) i isto tako doživeti progonstva u ovom životu.
@@ -51,7 +49,7 @@ U tekstu Marko 10,38-40 Isus je istakao, još jednom, da je Njegovo carstvo obuh
 
 Drugim rečima, to što smo stanovnici Božjeg carstva, naročito oni koji su na vodećim položajima – podrazumeva život žrtve i službe pre nego život vladavine nad drugima. Isus je primer na koji treba da se ugledamo. 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Šta je Isus mislio kada je rekao: „Kako je teško... uću u carstvo Božije!“ (Marko 10,24) Stih ne kaže da je nemoguće ući u Božje carstvo, već samo da je „teško“. Zašto? Jedan mogući razlog je što veoma bogati ljudi možda ne vide svoju potrebu za Bogom ili onim što On može da učini za Njih.
 
@@ -60,3 +58,5 @@ Pisac ovih pouka za učitelje seća se vremena tokom svojih studentskih dana kad
 Možemo li dobiti sve u životu nezavisno od Boga? Objasnite. Da li postoje neke stvari u životu koje ne možemo da kupimo novcem? Šta je to?
 
 Da li neko od članova vašeg razreda poznaje veoma bogate osobe ili ljude na vodećim i istaknutim položajima u društvu? Ukoliko poznaju, kako vaši članovi razreda mogu da pomognu ovim pojedincima da poveruju da je Božje carstvo i za njih? Imajte na umu da ništa nije preteško za Gospoda. Sa ljudske tačke gledišta, ulazak u Božje carstvo može se činiti teškim, ako ne i nemogućim, za neke ljude. Ali setite se Isusovih reči: „Ljudima je nemoguće, ali nije Bogu: jer je sve moguće Bogu.“ (Marko 10,27)
+
+` `

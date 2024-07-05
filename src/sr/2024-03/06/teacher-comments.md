@@ -3,7 +3,7 @@ title:  Postavljeno naopako
 date:  09/08/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 7,6-8; Marko 7,33-37
 
@@ -19,7 +19,7 @@ date:  09/08/2024
 
 3. Treći deo, kao što smo prethodno zapazili, tiče se narativa o izlečenju gluvog čoveka. Razmotrićemo na koje se načine upućuje na određene elemente motiva stvaranja u ovom naročitom isceljenju. 
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Starozavetni kontekst teksta Isaija 7,6-8** 
 
@@ -30,13 +30,9 @@ Boži narod se u sedmom veku pre nove ere suočio sa kritičnim trenutkom u svom
 Da li ovi stihovi kazuju da je Gospod protiv žrtvenog sistema, kako je preko Mojsija bilo određeno izrailjskoj zajednici? Naravno da ne. Ono protiv čega Gospod jeste je površna religija, puna prividnog ispoljavanja vere bez istinskog straha Gospodnjeg (uporediti sa Isaija 1,16.17). Verski kontekst teksta Isaija 29,13, na koga Marko upućuje u 7. poglavlju, neobično je sličan. Pažljivo osvrtanje na Isaija 29,13 otkriva zanimljiv kijazam. Sledi autorov prevod:
 
 A. Narod mi se približava svojim ustima i usnama
-
 	B. Da Mi iskaže poštovanje
-
 		C. Ali njihova srca su daleko od Mene
-
 	B1. Njihovo poštovanje prema Meni
-
 A1. Jeste poput zapovesti koje se ponavljaju po sećanju.
 
 Kakav problem su Izrailjci imali, kao što je nagovešteno ovim stihom? Problem nije predstavljao njihov liturgijski jezik, sam po sebi; nego su njihove reči bile degradirane u puki niz formalnog ponavljanja. Šta je bio razlog takvog njihovog stanja? Njihova srca (njihov svesni um) bila su daleko od stvarnog posvećenja Gospodu. Prema tome, njihove reči bile su prazne.
@@ -71,8 +67,10 @@ Prema tome, Stvoritelj univerzuma došao je na Zemlju da obnovi delo stvaranja, 
 
 „Recite onima kojima se srce uplašilo: ohrabrite se, ne bojte se; evo Boga vašega; osveta ide, plata Božija, sam ide, i spašće vas. Tada će se otvoriti oči slijepima, i uši gluhima otvoriće se. Tada će hromac skakati kao jelen, i jezik nijemoga pjevaće, jer će u pustinji provreti vode i potoci u zemlji sasušenoj.“ (Isaija 35,4-6)
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
-1. Zašto je Isus zatražio od određenih osoba koje je izlečio da nikom ne govore o onome što je učinio ili o Njegovoj službi isceljenja? „I zaprijeti im da nikome ne kazuju; ali što im On zabranjivaše oni još većma razglašivahu.“ (Marko 7,36) Uporedite Marko 7,36 sa Marko 8,30; Marko 5,43; Marko 1,44.45. Šta mislite zašto su ljudi učinili suprotno od onoga što im je Isus naložio?
+1\. Zašto je Isus zatražio od određenih osoba koje je izlečio da nikom ne govore o onome što je učinio ili o Njegovoj službi isceljenja? „I zaprijeti im da nikome ne kazuju; ali što im On zabranjivaše oni još većma razglašivahu.“ (Marko 7,36) Uporedite Marko 7,36 sa Marko 8,30; Marko 5,43; Marko 1,44.45. Šta mislite zašto su ljudi učinili suprotno od onoga što im je Isus naložio?
 
-2. Kad je reč o ljudskim običajima, da li možete da prepoznate bilo kakav „običaj“ koji zauzima mesto Svetog pisma u vašoj zajednici? Da li je Sveto pismo i dalje naš vodič dok vodimo svoju versku zajednicu u današnje vreme? Šta tekst „srce njihovo daleko stoji od Mene“ (Marko 7,6) znači?
+2\. Kad je reč o ljudskim običajima, da li možete da prepoznate bilo kakav „običaj“ koji zauzima mesto Svetog pisma u vašoj zajednici? Da li je Sveto pismo i dalje naš vodič dok vodimo svoju versku zajednicu u današnje vreme? Šta tekst „srce njihovo daleko stoji od Mene“ (Marko 7,6) znači?
+
+` `

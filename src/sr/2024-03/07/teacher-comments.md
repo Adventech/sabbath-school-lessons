@@ -3,7 +3,7 @@ title:  'Poučavanje učenika: prvi deo'
 date:  16/08/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 8,31-33.38; Marko 9,1.7
 
@@ -11,15 +11,13 @@ date:  16/08/2024
 
 **Uvod:** Božje carstvo je dominantna tema u Jevanđelju po Marku. Isus izjavljuje da On predstavlja Božje carstvo. Spasitelj je došao da vrati svoj narod u ovo carstvo. Prema tome, sve u Njegovom zemaljskom planu je okrenuto prema ostvarenju Božjeg plana otkupljenja. Niko ne može da odvoji Hrista od Njegove misije. Sa istrajnom posvećenošću, On Sebe potpuno posvećuje tome. Da bi potvrdio Isusovo zemaljsko delo, Otac, prilikom Preobraženja, objavljuje, ponovo, sinovstvo Isusovo i poziva svoje učenike da poslušaju Njegovog Sina.  
 
-**Teme:**
-
-Lekcija za ovu sedmicu pokriva sledeće dve teme:
+**Teme:** Lekcija za ovu sedmicu pokriva sledeće dve teme:
 
 1. Prioritet Isusove misije u svetlu Božjeg plana otkupljenja.
 
 2. Slava Božjeg carstva, kako je istaknuto u Marko 9,1, i kako je prikazano, naročito, u vreme Preobraženja.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Isusov prioritet**
 
@@ -53,8 +51,10 @@ Preobraženje zauzima važnu ulogu u Markovom evanđeoskom izveštaju. Ovim doga
 
 U odeljcima Jevanđelja po Marku koje smo upravo proučili, pisac naglašava Isusov mesijanski identitet i otkriva glavne znake sile i slave Njegovog carstva. Suzan V. Henderson dobro izražava ovu misao kada beleži: „Drugi evanđelista jasno kuje taj identitet u vatri Isusove mesijanske misije: da unapred obavesti o Božjoj odlučujućoj pobedi nad silama sadašnjeg zlog doba.“ (Henderson, *Christology and Discipleship in the Gospel of Mark* [Cambridge: Cambridge University Press, 2006], p. 4)
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Preobraženje je bilo toliko zadivljujuće da su učenici bili prestrašeni njime (Marko 9,6). Zamolite učenike da zastanu na trenutak i razmisle o Isusovom drugom dolasku. Koje vam misli prve dolaze na um? Zamolite dobrovoljce da svoje utiske podele sa razredom. 
 
 Šta će se dogoditi pravednim mrtvima prilikom Drugog dolaska? Razmotrite učenje apostola Pavla: „Ujedanput, u trenuću oka u pošljednjoj trubi; jer će zatrubiti i mrtvi će ustati neraspadljivi, i mi ćemo se pretvoriti.“ (1. Korinćanima 15,52) U 54. stihu dodaje: „Onda će se zbiti ona riječ što je napisana: pobjeda proždrije smrt.“ Kako vam ovaj ugao sagledavanja pruža nadu i utehu?
+
+` `
