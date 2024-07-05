@@ -17,7 +17,7 @@ date:  06/09/2024
 
 2. Eshatologija u 13. poglavlju Jevanđelja po Marku, ili analiza njegovog unutrašnjeg konteksta i gledišta Elen Vajt o ovoj temi.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Šta je eshatologija**
 
@@ -53,8 +53,10 @@ Možemo da pronađemo tekstualni dokaz i podržimo proročanstvo o mrzosti opuš
 
 Marko 13 završava se opomenom koja nije bez ohrabrenja: „A što vam kažem, svima kažem: Stražite.“ (Marko 13,37)
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Zamolite učenike da razmisle o sledećem pitanju: Koliko je njihova zajednica svesna činjenice da događaji iz Marka 13, koji se odnose na uništenje sveta, treba da se ostvare?
 
 U svetlu ove diskusije, razmotrite šta je Elen Vajt izjavila pre više od sto godina: „Savremeni svet nije ništa više spreman da poveruje u vest za ovo vreme, nego što su Jevreji bili gotovi da prihvate Spasiteljevo upozorenje da će Jerusalim biti razoren. Kada god bude došao, Božji dan će zateći bezbožne u stanju nespremnosti. Život će se odvijati svojim uobičajenim tokom; ljudi će biti obuzeti uživanjima, poslovima, putovanjima, sticanjem novca; verske vođe preterano će hvaliti napredak sveta i njegovu prosvećenost; kada ljudi budu uljuljkani u lažnu sigurnost – tada, kao što se ponoćni provalnik prikrada nečuvanom boravištu, tako će iznenadna propast pogoditi bezbrižne i bezbožne, ’i neće uteći’ (1. Solunjanima 5,3).“ (*Velika borba*, str. 38. original)
+
+` `

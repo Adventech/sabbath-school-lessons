@@ -3,7 +3,7 @@ title:  Borbe
 date:  19/07/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekstovi:** Marko 2,3
 
@@ -17,7 +17,7 @@ date:  19/07/2024
 
 2. Pojedine predmete rasprave između Isusa i verskih vođa. 
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Isusova služba izvan sinagoge**
 
@@ -55,8 +55,10 @@ U sledećem poglavlju, književnici pokušavaju da pokrenu novu raspravu u vezi 
 
 Nažalost, književnici ne prepoznaju da je Isusovo delo božansko po svom poreklu. Umesto toga, oni pripisuju Njegova dela sili demona. Zbog ovih zlobnih i pogrešnih optužbi, Isus brani svoje postupke kao delo Svetog Duha. Zatim, Isus optužuje književnike za bogohuljenje Svetog Duha. Njihovo pogrešno shvatanje Isusovog dela učinila ih je „krivima vječnom sudu“ (Marko 3,29), „tj. onome sa večnim posledicama... Neoprostiv greh je tvrdoglavo odbijanje da se prizna da Bog deluje/da je delovao u čoveku Isusu.“ Nažalost, prema autoru Džejmsu A. Bruksu, njihovo tvrdoglavo odbijanje „nije samo jedan postupak, već navika i stav. Imperfekt (hoti elegon, 3,30) mogao bi se prevesti „nastavljali su da govore.“ (Brooks, *Mark, The New American Commentary* [Nashville: Broadman & Holman Publishers, 1991], vol. 23, p. 76)
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Pored toga što su fariseji i književnici pogrešno shvatali Božjeg Sina, Isus je takođe bio pogrešno shvaćen od samih članova svoje porodice; naime, svoje braće. Elen Vajt u vezi sa Isusovom braćom u knjizi Čežnja vekova piše: „Želela su da odobri njihove zamisli iako bi takvo ponašanje bilo u potpunom neskladu sa Njegovim božanskim zadatkom... Smatrali su da bi kad bi govorio samo ono što je bilo prihvatljivo za književnike i fariseje, izbegao neslaganje i sukobe koje su izazivale Njegove reči. Smatrali su Ga nerazumnim kada je tvrdio da ima božanski autoritet i kada se pred rabinima postavljao kao Onaj koji kori njihove grehe.“ Na istoj strani ona nastavlja: „Sve ovo učinilo je trnovitom stazu kojom je putovao. Nerazumevanje u sopstvenom domu toliko je ožalošćavalo Hrista, da je za Njega bilo olakšanje da ode tamo gde to nije postojalo.“ (str. 326. original) Na sledećoj strani Elen Vajt nam upućuje poziv: „Oni koji su pozvani da stradaju za Hrista, koji moraju da podnose nerazumevanje i podozrenje, čak i u sopstvenom domu, mogu naći utehu u pomisli da je Isus to isto podnosio. On je pokretan saosećanjem prema njima. Pozvao ih je da u Njemu nađu zajednicu i potporu tamo gde je On to nalazio, u zajednici sa Ocem.“ (str. 327. original)
 
 Postavite članovima razreda sledeća pitanja: Da li ste se suočili sa nekim sukobom u svojim unutrašnjim društvenim krugovima ili među članovima porodice zbog svojih uverenja? Ako jeste, kako vam misao da je Isus podneo to isto nudi utehu?
+
+` `

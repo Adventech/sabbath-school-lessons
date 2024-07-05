@@ -3,7 +3,7 @@ title:  Parabole
 date:  26/07/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:**  Marko 1,15; Marko 4,11.26.30
 
@@ -17,7 +17,7 @@ date:  26/07/2024
 
 2. **Božje carstvo u Jevanđelju po Marku.** Ovaj odeljak uključuje kontekstualnu analizu izraza Božje carstvo koji pronalazimo u tekstovima Marko 1 i Marko 4.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 Misao o Božjem carstvu istaknuta je od samog početka Jevanđelja po Marku. Marko 1,15 glasi: „Iziđe vrijeme i približi se carstvo Božije.“ Drugi tekstovi povezani sa Božjim carstvom obuhvataju: Marko 4,11.26.30; Marko 9,1.47; Marko 10,14.15.23.24.25; Marko 12,34; i Marko 14,25. Zbog toga je Božje carstvo tema koja se stalno iznova javlja u Jevanđelju po Marku. 
 
@@ -51,7 +51,7 @@ Ispunjenje vremena o kome govori Marko u svom Jevanđelju započelo je kada je c
 
 Isus ohrabruje ljude da prime carstvo u svojim sadašnjim okolnostima. „Zaista vam kažem: koji ne primi carstva Božijega kao dijete, neće ući u njega.“ (Marko 10,15) Drugim rečima, Spasitelj ohrabruje ljude svog vremena i našeg da žive u carstvu kao sadašnjem iskustvu. Međutim, Isus Hristos iznosi da poslednje vreme tek treba da dođe: „Zaista vam kažem: Više neću piti od roda vinogradskoga do onoga dana kad ću ga piti novoga u carstvu Božijemu.“ (Marko 14,25) Markova eshatologija je svesna činjenice da je „poslednje vreme“ u budućnosti. Međutim, Marko želi da naglasi carstvo i njegovu početnu fazu, ili njegovo sadašnje iskustvo, u toku svog vremena. 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Elen Vajt kaže: „Svi koji budu postali podanici Hristovog carstva, rekao je, pružiće dokaze o svojoj veri i pokajanju. Ljubaznost, poštenje i vernost pokazaće se u njihovom životu. Služiće nevoljnima i donosiće svoje prinose Bogu. Oni će štititi nemoćne i pružati primer vrline i samilosti. Tako će sledbenici Hristovi pružiti dokaz  o preobražavajućoj sili Svetoga Duha. U svakodnevnom životu videće se pravda, milosrđe i Božja ljubav. Ako ne bude tako, oni će biti kao pleva koja se baca u vatru.“ (*Čežnja vekova*, str. 107. original)
 
@@ -64,3 +64,5 @@ Zamolite članove razreda da odgovore na sledeća pitanja imajući prethodni cit
 3. Šta mislite kako ljudi reaguju i odgovaraju na misao o Njegovom drugom dolasku?
 
 4. U svetlosti ovog poređenja, članovima svog razreda postavite sledeće pitanje: Koliko je važno Božje carstvo vašem ličnom objavljivanju jevanđelja?
+
+` `
