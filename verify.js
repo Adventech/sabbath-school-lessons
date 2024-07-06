@@ -107,6 +107,11 @@ let validateContent = async function () {
                 }
 
                 let content = metaMarked(fs.readFileSync(markdownFile, "utf-8"))
+
+                if (!content.meta.title) {
+                    fail(`Error in the title field: \`${markdownFile}\`. No title provided`)
+                }
+
                 let contentDate = moment(content.meta.date, DATE_FORMAT)
 
                 if (contentDate.format(DATE_FORMAT) !== validDate.format(DATE_FORMAT)) {
