@@ -1,0 +1,23 @@
+---
+  video:
+    - artist: Joel Media
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-03-01.mp4
+          target: de/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2024-03-02.mp4
+    - artist: Adventgemeinde Fürstenfeld
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-03-01.mp4
+          target: de/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-03-02.mp4
+          target: de/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-03-02.webp
+          target: de/2024-03/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2024-03-13.webp
+    - artist: Seminar Schloss Bogenhofen
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-03-01.mp4
+          target: de/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2024-03-01.webp

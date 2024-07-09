@@ -1,0 +1,7 @@
+---
+  video:
+    - artist: Pastor Elias Rafanan
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-2024-03-01.mp4
+          target: ilo/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ilo/ilo-2024-03-01.webp
