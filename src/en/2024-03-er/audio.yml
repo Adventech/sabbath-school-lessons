@@ -1,0 +1,215 @@
+---
+  audio:
+    - artist: Adult Bible Study Guides
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/000 SS Lesson INTRO 1 July 2024 with AUTHOR.mp3
+          target: en/2024-03-er/01/01
+          title: Introduction with the author
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/003 SS Lesson 29 June 2024.mp3
+          target: en/2024-03-er/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/004 SS Lesson 30 June 2024.mp3
+          target: en/2024-03-er/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/005 SS Lesson 1 July 2024.mp3
+          target: en/2024-03-er/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/006 SS Lesson 2 July 2024.mp3
+          target: en/2024-03-er/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/007 SS Lesson 3 July 2024.mp3
+          target: en/2024-03-er/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/008 SS Lesson 4 July 2024.mp3
+          target: en/2024-03-er/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/009 SS Lesson 5 July 2024.mp3
+          target: en/2024-03-er/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/010 INSIDE STORY 1 Sybilla.mp3
+          target: en/2024-03-er/01/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/021 SS Lesson 6 July 2024.mp3
+          target: en/2024-03-er/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/022 SS Lesson 7 July 2024.mp3
+          target: en/2024-03-er/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/023 SS Lesson 8 July 2024.mp3
+          target: en/2024-03-er/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/024 SS Lesson 9 July 2024.mp3
+          target: en/2024-03-er/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/025 SS Lesson 10 July 2024.mp3
+          target: en/2024-03-er/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/026 SS Lesson 11 July 2024.mp3
+          target: en/2024-03-er/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/027 SS Lesson 12 July 2024.mp3
+          target: en/2024-03-er/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/029 INSIDE STORY 2 Sybilla.mp3
+          target: en/2024-03-er/02/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/033 SS Lesson 13 July 2024.mp3
+          target: en/2024-03-er/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/034 SS Lesson 14 July 2024.mp3
+          target: en/2024-03-er/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/035 SS Lesson 15 July 2024.mp3
+          target: en/2024-03-er/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/036 SS Lesson 16 July 2024.mp3
+          target: en/2024-03-er/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/037 SS Lesson 17 March 2024.mp3
+          target: en/2024-03-er/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/038 SS Lesson 18 July 2024.mp3
+          target: en/2024-03-er/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/039 SS Lesson 19 July 2024.mp3
+          target: en/2024-03-er/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/039b INSIDE STORY 3 Sybilla.mp3
+          target: en/2024-03-er/03/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/043 SS Lesson 20 July 2024.mp3
+          target: en/2024-03-er/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/044 SS Lesson 21 July 2024.mp3
+          target: en/2024-03-er/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/045 SS Lesson 22 July 2024.mp3
+          target: en/2024-03-er/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/046 SS Lesson July 23 2024.mp3
+          target: en/2024-03-er/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/047 SS Lesson 24 July 2024.mp3
+          target: en/2024-03-er/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/048 SS Lesson 25 July 2024.mp3
+          target: en/2024-03-er/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/049 SS Lesson 26 July 2024.mp3
+          target: en/2024-03-er/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/049b INSIDE STORY 4 Sybilla.mp3
+          target: en/2024-03-er/04/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/053 SS Lesson 27 July 2024.mp3
+          target: en/2024-03-er/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/054 SS Lesson 28 July 2024.mp3
+          target: en/2024-03-er/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/055 SS Lesson 29 July 2024.mp3
+          target: en/2024-03-er/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/056 SS Lesson 30 July 2024.mp3
+          target: en/2024-03-er/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/057 SS Lesson 31 July 2024.mp3
+          target: en/2024-03-er/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/058 SS Lesson 1 August 2024.mp3
+          target: en/2024-03-er/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/059 SS Lesson 2 August 2024.mp3
+          target: en/2024-03-er/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/059b INSIDE STORY 5 Sybilla.mp3
+          target: en/2024-03-er/05/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/063 SS Lesson 3 August 2024.mp3
+          target: en/2024-03-er/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/064 SS Lesson 4 August 2024.mp3
+          target: en/2024-03-er/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/065 SS Lesson 5 August 2024.mp3
+          target: en/2024-03-er/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/066 SS Lesson6 August 2024.mp3
+          target: en/2024-03-er/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/067 SS Lesson 7 August 2024.mp3
+          target: en/2024-03-er/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/068 SS Lesson 8 August 2024.mp3
+          target: en/2024-03-er/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/069 SS Lesson 9 August 2024.mp3
+          target: en/2024-03-er/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/069b INSIDE STORY 6 Sybilla.mp3
+          target: en/2024-03-er/06/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/073 SS Lesson 10 August 2024.mp3
+          target: en/2024-03-er/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/074 SS Lesson 11 August 2024.mp3
+          target: en/2024-03-er/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/075 SS Lesson 12 August 2024.mp3
+          target: en/2024-03-er/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/076 SS Lesson 13 August 2024.mp3
+          target: en/2024-03-er/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/077 SS Lesson 14 August 2024.mp3
+          target: en/2024-03-er/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/078 SS Lesson 15 August 2024.mp3
+          target: en/2024-03-er/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/079 SS Lesson 16 August 2024.mp3
+          target: en/2024-03-er/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/079b INSIDE STORY 7 Sybilla.mp3
+          target: en/2024-03-er/07/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/083 SS Lesson 17 August 2024.mp3
+          target: en/2024-03-er/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/084 SS Lesson 18 August 2024.mp3
+          target: en/2024-03-er/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/085 SS Lesson 19 August 2024.mp3
+          target: en/2024-03-er/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/086 SS Lesson 20 August 2024.mp3
+          target: en/2024-03-er/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/087 SS Lesson 21 August 2024.mp3
+          target: en/2024-03-er/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/088 SS Lesson 22 August 2024.mp3
+          target: en/2024-03-er/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/089 SS Lesson 23 August 2024.mp3
+          target: en/2024-03-er/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/089b INSIDE STORY 8 Sybilla.mp3
+          target: en/2024-03-er/08/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/093 SS Lesson 24 August 2024.mp3
+          target: en/2024-03-er/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/094 SS Lesson 25 August 2024.mp3
+          target: en/2024-03-er/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/095 SS Lesson 26 August 2024.mp3
+          target: en/2024-03-er/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/096 SS Lesson 27 August 2024.mp3
+          target: en/2024-03-er/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/097 SS Lesson 28 August 2024.mp3
+          target: en/2024-03-er/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/098 SS Lesson 29 August 2024.mp3
+          target: en/2024-03-er/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/099 SS Lesson 30 August 2024.mp3
+          target: en/2024-03-er/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/099b INSIDE STORY 9 Sybilla.mp3
+          target: en/2024-03-er/09/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/103 SS Lesson 31 August 2024.mp3
+          target: en/2024-03-er/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/104 SS Lesson 1 September 2024.mp3
+          target: en/2024-03-er/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/105 SS Lesson 2 September 2024.mp3
+          target: en/2024-03-er/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/106 SS Lesson 3 September 2024.mp3
+          target: en/2024-03-er/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/107 SS Lesson 4 September 2024.mp3
+          target: en/2024-03-er/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/108 SS Lesson 5 September 2024.mp3
+          target: en/2024-03-er/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/109 SS Lesson 6 September 2024.mp3
+          target: en/2024-03-er/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/109b INSIDE STORY 10 Sybilla.mp3
+          target: en/2024-03-er/10/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/113 SS Lesson 7 September 2024.mp3
+          target: en/2024-03-er/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/114 SS Lesson 8 September 2024.mp3
+          target: en/2024-03-er/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/115 SS Lesson 9 September 2024.mp3
+          target: en/2024-03-er/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/116 SS Lesson 10 September 2024.mp3
+          target: en/2024-03-er/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/117 SS Lesson 11 September 2024.mp3
+          target: en/2024-03-er/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/118 SS Lesson 12 September 2024.mp3
+          target: en/2024-03-er/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/119 SS Lesson 13 September 2024.mp3
+          target: en/2024-03-er/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/119b INSIDE STORY 11 Sybilla.mp3
+          target: en/2024-03-er/11/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/123 SS Lesson 14 September 2024.mp3
+          target: en/2024-03-er/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/124 SS Lesson 15 September 2024.mp3
+          target: en/2024-03-er/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/125 SS Lesson 16 September 2024.mp3
+          target: en/2024-03-er/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/126 SS Lesson 17 September 2024.mp3
+          target: en/2024-03-er/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/127 SS Lesson 18 September 2024.mp3
+          target: en/2024-03-er/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/128 SS Lesson 19 September 2024.mp3
+          target: en/2024-03-er/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/129 SS Lesson 20 September 2024.mp3
+          target: en/2024-03-er/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/129b INSIDE STORY 12 Sybilla.mp3
+          target: en/2024-03-er/12/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/133 SS Lesson 21 September 2024.mp3
+          target: en/2024-03-er/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/134 SS Lesson September 22.mp3
+          target: en/2024-03-er/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/135 SS Lesson 23 September 2024.mp3
+          target: en/2024-03-er/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/136 SS Lesson 24 September 2024.mp3
+          target: en/2024-03-er/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/137 SS Lesson 25 September 2024.mp3
+          target: en/2024-03-er/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/138 SS Lesson 26 September 2024.mp3
+          target: en/2024-03-er/13/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/139 SS Lesson 27 September 2024.mp3
+          target: en/2024-03-er/13/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2024-03/139b INSIDE STORY 13 Sybilla.mp3
+          target: en/2024-03-er/13/inside-story

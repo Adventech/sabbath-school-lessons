@@ -1,0 +1,7 @@
+---
+  video:
+    - artist: Głos Nadziei
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-03-01.mp4
+          target: pl/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2024-03-01.webp

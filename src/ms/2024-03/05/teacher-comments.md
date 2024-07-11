@@ -1,0 +1,62 @@
+---
+title:  Panduan Guru
+date:   02/08/2024
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+Ayat Utama: Markus 5:6–9, 22–34
+
+Tumpuan Kajian: Markus 5.
+
+**Pengenalan**: Markus 5 dan 6 merangkumi topik yang serupa dengan Markus 1. Dalam bab 5 dan 6, kita perhatikan Yesus melakukan mukjizat, seperti mengusir syaitan, menyembuhkan orang, dan memberitakan Injil. Oleh itu, kajian Kita akan mengkaji peristiwa terpilih daripada kedua-dua bab yang merangkumi julat topik ini.
+
+**Tema Pelajaran**: Kajian minggu ini adalah berkaitan dengan dua mukjizat Yesus. Kisah pertama adalah mengenai seorang lelaki dari masyarakat bukan bangsa Yahudi, yang dirasuki roh najis. Naratif yang lain ialah mengenai kisah seorang wanita "najis" yang merupakan seorang berbangsa Yahudi.
+
+1. Yesus dan “Legion.” Markus melaporkan bahawa Yesus telah pergi ke Gerasa, sebuah komuniti bukan Yahudi, dan “seorang lelaki yang kerasukan roh jahat keluar dari perkuburan lalu menemui-Nya” (Markus 5:2, AVB). Susulan daripada pertemuan ini, Yesus menyembuhkan lelaki itu.
+
+2. Yesus dan Penyembuhan Dua Anak Perempuan. Ketika Yesus kembali ke kampung-Nya sendiri, seorang pegawai sinagog, bernama Yairus, datang menemui-Nya dan “sujud di hadapan-Nya dan merayu, “Anak perempuanku sakit tenat, hampir mati.’” (Markus 5:22b, 23a,). Yesus menyembuhkan anak perempuan Yairus, di samping menyembuhkan seorang wanita yang menderita penyakit pendarahan.
+
+### Bahagian II: Ulasan
+
+**Yesus dan “Legion”**
+
+Markus sering memberikan perincian geografi untuk menyerlahkan pelayanan Yesus di tempat-tempat yang jauh dari kampung halaman-Nya. Unsur-unsur naratif sedemikian membayangkan niat yang jelas di pihak Yesus, untuk menjangkau orang bukan Yahudi di kawasan mereka sendiri. Sebagai contoh, dalam Markus 4:35, Yesus memberitahu murid-murid-Nya, “‘Mari kita pergi ke seberang sana’” (AVB). Dan sekali lagi, dalam Markus 5:1, rujukan geopolitik lain disediakan: “Lalu sampailah mereka di seberang laut, di daerah Gerasa” (AVB).
+
+Kota Gerasenes (Gerasa) adalah sebuah daerah di Dekapolis (yang bererti sepuluh kota) (Markus 5:20). Hakikat bahawa berhampiran bandar itu “ada kawanan babi yang sedang mencari makan di lereng bukit” (Markus 5:11, AVB) membantu kita untuk membuat kesimpulan bahawa ia adalah sebuah bandar bukan Yahudi. Kelly R. Iverson memberikan satu pengenalan yang tepat terhadap pelayanan Yesus di wilayah bukan Yahudi. Dia mengatakan, “Episod itu menandakan permulaan siri perjalanan yang disengajakan ke wilayah bukan Yahudi yang dibuat oleh Yesus. Pertemuan pertama dengan orang bukan Yahudi di luar daripada wilayah tanah air Yahudi berlaku di Timur Laut Galilea dalam wilayah Gerasa. . . . Kisah orang Gerasa yang dikuasai roh jahat ini menekankan kuasa pada Yesus, yang telah memulakan misi di kalangan orang bukan Yahudi, dan meramalkan pekerjaan pelayanan masa depan di wilayah bukan Yahudi. Ia adalah misi persediaan yang telah membuka jalan untuk kembali ke rantau ini yang disebutkan kemudian di dalam naratif ini (7:31–37).”—Kelly R. Iverson, Gentiles in the Gospel of Mark, “Even the Dogs Under the Table Eat the Children’s Crumbs ” (London: T & T Clark, 2007), hlm. 20.
+
+Oleh itu, bahagian terakhir Markus 4 dan permulaan pada Markus 5 mennyatakan satu peralihan dalam pelayanan Yesus daripada persekitaran Yahudi ke wilayah bukan Yahudi. Walau bagaimanapun, terdapat unsur biasa yang Yesus temui di setiap dua lokasi ini: iaitu, kuasa iblis. Menurut Markus, Yesus memulakan pelayanan-Nya di kalangan orang Yahudi. Mukjizat pertama Yesus berlaku di rumah ibadat (tempat orang Yahudi berbakti) di mana seorang lelaki yang dikuasai roh jahat berseru, “‘Apa yang hendak Kaubuat kepada kami, hai Yesus orang Nazaret? Adakah Engkau hendak membinasakan kami? Aku tahu siapa Engkau ini. Engkau Yang Suci daripada Tuhan!’” (Markus 1:24, AVB).
+
+Sekarang, semasa Yesus memulakan pelayanan-Nya di antara wilayah bukan Yahudi, kita melihat senario yang sama. Markus 5:2 memberitahu kita, “Sebaik-baik Yesus turun dari perahu, seorang lelaki yang kerasukan roh jahat keluar dari perkuburan lalu menemui-Nya” (AVB). Baik di rumah ibadat ahli Taurat dan di kalangan orang bukan Yahudi, terdapat orang yang dirasuki roh jahat yang perlu disembuhkan. Dalam kedua-dua keadaan, terdapat orang yang berada dibawah tawanan syaitan. Yesus datang untuk memulihkan orang-orang ini kepada kerajaan Tuhan.
+
+Markus 5:7–9 menerangkan dialog antara Yesus dan roh jahat itu. Interaksi mengikuti corak yang sama, seperti yang dilihat dalam Markus 1:23–25. “Orang itu berseru dengan suara keras, ‘Ya Yesus, Anak Tuhan Yang Maha Tinggi, apa urusan-Mu dengan aku? Demi Tuhan, jangan seksa aku!’” (Markus 5:7, AVB). Menariknya, roh-roh jaha itu siapa Yesus. Mereka berkata kepada-Nya, “ ‘Engkau adalah: Yang Kudus dari Tuhan!’ ” (Markus 1:24, AVB); “‘Engkau Anak Tuhan!’” (Markus 3:11, AVB); dan “‘Anak Tuhan Yang Mahatinggi’” (Markus 5:7, AVB). Apa yang penting di sini ialah, beberapa pernyataan Kristologi dalam Injil datang dari mulut syaitan sendiri. Dari guru-guru Israel, umat Tuhan sendiri, tidak ada pengakuan yang sama kekuatan dan kepentingannya.
+
+Mari kita perhatikan maklumat yang Markus berikan kepada kita tentang orang yang dirasuk oleh banyak roh jahat itu. Lelaki itu mendakwa namanya ialah “Legion.” Legion ialah satu unit tentera Rom dengan jumlah anggota kira-kira tiga hingga enam ribu askar pejalan kaki. (Lihat Robert H. Stein, Mark [Grand Rapids, MI: Baker Academic, 2008], ms. 255.) Tidak kira betapa seorang manusia dikuasai oleh kuasa jahat seperti itu, tidak ada entiti syaitan yang boleh menentang, atau mengatasi, kuasa Tuhan Yang Maha Tinggi.
+
+Nasib orang yang dirasuk roh jahat ini adalah kejam dan berdarah. Markus 5:5 menggambarkan kesengsaraan dan penderitaannya. “Siang malam dia merayau di perkuburan dan di bukit, sambil menjerit-jerit dan mencederakan badannya dengan batu” (AVB).
+
+Berkenaan dengan orang jahat, Larry W. Hurtado menulis: “Lelaki itu digambarkan sebagai ditawan sepenuhnya oleh kuasa jahat dan melampaui sebarang bantuan manusia (5:2–4). Selanjutnya, kediamannya adalah di antara kubur, 'kediaman' orang mati, hampir menjadikannya seperti zombi, orang mati yang berjalan-jalan. Akhirnya, dia membinasakan diri sendiri (5:5) dan jelas dalam keadaan tersiksa. Semua ini adalah satu gambaran yang sangat jelas tentang bagaimana PB [Perjanjian Baru] menggambarkan keadaan manusia apabila terpisah daripada Kristus: Mati secara rohani dan dalam diperhambakan oleh kejahatan.”—Hurtado, Mark (Peabody, MA: Hendrickson Publishers, 1989), ms. 83.
+
+Markus 5:4 juga memberitahu kita bahawa “Tiada seorang pun dapat menguasainyai” (AVB). “Tiada seorang pun,” kata Markus, sehinggalah Yesus datang kepadanya. Selepas pertemuannya dengan Yesus, “orang yang tadinya dirasuk legion” (Markus 5:15, AVB), yang telah dirasuk roh iblis itu, kini duduk dengan tenang, berpakaian dan waras. Kuasa pembebasan seperti itu hanya terdapat di dalam Yesus Kristus. Dia yang telah menegur angin dan berkata kepada danau, “Diam, tenanglah!” (Markus 4:39, AVB), juga dapat memerintah roh-roh jahat, dengan kata-kata “Keluarlah kamu daripada orang ini!” (Markus 5:8, AVB). Semua kuasa kegelapan ditaklukkan oleh kuasa Yesus.
+
+**Yesus dan Penyembuhan Dua Anak Perempuan**
+
+Dalam Markus 5:21, Markus memperkenalkan bahagian naratif yang baru: peristiwa di mana Yesus campur tangan memihak kepada dua anak perempuan Tuhan: “seorang wanita yang menghidap penyakit pendarahan selama dua belas tahun “ (Markus 5:25, AVB) dan yang seorang lagi anak perempuan Yairus .
+
+Bahagian ini mengandungi satu lagi penanda geopolitik dalam perjalanan Yesus. Dia “kembali menyeberang laut dengan perahu” (Markus 5:21, AVB). Dia telah kembali dari pelayanan-Nya di wilayah bukan Yahudi; kini adegan itu beralih ke wilayah Yahudi semula. Markus mengesahkan peralihan ini dalam campur tangan Yesus bagi pihak seorang pemimpin sinagog, bernama Yairus. Orang penting ini memasuki tempat kejadian dengan sikap yang sama seperti lelaki yang dirasuk syaitan dalam Markus 5:6: dia sujud di kaki Yesus (Markus 5:22). Permintaan Yairus bagi pihak anak perempuannya kepada Yesus ialah, “letakkan tangan-Mu padanya, supaya dia sembuh dan dapat terus hidup.” (Markus 5:23, AVB).
+
+Pada ketika itu, seorang wanita yang putus asa telah masuk ke dalam naratif itu. Perlu diingat bahawa Yesus baru sahaja datang daripada memulihkan seorang lelaki yang telah dirasuk sekumpulan roh jahat. Sekarang Dia mengalihkan perhatian-Nya yang penuh belas kasihan kepada seorang wanita yang berada dalam kenajisan. Kerana penyakitnya, dia secara ritual adalah najis dan dipisahkan dari kehidupan keagamaan Israel. “Jika seorang perempuan mengeluarkan lelehan darah selama beberapa hari di luar masa haidnya, atau jika dia mengeluarkan lelehan lebih lama daripada masa haidnya, maka kenajisannya berlangsung selama dia mengeluarkan lelehan itu. Dia menjadi najis sebanyak bilangan hari haidnya” (Im. 15:25, AVB).
+
+Pengulas M. Eugene Boring menambah satu lagi dimensi kepada kesengsaraan mengenai penyakitnya: “Oleh kerana pendarahan faraj melarang perkahwinan dan menjadi alasan untuk perceraian, dalam pemahaman budayanya yang dia fahami bersama, wanita itu tidak boleh memenuhi fungsinya sebagai seorang wanita, untuk membawa yang nyawa yang baru sebagai seorang ibu.” Di samping itu, dia telah menjadi miskin kerana dia telah membelanjakan semua wangnya untuk doktor tetapi tidak berjaya. Pengulas menambah, “Seperti pesakit kusta di Markus 1:40, hidupnya yang sebenarnya adalah satu kematian yang bernyawa, dan penyembuhannya akan menjadi pemulihan kepada kehidupan. Seperti anak yang yang menunggu di rumah Yairus, dia berada di luar semua harapan manusia.”—Boring, Mark A Commentary (Louisville, KY/London: Westminster John Knox Press, 2006), ms. 159, 160. Pada akhirnya, Yesus memulihkan dua orang itu untuk kepada kehidupan: seorang wanita, yang hampir mati, secara fizikal dan sosial (perhatikan kehidupan seseorang yang mengalami pendarahan selama 12 tahun dalam masyarakat yang undang-undangnya mengesyorkan pengasingan kerana keadaannya); dan anak perempuan Yairus, seorang gadis berusia 12 tahun yang telah mati.
+
+Dalam kedua-dua kes, sentuhan penyembuhan masuk ke dalam naratif itu. Wanita itu menyentuh jubah Yesus, dan Yesus menyentuh tangan gadis itu. Namun, penulis cuba menjelaskan kepada pembaca bahawa bukan sentuhan wanita itu yang membawa kesembuhannya. Sebaliknya, iman wanita yang berdarah itu dan iman Yairus adalah yang membawa hasil penyembuhan yang diinginkan. Dalam kes pertama, Yesus menghiburkan wanita itu, dengan berkata, “Hai anak-Ku, imanmu telah menyembuhkanmu” (Markus 5:34, AVB). Dalam kes kedua, Yesus memberikan dorongan kepada bapa gadis itu, Yairus, untuk terus percaya bahawa anak perempuannya akan dibangkitkan untuk hidup semula (Markus 5:36).
+
+### Bahagian III: Penerapan Hidup
+
+Markus, serta tiga penulis Injil yang lain, menggambarkan permusuhan beberapa guru Yahudi dan pemimpin sinagog terhadap Yesus. Namun demikian, antagonisme ini tidak menyekat penglibatan agama Yesus dalam rumah ibadat mahupun kerja-Nya bagi pihak umat-Nya. Sebagai contoh, Markus 1:21 menceritakan bahawa Yesus dan murid-murid-Nya “tiba di kota Kapernaum. Pada hari Sabat berikutnya, Yesus pergi ke rumah ibadat dan mula mengajar” (ABB). Mukjizat pertama Yesus yang direkodkan dalam Injil Markus berlaku di rumah ibadat: “Pada waktu itu seorang yang dirasuk roh jahat masuk ke dalam rumah ibadat dan berseru” (Markus 1:23, ABB). Kemudian, dalam Markus 5:22, Yesus melayani “ketua rumah ibadat tempatan” (ABB).
+
+Kadang-kadang kita menghadapi perselisihan faham dengan pemimpin tertentu atau ahli komuniti gereja kita yang lain. Sejauh manakah kita membenarkan perselisihan pendapat ini menjejaskan kepercayaan kita atau hubungan kita dengan komuniti kita? Bagaimanakah teladan Yesus memberi kita pemahaman tentang cara untuk meneruskan ketika berada di dalam situasi sedemikian?
+
+Yesus telah keluar dari komuniti yang seiman dengan-Nya sendiri untuk menjangkau orang yang dari komuniti bukan Yahudi. Apakah yang kita lakukan untuk menjangkau orang di luar tembok kita untuk kerajaan Tuhan? Sila perhatikan, di dalam jawapan anda, Markus 6:34: “[Yesus] melihat orang ramai di situ, hati-Nya berbelas kasih terhadap mereka kerana mereka ibarat domba tanpa gembala. Dia pun mula mengajar banyak perkara kepada mereka.” (AVB).
+
+` `

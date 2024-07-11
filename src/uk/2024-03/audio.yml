@@ -1,0 +1,36 @@
+---
+  audio:
+    - artist: Суботня Школа
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-02/2024-06-29.mp3
+          target: uk/2024-03/01/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-02/2024-06-30.mp3
+          target: uk/2024-03/01/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-01.mp3
+          target: uk/2024-03/01/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-02.mp3
+          target: uk/2024-03/01/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-03.mp3
+          target: uk/2024-03/01/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-04.mp3
+          target: uk/2024-03/01/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-05.mp3
+          target: uk/2024-03/01/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-06.mp3
+          target: uk/2024-03/02/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-07.mp3
+          target: uk/2024-03/02/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-08.mp3
+          target: uk/2024-03/02/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-09.mp3
+          target: uk/2024-03/02/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-10.mp3
+          target: uk/2024-03/02/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-11.mp3
+          target: uk/2024-03/02/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-12.mp3
+          target: uk/2024-03/02/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-13.mp3
+          target: uk/2024-03/03/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-03/2024-07-14.mp3
+          target: uk/2024-03/03/02

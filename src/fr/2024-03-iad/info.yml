@@ -1,0 +1,20 @@
+---
+  title: "L’évangile de Marc"
+  description: "Dès le début de l’évangile de Marc, le lecteur sait qui est Jésus : le Messie, le Fils de Dieu (Mc 1.1). Pourtant, les protagonistes du récit ont du mal à comprendre qui il est, et ce qu’il fait, à l’exception des personnes possédées. Elles savent exactement qui il est ! Les démons le reconnaissent et décampent devant ses paroles pleines de puissance."
+  human_date: "Juillet · Août · Septembre 2024"
+  start_date: "29/06/2024"
+  end_date: "27/09/2024"
+  color_primary: "#3F4802"
+  color_primary_dark: "#0A2400"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "Thomas Shepherd"
+    - name: Rédacteur en chef
+      value: "Clifford R. Goldstein"
+    - name: Rédactrice adjointe IADPA
+      value: "Dina Albicy"
+    - name: Responsable de publication
+      value: "Lea Alexander Greve"
+    - name: Traduction
+      value: "Fay Sainte-Rose, Ana Aurouze"

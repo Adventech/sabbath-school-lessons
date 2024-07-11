@@ -1,0 +1,18 @@
+---
+  video:
+    - artist: NoComTexto Podcast
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2024-03-01.mp4
+          target: pt/2024-03-cq/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2024-03-02.mp4
+          target: pt/2024-03-cq/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2024-03-02.webp
+    - artist: Adventismo Vivo
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-03-01.mp4
+          target: pt/2024-03-cq/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-03-02.mp4
+          target: pt/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-03-02.webp

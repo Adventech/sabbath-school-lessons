@@ -1,0 +1,7 @@
+---
+  video:
+    - artist: Eden TV
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-03-01.mp4
+          target: ml/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ml/ml-2024-03-01.webp
