@@ -1,0 +1,30 @@
+---
+  title: "Markos Kitabı"
+  description: "Markos Müjdesi’nin başından itibaren okuyucu İsa’nın kim olduğunu bilmektedir –Tanrı’nın Oğlu, Mesih (Mar. 1:1). Ancak hikayedeki insanlar O’nun kim olduğunu ve neyle uğraştığını anlamakta zorlanıyorlar –kötü ruhlara tutulmuş olanlar hariç. Onlar O’nun kim olduğunu tam olarak biliyorlar! Kötü ruhlar O’nu tanıyor ve kudretli sözleri karşısında solup gidiyorlar."
+  human_date: "Temmuz · Ağustos · Eylül 2024"
+  start_date: "29/06/2024"
+  end_date: "27/09/2024"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Yazar
+      value: "Thomas R. Shepherd"
+    - name: Editör (English)
+      value: "Clifford R. Goldstein"
+    - name: Editör Sekreteri
+      value: "Soraya Homayouni"
+    - name: Yayın Müdürü
+      value: "Lea Alexander Greve"
+    - name: Asistan Editör
+      value: "Sharon Thomas-Crews"
+    - name: Sayfa Tasarım
+      value: "Joanna Touma"
+    - name: Trans Medya Grubu Genel Müdürü
+      value: "Jean Jack Kareh"
+    - name: Yayın Kaynakları Yöneticisi
+      value: "Ashraf Fawzy"
+    - name: Çevirmen
+      value: "Suha Önder"
+    - name: Düzeltmen
+      value: "Dilara Oliveira"

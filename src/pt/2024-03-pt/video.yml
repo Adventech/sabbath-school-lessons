@@ -1,0 +1,10 @@
+---
+  video:
+    - artist: Bíblia Aberta
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2024-03-01.mp4
+          target: pt/2024-03-pt/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2024-03-02.mp4
+          target: pt/2024-03-pt/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2024-03-02.webp

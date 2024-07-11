@@ -1,0 +1,17 @@
+### Mark Lungdamthu
+
+Mark laibu a kipatna pan mahin, Zeisu pen – Messiah, Pasian’ Tapa ahihlam kithei pah hi (Mark 1:1). Dawite tawh a kipawlte simloh mihing maimaite in Amah kua hi a, bang hihding cih pen a tel nading uhhamsa mahmah hi. Dawite ahihleh Ama’ paukhiatma in zong tellua liang uhhi.
+
+Ahihhang, Zeisu in tua a theih uh thute imm phot ding cihi. Bang hangin thu immsak hiam? Zalom tampi sung Laisiangtho sinte in hihthu ngaihsunpha mahmah uhhi. Messiah kici minsang mahmah khat neingawn a, banghang lungdamthu sungah Zeisu in kua hiam cih imm ding cise hiam?
+
+Mark laibu sinna panin, a thusim teng bek thamlo, a lamdang pulakna teng zong mukhia ding hihang. Thusim pulakna cihding phial hi a, Mark lungdamthu bu sungah thusim tampitak om hinapi, a tawpna ah Zeisu’ thu nasia takin pulakna tawh tawp hi.
+
+Mark laibu pen khennih in kikhen thei a – a lang pen a taktak teng hi. Chapter khat pan kipan giatna beikuan dongpen Zeisu kua hiam cih tawh kisai ahi hi. A dawnna pen Ama thuhilhna leh nalamdang a bawlna sungah ompah hi. Dawi tungah a gualzawhna in nenniam thuakte lam-etna neisak a, mihing’ lungsim sungah thumaan lutsak hi. Hiteng khempeuh in Amah pen mi khempeuh in a ngaklah mahmah Messiah, Christ hi cihi. Hiteng khempeuh pen laibu laizang ah dawiveipa in Amah a pulak ciangin kitelcian a, bu lang tengin Christ pen kua hiam cih hong telsak pah hi. Tuabang in a pulakpa pen Peter hi a “Nangmah in Christ nahi hi” cihi (Mark 8:29).
+
+Mark khen nihna, Mark 8:31 pan a tawpna in, dotna dangte, Zeisu koi-ah pai cihpeuh dawnna ahi hi. Dawnna bel dipkua mai e. Rome gam, mipi’ maiah a zumhuai pen sihna Singlamteh zuan hi. A nungzuite in a vanglian mahmah Rome gam a zogawp dingpa Messiah pen lam-en uhhi. Nungzuite ahih uhleh lungsim buailua uh in telzolo uhhi. Laibu simsuksuk ciangin, hih thuakna vai dotna tawm semsem a, a tawpna ah a deihhuai hetlo thumaan tawh tawp hi. Zeisu in Amah a susia nuam biakna makaite tawh a kimuh ciangin, thusia tam semsem hi. Zeisu a kimatna, aki bawlsiatna, a kikhaina teng hangin, a minthang gamthak a lam-en nungzuite patauhna piang zaw sop hi.
+
+Ahita zongin, Zeisu in Amah si ding a, thokik ding cih thukip khat pia khin zo hi. Nitak an nunung a khomun leh hai tegel in Ama’ taksa leh sisan limpua a (Mark 14:22–25), mi tampi a Tankhiapa hong suak ding cihna ahi hi (Mark 10:45). Phunlo taulo in singlamteh a zuanziau hi hetlo hi. Gethsemane ah haksa takin khensat a (Mark 14:32–42), singlamteh tung panin zong thuak siatna tawh “Ka Pasian, Ka Pasian aw, bang hangin hong nusia na hiam” (Mark 15:34) ci in a kiko hi. Mark lungdamthu in Christ thuak hotkhiatna khuamial teng honglak hi. Singlamteh zong khualzin tawpna hi nai tuanlo hi. A thawhkik ciangin, Galilee ah nungzuite tawh kimu khawm uh a, Christian pawlpi hong kipatna cih theihsa ahi hi.
+
+A minthang pen tangthu tomgenna, lungdamthu gelhpa deihkaih tawmpen in a kigelh ahi hi. A tangthu gensuk ziau, a kammalte, a tatleh hekna tengin, Nazareth khuami Zeisu nuntakna leh sihna thu pulak sak ziau hi.
+
+_Thomas R. Shepherd, PhD, DrPH, pen, Seventh-day Adventist Theological Seminary, Andrews University ah Laisiangthothak senior research professor pa ahi hi. A zi Sherry tawh ta khankhin nih leh tu guk nei uhhi._

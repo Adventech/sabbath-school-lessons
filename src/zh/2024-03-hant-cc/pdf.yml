@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-01.pdf'
+      target: zh/2024-03-hant-cc/01
+      title: 耶利米
+      start_date: 29/06/2024
+      end_date: 05/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-02.pdf'
+      target: zh/2024-03-hant-cc/02
+      title: 迫臨的厄運
+      start_date: 06/07/2024
+      end_date: 12/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-03.pdf'
+      target: zh/2024-03-hant-cc/03
+      title: 最後的猷大王
+      start_date: 13/07/2024
+      end_date: 19/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-04.pdf'
+      target: zh/2024-03-hant-cc/04
+      title: 被擄到巴比伦
+      start_date: 20/07/2024
+      end_date: 26/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-05.pdf'
+      target: zh/2024-03-hant-cc/05
+      title: 在巴比倫宮廷中
+      start_date: 27/07/2024
+      end_date: 02/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-06.pdf'
+      target: zh/2024-03-hant-cc/06
+      title: 尼布甲尼撒的夢
+      start_date: 03/08/2024
+      end_date: 09/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-07.pdf'
+      target: zh/2024-03-hant-cc/07
+      title: 在火窰中
+      start_date: 10/08/2024
+      end_date: 16/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-08.pdf'
+      target: zh/2024-03-hant-cc/08
+      title: 真正的偉大
+      start_date: 17/08/2024
+      end_date: 23/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-09.pdf'
+      target: zh/2024-03-hant-cc/09
+      title: 冥冥中的守望者
+      start_date: 24/08/2024
+      end_date: 30/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-10.pdf'
+      target: zh/2024-03-hant-cc/10
+      title: 在獅子坑中
+      start_date: 31/08/2024
+      end_date: 06/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-11.pdf'
+      target: zh/2024-03-hant-cc/11
+      title: 但以理見異象
+      start_date: 07/09/2024
+      end_date: 13/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-12.pdf'
+      target: zh/2024-03-hant-cc/12
+      title: 上帝掌控全域
+      start_date: 14/09/2024
+      end_date: 20/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-03/ABSG-2024-03-ZH-HANT-CC-13.pdf'
+      target: zh/2024-03-hant-cc/13
+      title: 世界末了的預言
+      start_date: 21/09/2024
+      end_date: 27/09/2024

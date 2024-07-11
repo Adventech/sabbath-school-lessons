@@ -9,3 +9,4 @@ web/static/img/global
 test
 deploy-creds*
 .vscode
+.markdownlint.json

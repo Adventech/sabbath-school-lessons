@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-Intro.pdf
+      title: Intro
+      target: cfm/2024-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-01.pdf
+      target: cfm/2024-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-02.pdf
+      target: cfm/2024-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-03.pdf
+      target: cfm/2024-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-04.pdf
+      target: cfm/2024-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-05.pdf
+      target: cfm/2024-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-06.pdf
+      target: cfm/2024-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-07.pdf
+      target: cfm/2024-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-08.pdf
+      target: cfm/2024-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-09.pdf
+      target: cfm/2024-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-10.pdf
+      target: cfm/2024-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-11.pdf
+      target: cfm/2024-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-12.pdf
+      target: cfm/2024-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/cfm/2024-03/ABSG-2024-03-CFM-13.pdf
+      target: cfm/2024-03/13

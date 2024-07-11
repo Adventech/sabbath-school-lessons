@@ -1,0 +1,26 @@
+---
+  video:
+    - artist: Adventistas Lago Sul
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-03-01.mp4
+          target: pt/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-03-02.mp4
+          target: pt/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2024-03-02.webp
+    - artist: Adventistas Paulista Leste
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-03-01.mp4
+          target: pt/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-03-02.mp4
+          target: pt/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2024-03-02.webp
+    - artist: Adventismo Vivo
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-03-01.mp4
+          target: pt/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-03-02-updated.mp4
+          target: pt/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2024-03-02-updated.webp

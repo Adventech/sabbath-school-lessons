@@ -48,6 +48,10 @@ let validateContent = async function () {
 
         let weeklyInfoFiles = glob.sync(`${quarterly}/+(0|1|2|3|4|5|6|7|8|9)/info.yml`);
 
+        if (weeklyInfoFiles.length < 13 && !fs.pathExistsSync(`${quarterly}/pdf.yml`)) {
+            fail(`One or more weekly info.yml files is missing for ${quarterly}`);
+        }
+
         for (let weeklyInfoFile of weeklyInfoFiles) {
             try {
                 doc = yamljs.load(fs.readFileSync(`${weeklyInfoFile}`));
@@ -103,6 +107,11 @@ let validateContent = async function () {
                 }
 
                 let content = metaMarked(fs.readFileSync(markdownFile, "utf-8"))
+
+                if (!content.meta.title) {
+                    fail(`Error in the title field: \`${markdownFile}\`. No title provided`)
+                }
+
                 let contentDate = moment(content.meta.date, DATE_FORMAT)
 
                 if (contentDate.format(DATE_FORMAT) !== validDate.format(DATE_FORMAT)) {

@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-Intro.pdf
+      title: တၢ်ကတိၤအိးထီၣ်
+      target: kar/2024-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-01.pdf
+      target: kar/2024-03/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-02.pdf
+      target: kar/2024-03/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-03.pdf
+      target: kar/2024-03/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-04.pdf
+      target: kar/2024-03/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-05.pdf
+      target: kar/2024-03/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-06.pdf
+      target: kar/2024-03/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-07.pdf
+      target: kar/2024-03/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-08.pdf
+      target: kar/2024-03/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-09.pdf
+      target: kar/2024-03/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-10.pdf
+      target: kar/2024-03/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-11.pdf
+      target: kar/2024-03/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-12.pdf
+      target: kar/2024-03/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kar/2024-03/ABSG-2024-03-KAR-13.pdf
+      target: kar/2024-03/13
