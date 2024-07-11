@@ -35,3 +35,11 @@
           target: es/2024-03/03/01
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-3-DOMINGO.mp3
           target: es/2024-03/03/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-3-LUNES.mp3
+          target: es/2024-03/03/03
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-3-MARTES.mp3
+          target: es/2024-03/03/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-3-MIERCOLES.mp3
+          target: es/2024-03/03/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-3-JUEVES.mp3
+          target: es/2024-03/03/06

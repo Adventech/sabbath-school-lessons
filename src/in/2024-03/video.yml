@@ -1,0 +1,18 @@
+---
+  video:
+    - artist: Diskusi Sekolah Sabat
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-03-01.mp4
+          target: in/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-03-02.mp4
+          target: in/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2024-03-02.webp
+    - artist: Amazing Facts Indonesia
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-03-01.mp4
+          target: in/2024-03/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-03-02.mp4
+          target: in/2024-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/af/in-af-2024-03-02.webp
