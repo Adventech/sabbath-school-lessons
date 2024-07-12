@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-Intro.pdf'
+      target: si/2024-03-pr/introduction
+      title: හැදින්වීම
+      start_date: 29/06/2024
+      end_date: 29/06/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-01.pdf'
+      target: si/2024-03-pr/01
+      title: අළුත් ගෝලයෙක්
+      start_date: 29/06/2024
+      end_date: 05/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-02.pdf'
+      target: si/2024-03-pr/02
+      title: සේවය සඳහා එක්සිත් වීම
+      start_date: 06/07/2024
+      end_date: 12/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-03.pdf'
+      target: si/2024-03-pr/03
+      title: ඔබට ඇහුණද
+      start_date: 13/07/2024
+      end_date: 19/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-04.pdf'
+      target: si/2024-03-pr/04
+      title: වචනය පතුරුවා හැරීම
+      start_date: 20/07/2024
+      end_date: 26/07/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-05.pdf'
+      target: si/2024-03-pr/05
+      title: සැමා එකටත්ත එකා සැමටත්
+      start_date: 27/07/2024
+      end_date: 02/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-06.pdf'
+      target: si/2024-03-pr/06
+      title: විශේෂ සේවකයන් සත්දෙනෙක්
+      start_date: 03/08/2024
+      end_date: 09/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-07.pdf'
+      target: si/2024-03-pr/07
+      title: අන්ධ මනුෂ්‍යයෙක් පෙනීම ලබයි
+      start_date: 10/08/2024
+      end_date: 16/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-08.pdf'
+      target: si/2024-03-pr/08
+      title: දැන් මට පෙනෙනවා
+      start_date: 17/08/2024
+      end_date: 23/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-09.pdf'
+      target: si/2024-03-pr/09
+      title: අළුත් නමක් හා අළුත් මිත්‍රයෙක්
+      start_date: 24/08/2024
+      end_date: 30/08/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-10.pdf'
+      target: si/2024-03-pr/10
+      title: ඊසාක්ට භාර්‍ය්‍යාවක්
+      start_date: 31/08/2024
+      end_date: 06/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-11.pdf'
+      target: si/2024-03-pr/11
+      title: කැඳ කෝප්පයක් වෙනුවෙන් විකුණයි
+      start_date: 07/09/2024
+      end_date: 13/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-12.pdf'
+      target: si/2024-03-pr/12
+      title: පවුලේ සොරෙක්
+      start_date: 14/09/2024
+      end_date: 20/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2024-03/ABSG-2024-03-SI-PR-13.pdf'
+      target: si/2024-03-pr/13
+      title: ඉණිමඟක දේවදූතයෝ
+      start_date: 21/09/2024
+      end_date: 27/09/2024

@@ -3,7 +3,7 @@ title:  Čuda u okolini jezera
 date:  02/08/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 5,6-9.22-34
 
@@ -17,7 +17,7 @@ date:  02/08/2024
 
 2. Isus i isceljenje dve kćeri. Kada se Isus vratio u svoju zajednicu, starešina sinagoge, Jair, došao je k Njemu i „moljaše Ga vrlo govoreći: Kći je moja na smrti“ (Marko 5,23). Isus isceljuje Jairovu kćer, a pored toga leči i ženu koja je bolovala od tečenja krvi.
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Isus i „legion“**
 
@@ -39,7 +39,7 @@ U vezi sa nečistim duhom, Leri V. Hurtado piše: „Ovaj čovek je prikazan i k
 
 Marko 5,4 takođe nam kazuje da „niko ga ne mogaše ukrotiti“. „Niko“, Marko kaže, dok Mu Isus nije prišao. Posle susreta sa Isusom, čovek „u kome je bio legion“ (Marko 5,15) i koji je bio opsednut, sada mirno sedi, obučen i zdravog razuma. Takva oslobađajuća sila nalazi se samo u Isusu Hristu. Onaj koji je ukorio vetar i rekao moru: „Ćuti, prestani!“ (Marko 4,39) može takođe da naredi nečistim duhovima, rečima: „Iziđi iz čoveka.“ (Marko 5,8) Sve sile tame se potčinjavaju Isusovoj vlasti. 
 
-Isus i isceljenje dve kćeri
+**Isus i isceljenje dve kćeri**
 
 U tekstu Marko 5,21 Marko uvodi novi narativni odeljak: događaj u kome Isus deluje u korist dve Božje kćeri: „Žene koja je dvanaest godina bolovala od tečenja krvi“ (Marko 5,25) i Jairove kćeri. 
 
@@ -51,10 +51,12 @@ Komentator M. Eugen Boring dodaje još jednu dimenziju jadu vezanom za njenu bol
 
 U oba slučaja, isceljujući dodir je prisutan u narativu. Žena dodiruje Isusovu haljinu, a Isus dodiruje ruku devojčice. Međutim, pisac pokušava da objasni čitaocima da nije dodir žene sam po sebi taj koji joj je doneo izlečenje. Tačnije rečeno, vera je bila ta, i žene koja je bolovala od tečenja krvi i Jaira, koja je donela željeni ishod. U prvom slučaju Isus teši ženu, govoreći: „Kćeri, vjera tvoja pomože ti.“ (Marko 5,34) U drugom slučaju, Isus ohrabruje oca, Jaira, da istraje u veri da će njegova kći biti ponovo vraćena u život (Marko 5,36). 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Marko, kao i ostala tri pisca Jevanđelja, opisuje neprijateljstvo pojedinih jevrejskih učitelja i vođa sinagoge prema Isusu. Međutim, ovaj antagonizam ne smanjuje Isusovu versku uključenost u sinagogi niti Njegovo delovanje u korist pripadnika Njegove zajednice. Na primer, Marko 1,21 kazuje da Isus i Njegovi učenici „dođoše u Kapernaum; i odmah u Subotu ušavši u zbornicu učaše“. Prvo Isusovo čudo zabeleženo u Jevanđelju po Marku desilo se u sinagogi: „I bijaše u zbornici njihovoj čovjek s duhom nečistijem.“ (Marko 1,23) Zatim, u tekstu Marko 5,22, Isus pomaže jednom od „starješina zborničkijeh“.
 
 Ponekad se suočavamo sa neslaganjima sa pojedinim vođama ili drugim članovima naše crkvene zajednice. Do koje mere dozvoljavamo da ova neslaganja utiču na naša uverenja ili odnose sa našom zajednicom? Kako nam Isusov primer daje uvid u to kako da nastavimo u takvim prilikama? 
 
 Isus je izašao iz svoje verske zajednice da bi se približio ljudima iz neznabožačkih zajednica. Šta mi činimo da dosegnemo ljude izvan naših zidova za Božje carstvo? Razmotrite, u svom odgovoru, tekst Marko 6,34: „I izišavši Isus vidje narod mnogi, i sažali Mu se, jer bijahu kao ovce bez pastira; i poče ih učiti mnogo.“
+
+` `

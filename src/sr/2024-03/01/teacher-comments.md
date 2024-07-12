@@ -7,7 +7,7 @@ date:  05/07/2024
 
 **Središte proučavanja:** Marko 1
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Uvod:** U prvom stihu Jevanđelja, Marko sažima temu ne samo uvodnog poglavlja već i čitavog izveštaja: „Jevanđelje Isusa Hrista.“ U veku u kome su ljudi često bili privučeni „jevanđeljem drugačijim nego što primiste“ (Galatima 1,9), Marko započinje svoj izveštaj ovom uzvišenom uvodnom izjavom da bi naglasio suštinu hrišćanske vere: radosnu vest o Isusu Hristu. Isus je otkrio jevanđelje ne samo onima koji su bili obnovljeni Njegovim isceljujućim dodirom, već i raznolikoj verskoj zajednici koja je trebalo da poveruje u to jevanđelje. Iz Markovog ugla sagledavanja, Isus je, u suštini, jevanđelje.  
 
@@ -17,9 +17,7 @@ date:  05/07/2024
 
 2. „Isus Hristos“. Marko prikazuje Isusa u mnogim aspektima Njegove službe. Isus je Božji Sin i Svetac. Na Njega se takođe upućuje kao na velikog učitelja i govornika, kao i saosećajnog iscelitelja, u Galileji i šire.
 
-
-
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **„Početak...“**
 
@@ -73,7 +71,7 @@ Iako je često posećivao sinagage u gradovima da bi propovedao, Isus nije bio o
 
 Kao što smo upravo primetili, Isusova služba, kakva je prikazana u prvom poglavlju Jevanđelja po Marku, nije povezana sa posebnim gradom. Niti je povezana sa posebnim mestom, kao što je sinagoga. Prema tome, Marko prikazuje Isusa „kako hoda pokraj mora“ Galilejskog  (Marko 1,16). Marko nam takođe govori da Isus ide u dom Simona i Andrije (Marko 1,29). On odlazi na usamljeno mesto (Marko 1,35). Njegova služba doseže sva područja Galileje i okolne krajeve (Marko 1,28), uključujući i nenaseljene oblasti (Marko 1,45). On aktivno nastoji da dosegne ljude tamo gde se nalaze. Pored aktivne službe u poučavanju i propovedanju, Isus je bio veoma aktivan u pružanju isceljenja napaćenim dušama. Isusova misija obuhvatala je celokupno obnavljanje ljudskog bića. On je izlečio čoveka koga je nečisti duh bacio u grč (Marko 1,23-26). On je iscelio Simonovu taštu, koja je ležala u groznici (Marko 1,30.31). Isus je oslobodio i iscelio opsednute nečistim duhovima (Marko 1,32-34.39).  On nije bio ravnodušan prema jadnom stanju gubavog čoveka koji Mu je prišao u svom očajanju. Nezastrašen zarazom, Isus je položio ruku na njega i iscelio ga (Marko 1,40-42). Isus je prema Markovom kazivanju utelovljenje radosne vesti, jevanđelja, za mnoge ljude. „I sav grad bijaše se sabrao k vratima.“ (Marko 1,33) „I dolažahu k Njemu sa sviju strana.“ (Marko 1,45) Njegova služba donosila je obnovljenje celom biću. Obnovljenje je srž jevanđelja Isusa Hrista u najpraktičnijem smislu. 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Od Pavla saznajemo da su u prvom veku preovladala mnoga „druga“ jevanđelja, pored onoga koje je on naučavao. Žalosno je reći, mnogi hrišćani bili su zavedeni „drugim jevanđeljem“ (Galatima 1,6) ili iskrivljenim. Podstaknite svoje učenike da razmisle o sledećim pitanjima:
 
@@ -86,3 +84,5 @@ Danas su društveni mediji izvor mnogih aspekata našeg života – kako komunic
 Da li je Božja Reč i dalje relevantna kao izvor Njegove radosne vesti? Razgovarajte o tome.
 
 Isus je veliki deo svoje službe pored propovedanja, lečenja i molitve posvetio poučavanju. Podelite sa svojim razredom aspekt Isusove službe koji je najviše uticao na vaš život kao učitelja. Zatim upitajte članove svog razreda koji aspekt Isusove službe je najviše uticao na njihov život.
+
+` `

@@ -21,7 +21,7 @@ Na Njegovom putu u veliki grad, Isus objašnjava svojim učenicima svoju misiju 
 
 3. Isusovo delovanje u Jerusalimu i Hramu, mestu najvećeg dela rasprava u 11. i 12. poglavlju Jevanđelja po Marku. 
 
-### DRUGI DEO: KOMENTAR
+### Drugi deo: Komentar
 
 **Najava stradanja**
 
@@ -51,8 +51,10 @@ U drugim slučajevima verske vođe obasule su Isusa pitanjima iz zlobe, kao što
 
 U priči o vinogradu (Marko 12,1-11) Isus sa preciznošću razotkriva podle zavere verskih vođa da Mu u bliskoj budućnosti oduzmu život. Hristos potvrđuje njihovu podmuklost u priči sledećim rečima: „I uhvatiše ga, i ubiše, i izbaciše ga napolje iz vinograda.“ (Marko 12,8) Međutim, s obzirom na naš razgovor o hramu, ono što je najznačajnije jesu Isusove reči u 9. stihu. U ovom stihu Isus objašnjava šta će se dogoditi prema Božjem spasonosnom planu: „Doći će i pogubiće vinogradare, i daće vinograd drugima.“ (Marko 12,9) Sa Isusovom smrću čitav sistem Šatora od sastanka dostigao je kraj. Svi njegovi simboli ukazivali su na Isusa. Pored toga, verni ostatak Izrailja nastavio je misiju. Vilijam L. Lejn (William L. Lane) objašnjava pravu Izrailjevu strašnu sudbinu sledećim rečima: „U okviru priče neizbežna posledica odbacivanja sina bila je odlučna, katastrofalna presuda. Ovo ukazuje na presudno značenje odbacivanja Jovana i Isusa što je istaknuto u tekstu Marko 11,27-12,12, jer se radi o odbacivanju Boga. Bez objavljivanja svog uzvišenog sinovstva, Isus jasno ukazuje da je Sinedrion odbacio Božjeg poslednjeg glasnika i da će uslediti nesreća. Sveto poverenje izabranog naroda biće preneseno na novi Božji Izrailj.“ (Lane, *The Gospel According to Mark: The New International Commentary on the New Testament*, [Grand Rapids, MI: William B. Eerdmans Publishing Co., 1974], vol. 2, p. 419) 
 
-### TREĆI DEO: PRIMENA U ŽIVOTU
+### Treći deo: Primena u životu
 
 Kakve praktične pouke možemo naučiti iz Isusovog postupka čišćenja Hrama? Razmotrite sledeću izjavu: „Predvorja Jerusalimskog hrama, ispunjena gužvom i nesvetom trgovinom, predstavljala su isuviše vernu sliku hrama srca, obesvećenog prisustvom strasti i nesvetih misli. Čišćenjem Hrama od kupaca i prodavaca, Isus je objavio svoju misiju čišćenja srca od prljavštine greha – od svetovnih želja, sebičnih sklonosti, rđavih navika koje kvare dušu.“ (*Čežnja vekova*, str. 161. original)
 
 U tekstu Marko 12,14 jedan od fariseja obraća se Isusu: „Učitelju, znamo da si istinit, i da ne mariš ni za koga; jer ne gledaš ko je ko, nego zaista putu Božijemu učiš.“ Čini se da verske vođe prepoznaju ko je Isus, kao i vlast kojom naučava. Međutim, nisu voljni da slede Isusa i postanu deo Njegovog carstva. Pitajte članove razreda kako su vođe mogle da prepoznaju Njegovu vlast, a da Ga ipak odbace u isto vreme? Kako se ovo isto prepoznavanje i odbacivanje Isusa ponavlja u savremeno vreme?
+
+` `

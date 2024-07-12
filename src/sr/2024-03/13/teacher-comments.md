@@ -3,7 +3,7 @@ title:  Vaskrsli Gospod
 date:  27/09/2024
 ---
 
-### PRVI DEO: OPŠTI PREGLED
+### Prvi deo: Opšti pregled
 
 **Ključni tekst:** Marko 16,14-16
 
@@ -11,15 +11,13 @@ date:  27/09/2024
 
 **Uvod:** Marko 15 se završava tako što naglašava doprinos uglednog člana izrailjskog društva, koji svoj život i sredstva stavlja na raspolaganje Božjeg carstva kada Isus umire. Isusove sledbenice takođe izražavaju svoju spremnost da učestvuju u pogrebnim obredima svog Spasitelja. Pitanje, onda, glasi: Gde su učenici? Kako su reagovali na Isusovu smrt? I kako su reagovali na vest o Njegovom vaskrsenju? Marko njima posvećuje posebnu pažnju na kraju Jevanđelja. On takođe spominje posebna uputstva koja im Isus daje u svom nalogu da propovedaju jevađelje celom svetu. 
 
-**Teme:**
-
-Teme za ovu sedmicu obuhvataju diskusiju o iskustvu učenika u vezi sa njihovim verovanjem u Isusa Hrista kao vaskrslog Gospoda. Naše proučavanje biće podeljeno na dva dela: 
+**Teme:** Teme za ovu sedmicu obuhvataju diskusiju o iskustvu učenika u vezi sa njihovim verovanjem u Isusa Hrista kao vaskrslog Gospoda. Naše proučavanje biće podeljeno na dva dela: 
 
 1. *Važnost i uticaj verovanja*. Ovaj deo ispituje nespremnost učenika da poveruju u Isusovo vaskrsenje i kako, na kraju, Isus razoružava njihove sumnje i jača njihovu veru.
 
 2. „Idite po svemu svijetu“. Ovaj deo obuhvata Isusov veliki nalog dat učenicima, kao i obim njihove misije i cilj jevanđelja. 
 
-### DRUGI DEO:KOMENTAR
+### Drugi deo: Komentar
 
 **Važnost i uticaj verovanja**
 
@@ -60,3 +58,5 @@ Kao oni koji veruju u Hrista, kako možemo izbeći uvrežene zablude o Bogu i sp
 Da li ste razmišljali o tome da služite u misionskom polju daleko od doma? Šta vas je sprečilo, ukoliko vas je nešto sprečilo, da se tome posvetite? Ili da li ste želeli da započnete misionski projekat ali ste osećali strah da to učinite? Kakvi strahovi vas sprečavaju da idete napred? Molim vas pročitajte sledeće obećanje iz nadahnutog pera: „Hristos je tako svojim učenicima dao nalog. On je izvršio potpunu pripremu za nastavljanje dela i lično preuzeo odgovornost za njegov uspeh. Sve dotle dok slušaju Njegovu reč i rade povezani sa Njim, oni ne mogu doživeti neuspeh. Idite svim narodima, naložio im je. Idite do najudaljenijih krajeva Zemlje, ali znajte da ću tamo biti sa vama. Radite u veri i poverenju, jer vas nikada neću napustiti.“ (*Čežnja vekova*, str. 822. original)
 
 Možda ste već uključeni u misionski projekat u obližnjoj zajednici. Ako je tako, šta je vaš projekat i sa kakvim izazovima se suočavate? Kako vas poslednji citat motiviše u vašoj službi? Kakvu nadu i snagu vam pruža?
+
+` `
