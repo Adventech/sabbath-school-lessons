@@ -1,5 +1,19 @@
-yt-dlp "https://youtu.be/pOwVZFqUdu8?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-03-03.mp4"
+yt-dlp "https://youtu.be/xCepLGO6ZPk?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-03-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=buWELy0f4Hc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-03-02.mp4"
+yt-dlp "https://www.youtube.com/watch?v=BQ62cGCb77U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-03-03.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=xoGB2sLwbUM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ml/ml-2024-03-02.mp4"
+yt-dlp "https://youtu.be/qx6HXz_cFS8?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-03-03.mp4"
+
+yt-dlp "https://youtu.be/LTr9TOqp7Og?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2024-03-03.mp4"
+
+yt-dlp "https://youtu.be/aVCeb8Hsovg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2024-03-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=unTwsfsT7Nc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2024-03-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=worfoghel28" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "it/it-2024-03-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=KwH7X8igJn4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/af/in-af-2024-03-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=9YsjbCeA8AE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2024-03-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=OWYoxqHDUFo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2024-03-03.mp4"
