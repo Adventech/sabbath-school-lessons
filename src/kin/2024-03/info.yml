@@ -6,6 +6,7 @@
   end_date: "27/09/2024"
   color_primary: "#605045"
   color_primary_dark: "#4B3C32"
+  splash: true
   credits:
     - name: Umwanditsi W'iki kigisho
       value: "Thomas R. Shepherd"
