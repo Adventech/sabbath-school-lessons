@@ -2,4 +2,8 @@ yt-dlp "https://youtu.be/bt5DVp8MlOk?feature=shared" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://youtu.be/rsENKCHUyI8?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2024-03-04.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=pTQthvl9L6A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-03-04.mp4"
+
+yt-dlp "https://youtu.be/AGFW7-Gz92Q?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-03-04.mp4"
+
 yt-dlp "https://youtu.be/_Sqk7q9F83g?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2024-03-04.mp4"
