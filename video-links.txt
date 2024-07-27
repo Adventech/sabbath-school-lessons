@@ -1,5 +1,19 @@
-yt-dlp "https://youtu.be/V9wbeISstkw?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2024-03-04.mp4"
+yt-dlp "https://youtu.be/PwHrhF6qb-E?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ml/ml-2024-03-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=4e3fUKnuQBg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-03-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=hZSZxZAXOuc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2024-03-04.mp4"
 
-yt-dlp "https://youtu.be/9cHiflFEE_Y?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2024-03-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=njMZzo-ZL3Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2024-03-04.mp4"
+
+yt-dlp "https://youtu.be/S2tsDOdAqVQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2024-03-04.mp4"
+
+yt-dlp "https://youtu.be/hNQGgK3gKgg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2024-03-05.mp4"
+
+yt-dlp "https://youtu.be/yGBJRm4n-ew?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-03-05.mp4"
+
+yt-dlp "https://youtu.be/usz70LylK80?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2024-03-05.mp4"
+
+yt-dlp "https://youtu.be/v6HYddHglJQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "it/it-2024-03-05.mp4"
+
+yt-dlp "https://youtu.be/Jh5kPhMQnws?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2024-03-05.mp4"
+
+yt-dlp "https://youtu.be/vQWpVfAtwPY?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2024-03-05.mp4"
