@@ -73,3 +73,7 @@
           target: es/2024-03/05/06
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-5-VIERNES.mp3
           target: es/2024-03/05/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-6-SABADO.mp3
+          target: es/2024-03/06/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2024/07/LECCION-6-DOMINGO.mp3
+          target: es/2024-03/06/02
