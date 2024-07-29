@@ -100,3 +100,85 @@
           target: hu/2024-02/07/06
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240517.mp3
           target: hu/2024-02/07/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240518.mp3
+          target: hu/2024-02/08/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240519.mp3
+          target: hu/2024-02/08/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240520.mp3
+          target: hu/2024-02/08/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240521.mp3
+          target: hu/2024-02/08/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240522.mp3
+          target: hu/2024-02/08/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240523.mp3
+          target: hu/2024-02/08/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240524.mp3
+          target: hu/2024-02/08/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240525.mp3
+          target: hu/2024-02/09/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240526.mp3
+          target: hu/2024-02/09/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240527.mp3
+          target: hu/2024-02/09/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240528.mp3
+          target: hu/2024-02/09/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240529.mp3
+          target: hu/2024-02/09/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240530.mp3
+          target: hu/2024-02/09/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240531.mp3
+          target: hu/2024-02/09/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240601.mp3
+          target: hu/2024-02/10/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240602.mp3
+          target: hu/2024-02/10/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240603.mp3
+          target: hu/2024-02/10/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240604.mp3
+          target: hu/2024-02/10/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240605.mp3
+          target: hu/2024-02/10/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240606.mp3
+          target: hu/2024-02/10/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240607.mp3
+          target: hu/2024-02/10/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240608.mp3
+          target: hu/2024-02/11/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240609.mp3
+          target: hu/2024-02/11/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240610.mp3
+          target: hu/2024-02/11/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240611.mp3
+          target: hu/2024-02/11/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240612.mp3
+          target: hu/2024-02/11/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240613.mp3
+          target: hu/2024-02/11/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240614.mp3
+          target: hu/2024-02/11/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240615.mp3
+          target: hu/2024-02/12/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240616.mp3
+          target: hu/2024-02/12/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240617.mp3
+          target: hu/2024-02/12/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240618.mp3
+          target: hu/2024-02/12/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240619.mp3
+          target: hu/2024-02/12/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240620.mp3
+          target: hu/2024-02/12/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240621.mp3
+          target: hu/2024-02/12/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240622.mp3
+          target: hu/2024-02/13/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240623.mp3
+          target: hu/2024-02/13/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240624.mp3
+          target: hu/2024-02/13/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240625.mp3
+          target: hu/2024-02/13/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240626.mp3
+          target: hu/2024-02/13/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240627.mp3
+          target: hu/2024-02/13/06

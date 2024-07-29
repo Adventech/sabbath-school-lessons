@@ -1,0 +1,23 @@
+### Markuksen evankeliumi
+
+Heti Markuksen evankeliumin alusta lähtien lukija tietää, kuka Jeesus on – Messias, Jumalan Poika (Mark. 1:1). Kertomuksessa mukana olleilla ihmisillä on kuitenkin vaikeuksia ymmärtää, kuka hän on ja mistä hänessä on kyse. Poikkeuksen tekevät demonien vaivaamat ihmiset. He tietävät tarkalleen, kuka Jeesus on! Demonit tunnistavat hänet ja riutuvat hänen voimallisten sanojensa edessä.
+
+Jeesus kuitenkin johdonmukaisesti käskee heitä vaikenemaan tästä tiedosta. Miksi tällainen salassapitomääräys? Raamatun lukijat ovat vuosisatojen ajan pohtineet tätä kysymystä. Sille on tutkijoiden keskuudessaan syntynyt jopa oma nimitys: messiaaninen salaisuus. Miksi evankeliumiin kuuluisi se, että meidän pitäisi vaieta siitä, kuka Jeesus on?
+
+Matkallamme läpi Markuksen evankeliumin meille tulee selväksi, että kirjassa on salaperäisyyden lisäksi myös vaikuttavaa ilmoitusta. Sitä voidaan oikeutetusti kutsua ilmoitus-/salaisuusteemaksi. Tämä teema kulkee siis läpi Markuksen evankeliumin, vaikkakin kirjan lopussa kaikki salailu yllättäen päättyy ja se korvataan vahvalla ilmoituksella Jeesuksesta.
+
+Markuksen evankeliumi voidaan jakaa kahteen erilliseen osaan – itse asiassa kahteen puolikkaaseen. Luvut yhdestä kahdeksannen luvun loppupuolelle käsittelevät kriittisen tärkeää kysymystä siitä, kuka Jeesus on. Vastaus paljastuu Jeesuksen opetusten ja ihmeiden kautta. Kerta toisensa jälkeen hän voittaa pahan, tuo toivoa sorretuille ja opettaa vakuuttavia totuuksia, jotka osuvat inhimillisen olemassaolon ytimeen. Kaikki tämä tekee lukijalle selvääkin selvemmäksi sen, että hän on Messias, Kristus, jota heprealainen kansa on kauan odottanut.
+
+Kuitenkin vasta kirjan puolivälissä joku ihminen (joka ei ole pahojen henkien riivaama) oikeutetusti julistaa, kuka hän on. Näin tuo henkilö vastaa Markuksen evankeliumin ensimmäisen puoliskon kysymykseen Kristuksen identiteetistä. Tuo henkilö on Pietari, joka julistaa: "Sinä olet Messias." (Mark. 8:29.)
+
+Markuksen evankeliumin toinen puolisko (Mark. 8:31 eteenpäin aina kirjan loppuun asti) vastaa toiseen kysymykseen: minne Jeesus on menossa? Vastaus on järkyttävä. Hän on menossa ristille, kohtaamaan kaikkein kunniattomimman ja häpeällisimmän kuoleman, jonka roomalaisessa maailmassa saattoi kokea. Tämä on yllättävä määränpää Messiaalle, jonka pitäisi seuraajien odotusten mukaan kukistaa Rooma ja nostaa Israel vaikutusvaltaiseksi kansakunnaksi.
+
+Jeesuksen hämmentyneet opetuslapset eivät pysty käsittämään, mitä hän sanoo. Kirjan edetessä he kysyvät yhä vähemmän tästä tuskallisesta aiheesta, kunnes lopulta he eivät voi enää muuta kuin vaieta ja olla hiljaa ei-toivotun totuuden edessä.
+
+Asiat näyttävät yhä synkemmiltä, kun Jeesus kohtaa uskonnolliset johtajat, jotka suunnittelevat hänen tuhoamistaan. Opetuslapset, jotka toivovat uljasta valtakuntaa, ovat järkyttyneitä pidätyksestä, oikeudenkäynnistä ja ristiinnaulitsemisesta, jotka ovat vastoin heidän odotuksiaan.
+
+Kaikkien näiden vaiheiden läpi Jeesuksen sanoma siitä, minne hän on menossa ja mitä se tarkoittaa, että hän kuolee ja nousee ylös kuolleista, pysyy selkeänä ja johdonmukaisena. Viimeisen ehtoollisen leipä ja malja edustavat hänen ruumistaan ja vertaan (Mark. 14:22–25), ja hän antaa henkensä lunnaiksi monien edestä (Mark. 10:45, VKR). Tämä ei tarkoita, että hän menee ristille stoalaista mielentyyneyttä tuntien. Getsemanessa hän kamppailee päätöksen edessä (Mark. 14:32–42), ja ristillä hän huutaa epätoivoisena: "Jumalani, Jumalani, miksi hylkäsit minut?" (Mark. 15:34.) Markuksen evankeliumi näyttää meille Kristuksen kokeman pimeyden, meidän pelastuksemme hinnan. Risti ei ole kuitenkaan matkan loppu. Ylösnousemuksensa jälkeen Jeesus suunnittelee tapaamisen opetuslastensa kanssa Galileassa – ja kuten tiedämme, kristillinen seurakunta sai alkunsa.
+
+Markuksen evankeliumi on hyvin merkittävä kertomus, joka on esitetty ytimekkäällä, nopeasti etenevällä tyylillä. Se ei juurikaan sisällä kirjoittajan omia kommentteja. Kirjoittaja yksinkertaisesti kertoo tarinan, jossa hän antaa sanojen, tekojen ja toiminnan puhua puolestaan Jeesuksen elämästä ja kuolemasta.
+
+_Thomas R. Shepherd, teogian tohtori ja kansanterveystieteen tohtori, toimii Uuden testamentin vanhempana tutkimusprofessorina seitsemännen päivän adventistien teologisessa seminaarissa Andrews University -yliopistossa. Hänellä ja hänen vaimollaan Sherryllä on kaksi aikuista lasta ja kuusi lastenlasta._

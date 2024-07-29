@@ -653,6 +653,7 @@ let quarterlyAPI = async function () {
   }
 };
 
+
 let lessonAPI = async function () {
   console.log('Deploying lesson API');
   let lessons = glob.sync(`src/${compile_language}/${compile_quarter}/*/`);
