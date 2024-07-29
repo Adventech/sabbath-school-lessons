@@ -1,0 +1,152 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L00.pdf'
+      target: en/2024-03-pr/introduction
+      title: Introduction
+      start_date: 29/06/2024
+      end_date: 29/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L01.pdf'
+      target: en/2024-03-pr/01
+      title: A New Disciple
+      start_date: 29/06/2024
+      end_date: 05/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L02.pdf'
+      target: en/2024-03-pr/02
+      title: United in Service
+      start_date: 06/07/2024
+      end_date: 12/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L03.pdf'
+      target: en/2024-03-pr/03
+      title: Did You Hear?
+      start_date: 13/07/2024
+      end_date: 19/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L04.pdf'
+      target: en/2024-03-pr/04
+      title: All for One; One for All
+      start_date: 20/07/2024
+      end_date: 26/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L05.pdf'
+      target: en/2024-03-pr/05
+      title: Seven Special Servants
+      start_date: 27/07/2024
+      end_date: 02/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L06.pdf'
+      target: en/2024-03-pr/06
+      title: Struck by the Light
+      start_date: 03/08/2024
+      end_date: 09/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L07.pdf'
+      target: en/2024-03-pr/07
+      title: Now I See!
+      start_date: 10/08/2024
+      end_date: 16/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L08.pdf'
+      target: en/2024-03-pr/08
+      title: A New Name and a New Friend
+      start_date: 17/08/2024
+      end_date: 23/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L09.pdf'
+      target: en/2024-03-pr/09
+      title: Spreading the Word
+      start_date: 24/08/2024
+      end_date: 30/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L10.pdf'
+      target: en/2024-03-pr/10
+      title: A Wife for Isaac
+      start_date: 31/08/2024
+      end_date: 06/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L11.pdf'
+      target: en/2024-03-pr/11
+      title: Sold for a Bowl of Stew
+      start_date: 07/09/2024
+      end_date: 13/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L12.pdf'
+      target: en/2024-03-pr/12
+      title: A Thief in the Family
+      start_date: 14/09/2024
+      end_date: 20/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-L13.pdf'
+      target: en/2024-03-pr/13
+      title: Angels on a Ladder
+      start_date: 21/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Student/P-24-Q3-MemoryVerses.pdf'
+      target: en/2024-03-pr/memory-verses
+      title: Memory Verses
+      start_date: 27/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-Activities-T.pdf'
+      target: en/2024-03-pr/activities
+      title: Activities
+      start_date: 27/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L00-T.pdf'
+      target: en/2024-03-pr/introduction
+      title: Teacher
+      start_date: 29/06/2024
+      end_date: 29/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L01-T.pdf'
+      target: en/2024-03-pr/01
+      title: Teacher
+      start_date: 29/06/2024
+      end_date: 05/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L02-T.pdf'
+      target: en/2024-03-pr/02
+      title: Teacher
+      start_date: 06/07/2024
+      end_date: 12/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L03-T.pdf'
+      target: en/2024-03-pr/03
+      title: Teacher
+      start_date: 13/07/2024
+      end_date: 19/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L04-T.pdf'
+      target: en/2024-03-pr/04
+      title: Teacher
+      start_date: 20/07/2024
+      end_date: 26/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L05-T.pdf'
+      target: en/2024-03-pr/05
+      title: Teacher
+      start_date: 27/07/2024
+      end_date: 02/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L06-T.pdf'
+      target: en/2024-03-pr/06
+      title: Teacher
+      start_date: 03/08/2024
+      end_date: 09/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L07-T.pdf'
+      target: en/2024-03-pr/07
+      title: Teacher
+      start_date: 10/08/2024
+      end_date: 16/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L08-T.pdf'
+      target: en/2024-03-pr/08
+      title: Teacher
+      start_date: 17/08/2024
+      end_date: 23/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L09-T.pdf'
+      target: en/2024-03-pr/09
+      title: Teacher
+      start_date: 24/08/2024
+      end_date: 30/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L10-T.pdf'
+      target: en/2024-03-pr/10
+      title: Teacher
+      start_date: 31/08/2024
+      end_date: 06/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L11-T.pdf'
+      target: en/2024-03-pr/11
+      title: Teacher
+      start_date: 07/09/2024
+      end_date: 13/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L12-T.pdf'
+      target: en/2024-03-pr/12
+      title: Teacher
+      start_date: 14/09/2024
+      end_date: 20/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Primary/2024/Q3/Primary/Teacher/P-24-Q3-L13-T.pdf'
+      target: en/2024-03-pr/13
+      title: Teacher
+      start_date: 21/09/2024
+      end_date: 27/09/2024

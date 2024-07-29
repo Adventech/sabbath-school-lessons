@@ -1,0 +1,61 @@
+---
+title:  Approfondissement
+date:   19/07/2024
+---
+
+### Ire Partie: Aperçu
+
+Texte clé: Mc 2:3-12; Mc 3:6, 22-29
+
+Texte d’approfondissement: Marc 2, Marc 3.
+
+**Introduction**: L’étude de cette semaine passe en revue les évènements du ministère de Jésus tels qu’ils sont présentés dans Marc 2 et 3. L’œuvre de Jésus était axée sur la restauration de la vie des gens par l’évangile. Cependant, le ministère et le message de Jésus n’avaient pas toujours été bien accueillis par certaines personnes qui exerçaient une grande influence dans la société de l’époque.
+
+**Thèmes de la leçon**: Dans Marc 2 et 3, l’auteur souligne le fait que certains enseignants religieux avaient mal compris le message de Jésus et s’en étaient méfiés. Dans ce contexte, nous examinerons:
+
+1. Les groupes, y compris les pharisiens et les scribes, qui étaient hostiles aux enseignements de Jésus.
+2. Quelques points de discorde entre Jésus et les chefs religieux.
+
+### IIe Partie: Commentaire
+
+**Le ministère de Jésus hors de la synagogue**
+
+La synagogue était l’épicentre du ministère de Jésus; « Jésus entra de nouveau dans la synagogue » (Mc 3:1, LSG). Cependant, Jésus n’était pas confiné à la synagogue dans Son ministère. Cette flexibilité est une chose qui Le distinguait des maitres de Son temps.
+
+Pour mieux comprendre le ministère itinérant de Jésus, nous devons examiner la structure des premiers chapitres de Marc lui-même. Après avoir examiné Marc 1 la semaine dernière, nous nous tournons maintenant vers le contenu et la structure du chapitre 2. Marc 2 et 3 semblent constituerune unité littéraire dans l’Évangile de Marc. La section commence par la note que Jésus était à la maison (Mc 2:1); et se termine par une mention de certains membres de Sa famille (Sa mère et Ses frères, Mc 3:31-35). Entre ces deux segments narratifs, Jésus se rendait dans des régions proches de la mer de Galilée. Il se rendit dans un poste de péages (Mc 2:14), puis dans la maison de Lévi (Mc 2:15). Ensuite, Jésus se rendit dans les champs de blé (Mc 2:23), et entra dans la synagogue (Mc 3:1). Puis Il se retira avec Ses disciples vers la mer (Mc 3: 7), et entra plus tard dans une autre maison (Mc 3:19).
+
+En bref, cette partie du récit de Marc met en évidence que Jésus exerçait Son ministère auprès des gens dans les maisons de la ville, à la synagogue et même dans les zones rurales. De cette façon, nous voyons que Jésus avait servi le peuple. Son ministère était à la fois urbain et rural dans Sa région.
+
+**Les groupes controversés et hostiles**
+
+Un autre point préliminaire à considérer dans Marc 2 et 3 est l’hostilité de certains dirigeants religieux/politiques à l’égard de Jésus et de Son ministère. Parmi les groupes mentionnés dans cette section, se trouvent les scribes (Mc 2:6, 16; Mc 3:22), les pharisiens (Mc 2:24, Mc 3:6) et les hérodiens (Mc 3:6). Ils représentaient trois groupes importants dans la société israélite pendant le ministère de Jésus. (Les saducéens sont un autre groupe [Mc 12:18], mais ils n’apparaissent pas dans cette section de notre étude.)
+
+Le défi auquel Jésus est confronté maintenant, ce n’est pas les forces des ténèbres. Les démons n’ont pas de rôle actif, ni de pouvoir réel contre Lui dans cette section du récit à part ce qui est mentionné dans Marc 3:11, dans lequel, affirme l’auteur, les démons se prosternaient devant Jésus. Le conflit auquel Jésus est confronté ici est contre quelque chose de plus concret: les chefs spirituels ou les enseignants de la nation.
+
+Des érudits ont attesté que les pharisiens et les scribes étaient associés à des positions de premier plan dans la société juive, à partir des années 200 av. JC à l’an 100 ap. JC. Ces deux groupes étaient les dirigeants lettrés et érudits de la nation, vivant dans diverses régions du pays. (Voir Anthony J. Saldarini, Pharisees, Scribes and Sadducees in Palestinian Society [Grand Rapids, MI: Eerdmans, 2001], pp. 4, 40 et 52.) Dans un certain sens, les scribes et les pharisiens représentaient le secteur des érudits de leur temps.
+
+Michelle Lee-Barnewall souligne: « Les pharisiens sont peut-être issus des Hasidéens, ayant leurs liens avec les scribes comme étant ceux qui mettaient l’accent sur l’étude de la loi et l’obéissance aux commandements. » (Lee-Barnewall, “Pharisees, Sadducees, and Essenes,” in The World of the New Testament: Cultural, Social, and Historical Contexts, ed. Joel B. Green and Lee Martin McDonald, Grand Rapids, MI: Baker Academic, 2013, p. 218.)
+
+Flavius Josèphe décrit l’influence de ces groupes d’érudits et la pression qu’ils exerçaient dans leur société par rapport aux traditions entourant la Torah. « Les pharisiens avaient transmis au peuple un grand nombre d’observances par succession de leurs pères, qui ne sont pas écrites dans la loi de Moïse; et c’est pour cette raison que les Saducéens les rejettent et disent que nous devons considérer comme obligatoires les observances qui sont dans la Parole écrite, mais que nous ne devons pas observer ce qui est dérivé de la tradition de nos ancêtres. » (The Works of Josephus, Peabody, MA: Hendrickson, 1987, p. 355). La Mishna révèle également certaines tensions qui existaient par rapport à l’enseignement des scribes. Par exemple, Sanhédrin 11:3 implique que les enseignants mettaient davantage l’accent sur les traditions plutôt que sur la Torah. « Il y a une plus grande rigueur en ce qui concerne les interprétations rabbiniques traditionnelles de la Torah qu’en ce qui concerne les questions de la Torah » (Sanhédrin 11:3). Les scribes sont aussi décrits comme des « docteurs de la loi » (comparez à Mt 22:35); en d’autres termes, ils sont des « experts de la loi mosaïque. »
+
+La question est de savoir pourquoi les pharisiens et les scribes étaient en collision permanente avec Jésus. Ou, pourquoi défiait-Il ces enseignants? Saldarini souligne que « la connaissance qu’avaient les pharisiens de la loi et des traditions juives, acceptées par le peuple, [était] la base de leur statut social. On peut supposer que les scribes et les sacrificateurs avaient aussi de l’influence sur une partie du peuple. » (Saldarini, Pharisees, Scribes and Sadducees in Palestinian Society, Grand Rapids, MI/Cambridge, Royaume-Uni: Eerdmans/Dove, 2001, p. 33.)
+
+Matthieu 23 donne une explication claire de la raison pour laquelle Jésus faisait des reproches aux chefs religieux de Son temps: « Les scribes et les pharisiens sont assis dans la chaire de Moïse. Faites donc et observez tout ce qu’ils vous disent; mais n’agissez pas selon leurs œuvres. Car ils disent, et ne font pas » (Mt 23:2, 3). Contrairement à leur hypocrisie, Jésus était un pratiquant des principes qu’Il enseignait. C’est pour cette raison qu’Il était un enseignant avec une grande autorité, pas comme les scribes. Les pharisiens et les scribes, au contraire, étaient des hypocrites; ils ne pratiquaient pas ce qu’ils professaient ou enseignaient. Comme nous l’avons appris de notre étude du premier chapitre, Marc met en évidence Jésus, non seulement comme quelqu’un qui enseigne et prêche l’évangile de Dieu, mais aussi comme Celui qui le personnifie, c’est-à-dire qu’Il l’incarne. Dans Sa vie, Jésus cherchait à alléger le fardeau de la maladie et du péché qui pesaient sur les gens et à les libérer du poids écrasant du fardeau des traditions.
+
+**Les questions sur lesquelles portaient les polémiques**
+
+D’autres incidents dans l’Évangile de Marc révèlent également d’autres tensions entre Jésus et les chefs religieux. Le premier incident concerne le paralytique, qui avait été descendu en présence de Jésus par quatre hommes (Mc 2:3-12). Marc 2:5 dit: « Jésus, voyant leur foi, dit au paralytique: Mon enfant, tes péchés sont pardonnés » (LSG). Conformément à la conception pragmatique de l’évangile que Marc utilise, la foi est l’action. Jésus avait reconnu et honoré la foi des quatre amis du paralytique, qui, dans leurs actions d’agir selon leur croyance, avaient amené leur ami à la seule personne qui pouvait l’aider.
+
+La polémique majeure dans ce récit est l’autorité de Jésus à pardonner les péchés. Ce qui dérangeait les scribes, ce n’était pas seulement le fait que Jésus pardonnât les péchés, mais qu’Il le fît dans la puissance et l’autorité de Son nom. Par conséquent, cette action fut décrite par les scribes comme une présomption blasphématoire. « Dans un contexte où seul Dieu était considéré comme capable de pardonner les péchés (Mc 2:7; cf. Lc 7:49), Jésus fit la même chose... Jésus était accusé de blasphème non pas parce qu’Il prétendait directement être Dieu ou qu’Il prononçait le nom sacré de Dieu, mais parce qu’Il avait agi comme Dieu. » (Robert H. Stein, Mark, Baker Exegetical Commentary on the New Testament (Grand Rapids, MI: Baker Academic, 2008), p. 119.)
+
+Jésus souligna clairement qu’en tant que Fils de l’homme, le Divin sur la terre, Il a le pouvoir de pardonner les péchés (Mc 2:10). L’auteur de l’Évangile insiste sur un détail important: contrairement aux scribes, les gens avaient reconnu que la restauration du paralytique, y compris le pardon de ses péchés, était un acte divin. « …ils étaient tous dans l’étonnement et glorifiaient Dieu » (Mc 2:12).
+
+Dans le chapitre suivant, les scribes avaient engagé une nouvelle discussion concernant Jésus et Son autorité ou Son pouvoir de délivrer et de restaurer les démoniaques. Les chefs religieux prétendaient que Jésus « est possédé de Béelzébul » et que « c’est par le prince des démons qu’il chasse les démons » (Mc 3:22).
+
+Malheureusement, les scribes ne reconnaissaient pas l’œuvre de Jésus comme étant d’origine divine. Au contraire, ils attribuaient Ses œuvres à la puissancedes démons. À cause de cette accusation malveillante et erronée, Jésus défendit Ses actions comme étant l’œuvre du Saint-Esprit. De plus, Jésus accusa les scribes de blasphème contre le Saint-Esprit. Leur conception erronée de l’œuvre de Jésus les avait rendus « coupables d’un péché éternel » (Mc 3:29), « c’est-à-dire, d’un péché aux conséquences infinies... Le péché impardonnable est le refus obstiné de reconnaitre que Dieu est à l’œuvre ou avait œuvré en Jésus. » Malheureusement, selon l’auteur James A. Brooks, leur refus obstiné « n’était pas un acte unique, mais une action et une attitude habituelles. » L’imparfait [hoti elegon, 3:30] pourrait être traduit par « Ils continuaient de dire ». (Brooks, Mark, The New American Commentary, Nashville, Broadman & Holman Publishers, 1991, vol. 23, p. 76.)
+
+### IIIe Partie: Application
+
+En plus de l’incompréhension du Fils de Dieu par les pharisiens et les scribes, Jésus était également mal compris par les membres mêmes de Sa propre famille; c’est-àdire, Ses frères. Ellen G. White écrit dans _Jésus-Christ_ à propos des frères de Jésus: « Ses frères lui demandaient de faire quelques concessions à leurs idées, ce qui eût été incompatible avec sa mission divine… ils pensaient qu’il aurait dû n’enseigner que ce qui plaisait aux scribes et aux pharisiens, évitant ainsi de désagréables controverses. Ils estimaient qu’il était hors de sens en revendiquant une autorité divine et en s’établissant en qualité de censeur au-dessus des rabbins… Tout ceci lui faisait un sentier plein d’épines. L’incompréhension qu’il rencontrait chez les siens lui était si douloureuse qu’il trouvait du soulagement à se diriger où il n’avait pas à la ressentir » Jésus-Christ, pp. 316, 317. Dans le paragraphe suivant, Ellen G. White nous lance un appel: « Êtes-vous appelés à souffrir pour l’amour du Christ, à supporter l’incompréhension et la méfiance? consolez-vous en pensant que Jésus a fait la même expérience. Il a pitié de vous. Il vous invite à vous réfugier en sa compagnie, à trouver du réconfort là où il l’a trouvé luimême, dans la communion du Père. » Jésus-Christ, p. 317. Posez les questions suivantes aux membres de votre cellule: avez-vous été confronté à des conflits dans votre entourage ou parmi les membres de votre famille à cause de vos croyances? Si oui, en quoi l’idée que Jésus avait enduré la même chose vous réconforte-t-elle?
+
+` `

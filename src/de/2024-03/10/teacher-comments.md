@@ -1,0 +1,7 @@
+---
+title: Lehrerteil 
+date: 06/09/2024 
+---
+
+### <center>Wir arbeiten noch an dieser Lektion.</center>
+<center>Bitte komme später zurück.</center>

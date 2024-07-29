@@ -1,0 +1,63 @@
+---
+title:  Auxiliar
+date:  28/06/2024
+---
+
+**TEXTO-CHAVE:** Apocalipse 21:3, 4
+
+**FOCO DO ESTUDO:** Jr 30:5-7; Ap 3:10; Is 33:15, 16; Sl 91:1-11; Ap 1:7; Ap 19:11-16; Ap 20; Jr 25:33; Jr 4:23-28; Ap 21:1-4; Mt 8:11; Is 65:17, 22, 23; Ap 22:1-5, 11
+
+#### ESBOÇO
+
+**Introdução:** A lição desta semana encerra nosso estudo e destaca os acontecimentos finais na guerra cósmica entre Deus e Satanás. Entre os eventos notáveis que ocorrem no auge do grande conflito estão: (1) o tempo de angústia; (2) a segunda vinda de Jesus; (3) o juízo executivo no Céu durante o milênio, com um resumo dos eventos terrenos e celestiais daquela época; e (4) a restauração de todas as coisas para a eternidade. A Bíblia promete que o grande conflito terminará com a vitória de Deus. A Palavra de Deus nos convida a depositar nossa confiança Nele, a colaborar com Ele na redenção de tantas pessoas quanto possível e a compartilhar de Sua história passada (a cruz), presente (salvação individual e experiência coletiva, na igreja) e vitória futura (o desfecho cósmico).
+
+**Temas da lição:** O estudo desta semana reuniu quatro temas que se relacionam:
+
+1. O próprio Deus manterá e protegerá Seu povo durante as partes mais brutais da batalha final do grande conflito.
+2. O grande conflito terminará com a vitória de Deus sobre o diabo, sobre o mal e o pecado, e sobre o sofrimento e a morte. Essa tríplice vitória é garantida porque já foi assegurada por Cristo por meio de Sua morte e ressurreição.
+3. Compartilhamos da vitória de Deus quando a aceitamos pela fé e permitimos que o Espírito Santo opere em nós.
+4. A vitória de Deus culminará na segunda vinda de Jesus, no juízo milenar e na restauração de todas as coisas.
+
+#### COMENTÁRIO
+
+**O fechamento da porta da graça**
+
+O fechamento da porta da graça é um assunto que muitas vezes provoca medo em muitas pessoas. O tempo de graça termina para cada indivíduo em sua morte. Ou seja, a janela de oportunidade para que ele responda à graça de Deus será fechada quando ele morrer. A postura adotada diante da graça manifestada por Deus terá implicações eternas. O Senhor é justo e tratará o caso de cada indivíduo de acordo com a luz que recebeu; mas nossa resposta individual é decisivamente importante.
+
+No entanto, os adventistas entendem pelas Escrituras que, além do fechamento da porta da graça na morte de alguém, haverá um momento na história do grande conflito em que Deus declarará que terminou o tempo em que as pessoas podem aceitar Sua graça perdoadora a fim de serem salvas. Essa ocasião marcará o limite irrevogável, após o qual nenhuma salvação será possível. O mundo então viverá sob o pronunciamento que o livro de Apocalipse registra: “Continue o injusto a praticar injustiça; continue o imundo na imundícia; continue o justo a praticar justiça; e continue o santo a santificar-se” (Ap 22:11, NVI). Verdadeiramente preocupados com sua salvação, muitos cristãos e adventistas fazem perguntas como: E se o momento do fechamento da porta da graça me pegar desprevenido ou desatento? E se eu não estiver completamente pronto naquele momento?
+
+Precisamos deixar aqui pelo menos dois pontos bem esclarecidos.
+
+Primeiro, o fechamento da porta da graça é real e acontecerá. Os enganos, intrigas e maldades do diabo não continuarão para sempre. O pecado, o sofrimento e a morte não nos dominarão eternamente. Eternizar o diabo, o mal e a morte significaria dizer que o Criador não é um Deus de amor e justiça. Mas porque Ele é, acabará com as fontes e forças do mal. O Senhor esperou pacientemente e deu todas as oportunidades aos seres humanos para testar Suas promessas, para conhecê-Lo e retornar a Ele e ao Seu reino de graça. Imagine o quanto Deus teria amado que toda a humanidade aceitasse Seu evangelho! Mas haverá um momento em que Ele deverá dizer: “Basta, está terminado”.
+
+Um segundo ponto é que Deus não retirará Seu dom de graça mantenedora de Seu povo, mesmo que retire Sua misericórdia e graça perdoadora daqueles que permanecerem impenitentes no fechamento da porta da graça. Esse ponto é de extrema relevância: o fechamento da porta da graça não significa que o amor e a graça de Deus pela humanidade atingiram um limite ou se esgotou. O Senhor nunca deixa de ser o Deus de amor, justiça e graça descrito na Bíblia. É por essa razão que, após o fechamento da porta da graça, não haverá mais ninguém que sinceramente deseje receber a graça de Deus e que tenha respondido com fé à Sua misericórdia, a quem Ele diria: “Lamento, é tarde demais. Eu queria tê-lo salvado, mas o tempo de graça terminou”.
+
+O fechamento da porta da graça de Deus será Sua confirmação de que cada indivíduo tomou sua decisão final sobre Sua graça e Seu reino. Em um momento futuro da história, o cenário histórico do mundo será tal que todos os habitantes da Terra tomarão essa decisão final e ficarão do lado de Deus ou de Satanás. No entanto, essa decisão não será tomada no impulso do momento. Em vez disso, em relação à eternidade, cada um decidirá com base em sua liberdade de escolha, tendo plena consciência das consequências. Assim como o norte de Israel e Judá quando rejeitaram a aliança de Deus e o Messias, alguns decidirão que não querem estar com o Deus da Bíblia. Outros concordarão com a mentira de Lúcifer de que eles são deuses e imortais, afinal, não apreciam a ideia de estar com Deus em Seu reino. O Senhor Se entristece com essas decisões inalteráveis; Ele apresentou todas as evidências e o amor necessários para salvá-los, mas respeitará sua escolha final. Outros, porém, decidem aceitar a graça de Deus porque O amam e querem ficar com Ele para sempre.
+
+Além disso, é importante ressaltar que o fechamento da porta da graça não significa que, após esse momento, o povo fiel de Deus ficará desprovido de Sua presença, de Sua graça e da Sua justiça que os cobre. Cristo nos assegurou que Ele estará conosco “até o fim dos tempos” (Mt 28:20, NVI). A capacitação do Espírito Santo, que receberemos no alto clamor, não será removida de nós. Todo o povo de Deus, desde Adão e Abel até Abraão, Moisés, Davi, Isaías, Paulo e até o último cristão selado antes do fechamento da porta da graça, alcançará a salvação única e exclusivamente por meio da justiça e intermediação de Cristo, mediante a fé. Assim, a ideia de que alguns cristãos no fim dos tempos resistirão por seus próprios méritos e poder não é bíblica.
+
+**O novo céu e a nova Terra na Bíblia**
+
+Os cristãos geralmente falam e cantam sobre o Céu como o lugar de seu destino final e descanso eterno. No entanto, devemos manter a compreensão bíblica do Céu e evitar cair em visões pagãs ou filosóficas sobre o paraíso. De acordo com muitas cosmovisões, como as filosofias grega, hindu ou budista, o Céu é uma suposta esfera transcendente, atemporal e sem espaço que apenas uma mente ou alma humana desencarnada poderia alcançar. Na filosofia grega, a mente humana que atinge o Céu de alguma forma mantém sua identidade e consciência. De acordo com o hinduísmo, budismo e neoplatonismo, a consciência humana que alcança o Céu deve desaparecer dissolvendo-se na consciência universal.
+
+Como resultado da influência da filosofia grega clássica no cristianismo tradicional, a maioria dos cristãos agora acredita na imortalidade da alma e em um Céu espiritual, em oposição a um Céu material. Esses cristãos não percebem que tais conceitos filosóficos criam contradições irreconciliáveis em sua teologia e em sua vida. Por um lado, ao pensar sobre a morte e o Céu, os cristãos tradicionais raciocinam em termos filosóficos gregos: na morte, a alma imortal vai para um reino transcendente, atemporal e sem espaço, chamado inferno ou Céu. Em outra perspectiva, esses mesmos cristãos acreditam no ensino bíblico extremamente claro da ressurreição do corpo. _No entanto, eles não percebem que a imortalidade da alma e a ressurreição do corpo são simplesmente incompatíveis e geram inúmeras inconsistências._
+
+Se nossa alma é imortal e está no Céu com Deus, por que ressuscitar o corpo? Sob tais circunstâncias, a ressurreição do corpo implicaria que a alma deixaria o reino espiritual do Céu e entraria novamente na esfera material, temporal e espacial. Mesmo assim, se apenas a alma for imortal, devemos nos perguntar: A ressurreição do corpo será permanente? _O corpo agora também será eterno?_
+
+Os ensinamentos bíblicos sobre a natureza humana e a ressurreição eliminam todas essas inconsistências e problemas. Primeiramente, o ensino bíblico da natureza humana integral indica que os seres humanos não possuem uma alma imortal, mas são seres vivos complexos, indivisíveis e integrados. Em Seu retorno, Jesus ressuscitará todo o ser humano. Em segundo lugar, o ensino bíblico da natureza da humanidade rejeita o dualismo grego e seu conceito de que o Céu é uma esfera divina, transcendente, atemporal e imaterial.
+
+De acordo com a Bíblia, na morte nosso ser não é dividido. Não vivemos como uma alma etérea ou uma alma que transita, totalmente consciente, para um estado de transcendência além do Universo criado. Quando morremos, todo o nosso ser morre. No entanto, quando Cristo voltar, Ele ressuscitará todo o nosso ser e nos acolherá em Seu reino real, histórico, temporal e espacial. Sim, na segunda vinda de Cristo viajaremos com Ele para o trono de Deus, para o santuário celestial, em algum lugar no centro do Universo. Mas essa viagem ocorrerá no Universo temporal e espacial, o que significa que viajaremos no espaço e no tempo. Jamais iremos além do Universo. Na verdade, nenhum ser criado jamais será transcendente porque somente Deus é transcendente ou está além do Universo criado. Querer alcançar o transcendente equivale a desejar ser Deus.
+
+O juízo milenar no Céu também será um evento histórico que ocorrerá no espaço e no tempo, dentro do santuário celestial de Deus diante de Seu trono, que também está localizado em um lugar no centro do Universo. Depois do juízo, voltaremos à Terra. Após o juízo executivo de Deus contra o diabo e o resto dos rebeldes, Deus restaurará nosso planeta à sua beleza e perfeição originais. A nova Terra será o nosso lar. Lá viveremos como originalmente pretendíamos viver antes da queda: cheirando flores, cultivando um jardim, estudando uma folha, brincando com um leão, encontrando redimidos de todas as idades, bem como anjos e outros seres criados, e interagindo com eles. Um ponto ainda mais importante é que desfrutaremos o privilégio da comunhão face a face com Deus e iremos adorá-Lo pessoalmente. A Terra e o Universo serão reconciliados e serão trazidos de volta à harmonia e unidade que existiam antes da queda. Seremos capazes de viajar livremente por todo o Universo. A impossibilidade atual de viajarmos ao Céu não decorre de limitações temporais, espaciais, materiais ou de velocidade, mas é uma consequência do pecado. Quando o grande conflito finalmente terminar e o pecado for removido de uma vez por todas, a nova (renovada) Terra será integrada ao Céu, e então se cumprirá a mais preciosa das promessas da Bíblia: uma nova Terra e um novo Céu.
+
+#### APLICAÇÃO PARA A VIDA
+
+`1. Existem pessoas em sua congregação que têm medo de falar sobre os eventos finais? Você é uma delas? Como você as ajudaria a superar esse medo? De que maneira você e sua comunidade poderiam comunicar nossa mensagem bíblica como um anúncio de esperança, em contraste com a deturpada versão cinematográfica de Hollywood sobre um mundo pós-apocalíptico de terror? Ao mesmo tempo, como podemos abordar de maneira realista muitos dos aspectos mais sombrios do grande conflito, como a perseguição religiosa e o período de angústia?`
+
+`2. As pessoas em sua cultura acreditam no retorno de uma divindade ou de um grande guru? O que essa crença nos diz sobre a esperança da humanidade pelo retorno de um salvador advindo do “além”? Como você compartilharia a esperança da segunda vinda de Jesus Cristo com tal público? Quais pontos você enfatizaria?`
+
+`3. Alguns cristãos ou pessoas seculares acreditam que a segunda vinda de Cristo é meramente um símbolo de uma profunda transformação moral do indivíduo humano ou da sociedade. Como você explicaria a essas pessoas que a vinda de Cristo será um evento literal, visível e audível, no qual o próprio Jesus entrará pessoalmente em nossa história, tempo e espaço?`
+
+`4. O que as pessoas de sua cultura pensam sobre o Céu? Em comparação com as Escrituras, o que há de problemático nos pontos de vista populares sobre o Céu? Como você compartilharia com sua comunidade a descrição bíblica do Céu? Quais aspectos das perspectivas bíblicas sobre o Céu teriam um apelo especial para as pessoas da sua cultura?`
+
+`Notas`
