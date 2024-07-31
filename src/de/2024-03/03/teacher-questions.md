@@ -104,12 +104,5 @@ date:   19/07/2024
 -   V35: Wie definiert Jesus seine Familie?
     -   Wie kann die Gemeinde zu einer echten Familie werden
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

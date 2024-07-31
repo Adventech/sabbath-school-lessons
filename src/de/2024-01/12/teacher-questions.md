@@ -70,12 +70,5 @@ inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/12/10-gespr%C
 ```{=html}
 </center>
 ```
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

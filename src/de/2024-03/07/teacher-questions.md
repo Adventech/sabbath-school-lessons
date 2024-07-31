@@ -127,12 +127,5 @@ der Herrlichkeit seines Vaters mit den heiligen Engeln.\"*
 
 === DIENSTAG =
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

@@ -127,16 +127,7 @@ ihr volles Vertrauen auf ihn setzen und ihm treu gehorchen. (WAB 472)
 <center>
 ```
 [Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/04/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
+inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/04/10-gespr%C3%A4chsfragen-sabbatschulwiki/)\</center
 
-```{=html}
-</center
-
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

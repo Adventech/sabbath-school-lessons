@@ -84,12 +84,5 @@ Markus betont die menschliche Seite von Jesus: Er ist Held, Wundertäter.
 Die Taten Jesu stehen im Vordergrund. Er ist der Messias aufgrund seiner
 Taten
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

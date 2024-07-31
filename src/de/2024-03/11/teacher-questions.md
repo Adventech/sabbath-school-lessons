@@ -75,12 +75,5 @@ date:   13/09/2024
     Bedeutung des Abendmahls in unserer Kirche noch besser zur Geltung
     bringen?
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```
