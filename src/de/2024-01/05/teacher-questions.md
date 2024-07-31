@@ -203,12 +203,5 @@ herauszufordern.\"* (Erhard Blanck)
 
 \<br /
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```
