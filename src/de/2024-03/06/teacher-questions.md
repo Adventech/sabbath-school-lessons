@@ -99,12 +99,5 @@ date:   09/08/2024
         herzliche Beziehung mit Jesus?
     -   Was hilft bei Beziehungspflege?
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

@@ -100,12 +100,5 @@ date:   06/09/2024
 -   Und wie bleiben wir glaubwürdig -- das Ende ist ja noch nicht
     gekommen
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

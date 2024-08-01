@@ -69,12 +69,5 @@ date:   23/08/2024
     gestaltet, dass er Gebet erwartet, bevor er eingreift -- obwohl er
     doch genau weiß, was wir brauchen (Mt 6,7-8)
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```

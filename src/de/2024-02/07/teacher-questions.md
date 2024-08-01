@@ -289,12 +289,5 @@ wird, der 1335 Tage erreicht.
 
 \<br /
 
-```{=html}
-<center>
-```
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
-
-```{=html}
-</center>
-```
