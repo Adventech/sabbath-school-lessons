@@ -83,7 +83,14 @@ sie niemandem von ihm sagen sollten.\"* 
 
 ### MONTAG
 
-**Markus 8,31-33:**
+**Markus 8,31-33:** *\"Und er fing an, sie zu lehren: Der Menschensohn
+muss viel leiden und verworfen werden von den Ältesten und den
+Hohenpriestern und den Schriftgelehrten und getötet werden und nach drei
+Tagen auferstehen. 32 Und er redete das Wort frei und offen. Und Petrus
+nahm ihn beiseite und fing an, ihm zu wehren. 33 Er aber wandte sich um,
+sah seine Jünger an und bedrohte Petrus und sprach: Geh hinter mich, du
+Satan! Denn du meinst nicht, was göttlich, sondern was menschlich
+ist.\"* 
 
 -   Wie ist diese Sicht des Petrus zu erklären? Was ist angesichts
     seiner Aussage von dem Bekenntnis, Jesus sei der Messias und Sohn
@@ -125,7 +132,168 @@ der Herrlichkeit seines Vaters mit den heiligen Engeln.\"*
     Nachfolge dann doch einen Preis? Liegt hier quasi ein \"doppelter
     Boden\" vor?
 
-=== DIENSTAG =
+### DIENSTAG
+
+**Markus 9,1-13:** *\"Und er sprach zu ihnen: Wahrlich, ich sage euch:
+Es stehen einige hier, die werden den Tod nicht schmecken, bis sie sehen
+das Reich Gottes kommen mit Kraft.2 Und nach sechs Tagen nahm Jesus mit
+sich Petrus, Jakobus und Johannes und führte sie auf einen hohen Berg,
+nur sie allein. Und er wurde vor ihnen verklärt; 3 und seine Kleider
+wurden hell und sehr weiß, wie sie kein Bleicher auf Erden so weiß
+machen kann. 4 Und es erschien ihnen Elia mit Mose, und sie redeten mit
+Jesus. 5 Und Petrus antwortete und sprach zu Jesus: Rabbi, hier ist für
+uns gut sein; wir wollen drei Hütten bauen, dir eine, Mose eine und Elia
+eine. 6 Er wusste aber nicht, was er redete; denn sie waren verstört. 7
+Und es kam eine Wolke, die überschattete sie. Und eine Stimme geschah
+aus der Wolke: Das ist mein lieber Sohn; den sollt ihr hören! 8 Und auf
+einmal, als sie um sich blickten, sahen sie niemand mehr bei sich als
+Jesus allein. 9 Als sie aber vom Berg herabgingen, gebot ihnen Jesus,
+dass sie niemandem sagen sollten, was sie gesehen hatten, bis der
+Menschensohn auferstünde von den Toten. 10 Und sie behielten das Wort
+und befragten sich untereinander: Was ist das, auferstehen von den
+Toten? 11 Und sie fragten ihn und sprachen: Sagen nicht die
+Schriftgelehrten, dass zuvor Elia kommen muss? 12 Er aber sprach zu
+ihnen: Elia soll ja zuvor kommen und alles wieder zurechtbringen. Wie
+steht dann geschrieben von dem Menschensohn, dass er viel leiden und
+verachtet werden soll? 13 Aber ich sage euch: Elia ist gekommen, und sie
+haben ihm angetan, was sie wollten, wie von ihm geschrieben steht.\"*
+
+**Parallelstelle Lukas 9,30.31**: *\"Und siehe, zwei Männer redeten mit
+ihm; das waren Mose und Elia. 31 Die erschienen in himmlischer Klarheit
+und redeten von seinem Ende, das er in Jerusalem erfüllen sollte.\"*
+
+-   Wie ist die Anweisung Jesu zu verstehen, dass die drei Jünger erst
+    **nach seiner Auferstehung** über das Geschehen am Verklärungsberg
+    sprechen sollten? Wäre es nicht angemessen gewesen, zumindest den
+    anderen Jüngern darüber zu berichten?
+-   Wie ist es zu erklären, dass die drei Jünger von dem, was da geredet
+    wurde (laut Parallelstelle in Lukas war es Jesu Tod am Kreuz und
+    damit der Erlösungsplan), praktisch nichts verstanden haben?
+-   Warum ist das Wesen der Erlösung für uns Menschen trotz (oder gerade
+    wegen?) seiner Einfachheit manchmal so schwer zu verstehen?
+
+**Markus 9,14-29:** *\"Und sie kamen zu den Jüngern und sahen eine große
+Menge um sie herum und Schriftgelehrte, die mit ihnen stritten. 15 Und
+sobald die Menge ihn sah, entsetzten sich alle, liefen herbei und
+grüßten ihn. 16 Und er fragte sie: Was streitet ihr mit ihnen? 17 Einer
+aber aus der Menge antwortete: Meister, ich habe meinen Sohn hergebracht
+zu dir, der hat einen sprachlosen Geist. 18 Und wo er ihn erwischt,
+reißt er ihn zu Boden; und er hat Schaum vor dem Mund und knirscht mit
+den Zähnen und wird starr. Und ich habe mit deinen Jüngern geredet, dass
+sie ihn austreiben sollen, und sie konnten's nicht. 19 Er antwortete
+ihnen aber und sprach: O du ungläubiges Geschlecht, wie lange soll ich
+bei euch sein? Wie lange soll ich euch ertragen? Bringt ihn her zu
+mir! 20 Und sie brachten ihn zu ihm. Und sogleich, als ihn der Geist
+sah, riss er ihn hin und her. Und er fiel auf die Erde, wälzte sich und
+hatte Schaum vor dem Mund. 21 Und Jesus fragte seinen Vater: Wie lange
+ist's, dass ihm das widerfährt? Er sprach: Von Kind auf. 22 Und oft hat
+er ihn ins Feuer und ins Wasser geworfen, dass er ihn umbrächte.
+`<u>`{=html}Wenn du aber etwas kannst, so erbarme dich unser und hilf
+uns! 23 Jesus aber sprach zu ihm: Du sagst: Wenn du kannst! Alle Dinge
+sind möglich dem, der da glaubt. 24 Sogleich schrie der Vater des
+Kindes: **Ich glaube; hilf meinem Unglauben!**`</u>`{=html} 25 Als nun
+Jesus sah, dass die Menge zusammenlief, bedrohte er den unreinen Geist
+und sprach zu ihm: Du sprachloser und tauber Geist, ich gebiete dir:
+Fahre von ihm aus und fahre nicht mehr in ihn hinein! 26 Da schrie er
+und riss ihn heftig hin und her und fuhr aus. Und er lag da wie tot,
+sodass alle sagten: Er ist tot. 27 Jesus aber ergriff seine Hand und
+richtete ihn auf, und er stand auf. 28 Und als er ins Haus kam, fragten
+ihn seine Jünger für sich allein: Warum konnten wir ihn nicht
+austreiben? 29 Und er sprach: Diese Art kann durch nichts ausfahren als
+durch Beten.\"* 
+
+-   Warum konnten die Jünger, die davor (siehe Markus 6) von Jesus
+    ausgesandt worden waren und dabei viele Dämonen ausgetrieben hatten,
+    das plötzlich nicht mehr?
+    -   Inwiefern teilen die drei, die am Verklärungsberg dabei waren
+        den Unglauben mit dem Rest der Jünger? Denn Jesus wirft ihnen ja
+        vor, ein \"ungläubiges Geschlecht\" zu sein.
+        -   Worin bestand der Unglaube der \"Drei vom Berg\"?
+        -   Worin bestand der Unglaube jener am Fuß des Berges?
+-   Was lehrt uns das über das Auf und Ab im Glaubensleben?
+-   Wann dürfen auch wir ausrufen bzw. beten: \"Ich glaube, hilf meinem
+    Unglauben?\"
+
+### MITTWOCH
+
+**Markus 9,30-37:** *\"Und sie gingen von dort weg und zogen durch
+Galiläa; und er wollte nicht, dass es jemand wissen sollte. 31 Denn er
+lehrte seine Jünger und sprach zu ihnen: Der Menschensohn wird
+überantwortet werden in die Hände der Menschen, und sie werden ihn
+töten; und wenn er getötet ist, so wird er nach drei Tagen
+auferstehen. 32 Sie aber verstanden das Wort nicht und fürchteten sich,
+ihn zu fragen. Und sie kamen nach Kapernaum. Und als er im Haus war,
+fragte er sie: Was habt ihr auf dem Weg besprochen? 34 Sie aber
+schwiegen; denn sie hatten auf dem Weg miteinander besprochen, wer der
+Größte sei. 35 Und er setzte sich und rief die Zwölf und sprach zu
+ihnen: Wenn jemand will der Erste sein, der soll der Letzte sein von
+allen und aller Diener. 36 Und er nahm ein Kind, stellte es mitten unter
+sie und herzte es und sprach zu ihnen: 37 Wer ein solches Kind in meinem
+Namen aufnimmt, der nimmt mich auf; und wer mich aufnimmt, der nimmt
+nicht mich auf, sondern den, der mich gesandt hat.*
+
+**ZITAT:** *\"Es gibt ein Übel, ohne das die meisten Menschen sich nicht
+wohlfühlen: den Größenwahn.\"* (Emanuel Wertheimer)
+
+-   Inwiefern haben wir alle den Drang in uns, \"der Größte zu sein\"?
+    -   Wie kann sich dieser Drang äußern?
+-   In welcher Hinsicht kommt dieser Drang gerade auch innerhalb von
+    Kirchen zum Ausdruck bzw. zum Ausbruch?
+    -   Warum bietet gerade eine Gemeinde oft (wohlgemerkt: ohne das
+        dies ihre Schuld ist!) eine so gute Projektionsfläche für den
+        Größenwahn mancher ihrer Glieder?
+-   Was könnten wir dagegen tun?
+
+**Markus 9,38-40:** \"*Johannes sprach zu ihm: Meister, wir sahen einen,
+der trieb Dämonen in deinem Namen aus, und wir verboten's ihm, weil er
+uns nicht nachfolgt. 39 Jesus aber sprach: Ihr sollt's ihm nicht
+verbieten. Denn niemand, der ein Wunder tut in meinem Namen, kann so
+bald übel von mir reden. 40 Denn wer nicht gegen uns ist, der ist für
+uns. 41 Denn wer euch einen Becher Wasser zu trinken gibt deshalb, weil
+ihr Christus angehört, wahrlich, ich sage euch: Er wird nicht um seinen
+Lohn kommen.\"* 
+
+-   Diese kurze Begebenheit ist gleichwohl sehr eindrücklich. Was mag
+    der Beweggrund der Jünger für ihr Verbot gewesen sein?
+    -   **Kann es Zufall sein, dass dies gerade hier berichtet wird,
+        nachdem vorher die Jünger diskutierten, wer der Größte unter
+        ihnen sei?**
+        -   Inwiefern ging es hier auch um genau diese Frage?
+-   Welchen Standpunkt vertritt Jesus in seiner Antwort?
+-   Hier drängt sich geradezu eine Frage auf, auch wenn manche STA sie
+    vielleicht nicht gerne hören wollen: Was sollte uns das lehren in
+    unserem Verhältnis zu anderen christlichen Denominationen?
+    -   Kann es vor dem Hintergrund dieser Textstelle wirklich falsch
+        sein, wenn man glaubt, dass nicht nur wir als STA die Welt mit
+        der Botschaft Jesus bekanntmachen, sondern dass daran auch
+        andere christliche Denominationen ihren Anteil haben? Begründet
+        eure Ansicht!
+
+### DONNERSTAG
+
+**Markus 9,42-50:** *\"Und wer einen dieser Kleinen, die an mich
+glauben, zum Bösen verführt, für den wäre es besser, dass ihm ein
+Mühlstein um den Hals gehängt und er ins Meer geworfen würde. 43-44 Wenn
+dich aber deine Hand verführt, so haue sie ab! Es ist besser für dich,
+dass du verkrüppelt zum Leben eingehst, als dass du zwei Hände hast und
+fährst in die Hölle, in das Feuer, das nie verlöscht. 45-46 Und wenn
+dich dein Fuß verführt, so haue ihn ab! Es ist besser für dich, dass du
+lahm zum Leben eingehst, als dass du zwei Füße hast und wirst in die
+Hölle geworfen. 47 Und wenn dich dein Auge verführt, so wirf's von dir!
+Es ist besser für dich, dass du einäugig in das Reich Gottes eingehst,
+als dass du zwei Augen hast und wirst in die Hölle geworfen, 48 wo ihr
+Wurm nicht stirbt und das Feuer nicht verlöscht. 49 Denn jeder wird mit
+Feuer gesalzen werden. 50 Das Salz ist gut; wenn aber das Salz nicht
+mehr salzt, womit werdet ihr's würzen? Habt Salz bei euch und habt
+Frieden untereinander!\"*
+
+-   Was genau ist das, wozu Hand, Fuß oder Auge verführen können?
+    -   Nenn Jesus rein zufällig diese drei Teile des Körpers oder
+        stellen sie eine bewusst gewählte Allegorie dar?
+        -   Wenn ja, wofür könnten sei stehen?
+-   Was kann uns vom Reich Gottes abhalten? Was kann uns veranlassen,
+    das Geschenk des ewigen Lebens (das uns Jesus mit seiner
+    Erlösungstat macht) aus der Hand zu geben
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 <https://wiki.sabbatschule.at>
