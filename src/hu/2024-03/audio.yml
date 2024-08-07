@@ -94,3 +94,5 @@
           target: hu/2024-03/07/03
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240813.mp3
           target: hu/2024-03/07/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20240814.mp3
+          target: hu/2024-03/07/05
