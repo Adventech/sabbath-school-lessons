@@ -125,7 +125,7 @@ der Herrlichkeit seines Vaters mit den heiligen Engeln.\"*
     gewinnen\"?
 -   Viele werfen den Religionen ja vor, sie würden im Diesseits der
     herrschenden Klasse nur dazu dienen, das Volk nieder und ruhig zu
-    halten durch die Vertröstung auf eine besseres Jenseits. So wird ja
+    halten durch die Vertröstung auf ein besseres Jenseits. So wird ja
     Karl Marx der Ausspruch zugeschrieben, Religion sei Opium für das
     Volk. Was würdet ihr darauf entgegnen?
 -   Wenn die Erlösung ja ein freies Gnadengeschenk ist, warum hat
