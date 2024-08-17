@@ -21,8 +21,8 @@ jobs:
       - name: Split video-links
         run: split -l 14 video-links.txt split_video_links_
       - run: |
-          if [ -f "split_video_links_aa" ]; then
-            sed -i '/^yt-dlp/ s/$/ --proxy="${{ secrets.PROXY }}"/' split_video_links_*
+          if [ -f "../split_video_links_aa" ]; then
+            sed -i '/^yt-dlp/ s/$/ --proxy="${{ secrets.PROXY }}"/' ../split_video_links_*
           fi
           test -f ../split_video_links_aa && for file in ../split_video_links_*; do
               echo "Processing $file..."
