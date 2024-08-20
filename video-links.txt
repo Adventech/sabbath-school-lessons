@@ -1,5 +1,5 @@
-yt-dlp "https://youtu.be/aYkX4iF_ZLo?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-03-08.mp4"
+yt-dlp "https://youtu.be/Su2VK0UQwZ0?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-03-08.mp4"
 
-yt-dlp "https://youtu.be/KgU5XKbokXM?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2024-03-08.mp4"
+yt-dlp "https://youtu.be/YzVIukNECO4?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2024-03-08.mp4"
 
-yt-dlp "https://youtu.be/Dyi4f0LOB0w?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-03-08.mp4"
+yt-dlp "https://youtu.be/XBezbp7fKcg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2024-03-08.mp4"
