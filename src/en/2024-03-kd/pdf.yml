@@ -1,0 +1,157 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L00.pdf'
+      target: en/2024-03-kd/introduction
+      title: Introduction
+      start_date: 29/06/2024
+      end_date: 29/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L01.pdf'
+      target: en/2024-03-kd/01
+      title: Hannah's Special Baby
+      start_date: 29/06/2024
+      end_date: 05/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L02.pdf'
+      target: en/2024-03-kd/02
+      title: Hannah's Gift to God
+      start_date: 06/07/2024
+      end_date: 12/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L03.pdf'
+      target: en/2024-03-kd/03
+      title: Ears to Hear
+      start_date: 13/07/2024
+      end_date: 19/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L04.pdf'
+      target: en/2024-03-kd/04
+      title: Samuel's Service
+      start_date: 20/07/2024
+      end_date: 26/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L05.pdf'
+      target: en/2024-03-kd/05
+      title: Birds to the Rescue
+      start_date: 27/07/2024
+      end_date: 02/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L06.pdf'
+      target: en/2024-03-kd/06
+      title: Miracle Oil
+      start_date: 03/08/2024
+      end_date: 09/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L07.pdf'
+      target: en/2024-03-kd/07
+      title: The Boy Is Alive!
+      start_date: 10/08/2024
+      end_date: 16/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L08.pdf'
+      target: en/2024-03-kd/08
+      title: Up, Up, and Away!
+      start_date: 17/08/2024
+      end_date: 23/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L09.pdf'
+      target: en/2024-03-kd/09
+      title: Never-ending Oil
+      start_date: 24/08/2024
+      end_date: 30/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L10.pdf'
+      target: en/2024-03-kd/10
+      title: Alive Again
+      start_date: 31/08/2024
+      end_date: 06/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L11.pdf'
+      target: en/2024-03-kd/11
+      title: Poison in the Pot
+      start_date: 07/09/2024
+      end_date: 13/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L12.pdf'
+      target: en/2024-03-kd/12
+      title: The Floating Axhead
+      start_date: 14/09/2024
+      end_date: 20/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-L13.pdf'
+      target: en/2024-03-kd/13
+      title: Angels All Around
+      start_date: 21/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2022/Q3/Kindergarten/Student/K-22-Q3-Activities.pdf'
+      target: en/2024-03-kd/activities
+      title: Activities
+      start_date: 27/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Student/K-24-Q3-MemoryVerses.pdf'
+      target: en/2024-03-kd/memory-verses
+      title: Memory Verses
+      start_date: 27/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-22-Q3-L00-T.pdf'
+      target: en/2024-03-kd/introduction
+      title: Teacher
+      start_date: 29/06/2024
+      end_date: 29/06/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L01-T.pdf'
+      target: en/2024-03-kd/01
+      title: Teacher
+      start_date: 29/06/2024
+      end_date: 05/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L02-T.pdf'
+      target: en/2024-03-kd/02
+      title: Teacher
+      start_date: 06/07/2024
+      end_date: 12/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L03-T.pdf'
+      target: en/2024-03-kd/03
+      title: Teacher
+      start_date: 13/07/2024
+      end_date: 19/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L04-T.pdf'
+      target: en/2024-03-kd/04
+      title: Teacher
+      start_date: 20/07/2024
+      end_date: 26/07/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L05-T.pdf'
+      target: en/2024-03-kd/05
+      title: Teacher
+      start_date: 27/07/2024
+      end_date: 02/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L06-T.pdf'
+      target: en/2024-03-kd/06
+      title: Teacher
+      start_date: 03/08/2024
+      end_date: 09/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L07-T.pdf'
+      target: en/2024-03-kd/07
+      title: Teacher
+      start_date: 10/08/2024
+      end_date: 16/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L08-T.pdf'
+      target: en/2024-03-kd/08
+      title: Teacher
+      start_date: 17/08/2024
+      end_date: 23/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L09-T.pdf'
+      target: en/2024-03-kd/09
+      title: Teacher
+      start_date: 24/08/2024
+      end_date: 30/08/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L10-T.pdf'
+      target: en/2024-03-kd/10
+      title: Teacher
+      start_date: 31/08/2024
+      end_date: 06/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L11-T.pdf'
+      target: en/2024-03-kd/11
+      title: Teacher
+      start_date: 07/09/2024
+      end_date: 13/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L12-T.pdf'
+      target: en/2024-03-kd/12
+      title: Teacher
+      start_date: 14/09/2024
+      end_date: 20/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/K-24-Q3-L13-T.pdf'
+      target: en/2024-03-kd/13
+      title: Teacher
+      start_date: 21/09/2024
+      end_date: 27/09/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2024/Q3/Kindergarten/Teacher/P-24-Q3-Activities-T.pdf'
+      target: en/2024-03-kd/activities
+      title: Teacher
+      start_date: 27/09/2024
+      end_date: 27/09/2024
