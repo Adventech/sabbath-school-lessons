@@ -1,4 +1,3 @@
-
 ---
 title: Lehrerteil  
 date: 30/08/2024
