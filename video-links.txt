@@ -1,3 +1,5 @@
+yt-dlp "https://youtu.be/vuAZlrQdxzs?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-03-10.mp4"
+
 yt-dlp "https://youtu.be/zr-ClCJkYsQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-03-10.mp4"
 
 yt-dlp "https://youtu.be/U9ZwTc9P75Q?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2024-03-10.mp4"
