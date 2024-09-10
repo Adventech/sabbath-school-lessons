@@ -1,0 +1,10 @@
+---
+title: Történet
+date: 12/07/2024
+---
+
+#### AZ ELKÉPEDT SÁMÁN – 2. RÉSZ
+
+_Andrew McChesney_
+
+_Az apa kimerült a sok munkától, és néhány napig pihent a lánya házában, Nepálban. Érdeklődve figyelt, amikor Divya lelkésze meglátogatta őket a gyülekezet néhány tagjával együtt. Hallgatta az énekeket a lánya új Istenéről, Jézusról. Azután a lelkész kinyitotta a Bibliát, és felolvasta Jézus szavait: „Jöjjetek hozzám mindnyájan, akik megfáradtatok és meg vagytok terhelve, és én megnyugvást adok nektek” (Mt 11:28). Az apa meg akarta ismerni ezt az Istent. Nyugalomra vágyott. Ekkor a lelkész felolvasta Jn 3:16-ot: „Mert úgy szerette Isten a világot, hogy egyszülött Fiát adta, hogy aki hisz őbenne, el ne vesszen, hanem örök élete legyen.” A férfi meghatódott. Soha nem hallott még arról az Istenről, aki az egyszülött Fiát adta az emberiség megmentéséért. Rájött, hogy nincs szükség állatáldozatokra, mert Isten elküldte a Fiát, mindenre elegendő áldozatként. Ez óriási hatást tett rá, elkezdte naponta olvasni a Bibliát. Szombaton elment a gyülekezetbe Divyával és a feleségével, aki a lányuk imádsága után kigyógyult rejtélyes betegségéből. Nem értette a prédikációt, a Szentírást sem, azt mégis magával vitte, amikor hazatért. Teltek-múltak a hónapok, és már nem akarta imádni a szellemeket. Úgy döntött, hogy nem lesz többé sámán. „Az életem megváltozott – mondta a városa lakóinak. – Nem fogom többé a szertartásokat végezni.” Az emberek felháborodtak, amikor megtudták, hogy a sámán keresztény lett. Azzal vádolták, hogy elárulta az őseit, de őt ez nem zavarta. Biztos volt benne, hogy megtalálta az egyetlen Istent. Ma a feleségével együtt aktív tagja a Hetednapi Adventista Egyháznak, diakónus lett. Krishna Lama a neve, 66 éves. „Régen úgy gondoltam, hogy ott az otthonom, ahol az őseim éltek – mondta. – Most viszont úgy érzem, hogy a gyülekezet az otthonom. Jézussal ragyogónak látom a jövőt.”_
