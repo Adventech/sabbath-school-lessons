@@ -95,6 +95,8 @@
           target: en/2024-03-er/10
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-03-11.mp4
           target: en/2024-03-er/11
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-03-12.mp4
+          target: en/2024-03-er/12
     - artist: Hope Sabbath School
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2024-03-01.mp4
