@@ -43,3 +43,15 @@ yt-dlp "https://www.youtube.com/watch?v=wbGY7PMzzmM" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=uHZW1FpBu40" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-03-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=IX8tSle927E" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-03-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=nsn9ITlThQw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-03-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=XtvNAWmegww" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2024-03-13.mp4"
+
+yt-dlp "https://youtu.be/6oZSzN60XBk?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-03-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=z2d4IusYqV8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-03-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=SgPgtvP-SMo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-03-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=K83lvzmelOo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-03-13.mp4"
