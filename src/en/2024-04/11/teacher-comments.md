@@ -64,3 +64,5 @@ Think about and answer the following questions:
 4.	The Holy Spirit’s job is to bring conviction of sin, righteousness, and judgment to the human heart. If, for some reason, you are resisting the pricking of your conscience, what can you do about it?
 
 5.	Have you thought that, in order to build up your faith and strengthen your prayer life, you should unite your frail faith and prayers with Jesus’ formidable faith prayers? What difference do you think this union will make in your spiritual journey to the kingdom?
+
+` `

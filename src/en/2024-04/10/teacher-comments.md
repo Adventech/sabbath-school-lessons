@@ -72,3 +72,5 @@ Think about and answer the following questions:
 5.	What do you think of the idea that everything we believe should be anchored in Scripture and yet, at the same time, must always lead us to Christ? What does it say about our spiritual walk if we regard gaining intellectual knowledge as our primary goal?
 
 6.	How should our emphasis on Christ and the Bible impact our worldview as we see all sorts of disruption and confusion surrounding us?
+
+` `

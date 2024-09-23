@@ -72,3 +72,5 @@ Think about and answer the following questions:
 5.	If we believed that, instead of saving us from our sins, Jesus died to give us freedom of choice, what would be the effect of this thinking on making crucial decisions in matters of obedience and disobedience? Some think that God is neutral when it comes to our decision-making. If such were the case, how do you reconcile this notion with God’s urging us to make the right decisions?
 
 6.	Regarding shame and glory: How do you reconcile the two concepts in the life and ministry of Christ? Have you ever expe­rienced being shamed for Christ’s sake? How can this experience lead to being honored before God?
+
+` `
