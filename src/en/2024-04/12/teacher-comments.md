@@ -74,3 +74,5 @@ Think about and answer the following questions:
 5.	What practical lessons may we learn from Mary’s experience? She was so caught up in her grief and tears that, at first, she could not recognize the risen Jesus. In what ways are we sometimes so weighed down with our heavy burdens that we do not discern the presence of Jesus in our lives? How can we remedy this situation?
 
 6.	Reflect for a moment on the tragic end of Pilate’s life. What lessons can we learn from the way he conducted himself, especially in how he related to the Jews, the Roman authorities, and to Jesus?
+
+` `

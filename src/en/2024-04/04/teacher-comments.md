@@ -72,3 +72,5 @@ Think about and answer the following questions:
 3.	How does Nicodemus’s encounter with Jesus help you to witness effectively to influential people in society?
 
 4.	Compare and contrast Christ’s effective witness to Nicodemus with that of His witness to Nathanael. What can you learn from both examples?
+
+` `

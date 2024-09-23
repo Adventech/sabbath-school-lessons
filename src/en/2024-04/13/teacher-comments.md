@@ -72,3 +72,5 @@ Think about and answer the following questions:
 3.	Knowing that someday we may face the time of trouble alone, how dependent should we be on other Christians around us? Do we still need others to prop us up, or have we learned to draw strength from our companionship with Jesus? Explain.
 
 4.	What does it really mean to you, in everyday life, that without Jesus you can do nothing? Specifically, what does that “nothing” refer to?
+
+` `

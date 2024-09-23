@@ -58,3 +58,5 @@ Answer the following questions:
 4.	How do we react when the Holy Spirit convicts us of truth, righteousness, and sin, especially concerning things that we want to ignore? Are we as patient as the Samaritan woman was in listening to Jesus tell the “rest of the story” so that, consequently, we may become healed and restored to Him?
 
 5.	Recall an incident or a providential leading in which God used you to influence one individual to accept and live for Him. How did that contact impact other persons or even larger groups of people? Take time to share your experience with one or more people this week.
+
+` `

@@ -68,3 +68,5 @@ Think about and answer the following questions:
 4.	Jesus said that the sins of the parents did not cause the suffering of the blind man. How then do you reconcile this truth with Exodus 20:5 about “ ‘visiting the iniquity of the fathers upon the children to the third and fourth generations of those who hate Me’ ” (NKJV)?
 
 5.	Although it is abundantly clear from John 14:19 and 1 John 5:11, 12 that we have the assurance of salvation in Christ, why, then, is it a challenge to actualize this assurance in our lives? How do we explain a believer’s fear of death?
+
+` `

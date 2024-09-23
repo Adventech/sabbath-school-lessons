@@ -58,3 +58,5 @@ Think about and answer the following questions:
 2.	In John 14:3, Jesus says to His disciples, “ ‘I will come again and receive you to Myself; that where I am, there you may be also’ ” (NKJV). How does trusting His words for the future impact your life today?
 
 3.	Ellen G. White wrote, “Christ’s life becomes our life.”—The Desire of Ages, p. 389. What an amazing promise! How do you personally incorporate it into your life? What are the dynamics that make this reality possible in everyday life?
+
+` `

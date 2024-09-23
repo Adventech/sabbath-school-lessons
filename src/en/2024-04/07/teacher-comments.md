@@ -68,3 +68,5 @@ Think about and answer the following questions:
 3.	Think about Pilate’s vacillation and divided loyalties. What are some of the adverse consequences of such defective leadership? How does trying to please all in an attempt to accommodate their diverse views bring about confusion and consternation?
 
 4.	Our lives exude a “fragrance,” or influence, on the people around us as we interact with them in our different spheres. We cannot emit the sweet fragrance of Jesus unless we are “fragranced” by Him. As we reflect on our daily lives, does the atmosphere that surrounds us draw others to Christ or repulse them away from Him?
+
+` `
