@@ -68,3 +68,5 @@ Think about and answer the following questions:
 3.	Regarding feeding on Jesus, the Bread of Life: How do you apply this pertinent inspired counsel to your daily life: “What food is to the body, Christ must be to the soul. Food cannot benefit us unless we eat it, unless it becomes a part of our being. . . . We must feed upon Him, receive Him into the heart, so that His life becomes our life.”—Ellen G. White, The Desire of Ages, p. 389.
 
 4.	How do we acquire a moral backbone to stand for the right when it comes to popularity, majority opinion, or peer pressure? We know from the Bible that the majority is not always right. How does having the support of God and His truth make us a majority, even when we are in the minority?
+
+` `

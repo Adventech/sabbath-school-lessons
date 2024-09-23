@@ -58,3 +58,5 @@ Think about and answer the following questions:
 4.	What does it mean to have a “from beneath” mentality? Do we sometimes drift into that way of thinking? If so, how?
 
 5.	Many believed in Jesus (John 8:30), despite all the unbelief around them. How does this fact encourage us not to give up on people who seem to be resistant to the light of God’s truth?
+
+` `

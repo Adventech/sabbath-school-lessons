@@ -64,3 +64,5 @@ Think about and answer the following questions:
 2.	Regarding our discussion of miracles, how do we understand the difference and similarity between dunamis and semeion? What examples do we find in each of Christ’s miracles? Does the miracle of casting out demons fit in the category of semeion? Explain.
 
 3.	What are some of the dangers of becoming immovable and thus intolerant in our own opinions? How do we guard ourselves from the folly of trusting in our self-serving ideas and ignoring the spirit of the law, which is the bigger picture? How would you react to the following sayings: “My way or the highway,” or “I’ve made up my mind; don’t confuse me with facts”?
+
+` `
