@@ -1,5 +1,5 @@
 ---
-title: Mit Gott erlebt
+title: Lehrerteil
 date: 22/11/2024
 ---
 
