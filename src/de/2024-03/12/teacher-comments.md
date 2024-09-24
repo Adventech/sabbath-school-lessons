@@ -1,0 +1,61 @@
+---
+title: Lehrerteil 
+date: 20/09/2024 
+---
+
+### TEIL I: ÜBERSICHT
+
+**Schlüsseltext:** Markus 15,26.32.43
+**Studienschwerpunkt:** Markus 15
+
+**Einführung**
+
+Markus 15 zeigt drei Schlüsselszenen im Zusammenhang mit dem Prozess, der Kreuzigung und der Auferstehung Jesu. Diese Ereignisse vermitteln uns einen Einblick in das Wesen des Reiches Gottes. Zunächst untersucht Markus die Rolle, die der Sanhedrin bei der Verurteilung Jesu spielt. Bei diesem Ereignis stehen die Priester und andere jüdische Führer als Antagonisten im Mittelpunkt. (Was in den meisten Bibelübersetzungen als Hoher Rat bezeichnet wird, wird von den Historikern, die sich mit der Zeit Jesu befassen, als Sanhedrin bezeichnet.) Als Nächstes widmet Markus einen beträchtlichen Teil seiner Erzählung der Beschreibung der Rolle von Pontius Pilatus bei der Verurteilung und dem Prozess gegen Jesus. Schließlich schildert Markus das Agieren von Josef von Arimathäa, der Jesus in das Grab legt, das für ihn selbst bestimmt war.
+
+**Themen der Lektion**
+
+Das Studium dieser Woche ist in drei Abschnitte unterteilt:
+
+1. Der Sanhedrin und die Verurteilung von Jesus: In diesem Abschnitt untersuchen wir die Haltung des Hohen Rates und des Hohepriesters gegenüber Jesus vor seiner Kreuzigung.
+2. Die Zustimmung der römischen Behörden zu der Verurteilung Jesu: In diesem Abschnitt untersuchen wir die Rolle von Pontius Pilatus im Prozess gegen Jesus.
+3. Josef von Arimathäa und das Reich Gottes: Markus stellt kurz das vor, was Josef von Arimathäa nach dem Tod Jesu tat.
+
+### TEIL II: KOMMENTAR
+
+**Vom Sanhedrin und den Priestern verurteilt**
+
+Markus 14 beschreibt die aktive Rolle, die die Priester und andere Führer des Volkes bei der Ergreifung Jesu spielten (Mk 14,1). Als Judas kam, um den Verrat zu verhandeln, „wurden sie froh“ (V. 11). Die Priester, die Schriftgelehrten und die Ältesten schmiedeten gemeinsam ein Komplott, um Jesus zu töten. Ihr Zusammenspiel wurde deutlich, als sie eine Menschenmenge mit Schwertern und Knüppeln aussandten, um Jesus zu ergreifen (V. 43).
+
+Jesus wurde verhaftet und vor Gericht gestellt. Zunächst fand sein Prozess im Hohen Rat statt. Markus 14,53.55 beschreibt die Szene: „Und sie führten Jesus zu dem Hohenpriester; und es versammelten sich alle Hohenpriester und Ältesten und Schriftgelehrten. Aber die Hohenpriester und der ganze Hohe Rat suchten Zeugnis gegen Jesus, auf dass sie ihn zu Tode brächten.“ Es scheint, dass der Hohepriester derjenige war, der die Zusammenkunft und auch das Verhör gegen Jesus leitete (V. 60–61). Außerdem war es der Hohepriester, der den Ratsmitgliedern die Argumente für die Verurteilung Jesu vortrug. Markus beschreibt dieses Vorgehen mit folgenden Worten: „Da fragte ihn der Hohepriester abermals und sprach zu ihm: Bist du der Christus, der Sohn des Hochgelobten? Jesus aber sprach: Ich bin’s; und ihr werdet sehen den Menschensohn sitzen zur Rechten der Kraft und kommen mit den Wolken des Himmels. Da zerriss der Hohepriester seine Kleider und sprach: Was bedürfen wir weiterer Zeugen? Ihr habt die Gotteslästerung gehört. Was meint ihr? Sie aber verurteilten ihn alle, dass er des Todes schuldig sei“ (V. 61–64; Herv. d. Verf.). Somit war es dieser Rat, der sich aus den führenden religiösen Führern des Landes zusammensetzte, durch den Jesus gerichtet und zum Tode verurteilt wurde.
+
+Später versuchten die Führer dieses Rates, eine juristische Bestätigung des vorher vereinbarten Urteils zu erwirken. Zu diesem Zweck schien der Rat in einer weiteren Sitzung beschlossen zu haben, Jesus vor Pontius Pilatus zu bringen, um ein Urteil der römischen Behörde zu erwirken. Markus leitet Kapitel 15 mit den Worten ein: „Und alsbald am Morgen hielten die Hohenpriester Rat mit den Ältesten und Schriftgelehrten, dazu der ganze Hohe Rat, und sie banden Jesus und führten ihn ab und überantworteten ihn Pilatus“ (Mk 15,1).
+
+Der Sanhedrin war der „oberste Gerichtssrat … des Judentums mit 71 Mitgliedern, der seinen Sitz in Jerusalem hatte. Er taucht in den Passionsberichten der Evangelien als das Gremium auf, das Jesus den Prozess machte, und er erscheint in der Apostelgeschichte als das Gericht, das die wachsende christliche Gemeinde beobachtete und verfolgte“ (Philip Wesley Comfort/Walter A. Elwell (Hg.), Tyndale Bible Dictionary, Carol Stream, Illinois 2001, S. 1165). Obwohl die Region Judäa unter der Herrschaft der römischen Regierung stand, unterstand die Region in einigen Fragen der Gerichtsbarkeit des Rates. „Prokuratoren wie Pontius Pilatus oder Felix waren bei der Erledigung vieler Verwaltungsangelegenheiten auf jüdische Gerichte oder Räte angewiesen“ (Green/McDonald, The World of the New Testament, Cultural, Social, and Historical Contexts, S. 270). Wie bereits erwähnt, setzte sich der Hohe Rat im 1. Jahrhundert n. Chr. aus Priestern, Pharisäern, Sadduzäern, Schriftgelehrten und Ältesten zusammen (Mk 15,1; Apg 23,1.6). Die Priester, insbesondere der Hohepriester, hatten in den Versammlungen eine führende Rolle inne.
+
+Die Feindseligkeit der Priester gegenüber Jesus zeigte sich in ihrer Reaktion auf das Wirken Jesu, vor allem in Jerusalem. Pilatus „wusste, dass die Hohen Priester ihn aus Neid überliefert hatten“ (Mk 15,10 EB). Ihre Feindseligkeit gegenüber Jesus war so offensichtlich, dass Markus im folgenden Vers die Forderung an Pilatus, Jesus zum Tode zu verurteilen, beschreibt: „Die Hohenpriester wiegelten das Volk auf, dass er ihnen viel lieber den Barabbas losgebe“ (V. 11).
+
+Als Jesus gekreuzigt wurde, „verspotten ihn auch die Hohenpriester untereinander samt den Schriftgelehrten und sprachen: Er hat andern geholfen und kann sich selber nicht helfen. Der Christus, der König von Israel, er steige nun vom Kreuz, damit wir sehen und glauben. Und die mit ihm gekreuzigt waren, schmähhten ihn auch“ (V. 31–32). Welch eine Ironie, dass die Priester, als Jesus am Kreuz starb, in ihrer unbeherrschten Begeisterung erklärten, derjenige am Kreuz sei Christus, der König von Israel! Obwohl Jesus in diesem Kapitel mehrmals als König bezeichnet wird, war Pilatus derjenige, der dies am deutlichsten zum Ausdruck brachte. Aber auch die Führer des jüdischen Volkes erklärten Jesus zum Messias und König Israels, wenn auch nur zum Spott. Sie wussten nicht, dass die Notwendigkeit ihres Opferdienstes im irdischen Heiligtum mit dem Tod Jesu ihrem Ende entgegen ging. Markus 15,37 sagt: „Aber Jesus schrie laut und verschied.“ Und im darauffolgenden Vers merkt das Evangelium an: „Und der Vorhang im Tempel zerriss in zwei Stücke von oben an bis unten aus.“
+
+Der Tempel war nun offen. Deshalb ergab es nicht länger Sinn, die Tieropfer weiterzuführen, denn das Lamm Gottes war bereits geschlachtet worden. Jeder, der Jesu Opfer annimmt, kann Teil von Gottes Reich werden. Die Grenzen des Reiches wurden ausgedehnt und die Einladung, daran teilzuhaben, wurde auf alle Nationen ausgeweitet.
+
+**Die Zustimmung Roms im Prozess gegen Jesus gesichert**
+
+Die Stadt Jerusalem, in der sich der Prozess und die Kreuzigung Jesu abspielten, gehörte zur Region Judäa. Jahrelang zuvor kontrollierte Herodes der Große dieses Gebiet, einschließlich der Region Galiläa. Er hatte in Jerusalem einen Palast gebaut. Jetzt, zur Zeit Jesu, stand die Region Judäa unter der direkten Aufsicht und Kontrolle des Römischen Reiches. Sie galt also als römische Provinz mit einem von den Römern ernannten Statthalter. Während dieses Abschnitts von Jesu Leben war der ernannte römische Statthalter Pontius Pilatus.
+
+Die Priester brachten Jesus daher zu Pilatus, um ein offizielles Todesurteil zu erwirken. Aus dem Markusevangelium geht hervor, dass Pilatus’ Handeln letztlich von seinem Wunsch bestimmt war, den blutrünstigen Mob zu befriedigen. Während des Prozesses gegen Jesus schwankte Pilatus zwischen den Überzeugungen seines Gewissens und seiner moralischen Schwäche. Er rang damit, Jesus freizulassen, obwohl er keinen Grund fand, ihn zu verurteilen. Markus beschreibt das Dilemma von Pilatus in den Versen 12–15 des 15. Kapitels seines Evangeliums. Nachdem er Jesus verhört hatte, konnte Pilatus keinen Grund finden, ihn zu verurteilen. Dar
+
+aufhin fragte er die Priester: „Was wollt ihr dann, dass ich tue mit dem, den ihr den König der Juden nennt?“ (Mk 15,12). Als die Priester in Markus 15,14 riefen: „Kreuzige ihn!“, antwortete Pilatus: „Was hat er denn Böses getan?“ Und schließlich gibt Markus in Kapitel 15, Vers 15 einen Einblick in das Herz des römischen Präfekten und den Grund, der ihn dazu bewegt, Jesus zum Tod zu verurteilen. „Pilatus aber wollte dem Volk Genüge tun und gab ihnen Barabbas los und ließ Jesus geißeln und überantwortete ihn, dass er gekreuzigt würde“ (V. 15).
+
+Ironischerweise war es Pilatus, nicht die jüdischen Führer, der mehrmals auf das Reich Gottes anspielte, als er Jesus als den König der Juden bezeichnete. Jesus brachte die Möglichkeit des Reiches Gottes zu seinem Volk, aber die Einladung wurde von den Führern des Volkes abgelehnt. Der weltliche Statthalter erkannte Jesus als König an und Jesus gestattete es, als solcher bezeichnet zu werden. Aus der Sicht von Pilatus starb Jesus als „König der Juden“. Im Johannesevangelium heißt es: „Pilatus aber schrieb eine Aufschrift und setzte sie auf das Kreuz; und es war geschrieben: Jesus von Nazareth, der Juden König“ (Joh 19,19).
+
+Wir wollen klarstellen, dass Pilatus in der Bezeichnung Jesu als König der Juden nicht die geistliche Dimension des Reiches Gottes erkannte. Pilatus sagte zu Jesus: „Redest du nicht mit mir? Weißt du nicht, dass ich Macht habe, dich loszugeben, und Macht habe, dich zu kreuzigen?“ (Joh 19,10). Jesus rückte die Sache für Pilatus sofort in die richtige kosmische Perspektive. „Jesus antwortete: Du hättest keine Macht über mich, wenn es dir nicht von oben gegeben wäre“ (V. 11). Mit anderen Worten sagte Jesus zu Pilatus: Ich bin nicht nur der König der Juden, sondern ich stehe auch über allen Mächten und Reichen der Erde, auch über deinem. Die Bedeutung dieser ergreifenden Worte brannte in Pilatus’ Kopf, sodass er „versuchte …, Jesus freizulassen“ (V. 12 Hfa). Pilatus’ Verständnis des Reiches Gottes war durch seine Auffassung begrenzt, dass es keinen höheren Herrscher als Cäsar gab (siehe V. 12.15) – was natürlich der Titel für den römischen Kaiser war.
+
+Ellen White erklärt, warum Pilatus gestattete, dass Jesus gekreuzigt wurde: „Pilatus gab den Forderungen des Pöbels nach. Er lieferte Jesus lieber zur Kreuzigung aus, als seine Stellung aufs Spiel zu setzen. Doch trotz seiner Vorsichtsmaßnahmen kam genau das, wovor er sich so gefürchtet hatte, später über ihn. Er wurde seiner Ehre beraubt und seines hohen Amtes enthoben. Nicht lange nach der Kreuzigung nahm er sich – von Gewissensbissen geplagt und in seinem Stolz verletzt – das Leben“ (SDL 720).
+
+**Josef und das Reich Gottes**
+
+Während die religiösen Führer die Autorität Jesu und sein Reich nicht anerkannten und Pilatus’ Sichtweise des Königtums Jesu durch seine eigene heidnische Weltanschauung eingeschränkt war, gab es einen, der an das Reich, von dem Jesus predigte, glaubte und es annahm: Josef von Arimathäa, ein prominentes Mitglied des Sanhedrins. Im Markusevangelium heißt es: Er war „ein angesehener Ratsherr, der auch auf das Reich Gottes wartete; der wagte es und ging hinein zu Pilatus und bat um den Leichnam Jesu“ (Mk 15,43). Die Verkündigung Jesu hatte eine starke Wirkung auf das Leben dieses führenden Mitglieds der israelitischen Gesellschaft gehabt. Das Wirken Jesu begann, erste Früchte zu tragen. Das Kapitel schließt mit den Taten dieses jüdischen Führers, eines Mannes, der in Jesus den König seines Lebens und seines ganzen Besitzes fand. Josef von Arimathäa übernahm die gesamte Verantwortung und die Kosten für das Begräbnis Jesu. Als die meisten Jünger weit weg waren und das Volk das Reich abgelehnt hatte, gab es einen Mann, Josef von Arimathäa, der erkannte: „Die Zeit ist erfüllt, und das Reich Gottes ist nahe herbeigekommen“ (Mk 1,15).
+
+### TEIL III: ANWENDUNG
+
+Pilatus wäre beinahe überzeugt worden, Jesus von der Strafe der Kreuzigung zu befreien. Die Menge rief jedoch: „Lässt du diesen frei, so bist du des Kaisers Freund nicht“ (Joh 19,12). Sprecht über die Frage: Welche Prinzipien und/oder Faktoren formen und inspirieren unsere Gedanken und Entscheidungen heutzutage?

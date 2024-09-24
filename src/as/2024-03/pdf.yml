@@ -1,0 +1,31 @@
+---
+pdf:
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-Intro.pdf
+    target: as/2024-03/01
+    title: পাতনি
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-01.pdf
+    target: as/2024-03/01
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-02.pdf
+    target: as/2024-03/02
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-03.pdf
+    target: as/2024-03/03
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-04.pdf
+    target: as/2024-03/04
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-05.pdf
+    target: as/2024-03/05
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-06.pdf
+    target: as/2024-03/06
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-07.pdf
+    target: as/2024-03/07
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-08.pdf
+    target: as/2024-03/08
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-09.pdf
+    target: as/2024-03/09
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-10.pdf
+    target: as/2024-03/10
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-11.pdf
+    target: as/2024-03/11
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-12.pdf
+    target: as/2024-03/12
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/as/2024-03/ABSG-2024-03-AS-13.pdf
+    target: as/2024-03/13
