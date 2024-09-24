@@ -1,0 +1,63 @@
+---
+title: Lehrerteil
+date: 29/11/2024
+---
+
+### TEIL I: ÜBERSICHT
+
+**Studienschwerpunkt:** Johannes 3,18–21
+
+Christus ist die einzige Quelle des Lebens. Wenn wir das Leben begehren, müssen wir uns an ihn allein und an kein anderes Wesen klammern. Selbst Engel, ob heilig oder gefallen, können uns kein Leben geben, denn ihr Leben stammt von Gott. Nicht nur dass sie kein Leben geben können, der größte der gefallenen Engel, Satan, ist das ­direkte Gegenteil des Gebers des Lebens. Satan ist der gerissene Händler des Todes, der versessen darauf ist, uns des Lebens, das Jesus schenkt, zu berauben. Jesus entlarvt Satans zerstörerischen Plan, der das Gegenteil seiner Erlösungsmission ist, wenn er erklärt: „Ein Dieb kommt nur, um zu stehlen, zu schlachten und umzubringen. Ich bin gekommen, damit sie das Leben haben und volle Genüge“ (Joh 10,10).
+
+Der Teufel, der Erzbetrüger, verleitet die Menschen dazu, sich für die Sünde statt für die Gerechtigkeit in Christus zu entscheiden; dann fordert er schamlos seinen Lohn ein, der nichts Geringeres als der ewige Tod ist. Paulus bestätigt diese Tatsache, wenn er in Römer 6,23 schreibt: „Denn der Sünde Sold ist der Tod; die Gabe Gottes aber ist das ewige Leben in Christus Jesus, unserm Herrn.“ Alle guten Gaben stammen von Gott, und das ewige Leben, das Leben in Fülle, kommt von ihm. Es ist ein unergründlicher Teil des Geheimnisses des Bösen, dass Menschen – die Jesus geschaffen hat und für die er gestorben ist, um sie zu retten – die ewige Strafe des Todes wählen und Gottes Gabe des Lebens ablehnen. Wie wir sehen werden, dominieren die Gaben des ewigen Lebens und der Erlösung das Johannesevangelium mehr als jedes andere Buch der Heiligen Schrift.
+
+Mehr als jeder andere Evangelist zeichnet sich Johannes als derjenige aus, der den menschgewordenen Sohn Gottes als den großen „Ich bin“ bezeichnet. Dieser Titel ist, wie wir in einer früheren Lektion gelernt haben, ein Verweis auf Gott. Im Johannesevangelium verkündet Jesus zum Beispiel: „Ich bin der Weg und die Wahrheit und das Leben“ (Joh 14,6). Wenn wir auf dem Weg, der Jesus ist, gehen, lehrt er uns seine Wahrheit, die zum ewigen Leben führt. Jesus ist unser einziger Weg zu dem ewigen Gott. Der Vater wird nie jemanden verstoßen, der aufrichtig und bußfertig zu ihm kommt.
+
+### TEIL II: KOMMENTAR
+
+Wie gerade gesagt, ist Gott der Einzige, der das Leben besitzt. Daher ist er auch der Einzige, der es geben kann. Kein Engel oder geschaffenes Wesen kann das tun, sondern nur die Quelle des Lebens. Dieser Gedanke geht zurück auf 5. Mose 30,20, in dem Gott durch Mose sein Volk ermahnt: „dass du den HERRN, deinen Gott, liebst und seiner Stimme gehorchst und ihm anhangest. Denn das bedeutet für dich, dass du lebst und alt wirst“. Hier fordert Gott uns nachdrücklich auf, uns an ihn zu klammern, um zu leben, denn außerhalb dieser Gott-Mensch-Beziehung gibt es nur Elend und Tod. Dieser Gedanke hilft uns, eine andere Dimension von Johannes 10,10 zu verstehen, den wir gerade zitiert haben. In diesem Zusammenhang muss er jedoch noch einmal zitiert werden: „Ein Dieb kommt nur, um zu stehlen, zu schlachten und umzubringen. Ich bin gekommen, damit sie das Leben haben und volle Genüge.“ Hier sehen wir, dass die einzige Alternative zum Leben Christi, das reichhaltig und ewig ist, Satans Elend und Tod sind.
+
+Manche argumentieren jedoch fälschlicherweise, es wäre nicht nötig gewesen, dass Christus in diese Welt kam. Aber wer sonst hätte unsere Sünden wegnehmen und uns mit dem Gewand der Gerechtigkeit Gottes bekleiden können? Wer sonst hätte uns das Leben anstelle unseres Todes geben können? Niemand außer dem allgerechten und lebensspendenden Christus. Er kämpfte tapfer gegen unsere beiden tödlichsten Feinde, die Sünde und den Tod, und besiegte beide. Sein Sieg wird der unsere, wenn wir wirklich an ihn glauben. Deshalb können wir Jesus vertrauen, wenn er verspricht: „Denn das ist der Wille meines Vaters, dass, wer den Sohn sieht und glaubt an ihn, das ewige Leben habe; und ich werde ihn auferwecken am Jüngsten Tage“ (Joh 6,40).
+
+**Worte des ewigen Lebens**
+
+Bei dem herrlichen Wunder der Speisung der 5000 wies Jesus alle, die das Brot aßen, auf sich selbst, das Brot des Lebens, hin (Joh 6,35). Er wollte, dass sie über ihren Hunger nach physischem Brot, das sie nur vorübergehend sättigte, hinausgingen und sich von ihm für das ewige Leben nährten. Es lag durchaus in seiner Macht, eine Vielzahl hungriger Menschen zu speisen, aber Jesu göttliche Mission bestand darin, denjenigen, die an ihn glaubten, ewiges Leben und die Zugehörigkeit zu Gottes herrlichem Reich anzubieten. Unser größtes Ziel ist es, zuerst sein Reich zu suchen. Alles andere, was wir brauchen, wird uns zur Verfügung gestellt werden (siehe Mt 6,33). Denn wenn wir alle Dinge besitzen, aber Jesus nicht haben, sind wir verloren. Umgekehrt sind wir wahre Sieger, wenn wir uns von den lebensspendenden Worten Christi nähren, auch wenn wir nicht alles besitzen, was wir uns in diesem Leben wünschen.
+
+Der Psalmist versichert uns: „Der HERR ist mein Hirte, mir wird nichts mangeln“ (Ps 23,1). Anders ausgedrückt: Wenn wir den Herrn zu unserer Priorität machen, sorgt er für unsere Bedürfnisse. Der Herr weiß sehr wohl, was wir im Leben wirklich brauchen, und tut gern das Richtige für uns. Aber seine oberste Priorität ist, dass wir eine rettende Beziehung zu ihm haben.
+
+Ellen White macht folgende tiefgründige Aussage über die geistliche Notwendigkeit, sich vom Brot des Lebens zu ernähren: „Das Fleisch von Christus zu essen und sein Blut zu trinken bedeutet, ihn als persönlichen Erlöser anzunehmen. … Was Nahrung für den Körper bedeutet, muss Christus für unsere Seele sein. Die Nahrung nützt uns nichts, wenn wir sie nicht essen und sie nicht ein Teil von uns wird. Genauso wertlos ist Christus für uns, wenn er nicht unser persönlicher Erlöser ist. … Wir müssen uns von ihm ernähren, ihn in uns aufnehmen, damit sein Leben zu unserem Leben wird. Wir müssen uns seine Liebe und Gnade aneignen“ (SDL 370).
+
+Darüber hinaus tragen die Worte Christi sein Leben in sich. Sie repräsentieren seine Person und seinen Charakter. Wenn wir heute die Worte Jesu empfangen und sie in unser Herz aufnehmen, empfangen wir Jesus selbst. Zwar können wir Jesus nicht wie die Jünger tagtäglich leibhaftig sehen, aber wir sehen ihn wahrhaftig durch seine Worte, die uns durch die Heilige Schrift hinterlassen worden sind. Die Antwort von Petrus auf die Frage Christi impliziert nicht nur, dass der Erlöser ewiges Leben hat, sondern ebenso seine Worte (siehe Joh 6,68). Inspiriert vom Heiligen Geist versuchte Petrus, die göttliche Wahrheit zu vermitteln, dass keine Person, kein Ort und keine Verkündigung uns zum ewigen Leben führen kann außer der Quelle des Lebens selbst.
+
+**Glaube und Wiedergeburt**
+
+Der Glaube ist keine Ware, die von einigen wenigen unter Ausschluss anderer gehortet werden kann. Es ist offensichtlich, dass der Glaube ein universelles Geschenk Gottes an jeden ist, der in diese Welt geboren wird. Die menschliche Existenz beginnt mit dem Glauben, den unser Schöpfer in unser Herz gelegt hat. Auf diesen Glauben müssen wir aufbauen, indem wir den, der ihn uns geschenkt hat, annehmen und an ihn glauben.
+
+Diese Überzeugung wird dann dadurch gestärkt, dass wir Gott bitten, die volle Kon­ trolle über unser Leben zu übernehmen. Johannes bekräftigt diese Tatsache, indem er sagt: „Wie viele ihn aber aufnahmen, denen gab er Macht, Gottes Kinder zu werden: denen, die an seinen Namen glauben“ (Joh 1,12).
+
+
+Einfach ausgedrückt: Glaube ist ein reines Geschenk Gottes (siehe Röm 4,1–8). Gottes Geschenk des Glaubens ist das göttliche Bindeglied, das uns mit ihm verbindet. Diese Glaubensverbindung erinnert uns daran, dass wir zu ihm gehören, und sie gibt unserem gesamten Dasein einen Sinn.
+
+Auch Umkehr ist ein Geschenk Gottes, denn sie ist eine Reaktion auf die Eingebungen des Heiligen Geistes, sich ihm zu unterstellen. Viele machen den Fehler, dass sie zuerst darauf warten, sowohl Glauben als auch Reue zu empfinden, bevor sie zu Gott kommen; aber diese beiden Gaben sind bereits vorhanden und warten darauf, dass wir sie annehmen und anwenden. Wir brauchen nicht zu warten, um sie zu empfangen.
+
+Petrus und die Apostel bestätigten diese Realität in Apostelgeschichte 5,31: „Den [Christus] hat Gott durch seine rechte Hand erhöht zum Fürsten und Heiland, um Israel Buße und Vergebung der Sünden zu geben.“ Warum sollte ein Sünder also noch länger warten? Komm mit dem Glauben, den Christus dir gegeben hat, zu ihm und empfange sein Geschenk der Buße, um heute sein Leben zu leben!
+
+**Ablehnung und Verdammung (Joh 3,18–21)**
+
+Leider werden Licht und Finsternis heute immer mehr verwechselt. Es gibt mehr Ambivalenzen darüber, was Wahrheit ist. Warum interessieren sich die Menschen mehr für die Finsternis als für das Licht der Wahrheit? Jesus beantwortet diese zentrale Frage, wenn er sagt: „Das ist aber das Gericht, dass das Licht in die Welt gekommen ist, und die Menschen liebten die Finsternis mehr als das Licht, denn ihre Werke waren böse“ (Joh 3,19).
+
+Diejenigen, die sich gegen das Licht und für die Finsternis, die Gottes Wahrheit vertreibt, entscheiden, werden durch ihre eigenen bösen Taten verdammt. In ihrer Verbohrtheit und ihrem Stolz weigern sie sich, sich zu demütigen und Buße zu tun. Sie lehnen das einzige Licht ab, das ihnen noch Hoffnung gibt. Aber es gibt keine Heilung, wenn sie sich nicht dem Licht der heilenden Kraft Christi öffnen. Warum sollten wir unsere bösen Taten nicht aufgeben, solange es noch genügend Gelegenheit dazu gibt? Warum warten, bis es zu spät ist? Die Tür der Arche steht noch offen und das Licht der Wahrheit leuchtet noch. Warum also nicht das Licht einladen, die Finsternis zu vertreiben, und ohne Zögern in Sicherheit gehen, bevor es zu spät ist?
+
+Im Zusammenhang mit dieser Diskussion über die Wahl zwischen Licht und Finsternis sollten wir unsere Aufmerksamkeit auf Johannes 3,16 richten. Dieser Vers ist einer der wichtigsten Verse in der ganzen Heiligen Schrift, denn er umfasst das ganze Evangelium. Der Schwerpunkt dieses Verses liegt nicht nur auf der Errettung, sondern auch auf der negativen Konsequenz des Zugrundegehens, wenn wir nicht glauben. Die Verdammung resultiert aus der falschen Entscheidung. Jesus setzt diesen Gedanken in ­Johannes 3,18 fort, wenn er versichert: „Wer an ihn glaubt, der wird nicht gerichtet; wer aber nicht glaubt, der ist schon gerichtet, denn er hat nicht geglaubt an den Namen des eingeborenen Sohnes Gottes.“
+
+Unser ewiges Schicksal hängt davon ab, dass wir Christus und seinen Worten des Lebens vertrauen. Adam und Eva zweifelten an der Wahrheit von Gottes Weisheit. Wir wissen, wie das endete. In der Heiligen Schrift gibt es zahllose weitere Beispiele für Menschen, die die Folgen ihres Unglaubens zu tragen hatten. Jesus jedoch, der zweite Adam, siegte, indem er auf die Worte seines Vaters vertraute, die die Beziehung zwischen Vater und Sohn bestätigten. Es war genau diese Beziehung, die Satan anzweifelte, als er Jesus in der Wüste versuchte und sagte: „Bist du Gottes Sohn, so sprich, dass diese Steine Brot werden“ (Mt 4,3). Jesu schlagfertige Abwehr im nächsten Vers lautete einfach: „Es steht geschrieben“ (V. 4). Damit gibt er uns ein Beispiel für das Vertrauen, das auch wir dem Wort Gottes entgegenbringen sollen.
+
+### TEIL III: ANWENDUNG
+
+Denkt über die folgenden Fragen nach und beantwortet sie:
+
+`1. Welcher Zusammenhang besteht zwischen dem Lesen des Wortes Gottes und dem tatsächlichen Hören? Denkt über folgende Aussage nach und sprecht darüber: „Das Wort des lebendigen Gottes ist nicht nur geschrieben, sondern gesprochen. Die ­Bibel ist Gottes Stimme, die zu uns spricht – so gewiss, als könnten wir sie mit unseren eigenen Ohren hören. … Das Lesen und Überdenken der Heiligen Schrift sollte wie eine Audienz bei unserem unendlichen Gott gesehen werden“ (Ellen White, Testimonies for the Church, Bd. 6, S. 393).`
+
+`2. In Johannes 14,3 sagt Jesus seinen Jüngern: Ich will „wiederkommen und euch zu mir nehmen, auf dass auch ihr seid, wo ich bin“. Wie wirkt sich das Vertrauen auf seine Worte für die Zukunft auf euer heutiges Leben aus?`
+
+`3. Ellen White schrieb: „Wir müssen uns von ihm ernähren, ihn in uns aufnehmen, damit sein Leben zu unserem Leben wird“ (SDL 370). Welch erstaunliches Versprechen! Wie setzt ihr das für euch in eurem Leben um? Welche Dynamik macht diese Realität im Alltag möglich?`
