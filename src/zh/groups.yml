@@ -26,7 +26,7 @@
   cc-sc:
     name: "房角石_简体"
     order: 900
-  cc-sc:
+  cc-tc:
     name: "房角石_繁體"
     order: 1000
   am:

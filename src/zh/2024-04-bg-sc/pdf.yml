@@ -1,0 +1,17 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Oct_S.pdf'
+      target: zh_sc/2024-04-bg/01
+      title: 耶稣医治一个小女孩
+      start_date: 28/09/2024
+      end_date: 25/10/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Nov_S.pdf'
+      target: zh_sc/2024-04-bg/02
+      title: 好牧人
+      start_date: 26/10/2024
+      end_date: 29/11/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Dec_S.pdf'
+      target: zh_sc/2024-04-bg/03
+      title: 小耶稣诞生
+      start_date: 30/11/2024
+      end_date: 27/12/2024
