@@ -22,8 +22,6 @@ Mandray anjara amin'ny hetsika maro sy ireo fivorian'ny filan-kevitry ny fiangon
 
 I Thomas R. Shepherd dia manana "doctorat" amin'ny taranja filozófia sy fahasalamam-bahoaka, ary profesora tompon'andraikitra voalohany amin'ny fikarohana momba ny Testamenta Vaovao ao amin'ny «Seventh-day Adventist Theological Seminary>», any amin'ny Oniversite Andrews, izay efa nampianarany nanomboka ny taona 2008. Samy manompo amin'ny maha-misionera any Malawi sy Brésil izy sy i Sherry vadiny. Manan-janaka roa efa lehibe izy mivady ary manan-jafikely enina.
 
-
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **and.** andininy
