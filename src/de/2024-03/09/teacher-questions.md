@@ -14,16 +14,16 @@ date:   30/08/2024
 Ausgehend von einem der nördlichsten Orte, die Jesus je besucht hatte,
 erreichte er nun über Jericho Jerusalem, das Ziel seiner Reise.
 Zahlreiche Wunder wirkte Jesus auf seinen Weg. Durch seinen triumphalen
-Einzug auf dem Rücken eines Esels erfüllen sich scheinbar die
+Einzug auf dem Rücken eines Esels erfüllten sich scheinbar die
 Erwartungen des Volkes ebenso, wie die seiner Jünger. Aber schon durch
-die zweite Reinigung des Tempels bestätigt er die Vorurteile der
+die zweite Reinigung des Tempels bestätigte er die Vorurteile der
 geistlichen Leiter des Volkes. Bestärkt in ihrem Widerstand stellten
 diese Führer seine Autorität in Frage. Mit den Fragen nach der
 Verpflichtung, Steuern an Rom zu zahlen, der Frage der Auferstehung und
 letztlich nach dem höchsten Gebot im Gesetz findet sich ein Dreiklang an
 Versuchungen -- körperlich/materiell, emotional und schließlich
 theologisch/intellektuell. Anders als bei der ersten
-Versuchungsgeschichte bedient sich Satan jetzt der geistlichen Führern
+Versuchungsgeschichte bediente sich Satan jetzt der geistlichen Führern
 des Volkes.
 
 ### **Schlüsselgedanke**
@@ -141,9 +141,9 @@ Erlöser anzunehmen?
     -   Welche Bedeutung hatte die Frage nach dem wichtigsten --
         höchsten -- Gebot für die Schriftgelehrten?
     -   In Bibelkommentaren wird dieser Abschnitt ausführlich behandelt.
-        Alldings wird der Begriff LIEBE in keinem ausführlich erklärt.
+        Allerdings wird der Begriff LIEBE in keinem ausführlich erklärt.
         Warum ist das so?
-    -   Warum ist gerade die agape--Liebe so wichtig? ... Bedeutung:
+    -   Warum ist gerade die *agape*--Liebe so wichtig? ... Bedeutung:
         Wertschätzung; Respekt; ...
     -   Wie hängt der Dekalog mit dem Charakter Gottes zusammen?
         -   Die ersten vier der Zehn Gebote werden in einem großen Gebot
