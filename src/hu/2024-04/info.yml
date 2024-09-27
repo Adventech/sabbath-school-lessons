@@ -4,8 +4,9 @@
   human_date: "Október · November · December 2024"
   start_date: "28/09/2024"
   end_date: "27/12/2024"
-  color_primary: "#EDE5F1"
-  color_primary_dark: "#aaaaaa"
+  color_primary: "#764A79"
+  color_primary_dark: "#632C68"
+  splash: true
   credits:
     - name: Írta
       value: "E. Edward Zinke és Thomas Shepherd"
