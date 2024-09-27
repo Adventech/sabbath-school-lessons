@@ -1,0 +1,66 @@
+---
+title: Lehrerteil
+date: 04/10/2024
+---
+
+### TEIL I: ÜBERSICHT
+
+**Studienschwerpunkt:** Johannes 2,1–11; 5,1–9.10–16
+
+Wenn wir uns in diesem Quartal mit den Themen des Johannesevangeliums befassen, sollten wir uns einige biografische Fakten vor Augen halten, die Johannes von den anderen drei Autoren der Evangelien unterscheiden. Johannes war der jüngste der drei Schreiber, lebte am längsten und verfasste seinen Bericht später als die anderen Autoren. Johannes stellt sich selbst bescheiden und indirekt als „dieser Jünger“ vor (Joh 21,23). Unter seinen Mitjüngern war er als der „Jünger …, den Jesus lieb hatte“ bekannt (V. 20). Dieser Hinweis kann als „Jünger, den Jesus anhaltend liebte“ wiedergegeben werden, was noch stärker ist als die Vergangenheitsform „lieb hatte“.
+
+Vor diesem Hintergrund tun wir gut daran, auch die Bedeutung des Namens Johannes zu überdenken. Johannes bedeutet wörtlich und treffend „der Herr ist gnädig“. Gnädig zu sein kann auch bedeuten, „liebevoll zu sein“. Johannes, der Apostel der Liebe, schrieb sowohl in seinem Evangelium als auch in seinen Briefen viel über diese Tugend und bezeichnete sich selbst als den Jünger, „den Jesus liebte“ (Joh 13,23 NLB). Deuten dieser Vers und ähnliche Verse aus dem Johannesevangelium darauf hin, dass Jesus ­Johannes bevorzugte und ihn mehr liebte als die anderen Jünger? Ganz und gar nicht! Die göttliche Liebe ist reichlich und für jeden vorhanden. Es ging nicht darum, dass Jesus Johannes am meisten liebte, sondern darum, dass das Herz von Johannes offener und empfänglicher für Jesus und seine Liebe war. 
+
+Johannes wünschte sich, dass alle anderen ihr Herz weit für Christus öffnen und an ihn als den wahren Messias und den göttlichen Sohn Gottes glauben. Deshalb beginnt Johannes unmittelbar nach seinen einleitenden Worten mit dem ersten Wunder, bei dem Jesus in Kana Wasser in Wein verwandelt. Hast du schon einmal ein echtes Wunder erlebt (im Gegensatz zu den sogenannten Wundern, die in den religiösen ­Medien geschildert werden)? Warum war es für Jesus sehr wichtig, Wunder zu tun? Ist er auch heute bereit, durch den Dienst seiner Jünger solche machtvollen Wunder zu vollbringen? In dieser Woche werden wir nach Antworten auf die letzten beiden Fragen suchen.
+
+### TEIL II: KOMMENTAR
+
+Johannes zeigt, dass Christus – erkennbar durch viele Zeichen und Wunder – göttliche Macht besaß. Diese Wunder weisen den Weg zu dem einzigen Weg, der zum ewigen Leben führt. Johannes erwähnt nur einige dieser Wunder – genug, um seine Zuhörer zu überzeugen, die wahre Erlösungsgewissheit anzunehmen und danach zu leben. Man kommt nicht umhin sich zu fragen, welche zahllosen Wunder Johannes sah, aber nicht aufzeichnete. Johannes bezeugt folgende Wahrheit: „Noch viele andere Zeichen tat ­Jesus vor seinen Jüngern, die nicht geschrieben sind in diesem Buch. Diese aber sind geschrieben, damit ihr glaubt, dass Jesus der Christus ist, der Sohn Gottes, und damit ihr, weil ihr glaubt, das Leben habt in seinem Namen“ (Joh 20,30–31).
+
+Man sollte sich fragen: Was ist ein „Zeichen“? Und was ist der Unterschied zwischen einem Zeichen und einem „Wunder“? Das Wort „Wunder“ kommt vom lateinischen ­ iraculum, was wörtlich etwa „göttlichen Ursprungs“, „sich wundern“ oder „erstaunt sein“ bedeutet.
+
+Im Neuen Testament gibt es zwei griechische Begriffe, die das beschreiben, was wir als Wunder bezeichnen. Dynamis ist der erste Begriff, der wörtlich übersetzt „Kraft“ bedeutet und von dem wir die Wörter Dynamit, Dynamik und Dynamismus ableiten, die sich alle auf etwas Kraftvolles beziehen. Im Wesentlichen charakterisiert dynamis ein Wunder als eine Demonstration der göttlichen Macht Christi in dieser Welt. Christus ­besitzt wahrhaftig die Macht, ein Wort zu sprechen, und es geschieht.
+
+Das zweite Wort, semeion, oder „Zeichen“, bezieht sich hingegen auf die Autorität Christi. Dieser Begriff hilft uns, das Wunderwirken Christi als Ausdruck seiner göttlichen Autorität in der Welt zu verstehen, insbesondere bei der Unterwerfung der Mächte des Bösen. In der Tat hat Christus die Autorität, Dämonen zu befehlen zu verschwinden, und sie tun es.
+
+Warum tat Jesus so viele Wunder? Zunächst einmal geschahen sie, um bestimmte menschliche Bedürfnisse zu stillen, was immer auch eine geistliche Dimension der Vergebung und Wiederherstellung beinhaltete. Zweitens tat Jesus, anders als viele der heute sogenannten Wunder, nie Wunder, um die menschliche Neugier zu befriedigen, sondern um Menschen in Not zu helfen. „Weder jetzt [bei der Versuchung durch ­Satan] noch irgendwann in seinem irdischen Leben tat er ein Wunder, um sich einen persönlichen Vorteil zu verschaffen. Seine wunderbaren Taten geschahen alle zum Wohl ­anderer“ (SDL 102).
+
+Drittens dienten die Wunder Jesu dazu, die Wahrhaftigkeit seiner göttlichen Botschaft und seiner Mission für die verlorene Menschheit deutlich zu machen. Als Jesus den Sohn der Witwe von den Toten auferweckte, rief das Volk aus: „Gott hat sein Volk besucht“ (Lk 7,16). Das war ein eindeutiger Beweis für seine wahre Messianität. Viertens dienten seine Wunder der Erfüllung alttestamentlicher Prophezeiungen und entsprachen dem, was Gottes Patriarchen und Propheten über ihn vorausgesagt hatten.
+
+**Das Wunder in Kana (Joh 2,1–11)**
+
+Es ist interessant, dass das erste Wunder Jesu (Joh 2,1–11) im Zusammenhang mit der Ehe geschah, die er im Garten Eden zum ersten Mal vollzog. Warum hatte das erste Wunder Jesu deiner Meinung nach mit der Ehe zu tun? Die Ehe wirkt sich auf alle Aspekte unserer Existenz aus. Der Teufel weiß, wie wichtig die Ehe ist, und versucht daher, Störungen und Verwirrung in unseren Familien, Kirchen, Schulen und in der Gesellschaft insgesamt zu stiften. Die Ehe und die Art und Weise, wie sie in unserer Gesellschaft betrachtet wird, ist nicht immer biblisch und dem Plan Gottes entsprechend. Heutzutage halten Ehen in den USA im Durchschnitt etwa sechs Jahre.
+
+Zweifellos betonte Jesus durch das Wunder in Kana die entscheidende Bedeutung der Ehe und segnete sie durch seine Anwesenheit. Indem er die Ehe auf diese Weise befürwortete, lehrt uns Jesus, dass er im Mittelpunkt jeder Hochzeit stehen muss, um den Erfolg der Ehe zu gewährleisten, denn wenn wir ihn an die erste Stelle in unserem Leben setzen, lässt er seine Liebe auf unsere Ehepartner und auch auf andere überfließen. Dieses erste Wunder ist also sehr gut auf unsere postmoderne Kultur anwendbar und sollte alle dazu ermutigen, sich an dem Beispiel dessen zu orientieren, der sie geschaffen und gesegnet hat. Bitten wir also unseren Schöpfer und Erlöser, alle Aspekte der Partnersuche, des Werbens und der Ehe so zu ordnen und zu segnen, dass sie der Menschheit den größtmöglichen Segen bringen und seinem Namen Ehre machen.
+
+Für sein erstes Wunder hätte Jesus eine spektakuläre Auferstehung von den Toten vor einer großen Menge jüdischer Führer und Würdenträger wählen können. Stattdessen entschied er sich für eine einfache Versammlung in einer kleinen Stadt und begegnete den bescheidenen Menschen dort, wo sie waren, bei ihren alltäglichen Aktivitäten.
+
+Jesus, unser Paradebeispiel, ging auf andere zu, um sie zu erheben und zu segnen, so wie sich Salz mit allen Arten von Lebensmitteln vermischt, um sie in etwas Schmackhaftes zu verwandeln. „Er [Jesus] erreichte die Herzen der Menschen, indem er zu ihnen ging und sich um ihr Wohl bemühte. Er besuchte sie auf den Straßen, in ihren Häusern, auf den Booten, in der Synagoge, am Seeufer und auf dem Hochzeitsfest. Er traf sie bei ihrer täglichen Arbeit und zeigte Interesse an ihren weltlichen Geschäften“ (SDL 132). Mehr noch: „Wir dürfen nicht auf den geselligen Umgang mit Menschen verzichten. Wir sollen uns nicht von ihnen absondern. Um alle Gruppen von Menschen zu erreichen, müssen wir ihnen dort begegnen, wo sie sich befinden“ (SDL 133).
+
+Wir sehen die Methode Christi, um Menschen zu erreichen – sie zu erheben und zu segnen –, sogar in der Verwandlung von Wasser in Wein. Das Wasser kann als Darstellung unserer Taufe in Christus gesehen werden und der reine, unvergorene Traubensaft als sein Blut, das zu unserer Erlösung vergossen wurde. Außerdem ersetzte Jesus den vergorenen Wein, der die Sinne der Leute benebelte, mit frischem und erfrischendem Traubensaft, der ihnen half, wieder klar zu denken.
+
+**Das Wunder am Teich Betesda (Joh 5,1–9)**
+
+Körperliche Krankheiten sind oft mit der Verletzung geistlicher Gesetze verbunden. Unser menschlicher Mechanismus ist eine ganzheitliche und in Wechselbeziehung stehende Schöpfung. Was sich auf eine Dimension auswirkt, beeinflusst auch die anderen ­Dimensionen. Wir müssen uns jedoch davor hüten, andere zu richten oder zu verurteilen, indem wir alle körperlichen Beschwerden auf die vorsätzliche Verletzung von Gottes Gesetz zurückführen, denn alle Menschen sind zu irgendeinem Zeitpunkt der Sünde erlegen. Es ist verletzend und entmutigend für die unter der Sünde Leidenden, wenn man ihnen sagt, dass sie das, was sie plagt, verdient haben. Wie bei Jesus sollte unsere liebevolle und mitfühlende Haltung unseren Drang überwinden, alles in Ordnung zu bringen, bevor wir helfen. Jesus demonstriert dieses Prinzip in der Geschichte von der wundersamen Heilung des Gelähmten am Teich von Bethesda.
+
+Es ist ermutigend und lehrreich, dass Jesus sich nicht auf eine kritische Analyse der Ursachen für den verkrüppelten Zustand des Mannes einlässt. Hatte dieser nicht 38 Jahre lang unter dieser behindernden Krankheit gelitten? Warum ihm noch mehr Schuld und Leid aufbürden? Als Nachfolger Christi müssen wir uns auf Lösungen für Probleme konzentrieren, nicht nur auf die Probleme. Dieser Mann schien der unglücklichste und hoffnungsloseste am Teich Betesda zu sein und so wählte Jesus ihn aus, um zu zeigen, dass er seine göttliche Macht einsetzen wollte, um den Hilflosesten zu helfen.
+
+Beachte, dass Jesus den Mann bei dieser Gelegenheit nicht fragte, ob er glaube oder nicht, sondern nur, ob er gesund werden wolle. Dann befahl Jesus dem Mann, aufzustehen, sein Bett zu nehmen und zu gehen. Der Mann zweifelte nicht und wartete nicht darauf, gesund zu werden; er handelte unmittelbar auf Jesu Befehl hin. Auch wir müssen, ungeachtet des Negativen unserer scheinbar aussichtslosen körperlichen und geist­lichen Probleme, zu Jesus aufschauen und leben. Ganz gleich, wie lange und intensiv wir anderswo nach der Antwort gesucht haben, die Antwort steht in der Gestalt unseres lieben Erlösers direkt vor uns.
+
+Denke über die folgende Aussage nach und nimm dir Gottes Antwort auf alle Arten von lähmenden Beschwerden zu Herzen: „Warte nicht, bis du spürst, dass du gesund bist! Glaube seinem Wort, und es wird erfüllt. … Welche Sünde oder beherrschende Leidenschaft die Seele und den Leib auch binden mag (weil ihr so lange nachgegeben wurde), Christus kann und möchte dich befreien!“ (SDL 184).
+
+**Hartherzigkeit (Joh 5,10–16)**
+
+Wenn lange an Hartherzigkeit festgehalten wird, führt dies zu einem verhärteten Herzen. Das Herz der Pharisäer war von Anfang an gegen Jesus gerichtet, weil er nicht in ihre religiöse Form passte und sich nicht an die Strenge und Detailliertheit ihrer Rituale und Traditionen hielt. Damit ignorierten sie absichtlich die größeren Fragen der Erlösung. Als ihnen der Mann gegenüberstand, der einst hoffnungsund hilflos war, der jahrzehntelang nicht gehen konnte und von Jesus am Teich Betesda geheilt worden war, übersahen die Führer gefühllos den offensichtlichen Grund für seinen Jubel. Stattdessen ging es ihnen um die ordnungsgemäße Einhaltung des Sabbats.
+
+Die Führer, die die Heilung des Gelähmten miterlebten, waren völlig besessen von den Sabbatvorschriften. Deshalb stellten sie ihn scharf zur Rede, weil er seine Matte am Sabbat trug, wie Jesus es ihm aufgetragen hatte. Sie ärgerten sich darüber, dass der Mann sein Bett trug, dachten jedoch nicht an das Leiden oder das Wohlergehen dieses Mannes, der sich viele Jahre lang nicht bewegen konnte und nun die Kraft eines jungen Mannes hatte. Aber Jesus, der Schöpfer und Herr des Sabbats, vollbrachte absichtlich viele Wunder am Sabbat, um mehr als deutlich zu machen, dass dieser besondere Tag ein Segen für die Menschheit sein sollte statt einer Last oder einem Fluch.
+
+### TEIL III: ANWENDUNG
+
+Denkt über die folgenden Fragen nach und beantwortet sie:
+
+`1. Wie schaffen wir es, in der Welt, aber nicht von der Welt zu sein?`
+
+`2. Wie verstehen wir in Bezug auf unsere Diskussion über Wunder den Unterschied zwischen und die Ähnlichkeit von dynamis und semeion? Welche Beispiele finden wir in jedem der Wunder Christi? Passt das Wunder der Dämonenaustreibung in die Kategorie des semeion? Erläutert eure Meinung.`
+
+`3. Worin liegen die Gefahren, wenn wir in unser Haltung starr und damit intolerant werden? Wie können wir uns vor der Torheit hüten, auf unsere eigenen Ideen zu vertrauen und den Geist des Gesetzes zu ignorieren, der das größere Gesamtbild darstellt? Wie würdet ihr auf folgende Aussagen reagieren: „Entweder so, wie ich es will, oder gar nicht“ oder „Ich habe mir meine Meinung gebildet. Verwirre mich nicht mit Fakten“?`

@@ -1,0 +1,22 @@
+Der Perserteppich, der in einem Geschäft in Teheran, Iran, lag, zeigte einen uralten Wald. Er war wunderschön gestaltet und stellte eine Szene in der Schweiz dar: Berge, einen Wasserfall, einen türkisfarbenen See, bewaldete Hänge und einen weiten blauen Himmel mit Wolken.
+
+Man hätte in diesem Geschäft viel Zeit damit verbringen können, die ­Details wahrzunehmen: die Anzahl der Knoten pro Quadratzentimeter, das Material des Teppichs, die verwendeten Farben – all die Kleinigkeiten, die den Teppich ausmachten.
+
+Oder der Betrachter könnte sich stattdessen auf die fesselnden Techniken und Themen konzentrieren, die dem Teppich seine einzigartige Schönheit verliehen: der Himmel, der sich im See spiegelte, der Schnee, der die Berge bedeckte, der grüne Wald, der durch das tiefgrüne Moos ergänzt wurde. Die Themen des Teppichs fügten sich zu einer geschickt koordinierten Darstellung von Schönheit zusammen, die die Pracht dieses ruhigen Ortes in den Alpen widerspiegelte.
+
+In diesem Quartal werden wir uns mit einem anderen fein gearbeiteten Meisterwerk befassen. Dieses Werk ist weder das Ergebnis eines Pinsels auf einer Leinwand noch ein präzise gerahmtes Foto oder ein gekonnt gewebter Teppich. Vielmehr ist es das Wort Gottes, wie es im Johannesevangelium kunstvoll zum Ausdruck kommt.
+
+Worte haben innerhalb ihres Kontextes eine Bedeutung. Um zu verstehen, was die Heilige Schrift sagen will, muss sie im Kontext studiert werden – die unmittelbaren Sätze, Kapitel und Abschnitte sowie die Gesamtaussage der Bibel selbst. Da die gesamte Bibel vom Heiligen Geist inspiriert ist, sollte ­jeder Teil im Zusammenhang mit dem Ganzen studiert werden.
+
+In diesem Quartal geht es darum, die Botschaft des Johannesevangeliums zu verstehen. Es ist einzigartig unter den vier Evangelien, da es sich oft auf persönliche Gespräche zwischen Jesus und nur einer oder zwei Personen konzentriert – wie Nathanael, Nikodemus, der Frau am Brunnen, dem Gelähmten am Teich von Betesda, dem blind geborenen Mann, Lazarus und seinen Schwestern, Pilatus, Petrus oder Thomas. Viele dieser Berichte kommen nur bei Johannes vor.
+
+Das Johannesevangelium ist das Wort Gottes, das uns durch den Apostel übermittelt wird. Wie die gesamte Bibel ist auch das Evangelium durch den Willen Gottes und nicht durch menschlichen Willen entstanden. Johannes war lediglich das bereitwillige Werkzeug, das der Heilige Geist gebrauchte, um viele entscheidende Themen zu vermitteln: das Wort (logos), Licht, Brot, Wasser, Heiliger Geist, Einssein, Zeichen, Zeugnis und Prophetie. Diese Themen verstärken und erhellen sich gegenseitig im gesamten Evangelium.
+
+Das Bibelstudium konzentriert sich oft auf die Bedeutung eines Wortes oder eines kleinen Abschnitts der Heiligen Schrift. Wir überprüfen die Bedeutung des Wortes in einem Bibellexikon. Wir untersuchen die Grammatik, den unmittelbaren Kontext, den historischen Kontext und – um bei unserem Vergleich mit dem Teppich zu bleiben – wir bleiben bei der Untersuchung der Anzahl der Knoten pro Quadratzentimeter, des Webmaterials, der Farben und des Trägermaterials hängen. All diese Details sind wichtig.
+
+Aber wir dürfen bei der Betrachtung der Details nicht das große Ganze übersehen. So wie der Perserteppich jemanden in diese wunderschöne
+Alpenszene versetzen kann, so kann uns das Johannesevangelium zum Leben und Wirken Jesu Christi zurückführen – ihn zu kennen bedeutet ewiges Leben. Die Details haben die Aufgabe, uns auf das große Ganze hinzuweisen. Bei Johannes ist dieses große Ganze eine göttlich inspirierte Offen­barung von Jesus, unserem Herrn und Erlöser.
+
+E. Edward Zinke, ehemaliger stellvertretender Direktor des Biblical Research Institute der Generalkonferenz der Siebenten-Tags-Adventisten, ist in vielen kirchlichen Aktivitäten und Gremien tätig, unter anderem als stellvertretender Vorsitzender des Ellen White Estate Board und als leitender Berater für ­Adventist Review Ministries. Er besitzt drei Ehrendoktorwürden von adventistischen Universitäten und lebt in Maryland.
+
+Thomas Shepherd, PhD, DrPH, ist leitender Forschungsprofessor für Neues Testament am Theologischen Seminar der Siebenten-Tags-Adventisten der ­Andrews University, wo er seit 2008 lehrt. Er und seine Frau, Sherry Shepherd, MD, haben als Missionare in Malawi und Brasilien gearbeitet. Sie haben zwei erwachsene Kinder und sechs Enkelkinder.
