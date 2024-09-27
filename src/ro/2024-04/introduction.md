@@ -1,0 +1,21 @@
+### Teme în Evanghelia după Ioan
+
+Covorul persan din magazinul din Teheran (Iran) înfățișa o pădure străveche. Frumos realizat, recrea o scenă din Elveția: munți, o cascadă, un lac turcoaz, dealuri împădurite și un cer albastru întins presărat cu nori.
+
+Oricine din acel magazin și-ar fi putut petrece timpul observând detaliile: numărul de noduri pe centimetru pătrat, materialul din care era făcut covorul, tipurile de vopsea folosită – toate elementele care alcătuiau covorul. Sau ar fi putut să se concentreze, în schimb, pe tehnicile și temele impresionante care dădeau covorului frumusețea unică: cerul reflectat în lac, zăpada de pe vârful munților, pădurea înverzită întregită de mușchiul de un verde intens. Temele covorului se îmbinau într-o etalare a frumuseții abil coordonate pentru a reda splendoarea acelui loc senin din Alpi.
+
+În acest trimestru vom studia o capodoperă. Lucrarea aceasta nu este rezultatul mișcării unei pensule pe pânză, al unei fotografii perfect încadrate ori al țeserii dibace a unui covor, ci este Cuvântul lui Dumnezeu așa cum este exprimat cu măiestrie în Evanghelia după Ioan.
+
+Cuvintele au semnificație în contextul în care se află. Pentru a se înțelege ce vrea să spună Scriptura, aceasta trebuie studiată ținându-se cont de context – de propoziții, de capitole, de secțiuni și de mesajul general al Bibliei în sine. În cele din urmă, pentru că întreaga Biblie este inspirată de Duhul Sfânt, fiecare parte ar trebui studiată în contextul întregului.
+
+În acest trimestru avem în vedere înțelegerea mesajului Evangheliei după Ioan. Este unică între cele patru evanghelii, concentrându-se adeseori pe discuții personale între Isus și unu sau doi oameni – precum Natanael, Nicodim, femeia de la fântână, paralizatul de la scăldătoarea Betesda, omul născut orb, Lazăr și surorile lui, Pilat, Petru sau Toma. Multe dintre aceste istorisiri apar numai în Ioan.
+
+Evanghelia după Ioan este Cuvântul lui Dumnezeu transmis nouă prin apostol. La fel ca în cazul întregii Biblii, Evanghelia a venit prin voia lui Dumnezeu, nu prin voia omului. Ioan nu a fost decât instrumentul care a acceptat ca Duhul Sfânt să îl folosească pentru a transmite multe teme cruciale: Cuvântul (logos), lumina, pâinea, apa, Duhul Sfânt, unitatea, semnele, mărturia și profeția. Aceste teme se amplifică și se luminează unele pe altele în Evanghelie.
+
+Studiul biblic se concentrează adesea asupra semnificației unui cuvânt sau a unui pasaj mai mic din Scriptură. Căutăm sensul cuvântului într-un dicționar biblic. Analizăm elementele gramaticale, contextul imediat, contextul istoric și așa – folosind analogia noastră despre covor – suntem prinși în analizarea numărului de noduri pe centimetru pătrat, a materialului, a vopselelor și a părții din spate. Toate aceste detalii sunt importante.
+
+Dar să nu pierdem din vedere imaginea de ansamblu în timp ce cercetăm detaliile! La fel cum covorul persan ar putea transpune pe cineva în acea frumoasă scenă alpină, și Evanghelia după Ioan ne poate duce înapoi la viața și lucrarea lui Isus Hristos, a Cărui cunoaștere este viața veșnică. Detaliile au rolul lor, acela de a ne îndrepta atenția asupra imaginii de ansamblu, iar în Ioan imaginea de ansamblu este o revelație inspirată de Divinitate despre Isus, Domnul și Salvatorul nostru.
+
+_E. Edward Zinke, fost director asociat al Institutului de Cercetări Biblice din cadrul Conferinței Generale a Adventiștilor de Ziua a Șaptea, este implicat în multe activități și comitete ale bisericii, fiind inclusiv vicepreședinte al Boardului Patrimoniului Ellen G. White și consilier senior la Adventist Review Ministries. Deține trei doctorate onorifice de la universități adventiste de ziua a șaptea. Locuiește în Maryland._
+
+_Dr. Thomas Shepherd, PhD, DrPH, este profesor cercetător senior de Noul Testament la Seminarul Teologic Adventist de Ziua a Șaptea din cadrul Universității Andrews, unde predă din 2008. El și soția sa, Sherry Shepherd, MD, au slujit ca misionari în Malawi și în Brazilia. Au doi copii adulți și șase nepoți._
