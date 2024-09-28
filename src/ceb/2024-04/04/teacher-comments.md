@@ -1,0 +1,72 @@
+---
+title:  Komento sa Magtutudlo
+date:   25/10/2024
+---
+
+#### Bahin I: Kinatibuk-ang Panglantaw
+
+Tutokan sa Pagtoon: Juan 1:35-39, Juan 1:43-46
+
+Si Jesus, ang Tinubdan sa tanang kamatuuran, nagpadan-ag sa kalibutan uban sa kahayag sa kamatuuran. Niini nga paagi, Iyang gidugangan ang sukod sa kahayag nga nahatag ngadto sa matag usa nga natawo niini nga kalibutan. Bisan pa sa kadagaya sa makapadani nga pamatuud, ang uban sa panahon ni Cristo nagpili sa pagpasalipod sa ila nga mga kaugalingon diha sa kangitngit. Tungud sa ilang pagpihig ug garbo, ilang gituyo nga dili maminaw sa kamatuuran ug dili motan-aw sa kahayag. Masubo ang Dios kon kini mahitabo, apan tungud sa Iyang gugma, Iya kita nga tugutan sa paghimo sa ato nga mga pagpili, bisan pa sa mga sayup.
+
+Kini nga leksyon magpasantop sa pamatuud sa pipila ka mga saksi ni Jesus, sama kang Juan Bautista ug sa iya nga duha ka mga tinon-an—si Andres ug si Juan. Ato nga ton-an usab ang pagsaksi sa nakita ni Felipe ug Natanael, ug ang pagsaksi ni Nicodemo, usa ka Pariseo ug inila nga sakup sa Sanhedrin, nga miabli sa iya nga kasingkasing ngadto sa kahayag sa kamatuuran sa Dios. Ang iya nga pamatuud magsaad sa pagkalig-on ug makapadani tungud kay iya nga girisgo pagayo ang pakigsupak batok sa iya nga gamhanang mga kaubanan. Sa iyang gabii nga pakigsulti kang Jesus, gilitok sa mga ngabil ni Cristo ang labing matahum nga saad diha sa Biblia: “Kay gihigugma gayud sa Dios ang kalibutan nga tungod niana gihatag niya ang iyang bugtong Anak, aron ang tanan nga mosalig kaniya dili malaglag, kondili may kinabuhing dayon” (Juan 3:16).
+
+Balik ngadto sa pagsaksi sa nakita ni Juan, kinahanglan mangutana kita: Ngano nga si Juan Bautista, nga tinahud kaayo ug dinayeg sa mga tawo, naghatag ngadto sa kalibutan sa bisan unsa nga butang gawas sa usa ka tinuud nga pamatuud bahin kang Jesus? Giputos ni Juan ang tibuuk ebanghelyo diha sa iya nga pagmatuud nga si Jesus sa pagkatinuud mao ang gitagna nga “Cordero sa Dios, nga magakuha sa sala sa kalibutan!” (Juan 1:29), usa ka tagna nga karon natuman atubangan sa mga mata sa katawhan. Giatubang sa mga pamatuud niana nga mga saksi, dili pa ba kita makatoo sa bug-os nga si Cristo mao ang atong buhi nga Manluluwas ug Ginoo?
+
+#### Bahin II: Komentaryo
+
+**Ang Pagpamatuud ni Juan Bautista**
+
+Ang mga Judio sa panahon ni Cristo adunay kaugalingong mga hunahuna bahin sa paganhi sa Mesias, ug lig-on sila nga ang tanang butang mohaum gayod pagayo sa ila nga mga pamaagi. Nagduda sila nga tingali si Juan Bautista mao ang matang sa Mesias, nga gipadala sa Dios, apan nagpamatuud siya nga usa lang siya nga naguna sa matuud nga Mesias, nga gipadala sa Dios nga gitagna sa pagandam sa dalan alang Kaniya. Wala madugay human niadto, gitudlo ni Juan si Jesus ingon nga “ang Cordero sa Dios.” Apan si Jesus ug ang Iyang halad alang sa ato nga mga sala, wala mahaum sa gipaabut sa Judio nga mga pangulo nga usa ka harianong yutan-ong Mesias, nga mao ang mopukan sa mga nagdaogdaog kanila ug naggahum ibabaw kanila ug, sa katapusan, sa kalibutan.
+
+Karon, ang uban nga mga maduhaduhaon wala kaayoy dakung pagtagad alang sa biblikal nga konsepto bahin sa halad. Ila nga gitudlo ang halad ni Cristo sa pagpamatarong sa ila nga walay pagtagad. Kini nga mga maduhaduhaon nagingon nga dili kinahanglan si Jesus mag-ula sa Iyang dugo aron pagluwas sa makasasala nga katawhan, kay makahimo Siya sa pagluwas kanato pinaagi lamang sa pagpakita sa Iyang gugma ug pinaagi sa paghimo og mga milagro. Apan ang kinabuhi, sumala sa gisulti kanato sa Biblia, anaa sa dugo, ug nawala nga tawo nagkinahanglan sa kinabuhi nga anaa sa Anak. Dili makahimo niini ang mga manulunda alang sa katawhan kay naghulam man lang sila og kinabuhi gikan sa Tagiya sa kinabuhi. Ngano pa man nga ang Dios nagmando sa dili maihap nga mga sakripisyo sa inosente nga mga mananap kon dili magtudlo sa panginahanglan sa walay sala nga dugo ni Cristo alang sa kapasayloan sa sala ug sa paghatag sa kinabuhing dayon?
+
+Tungud niini nga katarungan, si Juan wala masayup sa pagingon, “Ako dili mao ang Cristo” (Juan 1:20) o ang Kahayag, kondili usa lang ka saksi sa katumanan sa tagna sa Biblia. Makaduha nagpamatuud si Juan nga si Jesus mao ang Kordero sa Dios, ang katumanan ug katapusan sa sistema sa paghalad. Iyang gisulti kini nga kamatuuran ngadto sa panon sa katawhan sa panahon nga iya nga nasiplatan si Jesus ug iya usab gipamatuud kini nga sama nga kamatuuran ngadto sa duha sa iya nga mga tinon-an (tan-awa sa Juan 1:29, 36).
+
+Si Juan Bautista ang saksi nga nakakita sa mga panghitabo sa pagbautismo kang Jesus, nakadungog sa tingog sa Amahan nga nagpahibalo nga si Jesus mao ang Iyang Pinalangga nga Anak kinsa Siya nahimuut pagayo. Usab, mikunsad ang Espiritu Santo ug nagpabilin ibabaw kang Jesus sa pagpaila sa Dios kang Juan sa pagka-Dios sa Manluluwas. Busa, miingon si Juan: “Gipanghimatuod ko nga kini siya mao ang Anak sa Dios” (Juan 1:34). Atubangan niini nga pagmantala, dili makapugong ang usa ka tawo sa paghunahuna kon unsa pa nga dugang ebidensiya nga gikinahanglan sa pagpatoo sa usa ka maduhaduhaon. Ikasubo, kon adunay usa ka tawo nga magpili sa kanunay sa pagduhaduha, iyang gitabonan ang iyang kaugalingon diha sa kangitngit.
+
+**Ang Duha ka mga Tinon-an ni Juan** (Juan 1:35-39)
+
+Ang duha ka mga tinon-an ni Juan Bautista, si Andres ug si Juan, ang magsusulat sa Ebanghelyo, nakadungog na sa pagpangwali ni Juan bahin sa katumanan sa tagna sa Daang Tugon diha kang Cristo. Busa, samtang ang ila nga magtutudlo nagawhag sa ila nga pagtagad ngadto kang Jesus, ang bantugang Magtutudlo nagbarog sa ilang atubangan, mitoo sila ug naghandum sa pagsunod Kaniya. Si Andres ug Juan makahimo unta nga kritikal ug maghukum, sama sa mga Pariseo, bahin sa matag usa ka pulong ug lihok ni Jesus, apan nagpili sila sa pagtoo diha sa pagpatoo sa Espiritu. Nagasalig usab sila sa pagkamainiton ug sa pagkatinuud sa dili malalis nga biblikal nga pamatuud ni Juan Bautista.
+
+Tingali adunay mangutana, karon kita nahibalo nga ang ikaduhang tinon-an nga gipasabut mao si Juan ang Hinigugma? Si Andres ginganlan gayod sa iya nga ngalan, apan si Juan nga tingali mapaubsanon kaayo nga mopaila gayod sa iyang kaugalingong ngalan, sa pagkatinuud, mao gayod ang ikaduha nga tinon-an. Si Andres mao ang nagpaila sa iyang igsoon nga si Pedro ngadto kang Jesus. Si Andres, Pedro, ug Juan mao ang una nga tulo nga mga lalaki nga nagmugna sa kinauyokan sa orihinal nga 12 ka mga tinon-an. “Nagbiya kang Juan [ang Bautista], nanglakaw sila sa pagpangita kang Jesus. Usa sa duha mao si Andres, ang igsoon ni Simon; ang uban mao si Juan ang ebanghelista. Mao kini ang una nga mga tinon-an ni Cristo.”—Ellen G. White, _The Desire of Ages_, p. 138.
+
+Masabut nga kini nga duha ka mga tinon-an, si Andres ug Juan, interesado kaayo diha sa pagka-Mesias ni Jesus ug sa kahibulungan nga kamatuuran nga Iyang gitanyag kanila. Tan-awa ang ilang dayag nga pagtubag sa pangutana ni Jesus samtang nagsugod sila sa pagsunod Kaniya. “Unsay inyong gipangita?” nangutana Siya. Sukwahi sa atong gidahum, nangutana sila bahin sa Iyang puloy-anan. “diin ka magpuyo” (Juan 1:38). Dili lang sila interesado sa pagsunod kang Jesus; naghandum sila nga mopuyo uban Kaniya ug magtoon og dugang bahin sa Iyang buluhaton. Ug nagpuyo sila uban Kaniya sa tibuuk adlaw, sa pagtoon sa kahibulungang mga butang bahin Kaniya. Kumusta man kita niini nga panahon? Igo ba lang kita naghandum sa pagtoo kang Jesus apan dili magdugay diha sa Iyang presensya? Malipay ba kita sa pakiguban Kaniya? Sa pagkatinuud, ang bugtong lamang nga paagi nga mausab ang ato nga mga kinabuhi mao ang pagtan-aw Kaniya, sumala sa gipahimangno ni Juan sa iya nga mga tinon-an.
+
+**Si Felipe ug Natanael** (Juan 1:43-46)
+
+Gikan kang Andres, Juan, ug Pedro, ato na tagdon si Felipe ug Natanael. Si Felipe, sa nakamatikod nga ang iyang higala si Natanael daw mapihigon man og gamay ug pagkasiguro dili dali makatoo, misulay sa paghatag og dugang nga makadani nga ebidensiya bahin sa Mesias gikan kang Moises ug sa mga manalagna. Samtang nagalang-alang si Natanael pagtoo sa iyang pagkadungog nga si Jesus gikan sa Nazaret, wala makiglantugi ni nakiglalis si Felipe kaniya kondili igo lang siya nagdapit kaniya ngadto sa “Umari ka ug tan-awa” (Juan 1:46). Timan-i nga naggamit si Jesus sa sama nga paagi alang kang Andres ug Juan sa Iyang pagdapit kanila sa pagduul ug magtan-aw alang sa ila nga mga kaugalingon.
+
+Adunay usa ka butang nga gamhanan ug makapausab bahin sa paggahin og panahon uban kang Cristo. Mahimo nga maglantugi kita ug maglalis sa teolohiya ug pilosopiya dapig sa kamatuuran sa uban, apan, sa katapusan, ang ato nga pagsaksi mao ang labing epektibo kon kita sa maloloy-on ug sa mainiton magdapit kanila sa pagdiskobre bahin kang Jesus alang sa ila nga mga kaugalingon. Sa ato nga pagsaksi, kinahanglan atong tutokan ang una nga butang sa pagtabang sa uban sa pagkahibalo bahin kang Jesus sa personal, ug dayon daghang mga pagsupak ug mga pagduhaduha mangahanaw. Ang pagtudlo sa mga doktrina importante gayod, apan kinahanglan magsugod kita kang Jesus ingon nga mao ang kasingkasing sa tanang kahibalo.
+
+Importante timan-an ang kalainan tali sa pagtan-aw ni Natanael kang Jesus ug giunsa ni Jesus pagtan-aw kaniya. Giila ni Natanael si Jesus ingon nga dili maayo tungud kay naggikan Siya sa Nazaret. Ikasubo, kita usab, usahay magbuhat sa sama nga butang ngadto sa uban. Ato sila ibutang sa dili maayo nga pagila pinasikad sa nasyonalidad, rasa, kultura, o uban pa nga mga kalainan nga atong makita. Sukwahi sa nahauna nga paghunahuna ni Natanael, nagpamatuud si Jesus ngadto niini nga sa dili madugay-mahimong usa ka tinon-an. Sa pagkakita ni Jesus kaniya, miingon Siya, “Tan-awa, aniay usa ka tinuod gayud nga Israelinhon, kang kinsa wala ang pagkalimbongan” (Juan 1:47), usa ka tinuud gayod nga makapadasig nga komento nga naghatud kaniya ngadto sa pagpangutana og dugang bahin niini nga Nazareno. Sa pagkasaksi ni Natanael sa katakus ni Jesus sa pagpanagna, mitoo dayon siya. “Rabi, ikaw mao ang Anak sa Dios! Ikaw mao ang Hari sa Israel” (Juan 1:49).
+
+**Ang Pagpamatuud ni Nicodemo** (Juan 3:1-21)
+
+Si Juan, sa iya nga asoy bahin kang Jesus nagpaila sa iyang kaugalingon nga mao ang magsusulat sa Ebanghelyo nga nagpahayag sa iyang personal nga mga pagkahibalag nga si Jesus adunay pila ka mga tawo, sama kang Nicodemo ug ang babaye nga Samarianhon. Sa mga pakigtagbo ni Jesus, wala Siya magpakita og pinalabi alang sa usa ka matang sa tawo kaysa uban. Kondili, nangita si Jesus sa makahuloganong pakigsulti sa tanan nga madinawaton sa kamatuuran, bisan siya usa ka inila nga Judio nga pangulo sama kang Nicodemo, o sa usa ka tinamay nga babayeng Samarianhon.
+
+Si Nicodemo usa ka Pariseo ug importante nga sakup sa Sanhedrin, nga nagalagad ingong labing hataas sa hudisyal nga sistema sa Judaismo, labing duul sa paggahum sa puloy-anan. Ang pulong “Sanhedrin” naggikan sa Grego nga pulong sunedrion, nga sa literal nagkahulogan “usa ka konsilyo.” Nagsakup kini og 71 ka mga sakup, sa tulo ka mga dibisyon, sumala sa Mateo 27:41, sa mosunod:
+
+1. Hataas nga mga saserdote (ang magmamando nga hataas nga saserdote, retiradong hataas nga mga saserdote, ug mga myembro sa pamilya sa hataas nga saserdote.) Kini nga pundok kadaghanan mga Saduceo.
+2. Mga eskriba (sa kadaghanan mga Pariseo).
+3. Mga anciano, nga mga representante sa panguna nga mga pamilya sa mga aristokratiko nga tawo.
+
+Ang opisina sa pangulong hataas nga saserdote nahimong kurakot ug sagad paliton ug ibaligya sa Roma ngadto sa labing hataas nga tigpalit.
+
+Ang Grego nga ngalan ni Nicodemo sa literal nagkahulogan “mananaog ibabaw sa mga tawo.” Nailhan tungud sa iya nga bahandi, inila usab si Nicodemo nga magtutudlo. Natandog siya pagayo sa iyang pagkahibalag kang Jesus tungud sa tanang dili kasarangan nga mga butang nga iyang nadungog bahin Kaniya. Apan kinahanglan magmatngon siya. Dili siya makahimo og bisan unsa nga butang nga makapasakit sa iyang mga isigka-pangulo ug mao ang makaingon sa walay pagkaayo nga kadaot ngadto sa iya nga mga relasyon kanila; apan, si Nicodemo dili makahimo nga dili motagad sa lig-on nga ebidensiya nga si Jesus mao ang Mesias. Mao ang hinungdan nga sa gabii siya nakigsulti kang Jesus, diin nalingaw siya sa pila ka pribado nga pakigsulti kang Jesus. Hibalagon kita ni Jesus sa atong nahimutangan sa ato nga espirituhanong panaw. Dili gayud Siya magsapayan kon unsaon nato pagduul Kaniya, basta kita moduul uban sa matinudanong kasingkasing.
+
+Adunay kahigayonan si Nicodemo sa pagsukod sa espirituhanong walay mansa nga kinaiya ug kadungganan ni Jesus. Ang gisangputan, sa ulahi, gilabanan ni Nicodemo si Jesus batok sa Sanhedrin, nga gustong mohukum Kaniya nga walay pagpaminaw Kaniya, sumala sa atong nahibaloan diha sa Juan 7:51. Timan-i ang paguswag sa kasinatian ni Nicodemo kang Jesus; pribado ang iyang pakigkita kang Jesus, sa pagtoon bahin sa tinuud nga pagkakabig; iyang gilabanan si Jesus atubangan sa Sanhedrin; ug dayon, sa katapusan, maisogong kaayo siya sa pagtabang sa pagkuha sa lawas ni Jesus gikan sa krus aron ilubong.
+
+#### Bahin III: Kagamitan sa Kinabuhi
+
+Hunahunaa ug tubaga ang mosunod nga mga pangutana:
+
+1\. Hunahunaa ang pagpamatuud sa Dios-Amahan bahin sa Iyang Anak panahon sa Iyang bautismo. Posibli ba gayod nga tan-awon ka sa Dios ug moingon sa sama nga butang nga Iyang gisulti bahin sa Iyang Anak, ug ikaw hinigugma nga anak Niya nga nahimuut Siya pagayo? Isaysay. Siguroha ang pagbasa sa makapadasig nga tubag diha sa pahina 113 sa _The Desire of Ages_, nahauna nga parapo, samtang imong pormahon ang imong tubag. Unsaon nimo paggamit ang kasigurohan nga makita diha sa mao nga parapo sa imong kinabuhi adlaw-adlaw, ug unsa ang kalainan nga mahimo niana?
+
+2\. Hunahunaa ang mga pulong ni Juan bahin kang Jesus: “Tan-awa, mao kana ang Cordero sa Dios, nga magakuha sa sala sa kalibutan!” (Juan 1:29). Unsa man ang mahimo nga kalainan kon magtutok kita paguna sa paglikay sa atong mga sala, dayon motan-aw kang Jesus, nga magbali sa duha ka mga idiya niini nga teksto? Isaysay.
+
+3\. Sa unsa nga paagi ang pakigtagbo ni Nicodemo kang Jesus makatabang kanimo sa pagsaksi nga epektibo ngadto sa ilado nga mga tawo sa katilingban?
+
+4\. Itandi ang epektibo nga pagsaksi ni Cristo ngadto kang Nicodemo niana nga Iyang pagsaksi ngadto kang Natanael. Unsa ang imong makat-onan gikan sa duha ka mga sulondan?
+
+` `

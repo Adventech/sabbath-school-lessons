@@ -1,0 +1,62 @@
+---
+title:  Komento sa Magtutudlo
+date:   01/11/2024
+---
+
+#### Bahin I: Kinatibuk-ang Panglantaw
+
+Tutokan sa Pagtoon: Juan 4:1-15, Juan 4:16-26, ug Juan 4:27-42
+
+Ang mga Samarianhon tinamay sa ilang Judio nga mga silingan. Ang mga Judio tinamay sa mga Samarianhon labaw pa gani sa ilang pagtamay sa ilang Romano nga mga tigdaogdaog. Gitan-aw ang mga Samarianhon nga mga kurakot, dili matinud-anon, ug likayan sa bisan unsa nga panahon. Mao ang hinungdan nga ang mga magpapanaw gikan sa mga rehiyon sa Galilea maglikay sa laktud nga agianan padulong sa Jerusalem agi sa Samaria ug sa baylo nga motuyok agi sa Perea, moagi sa layolayo nga agianan ngadto sa siyudad.
+
+Ang problema sa Samaria nagsugod pinaagi kang Tiglath-Pileser III (745-727 B.C.) nga nagbihag sa kadaghanan sa populasyon sa Israel ngadto sa Asyria aron mamuyo didto. Kini nga mga Israelita nagsakup sa gitawag og napulo ka mga tribo nga nawala sa Israel. Sa pagkompleto sa ilang trabaho sa pagwala sa populasyon, ang bag-ong emperador sa Asyria, si Sargon II (1722-705 B.C.) nagpalayas og dugang pa gayod sa mga namuyo sa Gingharian sa Amihanan.
+
+Aron paghiusa sa emperyo sa Assyria, ang mga tawo gikan sa Assyria ug sa mga rehiyon sa Mesopotamia gidala ngadto sa Israel aron kini papuy-an pagbalik. Busa, kini nga bag-ong nangabut nakigsagol sa nahabilin nga mga Israelita, sa rilihiyon ug sa rasa. Ang lagda dinhi mao ang usa ka hamubo nga pagtan-aw sa mga panghitabo nga nahitabo. Ang ubang negatibo nga mga insidente nga nahitabo sa ulahi, sama sa pagsulay sa mga Samarianhon sa pagsabotahi sa mga paningkamut sa pagtukod pagusab sa Judio nga mga binihag sa dihang sila mibalik sa ilang nasod, nakadugang lamang sa suliran ug nakapasamot sa tensiyon sa rasa tali sa mga Samarianhon ug mga Judio.
+
+#### Bahin II: Komentaryo
+
+**Ang Babaye Didto sa Atabay** (Juan 4:1-15)
+
+Sa Iyang pagkahibalag niini nga babaye nga Samarianhon, nagsupak si Jesus sa pamatasan ug sa higpit kaayo nga mga tradisyon sa mga Judio, sa tanang bahin aron lang sa pagdani sa mao nga babaye alang sa Iyang gingharian. Pananglitan, gitugotan siya ni Jesus sa usa ka pribado nga pakigsulti, bisan og usa siya ka babaye gikan sa Samaria. Nangayo Siya kaniya og tabang, nga dili madawat sa ilang kultura, kay ang mga Judio walay maayo nga pagtagad niadto nga mga tinamay ug ginganlan og “mahugaw” nga katawhan, ilabina sa usa ka babaye.
+
+Sa kultura sa mao nga panahon, ang pagpangayo ug pagdawat og usa ka pabor gikan sa usa ka tawo nagbukas sa pultahan ngadto sa pakighigala ug nagobligar sa natabangan sa pagbalos sa paghatag og tabang. Daw nakurat ang babaye nga si Jesus, usa ka Judio, naghangyo kaniya, usa ka tinamay nga babaye nga Samarianhon, nga magbuhat og usa ka butang alang Kaniya, nga magpahigayon og usa ka relasyon. Atong tagdon ang iyang tubag: “Naunsa ba nga ikaw nga usa ka Judio mihangyo man nga paimnon ko nga usa ka babayeng Samarianhon” (Juan 4:9).
+
+Makasibut hunahunaon nga ang mga buluhaton nga iyang buut humanon wala mahimo. Magsag-ob man unta siya og tubig nga dad-on ngadto sa iyang lungsod nga Sicar, apan sa kalipay o kahinam bahin sa iyang kahibulungan nga nakaplagan nga Tubig sa Kinabuhi, iyang gibiyaan ang iyang mga sudlanan nga puno og tubig. Gusto siya nga mohatag kang Jesus og tubig sa paghupay sa Iyang kauhaw, apan wala niya mabuhat tungud kay mibiya siya pagdali. Sa pagbalik sa mga tinon-an ni Jesus nga nadala og pagkaon sa pagsumpo sa Iyang kagutom, hilabihan nila katingala nga wala na Siya gutoma.
+
+“Ang pagbiya sa iyang gisag-oban og tubig sa dili sayup nagsulti sa pagkaepektibo sa Iyang mga pulong. Usa kadto ka mainiton nga handum sa iyang kalag ang pagbaton sa buhi nga tubig; ug nalimot siya sa iyang tuyo didto sa atabay, nalimot siya sa kauhaw sa Manluluwas, nga iyang gihunahuna nga hatagan.”—Ellen G. White, _The Desire of Ages_, p. 191. Natandog pagayo si Jesus nga ang usa ka tinamay nga babaye miabli sa iyang kasingkasing ngadto Kaniya ingon nga dugay na nga gipaabut nga Mesias—usa ka labi pa ka maayo nga pagtagad kaysa gikan sa daghang sa iyang kaugalingong katawhan, nga nagsira sa ilang mga hunahuna ngadto Kaniya. Natandog pagayo si Jesus sa pagbuhat sa buluhaton sa Iyang Amahan sa pagbawi sa nawala nga mga kalag alang sa gingharian sa langit sa pagkaagi nga nawala ang Iyang lawasnon nga kauhaw ug kagutom, nga gisangkapan ang Iyang kalag sa langitnong tubig ug pagkaon.
+
+Usahay ang pagsaksi ngadto sa uban buhaton tungud sa pagbati sa katungdanan ug giisip ingon nga laay. Apan ang pagsaksi kinahanglan mahimo nga usa ka kalipay kon si Cristo magatubod gikan sa kasingkasing. Busa, mahimo kini nga buluhaton sa kasingkasing imbis nga malisud nga buluhaton. Ang mga nakasinati niini nga buluhaton nga nasentro kang Cristo, tinuud gayud kini nga usa ka pagawas sa Espiritu nga gibubo gikan sa tawhanong kasingkasing. Mao nga nagingon si Jesus ngadto sa Iyang natingala nga mga tinon-an: “Ang akong pagkaon mao ang pagbuhat sa kabubut-on sa nagpadala kanako, ug ang pagtuman sa ipabuhat niya” (Juan 4:34).
+
+**Ang Pagpadayag ni Jesus** (Juan 4:16-26)
+
+Ang makita nga pagkahisama tali sa pagtagad sa babaye nga Samarianhon ug kang Nicodemo sa ilang pagkadungog sa halalum kaayo nga kamatuuran nga gilitok ni Cristo. Kini nga dungganon nga sakup sa Sanhedrin misulay sa pagpatipas sa mahinungdanon kaayo nga hilisgutan sa gikinahanglan kaayo nga espirituhanong panagsultihay. Sa baylo nga sumpoon ang pagkaignorante ni Nicodemo sa kahulogan sa mga pulong ni Cristo ug misulay sa pagdugtong sa literal nga pagkahimugso pagusab gikan sa tagoangkan sa inahan. Sa sama nga kaagi, ang tinamay nga babaye sa Sicar nagusab sa suheto sa usa ka pagsulay sa pagpugong sa iyang pagtoo nga si Jesus mao ang Mesias. Iyang gipatipas ang panagsultihay uban kang Jesus ngadto sa usa ka kasamtangan nga lantugi bahin sa husto nga dapit sa pagsimba.
+
+Sa kalooy apan sa dayag nga pagkasulti gidala siya ni Jesus balik ngadto sa talandogon nga isyu sa pagila nga Siya mao ang Mesias nga nagtindog sa iyang atubangan. Mainampingon usab Siya sa pagpahinumdum kaniya sa iyang sinagolan nga rilihiyon nga pagano ug Judaismo nga wala maghatud ngadto sa matuud nga pagsimba sa Dios, kay Siya ang Espiritu ug ang tuburan sa kamatuuran. Miingon si Cristo ngadto kaniya nga “ang Dios espiritu, ug ang mga magasimba kaniya kinahanglan managsimba diha sa espiritu ug sa kamatuoran” (Juan 4:24). Sa usa ka pagkasulti, ang matuud nga pagsimba nga maghatud ngadto sa kaluwasan dili kaayo bahin sa usa ka dapit; kondili, bahin kini sa Persona ni Cristo.
+
+Kini nga yano nga babaye, usa ka makasasala uban sa usa ka dili maayo og dungog, gipiyalan sa ugdang nga kamatuuran nga si Jesus mao ang dugay na nga gipaabut nga Mesias. Ang Manluluwas sa anam-anam naggiya sa Samarianhon nga babaye ngadto sa kamatuuran, nga nagtapus sa Iyang pagpasidungog kaniya—labaw kay kang bisan kinsa sa wala pa ang Iyang pagkabanhaw—uban sa tukma nga kamatuuran bahin sa Iyang pagka-Mesias. “Ako nga nakigsulti kanimo mao siya” (Juan 4:26). Sa sama nga paagi, dili kita magpakita og pagpaborpabor sa pagtagad og mga tawo, bisan kon sila dato o kabus, o labaw ka dungganon o “ubus” sa kahimtang sa katilingban. Kana nga kalahian kinahanglan dili mao ang mahinungdanon kanato tungud kay dili kini ang mahinungdanon alang kang Cristo. Ang tanan nga atong ikahibalag managsama ra ang gikinahanglan: nagkinahanglan sila og pasaylo ug katubsanan.
+
+**Ang Pagpamatuud sa mga Samarianhon** (Juan 4:27-42)
+
+Sa kultura sa mga Judio panahon ni Jesus, adunay tulomanon ang pagbalos sa pagkamaabiabihon, nga mauyonan kon ang nagbalos masigka-Judio apan dili kon siya usa ka Samarianhon. Ang pagdawat og pabor ug pagbalos niini mosangko ngadto sa pagdani og mga tawo ngadto sa pagkasuud sa usag-usa. Tungud niini nga katarungan, supak gayod ang mga Judio niini nga pamatasan alang sa mga dumuloong. Apan nagpaibabaw si Jesus sa nasyonal nga pagpihig sa mga Judio, kay mianhi Siya sa pagalagad ug pagluwas sa hatag-as ug sa ubus, sa sulud ug sa gawas sa Judio nga katilingban. Dugang pa, ngano nga kana nga katilingbanon nga obligasyon makasamok kon ang Iyang buluhaton moabut man ngadto sa kinatumyan sa Iyang pagpakamatay alang sa katawhan?
+
+Gibatasan ni Jesus ang pagbalosanay sa Iyang ministeryo, kay andam man Siya sa paghatag ug pagdawat og tabang. Kana nga paagi mao ang usa ka epektibo sa pagila sa uban ug pagtabang kanila sa pagbati nga adunay bili ug gikinahanglan sa katilingban. Pamalandonga kon unsa ka epektibo kini nga pamaagi ngadto sa babaye nga Samarianhon. Nangayo lang si Jesus og tubig nga mainum, nga iyang mahatag, ug Iyang gibalusan og gasa sa Tubig sa Kinabuhi, nga Siya lamang ang makahatag. Dayon ang babaye, sa baylo, nagpaambit sa maayong balita ngadto sa iya nga katawhan, ug ang tibuuk lungsod nangadto alang sa pakighibalag kang Jesus ug sa pagtoo Kaniya.
+
+Sa sama nga paagi, ang ato nga pagsaksi kinahanglan mokaylap gikan sa usa ka tawo ngadto sa daghan pa—nga maganam kadaku ang masakup sa impluwensiya. Usab, gibuksan ni Jesus ang Iyang kaugalingon nga madali usab duulon sa uban. Gidapit ni Jesus ang pakigsuud ug naghandum sa katawhan nga magmatinagdanon ug magmaloloy-on Kaniya. Giingnan kita ni Ellen G. White nga “sa puloy-anan ni Lazaro kanunay nakakaplag og pahulay si Jesus. Walay kaugalingong puloy-anan ang Manluluwas; nagsalig lang Siya sa pagabiabi sa Iyang mga higala ug mga tinon-an. . . . Naghandum Siya sa tawhanong kalumo, maayong kabubut-on, ug paghigugma.”—Ellen G. White, _The Desire of Ages_, p. 524.
+
+Sa pagtapus, ato nga palandongon kini nga kinutlo nga nagtandog sa pagkamabaloson nga nasinatian ni Jesus sa mga Samarianhon sa Sicar. Bisan og usa Siya nga Judio nga magtutudlo, “Iyang gidawat ang pagkamaabiabihon niini nga tinamay nga katawhan. Natulog Siya uban kanila sa ilang mga balay, nakigsalo kanila sa pagpangaon.”—Ellen G. White, _The Ministry of Healing_, p. 26. Sa kanunay ato nga makaplagan kini nga usa ka hagit sa pagbatasan sa pagbalosanay sa ato nga pagpanaksi ngadto sa uban. Tingali tungud kay atong gibati nga mapanalanginan sa daku sa maanindot nga mga kamatuuran nga gihatag sa Dios kanato, malagmit kita mahimo nga mga katabang apan sagad nga dili makatugot sa ato nga mga kaugalingon nga mga modawat og tabang. Apan, mahimo kita nga labaw ka epektibo kon magpaubus kita sa atong mga kaugalingon ug magbatasan sa panigingnan ni Cristo sa paghatag ug pagdawat.
+
+#### Bahin III: Kagamitan sa Kinabuhi
+
+Tubaga ang mosunod nga mga pangutana:
+
+1\. Unsa ang mga babag sa atong pagpanaksi nga atong mahibalag sa atong interpersonal nga pakighibalag sa uban, sama sa mga silingan, mga kaubanan sa trabaho, ug mga higala? Unsa ang mga kalabutan, kon aduna man, ang nagkalahilahi nga mga pinulongan, rasa nga kagikan, kultural nga tulomanon, ug kahimtang sa ekonomiya nga makaapekto sa atong pagsaksi? Unsaon pagtabang sa Dios kanato sa pagbuntog niana nga mga babag? Sa unsa nga paagi ang panigingnan ni Jesus dakung matabang kanato niini nga bahin? Hinumdumi nga si Jesus nagbilin og usa ka hingpit nga pagkinabuhi didto sa langit aron sa pagatubang sa mga problema ug sa makasasala nga binuhatan nga naghasol sa mga tawo.
+
+2\. Hunahunaa ang mosunod nga kahimtang: mga sakup sa iglesya dili mosalmot sa bisan unsa nga pagmensahe o pagpanaksi tungud kay mahadlok sila sa bag-o nga mga sakup sa iglesya nga malagmit makapausab sa mga nabatasan nga paagi sa pagsimba nga ilang naandan. Unsaon nimo pagtagad niini nga hagit?
+
+3\. Paghunahuna sa imong paborito nga kalingawan. Unsa kadaku ang imong pagkaanad niana nga kalingawan sa kalipay nga malimot ka na sa pagkaon? Sa sama nga kahimtang, sa unsa nga paagi ang panigingnan ni Cristo sa pagsaksi ngadto sa babaye nga Samarianhon makatandog kanato gikan sa pagbati niini nga usa ka natad sa tulomanon ngadto sa natad sa kalipay?
+
+4\. Unsaon nato pagtagad kon ang Espiritu Santo magpasabut kanato bahin sa kamatuuran, sa pagkamatarong, ug sa sala, ilabina bahin sa mga butang nga dili nato tagdon? Mapailubon ba kita sama sa babaye nga Samarianhon sa pagpaminaw kang Jesus sa pagasoy sa “ubang bahin sa sugilanon,” aron nga, ang sangputanan, mangaayo kita ug mapahiuli ngadto Kaniya?
+
+5\. Paghinumdum og usa ka insidente o pagmando sa Dios diin ikaw gigamit sa pagimpluwensiya sa usa ka tawo sa pagdawat ug pagkinabuhi alang Kaniya. Sa una nga paagi kadto nga pakighibalag nakaapekto sa ubang mga tawo o gani sa labaw kadaku nga pundok sa mga tawo? Paggahin og panahon sa pagpaambit sa imo nga kasinatian sa usa o daghang mga tawo niini nga semana.
+
+` `
