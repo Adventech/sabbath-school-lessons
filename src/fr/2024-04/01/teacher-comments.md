@@ -1,0 +1,66 @@
+---
+title:  Approfondissement
+date:   04/10/2024
+---
+
+### Ire Partie: Aperçu
+
+Textes d’approfondissement: Jn 2:1-11, Jn 5:1-9, Jn 5:10-16.
+
+Alors que nous entamons ce trimestre notre étude sur Les thèmes dans l’Évangile de Jean, gardons à l’esprit quelques faits biographiques qui distinguent Jean des trois autres évangélistes. Jean était le plus jeune des trois écrivains, il avait vécu le plus longtemps et avait écrit son récit plus tard que les autres auteurs n’avaient écrit le leur. Jean se présente modestement et indirectement comme « ce disciple » (Jn 21:23, LSG). Il était connu parmi ses condisciples comme « le disciple que Jésus aimait » (Jn 21:20). Cette référence peut être traduite par « le disciple que Jésus avait continué à aimer », ce qui est encore plus fort que l’imparfait « aimait ».
+
+Ayant à l’idée ce contexte, nous ferions bien de considérer la signification du nom de Jean. Jean signifie littéralement et à juste titre « l’Éternel est gracieux ». Être gracieux peut aussi signifier « être aimable ». Jean, l’apôtre de l’amour, avait beaucoup écrit sur cette vertu dans son Évangile et dans ses épitres, se référant à lui-même comme le disciple « que Jésus aimait » (Jn 13:23). Ce verset, ainsi que d’autres comme celui-ci dans l’Évangile de Jean, suggère-t-il que Jésus était partial par rapport à Jean, en l’aimant plus que les autres disciples? Pas du tout! L’amour divin est abondant et accessible à tous. Ce n’était pas que Jésus aimait Jean plus que les autres disciples, mais plutôt que le cœur de Jean était plus ouvert et réceptif à Jésus et à Son amour.
+
+Jean désirait que tous les autres ouvrent grandement leurs cœurs au Christ et croient en Lui comme étant le vrai Messie et le divin Fils de Dieu. Ainsi, juste après ses commentaires introductifs, Jean commence par le premier miracle, dans lequel Jésus changea l’eau en vin à Cana. Avez-vous déjà été témoin d’un miracle authentique (à part les soi-disant miracles qui sont décrits sur les médias religieux)? Pourquoi était-il si important pour Jésus d’accomplir des miracles? Est-Il aussi disposé à accomplir de tels miracles par le ministère de Ses disciples aujourd’hui? Cette semaine, nous allons chercher des réponses à ces deux dernières questions..
+
+### IIe Partie: Commentaire
+
+Jean montre que Christ, en accomplissant de nombreux signes et miracles, possédait la puissance divine. Ces miracles indiquaient l’unique Chemin qui mène à la vie éternelle. Jean ne fait allusion qu’à quelques-uns de ces miracles, suffisants idéalement pour convaincre son auditoire d’accepter la véritable assurance du salut et de vivre en accord avec elle. On ne peut s’empêcher de se demander de quel genre de miracles innombrables Jean avait été témoin mais n’avait pas rapporté dans son livre. Jean témoigne de la vérité que « Jésus a fait encore, en présence de ses disciples, beaucoup d’autres miracles, qui ne sont pas écrits dans ce livre. Mais ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu, et qu’en croyant vous ayez la vie en son nom » (Jn 20:30, 31, LSG).
+
+On peut bien se demander: qu’est-ce qu’un « signe »? Et quelle est la différence entre un signe et un « miracle »? Le mot « miracle » vient du latin miraculum, qui signifie littéralement quelque chose « d’origine divine », à propos de laquelle on peut être « émerveillé » ou « étonné ».
+
+Il y a deux termes grecs dans le Nouveau Testament qui sont utilisés pour décrire ce que nous appelons les miracles. Dunamis est le premier terme, littéralement interprété comme signifiant « pouvoir », d’où nous tirons les mots dynamite, dynamique et dynamisme, tous se référant à quelque chose de puissant. Essentiellement, dunamis caractérise un miracle comme une démonstration de la puissance divine de Christ dans ce monde. En vérité, Christ possède le pouvoir de prononcer Sa Parole, et qu’elle s’accomplisse.
+
+D’autre part, le deuxième mot, semeion, ou un signe, se réfère à l’autorité de Christ. Ce terme nous aide à comprendre l’œuvre miraculeuse de Christ comme une manifestation de Son autorité divine dans le monde, en particulier en soumettant les puissances des forces du mal. En effet, Christ a l’autorité d’ordonner aux démons de s’en aller, et ils Lui obéissent.
+
+Pourquoi Jésus avait-Il accompli tant de miracles? Tout d’abord, ils ont été faits pour répondre à certains besoins humains, qui comprenaient toujours une dimension spirituelle de pardon et de restauration. Deuxièmement, contrairement à beaucoup de soi-disant miracles aujourd’hui, Jésus n’avait jamais accompli de miracles pour satisfaire la curiosité humaine, mais pour aider ceux qui sont dans le besoin. « Ni à ce moment-là [lorsqu’il fut tenté par Satan], ni à aucun autre moment de sa vie terrestre, Jésus n’a accompli un miracle en sa faveur. Toutes ses œuvres merveilleuses avaient pour but le bien d’autrui. » Ellen G. White, Jésus-Christ, p. 101.
+
+Troisièmement, les miracles de Christ avaient servi à donner une preuve claire de la véracité de Son message divin et de Sa mission envers l’humanité perdue. Quand Jésus avait ressuscité le fils de la veuve d’entre les morts, le peuple avait proclamé que « Dieu a visité son peuple » (Lc 7:16, LSG). C’était une preuve explicite de Sa véritable messianité. Quatrièmement, Ses miracles avaient servi d’accomplissement des prophéties de l’Ancien Testament, correspondant à ce que les patriarches et les prophètes de Dieu avaient prédit à Son sujet.
+
+**Le miracle de Cana** (Jean 2:1-11)
+
+Il est intéressant de noter que le premier miracle de Jésus (Jn 2:1-11) a été accompli dans le contexte du mariage, qu’Il avait préalablement ordonné dans le jardin d’Éden. À votre avis, pourquoi le premier miracle de Jésus concerne-t-il le mariage? Le mariage a un impact sur tous les aspects de notre existence. Le diable sait à quel point le mariage est crucial, alors il s’efforce de provoquer le dysfonctionnement et la confusion dans nos foyers, nos églises, nos écoles et la société en général. Le mariage, et la façon dont il est perçu dans notre société, n’est pas toujours biblique ou selon le plan de Dieu. Aujourd’hui, en moyenne, les mariages aux États-Unis durent environ six ans.
+
+Sans aucun doute, à travers le miracle de Cana, Jésus avait souligné l’importance cruciale du mariage et l’avait béni par Sa présence. En approuvant ainsi le mariage, Jésus nous enseigne qu’Il doit être le centre de chaque mariage afin d’assurer le succès conjugal, car lorsque nous Le plaçons au premier plan dans notre vie, Il fait déborder Son amour sur les conjoints et sur les autres aussi. Ainsi, ce premier miracle est tout à fait applicable à notre culture postmoderne et devrait encourager tout le monde à revenir à l’exemple de Celui qui l’a conçu et béni. Invitons donc notre Créateur et Rédempteur à ordonner et à bénir tous les aspects des rencontres, des fréquentations et du mariage afin d’apporter la plus grande bénédiction à l’humanité et de donner gloire à Son Nom.
+
+Pour Son premier miracle, Jésus aurait pu choisir d’accomplir une résurrection spectaculaire d’entre les morts devant une grande foule de dirigeants et de dignitaires juifs. Mais au contraire, Il a choisi un simple rassemblement dans une petite ville pour rencontrer ces humbles gens là où ils étaient, dans leurs activités quotidiennes.
+
+Jésus, notre meilleur exemple, avait interagi avec les autres pour élever et bénir, comme le sel se mêle à tous les types d’aliments pour les transformer en quelque chose de savoureux. « Il [Jésus] atteignait les cœurs en se mêlant à la foule comme un bienfaiteur. Il s’approchait d’eux alors qu’ils étaient occupés à leurs tâches quotidiennes et s’intéressait à leurs affaires. » Ellen G. White, Jésus-Christ, p. 135. De plus, « Nous ne devons pas renoncer à la vie sociale. Nous ne devons pas nous isoler. Pour atteindre toutes les classes, il faut aller à leur rencontre. » Jésus-Christ, p. 136.
+
+Nous voyons la méthode de Christ d’atteindre les gens – pour les élever et les bénir – évidente même dans le changement d’eau en vin. L’eau pourrait être considérée comme représentant notre baptême en Christ, et le jus de raisin pur et non fermenté, Son sang versé pour notre rédemption. De plus, Jésus avait remplacé le vin fermenté, qui émoussait le sens des gens, par le jus de raisin frais et vivifiant qui les avait aidés à revenir à la raison.
+
+**Le miracle à la piscine de Béthesda** (Jean 5:1-9)
+
+Souvent, la maladie physique implique la violation des lois spirituelles. Notre mécanisme humain est une création intégrée et interdépendante. Tout ce qui a un impact sur une dimension affecte l’autre. Mais nous devons faire attention à ne pas juger ou condamner les autres en attribuant tous les maux physiques à la violation délibérée de la loi de Dieu, parce que tous les êtres humains, à un moment ou à un autre, ont succombé au péché. Il est blessant et décourageant pour ceux qui souffrent à cause du péché d’entendre dire qu’ils méritent ce qui les afflige. Tout comme Jésus, notre attitude tendre et compatissante devrait surmonter notre impulsion à tout remettre en ordre avant d’aider. Jésus démontra ce principe en action dans l’histoire de la guérison miraculeuse de l’infirme au bord de la piscine de Béthesda.
+
+Comme il est encourageant et instructif de savoir que Jésus ne s’était pas engagé dans une analyse critique des causes de l’infirmité de l’homme. N’avait-il pas souffert pendant 38 longues années de cette maladie invalidante? Pourquoi ajouter à sa culpabilité et à sa souffrance? En tant que disciples de Christ, nous devons nous concentrer sur les solutions aux problèmes, et pas seulement sur les problèmes. Cet homme semblait être le plus misérable et le plus désespéré autour de la piscine de Béthesda, alors Jésus l’avait choisi pour montrer qu’Il désirait utiliser Son pouvoir divin pour aider les plus défavorisés.
+
+Remarquez que, à cette occasion particulière, Jésus n’avait pas demandé à l’homme s’il croyait ou non, mais seulement s’il désirait être guéri. Alors Jésus ordonna à l’homme de se lever, de prendre son lit et de marcher. L’homme ne douta pas et n’attendit pas d’être guéri; il agit immédiatement sur l’ordre de Jésus. De même, nous aussi, quels que soient les malheurs de nos défis physiques et spirituels apparemment sans espoir, nous devons nous tourner vers Jésus et vivre. Peu importe combien de temps nous avons cherché la réponse ailleurs, la réponse se tient juste à côté de nous sous la forme de notre aimable Sauveur.
+
+Considérez et prenez à cœur la réponse de Dieu à toutes sortes de maladies invalidantes: « N’attendez pas de sentir que vous êtes guéris. Croyez à sa parole et elle s’accomplira… Quelle que soit la mauvaise habitude, la passion maitresse qui trop longtemps a dominé sur votre âme et sur votre corps, le Christ peut et veut vous délivrer. » Ellen G. White, Jésus-Christ, p. 185.
+
+**Des cœurs durs** (Jean 5:10-16)
+
+Les cœurs durs, s’ils sont longtemps chéris, conduisent à des cœurs endurcis. Les cœurs des pharisiens étaient opposés à Jésus dès le début, simplement parce qu’Il ne rentrait pas dans leur moule religieux et n’adhérait pas à la rigueur et aux minuties de leurs rituels et de leurs traditions. Ce faisant, ils avaient délibérément ignoré les questions les plus importantes du salut. Debout devant le miracle de l’homme jubilant, autrefois désespéré et sans défense, et qui, pendant des décennies, ne pouvait pas marcher et que Jésus venait de guérir près de la piscine de Béthesda, les dirigeants avaient, d’une manière insensible, négligé la cause évidente de la jubilation. Au contraire, leur préoccupation était l’observation correcte du sabbat.
+
+Les dirigeants qui avaient été témoins de la guérison de l’homme infirme étaient totalement obsédés par les lois du sabbat. C’est pourquoi ils l’avaient durement interrogé sur le fait qu’il portait son lit le jour du sabbat, comme Jésus lui avait demandé de le faire. Ils étaient contrariés que l’homme porte son lit; pourtant, ils ne pensaient pas à la souffrance ou au bienêtre de cet homme, qui ne pouvait pas bouger depuis de nombreuses années et qui se déplaçait maintenant avec la vigueur de la jeunesse. Mais Jésus, le Concepteur et le Seigneur du sabbat, avait intentionnellement accompli de nombreux miracles le jour du sabbat pour rendre très clair le fait que ce jour spécial est censé être une bénédiction pour l’humanité, et non pas un fardeau ou une malédiction.
+
+### IIIe Partie: Application
+
+1\. Comment concilier le fait d’être dans le monde mais pas de celui-ci?
+
+2\. En ce qui concerne notre discussion sur les miracles, comment comprenons-nous la différence et la similitude entre dunamis et semeion? Quels exemples trouvons-nous dans chacun des miracles de Christ? Le miracle de chasser les démons rentre-t-il dans la catégorie de semeion? Expliquez?
+
+3\. Quels sont quelques-uns des dangers du fait de devenir inébranlable et donc intolérant dans nos propres opinions? Comment pouvons-nous nous prémunir de la folie de faire confiance à nos idées égoïstes et d’ignorer l’esprit de la loi? Comment réagiriez-vous aux affirmations récurrentes: « C’est ça ou rien » ou « J’ai pris ma décision. Ne m’embrouillez pas avec des faits »?
+
+` `
