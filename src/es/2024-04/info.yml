@@ -7,3 +7,6 @@
   color_primary: "#182B00"
   color_primary_dark: "#325308"
   splash: true
+  credits:
+    - name: Autores
+      value: "E. Edward Zinke"
