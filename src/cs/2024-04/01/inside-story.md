@@ -30,3 +30,5 @@ Rachel Carle, která nyní učí na adventistické škole v Aljašském městě 
 „Práce v Polarisu mi ukázala, že ve Spojených státech žijí lidé, kteří neznají Ježíše“, řekla. „Práce v tomto táboře byla důvodem, proč jsem se rozhodla stát se učitelkou na Aljašce.“
 
 _Děkujeme vám za dary třinácté soboty v roce 2016, která pomohly opravit a rozšířit tábor Polaris, aby se ho mohlo zúčastnit více dětí. Část darů třinácté soboty v tomto čtvrtletí pomůže otevřít centrum vlivu v adventistickém sboru v Bethelu na Aljašce. Sbor v Bethelu posílá každoročně místní děti na tábor Polaris._
+
+![Rachel](is01.jpg)
