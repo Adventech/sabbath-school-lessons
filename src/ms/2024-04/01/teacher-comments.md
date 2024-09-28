@@ -1,0 +1,70 @@
+---
+title:  Panduan Guru
+date:   04/10/2024
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+Tumpuan Kajian: 2:1–11, 5:1–9, 5:10–16
+
+Ketika kita memulakan kajian pada suku tahun ini, Tema dalam Injil Yohanes, marilah kita mengingati beberapa fakta biografi yang membezakan Yohanes daripada tiga penulis Injil yang lain. Yohanes adalah yang paling muda daripada tiga penulis lain, hidup paling lama dan menulis catatnnya lebih lewat daripada pengarang lain menulis kitab Injil mereka. Yohanes memperkenalkan dirinya secara sederhana dan tidak langsung sebagai “murid tersebut” (Yohanes 21:23, AVB). Dia dikenali di kalangan rakan-rakan pengikutnya sebagai “murid yang dikasihi oleh Yesus” (Yohanes 21:20). Rujukan ini boleh diterjemahkan sebagai ”murid yang terus dikasihi Yesus”, yang bahkan lebih kuat daripada kata lampau yang “telah dikasihi”.
+
+Dengan latar belakang ini, kita juga harus memperhatikan kepentingan pada nama Yohanes. Yohanes secara literal dan sesuai bermaksud “Tuhan itu pengasih.” Untuk menjadi pemurah mungkin juga boleh bermaksud "menjadi pengasih." Yohanes, rasul kasih, telah banyak menulis tentang nilai ini di dalam kedua-dua Injilnya dan surat tulisannya dengan merujuk kepada dirinya sebagai murid “yang dikasihi Yesus” (Yohanes 13:23). Adakah ayat ini, dan ayat lain seperti ini dari Injil Yohanes, menunjukkan bahawa Yesus memihak kepada Yohanes, mengasihinya lebih daripada murid-murid lain? Sama sekali tidak! Kasih ilahi berlimpah dan tersedia untuk semua orang. Bukanlah kerana Yesus paling mengasihi Yohanes, tetapi hati Yohanes lebih terbuka dan menerima Yesus dan kasih-Nya.
+
+Yohanes ingin agar semua orang membuka hati mereka kepada Kristus dan percaya kepada-Nya sebagai Mesias yang sejati dan Anak Tuhan yang ilahi. Jadi, sejurus selepas kata-kata pendahuluannya, Yohanes memulakan dengan mukjizat pertama, di mana Yesus mengubah air menjadi wain di Kana. Pernahkah anda menyaksikan mukjizat yang sebenar (sekalipun termasuk mukjizat yang dipaparkan dalam media agama)? Mengapakah begitu penting bagi Yesus untuk melakukan mukjizat? Adakah Dia masih bersedia untuk melakukan mukjizat yang hebat seperti itu melalui pelayanan pengikut-Nya pada hari ini? Minggu ini, kita akan mencari jawapan kepada dua soalan terakhir ini.
+
+### Bahagian II: Ulasan
+
+Yohanes menunjukkan bahawa Kristus, dengan melakukan banyak tanda dan mukjizat, memiliki kuasa ilahi. Mukjizat-mukjizat ini menunjukkan laluan kepada satu-satunya Jalan yang membawa kepada kehidupan kekal. Yohanes hanya merujuk kepada beberapa mukjizat ini—cukup untuk meyakinkan para pembacanya untuk menerima jaminan keselamatan yang sebenar dan hidup mengikutnya. Kita tidak dapat tidak melainkan tertanya-tanya tentang jenis mukjizat yang tidak terkira banyaknya yang telah disaksikan oleh Yohanes tetapi tidak dicatatkan. Yohanes memberi kesaksian tentang kebenaran bahawa “Yesus telah melakukan banyak lagi mukjizat di hadapan murid-murid-Nya, tetapi tidak ditulis dalam kitab ini. Tetapi segala yang telah ditulis di sini bertujuan supaya kamu percaya bahawa Yesus ialah Kristus, Anak Tuhan, dan kerana kamu percaya kepada-Nya, kamu akan memperoleh hidup dalam nama-Nya” (Yohanes 20:30, 31, AVB).
+
+Seseorang mungkin ingin bertanya, Apakah yang dimaksudkan dengan "tanda"? Dan apakah perbezaan antara tanda dan "mukjizat"? Perkataan "mukjizat" berasal dari bahasa Latin miraculum, yang secara harfiah bermaksud sesuatu yang “berasal dari ilahi,” “kehaioranan,” atau “kekaguman.”
+
+Terdapat dua istilah Yunani dalam Perjanjian Baru yang digunakan untuk menggambarkan apa yang kita panggil mukjizat. Dunamis ialah istilah yang pertama, diterjemahkan secara literal sebagai “kuasa”, yang daripadanya kita mendapat perkataan dinamit, dinamik, dan dinamisme - semuanya merujuk kepada sesuatu yang berkuasa. Pada asasnya, dunamis menggambar suatu keajaiban sebagai demonstrasi kuasa ilahi Kristus di dunia ini. Sesungguhnya, Kristus mempunyai kuasa untuk menyampaikan Firman-Nya, dan Firman-Nya telah digenapi.
+
+Sebaliknya, perkataan kedua, semeion, atau tanda, merujuk kepada kuasa Kristus. Istilah ini membantu kita memahami pekerjaan ajaib Kristus sebagai manifestasi kuasa ilahi-Nya di dunia, terutamanya dalam menundukkan kuasa-kuasa jahat. Sesungguhnya, Kristus mempunyai kuasa untuk memerintahkan roh-roh jahat itu pergi, dan mereka melakukannya.
+
+Mengapa Yesus melakukan sangat banyak mukjizat? Pertama sekali, mukjizat ini dilakukan untuk memenuhi keperluan manusia tertentu, yang sentiasa merangkumi dimensi rohani pengampunan dan pemulihan. Kedua, tidak seperti kebanyakan mukjizat hari ini, Yesus tidak pernah melakukan mukjizat untuk memuaskan rasa ingin tahu manusia, tetapi untuk membantu mereka yang memerlukan. "Baik di sini [semasa digoda oleh Syaitan] mahupun pada bila-bila masa kemudian dalam kehidupan duniawi-Nya, Dia tidak pernah melakukan mukjizat demi kepentingan-Nya sendiri. Pekerjaan-Nya yang menakjubkan semuanya untuk kebaikan orang lain." - Ellen G. White, The Desire of Ages, ms. 119.
+
+Ketiga, mukjizat Kristus memberikan bukti yang jelas tentang kebenaran mesej dan misi ilahi-Nya kepada manusia yang hilang. Apabila Yesus membangkitkan anak janda itu daripada kematian, orang ramai menyatakan bahawa "Tuhan telah melawat umat-Nya" (Lukas 7:16, ITB). Itu adalah bukti yang jelas tentang sifat-Nya sebagai Mesias yang sebenar. Keempat, semua mukjizat-Nya adalah penggenapan nubuatan Perjanjian Lama, sesuai dengan apa yang telah dinubuatkan oleh para patriark dan nabi tentang Dia.
+
+**Mukjizat di Kana** (Yohanes 2:1–11).
+
+Adalah menarik untuk diperhatikan bahawa mukjizat pertama Yesus (Yohanes 2:1–11) dilakukan dalam konteks perkahwinan, yang pertama kali ditetapkan oleh-Nya di Taman Eden. Mengapakah pada pandangan anda bahawa mukjizat pertama Yesus ini berkaitan dengan perkahwinan? Perkahwinan mempengaruhi semua aspek kewujudan kita. Iblis tahu betapa pentingnya perkahwinan, jadi dia berusaha untuk membawa ketidakfungsian dan kekeliruan ke dalam rumah tangga, gereja, sekolah dan masyarakat kita secara keseluruhan. Perkahwinan dan bagaimana ia dilihat dalam masyarakat kita, tidak selalu bersifat alkitabiah atau mengikut rancangan Tuhan. Hari ini, secara purata, perkahwinan di Amerika Syarikat bertahan selama kira-kira enam tahun.
+
+Tanpa ragu, melalui mukjizat di Kana, Yesus menekankan kepentingan utama pada perkahwinan dan memberkatinya dengan kehadiran-Nya. Dengan mengesahkan perkahwinan, Yesus mengajar kita bahawa Dia harus menjadi pusat pada setiap perkahwinan untuk memastikan kejayaan perkahwinan itu, kerana apabila kita meletakkan Dia yang pertama dan terutama di dalam hidup kita, maka Dia akan menyebabkan kasih-Nya melimpah kepada pasangan kita dan kepada orang lain juga. Oleh itu, mukjizat pertama ini sangat relevan dengan budaya pascamoden kita dan harus mendorong semua orang untuk kembali kepada contoh dari Dia yang merancang dan memberkatinya. Oleh itu, marilah kita menjemput Pencipta dan Penebus kita untuk mengatur dan memberkati semua aspek perkenalan, pertunangan dan perkahwinan untuk menghasilkan berkat terbesar kepada manusia dan untuk membawa kemuliaan kepada Nama-Nya.
+
+Untuk mukjizat pertama-Nya, Yesus boleh saja memilih untuk melakukan kebangkitan yang menakjubkan daripada kematian di hadapan sekumpulan besar para pemimpin dan pembesar Yahudi. Tetapi sebaliknya, Dia memilih pertemuan yang sederhana di sebuah pekan kecil dan bertemu dengan orang-orang yang rendah hati di tempat mereka berada dan di dalam kegiatan harian mereka.
+
+Yesus, teladan utama kita, berinteraksi dengan orang lain untuk mengangkat dan memberkati, seperti garam yang bercampur dengan semua jenis makanan untuk menjadikannya sesuatu yang sedap. "Dia [Yesus] mencapai hati orang-orang dengan pergi bergaul di kalangan mereka sebagai seorang yang menginginkan kebaikan mereka. . . . Dia bertemu mereka di pekerjaan harian mereka, dan menunjukkan minat dalam urusan duniawi mereka."—Ellen G. White, The Desire of Ages, ms. 151. Tambahan pula, “Kita tidak sepatutnya menolak pergaulan sosial. Kita tidak sepatutnya mengasingkan diri dari orang lain. Untuk mencapai semua golongan, kita harus menemui mereka di tempat mereka berada.”—The Desire of Ages, ms. 152.
+
+Kita melihat kaedah Kristus untuk mencapai orang—untuk mengangkat dan memberkati mereka—jelas dalam penukaran air menjadi wain. Air boleh dilihat sebagai mewakili pembaptisan kita ke dalam Kristus, dan jus anggur darah-Nya yang tulen dan tidak terfermentasi yang ditumpahkan untuk penebusan kita. Selain itu, Yesus menggantikan wain yang terfermentasi, yang melemahkan deria orang, dengan jus anggur yang baru dan menyegarkan yang membantu mengembalikan mereka kepada deria mereka.
+
+Here's the translation of the passage into Bahasa Malaysia:
+
+**Mukjizat di Kolam Betesda** (Yohanes 5:1–9).
+
+Seringkali penyakit fizikal melibatkan pelanggaran hukum rohani. Mekanisme manusiawi kita adalah ciptaan yang terintegrasi dan saling berkaitan. Apa sahaja yang mempengaruhi satu dimensi akan memberi kesan kepada yang lain. Tetapi kita mesti berhati-hati untuk tidak menghakimi atau menghukum orang lain dengan mengaitkan semua penyakit fizikal dengan pelanggaran sengaja terhadap hukum Tuhan, kerana semua manusia, pada satu masa tertentu, telah menyerah kepada dosa. Ia menyakitkan dan mengecewakan bagi penderita dosa untuk diberitahu bahawa mereka layak menerima apa yang mengganggu mereka. Seperti Yesus, sikap kita yang lembut dan simpatik harus mengatasi dorongan kita untuk memperbaiki segala-galanya sebelum kita memberikan bantuan. Yesus menunjukkan prinsip ini melalui tindakan dalam cerita penyembuhan ajaib lelaki lumpuh di kolam Betesda.
+
+Betapa mendorongkan dan suatu yang memberikan pengajaran, bahawa Yesus tidak terlibat dalam analisis kritikal tentang sebab-sebab keadaan lumpuh lelaki itu. Bukankah dia telah menderita selama 38 tahun yang panjang dengan penyakit melumpuhkan ini? Mengapakah menambah lebih banyak rasa bersalah dan penderitaannya? Sebagai pengikut Kristus, kita mesti menumpukan perhatian pada penyelesaian terhadap masalah, bukan semata-mata pada masalah tersebut itu sendiri. Lelaki ini nampaknya adalah yang paling menderita dan tidak berdaya yang berada di sekitar Kolam Betesda itu, jadi Yesus memilihnya untuk menunjukkan bahawa Dia ingin menggunakan kuasa ilahi-Nya untuk membantu dia yang paling tidak berdaya.
+
+Perhatikan bahawa, pada kesempatan tertentu ini, Yesus tidak bertanya kepada lelaki itu sama ada dia percaya atau tidak, hanya jika dia ingin sembuh. Kemudian Yesus memerintahkan lelaki itu untuk bangun, membawa katilnya, dan berjalan. Lelaki itu tidak meragui atau menunggu untuk disembuhkan; dia segera bertindak atas perintah Yesus. Begitu juga dengan kita, tanpa mengira nasib malang cabaran fizikal dan rohani kita yang nampaknya tidak ada harapan, kita perlu melihat kepada Yesus dan mendapatkan hidup. Tidak kira berapa lama dan susah kita telah mencari jawapan di tempat lain, jawapannya berdiri tepat di sebelah kita dalam bentuk Penyelamat kita yang indah.
+
+Perhatikan dan renungkan jawapan Tuhan kepada semua jenis penyakit yang melumpuhkan: “Jangan menunggu untuk merasakan bahawa kamu sudah pulih. Percayalah kepada firman-Nya, dan ia akan dipenuhi... Apapun amalan jahat, nafsu utama yang melalui keinginan yang panjang mengikat jiwa dan tubuh, Kristus mampu dan sangat ingin membebaskan.” —Ellen G. White, The Desire of Ages, ms. 203.
+
+**Hati yang Keras** (Yohanes 5:10–16)
+
+Hati yang keras, jika dibiarkan lama, akan menjadi semakin keras. Hati orang Farisi menentang Yesus sejak awal kerana Dia tidak sesuai dengan acuan keagamaan mereka dan tidak mematuhi ketegasan dan perincian ritual serta tradisi mereka. Dengan berbuat demikian, mereka sengaja mengabaikan isu-isu besar yeng berkaitan dengan keselamatan. Walaupun berdiri di hadapan mukjizat seorang lelaki berjalan yang dahulunya tidak ada harapan dan tidak berdaya, yang selama berdekad-dekad tidak dapat berjalan dan baru sahaja disembuhkan oleh Yesus di kolam Betesda, namun para pemimpin itu dengan kejam mengabaikan alasan yang jelas untuk bersukacita. Sebaliknya, mereka lebih bimbang tentang cara pemeliharaan hari Sabat yang betul.
+
+Para pemimpin yang menyaksikan penyembuhan lelaki lumpuh itu benar-benar terobsesi dengan peraturan Sabat. Itulah sebabnya mereka dengan kasar menyoal dia tentang mengapa dia membawa tilamnya pada hari Sabat, seperti yang Yesus suruh dia lakukan. Mereka marah kerana lelaki itu membawa tilamnya; namun, mereka tidak memikirkan tentang penderitaan atau kesejahteraan lelaki ini, yang selama bertahun-tahun tidak dapat bergerak dan kini membawa dirinya dengan semangat yang muda. Tetapi Yesus, Pencipta dan Tuhan atas Hari Sabat, dengan sengaja melakukan banyak mukjizat pada hari Sabat untuk menjelaskan bahawa hari istimewa ini dimaksudkan untuk menjadi berkat bagi umat manusia, dan bukannya beban atau kutukan ke atas mereka.
+
+### Bahagian III: Penerapan Hidup
+
+**Fikirkan dan jawab soalan-soalan berikut**:
+
+1/. Bagaimanakah kita menyeimbangkan antara berada di dunia tetapi tidak menjadi sebahagian daripadanya?
+
+2/. Berkenaan dengan perbincangan kita tentang mukjizat, bagaimanakah kita memahami perbezaan dan persamaan antara dunamis dan semeion? Apakah contoh yang kita temui dalam setiap mukjizat Kristus? Adakah mukjizat mengusir roh jahat termasuk dalam kategori semeion? Terangkan.
+
+3/. Apakah di antara beberapa bahaya dalam menjadi tidak boleh digerakkan dan dengan itu tidak toleransi terhadap pendapat kita sendiri? Bagaimanakah kita melindungi diri kita daripada kebodohan mempercayai idea yang mementingkan diri sendiri dan mengabaikan semangat pada hukum, yang merupakan gambaran yang lebih besar? Bagaimanakah anda akan bertindak balas terhadap ungkapan: “Jalan saya atau di lebuh raya,” atau “Saya telah membuat keputusan. Jangan kelirukan saya dengan fakta”?
+
+` `
