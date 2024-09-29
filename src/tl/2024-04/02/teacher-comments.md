@@ -1,0 +1,72 @@
+---
+title:  Komento ng Guro
+date:   11/10/2024
+---
+
+### Unang Bahagi: Pangkalahatang Ideya
+
+Pokus ng Pag-aaral: Juan 9:1-34, Juan 11:1-44, Juan 6:14
+
+Isaalang-alang na muli ang kahanga-hangang katotohanan na ang banal at walang hanggang Anak ng Diyos ay hinubaran ang Kanyang Sarili at naging Diyos sa laman. Ang kamangha-manghang katotohanang ito ay saganang pinatutunayan sa mga Kasulatan. Ang ating limitadong kakayahang pantao ay tiyak na hinahamon sa pagsisikap na maunawaaan ang walang limitasyong katotohanang ito. Upang matulungan tayo sa pagsisikap na ito, ginawa ng Diyos ang Kanyang sukdulan upang matulungan tayong maunawaan, hangga’t maaari, ang katotohanang ito ng Biblia tungo sa kaligtasan.
+
+Ngayong linggo, isasaalang-alang natin ang tatlong himala na tumatayong tiyak na katunayan ng pagka-Diyos ni Cristo. Ang mga himalang ito ay tiyak na nagbibigay ng karagdagang katibayan na si Jesus ay higit sa pagiging tao lamang. Isaalang-alang, bilang halimbawa, ang Kanyang pagbabagong-anyo sa bundok, kung saan nasaksihan ng Kanyang tatlong malapit na mga alagad ang Kanyang nakasisilaw, banal na kaluwalhatian. Sa biglang pangyayari, “Nagbagong-anyo Siya sa harap nila at nagliwanag ang Kanyang mukha na tulad ng araw, at pumuti ang Kanyang mga damit na tulad sa ilaw” (Mateo 17:2). Higit pa rito, ang himalang ito ay maliwanag na pinatunayan ng nabuhay na mag-uling si Moises at ang iniakyat sa langit na si Elias.
+
+O sino ang makatatanggi sa pagka-Diyos ni Jesus sa himala ng pagpapakain ng limang libo? Ang pangyayaring iyon ay kakaiba, walang katulad sa kasaysayan. Ang iba ay nanampalataya; gayunpaman, nakapagtataka, ang iba ay hindi, sa kabila ng malinaw na katibayan. Kahindik-hindik na ang katigasan at pagmamataas ay umakay sa kanila na makita ang dilim sa halip na ang Ilaw ng sanlibutan, na nakatayo sa harapan nila. Ang dakilang Ako Nga, na nakilala ng kanilang iginagalang na propeta na si Moises, ay tumahan sa gitna nila, ngunit sila ay naghimagsik laban sa pagtanggap sa Kanya bilang kanilang Mesiyas.
+
+Ang temporal na tinapay sa pagpapakain ng limang libo ay naglalayong ituon ang atensyon ng mga tao kay Cristo, ang Tinapay ng buhay, na nagbibigay at tumutustos hindi lamang ng pisikal na buhay, kundi ng buhay na walang hanggan. Sa higit na pagbubulay ng pahayag ng “Ako Nga” sa konteksto ng Ebanghelyo ni Juan, nauunawaan natin na si Juan ay tanging nakatuon sa banal na pagpapakilala sa Diyos tulad ng ipinahayag kay Moises sa nagniningas na puno: “Sinabi ng Diyos kay Moises, ‘AKO AY ANG AKO NGA’” (Exodo 3:14). Inilapat ni Jesus ang titulong ito tuwiran sa Kanyang Sarili, sa mga ganitong pahayag, “ ‘Ako ang daan, at ang katotohanan, at ang buhay’” (Juan 14:6), at “ ‘Ako ang muling pagkabuhay at ang buhay’” (Juan 11:25).
+
+Sa Juan 9:1-34, ang pang-Diyos na kapangyarihan ni Jesus ay nahayag din sa pammagitan ng pagpapagaling ng lalaking bulag at, partikular, tulad ng pinaliwanag sa Juan 11, sa kahanga-hangang himala ng pagbuhay kay Lazaro mula sa mga patay. Sa sumusunod na komentaryo, pag-aaralan natin itong dalawang himala ng mas malalim.
+
+### Ikalawang Bahagi: Komentaryo
+
+Anong kagila-gilalas na pangyayari ang mangyayari kapag nakita natin ang mukha ni Jesus at ang ating mortal na laman ay nabago, na iniwangis ayon sa Kanyang sariling imortal, maluwalhating katawan! Makikilala natin Siya, mararanasan ang Kanyang pag-ibig, at gugugulin ang walang hanggan sa Kanyang presensya, na hindi lubusang maaarok ang tema ng Kanyang walang kapantay na pag-ibig o lubos ba mauunawaan ang Kanyang walang hanggang likas.
+
+**“ ‘Totoong ito nga ang Propeta’ ”** (Juan 6:14)
+
+Nang pakainin ni Cristo ang limang libo mula sa kaunti, simpleng mga sangkap ng pananghalian ng isang batang lalaki, ang mga nakasaksi ng himala ay nagsabi ng ganito tungkol kay Jesus: “ ‘Totoong ito nga ang Propeta na darating sa sanlibutan’ ” (Juan 6:14). Ang mga salitang ito na narinig sa mga salita ni Moises, na nagtuturo sa isang tulad ni Jesus: “ ‘Palilitawin ng Panginoon mong Diyos para sa iyo ang isang propeta na gaya ko mula sa iyong sariling mga kapatid. Sa Kanya kayo makikinig’ ” (Deuteronomio 18:15).
+
+Makatuwirang isipin ang tungkol kay Moises bilang kapareho ni Jesus. Si Moises at si Jesus ay magkatulad sa kanilang misyon ng pagliligtas ng mga tao mula sa pagka-alipin, halimbawa. Sa lahat ng mga karakter ng Biblia, pinakamalapit si Moises kay Jesus sa Kanyang ministeryo at pamamagitan. Matapos maghimagsik laban sa Diyos ang mga Israelita sa ilang sa pamamagitan ng pagsamba sa ginintuang guya, inialok ni Moises na mamatay sa kanilang lugar, na maging kanilang kahalili. Sa Exodo 32:32, mababasa natin ang nakakaantig na kuwento ng pakikiusap ni Moises sa Diyos na iligtas ang mga buhay ng Kanyang mapanghimagsik na bayan. Nagsalita si Moises sa Diyos, na nagsasabi: “ ‘Ngunit ngayon kung maaari ay patawarin Mo ang kanilang mga kasalanan‒at kung hindi, ay burahin mo ako sa aklat na isinulat Mo.’ ”
+
+Ang mapagsakripisyo sa sariling pagtatalaga ni Moises sa kanyang suwail na bayan at ang kanyang pagsamo na mamatay kapalit ng iba ay kapuri-puri. Ngunit ang gayong mapagbiyayang alok ay hindi makapagpapatawad ng kasalanan at magpapababa ng kaparusahan nito, ang kamatayan, sapagkat ang sakripisyo lamang ng banal na “Propeta” na si Jesus ang makapagsasakatuparan ng gayong imposibleng gawain. Si Jesus lamang ang Isa na nagtataglay ng kailangang katuwiran at buhay upang ipang-palit para sa ating kasalanan at kamatayan.
+
+**Ang Pagpapagaling ng Bulag na Lalaki** (Juan 9:1-34)
+
+Tulad ng ating nakita nang nakaraang linggo sa salaysay ng lalaking lumpo, siya ay nasa gayong kawalang pag-asang kalagayan sa loob ng 38 taon. Ngunit ang bulag na lalaki sa Juan 9 ay “bulag mula pa sa kanyang pagkapanganak” (Juan 9:1). Isipin ang hindi kailanman nagkaroon ng pagkakataong makakita ang anuman at sinuman!
+
+Higit pa rito, sa pagdaragdag ng insulto sa kapinsalaan, ang dukhang bulag na lalaki ay hindi lamang dumanas ng pisikal na pagdurusa, kundi nagdusa rin siya ng spiritual, mental, at emosyonal. Ang pagkaunawa ng publiko ay ang mga may sakit sa lipunan ay nagdurusa dahil sa kanilang sariling mga kasalanan o sa mga kasalanan ng kanilang mga magulang. Napaniwala ang bulag na lalaki na hindi lamang ang iba ang nagtuturing sa kanya bilang nagkasala, kundi tumitingin din ng walang pagsang-ayon sa kanya ang Diyos.
+
+Ang maling pagkaunawang ito ay nasa isipan din ng mga alagad, kaya ang tanong nila, “ ‘Rabi, sino ang nagkasala, ang taong ito, o ang kanyang mga magulang, kaya siya’y ipinanganak na bulag?’ ” (Juan 9:2). Sa kanilang pagnanais na ibigay ang sisi, katulad sila ng mga mabuti ngunit nagkakamaling mga Kristiyano ngayon. Sa katulad na paraan, sinubukan ng mga nagkakamaling kaibigan ni Job na ibunton ang sisi sa kanya dahil sa kanyang malagim na trahedya at karamdaman. Tayo ay matuto sa kanilang mga pagkakamali. Bakit hindi, sa halip, ay sundan ang halimbawa ni Jesus na magtuon ng pansin sa solusyon at hindi sa problema? Siya ay naparito sa sanlibutang ito hindi upang humatol, kundi upang magligtas. (Tingnan ang Juan 3:17).
+
+Pinalawak ng tugon ni Jesus ang pananaw ng Kanyang mga alagad sa mas mataas na antas tungkol sa Kanyang misyon. Ninais ng Diyos na gamitin ang pagkabulag ng lalaking ito upang ipakita ang Kanyang dakilang kapangyarihan na nagpapagaling. Higit pa rito, ang himalang ito ay naglalayong ipakita na si Cristo ang tagapagbigay ng walang hanggang buhay at karunungan, na pinasisigla ang mga tao sa liwanag ng Kanyang katotohanan at kaligtasan. Iniugnay ni Cristo ang Kanyang gawain sa liwanag ng araw, na nagsasabi, “ ‘Kailangan Kong gawin ang mga gawa Niyang nagsugo sa akin samanatalang araw pa. Dumarating ang gabi, na walang taong makakagawa. Habang Ako’y nasa sanlibutan, Ako ang ilaw ng sanlibutan’ ” (Juan 9:4, 5).
+
+Gaano kaliwanag at kabaligtaran na ang mga lider ng relihiyon, na buo ang kanilang pisikal na paningin, ay may pagmamatigas na tumanggi na makita ang liwanag na itinanglaw ni Cristo sa paligid nila. Kaya, sinadya nilang balutin ang kanilang mga sarili ng palalim ng palalim sa kadilimang espirituwal hanggang hindi na maaaring baguhin ang kanilang pagkabulag sa tunay na liwanag. Sa kabaligtaran, ang pagiging bukas ng lalaking bulag sa liwanag ni Cristo ay hindi lamang nagbigay-daan sa kanya na makakita ng pisikal sa pamamagitan ng kanyang mga mata, kundi nagbigay-daan din sa kanya na magkaroon ng naliwanagang pananaw na espirituwal na kailangan upang makilala si Jesus bilang ang Anak ng Diyos, na Siya lamang ang karapat-dapat sambahin.
+
+Maaaring pagalingin agad ni Jesus ang bulag na lalaking ito. Ngunit dahil sa Kanyang matalinong mga dahilan, nais Niyang makibahagi ang taong maysakit sa sarili niyang proseso ng pagpapagaling. Matapos Niyang gamitin ang laway upang gumawa ng luwad, ipinahid ng Panginoon ang luwad sa mga mata ng lalaking bulag. Ang mga kamay na gumawa at nagpahid ng luwad ay mismong ang mga kamay ng Tagapagpagaling at Manlalalang, na lumikha ng lupa at mga bituin. Ang lalaking bulag, na pinahiran ng luwad, ay sumunod sa mga salita ni Cristo at dali-daling naparoon sa Tipunan ng Tubig sa Siloam upang maghilamos. Sa paghihilamos, siya ay dagliang gumaling. Ihambing ang kuwentong ito sa salaysay ng Lumang Tipan tungkol kay Naaman, ang heneral ng hukbo ng Syria. Inutusan si Naaman ni propeta Elias na maghugas ng pitong ulit sa ilog ng Jordan upang gumaling sa ketong. Sa una, mahigpit na tumutol si Naaman. Ngunit pagkatapos ay napahinuhod siya at hinugasan ang kanyang sarili at mahimalang nalinis.
+
+Ang basang luwad ay walang mga magical na mga sangkap. Si Cristo lamang ang tunay na Tagapagpagaling. Ginamit lamang ng Tagapagligtas ang sangkap na ito bilang isang daluyan ng Kanyang kapangyarihan. Gayundin, maaari din nating ikatuwiran na ginamit ni Jesus ang simpleng mga sangkap na panlunas upang humikayat ng paggamit sa mga ito sa pagpapagaling. “Gumamit si Jesus ng mga simpleng bagay ng kalikasan. Samantalang hindi Siya nagbigay ng pagpapahayag sa panggagamot sa pamamagitan ng droga, Kanyang pinahintulutan ang paggamit ng simple at natural na mga panlunas.”‒Ellen G. Whtie, The Desire of Ages, p. 824.
+
+Kaya ba at handang magpagaling ni Jesus ngayon, kaagad, o unti-unti, sa pamamagitan ng tuwirang mga himala ang mga simpleng panlunas? Paano tayo makikilahok sa Kanyang ministeryo ng pagpapagaling bilang Kanyang mga kinatawan? Pagbulayan ang kinasihang pangungusap na ito: “Siya (si Jesus) ay kasing-handang magpagaling ng may sakit ngayon tulad nang Siya ay personal na nasa lupa. Ang mga lingkod ni Cristo ang Kanyang kinatawan, ang mga daluyan para sa Kanyang paggawa. Ninanais Niya sa pamamagitan nila na isagawa ang Kanyang kapangyarihang magpagaling.”‒The Desire of Ages, pp. 823, 824.
+
+**Ang Pagkabuhay na Muli ni Lazaro** (Juan 11:1-44)
+
+Sinabi ni Jesus kay Martha, “ ‘Ako ang muling pagkabuhay at ang buhay. Ang sumasampalataya sa Akin, bagama’t siya’y mamatay, ay mabubuhay’” (Juan 11:25). Pansinin, muli, na ginamit ni Jesus ang banal na “Ako Nga” upang itanyag na hindi lamang siya nagbibigay ng buhay, kundi Siya mismo ang buhay. Tinitiyak ng pangakong ito ang katuparan nito kapag nagbalik si Jesus upang dalhin sa tahanan ang Kanyang mga minamahal. Ang mga natutulog kay Cristo ay gigisingin sa isang iglap sa pagkabuhay na mag-uli, na para bang walang panahong lumipas.
+
+Ang mga namamahinga kay Jesus ay namamahinga tulad nang binuhay na sila sa mga patay, dahil sila ay kabahagi na sa buhay na walang hanggan at sa hinaharap ni Cristo. Tiniyak ni Jesus ang maluwalhating katotohanang ito sa pagtiyak sa Kanyang mga alagad, “ ‘Sapagkat Ako’y nabubuhay ay mabubuhay rin kayo’” (Juan 14:19). Si Jesus ay Siyang mismong buhay at ang Buhay at ang Tagapagbigay-buhay. Sa pananampalataya sa mga katotohanang ito ng Biblia, tunay na hindi tayo magkakaroon ng takot sa kamatayan. Sa kanyang unang liham, inuulit ni Juan ang katotohanang ito: “At ito ang patotoo, na tayo’y binigyan ng Diyos ng buhay na walang hanggan at ang buhay na ito ay nasa Kanyang Anak. Ang kinaroroonan ng Anak ay kinaroroonan ng buhay; ang hindi kinaroroonan ng Anak ng Diyos ay hindi kinaroroonan ng buhay” (1 Juan 5:11, 12).
+
+Ang maluwalhating pag-asang ito ang siyang pinaka-kailangan ng sanlibutan, sapagkat ganap na walang nagtataglay ng buhay maliban kay Cristo. Siya ang tanging Isa na sakdal na solusyon sa kamatayan ng sangkatauhan. Ang katotohanang ito ang pinakamagandang balita kailanman, at dapat tayong maging sabik na ibahagi ito sa isang naghihingalong mundo! “Kay Cristo ang buhay, orihinal, hindi hiniram, hindi natamo. . . . Ang pagka-Diyos ni Cristo ang katiyakan ng walang hanggang buhay ng mga nananampalataya.”‒Ellen G. White, The Desire of Ages, p. 530.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+Pag-isipan at sagutin ang mga sumusunod na katangungan:
+
+1\. Isaalang-alang ang termino ng Biblia na “propeta.” Bakit tinukoy ng Biblia si Jesus bilang isa? Ang katawagang ito ay maaaring lumito sa ilang mga tao sapagkat hindi lamang Siya isang propeta. Halimbawa, Naniniwala ang mga Muslim na si Jesus ay isang propeta. Gayunpaman, naniniwala tayo na Siya ay higit pa: Si Jesus din ang banal na Anak ng Diyos at ang Tagapagligtas ng sanlibutan.
+
+2\. Si Moises ay gumanap bilang isang type ni Cristo sa kanyang pamamagitan para sa mapanghimagsik na bayan ng Diyos. Namagitan si Jesus para sa kanila na nagpapako sa Kanya. Sino sa aklat ng Mga Gawa ang pinakamalapit kay Jesus sa gawaing pamamagitan para sa kanyang mga kaaway? Paano tayo tinuturuan ng pagkakatulad na iyon kung paano natin itinuturing ang ating mga mang-uusig?
+
+3\. Bakit ang espirituwal na pagkabulag ay hindi malulutas maliban sa pagpapagaling ng Diyos?
+
+4\. Sinabi ni Jesus na hindi ang mga kasalanan ng mga magulang ang dahilan ng pagdurusa ng bulag na lalaki. Paano mo ipagkakasundo ang katotohanang ito sa Exodo 20:5 “ ‘na Aking pinarurusahan ang mga anak dahil sa kasamaan ng mga magulang hanggang sa ikatlo at ikaapat na salinlahi ng mga napopoot sa Akin?’”
+
+5\. Bagama’t labis na malinaw mula sa Juan 14:19 at 1 Juan 5:11, 12 na mayroon tayong katiyakan ng kaligtasan kay Cristo, bakit, kung gayon, isang hamon na isakatuparan ang katiyakang ito sa ating mga buhay? Paano natin maipapaliwanag ang pagkatakot ng mga mananampalataya sa kamatayan?
+
+` `
