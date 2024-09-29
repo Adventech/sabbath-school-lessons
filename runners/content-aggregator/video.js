@@ -187,7 +187,6 @@ let englishVideo = async function () {
         "Amazing Facts Study Hour",
         {
             artist: "Amazing Facts Study Hour",
-            thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
@@ -200,7 +199,6 @@ let englishVideo = async function () {
         "Amazing Facts Study Hour",
         {
             artist: "Amazing Facts Study Hour",
-            thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
