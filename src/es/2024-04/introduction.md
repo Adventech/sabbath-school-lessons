@@ -1,0 +1,19 @@
+### Temas en el Evangelio de Juan
+
+En una tienda de Teherán (Irán), la alfombra persa representaba un antiguo bosque. Recreaba un paisaje suizo: montañas, una cascada, un lago turquesa, laderas boscosas y un amplio cielo azul salpicado de nubes.
+
+Cualquiera que hubiera estado en aquella tienda podría haber dedicado su tiempo a anotar los detalles: el número de nudos por centímetro cuadrado, el tejido de la alfombra, los distintos matices de color utilizados, todas las minucias que daban como resultado la alfombra. O, por el contrario, podría haberse centrado en las técnicas y los temas que daban a la alfombra su belleza única: el cielo reflejado en el lago, la nieve que cubría las montañas, el bosque verde complementado por el musgo verde intenso. Los temas de la alfombra se combinaban entre sí en un despliegue de belleza hábilmente coordinado para manifestar el esplendor de aquel sereno paraje de los Alpes.
+
+Este trimestre estudiaremos otra obra maestra delicadamente elaborada. Esta obra no es el resultado de un pincel sobre un lienzo, ni de una fotografía enmarcada con precisión ni de una alfombra hábilmente tejida. Se trata, más bien, de la Palabra de Dios, expresada artísticamente en el Evangelio de Juan.
+
+Las palabras tienen significado dentro de su contexto. Para que alguien entienda lo que la Escritura quiere decir, hay que estudiarla en su contexto: las frases, los capítulos y las secciones inmediatos, y el mensaje general de la propia Biblia. Por último, dado que toda la Biblia está inspirada por el Espíritu Santo, cada parte debe estudiarse en el contexto del todo.
+
+La intención de este trimestre será comprender el mensaje del Evangelio de Juan, único entre los cuatro evangelios, pues a menudo centra su atención en las entrevistas de Jesús con solo una o dos personas, como Natanael, Nicodemo, la mujer junto al pozo, el paralítico de Betesda, el ciego de nacimiento, Lázaro y sus hermanas, Pilato, Pedro o Tomás. Muchos de estos relatos solo aparecen en Juan.
+
+El Evangelio de Juan es la Palabra de Dios transmitida a nosotros a través del apóstol. Como toda la Biblia, es iniciativa de la voluntad de Dios más que de la humana. Juan no fue más que el instrumento voluntario que el Espíritu Santo utilizó para transmitir muchos temas cruciales: la Palabra (logos), la luz, el pan, el agua, el Espíritu Santo, la unidad, las señales o milagros, el testimonio y la profecía. Estos temas se refuerzan e iluminan mutuamente a lo largo del Evangelio.
+
+El estudio de la Biblia se concentra a menudo en el significado de una palabra o de un breve pasaje de las Escrituras. Comprobamos el significado de la palabra en un diccionario bíblico. Examinamos la gramática, el contexto inmediato, el contexto histórico y, utilizando nuestra analogía de la alfombra, nos enfrascamos en el examen del número de nudos por centímetro cuadrado, de la tela, los colores y el soporte. Todos estos detalles son importantes.
+
+Pero no perdamos la visión de conjunto al examinar los detalles. De hecho, al igual que la alfombra persa puede transportar a alguien a esa hermosa escena alpina, el Evangelio de Juan puede transportarnos a la vida y el ministerio de Jesucristo, cuyo conocimiento constituye la vida eterna. Los detalles tienen la función de orientarnos hacia el cuadro general, que en el caso del Evangelio de Juan es una revelación divinamente inspirada de Jesús, nuestro Señor y Salvador.
+
+_E. Edward Zinke, ex director asociado del Instituto de Investigación Bíblica de la Asociación General de los Adventistas del Séptimo Día, participa en numerosas actividades y juntas de la iglesia; entre ellas, colabora como vicepresidente de la Junta del Patrimonio de Elena de White y es asesor principal de Adventist Review Ministries. Posee tres doctorados honoris causa de universidades adventistas. Vive en Maryland, EE. UU._
