@@ -10,6 +10,7 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-04-01.mp4?updated
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-04-01.webp?updated
           target: en/2024-04/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2024-04-01.webp
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2024-04-01.mp4
