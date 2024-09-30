@@ -6,6 +6,7 @@
   end_date: "27/12/2024"
   color_primary: "#5A2C32"
   color_primary_dark: "#541B23"
+  splash: true
   credits:
     - name: Umwanditsi W'iki kigisho
       value: "E. Edward Zinke na Thomas Shepherd"
@@ -17,7 +18,7 @@
       value: "Lea Alexander Greve"
     - name: Ushinzwe Ubwanditsi Wungirije
       value: "Sharon Thomas-Crews"
-    - name: Umuhuzabikorwa w'Icapiro "Pacific Press"
+    - name: "Umuhuzabikorwa w'Icapiro \"Pacific Press\""
       value: "Miguel Valdivia"
     - name: Ushinzwe Ubugeni no Gutunganya Igitabo
       value: "Lars Justinen"

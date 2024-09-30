@@ -1,6 +1,6 @@
-IJAMBO RY'IBANZE  
+### IJAMBO RY'IBANZE  
 
-INSANGANYAMATSIKO zo MU BUTUMWA BWIZA BWANDITSWE NA YOHANA
+#### INSANGANYAMATSIKO zo MU BUTUMWA BWIZA BWANDITSWE NA YOHANA
 
 Itapi y'Abaperesi yari mu iduka ryo mu mugi wa Teherani, muri Irani, yerekanaga ishusho y'ishyamba rya kera. Yari ikozwe neza cyane, yerekana ishusho yo mu Busuwisi: imisozi, isumo ry'amazi, ikiyaga cya Turukwaze, udusozi duteyeho ishyamba, n'ikirere kigari cy'ijuru ry'ubururu buvanzemo n'ibicu.
 
