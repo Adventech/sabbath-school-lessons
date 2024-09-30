@@ -1,6 +1,6 @@
 const { XMLParser } = require("fast-xml-parser"),
     axios   = require("axios"),
-    { getCompilationQuarterValue, getCurrentQuarter } = require('../../deploy-helper'),
+    { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter } = require('../../deploy-helper'),
     fs = require("fs-extra"),
     moment  = require("moment"),
     crypto = require("crypto"),
@@ -13,9 +13,12 @@ const WORKING_DIR = `ss-audio`
 let downloadEGWaudio = async function() {
     const URL = "https://www.egwhiteaudio.com/feed.xml"
     const parser = new XMLParser({ignoreAttributes : false});
-    const LESSON_NUMBER = /Lesson\s*(\d+)/gm
-    const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
-    const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${quarter}/en-egw-${quarter}`
+    let quarter = getCurrentQuarter()
+    const nextQuarter = getNextQuarter()
+    const podcastQuarter = quarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
+    const podcastQuarterNext = nextQuarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
+    const LESSON_NUMBER = new RegExp(`(${podcastQuarter}|${podcastQuarterNext})\\s*Lesson\\s*(\\d+)`, 'gm')
+
     const TIMESTAMPS = /(\d\d:\d\d)/gm
     let response
     try {
@@ -37,8 +40,10 @@ let downloadEGWaudio = async function() {
             // Identifying the lesson #
             let lesson = LESSON_NUMBER.exec(episode.title.trim())
 
-            if (lesson && lesson[1]) {
-                lesson = String(lesson[1]).padStart(2, '0')
+            if (lesson && lesson[1] && lesson[2]) {
+                quarter = lesson[1].replace(/ /gm, '-').replace(/Q/, '0')
+                lesson = String(lesson[2]).padStart(2, '0')
+                const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${quarter}/en-egw-${quarter}`
 
                 // Check if this lesson has already been processed and uploaded to the cloud
                 try {
