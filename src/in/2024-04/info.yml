@@ -1,0 +1,23 @@
+---
+  title: "test title"
+  description: "test description"
+  human_date: "Okt - Des - Des"
+  start_date: "28/09/2024"
+  end_date: "27/12/2024"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  credits:
+    - name: Penulis Pelajaran
+      value: ""
+    - name: Penerjemah
+      value: ""
+    - name: Ketua Yayasan
+      value: ""
+    - name: Ketua Bidang Usaha
+      value: ""
+    - name: Pemimpin Redaksi
+      value: ""
+    - name: Redaktur Pelaksana
+      value: ""
+    - name: Anggota Redaksi
+      value: ""
