@@ -1,5 +1,5 @@
-yt-dlp "https://youtu.be/ZFk2P62bxHs?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-04-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=AEmCqLGGVQA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2024-04-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=zMYtgwSZqa0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-04-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=dj0yMjeszsI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2024-04-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Xej5HPEANMo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2024-04-01.mp4"
+yt-dlp "https://www.youtube.com/watch?v=6cqSqpSwj5c" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2024-04-01.mp4"
