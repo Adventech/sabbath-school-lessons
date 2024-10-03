@@ -1,97 +1,24 @@
 const { XMLParser } = require("fast-xml-parser"),
     axios   = require("axios"),
-    { getCompilationQuarterValue, getCurrentQuarter } = require('../../deploy-helper'),
+    { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter } = require('../../deploy-helper'),
     fs = require("fs-extra"),
     moment  = require("moment"),
     crypto = require("crypto"),
     algorithm = "aes-192-cbc",
     glob    = require("glob"),
-    yamljs  = require("js-yaml"),
-    { exec } = require('child_process'),
-    util = require('util'),
-    execAsync = util.promisify(exec);
+    yamljs  = require("js-yaml");
 
 const WORKING_DIR = `ss-audio`
-
-let checkCebuanoAPK = async function() {
-    let downloadAPK = async function () {
-        let CEBUANO_APK_URL = `https://d.apkpure.net/b/APK/ph.edu.fusterobisaya?version=latest`
-        try {
-            const response = await axios({
-                method: 'get',
-                url: CEBUANO_APK_URL,
-                responseType: 'stream'
-            });
-
-            const writer = fs.createWriteStream(`${WORKING_DIR}/cebuano.zip`)
-            response.data.pipe(writer)
-
-            return new Promise((resolve, reject) => {
-                writer.on('finish', resolve);
-                writer.on('error', reject);
-            });
-        } catch (error) {
-            console.error('Error downloading the Cebuano APK:', error);
-        }
-    }
-    let executeCommand = async function (command) {
-        try {
-            const { stdout, stderr } = await execAsync(command);
-            if (stderr) {
-                console.error(`Stderr: ${stderr}`);
-                return;
-            }
-            return stdout
-        } catch (error) {
-            console.error(`Error: ${error.message}`);
-        }
-    }
-
-    let commands = "\n"
-    await downloadAPK()
-
-    if (!fs.pathExistsSync(`${WORKING_DIR}/cebuano.zip`)) {
-        return
-    }
-
-    await executeCommand(`mkdir -p "./ss-audio/cebuano" && unzip -o "./ss-audio/cebuano.zip" -d "./ss-audio/cebuano" && unzip -o "./ss-audio/cebuano/ph.edu.fusterobisaya.apk" -d "./ss-audio/cebuano" && mkdir -p "./ss-audio/pdf/ceb/fustero" && cp ./ss-audio/cebuano/assets/*.pdf ./ss-audio/pdf/ceb/fustero/ || echo "Error: Zip file does not exist."`)
-    await executeCommand(`rm -r ./ss-audio/cebuano ./ss-audio/cebuano.zip`)
-
-    let files = await executeCommand(`ls -1 ./ss-audio/pdf/ceb/fustero`)
-    let filesArray = files.trim().split("\n")
-    let newFiles = []
-
-    if (files && filesArray.length) {
-        for (let file of filesArray) {
-            console.log(`Sleeping for 500ms`)
-
-            await new Promise(resolve => setTimeout(resolve, 500));
-            console.log(`Checking ${file}`)
-
-            let remoteUrl = `https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/ceb/fustero/${file}`
-            try {
-                let remoteResponse = await axios.head(remoteUrl)
-                if (remoteResponse.status !== 200) {
-                    newFiles.push(file)
-                }
-            } catch (e) {
-                newFiles.push(file)
-            }
-        }
-    }
-
-    if (newFiles.length) {
-        commands += `aws ses send-email --region us-east-1 --to="vitaliy@adventech.io" --subject="Cebuano files" --html="Cebuano files that are uploaded:<br/><br/>${newFiles.join("<br/>")}" --from="vitaliy@adventech.io"\n`
-    }
-    fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
-}
 
 let downloadEGWaudio = async function() {
     const URL = "https://www.egwhiteaudio.com/feed.xml"
     const parser = new XMLParser({ignoreAttributes : false});
-    const LESSON_NUMBER = /Lesson\s*(\d+)/gm
-    const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
-    const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${quarter}/en-egw-${quarter}`
+    let quarter = getCurrentQuarter()
+    const nextQuarter = getNextQuarter()
+    const podcastQuarter = quarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
+    const podcastQuarterNext = nextQuarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
+    const LESSON_NUMBER = new RegExp(`(${podcastQuarter}|${podcastQuarterNext})\\s*Lesson\\s*(\\d+)`, 'gm')
+
     const TIMESTAMPS = /(\d\d:\d\d)/gm
     let response
     try {
@@ -113,8 +40,10 @@ let downloadEGWaudio = async function() {
             // Identifying the lesson #
             let lesson = LESSON_NUMBER.exec(episode.title.trim())
 
-            if (lesson && lesson[1]) {
-                lesson = String(lesson[1]).padStart(2, '0')
+            if (lesson && lesson[1] && lesson[2]) {
+                quarter = lesson[1].replace(/ /gm, '-').replace(/Q/, '0')
+                lesson = String(lesson[2]).padStart(2, '0')
+                const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/${quarter}/en-egw-${quarter}`
 
                 // Check if this lesson has already been processed and uploaded to the cloud
                 try {
@@ -342,7 +271,6 @@ let run = async function () {
     await downloadUKAudio();
     await downloadRussianAudio();
     await downloadGermanAudio();
-    await checkCebuanoAPK();
 }
 
 run().then(() => {
