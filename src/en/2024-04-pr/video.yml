@@ -38,3 +38,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2024-04-13.mp4
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2024-04-13.jpg
           target: en/2024-04-pr/13
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2024-04-04.mp4
+          target: en/2024-04-pr/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2024-04-04.jpg
