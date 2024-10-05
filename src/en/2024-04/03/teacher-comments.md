@@ -7,11 +7,11 @@ date:  18/10/2024
 
 Study Focus: John 1:9–13; John 1:14, 18; John 17:1–5
 
-More than anywhere else in the Scriptures, the Gospel of John boldly proclaims, precisely and powerfully, the truth that Jesus is God. As God eternal, Jesus precedes Creation and eternity itself. The beloved disciple dwells on the theme of Jesus’ divinity in such depth in order to illuminate the cosmic truth that the Word became flesh.
+More than anywhere else in the Scriptures, the Gospel of John boldly proclaims, precisely and powerfully, the truth that Jesus is God. As God eternal, Jesus precedes Creation. The beloved disciple dwells on the theme of Jesus’ divinity in such depth in order to illuminate the cosmic truth that the Word became flesh.
 
 As Moses launches the Old Testament by asserting the truth of Creation, so John makes the same proclamation in the New Testament. Thus the theme of Creation—and its Creator, the Word, who is God—unites both the Old Testament and the New Testament together. By anchoring his Gospel in Creation from the beginning, John provides a theological anchor for every other discussion to follow.
 
-For John, the subject of Jesus as Creator was vital because Satan, the great deceiver, hated the truth of Christ’s divinity and of His equality with God. Near the end of the first Christian century, dark heresies subtly entered the church. Gnostic heretics questioned the reality of Jesus’ divinity, spreading doubt about His true incarnation in the flesh. This dangerous phenomenon occurred approximately three decades after the writing of the synoptic Gospels. Consequently, it brought discouragement among the believers and lowered their spiritual morale.
+For John, the subject of Jesus as Creator was vital because Satan, the great deceiver, hated the truth of Christ’s divinity and of His equality with God. Near the end of the first Christian century, dark heresies subtly entered the church. Gnostic heretics affirmed the reality of Jesus’ divinity, spreading doubt about His true incarnation in the flesh. This dangerous phenomenon occurred approximately three decades after the writing of the synoptic Gospels. Consequently, it brought discouragement among the believers and lowered their spiritual morale.
 
 The first 18 verses of John’s Gospel constitute a prologue to the rest of his Gospel. They provide an unshakable, concise, and compact theological statement about Christ’s divinity. Christ the Word is God and has ever been. He is the Creator and the Life and Light-Giver; yet He became a human being, born of God, and demonstrated His love, grace, and glory before His creation.
 
@@ -53,7 +53,7 @@ But such thinking is perilous, for it encourages people to be careless about the
 
 **Reappearing Themes—Glory (John 17:1–5)**
 
-Knowing that His hour had come, Jesus was ready to face the cross. But He also anticipated the joy and glory that awaited Him. The joint mission of salvation that Father and Son agreed on from the foundation of the world was about to be successfully carried out. The devil was soon to be defeated decisively at the cross.
+Knowing that His hour had come, Jesus was ready to face the cross. But He also anticipated the joy and glory that awaited Him. The joint mission of salvation that Father and Son agreed on from before the foundation of the world was about to be successfully carried out. The devil was soon to be defeated decisively at the cross.
 
 Christ, in His heroic work to save those who believe in Him, descended to the lowest pit, only to be raised up in glory. Paul attests to this fact when he says that Christ “humbled Himself and became obe­dient to the point of death, even the death of the cross. Therefore, God also has highly exalted Him and given Him the name which is above every name” (Phil. 2:8, 9, NKJV). Do you see how Paul contrasts the joy and the shame in Christ’s salvific act? Thus, we may say that Christ’s anticipation of salvation for the world was a glorious experience, in spite of the shame He endured on the cross. Jesus “who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God” (Heb. 12:2, NKJV).
 
