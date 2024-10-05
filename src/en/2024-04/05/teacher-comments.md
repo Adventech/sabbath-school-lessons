@@ -11,7 +11,7 @@ The Samaritans were despised by their Jewish neighbors. The Jews despised the Sa
 
 The Samaritan problem started when Tiglath-Pileser III (745–727 b.c.) took most of the population of Israel as captives to Assyria to settle there. These Israelites comprised what are known as the ten lost tribes of Israel. To complete this work of depopulation, the new Assyrian emperor, Sargon II (722–705 b.c.), exiled even more of the inhabitants of the Northern Kingdom.
 
-To unify the Assyrian empire, people from Assyria and the Mesopotamian regions were brought into Israel to repopulate it. Thus, these newcomers mixed with the remnant of Israel, both religiously and racially. The outline here is but a brief overview of the events that transpired. Other negative incidents that occurred later on, such as the Samaritan attempt to sabotage the rebuilding efforts of the Jewish exiles when they returned to their country, only served to compound the problem and intensify racial tensions between the Samaritans and Jews.
+To unify the Assyrian Empire, people from Assyria and the Mesopotamian regions were brought into Israel to repopulate it. Thus, these newcomers mixed with the remnant of Israel, both religiously and racially. The outline here is but a brief overview of the events that transpired. Other negative incidents that occurred later on, such as the Samaritan attempt to sabotage the rebuilding efforts of the Jewish exiles when they returned to their country, only served to compound the problem and intensify racial tensions between the Samaritans and Jews.
 
 #### Part II: Commentary
 
