@@ -106,7 +106,13 @@ let validateContent = async function () {
                     validDate.add(1, 'd')
                 }
 
-                let content = metaMarked(fs.readFileSync(markdownFile, "utf-8"))
+                let c = fs.readFileSync(markdownFile, "utf-8")
+
+                if (c.length > 40000) {
+                    fail(`Potentially very long document over 40k characters: \`${markdownFile}\`.`)
+                }
+
+                let content = metaMarked(c)
 
                 if (!content.meta.title) {
                     fail(`Error in the title field: \`${markdownFile}\`. No title provided`)
