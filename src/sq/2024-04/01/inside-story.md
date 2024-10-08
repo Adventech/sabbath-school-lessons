@@ -70,7 +70,5 @@ Faleminderit për Ofertat e Sabatit të 13të, që kanë mbështetur Shkollën A
 **Shënime nga misioni**
 
 - Shtetet e Bashkuara janë pjesë e Divizionit i Amerikës Veriore dhe përmban 8 konferenca. Ka 5.262 kisha, 799 grupe dhe 1.089.385 anëtarë. Me popullsinë prej 332.903.000 banorësh, ka një Adventist për çdo 306 njerëz.
-
 - Ky divizion u formua në vitin 1913 dhe ishte në të njëjtën ndërtesë me Konferencën e Përgjithshme deri në 2017, kur lëvizi në një ndërtese tjetër, në Kolumbia, Meriland.
-
 - Divizioni i Amerikës Veriore kujdeset për punën e kishës në Shtetet e Bashkuara, Kanada, ishujt Shën Pierrë dhe Mikelon, Bermuda, Guam, Uake, Ishujt e Marianës Veriore, Palau, Ishujt Marshall dhe Shtetet e Federuara të Mikronezisë.
