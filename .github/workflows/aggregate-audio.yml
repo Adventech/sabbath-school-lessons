@@ -3,20 +3,23 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '0 */2 * * *'
+  push:
+    paths:
+      - 'aggregate-audio.yml'
 jobs:
   download-audio:
     if: (github.event_name == 'schedule' && github.repository == 'Adventech/sabbath-school-lessons') || (github.event_name != 'schedule')
     runs-on: ubuntu-latest
     steps:
-      - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@v1
-        with:
-          with-ffmpeg: true
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: '12'
           check-latest: true
+      - name: Setup yt-dlp
+        uses: AnimMouse/setup-yt-dlp@v1
+        with:
+          with-ffmpeg: true
       - name: Add token for private packages
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
