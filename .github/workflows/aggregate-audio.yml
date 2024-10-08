@@ -13,14 +13,13 @@ jobs:
     if: (github.event_name == 'schedule' && github.repository == 'Adventech/sabbath-school-lessons') || (github.event_name != 'schedule')
     runs-on: ubuntu-latest
     steps:
-      - run: mkdir /home/runner/work/_temp/yt-dlp-FFmpeg; mkdir /home/runner/work/_temp/yt-dlp
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: '12'
           check-latest: true
       - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@v1
+        uses: AnimMouse/setup-yt-dlp@v1.6.1
         with:
           with-ffmpeg: true
       - name: Add token for private packages
