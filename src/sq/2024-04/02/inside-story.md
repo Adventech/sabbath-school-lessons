@@ -66,9 +66,6 @@ Faleminderit per Ofertat tuaja të Sabatit të 13të, që kanë mbështetur Shko
 **Shënime nga misioni**
 
 - Në vitin 1863, një grup Adventistësh u mblodh në Battle Creek, Miçigan, për të formuar atë që sot quhet Kisha Adventiste e Ditës së Shtatë.
-
 - Misionari i parë Adventist ishte J. N. Andrju, i cili u dërgua në Angli dhe Zvicër, në vitin 1874, për të ndihmuar drejtuesit e kishës atje.
-
 - Desmond Dos ishte pjesë e ushtrisë në Luftën e Dytë Botërore por, për shkak të besimit të tij Adventist, ai refuzoi të vriste dikë apo të mbante armë. Ai u bë pjesë e personelit mjekësor. Gjatë betejës së Okinavës, ai shpëtoi të paktën 75 ushtarë dhe, për këtë, iu dha Medalja e Nderit. Ai ishte i vetmi person i paarmatosur që mori këtë medalje.
-
 - Doktor Ben Karson është një neurokirurg i njohur Amerikan, Adventist i Ditës së Shtatë i cili, në vitin 1987, ishte i pari që arriti të ndante me sukses dy binjakë të bashkuar te koka.
