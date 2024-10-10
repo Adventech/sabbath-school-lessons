@@ -1,5 +1,5 @@
 ---
-title:  A dicsőség órája:  A kereszt és a feltámadás
+title:  "A dicsőség órája: A kereszt és a feltámadás"
 date: 20/12/2024
 ---
 

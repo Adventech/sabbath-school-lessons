@@ -1,5 +1,5 @@
 ---
-title:  Epilógus: Megismerni Jézust  és Igéjét
+title:  "Epilógus: Megismerni Jézust  és Igéjét"
 date: 27/12/2024
 ---
 
