@@ -909,6 +909,18 @@ let polishVideo = async function () {
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/pl/sp/pl-sp-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "pl",
+        "Hope Channel",
+        {
+            artist: "Hope Channel",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
