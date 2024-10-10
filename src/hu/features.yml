@@ -17,10 +17,10 @@
   inside-story:
     name: inside-story
     title: Történet
-    description: Olvasson inspiráló küldetéstörténeteket a világ minden tájáról
+    description: Inspiráló missziós történetek a világ minden tájáról
     image: "v1/images/features/feature_inside_story.png"
   original_layout:
     name: original-layout
     title: Eredeti elrendezés
-    description: Javítsa a lecke tanulmányozását az eredeti nyomtatási elrendezés használatával, számos megjegyzéseszközzel
+    description: A nyomtatott kiadvány szerinti elrendezés, saját jegyzetekkel
     image: "v1/images/features/feature_original_layout.png"
