@@ -18,4 +18,4 @@ Però no ens perdem el panorama general mentre examinem els detalls. De fet, de 
 
 _E. Edward Zinke, antic director associat de l'Institut de Recerca Bíblica de la Conferència General dels Adventistes del Setè dia, està involucrat en moltes activitats i juntes de l'església, inclòs servir com a vicepresident de l'Ellen G. White Estate Board i com a sènior. assessor dels Ministeris de Revisió Adventista. Té tres doctorats honoris causa d'universitats adventistes del setè dia. Viu a Maryland._
 
-_Thomas Shepherd, PhD, DrPH, és professor d'investigació sènior del Nou Testament al Seminari Teològic Adventista del Setè dia de la Universitat d'Andrews, on ensenya des de 2008. Ell i la seva dona, Sherry Shepherd, MD, han servit com a missioners a Malawi, Àfrica., i Brasil. Tenen dos fills grans i sis néts._
+_Thomas Shepherd, PhD, DrPH, és professor d'investigació sènior del Nou Testament al Seminari Teològic Adventista del Setè dia de la Universitat d'Andrews, on ensenya des de 2008. Ell i la seva dona, Sherry Shepherd, MD, han servit com a missioners a Malawi, Àfrica, i Brasil. Tenen dos fills grans i sis néts._
