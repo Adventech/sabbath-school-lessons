@@ -1,5 +1,5 @@
 ---
-title:  Svedоčenje Samarjana
+title:  Svedočenje Samarjana
 date:  01/11/2024
 ---
 

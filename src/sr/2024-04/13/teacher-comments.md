@@ -1,5 +1,5 @@
 ---
-title:  'Epilоg: Pоznavanje Isusa i Njegоve Reči'
+title:  'Epilog: Poznavanje Isusa i Njegove Reči'
 date:  27/12/2024
 ---
 

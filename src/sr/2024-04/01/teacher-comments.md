@@ -1,5 +1,5 @@
 ---
-title:  Znaci kоji pоkazuju put
+title:  Znaci koji pokazuju put
 date:  04/10/2024
 ---
 

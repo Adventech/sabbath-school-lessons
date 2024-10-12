@@ -1,5 +1,5 @@
 ---
-title:  Jоš svedоčanstava о Isusu
+title:  Još svedočanstava o Isusu
 date:  08/11/2024
 ---
 

@@ -1,5 +1,5 @@
 ---
-title:  Blagо оnima kоji veruju
+title:  Blago onima koji veruju
 date:  15/11/2024
 ---
 
