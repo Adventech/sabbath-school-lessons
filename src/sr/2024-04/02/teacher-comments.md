@@ -1,5 +1,5 @@
 ---
-title:  Pоkazatelji bоžanstva
+title:  Pokazatelji božanstva
 date:  11/10/2024
 ---
 
