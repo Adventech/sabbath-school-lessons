@@ -7,7 +7,8 @@ let metaMarked = require("meta-marked"),
     glob = require("glob"),
     moment = require('moment'),
     axios = require('axios'),
-    core = require('@actions/core');
+    core = require('@actions/core'),
+    path = require('path');
 
 let prNum = false
 
@@ -100,10 +101,14 @@ let validateContent = async function () {
             }
         }
 
+        let prevMarkdownFile = null
+
         for (let markdownFile of markdownFiles) {
             try {
+
                 if (/\d{2}\.md$/.test(markdownFile)) {
-                    validDate.add(1, 'd')
+                    validDate.add(prevMarkdownFile !== path.basename(markdownFile) ? 1 : 7, 'd')
+                    prevMarkdownFile = path.basename(markdownFile)
                 }
 
                 let c = fs.readFileSync(markdownFile, "utf-8")
