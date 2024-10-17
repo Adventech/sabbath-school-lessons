@@ -9,9 +9,6 @@ date:   18/10/2024
 
 -   Was in diesem Abschnitt könnt ihr logisch nicht nachvollziehen?
 
-```{=html}
-<!-- -->
-```
 -   Warum bezeichnet Johannes Jesus als Wort? Was haben damalige Zuhörer
     mit dem Wort (gr. Logos) verbunden?
     -   Wie kann das Wort gleichzeitig bei Gott sein und Gott selbst
@@ -32,14 +29,8 @@ date:   18/10/2024
     -   Die Welt erkennt ihn nicht
     -   Die Seinen nehmen ihn nicht auf
 
-```{=html}
-<!-- -->
-```
 -   Warum ist ein göttlicher, ewiger Jesus nicht erfolgreicher?
 
-```{=html}
-<!-- -->
-```
 -   Und dennoch gibt es Hoffnung: „wie viele ihn aufnahmen, denen gab er
     Macht/das Recht, Gottes Kinder zu werden, denen die an seinen Namen
     glauben"
@@ -60,9 +51,7 @@ date:   18/10/2024
             'All flesh is grass ...', rsv). Jesus identified with us to
             that degree. He made our creaturely weakness his very own
             form of being (*cf.* Rom. 8:3: 'sending his own Son in the
-            likeness of sinful man \[flesh\]'.
-            [^\[1\]^](4/2024_Lektion_03#_ftn1 "wikilink")
-    -   Was steckt hinter „wohnte unter uns"?
+            likeness of sinful man \[flesh\]'.    -   Was steckt hinter „wohnte unter uns"?
     -   Was haben Johannes und seine Freunde an „Herrlichkeit" gesehen?
         -   Joh 2,11: „Diesen Anfang der Zeichen machte Jesus zu Kana in
             Galiläa und offenbarte seine Herrlichkeit; und seine Jünger
@@ -97,10 +86,8 @@ date:   18/10/2024
     Vers 17 das erste Mal)
 -   *Was berührt euch ganz persönlich an Johannes 1,1-18?*
 
-\-\-\--[^\[1\]^](4/2024_Lektion_03#_ftnref1 "wikilink") Bruce Milne,
 *The message of John: here is your king!: with study guide*, The Bible
 Speaks Today (Leicester, England; Downers Grove, IL: InterVarsity Press,
 1993), 4
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

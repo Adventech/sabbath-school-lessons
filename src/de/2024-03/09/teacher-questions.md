@@ -9,7 +9,7 @@ date:   30/08/2024
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### **Persönliche Anmerkungen** {#persönliche_anmerkungen}
+### Persönliche Anmerkungen
 
 Ausgehend von einem der nördlichsten Orte, die Jesus je besucht hatte,
 erreichte er nun über Jericho Jerusalem, das Ziel seiner Reise.
@@ -26,22 +26,22 @@ theologisch/intellektuell. Anders als bei der ersten
 Versuchungsgeschichte bediente sich Satan jetzt der geistlichen Führern
 des Volkes.
 
-### **Schlüsselgedanke**
+### Schlüsselgedanke
 
 Wie schwierig ist es für Menschen aus verschiedenen
 Gesellschaftsschichten und Erwartungshaltungen, Jesus als persönlichen
 Erlöser anzunehmen?
 
-### **Startfragen**
+### Startfragen
 
 -   Wie können wir die Ereignisse dieses Textabschnittes in das Leben
     Jesu einordnen?
 -   Welche Parallelen sind zum Beginn seines Dienstes zu erkennen?
 -   Was machte Jesus zum Hoffnungsträger einer ganzen Nation?
 
-### **Tagesabschnitte**
+### Tagesabschnitte
 
-### Sonntag: Der triumphale Einzug {#sonntag_der_triumphale_einzug}
+### Sonntag: Der triumphale Einzug
 
 **Markus 11,1-11**
 
@@ -58,7 +58,7 @@ Erlöser anzunehmen?
     -   Welche Bedeutung hat der Einzug Jesu in Jerusalem für uns heute?
     -   Mit welcher Erwartungshaltung leben wir als Christen?
 
-### Montag: Ein verfluchter Baum und ein gereinigter Tempel {#montag_ein_verfluchter_baum_und_ein_gereinigter_tempel}
+### Montag: Ein verfluchter Baum und ein gereinigter Tempel
 
 **Markus 11,12-26**
 
@@ -78,7 +78,7 @@ Erlöser anzunehmen?
     -   Was lernen wir von der Reinigung des Tempels?
     -   Mit welcher Erwartungshaltung kommen wir zum Gottesdienst?
 
-### Dienstag: Wer hat die erlaubt, das zu tun? {#dienstag_wer_hat_die_erlaubt_das_zu_tun}
+### Dienstag: Wer hat die erlaubt, das zu tun?
 
 **Markus 11,27-12,12**
 
@@ -95,7 +95,7 @@ Erlöser anzunehmen?
         ist, so wichtig?
     -   Welche Autorität hat Jesus in meinem Leben?
 
-### Mittwoch: Irdische Pflichten und himmlische Ereignisse {#mittwoch_irdische_pflichten_und_himmlische_ereignisse}
+### Mittwoch: Irdische Pflichten und himmlische Ereignisse
 
 **Markus 12,13-27**
 
@@ -133,7 +133,7 @@ Erlöser anzunehmen?
         egoistischer Schauspieler zu handeln (= ist die Wurzel von
         Heuchler!)?
 
-### Donnerstag: Das größte Gebot {#donnerstag_das_größte_gebot}
+### Donnerstag: Das größte Gebot
 
 **Markus 12,28-34**
 
@@ -156,7 +156,7 @@ Erlöser anzunehmen?
     -   Zeigen sich Wertschätzung und Respekt gegenüber meinem
         Mitmenschen in meinem christlichen Lebenswandel?
 
-### **Schlussüberlegung**
+### Schlussüberlegung
 
 -   -   Leben wir als authentische Christen?
 
@@ -165,5 +165,4 @@ einem lebendigen Glauben an Christus verbunden waren, blieben sie
 wertlos. Selbst das Moralgesetz verfehlt seinen Zweck, wenn es nicht in
 seiner Beziehung zum Erlöser verstanden wird." SdL 58
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

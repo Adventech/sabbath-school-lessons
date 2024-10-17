@@ -43,8 +43,6 @@ II: Wir studieren die Bibel
     -   Welche praktischen Hinweise gibt uns Paulus Eph4,24-32 auch
         allgemein zum Zusammenleben?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Welche wichtigen Veränderungen im Menschen sind dabei Schlüssel
         zu glücklichem, harmonischem Zusammenleben?
@@ -117,9 +115,5 @@ II: Wir studieren die Bibel
     -   Welche Rolle spielt „Wertschätzung“ im Alltag meinen
         Beziehungen? (nicht
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

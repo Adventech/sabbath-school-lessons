@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   20/03/2020
 ---
 
-[Von Norden und Süden zum wunderbaren Land](https://sabbath-school.adventech.io/de/2020-01/12/01)
+Von Norden und Süden zum wunderbaren Land
 =================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -76,8 +67,6 @@ II: Wir studieren die Bibel
 -   Fragen zur Relevanz der Botschaft für uns heute
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
-
-**`Helge`` ``Külls,`` ``Pastor`` ``und`` ``Predigtamtsekretär`` ``der`` ``ÖU,`` ``hat`` ``eine`` ``ausführliche`` ``Ausarbeitung`` ``zu`` ``den`` ``ersten`` ``39`` ``Versen`` ``in`` ``Daniel`` ``11`` ``erstellt.`` `[`Hier`` ``bekommst`` ``du`` ``die`` ``PDF.`](Medium:Daniel_11,1-39_-_Külls_Helge_-_Detailauslegung_2020-03-15.pdf "wikilink")**
 
 Daniel 11,1-4
 
@@ -159,8 +148,6 @@ Daniel 11,15-35
         -   Welche dieser vier Möglichkeiten scheint euch hier in Dan.
             11,31 am Zutreffendsten zu sein? Begründet eure Meinung!
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Der Tod Jesu “als Fürst des Bundes” bildet in der Struktur der
         Vision der Kapitel 10-12 in Vers 22 den literarischen Höhepunkt
@@ -175,9 +162,5 @@ Daniel 11,15-35
     -   Inwieweit motivieren euch die Worte Jesu in Mt 24,15, wo er sich
         direkt auf Daniel 11,31 bez
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

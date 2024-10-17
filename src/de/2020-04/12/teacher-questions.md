@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   18/12/2020
 ---
 
-\[<https://sabbath-school.adventech.io/de/2020-04/12/01Sabbat>: Den Charakter Gottes leben und erleben\]
+### Den Charakter Gottes leben und erleben
 ========================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -55,7 +44,7 @@ II: Wir studieren die Bibel
     Verständnis und das Halten des Sabbats?
 -   Welche Gedanken kommen euch, wenn ihr an Sabbat denkt?
 
-### [Zeit der Überraschung](https://sabbath-school.adventech.io/de/2020-04/12/zeit-der-überraschung/)
+### Zeit der Überraschung
 
 **1.Mose 2,1-3**
 
@@ -72,7 +61,7 @@ II: Wir studieren die Bibel
     -   Wie erleben wir den Sabbatsegen?
     -   Wie können wir den Sabbat als Geschenk Gottes neu entdecken?
 
-### [Zeit zum Wiederentdecken](https://sabbath-school.adventech.io/de/2020-04/12/zeit-zum-wiederentdecken/)
+### Zeit zum Wiederentdecken
 
 **2.Mose 16,14-29**
 
@@ -90,7 +79,7 @@ II: Wir studieren die Bibel
         Bedürfnis? Wie kann der Sabbat eure Bedürfnisse stillen?
     -   Was hat euch die Geschichte vom Manna zu sagen?
 
-### [Zeit zum Lernen, Prioritäten zu setzen](https://sabbath-school.adventech.io/de/2020-04/12/zeit-zum-lernen-prioritäten-zu-setzen/)
+### Zeit zum Lernen, Prioritäten zu setzen
 
 **Jesaja 58,1.2.13.14**
 
@@ -110,7 +99,7 @@ II: Wir studieren die Bibel
     -   Wie kann der Sabbat immer wieder neu zu etwas Besonderem werden
         und nicht in Routine erstarren?
 
-### [Zeit, um ins Gleichgewicht zu kommen](https://sabbath-school.adventech.io/de/2020-04/12/zeit-um-ins-gleichgewicht-zu-kommen/)
+### Zeit, um ins Gleichgewicht zu kommen
 
 **Matthäus 12,1-13; Lukas 13,10-17; Markus 2,27**
 
@@ -134,7 +123,7 @@ II: Wir studieren die Bibel
     -   Was bedeutet es euch, dass der Sabbat für jeden einzelnen
         gemacht wurde?
 
-### [Zeit für Gemeinschaft](https://sabbath-school.adventech.io/de/2020-04/12/zeit-für-gemeinschaft/)
+### Zeit für Gemeinschaft
 
 **Apostelgeschichte 13,13-15.43-45**
 
@@ -149,9 +138,5 @@ II: Wir studieren die Bibel
     -   Welche Vorteile hat eine gemeinschaftliche Sabbatgestaltung?
         Gibt es auch Nachteile?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

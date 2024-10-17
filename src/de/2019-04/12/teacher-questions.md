@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   20/12/2019
 ---
 
-[Mit schlechten Entscheidungen umgehen](https://sabbath-school.adventech.io/de/2019-04/12/mit-schlechten-entscheidungen-umgehen/)
+Mit schlechten Entscheidungen umgehen
 =================================================================================================================================
 
 I: Gemeinschaft
@@ -26,7 +26,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### [Nehemias Reaktion](https://sabbath-school.adventech.io/de/2019-04/12/nehemias-reaktion/)
+### Nehemias Reaktion
 
 **Nehemia 13,23-25**
 
@@ -37,7 +37,7 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   *Bist Du wegen ‘Gottes Sache’ schon zornig geworden?*
 
-### [Nehemias Tadel](https://sabbath-school.adventech.io/de/2019-04/12/nehemias-tadel/)
+### Nehemias Tadel
 
 **Text Nehemia 13,26-27**
 
@@ -69,7 +69,7 @@ II: Wir studieren die Bibel
     -   *Was möchte uns Gott wohl heute einschärfen - Dinge, das wir
         unbedingt tun müss(t)en bzw. auf keinen Fall tun dürf(t)en?*
 
-### [Esra reagiert](https://sabbath-school.adventech.io/de/2019-04/12/esra-reagiert/)
+### Esra reagiert
 
 **Text Esra 9,1-2**
 
@@ -84,7 +84,7 @@ II: Wir studieren die Bibel
         uns gleichzeitig von ihrem sündigen Lebensstil fernzuhalten bzw.
         «abzusondern»?*
 
-### [Esra handelt](https://sabbath-school.adventech.io/de/2019-04/12/esra-handelt/)
+### Esra handelt
 
 **Text Esra 10,1-19**
 
@@ -95,7 +95,7 @@ II: Wir studieren die Bibel
     -   *Gibt es Untreue in unseren Reihen die dich traurig macht? Was
         kannst Du dagegen tun?*
 
-### [Ehe heute](https://sabbath-school.adventech.io/de/2019-04/12/ehe-heute/)
+### Ehe heute
 
 **Text 1. Korinther 7,10-17**
 
@@ -123,16 +123,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

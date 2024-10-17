@@ -104,4 +104,4 @@ date:   21/07/2018
 -   Wie können wir vv.38-39 heute anwenden? Sollte man alles erst einmal
     laufen lassen? Wo zieht man die Grenze?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

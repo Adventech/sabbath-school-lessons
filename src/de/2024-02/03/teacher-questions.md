@@ -3,11 +3,11 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   19/04/2024
 ---
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Was ist ein Kompromiss? Wann ist er sinnvoll und gut? Wann nicht?
 
-### **Sonntag: Kompromisse, Satans geschickte Strategie** {#sonntag_kompromisse_satans_geschickte_strategie}
+### Sonntag: Kompromisse, Satans geschickte Strategie
 
 **Johannes 8,44; 8,32; 14,6; 17,17**
 
@@ -23,7 +23,7 @@ date:   19/04/2024
     Menschen mehr zu vertrauen als dem Wort Gottes? Wie kann es sein,
     dass so viele Menschen nicht aus der (Kirchen-) Geschichte lernen?
 
-### **Montag: Reißende Wölfe** {#montag_reißende_wölfe}
+### Montag: Reißende Wölfe
 
 **Apostelgeschichte 20,28-32**
 
@@ -45,7 +45,7 @@ date:   19/04/2024
 -   Wo siehst du heute in unserer Kirche oder in anderen Anzeichen für
     diese Verführungen? Was kannst du tun, um dem zu begegnen?
 
-### **Dienstag: Bewahrt durch Gottes Wort** {#dienstag_bewahrt_durch_gottes_wort}
+### Dienstag: Bewahrt durch Gottes Wort
 
 **Johannes 17,15-17; 2. Timotheus 3,16**
 
@@ -59,7 +59,7 @@ date:   19/04/2024
     Lehrsätzen (Dogmen) überliefert worden, sondern in Geschichten und
     Briefen von schwachen Menschen?
 
-### **Mittwoch: Menschlicher Verstand ohne die Bibel** {#mittwoch_menschlicher_verstand_ohne_die_bibel}
+### Mittwoch: Menschlicher Verstand ohne die Bibel
 
 -   Wie stehst du zu folgender Aussage aus der Lektion?
 
@@ -73,7 +73,7 @@ date:   19/04/2024
 -   Wie stehen menschliche Vernunft und göttliche Offenbarung
     zueinander?
 
-### **Donnerstag: Kampf um das Denken** {#donnerstag_kampf_um_das_denken}
+### Donnerstag: Kampf um das Denken
 
 **2. Korinther 4,3-6**
 
@@ -94,14 +94,4 @@ date:   19/04/2024
 -   Wie kann man sich am besten schützen, seinen „Sinn" nicht
     „verblenden" zu lassen?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/03/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

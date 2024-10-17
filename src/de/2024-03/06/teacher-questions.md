@@ -14,7 +14,7 @@ date:   09/08/2024
 -   Was bewirken Erkenntnisse (Wissen, Gebote,... ) bzw. Beziehungen
     (Liebe) im Leben eines Menschen?
 
-### SONNTAG -- Menschliche Überlieferungen kontra Gottes Gebote {#sonntag_menschliche_überlieferungen_kontra_gottes_gebote}
+### SONNTAG -- Menschliche Überlieferungen kontra Gottes Gebote
 
 **Mark 7,1-13**
 
@@ -31,7 +31,7 @@ date:   09/08/2024
     -   Was ist ein Heuchler? Warum tut er es?
     -   Wie erkenne ich meine Beweggründe meiner Handlungen?
 
-### MONTAG -- Reine Hände oder ein reines Herz? {#montag_reine_hände_oder_ein_reines_herz}
+### MONTAG -- Reine Hände oder ein reines Herz?
 
 **Mark 7,14-23**
 
@@ -48,7 +48,7 @@ date:   09/08/2024
     -   Frage: Stimmt folgendes: „Schlecht(es) Essen macht nicht
         „unrein" sondern höchstens krank!"?
 
-### DIENSTAG -- Krümel für die Hunde {#dienstag_krümel_für_die_hunde}
+### DIENSTAG -- Krümel für die Hunde
 
 **Mark 7,24-30**
 
@@ -65,7 +65,7 @@ date:   09/08/2024
         sie die Frau wegschicken!)
     -   Was lernt uns diese Begebenheit?
 
-### MITTWOCH -- Gefesselte Zunge {#mittwoch_gefesselte_zunge}
+### MITTWOCH -- Gefesselte Zunge
 
 **Mark 7,13-37**
 
@@ -82,7 +82,7 @@ date:   09/08/2024
         sind wir offen für Gott?
     -   Wie reagieren wir auf Gottes Eingreifen in unser Leben?
 
-### DONNERSTAG -- Vorsicht, schlechtes Brot {#donnerstag_vorsicht_schlechtes_brot}
+### DONNERSTAG -- Vorsicht, schlechtes Brot
 
 **Mark 8,11-21**
 
@@ -99,5 +99,4 @@ date:   09/08/2024
         herzliche Beziehung mit Jesus?
     -   Was hilft bei Beziehungspflege?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

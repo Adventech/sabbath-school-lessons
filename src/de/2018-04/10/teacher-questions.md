@@ -54,7 +54,7 @@ Was sind die Folgen von Uneinigkeit (bzw. Streit) in einer Gemeinde?
 
 ### Dienstag: Geistliche Gaben für die Einheit
 
-<strong>1.Kor 12,1-11 und 2.Kor 10,12-15</strong>
+**1.Kor 12,1-11 und 2.Kor 10,12-15**
 
 -   Fragen zur Botschaft:
     -   ...Welche Rolle spielt unsere "Ego" im Dienst? Was ist dabei
@@ -109,6 +109,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

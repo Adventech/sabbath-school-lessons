@@ -73,9 +73,6 @@ Eingreifen Gottes verspürt hast!
 -   Wenn du an das Eingreifen Gottes denkst, kannst du in das Halleluja
     von Psalm 146 einstimmen?
 
-```{=html}
-<!-- -->
-```
 -   Was bedeuten dir die biblischen und christlichen Wünsche:
     -   „Dein Reich komme"?
     -   „Maranatha!" (unser Herr komm! Oder: unser Herr kommt)?
@@ -86,14 +83,4 @@ Schlussgedanke:
 Es bleiben Glaube, Hoffnung, Liebe. Im Hinblick auf das Eingreifen
 Gottes sind Glaube und Hoffnung besonders gefragt.
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/06/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

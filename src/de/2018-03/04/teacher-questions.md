@@ -102,4 +102,4 @@ du, dass du in der kommenden Woche anders machen wirst? Was kann dir
 helfen neu gewonnene oder vertiefende Erkenntnisse dauerhaft in die Tat
 umzusetzen?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   03/07/2020
 ---
 
-*[Warum Zeugnis geben?](https://sabbath-school.adventech.io/de/2020-03/01/warum-zeugnis-geben/)*
+*Warum Zeugnis geben?*
 ================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -71,7 +62,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfragen**
+### Startfragen
 
 -   Warum sprichst du mit anderen über deinen Glauben? Was treibt dich
     an?
@@ -108,15 +99,13 @@ Leben davon Zeugnis ablegen, dass Gott lebt.”* (Nathan Söderblom)
 -   Inwieweit stimmt ihr dieser Aussage zu?
 -   Inwieweit trifft das auf euer Leben zu?
 
-<!-- -->
-
 -   Wenn wir uns von Gottes Ansprüchen an uns in Bezug auf das
     Zeugnisgeben (oder Zeugnis-Sein) überfordert fühlen, was sollen wir
     dann tun?
 
 \
 
-### **[Gelegenheiten zur Erlösung schaffen](https://sabbath-school.adventech.io/de/2020-03/01/gelegenheiten-zur-erl%C3%B6sung-schaffen/)**
+### Gelegenheiten zur Erlösung schaffen
 
 **1. Timotheus 2,3–4; Römer 10,13**
 
@@ -169,7 +158,7 @@ Zeugnis, um ihnen ihre **beste** Chance zu bieten.”*
 
 \
 
-### **[Jesus froh machen](https://sabbath-school.adventech.io/de/2020-03/01/jesus-froh-machen/)**
+### Jesus froh machen
 
 **Zefania 3,17; Lukas 15 (Gleichnisse vom verlorenen Schaf, Groschen,
 Sohn)**
@@ -203,9 +192,6 @@ Fragen zur Botschaft:
 -   Bei welchen ist euch das eher gleichgültig?
     -   Wie sollten wir auf diesen Umstand reagieren?
 
-\
-===**[Wachsen durch
-Geben](https://sabbath-school.adventech.io/de/2020-03/01/wachsen-durch-geben/)**===
 **Johannes 7,37-38**
 
 -   Warum ist es für Christen offenbar selbstverständlich, nicht nur
@@ -252,9 +238,7 @@ wir aber auch bereit, es weiter zu sagen und andere an diesem Quell
 mittrinken zu lassen? Wenn nicht, haben wir SEINE Botschaft nicht
 verstanden!”
 
-\
-
-### **[Treue gegenüber Christi Gebot](https://sabbath-school.adventech.io/de/2020-03/01/treue-gegen%C3%BCber-christi-gebot/)**
+### Treue gegenüber Christi Gebot
 
 **Apostelgeschichte 13,47; Jesaja 49,6**
 
@@ -284,9 +268,5 @@ Fragen zur Botschaft:
     nach innen konzentriert, dass sie vergisst, was ihr eigentlicher
     Zweck ist (Frage auf Seite 14 unt
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

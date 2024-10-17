@@ -3,12 +3,12 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/09/2024
 ---
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Wenn Jesus heute unter uns wäre -- was würdet ihr tun wollen, um ihm
     eure Liebe zu zeigen?
 
-### **Sonntag: Unvergesslich** {#sonntag_unvergesslich}
+### Sonntag: Unvergesslich
 
 **Markus 14,3-6**
 
@@ -21,7 +21,7 @@ date:   13/09/2024
     und warum? Wie können wir lernen, Mensch so zu sehen, wie Jesus es
     tut?
 
-### **Montag: Das letzte Abendmahl** {#montag_das_letzte_abendmahl}
+### Montag: Das letzte Abendmahl
 
 **Markus 14,27-31**
 
@@ -31,7 +31,7 @@ date:   13/09/2024
 -   Hast du Gott jemals versprochen, etwas zu tun oder nicht zu tun, und
     es dann doch nicht gehalten? Was hast du daraus gelernt?
 
-### **Dienstag: Gethsemane** {#dienstag_gethsemane}
+### Dienstag: Gethsemane
 
 **Markus 14,32-36**
 
@@ -43,7 +43,7 @@ date:   13/09/2024
 -   Was sagt dir diese Begebenheit über den Wert der Fürbitte?
 -   Für wen war die Fürbitte gedacht -- Jesus oder die Jünger selbst?
 
-### **Mittwoch: Alles zurücklassen, um von Jesus wegzulaufen & Donnerstag: Wer bist du?** {#mittwoch_alles_zurücklassen_um_von_jesus_wegzulaufen_donnerstag_wer_bist_du}
+### Mittwoch: Alles zurücklassen, um von Jesus wegzulaufen & Donnerstag: Wer bist du?
 
 **Markus 14,49-50.53.66-72**
 
@@ -60,9 +60,6 @@ date:   13/09/2024
 -   Weshalb, meinst du, war Petrus stärker als Judas und hat im Glauben
     überwunden, Vergebung erbeten und erhalten?
 
-```{=html}
-<!-- -->
-```
 -   Hast du schon einmal ähnliche Situationen erlebt, in denen du für
     deinen Glauben einstehen musstest? Wie war deine Erfahrung? Wie hast
     du dich vorbereitet?
@@ -75,5 +72,4 @@ date:   13/09/2024
     Bedeutung des Abendmahls in unserer Kirche noch besser zur Geltung
     bringen?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

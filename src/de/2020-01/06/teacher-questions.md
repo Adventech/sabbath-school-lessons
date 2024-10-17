@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   07/02/2020
 ---
 
-[Von Arroganz zum Untergang](https://sabbath-school.adventech.io/de/2020-01/06/von-arroganz-zum-untergang/)
+Von Arroganz zum Untergang
 ===========================================================================================================
 
 I: Gemeinschaft
@@ -38,7 +38,7 @@ die Ehre. Sein Reich allein bleibt ewig bestehen. (Dan 4,31) Belsazar
 dagegen weigerte sich, diese Lektion zu lernen. Seine Rebellion gegen
 Gott führte zum Fall Babylons.
 
-### [BELSAZARS FEST](https://sabbath-school.adventech.io/de/2020-01/06/belsazars-fest/)
+### BELSAZARS FEST
 
 **Daniel 5,1-4**
 
@@ -61,7 +61,7 @@ Gott führte zum Fall Babylons.
         welchen Alkohol oder Drogen mit im Spiel waren, für eine mildere
         Strafe plädieren?
 
-### [EIN UNGEBETENER GAST](https://sabbath-school.adventech.io/de/2020-01/06/ein-ungebetener-gast/)
+### EIN UNGEBETENER GAST
 
 **Daniel 5,5-8**
 
@@ -82,7 +82,7 @@ Gott führte zum Fall Babylons.
     -   Warum sollten wir auch die verlockendsten Angebote aus der Sicht
         des Reiches Gottes beurteilen?\
 
-### [AUFTRITT DER KÖNIGIN](https://sabbath-school.adventech.io/de/2020-01/06/auftritt-der-k%C3%B6nigin/)
+### AUFTRITT DER KÖNIGIN
 
 **Daniel 5,9-12**
 
@@ -91,7 +91,7 @@ Gott führte zum Fall Babylons.
 -   Fragen zur Botschaft:
     -   Welche wichtige Lektionen können wir von der Königin lernen?
 
-### [GEWOGEN UND FÜR ZU LEICHT BEFUNDEN](https://sabbath-school.adventech.io/de/2020-01/06/gewogen-und-f%C3%BCr-zu-leicht-befunden/)
+### GEWOGEN UND FÜR ZU LEICHT BEFUNDEN
 
 **Daniel 5,13-28**
 
@@ -108,7 +108,7 @@ Gott führte zum Fall Babylons.
         Babylons und all jener, die zu Babylon gehören. Was sagen diese
         Begriffe über Gott, den Richter aus?
 
-### [DER FALL BABYLONS](https://sabbath-school.adventech.io/de/2020-01/06/der-fall-babylons/)
+### DER FALL BABYLONS
 
 **Daniel 5,29-6,1**
 
@@ -126,16 +126,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

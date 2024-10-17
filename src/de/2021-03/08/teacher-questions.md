@@ -3,20 +3,20 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   20/08/2021
 ---
 
-[zu ruhen](https://sabbath-school.adventech.io/de/2021-03/08/01Frei)
+zu ruhen
 ====================================================================
 
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Wenn du nur eines von beidem haben könntest, was würdest du wählen:
     Körperliche Gesundheit oder Seelenfrieden (ein ruhiges Gewissen)?
     Begründe!
 -   Wie wichtig ist innerer Friede für ein gelungenes Leben?
 
-### **Sonntag: Heilende Ruhe**
+### Sonntag: Heilende Ruhe
 
 **Markus 2,1-5**
 
@@ -29,7 +29,7 @@ II: Wir studieren die Bibel
 -   Jesus fragt nicht nach der Ursache der Krankheit. Weshalb wohl? Wie
     (un-) wichtig ist es, die Ursache bzw. Schuldfrage zu klären?
 
-### **Montag: Wurzelbehandlung**
+### Montag: Wurzelbehandlung
 
 **Markus 2,6-12**
 
@@ -41,7 +41,7 @@ II: Wir studieren die Bibel
     Wie kann ich Glauben halten, wenn ich leide? Wie kann Glaube trotz
     Leid sogar wachsen?
 
-### **Dienstag: Weglaufen**
+### Dienstag: Weglaufen
 
 **1. Könige 19,1-4**
 
@@ -63,7 +63,7 @@ II: Wir studieren die Bibel
 -   Wie kann man sich vor dem Abgleiten in eine depressive Grundstimmung
     schützen?
 
-### **Mittwoch: Zu müde zum Weglaufen & Donnerstag: Ruhe und mehr**
+### Mittwoch: Zu müde zum Weglaufen & Donnerstag: Ruhe und mehr
 
 **1. Könige 19,5-8**
 
@@ -91,9 +91,5 @@ II: Wir studieren die Bibel
     Gibt es heute noch viele Gläubige – die wir vllt. nur nicht sehen?
     Erkläre!
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

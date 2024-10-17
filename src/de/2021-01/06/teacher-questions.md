@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   12/02/2021
 ---
 
-[Gott spielen](https://sabbath-school.adventech.io/de/2021-01/06/01)
+Gott spielen
 ====================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,12 +25,7 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
     Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
@@ -40,7 +35,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### [Unheil über die Völker](https://sabbath-school.adventech.io/de/2021-01/06/unheil-%C3%BCber-die-v%C3%B6lker-jes-13/)
+### Unheil über die Völker
 
 **Jesaja 13**
 
@@ -67,7 +62,7 @@ II: Wir studieren die Bibel
     -   Was wollt ihr von den Fehlern lernen, die in Jesaja 13
         aufgezeigt werden?
 
-### [Die ehemals große Stadt Babylon](https://sabbath-school.adventech.io/de/2021-01/06/die-ehemals-gro%C3%9Fe-stadt-babylon-jes-13222/)
+### Die ehemals große Stadt Babylon
 
 **Daniel 5**
 
@@ -94,7 +89,7 @@ II: Wir studieren die Bibel
     -   Welchen Einfluss haben deine Entscheidungen auf die Menschen in
         deinem Einflussbereich?
 
-### [Der Fall des Berg-“Königs”](https://sabbath-school.adventech.io/de/2021-01/06/der-fall-des-berg-k%C3%B6nigs-jes-14/) & [Das Tor des Himmels](https://sabbath-school.adventech.io/de/2021-01/06/das-tor-des-himmels-jes-1314/)
+### Der Fall des Berg-“Königs” & Das Tor des Himmels
 
 **Jesaja 14**
 
@@ -120,7 +115,7 @@ II: Wir studieren die Bibel
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
-### [Der letztendliche Triumph Zions](https://sabbath-school.adventech.io/de/2021-01/06/der-letztendliche-triumph-zions-jes-2427/)
+### Der letztendliche Triumph Zions
 
 **Jesaja 24 und Jesaja 27**
 
@@ -140,9 +135,5 @@ II: Wir studieren die Bibel
     -   Was sagt dieser Text darüber, wie wir erlöst werden?
     -   Warum “lohnt” es sich, Gott immer treu zu sein?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

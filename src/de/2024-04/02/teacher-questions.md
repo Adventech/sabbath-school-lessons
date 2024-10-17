@@ -83,5 +83,4 @@ Johannes 6,30-36**
     persönlich? Wie könntest du dieses Versprechen in herausfordernden
     Zeiten in deinem Leben anwenden
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

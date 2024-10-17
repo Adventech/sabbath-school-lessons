@@ -13,7 +13,7 @@ date:   16/02/2024
 
 -   -   „Güte" -- Wie kann man noch (anders) dazu sagen?
 
-## SONNTAG -- Seine Güte währet ewiglich {#sonntag_seine_güte_währet_ewiglich}
+## SONNTAG -- Seine Güte währet ewiglich
 
 **Psalm 136**
 
@@ -25,7 +25,7 @@ date:   16/02/2024
     -   Wie zeigt sich Dank?
     -   Wie kann ich Gott mein Vertrauen zeigen?
 
-## MONTAG -- Schaffe in mir ein reines Herz {#montag_schaffe_in_mir_ein_reines_herz}
+## MONTAG -- Schaffe in mir ein reines Herz
 
 **Psalm 51,3-7**
 
@@ -39,7 +39,7 @@ date:   16/02/2024
     -   Wirkung von Vergebung auf Andere? (V15+17)
     -   Welcher Zusammenhang besteht zwischen Reue und Beziehung?
 
-## DIENSTAG -- Wenn du, Herr, Sünden anrechnen willst {#dienstag_wenn_du_herr_sünden_anrechnen_willst}
+## DIENSTAG -- Wenn du, Herr, Sünden anrechnen willst
 
 **Psalm 130**
 
@@ -56,7 +56,7 @@ date:   16/02/2024
     -   Hinweis: V8 zeigt ein Sorgen nicht auch für andere - Was sagt
         das?
 
-## MITTWOCH -- Lobt den erhabenen du gnädigen Gott {#mittwoch_lobt_den_erhabenen_du_gnädigen_gott}
+## MITTWOCH -- Lobt den erhabenen du gnädigen Gott
 
 **Psalm 113 und Psalm 123**
 
@@ -71,7 +71,7 @@ date:   16/02/2024
         dabei „Beziehung mit Gott"?
     -   \...
 
-## DONNERSTAG -- Vergiss nicht, was er dir Gutes getan hat {#donnerstag_vergiss_nicht_was_er_dir_gutes_getan_hat}
+## DONNERSTAG -- Vergiss nicht, was er dir Gutes getan hat
 
 **Psalm 103**
 
@@ -89,14 +89,4 @@ date:   16/02/2024
     -   Anregung: Überlege anhand Ps 103 ob bei einzelnen Versen -
         Erlebnisse aus Deines Lebens passen
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/07/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
