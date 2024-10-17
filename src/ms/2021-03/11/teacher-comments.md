@@ -47,18 +47,18 @@ Terdapat kekayaan dalam konsep istirahat ilahi. Kitab Ibrani memperluaskan konse
 
 Minta seseorang membaca puisi berikut dengan kuat di kelas. Fikirkan apa yang kita telah pelajari dalam pelajaran minggu ini, dan jawab pertanyaan dalam sajak berikut.
 
-Biarkan saya berehat di dalam-Mu, ya Tuhan,<br/>
-Tanpa kerja keras, tanpa kekhuatiran, dan tanpa tekanan<br/>
-Terhadap bebanan sehari-hari<br/>
-Yang membawakan kepada-Ku air mata dan kesakitan.<br/>
-Biar aku mengingat bahawa Tangan-Mu<br/>
-Boleh meringankan setiap beban.<br/>
-Dan di hadirat-Mu, aku akan<br/>
-Selamat di jalan kehidupan yang paling gelap sekali pun.<br/>
-Kerana Engkau telah mengatakan bahawa Engkau sentiasa dekat<br/>
-Kepada semua yang memerlukan pertolongan-Mu.<br/>
-Namun, manusia bodoh seperti aku,<br/>
-Mengapa saya harus takut?<br/>
+Biarkan saya berehat di dalam-Mu, ya Tuhan,\
+Tanpa kerja keras, tanpa kekhuatiran, dan tanpa tekanan\
+Terhadap bebanan sehari-hari\
+Yang membawakan kepada-Ku air mata dan kesakitan.\
+Biar aku mengingat bahawa Tangan-Mu\
+Boleh meringankan setiap beban.\
+Dan di hadirat-Mu, aku akan\
+Selamat di jalan kehidupan yang paling gelap sekali pun.\
+Kerana Engkau telah mengatakan bahawa Engkau sentiasa dekat\
+Kepada semua yang memerlukan pertolongan-Mu.\
+Namun, manusia bodoh seperti aku,\
+Mengapa saya harus takut?\
 
 Bincangkan soalan di bawah ini dalam konteks pelajaran hari ini:
 

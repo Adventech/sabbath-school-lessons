@@ -24,7 +24,7 @@ date:   25/01/2019
 부끄럽지만 현금 30만원과 복음전도를 위한 책 <나는 누구인가>, <지구 종말은 오는가>
 16권을 지원해 드립니다(연락처 : 010-9270-3004).
 
-<p style="text-align:right">성경선교회장 <strong>문장섭</strong></p>
+성경선교회장 **문장섭**
 
 <p></p>
 <img src="https://user-images.githubusercontent.com/10376491/51429462-dc533200-1bd3-11e9-842a-aa0a38d04bd8.jpg" style="max-width:100%" />
@@ -35,8 +35,8 @@ date:   25/01/2019
 <p></p>
 <blockquote>
 
-<strong>개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.</strong>
+**개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.**
 참여한 모든 분께 기념품을 드리며 우수 제안 또는 활동 소식을 선정하여 선물을 드립니다.
-<strong>보내실 곳 :</strong> 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 <strong><a href="mailto:kucspm1@kuc.or.kr">kucspm1@kuc.or.kr</a></strong>
+**보내실 곳 :** 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 **[kucspm1@kuc.or.kr](mailto:kucspm1@kuc.or.kr)**
 
 </blockquote>
