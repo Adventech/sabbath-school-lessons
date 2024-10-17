@@ -3,7 +3,7 @@ title:  Iskustvo
 date:   27/11/2020
 ---
 
-#### <center>Kriza na stažiranju u Francuskoj</center>
+#### Kriza na stažiranju u Francuskoj
 
 Elisabeth Birba otpuštena je bez objašnjenja samo tjedan dana prije anketiranja tijekom osmotjednog stažiranja u bolnici u Francuskoj. Bila je nesretna. Trebala je staž za polaganje ispita druge godine. Ako ne uspije, izgubit će stipendiju, a s tim i hranu i stanovanje. Njezina obitelj živjela je daleko na Karibima.
 

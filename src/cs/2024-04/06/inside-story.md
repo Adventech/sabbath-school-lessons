@@ -3,5 +3,5 @@ title:  Inside story
 date:   08/11/2024
 ---
 
-### <center>Na této lekci pracujeme.</center>
+### Na této lekci pracujeme.
 <center>Prosim zkuste to znovu pozdeji.</center>
