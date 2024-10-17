@@ -27,10 +27,10 @@ date:   25/01/2019
 성경선교회장 **문장섭**
 
 <p></p>
-<img src="https://user-images.githubusercontent.com/10376491/51429462-dc533200-1bd3-11e9-842a-aa0a38d04bd8.jpg" style="max-width:100%" />
+![](https://user-images.githubusercontent.com/10376491/51429462-dc533200-1bd3-11e9-842a-aa0a38d04bd8.jpg" style="max-width:100%)
 
 <p></p>
-<img src="https://user-images.githubusercontent.com/10376491/51429461-dc533200-1bd3-11e9-852f-b90289c61867.jpg" style="max-width:100%" />
+![](https://user-images.githubusercontent.com/10376491/51429461-dc533200-1bd3-11e9-852f-b90289c61867.jpg" style="max-width:100%)
 
 <p></p>
 <blockquote>
