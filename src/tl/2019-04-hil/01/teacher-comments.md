@@ -62,7 +62,7 @@ Ang yara sa idalum nga inyo makita listahan sang mga Hari sang Persia kag ang mg
 |Cambyses II|530-522 B.C.|||
 |Dario I|522-486 B.C.||March 515 B.B.—Nakompleto ang Templo kag Nadedikar|
 |Xerxes I (Ahasuero)|486-465 B.C.|Napamana ni Ester si Xerxes I kag nangin Reyna sia|Pagpamatuk sa pagtukod liwat sang Jerusalem|
-|Artaxerxes I|465-425 B.C.|457 B.C.-Si Esdras nagbalik upod ang ikaduha nga grupo.<br><br> 445/444 B.C.—si Nehemias nagbalik upod ang ikatatlo nga grupo | Ang pinakalawig nga tion sang tagna nagsugod (Dan. 8:14, Dan. 9:24-27<br><br> Pagpamatuk sa pagtukod liwat sang Jerusalem (Esdras 4:7—23)<br><br> Natukod liwat ang pader sang Jerusalem|
+|Artaxerxes I|465-425 B.C.|457 B.C.-Si Esdras nagbalik upod ang ikaduha nga grupo. 445/444 B.C.—si Nehemias nagbalik upod ang ikatatlo nga grupo | Ang pinakalawig nga tion sang tagna nagsugod (Dan. 8:14, Dan. 9:24-27 Pagpamatuk sa pagtukod liwat sang Jerusalem (Esdras 4:7—23) Natukod liwat ang pader sang Jerusalem|
 
 **Una nga Pagbalik (537/536 B.C.)**
 
