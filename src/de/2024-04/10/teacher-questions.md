@@ -64,4 +64,5 @@ date:   06/12/2024
     -   \...
     -   ..
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+<https://wiki.sabbatschule.at>

@@ -3,14 +3,14 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   22/11/2024
 ---
 
-#### Startfrage(n)
+#### **Startfrage(n)**
 
 -   Wie gut kann man einen Menschen nach seinen Werken beurteilen, ohne
     ihn näher zu kennen?
 -   Wie wichtig sind die Taten eines Menschen, im Vergleich zu allem
     anderen (Worte, Gedanken, Einstellungen etc.)? Weshalb?
 
-#### Sonntag: Zeichen, Werke und Wunder
+#### **Sonntag: Zeichen, Werke und Wunder** {#sonntag_zeichen_werke_und_wunder}
 
 **Johannes 5,17.20.36-38**
 
@@ -30,7 +30,7 @@ date:   22/11/2024
     wir es bei diesen religiösen Führern sehen? Auf welche Weise kämpfen
     wir vielleicht gegen das Werk Gottes in unserem Leben?
 
-#### Montag: Die maßgebliche Rolle der Heiligen Schrift
+#### **Montag: Die maßgebliche Rolle der Heiligen Schrift** {#montag_die_maßgebliche_rolle_der_heiligen_schrift}
 
 **Johannes 5,39-40.45-47**
 
@@ -46,7 +46,7 @@ date:   22/11/2024
     Inwieweit ist auch unsere Gemeinde davon betroffen? Wie kann dem
     begegnet werden?
 
-#### Dienstag & Mittwoch: Alttestamentliche Vorhersagen über Jesus
+#### **Dienstag & Mittwoch: Alttestamentliche Vorhersagen über Jesus** {#dienstag_mittwoch_alttestamentliche_vorhersagen_über_jesus}
 
 -   Was bezeugen die folgenden Texte von Jesus?
 
@@ -61,7 +61,7 @@ date:   22/11/2024
 -   Was bedeuten dir die vielen Hinweise auf alttestamentliche
     Vorhersagen in den Evangelien? Wie stark wäre dein Glaube ohne sie?
 
-#### Donnerstag: Von unten
+#### **Donnerstag: Von unten** {#donnerstag_von_unten}
 
 **Johannes 8,21-30**
 
@@ -79,4 +79,5 @@ date:   22/11/2024
 -   Welche Lehren ziehst du aus dem Gespräch zwischen Jesus und den
     religiösen Führern?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+<https://wiki.sabbatschule.at>
