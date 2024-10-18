@@ -11,11 +11,11 @@ date:   20/12/2024
 
 ## STARTFRAGEN
 
--   -   ...
+-   ...
 
-## SONNTAG -- Was ist Wahrheit? {#sonntag_was_ist_wahrheit}
+## SONNTAG -- Was ist Wahrheit?
 
-\'\'\'Joh 18,33-38""
+**Joh 18,33-38**
 
 -   Fragen zum Text:
     -   \...
@@ -26,7 +26,7 @@ date:   20/12/2024
     -   \...
     -   \...
 
-## MONTAG -- Siehe, der Mensch! {#montag_siehe_der_mensch}
+## MONTAG -- Siehe, der Mensch!
 
 \'\'\'Joh 18,38-19,5""
 
@@ -39,7 +39,7 @@ date:   20/12/2024
     -   \...
     -   \...
 
-## DIENSTAG -- Es ist vollbracht {#dienstag_es_ist_vollbracht}
+## DIENSTAG -- Es ist vollbracht
 
 **Joh 19,25-30**
 
@@ -52,7 +52,7 @@ date:   20/12/2024
     -   \...
     -   \...
 
-## MITTWOCH -- Das leere Grab {#mittwoch_das_leere_grab}
+## MITTWOCH -- Das leere Grab
 
 \'\'\'Joh 20,1-10'''
 
@@ -65,7 +65,7 @@ date:   20/12/2024
     -   \...
     -   \...
 
-## DONNERSTAG -- Jesus und Maria {#donnerstag_jesus_und_maria}
+## DONNERSTAG -- Jesus und Maria
 
 **Joh 20,11-18**
 
@@ -78,5 +78,4 @@ date:   20/12/2024
     -   \...
     -   \...
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

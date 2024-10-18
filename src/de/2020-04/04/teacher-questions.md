@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   23/10/2020
 ---
 
-[Die Augen des Herrn: das biblische Weltbild](https://sabbath-school.adventech.io/de/2020-04/04/die-augen-des-herrn---das-biblische-weltbild/)
+Die Augen des Herrn: das biblische Weltbild
 ==============================================================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -54,7 +43,7 @@ II: Wir studieren die Bibel
 -   Welches Weltbild hat dich geprägt? Wie hat Dein Weltbild Dein Leben
     geprägt? Hat sich Dein Weltbild im Verlauf deines Lebens verändert?
 
-### [Die Augen des Herrn](https://sabbath-school.adventech.io/de/2020-04/04/die-augen-des-herrn/)
+### Die Augen des Herrn
 
 **Sprüche 15,3**
 
@@ -69,7 +58,7 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   ...
 
-### [Die Frage des Leibniz](https://sabbath-school.adventech.io/de/2020-04/04/die-frage-von-leibniz/)
+### Die Frage des Leibniz
 
 **1. Mose 1,1; Johannes 1,1-4; 2. Mose 20,8-11; Offenbarung 14,6-7; Hiob
 12,7-10**
@@ -87,9 +76,5 @@ II: Wir studieren die Bibel
         diesen Gesprächen gelernt?
     -   Hat Gott durch Evolution geschaffen (theistische Ev
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -6,17 +6,15 @@ date:   03/11/2018
 **Wie die erste Gemeinde Einheit erlebte**
 ==========================================
 
-### **Startfragen**
+### Startfragen
 
 -   Was fasziniert dich am meisten im Blick auf die frühchristliche
     Gemeinde?
 
-<!-- -->
-
 -   Was hältst du für die wichtigsten Voraussetzungen, um Einheit in der
     Familie oder der Gemeinde zu erreichen und zu bewahren?
 
-### **Sonntag: Vorbereitungstage**
+### Sonntag: Vorbereitungstage
 
 **Apostelgeschichte 1,12-14**
 
@@ -37,7 +35,7 @@ date:   03/11/2018
     erwartest du dir von dieser Ausgießung? Welche Folgen wird dies für
     dich persönlich und die Gemeinde im Ganzen mit sich bringen?
 
-### **Montag: Von Babel nach Pfingsten**
+### Montag: Von Babel nach Pfingsten
 
 **Apostelgeschichte 2,1-4**
 
@@ -56,7 +54,7 @@ date:   03/11/2018
     du? Warum vollbringt Gott gerade jetzt ein Wunder, das sein Wunder
     bei Babel teilweise revidiert?
 
-### **Dienstag: Einheit in Gemeinschaft**
+### Dienstag: Einheit in Gemeinschaft
 
 **Apostelgeschichte 2,37-47**
 
@@ -78,7 +76,7 @@ date:   03/11/2018
     sehen, um eine wirkliche Einheit sein zu können? Genügt einmal pro
     Woche am Sabbat?
 
-### **Mittwoch: Großzügigkeit und Gier**
+### Mittwoch: Großzügigkeit und Gier
 
 **Apostelgeschichte 4,32-5,11 (nur überblicksweise)**
 
@@ -92,7 +90,7 @@ date:   03/11/2018
 -   Wie können wir sicherstellen, dass äußerer Schein und das wirkliche
     Sein zusammenpassen?
 
-### **Donnerstag: Denkt an die Armen**
+### Donnerstag: Denkt an die Armen
 
 **Apostelgeschichte 11,27-30; 1. Korinther 16,1-4; 2. Korinther 9,8-15**
 
@@ -107,4 +105,4 @@ date:   03/11/2018
 -   Welcher Segen wird denen versprochen, die freigiebig sind? Wo hast
     du das schon erlebt?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

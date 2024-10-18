@@ -6,7 +6,7 @@ date:   23/02/2019
 Satan, ein besiegter Feind
 ==========================
 
-**<u>LEHRZIEL</u>**
+**LEHRZIEL**
 
 1. Wir sollen in der Gewissheit bestärkt werden, dass Jesus Christus der
 Sieger ist, auch wenn wir noch mitten in diesem Kampf stehen und der
@@ -15,7 +15,7 @@ Zustand unserer Welt oft das Gegnteil vermuten lässt.
 2. Es soll uns erneut bewußt werden, auf welche Weise wir persönlich auf
 der siegreichen Seite stehen können.
 
-**<u>STARTFRAGEN</u>**
+**STARTFRAGEN**
 
 -   Im Lied *"Zünde an ein Feuer"* finden wir die Textstelle *"Wollest
     uns bewahren, wenn der Satan droht...".* Wie habt ihr persönlich in
@@ -32,11 +32,11 @@ Bösen sind geblieben."* (aus Goethes *"Faust"*)
 -   Welchen Ansichten über Satan und das Böse begegnet ihr in eurem
     Umfeld?
 
-**<u>SONNTAG</u>**
+**SONNTAG**
 
 **Text: Offenbarung 12,1-5**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Wer ist die Frau?
     -   Woran können wir erkennen, dass mit ihr mehr gemeint ist als
@@ -44,8 +44,6 @@ Bösen sind geblieben."* (aus Goethes *"Faust"*)
     -   Wofür steht die Sonne, mit der sie bekleidet ist?
     -   Was bedeutet der Mond, auf dem sie steht?
     -   Und was könnten die zwölf Sterne in ihrer Krone symbolisieren?
-
-<!-- -->
 
 -   Wer ist der Drache?
     -   Woran erinnerte euch die Symbolik der 7 Häuper, der 7 Kronen und
@@ -55,7 +53,7 @@ Bösen sind geblieben."* (aus Goethes *"Faust"*)
     -   Wie hat sich sein Versuch, den Sohn der Frau sofort nach der
         Geburt zu fressen, in Wirklichkeit abgespielt?
 
-<u>Fragen zur praktischen Anwendung:</u>
+_Fragen zur praktischen Anwendung:_
 
 -   Wie - um im Bild zu bleiben - kleidet ihr euch im Alltag mit der
     Sonne?
@@ -69,18 +67,18 @@ vorher natürlich die Symbole entschlüsselt haben.*
     die Gemeinde dabei?
     -   Wie hilft euch der Gottesdienst?
 
-**<u>MONTAG</u>**
+**MONTAG**
 
 **Text: Offenbarung 12,7-9**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Wie identifizieren wir Michael ? siehe u.a. **Daniel 12,1.2**
 -   Wo fand der im Text beschriebene Kampf statt, und was wissen wir
     über den Zeitpunkt, an dem er tobte?
 -   Wann wurden Satan und seine Engel auf die Erde geworfen?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   Warum wurde Satan und seinen Engeln gerade unsere Erde als Exil
     zugewiesen (**ZITAT** Lektion Seite 94)?
@@ -88,7 +86,7 @@ vorher natürlich die Symbole entschlüsselt haben.*
     Thema quasi zum "Geheimnis des Bösen", über das wir noch im
     Ungewissen sind?
 
-<u>Fragen zur Anwendung:</u>
+_Fragen zur Anwendung:_
 
 **ZITAT:** *"Lade den Satan nie zur Mitfahrt ein. Er wird nämlich immer
 schnell das Steuer übernehmen wollen."* (Willi Meurer)
@@ -105,11 +103,11 @@ schnell das Steuer übernehmen wollen."* (Willi Meurer)
         wie sieht dann das "Immer-wieder-Aussteigen" im Alltag eines
         Christen aus?
 
-**<u>DIENSTAG</u>**
+**DIENSTAG**
 
 **Text: Offenbarung 12,10-12**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Dieser "zweite Sturz des Satan" fand wann statt?
 -   Welche Bibeltexte zeigen uns, dass Satan ein "Verkläger der Brüder"
@@ -121,13 +119,13 @@ schnell das Steuer übernehmen wollen."* (Willi Meurer)
 
 **Text: Offenbarung 12, 13.14**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Wie kann man die 3 1/2 Zeiten biblisch fundiert erklären?
 -   Was geschah in dieser Zeit?
 -   In welcher Hinsicht hat Gott seine Kinder in dieser Zeit bewahrt?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   Satan ist offensichtlich ein besiegter Feind. Wie erklärt ihr euch
     die Tatsache, dass er aber trotzdem nun schon rund 2000 Jahre (für
@@ -143,11 +141,11 @@ schnell das Steuer übernehmen wollen."* (Willi Meurer)
 -   Wo ist das Thema Geduld momentan für euch persönlich eine besondere
     Herausforderung?
 
-**<u>MITTWOCH</u>**
+**MITTWOCH**
 
 **Text: Offenbarung 12,17**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Wann passiert das, was in diesem Text beschrieben wird?
 -   Welche Kennzeichen haben die Übrigen?
@@ -159,7 +157,7 @@ schnell das Steuer übernehmen wollen."* (Willi Meurer)
         -   Was bedeutet es, dass in diesen zwei Texten zwischen dem
             Wort Gottes und dem Zeugnis Jesus unterschieden wird?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   Wie können wir das "Halten der Gebote" auf uns als Kennzeichen
     beziehen, wo wir doch alle immer wieder die Gebote übertreten?
@@ -169,16 +167,16 @@ schnell das Steuer übernehmen wollen."* (Willi Meurer)
     der Übrigen ist, dann könnte es ja sein, dass in Zukunft noch
     Propheten kommen. Rechnet ihr eher damit oder eher nicht?
 
-**<u>DONNERSTAG</u>**
+**DONNERSTAG**
 
 **Texte: 2.Thessalonicher 2,8-12 Offenbarung 13,13.14 Offenbarung
 19,20**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Welche Strategie des Drachen wird in allen drei Texten geschildert?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   Mit welchen Zeichen und Wundern hat Satan seit Ende der 1260 Jahre,
     also seit Beginn der Endzeit, verführt?
@@ -186,9 +184,9 @@ schnell das Steuer übernehmen wollen."* (Willi Meurer)
 -   Was erwartet ihr (mit aller gebotetnen Vorsicht formuliert)
     diesbezüglich für die Zukunft?
 
-<u>Fragen zur Anwendung:</u>
+_Fragen zur Anwendung:_
 
 -   Wi önnen wir uns dagegen wappnen?
 -   Was sagt uns dazu der M
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

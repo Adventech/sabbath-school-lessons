@@ -53,7 +53,7 @@ eine routinemäßige Beziehung?
     mit Gott?
 -   Welche Erfahrung würdest Du mit Psalm 139 verbinden?
 
-### SONNTAG -- Zusicherung der Fürsorge Gottes {#sonntag_zusicherung_der_fürsorge_gottes}
+### SONNTAG -- Zusicherung der Fürsorge Gottes
 
 **Psalm 139,1-18**
 
@@ -66,7 +66,7 @@ eine routinemäßige Beziehung?
     -   Empfindest Du die Sehnsucht Gottes nach Gemeinschaft mit Dir als
         eine Freude oder eine Bedrohung?
 
-### MONTAG -- Abraham liebte jeden {#montag_abraham_liebte_jeden}
+### MONTAG -- Abraham liebte jeden
 
 **Psalm 121,1-8**
 
@@ -78,7 +78,7 @@ eine routinemäßige Beziehung?
 -   Fragen zur Botschaft:
     -   Wie bewusst lebst Du mit Gott?
 
-### DIENSTAG -- Der Herr ist eine Zuflucht in Zeiten der Not {#dienstag_der_herr_ist_eine_zuflucht_in_zeiten_der_not}
+### DIENSTAG -- Der Herr ist eine Zuflucht in Zeiten der Not
 
 **Psalm 91,1-7**
 
@@ -91,7 +91,7 @@ eine routinemäßige Beziehung?
     -   Warum neigen Menschen dazu, Erfahrungen mit Gott schnell zu
         vergessen?
 
-### MITTWOCH -- Verteidiger und Befreier {#mittwoch_verteidiger_und_befreier}
+### MITTWOCH -- Verteidiger und Befreier
 
 **Psalm 114,1-8**
 
@@ -104,7 +104,7 @@ eine routinemäßige Beziehung?
     -   Wie tief ist die Notwendigkeit der Erlösung in unser alltäglich
         Denken verwurzelt?
 
-### DONNERSTAG -- Hilfe aus dem Heiligtum {#donnerstag_hilfe_aus_dem_heiligtum}
+### DONNERSTAG -- Hilfe aus dem Heiligtum
 
 **Psalm 20,2-10**
 
@@ -123,11 +123,4 @@ Gelegenheit gibt, seine Macht zu ihren Gunsten zu offenbaren. Er will
 seinen gläubigen Kindern in allen schwierigen Lagen helfen, wenn sie nur
 ihr volles Vertrauen auf ihn setzen und ihm treu gehorchen. (WAB 472)
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/04/10-gespr%C3%A4chsfragen-sabbatschulwiki/)\</center
-
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

@@ -45,10 +45,10 @@ date:   06/07/2018
 
 _동중한합회 본부교회 장로 손성조_
 
-<img src="https://user-images.githubusercontent.com/10376491/42304064-f636febc-7fe9-11e8-953e-91b4df61adc8.jpg" style="max-width:100%" />
+![](https://user-images.githubusercontent.com/10376491/42304064-f636febc-7fe9-11e8-953e-91b4df61adc8.jpg" style="max-width:100%)
 
 <blockquote>
-<strong>개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.</strong>
+**개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.**
 참여한 모든 분께 기념품을 드리며 우수 제안 또는 활동 소식을 선정하여 선물을 드립니다.
-<strong>보내실 곳</strong> : 안교·선교부 홈페이지 <strong>TMI Time 게시판</strong> 또는 이메일 <strong>kucspm1@kuc.or.kr</strong>
+**보내실 곳** : 안교·선교부 홈페이지 **TMI Time 게시판** 또는 이메일 **kucspm1@kuc.or.kr**
 </blockquote>

@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   09/07/2021
 ---
 
-[Ruhelos und rebellisch](https://sabbath-school.adventech.io/de/2021-03/02/01)
+Ruhelos und rebellisch
 ==============================================================================
 
 II: Wir studieren die Bibel
@@ -15,12 +15,12 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Hilft Strafe nachhaltig zur Besserung/Erziehung?
 -   Was muss gegeben sein, um Menschen dauerhaft positiv zu verändern?
 
-#### **Ruhelos in der Wüste**
+#### Ruhelos in der Wüste
 
 **4. Mose 11,1-4**
 
@@ -39,7 +39,7 @@ II: Wir studieren die Bibel
     ist. Wie kommt es, dass uns die Vergangenheit oft besser erscheint
     als die Gegenwart? Wie ist ein realistischer Blick erreichbar?
 
-#### **Ansteckungsgefahr**
+#### Ansteckungsgefahr
 
 **4. Mose 12,1-3**
 
@@ -54,7 +54,7 @@ II: Wir studieren die Bibel
 -   Was wollte Gott mit dieser Reaktion zeigen? Weshalb handelte er so
     streng?
 
-#### **Unruhe mündet in Rebellion**
+#### Unruhe mündet in Rebellion
 
 **4. Mose 13,27-33**
 
@@ -67,7 +67,7 @@ II: Wir studieren die Bibel
     Einschätzung von Gefahren?
 -   Zu 4. Mose 14,1-10: (Wie) kann man solcher Hysterie vorbeugen?
 
-#### **Ein Fürsprecher**
+#### Ein Fürsprecher
 
 **4. Mose 14,11-12**
 
@@ -78,7 +78,7 @@ II: Wir studieren die Bibel
 -   Welchen Zusammenhang zwischen Gnade, Barmherzigkeit, Feindesliebe
     und innerem Frieden erkennst du hier?
 
-#### **Glaube oder Anmaßung**
+#### Glaube oder Anmaßung
 
 **4. Mose 14,39-45**
 
@@ -96,9 +96,5 @@ II: Wir studieren die Bibel
 -   Wie findet man in unserer hektischen Welt mit ihren vielen Zielen
     inneren Frieden?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

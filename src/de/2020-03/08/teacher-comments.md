@@ -3,5 +3,5 @@ title:  Lehrerteil
 date:   21/08/2020
 ---
 
-### <center>Wir arbeiten noch an dieser Lektion.</center>
+### Wir arbeiten noch an dieser Lektion.
 <center>Bitte komme später zurück.</center>

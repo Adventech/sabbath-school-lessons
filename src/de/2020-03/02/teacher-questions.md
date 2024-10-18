@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   10/07/2020
 ---
 
-**[Gewinnende Zeugen: Die Macht des persönlichen Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/02/01)**
+**Gewinnende Zeugen: Die Macht des persönlichen Zeugnisses**
 ====================================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,12 +25,7 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -38,13 +33,13 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Wenn du von Mission hörst, woran denkst du als erstes?
 -   Welche schönen Erlebnisse verbindest du mit diesem Thema? Welche
     (möglicherweise) unangenehmen Aspekte fallen dir ein?
 
-### **[Unwahrscheinliche Zeugen](https://sabbath-school.adventech.io/de/2020-03/02/unwahrscheinliche-zeugen/)**
+### Unwahrscheinliche Zeugen
 
 **Markus 5,15-20**
 
@@ -62,7 +57,7 @@ II: Wir studieren die Bibel
 -   Wenn du es dir aussuchen kannst: Missionierst du lieber in deinem
     Bekanntenkreis oder unter Fremden? Weshalb?
 
-### **[Den auferstandenen Christus verkündigen](https://sabbath-school.adventech.io/de/2020-03/02/den-auferstandenen-christus-verk%C3%BCndigen/)**
+### Den auferstandenen Christus verkündigen
 
 **Markus 16,1-8**
 
@@ -81,7 +76,7 @@ II: Wir studieren die Bibel
     dir zu schaffen bzw. sind für dich schwer verständlich und kaum zu
     glauben? Warum?
 
-### **[Veränderte Leben bewirken etwas](https://sabbath-school.adventech.io/de/2020-03/02/ver%C3%A4nderte-leben-bewirken-etwas/)**
+### Veränderte Leben bewirken etwas
 
 **Apostelgeschichte 4,13.20**
 
@@ -95,9 +90,5 @@ II: Wir studieren die Bibel
 -   Warum konnten es die Apostel nicht lassen, von Jesus zu reden?
 -   Welche Themen oder Aspekte des Glaube
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -75,5 +75,4 @@ date:   20/09/2024
 -   Wie geht ihr in eurem Leben mit Zeiten der Dunkelheit um? Welche
     Rolle spielt der Glaube, wenn es scheint, dass alles zu Ende ist
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

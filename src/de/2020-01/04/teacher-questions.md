@@ -14,7 +14,7 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-II: Wir studieren die Bibel: [Vom Feuerofen in den Palast](https://sabbath-school.adventech.io/de/2020-01/04/vom-feuerofen-in-den-palast/)
+II: Wir studieren die Bibel: Vom Feuerofen in den Palast
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Startfrage
@@ -22,7 +22,7 @@ II: Wir studieren die Bibel: [Vom Feuerofen in den Palast](https://sabbath-schoo
 -   Was ist für euch ein Kompromiss? Wann ist Kompromissbereitschaft
     wünschenswert und wann ist sie nicht angebracht?
 
-### [Das goldene Bild](https://sabbath-school.adventech.io/de/2020-01/04/das-goldene-bild/)
+### Das goldene Bild
 
 **Daniel 3,1-7**
 
@@ -41,7 +41,7 @@ II: Wir studieren die Bibel: [Vom Feuerofen in den Palast](https://sabbath-schoo
     -   Wo sind wir in der Gefahr manchmal “kleine Nebukadnezars” bzw.
         Stolz auf etwas zu sein?
 
-### [Der Ruf zur Anbetung](https://sabbath-school.adventech.io/de/2020-01/04/der-ruf-zur-anbetung/)
+### Der Ruf zur Anbetung
 
 **Daniel 3,8-18**
 
@@ -69,7 +69,7 @@ II: Wir studieren die Bibel: [Vom Feuerofen in den Palast](https://sabbath-schoo
     -   Wie kann die Einstellung der drei Freunde Daniels positiven
         Einfluss auf euch ausüben?
 
-### [Die Feuerprobe](https://sabbath-school.adventech.io/de/2020-01/04/die-feuerprobe/)
+### Die Feuerprobe
 
 **Daniel 3,17.18**
 
@@ -86,7 +86,7 @@ II: Wir studieren die Bibel: [Vom Feuerofen in den Palast](https://sabbath-schoo
     -   Was bewundert ihr an den drei jungen Männern in dieser
         Geschichte? Was wollt ihr “mitnehmen”?
 
-### [Der vierte Mann](https://sabbath-school.adventech.io/de/2020-01/04/der-vierte-mann/)
+### Der vierte Mann
 
 **Daniel 3,19-27**
 
@@ -105,7 +105,7 @@ II: Wir studieren die Bibel: [Vom Feuerofen in den Palast](https://sabbath-schoo
         Lebenssituationen bei euch ist, selbst wenn ihr ihn nicht sehen
         könnt?
 
-### [Vergleich mit Offenbarung 13](https://sabbath-school.adventech.io/de/2020-01/04/der-ruf-zur-anbetung/)
+### Vergleich mit Offenbarung 13
 
 **Offenbarung 13,11-18**
 
@@ -125,16 +125,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

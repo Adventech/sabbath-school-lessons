@@ -14,7 +14,7 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-[II: Von Jerusalem nach Babylon - Wir studieren die Bibel](https://sabbath-school.adventech.io/de/2020-01/02/von-jerusalem-nach-babylon/)
+II: Von Jerusalem nach Babylon - Wir studieren die Bibel
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 -   Fragen zur Botschaft des Wortes (Was war die Botschaft im
@@ -23,7 +23,7 @@ I: Gemeinschaft
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-##### [Gottes Herrschaft](https://sabbath-school.adventech.io/de/2020-01/02/gottes-herrschaft/)
+##### Gottes Herrschaft
 
 **2. Könige 21,10–16**
 
@@ -44,7 +44,7 @@ I: Gemeinschaft
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
-##### [Glaube unter Druck](https://sabbath-school.adventech.io/de/2020-01/02/glaube-unter-druck/)
+##### Glaube unter Druck
 
 **Daniel 1,1-7**
 
@@ -83,7 +83,7 @@ I: Gemeinschaft
         Identität/Auffassung zu verleugnen? Warum ist es schwer eine
         Gefangenschaft als Chance zu sehen?
 
-##### [Feste Entschlossenheit](https://sabbath-school.adventech.io/de/2020-01/02/feste-entschlossenheit/)
+##### Feste Entschlossenheit
 
 **Daniel 1,8-9**
 
@@ -150,7 +150,7 @@ I: Gemeinschaft
         geschrieben: „Die innere Wahlfreiheit bleibt immer.“ wie denkt
         ihr über diese Aussage?
 
-##### [Makellos und klug](https://sabbath-school.adventech.io/de/2020-01/02/makellos-und-klug/) + [Abschlusstest](https://sabbath-school.adventech.io/de/2020-01/02/abschlusstest/)
+##### Makellos und klug + Abschlusstest
 
 **Daniel 1,17-21**
 
@@ -182,16 +182,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

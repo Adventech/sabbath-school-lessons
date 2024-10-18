@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   29/10/2021
 ---
 
-[Der Fremde in deinen Toren](https://sabbath-school.adventech.io/de/2021-04/05/01)
+Der Fremde in deinen Toren
 ==================================================================================
 
 II: Wir studieren die Bibel
@@ -79,9 +79,5 @@ II: Wir studieren die Bibel
     -   Wann hat dich eine Person bei näherem Kennenlernen positiv
         überrascht?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

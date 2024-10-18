@@ -153,5 +153,4 @@ Korintherbriefes kurz zusammenfassen.
     nicht, weil das Thema von charismatischen Bewegungen besetzt
     wurde?...
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

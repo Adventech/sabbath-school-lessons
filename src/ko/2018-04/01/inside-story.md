@@ -45,14 +45,14 @@ date:   05/10/2018
 
 _서중한합회 인천세천사교회 담임목사 채승석_
 
-<img src="https://user-images.githubusercontent.com/10376491/46253884-ee09a180-c44b-11e8-8aeb-973543bb4a45.jpg" style="max-width:100%" />
+![](https://user-images.githubusercontent.com/10376491/46253884-ee09a180-c44b-11e8-8aeb-973543bb4a45.jpg" style="max-width:100%)
 <p></p>
-<img src="https://user-images.githubusercontent.com/10376491/46253885-f2ce5580-c44b-11e8-978a-682b4612685c.jpg" style="max-width:100%" />
+![](https://user-images.githubusercontent.com/10376491/46253885-f2ce5580-c44b-11e8-978a-682b4612685c.jpg" style="max-width:100%)
 <p></p>
 
 <blockquote>
-<strong>개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.</strong>
+**개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.**
 참여한 모든 분께 기념품을 드리며 우수 제안 또는 활동 소식을 선정하여 선물을 드립니다.
-<strong>보내실 곳 :</strong> 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 <strong><a href="mailto:kucspm1@kuc.or.kr"> kucspm1@kuc.or.kr</a></strong>
+**보내실 곳 :** 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 **[kucspm1@kuc.or.kr](mailto:kucspm1@kuc.or.kr)**
 </blockquote>
 

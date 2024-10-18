@@ -24,9 +24,9 @@ date:   08/11/2019
 
 <p style="text-align: right">호남합회 여천교회 담임목사 <b>김성완</b></p>
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img01.png" style="max-width:100%" alt="이미지" />
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img01.png" style="max-width:100%" alt="이미지)
 
-<img src="https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img02.png" style="max-width:100%" alt="이미지" />
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img02.png" style="max-width:100%" alt="이미지)
 
 > <p></p>
 >
@@ -34,4 +34,4 @@ date:   08/11/2019
 >
 > 참여한 모든 분께 기념품을 드리며 우수 제안 또는 활동 소식을 선정하여 선물을 드립니다.
 >
-> 보내실 곳 : 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 <b><a href="mailto:kucspm1@kuc.or.kr">kucspm1@kuc.or.kr</a></b> 
+> 보내실 곳 : 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 **[kucspm1@kuc.or.kr](mailto:kucspm1@kuc.or.kr)** 

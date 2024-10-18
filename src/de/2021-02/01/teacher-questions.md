@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   09/04/2021
 ---
 
-[Was ist geschehen](https://sabbath-school.adventech.io/de/2021-02/01/01)
+Was ist geschehen
 =========================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Ideen zum Weitergeben von Missionsbüchern, Videos, Foldern und Flyern                                                                                                                                                                                                                                                                                 TMI: Wir alle beteiligen uns!                                                                                                         Gebet + Dienst + Zeugnis                                                                                                                                                                           Ideen für soziale Aktivitäten
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   ![zentriert|rahmenlos|alternativtext=|143x143px](TMI_-_Wir_alle_beteiligen_uns.png "zentriert|rahmenlos|alternativtext=|143x143px")   ![zentriert|alternativtext=|rahmenlos|139x139px](Dienst_und_Mission.png "zentriert|alternativtext=|rahmenlos|139x139px")                                                                             ------------------------------------------------------------------------------------------------------------------------------------------
-    ![verweis=<https://wiki.sabbatschule.at/Datei:Roter_Bus_-_Menschen_-_Freundschaft_-_pexels-roman-odintsov-4553618.jpg>](Roter_Bus_-_Menschen_-_Freundschaft_-_pexels-roman-odintsov-4553618.jpg "verweis=https://wiki.sabbatschule.at/Datei:Roter_Bus_-_Menschen_-_Freundschaft_-_pexels-roman-odintsov-4553618.jpg"){width="125" height="125"}                                                                                                                                                                                                                                                                                                                                                ![zentriert|alternativtext=|rahmenlos|143x143px](Vorschläge_für_soziale_Aktivitäten.png "zentriert|alternativtext=|rahmenlos|143x143px")
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                              ------------------------------------------------------------------------------------------------------------------------------------------
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-
-  Wie kann ich meinen Freunden, Arbeitskollegen und anderen Personen kleine geistliche Samenkörner weitergeben? Hier in diesem Dokument bekommst du konkrete Ideen geliefert.                                                                                                                                                                           “Was kann ich schon (missionarisch) tun?” Sehr viel! Schau dir doch mal diese Ideen an.                                               Wie könnt ihr als Kleingruppe im Gottesdienst in Aktion kommen? Diese Hilfe möchte euch dabei unterstützen.                                                                                        ADRA Österreich und die Abteilung Heimatmission haben zusammen einen Folder erstellt, um Ideen und Vorschläge aufzuzeigen, was ihr in eurem Umfeld Gutes tun könnt!
-
-  [**PDF**](Medium:Videos_Missionsbücher_Folder_und_Flyer_-_Ideen_zum_Weitergeben.pdf "wikilink")                                                                                                                                                                                                                                                       [**Word**](Medium:Wir_alle_beteiligen_uns_1.2.docx "wikilink") oder [**PDF**](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")      Hier die Arbeitshilfe: [**WORD**](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink") oder [**PDF**](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")   [**Hier zum Folder**](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")                                                            
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -46,7 +32,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Schildkröten, Schildkröten ...**
+### Schildkröten, Schildkröten ...
 
 **1. Mose 1,1**
 
@@ -59,7 +45,7 @@ II: Wir studieren die Bibel
     Grund für unsere Existenz ist? Welche weiteren guten Gründe, die
     nicht aus der Bibel stammen, würdet ihr anführen?
 
-### **Nach dem Bild des Schöpfers**
+### Nach dem Bild des Schöpfers
 
 **1. Mose 1,27.28**
 
@@ -68,7 +54,7 @@ II: Wir studieren die Bibel
 -   Was meint es, dass der Mensch nach Gottes Ebenbild geschaffen ist?
 -   Was bedeutet es für euch, dass auch ihr Gottes Ebenbild seid?
 
-### **Gemeinschaft zwischen Gott und Mensch**
+### Gemeinschaft zwischen Gott und Mensch
 
 **1. Mose 1 und 2 (Überblick, nicht lesen)**
 
@@ -79,7 +65,7 @@ II: Wir studieren die Bibel
 -   Welche weiteren Wesenszüge Gottes lassen sich in diesen beiden sich
     ergänzenden Berichten über die Schöpfung erkennen?
 
-### **Am Baum**
+### Am Baum
 
 **1. Mose 2,16.17**
 
@@ -99,7 +85,7 @@ II: Wir studieren die Bibel
     steht, wie die beiden Bundesformeln in Offenbarung 21,3.7 zeigen:
     Was ist Ziel und Absicht dieses Bundes?\]
 
-### **Die Beziehung zerbricht**
+### Die Beziehung zerbricht
 
 **1. Mose 3,1-6**
 
@@ -123,9 +109,5 @@ II: Wir studieren die Bibel
 -   Welche Hoffnung nehmt ihr für euch aus dieser ersten Verheißung
     Gottes nach dem Vertrauensbruch des Menschen?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

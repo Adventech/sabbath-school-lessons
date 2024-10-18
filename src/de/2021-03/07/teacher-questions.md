@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/08/2021
 ---
 
-[Ruhe, Beziehungen und Heilung](https://sabbath-school.adventech.io/de/2021-03/07/01)
+Ruhe, Beziehungen und Heilung
 =====================================================================================
 
 II: Wir studieren die Bibel
@@ -15,7 +15,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Bei welchen Sünden würdest du dich am schwersten tun, sie zu
     vergeben?
@@ -23,7 +23,7 @@ II: Wir studieren die Bibel
     vergeben? Wie wichtig ist dir hierbei der Gedanke an das, was
     Christus um unsertwillen erlitten/erduldet hat?
 
-#### **Sonntag: Der Vergangenheit ins Auge blicken**
+#### Sonntag: Der Vergangenheit ins Auge blicken
 
 **1. Mose 42,7-20 (nur überblicksweise)**
 
@@ -32,7 +32,7 @@ II: Wir studieren die Bibel
 -   Weshalb rächt sich Josef nicht sofort an ihnen? Wie kann man solche
     Barmherzigkeit lernen?
 
-#### **Montag: Die Bühne wird vorbereitet**
+#### Montag: Die Bühne wird vorbereitet
 
 **1. Mose 42,21–24**
 
@@ -44,7 +44,7 @@ II: Wir studieren die Bibel
 -   Wie geht man mit Schuld um, die man nicht mehr „gutmachen“ kann? Wie
     kann man dennoch inneren Frieden finden?
 
-#### **Dienstag: Vergeben und vergessen?**
+#### Dienstag: Vergeben und vergessen?
 
 **Matthäus 18,21-22**
 
@@ -63,7 +63,7 @@ II: Wir studieren die Bibel
     auch wieder in die Arme nehmen zu können? Genügt Vergebung allein
     „im Kopf“, während man sich ansonsten meidet?
 
-#### **Mittwoch: Praktisch werden**
+#### Mittwoch: Praktisch werden
 
 -   Wie wichtig ist es, auch negative Gefühle bewusst anzunehmen, um mit
     Geschehenem abschließen zu können? Wann mag es besser sein, Gefühle
@@ -75,7 +75,7 @@ II: Wir studieren die Bibel
     Wie schafft man es, in Situationen akuter Misshandlung diese
     bereitwillige Gnade walten zu lassen?
 
-#### **Donnerstag: Ruhe finden nach der Vergebung**
+#### Donnerstag: Ruhe finden nach der Vergebung
 
 **1. Mose 50,15-21**
 
@@ -89,9 +89,5 @@ II: Wir studieren die Bibel
 -   Wie kann man überzeugend „beweisen“, dass man wirklich vergeben hat
     und Furcht nicht mehr nötig ist?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

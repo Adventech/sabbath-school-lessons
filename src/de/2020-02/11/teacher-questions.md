@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   12/06/2020
 ---
 
-[**Bibel und Prophetie**](https://sabbath-school.adventech.io/de/2020-02/11/01)
+**Bibel und Prophetie**
 ===============================================================================
 
 I: Gemeinschaft & Aktivitäten
@@ -22,7 +22,7 @@ I: Gemeinschaft & Aktivitäten
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Johannes 13,19; 14,29: Startfrage(n)**
+### Johannes 13,19; 14,29: Startfrage(n)
 
 -   Wie wichtig ist erfüllte Prophetie für den christlichen Glauben?
 -   Wie wichtig ist das Studium bes. der prophetischen Abschnitte der
@@ -31,7 +31,7 @@ II: Wir studieren die Bibel
     der Zukunft beschäftigen? Ist es nicht sicherer, sich auf die Texte
     mit Vergangenheitsbezug zu konzentrieren?
 
-### **Sonntag: Historizismus und Prophetie**
+### Sonntag: Historizismus und Prophetie
 
 **Daniel 2,27-28.37-40**
 
@@ -46,7 +46,7 @@ II: Wir studieren die Bibel
 -   Haben wir heute, am Ende der Zeit, einen Vorteil im Glauben, weil
     wir schon auf so viel erfüllte Prophetie zurückschauen können?
 
-### **Montag: Das Jahr-Tag-Prinzip**
+### Montag: Das Jahr-Tag-Prinzip
 
 **4. Mose 14,34; Hesekiel 4,6**
 
@@ -64,15 +64,11 @@ II: Wir studieren die Bibel
     ein Tag für 1.000 Jahre stehen würde? Ist das noch realistisch bzw.
     praktikabel?
 
-### **Dienstag: Auslegung des kleinen Horns**
+### Dienstag: Auslegung des kleinen Horns
 
 **Daniel 7,8.24-25; 8,9-12**
 
 -   Welche Gemeinsamkeiten gibt es zwischen dem Klein
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

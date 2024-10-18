@@ -100,5 +100,4 @@ date:   06/09/2024
 -   Und wie bleiben wir glaubwürdig -- das Ende ist ja noch nicht
     gekommen
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

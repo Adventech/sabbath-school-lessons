@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   10/05/2024
 ---
 
-### **Vorbemerkung**
+### Vorbemerkung
 
 In dieser Woche geht es um Offb 11. Es ist natürlich extrem hilfreich,
 wenn sich der Gruppenleiter gut mit der adventistischen Auslegung von
@@ -14,14 +14,14 @@ das Thema Bibel in den vorhergehenden Wochen auch schon mehrfach
 angesprochen wurde und man zu viel Wiederholung nach Möglichkeit
 vermeiden sollte.
 
-### **Einstieg**
+### Einstieg
 
 -   Wir studieren Offb 11. Wo stehen wir in der Offenbarung? Was
     passierte vorher? Was kommt danach?
 -   Einstiegsfrage (Vorwegnahme der Deutung): Was bedeutet dir die
     Heilige Schrift persönlich?
 
-### **Sonntag**
+### Sonntag
 
 **Offenbarung 11,1-3**
 
@@ -48,7 +48,7 @@ vermeiden sollte.
         Gleiche Zeitperiode: 42 Monate sind 1260 Tage Periode gibt es 5x
         in Offb und 2x in Daniel
 
-### **Montag**
+### Montag
 
 **Offenbarung 11,3-6**
 
@@ -85,7 +85,7 @@ vermeiden sollte.
     Macht, Wunder zu tun wie Elia und Mose). Wie hat Gott sein Volk
     während der 1260 Jahre beschützt?
 
-### **Dienstag/Mittwoch**
+### Dienstag/Mittwoch
 
 **Offenbarung 11,7-11**
 
@@ -123,7 +123,7 @@ vermeiden sollte.
             zwei Zeugen wieder (persönlich und als \[weltweite\]
             Gemeinde)?
 
-### **Donnerstag**
+### Donnerstag
 
 **Offenbarung 11,15-19**
 
@@ -135,14 +135,4 @@ vermeiden sollte.
 
 \
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/06/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

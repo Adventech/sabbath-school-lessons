@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/12/2019
 ---
 
-[Rückfällig gewordene Menschen](https://sabbath-school.adventech.io/de/2019-04/11/r%C3%BCckf%C3%A4llig-gewordene-menschen/)
+Rückfällig gewordene Menschen
 ===========================================================================================================================
 
 I: Gemeinschaft
@@ -26,7 +26,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### [Verdorbene Tempelleitung](https://sabbath-school.adventech.io/de/2019-04/11/verdorbene-tempelleitung/)
+### Verdorbene Tempelleitung
 
 **Nehemia 13,1-9**
 
@@ -51,7 +51,7 @@ II: Wir studieren die Bibel
         Vorteile aus dem Werk Gottes ziehen zu wollen bzw. in die Falle
         der Vetternwirtschaft zu tappen?
 
-### [Leviten auf den Feldern](https://sabbath-school.adventech.io/de/2019-04/11/leviten-auf-den-feldern/)
+### Leviten auf den Feldern
 
 **Nehemia 13,10-14**
 
@@ -70,7 +70,7 @@ II: Wir studieren die Bibel
     -   Was würdest du den Gemeindeverantwortlichen raten, wenn es zu
         starken Zehnten- und Gabenrückgängen in deiner Gemeinde kommt?
 
-### [Zehnten und Gaben](https://sabbath-school.adventech.io/de/2019-04/11/zehnten-und-gaben/)
+### Zehnten und Gaben
 
 **4. Mose 18,21-24; Maleachi 3,10; 2. Korinther 9,6-8**
 
@@ -91,7 +91,7 @@ II: Wir studieren die Bibel
         alle Genüge” haben wirst, wenn du ihm gerade auch im Bereich der
         Finanzen treu bist?
 
-### [Am Sabbat die Kelter treten](https://sabbath-school.adventech.io/de/2019-04/11/am-sabbat-die-kelter-treten/)
+### Am Sabbat die Kelter treten
 
 **Nehemia 13,15-22**
 
@@ -113,7 +113,7 @@ II: Wir studieren die Bibel
     -   In welcher Form sollte man Geschwister, die man bei sündigen
         Gewohnheiten beobachtet, zurechtweisen?
 
-### [Haben nicht eure Vorfahren so gehandelt?](https://sabbath-school.adventech.io/de/2019-04/11/haben-nicht-eure-vorfahren-so-gehandelt/)
+### Haben nicht eure Vorfahren so gehandelt?
 
 **Matthäus 12,1-8; Markus 3,1-6**
 
@@ -138,16 +138,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

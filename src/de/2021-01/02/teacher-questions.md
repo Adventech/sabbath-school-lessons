@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   15/01/2021
 ---
 
-[Führungskrise](https://sabbath-school.adventech.io/de/2021-01/02/02)
+Führungskrise
 =====================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,12 +25,7 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
     Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
@@ -40,14 +35,14 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Was versteht man unter einer „Führungskrise“? Wie gerät man da
     hinein? Wie kommt man wieder heraus?
 -   Was macht eine gute (Staats-) Führung aus? Was sollte nicht gegeben
     sein?
 
-### **Der König ist tot. Lang lebe der König!**
+### Der König ist tot. Lang lebe der König!
 
 **Jesaja 6,1 und 2. Chronik 26,16**
 
@@ -62,7 +57,7 @@ II: Wir studieren die Bibel
     auch das Ende der Welt. Weshalb könnten gerade jetzt (und in den
     Folgejahren) solche Inhalte passend gewesen sein?
 
-### **„Heilig, heilig, heilig“**
+### „Heilig, heilig, heilig“
 
 **Jesaja 6,1-4**
 
@@ -75,7 +70,7 @@ II: Wir studieren die Bibel
     erging es dir in dieser Situation bzw. wie würde es dir wohl
     ergehen?
 
-### **Neue Persönlichkeit**
+### Neue Persönlichkeit
 
 **Jesaja 6,5-7**
 
@@ -87,7 +82,7 @@ II: Wir studieren die Bibel
     Räucheraltar verbunden? \[Das Gebet/die Fürbitte Jesu: Offb 8,3; Ps
     141,2.\]
 
-### **Königlicher Auftrag**
+### Königlicher Auftrag
 
 **Jesaja 1,1 und Jesaja 6,8**
 
@@ -111,7 +106,7 @@ II: Wir studieren die Bibel
 -   Inwiefern ist der Tempel Gottes (auch der himmlische heute) ein Ort,
     der Mut macht zum Dienst?
 
-### **Fürchterlicher Aufruf**
+### Fürchterlicher Aufruf
 
 **Jesaja 6,9-13**
 
@@ -127,10 +122,3 @@ II: Wir studieren die Bibel
     Propheten braucht?
 -   Was muss gegeben sein, damit Gott in unserer Zeit einen weiteren
     Propheten beruft?
-
-\
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
-

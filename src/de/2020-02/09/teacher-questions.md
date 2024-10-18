@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   29/05/2020
 ---
 
-[Schöpfung: Das erste Buch Mose als Grundlage (Teil 2)](https://sabbath-school.adventech.io/de/2020-02/09/01)
+Schöpfung: Das erste Buch Mose als Grundlage (Teil 2)
 =============================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -71,7 +62,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 **1. Mose 1,1**
 
@@ -86,7 +77,7 @@ II: Wir studieren die Bibel
     wurde – oder ob man an eine lange, von Gott geleitete Evolution
     (sog. theistische Evolution) glaubt?
 
-### [**Die Erde, eine Scheibe?**](https://sabbath-school.adventech.io/de/2020-02/09/die-erde-eine-scheibe/)
+### **Die Erde, eine Scheibe?**
 
 -   Neben der theistischen Evolution gibt es noch weitere
     Fehlinterpretationen biblischer Aussagen. Z. B. die
@@ -109,7 +100,7 @@ II: Wir studieren die Bibel
     deutlich, dass die Erde nicht flach ist? \[Z. B. sichtbare
     Erdkrümmung aus dem Flugzeugfenster, Satellitenbilder etc.\]
 
-### [**Schöpfung in der antiken Literatur**](https://sabbath-school.adventech.io/de/2020-02/09/sch%C3%B6pfung-in-der-antiken-literatur/)
+### **Schöpfung in der antiken Literatur**
 
 **1. Mose 2,1-7**
 
@@ -124,7 +115,7 @@ II: Wir studieren die Bibel
 -   Wie versteht ihr diese “Ruhe Gottes”, wenn wir davon ausgehen
     dürfen, das Gott hier nicht erschöpft war?
 
-### [**Das erste Buch Mose oder Heidentum**](https://sabbath-school.adventech.io/de/2020-02/09/das-erste-buch-mose-oder-heidentum/)
+### **Das erste Buch Mose oder Heidentum**
 
 **1. Mose 1,14-19**
 
@@ -132,13 +123,7 @@ II: Wir studieren die Bibel
     Worte gekleidet? Weshalb spricht die Bibel hier nicht offen von
     „Sonne“ und „Mond“?
 
-<!-- -->
-
 -   Weshalb wird gerade hier eine Funkti
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

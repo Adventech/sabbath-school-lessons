@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   04/09/2020
 ---
 
-[Eine spannende Möglichkeit sich zu engagieren](https://sabbath-school.adventech.io/de/2020-03/10/01)
+Eine spannende Möglichkeit sich zu engagieren
 =====================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -71,7 +62,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### [Kleingruppen: Ursprünglich Gottes Idee](https://sabbath-school.adventech.io/de/2020-03/10/kleingruppen---urspr%C3%BCnglich-gottes-idee/)
+### Kleingruppen: Ursprünglich Gottes Idee
 
 **1 Mose 1,1.2.26**
 
@@ -96,7 +87,7 @@ II: Wir studieren die Bibel
         Kleingruppen? Was sollte demnach unser übergeordnetes Ziel in
         all unseren Gruppen sein?
 
-### [Kleingruppen in der Heiligen Schrift](https://sabbath-school.adventech.io/de/2020-03/10/kleingruppen-in-der-heiligen-schrift/)
+### Kleingruppen in der Heiligen Schrift
 
 **2 Mose 18,21-25**
 
@@ -122,7 +113,7 @@ II: Wir studieren die Bibel
         wenigen Personen oder sogar einer einzigen zu bündeln?
     -   Was schätzt ihr persönlich an einer Kleingruppe?
 
-### [Zum Dienen organisiert](https://sabbath-school.adventech.io/de/2020-03/10/zum-dienen-organisiert/)
+### Zum Dienen organisiert
 
 **1 Korinther 12,12-25**
 
@@ -167,7 +158,7 @@ die Unterstützung der anderen gewinnt.“
     würde es das «Evangelisieren» in der Nachbarschaft ziemlich
     erleichtern?
 
-### [Neutestamentliche Kleingruppen](https://sabbath-school.adventech.io/de/2020-03/10/neutestamentliche-kleingruppen/)
+### Neutestamentliche Kleingruppen
 
 **Apostelgeschichte 12,11-12; Apostelgeschichte 16,13-15.40**
 
@@ -186,9 +177,5 @@ die Unterstützung der anderen gewinnt.“
     -   Die ersten Christen trafen sich in ihren privaten Häusern. Was
         sind die Vorteile von Hausgemei
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

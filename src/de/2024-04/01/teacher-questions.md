@@ -88,5 +88,4 @@ date:   04/10/2024
     -   Was wäre in unserem Leben so ein Auslöser, der unseren Glauben
         stärken könnte
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

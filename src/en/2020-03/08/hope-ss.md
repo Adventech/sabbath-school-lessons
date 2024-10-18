@@ -3,7 +3,7 @@ title: Hope Sabbath School Outline
 date: 21/08/2020
 ---
 
-<center><img src="https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg" /></center>
+![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
 
 ### Outline #8 Ministering Like Jesus
 

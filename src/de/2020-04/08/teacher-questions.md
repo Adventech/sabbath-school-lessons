@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   20/11/2020
 ---
 
-[Erziehung und Erlösung](https://sabbath-school.adventech.io/de/2020-04/08/01)
+Erziehung und Erlösung
 ==============================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -45,7 +34,7 @@ II: Wir studieren die Bibel
 
 **Startfrage: Worauf liegt bei christlicher Erziehung der Schwerpunkt?**
 
-### [Im Bild Gottes](https://sabbath-school.adventech.io/de/2020-04/08/im-bild-gottes/)
+### Im Bild Gottes
 
 **1. Mose 1,26-27; 1. Mose 5,1.3**
 
@@ -71,7 +60,7 @@ II: Wir studieren die Bibel
     -   Inwieweit braucht es das richtige (liebevolle) Gottesbild, um
         einen positiven und gnadenvollen Glauben leben zu können?
 
-### [Jesus als Lehrer](https://sabbath-school.adventech.io/de/2020-04/08/jesus-als-lehrer/)
+### Jesus als Lehrer
 
 **Jesaja 11,1-9**
 
@@ -91,7 +80,7 @@ II: Wir studieren die Bibel
         gestalten sollen?
     -   Was haben Erlösung und Erziehung miteinander zu tun?
 
-### [Mose und die Propheten](https://sabbath-school.adventech.io/de/2020-04/08/mose-und-die-propheten/)
+### Mose und die Propheten
 
 **2. Timotheus 3,14-17**
 
@@ -112,7 +101,7 @@ II: Wir studieren die Bibel
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
-### [Kluge Männer und Frauen](https://sabbath-school.adventech.io/de/2020-04/08/kluge-m%C3%A4nner-und-frauen/)
+### Kluge Männer und Frauen
 
 **1. Könige 5,9-14** (in englischen Bibel: 1 Kings 4:29-34)
 
@@ -132,7 +121,7 @@ II: Wir studieren die Bibel
     -   Was sagt dieser Text darüber, wie wir unser Leben mit Gott
         gestalten sollen?
 
-### [Erziehung in der frühen Kirche](https://sabbath-school.adventech.io/de/2020-04/08/kluge-m%C3%A4nner-und-frauen/)
+### Erziehung in der frühen Kirche
 
 **1. Korinther 2,1-16**
 
@@ -152,9 +141,5 @@ II: Wir studieren die Bibel
     -   Was sagt dieser Text darüber, wie wir zu Gott kommen können?
     -   Was sagt dieser Text darüber, wie wir im Glauben wachsen können?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 
