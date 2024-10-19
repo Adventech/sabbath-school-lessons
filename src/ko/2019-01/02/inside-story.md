@@ -31,6 +31,6 @@ date:   11/01/2019
 
 캐나다 밴쿠버한인교회 장로 **김귀일**
 
-![](https://user-images.githubusercontent.com/10376491/50731432-e2ec9e80-1129-11e9-8813-7120f64c0595.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/50731432-e2ec9e80-1129-11e9-8813-7120f64c0595.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/50731433-e4b66200-1129-11e9-8671-b2d2d47841ca.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/50731433-e4b66200-1129-11e9-8671-b2d2d47841ca.jpg)

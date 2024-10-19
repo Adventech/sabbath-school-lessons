@@ -14,13 +14,13 @@ date:   27/07/2018
 
 _호남합회 여수중부교회 담임목사 **정연택**_
 
-![](https://user-images.githubusercontent.com/10376491/43032547-0f637f86-8c7f-11e8-8dfe-8b013bd58039.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/43032547-0f637f86-8c7f-11e8-8dfe-8b013bd58039.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/43032548-1148a452-8c7f-11e8-9c2b-37d2f7c4b702.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/43032548-1148a452-8c7f-11e8-9c2b-37d2f7c4b702.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/43032550-1332feca-8c7f-11e8-9031-17ac5241eed1.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/43032550-1332feca-8c7f-11e8-9031-17ac5241eed1.jpg)
 
 <blockquote>
 개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.

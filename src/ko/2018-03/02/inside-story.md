@@ -30,6 +30,6 @@ date:   13/07/2018
 
 _서중한합회 일동교회 담임목사_ **박종수**
 
-![](https://user-images.githubusercontent.com/10376491/42302923-ad84709c-7fe3-11e8-8e96-9fe50f537d29.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/42302923-ad84709c-7fe3-11e8-8e96-9fe50f537d29.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/42302926-afc4cd52-7fe3-11e8-875b-49310aec05ca.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/42302926-afc4cd52-7fe3-11e8-875b-49310aec05ca.jpg)

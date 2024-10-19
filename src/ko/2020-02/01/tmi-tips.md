@@ -44,6 +44,6 @@ date:   03/04/2020
 
 <p style="text-align: right">동중한합회 부론교회 장로 김옥종</p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/01/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/01/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/01/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/01/days/img02.jpg)

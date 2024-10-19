@@ -57,7 +57,7 @@ date:   03/05/2019
 서중한합회 공릉동교회 집사 **김인선**
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/56853656-7ec83300-68f0-11e9-85ff-e5603fd62786.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/56853656-7ec83300-68f0-11e9-85ff-e5603fd62786.jpg)
 
 > <p></p>
 >

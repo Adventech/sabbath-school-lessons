@@ -49,9 +49,9 @@ date:   04/01/2019
 
 동중한합회 마석교회 여선교회장 집사 **박흥덕**
 
-![](https://user-images.githubusercontent.com/10376491/50731428-d2d4bf00-1129-11e9-9a8e-67fc03ace52d.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/50731428-d2d4bf00-1129-11e9-9a8e-67fc03ace52d.jpg)
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/50731429-d700dc80-1129-11e9-82c1-ab763fa2ecc0.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/50731429-d700dc80-1129-11e9-82c1-ab763fa2ecc0.jpg)
 <p></p>
 
 <blockquote>

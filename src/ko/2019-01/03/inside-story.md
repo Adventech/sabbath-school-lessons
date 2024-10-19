@@ -38,10 +38,10 @@ date:   18/01/2019
 
 <p style="text-align:right">제공 : 대총회 세계 선교부</p>
 
-![](https://user-images.githubusercontent.com/10376491/51078908-e41a5000-1682-11e9-8233-8f00060d59e6.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/51078908-e41a5000-1682-11e9-8233-8f00060d59e6.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/51078909-e41a5000-1682-11e9-9929-1ce5edfea9b6.jpg" style="max-width:%100)
+![](https://user-images.githubusercontent.com/10376491/51078909-e41a5000-1682-11e9-9929-1ce5edfea9b6.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/51078910-e4b2e680-1682-11e9-9ce8-1cfc4e7801f1.jpg" style="max-width:%100)
+![](https://user-images.githubusercontent.com/10376491/51078910-e4b2e680-1682-11e9-9ce8-1cfc4e7801f1.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/51078911-e4b2e680-1682-11e9-8e94-9ebbf8cf069e.jpg" style="max-width:%100)
+![](https://user-images.githubusercontent.com/10376491/51078911-e4b2e680-1682-11e9-8e94-9ebbf8cf069e.jpg)

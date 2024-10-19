@@ -27,4 +27,4 @@ date:   26/02/2021
 
 「ぼくはたくさんの新しいことを学べて、とても幸せです。何より、子どもたちをイエス様のもとに招待できることを学びました」とルイスは言っています。
 
-![](https://sabbath-school-stage.adventech.io/api/v1/jp/quarterlies/2021-01/lessons/09/days/img299.jpg" style="max-width:100%" alt="画像)
+![](https://sabbath-school-stage.adventech.io/api/v1/jp/quarterlies/2021-01/lessons/09/days/img299.jpg)
