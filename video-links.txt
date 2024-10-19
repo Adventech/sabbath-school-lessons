@@ -8,4 +8,16 @@ yt-dlp "https://www.youtube.com/watch?v=G1pQ-fjx-8w" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=G4Qzt8mTvG0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/af/in-af-2024-04-04.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=gleuDN-X6aU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2024-04-04.mp4"
+
+yt-dlp "https://youtu.be/HCoKpXL8Mp4?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=xkUaF1Q5wm4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2024-04-04.mp4"
+
+yt-dlp "https://youtu.be/V1SaGBd4dwM?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-04-04.mp4"
+
+yt-dlp "https://youtu.be/wqiyuusHQaE?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=taLmX9o6N_k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2024-04-inv-04.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=I2jaQWR6Swg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2024-04-04.mp4"
