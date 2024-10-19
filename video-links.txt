@@ -39,3 +39,5 @@ yt-dlp "https://www.youtube.com/watch?v=fweyAk7U3eE" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=iz_mSIqHwyI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2024-04-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=7NMgoK54wKc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=mbDMuNSKJ-8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-04-04.mp4"
