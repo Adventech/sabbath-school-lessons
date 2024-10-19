@@ -21,3 +21,11 @@ yt-dlp "https://youtu.be/wqiyuusHQaE?feature=shared" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=taLmX9o6N_k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2024-04-inv-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=I2jaQWR6Swg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=rJ6QaYXPub4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2024-04-04.mp4"
+
+yt-dlp "https://youtu.be/m8W3padWWZc?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=fweyAk7U3eE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=iz_mSIqHwyI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2024-04-04.mp4"
