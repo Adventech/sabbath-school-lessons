@@ -8,6 +8,8 @@ yt-dlp "https://www.youtube.com/watch?v=f47k_zitRl8" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=lgvj8GvF2KE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2024-04-04.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=51sW8B1Lxr4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2024-04-inv-04.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=8jQPksP5Zek" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2024-04-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=VpwRzRLVxLU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2024-04-04.mp4"
@@ -17,6 +19,8 @@ yt-dlp "https://www.youtube.com/watch?v=fgeaN1cTRXo" -S vcodec:h264,res:1080,aco
 yt-dlp "https://youtu.be/m8W3padWWZc?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2024-04-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=m3n40-wD1t0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=QMqq2LbUBGw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2024-04-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=1VrsvCZPFME" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2024-04-04.mp4"
 
@@ -57,3 +61,5 @@ yt-dlp "https://www.youtube.com/watch?v=7NMgoK54wKc" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=mbDMuNSKJ-8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-04-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=UBf7Qzs7CcU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-04-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=WCzjDxhklCY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2024-04-04.mp4"
