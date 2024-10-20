@@ -111,12 +111,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Install ImageMagick
         if: ${{ hashFiles('dist/port/ss') != '' }}
-        run: |
-          mkdir -p "$HOME/.local/bin"
-          curl -O 'https://download.imagemagick.org/ImageMagick/download/binaries/magick'
-          chmod u+x magick
-          mv magick "$HOME/.local/bin"
-          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Generate square and landscape cover versions
         if: ${{ hashFiles('dist/port/ss') != '' }}
         run: ./runners/overlay/overlay-find.sh
