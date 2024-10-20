@@ -52,7 +52,6 @@ convert "$background_image" resized_overlay.png -gravity north -geometry +0+"$pa
 # Clean up temporary resized image
 rm resized_overlay.png
 
-#imageoptim -S --speed 1 "$output_image"
-#optipng -o2 "$output_image"  # Max compression for PNG files
+pngquant --quality=65-80 --output "$output_image" -f  -- "$output_image"
 
 echo "Image generated: $output_image"
