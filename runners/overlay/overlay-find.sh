@@ -9,4 +9,6 @@ find ./dist/port/ss/*/ss/*/assets -type f -name "cover.png" -ignore_readdir_race
   ./runners/overlay/overlay.sh landscape "$cover_image" "$cover_dir"
 
   echo "Processed $cover_image and saved the result in $cover_dir"
+  sleep 5
+  ls -lah `echo $cover_dir`
 done
