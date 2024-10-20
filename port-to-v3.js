@@ -778,6 +778,23 @@ let copyGlobalAssets = async function (asset) {
     fs.copySync(asset, assetDest)
 }
 
+let copyDocumentInfo = async function (document) {
+    const documentDest = getDestinationFromSource(document)
+
+    fs.copySync(document, documentDest)
+
+    const coverSource = document.replace(/info\.yml$/, 'cover.png')
+    await copyDocumentCover(coverSource)
+}
+
+let copyDocumentCover = async function (coverSource) {
+    const coverDest = getDestinationFromSource(coverSource)
+
+    if (fs.pathExistsSync(coverSource)) {
+        fs.copySync(coverSource, coverDest)
+    }
+}
+
 let processPortOfChangedFiles = async function () {
     if (fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
         let changedFiles = require('./.github/outputs/all_changed_files.json')
@@ -797,6 +814,10 @@ let processPortOfChangedFiles = async function () {
 
                 if (/^\.?\/?src\/[^\/]+\/[^\/]+\/info.yml/g.test(changedFile)) {
                     await copyResourceInfo(changedFile)
+                }
+
+                if (/^\.?\/?src\/[^\/]+\/[^\/]+\/[^\/]+\/info.yml/g.test(changedFile)) {
+                    await copyDocumentInfo(changedFile)
                 }
 
                 if (/^\.?\/?src\/[^\/]+\/[^\/]+\/cover\.png/g.test(changedFile)) {
