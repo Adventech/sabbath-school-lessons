@@ -119,7 +119,7 @@ jobs:
           echo "$HOME/.local/bin" >> "$GITHUB_PATH"
       - name: Generate square and landscape cover versions
         if: ${{ hashFiles('dist/port/ss') != '' }}
-        run: ./runners/overlay/overlay-find.sh 2>/dev/null || true
+        run: ./runners/overlay/overlay-find.sh
       - name: Upload ported content
         if: ${{ hashFiles('dist/port/ss') != '' }}
         run: aws s3 cp dist/port/ss s3://sabbath-school-media-tmp/port/ss-`echo '${{ github.run_id }}'` --acl "public-read" --region us-east-1 --no-progress --recursive
