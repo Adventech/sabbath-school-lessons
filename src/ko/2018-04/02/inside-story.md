@@ -31,7 +31,7 @@ date:   12/10/2018
 
 호남합회 영광교회 봉사전도사 _김홍건_
 
-![](https://user-images.githubusercontent.com/10376491/46568178-3b7f8600-c906-11e8-8494-8c7d0cd0f46c.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/46568178-3b7f8600-c906-11e8-8494-8c7d0cd0f46c.jpg)
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/46568180-3faba380-c906-11e8-958a-cfa64263c565.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/46568180-3faba380-c906-11e8-958a-cfa64263c565.jpg)
 <p></p>

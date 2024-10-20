@@ -24,9 +24,9 @@ date:   08/11/2019
 
 <p style="text-align: right">호남합회 여천교회 담임목사 <b>김성완</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img01.png" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img01.png)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img02.png" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/06/days/img02.png)
 
 > <p></p>
 >

@@ -52,6 +52,6 @@ date:   03/01/2020
 
 <p style="text-align: right">서중한합회 대방교회 부목사 <b>도준환</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/01/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/01/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/01/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/01/days/img02.jpg)

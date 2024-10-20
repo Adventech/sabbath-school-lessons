@@ -8,7 +8,7 @@ date:   22/06/2018
 회의 TMI 활동 두 가지만
 들려드립니다.
 
-![](https://user-images.githubusercontent.com/10376491/41502372-fc434bfa-717d-11e8-8d93-e6d4fc2dcc99.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/41502372-fc434bfa-717d-11e8-8d93-e6d4fc2dcc99.jpg)
 
 첫째로 우리 교회는 매
 월 2, 4번째 안식일 오후
