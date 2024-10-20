@@ -44,15 +44,15 @@ background_height=$(identify -format "%h" "$background_image")
 new_overlay_height=$((background_height - 2 * padding))
 
 # Resize the overlay to fit the calculated height, maintaining the aspect ratio
-convert "$overlay_image" -resize x"$new_overlay_height" resized_overlay.png
+magick "$overlay_image" -resize x"$new_overlay_height" resized_overlay.png
 
 # Composite the resized overlay onto the background with padding applied (gravity center for horizontal centering)
-convert "$background_image" resized_overlay.png -gravity north -geometry +0+"$padding" -composite "$output_image"
+magick "$background_image" resized_overlay.png -gravity north -geometry +0+"$padding" -composite "$output_image"
 
 # Clean up temporary resized image
 rm resized_overlay.png
 
-imageoptim -S --speed 1 "$output_image"
+#imageoptim -S --speed 1 "$output_image"
 #optipng -o2 "$output_image"  # Max compression for PNG files
 
 echo "Image generated: $output_image"

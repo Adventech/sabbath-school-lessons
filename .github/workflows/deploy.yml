@@ -109,6 +109,17 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Install ImageMagick
+        if: ${{ hashFiles('dist/port/ss') != '' }}
+        run: |
+          mkdir -p "$HOME/.local/bin"
+          curl -O 'https://download.imagemagick.org/ImageMagick/download/binaries/magick'
+          chmod u+x magick
+          mv magick "$HOME/.local/bin"
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+      - name: Generate square and landscape cover versions
+        if: ${{ hashFiles('dist/port/ss') != '' }}
+        run: ./runners/overlay/overlay-find.sh 2>/dev/null || true
       - name: Upload ported content
         if: ${{ hashFiles('dist/port/ss') != '' }}
         run: aws s3 cp dist/port/ss s3://sabbath-school-media-tmp/port/ss-`echo '${{ github.run_id }}'` --acl "public-read" --region us-east-1 --no-progress --recursive
