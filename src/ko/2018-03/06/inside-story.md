@@ -27,9 +27,9 @@ date:   10/08/2018
 
 _동중한합회 화천산수화교회 담임목사 **김성태**_
 
-![](https://user-images.githubusercontent.com/10376491/43677081-e7b9794c-97c1-11e8-8513-1ced73776121.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/43554272206c12a3815ce4f84307973537f9fb9d90a15b1b8bd7c5c186f3c789.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/43677082-e7cb06d0-97c1-11e8-8aaf-14dd77f7776a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/6cb4fcf0211e7674e1c188012786fd97740d88c8069b59e0db0abcb97df3b638.jpg)
 
 <blockquote>
 개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.

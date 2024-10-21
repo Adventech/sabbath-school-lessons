@@ -38,10 +38,10 @@ date:   18/01/2019
 
 <p style="text-align:right">제공 : 대총회 세계 선교부</p>
 
-![](https://user-images.githubusercontent.com/10376491/51078908-e41a5000-1682-11e9-8233-8f00060d59e6.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/778282a50e9175fa085d80a5403107f50d12cd142a5d2f7a5a1138a41d8ed86b.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/51078909-e41a5000-1682-11e9-9929-1ce5edfea9b6.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/cc57ce3b9e59537951d09092b5ed6d697ad7bbdc908cc4191b8be0b4400b3dc7.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/51078910-e4b2e680-1682-11e9-9ce8-1cfc4e7801f1.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/f4762732a271eb6527e10cf0c122772252d0900fec6c913d44f1057dd34f9f00.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/51078911-e4b2e680-1682-11e9-8e94-9ebbf8cf069e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/0ee66b72651c28b42cf3e77cf20ab56f57fc99260f45147b2268896a5cd1b71a.jpg)

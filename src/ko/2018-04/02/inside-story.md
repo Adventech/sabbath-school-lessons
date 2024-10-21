@@ -31,7 +31,7 @@ date:   12/10/2018
 
 호남합회 영광교회 봉사전도사 _김홍건_
 
-![](https://user-images.githubusercontent.com/10376491/46568178-3b7f8600-c906-11e8-8494-8c7d0cd0f46c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-04/assets/4bd1814a2b91b19000d6967cbffb7e880d6b4209ee324ec07e65bcbf83c23958.jpg)
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/46568180-3faba380-c906-11e8-958a-cfa64263c565.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-04/assets/e36531c612207ff9bc9a8b6c96aac49f16d8a095c7133e2bf299ee6112cab923.jpg)
 <p></p>

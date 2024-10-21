@@ -31,4 +31,4 @@ Rachel Carle, která nyní učí na adventistické škole v Aljašském městě 
 
 _Děkujeme vám za dary třinácté soboty v roce 2016, která pomohly opravit a rozšířit tábor Polaris, aby se ho mohlo zúčastnit více dětí. Část darů třinácté soboty v tomto čtvrtletí pomůže otevřít centrum vlivu v adventistickém sboru v Bethelu na Aljašce. Sbor v Bethelu posílá každoročně místní děti na tábor Polaris._
 
-![Rachel](picture01.jpg)
+![Rachel](https://sabbath-school-resources-assets.adventech.io/cs/ss/2024-04/01/picture01.jpg)

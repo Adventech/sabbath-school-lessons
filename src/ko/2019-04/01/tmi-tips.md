@@ -47,6 +47,6 @@ date:   04/10/2019
 <p style="text-align: right">서중한합회 백향김포다문화교회 평신도 지도자 <b>김성일</b></p>
 
 
-![](https://user-images.githubusercontent.com/10376491/66276189-44c36b80-e856-11e9-8021-aa002f3ddf21.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-04/assets/2335d6785df148463327beaf03dd4c0f4099e028607f00a3073a9cce7baf9a1e.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/66276208-5a389580-e856-11e9-9ffd-9fa4c6c3d94d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-04/assets/c0e98d85b09438f3879256456de74cf6d5c0016cbb6f79ad244369a05db12a4c.jpg)

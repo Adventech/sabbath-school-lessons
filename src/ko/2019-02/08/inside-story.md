@@ -29,8 +29,8 @@ date:   24/05/2019
 좋아서 하는데, 보조도 받고, 선교도 하고, 대접도 받으니 너무 기분 좋은 하루였습니
 다. 주님은 하늘에서 보시고 더 기뻐하시겠죠?
 
-![](https://user-images.githubusercontent.com/10376491/57976690-b2f0ba00-79ab-11e9-8c33-3672818ecd9c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-02/assets/415f0da6cb2848940dbbd3a1bc9a971e714be61d9056ece90b6949cb8ee75eb5.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/57976691-b2f0ba00-79ab-11e9-9439-31a5a11d0c60.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-02/assets/ad6fade322df64e687c771b07809ce1e66e53ac944a2a45471a9fb581cc9c045.jpg)
 
 영남합회 군위교회 장로 **권호갑**

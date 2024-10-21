@@ -36,7 +36,7 @@ date:   04/05/2018
 마음가짐과 생각이 바뀌었습니다. 전
 도에 대한 자신감도 얻었습니다.
 
-![](https://user-images.githubusercontent.com/10376491/39667650-b5d909b6-5080-11e8-8ad9-831af6947c77.png)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-02/assets/05becacc15484a754088191ebafb9b469ced5d47616acbbd4552ff58b231c85e.png)
 
 저는 목사님과 상담하면서 앞으로
 삼육대학교 신학과에 진학하겠다는

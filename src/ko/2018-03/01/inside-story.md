@@ -45,7 +45,7 @@ date:   06/07/2018
 
 _동중한합회 본부교회 장로 손성조_
 
-![](https://user-images.githubusercontent.com/10376491/42304064-f636febc-7fe9-11e8-953e-91b4df61adc8.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/b3ccfa73ca81ea63b4d87e2648c478050cefbcf163390a6c04b62fc7bf6488d7.jpg)
 
 <blockquote>
 **개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.**

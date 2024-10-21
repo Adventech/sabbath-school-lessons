@@ -28,7 +28,7 @@ date:   07/12/2018
 
 <p style="text-align:right">충청합회 새천안교회 담임목사 김광성</p>
 
-![](https://user-images.githubusercontent.com/10376491/49329812-ac2fd100-f54a-11e8-885a-9ccb20992fd2.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-04/assets/cc395271e5460c13e1ed5b5c4fbb4f3fe37aea17f2dcf7b29d98b6badedb15d7.jpg)
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/49329813-ac2fd100-f54a-11e8-9c37-67abeb9ebc6f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-04/assets/46d9c72881c975406d7e78e67f7cfcb094e6c93b13442977800bc1f579bb625c.jpg)
 <p></p>

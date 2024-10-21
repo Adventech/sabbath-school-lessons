@@ -31,7 +31,7 @@ date:   06/09/2019
 <p style="text-align: right">성경선교회장 은퇴목사 <b>문장섭</b></p>
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/63644209-27bd4980-c6a9-11e9-9329-beeb53909cae.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/634d62bd1afc20b05c9b390506e4a95849e351877215a75e78576c6f3aa92036.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/63644206-1d9b4b00-c6a9-11e9-89cf-b4df2a90fdce.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/afebf9eb8009c59b7103780b8c6e9eb942cadf1b8149e300020ac8ed61f9d8e5.jpg)
