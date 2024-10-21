@@ -15,4 +15,4 @@ date:   02/04/2021
 
 聴覚しょうがい者のためにお祈りください。私たちには、夢があります。私たちは、主のために、喜んで何でもしたいと思っています。
 
-![](https://sabbath-school-stage.adventech.io/api/v1/jp/quarterlies/2021-02/lessons/01/days/img271.jpg" style="max-width:100%" alt="画像)
+![](https://sabbath-school-stage.adventech.io/api/v1/jp/quarterlies/2021-02/lessons/01/days/img271.jpg)

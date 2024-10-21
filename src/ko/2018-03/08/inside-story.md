@@ -21,7 +21,7 @@ date:   24/08/2018
 
 _영남합회 삼천포한빛교회 담임목사 홍철표_
 
-![](https://user-images.githubusercontent.com/10376491/44297256-06ef3680-a294-11e8-8c6f-5eafee19dd33.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/44297256-06ef3680-a294-11e8-8c6f-5eafee19dd33.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/44297255-06ef3680-a294-11e8-83d8-0887dd35fa60.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/44297255-06ef3680-a294-11e8-83d8-0887dd35fa60.jpg)

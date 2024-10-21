@@ -45,9 +45,9 @@ date:   05/10/2018
 
 _서중한합회 인천세천사교회 담임목사 채승석_
 
-![](https://user-images.githubusercontent.com/10376491/46253884-ee09a180-c44b-11e8-8aeb-973543bb4a45.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/46253884-ee09a180-c44b-11e8-8aeb-973543bb4a45.jpg)
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/46253885-f2ce5580-c44b-11e8-978a-682b4612685c.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/46253885-f2ce5580-c44b-11e8-978a-682b4612685c.jpg)
 <p></p>
 
 <blockquote>

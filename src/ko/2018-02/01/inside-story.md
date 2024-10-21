@@ -18,7 +18,7 @@ date:   06/04/2018
 면서 빛고을교회는 앞으로 언제든지 동이 주관하는 지역 사회의 봉사 요청과 필요
 에 흔쾌히 응하기로 답하며 협약식을 마무리하였습니다.
 
-![](https://user-images.githubusercontent.com/10376491/39669931-01f9f0f6-50bf-11e8-89ca-faca22be7d26.jpg" style="max-width:100%) 
+![](https://user-images.githubusercontent.com/10376491/39669931-01f9f0f6-50bf-11e8-89ca-faca22be7d26.jpg) 
 
 2017년 12월 2일 안식일 오후 빛
 고을 청년회는 연탄 나르기 봉사활
@@ -33,7 +33,7 @@ date:   06/04/2018
 자원봉사자들 60여명과 함께 모두
 즐거운 마음으로 봉사하였습니다.
 
-![](https://user-images.githubusercontent.com/10376491/39669934-075e139c-50bf-11e8-837f-df1ca8caefcf.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/39669934-075e139c-50bf-11e8-837f-df1ca8caefcf.jpg)
 
 저희는 다른 자원봉사자들 60여명과 함께 했는데요. 모두 즐거운 마음으로 봉사하
 였습니다. 기아타이거즈 선수와 코치, 통역관 그리고 경기장 MC까지 함께 봉사하

@@ -49,7 +49,7 @@ date:   01/02/2019
 죽산다사랑교회 부목사 **마동욱**
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/51788966-7aea1080-2149-11e9-8a64-2c7e94708cdc.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/51788966-7aea1080-2149-11e9-8a64-2c7e94708cdc.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/51788967-7aea1080-2149-11e9-9582-77769c0e3531.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/51788967-7aea1080-2149-11e9-9582-77769c0e3531.jpg)

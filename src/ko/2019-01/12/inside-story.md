@@ -31,10 +31,10 @@ date:   22/03/2019
 영남합회 고성남산교회 담임목사 **김재림**
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/54079778-7ff1c200-42a8-11e9-83b4-d55ed116be6b.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/54079778-7ff1c200-42a8-11e9-83b4-d55ed116be6b.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/54079776-7ff1c200-42a8-11e9-8081-65ceccad81d7.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/54079776-7ff1c200-42a8-11e9-8081-65ceccad81d7.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/54079777-7ff1c200-42a8-11e9-82cf-571bc28c2d3d.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/54079777-7ff1c200-42a8-11e9-82cf-571bc28c2d3d.jpg)

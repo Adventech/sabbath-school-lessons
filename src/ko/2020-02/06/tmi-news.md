@@ -24,6 +24,6 @@ date:   08/05/2020
 
 <p style="text-align: right">동중한합회 청량리교회 파이널큐 영상선교단장 <b>안효선</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/06/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/06/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/06/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-02/lessons/06/days/img02.jpg)

@@ -29,6 +29,6 @@ date:   22/11/2019
 
 <p style="text-align: right">동중한합회 서초교회 <b>선교회</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/08/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/08/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/08/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/08/days/img02.jpg)

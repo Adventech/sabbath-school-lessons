@@ -42,4 +42,4 @@ ACT는 Adventist Collegians with Tidings의 약자로, 재림교회 대학생(�
 
 <p style="text-align: right">서중한ACT 회장 <b>박소현</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/03/days/img02.png" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/03/days/img02.png)

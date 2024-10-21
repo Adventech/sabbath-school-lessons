@@ -35,6 +35,6 @@ date:   17/01/2020
 
 <p style="text-align: right">호남합회 영상교회 담임목사 <b>박경태</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/03/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/03/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/03/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/03/days/img02.jpg)
