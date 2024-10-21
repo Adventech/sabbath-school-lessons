@@ -17,4 +17,4 @@ date:   12/03/2021
 
 今日、彼は良い夫であり、父親です。教会の長老でもあります。しかし私は、この「厳しい道」を再び歩みたいとは思いません。神の助けで彼を変えることができると思ったから、結婚しました。聖書が「不釣り合いな軛につながれてはなりません」（コリントの信徒への手紙 2・6 章 14 節）と教えているのは、正しいと思います。同じ信仰の人と結婚するのがより良いことなのです。世界で最も賢い人、ソロモンは、厳しい道からこの真理を学びました。私も同じでした。
 
-![](https://sabbath-school-stage.adventech.io/api/v1/jp/quarterlies/2021-01/lessons/11/days/img276.jpg" style="max-width:100%" alt="画像)
+![](https://sabbath-school-stage.adventech.io/api/v1/jp/quarterlies/2021-01/lessons/11/days/img276.jpg)

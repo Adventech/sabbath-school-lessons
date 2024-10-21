@@ -26,7 +26,7 @@ date:   07/09/2018
 
 _호남합회 강진교회 제공_
 
-![](https://user-images.githubusercontent.com/10376491/44942762-c953d880-ad7e-11e8-8344-dee18fe9d43f.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/44942762-c953d880-ad7e-11e8-8344-dee18fe9d43f.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/44942764-ce188c80-ad7e-11e8-91e3-3f3348c99f30.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/44942764-ce188c80-ad7e-11e8-91e3-3f3348c99f30.jpg)

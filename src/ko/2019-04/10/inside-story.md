@@ -20,8 +20,8 @@ date:   06/12/2019
 
 <p style="text-align: center">호남합회 남원동산교회 담임목사 <b>김치호</b></p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/10/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/10/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/10/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/10/days/img02.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/10/days/img03.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2019-04/lessons/10/days/img03.jpg)

@@ -19,10 +19,10 @@ date:   10/01/2020
 
 <p style="text-align: right">호남합회 광주꿈의교회 선교회</p>
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img01.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img01.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img02.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img02.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img03.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img03.jpg)
 
-![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img04.jpg" style="max-width:100%" alt="이미지)
+![](https://sabbath-school-stage.adventech.io/api/v1/ko/quarterlies/2020-01/lessons/02/days/img04.jpg)

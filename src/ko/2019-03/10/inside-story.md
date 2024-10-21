@@ -31,7 +31,7 @@ date:   06/09/2019
 <p style="text-align: right">성경선교회장 은퇴목사 <b>문장섭</b></p>
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/63644209-27bd4980-c6a9-11e9-9329-beeb53909cae.jpg" style="max-width: 100%)
+![](https://user-images.githubusercontent.com/10376491/63644209-27bd4980-c6a9-11e9-9329-beeb53909cae.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/63644206-1d9b4b00-c6a9-11e9-89cf-b4df2a90fdce.jpg" style="max-width: 100%)
+![](https://user-images.githubusercontent.com/10376491/63644206-1d9b4b00-c6a9-11e9-89cf-b4df2a90fdce.jpg)

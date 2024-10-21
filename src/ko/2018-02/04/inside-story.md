@@ -19,7 +19,7 @@ date:   27/04/2018
 예수 안에 한 가족이라는 동질감을 느낀다. 가장 미약하고 약한 자들에게 보여주신 하나님
 의 사랑을 우리는 봉사라는 이름으로 오늘도 그들에게 행한다.
 
-![](https://user-images.githubusercontent.com/10376491/39667726-04a48a4c-5082-11e8-9110-221ee504a4b6.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/39667726-04a48a4c-5082-11e8-9110-221ee504a4b6.jpg)
 
 _호남합회 조성교회 **김택수**_
 

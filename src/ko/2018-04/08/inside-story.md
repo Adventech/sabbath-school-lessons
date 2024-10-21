@@ -24,5 +24,5 @@ date:   23/11/2018
 
 _동중한합회 신남교회 예식담임목사 김익현_
 
-![](https://user-images.githubusercontent.com/10376491/48777455-38630e00-ec98-11e8-99db-1c7359f538f0.jpg" style="max-width:100%)
+![](https://user-images.githubusercontent.com/10376491/48777455-38630e00-ec98-11e8-99db-1c7359f538f0.jpg)
 <p></p>
