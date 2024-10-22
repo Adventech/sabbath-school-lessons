@@ -30,4 +30,4 @@ date:   11/10/2019
 <p style="text-align: right">동중한합회 본부교회 2PM 반장 <b>권순하</b></p>
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/66261574-8f30e380-e795-11e9-884a-33e7bcca9dff.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-04/assets/1c1ced8aaed8dcd5230ec406fad246ea1a1ce5000220079758189e369b9c46b3.jpg)

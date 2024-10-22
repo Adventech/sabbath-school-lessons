@@ -23,4 +23,4 @@ date:   02/08/2019
 
 <p style="text-align:right">한국연합회 군봉사부장 <b>이기호</b></p>
 
-![](https://user-images.githubusercontent.com/10376491/61597044-baf9ef80-abd0-11e9-8d4a-c6cd96e81329.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/93e18ac6f6f95d7e465130bbc46e60baeb739da91bce29824094b2011659fbc9.jpg)

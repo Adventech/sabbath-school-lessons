@@ -29,7 +29,7 @@ date:   10/05/2019
 
 마닐라한인국제교회 담임목사 **류재성**
 
-![](https://user-images.githubusercontent.com/10376491/56854866-ff902a80-6902-11e9-8f91-e2a5238be7f6.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-02/assets/857ee243bd5b6e436ad728939e1c222b70eb806af447ddeaf7ff526671165556.jpg)
 
 > <p></p>
 >

@@ -27,10 +27,10 @@ date:   25/01/2019
 성경선교회장 **문장섭**
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/51429462-dc533200-1bd3-11e9-842a-aa0a38d04bd8.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/71ede88e7aef96ae7f8963023e84d6a63997fc88c7682207afa74b0b0bfd3012.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/51429461-dc533200-1bd3-11e9-852f-b90289c61867.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/cb2caec3eec04fb47fc7bfaa463e2ced65ab9d0e45fc17c77362f8ac5e981ef0.jpg)
 
 <p></p>
 <blockquote>

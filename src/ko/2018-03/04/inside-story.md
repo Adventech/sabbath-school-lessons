@@ -14,13 +14,13 @@ date:   27/07/2018
 
 _호남합회 여수중부교회 담임목사 **정연택**_
 
-![](https://user-images.githubusercontent.com/10376491/43032547-0f637f86-8c7f-11e8-8dfe-8b013bd58039.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/90dbc3b5772498e380fac7946a1d56235d499152957bd4954f9296d02e7d53a7.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/43032548-1148a452-8c7f-11e8-9c2b-37d2f7c4b702.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/5624dac788bc79326e3999eba0e5d52f3343d51d47ad8fce2b2404cde7f266e1.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/43032550-1332feca-8c7f-11e8-9031-17ac5241eed1.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/c9b341e8955a6c1cfbc7f09cc1a60e15e1293b998ce2614340cc8ecee4dda7c3.jpg)
 
 <blockquote>
 개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.

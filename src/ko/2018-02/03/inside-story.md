@@ -45,4 +45,4 @@ TMI를 실천했습니다.
 
 _서중한합회 죽산다사랑교회_
 
-![](https://user-images.githubusercontent.com/10376491/39669908-533559b6-50be-11e8-81c9-a1895f5c7aae.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-02/assets/bd49ec0881ad7e031f312bedfcc5b572a0b8da98213a67417e841a77350d3157.jpg)
