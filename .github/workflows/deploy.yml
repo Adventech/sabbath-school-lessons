@@ -103,21 +103,29 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Running porting to API v3 script
         run: node port-to-v3.js
+        if: github.ref == 'refs/heads/stage'
       - name: Upload ported assets
-        if: ${{ hashFiles('dist/port/assets') != '' }}
+        if: github.ref == 'refs/heads/stage' && hashFiles('dist/port/assets') != ''
         run: aws s3 cp dist/port/assets s3://sabbath-school-resources-assets.adventech.io/assets/ --acl "public-read" --region us-east-1 --no-progress --recursive
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Install ImageMagick
-        if: ${{ hashFiles('dist/port/ss') != '' }}
+        if: github.ref == 'refs/heads/stage' && hashFiles('dist/port/ss') != ''
         run: sudo apt-get update && sudo apt-get install -y imagemagick pngquant
       - name: Generate square and landscape cover versions
-        if: ${{ hashFiles('dist/port/ss') != '' }}
+        if: github.ref == 'refs/heads/stage' && hashFiles('dist/port/ss') != ''
         run: ./runners/overlay/overlay-find.sh
       - name: Upload ported content
-        if: ${{ hashFiles('dist/port/ss') != '' }}
+        if: github.ref == 'refs/heads/stage' && hashFiles('dist/port/ss') != ''
         run: aws s3 cp dist/port/ss s3://sabbath-school-media-tmp/port/ss-`echo '${{ github.run_id }}'` --acl "public-read" --region us-east-1 --no-progress --recursive
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Trigger workflow in sabbath-school-resources
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.PERSONAL_GH_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/Adventech/sabbath-school-resources/dispatches \
+            -d '{"event_type": "trigger-workflow", "client_payload": { "port_id": "${{ github.run_id }}" }}'
