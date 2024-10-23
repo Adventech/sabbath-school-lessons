@@ -1,1 +1,1 @@
-yt-dlp "https://www.youtube.com/watch?v=mJs8wcyffOY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2024-04-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=yYfMcLyWxEQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2024-04-02.mp4"
