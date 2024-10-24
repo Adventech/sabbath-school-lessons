@@ -123,6 +123,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Trigger workflow in sabbath-school-resources
+        if: github.ref == 'refs/heads/stage' && hashFiles('dist/port/ss') != ''
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.PACKAGES_SECRET }}" \
