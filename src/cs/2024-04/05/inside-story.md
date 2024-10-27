@@ -30,3 +30,6 @@ Obávala se, že kvůli malé velikosti textu, se kniha nedá číst. Rob však 
 Dnes, o sedm let později, je Robovi 70 let a je sborovým diakonem. Stále denně čte Bibli a spisy Ellen Whiteové. „Když jsem našel Církev adventistů sedmého dne, našel jsem domov a pravdu,“ řekl.
 
 _Připojte se v roce 2024 ke světové církvi adventistů při masové propagaci a distribuci knihy Velký spor. Můžete navštívit anglicky psané stránky greatcontroversyproject.com, kde najdete další podrobnosti._
+
+![Rob](picture05.jpg)  
+Rob
