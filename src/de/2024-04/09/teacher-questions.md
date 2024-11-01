@@ -65,4 +65,4 @@ date:   29/11/2024
     endgültig, oder gibt es noch Hoffnung auf Veränderung
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+https://wiki.sabbatschule.at

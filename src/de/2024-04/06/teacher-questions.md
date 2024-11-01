@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   08/11/2024
 ---
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Was versteht man heute unter einem „Zeugnis“? Was in der Bibel? Wie
     könnten wir das in heutigem Deutsch besser ausdrücken?
@@ -11,7 +11,7 @@ date:   08/11/2024
     wenn Gott einfach vom Himmel herabgesprochen hätte – ganz ohne
     menschliches Zutun und Bezeugen?
 
-#### **Sonntag: Innere Demut – Johannes der Täufer legt erneut Zeugnis ab**
+#### Sonntag: Innere Demut – Johannes der Täufer legt erneut Zeugnis ab
 
 **Johannes 3,25-30**
 
@@ -30,7 +30,7 @@ date:   08/11/2024
 -   Wo hast du erkannt, dass du mutiger sein musst? Stehen Demut und Mut
     im Gegensatz zueinander? Erkläre!
 
-#### **Montag: Ein neues Verständnis des Messias**
+#### Montag: Ein neues Verständnis des Messias
 
 **Johannes 1,32-36**
 
@@ -41,7 +41,7 @@ date:   08/11/2024
     die sich auf Jesus niederlässt. Was bedeutet die Taube? Wie passen
     Taube und Lamm zusammen?
 
-#### **Dienstag: Annahme und Ablehnung**
+#### Dienstag: Annahme und Ablehnung
 
 **Johannes 6,51-56.60.66**
 
@@ -59,7 +59,7 @@ date:   08/11/2024
     dass sie Jesus treu bleiben, auch wenn sie nicht alles recht
     verstehen?
 
-#### **Mittwoch: Das Zeugnis des Vaters & Donnerstag: Das Zeugnis der Menge**
+#### Mittwoch: Das Zeugnis des Vaters & Donnerstag: Das Zeugnis der Menge
 
 **Johannes 5,36-38**
 
@@ -92,4 +92,4 @@ date:   08/11/2024
 -   Vers 46: Was machte Jesu Rede so einzigartig
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+https://wiki.sabbatschule.at
