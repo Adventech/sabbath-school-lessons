@@ -15,7 +15,7 @@ date:   13/04/2018
 하신 평내교회 담임목사님의
 도움으로 ‘건강 요리 교실’을 계획할 수 있었습니다.
 
- ![](https://user-images.githubusercontent.com/10376491/39669904-45536284-50be-11e8-8c76-f24c9846dca1.png)
+ ![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-02/assets/1a94823d375599ba8af64ae2b4e01fab63290226c816e35c5f511c7f51f3a045.png)
 
 우리는 이 일을 하면서 종교색을 드러내지 않기로 했습니다. 우리는 말씀에서 배
 운 사랑과 친절로 이웃과 교제하며 그들의 건강과 행복을 기원했습니다.

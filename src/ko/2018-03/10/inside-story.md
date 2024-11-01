@@ -26,7 +26,7 @@ date:   07/09/2018
 
 _호남합회 강진교회 제공_
 
-![](https://user-images.githubusercontent.com/10376491/44942762-c953d880-ad7e-11e8-8344-dee18fe9d43f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/570edcddb321cac191a4240b094ab9d40c7e7d30c0f184f7e78e8671c4c72b92.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/44942764-ce188c80-ad7e-11e8-91e3-3f3348c99f30.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/09ceb526ba26b950c5456d18b736fa6e20d6665bf9c869a1c98f7e4cd239e862.jpg)

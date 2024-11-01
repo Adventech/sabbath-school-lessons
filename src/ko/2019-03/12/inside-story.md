@@ -29,7 +29,7 @@ date:   20/09/2019
 <p style="text-align:right">충청합회 기지시교회 담임목사 <b>김준환</b></p>
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/64807800-9892ab80-d55b-11e9-86f9-9454b14ceae0.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/61b86cd13d28223f35a851d5e16e2b9112c778aeb3f3f4491b219fd0d837f444.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/64807802-9892ab80-d55b-11e9-8314-db7e38e34239.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/f100b84b5a1bbb666fc9a0650d817d9e4754d3cefe1714bb11cb7f575d3fe594.jpg)

@@ -31,10 +31,10 @@ date:   22/03/2019
 영남합회 고성남산교회 담임목사 **김재림**
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/54079778-7ff1c200-42a8-11e9-83b4-d55ed116be6b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/aa203113e3ffc6354c732877f13e8f0cb0bce1e8f7c07accf92109c9fbaf63d9.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/54079776-7ff1c200-42a8-11e9-8081-65ceccad81d7.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/7ac8561715eec409cd18a041ce26ea5aeae3428fdf2f3a0a223e3a5f31fe2c6c.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/54079777-7ff1c200-42a8-11e9-82cf-571bc28c2d3d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/0035f2178d9ccaae04a19772fd263edc3c1ae592320920fdc3401ff2365ab3e7.jpg)

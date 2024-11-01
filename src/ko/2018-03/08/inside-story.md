@@ -21,7 +21,7 @@ date:   24/08/2018
 
 _영남합회 삼천포한빛교회 담임목사 홍철표_
 
-![](https://user-images.githubusercontent.com/10376491/44297256-06ef3680-a294-11e8-8c6f-5eafee19dd33.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/64c583d05775fb5c46940dec66f6b92a129b14c4977fb6bade6d1cead9db87d7.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/44297255-06ef3680-a294-11e8-83d8-0887dd35fa60.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-03/assets/2b85184231ec9789460e3d1b386d575f9e0e76daeca32f5fa12b9b5f038a04ee.jpg)

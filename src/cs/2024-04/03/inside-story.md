@@ -29,5 +29,5 @@ Kulturně citlivá koncepce centra se ukázala být natolik úspěšná, že byl
 
 _Děkujeme vám za vaše dary třinácté soboty, které i nadále přinášejí změnu. Modlete se, aby si je Bůh použil ke zvěstování věčného evangelia všem kmenům, jazykům, lidem a národům._
 
-![Jeff a Terri](picture03.jpg)  
+![Jeff a Terri](https://sabbath-school-resources-assets.adventech.io/cs/ss/2024-04/03/picture03.jpg)  
 Jeff a Terri

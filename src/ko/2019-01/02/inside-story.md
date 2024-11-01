@@ -31,6 +31,6 @@ date:   11/01/2019
 
 캐나다 밴쿠버한인교회 장로 **김귀일**
 
-![](https://user-images.githubusercontent.com/10376491/50731432-e2ec9e80-1129-11e9-8813-7120f64c0595.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/ae6bc9807316fde694a6dc9623e3396c02dcccd9d77788bcfedd318bfd07b847.jpg)
 
-![](https://user-images.githubusercontent.com/10376491/50731433-e4b66200-1129-11e9-8671-b2d2d47841ca.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/452c8fefeb7669abd719df89b2f00950e260ad19689061c7221d11bc24cc15a5.jpg)

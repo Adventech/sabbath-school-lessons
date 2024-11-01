@@ -836,6 +836,10 @@ let processPortOfChangedFiles = async function () {
                     await copyFile(changedFile)
                 }
 
+                if (/^\.?\/?src\/[^\/]+\/[^\/]+\/[^\/]+\/.*?\.(jpg|png|jpeg|mp4|mp3|pdf)$/ig.test(changedFile)) {
+                    await copyFile(changedFile)
+                }
+
                 if (/\.md$/g.test(changedFile)) {
                     await copySegment(changedFile)
                 }

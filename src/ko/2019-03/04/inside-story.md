@@ -33,7 +33,7 @@ date:   26/07/2019
 <p style="text-align:right">호남합회 익산중앙교회 담임목사 <b>정춘열</b></p>
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/61496035-9a3b5b00-a980-11e9-9b6e-f9c74c6d69a3.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/20221620850b68e566d20edd6abbb230717e1399a39bd662a0223111e1651b3e.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/61496040-9c9db500-a980-11e9-88f4-3b6a7e2d5ab1.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/7ba8a53233cfaeecf4718321258d421d3a79a3489aa6a5a05d95f9f059bfedc5.jpg)

@@ -19,7 +19,7 @@ SNS 전도지 감우에는 다음과 같은 전도 자료들이 준비되어 있
 2\. 감우MP3 - 천수답의 새벽묵상, 서라헬의 쉴만한 물가
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/61597045-baf9ef80-abd0-11e9-95f5-486a638ddb03.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-03/assets/fb4a493607f343e5d0167acbd4ebeeaa2c22fc075dcea873c7abc55f47da15f7.jpg)
 <p></p>
 
 3\. 그 밖에도 감우 CARD(카드)와 감우 LETTER(편지)

@@ -49,7 +49,7 @@ date:   01/02/2019
 죽산다사랑교회 부목사 **마동욱**
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/51788966-7aea1080-2149-11e9-8a64-2c7e94708cdc.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/3ad9de4c57312d3c95838d36d04a3a067986bf4b8859f28970886c686536befa.jpg)
 
 <p></p>
-![](https://user-images.githubusercontent.com/10376491/51788967-7aea1080-2149-11e9-9582-77769c0e3531.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-01/assets/170953719b4142116eef054cdac7d8056289ff1ec48ca489584e11d08a20515e.jpg)
