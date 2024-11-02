@@ -9,44 +9,43 @@ date:   20/12/2024
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-## STARTFRAGEN
+### STARTFRAGEN
 
--   -   …
+### SONNTAG – Was ist Wahrheit?
 
-## SONNTAG – Was ist Wahrheit?
-
-'''Joh 18,33-38““
+**Joh 18,33-38**
 
 -   Fragen zum Text:
 -   Fragen zur Botschaft:
 
-## MONTAG – Siehe, der Mensch!
+### MONTAG – Siehe, der Mensch!
 
-'''Joh 18,38-19,5““
+**Joh 18,38-19,5**
 
 -   Fragen zum Text:
 -   Fragen zur Botschaft:
 
-## DIENSTAG – Es ist vollbracht
+### DIENSTAG – Es ist vollbracht
 
 **Joh 19,25-30**
 
 -   Fragen zum Text:
 -   Fragen zur Botschaft:
 
-## MITTWOCH – Das leere Grab
+### MITTWOCH – Das leere Grab
 
-'''Joh 20,1-10‘‘‘
+**Joh 20,1-10**
 
 -   Fragen zum Text:
 -   Fragen zur Botschaft:
 
-## DONNERSTAG – Jesus und Maria
+### DONNERSTAG – Jesus und Maria
 
 **Joh 20,11-18**
 
 -   Fragen zum Text:
 -   Fragen zur Botschaft:
+    -   ..
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
