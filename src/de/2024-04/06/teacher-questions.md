@@ -89,7 +89,7 @@ date:   08/11/2024
     Missverständnisse ungeklärt? Wo ist es für uns sinnvoll,
     Missverständnisse bzw. Unwissen einfach stehen zu lassen – und wo
     müssen wir reden und klarstellen?
--   Vers 46: Was machte Jesu Rede so einzigartig
+-   Vers 46: Was machte Jesu Rede so einzigartig?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at

@@ -62,7 +62,7 @@ date:   29/11/2024
 
 -   Warum werden Menschen laut diesen Texten verurteilt? Was bedeutet
     es, „verurteilt“ zu sein? Siehst du diese Verurteilung als
-    endgültig, oder gibt es noch Hoffnung auf Veränderung
+    endgültig, oder gibt es noch Hoffnung auf Veränderung?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at

@@ -45,7 +45,6 @@ date:   20/12/2024
 
 -   Fragen zum Text:
 -   Fragen zur Botschaft:
-    -   ..
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at

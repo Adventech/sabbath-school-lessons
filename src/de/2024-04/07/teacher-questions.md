@@ -69,7 +69,7 @@ date:   15/11/2024
     -   Wie muss unser Zeugnis aussehen, damit wir in Menschen den
         Glauben entfachen können?
     -   Was habt ihr mit Jesus Christus erlebt? Wie könntet ihr das als
-        Zeugnis formulieren
+        Zeugnis formulieren?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
