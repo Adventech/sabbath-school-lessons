@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   23/08/2024
 ---
 
-### **Sonntag: Gottes Plan für die Ehe** {#sonntag_gottes_plan_für_die_ehe}
+### Sonntag: Gottes Plan für die Ehe
 
 **Markus 10,1-9**
 
@@ -16,7 +16,7 @@ date:   23/08/2024
 -   Was kann deine Gemeinde tun, um Ehen zu stärken?
 -   Wie kannst du denjenigen helfen, deren Ehe bereits zerbrochen ist?
 
-### **Montag: Jesus und die Kinder** {#montag_jesus_und_die_kinder}
+### Montag: Jesus und die Kinder
 
 **Markus 10,13-16**
 
@@ -27,7 +27,7 @@ date:   23/08/2024
 -   Wie kannst du den Kindern, mit denen du in Kontakt kommst, Jesus
     besser zeigen?
 
-### **Dienstag: Die beste Investition** {#dienstag_die_beste_investition}
+### Dienstag: Die beste Investition
 
 **Markus 10,17-21**
 
@@ -46,7 +46,7 @@ date:   23/08/2024
     gläubige Christen, ob reich oder arm, bedachtsam in ihrem Umgang mit
     Geld sein?"
 
-### **Mittwoch: Könnt ihr meinen Kelch trinken?** {#mittwoch_könnt_ihr_meinen_kelch_trinken}
+### Mittwoch: Könnt ihr meinen Kelch trinken?
 
 **Markus 10,35-45**
 
@@ -58,7 +58,7 @@ date:   23/08/2024
 -   Wie kann das „aller Diener" sein praktisch ausgelebt werden? Hast du
     den Eindruck, dass das in der Gemeinde so gegeben ist?
 
-### **Donnerstag: „Was willst du, dass ich für dich tun soll?"** {#donnerstag_was_willst_du_dass_ich_für_dich_tun_soll}
+### Donnerstag: „Was willst du, dass ich für dich tun soll?"
 
 **Markus 10,51-52**
 
@@ -69,5 +69,4 @@ date:   23/08/2024
     gestaltet, dass er Gebet erwartet, bevor er eingreift -- obwohl er
     doch genau weiß, was wir brauchen (Mt 6,7-8)
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

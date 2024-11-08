@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   05/11/2021
 ---
 
-[Wo ist so ein großes Volk?](https://sabbath-school.adventech.io/de/2021-04/06/01)
+Wo ist so ein großes Volk?
 ==================================================================================
 
 II: Wir studieren die Bibel
@@ -73,9 +73,5 @@ Abschnitt in seiner Rede hin.
 -   Lies 5. Mose 4,9: Wie können wir Glaubenswissen und Erfahrungen das
     “ganze Leben lang” im Herzen bewahren und ansammeln?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

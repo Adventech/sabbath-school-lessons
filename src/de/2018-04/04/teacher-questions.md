@@ -62,8 +62,6 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Welche praktischen Gedanken können wir aus diesen Versen ableiten,
     wie wir unserer Berufung würdig leben?
 
-<!-- -->
-
 -   Inwiefern trägt das alles zur Einheit bei?
 
 **Epheser 4,4-6**
@@ -99,8 +97,6 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Was versteht ihr unter gegenseitiger Unterordnung in der Gemeinde?
     -   Welche Rolle spielt sie beim Thema Einheit?
 
-<!-- -->
-
 -   Anmerkung d. Editors: Die Lektion bringt Vers 21 mit den Versen
     15-20 in Zusammenhang, während die meisten Bibeln den nächsten
     Abschnitt ("Die christliche Haustafel") mit Vers 21 beginnen lassen.
@@ -132,6 +128,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

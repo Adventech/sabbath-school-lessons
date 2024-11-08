@@ -3,5 +3,5 @@ title:  Inside Story
 date:   01/09/2023
 ---
 
-### <center>Turacyari gukora aya migisho</center>
+### Turacyari gukora aya migisho
 <center>Muze kugaruka nyuma, Murakoze kwihangana.</center>

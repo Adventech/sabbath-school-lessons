@@ -21,11 +21,11 @@ In der letzten der Siebener-Reihen lässt der siebte Engel seine Posaune erschal
 
 Die Kerze der Wahrheit mag geflackert haben, aber sie ist nie erloschen. Es hat immer ein Licht in der Finsternis gegeben. Schließlich wird die ganze Erde von der Herrlichkeit Gottes erhellt werden (Offb 18,1). Der amerikanische Schriftsteller James ­Russell Lowell hat das in seinem Gedicht „The Present Crisis“ [Die gegenwärtige Krise] gut ausgedrückt:
 
-„Wahrheit für immer auf dem Schafott,<b>
-Falschheit für immer auf dem Thron.<b>
-Doch dieses Schafott beeinflusst die Zukunft,<b>
-und hinter dem dunklen Unbekannten,<b>
-steht Gott im Schatten,<b>
+„Wahrheit für immer auf dem Schafott,\
+Falschheit für immer auf dem Thron.\
+Doch dieses Schafott beeinflusst die Zukunft,\
+und hinter dem dunklen Unbekannten,\
+steht Gott im Schatten,\
 und wacht über die Seinen.“
 
 **Schlüsselvers (Teil 1):** Offenbarung 12,11

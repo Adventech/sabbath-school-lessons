@@ -3,7 +3,7 @@ title: Hope Sabbath School Outline
 date: 31/07/2020
 ---
 
-<center><img src="https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg" /></center>
+![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
 
 ### Outline #5  Spirit-Empowered Witnessing
 

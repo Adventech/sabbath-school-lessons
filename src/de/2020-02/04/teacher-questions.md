@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   24/04/2020
 ---
 
-[Die Bibel – die normgebende Quelle unserer Theologie](https://sabbath-school.adventech.io/de/2020-02/04/01)
+Die Bibel – die normgebende Quelle unserer Theologie
 ============================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -116,7 +107,7 @@ und höchste Autorität in Fragen des Glaubens und Lebens?
 -   Ohne Vorurteil und vorgefasste Meinung zu einem wahren
     Bibelverständnis finden!
 
-### **[Tradition](https://sabbath-school.adventech.io/de/2020-02/04/tradition/)**
+### Tradition
 
 **Text Mk 7,1-13**
 
@@ -130,7 +121,7 @@ und höchste Autorität in Fragen des Glaubens und Lebens?
     -   Welche Tradition in unserer Gemeinde sind uns wichtig und
         **richtig**?
 
-### **[Erfahrung](https://sabbath-school.adventech.io/de/2020-02/04/eifers%C3%BCchtig/)**
+### Erfahrung
 
 **Text Mk 12,28-31**
 
@@ -146,11 +137,5 @@ und höchste Autorität in Fragen des Glaubens und Lebens?
     -   Wie kann eine Erfahrung mit Gott ein Fluch sein?
     -   Wie kann man den Unterschied erkennen?
 
-==='''\[<https://sabbath-school.adventech.io/de/2020->
-
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

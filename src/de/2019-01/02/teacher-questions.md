@@ -6,7 +6,7 @@ date:   12/01/2019
 **Zwischen den Leuchtern**
 ==========================
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Wann hast du das erste Mal von dem Buch der Offenbarung gehört?
     Welche Eindrücke wurden dabei wach? Inwiefern ist die Offenbarung
@@ -108,4 +108,4 @@ date:   12/01/2019
     annehmen, die entsprechenden Werke (das Halten der Gebote) aber
     ablehnen.\]
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

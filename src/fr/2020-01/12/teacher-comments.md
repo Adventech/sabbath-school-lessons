@@ -37,11 +37,11 @@ Les éléments exacts de Daniel 11 où se déroule une transition du pouvoir res
 | --- | --- | --- | --- | --- |
 | **Puissances** | **Daniel 2** | **Daniel 7** | **Daniel 8, 9** | **Daniel 11** |
 | Babylone | Or | Lion | | |
-| Perse | Argent | Ours | Bélier | Perse <br/> (Dan. 11:3) |
-| Grèce | Airain | Léopard | Bouc | Grèce <br/> (Dan. 11:2–4) |
-| **Rome païenne** | **Fer** | **Bête épouvantable** | **Petite corne** <br/> _(Mort du Messie, Dan. 9:25, 26)_ | **Roi du nord** <br/> _(Mort du Messie, Dan. 11:22)_ |
-| **Rome papale** | **Fer** | **Petite corne** <br/> _(Jugement au ciel, Ancien des Jours/Fils de l’Homme Dan. 7:9–14)_ | **Petite corne** _(Le quotidien est enlevé, tamid, Dan. 8:13), purification du sanctuaire céleste/ « temps de la fin », Dan. 8:17)_ | **Petite corne** _(Le quotidien est enlevé, tamid, Dan. 11:31), temps de la fin, Dan. 11:40)_ |
-| **Royaume de Dieu** | **Pierre** | **Royaume donné aux saints du Très-Haut** <br/> _(Dan. 7:27)_ | Disparition de la **Petite Corne** _(Dan. 8:25)_ | **Roi du nord vaincu à la Montagne glorieuse** _(Dan. 11:45)_ |
+| Perse | Argent | Ours | Bélier | Perse (Dan. 11:3) |
+| Grèce | Airain | Léopard | Bouc | Grèce (Dan. 11:2–4) |
+| **Rome païenne** | **Fer** | **Bête épouvantable** | **Petite corne** _(Mort du Messie, Dan. 9:25, 26)_ | **Roi du nord** _(Mort du Messie, Dan. 11:22)_ |
+| **Rome papale** | **Fer** | **Petite corne** _(Jugement au ciel, Ancien des Jours/Fils de l’Homme Dan. 7:9–14)_ | **Petite corne** _(Le quotidien est enlevé, tamid, Dan. 8:13), purification du sanctuaire céleste/ « temps de la fin », Dan. 8:17)_ | **Petite corne** _(Le quotidien est enlevé, tamid, Dan. 11:31), temps de la fin, Dan. 11:40)_ |
+| **Royaume de Dieu** | **Pierre** | **Royaume donné aux saints du Très-Haut** _(Dan. 7:27)_ | Disparition de la **Petite Corne** _(Dan. 8:25)_ | **Roi du nord vaincu à la Montagne glorieuse** _(Dan. 11:45)_ |
 **2. Les évènements finals**
 
 La dernière section (Dan 11:40-45) montre que la longue guerre entre le roi du nord et le roi du sud atteint son apogée à la fin des temps. D’ici là, le roi du nord vainc le roi du sud et lance l’attaque finale sur la montagne de Sion. Étant donné que la plupart des évènements décrits se situent dans l’avenir, leur interprétation demeure provisoire; ainsi, nous devrions éviter tout dogmatisme. Néanmoins, il est possible de délimiter les grandes lignes de la prophétie en appliquant deux principes fondamentaux d’interprétation. Tout d’abord, nous devons comprendre que les évènements prédits dans la prophétie sont dépeints avec un langage et des images dérivés de la réalité de l’Ancien Testament israélien et de ses institutions. Deuxièmement, ces images et ce langage doivent être interprétés comme des symboles des réalités ecclésiologiques universelles en rapport avec le ministère de Christ.

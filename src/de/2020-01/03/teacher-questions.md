@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   17/01/2020
 ---
 
-[Vom Rätsel zur Offenbarung](https://sabbath-school.adventech.io/de/2020-01/03/vom-r%C3%A4tsel-zur-offenbarung/)
+Vom Rätsel zur Offenbarung
 ================================================================================================================
 
 I: Gemeinschaft
@@ -33,7 +33,7 @@ II: Wir studieren die Bibel
 -   Gott offenbart sich und lässt doch auch Fragen offen. Ist das von
     Vorteil? Warum?
 
-### [Die Immanenz Gottes](https://sabbath-school.adventech.io/de/2020-01/03/die-immanenz-gottes/)
+### Die Immanenz Gottes
 
 **Daniel 2,11-16**
 
@@ -47,7 +47,7 @@ II: Wir studieren die Bibel
     -   Inwiefern kümmert sich Gott um jeden Menschen? (selbst wenn er
         den Tempel zerstörte?)
 
-### [Das Gebet](https://sabbath-school.adventech.io/de/2020-01/03/das-gebet/)
+### Das Gebet
 
 **Daniel 2,17-23**
 
@@ -70,7 +70,7 @@ II: Wir studieren die Bibel
     -   Hat Gott auch uns Geheimnisse offenbart? (Erlösung,
         Wiederkunft,…)
 
-### [Das Bild T1](https://sabbath-school.adventech.io/de/2020-01/03/das-bild-teil-1/)
+### Das Bild T1
 
 **Daniel 2,24-49**
 
@@ -87,7 +87,7 @@ II: Wir studieren die Bibel
         bestraft? Was riskierte Daniel mit der Botschaft –(„Babylon
         bleibt nicht ewig!“)?...
 
-### [Das Bild T2](https://sabbath-school.adventech.io/de/2020-01/03/das-bild-teil-2/)
+### Das Bild T2
 
 **Daniel 2 31-49**
 
@@ -101,7 +101,7 @@ II: Wir studieren die Bibel
     -   Wie steht er konkret zu /uns Menschen allgemein? / mir
         persönlich? / meinem Nächsten?
 
-### [Der Stein](https://sabbath-school.adventech.io/de/2020-01/03/der-stein/)
+### Der Stein
 
 **Daniel 2,30-45**
 
@@ -123,16 +123,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

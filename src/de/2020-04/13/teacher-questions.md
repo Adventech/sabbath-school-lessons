@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   25/12/2020
 ---
 
-[Himmel, Erziehung und ewiges Leben](https://sabbath-school.adventech.io/de/2020-04/13/01)
+Himmel, Erziehung und ewiges Leben
 ==========================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -43,7 +32,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Thema der Woche:**
+### Thema der Woche:
 
 Die Studienanleitung dieser Woche beschäftigt sich mit der Frage “was
 die Inspiration über die ultimative Hochschule erzählt”. (Studienheft
@@ -189,9 +178,5 @@ Welche Aufnahmekriterien gelten für die ultimative Hochschule?
             Seite 67 (1898)." Welcher Wert liegt im Nachdenken über das
             Leben Jesu?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -9,7 +9,7 @@ date:   03/05/2024
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### **Persönliche Anmerkungen** {#persönliche_anmerkungen}
+### Persönliche Anmerkungen
 
 Die Bibel ist das Wort Gottes an die Menschen. Da sie eine Offenbarung
 von Gott selbst ist, vermittelt sie den Menschen Einsichten aus einer
@@ -27,13 +27,13 @@ eines historischen Textes nahm den Platz nach der Suche der göttlichen
 Wahrheiten! Doch allein durch das Wort Gottes kann der Weg zu Christus
 gefunden werden.
 
-### **Schlüsselgedanke**
+### Schlüsselgedanke
 
 Allein die Annahme und Vertiefung der Bibel im alltäglichen Leben
 schenkt uns die Verbindung zu Gott, die uns durch die Zeiten der
 Versuchung führen kann.
 
-### **Startfragen**
+### Startfragen
 
 -   Warum ist die Bibel für einen Christen so wichtig?
 -   Welche Rolle spielen christliche Erfahrungsberichte für das
@@ -41,9 +41,9 @@ Versuchung führen kann.
 -   Was bedeutet Erlösung in der Bibel auch angesichts widriger
     Umstände?
 
-### **Tagesabschnitte**
+### Tagesabschnitte
 
-### Sonntag: Allein Gottes Wort {#sonntag_allein_gottes_wort}
+### Sonntag: Allein Gottes Wort
 
 **Psalm 119,103**
 
@@ -64,7 +64,7 @@ Erzählungen beruhte, die erst danach niedergeschrieben wurde.
     -   Welche Bedeutung hatte dieses Nachsinnen über das Wort Gottes
         für uns heute?
 
-### Montag: Gottes Wort weitergeben {#montag_gottes_wort_weitergeben}
+### Montag: Gottes Wort weitergeben
 
 **2. Korinther 4,1-6**
 
@@ -82,7 +82,7 @@ Erzählungen beruhte, die erst danach niedergeschrieben wurde.
         Gottes zu erheben. (VSL 119) Stehen wir heute auch in dieser
         Gefahr?
 
-### Dienstag: Vom Heiligen Geist erleuchtet {#dienstag_vom_heiligen_geist_erleuchtet}
+### Dienstag: Vom Heiligen Geist erleuchtet
 
 **Johannes 16,13**
 
@@ -102,7 +102,7 @@ Erzählungen beruhte, die erst danach niedergeschrieben wurde.
         fortwährend neues Licht auf die Heilige Schrift und ständig
         wurden neue Wahrheiten entdeckt." (VSL 139)
 
-### Mittwoch: Allein Christus ... allein die Gnade {#mittwoch_allein_christus_allein_die_gnade}
+### Mittwoch: Allein Christus ... allein die Gnade
 
 **Epheser 2,8-10**
 
@@ -118,7 +118,7 @@ Erzählungen beruhte, die erst danach niedergeschrieben wurde.
     -   Was bewirkt Gerechtigkeit aus dem Glauben im alltäglichen Leben?
     -   Was bedeutet es, Gottes Kind zu sein?
 
-### Donnerstag: Gehorsam, die Frucht des Glaubens {#donnerstag_gehorsam_die_frucht_des_glaubens}
+### Donnerstag: Gehorsam, die Frucht des Glaubens
 
 **Römer 6,15-18**
 
@@ -130,14 +130,14 @@ Erzählungen beruhte, die erst danach niedergeschrieben wurde.
 -   Fragen zur Botschaft:
     -   Wie zeigt sich biblischer Gehorsam im alltäglichen Leben?
 
-### **Schlussüberlegung**
+### Schlussüberlegung
 
 Einfach zum Nachdenken: „Aus dem verborgenen Gebetskämmerlein kam die
 Kraft, welche in dieser großen Reformation die ganze Welt erschütterte.
 In dieser abgeschiedenen Stille setzten die Diener des Herrn ihre Füße
 auf den Felsen seiner Verheißungen." VSL 193
 
-### **Zitate aus VSL** {#zitate_aus_vsl}
+### Zitate aus VSL
 
 Wenn sich die Feinde auf Gebräuche und Traditionen, auf päpstliche
 Erklärungen oder auf die Autorität des Papstes beriefen, trat Luther
@@ -169,14 +169,4 @@ zurückzugewinnen. Dasselbe Festhalten am Wort Gottes, wie dies zu jener
 Zeit der Krise der Reformation geschah, ist auch heute die einzige
 Hoffnung auf Reform. VSL 189
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/05/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

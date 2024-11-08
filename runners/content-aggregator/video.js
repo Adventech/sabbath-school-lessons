@@ -187,7 +187,6 @@ let englishVideo = async function () {
         "Amazing Facts Study Hour",
         {
             artist: "Amazing Facts Study Hour",
-            thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
@@ -200,7 +199,6 @@ let englishVideo = async function () {
         "Amazing Facts Study Hour",
         {
             artist: "Amazing Facts Study Hour",
-            thumbnail: "https://manna.amazingfacts.org/amazingfacts/website/medialibrary/images/collections/Sabbath-school-study-hour-large.jpg",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {
@@ -908,6 +906,18 @@ let polishVideo = async function () {
         "Głos Nadziei",
         {
             artist: "Głos Nadziei",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/pl/sp/pl-sp-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "pl",
+        "Hope Channel",
+        {
+            artist: "Hope Channel",
             clips: []
         },
         function (targetDate, targetQuarter, year, week) {

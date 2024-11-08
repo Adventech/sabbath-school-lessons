@@ -7,7 +7,8 @@ let metaMarked = require("meta-marked"),
     glob = require("glob"),
     moment = require('moment'),
     axios = require('axios'),
-    core = require('@actions/core');
+    core = require('@actions/core'),
+    path = require('path');
 
 let prNum = false
 
@@ -100,13 +101,23 @@ let validateContent = async function () {
             }
         }
 
+        let prevMarkdownFile = null
+
         for (let markdownFile of markdownFiles) {
             try {
+
                 if (/\d{2}\.md$/.test(markdownFile)) {
-                    validDate.add(1, 'd')
+                    validDate.add(prevMarkdownFile !== path.basename(markdownFile) ? 1 : 7, 'd')
+                    prevMarkdownFile = path.basename(markdownFile)
                 }
 
-                let content = metaMarked(fs.readFileSync(markdownFile, "utf-8"))
+                let c = fs.readFileSync(markdownFile, "utf-8")
+
+                if (c.length > 40000) {
+                    fail(`Potentially very long document over 40k characters: \`${markdownFile}\`.`)
+                }
+
+                let content = metaMarked(c)
 
                 if (!content.meta.title) {
                     fail(`Error in the title field: \`${markdownFile}\`. No title provided`)

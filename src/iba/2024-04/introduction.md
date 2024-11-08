@@ -1,0 +1,23 @@
+### Tema [Batang Randau] Dalam Injil John
+
+Dalam siti kedai di Tehran, ba menua Iran, bisi tikai perdani ari menua Persia ti ngundan gambar kampung tuai. Digaga enggau chukup landik sereta manah, iya ngayanka rampa menua di Switzerland: gunung-gunung, ai terejun, danau ti biru, bukit kampung tebal, enggau langit biru ti betaburka remang.
+
+Orang ke datai ngagai kedai nya ulih ngambi masa meratika tikai nya enggau silik: berapa iti temuku dalam seinchi besegi, bansa kain ti dikena ngaga iya, bansa enselup ti dikena—semua utai ti dikena ngaga tikai perdani nya.
+
+Tauka orang ke datai nya tau fokus ngagai teknik [chara] enggau tema ti meri pemanah gamal ti unik ngagai tikai perdani nya: refleksi langit ba danau nya, tinting gunung ke dilamun seleju, kampung tebal ke gadung sereta di-ias enggau lumut ti bechura gadung tuai. Tema tikai perdani nya ti dichampurka enggau pangan diri udah ngasilka pemanah ti enda ulih disebut enggau jaku senentang siti tempat ba gunung Alps nya.
+
+Sekumbang kuarter tu kitai deka mansik siti agi 'masterpiece' ti digaga chukup manah. Tu ukai asil pengawa pengelandik jari ti nero datas kimis, tauka siti gambar ti dibingkai, tauka siti tikai perdani ti udah ditenun enggau landik. Utai ti deka dipansik kitai nya meh Jaku Allah Taala, baka ti disebut enggau chukup pengelandik dalam Injil John.
+
+Leka jaku semina bisi reti ti betul dalam konteks sida empu. Orang ti deka nemu enggau betul nama utai ti dikejakuka Bup Kudus ke bendar, mesti deka belajarka iya dalam konteks iya empu—iya nya genteran ayat ti berimbai enggau iya, jaku dalam seluruh bab nya, enggau seksyen tauka bagi nya, enggau seluruh mesej tauka ajar Bup Kudus nya empu. Penudi iya, laban seluruh Bup Kudus nya datai ari iring Roh Kudus, genap iti bagi iya patut dipelajarka dalam konteks seluruh iya.
+
+Tuju pelajar kitai dalam kuarter tu iya nya ngambika kitai meretika mesej [ajar] dalam Injil John. Injil tu unik di entara empat iti Injil nya, ti suah fokus perening kitai ngagai randau [interivew] peribadi entara Jesus enggau siku tauka dua iku orang—baka Nathanael, Nikodemus, indu ba telaga, lelaki ke bajung ba letung Betsata, lelaki ti buta ari ada, Lasarus enggau menyadi indu iya, Pilate, Peter, tauka Thomas. Mayuh ari jerita-jerita tu semina bisi di dalam Injil John aja.
+
+Injil John tu meh Jaku Allah Taala ti dikenataika ngagai kitai nengah rasul nya. Sama enggau seluruh Bup Kudus nya, Injil John tu pen datai ari peneka Allah Taala, lalu ukai ari peneka mensia. John nya semina perengka ti sanggup dikena Roh Kudus ngenataika mayuh bengkah tema [batang randau] ti penting amat: baka, Jaku nya (logos), penampak, roti, ai, Roh Kudus, kesatuan, tanda, jaku saksi, enggau nubuatan. Tema-tema tu sama nyungkak sereta nerangka pangan diri dalam seluruh Injil tu.
+
+Dalam belajarka Bup Kudus, pansik kitai suah numpu ngagai reti leka jaku tauka sebagi mit ayat-ayat Bup Kudus. Kitai ngiga reti leka jaku nya dalam dictionary Bup Kudus. Kitai mansik 'grammar' [tatabahasa] iya, konteks ngelingi iya, konteks sejarah iya, lalu ngena sempama kitai pasal tikai perdani tadi—kitai meresa enggau silik berapa iti temuku dalam seinchi persegi, bansa kain ti dikena, bansa enselup ti dikena, enggau dinding belakang iya. Semua penyilik tu beguna magang.
+
+Tang dalam kitai mansik enggau silik, kitai bejimat enggai ka kitai nyau enda tepedaka gambar besai iya. Sama baka tikai perdani Persia nya ulih mai kitai ngagai gambar gunung Alps ti pemadu manah dipeda mata, biar meh Injil John tu mai kitai pulai ngagai pengidup enggau pengawa Jesus Kristus, laban nemu Iya reti nya pengidup meruan ti belama iya. Tiap iti bagi mit ti silik nya endang bisi peranan iya empu, iya nya deka nunjukka kitai ngagai gambar besai nya, lalu dalam John gambar besai nya meh pemandang ti datai ari Allah Taala, pasal Jesus, ti Tuhan enggau Juruselamat kitai.
+
+_E. Edward Zinke, a former associate director for the Biblical Research Institute at the General Conference of Seventh-day Adventists, is involved with many church activities and boards, including vice chair of the Ellen G. White Estate Board and a senior advisor for Adventist Review Ministries. He holds three honorary doctorate degrees from Seventh-day Adventist universities. He lives in Maryland._
+
+_Thomas Shepherd, PhD, DrPH, is senior research professor of New Testament at the Andrews University Seventh-day Adventist Theological Seminary, where he has taught since 2008. He and his wife, Sherry Shepherd, MD, have served as missionaries in Malawi and Brazil. They have two grown children and six grandchildren._

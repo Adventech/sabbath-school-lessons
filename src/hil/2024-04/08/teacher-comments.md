@@ -1,0 +1,70 @@
+---
+title:  Komento ng Guro
+date:   22/11/2024
+---
+
+### Bahin I: Kabilugan nga Panan-aw
+
+Sentro Sang Pagtoon: Juan 8:23
+
+Ang pamatuud nagapadayon sa pagpabakud nahanungud sa pagka-Dios ni Jesus. Sa iya Ebanghelyo, si Juan naghatag sang dugang nga makapakumbinsi nga pamatuud nga si Jesus Sia sono sa Iya ginapangangkon kon sin-o Sia—ang Anak sang Dios, nga ginpadala sa pagluwas sang makasasala nga katawohan. Sa sini nga Ebanghelyo, si Jesus nagapangatarungan sa mga tawo agud nga sila magatolok sa Iya wala madagtaan nga kinaiya, ang Iya diosnon nga mga hinimuan, ang Iya gamhanan nga mga pulong, kag ang Iya milagroso nga mga binuhatan.
+
+Nga natawo bilang unudnon nga Anak sang Dios, si Jesus nagkari sa pagluwas sang sining makasasala nga kalibutan. Sia nangin kaupud sang Amay sadto. Niyan, si Jesus naghambal kag naghimo sang tanan nga butang sono sa kabubut-on sang Amay. Si Cristo amo ang pinakadaku nga dolot sang Dios sa katawohan, kag kon wala ang kaangay nga Dolot, ang kalibutan mapamatbatan. Apang, sing masinulub-on kag indi mapatihan, sa likod sini nga kamatooran, ang kalabanan sa kalibutan, nga Iya gintuga, wala nagtoo sa Iya. Kalakip diri ang Iya kaugalingon nga katawohan. Si Juan naghimo sang sini nga punto sing tama kaathag. Daw ano nga trahedya sa mga tinuga sang Dios, nga gintuga sa Iya kaugalingon nga dagway, nagsikway sang Iya importante kag kinahanglanon gid nga Dolot! Si Jesus “sa kalibutan sia, kag ang kalibutan ginhimo niya, apang ang kalibutan wala makakilala sa iya. Nagkari sia sa iya kaugalingon nga puluy-an, kag ang iya gid katawohan gid wala magbaton sa iya” (Juan 1:10, 11).
+
+Sa sini nga semana, aton pagaton-an ang iban pa nga tagna sa mga Kasulatan nga sing maathag nagapahayag nga Jesus amo ang ginsaad nga Mesias. Dugang pa, kita magausisa sang hantup nga mga detalye kon paano ining mga tagna natuman sing nagakaigo. Halimbawa, kita magalantaw sa katumanan sang tagna sang kon paano si Jesus magasulud sa Jerusalem, nga nagasakay sa asno (Sal. 118:26, Zach. 9:9). Kita man magatolok sa tagna sang gintoton-an nga magasikway sa Iya (Sal. 41:9). Dugang pa, kita magatoon kon ngaa ang iban nga pangulo namat-od sa pagsikway sa Iya samtang, sa makatilingala, ang iban nagpili sa pagtoo sa Iya. Sa katapusan, sa sini nga pasunod, aton pagabinagbinagon ang pamangkot, Ano ang kahulugan sang pag-angkon sang panghunahuna sang kabangdanan nga “halin sa idalum,” sono sa Juan 8:23, batok sa panghunahuna sang kabangdanan halin sa ibabaw?
+
+### Bahin II: Komentaryo
+
+**Ang mga Tagna Sang Daan nga Katipan Nahanungud kay Jesus**
+
+Ang hantup nga katumanan sang madamu nga tagna tuhoy sa Mesias sa kabuhi kag ministerio ni Jesus makapulunaw. Ining mga tagna sa Daan nga Katipan natuman sa indi mapatihan nga kahantup. Ang pinakamatig-a nga mga indi tumuluo kag mga maduhaduhaon ginpakita nga wala sang taming batok sa madamu nga ebidensia. Bisan si Jesus nakahibalo kon daw ano katig-a ang Judio nga mga pangulo, wala Niya sila gin-untatan kag ginpabayaan. Dalayon ang Iya pagpaninguha sa pagpabatyag sang ila matig-a nga mga tagiposoon. Bisan madamu ang wala nagsabat sa Iya, Sia nagpadayon sa paglambot sa ila agud bisan sa pinakamagamay, sila makahibalo nga may manugpahayag sang kamatooran sa tunga nila.
+
+Tama kahapos ang mangin manugtagudili sang Judio nga mga pangulo kag matingala sa ila kakulang sa pagtoo sa ila kaugalingon nga mga Kasulatan nahanungud sa Mesias. Apang ano kuntani ang aton pagahimoon kon kita yara sa amo man nga posisyon, kon ang aton pinakahandum amo ang Judionhon (indi diosnon) nga mandadaug sa tradisyon ni Moises ukon ni David, isa nga magalutos sang Romanhon nga presensya halin sa Israel kag magabungkag sang iya gota? Dumduma, bisan ang mga gintoton-an ni Cristo, ang pinakasuod sa Iya, tama ka hinay ang pagpati sa Iya espirituhanon nga ginharian. Sa pagkamatuud, sa pagkatapos lamang sang Iya pagkabanhaw nga sila sa pagkamatuud nagtoo. (Tan-awa ang Juan 2:22.)
+
+Ang palaligban sa relihiyoso nga mga pangulo amo nga sila nakahibalo sang eksakto nga ginasiling sang kasogoan apang indi ang espiritu. Sa pagkamatuud, sila nakahibalo sang Nasulat nga Pulong apang, sa wala sing kapalaran, indi ang Buhi nga Pulong. Si Jesus nagpamatuud sa sini nga kapaslawan sang Sia nagsiling sa ila: “Ginausisa ninyo ang mga kasulatan, bangud nga nagahunahuna kamo nga sa ila may kabuhi kamo nga walay katapusan; kag ini sila amo ang nagasaksi nahanungud sa akon; apang indi kamo buut magkari sa akon agud nga may kabuhi kamo” (Juan 5:39, 40). Ang dumaan nga tradisyon sang mga Judio nagatudlo nga ang paghibalo lamang sang mga Kasulatan nagagarantiya na sang kabuhi nga walay katapusan. Ini nga pagpati maathag kon ano ang gintudlo ni Hillel, ang bantug nga manunudlo sa una nga siglo B.C. nahanungud sa sini nga topiko. Si Hillel ginkutlo nga nagasiling, “Ang isa nga nakaangkon sa iya kaugalingon sang mga pulong sa Torah, nakaangkon sa iya kaugalingon sang kabuhi sang kalibutan nga magaabut.”—Mishnah Aboth 2. 7, Soncino ed. sang Talmud, p. 17. (Ginkutlo sa SDA Bible Commentary, tom. 5, p. 955.)
+
+Niyan, ang Judio nga mga pangulo nangin nasalimuang na sa mga pulong sang Kasulatan nga ila napabayaan ang tagiposoon sini—si Jesus. Ang mga pangulo nagtal-us sang hapaw nga kaalam para sa pagbag-o liwat sang tagiposoon. Ang pag-usisa sang mga Kasulatan, kaangay sang ila ginhimo, indi sala sa kinaugalingon, apang nagpugong ini sa ila sa paglantaw sang mas madalum nga kahulugan sang misyon ni Cristo kag sang Iya ginatanyag nga kaluwasan.
+
+Ang pinadala nga si Pablo nagalanog sa mga pulong ni Cristo para sa mga pangulo, sang sia nagasulat nga ang “nasulat nga kasogoan nagapatay, apang ang Espiritu nagahatag sing kabuhi” (2 Cor. 3:6). Ang paghatag sang pagtalupangud sa mga nasulat, nga wala sang Espiritu, nagadul-ong sa pagkalegalista kag pagkasalimpapaw, nga nagaresulta sa pagpaanggid sang kaugalingon sa iban sa baylo nga magtolok kay Jesus, ang Pangulo kag Manughimpit sang aton pagtoo.
+
+Ang mga pangulo sang Judio nangangkon nga sila nagapati kay Moises, ang ila pinakaginatahud nga manalagna, apang wala sila nagatoo sa diosnon nga “Manalagna” nga gintagna ni Moises nga magaabut. Sa iya pagtaliwan, si Moises nagsaad sa mga katawohan, “Ang Ginoo nga imo Dios magabangon sa imo sing manalagna kaangay sa akon gikan sa tunga nimo, gikan sa imo mga utud—sa iya magpamati kamo” (Deut. 18:15). Si Jesus nagpahanumdum sa Judio nga mga pangulo nga si Moises, nga ila ginakahamut-an gid, nagtoo sa Iya kag sa Iya palaabuton nga misyon. Apang, bisan ang ini nga ginsaad natuman na sa atubangan nila, sila nagpamalibad sa pagpati. Si Jesus nagpakigbais sa ila: “Kay kon nagtoo kamo kay Moises, magatoo kamo sa akon, kay nagsulat sia nahanungud sa akon” (Juan 5:46).
+
+Ang natuman nga mga tagna nahanungud sa Mesias, nga sa masami nagapakig-angot sa tawohanon nga relasyon, nagapahayag sing tuman nahanungud sa kinaiya ni Cristo. Aton binagbinagon ang duha ka huwaran. Ang una nga tagna makita sa Salmo 41:9, sa diin nagatagna, “Ang akon kaugalingon nga hanuut nga abyan nga akon ginsaligan, nga nagkaon sa akon kalan-on nagbayaw sang iya tikod batok sa akon.” Si Jesus nag-aplikar sang tagna sa Iya kaugalingon, bilang isa nga ginsikway sang abyan: “Ako wala nagapamolong nahanungud sa inyo tanan; ako nakakilala sang akon ginpili; apang agud nga matuman ang kasulatan, ‘Ang nagakaon sang akon tinapay nagbayaw sang iya tikod batok sa Akon’ ” (Juan 13:18).
+
+Sa Natung-an nga Nakatungdan nga kultura tubtub subong, ang pagpakigbahin sang pagkaon sa iban isa ka pinasahi nga buhat sang pagkahapiit nga nagahatag sang emosyonal kag espirituhanon nga pagkasuod sa relasyon. Niyan, ang paglimbong sang isa sa isa sa diin ang pagkaon ginpakigbahinan isa ka tanda sang pagluib. Si Jesus nakig-upud kay Judas sa sulud sang tatlo kag tunga ka tuig, indi lamang sa pagkaon kondi sa pagpatawad kag pagpadasig sa iya. Sa sini nga tion, ginpangamligan ni Jesus ang reputasyon ni Judas. Bisan si Jesus may nagakaigo nga katarungan sa paghimo sini, wala Niya ginpadayag si Judas sa publiko bilang kawatan. Bilang balus, ginbaligya ni Judas si Jesus sa bili nga 30 ka siclo, ang bili sang isa ka ulipon. Niyan, sa gab-i sang pagkadakup sang Manluluwas, si Judas nagpalapit kay Jesus kag naghaluk sa Iya. Walay sapayan sang sining maluibon nga pagtraidor, si Jesus sa pagkamatuud nagtawag kay Judas nga “abyan.” Si Jesus nagsiling sa iya, “Abyan, ngaa bala yari ka?” (Mat. 26:50).
+
+Para sa ikaduha nga ehemplo sang natuman nga tagna nga nagpahayag sang kinaiya ni Cristo, aton pagahatagan sang pagtamud ang Zacarias 13:6. Ini nga bersikulo nagahambal nahanungud sa mga pilas nga nabaton ni Jesus tungud sa Iya pagkalansang. Ang Iya nga kiliran ginhandus, kag ang Iya mga kamut ginpilas. Si Zacarias nagsugid sa sini nga bersikulo nga si Jesus magabaton sang sini nga mga pilas sa balay sang Iya mga abyan. Paagi sa pagpahangup, si Jesus nagatumod sa Iya puno nga manugluib bilang Iya abyan kag sa Iya mabangis nga mga manuglansang sa tunga sang mga pangulo nga Judio bilang Iya mga abyan! Niyan, ang putli kag inosente nga pagpaagay sang dugo ni Cristo wala nagasinggit sa pagtimalus batok sa nag-usik sini. Ang Iya napilas nga mga kamut wala nakuom sa kaakig; sila nauntay sa paghakus sang tanan sa gugma kag pagpasag-uli.
+
+**Halin sa Idalum** (Juan 8:23)
+
+Ang halos sinulatan ni Juan sa kapitulo 8 nagatumod kay Jesus bilang talahuron kag langitnon nga Anak sang Dios, ginpadala sang Iya langitnon nga Amay sa pagbulig sang walay paglaum nga mga dutan-on. Ang tanan nga ginpanghambal ni Jesus nahanungud sa langitnon. Sia amo ang langitnon nga kapawa nga nag-iwag sa kalibutan nga nadulman sang sala. Ang Amay nagdala sang saksi nga Sia nagpadala sang Iya Anak halin sa mataas agud mangin matuud nga Saksi sang kamatooran. Ang tanan nga dolot nga mahatag sang Langit sa aton sa persona ni Jesus napaanggid sa dutan-on nga mga butang sang ang Manluluwas naghambal sa Judio nga mga pangulo, “Kamo gikan sa idalum; ako gikan sa ibabaw; kamo iya sining kalibutan; ako indi iya sining kalibutan” (Juan 8:23).
+
+Ang “halin sa idalum” nagapahangup nga ang mga pangulo tama ka dutan-on ang panghunahuna nga ang mag-angkon sang langitnon nga hunahuna indi gid mahimo. Sila natapik sa ila mga tradisyon kag nabulag sang ila makitid kag nasentro-sa-kaugalingon nga mga pilosopiya nga ila ginpili ining kalibutan kag kamatayon, kag ginpamalibaran ang langit kag ang sigurado nga kabuhi kay Jesus. Si Pablo sing nagakaigo naglaragway sang amo nga klase sang nagapangangkon nga mga sumulunod nga may “diosnon nga dagway,” apang wala sang bisan ano nga diosnon nga unud. Ila gintal-usan ang gowa nga kabalaan para sa sulud nga kaputlian. (Tan-awa ang 2 Tim. 3:5.)
+
+Sa wala ginapaabut, si Juan nagasugid sa aton nga “madamu ang nagtoo sa Iya” (Juan 8:30). Ini nga pahayag may daku nga leksyon para sa aton kon ang mga butang daw wala na sang paglaum, kag madamu ang wala sang pagtoo: ang kapawa magadaug bisan sa tion sang kadulum. Si Jesus nagwali sang kamatooran walay sapayan sang pagbaton ukon pagsikway sang katawohan. Kita magahimo sang amo man, bisan sa makapaluya nga mga kahimtangan.
+
+Ang pagbalewala sang relihiyoso nga mga pangulo sa kamatooran nagdul-ong sa ila sa hungud nga pagtakop sang ila mga mata kag pagbulag sang ila mga tagiposoon batok sini agud nga indi nila makita ang kapawa halin sa langit. Kon sila lang nagbukas sang ila mga hunahuna kay Jesus, sila kuntani nagtoo. Apang ang yadtong buhat magapahug sang ila una nga mga ginapatihan. Kabay nga handa kita permi sa pagbukas sang aton mga tagiposoon kag mga hunahuna sa kamatooran, bangud sono sa ginsiling ni Jesus, “Kamo makakilala sang kamatooran, kag ang kamatooran magahilway sa inyo” (Juan 8:32).
+
+### Bahin III: Aplikasyon sa Kabuhi
+
+Hunahunaa kag sabta ang masunod nga mga pamangkot:
+
+Kabiga kon paano ang kabuhi ni Jesus himpit nga pagpahayag sang Iya Amay. Si Jesus sa masami nagahambal nahanungud sa Iya Amay kag ang hapiit nga relasyon nila sing tingub. Sa isa ka punto, si Felipe namangkot sa iya Agalon sa pagpahayag sa Amay sa mga gintoton-an. Si Jesus nagsabat, “Kadugay na sa akon kaupud ninyo, kag wala ka makakilala sa akon, Felipe? Ang nakakita sa akon nakakita sa Amay; paano nga nagasiling ka, ‘Ipakita sa amon ang Amay’ ” (Juan 14:9). Sa adlawadlaw nga pagkabuhi, paano ang paglantaw sa Amay kay Jesus magaepekto sang imo pagkabuhi, kag ano nga kinalain ang mahimo sang sina nga paghangup?
+
+` `
+
+Indi bala makabalaka, bisan makakulugmat pa, kon kita, kaangay sa relihiyoso nga mga pangulo, magaatubang sa simple nga kamatooran halin sa Biblia kag niyan sing hungud magapalayo sa sini? Ano ang papel sang bugal sa aton paglapas sang aton konsiensya kag magaliso sa aton palayo sa kamatooran? Paano makabulig ang Balaan nga Espiritu sa pagpahigad sang aton bugalon nga mga opinyon kag mangin mahapos tudloan?
+
+` `
+
+Ang bisan ano nga nagaagaw sang pag-una ni Jesus sa aton kabuhi mahimo, sa kamatooran, nga diosdios. Nga makahaladluk hunahunaon, kon indi kita mahinalungon, bisan ang aton trabaho para sa Iya magaagaw sang Iya lugar sa aton mga kabuhi. Ang pagtoon sa Biblia sarang man makakuha sang lugar ni Jesus. Pamalandungi ining solemne nga dinalan kag ano ang imo himoon: “Samtang ang mga buluhaton nagadugang kag ang mga tawo nangin madinalag-on sa paghimo sang buluhaton para sa Dios, may katalagman sa pagsalig sa tawohanon nga mga pahito kag mga pamaagi. . . . Kaangay sa mga gintoton-an, yara kita sa katalagman nga madula sa aton panulok ang aton pagsalig sa Dios, kag nagapangita sa paghimo nga manluluwas sang aton buluhaton.”—Ellen G. White, _The Desire of Ages_, p. 362.
+
+` `
+
+Ano ang buut ipahangup sang “halin sa idalum” nga mentalidad? Kon kaisa bala nagakaanud kita sa sina nga hunahuna? Ngaa?
+
+` `
+
+Madamu ang nagtoo kay Jesus (Juan 8:30), bisan nagapalibut ang walay pagtoo sa ila. Paano ining kamatooran magapadasig sa aton nga indi mag-untat sa katawohan nga daw nagapamugong sa pagbaton sang kapawa sang kamatooran sang Dios?
+
+` `

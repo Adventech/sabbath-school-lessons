@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   12/11/2021
 ---
 
-[Gesetz und Gnade](https://sabbath-school.adventech.io/de/2021-04/07/01)
+Gesetz und Gnade
 ========================================================================
 
 II: Wir studieren die Bibel
@@ -77,9 +77,5 @@ II: Wir studieren die Bibel
 -   Wenn uns das Gesetz nicht erlösen kann, warum es dennoch halten?
 -   Was motiviert euch, Gottes Gesetz zu halten?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

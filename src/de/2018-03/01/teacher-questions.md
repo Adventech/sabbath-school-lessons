@@ -114,4 +114,4 @@ unseres Auftrags, Jünger zu machen.
 
 -   Wie möchtest du in der kommenden Woche Jesu Zeuge sein?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

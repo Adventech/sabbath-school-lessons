@@ -9,7 +9,7 @@ date:   01/03/2024
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-#### **Startfragen**
+#### Startfragen
 
 -   In dieser Lektion geht es um die messianischen Weissagungen in den
     Psalmen. Die Psalmen sind Gebete, die Christi gebetet hat, aber auch
@@ -20,7 +20,7 @@ date:   01/03/2024
         spontan ein?
         -   Wie viele dieser Prophezeiungen haben sich alle erfüllt?
 
-#### **Göttlicher, sich selbst opfernder Hirte** {#göttlicher_sich_selbst_opfernder_hirte}
+#### Göttlicher, sich selbst opfernder Hirte
 
 -   In den Psalmen wird Gott häufig mit einem Hirten verglichen (Ps 23;
     28,9; 80,2; 78,52-53; 79,13; 100,3)
@@ -32,7 +32,7 @@ date:   01/03/2024
     -   Was bedeutet dies für die Beziehung zw. Gott und seinem Volk?
     -   Wo habt ihr diese Aspekte persönlich schon erlebt?
 
-#### **Der leidende Messias** {#der_leidende_messias}
+#### Der leidende Messias
 
 -   Lest Psalm 118,22-23; Mt 21,42-43
     -   Welches Detail wird in den Psalmen über den Messias
@@ -47,7 +47,7 @@ date:   01/03/2024
     -   Wie würdet ihr das, was Jesus getan hat, jemandem erklären, der
         Jesus noch nicht kennt?
 
-#### **Ewig seinem Bund treu** {#ewig_seinem_bund_treu}
+#### Ewig seinem Bund treu
 
 -   In einigen Psalmen wird die Bundestreue Gottes beschrieben (Ps 2;
     38; 74; 89; 132)
@@ -70,7 +70,7 @@ date:   01/03/2024
     -   Was bedeutet es euch, dass Jesus ganz Gott (und ganz Mensch)
         war?
 
-#### **Ewiger König von unübertroffener Macht** {#ewiger_könig_von_unübertroffener_macht}
+#### Ewiger König von unübertroffener Macht
 
 -   Die Psalmen beschreiben Details über Jesus Christus als ewiger König
     (Ps 2; 89; 110)
@@ -83,7 +83,7 @@ date:   01/03/2024
     -   Welchen Trost, welche Hoffnung schöpft ihr daraus, dass Jesus
         jetzt als König regiert?
 
-#### **Ewiger Priester nach der Ordnung Melchisedeks** {#ewiger_priester_nach_der_ordnung_melchisedeks}
+#### Ewiger Priester nach der Ordnung Melchisedeks
 
 -   Lest Psalm 110,4
     -   Was ist hier mit \"nach der Weise Melchisedeks\" gemeint? (vgl.
@@ -98,14 +98,4 @@ date:   01/03/2024
     -   Lest Mt 28,18: Wie können wir diese Verheißung auf unseren
         Alltag anwenden?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/09/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

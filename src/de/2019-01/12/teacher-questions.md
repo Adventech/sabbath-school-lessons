@@ -86,8 +86,6 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
     -   Welche Bedeutung hatte in diesem Zusammenhang der siebente Berg
         für das Volk Gottes?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Mit welcher Haltung nähern wir uns Gott, wenn wir ihn um
         Weisheit und Verstehen bitten?
@@ -112,4 +110,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

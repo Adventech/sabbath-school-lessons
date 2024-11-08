@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   06/11/2020
 ---
 
-[**Weitere Lektionen vom Meisterlehrer**](https://sabbath-school.adventech.io/de/2020-04/06/01)
+**Weitere Lektionen vom Meisterlehrer**
 ===============================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -43,13 +32,13 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Hast du schon mal einen Fehler gemacht, wegen dem du dich versteckt
     hast?
 -   Woher kommt das Gefühl der Scham? Wie kann man es wieder loswerden?
 
-### **Statt sich zu verstecken**
+### Statt sich zu verstecken
 
 **1. Mose 3,6-12**
 
@@ -68,7 +57,7 @@ II: Wir studieren die Bibel
     weitergeben? Wie kann man den Glauben stärken, dass Vergebung
     wirklich möglich ist (bei Gott und Menschen)?
 
-### **Auf der Flucht**
+### Auf der Flucht
 
 **1. Mose 28,10-13**
 
@@ -82,7 +71,7 @@ II: Wir studieren die Bibel
 -   Wie können wir erkennen, wann Gnade das richtige Mittel ist, um zur
     Buße zu führen (vgl. Römer 2,4) – und wann Strafe nötig ist?
 
-### **Rabbi Jesus**
+### Rabbi Jesus
 
 **Johannes 1,1-3.14**
 
@@ -93,7 +82,7 @@ II: Wir studieren die Bibel
 -   Welche Predigt, welche Lehre oder welches Ereignis im Leben Jesu hat
     dich am stärksten geprägt und verändert? Weshalb gerade das?
 
-### **Eine Frau gibt Widerworte**
+### Eine Frau gibt Widerworte
 
 **Matthäus 15,21-28**
 
@@ -112,7 +101,7 @@ II: Wir studieren die Bibel
     Wunsch erfüllt wird?
 -   Wie lehrt man Wertschätzung?
 
-### **Ein Schüler, der versteht**
+### Ein Schüler, der versteht
 
 **Markus 10,46-52**
 
@@ -141,9 +130,5 @@ II: Wir studieren die Bibel
     bewirkt? Wie erlangt man als Lehrer tiefe Überzeugungs- und
     Bekehrungskraft?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

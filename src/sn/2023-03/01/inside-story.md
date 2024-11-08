@@ -3,5 +3,5 @@ title:  Inside Story
 date:   30/06/2023
 ---
 
-### <center>Tiri kugadzirisa chidzidzo ichi</center>
+### Tiri kugadzirisa chidzidzo ichi
 <center>Dzokai gare gare</center>

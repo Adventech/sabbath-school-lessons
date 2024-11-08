@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   12/03/2021
 ---
 
-[Das Undenkbare tun](https://sabbath-school.adventech.io/de/2021-01/10/01)
+Das Undenkbare tun
 ==========================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,12 +25,7 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
     Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
@@ -40,7 +35,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### [Jesajas Prüfstein](https://sabbath-school.adventech.io/de/2021-01/10/jesajas-pr%C3%BCfstein-jes-50410/)
+### Jesajas Prüfstein
 
 **Jesaja 50,4-10**
 
@@ -53,7 +48,7 @@ II: Wir studieren die Bibel
     bis all diese Ereignisse einzeln bei einem Menschen eingetreten
     sind? Begründet eure Antworten!
 
-### [Das Lied vom Gottesknecht](https://sabbath-school.adventech.io/de/2021-01/10/das-lied-vom-gottesknecht-jes-52135312/)
+### Das Lied vom Gottesknecht
 
 **Jesaja 52,13-15 und Jesaja 53,1-12**
 
@@ -73,7 +68,7 @@ II: Wir studieren die Bibel
     dieser Betrachtung gibt einen Teil des Aufwandes Gottes in diesem
     Zusammenhang wider.)
 
-### [Wer hat geglaubt?](https://sabbath-school.adventech.io/de/2021-01/10/wer-hat-geglaubt-jes-52135312/)
+### Wer hat geglaubt?
 
 **Vergleiche Jesaja 52,13 und Jesaja 53,1 mit den Lebenserfahrungen
 Hiobs (Hiob 1 + Hiob 2).**
@@ -96,7 +91,7 @@ Hiobs (Hiob 1 + Hiob 2).**
     schuldlos werden können, wozu empfinden dann manche von uns gerade
     in diesem Zusammenhang Ängste?)
 
-### [Die Unerreichbaren sind wir!](https://sabbath-school.adventech.io/de/2021-01/10/die-unerreichbaren-sind-wir-jes-5339/)
+### Die Unerreichbaren sind wir!
 
 **Jesaja 53,2-3**
 
@@ -124,7 +119,7 @@ Hiobs (Hiob 1 + Hiob 2).**
     bringen! Hier gegebenenfalls den Übergang zum Donnerstagsabschnitt
     einleiten - Verse 10 bis 12.)
 
-### [Ein veränderndes Wiedergutmachungsopfer](https://sabbath-school.adventech.io/de/2021-01/10/ein-ver%C3%A4nderndes-wiedergutmachungsopfer-jes-531012/)
+### Ein veränderndes Wiedergutmachungsopfer
 
 **Jesaja 53,11"**
 
@@ -152,9 +147,5 @@ Hiobs (Hiob 1 + Hiob 2).**
     das auf die Beziehung zu unseren Mitmenschen auswirken? Wie kann
     sich das auf den eigenen inneren Frieden (Ruhe) auswirken?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

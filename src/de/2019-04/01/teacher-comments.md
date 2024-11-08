@@ -68,7 +68,7 @@ Die folgende Tabelle führt die persischen Könige und die Gruppen auf, die unte
 | Kambyses II. | 530–522 v. Chr. | --- | --- |
 | Darius I. | 522–486 v. Chr. | --- | März 515 v. Chr.: Tempel fertiggestellt und geweiht |
 | Xerxes I. (Ahasveros) | 486–465 v. Chr. | Esther heiratet Xerxes I. und wird Königin | Widerstand gegen den Wiederaufbau Jerusalems |
-| Artaxerxes I. | 465–425 v. Chr. | 457 v. Chr.: Esra kehrt mit der zweiten Gruppe zurück <br> 445/444 v. Chr.: Nehemia kehrt mit der dritten Gruppe zurück | Der längste prophetische Zeitabschnitt beginnt (Dan 8,14; 9,24–27) <br> Widerstand gegen den Aufbau Jerusalems (Esr 4,7–23) <br> Wiederaufbau der Stadtmauer Jerusalems |
+| Artaxerxes I. | 465–425 v. Chr. | 457 v. Chr.: Esra kehrt mit der zweiten Gruppe zurück  445/444 v. Chr.: Nehemia kehrt mit der dritten Gruppe zurück | Der längste prophetische Zeitabschnitt beginnt (Dan 8,14; 9,24–27) Widerstand gegen den Aufbau Jerusalems (Esr 4,7–23) Wiederaufbau der Stadtmauer Jerusalems |
 
 **Erste Rückkehr (537/536 v. Chr.)**
 

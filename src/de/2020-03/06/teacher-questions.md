@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   07/08/2020
 ---
 
-[Unbegrenzte Möglichkeiten](https://sabbath-school.adventech.io/de/2020-03/06/01)
+Unbegrenzte Möglichkeiten
 =================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -33,7 +33,7 @@ wollen uns helfen, am Thema zu arbeiten.
 **Wochenthema: JEDER wird durch den Heiligen Geist befähigt und mit
 Gaben ausgestattet seiner Gemeinde und der Welt zu dienen.**
 
-#### **[Unterschiedliche Gaben, gemeinsamer Dienst](https://sabbath-school.adventech.io/de/2020-03/06/unterschiedliche-gaben-gemeinsamer-dienst/)**
+#### Unterschiedliche Gaben, gemeinsamer Dienst
 
 Wir sind nicht nur unterschiedliche Persönlichkeiten, sondern erhalten
 von Gott auch unterschiedliche Gaben, werden jedoch durch die Liebe
@@ -60,7 +60,7 @@ Christi verbunden, um gemeinsam etwas für die Ewigkeit zu bewirken.
     -   Wie setzt Gott unsere Unterschiedlichkeit zum Segen für uns und
         unsere Mitmenschen ein?
 
-#### **[Gott, der Geber aller guten Gaben](https://sabbath-school.adventech.io/de/2020-03/06/gott-der-geber-aller-guten-gaben/)**
+#### Gott, der Geber aller guten Gaben
 
 Bei der Taufe empfängt jeder den Heiligen Geist und wird mit Gaben für
 seinen Dienst ausgestattet.
@@ -80,8 +80,6 @@ seinen Dienst ausgestattet.
         -   Wie habt ihr das erlebt und inwieweit könnt ihr dieser
             Aussage zustimmen?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Wir lesen Apostelgeschichte 2,38
         -   In welchem Zusammenhang stehen, Buße, Taufe und Heiliger
@@ -91,7 +89,7 @@ seinen Dienst ausgestattet.
             -   Wie können wir die Gegenwart des Heiligen Geistes und
                 das Erleben seiner Gaben in unserem leben fördern?
 
-#### **[Der Zweck der geistlichen Gaben](https://sabbath-school.adventech.io/de/2020-03/06/der-zweck-der-geistlichen-gaben/)**
+#### Der Zweck der geistlichen Gaben
 
 Gaben, Gaben, Gaben! So viele Möglichkeiten!
 
@@ -113,13 +111,9 @@ Gaben, Gaben, Gaben! So viele Möglichkeiten!
         -   Wie könnt ihr andere dazu ermutigen, ihre Talente und
             Fähigkeiten für Gott und ihre Mitmenschen einzusetzen?
 
-#### **[Deine Gaben entdecken](https://sabbath-school.adventech.io/de/2020-03/06/deine-gaben-entdecken/)**
+#### Deine Gaben entdecken
 
 Persönliche Hingabe und ausdauerndes Bitten öffnen uns für die Gaben Go
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

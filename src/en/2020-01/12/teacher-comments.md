@@ -31,10 +31,10 @@ The exact points in Daniel 11 where a transition of power takes place remain a m
 |Power |Daniel 2 |Daniel 7 |Daniel 8–9 |Daniel 11 |
 |---|---|---|---|---|
 |**Babylon** |**Gold**|**Lion**|||
-|**Persia**|**Silver**|**Bear**|**Ram**|**Persia <br/> (Dan. 11:3)**|
-|**Greece**|**Bronze**|**Leopard**|**Goat**|**Greece** <br/>(Dan. 11:2–4) |
-|**Pagan Rome**|**Iron**|**Dreadful Beast**|**Little Horn**<br/><br/>Death of the Messiah (nagid, Dan. 9:25, 26)|**King of the North**<br/><br/>Death of the Messiah (nagid, Dan. 11:22)|
-|**Papal Rome**|**Iron**|**Little Horn**<br/><br/>Heavenly Judgment (Ancient of Days/Son of Man, Dan. 7: 9–14)|**Little Horn**<br/><br/>The daily is taken away (tamid, Dan. 8:13)<br/><br/>Cleansing of the Heavenly Sanctuary/ “Time of the End” (‘et qets, Dan. 8:17)|**King of the North**<br/><br/>The daily is taken away (tamid, Dan. 11:31)<br/><br/>Time of the End (‘et qets, Dan. 11:40)|
+|**Persia**|**Silver**|**Bear**|**Ram**|**Persia (Dan. 11:3)**|
+|**Greece**|**Bronze**|**Leopard**|**Goat**|**Greece** (Dan. 11:2–4) |
+|**Pagan Rome**|**Iron**|**Dreadful Beast**|**Little Horn** Death of the Messiah (nagid, Dan. 9:25, 26)|**King of the North** Death of the Messiah (nagid, Dan. 11:22)|
+|**Papal Rome**|**Iron**|**Little Horn** Heavenly Judgment (Ancient of Days/Son of Man, Dan. 7: 9–14)|**Little Horn** The daily is taken away (tamid, Dan. 8:13) Cleansing of the Heavenly Sanctuary/ “Time of the End” (‘et qets, Dan. 8:17)|**King of the North** The daily is taken away (tamid, Dan. 11:31) Time of the End (‘et qets, Dan. 11:40)|
 |**Kingdom of God**|**Stone**|**Kingdom** given to the saints of the Most High (Dan. 7:27) |Demise of the **Little Horn** (Dan. 8:25) |**King of the North** defeated at the **Glorious Mountain** (Dan. 11:45)|
 
 

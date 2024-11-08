@@ -6,13 +6,13 @@ date:   20/10/2018
 **Dass sie alle eins seien**
 ============================
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Was muss bei einem Gebet gegeben sein, damit ihr es als ansprechend
     empfindet?
 -   Was ist für Gott entscheidend, damit ein Gebet von ihm erhört wird?
 
-### **Sonntag: Jesus betete für sich selbst**
+### Sonntag: Jesus betete für sich selbst
 
 **Johannes 17,1-5**
 
@@ -29,13 +29,11 @@ date:   20/10/2018
 -   Worauf bezieht sich Vers 5? Kreuzigung, Auferstehung, Himmelfahrt?
     Erkläre! (Beachte auch Joh 12,32.)
 
-### **Montag: Jesus betet für seine Jünger**
+### Montag: Jesus betet für seine Jünger
 
 **Johannes 17,9-19**
 
 -   V.10: Inwiefern ist Jesus in uns verherrlicht?
-
-<!-- -->
 
 -   V.12: Hatte Judas (k)eine Wahl, da doch die Heilige Schrift den
     Verrat vorhersagte?
@@ -49,7 +47,7 @@ date:   20/10/2018
 -   V.15: Wie weit dürfen wir uns aus der Welt zurückziehen, wenn Jesus
     doch entschied, uns nicht aus der Welt zu nehmen?
 
-### **Dienstag: Für die, die an mich glauben werden**
+### Dienstag: Für die, die an mich glauben werden
 
 **Johannes 17,20-26**
 
@@ -68,7 +66,7 @@ date:   20/10/2018
 -   Ist es möglich, dass zwei bekehrte, geheiligte Menschen streiten?
     Erkläre!
 
-### **Mittwoch: Einheit unter Christen**
+### Mittwoch: Einheit unter Christen
 
 **Markus 9,38-41 und Johannes 10,16**
 
@@ -97,7 +95,7 @@ date:   20/10/2018
 -   Um was geht bei den „anderen Schafen“ in Joh. 10,16? Wann werden
     bzw. wurden sie „eine Herde“ unter „einem Hirten“?
 
-### **Donnerstag: Ein Glaube, in Liebe geteilt**
+### Donnerstag: Ein Glaube, in Liebe geteilt
 
 **Johannes 17,3 und 1. Johannes 2,3-6**
 
@@ -105,4 +103,4 @@ date:   20/10/2018
     Gottes im Alltag?
 -   Welche Rolle spielen hierbe
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

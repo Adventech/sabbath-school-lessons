@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   31/07/2020
 ---
 
-[**Geisterfülltes Zeugnisgeben**](https://sabbath-school.adventech.io/de/2020-03/05/01)
+**Geisterfülltes Zeugnisgeben**
 =======================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -22,13 +22,13 @@ I: Gemeinschaft + Aktivitäten
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Manche meinen: „In der Urgemeinde geschah 90% der Arbeit durch den
     Heiligen Geist und 10% durch Menschen. Heute ist es umgekehrt.“ –
     Stimmt das? Wie schätzt ihr das ein?
 
-### **Sonntag: Jesus und die Verheißung des Heiligen Geistes**
+### Sonntag: Jesus und die Verheißung des Heiligen Geistes
 
 **Johannes 15,26-27; Johannes 16,7-8**
 
@@ -42,12 +42,3 @@ II: Wir studieren die Bibel
     -   Wie groß ist unser Anteil am Erfolg?
     -   Wenn wir keinen so großen Anteil haben, warum will Gott uns dann
         überhaupt mitarbeiten lassen?
-
-=== '''Montag: Ein
-
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
-

@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   03/12/2021
 ---
 
-[Denke daran und vergiss nicht](https://sabbath-school.adventech.io/de/2021-04/10/01)
+Denke daran und vergiss nicht
 =====================================================================================
 
 II: Wir studieren die Bibel
@@ -107,9 +107,5 @@ DONNERSTAG – Denkt daran, dass ihr Sklaven wart
     -   Wie können andere unsere Gottesbeziehung erkennen? Was sehen sie
         da?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

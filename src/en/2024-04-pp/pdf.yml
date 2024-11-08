@@ -1,0 +1,162 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-Intro.pdf'
+      target: en/2024-04-pp/introduction
+      title: Introduction
+      start_date: 28/09/2024
+      end_date: 28/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-01.pdf'
+      target: en/2024-04-pp/01
+      title: The Fugitive Heir
+      start_date: 28/09/2024
+      end_date: 04/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-02.pdf'
+      target: en/2024-04-pp/02
+      title: Death by Deception
+      start_date: 05/10/2024
+      end_date: 11/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-03.pdf'
+      target: en/2024-04-pp/03
+      title: Found Out and Forgiven
+      start_date: 12/10/2024
+      end_date: 18/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-04.pdf'
+      target: en/2024-04-pp/04
+      title: Talent Turns Toxic
+      start_date: 19/10/2024
+      end_date: 25/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-05.pdf'
+      target: en/2024-04-pp/05
+      title: Grieving Father, Victorious King
+      start_date: 26/10/2024
+      end_date: 01/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-06.pdf'
+      target: en/2024-04-pp/06
+      title: In Pursuit of Peace
+      start_date: 02/11/2024
+      end_date: 08/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-07.pdf'
+      target: en/2024-04-pp/07
+      title: Sing It, Say It, Share It
+      start_date: 09/11/2024
+      end_date: 15/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-08.pdf'
+      target: en/2024-04-pp/08
+      title: Elijah’s Hand-Me-Down Cloak
+      start_date: 16/11/2024
+      end_date: 22/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-09.pdf'
+      target: en/2024-04-pp/09
+      title: Oil Unlimited
+      start_date: 23/11/2024
+      end_date: 29/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-10.pdf'
+      target: en/2024-04-pp/10
+      title: No Room?
+      start_date: 30/11/2024
+      end_date: 06/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-11.pdf'
+      target: en/2024-04-pp/11
+      title: Praise Explosion!
+      start_date: 07/12/2024
+      end_date: 13/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-12.pdf'
+      target: en/2024-04-pp/12
+      title: Dedicated
+      start_date: 14/12/2024
+      end_date: 20/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-13.pdf'
+      target: en/2024-04-pp/13
+      title: Magi and the Messiah
+      start_date: 21/12/2024
+      end_date: 27/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-Activities.pdf'
+      target: en/2024-04-pp/activities
+      title: Activities
+      start_date: 27/12/2024
+      end_date: 27/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-MemoryVerses.pdf'
+      target: en/2024-04-pp/memory-verses
+      title: Memory Verses
+      start_date: 27/12/2024
+      end_date: 27/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-Parents.pdf'
+      target: en/2024-04-pp/parents
+      title: Parents
+      start_date: 27/12/2024
+      end_date: 27/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-Intro.pdf'
+      target: en/2024-04-pp/introduction
+      title: Teacher
+      start_date: 28/09/2024
+      end_date: 28/09/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-01.pdf'
+      target: en/2024-04-pp/01
+      title: Teacher
+      start_date: 28/09/2024
+      end_date: 04/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-02.pdf'
+      target: en/2024-04-pp/02
+      title: Teacher
+      start_date: 05/10/2024
+      end_date: 11/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-03.pdf'
+      target: en/2024-04-pp/03
+      title: Teacher
+      start_date: 12/10/2024
+      end_date: 18/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-04.pdf'
+      target: en/2024-04-pp/04
+      title: Teacher
+      start_date: 19/10/2024
+      end_date: 25/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-05.pdf'
+      target: en/2024-04-pp/05
+      title: Teacher
+      start_date: 26/10/2024
+      end_date: 01/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-06.pdf'
+      target: en/2024-04-pp/06
+      title: Teacher
+      start_date: 02/11/2024
+      end_date: 08/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-07.pdf'
+      target: en/2024-04-pp/07
+      title: Teacher
+      start_date: 09/11/2024
+      end_date: 15/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-08.pdf'
+      target: en/2024-04-pp/08
+      title: Teacher
+      start_date: 16/11/2024
+      end_date: 22/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-09.pdf'
+      target: en/2024-04-pp/09
+      title: Teacher
+      start_date: 23/11/2024
+      end_date: 29/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-10.pdf'
+      target: en/2024-04-pp/10
+      title: Teacher
+      start_date: 30/11/2024
+      end_date: 06/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-11.pdf'
+      target: en/2024-04-pp/11
+      title: Teacher
+      start_date: 07/12/2024
+      end_date: 13/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-12.pdf'
+      target: en/2024-04-pp/12
+      title: Teacher
+      start_date: 14/12/2024
+      end_date: 20/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-13.pdf'
+      target: en/2024-04-pp/13
+      title: Teacher
+      start_date: 21/12/2024
+      end_date: 27/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2024-04/ABSG-2024-04-EN-PP-TE-Activities.pdf'
+      target: en/2024-04-pp/activities
+      title: Teacher
+      start_date: 27/12/2024
+      end_date: 27/12/2024

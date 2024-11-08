@@ -34,8 +34,6 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
     -   Was zeigen die Worte „Aufruhr“ und „nicht geringer Streit“
         (Vers 2) über die damalige Gemeinde?
 
-<!-- -->
-
 -   Fragen zum Thema:
     -   Was kann ich tun, wenn ich (aus meiner Sicht) eine Fehlhandlung
         sehe?
@@ -61,8 +59,6 @@ sowie Anwendungsfragen aus folgenden Lebensbereichen formuliert werden:
 -   Apostelgeschichte 15,13-21
     -   Wie wichtig war es wohl, dass Jakobus den Text in Amos 9,11.ff
         zitierte?
-
-<!-- -->
 
 -   Fragen zur Botschaft:
     -   Wie wichtig ist ein "Aufeinander Hören" in Gesprächen und
@@ -108,6 +104,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

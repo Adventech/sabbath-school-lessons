@@ -70,8 +70,6 @@ Jakobus 5,16; Matthäus 6,14-15
     -   Was würdest du einem Menschen raten, der ein schweres Vergehen
         (noch) nicht vergeben kann?
 
-<!-- -->
-
 -   weiterführende Fragen, (kann man auch für den Dienstag verwenden, wo
     die biblischen Familientragödien gelesen werden):
     -   Menschen, die z. B. Misshandlung oder Missbrauch erlebt haben,
@@ -160,9 +158,5 @@ Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen.
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

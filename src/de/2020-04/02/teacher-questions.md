@@ -22,22 +22,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
 
-II: Wir studieren die Bibel: [FAMILIE (Lektion 2)](https://sabbath-school.adventech.io/de/2020-04/02/familie/)
+II: Wir studieren die Bibel: FAMILIE (Lektion 2)
 --------------------------------------------------------------------------------------------------------------
 
 **STARTFRAGEN**
@@ -58,21 +47,17 @@ und dahin kehrt sie größtenteils zurück.”* (Johann Friedrich Herbart)
         -   Wie würdet ihr ein ideales und ausgewogenes Verhältnis
             dieser drei Lernarten zueinander definieren?
 
-<!-- -->
-
 -   Wie/was lernt man in der Familie?
     -   Wie sollte idealerweise eurer Meinung nach das Verhältnis
         zwischen Lernen in der Familie und Lernen in der Schule sein?
         -   Was kann das eine besser leisten, was das andere? Und was
             eher nicht?
 
-<!-- -->
-
 -   **Haltet ihr Heimunterricht für sinnvoll?** Begründet eure Ansicht!
     -   Was spricht dafür?
     -   Was spricht dagegen?
 
-### **[Die erste Familie](https://sabbath-school.adventech.io/de/2020-04/02/die-erste-familie/)**
+### Die erste Familie
 
 **ZITAT (Lektion Seite 20):***Uns sind auf den ersten Seiten der
 Heiligen Schrift nicht viele Details - eigentlich gar keine - über die
@@ -89,8 +74,6 @@ stattfand."*
     **nach** dem Sündenfall dazu?
     -   In welcher Weise hat sich die Rolle Gottes als Lehrer verändert?
 
-<!-- -->
-
 -   Worin unterscheidet sich die Familie damals von der
     “Standardfamilie” heute (zumindest in unserer Kultur)?
     -   Welche Unterschiede ergeben sich im Hinblick auf “Lernen in der
@@ -98,7 +81,7 @@ stattfand."*
         **Groß**familien handelte, während Kinder heute durchwegs in
         **Klein**familien aufwachsen?
 
-### **[Die Kindheit Jesu](https://sabbath-school.adventech.io/de/2020-04/02/die-kindheit-jesu/)**
+### Die Kindheit Jesu
 
 **ZITATE Lektion Seite 22:***“Die Bibel offenbart uns sehr wenige
 Einzelheiten über die Kindheit Jesu. Das meiste aus dieser Zeit bleibt
@@ -114,7 +97,7 @@ erste Lehrerin.” 2.) “...denn Gott war sein Lehrer.”*
     Eltern, welchen Anteil hatte Gott selbst?
     -   Inwieweit erzieht Gott Kinder direkt?
 
-### **[Kommunikation](https://sabbath-school.adventech.io/de/2020-04/02/kommunikation/)**
+### Kommunikation
 
 **ZITAT:** *“Durch Kommunikation können Ansichten zu Einsichten
 werden.”* (Ernst Reinhardt)
@@ -139,9 +122,5 @@ Probleme.”* (Peter Reimer)
 
 **ZITAT:** ''"Kommunikation sollte immer auf
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

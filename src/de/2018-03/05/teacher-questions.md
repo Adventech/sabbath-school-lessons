@@ -6,7 +6,7 @@ date:   04/08/2018
 **Die Bekehrung von Paulus**
 ============================
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 > „Ein auf dem Schlachtfeld gefallener General ist für seine Armee
 > verloren, aber sein Tod verleiht dem Feind keine zusätzliche Stärke.
@@ -19,15 +19,13 @@ date:   04/08/2018
     bahnbrechend wirken könnte?
 -   Was müsste wohl geschehen, um sie zu erreichen?
 
-### **Sonntag: Verfolger der Gemeinde**
+### Sonntag: Verfolger der Gemeinde
 
 **Apostelgeschichte 26,9-11; 9,15**
 
 -   Warum wählt Gott ausgerechnet einen ehemaligen Verfolger aus, um das
     Evangelium zu verkündigen? Welche Vor- und Nachteile bringt das mit
     sich?
-
-<!-- -->
 
 -   Welche Eigenschaften des Paulus dürften für seine Aufgabe besonders
     hilfreich gewesen sein?
@@ -38,7 +36,7 @@ date:   04/08/2018
     Gegner der christlichen Lehre wurde, die er später umso heißer
     liebte?
 
-### **Montag: Auf dem Weg nach Damaskus**
+### Montag: Auf dem Weg nach Damaskus
 
 **Apostelgeschichte 26,12-17**
 
@@ -46,8 +44,6 @@ date:   04/08/2018
     tiefgreifende Wandlung bei Paulus vollbringen? Warum war das durch
     all die Lehren von Christus, die er von den verfolgten Christen
     hörte, nicht schon vorher geschehen?
-
-<!-- -->
 
 -   Wie wichtig ist auch für uns heute eine persönliche Begegnung mit
     Jesus, um glauben zu können?
@@ -59,13 +55,11 @@ date:   04/08/2018
 -   Paulus hat viele Verfolgungen erlitten und wurde am Ende unter
     Kaiser Nero enthauptet. Inwiefern ist v.17 dennoch erfüllt worden?
 
-### **Dienstag: Der Besuch von Hananias**
+### Dienstag: Der Besuch von Hananias
 
 **Apostelgeschichte 9,8-9.17-19**
 
 -   Warum lässt Jesus Paulus einige Tage erblinden?
-
-<!-- -->
 
 -   Weshalb musste es ein Christ sein, der Paulus heilte – und nicht
     Jesus selbst?
@@ -76,7 +70,7 @@ date:   04/08/2018
     persönlich berufen? Welche besondere Bedeutung gibt das seinem
     Dienst?
 
-### **Mittwoch: Der Beginn von Paulus‘ Dienst**
+### Mittwoch: Der Beginn von Paulus‘ Dienst
 
 **Galater 1,15-18**
 
@@ -99,7 +93,7 @@ date:   04/08/2018
     und damit Freude empfunden werden? (Vgl. Apg. 5,41.) Wie kann man
     das erreichen?
 
-### **Donnerstag: Rückkehr nach Jerusalem**
+### Donnerstag: Rückkehr nach Jerusalem
 
 **Apostelgeschichte 9,26-31**
 
@@ -110,10 +104,10 @@ date:   04/08/2018
 -   V.31: Wie erklärst du dir, dass plötzlich überall Frieden herrscht
     und die Christenverfolgung – zumindest zeitweise – zum Erliegen kam?
 
-### **Zusammenfassung**
+### Zusammenfassung
 
 Was ist dir in der heute besprochenen Runde wichtig geworden? Was denkst
 du, was du zukünftig ändern wirst? Was kann dir helfen neu gewonnene
 oder vertiefende Erkenntnisse dauerhaft in die Tat umzusetzen?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

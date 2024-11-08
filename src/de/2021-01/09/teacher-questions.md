@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   05/03/2021
 ---
 
-[Um zu dienen und zu retten](https://sabbath-school.adventech.io/de/2021-01/09/01)
+Um zu dienen und zu retten
 ==================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -49,7 +38,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Hast du schon einmal jemanden „gerettet“? Aus einer Krise oder
     vielleicht sogar das Leben? Wie kam es dazu? Inwiefern hat dieses
@@ -57,7 +46,7 @@ II: Wir studieren die Bibel
 -   Grundsätzlich: Was zeichnet einen guten Diener aus? Welche
     Eigenschaften sind unabdingbar? Welche sollten nicht bestehen?
 
-### **Eine dienende Nation**
+### Eine dienende Nation
 
 **Jesaja 41,8-9; 42,1-4**
 
@@ -75,7 +64,7 @@ II: Wir studieren die Bibel
     Gott, über die Einschätzung unserer eigenen Kraft und die Bedeutung
     der Fürsorge Gottes lernen?
 
-### **Der ungenannte Knecht**
+### Der ungenannte Knecht
 
 **Jesaja 42,1-7**
 
@@ -85,7 +74,7 @@ II: Wir studieren die Bibel
 -   Worauf mögen Verse 2-3 deuten? Inwieweit sollen/können auch wir das
     heute anwenden?
 
-### **Persischer „Messias“**
+### Persischer „Messias“
 
 **Jesaja 44,26-45,4**
 
@@ -102,7 +91,7 @@ II: Wir studieren die Bibel
     Wozu würdest du gerne von ihm gerüstet werden? Welchen Ehrennamen
     hättest du gerne?
 
-### **Hoffnung im Voraus**
+### Hoffnung im Voraus
 
 **3. Mose 26,40-45**
 
@@ -118,7 +107,7 @@ II: Wir studieren die Bibel
     ungehört verhallen zu lassen? Wie sieht es damit bei uns heute aus?
     Wo sind wir vllt. genauso unaufmerksam? Wie kommt es dazu?
 
-### **Ein mitfühlender und leidender Knecht**
+### Ein mitfühlender und leidender Knecht
 
 **Jesaja 49,1-6**
 
@@ -126,9 +115,4 @@ II: Wir studieren die Bibel
 -   Wo im Leben und Dienst Jesu sehen wir, was in den Versen 4-6
     beschrieben ist?
 
-\
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
 

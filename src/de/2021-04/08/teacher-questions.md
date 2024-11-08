@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   19/11/2021
 ---
 
-[Wähle das Leben](https://sabbath-school.adventech.io/de/2021-04/08/01)
+Wähle das Leben
 =======================================================================
 
 II: Wir studieren die Bibel
@@ -34,7 +34,7 @@ Welche Bedeutung hat das Hier, Jetzt und Heute für das ewige Leben?
     (vergl. **Johannes 6,47**)
 -   Welche Aufgabe hat dann mein irdisches Leben?
 
-### **[Der Baum des Lebens](https://sabbath-school.adventech.io/de/2021-04/08/der–baum–des–lebens/)**
+### Der Baum des Lebens
 
 **1. Mose 2,8-9; 1. Mose 2,15-17; 1. Mose 3,21**
 
@@ -48,7 +48,7 @@ Welche Bedeutung hat das Hier, Jetzt und Heute für das ewige Leben?
     -   Wie erkennen wir heute Gut und Böse?
     -   Wie hilft uns diese Erkenntnis in unserer Beziehung zu Jesus?
 
-### **[Kein Mittelweg](https://sabbath-school.adventech.io/de/2021-04/08/kein-mittelweg/)**
+### Kein Mittelweg
 
 **Römer 6,23; Mt 7,24-27**
 
@@ -60,7 +60,7 @@ Welche Bedeutung hat das Hier, Jetzt und Heute für das ewige Leben?
     -   Welchen Inhalt hat aus diesen Versen der Kampf des Christen?
     -   Warum suchen Menschen oft einen Mittelweg?
 
-### **[Leben und Gutes, Tod und Böses, Segen und Fluch](https://sabbath-school.adventech.io/de/2021-04/08/leben-und-gutes-tod-und-böses-segen-und-fluch/)**
+### Leben und Gutes, Tod und Böses, Segen und Fluch
 
 **5. Mose 30,15-30**
 
@@ -75,7 +75,7 @@ Welche Bedeutung hat das Hier, Jetzt und Heute für das ewige Leben?
     -   Gilt der Segen und der Fluch auch für das neutestamentliche Volk
         Gottes?
 
-### **[Nicht zu schwer für euch](https://sabbath-school.adventech.io/de/2021-04/08/nicht-zu-schwer-für-euch/)**
+### Nicht zu schwer für euch
 
 **5. Mose 30,1-14**
 
@@ -90,7 +90,7 @@ Welche Bedeutung hat das Hier, Jetzt und Heute für das ewige Leben?
         sichtbar?
     -   Wie weit hängt das mit der Treue zum Bund mit Gott zusammen?
 
-### **[Eine Frage der Anbetung](https://sabbath-school.adventech.io/de/2021-04/08/eine-frage-der-anbetung/)**
+### Eine Frage der Anbetung
 
 **5. Mose 11,16; 5. Mose 30,17**
 
@@ -108,9 +108,5 @@ Warum ist es von gößter Bedeutung, mit Gott in einer Vertrauensbeziehung
 zu leben und nicht zu versuchen, durch eigenes Verhalten **IHN** zu
 befrieden?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

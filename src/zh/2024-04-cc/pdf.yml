@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-01.pdf'
+      target: zh/2024-04-cc/01
+      title: 圣殿的建造与你
+      start_date: 28/09/2024
+      end_date: 04/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-02.pdf'
+      target: zh/2024-04-cc/02
+      title: 我盼望你归回
+      start_date: 05/10/2024
+      end_date: 11/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-03.pdf'
+      target: zh/2024-04-cc/03
+      title: 建造圣殿
+      start_date: 12/10/2024
+      end_date: 18/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-04.pdf'
+      target: zh/2024-04-cc/04
+      title: 信心的故事
+      start_date: 19/10/2024
+      end_date: 25/10/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-05.pdf'
+      target: zh/2024-04-cc/05
+      title: 以斯帖的胜利
+      start_date: 26/10/2024
+      end_date: 01/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-06.pdf'
+      target: zh/2024-04-cc/06
+      title: 领他们归回故土
+      start_date: 02/11/2024
+      end_date: 08/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-07.pdf'
+      target: zh/2024-04-cc/07
+      title: 尼希米，膝盖上的先知
+      start_date: 09/11/2024
+      end_date: 15/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-08.pdf'
+      target: zh/2024-04-cc/08
+      title: 冒险的见证
+      start_date: 16/11/2024
+      end_date: 22/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-09.pdf'
+      target: zh/2024-04-cc/09
+      title: 改弦更张
+      start_date: 23/11/2024
+      end_date: 29/11/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-10.pdf'
+      target: zh/2024-04-cc/10
+      title: 渴望更多明白上帝的旨意
+      start_date: 30/11/2024
+      end_date: 06/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-11.pdf'
+      target: zh/2024-04-cc/11
+      title: 黑暗中的微光
+      start_date: 07/12/2024
+      end_date: 13/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-12.pdf'
+      target: zh/2024-04-cc/12
+      title: 仆人式的英雄
+      start_date: 14/12/2024
+      end_date: 20/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2024-04/ABSG-2024-04-ZH-CC-13.pdf'
+      target: zh/2024-04-cc/13
+      title: 黑暗中的光芒
+      start_date: 21/12/2024
+      end_date: 27/12/2024

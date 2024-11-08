@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   28/02/2020
 ---
 
-[Von der Verunreinigung zur Reinigung](https://sabbath-school.adventech.io/de/2020-01/09/von-der-verunreinigung-zur-reinigung/)
+Von der Verunreinigung zur Reinigung
 ===============================================================================================================================
 
 I: Gemeinschaft
@@ -26,7 +26,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### [Der Widder und der Ziegenbock](https://sabbath-school.adventech.io/de/2020-01/09/der-widder-und-der-ziegenbock/)
+### Der Widder und der Ziegenbock
 
 **Daniel 8,3-7.20-21**
 
@@ -38,7 +38,7 @@ II: Wir studieren die Bibel
     -   Woran erinnern uns Widder und Ziegenbock?
     -   Was bedeuten diese beiden Tiere?
 
-### [Der Aufstieg des kleinen Horns](https://sabbath-school.adventech.io/de/2020-01/09/der-aufstieg-des-kleinen-horns/) & [Der Angriff auf das Heiligtum](https://sabbath-school.adventech.io/de/2020-01/09/der-angriff-auf-das-heiligtum/)
+### Der Aufstieg des kleinen Horns & Der Angriff auf das Heiligtum
 
 **Daniel 8,8-9**
 
@@ -66,7 +66,7 @@ II: Wir studieren die Bibel
     -   Inwiefern wird Jesus durch die Aktivitäten des kleinen Horns
         etwas weggenommen?
 
-### [Der prophetische Zeitplan](https://sabbath-school.adventech.io/de/2020-01/09/der-prophetische-zeitplan/)
+### Der prophetische Zeitplan
 
 **Daniel 8,13**
 
@@ -81,7 +81,7 @@ II: Wir studieren die Bibel
         aufgibt?
     -   Welche Glaubenspunkte wären davon betroffen?
 
-### [Die Reinigung des Heiligtums](https://sabbath-school.adventech.io/de/2020-01/09/die-reinigung-des-heiligtums/)
+### Die Reinigung des Heiligtums
 
 **Daniel 8,14**
 
@@ -104,16 +104,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

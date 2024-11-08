@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   17/07/2020
 ---
 
-[Die Menschen mit den Augen Jesu sehen](https://sabbath-school.adventech.io/de/2020-03/03/01)
+Die Menschen mit den Augen Jesu sehen
 =============================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -112,7 +103,7 @@ II: Wir studieren die Bibel
 -   „Verkündige das Evangelium ohne Unterlass und wenn notwendig
     verwende Worte!“ (Franz von Assisi)
 
-### **[Die zweite Berührung](https://sabbath-school.adventech.io/de/2020-03/03/die-zweite-ber%C3%BChrung/)**
+### Die zweite Berührung
 
 **Markus 8,22-26**
 
@@ -129,8 +120,6 @@ II: Wir studieren die Bibel
         Bibelverständnis?
     -   Habe ich die zweite Berührung erlebt?
 
-<!-- -->
-
 -   Zitat: „Keiner von uns sieht und erfasst \[sofort\] alles, wenn er
     Christ wird. Als neu bekehrte Menschen haben wir zwar eine neue
     Perspektive vom Leben mit Christus, aber wir sehen dennoch teilweise
@@ -145,7 +134,7 @@ II: Wir studieren die Bibel
     weiterhelfen“ (George Knight, Das Markus-Evangelium, Lüneburg 2005,
     160).
 
-### **[Eine Lektion in Annahme](https://sabbath-school.adventech.io/de/2020-03/03/eine-lektion-in-annahme/)**
+### Eine Lektion in Annahme
 
 **Johannes 4,3-34**
 
@@ -160,15 +149,11 @@ II: Wir studieren die Bibel
         der Verkündigung?
     -   Erkennen wir lebendiges Wasser in unserem Leben?
 
-### **[Fang dort an, wo du bist](https://sabbath-school.adventech.io/de/2020-03/03/fang-dort-an-wo-du-bist/)**
+### Fang dort an, wo du bist
 
 **Johannes 1,40-41**
 
 -   Fragen zum Tex
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

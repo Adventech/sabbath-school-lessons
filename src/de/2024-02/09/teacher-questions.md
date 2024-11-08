@@ -92,21 +92,5 @@ date:   31/05/2024
     -   Für viele säkulare Menschen ist das Thema Anbetung (welt)fremd.
         Welche Möglichkeiten seht ihr, das Bewusstsein für Anbetung und
         ihre Bedeutung bei säkularen Menschen oder Freunden zu wecken?
-        ```{=html}
-        <center>
-        ```
-        ```{=html}
-        </center>
-        ```
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/09/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

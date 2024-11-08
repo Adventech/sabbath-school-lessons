@@ -63,7 +63,7 @@ Wittlin)
 
 **Text: 1.Samuel 8,10-18**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Die Warnung Samuels an das Volk enthält einige Punkte, die Angst
     machen könnten. Welche nimmst du am bedrohlichsten wahr?
@@ -74,7 +74,7 @@ Wittlin)
         rechtmäßig zugesteht, oder sind das Folgen von Korruption und
         Machtmissbrauch?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Die Unterscheidung zwischen Macht und Machtmissbrauch ist
 eine rein akademische. In Wirklichkeit ist beides ein und dasselbe: wer
@@ -109,7 +109,7 @@ und verpassen damit, das Naheliegende zu tun.”* (Paul Schibler)
 
 **Texte: Amos 3,9-11; Amos 4,1-2; Amos 5,10-15; Amos 8,4-6**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Welche schlimmen Zustände bringt Gott hier in seiner Anklage gegen
     gewisse Teile des Volkes vor?
@@ -125,7 +125,7 @@ und verpassen damit, das Naheliegende zu tun.”* (Paul Schibler)
 -   Micha 5,15: Wie schafft man es, das Böse zu hassen – dabei aber den
     Sünder nicht ebenso zu verachten?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Kollektives Schweigen ist der Nährboden für Missstände.”*
 (Achim Reichert)
@@ -160,7 +160,7 @@ dafür.”* (Ernst Reinhard)
 
 **Texte: Micha 6,8; Micha 2,8-11; Micha 3,8-12**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Micha 6,8: Würdest du die „Hauptsumme“ der biblischen Lehre
     zusammenfassen, welche Aspekte wären enthalten? Ist Michas Ausspruch
@@ -178,7 +178,7 @@ dafür.”* (Ernst Reinhard)
     3,14-22)?
 -   Wann und wie hat sich das Gerichtsurteil Michas erfüllt (v.12)?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Korruption: Alles läuft wie geschmiert.”* (Oliver Tietze)
 
@@ -212,7 +212,7 @@ Meurer)
 
 **Text: Hesekiel 34,2-4.7-16**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Wen hat Hesekiel mit den Hirten gemeint?
     -   Welche Aufgaben hätten diese Hirten gehabt und wie haben sie
@@ -221,7 +221,7 @@ Meurer)
 -   Was meint Gott damit, wenn er (V.16) das “Fette und Starke”
     austilgen will?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Es gibt viel gutes Rindvieh aber wenige gute Hirten.”*
 (Sigbert Latzel)
@@ -262,7 +262,7 @@ Armen?”* (Irene Bento)
 dieser Woche schon mehrfach kennengelernt haben. Insofern bietet dieser
 Abschnitt nichts mehr wirklich Neues.*
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   Es ist wohl legitim zu sagen, dass wir solche schlimmen Dinge, wie
     sie in den Texten dieser Woche dargestellt wurden, nicht tun, allein
@@ -285,14 +285,9 @@ III: Dienst und Mission
 **Ideen für Aktivitäten**\
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen. [Hier gibt es eine Ideensammlung,
-was ihr alles tun könnt.](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")
+unseres Auftrags, Jünger zu machen. 
 
 '''Arbeitshilfe “Dienst und Mission”'
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

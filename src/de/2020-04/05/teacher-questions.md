@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   30/10/2020
 ---
 
-[Jesus, der Meisterlehrer](https://sabbath-school.adventech.io/de/2020-04/05/01)
+Jesus, der Meisterlehrer
 ================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -105,7 +94,7 @@ akademischer Überlegungen oder Vorbild für unser Leben?
     vorantreiben. Ihm ging es vielmehr um Gotteserkenntnis und
     Charakterbildung. (E 81-82)
 
-### **[Den Vater offenbaren](https://sabbath-school.adventech.io/de/2020-04/05/den-vater-offenbaren/)**
+### Den Vater offenbaren
 
 **Hebräer 1,1-4**
 
@@ -119,7 +108,7 @@ akademischer Überlegungen oder Vorbild für unser Leben?
     -   Wie kann diese Aufgabe ganz praktisch bewältigt werden?
     -   Wird Charakterbildung erlebt?
 
-### **[Den Vater offenbaren (Fortsetzung)](https://sabbath-school.adventech.io/de/2020-04/05/den-vater-offenbaren-fortsetzung/)**
+### Den Vater offenbaren (Fortsetzung)
 
 **Johannes 1,14.18; Johannes 14,1-14**
 
@@ -130,7 +119,7 @@ akademischer Überlegungen oder Vorbild für unser Leben?
 -   Fragen zur Botschaft:
     -   Worin zeigt sich der Charakter Gottes im Alltag?
 
-### **[Die Gedanken des Meisterlehrers verstehen](https://sabbath-school.adventech.io/de/2020-04/05/die-gedanken-des-meisterlehrers-verstehen/)**
+### Die Gedanken des Meisterlehrers verstehen
 
 **Philipper 2,1-11; Philipper 4,2-3**
 
@@ -142,7 +131,7 @@ akademischer Überlegungen oder Vorbild für unser Leben?
         der Gemeinde und im Umgang mit den Mitmenschen würden die
         beschriebenen Charakterzüge Jesu bewirken?
 
-### **[Der Meisterlehrer und Versöhnung](https://sabbath-school.adventech.io/de/2020-04/05/der-meisterlehrer-und-vers%C3%B6hnung/)**
+### Der Meisterlehrer und Versöhnung
 
 **2. Korinther 5,16-21**
 
@@ -153,7 +142,7 @@ akademischer Überlegungen oder Vorbild für unser Leben?
     -   Wo beginnt wirkliche Versöhnung?
     -   Welcher Auftrag an die Jünger Jesu ist damit verbunden?
 
-### **[Die ersten Schüler des Meisterlehrers](https://sabbath-school.adventech.io/de/2020-04/05/die-ersten-sch%C3%BCler-des-meisterlehrers/)**
+### Die ersten Schüler des Meisterlehrers
 
 **Lukas 2,8-20; Matthäus 2,1-12**
 
@@ -183,9 +172,5 @@ Geistes ebenso öffnen, wie es die Jünger Jesu damals taten. Das zu
 erreichen, zumindest dazu beizutragen, ist Sinn und Ziel christlicher
 Erziehung. (E 98)
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

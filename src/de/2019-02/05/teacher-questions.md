@@ -102,9 +102,5 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Falls ihr eine(n) Partner(in) habt: Welche Eigenschaft
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

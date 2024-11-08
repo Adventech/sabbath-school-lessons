@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   08/10/2021
 ---
 
-[Moses Geschichtsstunde](https://sabbath-school.adventech.io/de/2021-04/02/01)
+Moses Geschichtsstunde
 ==============================================================================
 
 II: Wir studieren die Bibel
@@ -98,9 +98,4 @@ die ihnen begegnen.
 -   Inwiefern ist 1. Mose 15 eine Hilfe beim Verständnis dieser
     Begebenheiten?
 
-\
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
 

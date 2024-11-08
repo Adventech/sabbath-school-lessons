@@ -405,7 +405,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
   }
   if (fs.existsSync(`src/${info.language}/groups.yml`)) {
     let groups = yamljs.load(fs.readFileSync(`src/${info.language}/groups.yml`));
-    let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
+    let quarterly_group = quarterly.index.replace(info.language+'-', '').substring(7).replace(/^-/, '')
     if (!quarterly_group.length) {
       quarterly_group = 'default'
     }

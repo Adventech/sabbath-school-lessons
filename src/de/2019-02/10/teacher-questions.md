@@ -44,7 +44,7 @@ bis sie selber daran glauben.”* (Stephan Rogan)
 -   Wodurch ist heute die Familie als “heile Welt” bzw. als “sicherer
     Hafen” bedroht?
 
-### **Streit**
+### Streit
 
 **ZITAT:** *“Mancher Streit gleicht der Rauferei zweier Kahlköpfe um
 einen Kamm.”*
@@ -62,7 +62,7 @@ aber keinen Verstand.”* (Raymond Walden)
 
 **Text: Matthäus 7,5**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Welches Prinzip der Streitvermeidung / Streitführung wird hier
     genannt?
@@ -71,7 +71,7 @@ aber keinen Verstand.”* (Raymond Walden)
 
 **Text: Sprüche 19,11**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Welche Art von Einsicht, die den Menschen geduldig macht, könnte
     gemeint sein?
@@ -79,7 +79,7 @@ aber keinen Verstand.”* (Raymond Walden)
     deren Billigung? Wird das Böse dadurch nicht gefördert? Ja
     schrankenlos?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   In Kärnten sagt man: *“Der G'scheite gibt nach, der Dumme fällt in
     den Bach.”* Inwiefern stimmt das?
@@ -95,16 +95,16 @@ Glaßl)
 
 -   Wie definiert ihr Streitkultur?
 
-### **Einige Prinzipien für die Ehe**
+### Einige Prinzipien für die Ehe
 
 **Epheser 1,7; Römer 3,23**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Wie wird der Zustand des Menschen im Römertext beschrieben?
 -   Wie wird Gottes Art damit umzugehen im Ephesertext beschrieben?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Liebe macht blind, die Ehe sehend.”* (Sigbert Latzel)
 
@@ -134,11 +134,11 @@ das Durchhalten.”* (Katherina von Siena)
 -   Wie hat euch das Durchhalte-Prinzip in eurer Ehe geholfen?
 -   inwieweit hat euch beim Durchhalten euer Glaube geholfen?
 
-### **Welche Rolle Wut in einem Streit spielt**
+### Welche Rolle Wut in einem Streit spielt
 
 **Epheser 4,26.27; Jakobus 1,19.20**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Erstaunlich: die Bibel zeigt uns hier das Zorn nicht automatisch
     Sünde ist. Welche Art von Zorn ist “gerecht”?
@@ -146,7 +146,7 @@ das Durchhalten.”* (Katherina von Siena)
     darüber nicht untergegen” lassen?
 -   “Langsam zum Zorn sein” - was bedeutet das?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Noch jeder zornige Mensch hat seinen Zorn für gerecht
 gehalten.”* (Franz von Sales)
@@ -173,11 +173,11 @@ gehalten.”* (Franz von Sales)
 hervorlockt. Der ist es, der auch im Zorn die Worte gütig beherrscht.”*
 (Johann Gottfried von Herder)
 
-### **Streit, Missbrauch, Macht und Kontrolle**
+### Streit, Missbrauch, Macht und Kontrolle
 
 **Text: 1.Johannes 4,7.8; Kol. 3,19**
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 -   Wenn man von sexuellem Missbrauch - in welchem Rahmen auch immer -
     absieht, welche Spielarten des Missbrauchs kann es in einer Familie
@@ -200,7 +200,7 @@ sollten wir nie als Statisten gebrauchen.”* (Ernst Ferstl)
 **ZITAT:** *“Macht entsteht durch Missbrauch der Ohnmacht.”* (Justus
 Vogt)
 
-### **Vergebung und Friede**
+### Vergebung und Friede
 
 **Text: Matthäus 7,12**
 
@@ -217,9 +217,5 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sa
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 
