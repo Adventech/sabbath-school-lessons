@@ -200,7 +200,11 @@ renderer.codespan = function (text) {
 };
 
 renderer.image = function (href, title, text) {
-  return `<img style="max-width:100%" alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
+  let url = href
+  if (!/^https/.test(href)) {
+    url = `${renderer.options.baseUrl}${href}`
+  }
+  return `<img style="max-width:100%" alt="${text || ''}" src="${url}" />`
 }
 
 let slug = function (input) {
