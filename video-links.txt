@@ -92,6 +92,12 @@ yt-dlp "https://www.youtube.com/watch?v=6elRNe_dGAo" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=FeKgCjAwzas" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2024-04-08.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=cEsULNverSI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2024-04-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=7gQPFOs3lNo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2024-04-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=ZZNu4c7cSi8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2024-04-08.mp4"
+
 yt-dlp "https://youtu.be/1loEBBY7uIs?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2024-04-inv-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=TYCQJKnotEs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2024-04-08.mp4"
