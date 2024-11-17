@@ -11,7 +11,7 @@ Caleb rövid istentiszteletet készült tartani a faházában, az alaszkai Polar
 
 Mielőtt Caleb elkezdhette volna az istentiszteletet, az egyik fiú elaludt. Szenvedett a dohányrágás elvonási tüneteitől. A hetednapi adventista nyári táborban számos alaszkai őslakos gyerek dohányfüggő, és az első napokban nikotinelvonási tünetektől szenvednek.
 
-Bár a másik öt fiú is fáradt volt, még nem akartak lefeküdni. „Átjöhetünk a tűz mellé?” – kérdezte az egyikük.
+Bár a másik öt fiú is fáradt volt, még nem akartak lefeküdni. „Átjöhetünk a tűz mellé?” – kérdezte az egyikük.
 
 Caleb áthívta őket imádkozni. Az istentiszteletet egy kérdéssel kezdte:
 
@@ -35,7 +35,7 @@ A fiúk csendben elgondolkodtak a mindig jelenlévő legjobb barát gondolatán.
 
 „Az angyalok nagyon szépek” – folytatta Caleb.
 
-Örömmel látta, hogy a fiúk hajlandóak beszélgetni lelki dolgokról. A Polaris tábornak az a célja, hogy bemutassák Jézus szeretetét az alaszkai őslakos gyerekeknek.
+Örömmel látta, hogy a fiúk hajlandóak beszélgetni lelki dolgokról. A Polaris tábornak az a célja, hogy bemutassák Jézus szeretetét az alaszkai őslakos gyerekeknek.
 
 A fiúk után Caleb is nyugovóra tért. Mielőtt álomba merült, eszébe jutott, hogy a fiúk érdeklődést mutattak Isten iránt, és az istentisztelet alatt komolyan foglalkoztak a lelki dolgokkal. Elmosolyodott, amikor arra gondolt, hogy Isten munkálkodott a szívükben.
 
