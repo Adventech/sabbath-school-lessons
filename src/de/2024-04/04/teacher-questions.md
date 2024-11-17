@@ -58,5 +58,4 @@ Begegnungen mit einzelnen Menschen weiter.
     aufgewachsen bin?
 -   Was lernen wir aus der Geschichte von Nikodemus für uns heute?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

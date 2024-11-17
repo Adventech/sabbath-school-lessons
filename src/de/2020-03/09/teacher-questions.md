@@ -158,9 +158,5 @@ zur Wahrheit, wo es jetzt nur eine gibt.”* (E.G.White)
 
 '''Römer 15,7
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

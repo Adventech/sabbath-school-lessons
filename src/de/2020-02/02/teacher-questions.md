@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   10/04/2020
 ---
 
-[Ursprung und Wesen der Bibel](https://sabbath-school.adventech.io/de/2020-02/02/01)
+Ursprung und Wesen der Bibel
 ====================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -92,24 +83,24 @@ wäre kein Platz mehr für Anzeigen."* (Klaus Klages)
     Manche von diesen richten auch großen Schaden an. Anhand welcher
     Kriterien entscheidet ihr, wem/was ihr noch glaubt?
 
-***<u>LEHRZIELE:</u>***
+***LEHRZIELE:***
 
 1.  *Warum glauben wir, dass die Bibel ihren Ursprung in Gott hat, dass
     sie authentisches **Gotteswort** ist?*
 2.  *Wie können wir sicher sein, dass die Bibel keine “fake news”
     enthält, sondern ewig-gültige Wahrheit?*
 
-### **[Die göttliche Offenbarung der Bibel](https://sabbath-school.adventech.io/de/2020-02/02/die-g%C3%B6ttliche-offenbarung-der-bibel/)**
+### Die göttliche Offenbarung der Bibel
 
 **2.Petrus 1,19-21**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Was sagt uns dieser Text über den Zweck des Wortes Gottes?
 -   Was ist gemeint damit, dass “keine Weissagung der Schrift aus
     eigener Deutung geschieht” (Elberfelder)?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Bei dem Wort Gottes will ich bleiben, es falle oder stehe,
 was sonst steht oder fällt.”* (Martin Luther)
@@ -132,11 +123,11 @@ gelingt es, durch Worte Chaos zu schaffen.”* (Walter Ludin)
     -   Inwiefern kann die Bibel als **allgemeines** Gotteswort uns
         **persönlich** ansprechen?
 
-### **[Der Prozess der Inspiration](https://sabbath-school.adventech.io/de/2020-02/02/der-prozess-der-inspiration/)**
+### Der Prozess der Inspiration
 
 **2.Petrus 1,21; 2.Timotheus 3,16; 5.Mose 18,18**
 
-<u>Fragen zum Text:</u>
+_Fragen zum Text:_
 
 -   Mit welchen Worten beschreibt die Bibel hier, wie sie zustande
     gekommen ist?
@@ -145,7 +136,7 @@ gelingt es, durch Worte Chaos zu schaffen.”* (Walter Ludin)
 -   Welche Rolle genau spielten bei der Entstehung der Bibel die
     einzelnen Schreiber?
 
-<u>Fragen zur Botschaft:</u>
+_Fragen zur Botschaft:_
 
 **ZITAT:** *“Jenseits aller Definition eröffnet sich dem Menschen die
 Stimme der Inspiration.”* (David Kiser)
@@ -173,10 +164,4 @@ Wollmann)
 -   Der Heilige Geist ist also Quelle der Entstehung der Bibel. In
     welcher Hinsicht benötigen wir ihn beim Lesen der Bibel?
 
-=== '''\[<https:/>
-
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

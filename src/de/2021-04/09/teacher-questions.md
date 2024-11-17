@@ -3,20 +3,20 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   26/11/2021
 ---
 
-[**Ihr Herz bekehren**](https://sabbath-school.adventech.io/de/2021-04/09/01)
+**Ihr Herz bekehren**
 =============================================================================
 
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Sehnsucht ist ein wichtiges Thema in unserem Leben. Sehnsucht treibt
     an, setzt Ziele, verleiht Leidenschaft und Kraft. Welche
     menschlichen Sehnsüchte sind wohl die häufigsten? Welches mögen
     Gottes besondere Sehnsüchte sein?
 
-### **Sonntag: Mi-Jitten**
+### Sonntag: Mi-Jitten
 
 **5. Mose 5,22-29**
 
@@ -30,7 +30,7 @@ II: Wir studieren die Bibel
 -   Welche Rolle spielen in diesem Zusammenhang Themen wie Andacht,
     Lebensstil etc.?
 
-### **Montag: Sucht und findet mich**
+### Montag: Sucht und findet mich
 
 **5. Mose 4,25-30**
 
@@ -51,7 +51,7 @@ II: Wir studieren die Bibel
     richtig zu entscheiden? Wie können wir lernen, auch in guten Zeiten
     recht zu handeln?
 
-### **Dienstag: Teschuwah & Mittwoch: Von ganzem Herzen**
+### Dienstag: Teschuwah & Mittwoch: Von ganzem Herzen
 
 **5. Mose 30,1-5**
 
@@ -64,7 +64,7 @@ II: Wir studieren die Bibel
     Verheißungen? Welche Bedeutung hat sie für die Annahme der Erlösung,
     die uns das Evangelium verspricht?
 
-### **Donnerstag: Tut Buße und bekehrt euch**
+### Donnerstag: Tut Buße und bekehrt euch
 
 **Matthäus 3,1-2 und Markus 1,14-15**
 
@@ -79,9 +79,5 @@ II: Wir studieren die Bibel
     Reue bzw. Buße angesehen?
 -   Wie sehen echte Reue und wahre Buße aus?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

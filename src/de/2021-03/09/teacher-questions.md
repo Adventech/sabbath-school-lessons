@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   27/08/2021
 ---
 
-[Der Rhythmus der Ruhe](https://sabbath-school.adventech.io/de/2021-03/09/01)
+Der Rhythmus der Ruhe
 =============================================================================
 
 II: Wir studieren die Bibel
@@ -133,9 +133,5 @@ II: Wir studieren die Bibel
     -   Inwiefern hilft es immer wieder, Gott ganz bewusst auch am
         Sabbat wie der Psalmist zu loben und zu verherrlichen?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

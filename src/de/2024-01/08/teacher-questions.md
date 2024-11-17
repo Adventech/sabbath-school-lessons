@@ -3,14 +3,14 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   23/02/2024
 ---
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Was verstehst du unter „Rechtschaffenheit"? Was zeichnet eine
     „rechtschaffene Lebensweise" aus?
 -   Kennst du (heute lebende) Menschen, die du als vorbildlich
     „rechtschaffen" bezeichnen würdest? Wie kommst du zu diesem Urteil?
 
-#### **Sonntag: Ich behalte dein Wort in meinem Herzen** {#sonntag_ich_behalte_dein_wort_in_meinem_herzen}
+#### Sonntag: Ich behalte dein Wort in meinem Herzen
 
 **Psalm 119,1-8.165**
 
@@ -33,7 +33,7 @@ date:   23/02/2024
     mit dem Bleiben in Jesus Christus, dem Wort, zusammen (Joh 1,1.14;
     15,5.7)?
 
-#### **Montag: Lehre uns bedenken, dass wir sterben müssen** {#montag_lehre_uns_bedenken_dass_wir_sterben_müssen}
+#### Montag: Lehre uns bedenken, dass wir sterben müssen
 
 **Psalm 90,3-12; (Psalm 102,12)**
 
@@ -50,7 +50,7 @@ date:   23/02/2024
     wir weise werden"? Wie zählst du deine Tage? Welche Lektionen der
     Weisheit hast du daraus schon gelernt?
 
-#### **Dienstag: Gottes Prüfung** {#dienstag_gottes_prüfung}
+#### Dienstag: Gottes Prüfung
 
 **Psalm 81,8-9; 95,7-11**
 
@@ -68,7 +68,7 @@ date:   23/02/2024
     anderen sie verachten? Inwieweit können wir beeinflussen, wie
     Menschen das Wort Gottes aufnehmen, wenn wir es ihnen bringen?
 
-#### **Mittwoch: Die Täuschung des bösen Weges** {#mittwoch_die_täuschung_des_bösen_weges}
+#### Mittwoch: Die Täuschung des bösen Weges
 
 **Psalm 141,1-5**
 
@@ -80,7 +80,7 @@ date:   23/02/2024
     dass er zu „Öl für das Haupt" wird? Wo hast du selbst so etwas schon
     einmal erlebt und davon profitiert?
 
-#### **Donnerstag: Die Segnungen einer rechtschaffenen Lebensweise** {#donnerstag_die_segnungen_einer_rechtschaffenen_lebensweise}
+#### Donnerstag: Die Segnungen einer rechtschaffenen Lebensweise
 
 **Psalm 112,1-9**
 
@@ -93,14 +93,4 @@ date:   23/02/2024
 -   Vers 7: Wie schafft man es, die Angst vor/bei schlechten Nachrichten
     tatsächlich zu brechen?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/08/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

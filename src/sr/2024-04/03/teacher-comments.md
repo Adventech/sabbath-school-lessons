@@ -1,5 +1,5 @@
 ---
-title:  Priča u pоzadini – Prоlоg
+title:  Priča u pozadini – Prolog
 date:  18/10/2024
 ---
 

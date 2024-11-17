@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   01/05/2020
 ---
 
-[**Allein die Schrift – Sola Scriptura**](https://sabbath-school.adventech.io/de/2020-02/05/01)
+**Allein die Schrift – Sola Scriptura**
 ===============================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -71,7 +62,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**    
+### Startfrage(n)    
 
 -   Es ist nicht lange her, dass die Reformation ihr 500. Jubiläum
     feierte (2017). Wenn du an die bewegte Zeit vor 500 Jahren denkst,
@@ -84,7 +75,7 @@ II: Wir studieren die Bibel
     gesamte Schrift) zufügen. Inwiefern liegt diesen allen dasselbe
     Prinzip zugrunde bzw. weisen sie in die dieselbe Richtung?
 
-### **[Die Heilige Schrift als herrschende Norm](https://sabbath-school.adventech.io/de/2020-02/05/die-heilige-schrift-als-herrschende-norm/)**
+### Die Heilige Schrift als herrschende Norm
 
 **Hebräer 4,12**
 
@@ -97,7 +88,7 @@ II: Wir studieren die Bibel
 -   Wovon spricht Paulus hier, worüber wir nicht hinausgehen sollen?
 -   Dürfen wir keine Erkenntnisse über die Bibel hinaus erwarten?
 
-### **[Die Einheit der Heiligen Schrift](https://sabbath-school.adventech.io/de/2020-02/05/die-einheit-der-heiligen-schrift/)**
+### Die Einheit der Heiligen Schrift
 
 -   Kann die Bibel Richtschnur für unser Leben sein, auch wenn sie sich
     in Teilen widerspricht? Wie wichtig ist die innere Einheit und
@@ -116,11 +107,5 @@ II: Wir studieren die Bibel
     Schriftteile zu einer unausgewogenen oder falschen Theologie/Lehre
     geführt hat?
 
-==='''\[<https://sabbath-school.adventech>.
-
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

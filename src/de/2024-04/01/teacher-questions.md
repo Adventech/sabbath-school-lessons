@@ -69,7 +69,7 @@ date:   04/10/2024
     -   Sie sahen doch das offensichtliche Wunder - Warum glaubten sie
         trotzdem nicht?
 -   Fragen zur Botschaft:
-    -   Wir sind zweifelsohne besser als die Juden. Wo könnte es aber
+    -   Wo könnte es aber
         auch uns als \"gute Adventisten\" passieren, dass wir die
         Wahrheit nicht erkennen?
 
@@ -88,5 +88,4 @@ date:   04/10/2024
     -   Was wäre in unserem Leben so ein Auslöser, der unseren Glauben
         stärken könnte
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

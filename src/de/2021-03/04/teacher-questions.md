@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   23/07/2021
 ---
 
-[Der Preis der Ruhe](https://sabbath-school.adventech.io/de/2021-03/04/01)
+Der Preis der Ruhe
 ==========================================================================
 
 II: Wir studieren die Bibel
@@ -78,9 +78,5 @@ II: Wir studieren die Bibel
     -   1.Johannes 1,9. Wenn jemand zweifelt, dass Gott ihm vergeben
         kann, wie würdet ihr ihn/sie ermutigen?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -1,5 +1,5 @@
 ---
-title:  Svedоci о Hristu kaо Mesiji
+title:  Svedoci o Hristu kao Mesiji
 date:  25/10/2024
 ---
 

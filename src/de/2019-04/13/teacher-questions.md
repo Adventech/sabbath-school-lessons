@@ -14,7 +14,7 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-II: Wir studieren die Bibel: [Leiter in Israel](https://sabbath-school.adventech.io/de/2019-04/13/leiter-in-israel/)
+II: Wir studieren die Bibel: Leiter in Israel
 --------------------------------------------------------------------------------------------------------------------
 
 ### Startfrage
@@ -22,7 +22,7 @@ II: Wir studieren die Bibel: [Leiter in Israel](https://sabbath-school.adventech
 Was erwartet ihr von guten Leitern? Welche Eigenschaften sollten sie
 haben?
 
-### [Der Einfluss der Leiter](https://sabbath-school.adventech.io/de/2019-04/13/der-einfluss-der-leiter/)
+### Der Einfluss der Leiter
 
 **Richter 4,1-16; 1.Könige 12,1-16**
 
@@ -43,7 +43,7 @@ haben?
         wichtig betrachten, wenn es darum geht ein guter Leiter zu sein?
         Was sollte ein guter Leiter haben?
 
-### [Mut und Bevollmächtigung](https://sabbath-school.adventech.io/de/2019-04/13/mut-und-bevollm%C3%A4chtigung/)
+### Mut und Bevollmächtigung
 
 **Nehemia 4,6-10.13**
 
@@ -68,7 +68,7 @@ haben?
         Waffe”(NLB)? Welche Bedeutung hat für euch das Arbeiten und
         Wachsam sein im christlichen Leben?
 
-### [Ziel und Leidenschaft](https://sabbath-school.adventech.io/de/2019-04/13/ziel-und-leidenschaft/)
+### Ziel und Leidenschaft
 
 **Esra 7,8-10**
 
@@ -85,7 +85,7 @@ haben?
     -   Welche Zielorientierung wünscht ihr euch vom Leiter eurer
         Gemeinde?
 
-### [Demut und Gottvertrauen](https://sabbath-school.adventech.io/de/2019-04/13/demut-und-ausdauer/)
+### Demut und Gottvertrauen
 
 **Esra 8,21-23.31-32; Nehemia 2,20**
 
@@ -116,16 +116,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -3,7 +3,7 @@ title: Hope Sabbath School Outline
 date: 24/09/2021
 ---
 
-<center><img src="https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg" /></center>
+![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
 
 ### Outline #13	The Ultimate Rest
 

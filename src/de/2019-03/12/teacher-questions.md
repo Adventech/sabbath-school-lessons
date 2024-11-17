@@ -44,8 +44,6 @@ Matthäus 6,25-33
     -   Was bedeutet für dich der Ausdruck “trachten” (Vs.33)?
     -   Wie meint Jesus die Worte “dann wird euch das alles zufallen”?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Was lernst du aus der Fürsorge Gottes für die Vögel und Lilien?
     -   Welche Anzeichen deuten darauf hin, dass du dir zu viele Sorgen
@@ -64,8 +62,6 @@ Jakobus 1,5-8; Jakobus 2,15-16
     -   Laut Bibeltexte, welche Bedingungen sind am Erhalten von
         Weisheit zu erfüllen?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Wie können wir unsere Sensibilität für Menschen in Not bekommen
         bzw. erhalten?
@@ -81,8 +77,6 @@ Micha 6,8
         Geboten u. Aufforderung im Neuen Testament?
     -   Wie würdest du die Forderung Gottes mit eigenen Worten
         beschreiben?
-
-<!-- -->
 
 -   Fragen zur Anwendung:
     -   Wie kann “Liebe üben” (LUT) ganz praktisch aussehen?
@@ -101,8 +95,6 @@ Micha 6,8
     -   Wie definiert Johannes die Liebe?
     -   Wie verstehst du die Aussage: “Lasst uns mit der Tat und mit der
         Wahrheit lieben”? (1.Joh 3,18)
-
-<!-- -->
 
 -   Fragen zur Anwendung:
     -   Ist es deiner Meinung nach für einen Armen oder einen Reichen
@@ -124,8 +116,6 @@ Matthäus 5,9; Matthäus 5,43-48; 2.Korinther 5,20
     -   Inwiefern ist die Versöhnung mit Gott (2.Kor 5,20) eng verbunden
         mit dem Aufruf Friedenstifter zu sein?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Wie kann deine Gemeinde als Friedensstifter nach innen und außen
         wirken? Welche aktiven Schritte kann man unternehmen?
@@ -140,8 +130,6 @@ Hebräer 12,12-14
     -   Warum gehört dem Frieden und der Heiligung nachjagen zusammen?
         Welche Verbindung besteht zwischen diesen beiden?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Wie kann ich in meinem Umfeld dafür sorgen, dass ich ein Vorbild
         als Friedenstifter bin?
@@ -152,14 +140,9 @@ III: Dienst und Mission
 **Ideen für Aktivitäten**\
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen. [Hier gibt es eine Ideensammlung,
-was ihr alles tun könnt.](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")
+unseres Auftrags, Jünger zu machen. 
 
 '''Arbeitshilfe “Dienst und Mission”'
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

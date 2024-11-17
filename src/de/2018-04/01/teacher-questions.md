@@ -173,4 +173,4 @@ Gemeindeleben gegenseitig bereichern können.*
 -   ***Überlegt welche Einheitsprojekte in den nächsten drei Monaten
     verwirklicht werden können.***
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

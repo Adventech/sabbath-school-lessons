@@ -35,5 +35,5 @@ Dnes Pablo vede biblické hodiny pro své lidi.
 
 _Děkujeme vám za vaše modlitby za misionáře, kteří stejně jako Cristian čelí obrovským výzvám při oslovování neoslovených skupin lidí v Kolumbii i jinde ve světě. Více informací o práci Adventistické misie při oslovování neoslovených skupin lidí naleznete na anglicky psaných stránkách: bit.ly/GMPioneers._
 
-![Cristian](picture02.jpg)
+![Cristian](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/02/picture02.jpg)
 Cristian

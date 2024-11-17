@@ -1,5 +1,5 @@
 ---
-title:  Оtac, Sin i Duh
+title:  otac, Sin i Duh
 date:  13/12/2024
 ---
 

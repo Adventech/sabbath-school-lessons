@@ -3,9 +3,6 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   06/03/2020
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2020-01/10/01)
-=========================================================================
-
 I: Gemeinschaft
 ---------------
 
@@ -17,10 +14,10 @@ I: Gemeinschaft
     Unterstützung?
 -   Welche eurer Gebetsanliegen möchtet ihr mit der Gruppe teilen?
 
-[II: Wir studieren die Bibel: Vom Bekenntnis zum Trost](https://sabbath-school.adventech.io/de/2020-01/10/vom-bekenntnis-zum-trost/)
+II: Wir studieren die Bibel: Vom Bekenntnis zum Trost
 ------------------------------------------------------------------------------------------------------------------------------------
 
-### [DIE ZENTRALE STELLUNG DES WORTES GOTTES](https://sabbath-school.adventech.io/de/2020-01/10/die-zentrale-stellung-des-wortes-gottes/)
+### DIE ZENTRALE STELLUNG DES WORTES GOTTES
 
 **Text Dan 9,1.2**
 
@@ -35,7 +32,7 @@ I: Gemeinschaft
     -   Welche Prophezeiungen sollten wir in unseren Tagen studieren und
         welche Rolle sollten sie in der Evangelisation spielen?
 
-### [EIN APPELL AN DIE GNADE](https://sabbath-school.adventech.io/de/2020-01/10/ein-appell-an-die-gnade/)
+### EIN APPELL AN DIE GNADE
 
 **Text Dan 9,3-19**
 
@@ -49,7 +46,7 @@ I: Gemeinschaft
         Demut - es gibt nichts in unserem Leben, das uns bei Gott
         'empfehlen könnte; wir sind von Gottes Gnade abhängig)
 
-### [DER WERT DER FÜRBITTE](https://sabbath-school.adventech.io/de/2020-01/10/der-wert-der-f%C3%BCrbitte/)
+### DER WERT DER FÜRBITTE
 
 **Text Dan 9,5-13**
 
@@ -62,7 +59,7 @@ I: Gemeinschaft
     -   Siehst Du einen Zusammenhang zwischen Fürbitte und
         Charakterentwicklung?
 
-### [DAS WERK DES MESSIAS](https://sabbath-school.adventech.io/de/2020-01/10/das-werk-des-messias/) | [DER PROPHETISCHE KALENDER](https://sabbath-school.adventech.io/de/2020-01/10/der-prophetische-kalender/)
+### DAS WERK DES MESSIAS | DER PROPHETISCHE KALENDER
 
 **Text Dan 9,21-27**
 
@@ -89,16 +86,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

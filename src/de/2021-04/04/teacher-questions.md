@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   22/10/2021
 ---
 
-[Den Herrn, Deinen Gott, lieben](https://sabbath-school.adventech.io/de/2021-04/04/01-saturday-den-herrn-deinen-gott-lieben/)
+Den Herrn, Deinen Gott, lieben
 =============================================================================================================================
 
 II: Wir studieren die Bibel
@@ -37,7 +37,7 @@ II: Wir studieren die Bibel
 -   Auf welcher Grundlage möchte Gott die gegenseitige Beziehung zu
     seinem Volk gestaltet wissen?
 
-### **[Gott lieben](https://sabbath-school.adventech.io/de/2021-04/04/02-sunday-gott-lieben/)**
+### Gott lieben
 
 **5. Mose 6,4-5**
 
@@ -51,7 +51,7 @@ II: Wir studieren die Bibel
         Verständnis von Liebe in der Bibel?
     -   Wie können wir Gott Wertschätzung und Respekt entgegenbringen?
 
-### **[Gott fürchten](https://sabbath-school.adventech.io/de/2021-04/04/03-monday-gott-f%C3%BCrchten/)**
+### Gott fürchten
 
 **5. Mose 10,12**
 
@@ -64,7 +64,7 @@ II: Wir studieren die Bibel
     -   Wie können wir der Ehrfurcht und der Liebe in der heutigen Zeit
         gerecht werden?
 
-### **[Er hat uns zuerst geliebt](https://sabbath-school.adventech.io/de/2021-04/04/04-tuesday-er-hat-uns-zuerst-geliebt/)**
+### Er hat uns zuerst geliebt
 
 **5. Mose 7,7-8**
 
@@ -78,7 +78,7 @@ II: Wir studieren die Bibel
     -   Wie zeigt sich die Wertschätzung und der Respekt der Geschöpfe
         gegenüber dem Schöpfer?
 
-### **[Wenn ihr mich liebt, so werdet ihr meine Gebote halten](https://sabbath-school.adventech.io/de/2021-04/04/05-wednesday-wenn-ihr-mich-liebt-so-werdet-ihr-meine-gebote-halten/)**
+### Wenn ihr mich liebt, so werdet ihr meine Gebote halten
 
 **5. Mose 7,9**
 
@@ -92,7 +92,7 @@ II: Wir studieren die Bibel
         heute noch wichtig?
     -   Wird der Dekalog in meinem Charakter sichtbar?
 
-### **[Das erste Gebot](https://sabbath-school.adventech.io/de/2021-04/04/06-thursday-das-erste-gebot/)**
+### Das erste Gebot
 
 **Markus 12,28-30**
 
@@ -114,9 +114,5 @@ Denke über folgende Aussage nach: Ein 90% Christ ist ein 100% Unsinn!
 Welche Gedanken kommen Dir dazu im Zusammenhang mit dieser
 Bibelbetrachtung?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

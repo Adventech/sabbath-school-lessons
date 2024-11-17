@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   03/04/2020
 ---
 
-[Die Einzigartigkeit der Bibel](https://sabbath-school.adventech.io/de/2020-02/01/die-einzigartigkeit-der-bibel/)
+Die Einzigartigkeit der Bibel
 =================================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -94,7 +85,7 @@ Einstiegsfrage
         geprägt?
     -   ...
 
-### ''' [Das lebendige Wort Gottes](https://sabbath-school.adventech.io/de/2020-02/01/das-lebendige-wort-gottes/) '''
+### Das lebendige Wort Gottes
 
 **Text 5. Mose 32,45-47**
 
@@ -120,7 +111,7 @@ Einstiegsfrage
     -   Welche Bedeutung hat dieser Text für Dich?
     -   ...
 
-### ''' [Wer schrieb die Bibel und wo?](https://sabbath-school.adventech.io/de/2020-02/01/wer-schrieb-die-bibel-und-wo/) '''
+### Wer schrieb die Bibel und wo?
 
 **Text 2. Mose 2,10; Amos 7,14; Jeremia 1,1-6; Daniel 6,1-5; Matthäus
 9,9; Philipper 3,3-6; Offenbarung 1,9**
@@ -131,8 +122,4 @@ Einstiegsfrage
 -   Fragen zur Botschaft:
     -   Welche praktische Bedeutung haben d
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

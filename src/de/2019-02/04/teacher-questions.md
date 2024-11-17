@@ -94,9 +94,5 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Gemeinsam und doch einsam im Glauben an Gott. Wie gehe ich da
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

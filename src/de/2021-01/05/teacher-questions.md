@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   05/02/2021
 ---
 
-[Edler Friedefürst](https://sabbath-school.adventech.io/de/2021-01/05/01)
+Edler Friedefürst
 =========================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -49,13 +38,13 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Welche Bedeutung hat für dich Frieden? Welchen Unfrieden hast du
     selbst schon erlebt? In welchen Lebensbereichen hältst du Frieden
     für am wichtigsten?
 
-### **Ende der Finsternis für Galiläa & Dienstag: Die Rute des Zornes Gottes**
+### Ende der Finsternis für Galiläa & Dienstag: Die Rute des Zornes Gottes
 
 **Jesaja 8,22-23**
 
@@ -79,7 +68,7 @@ II: Wir studieren die Bibel
 -   Wie kann man trotz ruhiger, friedlicher Zeiten Menschen mit einer
     (vermeintlich überflüssigen) Friedensbotschaft (Gottes) erreichen?
 
-### **Ein Kind für uns**
+### Ein Kind für uns
 
 **Jesaja 9,5-6**
 
@@ -90,7 +79,7 @@ II: Wir studieren die Bibel
 -   Wo und wie sind diese Eigenschaften heute erkennbar – Herrscher,
     Ratgeber, Held, väterliche Fürsorge, Friedensbringer, Richter?
 
-### **Wurzel und Zweig in Einem**
+### Wurzel und Zweig in Einem
 
 **Jesaja 11,1-5**
 
@@ -115,7 +104,7 @@ II: Wir studieren die Bibel
     Völker längst nicht mehr existieren? \[Vgl. Dan 11,41: Die bekehrten
     Heiden?\]
 
-### **Du tröstest mich**
+### Du tröstest mich
 
 **Jesaja 12,1-6**
 
@@ -123,9 +112,5 @@ II: Wir studieren die Bibel
     besonders an. Weshalb? Was ist dir von den genannten Punkten
     besonders wichtig?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

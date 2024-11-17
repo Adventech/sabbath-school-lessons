@@ -151,4 +151,4 @@ Gemeindeleben gegenseitig bereichern können.*
     Welche Kernbotschaften, die auf jeden Fall vorkommen sollten, wären
     euch wichtig und warum vor allem?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

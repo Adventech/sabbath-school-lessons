@@ -49,18 +49,18 @@ Im Konzept der göttlichen Ruhe ist ein Reichtum enthalten. Der Hebräerbrief er
 
 Bitte jemanden, das folgende Gedicht eines unbekannten Autors laut vorzulesen. Bezieht das mit ein, was wir in dieser Woche betrachtet haben, wenn ihr die Fragen, die an das Gedicht anschließen, beantwortet.
 
-Lass ruhen mich in dir, o Herr,<br>
-nicht mühen, bangen, tragen,<br>
-verzweifeln an der Last der Tage,<br>
-wo Tränen, Schmerzen plagen.<br>
-Erinnre mich, dass deine Hand<br>
-erleichtert jede Last.<br>
-In deiner Gegenwart find ich<br>
-in Dunkelheit noch Rast.<br>
-Denn nah bist du, wie du gesagt,<br>
-all denen, die dich brauchen.<br>
-Nun seh ich Sterblicher sehr bald<br>
-all meine Angst verrauchen.<br>
+Lass ruhen mich in dir, o Herr,\
+nicht mühen, bangen, tragen,\
+verzweifeln an der Last der Tage,\
+wo Tränen, Schmerzen plagen.\
+Erinnre mich, dass deine Hand\
+erleichtert jede Last.\
+In deiner Gegenwart find ich\
+in Dunkelheit noch Rast.\
+Denn nah bist du, wie du gesagt,\
+all denen, die dich brauchen.\
+Nun seh ich Sterblicher sehr bald\
+all meine Angst verrauchen.
 
 **Sprecht im Blick auf das heutige Thema über folgende Fragen:**
 

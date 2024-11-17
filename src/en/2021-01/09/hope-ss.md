@@ -3,7 +3,7 @@ title: Hope Sabbath School Outline
 date: 26/02/2021
 ---
 
-<center><img src="https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg" /></center>
+![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
 
 ### Outline #9 To Serve and to Save
 

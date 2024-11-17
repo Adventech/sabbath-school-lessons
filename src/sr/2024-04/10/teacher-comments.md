@@ -1,5 +1,5 @@
 ---
-title:  Put, Istina i Živоt
+title:  Put, Istina i Život
 date:  06/12/2024
 ---
 

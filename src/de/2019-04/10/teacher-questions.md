@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   06/12/2019
 ---
 
-[Den Herrn anbeten](https://sabbath-school.adventech.io/de/2019-04/10/den-herrn-anbeten/)
+Den Herrn anbeten
 =========================================================================================
 
 I: Gemeinschaft
@@ -26,7 +26,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### [Gesang zu Ehren des Herrn](https://sabbath-school.adventech.io/de/2019-04/10/gesang-zu-ehren-des-herrn/)
+### Gesang zu Ehren des Herrn
 
 **Nehemia 12,27-29**
 
@@ -37,7 +37,7 @@ II: Wir studieren die Bibel
         Musik im Herzen der Gläubigen, bzw. wo sollte sie die
         Gottesdienst (= GD) Besucher ‚hinführen'?
 
-### [Reinigung](https://sabbath-school.adventech.io/de/2019-04/10/reinigung/)
+### Reinigung
 
 **Nehemia 12,30**
 
@@ -71,7 +71,7 @@ II: Wir studieren die Bibel
     -   Was ist laut 1 Johannes 1,7-9 die Voraussetzung für die
         Reinigung «von jeder Sünde»?
 
-### [Zwei große Dankchöre](https://sabbath-school.adventech.io/de/2019-04/10/zwei-gro%C3%9Fe-dankch%C3%B6re/)
+### Zwei große Dankchöre
 
 **Nehemia 12,31-42**
 
@@ -82,7 +82,7 @@ II: Wir studieren die Bibel
 -   Fragen zur Botschaft:
     -   Wie sollten wir uns auf unsere Gottesdienste (GD) vorbereiten?
 
-### [Opfer als Teil des Gottesdienstes](https://sabbath-school.adventech.io/de/2019-04/10/opfer-als-teil-des-gottesdienstes/)
+### Opfer als Teil des Gottesdienstes
 
 **Nehemia 12,43**
 
@@ -102,7 +102,7 @@ II: Wir studieren die Bibel
     -   Siehst Du die Möglichkeit, den GD qualitativ zu verbessern?
         Falls ja, wie?
 
-### [Priester und Leviten als Teil des Gottesdienstes](https://sabbath-school.adventech.io/de/2019-04/10/priester-und-leviten-als-teil-des-gottesdienstes/)
+### Priester und Leviten als Teil des Gottesdienstes
 
 **Nehemia 12,44-47 | Hebräer 9,1-11**
 
@@ -120,16 +120,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

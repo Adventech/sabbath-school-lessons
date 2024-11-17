@@ -15,7 +15,7 @@ date:   24/05/2024
     -   Was will uns Gott durch sein Heiligtum klarmachen? Wieso/Wozu
         braucht man's?
 
-## SONNTAG -- Das himmlische Heiligtum {#sonntag_das_himmlische_heiligtum}
+## SONNTAG -- Das himmlische Heiligtum
 
 **2.Mose 25,8-9 und Hebräer 8,1-6""**
 
@@ -32,7 +32,7 @@ date:   24/05/2024
         nötig/wichtig? (Von ihm und von uns.)
     -   Was ist hilfreich, um den eigenen Zustand besser zu erkennen?
 
-## MONTAG -- Im Allerheiligsten {#montag_im_allerheiligsten}
+## MONTAG -- Im Allerheiligsten
 
 **3.Mose 16,29-34 und Hebräer 9,23-28**
 
@@ -47,7 +47,7 @@ date:   24/05/2024
     -   Was zeigt das Schicksal des Ziegenbocks? (und damit die
         vergebenen Sünden)
 
-## DIENSTAG -- Das Gericht ist gekommen {#dienstag_das_gericht_ist_gekommen}
+## DIENSTAG -- Das Gericht ist gekommen
 
 **Dan 7,9-10 und Offb 14,6-7**
 
@@ -64,7 +64,7 @@ date:   24/05/2024
     -   Wenn ich mein Leben betrachte -- Was brauche ich besonders?
     -   Vergebung -- Wie geht das?
 
-## MITTWOCH -- Die gute Nachricht vom Allerheiligsten {#mittwoch_die_gute_nachricht_vom_allerheiligsten}
+## MITTWOCH -- Die gute Nachricht vom Allerheiligsten
 
 **Hebräer 4,14-16 und 10,19-22**
 
@@ -81,7 +81,7 @@ date:   24/05/2024
     -   Wie tritt Jesus für mich ein? Was bewirkt das in mir heute?
         (Zuversicht? Hingabe? Dank?,...)
 
-## DONNERSTAG -- Jesus, unser Anwalt im Gericht {#donnerstag_jesus_unser_anwalt_im_gericht}
+## DONNERSTAG -- Jesus, unser Anwalt im Gericht
 
 **Hebräer 10,9-14 und Hebräer 6,19-20**
 
@@ -98,14 +98,4 @@ date:   24/05/2024
         ihn/Gott?
     -   Was bewirkt dieses Wissen bei uns?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/08/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

@@ -3,13 +3,13 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   01/10/2021
 ---
 
-[Vorwort zum 5. Buch Mose](https://sabbath-school.adventech.io/de/2021-04/01/01)
+Vorwort zum 5. Buch Mose
 ================================================================================
 
 II: Wir studieren die Bibel
 ---------------------------
 
-### [Liebe, um geliebt zu werden](https://sabbath-school.adventech.io/de/2021-04/01/02-sunday-liebe-um-geliebt-zu-werden/)
+### Liebe, um geliebt zu werden
 
 **1. Johannes 4,8**
 
@@ -48,7 +48,7 @@ II: Wir studieren die Bibel
     -   Welche Auswirkungen hat unser freier Wille auf andere?
     -   Wie erklärst du jemandem Sünde?
 
-### [Der Sündenfall und die Sintflut](https://sabbath-school.adventech.io/de/2021-04/01/03-monday-der-s%C3%BCndenfall-und-die-sintflut/)
+### Der Sündenfall und die Sintflut
 
 **1. Mose 3,1-7** (Beachte auch 1. Mose 2,16-17)
 
@@ -84,7 +84,7 @@ II: Wir studieren die Bibel
     -   Wie kannst du deine Erfahrung bestmöglich an andere weitergeben?
     -   Was geht unseren sündigen Handlungen in der Regel immer voraus?
 
-### [Abrams Berufung](https://sabbath-school.adventech.io/de/2021-04/01/04-tuesday-abrams-berufung/)
+### Abrams Berufung
 
 **1. Mose 12,1-3**
 
@@ -108,7 +108,7 @@ II: Wir studieren die Bibel
     -   Was kann euch helfen, mehr auf Gott zu vertrauen, so wie es
         Abram getan hat?
 
-### [Der Bund am Sinai](https://sabbath-school.adventech.io/de/2021-04/01/05-wednesday-der-bund-am-sinai/)
+### Der Bund am Sinai
 
 **2. Mose 19,4-8**
 
@@ -137,7 +137,7 @@ II: Wir studieren die Bibel
     -   Warum ist die Beziehung zu Gott von so derartig großer
         Bedeutung?
 
-### [Abfall und Strafe](https://sabbath-school.adventech.io/de/2021-04/01/06-thursday-abfall-und-strafe/)
+### Abfall und Strafe
 
 **4. Mose 14,28-35**
 
@@ -162,9 +162,5 @@ II: Wir studieren die Bibel
     -   Was können wir “tun”, damit wir stets den Verheißungen Gottes
         mehr Glauben schenken als den Einflüsterungen Satans.
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

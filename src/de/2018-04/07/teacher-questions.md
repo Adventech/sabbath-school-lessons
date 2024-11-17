@@ -138,6 +138,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

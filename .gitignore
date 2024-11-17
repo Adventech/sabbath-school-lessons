@@ -8,5 +8,6 @@ web/content/*
 web/static/img/global
 test
 deploy-creds*
+!deploy-creds.tar.gpg
 .vscode
 .markdownlint.json

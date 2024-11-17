@@ -9,18 +9,16 @@ date:   07/06/2024
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-#### **Startfragen**
+#### Startfragen
 
--   Die Geschichte des Spiritismus (z.B.
-    [hier](https://www.ellenwhite.de/spiritismus/))
-    -   Auf dem Grabstein neben dem Haus in Hydesville (NY), wo die
+-   Die Geschichte des Spiritismus (z.B.    -   Auf dem Grabstein neben dem Haus in Hydesville (NY), wo die
         Fox-Schwestern ihre Kommunikation mit einem Geist begannen,
         steht in Großbuchstaben \"ES GIBT KEINEN TOD, ES GIBT KEINE
         TOTEN\"
     -   Warum trösten sich viele Christen mit dem Gedanken, dass ihre
         Verstorbenen nicht weiterleben?
 
-#### **Was passiert mit dem Menschen, wenn er gestorben ist?** {#was_passiert_mit_dem_menschen_wenn_er_gestorben_ist}
+#### Was passiert mit dem Menschen, wenn er gestorben ist?
 
 -   Hat der Mensch von Geburt (bzw. seiner Existenz) an ewiges Leben?
 -   Lest folgende Texte und tragt die Antwort auf diese Frage zusammen:
@@ -38,7 +36,7 @@ date:   07/06/2024
     -   Hiob 3,11-13; 7,7-9
     -   Psalm 6,6; 115,17; 146,4;
 
-#### **Warum verbietet Gott den Kontakt mit den Toten?** {#warum_verbietet_gott_den_kontakt_mit_den_toten}
+#### Warum verbietet Gott den Kontakt mit den Toten?
 
 -   5\. Mose 18,9-14; 3. Mose 19,31; 20,6-7.27
     -   1\. Samuel 28,3: König Saul hatte die Totenbeschwörer aus Israel
@@ -69,7 +67,7 @@ date:   07/06/2024
         Himmel gewesen wäre, warum hat ihn Jesus dann nicht dort
         gelassen sondern wieder auf diese sündige Erde geholt?
 
-#### **Theologische Konsequenzen** {#theologische_konsequenzen}
+#### Theologische Konsequenzen
 
 -   Auf welche weitere biblischen Lehren hat der Glaube an den Zustand
     des Menschen nach dem Tod einen Einfluss?
@@ -99,7 +97,7 @@ date:   07/06/2024
         -   1Th 4,13-18: Was darf unser Trost sein?
     -   Fallen euch noch weitere Bereiche ein?
 
-#### **Abschluss**
+#### Abschluss
 
 -   Als Ellen G. White von den Vorfällen in Rochester, NY, erfuhr, sagte
     sie voraus, dass diese Erscheinungen weltweite Ausmaße annehmen
@@ -128,14 +126,4 @@ date:   07/06/2024
 
 \
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/10/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

@@ -1,5 +1,5 @@
 ---
-title:  Ispunjenje starоzavetnih prоrоčanstava
+title:  Ispunjenje starozavetnih proročanstava
 date:  22/11/2024
 ---
 
