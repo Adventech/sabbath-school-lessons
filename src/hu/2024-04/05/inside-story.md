@@ -19,5 +19,5 @@ A földterület kiváló helyen volt a városba vezető főúton, ráadásul pon
 
 A diakónus komoly döntés előtt állt. Mit tegyen? A földterület 850 000 dollárt ért, az adventisták érdeklődtek, a gyorsétteremlánc pedig 2 millió dollárt ajánlott.
 
-A diakónus komolyan imádkozott. Miközben imádkozott, érezte, hogy az embereknek nagyobb szükségük van egy templomra, mint egy gyorsétteremre. Megkérte a Déli Baptista Konvenció egyházi vezetőit, hogy az adventistáknak adják el az ingatlant, 250 000 dollárért. Ezután a vezetők áldásával felajánlotta a telket az adventistáknak ezért az összegért. A tizenharmadik szombati felajánlás és más adományok elegendőek voltak az ingatlan megvásárlására.   
+A diakónus komolyan imádkozott. Miközben imádkozott, érezte, hogy az embereknek nagyobb szükségük van egy templomra, mint egy gyorsétteremre. Megkérte a Déli Baptista Konvenció egyházi vezetőit, hogy az adventistáknak adják el az ingatlant, 250 000 dollárért. Ezután a vezetők áldásával felajánlotta a telket az adventistáknak ezért az összegért. A tizenharmadik szombati felajánlás és más adományok elegendőek voltak az ingatlan megvásárlására.   
 

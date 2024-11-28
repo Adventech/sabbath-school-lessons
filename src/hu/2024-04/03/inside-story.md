@@ -7,7 +7,7 @@ date: 18/10/2024
 
 Andrew McChesney
 
-Marisa mélyen aludt a Washington állambeli Spokane-ben a harmadik emeleti lakásában. Hajnali fél háromkor felébredt, pedig semmi oka nem volt rá. Azon tűnődött, hogy kimenjen-e a mosdóba. Végül kiment, és amikor néhány perccel később visszament a hálószobába, szokatlan sárga fényt vett észre kintről. Ahogy kinézett, lángokat látott felcsapni a hálószobája külső falán. A háza lángokban állt.
+Marisa mélyen aludt a Washington állambeli Spokane-ben a harmadik emeleti lakásában. Hajnali fél háromkor felébredt, pedig semmi oka nem volt rá. Azon tűnődött, hogy kimenjen-e a mosdóba. Végül kiment, és amikor néhány perccel később visszament a hálószobába, szokatlan sárga fényt vett észre kintről. Ahogy kinézett, lángokat látott felcsapni a hálószobája külső falán. A háza lángokban állt.
 
 Marisa hívta a két kutyáját, Maggie-t és Daisey-t: „Lányok, gyertek!”
 
