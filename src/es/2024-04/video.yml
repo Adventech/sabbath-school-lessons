@@ -26,6 +26,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2024-04-08.mp4
           target: es/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2024-04-09.mp4
+          target: es/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2024-04-09.webp
     - artist: Escrito Está
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2024-04-01.mp4
@@ -52,6 +55,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2024-04-08.mp4
           target: es/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2024-04-09.mp4
+          target: es/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2024-04-09.webp
     - artist: Pastor Alejandro Bullon
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-01.mp4
@@ -72,6 +78,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-06.mp4
           target: es/2024-04/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-07.mp4
+          target: es/2024-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-07.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-08.mp4
           target: es/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-09.mp4
+          target: es/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2024-04-09.webp

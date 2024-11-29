@@ -9,13 +9,13 @@ Andrew McChesney
 
 Kemény nap volt. Pedro úgy döntött, hogy ideje lemondania az arizonai Holbrook Hetednapi Adventista Indián Iskola igazgatói posztjáról.
 
-Ez volt Pedro 12. igazgatói évének kezdete. Amint befejezte a személyzet több tagjával folytatott nehéz beszélgetést, az új iskolaév kihívásain kezdett gondolkodni. A teher nyomasztónak tűnt, de Pedro visszaemlékezett arra, hogy az első igazgatói napján tett egy ígéretet Istennek. Így imádkozott: „Istenem, nagy segítségre van szükségem tőled ebben a munkában! Itt maradok, amíg másként nem mondod.”
+Ez volt Pedro 12. igazgatói évének kezdete. Amint befejezte a személyzet több tagjával folytatott nehéz beszélgetést, az új iskolaév kihívásain kezdett gondolkodni. A teher nyomasztónak tűnt, de Pedro visszaemlékezett arra, hogy az első igazgatói napján tett egy ígéretet Istennek. Így imádkozott: „Istenem, nagy segítségre van szükségem tőled ebben a munkában! Itt maradok, amíg másként nem mondod.”
 
 Most, a nehéz napon Pedro ismét elbeszélgetett Istennel:
 
 „Emlékszem az ígéretemre, nem akarom meghazudtolni magam. Te mondod most, hogy itt az idő elmenni?”
 
-Nem kapott azonnali választ, ezért azt tette, amit eddig is képviselt a holbrooki tanárok és diákok előtt: várta, hogy Isten jelt adjon.
+Nem kapott azonnali választ, ezért azt tette, amit eddig is képviselt a holbrooki tanárok és diákok előtt: várta, hogy Isten jelt adjon.
 
 Egy hét elteltével Pedro azt a hírt hallotta, hogy egy kislány, aki két évvel korábban végezte el az első osztályt Holbrookban, vissza akar térni. Raine értékes és nagyon okos gyerek volt. 
 

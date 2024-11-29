@@ -20,9 +20,15 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-06.mp4
           target: ru/2024-04/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-07.mp4
+          target: ru/2024-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-07.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-08.mp4
           target: ru/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-09.mp4
+          target: ru/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2024-04-09.webp
     - artist: Александр Болотников
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-01.mp4
@@ -43,9 +49,15 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-06.mp4
           target: ru/2024-04/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-07.mp4
+          target: ru/2024-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-07.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-08.mp4
           target: ru/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-09.mp4
+          target: ru/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2024-04-09.webp
     - artist: Изучаем Библию с Виталием Олийником
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-04-01.mp4
@@ -72,6 +84,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-04-08.mp4
           target: ru/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-04-09.mp4
+          target: ru/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2024-04-09.webp
     - artist: Субботняя школа с Алехандро Буйоном
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-01.mp4
@@ -92,6 +107,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-06.mp4
           target: ru/2024-04/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-07.mp4
+          target: ru/2024-04/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-07.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-08.mp4
           target: ru/2024-04/08
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-08.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-09.mp4
+          target: ru/2024-04/09
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2024-04-09.webp

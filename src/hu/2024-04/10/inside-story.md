@@ -23,7 +23,7 @@ Micah felnézett, és megkérdezte: „Mit gondoltok arról, hogy Isten mindig v
 
 A fiúk egy pillanatra elgondolkodtak. Azután az egyikük megszólalt: „Jézus az örök barátunk.”
 
-A többi fiú elmosolyodott. A Polaris tábor „haverrendszer” szerint működik, ami azt jelenti, hogy egyetlen gyerek sem megy sehova egyedül. Ha az egyikük el akar menni valahová, egy másik fiúval kell mennie. A bibliavers azt közvetítette, hogy Jézus az örök barátjuk, aki mindenhová velük tart.
+A többi fiú elmosolyodott. A Polaris tábor „haverrendszer” szerint működik, ami azt jelenti, hogy egyetlen gyerek sem megy sehova egyedül. Ha az egyikük el akar menni valahová, egy másik fiúval kell mennie. A bibliavers azt közvetítette, hogy Jézus az örök barátjuk, aki mindenhová velük tart.
 
 „Így van – kiáltott fel Micah –, Jézus az örök barátunk! Bármit is teszünk, mindig velünk van!” 
 

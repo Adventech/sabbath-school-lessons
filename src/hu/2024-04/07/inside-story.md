@@ -31,5 +31,5 @@ Az apja és az anyja is visszatért a terembe, James pedig Isten hatalmáról be
 
 Amikor távoztak, James átadta nekik Ellen G. White: Jézushoz vezető út című könyvének egy példányát.
 
-Többé nem látta a családot. Nem tudja, mi történt velük, de attól az éjszakától kezdve még jobban tudatosult benne, hogy mennyire valóságos a Krisztus és Sátán közötti nagy küzdelem a Navajo Rezervátumban. 
+Többé nem látta a családot. Nem tudja, mi történt velük, de attól az éjszakától kezdve még jobban tudatosult benne, hogy mennyire valóságos a Krisztus és Sátán közötti nagy küzdelem a Navajo Rezervátumban. 
 

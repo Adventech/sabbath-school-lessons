@@ -7,7 +7,7 @@ date: 25/10/2024
 
 Andrew McChesney
 
-Ana nem akart hetednapi adventista lenni. Gyermekkorában szerette a Fülöp-szigeteki egyházát, és nem akart szombaton istentiszteletre járni vasárnap helyett. Ahogy azonban tanulmányozta a Bibliát, egyre inkább meggyőződött a szombat fontosságáról. Adventista lett.
+Ana nem akart hetednapi adventista lenni. Gyermekkorában szerette a Fülöp-szigeteki egyházát, és nem akart szombaton istentiszteletre járni vasárnap helyett. Ahogy azonban tanulmányozta a Bibliát, egyre inkább meggyőződött a szombat fontosságáról. Adventista lett.
 
 A munkahelyén azonban problémája adódott.
 
