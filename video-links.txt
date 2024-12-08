@@ -1,1 +1,21 @@
+yt-dlp "https://youtu.be/VS9O7F5TNig?si=hoZjZ7kN1LGw1w-y" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-01.mp4"
 
+yt-dlp "https://youtu.be/_RFr32QfaHk?si=1E8RsTnv68dXkj-n" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-02.mp4"
+
+yt-dlp "https://youtu.be/S7v3hPIfvH4?si=pn9atFX8az6WvucX" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-03.mp4"
+
+yt-dlp "https://youtu.be/FmFLjPe_vNg?si=FSms28Nz5ey7Crs_" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-04.mp4"
+
+yt-dlp "https://youtu.be/Q5QWmwjHQmU?si=MpbMRa6OnWeNVXMq" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-05.mp4"
+
+yt-dlp "https://youtu.be/asMwjFyoEc4?si=8vG3jtDH4LsHzldh" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-06.mp4"
+
+yt-dlp "https://youtu.be/7Y5-55_mSMY?si=QehAesq-Oenu7KI5" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-07.mp4"
+
+yt-dlp "https://youtu.be/gtcHg9dIRqY?si=jrKZaNUgazrKInkK" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-08.mp4"
+
+yt-dlp "https://youtu.be/KCEXVzEAKKM?si=SjPI_esE5PQtw7fg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-09.mp4"
+
+yt-dlp "https://youtu.be/xyq7ZTNImyA?si=m9Zmh7t2_Oxe5WhZ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-10.mp4"
+
+yt-dlp "https://youtu.be/Gfvlb8DzBuc?si=yhC_h-WrDcESO4lQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/pc/pt-pc-2024-04-11.mp4"
