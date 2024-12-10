@@ -96,3 +96,31 @@
           target: uk/2024-04/09/06
         - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-11-29.mp3
           target: uk/2024-04/09/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-11-30.mp3
+          target: uk/2024-04/10/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-01.mp3
+          target: uk/2024-04/10/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-02.mp3
+          target: uk/2024-04/10/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-03.mp3
+          target: uk/2024-04/10/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-04.mp3
+          target: uk/2024-04/10/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-05.mp3
+          target: uk/2024-04/10/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-06.mp3
+          target: uk/2024-04/10/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-07.mp3
+          target: uk/2024-04/11/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-08.mp3
+          target: uk/2024-04/11/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-09.mp3
+          target: uk/2024-04/11/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-10.mp3
+          target: uk/2024-04/11/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-11.mp3
+          target: uk/2024-04/11/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-12.mp3
+          target: uk/2024-04/11/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2024-04/2024-12-13.mp3
+          target: uk/2024-04/11/07
