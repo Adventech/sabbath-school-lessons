@@ -14,7 +14,7 @@ date:   13/12/2024
 -   „Die Christen haben drei Götter: Vater, Sohn und Heiliger Geist.
     Christentum ist nicht besser als Heidentum.“ Was antworten wir
     darauf?
--   Wir geht es uns damit, dass wir diese Spannung aushalten müssen,
+-   Wie geht es uns damit, dass wir diese Spannung aushalten müssen,
     dass die Dreieinigkeit nicht 100% menschlich logisch oder
     verständlich ist?
 
