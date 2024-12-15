@@ -1,1 +1,49 @@
+yt-dlp "https://www.youtube.com/watch?v=H7tDBi2wQ4E" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2024-04-12.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=2YIfTBDsjoI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=AvJoJREEKw8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=nleBYP_cnHU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=7fwQ70Tgres" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2024-04-inv-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=gouKaH1Ju9Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=-hmr3yG11JQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=4jH6xCDKAjM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=aCk90o-W2i4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=x5ULYywjtJM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=S2t2IoSQ8gM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=d4RP5S08q_U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=PVuxKIBh4qQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "it/it-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=jAwYgbBWMVY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/af/in-af-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=HFWAwL9AB8U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=8kNvHlMoLSA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=c7du4Xg3PIs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2024-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=I2O24B9Lj5Y" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=yx00XAt0LG8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=cLj1HNfmBlA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=UBSo3q-an90" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=nNVx6WPf1vw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=821FcKSQnzk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=kq5J1LMVZFQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2024-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=MakhPjiZMiQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2024-04-12.mp4"
