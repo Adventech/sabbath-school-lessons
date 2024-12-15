@@ -73,10 +73,10 @@ Korintherbriefes kurz zusammenfassen.
 
 -   Wie seht ihr das? Wie unterscheidet die Auferstehung das Christentum
     von allen anderen Weltreligionen?
--   Wie „verkaufen" wir diesen Unterschied gegenüber anderen?
+-   Wie „verkaufen“ wir diesen Unterschied gegenüber anderen?
 -   Inwiefern zeigt sie uns, dass für Gott unser Tod nur ein
     vorübergehender Zustand ist? Sind wir uns dessen bewußt, auch wenn
-    wir ab und zu an einer Beerdigung teilnehmen müssen?\
+    wir ab und zu an einer Beerdigung teilnehmen müssen?  
     Ein besonderes Anliegen sollte sein, (atheistische)
     verstandesorientierte Menschen zu gewinnen. Angenommen, ihr werdet
     gefragt, welche Beweise ihr für die Auferstehung habt, wie würdet
@@ -93,7 +93,7 @@ Korintherbriefes kurz zusammenfassen.
     weggerollt und ihr werdet von einem fremden Mann, der sich in der
     Grabkammer aufhält, angesprochen? Wie würdet ihr reagieren? Würdet
     ihr euch fragen: „Was macht dieser Mensch in der Grabkammer? Zu wem
-    gehört er? Welche Aufgabe erfüllt er?" Sprecht darüber möglichst
+    gehört er? Welche Aufgabe erfüllt er?“ Sprecht darüber möglichst
     lebhaft
 -   Welche Liebe und Hingabe zu Jesus drückt die geplante Tat der
     Salbung aus? Welche Emotionen hatten die drei Damen dabei? Agierten
@@ -144,13 +144,14 @@ Korintherbriefes kurz zusammenfassen.
     zu werden. Wie ist das bei euch? Wie ist aus heutiger Sicht die
     nächste Generation gesichert? Wie könnt ihr zu einem Magneten in der
     Gesellschaft werden und viele, möglichst unterschiedliche
-    Mitmenschen „anziehen"?
+    Mitmenschen „anziehen“?
 -   Vers 19: Wie haben die elf Apostel (und viele andere) geheilt? Wie
     sieht es mit Heilungen heute in der Adventgemeinde und/oder deiner
     Heimatgemeinde aus? Haben die Christen heilen verlernt? (Und damit
     meine ich nicht NEWSTART, sondern die Art von Heilungen, wie Jesus
     und die frühen Apostel sie praktizierten. Beschäftigen wir und damit
     nicht, weil das Thema von charismatischen Bewegungen besetzt
-    wurde?...
+    wurde?…)
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
