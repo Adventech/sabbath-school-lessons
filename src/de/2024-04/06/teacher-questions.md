@@ -5,13 +5,13 @@ date:   08/11/2024
 
 #### Startfrage(n)
 
--   Was versteht man heute unter einem „Zeugnis"? Was in der Bibel? Wie
+-   Was versteht man heute unter einem „Zeugnis“? Was in der Bibel? Wie
     könnten wir das in heutigem Deutsch besser ausdrücken?
 -   Weshalb sind Zeugen in der Bibel so wichtig? Hätte es nicht genügt,
-    wenn Gott einfach vom Himmel herabgesprochen hätte -- ganz ohne
+    wenn Gott einfach vom Himmel herabgesprochen hätte – ganz ohne
     menschliches Zutun und Bezeugen?
 
-#### Sonntag: Innere Demut -- Johannes der Täufer legt erneut Zeugnis ab
+#### Sonntag: Innere Demut – Johannes der Täufer legt erneut Zeugnis ab
 
 **Johannes 3,25-30**
 
@@ -45,8 +45,8 @@ date:   08/11/2024
 
 **Johannes 6,51-56.60.66**
 
--   Was genau ist so „hart" an Jesu Rede? Weshalb ziehen sich so viele
-    Nachfolger gerade jetzt zurück (Jesus hat ja schon viel „Schweres"
+-   Was genau ist so „hart“ an Jesu Rede? Weshalb ziehen sich so viele
+    Nachfolger gerade jetzt zurück (Jesus hat ja schon viel „Schweres“
     gesagt)?
 -   Hättest du Jesus geraten, nicht so missverständlich zu formulieren?
     Weshalb haben wir diese Herausforderung so häufig in der Bibel,
@@ -77,18 +77,19 @@ date:   08/11/2024
 **Johannes 7,37-53**
 
 -   Nun tritt Jesus ganz öffentlich auf, mitten in Jerusalem, im Tempel.
-    Warum spricht er nun so offen -- und für viele provokant? Weshalb
+    Warum spricht er nun so offen – und für viele provokant? Weshalb
     nicht schon eher?
--   Was ist unter „Ströme lebendigen Wassers" zu verstehen?
--   Inwieweit war der Heilige Geist „noch nicht da"?
--   Wodurch wurde Jesus „verherrlicht"? Was war so herrlich an seiner
+-   Was ist unter „Ströme lebendigen Wassers“ zu verstehen?
+-   Inwieweit war der Heilige Geist „noch nicht da“?
+-   Wodurch wurde Jesus „verherrlicht“? Was war so herrlich an seiner
     Kreuzigung?
 -   Vers 42 und 52: Jesus hätte das Missverständnis leicht aufklären und
     erklären können, dass er tatsächlich in Bethlehem geboren wurde.
     Warum wohl tat er es nicht? Weshalb lässt er immer wieder
     Missverständnisse ungeklärt? Wo ist es für uns sinnvoll,
-    Missverständnisse bzw. Unwissen einfach stehen zu lassen -- und wo
+    Missverständnisse bzw. Unwissen einfach stehen zu lassen – und wo
     müssen wir reden und klarstellen?
--   Vers 46: Was machte Jesu Rede so einzigartig
+-   Vers 46: Was machte Jesu Rede so einzigartig?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
