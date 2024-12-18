@@ -2,13 +2,13 @@
   default:
     name: "成人学课_简体"
     order: 100
-  adult-tc:
+  hant:
     name: "成人學課_繁體"
     order: 200
-  inv-sc:
+  inv:
     name: "深入人心_简体"
     order: 300
-  inv-tc:
+  hant-inv:
     name: "深入人心_繁體"
     order: 400
   pp:
@@ -23,12 +23,9 @@
   bg:
     name: "初级学课"
     order: 800
-  cc-sc:
+  cc:
     name: "房角石_简体"
     order: 900
-  cc-tc:
+  hant-cc:
     name: "房角石_繁體"
     order: 1000
-  am:
-    name: "聖工消息"
-    order: 1100
