@@ -35,7 +35,7 @@ date:   23/08/2024
 -   Gilt diese Aussage Jesu für alle Menschen? Müssen wir mittelos sein,
     um den Himmel zu erlangen? Wenn nicht, warum verlangt Jesus das
     hier?
--   Wie kannst du erfahren, was „das eine" ist, „das dir fehlt"? Was
+-   Wie kannst du erfahren, was „das eine“ ist, „das dir fehlt“? Was
     könnte dich davon abhalten, es aufzugeben?
 -   Welche Gründe halten Menschen heutzutage häufig davon ab, Jesus
     (ganz) nachzufolgen?
@@ -44,7 +44,7 @@ date:   23/08/2024
 -   *Lektion, S. 86:* „Jedem ist Geld wichtig und daran ist nichts
     falsch. Was kann dann das Problem mit Geld sein und warum müssen
     gläubige Christen, ob reich oder arm, bedachtsam in ihrem Umgang mit
-    Geld sein?"
+    Geld sein?“
 
 ### Mittwoch: Könnt ihr meinen Kelch trinken?
 
@@ -55,18 +55,19 @@ date:   23/08/2024
     einen derart falschen Anspruch haben?
 -   Was meint Jesus mit dem Kelch und der Taufe? Inwiefern haben das
     auch die beiden Jünger erlebt?
--   Wie kann das „aller Diener" sein praktisch ausgelebt werden? Hast du
+-   Wie kann das „aller Diener“ sein praktisch ausgelebt werden? Hast du
     den Eindruck, dass das in der Gemeinde so gegeben ist?
 
-### Donnerstag: „Was willst du, dass ich für dich tun soll?"
+### Donnerstag: „Was willst du, dass ich für dich tun soll?“
 
 **Markus 10,51-52**
 
 -   Weshalb stellt Jesus diese Frage? War der Wunsch des Blinden nicht
     offensichtlich? Kennt Jesus nicht all unsere Bedürfnisse?
--   Was lehrt uns das über die Notwendigkeit des Bittgebets -- auch
-    dann, wenn unsere Not unübersehbar ist? Weshalb hat Gott das so
-    gestaltet, dass er Gebet erwartet, bevor er eingreift -- obwohl er
-    doch genau weiß, was wir brauchen (Mt 6,7-8)
+-   Was lehrt uns das über die Notwendigkeit des Bittgebets – auch dann,
+    wenn unsere Not unübersehbar ist? Weshalb hat Gott das so gestaltet,
+    dass er Gebet erwartet, bevor er eingreift – obwohl er doch genau
+    weiß, was wir brauchen (Mt 6,7-8)?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at

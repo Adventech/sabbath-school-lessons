@@ -21,7 +21,7 @@ geistlichen Leiter des Volkes. Bestärkt in ihrem Widerstand stellten
 diese Führer seine Autorität in Frage. Mit den Fragen nach der
 Verpflichtung, Steuern an Rom zu zahlen, der Frage der Auferstehung und
 letztlich nach dem höchsten Gebot im Gesetz findet sich ein Dreiklang an
-Versuchungen -- körperlich/materiell, emotional und schließlich
+Versuchungen – körperlich/materiell, emotional und schließlich
 theologisch/intellektuell. Anders als bei der ersten
 Versuchungsgeschichte bediente sich Satan jetzt der geistlichen Führern
 des Volkes.
@@ -91,7 +91,7 @@ Erlöser anzunehmen?
     -   Wofür hatten sich die Führer des Volkes nach den Worten Jesu
         entschieden?
 -   Fragen zur Botschaft:
-    -   Warum ist die Erkenntnis, dass Jesus der „Eckstein" der Erlösung
+    -   Warum ist die Erkenntnis, dass Jesus der „Eckstein“ der Erlösung
         ist, so wichtig?
     -   Welche Autorität hat Jesus in meinem Leben?
 
@@ -107,17 +107,17 @@ Erlöser anzunehmen?
         Versuchung?
         -   Die Pharisäer und die Herodianer waren eigentlich erbitterte
             Feinde, doch in der Feindschaft gegenüber Jesus waren sie
-            sich einig. ... Die Pharisäer hatten sich stets gegen das
+            sich einig. … Die Pharisäer hatten sich stets gegen das
             Eintreiben der Steuern durch die Römer aufgelehnt und
             dachten, die Tributzahlungen stünden im Widerspruch zu
             Gottes Gesetz. Nun sahen sie darin eine Möglichkeit,
-            Christus eine Falle zu stellen. ... Jene, die Jesus die
-            Frage stellten, meinten, ihre Absicht sei ausreichend
-            getarnt. Jesus aber las in ihren Herzen wie in einem offenen
-            Buch und erkannte ihre Heuchelei: »Warum stellt ihr mir eine
-            Falle?«, fragte er. Indem er ihre verborgene Absicht
-            aufdeckte, gab er ihnen ein Zeichen, um das sie nicht
-            gebeten hatten. SdL 581--582
+            Christus eine Falle zu stellen. … Jene, die Jesus die Frage
+            stellten, meinten, ihre Absicht sei ausreichend getarnt.
+            Jesus aber las in ihren Herzen wie in einem offenen Buch und
+            erkannte ihre Heuchelei: »Warum stellt ihr mir eine Falle?«,
+            fragte er. Indem er ihre verborgene Absicht aufdeckte, gab
+            er ihnen ein Zeichen, um das sie nicht gebeten hatten. SdL
+            581–582
     -   Wie versuchten die Sadduzäer Jesus mit der Frage der
         Auferstehung?
         -   Die Sadduzäer waren entschlossen, diese Lehren in Verruf zu
@@ -129,7 +129,7 @@ Erlöser anzunehmen?
             sollte er einen anderen Standpunkt vertreten als sie,
             wollten sie seine Lehre lächerlich machen. SdL 585
 -   Fragen zur Botschaft:
-    -   Wie groß ist die Gefahr, unter einem „frommen" Schein wie ein
+    -   Wie groß ist die Gefahr, unter einem „frommen“ Schein wie ein
         egoistischer Schauspieler zu handeln (= ist die Wurzel von
         Heuchler!)?
 
@@ -138,13 +138,13 @@ Erlöser anzunehmen?
 **Markus 12,28-34**
 
 -   Fragen zum Text:
-    -   Welche Bedeutung hatte die Frage nach dem wichtigsten --
-        höchsten -- Gebot für die Schriftgelehrten?
+    -   Welche Bedeutung hatte die Frage nach dem wichtigsten – höchsten
+        – Gebot für die Schriftgelehrten?
     -   In Bibelkommentaren wird dieser Abschnitt ausführlich behandelt.
         Allerdings wird der Begriff LIEBE in keinem ausführlich erklärt.
         Warum ist das so?
-    -   Warum ist gerade die *agape*--Liebe so wichtig? ... Bedeutung:
-        Wertschätzung; Respekt; ...
+    -   Warum ist gerade die *agape*–Liebe so wichtig? … Bedeutung:
+        Wertschätzung; Respekt; …
     -   Wie hängt der Dekalog mit dem Charakter Gottes zusammen?
         -   Die ersten vier der Zehn Gebote werden in einem großen Gebot
             zusammengefasst: »Du sollst den Herrn, deinen Gott, lieb
@@ -163,6 +163,7 @@ Erlöser anzunehmen?
 Einfach zum Nachdenken: „Solange die rituellen Handlungen nicht mit
 einem lebendigen Glauben an Christus verbunden waren, blieben sie
 wertlos. Selbst das Moralgesetz verfehlt seinen Zweck, wenn es nicht in
-seiner Beziehung zum Erlöser verstanden wird." SdL 58
+seiner Beziehung zum Erlöser verstanden wird.“ SdL 588
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
