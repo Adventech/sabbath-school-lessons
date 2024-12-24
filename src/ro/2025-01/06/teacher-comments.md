@@ -1,6 +1,6 @@
 ---
 title:  Material Pentru Instructori
-date:  04/10/2024
+date:  07/02/2025
 ---
 
 ### Privire generală În întreaga Scriptură, dragostea și dreptatea lui Dumnezeu sunt intrinseci caracterului Său. Aceste atribute dezvăluie preocuparea Sa profundă pentru justiție.
