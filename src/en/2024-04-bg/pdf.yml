@@ -1,0 +1,57 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Student/B-24-Q4-L00.pdf'
+      target: en/2024-04-bg/introduction
+      title: Introduction
+      start_date: 28/09/2024
+      end_date: 04/10/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Student/B-24-Q4-L01.pdf'
+      target: en/2024-04-bg/01
+      title: Jesus Heals a Little Girl
+      start_date: 28/09/2024
+      end_date: 01/11/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Student/B-24-Q4-L02.pdf'
+      target: en/2024-04-bg/02
+      title: The Good Shepherd
+      start_date: 02/11/2024
+      end_date: 29/11/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Student/B-24-Q4-L03.pdf'
+      target: en/2024-04-bg/03
+      title: Baby Jesus Is Born
+      start_date: 30/11/2024
+      end_date: 27/12/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Student/B-24-Q4-Activites.pdf'
+      target: en/2024-04-bg/activities
+      title: Activities
+      start_date: 27/12/2024
+      end_date: 27/12/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Student/B-24-Q4-MemoryVerses.pdf'
+      target: en/2024-04-bg/memory-verses
+      title: Memory Verses
+      start_date: 27/12/2024
+      end_date: 27/12/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Teacher/B-24-Q4-L00-T.pdf'
+      target: en/2024-04-bg/introduction
+      title: Teacher
+      start_date: 28/09/2024
+      end_date: 04/10/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Teacher/B-24-Q4-L01-T.pdf'
+      target: en/2024-04-bg/01
+      title: Teacher
+      start_date: 28/09/2024
+      end_date: 01/11/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Teacher/B-24-Q4-L02-T.pdf'
+      target: en/2024-04-bg/02
+      title: Teacher
+      start_date: 02/11/2024
+      end_date: 29/11/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Teacher/B-24-Q4-L03-T.pdf'
+      target: en/2024-04-bg/03
+      title: Teacher
+      start_date: 30/11/2024
+      end_date: 27/12/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Beginner/2024/Q4/Beginner/Teacher/B-24-Q4-Activites-T.pdf'
+      target: en/2024-04-bg/activities
+      title: Teacher
+      start_date: 27/12/2024
+      end_date: 27/12/2024

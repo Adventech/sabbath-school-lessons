@@ -3,7 +3,7 @@ title: Hope Sabbath School Outline
 date: 02/07/2021
 ---
 
-<center><img src="https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg" /></center>
+![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
 
 ### Outline #1	Living in a 24/7 Society
 

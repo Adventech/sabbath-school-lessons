@@ -3,13 +3,13 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   02/07/2021
 ---
 
-[Leben in einer 24/7-Gesellschaft](https://sabbath-school.adventech.io/de/2021-03/01/01)
+Leben in einer 24/7-Gesellschaft
 ========================================================================================
 
 II: Bibelstudium: **Leben in einer 24/7-Gesellschaft**
 ------------------------------------------------------
 
-### **STARTFRAGEN**
+### STARTFRAGEN
 
 -   Was fangt ihr mit dem Begriff *“24/7-Gesellschaft”* überhaupt an?
 
@@ -33,13 +33,11 @@ Uhlenbruck)
     -   Inwieweit sehnt ihr euch nach Ruhe?
         -   Wie könnt ihr am besten zur Ruhe kommen?
 
-<!-- -->
-
 -   Wo ortet ihr die Ursachen dafür, dass praktisch alle immer mehr “im
     Stress” sind?
 -   Warum haben, so scheint es, auch Pensionisten “keine Zeit” mehr?
 
-### **Kaputt und ausgelaugt**
+### Kaputt und ausgelaugt
 
 -   Welches Verhältnis hatten Adam und Eva eurer Meinung nach zur Zeit
     und zu ihren Aufgaben?
@@ -80,15 +78,15 @@ wir körperliche Ruhe brauchen.”''
                 vor allem ein Gebot ist, eine Pflicht, die man zu
                 erfüllen hat?
 
-### **Am Ende sein**
+### Am Ende sein
 
 **Jeremia 45,1-5**
 
 -   Wie würdet ihr die Situation Baruchs beschreiben?
 -   Welche Antwort gibt ihm Gott?
 
-*'<u>Dies ist ein Text, der vielleicht für manche, zum Beispiel auch für
-mich (*Anmerkung des Verfassers''),Fragen aufwirft:</u> '''
+*'Dies ist ein Text, der vielleicht für manche, zum Beispiel auch für
+mich (*Anmerkung des Verfassers''),Fragen aufwirft: '''
 
 -   Baruch ist in großen Nöten; und Gottes Antwort darauf ist nur:*“Es
     wird noch schlimmer, aber Du wirst immerhin überleben.”* Wie geht
@@ -106,12 +104,12 @@ genügen.”'' (Sophie Albrecht)
     verursachen **NICHT** ändert?
     -   In welcher Hinsicht kann uns da unser Glaube trotzdem helfen?
 
-### **Wie Ruhe im Alten Testament definiert wird**
+### Wie Ruhe im Alten Testament definiert wird
 
 **5. Mose 31,16; 2. Samuel 7,12**
 
-<u>Auf Seite 12 der Lektion werden uns verschiedene Definitionen von
-Ruhe aus dem AT geschildert:</u>
+_Auf Seite 12 der Lektion werden uns verschiedene Definitionen von
+Ruhe aus dem AT geschildert:_
 
 1.  “aufhören zu arbeiten, ausruhen, Urlaub machen”
 2.  “Ruhe haben”
@@ -129,7 +127,7 @@ Horst Bellermann)
 -   Wie können wir dazu beitragen, dass andere Menschen Ruhe finden? Zum
     Beispiel in der Gemeinde?
 
-### **Ruhe im Neuen Testament**
+### Ruhe im Neuen Testament
 
 **Markus 6,30-32**
 
@@ -160,7 +158,7 @@ Horst Bellermann)
 sammelst Kraft, bist ausgeglichen, strahlst, und läßt alle
 teilhaben...”'' (Bruno Sörensen)
 
-### **Ein ruheloser Wanderer**
+### Ein ruheloser Wanderer
 
 **1. Mose 4,1-17**
 
@@ -180,9 +178,5 @@ Wenn wir uns nach mehr Ruhe sehnen:
 -   Was müssen wir **selbst** dazu tun bzw. beitragen?
 -   Wo muss (kann) uns **Gott** helfen?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

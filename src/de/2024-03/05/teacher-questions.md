@@ -90,5 +90,4 @@ lesen Markus 5,1-20**
     -   Wenn Jesus diese Kapitel nur für dich hätte schreiben lassen,
         welche Wörter oder Sätze hätte er für dich unterstrichen?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

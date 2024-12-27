@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   16/07/2021
 ---
 
-[Die Wurzeln der Ruhelosigkeit](https://sabbath-school.adventech.io/de/2021-03/03/01)
+Die Wurzeln der Ruhelosigkeit
 =====================================================================================
 
 II: Wir studieren die Bibel
@@ -95,9 +95,5 @@ II: Wir studieren die Bibel
     -   Inwiefern ist der Blick auf die Wiederkunft Jesu ein Heilmittel,
         um Ruhe zu finden?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

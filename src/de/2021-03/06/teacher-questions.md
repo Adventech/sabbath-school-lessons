@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   06/08/2021
 ---
 
-[Ruhe finden in familiären Bindungen](https://sabbath-school.adventech.io/de/2021-03/06/01)
+Ruhe finden in familiären Bindungen
 ===========================================================================================
 
 II: Wir studieren die Bibel
@@ -176,9 +176,5 @@ für ihn jedoch erhebliche Folgen.
 
 &lt;
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

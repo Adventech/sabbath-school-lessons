@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   19/03/2021
 ---
 
-[Lohnende Liebe](https://sabbath-school.adventech.io/de/2021-01/11/01)
+Lohnende Liebe
 ======================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,12 +25,7 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
     Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
@@ -135,9 +130,5 @@ Eine Zeit für uns
     -   Wie kann der Sabbat praktisch meine „Lust“ am Herrn stärken?
     -   Wann ist der Ruhetag eine Freude und wann eine Last?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

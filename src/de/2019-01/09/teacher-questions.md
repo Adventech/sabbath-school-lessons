@@ -164,4 +164,4 @@ Offenbarung 13,16-18
     -   Was möchtet ihr konkret umsetzen?
         -   Was hilft euch dabei?
 
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

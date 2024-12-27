@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   10/09/2021
 ---
 
-[Sehnsucht nach mehr](https://sabbath-school.adventech.io/de/2021-03/11/01)
+Sehnsucht nach mehr
 ===========================================================================
 
 II: Wir studieren die Bibel
@@ -110,9 +110,5 @@ DONNERSTAG – Die himmlische Stadt einnehmen
     -   Wenn die Gnade Gottes die einzige Grundlage für meine Erlösung
         ist – welche Rolle spielt das in meinem Alltag?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

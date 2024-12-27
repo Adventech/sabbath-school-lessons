@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   13/11/2020
 ---
 
-[Anbetung in der Erziehung](https://sabbath-school.adventech.io/de/2020-04/07/anbetung-in-der-erziehung/)
+Anbetung in der Erziehung
 =========================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -58,14 +47,10 @@ II: Wir studieren die Bibel
     können Gegenstände wie Autos sein, aber auch unsere Mitmenschen wie
     zum Beispiel Superstars.)
 
-<!-- -->
-
 -   Wozu, meint ihr, hat Gott uns die Gabe des Gebetes geschenkt? Er
     hätte ja auch Menschen erschaffen können, die grundsätzlich nicht
     das Verlangen nach einem Gebet haben. Was hat der Mensch davon? Was
     hat der allwissende Gott von unserem Gebet?
-
-<!-- -->
 
 -   Wie konnten die Gebete von Adam und Eva gewesen sein, als sie noch
     direkten Zugang zu Gott hatten und ihn de facto sahen? Meint ihr,
@@ -73,8 +58,6 @@ II: Wir studieren die Bibel
     gebetet? (1. Mose 2 und 3) (Wir wissen es nicht, da die Bibel
     darüber keine Auskunft gibt. Die Frage ist dazu geeignet, die
     Mitglieder der Sabbatschulklasse darüber zum Nachdenken anzuregen.)
-
-<!-- -->
 
 -   Wer bereits als Kind in der Gemeinde war: Wie hat euch das
     gemeinsame Gebet mit den Eltern geprägt? Was war daran gut? Was
@@ -84,13 +67,11 @@ II: Wir studieren die Bibel
     der Frage: Reflexion, also Nachdenken über die Wurzeln des eigenen
     Gebetslebens.)
 
-<!-- -->
-
 -   Kann das gemeinsame Gebetsleben als Paar und eventuellen Kindern die
     eigene Beziehung bereichern? Wenn ja, welche Erfahrungen habt ihr
     persönlich damit machen dürfen?
 
-### **[Wir beten alle etwas an](https://sabbath-school.adventech.io/de/2020-04/07/wir-beten-alle-etwas-an/)**
+### Wir beten alle etwas an
 
 -   **Fragen zur Botschaft:**
     -   Welche könnten die Gründe sein, warum in allen uns bekannten
@@ -112,8 +93,6 @@ II: Wir studieren die Bibel
         ein Unternehmen aufbaut. Je mehr man „unternimmt“, desto mehr
         ist man mit dem Herzen dabei.)
 
-<!-- -->
-
 -   **Fragen zum Text:**
     -   Daniel 3,13-30. Das ist die Geschichte von den drei Freunden des
         Propheten Daniel namens Sadrach, Mesach und Abednego, als sie
@@ -132,7 +111,7 @@ II: Wir studieren die Bibel
         die Anbetung, insbesondere kurz vor dem Zeitpunkt, an dem Gott
         die Weltgeschichte abschließen wird?
 
-### **[Und verkündigt es ihren Kindern](https://sabbath-school.adventech.io/de/2020-04/07/und-verk%C3%BCndigt-es-ihren-kindern/)**
+### Und verkündigt es ihren Kindern
 
 Gott hat bereits im Garten Eden mit Adam und Eva die Familie “erfunden”.
 Sie stellt die Keimzelle jeder Gesellschaft dar, ist aber durch
@@ -167,7 +146,7 @@ Testament waren das beispielsweise das regelmäßige Singen der Psalmen.
         kommunizieren? Fällt uns das immer einfach? Wenn ja, wie können
         wir das lernen, sodass es einfach wird.
 
-### **[Im Geist und in der Wahrheit](https://sabbath-school.adventech.io/de/2020-04/07/im-geist-und-in-der-wahrheit/)**
+### Im Geist und in der Wahrheit
 
 Wie hat Jesus Erziehung (bei Erwachsenen) gelebt? Ein Beispiel dafür ist
 der Dialog mit der Frau am Jakobsbrunnen. Dabei verändert Jesus das
@@ -194,7 +173,7 @@ Leben dieser Frau und gleichzeitig geht es dabei um Anbetung.
         müssen wir so predigen, dass unsere Worte nicht langweilig sind.
         Wie löste Jesus diesen scheinbaren Widerspruch?)
 
-### **[Heilige Herrlichkeit](https://sabbath-school.adventech.io/de/2020-04/07/heilige-herrlichkeit/)**
+### Heilige Herrlichkeit
 
 -   Fragen zum Text:
     -   1\. Chronik 16,1 bis 36. Was sagt der Text über Anbetung aus? Immerhin
@@ -221,7 +200,7 @@ Leben dieser Frau und gleichzeitig geht es dabei um Anbetung.
         diese Frage auch sehr unterschiedlich ausfallen und somit in
         eine Diskussion enden.)
 
-### **[Götzendienst in der Erziehung](https://sabbath-school.adventech.io/de/2020-04/07/g%C3%B6tzendienst-in-der-erziehung/)**
+### Götzendienst in der Erziehung
 
 Wie das alte Israel sind auch wir heute von “Heidentum” umgeben. Damals
 waren es Götzendienste, heute ist es eine Mischung aus diversen
@@ -245,9 +224,5 @@ das ist vielleicht wichtiger - auf unsere Erziehung haben?
         dass diese Teil unseres Welt-, Glaubens- und Gottesbildes
         werden?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

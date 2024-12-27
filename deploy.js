@@ -200,7 +200,11 @@ renderer.codespan = function (text) {
 };
 
 renderer.image = function (href, title, text) {
-  return `<img style="max-width:100%" alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
+  let url = href
+  if (!/^https/.test(href)) {
+    url = `${renderer.options.baseUrl}${href}`
+  }
+  return `<img style="max-width:100%" alt="${text || ''}" src="${url}" />`
 }
 
 let slug = function (input) {
@@ -405,7 +409,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
   }
   if (fs.existsSync(`src/${info.language}/groups.yml`)) {
     let groups = yamljs.load(fs.readFileSync(`src/${info.language}/groups.yml`));
-    let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
+    let quarterly_group = quarterly.index.replace(info.language+'-', '').substring(7).replace(/^-/, '')
     if (!quarterly_group.length) {
       quarterly_group = 'default'
     }

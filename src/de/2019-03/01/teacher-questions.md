@@ -126,9 +126,5 @@ II: Wir studieren die Bibel
         können wir vermeiden, auf ärmere Menschen herabzuschauen und sie
         geringer zu achten? Reicht es a
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

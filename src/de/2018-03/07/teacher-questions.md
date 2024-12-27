@@ -30,8 +30,8 @@ eine **Weltreligion**..."*
             hinaus?
 -   Warum wollte Jesus überhaupt eine Weltreligion?
 
-<u>Diskutiert diese Frage ev. unter Zuhilfenahme der folgenden
-Zitate:</u>
+_Diskutiert diese Frage ev. unter Zuhilfenahme der folgenden
+Zitate:_
 
 **ZITAT 1:** *"Geldreligion, Weltreligion."* (Manfred Hinrich)
 
@@ -60,8 +60,6 @@ Krisen herbeiführen."* (Jakob Burckhardt)
 -   Fragen zum Text:
     -   Wie hat man damals diese Missionsunternehmung vorbereitet?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Wie sollten wir heute ein Vorhaben der Gemeinde vorbereiten bzw.
         planen?
@@ -78,8 +76,6 @@ Krisen herbeiführen."* (Jakob Burckhardt)
         Synagogen der Juden, obwohl es ja um die Heidenmission ging?
         -   Was war der Vorteil dieser Methode?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Was könnten heute solche "Basislager" für die Mission sein?
 
@@ -90,8 +86,6 @@ Krisen herbeiführen."* (Jakob Burckhardt)
 -   Fragen zum Text:
     -   Wie legt Paulus seine Predigt in der Synagoge an?
         -   Wie holt er dabei die Juden ab?
-
-<!-- -->
 
 -   Fragen zur Anwendung:
     -   Wie könnten wir einen Vertreter der bei uns vorherrschenden
@@ -106,20 +100,16 @@ Krisen herbeiführen."* (Jakob Burckhardt)
 -   Fragen zum Text:
     -   Was ist der Kern des Evangeliums?
 
-<!-- -->
-
 -   Fragen zur Anwendung:
     -   Warum fügen wir diesem Kern so gerne etwas hinzu?
         -   Wie rechtfertigen wir, dass wir in unseren Tauffragen doch
             recht weit über diesen Kern hinausgehen?
 
-<!-- -->
-
 -   Wo stehen wir in der Gefahr, adventistische Traditionen über unsere
     Kernidentität – dass wir Christen sind – zu stellen?
 
-<u>Könnten zum Beispiel folgende Standpunkte unter diese Kategorie
-fallen?</u>
+_Könnten zum Beispiel folgende Standpunkte unter diese Kategorie
+fallen?_
 
 1. Wir müssen die Menschen als Adventisten taufen (mit all den
 dazugehörigen Sonderlehren, die sie zu glauben haben), es genügt zur
@@ -202,6 +192,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

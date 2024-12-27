@@ -102,8 +102,6 @@ STARTFRAGE
     -   Was bewirkt laut Paulus das Evangelium?
     -   Was ist Gottes Gerechtigkeit?
 
-<!-- -->
-
 -   Fragen zur Anwendung
     -   Worin siehst Du das Ziel des Evangeliums?
 
@@ -114,9 +112,5 @@ Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen.
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

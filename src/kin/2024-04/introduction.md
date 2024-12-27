@@ -1,0 +1,25 @@
+### IJAMBO RY'IBANZE  
+
+#### INSANGANYAMATSIKO zo MU BUTUMWA BWIZA BWANDITSWE NA YOHANA
+
+Itapi y'Abaperesi yari mu iduka ryo mu mugi wa Teherani, muri Irani, yerekanaga ishusho y'ishyamba rya kera. Yari ikozwe neza cyane, yerekana ishusho yo mu Busuwisi: imisozi, isumo ry'amazi, ikiyaga cya Turukwaze, udusozi duteyeho ishyamba, n'ikirere kigari cy'ijuru ry'ubururu buvanzemo n'ibicu.
+
+Umuntu wese wazaga muri iryo duka yamaraga umwanya atwawe no kwitegereza ibigize iyo tapi: umubare w'amapfundo ayigize, umwenda ukoze iyo tapi, ubwoko bw'amabara ikozwemo, utuntu twose twatumye iyo tapi ibaho.  Ubundi nanone umuntu yashoboraga kwitegereza, agatinda ku kureba ubuhanga n'ibice byahaga iyi tapi ubwiza bwihariye: ikirere cyishushanya mu kiyaga, urubura rwari rutatse imisozi, ishyamba ritohagiye ritwikiriwe n'urubobi rw'icyatsi gitsibaze. Ibice bigize iyo tapi byahuriraga hamwe buri gice hamwe n'ikindi mu buryo bugendeye hamwe bikerekana ubwiza bugaragaza uburanga bushashagirana bw'aho hantu hateye amabengeza ho mu misozi ya Alupe.
+
+Muri iki gihembwe tugiye kuzigira hamwe indi nyandiko irangwa n'imyandikire y'ubuhanga bunoze kandi butangaje. Iki gikorwa si igituruka ku gishushanyo cyakozwe, ifoto iri mu rubaho, cyangwa itapi y'amabara yakoranywe ubuhanga. Ahubwo, ni Ijambo ry'Imana ryandikanywe ubuhanga dusanga mu Butumwa Bwiza uko bwanditswe na Yohana.
+
+Amagambo agira ubusobanuro iyo yumvikaniye mu cyerekezo cyayo. Kugira ngo umuntu ashobore gusobanukirwa icyo Ibyanditswe byera bigamije kuvuga, bimusaba kubyumvira mu cyerekezo cyabyo - akumva interuro uko ziri, akumva ibice, n'imigabane, hamwe n'ubutumwa bwose uko bwakabaye bwa Bibiliya ubwayo. Ubwa nyuma kandi, bitewe n'uko Bibiliya yose yahumetswe na Mwuka Muziranenge, buri mugabane [wayo] ugomba kwigwa mu cyerekezo cyayo yose uko yakabaye.
+
+Umugambi w'iki gihembwe ni ugusobanura ubutumwa dusanga mu Butumwa bwiza bwanditswe na Yohana. Mu butumwa bwiza bune, ubu burihariye, akenshi bugenda bwibanda ku biganiro byihariye hagati ya Yesu n'umuntu umwe cyangwa babiri, nka Natanayeli, Nikodemu, umugore wari ku iriba, umuntu waremaye wari ku kidendezi cy'i Betesida, umuntu wavutse ari impumyi, Lazaro na bashiki be, Pilato, Petero, cyangwa Toma. Inyinshi muri izi nkuru ziboneka gusa mu butumwa bwiza bwanditswe na Yohana.
+
+Ubutumwa bwiza bwanditswe na Yohana ni Ijambo ry'Imana twagejejweho n'intumwa. Nk'uko bimeze mu Byanditswe byera byose, Ubutumwa bwiza bwatugezeho biturutse ku bushake bw'Imana, aho kuba ubushake bwa muntu. Yohana yari igikoresho gusa gifite ubushake bwo kwemera gukoreshwa na Mwuka Wera kugira ngo tugezweho insanganyamatsiko z'ingenzi nk'izi zikurikira: Jambo (Logos), umucyo, umutsima, amazi, Mwuka Wera, ubumwe/kuba umwe, ibimenyetso, ibihamya, n'ubuhanuzi. Izi nsanganyamatsiko zirungikanya kandi zigatanga umucyo muri ubwo Butumwa bwiza bwose.
+
+**Ubutumwa bwiza bwanditswe na Yohana bukwiriye kutuyobora bukatugeza n'umurimo wa Yesu Kristo, We tuboneramo ubugingo buhoraho igihe tumumenye.  ku  mibereho**
+
+Kwiga Bibiliya akenshi bidusaba kwibanda ku busobanuro bw'ijambo cyangwa amagambo make yo mu Byanditswe. Dushakira ubusobanuro bw'ijambo mu nkoranyamagambo ya Bibiliya. Dusuzuma ikibonezamvugo, icyerekezo cy'icyo gihe, icy'amateka avuga muri icyo gihe, maze tukabihuza n'isano bifitanye n'itapi yacu - tugasuzuma umubare w'amapfundo ya buri gace kayo, umwenda ikozwemo, amabara, n'ibiyigize byose. Buri kintu cyose muri ibi byose ni ingenzi.
+
+Ariko mu gihe dusuzuma buri kantu kose ntitugomba kureka ishusho ngari. Mu kuri, nk'uko ya tapi y'Abaperesi yashoboraga gukururira umuntu wese ku ishusho y'agahebuzo yo mu misozi ya Alpe, ni ko n'Ubutumwa bwiza bwanditswe na Yohana bukwiriye kutuyobora bukatugeza ku mibereho n'umurimo wa Yesu Kristo, We tuboneramo ubugingo buhoraho igihe tumumenye. Buri kantu kose gafite akamaro, kuko katujyana ku ishusho ngari, kandi iyo shusho ngari Yohana atwereka ni uguhumekerwa tugahishurirwa ubumana bwa Yesu, ari We Mwami n'Umukiza wacu.
+
+_E.Edward Zinke, yabaye umuyobozi wungirije w'Ikigo cy'Ubushakashatsi mu bya Bibiliya cy'Itorero ry'Abadiventisti b'Umunsi wa Karindwi ku Isi, akorana n'amatorero menshi imirimo itandukanye ayobora n'ibigo bitandukanye, birimo no kuba umuyobozi wungirije w'Ikigo gishinzwe kurinda inyandiko za Ellen G. White, aba n'umujyanama mukuru w'ikinyamakuru cy'Urwibutso rw'Abadiventisti. Afite impamyabumenyi eshatu z'icyubahiro yakuye muri Kaminuza z'Abadiventisti b'Umunsi wa Karindwi. Atuye muri Leta ya Maryland, muri Amerika._
+
+_Thomas Shepherd, PhD, Dr PH, ni umushakashatsi akaba n'umwarimu w'inzobere mu Isezerano Rishya muri Kaminuza yigisha iby'Iyobokamana ya Andruzi muri Amerika, aho yigisha kuva mu mwaka wa 2008. We n'umugore we Sherry Shepherd, MD, bakoze umurimo w'ubumisiyoneri muri Malawi no muri Brezili. Bafite abana babiri bakuze n'abuzukuru batandatu._

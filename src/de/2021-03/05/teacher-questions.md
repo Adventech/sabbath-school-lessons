@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   30/07/2021
 ---
 
-[“Kommt her zu mir …”](https://sabbath-school.adventech.io/de/2021-03/05/01)
+“Kommt her zu mir …”
 ============================================================================
 
 II: Wir studieren die Bibel
@@ -33,8 +33,6 @@ II: Wir studieren die Bibel
             Griechisch-Deutsches Wörterbuch zu den Schriften des Neuen
             Testaments und der frühchristlichen Literatur (Berlin; New
             York: Walter de Gruyter, 1988), 687.
-
-<!-- -->
 
 -   Erweitert der Gedanke des Waagebalkens das Verständnis des Textes?
 
@@ -103,9 +101,5 @@ auferlegt, im täglichen Leben zu tragen? Welche Änderungen sind in einer
 Gemeinde notwendig, um einander zu helfen die Lasten des Alltages zu
 tragen?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

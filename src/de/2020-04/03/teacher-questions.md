@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   16/10/2020
 ---
 
-[**Das Gesetz als Lehrer**](https://sabbath-school.adventech.io/de/2020-04/03/01)
+**Das Gesetz als Lehrer**
 =================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -43,7 +32,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   In unserer Gesellschaft sind wir förmlich umzingelt von Gesetzen.
     Von welchen z.B.?
@@ -51,7 +40,7 @@ II: Wir studieren die Bibel
 -   Wie sieht es mit den Geboten Gottes aus: Welche sind die
     bedeutsamsten? Warum?
 
-### **Sonntag: Gott lieben und fürchten**
+### Sonntag: Gott lieben und fürchten
 
 **5. Mose 31,9-13**
 
@@ -73,7 +62,7 @@ II: Wir studieren die Bibel
 -   Wohin könnte Liebe ohne (Ehr-)Furcht führen? Wohin (Ehr-)Furcht ohne
     Liebe?
 
-### **Montag: Zeuge gegen euch**
+### Montag: Zeuge gegen euch
 
 **5. Mose 31,14-19**
 
@@ -90,7 +79,7 @@ II: Wir studieren die Bibel
     Welche Aspekte sollten (müssen?) bei guter geistlicher Musik gegeben
     sein?
 
-### **Dienstag: Damit du überall Erfolg hast**
+### Dienstag: Damit du überall Erfolg hast
 
 **Josua 1,7-8**
 
@@ -98,9 +87,5 @@ II: Wir studieren die Bibel
     sein?
 -   Wie erklärst du dir, dass es so viele erfolgreiche
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

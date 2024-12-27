@@ -8,7 +8,7 @@ date:  16/06/2023
 _Vera, dari Portugal_
 
 **Fakta Singkat**
-_Portugal adalah produsen gabus terbesar di dunia: hampir 100.000 ton gabus setiap tahun. Gabus ini kemudian dibuat, antara lain, sumbat botol dan isolasi termal untuk rumah. Importir utama gabus Portugal: Jerman, Inggris, dan Amerika Serikat._<br/>
+_Portugal adalah produsen gabus terbesar di dunia: hampir 100.000 ton gabus setiap tahun. Gabus ini kemudian dibuat, antara lain, sumbat botol dan isolasi termal untuk rumah. Importir utama gabus Portugal: Jerman, Inggris, dan Amerika Serikat._\
 _Cuaca Portugal sebagian besar panas. Negara ini dikenal memiliki jumlah jam sinar matahari tertinggi di Eropa; beberapa bagian memiliki hampir 300 hari cerah dalam setahun._
 
 Vera memberikan pelajaran Alkitab kepada pasangan lansia, Ana dan Pedro, yang tidak bisa membaca atau menulis. Putra pasangan itu, Benvendo, membantu pengajaran Alkitab. Dia membacakan ayat-ayat Alkitab dengan keras kepada mereka dan menuliskan jawaban mereka.

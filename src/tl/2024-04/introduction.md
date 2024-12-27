@@ -1,0 +1,23 @@
+### Mga Tema Sa Ebanghelyo Ni Juan
+
+Nakaupo sa isang tindahan sa Tehran, Iran, ang Persian na alpombra ay naglalarawan ng isang sinaunang kagubatan. Sa magandang pagkakagawa, muli itong lumikha ng isang tanawin sa Switzerland: Mga bundok, isang talon, isang turquoise na lawa, mga naggugubat na gilid ng burol, at isang malawak na bughaw na kalangitan na may mga ulap.
+
+Sinuman sa tindahang iyon ay maaaring gumugol ng kanilang panahon sa pagpuna ng mga detalye: ang bilang ng mga buhol sa bawat kuwadradong pulgada, ang tela ng karpet, ang uri ng pangkulay na ginamit—lahat ng maliliit na bagay na bumubuo sa alpombra.
+
+O ang tao, sa halip, ay maaaring nakatuon sa nakakaakit na mga pamamaraan at tema na nagbigay sa karpet ng kakaibang kagandahan nito: ang kalawakan na nasasalamin sa lawa, ang yelo na tumatakip sa mga bundok, ang luntiang kagubatan na pinupunuan ng malalim na berdeng lumot. Ang mga tema ng karpet na pinagsama-sama sa pamamagitan ng isang matalinong pagkakatugma ng pagtatanghal ng kagandahan upang maipakita ang karingalan ng tahimik na lugar na iyon sa Alps.
+
+Sa trimestreng ito ay pag-aaralan natin ang isa pang mahusay na ginawang obra maestra. Ang gawang ito ay hindi bunga ng isang pinsel sa kanvas, o ng isang wastong pagkaka-kuwadrong larawan, o ng isang bihasang pagkakahabi ng karpet. Sa halip, ito ay ang Salita ng Diyos, na may kahusayang inihayag sa Ebanghelyo ni Juan.
+
+Ang mga salita ay may kahulugan sa kanilang mga konteksto. Upang maunawaan ng sinuman kung ano ang nais sabihin ng Kasulatan, dapat itong pag-aralan sa konteksto—ang malapit na mga pangungusap, kabanata, at pangkat, at ang mismong pangkalahatang mensahe ng Biblia. Sa huli, sapagakat ang buong Biblia ay kinasihan ng Banal na Espiritu, ang bawat bahagi ay dapat pag-aralan sa konteksto ng kabuuan.
+
+Ang layunin ng trimestreng ito ay upang maunawaan ang mensahe ng Ebanghelyo ni Juan. Ito ay naiiba sa apat na Ebanghelyo, na madalas na nakatuon ang atensyon sa personal na mga pag-uusap sa pagitan ni Jesus at ng isa o dalawang tao lamang- tulad ni Nathaniel, Nicodemo, ang babae sa balon, ang paralitiko sa Tipunan ng Tubig ng Bethesda, ang lalaking ipinanganak na bulag, si Lazaro at ang kanyang mga kapatid na babae, si Pilato, si Pedro, o si Tomas. Marami sa mga kuwentong ito ay makikita lamang sa Juan.
+
+Ang Ebanghelyo ni Juan ay Salita ng Diyos na ipinahayag sa atin sa pamamagitan ng apostol. Tulad ng kabuuan ng Biblia, ang Ebanghelyo ay dumating sa pamamagitan ng kalooban ng Diyos, sa halip na kalooban ng tao. Si Juan ay isang nahahandang instrumento lamang na ginamit ng Banal na Espiritu upang ipahayag ang maraming mahahalagang tema: Ang Salita (logos), liwanag, tinapay, tubig, ang Banal na Espiritu, pagiging isa, mga tanda, patotoo, at propesiya. Ang mga temang ito kapwa ay nagpapalawak at nagbibigay liwanag sa isa’t isa sa kabuuan ng Ebanghelyo.
+
+Ang pag-aaral ng Biblia ay kadalasang nakatuon sa kahulugan ng isang salita o ng isang maikling sipi ng Kasulatan. Inaalam natin ang kahulugan ng salita sa isang diksyonaryo ng Biblia. Sinisiyasat natin ang gramatika, ang malapit na kontkesto, ang historical na konteksto at, sa paggamit natin ng paghahalintulad sa karpet—napapatuon tayo sa pagsusuri ng bilang ng mga buhol sa bawat kwadradong pulgada, ng tela, ng pangulay, at ng kinasasandalan. Ang lahat ng detalyeng ito ay mahalaga.
+
+Ngunit huwag nating kaliligtaan ang malaking larawan habang sinisiyasat ang mga detalye. Tunay nga, kung paanong maihahatid ng Persian karpet ang isang tao sa magandang tanawing iyon ng Alpine, maaari din tayong madala ng Ebanghelyo ni Juan pabalik sa buhay at ministeryo ni Jesu-Cristo, na ang makilala Siya ay buhay na walang hanggan. Ang mga detalye ay may isang gampanin, na ituro tayo sa malaking larawan, at sa Juan ang malaking larawang iyon ay isang kinasihan ng Diyos na paghahayag kay Jesus, ang ating Panginoon at Tagapagligtas.
+
+_Si E. Edward Zinke, isang dating associate director para sa Biblical Research Institute ng General Conference of Seventh-day Adventists, ay kasangkot sa maraming mga gawain at lupon ng iglesya, kasama ang pagiging vice chair ng Ellen G. White Estate Board at isang senior advisor para sa Adventist Review Ministries. Mayroon siyang tatlong honorary doctorate degrees mula sa Seventh-day Adventist universities. Siya ay naninirahan sa Maryland._
+
+_Si Thomas Shepherd, PhD, DrPH, ay isang senior research professor ng New Testament sa Andrews University Seventh-day Adventist Theological Seminary, kung saan siya nagtuturo mula noong 2008. Siya at ang kanyang asawa, Sherry Shepherd, MD, ay naglingkod bilang misyonero sa Malavi, Africa, at Brazil. Mayroon silang dalawang anak at anim na apo._

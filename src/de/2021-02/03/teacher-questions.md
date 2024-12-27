@@ -84,8 +84,6 @@ zum Maß aller Dinge.”* (Jürgen Wilbert)
         heutigen Welt?
         -   Waren sie “besser”? Waren sie “schlechter”?
 
-<!-- -->
-
 -   Zusammenfassend: Wie ist es also dazu gekommen, dass dieser
     “absolute Tiefpunkt” erreicht wurde?
 
@@ -104,7 +102,7 @@ Sünde mehr."* (Talmud)
 
 **1.Mose 6,8.9**
 
-<u>Wir denken nach über die Eigenschaften, die Noah auszeichneten:</u>
+_Wir denken nach über die Eigenschaften, die Noah auszeichneten:_
 
 -   Was bedeutete es, dass er **“fromm”** (LUT) bzw. **“gerecht”**
     (EF,SLT) war?
@@ -124,13 +122,9 @@ scheinheilig 3. rechtschaffen, tüchtig
             -   Wie würdet ihr heute einen Tadellosen Christen
                 definieren?
 
-<!-- -->
-
 -   Was meinte es, dass er **“mit Gott wandelte”** (LUT) (laut EF: “ging
     **beständig** mit Gott”)?
     -   Wie geht ein Tag, an dem wir mit Gott leben?
-
-<!-- -->
 
 -   Wenn Noah so war: Warum fand er **“Gnade”** (LUT) bzw. **“Gunst”**
     (EF) vor Gott?
@@ -175,8 +169,6 @@ entschieden zu spät."* (Billy)
             -   Woran mangelte es, als einige Zeit später die Turmbauer
                 zu Babel diesem Bund zuwider handelten?
 
-<!-- -->
-
 -   Eigentlich verspricht Gott ja “nur”, dass keine Sintflut mehr kommen
     wird. Das schließt ja andere Formen des Gerichtes nicht aus. Was mag
     also dieses versprechen den Menschen, die die Sintflut überlebten,
@@ -198,9 +190,5 @@ Wunder wie dies, dass nicht immer eine ist.”* (Thomas Brown)
 heute notwendig, um zu den Geretteten zu gehören? Was ist unsere “Arche
 Noah”?**
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

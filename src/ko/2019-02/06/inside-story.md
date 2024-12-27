@@ -27,9 +27,9 @@ date:   10/05/2019
 회에 대한 깊은 감사의 표현을 담은 ‘우정 증서(Friendship Certification)’를 수여해주었습니다.
 이 모든 것을 인하여 하나님께 영광을 돌립니다.
 
-<p style="text-align:right">마닐라한인국제교회 담임목사 <strong>류재성</strong></p>
+마닐라한인국제교회 담임목사 **류재성**
 
-<img src="https://user-images.githubusercontent.com/10376491/56854866-ff902a80-6902-11e9-8f91-e2a5238be7f6.jpg" style="max-width:100%" />
+![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2019-02/assets/857ee243bd5b6e436ad728939e1c222b70eb806af447ddeaf7ff526671165556.jpg)
 
 > <p></p>
 >
@@ -37,4 +37,4 @@ date:   10/05/2019
 >
 > 참여한 모든 분께 기념품을 드리며 우수 제안 또는 활동 소식을 선정하여 선물을 드립니다.
 >
-> 보내실 곳 : 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 <strong><a href="mailto:kucspm1@kuc.or.kr">kucspm1@kuc.or.kr</a></strong> 
+> 보내실 곳 : 안교·선교부 홈페이지 TMI Time 게시판 또는 이메일 **[kucspm1@kuc.or.kr](mailto:kucspm1@kuc.or.kr)** 

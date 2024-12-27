@@ -35,8 +35,6 @@ Offenbarung 4,8.11; 5,9-10.12-13
     -   Welche wichtigen Elemente der Anbetung enthalten diese Texte?
     -   Welche Wesen benützen diese Formulierungen?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Wer steht im Mittelpunkt dieser Huldigung?
     -   Inwiefern ist diese Weise der Anbetung auch für uns beispielhaft
@@ -53,8 +51,6 @@ Matthäus 4,8-9; Daniel 3,8-10; Offenbarung 13,4 und 14,9-11
     -   Wen beten die Menschen eigentlich an, wenn sie das Tier anbeten?
     -   Von welchen damit verbundenen Konsequenzen spricht der dritte
         Engel in seiner Botschaft an die Welt?
-
-<!-- -->
 
 -   Fragen zur Botschaft:
     -   Was können wir aus der Erfahrung der drei Jünglinge in der Ebene
@@ -124,6 +120,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

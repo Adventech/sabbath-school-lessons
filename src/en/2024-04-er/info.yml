@@ -1,0 +1,20 @@
+---
+  title: "The Book of John"
+  description: "A beautiful Persian rug hung for sale in a shop in Tehran, Iran. On the rug someone had woven a beautiful picture of a forest in Switzerland, with mountains, a waterfall, a lake, and a blue sky filled with clouds."
+  human_date: "October · November · December 2024"
+  start_date: "28/09/2024"
+  end_date: "27/12/2024"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Principal Contributors
+      value: "E. Edward Zinke, Thomas Shepherd"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Homayouni"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"

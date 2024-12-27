@@ -60,14 +60,4 @@ Druck, es hinge von uns ab, ob unser Leben gelingt?
     und sein Wesen mehr in den Fokus zu nehmen. Wenn du ein Lied über
     Gott schreiben würdest, wie würdest du Gott besingen?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/03/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

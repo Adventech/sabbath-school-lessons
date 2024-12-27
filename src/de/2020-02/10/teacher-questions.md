@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   05/06/2020
 ---
 
-[Die Bibel als Geschichtsschreibung](https://sabbath-school.adventech.io/de/2020-02/10/01)
+Die Bibel als Geschichtsschreibung
 ==========================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -75,7 +66,7 @@ Welche Unterschiede siehst du zwischen säkularer und biblischer
 Geschichte? Welche Rolle spielen diese Unterschiede bei der
 Interpretation säkularer bzw. biblischer Geschichte?
 
-### [DAVID, SALOMO UND DIE MONARCHIE](https://sabbath-school.adventech.io/de/2020-02/10/david-salomo-und-die-monarchie/)
+### DAVID, SALOMO UND DIE MONARCHIE
 
 **1. Samuel 17**
 
@@ -92,12 +83,5 @@ Interpretation säkularer bzw. biblischer Geschichte?
         Goliat und er fürchtet sich nicht. Warum fürchtet sich David
         nicht vor Goliat? Was können wir von David lernen?
 
-===[JESAJA, HISKIA UND
-SANHERIB](https://sabbath-school.adventech.io/de/2020-02/10/jesaja-hiskia-und-sanherib/)==
-
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

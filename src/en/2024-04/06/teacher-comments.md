@@ -5,7 +5,7 @@ date:  08/11/2024
 
 #### Part I: Overview
 
-Study Focus: John 1:32–36, John 6:1–71, John 5:36–38, and John 7:37–53
+Study Focus: John 1:32–36, John 6:51–71, John 5:36–38, and John 7:37–53
 
 In this lesson, we further explore the testimony of John the Baptist. John was not confused or doubtful as to the identity of Christ. At every turn, John pointed to Jesus as the Son of God and as the embodiment of fulfilled prophecy. John was by no means a timeserving politician who pandered to the crowd; rather, he was committed to the revealed truth of God’s kingdom, regardless of whether it was accepted by a majority of the people or not. John was even willing to stand, alone and unwavering, for the truth that he was sure was sent from God.
 
@@ -49,7 +49,7 @@ At that point, Jesus looked at His remaining twelve disciples and asked, “ �
 
 John the Baptist testified several times to the reality of the true Messiah sent from heaven. But surely the Father’s testimony about His Son, along with the witness of God the Holy Spirit, are the most powerful. At Jesus’ baptism, all three members of the Godhead were fully engaged. The Father’s voice testified that Jesus was His “ ‘beloved Son, in whom I am well pleased’ ” (Matt. 3:17, NKJV). On that occasion, the heavens were opened “to Him [Jesus], and He saw the Spirit of God descending like a dove and alighting upon Him” (Matt. 3:16, NKJV).
 
-There was nothing else that Jesus could have said or done to convince His opponents beyond what was said or done on the day of His baptism. Moreover, John the Baptist, whom they revered, testified of the veracity of heaven’s witness. So why did Christ’s opponents not believe the audible and visual witness of the Father and the Spirit on His behalf? Why did they not believe in the divine mighty works and words?
+There was nothing else that Jesus could have said or done to convince His opponents beyond what was said or done on the day of His baptism. Moreover, John the Baptist testified of the veracity of heaven’s witness. So why did Christ’s opponents not believe the audible and visual witness of the Father and the Spirit on His behalf? Why did they not believe in the divine mighty works and words?
 
 The powerful testimony of Lazarus’s resurrection from the dead should have convinced the Jewish leaders that Jesus was the true Messiah. But, in their spiritual darkness, they could not see the light of God’s truth shining all around. They refused to believe, no matter what evidence was plainly set before their eyes. In fact, the Pharisees, always at odds with the Sadducees, found a convenient opportunity to unite forces to condemn Jesus to death. Shortly after, Jesus prayed, “Father, glorify thy name” (John 12:28). The Father’s voice testified on behalf of Christ’s sacrifice on the cross that He had “ ‘both glorified it and will glorify it again’ ” (John 12:28, NKJV).
 

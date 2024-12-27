@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   19/06/2020
 ---
 
-[**Umgang mit schwierigen Passagen**](https://sabbath-school.adventech.io/de/2020-02/11/01)
+**Umgang mit schwierigen Passagen**
 ===========================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -22,7 +22,7 @@ I: Gemeinschaft + Aktivitäten
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   An welchen schwierigen Bibelstellen hast du dir schon „die Zähne
     ausgebissen“?
@@ -30,7 +30,7 @@ II: Wir studieren die Bibel
     konntest?
 -   Woran erkennst du, dass du das rechte Verständnis erhalten hast?
 
-### **Sonntag: Mögliche Gründe für scheinbare Widersprüche**
+### Sonntag: Mögliche Gründe für scheinbare Widersprüche
 
 **2. Timotheus 2,14-15; 2. Petrus 3,15-16**
 
@@ -49,13 +49,9 @@ II: Wir studieren die Bibel
     Lektion: Übersetzungs- und Abschreibfehler sind möglich.) Wie geht
     man damit um? Leidet die biblische Vertrauenswürdigkeit?
 
-### **Montag & Donnerstag: Ehrlich und sorgfältig mit Schwierigkeiten umgehen**
+### Montag & Donnerstag: Ehrlich und sorgfältig mit Schwierigkeiten umgehen
 
 '''Sprüc
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 
