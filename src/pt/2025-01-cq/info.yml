@@ -1,0 +1,20 @@
+---
+  title: "Metanoia: Bem-vindo à renovação da sua mente!"
+  description: "A vida em nosso mundo mudou radicalmente nos últimos anos. A pandemia do coronavírus, as agitações civis e políticas, a erosão da família e o aumento dos desastres naturais fizeram com que muitas pessoas sentissem medo, ansiedade e depressão. Os transtornos mentais estão em alta, assim como as taxas de suicídio entre adolescentes. As pessoas procuram paz e felicidade, mas, infelizmente, buscam nos lugares errados e de maneiras destrutivas. O uso de drogas e a promiscuidade estão fora de controle."
+  human_date: "janeiro · fevereiro · março 2025"
+  start_date: "28/12/2024"
+  end_date: "28/03/2025"
+  color_primary: "#C96D6D"
+  color_primary_dark: "#A44B4B"
+  splash: true
+  credits:
+    - name: Autor
+      value: "David Guerrero"
+    - name: Tradutor
+      value: "Matheus Cardoso"
+    - name: Editoração
+      value: "Editorar Copy e Michelson Borges"
+    - name: Revisora
+      value: "Rosemara Santos"
+    - name: Projeto Gráfico e Capa
+      value: "Bruna Ribeiro, Milena Ribeiro e Samuel K. Santana"
