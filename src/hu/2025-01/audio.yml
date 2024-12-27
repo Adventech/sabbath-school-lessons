@@ -3,7 +3,7 @@
     - artist: Felnőtt szombatiskola
       tracks:
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20241228.mp3
-          target: hu/2024-05/01/01
+          target: hu/2025-01/01/01
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20241229.mp3
           target: hu/2025-01/01/02
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20241230.mp3
