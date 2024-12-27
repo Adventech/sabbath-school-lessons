@@ -4,8 +4,8 @@
   human_date: "Януари · Февруари · Март 2025"
   start_date: "28/12/2024"
   end_date: "28/03/2025"
-  color_primary: "#304465"
-  color_primary_dark: "#032C48"
+  color_primary: "#5784A6"
+  color_primary_dark: "#3C6685"
   splash: true
   credits:
     - name: Автори
