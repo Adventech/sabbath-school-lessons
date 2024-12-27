@@ -9,19 +9,15 @@ date: 28/02/2025
 
 **Kulcsszöveg: 1Móz 3:15**
 
-**Alapigék:  1Móz 3:1-4; Ézs 14:12-15; Ez 28:12-19; Mt 13:24-30; Jn 8:44; Jel 12:7-9**
+**Alapigék: 1Móz 3:1-4; Ézs 14:12-15; Ez 28:12-19; Mt 13:24-30; Jn 8:44; Jel 12:7-9**
 
 **Bevezetés: A kozmikus konfliktus nap mint nap hatással van minden emberre és az egész világegyetemre. Sátán megpróbálja kisajátítani az Istent megillető imádatot, de végül vereséget szenved.**
 
-
-
 **A tanulmány témái: Az e heti tanulmány három fő témára összpontosít:**
 
-1.  A kozmikus konfliktus nem két mindenható erő harca, középpontjában Isten jellemének erkölcsi tökéletessége áll. A konfliktusban nem két, egymástól független hatalom küzd végtelen háborúban, mivel Lucifer Isten teremtménye, aki úgy döntött, hogy megkérdőjelezi Teremtője jellemét.
-
-2.  A kozmikus konfliktus Isten népét is érinti: az egész világegyetem érzi a hatásait. A mennyben Krisztus volt Lucifer lázadásának elsődleges célpontja. A pusztában megkérdőjelezte, hogy Jézus Isten Fia. Jézus mégis győzedelmeskedett, és felhatalmazást kapott arra, hogy Isten fiaivá és leányaivá tegyen minket.
-
-3.  A kozmikus konfliktust nem lehetett elhamarkodottan megoldani: eljön a nap, amikor Isten véget vet a gonosznak. Addig a gonoszság beérik, és így az Isten kormányzata ellen felhozott hamis vádjait minden teremtmény valós fényében láthatja meg.
+1. A kozmikus konfliktus nem két mindenható erő harca, középpontjában Isten jellemének erkölcsi tökéletessége áll. A konfliktusban nem két, egymástól független hatalom küzd végtelen háborúban, mivel Lucifer Isten teremtménye, aki úgy döntött, hogy megkérdőjelezi Teremtője jellemét.
+2. A kozmikus konfliktus Isten népét is érinti: az egész világegyetem érzi a hatásait. A mennyben Krisztus volt Lucifer lázadásának elsődleges célpontja. A pusztában megkérdőjelezte, hogy Jézus Isten Fia. Jézus mégis győzedelmeskedett, és felhatalmazást kapott arra, hogy Isten fiaivá és leányaivá tegyen minket.
+3. A kozmikus konfliktust nem lehetett elhamarkodottan megoldani: eljön a nap, amikor Isten véget vet a gonosznak. Addig a gonoszság beérik, és így az Isten kormányzata ellen felhozott hamis vádjait minden teremtmény valós fényében láthatja meg.
 
 **Gyakorlati alkalmazás: Hogyan tehet még tudatosabbá Istenre hagyatkozásunkban, hogy nap mint nap szembesülünk a kozmikus konfliktus hatásaival?**
 
@@ -57,15 +53,10 @@ Ellen G. White beszámolója a mennyei nagy küzdelem kezdeti szakaszában ugyan
 
 Az osztályban vitassuk meg a következő kérdéseket:
 
-1.  Hogyan tudnánk a legjobban elmagyarázni a kozmikus küzdelem természetét annak, aki nem hisz, figyelembe véve, hogy mindannyian szembesülünk annak hatásaival a világban?
-
-2.  Miközben elgondolkodunk azon, ahogyan Isten az ördög által felhozott hamis vádakat kezeli, mélyen megindít szerető és megbízható jelleme. Hogyan mutatkozik meg Isten jelleme, a szeretet abban is, ha a gyülekezetben bizalmon alapuló kapcsolatokat építünk?
-
-3.  Az, hogy valakit szeretünk-e és bízunk-e benne, az adott személy jellemétől is függ. Isten kegyelméből milyen erényeket kell ápolnunk az életünkben azért, hogy az Ő jellemét tükrözhessük?
-
-4.  Amikor az emberek eltávolodnak Istentől, már nincsenek bensőséges kapcsolatban vele, gyakran változik bennük a jelleméről kialakított kép is. E veszély elkerülése érdekében miként lehetünk tudatosabbak, hogy tapasztaljuk Isten jelenlétét és valóban bemutassuk Őt?
-
-
+1. Hogyan tudnánk a legjobban elmagyarázni a kozmikus küzdelem természetét annak, aki nem hisz, figyelembe véve, hogy mindannyian szembesülünk annak hatásaival a világban?
+2. Miközben elgondolkodunk azon, ahogyan Isten az ördög által felhozott hamis vádakat kezeli, mélyen megindít szerető és megbízható jelleme. Hogyan mutatkozik meg Isten jelleme, a szeretet abban is, ha a gyülekezetben bizalmon alapuló kapcsolatokat építünk?
+3. Az, hogy valakit szeretünk-e és bízunk-e benne, az adott személy jellemétől is függ. Isten kegyelméből milyen erényeket kell ápolnunk az életünkben azért, hogy az Ő jellemét tükrözhessük?
+4. Amikor az emberek eltávolodnak Istentől, már nincsenek bensőséges kapcsolatban vele, gyakran változik bennük a jelleméről kialakított kép is. E veszély elkerülése érdekében miként lehetünk tudatosabbak, hogy tapasztaljuk Isten jelenlétét és valóban bemutassuk Őt?
 
 ---
 

@@ -13,15 +13,11 @@ date: 07/03/2025
 
 **Bevezetés: Sátán törvénytelen uralkodó, ezért Isten korlátozza az uralmát.**
 
-
-
 **A tanulmány témái: Az e heti tanulmány három fő témára összpontosít:**
 
-1.  Sátán törvénytelenül bitorolja a hatalmat: Isten korlátozott és ideiglenes uralmat adott a neki, miután betört a földre a bűn, de ezt az uralmat nem jogosan szerezte meg. Isten korlátozta ugyan saját tevékenységét, hogy kiküszöbölje a gonoszságot a világból, de Jézus legyőzte az ördögöt. Krisztus győzelme a pusztai kísértésben és Sátán legyőzése a kereszten azt jelzi, hogy Sátán uralma törvénytelen és véges.
-
-2.  Sátán rágalmaz és foglyokat ejt: Sátán törvénytelen uralkodó, az emberek mégis törvényes foglyai lehetnek uralmának. Emberi akaratunk hajlamos követni sugallatait, hacsak Krisztus nem lakik bennünk, nem irányítja vágyainkat és életünket.
-
-3.  Sátán uralma korlátozott: Sátánnak van helye és ideje „uralkodni”, de Isten korlátokat szab neki. Az emberi történelem kibontakozásában a jóság természetfeletti erői állnak szemben a gonosszal, és a hívők imái hatékony erőforrást jelentenek velük szemben.
+1. Sátán törvénytelenül bitorolja a hatalmat: Isten korlátozott és ideiglenes uralmat adott a neki, miután betört a földre a bűn, de ezt az uralmat nem jogosan szerezte meg. Isten korlátozta ugyan saját tevékenységét, hogy kiküszöbölje a gonoszságot a világból, de Jézus legyőzte az ördögöt. Krisztus győzelme a pusztai kísértésben és Sátán legyőzése a kereszten azt jelzi, hogy Sátán uralma törvénytelen és véges.
+2. Sátán rágalmaz és foglyokat ejt: Sátán törvénytelen uralkodó, az emberek mégis törvényes foglyai lehetnek uralmának. Emberi akaratunk hajlamos követni sugallatait, hacsak Krisztus nem lakik bennünk, nem irányítja vágyainkat és életünket.
+3. Sátán uralma korlátozott: Sátánnak van helye és ideje „uralkodni”, de Isten korlátokat szab neki. Az emberi történelem kibontakozásában a jóság természetfeletti erői állnak szemben a gonosszal, és a hívők imái hatékony erőforrást jelentenek velük szemben.
 
 **Gyakorlati alkalmazás: Sátán ideiglenes uralma korlátozott. Jézus győzelme alapján nem kell a halálfélelem rabságában élnünk, de fontos továbbra is ébernek lenni és Isten erejére támaszkodni. Hogyan segíthet az imaéletünk ellenállni Sátán törvénytelen uralmának?**
 
@@ -53,13 +49,9 @@ Ellen G. White szintén ír az emberi életben a kozmikus küzdelemről, és ebb
 
 Jób könyve lenyűgöző betekintést nyújt a nagy küzdelem valóságába. Jób eldöntötte, hogy a körülmények ellenére is félni fogja Istent. Ezt figyelembe véve beszéljük meg az alábbi kérdéseket:
 
-1.  Hogyan ösztönözhet bennünket Isten oltalma arra, hogy még jobban féljük, szeressük Őt és vágyakozzunk utána? Milyen módon jelenthet esetleg kihívást védelme néhányunk számára, vagy akadályozhatja a neki adott válaszunkat?
-
-2.  Sátán uralma korlátozott, ami a Jób könyvében szereplő mennyei tanácskozás jelenetében válik nyilvánvalóvá. Mit árulnak el hatalmának korlátai Isten hatalmáról és tetteiről?
-
-3.  Ellen G. White kiemeli a „Sátán hatalma” című fejezetben (Testimonies for the Church. 1. köt. 345. o.) az imádság fontosságát annak érdekében, hogy Isten angyalokat küldjön a szabadításunkra. Mi a szerepe tehát imaéletünknek az isteni cselekvés útjainak megnyitásában?
-
-
+1. Hogyan ösztönözhet bennünket Isten oltalma arra, hogy még jobban féljük, szeressük Őt és vágyakozzunk utána? Milyen módon jelenthet esetleg kihívást védelme néhányunk számára, vagy akadályozhatja a neki adott válaszunkat?
+2. Sátán uralma korlátozott, ami a Jób könyvében szereplő mennyei tanácskozás jelenetében válik nyilvánvalóvá. Mit árulnak el hatalmának korlátai Isten hatalmáról és tetteiről?
+3. Ellen G. White kiemeli a „Sátán hatalma” című fejezetben (Testimonies for the Church. 1. köt. 345. o.) az imádság fontosságát annak érdekében, hogy Isten angyalokat küldjön a szabadításunkra. Mi a szerepe tehát imaéletünknek az isteni cselekvés útjainak megnyitásában?
 
 ---
 

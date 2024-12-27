@@ -27,8 +27,6 @@ Otthon kinyitotta a Bibliatanulmányt, és olvasni kezdte. Közben egy hangot ha
 
 „Értünk hoztad ezt az áldozatodat, Jézusom! – sóhajtott Grace. – Te jó vagy! Mindenestől jó! Bár nem tudom mindenre a választ, de teljes szívemmel bízom benned!”
 
-
-
 ---
 
 #### Ellen G. White idézetek

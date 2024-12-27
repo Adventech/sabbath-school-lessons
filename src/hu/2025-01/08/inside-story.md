@@ -17,8 +17,6 @@ Nem kapott választ. Felnőtt korában Nelson már nem járt templomba. Nagyszer
 
 „A zene fényes csillaggá tett engem a világban, de ma már Krisztusért szeretnék világítani!” – vallja Nelson.
 
-
-
 ---
 
 #### Ellen G. White idézetek

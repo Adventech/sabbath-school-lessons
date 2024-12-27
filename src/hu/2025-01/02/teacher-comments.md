@@ -9,17 +9,15 @@ date: 10/01/2025
 
 **Kulcsszöveg: Jn 14:23**
 
-**Alapigék:  5Móz 7:9; Zsolt 145:9; Ez 33:11; Mt 18:23-25; 2Pt 3:9; Júd 21**
+**Alapigék: 5Móz 7:9; Zsolt 145:9; Ez 33:11; Mt 18:23-25; 2Pt 3:9; Júd 21**
 
 **Bevezetés: Isten szeretete kapcsolatokra épül. A vele való szeretetteljes és bensőséges kapcsolat nem létezhet anélkül, hogy az ember viszontszeretettel válaszolna az Ő odaadására.**
 
 **A tanulmány témái: Az e heti tanulmányunk három fő témára összpontosít:**
 
-1.  Isten szeretete feltétel nélküli. Ő mindenkit szeret, és kölcsönös, szoros kapcsolatot szeretne kialakítani. Szeretetének megnyilvánulása nem függ az ember tetteitől, vagy nem korlátozódik egy bizonyos embertípusra. Mindenkiben értéket lát, és mindenkit bőséges áldásokban akar részesíteni.
-
-2.  Isten szeretete egy feltételen alapuló kapcsolatot kezdeményez: jóakarata univerzális és feltétel nélküli, de arra vágyik, hogy konkrét, közeli, személyes kapcsolatot alakítson ki az emberekkel, amiben már ott van a feltételesség. Vagyis választ vár a szeretetére: spontán viszontszeretetet, engedelmesség és hűség formájában.
-
-3.  Isten azt szeretné, ha szeretete tükröződne az emberi kapcsolatokban: kölcsönös szeretetkapcsolatra törekszik, aminek folyamatosságához megfelelő emberi válaszra van szükség.
+1. Isten szeretete feltétel nélküli. Ő mindenkit szeret, és kölcsönös, szoros kapcsolatot szeretne kialakítani. Szeretetének megnyilvánulása nem függ az ember tetteitől, vagy nem korlátozódik egy bizonyos embertípusra. Mindenkiben értéket lát, és mindenkit bőséges áldásokban akar részesíteni.
+2. Isten szeretete egy feltételen alapuló kapcsolatot kezdeményez: jóakarata univerzális és feltétel nélküli, de arra vágyik, hogy konkrét, közeli, személyes kapcsolatot alakítson ki az emberekkel, amiben már ott van a feltételesség. Vagyis választ vár a szeretetére: spontán viszontszeretetet, engedelmesség és hűség formájában.
+3. Isten azt szeretné, ha szeretete tükröződne az emberi kapcsolatokban: kölcsönös szeretetkapcsolatra törekszik, aminek folyamatosságához megfelelő emberi válaszra van szükség.
 
 #### Kommentár
 
@@ -39,7 +37,7 @@ Isten feltétel nélküli szeretetének ez a képe összecseng azzal a gondolatt
 
 Ez a gondolat – egy bizonyos mértékű kölcsönösség szükséges egy őszinte szeretetkapcsolathoz – létfontosságú annak megértéséhez, ahogy Isten szövetséges kapcsolatra lépett népével. Először is, ez a szövetség Isten feltétel nélküli szeretetén alapul. Ahogy 5Móz 7:6-8 rámutat Izraellel kapcsolatban: „Téged választott ki az ÚR, a te Istened, hogy saját népe légy neki minden nép közül e föld színén. Nem azért szeret az ÚR, és nem azért választott ki titeket, mintha minden népnél többen volnátok, hiszen minden népnél kevesebben vagytok, hanem… mert szeret titeket az ÚR, és megtartja az esküt, amellyel megesküdött atyáitoknak.” Habár Isten szeretetének alapja nem az, amit Izrael cselekszik, de az Isten és Izrael közötti szövetségi kapcsolat igényel bizonyos szintű kölcsönös szeretetet. A Mindenható hűséggel és irgalommal tartja meg szövetségét. Ahogy 5Móz 7:9 hangsúlyozza: Isten hűséges és „megtartja szövetségét és az irgalmasságot ezerízig azok iránt, akik szeretik őt, és megtartják parancsolatait.”
 
-**3.  Isten azt szeretné, ha szeretete tükröződne az emberi kapcsolatokban.**
+**3. Isten azt szeretné, ha szeretete tükröződne az emberi kapcsolatokban.**
 
 Ha feltételes a szerető Istenünkkel való kapcsolat (nem a szeretete, mert az örökkévaló [Jer 31:3]), akkor azt el lehet játszani, már ami a kapcsolat emberi oldalát illeti. Például Hós 9:15 hangsúlyozza Izrael bűne és gonoszsága miatt, hogy megszűnt az Istennel való szeretetkapcsolatuk. Hasonló gondolat jelenik meg Jer 16:5-ben. Róm 11:22 azt húzza alá, hogy az Istennel való szeretetkapcsolat folytonossága az emberektől függ, akiknek meg kell maradniuk az Ő jóságában. Ebből a nézőpontból kéri a hívőket Júd 1:21 verse, hogy „tartsátok meg magatokat az Isten szeretetében”. Az Istennel való szeretetkapcsolat magában foglalja az emberek részéről azt, hogy megtartják parancsolatait (Jn 14:21) és szeretik egymást (1Jn 4:7). Ezek nem hétköznapi, emberi cselekedetek, hanem olyasmi, amihez Isten szeretete ad erőt, mert Ő előbb szeretett minket (1Jn 4:19; vö. 4:7).
 
@@ -49,11 +47,8 @@ A Mt 18:23-25 verseiben szereplő gonosz, engesztelhetetlen szolga példázata a
 
 Isten feltétel nélkül szeret mindenkit. Ahogy elfogadjuk ezt és válaszolunk rá, vagyis építjük a vele való szeretetkapcsolatot, azt is érezzük, hogy vágyunk az emberekkel való szeretetteljes kapcsolatokra is. Tehát Ő nemcsak árasztja a teremtményeire a szeretetét, hanem hagyja, hogy azok szabadon válaszoljanak (pozitívan vagy negatívan) rá, és kész minden embert képessé tenni arra, hogy kifejezze a szeretetet iránta és mások ránt. Ezen gondolat alapján beszéljük meg az alábbi kérdéseket:
 
-1.  Hogyan fejezhetjük ki feltétlen szeretetünket és tiszteletünket minden ember iránt, tekintet nélkül azok társadalmi helyzetére, jellemvonásaira vagy elért eredményeire?
-
-2.  Gondoljunk egy olyan történetre, ami a feltétel nélküli és a feltételeken alapuló kapcsolat közti különbséget példázza! Miként szemlélteti ez azt, hogyan értelmezzük Isten szeretetét és a velünk való kapcsolatát illetően a feltétel nélküliséget és a feltételességet?
-
-3.  Istennel való szeretetkapcsolatunk arra indít, hogy vágyjunk jót tenni másokkal, és abban örömünket is leljük. Ez ellentétes a mások szükségletei iránti közönnyel. Miként változtat az Istennel való kapcsolatunk azon, ahogyan családtagjainkkal, munkatársainkkal, szomszédainkkal viselkedünk?
-
-4.  Hogyan lehet feltétel nélküli a szeretetünk valaki iránt, aki nem akar tiszteletteljes, szerető kapcsolatba kerülni velünk? Vajon a feltétel nélküli szeretet folyamatos gyakorlásában ott rejlik a lehetőség, hogy az illető végül meggondolja magát? Indokoljuk válaszunkat!
+1. Hogyan fejezhetjük ki feltétlen szeretetünket és tiszteletünket minden ember iránt, tekintet nélkül azok társadalmi helyzetére, jellemvonásaira vagy elért eredményeire?
+2. Gondoljunk egy olyan történetre, ami a feltétel nélküli és a feltételeken alapuló kapcsolat közti különbséget példázza! Miként szemlélteti ez azt, hogyan értelmezzük Isten szeretetét és a velünk való kapcsolatát illetően a feltétel nélküliséget és a feltételességet?
+3. Istennel való szeretetkapcsolatunk arra indít, hogy vágyjunk jót tenni másokkal, és abban örömünket is leljük. Ez ellentétes a mások szükségletei iránti közönnyel. Miként változtat az Istennel való kapcsolatunk azon, ahogyan családtagjainkkal, munkatársainkkal, szomszédainkkal viselkedünk?
+4. Hogyan lehet feltétel nélküli a szeretetünk valaki iránt, aki nem akar tiszteletteljes, szerető kapcsolatba kerülni velünk? Vajon a feltétel nélküli szeretet folyamatos gyakorlásában ott rejlik a lehetőség, hogy az illető végül meggondolja magát? Indokoljuk válaszunkat!
 

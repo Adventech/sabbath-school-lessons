@@ -13,10 +13,6 @@ Joanne-nak erre a mondatra volt szüksége. Ha a társa csak vigasztalta volna, 
 
 „Uram! – imádkozott. – Ha komolyan azt akarod, hogy itt maradjak, kérlek, vezess ki ebből a bajból! Védj meg engem, vagy adj menekvést a nehéz helyzetből!” Úgy döntött, ottmarad Mongóliában, és vár az Úrra. A támadások folytatódtak, de kapott egy eszközt, amivel megvédhette magát. Három hónapon belül megtanult folyékonyan beszélni mongolul. Ez igazi csoda volt! Már tudott bibliaórákat adni a helyiek nyelvén, és segítséget kérni, ha bajba került. Viszont még mindig nem volt képes úgy szeretni, mint Jézus. A támadások miatti lelki sebek mélyek voltak.
 
-
-
-
-
 ---
 
 #### Ellen G. White idézetek

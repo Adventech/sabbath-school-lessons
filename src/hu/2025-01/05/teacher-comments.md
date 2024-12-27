@@ -9,15 +9,14 @@ date: 31/01/2025
 
 **Kulcsszöveg: Zsolt 78:38**
 
-**Alapigék:  Zsoltárok 78; Mt 21:12-13; Jn 2:14-15**
+**Alapigék: Zsoltárok 78; Mt 21:12-13; Jn 2:14-15**
 
 **Bevezetés: Isten haragja szeretetének kifejeződése, amellyel megbünteti a gonoszt és megszünteti a bűnt.**
 
 **A lecke témái: Az e heti tanulmány két fő témát vizsgál:**
 
-1.  Isten haragja a bűnre adott, szent és türelmes válasz: nem önkényes, ellenőrizetlen vagy bosszúálló cselekedet. Reakció a gonoszságra és igazságtalanságra; válasz a folyamatos és lázadó bűnös magatartásra, ami árt a teremtett világnak. Isten haragja szeretetének egyik megnyilvánulása akkor, amikor megbünteti a gonoszokat vétkeikért, és amikor megszabadítja gyermekeit a szorításukból.
-
-2.  Isten haragja szeretetteljes és jogos felháborodás: a Szentírásban élénk leírást találhatunk Isten haragjáról, ami szerető szívből eredő, jogos felháborodás népe elnyomása és szenvedése láttán. Isten aktívan közreműködik a gonosz megbüntetésében, ami tökéletes jóságából és szeretetéből fakad. Haragja válasz a gonoszra, hiszen az szeretett teremtményeit bántja.
+1. Isten haragja a bűnre adott, szent és türelmes válasz: nem önkényes, ellenőrizetlen vagy bosszúálló cselekedet. Reakció a gonoszságra és igazságtalanságra; válasz a folyamatos és lázadó bűnös magatartásra, ami árt a teremtett világnak. Isten haragja szeretetének egyik megnyilvánulása akkor, amikor megbünteti a gonoszokat vétkeikért, és amikor megszabadítja gyermekeit a szorításukból.
+2. Isten haragja szeretetteljes és jogos felháborodás: a Szentírásban élénk leírást találhatunk Isten haragjáról, ami szerető szívből eredő, jogos felháborodás népe elnyomása és szenvedése láttán. Isten aktívan közreműködik a gonosz megbüntetésében, ami tökéletes jóságából és szeretetéből fakad. Haragja válasz a gonoszra, hiszen az szeretett teremtményeit bántja.
 
 **Gyakorlati alkalmazás: Figyelembe véve Istennek az igazságtalanságra és gonoszságra adott felelősségteljes válaszát, mi hogyan lépjünk fel aktívan az igazságtalanság ellen, illetve enyhítsük mások szenvedését?**
 
@@ -51,8 +50,6 @@ Fontos megjegyeznünk, hogy ez a harag nem érthető helyesen anélkül, hogy a 
 
 Ez a bibliai beszámoló – Ellen G. White szép magyarázatával együtt – krisztológiai szempontból bemutatja, hogy Isten haragja szeretetteljes és igazságos felháborodás népe elnyomása és szenvedése láttán. Ez indítja népe felszabadítására, az elnyomók feletti ítélet eredményeként.
 
-
-
 #### GYAKORLATI ALKALMAZÁS
 
 A Gondolatok Isten haragjáról című írásában Marvin Moore Istennek az igazságtalanságra adott válaszán elmélkedik. Említ egy történetet, amit röviden a következőképpen lehet összefoglalni: egy nap egy anya kisétált valamiért az udvarba, ahol döbbenten látta, hogy tinédzser lányát éppen molesztálja a nagybátyja. Vajon mi a helyes lépés az anya részéről? Bemenni a szobába és imádkozni a helyzet megoldásáért, vagy közbelépni és véget vetni a bűnös cselekedetnek, megállítva az elkövetőt (lásd Journal of the Adventist Theological Society. 15.2, 2004, 118-127. o. különösen a 121-122. o.)?
@@ -61,15 +58,10 @@ https://digitalcommons.andrews.edu/jats/vol15/iss2/8
 
 Ezt a történetet szem előtt tartva kérjük meg a jelenlévőket, hogy beszéljék át az alábbi kérdéseket és gyakorlatokat:
 
-1.  Hogyan reagáljon Isten, amikor látja a népe ellen elkövetett erőszakot és igazságtalanságot? Érezhet haragot?
-
-2.  Lehet-e Isten haragja a szeretetének megnyilvánulása? Fejtsük ki! Be kell-e avatkoznia, hogy megszüntesse a bűnt és megbüntesse a bűnöst? Ha igen, miért, ha nem, miért nem?
-
-3.  Milyen helyzetekben tettünk már konkrét lépéseket, hogy véget vessünk valamilyen jogtalanságnak vagy enyhítsük mások szenvedését?
-
-4.  A Biblia arra int, hogy ha haragszunk is, de ne vétkezzünk. Ennek a gondolatnak a hátterén mondjunk konkrét példákat a mindennapi életből, amikor a harag a szeretet kifejeződése lehet!
-
-
+1. Hogyan reagáljon Isten, amikor látja a népe ellen elkövetett erőszakot és igazságtalanságot? Érezhet haragot?
+2. Lehet-e Isten haragja a szeretetének megnyilvánulása? Fejtsük ki! Be kell-e avatkoznia, hogy megszüntesse a bűnt és megbüntesse a bűnöst? Ha igen, miért, ha nem, miért nem?
+3. Milyen helyzetekben tettünk már konkrét lépéseket, hogy véget vessünk valamilyen jogtalanságnak vagy enyhítsük mások szenvedését?
+4. A Biblia arra int, hogy ha haragszunk is, de ne vétkezzünk. Ennek a gondolatnak a hátterén mondjunk konkrét példákat a mindennapi életből, amikor a harag a szeretet kifejeződése lehet!
 
 ---
 

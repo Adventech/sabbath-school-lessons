@@ -13,15 +13,11 @@ date: 28/03/2025
 
 **Bevezetés: A Tízparancsolat Istennek népével való személyes és szövetségi kapcsolatát fejezi ki.**
 
-
-
 **A tanulmány témái: Az e heti tanulmány három fő témára összpontosít:**
 
-1.  Isten törvénye inkább a kapcsolatokról, mint az elvont elvekről szól: Isten törvénye nem elvont elvek összessége, hanem a kapcsolat kifejeződése. A Tízparancsolat megfogalmazása szövetségi kapcsolatot feltételez Isten és népe között. Isten Mózessel folytatott párbeszéde ezt a kapcsolati nyelvezetet tükrözi, amelyben Isten sasként jelenik meg, aki szárnyain hordozza népét az Egyiptomból való szabadulás során. Ennek az ábrázolásnak a fő gondolata az, hogy Isten a népet önmagához vonja.
-
-2.  A Tízparancsolat az Isten és mások iránti szeretet helyes kifejezését írja le: a „ne tedd” dolgok felsorolása előtt a Tízparancsolat egy személyes, szeretetteljes megjegyzéssel kezdődik: „Én, az ÚR vagyok a te Istened” (2Móz 20:2). A parancsolatok listája kapcsolati, szeretetteljes válasz Izrael Istenének, aki megmentette őket. Az első négy parancsolat leírja a hűséges szeretetet, amit az embereknek ki kell mutatniuk Isten iránt. Az utolsó hat parancsolat a mások iránti szeretet konkrét formáit fejezi ki, amelyek végső soron azt jelzik, hogy Istent szeretjük.
-
-3.  Isten törvénye a szeretetben teljesedik be: a Római és a Galáciai levélben a törvény beteljesedésének gondolata egymás szeretet általi szolgálatához kapcsolódik. Pál a galáciabelieknek írva kifejti, hogy a törvényt azzal teljesítjük be, ha szeretjük felebarátainkat. A rómaiknak azt írja, hogy egymás szeretete a törvény beteljesedése. A Tízparancsolat utolsó hat parancsolata bemutatja, mit jelent, hogy „szeresd felebarátodat, mint önmagadat”.
+1. Isten törvénye inkább a kapcsolatokról, mint az elvont elvekről szól: Isten törvénye nem elvont elvek összessége, hanem a kapcsolat kifejeződése. A Tízparancsolat megfogalmazása szövetségi kapcsolatot feltételez Isten és népe között. Isten Mózessel folytatott párbeszéde ezt a kapcsolati nyelvezetet tükrözi, amelyben Isten sasként jelenik meg, aki szárnyain hordozza népét az Egyiptomból való szabadulás során. Ennek az ábrázolásnak a fő gondolata az, hogy Isten a népet önmagához vonja.
+2. A Tízparancsolat az Isten és mások iránti szeretet helyes kifejezését írja le: a „ne tedd” dolgok felsorolása előtt a Tízparancsolat egy személyes, szeretetteljes megjegyzéssel kezdődik: „Én, az ÚR vagyok a te Istened” (2Móz 20:2). A parancsolatok listája kapcsolati, szeretetteljes válasz Izrael Istenének, aki megmentette őket. Az első négy parancsolat leírja a hűséges szeretetet, amit az embereknek ki kell mutatniuk Isten iránt. Az utolsó hat parancsolat a mások iránti szeretet konkrét formáit fejezi ki, amelyek végső soron azt jelzik, hogy Istent szeretjük.
+3. Isten törvénye a szeretetben teljesedik be: a Római és a Galáciai levélben a törvény beteljesedésének gondolata egymás szeretet általi szolgálatához kapcsolódik. Pál a galáciabelieknek írva kifejti, hogy a törvényt azzal teljesítjük be, ha szeretjük felebarátainkat. A rómaiknak azt írja, hogy egymás szeretete a törvény beteljesedése. A Tízparancsolat utolsó hat parancsolata bemutatja, mit jelent, hogy „szeresd felebarátodat, mint önmagadat”.
 
 **Gyakorlati alkalmazás: Hogyan változik meg az Istennel való kapcsolatunk, ha megértjük, hogy a Tízparancsolat nem csupán szabályok összessége, hanem a szeretet kifejezése és válaszunk Isten személyes és szeretetteljes kapcsolódására?**
 
@@ -35,7 +31,7 @@ Ennek a szakasznak lenyűgöző a kapcsolati nyelvezete. Az Egyiptomból való i
 
 Ebben az összefüggésben Izrael népe felhívást kap arra, hogy tartsa meg Isten szövetségét, hogy hallja Isten hangját. Bár sok bibliafordítás úgy adja vissza a héber šmʿ igét, hogy az Isten hangjának való engedelmesség, ami helyes, de a szó szorosabb értelemben véve az Ő hangjának meghallását vagy meghallgatását jelenti (Ludwig Koehler és mások: The Hebrew and Aramaic Lexicon of the Old Testament. Leiden, 1994-2000, Brill, 1571. o.). Ha Izrael fiai úgy döntenek, hogy hallgatnak Isten szavára, akkor az Ő „tulajdona” (2Móz 19:5) vagy „személyes tulajdona” lesznek (lásd a sĕgūlâ főnév jelentését: i. m. 742. o.). Ez a kifejezés az Isten és népe közötti szövetségi kapcsolat személyes jellegéről is tanúskodik, amit a Tízparancsolat kifejtése tükröz 2Mózes 20. fejezetében.
 
-**2.  A Tízparancsolat leírja az Isten és mások iránti szeretet helyes kifejezését.**
+**2. A Tízparancsolat leírja az Isten és mások iránti szeretet helyes kifejezését.**
 
 Figyelemre méltó, hogy a „ne tedd” dolgok felsorolása előtt Isten a Tízparancsolatot 2Móz 20:2-ben személyes megjegyzéssel vezeti be („Én, az ÚR vagyok a te Istened”) és üdvözítő tevékenységét hangsúlyozza (szabadítás az egyiptomi rabszolgaságból). Más szóval, a parancsolatok nem egy rideg „ne tedd-del” kezdődnek, hanem személyes, szeretetteljes hangnemben. A további parancsolatok listája sem pusztán elvont törvényként értelmezendő, hanem Izrael Istenének adott szeretetteljes válaszként, mert Ő hatalommal és könyörületesen megmentette őket Egyiptomból.
 
@@ -53,8 +49,6 @@ Pál az adósság fogalmát használja úgy a polgári kötelességek (Róm 13:1
 
 Az alábbi kérdéseket beszéljük meg az osztályban:
 
-1.  Hogyan válaszolhatunk annak, aki megkérdőjelezi Isten törvényét, és azt csupán szabályok halmazának tekinti?
-
-2.  Hogyan tudnánk megélni a szombatot sokkal értelmesebb módon, ami arra emlékeztet, hogy Isten törvénye kapcsolati, szeretetteljes válaszra hív minket?
-
-3.  Hogyan tudod Isten szeretetét gyakorlati módon megmutatni azoknak, akikkel nap mint nap találkozol, legyenek akár idegenek, akár barátok, akár családtagok?
+1. Hogyan válaszolhatunk annak, aki megkérdőjelezi Isten törvényét, és azt csupán szabályok halmazának tekinti?
+2. Hogyan tudnánk megélni a szombatot sokkal értelmesebb módon, ami arra emlékeztet, hogy Isten törvénye kapcsolati, szeretetteljes válaszra hív minket?
+3. Hogyan tudod Isten szeretetét gyakorlati módon megmutatni azoknak, akikkel nap mint nap találkozol, legyenek akár idegenek, akár barátok, akár családtagok?

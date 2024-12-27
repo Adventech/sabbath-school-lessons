@@ -13,19 +13,16 @@ date: 21/03/2025
 
 **Bevezetés: Ha szeretjük Istent, szeretni fogjuk egymást, törődünk mások jólétével.**
 
-
-
 **A tanulmány témái: Az e heti tanulmány két fő témára összpontosít:**
 
-1.  Az Isten és a mások iránti szeretet között elszakíthatatlan kötelék van (igazságosság): A Szentírásban a hittestvérek szeretete konkrét jó cselekedetekkel jár együtt, például mikor anyagiakkal támogatjuk egymást, törődünk egymás jólétével. Krisztus irántunk tanúsított önfeláldozó szeretete az alapja a szeretet megismerésének és gyakorlásának. Amennyiben nem szeretjük az embereket, az azt jelenti, hogy nem látjuk igazán Istent, aki Jézus Krisztusban nyilatkozott meg.
-
-2.  A szeretet hiányosságai – amikor a szeretet és az igazságosság nem kapcsolódik össze: Ha szeretjük Istent, szeretni fogunk másokat, és osztozunk Istennek az emberek jólétét célzó igazságos bánásmódjában. Viszont ha nem kapcsolódik össze Isten szeretete és a másokkal szembeni igazságosság, az azt mutatja, hogy hiányzik az elkötelezettség Isten parancsolatainak megtartására. Ez jellemezte a gazdag ifjút, aki azt hitte, hogy betartja a parancsolatokat, de nem tanúsított szeretetet a szegények iránt. Egy másik példa az irgalmas samaritánusról szóló példázat. Ott a pap és a lévita úgy vélte, hogy betartják a tisztasági szabályokat, csakhogy nem fejezték ki együttérzésüket és szeretetüket.
+1. Az Isten és a mások iránti szeretet között elszakíthatatlan kötelék van (igazságosság): A Szentírásban a hittestvérek szeretete konkrét jó cselekedetekkel jár együtt, például mikor anyagiakkal támogatjuk egymást, törődünk egymás jólétével. Krisztus irántunk tanúsított önfeláldozó szeretete az alapja a szeretet megismerésének és gyakorlásának. Amennyiben nem szeretjük az embereket, az azt jelenti, hogy nem látjuk igazán Istent, aki Jézus Krisztusban nyilatkozott meg.
+2. A szeretet hiányosságai – amikor a szeretet és az igazságosság nem kapcsolódik össze: Ha szeretjük Istent, szeretni fogunk másokat, és osztozunk Istennek az emberek jólétét célzó igazságos bánásmódjában. Viszont ha nem kapcsolódik össze Isten szeretete és a másokkal szembeni igazságosság, az azt mutatja, hogy hiányzik az elkötelezettség Isten parancsolatainak megtartására. Ez jellemezte a gazdag ifjút, aki azt hitte, hogy betartja a parancsolatokat, de nem tanúsított szeretetet a szegények iránt. Egy másik példa az irgalmas samaritánusról szóló példázat. Ott a pap és a lévita úgy vélte, hogy betartják a tisztasági szabályokat, csakhogy nem fejezték ki együttérzésüket és szeretetüket.
 
 **Gyakorlati alkalmazás: Hogyan nyilvánul meg az életünkben, hogy az Isten iránti szeretetnek része a mások szükségleteivel való törődés?**
 
 #### Kommentár
 
-**1.  Isten és az emberek iránti szeretet között elszakíthatatlan kötelék van (igazságosság).**
+**1. Isten és az emberek iránti szeretet között elszakíthatatlan kötelék van (igazságosság).**
 
 1Jn 4:20-ban fejti ki János Isten és az emberek szeretete közötti kapcsolatot. Karen H. Jobes rámutat, hogy 1Jn 4:20-ban „János teljességgel körbejárja a szeretetről szóló kérdést, különösen a hittestvérek iránt” (1, 2, & 3 John: Zondervan Exegetical Commentary on the New Testament. Grand Rapids, MI, 2014, Zondervan, 206. o.). János első levelében legalább három helyen esik szó erről a kérdésről.
 
@@ -45,7 +42,7 @@ Bár „Istent soha senki nem látta” (1Jn 4:12), szeretete láthatóvá vált
 
 Krisztus a számunkra láthatatlan Isten szeretetének látható megnyilvánulása (1Jn 4:12). Ezt megerősíti János bizonyságtétele, aki szemtanúja volt Jézus életének: „És mi láttuk, és bizonyságot is teszünk arról, hogy az Atya elküldte a Fiút a világ üdvözítőjéül” (1Jn 4:14; lásd még Jn 1:14, 18). Ahogyan Jobes összefoglalja: „mások szeretetének elmulasztása azt mutatja, hogy az ember nem ismerte meg Istent, aki Jézus Krisztusban nyilatkozott meg, és ezért egyáltalán nem képes szeretni Őt” (1, 2, & 3 John: Zondervan Exegetical Commentary on the New Testament. 207. o.). Krisztológiai nézőpontból Isten és mások szeretetének megbonthatatlan kapcsolata (az igazságosság, vagyis mások jólétének előmozdítása értelmében) arra emlékeztet, amit Jézus Mt 25:40-ben erősített meg: „amennyiben megcselekedtétek ezt akár csak eggyel is az én legkisebb atyámfiai közül, énvelem cselekedtétek meg” (lásd még Mt 25:45).
 
-**2.  A szeretet hiányosságai – amikor a szeretet és az igazságosság nem kapcsolódik össze.**
+**2. A szeretet hiányosságai – amikor a szeretet és az igazságosság nem kapcsolódik össze.**
 
 Isten és mások szeretetének összekapcsolása, különösen az igazságosság formájában (jólétük előmozdítása és szenvedésük enyhítése érdekében) mutatja a Szentírásban található összes parancsolat gyakorlati megvalósítását az életben. Másképpen fogalmazva: az Isten szeretete és a másokkal való igazságosság (szeretet) közötti kapcsolat megszakadása azt jelenti, hogy nincs igazi harmónia az életünkben, amikor megpróbáljuk megtartani Isten parancsolatait. Erre az elvre példa a gazdag ifjú (Mt 19:16-22), aki úgy vélte, hogy betartja a parancsolatokat, de anyagi javaival nem bizonyította szeretetét a szegények iránt, és végül nem tudta követni Jézust. Egy másik fontos példa a pap és a lévita az irgalmas samaritánusról szóló példázatban (Lk 10:30-37), akik azt vallották, hogy betartják a templomhoz kapcsolódó tisztasági szabályokat, de nem tanúsítottak irgalmat, könyörületet a Jeruzsálemből Jerikóba vezető úton félholtan fekvő ember iránt.
 
@@ -55,9 +52,7 @@ Mt 22:35-40 szakaszában egy párbeszédet találunk, amelyben Jézus hangsúlyo
 
 Az Isten és a mások iránti szeretet közötti megbonthatatlan kapcsolat összefüggésében Krisztus keresztáldozata az alapja a mások iránti szeretetnek. Ebből a szempontból beszéljük meg az osztályban az alábbi kérdéseket:
 
-1.  Hogyan lehet Istennek a kereszten megmutatkozott szeretete példa számunkra arra, hogy milyen módon szeressük az embereket?
-
-2.  Milyen áldozatokat hozunk személyesen azért, hogy szeressük és igazságosan szolgáljuk az embereket?
-
-3.  Amikor az embereket szegénység, elnyomás vagy bármilyen igazságtalanság sújtja, mit tehet gyülekezetünk a támogatásukért?
+1. Hogyan lehet Istennek a kereszten megmutatkozott szeretete példa számunkra arra, hogy milyen módon szeressük az embereket?
+2. Milyen áldozatokat hozunk személyesen azért, hogy szeressük és igazságosan szolgáljuk az embereket?
+3. Amikor az embereket szegénység, elnyomás vagy bármilyen igazságtalanság sújtja, mit tehet gyülekezetünk a támogatásukért?
 

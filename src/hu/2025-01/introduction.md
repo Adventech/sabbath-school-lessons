@@ -16,7 +16,7 @@ A Biblia szerint Istent újból és újból megszomorítja a rossz és a szenved
 
 A Biblia gyakran úgy festi le a szerető Istent, mint akinek megtört a szíve, megszomorodott, mivel visszautasították szeretetét, és elveszett, akit szeretett. A Szentírás egész története elmondja: mit tett és tesz azért, hogy visszaállítsa a szeretetet a világmindenség legtávolabbi zugába is. Ezzel és még megannyi más témával foglalkozunk majd ebben a negyedévben.
 
-`John C. Peckham professzor az Adventist Review főszerkesztő-helyettese. Amikor a Bibliatanulmányt írta, teológiát és keresztény filozófiát tanított a Hetednapi Adventista Egyház Andrews Egyetemének Teológiai Szemináriumán.`
+John C. Peckham professzor az Adventist Review főszerkesztő-helyettese. Amikor a Bibliatanulmányt írta, teológiát és keresztény filozófiát tanított a Hetednapi Adventista Egyház Andrews Egyetemének Teológiai Szemináriumán.
 
 Clifford R. Goldstein
 
@@ -26,7 +26,7 @@ _főszerkesztő_
 
 Tanulmányunkban a bibliai idézeteket többnyire a Károli-féle fordításban közöljük. Más idézeteknél zárójelben olvasható a forrás megjelölése. Számos idézet, valamint a bibliai könyvek neve és rövidítése az újonnan revideált Károli-bibliafordítás (rövidítve: ÚRK, Budapest, 2012, Veritas Kiadó) szerint szerepel. Szintén gyakran idézünk még a Magyar Bibliatársulat 2014-ben kiadott, revideált új fordításából (rövidítve: RÚF). Ha az idézetben egy, az oldalon már ismertetett műre hivatkozunk, akkor használjuk az i. m. (idézett mű) rövidítést.
 
-`Érdemes ellátogatni a Bibliatanulmányok internetes oldalára: www.bibliatanulmanyok.hu. A web-oldal formátuma letisztult és könnyen áttekinthető, egy helyen megtalálunk rajta minden szolgáltatást: az írott tanulmányt, a Tanítói mellékletet, a White-idézeteket, a hanganyagot, valamint a hetenkénti videobeszélgetéseket és a Misszió DVD-t. Az oldal nemcsak számítógépen, hanem táblagépen és okostelefonon is elérhető.`
+Érdemes ellátogatni a Bibliatanulmányok internetes oldalára: www.bibliatanulmanyok.hu. A web-oldal formátuma letisztult és könnyen áttekinthető, egy helyen megtalálunk rajta minden szolgáltatást: az írott tanulmányt, a Tanítói mellékletet, a White-idézeteket, a hanganyagot, valamint a hetenkénti videobeszélgetéseket és a Misszió DVD-t. Az oldal nemcsak számítógépen, hanem táblagépen és okostelefonon is elérhető.
 
 Az érdeklődőket várjuk a Facebook Bibliatanulmányok csoportjában az alábbi címen: https://www.facebook.com/groups/bibliatanulmanyok/.
 

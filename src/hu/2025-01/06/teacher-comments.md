@@ -9,17 +9,15 @@ date: 07/02/2025
 
 **Kulcsszöveg: Jer 9:24**
 
-**Alapigék:  Zsolt 33:5; Jer 18:7-10; Mal 3:6; Jak 1:17**
+**Alapigék: Zsolt 33:5; Jer 18:7-10; Mal 3:6; Jak 1:17**
 
 **Bevezetés: A Szentírásban Isten jellemének lényeges elemeként jelenik meg a szeretet és az igazságosság.**
 
 **A tanulmány témái: Az e heti tanulmány három fő témára összpontosít:**
 
-1.  A szeretet és az igazság összetartozik, bár nem szoktunk együtt gondolni rájuk, de a Szentírásban az igazi szeretethez hozzátartozik az igazság, a valódi igazságosságra pedig a szeretet késztet. Ellenben a látszat-szeretet igazságosság nélkül a gonoszság elnézését jelenti; a szeretet nélküli igazság pedig hideg legalizmus. Isten tökéletes jellemét tehát a szeretet és az igazságosság jellemzi. Ő szereti az igazságot, és a világban is azt akarja látni, hogy az emberek az igazságot gyakorolják.
-
-2.  A szeretetteljes igazságosság állandóságot igényel: az igazság Isten kormányzatának alapja. Tetteinek alapja saját erkölcsi jellemének állandósága, nem pedig hirtelen döntés vagy igazságtalan bánásmód. Isten igazságossága az állandóságból ered, hiszen Ő sohasem hazudik, ígéretei megszeghetetlenek. Bár a Szentírás hangsúlyozza Isten erkölcsi változhatatlanságát, ugyanakkor azt is jelzi, hogy tettei igazodnak az emberi döntésekhez.
-
-3.  A szeretetteljes igazságosság számításba veszi a megbánást: a Szentírásban találunk eseteket arra, amikor Isten nem enged, és ez azt jelenti, hogy nem hazudik. Ám egyes ószövetségi szakaszok arról szólnak, hogy Isten meggondolja magát, nem hajtja végre az általa kimondott ítéletet. Engedékenysége nem azt jelenti, hogy hazudott az ítélettel kapcsolatban, hanem azt, hogy megváltoztatja az emberekkel kapcsolatos cselekedeteit, ha azok megbánják a rosszat, és úgy döntenek, hogy közösségben élnek vele.
+1. A szeretet és az igazság összetartozik, bár nem szoktunk együtt gondolni rájuk, de a Szentírásban az igazi szeretethez hozzátartozik az igazság, a valódi igazságosságra pedig a szeretet késztet. Ellenben a látszat-szeretet igazságosság nélkül a gonoszság elnézését jelenti; a szeretet nélküli igazság pedig hideg legalizmus. Isten tökéletes jellemét tehát a szeretet és az igazságosság jellemzi. Ő szereti az igazságot, és a világban is azt akarja látni, hogy az emberek az igazságot gyakorolják.
+2. A szeretetteljes igazságosság állandóságot igényel: az igazság Isten kormányzatának alapja. Tetteinek alapja saját erkölcsi jellemének állandósága, nem pedig hirtelen döntés vagy igazságtalan bánásmód. Isten igazságossága az állandóságból ered, hiszen Ő sohasem hazudik, ígéretei megszeghetetlenek. Bár a Szentírás hangsúlyozza Isten erkölcsi változhatatlanságát, ugyanakkor azt is jelzi, hogy tettei igazodnak az emberi döntésekhez.
+3. A szeretetteljes igazságosság számításba veszi a megbánást: a Szentírásban találunk eseteket arra, amikor Isten nem enged, és ez azt jelenti, hogy nem hazudik. Ám egyes ószövetségi szakaszok arról szólnak, hogy Isten meggondolja magát, nem hajtja végre az általa kimondott ítéletet. Engedékenysége nem azt jelenti, hogy hazudott az ítélettel kapcsolatban, hanem azt, hogy megváltoztatja az emberekkel kapcsolatos cselekedeteit, ha azok megbánják a rosszat, és úgy döntenek, hogy közösségben élnek vele.
 
 **Gyakorlati alkalmazás: Figyelembe véve, hogy Isten időnként megváltoztatja viszonyulását a gyermekeihez attól függően, hogy elfogadják vagy elutasítják Őt, mi hogyan tükrözzük szeretetteljes igazságosságát, amikor reagálunk a világban lévő igazságtalanságokra és gonosztettekre?**
 
@@ -41,8 +39,6 @@ Ha az igazságosság a józan kormányzásra utal, jó ítélőképességgel és
 
 Jak 1:17 verse szintén Isten állandó voltáról és erkölcsi változhatatlanságáról szól. Jakab 1. fejezetének szövegösszefüggése arra utal, hogy a kísértéseket nem Isten okozza, hiszen Ő következetesen és állandóan jó és tökéletes ajándékokat ad fentről. A kísértések és ajándékok szeszélyes kombinációja helyett Ő mindig és csakis ajándékokat ajánl fel nekünk. Mivel Ő „a világosság Atyja”, nála „nincs változás vagy változásnak árnyéka” (Jak 1:17). Zsolt 136:7-9-ben is megjelenik a kapcsolat Isten, mint a fény teremtője és az Ő állandósága között: „mert kegyelme örökké tart.” Ezekben a versekben a zsoltáros Isten teremtő erejét és állandóságát hangsúlyozza: „Megalkotta a nagy világító testeket, mert kegyelme örökké tart. A napot, hogy uralkodjék nappal, mert kegyelme örökké tart. A holdat és a csillagokat, hogy uralkodjanak éjszaka, mert kegyelme örökké tart” (Zsolt 136:7-9).
 
-
-
 **3. A szeretetteljes igazságosság számításba veszi a megbánást.**
 
 Az Ószövetségben egymásnak látszólag ellentmondó kijelentések vannak Isten megbánást és elengedést tanúsító, megenyhülő természetéről. Másrészt találunk olyan szöveget is, mint 4Móz 23:19: „Isten nem ember, hogy hazudjék, és nem embernek fia, hogy megváltozzék. Mond-e ő valamit, hogy meg ne tenné? Ígér-e valamit, hogy ne teljesítené?”, és 1Sám 15:29: „Izráel Felségese pedig nem hazudik, és semmit meg nem bán, mert nem ember ő, hogy valamit megbánjon”. Ezek Isten állandóságát hangsúlyozzák. Az Úr nem enged. E kijelentések lényege, hogy Isten nem hazudik, összhangban a róla szóló újszövetségi tanítással (Tit 1:2; Zsid 6:18).
@@ -55,13 +51,9 @@ Jón 4:2 legalább három fontos okot tartalmaz arra vonatkozóan, miért nem ke
 
 A Szentírás hangsúlyozza Isten változhatatlan voltát, de Ő ettől még kapcsolati szempontból megváltoztathatja viszonyulását népéhez, ha azok úgy döntenek, hogy elfogadják/vagy elvetik Őt. Ezt a gondolatot észben tartva beszéljük át az alábbi kérdéseket:
 
-1.  Hogyan tükrözhetjük Isten igazságosságát, amikor a világban tapasztalható jogtalanságokra és gonoszságra kell reagálnunk?
-
-2.  Isten megbánja és megváltoztatja ítéletét attól függően, ahogy az emberek viszonyulnak hozzá. Vajon Isten igazságossága bosszúval és megtorlással teljes, vagy valamilyen formában a helyreállítást tűzi ki célul? Fejtsük ki válaszunkat! Hogyan kapcsolódik Isten megbánása a helyreállításhoz?
-
-3.  Isten hajlandó megenyhülni és helyreállítani a népével való kapcsolatát. Ebből a szempontból hogyan ápolhatjuk az igazságosságot és a szeretetet, hogy helyreállítsuk a megromlott kapcsolatokat?
-
-4.  Előfordult már, hogy megpróbáltunk szembeszállni az igazságtalansággal, és ebből bajunk lett? Ha igen, hogyan reagáltunk? Hogyan tudunk továbbra is az igazságosságra törekedni, segíteni azokon, akik a leginkább kiszolgáltatottak?
-
-5.  Bántak már velünk igazságtalanul? Ha igen, milyen következményei lettek ennek? Hogyan befolyásolja a tapasztalatunk azt, ahogyan másokkal bánunk?
+1. Hogyan tükrözhetjük Isten igazságosságát, amikor a világban tapasztalható jogtalanságokra és gonoszságra kell reagálnunk?
+2. Isten megbánja és megváltoztatja ítéletét attól függően, ahogy az emberek viszonyulnak hozzá. Vajon Isten igazságossága bosszúval és megtorlással teljes, vagy valamilyen formában a helyreállítást tűzi ki célul? Fejtsük ki válaszunkat! Hogyan kapcsolódik Isten megbánása a helyreállításhoz?
+3. Isten hajlandó megenyhülni és helyreállítani a népével való kapcsolatát. Ebből a szempontból hogyan ápolhatjuk az igazságosságot és a szeretetet, hogy helyreállítsuk a megromlott kapcsolatokat?
+4. Előfordult már, hogy megpróbáltunk szembeszállni az igazságtalansággal, és ebből bajunk lett? Ha igen, hogyan reagáltunk? Hogyan tudunk továbbra is az igazságosságra törekedni, segíteni azokon, akik a leginkább kiszolgáltatottak?
+5. Bántak már velünk igazságtalanul? Ha igen, milyen következményei lettek ennek? Hogyan befolyásolja a tapasztalatunk azt, ahogyan másokkal bánunk?
 

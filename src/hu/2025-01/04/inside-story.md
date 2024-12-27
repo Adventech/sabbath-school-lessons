@@ -11,10 +11,6 @@ Egy részeg a 21 éves misszionárius lány mellé tolakodott az autóbuszon, é
 
 Szinte hetente ismétlődő rémálom volt ez Joanne (Park) Kim számára az 1990-es évek elején. Az egyedülálló lány egyike volt az első hetednapi adventista misszionáriusoknak az elszegényedett, posztkommunista Mongóliában. Egy másik alkalommal a lakásába tört be egy részeg. Acélbetétes bakancsával berúgta a vékony falapból készült ajtót, és elkezdte ütlegelni Joanne-t. A lány megragadott egy seprűt, és azzal ütötte sikoltozva a betörőt. Egyenlőtlen küzdelem volt ez, egészen addig, míg Joanne el nem kezdett a seprű nyelével dörömbölni a plafonon, és az ott lakó misszionárius társai le nem szaladtak, hogy megmentsék. A pohár akkor telt be igazán, amikor egy társával együtt várakoztak egy buszmegállóban Ulánbátor külvárosában. Négy részeg vette körül őket. Próbálták ölelgetni Joanne-t. A két lány próbált kívül kerülni a körön, de a férfiak követték őket. A zsúfolt megállóban mindenki elfordította a fejét. A részegek elvonszolták őket egy félreeső sikátorba. Joanne sikított, rúgott, küzdött, de ez mit sem ért a túlerővel szemben. Mindketten a földre kerültek. Joanne úgy érezte, itt a vég. De akkor hirtelen elsápadtak a támadók, megfordultak, és elrohantak. Joanne körbenézett, hogy lássa, vajon ki jött a megmentésükre. Senki sem volt ott. Abban a pillanatban tudták, hogy a támadók egy angyalt láthattak.
 
-
-
-
-
 ---
 
 #### Ellen G. White idézetek

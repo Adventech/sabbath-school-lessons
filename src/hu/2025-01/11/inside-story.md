@@ -13,8 +13,6 @@ Az alaszkai illetékesek azonban másképp döntöttek. Azt mondták Colette-nek
 
 Ma már 15 éves, nagyon szeret Bethelben lakni. Otthon tanul, zongoraleckéket vesz, sok barátja van, és aktívan szolgál az adventista gyülekezetben. „Isten mindent szépen rendezett” – emlékszik vissza Colette, aki orvosi munkája mellett a gyülekezet egyik vezetőjeként is szolgál. „A szemtelen Matrona, akivel először beszéltem telefonon, mára teljesen megváltozott – mondja örömmel. – Látom, hogyan dolgozik Isten az életében, és miként érik a hite.” Matrona is kifejezte háláját Colette iránt, hogy olyan kitartóan hívta telefonon, és még kitartóbb az anyai szeretete. „Ha nem próbálkozott volna annyira kitartóan, hogy lerombolja a magam körül felhúzott falaimat, most nem ismerném Istent” – vallja.
 
-
-
 ---
 
 #### Ellen G. White idézetek

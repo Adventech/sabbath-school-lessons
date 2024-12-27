@@ -17,8 +17,6 @@ A floridai születésű Colette nyolc éve élt Alaszkában a férjével. „Mat
 
 Matrona tudta, hogy Colette örökbe szeretné fogadni, de nem akart csalódni, ezért inkább igyekezett távolságot tartani tőle. Colette megkérdezte, hányszor hívhatja egy héten, amire Matrona azt felelte, hogy egyszer, keddenként. Ám amikor Colette hívta, a lány vagy foglalt volt, vagy nem vette fel a telefont. Így áttették az időpontot csütörtökre, majd szombatra. Colette érezte, hogy Matrona zavarban van, de nem értette, miért. Úgy döntött, mégis felhívja a lányt minden héten, akár sikerül beszélniük, akár nem. A nő kitartását látva Matrona kezdett jobban megbízni benne.
 
-
-
 ---
 
 #### Ellen G. White idézetek

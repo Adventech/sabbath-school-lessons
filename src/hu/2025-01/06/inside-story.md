@@ -17,5 +17,3 @@ Ez a találkozás fordulópontot jelentett Joanne missziómunkájában. Már nem
 
 Joanne folytatta szolgálatot, és 1992-1998 között segített az első adventista gyülekezet megalapításában Ulánbátorban. 2017-ben visszatért, és most az Oktatási és Fejlesztési Osztály igazgatójaként dolgozik ott. „Még mostanában is érnek támadások, Sátán nem adja fel, de Isten megajándékozott a mongol nyelvtudással és a szívemet is megváltoztatta. Ő szereti a részegeket is, tehát nekem is segítenem kell, ahogy csak tudok.”
 
-
-

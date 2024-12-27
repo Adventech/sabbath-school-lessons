@@ -11,8 +11,6 @@ Négy hónappal az első telefonhívás után Colette Reahl gyermekorvos megtett
 
 A következő hónapban újra találkoztak, de miután Colette egy Bibliát ajándékozott Matronának, újra beállt a csönd közöttük. Majd Matronát áthelyezték az Anchorage-ban lévő gyermekotthonba. Annyira egyedül érezte magát, hogy hívogatni kezdte Colette-et, és próbálta rávenni az örökbefogadásra. Colette-nek akkor járt le a szerződése, és Bethelbe kellett költöznie, hogy az ottani kórházban dolgozzon. Matrona nem örült a költözés hírének. Tartott tőle, hogy a kis lélekszámú, csak 6 000 lakosú Bethelben nagyon fog unatkozni.
 
-
-
 ---
 
 #### Ellen G. White idézetek

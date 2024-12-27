@@ -9,23 +9,21 @@ date: 17/01/2025
 
 **Kulcsszöveg: Sof 3:17**
 
-**Alapigék:  Sof 3:17; Lk 15:4-32**
+**Alapigék: Sof 3:17; Lk 15:4-32**
 
 **Bevezetés: Istennek örömöt és megelégedettséget okoz, ha szeretetteljes kapcsolatban lehet teremtményeivel.**
 
 **A tanulmány témái: Az e heti tanulmányunk három főbb témára összpontosít:**
 
-1.  Isten kedvét leli teremtményeiben, ami mutatja, mennyire értékesek vagyunk a szemében: mennyei Atyánk számára mindenki drága, felmérhetetlen értékű. Ezért gyönyörködik és leli kedvét fiaiban és lányaiban, amikor megtérnek és Őt keresik. Lukács 15 példázatai azt emelik ki, milyen nagy öröme van Istennek egy bűnös ember megtérésén, és hogyan ünnepel, amikor ez megtörténik. Kedvét leli megmentésünkben, ami mutatja, mennyire értékesek vagyunk a szemé­ben.
-
-2.  Isten öröme az embernek is okot ad arra, hogy örüljön és dicsőítse Istent, hiszen Ő túlcsorduló örömmel akarja betölteni szívünket. Örömét leli abban, ha az emberek boldogan dicsőítik Őt. Hívja népét, hogy tapasztalja a benne való örömöt, miközben imában és énekben dicsőítik Őt. Ez segít elképzelni, hogy milyen lesz az Ő öröme, amikor együtt lehet majd népével.
-
-3.  Krisztusra van szükségünk ahhoz, hogy Isten kedvére éljünk: az Ige arra hív minket, hogy dicsőítsük Istent, ajánljuk fel lelki áldozatainkat dicsőítéssel! Ne lankadjunk a jó cselekvésében és a bizonyságtevésben! Mindezt csak Krisztus közbenjárói szolgálata által tudjuk megtenni. Hisszük, hogy Istent dicsőíteni csak Krisztus értünk végzett munkája által tudjuk.
+1. Isten kedvét leli teremtményeiben, ami mutatja, mennyire értékesek vagyunk a szemében: mennyei Atyánk számára mindenki drága, felmérhetetlen értékű. Ezért gyönyörködik és leli kedvét fiaiban és lányaiban, amikor megtérnek és Őt keresik. Lukács 15 példázatai azt emelik ki, milyen nagy öröme van Istennek egy bűnös ember megtérésén, és hogyan ünnepel, amikor ez megtörténik. Kedvét leli megmentésünkben, ami mutatja, mennyire értékesek vagyunk a szemé­ben.
+2. Isten öröme az embernek is okot ad arra, hogy örüljön és dicsőítse Istent, hiszen Ő túlcsorduló örömmel akarja betölteni szívünket. Örömét leli abban, ha az emberek boldogan dicsőítik Őt. Hívja népét, hogy tapasztalja a benne való örömöt, miközben imában és énekben dicsőítik Őt. Ez segít elképzelni, hogy milyen lesz az Ő öröme, amikor együtt lehet majd népével.
+3. Krisztusra van szükségünk ahhoz, hogy Isten kedvére éljünk: az Ige arra hív minket, hogy dicsőítsük Istent, ajánljuk fel lelki áldozatainkat dicsőítéssel! Ne lankadjunk a jó cselekvésében és a bizonyságtevésben! Mindezt csak Krisztus közbenjárói szolgálata által tudjuk megtenni. Hisszük, hogy Istent dicsőíteni csak Krisztus értünk végzett munkája által tudjuk.
 
 **Gyakorlati alkalmazás: Isten gyönyörködik teremtményeiben, és ez azt bizonyítja, milyen értékesek vagyunk az Ő szemében, milyen nagyra értékeli az egész teremtettséget. Hogyan értékelhetünk mi is ennyire minden egyes embert?**
 
 #### Kommentár
 
-**1.  Isten gyönyörködik teremtményeiben, és ez azt mutatja, hogy értékesek vagyunk a szemében.**
+**1. Isten gyönyörködik teremtményeiben, és ez azt mutatja, hogy értékesek vagyunk a szemében.**
 
 A tékozló fiú példázata figyelemre méltó módon szemlélteti, milyen értékesek vagyunk Isten számára. Lukács 15. fejezetében a zúgolódó farizeusoknak mondott (Lk 15:2) mindhárom példázata azt hangsúlyozza, milyen nagy értéke van az (elveszett) embereknek Isten szemében. Fontos megjegyezni, hogy a farizeusok és írástudók nem láttak semmilyen értéket azokban, akiket Jézus jó szívvel fogadott (Lk 15:2). Ellen G. White rámutat, hogy „a farizeusok csak megvetették és elítélték őket. Krisztus pedig Istennek az atyai háztól elidegenedett, de az Atya által el nem felejtett gyermekeit üdvözölte bennük” (Krisztus példázatai. Budapest, 1999, Advent Kiadó, 123. o.).
 
@@ -55,17 +53,11 @@ A Szentírás Isten dicsőítésének többféle módjára buzdít (lásd pl. Zs
 
 Az embereknek különleges értéke van. Azért vagyunk értékesek, mert Isten a saját képmására teremtett bennünket. Csodálatos arra gondolni, hogy számára drágábbak vagyunk, mint azt el tudnánk képzelni. Ezt a gondolatot szem előtt tartva beszéljük meg az alábbi kérdéseket:
 
-1.  Hogyan bizonyíthatja a tiszteletünk és a szeretetünk, hogy az emberek mennyire értékesek Isten szemében?
-
-2.  Hogyan mutatkozik meg a vallásos emberek részéről, ha alig becsülik mások méltóságát és értékét?
-
-3.  Akik szeretik Istent, azok szeretnék tudni, miként járjanak a kedvé­ben. Valójában hogyan járhatunk a kedvében? Összefügg-e a mások értékelése azzal, hogy Isten mennyire örül népe üdvösségének?
-
-4.  Mit tehetünk azért, hogy minden embert megbecsüljünk, örüljünk az üdvösségének, és hirdessük Isten jóságát és állhatatos szeretetét?
-
-5.  Mondjunk egy gyakorlati példát arra, hogyan teszi lehetővé számunkra Krisztus közbenjárása azt, hogy cselekedeteinkkel kedveskedjünk Istennek!
-
-
+1. Hogyan bizonyíthatja a tiszteletünk és a szeretetünk, hogy az emberek mennyire értékesek Isten szemében?
+2. Hogyan mutatkozik meg a vallásos emberek részéről, ha alig becsülik mások méltóságát és értékét?
+3. Akik szeretik Istent, azok szeretnék tudni, miként járjanak a kedvé­ben. Valójában hogyan járhatunk a kedvében? Összefügg-e a mások értékelése azzal, hogy Isten mennyire örül népe üdvösségének?
+4. Mit tehetünk azért, hogy minden embert megbecsüljünk, örüljünk az üdvösségének, és hirdessük Isten jóságát és állhatatos szeretetét?
+5. Mondjunk egy gyakorlati példát arra, hogyan teszi lehetővé számunkra Krisztus közbenjárása azt, hogy cselekedeteinkkel kedveskedjünk Istennek!
 
 ---
 

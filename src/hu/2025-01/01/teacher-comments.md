@@ -9,19 +9,15 @@ date: 03/01/2025
 
 **Kulcsszöveg: Hós 14:4**
 
-**Alapigék:  Mt 22:1-14; Jn 10:17-18; 17:24**
+**Alapigék: Mt 22:1-14; Jn 10:17-18; 17:24**
 
 **Bevezetés: Isten túláradóan szeret mindenkit, jobban, mint ahogyan mi azt el tudjuk képzelni. Szeretete gazdag és irgalmas. Akkor is áldozatkészen árad, amikor az emberek hűtlenek hozzá.**
 
-
-
 **A tanulmány témái: Az e heti tanulmány három fő témára összpontosít:**
 
-1.  Isten szeretetét nem a szükségszerűség határozza meg: ezt fontos megértenünk ahhoz, hogy felfogjuk, miként viszonyul az emberiséghez. Isten szeretete a spontán és gazdag jóakaratának kifejeződése. Nem a mi cselekedetünk váltja ki, vagy teszi szükségessé, és nem is valamilyen, az emberben rejlő lehetőségnek köszönhető. Isten úgy nyilvánítja ki szeretetét, hogy közben nem vár semmi előnyt vagy hasznot önmaga számára. Mindenkit szeret, ingyen szeret, mint volt ez Hóseás, Izrael esetében, vagy pedig most a miénkben.
-
-2.  Isten szeretetének hatáskörét lehetetlen felmérni: nem ok-okozati feltételeken alapul. Önként adta magát értünk. Állandó és változhatatlan szeretete még teljesebb mértékben mutatja kegyelmét. Szeretete felülmúl minden várakozást, mert ingyen adja kegyelmét, irgalmát és együttérzését még a legméltatlanabb embernek is.
-
-3.  Isten szeretetét vissza lehet utasítani: Isten önfeláldozó szeretetének teljességét ajánlja fel nekünk, de ez nem határozza meg előre az emberek válaszát. Szeretete nem kényszerít, szabadságot is ad, hogy elfogadjuk vagy visszautasítsuk.
+1. Isten szeretetét nem a szükségszerűség határozza meg: ezt fontos megértenünk ahhoz, hogy felfogjuk, miként viszonyul az emberiséghez. Isten szeretete a spontán és gazdag jóakaratának kifejeződése. Nem a mi cselekedetünk váltja ki, vagy teszi szükségessé, és nem is valamilyen, az emberben rejlő lehetőségnek köszönhető. Isten úgy nyilvánítja ki szeretetét, hogy közben nem vár semmi előnyt vagy hasznot önmaga számára. Mindenkit szeret, ingyen szeret, mint volt ez Hóseás, Izrael esetében, vagy pedig most a miénkben.
+2. Isten szeretetének hatáskörét lehetetlen felmérni: nem ok-okozati feltételeken alapul. Önként adta magát értünk. Állandó és változhatatlan szeretete még teljesebb mértékben mutatja kegyelmét. Szeretete felülmúl minden várakozást, mert ingyen adja kegyelmét, irgalmát és együttérzését még a legméltatlanabb embernek is.
+3. Isten szeretetét vissza lehet utasítani: Isten önfeláldozó szeretetének teljességét ajánlja fel nekünk, de ez nem határozza meg előre az emberek válaszát. Szeretete nem kényszerít, szabadságot is ad, hogy elfogadjuk vagy visszautasítsuk.
 
 **Gyakorlati alkalmazás: Szeretete felülmúl minden várakozást, mert ingyen adja kegyelmét, irgalmát és együttérzését még a legméltatlanabb embernek is. Hogyan változtatja meg ez a környezetünkben élő emberekhez való viszonyulásunkat, akik semmit sem tettek azért, hogy kiérdemeljék tőlünk az együttérzést?**
 
@@ -57,15 +53,10 @@ Az isteni szeretet elutasításának másik bibliai példája a menyegzői megh�
 
 A már fentebb említett szempontok alapján, amelyek Isten szeretetének szabadságáról szólnak, beszéljük meg az alábbi kérdéseket az osztályban!
 
-1.  Hogyan értsük azt, hogy Isten szeretetét nem valamely tettünk eredményezi, hogy közelebb kerüljünk az Ő jelenlétéhez? Mondjunk erre legalább egy gyakorlati példát!
-
-2.  Hogyan használhatjuk fel a nem hívőkkel folytatott beszélgetéseinkben azt a gondolatot, hogy Isten szeretete felülmúlja az észszerű elvárásainkat, mert Ő szabadon mutatja ki együttérzését azok iránt is, akik a leginkább érdemtelenek erre?
-
-3.  A gyakorlatban hogyan fordulhat elő, hogy visszautasítjuk Isten szeretetét?
-
-4.  Isten szeretete nem alkalmaz kényszert, tehát mit tanuljunk szeretetéből, miközben azon gondolkodunk, hogy keresztényként igyekszünk hitelesen szeretni az embereket?
-
-
+1. Hogyan értsük azt, hogy Isten szeretetét nem valamely tettünk eredményezi, hogy közelebb kerüljünk az Ő jelenlétéhez? Mondjunk erre legalább egy gyakorlati példát!
+2. Hogyan használhatjuk fel a nem hívőkkel folytatott beszélgetéseinkben azt a gondolatot, hogy Isten szeretete felülmúlja az észszerű elvárásainkat, mert Ő szabadon mutatja ki együttérzését azok iránt is, akik a leginkább érdemtelenek erre?
+3. A gyakorlatban hogyan fordulhat elő, hogy visszautasítjuk Isten szeretetét?
+4. Isten szeretete nem alkalmaz kényszert, tehát mit tanuljunk szeretetéből, miközben azon gondolkodunk, hogy keresztényként igyekszünk hitelesen szeretni az embereket?
 
 ---
 

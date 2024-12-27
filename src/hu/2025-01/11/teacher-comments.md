@@ -13,15 +13,11 @@ date: 14/03/2025
 
 **Bevezetés: Isten arra hív, hogy elismerjük és hirdessük igazságosságát és szerető szándékát.**
 
-
-
 **A tanulmány témái: Az e heti tanulmány három fő témára összpontosít:**
 
-1.  El kell ismernünk Isten igazságosságát: felhívást kaptunk, hogy ismerjük el Isten igazságosságát. Ezt a szőlőskertről szóló példázat hallgatósága is megerősítette és elismerte. Jézus úgy mondta el a példázatot, hogy a jelenlévők elismerjék: a gazda jogosan járt el a szőlőmunkásokkal.
-
-2.  El kell ismernünk Isten szerető szándékát: Mt 21:33-41-ben a hallgatóság elismeri, hogy a szőlő tulajdonosa mindent megtett, mielőtt ítéletet hozott volna. Ézsaiás 5-ben Isten is rámutat, hogy mindent megtett népéért, amit csak tudott. „Mit kellett volna még tennem szőlőmmel, amit nem tettem meg vele” (Ézs 5:4)? Ez a kérdés Isten szerető szándékának és népéért végzett tetteinek elismerésére szólít fel.
-
-3.  Hirdetnünk kell Isten igazságosságát és szerető szándékát: a Biblia arra hív, hogy ne csak felismerjük Isten igazságosságát és szeretetteljes cselekedeteit, hanem hirdessük is azt. Jel 15:3-ban a szentek énekelnek és hirdetik, hogy „Nagyok és csodálatosak a te tetteid, mindenható Úristen, igazságosak és igazak a te utaid, nemzetek Királya!”
+1. El kell ismernünk Isten igazságosságát: felhívást kaptunk, hogy ismerjük el Isten igazságosságát. Ezt a szőlőskertről szóló példázat hallgatósága is megerősítette és elismerte. Jézus úgy mondta el a példázatot, hogy a jelenlévők elismerjék: a gazda jogosan járt el a szőlőmunkásokkal.
+2. El kell ismernünk Isten szerető szándékát: Mt 21:33-41-ben a hallgatóság elismeri, hogy a szőlő tulajdonosa mindent megtett, mielőtt ítéletet hozott volna. Ézsaiás 5-ben Isten is rámutat, hogy mindent megtett népéért, amit csak tudott. „Mit kellett volna még tennem szőlőmmel, amit nem tettem meg vele” (Ézs 5:4)? Ez a kérdés Isten szerető szándékának és népéért végzett tetteinek elismerésére szólít fel.
+3. Hirdetnünk kell Isten igazságosságát és szerető szándékát: a Biblia arra hív, hogy ne csak felismerjük Isten igazságosságát és szeretetteljes cselekedeteit, hanem hirdessük is azt. Jel 15:3-ban a szentek énekelnek és hirdetik, hogy „Nagyok és csodálatosak a te tetteid, mindenható Úristen, igazságosak és igazak a te utaid, nemzetek Királya!”
 
 **Gyakorlati alkalmazás: Hogyan ismerhetjük el és hirdethetjük Isten igazságosságát és szerető szándékát a hétköznapokban és a róla folytatott beszélgetéseinkben?**
 
@@ -57,13 +53,9 @@ A Biblia nemcsak arra hív, hogy elismerjük vagy felismerjük Isten igaz­ságo
 
 Róm 3:26 kiemeli, hogy Isten nemcsak igazságos, hanem ezt meg is akarja mutatni, be is akarja bizonyítani nekünk. Ezt a gondolatot szem előtt tartva beszéljük meg a következő kérdéseket az osztállyal:
 
-1.  Isten mindent megtesz, hogy megmutassa igazságosságát népe számára. Milyen érzéseket kelt ez bennünk Isten iránt?
-
-2.  Hogyan segít Isten igazságosságának és népe iránti szeretetének elismerése abban, hogy másoknak hirdessük azt? Hogyan lehet ezt a felismerést hangsúlyozni az evangélium hirdetésében?
-
-3.  Hogyan lehet tudatosan bemutatni Isten iránti szeretetünket még szenvedések között is?
-
-
+1. Isten mindent megtesz, hogy megmutassa igazságosságát népe számára. Milyen érzéseket kelt ez bennünk Isten iránt?
+2. Hogyan segít Isten igazságosságának és népe iránti szeretetének elismerése abban, hogy másoknak hirdessük azt? Hogyan lehet ezt a felismerést hangsúlyozni az evangélium hirdetésében?
+3. Hogyan lehet tudatosan bemutatni Isten iránti szeretetünket még szenvedések között is?
 
 ---
 
