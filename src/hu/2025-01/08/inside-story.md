@@ -7,7 +7,7 @@ date: 21/02/2025
 
 Andrew McChesney
 
-Nelsont gyerekkorában még nem vitték rumbázni a szülei, hiszen kicsi volt, később azonban változott a helyzet. A kolumbiai kultúrában a keresztények szilveszterkor elmennek a templomba, hogy Istennek szenteljék magukat, majd az újév beköszöntését már éjszakai mulatókban várják, zenével, tánccal, sok alkohollal. Nelson gyerekkorában is érezte, hogy ez valahogy nincs rendben: a templom szent hely, az éjszakai bárok viszont nem azok. „Miért mennek a szülei a templomba megszentelődni, aztán a bárba, ahol közönséges módon viselkednek?” – tűnődött.
+Nelsont gyerekkorában még nem vitték rumbázni a szülei, hiszen kicsi volt, később azonban változott a helyzet. A kolumbiai kultúrában a keresztények szilveszterkor elmennek a templomba, hogy Istennek szenteljék magukat, majd az újév beköszöntését már éjszakai mulatókban várják, zenével, tánccal, sok alkohollal. Nelson gyerekkorában is érezte, hogy ez valahogy nincs rendben: a templom szent hely, az éjszakai bárok viszont nem azok. „Miért mennek a szülei a templomba megszentelődni, aztán a bárba, ahol közönséges módon viselkednek?” – tűnődött.
 
 Nelson meg is kérdezte az édesanyját: „Miért mész templomba, aztán pedig rumbázni?”
 

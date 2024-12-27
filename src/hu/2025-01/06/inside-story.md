@@ -11,11 +11,11 @@ Az amerikai misszionárius, Joanne (Park) Kim hazafelé tartott bérelt lakásá
 
 Joanne ránézett az idegenre. „Ha itt hagyom, pár órán belül halálra fagyhat.”
 
-Végignézett az lakóházakon. Mindegyik épületnek volt egy kis szobája a földszinten egy őr számára, tehát a bejárat aránylag barátságos hőmérsékletű volt. Megfogta hát a karjánál fogva az embert, és húzni kezdte. Valahogy elvonszolta az első épületig. Letette a bejáratnál, hátrébb lépett, és végigmérte. Újfajta érzés kúszott a szívébe. Részvétet és sajnálatot érzett.
+Végignézett az lakóházakon. Mindegyik épületnek volt egy kis szobája a földszinten egy őr számára, tehát a bejárat aránylag barátságos hőmérsékletű volt. Megfogta hát a karjánál fogva az embert, és húzni kezdte. Valahogy elvonszolta az első épületig. Letette a bejáratnál, hátrébb lépett, és végigmérte. Újfajta érzés kúszott a szívébe. Részvétet és sajnálatot érzett.
 
 Ez a találkozás fordulópontot jelentett Joanne missziómunkájában. Már nem ápolt keserű érzéseket támadói irányában. Ehelyett könyörület és részvét járta át a szívét. Végre tudott úgy szeretni, mint Jézus!
 
-Joanne folytatta szolgálatot, és 1992-1998 között segített az első adventista gyülekezet megalapításában Ulánbátorban. 2017-ben visszatért, és most az Oktatási és Fejlesztési Osztály igazgatójaként dolgozik ott. „Még mostanában is érnek támadások, Sátán nem adja fel, de Isten megajándékozott a mongol nyelvtudással és a szívemet is megváltoztatta. Ő szereti a részegeket is, tehát nekem is segítenem kell, ahogy csak tudok.”
+Joanne folytatta szolgálatot, és 1992-1998 között segített az első adventista gyülekezet megalapításában Ulánbátorban. 2017-ben visszatért, és most az Oktatási és Fejlesztési Osztály igazgatójaként dolgozik ott. „Még mostanában is érnek támadások, Sátán nem adja fel, de Isten megajándékozott a mongol nyelvtudással és a szívemet is megváltoztatta. Ő szereti a részegeket is, tehát nekem is segítenem kell, ahogy csak tudok.”
 
 
 
