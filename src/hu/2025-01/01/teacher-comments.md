@@ -65,3 +65,10 @@ A már fentebb említett szempontok alapján, amelyek Isten szeretetének szabad
 
 4.  Isten szeretete nem alkalmaz kényszert, tehát mit tanuljunk szeretetéből, miközben azon gondolkodunk, hogy keresztényként igyekszünk hitelesen szeretni az embereket?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Az apostolok története, „Krisztus hű pásztora” című fejezet; A megváltás története, „Az ember szabad választása” című fejezet (37–39. o.).

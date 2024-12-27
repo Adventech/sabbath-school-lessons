@@ -30,3 +30,13 @@
       value: "Szőllősy Botond"
     - name: ISBN
       value: "978-963-9930-93-3"
+    - name: Az EGW mellékletet fordította
+      value: "Bartha Sándor"
+    - name: Az EGW melléklet kiadója
+      value: "Viaţă şi Sănătate Kiadó, Pantelimon, Románia"
+    - name: Az EGW melléklet kiadás koordinátora
+      value: "Szász Ernő"
+    - name: EGW melléklet korrektúra és tördelés
+      value: "Czinkota Andrásné"
+    - name: EGW melléklet ISBN
+      value: "978-606-087-630-4"

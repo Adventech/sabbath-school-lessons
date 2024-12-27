@@ -13,3 +13,10 @@ Szinte hetente ismétlődő rémálom volt ez Joanne (Park) Kim számára az 199
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Üzenet az ifjúságnak, „Érzelmek helyett megváltozott élet” című fejezet (71–72. o.)

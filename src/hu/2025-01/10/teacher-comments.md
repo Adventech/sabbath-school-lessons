@@ -59,3 +59,10 @@ Jób könyve lenyűgöző betekintést nyújt a nagy küzdelem valóságába. J�
 
 3.  Ellen G. White kiemeli a „Sátán hatalma” című fejezetben (Testimonies for the Church. 1. köt. 345. o.) az imádság fontosságát annak érdekében, hogy Isten angyalokat küldjön a szabadításunkra. Mi a szerepe tehát imaéletünknek az isteni cselekvés útjainak megnyitásában?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Isten csodálatos kegyelme, „Ádáz kísértések” című fejezet.

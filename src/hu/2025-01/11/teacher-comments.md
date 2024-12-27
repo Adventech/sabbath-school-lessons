@@ -63,3 +63,10 @@ Róm 3:26 kiemeli, hogy Isten nemcsak igazságos, hanem ezt meg is akarja mutatn
 
 3.  Hogyan lehet tudatosan bemutatni Isten iránti szeretetünket még szenvedések között is?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Az apostolok története, „Isten terve egyházával” című fejezet.

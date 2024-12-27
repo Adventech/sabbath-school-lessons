@@ -13,3 +13,10 @@ A moszkvai nemzetközi adventista gyülekezetben úrvacsora volt. Éppen egy dé
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Az apostolok története, „Krisztus hű pásztora” című fejezet; A megváltás története, „Az ember szabad választása” című fejezet (37–39. o.).

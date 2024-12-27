@@ -13,3 +13,10 @@ Jong-Moonnak már régen van egy presszója Jeongdongjin tengerpartján, ami a l
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Jézus élete, „Kik az én testvéreim?” című fejezet.

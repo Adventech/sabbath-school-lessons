@@ -15,3 +15,10 @@ Joanne-nak erre a mondatra volt szüksége. Ha a társa csak vigasztalta volna, 
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „Jeruzsálem pusztulása” című fejezet.

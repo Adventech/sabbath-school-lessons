@@ -65,3 +65,10 @@ Az embereknek különleges értéke van. Azért vagyunk értékesek, mert Isten 
 
 5.  Mondjunk egy gyakorlati példát arra, hogyan teszi lehetővé számunkra Krisztus közbenjárása azt, hogy cselekedeteinkkel kedveskedjünk Istennek!
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Jézus élete, „Kik az én testvéreim?” című fejezet.

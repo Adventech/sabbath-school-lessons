@@ -65,3 +65,10 @@ Az osztályban vitassuk meg a következő kérdéseket:
 
 4.  Amikor az emberek eltávolodnak Istentől, már nincsenek bensőséges kapcsolatban vele, gyakran változik bennük a jelleméről kialakított kép is. E veszély elkerülése érdekében miként lehetünk tudatosabbak, hogy tapasztaljuk Isten jelenlétét és valóban bemutassuk Őt?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Bizonyságtételek a gyülekezeteknek, 5. köt., „Vallási és tudományos nevelés” című fejezet; Isten csodálatos kegyelme, „A csatamező” című fejezet.

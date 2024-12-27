@@ -63,3 +63,10 @@ Beszéljük meg az alábbi kérdéseket az osztályban:
 
 4.  Milyen tanácsot vagy magyarázatot tudunk adni annak, aki különösen nehéz körülmények közt van?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Jézushoz vezető út, „Isten szeretete az emberek iránt” című fejezet.

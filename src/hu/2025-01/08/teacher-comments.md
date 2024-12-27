@@ -61,3 +61,10 @@ Amikor nem követjük Istennek az életünkre vonatkozó tervét, Ő akkor is á
 
 3.  Hogyan magyarázhatjuk meg a kisgyerekek számára érthető módon, hogy nem minden Isten kifejezett akarata, ami megtörténik?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Bizonyságtételek a gyülekezeteknek, 4. köt., „Vallás a mindennapi életben” című fejezet; Jézushoz vezető út, „Öröm az Úrban” című fejezet.

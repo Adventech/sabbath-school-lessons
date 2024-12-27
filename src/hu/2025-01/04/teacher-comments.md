@@ -65,3 +65,10 @@ Isten kimutatja népe iránti könyörületét és szenvedélyes szeretetét, é
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Üzenet az ifjúságnak, „Érzelmek helyett megváltozott élet” című fejezet (71–72. o.)

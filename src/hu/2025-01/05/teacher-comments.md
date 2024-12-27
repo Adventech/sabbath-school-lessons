@@ -69,3 +69,10 @@ Ezt a történetet szem előtt tartva kérjük meg a jelenlévőket, hogy beszé
 
 4.  A Biblia arra int, hogy ha haragszunk is, de ne vétkezzünk. Ennek a gondolatnak a hátterén mondjunk konkrét példákat a mindennapi életből, amikor a harag a szeretet kifejeződése lehet!
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „Jeruzsálem pusztulása” című fejezet.
