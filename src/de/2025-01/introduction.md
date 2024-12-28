@@ -1,14 +1,12 @@
 Gott ist Liebe. So steht es in 1. Johannes 4, Verse 8 und 16. Die gesamte Bibel zeugt von dieser Tatsache. Der christliche Glaube dreht sich um Gottes liebendes Wesen. Die Liebe ist in der Mitte dessen, wer Gott ist. Sie ist der Kern von allem, was wir glauben, und sie sollte der Kern von allem sein, was wir tun. Dementsprechend wirkt sich die Art und Weise, wie wir Liebe verstehen, auf die Gesamtheit unseres Glaubens und unseres Verhaltens aus. Wenn man zum Beispiel glaubt, dass Gottes Liebe erarbeitet oder verdient werden muss, könnte man meinen, dass Gott einen nicht liebt, weil man sündig und unwürdig ist. Und in der Beziehung zu anderen könnte man von ihnen erwarten, dass sie sich die Liebe verdienen – damit sind Katastrophen vorprogrammiert.
 
-Wie wir Gottes Liebe verstehen, hat in dieser und in vielerlei Hinsicht massive Auswirkungen auf unseren Glauben und unser Verhalten. Doch was ist Liebe? Wenn man zehn Menschen bittet, Liebe zu deﬁnieren, erhält man
-vermutlich zehn verschiedene Antworten. Selbst unter Christen gibt es viele Mythen und Missverständnisse über Gottes Liebe.
+Wie wir Gottes Liebe verstehen, hat in dieser und in vielerlei Hinsicht massive Auswirkungen auf unseren Glauben und unser Verhalten. Doch was ist Liebe? Wenn man zehn Menschen bittet, Liebe zu deﬁnieren, erhält man vermutlich zehn verschiedene Antworten. Selbst unter Christen gibt es viele Mythen und Missverständnisse über Gottes Liebe.
 
 Zum Beispiel geben Christen unterschiedliche Antworten auf Fragen wie:
 
 Die Liebe Gottes gibt immer nur, empfängt aber nie? Ist göttliche Liebe rein selbstaufopfernd oder kann Gott sich auch an Menschen erfreuen und von ihnen froh gemacht werden? Ist Gottes Liebe emotional? Liegt Gott wirklich etwas an den Menschen? Kann Gottes Liebe zurückgewiesen oder verwirkt werden? Geht Gott mit Geschöpfen eine wechselseitige Liebesbeziehung ein? Ist Zorn unvereinbar mit Liebe? Wie passen Liebe und Gerechtigkeit zusammen? Wenn Gott Liebe ist, warum gibt es dann das Böse in dieser Welt – und zwar so viel davon? Können Menschen so lieben wie Gott? Wenn ja, wie würde das aussehen?
 
-Die Antworten auf einige dieser Fragen mögen auf der Hand liegen, sind aber in christlichen Betrachtungen über die göttliche Liebe oft umstritten. Viele Antworten, die manchmal als offensichtlich angesehen werden, erwei-
-sen sich bei näherem Hinsehen als unvereinbar mit dem, was die Heilige Schrift über Gottes Liebe lehrt.
+Die Antworten auf einige dieser Fragen mögen auf der Hand liegen, sind aber in christlichen Betrachtungen über die göttliche Liebe oft umstritten. Viele Antworten, die manchmal als offensichtlich angesehen werden, erweisen sich bei näherem Hinsehen als unvereinbar mit dem, was die Heilige Schrift über Gottes Liebe lehrt.
 
 Wir werden nicht alle diese Fragen auf einmal behandeln, aber wir werden diese und andere Fragen im Laufe dieses Quartals aufgreifen. Und wir werden sehen, dass Gottes Liebe viel größer ist, als wir vielleicht denken. Gottes Liebe ist gemäß der Darstellung in der Heiligen Schrift den Vorstellungen, die in unserer heutigen Welt meist als „Liebe“ gelten, weit überlegen. In den kommenden Wochen werden wir uns einige der wichtigsten und schönsten Aspekte der Liebe Gottes, die in der Bibel offenbart werden, genauer ansehen.
 
