@@ -22,7 +22,6 @@ Tonian-dahatsoratra mpanampy ao amin'ny Adventist Review i John C. Peckman. Mpam
 
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
-
 **and.** andininy
 
 **b.** boky
@@ -43,7 +42,6 @@ Tonian-dahatsoratra mpanampy ao amin'ny Adventist Review i John C. Peckman. Mpam
 
 **MM** Mpaminany sy Mpanjaka/Prophets and Kings, EGW
 
-
 **NKJV** New King James Version
 
 **PM** Patriarka sy Mpaminany/Patriarchs and Prophets, EGW
@@ -59,6 +57,4 @@ Tonian-dahatsoratra mpanampy ao amin'ny Adventist Review i John C. Peckman. Mpam
 **TT** Testamenta Taloha
 
 **TV** Testamenta Vaovao
-
-
 
