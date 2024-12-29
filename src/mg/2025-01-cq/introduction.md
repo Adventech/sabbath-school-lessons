@@ -20,7 +20,6 @@ Miara-dalana aminao amin'izao dia lavitra izao,
 
 -- David Guerrero
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **and.** andininy
