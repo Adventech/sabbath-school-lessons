@@ -5,7 +5,7 @@ date:   13/09/2024
 
 ### Startfrage(n)
 
--   Wenn Jesus heute unter uns wäre -- was würdet ihr tun wollen, um ihm
+-   Wenn Jesus heute unter uns wäre – was würdet ihr tun wollen, um ihm
     eure Liebe zu zeigen?
 
 ### Sonntag: Unvergesslich
@@ -41,7 +41,7 @@ date:   13/09/2024
 -   Kann es sein, dass dieses Gebet das einzige ist, das nicht erhört
     wurde? Oder wurde es erhört? Wenn ja, wie?
 -   Was sagt dir diese Begebenheit über den Wert der Fürbitte?
--   Für wen war die Fürbitte gedacht -- Jesus oder die Jünger selbst?
+-   Für wen war die Fürbitte gedacht – Jesus oder die Jünger selbst?
 
 ### Mittwoch: Alles zurücklassen, um von Jesus wegzulaufen & Donnerstag: Wer bist du?
 
@@ -72,4 +72,5 @@ date:   13/09/2024
     Bedeutung des Abendmahls in unserer Kirche noch besser zur Geltung
     bringen?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
