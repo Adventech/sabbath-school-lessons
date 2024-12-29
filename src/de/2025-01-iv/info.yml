@@ -4,9 +4,9 @@
   human_date: "Jänner · Feber · März 2025"
   start_date: "28/12/2024"
   end_date: "28/03/2025"
-  color_primary: "#6e8eb2"
-  color_primary_dark: "#57728f"
-
+  color_primary: "#6884A7"
+  color_primary_dark: "#4B617C"
+  splash: true
   credits:
   - name: Herausgeber
     value: "ABC Medien, Wien"
