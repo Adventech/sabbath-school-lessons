@@ -1,0 +1,22 @@
+### Gottes Liebe und Gerechtigkeit
+
+#### Einführung
+
+Gott ist Liebe. So steht es in 1. Johannes 4,8 und 16. Die gesamte Bibel zeugt von dieser Tatsache. Der christliche Glaube dreht sich um Gottes Charakter der Liebe. Die Liebe ist der Kern dessen, was Gott ist, sie ist der Kern von allem, was wir glauben, und sie sollte der Kern von allem sein, was wir tun. Dementsprechend wirkt sich die Art und Weise, wie wir Liebe verstehen, auf die Gesamtheit unseres Glaubens und unserer Praxis aus. Wenn man zum Beispiel glaubt, dass Gottes Liebe verdient werden muss, könnte man denken, dass Gott einen nicht liebt, weil man sündig und unwürdig ist. Und in Bezug auf andere könnte man erwarten, dass diese sich die Liebe verdienen – ein Rezept für eine Katastrophe.
+
+Wie wir Gottes Liebe verstehen, hat in dieser und in vielerlei anderer Hinsicht massive Auswirkungen auf unseren Glauben und unsere Praxis. Doch was ist Liebe? Wenn wir zehn Menschen bitten, Liebe zu definieren, erhalten wir vielleicht zehn verschiedene Antworten. Selbst unter Christen gibt es viele Mythen und Missverständnisse über Gottes Liebe.
+
+Christen geben zum Beispiel unterschiedliche Antworten auf Fragen wie diese:
+Ist Gottes Liebe nur ein Geben, aber kein Empfangen? Ist die göttliche Liebe rein selbstaufopfernd, oder kann Gott sich auch an den Menschen erfreuen und von ihnen beglückt werden? Ist die Liebe Gottes emotional? Liegt Gott wirklich etwas an den Menschen? Kann Gottes Liebe zurückgewiesen oder verwirkt werden? Geht Gott mit den Geschöpfen eine wechselseitige Liebesbeziehung ein? Ist Zorn mit Liebe unvereinbar? Wenn Gott die Liebe ist, warum gibt es dann das Böse in dieser Welt, und zwar so viel davon? Können Menschen so lieben, wie Gott es tut? Wenn ja, wie würde das aussehen?
+
+Die Antworten auf einige dieser Fragen mögen offensichtlich erscheinen, sind aber in den christlichen Darstellungen der göttlichen Liebe oft umstritten. Und viele Antworten, die manchmal als offensichtlich angesehen werden, erweisen sich bei näherer Betrachtung als unvereinbar mit dem, was die Heilige Schrift über Gottes Liebe lehrt.
+
+Wir werden nicht alle diese Fragen auf einmal behandeln, sondern wir werden diese und andere Fragen im Laufe dieses Quartals aufgreifen. Und wir werden sehen, dass Gottes Liebe viel größer ist, als wir vielleicht denken. Gottes Liebe, wie sie in der Heiligen Schrift dargestellt wird, ist den Vorstellungen, die in unserer heutigen Welt als „Liebe“ gelten, weit überlegen. In den kommenden Wochen werden wir uns einige der wichtigsten und schönsten Aspekte der Liebe Gottes, die in der Bibel offenbart werden, genauer ansehen.
+
+Und im weiteren Verlauf werden wir sehen, wie göttliche Liebe und Gerechtigkeit untrennbar miteinander verbunden sind. Der Gott der Bibel liebt die Gerechtigkeit (siehe z. B. Jes 61,8). Und so, wie die Bibel sie darstellt, gehören göttliche Liebe und Gerechtigkeit so zusammen, dass man das eine nicht ohne das andere haben kann. Weil Gott Liebe ist, ist er zutiefst besorgt über Ungerechtigkeit und Leid in dieser Welt, und er identifiziert sich mit den Unterdrückten und Leidenden, indem er sich bereitwillig auf den Schmerz und das Leid einlässt, das das Böse in der Schöpfung angerichtet hat. – Er selbst leidet am meisten von allen, so sehr, dass Gott selbst das größte Opfer des Bösen ist.
+
+In der ganzen Bibel wird Gott immer wieder durch das Böse und das Leid betrübt und geschmerzt, weil er jeden Menschen mehr liebt, als wir es uns vorstellen können. Man kann die Tiefe der Liebe Gottes in der Klage Christi über sein Volk sehen, als er sagte: „Jerusalem, Jerusalem, die da tötet die Propheten und steinigt, die zu ihr gesandt sind! Wie oft habe ich deine Kinder versammeln wollen, wie eine Henne ihre Küken versammelt unter ihre Flügel, und ihr habt nicht gewollt!“ (Matthäus 23,37).
+
+Der Gott der Bibel, der die Liebe ist, wird in der gesamten Heiligen Schrift oft als zerbrochenes Herz und betrübt über zurückgewiesene und verlorene Liebe dargestellt. Die gesamte Geschichte der Heiligen Schrift handelt davon, was Gott getan hat und tut, um die Liebe in allen Ecken und Winkeln des Universums wiederherzustellen. Dies und vieles mehr ist das Thema der Lektionen in diesem Quartal.
+
+John C. Peckman ist Mitherausgeber der Adventist Review. Als dieser Leitfaden verfasst wurde, war er Professor für Theologie und christliche Philosophie am Theologischen Seminar der Siebenten-Tags-Adventisten an der Andrews University.
