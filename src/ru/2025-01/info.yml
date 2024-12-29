@@ -4,8 +4,8 @@
   human_date: "Январь · Февраль · Март 2025"
   start_date: "28/12/2024"
   end_date: "28/03/2025"
-  color_primary: "#304465"
-  color_primary_dark: "#032C48"
+  color_primary: "#8E2529"
+  color_primary_dark: "#701417"
   credits:
     - name: Автор
       value: "Джон Пэкхэм"
