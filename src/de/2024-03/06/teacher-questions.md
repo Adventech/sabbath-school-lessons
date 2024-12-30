@@ -11,10 +11,10 @@ date:   09/08/2024
 
 ### STARTFRAGEN
 
--   Was bewirken Erkenntnisse (Wissen, Gebote,... ) bzw. Beziehungen
+-   Was bewirken Erkenntnisse (Wissen, Gebote,… ) bzw. Beziehungen
     (Liebe) im Leben eines Menschen?
 
-### SONNTAG -- Menschliche Überlieferungen kontra Gottes Gebote
+### SONNTAG – Menschliche Überlieferungen kontra Gottes Gebote
 
 **Mark 7,1-13**
 
@@ -23,15 +23,15 @@ date:   09/08/2024
         befürchten sie? Warum?
     -   Welche Sehnsucht Gottes zeigt V6? Welche Rolle spielt unser Herz
         bei der Erlösung?
-    -   Wovor warnt V10-12? Kann ein „Gott dienen" und ein „Menschen
-        helfen" wirklich ein Widerspruch sein?
+    -   Wovor warnt V10-12? Kann ein „Gott dienen“ und ein „Menschen
+        helfen“ wirklich ein Widerspruch sein?
 -   Fragen zur Botschaft:
     -   Wie wichtig sind Gewohnheiten (Traditionen) und welche Gefahr
         gibt es da (auch bei guten Gewohnheiten)?
     -   Was ist ein Heuchler? Warum tut er es?
     -   Wie erkenne ich meine Beweggründe meiner Handlungen?
 
-### MONTAG -- Reine Hände oder ein reines Herz?
+### MONTAG – Reine Hände oder ein reines Herz?
 
 **Mark 7,14-23**
 
@@ -42,18 +42,18 @@ date:   09/08/2024
     -   V21 Wodurch kommt Böses? Wieso ist es im Herzen? Womit wird
         unser Herz gefüllt? Wie?
 -   Fragen zur Botschaft:
-    -   Was ist der Unterschied zwischen „kultisch unrein" und „durch
-        Sünde unrein"?
+    -   Was ist der Unterschied zwischen „kultisch unrein“ und „durch
+        Sünde unrein“?
     -   Wie kann ich, bzw. mein Herz rein werden?
     -   Frage: Stimmt folgendes: „Schlecht(es) Essen macht nicht
-        „unrein" sondern höchstens krank!"?
+        „unrein“ sondern höchstens krank!“?
 
-### DIENSTAG -- Krümel für die Hunde
+### DIENSTAG – Krümel für die Hunde
 
 **Mark 7,24-30**
 
 -   Fragen zum Text:
-    -   Wie reagiert Jesus, wenn man „seine Pläne/Ruhe" stört? Oder:
+    -   Wie reagiert Jesus, wenn man „seine Pläne/Ruhe“ stört? Oder:
         Warum reagiert er hier so?
     -   Was sagt V28 über die Einstellung der Frau aus? Wie sah sie
         Jesus?
@@ -65,7 +65,7 @@ date:   09/08/2024
         sie die Frau wegschicken!)
     -   Was lernt uns diese Begebenheit?
 
-### MITTWOCH -- Gefesselte Zunge
+### MITTWOCH – Gefesselte Zunge
 
 **Mark 7,13-37**
 
@@ -76,13 +76,13 @@ date:   09/08/2024
         aber? Warum/ Welche Wirkung?
     -   V36+37 Wie reagieren sie nun? Was bewirkt das (weiter)?
 -   Fragen zur Botschaft:
-    -   Diese Gegend erhielt also eine „zweite Chance". Geben wir neue
+    -   Diese Gegend erhielt also eine „zweite Chance“. Geben wir neue
         Chancen? Mit welcher Wirkung?
     -   Haben wir Erwartungen / Wünsche WIE genau Gott helfen soll? Oder
         sind wir offen für Gott?
     -   Wie reagieren wir auf Gottes Eingreifen in unser Leben?
 
-### DONNERSTAG -- Vorsicht, schlechtes Brot
+### DONNERSTAG – Vorsicht, schlechtes Brot
 
 **Mark 8,11-21**
 
@@ -91,7 +91,7 @@ date:   09/08/2024
         über sie? (Joh 6:30.31/Mt 16,1-4)
     -   V15 Was meint Jesus mit SAUERTEIG DER PHARISÄER?
     -   V17 Was genau sollten die Jünger begreifen? Warum ein
-        „verhärtetes Herz"?
+        „verhärtetes Herz“?
 -   Fragen zur Botschaft:
     -   Sie knüpfen ihre Anerkennung ( Glaube / Vertrauen an
         Bedingungen. Und wir?
@@ -99,4 +99,5 @@ date:   09/08/2024
         herzliche Beziehung mit Jesus?
     -   Was hilft bei Beziehungspflege?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
