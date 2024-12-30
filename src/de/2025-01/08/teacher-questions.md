@@ -24,7 +24,7 @@ date:   21/02/2025
 -   **Wie reagiert ihr darauf, wenn jemand sagt, Gott solle mal richtig
     auf die Pauke hauen, sonst tanzen ja die Mäuse auf dem Tisch – er
     sei ja Gott, er könne das doch tun?**
-    -   Experiment Sintflut – was hat Gott damit erreicht? --&gt; Gen.
+    -   Experiment Sintflut – was hat Gott damit erreicht? --> Gen.
         8:21
     -   Gericht ohne Erlösung / Erlöser schafft keine nachhaltige
         Veränderung von innen heraus…
