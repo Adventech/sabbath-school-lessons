@@ -18,4 +18,4 @@ Throughout the Bible, God is repeatedly grieved and pained by evil and suffering
 
 The God of the Bible, who is love, is often portrayed throughout Scripture as brokenhearted and grieved by love rejected and love lost. The entire story of Scripture is about what God has done and is doing to restore love to every corner and crevice of the universe. This and much more is the topic of this quarter’s lessons.
 
-_John C. Peckham is an associate editor of the Adventist Review. At the time this guide was written, he was a professor of theology and Christian philosophy at the Seventh-day Adventist Theological Seminary at Andrews University._
+_John C. Peckham is an associate editor of the Adventist Review and a professor of theology and Christian philosophy at the Seventh-day Adventist Theological Seminary at Andrews University._
