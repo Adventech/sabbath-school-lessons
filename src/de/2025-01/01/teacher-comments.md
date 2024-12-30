@@ -13,7 +13,6 @@ date: 03/01/2025
 
 Gott liebt jeden Menschen bedingungslos, mehr als wir uns auch nur vorstellen können. Seine Liebe ist unendlich großherzig und gnädig, wobei er von sich aus beschlossen hat, seine aufopferungsvolle Liebe selbst dann zu offenbaren, wenn Menschen nicht treu sind.
 
-
 **Themen der Lektion**
 
 In der Lektion dieser Woche werden drei wichtige Themen beleuchtet:

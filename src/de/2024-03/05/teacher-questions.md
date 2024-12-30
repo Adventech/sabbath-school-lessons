@@ -3,24 +3,24 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   02/08/2024
 ---
 
-**Stillung eines Sturms -- Wir lesen Markus 4,35-41**
+**Stillung eines Sturms – Wir lesen Markus 4,35-41**
 
 -   Fragen zum Text:
     -   Welche Fragen kommen euch bei diesem Abschnitt?
-    -   Jesus weist die Jünger zurecht („furchtsam", „kein Glauben" in
-        Markus 4,40) -- welche Reaktion auf den Sturm hat er denn von
+    -   Jesus weist die Jünger zurecht („furchtsam“, „kein Glauben“ in
+        Markus 4,40) – welche Reaktion auf den Sturm hat er denn von
         ihnen erwartet?
-    -   Was meinen die Jünger mit „Wer ist der?" Warum fürchten sie
+    -   Was meinen die Jünger mit „Wer ist der?“ Warum fürchten sie
         sich?
 -   Fragen zur Botschaft:
     -   Ist es falsch, Angst zu haben? Ist es möglich, zu glauben und
         trotzdem Furcht zu haben?
     -   Die Offenbarung Jesu im Markusevangelium geschieht in Schritten
-        -- fast so, wie im persönlichen Leben. Welcher Moment war für
+        – fast so, wie im persönlichen Leben. Welcher Moment war für
         euch ein markanter Schritt im Begreifen, wer Jesus ist? Wann
         habt ihr erkannt, dass Jesus der Sohn Gottes ist?
 
-**Kannst du ein Flüstern deutlicher vernehmen als einen Schrei? -- Wir
+**Kannst du ein Flüstern deutlicher vernehmen als einen Schrei? – Wir
 lesen Markus 5,1-20**
 
 -   Fragen zum Text:
@@ -39,7 +39,7 @@ lesen Markus 5,1-20**
     -   Was wollt ihr vom Wesen Jesu, wie es sich in dieser Begebenheit
         zeigt, lernen?
 
-**Achterbahnfahrt mit Jesus -- Wir lesen Markus 5,21-36**
+**Achterbahnfahrt mit Jesus – Wir lesen Markus 5,21-36**
 
 -   Fragen zum Text:
     -   Die Leser dieser Geschichte(n) beginnen fast automatisch zu
@@ -53,17 +53,17 @@ lesen Markus 5,1-20**
         vor der Heilung seiner Tochter nicht fürchten, sondern glauben
         (Markus 5,36). Wie seht ihr den Zusammenhang von Furcht und
         Glaube an dieser Stelle?
-    -   Dein Glaube hat dich gesund gemacht" (Markus 5,34) Wie soll man
+    -   Dein Glaube hat dich gesund gemacht“ (Markus 5,34) Wie soll man
         das verstehen?
     -   Spielt der Glaube auch bei anderen Heilungen (im
         Markusevangelium) eine Rolle?
 -   Fragen zur Botschaft:
     -   Wie ist der Zusammenhang zwischen Glaube und Heilung heute?
 
-**Ablehnung und Annahme -- Wir lesen Markus 6,1-6**
+**Ablehnung und Annahme – Wir lesen Markus 6,1-6**
 
 -   Fragen zum Text:
-    -   Warum „wunderte" sich Jesus über den Unglauben der Leute in
+    -   Warum „wunderte“ sich Jesus über den Unglauben der Leute in
         Nazaret (Markus 6,6), wenn er es doch gerade erklärt hat (Markus
         6,4-5)?
 -   Fragen zur Botschaft:
@@ -72,7 +72,7 @@ lesen Markus 5,1-20**
     -   Wir würdet ihr heute auf Menschen reagieren, die euch in
         offensichtlichem Unglauben begegnen?
 
-**Eine andere Art Messias -- Wir lesen Markus 6,34-52**
+**Eine andere Art Messias – Wir lesen Markus 6,34-52**
 
 -   Fragen zum Text:
     -   Die Jünger fürchten sich erneut (Markus 6,50-51). Warum ist
@@ -90,4 +90,5 @@ lesen Markus 5,1-20**
     -   Wenn Jesus diese Kapitel nur für dich hätte schreiben lassen,
         welche Wörter oder Sätze hätte er für dich unterstrichen?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
