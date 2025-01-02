@@ -1,0 +1,21 @@
+### Perëndia i Dashurisë dhe i Drejtësisë
+
+Perëndia është dashuri. Kështu thotë 1 Gjonit 4:8 dhe 16. Bibla në tërësi e dëshmon këtë fakt. Besimi i Krishterë përqendrohet rreth karakterit të dashur të Perëndisë. Dashuria është në thelb të Zotit, në thelb të gjithçkaje që besojmë, dhe duhet të jetë në thelb të çdo gjëje që bëjmë. Rrjedhimisht, mënyra sesi e kuptojmë dashurinë ndikon në tërësinë e besimit dhe praktikave tona. Nëse, për shembull, dikush beson se dashuria e Perëndisë duhet të fitohet ose meritohet, mund të mendojë se Zoti nuk e do për shkak se është mëkatar dhe i/e padenjë. Dhe, në lidhje me të tjerët, dikush pret që ata të meritojnë dashuri - një recetë për shumë probleme.
+
+Në këtë dhe shumë mënyra të tjera, mënyra sesi e kuptojmë dashurinë e Perëndisë ka implikime të mëdha në besimin dhe praktikat tona. Megjithatë, çfarë është dashuria? Nëse pyet dhjetë njerëz të përkufizojnë dashurinë, do marrësh dhjetë përgjigje të ndryshme. Edhe në mes të Krishterëve ka shumë mite dhe keqkuptime në lidhje me dashurinë e Perëndisë. 
+
+Për shembull, të Krishterët japin përgjigje të ndryshme ndaj pyetjeve si: 
+
+Dashuria e Perëndisë vetëm jep, dhe asnjëherë nuk merr? A është dashuria hyjnore plotësisht vetësakrifikuese, apo ndoshta Zoti mund të kënaqet edhe nga njerëzit? A është dashuria e Perëndisë emocionale? A kujdeset vërtet Perëndia për njerëzit? A mund të refuzohet apo të humbasë dashuria e Perëndisë? A përfshihet Zoti në një dashuri të ndërsjelltë me krijesat e Tij? A është inati i papërshtatshëm me dashurinë? Si mund të shkojnë së bashku dashuria dhe drejtësia? Nëse Zoti është dashuri, pse ekziston e keqja në këtë botë, dhe kjo në masë të madhe? A munden njerëzit të duan njësoj si Zoti? Nëse po, si do të dukej kjo?
+
+Përgjigjet e disa prej këtyre pyetjeve mund të duken të qarta, por ato diskutohen shpesh në trajtimet e Krishtera të dashurisë hyjnore. Dhe, shumë përgjigje që ndonjëherë merren si të mirëqena, kur i shikon më afër duken të papërshtatshme me atë që Shkrimi mëson për dashurinë e Perëndisë. 
+
+Nuk do i adresojmë të gjitha këto pyetje njëherësh, por do i shtjellojmë këto dhe pyetje të tjera përgjatë këtij simestri. Dhe do të shohim se dashuria e Perëndisë është shumë më e madhe sesa ne e mendojmë. Dashuria e Perëndisë siç përshkruhet në Shkrime është shumë më superiore ndaj "dashurisë" në pjesën më të madhe të botës sonë sot. Në javët në vijim, do të shohim më nga afër disa aspekte dominuese dhe të bukura të dashurisë së Perëndisë siç na zbulohen në Bibël. 
+
+Dhe, teksa vazhdojmë, do të shohim sesi dashuria dhe drejtësia hyjnore janë të lidhura në mënyrë të pandashme. Zoti i Biblës e do drejtësinë (shiko, për shembull, Isa. 61:8). Dhe, siç e përshkruan Bibla, dashuria dhe drejtësia hyjnore shkojnë së bashku në mënyrë të tillë saqë nuk mund të ndahen nga njëra-tjetra. Për shkak se Zoti është dashuri, Ai shqetësohet thellësisht për padrejtësinë dhe vuajtjet në këtë botë, dhe e identifikon Veten me ata që shtypen dhe vuajnë, duke patur vullnet të përfshihet me dhimbjen dhe vajtimin që e keqja i ka sjellë krijimit - duke vuajtur Vetë më shumë se të gjithë, kaq shumë sa Zoti Vetë është viktima më e madhe e së keqes.
+
+Përgjatë Biblës, Zoti vazhdimisht lëndohet nga e keqja dhe vuajtja, sepse Ai e do çdo person më shumë nga sa mund ta imagjinojmë. Mund të shohësh thellësinë e dashurisë së Perëndisë në vajtimet e Krishtit për popullin e Tij kur tha: " 'Jeruzalem, Jeruzalem, që i vret profetët dhe i vret me gurë ata që të janë dërguar! Sa herë kam dashur t'i mbledh bijtë e tu ashtu si i mbledh klloçka zogjtë e vet nën krahë, por ju nuk deshët!' " (Mat. 23:37).
+
+Zoti i Biblës, që është dashuri, portretizohet shpesh përgjatë Shkrimit zemërthyer dhe i lënduar nga dashuria e refuzuar. E gjithë historia e Shkrimit ka lidhje me atë që Zoti ka bërë dhe bën për të restauruar dashurinë në çdo vend të universit. Kjo dhe shumë më tepër do të jenë tema e mësimeve të këtij simestri.
+
+_John C. Peckham është bashkëredaktor i Adventist Review. Në kohën kur u shkrua ky mësim, ai ishte profesor  i Teologjisë dhe Filozofisë së Krishterë në Seventh-day Adventist Theological Seminary në Andrews University._
