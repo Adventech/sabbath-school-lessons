@@ -6,6 +6,7 @@
   end_date: "28/03/2025"
   color_primary: "#B89B7D"
   color_primary_dark: "#8F7254"
+  splash: true
   credits:
     - name: Autor
       value: "John C. Peckham"
