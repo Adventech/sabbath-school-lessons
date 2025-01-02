@@ -1,0 +1,37 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-Intro.pdf'
+      target: bg/2025-01-cc/introduction
+      title: 'Introduction'
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-01.pdf'
+      target: bg/2025-01-cc/01
+      title: 'Живата вест'
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-02.pdf'
+      target: bg/2025-01-cc/02
+      title: 'Бащите, които Бог избра за Своя Син'
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-03.pdf'
+      target: bg/2025-01-cc/03
+      title: 'Обратно броене до Спасителя'
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-04.pdf'
+      target: bg/2025-01-cc/04
+      title: 'Получаваш това, което търсиш'
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-05.pdf'
+      target: bg/2025-01-cc/05
+      title: 'Следвайки далечната звезда'
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-01/ABSG-2025-01-BG-CC-06.pdf'
+      target: bg/2025-01-cc/06
+      title: 'Да пораснеш'
+      start_date: 01/02/2025
+      end_date: 07/02/2025
