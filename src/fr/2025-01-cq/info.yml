@@ -1,0 +1,20 @@
+---
+  title: "Renouveler l’esprit"
+  description: "Au cours des dernières années, la vie dans notre monde a radicalement changé. La pandémie de coronavirus, les émeutes, les troubles civils et politiques, l’érosion de la famille et la multiplication des catastrophes naturelles ont plongé de nombreuses personnes dans la peur, l’anxiété et la dépression. Les maladies mentales n’ont jamais été aussi nombreuses. Le taux de suicide chez les ados augmente. Les gens recherchent la paix et le bonheur là où ils pensent pouvoir les trouver. Malheureusement, beaucoup cherchent au mauvais endroit et par des voies débilitantes. La consommation de drogues est devenue incontrôlable. La promiscuité est désormais acceptée en bien des endroits. Le bonheur recherché à travers l’argent, les divertissements, les dépendances et la technologie n’aboutit souvent qu’à un plus grand malheur."
+  human_date: "Janvier · Février · Mars 2025"
+  start_date: "28/12/2024"
+  end_date: "28/03/2025"
+  color_primary: "#5784A6"
+  color_primary_dark: "#3C6685"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "David Guerrero"
+    - name: Rédacteur en chef
+      value: "Joe Reeves"
+    - name: Rédactrice en chef adjointe
+      value: "Paige J. Swanson"
+    - name: Traduction et édition française
+      value: "Monique Lemay Révision"
+    - name: Révision
+      value: "Francine Schweitzer"

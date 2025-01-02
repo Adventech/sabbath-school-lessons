@@ -1,0 +1,21 @@
+### L’amour et la justice de Dieu
+
+Dieu est amour. C’est ce que dit 1 Jean 4.8 et 16. L’intégralité de la Bible en atteste. La foi chrétienne gravite autour du caractère d’amour de Dieu. L’amour est au cœur même de l’identité de Dieu, au cœur de tout ce que nous croyons, et il devrait être au cœur de tout ce que nous faisons. Par conséquent, la manière dont nous comprenons l’amour affecte toute notre foi et nos pratiques. Si, par exemple, je crois que je dois gagner ou mériter l’amour de Dieu, alors je peux penser que Dieu ne m’aime pas, parce que je suis pécheur et indigne. Et sur le plan des relations avec autrui, je peux considérer que les autres doivent mériter mon amour. Ce genre d’idées, c’est la catastrophe assurée.
+
+Dans ce domaine, et dans bien d’autres, la manière dont nous comprenons l’amour de Dieu a des implications colossales pour notre foi et nos pratiques. Mais qu’est-ce que l’amour? Si vous demandez à dix personnes de définir l’amour, vous obtiendrez peut-être dix réponses différentes. Même parmi les chrétiens, il y a beaucoup de mythes et de malentendus au sujet de l’amour de Dieu.
+
+Par exemple, les chrétiens donnent des réponses différentes aux questions comme:
+
+L’amour de Dieu se contente-t-il de donner, mais sans jamais recevoir? L’amour divin est-il purement désintéressé, ou bien les humains peuvent-ils faire la joie de Dieu? L’amour de Dieu est-il affectif? Dieu se soucie-t-il vraiment des humains? Peut-on rejeter ou perdre l’amour de Dieu? Dieu est-il dans une relation d’amour donnant-donnant avec ses créatures? La colère et l’amour sont-ils compatibles? Comment l’amour et la justice peuvent-ils aller de pair? Si Dieu est amour, pourquoi le mal existe-t-il dans ce monde, et dans de telles proportions? Les humains peuvent-ils aimer comme Dieu aime? Et si oui, comment cela se manifeste-t-il concrètement?
+
+Les réponses à certaines de ces questions peuvent sembler évidentes, mais elles font souvent l’objet de débats parmi les chrétiens. Par ailleurs, beaucoup d’entre elles, considérées comme évidentes, se révèlent, après examen, incompatibles avec ce que la Bible enseigne sur l’amour de Dieu.
+
+Nous n’évoquerons pas toutes ces questions tout de suite, mais nous y répondrons au fur et à mesure de l’étude de ce trimestre, ainsi que d’autres questions encore. Et nous verrons que l’amour de Dieu est bien plus grand que nous ne le pensons. L’amour de Dieu, tel qu’il est décrit dans les Écritures, est bien supérieur aux conceptions de «l’amour» dans notre monde aujourd’hui. Dans les semaines qui viennent, nous examinerons de plus près certains des aspects les plus frappants et les plus beaux de l’amour de Dieu, tels que la Bible nous les révèle.
+
+À mesure que nous progresserons, nous verrons combien l’amour et la justice de Dieu sont indissociables. Le Dieu de la Bible aime la justice (voir par exemple Es 61.8). L’amour et la justice de Dieu vont de pair, à tel point qu’on ne peut avoir l’un sans l’autre. Dieu étant amour, il est profondément concerné par l’injustice et la souffrance qui règnent dans ce monde, et il comprend les opprimés, car il est entré de son plein gré dans la douleur et la souffrance que le mal a causées dans la création. C’est lui qui souffre le plus, au point d’être la plus grande victime du mal.
+
+D’un bout à l’autre de la Bible, Dieu est chagriné et affligé par le mal et la souffrance, car il aime chaque personne plus que nous ne pouvons l’imaginer. On peut voir la profondeur de l’amour de Dieu dans cette fameuse plainte de Christ: «Jérusalem, Jérusalem, toi qui tues les prophètes et qui lapides ceux qui te sont envoyés, combien de fois j’ai voulu rassembler tes enfants, comme une poule rassemble ses poussins sous ses ailes! Mais vous ne l’avez pas voulu» (Mt 23.37).
+
+Le Dieu de la Bible, qui est amour, est souvent décrit comme ayant le cœur brisé et peiné par l’amour rejeté et l’amour perdu. Tout le récit de l’Écriture parle de ce que Dieu a fait et fait encore pour restaurer l’amour dans le moindre recoin de l’univers. Tout cela, et plus encore, constitue le thème des leçons de ce trimestre.
+
+_John C. Peckman est directeur adjoint du magazine Adventist Review. Au moment où ce guide a été écrit, il était professeur de théologie et de philosophie chrétienne au Séminaire théologique adventiste de l’Université Andrews._
