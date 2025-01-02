@@ -1,0 +1,56 @@
+---
+title:  Komen Guru
+date:  28/03/2025
+---
+
+#### Bahagian I: Pandangan Keseluruhan
+
+**Ayat-ayat Utama**: Roma 13:8
+
+Tumpuan Kajian: Keluaran 20:2, Roma 13:8-10.
+
+Pengenalan : Sepuluh Perintah TUHAN adalah ungkapan hubungan peribadi dan perjanjian Tuhan dengan umat-Nya.
+
+Tema Pelajaran: Pelajaran minggu ini menekankan tiga perkara utama.
+
+1. Undang-undang Tuhan merujuk kepada hubungan, bukannya prinsip abstrak: Undang-undang Tuhan bukanlah satu set prinsip abstrak tetapi ungkapan hubungan. Penerangan mengenai Sepuluh Perintah menyiratkan hubungan perjanjian antara Tuhan dan umat-Nya. Dialog Tuhan dengan Musa menggariskan bahasa perhubungan ini, di mana Tuhan digambarkan sebagai burung helang, membawa umat-Nya di atas sayap-Nya dalam pembebasan dari Mesir. Idea utama penggambaran ini adalah bahawa manusia telah dibawa kepada Tuhan sendiri.
+
+2. Sepuluh Perintah menerangkan ungkapan yang betul tentang kasih kita kepada Tuhan dan kepada orang lain: Sebelum senarai "tidak boleh", Sepuluh Perintah bermula dengan nota pengasih peribadi, "Akulah TUHAN, TUHANmu" (Keluaran 20:2, AVB). Senarai perintah ini adalah tindak balas kasih sayang yang bersifat relasional kepada Tuhan Israel, yang menyelamatkan mereka. Empat perintah pertama menggambarkan kasih setia yang sepatutnya ditunjukkan oleh manusia kepada Tuhan. Enam perintah terakhir menyatakan bentuk kasih sayang yang khusus kepada orang lain, yang akhirnya menunjukkan bahawa kita mengasihi Tuhan.
+
+3. Hukum Tuhan menemui penggenapannya dalam kasih: Dalam Roma dan Galatia idea penggenapan hukum berkaitan dengan melayani satu sama lain melalui kasih. Paul, dalam Galatia, menjelaskan bahawa hukum itu dipenuhi apabila kita mengasihi sesama kita . Dalam Roma, untuk mengasihi satu sama lain adalah penggenapan hukum. Enam terakhir daripada Sepuluh Perintah menjelaskan apa yang dimaksudkan dengan mengasihi sesama seperti diri sendiri.
+
+Penerapan Hidup: Bagaimanakah hubungan anda dengan Tuhan berubah apabila anda memahami bahawa Sepuluh Perintah bukan hanya satu set peraturan tetapi ungkapan kasih sayang dan tindak balas kepada hubungan peribadi dan kasih sayang Tuhan?
+
+#### Bahagian II: Ulasan
+
+1. Hukum Tuhan Merujuk kepada Hubungan Daripada Prinsip Abstrak.
+
+Idea bahawa undang-undang Tuhan terdiri daripada abstraksi dingin atau prinsip tidak peribadi adalah tidak sesuai dengan gambaran alkitabiah tentang Tuhan memberikan Dekalog kepada orang Israel di Gunung Sinai. Adalah penting untuk membaca huraian Sepuluh Perintah (Keluaran 20) sehubungan dengan perjanjian yang terbentuk, dalam Keluaran 19. Dari masa ketibaan Israel di padang gurun Sinai (Keluaran 19:1), dialog tentang Tuhan dengan Musa di Gunung Sinai menggariskan pengertian tentang hubungan perjanjian antara Tuhan dan umat Israel. Lebih khusus lagi, Musa diberitahu oleh Tuhan bahawa dia harus mengatakan kepada bani Israel perkataan berikut:  “Kamu telah melihat apa yang Aku lakukan atas warga Mesir, dan bagaimana Aku telah mengangkat kamu seperti di atas sayap burung rajawali serta membawa kamu ke hadirat-Ku. Sekarang, jika kamu sungguh-sungguh mematuhi-Ku dan taat memegang perjanjian-Ku dengan teguh, maka kamu akan menjadi harta-Ku yang istimewa antara segala bangsa, kerana seluruh bumi milik-Ku.Bagi-Ku kamu akan menjadi kerajaan para imam dan bangsa suci. Firman inilah yang harus kausampaikan kepada orang Israel.” (Keluaran 19:4-6, AVB).
+
+Bahasa perhubungan petikan ini mengagumkan. Pembebasan ilahi dari Mesir digambarkan sebagai Tuhan yang membawa atau membawa bani Israel, sebagai burung helang. Menariknya, penekanannya bukan semata-mata kepada orang yang meninggalkan Mesir atau pergi ke Tanah Perjanjian. Sebaliknya, perkara utama adalah bahawa orang-orang telah dibawa kepada Tuhan sendiri.
+
+Dalam konteks ini, umat Israel dijemput untuk memelihara perjanjian Tuhan dalam pengertian peribadi mendengar suara Tuhan. Walaupun banyak terjemahan Alkitab menerjemahkan kata kerja Ibrani sm’ dari segi mematuhi suara Tuhan (lihat NKJV, ESV, NASB, NRSV, NIV), kata kerja dalam bahasa Ibrani menggambarkan secara lebih literal tindakan mendengar atau mendengar suara-Nya (lihat NET, HCSB) (Ludwig Koehler et al., The Hebrew and Aramaic Lexicon of the Old Testament [Leiden: Brill, 1994–2000], ms. 1571). Jika mereka memutuskan untuk mendengar suara Tuhan, anak-anak Israel akan menjadi "milik" Tuhan sendiri (Keluaran 19:5, HCSB) atau “milik peribadi-Nya” (lihat makna kata nama "segulâ" dalam Ludwig Koehler et al., The Hebrew and Aramaic Lexicon of the Old Testament, ms. 742). Ungkapan ini juga membuktikan sifat peribadi hubungan perjanjian yang sedang dibentuk antara Tuhan dan umat-Nya, yang diformalkan oleh penjelasan Sepuluh Perintah, dalam bab 20.
+
+2. Sepuluh Perintah Menggambarkan Ungkapan Yang Betul tentang Kasih Kita kepada Tuhan dan kepada Orang Lain.
+
+Perlu diperhatikan bahawa sebelum senarai "tidak boleh" dalam Dekalog, Tuhan memperkenalkan Sepuluh Perintah, dalam Keluaran 20:2, dengan catatan peribadi (“Akulah TUHAN, [iaitu] TUHANmu”, AVB, diberikan penekanan) dan menekankan tindakan penyelamat-Nya yang penuh kasih bagi pihak Israel (pembebasan daripada perhambaan di Mesir). Dalam erti kata lain, perintah-perintah itu tidak bermula dengan dingin “tidak boleh” tetapi dengan nada kasih sayang peribadi. Lebih-lebih lagi, senarai perintah-perintah yang mengikutinya tidak boleh difahami sebagai undang-undang abstrak semata-mata tetapi sebagai respons kasih sayang relasional kepada Tuhan Israel, yang dengan kuasa dan belas kasihan menyelamatkan mereka dari Mesir.
+
+Berdasarkan nada kasih sayang peribadi dalam Keluaran 20:2, empat perintah pertama dengan jelas menggambarkan bagaimana anak-anak Israel sepatutnya menyatakan tindak balas hubungan kasih sayang mereka terhadap Tuhan peribadi mereka. Pertama, mereka tidak boleh mempunyai tuhan lain di hadapan Tuhan. Cinta kepada Tuhan dinyatakan di sini dari segi kesetiaan eksklusif. Kedua, kasih setia ini semestinya menyiratkan bahawa mereka tidak akan membuat bagi diri mereka patung (berhala) untuk disembah. Penyembahan yang benar, bukannya penyembahan berhala, adalah ungkapan cinta yang tulen kepada Tuhan. Ketiga, kasih kepada Tuhan dinyatakan dalam sebutan hormat kepada nama-Nya. Seperti yang dinyatakan oleh Kenneth Harris, untuk menggunakan nama Tuhan dengan sia-sia khususnya merujuk kepada “mengambil sumpah yang menipu dalam nama Tuhan atau menyeru nama Tuhan untuk membenarkan perbuatan di mana orang itu tidak jujur (Imamat 19:12). Ia juga melarang menggunakan nama Tuhan dalam sihir, atau secara tidak hormat, atau tidak hormat (Imamat 24:10-16).”—ESV Study Bible (Wheaton, IL: Crossway Bibles, 2008), ms. 176. Keempat, mengasihi Tuhan bermakna Sabat hari ketujuh dikuduskan sebagai peringatan yang perlu tentang ciptaan Tuhan. Walaupun kita sepatutnya mengasihi Tuhan setiap hari, hari Sabat adalah masa yang istimewa untuk menyatakan hubungan kasih sayang kita dengan-Nya.
+
+Yang pasti, empat perintah pertama menyatakan dengan lebih langsung apa yang terkandung dalam kasih kepada Tuhan, manakala enam perintah yang selebihnya menghuraikan secara khusus tentang cara mengasihi orang lain. Walau bagaimanapun, dari perspektif yang lebih luas, kerana pengenalan Tuhan sebagai Tuhan Penyelamat Israel (Keluaran 20:2) membentuk pengenalan Sepuluh Perintah, secara keseluruhan, cara khusus di mana kita sepatutnya menyatakan kasih. kepada orang lain dalam enam perintah terakhir adalah, secara tersirat, bentuk-bentuk penting untuk mengasihi Tuhan, dalam erti kata yang muktamad. Perintah kelima, misalnya, menghubungkan kasih terhadap ibu bapa, yang menonjolkan idea untuk menghormati mereka, dengan umur yang panjang di negeri yang Tuhan berikan kepada Israel. Oleh itu, janji Tuhan yang penuh kasih berkaitan secara langsung dengan cara orang Israel mengasihi/ menghormati ibu bapa mereka. Begitu juga, untuk mengasihi yang lain, dan akhirnya mengasihi Tuhan melalui cinta mendatar ini, semestinya melibatkan menghargai kehidupan (tidak membunuh), menjadi suci dari segi seksual dan menyayangi perkahwinan (tidak berzina), menghormati kepunyaan orang lain (tidak mencuri), berdiri. untuk kebenaran tentang jiran anda (tidak memberi kesaksian palsu terhadapnya), dan memupuk keinginan yang dibentuk oleh semangat redha (tidak mengingini apa yang menjadi milik jiran anda ).
+
+3. Hukum Tuhan Menemui Pemenuhannya dalam Kasih.
+
+Rasul Paulus menonjolkan idea tentang penggenapan hukum dalam Roma dan Galatia. Selepas menasihati jemaat Galatia untuk melayani satu sama lain melalui kasih, dia menjelaskan bahawa “semua hukum telah digenapi dalam satu perkataan, iaitu: “Kasihilah sesama manusia sebagaimana kamu mengasihi dirimu sendiri.” (Galatia 5:14, AVB). Begitu juga, dalam Roma 8:4, Paulus bercakap tentang “menunaikan kehendak-kehendak hukum dalam diri kita “ (AVB) melalui Kristus dan Roh Kudus. Dalam Roma 13:8-10, dia menyebut dua kali bahawa kasih itu memenuhi hukum Tuhan: “Jangan berasa terhutang apa-apa kepada sesiapa pun kecuali kasih-mengasihi, kerana seseorang yang mengasihi sesama manusia telah memenuhi hukum; kerana perintah-perintah, “Jangan berzina”, “Jangan membunuh”, “Jangan mencuri”, “Jangan ingini milik orang lain” dan perintah-perintah yang lain adalah terangkum dalam perintah ini, “Kasihilah sesama manusia sebagaimana kamu mengasihi dirimu sendiri. Kasih tidak berbuat jahat kepada sesama manusia. Oleh itu, kasih memenuhi hukum.” (AVB; penekanan diberikan).
+
+Bergerak daripada perbincangan mengenai tugas Kristian di hadapan pihak berkuasa awam (Roma 13:1-7), yang termasuk membayar cukai (Roma 13:6, 7), kepada kewajipan kasih Kristian, Paulus menggunakan bahasa hutang kewangan dalam kedua-dua perbincangan. Berkenaan dengan kewajipan Kristian untuk mengasihi, “Orang Kristian hendaklah tidak membenarkan hutang yang tertunggak kecuali hutang yang tidak dapat dilunaskan — ‘hutang untuk mengasihi satu sama lain.’ Kewajipan untuk mengasihi tiada had.”—Robert Mounce, Romans: The New American Commentary (Nashville, TN: Broadman & Holman Publishers, 1995), ms. 245. Sama seperti hutang kewangan membayangkan kewajipan kepada orang atau institusi lain, undang-undang mengenakan kewajipan ke atas kita kepada orang lain. Dalam konteks hukum Tuhan—dengan rujukan khusus kepada lima perintah terakhir, berkenaan hubungan kita dengan jiran kita, yang melampaui kewajipan kita terhadap keluarga kita sendiri—intipati kewajipan atau hutang kita yang berterusan ialah kasih sayang.
+
+#### Bahagian III: Penerapan Hidup
+
+Bincangkan soalan berikut di dalam kelas:
+
+1.	Bagaimanakah anda boleh bertindak balas kepada seseorang yang mempersoalkan hukum Tuhan, menganggapnya hanya sekumpulan peraturan?
+
+2.	Bagaimanakah pengalaman Sabat anda boleh menjadi lebih bermakna, peringatan bahawa hukum Tuhan menjemput kita kepada tindak balas kasih sayang yang berkaitan?
+
+3.	Bagaimanakah anda boleh menunjukkan kasih Tuhan dengan cara yang praktikal kepada orang yang anda temui setiap hari, termasuk orang yang tidak dikenali, kawan, dan keluarga?
