@@ -20,3 +20,6 @@ Mezitím se jihokorejští adventisté starají o severokorejské zběhy. Jeden 
 Jiný přeběhlík nemohl spát, protože myslel na svou ženu a děti na Severu. Pastor Lee se s ním modlil a přeběhlík poté přiznal, že věří v Boha a že na Severu četl Bibli. Tato událost pastora znovu povzbudila v jeho odhodlání pomáhat přeběhlíkům. „Věřím, že můžeme rozšířit naši působnost na Severu tím, že začneme u lidí, se kterými se můžeme setkat dnes,“ řekl.
 
 _Modlete se za Severní Koreu. Děkujeme, že 29. března plánujete štědré dary třinácté soboty na další šíření evangelia v severní asijsko-pacifické divizi._
+
+![Čang-Seop Lee](picture01.jpg)  
+Čang-Seop Lee
