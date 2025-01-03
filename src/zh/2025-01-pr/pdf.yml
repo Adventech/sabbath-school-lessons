@@ -1,0 +1,152 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-INTRO.pdf'
+      target: zh/2025-01-pr/introduction
+      title: 简介
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L1.pdf'
+      target: zh/2025-01-pr/01
+      title: 第一座摩天大楼
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L2.pdf'
+      target: zh/2025-01-pr/02
+      title: 漫漫长途
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L3.pdf'
+      target: zh/2025-01-pr/03
+      title: 紧急救援行动
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L4.pdf'
+      target: zh/2025-01-pr/04
+      title: 天堂来的访客
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L5.pdf'
+      target: zh/2025-01-pr/05
+      title: 撒母耳传达上帝的话语
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L6.pdf'
+      target: zh/2025-01-pr/06
+      title: 上帝必定得胜！
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L7.pdf'
+      target: zh/2025-01-pr/07
+      title: 狮子与熊
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L8.pdf'
+      target: zh/2025-01-pr/08
+      title: 上帝再次得胜！
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L9.pdf'
+      target: zh/2025-01-pr/09
+      title: 磐石与沙土
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L10.pdf'
+      target: zh/2025-01-pr/10
+      title: 死或生？
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L11.pdf'
+      target: zh/2025-01-pr/11
+      title: 其他九个人在哪里？
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L12.pdf'
+      target: zh/20255-01-pr/12
+      title: 耀眼的光芒
+      start_date: 15/12/2025
+      end_date: 21/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-L13.pdf'
+      target: zh/2025-01-pr/13
+      title: 和撒那！
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q1/Primary/P-B-Q1-CH-ACTIVITY.pdf'
+      target: zh/2025-01-pr/activities
+      title: 活动
+      start_date: 28/03/2025
+      end_date: 28/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-INTRO.pdf'
+      target: zh/2025-01-pr/introduction
+      title: 教師本
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH1.pdf'
+      target: zh/2025-01-pr/01
+      title: 教師本
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH2.pdf'
+      target: zh/2025-01-pr/02
+      title: 教師本
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH3.pdf'
+      target: zh/2025-01-pr/03
+      title: 教師本
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH4.pdf'
+      target: zh/2025-01-pr/04
+      title: 教師本
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH5.pdf'
+      target: zh/2025-01-pr/05
+      title: 教師本
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH6.pdf'
+      target: zh/2025-01-pr/06
+      title: 教師本
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH7.pdf'
+      target: zh/2025-01-pr/07
+      title: 教師本
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH8.pdf'
+      target: zh/2025-01-pr/08
+      title: 教師本
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH9.pdf'
+      target: zh/2025-01-pr/09
+      title: 教師本
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH10.pdf'
+      target: zh/2025-01-pr/10
+      title: 教師本
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH11.pdf'
+      target: zh/2025-01-pr/11
+      title: 教師本
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH12.pdf'
+      target: zh/20255-01-pr/12
+      title: 教師本
+      start_date: 15/12/2025
+      end_date: 21/12/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-CH13.pdf'
+      target: zh/2025-01-pr/13
+      title: 教師本
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E9%AB%98%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/P-B-Q1-T-ACTIVITY.pdf'
+      target: zh/2025-01-pr/activities
+      title: 教師本
+      start_date: 28/03/2025
+      end_date: 28/03/2025

@@ -11,16 +11,16 @@ date:   04/10/2024
 
 **Einleitung Johannesevangelium**
 
--   -   Wir besitzen vier Evangelien. Inwiefern ist das
-        Johannesevangelium anders als die drei ersten Evangelien?
-    -   Was sind für euch Highlights im Johannesevangelium?
-    -   Was gefällt euch besonders?
+-   Wir besitzen vier Evangelien. Inwiefern ist das Johannesevangelium
+    anders als die drei ersten Evangelien?
+-   Was sind für euch Highlights im Johannesevangelium?
+-   Was gefällt euch besonders?
 
 **Wunder und Glaube**
 
--   -   Wie hängen Wunder und Glaube zusammen?
-    -   Warum will Gott eigentlich nicht, dass wir allein aufgrund eines
-        Wunders glauben?
+-   Wie hängen Wunder und Glaube zusammen?
+-   Warum will Gott eigentlich nicht, dass wir allein aufgrund eines
+    Wunders glauben?
 
 **Johannes 2,1-11**
 
@@ -30,7 +30,7 @@ date:   04/10/2024
         haltbar machen, Ellen White)
 -   Fragen zur Botschaft:
     -   Was spricht dafür, dass die Jünger zu diesem Zeitpunkt schon
-        \"gläubig\" waren?
+        "gläubig" waren?
     -   Welche Rolle spielte das Wunder für den Glauben der Jünger?
 
 **Johannes 4,46-54**
@@ -42,7 +42,7 @@ date:   04/10/2024
 -   Fragen zur Botschaft:
     -   Kann man stellvertretend für andere glauben? (Vater für den
         Sohn) Diskutiert diese Frage.
-    -   War der Beamte \"ungläubig\", als er zu Jesus kam? (EGW sagt, er
+    -   War der Beamte "ungläubig", als er zu Jesus kam? (EGW sagt, er
         hatte gewisses Maß an Glauben)
     -   Was hat das Wunder mit seinem Glauben gemacht?
     -   Welche Hinweise haben wir, dass auch Satan Wunder tun kann?
@@ -54,7 +54,7 @@ date:   04/10/2024
 -   Fragen zum Text:
     -   Warum heilt Jesus ausgerechnet diesen Kranken? (EGW: er war am
         ärgsten betroffen)
-    -   Wie sollen wir uns sein \"Bett\" vorstellen? (SCHL: Liegematte)
+    -   Wie sollen wir uns sein "Bett" vorstellen? (SCHL: Liegematte)
     -   Wie zeigt dieser Mann, dass er Jesus vertraut?
 -   Fragen zur Botschaft:
     -   Wie viel Glauben hatte dieser Mann?
@@ -69,9 +69,9 @@ date:   04/10/2024
     -   Sie sahen doch das offensichtliche Wunder - Warum glaubten sie
         trotzdem nicht?
 -   Fragen zur Botschaft:
-    -   Wo könnte es aber
-        auch uns als \"gute Adventisten\" passieren, dass wir die
-        Wahrheit nicht erkennen?
+    -   In welchen Situationen könnten auch wir als Adventisten Gefahr
+        laufen, die Wahrheit nicht zu erkennen, obwohl wir uns um ein
+        rechtschaffenes Leben bemühen?
 
 **Johannes 5,17-20**
 
@@ -86,6 +86,7 @@ date:   04/10/2024
 -   Fragen zur Botschaft:
     -   Wie können wir Leuten heute helfen, zum Glauben zu finden?
     -   Was wäre in unserem Leben so ein Auslöser, der unseren Glauben
-        stärken könnte
+        stärken könnte?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at

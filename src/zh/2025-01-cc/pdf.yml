@@ -1,0 +1,132 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-01.pdf'
+      target: zh/2025-01-cc/01
+      title: 活的信息
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-02.pdf'
+      target: zh/2025-01-cc/02
+      title: 救主降生
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-03.pdf'
+      target: zh/2025-01-cc/03
+      title: 主的仆人(使女)
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-04.pdf'
+      target: zh/2025-01-cc/04
+      title: 寻找的，就必寻见
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-05.pdf'
+      target: zh/2025-01-cc/05
+      title: 跟随那颗星
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-06.pdf'
+      target: zh/2025-01-cc/06
+      title: 逐渐成长
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-07.pdf'
+      target: zh/2025-01-cc/07
+      title: 独一无二
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-08.pdf'
+      target: zh/2025-01-cc/08
+      title: 艰难的目标
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-09.pdf'
+      target: zh/2025-01-cc/09
+      title: 你来看！
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-10.pdf'
+      target: zh/2025-01-cc/10
+      title: 与耶稣欢聚
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-11.pdf'
+      target: zh/2025-01-cc/11
+      title: 离开我家！
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-12.pdf'
+      target: zh/2025-01-cc/12
+      title: 重生
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-13.pdf'
+      target: zh/2025-01-cc/13
+      title: 他必兴旺，我比衰微
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-01.pdf'
+      target: zh/2025-01-cc/01
+      title: 教师本
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-02.pdf'
+      target: zh/2025-01-cc/02
+      title: 教师本
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-03.pdf'
+      target: zh/2025-01-cc/03
+      title: 教师本
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-04.pdf'
+      target: zh/2025-01-cc/04
+      title: 教师本
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-05.pdf'
+      target: zh/2025-01-cc/05
+      title: 教师本
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-06.pdf'
+      target: zh/2025-01-cc/06
+      title: 教师本
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-07.pdf'
+      target: zh/2025-01-cc/07
+      title: 教师本
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-08.pdf'
+      target: zh/2025-01-cc/08
+      title: 教师本
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-09.pdf'
+      target: zh/2025-01-cc/09
+      title: 教师本
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-10.pdf'
+      target: zh/2025-01-cc/10
+      title: 教师本
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-11.pdf'
+      target: zh/2025-01-cc/11
+      title: 教师本
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-12.pdf'
+      target: zh/2025-01-cc/12
+      title: 教师本
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-CC-TE-13.pdf'
+      target: zh/2025-01-cc/13
+      title: 教师本
+      start_date: 22/03/2025
+      end_date: 28/03/2025
