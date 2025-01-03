@@ -1,5 +1,5 @@
 ---
-title:  Ka Jingiathuhkhanna kaba Jia shisha
+title:  Ka Jingiathuhkhanna Ka Jia Shisha
 date:   10/01/2025
 ---
 
