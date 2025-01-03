@@ -20,3 +20,6 @@ Dovtedy sa veriaci z Južnej Kórey starajú aspoň o utečencov, ktorým sa pod
 Iný utečenec zasa nemohol spávať, pretože stále myslel na svoju manželku a deti, ktoré ostali na severe. Kazateľ Lee sa s ním modlil a utečenec priznal, že verí v Boha a ešte keď býval na severe, tak čítal Bibliu. Tieto skutočnosti upevnili kazateľove rozhodnutie pomáhať utečencom zo severu. „Verím, že môžeme rozšíriť náš vplyv smerom na sever práve tým, že začneme slúžiť tým, ktorých stretávame už dnes,“ povedal kazateľ Lee.
 
 _Modlite sa za Severnú Kóreu. Ďakujeme za vaše štedré dary trinástej soboty na konci marca, ktoré pomôžu šíriť evanjelium v rámci Severnej ázijsko-pacifickej divízie._
+
+![Čang-Seop Lee](picture01.jpg)  
+Čang-Seop Lee
