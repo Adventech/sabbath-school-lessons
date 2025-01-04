@@ -29,9 +29,3 @@
   bg:
     name: "Beginner"
     order: 900
-  "aij-bg":
-    name: "Alive in Jesus. Beginner"
-    order: 900
-  "aij-bb":
-    name: "Alive in Jesus. Babies"
-    order: 1000
