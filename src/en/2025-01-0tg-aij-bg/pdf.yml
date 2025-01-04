@@ -1,41 +1,41 @@
 pdf:
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-000.pdf
-    target: en/2025-01-0tg-aij-bg/000-beginner-child
+    target: en/2025-01-0tg-aij-bg/beginner-child
     title: "The Beginner Child"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-001.pdf
-    target: en/2025-01-0tg-aij-bg/001-tips
+    target: en/2025-01-0tg-aij-bg/tips
     title: "Tips for the Beginner Sabbath School Teacher"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-002.pdf
-    target: en/2025-01-0tg-aij-bg/002-beginner-overview
+    target: en/2025-01-0tg-aij-bg/beginner-overview
     title: "Beginner Sabbath School Overview"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-003.pdf
-    target: en/2025-01-0tg-aij-bg/003-quiet
+    target: en/2025-01-0tg-aij-bg/quiet
     title: "A Quiet Moment..."
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-004.pdf
-    target: en/2025-01-0tg-aij-bg/004-at-a-glance
+    target: en/2025-01-0tg-aij-bg/at-a-glance
     title: "At a Glance"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-005.pdf
-    target: en/2025-01-0tg-aij-bg/005-simple
+    target: en/2025-01-0tg-aij-bg/simple
     title: "Simple Program Outline"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-006.pdf
-    target: en/2025-01-0tg-aij-bg/006-printed-resources
+    target: en/2025-01-0tg-aij-bg/printed-resources
     title: "Printed Resources"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007.pdf
-    target: en/2025-01-0tg-aij-bg/007-crafts
+    target: en/2025-01-0tg-aij-bg/crafts
     title: "Crafts"
     start_date: 28/12/2024
     end_date: 28/12/2024
