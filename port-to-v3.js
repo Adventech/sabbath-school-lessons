@@ -812,6 +812,10 @@ let processPortOfChangedFiles = async function () {
                     continue
                 }
 
+                if (/aij(bg|bb)/.test(changedFile)) {
+                    continue
+                }
+
                 if (!fs.pathExistsSync(changedFile)) {
                     continue
                 }

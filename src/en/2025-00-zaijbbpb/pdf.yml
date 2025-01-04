@@ -1,71 +1,71 @@
 pdf:
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-00.pdf
-    target: en/2025-00-6-aij-bb-pb/section-01
+    target: en/2025-00-zaijbbpb/introduction
     title: "Introduction"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-01.pdf
-    target: en/2025-00-6-aij-bb-pb/section-02
+    target: en/2025-00-zaijbbpb/growing-with-jesus-resources
     title: "Growing with Jesus Resources"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-02.pdf
-    target: en/2025-00-6-aij-bb-pb/section-03
+    target: en/2025-00-zaijbbpb/your-baby
     title: "Your Baby"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-03.pdf
-    target: en/2025-00-6-aij-bb-pb/section-04
+    target: en/2025-00-zaijbbpb/how-to-use-this-parent-book
     title: "How to Use This Parent Book"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-04.pdf
-    target: en/2025-00-6-aij-bb-pb/section-05
+    target: en/2025-00-zaijbbpb/the-foundation-for-spiritual-growth
     title: "The Foundation for Spiritual Growth"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-05.pdf
-    target: en/2025-00-6-aij-bb-pb/section-06
+    target: en/2025-00-zaijbbpb/your-own-spiritual-needs
     title: "Your Own Spiritual Needs"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-06.pdf
-    target: en/2025-00-6-aij-bb-pb/section-07
+    target: en/2025-00-zaijbbpb/spiritual-habits-for-the-family
     title: "Spiritual Habits for the Family"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-07.pdf
-    target: en/2025-00-6-aij-bb-pb/section-08
+    target: en/2025-00-zaijbbpb/growing-with-jesus-in-each-stage
     title: "Growing With Jesus in Each Stage"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-08.pdf
-    target: en/2025-00-6-aij-bb-pb/section-09
+    target: en/2025-00-zaijbbpb/other-tools-for-your-babys-spiritual-growth
     title: "Other Tools for Your Baby’s Spiritual Growth"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-09.pdf
-    target: en/2025-00-6-aij-bb-pb/section-10
+    target: en/2025-00-zaijbbpb/the-sabbath-school-curriculum-at-home
     title: "The Sabbath School Curriculum at Home"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-10.pdf
-    target: en/2025-00-6-aij-bb-pb/section-11
+    target: en/2025-00-zaijbbpb/the-sabbath-school-lessons
     title: "The Sabbath School Lessons"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-11.pdf
-    target: en/2025-00-6-aij-bb-pb/section-12
+    target: en/2025-00-zaijbbpb/final-thoughts
     title: "Final Thoughts"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-12.pdf
-    target: en/2025-00-6-aij-bb-pb/section-13
+    target: en/2025-00-zaijbbpb/references-and-resources
     title: "References and Resources"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-13.pdf
-    target: en/2025-00-6-aij-bb-pb/section-14
+    target: en/2025-00-zaijbbpb/music-credits
     title: "Music Credits"
     start_date: 01/01/2025
     end_date: 31/12/2025
