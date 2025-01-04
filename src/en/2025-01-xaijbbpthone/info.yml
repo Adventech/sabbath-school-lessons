@@ -4,8 +4,8 @@
   human_date: "January · February · March"
   start_date: "28/12/2024"
   end_date: "28/03/2025"
-  color_primary: "#E8E9E0"
-  color_primary_dark: "#AF7852"
+  color_primary: "#805A43"
+  color_primary_dark: "#68391E"
   credits:
     - name: Principal Contributor
       value: Lanelle Cobbin
