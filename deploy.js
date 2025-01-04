@@ -842,17 +842,17 @@ let dayAPI = async function () {
 };
 
 ((async function () {
-  // processCoverImages();
-  // processMiscImages();
-  // processFeaturesImages();
-  // processAssetImages();
+  processCoverImages();
+  processMiscImages();
+  processFeaturesImages();
+  processAssetImages();
 
   try {
-    // await dayAPI();
-    // await lessonAPI();
-    // await quarterlyAPI();
+    await dayAPI();
+    await lessonAPI();
+    await quarterlyAPI();
     await quarterliesAPI();
-    // await languagesAPI();
+    await languagesAPI();
   } catch (e) {
     console.error(e)
   }
