@@ -1,0 +1,30 @@
+---
+  title: "Parent Book"
+  description: "A Guide for Parents of Babies 0–12 Months at Home and in Sabbath School"
+  human_date: "Baby Steps. Growing with Jesus"
+  start_date: "01/01/2025"
+  end_date: "31/12/2025"
+  color_primary: "#E8E9E0"
+  color_primary_dark: "#AF7852"
+  credits:
+    - name: Contributors
+      value: Raquel de Korniejzuk, Nilde Itin, and Nina Atcheson
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard and Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Frank M. Hasel
+    - name: Creative Direction
+      value: Nina Atcheson and Rosanne Peach
+    - name: Designer
+      value: Jordan Bariesheff
+    - name: Illustrator
+      value: Jayde Bray
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Babies"
+    "order": 870
