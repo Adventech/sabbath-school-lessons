@@ -582,6 +582,8 @@ let quarterliesAPI = async function () {
       }
     }
 
+    existingQuarterlies = existingQuarterlies.filter(item => item !== null)
+
     existingQuarterlies = existingQuarterlies.sort(function (a, b) {
       let s = a.index,
           d = b.index;
@@ -840,17 +842,17 @@ let dayAPI = async function () {
 };
 
 ((async function () {
-  processCoverImages();
-  processMiscImages();
-  processFeaturesImages();
-  processAssetImages();
+  // processCoverImages();
+  // processMiscImages();
+  // processFeaturesImages();
+  // processAssetImages();
 
   try {
-    await dayAPI();
-    await lessonAPI();
-    await quarterlyAPI();
+    // await dayAPI();
+    // await lessonAPI();
+    // await quarterlyAPI();
     await quarterliesAPI();
-    await languagesAPI();
+    // await languagesAPI();
   } catch (e) {
     console.error(e)
   }
