@@ -1,11 +1,11 @@
 pdf:
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-EN-BG-Intro.pdf
-    target: en/2025-01-sg-aij-bg/00-introduction
+    target: en/2025-01-sg-aij-bg/introduction
     title: "Introduction"
     start_date: 28/12/2024
     end_date: 28/12/2024
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-EN-BG-LittleDevotions.pdf
-    target: en/2025-01-sg-aij-bg/00-little-devotions
+    target: en/2025-01-sg-aij-bg/little-devotions
     title: "Little Devotions"
     start_date: 28/12/2024
     end_date: 28/12/2024
