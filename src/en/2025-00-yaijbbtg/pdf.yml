@@ -1,86 +1,86 @@
 pdf:
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-01.pdf
-    target: en/2025-00-5-aij-bb-tg/section-01
+    target: en/2025-00-5-aij-bb-tg/01
     title: "Introduction"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-02.pdf
-    target: en/2025-00-5-aij-bb-tg/section-02
+    target: en/2025-00-5-aij-bb-tg/02
     title: "Curriculum Resources"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-03.pdf
-    target: en/2025-00-5-aij-bb-tg/section-03
+    target: en/2025-00-5-aij-bb-tg/03
     title: "The Potential"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-04.pdf
-    target: en/2025-00-5-aij-bb-tg/section-04
+    target: en/2025-00-5-aij-bb-tg/04
     title: "The Purpose"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-05.pdf
-    target: en/2025-00-5-aij-bb-tg/section-05
+    target: en/2025-00-5-aij-bb-tg/05
     title: "Baby Time (Sabbath School)"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-06.pdf
-    target: en/2025-00-5-aij-bb-tg/section-06
+    target: en/2025-00-5-aij-bb-tg/06
     title: "Parent Time (Sabbath School)"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-07.pdf
-    target: en/2025-00-5-aij-bb-tg/section-07
+    target: en/2025-00-5-aij-bb-tg/07
     title: "Home Time"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-08.pdf
-    target: en/2025-00-5-aij-bb-tg/section-08
+    target: en/2025-00-5-aij-bb-tg/08
     title: "Classroom Preparation"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-09.pdf
-    target: en/2025-00-5-aij-bb-tg/section-09
+    target: en/2025-00-5-aij-bb-tg/09
     title: "Teacher’s Preparation"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-10.pdf
-    target: en/2025-00-5-aij-bb-tg/section-10
+    target: en/2025-00-5-aij-bb-tg/10
     title: "Scope and Sequence"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-11.pdf
-    target: en/2025-00-5-aij-bb-tg/section-11
+    target: en/2025-00-5-aij-bb-tg/11
     title: "List of Suggested Materials"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-12.pdf
-    target: en/2025-00-5-aij-bb-tg/section-12
+    target: en/2025-00-5-aij-bb-tg/12
     title: "Lesson 1: Creation"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
-    target: en/2025-00-5-aij-bb-tg/section-13
+    target: en/2025-00-5-aij-bb-tg/13
     title: "Lesson 2: The Good Shepherd"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-14.pdf
-    target: en/2025-00-5-aij-bb-tg/section-14
+    target: en/2025-00-5-aij-bb-tg/14
     title: "Lesson 3: Noah"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-15.pdf
-    target: en/2025-00-5-aij-bb-tg/section-15
+    target: en/2025-00-5-aij-bb-tg/15
     title: "Lesson 4: Baby Jesus"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-16.pdf
-    target: en/2025-00-5-aij-bb-tg/section-16
+    target: en/2025-00-5-aij-bb-tg/16
     title: "References and Resources"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-17.pdf
-    target: en/2025-00-5-aij-bb-tg/section-17
+    target: en/2025-00-5-aij-bb-tg/17
     title: "Music Credits"
     start_date: 01/01/2025
     end_date: 31/12/2025
