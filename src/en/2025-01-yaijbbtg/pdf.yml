@@ -1,86 +1,86 @@
 pdf:
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-01.pdf
-    target: en/2025-00-yaijbbtg/01
+    target: en/2025-01-yaijbbtg/01
     title: "Introduction"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-02.pdf
-    target: en/2025-00-yaijbbtg/02
+    target: en/2025-01-yaijbbtg/02
     title: "Curriculum Resources"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-03.pdf
-    target: en/2025-00-yaijbbtg/03
+    target: en/2025-01-yaijbbtg/03
     title: "The Potential"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-04.pdf
-    target: en/2025-00-yaijbbtg/04
+    target: en/2025-01-yaijbbtg/04
     title: "The Purpose"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-05.pdf
-    target: en/2025-00-yaijbbtg/05
+    target: en/2025-01-yaijbbtg/05
     title: "Baby Time (Sabbath School)"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-06.pdf
-    target: en/2025-00-yaijbbtg/06
+    target: en/2025-01-yaijbbtg/06
     title: "Parent Time (Sabbath School)"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-07.pdf
-    target: en/2025-00-yaijbbtg/07
+    target: en/2025-01-yaijbbtg/07
     title: "Home Time"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-08.pdf
-    target: en/2025-00-yaijbbtg/08
+    target: en/2025-01-yaijbbtg/08
     title: "Classroom Preparation"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-09.pdf
-    target: en/2025-00-yaijbbtg/09
+    target: en/2025-01-yaijbbtg/09
     title: "Teacher’s Preparation"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-10.pdf
-    target: en/2025-00-yaijbbtg/10
+    target: en/2025-01-yaijbbtg/10
     title: "Scope and Sequence"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-11.pdf
-    target: en/2025-00-yaijbbtg/11
+    target: en/2025-01-yaijbbtg/11
     title: "List of Suggested Materials"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-12.pdf
-    target: en/2025-00-yaijbbtg/12
+    target: en/2025-01-yaijbbtg/12
     title: "Lesson 1: Creation"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-13.pdf
-    target: en/2025-00-yaijbbtg/13
+    target: en/2025-01-yaijbbtg/13
     title: "Lesson 2: The Good Shepherd"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-14.pdf
-    target: en/2025-00-yaijbbtg/14
+    target: en/2025-01-yaijbbtg/14
     title: "Lesson 3: Noah"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-15.pdf
-    target: en/2025-00-yaijbbtg/15
+    target: en/2025-01-yaijbbtg/15
     title: "Lesson 4: Baby Jesus"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-16.pdf
-    target: en/2025-00-yaijbbtg/16
+    target: en/2025-01-yaijbbtg/16
     title: "References and Resources"
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-TG-17.pdf
-    target: en/2025-00-yaijbbtg/17
+    target: en/2025-01-yaijbbtg/17
     title: "Music Credits"
     start_date: 01/01/2025
     end_date: 31/12/2025
