@@ -804,6 +804,14 @@ let processPortOfChangedFiles = async function () {
                     continue
                 }
 
+                if (/\d-aij-(bg|bb)/.test(changedFile)) {
+                    continue
+                }
+
+                if (/\d-0?(sg|tg)-aij-(bg|bb)/.test(changedFile)) {
+                    continue
+                }
+
                 if (!fs.pathExistsSync(changedFile)) {
                     continue
                 }
