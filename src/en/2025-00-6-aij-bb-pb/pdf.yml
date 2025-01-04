@@ -65,7 +65,7 @@ pdf:
     start_date: 01/01/2025
     end_date: 31/12/2025
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-00-EN-BB-PB-13.pdf
-    target: en/2025-00-6-aij-bb-pb/section-13
+    target: en/2025-00-6-aij-bb-pb/section-14
     title: "Music Credits"
     start_date: 01/01/2025
     end_date: 31/12/2025
