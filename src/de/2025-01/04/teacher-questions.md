@@ -11,11 +11,14 @@ date:   24/01/2025
 
 ### STARTFRAGEN
 
--   -   Was ist, nach Deiner Sicht, das hervorragendste Merkmal Gottes?
+-   Was ist, nach Deiner Sicht, das hervorragendste Merkmal Gottes?
+-   Wenn du an seine Liebe denkst, welche biblischen
+    Ereignisse/Geschichten überzeugen dich am stärksten von seinem
+    Mitgefühl und seiner Barmherzigkeit?
 
 ### SONNTAG – Mehr als Mutterliebe
 
-**Ps 103;13 & Jes 49;15 & Jer 31;20**
+**Ps 103,13; Jes 49,15; Jer 31,20**
 
 -   Nenne Beispiele wie Du Liebe von Deinen Eltern erlebt hast.
     -   Wie geht es Eltern, wenn ihre Kinder Probleme bzw. Leid erleben?
@@ -30,25 +33,24 @@ date:   24/01/2025
 
 ### MONTAG – Herzzerreißende Liebe
 
-**Hos 11;1-9**
+**Hos 11,1-9**
 
 -   Fragen zum Text:
     -   Wie geht es Gott hier mit dem Volk Israel?
     -   Welche Wirkung hatten die (falschen) Entscheidungen seines
         Volkes und folgende Probleme auf Gott?
-    -   Können zu viele Zuwendungen/Geschenke jemanden auch Schaden
-        antun?
+    -   Können zu viele Zuwendungen/Geschenke jemandem auch schaden?
 -   Fragen zur Botschaft:
-    -   Wie kann Gott sein Volk warnen bzw bewahren? Welche Grenzen hat
+    -   Wie kann Gott sein Volk warnen bzw. bewahren? Welche Grenzen hat
         er da selbst?
-    -   Wie kann man jemand auf Augenhöhe warnen? Welche Rolle spielt
+    -   Wie kann man jemanden auf Augenhöhe warnen? Welche Rolle spielt
         dabei Entscheidungsfreiheit?
     -   Wie fühlt/reagiert man nach einer Enttäuschung? Wie reagiert
         Gott da?
 
 ### DIENSTAG – Jesu Mitgefühl
 
-**Mt 9;36 14;14 Mk 1;41 6;34 Lk 7;13**
+**Mt 9,36; 14,14; Mk 1,41; 6,34; Lk 7,13**
 
 -   Fragen zum Text:
     -   Welche Gefühle hat Gott, nach diesen Texten, für diese Menschen?
@@ -63,7 +65,7 @@ date:   24/01/2025
 
 ### MITTWOCH – Ein eifersüchtiger Gott?
 
-**1Kor 13;4 & 2Kor 11,2**
+**1Kor 13,4; 2Kor 11,2**
 
 -   Zitat: Eifersucht ist eine Leidenschaft – die mit Eifer sucht was
     Leiden schafft! (Franz Grillparzer)
@@ -78,7 +80,7 @@ date:   24/01/2025
 
 ### DONNERSTAG – Mitfühlend und leidenschaftlich
 
-**1Kor 13;4-8**
+**1Kor 13,4-8**
 
 -   Fragen zum Text:
     -   Was beinhaltet Liebe alles in dem Text: - Welcher Punkt spricht
