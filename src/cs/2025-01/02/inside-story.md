@@ -22,3 +22,6 @@ Dnes je Melvin Madriz 24letým studentem pastorace na Středoamerické adventist
 „Věřím v Sibú, ale pouze v Sibú z Bible, ne v Sibú z tradice,“ řekl Melvin.
 
 _Modlete se za to, aby byl Bůh Bible zvěstován Cabécarům a všem domorodým lidem na celém světě. Děkujeme vám za vaše misijní dary, které pomáhají sdílet evangelium s nedosaženými a nedostatečně oslovenými skupinami lidí._
+
+![Melvin Madriz](picture02.jpg)  
+Melvin Madriz
