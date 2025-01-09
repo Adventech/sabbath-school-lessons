@@ -19,15 +19,9 @@ Melvin sa vtedy rozhodol, že sa stane kazateľom. Už od svojho krstu cítil, �
 
 24-ročný Melvin Madriz je dnes študentom teológie na Adventistickej univerzite Strednej Ameriky v Kostarike. Po promóciách bude prvým kazateľom Cirkvi adventistov, ktorý pochádza z kmeňa Cabécar. V súčasnosti je v tomto kmeni približne 30 členov cirkvi.
 
-_„Verím v Sibú, ale len toho, ktorý je z Biblie, nie toho tradičného,“ povedal Melvin na záver._
+„Verím v Sibú, ale len toho, ktorý je z Biblie, nie toho tradičného,“ povedal Melvin na záver.
 
+_Modlite sa za to, aby mohol byť Boh Biblie hlásaný nielen v kmeni Cabécar, ale aj v ostatných domorodých kmeňoch sveta. Ďakujeme za vaše misijné dary, ktoré pomáhajú šíriť evanjelium aj tam, kde sa ešte nedostalo._
 
-
-
-
-
-
-
-
-Modlite sa za to, aby mohol byť Boh Biblie hlásaný nielen v kmeni Cabécar, ale aj v ostatných domorodých kmeňoch sveta. Ďakujeme za vaše misijné dary, ktoré pomáhajú šíriť evanjelium aj tam, kde sa ešte nedostalo.
-
+![Melvin Madriz](picture02.jpg)  
+Melvin Madriz
