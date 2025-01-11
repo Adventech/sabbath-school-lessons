@@ -26,7 +26,7 @@ date:   10/01/2025
 
 **Bundesliebe – Lest 5. Mose 7,6-9**
 
--   Was sagt der Text über die Verbindnung zwischen Gottes Liebe, seinem
+-   Was sagt der Text über die Verbindung zwischen Gottes Liebe, seinem
     Bund und den Geboten?
 -   Warum wählte Gott ein kleines, schwaches Volk als sein Bundesvolk?
     Was sagt das über seinen Charakter und seine Liebe?
