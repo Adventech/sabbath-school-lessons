@@ -335,6 +335,10 @@ var BIBLE_PARSER_CONFIG = {
     "irv"
   ],
 
+  "ti": [
+    "tig15"
+  ],
+
   "th": [
     "th-1971"
   ],
