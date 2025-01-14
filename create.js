@@ -15,7 +15,8 @@ var argv = require("optimist")
     "i": "Inside story",
     "m": "Create TMI (Total Member Involvement) News/Tips placeholder lessons",
     "k": "Create lesson cover placeholder images",
-    "f": "Format. Default is md."
+    "f": "Format. Default is md.",
+    "o": "Outlines",
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
   .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false, "f": "md" })
@@ -109,6 +110,7 @@ var LOCALE_VARS = {
     "sw": "Somo",
     "te": "పాఠం",
     "ta": "பாடம்",
+    "ti": "ትምህቲ",
     "th": "บทเรียน",
     "tl": "Leksiyon",
     "tr": "Ders",
@@ -198,6 +200,7 @@ var LOCALE_VARS = {
     "sw": "### Tunafanya kazi kwenye somo hili.\nTafadhali   rudi baadaye.",
     "ta": "### நாங்கள் இந்த பாடம் படித்து வருகிறோம்.\nதயவு செய்து மீண்டும் வாருங்கள்.",
     "te": "### మేము ఈ పాఠంపై పని చేస్తున్నాము.\nదయచేసి తర్వాత తిరిగి రండి.",
+    "ti": "### ነዚ ትምህርቲ ንሰርሕ ኣለና።",
     "th": "### เรากำลังดำเนินการในบทเรียนนี้\nโปรดกลับมาใหม่.",
     "tl": "### Nagsusumikap kami sa araling ito.\nSubukang muli mamaya.",
     "tr": "### Biz bu derste üzerinde çalışıyoruz.\nLütfen daha sonra gelin.",
@@ -397,7 +400,7 @@ function createLanguageFolder(quarterlyLanguage){
   console.log("Necessary " + quarterlyLanguage + " directory created");
 }
 
-function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmi, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
+function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmi, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark, outline){
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
       start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
@@ -455,6 +458,12 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
       if (quarterlyTmi){
         fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/tmi.md",
             "---\ntitle:  "+LOCALE_VARS["tmi"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+        );
+      }
+
+      if (outline){
+        fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/hope-ss.md",
+            "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
         );
       }
 
@@ -548,5 +557,5 @@ try {
     console.log("Something weird happened. Aborting");
   }
 } catch (e) {
-  createQuarterlyFolderAndContents(argv.l, argv.q, argv.c, argv.t, argv.d, argv.h, argv.u, argv.i, argv.m, argv.s, argv.k, argv.y, argv.z);
+  createQuarterlyFolderAndContents(argv.l, argv.q, argv.c, argv.t, argv.d, argv.h, argv.u, argv.i, argv.m, argv.s, argv.k, argv.y, argv.z, argv.o);
 }
