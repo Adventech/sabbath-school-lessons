@@ -22,3 +22,6 @@ Po bohoslužbe mu povedala, že by tam chcela prísť aj nabudúce. „Ak toto j
 Aj keď Nanum v kaviarni nikdy nepočula meno Ježiš, stretla sa tam s ním prostredníctvom vďačného ducha, ktorý tam vládol. Evanjelium nemusí byť hlásané len slovami, ale aj zjavované životom. Vďaka príkladu, ktorý im Jong-Moon ukázal, mladá žena so svojou dcérou začali chodiť pravidelne do zboru. Teraz sa modlí za svojho manžela, aby sa aj on pridal k nim a spolu navštevovali sobotné bohoslužby.
 
 _Časť darov trinástej soboty pomôže šíriť evanjelium v Južnej Kórei. Ďakujeme, že ich štedro podporíte._
+
+![Jong-Moon Yoon](picture03.jpg)  
+Jong-Moon Yoon
