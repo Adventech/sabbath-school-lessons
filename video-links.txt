@@ -67,3 +67,11 @@ yt-dlp "https://www.youtube.com/watch?v=BUbkGbQgJT4" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=q_VQnzskZEs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2025-01-03.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=QvEWdotmdCI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-01-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Tq4ePsNgL_4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2025-01-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=U1rKBIi1g88" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2025-01-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=CTJYU3J8XJU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2025-01-03.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=WoV5MgbF484" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2025-01-04.mp4"
