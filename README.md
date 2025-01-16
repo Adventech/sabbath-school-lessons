@@ -92,6 +92,7 @@ Below is current list of languages available in the app
 - 🇮🇳 Odia
 - 🇮🇷 Persian
 - 🇵🇱 Polish
+- 🇵🇹 Portuguese
 - 🇲🇲 Pwo Karen
 - 🇷🇴 Romanian
 - 🇷🇺 Russian
