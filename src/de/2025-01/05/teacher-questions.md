@@ -5,7 +5,7 @@ date:   31/01/2025
 
 In der Lektion dieser Woche werden **zwei wichtige Themen** beleuchtet:
 
-1\. Gottes Zorn ist seine heilige und geduldige Reaktion auf die Sünde:
+1. Gottes Zorn ist seine heilige und geduldige Reaktion auf die Sünde:
 Er ist nicht willkürlich, unkontrollierbar oder rachsüchtig. Vielmehr
 ist Gottes Zorn immer eine liebevolle, entschiedene Reaktion auf das
 Böse und die Ungerechtigkeit. Sein Zorn ist eine Reaktion auf
@@ -17,7 +17,7 @@ Kontext einer Erzählung wie in Psalm 78 verstanden. Trotz aller Zeichen
 und Wunder, die Gott vollbrachte, vergaß sein Volk ihn, wurde stur,
 rebellisch und hatte reuelose Herzen.
 
-2\. Gottes Zorn ist eine liebevolle und gerechte Empörung: In der
+2. Gottes Zorn ist eine liebevolle und gerechte Empörung: In der
 Heiligen Schrift finden wir eine lebendige Beschreibung von Gottes Zorn
 als eine liebevolle und gerechte Empörung gegen die Unterdrückung und
 das Leiden seines Volkes. Gott greift aufgrund seiner gerechten
