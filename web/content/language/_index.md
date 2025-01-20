@@ -202,4 +202,7 @@ languages:
   - native: Tedim Chin
     en: Tedim Chin
     code: ctd
+  - native: Português
+    en: Portuguese
+    code: pt
 ---
