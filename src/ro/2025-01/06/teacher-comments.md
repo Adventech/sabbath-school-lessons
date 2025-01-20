@@ -3,7 +3,9 @@ title:  Material Pentru Instructori
 date:  07/02/2025
 ---
 
-### Privire generală În întreaga Scriptură, dragostea și dreptatea lui Dumnezeu sunt intrinseci caracterului Său. Aceste atribute dezvăluie preocuparea Sa profundă pentru justiție.
+### Privire generală 
+
+În întreaga Scriptură, dragostea și dreptatea lui Dumnezeu sunt intrinseci caracterului Său. Aceste atribute dezvăluie preocuparea Sa profundă pentru justiție.
 
 ### Teme
 
