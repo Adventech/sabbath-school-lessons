@@ -40,8 +40,11 @@ Below is current list of languages available in the app
 - 🇪🇹 Amharic
 - 🇸🇦 Arabic
 - 🇦🇲 Armenian
+- 🇮🇳 Assamese
 - 🇮🇩 Batak Toba
+- 🇮🇳 Bengali
 - 🇧🇬 Bulgarian
+- 🇲🇲 Burmese
 - 🇦🇩 Catalan
 - 🇵🇭 Cebuano
 - 🇨🇳 Chinese
@@ -111,6 +114,8 @@ Below is current list of languages available in the app
 - 🇮🇳 Tamil
 - 🇲🇲 🇮🇳 Tedim Chin
 - 🇮🇳 Telugu
+- 🇪🇹 Tigrinya
+- 🇬🇭 Twi
 - 🇹🇭 Thai
 - 🇹🇷 Turkish
 - 🇺🇦 Ukrainian
