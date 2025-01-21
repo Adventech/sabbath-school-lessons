@@ -40,6 +40,7 @@ Below is current list of languages available in the app
 - 🇪🇹 Amharic
 - 🇸🇦 Arabic
 - 🇦🇲 Armenian
+- 🇧🇷 Brazilian Portuguese
 - 🇮🇩 Batak Toba
 - 🇧🇬 Bulgarian
 - 🇦🇩 Catalan
