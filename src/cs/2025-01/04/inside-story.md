@@ -24,3 +24,6 @@ Najednou tváře mužů zbledly. Otočili se a utíkali pryč.
 Joanne se rozhlédla, aby zjistila, kdo je přišel zachránit. Nikdo tam ale nebyl. V tu chvíli Joanne věděla, že muži museli vidět anděla.
 
 _Tento misijní příběh nabízí pohled do nitra americké misionářky Joanne (Park) Kim, která pomohla zahájit práci adventistů sedmého dne v postkomunistickém Mongolsku a nadále tam slouží jako misionářka. Na misijní práci se můžete podílet také prostřednictvím sbírky třinácté soboty v tomto čtvrtletí, jejíž část pomůže otevřít v mongolském Ulánbátaru rekreační centrum, kde mohou děti duchovně, duševně, společensky i fyzicky růst. Více informací o Joanne se dozvíte příští týden._
+
+![Joanne Kim](picture04.jpg)  
+Joanne Kim

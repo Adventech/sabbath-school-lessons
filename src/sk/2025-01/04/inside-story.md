@@ -3,24 +3,25 @@ title:  Misijný príbeh
 date:   24/01/2025
 ---
 
-#### Napadení opilými muži
+#### Útoky opitých mužov
 
 _Andrew McChesney_
 
-Opilý muž napadl 21letou misionářku v městském autobuse a snažil se ji obejmout a políbit. Když se bránila jeho návrhům, ostatní cestující se dívali jinam, dokud jedna starší žena něco nevykřikla na řidiče autobusu. Autobus zastavil a několik cestujících pod vedením starší ženy muže vyhodilo. Přistoupila ke vzlykající misionářce, poplácala ji po rameni a řekla něco, čemu misionářka nerozuměla.
+Opitý muž začal obťažovať 21-ročnú misionárku v autobuse verejnej dopravy. Snažil sa ju objať a pobozkať. Zatiaľ čo ostatní pasažieri pozerali iným smerom, mladá žena sa snažila brániť. Po chvíli však jedna staršia žena čosi zakričala vodičovi autobusu. Autobus zastavil a pod vedením staršej ženy ho niekoľkí cestujúci vyhodili von. Potom prišla ku vzlykajúcej misionárke, objala ju a povedala jej čosi, čomu misionárka nerozumela.
 
-Taková byla noční můra, které Joanne (Park) Kim v Mongolsku čelila téměř každý týden. Bylo to na začátku devadesátých let a ona byla svobodná Američanka, která sloužila jako jedna z prvních misionářů adventistů sedmého dne v chudém postkomunistickém Mongolsku.
+Toto bola nočná mora, ktorej musela Joanne Park Kim čeliť skoro každý týždeň počas jej pobytu v Mongolsku. Bolo to začiatkom 90-tych rokov minulého storočia. Joanne bola mladá slobodná Američanka, ktorá slúžila ako jedna z prvých misionárov Cirkvi adventistov siedmeho dňa v post-komunistickom Mongolsku.
 
-Při jiné příležitosti si opilý soused spletl Joannin byt se svým vlastním. Ocelovými botami vyrazil chatrné dřevěné dveře a začal ji bít. Joanne popadla koště a s křikem se bránila. Byla to prohraná bitva, dokud Joanne koštětem nebouchla do stropu - její spolubratři misionáři, manželský americký pár, to z bytu nad ní zaslechli a spěchali ji dolů zachránit.
+Pri inej príležitosti si zas opitý sused pomýlil jej byt so svojím. Vykopol jej chatrné drevené dvere svojimi ťažkými topánkami s oceľovou špicou a začal ju biť. Joanne schytila metlu a s krikom sa bránila. Bol to však márny boj, kým Joanne nepoužila metlu, aby zaklopala na strop, kde bývali jej ďalší kolegovia misionári z Ameriky. Manželský pár klopanie počul a rýchlo sa ponáhľali dolu zachrániť ju. 
 
-Poslední kapka pro Joanne přišla, když spolu se svou kolegyní misionářkou čekala na autobusové zastávce na předměstí Ulánbátaru, hlavního města Mongolska. Jedna matka je pozvala na první ostříhání svého dítěte, což v Mongolsku vyžaduje velkou oslavu. Joanne dostala pokyn, aby počkala na autobusové zastávce, protože v neoznačených ulicích by nikdy nedokázala najít správnou jurtu (_ger_ dům), a tak se s druhou misionářkou posadily na obrubník a čekaly, až matka dorazí.
+Poslednou kvapkou pre Joanne bolo, keď spolu s ďalším misionárom čakali na autobusovej zastávke na predmestí hlavného mesta Mongolska Ulanbátar. Jedna mama ich pozvala na oslavu prvého strihania vlasov jej dieťaťa, čo je v Mongolsku dôležitou udalosťou. Joanne dostala inštrukcie, že má počkať na autobusovej zastávke, pretože sama by na neoznačených uliciach ich domov nikdy nenašla. A tak spolu s druhou misionárkou sedeli na obrubníku a čakali, kým po nich príde táto mama.
 
-Pak si k nim přisedli čtyři opilí muži a snažili se Joanne obejmout a políbit.
+Vtom prišli štyria opití muži, sadli si vedľa nich a snažili sa Joanne objímať a bozkávať.
 
-Joanne a druhá misionářka se vzdálily, ale muži je následovali. Všichni na přeplněné autobusové zastávce se odvrátili. Muži odtáhli ženy do opuštěné uličky. Joanne křičela, kopala a bránila se, ale na čtyři muže nestačila. Pak ti muži shodili ženy na zem. Joanne si myslela, že je konec.
+Joanne spolu s kolegyňou odišli preč, ale muži šli za nimi. Ostatní ľudia, ktorí stáli na preplnenej zastávke, sa pozerali každý iným smerom. Muži zatlačili ženy do opustenej uličky. Joanne začala kričať, kopať a brániť sa, ale proti štyrom mužom nemala šancu. Muži zhodili dievčatá na zem. Joanne si myslela, že toto je koniec.
 
-Najednou tváře mužů zbledly. Otočili se a utíkali pryč.
+Zrazu muži zbledli, otočili sa a utiekli preč. Joanne sa obzerala okolo seba, aby videla, kto ich prišiel zachrániť. Nikto tam však nebol. V tom momente pochopila, že muži museli uvidieť anjela.
 
-Joanne se rozhlédla, aby zjistila, kdo je přišel zachránit. Nikdo tam ale nebyl. V tu chvíli Joanne věděla, že muži museli vidět anděla.
+_Tento misijný príbeh nám ponúka pohľad do života americkej misionárky Joanne Park Kim, ktorá stála pri zrode Cirkvi adventistov siedmeho dňa v post-komunistickom Mongolsku a potom tam pokračovala v misijnej práci. Aj vy sa môžete stať súčasťou tejto misie prostredníctvom darov trinástej soboty. Časť z nich poslúži na otvorenie komunitného centra určeného pre duchovný, mentálny, sociálny aj fyzický rast detí v Ulanbátare, hlavnom meste Mongolska. O Joanne sa dočítate viac budúci týždeň v ďalšom misijnom príbehu._
 
-_Tento misijní příběh nabízí pohled do nitra americké misionářky Joanne (Park) Kim, která pomohla zahájit práci adventistů sedmého dne v postkomunistickém Mongolsku a nadále tam slouží jako misionářka. Na misijní práci se můžete podílet také prostřednictvím sbírky třinácté soboty v tomto čtvrtletí, jejíž část pomůže otevřít v mongolském Ulánbátaru rekreační centrum, kde mohou děti duchovně, duševně, společensky i fyzicky růst. Více informací o Joanne se dozvíte příští týden._
+![Joanne Kim](picture04.jpg)  
+Joanne Kim
