@@ -1,0 +1,62 @@
+---
+title:  Komentaryo Dagiti Mannursuro
+date:   31/01/2025
+---
+
+### Paset I: Pakabuklan 
+
+**Kangrunaan a Teksto**: Salmo 78:38
+
+**Sentro ti Adal**: Salmo 78; Mat. 21:12, 13; Juan 2:14, 15.
+
+**Panangyammo**: Ti pungtot ti Dios ket maysa a panangiyebkas iti ayatna, nga isu a mangdusa iti kinadakes ken basol.
+
+**Dagiti Tema ti Liksion**: Ti adal ita a lawas ket ipaganetgetna dagiti dua a kangrunaan a ponto.
+
+1. Ti pungtot ti Dios ket isu ti nasantoan ken naanus a sungbatna iti basol: ti pungtot ti Dios ket saan a naibatay iti maysa a nainkapilitan, di matengngel, wenno managibales a tignay. No di ket, dayta ket kankanayon a maysa a naayat, natibker a sungbat a maibusor iti kinadakes ken kinakillo. Ti pungtotna ket maysa sungbat iti agtultuloy ken managribelde a basol, nga isu a mangdangran iti parsuana. Ti nadiosan a pungtot ket sabali a pannakaiyebkas ti ayatna, mabalin a tapno dusaenna dagiti dakes a tattao gapu kadagiti basbasolda wenno tapno ispalenna dagiti tattaona manipud iti panangiggem iti basol. Iti Sursurat, ti pungtot ti Dios ket kaimbagan a maawatan iti lawag iti istoriana, a kas iti Salmo 78. Iti laksid dagiti amin a tanda ken datdatlag nga inaramid ti Dios, dagiti tattao ket linipatanda Isuna, nagbalinda a nasukir ken managribelde, nga addaan kadagiti di agbabawi a puso.
+2. Ti pungtot ti Dios ket maysa a naayat ken nalinteg a panagunget: Iti Sursurat masarakantayo ti nalawag a pannakailadawan ti pungtot ti Dios, a kas naayat ken nalinteg a panagunget a maibusor iti pannakaparparigat ken panagsagsagaba dagiti tattaona. Ti Dios ket naalibtak a bumallaet a mangdusa iti dakes, agsipud iti nalinteg a panagungetna, nga isu a naguyogoy babaen ti naan-anay a kinaimbag ken ayatna. Ti pungtotna ket isu iti umiso a sungbat ti ayat a maibusor iti dakes, idinto ta ti dakes ket dangranna dagiti dongdongoenna a parsua.
+
+**Panangipakat iti Biag**: No kitaentayo ti mapagtalkan a sungbat ti Dios iti kinakillo ken dakes, kasano koma iti panagtrabahotayo tapno siaalibtak a maikkat ti kinakillo wenno mapalag-an ti panagrigrigat dagiti sabsabali?
+
+### Paset II: Komentaryo
+
+**1. Ti Pungtot ti Dios ket Isu ti Nasantoan ken Naanus a Sungbatna iti Basol.**
+
+Ti sursuro ti Biblia maipapan iti pungtot ti Dios ket kaimbagan a maawatan iti lawag ti istoria nga idiay a naibaga daytoy. Ti Salmo 78, nga isu ti maikadua a kaatiddogan ​​a Salmo iti libro ti Salmo, sumaruno iti kapitulo 119, ket ipaganetgetna dagiti masinunuo a paspasamak iti pakasaritaan ti Israel, nangnangruna ti Iruruar [Exodo] ken dagiti panagwalwalang iti let-ang. Iti daytoy naindaniwan nga istoria, ni Asaf ket pabilgenna dagiti tattao ti Dios nga agbalinda a matalek iti Apo, a maisupadi kadagiti managribelde a napalabas a kaputotan.
+
+Naiduma kadagiti adu a Salmo, ti Salmo 78 ket saan a naiturong iti Dios iti langa ti kanta/kararag, no di ket kadagiti tattao, iti langa ti kanta/bilbilin (kitaen ti paliiw iti Salmo 78 da Adele Berlin ken Marc Zvi Brettler, The Jewish Study Bible, 2nd ed. [Oxford: Oxford University Press, 2014], p. 1353). Mabalin a ti Sumasalmo ket ginandatna a tulongan dagiti tattao a manglagip kadagiti napigsa unay ken naayat nga ar-aramid ti Dios, kabayatan a kantaenda daytoy naindaniwan nga istoria, iti kasta ipatalgedna a saanda a malipatan a kas iti inaramid ti kaputotan idiay let-ang (kitaen ti paliiw iti Salmo 78 ni C. Juan Collins, ESV Study Bible [Wheaton, IL: Crossway, 2008], p. 1033).
+
+Ti sao ti Hebreo iti pananglipat (škḥ) ket naaramat iti namindua idiay Salmo. Iti Salmo 78:7, ti paganetget iti saan a panangliplipat kadagiti ar-aramid ti Apo ket naikadua iti panangikabil iti “namnama” ti maysa “iti Dios” ken panangsalimetmet kadagiti “bilbilinna.” Iti kabaliktadna, iti pananglipat kadagiti ar-aramid ti Dios ket kaipapananna iti panagbalin a “nasungit ken managribelde” ken iparangarangna ti naun-uneg a parikut iti saan a panangikabil iti “puso iti husto”; dayta ket, ipakitana ti maysa nga espiritu a “saan a matalek iti Dios” (Sal. 78:8). Iti laksid amin dagiti datdatlag ken bendicion idiay let-ang, dagiti tattao ket “nagbasolda nga ad-adda pay” a napnoan panagribelde (Sal. 78:17), “sinuutda ti Dios iti pusoda” (Sal. 78:18), ken “nagsaoda iti maibusor iti Dios” (Sal. 78:19). Kas sungbat iti daytoy a basol a mangngegtayo ti pannakaibaga iti pungtot ti Dios idiay Salmo 78:21, “Ngarud ni Jehova nangngegna, ket nacapungtot; ket simged ti apuy a maibusor ken Jacob, ken castamet ti pungtot nagpalalo a mangbusor iti Israel.” Ti gapu iti pungtot ti Dios ket naisalaysay iti sumaganad a bersikulo: “Gapu ta saanda a namati iti Dios, ket saanda a nagtalec iti panangisalacanna” (Sal. 78:22), iti laksid amin dagiti pagilasinan ken datdatlag nga inaramid ti Apo iti imatangda.
+
+Kasta met, ti sumaruno a pakasarakan iti pungtot ti Dios, idiay Salmo 78:31, ket ibagana a “no man pay castoy isuda nagbasbasolda laeng, ken dida namati cadagiti nacascasdaaw nga ar-aramidna” (Sal. 78:32). Tapno masigurado, ti Salmo itudona pay a, no kabilen ti Dios ida, rinugianda ti mangsapul Kenkuana ken manglaglagip a ti Dios ket Isu ti pannakaisalakanda (Sal. 78:34, 35).
+
+Nupay kasta, daytoy a sungbat ket saan a napudno. Kinapudnona, “isu inalaliugda babaen ti ngiwatda, nagulbodda kencuana, babaen ti dilada. Ta ti pusoda saan a nalinteg kencuana, dida met sitatalimudoc iti tulagna” (Sal. 78:36, 37). Apagisu unay iti daytoy a lawag a masarakantayo ti kapipintasan ken naayat unay a pannakailadawan ti pungtot ti Dios idiay Salmo: “Ngem isu, idinto a manangngaasi, pinacawanna ti kinadakesda, ket saanna a pinucaw ida: wen, naminadu nga incalilisna ti pungtotna, ket saanna nga impapas amin a pungtotna” (Sal. 78:38).
+
+Ni Asaf ket pinalagipanna pay dagiti tattao ti Dios a ti pungtot ti Dios ket inispalna ida manipud iti pannakaparparigat idiay Egipto, kabayatan a ti panangukomna immay a maibusor kadagiti Egipciano (Sal. 78:49, 50). Ngem kalpasan daytoy nakaskasdaaw a pannakaispal dagiti Israelitas “sinu-ut ken bimmusorda iti Cangatoan a Dios, ket dida sinalimetmetan dagiti pamanecnecna” (Sal. 78:56). Kadagiti nadiosan a bilbilin, naited ti naisangsangayan a paganetget iti basol a panagdaydayaw iti ladladawan: “Ta ginargarida a nacapungtot gapu cadagiti nangato a dissoda, ket ginutugotda nga agimon gapu cadagiti nakitikitan a ladawanda” (Sal. 78:58). Napateg a mapaliiw a ti pungtot ti Dios ket nailadawan, iti daytoy a lawag, iti balbalikas ti pananglipat: “Iti casta pinanawanna ti tabernaculo idiay Silo” (Sal. 78:60) ken “Inyawatna met ti ilina iti campilan” (Sal. 78:62).
+
+Ti naindaniwan nga istoria ti Salmo 78 ket ipakitana a ti pungtot ti Dios ket saan a nainkapilitan a longalong, wenno maysa a saan a matengtengngel a sungbat. No di ket, ti pungtotna ket ti natibker a sungbatna iti agtultuloy ken managribelde a basol.
+
+**2. Ti Pungtot ti Dios ket Maysa a Naayat ken Nalinteg a Panagunget.**
+
+Dagiti is-istoria dagiti Evangelio maipapan iti panangdalus ni Jesus iti templo (Mat. 21:12, 13; Marcos 11:15–17; Lucas 19:45–48; Juan 2:14, 15) ket mangipaay iti maysa a napateg unay a pagwadan no kasano a ti nadiosan a pungtot ket masapul koma a maawatan a kas maysa a nalinteg ken mapagtalkan a panagpungtot, a kas maisupadi iti maysa a di magawgawidan a kababalin iti biang ti Dios. Idiay kapitulo 16 (“In His Temple”) iti The Desire of Ages, ni Ellen G. White ket mangipaay kadagiti sasao nga agpaay iti panangutobtayo iti pungtot ti Dios. Adu a daras iti daytoy a kapitulo nga irikiarna a saan laeng a ti tao a Jesus ti nangaramid iti panangdalus iti templo. Kadagiti sasaona, “ti panangdalus ti templo ket maysa a pannakaipaduyakyak ti ad-adu pay ngem ti nataoan a pannakabalin.”— The Desire of Ages, p. 164. Kasta met, kabayatan a dagiti tattao kimmitada ken “Cristo, nakitada ti nadiosan a gilap babaen iti pagan-anay ti tao.”—Pages 158, 162.
+
+Ni Ellen G. White ilawlawagna a dagiti aglaklako iti lugar ti templo ket “nagkiddawda iti nalabes a gatad agpaay kadagiti mailako nga animal, ket imbingayda ti ganansyada kadagiti papadi ken agtuturay, nga isu a nangpabaknang kadagiti bagbagida a pakalugian dagiti tattao.”—Page 155. Gapuna, imbes a napudno nga agserbida kas pannakabagi ti Dios iti sangoanan dagiti tattao babaen ti panangilintegda “kadagiti panangirurumen iti paraangan ti templo,” dagiti papadi ken agtuturay ket “ad-adalenda ti bukodda a ganansya.” — Page 156, 157. Kas ipatuldona, “intedda koma kadagiti tattao ti maysa nga ulidan ti kinatarnaw ken kinamanangngaasi,” a kas naasikaso iti “kasapulan dagiti agdaydayaw” ken “nakasagana a tumulong kadagidiay saan a makagatang kadagiti kasapulan a daton.”—Page 157. Nupay kasta, pinalubosanda ti kinaagum a mangpatangken iti pusoda.
+
+Ni Ellen G. White iladawanna dagiti tattao idiay templo a kas “kadagidiay nga agsagsagaba, dagidiay nga agkurkurang ken marirriribokan. Dagiti bulsek, pilay, tuleng ket addada idiay. Dadduma ket naiyeg a nakaidda iti pagiddaan. Adu ti immay a napanglaw unay a di makagatang iti kabababaan a daton a maipaay iti Apo, napanglaw unay a di pay makagatang iti taraon a pangpennek iti bukodda a bisin.”— The Desire of Ages, p. 157. Ngem dagiti papadi ket awan ti “pannakipagriknada wenno kaasi” kadakuada. “Ti panagsagabada dina riniing ti asi iti puso dagiti papadi.”—Page 157.
+
+Maisupadi kadagiti papadi, ni Jesus napan idiay templo ket nakitana “dagiti di nasayaat a maar-aramid” ken “ti rigat dagiti napanglaw.” Kalpasanna, ni Ellen G. White aramatenna ti pagsasao a pungtot a mangipaganetget iti sungbat ni Jesus. “Kabayatan a kitkitaenna ti buya, ti pungtot, turay, ken pannakabalin ket nakita iti rupana.”—Page 157. Iti daytoy a lawag ti pungtot nga ipaganetget ni Ellen G. White a ti kinadios ni Cristo ket nagsilnag iti kinataona. Kabayatan a “dagidiay agar-aramid iti . . . di nasantoan a gunay” kimmita Kenkuana, nariknada a kasla nagtakderda “iti sango ti pangokoman ti Dios tapno sungbatanda dagiti ar-aramidda.”—Page 157, 158. Ikalinteganna ti panangitumba ni Jesus kadagiti “lamisaan dagiti agsuksukat iti kuarta” a kas “maysa a regta ken kinapinget a dina pay pulos idi nga impaduyakyak.”—Page 158.
+
+Napateg a paliiwen a daytoy a pungtot ket saan a maawatan a naimbag no awan ti pannakaipaganetget ti “pannakipagrikna ni Cristo kadagiti napanglaw,” a “nariing” gapu iti mapaspasamak iti templo (Page 162). “Nabuyogan ti lulua kadagiti matana, kinunana kadagiti agpigpigerger iti aglikmut Kenkuana: Dikay agbuteng; Isalakankanto, ket idaydayawnakto.”—Page 163.
+
+Daytoy nga istoria a naibatay iti Biblia, ket napintas unay a sinukimat ni Ellen G. White, ket ipakitana no kasano nga iti Cristolohia [adal maipapan ken Jesus], ti pungtot ti Dios ket maysa a naayat ken nalinteg a panagpungtot a maibusor iti pannakairurumen ken panagsagaba dagiti tattaona. Kamaudiananna, daytoy a nadiosan a pungtot ket ikabilna iti gunay ti maysa a napigsa unay a pannakaispal dagiti tattao, kas maysa a bunga ti pannakaukom dagiti manangirurumen.
+
+### Paset III: Panangipakat iti Biag
+
+Iti artikulo a Reflections on the Wrath of God, ni Marvin Moore ket utobenna ti nadiosan a sungbat iti kinakillo. Ni Moore imbagana ti maysa nga istoria, nga isu a mabalin nga ababa a maadaw a kas iti sumaganad: maysa nga aldaw ket maysa nga ina ti napan iti likud ti balay tapno mangala iti maysa a banag ket nasarakanna ti agtutubo nga anakna a ramramesen ti ulitegna. Ti kadi ina ket mapan laeng iti silidna ket agkararag agpaay iti daytoy a kasasaad, wenno masapul kadi a bumallaet isuna a mangpasardeng nga agpadpada iti basol ken iti managbasol? (Kitaen ti Journal of the Adventist Theological Society 15.2 [2004]: pp. 118–127, especially pp. 121, 122, https://digitalcommons.andrews.edu/jats/vol15/iss2/8). Iti kaadda daytoy nga istoria iti panunot, dawatem kadagiti estudiantem a pagiinnadalanda dagiti salsaludsod ken ensayo iti baba:
+
+1. Kasano ngata ti panagtignay ti Dios no makitana amin dagiti pannakairurumen ken kinakillo a maar-amid a maibusor kadagiti tattaona? Marikna kadi ti Dios iti nakaro a pungtot?
+2. Ti kadi pungtot ti Dios ket maysa a pannakaipakita ti ayatna? Ilawlawag. Masapul kadi a bumallaet Isuna a mangpasardeng iti basol ken ti managbasol? Apay, wenno apay a saan?
+3. Ania a kasasaad a naalibtakka a naggunay a mangpunas iti kinakillo wenno mangpalag-an iti panagsagsagaba dagiti sabsabali?
+4. Ti Biblia balakadannatayo nga agpungtot ngem saan nga agbasol. Iti daytoy a kapanunotan, mangted kadagiti natibker a pagwadan iti inaldaw a panagbiagmo a ti pungtot ket mabalin a maysa a pannakaiyebkas ti ayat.
+
+`Notes`
