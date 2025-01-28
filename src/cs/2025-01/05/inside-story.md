@@ -15,7 +15,7 @@ To bylo přesně to, co Joanne potřebovala slyšet. Kdyby ji misionář utěšo
 
 Joanne se stále chtěla v Mongolsku sdílet o Ježíšově lásce, ale po četných útocích opilců už neměla pocit, že by ji nějaká láska ke sdílení zůstala.
 
-„Pane,“ modlila se, “pokud to se mnou myslíš vážně, abych tady zůstala, najdi mi, prosím, cestu z téhle bryndy. Musíš mě ochránit, nebo mi dát způsob, jak tyto situace zvládnout, nebo mě zbavit těch opilců.“
+„Pane,“ modlila se, “pokud to se mnou myslíš vážně, abych tady zůstala, najdi mi, prosím, cestu z tohohle chaosu. Musíš mě ochránit, nebo mi dát způsob, jak tyto situace zvládnout, nebo mě zbavit těch opilců.“
 
 Rozhodla se zůstat v Mongolsku a čekat na Boha.
 
