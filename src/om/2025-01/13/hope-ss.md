@@ -5,7 +5,7 @@ date:   28/03/2025
 
 Baga gara qayyabannaa barnoota sanbataa "Hope"Qo'annoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa (murtii) Waaqayyoo ilaalchisee qorannaa jalqabne goolabaa jirra. Mata dureen har'aa: Jaalalli Seera Raawwachuu Dha
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Bu'uura seera Waaqayyoo
 	- a) Maatewos 22:35-40 Akka Yesus jedhetti, abboommiiwwan laman gurguddoon seerrii fi barssifni raajotaa irratti hidhaman maal dha?

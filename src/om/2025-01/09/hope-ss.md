@@ -5,7 +5,7 @@ date:   28/02/2025
 
 Baga gara qayyabannaa barnoota sanbataa "Hope"Qo'annoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa(murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Wal'aansoo guddicha
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Fakkenya Yesus waa'ee wal'aansoo guddichaa dubbate
 	- a) Maat. 13:24-30 Fakkeenyi Yesus dubbate kun waa'ee wal'aansoo guddicha gaarii fii hamaa jidduu jiru maal nu barsiisa?

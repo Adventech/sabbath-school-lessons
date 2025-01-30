@@ -5,7 +5,7 @@ date:   21/02/2025
 
 Baga gara qayyabannaa barnoota sanbataa "Hope"Qo'annoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa(murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Mirga filannoo bilisaa, Jaalalaa fi gaggeessaa Waaqaa.
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Waaqayyo hundarratti aango gabeessa (sovereign)
 	- a) Dhuga ba'umsoota faarfatichaa hafuura gooftaan barreeffaman armaan gadii keessatti dhugaa barbaachisaa maaltu jira? Faar. 93:1-2, 96:10, 97:1, 99:1, 24:1, (akkasumas 1 Yoh 4:8 dubbisi)

@@ -3,9 +3,9 @@ title:  Barumsa Sanbataa ‘Hoop’
 date:   10/01/2025
 ---
 
-Baga gara qayyabannaa barnoota sanbataa "Hope"– Qoa'nnoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa (murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Hariiroo Jaalalaa karaa lamaa
+Baga gara qayyabannaa barnoota sanbataa "Hope"- Qoa'nnoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa (murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Hariiroo Jaalalaa karaa lamaa
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Jaalala Waaqayyoo isa barabaraa
 	- a) Eermiyaas 31:3 Mul'ata akkamiitu raajicha Eermiyaasiif kenname? Jaalalli barabaraa kun Eermiyaasiif qofaa dhaa? Ijoollee Israa'eliif qofaa dhaa? Moo tokkoon tokkoon keenyaaf? (Yohannis 3:16)

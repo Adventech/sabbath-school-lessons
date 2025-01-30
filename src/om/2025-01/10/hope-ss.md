@@ -5,7 +5,7 @@ date:   07/03/2025
 
 Baga gara qayyabannaa barnoota sanbataa "Hope"Qo'annoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa (murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Wal'aansoo Guddicha Keessatti Seerota Hirmaannaa
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Dachee kana irratti dhiibbaa ergamoota kufanii
 	- a) Efesoon 6:12 Mul'atni geggeessaa hafuuraan karaa ergamaa Phaawulos barreeffame kun dhiibbaa Seexanaa fi ergamoota isaa warra fincila Waaqa irratti geggeeffametti isa wajjiin tokkoomanii maal nu barsiisa?

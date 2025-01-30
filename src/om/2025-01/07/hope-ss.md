@@ -5,7 +5,7 @@ date:   14/02/2025
 
 Baga gara qayyabannaa barnoota sanbataa "Hope"Qo'annoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa(murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Rakkina hammeenyaa
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Waaqayyo hammeenyi) akka jiraatuuf maaliif eeyyame?
 	- a) Ermiyas 12:1 Gaafiiwwan lamaan raajichi Ermiyas Gooftaa gaafate ilaalchisee yaadni kee maal dha?

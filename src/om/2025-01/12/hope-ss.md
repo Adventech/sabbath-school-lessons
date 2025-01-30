@@ -5,7 +5,7 @@ date:   21/03/2025
 
 Baga gara qayyabannaa barnoota sanbataa "Hope"Qo'annoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa(murtii) Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: JAALALAA FI HAQA (MURTII): ABBOOMMIIWWAN GURGUDDOO LAMAAN
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Abboommiiwwan gurguddoo lamaan
 	- a) Maatewos 22:36-40 Akka Yesus jedhutti, abboommiiwwan lamaan sagalee Waaqayyoo keessa jiran isaan kam?

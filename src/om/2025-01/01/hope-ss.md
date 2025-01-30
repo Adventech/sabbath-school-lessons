@@ -3,9 +3,9 @@ title:  Barumsa Sanbataa ‘Hoop’
 date:   03/01/2025
 ---
 
-Baga gara Barumsa Sanbataa Abdii – Qo’annoo Dubbii Waaqayyoo waliin gadi fageenyaan qo’annuutti nagayaan dhuftan. Qo’annaa haaraa, jaalalaa fi Haqa Waaqayyoo irratti hundaa’e, jalqabaa jirra. Matadureen har’aa: Waaqayyo Akkasumatti Jaallata.
+Baga gara Barumsa Sanbataa Abdii - Qo’annoo Dubbii Waaqayyoo waliin gadi fageenyaan qo’annuutti nagayaan dhuftan. Qo’annaa haaraa, jaalalaa fi Haqa Waaqayyoo irratti hundaa’e, jalqabaa jirra. Matadureen har’aa: Waaqayyo Akkasumatti Jaallata.
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Mul’ata amala jaalalaa Gooftaa
 	- a) Seera ba’uu 33:12-19 Ibsa amala Gooftaa, raajicha Muuseef kenname irraa, barumsa maal argachuu dandeenya?

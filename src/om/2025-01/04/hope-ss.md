@@ -3,9 +3,9 @@ title:  Barumsa Sanbataa ‘Hoop’
 date:   24/01/2025
 ---
 
-Baga gara qayyabannaa barnoota sanbataa "Hope"– Qoa'nnoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Waaqayyo oo’a qabeessaa fi gara laafessa.
+Baga gara qayyabannaa barnoota sanbataa "Hope"- Qoa'nnoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Waaqayyo oo’a qabeessaa fi gara laafessa.
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Jaalala haadhaaf abbaa caala
 	- a) Har'a, garee keenya keessatti haadha ykn abbaa of keessaa qabnaa? Jaalala maatiin daa'ima ofiitiif qaban akkamitti ibsitu?

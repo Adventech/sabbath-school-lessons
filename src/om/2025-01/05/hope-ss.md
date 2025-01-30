@@ -3,9 +3,9 @@ title:  Barumsa Sanbataa ‘Hoop’
 date:   31/01/2025
 ---
 
-Baga gara qayyabannaa barnoota sanbataa "Hope"– Qoa'nnoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Dheekkamsa Jaalala Waaqummaa.
+Baga gara qayyabannaa barnoota sanbataa "Hope"- Qoa'nnoo kitaaba qulqulluu gadi fagaataa fi mariisisaa tti nagaan dhuftan. Jaalalaa fi haqa Waaqayyoo ilaalchisee qorannaa jalqabne itti fufna. Mata dureen har'aa: Dheekkamsa Jaalala Waaqummaa.
 
-**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti – Faar 63:1-4
+**Faarfannaa Seensaa**: Yaa Waaqayyo, ati Waaqayyo koo ti - Faar 63:1-4
 
 - 1 Dheekkamsa/aarii Waaqaa
 	- a) Namoonni baay'een waa'ee amala Waaqayyoo ilaalcha jallataa qabu. Akka abbaa irree dheekkamaa, yommuu namoonni cubbuu hojjetan irra ga'ee barabaraan isaan adabuu barbaadutti isa fudhatu. Namoonni waa'ee amala Waaqayyoo fakkii dabaa akkasii eessaa argatan?
