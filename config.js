@@ -264,6 +264,10 @@ var BIBLE_PARSER_CONFIG = {
     "orov"
   ],
 
+  "om": [
+    "macqul"
+  ],
+
   "pap": [
     "bpk13"
   ],

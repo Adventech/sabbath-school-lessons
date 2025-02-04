@@ -1,0 +1,62 @@
+---
+title:  Komento ng Guro
+date:   31/01/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya 
+
+**Susing Talata**: Awit 78:38
+
+**Pokus ng Pag-aaral**: Awit 78; Mateo 21:12, 13; Juan 2:14, 15.
+
+**Panimula**: Ang poot ng Diyos ay paglalarawan ng Kanyang pag-ibig, na magpaparusa sa kasamaan at kasalanan.
+
+**Mga Paksa ng Liksyon**: Ang liksyon sa linggong ito ay nagdidiin sa dalawang pangunahing puntos.
+
+1. Ang poot ng Diyos ay ang Kanyang banal at matiyagang tugon sa kasalanan: Ang poot ng Diyos ay hindi batay sa isang di-makatwiran, di-mapigil, o mapaghiganting hakbangin. Sa halip, ito ay palagiang nagmamahal, at may matatag na tugon laban sa kasamaan at kawalan ng katarungan. Ang Kanyang galit ay tugon sa patuloy at mapanghimagsik na kasalanan, na pumipinsala sa Kanyang nilikha. Ang banal na galit ay isa pang pagpapahayag ng Kanyang pag-ibig, maaaring parusahan ang masamang tao para sa kanilang mga kasalanan o upang iligtas ang Kanyang bayan mula sa kanilang pagkaalipin. Sa Banal na Kasulatan, ang poot ng Diyos ay pinakamahusay na nauunawaan ayon sa konteksto ng salaysay nito, tulad ng sa Awit 78. Sa kabila ng lahat ng mga tanda at kababalaghan na ginawa ng Diyos, nakalimutan Siya ng Kanyang bayan, naging matigas ang ulo at mapanghimagsik sila, na may mga pusong hindi nagsisisi.
+2. Ang poot ng Diyos ay isang mapagmahal at matuwid na galit: Sa Banal na Kasulatan ay makikita natin ang malinaw na paglalarawan ng poot ng Diyos, bilang isang mapagmahal at matuwid na galit laban sa pang-aapi at pagdurusa ng Kanyang bayan. Ang Diyos ay aktibong nakikialam upang parusahan ang kasamaan, dahil sa Kanyang matuwid na galit, na udyok ng perpektong kabutihan at pag-ibig. Ang Kanyang poot ay ang wastong tugon ng pag-ibig laban sa kasamaan, dahil ang kasamaan ay nananakit sa Kanyang minamahal na mga nilalang.
+
+**Pagsasakabuhayan**: Kung isasaalang-alang ang responsableng tugon ng Diyos laban sa kawalan ng katarungan at kasamaan, paano tayo aktibong kikilos para maalis ang kawalan ng katarungan o pagaanin ang pagdurusa ng iba?
+
+### Ikalawang Bahagi: Komentaryo
+
+**1. Ang Pag-ibig ng Diyos Ay ang Kanyang Banal at Matiyagang Tugon sa Kasalanan.**
+
+Ang turo ng Biblia tungkol sa poot ng Diyos ay pinakamahusay na nauunawaan ayon sa konteksto ng salaysay kung saan ito binanggit. Ang Awit 78, na siyang pangalawang pinakamahabang awit ng Mang-aawit, kasunod ng kabanata 119, ay itinatampok ang mga tiyakang pangyayari sa kasaysayan ng Israel, partikular na ang Exodo at ang paglalagalag sa ilang. Sa patula na salaysay na ito, hinikayat ni Asap ang bayan ng Diyos na maging tapat sa Panginoon, kabaligtaran ng mga naghimagsik na henerasyon sa nakalipas.
+
+Kakaiba sa maraming Awit, ang Awit 78 ay hindi ipinapahayag ang Diyos sa anyo ng awit/panalangin, kundi para sa mga tao, sa anyo ng awit/pagtuturo (tingnan ang tala sa Awit 78 nina Adele Berlin at Marc Zvi Brettler, The Jewish Study Bible, 2nd ed [Oxford: Oxford University Press, 2014], p. Malamang, nilayon ng mang-aawit na tulungan ang bayan na alalahanin ang makapangyarihan at mapagmahal na mga gawa ng Diyos, habang inaawit nila ang patulang salaysay na ito, kaya tinitiyak na hindi nila malilimutan tulad ginawa ng henerasyon ng ilang (tingnan ang tala sa Awit 78 ni C. Juan Collins, ESV Study Bible [Wheaton, IL: Crossway, 2008], p. 1033).
+
+Ang pandiwang Hebreo para sa paglimot (škḥ) ay ginamit nang dalawang beses sa Awit. Sa Awit 78:7, ang pagbibigay-diin sa hindi paglimot sa mga gawa ng Panginoon ay nauugnay sa paglagak ng “pag-asa sa Diyos” at pagsunod sa “Kanyang mga utos.” Sa kabaligtaran, ang paglimot sa mga gawa ng Diyos ay nangangahulugang pagiging “matigas ang ulo at salinlahing mapanghimagsik” at inilalantad ang mas malalim na problema ng “puso na di-ginawang matuwid”; ibig sabihin, ito ay nagpapakita ng espiritu na “di-tapat sa Diyos” (Awit 78:8). Sa kabila ng lahat ng mga kababalaghan at pagpapala sa ilang, ang mga tao ay naghimagsik na anupa’t “lalo pa silang nagkasala” (Awit 78:17), “sinubok ang Diyos sa puso nila” (Awit 78:18), at sila’y “nagsalita laban sa Diyos” (Awit 78: 19). Bilang tugon sa kasalanang ito na maririnig natin ang pagtukoy sa poot ng Diyos sa Awit 78:21, “Kaya’t nang marinig ng Panginoon, Siya’y napuno ng poot; isang apoy ang nag-alab laban sa Jacob, at ang Kanyang galit naman ay lumaki laban sa Israel.” Ang dahilan ng poot ng Diyos ay nabuod sa sumusunod na talata: “Sapagka’t sa Diyos sila’y hindi nanampalataya, at sa Kanyang kaligtasan sila’y hindi nagtiwala” (Awit 78:22), sa kabila ng lahat ng mga tanda at kababalaghang ginawa ng Panginoon sa harap ng kanilang mga mata.
+
+Gayundin, ang susunod na pagtukoy sa poot ng Diyos, sa Awit 78:31, ay patuloy na nagpapatunay na “sa kabila ng lahat ng ito ay patuloy pa rin silang nagkasala, sa kabila ng Kanyang mga kababalaghan ay hindi sila sumampalataya” (Awit 78:32). Upang makatiyak, itinuturo pa nga ng awit na, nang sinaktan sila ng Diyos, nagsimula silang maghanap muli sa Kanya at alalahanin na ang Diyos ang kanilang kaligtasan (Awit 78:34, 35).
+
+Gayunpaman, ang reaksyong ito ay hindi taos-puso. Sa katunayan, “kanilang tinuya siya ng bibig nila, nagsinungaling sila sa kanya sa pamamagitan ng kanilang mga dila; sapagka’t ang mga puso nila ay hindi tapat sa kanya, ni naging tapat man sila sa tipan niya” (Awit 78:36, 37). Tiyak na sa kontekstong ito makikita natin ang pinakamaganda at mapagmahal na paglalarawan ng poot ng Diyos sa Awit: “Gayunman Siya, palibhasa’y mahabagin, pinatawad Niya ang kanilang kasamaan, at hindi sila nilipol. Madalas na pinipigil Niya ang Kanyang galit, at hindi pinupukaw ang lahat Niyang poot” (Awit 78:38).
+
+Pinaalalahanan din ni Asaph ang bayan ng Diyos na ang poot ng Diyos ay nagligtas sa kanila mula sa pang-aapi sa Ehipto, habang ang Kanyang mga paghatol ay dumating laban sa mga taga-Ehipto (Awit 78:49, 50). Ngunit pagkatapos nitong kahanga-hangang pagpapalaya, ang mga Israelita ay “sinubukan at naghimagsik sila sa Diyos na Kataas-taasan, at ang Kanyang mga patotoo ay hindi iningatan” (Awit 78:56). Kabilang sa mga banal na utos, ang espesyal na diin ay ibinibigay sa kasalanan ng pagsamba sa mga diyus-diyosan: “kanilang ginalit Siya sa pamamagitan ng kanilang matataas na dako, kanilang paninibugho Siya ng kanilang mga larawang nililok” (Awit 78:58). Kapansin-pansing ang poot ng Diyos ay inilarawan, sa kontekstong ito, sa mga tuntunin ng pagtalikod: “Kanyang pinabayaan ang Kanyang tahanan sa Shilo” (Awit 78:60) at “ibinigay Niya ang Kanyang bayan sa espada” (Awit 78: 62).
+
+Ang patula na salaysay ng Awit 78 ay nagpapahiwatig na ang poot ng Diyos ay hindi isang di-makatwirang hakbangin, ni isang hindi makontrol na reaksyon. Sa halip, ang Kanyang galit ay ang Kanyang matatag na tugon sa patuloy at mapanghimagsik na kasalanan.
+
+**2. Ang Poot ng Diyos Ay Isang may Pagmamahal at Matuwid na Galit.**
+
+Ang mga salaysay ng mga Ebanghelyo tungkol sa paglilinis ni Jesus sa templo (Mateo 21:12, 13; Marcos 11:15–17; Lucas 19:45–48; Juan 2:14, 15) ay nagbibigay ng mahalagang halimbawa kung paano dapat unawain ang banal na poot bilang isang matuwid at responsableng galit, na taliwas sa isang pabagu-bago at pabigla-biglang damdamin ng Diyos. Sa kabanata 16 (“In His Temple”) ng The Desire of Ages, si Ellen G. White ay nagbigay ng makahulugang pananalita para sa ating pagninilay sa poot ng Diyos. Maraming beses sa kabanatang ito ay idinidiin niya na hindi lamang ang taong si Jesus ang nagsagawa ng paglilinis ng templo. Sa kanyang mga salita, “ang paglilinis ng templo ay isang pagpapakita ng higit pa sa kapangyarihan ng tao.”—The Desire of Ages, p. 164. Gayundin, habang ang mga tao ay tumitingin “kay Cristo, namasdan nila ang pagka-Diyos na kumikislap na tumatagos sa kasuotan ng sangkatauhan.”—Pahina 158, 162.
+
+Ipinaliwanag ni Ellen G. White na ang mga mangangalakal sa lugar ng templo ay “humihingi ng napakataas na presyo para sa mga hayop na ipinagbibili, at ibinabahagi nila ang kanilang kita sa mga saserdote at mga pinuno, na bunga nito’y nagpapayaman sa kanilang sarili at nagpapahirap ng mga tao.”—Pahina 155. Kaya, sa halip na tunay na maglingkod bilang mga kinatawan ng Diyos sa harap ng mga tao sa pamamagitan ng pagtutuwid sa “mga pang-aabuso sa loob ng templo,” ang mga saserdote at mga tagapamahala nito ay “binibilang ang kanilang sariling pakinabang.”—Pahina 156, 157. Gaya ng sinabi niya, “Dapat na sila ay nagbigay sa bayan ng isang halimbawa ng integridad at pagiging mahabagin,” pagiging matulungin sa “pangangailangan ng mga mananamba” at “handang tumulong sa mga hindi makabili ng kinakailangang mga hain.”—Pahina 157. Gayunman, hinayaan nilang patigasin ng kasakiman ang kanilang mga puso.
+
+Inilarawan ni Ellen G. White ang mga tao sa templo bilang “yaong mga nagdurusa, yaong mga nangangailangan at nahihirapan. Nandoon ang mga bulag, pilay, at bingi. Ang ilan ay dinala na nakahiga sa kama. Marami ang dumating na lubhang napakahirap anupa’t hindi makabili ng pinakamababang handog para sa Panginoon, lubhang napakahirap anupa’t hindi man lang makabili ng pagkain para mapawi ang kanilang sariling gutom.”—The Desire of Ages, p. 157. Ngunit ang mga saserdote ay walang “simpatya o habag” sa kanila. “Ang kanilang pagdurusa ay hindi pumukaw ng awa sa puso ng mga saserdote”—Pahina 157.
+
+Kabaligtaran ng mga saserdote, pumunta si Jesus sa templo at nakita Niya “ang di-makatarungang mga transaksyon” at “kahirapan ng mga dukha.” Pagkatapos, ginamit ni Ellen G. White ang wika ng galit upang bigyang-diin ang reaksyon ni Jesus. “Habang tinitingnan Niya ang tagpo, ang galit, awtoridad, at kapangyarihan ay ipinakita sa Kanyang mukha.”—Pahina 157. Sa kontekstong ito ng pagkagalit na itinampok ni Ellen G. White na ang pagka-Diyos ni Cristo ay sumilay sa Kanyang pagkatao. Bilang “mga nakikibahagi sa . . . hindi banal na pangangalakal” ay tumingin sa Kanya, nadama nila na para silang nakatayo “sa harap ng hukuman ng Diyos upang managot sa kanilang mga gawa.”—Pahina 157, 158. Sinabi niyang marapat na ibagsak ni Jesus ang “mga lamesa ng mga nagpapalit ng salapi” bilang “isang sigasig at katindihan na hindi Niya kailanman ipinamalas.”—Pahina 158.
+
+Kapansin-pansing ang poot na ito ay hindi mauunawaan nang wasto nang walang pagbibigay-diin sa “pakikiramay ni Cristo sa mga mahihirap,” na “napukaw” ng mga tao sa templo (Pahina 162). “Habang may luha sa Kanyang mga mata, sinabi Niya sa mga nakikinig sa paligid Niya: Huwag matakot; ililigtas kita, at luluwalhatiin mo Ako.”—Pahina 163.
+
+Ang salaysay na ito ng Biblia, na napakagandang sinaliksik ni Ellen G. White, ay nagpapakita ng kristolohikal [na pag-aaral] kung paanong ang poot ng Diyos ay isang mapagmahal at matuwid na galit laban sa pang-aapi at pagdurusa ng Kanyang bayan. Sa kalaunan, ang banal na galit na ito ay nagpapakilos ng isang makapangyarihang pagliligtas sa mga tao, bilang bunga ng paghatol sa mga maniniil.
+
+### Ikatlong Bahagi: Pagsasakabuhayan
+
+Sa artikulong Reflections on the Wrath of God, pinagnilayan ni Marvin Moore ang banal na tugon sa kawalan ng katarungan. Binanggit ni Moore ang isang kuwento, na maaaring madaling ibagay tulad ng sumusunod: isang araw pumunta ang isang ina sa likod-bahay para kumuha ng isang bagay at natagpuan ang kanyang tin-edyer na anak na babae na sekswal na inaatake ng kanyang tiyuhin. Dapat bang pumunta ang ina sa kanyang silid at ipagdasal lamang ang sitwasyong ito, o dapat ba siyang makialam upang mahinto ang kasalanan at ang makasalanan? (Tingnan ang Journal of the Adventist Theological Society 15.2 [2004]: pp. 118–127, lalo na pp. 121, 122, https://digitalcommons.andrews.edu/jats/vol15/iss2/8). Habang nasa isip ang kuwentong ito, hilingin sa iyong mga estudyante na talakayin ang mga tanong at pagsasanay sa ibaba:
+
+1. Paano dapat kumilos ang Diyos kapag nakita Niya ang lahat ng pang-aabuso at kawalang-katarungang ginagawa laban sa Kanyang bayan? Makakaramdam ba ang Diyos ng matinding poot?
+2. Ang poot ba ng Diyos ay isang pagpapahayag ng Kanyang pag-ibig? Ipaliwanag. Dapat ba Siyang mamagitan upang alisin ang kasalanan at makasalanan? Bakit o bakit hindi?
+3. Sa anong mga sitwasyon ka aktibong gumawa upang alisin ang kawalang-katarungan o upang maibsan ang pagdurusa ng iba?
+4. Pinapayuhan tayo ng Biblia na magalit at huwag magkasala. Sa kaisipang ito, magbigay ng mga konkretong halimbawa sa iyong pang-araw-araw na buhay kung saan ang galit ay maaaring isang pagpapahayag ng pag-ibig.
+
+`Notes`
