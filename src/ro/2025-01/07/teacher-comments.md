@@ -1,7 +1,7 @@
---- 
+---
 title:  Material Pentru Instructori
 date:  14/02/2025
----  
+---
 
 ### Privire generală
 
