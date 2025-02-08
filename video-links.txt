@@ -1,25 +1,4 @@
-yt-dlp "https://www.youtube.com/watch?v=dtvIQFpZAEo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2025-01-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=zLIeKvLMX-g" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/sp/pl-sp-2025-01-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=j1_ue-b37xQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2025-01-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=8f-vHdNdayg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2025-01-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=SEIj5ROfoKo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=AGTHcqpRnDA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=a27HStivWGs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=FihqRZGyhSY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "it/it-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Xfh48HTGido" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/af/in-af-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=XgKRrDGutkQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=jKX8MjM7pds" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=moARdOBvj-w" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-01-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=9QmHgL1AttQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2025-01-07.mp4"
