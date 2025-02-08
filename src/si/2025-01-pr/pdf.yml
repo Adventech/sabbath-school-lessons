@@ -1,0 +1,72 @@
+---
+pdf:
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-Intro.pdf'
+    target: si/2025-01-pr/introduction
+    title: හැදින්වීම
+    start_date: 28/12/2024
+    end_date: 28/12/2024
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-01.pdf'
+    target: si/2025-01-pr/01
+    title: 'පළවෙනි උසම ගොඩනැගිල්ල'
+    start_date: 28/12/2024
+    end_date: 03/01/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-02.pdf'
+    target: si/2025-01-pr/02
+    title: 'දිගු, දිගු ගමනක්'
+    start_date: 04/01/2025
+    end_date: 10/01/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-03.pdf'
+    target: si/2025-01-pr/03
+    title: 'උදව්වට ආබ්‍රම්'
+    start_date: 11/01/2025
+    end_date: 17/01/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-04.pdf'
+    target: si/2025-01-pr/04
+    title: 'ස්වර්ගීය අමුත්තන්'
+    start_date: 18/01/2025
+    end_date: 24/01/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-05.pdf'
+    target: si/2025-01-pr/05
+    title: 'දෙවියන්වහන්සේ උදෙසා සාමුවෙල් කථා කරයි'
+    start_date: 25/01/2025
+    end_date: 31/01/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-06.pdf'
+    target: si/2025-01-pr/06
+    title: 'දෙවියන්වහන්සේ ජය ගනියි!'
+    start_date: 01/02/2025
+    end_date: 07/02/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-07.pdf'
+    target: si/2025-01-pr/07
+    title: 'ශෝකයෙන් ප්‍රීතියට'
+    start_date: 08/02/2025
+    end_date: 14/02/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-08.pdf'
+    target: si/2025-01-pr/08
+    title: 'මහා භෝජන සංග්‍රහය පිළිබඳ උපමා කථාව'
+    start_date: 15/02/2025
+    end_date: 21/02/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-09.pdf'
+    target: si/2025-01-pr/09
+    title: 'බෙතෙස්දා පොකුණ අසළ සුව කිරීම'
+    start_date: 22/02/2025
+    end_date: 28/02/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-10.pdf'
+    target: si/2025-01-pr/10
+    title: 'දේවදූතයා කලින් ප්‍රකාශ කරයි'
+    start_date: 01/03/2025
+    end_date: 07/03/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-11.pdf'
+    target: si/2025-01-pr/11
+    title: 'එඬේරු යේසුස් වහන්සේට නමස්කාර කරති'
+    start_date: 08/03/2025
+    end_date: 14/03/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-12.pdf'
+    target: si/2025-01-pr/12
+    title: 'ළදරු යේසුතුමාට තෑගි'
+    start_date: 15/03/2025
+    end_date: 21/03/2025
+  - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PR-13.pdf'
+    target: si/2025-01-pr/13
+    title: 'යේසුස් වහන්සේ නැවත පැමිණෙන විට'
+    start_date: 22/03/2025
+    end_date: 28/03/2025
