@@ -24,4 +24,24 @@ yt-dlp "https://www.youtube.com/watch?v=M6actFuY9xM" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=TSSALDHEQLU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-01-07.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=iSaEE_vWKoU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2025-01-07.mp4"
+
+yt-dlp "https://youtu.be/aRK0ssTTnmw?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-01-07.mp4"
+
+yt-dlp "https://www.youtube.com/live/zScoHQ2IEOs?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-01-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=a1X4DPPp3gc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-01-07.mp4"
+
+yt-dlp "https://youtu.be/xNS5Csw0fdY?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2025-01-07.mp4"
+
+yt-dlp "https://youtu.be/i5-bbu_KN6c?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2025-01-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=HIvF_Fcuj-g" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2025-01-07.mp4"
+
+yt-dlp "https://youtu.be/rCZnB4bz0lE?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2025-01-07.mp4"
+
+yt-dlp "https://youtu.be/ka5VVT3hq04?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2025-01-07.mp4"
+
+yt-dlp "https://youtu.be/Gepqe_Tfd0o?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2025-01-inv-07.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=SZq8g3hMkqs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2025-01-07.mp4"
