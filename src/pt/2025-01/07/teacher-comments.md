@@ -1,6 +1,6 @@
 ---
 title:  Auxiliar
-date:  07/02/2025
+date:  14/02/2025
 ---
 
 **TEXTO-CHAVE:** Apocalipse 21:4
