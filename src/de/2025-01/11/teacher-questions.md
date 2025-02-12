@@ -55,5 +55,58 @@ tut, bereits ein besiegter Feind..."*
     Wahrheit" sein. Welche "Antwortmöglichkeiten" seht ihr? Und
     inwieweit helfen sie euch?
 
+**MONTAG**
+
+**ZITAT (Lektion Seite 111):** *"Das Werk Christi macht auf Schritt und
+Tritt das Werk des Teufels rückgängig."*
+
+-   Wie würdet ihr das Werk Satans, quasi seine "Agenda", beschreiben?
+    -   Welche Ziele hatte er ? Vor allem vor Jesu Erlösungstat am
+        Kreuz?
+    -   Welche Ziele hat er seither?
+-   Wie erklärt ihr euch, dass Die Rückgängig-Machung dessen, was er
+    angerichtet hat, von Gott nicht in einem raschen Kraftakt (was ihm
+    sicherlich möglich wäre) erfolgt sondern in mehreren Schritten und
+    über Jahrtausende hinweg?
+
+**Römer 3,23-26:** *"Sie sind allesamt Sünder und ermangeln des Ruhmes,
+den sie vor Gott haben sollen, 24 und werden ohne Verdienst gerecht aus
+seiner Gnade durch die Erlösung, die durch Christus Jesus geschehen
+ist. 25 Den hat Gott für den Glauben hingestellt zur Sühne in seinem
+Blut zum Erweis seiner Gerechtigkeit, indem er die Sünden vergibt, die
+früher begangen wurden 26 in der Zeit der Geduld Gottes, um nun, in
+dieser Zeit, seine Gerechtigkeit zu erweisen, auf dass er allein gerecht
+sei und gerecht mache den, der da ist aus dem Glauben an Jesus."*
+
+**Römer 5,8:** *"Gott aber erweist seine Liebe zu uns darin, dass
+Christus für uns gestorben ist, als wir noch Sünder waren."*
+
+-   Was bedeutete die Aussage, dass das, was am Kreuz geschah, "den
+    Erweis seiner (Gottes) Gerechtigkeit" erbrachte?
+-   Welche "Werke Satans" wurden am Kreuz rückgängig gemacht? Und welche
+    noch nicht?
+-   Welche Punkte von "Satans Agenda" wurden auf Golgatha durchkreuzt
+    und endgültig verunmöglicht?
+
+**Offenbarung 12,10-12:** *"Und ich hörte eine große Stimme, die sprach
+im Himmel: Nun ist das Heil und die Kraft und das Reich unseres Gottes
+geworden und die Macht seines Christus; denn der Verkläger unserer
+Brüder und Schwestern ist gestürzt, der sie verklagte Tag und Nacht vor
+unserm Gott. 11 Und sie haben ihn überwunden durch des Lammes Blut und
+durch das Wort ihres Zeugnisses und haben ihr Leben nicht geliebt bis
+hin zum Tod. 12 Darum freut euch, ihr Himmel und die darin wohnen! Weh
+aber der Erde und dem Meer! Denn der Teufel kam zu euch hinab und hat
+einen großen Zorn und weiß, dass er wenig Zeit hat."*
+
+-   Was wird in diesem Text beschrieben?
+-   Warum hat Satan bis zu diesem Zeitpunkt die Menschen Tag und Nacht
+    vor Gott verklagt? Welche Motive dafür mag er gehabt haben?
+    -   Was hat sich daran geändert und warum?
+-   Wie sollen wir damit umgehen, dass hier über die Erde ein Wehe-Ruf
+    ergeht, weil der Zorn des Teufels groß ist?
+    -   Was kann uns helfen deshalb keine Angst zu haben?
+
+**DIENSTAG**
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
