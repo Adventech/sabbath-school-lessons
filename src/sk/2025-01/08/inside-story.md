@@ -27,4 +27,7 @@ Dnes má Nelson Silva 30 rokov a je adventistickým hudobníkom. Nehráva na ako
 
 „Vďaka hudbe som zažiaril vo svete, ale teraz chcem žiariť pre Krista,“ dodal na záver.
 
-_Modlite sa za to, aby evanjelium mohlo byť ohlasované vo všetkých kultúrach a komunitách po celom svete. Ďakujeme za vaše misijné dary, ktoré pomáhajú šíriť evanjelium aj na miestach, kde to doteraz nebolo možné. Nelsona Silvu môžete vidieť hrať na akordeóne na YouTube videu cez odkaz: bit.ly/Nelson-Silva._
+_Modlite sa za to, aby evanjelium mohlo byť ohlasované vo všetkých kultúrach a komunitách po celom svete. Ďakujeme za vaše misijné dary, ktoré pomáhajú šíriť evanjelium aj na miestach, kde to doteraz nebolo možné. Nelsona Silvu môžete vidieť hrať na akordeóne na YouTube videu cez odkaz: [bit.ly/Nelson-Silva](https://bit.ly/Nelson-Silva)._
+
+![Nelson Silva](picture08.jpg)  
+Nelson Silva
