@@ -8,4 +8,6 @@ yt-dlp "https://www.youtube.com/watch?v=PlpMk6TC2mU" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=4kip6dASfNc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2025-01-07.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=GpVYZQP97h8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2025-01-07.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=6VckEsdmXHo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2025-01-08.mp4"
