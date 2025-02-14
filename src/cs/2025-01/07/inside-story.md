@@ -34,3 +34,6 @@ Doma Grace otevřela materiály ke studiu Bible v sobotní škole a začala čí
 Když se podívala nahoru, uviděla na lednici obrázek z omalovánky. Obrázek jí daroval žák páté třídy a byl na něm vyobrazen Ježíšův kříž a slova z Janova evangelia 3,16. „To jsi udělal pro nás, Ježíši,“ řekla Grace. „Protože jsi to udělal, jsi dobrý. Jsi opravdu dobrý. Mohu Ti důvěřovat, i když neznám odpovědi na všechny své otázky.“
 
 _Tento misijní příběh nabízí pohled na předchozí projekt třinácté soboty. Grace Babcock učí žáky americké adventistické indiánské základní školy v Holbrook, která obdržela část darů ze sbírky třinácté soboty v roce 2021. Děkujeme, že 29. března podpoříte šíření evangelia prostřednictvím darů třinácté soboty v tomto čtvrtletí._
+
+![Grace Babcock](picture07.jpg)  
+Grace Babcock

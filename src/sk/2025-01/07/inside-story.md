@@ -30,3 +30,6 @@ Keď prišla domov, otvorila úlohu sobotnej školy a začala čítať. Zrazu po
 Zdvihla zrak. Do očí jej padol obrázok z omaľovánky, ktorý mala pripnutý na chladničke. Dostala ho od žiaka piatej triedy. Bol na ňom nakreslený Ježišov kríž a napísaný verš Ján 3,16. „Ježiš, ty si to urobil pre nás,“ povedala Grace. „Keďže si to urobil, si dobrý. Naozaj si dobrý Boh. Aj keď nemám odpovede na všetky svoje otázky, môžem ti dôverovať.“
 
 _Tento misijný príbeh dokumentuje jeden z projektov financovaných z darov trinástej soboty. Grace Babcocková učí žiakov na Základnej škole Cirkvi adventistov s. d. Holbrook v Indii, ktorej boli určené prostriedky zo zbierky v roku 2021. Ďakujeme, že aj tento štvrťrok budete podporovať šírenie evanjelia prostredníctvom darov trinástej soboty._
+
+![Grace Babcock](picture07.jpg)  
+Grace Babcock
