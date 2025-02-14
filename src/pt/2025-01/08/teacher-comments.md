@@ -61,4 +61,4 @@ Mesmo quando não seguimos os desejos de Deus para nossa vida, Ele pode transfor
 
 `3. Como podemos explicar às crianças, de forma adequada, que nem tudo o que acontece representa a vontade direta de Deus?`
 
-`notes`
+`Notas`
