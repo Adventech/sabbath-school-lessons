@@ -2,6 +2,16 @@ yt-dlp "https://www.youtube.com/watch?v=7Nq8ddProX4" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=8PRkoBBY9IQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-01-08.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=rsEbi7qGvYw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2025-01-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=mSVeRTHYsGs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-01-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Q-uCy_NLZcc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-01-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=2K8n9bztev0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-01-08.mp4"
+
+yt-dlp "https://youtu.be/YN8Ht3-UqS0?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-01-08.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=xnjRT6tkBW4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-01-inv-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=zP5P1n90S_A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2025-01-08.mp4"
@@ -22,6 +32,6 @@ yt-dlp "https://www.youtube.com/watch?v=KnCAlKvDu2c" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=SbWr6C98Llw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-01-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=mSVeRTHYsGs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-01-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=rL9eWGagZeU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2025-01-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=QkrLFTUV__g" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2025-01-08.mp4"
