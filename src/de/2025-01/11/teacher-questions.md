@@ -108,5 +108,53 @@ einen großen Zorn und weiß, dass er wenig Zeit hat."*
 
 **DIENSTAG**
 
+**ZITAT (Lektion Seite 112):** *"Wir haben einen Rahmen für den
+kosmischen Konflikt gesehen, der darauf hinweist, dass Gott handelte, um
+den freien Willen zu respektieren... Darüber hinaus hat er
+offensichtlich innerhalb moralischer Zwänge und Spielregeln gehandelt,
+und zwar im Rahmen eines kosmischen Streits über sein Wesen, der nur
+durch die Demonstration seiner Liebe beigelegt werden kann."*
+
+-   Eine durchaus bemerkenswerte Aussage! Von welchen Zwängen oder
+    Spielregeln ist hier die Rede?
+    -   Könnte man sie mit den sogenannten Naturgesetzen vergleichen?
+        Begründet eure Ansicht!
+-   Es ist ja nirgendwo in der Bibel wörtlich darüber berichtet, wie
+    Luzifer damals im Himmel - als das Böse seinen Ausgang nahm - Gottes
+    Wesen in Frage gestellt hat. Es ist uns keine wörtliche
+    "Anklageschrift" in der Bibel überliefert. Nicht einmal eine
+    Zusammenfassung davon. Woraus können wir rückschließen, dass es
+    darum ging? Welche Wesenszüge Gottes wurden in Frage gestellt?
+
+**Jesaja 5,1-4:** *"1 Wohlan, ich will von meinem lieben Freunde singen,
+ein Lied von meinem Freund und seinem Weinberg. Mein Freund hatte einen
+Weinberg auf einer fetten Höhe. 2 Und er grub ihn um und entsteinte ihn
+und pflanzte darin edle Reben. Er baute auch einen Turm darin und grub
+eine Kelter und wartete darauf, dass er gute Trauben brächte; aber er
+brachte schlechte. 3 Nun richtet, ihr Bürger zu Jerusalem und ihr Männer
+Judas, zwischen mir und meinem Weinberg! 4 Was sollte man noch mehr tun
+an meinem Weinberg, das ich nicht getan habe an ihm? Warum hat er denn
+schlechte Trauben gebracht, während ich darauf wartete, dass er gute
+brächte?"*
+
+Zur Ergänzung die **Verse 5-7**: *"Wohlan, ich will euch zeigen, was ich
+mit meinem Weinberg tun will! Sein Zaun soll weggenommen werden, dass er
+kahl gefressen werde, und seine Mauer soll eingerissen werden, dass er
+zertreten werde. 6 Ich will ihn wüst liegen lassen, dass er nicht
+beschnitten noch gehackt werde, sondern Disteln und Dornen darauf
+wachsen, und will den Wolken gebieten, dass sie nicht darauf regnen. 7
+Des HERRN Zebaoth Weinberg aber ist das Haus Israel und die Männer Judas
+seine Pflanzung, an der sein Herz hing. Er wartete auf Rechtsspruch,
+siehe, da war Rechtsbruch, auf Gerechtigkeit, siehe, da war Geschrei
+über Schlechtigkeit."*
+
+-   Es ist zwar von Gott und dem Volk Israel die Rede, aber der
+    Lektionsschreiber weitet das auf die ganze Welt aus. In diesem
+    Sinne: Was **hat** Gott für diese Welt getan? Gibt es irgendetwas,
+    was er noch mehr hätte tun können?
+-   Was hat er für euch persönlich getan?
+
+**MITTWOCH**
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
