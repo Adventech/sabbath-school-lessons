@@ -156,5 +156,49 @@ siehe, da war Rechtsbruch, auf Gerechtigkeit, siehe, da war Geschrei
 
 **MITTWOCH**
 
+**Matthäus 21,33-39:** *"Hört ein anderes Gleichnis: Es war ein
+Hausherr, der pflanzte einen Weinberg und zog einen Zaun darum und grub
+eine Kelter darin und baute einen Turm und verpachtete ihn an
+Weingärtner und ging außer Landes. 34 Als nun die Zeit der Früchte
+herbeikam, sandte er seine Knechte zu den Weingärtnern, damit sie seine
+Früchte empfingen. 35 Da nahmen die Weingärtner seine Knechte: Den einen
+schlugen sie, den zweiten töteten sie, den dritten steinigten sie. 36
+Abermals sandte er andere Knechte, mehr als die ersten; und sie taten
+mit ihnen dasselbe. 37 Zuletzt aber sandte er seinen Sohn zu ihnen und
+sagte sich: Sie werden sich vor meinem Sohn scheuen. 38 Als aber die
+Weingärtner den Sohn sahen, sprachen sie zueinander: Das ist der Erbe;
+kommt, lasst uns ihn töten und sein Erbe an uns bringen! 39 Und sie
+nahmen ihn und stießen ihn zum Weinberg hinaus und töteten ihn."*
+
+-   Wieso ist es so außergewöhnlich und bemerkenswert, dass Gott sogar
+    seinen Sohn sandte?
+
+**ZITAT (Lektion Seite 114):** *"Während die Menschen in diesem
+kosmischen Konflikt sehr leiden, leidet Gott am meisten. Wenn wir das
+Kreuz betrachten, können wir in der Tat sehen, welches Leid und welchen
+Schmerz die Sünde Gott zugefügt hat."*
+
+-   Wie mag es bei einem Menschen, der leidet, ankommen - selbst wenn er
+    gläubig ist -, wenn man ihm sagt, er leide zwar, aber Gott leide
+    **noch mehr**?
+    -   Wird hier der Leidenden nicht geradezu verhöhnt?
+        -   Inwieweit kann/soll das Leiden Gottes jenes der Menschen
+            erleichtern?
+-   Welches Leid, welchen Schmerz fügt die Sünde Gott zu?
+
+*Anmerkung:* Mir gehen diese Fragen durch den Kopf genau drei Tage,
+nachdem ein Muslim einen 14-jährigen Buben in meiner Stadt ermordet hat.
+Vom Fenster meiner Ordination sehe ich auf das nur 100 Meter entfernte
+Kerzenmeer am Ort der Untat. Da ist Leid nicht mehr weit weg, nicht
+abstrakt, sondern unerträglich real. Und die Fragen viel größer als die
+Antworten...
+
+-   Wie können wir als gläubige Menschen damit klarkommen?
+
+⇒ Siehe oben: *"Glauben heißt, ein Leben lang die Unbegreiflichkeit
+Gottes aushalten."* (Karl Rahner)
+
+**DONNERSTAG**
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
