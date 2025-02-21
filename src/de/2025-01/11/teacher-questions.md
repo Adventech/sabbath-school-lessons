@@ -108,5 +108,97 @@ einen großen Zorn und weiß, dass er wenig Zeit hat."*
 
 **DIENSTAG**
 
+**ZITAT (Lektion Seite 112):** *"Wir haben einen Rahmen für den
+kosmischen Konflikt gesehen, der darauf hinweist, dass Gott handelte, um
+den freien Willen zu respektieren... Darüber hinaus hat er
+offensichtlich innerhalb moralischer Zwänge und Spielregeln gehandelt,
+und zwar im Rahmen eines kosmischen Streits über sein Wesen, der nur
+durch die Demonstration seiner Liebe beigelegt werden kann."*
+
+-   Eine durchaus bemerkenswerte Aussage! Von welchen Zwängen oder
+    Spielregeln ist hier die Rede?
+    -   Könnte man sie mit den sogenannten Naturgesetzen vergleichen?
+        Begründet eure Ansicht!
+-   Es ist ja nirgendwo in der Bibel wörtlich darüber berichtet, wie
+    Luzifer damals im Himmel - als das Böse seinen Ausgang nahm - Gottes
+    Wesen in Frage gestellt hat. Es ist uns keine wörtliche
+    "Anklageschrift" in der Bibel überliefert. Nicht einmal eine
+    Zusammenfassung davon. Woraus können wir rückschließen, dass es
+    darum ging? Welche Wesenszüge Gottes wurden in Frage gestellt?
+
+**Jesaja 5,1-4:** *"1 Wohlan, ich will von meinem lieben Freunde singen,
+ein Lied von meinem Freund und seinem Weinberg. Mein Freund hatte einen
+Weinberg auf einer fetten Höhe. 2 Und er grub ihn um und entsteinte ihn
+und pflanzte darin edle Reben. Er baute auch einen Turm darin und grub
+eine Kelter und wartete darauf, dass er gute Trauben brächte; aber er
+brachte schlechte. 3 Nun richtet, ihr Bürger zu Jerusalem und ihr Männer
+Judas, zwischen mir und meinem Weinberg! 4 Was sollte man noch mehr tun
+an meinem Weinberg, das ich nicht getan habe an ihm? Warum hat er denn
+schlechte Trauben gebracht, während ich darauf wartete, dass er gute
+brächte?"*
+
+Zur Ergänzung die **Verse 5-7**: *"Wohlan, ich will euch zeigen, was ich
+mit meinem Weinberg tun will! Sein Zaun soll weggenommen werden, dass er
+kahl gefressen werde, und seine Mauer soll eingerissen werden, dass er
+zertreten werde. 6 Ich will ihn wüst liegen lassen, dass er nicht
+beschnitten noch gehackt werde, sondern Disteln und Dornen darauf
+wachsen, und will den Wolken gebieten, dass sie nicht darauf regnen. 7
+Des HERRN Zebaoth Weinberg aber ist das Haus Israel und die Männer Judas
+seine Pflanzung, an der sein Herz hing. Er wartete auf Rechtsspruch,
+siehe, da war Rechtsbruch, auf Gerechtigkeit, siehe, da war Geschrei
+über Schlechtigkeit."*
+
+-   Es ist zwar von Gott und dem Volk Israel die Rede, aber der
+    Lektionsschreiber weitet das auf die ganze Welt aus. In diesem
+    Sinne: Was **hat** Gott für diese Welt getan? Gibt es irgendetwas,
+    was er noch mehr hätte tun können?
+-   Was hat er für euch persönlich getan?
+
+**MITTWOCH**
+
+**Matthäus 21,33-39:** *"Hört ein anderes Gleichnis: Es war ein
+Hausherr, der pflanzte einen Weinberg und zog einen Zaun darum und grub
+eine Kelter darin und baute einen Turm und verpachtete ihn an
+Weingärtner und ging außer Landes. 34 Als nun die Zeit der Früchte
+herbeikam, sandte er seine Knechte zu den Weingärtnern, damit sie seine
+Früchte empfingen. 35 Da nahmen die Weingärtner seine Knechte: Den einen
+schlugen sie, den zweiten töteten sie, den dritten steinigten sie. 36
+Abermals sandte er andere Knechte, mehr als die ersten; und sie taten
+mit ihnen dasselbe. 37 Zuletzt aber sandte er seinen Sohn zu ihnen und
+sagte sich: Sie werden sich vor meinem Sohn scheuen. 38 Als aber die
+Weingärtner den Sohn sahen, sprachen sie zueinander: Das ist der Erbe;
+kommt, lasst uns ihn töten und sein Erbe an uns bringen! 39 Und sie
+nahmen ihn und stießen ihn zum Weinberg hinaus und töteten ihn."*
+
+-   Wieso ist es so außergewöhnlich und bemerkenswert, dass Gott sogar
+    seinen Sohn sandte?
+
+**ZITAT (Lektion Seite 114):** *"Während die Menschen in diesem
+kosmischen Konflikt sehr leiden, leidet Gott am meisten. Wenn wir das
+Kreuz betrachten, können wir in der Tat sehen, welches Leid und welchen
+Schmerz die Sünde Gott zugefügt hat."*
+
+-   Wie mag es bei einem Menschen, der leidet, ankommen - selbst wenn er
+    gläubig ist -, wenn man ihm sagt, er leide zwar, aber Gott leide
+    **noch mehr**?
+    -   Wird hier der Leidenden nicht geradezu verhöhnt?
+        -   Inwieweit kann/soll das Leiden Gottes jenes der Menschen
+            erleichtern?
+-   Welches Leid, welchen Schmerz fügt die Sünde Gott zu?
+
+*Anmerkung:* Mir gehen diese Fragen durch den Kopf genau drei Tage,
+nachdem ein Muslim einen 14-jährigen Buben in meiner Stadt ermordet hat.
+Vom Fenster meiner Ordination sehe ich auf das nur 100 Meter entfernte
+Kerzenmeer am Ort der Untat. Da ist Leid nicht mehr weit weg, nicht
+abstrakt, sondern unerträglich real. Und die Fragen viel größer als die
+Antworten...
+
+-   Wie können wir als gläubige Menschen damit klarkommen?
+
+⇒ Siehe oben: *"Glauben heißt, ein Leben lang die Unbegreiflichkeit
+Gottes aushalten."* (Karl Rahner)
+
+**DONNERSTAG**
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
