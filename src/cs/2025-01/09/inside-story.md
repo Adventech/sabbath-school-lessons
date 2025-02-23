@@ -3,7 +3,7 @@ title:  Misijní příběh
 date:   28/02/2025
 ---
 
-#### Vytrvalý volající: Část 1
+#### Vytrvalý volající: Část 1.
 
 _Andrew McChesney_
 
@@ -39,7 +39,7 @@ Colette se zeptala, jak často může volat, a Matrona navrhla, že jednou týdn
 
 Colette cítila, že je Matrona naštvaná, ale nechápala proč. Rozhodla se, že bude volat každý týden, ať už Matrona bude chtít mluvit, nebo ne. Když volala dál s bezpodmínečnou láskou, Matronino srdce začalo tát.
 
-_Tento misijní příběh nabízí pohled na předchozí projekt Třinácté soboty. Pediatrička Colette Reahl je také spoluvedoucí ve sboru Církve adventistů sedmého dne v Bethel na Aljašce, která obdržela část darů třinácté soboty v roce 2024. Děkujeme vám, že 29. března pomůžete šířit evangelium prostřednictvím darů třinácté soboty i v tomto čtvrtletí._
+_Tento misijní příběh nabízí pohled na předchozí projekt Třinácté soboty. Pediatrička Colette Reahl je také spoluvedoucí ve sboru Církve adventistů sedmého dne v Bethel na Aljašce, který obdržel část darů třinácté soboty v roce 2024. Děkujeme vám, že 29. března pomůžete šířit evangelium prostřednictvím darů třinácté soboty i v tomto čtvrtletí._
 
 _Více o Colette a Matroně se dozvíte příští týden._
 
