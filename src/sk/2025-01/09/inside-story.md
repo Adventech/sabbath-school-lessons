@@ -36,3 +36,5 @@ Colette sa jej spýtala, ako často by si mohli telefonovať. Matrona navrhla ra
 Colette cítila, že Matronu to otravuje, ale nechápala prečo. Rozhodla sa, že jej bude volať každý týždeň bez ohľadu na to, či Matrona sa s ňou bude chcieť rozprávať alebo nie. Čím dlhšie jej volávala a dávala pociťovať bezpodmienečnú lásku, tým viac sa Matronine srdce roztápalo.
 
 _Tento misijný príbeh dokumentuje jeden z projektov financovaných z darov poslednej trinástej soboty. Pediatrička Colette Reahlová je vo vedení zboru Bethel Cirkvi adventistov siedmeho dňa, ktorému boli určené dary v roku 2024. Ďakujeme, že pomôžete šíriť evanjelium aj prostredníctvom darov trinástej soboty v tomto štvrťroku, ktoré budú vyzbierané 29. marca. Pokračovanie príbehu na budúci týždeň._
+
+![Colette and Matrona](picture09.jpg)
