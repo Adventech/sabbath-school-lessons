@@ -60,4 +60,8 @@ yt-dlp "https://youtu.be/Yy9o_Gpa8C0?feature=shared" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://youtu.be/y9rRzxMTJtA?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2025-01-09.mp4"
 
+yt-dlp "https://youtu.be/hdV52Y1J8nE?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2025-01-09.mp4"
+
+yt-dlp "https://youtu.be/uLYZXoD64kY?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-01-09.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=bTK4vwTgrTY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2025-01-09.mp4"
