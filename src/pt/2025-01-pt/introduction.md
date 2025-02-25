@@ -1,0 +1,21 @@
+### O Deus De Amor E De Justiça
+
+Deus é amor. Assim o diz I João 4:8 e 4:16. Toda a Bíblia testifica deste facto. A fé cristã está centrada no caráter de amor de Deus. O amor está no centro do que Deus é, está no centro de tudo o que cremos e deveria estar no centro de tudo o que fazemos. Assim sendo, o modo como entendemos o amor afeta toda a nossa fé e toda a nossa prática. Se, por exemplo, alguém crê que o amor de Deus deve ser ganho ou merecido, essa pessoa pode pensar que Deus não a ama porque ela é pecadora e indigna. E, em relação aos outros, alguém pode esperar que os outros mereçam o amor – uma receita segura para o desastre.
+
+Deste e de muitos outros modos, a forma como compreendemos o amor de Deus tem implicações enormes para a nossa fé e para a nossa prática. No entanto, o que é o amor? Se pedir a dez pessoas diferentes para que definam o amor, poderá obter dez respostas diferentes. Mesmo entre os Cristãos, existem muitos mitos e muitas incompreensões sobre o amor de Deus.
+
+Por exemplo, os Cristãos dão respostas diferentes a perguntas como:
+
+“Será que o amor de Deus apenas dá, mas nunca recebe? É o amor divino puramente abnegado ou poderá Deus também deleitar-Se com os seres humanos e agradar -Se com eles? O amor de Deus é emocional? Será que Deus realmente Se preocupa com os seres humanos? Pode o amor de Deus ser rejeitado ou perdido? Será que Deus entra numa relação de amor interativa com as Suas criaturas? É a ira compatível com o amor? Como é que o amor e a justiça coexistem? Se Deus é amor, por que razão existe o mal neste mundo, e em tão grande escala? Podem os seres humanos amar do modo que Deus ama? Em caso afirmativo, que aspeto teria esse amor?”
+
+As respostas a algumas destas perguntas podem parecer óbvias, mas são frequentemente colocadas em questão nas discussões cristãs sobre o amor divino. E muitas respostas que são, por vezes, tidas como óbvias, vistas de perto, acabam por se revelar incompatíveis com aquilo que a Escritura ensina acerca do amor de Deus.
+
+Nós não vamos abordar todas estas questões de uma só vez, mas pegaremos nestas e noutras questões ao longo deste Trimestre. E veremos que o amor de Deus é muito maior do que poderíamos pensar. O amor de Deus tal como está descrito na Escritura é muitíssimo superior às ideias que passam por descrição do “amor” em muito do nosso mundo de hoje. Nas próximas semanas, vamos ver mais de perto alguns dos mais destacados e belos aspetos do amor de Deus que são revelados na Bíblia.
+
+E, ao prosseguirmos, veremos como o amor e a justiça divinos estão indissociavelmente ligados. O Deus da Bíblia ama a justiça (ver, por exemplo, Isaías 61:8). E, tal como a Bíblia os retrata, o amor divino e a justiça divina estão de tal modo juntos que não se pode ter um sem ter o outro. Porque Deus é amor, Ele está profundamente preocupado com a injustiça e com o sofrimento neste mundo, e Ele identifica-Se com os oprimidos e com os sofredores, participando de bom grado na dor e no desgosto que o mal forjou no seio da Criação – Ele mesmo sofrendo mais do que todos, de tal forma que o próprio Deus é a maior Vítima do mal.
+
+Ao longo de toda a Bíblia, Deus é repetidamente magoado e ferido pelo mal e pelo sofrimento, porque Ele ama cada pessoa mais do que podemos imaginar. Pode-se ver a profundidade do amor de Deus no lamento de Cristo sobre o Seu povo quando Ele disse: “Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! Quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas, e tu não quiseste!” (Mateus 23:37.)
+
+O Deus da Bíblia, que é amor, é frequentemente retratado por toda a Escritura como estando triste e desgostoso pelo amor rejeitado e pelo amor perdido. Toda a história da Escritura versa sobre o que Deus fez e está a fazer para restaurar o amor em cada canto e em cada fenda do Universo. Isto, e muito mais do que isto, será o tópico das lições deste Trimestre.
+
+_John C. Peckham é editor-associado da Adventist Review. Quando este Manual de Estudo foi escrito, John C. Peckham era Professor de Teologia e de Filosofia Cristã no Seminário Adventista do Sétimo Dia da Universidade Andrews._

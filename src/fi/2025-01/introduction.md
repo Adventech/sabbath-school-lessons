@@ -1,0 +1,21 @@
+### Rakkauden ja oikeudenmukaisuuden Jumala
+
+Jumala on rakkaus. Niin sanotaan 1. Joh. 4:8 ja 16. Koko Raamattu todistaa tästä tosiasiasta. Jumalan rakastava luonne on kristinuskon keskiössä. Rakkaus on sen ytimessä, kuka Jumala on, kaiken sen ytimessä, mihin uskomme, ja sen pitäisi olla myös sen kaiken ytimessä, mitä teemme. Näin ollen se, miten ymmärrämme rakkauden, vaikuttaa kaikkeen uskossamme ja käytänteissämme. Jos esimerkiksi uskoo, että Jumalan rakkaus on ansaittava tai saavutettava, ihminen saattaa ajatella, että Jumala ei rakasta häntä, koska hän on syntinen ja kelvoton. Ja suhteessa toisiin ihmisiin hän saattaa odottaa, että muiden on ansaittava rakkaus – siinä on katastrofin ainekset.
+
+Tällä ja monilla muilla tavoilla sillä, miten ymmärrämme Jumalan rakkauden, on valtavia vaikutuksia uskomme ja käytänteidemme kannalta. Mitä rakkaus sitten on? Jos pyydät kymmentä ihmistä määrittelemään rakkauden, saatat saada kymmenen erilaista vastausta. Jopa kristittyjen keskuudessa on monia myyttejä ja väärinkäsityksiä Jumalan rakkaudesta.
+
+Kristityt vastaavat eri tavoin esimerkiksi seuraaviin kysymyksiin:
+
+Onko Jumalan rakkaus aina vain antavana osapuolena, mutta ei koskaan vastaanottamassa? Onko jumalallinen rakkaus puhtaasti uhrautuvaa, vai voisiko Jumala myös iloita ihmisistä ja ilahtua heistä? Onko Jumalan rakkaus tunteellista? Välittääkö Jumala todella ihmisistä? Voiko Jumalan rakkauden hylätä tai menettää? Soutaako ja huopaako Jumala edestakaisin rakkaussuhteessaan luotujensa kanssa? Onko viha ristiriidassa rakkauden kanssa? Miten rakkaus ja oikeudenmukaisuus sopivat yhteen? Jos Jumala on rakkaus, miksi maailmassa on pahuutta, ja vieläpä niin paljon? Voivatko ihmiset rakastaa samalla tavalla kuin Jumala? Jos näin on, miltä se näyttäisi?
+
+Vastaukset joihinkin näistä kysymyksistä saattavat tuntua itsestään selviltä, mutta usein niistä kiistellään kristillisissä piireissä puhuttaessa jumalallisesta rakkaudesta. Monet vastaukset, joita joskus pidetään itsestään selvinä, osoittautuvat lähempää tarkasteltaessa yhteensopimattomiksi sen kanssa, mitä Raamattu opettaa Jumalan rakkaudesta.
+
+Emme käsittele kaikkia näitä kysymyksiä kerralla, vaan paneudumme niihin ja muihin kysymyksiin tämän neljänneksen aikana. Tulemme näkemään, että Jumalan rakkaus on paljon suurempaa kuin saatamme ajatella. Jumalan rakkaus, sellaisena kuin se kuvataan Raamatussa, on ylivoimainen verrattuna niihin käsityksiin, joita kutsutaan ”rakkaudeksi” suuressa osassa nykymaailmaa. Tulevina viikkoina tarkastelemme tarkemmin joitakin Jumalan rakkauden merkittävimpiä ja kauneimpia puolia, jotka ilmaistaan Raamatussa.
+
+Jatkossa näemme myös, miten jumalallinen rakkaus ja oikeudenmukaisuus liittyvät erottamattomasti toisiinsa. Raamatun Jumala rakastaa oikeudenmukaisuutta (ks. esimerkiksi Jes. 61:8). Niin kuin Raamattu kuvaa niitä, jumalallinen rakkaus ja oikeudenmukaisuus kuuluvat yhteen siten, ettei toista voi olla ilman toista. Koska Jumala on rakkaus, hän on syvästi huolissaan epäoikeudenmukaisuudesta ja kärsimyksestä tässä maailmassa, ja hän samaistuu sorrettuihin ja kärsiviin, astuu vapaaehtoisesti mukaan siihen tuskaan ja suruun, jota paha on aiheuttanut luomakunnassa – hän kärsii kaikkein eniten itse. Jopa niin, että Jumala itse on suurin pahuudesta kärsivä uhri.
+
+Kautta koko Raamatun Jumala on toistuvasti surullinen ja tuskissaan pahuudesta ja kärsimyksestä, koska hän rakastaa jokaista ihmistä enemmän kuin voimme kuvitellakaan. Jumalan rakkauden syvyyden voi nähdä Kristuksen valittaessa kansansa puolesta: ”Jerusalem, Jerusalem! Sinä tapat profeetat ja kivität ne, jotka on lähetetty sinun luoksesi. Miten monesti olenkaan tahtonut koota lapsesi, niin kuin kanaemo kokoaa poikaset siipiensä suojaan! Mutta te ette tahtoneet tulla.” (Matt. 23:37.)
+
+Raamatun Jumala, joka on rakkaus, kuvataan pyhissä kirjoituksissa usein sydän särkyneenä ja murheellisena hylätyn ja menetetyn rakkauden vuoksi. Raamatun koko kertomus kertoo siitä, mitä Jumala on tehnyt ja tekee palauttaakseen rakkauden maailmankaikkeuden jokaiseen nurkkaan ja rakoon. Tämä ja paljon muuta on tämän vuosineljänneksen raamattutuntien aiheena.
+
+_John C. Peckham on Adventist Review -lehden apulaispäätoimittaja. Tätä Raamatun Sanomaa kirjoitettaessa hän oli systemaattisen teologian ja kristillisen filosofian professorina Andrewsin yliopistossa._

@@ -17,8 +17,8 @@ Begegnungen mit einzelnen Menschen weiter.
 
 **Johannes 1,29-34**
 
--   Nächster Tag: Johannes gibt noch einmal Zeugnis von Jesus -- was
-    sagt er uns?
+-   Nächster Tag: Johannes gibt noch einmal Zeugnis von Jesus – was sagt
+    er uns?
 -   Welche Aspekte des Lammes werden in diesen Texten aufgegriffen? (Was
     lernen wir alles über das Lamm?)
 -   Inwieweit kann uns Johannes mit seinem liebevollen Fingerzeig auf
@@ -28,7 +28,7 @@ Begegnungen mit einzelnen Menschen weiter.
 
 -   Joh 1,35-39: Nun bringt das Zeugnis von Johannes dem Täufer Frucht
     bei denen, die ihm zuhören. Was passiert da genau?
--   Joh 1, 40-42: Andreas geht zuerst zu seinem Bruder... Was zeigt uns
+-   Joh 1, 40-42: Andreas geht zuerst zu seinem Bruder… Was zeigt uns
     das?
 -   Joh 1,43-46 Wie reagiert Philippus auf Jesu Ruf zur Nachfolge, und
     wie reagiert Nathanael?
@@ -58,4 +58,5 @@ Begegnungen mit einzelnen Menschen weiter.
     aufgewachsen bin?
 -   Was lernen wir aus der Geschichte von Nikodemus für uns heute?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at

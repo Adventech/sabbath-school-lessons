@@ -1,0 +1,60 @@
+---
+title:  Komen Guru
+date:  10/01/2025
+---
+
+#### Bahagian I: Pandangan Keseluruhan
+
+**Ayat-ayat Utama**: Yohanes 14:23
+
+Tumpuan Kajian:Deut. 7:9, Mzm. 145:9, Yeh. 33:11, Mat. 18:23-35, 2 Ptr. 3:9, Yudas 21.
+
+Pengenalan: Kasih Tuhan adalah sangat berhubungan. Hubungan yang penuh kasih sayang dan intim dengan Tuhan tidak boleh wujud tanpa timbal balik manusia sebagai tindak balas kepada kebaikan kasih sayangNya.
+
+Tema Pelajaran: Pelajaran minggu ini memfokuskan kepada tiga idea utama.
+
+1. Kasih Tuhan tidak bersyarat: Tuhan mengasihi semua orang dan ingin mewujudkan hubungan yang saling mengikat. Manifestasi kasih-Nya tidak bergantung kepada tindakan manusia atau terhad kepada jenis orang tertentu. Dia melihat nilai dalam setiap orang dan menganggap dia sebagai objek rahmat-Nya.
+
+2. Kasih Tuhan bermaksud untuk memulakan hubungan bersyarat: Kemurahan kasih sayang Tuhan adalah universal dan tidak bersyarat, tetapi Dia ingin mempunyai hubungan khusus dan intim dengan manusia, yang membayangkan syarat. Iaitu, Dia mengharapkan balasan kepada kasih yang mereka terima daripada-Nya, kasih yang sepadan secara spontan dalam bentuk ketaatan dan kesetiaan.
+
+3. Kasih Tuhan bertujuan untuk dicerminkan dalam hubungan manusia: Tuhan secara universal mencari hubungan kasih timbal balik; satu penerusan hubungan intim membayangkan tindak balas manusia yang sesuai. Di pihak manusia pada kasih yang mengekalkan perjanjian itu melibatkan mematuhi perintah Tuhan dan mengasihi satu sama lain, yang merupakan aktiviti manusia, yang diperkasakan oleh oleh kasih Tuhan.
+
+Aplikasi Kehidupan: Tuhan ingin memiliki satu hubungan kasih sayang dengan manusia, tetapi hubungan ini memerlukan tindak balas dan ketaatan yang tulus dari pihak kita. Minta pada ahli kelas anda untuk merenung secara senyap tentang apa yang membahayakan hubungan kasih perjanjian mereka dengan Tuhan (dan dengan orang lain).
+
+#### Bahagian II: Ulasan
+
+1. Kasih Tuhan Tidak Bersyarat.
+
+Mazmur 145:8, 9 menyoroti realiti kasih Tuhan yang luar biasa dan menyeluruh: “TUHAN itu pengasih dan penyayang, lambat untuk marah dan penuh kasih setia. TUHAN itu baik kepada semua orang, dan rahmat-Nya meliputi segala sesuatu yang dijadikan-Nya” (AVB). Idea kasih dalam petikan ini dinyatakan dari segi kemurahan, belas kasihan, kesabaran, kasih sayang, dan kebaikan. Senarai ini menggemakan penyataan kemuliaan dan tabiat Tuhan kepada Musa dalam Keluaran 34:6. Dalam Mazmur 145:8, istilah Ibrani khesed, yang juga muncul dalam Keluaran 34:6, diterjemahkan oleh AVB sebagai “pengasihan” dan diterjemahkan sebagai kasih dalam beberapa versi lain: “kasih setia” (ATB), “kasih” (ABB), dan “kemurahan” (ATL). Istilah khesed menyampaikan satu pengertian tentang ketaatan, kesetiaan, kebaikan, dan kemurahan hati (Ludwig Koehler et al., The Hebrew and Aramaic Lexicon of the Old Testament [Leiden: Brill, 1994–2000], ms. 336, 337), dan tergolong dalam domain semantik tentang kasih (taat/setia) (James Swanson, Dictionary of Biblical Languages With Semantic Domains: Hebrew [Old Testament] [Oak Harbor: Logos Research Systems, Inc., 1997)].
+
+Realiti kasih Tuhan yang menyeluruh ditekankan dengan lebih tepat dalam Mazmur 145:9, yang menggariskan bahawa “TUHAN itu baik kepada semua orang.” Skop universal kebaikan ilahi yang dinyatakan dalam ayat ini secara tersirat menunjukkan bahawa kasih Tuhan tidak bersyarat; iaitu ia tidak bergantung pada tindakan atau tindak balas manusia. Dalam Mazmur 145, bahasa universal digunakan dalam ayat 12 untuk menggambarkan “anak-anak manusia,” yang sepatutnya mendengar tentang perbuatan-perbuatan Tuhan yang menakjubkan. Lebih-lebih lagi, Mazmur 145:15 menggambarkan “semua mata” memandang Tuhan dengan harapan dan menerima daripada-Nya “makanan tepat pada musimnya” (AVB). Kemudian, Mazmur 145:16 menambahkan, “Engkau membuka tangan-Mu
+
+lalu memenuhi hasrat setiap makhluk hidup” (AVB). Akhirnya, Mazmur diakhiri dengan jemputan umum, yang menurutnya “Semua makhluk akan memberkati nama-Nya yang suci selama-lamanya” (Mazmur 145:21, AVB). Bahasa universal ini menonjolkan realiti kasih Tuhan yang menyeluruh dan sifatnya yang tidak bersyarat, kerana semua makhluk adalah objek rahmat-Nya.
+
+Gambaran tentang kasih Tuhan yang tidak bersyarat ini konsisten dengan idea di mana Tuhan berfirman “Aku tidak menyukai kematian orang fasiq. Aku mahu agar orang fasiq bertaubat daripada perilakunya” (Yeh. 33:11, AVB). Konsep sama yang ditegaskan dalam 2 Petrus 3:9, yang menunjukkan bahawa Tuhan “tidak mahu seorang pun binasa dan Dia ingin semuanya bertaubat” (AVB). Seperti yang ditunjukkan oleh 1 Timotius 2:4, Tuhan “berkehendakkan semua manusia diselamatkan” (AVB).
+
+2. Kasih Tuhan Bermaksud Memulakan Satu Hubungan Bersyarat.
+
+Walaupun Mazmur 145 menekankan realiti kasih Tuhan yang menyeluruh dan tidak bersyarat, namun Mazmur juga membezakan antara orang yang setia (Mzm. 145:10, 11) dan orang jahat (Mzm. 145:20). Tambahan pula, bab ini mengetengahkan hubungan Tuhan yang lebih spesifik dan bersyarat dengan mereka yang mencari dan melayani Dia. “TUHAN dekat dengan semua yang menyeru-Nya, semua yang menyeru-Nya dalam kebenaran. Dia akan memenuhi hasrat mereka yang takut kepada-Nya; Dia akan mendengar seruan mereka lalu menyelamatkan mereka” (Mzm. 145:18, 19, AVB). Menariknya, menurut Mazmur 145:20, perbezaan utama antara orang yang setia dan yang jahat adalah bahawa kumpulan yang pertama itu mengasihi Tuhan: “TUHAN memelihara semua yang mengasihi-Nya, tetapi semua orang zalim akan dimusnahkan-Nya” (AVB). Perbezaan ini menunjukkan bahawa walaupun kasih sayang Tuhan adalah universal dan tidak bersyarat, Dia ingin mempunyai hubungan kasih sayang dengan manusia secara individu, dan hubungan ini membayangkan syarat; iaitu ia tidak dapat diwujudkan tanpa timbal balik manusia yang penuh kasih terhadap kasih TUHAN. Yang pasti, kasih sayang TUHAN itu tidak bersyarat dan meliputi segala-galanya. Tetapi hubungan kasih sayang dengan-Nya adalah bersyarat, kerana hubungan kasih sayang tidak boleh benar-benar wujud jika manusia tidak membalas dengan kasih sayang kepada kasih yang mereka terima daripada Tuhan. Dalam erti kata lain, hubungan kasih sayang yang tulen membayangkan beberapa tahap timbal balik.
+
+Idea tentang ukuran timbal balik dalam hubungan kasih sayang yang tulen adalah penting untuk pemahaman tentang hubungan perjanjian Tuhan dengan umat-Nya. Pertama sekali, perjanjian ini berdasarkan kasih Tuhan yang tidak bersyarat. Seperti yang dinyatakan dalam Ulangan 7:6-8, mengenai Israel, “Kamu telah dipilih oleh TUHAN, TUHANmu, untuk menjadi umat kesayangan-Nya daripada semua bangsa yang ada di muka bumi. TUHAN terpaut kepadamu dan memilih kamu bukan kerana jumlahmu lebih besar daripada segala bangsa — sesungguhnya kamulah bangsa yang terkecil — melainkan kerana TUHAN mengasihi kamu” (AVB). Walau bagaimanapun, walaupun kasih Tuhan tidak berdasarkan pada apa Israel itu atau yang mereka lakukan, hubungan perjanjian antara Tuhan dan Israel memerlukan beberapa tahap timbal balik kasih sayang sebagai balasan kepada kasih Tuhan. Tuhan pasti memelihara perjanjian-Nya dengan kesetiaan dan belas kasihan. Respon yang mencukupi oleh orang ramai ialah mengasihi Tuhan dan mematuhi perintah-perintah-Nya. Seperti yang ditekankan oleh Ulangan 7:9, Tuhan adalah “setia,” dan “menunjukkan rahmat-Nya terhadap orang yang mengasihi-Nya serta yang berpegang teguh pada perintah-perintah-Nya, sampai beribu-ribu keturunan” (AVB).
+
+3. Kasih Tuhan Dimaksudkan Untuk Dipantulkan Dalam Hubungan Manusia.
+
+Jika hubungan dengan Tuhan kita yang pengasih (bukan kasih Tuhan itu sendiri, yang adalah kekal [Yer. 31:3]) adalah bersyarat, ia boleh ditiadakan, denbgan memperhatikan bahagian manusia di dalam hubungan itu. Contohnya, kerana kekejaman dan kejahatan Israel, Hosea 9:15 menggariskan bahawa hubungan kasih mereka dengan Tuhan tidak wujud lagi. Idea yang sama muncul dalam Yeremia 16:5. Roma 11:22 menggariskan tanggapan bahawa kesinambungan hubungan kasih sayang dengan Tuhan bergantung kepada manusia, yang sepatutnya “berterusan dalam belas ihsan-Nya” (AVB).   Dari perspektif keseluruhan inilah Yudas 21 merayu kepada orang percaya untuk “tetaplah dalam kasih Tuhan.” Di pihak manusia, hubungan yang penuh kasih dengan Tuhan melibatkan untuk mematuhi perintah-Nya (Yohanes 14:21) dan mengasihi satu sama lain (1 Yohanes 4:7). Perkara-perkara ini bukan semata-mata tindakan manusia, tetapi sebenarnya adalah aktiviti manusia yang diperkasakan oleh kasih Tuhan, yang telah terlebih dahulu mengasihi kita (1 Yohanes 4:19; bandingkan dengan 1 Yohanes 4:7).
+
+Perumpamaan tentang hamba yang tidak mengampuni dalam Matius 18:23-35 menunjukkan bahawa hubungan kasih Tuhan dengan kita boleh hilang jika kasih-Nya, yang mula-mula diberikan kepada kita, tidak digambarkan dalam hubungan kita dengan orang lain. Perumpamaan itu membandingkan tindakan pengampunan tuan yang penuh belas kasihan terhadap hambanya dengan kurangnya belas kasihan dan pengampunan, pada skala yang lebih kecil, oleh hamba yang sama ini terhadap sesama hamba yang lain. Sehubungan dengan percanggahan pada perbandingan ini, Yesus mengajar bahawa pengampunan Tuhan yang penuh kasih, yang diutamakan, bergantung pada sikap kita yang mengampuni terhadap orang lain. Dengan kata lain, hubungan kasih sayang dengan Tuhan secara bersyarat sepatutnya dicerminkan dalam hubungan sesama manusia (lihat Yohanes 15:12, 1 Yohanes 3:16, Yohanes 4:7-12). Jika tidak, hubungan kasih sayang kita dengan Tuhan akan terputus. Kemungkinan berlakunya keadaan yang malang ini tidak boleh dianggap sebagai syarat dingin di pihak Tuhan, tetapi sebagai kekurangan pemahaman yang serius, di pihak manusia, tentang kedalaman belas kasihan Tuhan. Seperti yang dinyatakan dalam Lukas 7:47, kesedaran tentang betapa kita telah diampuni oleh Tuhan dapat dilihat dalam ungkapan kasih kita terhadap orang lain. Oleh itu, jika kita tidak menyatakan kasih sayang kepada orang lain, kita tidak benar-benar memahami, atau tidak cukup menghargai, kedalaman kasih Tuhan terhadap kita.
+
+#### Bahagian III: Penerapan Hidup
+
+TUHAN mengasihi semua orang tanpa syarat. Apabila kita menerima dan membalas kasih-Nya, dalam erti kata membenarkan hubungan kasih sayang dengan-Nya, sebagai kesan praktikal pada hubungan kasih sayang kita dengan Tuhan, kita juga merasakan satu keinginan untuk menjalin hubungan kasih sayang dengan orang lain. Oleh itu, Tuhan bukan sahaja melimpahkan kasih sayang-Nya kepada makhluk-Nya tetapi juga membiarkan mereka bertindak balas (sama ada positif atau negatif) terhadap kasih-Nya dan bersedia untuk membolehkan setiap orang menyatakan kasih kepada-Nya dan kasih kepada orang lain. Berdasarkan idea ini, bincangkan soalan berikut:
+
+1.	Bagaimanakah kita boleh menunjukkan kasih sayang dan rasa hormat tanpa syarat kepada setiap manusia, tanpa mengira kedudukan sosial, katakter individu, atau pencapaian peribadi?
+
+2.	Fikirkan mengenai satu cerita yang menunjukkan perbezaan antara kasih tanpa syarat dan hubungan kasih yang bersyarat. Bagaimanakah contoh ini menggambarkan tanggapan tanpa syarat dan bersyarat dalam penjelasan kita tentang kasih Tuhan dan hubungan kasihNya dengan kita?
+
+3.	Hubungan kasih sayang kita dengan Tuhan membawa kita kepada keinginan dan keseronokan dalam berbuat baik kepada orang lain, yang berbeza dengan sikap tidak peduli terhadap keperluan orang lain. Bagaimanakah hubungan kita dengan Tuhan mengubah cara kita berkelakuan dan bertindak dengan orang dari keluarga, sekerja, dan kejiranan kita?
+
+4.	Bagaimanakah anda masih boleh menunjukkan kasih tanpa syarat kepada seseorang yang tidak mahu menjalinkan hubungan yang penuh hormat dan penyayang dengan anda? Adakah anda fikir sikap kasih tanpa syarat yang berterusan berpotensi mempengaruhi orang ini untuk mengubah fikirannya? Jelaskan.
+
+5.	Apakah yang boleh kita lakukan untuk mengikat bersama, dan menunjukkan, kasih sayang, rasa hormat, dan sokongan tanpa syarat untuk para remaja di dalam gereja kita? Bagaimanakah kita boleh membina jalinan yang positif antara generasi untuk satu hubungan yang lebih penyayang dengan golongan muda-mudi?

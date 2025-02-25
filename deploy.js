@@ -582,6 +582,8 @@ let quarterliesAPI = async function () {
       }
     }
 
+    existingQuarterlies = existingQuarterlies.filter(item => item !== null)
+
     existingQuarterlies = existingQuarterlies.sort(function (a, b) {
       let s = a.index,
           d = b.index;

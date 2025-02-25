@@ -1,0 +1,152 @@
+---
+  pdf:
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-INTRO.pdf'
+      target: zh/2025-01-kd/introduction
+      title: 簡介
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH1.pdf'
+      target: zh/2025-01-kd/01
+      title: 第01課
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH2.pdf'
+      target: zh/2025-01-kd/02
+      title: 第02課
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH3.pdf'
+      target: zh/2025-01-kd/03
+      title: 第03課
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH4.pdf'
+      target: zh/2025-01-kd/04
+      title: 第04課
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH5.pdf'
+      target: zh/2025-01-kd/05
+      title: 第05課
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH6.pdf'
+      target: zh/2025-01-kd/06
+      title: 第06課
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH7.pdf'
+      target: zh/2025-01-kd/07
+      title: 第07課
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH8.pdf'
+      target: zh/2025-01-kd/08
+      title: 第08課
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH9.pdf'
+      target: zh/2025-01-kd/09
+      title: 第09課
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH10.pdf'
+      target: zh/2025-01-kd/10
+      title: 第10課
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH11.pdf'
+      target: zh/2025-01-kd/11
+      title: 第11課
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH12.pdf'
+      target: zh/20255-01-pr/12
+      title: 第12課
+      start_date: 15/12/2025
+      end_date: 21/12/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-CH13.pdf'
+      target: zh/2025-01-kd/13
+      title: 第13課
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E5%AD%A6%E7%94%9F%E6%9C%AC/K-B-Q1-S-ACTIVITY.pdf'
+      target: zh/2025-01-kd/activities
+      title: 活動
+      start_date: 28/03/2025
+      end_date: 28/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-INTRO.pdf'
+      target: zh/2025-01-kd/introduction
+      title: 教師本
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH1.pdf'
+      target: zh/2025-01-kd/01
+      title: 教師本
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH2.pdf'
+      target: zh/2025-01-kd/02
+      title: 教師本
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH3.pdf'
+      target: zh/2025-01-kd/03
+      title: 教師本
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH4.pdf'
+      target: zh/2025-01-kd/04
+      title: 教師本
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH5.pdf'
+      target: zh/2025-01-kd/05
+      title: 教師本
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH6.pdf'
+      target: zh/2025-01-kd/06
+      title: 教師本
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH7.pdf'
+      target: zh/2025-01-kd/07
+      title: 教師本
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH8.pdf'
+      target: zh/2025-01-kd/08
+      title: 教師本
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH9.pdf'
+      target: zh/2025-01-kd/09
+      title: 教師本
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH10.pdf'
+      target: zh/2025-01-kd/10
+      title: 教師本
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH11.pdf'
+      target: zh/2025-01-kd/11
+      title: 教師本
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH12.pdf'
+      target: zh/20255-01-pr/12
+      title: 教師本
+      start_date: 15/12/2025
+      end_date: 21/12/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-CH13.pdf'
+      target: zh/2025-01-kd/13
+      title: 教師本
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://api.chumsda.org/storage/comm_resource/1391/%E5%84%BF%E7%AB%A5%E5%AE%89%E6%81%AF%E6%97%A5%E5%AD%A6%E8%AF%BE/%E4%B8%AD%E7%BA%A7%E5%AD%A6%E8%AF%BEB%E5%B9%B4%E7%AC%AC1%E5%AD%A3/%E6%95%99%E5%B8%88%E6%9C%AC/K-B-Q1-T-ACTIVITY.pdf'
+      target: zh/2025-01-kd/activities
+      title: 教師本
+      start_date: 28/03/2025
+      end_date: 28/03/2025

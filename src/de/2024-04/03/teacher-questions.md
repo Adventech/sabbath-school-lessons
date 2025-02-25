@@ -16,7 +16,7 @@ date:   18/10/2024
     -   Welche Verbindungen zur Schöpfung zieht Johannes hier? Welche
         neuen Informationen bekommt der Leser der Bibel? 
 -   Was bedeutet es, dass Jesus das personifizierte Licht ist?
-    -   „erleuchten" (φωτίζω phōtizō) kommt 4x bei Johannes vor:
+    -   „erleuchten“ (φωτίζω phōtizō) kommt 4x bei Johannes vor:
         -   Joh 1,9: Jesus erleuchtet jeden Menschen, indem er in die
             Welt kommt (vgl. Eph 1,18)
         -   Offb 18,1: der Engel mit großer Herrlichkeit erleuchtet die
@@ -24,7 +24,7 @@ date:   18/10/2024
         -   Offb 21,23 / 22,5: die Herrlichkeit Gottes erleuchtet in der
             Ewigkeit die Stadt und ihre Bewohner
 -   Trotz der Betonung auf die Göttlichkeit Jesu gibt es gleich in den
-    ersten Versen „unverständlichen Misserfolg Jesu" -- welchen:
+    ersten Versen „unverständlichen Misserfolg Jesu“ – welchen:
     -   Die Finsternis ergreift das Licht nicht
     -   Die Welt erkennt ihn nicht
     -   Die Seinen nehmen ihn nicht auf
@@ -33,33 +33,34 @@ date:   18/10/2024
 
 -   Und dennoch gibt es Hoffnung: „wie viele ihn aufnahmen, denen gab er
     Macht/das Recht, Gottes Kinder zu werden, denen die an seinen Namen
-    glauben"
-    -   Was bedeutet „glauben" für Johannes?
-        -   „glauben" (πιστεύω pisteuō), 241x im NT, davon 98x im
+    glauben“
+    -   Was bedeutet „glauben“ für Johannes?
+        -   „glauben“ (πιστεύω pisteuō), 241x im NT, davon 98x im
             Johannes-Evangelium
     -   *Warum ist diese Botschaft für uns Evangelium?*
-        -   „Alle, die glauben" -- keiner ist ausgeschlossen (falsche
-            Herkunft, zu wenig Intelligenz, zu jung, Frau...)
-        -   „Kinder Gottes\" (Nobodies become Somebodys)
+        -   „Alle, die glauben“ – keiner ist ausgeschlossen (falsche
+            Herkunft, zu wenig Intelligenz, zu jung, Frau…)
+        -   „Kinder Gottes" (Nobodies become Somebodys)
         -   Von Gott geboren (Gott schafft etwas Neues, das wir selbst
             nicht machen können)
 -   Joh 1,14: Die Motivation / Der Anlass zu glauben: „Das Wort wurde
-    Fleisch und wohnte unter uns -- wir sahen seine Herrlichkeit"
-    -   Was bedeutet es, dass das Wort „Fleisch" wurde?
-        -   ' "Flesh" stands for the whole person'; it refers to human
+    Fleisch und wohnte unter uns – wir sahen seine Herrlichkeit“
+    -   Was bedeutet es, dass das Wort „Fleisch“ wurde?
+        -   ‘ “Flesh” stands for the whole person’; it refers to human
             existence in its frailty and vulnerability (*cf.* Is. 40:6:
-            'All flesh is grass ...', rsv). Jesus identified with us to
+            ‘All flesh is grass …’, rsv). Jesus identified with us to
             that degree. He made our creaturely weakness his very own
-            form of being (*cf.* Rom. 8:3: 'sending his own Son in the
-            likeness of sinful man \[flesh\]'.    -   Was steckt hinter „wohnte unter uns"?
-    -   Was haben Johannes und seine Freunde an „Herrlichkeit" gesehen?
+            form of being (*cf.* Rom. 8:3: ‘sending his own Son in the
+            likeness of sinful man \[flesh\]’.
+    -   Was steckt hinter „wohnte unter uns“?
+    -   Was haben Johannes und seine Freunde an „Herrlichkeit“ gesehen?
         -   Joh 2,11: „Diesen Anfang der Zeichen machte Jesus zu Kana in
             Galiläa und offenbarte seine Herrlichkeit; und seine Jünger
-            glaubten an ihn."
+            glaubten an ihn.“
         -   Joh 11,4: „Als aber Jesus es hörte, sprach er: Diese
             Krankheit ist nicht zum Tode, sondern um der Herrlichkeit
             Gottes willen, damit der Sohn Gottes durch sie verherrlicht
-            werde." (vgl. 11:40)
+            werde.“ (vgl. 11:40)
         -   Joh 17,22-24: „Und die Herrlichkeit, die du mir gegeben
             hast, habe ich ihnen gegeben, daß sie eins seien, wie wir
             eins sind - ich in ihnen und du in mir - daß sie in eins
@@ -68,10 +69,10 @@ date:   18/10/2024
             will, daß die, welche du mir gegeben hast, auch bei mir
             seien, wo ich bin, damit sie meine Herrlichkeit schauen, die
             du mir gegeben hast, denn du hast mich geliebt vor
-            Grundlegung der Welt."
+            Grundlegung der Welt.“
         -   Jesus ist die Personifikation von Ps 85,11: „Gnade und
             Wahrheit sind sich begegnet, Gerechtigkeit und Frieden haben
-            sich geküsst."
+            sich geküsst.“
     -   *Wo und wie können wir die Herrlichkeit Gottes wahrnehmen?*
     -   *Joh 1,16: Wie können wir heute noch von seiner Fülle Gnade um
         Gnade empfangen?*
@@ -86,8 +87,9 @@ date:   18/10/2024
     Vers 17 das erste Mal)
 -   *Was berührt euch ganz persönlich an Johannes 1,1-18?*
 
-*The message of John: here is your king!: with study guide*, The Bible
-Speaks Today (Leicester, England; Downers Grove, IL: InterVarsity Press,
-1993), 4
+---- Bruce Milne, *The message of John: here is your king!: with study
+guide*, The Bible Speaks Today (Leicester, England; Downers Grove, IL:
+InterVarsity Press, 1993), 46
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at

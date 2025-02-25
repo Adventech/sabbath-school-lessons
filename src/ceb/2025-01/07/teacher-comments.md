@@ -1,0 +1,61 @@
+---
+title:  Komento Sa Magtutudlo
+date:   14/02/2025
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto**: Pinadayag 21:4
+
+**Tutokan sa Pagtuon**: Job. 38, Job 42:3, Roma 8:18.
+
+**Pasiuna**: Samtang kita makigbisog ngadto sa pagsabotsa presensya sa daotan dinhi sa kalibutan, kinahanglan atong ilhon ang atong mga limitasyon ug paagi, uban sa paglaum, sa katapusang kasulbaran.
+
+**Mga Tema sa Leksyon**: Ang leksyon niining semanaha magpasantop og tulo ka dugokan nga mga ideya o hunahuna.
+
+1. Ang Biblia adunay bukas nga mga pangutana bahin sa problema sa daotan: Sa mga gutlo sa pagantus, malisud ang paghusay sa gugma sa Dios ug sa dakung pagkamaayo diha sa presensya sa daotan. Diha sa Kasulatan, atong nailhan ang mga kinaiya sa pagpangutana og unsa ka dugay nga mga pangutana mahitungod sa pagantus ug kasakitan, maglaum kita nga ang Dios modaug batok sa daotan.
+2. Ang atong mga pagpasabot bahin sa problema sa daotan limitado: Ang problema sa daotan ug pagantus naghatag og usa ka hagit ngadto sa mga tawo. Daghang pangutana si Job sa Dios taliwala sa iyang pagbati sa pagkawalay gahum sa pagsulbad sa problema bahin sa daotan. Apan, sa baylo nga maghatag og mga tubag, gidungagan sa Dios ang mga pangutana. Sa baylo, giila ni Job ang iyang mga limitasyon ngadto sa husto nga pagsabot sa katinuoran sa daotan.
+3. Gidasig kita sa pagatubang sa problema bahin sa daotan uban sa paglaum. Kinahanglan magtuon kita sa pagpuyo uban sa wala matubag nga mga pangutana bahin sa problema sa daotan. Ang sala maoy usa kgsulud nga walay pananghid, ug walay katarungan mahatag sa hingpit nga pagpasabot sa presensya niini sa atong kalibutan. Ang gugma sa Dios makatabang kanato sa pagduol niini, uban sa paglaum, sa maong problema.
+
+Kagamitan sa Kinabuhi: Samtang atong tagdon ang kalisud sa problema sa daotan ug pagantus, kinahanglan atong ilhon kon unsa kika limitado sa pagsabot sa daghang mga butang nga mahitabo ngadto, ug sa atong palibot, maingon kang Job kaniadto. Hinoon, unsa nga paagi kita madasig sa pagduol niini, uban sa paglaum, labot sa problema sa daotan?
+
+### Bahin II: Komentaryo
+
+**1. Ang Biblia Adunay Bukas nga mga Pangutana Bahin sa Problema sa Daotan.**
+
+Adunay daghang mga higayon diha sa Kasulatan diin ang pangutana Unsa Kadugay? gipasupot ngadto sa Dios mahitungod sa daotang mga binuhatan ug pagantus dinhi sa kalibutan ug, sa labi pa ka personal, sa kinabuhi sa tawo nga nagsukit-sukit sa Dios. Kini nga pangutana makita kanunay diha sa Salmo 13:1, 2, bahin sa salmista sa kanunay nga kasub-anan ug sa pagpataas sa iyang mga kaaway, “Unsa ba kadugay, O JEHOVA, Imong pagtagoon ang imong nawong gikan kanako? Hangtud kanus-a ba magpakitambag ako sa akong kalag, nga adunay kaguol sa akong kasingkasing sa tibuok nga adlaw? Hangtud kanus-a ba pagbayawon ang akong mga kaaway sa ibabaw nako?”
+
+Sa sama nga paagi, ang salmista, diha sa Salmo 94:3, nasamok sa makita nga dili makiangayon nga pagdaug sa daotan. O JEHOVA, hangtud kanus-a ang mga daotan, hangtud kanus-a makadaug ang mga daotan?” Dugang pa, ang pasiuna sa Habakuk 1:2–4 sa kusganon nagsukit sa Dios, gamit ang kanus-a nga pagkasulti. Nangutana si Habakuk, “O JEHOVA, kanus-a ako magatuaw, ug Ikaw dili magpatalinghug? Gani nagatuaw nganha Kanimo, ‘Bayolinte!’ ug dili Ikaw magpakita kanako sa pagpanglupig nga nahimo ug Ikaw dili moluwas kanako? Ngano nga gipakita mo kanako ang kasal-anan ug nagatan-aw ka sa pagkadaotan, kay ang pagkalaglag ug ang pagpanglupig ania sa akong atubangan, ug adunay kagubot ug mitindog ang pagkabingkil. Busa ang Kasugoan walay gahum, ang hustisya wala gyud magapadayon, kay ang mga daotan nagalibot sa matarong, busa ang hustisya nagapadayon nga binalit-ad.”
+
+Sa katingalahan, samtang si manalagna Jeremias siguro sa pagkamatarong sa Dios, nahibulong siya sa balaan nga mga paghukom. “Matarong ikaw, Oh Jehova, sa pagpakiglalis ko kanimo; bisan pa niini pasultiha ako sa akong katungod kanimo: ngano ba nga ang dalan sa tawong dautan mauswagon man? ngano ba nga anaa sa kasayon silang tanan nga mabudhion gayud?” (Jeremias 12:1). Dugang pa, naggamit siya sa panultihon kanus-a ba sa pagpangutana sa Dios, ”Hangtud kanus-a ba nga ang yuta magbalata, ug mangalaya ang mga utanon sa tibuok nga yuta? Tungod sa kadaotan sa mga nanagpuyo didto” (Jeremias 12:4).
+
+Diha sa libro sa Pinadayag, ang pag-abli sa ikalima nga patik nagpadayag sa hulagwaynon nga dagway sa katawhan “nga gipamatay tungod sa pulong sa Dios ug sa pagpanghimatuod nga ilang gikuptan” (Pinadayag 6:9). Sa dugang ka espisiko, anaa sila “ilalum sa halaran” ug sa makusog nga pagtuaw ngadto sa Dios gamit ang pangutana “Kanus-a ba?” ‘Unsa ba ka dugay, o Jehova, balaan ug matuod, hangtud Imong pagahukman ang nanagpuyo say uta ug pagpanimalos batok kanila? (Pinadayag 6:10).
+
+Sa kinatibuk-an, kining kanus-a ba nga mga pangutana nagpasabot sa pagkakuti atubangan sa problema sa daotan ug nagpasabot sa halalum nga handum alang sa balaan nga hustisya. Samtang ang Salmo 10:1, 2 wala maggamit sa panultihon nga kanus-a ba ang mao gihapon nga kakuti ug ang lig-on nga pagpaabot sa balaan nga aksyon presente niini nga pangutana nga gipasupot ngadto sa Dios niini nga pahayag. “Nganong nagatingdog ka sa halayo, O, JEHOVA? Nganong nagatago man Ikaw sa mga panahon sa kagul-anan? Ang palabilabi sa daotan ang kabus ginalutos sa mainit gayud; Ipabitik sila diha sa lalang nga ilang gimugna” (Salmo 10:1, 2).
+
+**2. Ang Atong mga Pagpasabot Bahin sa Problema sa Daotan Limitado.**
+
+Tingali ang labing makasamok nga libro bahin sa problema sa sala diha sa Kasulatan mao kang Job. Ang Job 30:26, 27. 31 daw naghatag og usa ka dugokan nga summary kon unsay gibati ni Job diha sa kahimtang sa halalum nga kasub-anan. “Sa diha nga nangita ako sa maayo, unya midangat ang daotan; Sa diha nga ako naghulat sa kahayag, midangat ang kangitngit. Ang akong kasingkasing nagkaguol, ug dili makapahulay; Mga adlaw sa kasakitan ania mingdangat kanako” (Job 30:26, 27). Dugang pa, naggamit siya sa metaphorical o sanglitanan nga pinulungan sa mga tulonggon sa musika sa paghulagway sa negatibo nga mga pagbati. “Busa ang akong alpa nahimong tingog sa kasub-anan, ug ang akong flauta nakigduyog sa tingog niadtong nanagbakho” (Job 30:31).
+
+Samtang ang usa ka tawo makapaabot nga ang pagpadayag sa Dios sa katapusan sa basahon sa katapusan magtanyag sa mga pagpasabot nga gikinahanglan alang sa konklusyon o panapos sa sugilanon, gibilinan kita og dugang nga mga pangutana. Sa baylo nga maghatag og mga tubag, nangutana ang Dios kang Job sa daghang mga pangutana (tan-awa sa Job. 38–39). Sa kakinahanglanon, nangutana ang Ginoo kaniya bahin sa mga misteryo sa paglalang aron sa pagtandi kon unsa ka gamay si Job ingon nga linalang kon itandi sa pagkadako sa Magbubuhat. Sa pagkaamgo si Job niining dakung pagtandi ug sa mapaubsanon nagila sa iyang limitado nga pagsabot bahin sa kinabuhi ug sa gilalang nga kalibutan, iyang nakita ang iyang kaugalingon ingon nga ang “usa nga nagatago sa tambag nga walay kahibalo” kay, sa iyang pagpasantop, “Nakasulti ako sa nako masabti, mga butang nga kahibulongan kaayo alang kanako, nga wala ko mahibalo” (Job 42:3).
+
+Busa, samtang atong tagdon ang lisud nga mga pangutana bahin sa daotan ug sa pagantus, kinahanglan kita moila kon unsa kita ka limitado sa husto nga pagsabot ug sa hingpit nga pagpasabot sa daghang mga butang nga nahitabo uban, ug sa atong palibot. Sa katingalahan, kinahanglan kita magpuyo uban sa daghang wala matubag nga mga pangutana ug, sa sama nga panahon, magbuhat sa atong kinamaayohan, bisan limitado nga mga binuhat, sa pagsabot ug pagpasabot sa mga butang sumala sa gipadayag sa Dios kanato. Usa sa mga paagi, sa labing ubos, sa pagsabot sa bahin alang sa katinuoran sa daotan ug pagantus mao ang pagtuon sa ideya bahin sa gawasnon nga pagbuot. Ang gawasnong pagbuot maoy usa ka bililhon nga gasa gikan sa Dios ngadto sa Iyang masinabuton nga mga linalang, apan kini nga gasa walay swerte gisayop sa paggamit dinhi sa hingpit nga kalibutan nga gilalang sa Dios.
+
+Sumala sa gipahayag ni Ellen G. White, “si Adan maoy usa ka free moral agent. Apan iyang giabusohan ang iyang kagawasan. Iyang gitugotan ang iyang kaugalingon nga madaug sa gana. Pinaagi sa disobedience nawala gikan kaniya ang pagkawalay sala. Pinaagi sa iyang gawasnon nga pagbuot nahimo siya nga usa ka makasasala, mibulag sa iyang kaugalingon gikan sa pabor o pagdapig sa Dios.”—Manuscript 132, Letters and Manuscript, vol.17 (1902), p. 1. Siya sa laing dapit nangatarungan nga “Ang walay kinutoban nga kaalam gibutang atubangan sa tawo ang pag-ila tali sa husto ug sayop, tali sa sala ug pagkabalaan; apan ang kagamhanan sa Dios maoy usa ka pangagamhanan sa gawasnon nga pagbuot, ug wala buhat sa pagsupil ug sa dili pagka- matinumanon nga dili usa ka buhat sa gawasnong pagbulot-an.”—Manuscript 79, Letters and Manuscript, vol. 11, [1896], p. 1.5
+
+Busa, ang sayop nga paggamit sa gawasnon nga pagbuot naghimo sa hingpit nga kalibutan nga gibuhat sa Dios ngadto sa usa ka kalibutan sa dautan, sala, pagantus, ug kamatayon. Samtang ang ideya sa sayop nga paggamit sa gawasnon nga pagbuot wala pagpasabot sa tanang butang bahin sa problema sa daotan ug pagantus, usa kini ka importante nga bahin sa limitado nga pagsabot ug sa pagsaysay nga kita makahimo sa pagsulti bahin niini nga problema, sa labing ubos sumala sa gipadayag sa Dios kanato.
+
+**3. Gidasig Kita sa Pagduol sa Problema sa Daotan Uban sa Paglaum.**
+
+Importante ang pagpasantop nga ang Biblia adunay abli nga mga pangutana bahin sa problema sa daotan. Ang atong mga pagpasabot bahin sa problema sa daotan limitado tungod kay kini nga mga punto nagpaila nga ang daotan dili pagamatarongonon. Nagtanyag si Ellen G. White og usa ka takdo nga pagpasabot niini nga argumento pinaagi sa pag-ingon, “Imposible ang pagpasabot sa sinugdanan sa sala aron makahatag og rason alang sa pagtungha niini. Apan ang igo mahimong masabot bahin sa sinugdanan ug sa katapusan nga pagwagtang sa sala sa paghimo sa bug-os nga pagpakita sa hustisya ug pagkamanggihatagon sa Dios sa tanan Niyang pagtagad sa daotan. Wala nay lain nga labaw ka yano nga gitudlo diha sa Kasulatan kay nianang Dios nga dili responsable sa pagsulod sa sala; nga walay pinugsanay nga pagkuha sa balaan nga grasya, walay kakulangon sa balaan nga pangagamhanan, nga naghatag og panahon alang sa pagdagsang sa rebelyon. Ang sala maoy usa ka intruder o misulod nga walay pananghid, nga ang presensya niini walay mahatag nga katarungan. Misteryoso kini, dili mahatagan og husay; ang pagpamalibad niini maoy paglabaw niini. Kon aduna may makaplagan nga pamalibad, o hinungdan nga mapakita alang sa pagtungha niini, mahunong na ang pag-ila niini nga sala. Ang atong kahulugan sa sala mao lamang kanang gihatag diha sa pulong sa Dios; mao kini ‘ang paglapas sa balaod;’ kini ang binuhatan sa usa ka prinsipyo nga nakiggubat sa dakung balaod sa gugma nga maoy patukoranan sa balaan nga pangagamhanan.—The Great Controversy, pp. 492, 493. Busa, ang atong pagtutok bahin sa diskusyon sa problema sa daotan kinahanglan maoy usa ka mahigugmaong kinaiya sa Dios ug dili bahin sa daotan mismo. Pinasikad sa Iyang mahigugmaong kinaiya, makahimo kita sa pagduol, uban sa paglaum, ang lisud nga problema sa daotan, dili aron sa pagpamatarong sa daotan kondili sa pagtutok sa usa ka butang nga labaw ka dako, sama sa mahimayaong paglaum (Roma 8:18) bahin sa Dios nga maoy “mopahid sa mga luha gikan sa atong mga mata” (Pinadayag 21:4).
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+Isaysay ang mosunod nga mga pangutana sa imong klase:
+
+1. Nakaagi ka ba sa usa ka kahimtang sa halalum nga kasub-anan ug pagantus diin imong gibati nga ang Dios wala maminaw kanimo sa diha nga ikaw nagatuaw? Kon mao, sa unsa nga paagi ang kasinatian ni Job makatabang kanimo sa pagsalig sa Dios, bisan pa sa makita nga pagdaug sa daotan?
+2. Sa malisud nga mga panahon, unsaon nimo pag-irog gikan sa pagduol sa problema sa daotan ngadto sa pagantus uban sa paglaum?
+3. Unsaon nimo pagdialog o pagpakigsulti bahin sa problema sa daotan sa paagi nga tingali makatabang ngadto sa bata-bata nga kaliwatan diha sa iglesia?
+4. Unsay imong ikahatag nga tambag ug pagpasabot ngadto sa usa ka tawo nga nag-atubang sa hilabihan ka lisud nga mga kahimtang?
+
+`Notes`
