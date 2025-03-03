@@ -2,6 +2,10 @@ yt-dlp "https://youtu.be/6GaI48mqeB0?feature=shared" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=TBLQE71HYBc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-01-10.mp4"
 
+yt-dlp "https://youtu.be/5odvhvwkvTI?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2025-01-10.mp4"
+
+yt-dlp "https://youtu.be/6kxTO1IcN8w?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-01-10.mp4"
+
 yt-dlp "https://youtu.be/YdEZhIbn9hQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2025-01-10.mp4"
 
 yt-dlp "https://youtu.be/oCcy8KZ91dw?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2025-01-10.mp4"
