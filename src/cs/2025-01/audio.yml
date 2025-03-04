@@ -153,3 +153,5 @@
           target: cs/2025-01/11/02
         - src: https://radvanice.casd.cz/sobotniskola/audio/2025_Q1/2025_Q1_11-3.mp3
           target: cs/2025-01/11/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2025_Q1/2025_Q1_11-4.mp3
+          target: cs/2025-01/11/04
