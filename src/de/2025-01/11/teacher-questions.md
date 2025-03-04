@@ -200,5 +200,44 @@ Gottes aushalten."* (Karl Rahner)
 
 **DONNERSTAG**
 
+**Römer 3,1-4:** *"1 Was haben dann die Juden für einen Vorzug, oder was
+nützt die Beschneidung? 2 Viel in jeder Weise! Vor allem: Ihnen ist
+anvertraut, was Gott geredet hat. 3 Was nun? Wenn einige untreu wurden,
+hebt dann ihre Untreue die Treue Gottes auf? 4 Das sei ferne! Es bleibe
+vielmehr so: Gott ist wahrhaftig, und alle Menschen sind Lügner; wie
+geschrieben steht: »Damit du recht behältst in deinen Worten und siegst,
+wenn man mit dir rechtet.«"*
+
+**Jesaja 5,3.4:** *"3 Nun richtet, ihr Bürger zu Jerusalem und ihr
+Männer Judas, zwischen mir und meinem Weinberg! 4 Was sollte man noch
+mehr tun an meinem Weinberg, das ich nicht getan habe an ihm? Warum hat
+er denn schlechte Trauben gebracht, während ich darauf wartete, dass er
+gute brächte?"*
+
+**Offenbarung 15,3:** *"und sangen das Lied des Mose, des Knechtes
+Gottes, und das Lied des Lammes: Groß und wunderbar sind deine Werke,
+Herr, allmächtiger Gott! Gerecht und wahrhaftig sind deine Wege, du
+König der Völker."*
+
+**Offenbarung 19,1-6:** *"1 Danach hörte ich etwas wie eine große Stimme
+einer großen Schar im Himmel, die sprach: Halleluja! Die Rettung und die
+Herrlichkeit und die Kraft sind unseres Gottes! 2 Denn wahrhaftig und
+gerecht sind seine Gerichte, dass er die große Hure verurteilt hat, die
+die Erde mit ihrer Hurerei verdorben hat, und hat das Blut seiner
+Knechte gerächt, das ihre Hand vergossen hat. 3 Und sie sprachen zum
+zweiten Mal: Halleluja! Und ihr Rauch steigt auf von Ewigkeit zu
+Ewigkeit. 4 Und die vierundzwanzig Ältesten und die vier Wesen fielen
+nieder und beteten Gott an, der auf dem Thron saß, und sprachen: Amen,
+Halleluja! 5 Und eine Stimme ging aus von dem Thron: Lobt unsern Gott,
+alle seine Knechte und die ihn fürchten, Klein und Groß! 6 Und ich hörte
+etwas wie eine Stimme einer großen Schar und wie eine Stimme großer
+Wasser und wie eine Stimme starker Donner, die sprachen: Halleluja! Denn
+der Herr, unser Gott, der Allmächtige, hat seine Herrschaft
+angetreten!"*
+
+-   Was wird dazu führen, dass am Ende alle anerkennen werden, dass Gott
+    gut und gerecht ist?
+-   Was braucht ihr noch, um dass (von Herzen) anerkennen zu können?
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
