@@ -34,3 +34,5 @@ Matrona vyjadrila vďačnosť za to, ako vytrvalo jej Colette telefonovala a ako
 Pripomenula tiež, že Boh použil Colette, aby zmenil jej život. „To, ako ma našla, nebola vôbec náhoda,“ povedala. „Cítim, že Boh ju priviedol ku mne a mňa k nej a daroval mi pokoj. Som vďačná, že tu môžem byť.“
 
 _Tento misijný príbeh nám ponúka pohľad do života zboru Bethel Cirkvi adventistov siedmeho dňa, ktorému boli určené dary trinástej soboty v roku 2024. Ďakujeme, že pomôžete šíriť evanjelium aj prostredníctvom darov v tomto štvrťroku, ktoré budú vyzbierané 29. marca._
+
+![Colette and Matrona](picture11.jpg)
