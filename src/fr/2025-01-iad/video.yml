@@ -93,6 +93,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2025-01-09.mp4
           target: fr/2025-01-iad/09
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2025-01-09.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2025-01-10.mp4
+          target: fr/2025-01-iad/10
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2025-01-10.webp
     - artist: Autrement Dit
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2025-01-01.mp4
