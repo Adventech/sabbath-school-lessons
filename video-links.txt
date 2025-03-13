@@ -1,1 +1,11 @@
-yt-dlp "https://www.youtube.com/watch?v=yjErNzZ41og" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2025-01-11.mp4"
+yt-dlp "https://youtu.be/UkTaUzPqIs0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2025-01-inv-11.mp4"
+
+yt-dlp "https://youtu.be/P9kcCpacjLQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-01-11.mp4"
+
+yt-dlp "https://youtu.be/IoLB_9lFgPU?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2025-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=BHiNsfEQxOk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2025-01-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=1XAq85cRLY4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2025-01-11.mp4"
+
+yt-dlp "https://youtu.be/1_az906neRY?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2025-01-12.mp4"
