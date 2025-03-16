@@ -53,3 +53,10 @@ Figyeljük meg továbbá a mar’eh szót, ami „arcot”, „külső megjelen
 
 4.  Dániel eszkatológiai nyelvezettel mutatta be saját élethelyzetét. Hogyan találunk mi is reményt és bizonyosságot, hogy van értelme az életünknek, nyitottan az örökkévalóságra? Ez a szóhasználat miként ad iránymutatást arra nézve, hogyan éljünk, együnk, igyunk, gondolkodjunk, élvezzük az életet, miként viszonyuljunk másokhoz, beleértve az ellenségeinket is?
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A megváltás története, „Az ezeréves korszak” című fejezet (415–416. o.); Maranatha, „Sátán és angyalainak fogsága” című fejezet (313. o.).

@@ -61,3 +61,10 @@ Az erős kultikus hangsúly ebben a szövegben azt a gondolatot támasztja al�
 
 **Isten áldozata a megmentésünkért történt. Olvassuk el Fil 2:7 versét! Gondolkodjunk el a következő kifejezésen: „önmagát megüresítette”. Hogyan vonatkoztatható az embertársainkhoz fűződő kapcsolatainkra Isten hajlandósága, hogy „semmivé” lett értünk? Mennyire vagyunk készen arra, hogy „semmivé legyünk”, „megüresítsük magunkat” munkatársunk előrehaladása vagy gyermekünk fejlődése érdekében?**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Pátriárkák és próféták, „A páska ünnepe” című fejezet (273–279. o.).

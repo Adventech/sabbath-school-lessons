@@ -21,3 +21,10 @@ Később egy barátjával kiment a sivatagba, ott ellőtték a golyókat, a fegy
 
 Folytatás következik
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „A küzdelem véget ér” című fejezet (676–678. o.).

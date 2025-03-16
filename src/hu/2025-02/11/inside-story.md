@@ -19,3 +19,10 @@ Az elmúlt 10 évben az iskolában dolgoztak. „Isten csodálatos! – mondta D
 
 Folytatás következik
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Próféták és királyok, „Eszter királyné kora” című fejezet (597. o.).

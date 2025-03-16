@@ -55,3 +55,10 @@ Más részről ez a titokzatosság és tökéletes szépség felhívás is a s
 
 **Isten királyi széke a személyes életünkben. Mit jelent a mindennapokban az, hogy a Szentlélek temploma (Isten királyi széke, jelenlétének helye) vagyunk? Más szóval, hogyan hat ez arra, ahogyan a testünkkel bánunk, miként osztjuk be az időnket, hogyan vezetjük a háztartást és viselkedünk a munkahelyünkön?**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „A küzdelem véget ér” című fejezet (676–678. o.).

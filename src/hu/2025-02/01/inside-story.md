@@ -17,3 +17,10 @@ Imádkozzunk Timért és a többi misszionáriusért, akik a Dél-ázsiai Divíz
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Tapasztalatok és látomások, „William Miller” című fejezet (229–232. o.).

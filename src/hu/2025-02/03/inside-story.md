@@ -17,3 +17,10 @@ A műtrágyagyár könyvelője kérte Ninát, hogy beszéljen neki Istenről, el
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „Isten népe megszabadul” című fejezet (651–652. o.).

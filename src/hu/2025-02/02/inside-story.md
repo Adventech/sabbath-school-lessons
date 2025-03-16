@@ -15,3 +15,10 @@ Otthon a nő gondosan etette az állatot, a gyerekek pedig játszottak vele, és
 
 „A nehéz időkben Isten megmentette az életünket” – mondta Liubov Brunton, a történetben szereplő asszony unokája. Elmondta, ez a csoda jó emlékeztető arra, hogy Isten megvédi a missziómunkásokat, gondjukat viseli, bárhol és bármikor szolgálnak is. De a tehén története ezzel még nem ért véget. Liubov nagymamája újabb csodának lett a tanúja. Erről a jövő héten olvashatunk.
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Pátriárkák és próféták, „A megváltás terve” című fejezet (69–70. o.); Jézushoz vezető út, „Isten szeretete az emberek iránt” című fejezet (9–15. o.).

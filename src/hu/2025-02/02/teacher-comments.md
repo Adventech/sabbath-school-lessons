@@ -57,3 +57,10 @@ Ezt a nézőpontot valóban megerősíti az Ákédá szövegét lezáró isteni
 
 „Izsák pedig megkérdezte: »Itt van a tűz és a fa, de hol van az égőáldozatra való bárány«” (1Móz 22:7)? Ez a kérdés anélkül utalt a kimondatlan valóságra, hogy konkrétan megkérdezte volna: „Én vagyok a bárány?”
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Pátriárkák és próféták, „A megváltás terve” című fejezet (69–70. o.); Jézushoz vezető út, „Isten szeretete az emberek iránt” című fejezet (9–15. o.).

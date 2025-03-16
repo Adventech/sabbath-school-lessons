@@ -53,3 +53,10 @@ Hogyan alkalmazhatók az alábbi – Ruth és Eszter történetével kapcsolatos
 
 **Eszter: Eszter története jól rezonál a modern és szekuláris világgal. Bárhol is vagyunk, bármit csinálunk az irodában, az utcán, az egyetemen vagy akár a családban, a legapróbb feladataink és kötelességeink között is fontos a jelenlétünk, hatunk mások üdvösségére. Ki tudja, talán éppen e mostani idő miatt vagyunk éppen ott (Eszt 4:14). Legyünk bölcsek: nem mindig szükséges azonnal felfedni vallási identitásunkat (Eszt 2:10, 20)! Tegyük magunkat szerethetővé, mint Eszter (Eszt 2:17)! Fogadjuk meg, hogy mindent megteszünk a problémáink megoldása érdekében! Bízzunk Isten kegyelmében, hogy visszafordítja az események menetét!**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Próféták és királyok, „Eszter királyné kora” című fejezet (597. o.).

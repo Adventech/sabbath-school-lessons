@@ -59,3 +59,10 @@ Dán 11:43-ban az északi király egyiptomiak, líbiaiak és etiópok (kúsiták
 
 **Tanulság a nézőpontról. Dániel próféciáiban az volt a földi királyok problémája, hogy csak a jelenre összpontosítottak. Az örökkévalóság, Isten jövőbeli országa nem képezte részét annak, amit realitásnak tartottak. Ez a szemlélet az élet minden területére vonatkozik. Ellen G. White így figyelmeztet: „Egyetlen üzleti terv vagy életpálya sem lehet teljes egész, ha csak a földi élet rövid szakaszát foglalja magába és nem veszi számításba a végtelen jövőt” (Nevelés. Budapest, 2015, Advent Kiadó, 125. o.). Ezért tanácsolja, hogy gondoljunk az örökkévalóságra. Hogyan kerülhetjük el, hogy mi is elkövessük ugyanazt a hibát, mint a próféciákban szereplő földi királyok?**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „Egy reformációs munka” című fejezet (451. o.); Maranatha, „A három angyal üzenete” című fejezet (173. o.).

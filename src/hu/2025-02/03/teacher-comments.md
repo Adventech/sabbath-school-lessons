@@ -63,3 +63,10 @@ A házasság metaforájának három alkalmazási területe lehet egy keresztény
 
 **3.  A gyülekezetben. Beszélgessünk a gyülekezet és Isten jelleme közötti kapcsolatról! Hogyan hat Isten szeretete és igazságossága a gyülekezet életére? Említsünk konkrét példákat a sikerekre és a kudarcokra is!**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „Isten népe megszabadul” című fejezet (651–652. o.).

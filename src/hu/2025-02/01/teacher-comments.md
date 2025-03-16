@@ -77,3 +77,10 @@ A személyes reakcióra összpontosítva:
 
 4.  Mely szavak utalnak arra, hogy a szöveget alkalmazni kell az életünkben? Gondolkodjunk el közösen és beszélgessünk például az alábbi szavakról: „bölccsé tesz” (élesíti a megkülönböztető képességet és a személyes ítélőképességet). Mely szavak utalnak az etikai érzékenység szükségességére? Gondolkodjunk el közösen és beszélgessünk például az alábbi kifejezésről: „igazságban” (fejleszti annak képességét, hogy felismerjük, mi a helyes).
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Tapasztalatok és látomások, „William Miller” című fejezet (229–232. o.).

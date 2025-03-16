@@ -17,3 +17,10 @@ Néhány év múlva meghívást kapott, hogy globális missziós úttörőként 
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Próféták és királyok, „Ninive, a nagy város” című fejezet (277–278. o.).

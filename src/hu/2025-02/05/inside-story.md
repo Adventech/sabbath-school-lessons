@@ -21,3 +21,10 @@ Folytatás következik
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A nagy küzdelem, „Egy reformációs munka” című fejezet (451. o.); Maranatha, „A három angyal üzenete” című fejezet (173. o.).

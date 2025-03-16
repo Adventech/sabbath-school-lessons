@@ -65,3 +65,10 @@ Beszéljünk arról, mit tett Isten az emberi bűn következtében! Gondolkodjun
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Próféták és királyok, „Ninive, a nagy város” című fejezet (277–278. o.).

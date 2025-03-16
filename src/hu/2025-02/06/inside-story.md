@@ -21,3 +21,10 @@ Folytatás következik
 
 
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Pátriárkák és próféták, „A páska ünnepe” című fejezet (273–279. o.).

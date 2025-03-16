@@ -17,3 +17,10 @@ Dianát felkérték, hogy Floridában egy induló adventista kórház fejleszté
 
 Folytatás következik
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+A megváltás története, „Az ezeréves korszak” című fejezet (415–416. o.); Maranatha, „Sátán és angyalainak fogsága” című fejezet (313. o.).
