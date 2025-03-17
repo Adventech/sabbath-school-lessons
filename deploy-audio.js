@@ -217,7 +217,7 @@ output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audio
                 "Quantity": invalidationArray.length,
                 "Items": invalidationArray
             },
-            "CallerReference": "deploy-audio.js"
+            "CallerReference": `deploy-audio.js (${Date.now()})`
         }
 
         if (invalidationArray.length > 0) {

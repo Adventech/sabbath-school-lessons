@@ -184,7 +184,7 @@ try {
           "Quantity": invalidationArray.length,
           "Items": invalidationArray
         },
-        "CallerReference": `deploy.js v${target_api}`
+        "CallerReference": `deploy.js v${target_api} (${Date.now()})`
       }
 
       if (invalidationArray.length > 0) {

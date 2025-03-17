@@ -344,7 +344,7 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
                 "Quantity": invalidationArray.length,
                 "Items": invalidationArray
             },
-            "CallerReference": "deploy-video.js"
+            "CallerReference": `deploy-video.js (${Date.now()})`
         }
 
         if (invalidationArray.length > 0) {
