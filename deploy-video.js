@@ -95,6 +95,7 @@ let videoAPI = async function (mode) {
 
     let availableLanguages = []
     let curlConfig = []
+    let invalidationList = new Set()
 
     for (let videoLanguage of videoLanguages) {
         let languageVideos = []
@@ -244,6 +245,9 @@ let videoAPI = async function (mode) {
 
                     if (mode === "gen") {
                         if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
+                            invalidationList.add(`/api/v1/${info.language}/${info.quarterly}/video.json`)
+                            invalidationList.add(`/api/v2/${info.language}/${info.quarterly}/video.json`)
+                            invalidationList.add(`/api/v2/${info.language}/video/latest.json`)
                             curlConfig.push(`
 url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"
@@ -331,6 +335,20 @@ output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/thumb/$
             const chunk = curlConfig.slice(i, i+chunkSize)
             fs.outputFileSync(`curl-config-${iterator}.txt`, chunk.join("\n\n"))
             iterator++
+        }
+        invalidationList.add(`/${DIST_DIR_V2}video/languages.json`)
+
+        let invalidationArray = Array.from(invalidationList)
+        let invalidationJSON = {
+            "Paths": {
+                "Quantity": invalidationArray.length,
+                "Items": invalidationArray
+            },
+            "CallerReference": "deploy-video.js"
+        }
+
+        if (invalidationArray.length > 0) {
+            fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
         }
     }
 
