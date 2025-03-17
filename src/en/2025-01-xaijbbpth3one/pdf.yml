@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-01.pdf'
+      target: en/2025-01-xaijbbpth3one/01
+      title: The Father’s Heart
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-02.pdf'
+      target: en/2025-01-xaijbbpth3one/02
+      title: Counterfeit Love
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-03.pdf'
+      target: en/2025-01-xaijbbpth3one/03
+      title: Desire to Grow
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-04.pdf'
+      target: en/2025-01-xaijbbpth3one/04
+      title: Affection
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-05.pdf'
+      target: en/2025-01-xaijbbpth3one/05
+      title: Boundaries
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-06.pdf'
+      target: en/2025-01-xaijbbpth3one/06
+      title: Comfort
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-07.pdf'
+      target: en/2025-01-xaijbbpth3one/07
+      title: Encouragement
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-08.pdf'
+      target: en/2025-01-xaijbbpth3one/08
+      title: Discipline
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-09.pdf'
+      target: en/2025-01-xaijbbpth3one/09
+      title: Safety and Security
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-10.pdf'
+      target: en/2025-01-xaijbbpth3one/10
+      title: Patience
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-11.pdf'
+      target: en/2025-01-xaijbbpth3one/11
+      title: Worth
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-12.pdf'
+      target: en/2025-01-xaijbbpth3one/12
+      title: Identity
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BB-PTH-13.pdf'
+      target: en/2025-01-xaijbbpth3one/13
+      title: Reflecting God’s Heart
+      start_date: 20/09/2025
+      end_date: 26/09/2025

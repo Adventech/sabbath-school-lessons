@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-01.pdf'
+      target: en/2025-01-xaijbbpth2one/01
+      title: Reality Check
+      start_date: 29/03/2025
+      end_date: 04/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-02.pdf'
+      target: en/2025-01-xaijbbpth2one/02
+      title: To Know God
+      start_date: 05/04/2025
+      end_date: 11/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-03.pdf'
+      target: en/2025-01-xaijbbpth2one/03
+      title: Pride and Humility
+      start_date: 12/04/2025
+      end_date: 18/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-04.pdf'
+      target: en/2025-01-xaijbbpth2one/04
+      title: The Bible
+      start_date: 19/04/2025
+      end_date: 25/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-05.pdf'
+      target: en/2025-01-xaijbbpth2one/05
+      title: How to Study the Bible
+      start_date: 26/04/2025
+      end_date: 02/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-06.pdf'
+      target: en/2025-01-xaijbbpth2one/06
+      title: Prayer
+      start_date: 03/05/2025
+      end_date: 09/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-07.pdf'
+      target: en/2025-01-xaijbbpth2one/07
+      title: Faith
+      start_date: 10/05/2025
+      end_date: 16/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-08.pdf'
+      target: en/2025-01-xaijbbpth2one/08
+      title: Sin and the Law
+      start_date: 17/05/2025
+      end_date: 23/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-09.pdf'
+      target: en/2025-01-xaijbbpth2one/09
+      title: Repentance and Forgiveness
+      start_date: 24/05/2025
+      end_date: 30/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-10.pdf'
+      target: en/2025-01-xaijbbpth2one/10
+      title: Setbacks
+      start_date: 31/05/2025
+      end_date: 06/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-11.pdf'
+      target: en/2025-01-xaijbbpth2one/11
+      title: Share Him
+      start_date: 07/06/2025
+      end_date: 13/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-12.pdf'
+      target: en/2025-01-xaijbbpth2one/12
+      title: Eternity
+      start_date: 14/06/2025
+      end_date: 20/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-02/ABSG-2025-02-EN-BB-PTH-13.pdf'
+      target: en/2025-01-xaijbbpth2one/13
+      title: Come
+      start_date: 21/06/2025
+      end_date: 27/06/2025
