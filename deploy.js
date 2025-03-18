@@ -133,6 +133,8 @@ let branch = argv.b,
     compile_quarter = argv.q || getCompilationQuarterValue(),
     target_api = parseInt(argv.v) || 1;
 
+let invalidationList = new Set()
+
 try {
   if (!argv.l && fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
     let changedFiles = require('./.github/outputs/all_changed_files.json')
@@ -154,6 +156,10 @@ try {
         ).map(
             (f) => {
               let stripped = f.replace(/^src\//g, '')
+
+              let p = getInfoFromPath(f)
+              invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/${p.quarterly}/*`)
+
               return stripped.substring(0, stripped.indexOf('/'))
             }
         )
@@ -168,6 +174,21 @@ try {
           console.log(`Looks like source changes are targeting audio or video content hence aborting execution`)
           return
         }
+      } else {
+        invalidationList.add(`/api/v${target_api}/*`)
+      }
+
+      let invalidationArray = Array.from(invalidationList)
+      let invalidationJSON = {
+        "Paths": {
+          "Quantity": invalidationArray.length,
+          "Items": invalidationArray
+        },
+        "CallerReference": `deploy.js v${target_api} (${Date.now()})`
+      }
+
+      if (invalidationArray.length > 0) {
+        fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
       }
     }
   }
