@@ -4,8 +4,8 @@
   human_date: "Kwiecień · Maj · Czerwiec 2025"
   start_date: "29/03/2025"
   end_date: "27/06/2025"
-  color_primary: "#0A454E"
-  color_primary_dark: "#01373F"
+  color_primary: "#552723"
+  color_primary_dark: "#481F1C"
   splash: true
   credits:
     - name: Autor
