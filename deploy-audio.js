@@ -173,8 +173,10 @@ let audioAPI = async function (mode) {
                 }
 
                 if (mode === "gen" && !fs.pathExistsSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/`)) {
-                    invalidationList.add(`/api/v1/${info.language}/${info.quarterly}/audio.json`)
-                    invalidationList.add(`/api/v2/${info.language}/${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v1/${info.language}/quarterlies/${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v2/${info.language}/quarterlies/${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v1/${info.language}%2Fquarterlies%2F${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v2/${info.language}%2Fquarterlies%2F${info.quarterly}/audio.json`)
                     curlConfig += `
 url = "${track.src.replace(/ /g, "\%20")}"
 output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}"
