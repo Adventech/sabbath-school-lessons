@@ -1,8 +1,12 @@
+yt-dlp "https://www.youtube.com/watch?v=ZoCSJFbsya4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2025-01-13.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=L3h8NXNywVI&pp=0gcJCU8JAYcqIYzv" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2025-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=1rN07Xj5LEY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2025-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=nMpUnbhKheQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-01-13.mp4"
+
+yt-dlp "https://youtu.be/D2a7ibNaRbE?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2025-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=gAq1AqMTMMI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-01-inv-13.mp4"
 
@@ -10,13 +14,19 @@ yt-dlp "https://www.youtube.com/watch?v=IulF_s18xBs" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=0cOf2tzv7hw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2025-01-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=oQEP_irEmqY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-01-13.mp4"
+yt-dlp "https://youtu.be/mzTM8yl4aG4?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2025-01-13.mp4"
 
-yt-dlp "https://youtu.be/zqxUPVCKUvg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=oQEP_irEmqY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=aBSPIjDTnak" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-01-13.mp4"
 
 yt-dlp "https://youtu.be/uulWKinuoFg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2025-01-13.mp4"
+
+yt-dlp "https://youtu.be/zqxUPVCKUvg?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-01-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=2vKlhhX7OAY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-01-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=4u_ed2wWw8o" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=jB5EH8SGKzo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2025-01-13.mp4"
 
@@ -36,9 +46,13 @@ yt-dlp "https://www.youtube.com/watch?v=NwIPhTgdg5U" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=3_qnwh5F3Fw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-01-13.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=XBSL4A6Tsr4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2025-01-13.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=gTr4KpNXukA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2025-01-13.mp4"
 
 yt-dlp "https://youtu.be/qUrvxM5ftiI?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2025-01-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=nHrzY3fKU9w" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=9cZaYJMvafM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2025-01-13.mp4"
 
@@ -46,6 +60,4 @@ yt-dlp "https://youtu.be/7lKPxd0cawU?feature=shared" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=qyyYfuqUg90" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2025-01-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=2vKlhhX7OAY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-01-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=4u_ed2wWw8o" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-01-13.mp4"
+yt-dlp "https://youtu.be/wFvHi4CRNCQ?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2025-01-13.mp4"
