@@ -245,9 +245,15 @@ let videoAPI = async function (mode) {
 
                     if (mode === "gen") {
                         if (!fs.pathExistsSync(`video/video/${info.language}/${info.quarterly}/${videoItem.id}/`)) {
-                            invalidationList.add(`/api/v1/${info.language}/${info.quarterly}/video.json`)
-                            invalidationList.add(`/api/v2/${info.language}/${info.quarterly}/video.json`)
+                            invalidationList.add(`/api/v1/${info.language}/quarterlies/${info.quarterly}/video.json`)
+                            invalidationList.add(`/api/v2/${info.language}/quarterlies/${info.quarterly}/video.json`)
                             invalidationList.add(`/api/v2/${info.language}/video/latest.json`)
+
+                            invalidationList.add(`/api/v1/${info.language}%2Fquarterlies%2F${info.quarterly}/video.json`)
+                            invalidationList.add(`/api/v2/${info.language}%2Fquarterlies%2F${info.quarterly}/video.json`)
+                            invalidationList.add(`/api/v2/${info.language}%2Fvideo/latest.json`)
+
+
                             curlConfig.push(`
 url = "${clip.src}"
 output = "video/video/${info.language}/${info.quarterly}/${videoItem.id}/${videoItem.id}${extname}"

@@ -160,6 +160,8 @@ try {
               let p = getInfoFromPath(f)
               invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/${p.quarterly}/*`)
               invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/index.json`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies%2F${p.quarterly}*`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies/index.json`)
 
               return stripped.substring(0, stripped.indexOf('/'))
             }
