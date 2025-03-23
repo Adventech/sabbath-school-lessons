@@ -5,3 +5,5 @@
       tracks:
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/01/LECCION-1-SABADO.mp3
           target: es/2025-02/01/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/01/LECCION-1-DOMINGO.mp3
+          target: es/2025-02/01/02
