@@ -1,0 +1,23 @@
+### Premergători ai profeției
+
+În timpul Primului Război din Golf (1991), un bine-cunoscut scriitor și prezentator protestant era convins că Apocalipsa a prezis acest conflict. Argumentul lui se baza pe faptul că unele dintre elicopterele folosite în război arătau ca lăcustele descrise în Apocalipsa 9. „Și a deschis fântâna adâncului. Din fântână s-a ridicat un fum ca fumul unui cuptor mare. Şi soarele şi văzduhul s-au întunecat de fumul fântânii. Din fum au ieşit nişte lăcuste pe pământ. Şi li s-a dat o putere ca puterea pe care o au scorpiile pământului” (Apocalipsa 9:2,3).
+
+Nu e tocmai cel mai bun mod de interpretare a profeției biblice, nu-i așa? Dar astfel de interpretări sunt întâlnite destul de des. De fapt, de-a lungul deceniilor, un număr mare de cărți, articole, videoclipuri și recent site-uri web, toate dedicate profeției, au făcut multe predicții, stabilind inclusiv date pentru evenimentele finale – de obicei pe marginea războaielor sau tulburărilor din Orientul Mijlociu.
+
+Și, mare surpriză, în toate cazurile aceste previziuni nu s-au adeverit. Ca adventiști de ziua a șaptea, noi avem o abordare diferită, o abordare care Îl are în centru pe Domnul Hristos și în virtutea căreia profețiile nu se mai concentrează asupra unui singur loc geografic din Orientul Mijlociu și nici asupra conflictelor militare care se desfășoară acolo. În schimb, privim profețiile prin prisma marii lupte dintre Hristos și Satana – o luptă spirituală la nivel mondial care va culmina atunci când poporul lui Dumnezeu, evrei și neevrei deopotrivă (vezi Apocalipsa 12:17; 14:12), se va confrunta cu criza finală, care vizează închinarea la Creator (vezi Apocalipsa 14:7), nu la fiară și la icoana ei.
+
+Un element-cheie în înțelegerea acestor profeții cu privire la zilele din urmă este Daniel 2, care conține nu numai schița istorică a profețiilor, ci și cheia interpretativă pentru semnificația lor.
+
+Daniel 2 descrie cele patru imperii mondiale: Babilonul, Medo-Persia, Grecia, Roma – urmate de instaurarea de către Dumnezeu a împărăției Sale veșnice, „care nu va fi nimicită niciodată și care nu va trece sub stăpânirea unui alt popor. Ea va sfărâma și va nimici toate acele împărății și ea însăși va dăinui veșnic” (Daniel 2:44). Profețiile paralele din capitolele 7 și 8 din Daniel conțin aceeași schemă de bază, potrivit căreia aceste imperii lumești se ridică și se prăbușesc până când împărăția lui Dumnezeu este instaurată pentru totdeauna.
+
+În Daniel 7, îngerul care interpretează profeția ne explică totul: „Aceste patru fiare mari sunt patru împăraţi care se vor ridica pe pământ. Dar sfinţii Celui Preaînalt vor primi împărăţia şi vor stăpâni împărăţia în veci, din veşnicie în veşnicie” (Daniel 7:17,18).
+
+Patru imperii mondiale (Babilonul, Medo-Persia, Grecia și Roma) se succed fără întrerupere de-a lungul istoriei până când, după a doua venire a lui Isus, Dumnezeu instaurează împărăția Lui veșnică. Desigur, noi ne aflăm încă aici, în timpul divizării Romei, a patra și ultima împărăție pământească înainte de revenirea lui Hristos.
+
+Având această perspectivă istorică drept fundament pentru înțelegerea profeției, vom studia în acest trimestru modul de a interpreta profeția biblică, în special unele aluzii, pasaje narative, imagini și metafore care descifrează adevărul profetic și evenimentele finale.
+
+Începem cu pasajul din Geneza care relatează crearea lumii – pasaj important nu numai pentru înțelegerea profeției, ci și pentru ceea ce urmează, în special cele întâmplate la moartea ispășitoare a Domnului Isus. După istoria creației trecem la turnul Babel, la slujbele din sanctuar, la psalmi și chiar la unele căsătorii din Vechiul Testament. În toate acestea, și nu numai, putem găsi imagini, simboluri și metafore care, atunci când sunt studiate cu rugăciune și cu un spirit umil și supus (dacă deschizi Biblia cu o inimă răzvrătită, îți pierzi timpul), ne vor ajuta să aducem la viață profețiile privitoare la timpul sfârșitului, în special pe cele din Apocalipsa.
+
+Cu siguranță, un trimestru nu este suficient pentru a studia toate istorisirile și imaginile care ne ajută să deslușim adevărul profetic. Cine știe – s-ar putea să avem nevoie de o veșnicie pentru acest studiu. Până atunci, prin harul lui Dumnezeu, vom studia ceea ce putem.
+
+_Shawn Boonstra este director al organizației Voice of Prophecy. Emisiunile și cărțile sale au fost o sursă de inspirație în întreaga lume, iar de-a lungul anilor evenimentele sale evanghelistice live au fost difuzate pe toate continentele, cu excepția Antarcticii._
