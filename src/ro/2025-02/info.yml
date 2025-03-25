@@ -6,7 +6,6 @@
   end_date: "27/06/2025"
   color_primary: "#B05A67"
   color_primary_dark: "#9F283A"
-  splash: true
   credits:
     - name: Autor
       value: "Shawn Boonstra"
