@@ -10,9 +10,9 @@ As Seventh-day Adventists, we take a different approach, a Christ-centered appro
 
 A key element in understanding these last-day prophecies is Daniel 2, which contains not only the historical outline of the prophecies but the interpretive key to unlocking their meanings, as well.
 
-Daniel 2 depicts four world empires—Babylon, Media-Persia, Greece, Rome—followed by God’s establishing His eternal kingdom, “ ‘which shall never be destroyed; and the kingdom shall not be left to other people; it shall break in pieces and consume all these kingdoms, and it shall stand forever ’ ” (Dan. 2:44, NKJV). The parallel prophecies in Daniel 7 and 8 contain this same basic outline, that of these worldly empires arising and vanishing until God’s kingdom is forever established.
+Daniel 2 depicts four world empires—Babylon, Media-Persia, Greece, Rome—followed by God’s establishing His eternal kingdom, “ ‘which shall never be destroyed; and the kingdom shall not be left to other people; it shall break in pieces and consume all these kingdoms, and it shall stand forever ’ ” (Dan. 2:44, NKJV). The parallel prophecies in Daniel 7 and 8 contain this same basic outline, that of these worldly empires arising and vanishing until God’s kingdom is forever established.
 
-In Daniel 7, the angel interpreter sets it all out for us: “ ‘ “Those great beasts, which are four, are four kings which arise out of the earth. But the saints of the Most High shall receive the kingdom, and possess the kingdom forever, even forever and ever” ’ ” (Dan. 7:17, 18, NKJV).
+In Daniel 7, the angel interpreter sets it all out for us: “ ‘ “Those great beasts, which are four, are four kings which arise out of the earth. But the saints of the Most High shall receive the kingdom, and possess the kingdom forever, even forever and ever” ’ ” (Dan. 7:17, 18, NKJV).
 
 Four worldly empires (Babylon, Media-Persia, Greece, and Rome) move in an unbroken succession through history until, after the second coming of Jesus, God establishes His eternal one.
 
