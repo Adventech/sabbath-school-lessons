@@ -1,7 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=DNvRZFwkGR8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2025-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=5aPiLG8dNlU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-01-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=4L6FlDWTzDY&pp=0gcJCb0Ag7Wk3p_U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2025-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=yR26V8y0zSs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2025-01-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=9FdCcJzVzZE&pp=0gcJCb0Ag7Wk3p_U" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2025-01-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=wJx4qcOXWME" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2025-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=nMpUnbhKheQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-01-13.mp4"
