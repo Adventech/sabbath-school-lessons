@@ -1,0 +1,67 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-01.pdf'
+      target: en/2025-01-xaijbbpth4one/01
+      title: A Most Important Work
+      start_date: 27/09/2025
+      end_date: 03/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-02.pdf'
+      target: en/2025-01-xaijbbpth4one/02
+      title: Shaping Character
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-03.pdf'
+      target: en/2025-01-xaijbbpth4one/03
+      title: A Father’s Role
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-04.pdf'
+      target: en/2025-01-xaijbbpth4one/04
+      title: A Mother’s Influence
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-05.pdf'
+      target: en/2025-01-xaijbbpth4one/05
+      title: Nature Nurtures
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-06.pdf'
+      target: en/2025-01-xaijbbpth4one/06
+      title: Healthy Choices
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-07.pdf'
+      target: en/2025-01-xaijbbpth4one/07
+      title: Self-control
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-08.pdf'
+      target: en/2025-01-xaijbbpth4one/08
+      title: Truthfulness
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-09.pdf'
+      target: en/2025-01-xaijbbpth4one/09
+      title: Gentleness
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-10.pdf'
+      target: en/2025-01-xaijbbpth4one/10
+      title: Unselfishness
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-11.pdf'
+      target: en/2025-01-xaijbbpth4one/11
+      title: Helpfulness
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-12.pdf'
+      target: en/2025-01-xaijbbpth4one/12
+      title: Cheerfulness
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BB-PTH-13.pdf'
+      target: en/2025-01-xaijbbpth4one/13
+      title: An Enduring Work
+      start_date: 20/12/2025
+      end_date: 26/12/2025

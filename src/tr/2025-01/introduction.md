@@ -1,0 +1,21 @@
+### Sevgi ve Adalet Tanrısı
+
+Tanrı sevgidir. 1. Yuhanna 4:8 ve 16 ayetleri öyle diyor. Kutsal Kitap’ın tamamı bu gerçeğe tanıklık etmektedir. Hristiyan inancı Tanrı’nın sevgi karakteri etrafında şekillenmiştir. Sevgi, Tanrı’nın kim olduğunun temelinde, iman ettiğimiz her şeyin temelinde yer almaktadır ve yaptığımız her şeyin de temelinde yer almalıdır. Dolayısıyla, sevgiyi anlama biçimimiz imanımızın ve davranışlarımızın tamamını etkilemektedir. Örneğin, Tanrı’nın sevgisinin kazanılması ya da hak edilmesi gerektiğine inanan bir kişi, günahkâr ve değersiz olduğu için Tanrı’nın kendisini sevmediğini düşünüyor olabilir. Ve diğer insanlarla ilgili olarak, sevgiyi hak etmelerini bekleyebilir ki bu bir felaket tarifidir.
+
+Bu ve daha birçok şekilde, Tanrı’nın sevgisini nasıl anladığımızın imanımız ve yaşam pratiğimiz üzerinde büyük etkileri bulunmaktadır. Peki, sevgi nedir? On kişiden sevgiyi tanımlamalarını isteseniz, on farklı cevap alabilirsiniz. Hristiyanlar arasında bile Tanrı’nın sevgisi konusunda pek çok uydurma ve yanlış anlama mevcuttur.
+
+Örneğin, Hristiyanlar aşağıdaki gibi sorulara farklı yanıtlar vermektedir:
+
+Tanrı’nın sevgisi sadece veren ancak asla almayan bir sevgi midir? İlahi sevgi yalnızca özveri midir, yoksa Tanrı da insanlardan memnun ve hoşnut olabilir mi? Tanrı’nın sevgisi duygusal mıdır? Tanrı insanları gerçekten önemsiyor mu? Tanrı’nın sevgisi reddedilebilir ya da yitirilebilir midir? Tanrı yaratılmışlarla karşılıklı bir sevgi ilişkisine girmekte midir? Öfke sevgi ile bağdaşmaz mıdır? Sevgi ve adalet birbiriyle nasıl ilişkilidir? Tanrı sevgiyse, neden dünyada bu kadar çok kötülük var? İnsanlar Tanrı’nın sevdiği gibi sevebilir mi? Mümkün olsa, bu neye benzerdi?
+
+Bu sorulardan bazılarının yanıtları bariz görünse de Hristiyanların ilahi sevgiyi nasıl değerlendirdikleri sıklıkla tartışılmaktadır. Ve bazen çok açık olduğu düşünülen pek çok yanıtın, dikkatle incelendiğinde Kutsal Yazı’nın Tanrı’nın sevgisi hakkında öğrettikleriyle uyumsuz olduğu ortaya çıkmaktadır.
+
+Bu meselelerin hepsini bir seferde tartışmayacağız ancak bu çeyrek boyunca bu ve diğer konuları inceleyeceğiz. Ve Tanrı’nın sevgisinin düşündüğümüzden çok daha büyük olduğunu göreceğiz. Kutsal Yazı’da tasvir edildiği şekliyle Tanrı’nın sevgisi, bugün dünyamızın çoğunda “sevgi” olarak adlandırılan kavramlardan çok daha üstündür. Önümüzdeki haftalarda, Tanrı’nın sevgisinin Kutsal Kitap’ta açıklanan en belirgin ve güzel yönlerinden bazılarını daha yakından inceleyeceğiz.
+
+Ve devam ettikçe, ilahi sevgi ve adaletin nasıl ayrılmaz bir şekilde birbirine bağlı olduğunu göreceğiz. Kutsal Kitap’ın Tanrısı adaleti sevmektedir (örneğin bkz. Yşa. 61:8). Ve Kutsal Kitap’ın resmettiği gibi, ilahi sevgi ve adalet öyle bir birliktelik içindedir ki, biri olmadan diğerine sahip olamazsınız. Tanrı sevgi olduğu için, bu dünyadaki adaletsizlik ve acılarla derinden ilgilenmektedir ve Kendisini ezilenler ve acı çekenlerle özdeşleştirerek, kötülüğün yaratımda meydana getirdiği acı ve kederin içine isteyerek girmektedir –en çok da Kendisi acı çekmektedir, öyle ki Tanrı’nın Kendisi kötülüğün en büyük mağdurudur.
+
+Kutsal Kitap boyunca Tanrı kötülük ve acılar karşısında sürekli olarak kederlenir ve acı çeker çünkü O her bir kişiyi hayal edebileceğimizden çok daha fazla sevmektedir. Tanrı’nın sevgisinin derinliği, Mesih’in halkı için yaktığı ağıtta görülebilir: “Ey Yeruşalim! Peygamberleri öldüren, kendisine gönderilenleri taşlayan Yeruşalim! Tavuğun civcivlerini kanatları altına topladığı gibi ben de kaç kez senin çocuklarını toplamak istedim, ama siz istemediniz” (Mat. 23:27).
+
+Sevgi olan Kutsal Kitap’ın Tanrısı, Kutsal Yazı boyunca sık sık sevgisi reddedildiği ve kaybedildiği için kalbi kırık ve kederli olarak tasvir edilmiştir. Kutsal Yazı’nın tüm hikayesi, Tanrı’nın evrenin her köşesine ve her zerresine sevgiyi geri kazandırmak için yaptıkları ve yapmakta oldukları hakkındadır. Bu çeyreğin derslerinin konusu bu ve çok daha fazlasıdır.
+
+`John C. Peckham Adventist Review dergisinin yardımcı editörüdür. Bu kitapçık yazıldığı dönemde Andrews Üniversitesi Yedinci Gün Adventist İlahiyat Fakültesi’nde Teoloji ve Hristiyan Felsefesi profesörü olarak görev yapmaktaydı.`

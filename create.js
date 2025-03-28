@@ -15,7 +15,8 @@ var argv = require("optimist")
     "i": "Inside story",
     "m": "Create TMI (Total Member Involvement) News/Tips placeholder lessons",
     "k": "Create lesson cover placeholder images",
-    "f": "Format. Default is md."
+    "f": "Format. Default is md.",
+    "o": "Outlines",
   })
   .demand(["s", "l", "q", "c", "t", "d", "h"])
   .default({ "l" : "en", "c": 13, "u": false, "i": false, "m": false, "k": false, "f": "md" })
@@ -91,6 +92,7 @@ var LOCALE_VARS = {
     "lo": "ບົດຮຽນ",
     "lv": "Nodarbība",
     "or": "ଶିକ୍ଷା",
+    "om": "Barumsa",
     "pap": "Leccion",
     "pl": "Lekcja",
     "pt": "Lição",
@@ -109,6 +111,7 @@ var LOCALE_VARS = {
     "sw": "Somo",
     "te": "పాఠం",
     "ta": "பாடம்",
+    "ti": "ትምህቲ",
     "th": "บทเรียน",
     "tl": "Leksiyon",
     "tr": "Ders",
@@ -180,6 +183,7 @@ var LOCALE_VARS = {
     "ko": "### 우리는이 공과를 위해 노력하고있다..\n나중에 다시 시도 해주십시오..",
     "lo": "### ພວກເຮົາກໍາລັງເຮັດວຽກໃນບົດຮຽນນີ້.\nກະລຸນາກັບຄືນມາຫຼັງຈາກນັ້ນ.",
     "or": "### ଆମେ ଏହି ଶିକ୍ଷା ଉପରେ କାର୍ଯ୍ୟ କରୁଛୁ |\nଦୟାକରି ପରେ ଫେରି ଆସନ୍ତୁ |",
+    "om": "### Barnoota kana irratti hojjechaa jirra. Mee booda deebi'aa",
     "pap": "### Nos ta trahando riba e les aki.\nPor fabor, e ta bolbe despues.",
     "pl": "### Pracujemy nad tą lekcją.\nProszę przyjść później.",
     "pt": "### Estamos a trabalhar sobre esta lição.\nVolte mais tarde, por favor.",
@@ -198,6 +202,7 @@ var LOCALE_VARS = {
     "sw": "### Tunafanya kazi kwenye somo hili.\nTafadhali   rudi baadaye.",
     "ta": "### நாங்கள் இந்த பாடம் படித்து வருகிறோம்.\nதயவு செய்து மீண்டும் வாருங்கள்.",
     "te": "### మేము ఈ పాఠంపై పని చేస్తున్నాము.\nదయచేసి తర్వాత తిరిగి రండి.",
+    "ti": "### ነዚ ትምህርቲ ንሰርሕ ኣለና።",
     "th": "### เรากำลังดำเนินการในบทเรียนนี้\nโปรดกลับมาใหม่.",
     "tl": "### Nagsusumikap kami sa araling ito.\nSubukang muli mamaya.",
     "tr": "### Biz bu derste üzerinde çalışıyoruz.\nLütfen daha sonra gelin.",
@@ -397,7 +402,7 @@ function createLanguageFolder(quarterlyLanguage){
   console.log("Necessary " + quarterlyLanguage + " directory created");
 }
 
-function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmi, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark){
+function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarterlyLessonAmount, quarterlyTitle, quarterlyDescription, quarterlyHumanDate, quarterlyTeacherComments, quarterlyInsideStory, quarterlyTmi, quarterlyStartDate, lessonCover, quarterlyColorPrimary, quarterlyColorDark, outline){
 
   var start_date = moment(quarterlyStartDate, DATE_FORMAT),
       start_date_f = moment(quarterlyStartDate, DATE_FORMAT);
@@ -455,6 +460,12 @@ function createQuarterlyFolderAndContents(quarterlyLanguage, quarterlyId, quarte
       if (quarterlyTmi){
         fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/tmi.md",
             "---\ntitle:  "+LOCALE_VARS["tmi"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
+        );
+      }
+
+      if (outline){
+        fs.outputFileSync(SRC_PATH+ "/" + quarterlyLanguage + "/" + quarterlyId + "/" + pad(i) + "/hope-ss.md",
+            "---\ntitle:  "+LOCALE_VARS["daily_lesson_title"][quarterlyLanguage]+"\ndate:   "+moment(start_date).add(-1, "d").format(DATE_FORMAT)+"\n---\n\n"+LOCALE_VARS["empty_placeholder"][quarterlyLanguage]
         );
       }
 
@@ -548,5 +559,5 @@ try {
     console.log("Something weird happened. Aborting");
   }
 } catch (e) {
-  createQuarterlyFolderAndContents(argv.l, argv.q, argv.c, argv.t, argv.d, argv.h, argv.u, argv.i, argv.m, argv.s, argv.k, argv.y, argv.z);
+  createQuarterlyFolderAndContents(argv.l, argv.q, argv.c, argv.t, argv.d, argv.h, argv.u, argv.i, argv.m, argv.s, argv.k, argv.y, argv.z, argv.o);
 }

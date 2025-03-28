@@ -1,0 +1,11 @@
+### Vista geral
+
+Tudo começou durante meu primeiro ano do ensino médio, quando eu tinha 15 anos. Na época, meu comportamento não era dos melhores, e meus pais decidiram que eu precisava mudar de ambiente. Então, me enviaram para a Pine Forge Academy, um internato adventista localizado em uma área rural do estado da Pensilvânia (EUA).
+
+Meu pai me deu uma Bíblia e um livro incrível para levar comigo: Mente, Caráter e Personalidade, de Ellen White. Enquanto lia essa obra, encontrei um texto que transformaria minha vida para sempre: Somos transformados pela contemplação – “essa é uma lei, tanto da natureza intelectual quanto da espiritual. A mente vai se adaptando aos assuntos com os quais se ocupa. Vai assimilando aquilo que está acostumada a amar e reverenciar” (Mente, Caráter e Personalidade [CPB, 2024], v. 1, p. 240).
+
+Nesse mesmo livro aprendi como o estudo da Bíblia fortalece a mente e transforma o caráter. E, quando li sobre a importância de reservar um tempo diário com Deus, decidi construir meu próprio altar de adoração.
+
+Os resultados dessa decisão foram imediatos e duradouros. Eu atribuo todas as bênçãos recebidas ao tempo de comunhão que passei no altar com Deus. Não há nada mais importante que um jovem possa fazer do que construir seu próprio altar.
+
+Em 2018, a Igreja Adventista do Sétimo Dia divulgou o relatório Global Church Member Survey [Pesquisa Global de Membros da Igreja] que revelou que apenas 37% dos lares adventistas realizam cultos familiares diários e apenas 52% dos adventistas solteiros mantêm uma vida devocional. Quando li esse relatório, percebi que estamos enfrentando um problema. Os adventistas do sétimo dia são chamados a proclamar o último convite do Céu para um mundo que está perecendo, as três mensagens angélicas de Apocalipse 14:6-12 – uma mensagem centrada na adoração. Mas como pessoas que não se envolvem na adoração diária podem transmitir uma mensagem que diz respeito à adoração? Como podemos proclamar ao mundo aquilo que não vivemos?

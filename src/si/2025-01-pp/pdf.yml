@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-Intro.pdf'
+      target: si/2025-01-pp/introduction
+      title: හැදින්වීම
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-01.pdf'
+      target: si/2025-01-pp/01
+      title: 'සෑමතැනම පූජාසන'
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-02.pdf'
+      target: si/2025-01-pp/02
+      title: 'වළක, සිරගෙදරක, මාළිගයක'
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-03.pdf'
+      target: si/2025-01-pp/03
+      title: 'පඳුර අසල හමුවීම'
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-04.pdf'
+      target: si/2025-01-pp/04
+      title: 'අපි සංවිධානය වෙමු'
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-05.pdf'
+      target: si/2025-01-pp/05
+      title: 'නියම හිතුවක්කාරයා'
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-06.pdf'
+      target: si/2025-01-pp/06
+      title: 'ස්වර්ගය පෙර දැක්මක්'
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-07.pdf'
+      target: si/2025-01-pp/07
+      title: 'වියෝවීමේ කණගාටුවට පාවුල්තුමාගෙන් විසඳුමක්'
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-08.pdf'
+      target: si/2025-01-pp/08
+      title: 'පාවුල්ගේ ජයග්‍රහණයේ රහස'
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-09.pdf'
+      target: si/2025-01-pp/09
+      title: 'ඉදිකෙරෙමින් පවතී'
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-10.pdf'
+      target: si/2025-01-pp/10
+      title: 'සටන්කාමී යාච්ඤා කරන්නෝ'
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-11.pdf'
+      target: si/2025-01-pp/11
+      title: 'ඇයගේ වාදනය වෙනස් කිරීම'
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-12.pdf'
+      target: si/2025-01-pp/12
+      title: 'ගිනි නොඇවිලෙන'
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-01/ABSG-2025-01-SI-PP-13.pdf'
+      target: si/2025-01-pp/13
+      title: 'සියල්ල දැන සිටීම'
+      start_date: 22/03/2025
+      end_date: 28/03/2025

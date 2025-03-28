@@ -1,0 +1,132 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-01.pdf'
+      target: zh/2025-01-hant-cc/01
+      title: 活的信息
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-02.pdf'
+      target: zh/2025-01-hant-cc/02
+      title: 救主降生
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-03.pdf'
+      target: zh/2025-01-hant-cc/03
+      title: 主的僕人(使女)
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-04.pdf'
+      target: zh/2025-01-hant-cc/04
+      title: 尋找的，就必尋見
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-05.pdf'
+      target: zh/2025-01-hant-cc/05
+      title: 跟隨那顆星
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-06.pdf'
+      target: zh/2025-01-hant-cc/06
+      title: 逐漸成長
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-07.pdf'
+      target: zh/2025-01-hant-cc/07
+      title: 獨一無二
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-08.pdf'
+      target: zh/2025-01-hant-cc/08
+      title: 艱難的目标
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-09.pdf'
+      target: zh/2025-01-hant-cc/09
+      title: 你來看！
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-10.pdf'
+      target: zh/2025-01-hant-cc/10
+      title: 與耶稣歡聚
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-11.pdf'
+      target: zh/2025-01-hant-cc/11
+      title: 離開我家！
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-12.pdf'
+      target: zh/2025-01-hant-cc/12
+      title: 重生
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-13.pdf'
+      target: zh/2025-01-hant-cc/13
+      title: 他必興旺，我比衰微
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-01.pdf'
+      target: zh/2025-01-hant-cc/01
+      title: 教師本
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-02.pdf'
+      target: zh/2025-01-hant-cc/02
+      title: 教師本
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-03.pdf'
+      target: zh/2025-01-hant-cc/03
+      title: 教師本
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-04.pdf'
+      target: zh/2025-01-hant-cc/04
+      title: 教師本
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-05.pdf'
+      target: zh/2025-01-hant-cc/05
+      title: 教師本
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-06.pdf'
+      target: zh/2025-01-hant-cc/06
+      title: 教師本
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-07.pdf'
+      target: zh/2025-01-hant-cc/07
+      title: 教師本
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-08.pdf'
+      target: zh/2025-01-hant-cc/08
+      title: 教師本
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-09.pdf'
+      target: zh/2025-01-hant-cc/09
+      title: 教師本
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-10.pdf'
+      target: zh/2025-01-hant-cc/10
+      title: 教師本
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-11.pdf'
+      target: zh/2025-01-hant-cc/11
+      title: 教師本
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-12.pdf'
+      target: zh/2025-01-hant-cc/12
+      title: 教師本
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-01/ABSG-2025-01-ZH-HANT-CC-TE-13.pdf'
+      target: zh/2025-01-hant-cc/13
+      title: 教師本
+      start_date: 22/03/2025
+      end_date: 28/03/2025

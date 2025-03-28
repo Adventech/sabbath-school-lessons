@@ -1,0 +1,30 @@
+---
+  title: "Teacher Guide"
+  description: "A Sabbath School Teacher Guide for Babies 0–12 Months"
+  human_date: "Baby Steps. Growing with Jesus"
+  start_date: "01/01/2025"
+  end_date: "31/12/2025"
+  color_primary: "#805A43"
+  color_primary_dark: "#68391E"
+  credits:
+    - name: Contributors
+      value: Raquel de Korniejzuk, Nilde Itin, and Nina Atcheson
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard and Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Frank M. Hasel
+    - name: Creative Direction
+      value: Nina Atcheson
+    - name: Designer
+      value: Jordan Bariesheff
+    - name: Illustrator
+      value: Jayde Bray
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Babies"
+    "order": 870

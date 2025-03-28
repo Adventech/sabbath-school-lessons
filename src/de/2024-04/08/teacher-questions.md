@@ -37,7 +37,7 @@ date:   22/11/2024
 -   Was lehren uns diese Verse über Jesu Einstellung zur Autorität der
     Heiligen Schrift?
 -   Wie kann es sein, dass die Pharisäer sich auf Mose berufen und
-    meinen, ihm ganz besonders treu nachzufolgen -- wofür Mose sie am
+    meinen, ihm ganz besonders treu nachzufolgen – wofür Mose sie am
     Ende verklagen wird? Wie kann man sich vor einer solchen Täuschung
     schützen? Wo siehst du heute Ansätze, in religiösem Eifer
     möglicherweise die Schrift zu vernachlässigen?
@@ -50,11 +50,11 @@ date:   22/11/2024
 
 -   Was bezeugen die folgenden Texte von Jesus?
 
-**Psalm 69,10 \| Johannes 2,16-17**
+**Psalm 69,10 | Johannes 2,16-17**
 
-**Jeremia 2,13 \| Johannes 7,38**
+**Jeremia 2,13 | Johannes 7,38**
 
-**Sacharja 9,9 \| Johannes 12,14-15**
+**Sacharja 9,9 | Johannes 12,14-15**
 
 **Johannes 13,18; Psalm 41,10**
 
@@ -67,16 +67,17 @@ date:   22/11/2024
 
 -   Wie kommen die Juden darauf, dass Jesus womöglich Selbstmord begehen
     möchte?
--   Was ist mit „unten" und „oben" gemeint? Wie würdest du das in
-    eigenen Worten ausdrücken? Wie können wir „von oben" und nicht „von
-    unten" sein -- und wie können wir den Unterschied erkennen?
--   Was ist mit der „Erhöhung" Jesu gemeint? \[Kreuzigung.\] Weshalb
-    werden die Juden gerade dann erkennen, dass „er" es ist, also der
+-   Was ist mit „unten“ und „oben“ gemeint? Wie würdest du das in
+    eigenen Worten ausdrücken? Wie können wir „von oben“ und nicht „von
+    unten“ sein – und wie können wir den Unterschied erkennen?
+-   Was ist mit der „Erhöhung“ Jesu gemeint? \[Kreuzigung.\] Weshalb
+    werden die Juden gerade dann erkennen, dass „er“ es ist, also der
     Messias? Inwiefern traf das ein?
 -   Welche Dynamik herrscht hier (und bei so vielen anderen Gesprächen)
     zwischen Jesus und den religiösen Führern? Warum wurde er derart
-    abgelehnt -- trotz all seiner guten Werke und Wunder?
+    abgelehnt – trotz all seiner guten Werke und Wunder?
 -   Welche Lehren ziehst du aus dem Gespräch zwischen Jesus und den
     religiösen Führern?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
+https://wiki.sabbatschule.at
