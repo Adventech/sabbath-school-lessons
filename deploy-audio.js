@@ -92,8 +92,8 @@ let audioAPI = async function (mode) {
 
     let audios = glob.sync(`${SOURCE_DIR}/${compile_language}/${compile_quarter}/${SOURCE_AUDIO_FILE}`);
 
-
     let curlConfig = ""
+    let invalidationList = new Set()
 
     for (let audio of audios) {
         let audioInfo = []
@@ -173,6 +173,10 @@ let audioAPI = async function (mode) {
                 }
 
                 if (mode === "gen" && !fs.pathExistsSync(`audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/`)) {
+                    invalidationList.add(`/api/v1/${info.language}/quarterlies/${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v2/${info.language}/quarterlies/${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v1/${info.language}%2Fquarterlies%2F${info.quarterly}/audio.json`)
+                    invalidationList.add(`/api/v2/${info.language}%2Fquarterlies%2F${info.quarterly}/audio.json`)
                     curlConfig += `
 url = "${track.src.replace(/ /g, "\%20")}"
 output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audioItem.id}${extname}"
@@ -208,6 +212,19 @@ output = "audio/audio/${info.language}/${info.quarterly}/${audioItem.id}/${audio
 
     if (mode === "gen" && curlConfig.trim().length > 1) {
         fs.outputFileSync(`curl-config.txt`, curlConfig);
+
+        let invalidationArray = Array.from(invalidationList)
+        let invalidationJSON = {
+            "Paths": {
+                "Quantity": invalidationArray.length,
+                "Items": invalidationArray
+            },
+            "CallerReference": `deploy-audio.js (${Date.now()})`
+        }
+
+        if (invalidationArray.length > 0) {
+            fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
+        }
     }
 };
 

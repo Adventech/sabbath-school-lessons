@@ -1,0 +1,58 @@
+---
+title: Lehrerteil
+date: 27/06/2025  
+---
+
+**Schlüsseltext:** Jona 1,9
+
+**Studienschwerpunkt:** Matthäus 12,38–42; Jona 3,5–10; Offenbarung 18,4; ­Daniel 5,1–31
+
+### TEIL I: ÜBERSICHT
+
+Da die Bibel im Wesentlichen vom Reich Gottes handelt, ist ihre zentrale Botschaft auf das Ende und das himmlische Reich Gottes ausgerichtet. Diese eschatologische Ausleuchtung wird in den apokalyptischen Prophezeiungen der Bibel, die das Endzeitszenario klar und deutlich darlegen, bezeugt und offenbart. Diese Offenbarung findet sich auch an anderer Stelle in der Heiligen Schrift, nämlich durch konkrete Ereignisse von Gericht und Erlösung, die sich in der Endzeit ereignen werden.
+
+In der Lektion dieser Woche wurden drei dieser Ereignisse, die ein gemeinsames Merkmal aufweisen, ausgewählt: Sie finden alle am Ende der Geschichte des biblischen Israel statt und haben mit den Heiden, den „Völker[n]“ zu tun (vgl. 1 Mo 12,3; 22,18). Das erste Ereignis ist dramatisch: Es handelt sich um das Gericht und die Buße des gesamten Volkes von Ninive, die auf die widerwillige Missionskampagne des Propheten Jona folgten. Das zweite Ereignis ist tragisch: Es handelt sich um das Gericht über Belsazar und seine Nichtbuße, die mit dem Verlust seines Königreiches endeten. Und das dritte Ereignis ist glorreich: Es handelt sich um die Rettung des Volkes Gottes dank der Unterstützung des persischen Königs Kyrus. Es überrascht, dass die Endzeit das Ereignis der Erlösung der Nationen ist, die sich schließlich den Reihen Israels anschließen; doch es ist symptomatisch für den kosmischen Charakter des eschatologischen Moments entsprechend der Vorhersage von Paulus: „… bis die volle Zahl der Heiden hinzugekommen ist. Und so wird ganz Israel gerettet werden“ (Röm 11,25–26).
+
+### TEIL II: KOMMENTAR
+
+**Das Gericht über Ninive**
+
+Der Prophet Jona, der der israelitische Missionar für das Volk von Ninive war, erzählt uns die Geschichte seines Erfolgs und Misserfolgs. Gott berief ihn, von seinem Wohnort in Gat-Hefer (2 Kön 14,25) wegzugehen, einem kleinen Ort im nördlichen Teil des alten Israel zur Zeit von Jerobeam II. im achten Jahrhundert v. Chr. (785 v. Chr.). Diese Zeit wird im Buch der Könige als eine schlechte Zeit für Israel beschrieben, da dessen Untreue Gottes Zorn gegen es entflammte (2 Kön 13,3). Doch „der HERR hatte nicht gesagt, dass er den Namen Israels austilgen wollte unter dem Himmel“ (2 Kön 14,27). Stattdessen „rettete er sie“ vor dem Feind (2 Kön 14,27 EB).
+
+Ironischerweise rief Gott Jona gerade während dieser Zeit der Untreue Israels auf, nach Ninive zu gehen, um dessen Bürgern zu predigen und sie zur Buße zu bewegen. Jona erzählt uns, dass die gesamte Stadt – zu seiner tiefen Verärgerung – Buße tat. Jona war so verärgert über Gottes Missionsauftrag, dass er sich weigerte zu gehorchen. Anstatt wie von Gott angewiesen nordwärts nach Ninive zu reisen, entschied sich Jona, südwärts nach Jafo zu reisen und sich dann nach Tarsis einzuschiffen.
+
+Das Buch Jona erzählt uns dann, wie Jona im Bauch eines großen Fisches landete, der ihn auf trockenes Land ausspie (Jona 2,10). Jona wird als der Prophet in Erinnerung bleiben, der von einem großen Fisch verschluckt wurde, weil er sich weigerte, die Stadt Ninive vor Gottes Gericht zu warnen. Ironischerweise bewahrte die Keilschrift der Menschen von Ninive das Gedächtnis dieses Wunders; die keilschriftliche Darstellung des Namens Ninive bedeutet „großer Fisch in der Stadt“. Es ist, als würde der Name der Stadt selbst andeuten, zu welchen Maßnahmen Gott, enttäuscht von seinem eigenen Volk, bereit wäre, um eine heidnische Nation zu retten, die für seine Barmherzigkeit empfänglicher war.
+
+Die Geschichte von Jona in Ninive dient als Illustration dafür, wie Gott mit seinem Volk und den Nationen umgeht. Wir sehen darin deutlich, wie Gott den Sündern Gnade erweist und sie dennoch für ihre nicht bereuten Sünden bestraft.
+
+**Das Gericht über Belsazar**
+
+Der Bericht des Gerichts über den babylonischen König Belsazar folgt dem Bericht von Nebukadnezars Verurteilung und Buße, als ob der biblische Autor beabsichtigte, den Kontrast zwischen den beiden babylonischen Königen herauszustellen. Während ­beide Könige stolz sind und gegen Gott sündigen, erhalten sie nicht dasselbe Urteil. ­Nebukadnezar wird vergeben und das Kapitel, das von seiner Erfahrung berichtet, endet mit seinem Lied, in dem er Gott lobt, der die Stolzen erniedrigen kann (Dan 4,37). Auf der anderen Seite weigert sich Belsazar, der von der Erfahrung seines Vorfahrens wusste (Dan 5,22), Buße zu tun. Im Gegenteil, er wiederholt absichtlich die anmaßenden Handlungen Nebukadnezars (siehe Lektionen 5 und 12) und geht in seiner Bosheit sogar noch weiter als sein Vorfahre. Während Nebukadnezars Absicht lediglich darin bestand, die Gefäße des Tempels in seinen eigenen Tempel zu bringen, trinkt Belsazar aus diesen Gefäßen und wird betrunken. Nebukadnezar begnügt sich damit, die anderen Metalle der Statue abzulehnen (siehe Dan 3) und hält nur am Gold fest, das ihn selbst repräsentiert. Am Ende erkennt er schließlich seine Torheit und richtet seinen Lobpreis an den Gott des Himmels, der ewig lebt (Dan 4,34).
+
+Belsazar hingegen lobt alle Götter, die durch diese Metalle repräsentiert werden (Dan 5,4). Er beleidigt Gott absichtlich. In dem Moment, als er die Götzen preist, erscheint eine Hand an der weißen Wand und schreibt Gottes Urteil gegen ihn auf.
+
+Sogar der jeweilige Ausgang der Geschichte jedes Königs kennzeichnet den Kon­trast zwischen ihnen. Nebukadnezar, der aufgrund des göttlichen Gerichts über seinen Stolz gezwungen wurde, wie ein Tier auf dem Boden zu kriechen, erlangt seine aufrechte Stellung zurück. Dann wurden ihm „Herrlichkeit“ und „Glanz“ wiedergegeben (Dan 4,33). Belsazar, der auf dem Thron sitzt und sich seiner so sicher ist, kann nun weder aufstehen noch sich selbst kontrollieren, seine Knie schlottern und er „schrie laut“ (Dan 5,6–7 EÜ). Der König ruft seine Weisen um Hilfe, denn er kann die Inschrift nicht lesen, die die mysteriöse Hand an die Wand geschrieben hat. Selbst seine Weisen sind nicht in der Lage, sie zu verstehen.
+
+Dann kommt die Königinmutter, Nebukadnezars Tochter und Nabonids Frau, zeugt von Daniels überlegener Fähigkeit und erinnert Belsazar damit an Nebukadnezars geistliche Erfahrung. Daniel, der Vertreter des Gottes, den der König beleidigt hatte, ist der Einzige, der die Gerichtsinschrift lesen und deuten kann, die das Ende von Belsazars Königreich voraussagt (Dan 5,26–29). Die drei Wörter der Inschrift an der Wand fassen das Gericht gegen Belsazar zusammen und vermitteln somit eine Vorstellung davon, was das Urteil ausmachen wird: „gezählt“ bedeutet Rechenschaftspflicht; „gewogen“ weist auf eine Bewertung hin; „zerteilt“ bedeutet „Ablehnung“.
+
+**Das Urteil über Kyrus**
+
+Der persische König Kyrus nimmt in der Bibel einen einzigartigen Platz ein. Kyrus ist die einzige heidnische Person, die den Titel „Messias“ oder „Gesalbter“ (Jes 45,1) erhält. Die Bibel geht so weit, Kyrus mit dem messianischen Retter, Christus, in Verbindung zu bringen. Über die Rettung Israels aus dem Exil in Babylon durch den Messias Kyrus hinaus sieht der Prophet Daniel den universellen Messias, der die Menschen aus der Gewalt des Bösen befreien wird. Außerdem sagt der Prophet das Ereignis nicht nur voraus.
+
+Indem er die 70 Jahre von Kyrus mit den 70 Wochen der babylonischen Gefangenschaft in Beziehung setzt, weist Daniel den Leser darauf hin, dass diese Wochen ­prophetisch zu deuten sind. Die 70 Jahre beziehen sich auf wörtliche Jahre, die zum Kommen des Messias Kyrus führen (Jes 45,1), der das historische Israel in das alte ­Palästina zurückbrachte. In der Tat unterstützt der Messias Kyrus den historischen Charakter des Messias Jesus Christus und sein Erlösungsgeschehen. Die 70 Wochen (von Jahren) sind prophetische Wochen, die zum Kommen des universellen Messias führen, der die Welt von der Sünde retten und somit durch die Versöhnung Vergebung für die Sünde bieten wird. Diese Parallele zwischen den beiden Messiassen ist auch im Buch Jesaja zu finden, wo es durch eine erhebliche Anzahl von sprachlichen und thematischen Ebenen deutliche Anklänge zwischen dem Messias Kyrus in Jesaja 45 und dem leidenden Gottesknecht in Jesaja 53 gibt.
+
+Der Messias Kyrus spielte eine entscheidende Rolle beim Fall Babylons, des Erzfeindes Israels; er brachte außerdem Israel wieder in sein Land zurück (Esr 1,1–3) und half sogar den Juden beim Wiederaufbau des Tempels in Jerusalem unter dem Hohepriester Jeschua (Esr 3,2–3). Es ist bedeutsam, dass das Buch Offenbarung eine Parallele zwischen Kyrus’ Errungenschaften und der Wiederkunft Christi zieht. Das Austrocknen des Euphrat, das Kyrus, dem König des Ostens, den Eintritt in die Stadt Babylon ermöglichte und zu ihrem Fall führte, dient als Vorlage für die Beschreibung der Wiederkunft Christi am Ende der Zeit (Offb 16,12). Kyrus bereitete den Boden für das zukünftige Kommen Christi und die Rettung der Menschheit. Darüber hinaus war Kyrus ein Typus Christi. Die Rolle, die Kyrus beim ersten Kommen Christi spielte, könnte auf das Szenario hinweisen, das am Ende der Zeit in Verbindung mit dem zweiten Kommen Christi stattfinden kann. So dürfen wir wohl annehmen, dass die letzten Ereignisse der Erlösung auch Menschen außerhalb des regulären kirchlichen Musters einbeziehen werden.
+
+### TEIL III: ANWENDUNG
+
+1. Inwiefern ist das Beispiel von Jona eine Warnung gegen religiöse Vorurteile? Sprecht darüber.
+
+2. Die Kirche mag darin versagen, beständig Gerechtigkeit an den Tag zu legen. Aber wie können die Menschen der Welt im Gegensatz dazu dabei erfolgreich sein? Jesus machte den religiösen Menschen seiner Zeit deutlich: „Die Zöllner und Huren kommen eher ins Reich Gottes als ihr“ (Mt 21,31). Was wollte Jesus mit diesen Worten ausdrücken?
+
+3. Dass Gerechtigkeit auch ein Teil des Gerichts ist, ist ein Garant für Gottes Ernsthaftigkeit in seinem Erlösungshandeln, das auf die völlige Auslöschung des Bösen und des Todes abzielt. Inwiefern ist die Spannung zwischen Gerechtigkeit und Gnade auch eine Botschaft des Trostes und der Hoffnung?
+
+4. Warum können wir nur auf der Grundlage von Gottes Barmherzigkeit und nicht auf der Grundlage unserer Verdienste gerettet werden?
+
+5. Es gibt zwei wichtige Wahrheiten, die wir über Gottes Gericht in der Endzeit verstehen müssen: Erstens wird jeder informiert und gewarnt werden; zweitens wird es einen Zeitpunkt geben, an dem es zu spät sein wird, um Buße zu tun. Wendet die Bedeutung der drei Wörter der Wandinschrift auf die Kirche in der Endzeit an: „gezählt“ bedeutet, dass wir für alles, was wir tun und nicht tun, verantwortlich sind; „gewogen“ bedeutet, dass die „Guten“ und die „Bösen“ getrennt werden (nur Gott hat diese Fähigkeit zur Unterscheidung); „zerteilt“ bedeutet, dass anderen die Erlösung gegeben wird.
+
+6. Lest die folgende Ermutigung von Ellen White: „Die Zeit ist nicht fern, in der das Volk Gottes aufgefordert wird, vor den Herrschern der Erde Zeugnis abzulegen … Es bleibt keine Zeit für Eitelkeit, für Nichtigkeiten, für die Beschäftigung mit unwichtigen Dingen“ (The Advent Review and Sabbath Herald, 26. April 1892). Inwiefern ermutigt euch dieses Zitat, Gottes Endzeitbotschaft und -warnungen Menschen in Autoritäts- und Machtpositionen mitzuteilen?

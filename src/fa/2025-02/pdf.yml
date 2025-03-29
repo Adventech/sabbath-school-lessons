@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-Intro.pdf
+      title: مقدمه
+      target: fa/2025-02/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-01.pdf
+      target: fa/2025-02/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-02.pdf
+      target: fa/2025-02/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-03.pdf
+      target: fa/2025-02/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-04.pdf
+      target: fa/2025-02/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-05.pdf
+      target: fa/2025-02/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-06.pdf
+      target: fa/2025-02/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-07.pdf
+      target: fa/2025-02/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-08.pdf
+      target: fa/2025-02/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-09.pdf
+      target: fa/2025-02/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-10.pdf
+      target: fa/2025-02/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-11.pdf
+      target: fa/2025-02/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-12.pdf
+      target: fa/2025-02/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/fa/2025-02/ABSG-2025-02-FA-13.pdf
+      target: fa/2025-02/13

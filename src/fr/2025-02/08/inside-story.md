@@ -1,0 +1,18 @@
+---
+title:  Histoire Missionnaire
+date:   23/05/2025
+---
+
+### 4e partie: Ex-petit ami adventiste
+
+_Par Andrew McChesney_
+
+Les pensées de Diana sont revenues à Dieu après que la voix apaisante l’ait empêchée de se suicider. Ce dimanche-là, elle emmena ses trois enfants dans une petite église de Santa Fe, au Nouveau-Mexique. Ils s’assirent sur le banc jusqu’à ce que les musiciens de l’église commencent à jouer. Elle n’aimait pas la musique qu’elle entendait venant des choristes. Cela lui rappelait une mauvaise partie de sa vie. Elle sortit de l’église avec ses enfants.
+
+La vie de Diana semblait aller de mal en pis. Des voleurs firent irruption dans son appartement et emportèrent le peu qu’elle avait. Elle tomba enceinte de son petit ami violent, et sa seule réponse fut: « Je vais payer pour l’avortement. » Une nuit, alors que les enfants dormaient dans leur lit, elle s’assit dans le noir dans son salon, remplie de honte et de haine de soi. Elle s’écria avec colère à Dieu: « Est-ce pour cela que tu m’as sauvée? » La colère se transforma en sanglots lorsqu’elle se souvint de ses années de lutte. « Jésus », supplia-t-elle. « J’ai besoin de Toi. » Instantanément, elle sentit une intense poussée d’énergie l’envahir. La pièce était plongée dans l’obscurité totale, mais elle semblait être remplie de lumière. C’était comme si elle était étreinte par Dieu du ciel. Un sentiment écrasant de joie, de paix et d’amour remplissait tout son être. Peu de temps après, elle tomba dans un profond sommeil paisible. Le matin, les sentiments intenses avaient disparu, mais elle sentait que quelque chose était différent.
+
+Quelques mois plus tard, elle rencontra une personne étrange et particulière. Loren Fish était un adventiste du septième jour de quatrième génération. Son père était pasteur et implanteur d’églises. Mais au cours de sa première année d’université, Loren s’était éloigné de Dieu, avait commencé à boire et finit par abandonner l’église. Il rencontra Diana dans un club de danse à Santa Fe, au Nouveau-Mexique, et lui demanda de la ramener chez elle. Diana trouva l’étranger ennuyeux, mais elle l’emmena. Après cela, Loren ne la laissa plus seule. Il avait découvert où elle travaillait et lui a rendu visite. Diana n’était pas intéressée à s’engager dans une autre relation. Elle n’avait pas quitté le mauvais dans lequel elle se trouvait. De plus, Loren avait 4 ans et demi de moins, et il semblait naïf et immature. En vérité, elle ne voulait pas qu’il sache à quel point elle était désordonnée et ne voulait pas être blessée à nouveau. Alors, elle le repoussa. Loren quitta Santa Fe et s’installa près de Chicago.
+
+Puis, une nuit, Loren appela après que le petit ami de Diana soit devenu violent, crevant les pneus de sa voiture et l’attaquant sur le parking du journal où ils travaillaient tous les deux. Diana était heureuse d’entendre sa voix et elle se souvint s’être sentie en sécurité avec lui. « Tu peux venir me rendre visite quand tu veux », lui dit-elle. Loren arriva ce weekend-là, et il ne repartit plus.
+
+_Cette histoire missionnaire offre un aperçu de la façon dont Dieu a miraculeusement œuvré dans la vie de Diana Fish, directrice du développement de l’école indienne adventiste du septième jour Holbrook, basée aux États-Unis, qui a reçu l’offrande du treizième sabbat en 2021. Merci de soutenir la propagation de l’évangile avec l’offrande du treizième sabbat de ce trimestre, le 28 juin. En savoir plus sur Diana la semaine prochaine._

@@ -1,0 +1,58 @@
+---
+title:  Komen Guru
+date:   11/04/2025
+---
+
+**Ayat Kunci:** Yohanes 1:29
+
+**Tumpuan Kajian:** Kej 22:1-18, Yohanes 3:16.
+
+### Bahagian I: Pandangan Keseluruhan
+
+Kejadian, buku pertama dalam Alkitab, mengandungi kebenaran asas yang merangkumi intipati mesej penyelamatan dan nubuatan dalam Kitab Suci. Dari kisah kosmik mengenai penciptaan (Kejadian 1-2), di mana Tuhan mengubah kekosongan dan kacau-bilau menjadi kehidupan, hingga kisah Yusuf, di mana Tuhan membawa hasil penebusan dari perbuatan jahat (Kejadian 50:20), kitab Kejadian memberi kesaksian tentang rancangan penyelamatan Tuhan. Di tengah-tengah kitab Kejadian, kisah mengenai Ishak diikat (Kejadian 22:1-18) meletakkan tema-tema asas dalam rancangan ilahi ini.
+
+Dalam pelajaran minggu ini, kita akan mengupas pelbagai tema dalam rancangan penyelamatan Tuhan yang muncul dari kisah dramatik Akedah (“pengikatan Ishak”). Tema pertama adalah “kasih,” yang daripadanya berasal semua tindakan Tuhan yang lain.
+
+Dalam kisah ini, perkataan Ibrani “ahab”, “kasih,” digunakan untuk kali pertama dalam Alkitab, secara khusus dalam ucapan Tuhan yang merujuk kepada kasih seorang bapa (Kejadian 22:2).
+
+Tema kedua dari Akedah ini ialah pernyataan kasih Tuhan melalui pengorbanan Anak-Nya, yang dinyatakan lebih awal melalui gambaran oleh Ishak dengan domba korban (Kejadian 22:7-10). Tema ketiga adalah manifestasi nyata kasih Tuhan dalam sejarah, secara khusus dalam konflik besar yang akan menempatkan “benih” nitu berlawanan dengan ular, dan akan berakhir dengan kemenangan oleh “benih” itu atas kejahatan dan maut. Peristiwa ini dilambangkan melalui kemunculan yang tidak dijangka seekor “kambing jantan” (Kejadian 22:13), yang meramalkan peristiwa eskatologi Hari Pendamaian.
+
+### Bahagian II: Ulasan
+
+**Kasih TUHAN**
+
+Adalah mustahil untuk memahami kasih Tuhan, kerana mustahil untuk “mengerti... betapa lebarnya, panjangnya, tingginya dan dalamnya kasih Kristus, dan mengetahui kasih Kristus ini yang tidak terjangkau oleh pengetahuan manusia...” (Ef. 3:18, 19, NKJV). Namun demikian, hakikat bahawa kata kerja “ahab”, “kasih,” muncul buat pertama kalinya dalam Kitab Suci yang merujuk kepada kasih seorang bapa—kasih Abraham kepada Ishak, “anak tunggalnya” (Kej. 22:2)— adalah penting.. Dalam konteks khusus kasih Abraham kepada anaknya yang unik, kualiti kasih Abraham kepada Tuhan harus "diuji" dan dengan itu dinyatakan (Kej. 22:1; bandingkan dengan Kej. 22:12).
+
+Tetapi bukan hanya kasih Abraham kepada Tuhan yang akan diuji dan dinyatakan. Semasa pengalaman peribadi Abraham, kasih Tuhan juga dinyatakan kepada Abraham. Maka dengan itu, Abraham memahami kedalaman kasih Tuhan. Seperti yang dijelaskan oleh Ellen G. White: “Ia adalah untuk menarik perhatian Abraham terhadap realiti pada injil, serta untuk menguji imannya, Tuhan memerintahkan dia untuk membunuh anaknya. Penderitaan yang dia alami selama hari-hari berada di dalam pencubaan gelap yang menakutkan itu diizinkan supaya dia dapat memahami dari pengalamannya sendiri sesuatu tentang kebesaran pengorbanan yang dilakukan oleh Tuhan yang maha kuasa itu untuk penebusan manusia.... Apakah lagi bukti yang lebih kuat yang boleh diberikan tentang rahmat dan kasih Tuhan yang tidak terhingga?”—Patriarchs and Prophets, ms. 154.
+
+Tuhan tidak memberikan kepada Abraham penjelasan falsafah, teologi, atau psikologi tentang kasih-Nya. Tuhan memilih untuk membiarkan Abraham menanggung (pada tahapnya yang terbatas) apa yang harus ditanggung oleh Tuhan (pada tahap-Nya yang tidak terbatas). Persamaan antara Abraham, yang mempersembahkan “anak tunggalnya,” yang dikasihinya, dan Tuhan, yang mempersembahkan Anak tunggal-Nya, yang Dia, “Bapa kasih akan Anak” (Yohanes 5:20, NKJV), ditegaskan oleh Yohanes yang menggunakan bahasa yang sama (intertekstualiti) dalam definisinya tentang “kasih”: “TUHAN begitu mengasihi dunia sehingga menganugerahkan Anak-Nya yang tunggal supaya setiap orang yang percaya kepada-Nya tidak binasa melainkan mendapat hidup kekal” (Yohanes 3:16, AVB; bandingkan dengan 1 Yohanes 4:9, AVB).
+
+**Anak Domba TUHAN**
+
+Gelaran “anak domba Tuhan” digunakan oleh Yohanes untuk mengenali Yesus: “Pada keesokan harinya, Yohanes melihat Yesus berjalan ke arahnya lalu berseru, “Lihatlah Anak Domba Tuhan yang menghapuskan dosa umat manusia!” (Yohanes 1:29, AVB. bandingkan dengan Yohanes 1:36). Adalah menarik dan penting bahawa rujukan kepada “domba” muncul buat pertama kalinya dalam Kitab Suci dalam konteks kisah Ishak diikatkan untuk merujuk kepada korban “korban bakaran” (Kej. 22:7).. Walau bagaimanapun, ini bukanlah kali pertama seekor kambing digunakan sebagai korban. Habel pasti telah mempersembahkan seekor anak domba untuk korban bakaran (Kej. 4:4, NKJV; bandingkan dengan Bil. 18:17). Tetapi ini adalah kali pertama perkataan sê, “domba,” disebut dengan jelas. Ia juga merupakan satu-satunya petikan Alkitab Ibrani di mana istilah sê, “domba,” adalah pasti. Semua petikan Alkitab lain yang mengandungi perkataan ini menggunakannya dalam pengertian yang tidak khusus. Kes yang unik ini memberi kesaksian tentang suatu penerapan yang istimewa dan luar biasa. Ishak (bersama Abraham) merujuk kepada anak domba yang unik yang melampaui semua yang lain.
+
+Hakikat bahawa perkataan "anak domba" digunakan oleh Yohanes dalam Injilnya (Yohanes 1:29, 36), dan khususnya dalam kitab Wahyu (23 kali), dalam pengertian pasti sebagai "anak domba itu," menunjukkan bahawa Yohanes merujuk kepada "anak domba" sehubungan pertanyaan Ishak, “Di manakah anak domba itu?” (Kej. 22:7). Hubungan intertekstual ini membolehkan kita menyimpulkan bahawa "anak domba" yang dirujuk oleh Ishak merujuk kepada Anak Tuhan, seperti yang difahami oleh Yohanes. Tafsiran ini, sebenarnya, disahkan dalam jawapan Abraham kepada soalan Ishak: “Tuhan akan menyediakan bagi diri-Nya anak domba untuk korban bakaran itu” (Kej. 22:8, AVB).
+
+Susunan frasa pembukaan dalam pernyataan Abraham di Kejadian 22:8 sangat signifikan. Pertama, walaupun bahasa Ibrani biasanya meletakkan kata kerja terlebih dahulu diikuti oleh subjek, di sini perkataan “TUHAN” diletakkan di awal ayat sebelum bentuk kata kerja untuk menekankan fakta bahawa penyelesaian hanya datang daripada TUHAN. Tuhan-lah yang akan melihat. Kedua, frasa pembukaan dalam Kejadian 22:8 mempunyai struktur refleksif yang sama seperti frasa lek leka, “pergilah,” yang memperkenalkan panggilan Tuhan (Kej. 22:2; bandingkan dengan Kej. 12:1, terjemahan literal oleh penulis). Dalam kes ini, frasa dalam Kejadian 22:8 boleh diterjemahkan seperti berikut: “Tuhan akan melihat diri-Nya sebagai anak domba itu” (aposisisi), yang bermaksud bahawa Tuhan akan menyediakan diri-Nya sebagai anak domba itu. Dengan demikian, anak domba itu dikenal pasti sebagai TUHAN. Oleh itu, anak domba yang dirujuk di sini bukan semata-mata binatang fizikal yang dimaksudkan oleh Ishak; ia adalah Tuhan itu sendiri.
+
+**Kemenangan Tuhan**
+
+Ishak menjangkakan seekor anak domba disediakan oleh Tuhan. Namun, sebaliknya, seekor domba jantan yang muncul, “Apabila Abraham mengangkat mukanya dan mengamati di sekelilingnya, nampaklah di belakangnya seekor domba jantan yang tanduknya tersangkut di dalam belukar. Abraham pergi mengambil domba jantan itu, lalu menjadikannya persembahan korban bakaran untuk menggantikan anaknya” (Kej. 22:13, AVB). Penampilan domba jantan itu menunjukkan kepada domba jantan pada Hari Pendamaian (Im. 16:3, 6). Memang terdapat hubungan intertekstual yang unik antara petikan korban Ishak ini dan ayat mengenai upacara Hari Pendamaian. Lebih daripada petikan alkitabiah yang lain, ayat mengenai Ishak yang diikat berkongsi bahasa yang sama dengan ayat mengenai Hari Pendamaian. Kita dapati perkaitan yang sama dengan perkataan olah, “korban bakaran” (Kej. 22:13; bandingkan dengan Im. 16:3, 5); ra'ah, “muncul,” dalam bentuk pasif yang sama dengan niphal (Kej. 22:14; bandingkan dengan Im. 16:2); dan yiqqakh "dia mengambil" (Kej. 22:13; bandingkan dengan Im. 16:5). Hubungan intertekstual yang penting antara kedua-dua petikan ini menunjukkan bahawa penulis mengenali peraturan upacara Hari Pendamaian dalam Imamat 16 ini mengandungi ayat yang berbicara mengenai korban Ishak di dalam mindanya.
+
+Sebaliknya, adalah penting untuk diperhatikan bahawa ayat yang berbicara mengenai Ishak yang diikat itu juga terdapat dalam teks Daniel 8, yang merupakan nubuatan berkaitan dengan Hari Pendamaian eskatologi. Baris pertama yang memperkenalkan penglihatan Daniel— “Ketika aku menujukan pandang dan mengamati, tampaklah seekor domba jantan” (Daniel 8:3, AVB), dengan jelas merujuk kepada ayat yang berbicara mengenai pengorbanan Ishak, memandangkan frasa Daniel ini adalah petikan dari Kejadian 22:13. Rujukan ini diperkukuhkan lagi oleh hubungan intertekstual yang penting antara Imamat 16 dan Daniel 8 (lihat terutamanya penggunaan kata kerja ra’ah, “melihat,” yang merupakan kata kunci dalam kedua-dua perikop tersebut). Dalam konteks Daniel 8, kita memahami bahawa domba jantan dalam kisah Akedah secara tipologi menunjuk kepada Hari Pendamaian eskatologi.
+
+Perspektif kosmik ini turut disahkan dalam berkat ilahi yang mengakhiri teks Akedah (Kejadian 22:17). Berkat yang dijanjikan oleh Tuhan bukan sahaja berkaitan dengan keturunan Abraham di masa depan, tetapi juga melibatkan masa depan bangsa-bangsa. Tuhan berjanji bahawa benih Abraham akan “menduduki pintu gerbang musuh mereka.” Janji ini merujuk kepada kemenangan Kristus atas ular dan kemenangan hidup atas maut, seperti yang dinubuatkan di dalam Kejadian 3:15. Kisah Ishak yang diikat itu membawa kepada pendamaian utama bagi umat Tuhan semasa Hari Pendamaian eskatologi (bandingkan dengan Daniel 8:14). Pengajaran ini nampaknya dipelihara dalam surat kepada orang Ibrani, yang menerapkan berkat penutup dari kisah Akedah (Ibrani 6:14) kepada detik luar biasa Hari Pendamaian apabila Imam Besar dapat masuk “ke belakang tabir” (Ibrani 6:19; bandingkan dengan Imamat 16:2, 15, NKJV).
+
+### Bahagian III: Penerapan Hidup
+
+Baca ulasan berikut mengenai kesunyian dan pertanyaan antara Abraham dan Ishak dalam Kejadian 22:6-8. Apakah pelajaran rohani yang diajarkan oleh kesunyian dan soalan ini kepada kita?
+
+Kejadian 22:6: “berjalanlah kedua-duanya bersama-sama” (AVB). Ungkapan ini muncul dua kali (Kej. 22:6, 8) dan kedengaran tragik, menekankan sikap bapa dan anak yang sedang berjalan dengan diam.
+
+Kejadian 22:7, 8: Tetapi Ishak bercakap. Dalam Kejadian 22:7, 8, kesunyian akhirnya dipecahkan oleh suara Ishak. Dialognya dalam dua ayat ini merupakan kali pertama dan satu-satunya kejadian yang Ishak bercakap di dalam naratif ini:
+
+“Kata Ishak kepada Abraham, ayahnya, ‘Ayah!’” (Kej. 22:7, AVB). Apabila Ishak bercakap buat kali pertama, dia mula-mula menyebut satu perkataan Ibrani ‘abi,’ “ayahku!’ yang mengingatkan kita tentang hubungannya dengan Abraham, yang sedang bersedia untuk penyembelihan ini.
+
+“Jawabnya [Abraham], ‘Ya, anakku?’” (Kej. 22:7, AVB). Perkataan “anakku” (beni), sejajar dengan perkataan “ayahku” (abi). Di sebalik agenda pembunuhan yang bakal berlaku, bapa mengasihi anaknya, dan kesungguhan kasih sayang itu kepada anak tunggalnya menjadikan pengorbanan itu lebih menyakitkan (bandingkan dengan Yohanes 5:20).
+
+“Kata Ishak, “Di sini ada api dan kayu api, tetapi di manakah anak domba untuk korban bakaran itu?” (Kej. 22:7, AVB). Soalan ini adalah satu lagi cara untuk merujuk kepada realiti yang tidak terkata, tanpa perlu menyatakan secara eksplisit: iaitu, "Adakah saya anak domba?"
