@@ -50,4 +50,3 @@ Diese Sprache und die damit verbundenen Assoziationen sind im biblischen Kontext
 ### TEIL III: ANWENDUNG
 
 **Gottes Opfer für eure Erlösung:** Lest Philipper 2,7. Denkt über den Ausdruck „entäußerte sich selbst“ nach. Wie könnt ihr Gottes Bereitschaft, „nichts“ zu werden, auf eure Beziehung zu euren Mitmenschen und Verwandten übertragen? Wie sehr seid ihr bereit, nichts zu werden, euch „zu entäußern“, um eure Kollegen zu fördern oder euer Kind in seiner Entwicklung zu unterstützen?
-
