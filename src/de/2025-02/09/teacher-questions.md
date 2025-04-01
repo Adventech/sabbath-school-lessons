@@ -135,5 +135,89 @@ in seiner Mitte spalten vom Osten bis zum Westen zu einem sehr weiten
 Tal, sodass die eine Hälfte des Berges nach Norden und die andere nach
 Süden weichen wird."*
 
+-   Was bedeutet euch die Tatsache, dass eines Tages Jesus sein ewiges
+    Reich aufrichten wird, **heute**? Wie verändert das euren Alltag?
+
+**MITTWOCH**
+
+**Psalm 75:** "*Ein Psalm und Lied Asafs, vorzusingen, nach der Weise
+»Vertilge nicht«. 2 Wir danken dir, Gott, wir danken dir und verkündigen
+deine Wunder, dass dein Name so nahe ist. 3 »Wenn meine Zeit gekommen
+ist, werde ich recht richten. 4 Die Erde mag wanken und alle, die darauf
+wohnen, aber ich halte ihre Säulen fest.« 5 Ich sprach zu den
+Ruhmredigen: Rühmt euch nicht so!, und zu den Frevlern: Brüstet euch
+nicht mit Macht! 6 Brüstet euch nicht so hoch mit eurer Macht, redet
+nicht so halsstarrig! 7 Denn es kommt nicht vom Aufgang und nicht vom
+Niedergang, nicht von der Wüste und nicht von den Bergen, 8 sondern Gott
+ist Richter, der diesen erniedrigt und jenen erhöht. 9 Denn der HERR hat
+einen Becher in der Hand, mit starkem Wein voll eingeschenkt. Er schenkt
+daraus ein, / und die Frevler auf Erden müssen alle trinken und auch
+noch die Hefe schlürfen."*
+
+**Matthäus 26,26-29:** *"Als sie aber aßen, nahm Jesus das Brot, dankte
+und brach’s und gab’s den Jüngern und sprach: Nehmet, esset; das ist
+mein Leib. 27 Und er nahm den Kelch und dankte, gab ihnen den und
+sprach: Trinket alle daraus; 28 das ist mein Blut des Bundes, das
+vergossen wird für viele zur Vergebung der Sünden. 29 Ich sage euch: Ich
+werde von nun an nicht mehr von diesem Gewächs des Weinstocks trinken
+bis an den Tag, an dem ich aufs Neue davon trinken werde mit euch in
+meines Vaters Reich."*
+
+**Offenbarung 14,9-12:** *"Und ein dritter Engel folgte ihnen und sprach
+mit großer Stimme: Wenn jemand das Tier anbetet und sein Bild und nimmt
+das Zeichen an seine Stirn oder an seine Hand, 10 der wird von dem Wein
+des Zornes Gottes trinken, der unvermischt eingeschenkt ist in den Kelch
+seines Zorns, und er wird gequält werden mit Feuer und Schwefel vor den
+heiligen Engeln und vor dem Lamm. 11 Und der Rauch von ihrer Qual wird
+aufsteigen von Ewigkeit zu Ewigkeit; und sie haben keine Ruhe Tag und
+Nacht, die das Tier anbeten und sein Bild und wer das Zeichen seines
+Namens annimmt."*
+
+-   Welche Zustände in der Welt von heute machen euch am meisten
+    Probleme? Was - ich formuliere es mal sehr direkt - regt euch am
+    meisten auf?
+-   Vor allem in den Psalmen lesen wir immer wieder, das gläubige
+    Menschen, die an der Bosheit der Welt (die ja eine Bosheit von
+    **Menschen** ist) leiden, Kraft aus der Hoffnung generieren, das
+    diese Bosheit (d.h. in Wirklichkeit: dass diese Menschen) im Gericht
+    dafür die gerechte Strafe erleiden werden. Bis wie weit ist diese
+    Hoffnung (und die Genugtuung darüber) mit den christlichen
+    Prinzipien vereinbar?
+    -   Ab wann müssen wir sie hinterfragen?
+-   Dazu ganz konkret die Frage: In Bezug auf welche Menschen freut ihr
+    euch so richtig darüber, dass Gott sie einmal (endlich) bestrafen
+    wird?
+    -   Wie sollen wir mit solchen Gefühlen, die ja - etwas überspitzt
+        formuliert - so etwas wie "an Gott delegierte Rachegefühle"
+        sind, umgehen?
+
+**DONNERSTAG**
+
+**Psalm 67:** *"Ein Psalmlied, vorzusingen, beim Saitenspiel. 2 Gott sei
+uns gnädig und segne uns, er lasse uns sein Antlitz leuchten, 3 dass man
+auf Erden erkenne deinen Weg, unter allen Heiden dein Heil. 4 Es danken
+dir, Gott, die **Völker**, es danken dir alle **Völker**. 5 Die
+**Völker** freuen sich und jauchzen, dass du die Menschen recht richtest
+und regierst die **Völker** auf Erden. 6 Es danken dir, Gott, die
+**Völker**, es danken dir alle **Völker**. 7 Das Land gibt sein Gewächs;
+es segne uns Gott, unser Gott! 8 Es segne uns Gott, und alle Welt
+fürchte ihn!"*
+
+**Offenbarung 14,6.7:** *"Und ich sah einen andern Engel fliegen mitten
+durch den Himmel, der hatte ein ewiges Evangelium zu verkündigen denen,
+die auf Erden wohnen, allen Nationen und Stämmen und Sprachen und
+Völkern. 7 Und er sprach mit großer Stimme: Fürchtet Gott und gebt ihm
+die Ehre; denn die Stunde seines Gerichts ist gekommen! Und betet an
+den, der gemacht hat Himmel und Erde und Meer und die Wasserquellen!"*
+
+-   Der Psalm erwähnt sechsmal das Wort "Völker". Offenbarung 14 begnügt
+    sich nicht mehr nur mit dem Begriff "Völker", sondern fügt auch noch
+    "Nationen", "Stämme" und "Sprachen" hinzu. Es geht also ganz
+    eindeutig wirklich um **alle** Menschen. Wie geht es euch persönlich
+    mit dieser Aufgabe? Seht ihr sie eher als Herausforderung oder eher
+    als Überforderung?
+-   Wie seht ihr eure Rolle bei der Bewältigung dieser Aufgabe? Wo ist
+    da euer Platz?
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at

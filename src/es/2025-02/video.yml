@@ -10,3 +10,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-02-01.mp4
           target: es/2025-02/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-02-01.webp
+    - artist: Pastor Alejandro Bullon
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-02-01.mp4
+          target: es/2025-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-02-01.webp
