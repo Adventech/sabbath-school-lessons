@@ -17,10 +17,10 @@ I: Gemeinschaft
 II: Wir studieren die Bibel
 ---------------------------
 
-**[Vom Stolz zur Demut](https://sabbath-school.adventech.io/de/2020-01/05/vom-stolz-zur-demut/)**
+**Vom Stolz zur Demut**
 -------------------------------------------------------------------------------------------------
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Was siehst du als Grundlage(n), die zur Sünde führt? Ist Stolz so
     eine „Wurzel allen Übels“? Erkläre!
@@ -29,7 +29,7 @@ II: Wir studieren die Bibel
     Wort.“ (21MR 10) – Inwiefern können Sanftmut und Demut Sünde in uns
     überwinden?
 
-#### **[Ist das nicht Babylon die Große?](https://sabbath-school.adventech.io/de/2020-01/05/ist-das-nicht-babylon-die-gro%C3%9Fe/)**
+#### Ist das nicht Babylon die Große?
 
 **Daniel 3,29**
 
@@ -46,7 +46,7 @@ II: Wir studieren die Bibel
     bei diesen zumindest einmal aufgehender Glaube schneller wieder
     „verwelkt“? Erkläre und begründe!
 
-#### **[Vom Propheten gewarnt](https://sabbath-school.adventech.io/de/2020-01/05/vom-propheten-gewarnt/)**
+#### Vom Propheten gewarnt
 
 **Daniel 4,1-5**
 
@@ -59,7 +59,7 @@ II: Wir studieren die Bibel
 -   Wie erklärst du dir, dass Daniel erst „zuletzt“ (v.5) gerufen wird –
     erst nach allen anderen Weisen und Wahrsagern?
 
-#### **[Der Höchste regiert](https://sabbath-school.adventech.io/de/2020-01/05/der-h%C3%B6chste-regiert-/)**
+#### Der Höchste regiert
 
 **Daniel 4,21-29**
 
@@ -88,7 +88,7 @@ II: Wir studieren die Bibel
 -   Was kann und/oder sollte uns diese Geschichte lehren, wenn wir
     selbst Macht über andere Menschen haben?
 
-#### **[Die Augen zum Himmel erheben](https://sabbath-school.adventech.io/de/2020-01/05/die-augen-zum-himmel-erheben/)**
+#### Die Augen zum Himmel erheben
 
 **Daniel 4,30-34**
 
@@ -100,7 +100,7 @@ II: Wir studieren die Bibel
     dich demütig gemacht, dankbar, zufrieden, geduldig, barmherzig,
     mitfühlend, hoffnungsvoll o. Ä.?
 
-#### **[Demütig und dankbar](https://sabbath-school.adventech.io/de/2020-01/05/dem%C3%BCtig-und-dankbar/)**
+#### Demütig und dankbar
 
 -   Das ganze Kapitel scheint ein Brief an die von Nebukadnezar
     beherrschten Völker gewesen zu sein – erneut. Wie viel sollte man
@@ -120,16 +120,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

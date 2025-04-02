@@ -3,14 +3,14 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   28/06/2024
 ---
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Wenn du den Zeitpunkt der Wiederkunft festsetzen könntest: wie viel
     Zeit würdest du dir und dieser Welt noch geben? Begründe!
 -   Wenn du an die Wiederkunft denkst, überkommt dich da reine Freude --
     oder hast du auch gewisse Sorgen oder gar Ängste? Erkläre!
 
-#### **Sonntag: Hoffnung in schwierigen Zeiten** {#sonntag_hoffnung_in_schwierigen_zeiten}
+#### Sonntag: Hoffnung in schwierigen Zeiten
 
 **Daniel 12,1-2**
 
@@ -37,7 +37,7 @@ date:   28/06/2024
 -   Wie könnte der Lohn aussehen, der uns erwartet? Was erhoffst du dir
     bzw. was würde dich ganz besonders freuen?
 
-#### **Montag: Hoffnung auf die baldige Wiederkunft Jesu** {#montag_hoffnung_auf_die_baldige_wiederkunft_jesu}
+#### Montag: Hoffnung auf die baldige Wiederkunft Jesu
 
 **Johannes 14,1-3; Titus 2,11-13**
 
@@ -57,14 +57,14 @@ date:   28/06/2024
     zuvor?
 -   Wer kann am Tag der Wiederkunft bestehen, wer nicht?
 
-#### **Dienstag: Das Millennium auf der Erde** {#dienstag_das_millennium_auf_der_erde}
+#### Dienstag: Das Millennium auf der Erde
 
 **Offb 20,1-3; Jeremia 4,23-26**
 
 -   Was ist der „Abgrund", in dem Satan gebunden sein wird?
 -   Inwiefern und weshalb ist Satan gebunden?
 
-#### **Mittwoch: Gericht während des Millenniums & Donnerstag: Zwei Ewigkeiten** {#mittwoch_gericht_während_des_millenniums_donnerstag_zwei_ewigkeiten}
+#### Mittwoch: Gericht während des Millenniums & Donnerstag: Zwei Ewigkeiten
 
 **Offenbarung 20,4-10; Mal. 3,19-21**
 
@@ -92,14 +92,4 @@ date:   28/06/2024
     Fürsprache gerettet werden? \[Sie erhalten ihr Urteil samt
     Begründung.\]
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/13/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

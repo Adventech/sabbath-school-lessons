@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   17/09/2021
 ---
 
-[Der ruhelose Prophet](https://sabbath-school.adventech.io/de/2021-03/12/01)
+Der ruhelose Prophet
 ============================================================================
 
 II: Wir studieren die Bibel
@@ -91,9 +91,5 @@ II: Wir studieren die Bibel
         oder nicht? (bzw. Woraus können wir schließen, dass Jona am Ende
         verstanden hat, worum es Gott ging?)
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

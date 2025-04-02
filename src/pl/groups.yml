@@ -1,6 +1,6 @@
 ---
   default:
-    name: "Dorosły"
+    name: "Dorośli"
     order: 100
   rt:
     name: "Młodzież"

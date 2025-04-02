@@ -1,0 +1,10 @@
+---
+  default:
+    name: "Puitling"
+    order: 100
+  pp:
+    name: "PowerPoints"
+    order: 200
+  pr:
+    name: "Primary"
+    order: 300

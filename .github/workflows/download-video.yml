@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@v1
+        uses: AnimMouse/setup-yt-dlp@v1.6.1
         with:
           with-ffmpeg: true
       - uses: actions/checkout@v2

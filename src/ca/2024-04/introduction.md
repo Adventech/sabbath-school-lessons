@@ -1,0 +1,21 @@
+### Temes de l'Evangeli de Joan
+
+Assegut en una botiga de Teheran, Iran, la catifa persa representava un bosc antic. Ben fet, va recrear una escena a Suïssa: muntanyes, una cascada, un llac turquesa, vessants boscosos i un cel blau expansiu esquitxat de núvols.
+
+Qualsevol persona d'aquella botiga podria haver passat el seu temps observant els detalls: el nombre de nusos per polzada quadrada, la tela de la catifa, els tipus de tint utilitzats, totes les minuciositats que van donar lloc a la catifa.
+
+O la persona podria haver-se centrat, en canvi, en les tècniques i els temes fascinants que van donar a la catifa la seva bellesa única: el cel reflectit al llac, la neu que cobria les muntanyes, el bosc verd complementat amb la molsa de color verd intens. Els temes de la catifa es van combinar entre si en una exhibició de bellesa hàbilment coordinada per manifestar l'esplendor d'aquell lloc serè dels Alps.
+
+Aquest trimestre estudiarem una altra obra mestra ben feta. Aquesta obra no és el resultat d'un pinzell sobre tela, ni d'una fotografia enquadrada amb precisió, ni d'una catifa teixida amb habilitat. Més aviat, és la Paraula de Déu, tal com s'expressa amb art a l'Evangeli de Joan. Les paraules tenen significat en el seu context. Perquè qualsevol entengui el que l'Escriptura pretén dir, s'ha d'estudiar en context: les frases immediates, els capítols i les seccions, i el missatge general de la Bíblia mateixa. Finalment, com que tota la Bíblia està inspirada per l'Esperit Sant, cada part s'ha d'estudiar en el context del tot.
+
+La intenció d'aquest trimestre serà entendre el missatge de l'Evangeli de Joan. És únic entre els quatre evangelis, sovint centrant l'atenció en entrevistes personals entre Jesús i només una o dues persones, com Natanael, Nicodem, la dona al pou, el paralític a la piscina de Betesda, l'home cec nascut, Llàtzer i les seves germanes, Pilat, Pere o Tomàs. Moltes d'aquestes històries només apareixen en Joan.
+
+L'Evangeli de Joan és la Paraula de Déu que ens ha transmès a través de l'apòstol. Com amb tota la Bíblia, l'Evangeli va venir per la voluntat de Déu, més que per la voluntat de la humanitat. Joan era només l'instrument voluntari que l'Esperit Sant va utilitzar per transmetre molts temes crucials: la Paraula (logos), la llum, el pa, l'aigua, l'Esperit Sant, la unitat, els signes, el testimoni i la profecia. Aquests temes es milloren i s'il·luminen mútuament al llarg de l'Evangeli.
+
+L'estudi de la Bíblia sovint es concentra en el significat d'una paraula o d'un petit passatge de l'Escriptura. Comprovem el significat de la paraula en un diccionari de la Bíblia. Examinem la gramàtica, el context immediat, el context històric i, fent servir la nostra analogia de la catifa, ens quedem atrapats en l'examen del nombre de nusos per polzada quadrada, la tela, els tints i el suport. Tot aquest detall és important.
+
+Però no ens perdem el panorama general mentre examinem els detalls. De fet, de la mateixa manera que la catifa persa podria transportar algú a aquella bella escena alpina, també que l'Evangeli de Joan ens porti de nou a la vida i el ministeri de Jesucrist, a qui conèixer és vida eterna. Els detalls tenen un paper, que és indicar-nos cap al panorama general, i en Joan aquest gran panorama és una revelació inspirada per Déu de Jesús, el nostre Senyor i Salvador.
+
+_E. Edward Zinke, antic director associat de l'Institut de Recerca Bíblica de la Conferència General dels Adventistes del Setè dia, està involucrat en moltes activitats i juntes de l'església, inclòs servir com a vicepresident de l'Ellen G. White Estate Board i com a sènior. assessor dels Ministeris de Revisió Adventista. Té tres doctorats honoris causa d'universitats adventistes del setè dia. Viu a Maryland._
+
+_Thomas Shepherd, PhD, DrPH, és professor d'investigació sènior del Nou Testament al Seminari Teològic Adventista del Setè dia de la Universitat d'Andrews, on ensenya des de 2008. Ell i la seva dona, Sherry Shepherd, MD, han servit com a missioners a Malawi, Àfrica, i Brasil. Tenen dos fills grans i sis néts._

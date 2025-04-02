@@ -3,5 +3,5 @@ title:  Inside Story
 date:   26/07/2024
 ---
 
-### <center>Kami sedang mengerjakan pelajaran ini</center>
+### Kami sedang mengerjakan pelajaran ini
 <center>Silahkan kembali lagi nanti</center>

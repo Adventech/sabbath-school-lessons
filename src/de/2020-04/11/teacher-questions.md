@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   11/12/2020
 ---
 
-[**Christ und Arbeitswelt**](https://sabbath-school.adventech.io/de/2020-04/11/01)
+**Christ und Arbeitswelt**
 ==================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -43,13 +32,13 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Wie muss Arbeit gestaltet sein, damit du sie gerne machst?
 -   Wie sehr hängt es von dir selbst ab, ob du deine Arbeit wertschätzt
     oder verachtest?
 
-### **Sonntag: Die vielen Facetten der Arbeit**
+### Sonntag: Die vielen Facetten der Arbeit
 
 **1. Mose 3,17-19**
 
@@ -74,7 +63,7 @@ II: Wir studieren die Bibel
 -   Wie kann man lernen, in seiner Arbeit (egal wie diese aussieht) Gott
     zu verherrlichen?
 
-### **Montag: Arbeit und Unterhalt**
+### Montag: Arbeit und Unterhalt
 
 **5. Mose 16,15**
 
@@ -109,7 +98,7 @@ II: Wir studieren die Bibel
 -   Welchen Beitrag liefern dazu christl. Werte, wie gegenseitige
     Wertschätzung? Wie erreicht man diese?
 
-### *' Mittwoch: Arbeit und Spiritualität*'
+### ' Mittwoch: Arbeit und Spiritualität'
 
 **Galater 5,22-26**
 
@@ -121,7 +110,7 @@ II: Wir studieren die Bibel
     von dir in Erinnerung behalten, wenn du eines Tages in Rente gehst?
 -   Welche Rolle spielt die Arbeit bei unserer Charakterbildung?
 
-### **Donnerstag: Arbeit und Verantwortung**
+### Donnerstag: Arbeit und Verantwortung
 
 **1. Korinther 10,31**
 
@@ -135,9 +124,5 @@ II: Wir studieren die Bibel
     problematisch wird? Wo verläuft die Grenze zwischen herausragender
     Leistung und übertriebenem Aufwand?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

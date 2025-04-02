@@ -3,14 +3,20 @@
     name: "成人学课_简体"
     order: 100
   hant:
-    name: "成人學課_繁體"
-    order: 200
+    name: "成人學課"
+    order: 110
   inv:
-    name: "深入人心_简体"
-    order: 300
+    name: "深入人心"
+    order: 200
   hant-inv:
-    name: "深入人心_繁體"
-    order: 400
+    name: "深入人心"
+    order: 210
+  cc:
+    name: "房角石"
+    order: 300
+  hant-cc:
+    name: "房角石"
+    order: 310
   pp:
     name: "少年学课"
     order: 500
@@ -23,9 +29,3 @@
   bg:
     name: "初级学课"
     order: 800
-  cc:
-    name: "房角石_简体"
-    order: 900
-  hant-cc:
-    name: "房角石_繁體"
-    order: 1000

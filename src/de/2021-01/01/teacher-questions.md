@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   08/01/2021
 ---
 
-[Identitätskrise](https://sabbath-school.adventech.io/de/2021-01/01/01)
+Identitätskrise
 =======================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,17 +25,6 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Ratgeber
-    Erziehung](Medium:Ratgeber_Erziehung_Infoheft_Erziehung_1.3-web.pdf "wikilink")
-    für Aktivitäten**
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
-    Wie kann diese Arbeitshilfe verwendet werden? [**Hier zur
-    Anleitung!**](Anleitung_für_die_Arbeitshilfe_"Dienst_und_Mission" "wikilink")
 
 Schließt den Teil I mit einem Gebet ab. Betet für eure diakonischen und
 missionarischen Anliegen.
@@ -55,8 +44,8 @@ II: Wir studieren die Bibel
         -   Welche Rolle spielt die Diskussion um Identitätsfragen in
             unserer Gesellschaft?
 
-<u>Schaut euch nun bitte die Definitionen an, die der Duden für dieses
-Wort gibt:</u>
+_Schaut euch nun bitte die Definitionen an, die der Duden für dieses
+Wort gibt:_
 
 **1.)** *Echtheit einer Person oder Sache; völlige Übereinstimmung mit
 dem, was sie ist oder als was sie bezeichnet wird*
@@ -75,12 +64,12 @@ etwas; Gleichheit*
         haben zu können?
         -   Kann sich Identität in einer so pluralen Welt überhaupt noch
             in der Übereinstimmung in den Meinungen definieren?
-            -   Alternativ-Vorschläge dazu: Identität als *<u>Kinder
-                Gottes</u>*? Identität in Form des *l<u>iebevollen
-                Umgangs</u>* miteinander trotz divergierender Meinungen
-                und Lebensentwürfe? Identität als *<u>gegenseitiges
-                Tragen der Lasten</u>*? Identität als *<u>den anderen
-                höher achten</u>* als sich selbst?
+            -   Alternativ-Vorschläge dazu: Identität als *Kinder
+                Gottes*? Identität in Form des *liebevollen
+                Umgangs* miteinander trotz divergierender Meinungen
+                und Lebensentwürfe? Identität als *gegenseitiges
+                Tragen der Lasten*? Identität als *den anderen
+                höher achten* als sich selbst?
 
 **ZITAT:***“Eine Visitenkarte ist mehr als ein Zettel mit Namen und
 Telefonnummer. Sie ist ein Stück Identität.”* (Frank Dommenz)
@@ -88,7 +77,7 @@ Telefonnummer. Sie ist ein Stück Identität.”* (Frank Dommenz)
 -   Was sollte also auf der Visitenkarte von Christen / Adventisten
     stehen?
 
-### **Höret, ihr Himmel!**
+### Höret, ihr Himmel!
 
 **Jesaja 1,2-9**
 
@@ -99,12 +88,10 @@ Telefonnummer. Sie ist ein Stück Identität.”* (Frank Dommenz)
             bzw. “war”, sowohl in der Treue zu Gott als auch im Abfall
             von ihm?
 
-<!-- -->
-
 -   Warum brechen Kinder (Vers 2 nach Elberfelder: *“...sie aber haben
     mit mir gebrochen.”*) mit ihren Eltern?
 
-<u>Jetzt ein zugegebenermaßen sensibles Thema:</u>
+_Jetzt ein zugegebenermaßen sensibles Thema:_
 
 **ZITAT:***“Was immer man dir anlastet, schiebe es auf das Kollektiv,
 denn das kann alles aushalten.”* (Aus Russland)
@@ -125,7 +112,7 @@ Unschuld, nicht kollektiv sondern persönlich.”* (Richard von Weizsäcker)
         -   **Und daher fragen wir jetzt in Bezug auf uns selbst: Wann
             wart (seid) ihr in der Gefahr mit Gott zu brechen?**
 
-### **Faule Rituale**
+### Faule Rituale
 
 **Jesaja 1,11-17**
 
@@ -152,7 +139,7 @@ Schattenseiten.”* (Hubert Joost)
 -   Was ist also gut und positiv an Ritualen?
 -   Ab wann werden sie inhaltsleer, vielleicht sogar zu einer Gefahr?
 
-<u>Jetzt wieder die Kernfrage:</u>
+_Jetzt wieder die Kernfrage:_
 
 **ZITAT:***“Jeder Mensch hat seine Rituale. Doch sollte er sie von Zeit
 zu Zeit überprüfen.”* (Franz Schmidberger)
@@ -162,7 +149,7 @@ zu Zeit überprüfen.”* (Franz Schmidberger)
     -   Ist es nicht viel mehr meine Aufgabe zu hinterfragen, wieviel
         Leben ich **persönlich** diesen Ritualen gebe?
 
-### **Die Verhandlung über Vergebung**
+### Die Verhandlung über Vergebung
 
 **Jesaja 1,18**
 
@@ -185,9 +172,9 @@ nicht.”* (Sabine Rausch)
     -   Wie kann dieser “tägliche Neuanfang” sogar eine Art Prophylaxe
         sein und vor dem tiefen Fall schützen?
 
-### **Fressen oder gefressen werden**
+### Fressen oder gefressen werden
 
-<u>Zum Prinzip von Segen und Fluch:</u>
+_Zum Prinzip von Segen und Fluch:_
 
 **ZITAT:***“Der Mensch verteilt Segen und Fluch vornehmlich an sich
 selbst.”* (Miroslav Mamic)
@@ -202,7 +189,7 @@ selbst.”* (Miroslav Mamic)
 -   Inwieweit ist es andererseits überhaupt sinnvoll, gute Dinge als
     Resultat unseres richtigen Handelns zusehen, also uns quasi selbst
     “auf die Schulter zu klopfen”?
--   <u>Daher:</u> Gilt dieses Prinzip heute noch so uneingeschränkt wie
+-   _Daher:_ Gilt dieses Prinzip heute noch so uneingeschränkt wie
     im Alten Testament? Begründet eure Ansicht?
 
 **ZITAT:***“Nichts auf Erden darf uns die Hoffnung rauben, und es gibt
@@ -222,11 +209,11 @@ erlangen sollen, kennen wir alle.”* (Johann Gottfried von Herder)
     -   Wann lehnt ihr euch dagegen auf?
     -   Wann seid ihr dafür dankbar?
 
-### **Ein unheilvolles Liebeslied (Jes 5,1-7)**
+### Ein unheilvolles Liebeslied (Jes 5,1-7)
 
 **Jesaja 5,1-7**
 
-<u>Vorschlag:</u> Verbindet diesem Text mit dem Gleichnis Jesu von den
+_Vorschlag:_ Verbindet diesem Text mit dem Gleichnis Jesu von den
 bösen Weingärtnern und Jesu Aussagen in Johannes 15 vom Weinstock und
 den Reben
 
@@ -238,9 +225,5 @@ den Reben
             euch gearbeitet hat?
 -   Wann ist eigentlich Gottes Geduld zu Ende?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

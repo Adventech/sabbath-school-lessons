@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   23/08/2024
 ---
 
-### **Sonntag: Gottes Plan für die Ehe** {#sonntag_gottes_plan_für_die_ehe}
+### Sonntag: Gottes Plan für die Ehe
 
 **Markus 10,1-9**
 
@@ -16,7 +16,7 @@ date:   23/08/2024
 -   Was kann deine Gemeinde tun, um Ehen zu stärken?
 -   Wie kannst du denjenigen helfen, deren Ehe bereits zerbrochen ist?
 
-### **Montag: Jesus und die Kinder** {#montag_jesus_und_die_kinder}
+### Montag: Jesus und die Kinder
 
 **Markus 10,13-16**
 
@@ -27,7 +27,7 @@ date:   23/08/2024
 -   Wie kannst du den Kindern, mit denen du in Kontakt kommst, Jesus
     besser zeigen?
 
-### **Dienstag: Die beste Investition** {#dienstag_die_beste_investition}
+### Dienstag: Die beste Investition
 
 **Markus 10,17-21**
 
@@ -35,7 +35,7 @@ date:   23/08/2024
 -   Gilt diese Aussage Jesu für alle Menschen? Müssen wir mittelos sein,
     um den Himmel zu erlangen? Wenn nicht, warum verlangt Jesus das
     hier?
--   Wie kannst du erfahren, was „das eine" ist, „das dir fehlt"? Was
+-   Wie kannst du erfahren, was „das eine“ ist, „das dir fehlt“? Was
     könnte dich davon abhalten, es aufzugeben?
 -   Welche Gründe halten Menschen heutzutage häufig davon ab, Jesus
     (ganz) nachzufolgen?
@@ -44,9 +44,9 @@ date:   23/08/2024
 -   *Lektion, S. 86:* „Jedem ist Geld wichtig und daran ist nichts
     falsch. Was kann dann das Problem mit Geld sein und warum müssen
     gläubige Christen, ob reich oder arm, bedachtsam in ihrem Umgang mit
-    Geld sein?"
+    Geld sein?“
 
-### **Mittwoch: Könnt ihr meinen Kelch trinken?** {#mittwoch_könnt_ihr_meinen_kelch_trinken}
+### Mittwoch: Könnt ihr meinen Kelch trinken?
 
 **Markus 10,35-45**
 
@@ -55,19 +55,19 @@ date:   23/08/2024
     einen derart falschen Anspruch haben?
 -   Was meint Jesus mit dem Kelch und der Taufe? Inwiefern haben das
     auch die beiden Jünger erlebt?
--   Wie kann das „aller Diener" sein praktisch ausgelebt werden? Hast du
+-   Wie kann das „aller Diener“ sein praktisch ausgelebt werden? Hast du
     den Eindruck, dass das in der Gemeinde so gegeben ist?
 
-### **Donnerstag: „Was willst du, dass ich für dich tun soll?"** {#donnerstag_was_willst_du_dass_ich_für_dich_tun_soll}
+### Donnerstag: „Was willst du, dass ich für dich tun soll?“
 
 **Markus 10,51-52**
 
 -   Weshalb stellt Jesus diese Frage? War der Wunsch des Blinden nicht
     offensichtlich? Kennt Jesus nicht all unsere Bedürfnisse?
--   Was lehrt uns das über die Notwendigkeit des Bittgebets -- auch
-    dann, wenn unsere Not unübersehbar ist? Weshalb hat Gott das so
-    gestaltet, dass er Gebet erwartet, bevor er eingreift -- obwohl er
-    doch genau weiß, was wir brauchen (Mt 6,7-8)
+-   Was lehrt uns das über die Notwendigkeit des Bittgebets – auch dann,
+    wenn unsere Not unübersehbar ist? Weshalb hat Gott das so gestaltet,
+    dass er Gebet erwartet, bevor er eingreift – obwohl er doch genau
+    weiß, was wir brauchen (Mt 6,7-8)?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+https://wiki.sabbatschule.at

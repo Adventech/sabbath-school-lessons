@@ -1,0 +1,60 @@
+---
+title:  Komen Guru
+date:  03/01/2025
+---
+
+#### Bahagian I: Pandangan Keseluruhan
+
+**Ayat-ayat Utama**: Hosea 14:4
+
+Tumpuan Kajian: Yohanes 17:24; Mat. 22:1-14; Yohanes 10:17, 18.
+
+Pengenalan: Tuhan sangat mengasihi semua orang dengan penuh sukarela lebih daripada yang kita bayangkan. Kasih-Nya benar-benar murah hati dan penuh belas kasihan, kerana Dia secara sukarela memilih untuk mendedahkan kasih pengorbanan-Nya, walaupun apabila orang tidak setia.
+
+Tema Pelajaran: Pelajaran minggu ini menekankan tiga tema utama.
+
+1. Kasih Tuhan tidak ditakrifkan oleh keperluan: Kasih-Nya adalah pusat pada pemahaman kita tentang hubungan-Nya dengan manusia. Kasih Ilahi adalah ungkapan kemurahan Tuhan yang spontan dan berlimpah. Kasih-Nya tidak disebabkan atau diperlukan oleh sebarang tindakan di pihak kita, mahupun disebabkan oleh potensi manusia. TUHAN menzahirkan kasih-Nya tanpa sebarang harapan untuk memperoleh kelebihan kepada diri-Nya. Dia mengasihi setiap orang dan melakukannya dengan sukarela, seperti dalam kes Hosea, Israel, dan kita.
+
+2. Skop Kasih Tuhan tidak boleh diukur:  Kasih Tuhan tidak berdasarkan keadaan sebab dan akibat. Dia secara sukarela menyerahkan diri-Nya untuk kita, dan kasih-Nya yang berterusan dan tidak berkesudahan menyatakan belas kasihan-Nya dengan lebih lengkap. Kasih-Nya melebihi segala jangkaan, kerana Dia dengan bebas memberikan rahmat, belas kasihan, dan kasih sayang kepada orang yang paling tidak layak.
+
+3. Kasih Tuhan boleh ditentang: Tuhan menawarkan kepada kita penyataan sepenuhnya tentang kasih-Nya yang semula jadi dari diri-Nya tetapi tidak menentukan terlebih dahulu mengenai respon orang terhadapnya. Kasih-Nya tidak mendominasi atau memaksa tetapi menawarkan kita kebebasan untuk menerima atau menolaknya.
+
+Penerapan Hidup: Kasih Tuhan melebihi semua jangkaan manusia, kerana Dia dengan bebas memberikan rahmat, belas kasihan, dan kasih sayang kepada orang yang paling tidak layak. Bagaimanakah tanggapan tentang kasih Tuhan ini mengubah sikap kita terhadap mereka dalam lingkungan kita yang tidak melakukan apa-apa untuk mendapat belas kasihan daripada kita?
+
+#### Bahagian II: Ulasan
+
+1. Kasih Tuhan Tidak Ditakrifkan Oleh Keperluan.
+
+Kebebasan adalah ciri penting pada kasih Tuhan. Kasihnya bukan disebabkan oleh sesuatu yang lain. Dalam hubungan sebab dan akibat, kesan adalah hasil yang diperlukan bagi sesuatu penyebab. Walau bagaimanapun, disebalik daripada ditakrifkan oleh keperluan logik sebab-akibat, kasih Tuhan adalah secara sukarela. Idea ini dihuraikan dalam pengalaman Hosea dan isterinya yang tidak setia. Melalui naratif pengalaman mereka, seperti yang akan kita lihat, beberapa konsep muncul bahawa kasih Tuhan tidak membayangkan keperluan untuk kewujudan ciptaan dan bahawa kasih Tuhan itu diberikan dengan sukarela.
+
+Hosea dan kebebasan kasih Tuhan: Hosea 14:4 menghubungkan penyembuhan yang dijanjikan Tuhan terhadap ketidaksetiaan Israel dengan janji-Nya untuk mengasihi umat-Nya dengan sukarela. Janji ini mengulangi pemulihan penuh belas kasihan terhadap umat Tuhan yang murtad, yang digambarkan dalam Hosea 2:14-23, dan seperti yang digambarkan dalam hubungan berkasihsayang oleh Hosea sendiri dengan isterinya yang tidak setia (Hos. 3:1-5). Perbandingan dengan pengalaman biografi Hosea menunjukkan bahawa kasih Tuhan adalah sangat berkemurahan. “Ini adalah kasih yang tidak akan diperolehi—apakah yang dapat dipersembahkan oleh Israel kepada Yahweh sebagai bayaran yang dapat diterima?” Sebaliknya, istilah Ibrani nedabash, yang menekankan bahawa Tuhan akan mengasihi Israel dengan sukarela, yang menyampaikan idea tentang “’persembahan sukarela’ atau ‘persembahan yang dilakukan oleh kemurahan hati.’”—Douglas Stuart, “Hosea–Jonah,” Word Biblical Commentary ( Dallas: Word, Incorporated, 1987), vol. 31, ms. 215. Oleh itu, kasih Tuhan tidak disebabkan atau memerlukan sebarang tindakan yang dilakukan oleh Israel. Sebaliknya, ia adalah satu ungkapan kebebasan-Nya dan, oleh itu, ia adalah sukarela sepenuhnya. Sebenarnya, bahasa penyembuhan ilahi dalam Hosea 14:4 (lihat juga Hos. 5:13, Hos. 6:1, Hos. 7:1, Hos. 11:3) nampaknya menggariskan sifat sukarela kasih Tuhan, kerana Israel tidak mampu menjadi setia dengan kekuatannya sendiri. Oleh itu, sifat sukarela kasih ini menyiratkan bahawa mereka yang dikasihi oleh Tuhan benar-benar tidak layak menerimanya.
+
+Kasih dan ciptaan Tuhan: tanggapan bahawa kasih memerlukan satu hubungan dengan yang lain nampaknya seperti menunjukkan bahawa Tuhan perlu menciptakan makhluk untuk dapat menjadi Tuhan yang penyayang. Dengan kata lain, penciptaan akan diperlukan untuk kasih Tuhan. Walau bagaimanapun, idea ini tidak disokong oleh Kitab Suci, yang menekankan kebebasan dan autonomi Tuhan. Dia tidak memerlukan apa-apa daripada makhluk-Nya (Kis. 17:25). Tambahan pula, kasih ilahi wujud selama-lamanya sebelum penciptaan alam semesta, seperti yang Yesus tegaskan apabila Dia menyatakan bahawa Bapa mengasihi Dia “sebelum dunia dijadikan” (Yohanes 17:24). Oleh itu, penciptaan dunia bukanlah satu keperluan untuk membolehkan wujudnya kasih Tuhan. Sebaliknya, penciptaan adalah aktiviti sukarela ilahi yang terhasil daripada kesukarelaan kasih kasih-Nya yang kekal.
+
+Kasih Tuhan Memberi Secara Percuma: Kematian pengorbanan Yesus di kayu salib adalah persembahan kasih sukarela. Dia bukan sahaja menjadi mangsa hukuman mati yang ganas. Sebagaimana Yesus sendiri menekankan, “Aku sanggup menyerahkan nyawa-Ku ... Sesiapa pun tidak dapat meragut nyawa-Ku. Aku menyerahkannya dengan rela.” (Yohanes 10:17, 18, AVB). Begitu juga, Paulus menjelaskan bahawa Kristus “mengasihiku dan menyerahkan diri-Nya untukku” (Gal. 2:20, AVB). Oleh itu, penyaliban Yesus bukanlah suatu kemestian, dirangka oleh tindakan jahat para algojo-Nya, tetapi, seblaiknya, Dia secara sukarela menyerahkan diri-Nya sebagai manifestasi luar biasa dari kasih ilahi yang sukarela.
+
+2. Skop Kasih Tuhan Bukan Untuk Diukur.
+
+Tanggapan bahawa kasih Tuhan tidak mengikut logik pada ‘sebab dan akibat’ bermakna ia tidak boleh dikira, dan dengan demikian membawa kepada jangkaan munasabah yang boleh diduga. Dua contoh perantaraan di hadapan Tuhan di dalam Pentateuch yang mencontohkan masalah anggapan yang sedemikian.
+
+Contoh pertama ialah perantaraan Abraham (Kej. 18:23-33) di dalam konteks penghakiman ilahi yang diumumkan terhadap Sodom dan Gomora (Kej. 18:20). Pada mulanya, Abraham merayu bagi keadilan Tuhan dan bertanya sama ada Dia benar-benar akan memusnahkan kota itu jika terdapat lima puluh orang yang benar di dalamnya (Kej. 18:24, 25). Boleh dikatakan, lima puluh itu kedengaran seperti satu jumlah yang munasabah bagi Abraham dalam permohonannya untuk mendapat keadilan ilahi. Walau bagaimanapun, kerana bilangan ini secara beransur-ansur dikurangkan dalam kesinambungan pengantaraan Abraham yang berterusan, dari lima puluh ke empat puluh lima (Kej. 18:28), daripada empat puluh lima ke empat puluh (Kej. 18:29), daripada empat puluh ke tiga puluh (Kej. 18:28). . 18:30), dari tiga puluh ke dua puluh (Kej. 18:31), dan dari dua puluh ke sepuluh (Kej. 18:32), dia selepas itu dia tidak lagi memohon bagi keadilan ilahi melainkan memohon belas kasihan Tuhan (Kej. 18:27). , 30, 32). Nampaknya lima puluh adalah munasabah untuk keadilan, tetapi sepuluh adalah jauh di luar jangkaan yang adil. Jika pada permulaan pengantaraan itu seperti memberi gambaran bahawa Abraham cuba meyakinkan Tuhan untuk bersikap adil dan kemudian berbelas kasihan, perkembangan dialog syafaat seterusnya mendedahkan bahawa niat sedemikian bukanlah pastinya tidak berlaku. Sebaliknya, proses perantaraan sebenarnya mendedahkan bahawa belas kasihan Tuhan adalah lebih tinggi daripada yang boleh dijangka atau diukur secara logik.
+
+Contoh perantaraan kedua ialah campur tangan Musa bagi pihak orang Israel di Sinai. Yang pasti, kesan awalnya ialah dia cuba meyakinkan Tuhan untuk berbelas kasihan terhadap mereka (Keluaran 32:11-14, 31-33). Tetapi, sekali lagi, ini tidak berlaku. Kemuncak interaksi antara Musa dan Tuhan ialah penyataan kemuliaan ilahi, yang merupakan manifestasi yang luar biasa dari kasih Tuhan (Keluaran 34:6, 7). Selain penegasan mengenai kesukarelaan ilahi untuk berbelas kasihan kepada mereka yang jelas tidak layak dikasihi Tuhan (Kel. 33:19), perbandingan asimetrik tajam antara “menepati janji-Ku kepada beribu-ribu keturunan,” dan “menghukum anak-anak dan cucu-cicit ... sampai kepada generasi yang ketiga dan yang keempat” (Keluaran 34:7, AVB) menunjukkan bahawa, akhirnya, skop kasih Tuhan tidak dapat diukur, yang secara khusus menyerlahkan kasih-Nya yang sukarela.
+
+3. Kasih TUHAN Boleh Dilawan.
+
+Kasih ilahi yang sukarela itu juga bermakna ia tidak menentukan terlebih dahulu reaksi manusia terhadap kasih ini. Sekali lagi, kasih Tuhan pada dasarnya adalah sukarela dan tidak melibatkan keperluan untuk logik ‘sebab dan akibat’. Dalam ratapan-Nya atas Yerusalem, Yesus dengan sedih mengungkapkan keinginan yang tidak terpenuhi mengenai keselamatan anak-anaknya. Dia menekankan “sudah berapa kali” Dia “mengumpul anak-anaknya di bawah sayapnya, tetapi kamu tidak mahu” (Mat. 23:37, AVB). Kata kerja Yunani thelo digunakan dua kali dalam petikan ini, tetapi dengan cara yang berbeza. Pertama ialah menggambarkan kehendak Kristus mengenai mereka yang Dia ingin selamatkan, manakala contoh kedua menunjukkan bahawa mereka tidak berkongsi keinginan yang sama. Oleh itu, apa yang ditawarkan kasih ilahi itu tidak menentukan reaksi kasih sayang di pihak mereka yang menerima pemberian ini. Malangnya, kerana keinginan kasih ini tidak dibalas, ia sebenarnya tidak dapat ditunaikan.
+
+Satu lagi contoh Alkitab tentang penentangan terhadap kasih ilahi terdapat dalam perumpamaan tentang jamuan perkahwinan, di mana ramai yang dipanggil, tetapi mereka menolak jemputan itu (Mat. 22:3). Kemudian, panggilan itu ditujukan kepada orang lain, yang sememangnya telah datang ke majlis perkahwinan itu (Mat. 22:9, 10). Namun demikian, di antara mereka yang datang itu ada juga seorang “yang tidak memakai pakaian perkahwinan” (Mat. 22:11, AVB). Kesimpulan dari perumpamaan itu menekankan bahawa “ramai yang dipanggil, tetapi sedikit yang dipilih'" (Mat. 22:14). Dalam perumpamaan ini tentang “ kerajaan syurga” (Mat. 22:2), bahasa yang digunakan tidak menyampaikan idea tentang pilihan ilahi yang pasti (yang sudah sedia ditentukan) tetapi berkaitan dengan penerimaan atau penolakan oleh orang itu terhadap jemputan Tuhan. . Dengan kata lain, “Ramai yang dijemput; tetapi ada yang enggan datang, dan yang lain yang datang enggan tunduk pada norma-norma kerajaan dan oleh itu mereka ditolak. Mereka yang tinggak itu dipanggil “terpilih.”—DA Carson, Matthew, The Expositor's Bible Commentary: Matthew, Mark, Luke (Grand Rapids, MI: Zondervan, 1984), ms. 457. Oleh itu, keupayaan kita untuk memilih adalah satu lagi petunjuk tentang kasih Tuhan yang sukarela, yang terbuka pada reaksi penerimaan atau penolakan yang benar-benar bebas. Kita diundang untuk menerimanya dengan sukarela.
+
+#### Bahagian III: Penerapan Hidup
+
+Berdasarkan perspektif yang disebutkan di atas mengenai kasih Tuhan yang sukarelae itu, bincangkan soalan-soalan berikut:
+
+1.	Bagaimanakah pemahaman bahawa kasih Tuhan tidak disebabkan oleh sebarang tindakan di pihak kita akan membawa kita untuk menghampiri hadirat-Nya? Berikan sekurang-kurangnya satu contoh yang praktikal.
+
+2.	Apakah aspek tanggapan yang menarik bahawa kasih Tuhan itu melebihi jangkaan munasabah, kerana Dia secara sukarela menunjukkan belas kasihan kepada orang yang paling tidak layak, boleh digunakan dalam dialog dengan orang yang tidak percaya?
+
+3.	Apakah cara praktikal yang, malangnya, kita boleh menentang kasih Tuhan?
+
+4.	Memandangkan kasih Tuhan tidak menggunakan paksaan, apakah yang harus kita pelajari daripada kasih ini, ketika kita, sebagai orang Kristian, memikirkan cara kita untuk boleh mengasihi orang lain dengan lebih sejati?

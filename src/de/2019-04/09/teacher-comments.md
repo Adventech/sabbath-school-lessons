@@ -17,7 +17,7 @@ Die 9. Studienbetrachtung analysiert mehrere Listen und Genealogien, die in den 
 
 Esra 2 und Nehemia 7 listen dieselbe Gruppe Rückkehrer auf. Es ist eine nochmalige Nennung all der Menschen, die letztendlich in drei Gruppen mit Serubbabel, Esra und Nehemia nach Israel zurückkehrten. Die Gesamtzahl aller Rückkehrer nach Israel betrug 42.360 (Esr 2,64; Neh 7,66). Diese Zahl ist jedoch verwirrend, weil sie bedeutend größer ist als die Summe der in den beiden Kapiteln angeführten Zahlen:
 
-<img style="max-width:100%" src="https://sabbath-school-stage.adventech.io/api/v1/de/quarterlies/2019-04/lessons/09/days/teacher-comment-table.png" />
+![](https://sabbath-school-stage.adventech.io/api/v1/de/quarterlies/2019-04/lessons/09/days/teacher-comment-table.png)
 
 Sowohl in Esra 2 als auch in Nehemia 7 sind die endgültigen Zahlen gleich (42.360), wurden aber etwas anders gezählt. Wie können wir diese Diskrepanzen erklären? Es gibt mehrere Möglichkeiten. Es kann sein, dass die Gesamtzahl Priester unbekannter Herkunft einschließt (Esra 2,61–63) und einige zusätzliche Gruppen wahrscheinlich auch nicht erwähnt werden. Die Gesamtbotschaft ist jedoch eindeutig: Gott kennt die Seinen, und niemand wird vergessen werden (2 Tim 2,19).
 

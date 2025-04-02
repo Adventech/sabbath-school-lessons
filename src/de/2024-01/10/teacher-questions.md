@@ -3,12 +3,12 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   08/03/2024
 ---
 
-#### **Startfrage(n)**
+#### Startfrage(n)
 
 -   Wie oft denkst du an vergangene, persönliche Erfahrungen mit Gott
     zurück? Wie wichtig sind sie dir?
 
-#### **Sonntag: Gottes unaufhörliche Treue** {#sonntag_gottes_unaufhörliche_treue}
+#### Sonntag: Gottes unaufhörliche Treue
 
 **Psalm 78,3-8**
 
@@ -25,7 +25,7 @@ date:   08/03/2024
 -   Welche Folgen hat es, die Lehren der Vergangenheit zu vergessen oder
     zu ignorieren?
 
-#### **Montag: Sich an die Vergangenheit erinnern und Gott loben** {#montag_sich_an_die_vergangenheit_erinnern_und_gott_loben}
+#### Montag: Sich an die Vergangenheit erinnern und Gott loben
 
 **Psalm 105,3-4.12-15**
 
@@ -38,7 +38,7 @@ date:   08/03/2024
     Dennoch spricht der Psalm sehr positiv von ihnen. Was hat sie
     ausgezeichnet?
 
-#### **Dienstag: Erinnerung an die Geschichte und Reue** {#dienstag_erinnerung_an_die_geschichte_und_reue}
+#### Dienstag: Erinnerung an die Geschichte und Reue
 
 **Psalm 106,12-13.21-22.41-43**
 
@@ -50,7 +50,7 @@ date:   08/03/2024
     vertrauen? Wie gehst du mit Berichten von Geschwistern um, die
     (scheinbar) von Gott im Stich gelassen wurden?
 
-#### **Mittwoch: Das Gleichnis vom Weinstock Gottes** {#mittwoch_das_gleichnis_vom_weinstock_gottes}
+#### Mittwoch: Das Gleichnis vom Weinstock Gottes
 
 **Psalm 80,9-16**
 
@@ -61,7 +61,7 @@ date:   08/03/2024
 -   Welche Bedingungen müssen erfüllt sein, damit ein Gebet um
     Wiederherstellung erhört werden kann?
 
-#### **Donnerstag: Die Vormachtstellung Gottes in der Geschichte** {#donnerstag_die_vormachtstellung_gottes_in_der_geschichte}
+#### Donnerstag: Die Vormachtstellung Gottes in der Geschichte
 
 **Psalm 135,4-6.15-18**
 
@@ -75,14 +75,4 @@ date:   08/03/2024
     haben? Warum kann Götzendienst manchmal leichter sein als wir
     denken? Was sind moderne Götzen?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-01/10/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

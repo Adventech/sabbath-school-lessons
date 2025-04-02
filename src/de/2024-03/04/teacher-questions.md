@@ -76,5 +76,4 @@ date:   26/07/2024
 -   Welche Gesamtaussage oder welches Gesamtthema erkennt ihr in den 5
     Gleichnissen aus Markus 4
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

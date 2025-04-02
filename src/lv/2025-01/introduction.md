@@ -1,0 +1,19 @@
+### Mīlestības un Taisnības Dievs
+
+Dievs ir mīlestība. Tā teikts 1. Jņ. 4:8 un 16. Par šo faktu liecina visa Bībele. Kristīgās ticības centrā ir Dieva mīlestības raksturs. Mīlestība ir pamatā tam, kas ir Dievs, tā ir pamatā visam, kam mēs ticam, un tai ir jābūt pamatā visam, ko darām. Attiecīgi tas, kā mēs izprotam mīlestību, ietekmē visu mūsu ticību un darbus. Ja, piemēram, kāds uzskata, ka Dieva mīlestība ir jānopelna vai jāizpelnās, cilvēks var domāt, ka Dievs viņu nemīl, jo viņš ir grēcīgs un necienīgs. Un attiecībā uz citiem cilvēks var domāt, ka viņi savukārt ir pelnījuši mīlestību – šī ir katastrofas recepte.
+
+Šajā un daudzos citos veidos tam, kā mēs izprotam Dieva mīlestību, ir milzīga ietekme uz mūsu ticību un darbiem. Tomēr kas ir mīlestība? Ja jūs lūgtu desmit cilvēkiem definēt mīlestību, jūs varētu saņemt desmit dažādas atbildes. Pat kristiešu vidū ir daudz mītu un atšķirīga izpratne par Dieva mīlestību.
+
+Piemēram, kristieši piedāvā dažādas atbildes uz šiem svarīgajiem jautājumiem: Vai Dieva mīlestība tikai dod, bet nekad neņem? Vai dievišķā mīlestība ir pilnīga pašuzupurēšanās, vai arī Dievs var priecāties par cilvēkiem un tie var iepriecināt arī Viņu? Vai Dieva mīlestība ir emocionāla? Vai Dievs tiešām rūpējas par cilvēkiem? Vai Dieva mīlestību var noraidīt vai zaudēt? Vai Dieva mīlestība pret radītām būtnēm var būt abpusēja? Vai dusmas ir savienojamas ar mīlestību? Kā mīlestība un taisnīgums sader kopā? Ja Dievs ir mīlestība, kāpēc šajā pasaulē ir tik daudz ļaunuma? Vai cilvēki var mīlēt tā, kā mīl Dievs? Ja jā, kā tas izskatītos?
+
+Atbildes uz dažiem no šiem jautājumiem varētu šķist pašsaprotamas, taču kristieši dievišķo mīlestību traktē dažādi. Un daudzas atbildes, kuras dažkārt tiek uzskatītas par pašsaprotamām, tuvāk apskatot, izrādās nesavienojamas ar to, ko Svētie Raksti māca par Dieva mīlestību.
+
+Mēs neatrisināsim visus šos jautājumus uzreiz, bet pievērsīsimies šiem un citiem jautājumiem visa ceturkšņa garumā. Un mēs ieraudzīsim, ka Dieva mīlestība ir daudz lielāka, nekā mēs domājam. Dieva mīlestība, kā tā attēlota Svētajos Rakstos, ir daudz pārāka par idejām, kas mūsdienās tiek uzskatītas par “mīlestību”. Nākamajās nedēļās mēs rūpīgāk aplūkosim dažus no ievērojamākajiem un skaistākajiem Dieva mīlestības aspektiem, kas ir atklāti Bībelē.
+
+Virzoties uz priekšu, mēs redzēsim, kā dievišķā mīlestība un taisnība ir nesaraujami saistītas savā starpā. Bībeles Dievs mīl taisnīgumu (sk., piem., Jes. 61:8). Bībele atklāj, ka dievišķā mīlestība un taisnība iet kopā tik ļoti, ka nevar pastāvēt cits bez cita. Tā kā Dievs ir mīlestība, Viņš ir dziļi noraizējies par netaisnību un ciešanām šajā pasaulē, un Viņš solidarizējas ar apspiestajiem un cietējiem, labprātīgi uzņemoties sāpes un bēdas, ko ļaunums ir izsaucis radībā, – tik lielā mērā, ka pats Dievs kļūst par vislielāko ļaunuma upuri.
+
+Visā Bībelē Dievu vairākkārt apbēdina un sāpina ļaunums un ciešanas, jo Viņš katru cilvēku mīl vairāk, nekā mēs spējam iedomāties. Dieva mīlestības dziļumu varam redzēt brīdī, kad Kristus raudāja par Savu tautu, sakot: “Jeruzaleme, Jeruzaleme, tu, kas nokauj praviešus un nomētā ar akmeņiem tos, kas pie tevis sūtīti! Cik reižu Es gribēju sapulcināt ap Sevi tavus bērnus, kā vista sapulcina savus cālīšus apakš saviem spārniem, bet jūs negribējāt” (Mt. 23:37, NKJV).
+
+Bībeles Dievs, kas ir mīlestība, Svētajos Rakstos bieži tiek attēlots sirds sāpēs un sērās par atraidīto un zaudēto mīlestību. Viss Svēto Rakstu stāsts ir par to, ko Dievs ir darījis un dara, lai atjaunotu mīlestību katrā Visuma nostūrī un dziļākajā aizā. Par šo un daudz ko citu runāsim šī ceturkšņa Bībeles studijās.
+
+_Džons Pekhams ir “Adventist Review” redaktora palīgs. Laikā, kad tika rakstīts šis Bībeles studiju materiāls, viņš bija teoloģijas un kristīgās filozofijas profesors Septītās dienas adventistu Endrjūsa universitātes teoloģijas seminārā._

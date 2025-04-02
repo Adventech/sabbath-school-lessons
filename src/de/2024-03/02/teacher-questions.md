@@ -65,14 +65,4 @@ was würdet ihr gerne mit ihm erleben?
 -   Wie können wir uns eine Scheibe von Jesus abschneiden? Wie finden
     wir die Balance zwischen Ruhe und Dienst?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-03/02/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

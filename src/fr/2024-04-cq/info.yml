@@ -1,0 +1,24 @@
+---
+  title: "L’Évangile de Jean"
+  description: "Les quatre Évangiles présentent les événements majeurs de la vie de Jésus. Ce qu’il a fait, où il est allé, le but de sa mission et de ses miracles ont été consignés pour notre croissance et notre apprentissage. Pour brosser un tableau cohérent de la vie du Christ, nous fusionnons souvent les quatre descriptions en un seul portrait. Au cours de ce trimestre, nous nous focaliserons principalement sur l’Évangile de Jean, l’un des livres les plus précieux du Nouveau Testament. Dans cet Évangile, nous obtenons des informations nouvelles et spécifiques sur la vie de Jésus, des informations qu’on ne retrouve pas dans Matthieu, Marc ou Luc."
+  human_date: "Octobre · Novembre · Décembre 2024"
+  start_date: "28/09/2024"
+  end_date: "27/12/2024"
+  color_primary: "#BA4B3E"
+  color_primary_dark: "#A53E32"
+  splash: true
+  credits:
+    - name: Rédacteur en chef
+      value: "Justin Kim"
+    - name: Rédactrice adjointe
+      value: "Sikhu Daco"
+    - name: Directeur du Département de l’École du sabbat
+      value: "Jim Howard"
+    - name: Traduction
+      value: "Monique Lemay"
+    - name: Édition française
+      value: "Dina Albicy"
+    - name: Révision
+      value: "Francine Schweitzer"
+    - name: Mise en page
+      value: "Jaime Gori"

@@ -1,0 +1,19 @@
+### Evangelija pagal Joną
+
+Parduotuvėje Teherane, Irane, persiškame kilime buvo atvaizduotas senovinis miškas. Gražiai išaustas, atvaizduojantis peizažą Šveicarijoje kalnus, krioklį, turkio spalvos ežerą, miškais apaugusius kalvų šlaitus ir beribį mėlyną dangų, nusėtą debesimis. Kiekvienas šios parduotuvės lankytojas galėjo įsižiūrėti į detales mazgų skaičių kvadratiniame centimetre, kilimo audinį, panaudotų dažų tipus  visas smulkmenas, sudarančias kilimą.
+
+Arba žmogus galėjo sutelkti dėmesį į patraukiančią techniką ir temas, kurios suteikė kilimui unikalų grožį  ežere atsispindintį dangų, kalnus dengiantį sniegą, žaliuojantį samanotą mišką. Kilimo temos suderintos viena su kita, o harmoningas grožis parodo tos ramios Alpių vietos didybę.
+
+Šį ketvirtį tyrinėsime dar vieną puikų šedevrą. Tai ne teptuko ant drobės darbas, ne kruopščiai įrėmintos nuotrauka ar meistriškai išaustas kilimas. Greičiau  tai Dievo Žodis, meniškai išreikštas evangelijoje pagal Joną.
+
+Žodžiai turi prasmę jų kontekste. Kad kas nors suprastų, ką Šventasis Raštas sako, jis turi būti tyrinėjamas atsižvelgiant į kontekstą konkrečius sakinius, skyrius ir dalis bei bendrą pačios Biblijos žinią. Galiausiai, kadangi visa Biblija yra įkvėpta Šventosios Dvasios, kiekviena dalis turėtų būti tyrinėjama visumos kontekste.
+
+Šio ketvirčio tikslas  suprasti evangelijos pagal Joną žinią. Ji yra išskirtinė iš keturių evangelijų, dažnai sutelkiant dėmesį į asmeninius pokalbius tarp Jėzaus ir tik vieno ar dviejų žmonių  tokių kaip Natanaelis, Nikodemas, moteris prie šulinio, paralyžiuotasis prie Betzatos tvenkinio, nuo gimimo aklas vyras, Lozorius ir jo seserys, Pilotas, Petras ar Tomas. Daugelis šių pasakojimų užrašyti tik evangelijoje pagal Joną.
+
+Evangelija pagal Joną yra Dievo Žodis, perduotas mums per apaštalą. Kaip ir visas Raštas, ši evangelija atėjo Dievo, o ne žmogaus va7 lia. Jonas buvo tik instrumentas, kurį Šventoji Dvasia panaudojo perteikdama daug svarbių temų  Žodį (logos), šviesą, duoną, vandenį, Šventąją Dvasią, vienybę, ženklus, liudijimą ir pranašystę. Šios temos viena kitą sustiprina ir nušviečia visoje Evangelijoje. Tyrinėjant Raštą dažnai dėmesys sutelkiamas į žodžio ar nedidelės Šventojo Rašto ištraukos reikšmę. Žodžio reikšmė patikrinama Biblijos žodyne. Tyrinėjame gramatiką, tiesioginį kontekstą, istorinį kontekstą ir, prisiminus pavyzdį su kilimu, aiškinamės mazgų skaičių kvadratiniame centimetre, audinį, dažus ir foną. Visos šios detalės yra svarbios.
+
+Tačiau tyrinėdami detales nepamirškime bendro vaizdo. Iš tiesų, kaip persiškas kilimas gali atspindėti ypatingą Alpių peizažą, taip evangelija pagal Joną gali mus sugrąžinti į Jėzaus Kristaus gyvenimą ir tarnystę, kurie, kaip žinome, yra amžinasis gyvenimas. Detalės atlieka tam tikrą vaidmenį, parodydamos mums bendrą vaizdą, o evangelija pagal Joną yra Dievo įkvėptas Jėzaus, mūsų Viešpaties ir Gelbėtojo, apreiškimas.
+
+E. Edward Zinke, buvęs Biblijos tyrinėjimo instituto direktoriaus pavaduotojas Septintosios dienos adventistų Generalinėje konferencijoje, dalyvauja daugybėje bažnytinės veiklos ir užima pareigas tarybose, įskaitant E. Vait paveldo tarybos vicepirmininko ir vyresniojo patarėjo Adventist Review leidinio klausimais. Jis apgynęs tris garbės daktaro laipsnius Septintosios dienos adventistų universitetuose. Jis gyvena Merilande.
+
+Mokslų daktaras Thomas Shepherd yra vyresnysis Naujojo Testamento profesorius Andrews universitete Septintosios dienos adventistų teologijos seminarijoje, kur dėstė nuo 2008 m. Kartu su žmona, medicinos mokslų daktare Sherry Shepherd, tarnavo Malavyje, Afrikoje, ir Brazilijoje. Jie turi du suaugusius vaikus ir šešis anūkus.

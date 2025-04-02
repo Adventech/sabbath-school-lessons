@@ -1,0 +1,57 @@
+---
+title:  Komento Sang Manunudlo
+date:   21/03/2025
+---
+
+### Bahin I: Kabilugan nga Panan-aw
+
+**Sadsaran nga Teksto**: 1 Juan 4:20
+
+**Sentro Sang Pagtoon**: Mateo 19:16–22; Mateo 22:35–40; Mateo 25:40, 45; Lucas 10:30–37; 1 Juan 4:20.
+
+**Panugod**: Kon kita nagahigugma sa Dios, pagahigugmaon naton ang isa kag isa kag mag-ulikid sa ila kaayohan.
+
+**Mga Tema sa Leksyon**: Ang leksyon sa sini nga semana nagahatag importansia sa duha ka dalagku nga ideya.
+
+1. Ang indi mautud nga angot sang paghigugma sa Dios kag paghigugma sa iban (hustisya): Sa Kasulatan, ang paghigugma sa kapareho nga tumuloo nagalakip sang mabakud nga paghigugma nga mga buhat pinaagi sa pagpakigbahin sang materyal nga mga butang sa utud nga mga lalaki kag mga babayi sa tion sang pagkinahanglan. Ang paghigugma sa isigkatawo nagapakita sang pag-ulikid para sa iya kaayohan. Ang masinakripisyuhon nga gugma ni Cristo para sa aton amo ang salandigan sang aton ihibalo kag paghimo sang gugma, sa diin ang kapaslawan sa paghigugma sa iban nagapahangup sang kapaslawan sa pagtolok sa Dios nga ginpahayag kay Jesu-Cristo.
+2. Mga kapaslawan sang gugma—kon ang gugma kag ang hustisya mautud: Kon kita nagahigugma sa Dios, kita magahigugma sa iban kag magapakigbahin sa pag-ulikid sa hustisya nga gintoon sa kaayohan sang katawohan. Sa pihak nga bahin, ang pagkautud sa tunga sang mahigugmaon nga Dios kag paghimo sang hustisya sa iban nagapakita sang kakulang sang pagpanugyan sa pagtuman sang mga kasogoan sang Dios. Amo ini ang kaso sa kasaysayan sang manggaranon nga pamatan-on nga manugdumala, nga naghaum sa pagtuman sang mga kasogoan apang napaslaw sa pagpakita sang gugma sa mga pobre. Ang isa pa ka ehemplo sa mga Ebanghelyo amo ang sacerdote kag Levita sa paanggid sang maayo nga Samariahanon. Sila tanan naghaum sa pagsunod sang mga pagsulundan sang kaputlian apang napaslaw sa pagpabutyag sang kalooy kag gugma.
+
+**Aplikasyon sa Kabuhi**: Paano ikaw nagakabuhi sa pagpati nga ang paghigugma sa Dios nagalakip sa pagtatap sa kinahanglanon sang iban?
+
+### Bahin II: Komentaryo
+
+**1. Ang Indi Mautud nga Kaangtanan Sang Paghigugma sa Dios kag Paghigugma sa Iban (Hustisya)**
+
+Ang kaangtanan sa tunga sang paghigugma sa Dios kag paghigugma sa iban, sa 1 Juan 4:20, nagahatag sang importante nga detalye sang pastoral nga mga pagpaandam ni Juan batok sa kapaslawan sa paghigugma sa mga utud nga lalaki kag mga babayi, nga ginhatagan importansia sa nauna nga mga dinalan. Si Karen H. Jobes nagapaathag nga sa 1 Juan 4:20, “Si Juan nagkompleto sang iya paathag sang gugma, ilabi na gid para sa masigkatumuloo.”—1, 2, & 3 John: Zondervan Exegetical Commentary on the New Testament (Grand Rapids, MI: Zondervan, 2014), p. 206. Indi magkubos sa tatlo ka dinalan sa 1 Juan ang nagatamud sa sini nga diskusyon.
+
+Sa 1 Juan 2:9–11, si Juan nagaimpon sang mga pamatasan sa paghigugma kag indi paghigugma/pagkaugot sa mga masigkatumuloo nga may pagpamatok nga mga laragway sang kapawa kag kadulum. Sa iya mga pulong, “Ang nagasiling nga yara siya sa kapawa kag nagadumut sa iya utud yara sa kadudulma pa tubtub karon. Ang nagahigugma sa iya utud nagapabilin sa kapawa, kag walay kahigayonan sang kasandad sa iya. Apang ang nagadumut sa iya utud yara siya sa kadudulman kag nagalakat sa kadudulman, kag wala makahibalo kon diin siya nagapakadto, kay ang kadudulman nagbulag sang iya mga mata” (1 Juan 2:9–11).
+
+Sa amo man, sa 1 Juan 3:10, 11, ang kinatuhayan amo ang sa tunga sang kaanakan sang Dios kag kaanakan sang yawa. “Sa sini ginapahayag ang mga anak sang Dios, kag ang mga anak sang yawa: ang bisan sin-o nga wala nagahimo sing matarung indi iya sang Dios, amo man ang wala nagahigugma sang iya utud. Kay amo ini ang balita nga nabatian ninyo kutub sa ginsuguran, nga maghigugmaanay kita” (1 Juan 3:10, 11).
+
+Niyan, sa 1 Juan 3:14–17, aton makita ang dugang nga mga detalye nahanungud sa mga paandam ni Juan sa sini nga butang, sa diin ang mga nagapamatok yara sa tunga sang kabuhi kag kamatayon. “Nakahibalo kita nga nagliton kita sa kamatayon pa kabuhi, kay ginahigugma ta ang mga kauturan. Ang wala nagahigugma nagapabilin sa kamatayon. Ang bisan sin-o nga nagadumut sang iya utud manugpatay, kag nakahibalo kamo nga walay manugpatay nga may kabuhi nga walay katapusan nga nagapabilin sa iya. Sa sini nakilala ta ang gugma, kay ginhatag niya ang iya kabuhi tungud sa aton; kag dapat naton ihatag ang aton mga kabuhi tungud sa mga kauturan. Apang ang bisan sin-o nga may pangabuhian sang kalibutan kag nagatan-aw sa iya utud nga yara sa kakulangan, apang nagapugung sang iya kalooy sa iya, paano bala ang pagpabilin sang gugma sang Dios sa iya?” (1 Juan 3:14–17).
+
+Duha ka importante nga detalye ang napanilagan sa sini nga dinalan. Una, ang paghigugma sa masigkatumuloo ginbadbad sa tinaga nga pagpakigbahin sang materyal nga kinahanglanon sa utud nga lalaki ukon babayi nga nagakinahanglan. Ining mabakud kag mahigugmaon nga buhat importante nga bahin sang hustisya, tungud ang pagpauswag sang hustisya ukon pangkatawohan nga pag-ulikid positibo nga nahangpan bilang pagpasanyog sang kaayohan sang iban, nga nagapahangup sa pagpamag-an sang pag-antus sa kalibutan. Ang pag-antus diri amo ang makita nga bahin sang inhustisya. Ikaduha, ang gugma nga nagatindug para sa hustisya, sa paghatag sang kinahanglanon sang iban, nasandig kay Cristo sa 1 Juan 3:16 (“Sa sini nakilala ta ang gugma, kay ginhatag niya ang iya kabuhi tungud sa aton; kag dapat naton ihatag ang aton mga kabuhi tungud sa mga kauturan.”
+
+Gani, kon aton basahon ang 1 Juan 4:20 (“Kon ang isa nagasiling, ‘Ako nagahigugma sa Dios,’ kag nagadumut sa iya utud, butigon siya; kay ang wala nagahigugma sa iya utud nga iya makita, indi makahigugma sa Dios nga wala niya makita” sa kapawa sang 1 Juan 2:9–11, 1 Juan 3:10, 11, kag ilabi ang 1 Juan 3:14– 17, posible nga makahimo sang sining mga panghingapos. Una, ang kapaslawan sa paghigugma sa mga masigkatumuloo sing labi ginapabutyag sa pagpatumbaya sa paghatag sang materyal nga mga kinahanglanon sang mga utud nga lalaki kag babayi. Sono sa haumhaum lamang nga teolohiya sang 1 Juan 4:20, ini nga kapaslawan isa ka pamatuud nga ang nagapangangkon nga tumuloo wala nagahigugma sa Dios. Ang antropolohiya nga teolohiya sarang mangin salandigan sang sini nga paghaumhaum, tungud gintuga sang Dios ang tawo sa Iya kaugalingon nga dagway (Genesis 1:27).
+
+Apang, ang salandigan sang paghaumhaum sang 1 Juan 4:20 daw kaangay man sang iya ni Cristo. Amo ina, nga nakita na sa 1 Juan 3:16, ang masakripisyuhon nga gugma ni Cristo amo ang sadsaran sang aton ihibalo sang gugma kag ang nagapadasig nga sulundan/gahum para sa aton gugma pakadto sa iban. Ini nga salandigan sa pagtoon nahanungud kay Cristo ginpamatud-an liwat sa 1 Juan 4:9–11.
+
+Samtang “walay tawo nga nakakita sa Dios sa bisan san-o” (1 Juan 4:12), ang Iya gugma nakita ukon “ginpahayag sa aton” bangud “ginpadala sang Dios sa kalibutan ang iya bugtong nga Anak” (1 Juan 4:9). Sa pagkamatuud, ang hinambalan nga “nagahigugma kita” sa Dios “kay siya naghigugma sa aton sing una” (1 Juan 4:19) napaathag na sa Cristolohikal nga paagi nga indi kita ang una nga naghigugma sa Dios, “kondi nga ginhigugma niya kita kag ginpadala ang Iya Anak nga katumbasan sang aton mga sala” (1 Juan 4:10). Kag “kon ang Dios naghigugma gid sa aton, kita man dapat maghigugmaanay” (1 Juan 4:11).
+
+Ang ideya nga si Cristo amo ang makita nga pagpahayag sang gugma sang Dios, nga indi naton makita (1 Juan 4:12), gindugangan sang pagpamatuud ni Juan bilang saksi nga nakakita kay Jesus: “Kag nakita naton kag ginasaksihan nga ang Amay nagpadala sang Iya Anak subong nga Manluluwas sang kalibutan (1 Juan 4:14; tan-awan man ang Juan 1:14, 18). Gani, sono sa sumaryo ni Jobes, “ang kapaslawan sa paghiguma sa iban nagapahangup nga ang ina nga tawo napaslawan nga makita ang Dios nga napahayag kay Jesu-Cristo kag gani indi makahigugma kay Cristo sa kabilugan.”—1, 2, & 3 John: Zondervan Exegetical Commentary on the New Testament, p. 207. Ining indi mautud nga kaangtanan sa paghigugma sa Dios kag sa paghigugma sa iban (sa pagbatyag nga ipahibalo ang hustisya, kon sayuron, ang kaayohan sang iban), makita halin sa Cristolohikal nga tinindugan, nagapahanumdum sa aton sang ginpamatud-an ni Jesus sa Mateo 25:40: “Sa pagkamatuud, nagasiling ako sa inyo, sa bagay nga ginhimo ninyo ini sa isa sang labing kubus sining akon mga utud, ginhimo ini ninyo sa akon” (tan-awa man ang Mat. 25:45, sa diin nagagamit sang negatibo nga hinambalan sa pagpabutyag sang sini nga prinsipio).
+
+**2. Mga Kapaslawan Sang Gugma: Kon ang Paghigugma kag ang Hustisya Mautud**
+
+Ang kaangtanan sang paghigugma sa Dios kag sa iban, ilabi na gid sa sahi sang hustisya (nga nagapadasig sang ila kaayohan kag nagapamag-an sang ila pag-antus) nagahatag sang kinahanglanon nga pagpabutyag sa kabuhi para sa tanan nga kasogoan nga aton makita sa Kasulatan. Sa pagbutang sa iban nga paagi, ang pagkautud sa tunga sang paghigugma sa Dios kag ang paghimo sang hustisya sa iban (paghigugma sa ila) nagapahangup nga wala sang harmoniya sa aton mga kabuhi, sang kita nagatinguha sa pagbantay sang mga kasogoan sang Dios. Ang ehemplo sang sini nga prinsipio nagalakip sang manggaranon nga manugdumala nga pamatan-on (Mateo 19:16–22), nga naghaum nga nagatuman sang mga kasogoan, apang napaslawan sa pagpakita sang gugma sa mga pobre sang iya materyal nga mga pagkabutang kag niyan, sa olihi, napaslawan sa pagsunod kay Jesus. Ang isa pa ka importante nga ehemplo sa mga Ebanghelyo amo ang sacerdote kag Levita sa paanggid sang maayo nga Samariahanon (Lucas 10:30–37), samtang sila naghaum sa pagsunod sa mga pagsulundan sang kaputlian, nga may kaangtanan sa templo, apang napaslawan sa pagpakita sang kalooy kag gugma sa tawo nga halos daw mapatay na sa dalanon halin sa Jerusalem pakadto sa Jerico.
+
+Si Jesus nagahatag importansia sa pagpakigsugilanon sa abogado ukon mangin-alamon sa kasogoan, nga nasulat sa Mateo 22:35–40, nga ang paghigugma sa Dios kag sa isigkatawo amo ang “duha ka bilitayan” nga nagauyat sa tanan nga biblikanhon nga mga panudlo (ang kasogoan kag ang mga manalagna). Samtang madamu nga mga badbad sang Mateo 22:40 nagagamit sang Griego nga berbo kremánnymi subong nga nagasalig (“Sa sining duha ka sogo natingub ang bug-os nga kasogoan kag ang mga manalagna” [ESV]; tan-awa man ang NASB 1995, NET, RSV), ang mas literal nga kahulugan sang pagbitay ang ginagamit sa iban nga mga pagbadbad (“Sa sini nga duha ka mga kasogoan nagabitay ang tanan nga Kasogoan kag mga Manalagna” [NKJV], tan-awa man ang NRSV).
+
+### Bahin III: Aplikasyon sa Kabuhi
+
+Sa konteksto sang indi mautud nga kaangtanan sang paghigugma sa Dios kag sa paghigugma sa iban, ang masinakripisyuhon nga gugma ni Jesus sa krus amo ang salandigan sang imo paghigugma sa iban. Sa sini nga panan-aw, binagbinaga sa imo klase ang masunod nga mga pamangkot:
+
+1. Sa ano nga mga paagi ang gugma sang Dios, nga ginpahayag sa krus, mangin imo sulundon sa paghigugma sa iban?
+2. Ano nga mga sakripisyo ang imo personal nga ginahimo sa paghigugma sa iban kag sa paghatag sang hustisya/paghatag sang ila mga kinahanglanon?
+3. Kon ang katawohan maigo sang kaimolon, pagpigos, ukon ano nga sahi sang inhustisya, ano ang aton mahimo bilang iglesia sa pagbulig sa ila?
+
+`Notes`

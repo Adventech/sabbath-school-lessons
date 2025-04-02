@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   11/09/2020
 ---
 
-[Von Jesus berichten](https://sabbath-school.adventech.io/de/2020-03/11/01)
+Von Jesus berichten
 ===========================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -35,8 +35,6 @@ II: Wir studieren die Bibel
 -   Wann hast du das erste Mal von Jesus gehört. Wie war das? Wie wirkte
     das auf dich?
 
-<!-- -->
-
 -   Nun überlege, welches Zeugnis dich schließlich dazu brachte, mit
     Christus ernst zu machen, ihm dein Leben zu übergeben. Was war
     gegeben, das dich überzeugte?
@@ -61,7 +59,7 @@ II: Wir studieren die Bibel
     wahrscheinlicher, dass diejenigen Gottes Wort annehmen, mit denen
     wir über die Heilige Schrift sprechen.
 
-### **[Jesus: Die Grundlage unseres Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/jesus---die-grundlage-unseres-zeugnisses/)**
+### Jesus: Die Grundlage unseres Zeugnisses
 
 **Text Epheser 2,1-10**
 
@@ -87,7 +85,7 @@ II: Wir studieren die Bibel
 -   Wie kann man gewährleisten, dass die positive Veränderung hin zu
     Christus nicht vorzeitig aufhört? Dass man immer „dranbleibt“?\
 
-### **[Die verändernde Kraft des persönlichen Zeugnisses](https://sabbath-school.adventech.io/de/2020-03/11/die-ver%C3%A4ndernde-kraft-des-pers%C3%B6nlichen-zeugnisses/)**
+### Die verändernde Kraft des persönlichen Zeugnisses
 
 **Text 1. Johannes 1,1-4; 1. Johannes 3,1; 1. Johannes 4,7-11; 1.
 Johannes 5,1-5**
@@ -111,15 +109,13 @@ Johannes 5,1-5**
     Kreuzigung Jesu, noch nicht gegeben – wo doch Johannes Jesus nun
     schon so lange kannte?
 
-<!-- -->
-
 -   Vielfach wird (auch von Christen) angenommen, dass Liebe und Gesetz
     gegeneinander stünden. Wer fleißig auf die Einhaltung der Gebote
     achtet, kann nicht liebevoll und barmherzig sein, sondern wird
     streng. Wie siehst du das? Welche Verbindung zwischen beidem legt
     Johannes in seinem Brief vor?\
 
-### **[Jesu Geschichte erzählen](https://sabbath-school.adventech.io/de/2020-03/11/jesu-geschichte-erz%C3%A4hlen/)**
+### Jesu Geschichte erzählen
 
 **Text Markus 5,1-17**
 
@@ -147,7 +143,7 @@ Johannes 5,1-5**
 -   Wo hast du schon „lauthals“ von dem Wirken Gottes berichtet? Was hat
     dich dazu getrieben?
 
-### **[Mit Gewissheit Zeugnis geben](https://sabbath-school.adventech.io/de/2020-03/11/mit-gewissheit-zeugnis-geben/)**
+### Mit Gewissheit Zeugnis geben
 
 **Text 1. Johannes 5,11-13; Hebräer 10,19-22; 1. Korinther 15,1-2**
 
@@ -169,9 +165,5 @@ Johannes 5,1-5**
 -   Welche Art Erfahrung(en) hat dich am meisten geprägt, am stärksten
     beeinflusst? Weshalb?
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

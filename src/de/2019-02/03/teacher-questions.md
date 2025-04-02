@@ -38,7 +38,7 @@ Tipp: In Zusammenhang mit diesen Fragen können einige Texte dieses
 Tagesabschnittes gelesen werden
 
 ACHTUNG: bei der Versangabe ist den Redakteuren ein Tipfehler
-unterlaufen - richtig ist: 1. Korinther 10,1-<u>**1**</u>3
+unterlaufen - richtig ist: 1. Korinther 10,1-13
 
 ### Fragen zur Anwendung
 
@@ -120,9 +120,5 @@ Prinzipien
 Zu den einzelnen Prinzipien können folgende Texte gelesen werden: 1Kor
 13,4-8;
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

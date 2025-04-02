@@ -60,7 +60,7 @@ The following table lists the kings of Persia and the groups that returned to Is
 |Cambyses II|530–522 b.c.| |
 |Darius I|522–486 b.c.| |March 515 b.c.—Temple completed and dedicated|
 |Xerxes I (Ahasuerus)|486–465 b.c.|Esther marries Xerxes I and becomes queen|Resistance to rebuilding Jerusalem|
-|Artaxerxes I|465–425 b.c.|457 b.c.—Ezra returns with second group<br><br>445/444 b.c.—Nehemiah returns with third group|The longest prophetic period begins (Dan. 8:14,Dan. 9:24–27)<br><br>Opposition to rebuilding Jerusalem(Ezra 4:7–23)<br><br>Wall of Jerusalem rebuilt|
+|Artaxerxes I|465–425 b.c.|457 b.c.—Ezra returns with second group 445/444 b.c.—Nehemiah returns with third group|The longest prophetic period begins (Dan. 8:14,Dan. 9:24–27) Opposition to rebuilding Jerusalem(Ezra 4:7–23) Wall of Jerusalem rebuilt|
 
 **First Return (537/536 b.c.)**
 

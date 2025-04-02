@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   21/08/2020
 ---
 
-[Wie Jesus dienen](https://sabbath-school.adventech.io/de/2020-03/08/01)
+Wie Jesus dienen
 ========================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -71,9 +71,5 @@ MONTAG – Wie Jesus mit Menschen umging
         (z.B. ehrliches Interesse, Liebe,…)
     -   Was
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

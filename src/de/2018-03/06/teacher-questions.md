@@ -16,7 +16,7 @@ Teil 1: Gemeinschaft
 Teil 2: Wir studieren die Bibel
 -------------------------------
 
-##### **Sonntag**
+##### Sonntag
 
 **Apostelgeschichte 9,32-35**
 
@@ -46,7 +46,7 @@ Teil 2: Wir studieren die Bibel
         (ganze Dörfer bekehren sich) bzw. Ist Gott fair, wenn er Wunder
         wirkt?
 
-##### **Montag**
+##### Montag
 
 **Apostelgeschichte 10,9-20.28.34-35**
 
@@ -69,7 +69,7 @@ Teil 2: Wir studieren die Bibel
         -   Welche Texte des AT oder Begebenheiten aus dem Leben Jesu
             hätten diese Sicht bereits korrigieren können?
 
-##### **Dienstag**
+##### Dienstag
 
 **Apostelgeschichte 10,44-48**
 
@@ -97,7 +97,7 @@ Teil 2: Wir studieren die Bibel
         -   Wenn ja, warum ist das so?
         -   Was müsste geschehen, damit sich daran etwas ändert?
 
-##### **Mittwoch**
+##### Mittwoch
 
 **Apostelgeschichte 11,19-26**
 
@@ -113,7 +113,7 @@ Teil 2: Wir studieren die Bibel
     -   Wie wurden die Christen vorher genannt, bevor sie in Antiochia
         "zuerst Christen genannt" wurden? (siehe z. B. -Apg 9,2)
 
-##### **Donnerstag**
+##### Donnerstag
 
 **Apostelgeschichte 12,1-4**
 
@@ -131,7 +131,7 @@ Teil 2: Wir studieren die Bibel
     -   Warum wurde Jakobus hingerichtet, Petrus aber wundersam
         errettet? Welche Schlussfolgerungen ziehst du daraus?
 
-##### **Fragen zum Abschluss**
+##### Fragen zum Abschluss
 
 -   Welche Lehren ziehst du aus den Geschichten der Urgemeinde, die
     heute studiert wurden?
@@ -148,6 +148,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

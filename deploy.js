@@ -133,6 +133,8 @@ let branch = argv.b,
     compile_quarter = argv.q || getCompilationQuarterValue(),
     target_api = parseInt(argv.v) || 1;
 
+let invalidationList = new Set()
+
 try {
   if (!argv.l && fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
     let changedFiles = require('./.github/outputs/all_changed_files.json')
@@ -154,6 +156,13 @@ try {
         ).map(
             (f) => {
               let stripped = f.replace(/^src\//g, '')
+
+              let p = getInfoFromPath(f)
+              invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/${p.quarterly}/*`)
+              invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/index.json`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies%2F${p.quarterly}*`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies/index.json`)
+
               return stripped.substring(0, stripped.indexOf('/'))
             }
         )
@@ -168,6 +177,21 @@ try {
           console.log(`Looks like source changes are targeting audio or video content hence aborting execution`)
           return
         }
+      } else {
+        invalidationList.add(`/api/v${target_api}/*`)
+      }
+
+      let invalidationArray = Array.from(invalidationList)
+      let invalidationJSON = {
+        "Paths": {
+          "Quantity": invalidationArray.length,
+          "Items": invalidationArray
+        },
+        "CallerReference": `deploy.js v${target_api} (${Date.now()})`
+      }
+
+      if (invalidationArray.length > 0) {
+        fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
       }
     }
   }
@@ -200,7 +224,11 @@ renderer.codespan = function (text) {
 };
 
 renderer.image = function (href, title, text) {
-  return `<img style="max-width:100%" alt="${text || ''}" src="${renderer.options.baseUrl}${href}" />`
+  let url = href
+  if (!/^https/.test(href)) {
+    url = `${renderer.options.baseUrl}${href}`
+  }
+  return `<img style="max-width:100%" alt="${text || ''}" src="${url}" />`
 }
 
 let slug = function (input) {
@@ -405,7 +433,7 @@ let getQuarterlyJSON = function (quarterlyPath) {
   }
   if (fs.existsSync(`src/${info.language}/groups.yml`)) {
     let groups = yamljs.load(fs.readFileSync(`src/${info.language}/groups.yml`));
-    let quarterly_group = quarterly.index.substring(10).replace(/^-/, '')
+    let quarterly_group = quarterly.index.replace(info.language+'-', '').substring(7).replace(/^-/, '')
     if (!quarterly_group.length) {
       quarterly_group = 'default'
     }
@@ -577,6 +605,8 @@ let quarterliesAPI = async function () {
         existingQuarterlies.unshift(quarterly);
       }
     }
+
+    existingQuarterlies = existingQuarterlies.filter(item => item !== null)
 
     existingQuarterlies = existingQuarterlies.sort(function (a, b) {
       let s = a.index,

@@ -1,0 +1,157 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L00.pdf'
+      target: en/2025-01-kd/introduction
+      title: "Introduction"
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L01.pdf'
+      target: en/2025-01-kd/01
+      title: "A Child Like Me"
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L02.pdf'
+      target: en/2025-01-kd/02
+      title: "Daddy’s Helper"
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L03.pdf'
+      target: en/2025-01-kd/03
+      title: "Lost and Found"
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L04.pdf'
+      target: en/2025-01-kd/04
+      title: "Friend to All"
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L05.pdf'
+      target: en/2025-01-kd/05
+      title: "Let Them Come!"
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L06.pdf'
+      target: en/2025-01-kd/06
+      title: "Too Short to See"
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L07.pdf'
+      target: en/2025-01-kd/07
+      title: "Who Is Your Neighbor?"
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L08.pdf'
+      target: en/2025-01-kd/08
+      title: "Lazarus, Come Out"
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L09.pdf'
+      target: en/2025-01-kd/09
+      title: "A Praise Parade"
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L10.pdf'
+      target: en/2025-01-kd/10
+      title: "A Special Supper"
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L11.pdf'
+      target: en/2025-01-kd/11
+      title: "Jesus Loves Me"
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L12.pdf'
+      target: en/2025-01-kd/12
+      title: "He’s Alive!"
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-L13.pdf'
+      target: en/2025-01-kd/13
+      title: "Coming in the Clouds"
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-Activities.pdf'
+      target: en/2025-01-kd/activities
+      title: "Activities"
+      start_date: 28/03/2025
+      end_date: 28/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Student/K-25-Q1-MemoryVerses..pdf'
+      target: en/2025-01-kd/memory-verses
+      title: "Memory Verses"
+      start_date: 28/03/2025
+      end_date: 28/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L00-T.pdf'
+      target: en/2025-01-kd/introduction
+      title: "Teacher"
+      start_date: 28/12/2024
+      end_date: 28/12/2024
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L01-T.pdf'
+      target: en/2025-01-kd/01
+      title: "Teacher"
+      start_date: 28/12/2024
+      end_date: 03/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L02-T.pdf'
+      target: en/2025-01-kd/02
+      title: "Teacher"
+      start_date: 04/01/2025
+      end_date: 10/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L03-T.pdf'
+      target: en/2025-01-kd/03
+      title: "Teacher"
+      start_date: 11/01/2025
+      end_date: 17/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L04-T.pdf'
+      target: en/2025-01-kd/04
+      title: "Teacher"
+      start_date: 18/01/2025
+      end_date: 24/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L05-T.pdf'
+      target: en/2025-01-kd/05
+      title: "Teacher"
+      start_date: 25/01/2025
+      end_date: 31/01/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L06-T.pdf'
+      target: en/2025-01-kd/06
+      title: "Teacher"
+      start_date: 01/02/2025
+      end_date: 07/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L07-T.pdf'
+      target: en/2025-01-kd/07
+      title: "Teacher"
+      start_date: 08/02/2025
+      end_date: 14/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L08-T.pdf'
+      target: en/2025-01-kd/08
+      title: "Teacher"
+      start_date: 15/02/2025
+      end_date: 21/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L09-T.pdf'
+      target: en/2025-01-kd/09
+      title: "Teacher"
+      start_date: 22/02/2025
+      end_date: 28/02/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L10-T.pdf'
+      target: en/2025-01-kd/10
+      title: "Teacher"
+      start_date: 01/03/2025
+      end_date: 07/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L11-T.pdf'
+      target: en/2025-01-kd/11
+      title: "Teacher"
+      start_date: 08/03/2025
+      end_date: 14/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L12-T.pdf'
+      target: en/2025-01-kd/12
+      title: "Teacher"
+      start_date: 15/03/2025
+      end_date: 21/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-L13-T.pdf'
+      target: en/2025-01-kd/13
+      title: "Teacher"
+      start_date: 22/03/2025
+      end_date: 28/03/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q1/Kindergarten/Teacher/K-25-Q1-Activities-T.pdf'
+      target: en/2025-01-kd/activities
+      title: "Teacher"
+      start_date: 28/03/2025
+      end_date: 28/03/2025

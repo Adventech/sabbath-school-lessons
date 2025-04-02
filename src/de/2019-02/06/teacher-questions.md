@@ -20,13 +20,13 @@ I: Gemeinschaft
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfragen**
+### Startfragen
 
 -   Welches sind die wichtigsten Elemente einer gelungenen
     Partnerschaft?
 -   Wie kann man Liebe (und Leidenschaft) langfristig frisch erhalten?
 
-### **Sonntag: Untrennbares Leben**
+### Sonntag: Untrennbares Leben
 
 **1. Thessalonicher 5,23; 1. Korinther 6,19-20**
 
@@ -47,7 +47,7 @@ II: Wir studieren die Bibel
     Herausforderungen im Umgang mit bzw. Reden über Sexualität?
     Inwieweit unterscheiden wir uns als Christen davon?
 
-### **Montag: Die Liebe des Liebeslieds**
+### Montag: Die Liebe des Liebeslieds
 
 **Hohelied 7,1-9**
 
@@ -68,7 +68,7 @@ II: Wir studieren die Bibel
     ist es, dass der Ehepartner auch „Freund“ ist? Wie realistisch ist
     das?
 
-### **Dienstag: Liebendes Wissen**
+### Dienstag: Liebendes Wissen
 
 **Hoheslied 4,16-5,1; 1. Korinther 7,3-5**
 
@@ -86,7 +86,7 @@ II: Wir studieren die Bibel
     Begriff? Was sagt uns das über die Tiefe der Intimität, die Gott
     sich für die eheliche Sexualität vorgestellt hat?
 
-### **Mittwoch: Liebe zur richtigen Zeit &** **Donnerstag: Das Geschenk des Schöpfers schützen**
+### Mittwoch: Liebe zur richtigen Zeit & **Donnerstag: Das Geschenk des Schöpfers schützen**
 
 **Hoheslied 4,12; Römer 1,24-27**
 
@@ -107,9 +107,5 @@ II: Wir studieren die Bibel
     umgehen? Wie gehen wir mit Gemeindegliedern um, die sich zu
     homosexuellen N
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

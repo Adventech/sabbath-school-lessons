@@ -3,7 +3,7 @@ title: Hope Sabbath School Outline
 date: 03/06/2022
 ---
 
-<center><img src="https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg" /></center>
+![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
 
 ### Outline #10 A New Name: From Jacob to Israel
 

@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   22/05/2020
 ---
 
-[Titel der Lektion](https://sabbath-school.adventech.io/de/2020-02/08/01)
+Titel der Lektion
 =========================================================================
 
 Schöpfung: Das erste Buch Mose als Grundlage Teil I
@@ -122,9 +122,5 @@ Verse.
 -   Fragen zum Text:
     -   Im Schöpfungsbericht wird
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

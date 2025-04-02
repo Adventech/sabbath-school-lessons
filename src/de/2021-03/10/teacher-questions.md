@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   03/09/2021
 ---
 
-[Sabbatruhe](https://sabbath-school.adventech.io/de/2021-03/10/01)
+Sabbatruhe
 ==================================================================
 
 II: Wir studieren die Bibel
@@ -85,9 +85,5 @@ II: Wir studieren die Bibel
 -   Wie kann der Sabbat noch bedeutungsvoller werden?
 -   Beschreibt mir euren idealen Sabbat...
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -16,9 +16,6 @@ date:   26/04/2024
     -   Was folgt historisch danach?
     -   Was hilft uns, das kleine Horn zu identifizieren?
 
-```{=html}
-<!-- -->
-```
 -   Fragen zur Botschaft:
     -   Warum ist hier das Jahr-Tag-Prinzip anzuwenden?
     -   Warum macht eine buchstäbliche Interpretation keinen Sinn?
@@ -85,14 +82,4 @@ date:   26/04/2024
         Märtyrertod zu sterben?
     -   Welche Verheißungen gaben den Märtyrern Mut?
 
-```{=html}
-<center>
-```
-[Ansicht mit
-inline-Bibeltexten](https://sabbath-school.adventech.io/de/2024-02/04/10-gespr%C3%A4chsfragen-sabbatschulwiki/)
-
-```{=html}
-</center>
-```
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

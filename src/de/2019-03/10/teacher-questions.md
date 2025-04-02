@@ -58,7 +58,7 @@ Gutes zu tun.
 -   In welchem Zusammenhang stehen das gegenwärtige Leiden und die zu
     erwartende Herrlichkeit?
 
-<u>Anwendungsfragen</u>
+_Anwendungsfragen_
 
 -   Wodurch kommt eurer Meinung nach das “seufzen” (V 23) der Schöpfung
     zum Ausdruck?
@@ -83,7 +83,7 @@ untenstehenden Fragen heranarbeiten.
 -   Wie reagierten die Menschen auf das Mitgefühl Jesu?
 -   In welche Zusammenhänge stellt Jesus Leid und Erlösung.
 
-<u>Anwendungsfragen</u>
+_Anwendungsfragen_
 
 -   Leid, Sünde und Verlorenheit haben auch auf uns eine starke
     Auswirkung. Wie reagierst du auf diese Vorkommnisse/Zustände ...
@@ -99,8 +99,6 @@ untenstehenden Fragen heranarbeiten.
 -   Was charakterisiert ein “totes Leben” (vgl. Vers 1+5)?
 -   Was charakterisiert ein “lebendiges Leben” (vgl. Vers 5)?
 
-<!-- -->
-
 -   Jonathan Duffy, der Verfasser der Studienanleitung, formuliert auf
     Seite 120 der Standartausgabe: “Während wir immer noch mit
     Versuchungen des Egoismus und der Gier kämpfen, bietet uns die
@@ -114,7 +112,7 @@ untenstehenden Fragen heranarbeiten.
 **Wir machen uns Gedanken über unser “gemeinsames Menschsein”**
 (Studienanleitung, Standardausgabe, Seite 122)
 
-<u>Fragen zum Thema</u>
+_Fragen zum Thema_
 
 -   Was haben wir als Menschen alle gemein?
 -   Welche Unterschiede können wir zwischen einzelnen Menschen(Gruppen)
@@ -122,7 +120,7 @@ untenstehenden Fragen heranarbeiten.
 -   Weshalb fällt es uns leichter die Unterschiede zu betonen als auf
     die Gemeinsamkeiten zu schauen?
 
-<u>Anwendungsfragen</u>
+_Anwendungsfragen_
 
 -   Schon den ersten Christen fiel es nicht leicht, ihr Denken und
     Handeln von der Idee des “gemeinsamen Menschseins” prägen zu lassen.
@@ -148,7 +146,7 @@ untenstehenden Fragen heranarbeiten.
     -   Inwieweit verbindet diese dreifache Engelsbotschaft unsere
         Wertschätzung gegenüber dem Schöpfer und seiner Geschöpfe?
 
-<u>Anwendungsfragen</u>
+_Anwendungsfragen_
 
 -   Welchen Einfluss haben die Gewissheit eines aktuell stattfindenden
     himmlischen Gerichts, die Anbetung des Gottes, der die Welt, in der
@@ -162,14 +160,9 @@ III: Dienst und Mission
 **Ideen für Aktivitäten**\
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus. Sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
-unseres Auftrags, Jünger zu machen. [Hier gibt es eine Ideensammlung,
-was ihr alles tun könnt.](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")
+unseres Auftrags, Jünger zu machen. 
 
 '''Arbeitshilfe “Dienst und Mission”
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   21/02/2020
 ---
 
-[Vom aufgewühlten Meer zu den Wolken des Himmels](https://sabbath-school.adventech.io/de/2020-01/08/01)
+Vom aufgewühlten Meer zu den Wolken des Himmels
 =======================================================================================================
 
 I: Gemeinschaft
@@ -26,7 +26,7 @@ II: Wir studieren die Bibel
 -   Fragen zur praktischen Umsetzung der Botschaft
 -   Fragen, die zur Weitergabe des gelernten anregen
 
-### [Die Vision von den Vier Tieren](https://sabbath-school.adventech.io/de/2020-01/08/vier-tiere/)
+### Die Vision von den Vier Tieren
 
 **Daniel 7,1-7 / Daniel 7,15-18**
 
@@ -43,7 +43,7 @@ II: Wir studieren die Bibel
         Gründe könnte es dafür geben, dass ein weiteres Kapitel im
         Danielbuch sich diesem Thema widmet?
 
-### **[Das kleine Horn](https://sabbath-school.adventech.io/de/2020-01/08/das-kleine-horn/)**
+### Das kleine Horn
 
 **Daniel 7,8 / Daniel 7,19-25**
 
@@ -58,7 +58,7 @@ II: Wir studieren die Bibel
         zu der Macht des kleinen Horns aus Daniel 7?
     -   Warum lässt Gott so eine feindliche Macht überhaupt gewähren?
 
-### [Das Gericht hat Platz genommen](https://sabbath-school.adventech.io/de/2020-01/08/das-gericht-hat-platz-genommen/)
+### Das Gericht hat Platz genommen
 
 **Daniel 7,9-14 / Daniel 7,26-27**
 
@@ -100,16 +100,9 @@ III: Dienst und Mission
 Wir tauschen uns über unsere aktuellen Missionskontakte und -projekte
 aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es zwei Ideen-Sammlungen:
-[Soziale Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink") |
-[Wir alle beteiligen
-uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")
 
-**Arbeitshilfe “Gebet + Dienst + Zeugnis”**\
-Diese
 
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+**Arbeitshilfe “Gebet + Dienst + Zeugnis”** Diese
 
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

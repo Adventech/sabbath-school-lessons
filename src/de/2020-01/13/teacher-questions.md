@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   27/03/2020
 ---
 
-[Staub zu den Sternen](https://sabbath-school.adventech.io/de/2020-01/13/vom-staub-zu-den-sternen/)
+Staub zu den Sternen
 ===================================================================================================
 
 I: Gemeinschaft + Aktivitäten
@@ -25,20 +25,11 @@ aus, sammeln neue Ideen und beten um die Führung Gottes zur Erfüllung
 unseres Auftrags, Jünger zu machen. Hier gibt es folgende
 Ideen-Sammlungen /-Anregungen:
 
--   **[Soziale
-    Aktivitäten](Medium:Soziale_Aktivitäten_1.3.pdf "wikilink")**
--   **[Wir alle beteiligen
-    uns](Medium:Wir_alle_beteiligen_uns_1.2.pdf "wikilink")**
--   **[Arbeitshilfe “Gebet + Dienst +
-    Zeugnis”](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink")**
+-
     -   Diese Arbeitshilfe ist eine Ideenanregung, was wir anderen Gutes
         tun können. Beachte hierzu folgende mögliche Vorgehensweise im
         Rahmen der Sabbatschule:
-    -   Drucke für jede Person eine Arbeitshilfe aus:
-        [WORD](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis_V3.docx "wikilink")
-        oder
-        [PDF](Medium:Teil_III_Arbeitshilfe_Gebet_+_Dienst_+_Zeugnis.pdf "wikilink").
-        Auf einem Blatt befinden sich zwei Arbeitshilfen...
+    -   Drucke für jede Person eine Arbeitshilfe aus:        oder        Auf einem Blatt befinden sich zwei Arbeitshilfen...
     -   Gib jedem Sabbatschul-Teilnehmer eine Arbeitshilfe.
         -   **1-3 Personen**: Jeder möge kurz unter stillem Gebet an
             sein Umfeld denken: Freunde, Verwandte, Bekannte,
@@ -71,7 +62,7 @@ missionarischen Anliegen.
 II: Wir studieren die Bibel
 ---------------------------
 
-### **[Michael, unser Fürst](https://sabbath-school.adventech.io/de/2020-01/13/michael-unser-f%C3%BCrst/)** & **[Im Buch festgehalten](https://sabbath-school.adventech.io/de/2020-01/13/im-buch-festgehalten/)**
+### Michael, unser Fürst & Im Buch festgehalten
 
 **Daniel 12,1**
 
@@ -91,7 +82,7 @@ II: Wir studieren die Bibel
     -   Wie können wir schon heute in der Gewissheit der Errettung
         Gottes vertrauensvoll leben?
 
-### **[Die Auferstehung](https://sabbath-school.adventech.io/de/2020-01/13/die-auferstehung/)**
+### Die Auferstehung
 
 **Daniel 12,2-3**
 
@@ -108,12 +99,5 @@ II: Wir studieren die Bibel
     -   Inwieweit ist es ein Vorrecht gläubig zu sein?
     -   Was braucht es, um ein “Verständiger” zu sein?
 
-==='''\[<https://sabbath-school.adventech.io/de/2020-01/13/das-versiegelte-buch/>
-Das versiegelte Bu
-
-<center>
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
-
-</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
 

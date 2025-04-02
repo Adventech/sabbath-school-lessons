@@ -1,0 +1,62 @@
+---
+title:  Komento ng Guro
+date:   01/11/2024
+---
+
+### Unang Bahagi: Pangkalahatang Ideya
+
+Pokus ng Pag-aaral: Juan 4:1-15, Juan 4:16-26, at Juan 4:27-42
+
+Ang mga Samaritano ay hinamak ng kanilang mga karatig na mga Judio. Hinamak ng mga Judio ng higit ang mga Samaritano nang higit pa kaysa sa kanilang paghamak sa kanilang mapang-aping mga Romano. Itinuturing ang mga Samaritano na tiwali, hindi tapat, at dapat iwasan sa anumang paraan. Iyon ang dahilan kung bakit ang mga manlalakbay mula sa mga rehiyon ng Galilea ay umiiwas sa mas maikling ruta patungong Jerusalem sa pamamagitan ng Samaria at sa halip ay lumilihis sa Perea, na dumadaan sa mas mahabang ruta patungo sa siyudad.
+
+Ang problema sa Samaritano ay nagsimula nang dinala ni Tiglath-Pelaser III (745-727 B.C.) ang halos lahat ng populasyon ng Israel bilang bihag sa Asiria upang patirahin doon. Ang mga Israelitang ito ay binubuo ng kilala bilang ang sampung nawalang tribo ng Israel. Upang makumpleto ang gawaing ito ng pagbabawas ng populasyon, ang bagong emperador ng Asiria, si Sargon II (722-705 B.C.), ay dinalang bihag ang lalong maraming naninirahan sa Hilagang Kaharian.
+
+Upang pag-isahin ang emperyo ng Asiria, ang mga tao mula sa Asiria at mga rehiyon sa Mesopotamia ay dinala sa Israel upang paramihin ang populasyon nito. Kaya nga, ang mga bagong dating na ito ay nakihalo sa nalabi sa Israel, kapwa sa relihiyon at lahi. Ang balangkas dito ay isang maikling pangkalahatang ideya lamang ng pangyayaring naganap. Ang ibang mga negatibong pangyayaring naganap pagkatapos, tulad ng pagtatangka ng mga Samaritano na isabotahe ang mga pagsisikap sa pagtatayo ng mga bihag na Judio nang sila ay bumalik sa kanilang bansa, ay nagpabigat lamang sa problema, at pinaigting ang alitan sa lahi sa pagitan ng mga Samaritano at mga Judio.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Babae sa Balon** (Juan 4:1-15)
+
+Sa Kanyang pakikipagtagpo sa babaeng Samaritanang ito, sinalungat ni Jesus ang tinatanggap na protocol at ang mahigpit na isinasagawang mga tradisyon ng mga Judio, lahat upang maabot siya para sa Kanyang kaharian. Halimbawa, hinayaan siya ni Jesus na magkaroon ng isang pribadong pakikipag-usap, kahit na siya ay babaeng mula sa Samaria. Hiningan Niya siya ng isang pabor, na hindi katanggap-tanggap sa lipunan, dahil ang mga Judio ay walang pakikipagkasundo sa katulad nitong hamak at tinatawag na “maruming” mga tao, partikular ang isang babae.
+
+Sa kultura nang panahong iyon, ang paghingi at pagtanggap ng pabor mula sa iba ay nagbubukas ng daan sa pakikipagkaibigan at nagiging katungkulan ng tumatanggap na magbalik ng pabor. Tila nagulat ang babae na si Jesus, isang Judio, ay humingi sa kanya, isang hamak na babaing Samaritana, na gumawa ng bagay para sa Kanya, na nagpapasimula ng isang relasyon. Ating isaalang-alang ang kanyang tugon: “ ‘Paanong nangyari na ikaw na isang Judio, ay humihingi ng maiinom sa akin na isang babaeng Samaritana?’” (Juan 4:9).
+
+Kapansin-pansing ang mga gawaing nais niyang gawin ay hindi nagawa. Dapat sana’y dadalhin niya ang isang sisidlan ng tubig sa kanyang nayon ng Sicar, ngunit dahil sa kanyang pananabik tungkol sa kamangha-mangha niyang natuklasan na Tubig ng Buhay, ay iniwan niya ang punong sisidlan ng tubig. Nais niyang bigyan si Jesus ng maiinon na tubig upang mabawasan ang Kanyang uhaw, ngunit hindi niya ito nagawa dahil nagmadali siyang umalis. Nang dumating ang mga alagad ni Jesus na may dalang pagkain upang mapawi ang Kanyang gutom, lubos silang nagulat na hindi na Siya gutom.
+
+“Ang pag-iiwan ng kanyang lalagyan ng tubig ay nagsalita ng walang pag-aalinlangan tungkol sa epekto ng Kanyang mga salita. Ito ay ang taimtim na pagnanais ng kanyang kaluluwa na makamit ang buhay na tubig; at nakalimutan niya ang kanyang ipinunta sa balon, nakalimutan niya ang pagkauhaw ng Tagapagligtas, na ninais niyang tugunan.”—Ellen G. White, The Desire of Ages, p. 191. Labis na naantig si Jesus na ang gayong hamak na babae ay nagbukas ng kanyang puso sa Kanya bilang ang matagal nang hinihintay na Mesiyas—isang higit na mabuting tugon kaysa sa tugon ng marami sa Kanyang sariling bayan, na nagsara ng kanilang mga pag-iisip sa Kanya. Gayon na lamang ang pagkaantig ni Jesus na gawin ang gawain ng Kanyang Ama na papanumbalikin ang mga nawaglit na kaluluwa para sa kaharian ng langit na nawala ang pagkauhaw at pagkagutom ng Kanyang katawan, na nabusog ang Kanyang kaluluwa ng makalangit na tubig at pagkain.
+
+Kung minsan ang pagsaksi sa iba ay ginagawa dahil sa katungkulan at itinuturing na nakapapagal. Ngunit dapat maging katuwaan ang pagsaksi kapag dumadaloy ang espiritu ni Cristo mula sa puso. Kung gayon ito ay gawain ng puso sa halip na mabigat na gawain. Sa mga nakaranas ng ganitong pag-abot sa iba na nakasentro kay Cristo, ito ay isang tunay ng pag-uumapaw ng Espiritu na kusang bumubuhos sa puso ng tao. Iyon ang dahilan kung bakit sinabi ni Jesus sa Kanyang mga nagulat na alagad: “ ‘Ang pagkain Ko ay ang gawin ang kalooban ng nagsugo sa Akin at tapusin ang Kanyang gawain’” (Juan 4:34).
+
+**Ang Pahayag ni Jesus** (Juan 4:16-26)
+
+Makikita natin ang pagkakatulad sa pagitan ng tugon ng babaeng Samaritana at ni Nicodemo sa pagkarinig ng malalim na katotohanan na nagmula sa bibig ni Cristo. Sinikap ng kilalang miyembrong ito ng Sanedrin na isantabi ang mahalagang paksa ng kanyang malubhang pangangailangan ng espirituwal na pagkahikayat. Sa halip, nagkunwaring walang nalalaman si Nicodemo sa kahulugan ng mga salita ni Cristo at sinikap na ihambing ang karanasan ng bagong pagkapanganak sa literal na muling pagpasok sa sinapupunan ng isang ina. Kahalintulad nito, binago ng hamak na babae ng Sicar ang paksa sa pagsisikap na pigilan ang kanyang pananalig na si Jesus ang Mesiyas. Ibinaling niya ang pakikipag-usap kay Jesus sa pangkasalukuyang debate tungkol sa angkop na lugar ng pagsamba.
+
+May kabutihan ngunit tuwirang ibinalik siya ni Jesus sa mahalagang isyu ng pagkilala na Siya ang Mesiyas na nakatayo sa harap niya. Maingat din Niyang pinaalalahanan siya na ang kanyang pinaghalong relihiyon ng paganismo at Judaismo ay hindi mag-aakay sa tunay na pagsamba sa Diyos, sapagkat Siya ang Espiritu at ang bukal ng katotohanan. Sinabi sa kanya ni Cristo na “ ‘Ang Diyos ay Espiritu, at ang mga sumasamba sa Kanya ay kailangang sumamba sa espiritu at katotohanan’” (Juan 4:24). Sa ibang mga salita, ang tunay na pagsamba na nag-aakay sa kaligtasan ay hindi tungkol sa isang lugar; sa halip ito’y tungkol sa Persona ni Cristo.
+
+Ang simpleng babaeng ito, isang makasalanang may masamang pag-uugali, ay pinagkatiwalaan ng mabigat na katotohanan na si Jesus ang matagal nang hinihintay na Mesiyas. Unti-unting inakay ng Tagapagligtas ang babaeng Samaritana sa katotohanan, na nagtapos sa pagpaparangal sa kanya—higit sa sinuman bago ang Kanyang pagkabuhay na muli—ng isang tiyak na katotohanan tungkol sa Kanyang pagiging Mesiyas. “ ‘Ako nga iyon na kumakausap sa iyo!” (Juan 4:26). Sa kaparehong paraan, hindi natin dapat ipakita ang pagtatangi sa pag-abot sa mga tao, mayaman man sila o mahirap, may mataas man o mababang estado sa Lipunan. Ang gayong pagkakaiba ay hindi isang bagay sa atin sapagkat iyon ay walang anuman kay Cristo. Ang lahat ng ating nakakasalamuha ay may isang pagkakatulad: ang pangangailangan nila ng kapatawaran at katubusan.
+
+**Ang Patoto ng mga Samaritano** (Juan 4:27-42)
+
+Sa kultura ng mga Judio sa panahon ni Jesus, may pananagutan na gantihan ang kagandahang-loob, na katanggap-tanggap kung ang nagbibigay-ganti ay isang kapwa Judio at hindi kung siya ay isang Samaritano. Ang pagtanggap ng isang pabor at ang pagbibigay-ganti dito ay pinaglalapit ang mga tao sa isa’t-isa. Dahil dito, ganap na laban ang mga Judio sa gawaing ito sa mga taga-ibang bayan. Ngunit hinigitan ni Jesus ang pambansang pagtatangi ng mga Judio, dahil siya ay naparito upang paglingkuran at iligtas ang mataas at mababa, kapwa ang nasa loob at nasa labas ng Lipunan ng mga Judio. Higit pa rito, bakit ang gayong obligasyon sa lipunan ay mag-aabala sa Kanya gayong ang Kanyang misyon ay ang sukdulang kamatayan para sa sangkatauhan?
+
+Isinagawa ni Jesus ang pagganti sa Kanyang ministeryo, dahil Siya ay nahahanda na magbigay at tumanggap ng tulong. Ang gayong pamamaraan ay isang mabisang paraan na bigyang-halaga ang iba at tulungan silang madama na sila ay mahalaga at kailangan. Pagnilayan kung gaano kabisa ang pamamaraang ito sa babaeng Samaritana. Humingi si Jesus sa kanya ng isang simpleng inumin na tubig, na maaari niyang ipagkaloob, at ginantihan Niya ng kaloob na Tubig ng Buhay, na Siya lamang ang makapagbibigay. Pagkatapos, ay ibinahagi naman ng babae ang mabuting balitang ito sa kanyang bayan, at ang buong nayon ay lumabas upang katagpuin si Jesus at manampalataya sa Kanya.
+
+Sa katulad na paraan, ang ating pagsaksi ay dapat kumalat mula sa isang tao hanggang sa marami sa patuloy na lumalawak na mga saklaw ng impluwensya. Gayundin, binuksan ni Jesus ang Kanyang sarili sa iba at hinayang maging vulnerable para sa iba. Nag-anyaya si Jesus ng pagpapalagayang-loob at ninais ang mga tao na maging mapagmalasakit at mahabagin sa Kanya. Sinasabi sa atin ni Ellen G. White na “sa tahanan ni Lazaro, si Jesus ay palaging nakasumpong ng kapahingahan. Walang sariling tahanan ang Tagapagligtas; Siya’y nakadepende sa kagandahang-loob ng Kanyang mga kaibigan at alagad. . . . Hinahangad Niya ang lambing, paggalang, at pagmamahal ng tao.”—Ellen G. White, The Desire of Ages, p. 524.
+
+Sa pagtatapos, ating isaalang-alang ang siping ito na tumatalakay sa pagganti na naranasan ni Jesus sa mga Samaritano ng Sicar. Bagaman Siya ay isang Judiong rabbi, “Tinanggap Niya ang kagandahang-loob ng mga taong hamak na ito. Siya ay natulog kasama nila sa ilalim ng kanilang mga bubong, kumaing kasalo nila sa kanilang mga hapag.”—Ellen G. White, The Ministry of Healing, p. 26. Palagi nating nasusumpungan na isang hamon ang pagtanaw ng utang na loob sa ating pagsaksi sa iba. Marahil ay dahil sa pagkadama natin na tayo ay labis na pinagpala ng mga dakilang katotohanan na ibinigay sa atin ng Diyos, nais nating maging tagatulong ngunit kadalasan ay ayaw natin na ang ating sarili na maging tagatanggap ng tulong. Gayunpaman, magiging mas epektibo tayo kung ibababa natin ang ating mga sarili at isasabuhay ang halimbawa ni Jesus ng pagbibigay at pagtanggap.
+
+### Ikatlong Bahagi: Aplikasyon
+
+Sagutin ang mga sumusunod na mga tanong:
+
+1\. Anong mga hadlang sa ating pagsaksi ang ating kinakaharap sa ating interpersonal na pakikisalamuha sa iba, tulad ng ating mga kapitbahay, kasama sa trabaho, at mga kaibigan? Anong mga papel, kung mayroon man, ang pagkakaiba sa wika, pinagmulang lahi, mga kaugalian sa kultura, at katayuan sa ekonomiya, sa epekto ng ating pagsaksi? Paano tayo matutulungan ng Diyos na mapagtagumpayan ang gayong mga hadlang? Paanong makatutulong ng malaki sa atin ang halimbawa ni Jesus sa bagay na ito? Alalahanin na iniwan ni Jesus ang isang sakdal na pag-iral sa langit upang harapin ang bawat problema ang makasalanang gawain na bumabagabag sa sangkatauhan.
+
+2\. Isaalang-alang ang sumusunod na situwasyon: hindi nais ng mga miyembro ng iglesya na magsagawa ng pangangaral o pagsaksi dahil natatakot sila na ang mga baguhan sa iglesya ay maaaring baguhin ang mga gawaing pagsamba na hindi nila kinasanayan. Paano ka tutugon sa hamong ito?
+
+3\. Isipin ang iyong paboritong libangan. Hanggang saan ka nagugumon sa labis na kasiyahan ng paggawa nito na nalilimutan mong kumain? Sa kahalintulad, paanong ang halimbawa ng pagsaksi ni Cristo sa babaeng Samaritana ay kumikilos sa atin mula sa larangan ng tungkulin tungo sa kinasasakupan ng katuwaan?
+
+4\. Paano tayo tutugon kapag hinihikayat tayo ng Banal na Espiritu ng katotohanan, katuwiran, at kasalanan, lalo na tungkol sa mga bagay na nais nating baliwalain? Tayo ba ay kasing tiyaga tulad ng babaeng Samaritana sa pakikinig kay Jesus na nagsasabi ng “iba pang kuwento,” upang dahil dito, tayo ay mapagaling at maibalik sa Kanya?
+
+5\. Alalahanin ang isang pangyayari o isang pamumuno ng Diyos kung saan ginamit ka ng Diyos upang impluwensyahan ang isang indibidwal na tanggapin at mamuhay para sa Kanya. Paano nakaapekto ang pakikipag-ugnayang iyon sa ibang tao o mas malalaking grupo ng mga tao? Maglaan ng oras upang ibahagi ang iyong karanasan sa isa o higit pang tao ngayong linggo.
+
+` `

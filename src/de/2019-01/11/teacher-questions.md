@@ -32,8 +32,6 @@ II: Wir studieren die Bibel
     -   Wir befinden uns in einer Heiligtumsszene. An welchem Punkt sind
         wir hier im himmlischen Heiligtumsdienst?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Wie böse muss ein Mensch gewesen sein, damit er den Grimm Gottes
         zu spüren bekommt?
@@ -54,8 +52,6 @@ II: Wir studieren die Bibel
     -   Die wievielte Plage war in Ägypten die Plage der Geschwüre?
     -   Was war an ihr besonders?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Warum steht die Plage der Geschwüre hier am Anfang?
     -   Was bedeutet euch die Verheißung, dass die Gläubigen von dieser
@@ -75,8 +71,6 @@ II: Wir studieren die Bibel
     -   Was bedeutet es, dass der Altar spricht?
     -   Auf welches AT Gesetz spielt die der Engel des Wasser an?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Warum werden die Wasserquellen mit einer eigenen Plage bedacht?
     -   Welche Zusammenhänge bestehen zwischen dem Altar (Ort des
@@ -93,8 +87,6 @@ II: Wir studieren die Bibel
         liegen?
     -   Welcher AT Hintergrund fällt euch zu dieser Plage ein?
     -   Was sind der Thron des Tieres und wo liegt sein Reich?
-
-<!-- -->
 
 -   Fragen zur Botschaft:
     -   Welche Erfüllung der vierten Plage ist für euch vorstellbar?
@@ -121,8 +113,6 @@ II: Wir studieren die Bibel
     -   Woran erinnert euch die Erwähnung der Nacktheit?
     -   Was bedeuten die Kleider?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Warum lässt Gott an diesem Punkt noch Widerstand zu?
     -   Was für Gemeinsamkeiten und Unterschiede findet ihr von Vers 15
@@ -145,8 +135,6 @@ II: Wir studieren die Bibel
     -   Was bedeutet ihre Spaltung?
     -   Was ist eigentlich der Inhalt der siebenten Plage?
 
-<!-- -->
-
 -   Fragen zur Botschaft:
     -   Welche Zusammenhänge besteht zwischen der siebten Plage und der
         siebten Posaune?
@@ -165,6 +153,4 @@ unseres Auftrags, Jünger zu machen.
 *Hier kann ein Pool missionarischer Ideen entstehen, mit denen wir unser
 Gemeindeleben gegenseitig bereichern können.*
 
--   ...
-
-<center>Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at</center>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at

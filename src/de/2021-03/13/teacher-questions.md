@@ -3,19 +3,19 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   24/09/2021
 ---
 
-[**Die letztendliche Ruhe**](https://sabbath-school.adventech.io/de/2021-03/13/01)
+**Die letztendliche Ruhe**
 ==================================================================================
 
 II: Wir studieren die Bibel
 ---------------------------
 
-### **Startfrage(n)**
+### Startfrage(n)
 
 -   Worauf freust du dich am meisten, wenn du an das ewige Leben denkst?
     Gibt es Dinge, von denen du befürchtest, du könntest sie vermissen?
     Weshalb?
 
-### **Sonntag: Eine Vision des Endes**
+### Sonntag: Eine Vision des Endes
 
 **Offenbarung 1,17-18 und 21,2-3**
 
@@ -31,7 +31,7 @@ II: Wir studieren die Bibel
 -   Welchen Trost hat Johannes erhalten, als Jesus ihm in der
     Offenbarung begegnete? (Beachte die Art, in der sich Jesus zeigt.)
 
-### **Montag: Der Countdown**
+### Montag: Der Countdown
 
 **Matthäus 24 (überblicksweise, gemeinsam erarbeiten)**
 
@@ -57,7 +57,7 @@ II: Wir studieren die Bibel
     Weshalb ist die „Gesetzlosigkeit“ offenbar ein so gravierendes
     Problem?
 
-### **Dienstag: Marschbefehl & Mittwoch: Ruhe in Frieden**
+### Dienstag: Marschbefehl & Mittwoch: Ruhe in Frieden
 
 **Offenbarung 14,6-12**
 
@@ -74,7 +74,7 @@ II: Wir studieren die Bibel
 -   Weshalb ist das richtige Verständnis des „ewigen“ Evangeliums so
     entscheidend für unseren (Seelen-) Frieden?
 
-### **Donnerstag: Freut euch im Herrn allezeit!**
+### Donnerstag: Freut euch im Herrn allezeit!
 
 **Philipper 4,4-8**
 
@@ -94,5 +94,4 @@ II: Wir studieren die Bibel
 -   Vers 9: Wie entscheidend ist der rechte Lebenswandel, um Frieden zu
     finden?
 
-Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
-<https://wiki.sabbatschule.at>
+Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen: https://wiki.sabbatschule.at
