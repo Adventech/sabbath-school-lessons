@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  02/05/2025
 ---
 
 ### Part #5 The Nations: Part 2

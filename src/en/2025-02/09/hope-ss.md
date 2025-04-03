@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  30/05/2025
 ---
 
 ### Part #9 Prophecy In The Psalms: Part 2

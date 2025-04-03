@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  16/05/2025
 ---
 
 ### Part #7 Foundations For Prophecy

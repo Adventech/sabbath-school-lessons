@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  20/06/2025
 ---
 
 ### Part #12 Lessons From Two Fiery Furnaces

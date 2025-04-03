@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  18/04/2025
 ---
 
 ### Part #3 Images From Marriage

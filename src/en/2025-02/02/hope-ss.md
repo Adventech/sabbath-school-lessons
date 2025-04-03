@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  11/04/2025
 ---
 
 ### Part #2 The Genesis Foundation

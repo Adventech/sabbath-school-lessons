@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  13/06/2025
 ---
 
 ### Part #11 Lessons From Ruth And Esther

@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  04/04/2025
 ---
 
 ### Part #1 Some Principles Of Prophecy

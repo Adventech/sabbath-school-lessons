@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  27/06/2025
 ---
 
 ### Part #13 Two Judgment Stories

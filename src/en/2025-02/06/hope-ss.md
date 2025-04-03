@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  09/05/2025
 ---
 
 ### Part #6 Understanding Sacrifice

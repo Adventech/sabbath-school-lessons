@@ -1,5 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
+date:  06/06/2025
 ---
 
 ### Part #10 Lessons From Noah And Lot
