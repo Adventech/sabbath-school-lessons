@@ -35,7 +35,7 @@ date:   27/06/2025
 **Jona 3,4-10**
 
 -   Was ist deine erste Reaktion, wenn du diese Verse liest:
-    Erleichterung oder Enttäuschung? Wenn du dir vor Augenhältst, dass
+    Erleichterung oder Enttäuschung? Wenn du dir vor Augen hältst, dass
     dieses Volk andere Völker grausam tötete und unterdrückte, ändert
     das deine Reaktion? Hast du Verständnis für Jona?
 -   Wie viel von Jona findest du bei dir selbst wieder?
@@ -92,6 +92,10 @@ date:   27/06/2025
 -   Der Name „Kyros“ könnte „Gnädiger Herrscher über Feinde“ bedeuten.
     Vorausgesetzt, das trifft zu, inwieweit würde das in unseren
     endzeitlichen Kontext passen?
+
+-   Das Quartal geht mit dieser Betrachtung zu Ende: Welche Bilder oder
+    Symbole sind dir besonders wichtig geworden? Was hast du neu über
+    die Endzeit gelernt?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
