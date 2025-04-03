@@ -1,6 +1,5 @@
 ---
 title:  Hope Sabbath School Outline
-date:  06/06/2025
 ---
 
 ![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
