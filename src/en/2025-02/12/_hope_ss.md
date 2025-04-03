@@ -2,8 +2,6 @@
 title:  Hope Sabbath School Outline
 ---
 
-![](https://sabbath-school.adventech.io/api/v1/images/misc/hope-ss-logo.jpg)
-
 ### Part #12 Lessons From Two Fiery Furnaces
 
 **Scripture Song:** Let the word of Christ – Colossians 3:16
