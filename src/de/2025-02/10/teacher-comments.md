@@ -54,4 +54,3 @@ Beachte auch die nachdrückliche Wiederholung des Wortes mar’eh, „Aussehen, 
 3. Betet zu Gott für jemanden, den ihr nicht mögt, bis er/sie euer Freund/eure Freundin wird. Betet zu Gott wegen einer wichtigen Hürde in eurem Leben. Wiederholt dieses Gebet beharrlich, bis ihr schließlich das tatsächliche Ergebnis erlebt und wisst, dass Gott euer Gebet wirklich erhört hat.
 
 4. Warum gibt uns Daniels Gebrauch der eschatologischen Sprache zum Beschreiben seiner gegenwärtigen Situation Hoffnung und die Gewissheit, dass unser Leben Sinn hat und für die Ewigkeit offen ist? Wie gibt uns diese Sprache außerdem Orientierung in der Art und Weise, wie wir leben, essen und trinken, denken, das Leben genießen und mit anderen Menschen, einschließlich unseren Feinden, umgehen?
-

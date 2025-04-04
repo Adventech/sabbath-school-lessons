@@ -1,0 +1,25 @@
+### Ragam ni Patujolo di Hasurirangan
+
+Di ari porang Teluk na parjolo (1991), sahalak panurat jala parjamita sian Protestan na tarbarita manghaporseai ia buku Pangungkapon manggombarhon parporangan i. Hatana i dipaojak mangihuthon marnida pigapiga helikopter di parporangan i rupana songon sihapor na digombarhon di bagasan Pangungkapon 9. “Gabe diungkap ma ruang parbanua toru i, jadi manaek ma timus sian ruang i songon timus ni pamurunan na balga, gabe mangkolom ma mata ni ari ro di parlangitan, dibahen timus na sian ruang i. Jadi marruaran ma angka sihapor sian timus i tu tano i, dung i dilehon ma tu nasida huaso songon huaso ni hala di tano on” (Pangk. 9: 2, 3).
+
+Ndada dalan na dumenggan i na laho mangalapati hasurirangan ni Bibel, nda i do? Alai, somal do ia pangalapation sisongoni. Tarida do i, martaon lelengna godang situtu angka buku, surat ni halak, video, jala saonari situs web, saluhutna i dipangke laho manunglingkiti hasurirangan, nunga godang situtu na sinulingkitanna, dohot nang manontuhon ari, i ma barita ni ari parpudi – somalna mangihuthon porang manang hagunturon na masa di luat Timur Tengah.
+
+Jala, na pasonggothon roha, di ganup angka na masa, saluhut na pinarsiajaranna i ndada tutu songoni masa. Songon ruas ni Huria Masehi Advent Hari Ketujuh, parsiajaranta andul sian nasida, parsiajaranta dipaekkon di bagasan Kristus, i ma ia hata ni hasurirangan i ndada holan marnida na masa di sada luat di Timur Tengah manang parporangan diape i na masa disan. Alai, tasulingkiti hasurirangan mangihuthon Partongtangan bolon di Kristus dohot Sibolis – parporangan partondion di sandok liat portibi on na marujung uju bangso ni Debata, Jahudi, dohot di ruar ni halak Jahudi (ida Pangk. 12: 17; Pangk. 14: 12) mangadopi parporangan na parpudi, na marojahan di panombaon dompak Sipanompa (ida Pangk. 14: 7), na maralo dompak panombaon di binatang dohot gombaranna.
+
+Ojahan di na laho manangkasi hasurirangan ari parpudi on i ma Daniel bindu 2, na so holan marisihon gombaran bolon di hasurirangan alai anak hinsu na mambuhai lapatan ni hasurirangan i.
+
+Daniel 2 manggombarhon 5 harajaon portibi – Babel, Madai-Persia, Gorik, Rom – dungi Debata na pajongjonghon HarajaonNa na manontong, “sada harajaon na so tarpapatu ro di salelenglelengna, gomgomanna pe ndang pasahatonna tu bangso na asing; ropuhanna do tahe sogot saluhut angka harajaon i, jala pansingkononna, alai hot do anggo na sasada i ro di saleleng ni lelengna” (Dan. 2: 44). Hasurirangan na sadalan di bagasan Daniel 7 dohot 8 marisihon gombaran bolon na sarupa dohot i, i ma sian angka harajaon portibion na jongjong jala salpu sahat tu ari dipajongjong harajaon ni Debata na manontong.
+
+Di bagasan Daniel 7, ro surusuruan mangurupi paboahon tu hita: “Ia binatang na opat i angka na bolon situtu: Opat raja do i, angka na hehe sian tano on sogot. Alai anggo harajaon i angka na badia ni na tumimbul do panahatanna muse, jala hot do di nasida harajaon i ro di salelenglelengna, tongon do ro di salelenglelengna” (Dan. 7: 17, 18).
+
+Opat harajaon portibi (Babel, Madia-Persia, Gorik, dohot Rom) mardalan di sada dalan na so mansohot di tano on sahat ro di, dungkon di ari haroro ni Jesus na paduahalihon, Jahowa pajongjonghon harajonNa sisalelengna.
+
+Tutu, di tano on dope hita, di ari gonggoman harajaon Rom, harajaon na paopathon jala na parpudi andorang so ro mangulahi Kristus.
+
+Mardongan barita ni harajaon portibi on, na gabe ojahan laho manangkasi hasurirangan, parsiajaranta ma di kuartal on turpuk songon dia do dalan manulingkiti hasurirangan Bibel, tarlumobi pigapiga tanda, barita, gombaran, dohot hulingkulingan na papatarhon hatigoran hasurirangan dohot angka na masa di ari parpudi.
+
+Borhat hita sian barita panompa – ringkot laho manangkasi ndada holan hasurirangan alai sandok angka na marhadomuan tusi, tarlumobi silang dohot hamamate ni Jesus na paluahon – barita partukupan Babel, parhobason Bagas joro, Psalmen, nang dohot pigapiga parbagason di Padan na Robi. Di bagasan ni saluhutna i, jala godang nai tahe, jumpangta ma disi gombaran, tanda, dohot hulingkulingan na, uju diparsiajari mardongan tangiang na marsitutu jala mardongan roha na unduk na olo mangaradoti (molo dijaha ho Bibel mardongan tondi na maralo, na mambalongkon tingki do ho disi), gabe mangurupi mambahen hasurirangan ari parpudi, tarlumobi di bagasan buku Pangungkapon, gabe mangolu.
+
+Sakuartal tontu hurang do tingkinta laho manulingkiti nasa barita dohot gombaran na mangurupi papatarhon hatigoran hasurirangan. Alai atik behape i – malungun rohanta di ngolu sisalelenglelengna hinorhon ni i. Paima sahat tusi, mardongan denggan basa ni Debata, parsiajaranta ma na patut siparsiajaranta.
+
+_Shawn Boonstra i ma sahalak parjamita/Dierktur Pelayanan Suara Nubuatan. Jamita manang dohot angka buku na sinuratna manondangi liat portibion, jala martaon lelengna, marhite angka parjamitaan na binahenna nunga sar tu ganup liat portibi asing ni Antartika._

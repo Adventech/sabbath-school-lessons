@@ -101,6 +101,38 @@ let additionalReadingTitles = {
     pppCopyright: "",
     regex: "---(\r?\n)+#{2,} Bacaan Tambahan: Kutipan dari Ellen G. White"
   },
+  "ru": [
+    {
+      title: "Конспект Брюса Камерона",
+      final: "Конспект Брюса Камерона",
+      pppCopyright: "",
+      regex: "#{2,} Конспект Брюса Камерона"
+    },
+    {
+      title: "План Урока",
+      final: "План Урока",
+      pppCopyright: "",
+      regex: "#{2,} План Урока"
+    },
+    {
+      title: "Комментарий Татьяны Бахмат",
+      final: "Комментарий Татьяны Бахмат",
+      pppCopyright: "",
+      regex: "#{2,} Комментарий Татьяны Бахмат"
+    },
+    {
+      title: "Виталий Олийник",
+      final: "Виталий Олийник",
+      pppCopyright: "",
+      regex: "#{2,} Виталий Олийник"
+    },
+    {
+      title: "Киев 1",
+      final: "Киев 1",
+      pppCopyright: "",
+      regex: "#{2,} Киев 1"
+    },
+  ]
 }
 
 let firebase = require("firebase-admin"),
