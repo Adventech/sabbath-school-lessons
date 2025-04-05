@@ -1,23 +1,24 @@
 ---
-  title: "Test Title"
-  description: "Test Description"
-  human_date: "April | Mei | Junu 2025"
+  title: "Simbol, Gambaran, Kiasan: Cara Mempelajari Nubuatan"
+  description: "Selama Perang Teluk Pertama (1991), seorang penulis dan pembicara Protestan yang terkenal yakin bahwa Kitab Wahyu meramalkan konflik ini. Argumennya didasarkan pada fakta bahwa beberapa helikopter dalam perang itu tampak seperti belalang yang digambarkan dalam Wahyu 9. “Maka ia membuka jurang maut itu, dan asap mengepul dari jurang itu seperti asap tanur besar. Matahari dan angkasa menjadi gelap oleh asap dari jurang itu. Dan dari asap itu berkerumunlah belalang-belalang ke atas bumi. Dan kepada mereka diberikan kuasa, sama seperti kuasa kalajengking-kalajengking di bumi” (Wahyu 9:2, 3)."
+  human_date: "April · Mei · Juni 2025"
   start_date: "29/03/2025"
   end_date: "27/06/2025"
   color_primary: "#0A454E"
   color_primary_dark: "#01373F"
+  splash: true
   credits:
     - name: Penulis Pelajaran
-      value: ""
+      value: "Shawn Boonstra"
     - name: Penerjemah
-      value: ""
+      value: "Edison Takasanakeng & Henry Sitanggang"
     - name: Ketua Yayasan
-      value: ""
+      value: "H. Manullang"
     - name: Ketua Bidang Usaha
-      value: ""
+      value: "J. Pardede"
     - name: Pemimpin Redaksi
-      value: ""
+      value: "J. Pardede"
     - name: Redaktur Pelaksana
-      value: ""
+      value: "F. Ngantung"
     - name: Anggota Redaksi
-      value: ""
+      value: "S.P. Silalahi, F. Manurung, A. Tumbal, J. Medellu"
