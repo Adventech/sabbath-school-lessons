@@ -1,12 +1,16 @@
 ---
   credits:
     - name: Penulis Pelajaran
-      value: Shawn Boonstra
+      value:
     - name: Penerjemah
-      value: Marcell Pantow & John Medellu (Penuntun Guru)
+      value:
     - name: Ketua Yayasan
-      value: H. Manullang
-    - name: Ketua Bidang Usaha & Pemimpin Redaksi
-      value: J. Pardede
+      value:
+    - name: Ketua Bidang Usaha
+      value:
+    - name: Pemimpin Redaksi
+      value:
     - name: Redaktur Pelaksana
-      value: F. Ngantung
+      value:
+    - name: Anggota Redaksi
+      value:
