@@ -1,0 +1,23 @@
+---
+  title: "Test Title"
+  description: "Test Description"
+  human_date: "April | Mei | Junu 2025"
+  start_date: "29/03/2025"
+  end_date: "27/06/2025"
+  color_primary: "#0A454E"
+  color_primary_dark: "#01373F"
+  credits:
+    - name: Penulis Pelajaran
+      value: ""
+    - name: Penerjemah
+      value: ""
+    - name: Ketua Yayasan
+      value: ""
+    - name: Ketua Bidang Usaha
+      value: ""
+    - name: Pemimpin Redaksi
+      value: ""
+    - name: Redaktur Pelaksana
+      value: ""
+    - name: Anggota Redaksi
+      value: ""
