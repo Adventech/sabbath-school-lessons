@@ -1,0 +1,57 @@
+---
+title:  Komento ng Guro
+date:   21/03/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya 
+
+**Susing Talata**: 1 Juan 4:20
+
+**Pokus ng Pag-aaral**: Mateo 19:16–22; Mateo 22:35–40; Mateo 25:40, 45; Lucas 10:30–37; 1 Juan 4:20.
+
+**Panimula**: Kung mahal natin ang Diyos, mamahalin din natin ang isa’t isa at ibabahagi ang pag-alala para sa kanilang ikabubuti.
+
+**Mga Paksa ng Liksyon**: Ang liksyon sa linggong ito ay itinatampok ang dalawang pangunahing isipan.
+
+1. Ang hindi maputol na ugnayan ng pagmamahal sa Diyos at pagmamahal sa kapwa (katarungan): Sa Kasulatan, ang pag-ibig sa kapwa mananampalataya ay kasama ang mga konkretong mapagmahal na pagkilos sa pamamagitan ng pagbabahagi ng materyal na mga bagay sa isang kapatid na nangangailangan. Ang pagmamahal sa isa’t isa ay nagpapahiwatig ng pagmamalasakit sa kanilang kapakanan. Ang mapagsakripisyong pag-ibig ni Cristo sa atin ay batayan para sa ating kaalaman at pagsasagawa ng pag-ibig, na kung saan ang pagkabigo na ibigin ang iba ay nangangahulugang kabiguan na makita ang Diyos na nahayag kay Jesu-Cristo.
+2. Mga kabiguan sa pag-ibig—sa panahong ang pag-ibig at katarungan ay hindi nauugnay: Kung mahal natin ang Diyos, mamahalin din natin ang iba at makikibahagi tayo sa pag-aalala para sa katarungan na nakatuon sa kapakanan ng mga tao. Sa kabaligtaran, ang pagkakahiwalay ng pagmamahal sa Diyos at paggawa ng katarungan sa iba ay nagpapakita ng kakulangan ng pagtatalaga sa pagsunod sa mga utos ng Diyos. Ito ang nangyari sa kasaysayan ng mayamang batang pinuno, na nag-aakalang sumusunod sa mga utos ngunit nabigong magpakita ng pagmamahal sa mahihirap. Ang isa pang halimbawa sa mga Ebanghelyo ay ang pari at ang Levita sa talinghaga ng mabuting Samaritano. Inisip nilang sila’y dapat sumunod sa mga tuntunin ng kalinisan ngunit nabigo silang magpahayag ng habag at pagmamahal.
+
+**Pagsasakabuhayan**: Paano mo isinasakabuhayan ang paniniwala na ang pag-ibig sa Diyos ay may kinalaman sa pagmamalasakit sa mga pangangailangan ng iba?
+
+### Ikalawang Bahagi: Komentaryo
+
+**1. Ang Di-napuputol na Ugnayan ng Pagmamahal sa Diyos at Pagmamahal sa Kapwa (Katarungan).**
+
+Ang ugnayan sa pagitan ng pagmamahal sa Diyos at pagmamahal sa kapwa, sa 1 Juan 4:20, ay nagbibigay ng mahalagang pagpapaliwanag ng mga pastoral na babala ni Juan laban sa kabiguan na mahalin ang mga kapatid, gaya ng binigyang-diin sa mga nakaraang talata. Tinukoy ni Karen H. Jobes na sa 1 Juan 4:20, “Lubusan ang pagtatalakay ni Juan sa pag-ibig, lalo na para sa mga kapananampalataya.”—1, 2, & 3 Juan: Zondervan Exegetical Commentary on the New Testament (Grand Rapids, MI: Zondervan, 2014), p. 206. Hindi bababa sa tatlong sipi sa 1 Juan ang tumutukoy sa talakayang ito.
+
+Sa 1 Juan 2:9–11, iniuugnay ni Juan ang mga saloobin ng pagmamahal at hindi pagmamahal/pagkapoot sa kapwa mananampalataya na may magkasalungat na larawan ng liwanag at kadiliman. Sa kanyang mga salita, “Ang nagsasabing siya ay nasa liwanag, at napopoot sa kanyang kapatid ay nasa kadiliman pa hanggang ngayon. Ang umiibig sa kanyang kapatid ay nananatili sa liwanag, at sa kanya’y walang anumang dahilan ng ikatitisod. Ngunit ang napopoot sa kanyang kapatid ay nasa kadiliman. Siya ay lumalakad sa kadiliman, at hindi niya nalalaman kung saan siya pupunta, sapagkat ang kanyang mga mata ay binulag ng kadiliman” (1 Juan 2:9–11).
+
+Gayundin, sa 1 Juan 3:10, 11, ang pagkakaiba ay sa pagitan ng mga anak ng Diyos at ng mga anak ng diyablo. “Sa ganito nahahayag ang mga anak ng Diyos at ng mga anak ng diyablo: ang sinumang hindi gumagawa ng katuwiran ay hindi sa Diyos, pati ang hindi umiibig sa kanyang kapatid. Sapagkat ito ang mensahe na inyong narinig buhat ng pasimula, na mag-ibigan tayo sa isa’t isa (1 Juan 3:10, 11).
+
+Pagkatapos, sa 1 Juan 3:14–17, makikita natin ang higit pang mga detalye tungkol sa mga babala ni Juan sa bagay na ito, na ngayon ay may pagsalungat sa pagitan ng buhay at kamatayan. “Nalalaman nating tayo’y dumaan na mula sa kamatayan patungo sa buhay, sapagkat iniibig natin ang isa’t isa. Ang hindi umiibig ay nananatili sa kamatayan. Ang sinumang napopoot sa kanyang kapatid ay isang mamamatay-tao, at nalalaman ninyong ang buhay na walang hanggan ay hindi nananatili sa sinumang mamamatay-tao. Dito natin nakikilala ang pag-ibig sapagkat ibinigay niya ang kanyang buhay alang-alang sa atin, at nararapat nating ibigay ang ating mga buhay alang-alang sa mga kapatid. Subalit ang sinumang may mga pag-aari ng sanlibutang ito, at nakikita ang kanyang kapatid na nangangailangan, at pinagsarhan ito ng kanyang damdamin, paanong nananatili ang pag-ibig ng Diyos sa kanya?” (1 Juan 3:14–17).
+
+Dalawang mahahalagang detalye ang makikita sa talatang ito. Una, ang ibigin ang isang kapananampalataya ay binabanggit sa mga tuntunin ng pagbabahagi ng materyal na mga bagay sa isang kapatid na nangangailangan. Ang konkretong mapagmahal na pagkilos na ito ay isang mahalagang anyo ng katarungan, dahil ang pagsulong ng hustisya o kapakanan ng lipunan ay positibong nauunawaan bilang pagtataguyod ng kapakanan ng iba, na nagpapahiwatig ng pagpapagaan ng pagdurusa sa mundo. Ang pagdurusa ay nakikita dito bilang isang nasasalat na anyo ng kawalan ng katarungan. Ikalawa, ang pag-ibig na naninindigan para sa katarungan, sa kahulugan ng pagbibigay ng mga pangangailangan ng iba, ay ayon sa Christological na batayan sa 1 Juan 3:16 (“Dito na rin nakikilala ang pag-ibig, sapagkat ibinigay Niya ang Kanyang buhay alang-alang sa atin; at nararapat nating ibigay ang ating mga buhay alang-alang sa mga kapatid”). Ibig sabihin, ang mapagsakripisyong pag-ibig ni Cristo para sa atin ang batayan ng ating kaalaman at pagsasagawa ng pag-ibig.
+
+Kaya naman, kung mababasa natin ang 1 Juan 4:20 (“Kung sinasabi ng sinuman, Iniibig ko ang Diyos at napopoot sa kanyang kapatid, siya ay sinungaling; sapagkat ang hindi umiibig sa kanyang kapatid na kanyang nakikita ay hindi maaaring umibig sa Diyos na hindi niya nakita?”) sa liwanag ng 1 Juan 2:9–11, 1 Juan 3:10, 11, at lalo na sa 1 Juan 3:14–17, posibleng gawin ang mga sumusunod na konklusyon. Una, ang kabiguan na ibigin ang mga kapananampalataya ay partikular na ipinahayag sa kapabayaan na matustusan ang materyal na mga pangangailangan ng mga kapatid. Ayon sa theological deduction ng 1 Juan 4:20, ang kabiguang ito ay isang katibayan na ang nag-aangking mananampalataya ay hindi umiibig sa Diyos. Ang teolohikong antropolohiya ay maaaring maging batayan para sa pagsasabi nang ganito, dahil nilikha ng Diyos ang mga tao sa Kanyang sariling larawan (Genesis 1:27).
+
+Gayunpaman, ang batayan ng ganitong pangangatwiran sa 1 Juan 4:20 ay tila Christological din. Ibig sabihin, gaya ng nakikita na sa 1 Juan 3:16, ang mapagsakripisyong pag-ibig ni Cristo ay parehong pundasyon ng ating kaalaman sa pag-ibig at ang nagpapasiglang modelo/kapangyarihan para sa ating pagmamahal sa iba. Ang Christological na batayan ay muling pinagtibay sa 1 Juan 4:9–11.
+
+Bagaman “walang nakakita kailanman sa Diyos” (1 Juan 4:12), ang Kanyang pag-ibig ay laging nakikita o “nahayag sa atin” dahil “isinugo niya ang Kanyang bugtong na Anak sa mundo” (1 Juan 4:9). Sa katunayan, ang pahayag na “iniibig natin” ang Diyos “sapagkat tayo ang una niyang inibig” (1 Juan 4:19) ay ipinaliwanag sa Christological sa diwa na hindi tayo ang unang umibig sa Diyos, “kundi Siya ang umibig sa atin at sinugo ang Kanyang Anak na pantubos sa ating mga kasalanan” (1 Juan 4:10). At “kung iniibig tayo ng Diyos ng gayon, nararapat na mangag-ibigan din naman tayo sa isa’t isa” (1 Juan 4:11).
+
+Ang ideya na si Cristo ay ang nakikitang kapahayagan ng pag-ibig ng Diyos, na hindi natin nakikita (1 Juan 4:12), ay pinatibay ng sariling patotoo ni Juan bilang isang saksi kay Jesus: “At nakita namin at sinaksihan na ang Ama ay nagsugo ng Anak bilang Tagapagligtas ng sanlibutan” (1 Juan 4:14; tingnan din sa Juan 1:14, 18). Kaya naman, gaya ng pagbubuod ni Jobes, “ang kabiguan na ibigin ang iba ay nangangahulugang ang isang tao ay nabigo na makita ang Diyos na nahayag kay Jesu-Cristo kaya’t hindi niya kayang ibigin ang Diyos.”— 1, 2, & 3 Juan: Zondervan Exegetical Komentaryo on the New Testament, p. 207. Ang hindi napuputol na ugnayang ito ng pagmamahal sa Diyos at ang pagmamahal sa iba (sa diwa ng pagtataguyod ng katarungan, iyon ay, ang kapakanan ng iba), na nakikita mula sa Christological na pananaw, ay nagpapaalala sa atin kung ano ang pinagtibay ni Jesus sa Mateo 25:40: “Yamang ginawa ninyo ito sa isa sa pinakamaliit sa mga kapatid kong ito, ay sa Akin ninyo ginawa” (tingnan din sa Mateo 25:45, na gumagamit ng negatibong pananalita upang ipahayag ang prinsipyong ito).
+
+**2. Mga Kabiguan sa Pag-ibig: Kapag Naputol ang Pag-ibig at Katarungan**
+
+Ang koneksyon sa pagitan ng pagmamahal sa Diyos at sa iba, lalo na sa anyo ng katarungan (pagsusulong ng kanilang kagalingan at pagpapagaan ng kanilang pagdurusa) ay nagbibigay ng kinakailangang paghahayag sa buhay para sa lahat ng mga utos na makikita natin sa Banal na Kasulatan. Sa ibang paraan, ang pagkahiwalay ng pagmamahal sa Diyos at paggawa ng katarungan sa iba (pagmamahal sa kanila) ay nangangahulugan na walang tunay na pagkakaisa sa ating buhay, habang sinusubukan nating sundin ang mga utos ng Diyos. Kabilang sa mga halimbawa ng prinsipyong ito ang mayamang batang pinuno (Mateo 19:16–22), na nag-aakalang sumusunod sa mga utos, ngunit hindi nagpakita ng pagmamahal sa mahihirap sa pamamagitan ng kanyang materyal na mga ari-arian at pagkatapos, sa huli, ay nabigong sumunod kay Jesus. Ang isa pang mahalagang halimbawa sa mga Ebanghelyo ay ang saserdote at ang Levita sa talinghaga ng mabuting Samaritano (Lucas 10:30–37), dahil ipinapalagay nilang sumusunod sila sa mga tuntunin ng kadalisayan, na nauugnay sa templo, ngunit nabigong magpakita ng awa at pagmamahal sa lalaking halos patay na sa daan mula sa Jerusalem patungong Jerico.
+
+Binigyang-diin ni Jesus sa pakikipag-usap sa isang abogado, gaya ng nakatala sa Mateo 22:35–40, na ang pag-ibig sa Diyos at sa kapwa ay “dalawang hanger” kung saan nakabitin ang lahat ng turo ng Biblia (ang kautusan at ang mga propeta). Bagama’t maraming salin ng Mateo 22:40 ang nagsalin sa pandiwang Griyego na kremánnymi bilang nakasalalay (“Sa dalawang utos na ito nakasalalay ang lahat ng Kautusan at ang mga Propeta”; tingnan din ang NASB1995, NET, RSV), ang mas literal na kahulugan ng nakasalalay ay ginamit sa ibang mga salin (“Sa dalawang utos na ito ay nakasalalay ang lahat ng Kautusan at ang mga Propeta”, tingnan din ang NRSV).
+
+### Ikatlong Bahagi: Pagsasakabuhayan
+
+Sa konteksto ng di-napuputol na ugnayan sa pagitan ng pagmamahal sa Diyos at pagmamahal sa iba, ang mapagsakripisyong pag-ibig ni Cristo sa krus ang batayan ng iyong pagmamahal sa iba. Mula sa pananaw na ito, talakayin sa iyong klase ang mga sumusunod na tanong:
+
+1. Sa anong mga paraan na ang pag-ibig ng Diyos, tulad ng ipinahayag sa krus, ang iyong halimbawa ng pagmamahal sa iba?
+2. Anong mga sakripisyo ang personal mong ginagawa para mahalin ang iba at para bigyan sila ng hustisya/tustusan ang kanilang mga pangangailangan?
+3. Kapag ang mga tao ay dumaranas ng kahirapan, pang-aapi, o anumang uri ng kawalang-katarungan, ano ang maaari nating gawin bilang isang iglesya upang suportahan sila?
+
+`Notes`

@@ -1,0 +1,54 @@
+---
+title:  Komento ng Guro
+date:   09/05/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Apocalipsis 5:9
+
+**Pokus ng Pag-aaral:** Genesis 4:1–8; Isaias 53:1–12
+
+Ang ritwal na pagsasakripisyo ay gawain sa karamihan ng mga tao sa ANE (Ancient Near East). Sa ANE, itinuturing na regalo sa diyos ng isang tao ang sakripisyo, pagbibigay ng pagkain kapalit ng tulong.
+
+Datapwa’t nagbibigay ang Biblia ng labis na kakaibang kahulugan sa ritwal na sakripisyo; sa katunayan, binaliktad nito ang layunin. Sa ANE, nangangahulugan ang sakripisyo ng pataas na pagkilos mula sa kalagayan ng tao tungo sa banal na kapaligiran. Sa Biblia, nangangahulugan ang sakripisyo ng pababang pagkilos mula sa Diyos tungo sa mga tao. Sa ANE, ginawa ng diyos ang mga tao upang magkaroon ng mga alipin na maglilingkod sa kanya at magbibigay sa kanya ng pagkain. Taliwas dito, ginawa ng Diyos ng Biblia ang mga tao at binibigyan sila ng pagkain.
+
+Sa aralin na ito, pag-aaralan natin ang kahalagahan ng mga sakripisyo sa Biblia. Ang kahulugan sa Biblia ng mga sakripisyo ay depende sa kontekstong pang-panitikan kung saan sila matatagpuan. Ang mga tekstong makasaysayan at lehislatibo ay kadalasang nag-uulat sa mga sakripisyo bilang mga ritwal, at nagbibigay ng kahalagahang etikal sa mga sakripisyo habang sila’y isinasakabuhayan ng mga tao. Sa kabilang banda, ang mga tekstong propetiko at patula ay kadalasang nakatuon sa kanilang kahalagahang espiritwal at propetiko. Pumili kami ng isang tekstong tipikal para sa bawat kategorya: ang mga makasaysayang sakripisyo ni Cain at Abel sa Genesis 4, at ang sakripisyo sa propesiya ng Nagpakasakit na Lingkod sa Isaias 53, upang maunawaan nang mas mabuti ang kahalagahan ng bawat isa.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Kahalagahang Relihiyoso at Etikal ng mga Sakripisyo**
+
+Ang unang hayagang kaganapan ng sakripisyo ay nagdidiin sa salungatan sa pagitan nina Cain at Abel. Samantalang kinuha ni Cain ang kanyang sakripisyo mula lamang sa “sa mga bunga ng lupa” (Genesis 4:3), si Abel, sa kabilang banda, ay “nagdala rin,” o “karagdagan pa” sa mga sakripisyong hindi hayop ng “mga panganay ng kanyang kawan” (Genesis 4:4). Kaya’t ang sakripisyo ni Abel ay ayon sa tagubilin ng Biblia, na hinihingi na “karagdagan pa sa” handog na gulay, maghandog ng isang hayop na sakripisyo para sa handog na susunugin (Exodo 29:39–41). Sa pagsasaalang-alang sa katunayan na si Abel ay “tagapag-alaga ng mga tupa at si Cain ay magbubungkal ng lupa” (Genesis 4:2), naharap si Cain, ang nakatatandang kapatid, sa isang problema: kailangan niya ang tulong ng kanyang nakababatang kapatid. Maaaring may bahagi ang pagmamataas ni Cain sa kanyang pagpili ng sakripisyo at kanyang kalaunang pagkilos.
+
+Sinasabi sa atin ng kwento sa Biblia na “pinahalagahan ng PANGINOON si Abel at ang kanyang handog, subalit hindi Niya pinahalagahan si Cain at ang kanyang handog” (Genesis 4: 4, 5). Hindi ipinapaliwanag ng teksto ng Biblia kung bakit tinanggap ang sakripisyo ni Abel at hindi ang kay Cain. Gayunpaman, nagmumungkahi ang teksto ng mga sumusunod na himaton:
+
+Ang unang pagmamalasakit ng Diyos ay para sa taong gumagawa ng paghahandog, na gaya ng iminumungkahi ng sumusunod na literal na salin: “Tiningnan ng Diyos na may pagmamalasakit si Abel, kaya’t [waw] sa kanyang handog; ngunit hindi Siya tumingin na may pagmamalasakit kay Cain, kaya’t [waw] sa kanyang handog.” Ipinapakita ng salin na ito na ang dahilan para sa pagtakwil ng Diyos o pagtanggap sa handog ay batay sa espiritwal na kalagayan ng tao at hindi sa kanyang handog mismo (Mikas 6:7, 8; Isaias 1:11).
+
+Samantalang naghandog si Cain “sa Diyos,” si Abel ay basta lang naghandog. Hindi nabanggit ang pariralang “sa Diyos” na kaugnay kay Abel. Samantalang iniisip ni Cain ang kanyang handog bilang regalo sa Diyos, ang pansin ni Abel ay nasa kahulugan ng sakripisyo mismo, ibig sabihin, ang regalo ng Diyos sa kanya. Samantalang tinitingnan ni Cain ang pataas na pagkilos tungo sa Diyos sa kanyang relihiyon, nauunawaan ito ni Abel na pababang pagkilos mula sa Diyos.
+
+Samantalang pumili si Abel mula sa bekorot, ang “unang bunga,” iyong pinakamahalagang bunga ng kapanahunan, ayon sa kautusan ni Moises (Exodo 23:19), kumuha si Cain ng kahit anong bunga mula sa lupa. Ang handog ni Cain ay pahayag ng pagsisikap ng tao tungo sa Diyos, samantalang ang handog ni Abel ay pahayag ng pangangailangan ng tao para sa kaligtasan ng Diyos,
+
+May kinalaman ang handog ni Abel sa pangako ng Mesiyas na Kordero sa Genesis 3:15, na isasakkripisyo para sa kaligtasan ng sanlibutan, samantalang ang handog ni Cain ay hungkag at di-makabuluhang ritwal. Pansinin ang katulad na salungatan sa pagitan ng kasuotan ng tao sa kasuotan ng Diyos (Genesis 3:7). Samantalang gumamit sina Adan at Eva ng halaman na makukuha nila upang takpan ang kanilang sarili, gumamit ang Diyos ng kasuotan na nangangahulugan ng pagsakripisyo ng hayop (tingnan sa Genesis 3:21).
+
+Sa huli, ang kakulangan ni Cain ng tamang ugnayang relihiyoso ay nakarating sa sukdulan sa pagpatay. Dahil hindi nakaugnay si Cain sa Diyos Ama, nawala ang kanyang koneksyon sa kanyang kapatid.
+
+Inilalarawan ng pagpatay sa kapatid kung paano kumikilos ang kasalanan. Ang kasalanan sa kapatid ay nagmumula sa kasalanan sa Diyos. Nakikita ng Diyos ang relasyon na ito sa pagitan ng relihiyoso at etikal noong binalaan Niya si Cain: “Kung ikaw ay gumawa ng mabuti, hindi ka ba tatanggapin?” (Genesis 4:7). Ang pariralang “gumawa ng mabuti” ay tungkol, una sa lahat, sa tamang sakripisyo, na hinihingi kay Cain na ihandog; ngunit tinutukoy rin nito ang personal na pakikipagpunyagi ni Cain laban sa kasamaan at, lalo na, sa kanyang relasyon sa kanyang kapatid. Ang pandiwang Hebreo na teytib, “gumawa ng mabuti,” ay may malakas na konotasyong etikal. Ginamit din ni Jeremias ang katulad na pandiwa upang ilarawan ang hinihinging relasyon sa pagitan ng “isang tao at sa kaniyang kapuwa” (Jeremias 7:5).
+
+Nakatutuwang mabatid na ang pahayag ni Jeremias sa Israel ay nag-uugnay ng gayunding ugnayan ng buhay na relihiyoso sa pagkilos ng isang tao. Pagkatapos ng mahabang listahan ng mga krimen (pagnanakaw, pagsisinungaling, pangangalunya, atbp.), hinarap ng propeta ang kanyang bayan, na “magsisiparito at magsisitayo sa harapan Ko sa bahay na ito, na tinatawag sa Aking pangalan” (Jeremias 7:10). Maraming ibang propeta na nagdiin din sa pagtakwil ng Diyos sa mga sakripisyo ang umayon sa panawagan na ito. Mahusay na inihayag ni Mikas ang kawalang halaga ng ganitong relihiyon: “Nalulugod ba ang PANGINOON sa mga libu-libong tupa? . . . Ipinakita niya sa iyo, O tao, kung ano ang mabuti. . . . ang gumawa na may katarungan, at umibig sa kaawaan, at lumakad na may kapakumbabaan na kasama ng iyong Diyos?” (Mikas 6:7, 8).
+
+**Ang Kahalagahan sa Propesiya ng mga Sakripisyo**
+
+Ang isa sa pinakamakapangyarihang talata sa Biblia tungkol sa kahalagahan sa propesiya ng mga sakripisyo ay ang awit ni Isaias ng Nagpakasakit na Lingkod. Kinilala bilang isang sakripisyo ang Nagpakasakit na Lingkod, kaya’t hinuhulaan ang ministeryo ng pagsasakripisyo ni Jesu-Cristo. Sa katunayan, ang pangunahing kaisipan ng talata ay ang pagdurusa at kamatayan ng lingkod para sa layunin ng katubusan. Lumalabas ang kaisipang ito sa walo ng 12 talata (Isaias 53:4–8, 10–12).
+
+Pinag-iibayo ito sa panggitnang bahagi ng Isaias 53:4–6 at inilalarawan sa mga salita at tema na direktang hinalaw mula sa mundo ng mga Levita. Inihahambing ang Lingkod sa isang tupa na handa para sa katayan (Isaias 53:7 ihambing sa Levitico 4:32; 5:6; 14:13, 21; atbp.). Ang anyong passive, na isa sa pinakapangkaraniwang pagkakakilanlang katangian ng istilong Levita ay pinakaprominente sa Isaias 53. Ginamit ito ng 16 na beses sa talata; 12 sa kanila ay nasa Niphal, iyong anyong teknikal ng “pahayag ng desisyon” ng pari, na karaniwang ginagamit na ugnay sa mga sakripisyo. Ang layuning relihiyoso at pang-ritwal na ito ay lalo pang pinagtibay ng pitong reperensya sa “kasalanan,” na sumasakop sa lahat ng tatlong salitang teknikal (pesha’, ‘awon, khet’): “Siya’y nasugatan dahil sa ating mga pagsuway [pesha’], Siya’y binugbog dahil sa ating mga kasamaan [‘awon]; . . . ipinasan sa Kanya ng PANGINOON ang lahat nating kasamaan [‘awon]. . . . papasanin Niya ang kanilang mga kasamaan [‘awon]. . . . pinasan Niya ang kasalanan [khet’] ng marami” (Isaias 53:5, 6, 11, 12).
+
+Inilalahad ng isang talata ang proseso ng pagtubos na isinasagawa ng mga Levita: “sa pamamagitan ng Kanyang kaalaman. Aariing-ganap ng matuwid Kong Lingkod ang marami, at papasanin Niya ang kanilang mga kasamaan” (Isaias 53:11). Ang salitang “kaalaman” (beda’to) ay tumuturo sa bersikulo 3, kung saan ang katulad na ugat na salita “pinahalagahan” (yadu’a) ay ginamit upang ilarawan ang Lingkod bilang isang taong “nakakakilala” sa kalumbayan. Ipinapaliwanag ng talata na sa pamamagitan ng kaalamang ito, o sa karanasang ito, ng pagdurusa ang Lingkod ay “mag-aaring-ganap.” Ipinapaliwanag ng sumusunod na parirala ang pagkilos na iminumungkahi ng pandiwang “aariing-ganap”: “papasanin Niya ang kanilang mga kasamaan” (Isaias 53:11). Sa pamamagitan ng pagpasan ng kanilang mga kasalanan magagawa ng Lingkod na ariing-ganap ang marami. Muling ginagamit ng susunod na talata ang salitang “marami” at pinagtitibay ang salin na ito na ginagawang ang “marami” na layon ng pandiwang “ariing-ganap”; kaya’t “pinasan Niya (Lingkod) ang kasalanan ng marami” (Isaias 53:12).
+
+Ang lenggwahe at ang kaugnayan nito sa mga ideya ay pamilyar sa kontekstong biblikal, na iminumungkahi na ang Lingkod ay katulad ng handog na sakripisyo, na sa sistemang Levitical ay nagpasan ng kasalanan at sa gayo’y pinahintulutan ang pag-aaring-ganap at kapatawaran mula sa Diyos: “Kapag kordero ang kanyang dinala bilang handog pangkasalanan . . . Ipapatong niya ang kanyang kamay sa ulo ng handog pangkasalanan . . . Gayon gagawin ng pari ang pagtubos para sa kanya, para sa kanyang kasalanan na kanyang nagawa at siya’y patatawarin” (Levitico 4:32–35). Ang malakas na pagdiin sa ritwal sa tekstong ito ay nagpapatibay na bahagi ng Nagpakasakit na Lingkod ang maging vicarious sacrifice, na kinukuha ang lugar ng makasalanan upang makapagbigay ng kapatawaran.
+
+### Ikatlong Bahagi: Pagsasakabuhayan
+
+**Ang Sakripisyo ng Diyos para sa Inyong Kaligtasan.** Basahin ang Filipos 2:7. Magbulay-bulay sa pahayag na “hinubaran Niya ang Kanyang sarili.” Paano bang ang pagiging handa ng Diyos na maging “wala” ay umaangkop sa inyong relasyon sa inyong kapwa o sa inyong mga kamag-anak? Gaano kayo kahanda na maging wala, na hubarin ang inyong sarili para sa pagsulong ng inyong mga kasamahan o paglaki ng inyong anak?
+
+`Notes`

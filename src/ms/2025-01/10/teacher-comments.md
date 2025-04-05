@@ -1,0 +1,60 @@
+---
+title:  Komen Guru
+date:  07/03/2025
+---
+
+#### Bahagian I: Pandangan Keseluruhan
+
+**Ayat-ayat Utama**: 1 Yohanes 3:8
+
+Tumpuan Kajian: Ayub 1:1-12, Ayub 2:1-7, Daniel 10, Lukas 4:6, Yohanes 12:31.
+
+Pengenalan: Syaitan dibatasi oleh Tuhan dalam kuasanya. Dia adalah pemerintah yang tidak sah, terutama dari sudut perwatakannya.
+
+Tema Pelajaran: Pelajaran minggu ini menggariskan tiga fahaman utama.
+
+1.	Syaitan adalah "pemerintah" yang tidak sah dan sementara: Tuhan memberikan Syaitan kuasa terhad dan sementara selepas dosa memasuki dunia, tetapi kuasa ini bukan kuasa undang-undang. Walaupun Tuhan telah menghadkan aktiviti-Nya sendiri untuk menghapuskan kejahatan di dunia ini, Yesus telah mengalahkan syaitan. Kemenangan Kristus atas godaan di padang gurun dan kekalahan Syaitan di kayu salib menunjukkan bahawa pemerintahan Syaitan adalah tidak sah dan sementara.
+
+2.	Syaitan memfitnah dan menjadikan tahanan di bawah "kuasa"nya: Walaupun Syaitan adalah penguasa yang tidak sah dan sementara, manusia boleh menjadi tawanan kuasanya yang sah. Kehendak manusia kita cenderung untuk mengikuti godaan Syaitan, melainkan jika Kristus hidup di dalam kita, membimbing keinginan dan kehidupan kita.
+
+3.	Syaitan terbatas dalam "kuasa"nya: Syaitan mempunyai masa dan ruang untuk "memerintah," tetapi dia dibatasi oleh Tuhan dalam "kekuasaannya." Dalam perjalanan sejarah manusia, kuasa mutlak kebaikan menentang kejahatan, dan doa orang percaya adalah sumber yang berkesan untuk menentangnya.
+
+Penerapam Hidup: Syaitan terhad dalam kuasa sementaranya. Atas dasar kemenangan Yesus, kita tidak lagi terikat dengan ketakutan akan kematian. Namun, kita tetap perlu berwaspada dan bergantung kepada kuasa Tuhan. Bagaimanakah kehidupan doa anda dapat membantu anda untuk berjaya menentang kuasa Syaitan yang tidak sah?
+
+#### Bahagian II: Ulasan
+
+1. Syaitan ialah “Penguasa” yang tidak sah dan sementara.
+
+Dalam Injil Sinoptik, fokus konflik antara Syaitan dan Yesus ialah godaan di padang gurun (Mat. 4:1-11; Markus 1:12, 13; Lukas 4:1-13). Di antara tiga sinoptik, Lukas memberikan butiran tambahan, dalam godaan ketiga tentang kuasa Syaitan yang didakwa. Dengan menunjukkan kepada Yesus “dalam sekelip mata… menunjukkan… semua kerajaan di dunia.” (Lukas 4:5, AVB), iblis menawarkan Dia “‘segala kekuasaan ini dengan kemuliaannya akan kuberikan kepada-Mu kerana semuanya itu telah diserahkan kepadaku dan aku boleh memberikannya kepada sesiapa jua yang aku suka.'” (Lukas 4:6, AVB).
+
+Ia boleh dipertikaikan sama ada Syaitan benar-benar mempunyai kuasa yang didakwanya dan, jika ya, bagaimana dia memperolehnya. Untuk kepastian selepas dosa masuk ke dalam dunia, “Tuhan memberi Syaitan kebebasan yang cukup untuk menggunakan pengaruhnya yang merosakkan di seluruh dunia.”—Sydney H.T. Page, Powers of Evil: A Biblical Study of Satan and Demons (Grand Rapids, MI: Baker Books, 1995), ms. 98. Namun, kebebasan ini berbeza dengan penyataan bahawa Syaitan mempunyai kuasa yang sah di dunia. Malah, dengan menolak tawaran Syaitan, Yesus tidak mengiktiraf kesahihan kuasa itu.
+
+Dalam Injil Yohanes, konflik antara Syaitan dan Yesus ditonjolkan secara khusus dalam rujukan kepada “penguasa dunia ini” (Yoh. 12:31, ATB; Yoh. 14:30, ATB; Yoh. 16:11, ATB). Dalam Yohanes 12:31-33, Yesus menekankan penghakiman dunia dan pengusiran penguasanya, dengan rujukan khusus kepada kematian-Nya. Dalam Yohanes 14:30, Yesus menunjukkan dalam konteks khotbah perpisahan-Nya kepada murid-murid bahawa "penguasa dunia ini datang" (ATB). Yesus, menggariskan percanggahan pernyataan ini, menambah, “dan ia tidak berkuasa sedikit pun atas diri-Ku” (ATB). Pernyataan itu mungkin merujuk kepada kedatangan Yudas Iskariot, yang merupakan wakil dimana “iblis sendiri mempercepatkan kematian Yesus”. Walau bagaimanapun, salib bukanlah kemenangan syaitan, tetapi secara mengejutkan adalah kejatuhannya (lihat D. A. Carson, The Gospel According to John, The Pillar New Testament Commentary [Grand Rapids, MI: Eerdmans, 1991], ms. 508). Kemudian, apabila Yesus mengajar para pengikutnya tentang Parakletos yang dijanjikan, Roh Kudus, Dia menekankan sekali lagi, sekarang dalam Yohanes 16:11, bahawa "penguasa dunia ini telah dihukum" (ATB), seolah-olah menggemakan pengusiran iblis dalam Yohanes 12:31.
+
+Oleh itu, sementara Injil Sinoptik menggariskan kemenangan Kristus ke atas Syaitan dalam godaan di padang gurun, pada permulaan pelayanan umum-Nya, Injil Yohanes menekankan kekalahan Syaitan, penguasa/pemerintah dunia ini, di atas kayu salib (lihat juga Powers of Evil: Biblical Study of Satan and Demons, ms 129); iaitu pada penghujung pelayanan Yesus di bumi. Dalam kedua-dua kes, kita belajar bahawa Syaitan adalah penguasa yang tidak sah dan sementara atas dunia yang berdosa, dunia yang secara bercanggah dikasihi oleh Tuhan tetapi juga dihakimi kerana menolak Yesus (Yohanes 1:10, 29; Yohanes 3:16, 17, 19; Yohanes 9:39; 17:9, 14, 16, 21). Seperti yang ditunjukkan oleh Robert Recker, Syaitan “adalah seorang putera raja yang digulingkan, atau seseorang yang sedang dalam proses untuk digulingkan.”—“Satan: in Power or Dethroned?”, Calvin Theological Journal 6, no. 2 (1971), ms. 147.
+
+2. Syaitan Memfitnah dan Menawan Orang Di Bawah “Kekuasaan”-Nya.
+
+Walaupun tidak sah sebagai pemerintah, kerana dosa manusia menjadi tawanan kuasa Syaitan yang sah. Ellen G. White menggariskan bahawa “Manusia yang telah jatuh adalah tahanan Syaitan yang sah. . . . Manusia secara semula jadi cenderung untuk mengikuti nasihat Setan, dan dia tidak dapat berjaya melawan musuh yang begitu dahsyat melainkan jika Kristus, Sang Penakluk yang perkasa, tinggal di dalam dirinya, membimbing kehendaknya, dan memberinya kekuatan.”—Testimonies for the Church, jilid 1, ms. 341. Bukan Tuhan yang “telah menjadikan Syaitan ’penguasa dunia ini’, tetapi . . . manusia telah melakukannya melalui dosa mereka.”—Powers of Evil: A Biblical Study of Satan and Demons, ms. 129.
+
+Walaupun Syaitan, dari perspektif dosa manusia, adalah penguasa yang sah ke atas manusia yang rosak, dia masih menjadi pemerintah yang tidak sah dari sudut watak dan tindakannya. Yesus secara keras menggambarkannya sebagai pendusta dan pembunuh. Dalam firman-Nya, Syaitan “Dari mulanya lagi, Iblis pembunuh. Dia tidak menyokong kebenaran, kerana dalam dirinya tidak ada kebenaran. Apabila dia berdusta, dia bercakap dari sifat tabiinya sendiri, kerana dia pendusta dan bapa segala dusta.” (Yohanes 8:44, AVB). Pada dasarnya, pembohongan/fitnah dan penawanan maut adalah intipati dari "pemerintahannya", yang mesti ditumbangkan oleh Yesus.
+
+Injil Yohanes kelihatan menggariskan bahawa “penguasa dunia ini” telah dikalahkan dan diusir oleh pengorbanan Kristus di kayu salib, kebangkitan-Nya, dan kenaikan-Nya kepada Bapa (Yohanes 12:31-33, Yohanes 16:11). Walau bagaimanapun, doa campur tangan Yesus untuk pengikut-Nya, dalam Yohanes 17, menganggap bahawa pengaruh Syaitan ke atas manusia tidak berakhir dengan salib.“Sebaliknya, Yohanes menyatakan bahawa penentangan oleh Syaitan terhadap Yesus juga akan ditujukan terhadap pengikut Yesus.”—Powers of Evil: A Biblical Study of Satan and Demons, ms. 130. Dalam Yohanes 17:15, Yesus berdoa agar Bapa menjaga “mereka daripada si durjana,” kerana mereka berada di dalam dunia tetapi bukan milik dunia (Yohanes 17:15, 16, AVB). Dalam 1 Yohanes 5:19, pembezaan dibuat antara mereka yang percaya kepada Tuhan dan mereka yang tidak percaya (orang dunia), membezakan umat Tuhan daripada mereka yang berada di bawah kuasa syaitan: “Kita tahu, bahwa kita berasal dari TUHAN dan seluruh dunia berada di bawah kuasa si jahat.” (ATB). Ibrani 2:14, 15 menggambarkan kuasa iblis terhadap manusia yang berdosa, dengan menundukkan mereka ke dalam perhambaan, dalam istilah “kuasa maut”. Petikan ini juga mengajar bahawa Yesus memusnahkan kuasa ini melalui kematian-Nya. Jadi, atas dasar kemenangan Yesus, kita tidak lagi terikat dengan takut akan kematian. Namun, kita tetap perlu berwaspada dan bergantung kepada kekuatan Tuhan. Cerita sejarah keselamatan belum berakhir, dan “si Iblis, berjalan keliling sama seperti singa yang mengaum-aum dan mencari orang yang dapat ditelannya.” (1 Pet. 5:8, ATB). Selain itu, sebelum kemusnahan terakhirnya (Wahyu 20:10), Syaitan terus menuduh orang percaya di hadapan Tuhan (Wahyu 12:10), dan cerita sejarah Ayub menunjukkan bahawa fitnah (Ayub 1:9-11, Ayub 2:5) adalah sebahagian daripada strategi tuduhan syaitan.
+
+3. Syaitan Terbatas dalam “Kekuasaan”-Nya.
+
+Manusia yang berdosa telah menjadikan Syaitan sebagai penguasa, dan tuduhan fitnahnya diambil untuk dipertimbangkan, bukannya ditolak oleh Tuhan semata-mata. Tuhan mengizinkan hal ini terjadi agar tuduhan-tuduhan tersebut dapat dibuktikan secara jelas salah. Atas sebab ini, Syaitan mempunyai masa dan ruang untuk “memerintah,” walau bagaimanapun, seperti yang ditunjukkan oleh sejarah Ayub (“‘jangan kau sentuh dirinya’” [Ayub 1:12, AVB]; “‘peliharalah nyawanya’” [Ayub. 2:6, AVB]), dia dibatasi oleh Tuhan dalam “kuasa”nya.
+
+Tambahan pula, kita belajar, dalam Daniel 10, tentang batasan kuasa kejahatan. Menurut bab ini, "perjalanan sejarah manusia bukan sahaja ditentukan oleh keputusan yang dibuat oleh manusia, kerana terdapat dimensi realiti yang tidak kelihatan yang juga harus diambil kira. Khususnya, terdapat kuasa jahat di alam semesta yang mempunyai pengaruh buruk dalam bidang sosio-politik, terutamanya yang berkaitan dengan umat Tuhan. Walau bagaimanapun, kuasa roh jahat ini terbatas, kerana kuasa kebaikan yang melampaui batas menentang mereka, dan doa setia orang percaya juga berkesan terhadap mereka. Walau bagaimana pun kuasa kejahatan bertentangan dengan kehendak Tuhan, mereka tidak dapat menghalangnya daripada tercapai.”—Powers of Evil: A Biblical Study of Satan and Demons, ms. 64.
+
+Ellen G. White mengesahkan kewujudan konflik kosmik yang serupa berkenaan dengan kehidupan setiap orang, dan dia juga menekankan kepentingan doa dalam konteks ini. Dalam bab “The Power of Satan” dalam Testimonies for the Church, vol. 1, dia menggariskan bahawa "hanya Tuhan boleh membataskan kuasa Syaitan" (Halaman 341) dan bahawa dia "melihat malaikat jahat berperang melawan jiwa, dan malaikat Tuhan berperang melawan mereka. Konflik itu sangat teruk” (Halaman 345). Bagaimanapun, dia menambah, "bukanlah tugas malaikat yang baik untuk mengawal fikiran manusia melawan kehendak mereka. Jika mereka menyerah kepada musuh, dan tidak berusaha untuk menentangnya, maka malaikat Tuhan tidak dapat berbuat lebih daripada menahan kuasa-kuasa Iblis, supaya mereka tidak membinasakan, sehingga lebihan cahaya terang diberikan kepada mereka yang dalam bahaya, untuk menggerakkan mereka bangkit dan mencari pertolongan ke syurga” (Halaman 345). Dalam konteks ini, dia menekankan bahawa "Panglima besar di langit dan bumi telah membatasi kuasa Syaitan" sementara, pada masa yang sama, dia menekankan kepentingan doa, kerana "Juruselamat kita mendengar doa iman yang bersungguh-sungguh, dan mengutus bantuan daripada malaikat yang cukup kuat untuk menyelamatkannya” (Halaman 346).
+
+#### Bahagian III: Penerapan Hidup
+
+Kitab Ayub memberikan pandangan yang menarik tentang realiti kontroversi besar itu. Ayub telah memutuskan untuk takut kepada Tuhan walaupun dalam apa jua keadaan. Dengan mengambil kira perspektif ini, bincangkan soalan berikut:
+
+1. Bagaimanakah perlindungan Tuhan terhadap kita dapat mendorong kita untuk takut, menginginkan, dan lebih mengasihi Dia? Dalam cara apakah perlindungan-Nya boleh menjadi cabaran kepada sesetengah daripada kita dalam, atau halangan, kepada kita bertindak balas kepada-Nya ?
+
+2. Syaitan mempunyai batasan ke atas kuasanya, yang menjadi jelas dalam pemandangan himpunan syurga dalam kitab Ayub. Apakah yang boleh dikatakan terhadap batasan kuasa Syaitan tentang kuasa dan tindakan Tuhan?
+
+3. Dalam bab “The Power of Satan” (Testimonies for the Church, vol. 1, p. 345), Ellen G. White menekankan kepentingan berdoa agar Tuhan menghantar malaikat untuk menyelamatkan kita. Jadi, betapa pentingnya kehidupan doa anda dalam membuka jalan untuk tindakan ilahi?

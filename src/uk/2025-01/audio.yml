@@ -1,2 +1,84 @@
 ---
-  audio: []
+  audio:
+    - artist: Суботня Школа
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2024-12-30.mp3
+          target: uk/2025-01/01/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2024-12-31.mp3
+          target: uk/2025-01/01/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-01.mp3
+          target: uk/2025-01/01/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-02.mp3
+          target: uk/2025-01/01/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-03.mp3
+          target: uk/2025-01/01/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-04.mp3
+          target: uk/2025-01/02/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-05.mp3
+          target: uk/2025-01/02/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-06.mp3
+          target: uk/2025-01/02/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-07.mp3
+          target: uk/2025-01/02/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-08.mp3
+          target: uk/2025-01/02/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-09.mp3
+          target: uk/2025-01/02/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-10.mp3
+          target: uk/2025-01/02/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-11.mp3
+          target: uk/2025-01/03/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-12.mp3
+          target: uk/2025-01/03/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-13.mp3
+          target: uk/2025-01/03/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-14.mp3
+          target: uk/2025-01/03/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-15.mp3
+          target: uk/2025-01/03/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-16.mp3
+          target: uk/2025-01/03/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-17.mp3
+          target: uk/2025-01/03/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-18.mp3
+          target: uk/2025-01/04/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-19.mp3
+          target: uk/2025-01/04/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-20.mp3
+          target: uk/2025-01/04/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-21.mp3
+          target: uk/2025-01/04/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-22.mp3
+          target: uk/2025-01/04/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-23.mp3
+          target: uk/2025-01/04/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-24.mp3
+          target: uk/2025-01/04/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-25.mp3
+          target: uk/2025-01/05/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-26.mp3
+          target: uk/2025-01/05/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-27.mp3
+          target: uk/2025-01/05/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-28.mp3
+          target: uk/2025-01/05/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-29.mp3
+          target: uk/2025-01/05/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-30.mp3
+          target: uk/2025-01/05/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-01-31.mp3
+          target: uk/2025-01/05/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-01.mp3
+          target: uk/2025-01/06/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-02.mp3
+          target: uk/2025-01/06/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-03.mp3
+          target: uk/2025-01/06/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-04.mp3
+          target: uk/2025-01/06/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-05.mp3
+          target: uk/2025-01/06/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-06.mp3
+          target: uk/2025-01/06/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-01/2025-02-07.mp3
+          target: uk/2025-01/06/07

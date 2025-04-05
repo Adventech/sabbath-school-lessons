@@ -1,0 +1,52 @@
+---
+title:  Approfondissement
+date:   11/04/2025
+---
+
+### Ire partie: Aperçu
+
+**Texte clé:** Jean 1:29
+
+**Étude contextuelle:** Gen 22:1-18; Jn 3:16.
+
+La Genèse, premier livre de la Bible, contient des vérités fondamentales qui englobent le cœur du message salvateur et prophétique des Écritures. De l’histoire cosmique de la création (Gen 1-2), dans laquelle Dieu transforme le chaos et le vide en vie, à l’histoire de Joseph, dans laquelle Dieu fait surgir une issue rédemptrice à partir d’actes mauvais (Gen 50:20), le livre de la Genèse témoigne du plan du salut de Dieu. Au milieu du livre de la Genèse, l’histoire du sacrifice d’Isaac (Gen 22:1-18) établit les thèmes fondamentaux de ce plan divin.
+
+Dans la leçon de cette semaine, nous découvrirons les différents thèmes du plan du salut de Dieu tels qu’ils émergent de l’histoire dramatique de l’Akedah (le ligotage d’Isaac). Le premier thème est « l’amour », duquel découlent toutes les autres actions de Dieu. Dans cette histoire, le mot hébreu ’ahab (amour) est utilisé pour la première fois dans la Bible, spécifiquement dans le discours de Dieu faisant référence à l’amour d’un père (Gen 22:2).
+
+Le deuxième thème de l’Akedah est l’expression de l’amour de Dieu à travers le sacrifice de Son Fils, préfiguré par Isaac dans son identification avec l’agneau (Gen 22:7-10). Le troisième thème est la manifestation réelle de l’amour de Dieu dans l’histoire, en particulier dans le grand conflit qui mettra la « semence » en opposition au serpent et se terminera par la victoire de la « semence » sur le mal et la mort. Cet évènement est annoncé par l’apparition inattendue du « bélier » (Gen 22:13), qui préfigure l’évènement eschatologique du Jour des Expiations.
+
+### IIe partie: Commentaire
+
+**L’amour de Dieu**
+
+Il est impossible de comprendre l’amour de Dieu, car il est impossible de « comprendre ... quelle est la largeur, la longueur, la profondeur et la hauteur, et de connaitre l’amour de Christ, qui surpasse toute connaissance » (Eph 3:18-19). Le fait que le verbe ’ahab (aimer) apparaisse pour la première fois dans les Écritures en référence à l’amour d’un père – l’amour d’Abraham pour Isaac, son « fils unique » (Gen 22:2) – est cependant significatif. C’est dans le contexte particulier de l’amour d’Abraham pour son fils unique que la qualité de l’amour d’Abraham pour Dieu devait être « éprouvée » et ainsi révélée (Gen 22:1; cf. Gen 22:12).
+
+Mais ce n’était pas seulement l’amour d’Abraham pour Dieu qui devait être éprouvé et révélé. Pendant l’expérience personnelle d’Abraham, l’amour de Dieu a également été révélé à Abraham. Abraham a alors compris la profondeur de l’amour de Dieu. Comme l’explique Ellen G. White: « Si Dieu avait ordonné à Abraham de tuer son fils, c’était non seulement pour éprouver sa foi, mais tout autant pour que le patriarche fût frappé de la réalité de l’Évangile. Les sombres jours d’agonie qu’il traversa alors devaient l’aider à comprendre, par son expérience personnelle, la grandeur du sacrifice consenti par le Dieu infini en faveur de la rédemption de l’homme. Aucune épreuve n’aurait pu mettre l’âme d’Abraham à la torture comme l’ordre d’offrir Isaac en sacrifice. », Patriarches et prophètes, p. 133.
+
+Dieu n’a pas donné à Abraham une explication philosophique, théologique ou psychologique de Son amour. Dieu a choisi de permettre à Abraham d’endurer (à son niveau limité) ce que Dieu devait endurer (à Son niveau infini). Ce parallèle entre Abraham, qui a offert son « fils unique » qu’il aimait, et Dieu, qui a offert Son Fils unique, que « le Père aime » (Jn 5:20), est soutenu par Jean qui utilise le même langage dans sa définition de « l’amour »: « Car Dieu a tant aimé le monde qu’Il a donné Son Fils unique, afin que quiconque croit en Lui ne périsse point, mais qu’il ait la vie éternelle » (Jn 3:16; cf. 1 Jn 4:9).
+
+**L’Agneau de Dieu**
+
+Le titre « Agneau de Dieu » est utilisé par Jean pour identifier Jésus: « Le lendemain, il vit Jésus venir à lui, et dit: Voici l’Agneau de Dieu qui ôte le péché du monde » (Jn 1:29; cf. Jn 1:36). Il est intéressant et significatif que la référence à un « agneau » apparaisse pour la première fois dans les Écritures dans le contexte de l’histoire du ligotage d’Isaac, pour désigner le sacrifice d’un « holocauste » (Gen 22:7). Cependant, ce n’est pas la première fois qu’un agneau est utilisé comme sacrifice. Abel a dû offrir un agneau en holocauste (Gen 4:4; cf. Nb 18:17). Mais c’est la première fois que le mot śê (agneau) est explicitement mentionné. C’est aussi le seul passage de la Bible hébraïque où le mot śê (agneau) est défini. Tous les autres passages scripturaires contenant ce mot l’utilisent de manière indéfinie. Ce cas unique témoigne d’une application spéciale et unique. Isaac (avec Abraham) fait référence à un agneau unique qui transcende tous les autres.
+
+Le fait que le mot « agneau » soit utilisé par Jean dans son Évangile (Jn 1:29, 36), et surtout dans l’Apocalypse (23 fois), au sens défini comme « l’agneau », suggère que Jean fait allusion à « l’agneau » de la question d’Isaac: « Où est l’agneau pour l’holocauste? » (Gen 22:7). Cette relation intertextuelle nous permet de supposer que « l’agneau » d’Isaac se réfère au Fils de Dieu, tel que le comprend Jean. Cette interprétation est, en fait, confirmée par la réponse d’Abraham à la question d’Isaac: « Dieu se pourvoira lui-même de l’agneau pour l’holocauste » (Gen 22:8).
+
+La construction de la phrase d’ouverture de la déclaration d’Abraham dans Genèse 22:8 est particulièrement révélatrice. D’abord, bien que l’hébreu mette typiquement le verbe en premier, suivi du sujet, ici le mot « Dieu » est placé au début de la phrase avant la forme verbale pour souligner le fait que la solution réside uniquement en Dieu. C’est Dieu qui verra. Ensuite, cette phrase d’ouverture de Genèse 22:8 a la même construction réflexive que la phrase lek leka (va-toi-même), qui introduit l’appel de Dieu (Gen 22:2; cf. Gen 12:1, traduction littérale de l’auteur). Dans ce cas, la phrase dans Genèse 22:8 pourrait être traduite comme suit: « Dieu se verra lui-même comme l’agneau », ce qui signifie que Dieu se pourvoira lui-même en agneau. En tant que tel, l’agneau est identifié comme Dieu. Ainsi, l’agneau dont il est question ici n’est pas seulement l’animal physique qu’Isaac avait en tête; c’est Dieu Lui-même.
+
+**La victoire de Dieu**
+
+Isaac s’attendait à ce qu’un agneau soit pourvu par Dieu. Pourtant, c’est un bélier qui apparut: « Abraham leva les yeux, et il vit derrière lui un bélier » (Gen 22:13). L’apparition du bélier fait écho au bélier du Jour des Expiations (Lev. 16:3, 6). Il existe en effet une connexion intertextuelle unique entre ce passage du sacrifice d’Isaac et le texte du Jour des Expiations. Plus qu’aucun autre passage biblique, le texte du ligotage d’Isaac partage un langage commun avec le texte du Jour des Expiations. Nous retrouvons la même association des mots ‘olah (holocauste) (Gen 22:13; cf. Lev. 16:3, 5), ra’ah (voir), sous la même forme passive niphal (Gen 22:14; cf. Lev 16:2), et yiqqakh (il prit) (Gen 22:13; cf. Lev 16:5). Cette importante connexion intertextuelle entre les deux passages indique que l’auteur de la législation du Jour des Expiations, dans Lévitique 16, avait à l’esprit le texte du sacrifice d’Isaac.
+
+D’autre part, il est à noter que le texte du ligotage d’Isaac est également présent dans le texte de Daniel 8, qui est une prophétie concernant précisément le Jour des Expiations eschatologique. La première ligne introduisant la vision de Daniel – « Je levai les yeux et regardai, et voici un bélier » (verset 3) – fait clairement allusion au texte du sacrifice d’Isaac, étant donné que la phrase de Daniel est une citation de Genèse 22:13. Cette allusion au texte du sacrifice d’Isaac est encore renforcée par les importantes connexions intertextuelles entre Lévitique 16 et Daniel 8 (voir en particulier l’utilisation commune du verbe ra’ah, (voir), un mot clé dans les deux passages). À la lumière de Daniel 8, nous comprenons donc que le bélier dans l’histoire de l’Akedah pointe typologiquement vers le Jour des Expiations eschatologique.
+
+Cette perspective cosmique est en effet confirmée dans la bénédiction divine qui conclut le texte de l’Akedah (Gen 22:17). La bénédiction promise par Dieu concerne non seulement les futurs descendants d’Abraham lui-même, mais aussi l’avenir des nations. Le Seigneur promet que la descendance d’Abraham « possèdera la porte de ses ennemis » (Gen 22:17). Cette promesse se réfère à la victoire de Christ sur le serpent et à la victoire de la vie sur la mort, qui est prédite dans Genèse 3:15. L’histoire du ligotage d’Isaac conduit alors à l’expiation ultime pour le peuple de Dieu lors du Jour des Expiations eschatologique (cf. Dan 8:14). Cette leçon semble avoir été retenue dans l’épitre aux Hébreux, qui applique la bénédiction finale de l’Akédah (Heb. 6:14) au moment extraordinaire du Jour des Expiations, pendant lequel le grand prêtre pouvait aller « derrière le voile » (Heb. 6:19; cf. Lev 16:2, 15).
+
+### IIIe partie: Application
+
+Lisez les commentaires suivants sur le silence et les questions entre Abraham et Isaac dans Genèse 22:6-8. Quelles leçons spirituelles ce silence et ces questions nous enseignent-ils? Genèse 22:6: « Ils marchèrent tous deux ensemble » (Gen 22:6). Cette expression apparait deux fois (Gen 22:6, 8) et sonne tragiquement, soulignant la marche silencieuse du père et du fils.
+
+Gen 22:7, 8: Mais Isaac parla. Dans Genèse 22:7, 8, le silence est finalement rompu par la voix d’Isaac. Son dialogue dans ces deux versets constitue la première et unique fois qu’Isaac parle dans cette histoire:
+
+« Isaac parla à Abraham, son père, et dit: Mon père! » (Gen 22:7). Lorsqu’Isaac parle pour la première fois, il prononce d’abord un seul mot hébreu ’abi, « mon père!), qui nous rappelle sa relation avec Abraham, qui se prépare au sacrifice. « Abraham répondit: Me voici, mon fils! » (Gen 22:7). Les mots « mon fils » (beni) correspondent aux mots « mon père » (’abi). Malgré le projet de mise à mort, le père aime son fils, et l’intensité de cet amour pour son fils unique rend le sacrifice d’autant plus douloureux (cf. Jn 5:20).
+
+« Isaac reprit: Voici le feu et le bois; mais où est l’agneau pour l’holocauste? » (Gen 22:7). Cette question est une autre manière de se référer à la réalité indicible, sans avoir à dire explicitement: « Suis-je l’agneau? »

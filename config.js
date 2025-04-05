@@ -264,6 +264,10 @@ var BIBLE_PARSER_CONFIG = {
     "orov"
   ],
 
+  "om": [
+    "macqul"
+  ],
+
   "pap": [
     "bpk13"
   ],
@@ -333,6 +337,10 @@ var BIBLE_PARSER_CONFIG = {
 
   "te": [
     "irv"
+  ],
+
+  "ti": [
+    "tig15"
   ],
 
   "th": [

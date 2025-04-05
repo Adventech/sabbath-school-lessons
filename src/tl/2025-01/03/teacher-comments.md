@@ -1,0 +1,62 @@
+---
+title:  Komento ng Guro
+date:   17/01/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya 
+
+**Susing Talata**: Zefanias 3:17
+
+**Pokus ng Pag-aaral**: Zefanias 3:17; Lucas 15:4–32.
+
+**Panimula**: Nagdiriwang ang ating nagmamahal na Diyos, at siya ay nasisiyahan, na magkaroon ng isang nagmamahal na relasyon sa Kanyang mga nilikha.
+
+**Mga Paksa ng Liksyon**: Binibigyan-diin ng liksyon sa linggong ito ang tatlong pangunahing punto.
+
+Ang kasiyahan ng Diyos sa Kanyang mga nilikha ay nagpapakita kung gaano Niya tayo pinapahalagahan sa Kanyang paningin. Bawat tao sa mata ng Diyos ay mahalaga. Sa dahilang ito, naliligayahan Siya, at naliligayahan sa Kanyang mga anak na lalaki at babae kapag nagsisisi sila at hinahanap Siya. Ang talinghaga sa Lucas 15 ay nagdidiin sa kagalakan at pagdiriwang ng Diyos dahil sa kaligtasan ng isang nawaglit na tao. Ang kaligayahan Niya sa ating kaligtasan ay nagpapakita kung gaano tayo kahalaga sa paningin ng Diyos.
+
+Ang kasiyahan ng Diyos ang dahilan ng kagalakan at pagpupuri ng sangkatauhan. Nais ng Diyos na punuin ang ating mga puso ng nag-uumapaw na kagalakan, at Siya ay nasisiyahan sa kagalakan at papuri ng sangkatauhan. Inaanyayahan Niya ang Kanyang bayan na maranasan ang kasiyahan sa Kanya habang pinupuri Siya na may kagalakan sa pamamagitan ng mga panalangin at mga awitin. At, ang mga papuri sa Diyos ay nakakatulong sa atin na mangarap, bilang paghahangad, sa Kanyang hinaharap na kasiyahan at kagalakan kasama ng Kanyang bayan.
+
+Kailangan natin si Cristo para magbigay-lugod sa Diyos: Tayo ay inaanyayahan para magbigay-kasiyahan sa Diyos, na nag-aalay sa Kanya ng mga espiritwal na hain sa pamamagitan ng pagpupuri ng ating mga labi bilang pasasalamat at sa pamamagitan ng pagsasagawa ng paggawa ng mabuti at pagbabahagi. Gayunman, magagawa lamang natin ang mga bagay na ito sa pamamagitan ng pamamagitan ni Cristo. Ang ating pananampalataya ay nakalulugod sa Diyos sa pamamagitan lamang ng gawa ni Cristo sa ating kapakanan.
+
+**Pagsasakabuhayan**: Ang kasiyahan ng Diyos sa Kanyang mga nilikha ay nagpapakita kung gaano tayo kahalaga sa Kanyang paningin at kung gaano Niya pinahahalagahan ang Kanyang mga nilikha. Paano natin pahahalagahan ang halaga ng bawat isang tao?
+
+### Ikalawang Bahagi: Komentaryo
+
+**1. Ang Kaligayahan ng Diyos sa Kanyang mga Nilikha Ay Nagpapakita Kung Gaano Niya Tayo Pinahahalagahan sa Kanyang Paningin.**
+
+Ang talinghaga ng alibughang anak ay lubhang nagpapakita kung gaano tayo kahalaga sa pagkilatis ng Diyos. Sa katunayan, ang lahat ng tatlong pinagsamang talinghaga sa Lucas 15, na ipinahayag sa mga nagrereklamong Fariseo at mga eskriba (Lucas 15:2), na idinidiin ang kahanga-hangang halaga ng (nawaglit) mga tao sa mga mata ng Diyos. Kapansin-pansin na ang mga Fariseo at mga eskriba ay hindi nakikita ang halaga sa mga tao (mga makasalanan) na maiinit na tinatanggap ni Jesus (Lucas 15:2). Ipinakita ni Ellen G. White na “ang mga Fariseo ay mayroon lamang paghamak at paghatol sa kanila, ngunit binati sila ni Cristo bilang mga anak ng Diyos, tunay na napalayo mula sa sambahayan ng Diyos, ngunit hindi nakalimutan ng puso ng Ama.”—Christ’s Object Lessons, p. 186.
+
+Sa pamamagitan ng tatlong talinghaga, tinutuligsa ni Jesus ang mapanuyang isipan ng mga Fariseo, na binibigyang-diin ang kasiyahan ng Diyos na tubusin at tanggapin ang isang nawaglit. Sa ibang salita, ang salita ng kagalakan at kasiyahan ng bawat talinghaga ay nagpapakita kung gaano kahalaga ang bawat isang nawaglit. Sa talinghaga ng naligaw na kordero, ang pastol ay masigasig na humayo para sa isa na naligaw “hanggang sa kanyang matagpuan” (Lucas 15:4). Bumalik siya na “pinapasan niya ito sa kanyang balikat na nagagalak” (Lucas 15:5). Kung mas nauunawaan natin kung gaano nagagalak ang pastol, higit nating mapagtatanto kung gaano kahalaga sa kanyang mga mata ang kordero na nawaglit. Sa katunayan, ang kagalakan at kasiyahan ng pastol ay nag-uumapaw, habang kanyang inaanyayahan ang mga kapit-bahay at mga kaibigan na magdiwang na kasama niya (Lucas 15:6).
+
+Ang parehong halimbawa ay makikita sa iba pang dalawang talinghaga.Sa talinghaga ng nawawalang pilak, maingat na hinanap ng babae ang pilak “hanggang sa matagpuan niya” (Lucas 15:8). Pagkatapos, habang may lubos na kaligayahan ay kanyang inanyayahan ang kanyang mga kapit-bahay at kaibigan na magalak na kasama niya (Lucas 15:9). Tungkol naman sa talinghaga ng alibughang anak, na siyang pagtatapos ng tatlong talinghaga, ang alibughang anak ay hindi lamang naligaw, kundi sinabi rin sa atin na matigas ang ulo na nagtuloy na humayo patungo sa kanyang kalagayan, habang sa una ay hindi niya napagtanto ang kanyang tunay na kahihinatnan ng kanyang mapusok at hangal na mga desisyon. Sa kalaunan, nang matauhan siya, nadama ng alibughang anak na ang kanyang dignidad at halaga sa harap ng kanyang ama ay nawala dahil sa kanyang mga kasalanan: “hindi na ako karapat-dapat na tawaging anak mo” (Lucas 15:19).
+
+Ganun pa man, ang ikinilos ng ama ay kaiba sa makatwirang inaasahan ng anak. Sa halip, ang ama ay “tumakbo, niyakap ito, at hinagkan” (Lucas 15:20). Nakakabigla, hindi lamang ito ang mga pagpapakita ng mabuting hangarin at kagalakan sa panig ng ama. Habang hindi pinansin ang hiling ng anak na tanggapin ito bilang isang alipin, binigyang diin ng ama ang dignidad ng anak sa pamamagitan ng pag-uutos sa isang alipin na “dalhin ang pinakamagandang kasuotan,” “isang singsing” at “mga sandalyas” sa kanya (Lucas 15:22). Ngunit hindi sapat iyon. Ang pagpapatibay ng halaga ng anak sa pamamagitan ng nagpapatanyag na kasuotan ay pinatindi sa pamamagitan ng kahanga-hangang pagdiriwang na inihanda ng ama: “At kunin ninyo ang pinatabang guya at patayin ito, at tayo’y kumain at magdiwang” (Lucas 15:23). Sa maikling salita, hindi lamang tinanggap ng ama ang anak kundi naliligayahan din siya sa pagbabalik nito.
+
+Sa ngayon, natuklasan natin sa talinghaga ng alibughang anak ang kaparehong pangkalahatang halimbawa na kinilala sa naliligaw na kordero at nawawalang pilak: na ang mga ito’y nawala, natagpuan at nagkaroon ng pagdiriwang dahil sa mga balitang ito. Ganun pa man, ang talinghaga ng alibughang anak ay lumampas pa, nang malubhang binatikos ng panganay na anak ang pagdiriwang (Lucas 15:28–30). Napapanahon ang puntos na ito dahil inilalarawan nito ang isipan ng mga Fariseo sa panimula ng kapitulo (tingnan ang Lucas 15:2). Ang panganay sa talinghaga at ang mga Fariseo ay malubhang binatikos ang pagtanggap sa mga makasalanan at ang pagdiriwang na kasama sila sa hapag kainan. Ang pagbatikos na ito ay naghahayag kung paano nila pinabababa ang halaga ng taong mainit na tinanggap. Sa kabilang panig, ang talinghaga ay nagtuturo kung paano pinahahalagahan ng Diyos ang kanyang mga anak na lalaki at babae at nagdiriwang kapag sila ay nagsisi at hinanap Siya. Sa dahilang ito, nagtapos ang talinghaga sa pagtugon ng ama sa pagbatikos ng nakatatandang kapatid sa pamamagitang ng sumusunod na salita: “nararapat lamang na [tayo’y] magsaya at magdiwang” (Lucas 15:32).
+
+Ang salitang Griyego para sa isinaling pananalitang “nararapat lamang” ay ang pandiwang dei, na literal na nangangahulugang “ito ay kailangan, kinakailangan ng isa, kailangan ito” o binibigyang-diin na ang isang bagay ay “dapat mangyari dahil sa nababagay ito” (Frederick W. Danker, et al., A Greek-English Lexicon of the New Testament and Other Early Christian Literature [Chicago: University of Chicago Press, 2000], p. Isinalin ito ng ilang bersyon ng Biblia bilang “Ito ay nababagay” (ESV, RSV) o “kailangan natin” (NASB, NRSV, NIV) sa Lucas 15:32. Ang pinagbabatayan ng konsepto sa wikang ito ng pangangailangan ay ang napakadakilang halaga ng isa na nawala ngunit ngayon ay natagpuan. Mula sa pananaw na ito binigyang-diin ng ama na “kailangan tayong” magdiwang. Wala nang iba pang dapat gawin ayon sa liwanag ng halaga ng isa na natagpuan. Kapareho ng damdamin sa nakaraang dalawang talinghaga, hindi nais ng ama na magdiwang nang mag-isa. Ang mga alipin ay tila kasama (Lucas 15:22–27), at mariing nanawagan ang ama sa nakatatandang anak na makibahagi rin. Ang alibughang anak ay hindi lamang “ng anak mo,” kung gagamitin ang wika ng nakatatandang kapatid na lalaki (Lucas 15:30), kundi, gaya ng panawagan ng ama, “ang iyong kapatid” (Lucas 15:32).
+
+Kaya’t ang mga talinghagang sinabi ni Jesus, sa Lucas 15, ay nagtuturo na ang kaligayahan ng Diyos dahil sa kaligtasan ng Kanyang mga anak na lalaki at babae ay nagpapakita kung gaano tayo pinahahalagahan sa Kanyang paningin. Gusto Niya na hindi lamang natin madama na pinahahalagahan tayo ng Kanyang nagmamahal na kaligayahan, kundi kailangan din nating magdiwang kasama Siya (at kung ganon ay buong pusong pahalagahan) ang kaligtasan ng ating kapwa mga kapatid na lalaki at babae.
+
+**2. Ang Kagalakan ng Diyos ang Dahilan ng Kagalakan at Pagpupuri ng Sangkatauhan.**
+
+Ang Sefanias 3:17 at Awit 149:4 ay halos magkapareho sa kanilang pagdidiin sa kagalakan ng Diyos, ang Awit 149 ay isang imbitasyon para purihin ang Diyos na may kagalakan: “Magalak nawa ang Israel sa kanyang Lumikha, ang mga anak ng Zion sa kanilang Hari nawa’y matuwa” (Awit 149:2). Ang dahilan para sa paanyayang ito ay inihayag sa Awit 149:4: “Sapagkat ang Panginoon ay nalulugod sa kanyang bayan.” Kaya’t tinitiyak ng awit na ang kagalakan ay isang dalawahang pakikipagrelasyon. Nagagalak ang Diyos sa mga tao, at, ayon sa pinagbabatayang ito, ang mga tao ay inaanyayahan para maranasan ang kagalakan sa Panginoon habang pinupuri Siya na may kagalakan.
+
+Kagaya nito, hinihikayat ng Sefanias 3:14 ang bayan ng Diyos na magalak na purihin ang Panginoon, “Umawit ka ng malakas, O anak na babae ng Zion; sumigaw ka O Israel! Ikaw ay matuwa at magalak nang buong puso.” Ang panghihikayat na ito ay sinundan ng pagdidiin sa Sefanias 3:17 na ang makapangyarihan at nagliligtas na Diyos ay nasa kalagitnaan ng Kanyang bayan at “Siya’y magagalak sa iyo na may kagalakan; siya’y tatahimik sa kanyang pag-ibig; siya’y magagalak sa iyo na may malakas na awitan.” Habang sa Awit 149, ang kagalakan ng Diyos ang dahilan para magpuri at magalak ang sangkatauhan, sa Sefanias 3, ang mga papuri sa Kanya ay inaasahan na ipapakita ang hinaharap na kagalakan at kaligayahan ng Diyos sa Kanyang bayan.
+
+**3. Kailangan Natin si Cristo Para Mabigyang-kasiyahan ang Diyos.**
+
+Kasama sa iba’t ibang paraan na inaanyayahan tayo ng Kasulatan na bigyang-kasiyahan ang Diyos (halimbawa, tingnan ang Hebreo 11:5, 6; 2 Corinto 5:9; Colosas 1:10; 1 Tesalonica 4:1), Hinihimok tayo ng Hebreo 13:15 na patuloy na maghandog ng espiritwal na handog sa Diyos, na kasama dito ang mga papuri ng ating mga labi sa pagpapasalamat sa Kanya at ang paggawa ng mabuti at pagbabahagi. Nagtatapos ang kasunod na talata, sapagkat ang “Diyos ay nalulugod sa mga gayong handog” (Hebreo 13:16). Kapansin-pansin na ang mga unang salita sa Hebreo 13:15 ay nagsasaad na inaasahan na hindi tayo dapat na maghandog ng mga alay na ito sa ating mga sarili lamang. Sa halip, kailangan nating ihandog ang mga espiritwal na handog sa Diyos “sa pamamagitan ni Jesus.” Sa pamamagitan lamang ni Cristo na ang ating mga papuri at mga gawa ay maaaring ihandog bilang mga espiritwal na handog na tunay na malulugod ang Diyos.
+
+### Ikatlong Bahagi: Pagsasakabuhayan
+
+Ang mga tao ay pinagkalooban ng pambihirang halaga. Ikaw ay mahalaga sapagkat ikaw ay nilalang ayon sa larawan ng Diyos. Nakakagulat na isipin na ang mga tao ay higit na pinahahalagahan ng Diyos kaysa sa maaari nating isipin. Habang iniisip ito, pag-usapan ang mga tanong sa ibaba:
+
+1. Paanong ang ating paggalang at pagmamahal sa mga taong nakakasalamuha natin sa araw-araw ay magpapakita sa kanila kung gaano sila kahalaga sa paningin ng Diyos?
+2. Sa anong mga paraan na ang mga nag-aangking relihiyosong tao sa kasamaang palad ay itinatanggi ang dignidad at halaga ng iba?
+3. Ang mga umiibig sa Diyos ay gustong malaman kung paano Siya mapapaligaya. Subalit, sa aktuwal na kalagayan, paano nga ba natin mapapaligaya ang Diyos? Sa anong paraan na ang ating pagpapahalaga sa iba ay nauugnay sa kagalakan ng Diyos sa kaligtasan ng Kaniyang bayan?
+4. Ano ang magagawa mo para pahalagahan ang bawat tao hanggang sa punto na masiyahan sa kanyang kaligtasan at sa pagpapahayag ng kabutihan at matatag na pag-ibig ng Diyos?
+5. Magbigay ng isang praktikal na halimbawa kung paano ang pamamagitan ni Cristo ay nagbibigay-daan sa atin na mapalugdan ang Diyos sa ating mga kilos.
+
+`Notes`

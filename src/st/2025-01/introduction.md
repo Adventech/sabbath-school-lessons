@@ -1,0 +1,21 @@
+### Molimo oa Lerato le Toka
+
+Molimo O lerato. Ho cho 1 Johanne 4:8 le 16. Bibele eohle e tiisa ’nete ena. Tumelo ea BaKreste e itšetlehile holima semelo sa Molimo sa Lerato. Lerato ke khubu ea seo Molimo O leng sona, khubu ea sohle seo re se Lumelang, ’me le lokela ho ba khubu ea sohle seo re se etsang. Ka baka lena, tsela eo re utloisisang lerato ka eona e na le khahlamelo tumelong le liketsong tsa rona. Mohlala, haeba motho a Lumela hore lerato la Molimo le tlameha ho sebeletsoa, motho o tla utloa e ka Molimo ha A mo rate hoba e le moetsalibe, ’me ha lea mo lokela. ’Me ha ho tluoa likamanong le ba bang, motho a ka lebella ba bang ho sebeletsa lerato— eleng pitsa e tšollisang feela.
+
+Ka mokhoa ona le e meng e mengata, tsela eo re utloisisang lerato la Molimo e bolela ntho tse kholo tumelong le ketsong tsa rona. Leha ho le joalo, lerato ke eng? E bang u ka botsa batho ba leshome ho hlalosa lerato, u ka nna oa fumane likarabo tsa leshome tse fapaneng. Etsoe le hona hara BaKreste, ho na le litšomo-tšomo le ho se utloisise lerato la Molimo ho hongata.
+
+Mohlala, BaKreste ba fana ka karabo tse fapaneng lipotsong tse kang tsena:
+
+Na lerato la Molimo le fana fela, ha ho mohla le amohelang? Na Lerato le halalelang le hloekile ha le ichebe bo lona, kapa Molimo le Eena a ka nka karolo ke ho thabisoa ke batho? Na lerato la Molimo le na le maikutlo? Na Molimo O feela a khathalla batho? Na motho a ka hana kapa a iphapanyetsa lerato la Molimo? Na Molimo O fapanyetsana lerato le libopuoa? Na khalefo le lerato li’a loantšana? Lerato le toka li nyallana joang? Haeba Molimo O lerato, hobaneng ho e-na le bokhopo lefatšeng lee, le hona bo le bongata hakaale-kaale? Na batho ba ka rata joalo ka Molimo? Ebang ho ka ba joalo, ho ka ba joang?
+
+Likarabo tsa tse ling tsa lipotso tsena li ka bonahala li hlakile emapa hangata li etsetsoa khang ha BaKreste ba buoa ka lerato le halalelang. Hape, hangata likarabo tse nkuoang li hlakile, ha li shebisisoa ka botebo li bonahala li sa nyallane le se rutoang ke Mangolo ka Lerato la Molimo.
+
+Ha re na ho arabela lipotso tsena hong kaofela, empa kotareng ena, re tla shebanang le lipotso tsena ’moho le tse ling. ’Me re tla bona hore lerato la Molimo le leholo ho feta ka moo re la nahanang kateng. Lerato la Molimo le bontšitsoeng Mangolong le leholo ho feta kamoo re ka nahanang kateng. Lerato la Molimo le Bontšitsoeng mangolong le leholo ho feta likutloisiso tsa rona tsa “lerato” lefatšeng la rona kajeno. Libekeng tse tla latela, re tla shebisanang tse ling tsa lintho tsa bohlokoa-hlokoa ka lerato la Molimo tse senotsoeng ka Bibeleng.
+
+’Me ha re ntse re tsoela pele, re tla bona kamoo lerato le halalelang le toka li sa arohaneng kateng. Molimo oa Bibele O rata toka (mohlala, sheba, Esa. 61:8). ’Me ho ea kamoo Bibele e li bontšang kateng, lerato le halalelang le toka ke li’a thoteng li bapile, u ka se be le e ’ngoe ntle ho e ’ngoe. Kaha Molimo ke Lerato, o khathatsehile haholo ke ho hloka toka le ho sotleha ho teng lefatšeng lena, ’me o ikamahanya le ba hatelletsoeng ba sotloang, o ithaopela ho kena ka hara bohloko le ho llela tse tlisitsoeng ke bobe tlholehong—Ka bo-Eena O utloa bohloko ho feta bohle, eleng se etsang Molimo lehlatsipa le fetang ohle a teng.
+
+Hohle ka Bibeleng, Molimo O lutse a utloisoa bohloko ke bokhopo le ho sotleha hobane O rata motho e mong le e mong ho feta kamoo re ka nahang kateng. Motho a ka bona boteba ba lerato la Molimo sellong sa Kreste sa phohomela bakeng sa batho ba Hae ha A re: “‘Jerusalema! Jerusalema! Uena ea bolaeang baporofeta ea tlepetsang ka majoe ba rometsoeng ho uena, ke hakae ke lakalitseng ho phutha bana ba hao, joalokaha khoho e alama litsuonyana tsa eona, empa oa hana!’” (Mat. 23:37).
+
+Molimo oa Bibele o lerato, hangata ka Bibeleng O bontšoa A robehile pelo a sithabelitsoe ke batho ba hanang lerato. Pale eohle ea Bibele e malebana le se entsoeng ke Molimo le seo A ntseng a se etsa ho khutlisetsa lerato kanteng e ’ngoe le e ’ngoe ea lefatše. Taba ena le tse ling tse ngata ke sehlooho sa thuto ea kotara ena.
+
+_John C. Peckman ke mothusi oa mohlophisi oa Adventist Review. Nakong eo Thuto ena e ngoloang, e ne e le porofesa ea Thuto-Molimo le Thuto-Molimo ea SeKreste Seventh-day Adventist Theological Seminary e Andrews University._

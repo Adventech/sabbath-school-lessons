@@ -1,0 +1,60 @@
+---
+title:  Komento Sa Magtutudlo
+date:   14/03/2025
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto**: Juan 18:37
+
+**Tutokan sa Pagtuon**: Isaias 5:1–4; Mateo 21:33–41; Roma 3:25, 26; Roma 5;8; Pinadayag 15:3; Pinadayag 19:2.
+
+**Pasiuna**: Gidapit kita ngadto sa pagila ug pagmantala sa hustisya sa Dios ug sa Iyang mahigugmaong mga tumong ngadto sa Iyang katawhan.
+
+**Mga Tema sa Leksyon**: Ang leksyon niining semanaha magpasantop sa tulo ka dugokan nga puntos.
+
+1. Kinahanglan atong ilhon ang hustisya sa Dios: Gidapit kita sa pag-ila nga ang Dios makiangayon o matarong. Sa sambingay sa parasan, ang hustisya sa Dios gihulagway nga gimatuod ug giila sa mga naminaw. Giasoy ni Jesus kini nga sambingay sa paagi nga ang naminaw moila sa pagkalehitimo sa mga aksyon sa tag-iya kon itandi sa mga magbalantay.
+2.  Kinahanglan atong ilhon ang mahigugmaong mga tumong sa Dios: Diha sa Mateo 21:33–41, ang tigpaminaw nagila nga gibuhat ang tanan sa tag-iya sa yuta kutob sa iyang mahimo sa wala pa magdala sa hukom. Usab, diha sa Isaias 5, ang Dios mismo nagtudlo nga Iyang gibuhat ang tanan kutob sa Iyang mahimo alang sa Iyang katawhan. Ang pangutana mao, “Unsa pa may uban nga akong mabuhat ngadto sa Akong parasan nga wala Nako mabuhat niini?” maoy usa ka hangyo ngadto sa pag-ila sa mahigugmaong mga tumong ug mga aksyon sa Dios alang sa Iyang katawhan (Isaias 5:4).
+3. Kinahanglan atong imantala ang hustisya ug mahigugmaong mga tumong sa Dios: Ang Biblia nagdapit kanato, dili lamang sa pag-ila sa hustisya sa Dios ug sa Iyang mahigugmaong mga buhat kondili sa pagmantala nga ang Dios hingpit sa pagkamakiangayon ug matarong. Diha sa Pinadayag 15:3, ang mga balaan nagawit ug nagmantala:
+
+“Dako ug kahibulongan ang Imong mga buhat, Ginoong Dios nga Gamhanan sa ngatanan! Matarug ug matuod ang Imong mga dalan, O Hari sa mga balaan!”
+
+Kagamitan sa Kinabuhi: Unsaon nato pag-ila ug pagmantala sa hustisya ug sa mahigugmaong mga tumong sa Dios sa atong adlaw-adlaw nga kinabuhi ug sa atong mga panagsultihay bahin sa Dios?
+
+### Bahin II: Komentaryo
+
+**1. Kinahanglan Atong Ilhon ang Hustisya sa Dios.**
+
+Sumala sa Kasulatan, kita, ingon nga maluyahon ug limitado nga mga linalang, walay katungod sa paghukom sa mga paagi sa Dios (tan-awa sa God’s Speech diha sa katapusan sa libro ni Job, Job 38–42; tan-awa usab sa Roma 9:20). Sa sama nga panahon, gidapit kita sa pag-ila nga ang Dios matarong. Ang Roma 3:26 nagpaila nga ang dugo ni Cristo maoy usa ka pagpakita (ang Grego nga pulong mao ang endeixis) sa pagkamatarong sa Dios, tungod kay kita sa mapaubsanon wala maghunahuna “sa mga sala nga atong nabuhat kaniadto” (Roma 3:25). “Busa, ang dugo ni Cristo nagpakita nga ang Dios dili lamang mapasayloon (tigpamatarong) kondili matarong usab. Takus timan-an nga ang Grego nga pangalan (noun) nga endeixis, nga gihubad ingon nga “demonstration”—ingon nga “kini nagpakita,” “kini nagpamatuod” nagpasabot sa kahulugan sa [“usa ka butang”] nga nagpugos sa pagdawat sa usa ka butang, mentally o emotionally, demonstration proof.”—Frederick W. Danker, A Greek-English Lexicon of the New Testament and Other Early Christian Literature (Chicago: University of Chicago Press, 2000), p. 332.
+
+Busa, ang paggamit niini nga noun diha sa Roma 3:26 nagpasantop nga ang Dios dili lang matarong, kondili naghandum Siya sa pagpakita, sa pagpamatuod nganhi kanato nga Siya matarong. Nangatarungan si Thomas Schreiner nga dinhi niini nga pahayag atong makaplagan ang “handum sa Dios sa pagpakita sa Iyang pagkamatarong.” Nagdugang siya, “Pinaagi sa pagpakita sa Iyang pagluwas ug paghukom sa pagkamatarong, gipaila sa Dios ang Iyang ngalan atubangan sa kalibutan.”—Romans: Baker Exegetical Commentary of the New Testament (Grand Rapids, MI: Baker Books,1998), pp. 198, 199.
+
+Diha sa sambingay sa parasan (Mateo 21:33–41; tan-awa usab sa Marcos 12:1–12, Lucas 20:9–19), ang hustisya sa Dios sa hulagwaynon gimatuod, ug busa, giila, sa tigpaminaw. Sa pasunod nga pag-asoy sa sambingay, naghatag si Jesus og progression sa makatarunganon nga mga desisyon nga gibuhat sa tag-iya sa parasan, agig tubag ngadto sa dili makatarunganon nga mga pagtagad sa mga magbalantay nga maoy giprendahan sa parasan, tungod kay ang tag-iya milangyaw ngadto sa halayong yuta, dili makatarunganon alang kaniya ang pagpadala og mga sulogoon aron modawat sa bunga sa parasan, nga haduol sa panahon. Dili makatarunganon ang kamatuoran nga ang mga mamumuo o magbalantay sa parasan managmal sa mga sulogoon sa makaduha ug gani gipapatay sa usa kanila. Sa makausa pa, dili makatarunganon alang sa tag-iya sa yuta nga sa katapusan magpadala sa iyang anak, sa pagtuo nga ang mga magbalantay sa parasan magpakita og pagtahod kaniya. Apan, sa labaw pa gani ka pagkadili-maayo nga reaksyon ang mga magbalantay sa parasan sa kaboang mipatay sa anak, usab, aron pagkawat sa iyang panulondon.
+
+Giasoy ni Jesus kini nga sambingay sa paagi nga ang Iyang tigpaminaw makahimo sa pagsabot, ug sa anam-anam moila, sa pagka-lhitimo sa mga lihok sa tag-iya sa yuta, lahi sa pagkaboang sa mga nagbantay sa parasan. Takus gani si Jesus sa pagdala sa pagtapos sa sambingay gikan sa mga ngabil sa tigpaminaw. Iyang gipangutana sila, “Busa, sa pag-abot sa tag-iya sa parasan, unsa may iyang buhaton ngadto sa mga magbalantay sa parasan?’ Mitubag sila Kaniya, ‘Iyang laglagon kadtong mga tawong daotan sa walay kukalooy, ug paabangan ang iyang parasan ngadto sa laing mga magbalantay nga makahimo sa paghatag kaniya sa mga bunga sa ilang mga panahon’” (Mateo 21:40, 41).
+
+Busa, ang tigpaminaw sa sambingay makahimo sa pagpanapos nga wala nay laing mabuhat pa sa tag-iya sa yuta. Samtang ilang nasabtan sa tin-aw, nga iyang nabuhat ang tanang butang nga iyang mahimo sa pagtagad sa mga magbalantay sa parasan sa husto nga paagi. Busa, giila siya nga matarong sa mga mata sa tigpaminaw sa gipaabot nga silot sa daotan nga magbalantay sa parasan. Tungod kay kini nga sambingay maoy usa ka hulagwaynon nga pagtulon-an bahin sa hustisya sa Dios, dili lang Siya matarong, kondili giila Siya sa ingon niana. Kini nga pagsabot daw kabahin sa tumong ni Jesus, samtang kita maniid, gikan sa interactive nga paagi sa Iyang pagtapos sa sambingay. Kini nga pagsabot bahin sa hustisya sa mga mata sa tigpaminaw miabot gikan sa usa ka tin-aw nga pag-ila nga ang tag-iya nakabuhat na sa tanang butang nga iyang mahimo aron sa pagpadayon sa usa ka husto o maayo nga relasyon ngadto sa nagbuhat sa pagkadaotan, sa wala pa hukmi sila sa pagkalaglag.
+
+**2. Kinahanglan Atong Ilhon ang Mahigugmaon nga mga Tumong sa Dios.**
+
+Kon, diha sa sambingay sa parasan, sumala sa giasoy ni Jesus, diha sa Mateo 21:33–41, ang konklusyonsa tigpaminaw nagpasabot nga ilang nasabtan nga ang tag-iya sa yuta nakabuhat na sa tanang butang nga iyang maarangan sa wala pa ipadala ang paghukom, dayon diha sa “alawiton sa akong Pinalangga bahin sa parasan,” diha sa Isaias 5, ang Dios mismo nagmatuod nga Iyang nabuhat ang tanang butang nga Iyang mahimo alang sa Iyang katawhan. Samtang diha sa sambingay sa parasan nga giasoy ni Jesus, ang problema mao ang mga magbalantay sa parasan, nga maoy usa ka hulagway nga nagpahinungod ngadto sa “pangulo nga mga sacerdote ug mga Pariseo” (Mateo 21:45). Apan diha sa alawiton sa Isaias 5, ang problema mao ang parasan mismo, nga sa hulagwaynon nagpahinungod ngadto “sa balay sa Israel” (Isaias 5:7), ang “katawhan sa Juda” (Isaias 5:3, 7).
+
+Sama sa tag-iya sa yuta sa sambingay nga nakabuhat na sa tanang butang kutob sa iyang maarangan aron mapadayon ang maayo nga relasyon uban sa mga magbalantay sa parasan, ang Pinalangga diha sa alawiton nakabuhat na sa tanang butang sumala sa iyang gahum sa pagpabunga sa parasan sa maayo nga mga paras. Sa dugang ka espisiko, iyang gipili “ang usa ka mabungahon kaayo nga bungtod” (Isaias 5:1), “gikalotan kini ug gihinloan gikan sa mga bato,” “gitamnan kini sa labing pinili nga balagon,” “gitukoran og usa ka torre sa taliwala, “ ug “gibuhatan og pigsanan sa paras” (Isaias 5:2). Kining tanang pangandam gimatuto pinaagi sa positibo nga pagpaabot nga ang parasan “mamunga og maayong mga ubas, o paras” apan walay suwerte “namunga kini og ihalas nga mga paras” (Isaias 5:2). Sa lig-on nga pagkasulti, ang Dios “nangita alang sa hustisya” taliwala sa Iyang katawhan, apan ang iyang nakita mao ang pagpanglupig. Nangita Siya sa “pagkamatarong,” apan ang Iyang nadungog mao ang “usa ka paghilak alang sa panabang” (Isaias 5:7).
+
+Samtang nangutana si Jesus sa Iyang tigpaminaw sa pagtubag kon unsay makatarunganon nga buhaton sa tag-iya sa yuta human nabuhat ang tanang butang nga iyang nahimo diha sa gipasabot sa sambingay, gidapit sa Dios ang katawhan sa Juda, diha sa Isaias, ngadto sa “paghukom” tali Kaniya ug sa Iyang parasan (Isaias 5:3). Kini nga paghukom kinahanglan maglakip sa mosunod nga pangutana, “Unsa pa man kaha ang laing mabuhat ngadto sa Akong parasan nga wala pa Nako mahimo niini?” (Isaias 5:4). Kini nagbalikbalik nga pangutana kinahanglan maghatud ngadto sa conclusion nga ang Dios nakabuhat na sa tanang butang nga Iyang mahimo alang sa Iyang katawhan sa pagpabunga og “maayong mga bunga,” sa usa ka pagkasulti. Busa, kini nga pangutana, sa katapusan, maoy usa ka pagdapit ngadto sa pag-ila sa tanang mahigugmaong mga tumong, mga lihok, ug mga pagpaabot nga gibatonan sa Dios alang sa Iyang katawhan.
+
+Dugang pa, dili lang kay gihigugma sa Dios ang Iyang katawhan, sumala sa gipasantop diha sa Roma 5:8, kondili Iya usab gipakita kini nga gugma ngadto kanila. Kon unsa may gipakita mahimong labaw ka natural mailhan o maila nato. Sama sa gisulti sa Roma 3:26 ang pinulungan sa pagpakita (endeixis) gigamit sa pagmatuod nga ang Dios matarong, pinaagi sa dugo ni Cristo, mao man usab sa paggamit sa Roma 5:8 niini nga pinulungan kadugtong sa kamatayon ni Cristo alang kanato, karon uban sa berbo nga synistemai, sa pagmatuod nga ang Dios nahigugma kanato. Kining Grego nga berbo nagpasabut sa kahulugan sa paghatag og “ebidensya bahin sa usa ka personal nga kinaiyahan o pagangkon pinaagi sa aksyon, pagpadayag, pagpakita, sa pagpagula.”—Danker, et al., A Greek-English Lexicon of the New Testament and Other Early Christian Literature, p. 973. Ang nagkalainlaing mga bersyon sa Biblia nagpasantop niini nga hunahuna sa paggamit sa susama nga mga pulong: “Gipakita sa Dios ang Iyang gugma alang kanato.” “Gipamatuod sa Dios ang Iyang gugma alang kanato.”
+
+**3. Kinahanglan Atong Imantala ang Hustisya sa Dios ug ang Mahigugmaong mga Tumong.**
+
+Ang Biblia wala lamang magdapit kanato sa pag-ila sa hustisya sa Dios ug sa Iyang mahigugmaong mga tumong ngadto sa Iyang katawhan. Kita usab kinahanglan magmantala kon unsa ang atong ginaila diha sa Dios. Pananglitan, atong makaplagan kini nga matang sa pagpamantala nga giawit sa mga balaan diha sa Pinadayag. Diha sa Pinadayag 15:3 sila nagawit, “Dako ug kahibulongan ang Imong mga buhat, Ginoong Dios nga Gamhanan sa tanan! Matarong ug matuod ang Imong mga dalan, O Hari sa mga balaan!” Sa sama nga paagi diha sa Pinadayag 19:2, usa ka dakung panon sa langingon diha sa usa ka makusog nga tingog, “Matuod ug matarong ang Imong mga paghukom, kay Siya nagahukom sa dakung bigaon nga nagahugaw sa yuta sa iyang pakighilawas ug Siya nanimalus kaniya sa dugo sa Iyang mga sulogoon nga giula pinaagi kaniya.”
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+Ang Roma 3:26 nagpasantop nga ang Dios dili lamang matarong kondili naghandum usab sa pagpakita o pagpamatuod nga Siya matarong. Niini nga panghunahuna, hisguti ang mosunod nga mga pangutana sa imong klase:
+
+1. Daw unsa ka makapasalig ang pagkahibalo nga ang Dios nagbuhat sa tanang butang aron sa pagpakita sa Iyang pagkamatarong ug hustisya alang sa Iyang katawhan? Unsay imong gibati tungod niini bahin sa Dios?
+2. Sa unsa nga paagi ang pag-ila sa hustisya sa Dios ug sa Iyang mga tumong sa gugma ngadto sa Iyang katawhan nagpahibalo sa atong pagmantala sa Iyang pagkamatarong ngadto sa uban? Sa unsa nga paagi kini nga pag-ila mapasantop sa atong pagwali sa maayo nga balita?
+3. Unsaon nato sa pagkatinuyo sa pagpakita sa atong gugma alang sa Dios, bisan sa mga panahon sa pagantus?
+
+`Notes`

@@ -1,0 +1,50 @@
+---
+title:  Material Pentru Instructori
+date:  14/02/2025
+---
+
+### Privire generală
+
+În efortul nostru de a înțelege prezența răului în lume, trebuie să ne recunoaștem limitele și să adoptăm, cu speranță, o eventuală soluție.
+
+### Teme
+
+**1 Biblia conține întrebări deschise pe tema răului** – În momente de suferință, este greu să împaci iubirea și imensa bunătate a lui Dumnezeu cu prezența răului. În Scriptură identificăm personaje care pun întrebări de tipul Până când…? cu privire la suferință, întrebări care transmit faptul că respectivii oameni așteaptă intervenția divină. Și noi, când trecem prin dureri sau necazuri, sperăm că Dumnezeu va triumfa asupra răului.
+
+**2 Explicațiile noastre sunt limitate** – Problema răului și a suferinței pun în dificultate omenirea. Iov I-a pus câteva întrebări lui Dumnezeu în contextul în care se simțea neputincios să rezolve problema răului. În loc să îi ofere răspunsuri, Dumnezeu ridică și El mai multe întrebări. Iov își recunoaște limitele în ce privește înțelegerea corectă a realității răului.
+
+**3 Suntem încurajați să abordăm problema răului cu speranță** – Ar trebui să învățăm să trăim cu întrebări fără răspuns. Păcatul este un intrus și nu putem găsi nicio explicație pentru prezența lui. Iubirea lui Dumnezeu ne ajută să abordăm problema cu speranță.
+
+**Aplicație:** Atunci când ne confruntăm cu problema dificilă a răului și a suferinței, trebuie să recunoaștem cât de limitați suntem în înțelegerea multor situații personale și generale, ca fel ca Iov. Totuși cum putem fi încurajați să abordăm cu speranță problema răului?
+
+### Comentariu
+
+**Biblia conține întrebări deschise pe tema răului**
+
+Există câteva cazuri în Scriptură în care lui Dumnezeu I se pune întrebarea Până când…? cu referire la acțiuni rele și la suferința din lume și, la nivel mai personal, din viața celui care rostește întrebarea. Aceasta apare des în Psalmii 13:1,2, pentru că psalmistul este preocupat de suferința constantă și de progresul vrăjmașilor săi. „Până când, Doamne, mă vei uita neîncetat? Până când Îţi vei ascunde Faţa de mine? Până când voi avea sufletul plin de griji şi inima plină de necazuri în fiecare zi? Până când se va ridica vrăjmaşul meu împotriva mea?”
+
+La fel, în Psalmii 94:3, psalmistul este tulburat de ceea ce pare a fi triumful pe nedrept al celor răi. „Până când vor birui cei răi, Doamne, până când vor birui cei răi?” În plus, introducerea din Habacuc 1:2-4 este o interogare puternică a lui Dumnezeu, folosind expresia până când. Habacuc întreabă: „Până când voi striga către Tine, Doamne, fără s-asculţi? Până când mă voi tângui Ţie, fără să dai ajutor? Pentru ce mă laşi să văd nelegiuirea şi Te uiţi la nedreptate? Asuprirea şi silnicia se fac sub ochii mei, se nasc certuri şi se stârneşte gâlceavă. De aceea legea este fără putere şi dreptatea nu se vede, căci cel rău biruiește pe cel neprihănit, de aceea se fac judecăţi nedrepte.” În mod paradoxal, deși este sigur de dreptatea lui Dumnezeu, profetul Ieremia își pune întrebări cu privire la judecățile divine. „Tu eşti prea drept, Doamne, ca să mă cert cu Tine; vreau totuşi să Te întreb asupra orânduirilor Tale. Pentru ce propăşeşte calea celor răi şi toţi mişeii trăiesc în pace?” (Ieremia 12:1). În plus, el folosește expresia până când pentru a-L întreba pe Dumnezeu: „Până când să se jelească ţara şi să se usuce iarba de pe toate câmpiile? Pier vitele şi păsările din pricina răutăţii locuitorilor” (Ieremia 12:4).
+
+În cartea Apocalipsa, ruperea celei de-a cincea peceți dezvăluie imaginea metaforică a oamenilor care „fuseseră junghiați din pricina Cuvântului lui Dumnezeu și din pricina mărturisirii pe care o ținuseră” (Apocalipsa 6:9). Mai precis, aceștia se află „sub altar” și strigă către Dumnezeu folosind întrebarea Până când…? – „Până când, Stăpâne, Tu, care ești sfânt și adevărat, zăbovești să judeci și să răzbuni sângele nostru asupra locuitorilor pământului?” (Apocalipsa 6:10). În general, aceste întrebări care încep cu până când sugerează nedumerire în fața problemei răului și transmit o dorință profundă după dreptatea divină. Deși în Psalmii 10:1,2 nu se folosește expresia până când, aceeași nedumerire și speranță puternică în intervenția divină reiese din întrebarea adresată lui Dumnezeu în acest pasaj. „Pentru ce staiaşa de departe, Doamne? Pentru ce Te ascunzi la vreme de necaz? Cel rău, în mândria lui, urmăreşte pe cei nenorociţi şi ei cad jertfă curselor urzite de el.”
+
+**Explicațiile noastre sunt limitate**
+
+Poate cea mai tulburătoare carte din Scriptură pe tema răului este Iov. În Iov 30:26,27,31 pare să se ofere un rezumat al sentimentelor lui Iov în contextul unei tristeți profunde. „Mă aşteptam la fericire, şi, când colo, nenorocirea a venit peste mine; trăgeam nădejde de lumină, şi, când colo, a venit întunericul. Îmi fierb măruntaiele fără încetare, m-au apucat zilele de durere” (Iov 30:26,27). Mai mult, el folosește limbajul metaforic al instrumentelor muzicale pentru a-și descrie sentimentele negative. „Harpa mea s-a prefăcut în instrument de jale și cavalul meu scoate sunete plângătoare” (Iov 30:31). Deși ne-am aștepta ca apariția lui Dumnezeu la sfârșitul cărții să ne ofere în sfârșit explicațiile necesare pentru încheierea narațiunii, rămânem cu și mai multe întrebări. În loc să ofere răspunsuri, Dumnezeu îi pune lui Iov câteva întrebări (vezi Iov 38; 39). În esență, Domnul îl întreabă despre tainele creației pentru a compara cât de mic este Iov ca ființă creată cu cât de mare este Creatorul. Când își dă seama de acest contrast puternic și recunoaște cu umilință înțelegerea sa limitată despre viață și despre lumea creată, Iov se vede pe sine ca „acela care are nebunia să [...] întunece planurile”, întrucât, mărturisește el: „Am vorbit, fără să le înțeleg, de minuni care sunt mai presus de mine și pe care nu le pricep” (Iov 42:3).
+
+Prin urmare, atunci când ne confruntăm cu întrebări dificile despre rău și suferință, trebuie să recunoaștem cât de limitați suntem când vine vorba de a înțelege și a explica pe deplin multe lucruri care se întâmplă cu noi și în jurul nostru. În mod paradoxal, trebuie să trăim cu multe întrebări fără răspuns și în același timp să facem tot posibilul ca ființe umane limitate să înțelegem și să explicăm lucrurile în concordanță cu ceea ce ne-a descoperit Dumnezeu. Un mod de a înțelege și a explica, cel puțin parțial, motivele pentru existența răului și a suferinței este acela de a explora ideea de voință liberă, liberul-arbitru. Acesta este un dar prețios din partea lui Dumnezeu pentru ființele Sale inteligente, dar acest dar a fost, din păcate, folosit în mod greșit în lumea perfectă creată de Dumnezeu. După cum evidențiază Ellen G. White, „Adam a fost un agent moral liber. Dar a abuzat de libertatea lui. S-a lăsat învins de poftă. Prin neascultare, și-a pierdut inocența. De bunăvoie, a devenit un păcătos, separându-se de favoarea lui Dumnezeu” (Manuscrisul 132, 1902). „Înțelepciunea infinită îi pune omului în față diferența dintre bine și rău, dintre păcat și sfințenie; dar guvernarea lui Dumnezeu este o guvernare a liberului-arbitru și nu există niciun act de răzvrătire sau de ascultare care să nu fie un act realizat prin voință liberă” (Manuscrisul 79, 1896).
+
+Astfel, voința liberă folosită în mod greșit transformă lumea perfectă creată de Dumnezeu într-o lume a răului, păcatului, suferinței și morții. Deși ideea liberului-arbitru folosit greșit nu explică totul în problema răului și a suferinței, este o parte importantă a înțelegerii și explicației limitate pe care suntem capabili să o articulăm pe această temă, cel puțin în conformitate cu ceea ce ne-a fost dezvăluit de către Dumnezeu.
+
+Suntem încurajați să abordăm problema răului cu speranță Este important de subliniat că Biblia conține întrebări deschise pe tema răului. Explicațiile noastre legate de dilema răului sunt limitate, ceea ce indică faptul că răul nu trebuie justificat. Ellen G. White prezintă concis acest argument, spunând: „Este imposibil să explicăm originea păcatului ca și când i-am găsi un motiv al existenței. Dar se poate înțelege suficient atât despre originea păcatului, cât și despre eliminarea lui finală încât să se manifeste pe deplin dreptatea și mila lui Dumnezeu în toate măsurile Sale în privința păcatului. Nimic nu este mai clar explicat în Scripturi decât că Dumnezeu n-a fost în nicio privință răspunzător de apariția păcatului; că n-a fost o retragere arbitrară a harului divin, nici o lipsă în conducerea divină care să dea ocazie la apariția răzvrătirii. Păcatul este un intrus, pentru a cărui existență nu se poate da nicio explicație. El este misterios, de neexplicat; a-l scuza înseamnă a-l apăra. Dacă s-ar putea găsi o scuză pentru el sau vreo cauză a existenței lui, ar înceta să mai fie păcat. Unica definiție a păcatului este aceea pe care o găsim în Cuvântul lui Dumnezeu; el «este călcarea legii»; este acțiunea unui principiu antagonic marii legi a dragostei, care este temelia guvernării divine” (Tragedia veacurilor, p. 492, 493).
+
+Prin urmare, în abordarea problemei răului trebuie să ne concentrăm asupra caracterului iubitor al lui Dumnezeu și nu asupra răului în sine. Pe baza caracterului Său iubitor, putem aborda, cu speranță, dilema majoră a răului, nu pentru a justifica răul, ci pentru a ne concentra pe ceva mai mare, și anume, pe glorioasa speranță (Romani 8:18) că Dumnezeu „va șterge orice lacrimă din ochii [noștri]” (Romani 21:4).
+
+### Aplicație
+
+1 Ai fost cuprins vreodată de tristețe și durere adâncă, simțind că Dumnezeu nu te auzea atunci când strigai? Dacă da, cum poate experiența lui Iov să te ajute să te încrezi în Dumnezeu, în ciuda triumfului aparent al răului?
+
+2 În vremuri dificile, cum poți trece de la a aborda problema răului la experimentarea suferinței și speranței în același timp?
+
+3 Cum poți discuta despre problema răului într-un mod care poate fi de ajutor generației mai tinere din biserică?
+
+4 Ce sfat sau explicație ai oferi cuiva care se confruntă cu circumstanțe extrem de dificile?
