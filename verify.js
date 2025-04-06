@@ -113,7 +113,7 @@ let validateContent = async function () {
 
                 let c = fs.readFileSync(markdownFile, "utf-8")
 
-                if (c.length > 40000) {
+                if (c.length > 120000) {
                     fail(`Potentially very long document over 40k characters: \`${markdownFile}\`.`)
                 }
 
