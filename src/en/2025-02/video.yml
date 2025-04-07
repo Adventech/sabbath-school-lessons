@@ -21,9 +21,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2025-02-01.mp4
           target: en/2025-02/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2025-02-01.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2025-02-02.mp4
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2025-02-02-updated.mp4
           target: en/2025-02/02
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2025-02-02.webp
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2025-02-02-updated.webp
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2025-02-01.mp4
@@ -37,3 +37,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2025-02-01.mp4
           target: en/2025-02/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2025-02-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2025-02-02.mp4
+          target: en/2025-02/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/hopess/en-hopess-2025-02-02.webp
