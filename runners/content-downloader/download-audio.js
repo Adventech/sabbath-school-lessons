@@ -19,7 +19,7 @@ let downloadEGWaudio = async function() {
     const podcastQuarterNext = nextQuarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
     const LESSON_NUMBER = new RegExp(`(${podcastQuarter}|${podcastQuarterNext})\\s*Lesson\\s*(\\d+)`, 'gm')
 
-    const TIMESTAMPS = /(\d\d:\d\d)/gm
+    const TIMESTAMPS = /(\d\d?:\d\d(?! Duration))/gm
     let response
     try {
          response = await axios.get(URL);
@@ -63,7 +63,7 @@ let downloadEGWaudio = async function() {
                 do {
                     timestamp = TIMESTAMPS.exec(description);
                     if (timestamp) {
-                        timestamps.push(timestamp[1])
+                        timestamps.push(timestamp[1].length === 5 ? timestamp[1] : '0'+timestamp[1])
                     }
                 } while (timestamp);
 
