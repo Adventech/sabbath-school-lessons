@@ -3,22 +3,26 @@ title:  Misijný príbeh
 date:   18/04/2025
 ---
 
-#### Velký kbelík másla
+#### Vedro masla
 
 _Andrew McChesney_
 
-Po krádeži rodinné krávy, pořídila matka psa, aby hlídal jejich novou krávu. Matka také chtěla, aby pes hlídal desátek: velký kbelik másla.
+Pretože im ktosi ukradol kravu, matka si zaobstarala psa, aby strážil ich novú krava a tiež desiatok: veľké vedro masla.
 
-Otec, pastor adventistů sedmého dne, byl daleko v sovětském pracovním táboře kvůli dodržování soboty. Kráva byla jediným zdrojem příjmů pro matku a její dvě malé děti v tehdejší jižní sovětské republice Tádžikistán. Matka krávu dojila a mléko směňovala na trhu za potraviny. Matka také odkládala 10 % mléka jako desátek, stloukala ho na máslo a uchovávala ho v kbelíku. Když byl kbelík plný, prodala ho.
+Otec, kazateľ Cirkvi adventistov siedmeho dňa, bol na základe obvinenia za zachovávanie soboty odsúdený na ťažkú prácu v sovietskom pracovnom tábore. Krava bola jediným zdrojom príjmu pre matku a jej dve malé deti v bývalej sovietskej republike Tadžikistan. Matka dojila kravu a mlieko vymieňala na trhu za jedlo. Desatinu mlieka vždy oddelila ako desiatok, zmútila z neho maslo, ktoré držala vo vedre. Keď bolo vedro plné, predala ho.
 
-Jednoho dne matka podojila krávu a řekla oběma dětem, aby počkaly, zatímco ona půjde na trh. „Neotvírejte dveře,“ řekla. Zkontrolovala, zda je kbelík s máslem poblíž psa, který byl uvázaný na dvoře, a odešla.
+Jedného dňa matka podojila kravu a povedala deťom, aby ju čakali doma, kým pôjde na trh. „Nikomu neotvárajte dvere,“ povedala im. Skontrolovala, či je vedro s maslom blízko pri psovi, ktorý bol uviazaný na dvore, a odišla.
 
-Děti čekaly a čekaly. Pak se brána otevřela a na dvůr vstoupil cizí člověk. Pes neštěkal. Muž, který měl na sobě muslimské oblečení, přistoupil ke psovi. Bylo to, jako by ho pes neviděl. Muž zvedl kbelík s máslem, otočil se a odešel. Později děti matce o tomto muži rozrušeně vyprávěly. Nikdo nechápal, co se stalo.
+Deti poslušne čakali. V jednej chvíli sa brána otvorila a do dvora vošiel akýsi cudzinec. Pes nezaštekal. Muž, ktorý mal na sebe moslimské oblečenie, prešiel okolo psa. Pes akoby ho nevidel. Muž vzal vedro s maslom, otočil sa a odišiel. Keď sa matka vrátila z trhu, deti jej vzrušene rozprávali o záhadnom mužovi. Nikto z nich nechápal, čo sa stalo.
 
-Uplynulo mnoho let. Otec byl propuštěn z pracovního tábora a vrátil se ke svým povinnostem pastora. S matkou měli dalších pět dětí. Jejich nejstarší dcera Nina se vdala a měla vlastní děti. Našla si práci ve firmě vyrábějící hnojiva, kde měla za úkol uklízet v kancelářích. Aby dostala výplatu, musela Nina chodit za účetní společnosti. Jednoho dne, když čekala na výplatu, povyprávěla účetní o kbelíku másla. Účetní zdvořile poslouchala, dokud Nina nepopsala, že viděla muže v muslimském oblečení. V té chvíli účetní vyhrkla: „Kdy se to stalo?“ Nina jí to řekla a účetní se rozplakala. „Chcete vědět, jak ten příběh skončil?“, zeptala se. Řekla, že ona a její čtyři sourozenci vyrůstali na Sibiři. Jejich rodiče zahynuli během druhé světové války a oni žili s babičkou. Doba byla těžká a přišel den, kdy došlo jídlo. Babička vyzvala pět dětí, aby se u prázdného stolu pomodlily. Po modlitbě se ozvalo zaklepání na dveře. Za dveřmi stál muž v muslimském oblečení. V jedné ruce držel kbelík s máslem. V druhé držel bochník chleba.
+Prešlo mnoho rokov. Otec sa vrátil z pracovného tábora a ďalej pracoval ako kazateľ. Rodičom sa narodilo ďalších päť detí. Najstaršia dcéra Nina sa vydala a mala vlastné deti. Pracovala ako upratovačka kancelárií spoločnosti, ktorá vyrábala hnojivá. Pre výplatu si chodievala k účtovníčke tejto spoločnosti. Jedného dňa, keď čakala na výplatu, spomenula účtovníčke vedro s maslom. Účtovníčka pokojne počúvala, až kým Nina nepovedala, že vtedy videla muža v moslimskom oblečení. 
 
-Poté účetní ve firmě na výrobu hnojiv poprosila Ninu, aby jí o Bohu řekla víc. Časem účetní a její dcera odevzdaly svá srdce Ježíši a vstoupily do Církve adventistů.
+Účtovníčka zvolala: „Kedy sa to stalo?“ Nina jej to povedala. Účtovníčka sa rozplakala. „Chcete vedieť, ako sa ten príbeh skončil?“ spýtala sa.
 
-Dodnes nikdo nezná totožnost tajemného muže. Ale Ljubov Brunton, Ninina dcera, nepochybuje o tom, že to byl anděl.
+Začala rozprávať, že ona a jej štyria súrodenci vyrastali na Sibíri. Rodičia boli zabití počas druhej svetovej vojny, preto žili u babičky. Boli to ťažké časy. Jedného dňa im došlo jedlo. Babička zavolala päť detí, aby sa modlili okolo prázdneho stola. Po modlitbe sa ozvalo zaklopanie na dvere. Vonku stál muž v moslimskom oblečení. V jednej ruke držal vedro masla, v druhej bochník chleba.
 
-„Andělovi stačil zlomek vteřiny, aby dopravil kbelík másla z Tádžikistánu na Sibiř,“ řekla. „Jen by mě zajímalo, kde anděl našel chleba. Už se nemůžu dočkat, až se dostanu do nebe a uslyším zbytek příběhu.“
+Účtovníčka poprosila Ninu, aby jej povedala viac o Bohu. Po čase účtovníčka a jej dcéra odovzdali svoje srdcia Ježišovi a stali sa členkami Cirkvi adventistov s. d.
+
+Dodnes nikto nevie, kto bol onen záhadný muž. Ale Ljubov Bruntonová, dcéra Niny, nepochybuje, že to bol anjel.
+
+„Anjelovi trvalo zlomok sekundy, kým preniesol vedro masla z Tadžikistanu na Sibír,“ povedala. „Len by ma zaujímalo, kde ten anjel našiel chlieb. Nemôžem sa dočkať, až si v nebi vypočujem zvyšok príbehu.“
