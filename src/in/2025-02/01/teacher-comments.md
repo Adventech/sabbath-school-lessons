@@ -1,5 +1,5 @@
 ---
-title:  Penuntun guru
+title:  Penuntun Guru
 date:   04/04/2025
 ---
 
