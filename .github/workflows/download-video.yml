@@ -9,7 +9,7 @@ on:
 jobs:
   download-video:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v1.6.1
