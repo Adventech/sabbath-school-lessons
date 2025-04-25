@@ -1,4 +1,7 @@
 var BIBLE_PARSER_CONFIG = {
+  "az": [
+      "azj08"
+  ],
   "am": [
     "nasv"
   ],
