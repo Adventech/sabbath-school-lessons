@@ -150,6 +150,12 @@ let additionalReadingTitles = {
       pppCopyright: "",
       regex: "#{2,} План-конспект 1 общины г. Киева"
     },
+    {
+      title: "План Сергея Хрибара",
+      final: "План Сергея Хрибара",
+      pppCopyright: "",
+      regex: "#{2,} План Сергея Хрибара"
+    },
   ]
 }
 
