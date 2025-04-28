@@ -19,7 +19,7 @@ jobs:
           node-version: '12'
           check-latest: true
       - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@v1.6.1
+        uses: AnimMouse/setup-yt-dlp@v3
         with:
           with-ffmpeg: true
       - name: Add token for private packages
