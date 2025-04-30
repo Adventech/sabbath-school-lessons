@@ -33,8 +33,9 @@ date:   02/05/2025
 
 -   Ein kurzer Überblick: Worum geht es bei dem Traum, den Nebukadnezar
     hatte?
--   Die Weltreiche nehmen von Gold bis zu Eisen und Ton ab. Welche
-    Botschaft steckt dahinter?
+-   Die Weltreiche nehmen von Gold bis zu Eisen und Ton an Wertigkeit
+    ab, aber an Härte (bis zum Eisen) zu. Welche Botschaft steckt
+    dahinter?
 -   Gibt es in diesem Traum für euch auch eine gute Nachricht?
 -   Wie können wir uns davor bewahren, unser Vertrauen in weltliche
     Macht oder materielle Dinge zu setzen?
@@ -68,7 +69,7 @@ date:   02/05/2025
 -   Beachte wo der Engel, der das Büchlein hält, steht. Worauf könnte
     das hindeuten?
 -   Woran lässt sich in Offenbarung 10 der Missionsauftrag erkennen?
--   Johannes isst das „Wort Gottes“ und es ist süß im Bund, aber bitter
+-   Johannes isst das „Wort Gottes“ und es ist süß im Mund, aber bitter
     im Bauch. Hast du ähnliche Erfahrungen gemacht?
 -   Wie können wir den Mut bewahren, Gottes Botschaft zu verkünden, auch
     wenn sie nicht immer gut ankommt?
