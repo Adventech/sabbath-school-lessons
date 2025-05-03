@@ -48,9 +48,6 @@ Beachte auch die nachdrückliche Wiederholung des Wortes mar’eh, „Aussehen, 
 ### TEIL III: ANWENDUNG
 
 1. Beginnt jeden Morgen, wenn ihr aufwacht, eure Gebete mit einem Moment des Dankes für das Wunder des Lebens. Bittet den Gott der Schöpfung, euer Leben zu verändern. Lasst Gott euer Herz verwandeln und eurem Leben eine neue Richtung geben. Sucht in der Bibel nach neuen Ideen, die euch herausfordern und zur Veränderung inspirieren. Haltet den Sabbat so, dass er zu einem Vorgeschmack auf das Reich Gottes wird.
-
 2. Erstellt eine Aufzählung von Aspekten der Welt – sowohl der Schöpfung als auch eures persönlichen Lebens –, die eure Hoffnung auf das Reich Gottes stärken. Wenn ihr gerne malt, malt einen Regenbogen. Wenn ihr gerne dichtet, schreibt ein Gedicht über die Schönheit und das Wunder des Regenbogens. Wenn ihr gerne singt, singt ein Lied über den Regenbogen.
-
 3. Betet zu Gott für jemanden, den ihr nicht mögt, bis er/sie euer Freund/eure Freundin wird. Betet zu Gott wegen einer wichtigen Hürde in eurem Leben. Wiederholt dieses Gebet beharrlich, bis ihr schließlich das tatsächliche Ergebnis erlebt und wisst, dass Gott euer Gebet wirklich erhört hat.
-
 4. Warum gibt uns Daniels Gebrauch der eschatologischen Sprache zum Beschreiben seiner gegenwärtigen Situation Hoffnung und die Gewissheit, dass unser Leben Sinn hat und für die Ewigkeit offen ist? Wie gibt uns diese Sprache außerdem Orientierung in der Art und Weise, wie wir leben, essen und trinken, denken, das Leben genießen und mit anderen Menschen, einschließlich unseren Feinden, umgehen?
