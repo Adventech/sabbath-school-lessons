@@ -5,7 +5,7 @@ date: 11/04/2025
 
 ### Das Milchwunder
 
-Andrew McChesney, Adventist Mission
+_Andrew McChesney, Adventist Mission_
 
 Als die Mutter vom Markt nach Hause kam, stand die Kuh nicht mehr im Hof. Sie sah sich um. Keine Kuh zu sehen. Sie wusste, dass ihre zwei kleinen Kinder im Haus auf sie warteten. Tränen füllten ihre Augen. Wie sollte sie ihnen sagen, dass die Kuh, ihre einzige Einkommensquelle, gestohlen worden war? Ohne die Kuh würden sie sterben.
 
