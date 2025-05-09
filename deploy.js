@@ -101,6 +101,62 @@ let additionalReadingTitles = {
     pppCopyright: "",
     regex: "---(\r?\n)+#{2,} Bacaan Tambahan: Kutipan dari Ellen G. White"
   },
+  "ru": [
+    {
+      title: "Конспект Брюса Камерона",
+      final: "Конспект Брюса Камерона",
+      pppCopyright: "",
+      regex: "#{2,} Конспект Брюса Камерона"
+    },
+    {
+      title: "План Урока",
+      final: "План Урока",
+      pppCopyright: "",
+      regex: "#{2,} План Урока"
+    },
+    {
+      title: "План Светланы Тороповой",
+      final: "План Светланы Тороповой",
+      pppCopyright: "",
+      regex: "#{2,} План Светланы Тороповой"
+    },
+    {
+      title: "Комментарий Татьяны Бахмат",
+      final: "Комментарий Татьяны Бахмат",
+      pppCopyright: "",
+      regex: "#{2,} Комментарий Татьяны Бахмат"
+    },
+    {
+      title: "Виталий Олийник",
+      final: "Виталий Олийник",
+      pppCopyright: "",
+      regex: "#{2,} Виталий Олийник"
+    },
+    {
+      title: "План Виталия Олийника",
+      final: "План Виталия Олийника",
+      pppCopyright: "",
+      regex: "#{2,} План Виталия Олийника"
+    },
+    {
+      title: "Киев 1",
+      final: "Киев 1",
+      pppCopyright: "",
+      regex: "#{2,} Киев 1"
+    },
+    {
+      title: "План-конспект 1 общины г. Киева",
+      final: "План-конспект 1 общины г. Киева",
+      pppCopyright: "",
+      regex: "#{2,} План-конспект 1 общины г. Киева"
+    },
+    {
+      title: "План Сергея Хрибара",
+      final: "План Сергея Хрибара",
+      pppCopyright: "",
+      regex: "#{2,} План Сергея Хрибара"
+    },
+  ]
 }
 
 let firebase = require("firebase-admin"),
@@ -160,6 +216,8 @@ try {
               let p = getInfoFromPath(f)
               invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/${p.quarterly}/*`)
               invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/index.json`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies%2F${p.quarterly}*`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies/index.json`)
 
               return stripped.substring(0, stripped.indexOf('/'))
             }

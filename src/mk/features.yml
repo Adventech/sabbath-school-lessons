@@ -26,6 +26,6 @@
     image: "v1/images/features/feature_video.png"
   original_layout:
     name: original-layout
-    title: Оригинален распоред
-    description: Подобрете го вашето проучување на лекцијата користејќи оригинален распоред за печатење со бројни алатки за прибелешки
+    title: Оригинален приказ
+    description: Подобрете го вашето проучување на лекцијата користејќи оригинален приказ со бројни алатки за прибелешки
     image: "v1/images/features/feature_original_layout.png"

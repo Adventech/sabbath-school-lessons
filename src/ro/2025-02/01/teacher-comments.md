@@ -52,24 +52,16 @@ Aplică studiul din această săptămână cu ajutorul întrebărilor de mai jos
 
 **Accentul pe text:**
 
-1 Care sunt cuvintele-cheie din 2 Timotei 3:15-17?
-
-2 Discutați în cadrul grupei importanța următoarelor cuvinte: „Scriptura”, „înțelepciune”, „insuflată”, „desăvârșit”.
-
-3 De ce studiul Scripturii inspiră gândirea creativă?
-
-4 Care este structura acestui text?
-
-5 Care este contextul acestui pasaj?
-
-6 Găsește alte două pasaje biblice cu temă asemănătoare (ex., Psalmii 119:97-104 și Ioan 5:39). Identifică asemănările și deosebirile între aceste două pasaje. Compară-le temele.
+1. Care sunt cuvintele-cheie din 2 Timotei 3:15-17?
+2. Discutați în cadrul grupei importanța următoarelor cuvinte: „Scriptura”, „înțelepciune”, „insuflată”, „desăvârșit”.
+3. De ce studiul Scripturii inspiră gândirea creativă?
+4. Care este structura acestui text?
+5. Care este contextul acestui pasaj?
+6. Găsește alte două pasaje biblice cu temă asemănătoare (ex., Psalmii 119:97-104 și Ioan 5:39). Identifică asemănările și deosebirile între aceste două pasaje. Compară-le temele.
 
 **Accentul pe răspunsul personal:**
 
-1 Care cuvinte din 2 Timotei 3:15-17 fac referire la importanța și necesitatea abordării studiului Scripturii cu respect? De exemplu, meditează la următoarele cuvinte și discutați-le cu toții în cadrul grupei: „Sfintele Scripturi” (implică nevoia de o abordare spirituală), „insuflată” (dar de la Dumnezeu; lucrarea Duhului Sfânt).
-
-2 Ce cuvinte din text fac referire la nevoia de a citi rațional și informat? De exemplu, meditează la următoarele cuvinte și discutați-le cu toții în cadrul grupei: „cunoști” (funcție cognitivă; informație de învățat); „înțelepciune” (exercițiu de gândire), „să învețe” (capacitatea de a primi îndrumări și de a învăța lecții noi).
-
-3 Ce cuvinte fac referire la nevoia de citire comunitară? De exemplu, meditează la următoarele cuvinte și discutați-le cu toții în cadrul grupei: „din pruncie” (implicarea părinților), „să îndrepte” (implicarea părinților și a profesorilor), „lucrare bună” (un lucru făcut pentru oamenii în nevoie).
-
-4 Ce cuvinte fac referire la nevoia de aplicare a textului în viața personală? De exemplu, meditează la următoarele cuvinte și discutați-le în cadrul grupei: „să dea înțelepciune” (îmbunătățește discernământul și judecata personală). Care cuvinte fac referire la nevoia de acuitate etică? De exemplu, gândește-te la expresia „în neprihănire” (dezvoltă capacitatea de a discerne ce este bine). Discutați în cadrul grupei.
+1. Care cuvinte din 2 Timotei 3:15-17 fac referire la importanța și necesitatea abordării studiului Scripturii cu respect? De exemplu, meditează la următoarele cuvinte și discutați-le cu toții în cadrul grupei: „Sfintele Scripturi” (implică nevoia de o abordare spirituală), „insuflată” (dar de la Dumnezeu; lucrarea Duhului Sfânt).
+2. Ce cuvinte din text fac referire la nevoia de a citi rațional și informat? De exemplu, meditează la următoarele cuvinte și discutați-le cu toții în cadrul grupei: „cunoști” (funcție cognitivă; informație de învățat); „înțelepciune” (exercițiu de gândire), „să învețe” (capacitatea de a primi îndrumări și de a învăța lecții noi).
+3. Ce cuvinte fac referire la nevoia de citire comunitară? De exemplu, meditează la următoarele cuvinte și discutați-le cu toții în cadrul grupei: „din pruncie” (implicarea părinților), „să îndrepte” (implicarea părinților și a profesorilor), „lucrare bună” (un lucru făcut pentru oamenii în nevoie).
+4. Ce cuvinte fac referire la nevoia de aplicare a textului în viața personală? De exemplu, meditează la următoarele cuvinte și discutați-le în cadrul grupei: „să dea înțelepciune” (îmbunătățește discernământul și judecata personală). Care cuvinte fac referire la nevoia de acuitate etică? De exemplu, gândește-te la expresia „în neprihănire” (dezvoltă capacitatea de a discerne ce este bine). Discutați în cadrul grupei.
