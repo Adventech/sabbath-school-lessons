@@ -4,8 +4,9 @@
   human_date: "Aprilie · Mai · Iunie 2025"
   start_date: "29/03/2025"
   end_date: "27/06/2025"
-  color_primary: "#B05A67"
-  color_primary_dark: "#9F283A"
+  color_primary: "#218e8b"
+  color_primary_dark: "#218e8b"
+  splash: true
   credits:
     - name: Autor
       value: "Shawn Boonstra"
