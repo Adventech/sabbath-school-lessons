@@ -1,29 +1,21 @@
 yt-dlp "https://www.youtube.com/watch?v=Mw47LJteKY4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=eAJpzSBRNgA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=4oumxw82VGc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=3zMyDDvPuMo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-02-inv-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=fgpxR0rlSB4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=8tddmAR7Idk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=4oSruaZkm8k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=T0dBn7gsbho" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=xW6vmEiYT0Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=3rQNe3l2_hw&pp=0gcJCYYJAYcqIYzv" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=qlBTRnPAY3A" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=pPJvLe1n1aQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=XseOaFrdKO0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=j0dOQyW9yIE&pp=0gcJCYYJAYcqIYzv" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=V3Srsnzm4zI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=7HgPDDf-kj4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "it/it-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=5bSetm9tK34" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=6Q9_edn7lhw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/af/in-af-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=N8lWMVsGGZI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2025-02-07.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=8XwyKKSjIeQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2025-02-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=nywxSOcca5Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-02-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=iaEM41Nzt2Y&pp=0gcJCYYJAYcqIYzv" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2025-02-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=rzTsF9gbziA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2025-02-07.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=1RA_OWgWqyY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2025-02-07.mp4"
+yt-dlp "https://www.youtube.com/watch?v=UrEKZduQfqE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-02-07.mp4"
