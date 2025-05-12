@@ -7,3 +7,15 @@ yt-dlp "https://www.youtube.com/watch?v=1V5oz6w1GOo" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=-dXWalT7Sf0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2025-02-inv-07.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=01KtWtSvwoU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2025-02-07.mp4"
+
+yt-dlp "https://youtu.be/RUlxo2ARuho?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2025-02-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=spRmJdTQCnA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-02-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=6E5neLsuen8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-02-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=YZcZi1zT5e4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-02-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=iXEjbduDTnk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2025-02-07.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=XHBaz6KcfZw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2025-02-07.mp4"
