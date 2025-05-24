@@ -23,6 +23,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2025-02-07.mp4
           target: ru/2025-02/07
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2025-02-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2025-02-08.mp4
+          target: ru/2025-02/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2025-02-08.webp
     - artist: Субботняя школа из ЗАУ
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2025-02-01.mp4
@@ -46,6 +49,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2025-02-07.mp4
           target: ru/2025-02/07
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2025-02-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2025-02-08.mp4
+          target: ru/2025-02/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/zau/ru-zau-2025-02-08.webp
     - artist: Субботняя школа с Алехандро Буйоном
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2025-02-01.mp4
@@ -66,6 +72,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2025-02-06.mp4
           target: ru/2025-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2025-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2025-02-08.mp4
+          target: ru/2025-02/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2025-02-08.webp
     - artist: Изучаем Библию с Виталием Олийником
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2025-02-01.mp4
@@ -86,3 +95,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2025-02-06.mp4
           target: ru/2025-02/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2025-02-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2025-02-08.mp4
+          target: ru/2025-02/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2025-02-08.webp
