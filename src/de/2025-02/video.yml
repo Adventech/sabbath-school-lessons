@@ -14,12 +14,12 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-04.mp4
           target: de/2025-02/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-04.webp
-        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-06.mp4
-          target: de/2025-02/06
-          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-06.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-05.mp4
           target: de/2025-02/05
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-05.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-06.mp4
+          target: de/2025-02/06
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-06.webp
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-07.mp4
           target: de/2025-02/07
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/jm/de-jm-2025-02-07.webp
