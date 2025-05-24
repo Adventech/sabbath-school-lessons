@@ -114,3 +114,17 @@
           target: hu/2025-02/08/06
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250523.mp3
           target: hu/2025-02/08/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250524.mp3
+          target: hu/2025-02/09/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250525.mp3
+          target: hu/2025-02/09/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250526.mp3
+          target: hu/2025-02/09/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250527.mp3
+          target: hu/2025-02/09/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250528.mp3
+          target: hu/2025-02/09/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250529.mp3
+          target: hu/2025-02/09/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250530.mp3
+          target: hu/2025-02/09/07
