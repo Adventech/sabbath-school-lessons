@@ -1,0 +1,29 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
+        target: en/2025-03-zaijbgsg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-02.mp3
+        target: en/2025-03-zaijbgsg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-03.mp3
+        target: en/2025-03-zaijbgsg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-04.mp3
+        target: en/2025-03-zaijbgsg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-05.mp3
+        target: en/2025-03-zaijbgsg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-06.mp3
+        target: en/2025-03-zaijbgsg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-07.mp3
+        target: en/2025-03-zaijbgsg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-09.mp3
+        target: en/2025-03-zaijbgsg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-09.mp3
+        target: en/2025-03-zaijbgsg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-10.mp3
+        target: en/2025-03-zaijbgsg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-11.mp3
+        target: en/2025-03-zaijbgsg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-12.mp3
+        target: en/2025-03-zaijbgsg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-13.mp3
+        target: en/2025-03-zaijbgsg/13
