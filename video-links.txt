@@ -6,6 +6,12 @@ yt-dlp "https://youtu.be/7ZrEvlF38iQ?feature=shared" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://youtu.be/dxdkverQOjM?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-02-inv-11.mp4"
 
+yt-dlp "https://youtu.be/bB5HFemfxm4?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2025-02-11.mp4"
+
+yt-dlp "https://youtu.be/aiW9yLlPyUM?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2025-02-11.mp4"
+
+yt-dlp "https://youtu.be/GLmzYn8S5Ww?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2025-02-11.mp4"
+
 yt-dlp "https://youtu.be/Rg2OpwaQ0NA?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-02-11.mp4"
 
 yt-dlp "https://youtu.be/VhCAxvrf3JM?feature=shared" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-02-11.mp4"
