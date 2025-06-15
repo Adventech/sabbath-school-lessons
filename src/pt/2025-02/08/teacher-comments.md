@@ -1,0 +1,49 @@
+---
+title:  Auxiliar
+date:   23/05/2025
+---
+
+**TEXTO-CHAVE:** Ap 14:1
+
+**FOCO DO ESTUDO:** Sl 15; 24; 51; 122
+
+#### ESBOÇO
+
+**Introdução:** No coração da Bíblia, os salmos oferecem testemunhos sobre a oração e a adoração do antigo Israel. Não são apenas os sacerdotes profissionais que oram; o povo comum, poetas e reis, todos cantam louvores ao Criador e Salvador. Eles também choram e clamam ao Senhor, ansiando por Seu juízo e por salvação. Entre esses salmos, que refletem o sofrimento do antigo povo de Israel, também encontramos vislumbres proféticos sobre o fim dos tempos, quando o grande Juiz finalmente virá em resposta ao anseio das nações. O impulso escatológico desses salmos tem sido observado por vários estudiosos da Bíblia.
+
+Nas próximas duas lições, exploraremos esses poemas e canções sagrados em busca de mensagens que falem conosco, que vivemos no tempo do fim. Refletiremos sobre nosso sofrimento, nossas frustrações e nossas experiências dolorosas diante do silêncio de Deus. Desejaremos paz em tempos de problemas e guerras. Choraremos com o povo dos salmos. Mas também encontraremos conforto e força em nossa esperança ao aprendermos sobre a realidade e a certeza da promessa de Deus. Nossa resposta final será adorar ao Senhor.  Compreenderemos melhor a profundidade e o significado do anseio de Israel e, mais importante, descobriremos que as canções desses poetas e sacerdotes dos salmos são muito relevantes para nós, que vivemos no tempo do fim.
+
+#### COMENTÁRIO
+
+Para esta jornada dentro da “alma” da mensagem profética, escolhemos quatro salmos: Salmo 122, por seu apelo intenso e tocante, “Orem pela paz de Jerusalém!” (Sl 122:6); Salmos 15 e 24, porque esses salmos indagam sobre a ausência do Senhor e fazem as mesmas perguntas intrigantes: “Quem poderá morar no Teu santo monte?” (Sl 15:1), “Quem subirá ao monte do Senhor?” (Sl 24:3); e o Salmo 51, por sua súplica trêmula diante da presença do Senhor em Seu templo: “Cria em mim, ó Deus, um coração puro” (Sl 51:10).
+
+**Salmo 122:** **A paz de Jerusalém.** Embora o Salmo 122 seja atribuído a Davi (Sl 122:1), muitos estudiosos questionaram essa conexão com base na referência à “casa do Senhor” (Sl 122:9). Argumenta-se que Davi não poderia ter mencionado “a casa do Senhor”, isto é, o templo de Jerusalém, simplesmente porque o templo ainda não havia sido construído em seu tempo. No entanto, o tabernáculo nos dias de Davi é frequentemente chamado de “casa do Senhor” (1Sm 1:7, 24; Jz 19:18). Assim, o que está faltando nesse argumento é o fato de que o monte Moriá, que se tornará o lugar de Jerusalém, também é designado como “o monte do Senhor” muito cedo na história bíblica (Gn 22:14). As noções de “casa do Senhor” e de “Jerusalém” devem, portanto, ser tomadas em um sentido espiritual que transcende o tempo real de Davi. Enquanto Davi ora pela paz de Jerusalém, somos inspirados a sonhar tipologicamente com a Jerusalém espiritual, da qual a paz e o juízo irradiarão em direção às extremidades do mundo, como uma bênção para as nações (Gn 22:17, 18; compare com Gn 12:3).
+
+O fato de que Davi, o guerreiro, pensa na paz de Jerusalém sugere que o mundo estará em guerra contra Jerusalém. O profeta tem em vista o evento do “Armagedom”, conforme previsto em Apocalipse 16:16 e Daniel 11:45. O nome Armagedom, que significa “monte da reunião”, refere-se à montanha do Senhor onde o povo de Deus se reúne para adorar. Essa “reunião” também se refere à reunião das nações que virão atacar o povo de Deus. A frase “monte do Senhor” tipologicamente representa Sião espiritual ou Jerusalém. Davi vê profeticamente que a
+paz do mundo depende da paz de Jerusalém. Portanto, ele nos exorta a orar pela paz de Jerusalém, da qual depende a paz, a bênção e a salvação do mundo.
+
+**Salmos 15 e 24: O monte do Senhor.** Nos salmos 15 e 24, Davi faz uma pergunta que diz respeito ao mesmo evento, isto é, a ocupação do “monte santo”, que se refere à Nova Jerusalém no Céu. No entanto, a resposta a essa pergunta é diferente em cada salmo. No Salmo 15, o foco está no nível humano e na preocupação com o povo de Deus. A descrição dos justos contrasta aqui com a descrição dos ímpios no Salmo 14, que perseguem o povo de Deus (Sl 14:4), que são identificados como a “linhagem dos justos”. O povo de Deus busca “refúgio” no Senhor (Sl 14:5, 6) e anseia por Sua salvação, que virá “de Sião” (Sl 14:7).
+
+O Salmo 15 continua na mesma linha, e a questão surge, então, “Quem poderá morar no Teu santo monte?” (Sl 15:1). Para responder a essa pergunta, o salmista se refere ao povo de Deus que, em contraste com os ímpios do salmo anterior, vive de acordo com princípios de conduta, todos os quais equivalem aos Dez Mandamentos: três são positivos (Sl 15:2), e sete são negativos (Sl 15:3-5). O primeiro princípio inclui todos os outros: “Aquele que vive com integridade” (Sl 15:2). A palavra hebraica _tamim_ (“integridade”) significa completude, tem a conotação de ingenuidade e sugere uma religião verdadeira na qual não há falsidade ou duplicidade. A religião do povo de Deus é baseada no temor do Senhor, no meio do Salmo (veja Sl 15:4). Observe também que esses princípios são essencialmente de ordem ética, lidando com nosso tratamento para com os outros. Eles dizem respeito a comportamento negativo: mentir, caluniar e enganar (Sl 15:2, 3, 5).
+
+O Salmo 24 complementa o Salmo 15. Enquanto o Salmo 15 tem uma perspectiva existencial, o Salmo 24 tem uma perspectiva cósmica, que é articulada em três seções. O salmo começa com uma afirmação do Deus da criação, que governa o Universo (Sl 24:1, 2). O salmo então se move para o chamado à adoração, por meio da pergunta: “Quem há de permanecer no Seu santo lugar?” (Sl 24:3). Nos salmos, a adoração é geralmente uma resposta humana à criação de Deus (Sl 95:6, Sl 100:1-3). A segunda seção (Sl 24:3-6) responde à pergunta do Salmo 24:3 enfatizando que somente aquele que “é limpo de mãos e puro de coração” e que não comete idolatria se qualifica para subir ao monte do Senhor, ou seja, para adorar (Sl 24:4). O salmo não está se referindo aqui a um ideal de perfeição absoluta. Depois, esses adoradores são descritos como “a geração dos que O buscam” (Sl 24:6).
+
+A terceira seção (Sl 24:7-10) descreve a vinda do Rei da glória. Deus é aqui retratado como um Guerreiro vitorioso, “poderoso nas batalhas” (Sl 24:8), que derrotou as forças do mal e do caos, e assim restaurou a ordem da criação. Em outras palavras, o ideal religioso do povo de Deus, que espera pela salvação de Sião, é tanto vertical quanto horizontal. Esse ideal é composto de fé pessoal no Deus invisível e esperança no reino vindouro; portanto, é tanto perceptivo (transmitindo sabedoria) quanto apocalíptico.
+
+**Salmo 51: Um coração limpo.** De acordo com o cabeçalho do Salmo 51 (Sl 51:1), essa oração deve ter sido escrita por Davi quando ele foi confrontado pelo profeta Natã por seu pecado. Mas essa oração também pode ser entendida e interpretada como uma súplica típica de qualquer pessoa que esteja ciente de sua iniquidade e deseje se encontrar com nosso Deus que Se aproxima.
+
+A oração começa com o clamor de Davi a Deus por perdão, implorando por Sua misericórdia devido às suas “transgressões” (Sl 51:1). Em seguida, o Salmo se divide em duas partes. A primeira parte (Sl 51:1-9) é um apelo a Deus para que apague suas “transgressões”, que o separam do Senhor. Deus é descrito como misericordioso (Sl 51:1), o Deus da “verdade” (Sl 51:6), e como alguém que esconde Seu rosto (Sl 51:9). O pecado é tão grande e profundo que todas as palavras para pecado são usadas para designá-lo: _khet’_ (“pecado”), _pesha‘_ (“transgressão”) e _awon_ (“iniquidade”). Para traduzir a magnitude de seu pecado, o poeta usa uma imagem hiperbólica: seu pecado se origina do momento de sua concepção no ventre de sua mãe (Sl 51:5). Portanto, a única maneira de Davi se aproximar de Deus e recuperar seu relacionamento com Ele é pedir que Deus faça seu pecado desaparecer, como se nunca tivesse acontecido. Nessa primeira seção, palavras-chave que expressam essa ideia de apagar pontuam a oração: “apagar” (Sl 51:1, 9), “lavar” (Sl 51:2, 7), “purificar” (Sl 51:2) e “purgar” (Sl 51:7).
+
+A segunda parte do Salmo (Sl 51:10-19) concentra-se na ideia de renovação. As palavras-chave são “criar”, “renovar”, “restaurar” e “construir”. Deus é descrito como o Criador (Sl 51:10, 12, 15) e Salvador (Sl 51:14). O salmo conclui com a visão das “muralhas de Jerusalém” e do sacrifício que é aceito por Deus (Sl 51:18, 19).
+
+#### APLICAÇÃO PARA A VIDA
+
+`1. À luz da lição desta semana, pondere sobre as seguintes perguntas: O que o chamado do salmista para “orar pela paz de Jerusalém” significa para nós hoje? O que devemos fazer para alcançar essa paz?`
+
+`2. Medite na recomendação de Jesus de orar ao nosso Pai celestial: “Venha o Teu reino, seja feita a Tua vontade, assim na Terra como no Céu” (Mt 6:10). Note que essa oração não consiste apenas em uma solução espiritual para nosso mundo angustiante; trata-se da vinda de Jesus para transformar o mundo. Discuta.`
+
+`3. Por que nossa esperança na vinda do Senhor, a atenção aos sinais dos tempos, os eventos sensacionais no mundo e o desejo de nos preparar para o reino de Deus complementam nosso crescimento e desenvolvimento pessoal como cristãos? Por que os sentimentos e pensamentos do nosso coração devem estar alinhados com os ideais do reino de Deus? Por que nosso esforço em direção à santificação e nosso ideal de santidade devem nos tornar mais sensíveis e éticos no tratamento com nossos vizinhos?`
+
+`4. Atividade: Como vivemos em tempos de guerras em todo o mundo, precisamos aprender a orar pela “paz de Jerusalém”. Isso significa que a paz do mundo deve ser parte de nossa preocupação. Organize uma semana de oração para orar pela paz na Terra. Aprenda a desenvolver empatia pelas pessoas que sofrem sob as condições de guerra.`
+
+`Notas`

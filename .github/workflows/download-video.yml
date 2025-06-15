@@ -9,12 +9,19 @@ on:
 jobs:
   download-video:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@v1.6.1
+        uses: AnimMouse/setup-yt-dlp@v3
         with:
-          with-ffmpeg: true
+          ffmpeg: 'false'
+      - uses: FedericoCarboni/setup-ffmpeg@v3
+        id: setup-ffmpeg
+        with:
+          ffmpeg-version: release
+          architecture: ''
+          linking-type: static
+          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
       - uses: actions/checkout@v2
       - name: Create work dir folder
         run: mkdir ss-video

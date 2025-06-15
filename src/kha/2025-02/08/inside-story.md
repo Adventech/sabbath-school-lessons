@@ -1,0 +1,18 @@
+---
+title:  Ka Jingiathuhkhanna Kaba Jia Shisha
+date:   23/05/2025
+---
+
+### Bynta 4: U Samla Adventist Barim
+
+_Da: U Andrew McChesney_
+
+Ki jingpyrkhat jong ka Diana ki la wan phai biang sha U Blei hadien ba ka sur kaba pynjem mynsiem ka la khanglad ia ka ban pyniap ialade. Ha kata ka Sngi robibar, ka la ïalam ïa ki lai ngut ki khun jong ka sha kawei ka ïingmane kaba rit ha Santa Fe, New Mexico. Ki la shong ha ka ben haduh ba ki nongtem ki la sdang ban tem. Ka khlem sngewtynnad ia ka jingrwai kaba ka la iohsngew kaba wan na ka rynsan. Ka la pynkynmaw ia ka ia kawei ka bynta kaba sniew jong ka jingim jong ka. Ka la mih na iingmane ryngkat bad ki khun jong ka.
+
+Ka jingim jong ka Diana ka la long kumba ka la nang sniew sha kaba sniew. Ki nongtuh ki la rung shapoh ka iing jong ka bad ki la shim ia kaei kaei kaba kaba ka don khyndiat. Ka la pun khun na u lok jong ka uba lehbein ia ka, bad ka jubab jong u ka long tang kawei, “Ngan siew ia ka bai pynduh khun.” Ha kawei ka miet, hadien ba ki khynnah ki la iohthiah ha jingthiah, ka la shong ha ka jingdum ha ka kamra shongkai jong ka, kaba dap da ka jingsngewlehrain bad jingsngewsih ialade. Ka la pyrta da ka jingbitar ia U Blei, “Hato kane ka long kaba Me la pynim ia nga?” Ka jingbitar ka la kylla long ka jingiam katba ka dang kynmaw ia ki snem jong ka jingialeh jong ka. “Jisu,” ka la kyrpad, “nga donkam ia Me.” Ha kata ka por, ka la sngew ba ka jingkhih kaba jur jong ka bor ka la pyndap ia ka. Ka kamra ka la dum stet, hynrei ka la long kumba la pyndap da ka jingshai. Ka la long kumba la kdup ia ka da U Blei na bneng. Ka jingsngew kaba khraw jong ka jingkmen, jingsuk bad jingieit ka la pyndap ia ka jinglong jong ka baroh kawei. Kham hadien ka la iohthiah ha ka jingiohthiah suk. Ha ka por mynstep, ki jingsngew kiba jur ki la jah noh, hynrei ka la sngewthuh ba don kaei kaei kaba pher.
+
+Hadien katto katne bnai, ka la iakynduh ia u briew uba phylla bad uba pher. U Loren Fish u dei na ka pateng kaba saw kum u Seventh Day Adventist. U kpa jong u u long u Pastor bad u nongseng Balang. Hynrei ha ka snem ba nyngkong jong u Loren ha ka kolej, u la iaid lait na U Blei, u la sdang ban dih kyiad bad khatduh u la sangeh noh. U la iakynduh ia ka Diana ha kawei ka jaka shad ha Santa Fe, New Mexico, bad u la pan ban shong kali bad ka ban leit phai sha la iing. Ka Diana ka la shem ba u nongwei u ba thlia, hynrei ka shah ia u. Hadien kata, u Loren um shym la iehnoh ia ka marwei. U la lap ia ka jaka ba ka trei bad u la leit jngoh ia ka hangta. Ka Diana kam shym la sngewtynnad ban rung ha kawei pat ka jingiadei. Kam shym la iehnoh ia kata kaba sniew kaba ka don, u Loren u kham rit saw snem shiteng, bad u i kumba u long uba khlem kot jingmut jingpyrkhat. Ha ka jingshisha, kam kwah ba un tip ba ka long kaba sniew bad kam kwah ban shah pynsngewsih biang. Kumta, ka la khynniat noh ia u. U Loren u la mih na Santa Fe bad u la shong la sah hajan Chicago.
+
+Kumta ha kawei ka miet, u Loren u la phone hadien ba u lok jong ka Diana u la kylla leh donbor, u la ot ia ki shaka kali jong ka bad u la thombor ia ka ha ka jaka ieng kali jong ka kot khubor ha kaba ki trei baroh arngut. Ka Diana ka la sngewbha ban iohsngew ia ka sur jong u, bad ka la kynmaw ba ka la sngew shngain bad u. “Phi lah ban wan jngoh ia nga ha kano kano ka por kaba phi kwah,” ka la ong ia u. U Loren u la poi ha kata ka sngi kut taiew, bad um shym la leit shuh.
+
+_Kane ka jingiathuhkhana mishon ka ai ka jingpeit kumno U Blei U la trei phylla ha ka jingim jong ka Diana Fish, ka nongpyniaid ia ka jingpynroi jong ka Skul Indian Holbrook kaba don ha US, kaba la ioh ia ka jingkynshew khat lai sabbaton ha u snem 2021.pule shuh shaphang ka Diana ha ka taiew ban wan._
