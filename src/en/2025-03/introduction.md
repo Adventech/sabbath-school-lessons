@@ -1,0 +1,19 @@
+### Exodus: Journey to the Promised Land
+
+The God revealed in the book of Exodus is the loving Lord who, at the appointed time and with His mighty actions, brought salvation and deliverance to His people (Gen. 15:12–16). The exodus from Egypt and the crossing of the Red Sea were pivotal and unique events—God’s spectacular and marvelous acts. No greater or more glorious event ever happened in the history of ancient Israel before the Cross. It is the gospel, but according to Moses.
+
+God miraculously and repeatedly arose to demonstrate His care and protection for the Hebrews, despite their constant backsliding. His mercy surpassed all their understandings and feelings. With His outstretched arm, the Lord led His people to freedom. It was an unprecedented act. This unexpected series of divine interventions was the beginning of their renewed journey with God, a journey from Egypt to (eventually) Canaan.
+
+Though Moses plays an important role in Exodus, this book is not about Moses but about God—the God of love, truth, justice, freedom, and forgiveness, the God who ultimately went to the cross for us. By studying Exodus, we get a unique look at what our God is really like.
+
+And what is He really like? He is a God who was faithful to His people despite their unfaithfulness. He was constantly for them, even when they were against Him. Again and again, He showed them His mercy, bringing encouragement, correction, and divine instruction. Leading them in the best possible way, He wanted them voluntarily, out of love for Him and His character, to worship and obey, all for their own good.
+
+The God of Moses is the God of relationships. The most important objective of God was not to accomplish something or to fulfill an agenda; instead, His prime objective was to create a meaningful relationship with His chosen people, Israel. He led them to Sinai in order to establish this deep fellowship.
+
+The apostle Paul teaches that what happened to God’s people in the past is an object lesson for us so that we could learn from their mistakes and faithfully follow the Lord today: “Now these things happened to them as an example, but they were written down for our instruction, on whom the end of the ages has come” (1 Cor. 10:11, ESV). These past events should be a warning and a source of unforgettable instruction for us now. We should read them, study them, and learn from them, because no matter how different the circumstances, the spiritual principles behind them remain the same.
+
+Our plan for studying the book of Exodus during these 13 weeks is transparent. The book is divided into weekly chapter readings of various lengths (divided thematically for convenience): (1) slavery in Egypt, the birth of Moses, and Moses’ first 40 years (Exodus 1–2); (2) commission of Moses (Exodus 3–4); (3) complications: when life becomes worse (Exodus 5–6); (4) the first nine plagues (Exodus 7–10); (5) the tenth plague and the celebration of the Passover (Exodus 11–12); (6) the liberation from Egypt and the Red Sea experience (Exodus 13–15); (7) the journey to Mount Sinai (Exodus 16–18); (8) the gift of God’s Covenant and the Decalogue (Exodus 19–20); (9) God’s law applied (Exodus 21–23); (10) the Covenant confirmed and the blueprint of the tabernacle (Exodus 24–31); (11) the golden calf apostasy and Moses’ intercession (Exodus 32); (12) God’s self-revelation and the radiant face of Moses (Exodus 33–34); (13) the tabernacle built and dedicated (Exodus 35–40). Each week we focus on key passages and events from indicated chapters.
+
+May our gracious Lord bless us as we study this pivotal book that reminds us of how God wants to lead His people from slavery to freedom, from death to life, and from the wilderness to the New Jerusalem (Heb. 12:22).
+
+_Jiří Moskala is professor of Old Testament exegesis and theology and dean of the Seventh-day Adventist Theological Seminary at Andrews University._
