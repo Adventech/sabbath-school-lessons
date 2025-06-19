@@ -1,0 +1,73 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-01.pdf'
+      target: zh/2025-03-cc/01
+      title: 被鬼附身的人
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-02.pdf'
+      target: zh/2025-03-cc/02
+      title: 信心的抚摸
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-03.pdf'
+      target: zh/2025-03-cc/03
+      title: 第一批传道人
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-04.pdf'
+      target: zh/2025-03-cc/04
+      title: 他们生活的时日
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-05.pdf'
+      target: zh/2025-03-cc/05
+      title: 误解
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-06.pdf'
+      target: zh/2025-03-cc/06
+      title: 消除种族歧视
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-07.pdf'
+      target: zh/2025-03-cc/07
+      title: 挪动那座山
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-08.pdf'
+      target: zh/2025-03-cc/08
+      title: 耶稣是谁？
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-09.pdf'
+      target: zh/2025-03-cc/09
+      title: 两名寻求者的故事
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-10.pdf'
+      target: zh/2025-03-cc/10
+      title: 像小孩子般的信心
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-11.pdf'
+      target: zh/2025-03-cc/11
+      title: 拉撒路出来！
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-12.pdf'
+      target: zh/2025-03-cc/12
+      title: 撒该
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-13.pdf'
+      target: zh/2025-03-cc/13
+      title: 马利亚
+      start_date: 20/09/2025
+      end_date: 26/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/zh/2025-03/ABSG-2025-03-ZH-CC-14.pdf'
+      target: zh/2025-03-cc/14
+      title: 雅各和约翰
+      start_date: 27/09/2025
+      end_date: 03/10/2025
+
