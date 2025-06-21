@@ -19,4 +19,4 @@ During two weeks in the hospital, Dmitry gave away 20 copies of The Great Contro
 
 “Many seeds have been sown, and I pray that they will bear fruit,” he said. “We work under God’s guidance and leave the results to Him.”
 
-_This Inside Story illustrates Mission Objective No. 2 of the Seventh-day Adventist Church’s “I Will Go” strategic plan: “To strengthen and diversify Adventist outreach … among unreached and under-reached people groups, and to non-Christian religions.” Read more at IWillGo.org._
+_This Inside Story illustrates Mission Objective No. 2 of the Seventh-day Adventist Church’s “I Will Go” strategic plan: “To strengthen and diversify Adventist outreach … among unreached and under-reached people groups, and to non-Christian religions.” Read more at [IWillGo.org](https://iwillgo.org)._

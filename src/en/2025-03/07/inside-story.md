@@ -21,4 +21,4 @@ Resuming his walk, Dmitry passed a car with a bumper sticker that read, “God d
 
 During his month in rehab, Dmitry distributed nearly 50 copies of The Great Controversy and changed the focus of his mission work in Germany. “Because I enjoy sharing books so much, I’m preparing to become a literature evangelist,” he said.
 
-_This Inside Story illustrates Mission Objective No. 2 of the Seventh-day Adventist Church’s “I Will Go” strategic plan: “To strengthen and diversify Adventist outreach . . . among unreached and under-reached people groups, and to non-Christian religions.” Read more at IWillGo.org._
+_This Inside Story illustrates Mission Objective No. 2 of the Seventh-day Adventist Church’s “I Will Go” strategic plan: “To strengthen and diversify Adventist outreach . . . among unreached and under-reached people groups, and to non-Christian religions.” Read more at [IWillGo.org](https://iwillgo.org)._
