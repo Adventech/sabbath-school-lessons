@@ -1,0 +1,61 @@
+---
+title: Lehrerteil
+date: 04/07/2025
+---
+
+### TEIL I: ÜBERSICHT
+
+**Schlüsseltext:** 2. Mose 2,23-25
+**Studienschwerpunkt:** 2. Mose 1,1-2,25
+
+**Einführung**
+
+Diese erste Lektion fasst die lange Geschichte des Volkes Gottes in Ägypten zusammen. Sie reicht von der Zeit Josefs, in der Israel enormen Wohlstand erlebte, bis zu Israels Versklavung unter dem grausamen Pharao, der die Hinrichtung aller männlichen Säuglinge anordnete. Gott ist jedoch nicht passiv, wenn böse Mächte versuchen, sein Volk zu vernichten. Er ist dessen Erlöser. Deshalb sandte er einen Befreier, seinen Diener Mose. Mose wurde durch ein Wunder bei seiner Geburt beschützt, was dazu führte, dass er auf außergewöhnliche Weise als Adoptivsohn in die Familie des Pharaos aufgenommen wurde. In den ersten 40 Jahren seines Lebens erhielt Mose die beste Ausbildung, zunächst von seiner Mutter und dann an der ägyptischen Universität. Obwohl er dazu erzogen wurde, auf dem Thron Ägyptens zu sitzen und ein großer Führer zu werden, fand sich Mose durch seine Fehler und Gottes Vorsehung in Jitros Familie wieder. Dort heiratete er und wurde Schafhirte.
+
+**Themen der Lektion**
+
+1. Gottes Erfüllung seiner Verheißungen und die Segnungen des Wohlstands sollen gefeiert werden. Dankbare Herzen erkennen Gottes Liebe und Fürsorge in ihrem Leben und erkennen an, dass Wohlstand und Erfolg auf Gottes Segen und Eingreifen zurückzuführen sind. Wenn wir jedoch nicht aufpassen, können wir allzu leicht die Tatsache aus den Augen verlieren, dass Gott und nicht unsere Leistungen für unseren Wohlstand verantwortlich sind. Wenn wir vergessen, dass alles, was wir haben, letztlich Gott gehört, kann das dazu führen, dass manche aus Eifersucht das gute Werk, das Gott zur Rettung anderer durch sie tun will, selbst steuern wollen und es dabei zerstören.
+
+2. Gebete haben verschiedene Funktionen. Sie dienen nicht nur dazu, Gott für seine Güte und Freundlichkeit zu uns zu loben, sondern sie sind auch Bitten Schreie von verwundeten, unterdrückten, verzweifelten und missbrauchten Menschen, die Hilfe benötigen. Böse Menschen mögen die Rechte anderer verletzen, aber Gott verspricht, denen zu helfen, die dadurch geschädigt werden.
+
+3. Die gute Nachricht lautet, dass Gott unsere verzweifelten Rufe nach seiner Vergebung, seiner Gegenwart und seinem Eingreifen erhört. Er sieht unsere Kämpfe, nimmt unsere Tränen zur Kenntnis, versteht unsere Qualen und antwortet auf unser Seufzen.
+
+4. Alle unterdrückten, verfolgten, ausgebeuteten und ausgegrenzten Menschen können sich mit den Berichten im 2. Buch Mose identifizieren. Durch diese historischen Berichte erkennen sie, dass sie nicht allein sind. Gott ist mit ihnen, trotz seines vermeintlichen Schweigens. Seine unsichtbare Gegenwart und die biblischen VerheiBungen sollen ihnen inneren Trost und Erlösungsgewissheit geben
+
+5. Gott vergisst seinen Bund mit Abraham, Isaak und Jakob nicht. Er ist treu. Was er verspricht, hält er. Gott greift zur von ihm gewählten Zeit ein. Das göttliche Timing steht dabei oft im Widerspruch zu unseren endlichen Wünschen und Erwartungen.
+
+### TEIL II: KOMMENTAR
+
+Im 2. Buch Mose geht es nicht um Mose, sondern in erster Linie um Gott und seine Führung im Leben von Mose und Israel. Das 2. Buch Mose beginnt mit dem Bild von Gottes Segen für Jakobs Familie: Sie bestand aus nur 70 Personen, als sie Josef nach Ägypten folgte, aber entsprechend der Verheißung Gottes an Abraham (1 Mo 15,5) wurde sie sehr zahlreich (2 Mo 1,7).
+
+Der Wohlstand Israels wird jedoch zu einem Problem. Der neue ägyptische Pharao wird eifersüchtig und fürchtet sich vor Israel. Deshalb versklavt er das Volk tückisch durch harte Arbeit und Unterdrückung. Historisch gesehen lassen sich diese dramatischen Ereignisse am besten vor dem Hintergrund der 18. ägyptischen Dynastie einordnen. Zu dieser Zeit kam die neue Hyksos-Dynastie an die Macht. Ihr erster König, Ahmose (1580-1546 v. Chr.), kann als der betrachtet werden, der die Leistungen Josefs nicht zur Kenntnis nahm (2 Mo 1,8) und begann, die Israeliten zu versklaven. Die Situation des Volkes Gottes begann sich schnell zu verschlechtern, und zwar von einer Zeit des Wohlstands und der freien Besiedlung Ägyptens zu erbärmlicher Sklaverei unter der Knechtschaft strenger Herren (2 Mo 1,11.13-14). Der König hinter diesem drastischen Wandel war Amenhotep I. (1553-1532 v. Chr). Doch je mehr die Israeliten unterdrückt wurden, desto zahlreicher wurden sie (2 Mo 1,12). Der Druck auf den Pharao wuchs, sich das Volk Gottes durch harte Arbeit zu unterwerfen.
+
+Diese Serie pharaonischer Rücksichtslosigkeit und Unterdrückung erreichte ihren Höhepunkt während der grausamen Herrschaft von Thutmosis I. (1525-1512 v. Chr), der gnadenlos den Todeserlass erließ, laut dem alle männlichen hebräischen Säuglinge umgebracht werden sollten (2 Mo 1,22). Wenn der Auszug aus Ägypten im März 1450 v. Chr. stattfand, dem von uns befürworteten Datum, dann wurde Mose 80 Jahre früher geboren, also 1530 v. Chr, während der Herrschaft von Thutmosis I. Dieser hatte eine Tochter, die zur Königin Hatschepsut (1504-1482 v. Chr.) wurde. Hatschepsut adoptierte Mose und gab ihm diesen Namen. Sie starb, als Mose in Midian war. Hatschepsuts Ehemann Thutmosis Il. (1508-1504 v. Chr.) hatte mit einer Konkubine einen Sohn, Thutmosis III. (1504-1450 v. Chr.), der der Pharao des Auszugs war. Pharao Amenhotep Il. (1453-1425 v. Chr.), nicht der erstgeborene Sohn von Thutmose IIl., war mehr als zwei Jahre lang Mitregent seines Vaters und hatte einen Sohn, der bei der zehnten Plage als erstgeborener Sohn starb. Pharao Thutmose IV. (1425-1412 v. Chr.), der Amenhotep Il. auf den Thron folgte, war nicht der älteste Sohn, wie die Inschrift auf der Sphinx-Stele zeigt. Somit lassen sich die biblischen Daten mit außerbiblischen Belegen in Einklang bringen.
+
+Der ägyptische Name von Mose passt gut in diese Zeit (ähnlich wie der Name Thutmosis) und bedeutet „geboren von“ oder „weggezogen (von)“. Sein vollständiger Name war wahrscheinlich Hapi-Mose (Hapi ist der Gott des Nils). Wenn Mose jedoch von sich selbst sprach und unter Gottes Eingebung schrieb, strich er Hapi aus seinem Namen ein Zeichen dafür, dass er es ablehnte, mit dem Gott des Nils in Verbindung gebracht zu werden.
+
+Moses Geburt (2 Mo 2,1-10) ist ein Wendepunkt im Verlauf der Geschichte Israels. Das Volk Gottes betete um Befreiung aus der Sklaverei und bat in seiner verzweifelten Lage um Gottes Hilfe. Gott beantwortete dieses Flehen mit der Geburt von Mose. Sein übernatürliches Eingreifen zum Schutz von Moses Leben in dieser besonderen Situation war nur in Zusammenarbeit mit dessen Eltern und Mirjam, seiner Schwester, möglich. Wir sehen also, dass Gott sich menschlicher Werkzeuge bedient, um seine Sache voranzubringen und sein Ziel zu erreichen.
+
+In der Dunkelheit der Nöte und unseres eigenen Leidens müssen wir unsere Augen auf Gott richten und ihm, seiner Führung und seiner Weisheit vertrauen, denn er wird seine Kinder niemals verlassen. Er ist inmitten von Unterdrückung und Verfolgung bei ihnen. Er kennt die Tränen der Misshandelten und Verletzten. Er leidet mit ihnen. Der Prophet Jesaja erklärt treffend, dass Gott in all unseren Bedrängnissen mitleidet (Jes 63,9). Seine Verbundenheit mit uns ist stark und unumstößlich. Wenn wir leiden, leidet Gott. In unserer Notlage empfindet Gott die Not und wenn wir Schmerzen haben, empfindet Gott Schmerzen. Er steht an der Seite der Verfolgten, die um der Gerechtigkeit willen leiden (Mt 5,10). Er ist ein barmherziger und gnädiger Gott. Er hat Geduld mit uns und hat am Kreuz gelitten, um unsere Erlösung sicherzustellen. Im Gegensatz dazu werden diejenigen, die andere unterdrücken, misshandeln und verletzen, Gottes Gericht der Verdammung und endgültigen Vernichtung erleiden. In diesem Zusammenhang sollten wir an die aufschlussreiche Aussage von Ellen White denken: „Im künftigen Leben werden die rätselhaften Ereignisse, die uns hier geärgert und enttäuscht haben, aufgeklärt. Wir werden erkennen, dass die scheinbar nicht erhörten Gebete und manche enttäuschten Hoffnungen größten Segen bewirkt haben“ (SgA 395).
+
+Schifra und Pua, zwei Hebammen, sind Vorbilder der Treue. Weil sie Gott fürchteten, brauchten sie den Zorn des Pharaos nicht zu fürchten. Ihr Respekt vor dem Gott des Lebens brachte sie dazu, menschliches Leben zu achten. Sie weigerten sich, die männlichen hebräischen Säuglinge bei der Geburt „aus Versehen“ zu töten. Sie wussten, dass das Leben ein Geschenk Gottes ist, und verweigerten daher die Befehle des Pharaos.
+
+Die Bibel verrät uns nicht viel über die ersten 40 Jahre von Mose (Apg 7,23), abgesehen von diesen hervorstechenden Details: 1.Mose wurde der Sohn der Tochter des Pharaos. 2. Als er erwachsen war, tötete er einen Ägypter, der einen Hebräer schlug. 3. Er stritt mit einem Hebräer, der einen anderen Hebräer schlug. 4. Anschließend flüchtete er nach Midian, wo er bei Jitro, einem Priester, wohnte und dessen Tochter Zippora heiratete. Und schließlich 5. bekam er einen Sohn, Gerschon.
+
+Der Hauptpunkt der Lektion dieser Woche ist die Aussage „und Gott ... gedachte an seinen Bund“ aus unserem Schlüsseltext: „Und Gott erhörte ihr Wehklagen und gedachte an seinen Bund mit Abraham, Isaak und Jakob“ (2 Mo 2,24). Die Treue Gottes zu seinen Bundesverheißungen bringt Stabilität in die Beziehungen zwischen Gott und seinem Volk. Er hält seinen Teil ein, trotz unserer Untreue. Der Bund Gottes ist die rechtliche Etablierung einer Beziehung zwischen Gott und seinen Nachfolgern.
+
+Dennoch schien die Verheißung des Bundes nicht erfüllt zu sein, da Gottes Volk nicht im Wohlstand lebte, sondern litt. Die Aussage „Gott ... gedachte an seinen Bund“ bedeutet nicht, dass Gott einen Gedächtnisverlust erlitten oder sein Volk vergessen hätte. Zu seiner Zeit greift Gott für sein Volk ein. Gott hatte Abraham durch sein Wort zugesagt, dass er ein großes Volk werden würde; in Erfüllung dieser Verheißung greift Gott nun ein, um den Unterdrückten Freiheit zu bringen. Gott befreit Israel, weil er versprochen hat, Abrahams Nachkommenschaft zu segnen.
+
+In diesen beiden abschließenden Versen kommt der Begriff Elohim für Gott viermal vor. Elohim ist ein mächtiger, starker Gott und wird im Zusammenhang mit vier Handlungen beschrieben: Gott „erhörte‘, „gedachte“, „sah“ und „nahm sich ... an“, Diese Verse unterstreichen Gottes Kenntnis der Situation, seine Fürsorge und seine Bereitschaft, für sein Volk zu handeln... Er wird den Lauf der Geschichte ändern, weil seine Zeit zum Eingreifen gekommen ist. Gott wird in seiner Barmherzigkeit „Nein“ zur Unterdrückung sagen und seinen Anhängern die Freiheit schenken, damit sie ihrem Gott aus Dankbarkeit für das Geschenk der Freiheit dienen können. So triumphiert Gottes Gnade über Gewalt, Unterdrückung und Sklaverei.
+
+**TEIL III: ANWENDUNG**
+
+`1. Wie fühlt ihr euch, wenn andere euch übersehen, verletzen, ausnutzen oder missbrauchen? Diese tiefen Enttäuschungen und Leiden können euch helfen, mit denen mitzufühlen, die ähnliche Erfahrungen im Leben durchmachen. Wie könnt ihr diesen leidenden Menschen wirksam Mut machen? Was ist das beste Mittel gegen die Enttäuschungen des Lebens?`
+
+`2. Wie könnt ihr effektiv auf Machtmissbrauch an eurem Arbeitsplatz und in der Gemeinde reagieren?`
+
+`3. Stellt euch vor, was geschehen wäre, wenn Moses Eltern und Mirjam Gott nicht vertraut und nicht den Mut gehabt hätten, ihr Kind zu verstecken. Was wäre dann aus Gottes Plan geworden? Wie hätte Gott in dieser hypothetischen Situation reagiert? Wäre ein anderer Mose aufgestanden?`
+
+`4. Wie war es möglich, dass Mose nach so vielen Jahren des Lebens im Luxus und bei einer heidnischen Familie beschloss, eine Zeit lang mit Gottes Volk zu leiden?`
+
+`5. Diejenigen, die sich vor Gott verneigen, brauchen keine Angst zu haben, vor Königen zu stehen. Sie haben Gottes Willen in ihrem Leben an die erste Stelle gesetzt; deshalb gehen sie mutig und kühn voran, um Gottes Gebote zu halten. Was bedeutet es, dass Mose nicht den Pharao, sondern Gott fürchtete? Wie versteht ihr die paradoxe Aussage, dass Mose Gott treu war, weil er „sich an den [hielt], den er nicht sah, als sähe er ihn“ (Hbr 11,27)? Wie könnt ihr Gott mit dem inneren Auge des Glaubens sehen?`
