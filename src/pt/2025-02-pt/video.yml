@@ -38,3 +38,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-02-12.mp4
           target: pt/2025-02-pt/12
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-02-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-02-13.mp4
+          target: pt/2025-02-pt/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-02-13.webp
