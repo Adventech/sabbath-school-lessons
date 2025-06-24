@@ -12,7 +12,6 @@ Gutanga gufite ubusobanuro bukomeye mu buzima bwacu. Iyo abantu bahana impano, h
 Mu kuduha Yesu, Imana yari iri guhuza ijuru n'isi. Yari iri kuduhuza na Yo ubwayo. Twavuga rero tutibeshya ko impano ihuza abantu. Uku ni ko bitugendekera igihe dutanze amaturo yacu y'Isezerano (uburyo buhoraho bwo gutanga). Tuba dufunguye inzira iduhuza n'abandi bantu babonera inyungu mu maturo dutanga.
 
 > <p>ICYO DUHAMAGARIRWA:</p>
-
 > Mu gihe dutanga uyu munsi ndetse no mu yindi minsi dushyigikira umurimo w'Imana, nimureke tuzirikane icyo amaturo y'Isezerano akora - aduhuza n'Imana hamwe n'abo yacunguje Umwana wayo.
 
 **IMANA MBERE YA BYOSE.**
