@@ -1,0 +1,19 @@
+### Išėjimas
+
+Dievas, apreikštas Išėjimo knygoje, yra mylintis Viešpats, kuris nustatytu laiku ir savo galingais darbais atnešė savo tautai išgelbėjimą ir išlaisvinimą (Pr 15, 1216). Išėjimas iš Egipto ir perėjimas per Raudonąją jūrą buvo esminiai ir unikalūs įvykiai  įspūdingi ir nuostabūs Dievo darbai. Senovės Izraelio istorijoje iki kryžiaus niekada nebuvo didesnio ar šlovingesnio įvykio. Tai yra Evangelija, bet pagal Mozę.
+
+Dievas stebuklingai ir ne kartą apsireiškė, kad parodytų rūpestį žydais  ir suteiktų jiems apsaugą, nepaisant jų nuolatinio atsimetimo. Jo  gailestingumas pranoko jų supratimą ir jausmus. Ištiesęs ranką Viešpats  išvedė savo tautą į laisvę. Tai buvo precedento neturintis įvykis.  Šie neįtikėtini dieviški įsikišimai buvo jų naujos kelionės su Dievu, kelionės  iš Egipto į (galiausiai) Kanaaną, pradžia.
+
+Nors Mozė atliko svarbų vaidmenį Išėjimo knygoje, ši knyga yra ne apie Mozę, o apie Dievą  meilės, tiesos, teisingumo, laisvės ir atleidimo Dievą, kuris galiausiai žengė vardan mūsų ant kryžiaus. Tyrinėdami Išėjimo knygą, pamatysime tai, koks iš tikrųjų yra mūsų Dievas.
+
+O koks Jis iš tikrųjų? Jis yra Dievas, ištikimas savo tautai, nepaisant jų neištikimybės. Jis nuolat jais rūpinosi, net kai jie prieš Jį maištavo. Vėl ir vėl Jis rodė jiems savo gailestingumą, padrąsindamas, pataisydamas ir teikdamas dangaus nurodymus. Vesdamas juos geriausiu keliu, Jis norėjo, kad jie savo noru, iš meilės Jam ir Jo charakteriui, garbintų Jį ir paklustų savo pačių labui.
+
+Mozės Dievas yra santykių Dievas. Svarbiausias Dievo tikslas nebuvo ką nors pasiekti ar įvykdyti planą; vietoj to Jo pagrindinis tikslas buvo sukurti prasmingus santykius su Jo išrinktąja tauta Izraeliu. Jis nuvedė juos į Sinajų, kad užmegztų šią gilią draugystę.
+
+Apaštalas Paulius mokė, kad tai, kas nutiko Dievo tautai praeityje, mums yra pamoka, kad galėtume pasimokyti iš jų klaidų ir ištikimai sekti Viešpačiu šiandien: Visa tai jiems atsitiko kaip pavyzdys, ir buvo užrašyta įspėti mums, kurie gyvename amžių pabaigoje(1 Kor 10, 11). Šie praeities įvykiai mums dabar turėtų būti įspėjimas ir nepamirštamų pamokymų šaltinis. Turėtume skaityti, jas tyrinėti ir mokytis iš jų, nes kad ir kokios skirtingos būtų aplinkybės, už jų slypintys dvasiniai principai išlieka tie patys.
+
+Mūsų planas tyrinėti Išėjimo knygą šias 13 savaičių yra aiškus. Knyga suskirstyta į savaitines skirtingo ilgio temas: (1) Vergovė Egipte, Mozės gimimas ir pirmieji 40 jo metų (Išėjimo 12). (2) Mozės pašaukimas(Išėjimo 34). (3) Komplikacijos  kai gyvenimas pablogėja(Išėjimo 56). (4) Pirmos devynios negandos (Išėjimo 710). (5) Dešimtoji neganda ir Paschos šventė (Išėjimo 1112). (6) Išvadavimas iš Egipto ir patyrimas prie Raudonosios jūros (Išėjimo 1315). (7) Kelionė į Sinajaus kalną (Išėjimo 1618). (8) Dievo Sandoros ir Dešimties įsakymų dovana (Išėjimo 1920). (9) Dievo Įstatymo taikymas (Išėjimo 2123). (10) Patvirtinta Sandora ir Padangtės projektas (Išėjimo 2431). (11) Atsimetimas su auksiniu veršiu ir užtarimas (Išėjimo 32).(12) Dievo apsireiškimas ir švytintis Mozės veidas (Išėjimo 3334).(13) Padangtė pastatyta ir pašventinta (Išėjimo 3540). Kiekvieną savaitę mes sutelksime dėmesį į pagrindines Rašto vietas ir įvykius nurodytuose skyriuose.
+
+Telaimina mus mūsų maloningas Viešpats, kai tyrinėsime šią svarbią knygą, kuri primena mums, kaip Dievas nori vesti savo tautą iš vergijos į laisvę, iš mirties į gyvenimą ir iš dykumos į Naująją Jeruzalę(Hbr 12, 22).
+
+Jiří Moskala yra Senojo Testamento ir teologijos profesorius bei Septintosios dienos adventistų teologijos seminarijos dekanas Andrews universitete.
