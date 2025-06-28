@@ -12,7 +12,6 @@ Kandi se mu by'ukuri iteye ite? Ni Imana yabereye ubwoko bwayo indahemuka n'ubwo
 
 Imana ya Mose ni Imana ishyikirana n'abantu. Intego y'ingenzi y'Imana ntiyari ugusohoza ikintu runaka cyangwa kuzuza urutonde rw'ibintu runaka; ahubwo, intego yayo y'ibanze yari iyo kugirana umushyikirano w'ingirakamaro n'ubwoko bwayo yatoranyije, ari bwo Isirayeli. Yabajyanye kuri Sinayi kugira ngo basabane na Yo mu buryo bwimbitse.
 
-
 Intumwa Pawulo yigisha ko ibyabaye ku bwoko bw'Imana mu gihe cyahise ari isomo ry'ingirakamaro kuri twe, kugira ngo dushobore kwigira ku makosa bakoze kandi dukurikire Uwiteka dukiranuka muri iki gihe: "Ibyo byababereyeho kutubera akabarore, kandi byandikiwe kuduhugura, twebwe abasohoreweho n'imperuka y'ibihe" (1 Abakorinto 10:11). Ibyo bintu byabayeho mu gihe cyahise byagombye kutubera umuburo n'isoko y'amabwiriza tudashobora kwibagirwa muri iki gihe. Twagombye kuyasoma, tukayiga kandi tukayigiraho, kubera ko amahame yo mu buryo bw'umwuka akubiye muri yo ahora ari amwe, uko ibihe byaba bitandukanye kose.
 
 **IMBABAZI ZAYO ZARI ZIRENZE IBYO BASHOBORAGA KWIYUMVISHA N'AMARANGA- MUTIMA YABO YOSE**
