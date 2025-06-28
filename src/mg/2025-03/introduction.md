@@ -18,7 +18,6 @@ Hitahy antsika anie Ilay Tompontsika be fahasoavana raha eo am-pandinihana ity b
 
 Mampianatra ny haihevi-tsoratra (exégèse) sy ny teolojia momba ny Testamenta Taloha i Jiří Moskala, ary koa sojaben'ny "séminaire théologique adventiste du septième jour" any amin'ny Oniversite Andrews.
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **and.** andininy
