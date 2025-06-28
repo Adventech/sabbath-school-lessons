@@ -18,7 +18,6 @@ Fie ca Domnul nostru milostiv să ne binecuvânteze în timp ce studiem această
 
 _Jiří Moskala este profesor de exegeză și teologie a Vechiului Testament și decan al Seminarului Teologic Adventist de Ziua a Șaptea din cadrul Universității Andrews._
 
-
 **Departamentul Școala de Sabat și Lucrare Personală vă oferă:**
 
 Curs de formare a instructorilor Școlii de Sabat, timp de trei luni, cu o lecție săptămânală online de două ore și cu o întrunire de weekend față în față, pentru absolvire. Prima clasă cu zeci de absolvenți a finalizat modulul la începutul lunii mai, a doua clasă a început cursurile după data de 15 mai, iar a treia clasă va începe după 15 septembrie. Înscrieri la adresa: danielbrinzan@adventist.ro.
