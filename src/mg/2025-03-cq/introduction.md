@@ -16,7 +16,6 @@ Amin'ny farany, dia niditra tamin'ny fifandraisam-panekena tamin'i Jehovah ilay 
 
 Mpampianatra momba ny fivavahana any amin'ny Union Adventist University Thomas Toews ary nahazo ny mari-pahaizana PhD amin'ny "théologie historique" tao amin'ny Oniversite Andrews.
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **b.** boky
