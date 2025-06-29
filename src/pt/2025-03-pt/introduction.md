@@ -1,0 +1,21 @@
+### O Êxodo: Viagem à terra prometida
+
+O Deus revelado no livro de Êxodo é o Senhor amoroso que, no tempo determinado – e com as Suas ações poderosas – trouxe salvação e libertação ao Seu povo (Gén. 15:12-16). O êxodo do Egito e a travessia do Mar Vermelho foram acontecimentos fundamentais e únicos – atos espetaculares e maravilhosos de Deus. Nenhum evento maior ou mais glorioso aconteceu na história do antigo Israel antes da Cruz. É o Evangelho, mas segundo Moisés!
+
+Deus ergueu-Se repetidamente e de modo milagroso para demonstrar o Seu cuidado e a Sua proteção para com os Hebreus, apesar das suas constantes apostasias. A Sua misericórdia ultrapassou todas as compreensões e todos os sentimentos deles. Com o Seu braço estendido, o Senhor conduziu o Seu povo à liberdade. Foi um ato sem precedentes. Esta série inesperada de intervenções divinas foi o início da sua renovada viagem com Deus, uma viagem do Egito para – finalmente – Canaã.
+
+Embora Moisés desempenhe um papel importante no Êxodo, este livro não é sobre Moisés, mas sobre Deus – o Deus do amor, da verdade, da justiça, da liberdade e do perdão; o Deus que, na Pessoa do Filho – Jesus –, acabou por ir para a Cruz por nós. Ao estudarmos o Êxodo, temos uma visão única de como é realmente o nosso Deus.
+
+E como é Ele realmente? É um Deus que foi fiel ao Seu povo, apesar da sua infidelidade. Esteve constantemente a favor dele, mesmo quando este estava contra Ele. Vez após vez, mostrou-lhe a Sua misericórdia, trazendo-lhe encorajamento, correção e instrução divina. Conduzindo-o da melhor maneira possível, Ele queria que o povo voluntariamente, por amor a Ele e ao Seu caráter, O adorasse e Lhe obedecesse, tudo para o seu próprio bem.
+
+O Deus de Moisés é o Deus dos relacionamentos. O objetivo mais importante de Deus não era realizar algo ou cumprir uma agenda; em vez disso, o Seu principal objetivo era criar uma relação significativa com o Seu povo escolhido, Israel. Conduziu-o ao Sinai para estabelecer esta profunda comunhão.
+
+O apóstolo Paulo ensina que o que aconteceu ao povo de Deus no passado é uma lição para nós, para que possamos aprender com os seus erros e seguir fielmente o Senhor hoje: “Ora tudo isto lhes sobreveio como figuras, e estão escritas para aviso nosso, para quem já são chegados os fins dos séculos” (I Cor. 10:11). Esses eventos passados devem ser um aviso e uma fonte de instrução inesquecível para nós agora.
+
+Devemos lê-los, estudá-los e aprender com eles, pois, não importa quão diferentes sejam as circunstâncias, os princípios espirituais por trás deles permanecem os mesmos.
+
+O nosso plano para estudar o livro de Êxodo durante estas 13 semanas é claro. O livro está dividido em leituras semanais de capítulos de várias durações (divididos tematicamente por conveniência): (1) A escravidão no Egito, o nascimento de Moisés e os seus primeiros 40 anos (Êxodo 1 e 2); (2) A missão de Moisés (Êxodo 3 e 4); (3) Complicações: Quando a vida se torna pior (Êxodo 5 e 6); (4) As primeiras nove pragas (Êxodo 7-10); (5) A décima praga e a celebração da Páscoa (Êxodo 11 e 12); (6) A libertação do Egito e a experiência do Mar Vermelho (Êxodo 13-15); (7) A viagem ao Monte Sinai (Êxodo 16-18); (8) O dom da Aliança de Deus e o Decálogo (Êxodo 19 e 20); (9) A aplicação da Lei de Deus (Êxodo 21-23); (10) A confirmação da Aliança e o projeto do tabernáculo (Êxodo 24-31); (11) A apostasia do bezerro de ouro e a intercessão de Moisés (Êxodo 32); (12) A autorrevelação de Deus e o rosto radiante de Moisés (Êxodo 33 e 34); e (13) A construção e a dedicação do tabernáculo (Êxodo 35-40). Todas as semanas, concentrar-nos-emos em passagens e acontecimentos importantes dos capítulos indicados.
+
+Que o nosso gracioso Senhor nos abençoe enquanto estudamos este livro fundamental que nos lembra de como Deus quer conduzir o Seu povo da escravidão para a liberdade, da morte para a vida e do deserto para a Nova Jerusalém (Heb. 12:22).
+
+_Jiří Moskala é Professor de Exegese e Teologia do Antigo Testamento, e Reitor do Seminário Teológico Adventista do Sétimo Dia, na Universidade Andrews._
