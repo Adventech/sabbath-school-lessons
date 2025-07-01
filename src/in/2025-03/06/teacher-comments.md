@@ -1,5 +1,5 @@
 ---
-title:  Lesson
+title:  Penuntun Guru
 date:   08/08/2025
 ---
 
