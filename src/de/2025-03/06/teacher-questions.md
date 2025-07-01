@@ -39,9 +39,9 @@ date:   08/08/2025
     -   Wozu dienen eigentlich Feste? (Erinnern / Dank / und fürs
         weitere Leben …?)
     -   V14 was sollen wir unseren Nachkommen weitergeben? Wie, am
-        besten..
+        besten... ?
 -   Fragen zur Botschaft:
-    -   Wie wird Vertrauen sichtbar?
+    -   Wie /Wodurch wird Vertrauen sichtbar?
     -   Welche Ansprüche Gottes an mich sind mir bewusst? Was bewirkt
         das bei mir?
     -   Welcher Rettung dürfen wir heute gewiss sein? Und wie sie auch
@@ -56,7 +56,9 @@ date:   08/08/2025
     -   Was Zeigen die Texte (12:32 und 14:3.6) über den Pharao?
     -   War diese Angst (14:10) berechtigt? Was hilft gegen/bei Angst?
 -   Fragen zur Botschaft:
-    -   Woran erkennt man, dass eine Buße echt ist?
+    -   Woran erkennt man, dass eine Buße/Umkehr/Änderung echt ist?
+    -   Ist eine Buße einfach Sache des Verstandes? Welche Rolle spielt
+        dabei das Herz/der Charakter?
     -   Welche verschiedenen Wirkungen kann Angst haben? Worauf kommt es
         da an?
 
@@ -85,8 +87,8 @@ date:   08/08/2025
 
 -   Fragen zum Text:
     -   V2+3 betonen die PERSÖNLICHE Beziehung zu Gott.
-    -   V9 die Klugheit des Feindes ist nichtig gegen Gott! (auch die
-        Satans!) Was zeigt das mir?
+    -   V9 die Klugheit des Feindes (auch die Satans!) ist nichtig gegen
+        Gott! Was zeigt das mir?
     -   V13 Wo sieht man hier bei Ägypten auch Gottes Barmherzigkeit?
         Wieviel Geduld und Chancen gab Gott?
 -   Fragen zur Botschaft:
