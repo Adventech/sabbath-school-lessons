@@ -1,0 +1,19 @@
+### Druga Mojzesova knjiga: Potovanje v obljubljeno deželo
+
+Bog se je v 2. Mojzesovi knjigi razodel kot ljubeči Gospod, ki je ob določenem času po svojih mogočnih dejanjih svojemu ljudstvu prinesel zveličanje in osvoboditev (1 Mz 15,12-16). Izhod iz Egipta in prečkanje Rdečega morja sta bila ključna in edinstvena dogodka – Božji spektakularni in čudoviti deli. V zgodovini starodavnega Izraela se pred križem ni zgodil noben večji ali veličastnejši dogodek. To je evangelij – evangelij po Mojzesu.
+
+Čeprav je Hebrejcem večkrat spodletelo, je Bog vedno znova na čudežni način pokazal svojo skrb zanje. Njegovo usmiljenje je preseglo njihovo razumevanje in čustva. Gospod jih je s svojo iztegnjeno roko vodil v svobodo. To je bilo dejanje brez primere. Ta nepričakovani niz Božjega poseganja v svet je bil začetek prerojenega potovanja z Bogom, potovanja od Egipta do Kanaana.
+
+Čeprav igra Mojzes v 2. Mojzesovi knjigi pomembno vlogo, pa ta knjiga ne govori o njem, temveč o Bogu – Bogu ljubezni, resnice, pravičnosti, svobode in odpuščanja, Bogu, ki je za nas šel na križ. Proučevanje 2. Mojzesove knjige nam daje edinstven vpogled v to, kakšen je pravzaprav naš Bog.
+
+In kakšen je naš Bog? On je Bog, ki je bil zvest svojemu ljudstvu kljub njihovi nezvestobi. Zanje si je vedno želel dobro – tudi takrat, ko so se obrnili proti njemu. Nenehno jim je izkazoval usmiljenje, jih spodbujal in grajal ter jim dajal božanska navodila. Vodil jih je na najboljši možni način; želel si je, da bi ga prostovoljno, torej iz ljubezni do njega in njegovega značaja, častili in poslušali v svoje dobro.
+
+Mojzesov Bog je Bog odnosov. Najpomembnejši Božji cilj ni bil doseči določeno stvar ali izpolniti neki načrt. Ne; njegov glavni cilj je bil ustvariti smiseln odnos s svojim izvoljenim ljudstvom, z Izraelom. Da bi vzpostavil globoko občestvo z njim, ga je pripeljal k Sinaju.
+
+Apostol Pavel pravi, da je to, kar se je zgodilo v preteklosti Božjemu ljudstvu, nauk za nas, da bi se lahko učili iz njihovih napak in zvesto sledili Gospodu: »To se je onim zgodilo, da bi bili za zgled, zapisano pa je bilo v svarilo nam, nad katere je prišel konec vekov.« (1 Kor 10,11) Ti dogodki bi nam morali biti v svarilo in vir nepozabnih napotkov za današnji čas. Morali bi jih brati, proučevati in se učiti iz njih, kajti kljub drugačnim okoliščinam duhovna načela ostajajo enaka.
+
+V naslednjih trinajstih tednih se bomo poglobili v 2. Mojzesovo knjigo, ki jo bomo proučili v različno dolgih tedenskih branjih (zaradi preglednosti so razdeljena po temah): (1) Suženjstvo v Egiptu, Mojzesovo rojstvo in njegovih prvih 40 let (2 Mz 1–2). (2) Mojzesova naloga (2 Mz 3–4). (3) Zapleti: ko življenje postane težko (2 Mz 5–6). (4) Prvih devet šib (2 Mz 7–10). (5) Deseta šiba in praznovanje pashe (2 Mz 11–12). (6) Osvoboditev iz Egipta in izkušnja prečkanja Rdečega morja (2 Mz 13–15). (7) Potovanje h gori Sinaj (2 Mz 16–18). (8) Dar Božje zaveze in deset zapovedi (2 Mz 19–20). (9) Uporaba Božjega zakona (2 Mz 21–23). (10) Potrditev zaveze in načrt shodnega šotora (2 Mz 24–31). (11) Zlato tele, odpadništvo in Mojzesovo posredovanje (2 Mz 32). (12) Božje razodetje in Mojzesov sijoči obraz (2 Mz 33–34). (13) Gradnja in posvetitev shodnega šotora (2 Mz 35–40). Vsak teden se bomo osredotočili na ključne odlomke in dogodke iz navedenih poglavij.
+
+Naj nas naš milostni Gospod blagoslovi med proučevanjem te pomembne knjige, ki nas spominja na to, kako želi Bog voditi svoje ljudstvo iz sužnosti v svobodo, iz smrti v življenje in iz puščave v novi Jeruzalem (Heb 12,22).
+
+_Jiří Moskala je profesor starozavezne eksegeze in teologije ter dekan Adventistične teološke fakultete na Univerzi Andrews._
