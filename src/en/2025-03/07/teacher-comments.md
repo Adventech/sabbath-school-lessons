@@ -5,8 +5,6 @@ date:  15/08/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 16:28–30
 
 Study Focus: Exod. 15:22–18:27
@@ -19,13 +17,9 @@ God cared for Israel like a loving parent, and He led them patiently through the
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 Exodus 15:22–18:27 describes Israel’s journey to Sinai. The passage contains five narratives: two stories are related to the gift of water. The first water narrative, at Mara, concerns making bitter water sweet (Exod. 15:22–27). The second water narrative concerns water springing from a rock (Exod. 17:1–7). In between these two stories lies miraculous gifts of food—quail and manna—and teachings about how to keep the Sabbath (Exod. 16:1–36). These three wonders—water, quail, and manna—are followed by two additional accounts, namely, the Lord’s gift of victory over the Amalekites (Exod. 17:8–16) and Jethro’s visit, during which time he gives wise advice to Moses (Exod. 18:1–27).
 
 **The Gift of Water at Mara**
-
-The Gift of Water at Mara
 
 For the first time in the book of Exodus, the Hebrew root lun— “murmur,” “grumble,” “complain”—appears in our story about the lack of potable water in the Desert of Shur. The Israelites stopped at Mara, where the water was bitter; so, the “people grumbled against Moses” (Exod. 15:24, NIV). Unfortunately, lun became a key expression that marks Israel’s stories of wandering through the wilderness. It is a dominant word in the stories of manna and quail, where this negative term occurs eight times (as a verb in Exodus 16:2, 7, and 8; as a noun in Exodus 16:7, 8; and twice more in verses 9 and 12). It also is mentioned in the next account regarding water springing from the rock in the Rephidim narrative (Exod. 17:3-6). The same idea of murmuring or grumbling occurs in the book of Numbers (Num. 14:2, 27, 29, 36; Num. 16:11, 41; Num. 17:5, 10). This term is used outside of the Pentateuch only in Joshua 9:18.
 
@@ -34,8 +28,6 @@ When the people complained, Moses cried out to the Lord, which is now mentioned 
 In the wilderness, water is a life-giving product. Without water, one cannot live; it is a source and sustainer of life. Water is life. One can survive without it for only a few days. No wonder we have several important stories and miracles related to water in Exodus and Numbers. Afterward, Israel encamped in Elim, where there was plenty of water and shade from the palms.
 
 **Quail, the Gift of Manna, and the Sabbath**
-
-Quail, the Gift of Manna, and the Sabbath
 
 The Lord mercifully responded to the grumbling of the people, who complained that they did not have meat and other food that they had enjoyed in Egypt. Their speech is full of exaggerations and bitter irony. The Israelites recalled their full plates while slaving for Pharaoh. In response, however, the Lord promised that He would provide them with bread from heaven as well as quail. He said that in the evening they would have quail and in the morning bread from heaven. It happened precisely as predicted (Exod. 16:13). The surprise was in the morning, because they had never seen manna before, so they asked, “What is it?” (Exod. 16:15). This question is the meaning of the word “manna.”
 
@@ -52,8 +44,6 @@ In the apex of the manna story, when some people went out on Sabbath to gather m
 “ ‘How long will you refuse to keep my commands’ ” (Exod. 16:28, NIV). The Lord uses the word “refuse” to describe their willful action. They needed to learn that the Sabbath was a gift, one that is reinforced by the fact that the Lord provided the food for them. Therefore, they did not need to collect manna for themselves on Sabbath.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	Jesus proclaimed about Himself that He is the Bread of Life (John 6:35, 48). How can we live with Jesus Christ in such a close relationship that He becomes for us our daily “bread and water”?
 

@@ -5,8 +5,6 @@ date:  04/07/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 2:23–25
 
 Study Focus: Exod. 1:1–2:25
@@ -15,21 +13,13 @@ Introduction: This first lesson summarizes the long history of God’s people in
 
 **Lesson Themes**
 
-Lesson Themes
-
-1.	God’s fulfillment of His promises and blessings of prosperity are to be celebrated. Thankful hearts recognize God’s love and care in their lives and acknowledge that it is God who blesses and intervenes to give prosperity and success. However, if not careful, we can all too easily lose sight of the fact that God, not our achievements, is responsible for our prosperity. Forgetting that all we have ultimately belongs to God may lead some to be overcome with jealousy, desiring to control and destroy the good work that God is seeking to do through them to save others.
-
-2.	Prayers have different functions. They not only serve to praise the Lord for His goodness and kindness toward us, but they are petitions—cries of wounded, oppressed, desperate, and abused people who need help. Evil people may violate the rights of others, but God promises to assist those who are thus harmed.
-
-3.	The good news is that God hears our desperate calls for His forgiveness, presence, and intervention. He sees our struggles, notes our tears, understands our agony, and responds to our groanings.
-
-4.	All oppressed, persecuted, exploited, and marginalized people can identify with the stories in the book of Exodus. Through these historical accounts, they learn that they are not alone. God is with them in spite of His perceived silence. His invisible presence and Bible promises seek to provide inner comfort and the assurance of salvation.
-
-5.	God remembers His covenant with Abraham, Isaac, and Jacob. He is faithful. What He promises He delivers. God intervenes in His own time. Divine timing is often contrary to our finite desires and expectations.
+1. God’s fulfillment of His promises and blessings of prosperity are to be celebrated. Thankful hearts recognize God’s love and care in their lives and acknowledge that it is God who blesses and intervenes to give prosperity and success. However, if not careful, we can all too easily lose sight of the fact that God, not our achievements, is responsible for our prosperity. Forgetting that all we have ultimately belongs to God may lead some to be overcome with jealousy, desiring to control and destroy the good work that God is seeking to do through them to save others.
+2. Prayers have different functions. They not only serve to praise the Lord for His goodness and kindness toward us, but they are petitions—cries of wounded, oppressed, desperate, and abused people who need help. Evil people may violate the rights of others, but God promises to assist those who are thus harmed.
+3. The good news is that God hears our desperate calls for His forgiveness, presence, and intervention. He sees our struggles, notes our tears, understands our agony, and responds to our groanings.
+4. All oppressed, persecuted, exploited, and marginalized people can identify with the stories in the book of Exodus. Through these historical accounts, they learn that they are not alone. God is with them in spite of His perceived silence. His invisible presence and Bible promises seek to provide inner comfort and the assurance of salvation.
+5. God remembers His covenant with Abraham, Isaac, and Jacob. He is faithful. What He promises He delivers. God intervenes in His own time. Divine timing is often contrary to our finite desires and expectations.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The book of Exodus is not about Moses but, primarily, about God and His leadership in the life of Moses and Israel. Exodus begins with the picture of God’s blessings upon Jacob’s family: they were only 70 individuals when they followed Joseph to Egypt, but they became exceedingly numerous (Exod. 1:7, NIV), in accordance with God’s promise to Abraham (Gen. 15:5).
 
@@ -54,8 +44,6 @@ Nevertheless, His covenantal promise was seemingly unfulfilled, as His people we
 In these two concluding verses, the term Elohim for God appears four times. Elohim is a mighty, strong God and is described in connection to four actions: God “heard,” “remembered,” “looked on,” and “was concerned.” These verses underline God’s knowledge of the situation, His care, and His willingness to act in favor of His people. He will change the flow of history because His time for intervention has arrived. God in His mercy will say no to the oppression and give freedom to His followers so that they may serve their God out of gratitude for the gift of freedom. Thus, God’s grace triumphs over violence, oppression, and slavery.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	How do you feel when people overlook, hurt, exploit, or abuse you? These deep disappointments and afflictions can help you to sympathize with those who go through similar experiences in life. How can you effectively encourage these suffering people? What is the best remedy for life’s disappointments?
 

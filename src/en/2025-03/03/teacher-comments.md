@@ -5,8 +5,6 @@ date:  18/07/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 5:1, 2
 
 Study Focus: Exod. 5:1–7:7
@@ -15,21 +13,14 @@ Introduction: Israel’s situation alters in unexpected ways. God promised that 
 
 There are different dialogues in this section of the book of Exodus (Exod. 5:1–7:7). Encounters or dialogues between different individuals and groups prepare the stage for the mighty display of God’s glory, as follows:
 
-1.	Moses and Aaron speak with Pharaoh (Exod. 5:1–5).
-
-2.	Pharaoh speaks with the slave masters and the Israelite supervisors (Exod. 5:6–9).
-
-3.	The slave masters and the Israelite supervisors speak with the people (Exod. 5:10–14).
-
-4.	The Israelite supervisors speak with Pharaoh (Exod. 5:15–18).
-
-5.	The Israelite supervisors speak with Moses and Aaron (Exod. 5:19–21).
-
-6.	Moses speaks with the Lord (Exod. 5:22–6:8).
-
-7.	Moses speaks with the people (Exod. 6:9).
-
-8.	The Lord speaks with Moses (Exod. 6:10–12).
+1. Moses and Aaron speak with Pharaoh (Exod. 5:1–5).
+2. Pharaoh speaks with the slave masters and the Israelite supervisors (Exod. 5:6–9).
+3. The slave masters and the Israelite supervisors speak with the people (Exod. 5:10–14).
+4. The Israelite supervisors speak with Pharaoh (Exod. 5:15–18).
+5. The Israelite supervisors speak with Moses and Aaron (Exod. 5:19–21).
+6. Moses speaks with the Lord (Exod. 5:22–6:8).
+7. Moses speaks with the people (Exod. 6:9).
+8. The Lord speaks with Moses (Exod. 6:10–12).
 
 These dialogues are followed by statements that the Lord spoke to Moses and Aaron (Exod. 6:13, 26, 27). Between these statements is sandwiched the family record of Moses and Aaron (Exod. 6:14–25). Then, again, the dialogue between Moses and the Lord is recorded as a prelude to the 10 plagues (Exod. 6:28–7:5). In the concluding part of this section, Moses’ and Aaron’s obedience is positively emphasized, for they did everything precisely as the Lord commanded them to do (Exod. 7:6). Along with this approbation, their ages are mentioned: Moses is 80 and Aaron, 83 (Exod. 7:7).
 
@@ -37,13 +28,9 @@ We can thus conclude that there is no retirement from the service of God. He nee
 
 **Lesson Themes**
 
-Lesson Themes
-
 In spite of the fact that Pharaoh says a clear no to God’s demand to “ ‘let my people go,’ ” God prepares a way out for His people. However, the people lose their faith. Even Moses argues with God, asking why things are worse: “ ‘Why . . . have you brought trouble on this people? Is this why you sent me?’ ” (Exod. 5:22, NIV). The reason for these hard questions lies in the fact that, after the first direct encounter with Pharaoh, things became more complicated, and life for the Israelites worsened. Neither Moses nor the Israelites expected such a dilemma. They anticipated a quick deliverance from slavery because their God was the mighty Creator who could do things no one else can do. What a devastating disappointment! Nevertheless, God prepares the scene of deliverance and readies Moses and Aaron for a new confrontation with the king.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The memory verse sets the scene for the drama that is about to unfold.
 
@@ -55,21 +42,16 @@ King Thutmose III was 2 years old when he was placed by a priest on the Egyptian
 
 **God’s Covenant**
 
-God’s Covenant
-
 Before God brings the Israelites out of Egypt, He assures them that He will fulfill the covenant He established with Abraham, Isaac, and Jacob. He promised their forefathers that He would “ ‘give them the land of Canaan’ ” (Exod. 6:4, NKJV), as mentioned in Genesis 12:7 and Genesis 17:8. God remembers this covenant, and because the fullness of time has come, things will now move forward. He will intervene for His people. The Lord encourages Moses to firmly declare to His people that His promise will certainly occur. His word will be fulfilled. This fresh as­surance is recorded in the crucial passage of Exodus 6:6–8.
 
 God begins with the solemn statement of self-identification: “ ‘I am the Lord.’ ” By this recognition formula, which is repeated 15 times in Exodus, especially in the section dealing with the plagues (Exod. 6:2, 6, 7, 8, 29; Exod. 7:5, 17; Exod. 10:2; Exod. 12:12; Exod. 14:4, 18; Exod. 15:26; Exod. 16:12; Exod. 29:46; Exod. 31:13), the Lord proclaims His intimate closeness with, and loving care for, His people. Such closeness and care will be recognized by the Israelites and also by the Egyptians. He will deliver His people as promised and liberate them from Egyptian bondage.
 
 The Lord stresses four different redemptive actions for His people and formally promises the following:
 
-1.	“I will bring you out [hiphil form of yatsa' means “cause to go out”] from under the yoke of the Egyptians.”
-
-2.	“I will free [hiphil form of natsal means “rescue,” “snatch out,” “deliver,” “save”] you from being slaves to them.”
-
-3.	“I will redeem [ga'al] you with an outstretched arm and with mighty acts of judgment.”
-
-4.	“I will take [laqakh] you as my own people, and I will be [hayah] your God.”
+1. “I will bring you out [hiphil form of yatsa' means “cause to go out”] from under the yoke of the Egyptians.”
+2. “I will free [hiphil form of natsal means “rescue,” “snatch out,” “deliver,” “save”] you from being slaves to them.”
+3. “I will redeem [ga'al] you with an outstretched arm and with mighty acts of judgment.”
+4. “I will take [laqakh] you as my own people, and I will be [hayah] your God.”
 
 These promises culminate with the covenant formula that underscores the intimate relationship and loving unity between the Lord and His people. This relationship is the fulfillment of God’s promise to Abraham (Gen. 17:7, 8). (In the Jewish Passover Seder liturgy, this biblical passage plays a key role, symbolized by four cups that are drunk by those who celebrate this act of redemption from Egyptian slavery.)
 
@@ -80,8 +62,6 @@ The Lord adds two more promises: (1) “ ‘I will bring you to the land I swor
 The reaction of the Israelites, according to verse 9, is very sad. Moses speaks to the Israelites, but they are so discouraged that they do not listen to the Lord’s reassuring words. However, God’s redeeming actions are about to be revealed in all their glorious reality.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	What lessons can you draw from Moses’ very open, almost confrontational dialogue with the Lord? How does this impact your own walk with the Lord? How can we communicate our thoughts, feelings, and inner desires to Him in a sincere manner? How may we speak with Him about our negative emotions, such as disappointment, bitterness, frustration, hatred, envy, and anger?
 

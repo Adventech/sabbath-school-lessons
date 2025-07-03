@@ -5,8 +5,6 @@ date:  05/09/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 24:3
 
 Study Focus: Exod. 24:1–31:18
@@ -15,35 +13,21 @@ Introduction: The Lord saved His people from the power of Egypt, gave them freed
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **The Ratification of the Covenant**
-
-The Ratification of the Covenant
 
 The ratification of the covenant involved several important elements:
 
-•	Moses’ oral presentation of the Lord’s words and laws (Exod. 24:3);
-
-•	Moses’ writing of the Book of the Covenant (Exod. 24:4a);
-
-•	building an altar (Exod. 24:4b);
-
-•	setting up 12 stone pillars, representing the 12 tribes of Israel (Exod. 24:4c);
-
-•	burnt and peace offerings (Exod. 24:5);
-
-•	Moses’ sprinkling half of the sacrificial blood on the altar (Exod. 24:6);
-
-•	his reading of the Book of the Covenant (Exod. 24:7a);
-
-•	the people’s affirmative responses (Exod. 24:3, 7b);
-
-•	Moses’ sprinkling another half of the sacrificial blood on the people (Exod. 24:8a);
-
-•	Moses’ pronunciation: “ ‘This is the blood of the covenant [phrase occurring only here in the Hebrew Bible; compare with Zech. 9:11, Matt. 26:28, Mark 14:24] that the Lord has made with you in ac­cordance with all these words’ ” (Exod. 24:8b, NIV);
-
-•	a covenantal meal, with 74 leaders, on Mount Sinai (Exod. 24:9–11).
+- Moses’ oral presentation of the Lord’s words and laws (Exod. 24:3);
+- Moses’ writing of the Book of the Covenant (Exod. 24:4a);
+- building an altar (Exod. 24:4b);
+- setting up 12 stone pillars, representing the 12 tribes of Israel (Exod. 24:4c);
+- burnt and peace offerings (Exod. 24:5);
+- Moses’ sprinkling half of the sacrificial blood on the altar (Exod. 24:6);
+- his reading of the Book of the Covenant (Exod. 24:7a);
+- the people’s affirmative responses (Exod. 24:3, 7b);
+- Moses’ sprinkling another half of the sacrificial blood on the people (Exod. 24:8a);
+- Moses’ pronunciation: “ ‘This is the blood of the covenant [phrase occurring only here in the Hebrew Bible; compare with Zech. 9:11, Matt. 26:28, Mark 14:24] that the Lord has made with you in ac­cordance with all these words’ ” (Exod. 24:8b, NIV);
+- a covenantal meal, with 74 leaders, on Mount Sinai (Exod. 24:9–11).
 
 In the setting of the covenant, God’s people responded three times in the same way to God’s gracious words: “ ‘We will do everything the Lord has said’ ” (Exod. 19:8, NIV; see also Exod. 24:3, 7, NIV). What was wrong with such a promise? Namely, their self-confidence, their shallow understanding of the power of sin and of their own sinful nature, and their failure to acknowledge the need for God’s assistance. In reality, just a few weeks later, many of them were dancing around the golden calf. The proper answer would be: “With the help of the Lord and by the power of His grace, we will do everything the Lord has said.”
 
@@ -54,8 +38,6 @@ God invited Moses, along with Aaron and two of his sons, Nadab and Abihu, and 70
 We experience a similar covenantal fellowship when we celebrate the life and death of Jesus during the Lord’s Supper, the Communion. God is inviting believers to have a close relationship with Him and with one another by eating and drinking together. Those who participate in this commemorative ceremony form one family with Christ because it actualizes and makes tangible what He did for us. Communion is the time when His church is reestablished and a community of faith reformed, showing that He is their Lord, King, and Friend. Church members are united with Him and to one another. They are sanctified by His being with them. The bond is sealed by His presence and Word.
 
 **The Tabernacle of God**
-
-The Tabernacle of God
 
 Almost one-third of the book of Exodus deals with the tabernacle, thus indicating its importance. Exodus 25 to 31 provides the detailed blueprint, instructions about its design, and the materials used, while Exodus 35 to 40 narrate how to build it and the actual consecration of the sanctuary for its holy functions. What is the significance of this narrative?
 
@@ -76,8 +58,6 @@ When Israel’s glorious Solomonic temple was destroyed by Nebuchadnezzar, and t
 God tells Moses that he must build the sanctuary, according to the model of the heavenly sanctuary shown him on Mount Sinai (Exod. 25:9, 40; see more on this in the Commentary section of lesson 13). The most important space in the sanctuary was the Most Holy Place, with its central piece being the ark of the covenant, also called the ark of the testimony (Exod. 25:16), because God’s words of the testimony or the Decalogue were to be placed inside the ark (Exod. 40:20). On the top of the ark, an atonement cover made of pure gold was placed, a mercy seat (Hebrew Kaporet, from the root kapar, “atone”; in the Greek, hilasterion). It was the place where final reconciliation took place and the confessed sins of God’s people were blotted out. Here God provided the ultimate solution to the problem of sin and evil (see Lev. 16:15, 16, 30). Jesus Christ is the hilasterion, the mercy seat, the atoning Sacrifice who atones and purifies us from our sins (Rom. 3:25, CJB; 1 John 2:2, NIV).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	After Solomon built the temple, God said to him: “If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land” (2 Chron. 7:14). How can we carefully implement and practice as a community of faith this divine advice? What hinders our prayers, keeping God from hearing, and responding to, our cries for help?
 
