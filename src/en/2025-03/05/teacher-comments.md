@@ -5,8 +5,6 @@ date:  01/08/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 12:26, 27
 
 Study Focus: Exod. 11:1–12:30
@@ -17,17 +15,11 @@ Teachers, do not forget to explain to your class members the main point of the l
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **Historical Background**
 
-Historical Background
-
-Thutmose III (1504–1450 b.c.) appointed his son Amenhotep II (1453–1425 b.c.), who was not his oldest son, to be co-regent with him, but only for a short period of time. Amenhotep II was probably not present in Egypt during the ten plagues, as he was engaged in a military campaign. After his return, he would receive the devastating news that his father had died in the Red Sea while pursuing the Israelites (Exod. 14:28, Exod. 15:4, Ps. 136:15) and that his brother, the firstborn of Pharaoh, had died in the tenth plague (Exod. 12:29). God’s executive judgment struck, as predicted, in a three-pronged attack on the firstborn Egyptian males, their animals, and their gods (Exod. 12:12). Pharaoh was clearly warned, but he defied both the divine admonishment and Moses’ repeated pleas to submit to God’s request so that this calamity might be averted. Pharaoh stubbornly refused to obey God, and his recalcitrance led to further unprecedented devastation for the Egyptians. Every family was affected. The influence of this tragedy was immediate, and the Egyptians begged the Israelites to leave Egypt.
+Thutmose III (1504–1450 B.C.) appointed his son Amenhotep II (1453–1425 B.C.), who was not his oldest son, to be co-regent with him, but only for a short period of time. Amenhotep II was probably not present in Egypt during the ten plagues, as he was engaged in a military campaign. After his return, he would receive the devastating news that his father had died in the Red Sea while pursuing the Israelites (Exod. 14:28, Exod. 15:4, Ps. 136:15) and that his brother, the firstborn of Pharaoh, had died in the tenth plague (Exod. 12:29). God’s executive judgment struck, as predicted, in a three-pronged attack on the firstborn Egyptian males, their animals, and their gods (Exod. 12:12). Pharaoh was clearly warned, but he defied both the divine admonishment and Moses’ repeated pleas to submit to God’s request so that this calamity might be averted. Pharaoh stubbornly refused to obey God, and his recalcitrance led to further unprecedented devastation for the Egyptians. Every family was affected. The influence of this tragedy was immediate, and the Egyptians begged the Israelites to leave Egypt.
 
 **The Passover Lamb**
-
-The Passover Lamb
 
 Many do not understand the true meaning and purpose of sacrifices and the motives behind them. There is a vast difference between pagan sacrifices, offered in temples or houses to different gods in the form of idols, and the genuine sacrifice offered to the living God. God regulates these offerings and gives precise instructions on why and how they should be offered to Him, along with what should be offered and who should of­ficiate over the sacrifices.
 
@@ -45,15 +37,11 @@ God can accept a sacrifice given only from a contrite, humble, and thankful hear
 
 **Teaching Our Children God’s Way**
 
-Teaching Our Children God’s Way
-
 God gives precise instruction to His people on how to teach the next generation about Him and His mighty acts. He tells them to celebrate the Passover each year in a very personal way. What happened to their forefathers must be recounted as their own Exodus experience, as if they were the slaves who were redeemed by the Lord and escaped from Egypt. Parents need to teach their children, and the next generation needs to teach their children, perpetually. They need to live it, not only in words but in actions. The experience must always be fresh; the history must be actualized as if it happened right now. The historical event must become existential and personal. In this way, history will be relived, memory recharged, and what happened will not be forgotten. Moses said: “ ‘When you enter the land that the Lord will give you as he promised, observe this ceremony. And when your children ask you, “What does this ceremony mean to you?” then tell them, “It is the Passover sacrifice to the Lord, who passed over the houses of the Israelites in Egypt and spared our homes when he struck down the Egyptians” ’ ” (Exod. 12:25–27, NIV). In order to remember, the Israelites were instructed to celebrate the Passover ritual every year.
 
 This model is the standard by which we are to teach our children and grandchildren today. This pattern is given to us to imitate. Asaph encourages: “I will open my mouth in a parable: I will utter dark sayings of old: Which we have heard and known, and our fathers have told us. We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done. For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children: That the generation to come might know them, even the children which should be born; who should arise and declare them to their children: That they might set their hope in God, and not forget the works of God, but keep his commandments” (Ps. 78:2–7). David states what we should do in these words: “One generation shall praise thy works to another, and shall declare thy mighty acts” (Ps. 145:4). The story of redemption and deliverance needs to be relevantly repeated and learned by each new generation. It takes only one generation to neglect this task for their children and families to lose the knowledge of God. Then the understanding of His teachings will dramatically diminish, and the pursuit of a godly life will be in jeopardy.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	The stubbornness of Pharaoh, together with the recalcitrance of many Egyptians, teaches us that even great miracles and wonders do not have the power to make people believe and change their lives. Jesus Himself said: “ ‘ “If they do not hear Moses and the Prophets, neither will they be convinced if someone should rise from the dead” ’ ” (Luke 16:31, ESV). What was, and is now, in your life journey that led you to follow God wholeheartedly? How can we help others not to depend on miracles but to take God’s Word seriously?
 
