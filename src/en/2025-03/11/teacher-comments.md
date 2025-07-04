@@ -5,8 +5,6 @@ date:  12/09/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 32:31, 32
 
 Study Focus: Exod. 32:1–35
@@ -21,11 +19,7 @@ After Moses returned to the camp and saw the rebellion, he broke into pieces the
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **The Golden Calf Apostasy and Aaron**
-
-The Golden Calf Apostasy and Aaron
 
 Aaron could have prevented the golden calf apostasy if he had stood firm for God and His truth. He should not have yielded to the people’s demands for a visible god or gods. When disrespect was shown for God and His servant Moses, Aaron should immediately have stopped the uprising. Instead, he listened to the rebels and made a false proposition. In the time of Moses’ absence, Aaron should have functioned as a strong leader, not fearing even his own death. God always intervenes to defend His cause, and Aaron should have trusted Him.
 
@@ -34,8 +28,6 @@ Moses’ concern for the prosperity of God’s people is reflected in his questi
 “And the Lord was very angry with Aaron” (Deut. 9:20), but his life was spared because Moses interceded for him. Aaron sincerely repented of this grievous sin, was restored to his leadership position, and later was anointed as the high priest (Exod. 40:12–15). God’s grace and mercy are amazing!
 
 **Intercessory Prayer**
-
-Intercessory Prayer
 
 There are four basic kinds, or types, of prayer. First, there is the “prayer of praise” or “prayer of thanksgiving,” wherein we thank God for the marvelous things He has done. In the prayer of thanksgiving, we express our gratitude for who God is and for what He does in our lives and the lives of His people, thus praising Him with joy for His numerous blessings. Second, there is the “prayer of repentance,” wherein we humbly ask God for forgiveness for our sins. Third, there is the “prayer of supplication,” wherein we pray for specific things for ourselves, such as wisdom, the Holy Spirit, joy, love, health, peace, patience, spiritual gifts, financial resources, food, safety, protection, and so on. Finally, there is the “prayer of intercession,” wherein we pray not for ourselves but for others, requesting for God to mercifully intervene and give them special “blessings” or “needed things,” such as guidance, conversion, children, parents, marriage, family, communities, institutions, prosperity, success, and so on. We also may pray for the sick, persecuted, hurt, poor, students, colleagues, baptisms, supervisors, government, and so forth. Moses’ prayer was an intercessory prayer for sinners, given that he prayed for those who erred, petitioning God to forgive their sin and not to abandon His people (Exod. 32:31, 32).
 
@@ -52,8 +44,6 @@ We do know several things about God, but some things are ambiguous or puzzling t
 God invites us to pray, not because we understand what is going on behind the scenes or how our prayers are heard. We do not control prayer, but we are invited to pray, even commanded to do so. When God’s people pray, the evil kingdom is shattered, and God’s cause can mysteriously advance.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	How is it that we humans have such a short memory of the great things God has done for us? How easily we forget! How can we refresh our walk with God and remember in critical moments of our life the goodness of God so that we may make right decisions and not sin against Him?
 
