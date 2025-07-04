@@ -3,28 +3,35 @@ title:  Misijný príbeh
 date:   04/07/2025
 ---
 
-#### Žádní potkani k obědu
+#### Už žiadne potkany na obed
 
 _Andrew McChesney_
 
-Petr Siamikobo z horské vesnice v Zambii rád lovil potkany. Chlapec a jeho rodina jedli tyto hlodavce s kukuřičnou kaší. Také rádi jedli vepřové maso a "bubble fish" (druh ryby - možná míněn Sumčík stříbřitý). Vepřové maso bylo vždy na stole o Vánocích. "Bubble fish" byla oblíbená pro své maso bez kostí.
+Peter Siamikobo mal rád hľadanie potkanov v horskej dedine v Zambii. On a
+jeho rodina jedávali hlodavce spolu s kukuričnou kašou. Tiež si radi
+pochutnávali na prasatách a bublinkových rybách. Bravčovina bola na stole
+vždy počas Vianoc. Bublinkové ryby boli obľúbené pre svoje mäso bez kostí.
+Preto bolo pre Petra veľkým prekvapením, keď zistil, že Biblia zakazuje jeho
+obľúbené mäso. O nečistých jedlách počul po prvýkrát, keď cestoval asi 30
+kilometrov z rodného mesta, aby navštívil brata, ktorý pracoval na farme, ktorú
+prevádzkovali misionári Cirkvi adventistov siedmeho dňa z USA. Zostal tam na
+sobotných bohoslužbách, kde kazateľ hovoril o čistých a nečistých zvieratách
+podľa 11. kapitoly knihy Levitikus. Peter si uvedomil, že on a jeho rodina sa
+stravujú spôsobom, ktorý nie je v súlade s biblickým učením.
 
-Pro Petra proto bylo překvapením, když se dozvěděl, že Bible zakazuje jeho oblíbené druhy masa.
+Po čase začali misionári v sobotu popoludní organizovať sobotné bohoslužby
+v Petrovej základnej škole. Peter sa ich zúčastňoval, hoci musel prejsť dva
+kilometre, aby sa tam dostal. Jeho rodičia ho však odrádzali od toho, aby tam
+chodil a pripomínali mu, že bol pokrstený ako dieťa. Otec mu dokonca prikázal,
+aby v sobotu pracoval na rodinnej farme. Peter ešte nevedel nič o zachovávaní
+soboty, a tak si prácu rýchlo urobil ráno, aby stihol popoludňajšie stretnutie.
 
-O nečistém jídle se dozvěděl poprvé, když cestoval asi 20 mil od svého rodného města, aby navštívil bratra, který pracoval na farmě provozované misionáři Církve adventistů sedmého dne ze Spojených států. Zůstal tam na sobotní bohoslužbu, kde kazatel mluvil o čistých a nečistých zvířatech z Leviticus 11. Petr si uvědomil, že on a jeho rodina jí takové jídlo, které neodpovídá učení Bible.
+Na strednej škole si Peter našiel nových priateľov z adventistických rodín.
+Spolu s nimi študoval Bibliu a nakoniec odovzdal srdce Ježišovi
+prostredníctvom krstu ponorením. Prestal jesť potkany, bravčové mäso aj
+bublinkové ryby. Časom aj jeho rodičia začali chápať význam soboty a prijali
+jeho rozhodnutie nejesť nečisté
+mäso. Vždy, keď bol Peter doma cez sobotu, povzbudzovali ho, aby neprišiel
+neskoro na sobotnú školu.
 
-Po nějaké době začali misionáři pořádat bohoslužby v Petrově základní škole v sobotu odpoledne. Petr se těchto setkání účastnil, i když musel ujít dvě míle, aby se do školy dostal.
-
-Jeho rodiče ho však odrazovali od účasti a připomínali mu, že byl pokřtěn už jako dítě. Otec mu dokonce nařídil, aby v sobotu pracoval na rodinné farmě. Petr nevěděl nic o dodržování soboty, a tak rychle dokončil svou práci ráno, aby mohl jít na odpolední shromáždění.
-
-Na střední škole si Petr našel nové přátele z adventistických rodin. Studoval s nimi Bibli a dal své srdce Ježíši křtem ponořením. Přestal jíst potkany, vepřové maso a "Bubble fish".
-
-Postupem času začali jeho rodiče oceňovat sedmý den, sobotu. Pochopili, proč Petr nejí nečisté maso. Každou sobotu, kdy byl doma, ho povzbuzovali, aby nepřišel pozdě do sobotní školy.
-
-Dnes je v Petrově městě adventistický sbor. Díky adventistickému vlivu mnoho obyvatel města přestalo jíst nečisté jídlo.
-
-Petr je vděčný, že se jako chlapec naučil, jak důležitý je zdravý životní styl a oslavování Boha také svým stravováním. Koneckonců, 1. Korintským 10:31 říká: „Ať už jíte nebo pijete, ať už děláte cokoli, všechno to dělejte k Boží slávě.“
-
-„Děkuji Ježíši, že mě zachránil od nečistých potravin,“ řekl Petr, dnes už starší církve a vedoucí katedry sociálních věd na Rusangu Secondary School, adventistické střední škole v Zambii.
-
-_Modlete se za šíření evangelia v Zambii a dalších zemích v Divizi Jižní Afriky a Indického oceánu, která je příjemcem sbírky třinácté soboty v tomto čtvrtletí._
+Dnes je v Petrovom meste zbor adventistov. Vďaka vplyvu adventistov mnohí obyvatelia prestali jesť nečisté potraviny. Peter je vďačný, že už ako chlapec spoznal dôležitosť zdravého životného štýlu a oslavovania Boha prostredníctvom svojej stravy. Ako totiž hovorí 1. Korinťanom 10,31: „A tak teda, či jete, či pijete, či čokoľvek robíte, všetko robte na Božiu slávu“ (SEB). „Ďakujem Ti Ježišu, že si ma zachránil pred nečistým jedlom,“ povedal Peter, dnes starší zboru a vedúci Katedry spoločenských vied na strednej škole Rusangu, adventistickej strednej škole v Zambii.
