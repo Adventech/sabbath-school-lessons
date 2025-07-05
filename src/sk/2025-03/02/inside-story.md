@@ -18,3 +18,5 @@ Vedúci zboru Jeff Weijohn ho povzbudzoval slovami: „Božie slovo sľubuje, ž
 Mitch začal vidieť naplnenie biblických zasľúbení. Lekári, ktorí mu tvrdili, že už nikdy nebude pracovať, boli prekvapení, keď si našiel prácu a dokázal si ju aj udržať. Po biblických štúdiách odovzdal Mitch svoje srdce Ježišovi a pripojil sa k Cirkvi adventistov siedmeho dňa. Neskôr sa stal biblickým pracovníkom a začal učiť Bibliu aj iných. Spolu s manželkou otvorili svoj dom pre mladých ľudí, ktorí potrebovali miesto na bývanie. Každý bol vítaný, pokiaľ rešpektoval domové pravidlá. Jedno z nich znelo: každý ide v sobotu do zboru. Aj životy ich hostí sa začali meniť.
 
 Raz v sobotu jeden mladý človek s radosťou povedal Jeffovi: „Vieš čo? Keď si nám hovoril o Biblii, vôbec sme ťa nechceli počúvať. Ale teraz ju chceme študovať.“ Jeff povedal, že zmena v Mitchovom živote bola revolučná. „Keď prijal Boha do svojho života, ľudia ho už nespoznávali,“ povedal. „Z človeka, ktorý bol tvrdý a mal poškodený mozog, sa stal služobník evanjelia. Dotkol sa mnohých mladých ľudí.Boh pracuje cez nás napriek nám samotným.“
+
+![All Nations Center](picture2.jpg) 
