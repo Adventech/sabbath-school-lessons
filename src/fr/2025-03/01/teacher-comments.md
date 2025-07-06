@@ -5,7 +5,11 @@ date:   04/07/2025
 
 ### Ire partie: Aperçu
 
-**Texte clé:** Exode 23-25 Étude contextuelle: Exode:1-2:25 Introduction
+**Texte clé:** Exode 23-25
+
+**Étude contextuelle:** Exode:1-2:25
+
+**Introduction**
 
 Cette première leçon résume la longue histoire du peuple de Dieu en Égypte, depuis l'époque de Joseph, lorsqu'Israël avait connu une énorme prospérité, jusqu'à son asservissement sous le cruel pharaon, qui avait ordonné l'exécution de tous les bébés mâles. Cependant, Dieu n'est pas passif lorsque les forces du mal tentent de détruire Son peuple. Il est leur Sauveur. Il envoya donc un libérateur, Son serviteur Moïse, dont la protection miraculeuse à la naissance lui valut le fait d'être extraordinairement inclus dans la famille de Pharaon en tant que fils adoptif. Les 40 premières années de la vie de Moïse sont marquées par la meilleure éducation, d'abord de sa mère, puis à l'université égyptienne. Bien qu'il ait été formé pour s'assoir sur letrône d'Égypte et devenir un grand chef, Moïse se retrouva, à cause de ses erreurs et de la Providence de Dieu, dans la maison de Jéthro. Là, il se maria et devint berger.
 

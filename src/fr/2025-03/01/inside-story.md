@@ -25,6 +25,8 @@ Peter est reconnaissant d'avoir appris, dès son jeune âge, l'importance de viv
 
 «Je remercie Jésus de m'avoir sauvé des aliments impurs», déclara Peter Siamikobo, ancien d'église et responsable du département des sciences sociales au lycée adventiste du septième jour de Rusangu, en Zambie.
 
-Priez pour que l'évangile soit proclamé en Zambie et dans d'autres pays de la Division de l'Afrique Australe et de l'Océan Indien, destinataire de l'offrande du treizième sabbat de ce trimestre.
+_Priez pour que l'évangile soit proclamé en Zambie et dans d'autres pays de la Division de l'Afrique Australe et de l'Océan Indien, destinataire de l'offrande du treizième sabbat de ce trimestre._
+
+---
 
 Produit par le Comité de la Conférence Générale pour la Mission Adventiste. Site Web: [www.AdventistMission.org](https://www.AdventistMission.org)
