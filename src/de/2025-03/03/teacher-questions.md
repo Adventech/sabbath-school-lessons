@@ -52,10 +52,101 @@ Leben)
     Menschen sind doch eher "gleichgültige Gott-Leugner". Sollten diese
     dann aber doch einmal fragen: "Wer ist der Gott, an den du
     glaubst?", was würdet ihr antworten?
--   Und wenn sie fragen sollten: "Wieso sollte ich an diesen Gott
-    glauben, was bringt es mir?", was wäre dann eure Antwort?
+    -   Und wenn sie fragen sollten: "Wieso sollte ich an diesen Gott
+        glauben, was bringt es mir?", was wäre dann eure Antwort?
 
 **MONTAG**
+
+**2.Mose 5,3-23:** *"Sie sprachen: Der Gott der Hebräer ist uns
+begegnet. Wir wollen nun hinziehen drei Tagereisen weit in die Wüste und
+dem HERRN, unserm Gott, opfern, dass er uns nicht schlage mit Pest oder
+Schwert. 4 Da sprach der König von Ägypten zu ihnen: Mose und Aaron,
+warum wollt ihr das Volk von seiner Arbeit frei machen? Geht hin an eure
+Dienste! 5 Weiter sprach der Pharao: Siehe, sie sind schon mehr als das
+Volk des Landes, und ihr wollt sie noch feiern lassen von ihrem Dienst!
+6 Darum befahl der Pharao am selben Tage den Vögten des Volks und ihren
+Aufsehern und sprach: 7 Ihr sollt dem Volk nicht mehr Häcksel geben,
+dass sie Ziegel machen, wie bisher; lasst sie selbst hingehen und Stroh
+dafür zusammenlesen. 8 Aber die Zahl der Ziegel, die sie bisher gemacht
+haben, sollt ihr ihnen gleichwohl auferlegen und nichts davon ablassen,
+denn sie gehen müßig; darum schreien sie und sprechen: Wir wollen
+hinziehen und unserm Gott opfern. 9 Man drücke die Leute mit Arbeit,
+dass sie zu schaffen haben und sich nicht um falsche Reden kümmern. 10
+Da gingen die Vögte des Volks und ihre Aufseher hinaus und sprachen zum
+Volk: So spricht der Pharao: Man wird euch kein Häcksel mehr geben. 11
+Geht ihr selbst hin und beschafft euch Häcksel, wo ihr’s findet; aber
+von eurer Arbeit soll euch nichts erlassen werden. 12 Da zerstreute sich
+das Volk ins ganze Land Ägypten, um Stroh zu sammeln, damit sie Häcksel
+hätten. 13 Und die Vögte trieben sie an und sprachen: Erfüllt euer
+Tagewerk wie damals, als ihr Häcksel hattet. 14 Und die Aufseher aus den
+Reihen der Israeliten, die die Vögte des Pharao über sie gesetzt hatten,
+wurden geschlagen, und es wurde zu ihnen gesagt: Warum habt ihr nicht
+auch heute euer festgesetztes Tagewerk getan wie bisher? 15 Da gingen
+die Aufseher der Israeliten hin und schrien zu dem Pharao: Warum
+verfährst du so mit deinen Knechten? 16 Man gibt deinen Knechten kein
+Häcksel, und wir sollen dennoch die Ziegel machen, die uns bestimmt
+sind; und siehe, deine Knechte werden geschlagen, und dein Volk trägt
+die Schuld. 17 Der Pharao sprach: Ihr seid müßig, müßig seid ihr; darum
+sprecht ihr: Wir wollen hinziehen und dem HERRN opfern. 18 So geht nun
+hin und tut euren Frondienst! Häcksel soll man euch nicht geben, aber
+die Anzahl Ziegel sollt ihr schaffen. 19 Da sahen die Aufseher der
+Israeliten, dass es mit ihnen übel stand, weil man sagte: Ihr sollt
+nichts ablassen von dem Tagewerk an Ziegeln. 20 Und als sie von dem
+Pharao weggingen, begegneten sie Mose und Aaron, die dastanden und auf
+sie warteten, 21 und sprachen zu ihnen: Der HERR richte seine Augen
+wider euch und strafe es, dass ihr uns stinkend gemacht habt vor dem
+Pharao und seinen Großen und habt ihnen so das Schwert in ihre Hände
+gegeben, uns zu töten. 22 Mose aber kam wieder zu dem HERRN und sprach:
+Herr, warum tust du so übel an diesem Volk? Warum hast du mich
+hergesandt? 23 Denn seitdem ich hingegangen bin zum Pharao, um mit ihm
+zu reden in deinem Namen, hat er das Volk noch härter geplagt, und du
+hast dein Volk nicht errettet."*
+
+-   Die Denkweise des Pharao ist aus seiner Sicht sicherlich
+    nachvollziehbar. Wenn ein Volk Zeit hat, auf dumme Gedanken zu
+    kommen, dann muss man ihnen eben noch mehr Arbeit auferlegen. Wie
+    aber seht ihr die Reaktion der Israeliten, die Mose und Aaron
+    Vorwürfe machen?
+    -   War das Unglaube, Ungeduld, Verzweiflung...?
+        -   War die Reaktion berechtigt?
+-   Wie erklärt ihr euch, dass der Pharao die beiden Rädelsführer - Mose
+    und Aaron - nicht auf der Stelle verhaften oder gar umbringen lies?
+    -   Inwiefern können wir darin Gottes Wirken sehen, obwohl es
+        vordergründig so schien, als wirke er nicht?
+
+**ZITAT:** *"Oft kommt Gottes Vorsehung eine Viertelstunde zu spät, um
+zu zeigen, wie weit unser Glaube geht."* (Abbe Pierre)
+
+-   Habt ihr auch schon Verzögerungen der Hilfe Gottes erlebt?
+    -   Wie können wir am besten damit zurechtkommen?
+-   Wie ist denn Mose damit zurechtgekommen?
+-   War seine "Warum-Frage" **ange**messen oder **ver**messen?
+    -   Unter welchen Voraussetzungen dürfen wir selbst in ähnlichen
+        Situationen diese Frage stellen? Denn ich habe oft den Satz
+        gehört: *"Wir fragen nicht warum, wir fragen wozu."*
+    -   Wann ist diese Frage erlaubt bzw. sinnvoll und wann nicht?
+
+**DIENSTAG**
+
+**2.Mose 6,1-8:** *"Da sprach der HERR zu Mose: **Nun sollst du sehen**,
+was ich dem Pharao antun werde; denn durch eine starke Hand muss er sie
+ziehen lassen, und durch eine starke Hand muss er sie aus seinem Lande
+treiben. 2 Und Gott redete mit Mose und sprach zu ihm: Ich bin der HERR
+3 und bin erschienen Abraham, Isaak und Jakob als der allmächtige Gott,
+aber mit meinem Namen »HERR« habe ich mich ihnen nicht offenbart. 4 Auch
+habe ich meinen Bund mit ihnen aufgerichtet, dass ich ihnen geben will
+das Land Kanaan, das Land, in dem sie Fremdlinge gewesen sind. 5 Auch
+habe ich gehört die Wehklage der Israeliten, die die Ägypter mit
+Frondienst beschweren, und habe an meinen Bund gedacht. 6 Darum sage den
+Israeliten: Ich bin der HERR und will euch wegführen von den Lasten, die
+euch die Ägypter auflegen, und will euch erretten von ihrem Frondienst
+und will euch erlösen mit ausgerecktem Arm und durch große Gerichte; 7
+ich will euch annehmen zu meinem Volk und will euer Gott sein, dass
+ihr’s erfahren sollt, dass ich der HERR bin, euer Gott, der euch
+wegführt von den Lasten, die euch die Ägypter auflegen. 8 Und ich will
+euch in das Land bringen, über das ich meine Hand zum Schwur erhoben
+habe, dass ich’s geben will Abraham, Isaak und Jakob; das will ich euch
+zu eigen geben. Ich bin der HERR."*
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at

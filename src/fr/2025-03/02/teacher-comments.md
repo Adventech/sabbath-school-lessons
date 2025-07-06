@@ -7,7 +7,7 @@ date:   11/07/2025
 
 **Texte clé:** Exode 3:7, 8
 
-Étude contextuelle: Exode 3:1-4:31.
+**Étude contextuelle:** Exode 3:1-4:31.
 
 **Introduction**
 
