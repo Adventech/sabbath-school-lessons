@@ -7,7 +7,9 @@ date:   18/07/2025
 
 **Texte clé:** Exode 5:1, 2
 
-Étude contextuelle: Exode 5:1-7:7. Introduction
+**Étude contextuelle:** Exode 5:1-7:7.
+
+**Introduction**
 
 La situation d'Israël changea de manière inattendue. Dieu avait promis qu'Ilconduirait Son peuple hors d'Égypte, mais au contraire, ils virent les conditions de leur vie s'aggraver immédiatement. Pharaon leur fit des exigences déraisonnables. De plus, il refusa de laisser les Israélites aller adorer leur Dieu. Leur situation était si mauvaise que les Israélites n'écoutèrent pas Moïse à cause de «l'angoisse et la dure servitude» (Ex 6:9). Pourtant, Dieu avait demandé à Moïse de parler à nouveau à Pharaon. Mais Moïse s'opposa deux fois au commandement de Dieu en disant: «comment Pharaon m'écouterait-il» (Ex 6:12, 30), alors que même les Israélites ne font pas attention à ce que je dis? Et je «n'ai pas la parole facile» (Ex 6:12).
 
