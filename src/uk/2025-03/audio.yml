@@ -1,0 +1,6 @@
+---
+  audio:
+    - artist: Суботня Школа
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-03/2025-07-04.mp3
+          target: uk/2025-03/01/07
