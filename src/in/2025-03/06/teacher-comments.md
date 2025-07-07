@@ -3,9 +3,9 @@ title:  Penuntun Guru
 date:   08/08/2025
 ---
 
-Ayat Inti: Keluaran 14: 13, 14, 30, 31
+Ayat Inti: _Keluaran 14: 13, 14, 30, 31_
 
-Fokus Pelajaran: Kel. 12: 31-15:21
+Fokus Pelajaran: _Kel. 12: 31-15:21_
 
 #### Bagian I: Ringkasan
 
