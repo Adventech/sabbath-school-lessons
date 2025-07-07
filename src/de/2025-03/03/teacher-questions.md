@@ -148,5 +148,44 @@ euch in das Land bringen, über das ich meine Hand zum Schwur erhoben
 habe, dass ich’s geben will Abraham, Isaak und Jakob; das will ich euch
 zu eigen geben. Ich bin der HERR."*
 
+-   Noch einmal zur Wiederholung: Wie war es in diesem Moment um das
+    Vertrauen des Volkes und auch das des Mose zu Gott bestellt?
+-   Vor diesem Hintergrund erscheint die Befreiung, die Gott in diesem
+    Text ankündigt, geradezu total bedingungslos. Mose und das Volk
+    mussten nicht einmal glauben! Wie ist es also mit unserer Errettung:
+    Was müssen bzw. können wir tatsächlich dazu beitragen?
+    -   Wie nehmen wir diese Errettung tatsächlich? Welcher Schritte
+        dazu bedarf es?
+-   Was unterscheidet also die, die gerettet werden, von jenen, die
+    verloren gehen?
+
+**MITTWOCH**
+
+**2. Mose 6,9-13:** *"Mose sagte das den Israeliten; aber sie hörten
+nicht auf ihn vor Kleinmut und harter Arbeit. 10 Da redete der HERR mit
+Mose und sprach: 11 Geh hinein und rede mit dem Pharao, dem König von
+Ägypten, dass er die Israeliten aus seinem Lande ziehen lasse. 12 Mose
+aber redete vor dem HERRN und sprach: Siehe, die Israeliten hören nicht
+auf mich; wie sollte denn der Pharao auf mich hören! Dazu bin ich
+ungeschickt zum Reden. 13 So redete der HERR mit Mose und Aaron und
+befahl ihnen, zu den Israeliten zu gehen und zum Pharao, dem König von
+Ägypten, um die Israeliten aus Ägypten zu führen."*
+
+-   Könnt ihr die Reaktion der Israeliten verstehen?
+-   Was sind für euch Faktoren (gewesen), die bei euch selbst Kleinmut
+    auslösen (ausgelöst haben)?
+-   Wie kann man mit dem eigenen Kleinmut am besten umgehen?
+
+**ZITAT:** *"Die Größe eines Menschen resultiert aus der Fähigkeit, mit
+seinem Kleinmut umgehen zu können."* (Thomas Holtbernd)
+
+-   Wir finden in diesem Text noch eine zweite wichtige Sache: Mose
+    kommt mit (mehr oder weniger) Elan, aber das Volk zieht nicht mit.
+    Auch uns kann es passieren, dass wir in irgendeiner Weise von der
+    Gemeinde enttäuscht werden. Wie sollen wir damit umgehen? Was
+    könnten wir hier von Mose lernen?
+
+**DONNERSTAG**
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
