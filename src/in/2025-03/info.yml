@@ -11,7 +11,7 @@
     - name: Penulis Pelajaran
       value: "Jiřί Moskala"
     - name: Penerjemah
-      value: "Swineys Tandidio & Henry Sitanggang"
+      value: "Swineys Tandidio & Henry Sitanggang (Penuntun Guru)"
     - name: Ketua Yayasan
       value: "H. Manullang"
     - name: Ketua Bidang Usaha & Pemimpin Redaksi
@@ -19,6 +19,8 @@
     - name: Redaktur Pelaksana
       value: "F. Ngantung"
     - name: Anggota Redaksi
-      value: S.P. Silalahi, F. Manurung, A. Tumbal, J. Mendellu"
+      value: "S.P. Silalahi, F. Manurung, A. Tumbal, J. Mendellu"
+    - name: Penerbit
+      value: "Yayasan Penerbit Advent Indonesia"
     - name: Kontributor
       value: "F. Lokobal"
