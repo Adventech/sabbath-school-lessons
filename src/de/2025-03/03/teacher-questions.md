@@ -187,5 +187,44 @@ seinem Kleinmut umgehen zu können."* (Thomas Holtbernd)
 
 **DONNERSTAG**
 
+**2. Mose 6,28 - 7,7:** *"Und als der HERR mit Mose in Ägyptenland
+redete, 29 sprach er zu ihm: Ich bin der HERR; sage dem Pharao, dem
+König von Ägypten, alles, was ich mit dir rede. 30 Und er antwortete vor
+dem HERRN: Siehe, ich bin ungeschickt zum Reden; wie wird denn der
+Pharao auf mich hören? Der HERR sprach zu Mose: Siehe, ich setze dich
+zum Gott für den Pharao, und Aaron, dein Bruder, soll dein Prophet sein.
+2 Du sollst alles reden, was ich dir gebieten werde; aber Aaron, dein
+Bruder, soll es vor dem Pharao reden, damit er die Israeliten aus seinem
+Lande ziehen lasse. 3 **Aber ich will das Herz des Pharao verhärten**
+und viele Zeichen und Wunder tun in Ägyptenland. 4 Und der Pharao wird
+nicht auf euch hören. Dann werde ich meine Hand auf Ägypten legen und
+durch große Gerichte meine Heerscharen, mein Volk, die Israeliten, aus
+Ägyptenland führen. 5 Und die Ägypter sollen innewerden, dass ich der
+HERR bin, wenn ich meine Hand über Ägypten ausstrecken und die
+Israeliten aus ihrer Mitte wegführen werde. 6 Mose und Aaron taten, wie
+ihnen der HERR geboten hatte. 7 Und Mose war achtzig Jahre und Aaron
+dreiundachtzig Jahre alt, als sie mit dem Pharao redeten."*
+
+-   Wann sucht man eine Ausrede (und verwendet sie auch)?
+-   Wo ertappt ihr euch in Bezug auf euer geistliches Leben bei
+    Ausreden?
+    -   Sind alle Ausreden "faule Ausreden"?
+        -   Wann wird eine Ausrede zur "faulen Ausrede"?
+
+**ZITAT:** *"Wenn man einer Aufgabe nicht mehr gewachsen ist, flüchtet
+man in Ausreden."* (Otto Baumgartner-Amstad)
+
+**ZITAT:** *"Am glaubwürdigsten klingen unsere Ausreden dann, wenn wir
+sie uns vorher eingeredet haben."* (Ernst Ferstl)
+
+-   Wann sollen wir uns Ausreden wieder ausreden und wie kann das
+    gelingen?
+
+**V. 3:** "*Aber ich will das Herz des Pharao verhärten..."*
+
+-   Wie versteht ihr diese Ausrede?
+-   Bedeutet sie z.B., dass der Pharao ab diesem Zeitpunkt keine Wahl
+    mehr hatte?
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
