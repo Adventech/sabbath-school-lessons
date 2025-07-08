@@ -148,5 +148,83 @@ euch in das Land bringen, über das ich meine Hand zum Schwur erhoben
 habe, dass ich’s geben will Abraham, Isaak und Jakob; das will ich euch
 zu eigen geben. Ich bin der HERR."*
 
+-   Noch einmal zur Wiederholung: Wie war es in diesem Moment um das
+    Vertrauen des Volkes und auch das des Mose zu Gott bestellt?
+-   Vor diesem Hintergrund erscheint die Befreiung, die Gott in diesem
+    Text ankündigt, geradezu total bedingungslos. Mose und das Volk
+    mussten nicht einmal glauben! Wie ist es also mit unserer Errettung:
+    Was müssen bzw. können wir tatsächlich dazu beitragen?
+    -   Wie nehmen wir diese Errettung tatsächlich? Welcher Schritte
+        dazu bedarf es?
+-   Was unterscheidet also die, die gerettet werden, von jenen, die
+    verloren gehen?
+
+**MITTWOCH**
+
+**2. Mose 6,9-13:** *"Mose sagte das den Israeliten; aber sie hörten
+nicht auf ihn vor Kleinmut und harter Arbeit. 10 Da redete der HERR mit
+Mose und sprach: 11 Geh hinein und rede mit dem Pharao, dem König von
+Ägypten, dass er die Israeliten aus seinem Lande ziehen lasse. 12 Mose
+aber redete vor dem HERRN und sprach: Siehe, die Israeliten hören nicht
+auf mich; wie sollte denn der Pharao auf mich hören! Dazu bin ich
+ungeschickt zum Reden. 13 So redete der HERR mit Mose und Aaron und
+befahl ihnen, zu den Israeliten zu gehen und zum Pharao, dem König von
+Ägypten, um die Israeliten aus Ägypten zu führen."*
+
+-   Könnt ihr die Reaktion der Israeliten verstehen?
+-   Was sind für euch Faktoren (gewesen), die bei euch selbst Kleinmut
+    auslösen (ausgelöst haben)?
+-   Wie kann man mit dem eigenen Kleinmut am besten umgehen?
+
+**ZITAT:** *"Die Größe eines Menschen resultiert aus der Fähigkeit, mit
+seinem Kleinmut umgehen zu können."* (Thomas Holtbernd)
+
+-   Wir finden in diesem Text noch eine zweite wichtige Sache: Mose
+    kommt mit (mehr oder weniger) Elan, aber das Volk zieht nicht mit.
+    Auch uns kann es passieren, dass wir in irgendeiner Weise von der
+    Gemeinde enttäuscht werden. Wie sollen wir damit umgehen? Was
+    könnten wir hier von Mose lernen?
+
+**DONNERSTAG**
+
+**2. Mose 6,28 - 7,7:** *"Und als der HERR mit Mose in Ägyptenland
+redete, 29 sprach er zu ihm: Ich bin der HERR; sage dem Pharao, dem
+König von Ägypten, alles, was ich mit dir rede. 30 Und er antwortete vor
+dem HERRN: Siehe, ich bin ungeschickt zum Reden; wie wird denn der
+Pharao auf mich hören? Der HERR sprach zu Mose: Siehe, ich setze dich
+zum Gott für den Pharao, und Aaron, dein Bruder, soll dein Prophet sein.
+2 Du sollst alles reden, was ich dir gebieten werde; aber Aaron, dein
+Bruder, soll es vor dem Pharao reden, damit er die Israeliten aus seinem
+Lande ziehen lasse. 3 **Aber ich will das Herz des Pharao verhärten**
+und viele Zeichen und Wunder tun in Ägyptenland. 4 Und der Pharao wird
+nicht auf euch hören. Dann werde ich meine Hand auf Ägypten legen und
+durch große Gerichte meine Heerscharen, mein Volk, die Israeliten, aus
+Ägyptenland führen. 5 Und die Ägypter sollen innewerden, dass ich der
+HERR bin, wenn ich meine Hand über Ägypten ausstrecken und die
+Israeliten aus ihrer Mitte wegführen werde. 6 Mose und Aaron taten, wie
+ihnen der HERR geboten hatte. 7 Und Mose war achtzig Jahre und Aaron
+dreiundachtzig Jahre alt, als sie mit dem Pharao redeten."*
+
+-   Wann sucht man eine Ausrede (und verwendet sie auch)?
+-   Wo ertappt ihr euch in Bezug auf euer geistliches Leben bei
+    Ausreden?
+    -   Sind alle Ausreden "faule Ausreden"?
+        -   Wann wird eine Ausrede zur "faulen Ausrede"?
+
+**ZITAT:** *"Wenn man einer Aufgabe nicht mehr gewachsen ist, flüchtet
+man in Ausreden."* (Otto Baumgartner-Amstad)
+
+**ZITAT:** *"Am glaubwürdigsten klingen unsere Ausreden dann, wenn wir
+sie uns vorher eingeredet haben."* (Ernst Ferstl)
+
+-   Wann sollen wir uns Ausreden wieder ausreden und wie kann das
+    gelingen?
+
+**V. 3:** "*Aber ich will das Herz des Pharao verhärten..."*
+
+-   Wie versteht ihr diese Ausrede?
+-   Bedeutet sie z.B., dass der Pharao ab diesem Zeitpunkt keine Wahl
+    mehr hatte?
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
