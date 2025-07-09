@@ -3,11 +3,11 @@ title:  Rangkuman Hope Sabbath School
 date:  19/09/2025
 ---
 
-### Bagian #12 Tolong, Perlihatkan Kemuliaan-Mu
+### Bagian #12 Tolong, Tunjukkan Kemuliaan-Mu
 
 **Ayat Lagu:** Lihatlah, pujilah TUHAN – Mazmur 134
 
-Selamat datang di *Hope Sabbath School*—sebuah pelajaran interaktif dan mendalam dari Firman Tuhan. Kita sedang melanjutkan seri pelajaran dari Kitab Keluaran: **Kisah-Kisah Pembebasan**. Topik hari ini: **TOLONG, PERLIHATKAN KEMULIAAN-MU**.
+Selamat datang di *Hope Sabbath School*—sebuah pelajaran interaktif dan mendalam dari Firman Tuhan. Kita sedang melanjutkan seri pelajaran dari Kitab Keluaran: **Kisah-Kisah Pembebasan**. Topik hari ini: **TOLONG, TUNJUKKAN KEMULIAAN-MU**.
 
 - **Kemah Pertemuan**
   - Apa itu Kemah Pertemuan dan di mana letaknya? *Keluaran 33:7* (bukan Kemah Suci)
