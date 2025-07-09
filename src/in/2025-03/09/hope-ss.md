@@ -1,5 +1,5 @@
 ---
-title:  Hope Sabbath School Outline
+title:  Rangkuman Hope Sabbath School
 date:  29/08/2025
 ---
 
