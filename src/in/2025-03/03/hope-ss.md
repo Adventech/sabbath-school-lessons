@@ -35,7 +35,3 @@ Selamat datang di *Hope Sabbath School*—pelajaran interaktif yang mendalam dar
   - Mengapa TUHAN tidak menyerah kepada kita walaupun kita lambat percaya kepada janji-janji-Nya? *Ratapan 3:22-26; 2 Petrus 3:9, dll.*
   - Pesan TUHAN yang mana akhirnya meyakinkan Musa untuk melakukan tepat seperti yang diperintahkan TUHAN kepadanya? *Keluaran 7:1-6*
   * Janji-janji TUHAN yang mana yang menguatkanmu untuk melakukan kehendak-Nya, walaupun kamu akan menghadapi penentangan? *Yesaya 41:10; Yohanes 16:33, dll.*
-
----
-
-Jika Anda memerlukan versi presentasi, bahan cetak guru, atau tambahan kutipan Roh Nubuat yang sesuai, saya dapat bantu juga.
