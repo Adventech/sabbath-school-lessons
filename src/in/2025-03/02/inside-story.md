@@ -73,8 +73,8 @@ Tanya beruntung memiliki Alkitabnya sendiri di mana ia dapat belajar tentang Tuh
 - Tampilkan Zimbabwe pada peta. Lalu tunjukkan Bulawayo, tempat Tanya tinggal.
 - Ketahuilah bahwa Tanya adalah nama samaran. Misi Advent tidak mempublikasikan nama atau fotonya untuk melindungi privasi Tanya dan keluarganya.
 - Unduh foto untuk cerita ini dari Facebook: [bit.ly/fb-mq](https://bit.ly/fb-mq).
-- Bagikan Postingan Misi dan Fakta Singkat dari Divisi Afrika Selatan-Samudra Hindia: [bit.ly/sid-2025](bit.ly/sid-2025).
-- Ketahuilah bahwa cerita misi ini mengilustrasikan tujuan-tujuan berikut dari rencana strategis Gereja Masehi Advent Hari Ketujuh "I Will Go": Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Allah dan menjadi teladan bagi pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: [IWillGo.org](IWillGo.org).
+- Bagikan Postingan Misi dan Fakta Singkat dari Divisi Afrika Selatan-Samudra Hindia: [bit.ly/sid-2025](https://bit.ly/sid-2025).
+- Ketahuilah bahwa cerita misi ini mengilustrasikan tujuan-tujuan berikut dari rencana strategis Gereja Masehi Advent Hari Ketujuh "I Will Go": Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Allah dan menjadi teladan bagi pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: [IWillGo.org](https://IWillGo.org).
 
 **Fakta Singkat**
 
