@@ -20,4 +20,4 @@ Setiap orang adalah seorang murid yang memiliki tanggung jawab untuk menjalankan
 John Scott berkata: “Karena setiap orang Kristen mempunyai sebuah karunia, itulah sebabnya ia bertanggung jawab, Maka tidak boleh ada orang Kristen yang dilewatkan atau dibiarkan tanpa tugas".
 
 _Catatan: Kutipan di atas diambil dari Penuntun Ibadah Sekolah Sabat Dewasa dan Promosi Pelayanan Perorangan, Diterbitkan dan disusun oleh
-Pdt. Alberto S.M. Tulalessy & Pdt. TF. Tampubolon, Departemen SS dan PP, PELMAS, SN - Uni Indonesia Bagian Barat (UIKB)_
+Pdt. Alberto S.M. Tulalessy & Pdt. TF. Tampubolon, Departemen SS dan PP, PELMAS, SN - Uni Indonesia Bagian Barat (UIKB). Digunakan dengan izin._
