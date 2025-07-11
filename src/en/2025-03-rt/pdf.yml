@@ -72,7 +72,7 @@
       end_date: 26/09/2025
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-RT-TE-Intro.pdf'
       target: en/2025-03-rt/introduction
-      title: Introduction
+      title: Teacher
       start_date: 28/06/2025
       end_date: 28/06/2025
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-RT-TE-01.pdf'
