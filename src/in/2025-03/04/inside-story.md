@@ -56,11 +56,11 @@ Persembahan Sabat Ketiga Belas tahun 1994 membantu Sekolah Menengah Advent Solus
 **Tip Cerita**
 - Tampilkan Zimbabwe di peta. Lalu tunjukkan Bulawayo, kota terdekat dengan Solusi Adventist High School.
 - Lafalkan Sibongile sebagai: SI-bong-eelee.
-- Tonton video pendek YouTube tentang Sibongile di: bit.ly/ Sibongile-SID.
-- Unduh foto untuk cerita ini dari Facebook: bit.ly/fb-mq.
-- Bagikan Postingan Misi dan Fakta Singkat dari Divisi Afrika Selatan-Samudra Hindia: bit.ly/sid-2025.
+- Tonton video pendek YouTube tentang Sibongile di: [bit.ly/Sibongile-SID](https://bit.ly/Sibongile-SID).
+- Unduh foto untuk cerita ini dari Facebook: [bit.ly/fb-mq](https://bit.ly/fb-mq).
+- Bagikan Postingan Misi dan Fakta Singkat dari Divisi Afrika Selatan-Samudra Hindia: [bit.ly/sid-2025](https://bit.ly/sid-2025).
 - Ketahuilah bahwa cerita misi ini menggambarkan tujuan-tujuan berikut dari rencana strategis Gereja Masehi Advent Hari Ketujuh "I Will Go":
-- Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Allah dan menjadi teladan bagi pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: IWillGo.org.
+- Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Allah dan menjadi teladan bagi pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: [IWillGo.org](https://IWillGo.org).
  
 **Fakta Singkat**
 - "Mbira," yang juga dikenal sebagai "piano jari," adalah instrumen kecil yang dipegang dengan tangan yang telah dimainkan di Zimbabwe selama lebih dari 1.000 tahun.
