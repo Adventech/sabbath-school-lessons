@@ -5,9 +5,9 @@ date:  11/07/2025
 
 ## GEREJA DAN MISI
 
-> <p>Yel-Yel Pelayanan	Perorangan:</p>
-> Pemimpin	 :	Siapkah yang akan Kuutus dan Siapakah yang mau pergi untuk Aku?
-> Jemaat	 :	Ini aku, utuslah aku! TUHAN.
+*Yel-Yel Pelayanan	Perorangan:*
+*- Pemimpin:	Siapkah yang akan Kuutus dan Siapakah yang mau pergi untuk Aku?*
+*- Jemaat:	Ini aku, utuslah aku! TUHAN.*
 
 Gereja, tubuh Kristus itu mempunyai tujuan yang sama seperti Kristus. Keprihatinan Kristus adalah keprihatinan gereja. “Karena Anak Manusia juga datang bukan untuk dilayani, melainkan untuk melayani dan untuk memberikan nyawa-Nya menjadi tebusan bagi banyak orang” (Markus 10.45). “…Aku datang, supaya mereka mempunyai hidup, dan mempunyainya dalam segala kelimpahan” (Yohanes 10:10). “Gereja atau jemaat adalah agen yang ditunjuk Allah untuk keselamatan manusia. Gereja diorganisir untuk pelayanan dan misinya adalah untuk membawa kabar baik ke seluruh dunia” - Acts of Apostles, hal. 9.
 
@@ -19,3 +19,4 @@ Setiap orang adalah seorang murid yang memiliki tanggung jawab untuk menjalankan
 
 John Scott berkata: “Karena setiap orang Kristen mempunyai sebuah karunia, itulah sebabnya ia bertanggung jawab, Maka tidak boleh ada orang Kristen yang dilewatkan atau dibiarkan tanpa tugas".
 
+_Catatan: Kutipan di atas diambil dari Penuntun Ibadah Sekolah Sabat Dewasa dan Promosi Pelayanan Perorangan, Diterbitkan dan disusun oleh Pdt. Alberto S.M. Tulalessy & Pdt. TF. Tampubolon. Digunakan dengan izin._
