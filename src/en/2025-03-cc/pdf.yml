@@ -1,0 +1,142 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-Intro.pdf'
+      target: en/2025-03-cc/introduction
+      title: Introduction
+      start_date: 28/06/2025
+      end_date: 28/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-01.pdf'
+      target: en/2025-03-cc/01
+      title: Always There
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-02.pdf'
+      target: en/2025-03-cc/02
+      title: Can I Get a Witness?
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-03.pdf'
+      target: en/2025-03-cc/03
+      title: Days of Discipleship
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-04.pdf'
+      target: en/2025-03-cc/04
+      title: Misunderstood
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-05.pdf'
+      target: en/2025-03-cc/05
+      title: Savior to the Gentiles
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-06.pdf'
+      target: en/2025-03-cc/06
+      title: Moving Mountains
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-07.pdf'
+      target: en/2025-03-cc/07
+      title: Who Is Jesus?
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-08.pdf'
+      target: en/2025-03-cc/08
+      title: Two Seekers
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-09.pdf'
+      target: en/2025-03-cc/09
+      title: Trust Like a Child
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-10.pdf'
+      target: en/2025-03-cc/10
+      title: Wake Up!
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-11.pdf'
+      target: en/2025-03-cc/11
+      title: Jesus and Me
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-12.pdf'
+      target: en/2025-03-cc/12
+      title: The Alabaster Jar
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-13.pdf'
+      target: en/2025-03-cc/13
+      title: You First
+      start_date: 20/09/2025
+      end_date: 26/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-Intro.pdf'
+      target: en/2025-03-cc/introduction
+      title: Teacher
+      start_date: 28/06/2025
+      end_date: 28/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-01.pdf'
+      target: en/2025-03-cc/01
+      title: Teacher
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-02.pdf'
+      target: en/2025-03-cc/02
+      title: Teacher
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-03.pdf'
+      target: en/2025-03-cc/03
+      title: Teacher
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-04.pdf'
+      target: en/2025-03-cc/04
+      title: Teacher
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-05.pdf'
+      target: en/2025-03-cc/05
+      title: Teacher
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-06.pdf'
+      target: en/2025-03-cc/06
+      title: Teacher
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-07.pdf'
+      target: en/2025-03-cc/07
+      title: Teacher
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-08.pdf'
+      target: en/2025-03-cc/08
+      title: Teacher
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-09.pdf'
+      target: en/2025-03-cc/09
+      title: Teacher
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-10.pdf'
+      target: en/2025-03-cc/10
+      title: Teacher
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-11.pdf'
+      target: en/2025-03-cc/11
+      title: Teacher
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-12.pdf'
+      target: en/2025-03-cc/12
+      title: Teacher
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-CC-TE-13.pdf'
+      target: en/2025-03-cc/13
+      title: Teacher
+      start_date: 20/09/2025
+      end_date: 26/09/2025

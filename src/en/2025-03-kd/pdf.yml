@@ -1,0 +1,157 @@
+---
+  pdf:
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L00.pdf'
+      target: en/2025-03-kd/introduction
+      title: Introduction
+      start_date: 28/06/2025
+      end_date: 28/06/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L01.pdf'
+      target: en/2025-03-kd/01
+      title: The Little Prince
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L02.pdf'
+      target: en/2025-03-kd/02
+      title: Repairing the Temple
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L03.pdf'
+      target: en/2025-03-kd/03
+      title: Queen Esther
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L04.pdf'
+      target: en/2025-03-kd/04
+      title: Esther Saves Her People
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L05.pdf'
+      target: en/2025-03-kd/05
+      title: The Little Maid
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L06.pdf'
+      target: en/2025-03-kd/06
+      title: Little Maid Serves God
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L07.pdf'
+      target: en/2025-03-kd/07
+      title: Disappearing Spots
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L08.pdf'
+      target: en/2025-03-kd/08
+      title: Naaman Serves God
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L09.pdf'
+      target: en/2025-03-kd/09
+      title: Baby Moses
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L10.pdf'
+      target: en/2025-03-kd/10
+      title: Pillars of Cloud and Fire
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L11.pdf'
+      target: en/2025-03-kd/11
+      title: Bitter Water to Better Water
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L12.pdf'
+      target: en/2025-03-kd/12
+      title: God Gives Manna
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-L13.pdf'
+      target: en/2025-03-kd/13
+      title: God’s 10 Rules
+      start_date: 20/09/2025
+      end_date: 26/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-Activities.pdf'
+      target: en/2025-03-kd/memoryverses
+      title: Memory Verses
+      start_date: 26/09/2025
+      end_date: 26/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Student/K-25-Q3-MemoryVerses.pdf'
+      target: en/2025-03-kd/activities
+      title: Activities
+      start_date: 26/09/2025
+      end_date: 26/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L00-T.pdf'
+      target: en/2025-03-kd/introduction
+      title: Introduction
+      start_date: 28/06/2025
+      end_date: 28/06/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L01-T.pdf'
+      target: en/2025-03-kd/01
+      title: Teacher
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L02-T.pdf'
+      target: en/2025-03-kd/02
+      title: Teacher
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L03-T.pdf'
+      target: en/2025-03-kd/03
+      title: Teacher
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L04-T.pdf'
+      target: en/2025-03-kd/04
+      title: Teacher
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L05-T.pdf'
+      target: en/2025-03-kd/05
+      title: Teacher
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L06-T.pdf'
+      target: en/2025-03-kd/06
+      title: Teacher
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L07-T.pdf'
+      target: en/2025-03-kd/07
+      title: Teacher
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L08-T.pdf'
+      target: en/2025-03-kd/08
+      title: Teacher
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L09-T.pdf'
+      target: en/2025-03-kd/09
+      title: Teacher
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L10-T.pdf'
+      target: en/2025-03-kd/10
+      title: Teacher
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L11-T.pdf'
+      target: en/2025-03-kd/11
+      title: Teacher
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L12-T.pdf'
+      target: en/2025-03-kd/12
+      title: Teacher
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-L13-T.pdf'
+      target: en/2025-03-kd/13
+      title: Teacher
+      start_date: 20/09/2025
+      end_date: 26/09/2025
+    - src: 'https://www.gracelink.net/assets/gracelink/Lessons/Kindergarten/2025/Q3/Kindergarten/Teacher/K-25-Q3-Activities-T.pdf'
+      target: en/2025-03-kd/activities
+      title: Activities
+      start_date: 26/09/2025
+      end_date: 26/09/2025
