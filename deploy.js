@@ -156,6 +156,12 @@ let additionalReadingTitles = {
       pppCopyright: "",
       regex: "#{2,} План Сергея Хрибара"
     },
+    {
+      title: "Стихи от Александра Конырева",
+      final: "Стихи от Александра Конырева",
+      pppCopyright: "",
+      regex: "#{2,} Стихи от Александра Конырева"
+    },
   ]
 }
 
