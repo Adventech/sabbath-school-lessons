@@ -38,20 +38,21 @@ und ich werde die Israeliten auf keinen Fall gehen lassen.«"* (Neues
 Leben)
 
 -   Mose und Aaron fragen also nach, ob es möglich sei, auszuziehen, um
-    zu Gottes Ehre ein fest zu feiern. Das taten sie auf Gottes exakte
+    zu Gottes Ehre ein Fest zu feiern. Das taten sie auf Gottes exakte
     Anordnung hin (nachzulesen in 2.Mose 3,18). Aber eigentlich wollte
     Gott sie ja nach Kanaan führen (2.Mose 3,17). Wie erklärt ihr euch
     diese Diskrepanz?
--   Wir sagen ja manchmal, eine halbe Wahrheit sei schon eine ganze
-    Lüge. Unter welchen Umständen darf man zwar nicht lügen, aber nur
-    die halbe Wahrheit sagen?
+    -   Wir sagen ja manchmal, eine halbe Wahrheit sei schon eine ganze
+        Lüge. Unter welchen Umständen darf man zwar nicht lügen, aber
+        nur die halbe Wahrheit sagen?
 
 -   Natürlich begegnen wir auch heute einem aggressiven Atheismus, wie
-    ihn der Pharao hier zum Ausdruck brachte (natürlich nur dem Gott der
-    Bibel gegenüber), zum Beispiel bei Richard Dawkins. Aber die meisten
-    Menschen sind doch eher "gleichgültige Gott-Leugner". Sollten diese
-    dann aber doch einmal fragen: "Wer ist der Gott, an den du
-    glaubst?", was würdet ihr antworten?
+    ihn der Pharao hier zum Ausdruck brachte (er war verleugnend
+    natürlich nur dem Gott der Bibel gegenüber), zum Beispiel bei
+    Richard Dawkins. Aber die meisten Menschen sind doch eher
+    "gleichgültige Gott-Leugner". Sollten diese dann aber doch einmal
+    fragen: "Wer ist der Gott, an den du glaubst?", was würdet ihr
+    antworten?
     -   Und wenn sie fragen sollten: "Wieso sollte ich an diesen Gott
         glauben, was bringt es mir?", was wäre dann eure Antwort?
 
