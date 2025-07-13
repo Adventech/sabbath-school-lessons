@@ -23,11 +23,7 @@ Nakon što se Mojsije vratio u logor i video pobunu, razbio je na komade dve plo
 
 Aron je mogao da spreči otpadništvo da je čvrsto stajao uz Boga i Njegovu istinu. Nije trebalo da popusti pred zahtevima ljudi za vidljivim bogom ili bogovima. Kada se pokazalo nepoštovanje prema Bogu i Njegovom sluzi Mojsiju, Aron je morao da odmah zaustavi ustanak. Umesto toga, poslušao je pobunjenike i napravio lažnog boga. U vreme Mojsijevog odsustva, Aron je imao zadatak da funkcioniše kao snažan vođa, ne plašeći se čak ni sopstvene smrti. Bog uvek interveniše da odbrani svoju stvar, i na Aronu je bilo samo da Mu veruje.
 
-	
-
 Mojsijeva briga za dobrobit Božjeg naroda ogleda se u njegovom pitanju upućenom njegovom bratu Aronu: „I reče Mojsije Aronu: šta ti je učinio ovaj narod, te ga uvali u toliki grijeh?“ (2. Mojsijeva 32,21). Aronovo popuštanje pogrešnim zahtevima dovelo je do tragičnih posledica. Da bi opravdao svoje ponašanje, Aron je izmislio čudo: „A ja im rekoh: ko ima zlata, neka ga skida sa sebe. I dadoše mi, a ja ga bacih u vatru, i izađe to tele“ (2. Mojsijeva 32,24). Aron se pozvao na magiju da bi smirio Mojsijev gnev. Greh zaslepljuje, a priče se često stvaraju da pokriju neposlušnost.
-
-	
 
 „Bješe se Gospod i na Arona razgnjevio veoma da ga šćaše ubiti“ (5. Mojs. 9,20), ali mu je život bio pošteđen jer se Mojsije založio za njega. Aron se iskreno pokajao za ovaj teški greh, vraćen je na svoju rukovodeću poziciju, a kasnije je pomazan za prvosveštenika (2. Mojsijeva 40,12-15). Božja milost je neverovatna!
 

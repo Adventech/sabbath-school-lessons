@@ -67,7 +67,7 @@ Mojsijev četvrti izgovor da ne ide u Egipat je jednostavan: „Nisam dobar govo
 
 Razumljivo, on ne koristi egipatski jezik već četiri decenije. Bog, kao odgovor, uverava Mojsija da će mu dati sposobnost da izrazi stvari ubedljivo i artikulisano jer je On Stvoritelj. Bog će, tako, ovlastiti Mojsija za ovaj zadatak: „Idi dakle, ja ću biti s ustima tvojim, i učiću te šta ćeš govoriti“ (2. Mojsijeva 4,12). (Ovo obećanje nas podseća na sličnu priču u tekstu Jeremija 1,5-8).
 
-2. Mojsijeva 4,13-17 opisuje Mojsijev poslednji izgovor i Božju reakciju na njega. Mojsije je sateran u ćošak. Sve njegove izgovore snažno je opovrgao sam Bog. Šta će Mojsije da učini? On mora jasno da definiše svoj stav tako što će odgovoriti na Božji poziv, bilo sa da ili ne. Na naše iznenađenje, Mojsije odbija da sledi Božja naređenja, čak i nakon što je primio izuzetna obećanja od Boga. Mojsije ne želi da ide: „Pošlji onoga koga treba da pošlješ“ (2. Mojsijeva 4,13).
+2\. Mojsijeva 4,13-17 opisuje Mojsijev poslednji izgovor i Božju reakciju na njega. Mojsije je sateran u ćošak. Sve njegove izgovore snažno je opovrgao sam Bog. Šta će Mojsije da učini? On mora jasno da definiše svoj stav tako što će odgovoriti na Božji poziv, bilo sa da ili ne. Na naše iznenađenje, Mojsije odbija da sledi Božja naređenja, čak i nakon što je primio izuzetna obećanja od Boga. Mojsije ne želi da ide: „Pošlji onoga koga treba da pošlješ“ (2. Mojsijeva 4,13).
 
 Sada su uloge zamenjene. Mojsije ne samo da odbacuje Božje imperative, već se usuđuje da zapovedi Bogu svojim sopstvenim imperativom, iako ga ublažava rečju molim: „Molim te, Gospode, pošlji onoga koga treba da pošlješ.“ Onaj ko treba da se pokorava daje uputstva Bogu. Kakva kontradikcija!
 

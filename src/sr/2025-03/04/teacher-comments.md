@@ -49,11 +49,7 @@ Postoje značajne karakteristike pošasti:
 
 12. Zanimljivo je primetiti da je Gospod posebno pozvao faraona sedam puta sa „Pusti narod moj“ (2. Mojsijeva 5,1; 2. Mojsijeva 7,16; 2. Mojsijeva 8,1.20; 2. Mojsijeva 9,1.13; 2. Mojsijeva 9,1.13; 2. Mojsijeva 10,3) i jednom je upotrebio izraz „Ako li ne pustiš naroda mojega, evo, pustiću na tebe…“ (2. Mojsijeva 8,21). Faraon je u početku pristao posle druge, četvrte, sedme i devete pošasti (2. Mojsijeva 8,8; 2. Mojsijeva 8,25-28, 2. Mojsijeva 9,28; 2. Mojsijeva 10,24), ali je, na kraju, ipak odbio da pusti narod da se pokloni Gospodu (2. Mojsijeva 8,15; 2. Mojsijeva 8,32; 2. Mojsijeva 9,35; 2. Mojsijeva 10,27); čak je zamolio Mojsija da se moli za okončanje određenih pošasti i da se moli i za njega (2. Mojsijeva 8,8.28; 2. Mojsijeva 9,28; 2. Mojsijeva 10,16.17). Tek posle desete pošasti on je pozvao Mojsija i Arona i zapovedio im: „I dozva Mojsija i Arona po noći i reče: ustajte, idite iz naroda mojega i vi i sinovi Izrailjevi, i otidite, poslužite Gospodu, kao što govoriste. Uzmite i ovce svoje i goveda svoja, kao što govoriste, i idite, pa i mene blagoslovite“ (2. Mojsijeva 12,31.32).
 
-	
-
 Kao što smo rekli, sve ove nesreće su se odnosile na Božju presudu egipatskim bogovima i onima koji su se njih držali, tj. obožavali. Ne treba zanemariti činjenicu da se usred svih ovih nesreća nalazi izjava o moćnom Božjem prisustvu u egipatskoj zemlji. Bog je hteo da jasno stavi do znanja da postoji razlika između onih koji Ga slede i onih koji idu protiv Njega: „Ako li ne pustiš naroda mojega, evo, pustiću na tebe i na sluge tvoje i na narod tvoj i na kuće tvoje svakojake bubine, i napuniće se bubina kuće Misirske i zemlja na kojoj su. Ali ću u taj dan odvojiti zemlju Gesemsku, gdje živi moj narod, i ondje neće biti bubina, da poznaš da sam ja Gospod na zemlji“ (2. Mojsijeva 8,21.22).
-
-	
 
 Prorok Isaija zadivljujućim rečima govori o Božjoj ljubavi i budućim planovima za Egipat : „U to će vrijeme biti put iz Misira u Asirsku, i Asirac će ići u Misir i Misirac u Asirsku, i služiće Gospodu Misirci s Asircima. U to će vrijeme Izrailj biti treći s Misircima i Asircima, i biće blagoslov posred zemlje. Jer će ih blagosloviti Gospod nad vojskama govoreći: da je blagosloven moj narod Misirski i Asirski, djelo ruku mojih, i našljedstvo moje, Izrailj“ (Isaija 19,23-25).
 

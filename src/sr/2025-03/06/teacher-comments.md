@@ -11,11 +11,7 @@ date:  08/08/2025
 
 **Uvod:** U istoriji Božijeg naroda, izlazak iz Egipta je najneobičnija starozavetna priča, u kojoj je Bog intervenisao na najspektakularniji način. Nakon što su jeli pashalno jagnje, Izrailjci su bili spremni da napuste Egipat. Faraon je konačno dao pristanak. Pritisnut velikom nevoljom koja ih je snašla, on daje naređenje Mojsiju i Aronu da odu i poklone se svom Bogu. Uključeni su svi – muškarci, žene, deca, kao i njihova krda i stada. Ranije je Mojsije ispravno odbio da ode ako Izrailjcima nije dozvoljeno da odu kao kompletne porodice, zajedno sa svojim životinjama. Pored toga, Bog se pobrinuo za budućnost svog naroda: oni nisu napustili Egipat praznih ruku. 
 
-	
-
 Kada su Egipćani molili Izrailjce da napuste zemlju, dali su im sve stvari koje su tražili: srebro, zlato i odeću, baš kao što im je Mojsije naredio. Sve ovo je bilo nadoknada za plate koje su nepravedno zadržane. Kasnije će Izrailjci biti suočeni sa izborom kako da iskoriste ove darove, da li će davati tkaninu, dragocene ukrase, zlato, srebro i druge metale za izgradnju skinije (2. Mojsijeva 25,1-7) ili dajući zlatni nakit Aronu da izradi idola – zlatno tele (2. Mojsijeva 32, 23.24).
-
-	
 
 Tema stvarnog „izlaska“ je naglašena na početku priče (2. Mojsijeva 12,37-41), u daljem razvoju događaja (2. Mojsijeva 13,21, 22) i na kraju, gde se ističe da je „Gospod spasio Izrailj“ (2. Mojsijeva 14,30.31).
 
@@ -25,11 +21,7 @@ Tema stvarnog „izlaska“ je naglašena na početku priče (2. Mojsijeva 12,37
 
 U cilju razumevanja istorijske pozadine u poglavlju 2. Mojsijeva 12, razmotrite sledeće dve tačke:
 
-	
-
 **A:** Posle 430 godina boravka u Egiptu, Izrailj sada može slobodno da putuje u Obećanu zemlju. Zbog dvostrukog pojavljivanja hebrejske reči wayehi, „dogodilo se“, „bilo“, u tekstu 2. Mojsijeva 12,41, ovaj vremenski period naglašava se izjavom „U isti dan izađoše“. U početku, samo Josif je bio u Egiptu, a zatim je stigla cela Jakovljeva porodica. Tada ih je bilo sedamdesetoro (2. Mojsijeva 1,5), a sada „oko šest stotina tisuća pješaka, samijeh ljudi osim djece“ (2. Mojsijeva 12,37; uporedi sa 2. Mojsijeva 38,26), što znači da je četa od oko dva miliona ljudi izlazila iz Egipta. Mojsije je sigurno bio obučen u vojnoj strategiji tokom svog boravka u faraonovoj palati, tako da je znao kako da organizuje tako ogroman broj ljudi. U biblijskom tekstu se pominje da su išli „iz zemlje Misirske u četama njihovijem“ (2. Mojsijeva 12,51; uporedi sa 2. Mojsijeva 6,26; 2. Mojsijeva 7,4; 2. Mojsijeva 12,17,41), što znači kao „vojne“ jedinice ili bataljoni. Izlazak je bio dobro organizovan; međutim, treba imati na umu da je karavan mogao da putuje samo onoliko brzo koliko i njegovi „najslabiji“ članovi, obično deca, starci, stada i krda.
-
-	
 
 **B.** Izlazak se verovatno dogodio u martu 1450. godine pre nove ere, prema najboljim proračunima konzervativnih naučnika, što znači da će 430 godina biti 1880. p.n.e. Kako da razumemo ovaj vremenski period? Među konzervativnim naučnicima postoje dva gledišta: (1) 430 godina, koje se računaju od Josifovog vremena do izlaska, i (2) 430 godina, počevši od Avrama do izlaska. (Za diskusiju o ova dva glavna stava u vezi sa dugim ili kratkim boravkom u Egiptu [bilo samo „u zemlji Egipatskoj“, prema jevrejskom masoretskom tekstu, ili i „u zemlji Egipatskoj“ i „u zemlji Hananu“, prema Pentateuhu i grčkom prevodu Septuaginta], i za dokaze za kratak boravak u Egiptu, pogledajte Biblijski komentar tom 1. str. 183-187, 313-315, 557).
 
