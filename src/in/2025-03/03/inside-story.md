@@ -64,10 +64,10 @@ Genius beruntung memiliki Alkitabnya sendiri, tetapi banyak anak-anak di Zimbabw
 **Tip Cerita**
  
 - Tampilkan Zimbabwe pada peta. Kemudian tunjukkan Bulawayo, tempat Genius tinggal.
-- Tonton video pendek Genius di YouTube: bit.ly/Genius-SID.
-- Unduh foto-foto untuk cerita ini dari Facebook: bit.ly/fb-mq.
-- Bagikan Postingan Misi dan Fakta Singkat dari Divisi Afrika Selatan-Samudra Hindia: bit.ly/sid-2025.
-- Ketahuilah bahwa cerita misi ini menggambarkan tujuan-tujuan berikut dari rencana strategis Gereja Masehi Advent Hari Ketujuh "I Will Go": Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Allah dan menjadi teladan bagi pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: IWillGo.org.
+- Tonton video pendek Genius di YouTube: [bit.ly/Genius-SID](https://bit.ly/Genius-SID).
+- Unduh foto-foto untuk cerita ini dari Facebook: [bit.ly/fb-mq](https://bit.ly/fb-mq).
+- Bagikan Postingan Misi dan Fakta Singkat dari Divisi Afrika Selatan-Samudra Hindia: [bit.ly/sid-2025](https://bit.ly/sid-2025).
+- Ketahuilah bahwa cerita misi ini menggambarkan tujuan-tujuan berikut dari rencana strategis Gereja Masehi Advent Hari Ketujuh "I Will Go": Tujuan Pertumbuhan Rohani No. 5, "Memuridkan individu dan keluarga ke dalam kehidupan yang dipenuhi Roh Kudus"; Tujuan Pertumbuhan Rohani No. 6, "Meningkatkan aksesi, retensi, reklamasi, dan partisipasi anak-anak, remaja, dan dewasa muda"; dan Tujuan Pertumbuhan Rohani No. 7, "Membantu remaja dan dewasa muda untuk mengutamakan Allah dan menjadi teladan bagi pandangan dunia yang alkitabiah." Untuk informasi lebih lanjut, kunjungi situs web: [IWillGo.org](https://IWillGo.org).
 
 **Fakta Singkat**
 - Seni tradisional di Zimbabwe mencakup keramik, anyaman, tekstil, perhiasan, dan ukiran. Patung Shona memiliki sejarah budaya yang panjang dan sebagian besar berupa sosok burung bergaya dan sosok manusia yang terbuat dari batuan sedimen seperti batu sabun.
