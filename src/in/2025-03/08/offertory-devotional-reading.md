@@ -10,9 +10,7 @@ _Sabat ke 34_
 > <p>Ayat Tema</p>
 > "Lalu Ia berfirman: Jangan bunuh anak itu dan jangan kauapa-apakan dia, sebab telah Kuketahui sekarang, bahwa engkau takut akan Allah, dan engkau tidak segan-segan untuk menyerahkan anakmu yang tunggal kepada-Ku"—Kejadian 22:12
 
-Dalam bacaan persembahan kita sebelumnya, kita membahas bagaimana ketaatan pada petunjuk Allah adalah ciri dari mereka yang takut akan Allah. Sekarang ini, kita sedang mempertimbangkan pelajaran kedua dari Kejadian 22:12. Abraham tidak menahan anaknya dari Allah. Dari teladan Abraham, kita belajar bahwa mereka yang takut akan Allah tidak akan menahan apa pun dari-Nya. Mereka tidak hanya akan memberi ketika itu menyenangkan mereka; mereka tidak akan menganggap apa pun terlalu bernilai, terlalu mahal, atau terlalu berharga untuk diberikan kepada Tuhan.
-
-> MEREKA TIDAK HANYA AKAN MEMBERI KETIKA ITU MENYENANGKAN MEREKA; MEREKA TIDAK AKAN MENGANGGAP APA PUN TERLALU BERNILAI, TERLALU MAHAL, ATAU TERLALU BERHARGA UNTUK DIBERIKAN KEPADA TUHAN
+Dalam bacaan persembahan kita sebelumnya, kita membahas bagaimana ketaatan pada petunjuk Allah adalah ciri dari mereka yang takut akan Allah. Sekarang ini, kita sedang mempertimbangkan pelajaran kedua dari Kejadian 22:12. Abraham tidak menahan anaknya dari Allah. Dari teladan Abraham, kita belajar bahwa mereka yang takut akan Allah tidak akan menahan apa pun dari-Nya. **Mereka tidak hanya akan memberi ketika itu menyenangkan mereka; mereka tidak akan menganggap apa pun terlalu bernilai, terlalu mahal, atau terlalu berharga untuk diberikan kepada Tuhan.**
 
 Ketika Abraham berhasil melewati ujian dengan menyerahkan putranya sebagai persembahan, hal itu tidak luput dari perhatian Tuhan dan seluruh surga. Ellen G. White menggambarkan peristiwa ini: “Segenap sorga memandang dengan keheran-heranan serta dengan rasa kagum akan penurutan Ibrahim yang tidak dapat digoyahkan itu. Segenap sorga bersorak-sorak melihat kesetiaannya itu” (Alfa dan Omega, jld. 1, hlm. 155).
 
