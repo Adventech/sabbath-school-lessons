@@ -1,6 +1,6 @@
 ---
 title:  Promosi Pelayanan Perorangan
-date:  01/08/2025
+date:  08/08/2025
 ---
 
 ## PENGINJILAN GAYA HIDUP
