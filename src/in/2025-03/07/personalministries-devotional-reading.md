@@ -3,7 +3,7 @@ title:  Promosi Pelayanan Perorangan
 date:  15/08/2025
 ---
 
-## PENGINJILAN GAYA HIDUP
+## PENGINJILAN DAN PEMURIDAN
 
 *Yel-Yel Pelayanan	Perorangan:*
 - *Pemimpin:	Siapkah yang akan Kuutus dan Siapakah yang mau pergi untuk Aku?*
