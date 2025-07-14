@@ -3,7 +3,7 @@ title:  Bacaan Persembahan
 date:  05/09/2025
 ---
 
-### KEJUTAN YANG TIDAK BISA SAYA JELASKAN
+### TUHAN TIDAK PERNAH MENGECEWAKAN
 
 _Sabat ke 36_
 
