@@ -17,27 +17,17 @@ date:  05/09/2025
 
 Potvrđivanje saveza uključivalo je nekoliko važnih elemenata: 
 
-• Mojsijevo usmeno izlaganje reči i zakona Gospodnjih (2. Mojsijeva 24,3);
-
-• Mojsijevo pisanje Knjige zaveta (2. Mojsijeva 24,4a);
-
-• podizanje oltara (2. Mojsijeva 24,4b); 
-
-• postavljanje dvanaest kamenih stubova, koji predstavljaju dvanaest plemena Izrailjevih (2. Mojsijeva 24,4c); 
-
-• žrtve paljenice i žrtve zahvalne (2. Mojsijeva 24,5);
-
-• Mojsijevo škropljenje oltara polovinom žrtvene krvi (2. Mojsijeva 24,6);
-
-• njegovo čitanje Knjige zaveta (2. Mojsijeva 24,7a); 
-
-• potvrdni odgovori naroda (2. Mojsijeva 24,3.7b); 
-
-• Mojsijevo škropljenje naroda drugom polovinom žrtvene krvi (2. Mojsijeva 24,8a);
-
-• Mojsijeve reči: „evo krv zavjeta [fraza koja se pojavljuje samo ovde u Bibliji; uporedi sa Zaharija 9,11; Matej 26,28; Marko 14,24] koji učini Gospod s vama za sve riječi ove“ (2. Mojsijeva 24,8b); 
-
-• zavetna trpeza, sa 74 poglavara, na gori Sinaj (2. Mojsijeva 24,9-11)).
+- Mojsijevo usmeno izlaganje reči i zakona Gospodnjih (2. Mojsijeva 24,3);
+- Mojsijevo pisanje Knjige zaveta (2. Mojsijeva 24,4a);
+- podizanje oltara (2. Mojsijeva 24,4b); 
+- postavljanje dvanaest kamenih stubova, koji predstavljaju dvanaest plemena Izrailjevih (2. Mojsijeva 24,4c); 
+- žrtve paljenice i žrtve zahvalne (2. Mojsijeva 24,5);
+- Mojsijevo škropljenje oltara polovinom žrtvene krvi (2. Mojsijeva 24,6);
+- njegovo čitanje Knjige zaveta (2. Mojsijeva 24,7a); 
+- potvrdni odgovori naroda (2. Mojsijeva 24,3.7b); 
+- Mojsijevo škropljenje naroda drugom polovinom žrtvene krvi (2. Mojsijeva 24,8a);
+- Mojsijeve reči: „evo krv zavjeta [fraza koja se pojavljuje samo ovde u Bibliji; uporedi sa Zaharija 9,11; Matej 26,28; Marko 14,24] koji učini Gospod s vama za sve riječi ove“ (2. Mojsijeva 24,8b); 
+- zavetna trpeza, sa 74 poglavara, na gori Sinaj (2. Mojsijeva 24,9-11)).
 
 U okviru zaveta, Božji narod je tri puta na isti način odgovorio na Božije milostive reči: „Činićemo sve što je rekao Gospod“ (2. Mojsijeva 19,8; videti i 2. Mojsijeva 24,3.7). Šta nije u redu sa takvim obećanjem? Naime, njihovo samopouzdanje, njihovo plitko razumevanje moći greha i sopstvene grešne prirode i neuspeh da priznaju potrebu za Božjom pomoći. U stvarnosti, samo nekoliko sedmica kasnije, mnogi od njih su plesali oko zlatnog teleta. Tačan odgovor bi bio: „Uz Gospodnju pomoć i silom Njegove blagodati učinićemo sve što je Gospod rekao“.
 
