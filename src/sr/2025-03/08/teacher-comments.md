@@ -17,8 +17,6 @@ date:  22/08/2025
 
 2. „Isus Hristos“. Marko prikazuje Isusa u mnogim aspektima Njegove službe. Isus je Božji Sin i Svetac. Na Njega se takođe upućuje kao na velikog učitelja i govornika, kao i saosećajnog iscelitelja, u Galileji i šire.
 
-
-
 ### DRUGI DEO: KOMENTAR
 
 Dekalog čini srce Božjeg otkrivenja i biblijske etike. To je Magna Carta (velika povelja) biblijskog učenja, i sažimanje svih učenja u jedno, norma svih normi. Deset zapovesti, čija načela su večna, čini srž i osnovu božanskih standarda za celo čovečanstvo. Kada je u pitanju davanje Dekaloga, petoknjižje podvlači da je on objavljen od Boga (2. Mojsijeva 19,19; 2. Mojsijeva 20,1; 5. Mojsijeva 5,4.5.24) i da ga je takođe On napisao (2. Mojsijeva 24,12; 2. Mojsijeva 31,18; 5. Mojsijeva 5,22). Dva puta je darovan Mojsiju kao poseban dar (2. Mojsijeva 32,19; 2. Mojsijeva 34,1; 5. Mojsijeva 10,1.2). U knjizi 2. Mojsijeva, Dekalog se naziva „svedočanstva“ (2. Mojsijeva 31,18); i „reči zaveta“ (2. Mojsijeva 34,28). Izraz „deset zapovesti“ se ne koristi na jevrejskom, iako se o njima govori kao o „zapovestima“ u tekstu 2. Mojsijeva 20,6. Umesto toga, Dekalog se tri puta naziva „Deset reči“ (jevrejski: *‘aseret haddebarim*; vidi upotrebu jevrejskog u tekstu 2. Mojsijeva 34,28; 5. Mojsijeva 4,13; 5. Mojsijeva 10,4).
