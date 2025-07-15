@@ -1,7 +1,60 @@
 ---
-title:  Teacher Comments
+title:  Penuntun Guru
 date:   25/04/2025
 ---
 
-### Kami sedang mengerjakan pelajaran ini
-Silahkan kembali lagi nanti
+### Bagian I: Ikhtisar
+
+**Ayat Inti:** Daniel 7:14.
+
+**Fokus Pelajaran:** Kejadian 12:1-9.
+
+Ketika Tuhan menciptakan bumi, Dia memiliki rencana kebahagiaan dan cinta untuk orang-orang yang akan tinggal di sana. Namun, alih-alih memenuhi rencana Tuhan bagi mereka, orang-orang jatuh ke dalam godaan untuk memilih cara mereka sendiri. Dalam dua pelajaran berikutnya, kita akan mempelajari bagaimana bangsa-bangsa gagal menemukan jalan yang benar dan bagaimana Tuhan membimbing orang-orang dalam perjuangan mereka untuk menemukan terang dalam kegelapan. Kegelapan ini dihasilkan oleh keinginan mereka untuk pemerintahan sendiri.
+
+Keinginan untuk pemerintahan sendiri pertama kali terwujud di Taman Eden, ketika Adam dan Hawa, di bawah pengaruh ular, tidak taat kepada Tuhan dan jatuh di bawah godaan kerinduan untuk menjadi " 'seperti Tuhan' " (Kejadian. 3:5, NKJV). Akibatnya, Adam dan Hawa, sebagai makhluk yang jatuh, memperoleh pengetahuan tentang dosa dan dengan demikian kehilangan kekuatan moral untuk memilih yang baik daripada yang jahat (Kejadian. 3:22). Kemudian dalam sejarah awal umat manusia, orang-orang Babel memutuskan untuk mendirikan sebuah menara untuk sampai ke pintu Tuhan ("Bab-El") di surga sehingga mereka dapat merebut tempat Tuhan (Gen. 11:1-4). Tetapi para pembangun Babel menjadi bingung dan, sebagai akibat dari anggapan mereka, Tuhan menyebarkan mereka ke seluruh bumi.
+
+Bahkan orang-orang Israel mencoba untuk memerintah diri mereka sendiri, dan alih-alih merangkul pemerintahan Tuhan, mereka mencari seorang raja dari antara orang-orang di antara suku-suku mereka. Tuhan menanggapi semua gerakan manusia ini dengan inisiatif ilahi. Pertama, Tuhan memanggil Abraham untuk menjadi berkat bagi bangsa-bangsa. Kemudian Israel dan kemudian gereja dipanggil untuk bersaksi kepada bangsa-bangsa tentang kerajaan Allah. Melawan godaan untuk mengandalkan kekuatan manusia untuk membangun kerajaan-kerajaan di bumi ini, dan dengan demikian jatuh ke dalam kegelapan, Alkitab membawa harapan kerajaan Tuhan, satu-satunya terang bagi bangsa-bangsa.
+
+### Bagian II: Komentar
+
+**Adam dan Hawa**
+
+Di Taman Eden, kisah konfrontasi antara Hawa dan ular mengungkapkan akar penyebab kegagalan manusia; yaitu, ambisi untuk menggantikan Tuhan. Ular muncul pertama kali dalam narasi. Ketika dia berbicara, dia terdengar seperti Tuhan, Sang Pencipta sendiri. Ular itu "berkata" (Gen. 3:1, NKJV), seperti yang Tuhan "katakan" sepuluh kali dalam kisah Penciptaan. Bentuk verbal yang sama wayyo'mer, "Dia berkata," digunakan di kedua cerita. Konstruksi frasa itu meresahkan, karena subjek kata kerja "dia berkata" tidak ditunjukkan. Faktanya, ini adalah satu-satunya kasus di seluruh bagian ini yang subjeknya tidak diberikan dengan jelas. Dan untuk menambah kebingungan, kata kerja bahkan didahului oleh nama Elohim, "Tuhan," memberikan kesan bahwa Tuhan sedang berbicara. Teks Ibrani memiliki urutan kata-kata berikut: "Tuhan [dia] berkata kepada wanita itu." Dengan demikian, ular tampaknya telah menggantikan Tuhan.
+
+Menariknya, fenomena yang sama terjadi ketika wanita itu tidak taat kepada Tuhan. Ungkapan yang menggambarkan perilakunya, "wanita itu melihat . . . itu baik" (Gen. 3:6, NKJV), mengingatkan pada evaluasi Tuhan terhadap ciptaan-Nya: "Tuhan melihat bahwa . . . itu baik" (Kejadian. 1:4, 10, 12, 18, 25, 31). Gema antara kata-kata Tuhan dan kata-kata Hawa ini menunjukkan bahwa dia telah menggantikan Pencipta ilahi dengan pendapatnya sendiri. Memang, dia berperilaku seperti Tuhan: "Dia mengambil buahnya dan memberikannya kepada suaminya bersamanya, dan dia memakannya" (Kejadian. 3:6, NKJV). Ketiga kata kerja ini (dicetak miring dalam kutipan) sejauh ini hanya dikaitkan dengan Sang Pencipta. Tuhan "memberi" untuk dimakan (Gen. 1:29). Tuhan "mengambil" pria itu (Kejadian 2:15), dan Tuhan "mengambil" salah satu tulang rusuknya (Kejadian. 2:21, NKJV). Dengan demikian, Hawa mengidentifikasi dirinya sebagai Sang Pencipta dan secara sepihak memaksakan "kekekuasaan"-nya atas Adam.
+
+Kemudian, baik Adam dan Hawa akan mencoba untuk mengambil tempat Tuhan lagi ketika mereka menyadari bahwa mereka telanjang. Teks Alkitab melaporkan bahwa mereka "membuat penutup untuk diri mereka sendiri" (Kejadian. 3:7, NKJV). Kata kerja "membuat" sejauh ini hanya digunakan dalam hubungannya dengan Tuhan, Sang Pencipta (Kejadian. 1:31, Kejadian 2:2, dll.). Secara signifikan, Adam dan Hawa berusaha menyelesaikan masalah mereka dengan menempatkan diri mereka di tempat Tuhan, Yang Ilahi, sebuah langkah yang telah diprakarsai oleh wanita itu. Sangat meresahkan bahwa pasangan manusia sekarang telah bergabung dengan agenda ular, yaitu untuk merebut peran Tuhan. Penghujatan mereka juga disarankan dalam gema antara kata 'aroma, menggambarkan "ketelanjangan" mereka, dan kata 'aroma, menggambarkan "kelicikan" ular (Gen. 3:1, NKJV).
+
+**Para Pembangun Babel**
+
+Bahasa yang digunakan untuk menggambarkan pekerjaan para pembangun Babel menggemakan catatan Penciptaan, dengan niat yang disengaja untuk membalikkan pekerjaan Penciptaan dan menggantikan Tuhan Penciptaan. Niat ini sudah ditunjukkan dalam tabel bangsa-bangsa di mana pendirian Nimrod dari kerajaan Babel diperkenalkan dengan kata teknis re'shit "awal" (Kejadian 10:10), yang menggemakan catatan Penciptaan ilahi (Kejadian. 1:1, NKJV). Nimrod, yang namanya berarti "kita akan memberontak," disajikan sebagai pencipta Babel, sama seperti Tuhan adalah Pencipta langit dan bumi.
+
+Dalam kisah menara Babel, kita mengamati perampasan yang sama. Ungkapan, 'al peney, "di muka," yang digunakan untuk merujuk pada kondisi bumi sebelum Penciptaan (Kejadian. 1:2, NKJV), muncul kembali di sini (Gen. 11:4). Sementara akun Penciptaan berpindah dari satu elemen (air) ke multiplisitas dan keragaman, Babel membalikkan keadaan multiplisitas menjadi satu elemen. Firman Tuhan, wayyomer 'Elohim, "Tuhan berkata," telah digantikan oleh kata-kata para pembangun, wayy'omeru, "mereka berkata" (Kejadian. 11:3, 4, NKJV). Pemenuhan ilahi dari Penciptaan wayehi, "dan ada" (Kejadian. 1:3, NKJV), telah digantikan oleh prestasi manusia wattehi, "dan itu" (Kejadian. 11:3, NKJV). Musyawarah diri ilahi atau konsultasi na'aseh, "mari kita membuat," dari Pencipta ilahi (Kejadian 1:26) telah digantikan oleh pertimbangan diri manusia na'aseh, "mari kita buat" (Kejadian. 11:4). Para pembangun Babel memiliki ambisi yang sama dengan Hawa: mereka ingin menjadi seperti Tuhan.
+
+**Panggilan Abram**
+
+Dengan kata-kata ini, Tuhan memanggil Abram: “ 'Aku akan menjadikanmu bangsa yang besar . . . dan membuat namamu besar' ” (Kejadian. 12:2, NKJV). Panggilan Tuhan tentang Abram menanggapi, dan menentang, rancangan para pembangun Babel. Jadi, bukan kebetulan bahwa panggilan Tuhan kepada Abram untuk pergi terjadi di tanah Ur dari orang Kasdim. Memang mengejutkan bahwa kota Sumeria kuno Ur terletak di wilayah Babilonia yang memiliki hubungan paling dekat dengan insiden Babel.
+
+Bahwa Abram mendengar panggilan untuk meninggalkan tempat yang penuh dengan ingatan Babel masuk akal dan seharusnya tidak mengejutkan kita, bukan hanya karena pertimbangan historis dan geografis tetapi juga karena implikasi teologisnya. Dari seruan para nabi hingga permohonan apokaliptik, panggilan ilahi untuk "keluar dari Babel" (nama Yunani untuk Babel) memiliki sejarah teologis yang panjang dalam tradisi alkitabiah (lihat Isa. 48:20, Wahyu 18:4). Panggilan ilahi tidak hanya berarti pembebasan dari kondisi pengasingan yang menindas, serta pemulihan nasional ke Tanah Perjanjian, tetapi juga menyiratkan kembalinya ke perjanjian.
+
+Para pembangun Babel ingin membuat nama besar bagi diri mereka sendiri dan menjadikan diri mereka menjadi bangsa universal yang unik (Kejadian. 11:4). Tetapi Tuhanlah yang membuat nama menjadi hebat dan hanya Tuhan yang membuat satu bangsa tertentu menjadi hebat dan unik berbeda dengan bangsa-bangsa lain. Menariknya, kata kerja "membuat" adalah kata kunci dari akun Penciptaan, di mana itu terjadi tujuh kali, dengan Tuhan sebagai subjek (Gen. 1:7, 16, 25, 26; Kejadian 2:2 [dua kali dalam ayat ini], 3). Kata kerja yang sama digunakan tiga kali untuk menggambarkan aktivitas para pembangun Babel (Kejadian 11:4, 6 [dua kali dalam ayat ini]), dan salah satunya, khususnya, dalam kaitannya dengan "nama" mereka (Kejadian. 11:4). Babel berdiri, kemudian, di tempat Sang Pencipta. Panggilan kepada Abram mengembalikan hak prerogatif Tuhan. Hanya Tuhan, sebagai Pencipta, yang benar-benar dapat "membuat"; dan hanya Tuhan yang dapat "membuat nama." Selain itu, hanya nama Tuhan yang digambarkan sebagai "besar" (Yos. 7:9).
+
+**Berkat Abram**
+
+Kata barak, "berkat," adalah kata kunci dalam panggilan Tuhan kepada Abram, di mana kata itu muncul lima kali. Penggunaan kata ini sangat menonjol dalam kitab Kejadian, di mana kata itu muncul 88 kali (dibandingkan dengan 356 kali di bagian lain dari Alkitab Ibrani). Konsep Ibrani tentang "berkat" sering dikaitkan dengan prospek berbuah (Kejadian 1:21–23). Dengan demikian, panggilan kepada Abram membatalkan ideologi Babel. Melawan para pembangun Babel, yang menolak untuk mengikuti rencana penciptaan ilahi untuk berkembang biak, berkat Abram mengembalikan kekuatan penciptaan dan janji masa depan.
+
+Sementara para pembangun Babel membangun keamanan mereka hanya pada diri mereka sendiri, berkat bangsa-bangsa semata-mata bergantung pada berkat Tuhan kepada Abram. Alasan penting untuk berkat ini terletak pada peristiwa sejarah masa depan: “ 'di dalam dirimu semua keluarga di bumi akan diberkati' ” (Kejadian. 12:3, NKJV). Ungkapan preposisi "dalam dirimu" berarti "dalam benihmu" atau "melalui benihmu." Artinya, bukan "dalam Abram" bahwa berkat diperoleh, tetapi "dalam benih" Abram, yang merupakan "benih" Mesianik yang sama seperti dalam Kejadian 3:15, yang dengannya teks kita berbagi banyak kata-kata umum, bentuk tata bahasa, dan asosiasi kata-kata dan tema. Bahasa yang sama digunakan oleh Paulus untuk menggambarkan efek universal dari perjanjian "dalam Kristus Yesus" (Gal. 6:15, NKJV).
+
+### Bagian III: Aplikasi Kehidupan
+
+Menggantikan Tuhan. Mengetahui bahwa esensi dari dosa adalah untuk menggantikan Tuhan, tanyakan pada diri sendiri pertanyaan ini: Bagaimana, jika kita tidak berhati-hati, semoga Tuhan digantikan di setiap tingkat kehidupan kita? Diskusikan aspek-aspek berikut di kelas Anda:
+
+Dalam kata-kata Anda: ketika Anda berbohong, Anda menyembunyikan atau mendistorsi fakta. Kamu telah mengganti kebenaran (apa yang Allah lihat) dengan versimu darinya. Ketika Anda menyombongkan diri, Anda umumnya melebih-lebihkan nilai Anda dengan mengorbankan tetangga Anda atau bahkan dengan mengorbankan Tuhan itu sendiri, sama seperti yang dilakukan Nebukadnezar ketika dia membangun kota Babel (Dan. 4:30).
+
+Dalam pekerjaan Anda: ketika Anda terlalu banyak bekerja, Anda mengabaikan hukum kesehatan atau keluarga Anda, yang membutuhkan kehadiran dan perhatian Anda. Ketika Anda malas, Anda melakukan pekerjaan yang ceroboh. Ketika Anda menipu dan ketika Anda menjiplak, Anda mencuri karya atau temuan orang lain, berpura-pura bahwa itu adalah milik Anda.
+
+Dalam agama Anda: ketika Anda menyembah orang lain atau sesuatu selain Tuhan, apakah itu uang, pekerjaan, mobil, rumah, atau diri Anda sendiri, Anda dengan demikian melakukan penyembahan berhala.
+
+Menanggapi Panggilan Tuhan. Mengetahui bahwa menggantikan Tuhan adalah dosa, apa yang dapat Anda lakukan untuk memungkinkan Tuhan menghapus diri dari takhta hati Anda dan mengangkat diri-Nya sendiri? Temukan contoh-contoh dalam Alkitab yang menunjukkan interposisi ilahi ini.
+
+Diskusikan tanggapan Tuhan terhadap dosa manusia; renungkan masalah substitusi—fakta bahwa Tuhan memilih untuk mati di tempat Anda sehingga Anda dapat hidup. Bermeditasi pada peristiwa-peristiwa tertentu dalam sejarah Israel di mana Tuhan bekerja untuk manusia (misalnya, Penciptaan, Keluaran, pengasingan Babel, atau waktu-waktu tertentu ketika Tuhan berperang untuk umat-Nya [Keluaran 14:14], dll).

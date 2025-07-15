@@ -1,0 +1,22 @@
+---
+  title: "Exodul"
+  description: "Dumnezeul care este revelat în cartea Exodul este Domnul iubitor care, la timpul stabilit - și prin acțiunile Sale mărețe -, a adus salvarea și eliberarea poporului Său (Geneza 15:12-16)"
+  human_date: "Iulie · August · Septembrie 2025"
+  start_date: "28/06/2025"
+  end_date: "26/09/2025"
+  color_primary: "#C36C19"
+  color_primary_dark: "#a65101"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Jiří Moskala"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Redactare
+      value: "Delia-Mirela Buciuman"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Copertă
+      value: "Liliana Dincă"
+    - name: Lectură
+      value: "Daniel Brînzan"

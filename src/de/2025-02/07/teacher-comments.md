@@ -46,9 +46,7 @@ Wir sind der Tempel Gottes: Letztendlich wohnt Gott unter seinem Volk. Das hebr�
 **Die Pädagogik des Thrones:** In unserer heutigen Zeit scheinen die Vorstellungen von Königtum und „Thron“ nicht besonders relevant zu sein. Daher haben wir das Gespür für Transzendenz, Respekt und Heiligkeit verloren. Diskutiert diese Begriffe mit jungen und älteren Menschen. Erwägt die folgenden Strategien als mögliche Wege, um diese Konzepte zu vermitteln:
 
 1. Organisiert einen Ausflug in die Natur, um in der Pracht und Erhabenheit von Gottes Schöpfung ein Gefühl für Transzendenz und Ehrfurcht vor seinem Thron zu entwickeln.
-
 2. Besucht eine Sternwarte oder ein Planetarium, um die Unendlichkeit des Universums zu würdigen.
-
 3. Ladet einen Wissenschaftler ein, der die Komplexität und die Geheimnisse des menschlichen Körpers erklärt.
 
 **Der Thron im Gottesdienst:** Überdenkt angesichts eures Studiums über den Thron Gottes eure Gottesdienste, euer Verhalten in der Gemeinde, die Art, wie ihr betet, singt und predigt. Wäre es angemessen, mit dem missionarischen Erfolg deiner Gemeinde oder der Anzahl der Bibelstunden anzugeben? Warum oder warum nicht?

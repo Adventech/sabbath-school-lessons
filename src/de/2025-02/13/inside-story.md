@@ -23,6 +23,6 @@ Der Mann erwiderte verblüfft: „Das ist wohl das Schönste, was ich je gehört
 
 Das war seine erste und einzige Frage. Mit Tränen in den Augen kaufte er jedes Buch, das Maria dabeihatte. Als sie sich verabschiedeten, sagte er: „Sie haben mir wirklich das erklärt, was ich wissen wollte. Jetzt freue ich mich darauf, all Ihre Bücher zu lesen.”
 
-* Maria ist ein Pseudonym.
+_* Maria ist ein Pseudonym._
 
 Geliefert vom Büro der Generalkonferenz für Adventist Mission: www.AdventistMission.org

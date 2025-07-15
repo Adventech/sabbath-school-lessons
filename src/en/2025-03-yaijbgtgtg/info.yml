@@ -1,0 +1,26 @@
+---
+  title: "Teacher YAQ3: God is Always With Me"
+  description: "Year A, Quarter 3"
+  human_date: "July · August · September 2025"
+  start_date: "29/03/2025"
+  end_date: "27/06/2025"
+  color_primary: '#007EAC'
+  color_primary_dark: '#005B7B'
+  credits:
+    - name: Contributors
+      value: Carolin Schmitz, Nina Atcheson, Rosie Smith (crafts)
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard and Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Frank M. Hasel
+    - name: Designers
+      value: Types & Symbols, Megan Betteridge
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Beginner"
+    "order": 850

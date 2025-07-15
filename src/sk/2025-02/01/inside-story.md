@@ -3,26 +3,22 @@ title:  Misijný príbeh
 date:   04/04/2025
 ---
 
-#### „Chci tuhle knihu!“
+#### „Chcem tú knihu!“
 
 _Laurie Denski-Snyman_
 
-Tim byl nový misionář a byl poněkud ustrašený. Prodával křesťanské knihy na převážně nekřesťanském ostrově v jihovýchodní Asii a nechtěl mít žádné problémy.
+Tim začal pracovať ako misionár. Mal strach. Predával kresťanské knihy na prevažne nekresťanskom ostrove v juhovýchodnej Ázii a nechcel mať zbytočné problémy.
 
-Když procházel ulicí, Tim se pomodlil a nervózně vstoupil do obchodu jedné švadleny. Před sebou viděl čtyři lidi čekající ve frontě. Zdálo se, že minuty se vlečou.
+Vždy, keď sa vydal na cestu, pomodlil sa. Tak to bolo aj teraz. Potom nervózne vstúpil do krajčírstva. Pred sebou uvidel štyroch ľudí, ktorí čakali v rade. Zdalo sa mu, že minúty sa strašne vlečú.
 
-Čekání trvalo déle, než Tim očekával. Byl v pokušení odejít, ale něco ho zastavilo. Všiml si, že se švadlena neustále dívá jeho směrem s podivným výrazem ve tváři. Čas od času se dokonce přesunula na jednu stranu pultu, blíž ke zdi, aby mohla vykukovat skrze ostatní zákazníky a lépe si prohlédnout jeho tvář.
+Čakal dlhšie, než si myslel. Mal pokušenie odísť, ale niečo ho zastavilo. Všimol si, že krajčírka sa stále pozerá jeho smerom s akýmsi zvláštnym výrazom v tvári. Z času na čas dokonca prišla celkom blízko k stene, aby cez ostatných zákazníkov lepšie videla jeho tvár. Nakoniec z obchodu odišiel posledný zákazník a na rad prišiel Tim. Ale skôr než stihol niečo povedať, krajčírka ukázala na knihy, ktoré trčali z jeho tašky.
 
-Nakonec z obchodu odešel poslední zákazník a ve frontě přišla řada na Tima. Než však stačil něco říct, švadlena ukázala na knihy, které mu trčely z tašky.
+„Chcem tú knihu!“ zvolala. „Chcem tú knihu! Ja ju naozaj chcem!“
 
-„Já chci tuhle knihu!“ vykřikla. „Chci tuhle knihu a pak taky tuto!“
+„Čože?“ povedal Tim. „Ako viete, že predávam knihy?“
 
-„Cože?“ Tim se zarazil. „Jak vůbec víte, že mám knihy na prodej?“
+„Mala som sen,“ povedala, „a v tom sne som videla mladého muža, ktorý vyzeral presne ako vy. Mal so sebou knihy, ktoré si mám prečítať. Jedna z tých kníh sa volala Veľký spor. Preto som vedela, že prídete. Vedela som, že si musím kúpiť knihu Veľký spor. Máte takú knihu?“
 
-„Měla jsem sen,“ řekla švadlena. „V tom snu jsem viděla mladého muže, který vypadal přesně jako vy. Měl s sebou knihy, které jsem si měla přečíst, a jedna z těch knih se jmenovala Velký spor. Takže jsem věděla, že přijdete. Věděl jsem, že si musím Velký spor koupit. Máte onu knihu?“
+Timove obavy, že ako misionár bude mať problémy, sa okamžite rozplynuli. Bol nadšený. Uvedomil si, že je naozaj pravda to, čo je napísané v 5Moj 31,8: „Sám Hospodin pôjde pred tebou, bude s tebou, nedá ti ochabnúť ani ťa neopustí ťa. Neboj sa ani sa neľakaj.“ Vedel, že Boh ide pred ním a pripravuje mu cestu, ako sa podeliť o dobrú správu o Ježišovi a jeho skorom príchode.
 
-Timovy obavy z toho, že bude mít jako misionář problémy, okamžitě zmizely. Prodávání knih ho nadchlo. Uvědomil si pravdivost zaslíbení z 5. Mojžíšove 31,8, kde se píše: „Sám Hospodin jde před tebou, on sám bude s tebou. On tě neopustí ani nenechá, neboj se a nestrachuj.“ Věděl, že Bůh jde před ním a připravuje mu cestu, aby mohl sdílet dobrou zprávu o Ježíši a jeho brzkém příchodu.
-
-Modlete se za Tima a další misionáře, kteří se snaží oslovit nedosažené skupiny lidí v Jižní asijsko-pacifické divizi, kde se tento příběh odehrál. Děkujeme vám za dary třinácté soboty v tomto čtvrtletí, které pomůžou šířit evangelium v Jižní asijsko-pacifické divizi.
-
-_Tento misijní příběh ilustruje následující cíle strategického plánu Církve adventistů sedmého dne nazvaného „Půjdu“: Misijní cíl č. 1: „Oživit koncept celosvětové misie a obětování se pro misii jako způsob života, který zapojuje nejen pastory, ale každého člena církve, mladého i starého, do radosti ze svědectví o Kristu a získávání učedníků.“ a Misijní cíl č. 2: „Posílit a diverzifikovat adventistickou pomoc ve velkých městech, v celém Okně 10/40, mezi nedosaženými a nedostatečně oslovenými skupinami lidí a v nekřesťanských náboženstvích.“. Více informací naleznete na anglicky psaných webových stránkách: IWillGo.org._
+Modlite sa za Tima a ďalších misionárov, ktorí sa snažia osloviť ľudí v Juhoázijskej tichomorskej divízii, kde sa odohral aj tento príbeh. Ďakujeme vám za vaše dary trinástej soboty v tomto štvrťroku, ktoré pomôžu šíriť evanjelium v Juhoázijskej tichomorskej divízii.

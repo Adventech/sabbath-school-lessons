@@ -1,0 +1,19 @@
+### Andra Moseboken: Resan till det förlovade landet
+
+Den Gud som uppenbaras i Andra Moseboken är den kärleksfulle Herren som vid den utsatta tiden – och med sina mäktiga handlingar – förde frälsning och befrielse till sitt folk (1 Mos. 15:13–16). Uttåget ur Egypten och resan genom Sävhavet var avgörande och unika händelser – Guds spektakulära och underbara handlingar. Ingen större eller härligare händelse har någonsin inträffat i det gamla Israels historia före korset. Det är evangeliet, men enligt Mose.
+
+Gud utförde underverk upprepade gånger för att visa sin omsorg och sitt skydd för hebréerna, trots deras ständiga återfall. Hans barmhärtighet överträffade all deras förståelse och känsla. Med sin utsträckta arm ledde Herren sitt folk till frihet. Det var en handling som aldrig tidigare skådats. Denna oväntade serie av gudomliga ingripanden var början på deras förnyade resa med Gud, en resa från Egypten till (så småningom) Kanaan.
+
+Även om Mose spelar en viktig roll i Andra Moseboken handlar den här boken inte om Mose utan om Gud – kärlekens, sanningens, rättvisans, frihetens och förlåtelsens Gud, den Gud som till slut gick i döden upp på korset för oss. Genom att studera Andra Moseboken får vi en unik inblick i hur vår Gud verkligen är.
+
+Och hur är han egentligen? Han är en Gud som var trogen sitt folk trots deras otrohet. Han var ständigt för dem, även när de var emot honom. Om och om igen visade han dem sin barmhärtighet och kom med uppmuntran, tillrättavisning och gudomlig undervisning. Han ledde dem på bästa möjliga sätt och ville att de frivilligt, av kärlek till honom och hans karaktär, skulle dyrka och lyda, allt för deras eget bästa.
+
+Moses Gud är relationernas Gud. Guds viktigaste mål var inte att åstadkomma något eller att uppfylla en agenda; i stället var hans främsta mål att skapa en meningsfull relation med sitt utvalda folk, Israel. Han ledde dem till Sinai för att etablera denna djupa gemenskap.
+
+Aposteln Paulus lär oss att det som hände Guds folk i det förflutna är en tankeställare för oss, så att vi kan lära oss av deras misstag och troget följa Herren i dag: ”Allt det som hände dem är exempel, och det skrevs ner för att vägleda oss som har tidsåldrarnas slut inpå oss” (1 Kor. 10:11). Dessa händelser i det förflutna bör vara en varning och en källa till oförglömlig vägledning för oss nu. Vi bör läsa dem, studera dem och lära oss av dem, för oavsett hur olika omständigheterna är, så är de andliga principerna bakom dem desamma.
+
+Vår plan för att studera Andra Moseboken under dessa 13 veckor är tydlig. Boken är indelad i veckovisa kapitelläsningar av olika längd (tematiskt indelade för enkelhetens skull): (1) Slaveriet i Egypten, Moses födelse och hans första 40 år (2 Mos. 1, 2). (2) Moses uppdrag (2 Mos. 3, 4). (3) Komplikationer: när livet blir värre (2 Mos. 5, 6). (4) De första nio plågorna (2 Mos. 7–10). (5) Den tionde plågan och firandet av påsken (2 Mos. 11, 12). (6) Befrielsen från Egypten och upplevelsen vid Sävhavet (2 Mos. 13–15). (7) Resan till berget Sinai (2 Mos. 16–18). (8) Guds förbunds gåva och dekalogen (2 Mos. 19, 20). (9) Guds lag tillämpas (2 Mos. 21–23). (10) Förbundet bekräftas och föreskrifterna om tabernaklet (2 Mos. 24–31). (11) Avfallet med guldkalven och Moses förbön (2 Mos. 32). (12) Guds självuppenbarelse och Moses strålande ansikte (2 Mos. 33, 34). (13) Tabernaklet byggs och invigs (2 Mos. 35–40). Varje vecka fokuserar vi på viktiga avsnitt och händelser från de angivna kapitlen.
+
+Må vår nådige Herre välsigna oss när vi studerar denna viktiga bok som påminner oss om hur Gud vill leda sitt folk från slaveri till frihet, från död till liv och från vildmarken till det nya Jerusalem (Heb. 12:22).
+
+_Jiří Moskala är professor i Gamla testamentets exegetik och teologi samt dekanus för Sjundedagsadventistsamfundets teologiska seminarium vid Andrews University._

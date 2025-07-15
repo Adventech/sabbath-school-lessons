@@ -1,0 +1,51 @@
+---
+title:  Auxiliar
+date:   30/05/2025
+---
+
+**TEXTO-CHAVE:** Sl 67:3, 4
+
+**FOCO DO ESTUDO:** Sl 46; 47; 67; 75
+
+#### ESBOÇO
+
+**Introdução:** Na semana passada, selecionamos salmos que enfatizam o povo de Deus no tempo do fim, enquanto se preparam para a vinda do Senhor. A lição abordou os desafios e as lutas enfrentados pelo povo de Deus. Esses desafios estavam relacionados à vida pessoal deles, e os salmos destacaram a necessidade de um arrependimento profundo e radical – uma transformação completa do coração. Além disso, esses salmos alertaram a comunidade de fé sobre o inimigo externo, que em momentos de dura perseguição trouxe problemas insuportáveis. Nesta semana, os quatro salmos selecionados chamarão a nossa atenção para o próprio Deus. O primeiro salmo nos apresentará Deus como “nosso refúgio”, que nos conforta e tranquiliza, aproximando-se de nós como Aquele que trará “socorro em” tempos de “tribulações” (Sl 46:1).
+
+O segundo salmo aquecerá nosso coração, levando-nos a nos regozijar porque Deus, “nosso Rei [...] é o Rei de toda a Terra” (Sl 47:6, 7). O terceiro salmo fortalecerá essas emoções, transformando-as em gratidão, pois Deus finalmente respondeu ao nosso clamor. Deus não é mais apenas o Deus a quem dirigimos nossas súplicas, pedindo libertação, nem simplesmente o Deus a quem expressamos nossas frustrações por causa da injustiça presente em “lugar do juízo” (Ec 3:16). Em última análise, Deus é o Juiz que trará justiça ao mundo e restaurará a ordem correta (Sl 75:7, 10). O quarto e último salmo representa o cumprimento da bênção sacerdotal, mostrando que Deus, cheio de bênçãos misericordiosas, está presente entre Seu povo (Sl 67:7).
+
+#### COMENTÁRIO
+
+**Salmo 46: Deus é nosso refúgio.** O Salmo 46 é atribuído aos “filhos de Corá”, que eram levitas (1Cr 6:16, 22) responsáveis pela música no templo. Essa informação pode explicar a referência ao templo como “o santuário das moradas do Altíssimo” (ver Sl 46:4). De acordo com o salmo, os perigos encontrados aqui são de natureza dupla. Eles não são apenas de ordem natural, como em algum tipo de terremoto cósmico que envolve elementos terrestres e aquáticos. Montanhas também são abaladas (Sl 46:3), e montanhas são removidas para o meio do mar (Sl 46:2). Os perigos cataclísmicos também são devidos ao ataque violento de inimigos humanos, como vemos na frase, “bramam as nações”. Sua fúria catalisa um movimento paralelo que culmina no colapso de todos os reinos terrestres (Sl 46:6).
+
+O povo de Deus, diretamente afetado por essa dupla catástrofe, é identificado como o autor do salmo, expressando sua reação à calamidade apocalíptica: “não temeremos” (Sl 46:2). Em resposta ao duplo ataque da natureza e das nações, o povo de Deus responde com uma defesa dupla tanto da criação quanto de Deus. Por um lado, o rio da cidade de Deus traz alegria (Sl 46:4), evocando as águas curativas da Nova Jerusalém e os rios que fluíam do Jardim do Éden (Gn 2:10). Essa imagem é retomada no livro do Apocalipse para descrever a Nova
+Jerusalém (Ap 22:1). Por outro lado, Deus está diretamente envolvido: Ele, que está no meio da cidade santa (Sl 46:5), é chamado de “nosso refúgio” e é descrito como “socorro” e “fortaleza” em tempos de tribulação (Sl 46:1). Observa-se a harmonia cósmica entre o Deus da criação e a natureza, com Deus controlando os elementos, assim como Jesus fez no mar (Mt 8:27). O confronto cósmico mencionado refere-se aos eventos finais do grande conflito, que colocarão o acampamento de Deus, representado pelo monte santo (a Sião celestial), contra as nações. O salmo é ecoado na visão profética da última batalha da história humana, conforme a descrição de Daniel 11:45 e Apocalipse 16:16. O salmo conclui com a garantia da presença de Deus “conosco” (Sl 46:11).
+
+**Salmo 47: Deus é nosso Rei.** O Salmo 47 dá continuidade à esperança celebrada no salmo anterior. O mesmo autor levítico dos filhos de Corá entoa um cântico de vitória ao Deus de Sião. O Deus do templo está agora assentado em Seu trono, que é Sião. Com a vitória completa sobre o inimigo finalmente alcançada, Deus é aclamado Rei.
+
+Esse salmo faz parte dos chamados “Salmos reais” ou “Salmos de entronização”, caracterizados pelo louvor a Deus como Rei (veja Sl 93; 96–99). 
+
+É interessante observar que o Salmo 47 passou a ser incluído na liturgia judaica de _Rosh Hashaná_, o primeiro dia do mês de _Tishri_ no calendário judaico. O toque da trombeta mencionado em Salmo 47:5 serve de base para o som do _shofar_ nesse dia, celebrando a esperança de que um dia Deus reinará sobre todas as nações. Além disso, as nações que agora louvam a Deus são as mesmas que foram derrotadas na guerra (Sl 47:3). O livro do Apocalipse menciona um fenômeno semelhante ao falar sobre a “cura das nações” no contexto da Nova Jerusalém (Ap 22:2). No antigo Israel, a palavra “nações” (_goyim_) se referia aos inimigos de Israel. No entanto, neste novo contexto, essas nações não são mais vistas como adversárias, mas como parte do povo de Deus.
+
+O evento do Êxodo é usado como um modelo para sugerir, espiritualmente, a conquista da nova Canaã. As expressões paralelas “herança” e “a excelência de Jacó” (Sl 47:4) referem-se à conquista da terra prometida, que incluía as nações vizinhas que haviam sido conquistadas (ver Dt 32:8). O salmo termina com a visão escatológica de Israel e de todas as nações do mundo, que reconhecem a soberania de Deus.
+
+**Salmo 75: Deus é nosso Juiz.** O Salmo 75 é notável por suas três imagens impressionantes que representam os atos de juízo de Deus. A primeira é a imagem da terra tremendo, desmoronando e perdendo todos os seus fundamentos (Sl 75:3). O salmo parece descrever um mundo contemporâneo, repleto de caos e desordem, onde a estabilidade e as colunas morais foram abaladas. Deus, como Juiz, assegura ao Seu povo que restaurará a estabilidade dessas “colunas” (Sl 75:3).
+
+A segunda imagem é a do cálice cheio de vinho muito forte que Deus derrama sobre os ímpios, os quais bebem esse vinho completamente (Sl 75:8). De maneira similar, o livro do Apocalipse frequentemente se refere ao cálice da ira de Deus (Ap 14:10; Ap 16:19; Ap 18:6).
+
+A terceira imagem é a dos chifres (Sl 75:10), que são um símbolo de poder e dignidade (Nm 23:22, Dn 7:8).
+
+Em cada estágio, o juízo de Deus promove justiça na comunidade corrompida. Deus “derruba” o ímpio orgulhoso que “ergue” seu chifre e exalta o justo cujo chifre havia sido abatido (Sl 75:5, 10). O Juiz divino, então, restaura a ordem que foi perturbada pelos poderes do mal.
+
+A mesma esperança é oferecida no livro de Eclesiastes. Após lamentar a instabilidade da ordem na Terra, Salomão confia que “Deus julgará o justo e o ímpio; porque há um tempo para todo propósito e para toda obra” (Ec 3:17; compare com Ec 12:14). Em sintonia com essa expectativa, em Apocalipse 14 o anjo fala sobre o mesmo juízo duplo. De um lado, o anjo avisa que aqueles que adoram a besta, simbolizando a igreja enganosa, “beberão do vinho da ira de Deus” (Ap 14:10). Por outro lado, aqueles que adoram o Senhor da criação são descritos como os “santos [...] que guardam os mandamentos de Deus e a fé em Jesus” e que descansarão “das suas fadigas” (Ap 14:12, 13).
+
+**Salmo 67: Deus é nossa bênção.** O Salmo 67, que encerra nossa série, é uma oração expressa através dos verbos jussivos (imperativos suaves) que indicam o desejo do suplicante: “para que se conheça na Terra o Teu caminho” (Sl 67:2; veja também Sl 67:3, 5, 6, 7). Essa súplica por bênção reflete a bênção Aarônica: “Seja Deus gracioso para conosco, e nos abençoe, e faça resplandecer sobre nós o Seu rosto” (Sl 67:1; veja também Nm 6:23-26). Embora o orador não seja especificamente nomeado, a referência ao músico-chefe e a menção da bênção sacerdotal sugerem que é um sacerdote conduzindo a congregação. O que torna essa oração notável é seu alcance universal. O salmo começa com um pedido de bênção para o povo: “sobre nós” (Sl 67:1) e, em seguida, expressa o desejo de que o caminho de Deus seja conhecido “na Terra” e, “em todas as nações, a Tua salvação” (Sl 67:2), expandindo-se para todas as nações convertidas. O salmo antecipa o cumprimento escatológico, quando todas as nações, e não apenas Israel, receberão a bênção de Deus. Essa oração se realizará plenamente na “Nova Jerusalém”, onde não haverá necessidade de sol nem de lua para iluminar a cidade (Ap 21:23).
+
+#### APLICAÇÃO PARA A VIDA
+
+Não é necessário esperar pela perseguição escatológica iminente para sentir a necessidade do refúgio de Deus. Os desafios e problemas que enfrentamos atualmente já nos trazem a necessidade e são oportunidades para experimentar esse refúgio e proteção de Deus. Em momentos de tribulação, podemos nos sentir ameaçados por colegas ou amigos que não compartilham de nossa fé e que podem zombar de nós ou conspirar contra nós. Também podemos enfrentar doenças, reprovações escolares, dificuldades financeiras ou solidão. Cada uma dessas situações pode ser uma oportunidade para buscar e experimentar o refúgio de Deus. Somente Ele pode oferecer a ajuda necessária para superar qualquer dificuldade e nos dar a força para suportar as adversidades.
+
+A noção de “realeza” não corresponde à nossa vida moderna. No entanto, essa é uma noção importante que nos ajudará, em situações humilhantes, a não nos sentirmos deprimidos e desesperados: o grande Rei de toda a Terra está cuidando de nós. Como Seus filhos, herdaremos Sua promessa muito em breve.
+
+À medida que enfrentamos problemas e injustiças, podemos refletir sobre a seguinte passagem de Eclesiastes: “Vi ainda debaixo do sol que os mais rápidos nem sempre ganham a corrida, que os mais fortes nem sempre vencem a batalha, que os sábios nem sempre têm pão, que os prudentes nem sempre têm riqueza, que os inteligentes nem sempre são honrados, mas que tudo depende do tempo e do acaso” (Ec 9:11). Essa observação sobre a injustiça intrínseca à vida também nos lembra da importância da graça. Não merecemos a bondade e a mi-sericórdia de Deus, mas somos convidados a confiar em Sua graça. A luz de Deus já ilumina nossa vida, aqui e agora. Como podemos receber e aproveitar a misericórdia divina, mantendo a confiança e alegria enquanto caminhamos em Sua luz?
+
+`Notas`

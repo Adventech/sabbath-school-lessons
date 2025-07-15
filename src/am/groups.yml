@@ -1,0 +1,7 @@
+---
+  default:
+    name: "መደበኛ አዋቂ"
+    order: 100
+  cq:
+    name: "InVerse"
+    order: 200

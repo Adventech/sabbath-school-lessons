@@ -44,9 +44,7 @@ Der zweite Teil des Psalms (Ps 51,12–21) konzentriert sich auf den Gedanken de
 ### TEIL III: ANWENDUNG
 
 1. Denkt unter Berücksichtigung unserer Lektion dieser Woche über die folgenden Fragen nach: Was bedeutet der Aufruf des Psalmisten „Betet um Frieden für Jerusalem!“ (NLB) für uns heute? Was müssen wir tun, um diesen Frieden zu erreichen?
-
 2. Denkt über Jesu Empfehlung nach, zu unserem Vater im Himmel zu beten: „Dein Reich komme. Dein Wille geschehe wie im Himmel so auf Erden“ (Mt 6,10). Macht euch bewusst, dass dieses Gebet nicht einfach nur eine geistliche Lösung für unsere unruhige Welt ist. Dieses Gebet bezieht sich auf Jesu Kommen, um die Welt zu verändern. Diskutiert darüber.
-
 3. Warum sollten unsere Hoffnung auf die Wiederkunft, die Besorgnis über die Zeichen der Zeit, die dramatischen Ereignisse in der Welt und unser Wunsch, uns auf Gottes Reich vorzubereiten, unser persönliches Streben nach Charakterbildung und -entwicklung als Christen ergänzen? Warum sollten auch die Empfindungen und Gedanken unseres Herzens mit unseren Idealen des Reiches übereinstimmen? Diskutiert, warum unser religiöses Streben nach Heiligung und unser Ideal der Heiligkeit uns sensibler gegenüber unseren Mitmenschen und unser Verhalten ihnen gegenüber ethischer machen sollte.
 
 **4. Aktivität:** Da wir in Zeiten von Kriegen auf der ganzen Welt leben, müssen wir lernen, für den „Frieden Jerusalems“ zu beten. Dieser Gedanke bedeutet, dass der Frieden der Welt Teil unserer Sorge sein sollte. Organisiert eine Woche des Gebetes, um für den Frieden auf der Erde zu beten. Lernt, Empathie für Menschen zu entwickeln, die unter Kriegsbedingungen leiden.

@@ -1,7 +1,52 @@
 ---
-title:  Teacher Comments
+title:  Penuntun Guru
 date:   16/05/2025
 ---
 
-### Kami sedang mengerjakan pelajaran ini
-Silahkan kembali lagi nanti
+### Bagian I: Ikhtisar
+
+**Ayat Inti:** Yesaya 6:8.
+
+**Fokus Pelajaran:** Yesaya 6:6–8, Wahyu 4:9–11.
+
+Tuhan adalah dasar dari setiap hal yang baik, hanya karena Dia adalah Pencipta dari semua hal yang baik, hidup dan tidak bernyawa. Kita mendengar kebenaran penting ini dalam kata-kata pertama Alkitab: "Pada mulanya Allah menciptakan langit dan bumi" (Kejadian. 1:1, NKJV). Dalam frasa Ibrani, kata kerja "menciptakan" mendahului subjeknya "Tuhan," sebuah cara untuk menegaskan bahwa, karena Tuhan adalah Sang Pencipta, Dia adalah Tuhan. Dalam pelajaran minggu ini, kita akan merenungkan pentingnya kebenaran dasar ini, yang merupakan dasar untuk tiga wahyu alkitabiah tentang Tuhan.
+
+Perhatian kita pertama-tama akan berpusat pada takhta Tuhan di surga. Karena Tuhan adalah penyebab dari segalanya, dan semuanya bergantung pada-Nya, Tuhan adalah Raja yang memerintah atas segalanya. Dengan demikian Tuhan disajikan sebagai Raja segala raja, duduk di atas takhta-Nya di surga (Yes. 6:1, 6–8; Wahyu 4:9–11). Perhatian kita, kemudian, akan beralih ke takhta Tuhan di bumi. Karena Tuhan memerintah alam semesta, takhta-Nya juga memiliki yurisdiksi atas bumi. Pada bagian kedua ini, kita akan belajar tentang kerajaan Tuhan di bumi, di Taman Eden, dan kemudian, di Israel, sehubungan dengan tabut perjanjian, dan di Sion, yang digambarkan sebagai tempat takhta Tuhan.
+
+Di bagian Aplikasi Kehidupan, kita akan merangkul harapan kita pada takhta Tuhan di masa depan di "Yerusalem Baru" di bumi yang baru. Sebagai kesimpulan, kita akan mempertimbangkan pelajaran berikut: Apa artinya bagi kita, dalam keberadaan kita saat ini, untuk memiliki takhta Tuhan di hati kita hari ini?
+
+### Bagian II: Komentar
+
+Tahta Tuhan di Surga. Keberadaan takhta Tuhan di surga mendahului penciptaan bumi. Menurut Yeremia, tempat ini ada sejak awal penciptaan alam semesta (Yer. 17:12). Dalam konteks surgawi khusus inilah pemberontakan pertama Lucifer dan, karenanya, asal usul kejahatan, terjadi. Kesaksian ini penting karena menunjukkan bahwa masalah kejahatan adalah masalah kosmik yang juga menyangkut dunia lain, bukan hanya bumi. Satu-satunya solusi untuk masalah kejahatan adalah kosmik, dan karenanya harus memerlukan deposisi Lucifer (Wahyu 20:7–10). Yesaya menggambarkan takhta Tuhan sebagai tempat di mana makhluk-makhluk surgawi melayani, memuji, dan menyembah Raja alam semesta: "Aku melihat Tuhan duduk di atas takhta, tinggi dan ditinggikan" (Yes. 6:1, NKJV). Situasi takhta di surga kaya dengan sejumlah ide mengenai realitas ilahi dan dengan pelajaran yang menjadi perhatian kita.
+
+Ide pertama yang diungkapkan oleh gambar takhta mewakili, dengan simbolisme, kerajaan. Sebagai Raja dari semua ciptaan, Tuhan memerintah dan mengendalikan seluruh alam semesta. Bagi kami, ide ini menyiratkan kepatuhan terhadap hukum-hukum-Nya dan kepercayaan pada kuasa-Nya dan kepemimpinan-Nya. Selanjutnya, karena royalti sering dikaitkan dengan fungsi hakim (Mzm. 122:5), semua makhluk, termasuk manusia, harus melihat Tuhan sebagai hakim mereka, yang berarti bahwa Tuhan adalah Dia yang melihat, dan dapat mengevaluasi, semua tindakan kita, baik dan buruk (Pengkhotbah. 12:14). Tidak hanya itu, kita melihat bahwa Allah adalah Dia yang akan menyelamatkan kita dari kejahatan. Dalam Alkitab, hakim juga merupakan "penyelamat" (Hakim. 3:9, 15; Hakim. 6:36; Hakim. 12:3). Dengan menempatkan takhta Tuhan di surga, Alkitab menunjukkan bahwa penghakiman dan keselamatan tidak ada di tangan kita. Hanya Tuhan yang menghakimi, dan hanya Dia yang akan menyelamatkan kita.
+
+Penekanan alkitabiah pada surga sebagai lokasi takhta Tuhan bermaksud untuk menyampaikan beberapa pesan. Lokasi ini menyiratkan bahwa Tuhan berbeda dari ciptaan-Nya; Tuhan bukanlah pohon atau di dalam pohon. Tuhan bukanlah turunan dari manusia. Allah adalah Sang Pencipta, jauh dari bumi, dan karena itu tidak terjangkau dan di luar pemahaman kita: “Allah ada di surga, dan kamu ada di bumi; oleh karena itu biarlah kata-katamu sedikit” (Pengkhotbah. 5:2, NKJV).
+
+Setiap teologi, setiap deskripsi manusia tentang Tuhan, tidak memadai karena Tuhan berada di luar pemahaman kita (Ayub 11:7–12; Ayub 36:26; Yesaya. 55:8, 9). Ketika kita berdoa kepada Tuhan, kata-kata kita, dan bahkan keheningan kita, harus mencerminkan rasa hormat. Misteri Tuhan yang mendalam dibangkitkan oleh kompleksitas takhta, yang memiliki penampilan kereta supranatural yang dianimasikan oleh kerubim yang kuat, makhluk hidup lainnya dengan sayap, dan tangan yang kuat di bawahnya (Yehezkiah. 1:8). Keindahan takhta Tuhan yang mulia dan luhur menyampaikan kesan transendensi yang tidak terjangkau. Yehezkiel menggambarkan takhta yang terbuat dari batu mulia, khususnya "lapis lazuli," bahan yang terkait dengan keilahian di Timur Dekat kuno (Yehezkiel. 1:26). Daniel melihat takhta yang terdiri dari api (Dan. 7:9); sementara dalam Wahyu, itu dikelilingi oleh pelangi zamrud, dan tujuh obor atau lampu api di depan laut kristal (Wahyu 4:3–6). Hanya satu tanggapan manusia terhadap tampilan keindahan yang luar biasa dan sempurna ini yang sesuai: kagum, bercampur dengan kerendahan hati, dan kesadaran akut akan kesengsaraan dan kondisi berdosa kita yang terpisah dari Tuhan.
+
+Di sisi lain, misteri dan keindahan yang sempurna ini adalah daya tarik bagi kita untuk bersaksi tentang keberadaan mereka dalam kebaktian kita. Kami membuktikan keberadaan mereka ketika kami dengan hormat menanyakan wahyu Allah melalui firman-Nya dan dalam ciptaan-Nya. Keindahan dan misteri Tuhan juga merupakan seruan bagi umat manusia untuk bertobat dan mengizinkan Dia untuk merehabilitasi karakter kita yang berdosa. Selanjutnya, keindahan dan misteri takhta Tuhan adalah panggilan bagi kita, di sini dan sekarang, untuk bersaksi tentang keadilan dan realitas prinsip-prinsip kebenaran mutlak Tuhan.
+
+Tahta Tuhan di Bumi. Namun, Tuhan tidak membatasi diri-Nya di surga, jauh dari, dan acuh tak acuh terhadap, takdir manusia. Berbagai representasi takhta surgawi juga hadir di bumi.
+
+Taman Eden. Penampilan duniawi pertama dari takhta "surgawi" Tuhan di bumi ditemukan di Taman Eden, yang digambarkan dalam istilah yang mengingatkan pada bait surgawi Tuhan. Kerub yang berdiri di depan Taman, dengan pedang yang menyala (Kejadian 3:24), mengingatkan kita pada kerub yang berdiri di sekitar takhta surgawi Tuhan dan melayani sebagai nyala api (Mzm 104:4; bandingkan dengan Dan. 7:9, Wahyu 4:3–6). Sungai-sungai yang mengalir di Taman Eden (Kejadian 2:10–14) menunjuk ke air kehidupan, yang jernih seperti kristal dan mata air dari takhta Tuhan (Wahyu 22:2). Batu berharga juga muncul di kedua tempat, di surga dan di bumi (Kejadian 2:12; bandingkan dengan Yehezkiel. 1:26).
+
+Tabut Perjanjian. Lokasi penting lainnya dari takhta Tuhan adalah tabut perjanjian, yang juga berbagi sejumlah fitur yang signifikan dengan takhta surgawi Tuhan (seperti kehadiran kerubim) dan dianggap sebagai takhta Tuhan atau tumpuan kaki-Nya. Bukti identifikasi ini disediakan dalam 1 Tawarikh 28:2, di mana frasa "tabut perjanjian Tuhan" terhubung dengan "'tumpuan kaki Allah kita'" (1 Tawarikh. 28:2, NKJV). Itu adalah tempat, seperti halnya takhta-takhta lainnya, di mana penghakiman akan terjadi. "Tumpuan kaki" juga disebutkan kemudian dalam 2 Tawarikh 9:18, di mana ia terletak di bawah takhta Salomo, menurut kebiasaan Timur Dekat kuno di mana tumpuan kaki ditempatkan di kaki dewa di kuil (lihat Ms. 99:5, Ms. 132:7, Lam. 2:1), menyiratkan bahwa Tuhan berdiri di atasnya.
+
+Gunung Zion. Ketika orang Israel menetap di negara mereka, mereka meletakkan tabut perjanjian di bait suci Yerusalem di Gunung Sion. Nama Sion kemudian digunakan sebagai sinonim untuk tempat takhta Tuhan, kursi penghakiman (Ms. 9:4, Isa. 16:5). Semua gagasan sebelumnya mengenai takhta Tuhan, kemudian, dipindahkan ke Sion, di mana Tuhan tinggal dan menghakimi bangsa-bangsa (Mzm. 9:11-15). Garis pemikiran ini akan berlanjut dalam Perjanjian Baru, di mana Kristus dan para rasul-Nya akan duduk di atas takhta untuk menghakimi dunia (Mat. 19:28). Sion akan menunjuk Yerusalem Baru di surga di mana harapan alkitabiah akan perdamaian, kasih, dan kehidupan kekal pada akhirnya akan terpenuhi (Wahyu 21:1-4).
+
+Kita adalah Bait Tuhan. Pada akhirnya, Tuhan tinggal di antara umat-Nya. Kata kerja Ibrani shakan, "tempat tinggal," digunakan untuk menggambarkan tempat tinggal Tuhan di antara umat-Nya di tempat kudus (Keluaran. 25:8, 9). Gagasan tentang tempat tinggal Tuhan ini begitu kuat sehingga menghasilkan kata mishkan, "tabernakel," tempat di mana Tuhan akan tinggal. Kata kerja juga mengacu pada awan yang tinggal, "beristirahat" (shakan), di atas tabernakel (Keluaran. 40:35). Dalam Perjanjian Baru, pengertian ini diperluas ke orang Kristen, termasuk tubuh: "Apakah kamu tidak tahu bahwa tubuhmu adalah bait Roh Kudus yang ada di dalam kamu, yang kamu miliki dari Allah, dan kamu bukan milikmu?" (1 Kor. 6:19, NKJV). "Oleh karena itu," Paulus menyimpulkan, "memuliakan Allah dalam tubuhmu dan dalam rohmu, yang menjadi milik Allah" (1 Kor. 6:20, NKJV).
+
+### Bagian III: Aplikasi Kehidupan
+
+Pedagogi Tahta. Di zaman kita, gagasan tentang kerajaan dan "tahta" tidak terdengar terlalu relevan. Dengan demikian, kita telah kehilangan rasa transendensi, rasa hormat, dan kesucian. Diskusikan gagasan-gagasan ini dengan orang-orang dari segala usia. Pertimbangkan strategi berikut sebagai cara yang mungkin untuk mengkomunikasikan gagasan ini:
+
+1. Atur tamasya di alam di antara keagungan dan kemegahan karya tangan Tuhan sebagai cara menanamkan rasa transendensi dan kekaguman terhadap takhta-Nya.
+2. Kunjungi planetarium atau museum luar angkasa sebagai cara untuk menghargai alam semesta kita yang tak terbatas.
+3. Undang seorang ilmuwan untuk menjelaskan kompleksitas dan misteri tubuh manusia.
+
+Tahta dalam Ibadah. Mengingat studi Anda tentang takhta Tuhan, kunjungi kembali kebaktian Anda: cara Anda berperilaku di gereja, cara Anda berdoa, bernyanyi, dan berkhotbah. Apakah membual tentang keberhasilan misi gereja Anda atau jumlah studi Alkitabnya sesuai? Mengapa, atau mengapa tidak?
+
+Tahta dalam Etika. Kenali dan hargai kehadiran kerajaan Tuhan pada tetangga Anda, kerabat Anda, saudara laki-laki atau perempuan Anda, orang tua Anda, dan pasangan Anda. Bagaimana realitas takhta dan transendensi Tuhan mempengaruhi sifat hubungan Anda dengan mereka?
+
+Tahta dalam Kehidupan Pribadi Anda. Tanyakan pada diri sendiri pertanyaan berikut: "Apa arti gagasan bahwa Anda adalah takhta Tuhan dalam keberadaan Anda sehari-hari?" Artinya, bagaimana gagasan bahwa Anda adalah takhta Tuhan memengaruhi cara Anda memperlakukan tubuh Anda, mengatur waktu Anda, mengatur rumah tangga Anda, dan berperilaku di tempat kerja?

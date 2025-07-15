@@ -1,0 +1,54 @@
+---
+  audio:
+    - artist: Felnőtt szombatiskola
+      tracks:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250628.mp3
+          target: hu/2025-03/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250629.mp3
+          target: hu/2025-03/01/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250630.mp3
+          target: hu/2025-03/01/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250701.mp3
+          target: hu/2025-03/01/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250702.mp3
+          target: hu/2025-03/01/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250703.mp3
+          target: hu/2025-03/01/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250704.mp3
+          target: hu/2025-03/01/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250705.mp3
+          target: hu/2025-03/02/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250706.mp3
+          target: hu/2025-03/02/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250707.mp3
+          target: hu/2025-03/02/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250708.mp3
+          target: hu/2025-03/02/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250709.mp3
+          target: hu/2025-03/02/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250710.mp3
+          target: hu/2025-03/02/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250711.mp3
+          target: hu/2025-03/02/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250712.mp3
+          target: hu/2025-03/03/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250713.mp3
+          target: hu/2025-03/03/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250714.mp3
+          target: hu/2025-03/03/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250715.mp3
+          target: hu/2025-03/03/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250716.mp3
+          target: hu/2025-03/03/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250717.mp3
+          target: hu/2025-03/03/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250718.mp3
+          target: hu/2025-03/03/07
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250719.mp3
+          target: hu/2025-03/04/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250720.mp3
+          target: hu/2025-03/04/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250721.mp3
+          target: hu/2025-03/04/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250722.mp3
+          target: hu/2025-03/04/04

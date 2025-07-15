@@ -1,0 +1,72 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-Intro.pdf'
+      target: si/2025-02-pr/introduction
+      title: 'හැදින්වීම'
+      start_date: 29/03/2025
+      end_date: 29/03/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-01.pdf'
+      target: si/2025-02-pr/01
+      title: 'සැත්තැවර සත් වාරයක්'
+      start_date: 29/03/2025
+      end_date: 04/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-02.pdf'
+      target: si/2025-02-pr/02
+      title: 'මිදිවත්තේ වැටුප් දිනය'
+      start_date: 05/04/2025
+      end_date: 11/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-03.pdf'
+      target: si/2025-02-pr/03
+      title: 'අනාදරයන්ට ආදරය දැක්වීම'
+      start_date: 12/04/2025
+      end_date: 18/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-04.pdf'
+      target: si/2025-02-pr/04
+      title: 'යේසුස්වහන්සේ හැක්‍ෂQ දවස'
+      start_date: 19/04/2025
+      end_date: 25/04/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-05.pdf'
+      target: si/2025-02-pr/05
+      title: 'වළාකුලක් මඟපෙන්වයි'
+      start_date: 26/04/2025
+      end_date: 02/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-06.pdf'
+      target: si/2025-02-pr/06
+      title: 'තික්ත වතුර මිහිරි රස දෙයි'
+      start_date: 03/05/2025
+      end_date: 09/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-07.pdf'
+      target: si/2025-02-pr/07
+      title: 'දෙවියන්වහන්සේගේ තෝරා ගැනීම'
+      start_date: 10/05/2025
+      end_date: 16/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-08.pdf'
+      target: si/2025-02-pr/08
+      title: 'පර්වතයකින් ජලය'
+      start_date: 17/05/2025
+      end_date: 23/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-09.pdf'
+      target: si/2025-02-pr/09
+      title: 'කුරුල්ලන් සමඟ උදය ආහාර'
+      start_date: 24/05/2025
+      end_date: 30/05/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-10.pdf'
+      target: si/2025-02-pr/10
+      title: 'වැඩිපුර එක්කෙනෙකුට කෑම'
+      start_date: 31/05/2025
+      end_date: 06/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-11.pdf'
+      target: si/2025-02-pr/11
+      title: 'කන්දේ ගින්දර'
+      start_date: 07/06/2025
+      end_date: 13/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-12.pdf'
+      target: si/2025-02-pr/12
+      title: 'දෙවියන්වහන්සේගේ දයාන්විත සිහින් හඬ'
+      start_date: 14/06/2025
+      end_date: 20/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/si/2025-02/ABSG-2025-02-SI-PR-13.pdf'
+      target: si/2025-02-pr/13
+      title: 'උඩින්, උඩින් ඉවතට'
+      start_date: 21/06/2025
+      end_date: 27/06/2025

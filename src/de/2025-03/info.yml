@@ -1,0 +1,22 @@
+---
+  title: "Das 2. Buch Mose"
+  description: "Der Gott, der im 2. Buch Mose vorgestellt wird, ist der liebende Herr, der zur festgesetzten Zeit – und mit seinen mächtigen Taten – seinem Volk Rettung und Befreiung brachte (1 Mo 15,12–16). Der Auszug aus Ägypten und die Durchquerung des Roten Meeres waren zentrale und einzigartige Ereignisse – Gottes spektakuläre und wunderbare Taten. In der Geschichte des alten Israel hat es vor dem Kreuz kein größeres oder herrlicheres Ereignis gegeben. Es ist das Evangelium, aber nach Mose."
+  human_date: "Juli · August · September 2025"
+  start_date: "28/06/2025"
+  end_date: "26/09/2025"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Jiří Moskala"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: "Herausgeber der deutschen Ausgabe"
+      value: "Freikirche der Siebenten-Tags-Adventisten , EUD © der deutschen Ausgabe Advent-Verlag GmbH, Lüneburg"
+    - name: Redakteurin
+      value: "Soraya Scheidweiler"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"

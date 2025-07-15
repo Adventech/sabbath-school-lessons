@@ -46,13 +46,8 @@ Der Messias Kyrus spielte eine entscheidende Rolle beim Fall Babylons, des Erzfe
 ### TEIL III: ANWENDUNG
 
 1. Inwiefern ist das Beispiel von Jona eine Warnung gegen religiöse Vorurteile? Sprecht darüber.
-
 2. Die Kirche mag darin versagen, beständig Gerechtigkeit an den Tag zu legen. Aber wie können die Menschen der Welt im Gegensatz dazu dabei erfolgreich sein? Jesus machte den religiösen Menschen seiner Zeit deutlich: „Die Zöllner und Huren kommen eher ins Reich Gottes als ihr“ (Mt 21,31). Was wollte Jesus mit diesen Worten ausdrücken?
-
 3. Dass Gerechtigkeit auch ein Teil des Gerichts ist, ist ein Garant für Gottes Ernsthaftigkeit in seinem Erlösungshandeln, das auf die völlige Auslöschung des Bösen und des Todes abzielt. Inwiefern ist die Spannung zwischen Gerechtigkeit und Gnade auch eine Botschaft des Trostes und der Hoffnung?
-
 4. Warum können wir nur auf der Grundlage von Gottes Barmherzigkeit und nicht auf der Grundlage unserer Verdienste gerettet werden?
-
 5. Es gibt zwei wichtige Wahrheiten, die wir über Gottes Gericht in der Endzeit verstehen müssen: Erstens wird jeder informiert und gewarnt werden; zweitens wird es einen Zeitpunkt geben, an dem es zu spät sein wird, um Buße zu tun. Wendet die Bedeutung der drei Wörter der Wandinschrift auf die Kirche in der Endzeit an: „gezählt“ bedeutet, dass wir für alles, was wir tun und nicht tun, verantwortlich sind; „gewogen“ bedeutet, dass die „Guten“ und die „Bösen“ getrennt werden (nur Gott hat diese Fähigkeit zur Unterscheidung); „zerteilt“ bedeutet, dass anderen die Erlösung gegeben wird.
-
 6. Lest die folgende Ermutigung von Ellen White: „Die Zeit ist nicht fern, in der das Volk Gottes aufgefordert wird, vor den Herrschern der Erde Zeugnis abzulegen … Es bleibt keine Zeit für Eitelkeit, für Nichtigkeiten, für die Beschäftigung mit unwichtigen Dingen“ (The Advent Review and Sabbath Herald, 26. April 1892). Inwiefern ermutigt euch dieses Zitat, Gottes Endzeitbotschaft und -warnungen Menschen in Autoritäts- und Machtpositionen mitzuteilen?

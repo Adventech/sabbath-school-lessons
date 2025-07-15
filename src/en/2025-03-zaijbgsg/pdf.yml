@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-Intro.pdf'
+      target: en/2025-03-zaijbgsg/introduction
+      title: "Introduction"
+      start_date: 29/06/2025
+      end_date: 29/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-LittleDevotions.pdf'
+      target: en/2025-03-zaijbgsg/littledevotions
+      title: "Little Devotions"
+      start_date: 29/06/2025
+      end_date: 29/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-01.pdf'
+      target: en/2025-03-zaijbgsg/01
+      title: Baby Moses
+      start_date: 29/06/2025
+      end_date: 05/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-02.pdf'
+      target: en/2025-03-zaijbgsg/02
+      title: A Special Basket Boat
+      start_date: 06/07/2025
+      end_date: 12/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-03.pdf'
+      target: en/2025-03-zaijbgsg/03
+      title: The Fire in the Bush
+      start_date: 13/07/2025
+      end_date: 19/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-04.pdf'
+      target: en/2025-03-zaijbgsg/04
+      title: The Red Sea
+      start_date: 20/07/2025
+      end_date: 26/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-05.pdf'
+      target: en/2025-03-zaijbgsg/05
+      title: The Food and Water Surprise
+      start_date: 27/07/2025
+      end_date: 02/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-06.pdf'
+      target: en/2025-03-zaijbgsg/06
+      title: Cloud and Fire
+      start_date: 03/08/2025
+      end_date: 09/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-07.pdf'
+      target: en/2025-03-zaijbgsg/07
+      title: God’s Special Home
+      start_date: 10/08/2025
+      end_date: 16/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-08.pdf'
+      target: en/2025-03-zaijbgsg/08
+      title: God’s Home Is Finished
+      start_date: 17/08/2025
+      end_date: 23/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-09.pdf'
+      target: en/2025-03-zaijbgsg/09
+      title: Joshua and Caleb’s Adventure
+      start_date: 24/08/2025
+      end_date: 30/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-10.pdf'
+      target: en/2025-03-zaijbgsg/10
+      title: Kind Rahab
+      start_date: 31/08/2025
+      end_date: 06/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-11.pdf'
+      target: en/2025-03-zaijbgsg/11
+      title: The Big, Big River
+      start_date: 07/09/2025
+      end_date: 13/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-12.pdf'
+      target: en/2025-03-zaijbgsg/12
+      title: The Walls of Jericho
+      start_date: 14/09/2025
+      end_date: 20/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-03/ABSG-2025-03-EN-BG-13.pdf'
+      target: en/2025-03-zaijbgsg/13
+      title: A New Home
+      start_date: 21/09/2025
+      end_date: 27/09/2025

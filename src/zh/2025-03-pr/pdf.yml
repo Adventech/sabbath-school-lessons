@@ -1,0 +1,147 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-INTRO.pdf'
+      target: zh/2025-03-pr/introduction
+      title: 简介
+      start_date: 28/06/2025
+      end_date: 28/06/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L1.pdf'
+      target: zh/2025-03-pr/01
+      title: 上帝的大能
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L2.pdf'
+      target: zh/2025-03-pr/02
+      title: 逃离监狱
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L3.pdf'
+      target: zh/2025-03-pr/03
+      title: 天使的面貌
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L4.pdf'
+      target: zh/2025-03-pr/04
+      title: 假基督徒
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L5.pdf'
+      target: zh/2025-03-pr/05
+      title: 比金子更好
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L6.pdf'
+      target: zh/2025-03-pr/06
+      title: 街上的医治
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L7.pdf'
+      target: zh/2025-03-pr/07
+      title: 你明白吗？
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L8.pdf'
+      target: zh/2025-03-pr/08
+      title: 复活了！
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L9.pdf'
+      target: zh/2025-03-pr/09
+      title: 上帝是第一位!
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L10.pdf'
+      target: zh/2025-03-pr/10
+      title: 上帝引导前面的道路
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L11.pdf'
+      target: zh/2025-03-pr/11
+      title: 你站在谁的一边？
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L12.pdf'
+      target: zh/2025-03-pr/12
+      title: 终于安全了
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-L13.pdf'
+      target: zh/2025-03-pr/13
+      title: 众多的捐献
+      start_date: 20/09/2025
+      end_date: 26/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-ACTIVITY.pdf'
+      target: zh/2025-03-pr/activities
+      title: 活动
+      start_date: 26/09/2025
+      end_date: 26/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-INTRODUCTION.pdf'
+      target: zh/2025-03-pr/introduction
+      title: 教师本
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L1.pdf'
+      target: zh/2025-03-pr/01
+      title: 教师本
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L2.pdf'
+      target: zh/2025-03-pr/02
+      title: 教师本
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L3.pdf'
+      target: zh/2025-03-pr/03
+      title: 教师本
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L4.pdf'
+      target: zh/2025-03-pr/04
+      title: 教师本
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L5.pdf'
+      target: zh/2025-03-pr/05
+      title: 教师本
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L6.pdf'
+      target: zh/2025-03-pr/06
+      title: 教师本
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L7.pdf'
+      target: zh/2025-03-pr/07
+      title: 教师本
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L8.pdf'
+      target: zh/2025-03-pr/08
+      title: 教师本
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L9.pdf'
+      target: zh/2025-03-pr/09
+      title: 教师本
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L10.pdf'
+      target: zh/2025-03-pr/10
+      title: 教师本
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L11.pdf'
+      target: zh/2025-03-pr/11
+      title: 教师本
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L12.pdf'
+      target: zh/2025-03-pr/12
+      title: 教师本
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2025/Q3/Primary/P-B-Q3-CH-T-L13.pdf'
+      target: zh/2025-03-pr/13
+      title: 教师本
+      start_date: 20/09/2025
+      end_date: 26/09/2025
