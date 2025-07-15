@@ -17,7 +17,7 @@ Bog je brinuo o Izrailju kao roditelj pun ljubavi i strpljivo ih je vodio kroz p
 
 ### DRUGI DEO: KOMENTAR
 
-2. Mojsijeva 15,22–18,27 opisuje putovanje Izrailja na Sinaj. Odlomak sadrži pet narativa: dve priče su vezane za dar vode. Prvi narativ o vodi, kod Mere, govori o tome da je Bog gorku vodu učinio pitkom (2. Mojsijeva 15,22-27). Drugi narativ o vodi govori o vodi koja izvire iz stene (2. Mojsijeva 17,1-7). Između ove dve priče nalaze se čudesni darovi hrane – prepelice i mane – i pouke o svetovanju subote (2. Mojsijeva 16,1-36). Ova tri čuda – voda, prepelice i mana – propraćena su sa još dva izveštaja, a to su Gospodnji dar pobede nad Amaličanima (2. Mojsijeva 17,8-16) i Jotorova poseta, za vreme koje daje mudre savete Mojsiju (2. Mojsijeva 18,1-27).
+2\. Mojsijeva 15,22–18,27 opisuje putovanje Izrailja na Sinaj. Odlomak sadrži pet narativa: dve priče su vezane za dar vode. Prvi narativ o vodi, kod Mere, govori o tome da je Bog gorku vodu učinio pitkom (2. Mojsijeva 15,22-27). Drugi narativ o vodi govori o vodi koja izvire iz stene (2. Mojsijeva 17,1-7). Između ove dve priče nalaze se čudesni darovi hrane – prepelice i mane – i pouke o svetovanju subote (2. Mojsijeva 16,1-36). Ova tri čuda – voda, prepelice i mana – propraćena su sa još dva izveštaja, a to su Gospodnji dar pobede nad Amaličanima (2. Mojsijeva 17,8-16) i Jotorova poseta, za vreme koje daje mudre savete Mojsiju (2. Mojsijeva 18,1-27).
 
 *Dar vode u Meri*
 
@@ -31,23 +31,13 @@ Posebno u pustinji, voda je od životne važnosti. Bez vode se ne može živeti;
 
 Gospod je milostivo odgovorio na gunđanje ljudi, koji su se žalili da nemaju mesa i druge hrane u kojoj su uživali u Egiptu. Njihov govor je pun preterivanja i gorke ironije. Izrailjci su se setili svojih punih tanjira dok su služili faraonu. Kao odgovor, međutim, Gospod je obećao da će im obezbediti hleb sa neba, kao i prepelice. Rekao je da će uveče imati prepelice, a ujutru hleb s neba. Desilo se upravo onako kako je predviđeno (2. Mojsijeva 16,13). Iznenađenje je bilo ujutru, jer nikada ranije nisu videli manu, pa su pitali: „Šta je ovo“ (2. Mojsijeva 16,15)? Ovo pitanje je značenje reči „mana“.
 
-	
-
 Sa darom mane, Bog je poučio Izrailjce kako da svetkuju subotu. Isus manu naziva „hlebom s neba“ (Jovan 6,31), što se odnosi na tekst 2. Mojsijeva 16,4. Dakle, mana je bila hleb koji je Gospod dao svom narodu da jede u pustinji (2. Mojsijeva 16,15). Ukupno 40 godina Bog je davao manu Izrailjcima (2. Mojsijeva 16,35). Davanje mane je prestalo tek kada su Izrailjci proslavili svoju prvu Pashu u Obećanoj zemlji (Isus Navin 5,10-12).
-
-	
 
 Svake sedmice tokom 40-godišnjeg boravka Izrailjaca u pustinji dogodila bi se četiri čuda. Ova čuda su poučavala Izrailjce svetosti subote: (1) mana je padala s neba svakog dana, osim u subotu; (2) ako bi neko sakupio manu za sledeći dan u toku radne sedmice, mana bi se pokvarila do sledećeg dana; (3) mana je padala u dvostrukoj količini svakog petka, pripremnog dana za subotu; i (4) mana sakupljena petkom se nije pokvarila već je ostala sveža za upotrebu u subotu. Tako se Gospod svaki dan brinuo za potrebe naroda. Šest dana u sedmici morali su da izađu i sakupe manu, što je bio podsetnik da su svakodnevno potpuno zavisni od Njega.
 
-	
-
 Drugo čudo sa hlebom s neba bila je zapovest Gospodnja Mojsiju da uzme gomer mane, što je oko 3,64 litra, stavi u krčag, a zatim stavi „pred svjedočanstvom da se čuva“ (2. Mojsijeva 16,34). Kasnije je gomer mane stavljen u kovčeg zaveta (Jevrejima 9,4) kao podsetnik budućim generacijama. Ova mana se nije pokvarila, iako je do tada najduže ostala nepokvarena samo dva dana, od petka do subote.
 
-	
-
 Imenica „subota“ (jevrejski: *šabat*) je nekoliko puta istaknuta u knjizi 2. Mojsijeva i prvi put se pominje u Bibliji u tekstu 2. Mojsijeva 16,23, u kojoj je opisana kao „subotni odmor“ (jevrejski: *šabaton*) i „odmor svet Gospodu“. Ovaj stih je prva izričita zapovest u vezi sa svetkovanjem subote i sadrži tri imperativa: „peći“, „kuvati“ i „ostaviti“! Subotu treba slaviti. Zanimljivo je da 25. stih dodaje četvrti imperativ: „Jedite“! Jedite manu danas. Jelo je usko povezano sa svetkovanjem subote. Vremenski izraz „danas“ se u ovom tekstu koristi tri puta u vezi sa subotom, čime se naglašava čudo jedenja mane subotom jer je to Bog dao. U 25. stihu se kaže da je ovo „subota Gospodnja“, a 26. stih objašnjava da je subota sedmi dan u sedmici. Stih 30 povezuje subotu sa odmorom: „I počinu [jevrejski: *šabat*] narod u sedmi dan“. Trijada ključnih reči u ovom odlomku 2. Mojsijeva 16,23-30 – „subota“, „danas“ i „počinak“ – povezana je sa tekstom Jevrejima 4,7-10, u kojoj Pavle takođe razrađuje ideje „subota“, „danas“ i „počinak“. Reč „šabat“ se pojavljuje u knjizi 2. Mojsijeva i u sledećim tekstovima: 2. Mojsijeva 16,25.26.29; 2. Mojsijeva 20,8.10.11; 2. Mojsijeva 31,14-16 i 2. Mojsijeva 35,2.3.
-
-	
 
 Na vrhuncu priče o mani, kada su neki ljudi izašli u subotu da skupe manu, Bog je postavio veoma oštro pitanje: „Dokle ćete se protiviti zapovjestima mojim i zakonima mojim?“ (2. Mojsijeva 16,28). Gospod koristi reč „protiviti“ da opiše njihovo namerno delovanje. Trebalo je da nauče da je subota dar, koji je pojačan činjenicom da je Gospod obezbedio hranu za njih. Stoga im nije bilo potrebno da skupljaju manu za sebe u subotu.
 
