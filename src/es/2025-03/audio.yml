@@ -55,3 +55,7 @@
           target: es/2025-03/04/04
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/07/LECCION-4-MIERCOLES.mp3
           target: es/2025-03/04/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/07/LECCION-4-JUEVES.mp3
+          target: es/2025-03/04/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/07/LECCION-4-VIERNES.mp3
+          target: es/2025-03/04/07
