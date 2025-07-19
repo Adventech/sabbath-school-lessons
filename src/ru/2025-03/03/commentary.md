@@ -587,3 +587,7 @@ _Четверг_ **Как Бог для фараона**
 
 Буду благодарен за критику!\
 _Сергей Хрибар (Москва, «Факел») hribar@mail.ru_
+
+---
+
+[Слайды от Александра Педько](https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ss2025_3_03_comppt.pptx)
