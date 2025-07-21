@@ -65,3 +65,7 @@ yt-dlp "https://www.youtube.com/watch?v=51E4Fxr6yaA" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=62hzKC0fkFY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2025-03-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=JMZajHKacnY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-03-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=yYx_NOKk5NY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-03-04.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=k_mX5vK92os" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2025-03-04.mp4"
