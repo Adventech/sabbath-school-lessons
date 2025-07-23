@@ -23,8 +23,9 @@ date:   25/07/2025
     -   Was ist das eigentlich, ein verstocktes Herz?
     -   Was wäre das Gegenteil davon, was wir somit anstreben sollten?
     -   Hier ist eine Übersicht aller 15 Aussagen in 2. Mose 7-11, die
-        von der Verstockung des Pharao sprechen. Welche Beobachtungen
-        machst du darin?
+        von der Verstockung des Pharao sprechen (evtl. den
+        Gesprächsteilnehmern zur Verfügung stellen). Welche
+        Beobachtungen machst du darin?
 
 [TABLE]
 
@@ -43,10 +44,10 @@ date:   25/07/2025
 -   Fragen zum Text:
     -   Warum gab es genau diese Plagen? Ist darin ein Sinn / eine
         Symbolik erkennbar?
-    -   Wie erklärt ihr euch die Aussage in 2. Mose 8,14? Was meinen die
-        Zauberer mit dem "Finger Gottes"?
+    -   Wie erklärt ihr euch die Aussage in 2. Mose 8,14?
+        -   Was meinen die Zauberer mit dem "Finger Gottes"?
 
-**Plage 4-6: 2. Mose 8,16-9,12**
+**Plage 4-6: 2. Mose 8,16-9,12 (ggf. Teile nacherzählen lassen)**
 
 -   Fragen zum Text:
     -   Wie genau lautet die Forderung der Israeliten an den Pharao?
@@ -61,12 +62,19 @@ date:   25/07/2025
     -   Welche Symbolik erkennst du in den Plagen 4-6?
     -   Inwiefern nehmen die Plagen an Dramatik zu (siehe z. B.
         Vergleich 8,14.15 und 9,11)?
-    -   
 
-**Text**
+**Plage 7-9: 2. Mose 9,13-10,29 (ggf. Teile nacherzählen lassen)**
 
 -   Fragen zum Text:
--   Fragen zur Botschaft:
+    -   Welche Haltung der ägyptischen Normalbevölkerung wird in diesem
+        Abschnitt deutlich?
+    -   Der Pharao hat immer wieder Momente der Reue. Warum gibt er doch
+        nicht nach?
+    -   Was kann mir helfen, dass Momente der Einsicht nachhaltiger
+        sind?
+    -   Kann man Gott vorwerfen, Menschen durch Plagen zum Gehorsam zu
+        zwingen?
+        -   Gibt es hier einen Zusammenhang zu den endzeitlichen Plagen?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
