@@ -50,3 +50,7 @@
           target: uk/2025-03/04/06
         - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-03/2025-07-25.mp3
           target: uk/2025-03/04/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-03/2025-07-26.mp3
+          target: uk/2025-03/05/01
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2025-03/2025-07-27.mp3
+          target: uk/2025-03/05/02
