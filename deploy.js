@@ -162,6 +162,12 @@ let additionalReadingTitles = {
       pppCopyright: "",
       regex: "#{2,} Стихи от Александра Конырева"
     },
+    {
+      title: "Перевод А. Турецкий",
+      final: "Перевод А. Турецкий",
+      pppCopyright: "",
+      regex: "#{2,} Перевод А. Турецкий"
+    },
   ]
 }
 
