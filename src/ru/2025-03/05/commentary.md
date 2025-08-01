@@ -471,7 +471,9 @@ _Сергей Хрибар (Москва, «Факел») hribar@mail.ru_
 
 [Слайды](https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-04-tur.pptx)
 
-<video src="https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-04-tur.mp4" />
+<video>
+<source src="https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-04-tur.mp4" />
+</video>
 
 ---
 
