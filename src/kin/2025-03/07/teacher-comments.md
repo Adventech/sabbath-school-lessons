@@ -3,5 +3,58 @@ title:  Ubusobanuro Bugenewe Abigisha
 date:   15/08/2025
 ---
 
-### Turacyari gukora aya migisho
-Muze kugaruka nyuma, Murakoze kwihangana.
+#### Umugabane wa I: Inshamake
+
+Isomo ry'Urufunguzo: Kuva 16:28-30
+
+Aho Icyigisho Gishingiye: Kuva 15:22-18:27
+
+**Ijambo ry'ibanze**
+
+Gutabara kw'Imana mu buryo bw'igitangaza ngo irokore ubwoko bwayo buve mu bucakara, ikintu kitigeze kubaho mbere kandi kikaba kitarongeye kubaho, cyagombaga guhora cyibukwa, kandi kikizihizwa mu buryo budahindagurika, binyuze muri Pasika. Abisirayeli baracunguwe maze bahabwa umudendezo wo kugenda, nyamara umudendezo ni ikintu gihenze. Ibimenyetso n'ibitangaza by'Imana byakorewe Abisirayeli, byatumye ibihano bikomeye bigwira igihugu cya Egiputa. Ibyo byago ntabwo byari igihano gusa ku Banyegiputa, ahubwo byari n'icyigisho ku Bisirayeli, mu kubafasha kumenya Imana y'ukuri, ndetse n'icyo indangagaciro z'ukuri kandi zihoraho ari cyo mu buzima. Imana yiyerekanye nk'Umucunguzi ukiranuka kandi ufite urukundo, Umurwanyi w'umunyamaboko warokoye Abisirayeli akabakura mu bubata. Ibyo bintu bitangaje byari byateguriwe kwigisha ubwoko bwayo kuyiringira byuzuye nk'Umuyobozi wabo w'umuhanga kandi ubitaho, kugira ngo muri ubwo buryo bishingikirize ku buyobozi bwayo.
+
+Nyuma yo gutabarwa gukomeye bakava muri Egiputa, ibyababayeho ku nyanja itukura, ibirori bitangaje byo kwizihiza agakiza k'Imana ubwo yari ibakijije amaboko ya Farawo n'ingabo ze, Imana yayoboye Abisirayeli mu butayu bwa Shuri, aho bakoze urugendo rw'iminsi itatu batabona amazi. Hano Abisirayeli bahahuriye n'ikindi kigeragezo cyo kwiringira Uwiteka (Kuva 15:25). Mbere gato yuko bahura n'iki kigeragezo, Abisirayeli bari biringiye Uwiteka nyuma yo kwambuka inyanja itukura no kubona ugutsindwa kwa Farawo (Kuva 14:31). Mbese bashoboraga gukomeza kuguma mu nzira yo kwiringira Imana guturutse mu mitima, bakagira inyifato yo kuyigirira icyizere nk'Umuyobozi wabo? Ibyari byabaye byose mu minsi n'ibyumweru byari byatambutse byari bikwiriye kuba byaratewe mu bwenge bwabo. Mbese bajyaga kwibuka ubuyobozi bw'Imana igihe bari kuba bongeye gusakirana n'ibirushya?
+
+Imana yitaga ku Bisirayeli nk'umubyeyi ukunda abana be, kandi yabayoboye mu nzira zo mu butayu ifite kwihangana. Yagombye kubigisha amasomo arimo umubabaro igihe bari bitotombye; nyamara mu rukundo rwayo yabahaye amazi, inturumbutsi, na manu, ndetse ibigisha uko bagomba kweza Isabato.
+
+#### Umugabane wa II: Ubusobanuro
+
+Mu Kuva 15:22-18:27 hasobanura urugendo rw'Abisirayeli kugera kuri Sinayi. Iyo mirongo ibonekamo inkuru eshanu: inkuru ebyiri zirebana n'impano y'amazi. Inkuru ya mbere ivuga iby'amazi, yabereye i Mara, ijyanye no guhindura amazi arura akaryoha (Kuva 15: 22-27). Inkuru ya kabiri ivuga iby'amazi ijyanye n'amazi yatembye ava mu rutare (Kuva 17:1-7). Hagati y'izi nkuru ebyiri, hari impano zitanzwe mu buryo bw'ibitangaza ari zo guhabwa ibyo kurya-inturumbutsi na manu-n'inyigisho zirebana n'uburyo bwo kuziririza Isabato (Kuva 16:1-36). Ibi bitangaza bitatu-amazi, inturumbutsi, na manu-bikurikirwa n'izindi nkuru ebyiri z'inyongera, by'umwihariko, impano y'Uwiteka yo gutsinda Abamaleki (Kuva 17:8-16) n'uruzinduko rwa Yetiro, urwo yatangiyemo inama z'ubwenge akaziha Mose (Kuva 18:1-27).
+
+**Impano y'Amazi Yatangiwe i Mara**
+
+Ku nshuro ya mbere mu gitabo cyo Kuva, umuzi w'inshinga y'Igiheburayo lun- "kwitotomba," "gutongana," "kwivovota" ugaragara mu nkuru yacu bitewe no kubura amazi yo kunywa mu butayu bwa Shuri. Abisirayeli bahagaze i Mara, ahari hari amazi arura; nuko Abisirayeli batonganya Mose (Kuva 15:24). Ku bw'amahirwe make, uyu muzi lun [kwitotomba] wahindutse imvugo nyamukuru yaranze inkuru z'Abasirayeli igihe babaga bazerera mu butayu. Ni ijambo ryiganje mu nkuru zerekeye manu n'inturumbutsi, aho iri jambo ribi rigaruka inshuro umunani (nk'inshinga mu Kuva 16:2, 7 n'uwa 8; nk'izina mu Kuva 16:7, 8; n'izindi nshuro ebyiri aho rikoreshwa mu murongo wa 9 n'uwa 12). Na none ryongera gukoreshwa mu nkuru ikurikiraho irebana n'amazi yatembye ava mu rutare mu nkuru yabereye i Rafidimu (Kuva 17:3- 6). Igitekerezo nk'icyo cyo kwitotomba cyangwa gutongana kigaragara mu gitabo cyo Kubara (Kubara 14; 2, 27, 29, 36; Kubara 16:11, 41; Kubara 17:5, 10). Uretse mu bitabo bitanu bya Mose, iri jambo rikoreshwa inshuro imwe gusa mu gitabo cya Yosuwa 9: 18.
+
+Igihe abantu bitotombaga, Mose yatakiye Uwiteka; ibi bivuzwe ku nshuro ya gatatu mu gitabo cyo Kuva (Kuva 8:12, Kuva 14:15, Kuva 15:25). Uwiteka yategetse Mose kujugunya ishami ry'igiti mu mazi arura. Nuko amazi arahumanuka ubwo Mose yari akurikije amabwiriza y'Imana. Mu cyerekezo cyo guhumanurwa kw'amazi, Uwiteka asazerana ko atazabateza indwara [mu Giheburayo ni: _mackalah_] n'imwe mu zo yateje Abanyegiputa, nibamwumvira kandi bakitondera ibyo abategeka. Kugira ngo isezerano rye ririndwe, akoresha imyubakirwe yaryo iva ku Mana ngo: "Ndi Uwiteka ugukiza indwara" (Kuva 15:26). Uwiteka arengurira ku ndwara zitandukanye zifitanye isano n'ibyago cumi (reba na none isezerano ry'Imana riri mu Kuva 23:25). Nta cyago nk'icyo kizagera ku bakiranutsi.
+
+Mu butayu, amazi ni ikintu giha abantu ubuzima. Amazi adahari, nta muntu washobora kubaho; ni isoko y'ubuzima kandi akaba ari na yo atuma bukomeza kubaho. Amazi ni ubuzima. Umuntu ashobora kubaho atayafite mu minsi mike gusa. Ntibitangaje rero ko dufite inkuru nyinshi z'ingenzi ndetse n'ibitangaza byose bishingiye ku mazi mu gitabo cyo Kuva no mu gitabo cyo Kubara. Nyuma y'icyo gihe, Abisirayeli babambye amahema yabo kuri Elimu ahari hari amazi ahagije kandi bakaba barashoboraga kwikinga mu bicucu by'imikindo.
+
+**Inturumbutsi, Impano Ya Manu, Ndetse n'Isabato**
+
+Imana, mu mbabazi zayo, yaboneye igisubizo intonganya z'ubwo bwoko bwari bwitotombeye ko budafite inyama n'ibindi biryo bwari bwarishimiye kurya muri Egiputa. Imvugo yabo yarimo gukabya cyane n'ihinyu ribi. Abisirayeli bibutse ibyabaga byuzuye ku masahani yabo igihe bari bakiri mu buretwa bwa Farawo.
+
+Nyamara, nk'igisubizo, Uwiteka yabasezeranyije ko yari kubaha umutsima uvuye mu ijuru ndetse n'inyama. Yavuze ko, mu mugoroba, bari kubona inyama, mu gitondo bakabona umutsima uvuye mu ijuru. Byabaye neza neza nk'uko byari byavuzwe (Kuva 16:15). Mu gitondo habayeho ikintu gitunguranye, kuko batari barigeze kubona manu mbere, nuko barabazanya bati: "Ibi ni ibiki?" (Kuva 16:15) Iki kibazo ni ubusobanuro bw'ijambo "manu."
+
+Imana yigishije Abisirayeli ikoresheje impano ya manu, uburyo bakwiriye kuruhuka Isabato no kuyibamo. Yesu yita manu "umutsima uva mu ijuru" (Yohana 6:31), aya akaba ari amagambo yakoreshejwe mu Kuva. Bityo, manu yari umutsima Uwiteka yari ahaye ubwoko bwe ngo bawurire mu butayu (Kuva 16:15). Mu gihe cy'imyaka 40, Abisirayeli bahawe manu (Kuva 16:35). Gutanga manu byahagaze igihe Abisirayeli bizihizaga Pasika ku nshuro ya mbere bamaze kugera mu Gihugu cy'Isezerano (Yosuwa 5:10-12).
+
+Muri buri cyumweru, mu gihe cy'imyaka 40 Abisirayeli bamaze mu butayu, habagamo ibitangaza bine. Ibi bitangaza byigishaga Abisirayeli ukwera kw'Isabato: (1) manu yagwaga buri munsi usibye ku Isabato; (2) iyo umuntu yatoraguraga manu yo ku munsi ukurikira uwo yayitoraguyeho mu minsi y'imibyizi, kuri uwo munsi yasangaga yaguye inyo; (3) manu yagwaga bwikube kabiri ku wa gatandatu w'Isabato, ari wo munsi wo kwiteguraho Isabato; (4) manu yateranywaga ku wa gatandatu yagezaga ku Isabato ntacyo yabaye kandi ikiri nshyashya. Muri ubwo buryo, Uwiteka yageneraga Abisirayeli ibyo babaga bakeneye buri munsi. Mu minsi itandatu ya buri cyumweru, baragendaga bagatoragura manu, ibyo bikabibutsa ko buri munsi bagombaga kwishingikiriza kuri We.
+
+Ikindi gitangaza kijyanye n'umutsima uturuka mu ijuru ni itegeko Uwiteka yahaye Mose ryo gufata urugero rwa omeru rwa manu, ni nka litiro 3.64, akayishyira mu rwabya, maze akarutereka imbere y'ibihamya (Kuva 16:34). Nyuma yaho, ya omeru ya manu yaje gushyirwa mu isanduku y'isezerano (Abaheburayo 9:4) kugira ngo ibe urwibutso ku bo mu bisekuru byajyaga kuzaza hanyuma. Iyi manu ntabwo yigeze igwa inyo, nubwo igihe kirekire yagombaga kumara cyagombaga kutarenza iminsi ibiri, ari yo ku wa nyuma no ku Isabato.
+
+Izina "Isabato" (mu Giheburayo ni Shabbat) inshuro nyinshi ryagaragajwe cyane mu gitabo cyo Kuva, kandi cyavuzwe ku nshuro ya mbere muri Bibiliya, aho ivugwa nk "ikiruhuko cy'Isabato" (Abah .: Shabbaton) n' "Isabato yera y'Uwiteka." Uyu murongo ni itegeko rya mbere rivuga ridaciye ku ruhande ibijyanye no kuruhuka Isabato kandi rikubiyemo integeko eshatu: "mwotse," "muteke," na "mubike." Isabato yagombaga kwizihizwa. Birashimishije ko umurongo wa 25 wongeraho iyi ntegeko ya kane ngo: "Murye"! Murye manu uyu munsi. Kurya bifitanye isano ya bugufi no kuruhuka Isabato. Ijambo ngo "uyu munsi" ridakoreshwa buri gihe rikoreshwa inshuro eshatu muri uyu murongo, zifite aho zihuriye n'Isabato, bityo bikaba bishimangira igitangaza cyo kurya manu ku Isabato kuko Imana yabaga yayitanze. Mu murongo wa 25 haravuga ngo iyi ni "Isabato y'Uwiteka", hanyuma umurongo wa 26 ugasobanura ko Isabato ari umunsi wa karindwi w'icyumweru. Umurongo wa 30 uhuza Isabato n'ikiruhuko: "Nuko ku munsi wa karindwi abantu bararuhuka [mu Giheburayo: _Shabbat_]." Iyi nyabutatu y'amagambo y'ingenzi ari muri iyi mirongo yo mu Kuva 16:23-30-by'umwihariko "Isabato," "uyu munsi," n'."ikiruhuko"-ihura n'amagambo aboneka mu Abaheburayo 4:7-10, aho Pawulo agira icyo avuga afatiye ku bitekerezo bivuga "Isabato," "uyu munsi," ndetse n "ikiruhuko. Ijambo "Isabato" rigaragara mu itabo cyo Kuva, na none riboneka mu mirongo ikurikira: Kuva 16:25, 26, 29; Kuva 20:8, 10, 11; Kuva 31:14, 15, (inshuro ebyiri), 16; no mu Kuva 35:2, 3.
+
+Mu bushorishori bw'inkuru ivuga ibya manu, ubwo abantu basohokaga ku Isabato bakajya gutoragura manu, Imana yabajije ikibazo gikomeye cyane iti: "Mbese muzageza ryari mwanga kwitondera amategeko yanjye" (Kuva 16:28)? Uwiteka akoresha ijambo "kwanga" kugira ngo agaragaze igikorwa cyabo bakoze ku bushake. Bari bakeneye kwiga bakamenya ko Isabato ari impano, impano ihabwa imbaraga n'uko Uwiteka yabahaye ibyo kurya. Ku bw'iyo mpamvu, ntabwo bari bakeneye kujya kwitoragurira manu ku Isabato.
+
+#### Umugabane wa III: Gushyira mu Bikorwa
+
+1. Yesu yivuzeho ko ari We mutsima w'ubugingo (Yohana 6:35, 48). Ni mu buhe buryo dushobora kubana na Yesu Kristo mu isano ya bugufi cyane ku buryo aduhindukira "umutsima n'amazi" bya buri munsi?
+
+2. Ni ryari kandi ni mu buhe buryo dukwiriye gufasha abitotombera ibirushya byo mu buzima, kandi ni ryari dushobora kudatega amatwi ukwivovota?
+
+3. Imana yari iri mu nkingi y'igicu no mu nkingi y'umuriro, nyamara Abisirayeli bafataga uko kubana na bo kwayo mu gicu nk'aho ntacyo bivuze. Natwe dushobora kuba dusobanukiwe cyane umurimo w'Imana ukorerwa hagati muri twe ariko ntituwuhe agaciro. Ni mu buhe buryo dushobora kugumana ukubaha ukwera kw'ibintu bifite aho bihuriye n'Imana n'umurimo wayo?
+
+4. Uruzinduko rwa Yetiro ni inkuru nziza cyane mu bijyanye n'ubuyobozi bw'abubahamana. Mose yari ari kwiga no gukuza ubumenyi ngiro bwo mu buyobozi bwe. Yari umuyobozi ushyira imbere Imana, akazirikana ubuyobozi bw'Imana mu mibereho n'iya Isirayeli. Mose kandi yari umuntu uzi gutega amatwi ku buryo butangaje, wabaga wuzuye gushima no guhimbaza Imana. Yari umuntu ufite icyerekezo; nyamara yari akeneye kwiga gusaranganya n'abandi inshingano. Yari umuntu wemera kwigishwa nubwo yari umuyobozi ufite imbaraga. Mbese ni iki cyashobozaga Mose gutega amatwi ibitekerezo bishya no kumenya ahantu ho muri we hafite intege nke akeneye kongera imbaraga, atabanje kujora cyane ibyo abwiwe cyangwa kwanga inama zimushoboza gukura?
+
+5. Intumwa Pawulo igihe yarenguriraga ku gitangaza cyo kuvana amazi mu rutare cyabereye i Rafidimu, yavuze ko icyo Gitare cyari Kristo (1 Abakorinto 10:4). Muri iyo nkuru, abantu baratonganye maze bagerageza Uwiteka (Kuva 17:2). Muri Malaki 3:10, turarikirwa kugerageza Uwiteka. Ni irihe tandukaniro riri hagati yo kugerageza Imana mu buryo bwiza no kuyigerageza mu buryo bubi? Ni mu buhe buryo dushobora kugerageza Imana mu buryo butari bwo?
+
+`Gira Icyo Wandika`
