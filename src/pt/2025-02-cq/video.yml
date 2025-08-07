@@ -38,6 +38,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2025-02-12.mp4
           target: pt/2025-02-cq/12
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2025-02-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2025-02-13.mp4
+          target: pt/2025-02-cq/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/inv/pt-inv-2025-02-13.webp
     - artist: Adventismo Vivo
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-01.mp4
@@ -70,3 +73,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-11.mp4
           target: pt/2025-02-cq/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-12.mp4
+          target: pt/2025-02-cq/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-13.mp4
+          target: pt/2025-02-cq/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2025-02-13.webp

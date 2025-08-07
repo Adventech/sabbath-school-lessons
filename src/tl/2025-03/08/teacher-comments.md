@@ -1,0 +1,61 @@
+---
+title:  Komento ng Guro
+date:   22/08/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Exodo 19:4-6
+
+**Pokus ng Pag-aaral:**  Exodo 19:1-20:20
+
+**Panimula**
+
+Sa Sinai, itinatag ng Diyos ang isang tipan sa Kanyang bayan. Siya ang Nagpasimula ng kontrata. Bilang Siyang Nagpasimula, nagbibigay ang Diyos ng biyaya sa Kanyang bayan at pumapasok sa isang pakikipagrelasyon sa kanila. Nais ng Diyos na ang Israel ay maging Kanyang espesyal na bayan, Kanyang pinahahalagahang pag-aari, isang kaharian ng mga pari, isang banal na bansa. Ang tagumpay ng Israel ay masasalalay sa kanilang positibong tugon sa mapagmahal na patnubay at sa mga makapangyarihang gawa ng Diyos na Kanyang ginawa alang-alang sa kanila sa Ehipto at sa daang patungo sa Sinai. Sila ay inanyayahan ng Diyos na sundin Siya at pinatunayan na Kanyang panukalang bigyan sila ng maliwanag na hinaharap. Kung kanila lamang iingatan ang Kanyang mga turo at sisikaping linangin ang isang tunay na relasyon sa Kanya, kung gayon ay magagawa ng Diyos na sila’y pangunahan sa isang walang katulad na paraan patungo sa Lupang Pangako. Dapat nilang matutuhan kung sino Siya at ano ang Kanyang ginagawa para sa kanila upang hangaan, ibigin, sundin, at sambahin Siya. Ang kaloob ng Dekalogo ay nagpapakita ng mga prinsipyo para sa isang masaya, balanse, at masaganang buhay.
+
+**Tema ng Liksyon**
+
+Sa pangunguna sa Israel palabas ng Ehipto at pagpatnubay sa kanila sa Dagat na Pula at sa ilang patungo sa Bundok ng Sinai, ninais ng Diyos na ilapit sila sa Kanyang sarili (Exodo 19:4). Sa halos isang taon, tinuruan Niya sila sa pamamagitan ng prosesong ito. Ang Diyos ay tulad ng isang mapagmahal na magulang sa Kanyang bayan, tinuturuan sila ng kung ano ang pinakamabuti para sa kanilang kasaganaan. Nakita ng mga tao kung paano tinalo ng Diyos ang mga diyos ng mga Ehipcio at iningatan sila sa mga salot at ang kanilang paglabas mula sa Ehipto. Pagkatapos ay binigyan sila ng Diyos ng pinakamahalagang kaloob: ang Dekalogo, upang turuan sila kung paano matakot sa Kanya (Exodo 20:20). Sa liksyong ito tayo’y magbubulay sa iba’t-ibang tungkulin ng kautusan ng Diyos.
+
+### Ikalawang Bahagi: Komentaryo
+
+Ang Dekalogo ang bumubuo ng puso ng paghahayag ng Diyos at ng etika sa Biblia at binibigyang-kaisipan ang kaligtasan. Ito ang Magna Carta ng turo sa Biblia, ang buod nito, ang pamantayan ng lahat ng pamantayan. Ito ang bumubuo ng sangkap at pundasyon ng banal na pamantayan para sa lahat ng sangkatauhan; ang mga simulain nito ay walang hanggan. Ang salaysay sa Pentateuch ng pagbibigay ng Decalogo ay nagbibigay-diin na ito ay ipinahayag ng Diyos (Exodo 19:19; Exodo 20:1; Deuteronomio 5:4, 5, 24) at Siya rin ang sumulat (Exodo 24:12, Exodo 31:18, Deuteronomio 5:22). Ito’y ibinigay kay Moises nang dalawang beses bilang isang espesyal na kaloob (Exodo 32:19; Exodo 34:1; Deuteronomio 10:1, 2). Sa aklat ng Exodo, ang Dekalogo ay tinawag na “ang Patotoo” (Exodo 31:18); at “ang mga salita ng tipan,” (Exodo 34:28). Ang pariralang “ang Sampung Utos” ay hindi ginamit sa Hebreo bagaman sila ay tinutukoy bilang “mga kautusan” sa Exodo 20:6. Sa halip, ang Dekalogo ay tatlong ulit na tinawag na “ang Sampung Salita” (Hebrew: ‘aseret haddebarim; tingnan ang paggamit ng Hebreo sa Exodo 34:28, Deuteronomio 4:13, Deuteronomio 10:4).
+
+Kapwa sa Exodo at Deuteronomio, ang Dekalogo ay nasa simula ng mga koleksyon ng kautusan at ng kanilang interpretasyon. Mayroong dalawang bersyon ng Dekalogo, na may napakaliit na mga pagkakaiba; ang una ay nakatala sa Exodo 20:1–17 at ang ikalawa ay sa Deuteronomio 5:6–21. Ang ikalawang bersyon na ipinahayag ng bibig ni Moises sa Israel ay nangyari halos apatnapung taon ang lumipas, bago sila pumasok sa Lupang Pangako (Deuteronomio 1:3, 4; Deuteronomio 4:44–47), kung saan binibigyang-diin niya ngayon ang pagtubos na ibinigay sa kanila noong Exodo. Nang buurin ni Pablo ang kautusan bilang pag-ibig, sumipi siya mula sa Dekalogo (Roma 13:8–10, Galatia 5:14). Tunay nga na ang pag-ibig ang kabuuan ng kautusan ng Diyos dahil Siya ang Diyos ng pag-ibig (1 Juan 4:16).
+
+Kahit na ang mga partikular na kautusan ng Dekalogo ay alam na sa maikling pananalita bago ang Sinai, pinili ng Diyos na pormal na ipahayag ang Dekalogo sa Kanyang bayan at sa sangkatauhan. Ito ay dahil sa ang mga utos na ito ay nagpapakita, sa isang sistematikong paraan, ng kung sino Siya, ng Kanyang karakter, at ng Kanyang mga pinahahalagahan.
+
+Ang papel ng kautusan ay hindi upang turuan tayo na magtamo ng kaligtasan sa pamamagitan ng pagsunod. Iyon ay, hindi natin dapat ingatan ang kautusan ng Diyos upang maligtas kundi dahil sa tayo ay ligtas na. Ang kautusan ay hindi isang pinanggagalingan ng buhay kundi sa halip ay paraan kung saan ating ipinapakita at ipinapahayag ang buhay na mayroon tayo.
+
+Sa Biblia, ang kautusan ng Diyos ay makikita din sa isang napaka-positibong liwanag (Mateo 5:16, 17; Juan 14:15; Galatia 3:21; 1 Corinto 7:19). Ang isa ay maaaring makalikha ng mga tula sa kautusan (tulad ng Awit 119, isang obra maestra), umawit tungkol sa kautusan (Awit 19), at pagbulayan ito araw at gabi (Awit 1:2, Josue 1:8) dahil iniingatan nito ang isang tao mula sa masama at nagbibigay ng karunungan, pagkaunawa, kalusugan, kasaganaan, at kapayapaan (Deuteronomio 4:1–6, Kawikaan 2–3).
+
+Ang Dekalogo ay may maraming mahahalagang ginagampanan:
+
+1. Ang kautusan ng Diyos ay nagkakaloob ng kalayaan (Genesis 2:16, 17; Santiago 2:12).
+2. Tulad ito ng isang bakod na lumilikha ng isang malaking bakanteng espasyo para sa buhay at nagbababala na sa kabila ng bakod na ito ay naroroon ang panganib, mga problema, komplikasyon, at kamatayan. Walang hinaharap para sa kanila na humahakbang papalabas ng nasasakupan ng kalayaan.
+3. Ang Kautusan ay isang salamin (Santiago 1:23–25). Dito, makikita natin kung gaano
+4. tayo karumi at gaano natin kailangang malinis. Ipinapakita ng Dekalogo ang ating pagkamakasalanan; gayunpaman, hindi nito tayo malilinis mula sa kasalanan at pagkakasala (Roma 3:20).
+5. Ang kautusan ng Diyos ay isang palatandaan. Bilang gayon, pinangungunahan tayo nito bilang isang paidagogos, o tagapagturo sa paaralan, kay Cristo (Galatia 3:24). Nagtuturo ito kay Jesus, na lumilinis, nagpapatawad ng ating mga kasalanan, at bumabago ng ating mga buhay (2 Corinto 5:17, 1 Juan 1:7–9).
+
+Ang Dekalogo ay pangako ng Diyos sa atin. Sa pagpapahayag ng mga utos na ito, ipinapangako ng Diyos na ang mga pamantayang ito ay magiging bahagi ng ating mga buhay kung pananatilihin natin ang isang malapit na relasyon sa Kanya. Siya ang Garantor na gagawin ang mga pamantayang ito na maging ating permanenteng paraan ng pamumuhay. Magiging napakalapit natin sa Kanya na hindi na natin nanasain ang ipinagbabawal. Maligaya tayong mananatiling nakikisama sa Kanya, hinihiling sa Kanya na gawin ang pagsunod na ito sa atin sa pamamagitan ng kapangyarihan ng Kanyang biyaya, Salita, at ng Banal na Espiritu.
+
+Sa Dekalogo, ang mga utos na ikaapat at ikalima ay ibinigay sa wikang Hebreo bilang mga positibong utos sa anyo ng infinitive absolute na mayroong dalawang kahulugan sa legal na materyal: isang utos o isang mariing pangako (tingnan ang E. Kautzsch, ed., Gesenius’ Hebrew Grammar [Oxford: Clarendon, 1910], par. 113bb at 113ee). Ang ibang mga utos ay ipinahayag bilang negatibong mga utos na gumagamit ng pangatnig na l’o (“huwag”), kasama ang jussive (tulad ng imperfect na anyo). Bukod sa katotohanan na ang kahulugan ng ganitong pahayag sa Hebreo ay isang permanenteng pagbabawal, kung kaya’t ito’y isang utos, iminungkahi rin na nagpapahiwatig ito ng isang sitwasyon sa hinaharap, kaya ito’y isang pangako (tingnan ang sulat ni Jacques B. Doukhan, Hebrew for Theologians: A Textbook for the Study of Biblical Hebrew in Relation to Hebrew Thinking [Lanham, MD: University Press of America, 1993], p. 41). Sa liwanag ng mungkahing ito, ang tamang salin ay maaaring “hindi mo gagawin. . .” at hindi “huwag mong gagawin . . .” Ang suporta para sa pag-unawa ng Dekalogo bilang isang pangako ay matatagpuan sa Hukom 6:23, kung saan ipinangako ng Panginoon kay Gideon: “Hindi ka mamamatay.” Ang gramatikong pagkakabuo sa pangungusap na ito ay eksaktong kapareho ng sa Dekalogo.
+
+Ang kahulugan sa Hebreo ng terminong dabar, na ginamit upang ilarawan ang Sampung Utos, ay hindi mismong nangangahulugang “kautusan” kundi “salita” o “pangako.” Ito ay depende sa mga English na bersyon, ngunit tingnan, halimbawa, ang paggamit ng pangalang dabar bilang “pangako,” sa 1 Hari 8:56; 2 Cronica 1:9; Nehemias 5:12, 13; at Awit 105:42; at ang mga paggamit ng dabar bilang isang pandiwa, na may kaparehong kahulugan ng “pangangako,” sa Deuteronomio 1:11, Deuteronomio 6:3, Deuteronomio 9:28, Josue 9:21, Josue 22:4, at Josue 23:5.
+
+Tiniyak ni Ellen G. White ang ating paliwanag sa mga sumusunod na pangungusap tungkol sa ginagampanan ng Dekalogo: “Ang sampung utos . . . ay sampung mga pangako.”—Manuscript 41, 1896 (inilimbag sa The SDA Bible Commentary, vol 1, p. 1105). “Sa bawat utos o atas na ibinigay ng Diyos ay mayroong pangako, ang pinaka-positibo, ang pinagbabatayan ng utos.”—Thoughts from the Mount of Blessing, p. 76. Kanyang binigyang diin na “ang tinig ng Diyos mula sa langit” ay nagsasalita “sa kaluluwa sa pangako, ‘Gawin ito, at hindi ka mapapasa-ilalim ng pamumuno at kontrol ni Satanas.” Letter 89, 1898 (inilimbag sa The SDA Bible Commentary, vol. 1, p. 1105).
+
+Ang tila mga pagbabawal ng kautusan ay para lamang sa ating ikabubuti upang mapanatili ang kaligayahan at buhay (Mikas 6:8, Juan 10:10). Ang kautusan ang pamantayan ng pag-uugali para sa mga nagtatapat sa Diyos at nailigtas ng Kanyang biyaya sa pamamagitan ng pananampalataya kay Cristo.
+
+Ang lugar ng kautusan sa bagong tipan ay kahanga-hanga—ito ay nakatanim sa puso. Ang kautusan ay isinakalooban (tingnan ang Mateo 5:21–48) at dapat makita hindi bilang isang pasanin kundi isang kagalakan. Ang mga nagsasabuhay ng Dekalogo ay angkop na sinusunod ang mga pangako nito na may mga tamang motibo, sumusunod sa mga utos nito mula sa pagpapasalamat sa ginawa ng Diyos, at patuloy na ginagawa, para sa kanila. Hindi binabago ng biyaya ang kautusan, ngunit ang ating pakikitungo dito ang nagbabago. Laban si Pablo sa legalismo at sa maling paggamit ng kautusan ng Diyos at hindi sa kautusan mismo (Roma 7:9–12).
+
+Si Jesu-Cristo ang telos ng kautusan (Roma 10:4), na nangangahulugang Siya ang mithiin at layunin nito—hindi ang katapusan-na nangangahulugang pagtatapos o pagtigil ng bisa nito. Si Cristo ang susi ng pagpapaliwanag na nagbubukas ng tunay na kahulugan at layunin ng kautusan. Kaya, hindi magiging tamang sabihin na winalang-bisa, winakasan, pinalitan, o inalis ni Cristo ang kautusan. Si Cristo ang nagbibigay ng kahulugan sa kautusan.
+
+Tulad ng pagpapaala-ala ni Josue sa kanyang mga tagapakinig, hindi natin masusunod ang Diyos: “Hindi kayo makapaglilingkod sa Panginoon” (Josue 24:19). Gayunpaman, kapag hiniling natin sa Diyos na alisin ang ating kahinaan, gagawin Niya tayong malakas. Ipagkakaloob Niya sa atin ang Kanyang Banal na Espiritu na siyang kikilos sa atin na sundin Siya (Ezekiel 36:27). Sinasabi ni Pablo: “Sapagkat kapag ako’y mahina, ako nga’y malakas” (2 Corinto 12:10). Ang pagsunod ay gawain ng Banal na Espiritu sa loob natin.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+Itanong sa iyong mga estudyante ang mga sumusunod:
+
+1. Bilang mga tao, makapagpapasya lamang tayong gumawa ng kung ano ang tama sa ilalim ng impluwensya ng biyaya ng Diyos. Dapat tayong magpasya na sundin Siya, ngunit wala tayong lakas na tuparin ang ating kapasyahan o sumunod sa Kanya. Kailangan natin ang tulong sa ating karupukan at kahinaan, tulong mula sa labas ng ating mga sarili. Ang mabuting balita ay nagkakaloob Siya ng pagnanais (na siyang tugon sa Kanyang panawagan ng pag-ibig) at kapangyarihang sumunod (Filipos 2:13). Sa isang praktikal na kahulugan, paano ninyo nakikita ang mga kaloob na ito na gumagawa sa inyong mga sariling buhay?
+2. Anuman ang iniuutos ng Diyos, pinapalakas Niya ang Kanyang mga tagasunod na gawin ito. Sinasabi ni Ellen G. White na ang “lahat ng Kanyang mga ipinag-uutos ay nagpapalakas.”—Christ’s Object Lessons, p. 333. Sa pananaw na iyon, ang Sampung Utos sa katunayan ay sampung mga beatitudes. Sa anong kahulugan, at paano, mapapalakas ng mga utos ng Diyos ang mga mananampalataya na sundin ang Diyos?

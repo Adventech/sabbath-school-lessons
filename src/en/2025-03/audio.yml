@@ -1,0 +1,300 @@
+---
+  audio:
+    - artist: Adult Bible Study Guides
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/013 SS Lesson 28 June 2025.mp3
+          target: en/2025-03/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/014 SS Lesson 29 June 2025.mp3
+          target: en/2025-03/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/015 SS Lesson 30 June 2025.mp3
+          target: en/2025-03/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/016 SS Lesson 1 July 2025.mp3
+          target: en/2025-03/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/017 SS Lesson 2 July 2025.mp3
+          target: en/2025-03/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/018 SS Lesson 3 July 2025.mp3
+          target: en/2025-03/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/019 SS Lesson 4 July 2025.mp3
+          target: en/2025-03/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/019a INSIDE STORY July 2025.mp3
+          target: en/2025-03/01/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/023 SS Lesson 5 July 2025.mp3
+          target: en/2025-03/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/024 SS Lesson 6 July 2025.mp3
+          target: en/2025-03/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/025 SS Lesson 7 July 2025.mp3
+          target: en/2025-03/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/026 SS Lesson 8 July 2025.mp3
+          target: en/2025-03/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/027 SS Lesson 9 July 2026.mp3
+          target: en/2025-03/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/028 SS Lesson 10 July 2025.mp3
+          target: en/2025-03/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/029 SS Lesson 11 July 2025.mp3
+          target: en/2025-03/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/029a Inside Story 2 Jul 2025.mp3
+          target: en/2025-03/02/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/033 SS Lesson 12 July 2025.mp3
+          target: en/2025-03/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/034 SS Lesson 13 July 2025.mp3
+          target: en/2025-03/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/035 SS Lesson 14 July 2025.mp3
+          target: en/2025-03/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/036 SS Lesson 15 July 2025.mp3
+          target: en/2025-03/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/037 SS Lesson 16 July 2025.mp3
+          target: en/2025-03/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/038 SS Lesson 17 July 2025.mp3
+          target: en/2025-03/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/039 SS Lesson 18 July 2025.mp3
+          target: en/2025-03/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/039a INSIDE STORY 3 Jul 2025.mp3
+          target: en/2025-03/03/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/043 SS Lesson 19 July 2025.mp3
+          target: en/2025-03/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/044 SS Lesson 20 July 2025.mp3
+          target: en/2025-03/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/045 SS Lesson 21 July 2025.mp3
+          target: en/2025-03/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/046 SS Lesson 22 July 2025.mp3
+          target: en/2025-03/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/047 SS Lesson 23 July 2025.mp3
+          target: en/2025-03/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/048 SS Lesson 24 July 2025.mp3
+          target: en/2025-03/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/049 SS Lesson 25 July 2025.mp3
+          target: en/2025-03/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/049a INSIDE STORY 4 Jul 2025.mp3
+          target: en/2025-03/04/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/053 SS Lesson 26 July 2025.mp3
+          target: en/2025-03/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/054 SS Lesson 27 July 2025.mp3
+          target: en/2025-03/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/055 SS Lesson 28 July 2025.mp3
+          target: en/2025-03/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/056 SS Lesson 29 July 2025.mp3
+          target: en/2025-03/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/057 SS Lesson 30 July 2025.mp3
+          target: en/2025-03/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/058 SS Lesson 31 July 2025.mp3
+          target: en/2025-03/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/059 SS Lesson 1 August 2025.mp3
+          target: en/2025-03/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/059a INSIDE STORY 5 Aug 2025.mp3
+          target: en/2025-03/05/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/063 SS Lesson 2 August 2025.mp3
+          target: en/2025-03/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/064 SS Lesson 3 August 2025.mp3
+          target: en/2025-03/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/065 SS Lesson 4 August 2025.mp3
+          target: en/2025-03/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/066 SS Lesson 5 August 2025.mp3
+          target: en/2025-03/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/067 SS Lesson6 August 2025.mp3
+          target: en/2025-03/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/068 SS Lesson 7 August 2025.mp3
+          target: en/2025-03/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/069 SS Lesson 8 August 2025.mp3
+          target: en/2025-03/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/069a INSIDE STORY 6 Aug 2025.mp3
+          target: en/2025-03/06/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/073 SS Lesson 9 August 2025.mp3
+          target: en/2025-03/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/074 SS Lesson 10 August 2025.mp3
+          target: en/2025-03/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/075 SS Lesson 11 August 2025wav.mp3
+          target: en/2025-03/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/076 SS Lesson 12 August 2025.mp3
+          target: en/2025-03/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/077 SS Lesson 13 August 2025.mp3
+          target: en/2025-03/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/078 SS Lesson 14 August 2025.mp3
+          target: en/2025-03/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/079 SS Lesson 15 August 2025.mp3
+          target: en/2025-03/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/079a INSIDE STORY & Aug 2025.mp3
+          target: en/2025-03/07/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/083 SS Lesson 16 August 2025.mp3
+          target: en/2025-03/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/084 SS Lesson 17 August 2025.mp3
+          target: en/2025-03/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/085 SS Lesson 18 August 2025.mp3
+          target: en/2025-03/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/086 SS Lesson 19 August 2025.mp3
+          target: en/2025-03/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/087 SS Lesson 20 August 2025.mp3
+          target: en/2025-03/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/088 SS Lesson 21 August 2025.mp3
+          target: en/2025-03/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/089 SS Lesson 22 August 2025.mp3
+          target: en/2025-03/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/089a INSIDE STORY 8 Aug 2025.mp3
+          target: en/2025-03/08/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/093 SS Lesson 23 August 2025.mp3
+          target: en/2025-03/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/094 SS Lesson 24 August 2025.mp3
+          target: en/2025-03/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/095 SS Lesson 25 August 2025.mp3
+          target: en/2025-03/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/096 SS Lesson 26 August 2025.mp3
+          target: en/2025-03/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/097 SS Lesson 27 August 2025.mp3
+          target: en/2025-03/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/098 SS Lesson 28 August 2025.mp3
+          target: en/2025-03/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/099 SS Lesson 29 August 2025.mp3
+          target: en/2025-03/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/099a INSIDE STORY 9 Jul 2025.mp3
+          target: en/2025-03/09/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/103 SS Lesson 30 August 2025.mp3
+          target: en/2025-03/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/104 SS Lesson 31 August 2025.mp3
+          target: en/2025-03/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/105 SS Lesson 1 September 2025.mp3
+          target: en/2025-03/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/106 SS Lesson 2 september 2025.mp3
+          target: en/2025-03/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/107 SS Lesson 3 September 2025.mp3
+          target: en/2025-03/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/108 SS Lesson 4 September 2025.mp3
+          target: en/2025-03/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/109 SS Lesson 5 September 2025.mp3
+          target: en/2025-03/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/109a INSIDE STORY 10 Sep 2025.mp3
+          target: en/2025-03/10/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/113 SS Lesson 6 September 2025.mp3
+          target: en/2025-03/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/114 SS Lesson 7 September 2025.mp3
+          target: en/2025-03/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/115 SS Lesson 8 September 2025.mp3
+          target: en/2025-03/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/116 SS Lesson 9 September 2025.mp3
+          target: en/2025-03/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/117 SS Lesson 10 September 2025.mp3
+          target: en/2025-03/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/118 SS Lesson 11 September 2025.mp3
+          target: en/2025-03/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/119 SS Lesson 12 September 2025.mp3
+          target: en/2025-03/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/119a INSIDE STORY 11 Sep 2025.mp3
+          target: en/2025-03/11/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/123 SS Lesson 13 September 2025.mp3
+          target: en/2025-03/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/124 SS Lesson 14 September 2025.mp3
+          target: en/2025-03/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/125 SS Lesson 15 September 2025.mp3
+          target: en/2025-03/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/126 SS Lesson 16 September 2025.mp3
+          target: en/2025-03/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/127 SS Lesson 17 September 2025.mp3
+          target: en/2025-03/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/128 SS Lesson 18 September 2025.mp3
+          target: en/2025-03/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/129 SS Lesson 19 September 2025.mp3
+          target: en/2025-03/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/129a INSIDE STORY 12 Sep 2025.mp3
+          target: en/2025-03/12/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/133 SS Lesson 20 September 2025.mp3
+          target: en/2025-03/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/134 SS Lesson 21 September 2025.mp3
+          target: en/2025-03/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/135 SS Lesson 22 September 2025.mp3
+          target: en/2025-03/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/136 SS Lesson 23 September 2025.mp3
+          target: en/2025-03/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/137 SS Lesson 24 September 2025.mp3
+          target: en/2025-03/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/138 SS Lesson 25 September 2025.mp3
+          target: en/2025-03/13/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/139 SS Lesson 26 september 2025.mp3
+          target: en/2025-03/13/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/139a INSIDE STORY 13 Sep 2025.mp3
+          target: en/2025-03/13/inside-story
+    - artist: Ellen G. White Notes
+      image: misc/ellen-white-notes.png
+      imageRatio: square
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-01.mp3
+          target: en/2025-03/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-02.mp3
+          target: en/2025-03/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-03.mp3
+          target: en/2025-03/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-04.mp3
+          target: en/2025-03/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-05.mp3
+          target: en/2025-03/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-06.mp3
+          target: en/2025-03/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-01-07.mp3
+          target: en/2025-03/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-01.mp3
+          target: en/2025-03/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-02.mp3
+          target: en/2025-03/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-03.mp3
+          target: en/2025-03/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-04.mp3
+          target: en/2025-03/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-05.mp3
+          target: en/2025-03/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-06.mp3
+          target: en/2025-03/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-02-07.mp3
+          target: en/2025-03/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-01.mp3
+          target: en/2025-03/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-02.mp3
+          target: en/2025-03/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-03.mp3
+          target: en/2025-03/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-04.mp3
+          target: en/2025-03/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-05.mp3
+          target: en/2025-03/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-06.mp3
+          target: en/2025-03/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-03-07.mp3
+          target: en/2025-03/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-01.mp3
+          target: en/2025-03/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-02.mp3
+          target: en/2025-03/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-03.mp3
+          target: en/2025-03/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-04.mp3
+          target: en/2025-03/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-05.mp3
+          target: en/2025-03/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-06.mp3
+          target: en/2025-03/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-04-07.mp3
+          target: en/2025-03/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-01.mp3
+          target: en/2025-03/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-02.mp3
+          target: en/2025-03/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-03.mp3
+          target: en/2025-03/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-04.mp3
+          target: en/2025-03/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-05.mp3
+          target: en/2025-03/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-06.mp3
+          target: en/2025-03/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-05-07.mp3
+          target: en/2025-03/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-01.mp3
+          target: en/2025-03/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-02.mp3
+          target: en/2025-03/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-03.mp3
+          target: en/2025-03/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-04.mp3
+          target: en/2025-03/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-05.mp3
+          target: en/2025-03/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-06.mp3
+          target: en/2025-03/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-06-07.mp3
+          target: en/2025-03/06/07

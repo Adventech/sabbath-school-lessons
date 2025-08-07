@@ -1,0 +1,44 @@
+---
+  title: "Kivonulás"
+  description: "Út az ígéret földjére"
+  human_date: "Július · Augusztus · Szeptember 2025"
+  start_date: "28/06/2025"
+  end_date: "26/09/2025"
+  color_primary: "#4F332D"
+  color_primary_dark: "#3F241F"
+  splash: true
+  credits:
+    - name: Írta
+      value: "Jiří Moskala"
+    - name: Fordította
+      value: "Zarkáné Teremy Krisztina"
+    - name: Korrektor
+      value: "Fürjné Simon Edina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-963-9930-96-4"
+    - name: Az EGW mellékletet fordította
+      value: "Bartha Sándor"
+    - name: Az EGW melléklet kiadója
+      value: "Viaţă şi Sănătate Kiadó, Pantelimon, Románia"
+    - name: Az EGW melléklet kiadás koordinátora
+      value: "Szász Ernő"
+    - name: EGW melléklet korrektúra
+      value: "Czinkota Judit Orsolya"
+    - name: EGW melléklet tördelés
+      value: "Czinkota Andrásné"
+    - name: EGW melléklet ISBN
+      value: "978-606-087-690-8"

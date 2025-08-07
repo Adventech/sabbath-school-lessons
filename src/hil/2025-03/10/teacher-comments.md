@@ -1,0 +1,64 @@
+---
+title:  Komento Sang Manunudlo
+date:   05/09/2025
+---
+
+### Bahin I: Kabilogan nga Panan-aw
+
+**Sadsaran nga Teksto:** Exodo 24:3
+
+**Sentro Sang Pagtoon:** Exodo 24:1−31:18
+
+**Panugod:** Ang Ginoo nagluwas sa Iya katawohan halin sa gahum sang Egipto, naghatag sa ila sang kahilwayan, nagdala sa ila sa kamingawan padulong sa Iya kaugalingon didto sa Sinai, kag nagpasad sang Iya katipan sang gugma sa ila (Exo. 19:3−6; Deut. 7:9, 12); Neh. 9:32). Ang Iya bugay kag kabalaka sa Iya katawohan makadalayaw. Sa gamhanan nga pagpasundayag sang Iya himaya sa Sinai, ginpamulong Niya ang Napulo ka Saad (ang dolot sang Decalogue, nga ginpahayag sa Exodo 20) kag ginpaathag ang mga ini sing mas detalyado sa Pagsulundan sang Katipan (Exo. 20:22−23:19). Karon ang Ginoo nagpalig-on sang sini nga katipan sa Israel paagi sa isa ka importante nga seremonya nga nag-ugat sa paghalad sang sapat, nga nagapatuhoy sa sakripisyo ni Cristo, kag napat-inan sang dugo.
+
+### Bahin II: Komentaryo
+
+**Ang Pagpalig-on Sang Katipan**
+
+Ang pagpalig-on sang katipan ginalakipan sang madamu nga importante nga elemento:
+
+1. Ang presentasyon ni Moises sang mga pulong kag kasogoan sang Ginoo paagi sa hambal (Exo. 24:3);
+2. Ang pagsulat ni Moises sang Tolon-an sang Katipan (Exo. 24:4a);
+3. Ang pagpatindug sang halaran (Exo. 24:4b);
+4. Ang pagtukud sang napulo’g duha ka haligi, nga nagarepresentar sang napulo’g duha ka kabikahan sang Israel (Exo. 24:4c);
+5. Ang halad-nga-sinonog kag ang halad sa paghidait (Exo. 24:5);
+6. Ang pagwisik ni Moises sang katunga sang dugo nga ginahalad sa halaran (Exo. 24:6);
+7. Ang iya pagbasa sang Tolon-an sang Katipan (Exo. 24:7a);
+8. Ang positibo nga mga sabat sang katawohan (Exo. 24:3, 7b);
+9. Ang pagwisik ni Moises sang nabilin nga katunga sang ginahalad nga dugo sa katawohan (Exo. 24:8a);
+10. Ang ginbantala ni Moises: “Yari karon ang dugo sang katipan [ang dinalan nga makita lamang diri sa Hebreo nga Biblia; ipaanggid sa Zac. 9:11; Mat. 26:28; Mar. 14:24] nga ginhimo sang Ginoo sono sini tanan nga pulong” (Exo. 24:8b);
+11. Isa ka nagapakigkatipan nga pagkaon, upud ang 74 sang mga tigulang, sa Bukid sang Sinai (Exo. 24:9-11).
+
+Sa pagpahamtang sang katipan, ang katawohan sang Dios nagsabat sing tatlo ka beses sa amo man nga paagi sang maloloy-on nga mga pulong sang Dios: “Ang tanan nga napamulong sang Ginoo himoon namon” (Exo. 19:8; tan-awa man ang Exo. 24:3, 7). Ano ang sayop sa kaangay sina nga saad? Ini amo ang ila kompiansa sa kaugalingon, ang hapaw nila nga paghangup tuhoy sa gahum sang sala kag ang ila mismo makasasala nga kinaiya, kag ang ila kapaslawan sa pagbaton nga kinahanglan nila ang bulig sang Dios. Sa pagkamatuud, pagkaligad sang pipila lang ka semana, madamu sa ila ang nagsaut sa palibut sang bulawan nga tinday nga baka. Ang nagakaigo nga sabat amo: “Sa bulig sang Ginoo kag paagi sa gahum sang Iya bugay, himoon namon ang tanan nga butang nga ginpamulong sang Ginoo.”
+
+Si Josue, ang tama ka matutum nga alagad ni Moises kag sang olihi nangin tuman ka maayo nga lider sang katawohan sang Dios, sing personal nga nakabati sang sining maayo-sing-katuyoan nga mga saad kag nakahibalo kon daw ano ang mga ini ka matapok, maluya, kag dali malapas. Sa madamu nga beses nasaksihan niya ang apostasiya sang mga Israelinhon. Sang ginsulit nila ini liwat sang olihi, “Busa kami man mag-alagad sa Ginoo” (Jos. 24:18), si Josue mapinamat-uron nga naghambal sa ila nga “indi kamo sarang makaalagad sa Ginoo (Jos. 24:19) bangud ang ila desisyon indi pa sigurado, kay nagahandum pa sila gihapon sa pipila ka mga pagano nga mga diosdios (tan-awa ang Jos. 24:14, 23) kag wala nagadepende sa bulig sang Dios kondi sa ila mismo mabakud nga kinabubut-on. Apang, si Josue personal nga nagpahayag: “Apang nahanungud sa akon kag sa akon panimalay, magaalagad kami sa Ginoo” (Jos. 24:15).
+
+Ang Dios nag-agda kay Moises, upud si Aaron kag duha sa iya mga anak nga si Nadab kag Abihu, kag ang 70 ka tigulang agud makigkita sa Iya sa Bukid sang Sinai (Exo. 24:9, 10). Paagi sa Iya suod nga presensia, ang Dios naghandum nga mapahayag sing bug-os kon sin-o Sia. Gintuyo gid sa paghinambit nga nagakaon kag nagainum sila sa sina nga okasyon. Wala ginpaathag kon sin-o ang naghanda sang sinalosalo, pero labanlaban ang Ginoo mismo. Ang pagkaon sing tingub isa pa ka sahi sang pagpat-in sang katipan, gani ini pagkaon sa pagpakigkatipan. Sa panahon sang Biblia, ang pagkaon sing tingub nagpasad sang madalum nga pag-inabyanay kag paghugpong sang pamilya kag paghiliutud. Kon may butang nga indi maayo sa tunga sadtong nagaupdanay sa pagkaon sing tingub, mapasaylo ini, kag ang saad ginhatag sang sadtong nagaupud sa sinalosalo nga magadampiganay sila sa walay katubtuban (tan-awa ang e.g., ang pagkaon nila Jacob and Laban, sa Genesis 31:54).
+
+Aton man maeksperiensiahan ang pareho nga sinalosalo sa pagpakigkatipan kon nagasaulog kita sa kabuhi kag kamatayon ni Jesus sa panahon sang Panihapon sang Ginoo, ang Pagpangalawat (Communion). Ang Dios nagaagda sa mga tumuloo nga makaangkon sang hapiit nga pagpakigrelasyon sa Iya kag sa isa kag isa paagi sa pagkaon kag pag-inum sing tingub. Yadtong nagapakigbahin sa sini nga seremonya sang pagdumdum nagaporma sang isa ka pamilya upud kay Cristo bangud ginabutang ini sa realidad kag ginapakita kon ano ang Iya nahimo para sa aton. Ang pagpangalawat (communion) amo ang tion sa diin ang Iya iglesia ginapasad liwat kag ang komunidad sang pagtoo ginaporma liwat, kag nagapakita nga Sia amo ang ila Ginoo, Hari, kag Abyan. Ang mga miyembro sang iglesia nahiusa upud sa Iya kag sa isa kag isa. Ginapakabalaan sila paagi sa pagpakig-upud sa Iya. Ang paghiusa napat-inan paagi sa Iya presensia kag Pulong.
+
+**Ang Kayangkayang Sang Dios**
+
+Malapit isa sa tatlo ka bahin sang tolon-an sang Exodo ang nagapatuhoy sa Kayangkayang, gani nagapakita ini sang iya pagkaimportante. Ang Exodo 25 tubtub 31 nagahatag sang detalyado nga sulundan, mga pagtudlo nahanungud sa desinyo sini, kag materyales nga gin-gamit, samtang ang Exodo 35 tubtub 40 nagapahayag nahanungud sa kon paano ini tukuron kag ang aktwal nga pagdedikar sang santuario para sa balaan nga mga katuyoan kag mga papel sini. Ano ang importansia sang sini nga panaysayon?
+
+Ang pinakaimportante nga butang sa santuario indi ang mga kasangkapan, bisan pa nga indi ini puwede balewalaon bangud nagahamtang ini para sa kon ano ang magakatabo sa kayangkayang. Ang tama ka importante nga butang amo ang drama, ang aktwal nga hilikuton nga nagakatabo didto.
+
+Kaangay ini sa pagkadto sa teatro agud magtan-aw sang palagowaon nga may nagkalainlain nga mga senario. Ang yara sa entablado nagasugid sa tumalan-aw kon ang estorya magakatabo sa adlaw ukon sa tungang gab-i, kon nagakatabo ini sa banwa, palasyo, patyo, ukon sinalosalo sang kasal, kon sin-o ang mga bida, kag madamu pa nga detalye. Ang oras, lugar, kag palibut importante para mahangpan ang sugilanon kag ang palagowaon. Sa amo man nga paagi, ang aton pagpatuhoy sa kayangkayang dapat mangin yara man permi sa nagakatabo mismo, indi lamang sa kon ano ang yara sa likod sini, mga kasangkapan, kag sahi sang halad, agud makilala naton kon ano ang ginalaragway. Dapat naton hangpon ang kahulugan sini tanan. Ang kayangkayang daku kag praktikal nga leksyon tuhoy sa plano sang Dios sa pagtubos.
+
+Ang mga pag-alagdan sa santuario nagapresentar tuhoy sa drama sang Dios. Sa isa ka madrama nga paagi, ginadukomento nila kon sin-o ang Dios; kon ano ang Iya ginatindugan; ang mga prinsipyo nga Iya ginapalig-on; paano Niya ginaluwas ang nagahinulsul nga makasasala; paano Niya ginaatubang ang sala kag ang nagapakatig-a kag malaut nga katawohan; paano Sia maghukom, kag magdala, sang katapusan nga solusyon sa problema sang sala, agud nga maabut ang adlaw nga ang kalautan mawala na. Ang ini nga drama nagalaragway, sa katapusan, nga ang paghidait, pagpasag-uli, kag harmoniya mapasad liwat.
+
+Gusto sang Dios nga magpuyo upud sa Iya katawohan. Ang kayangkayang amo ang Iya dutan-on nga puluy-an, indi nga wala pa Sia nagaupud sa ila, ukon makasulud lamang paagi sa sini, kondi bangud nga gusto Niya mapakita ang Iya aktwal kag maathag nga presensia sa Iya katawohan nga nagapakita nga indi sila nagaisahanon, ginsikway, ukon napatumbayaan, kondi ginaatipan Niya sila.
+
+Si apostol Pablo nagapahayag sing maathag nga ang Ginoo wala nagapuyo sa mga templo nga nahimo paagi sa mga kamut sang mga tawo (Bin. 17:24, 25), kag si Salomon solemne nga nagpahayag, pagkatapos nga matukud ang tuman ka tahum nga templo para sa Iya sa Jerusalem, nga bisan pa ang mga langit indi makapaigo sa Ginoo: “Apang matuud gid bala nga ang Dios magapuyo upud sa mga tawo sa duta? Yari karon, ang langit kag ang langit sang mga langit indi makaigo sa imo; daw ano pa gid ka kubus ini nga balay nga akon ginpatindug!” (2 Cron. 6:18). Niyan si Salomon nagapadayon sa pagsiling: “Pagpamati sa pangamuyo nga ipangamuyo sang imo alagad nayon sa sini nga duug. . . . Pamati ka kutub sa imo puluy-an; kag kon makabati ka, patawara” (2 Cron. 6:20, 21). Sa Iya gugma kag kalooy ang Dios nagpanaug sa aton lebel kag nagsulud sa aton panahon kag duug agud makapakig-upud sa aton.
+
+Ang makita nga presensia sang Dios yara sa likod sang Iya handum para sa Israel nga tukuran Sia sang kayangkayang sa tunga sang ila kampo. Ang Ginoo nagapahayag: “Kag himoan nila ako sing santuario, kag ako magapuyo sa tunga [ninyo]” (Exo. 25:8, NIV, tan-awa man ang ESV, NKJV). Talupangda ang pulong nga “kag” sa sini nga dinalan (ang maayo nga mga pagbadbad nagagamit sang “kag,” indi ang “agud nga,” bisan pa nga ini nagakaigo man nga pagbadbad), tungud ang pulong nga “kag” importante gid ka tama sa teolohiya. Wala ginkinahanglan sang Dios ang santuario agud mangin kaupud sa Iya katawohan, ukon makapuyo, sa tunga nila. Ang Iya presensia nagaupud na sa ila sa tanan nga tion, kay ang panguna nga tema sang tolon-an sang Exodo amo ang presensia sang Dios nga nagaupud sa Iya katawohan. Apang, sang olihi ang Dios naggamit sang Hebreo nga pulong “lamed” (“agud nga” ukon “agud”), sa Exodo 29:46b, agud nga ang tanan maathagan nga ang tinutuyo sang santuario amo nga para makapuyo Sia sing malapit upud sa Iya katawohan kag mapahayag ang Iya makita nga presensia (Exo. 29:42−46).
+
+Sang naguba na ang mahimayaon nga templo ni Salomon paagi kay Nabocodonosor, kag ang katawohan nangin ulipon bangud sang ila pagkadimatutum (Dan. 9:4−20), paagi sa kay propeta Ezequiel ang Dios nagpasiguro sa Iya katawohan nga “manginsantuario ako sa ila sa diotay nga tion sa mga duta diin sia magakadto” (Ezeq. 11:16).
+
+Ang Dios nagapamulong kay Moises nga dapat sia magtukud sang santuario, sono sa modelo sang langitnon nga santuario nga napakita sa Iya sa Bukid sang Sinai (Exo. 25:9, 40); tan-awa ang dugang sini sa komentaryo nga bahin sang Leksyon 13). Ang pinakaimportante nga duug sa santuario amo ang Labing Balaan nga Hulut, nga yara didto ang Kaban sang Katipan bilang pinakasentro, nga gintawag man nga Kaban sang Pagpamatuud (Exo. 25:16), bangud ang mga pagpamatuud sang Dios ukon ang Decalogue kinahanglan ibutang sa sulud sang Kaban (Exo. 40:20). Sa ibabaw sang Kaban, yara nabutang ang tabon sang pagtubos nga nahimo sa putli nga bulawan, ang lingkoranan sang pakilooyan (sa Hebreo Kaporet, halin sa ginhalinan nga pulong kapar, “pagtubos”; sa Griego, hilasterion). Amo ini ang duug sa diin natabo ang katapusan nga pagpasag-uli kag ang natuad nga mga sala sang katawohan sang Dios napanas. Diri, ang Dios naghatag sang pinakasolusyon sa problema tuhoy sa sala kag kalautan (tan-awa ang Lev. 16:15, 16, 30). Si Jesu-Cristo amo ang hilasterion, ang Lingkoranan sang Pakilooyan, ang Nagatubos nga Halad nga nagapasag-uli kag nagapaputli sa aton halin sa aton mga sala (Rom. 3:25; 1 Juan 2:2).
+
+### Bahin III: Aplikasyon sa Kabuhi
+
+1. Pagkatapos nga natukud ni Salomon ang templo, ang Dios nagsiling sa iya: “Kon ang akon katawohan nga ginatawag sa akon ngalan magpaubus sang ila kaugalingon, kag magpangamuyo kag magpangita sang akon nawung, kag magtalikod gikan sa ila malaut nga mga dalanon, niyan magapamati ako kutub sa langit, kag magapatawad sang ila sala kag magaayo sang ila duta” (2 Cron. 7:14). Paano naton mapatuman sing mahinalingon kag mapakita bilang isa ka komunidad sang pagtoo ang ining langitnon nga laygay? Ano ang nagabalabag sa aton nga pangamuyo, nga nagapugong sa Ginoo sa pagpamati, kag sa pagsabat, sa aton pagpangayo sang bulig?
+2. Paano naton mapabag-o ang katipan sang gugma upud sa Ginoo sa tion sang Pagpangalawat? Kinahanglan bala naton ang pinasahi nga seremonya agud mahimo ini? Ipaathag.
+3. Si Jesu-Cristo “nangin-unud kag nagpuyo sa tunga naton” (Juan 1:14). Sa Griego nga pinulongan, literal ini nga napahayag nga Sia “nagkayangkayang kaupud naton.” Paano ang pagpakatawo ni Jesus kag ang Iya kabuhi sa duta nagpasiguro sa imo nga nagaupud Sia sa imo kag nakahangup sang tanan mo nga kabudlay, mga problema, kag mga panghangkat sa kabuhi?
