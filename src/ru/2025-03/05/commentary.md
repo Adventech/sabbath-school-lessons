@@ -574,10 +574,10 @@ _Сергей Хрибар (Москва, «Факел») hribar@mail.ru_
 
 #### Перевод А. Турецкий
 
-[Слайды](https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-04-tur.pptx)
+[Слайды](https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-05-tur.pptx)
 
 <video>
-<source src="https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-04-tur.mp4" />
+<source src="https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-03/assets/ru-2025-03-05-tur.mp4" />
 </video>
 
 ---
