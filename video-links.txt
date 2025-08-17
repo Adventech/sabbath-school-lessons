@@ -18,6 +18,10 @@ yt-dlp "https://www.youtube.com/watch?v=6kv1bWzzkFQ" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=FZnUf8Lr1gA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-03-08.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=yuvztRIkiVw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-03-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=6g7EP_PDoz0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2025-03-08.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=_Tp8ayLredo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2025-03-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=s4wqj_BAgbI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2025-03-08.mp4"
