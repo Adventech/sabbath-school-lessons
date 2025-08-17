@@ -73,3 +73,10 @@ Izrael számos csatájának lelki jellege csak akkor válik nyilvánvalóvá, am
 
 **2.  Izrael csatái hogyan erősíthetik hitünket A jelenések könyvében leírt kozmikus küzdelem végkimenetelét illetően?**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Isten csodálatos kegyelme: „Megőrizve az eleséstől” című fejezet, 333. o. (november 21.).

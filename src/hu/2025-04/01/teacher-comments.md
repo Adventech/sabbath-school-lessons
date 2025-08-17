@@ -77,3 +77,10 @@ A Hetednapi Adventista Egyház mozgalomként indult Jézus második eljövetelé
 
 **Gondoljuk át: Hogyan bátoríthatnak bennünket a hit példái Zsidók 11. fejezetében, miközben az áldott reménység teljesedése felé haladunk?**
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Isten csodálatos kegyelme: „Jobb ígéretek” című fejezet, 136. o.; Pátriárkák és próféták: „A törvény és a szövetségek” című fejezet, 372–373. o.

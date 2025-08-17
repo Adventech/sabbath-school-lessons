@@ -39,3 +39,10 @@ Miközben látogatói falatoztak, kérdésekkel halmozta el őket A nagy küzdel
 
 A látogatók szedelőzködni kezdtek, ő pedig megáldotta őket: „Béke és áldás kísérjen titeket, amikor a mi térségünkben dolgoztok.”
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Isten csodálatos kegyelme: „Megőrizve az eleséstől” című fejezet, 333. o. (november 21.).

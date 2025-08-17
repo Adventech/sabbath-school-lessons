@@ -31,3 +31,10 @@ Inácio most 68 éves, és az elmúlt 36 esztendőben 4-11 embert vezetett el a 
 
 „Bármit nélkülözni a tudok az életben, de a bibliatanulmányokat nem” – mondja.  Ennek a negyedévnek az egyik 13. szombati missziós projektje egy imaház a Pernambucano Adventista Főiskola területén Brazíliában, Pernambuco térségében, ahol Inácio Manoel is él. Előre is köszönjük nagylelkű támogatásotokat! Nézd meg az egyik Inációval készült rövid YouTube -videót: bit.ly/Inacio-Brazil.
 
+
+
+---
+
+#### Ellen G. White idézetek
+
+Isten csodálatos kegyelme: „Jobb ígéretek” című fejezet, 136. o.; Pátriárkák és próféták: „A törvény és a szövetségek” című fejezet, 372–373. o.
