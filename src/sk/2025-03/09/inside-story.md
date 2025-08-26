@@ -22,3 +22,5 @@ Napriek tomu stále odporúča a sám dodržiava levitskú diétu ako cestu k dl
 Takmer desať rokov po mŕtvici môže povedať, že životy sa zmenili práve vďaka nej.
 
 „Uvidím ľudí v nebi, pretože som mal túto mŕtvicu,“ povedal Carl. „Budú tam ľudia, ktorí tam inak neboli. Takže všetko naozaj pracuje spolu pre dobro tým, ktorí milujú Boha.“
+
+![Carl Casey](picture9.jpg)
