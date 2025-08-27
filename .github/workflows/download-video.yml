@@ -14,14 +14,7 @@ jobs:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ffmpeg: 'false'
-      - uses: FedericoCarboni/setup-ffmpeg@v3
-        id: setup-ffmpeg
-        with:
-          ffmpeg-version: release
-          architecture: ''
-          linking-type: static
-          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+          ffmpeg: 'true'
       - uses: actions/checkout@v2
       - name: Create work dir folder
         run: mkdir ss-video
