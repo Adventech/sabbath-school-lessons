@@ -21,14 +21,7 @@ jobs:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ffmpeg: 'false'
-      - uses: FedericoCarboni/setup-ffmpeg@v3
-        id: setup-ffmpeg
-        with:
-          ffmpeg-version: release
-          architecture: ''
-          linking-type: static
-          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+          ffmpeg: 'true'
       - name: Add token for private packages
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install
