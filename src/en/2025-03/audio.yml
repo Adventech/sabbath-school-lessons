@@ -340,3 +340,17 @@
           target: en/2025-03/09/06
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-09-07.mp3
           target: en/2025-03/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-01.mp3
+          target: en/2025-03/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-02.mp3
+          target: en/2025-03/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-03.mp3
+          target: en/2025-03/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-04.mp3
+          target: en/2025-03/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-05.mp3
+          target: en/2025-03/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-06.mp3
+          target: en/2025-03/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2025-03/en-egw-2025-03-10-07.mp3
+          target: en/2025-03/10/07
