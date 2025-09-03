@@ -3,7 +3,7 @@ title: Lehrerteil
 date: 26/12/2025
 ---
 
-### TEIL I: ÜBERSICHT
+### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Josua 24,15
 

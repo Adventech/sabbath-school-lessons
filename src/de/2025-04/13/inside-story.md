@@ -3,7 +3,7 @@ title: Mit Gott erlebt
 date: 26/12/2025
 ---
 
-### „Wie können wir Gott lieben?”
+### „Wie können wir Gott lieben?”
 
 _Andrew McChesney, Adventist Mission_
 

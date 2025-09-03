@@ -3,7 +3,7 @@ title: Mit Gott erlebt
 date: 19/12/2025
 ---
 
-### „Erzähle uns von der Bibel”
+### „Erzähle uns von der Bibel”
 
 _Andrew McChesney, Adventist Mission_
 
