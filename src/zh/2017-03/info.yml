@@ -6,3 +6,4 @@
   end_date: "29/09/2017"
   color_primary: "#BB1483"
   color_primary_dark: "#89065D"
+  splash: true

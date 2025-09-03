@@ -19,13 +19,13 @@
     order: 310
   pp:
     name: "少年学课"
-    order: 500
+    order: 400
   pr:
     name: "高级学课"
-    order: 600
+    order: 500
   kd:
     name: "中级学课"
-    order: 700
+    order: 600
   bg:
     name: "初级学课"
-    order: 800
+    order: 700
