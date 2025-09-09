@@ -29,3 +29,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-03-10.mp4
           target: pt/2025-03-pt/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-03-11.mp4
+          target: pt/2025-03-pt/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/portugal/ba/pt-ba-2025-03-11.webp
