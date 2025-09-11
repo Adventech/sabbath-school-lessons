@@ -137,3 +137,7 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-03-10.mp4
           target: es/2025-03/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-03-11.mp4
+          target: es/2025-03/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-03-11.webp
+
