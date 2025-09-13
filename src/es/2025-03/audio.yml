@@ -167,3 +167,7 @@
           target: es/2025-03/12/04
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/07/LECCION-12-MIERCOLES.mp3
           target: es/2025-03/12/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/07/LECCION-12-JUEVES.mp3
+          target: es/2025-03/12/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/07/LECCION-12-VIERNES.mp3
+          target: es/2025-03/12/07

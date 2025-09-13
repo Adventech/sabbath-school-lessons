@@ -169,3 +169,9 @@
           target: cs/2025-03/12/04
         - src: https://radvanice.casd.cz/sobotniskola/audio/2025_Q3/2025_Q3_12-5.mp3
           target: cs/2025-03/12/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2025_Q3/2025_Q3_12-6.mp3
+          target: cs/2025-03/12/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2025_Q3/2025_Q3_12-7.mp3
+          target: cs/2025-03/12/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2025_Q3/2025_Q3_13-1.mp3
+          target: cs/2025-03/13/01
