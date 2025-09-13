@@ -328,6 +328,18 @@ let spanishVideo = async function () {
 
     await weeklyVideo(
         "es",
+        "Pastor Daniel Herrera",
+        {
+            artist: "Pastor Daniel Herrera",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "es",
         "Juventud Adventista de España",
         {
             artist: "Juventud Adventista de España",
