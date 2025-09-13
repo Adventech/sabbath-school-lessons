@@ -14,3 +14,5 @@ Rodina Fulvie prijala Domenica ako syna a on ich dom navštevoval pravidelne. Ob
 Raz, keď mal 30 rokov, zapol rádio a počul hlas, ktorý hovoril: „Teraz budeme hovoriť o apoštolovi Pavlovi.“ Domenico počúval a všimol si, že moderátori rozprávajú inak než iní kresťania, ktorých poznal. Začal pravidelne počúvať túto rozhlasovú stanicu. Keď moderátori spomenuli knihu Steps to Christ od Ellen G. White, zavolal do rádia a požiadal ich o kópiu. Tiež sa spýtal, či by mu knihu mohol niekto doručiť priamo domov, aby mu mohol zodpovedať otázky týkajúce sa toho, čo počul v rádiu. 
 
 Emmanuel a jeho manželka prišli k Domenicovi domov s knihou. Emmanuel otvoril Bibliu, aby odpovedal na Domenicove otázky, a na jeho želanie mu porozprával o histórii Cirkvi adventistov siedmeho dňa. Túžiac poznať históriu kresťanstva, Domenico potom prečítal The Great Controversy. Po siedmich mesiacoch biblických štúdií sa Domenico cítil obklopený Božou láskou a bol pokrstený. „Som vďačný za adventistické rádio, pretože mi zmenilo život,“ povedal Domenico Civardi, teraz 68-ročný.
+
+![Domenico Civardi](picture11.jpg) 
