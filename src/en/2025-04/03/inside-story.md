@@ -29,4 +29,4 @@ Tsitsi doesn’t understand how God works, but she has no doubt that He always p
 
 “Even when I lost everything, my family and I never went hungry. We always had food on the table,” she said. “If you are faithful and you give to the Lord in tithe and offerings, the Lord always comes through for you.”
 
-_Watch a short YouTube video of Tsitsi Zondo at: bit.ly/Tsitsi._
+_Watch a short YouTube video of Tsitsi Zondo at: https://bit.ly/Tsitsi._

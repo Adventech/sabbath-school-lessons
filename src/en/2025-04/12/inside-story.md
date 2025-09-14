@@ -5,8 +5,6 @@ date:  19/12/2025
 
 #### “Tell Us About the Bible”
 
-__
-
 The woman didn’t want any help when Kim Sun arrived at her house at the regularly scheduled time.
 
 “Why?” asked Sun, a South Korean serving as a missionary in her remote town in the Philippines. “Did I do something wrong?”

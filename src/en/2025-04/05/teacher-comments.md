@@ -5,11 +5,9 @@ date:  31/10/2025
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Joshua 10:42
 
-Key Text: Joshua 10:42
-
-Study Focus: Gen. 15:16; Lev. 18:24–30; 2 Tim. 4:1, 8; Exod. 23:28–30; Deut. 20:10, 15–18; Isa. 9:6.
+**Study Focus:** Gen. 15:16; Lev. 18:24–30; 2 Tim. 4:1, 8; Exod. 23:28–30; Deut. 20:10, 15–18; Isa. 9:6.
 
 As mentioned last week, the issue of divine war in the Old Testament is perplexing. Dealing with this issue involves understanding the cosmic-conflict worldview and analyzing biblical data properly. The interpreter should consider at least four aspects when reviewing the biblical record.
 
@@ -25,33 +23,23 @@ War, with all its terrifying sequels, never was part of God’s plan for this wo
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **The Biblical Concept of Holy War**
-
-The Biblical Concept of Holy War
 
 In his commentary on Exodus, Douglas K. Stuart offers an insightful characterization of divine war in the biblical sense. This kind of war, usually expressed by the Hebrew verb haram, or the noun herem, involves destroying human life on a large scale and sometimes property and animal life. Because of its pertinence, Stuart’s list is reproduced here with some adjustments (adapted from Douglas K. Stuart, Exodus: The New American Commentary [Nashville: Broadman & Holman, 2006], vol. 2, pp. 395–397).
 
-1.	In the unique landscape of ancient Israel, no professional army was permitted. The battles were fought by amateurs and volunteers, a stark contrast with the professionalized military structures in antiquity and those we are familiar with today.
-
-2.	Soldiers were not paid. They obeyed God’s commands in the covenant context and were not to fight for personal gain. In many cases, this meant they were prohibited from taking spoil or plunder.
-
-3.	Divine or holy war could be fought only for the conquest or defense of the Promised Land in that particular historical conjunction. After the conquest, any war of aggression was strictly prohibited. Israel was called to fight for the Promised Land in a specific geographic and historical context. Once they had conquered the land and consolidated their territory, the Israelites were not supposed to expand the borders of the Promised Land through war. God had not called His people to become an expansionist military empire.
-
-4.	The initiation of holy war, considered a divine act, was solely in God’s hands, carried out through His chosen prophets, such as Moses and Joshua. This underscores that war should never be a human initiative but rather a sacred duty.
-
-5.	God’s involvement in holy war required spiritual preparation, which included fasting, abstinence from sex, or other forms of self-denial. The ceremony of circumcision (Josh. 5:1–9) and the celebration of the Passover (Josh. 5:10–12), in the context of the covenant renewal, were part of this preparation.
-
-6.	An Israelite who violated any of these rules of holy war would become an enemy. As the violation was punishable by death, the defiant person would become a herem, namely, devoted to destruction.
-
-7.	Finally, God’s direct involvement led to decisive and rapid victories in the context of faithful holy war. Examples of this include many battles during the conquest (Josh. 6:16–21, Josh. 10:1–15) and occasions when Israel or Judah was defending its territory, with God’s help, from powerful invading forces (2 Sam. 5:22–25). Conversely, there are negative examples in which God’s lack of involvement resulted in defeat (1 Sam. 31:1–7), such as when the Israelites faced the Amalekites without divine permission and were defeated near Hormah (Num. 14:39–45) or when they were defeated by the insignificant army of Ai (Josh. 7:2–4).
+1. In the unique landscape of ancient Israel, no professional army was permitted. The battles were fought by amateurs and volunteers, a stark contrast with the professionalized military structures in antiquity and those we are familiar with today.
+2. Soldiers were not paid. They obeyed God’s commands in the covenant context and were not to fight for personal gain. In many cases, this meant they were prohibited from taking spoil or plunder.
+3. Divine or holy war could be fought only for the conquest or defense of the Promised Land in that particular historical conjunction. After the conquest, any war of aggression was strictly prohibited. Israel was called to fight for the Promised Land in a specific geographic and historical context. Once they had conquered the land and consolidated their territory, the Israelites were not supposed to expand the borders of the Promised Land through war. God had not called His people to become an expansionist military empire.
+4. The initiation of holy war, considered a divine act, was solely in God’s hands, carried out through His chosen prophets, such as Moses and Joshua. This underscores that war should never be a human initiative but rather a sacred duty.
+5. God’s involvement in holy war required spiritual preparation, which included fasting, abstinence from sex, or other forms of self-denial. The ceremony of circumcision (Josh. 5:1–9) and the celebration of the Passover (Josh. 5:10–12), in the context of the covenant renewal, were part of this preparation.
+6. An Israelite who violated any of these rules of holy war would become an enemy. As the violation was punishable by death, the defiant person would become a herem, namely, devoted to destruction.
+7. Finally, God’s direct involvement led to decisive and rapid victories in the context of faithful holy war. Examples of this include many battles during the conquest (Josh. 6:16–21, Josh. 10:1–15) and occasions when Israel or Judah was defending its territory, with God’s help, from powerful invading forces (2 Sam. 5:22–25). Conversely, there are negative examples in which God’s lack of involvement resulted in defeat (1 Sam. 31:1–7), such as when the Israelites faced the Amalekites without divine permission and were defeated near Hormah (Num. 14:39–45) or when they were defeated by the insignificant army of Ai (Josh. 7:2–4).
 
 With the end of the theocratic nation, the application of these rules was no longer feasible, and for this reason holy war became obsolete. Unfortunately, religious discourse has been used to justify wars even today. However, in light of Scripture, such a use represents a distortion of the biblical text, a fact that should make us all the more critical, and discerning, of the rhetoric used to justify wars nowadays.
 
 The present rules demonstrate the unique character of divine war in the Bible. The practice of war by Israel reflects a divine accommodation of the human condition. However, in a culture in which war, brutality, and violence were the norm, we learn through these rules three essential aspects of holy war that should be kept in mind when modern readers deal with these perplexing biblical passages: (1) war was limited to specific situations; (2) righteous wars were defined by God, who alone knows the human heart and the future; and (3) war, ultimately, represented a deviation from God’s trajectory of peace.
 
-The Good News About God’s Wrath
+**The Good News About God’s Wrath**
 
 Divine war is a concrete manifestation of God’s wrath, not only toward the Canaanites and other nations but also toward His own people in biblical times. The observations above may explain the nature of divine war, but they do not explain how to harmonize these apparent contradictory dimensions of God’s personality: love and anger. In fact, God’s wrath is not a popular topic today. The famous Protestant theologian C. H. Dodd considered the wrath of God to be “an archaic phrase.”—Dodd, The Epistle of Paul to the Romans: The Moffatt New Testament Commentary (New York: Harper & Brothers Publishers, 1932), p. 20. Despite being a less popular topic today, God’s wrath cannot be overlooked, as it is mentioned 580 times in the Old Testament and 100 times in the New Testament. Divine wrath is rooted in four immutable aspects of God’s character.
 
@@ -67,15 +55,13 @@ Of course, a perfect God does not experience wrath as we do. In a mysterious sen
 
 #### Part III: Life Application
 
-Part III: Life Application
-
-Holy War Today?
+**Holy War Today?**
 
 Consider how religious discourse has been used to justify and advance war since antiquity. In the Christian context, the Crusades are a good example. In this military campaign, sanctioned by the Roman Church, the Crusaders believed they were on a spiritual mission to free the Holy Land from the Islamic invaders.
 
 Although most of us agree that any nation has the right to defend itself against aggressors, why should the religious rhetoric of the holy war not be used today? (In the formulation of your answer, remember the biblical concept of holy war.)
 
-Victory by Love
+**Victory by Love**
 
 Jesus won the war between good and evil in an unexpected and unconventional way. Reflect with your class on the following thought:
 
@@ -84,5 +70,3 @@ Jesus won the war between good and evil in an unexpected and unconventional way.
 How can you apply the example of sacrificial love, set by Jesus, as you fight spiritual warfare today?
 
 `Notes`
-
-Notes

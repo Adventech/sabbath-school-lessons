@@ -5,8 +5,6 @@ date:  21/11/2025
 
 #### Accidental Missionary
 
-__
-
 Kim Sun couldn’t believe that the man slammed the door in his face.
 
 The 19-year-old student from South Korea was going door-to-door to invite people to evangelistic meetings in the Philippines. Many people responded kindly when he and his friends knocked. But at this particular house, the 25-year-old man reacted rudely to the visitors. He didn’t reply when one asked if they could enter to visit. He just slammed the door shut.

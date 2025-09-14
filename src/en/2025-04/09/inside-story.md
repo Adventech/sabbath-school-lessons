@@ -5,8 +5,6 @@ date:  28/11/2025
 
 #### Not Winsome Witnessing
 
-__
-
 Kim Sun, a South Korean teen studying at the Adventist University of the Philippines, wondered if he could make a career out of going door-to-door after a man whom he had invited to evangelistic meetings got baptized. He wasn’t Adventist, and it had been his first time going door-to-door.
 
 “What’s this that we were doing?” he asked a pastor who had accompanied the students going door-to-door. “Is it called community service?”

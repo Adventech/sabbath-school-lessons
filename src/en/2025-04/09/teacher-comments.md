@@ -5,11 +5,9 @@ date:  28/11/2025
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Zechariah 9:12
 
-Key Text: Zechariah 9:12
-
-Study Focus: Gen. 3:17–24; Deut. 6:3; Josh. 13:1–7; Heb. 12:28; Lev. 25:1–5, 8–13; Ezek. 37:14, 25.
+**Study Focus:** Gen. 3:17–24; Deut. 6:3; Josh. 13:1–7; Heb. 12:28; Lev. 25:1–5, 8–13; Ezek. 37:14, 25.
 
 The Scriptures emphasize the connection between God’s people and the land, from the beginning to the end. The land is an important topic in the study of first things (protology) and in the study of last things (eschatology) in the Bible. In this week’s lesson, the theological dimension of the land was examined from the perspective of the conquest. In the central part of the book of Joshua, after describing the initial takeover of the land, the author deals with the division of the land among the 12 tribes. While some readers may find the geographical details tedious, they are crucial in conveying the book’s message, demonstrating how God is keeping the promise made to Israel’s forefathers.
 
@@ -17,11 +15,7 @@ In this context, the land is a literal and physical entity, a place where Israel
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **The Theology of Land: Between Creation and New Creation**
-
-The Theology of Land: Between Creation and New Creation
 
 The following chart summarizes the biblical theology of the land from Genesis to Revelation:
 
@@ -29,7 +23,7 @@ The following chart summarizes the biblical theology of the land from Genesis to
 
 In God’s original plan, humanity was designed to subdue the earth (Gen. 1:28) and dwell in a place of eternal pleasure called the Garden of Eden (Gen. 2:8), where Adam and Eve could enjoy direct contact with Him (Gen. 3:8). In this sedentary state, they would enjoy eternal life, conditional upon their loyalty to the Creator. However, sin disrupted this original plan, leading to the first displacement in human history. Under judgment, Adam and Eve experienced exile, moving out from the Garden (Gen. 3:23, 24). From a theological point of view, movement from the place designed by God marked the consequence of disobedience. In this sense, the first family became also the first spiritual refugees, living as nomads, waiting to return.
 
-The first sign of a possible return appeared in Abraham’s call, in which God commanded him: “ ‘Go out from your land . . . to the land that I will show you’ ” (Gen. 12:1, LEB). In salvation history, the importance of Abraham’s call can be appreciated only when one realizes that it marked a transition from judgment to promise. Although Abraham’s family remained nomadic for several centuries, his obedience set in motion a journey toward the Promised Land. Along the way, Abraham experienced periods of exile, temporarily leaving the land and returning later (Gen. 12:10–20, Gen. 20:1–17). Similarly, his descendants also went through cycles of leaving and returning, such as when they became refugees in Egypt, and later slaves, until God intervened on their behalf (Exod. 6:5). Jacques Doukhan properly encapsulates the theological meaning of these nomadic journeys: “Through these nomadic journeys of the seed-family, never arriving, never satisfied, always longing for home, the book of Genesis vibrates with the pulsation of hope. Although they tasted of the divine blessings, signs of God’s faithful fulfillment of His promise, Adam, Noah, and the patriarchs continued to wait for the ultimate divine victory over evil and death. For only this would bring them, and us, the entire creation, back to the Garden of Eden.”—Doukhan, The SDA International Bible Commentary: Genesis (Nampa, ID: Pacific Press, 2016), p. 37.
+The first sign of a possible return appeared in Abraham’s call, in which God commanded him: “ ‘Go out from your land . . . to the land that I will show you’ ” (Gen. 12:1, LEB). In salvation history, the importance of Abraham’s call can be appreciated only when one realizes that it marked a transition from judgment to promise. Although Abraham’s family remained nomadic for several centuries, his obedience set in motion a journey toward the Promised Land. Along the way, Abraham experienced periods of exile, temporarily leaving the land and returning later (Gen. 12:10–20, Gen. 20:1–17). Similarly, his descendants also went through cycles of leaving and returning, such as when they became refugees in Egypt, and later slaves, until God intervened on their behalf (Exod. 6:5). Jacques Doukhan properly encapsulates the theological meaning of these nomadic journeys: “Through these nomadic journeys of the seed-family, never arriving, never satisfied, always longing for home, the book of Genesis vibrates with the pulsation of hope. Although they tasted of the divine blessings, signs of God’s faithful fulfillment of His promise, Adam, Noah, and the patriarchs continued to wait for the ultimate divine victory over evil and death. For only this would bring them, and us, the entire creation, back to the Garden of Eden.”—Doukhan, _The SDA International Bible Commentary: Genesis_ (Nampa, ID: Pacific Press, 2016), p. 37.
 
 The 400-year pilgrimage of Abraham’s children finished with the 40-year journey in the wilderness, where Moses’ final speech, in Deuteronomy, prepared Israel to transition from promise to restoration, from a nomadic to a sedentary state. Theologically, Joshua led Israel in returning to God’s land. This return does not signify that Canaan is the actual location of the Garden of Eden. God’s land is not defined by geographical boundaries but rather by His presence in its midst (Exod. 25:8, Exod. 33:14).
 
@@ -45,38 +39,30 @@ The nomadic experience of God’s people toward their definite resting place com
 
 #### Part III: Life Application
 
-Part III: Life Application
-
 **Land and Hope**
-
-Land and Hope
 
 In the biblical context, land and hope are intrinsically connected. This connection is evident in Zechariah 9:12, in which God invites the “prisoners of hope” to return. These individuals had been waiting for this call during the long years of exile, and the time had finally come for them to return to Jerusalem.
 
-1.	What does the image “prisoner of hope” convey to you personally?
+1. What does the image “prisoner of hope” convey to you personally?
+2. What parallels do you find between the experience of the exiles in Babylon and your spiritual experience, particularly in the context of the imminent second coming of Jesus?
 
-2.	What parallels do you find between the experience of the exiles in Babylon and your spiritual experience, particularly in the context of the imminent second coming of Jesus?
-
-Hope, Love, and Faith
+**Hope, Love, and Faith**
 
 Augustine of Hippo said: “There is no love without hope, no hope without love, and neither love nor hope without faith.”—Augustine of Hippo, The Enchiridion: On Faith, Hope, and Love (Washington, DC: Gateway, 1996), p. 9. These three elements also appear together in the song written by Benjamin Gaither, Jeff Silvey, and Kim Williams:
 
-I’m a prisoner of hope, bound by my faith
-
-Chained to Your love, locked up in grace
-
-I’m free to leave but I’ll never go
-
-I’m wonderfully, willingly,
-
-Freely a prisoner of hope.
-
+I’m a prisoner of hope, bound by my faith\
+Chained to Your love, locked up in grace\
+I’m free to leave but I’ll never go\
+I’m wonderfully, willingly,\
+Freely a prisoner of hope.\
 —Gaither Vocal Band, “Prisoner of Hope,” 2008.
 
 In what ways do you see the relationship between hope, love, and faith in your spiritual journey?
 
-Living as a Refugee
+**Living as a Refugee**
 
 According to the United Nations Refugee Agency, there are approximately 44 million refugees worldwide. Most of them have been forced to flee from their countries because of violence, political instability, and war. In the Old Testament law, the experience of Israel as an alien in Egypt should impact how the Israelites were supposed to treat the sojourners among them (Exod. 23:9).
 
 How should your own experience as a spiritual sojourner impact the way you deal with refugees today?
+
+`Notes`

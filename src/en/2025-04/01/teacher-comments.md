@@ -5,11 +5,9 @@ date:  03/10/2025
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Joshua 1:7
 
-Key Text: Joshua 1:7
-
-Study Focus: Deut. 18:15–22; Joshua 1; Heb. 6:17, 18; Eph. 6:10–18; Ps. 1:1–3; Rom. 3:31.
+**Study Focus:** Deut. 18:15–22; Joshua 1; Heb. 6:17, 18; Eph. 6:10–18; Ps. 1:1–3; Rom. 3:31.
 
 Even though Moses has passed away, the influence of his leadership still lingers as a new era dawns. In the opening of the book that bears his name, Joshua is encouraged by God to trust Him. God urges the new leader to follow in Moses’ footsteps. Times are new, but the commandments and promises remain the same: cross, take, divide, and serve! The condition is the same: obedience as a response to God’s merciful acts of deliverance in the past, based on a trustful relationship with Him. The only difference is the individuals: another generation has arisen. In a certain sense, the book of Joshua offers a fresh opportunity for God’s people today, as they stand on the shores of the Promised Land.
 
@@ -19,27 +17,23 @@ History repeats itself today. The church, under the leadership of Christ, the ne
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **Spiritual Leadership**
-
-Spiritual Leadership
 
 The commissioning of Joshua as Moses’ substitute occurs immediately after the painful memory of Moses’ failure in the desert of Sin, which prevented the great leader from entering Canaan (Num. 20:9–12). In the larger context, this event is closely connected to the request of the daughters of Zelophehad (Num. 27:1–12). As part of the first generation, Zelophehad was doomed to die in the desert because of unbelief and rebellion. With Aaron already deceased and Moses nearing his end, the aged leader prays for a successor. His prayer, and God’s response, define Joshua’s future leadership role. His role would be predominantly military, as implied in the expression “ ‘go out before us’ ” (1 Sam. 8:20). Indeed, his military prowess is already evident in Exodus 17:9–14, wherein he leads the Israelites against the forces of Amalek. This campaign demonstrates how Joshua was being prepared by the Lord, long before his actual commission.
 
-In God’s response to Moses, Joshua is described as a man filled with the Spirit (ruah) (Num. 27:18). Such an evaluation from the One who knows the heart is significant. In the Old Testament, the Hebrew word ruah can denote an impersonal wind, human breath, disposition, or mind, among other things. It can also refer to the divine Agent who has been actively involved in worldly affairs since Creation (Gen. 1:2). The presence of the Holy Spirit in the Pentateuch is revealed through three manifestations: wisdom, prophecy, and leadership. Joseph is the first person identified as having the Spirit of God (Gen. 41:38). All three aspects are evident in his life: as a prophet, he receives dreams; as a wise man, he interprets Pharaoh’s dream; and as a leader, he devises a plan to save not only his people but also other nations affected by the famine.
+In God’s response to Moses, Joshua is described as a man filled with the Spirit (_ruah_) (Num. 27:18). Such an evaluation from the One who knows the heart is significant. In the Old Testament, the Hebrew word _ruah_ can denote an impersonal wind, human breath, disposition, or mind, among other things. It can also refer to the divine Agent who has been actively involved in worldly affairs since Creation (Gen. 1:2). The presence of the Holy Spirit in the Pentateuch is revealed through three manifestations: wisdom, prophecy, and leadership. Joseph is the first person identified as having the Spirit of God (Gen. 41:38). All three aspects are evident in his life: as a prophet, he receives dreams; as a wise man, he interprets Pharaoh’s dream; and as a leader, he devises a plan to save not only his people but also other nations affected by the famine.
 
-In Joshua’s ministry, wisdom, prophecy, and leadership also will converge. He is filled with “the spirit of wisdom” (ruah hokhmah) (Deut. 34:9). Moreover, he is among the 70 elders who receive the Spirit to prophesy (Num. 11:16–30). Finally, in Numbers 27:18, he is appointed by God as a leader in whom the Spirit dwells.
+In Joshua’s ministry, wisdom, prophecy, and leadership also will converge. He is filled with “the spirit of wisdom” (_ruah hokhmah_) (Deut. 34:9). Moreover, he is among the 70 elders who receive the Spirit to prophesy (Num. 11:16–30). Finally, in Numbers 27:18, he is appointed by God as a leader in whom the Spirit dwells.
 
 Despite the notable abilities Joshua developed throughout the years serving Moses, his leadership is defined in spiritual terms. Only spiritual leadership makes sense in the context of spiritual warfare. Ultimately, the battles Joshua was called to wage belonged to God, not to him or to Israel.
 
-The Pattern of the Covenant: Blessing, Promise, and Obedience
+**The Pattern of the Covenant: Blessing, Promise, and Obedience**
 
 From the first dialogue of God with humanity, the pattern of the covenant is evident: God blesses before giving commands (Gen. 1:28). In various subsequent covenants, divine blessing is manifested through God’s promises of deliverance, offspring, and land. For example, when God called Noah to build the ark, it showcased His commitment to providing a means of salvation to humanity. Noah received more specific commandments only after the great deliverance of those in the ark. Similarly, Abraham obeyed God’s instruction to leave his homeland only after hearing God’s promised blessings (Gen. 12:1–3). The Mosaic covenant follows a similar pattern, as God reminded the people of what He had done for Israel before giving the Ten Commandments in Exodus 20. Finally, in David’s desire to build a house for the Lord in Jerusalem, God promised to build a house for David instead (2 Sam. 7:27). In the new covenant, God places His law in the hearts of His people so that they can freely obey Him (Jer. 31:33).
 
-Thus, any legalistic view of the law of God is not aligned with the biblical view of obedience. Obedience is always a human response to the divine initiative to bless the people of God. Salvation was never, and is not, reliant on human accomplishments, nor will it ever rely on human accomplishments. Such a legalistic view of the Old Testament law distorts its true purpose. Roy Gane aptly affirms: “If we overcome our neglect of biblical law, won’t this lead to legalism? Not if we understand the purpose of God’s law. It is a standard of acting and thinking in harmony with God’s character of love. It is not, cannot be, and never was intended to be a means to salvation. Doing right can never redeem us from our mortality or past sins. Only God’s grace through Christ’s sacrifice, received by faith, can do that. God’s commandments are for people who are already delivered.”—Roy Gane, Leviticus, Numbers: The NIV Application Commentary (Grand Rapids, MI: Zondervan, 2004), p. 310.
+Thus, any legalistic view of the law of God is not aligned with the biblical view of obedience. Obedience is always a human response to the divine initiative to bless the people of God. Salvation was never, and is not, reliant on human accomplishments, nor will it ever rely on human accomplishments. Such a legalistic view of the Old Testament law distorts its true purpose. Roy Gane aptly affirms: “If we overcome our neglect of biblical law, won’t this lead to legalism? Not if we understand the purpose of God’s law. It is a standard of acting and thinking in harmony with God’s character of love. It is not, cannot be, and never was intended to be a means to salvation. Doing right can never redeem us from our mortality or past sins. Only God’s grace through Christ’s sacrifice, received by faith, can do that. God’s commandments are for people who are already delivered.”—Roy Gane, Leviticus, _Numbers: The NIV Application Commentary_ (Grand Rapids, MI: Zondervan, 2004), p. 310.
 
-Law and Wisdom
+**Law and Wisdom**
 
 The wisdom literature in the Old Testament, which comprises the books of Job, Proverbs, and Ecclesiastes, plus some psalms, explores two prominent themes: Creation and law. These books demonstrate how Creation and law should impact the way that believers relate to God and to one another. There is, in fact, a close relationship between law and wisdom. This relationship is already apparent in Deuteronomy 4:6: “ ‘Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, “Surely this great nation is a wise and understanding people” ’ ” (NKJV). The greatness of Israel would not be found in wealth and military power but in wisdom resulting from the faithful observance of God’s commandments. Naturally, success and prosperity would follow. Such success and prosperity can be seen in the results of Solomon’s request for wisdom (1 Kings 3:13).
 
@@ -49,48 +43,32 @@ The same principle is found in Joshua 1, in which the leader, who embodies the w
 
 #### Part III: Life Application
 
-Part III: Life Application
+**Leadership**
 
-Leadership
-
-1.	There are several leadership models, such as the charismatic model, the transformational model, and the servant-leader model, among others. All these leadership profiles may be found in the Bible. However, the distinct mark of successful leaders in biblical terms is their spiritual competence. Starting with Joshua, discuss the qualities of a spiritual leader in the life of the following characters:
-
-A.	Joshua
-
-B.	Abraham
-
-C.	Deborah
-
-D.	David
-
-E.	Esther
-
-F.	Peter
-
-G.	Paul
-
-2.	How would you characterize a spiritual leader today?
-
-3.	The leaders listed in queston 1 of this section also exercised responsibility outside the religious realm. Is it possible to be a spiritual leader as a “secular” administrator? Why or why not? If yes, how?
+1. There are several leadership models, such as the charismatic model, the transformational model, and the servant-leader model, among others. All these leadership profiles may be found in the Bible. However, the distinct mark of successful leaders in biblical terms is their spiritual competence. Starting with Joshua, discuss the qualities of a spiritual leader in the life of the following characters:
+	- A. Joshua
+	- B. Abraham
+	- C. Deborah
+	- D. David
+	- E. Esther
+	- F. Peter
+	- G. Paul
+2. How would you characterize a spiritual leader today?
+3. The leaders listed in queston 1 of this section also exercised responsibility outside the religious realm. Is it possible to be a spiritual leader as a “secular” administrator? Why or why not? If yes, how?
 
 **Resting in God’s Promises**
 
-Resting in God’s Promises
-
 The Seventh-day Adventist Church emerged as a movement based on the promise of Jesus’ second coming, as indicated by its denominational name. The divine rest promised to Israel in the book of Joshua was achieved only in Solomon’s time, centuries after the initial conquest. However, even this rest was temporary. In Hebrews 11:13, we read that the examples of the faithful did not receive what was promised. Despite questions about the apparent delay of Jesus, the experience of God’s people throughout history has been one of an ongoing march toward the promises.
 
-Consider This: How can the examples of faith found in Hebrews 11 encourage you as you continue moving toward the consummation of the blessed hope?
+**Consider This:** How can the examples of faith found in Hebrews 11 encourage you as you continue moving toward the consummation of the blessed hope?
 
 **Called to Be Strong and Courageous**
 
-Called to Be Strong and Courageous
-
 Discuss in your class how, as Seventh-day Adventists, we are required to be strong and courageous in the different environments in which we are called to live our faith today:
 
-A.	Family
+- A. Family
+- B. Neighborhood
+- C. School
+- D. Work
 
-B.	Neighborhood
-
-C.	School
-
-D.	Work
+`Notes`
