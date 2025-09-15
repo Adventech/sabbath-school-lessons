@@ -32,6 +32,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2025-03-11.mp4
           target: tl/2025-03/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2025-03-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2025-03-12.mp4
+          target: tl/2025-03/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2025-03-12.webp
     - artist: Solid Rock Ministries
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2025-03-01.mp4
@@ -67,3 +70,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2025-03-11.mp4
           target: tl/2025-03/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2025-03-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2025-03-12.mp4
+          target: tl/2025-03/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2025-03-12.webp
