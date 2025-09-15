@@ -31,4 +31,4 @@ Inácio, now 68, has led four to 11 people to baptism every year for the past 36
 
 “I can live without anything in the world, but not without Bible studies,” he said.
 
-_One of the Thirteenth Sabbath mission projects for this quarter is a church at Pernambucano Adventist Academy in Brazil’s state of Pernambuco, where Inácio Manoel lives. Thank you for planning a generous offering. Watch a short YouTube video of Inácio at: bit.ly/Inacio-Brazil._
+_One of the Thirteenth Sabbath mission projects for this quarter is a church at Pernambucano Adventist Academy in Brazil’s state of Pernambuco, where Inácio Manoel lives. Thank you for planning a generous offering. Watch a short YouTube video of Inácio at: https://bit.ly/Inacio-Brazil._

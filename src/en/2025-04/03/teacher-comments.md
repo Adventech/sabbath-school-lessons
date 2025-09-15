@@ -5,11 +5,9 @@ date:  17/10/2025
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Joshua 4:23, 24
 
-Key Text: Joshua 4:23, 24
-
-Study Focus: Joshua 3, Num. 14:44, Luke 18:18–27, Joshua 4, John 14:26, Heb. 4:8–11.
+**Study Focus:** Joshua 3, Num. 14:44, Luke 18:18–27, Joshua 4, John 14:26, Heb. 4:8–11.
 
 With the return of the spies, Israel is ready to enter the Promised Land. There is still an insurmountable barrier, at least from a human perspective: the Jordan River during the flood season. However, nothing can stop the living God of Israel. Again, He is about to show His sovereignty as the Lord of all the earth (and waters). Since Israel left Egypt, the issue has never been God’s power to work wonders; it has been His people’s preparedness, which once more will be tested as they are called to sanctify themselves. Like their ancestors walking toward the shores of the Red Sea, the Israelites pack up and leave the camp one last time, before finally entering Canaan.
 
@@ -17,13 +15,9 @@ More than four hundred years after the initial promise to Abraham, they walk aga
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **Watery Theology**
 
-Watery Theology
-
-Several parallels exist between the crossing of the Red Sea and the Jordan River. Among them are the use of three significant Hebrew terms: (1) the Hebrew verb plʾ (“wonder”), to designate both of the miraculous crossings (Exod. 15:11, Josh. 3:5); (2) the word ned, to refer to the piling up of the water as a “heap” (Exod. 15:8, Josh. 3:16); and (3) the rare word harabah, which means “dry land” (Exod. 14:21, Josh. 3:17). Additionally, God Himself traces a parallel between Moses and Joshua in Joshua 3:7, explicitly connecting the two episodes. The psalmist sees the two events as only one (for example, Ps. 114:1, 3, 5).
+Several parallels exist between the crossing of the Red Sea and the Jordan River. Among them are the use of three significant Hebrew terms: (1) the Hebrew verb plʾ (“wonder”), to designate both of the miraculous crossings (Exod. 15:11, Josh. 3:5); (2) the word ned, to refer to the piling up of the water as a “heap” (Exod. 15:8, Josh. 3:16); and (3) the rare word _harabah_, which means “dry land” (Exod. 14:21, Josh. 3:17). Additionally, God Himself traces a parallel between Moses and Joshua in Joshua 3:7, explicitly connecting the two episodes. The psalmist sees the two events as only one (for example, Ps. 114:1, 3, 5).
 
 But what is the theological meaning of the Jordan crossing? This week, the author already has guided us through the typological meaning of the event in light of Jesus and the church. Thus, we can explore here the theological meaning of the crossing to its original audience.
 
@@ -31,7 +25,7 @@ Today, if you visit the Jordan River, it’s hard to imagine the challenge its c
 
 In the minds of ancient Near Eastern people, such as the Canaanites, the sea had mythological nuances. It was the place their deities came from when the forces of chaos were subdued by more powerful gods.
 
-According to the Canaanite myth, Baal, who was the patron god of land, became the supreme god of the storm when he defeated Yam (the word for “sea” in Hebrew), the god of the sea. Thus, “in ancient polytheistic thinking, nations won battles on the earth because their patron gods won battles in the cosmos. If Yahweh, God of Israel, could defeat and bend so easily to His purposes the power of the river-god in full flood, what would He do to Baal? What, then, would Yahweh’s people do to Canaan?”—Joseph Coleson, “Joshua,” in Cornerstone Biblical Commentary: Joshua, Judges, Ruth (Carol Stream, IL: Tyndale House Publishers, 2012), p. 56. With this historical background in mind, the crossing of the Jordan expresses a threefold theological dimension that is not readily apparent to modern readers.
+According to the Canaanite myth, Baal, who was the patron god of land, became the supreme god of the storm when he defeated Yam (the word for “sea” in Hebrew), the god of the sea. Thus, “in ancient polytheistic thinking, nations won battles on the earth because their patron gods won battles in the cosmos. If Yahweh, God of Israel, could defeat and bend so easily to His purposes the power of the river-god in full flood, what would He do to Baal? What, then, would Yahweh’s people do to Canaan?”—Joseph Coleson, “Joshua,” in _Cornerstone Biblical Commentary: Joshua, Judges, Ruth_ (Carol Stream, IL: Tyndale House Publishers, 2012), p. 56. With this historical background in mind, the crossing of the Jordan expresses a threefold theological dimension that is not readily apparent to modern readers.
 
 First, God’s status as “the Lord of all the earth” (Josh. 3:11, 13) highlights an essential difference between the Canaanite deities and Yahweh. His dominion is not restricted to any territory. All the earth belongs to Him and is under His jurisdiction. He is the true Owner and Lord of the world, and, in this sense, Baal, which also means “owner” or “lord,” is an impostor. God’s power over the water serves as proof of His supremacy.
 
@@ -41,7 +35,7 @@ Finally, Yahweh is a holy God. The ark of the covenant appears at least twenty t
 
 These three theological aspects—God’s dominion, victory, and holiness—should have been in the Israelites’ minds as they entered the idolatrous land of Canaan. The memory of this spectacular day should have served as an antidote against idolatry, an antidote that, unfortunately, Israel did not take.
 
-The Memory Problem
+**The Memory Problem**
 
 The concept of memory in the Bible is dynamic because it encompasses more than just the cognitive process of recalling information. This concept is shown when, on several occasions, God “remembers” His people (for example, Exod. 2:24). When God remembers, He acts favorably toward His people. Therefore, God’s call to His people to remember is also a call for them to take action.
 
@@ -53,17 +47,13 @@ The result was apostasy in the form of idolatry, which persisted throughout the 
 
 #### Part III: Life Application
 
-Part III: Life Application
-
-Evangelistic Opportunities
+**Evangelistic Opportunities**
 
 In the original context of the Old Testament, the miracles of the Red Sea and the Jordan River emphasize God’s divine power to overcome the forces of evil and His superiority over all other deities. These public displays aimed to be not only demonstrations of divine strength per se but also evangelistic opportunities, so that other nations could know the truth about the God of Israel.
 
 How can you use every experience with God in your life as an opportunity to show others the true nature of the God you worship?
 
 **Remembering the Past**
-
-Remembering the Past
 
 One of the most pleasant moments we have as a family is the moment we sit down to look through old photos. These pictures are frozen moments in time, filled with emotions. In a way, remembering is like reliving those memories.
 
@@ -72,3 +62,5 @@ Consider your life as a large photo album and try to identify the moments in whi
 In one sermon entitled “When God Remembers,” Hans K. LaRondelle said that remembering “the past means to renew our hope for the future.” In the same vein, speaking about how God was conducting the Seventh-day Adventist movement, Ellen G. White memorably says: “We have nothing to fear for the future, except as we shall forget the way the Lord has led us.”—Life Sketches, p. 196.
 
 Share with your class how the memory of God’s past acts in your life has encouraged you in difficult times.
+
+`Notes`
