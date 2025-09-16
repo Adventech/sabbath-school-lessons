@@ -23,4 +23,4 @@ Three days later, Sudhakar noticed that the tree was dying. All of its leaves fe
 
 Townspeople were astounded as word spread around town about what had happened. Large numbers flocked to the center of influence. Sudhakar taught the townspeople to pray to the only true God. Seven people began to attend Sabbath worship services in the center of influence and later were baptized.
 
-_Pray for Global Mission pioneers who, like Sudhakar, have accepted the challenge of proclaiming the gospel to unreached people groups around the world. Learn more about Global Mission pioneers: bit.ly/GMPioneers_
+_Pray for Global Mission pioneers who, like Sudhakar, have accepted the challenge of proclaiming the gospel to unreached people groups around the world. Learn more about Global Mission pioneers: https://bit.ly/GMPioneers_

@@ -5,8 +5,6 @@ date:  26/12/2025
 
 #### “How Do We Love God?”
 
-__
-
 Kim Sun, a missionary from South Korea, shared 15 stories of God’s love with the residents of a remote town in the Philippines for three months.
 
 The townspeople were amazed to learn that God created everything in the world for them. They marveled at God’s love in the parables of the Good Samaritan and the Prodigal Son. Their hearts were touched to realize that Jesus died on the cross for them. After three months, many said, “We understand that God loves us. But how can we respond? How do we love God?”

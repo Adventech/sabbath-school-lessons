@@ -5,8 +5,6 @@ date:  05/12/2025
 
 #### Trusting in God’s Timing
 
-__
-
 For four years, Kim Sun argued with his parents about the Bible every time he came home to South Korea on vacation from his theology studies at the Adventist University of the Philippines. After graduating, he kept touting Adventist doctrines as he studied for a master’s degree in theology in South Korea. The arguments grew so intense that his parents’ church organized a prayer vigil for his parents, who served as a church deacon and deaconess. About 100 people prayed that the parents wouldn’t be swayed into leaving their church. Finally, Mother asked Sun to stop discussing the Bible.
 
 Sun was dismayed until he heard a preacher say that God has an individual plan for each person. He realized that his plan for his parents might not be God’s plan. He decided to pray and trust God’s timing. He didn’t talk to his parents about the Bible for two years.

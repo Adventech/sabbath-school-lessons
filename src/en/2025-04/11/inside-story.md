@@ -5,8 +5,6 @@ date:  12/12/2025
 
 #### Mission: God’s Helping Hand
 
-__
-
 Kim Sun was excited to be sent to a remote area of the Philippines to serve as a missionary for 10 months with the 1000 Missionary Movement. But he wondered how he would spend those 10 months. He remembered that he had argued with his parents about the Bible for five years and gotten nowhere. Now he only had 10 months.
 
 As he prayed, he thought, “If I bring the Bible first, maybe people will reject it like my parents. Maybe I first need to show them the character of Jesus.”
