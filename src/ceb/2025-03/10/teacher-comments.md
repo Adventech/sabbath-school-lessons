@@ -1,0 +1,64 @@
+---
+title:  Komento sa Magtutudlo
+date:   05/09/2025
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto:** Exodo 24:3
+
+**Tutokan sa Pagtoon:** Exodo 24:1–31:18
+
+**Introduksiyon:** Giluwas sa Ginoo ang Iyang katawhan gikan sa gahum sa Ehipto, naghatag kanila og kagawasan, nagdala kanila latas sa kamingawan ngadto sa Iyang kaugalingon didto sa Sinai, ug nagmugna sa Iyang tugon sa gugma kanila (Exodo 19:3–6; Deuteronomio 7:9, 12; Nehemias 9:32). Ang Iyang grasya ug pagtagad alang sa Iyang katawhan makapahibulong. Diha sa usa ka gamhanan nga pagpakita sa Iyang himaya didto sa Sinai, Iyang gisulti ang Napulo ka mga Saad (ang gasa sa Dekalogo, gilitok diha sa Exodo 20) ug nagpasabut kanila sa dugang ka detalye diha sa Timaan sa Tugon (Exodo 20:22–23:19). Karon gilig-on sa Ginoo kini nga tugon o kasabutan uban sa Israel diha sa usa ka importante nga seremonya nga migamot sa halad sa mananap, nga nagtudlo ngadto sa halad ni Cristo, ug giselyohan sa dugo.
+
+### Bahin II: Komentaryo
+
+**Ang Pagmatuud sa Tugon**
+
+1. Ang pagmatuud sa tugon naglambigit sa daghang importante nga mga elemento:
+2. Ang pagsaysay ni Moises sa mga pulong ug balaod sa Ginoo (Exodo 24:3);
+3. Ang pagsulat ni Moises sa Libro sa Tugon (Exodo 24:4a);
+4. Pagtukod sa usa ka halaran (Exodo 24:4b);
+5. Pagpabarog sa napulo ug duha ka mga haligi nga bato, nga nagrepresentar sa napulo ug duha ka mga tribo sa Israel (Exodo 24:4c);
+6. Ang halad nga sinunog ug sa mga kalinaw (Exodo 24:5); pagsablig ni Moises sa katunga sa dugo sa halad nga sinunog ibabaw sa halaran (Exodo 24:6);
+7. Ang iyang pagbasa sa Basahon sa Tugon (Exodo 24:7a);
+8. Ang positibo nga mga tubag sa katawhan (Exodo 24:3, 7b);
+9. Pagsablig ni Moises sa laing katunga sa dugo sa halad nga mananap ibabaw sa mga tawo (Exodo 24:8a);
+10. Pagsulti ni Moises: “Ania karon ang dugo sa tugon [mga pulong nga makita lang diha sa Hebreo nga Biblia; itandi sa Zacarias 9:11, Mateo 26:28, Marcos 14:24 nga gibuhat ni Jehova uban kaninyo mahitungod niining tanan nga mga pulong” (Exodo 24:8b);
+11. Usa ka salosalo sa tugon, uban sa kapitoan ug upat ka mga pangulo, ibabaw sa Bukid sa Sinai (Exodo 24:9–11).
+
+Sa pagmugna sa tugon, ang katawhan sa Dios mitubag sa makatulo ka beses sa sama nga paagi ngadto sa maloloy-ong mga pulong sa Dios: “Pagabuhaton namo ang tanang mga pulong nga giingon ni Jehova” (Exodo 19:8; tan-awa usab sa Exodo 24:3, 7). Unsay sayup niana nga saad? Nga mao, ang ilang pagsalig sa kaugalingon, ang ilang mabaw nga pagsabut sa gahum sa sala ug sa ilang makasasala nga kinaiyahan, ug sa ilang kapakyasan sa pagila sa ilang pagkinahanglan sa tabang sa Dios. Sa katinuuran, pipila pa lamang ka mga semana sa ulahi, daghan kanila ang nanagsayaw palibut sa usa ka bulawan nga nating baka. Ang husto nga tubag mao: “Uban sa panabang sa Ginoo ug pinaagi sa gahum sa Iyang grasya, among buhaton ang tanan nga gisulti sa Ginoo.”
+
+Si Josue, usa ka matinumanon kaayo nga sulogoon ni Moises ug sa ulahi usa ka maayo kaayo nga pangulo sa katawhan sa Dios, sa personal nakadungog niini nga maayo kaayo nga kahulogan sa mga saad ug nahibalo kung unsa ka huyang, maluya, ug dali ra nga mapakyas. Sa daghang panahon iyang nasaksihan ang apostasiya sa mga Israelita. Sa diha nga sila misaad pagusab sa ulahi nga panahon, “Kami usab magalagad kang JEHOVA” (Josue 24:18), gisultihan sila ni Josue sa matinudanon gayod nga “dili sila makahimo pagalagad kang JEHOVA” (Josue 24:19) tungud kay ang ilang desisyon dili lig-on, tungud kay nagmahal gihapon sila sa ubang pagano nga mga diosdios (tan-awa sa Josue 24:14, 23) ug wala magsalig sa tabang sa Dios kondili sa ilang lig-on nga kabubut-on. Apan, nagpamatuud sa personal si Josue: “Apan alang kanako ug ang akong panimalay, kami magalagad kang JEHOVA” (Josue 24:15).
+
+Gidapit sa Dios si Moises uban kang Aaron ug duha sa iyang mga anak nga lalaki, si Nadab ug Abihu, ug ang 70 ka mga ansiyano sa pakigtagbo Kaniya ibabaw sa Bukid sa Sinai (Exodo 24:9, 10). Pinaagi sa Iyang duul nga presensya, naghandum ang Dios sa pagpadayag sa dugang pa ka bug-os kung kinsa Siya. Gituyo sa paghisgot nga nagsalosalo ug nanginum sila niadtong panahona. Wala gipasabut kong kinsa ang nagandam sa kombira, bisan malagmit kaayo nga ang Ginoo sa Iyang kaugalingon. Ang pagsalo sa pagkaon maoy laing matang sa pagselyo sa usa ka tugon, busa usa kini nga pagkaon sa kasabutan o tugon. Sa kapanahonan sa Biblia, ang mao nga buhat gayod sa pagsalo o dungan nga pagkaon nagpalig-on sa usa ka halalum nga pakighigalaay ug usa ka kadugtongan sa pamilya ug panagigsoon. Kon adunay walay maayo nga pagsinabtanay tali niadtong nagsalosalo sa pagkaon, kini mao ang pagpasayloay, ug gihatag ang saad niadtong nagsalmot sa kombira nga maghiusa sila sa usag usa sa hangtod (tan-awa, pananglitan, ang pagpangaon ni Jacob ug ni Laban, diha sa Genesis 31:54).
+
+Atong masinatian ang sama nga panaguban sa tugon kon atong saulogon ang kinabuhi ug kamatayon ni Jesus panahon sa Panihapon sa Ginoo, ang Komunyon. Dapiton sa Dios ang mga tumotoo sa pagbaton sa usa ka suud nga pakigdugtong uban Kaniya ug sa usag-usa pinaagi sa paghiusa sa pagkaon ug paginum. Ang mosalmot niini nga mahandumon nga seremonya magporma sa usa ka pamilya uban kang Cristo tungud kay magsubli kini ug maghimo nga dayag sa Iyang gibuhat alang kanato. Ang komunyon maoy panahon nga ang
+
+Iyang iglesya mapalig-on pagusab ug ang usa ka komunidad sa pagtoo nga maporma pagusab, sa pagpakita nga Siya mao ang ilang Ginoo, Hari, ug Higala. Ang mga sakup sa iglesya mahiusa uban Kaniya ug sa usag-usa. Mabalaan sila pinaagi sa Iyang pakiguban kanila. Ang bugkos maselyohan pinaagi sa Iyang presensya ug sa Pulong.
+
+**Ang Tabernakulo sa Dios**
+
+Duul sa usa sa tulo ka bahin sa libro sa Exodo naghisgot bahin sa Tabernakulo, busa nagpaila sa pagkaimportante niini. Ang Exodo 25 ngadto sa 31 naghatag sa detalyado nga plano, mga pahimangno bahin sa desinyo, ug sa materyales nga gamiton, samtang ang Exodo 35 ngadto sa 40 nagasoy kon unsaon pagtukod niini ug ang aktuwal nga pagpabalaan sa santuwaryo alang sa balaan nga mga kagamitan niini. Unsa ang kahinungdanon niini nga pagasoy?
+
+Ang labing mahinungdanong butang sa santuwaryo dili ang mga butang niini, bisan og dili kini malimtan tungud kay mao kini ang nagpahimutang sa kahimtang kung unsa ang buhaton sulud sa tabernakulo. Ang labing mahinungdanong butang mao ang panghitabo, ang aktuwal nga kalihokan nga buhaton didto.
+
+Sama kini og pagadto sa sinehan aron pagtan-aw sa salida uban sa nagkalainlaing mga eksena. Unsa ang anaa sa entablado nagsulti sa mananan-aw kong ang sugilanon mahitabo ba niana nga adlaw o sa tungang gabii ba, kong anaa kini mahitabo sa usa ka lungsod, palasyo, sementeryo, o sa kombira sa kasal, kini ang panguna nga mga tawo, ug daghan pang mga detalye diha. Mahinungdanon ang sinugdanan alang sa pagsabut sa maong drama. Sa sama nga paagi, ang atong tutokan bahin sa tabernakulo kinahanglan sa kanunay anaa sa kalihokan niiini, ug dili lang sa palibot, sa mga gamit, ug sa matang sa halad, aron atong mailhan kung unsay gilarawan. Kinahanglan atong masabtan ang kahulogan niini nga tanan. Ang tabernakulo maoy monumento nga butang sa leksyon sa plano sa Dios sa pagtubos.
+
+Ang mga serbisyo diha sa santuwaryo nagpasundayag sa Dios. Sa dramatiko nga paagi, sila naghatag og kamatuuran kung kinsa ang Dios; alang sa unsa ang Iyang gibarogan; ang mga kaayohan nga Iyang gipabarog; unsaon Niya pagluwas ang mahinulsolon nga makasasala; unsaon Niya pagtagad ang sala ug sa masukihon nga mga tawo nga daotan; unsaon Niya paghukum, ug pagdala, sa katapusan nga sulbad sa problema sa sala, aron nga moabut ang adlaw ang daotan mahanaw na. Kini nga drama nagpakita, sa katapusan, nga ang kalinaw, pagpasiguli, ug panagkauyon mapahiuli pagusab.
+
+Gusto sa Dios mopuyo uban sa Iyang katawhan. Ang tabernakulo maoy Iyang yutan-ong puluy-anan nga dapit, dili kay Siya wala na maguban kanila, o masulud dinhi niini, kondili tungud kay gusto Siya magpakita sa Iyang aktuwal, dayag nga presensya ngadto sa Iyang katawhan sa pagpakita nga wala sila maginusara, gibiyaan, o gisalikway, kondili Iyang giatiman sila.
+
+Yano ang pagkasulti ni Pablo nga ang Ginoo dili magpuyo sa mga templo nga hinimo og tawhanong mga kamut (Buhat 17:24, 25), ug si Salomon sa solemne nagpamatuud, human sa pagkatukod sa usa ka kahibulungan nga templo alang Kaniya didto sa Jerusalem, nga bisan ang mga langit dili makahimo pagkupot sa Ginoo: “Apan mopuyo ba gayud ang Dios uban sa mga tawo sa yuta? Ania karon, ang langit sa kalangitan dili makapaarang kanimo; unsa pa ang pagkaubos kining balay nga akong gitukod” (2 Cronicas 6:18). Dayon nagpadayon si Salomon: “Pagpamati sa pag-ampo nga igaampo sa imong alagad paatubang niining dapita. . . . Mamati ka gikan sa imong dapit nga puloy-anan, bisan gikan sa langit; ug sa diha nga ikaw makadungog, magpasaylo ka” (2 Cronicas 6:20, 21). Ang Dios sa Iyang gugma ug kalooy magpaubus nganhi sa atong kahimtang ug mosulud sa atong panahon ug dapit aron makiguban kanato.
+
+Ang makita nga presensya sa Dios maoy hinungdan sa Iyang handum alang sa Israel sa pagtukod alang Kaniya og usa ka tabernakulo taliwala sa kampo. Nagpamatuud si Jehova: “Pabuhaton mo sila ug usa ka balaang puloy-anan alang kanako aron ako magapuyo sa taliwala nila” (Exodo 25:8). Ayaw kalimti ang panumpay nga “ug” niini nga mga pulong (ang maayong hubad adunay “ug,” dili causative nga “aron,” bisan og usa usab kini ka husto nga hubad), alang niini nga “ug” mahinungdanon kaayo alang sa pagpasabut sa teolohiya. Wala magkinahanglan ang Dios sa santuwaryo aron Siya mopuyo, uban sa Iyang katawhan. Ang Iyang presensya naguban kanila sa tanang panahon, ingon nga ang panguna nga tema sa libro sa Exodo mao ang presensya sa Dios uban sa Iyang katawhan. Apan, sa ulahi ang Dios naggamit sa Hebreo nga preposisyon “lamed” (“aron nga” o “aron”), diha sa Exodo 29:46b, aron matin-awan ang matag usa nga ang tuyo sa santuwaryo mao ang Iyang handum sa suud nga pagpuyo uban sa Iyang katawhan ug pagpaila sa Iyang makita nga presensya (Exodo 29:42–46).
+
+Sa diha ang mahimayaon nga templo sa Israel nga gitukod ni Salomon giguba ni Nabucodonosor, ug ang katawhan gidala ngadto sa pagkabihag tungud sa ilang pagkadili-matinumanon (Daniel 9:4–20), ang Dios pinaagi kang propeta Ezekiel nagpasalig sa Iyang katawhan nga Siya mahimo nga “balaan nga puloy-anan sa diriyut nga panahon alang kanila didto sa mga kayutaan diin sila moadto” (Ezequiel 11:16).
+
+Gisultihan sa Dios si Moises nga kinahanglan iyang tukoron ang santuwaryo, sumala sa modelo sa langitnong santuwaryo nga gipakita kaniya didto sa Bukid sa Sinai (Exodo 25:9, 40); tan-awa og dugang ang bahin niini sa Leksyon 13 sa komentaryo nga bahin). Ang labing importante nga dapit sa santuwaryo mao ang Labing Balaan nga Dapit, uban sa sentro nga gamit niini nga mao ang Arka sa Tugon, nga gitawag ang Arka sa Pagpamatuud (Exodo 25:16), tungud kay ang mga pulong sa Dios sa pamatuud o ang Dekalogo ibutang sulud sa Arka (Exodo 40:20). Ibabaw sa Arka, usa ka tabon sa pagpasaylo nga ginama og lonlon bulawan gibutang, usa ka lingkoranan sa kalooy (Hebreo kaporet, gikan sa root kapar, “gipasaylo”; sa Grego hilasterion). Mao kadto nga dapit diin ang katapusang pagpasiguli himoon ug ang gisugid nga mga sala sa katawhan sa Dios papason. Dinhi, maghatag ang Dios sa katapusan sulbad sa problema sa sala ug daotan (tan-awa sa Levitico 16:15, 16, 30). Si Jesu-Cristo mao ang hilasterion, ang Lingkoranan sa Kalooy, ang Halad sa Pasaylo nga mopasaylo ug moputli kanato gikan sa atong mga sala (Roma 3:25; 1 Juan 2:2).
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+1. Human sa pagtukod ni Salomon sa templo, giingnan siya sa Dios: “Kong ang akong katawohan nga gihinganlan sa akong ngalan magmapainubsanon sa ilang kaugalingon, ug magampo, ug mangita sa akong nawong, ug motalikod gikan sa ilang mga dautang dalan; nan ako magapatalinghug gikan sa langit, ug magapasaylo sa ilang sala, ug magaayo sa ilang yuta” (2 Cronicas 7:14). Sa unsa nga paagi kita mabinantayon sa pagpatuman ug pagbuhat ingon nga usa ka komunidad sa hugot nga pagtoo niini nga balaan nga tambag? Unsay makababag sa atong mga pagampo, nga dili maminaw ang Dios, ug motubag ngadto, sa atong mga pagtuaw alang sa panabang?
+2. Unsaon nato pagbag-o sa kasabutan sa gugma uban sa Ginoo panahon sa Komunyon? Nagkinahanglan ba kita og usa ka pinasahi nga seremonya sa pagbuhat niini? Ipasabut.
+3. Si Jesu-Cristo “ang Pulong nahimong tawo ug ipon kanamo” (Juan 1:14). Sa Grego nga pinulongan, sa literal niini gisulti nga “nagtabernakulo uban kanato.” Sa unsa nga paagi ang pagkahimo nga unod ni Jesus ug ang Iyang kinabuhi dinhi sa yuta nagpasalig kanimo nga Siya magauban kanimo ug makasabut sa tanan nimo nga mga kasamok, mga problema, ug sa mga hagit sa kinabuhi?

@@ -5,8 +5,6 @@ date:  26/09/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 40:34, 38
 
 Study Focus: Exod. 35:1–40:38
@@ -15,25 +13,16 @@ Introduction: Before the Israelites began to work on the tabernacle, specific te
 
 God gave Moses a blueprint of the tabernacle, also called the tent of meeting, with instructions on how to construct it (Exodus 25–31). Now the time arrived to actually build it. All material for the tabernacle was first collected (Exod. 35:4–29, Exod. 36:4–7), then craftspeople (including women, see Exod. 35:25, 26) were endowed with the Spirit of God to work on the sanctuary skillfully and artistically (Exod. 35:30–36:4), and the construction began. If diligent work on various garments is included, then, altogether, ten major items had to be prepared:
 
-•	the tabernacle (Exod. 36:8–38),
-
-•	the ark (Exod. 37:1–9),
-
-•	the table (Exod. 37:10–16),
-
-•	the lampstand (Exod. 37:17–24),
-
-•	the altar of incense (Exod. 37:25–28),
-
-•	the anointing oil and incense (Exod. 37:29),
-
-•	the altar of burnt offering (Exod. 38:1–7),
-
-•	basin for washing (Exod. 38:8),
-
-•	the courtyard (Exod. 38:9–20),
-
-•	the priestly garments, the ephod, the breastplate, and other priestly clothing (Exod. 39:1–31).
+- the tabernacle (Exod. 36:8–38),
+- the ark (Exod. 37:1–9),
+- the table (Exod. 37:10–16),
+- the lampstand (Exod. 37:17–24),
+- the altar of incense (Exod. 37:25–28),
+- the anointing oil and incense (Exod. 37:29),
+- the altar of burnt offering (Exod. 38:1–7),
+- basin for washing (Exod. 38:8),
+- the courtyard (Exod. 38:9–20),
+- the priestly garments, the ephod, the breastplate, and other priestly clothing (Exod. 39:1–31).
 
 In Exodus 38:21–31, the material used is enumerated (more than 1 ton of gold, about 3.75 tons of silver, and about 2.5 tons of bronze). Moses inspected all the work on the tabernacle and found that it was done “just as the Lord had commanded” (this phrase is repeated three times to emphasize precision and obedience; Exod. 39:32, 42, 43). Moses was very pleased with the accomplished work, and he blessed all the workers (Exod. 39:43b).
 
@@ -41,11 +30,7 @@ Afterward, the tabernacle was to be set up on the first day of the first month, 
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 **God’s Presence**
-
-God’s Presence
 
 God’s presence means everything to believers. His name “I AM WHO I AM” or “I will be who I will be” means that He is the eternal, all-present God. When God Himself explains the meaning of His name, His presence is emphasized (Exod. 3:13–15).
 
@@ -65,8 +50,6 @@ The same is true when “the Spirit of God came upon” a person. Such a phrase 
 
 **The Earthly and Heavenly Sanctuary**
 
-The Earthly and Heavenly Sanctuary
-
 The Lord commanded Moses to build a sanctuary, according to the pattern (Hebrew: tabnit; Exod. 25:9) or plan (Hebrew: mishpat means literal judgment; Exod. 26:30) that He showed him on Mount Sinai. This pattern was a miniature representation of the heavenly sanctuary, adapted to our human situation and condition but modeled after the heavenly original (Heb. 8:1, 2).
 
 The earthly sanctuary is not constructed according to the heavenly sanctuary on a 1:1 scale. The apostle Paul helps us to understand the vast difference between the heavenly and earthly sanctuaries. He argues that the priests “serve at a sanctuary that is a copy and a shadow of what is in heaven” (Heb. 8:5, NIV) and explains that it was only a shadow of the heavenly reality. This illustration is very fitting.
@@ -78,8 +61,6 @@ The original heavenly temple is incomparable in measures, space, and materials. 
 The rituals of the earthly sanctuary present a very important aspect of salvation by demonstrating how God saves and deals with sin and sinners. The earthly sanctuary reflects the main functions related to the plan of salvation. There were daily services that provided an individual believer forgiveness and assurance of salvation. The yearly services pictured the final and objective solution to the problem of sin: evil will be no more and will be totally eradicated. As a result, God’s character of love, truth, and justice is uplifted, vindicated, and affirmed by the entire universe because He has openly revealed and demonstrated His love. All creatures will recognize His glory, sovereignty, and power. He is worthy of every being’s praise for His goodness and justice, and every person will bow before Him in total admiration (Phil. 2:9, 10; Rev. 15:4). Everyone without any exception will proclaim that God is love.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	Does God stress any prerequisites or conditions that must be fulfilled prior to receiving the gift of the Holy Spirit? Pay careful attention to Peter’s statement in his sermon at Pentecost: “ ‘Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit’ ” (Acts 2:38, ESV). What does this promise mean to you?
 

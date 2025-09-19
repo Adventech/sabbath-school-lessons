@@ -1,0 +1,107 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-000.pdf'
+      target: en/2025-04-yaijbgtgtg/beginnerchild
+      title: "The Beginner Child"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-001.pdf'
+      target: en/2025-04-yaijbgtgtg/tips
+      title: "Tips for the Beginner Sabbath School Teacher"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-002.pdf'
+      target: en/2025-04-yaijbgtgtg/beginneroverview
+      title: "Beginner Sabbath School Overview"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-003.pdf'
+      target: en/2025-04-yaijbgtgtg/quiet
+      title: "A Quiet Moment..."
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-004.pdf'
+      target: en/2025-04-yaijbgtgtg/ataglance
+      title: "At a Glance"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-005.pdf'
+      target: en/2025-04-yaijbgtgtg/simple
+      title: "Simple Program Outline"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-006.pdf'
+      target: en/2025-04-yaijbgtgtg/printedresources
+      title: "Printed Resources"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-007-craft.pdf'
+      target: en/2025-04-yaijbgtgtg/crafts
+      title: "Crafts"
+      start_date: 28/09/2025
+      end_date: 28/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-01.pdf'
+      target: en/2025-04-yaijbgtgtg/01
+      title: 'Hannah Prays for a Baby'
+      start_date: 28/09/2025
+      end_date: 04/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-02.pdf'
+      target: en/2025-04-yaijbgtgtg/02
+      title: 'A Little Helper'
+      start_date: 05/10/2025
+      end_date: 11/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-03.pdf'
+      target: en/2025-04-yaijbgtgtg/03
+      title: 'Samuel Listens to God'
+      start_date: 12/10/2025
+      end_date: 18/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-04.pdf'
+      target: en/2025-04-yaijbgtgtg/04
+      title: 'Ruth and Naomi'
+      start_date: 19/10/2025
+      end_date: 25/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-05.pdf'
+      target: en/2025-04-yaijbgtgtg/05
+      title: 'Kind Boaz'
+      start_date: 26/10/2025
+      end_date: 01/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-06.pdf'
+      target: en/2025-04-yaijbgtgtg/06
+      title: 'I Can Help My Family'
+      start_date: 02/11/2025
+      end_date: 08/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-07.pdf'
+      target: en/2025-04-yaijbgtgtg/07
+      title: 'I Can Help Others'
+      start_date: 09/11/2025
+      end_date: 15/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-08.pdf'
+      target: en/2025-04-yaijbgtgtg/08
+      title: 'I Can Help God'
+      start_date: 16/11/2025
+      end_date: 22/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-09.pdf'
+      target: en/2025-04-yaijbgtgtg/09
+      title: 'The Shining Angel'
+      start_date: 23/11/2025
+      end_date: 29/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-10.pdf'
+      target: en/2025-04-yaijbgtgtg/10
+      title: 'The Journey to Bethlehem'
+      start_date: 30/11/2025
+      end_date: 06/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-11.pdf'
+      target: en/2025-04-yaijbgtgtg/11
+      title: 'Born in a Stable'
+      start_date: 07/12/2025
+      end_date: 13/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-12.pdf'
+      target: en/2025-04-yaijbgtgtg/12
+      title: 'The Shepherds'
+      start_date: 14/12/2025
+      end_date: 20/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-BG-TG-13.pdf'
+      target: en/2025-04-yaijbgtgtg/13
+      title: 'The Wise Men'
+      start_date: 21/12/2025
+      end_date: 27/12/2025

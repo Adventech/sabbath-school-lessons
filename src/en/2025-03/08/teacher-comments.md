@@ -5,8 +5,6 @@ date:  22/08/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 19:4–6
 
 Study Focus: Exod. 19:1–20:20
@@ -15,13 +13,9 @@ Introduction: At Sinai, God establishes a covenant with His people. He is the In
 
 **Lesson Theme**
 
-Lesson Theme
-
 By leading Israel out of Egypt and guiding them through the Red Sea and the wilderness to Mount Sinai, God desired to bring them to Himself (Exod. 19:4). For about a year, He taught them through this process. God was like a loving parent to His people, instructing them in what was best for their prosperity. The people saw how God defeated the Egyptian deities and cared for them through the plagues and their escape from Egypt. Then God gave them the most precious gift: the Decalogue, to teach them how to fear Him (Exod. 20:20). We reflect in this lesson on the different functions of God’s law.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The Decalogue forms the heart of God’s revelation and biblical ethics and presupposes salvation. It is the Magna Carta of biblical teaching, and its summation, the norm of all norms. It forms the substance and foundation of divine standards for all humanity; its principles are eternal. The Pentateuchal account of the giving of the Decalogue underlines that it was announced by God (Exod. 19:19; Exod. 20:1; Deut. 5:4, 5, 24) and also written by Him (Exod. 24:12, Exod. 31:18, Deut. 5:22). It was given twice to Moses as a special gift (Exod. 32:19; Exod. 34:1; Deut. 10:1, 2). In the book of Exodus, the Decalogue is called “the Testimony” (Exod. 31:18, NKJV) and “the words of the covenant” (Exod. 34:28, NKJV). The phrase “the Ten Commandments” is not used in the Hebrew, although they are referred to as being “commandments” in Exodus 20:6. Instead, the Decalogue is three times called “the Ten Words” (Hebrew: ‘aseret haddebarim; see the Hebrew usage in Exodus 34:28, Deut. 4:13, Deut. 10:4).
 
@@ -35,13 +29,10 @@ In the Bible, the law of God also is seen in a very positive light (Matt. 5:16, 
 
 The Decalogue has several crucial functions:
 
-1.	God’s law is a warrant of freedom (Gen. 2:16, 17; James 2:12). It is like a fence that creates a large free space for life and warns that beyond a specific point lies danger, problems, complications, and death. There is no future for those who step outside the circle of freedom.
-
-2.	The law is a mirror (James 1:23–25). In it, we can see how dirty we are and how much we need to be cleansed. The Decalogue reveals our sinfulness; however, it cannot purify us from sin or guilt (Rom. 3:20).
-
-3.	God’s law is a signpost. As such, it leads us as a paidagogos, or schoolmaster, to Christ (Gal. 3:24). It points to Jesus, who cleanses, forgives our sins, and changes our lives (2 Cor. 5:17, 1 John 1:7–9).
-
-4.	The Decalogue is God’s promise to us. By proclaiming these laws, God promises that these standards will be part of our lives if we maintain a close relationship with Him. He is the Guarantor who will enable these standards to become our permanent lifestyle. We will be so intimate with Him that we will not desire what is prohibited. We shall happily stay in fellowship with Him, asking Him to perform this obedience in us by the power of His grace, Word, and the Holy Spirit.
+1. God’s law is a warrant of freedom (Gen. 2:16, 17; James 2:12). It is like a fence that creates a large free space for life and warns that beyond a specific point lies danger, problems, complications, and death. There is no future for those who step outside the circle of freedom.
+2. The law is a mirror (James 1:23–25). In it, we can see how dirty we are and how much we need to be cleansed. The Decalogue reveals our sinfulness; however, it cannot purify us from sin or guilt (Rom. 3:20).
+3. God’s law is a signpost. As such, it leads us as a paidagogos, or schoolmaster, to Christ (Gal. 3:24). It points to Jesus, who cleanses, forgives our sins, and changes our lives (2 Cor. 5:17, 1 John 1:7–9).
+4. The Decalogue is God’s promise to us. By proclaiming these laws, God promises that these standards will be part of our lives if we maintain a close relationship with Him. He is the Guarantor who will enable these standards to become our permanent lifestyle. We will be so intimate with Him that we will not desire what is prohibited. We shall happily stay in fellowship with Him, asking Him to perform this obedience in us by the power of His grace, Word, and the Holy Spirit.
 
 In the Decalogue, commandments four and five are given in the Hebrew language as positive commands in the form of the infinitive absolute that has two meanings in legal material: a command or an emphatic promise (see E. Kautzsch, ed., _Gesenius_’ Hebrew Grammar [Oxford: Clarendon, 1910], pars. 113bb and 113ee). The other commandments are expressed as negative commands employing the negation particle l'o (“not”), plus jussive (like imperfect form). In addition to the fact that the meaning of such a Hebrew expression is a permanent prohibition, thus a commandment, it has been suggested that it also conveys a future situation, thus a promise (see Jacques B. Doukhan, Hebrew for Theologians: A Textbook for the Study of Biblical Hebrew in Relation to Hebrew Thinking [Lanham, MD: University Press of America, 1993], p. 41). In light of this suggestion, a proper translation could be “you will not . . .” and not “you shall not. . . .” Support for the understanding of the Decalogue as a promise may be found in Judges 6:23, wherein the Lord promises Gideon: “ ‘You shall not die’ ” (NKJV). The grammatical construction in this sentence is exactly the same as in the Decalogue.
 
@@ -59,8 +50,6 @@ As Joshua reminded his audience, we are not able to obey God: “ ‘You are no
 
 #### Part III: Life Application
 
-Part III: Life Application
-
 Ask your students the following questions:
 
 1.	As humans, we can decide to do what is right only under the influence of God’s grace. We need to decide to obey Him, but we have no power to fulfill our decision or to follow Him. We need help in our fragility and weakness, help from outside of ourselves. The good news is that He provides willingness (which is a response to His call of love) and power to obey (Phil. 2:13). In a practical sense, how do you see these provisions at work in your own lives?
@@ -68,5 +57,3 @@ Ask your students the following questions:
 2.	Whatever God commands, He enables His followers to do. Ellen G. White states that “all His biddings are enablings.”—Christ’s Object Lessons, p. 333. From that perspective, the Ten Commandments are actually ten beatitudes. In what sense, and how, can God’s commandments enable believers to obey God?
 
 `Notes`
-
-Notes

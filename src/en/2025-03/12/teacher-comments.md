@@ -5,8 +5,6 @@ date:  19/09/2025
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Text: Exodus 34:6, 7
 
 Study Focus: Exod. 33:1–34:35
@@ -17,15 +15,11 @@ When the people heard this devastating news, they mourned and “stripped off th
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 The self-revelation of God’s character to Moses is the theological heart of the book of Exodus (Exod. 34:6, 7). It is situated at the apex of Moses’ climb up the mountain of God to meet with Him in a special way. God revealed His character to Moses upon his last climb recorded in the Pentateuch, which was at least his seventh climb. This last climb was also the third time that Moses spent 40 days and 40 nights with his Lord. Moses was growing in his relationship with the Lord; so, God was able to give him a fuller revelation about Himself and who He was. Besides these climbs, Moses interacted with the Lord in the “tent of meeting,” which was located outside of the camp of Israel (this tent is not the tabernacle, which will be built later and put in the center of the camp). The biblical text underlines that, during this time, a friendship developed between the Lord and Moses and that the Lord communicated directly with him “face to face” (Exod. 33:11).
 
 The expression “face to face” does not mean that Moses literally saw the face of God (Exod. 33:20) but that they were very dear friends. This phrase is an idiomatic expression that means intimate closeness. This meaning is clear from the situation described in Deuteronomy 5:4, wherein Moses, in his sermon, reminds the Israelites that the Lord spoke directly to them in near proximity: “ ‘The Lord talked with you face to face on the mountain from the midst of the fire’ ” (Deut. 5:4, NKJV). In spite of God’s closeness to them, the people, unfortunately, stayed at a relational distance from their Lord.
 
 **God’s Glory**
-
-God’s Glory
 
 Four themes are of utmost importance in the book of Exodus: (1) God’s presence; (2) God’s salvation/deliverance; (3) God’s guidance; and (4) God’s glory. The last theme is particularly developed in Exodus 33 and Exodus 34.
 
@@ -48,8 +42,6 @@ It was not God’s presence alone that brought the change in Moses’ life. It w
 When the apostle Paul reflects on the shining face of Moses, he stresses that the glory of Jesus surpasses that of Moses. Christ with His teachings can be engraved into our character when we fix our eyes on Him. By beholding Him and by the power of the Spirit of God, we will gradually reflect His likeness (2 Cor. 3:18).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 1.	Part of the eternal gospel is the divine imperative to “give glory” to God (Rev. 14:7). God is glorious enough, so we cannot add anything to His glory. What does it mean to give glory to Him when we understand that His glory is His character?
 

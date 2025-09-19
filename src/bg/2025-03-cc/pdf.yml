@@ -1,0 +1,137 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-Intro.pdf'
+      target: bg/2025-03-cc/introduction
+      title: Въведение
+      start_date: 28/06/2025
+      end_date: 28/06/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-01.pdf'
+      target: bg/2025-03-cc/01
+      title: 'Винаги там'
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-02.pdf'
+      target: bg/2025-03-cc/02
+      title: 'Мога ли да намеря свидетел?'
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-03.pdf'
+      target: bg/2025-03-cc/03
+      title: 'Дни на ученичество'
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-04.pdf'
+      target: bg/2025-03-cc/04
+      title: 'Погрешно разбран'
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-05.pdf'
+      target: bg/2025-03-cc/05
+      title: 'Спасител на езичниците'
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-06.pdf'
+      target: bg/2025-03-cc/06
+      title: 'Да преместваш планини'
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-07.pdf'
+      target: bg/2025-03-cc/07
+      title: 'Кой е Исус?'
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-08.pdf'
+      target: bg/2025-03-cc/08
+      title: 'Двама търсачи'
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-09.pdf'
+      target: bg/2025-03-cc/09
+      title: 'Вяра като на дете'
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-10.pdf'
+      target: bg/2025-03-cc/10
+      title: 'Събуди се!'
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-11.pdf'
+      target: bg/2025-03-cc/11
+      title: 'Исус и аз'
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-12.pdf'
+      target: bg/2025-03-cc/12
+      title: 'Алабастрен съд'
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-13.pdf'
+      target: bg/2025-03-cc/13
+      title: 'Първо ти'
+      start_date: 20/09/2025
+      end_date: 26/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-01.pdf'
+      target: bg/2025-03-cc/01
+      title: 'Учител'
+      start_date: 28/06/2025
+      end_date: 04/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-02.pdf'
+      target: bg/2025-03-cc/02
+      title: 'Учител'
+      start_date: 05/07/2025
+      end_date: 11/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-03.pdf'
+      target: bg/2025-03-cc/03
+      title: 'Учител'
+      start_date: 12/07/2025
+      end_date: 18/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-04.pdf'
+      target: bg/2025-03-cc/04
+      title: 'Учител'
+      start_date: 19/07/2025
+      end_date: 25/07/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-05.pdf'
+      target: bg/2025-03-cc/05
+      title: 'Учител'
+      start_date: 26/07/2025
+      end_date: 01/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-06.pdf'
+      target: bg/2025-03-cc/06
+      title: 'Учител'
+      start_date: 02/08/2025
+      end_date: 08/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-07.pdf'
+      target: bg/2025-03-cc/07
+      title: 'Учител'
+      start_date: 09/08/2025
+      end_date: 15/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-08.pdf'
+      target: bg/2025-03-cc/08
+      title: 'Учител'
+      start_date: 16/08/2025
+      end_date: 22/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-09.pdf'
+      target: bg/2025-03-cc/09
+      title: 'Учител'
+      start_date: 23/08/2025
+      end_date: 29/08/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-10.pdf'
+      target: bg/2025-03-cc/10
+      title: 'Учител'
+      start_date: 30/08/2025
+      end_date: 05/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-11.pdf'
+      target: bg/2025-03-cc/11
+      title: 'Учител'
+      start_date: 06/09/2025
+      end_date: 12/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-12.pdf'
+      target: bg/2025-03-cc/12
+      title: 'Учител'
+      start_date: 13/09/2025
+      end_date: 19/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2025-03/ABSG-2025-03-BG-CC-TE-13.pdf'
+      target: bg/2025-03-cc/13
+      title: 'Учител'
+      start_date: 20/09/2025
+      end_date: 26/09/2025

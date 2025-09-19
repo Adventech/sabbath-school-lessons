@@ -1,0 +1,18 @@
+---
+  title: "Exodus: Cesta do zaslíbené země"
+  description: "Bůh zjevený v druhé knize Mojžíšově – Exodu – je milující Hospodin, který v určeném čase –  a mocnými činy – zachránil a vysvobodil svůj lid (Gn 15,12–16). Vyjití z Egypta a přechod Rudého moře byly zásadní a jedinečné události. Byly to velkolepé a úžasné Boží činy a zázraky. Před událostmi na kříži se v dějinách starověkého Izraele neodehrála žádná větší nebo slavnější událost. Knihu Exodus lze také nazvat evangeliem podle Mojžíše."
+  human_date: "Červenec · Srpen · Září 2025"
+  start_date: "28/06/2025"
+  end_date: "26/09/2025"
+  color_primary: "#84523F"
+  color_primary_dark: "#6E3D2B"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Jiří Moskala"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Audio verze lekcí
+      value: "ElevenLabs"
+    - name: Dodatečné otázky k diskuzi
+      value: "Vlastimil Fürst"

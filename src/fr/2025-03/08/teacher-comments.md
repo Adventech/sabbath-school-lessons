@@ -1,0 +1,56 @@
+---
+title:  Approfondissement
+date:   22/08/2025
+---
+
+### Ire partie: Aperçu
+
+**Texte clé:** Exode 19:4-6
+
+**Étude contextuelle:** Exode 19:1-20:20.
+
+**Introduction**
+
+Au Sinaï, Dieu avait établi une alliance avec Son peuple. Il était l'initiateur du contrat. En tant qu’initiateur, Dieu donna la grâce à Son peuple et entra en relation avec lui. Dieu voulait qu'Israël soit Son peuple spécial, Son bien précieux, un royaume de sacrificateurs, et une nation sainte. Le succès d'Israël reposait sur sa réponse positive à la conduite aimable de Dieu et aux actes puissants qu'Il avait accomplis en sa faveur en Égypte et sur le chemin du Sinaï. Dieu les avait déjà invités à Le suivre et avait prouvé qu'Il prévoit de leur donner un avenir radieux. S’ils gardent Ses enseignements et cherchent à cultiver une relation authentique avec Lui, alors Dieu pourra les conduire d'une manière sans précédent vers la terre promise. Ils avaient besoin d'apprendre à connaitre Sa nature et ce qu'Il fait pour eux afin de L'admirer, de L'aimer, de Lui obéir et de L'adorer. Le don du décalogue a révélé les principes d'une vie heureuse, équilibrée et prospère.
+
+**Thème de la leçon**
+
+En conduisant les Israélites hors d'Égypte et en les guidant à travers la mer Rouge et le désert jusqu'au mont Sinaï, Dieu désirait les amener à Lui (Ex 19:4). Pendant environ un an, Il leur avait enseigné tout au long de ce processus. Dieu était comme un père aimant pour Son peuple, l'instruisant sur ce qui était le mieux pour sa prospérité. Les israélites avaient vu comment Dieu avait vaincu les divinités égyptiennes et avait pris soin d’eux àtravers les fléaux et leur fuite d'Égypte. Puis Dieu leur avait remis le don le plus précieux: le décalogue, pour leur apprendre à Le craindre (Ex 20:20). Dans cette leçon, nous menons une réflexion sur les différentes fonctions de la loi de Dieu.
+
+### IIe partie: Commentaire
+
+Le décalogue est au cœur de la révélation de Dieu et de l'éthique biblique et présuppose le salut. C'est la grande Charte de l'enseignement biblique, et sa somme est la norme de toutes les normes. Il constitue la substance et le fondement des normes divines pour toute l'humanité; ses principes sont éternels. Le récit du Pentateuque sur le don du décalogue souligne qu'il a été prononcé par Dieu (Ex 19:19; Ex 20:1; Dt 5:4, 5, 24) et qu'il a également été écrit par Lui (Ex 24:12, Ex 31:18, Dt 5:22). Il a été donné deux fois à Moïse comme un don spécial (Ex 32:19; Ex 34:1; Dt 10:1, 2). Dans le livre de l'Exode, le décalogue est appelé le «témoignage» (Ex 31:18, LSG); et «les paroles de l'alliance», Ex 34:28, LSG). L'expression «dix commandements» n'est pas utilisée en hébreu, bien qu'ils soient désignés comme étant des «commandements» dans Exode 20:6. Le décalogue est plutôt appelé trois fois «les dix paroles» (hébreu: 'aseret haddebarim; voir l'usage hébreu dans Ex 34:28, Dt 4:13, Dt 10:4).
+
+Dans l'Exode comme dans le Deutéronome, le décalogue se trouve au début des recueils de lois et de leur interprétation. Il existe deux versions du décalogue, ayant de très légères différences; la première est rapportée dans Exode 20:1-17 et la seconde dans Deutéronome 5:6-21. La deuxième version présentée oralement par Moïse aux enfants d’Israël a eu lieu près de quarante ans plus tard, juste avant qu'ils n'entrent dans la terre promise (Dt 1:3, 4; Dt 4:44-47). Ces circonstances expliquent la légère différence qui existe entre ces deux versions du décalogue. Paul, en résumant la loi comme étant l'amour, avait cité le décalogue (Rm 13:8-10, Gal 5:14). L'amour est en effet la somme de la loi de Dieu parce qu'Il est le Dieu d'amour (1 Jn 4:16).
+
+Bien que certaines lois particulières du décalogue aient été déjà connues de manière générale avant le Sinaï, Dieu Lui-même avait choisi de présenter officiellement le décalogue à Son peuple et à l'humanité; parce que ces commandements reflètent, de manière systématique, Son caractère et Ses valeurs. La fonction de la loi n'est pas de nous enseigner à obtenir le salut par son observation. C'està-dire, nous ne devons pas observer la loi de Dieu pour être sauvés, mais l’observer parce que nous sommes sauvés. La loi n'est pas une source de vie, mais plutôt le moyen par lequel nous manifestons et exprimons la vie que nous avons.
+
+Dans la Bible, la loi de Dieu est également vue sous un jour très positif (Mt 5:16, 17; Jn 14:15; Gal 3:21; 1 Cor 7:19). L’on peut créer des poèmes sur la loi (comme le Psaume 119, un chef-d'œuvre), chanter sur la loi (Ps 19) et méditer sur elle jour et nuit (Ps 1:2, Js 1:8) parce qu'elle nous protège du mal et donne la sagesse,
+
+l'intelligence, la santé, la prospérité et la paix (Dt 4:1-6, Pr 2-3). Le décalogue a plusieurs fonctions cruciales:
+
+1. La loi de Dieu est un gage de liberté (Gn 2:16, 17; Jc 2:12). C'est comme une clôture qui crée un grand espace libre pour la vie et avertit qu'au-delà d'un point spécifique se trouvent le danger, les problèmes, les complications et la mort. Il n'y a pas d'avenir pour ceux qui sortent du cercle de la liberté.
+2. La loi est un miroir (Jc 1:23-25). Dans ce miroir, nous pouvons voir à quel point nous sommes sales et à quel point nous avons besoin d'être purifiés. Le décalogue révèle notre péché; cependant, il ne peut pas nous purifier du péché ou de la culpabilité (Rm 3:20).
+3. La loi de Dieu est un panneau indicateur. En tant que tel, il nous conduit comme un pédagogue ou un instituteur à Christ (Gal 3:24). Il pointe vers Jésus, qui purifie, pardonne nos péchés et change nos vies (2 Cor 5:17, 1 Jn 1:7-9).
+4. Le décalogue est la promesse que Dieu nous fait. En proclamant ces lois, Dieu promet que ces normes feront partie de notre vie si nous maintenons une relation étroite avec Lui. Il est le Garant qui permettra à ces normes de devenir notre mode de vie permanent. Nous serons si intimes avec Lui que nous ne désirerons pas ce qui est interdit. Nous resterons heureux en communion avec Lui, Lui demandant d'accomplir cette obéissance en nous par la puissance de Sa grâce, de Sa Parole et du Saint-Esprit.
+
+Dans le décalogue, les commandements quatre et cinq sont donnés dans la langue hébraïque comme des commandements positifs sous la forme de l'absolu infinitif a deux sens dans le langage juridique: un commandement ou une promesse emphatique (voir E. Kautzsch, éd., Gesenius' Hebrew Grammar, Oxford, Clarendon, 1910, par. 113bb et 113ee). Les autres commandements sont exprimés sous forme de commandements négatifs employant la particule de négation l'o («ne»), plus un jussif (mode exprimant l'ordre). Outre le fait que le sens d'une telle expression hébraïque est une interdiction permanente, donc un commandement, il a été suggéré qu'elle transmet également une situation future, donc une promesse (voir Jacques B. Doukhan, Hebrew for Theologians: A Textbook for the Study of Biblical Hebrew in Relation to Hebrew Thinking [Lanham, MD: University Press of America, 1993], p. 41). À la lumière de cette suggestion, la traduction appropriée est «tu ne feras pas...». Nous pouvons trouver d’autres éléments pour la compréhension du décalogue en tant que promesse dans Juges 6:23, où l’éternel promet à Gédéon: «tu ne mourras pas» (LSG). La construction grammaticale de cette phrase est exactement la même que celle du décalogue.
+
+Le sens hébreu du terme dabar, utilisé pour décrire les dix commandements, ne signifie pas nécessairement «commandement» mais «parole» ou «promesse». Cela dépend des versions, mais voir, par exemple, l'usage du substantif dabar comme «promesse», dans 1 Rois 8:56; 2 Chroniques 1:9; Néhémie 5:12, 13; et Psaume 105:42; et de dabar comme verbe, ayant le même sens de «promesse», dans Deutéronome 1:11, Deutéronome 6:3, Deutéronome 9:28, Josué 9:21, Josué 22:4 et Josué 23:5.
+
+Ellen G. White confirme notre interprétation par la déclaration suivante concernant la fonction du décalogue: «Les dix commandements… sont dix promesses.» (Voir, Manuscrit 41, 1896 [publié dans The SDA Bible Commentary, vol. 1, p. 1105]. «Dans chaque commandement ou injonction que Dieu donne, il y a une promesse, la plus positive, qui lui est fondamentale.» Heureux ceux qui, p. 76. Elle souligne que «la voix de Dieu» s'adresse «à l'âme en promesse: 'Fais ceci, et tu ne tomberas pas sous la domination et le contrôle de Satan'». (Voir, Lettre 89, 1898 [publiée dans The SDA Bible Commentary, vol. 1, p. 1105).
+
+Les restrictions apparentes de la loi ne sont que pour notre bien afin de maintenir le bonheur et la vie (Mi 6:8, Jn 10:10). La loi est la norme de conduite pour ceux qui font confiance à Dieu et sont sauvés par Sa grâce par la foi en Christ.
+
+La place de la loi dans la nouvelle alliance est exceptionnelle, elle est plantée dans le cœur. La loi est intériorisée (voir Mt 5:21-48) et doit être considérée non pas comme un fardeau, mais comme une bénédiction. Ceux qui vivent le décalogue suivent correctement ses promesses avec de justes motifs, obéissant à ses préceptes par gratitude et reconnaissance pour ce que Dieu a fait pour eux. La grâce ne change pas la loi, mais notre attitude à son égard change. Paul est contre le légalisme et contre l'abus de la loi de Dieu, mais pas contre la loi elle-même (Rm 7:9-12).
+
+Jésus-Christ est le telos de la loi (Rm 10:4), ce qui signifie qu'Il est son objectif et son but, et non la fin, dans le sens d'une fin ou d'une cessation de sa validité. Christ est la clé herméneutique qui déverrouille le vrai sens et le but de la loi. Ainsi, il serait incorrect d'affirmer que Christ a invalidé, mis fin, supplanté ou abrogé la loi. Il donne plutôt un sens à la loi.
+
+Comme Josué l'avait rappelé à son auditoire, nous ne sommes pascapables d'obéir à Dieu: «Vous n'aurez pas la force de servir l'Éternel» (Js 24:19, LSG). Cependant, lorsque nous demandons à Dieu de prendre notre faiblesse, Il nous rendra forts. Il nous donnera Son Saint-Esprit qui nous poussera à Lui obéir (Ez 36:27). Paul dit: «quand je suis faible, c'est alors que je suis fort» (2 Cor 12:10, LSG). L'obéissance est l'œuvre du Saint-Esprit en nous.
+
+### IIIe partie: Application
+
+Posez les questions suivantes:
+
+1. En tant qu'humains, nous ne pouvons décider de faire ce qui est juste que sous l'influence de la grâce de Dieu. Nous devons décider de Lui obéir, mais nous n'avons pas le pouvoir d'accomplir notre décision ou de Le suivre. Nous avons besoin d'aide dans notre fragilité et notre faiblesse, d'aide de l'extérieur de nous-mêmes. La bonne nouvelle, c'est qu'Il donne la volonté (qui est une réponse à Son appel d'amour) et le pouvoir d'obéir (Phil. 2:13). D'un point de vue pratique, comment voyez-vous ces dispositions à l'œuvre dans votre propre vie?
+2. Dieu rend toujours possibles les actions qu’Il commande à Ses disciples. Ellen G. White affirme d’ailleurs que «tous Ses commandements sont des promesses habilitantes». Ainsi, les dix commandements peuvent être compris comme dix béatitudes. En quoi et de quelle manière les commandements de Dieu peuvent-ils fortifier les croyants et les rendre capables de Lui obéir?
