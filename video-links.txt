@@ -1,21 +1,3 @@
-yt-dlp "https://www.youtube.com/watch?v=R0PctciFW30" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2025-03-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=UNSg5l2f85o" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2025-03-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=ClS5qMjOagY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2025-03-inv-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Mk9aKtmvTyA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=X0e-baZ-utg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=wEh0sqZTZic" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Nvk4v1DWqxk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=yYGR4f8nAFk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/her/es-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=_0HP0KQnsm4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Zr52g68wwtM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=AvY9lv1gsk4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-03-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=NN9NQz_9oYw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2025-03-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=mjl3etTeKRE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2025-03-13.mp4"
