@@ -1,6 +1,2 @@
 ---
-  audio:
-    - artist: Felnőtt szombatiskola
-      tracks:
-        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250927.mp3
-          target: hu/2025-04/01/01
+  audio: []
