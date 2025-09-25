@@ -1,11 +1,11 @@
 ---
   title: "Das Buch Josua"
   description: "Das Buch Josua zeigt den Übergang von der Führung Moses zu der Josuas. Es beginnt mit dem Bericht über den Einzug Israels ins verheißene Land und endet mit der Ansiedlung dort."
-  human_date: "Okt · Nov · Dez 2025"
+  human_date: "Oktober · November · Dezember 2025"
   start_date: "27/09/2025"
   end_date: "26/12/2025"
-  color_primary: "#0A454E"
-  color_primary_dark: "#01373F"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
   splash: true
   credits:
     - name: Autor
