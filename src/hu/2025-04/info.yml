@@ -4,8 +4,8 @@
   human_date: "Október · November · December 2025"
   start_date: "27/09/2025"
   end_date: "26/12/2025"
-  color_primary: "#4F332D"
-  color_primary_dark: "#3F241F"
+  color_primary: "#542E7F"
+  color_primary_dark: "#371868"
   splash: true
   credits:
     - name: Írta
