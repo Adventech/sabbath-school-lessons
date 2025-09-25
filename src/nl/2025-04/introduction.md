@@ -1,4 +1,4 @@
-**_Door Barna Magyarosi_**
+### Door Barna Magyarosi
 
 Het boek Jozua markeert de overgang van het leiderschap van Mozes naar dat van Jozua. Het boek begint met het verhaal van Israël dat het beloofde land binnengaat en het eindigt met het volk dat zich er dan inmiddels gevestigd heeft.
 
