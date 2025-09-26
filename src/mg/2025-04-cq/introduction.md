@@ -14,7 +14,6 @@ Tsy ampy ity taridalana isan-telovolana ity hiresahana ny amin'ny tantara rehetr
 
 I Sukeshinie (Suki) Goonatelleke dia mpanoratra, mpandaha-teny, manana ny bokiny manokana, ary mpanofana. Monina any Melbourne, Australie, izy sy ny vadiny, miaraka amin'ireo zanany anankiroa.
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **and.** andininy
