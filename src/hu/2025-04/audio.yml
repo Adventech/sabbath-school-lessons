@@ -1,2 +1,18 @@
 ---
-  audio: []
+  audio:
+    - artist: Felnőtt szombatiskola
+      tracks:
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250927.mp3
+          target: hu/2025-04/01/01
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250928.mp3
+          target: hu/2025-04/01/02
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250929.mp3
+          target: hu/2025-04/01/03
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20250930.mp3
+          target: hu/2025-04/01/04
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20251001.mp3
+          target: hu/2025-04/01/05
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20251002.mp3
+          target: hu/2025-04/01/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20251003.mp3
+          target: hu/2025-04/01/07
