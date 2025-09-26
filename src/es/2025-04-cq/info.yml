@@ -1,0 +1,28 @@
+---
+  title: "El libro de Josué"
+  description: "La historia de Josué y su generación trata tanto de un final como de un principio. Tras cuarenta años de difícil peregrinación por el desierto, Israel había vuelto por fin a casa y ese era un verdadero motivo de celebración. Por otra parte, la conquista de Canaán era también el comienzo de una nueva aventura, un viaje hacia lo desconocido, en el que tenían que adoptar el papel de los elegidos por Dios como portadores de la luz al mundo. Finalmente estaban preparados para recibir lo que Dios les había prometido tantos años antes."
+  human_date: "Octubre · Noviembre · Diciembre 2025"
+  start_date: "28/09/2025"
+  end_date: "27/12/2025"
+  color_primary: "#5B9ACB"
+  color_primary_dark: "#2A6089"
+  splash: true
+  credits:
+    - name: Editor
+      value: "Joe Reeves"
+    - name: Editora asociada
+      value: "Paige J. Swanson"
+    - name: Director de Escuela Sabática de la Asociación General
+      value: "Jim Howard"
+    - name: Director asociado de Escuela Sabática
+      value: "Daniel Ebenezer"
+    - name: Colaboradora principal de este folleto
+      value: "Sukeshinie Gonnatilleke"
+    - name: Traducción y edición
+      value: "Mónica Díaz"
+    - name: Asesor del Instituto de Investigación Bíblica (BRI, por sus siglas en inglés)
+      value: "Alberto Timm"
+    - name: Ilustraciones
+      value: "Types & Symbols"
+    - name: Diseño y diagramación
+      value: "Jaime Gori"
