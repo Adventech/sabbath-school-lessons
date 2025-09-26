@@ -1,0 +1,22 @@
+---
+  title: "Das Buch Josua"
+  description: "Das Buch Josua zeigt den Übergang von der Führung Moses zu der Josuas. Es beginnt mit dem Bericht über den Einzug Israels ins verheißene Land und endet mit der Ansiedlung dort."
+  human_date: "Oktober · November · Dezember 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Barna Magyarosi"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: "Herausgeber der deutschen Ausgabe"
+      value: "Freikirche der Siebenten-Tags-Adventisten , EUD © der deutschen Ausgabe Advent-Verlag GmbH, Lüneburg"
+    - name: Redakteurin
+      value: "Soraya Scheidweiler"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"

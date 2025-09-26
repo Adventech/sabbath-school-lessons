@@ -1,0 +1,44 @@
+---
+  title: "A hit tanulságai Józsué könyvében"
+  description: "Józsué könyve írja le az átmenetet, amint Mózesről Józsuéra száll a vezetés. A könyv az ígéret földjére történő belépéssel kezdődik és a letelepedéssel ér véget."
+  human_date: "Október · November · December 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#542E7F"
+  color_primary_dark: "#371868"
+  splash: true
+  credits:
+    - name: Írta
+      value: "Magyarosi Barna"
+    - name: Fordította
+      value: "Dr. Gyetvai Gellért"
+    - name: Korrektor
+      value: "Dr. Gyetvainé Gerlai Krisztina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-963-9930-97-1"
+    - name: Az EGW mellékletet fordította
+      value: "Bartha Sándor"
+    - name: Az EGW melléklet kiadója
+      value: "Viaţă şi Sănătate Kiadó, Pantelimon, Románia"
+    - name: Az EGW melléklet kiadás koordinátora
+      value: "Szász Ernő"
+    - name: EGW melléklet korrektúra
+      value: "Czinkota Judit Orsolya"
+    - name: EGW melléklet tördelés
+      value: "Czinkota Andrásné"
+    - name: EGW melléklet ISBN
+      value: "978-606-087-722-6"
