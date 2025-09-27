@@ -1,0 +1,18 @@
+---
+  title: "Jozue příběh víry a odvahy"
+  description: "Úvodní část knihy Jozue se zaměřuje na změnu ve vedení Izraelců, kdy se po Mojžíšově smrti ujímá vedení Jozue. Kniha začíná příběhem o vstupu Izraelců do zaslíbené země a končí tím, že se v této zemi skutečně usadí."
+  human_date: "Říjen · Listopad · Prosinec 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#4A618D"
+  color_primary_dark: "#324A78"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Barna Magyarosi"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Audio verze lekcí
+      value: "ElevenLabs"
+    - name: Dodatečné otázky k diskuzi
+      value: "Vlastimil Fürst"
