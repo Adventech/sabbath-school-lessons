@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   31/10/2025
+date:   24/10/2025
 ---
 
 ### Part #4 The Conflict Behind All Conflicts

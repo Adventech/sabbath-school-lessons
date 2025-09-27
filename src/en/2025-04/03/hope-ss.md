@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   24/10/2025
+date:   17/10/2025
 ---
 
 ### Part #3 Memorials Of Grace
