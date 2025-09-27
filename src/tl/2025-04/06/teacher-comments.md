@@ -1,0 +1,60 @@
+---
+title:  Komento ng Guro
+date:  07/11/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Jeremias 17:10
+
+**Pokus ng Pag-aaral:** 1 Pedro 1:4; Josue 7; Awit 139:1–16; Ezra 10:11; Lucas 12:15; Josue 8:1–29
+
+**Panimula**
+
+Matapos ang isang tiyak na tagumpay laban sa Jerico, dumanas ang Israel ng isang kahiya-hiyang pagkatalo mula sa tila mahinang hukbo ng Ai. Habang naghahangad si Josue ng paliwanag mula sa Diyos, natuklasan niyang ang kabiguan ay hindi lamang bunga ng kanyang hindi pagkonsulta sa Diyos bago salakayin ang Ai. Hindi rin ito simpleng resulta ng kakulangan sa tamang paghahanda o estratehiyang militar. Sa halip, may kaaway sa loob.
+
+Hindi, ang kaaway ay hindi isang espiya na nagbibigay ng mahalagang impormasyon sa kalaban. Ang salarin ay isa sa sariling kasamahan ng Israel. Sa pagkuha ng nasamsam mula sa Jerico, nilabag ni Acan ang mga alituntunin ng banal na digmaan. Ang pagkatalo ng Israel ay naging isang mahalagang paalala, lalo na kay Josue, tungkol sa espirituwal na aspeto ng mga labanang ito. Bukod dito, ito ay nagsilbing babala sa Israel na hindi kukunsintihin ng Diyos ang kasalanan ng Kanyang bayan, tulad ng hindi Niya kinunsinti ang kasalanan ng mga Cananeo, lalo na kung isasaalang-alang ang liwanag na tinanggap ng Israel.
+
+Ang kasalanan ni Acan ay isang kamangmangan sa ganang sarili nito; ngunit higit na kapansin-pansin ang kanyang hindi pagsisisi at patuloy na katigasan ng puso. Ang kanyang walang-pakundangang katigasan ng ulo ay nag-udyok sa Diyos na kumilos nang mabilis at matindi laban sa kanyang pagsuway. Ang malungkot na pangyayaring ito, sa mismong simula ng pananakop, ay nagpapakita ng mapanirang likas ng kasalanan. Sa linggong ito, inaanyayahan tayo ng kuwento ni Acan na muling pagnilayan ang kakila-kilabot na likas ng kasalanan.
+
+### Ikalawang Bahagi: Komentaryo
+
+Mayroong iba’t ibang mga salita at larawan ng kasalanan sa Biblia. Ang pinaka-karaniwang mga salita para sa kasalanan sa Lumang Tipan ay hattaah, na karaniwang isinasalin bilang “kasalanan,” ʿawon (tradisyunal na isinasalin bilang “kasamaan”) at pesha (karaniwang isinasalin bilang “pagsalangsang”). Ang paggamit ng mga salitang ito sa buong Lumang Tipan ay nagpapakita na ang kahulugan ng kasalanan ay sumasaklaw mula sa sinadya o di-sinasadyang paglihis sa isang pamantayan, tulad ng paglabag sa batas ng Diyos, hindi pag-abot sa isang itinakdang layunin, at maging sa isang may kamalayan at hayagang paghihimagsik laban sa Diyos. Sa huling kategoryang ito, ang mga kasalanan ay hindi maaaring tubusin. Sa Bilang 15:30, ang mga ganitong kasalanan ay inilarawan sa ganitong paraan: “Ngunit ang tao na makagawa ng anuman nang buong kapusukan, maging katutubo sa lupain o dayuhan ay lumalapastangan sa PANGINOON at ang taong iyon ay ititiwalag sa gitna ng kanyang bayan.” Ang larawan ng isang taong gumagawa ng isang bagay “nang buong kapusukan” (literal na pagsasalin ng Hebreo na “beyad ramah”) ay nagpapakita ng kusang-loob at may kamalayang pagsuway sa Panginoon.
+
+Walang handog na maaaring ialay para sa kasalanang ito dahil walang kasamang pagsisisi. Walang kahalili para sa taong hindi kinikilala ang kanyang pangangailangan nito. Sa Josue 7, kumilos si Acan “buong kapusukan,” at dahil hindi siya nagsisi sa kanyang kasalanan, wala nang natitirang paraan para sa kanya. Bawat pagkakataon ng biyaya sa buong proseso ay nagpapatigas ng kanyang puso.
+
+Ang kahangalan ng matigas na pag-uugali ni Acan, sa kabila ng malinaw na pagpapakita ng kapangyarihan ng Diyos sa paghati ng Ilog Jordan sa dalawa, at ang mahimalang paggiba sa tila di-mapapasok na pader ng Jerico, ay nag-aanyaya sa mambabasa na pagnilayan ang likas na katangian ng kasalanan. Matalinong binanggit ni George Knight ang pagkakaiba ng “KASALANAN” sa malalaking titik at “kasalanan” sa maliliit na titik. Ang una ay ang pinagmulan, samantalang ang huli ay ang bunga; ang una ay ang sakit, ang huli ay ang sintomas. Madalas, pinagtutuunan lamang ng pansin ng mga tao ang huli, na nakikita sa kanilang asal, nang hindi nauunawaan na ang ugali ay sumasalamin lamang sa nangyayari sa puso. (Tingnan ang George Knight, Sin and Salvation: God’s Work for and in Us [Hagerstown, MD: Review and Herald, 2009], pp. 28–51.) Ang ganitong pananaw sa kasalanan bilang isang sakit ay nagpapaliwanag kung bakit binibigyang-diin ni Jesus ang “puso” sa halip na panlabas na gawain ng debosyon at pagsunod sa Kanyang mga pakikipag-usap sa mga relihiyosong lider ng Juda. Walang duda, sa pagharap sa anumang sakit, kailangang tugunan ang mga sintomas, ngunit hindi dapat doon lamang matapos ang paggamot kung lubos na paggaling ang layunin.
+
+Sa kontekstong ito, ang “KASALANAN,” sa malalaking titik, ay ang pangunahing kondisyon ng mga makasalanan, at bilang resulta, ito ang saloobing tumutukoy sa kanila bilang ganoon. Ang ganitong kaisipan ay makikita sa pagtatangkang pag-agaw ni Lucifer sa puwesto ng Diyos, gayundin sa pagsusumikap ng tao na maging katulad ng Diyos sa Halamanan ng Eden. Ang ugat ng saloobin ng mga makasalanan ay ang walang kabuluhang pagtatangka na agawin ang lugar ng Manlilikha. Gaya ng mahusay na sinabi ni Herbert Douglass: “Ang kasalanan ay ang nakatikom na kamao ng isang nilikha sa harapan ng kanyang Manlilikha; ang kasalanan ay ang nilikha na hindi nagtitiwala sa Diyos, na inaalis Siya bilang Panginoon ng kanyang buhay.”—Herbert Douglass, Why Jesus Waits (Nampa, ID: Pacific Press, 2002), p. 18.
+
+Kapansin-pansin na ang salitang “kasalanan” ay hindi lumilitaw sa Genesis 2 at 3, ngunit ipinakikita ng salaysay ang pagtatangkang palitan ni Eva ang Diyos. Sa Genesis 1, bawat araw ng Paglikha ay nagtatapos sa pagsusuri ng Diyos sa Kanyang nilikha. Ang pagkakasunod ng mga salitang “Nakita ng Diyos” (rʾh) na ang Kanyang nilikha ay “mabuti” (towv) ay lumitaw nang anim na beses. Ang parehong pagkakasunod ay makikita nang makita (rʾh) ni Eva ang bunga ng punungkahoy at idineklara itong mabuti (towv). Ipinakikita ng maingat na paggamit ng mga salitang ito na ang orihinal na kasalanan ay ang pagtatangkang palitan ng tao ang Diyos sa pagtatakda kung ano ang mabuti. Ang parehong pagkakasunod ay muling lilitaw sa Genesis 6 nang makita (rʾh) ng mga anak ng Diyos ang mga anak na babae ng tao at ituring silang “magaganda,” na siyang parehong salitang Hebreo para sa “mabuti” (_towv_) sa Genesis 1 at 3 (ihambing sa Genesis 6:1-2). Muli, sinusubukan ng sangkatauhan na maging Diyos, na nagdudulot ng mapaminsalang kahihinatnan.
+
+Ang hayagang paghihimagsik ni Acan laban sa malinaw na utos ng Diyos ay nagpapaalala ng orihinal na paghahangad ni Lucifer na agawin ang posisyon ng Diyos. Dahil sa kanilang pagkabulag, hindi nila naunawaan ang kamangmangan ng kanilang ginagawa. Sa huli, sila ay nahatulan, hindi dahil sa kawalan ng kakayahan o kagustuhan ng Diyos na magpatawad, kundi dahil sa kanilang matigas na pagpupumilit na maging katulad ng Diyos o maging ganap na may-ari ng kanilang kapalaran, na hiwalay sa tunay na pinagmumulan ng buhay.
+
+Bagaman maaaring ituring ng ilan ang tindi ng parusa kay Acan bilang patunay ng pagkakaiba sa pagitan ng Diyos sa Lumang Tipan at ng Diyos na ipinahayag ni Jesus sa Bagong Tipan, ang kuwento ni Acan ay may kahalintulad sa Gawa 5, kung saan isinaysay ni Lucas kung paano agad hinatulan ng Diyos ang kasalanan nina Ananias at Safira.
+
+May ilang pagkakatulad sa dalawang pangyayaring ito. Una, parehong ginamit ang iisang pandiwang ugat upang ilarawan ang kanilang ginawa. Sa Septuagint, ang pinakamatandang salin ng Lumang Tipan sa Griyego ay inilalarawan si Acan na kumuha (nosphizomai) para sa kanyang sarili mula sa mga bagay na itinalaga sa Panginoon. Ang parehong pandiwa ay ginamit upang ipakita kung paano itinabi (nosphizo) nina Ananias at Safira para sa kanilang sarili kung ano ang kanilang tahasang inialay sa Panginoon. Ikalawa, sa parehong kaso, kumuha sila mula sa mga bagay na nakalaan para sa Diyos. Matapos italaga nina Ananias at Safira sa Diyos ang buong halaga mula sa ibenentang lupa, ang buong halaga ay naging pag-aari ng Diyos. Dahil dito, ang kanilang kasalanan, tulad ng kay Acan, ay may kaugnayan sa kasinungalingan at pagnanakaw. Ikatlo, parehong naganap ang mga insidenteng ito sa isang mahalagang panahon para sa bayan ng Diyos: sa pagsisimula ng pananakop ng Lupang Pangako at sa pagsisimula ng iglesya.
+
+Marahil, dahil dito, ang kanilang kasalanan ay binigyan ng agarang hatol. Ang komento ni Ellen G. White patungkol sa paghatol kina Ananias at Safira ay ito: “Nakikita ng Walang Hanggang Karunungan na kinakailangan ang hayagang pagpapakita ng poot ng Diyos upang mapangalagaan ang batang iglesya mula sa pagkasira ng moralidad. Mabilis na dumarami ang kanilang bilang. Ang iglesya ay nanganganib kung, sa mabilis na pagdami ng mga nahikayat, may mga taong madaragdag na, habang nagpapanggap na naglilingkod sa Diyos, ay sumasamba naman sa kayamanan.”—The Acts of the Apostles, p. 73. Maaaring sabihin ang pareho tungkol sa parusang ipinataw kay Acan.
+
+Ang pananaw na may magkaibang pamantayan ang Diyos sa pagharap sa kasalanan sa Lumang Tipan at Bagong Tipan ay mali. Sa katunayan, sinabi ni Ellen G. White: “Nililinlang ni Satanas ang marami sa pamamagitan ng tila makatwirang teorya na ang pag-ibig ng Diyos sa Kanyang bayan ay napakadakila kaya’t palalampasin Niya kanilang kasalanan; inilalarawan niya na bagaman ang mga babala sa Salita ng Diyos ay may layunin sa Kanyang pamamahalang moral, hindi ito literal na matutupad. Ngunit sa lahat ng Kanyang pakikitungo sa Kanyang mga nilikha, pinanatili ng Diyos ang mga prinsipyo ng katuwiran sa pamamagitan ng pagpapakita ng kasalanan sa tunay nitong anyo—sa pamamagitan ng pagpapakita na ang tiyak nitong resulta ay pagdurusa at kamatayan.” —Ellen G. White, Patriarchs and Prophets, p. 522.
+
+Ang kuwento ni Acan ay nagsisilbing babala tungkol sa di-kanais-nais na likas ng kasalanan, ngunit ipinakikita rin nito ang biyaya ng Diyos. Makalipas ang ilang siglo, nangako ang Diyos sa pamamagitan ng propetang Hoseas na babaguhin Niya ang libis ng Acor (kaguluhan), ang lugar kung saan inilibing nang buhay si Acan at ang kanyang pamilya, at gagawin itong isang pintuan ng pag-asa (Hoseas 2:15). Tunay ngang Siya ang Diyos ng mga pagbabago.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+**Kasalanan at Kaligtasan**
+
+Sa parehong aklat na binanggit kanina sa liksyong ito, ipinaliwanag ni George Knight na ang kasalanan at kaligtasan ay maaaring ipaliwanag gamit ang iisang salita: pag-ibig. Ayon sa kanya, ang kasalanan ay ang pagtuon ng pag-ibig sa maling bagay, partikular na sa sarili. Sa kabaligtaran, ang kaligtasan ay pag-ibig rin, ngunit ito ay pag-ibig na nakatuon sa tamang layon, ito ay, ang Diyos.
+
+1\. Sang-ayon ka ba sa pagsusuring ito? Ipaliwanag.
+
+2\. Kung oo, magbigay ng isang praktikal na halimbawa kung paano naipapakita ang konseptong ito sa totoong buhay.
+
+**Ang Bigat ng Kasalanan**
+
+“Isang mapagbirong kabataan ang nagtanong sa isang mangangaral, ‘Sinasabi mong may pasan ng kasalanan ang mga hindi ligtas. Wala naman akong nararamdaman. Gaano kabigat ang kasalanan? Sampung libra ba? Walumpu?’ Sumagot ang mangangaral sa pamamagitan ng isang tanong, ‘Kung maglalagay ka ng 400-librang pabigat sa isang bangkay, mararamdaman ba nito ang bigat?’ Sumagot ang kabataan, ‘Hindi ito makakaramdam ng anuman dahil patay na ito.’ Tinapos ng mangangaral, ‘Ganoon din ang espiritung patay—hindi nito nararamdaman ang bigat ng kasalanan, walang malasakit sa pasanin nito, at di-sineseryoso ang presensya nito.’ Natahimik ang kabataan.”—Michael P. Green, 1500 Illustrations for Biblical Preaching (Grand Rapids, MI: Baker Books, 2000), pp. 334–335.
+
+Paano nakatutulong ang nakagawiang paggugol ng “isang makabuluhang oras bawat araw sa pagmumuni-muni sa buhay ni Cristo . . . lalo na sa Kanyang huling mga sandali,” gaya ng iminungkahi ni Ellen G. White, upang maunawaan natin ang tunay na likas ng kasalanan? (Tingnan ang The Desire of Ages, p. 83.)
+
+3\. Paano kumikilos si Satanas sa kasalukuyan upang gawing magaan ang pagtingin ng mga tao sa kasalanan? Paano natin maiiwasan ang bitag na ito?
