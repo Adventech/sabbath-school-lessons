@@ -1,0 +1,7 @@
+---
+title:  Inside story
+date:   24/10/2025
+---
+
+### Na této lekci pracujeme.
+Prosim zkuste to znovu pozdeji.
