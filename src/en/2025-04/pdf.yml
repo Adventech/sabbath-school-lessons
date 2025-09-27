@@ -29,3 +29,81 @@
       target: en/2025-04/12
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-13.pdf
       target: en/2025-04/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-01.pdf
+      target: en/2025-04/01
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-02.pdf
+      target: en/2025-04/02
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-03.pdf
+      target: en/2025-04/03
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-04.pdf
+      target: en/2025-04/04
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-05.pdf
+      target: en/2025-04/05
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-06.pdf
+      target: en/2025-04/06
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-07.pdf
+      target: en/2025-04/07
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-08.pdf
+      target: en/2025-04/08
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-09.pdf
+      target: en/2025-04/09
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-10.pdf
+      target: en/2025-04/10
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-11.pdf
+      target: en/2025-04/11
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-12.pdf
+      target: en/2025-04/12
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-HSS-13.pdf
+      target: en/2025-04/13
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-01.pdf
+      target: en/2025-04/01
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-02.pdf
+      target: en/2025-04/02
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-03.pdf
+      target: en/2025-04/03
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-04.pdf
+      target: en/2025-04/04
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-05.pdf
+      target: en/2025-04/05
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-06.pdf
+      target: en/2025-04/06
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-07.pdf
+      target: en/2025-04/07
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-08.pdf
+      target: en/2025-04/08
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-09.pdf
+      target: en/2025-04/09
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-10.pdf
+      target: en/2025-04/10
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-11.pdf
+      target: en/2025-04/11
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-12.pdf
+      target: en/2025-04/12
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-TP-13.pdf
+      target: en/2025-04/13
+      title: Talking Points Outline
