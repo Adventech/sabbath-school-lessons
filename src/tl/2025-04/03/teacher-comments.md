@@ -1,0 +1,64 @@
+---
+title:  Komento ng Guro
+date:  17/10/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Josue 4:23
+
+**Pokus ng Pag-aaral:** Josue 3; Bilang 14:44; Lucas 18:18–27; Josue 5; Juan 14:26; Hebreo 4:9–11
+
+**Panimula:** Sa pagbabalik ng mga espiya, handa na ang Israel na pumasok sa Lupang Pangako. Subalit may isang tila di-malalampasang hadlang, mula sa pananaw ng tao: ang Ilog Jordan sa panahon ng pagbaha. Ngunit walang makahahadlang sa buhay na Diyos ng Israel. Muli, ipakikita Niya ang Kanyang kapangyarihan bilang Panginoon ng buong mundo (at ng tubig). Mula nang umalis ang Israel sa Ehipto, ang isyu ay hindi kailanman ang kakayahan ng Diyos na gumawa ng mga himala, kundi ang kahandaan ng Kanyang bayan, isang bagay na muling susubukin habang sila ay tinatawag na magpakabanal. Tulad ng kanilang mga ninuno na lumakad patungo sa dalampasigan ng Dagat na Pula, nag-impake ang mga Israelita at nilisan ang kanilang kampo sa huling pagkakataon bago tuluyang pumasok sa Canaan.
+
+Mahigit apatnaraang taon matapos ang unang pangako kay Abraham, muli silang naglakad patungo sa hangganan ng imposible. Mula sa pagtawid nila sa Dagat na Pula hanggang sa pagtawid sa Ilog Jordan, tinawag ng Diyos ang Kanyang bayan upang harapin ang imposible, upang ipakita na sa Kanya, walang imposible. Ang kaban ng tipan ay nauuna sa kanila, nagpapakita na ang pagtawid sa tuyong lupa ay hindi isang pagkakataon o isang planong gawa ng tao, kundi isang kilos ng Diyos. Ang pagtawid sa Ilog Jordan ay nagtatakda ng kasaysayan bilang isang natatanging araw. Ang pagtawid ay minarkahan din sa heograpiya sa pamamagitan ng dalawang grupo ng labindalawang bato. Ang tanong ay kung ang kaganapang ito ay mananatili sa alaala ng mga susunod na henerasyon o hindi. Sa kasamaang-palad, habang lumilipas ang panahon, ang espirituwal na kahulugan ng mga batong ito ay unti-unting nalimutan. Ang malungkot na paglimot na ito ay hindi lamang nagtulak sa Israel sa idolatriya kundi nagdala rin sa kanila pabalik sa Ehipto.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Teolohiyang Tubig**
+
+Maraming pagkakatulad ang makikita sa pagtawid sa Dagat na Pula at sa Ilog Jordan. Kabilang dito ang paggamit ng tatlong mahalagang salitang Hebreo: (a) ang pandiwang _plʾ_ (“kababalaghan”), na ginagamit upang ipakita ang mahimalang pagtawid (Exodo 15:11; Josue 3:5); (b) ang salitang ned, na tumutukoy sa pag-ipon ng tubig bilang isang “pader” (Exodo 15:8; Josue 3:16); at (c) ang bihirang salitang harabah, na nangangahulugang “tuyong lupa” (Exodo 14:12; Josue 3:17). Bukod dito, mismong ang Diyos ang nag-ugnay kay Moises at Josue sa Josue 3:7, na hayagang ipinakikita ang koneksyon ng dalawang pangyayari. Nakikita naman ng salmista ang dalawang kaganapan bilang iisa (halimbawa, Awit 114:3, 5).
+
+Ngunit ano ang teolohikal na kahulugan ng pagtawid sa Ilog Jordan? Sa linggong ito, ipinaliwanag na ng may-akda ang tipolohikal na kahulugan ng pangyayaring ito sa liwanag ni Jesus at ng iglesya. Kaya naman, maaari nating tuklasin dito ang teolohikal na kahulugan ng pagtawid para sa orihinal nitong tagapakinig.
+
+Kung bibisita ka ngayon sa Ilog Jordan, mahirap isipin ang hamong kinaharap ng Israel sa kanilang pagtawid dito libong taon na ang nakalipas. Una, ang irigasyon para sa layuning agrikultura at pangangailangan ng tao sa kahabaan ng 223 milya (360 kilometro) ng ilog ay malaki ang ibinawas sa laki at daloy nito. Pangalawa, ang pagdiriwang ng Paskuwa pagkatapos mismo ng pagtawid ay nagpapahiwatig na naganap ito sa panahon ng tagsibol, kung kailan ang Ilog Jordan ay maaaring umabot sa isang milya ang lapad sa ilang bahagi, dulot ng natutunaw na niyebe mula sa kabundukan. Ipinakikita ng impormasyong ito na ang pagtawid sa malaking ilog na may malakas na agos at maaaring may dalang mga labi ay hindi isang mas maliit na himala kaysa sa pagtawid sa Dagat na Pula.
+
+Sa isipan ng mga tao sa sinaunang Malapit na Silangan, tulad ng mga Cananeo, ang dagat ay may mitolohikal na kahulugan. Ito ay itinuturing na lugar kung saan nagmula ang kanilang mga diyos, nang ang mga puwersa ng kaguluhan ay nalupig ng mas makapangyarihang mga diyos.
+
+Ayon sa alamat ng mga Cananeo, si Baal, ang patron na diyos ng lupa, ay naging pinakamakapangyarihang diyos ng bagyo matapos niyang talunin si _Yam_ (ang salitang “dagat” sa Hebreo), ang diyos ng dagat. Kaya naman, “sa sinaunang politeistikong pananaw, nananalo ang mga bansa sa mga laban sa lupa dahil ang kanilang mga patron na diyos ay nananalo sa mga laban sa kosmos. Kung natalo at madaling ginamit ni Yahweh, ang Diyos ng Israel, ang kapangyarihan ng rumaragasang ilog sa lubusang pagbaha, ano kaya ang gagawin Niya kay Baal? Ano naman ang gagawin ng bayan ni Yahweh sa Canaan?”—Joseph Coleson, “Joshua,” sa Cornerstone Biblical Commentary: Joshua, Judges, Ruth (Carol Stream, IL: Tyndale House Publishers, 2012), p. 56. Sa kontekstong ito ng kasaysayan, ang pagtawid sa Ilog Jordan ay may tatlong teolohikal na dimensyon na maaaring hindi agad mapansin ng mga mambabasa sa kasalukuyang panahon.
+
+Una, ang katayuan ng Diyos bilang “Panginoon ng buong lupa” (Josue 3:11, 13) ay nagpapakita ng pangunahing pagkakaiba sa pagitan ng mga diyos ng Canaan at ni Yahweh. Ang Kanyang pamamahala ay hindi limitado sa isang partikular na teritoryo. Ang buong mundo ay pag-aari Niya at nasa ilalim ng Kanyang kapamahalaan. Siya ang tunay na May-ari at Panginoon ng sanlibutan, at sa ganitong diwa, si Baal, na nangangahulugang “may-ari” o “panginoon,” ay isang huwad. Ang kapangyarihan ng Diyos sa tubig ay patunay ng Kanyang pagiging nakahihigit.
+
+Ikalawa, ang Diyos ay matagumpay. Sa parehong mitolohiya ng Babilonia at Canaan, naging pangunahing diyos sina Marduk at Baal matapos nilang talunin ang makapangyarihang puwersa ng tubig. Sa mga patula at makahulang talata, pinupuri si Yahweh sa Kanyang pagtatagumpay laban sa mga kaaway ng sanlibutan, na inilalarawan bilang isang dragon sa dagat o isang ahas, na tinatawag ding Rahab o Leviatan (ihambing sa Job 41:4; Awit 74:13; Isaias 30:7). Habang nilulupig ni Yahweh ang mga puwersa ng kaguluhan sa tubig, ipinakikita ang Kanyang ganap na tagumpay. Gayunpaman, ang pinakamahalagang pagkakaiba ni Yahweh sa mga diyos na ito ay Siya ay isang buhay na Diyos (Josue 3:10), na kumikilos sa aktuwal na panahon. Hindi Siya isang diyos ng mitolohiya; Siya ang Diyos ng kasaysayan.
+
+Panghuli, si Yahweh ay isang banal na Diyos. Ang kaban ng tipan ay binanggit nang hindi bababa sa dalawampung beses sa Josue 3 at 4, na binibigyang-diin ang kahalagahan nito bilang isang pisikal na representasyon ng Isa na nangunguna sa kanila (Josue 3:11). Ang kaluwalhatian ni Yahweh, na nananahan sa kaban sa Kabanal-banalang dako ng santuwaryo, ay isang nakikitang palatandaan ng Kanyang banal na presensya. Gayunpaman, ang tanda ng Kanyang presensya ay nakikita lamang ng pinakapunong pari isang beses sa isang taon at sa ilalim ng mahigpit na ritwal. Sa pagtawid sa Jordan, ang kaban ay nasa unahan ng mga tao ng halos isang kilometro, nananatiling nakikita lamang habang sila ay tumatawid sa tuyong ilog. Hindi tulad ng mga diyus-diyosan ng Canaan, na nilikha ayon sa imahe ng kanilang mga “manlilikha,” ang Diyos ay bumubuo ng isang bagong bansa ayon sa Kanyang wangis, gaya ng Kanyang utos: “ ‘Kayo’y maging banal, sapagkat ako’y banal’ ” (1 Pedro 1:16; tingnan din ang Levitico 19:2).
+
+Ang tatlong teolohikal na aspektong ito—ang pamamahala ng Diyos, Kanyang tagumpay, at kabanalan—ay dapat sana’y nasa isipan ng mga Israelita habang sila ay pumapasok sa lupain ng Canaan na puno ng idolatriya. Ang alaala ng kagila-gilalas na araw na ito ay dapat nagsilbing panlunas sa idolatriya, isang panlunas na, sa kasamaang-palad, ay hindi ginamit ng Israel.
+
+**Ang Suliranin sa Alaala**
+
+Ang konsepto ng alaala sa Biblia ay dinamiko sapagkat hindi lamang ito tumutukoy sa simpleng pag-alala ng impormasyon. Ipinakikita ito sa ilang pagkakataon kung saan “naalala” ng Diyos ang Kanyang bayan (halimbawa, Exodo 2:24). Kapag ang Diyos ay umaalala, Siya ay kumikilos nang may kagandahang-loob sa Kanyang bayan. Kaya naman, ang panawagan ng Diyos sa Kanyang bayan na alalahanin ay isang panawagan din na sila ay kumilos.
+
+Ang alaala ay dapat isagawa sa loob ng panahon at espasyo sa pamamagitan ng iba’t ibang paraan, tulad ng pagpapasa ng tradisyon mula sa mga magulang patungo sa mga anak, pagtatayo ng mga monumento gaya ng sa Josue 4, at pinakamahalaga, sa pamamagitan ng ritwal at pagdiriwang ng mahahalagang kapistahan sa relihiyosong kalendaryo. Makabuluhan na ang mga kapistahang ito ay may tatlong aspeto. Una, inaalala nila ang mga gawa ng Diyos sa kasalukuyang buhay ng Israel, habang sila ay dumaraan sa mga panahon ng pagtatanim at pag-aani. Pangalawa, ginugunita ng mga kapistahang ito ang mga gawa ng Diyos sa nakaraan, partikular na ang may kaugnayan sa Pag-alis at pananakop. At panghuli, itinuturo rin ng mga kapistahang ito, sa pamamagitan ng tipolohiya, ang mga gawa ng Diyos sa hinaharap sa eskatolohikal na panahon na pinasimulan ni Jesus. Kaya naman, ang biblikal na diwa ng pag-alaala ay hindi lamang sumasaklaw sa nakaraan kundi nagbibigay-daan din upang mamuhay tayo sa kasalukuyan nang may pasasalamat at tumingin sa hinaharap nang may pag-asa.
+
+Sa kasamaang-palad, hindi sinunod ng Israel ang banal na tagubilin na alalahanin. Nagsisimula ang aklat ng Hukom sa isang malungkot na pahayag tungkol sa espirituwal na pagkalimot ng henerasyon matapos ang pagkamatay ni Josue: “hindi kilala ang PANGINOON, ni ang mga bagay na kanyang ginawa para sa Israel” (Hukom 2:10). Kalaunan, hayagang isinasaad ng tagapagsalaysay: “At hindi naalala ng mga anak ni Israel ang PANGINOON nilang Diyos na nagligtas sa kanila sa kamay ng lahat nilang mga kaaway sa buong palibot” (Hukom 8:34).
+
+Ang naging bunga nito ay pagtalikod sa Diyos sa anyo ng idolatriya, na nagpatuloy sa kasaysayan ng Israel mula kay Solomon hanggang kay Zedekias, ang huling hari ng Juda bago ang pagkabihag. Ang idolatriya ay natural na resulta ng espirituwal na pagkalimot. Ito ay malinaw na makikita sa kuwento ni Gomer, na kumakatawan sa Israel, na nakalimutan na ang Diyos, at hindi si Baal, ang nagbigay sa kanya ng “ ‘trigo, alak, at langis, at nagpasagana sa kanya ng pilak at ginto na kanilang ginamit para kay Baal’ ” (Hoseas 2:8). Sa ganitong diwa, ang idolatriya ay kawalan ng pasasalamat, bunga ng isang matinding espirituwal na pagkalimot. Ang radikal na pagkalimot ng Israel ay nagdulot ng halos ganap na pagkawala ng kanilang pagkakakilanlan bago ang pagkabihag sa Babilonia, maliban sa nalabi. Marami sa mga naiwan sa lupain sa panahon ng pagkabihag ang piniling bumalik sa Ehipto. Ang kasaysayan ng mga hari ng Israel at Juda ay nagtatapos sa isang Exodo na pabaliktad, kung saan ang bayan ng Diyos ay bumalik sa Ehipto (Jeremias 43:7). Ang pagkatapon na ito ay nakagigimbal na bunga ng espirituwal na pagkalimot.
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+**Mga Oportunidad sa Ebanghelismo**
+
+Sa orihinal na konteksto ng Lumang Tipan, binibigyang-diin ng mga himala sa Dagat na Pula at Ilog Jordan ang banal na kapangyarihan ng Diyos upang talunin ang mga puwersa ng kasamaan at ang Kanyang pagiging nakahihigit sa lahat ng ibang diyos. Ang mga pampublikong pagtatanghal na ito ay hindi lamang simpleng pagpapamalas ng banal na lakas kundi mga oportunidad din sa ebanghelismo, upang makilala ng ibang mga bansa ang katotohanan tungkol sa Diyos ng Israel.
+
+1\. Paano mo magagamit ang bawat karanasan mo sa Diyos bilang isang pagkakataon upang maipakita sa iba ang tunay na likas ng Diyos na iyong sinasamba?
+
+**Pag-alala sa Nakaraan**
+
+Isa sa mga pinakamaligayang sandali namin bilang pamilya ay ang pag-upo at pagtingin sa mga lumang larawan. Ang mga litratong ito ay mga nakatigil na sandali sa panahon, punong-puno ng damdamin. Sa isang paraan, ang pag-alala ay parang muling pagdanas ng mga alaala.
+
+2\. Isipin mo ang iyong buhay bilang isang malaking album ng mga larawan at subukang kilalanin ang mga sandali kung saan makikita mo ang makapangyarihang presensya ng Diyos sa iyong sariling buhay.
+
+Sa isang sermon na pinamagatang “Kapag Naaalala ng Diyos,” sinabi ni Hans K. LaRondelle na ang pag-alala “sa nakaraan ay nangangahulugang pagpapanibago ng ating pag-asa para sa hinaharap.” Sa parehong diwa, nang magsalita si Ellen G. White tungkol sa pangunguna ng Diyos sa kilusang Seventh-day Adventist, sinabi niya nang may di-malilimutang pananalita: “Wala tayong dapat ikatakot para sa hinaharap, maliban na lamang kung makalimutan natin ang paraan kung paano tayo ginabayan ng Panginoon.” —Ellen G. White, Life Sketches, p. 196.
+
+3\. Ikwento sa iyong klase kung paano ang mga alaala ng mga ginawa ng Diyos sa iyong buhay ay nagbigay ng inspirasyon sa iyo sa mga pagsubok na panahon.

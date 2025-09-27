@@ -1,0 +1,64 @@
+---
+title:  Komento ng Guro
+date:  21/11/2025
+---
+
+### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Hebreo 13:7
+
+**Pokus ng Pag-aaral:** Bilang 13:30–32; Josue 14:6–14; Lucas 18:1–5; Josue 19:49–51; 2 Corinto 3:18; Roma 12:1, 2
+
+**Panimula**
+
+Si Josue at Caleb ay nagkaroon ng matinding karanasan sa kanilang buhay. Ginugol nila ang kanilang kabataan bilang mga alipin sa Ehipto. Sa pagsisimula ng kanilang pagtanda, nasaksihan nila ang makapangyarihang gawa ng Diyos sa Exodo. Sa kalagitnaan ng kanilang buhay, gumala sila sa ilang kasama ang lahing hinatulan, na nagtangkang patayin sila nang kanilang tutulan ang kanilang kawalan ng pananampalataya. Sa wakas, sa kanilang katandaan ay tumawid sila sa Ilog Jordan upang angkinin ang lupain. Ang kanilang buhay ay sumasaklaw sa mga pangyayaring isinalaysay sa buong Pentateuch, maliban sa Genesis. Ang mga karanasang ito ang humubog sa pagkatao ng mga natatanging lingkod ng Diyos. Naranasan nila ang pagkaalipin at kalayaan, pagkadismaya at pag-asa, pagkaantala at katuparan.
+
+Ngayong linggo, mayroon tayong pagkakataon na pagnilayan ang espirituwal na tagumpay nina Josue at Caleb. Dalawang mahalagang sandali ang nagpapakita ng kanilang pananampalataya at katapatan. Ang una ay nang bumalik ang labindalawang espiya, kung saan sinubukan nina Josue at Caleb na hikayatin ang unang henerasyon na magpatuloy at angkinin ang lupain sa kabila ng banta ng mga Cananeo (Bilang 13:30–33; Bilang 14:5–10). Apatnapung taon ang lumipas, sa ikalawang pangyayari, pumili sina Josue at Caleb ng lupa para sa kanilang mana. Ang hindi pangkaraniwang aspeto ng kanilang pagpili (Josue 14:6–15) ay nagpapakita kung bakit sila itinuring sa kasaysayan ng Biblia bilang mga halimbawa ng pananampalataya, tapang, katapatan, at pagtitiis. Ang kanilang pamana ay nananatili hanggang ngayon at maaaring magbigay-inspirasyon sa kasalukuyang henerasyon upang magtiwala sa Diyos kahit sa pinakamapangahas na mga sitwasyon.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Pananaw ng Pananampalataya (Bilang 13:25–14:10)**
+
+Sa Bilang 13:25–14:10, lahat ng 12 espiya ay nagkasundo sa mga katotohanan ng kanilang ulat. Napakataba ng lupain. Ang bunga na kanilang dinala ay patunay na ang lupain ay “dinadaluyan ng gatas at pulot,” isang karaniwang parirala sa sinaunang Malapit na Silangan na nangangahulugang kasaganaan ng pagkain (tingnan ang Bilang 13:27). Ang pananalitang ito ay hindi nagkataon lamang, sapagkat parehong mga pananalita ang makikita sa pakikipag-usap ng Diyos kay Moises at sa Israel patungkol sa Canaan (Exodo 3:8; Levitico 20:24). Tunay ngang di-pangkaraniwan ang lupaing iyon. Nagkasundo ang mga espiya sa paglalarawan sa militar na kakayahan ng mga Cananeo, na kanilang inilarawan bilang malalakas at naninirahan sa malalaking bayan na may matitibay na kuta (Bilang 13:28). Hanggang sa puntong ito, tahimik sina Josue at Caleb, sapagkat hindi nila maaaring pasinungalingan ang kanilang nakita.
+
+Nag-umpisa ang hindi pagkakasundo sa interpretasyon ng mga katotohanang ito. Nagpasya ang karamihan: “ ‘Hindi tayo makakaakyat laban sa mga taong iyon, sapagkat sila’y malalakas kaysa atin. . . . Ang lupain na aming pinaroonan upang lihim na siyasatin ay isang lupain na nilalamon ang mga naninirahan doon . . . kami sa aming sariling paningin ay naging parang mga tipaklong, at gayundin kami sa kanilang paningin’ ” (Bilang 13:31–33). Sa kanilang negatibong pagsusuri, pinalala pa ng sampung espiya ang sitwasyon sa pagsasabing ang lupain ay “ ‘nilalamon ang mga naninirahan doon.’ ” Sa gayon, pinasinungalingan nila ang kanilang sariling ulat at ang katotohanan na ang lupain ay isinusuka palabas ang mga bansa nito (Levitico 18:26–29), hindi kabaliktaran. Lubos namang naiiba ang paliwanag ng kakaunti (sina Caleb at Josue).
+
+Maliwanag na inilalarawan ni Ellen G. White ang epekto ng ulat ng sampung espiya sa kongregasyon: “Ang kanilang kawalan ng pananampalataya ay nagdulot ng madilim na anino sa buong kapulungan, at ang makapangyarihang gawa ng Diyos, na madalas ipinakita para sa hinirang na bansa, ay nakalimutan. Hindi naghintay ang bayan upang magnilay; hindi nila naisip na Siya na nagdala sa kanila hanggang dito ay tiyak na ibibigay din sa kanila ang lupain; hindi nila inalala kung paano sila kahanga-hangang pinalaya ng Diyos mula sa kanilang mga maniniil, hinati ang dagat, at nilipol ang hukbo ni Faraon na humahabol sa kanila. Hindi nila isinama ang Diyos sa usapan, at kumilos na para bang nakasalalay lamang sila sa lakas ng kanilang sariling mga bisig.”—Patriarchs and Prophets, p. 388.
+
+Taliwas sa kaduwagan at kawalan ng pananampalataya ng sampung espiya, iginiit ni Caleb: “ ‘Ating akyatin agad at sakupin sapagkat kayang kaya nating lupigin iyon’ ” (Bilang 13:30). Kasabay ng positibong panawagang ito, pinunit ni Josue ang kanyang kasuotan sa dalamhati at muling tiniyak na wala silang dahilan upang matakot kung ang Panginoon ay nasa kanilang panig (Bilang 14:8–10). Tahasang sinalungat ni Josue ang walang-pagsampalatayang ulat tungkol sa lupain at pinagtibay na ang mga naninirahan doon ay magiging pagkain para sa Israel, hindi ang kabaligtaran (Bilang 14:9).
+
+**Mga Tamang Pagpili**
+
+Kung ang buhay ay binubuo ng mga pagpili, ang ating mga desisyon ay nagpapakita rin ng ating pagkatao at humuhubog sa ating hinaharap at pamana. Sa pagtatapos ng buhay nina Josue at Caleb, gumawa sila ng di-pangkaraniwang desisyon tungkol sa kanilang lugar ng pagreretiro. Ipinakita ng mga pagpiling ito na hindi nagbago ang kanilang lubos na pagtatalaga sa plano ng Diyos, at namuhay sila upang luwalhatiin ang Diyos, hindi ang kanilang sarili.
+
+**Bundok ng Hebron**
+
+Humingi si Caleb kay Josue ng pahintulot na manahin ang Bundok ng Hebron (Josue 14:12a). Ngunit bakit Hebron? Totoo, ang lugar ay may makasaysayang kahalagahan. Kilala rin ito bilang Kiryat-arba at isa sa pinakamatandang lugar na binanggit sa Biblia (Genesis 23:1, 2). Bukod pa rito, nanirahan doon si Abraham at doon din siya inilibing kasama si Isaac (Genesis 25:9, 10; Genesis 35:27–29). Gayunpaman, hindi ito ang dahilan ng pagpili ni Caleb. Sa edad niyang 85, maaari siyang pumili ng lugar na madaling puntahan. Ngunit hindi ito ang kanyang isinasaalang-alang, sapagkat isang bundok ang kanyang hinihiling. Wala ring makikitang pahiwatig na ang Bundok ng Hebron ay isang mainam na lugar ng pagreretiro, na may saganang agrikultura, maayos na imprastraktura, o maayos na seguridad.
+
+Si Caleb mismo ang hayagang nagpahayag ng dahilan ng kanyang pagpili: “ ‘sapagkat nabalitaan mo nang araw na iyon kung paanong nariyan ang mga Anakim, na mga lunsod na malalaki at may pader’ ” (Josue 14:12). Hinangad niya ang kuta ng mga higante! Isa sa kilalang mga Anakim ay si Goliat mula sa Gat, ang tanging lugar sa lupain kung saan nanatili ang ilan sa kanila (Josue 11:22). Si Goliat ay may taas na 9.5 talampakan (2.9 metro). Pinili ni Caleb na sakupin ang isa sa pinakamapanghamong bahagi ng lupain. Ngunit bakit nanaisin ng isang 85 taong gulang na sakupin ang ganitong lugar? Sa loob ng maraming taon mula sa Kadesh-barnea, hindi naglaho ang pananampalataya ni Caleb o ang kanyang pananaw batay sa pananampalataya. Marahil, may tatlong layunin ng kanyang kahilingan: upang magbigay-inspirasyon sa bagong henerasyon, upang patunayan na nagkamali ang kanyang henerasyon, at upang luwalhatiin ang pangalan ng Diyos. Isang matandang lalaking lubos na nagtitiwala sa kapangyarihan ng Diyos ay kayang mapagtagumpayan ang nagdulot ng takot sa buong bansa.
+
+**Ang Mana ni Josue**
+
+Gayundin, hindi pansariling kapakinabangan ang naging batayan ng pagpili ni Josue. Parehong ipinakita nina Josue at Caleb ang tunay na diwa ng pamumuno: ang maglingkod sa iba kaysa sa sarili. Bagaman kakaunti ang nabanggit tungkol kay Caleb, ang landas ni Josue—mula sa pagiging lingkod ni Moises (Josue 1:1) hanggang sa pagkilala sa kanya bilang lingkod ni Yahweh (Josue 24:29)—ay malinaw na ipinakita. Ngunit paano hinubog ni Josue ang kanyang katangian bilang isang pinuno?
+
+Una, natuto si Josue sa ilalim ng gabay ng isang dakilang pinuno. Sa lahat ng pagkakataong lumilitaw si Josue sa Pentateuch, siya ay nasa ilalim ng awtoridad ni Moises. Halimbawa, sa Exodo 17:8–13, ang tagumpay ni Josue sa labanan ay nakadepende sa patuloy na pagtataas ni Moises ng kanyang tungkod. Sa Exodo 32:17, 18, makikita si Josue na sumusunod kay Moises sa taluktok ng bundok. Bilang malinaw na tanda ng awtoridad ni Moises kay Josue, binago niya ang pangalan nito (Bilang 13:16).
+
+Bata pa lamang (naar), pinili na si Josue upang sumunod kay Moises (Exodo 33:11), at sa kanyang buong maygulang-na-buhay, siya ay malapit na konektado kay Moises. Pangalawa, sa kabila ng kanyang kakulangan sa karanasan, pinili siya ng Diyos dahil siya ay isang espirituwal na tao (Bilang 27:18). Dahil dito, hindi ambisyon sa sarili o pansariling kasiyahan ang nagtulak sa kanya. Dahil sa tinitingnan niya ang mga bagay-bagay mula sa espirituwal na pananaw, namuhay si Josue para sa kaluwalhatian ng Diyos, inuuna ang mga tunay na mahalaga. Panghuli, natuto si Josue mula sa kanyang sariling pagkakamali. Matapos ang kamatayan ni Moises, patuloy pa rin siyang hinuhubog bilang isang lider. Makikita ito sa insidente sa Ai (Josue 7) at sa kasunduan sa mga Gibeonita (Josue 9). Sa katunayan, ang pagkatuto bilang isang lider ay isang panghabambuhay na proseso ng pagsasanay, paglago, at pagbabago.
+
+Ang buhay ng dalawang espirituwal na higanteng ito, sina Josue at Caleb, ay nagtuturo sa atin ng hindi bababa sa limang mahahalagang aral. Una, ang mga katotohanan ng buhay ay hindi kasinghalaga ng kung paano natin ito tinitingnan. Sa isang makasalanang mundo, madalas na malupit ang reyalidad, ngunit ang banal na kapahayagan ay nagbibigay sa atin ng tamang lente upang makita ito sa tunay at panandaliang pananaw. Pangalawa, ang pananampalataya ay hindi nagwawalang-bahala sa mga katotohanan; nagbibigay ito ng ibang anggulo ng pag-unawa. Pangatlo, sa halip na magreklamo, tayo ay tinawag upang magtiwala at magpasakop sa mga plano ng Diyos, na laging higit na mabuti kaysa sa ating sariling plano. Pang-apat, ang pagpapala ay dumarating sa mga ganap na nananatili sa Panginoon. Sa espirituwal na larangan, maraming tao ang unti-unting nawawalan ng pananampalataya sa paglipas ng panahon dahil sa pagkawala ng kanilang “unang pag-ibig” (Apocalipsis 2:4). Gayunpaman, hindi ito nangyari kay Josue at Caleb, na buong buhay nilang pinanatili ang kanilang pananampalataya at lubos na pagsunod sa plano ng Diyos. Panghuli, ang buhay sa lahat ng aspeto nito ay dapat isabuhay ayon sa mga plano ng Diyos, hindi ayon sa makasarili at sakim na ambisyon. Ang buhay nina Josue at Caleb ay isang halimbawa ng mga salita ni Pablo sa 1 Corinto 10:31: “Kaya kung kayo man ay kumakain, umiinom, o anuman ang inyong ginagawa, gawin ninyo ang lahat sa ikaluluwalhati ng Diyos.”
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+**Ano ang Iyong Pananaw?**
+
+Kapag nagkaroon ng pagkakataon ang isang tao na sumakay sa eroplano o umakyat sa isang mataas na bundok upang makita ang isang lunsod mula sa itaas, napapansin nilang tila napakaliit ng mga gusali mula sa malayo. Gayunpaman, kapag naglakad sila sa parehong lunsod, mapapansin nilang sila mismo ang napakaliit kumpara sa mga istrukturang ito. Ano ang nagbago? Wala, kundi ang pananaw kung saan nila tinitingnan ang mga bagay.
+
+Kapag nahaharap tayo sa mga hamon ng buhay, maaari nating tingnan ang mga ito mula sa pananaw ng pagdududa o pananampalataya. Gaya ng sinabi ng isang tao: “Ang pagdududa ay nakikita ang mga balakid. Ang pananampalataya ay nakikita ang daan! Ang pagdududa ay nakikita ang pinakamadilim na gabi. Ang pananampalataya ay nakikita ang araw! Ang pagdududa ay natatakot humakbang. Ang pananampalataya ay lumilipad nang mataas! Ang pagdududa ay nagtatanong, ‘Sino ang naniniwala?’ Ang pananampalataya ay sumasagot, ‘Ako!’ ”—Paul Lee Tan, Encyclopedia of 7700 Illustrations (Garland, TX: Bible Communications, 1996), p. 404.
+
+1. Pag-isipan ang sumusunod na mga kuwento at suriin ang papel ng pagdududa at pananampalataya sa mga ito:
+2. Si Abraham, sa edad na 100, ay nagtiwala sa pangako ng Diyos na siya ay magkakaroon ng maraming anak (Genesis 15:1–6; 17:1–7; 21:1–7).
+3. Si Eliseo ay nanalangin upang mabuksan ang mga mata ng kanyang lingkod at makita ang hukbo ng Diyos sa kanilang paligid (2 Hari 6:17).
+4. Ipinaliwanag ni Jesus sa Kanyang mga alagad na sa pamamagitan ng bulag na tao, mahahayag ang mga gawa ng Diyos (Juan 9:1–7).
+5. Si Pablo, bilang bilanggo, ay nanawagan kay Haring Agripa at sa kanyang hukuman na maging katulad niya sa pananampalataya (Gawa 26:28, 29).
+
+Pagnilayan ang masakit at mahirap na mga reyalidad sa kuwento ng iyong sariling buhay. Paano makatutulong ang pananaw ng pananampalataya upang magkaroon ka ng lakas ng loob at resolusyon upang harapin ang mga ito?
