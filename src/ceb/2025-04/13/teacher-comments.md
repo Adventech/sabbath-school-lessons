@@ -1,0 +1,68 @@
+---
+title:  Komento sa Magtutudlo
+date:  26/12/2025
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto:** Josue 24:15
+
+**Tutokan sa Pagtuon:** Josue 24; Genesis 12:7; Deuteronomio 5:6; 1 Hari 11:2, 4; 2 Timoteo 4:7, 8
+
+Sa estilo ni Moises, nagtapus ang libro sa Josue sa usa ka pakigpulong diin si Josue nagawhag sa katawhan sa pagbaton og usa ka baroganan. Human sa hataas ug mainiton nga kinabuhi, andam na si Josue pagkompleto sa iyang buluhaton. Sa nahauna nga bahin sa pakigpulong, ang mga pulong ni Josue mao ang mga pulong sa paghisgot pagusab kang Yahweh, kong unsa ang mga nabuhat sa Dios alang sa Israel sukad sa pagtawag kang Abraham (Josue 24:1–13). Pinaagi sa paggamit og 19 ka mga berbo diha sa panguna nga persona, gipalig-on pagusab sa Dios ang pasibo nga katungdanan sa Israel niini nga kalihokan, nga lahi sa sublisubli nga paggamit sa ikaduha nga persona “ikaw/imong” sa paghulagway sa Israel.
+
+Ang ikaduha nga bahin sa pakigpulong nagsugod sa adberbo “karon” (atta), sa pagpaila sa katapusang tawag ni Josue alang sa presente nga tubag, usa ka pakilooy ngadto sa mga tawo sa pagpalihok sa ilang kagawasan sa pagpili. Ang usa ka seremonya alang sa pagbag-o sa tugon nagsunod, sa panahon nga ang duha ka mga saksi gipabarog: ang katawhan sa ilang mga kaugalingon ug laing bato sa handumanan: Nagpalanog gihapon sa katapusan sa Deuteronomio, ang panagsultihay ni Josue ug sa katawhan naghatag usa ka panaglalis tali sa duha ka mga tumong: ang usa ngadto sa pagpahiuyon, kalig-on, ug panaghiusa, ug ang lain padulong sa pagkadili-maunongon, pagkawalay-siguro, ug pagkabungkag. Niini nga mga simanganan, ang desisyon sa matag usa ka tawo nahimutang. Naghimo si Josue sa iyang tinaw nga pagpili sa taliwala sa kapitulo: “Alang kanako ug sa akong balay, kami magaalagad kang Jehova” (Josue 24:15).
+
+Nagtapus ang libro sa tulo ka mga lubnganan (Josue 24:29–33). Ang tono bahin sa katapusang dapit nga pahulayan sa patay nga lawas ni Jose nagdala ngadto sa pagsira ngadto sa usa ka naandang nagsugod sa Genesis. Sama sa pagkamatay ni Aaron ug Moises diha sa Deuteronomio, ang kamatayon ni Josue ug ni Eleazar nagtimaan sa katapusan sa usa ka panahon. Sa walay makita nga agianan sa katubigan niini nga bag-ong panahon, ang Israel makasalig sa dili mabungkag nga pakigsaad sa Dios sa Iyang mga saad.
+
+### Bahin II: Komentaryo
+
+**Sa Sechem na Usab**
+
+Sa Biblia, ang heograpiya usa ka teolohiya usab. Ang kabubut-on sa Dios sa pagdala sa Israel ngadto sa Sechem alang niini nga pagbag-o sa tugon dili usa ka pagkahiatol. Kapid-an ka siglo kaniadto, didto sa Jacob sa Sechem sa pagpakita sa Dios ngadto kaniya, sa pagpahimangno kaniya sa pagadto sa Bethel (Genesis 35:1). Sa pagpangandam alang sa panaw, giawhag ni Jacob ang iyang panimalay nga “isalikway ninyo ang laing mga dios nga anaa sa taliwala kaninyo, ug maghinlo kamo, ug ilisan ninyo ang inyong mga bisti” (Genesis 35:2). Mituman ang katawhan, paghatag sa ilang langyaw nga mga dios ug ang dayandayan nga mga pulseras, nga gilubong ilalum sa usa ka kahoy nga oak. Ang resulta, ang pagpalisang sa Dios miabut sa mga namuyo sa Canaan hangtod sa pagabut ni Jacob sa Bethel aron pagtukod og usa ka halaran sa pagpasidungog kang Yahweh (Genesis 35:3–7). Didto sa Behel, gimatuud pagusab sa Dios ang Iyang saad ngadto kang Jacob sa pamilyar nga mga pulong: “Ako mao ang Dios nga Makagagahum sa ngatanan; magmabungaon ka ug magdaghan ka: usa ka nasud ug pundok sa mga nasud magagikan kanimo, ug ang mga hari magagikan sa imong mga hawak. Ug ang yuta nga gihatag ko kang Abraham ug kang Isaac, igahatag ko kini kanimo, ug sa imong kaliwatan sa ulahi nimo igahatag ko ang yuta” (Genesis 35:11, 12).
+
+Sa sama nga paagi gipalambo ni Josue ang espirituhanong pagpabuhi, sa pagmatuud pagusab sa pagtugyan sa Dios ngadto sa Iyang mga saad. Nagtindog ibabaw sa gilubong nga mga diosdios, iyang gipahinumduman ang Israel bahin sa katalagman sa pagsimba og diosdios ug sa pagkaimportante sa pagkamatinumanon. Niini nga bahin, ang mga anak sa Israel nahimutang sa sama nga mga simanganan nga mga dalan. Ang Sechem maoy usa ka dapit sa pagdesisyon, usa ka dapit nga lantawan ngadto sa umalabot, sa walay paghikalimot sa nangagi. Kana nga pagpili magagad dili lamang sa indibiduwal, kondili sa tiningub usab, nga padulngan sa Israel. Ang pagsalikway sa langyaw nga mga dios didto sa Sechem nagpalig-on sa hiniusa nga pagkatawo sa panimalay ni Jacob. Ang isyu sa panahon ni Josue mao kong magpabilin ba ang Israel o dili.
+
+**Ako o Kita**
+
+Usa sa mga kalainan sa pagtan-aw sa kalibutan tali sa moderno nga Western katilingban ug sa katilingban biblikal nga kalibutan mao ang relasyon tali sa indibiduwal o tiningub nga personalidad. Sa temporal nga mga pulong, ang indibiduwal nga mga pagpili sa gitan-aw sa kanunay kadugtong sa tibuuk komunidad. Kini nga panghunahuna makita diha sa Josue 24:6, diin ang Dios nagingon, “Ug gidala ko ang inyong mga amahan ngadto sa gawas sa Egipto: ug kamo ming-adto sa dagat,” bisan og daghan sa mamiminaw wala pa mangatawo sa pagkahitabo sa Exodo.
+
+Si Wheeler Robinson maoy nahauna nga eskolar sa paggamit sa konsepto sa “tiningub nga personalidad” ngadto sa biblikal nga teksto. Ang konsepto, nga gikan sa Ingles nga balaod, nagpasabut ngadto “sa kamatuuran nga ang usa ka pundok o lawas maila sa legal ingon nga usa ka indibiduwal nga nagbaton sa mga katungud ug mga buluhaton sa usa ka indibiduwal.”—J.N. Rogerson, “Corporate Personality,” The Anchor Bible Dictionary (New York: Doubleday, 1992), p. 1156. Naggamit si Robinson sa pulong sa duha ka mga kahulogan: tiningub nga personalidad ug tiningub nga representasyon. Bisan og gisaway tungud sa kakulang sa pagkatukma ug paggamit (karon) sa karaan na nga antropolokikal nga mga prinsipyo, ang ideya ni Robinson kinahanglan dili bug-os nga dili tagdon. Sa biblikal nga mga pagtuon, ang iyang konsepto gisagop sa nagkaangay ingon nga “tiningub nga paghiusa,” nga nagpasabut ngadto sa “pagbalikbalik o resiprokal nga relasyon tali sa indibiduwal ug sa komunidad nga diha sa Semitic nga hunahuna. Ang indibiduwal nga paglihok dili lang iyang indibiduwal nga buhat, kay nakaapekto kini sa komunidad ug ngadto balik niini. Ang indibiduwal sagad representante sa komunidad ug vice versa.” G.K. Beale, The Right Doctrine From the Wrong Texts? Essays on the Use of the Old Testament in the New (Grand Rapids, MI: Baker Academic, 1994), p. 37.
+
+Ang panaghiusa sa katilingban dili lang usa ka dili ikalimod nga katinuuran luyo sa biblikal teksto—ug sa gihapon buhi sulud sa daghang mga katilingban nga nagpasantop sa pagsaligay, pagpahiuyon, ug lig-ong pagkatawo sa pamilya karon—kondili usa usab ka sukaranang pangagpas sa biblikal nga tipolohiya. Gani, anaa kini sa sentro sa ebanghelyo. Sa negatibo nga habig, bisan og dili kita responsable alang sa sala ni Adan, ang iyang kapakyasan nagbukas sa pultahan ngadto sa daotan, kansang impluwensiya walay usa gawas kang Cristo nakahimo sa pagsanta diha sa usa ka masabtan nga paagi. Sumala sa giingon ni Pablo, “Busa, maingon nga ang sala misulod sa kalibutan pinaagi sa usa ka tawo ug ang kamatayon misulod pinaagi sa sala, ug nga tungod niini ang kamatayon mikuyanap ngadto sa tanang mga tawo sanglit ang tanang mga tawo nakasala man” (Roma 5:12). Sa positibo nga habig, ang kadaogan ni Cristo ingon nga bag-ong Adan, ang representante sa bag-ong katawhan, nagdala sa impluwensiya sa pagkamaayo ug sa posibilidad sa kadaogan ngadto sa tanan: “may usa nga nagpakamatay alang sa tanan; busa ang tanan nangamatay diay” (2 Corinto 5:14). Gidugangan ni Pablo kini nga hunahunaa sa pagingon: “Busa, maingon nga ang paglapas nga gihimo sa usa ka tawo misangpot sa pagkahinukman sa silot sa tanang mga tawo, mao man usab, ang buhat sa pagkamatarung nga gihimo sa usa ka tawo mosangpot ngadto sa hukom sa kagawasan ug ngadto sa kinabuhi alang sa tanang mga tawo (Roma 5:18).
+
+**Indibiduwal nga Kagawasan**
+
+Sa kahulogan sa temporaryo nga mga panalangin ug mga tunglo sa tugon, wala gayud magtagad ang Dios sa Iyang katawhan sa indibiduwal. Ang hulagway sa iglesya sa Bag-ong Tugon ingon nga lawas ni Cristo gipasukad niini nga sosyal nga pagsabut. Sa Daang Tugon, ang sumada sa indibiduwal nga mga desisyon sa kanunay nakaapektar sa katawhan sa kinatibuk-an. Kini nga konsepto makita sa pagampo ni Daniel, diin nagsulti siya bahin sa pagpasaylo alang sa mga sala nga wala niya mabuhat sa personal (Daniel 9).
+
+Apan, tinaw nga nagpamatuud ang Kasulatan sa bili sa indibiduwal nga kagawasan. Sumala kang Ezequiel, “ang kalag nga makasala, kini mamatay: ang anak dili magapas-an sa kasal-anan sa amahan, ni ang amahan magapas-an sa kasal-anan sa anak; ang pagkamatarung sa matarung anha kaniya, ug ang pagkadautan sa dautan anha kaniya” (Ezequiel 18:20); itandi sa Deuteronomio 24:16). Gikan sa usa ka walay katapusang pagsabut, tagdon sa Dios ang matag usa kanato. Atong maatubang ang mga sangputanan sa mga sala sa uban, apan dili ang ilang pagkasad-an.
+
+Ang katapusang pakigpulong ni Josue naghatag niini nga pagkalalis tali sa kolektibo ug indibiduwal, nga pagkatawo. Samtang diha sa kolektibo nga kahulogan, iyang gihisgutan ang buhat sa Dios sa pagtubos sa nangagi ug nagpahinungod ngadto sa mga buhat sa Dios sa paghukum nga umalabot, ang iyang hangyo indibiduwal. Kini nga indibiduwal nga kagawasan masabtan sulud sa mga natad bahin sa tugon. Sa tinuod, ang kagawasan nga walay porma usa ka kawang. Ang mga tawo makahimo pagdesisyon kong siya magminyo, apan sa panahon nga sila magkauyon sa pagminyo, nahigtan sila sulud sa mga kinutoban sa kasabutan sa kaminyoon. Sa praktikal nga mga kasabutan, ang walay pagpugong nga kagawasan mosangko ngadto sa pagkaulipon.
+
+Sa biblikal nga pinulongan, importante ang pagtimaan nga ingon nga napahigawas na gikan sa pagkaulipon gipasabut ingon nga pagkatinubus, dili kagawasan. Sa pagbiya sa Israel sa Ehipto, dili lang kadto ingon nga makahimo sa pagpili kon moalagad o dili, kondili bahin sa pagbaton og kagawasan kon moalagad ba sila. Gani, “ang hagit ni Josue nagpalig-on sa kahimtang nga kadtong mahimong Israel mao kadtong ginapili ug giluwas ni Yahweh. Kadtong magpabilin nga Israel mao kadtong magpili ug moalagad kang Yahweh.”—Mark Ziese, Joshua (Joplin, MO: College Press Publishing Company, 2008), p. 383. Niini nga kahulogan, “ang kagawasan mao ang kahimtang nga migula human nagbuhat ang Dios sa pagkuha sa tanang babag—sosyal, espiritwal (sala ug kamatayon), ekonomik, ug institusyonal—nga magtabon sa katuyoan sa atong pagkalalang. Kini nga katuyoan mao ang pagkahibalo, sa gugma, pagsimba, ug pagkalipay sa Dios sa kahangturan.”—Esau McCulley, “Freedom,” sa Douglas Mangum, ed., The Lexham Theological Workbook, Logos Edition (Bellingham. WA: Lexham, 2014).
+
+Ang kagawasan maoy labing bililhon nga gasa nga gihatag sa Dios ngadto sa Iyang mga linalang. Apan, sumala sa gipakita sa tawhanong kasaysayan, mao usab kini ang labing peligro tungud kay mahimo kini nga gamiton sa sayup nga paagi, uban sa malisud nga mga sangputanan. Ang Dios sa pagkamahinungdanon gugma, ug walay gugma kong walay kagawasan. Busa, ang punto dili kon kita adunay kagawasan, kondili unsaon nato paggamit niini nga kahibulungang gasa. Kini nga pangutana gihisgutan sa katapusan sa libro ni Josue.
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+**Ang Hagit sa Kagawasan**
+
+Dili sayon ang pagkagawasnon. Kini nga ideya gipakita sa kasaysayan sa Israel, kinsa gigiyahan sa Dios didto sa kamingawan aron magtuon sa kahulogan sa kagawasan. Bisan og gipataas kini nga panahon, ang tulunghaan sa kamingawan wala magkahulogan nga molungtad kini og kapin sa usa ka tuig ug tunga—ang panahon tali sa Exodo ug sa pagabut didto sa Kadesh Barnea (Exodo 19:1, Numeros 10:11, Deuteronomio 1:2).
+
+1. Nganong kinahanglan kita magtuon kon unsaon paggamit ang kagawasan?
+2. Kong ikaw usa ka ginikanan, hunahunaa kon unsaon nimo pagtudlo ang imong mga anak sa paggamit sa ilang gawasnon nga kabubut-on. Ipasabut ang imong ideya.
+3. Sa unsa nga paagi ang malisud nga mga sangputanan makapaabtik sa atong pagtuon?
+
+**Ang Pagsimba og Diosdios Karon**
+
+Hunahunaa ang mosunod nga kahulogan sa usa ka diosdios nga gisugyot ni Martin Luther diha sa iyang komento bahin sa nahauna nga sugo sa iyang Dakung Katekismo: “Ang pagsalig ug pagtoo sa kasingkasing lamang makahimo sa Dios ug usa ka diosdios. . . . Bisan unsay kuptan sa imong kasingkasing ug mosalig niini, mao gayod kana ang imong dios.” Martin Luther, Luther’s Large Cathechism; trans. by John Nicolas Lenker (Minneapolis, MN; Luther Press, 1908), p. 44. Ang idolatriya maoy usa ka sukaranang bahin sa kultura sa kapanahonan sa Biblia. Sa pagkatinuud, usa kadto ka nagpadayon nga hulga sa katawhan sa Dios nga sa katapusan nakahatud sa Israel ug sa Juda ngadto sa pagkabihag.
+
+Bisan, ikaw nga usa ka Adbentista, dili ka mosimba sa mga larawan sa mga dios, sa unsa nga paagi ang idolatriya mahimo gihapon nga usa ka hulga sa imong pagtoo?
+
+**Ang Katapusan**
+
+Sama sa Deuteronomio, ang libro sa Josue nagtapus uban sa usa ka pagpahinungod ngadto sa lubnganan nga mga dapit. Daw dili maayo ang panapus nga panghunahuna sa usa ka libro nga sa kadaghanan naghisgot bahin sa mga kadaogan uban niini nga matang sa detalye.
+
+1. Ngano sa imong paghunahuna ang libro gitapus niini nga paagi?
+2. Bahin sa unsang mensahe gipasabut sa Dios ang kinaiyahan sa pagpangulo ug sa Iyang nagpadayon nga paggahum bahin sa kasaysayan?
+3. Sa unsa nga paagi kini nga mensahe makatandog sa imong pagtan-aw sa kapangulohan ug sa balaan nga pagmando sa Iglesya?
