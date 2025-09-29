@@ -1,0 +1,23 @@
+### Dugang nga mga Kahigayonan: Ang Tolon-an Sang Josue
+
+Ang tolon-an sang Josue nagamarka sang pagsaylo sang pagdumala halin kay Moises pakadto kay Josue. Nagasugod ini sa istorya sang Israel pasulud sa Dutang Ginsaad kag nagtapos sa pagpuyo nila sa sina nga duta.
+
+Sa pagkamatuud, si Josue may mabudlay nga buluhaton nga dapat sundon. Ina amo ang pagpadayon sa kon diin si Moises (Moises!) nag-untat. Apang ang ina nga panghangkat panugod pa lamang. Si Josue kinahanglan maghimo sang wala pa gid nahimo ni Moises: pagkatapos sang 40 ka tuig sa kamingawan, pagadal-on niya ang pungsud patabok sa Jordan kag pakadto sa Canaan, sono sa saad nga nahimo sang Dios sa ila mga ginikanan sang nagligad nga mga tinuig.
+
+“Si Moises nga akon alagad napatay na; busa karon tindug, tabok ka sini nga Jordan, ikaw kag ining bug-os nga katawohan, pakadto sa duta nga ginahatag ko sa ila, sa katawohan sang Israel” (Jos. 1:2).
+
+Ang yabi sa bug-os nga istorya makita diri, sa mga pulong sang Dios sa kay Josue: magasulud sila sa “duta nga ginahatag ko [YHWH] sa ila.”
+
+Hoo, si Josue indi maghimo sini nga nagaisahanon, kondi paagi sa gahum kag pagtuytuy sang Ginoo, nga nakadala na kuntani sang katawohan sa duta sang nahauna nga kaliwatan kon lamang gintuman nila ang ila katungdanan sa katipan. Sing makasulubo, wala nila nahimo ini, kag gani, naangkon nila ang mga balus sang ila mga binuhatan.
+
+Sang nagligad nga 40 ka tuig, naatubang sang Israel ang negatibo nga bahin sang katipan. Bangud sang ila pagrebelde batok sa Dios, ang bug-os nga kaliwatan sang mga hamtong nga naeksperiensyahan ang makahalangawa kag makatilingala sang Exodo, walay labut sa kay Caleb kag Josue, nagkalamatay sa kamingawan. Apat sa lima ka libro ni Moises nagasaysay bahin sa kon ano ang natabo sa ila samtang sila nagpalibutlibut sa kamingawan sa sina nga tion. Karon, sa idalum sang pagdumalahan ni Josue, ang ikaduha nga kaliwatan handa na nga atubangon ang mga panghangkat sa pag-angkon sang duta.
+
+“Niyan gintawag ni Moises si Josue, kag nagsiling sa iya sa itololok sang bug-os nga Israel, Magpakabakud kag magpakaisug; kay ikaw magasulud upud sining katawohan sa duta nga ginsumpa sang Ginoo sa ila mga ginikanan nga ihatag sa ila; kag ikaw magapapanubli sini sa ila. Ang Ginoo amo ang nagauna sa imo; sia magaupud sa imo, indi sia magpabaya sa imo ukon magbiya sa imo; dili magkahadluk ukon magkahangawa” (Deut. 31:7, 8).
+
+Ang mga saad sang Dios nga ginhatag sa mga patriarka kag sa kay Moises dali nalang matuman. May pagpaabut kag pagkakunyag, isa ka bag-o nga pagsugod para sa katawohan, nga sa malawig nga tion wala sang puluy-an kag wala sang ginaangkon. Ang Dios nangin matutum sa pagluwas sa ila halin sa pagkaulipon, kag pat-ud gid nga masaligan Sia sa pagtuman sang Iya mga saad nahanungud sa duta.
+
+“Ang panguna nga katuyoan sang tolon-an sang Josue amo ang paglaragway tuhoy sa pagsulud sang Israel sa dutang saad, ang pagdaug sang duta, kag ang pagtungatunga sini sa mga kabikahan. Ang ini nga katuyoan nagapatalupangud tuhoy sa mensahe sang tolon-an, nga amo ang pagkamatutum sang Dios sa pagtuman sa saad sang duta nga Iya nahimo kay Abraham. Ang tolon-an nagapatalupangud man nahanungud sa pagkatutum sang Dios sa Iya mga saad sa katipan (Jos. 21:43‒45).”—Andrews Bible Commentary (Berrien Springs, MI: Andrews University Press, 2020), p. 365.
+
+Aton pagatukibon sing tingub nga, bisan pa ang tolon-an sang Josue nasulat sang sobra na sa tatlo ka libo ka tuig ang nagligad, ang kalibutan nga sa diin kita nagapuyo subong wala masyado sing kinalain halin sa panahon ni Josue sa espirituhanon nga mga panghangkat sini. Ayhan makaatubang kita sang mga panghangkat nga lain ang kinaiya, apang walay sapayan ang mga ini mga panghangkat gihapon, ilabi na gid ang espirituhanon nga bahin, nga nagbutang sa katalagman sang aton seguridad, aton pagtoo, kag ang pagkatuman sang misyon nga ginsalig sang Dios sa Iya katawohan. Ang ehemplo ni Josue magapadasig gid sa aton nga angkonon ang mga saad sang Dios nahanungud sa aton mga tinion kag mangin madinalag-on paagi sa Iya gahum, kaangay nga sia nangin madinalag-on.
+
+_Si Barna Magyarosi sa karon nagaserbisyo bilang ehekutibo nga sekretarya sang Inter-European Division kag chair sang Biblical Research Committee sang dibisyon. Nagsugod sia sang iya pagserbisyo sa iglesia bilang pastor kag departamento nga direktor sa South Transylvania Conference, Romania, kag nagpadayon bilang manunudlo sa teolohiya kag presidente sang Adventus University sa Romania._
