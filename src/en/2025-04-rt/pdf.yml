@@ -1,0 +1,142 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-Intro.pdf'
+      target: en/2025-04-rt/introduction
+      title: Introduction
+      start_date: 27/09/2025
+      end_date: 27/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-01.pdf'
+      target: en/2025-04-rt/01
+      title: 'Rules for Heaven’s Agents'
+      start_date: 27/09/2025
+      end_date: 03/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-02.pdf'
+      target: en/2025-04-rt/02
+      title: 'End-time: Angels of Mercy'
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-03.pdf'
+      target: en/2025-04-rt/03
+      title: 'End-time: Disappointment'
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-04.pdf'
+      target: en/2025-04-rt/04
+      title: 'End-time: Home at Last'
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-05.pdf'
+      target: en/2025-04-rt/05
+      title: 'Guarding the Avenues to the Soul'
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-06.pdf'
+      target: en/2025-04-rt/06
+      title: 'Fashion and Self-Image'
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-07.pdf'
+      target: en/2025-04-rt/07
+      title: 'Identity (1): Tested'
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-08.pdf'
+      target: en/2025-04-rt/08
+      title: 'Identity (2): Over Time'
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-09.pdf'
+      target: en/2025-04-rt/09
+      title: 'Identity (3): Ups and Downs'
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-10.pdf'
+      target: en/2025-04-rt/10
+      title: 'Identity (4): Focused'
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-11.pdf'
+      target: en/2025-04-rt/11
+      title: 'Technology and the Christian'
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-12.pdf'
+      target: en/2025-04-rt/12
+      title: 'Ecology: Our Sacred Responsibility'
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-13.pdf'
+      target: en/2025-04-rt/13
+      title: 'Rulership: God’s Managers'
+      start_date: 20/12/2025
+      end_date: 26/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-Intro.pdf'
+      target: en/2025-04-rt/introduction
+      title: Teacher
+      start_date: 27/09/2025
+      end_date: 27/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-01.pdf'
+      target: en/2025-04-rt/01
+      title: Teacher
+      start_date: 27/09/2025
+      end_date: 03/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-02.pdf'
+      target: en/2025-04-rt/02
+      title: Teacher
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-03.pdf'
+      target: en/2025-04-rt/03
+      title: Teacher
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-04.pdf'
+      target: en/2025-04-rt/04
+      title: Teacher
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-05.pdf'
+      target: en/2025-04-rt/05
+      title: Teacher
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-06.pdf'
+      target: en/2025-04-rt/06
+      title: Teacher
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-07.pdf'
+      target: en/2025-04-rt/07
+      title: Teacher
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-08.pdf'
+      target: en/2025-04-rt/08
+      title: Teacher
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-09.pdf'
+      target: en/2025-04-rt/09
+      title: Teacher
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-10.pdf'
+      target: en/2025-04-rt/10
+      title: Teacher
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-11.pdf'
+      target: en/2025-04-rt/11
+      title: Teacher
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-12.pdf'
+      target: en/2025-04-rt/12
+      title: Teacher
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-RT-TE-13.pdf'
+      target: en/2025-04-rt/13
+      title: Teacher
+      start_date: 20/12/2025
+      end_date: 26/12/2025
