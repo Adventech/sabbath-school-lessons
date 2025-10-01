@@ -1,0 +1,162 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-Intro.pdf'
+      target: en/2025-04-pp/introduction
+      title: Introduction
+      start_date: 27/09/2025
+      end_date: 27/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-01.pdf'
+      target: en/2025-04-pp/01
+      title: "Don't Do Something; Just Stand There"
+      start_date: 27/09/2025
+      end_date: 03/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-02.pdf'
+      target: en/2025-04-pp/02
+      title: "Prince Rescued"
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-03.pdf'
+      target: en/2025-04-pp/03
+      title: "The King's Treasure Chest"
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-04.pdf'
+      target: en/2025-04-pp/04
+      title: "Purifying the Temple"
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-05.pdf'
+      target: en/2025-04-pp/05
+      title: "Passover Party"
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-06.pdf'
+      target: en/2025-04-pp/06
+      title: "Habakkuk's Song"
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-07.pdf'
+      target: en/2025-04-pp/07
+      title: "Don't Be Shy!"
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-08.pdf'
+      target: en/2025-04-pp/08
+      title: "Journey to Jerusalem"
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-09.pdf'
+      target: en/2025-04-pp/09
+      title: "Building Up the Temple"
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-10.pdf'
+      target: en/2025-04-pp/10
+      title: "Risking Everything"
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-11.pdf'
+      target: en/2025-04-pp/11
+      title: "God, in Our Neighborhood"
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-12.pdf'
+      target: en/2025-04-pp/12
+      title: "Beginning With a Gift"
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-13.pdf'
+      target: en/2025-04-pp/13
+      title: "Gift Exchange"
+      start_date: 20/12/2025
+      end_date: 26/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-Answers.pdf'
+      target: en/2025-04-pp/answers
+      title: Answers
+      start_date: 26/12/2025
+      end_date: 26/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-PowerTexts.pdf'
+      target: en/2025-04-pp/powertexts
+      title: Power Texts
+      start_date: 26/12/2025
+      end_date: 26/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-Parents.pdf'
+      target: en/2025-04-pp/parents
+      title: Parents
+      start_date: 26/12/2025
+      end_date: 26/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-Intro.pdf'
+      target: en/2025-04-pp/introduction
+      title: Teacher
+      start_date: 27/09/2025
+      end_date: 27/09/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-01.pdf'
+      target: en/2025-04-pp/01
+      title: Teacher
+      start_date: 27/09/2025
+      end_date: 03/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-02.pdf'
+      target: en/2025-04-pp/02
+      title: Teacher
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-03.pdf'
+      target: en/2025-04-pp/03
+      title: Teacher
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-04.pdf'
+      target: en/2025-04-pp/04
+      title: Teacher
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-05.pdf'
+      target: en/2025-04-pp/05
+      title: Teacher
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-06.pdf'
+      target: en/2025-04-pp/06
+      title: Teacher
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-07.pdf'
+      target: en/2025-04-pp/07
+      title: Teacher
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-08.pdf'
+      target: en/2025-04-pp/08
+      title: Teacher
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-09.pdf'
+      target: en/2025-04-pp/09
+      title: Teacher
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-10.pdf'
+      target: en/2025-04-pp/10
+      title: Teacher
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-11.pdf'
+      target: en/2025-04-pp/11
+      title: Teacher
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-12.pdf'
+      target: en/2025-04-pp/12
+      title: Teacher
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-13.pdf'
+      target: en/2025-04-pp/13
+      title: Teacher
+      start_date: 20/12/2025
+      end_date: 26/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-PP-TE-Parents.pdf'
+      target: en/2025-04-pp/parents
+      title: Teacher
+      start_date: 26/12/2025
+      end_date: 26/12/2025
