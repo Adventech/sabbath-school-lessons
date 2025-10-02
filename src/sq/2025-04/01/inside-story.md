@@ -27,7 +27,7 @@ Kasi dhe kisha lundruese qëndrojnë në një fshat për pesë muaj. Pastaj ia d
 
 Kasi dhe bashkëshortja e tij kanë hapur katër kisha në katër vendbanime brenda dy vjetësh. Një grup prej 174 njerëzish janë pagëzuar.
 
-“Çdokush ka historinë e tij,” – tha Kasi në një intervistë në kishën lundruese. – “Por Zoti na ka dërguar njerëz të veçantë dhe Ai po udhëheq në mënyrën e Tij të veçantë.”
+“Çdokush ka historinë e tij,” - tha Kasi në një intervistë në kishën lundruese. - “Por Zoti na ka dërguar njerëz të veçantë dhe Ai po udhëheq në mënyrën e Tij të veçantë.”
 
 **Shënime nga Misioni**
 
