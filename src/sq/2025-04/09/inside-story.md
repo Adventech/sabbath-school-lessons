@@ -72,4 +72,4 @@ Një pjesë e Ofertave të Sabatit të Trembëdhjetë të këtij tremujori, e nj
 - Monedha e Kilit është peso.
 - Spanjollët pushtuan Kilin në vitet 1500. Kili u bë një republikë e pavarur në vitin 1818.
 - Një shpëtim i mrekullueshëm, në një minierë, në Kili, tërhoqi vëmendjen e njerëzve në mbarë botën, në vitin 2010. Një grup prej 33 minatorësh u bllokuan 700 m nën tokë, kur një tunel u shemb, në veri të Kilit. Shpëtuesit lokalizuan minatorët pas 17 ditësh dhe, dy muaj më vonë, gjatë një periudhe prej 24 orësh, të 33 minatorët u shpëtuan.
-- Në vitin 1945, Gabriela Mistral (1889–1957) nga Kili u bë latin-amerikanja e parë që mori Çmimin Nobel për Letërsi.
+- Në vitin 1945, Gabriela Mistral (1889-1957) nga Kili u bë latin-amerikanja e parë që mori Çmimin Nobel për Letërsi.

@@ -1,0 +1,70 @@
+---
+title:  Komento Dagiti Mannursuro
+date:   31/10/2025
+---
+
+### Paset I: Pakabuklan
+
+**Kangrunaan a Teksto:** Josue 10:42
+
+**Sentro ti Adal:** Genesis 15:16; Levitico 18:24–30; 2 Timoteo 4:1, 8; Exodo 23:28–30; Deuteronomio 20:10, 15–18; Isaias 9:6
+
+Kas naibaga idi napalabas a lawas, ti isyu ti nadiosan a gubat idiay Daan a Testamento ket makariribok. Iti panangtratar iti daytoy nga isyu ket iramanna ti pannakaawat iti kapanunotan iti nailangitan-a-dangadang ken umiso a panangamiris iti datus ti Biblia. Ti agipatpatarus ket masapul nga ibilangna dagiti uppat a paspaset no repasoenna ti nailanad iti Biblia.
+
+Umuna, dagiti kabaroanan [moderno] nga agbasa ket masansan nga ipakatda idiay Sursurat ti madama a panangkitada iti gubat. Ti narelihiyosoan a gubat iti sistema ti gobierno ti Dios idiay Daan a Testamento ket naisalsalumina ken maipatarusda koma a kas maiyataday.
+
+Maikadua, nasken met a maawatan ti naibatay iti pakasaritaan a lawag ti Canaan ken ti relihiyonna tapno maawatan no apay a dagiti agnanaed kenkuana ket napapanawda manipud iti daga.
+
+Maikatlo, saan a pulos a gandat ti Dios a dadaelen dagiti agnanaed iti daga; Isu ket addaan iti nasaysayaat a plano agpaay kadakuada. Nupay kasta, gapu iti kinapursigida iti panagtultuloy iti dalan ti pannakadadael, ti Dios inaramidna ti akemna a kas Okom. Ti naayat a kababalinna ket saanna a palubosan ti dakes nga agtultuloy.
+
+Kamaudiananna, no basbasaen ti aniaman a narikut a paset ti Daan a Testamento, nasken a paliiwen ti pagturongan dagiti gandat ti Dios agpaay kadagiti tattaona ken ti sangkataoan.
+
+Ti gubat, ken dagiti amin a nakabutbuteng a paspasamakna, ket saan a pulos a paset iti plano ti Dios agpaay daytoy a lubong. Isu agtartrabaho tapno isublina ti agnanayon a kapia iti lubongtayo ken iti uniberso. Nupay kasta, tapno maaramid dayta, kasapulanna nga ikkaten ti dakes a mamimpinsan ken agpaay iti amin, saan laeng nga iti mannakabalin unay a wagas no di pay ket iti maysa a nainsiriban a wagas.
+
+### Paset II: Komentaryo
+
+**Ti Kapanunotan ti Nasantoan a Gubat iti Biblia**
+
+Iti komentaryo ni Douglas K. Stuart iti Exodo, mangipaay isuna iti maysa a nainsiriban a panangiladawan iti nadiosan a gubat iti panangkita a naibatay iti Biblia. Daytoy a kita ti gubat, kadawyan a naiyebkas iti verbo ti Hebreo a haram, wenno sao a herem, ket iramanna ti panangdadael iti biag ti tao iti dakkel a bilang ken no dadduma sanikua ken biag ti animal. Gapu iti pannakaiyatadayna, ti listaan ni Stuart ket nainayon iti baba agraman dagiti sumagmamano a nabaliwan (naala manipud Douglas K. Stuart, Exodus: The New American Commentary, [Nashville: Broadman & Holman, 2006], vol. 2, pp. 395–397.)
+
+1. Iti naisalsalumina a buya ti nagkauna nga Israel, awan ti propesional a buyot a napalubosan. Dagiti gubat ket nakilabanan dagiti kabarbaro a mannakigubat ken dagiti boluntaryo, maysa a nalawag a kasupadi ti propesional a langa ti buyot idi angged ken dagidiay nakairuamantayo ita nga aldaw.
+2. Dagiti soldado ket awan bayadda. Tinungpalda ti bilbilin ti Dios iti lawag ti tulag ken saanda a lumaban nga agpaay iti napersonalan a ganansya. Iti adu a kasasaad, kaipapanan daytoy a naparitanda iti mangala kadagiti samsam.
+3. Ti nadiosan wenno nasantoan a gubat ket mabalin laeng a labanan agpaay iti panangparmek wenno panangsalaknib iti Naikari a Daga iti dayta a matudtudo a panawen iti pakasaritaan. Kalpasan iti panangparmek, aniaman a gubat a panangdarup ket nainget a naiparit. Ti Israel ket naayaban a lumaban agpaay iti Naikari a Daga iti maysa a masinunuo a lugar ken naibatay iti lawag ti pakasaritaan. Iti kanito a naparmekda ti daga ken naurnosda ti teritorioda, dagiti Israelitas ket saanda a masapul a mangilawlawa kadagiti beddengna babaen iti gubat. Ti Dios ket saanna nga inayaban dagiti tattaona tapno agbalinda a maysa a managparmek a pagarian ti buybuyot.
+4. Ti pannakailongalong ti nasantoan a gubat, naibilang a maysa a nadiosan nga aramid, ket namimpinsan nga adda kadagiti im-ima ti Dios, nga impatungpal dagiti napili a mammadtona, kas ken Moises wenno ni Josue. Daytoy ket ipaganetgetna a ti gubat ket saan koma a pulos nga ilongalong ti tao, no di ket maysa a nasagradoan a pagrebbengan.
+5. Ti pannakiraman ti Dios iti nasantoan a gubat ket sapulenna ti naespirituan a panagsagana, nga isu nga iramanna ti panagayunar, panangliklik iti seks, wenno dadduma pay a langa iti panangtallikod iti bukod a bagi. Ti alagaden ti pannakakugit (Josue 5:1–9) ken ti rambak ti Paskua (Josue 5:10–12), iti lawag ti pannakapabaro ti tulag, ket paset daytoy a panagsagana.
+6. Ti Israelita a mangsalungasing iti aniaman kadagitoy a paglintegan ti nasantoan a gubat ket agbalin a maysa a kabusor. Agsipud ta ti salungasing ket madusa iti patay, ti agsukir a tao ket agbalin a maysa a herem, dayta ket, naitalaga iti pannakadadael.
+7. Kamaudiananna, ti direkta a pannakiraman ti Dios ket nangidalan iti mangikeddeng ken napardas a balligi iti lawag ti matalek a nasantoan a gubat. Dagiti pagwadan iti daytoy ket iramanna dagiti adu a gubgubat iti panawen ti panangparmek (Josue 6:16–21; Josue 10:1–15) ken dagiti paspasamak idi a ti Israel wenno Juda ket sarsaripdaanda iti teritorioda, babaen iti tulong ti Dios, manipud kadagiti napigsa unay a rumaraut a pwersa (2 Samuel 5:22–25). Iti kabaliktadna, adda dagiti saan a nasayaat a pagwadan nga iti kinaawan ti pannakiraman ti Dios ket nagbanag iti pannakaabak (1 Samuel 31:1–7), kas idi ti Israel sinangona dagiti Amalecitas nga awan ti nadiosan a pammalubos ket naabakda idiay Hormah (Numeros 14:39–45), wenno idi a naabakda babaen iti bassit a buyot ti Ai (Josue 7:2–4).
+
+Iti panagpatingga ti panangituray ti Dios iti maysa a nacion, ti pannakaipakat dagitoy a paglintegan ket saanen a mabalin, ket gapu ito’y, ti nasantoan a gubat ket nagkupasen. Dagsanggasat laeng, ti narelihiyosoan a rason ket naaramat a mangikalintegan kadagiti gubgubat uray pay ita nga aldaw. Nupay kasta, iti lawag ti Sursurat, iti kasta a pannakaaramat ket itakderanna ti maysa a pannakaballikog ti teksto ti Biblia, maysa a kinapudno a mangaramid koma kadatayo amin nga ad-adda a managpanunot, ken makailasin, kadagiti maulit-ulit a maar-aramat a mangikalintegan kadagiti gubgubat kadagitoy nga al-aldaw.
+
+Dagiti agdama a paglintegan ket ipaduyakyakda ti naisalsalumina a kababalin ti nadiosan a gubat idiay Biblia. Ti aramid ti gubat babaen ti Israel ket iyanninawna ti maysa a nadiosan a panangawat iti nataoan a kasasaad. Nupay kasta, iti maysa a kultura a ti gubat, kinadawel, ken kinaranggas ket isu ti uso, maammoantayo manipud kadagitoy a paglintegan dagiti tallo a nasken a paset ti nasantoan a gubat a masapul koma a masalimetmetan iti panunot inton ti kabaroanan nga agbasa ket tratarenna dagitoy makariribok a teksto ti Biblia: (a) ti gubat ket nakedngan kadagiti masinunuo a kasasaad; (b) dagiti nalinteg a gubgubat ket ikeddeng ti Dios, nga isu laeng ti makaammo iti nataoan a puso ken ti masakbayan; ken (c) ti gubat ket mamimpinsan nga itakderanna ti maysa nga ikakarsia manipud iti turong ti Dios agpaay iti kapia.
+
+**Ti Naimbag a Damag Maipapan iti Pungtot ti Dios**
+
+Ti nadiosan a gubat ket maysa a natibker a pannakaipaduyakyak iti pungtot ti Dios, saan laeng a kadagiti Cananeos ken dadduma pay a nasnacion no di pay ket kadagiti bukodna a tattao iti panawen ti Biblia. Dagiti paliiw iti ngato ket mabalin a mangilawlawag iti nadiosan a gubat, ngem saanda nga ilawlawag no kasano a pagtutonosen dagitoy nalawag nga agsusupadi a buya ti personalidad ti Dios: ayat ken unget. Kinaagpaysoanna, ti pungtot ti Dios ket saan a maysa a papolar a topiko ita nga aldaw. Ti pagaammo a teolohiyan a Protestante a ni C. H. Dodd ket imbilangna ti pungtot ti Dios a kas “maysa a kadaanan a sasao.”—Dodd, The Epistle of Paul to the Romans: The Moffatt New Testament Commentary (New York: Harper & Brothers Publishers, 1932), p. 20. Uray no daytoy ket maysa a saan unay a papolar a topiko ita nga aldaw, ti pungtot ti Dios ket saan a mabalin a malibtawan, agsipud ta nadakamat daytoy iti 580 a daras idiay Daan a Testamento ken 100 a daras idiay Baro a Testamento. Ti nadiosan a pungtot ket nairamut kadagiti uppat a di agbalbaliw a paset ti kababalin ti Dios.
+
+Umuna, ti Dios ket santo. Ti Israel ket naayaban tapno agbalin a santo agsipud ta ti Apo ket santo (Levitico 11:44). Iti intero a libro ti Isaias, ti Dios ket matudtudo a kas “Santo ti Israel” iti 27 a daras (kitaen ti Isaias 1:4; Isaias 60:14). Dagiti angeles ket ipakdaarda ti “Santo, santo, santo” (Apocalipsis 4:8; Isaias 6:3) iti imatang ti Dios. Ti Kinasanto ti Dios ti mangikabil Kenkuana a mailasin manipud kadagiti managbasol a tattao, nga isu a dida pay maibturan ti uray maysa a talgiap iti napisikalan a kaaddana a di da matumba a kas la natay iti daga (Daniel 10:8, 9; Apocalipsis 1:17). Ti Kinasanto ti Dios ket saan a maiyataday iti dakes, nga isu ti gapu no apay a kagurana ti basol, kas maibatay iti daytoy napateg unay a paset ti kababalinna. Iti pannakitungtong ni mammadto a Habacuc iti Dios, inwaragawagna: “Sica a nadalus unay dagiti matam a saan a maay-ayo iti dakes” (Habacuc 1:13).
+
+Maikadua, ti Dios ket nalinteg. Ni David pasingkedanna: “Ta ni Jehova nalinteg, ayatenna ti kinalinteg: ti nalinteg buyaennanto ti rupana” (Salmo 11:7). Uray pay iti nataoan a gunglo, namnamaentayo a maipaay ti hustisya. Makapangayangay a kitaen no kasano a dagiti tattao ket umiso laeng a kiddawenda ti hustisya no maipasango iti kinakillo iti nataoan a tukad, ngem makibalubalda iti kapanunotan a ti Dios, kas namimpinsan nga Okom, ket iwayatna ti hustisya babaen iti panangdusa iti dakes ken kadagidiay a mangarakop dayta. Iti nalawag a ladawan dagiti kararua dagiti martir iti babaen ti altar, inyikkisda, “ ‘Casano ti cabayagna, O Apo a santo ken napudno, a dica ocomen ken ibales ti darami cadagiti agnaed iti rabaw ti daga?’ ” (Apocalipsis 6:10). Namnamaenda ti hustisya, gapu ta ti Dios ket nalinteg.
+
+Maikatlo, ti Dios parsuaenna dagiti tattao nga addaan wayawaya a pagayatan. Ti Dios ket dina inaramid dagiti parsuana nga agayat ken agtungpal Kenkuana. Apag-isu nga agsipud iti daytoy a rason, mabalinda ti mangaramid kadagiti dakes a pili a maibusor iti nasantoan a pagayatanna ken mangpataud kadagiti dakes a supapak. Daytoy a kalintegan ket mapaneknekan iti kapanunotan ti tulag, nga isu a mangipakpakita iti maysa a tulag iti nagbaetan dagiti dua a partido. Iti panangyanninaw iti daytoy a paset ti tulag, ni Josue paneknekanna iti Israel, “ ‘Ngem siac ken ti balayco agservicamto ken Jehova’ ” (Josue 24:15).
+
+Kamaudiananna, ti Dios Isut’ ayat. Dagiti dadduma ket mabalin a masarakanda a borbortia no kasano a ti pungtot ti Dios ket mabalinna nga iparangarang ti ayatna. Iti kababagasna, ti Dios ket Isu met ti ayat (1 Juan 4:8). Ipakdaarna ti ayatna iti Israel iti balbalikas ti kinamanangngaasi: “ ‘Wen, siac nagayatac kenca iti agnanayon a panagayat’ ” (Jeremias 31:3). Ti di panangikankano, saan a pungtot, ket isu ti kasupadi ti ayat. Gapuna, ti di mangikankano a Dios ket mabalin a maikari iti panagbuteng ngem saan a pulos a maikari iti kinapudno. Isu ket isuamin a banag ngem saan isuna a mangikankano. Iti nataoan a balbalikas, dagiti nagannak ket guraenda ken sumungbatda, kas mayataday, kadagiti mangaramid kadagiti annakda nga agsagaba. Apay koma a basbassit ti namnamaentayo manipud iti Dios?
+
+Agpayso, ti maysa a naan-anay a Dios ket saanna a mapadasan ti pungtot a kas kadatayo. Iti maysa a saantayo a mailawlawag a wagas, ti pungtotna ket naan-anay ken nasantoan. Iti kasta a misterio ket adda idiay kruz ni Jesus, nga idiay a ti ayat ken unget, asi ken panangukom, biag ken patay ket napigsada unay a nailagalaga. Ti pannakaibokbok ti nadiosan a pungtot ket napudno ken natibker. Kaskasdi, kadagidiay agtalek ken Cristo, sipapakumbaba a mangisuko iti amin a bukod a panagtalek ken kinapasindayag idiay sakaanan ti krusna, awan ti gapu a mabuteng agsipud ta “ti ayat a nagdanunan pacsiatenna ti buteng” (1 Juan 4:18). Mainayon pay, ni Jesus napadasanna ti pungtot ti Dios iti lugartayo.
+
+### Paset III: Panangipakat iti Biag
+
+**Nasantoan a Gubat Ita nga Aldaw?**
+
+Kitaen no kasano a ti narelihiyosoan a tema ti naaramat a mangikalintegan ken mangidur-as iti gubat nanipud pay idi angged. Iti Nacristianoan a lawag, dagiti Crusada ket umiso a pagwadan. Iti daytoy a kampanya ti militar, pinalubosan ti Iglesia Romana, dagiti Crusada ket pinatida nga addada idi iti maysa a naespirituan a misyon a mangwayawaya iti Nasantoan a Daga manipud kadagiti nangraut nga Islam.
+
+Nupay kaaduan kadatayo ket umanamong nga iti aniaman a nacion ket addaan iti kalintegan a mangsalaknib iti bagbagina a maibusor kadagiti dumarup, apay koma a ti narelihiyosoan a tema ti nasantoan a gubat ket saan a maaramat ita nga aldaw? (Laglagipen ti naibatay iti Biblia a kapanunotan ti nasantoan a gubat iti pannakabukel ti sungbatmo.)
+
+**Balligi Babaen ti Ayat**
+
+Ti gubat iti nagbaetan ti naimbag ken dakes ket nagballigi iti maysa a di-pinakpakadaan ken saan a kadawyan a wagas ni Jesus. Utoben a kadua ti klaseyo ti sumaganad a kapanunotan:
+
+“Isu nga imbes a lumaban ken ‘mangabak,’ ni Jesus pinilina ti ‘maabak.’ Wenno nasaysayaat pay, pinilina a maabak babaen kadagiti pagrukodan ti pagarian ti lubong tapno mangabak babaen kadagiti pagrukodan ti pagarian ti Dios. Ti panagtalekna ket saan nga iti pannakabalin ti kampilan no di ket iti pannakabalin ti naan-anay, panagsakripicio iti bagi nga ayat, ket iti kasta ket impalubosna ti mismo a Bagina a mailansa idiay kruz. Tallo nga aldaw ti napalabas, ti Dios inalangunna ti panagtalekna iti pannakabalin ti nainsakripicioan nga ayat. Impatungpalna ti pagayatan ti Dios ken, babaen ti sakripisyona, inabakna ti patay ken dagiti pwersa ti dakes a mangtengtengel daytoy a lubong iti pannakaadipen (Colosas 2:13–15).”—Gregory A. Boyd, The Myth of a Christian Nation: How the Quest for Political Power Is Destroying the Church (Grand Rapids, MI: Zondervan, 2006) p. 39.
+
+Kasano iti panangipakatmo iti pagwadan ti nainsakripicioan nga ayat, nga inted ni Jesus, kabayatan a lumabanka iti naespirituan a gubat ita nga aldaw?

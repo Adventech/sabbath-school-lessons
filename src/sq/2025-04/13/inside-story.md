@@ -47,7 +47,7 @@ Shpejt, ai kuptoi se jeta në universitet ishte ndryshe. Gjithçka dukej se isht
 
 Vitin e ardhshëm, kufizimet e Covid u hoqën dhe Xhonathoni u zhvendos në konviktin e djemve, në kampus. Papritur, jeta u bë shumë ndryshe. Në konvikt kishte rregulla. Zakonisht, Xhonathoni luante futboll ose dilte për të bërë pazar të premteve në mbrëmje. Por ai nuk mund t’i bënte këto aktivitete në universitet dhe nuk arrinte ta kuptonte pse.
 
-Miq të rinj Adventistë hapën Biblën dhe i shpjeguan kuptimin e Sabatit të Ditës së Shtatë. Ata i treguan se si Zoti pushoi në ditën e shtatë të Krijimit, tek Zanafilla 2:1–3 dhe si Zoti i kujtoi popullit të Tij të respektojë Sabatin e Ditës së Shtatë, në urdhërimin e katërt, tek Eksodi 20:8–10.
+Miq të rinj Adventistë hapën Biblën dhe i shpjeguan kuptimin e Sabatit të Ditës së Shtatë. Ata i treguan se si Zoti pushoi në ditën e shtatë të Krijimit, tek Zanafilla 2:1-3 dhe si Zoti i kujtoi popullit të Tij të respektojë Sabatin e Ditës së Shtatë, në urdhërimin e katërt, tek Eksodi 20:8-10.
 
 Xhonathoni filloi të kuptonte atë që dy kujdestarët Adventistë ishin përpjekur t'i mësonin, në fermën e xhaxhait të tij. Pa e kuptuar, ai filloi të kopjonte sjelljen e miqve të tij dhe të mbante Sabatin.
 

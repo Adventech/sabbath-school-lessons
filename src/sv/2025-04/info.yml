@@ -1,0 +1,24 @@
+---
+  title: "Lärdomar om tro från Josua"
+  description: "Josuas bok markerar övergången från Moses ledarskap till Josuas. Den börjar med berättelsen om Israels intåg i det utlovade landet och slutar med att de bosätter sig i det landet."
+  human_date: "Oktober · November · December 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#E56825"
+  color_primary_dark: "#B34408"
+  splash: true
+  credits:
+    - name: Huvudförfattare detta kvartal
+      value: "Barna Magyarosi"
+    - name: Internationell redaktör
+      value: "Clifford Goldstein"
+    - name: Svensk chefredaktör
+      value: "Rainer Refsbäck"
+    - name: Översättare och biträdande redaktör
+      value: "Lars Wernersson"
+    - name: Formgivning
+      value: "Vanessa Hansen"
+    - name: Illustrationer
+      value: "Lars Justinen"
+    - name: Bild på framsidan
+      value: "Lars Justinen"
