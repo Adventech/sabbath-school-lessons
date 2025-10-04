@@ -1,0 +1,68 @@
+---
+title:  Komento Sang Manunudlo
+date:  17/10/2025
+---
+
+### Bahin I: Kabilogan nga Panan-aw
+
+**Sadsaran nga Teksto:** Josue 4:23
+
+**Sentro Sang Pagtoon:** Josue 3; Num. 14:44; Luc. 18:18–27; Josue 4; Juan 14:26; Heb. 4:9–11.
+
+Pagbalik sang mga lampitaw, handa na ang Israel nga magsulud sa Duta sang Saad. Apang may daku kag daw indi pa madaug nga balabag: ang Suba sang Jordan kon tig-ululan. Sa panan-aw sang tawo, daw indi gid ini matabok, apang wala sang makapugong sa buhi nga Dios sang Israel. Sa liwat, ipakita na naman sang Dios ang Iya pagkagamhanan bilang Ginoo sang bug-os nga kalibutan (kag sang mga tubig). Halin sang paghalin sang Israel sa Egipto, indi ang gahum sang Dios sa paghimo sang mga katingalahan ang problema, kondi ang kahanda sang Iya katawohan, nga sa liwat pagatilawan samtang sila gintawag sa pagpabalaan sang ila kaugalingon. Kaangay sang ila mga katigulangan nga naglakat padulong sa baybayon sang Dagat nga Mapula, ang mga Israelinhon nagpanghimos sang ila mga pagkabutang kag nagbiya sang ilang kampo sa katapusan nga tion, kag naglakat sa ila katapusan nga pagbiyahe, antes ang pagsulud sa Canaan.
+
+Masobra sa apat ka gatus ka tuig pagkatapos sang una nga saad kay Abraham, naglakat liwat ang katawohan sang Dios padulong sa bibi ukon pinakahigad sang imposible. Halin sa ila pagtabok sa Dagat nga Mapula tubtub sa ila pagtabok man sa Suba sang Jordan, ginpakita sang Dios nga wala sing imposible kon upud Sia. Ang kaban sang katipan nagapanguna sa ila, nga nagapakita nga ang pagtabok sa mamala nga duta indi natabo lamang ukon plano sang tawo, kondi binuhatan sang Dios. Ining pagtabok sa Suba sang Jordan nagatanda sa kasaysayan bilang pinasahi nga adlaw. Ang ila pag-agi natandaan man sang duha ka hugpong sang 12 ka bato, apang ang panghangkat amo ini: Madumduman bala ini sang masunod nga mga kaliwatan ukon indi? Sing makasulubo, samtang nagalabay ang panahon, nalipat ang Israel sa espirituhanon nga kahulugan sang sining mga bato. Ang pagkalipat nagdala sa ila indi lang sa pagsimba sa mga diosdios, kondi sa espirituhanon nga “pagbalik” sa Egipto.
+
+### Bahin II: Komentaryo
+
+**Teolohiya Sang Tubig**
+
+May madamu nga paanggid sa tunga sang pagtabok sa Dagat nga Mapula kag sa Suba sang Jordan. Ang pipila sini amo ang paggamit sang tatlo ka importante nga Hebreo nga mga termino: (a) ang Hebreo nga berbo plʾ (“katingalahan”) nga ginagamit sa paghulagway sang milagroso nga pagtabok sa duha ka okasyon (Exo. 15:11; Jos. 3:5); (b) ang pulong nga ned, nga nagapatuhoy sa pagtipon sang tubig bilang “pader” (Exo. 15:8; Jos. 3:16); kag (c) ang tumalagsahon nga pulong harabah, nga nagakahulugan “mala nga duta” (Exo. 14:12; Jos.3:17). Dugang pa, ang Dios mismo ang nag-usoy sang kaanggid sa tunga ni Moises kag Josue sa Josue 3:7, nga sing maathag nagaangot sang sining duha ka hitabo.
+
+Ginalantaw sang salmista ining duha ka hitabo bilang isa lang (halimbawa, ang Salmo 114:3, 5).
+
+Apang ano gid bala ang teolohikal nga kahulugan sang pagtabok sa Suba sang Jordan? Sa sini nga semana, gin-giyahan na kita sang nagsulat sa tipolohikal nga kahulugan sang hitabo sa kahayag ni Jesus kag sang iglesia. Gani, puwede naton usisaon ang espirituhanon nga kahulugan sang pagtabok sa orihinal nga tagpalamati sang istorya.
+
+Subong, kon magbisita ka sa Suba sang Jordan, mabudlay hunahunaon ang kabudlay sang Israel linibo na ka tuig ang nakaligad. Una, ang irigasyon para sa agrikultura kag konsumo sang tawo, sa panghigaron sang 223 ka milya (360 kilometros) nga gilay-on sang suba, medyo nabuhinan na ang kasangkaron sini pati ang kakusog sang pag-ilig sang tubig. Ikaduha, ang pagsaulog sang Pascua, pagkatapos lamang sang pagtabok, nagapakita nga ang pagtabok sa Suba sang Jordan natabo sa panahon sang tigpamulak, sang ang suba daw isa ka milya ang kalaparon sa pila ka lugar, tungud sa pagkatunaw sang nieve sa mga bukid. Ining impormasyon nagapakita nga ang pagtabok sa sining daku nga lawas sang tubig nga may tama kabaskug nga pag-ilig, pati ang mga sagbot nga naanud upud sini, daw halos kaangay lang ang kahimtang sa ila pagtabok sa Dagat nga Mapula.
+
+Sa mga hunahuna sang dumaan nga mga tawo sa Malapit nga Nasidlangan, kaangay sa mga taga-Canaan, ang dagat may diotay nga mga kinatuhayan kon mitolohiko ang ginasiling. Para sa ila, diri nga lugar naghalin ang ila mga dios, kag sa diin ang mga puwersa sang kagamo ginpierdi sang mas makagagahum nga mga dios.
+
+Sono sa Canaanhon nga mito ukon mga sugidsugid, si Baal, ang patron nga dios sang duta, nangin pinakagamhanan nga dios sang bagyo matapos niya napierdi si Yam (ang pulong para sa “dagat” sa Hebreo), ang dios sang dagat. Gani, “sa dumaan nga polytheistic (nagatoo sa madamu nga dios) nga panghunahuna, ang mga pungsud nagadaug sa inaway sa duta tungud kay ang ila patron nga mga dios nagdaug sang mga inaway sa kosmos. Kon si Yahweh, ang Dios sang Israel, makapierdi kag makapauyon dayon sa Iya katuyoan sa gahum sang dios sa suba, bisan nagaraguso ang baha, ano ang Iya himoon kay Baal? Ano, niyan, ang pagamahimoon sang katawohan ni Yahweh sa Canaan? —Joseph Coleson, “Joshua,” sa Cornerstone Biblical Commentary: Joshua, Judges, Ruth (Carol Stream, IL: Tyndale House Publishers, 2012), p. 56. Nga ining kasaysayan yara sa hunahuna, ang pagtabok sa Jordan may tatlo ka pilo nga teolohikal nga bahin nga mabudlay hangpon sang moderno nga magbabasa.
+
+Una, ang estado sang Dios bilang “Ginoo sang bug-os nga duta” (Josue 3:11, 13) nagapakita sang daku nga kinalain sa tunga sang mga dios sang Canaan kag ni Yahweh. Ang Iya pagdumala indi limitado sa isa lang ka lugar. Ang bug-os nga duta Iya kag napaidalum sa Iya gahum. Sia amo ang matuud nga Tag-iya kag Ginoo sang kalibutan, kag sa sini nga panghunahuna, si Baal, nga nagakahulugan man sang “tag-iya” ukon “ginoo,” isa ka impostor. Ang gahum sang Dios sa tubig nagapamatuud sang Iya pagkagamhanan sa tanan.
+
+Ikaduha, madinalag-on ang Dios. Sa mga mitolohiya sang Babylon kag Canaan, si Marduk kag Baal nangin mga pangulo sang mga dios matapos nila
+
+napierdi ang mabaskug nga mga puwersa sang tubig. Sa mabinalaybayon kag matagnaon nga mga kasulatan, si Yahweh ginadayaw tungud sa Iya kadalag-an batok sa dalagku nga mga kaaway, nga ginpakita bilang isa ka sapat sang dagat ukon man-ug nga ginatawag Rahab ukon Leviathan (ipaanggid sa Job 41:4; Sal. 74:13; Isa. 30:7). Sang gindaug ni Yahweh ang mga kusug sang tubig sang kagamo, ang Iya kadalag-an nagapakita sang Iya pagkagamhanan sa tanan. Apang, ang daku nga kinatuhay ni Yahweh sa sining mga dios amo ini: Sia buhi nga Dios (Jos. 3:10), nga nagahulag sa matuud nga panahon. Si Yahweh hindi dios nga ginasugidsugid lamang sa sugilanon; Sia Dios sang kasaysayan.
+
+Sa katapusan, si Yahweh isa ka balaan nga Dios. Ang kaban sang katipan nagapakita sang Iya kabalaan kag presensya sa katawohan. Sa Josue 3 kag 4, ang kaban ginmitlang kapin sa beinte ka beses, nga nagapakita sang daku nga papel sini sa istorya bilang representasyon sang Dios nga nagapanguna mismo sa ila (Jos. 3:11). Ang himaya ni Yahweh, nga nagapahamtang sa katipan sa sulud sang Pinakabalaan nga Hulut sang santuario, makita nga pagpahayag sang Iya Langitnon nga presensia. Apang ini makita lamang sa labing halangdon nga sacerdote isa ka beses sa isa ka tuig, kag sono lamang sa istrikto nga kondisyon sang mga ritwal. Sa pagtabok sa Jordan, ang arka dapat nagauna sang kapin isa ka kilometro sa unhan sang katawohan, kag makita lamang nila samtang sila nagatabok sa tunga sang suba. Indi kaangay sa mga diosdios sang Canaan, nga ginhimo sunod sa dagway sang mga tawo nga gintuga sa ila tawohanon nga “mga manugbuhat,” ang Dios nagatukud sang bag-o mga katawohan sono sa Iya dagway, nga nabutang sa kasogoan: “Magpakabalaan kamo, kay balaan ako” (1 Ped. 1:16; tan-awa man ang Lev. 19:2).
+
+Ining tatlo ka teolohikal nga aspeto—ang pagdumala, kadalag-an, kag pagkabalaan sang Dios—dapat kuntani yara sa painoino sang mga Israelinhon samtang sila nagasulud sa Canaan, duta nga nagasimba sa diosdios. Ang handumanan sang ining tumalagsahon nga adlaw dapat kuntani nangin pangontra sa pagsimba sa diosdios, pangontra nga, sing makasulubo, sono sa aton nahibalon, wala ginsunod sang Israel.
+
+**Ang Problema Sang Pagkamalilipaton**
+
+Sa Biblia, ang konsepto sang paghinumdum aktibo tungud ini nagalakip indi lamang sang cognitive nga proseso sa paghinumdum liwat sang impormasyon. Makapila na ka beses ginpakita ining konsepto, ilabi na kon “ginadumdum” sang Dios ang Iya katawohan (halimbawa, Exo. 2:24). Kon ginadumdum sang Dios ang Iya katawohan, nagahimo Sia sang maayo nga buhat para sa ila. Gani, sang ginatawag sang Dios ang Iya katawohan nga maghinumdum, ini isa man ka panawagan sa ila nga maghulag.
+
+Ang paghinumdum dapat ipakita sa tion kag lugar paagi sa nagkalainlain nga pamaagi, kaangay sa pagtudlo sang tradisyon halin sa ginikanan padulong sa kabataan, nga nagatukud sang mga handumanan pareho sang sa Josue 4, kag, labi sa tanan, paagi sa ritwal kag pagsaulog sang dakung mga kapiestahan sa relihiyosong kalendaryo. Makahulugan nga may tatlo ka aspeto ang ining kapiestahan. Una, ginahinumdum sini ang mga buhat sang Dios sa presente nga kabuhi sang Israel, samtang nagalabay sila sa mga panahon sang pagpanggas kag pag-ani. Ikaduha, ginahanduraw sini ang mga buhat sang Dios sa nagligad, ilabi na ang ila paggowa sa Egipto kag ang pagdaug. Kag sa katapusan, nagatudlo ang mga ini sa palaabuton nga mga buhat sang Dios sa panahon sang katumanan sang tanan nga saad, nga ginpatuman pinaagi kay Jesus. Gani, ang biblikanhon nga pamaagi sang paghinumdum wala lamang nagasentro sa nagligad kondi nagapasarang man sa aton nga magkabuhi nga may pagpasalamat kag sa pagtolok sa palaabuton nga may paglaum.
+
+Ugaling sing makasulubo, wala nagpamati ang Israel sa balaan nga laygay nga maghinumdum. Ang libro sang Hukom nagasugod sa makasulubo nga pahayag nahanungud sa espirituhanon nga pagkalipat sang sunod nga kaliwatan pagkatapos sang kamatayon ni Josue: “nga wala makakilala sa Ginoo ukon sang buhat nga iya nahimo tungud sa Israel” (Hukom 2:10). Sa masunod, ang manunulat nagapahayag sing maathag: “Kag wala magdumdum ang katawohan sang Israel sa Ginoo nga ila Dios, nga nagluwas sa ila gikan sa kamut sang tanan nilang kaaway sa tagsa ka luyo” (Hukom 8:34).
+
+Ang resulta amo ang pagtalikod sa pagtoo paagi sa pagsimba sa mga diosdios, nga nagpadayon sa bug-os nga kasaysayan sang Israel halin kay Salomon tubtub kay Sedequias, ang katapusan nga hari sang Judah antes sang pagkabihag. Ang pagsimba sa diosdios amo ang natural nga resulta sang espirituhanon nga pagkalipat. Ini nga resulta makita gid sa istorya ni Gomer, bilang simbolo sang Israel, nga nalipat nga ang Dios, indi si Baal, ang naghatag sa iya “sang uyas, sang bag-o nga alak, kag sang lana, kag nagpabuad sa iya sang pilak kag bulawan nga gingamit nila kay Baal.” (Oseas 2:8). Sa sini nga pamaagi, ang pagsimba sa diosdios amo ang kakulangan sang pagpasalamat, nga napasad sa makapahamak nga espirituhanon nga pagkalipat. Ang bug-os nga pagkalipat sang Israel nagdala sa halos pagkawala sang ila pagkakilanlan sang wala pa ang Babilonia nga pagtapok, luwas lang mga nahibilin nga pundok. Madamu sa nabilin sa duta sang Israel sa tunga sang pagkabihag nagdesisyon nga magbalik sa Egipto. Ang kasaysayan sang mga hari sang Israel kag Juda natapos sa Exodo nga sa kabaliskaran—nga ang katawohan sang Dios nagbalik liwat sa Egipto (Jer. 43:7). Ini nga pagkabihag amo ang makasiligni nga resulta sang espirituhanon nga pagkalipat.
+
+### Bahin III: Aplikasyon sa Kabuhi
+
+**Mga Oportunidad sa Pagpangdaug Sang Kalag**
+
+Sa orihinal nga konteksto sang Daan nga Katipan, ang mga milagro sa Dagat nga Mapula kag sa Suba sang Jordan nagapahayag sang balaan nga gahum sang Dios sa pagdaug batok sa mga gahum sang kalautan kag sa Iya pagkagamhanan sa ibabaw sang tanan nga iban nga dios. Ining hayag nga mga pagpamatuud indi lamang mga pagpakita sang langitnon nga gahum sa kaugalinon sini, kondi mga kahigayonan sa pagdaug sang mga kalag, agud makilala sang iban nga mga pungsud ang kamatooran nahanungud sa Dios sang Israel.
+
+Paano mo magamit ang imo inagihan kaupud ang Ginoo sa imo kabuhi bilang kahigayonan sa pagpakita sa iban sang matuud nga kinaiya sang Dios nga imo ginasimba?
+
+**Pagpanumdum Sang Nagligad**
+
+Ang isa sa pinakamatahum nga mga tinion para sa amon bilang pamilya amo ang paglingkod kag pagtan-aw sa daan nga mga litrato. Ining mga litrato amo ang napundo nga mga higayon sa tion, nga puno sang mga pagbatyag. Sa isa ka pamaagi, ang paghinumdum daw pareho sa pagbalik kag pagpamati liwat sang sina nga mga handumanan.
+
+Hunahunaa ang imo kabuhi bilang isa ka daku nga album sang mga litrato kag talupangda ang mga tinion nga makita mo ang gamhanan nga presensia sang Dios sa imo kaugalingon nga kabuhi.
+
+Sa isa ka wali nga may titulo “Sang ang Dios Nagahinumdum,” si Hans K. LaRondelle nagsiling nga ang paghinumdum “sang nagligad nagakahulugan sa pagbag-o sang aton paglaum para sa palaabuton.” Sa pareho nga panagway, kon paano gindumalahan sang Dios ang kahublagan sang Adventista del Septimo Dia, si Ellen G. White nagbilin sang pamulong: “Wala kita sang ikabalaka sa palaabuton, luwas kon malipatan naton ang paagi kon paano kita gintuytuyan sang Ginoo, kag sang Iya panudlo sa aton nagligad nga kasaysayan.”—Ellen G. White, Life Sketches, p. 196.
+
+Ipaambit sa inyo klase kon paano ang paghinumdum sang mga buhat sang Dios sa imo kabuhi nagapabaskug sa imo sa mga tinion sang kabudlay.

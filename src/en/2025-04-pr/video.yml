@@ -1,0 +1,43 @@
+---
+  video:
+    - artist: Gracelink
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-01.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-01.jpg
+          target: en/2025-04-pr/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-02.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-02.jpg
+          target: en/2025-04-pr/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-03.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-03.jpg
+          target: en/2025-04-pr/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-04.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-04.jpg
+          target: en/2025-04-pr/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-05.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-05.jpg
+          target: en/2025-04-pr/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-06.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-06.jpg
+          target: en/2025-04-pr/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-07.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-07.jpg
+          target: en/2025-04-pr/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-08.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-08.jpg
+          target: en/2025-04-pr/08
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-09.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-09.jpg
+          target: en/2025-04-pr/09
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-10.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-10.jpg
+          target: en/2025-04-pr/10
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-11.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-11.jpg
+          target: en/2025-04-pr/11
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-12.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-12.jpg
+          target: en/2025-04-pr/12
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-13.mp4
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/pr/en-pr-2025-04-13.jpg
+          target: en/2025-04-pr/13
