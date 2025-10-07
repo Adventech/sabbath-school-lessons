@@ -21,7 +21,7 @@ Sun machte seine Eltern mit einem Pastor aus ihrer Umgebung bekannt, und sie beg
 
 Sun war so glücklich! Er war der erste Adventist in seiner Familie, und nun gehörten auch seine Eltern dazu. Er erinnerte sich an die Freude, die er einige Jahre zuvor erlebt hatte, als sich das Leben eines Mannes auf den Philippinen verändert hatte, nachdem er ihn mit Jesus bekannt gemacht hatte. Er erinnerte sich an seinen damaligen Wunsch, Vollzeitmissionar zu werden.
 
-Sun beschloss, als Missionar auf die Philippinen zurückzukehren, und sich der Initiative „1000 Missionare“ anzuschließen, einer Organisation, die zur Nordund SüdasienPazifik-Division der Siebenten-Tags-Adventisten gehört.
+Sun beschloss, als Missionar auf die Philippinen zurückzukehren, und sich der Initiative „1000 Missionare“ anzuschließen, einer Organisation, die zur Nord- und Südasien-Pazifik-Division der Siebenten-Tags-Adventisten gehört.
 
 Kim Sun ist stellvertretender Leiter der „1000 Missionare”-Initiative, deren Hauptsitz in Silang auf den Philippinen mithilfe von Missionsgaben aus dem Jahr 1996 errichtet wurde. Lies nächste Woche die Fortsetzung dieser Geschichte.
 
