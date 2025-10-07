@@ -19,7 +19,7 @@ Nach seiner Ankunft in dem abgelegenen Ort, an dem er leben würde, besuchte Sun
 
 Sie nahm Suns freundliches Angebot gern an.
 
-Die Nachricht über den hilfsbereiten neuen Nachbarn verbreitete sich schnell in der Nachbarschaft. Bald tauchte eine ganze Reihe von Menschen auf, die Hilfe brauchten oder wollten. Die erste Frau, deren Haus er besucht hatte, gab ihm freundlicherweise Mittagund Abendessen, und so half er an diesem ersten Tag 17 Personen in der Nachbarschaft.
+Die Nachricht über den hilfsbereiten neuen Nachbarn verbreitete sich schnell in der Nachbarschaft. Bald tauchte eine ganze Reihe von Menschen auf, die Hilfe brauchten oder wollten. Die erste Frau, deren Haus er besucht hatte, gab ihm freundlicherweise Mittag- und Abendessen, und so half er an diesem ersten Tag 17 Personen in der Nachbarschaft.
 
 Als Sun nach Hause ging, war er geschafft. Aber er dachte: „Ich bin ein Missionar!”
 
