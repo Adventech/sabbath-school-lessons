@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-Intro.pdf
+      target: lus/2025-04-pp/01
+      title: Inhmelhriattirna
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-01.pdf
+      target: lus/2025-04-pp/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-02.pdf
+      target: lus/2025-04-pp/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-03.pdf
+      target: lus/2025-04-pp/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-04.pdf
+      target: lus/2025-04-pp/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-05.pdf
+      target: lus/2025-04-pp/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-06.pdf
+      target: lus/2025-04-pp/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-07.pdf
+      target: lus/2025-04-pp/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-08.pdf
+      target: lus/2025-04-pp/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-09.pdf
+      target: lus/2025-04-pp/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-10.pdf
+      target: lus/2025-04-pp/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-11.pdf
+      target: lus/2025-04-pp/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-12.pdf
+      target: lus/2025-04-pp/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/lus/2025-04/ABSG-2025-04-LUS-PP-13.pdf
+      target: lus/2025-04-pp/13
