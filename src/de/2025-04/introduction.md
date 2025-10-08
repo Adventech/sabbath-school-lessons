@@ -16,7 +16,7 @@ Tatsache ist, dass Israel in den vorangegangenen 40 Jahren die negative Seite de
 
 „Und Mose rief Josua und sprach zu ihm vor den Augen von ganz Israel: Sei getrost und unverzagt; denn du wirst mit diesem Volk in das Land gehen, das der HERR ihren Vätern geschworen hat, ihnen zu geben, und du wirst es unter sie austeilen. Der HERR aber, der selber vor euch hergeht, der wird mit dir sein und wird die Hand nicht abtun und dich nicht verlassen. Fürchte dich nicht und erschrick nicht!“ (5 Mo 31,7-8).
 
-Die Verheißungen Gottes, die den Patriarchen und Mose gegeben worden waren, stehen kurz vor ihrer Erfüllung. Es herrscht eine Atmosphäre der Erwartung und Aufregung, es ist ein neuer Anfang für das Volk, das lange heimatund besitzlos war. Gott war treu in der Befreiung aus der Sklaverei und ihm kann gewiss vertraut werden, dass er seine Verheißungen in Bezug auf das Land erfüllt.
+Die Verheißungen Gottes, die den Patriarchen und Mose gegeben worden waren, stehen kurz vor ihrer Erfüllung. Es herrscht eine Atmosphäre der Erwartung und Aufregung, es ist ein neuer Anfang für das Volk, das lange heimat- und besitzlos war. Gott war treu in der Befreiung aus der Sklaverei und ihm kann gewiss vertraut werden, dass er seine Verheißungen in Bezug auf das Land erfüllt.
 
 „Der Hauptzweck des Buches Josua besteht darin, den Einzug Israels in das verheißene Land, die Eroberung des Landes und dessen Aufteilung unter den Stämmen zu beschreiben. Dieser Zweck liegt der Botschaft des Buches zugrunde, nämlich der Treue Gottes bei der Erfüllung der Landverheißung an Abraham. Das Buch betont die Treue Gottes zu seinen Bundesverheißungen (Jos 21,43-45)“ (Andrews Bible Commentary, Andrews University Press 2020, S. 365).
 
