@@ -33,6 +33,6 @@ Inácio, kterému je nyní 68 let, vedl za posledních 36 let každý rok ke kř
 
 _Jedním z misijních projektů třinácté soboty pro toto čtvrtletí je sbor v Pernambucano Adventist Academy v brazilském státě Pernambuco, kde žije Inácio Manoel. Děkujeme vám že plánujete štědré dary._
 
-_Podívejte se na krátké YouTiube video o Ináciovi: https://bit.ly/Inacio-Brazil._
+_Podívejte se na krátké YouTube video Inácia: https://bit.ly/Inacio-Brazil._
 
 ![Inácio Manoel](picture2.jpg)
