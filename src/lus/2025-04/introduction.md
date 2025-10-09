@@ -1,0 +1,23 @@
+### Hun Tha Dang Inpêk Lehna: Josua Lehkhabu
+
+Josua lehkhabu tîr lamah hian Mosia thih hnu-a Josua’n Israel hnam hruaitu nihna a lo chelh ve tâk thung thu kan hmu a. He lehkhabu hi Ram Tiama Israel fate an luh dân chanchina intanin, chumi rama an inbenbel tâk thu chuan khâr a ni bawk.
+
+Josua khân hna hautak zet mai thawh zui nghâl tûr a nei a. Mosia’n a hlen chhuah hman tâk loh kha a chhunzawm ngei a ngâi tihna a ni. Nimahsela, chu chu a bultanna chauh a la ni a. Mosia’n a la tih ngâi miah loh, Israel fate chu an thlahtute hnêna Pathianin a lo tiam tawh ang khân, kum 40 chhûng zet thlalêra an pêm kual hnu-ah Jordan lui kânin, Kanaan ramah a hruai lût ang.
+
+“Ka chhiahhlawh Mosia chu a thi ta a. Chutichuan, tûnah hian tho la, hêng mipui zawng zawngte nên hian Jordan lui hi kân ula, anmahni—Israela thlahte hnêna ka pêk tûr ramah chuan va lût rawh u” (Josua 1:2, NKJV).
+
+Hemi thu, Lalpa’n Josua hnêna a sawiah hian Kanaan ram an luh dân chanchin kan hriatthiam theihna tûra thil pawimawh tak kan hmu a: Israela thlahte hi “an hnêna ka [Jehova] pêk tûr ramah” chuan an lût ang.
+
+Mahse, he hna hi amah ngawta a thawh tûr chu a ni lo. Lalpa thiltihtheihna leh hruainaah a innghah tawp mai a ngâi dâwn zâwk a. Israel fate hian Lalpa’n ti tûra a phûtte kha lo ti ve ni se chuan Ram Tiam pawh hi hmân hmânah an lo lût tawh ang. Amaherawhchu, vânduaithlâk takin an ti duh tlat si lo va; chuvângin, an thiltihin nghawng tha lo a neihte chu an tuar ta rêng a ni.
+
+Dik taka sawi phei chuan, Israel fate hian kum 40 chhûng zawng khân Lalpa nêna thu an thlun tawh chu an bawhchhe char char zêl a ni ber a. Chuvângin, Aigupta ram an chhuahsan lâia Pathian thiltih mak leh ropui tak takte lo hmutu puitling chin zawngte kha—Josua leh Kaleba tih loh chu—thlalêra an thang chhûng khân an thi mang vek ta rêng a nih kha. Mosia lehkhabu ziah panga zîngah pali-ahte hian chûng mite hnêna thil thlengte leh a thlen dân chu kan hmu a. Tûnah chuan, thlalêra an awm chhûnga lo piang ve chauhte chuan Josua hovin Ram Tiam lâk an tum dâwn ta a ni.
+
+“Tichuan, Mosia’n Josua a ko va, Israel mite zawng zawng mit hmuhah heti hian a sawi a: ‘Chak tak leh huai takin awm rawh, hêng mite nên hian Lalpa’n an thlahtute hnêna pêk a lo tiam tawh ramah chuan i kal ang a; chutichuan, anniho hi i luahtîr tûr a ni. Tin, Lalpa chu i hmahruaitu a ni ang a. Ani chu i hnênah awm zêlin, a kalsan emaw, thlahthlam emaw ngâi lo vang che; chuvângin, hlau suh la, zâm pawh zâm hek suh” (Deut. 31:7, 8, NKJV).
+
+Pathianin Israel hnam thlahtu bulte leh Mosia hnêna a lo tiam tawhte chu a takin a lo thleng dâwn hnâi ta a. In leh lo nei lo a nih chu thu hran ni se, chênna hmun nghet takngial pawh nei lova an lo vahvaih chhûng kha a rei tham êm avângin he hun thar lo inher chhuak tûr hi a nghâkhlel êm êm a ni. Lalpa chu a thutiama a rinawm avângin Aigupta bâwih an nihna ata a lo hruai chhuak tawh a; chuvângin, Ram Tiam chungchânga thu a lo tiam tawh pawh hi a rawn tihlawhtling leh ngei bawk dâwn a ni tih rinhlelh rual a ni lo.
+
+“Josua lehkhabu-in a tum ber chu ram tiama Israel fate an luh dân, chu rama lo awmte an hneh dân leh an hneh hnua hnam hrang hrang chan tûr theuh siam a nih tâk dân te min hrilh a ni a. He a thiltum hian Lalpa’n Abrahama hnêna pêk a lo tiam tawh ram chu a thlahte hnênah a pe ta ngei a ni tih târ langin, chu chu he lehkhabu thuchah ken ber pawh a ni rêng bawk. He lehkhabu hian Pathian chu thu a lo thlun tawhah leh a thutiamahte a rinawm êm êm thîn a ni tih uar takin a sawi (Josua 21:43–45).”—Andrews Bible Commentary (Andrews University Press, 2020), p. 365.
+
+Josua lehkhabu hian—kum sâng thum chuang liam tawha ziak kha ni mah se—hlutna tam tak a la nei reng tho a. Kan han zir ang a, Josua’n thlarau lama chona a hmachhawn tam takte kha keini tûnlâi huna mite’n kan hmachhawn mêkte nên hian a danglam êm êm hran bîk chuang lo tih kan hre chhuak chho zêl ang. Chona chi hrang hrang, inang lo tak takte ni bawk si kan hmachhawn thîn dâwn a; chutih rual chuan, thlarau lama chona, kan sahimna leh kan rinna tiderthâwng thei, Pathianin kan chunga a nghah rawngbâwlna kan hlenchhuahna tûr dâl hial thei thilte pawh kan tawng bawk ang. Josua’n harsatna tawhte a hmachhawn dân hi hre reng thîn ila, chu chuan kan tâna Pathian thutiamte ring ngam thei tûr leh a thiltihtheihna azâra hlawhtlinna chang thei tûrin min tanpui dâwn a ni.
+
+_Barna Magyarosi-a hi Inter-European Division-a executive secretary ni lâi a ni a; tin, he division hnuaia awm Biblical Research Committee-ah chairman a ni mêk bawk. Kohhrana a rawngbâwl hna hi a pianna ram Romania-ah pastor niin a thawk tan phawt a, chumi hnu chuan South Transylvania Conference-ah department director ni lehin, Romania rama awm Adventus University-ah theology zirtîrtu leh president te pawh a lo ni tawh bawk._
