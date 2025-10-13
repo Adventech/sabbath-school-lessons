@@ -5,6 +5,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2025-04-01.mp4
           target: pt/2025-04/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2025-04-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2025-04-03.mp4
+          target: pt/2025-04/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/apl/pt-apl-2025-04-03.webp
     - artist: Adventismo Vivo
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2025-04-01.mp4
