@@ -28,3 +28,5 @@ Tsitsi prijala peniaze ako odpoveď na modlitbu a vrátila sa do Južnej Afriky.
 Tsitsi nerozumie, ako Boh koná, ale nepochybuje o tom, že On sa vždy postará.
 
 „Aj keď som prišla o všetko, moja rodina a ja sme nikdy netrpeli hladom. Vždy sme mali jedlo na stole,“ povedala. „Ak ste verní a dávate Pánovi desiatok a obetné dary, Pán vám vždy pomôže v ťažkej situácii.“
+
+![Tsitsi Zondo](picture3.jpg)
