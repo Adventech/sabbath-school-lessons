@@ -11,6 +11,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2025-04-03.mp4
           target: pl/2025-04/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2025-04-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2025-04-04-updated.mp4
+          target: pl/2025-04/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/pl-2025-04-04-updated.webp
     - artist: Głos Nadziei
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pl/sp/pl-sp-2025-04-01.mp4
