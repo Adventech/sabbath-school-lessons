@@ -70,3 +70,5 @@
           target: hu/2025-04/05/05
         - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20251030.mp3
           target: hu/2025-04/05/06
+        - src: https://bibliatanulmanyok.hu/tanulmanyok/audio/20251031.mp3
+          target: hu/2025-04/05/07
