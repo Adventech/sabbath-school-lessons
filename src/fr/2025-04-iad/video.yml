@@ -28,6 +28,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2025-04-04.mp4
           target: fr/2025-04-iad/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2025-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2025-04-05.mp4
+          target: fr/2025-04-iad/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2025-04-05.webp
     - artist: An Ti Kozé
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2025-04-01.mp4
