@@ -28,6 +28,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-04.mp4
           target: es/2025-04/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-05.mp4
+          target: es/2025-04/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-05.webp
     - artist: Pastor Alejandro Bullon
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-04-01.mp4
@@ -56,3 +59,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-04.mp4
           target: es/2025-04/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-05.mp4
+          target: es/2025-04/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-05.webp
