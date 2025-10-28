@@ -50,5 +50,74 @@ haben als jene."*
 Interpretation von Personen, Ereignissen oder Institutionen, die Jesus
 oder andere Realitäten vorwegnehmen, die im Evangelium vorhanden sind."*
 
+-   Das Konzept von "Typus" und "Antitypus" klingt sehr theologisch und
+    kompliziert. Wie versteht ihr es? Wie würdet ihr es beschreiben?
+-   Wie wichtig ist euch persönlich dieses Konzept bzw. das Verständnis
+    dieses Konzepts?
+-   Warum findet sich eurer Meinung nach dieses Konzept in der Bibel?
+-   Welche Beispiele fallen euch dazu ein?
+-   Inwieweit haben die Menschen im AT ("Zeit des Typus") verstanden
+    (verstehen können), worauf der Typus hindeutete?
+-   Wie weit ging wohl das Verständnis der Menschen des NT ("Zeit des
+    Antitypus")?
+
+Am Beispiel Davids:
+
+**Psalm 22,19:** *" Sie teilen meine Kleider unter sich und werfen das
+Los um mein Gewand."*
+
+**Johannes 19,2:** *"Da sprachen sie untereinander: Lasst uns den nicht
+zerteilen, sondern darum losen, wem er gehören soll. So sollte die
+Schrift erfüllt werden, die sagt: »Sie haben meine Kleider unter sich
+geteilt und haben über mein Gewand das Los geworfen.« Das taten die
+Soldaten."*
+
+-   In diesem Psalm schildert David sein persönliches Leid. Zumindest in
+    poetischer Form, denn mir ist keine Begebenheit bekannt, wo um
+    Davids Kleider gewürfelt wurde. Wie kam Johannes dazu, darin eine
+    Prophezeiung zu sehen, die sich unter dem Kreuz erfüllte?
+    -   Wie sahen das die verschiedenen Gruppen, die auf Golgatha dabei
+        waren?
+        -   Die Soldaten selbst, die würfelten?
+        -   Die Priester?
+        -   Johannes und Maria?
+        -   Die "Adabeis"?
+-   Was können wir hier über unseren Umgang mit Prophezeiungen lernen,
+    deren Erfüllung noch ausstehen?
+    -   Glaubt ihr, dass es Prophezeiungen geben könnte, von denen wir
+        noch gar nicht erkannt haben, dass es welche sind?
+
+**ZITAT (Lektion Seite 100):** "Das Neue Testament, dessen Heilige
+Schrift das Alte Testament war, wurde also vom Heiligen Geist
+inspiriert, die Typen des Alten Testaments zu benutzen."
+
+**MONTAG**
+
+In der Lektion wird gezeigt, dass Textstellen aus dem AT in dreifacher
+Weise etwas noch in der Zukunft Liegendes vorausschatten: Einmal als
+Hinweise auf Jesus selbst, dann als Hinweise auf die Gemeinde und
+schließlich als Hinweise auf Endzeit.
+
+-   Welche Beispiele fallen euch ein für Hinweise auf Jesus?
+-   Welche Beispiele fallen euch ein für Hinweise auf die Gemeinde?
+-   Welche Beispiele fallen euch ein für Hinweise auf die Endzeit?
+
+Weiters wird gezeigt, das ein alttestamentliches Konzept auf alle drei
+Punkte hinweisen kann.
+
+-   Wie sehen wir das:
+    -   Am Beispiel Israel?
+    -   Am Beispiel Auszug aus Ägypten?
+    -   Am Beispiel Heiligtum?
+-   Was lehrt uns die Tatsache, dass eine Prophezeiung (ein Typus)
+    gleich mehrere Erfüllungen haben kann?
+    -   Ist des vor diesem Hintergrund sinnvoll, wenn wir uns als
+        Adventgemeinde in Hinblick auf die Zukunft starr auf genau eine
+        Interpretation festlegen (z.B. Papsttum, Amerika)?
+        -   Wäre es sinnvoll, die Augen offen zu halten und eventuell
+            andere Erfüllungen zu erkennen bzw. zuzulassen?
+
+*'DIENSTAG*
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
