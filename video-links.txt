@@ -1,41 +1,7 @@
-yt-dlp "https://www.youtube.com/watch?v=qA9wF3jAKFI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2025-04-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=uk2QkqF3rSA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-04-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=l-NBj17RrO4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2025-04-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=ufXvEwZVENw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ta/ta-2025-04-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=6KgYEKRv5v8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-04-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=_AeAH34sSDE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2025-04-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=JPZHTJMkuvc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-04-inv-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=GLeZe04JDRQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=mapCZD0G4Y0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Upz58URDJ5Y" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=LjrW-S_9ZJY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=B9c-NZSlC0Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=e6K-58TEGeQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=2y1FoL-M5tU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=LbIlTYOewVc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=NNc9LVUSGYU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=CdX6p3BrAhA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=yFxgaggQT0I" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=HjTT-TB0yS4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=GuqY7iB8Zcc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Bn5y1BTHTEk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=-soz8RNLOMU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=5SqqYAVNeWQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=6NH-yD_woDk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2025-04-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=DNcOvuc0MQI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2025-04-06.mp4"
