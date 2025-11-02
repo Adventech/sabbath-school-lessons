@@ -14,3 +14,15 @@
       target: bg/2025-04-cq/06
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-07.pdf
       target: bg/2025-04-cq/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-08.pdf
+      target: bg/2025-04-cq/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-09.pdf
+      target: bg/2025-04-cq/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-10.pdf
+      target: bg/2025-04-cq/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-11.pdf
+      target: bg/2025-04-cq/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-12.pdf
+      target: bg/2025-04-cq/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2025-04/ABSG-2025-04-BG-CQ-13.pdf
+      target: bg/2025-04-cq/13
