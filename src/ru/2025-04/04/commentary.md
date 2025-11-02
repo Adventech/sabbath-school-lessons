@@ -587,7 +587,7 @@ https://rutube.ru/video/private/486f180355e6f488fe10e1b6b539942d/?p=tqtkJ_I3fnNq
 
 ---
 
-[Слайды от Александра Педько](https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-04/assets/ru-2025-04-02.pptx)
+[Слайды от Александра Педько](https://sabbath-school-resources-assets.adventech.io/ru/ss/2025-04/assets/ss2025_4_04_comppt.pptx)
 
 ---
 
