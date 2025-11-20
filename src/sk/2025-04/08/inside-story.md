@@ -26,3 +26,5 @@ Keď Sun prišiel do školy, ktorú mu vybrali rodičia, Adventist University of
 _Kim Sun je zástupca riaditeľa organizácie 1000 Missionary Movement, ktorej sídlo v Silangu na Filipínach bolo postavené s pomocou 13. sobotnej zbierky z roku 1996._
 
 _Viac si prečítajte budúci týždeň._
+
+![Kim Sun](picture8.jpg)
