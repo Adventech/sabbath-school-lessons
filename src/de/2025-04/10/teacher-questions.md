@@ -197,5 +197,112 @@ sich ein jeder abwende von seinen bösen Taten."*
 
 **MITTWOCH**
 
+**Hebräer 3,7 - 4,11:** *"Darum, wie der Heilige Geist spricht: »Heute,
+wenn ihr seine Stimme hört, 8 so verstockt eure Herzen nicht, wie es
+geschah bei der Verbitterung am Tag der Versuchung in der Wüste, 9 wo
+mich eure Väter versuchten und prüften und hatten doch meine Werke
+gesehen 10 vierzig Jahre lang. Darum zürnte ich diesem Geschlecht und
+sprach: Immer irren sie im Herzen! Aber sie verstanden meine Wege
+nicht, 11 sodass ich schwor in meinem Zorn: Sie sollen nicht eingehen in
+meine Ruhe.« 12 Seht zu, Brüder und Schwestern, dass niemand unter euch
+ein böses, ungläubiges Herz habe und abfalle von dem lebendigen Gott; 13
+sondern ermahnt euch selbst alle Tage, solange es »heute« heißt, dass
+nicht jemand unter euch verstockt werde durch den Betrug der Sünde. 14
+Denn wir haben an Christus Anteil bekommen, wenn wir die erste
+Gewissheit bis zum Ende festhalten, 15 solange es heißt: »Heute, wenn
+ihr seine Stimme hört, so verstockt eure Herzen nicht, wie es bei der
+Verbitterung geschah.« 16 Denn als sie das hörten, wurden einige
+verbittert, aber nicht alle, die von Ägypten auszogen unter Mose. 17 Und
+wem zürnte Gott vierzig Jahre lang? Waren’s nicht die, die sündigten und
+deren Leiber in der Wüste zerfielen? 18 Wem aber schwor er, dass sie
+nicht in seine Ruhe eingehen sollten, wenn nicht den Ungehorsamen? 19
+Und wir sehen, dass sie nicht hineinkommen konnten wegen des
+Unglaubens. o lasst uns nun mit Furcht darauf achten, dass keiner von
+euch zurückbleibe, solange die Verheißung noch besteht, dass wir in
+seine Ruhe eingehen. 2 Denn es ist auch uns verkündigt wie jenen. Aber
+das Wort, das sie hörten, half jenen nichts, weil sie nicht im Glauben
+vereint waren mit denen, die es hörten. 3 Denn wir, die wir glauben,
+gehen ein in die Ruhe, wie er gesprochen hat: »Ich schwor in meinem
+Zorn: Sie sollen nicht in meine Ruhe eingehen.« Nun waren ja die Werke
+von Anbeginn der Welt gemacht; 4 denn so hat er an einer andern Stelle
+gesprochen vom siebenten Tag: »Und Gott ruhte am siebenten Tag von allen
+seinen Werken.« 5 Doch an dieser Stelle wiederum: »Sie sollen nicht in
+meine Ruhe eingehen.« 6 Da es nun bestehen bleibt, dass einige in sie
+eingehen sollen, und die, denen es zuerst verkündigt ist, nicht
+hineingekommen sind wegen des Ungehorsams, 7 bestimmt er abermals einen
+Tag, ein »Heute«, und spricht nach so langer Zeit durch David, wie eben
+gesagt: »Heute, wenn ihr seine Stimme hört, so verstockt eure Herzen
+nicht.« 8 Denn wenn Josua sie zur Ruhe gebracht hätte, wäre hernach
+nicht von einem andern Tag die Rede. 9 Es ist also noch eine Ruhe
+vorhanden für das Volk Gottes. 10 Denn wer in seine Ruhe eingegangen
+ist, der ruht auch von seinen Werken so wie Gott von den seinen. 11 So
+lasst uns nun bemüht sein, in diese Ruhe einzugehen, damit nicht jemand
+zu Fall komme wie in diesem Beispiel des Ungehorsams."*
+
+-   Die Argumentationslinie in diesem Abschnitt ist - wie oft bei
+    Paulus - etwas kompliziert. Warum hinterfragt er, dass Josua das
+    Volk zur Ruhe gebracht habe?
+    -   Worin besteht die "echte" bzw. endgültige Ruhe, von der er hier
+        spricht?
+-   Einerseits spricht er davon, dass der, der in diese "echte" Ruhe
+    eingeht, "von seinen Werken ruht". Andererseits warnt er
+    eindringlich vor Ungehorsam. Wie lösen wir diesen Widerspruch auf?
+-   Was ist "die erste Gewissheit" (V.14), an der wir bis zum Ende
+    festhalten sollten?
+-   Wie kann "Verstockung des Herzens" aussehen?
+-   **Welche Rolle kann/soll die Sabbatschule in der Umsetzung all
+    dieser Ziele spielen?**
+
+**DONNERSTAG**
+
+**1.Timotheus 1,18:** *"Dieses Gebot gebe ich dir, mein Sohn Timotheus,
+nach den Weissagungen, die früher über dich ergangen sind, damit du in
+ihrer Kraft einen guten Kampf kämpfst..."*
+
+**2.Timotheus 4,7:** *"Ich habe den guten Kampf gekämpft, ich habe den
+Lauf vollendet, ich habe Glauben gehalten..."*
+
+**Epheser 6,10-12:** *"Zuletzt: Seid stark in dem Herrn und in der Macht
+seiner Stärke. 11 Zieht an die Waffenrüstung Gottes, damit ihr bestehen
+könnt gegen die listigen Anschläge des Teufels. 12 Denn wir haben nicht
+mit Fleisch und Blut zu kämpfen, sondern mit Mächtigen und Gewaltigen,
+mit den Herren der Welt, die über diese Finsternis herrschen, mit den
+bösen Geistern unter dem Himmel."*
+
+**2.Korinther 10,3-5:** *"Denn obwohl wir im Fleisch wandeln, kämpfen
+wir doch nicht auf fleischliche Weise. 4 Denn die Waffen unsres Kampfes
+sind nicht fleischlich, sondern mächtig im Dienste Gottes, Festungen zu
+zerstören. Absichten zerstören wir 5 und alles Hohe, das sich erhebt
+gegen die Erkenntnis Gottes, und nehmen gefangen alles Denken in den
+Gehorsam gegen Christus."*
+
+**Apostelgeschichte 20,32:** *"Und nun befehle ich euch Gott und dem
+Wort seiner Gnade, der da mächtig ist, euch zu erbauen und das Erbe zu
+geben mit allen, die geheiligt sind."*
+
+-   Josuas Kampf hatte die Eroberung Kanaans zum Ziel. Inwiefern lässt
+    er sich vergleichen mit unserem Kampf, der sich quasi um die
+    "Eroberung" des himmlischen Kanaans dreht?
+    -   Was können wir von Josua in diesem Kampf lernen?
+    -   Was waren die Waffen Josuas, was sind unsere Waffen?
+
+**1.Petrus 1,4:** *"...zu einem unvergänglichen und unbefleckten und
+unverwelklichen Erbe, das aufbewahrt wird im Himmel für euch..."*
+
+**Kolosser 3,24:** *"...denn ihr wisst, dass ihr von dem Herrn als Lohn
+das Erbe empfangen werdet. Dient dem Herrn Christus!"*
+
+**Offenbarung 20,9:** *"Und sie stiegen herauf auf die Ebene der Erde
+und umringten das Heerlager der Heiligen und die geliebte Stadt. Und es
+fiel Feuer vom Himmel und verzehrte sie."*
+
+**Offenbarung 21,3:** *"Und ich hörte eine große Stimme von dem Thron
+her, die sprach: Siehe da, die Hütte Gottes bei den Menschen! Und er
+wird bei ihnen wohnen, und sie werden seine Völker sein, und er selbst,
+Gott mit ihnen, wird ihr Gott sein."*
+
+-   Welche Gedanken kommen euch, wenn ihr an die "himmlische Landnahme"
+    denkt, die zwar noch aussteht, die uns aber verheißen ist?
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
