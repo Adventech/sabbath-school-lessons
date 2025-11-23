@@ -1,3 +1,7 @@
+yt-dlp "https://www.youtube.com/watch?v=HBuoFH85bKA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=KFm_4XThv40" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "inv/en-2025-04-inv-09.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=b-jibGrlkXw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/sp/pl-sp-2025-04-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=4JUYJx6NcHo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2025-04-08.mp4"
@@ -22,6 +26,8 @@ yt-dlp "https://www.youtube.com/watch?v=3izP-u-BzHo" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=yHxqvt5dHts" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2025-04-09.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=jA1Q3cW2HGo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/bul/es-2025-04-09.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=dsz6Hw2ktvc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-04-inv-09.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=ENF1H2grumQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/her/es-2025-04-09.mp4"
@@ -29,6 +35,8 @@ yt-dlp "https://www.youtube.com/watch?v=ENF1H2grumQ" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=Fv5sWBWeHY8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-04-09.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=aH74Sqt6VPs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=A46APOW0KK0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-04-09.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=sl8NVn0VA-Y" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2025-04-09.mp4"
 
