@@ -1,7 +1,17 @@
-yt-dlp "https://www.youtube.com/watch?v=j-I6qbdexAk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2025-04-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=T-UVHGtyb6Q" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-2025-04-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=vQ5hwUGeKOY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2025-04-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=oBwl6GHKzh8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2025-04-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=QKzw_806u0k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2025-04-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=cw0u-ELOheo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-04-09.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=zjZAVBipxZ0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2025-04-09.mp4"
+yt-dlp "https://www.youtube.com/watch?v=CdiGY457Wy4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=wKOZwIklDKw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=DPNduM5rpq4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ml/ml-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=NQLZYbCH7hk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pl/pl-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=uz96JjV-bkw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2025-04-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=FEPKm3qVAfE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2025-04-10.mp4"
