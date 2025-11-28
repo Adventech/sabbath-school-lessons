@@ -1,0 +1,132 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch1.pdf'
+      target: zh/2026-01-hant-cc/01
+      title: 臨別的話和見證
+      start_date: 03/01/2026
+      end_date: 09/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch2.pdf'
+      target: zh/2026-01-hant-cc/02
+      title: 聖靈的恩賜
+      start_date: 10/01/2026
+      end_date: 16/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch3.pdf'
+      target: zh/2026-01-hant-cc/03
+      title: 惟有耶穌
+      start_date: 17/01/2026
+      end_date: 23/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch4.pdf'
+      target: zh/2026-01-hant-cc/04
+      title: 人為財死
+      start_date: 24/01/2026
+      end_date: 30/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch5.pdf'
+      target: zh/2026-01-hant-cc/05
+      title: 能力，堅持，目標
+      start_date: 31/01/2026
+      end_date: 06/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch6.pdf'
+      target: zh/2026-01-hant-cc/06
+      title: 第一位殉道者
+      start_date: 07/02/2026
+      end_date: 13/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch7.pdf'
+      target: zh/2026-01-hant-cc/07
+      title: 到遠方去
+      start_date: 14/02/2026
+      end_date: 20/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch8.pdf'
+      target: zh/2026-01-hant-cc/08
+      title: 彼得的信念
+      start_date: 21/02/2026
+      end_date: 27/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch9.pdf'
+      target: zh/2026-01-hant-cc/09
+      title: 聖工的中心
+      start_date: 28/02/2026
+      end_date: 06/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch10.pdf'
+      target: zh/2026-01-hant-cc/10
+      title: 我們和他們
+      start_date: 07/03/2026
+      end_date: 13/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch11.pdf'
+      target: zh/2026-01-hant-cc/11
+      title: 信念+價值觀=行動
+      start_date: 14/03/2026
+      end_date: 20/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch12.pdf'
+      target: zh/2026-01-hant-cc/12
+      title: 抱一絲希望
+      start_date: 21/03/2026
+      end_date: 27/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_S_TC_Ch13.pdf'
+      target: zh/2026-01-hant-cc/13
+      title: 沉着穩定的少數派
+      start_date: 28/03/2026
+      end_date: 03/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch1.pdf'
+      target: zh/2026-01-hant-cc/01
+      title: 臨別的話和見證 - 教師本
+      start_date: 03/01/2026
+      end_date: 09/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch2.pdf'
+      target: zh/2026-01-hant-cc/02
+      title: 聖靈的恩賜 - 教師本
+      start_date: 10/01/2026
+      end_date: 16/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch3.pdf'
+      target: zh/2026-01-hant-cc/03
+      title: 惟有耶穌 - 教師本
+      start_date: 17/01/2026
+      end_date: 23/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch4.pdf'
+      target: zh/2026-01-hant-cc/04
+      title: 人為財死 - 教師本
+      start_date: 24/01/2026
+      end_date: 30/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch5.pdf'
+      target: zh/2026-01-hant-cc/05
+      title: 能力，堅持，目標 - 教師本
+      start_date: 31/01/2026
+      end_date: 06/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch6.pdf'
+      target: zh/2026-01-hant-cc/06
+      title: 第一位殉道者 - 教師本
+      start_date: 07/02/2026
+      end_date: 13/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch7.pdf'
+      target: zh/2026-01-hant-cc/07
+      title: 到遠方去 - 教師本
+      start_date: 14/02/2026
+      end_date: 20/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch8.pdf'
+      target: zh/2026-01-hant-cc/08
+      title: 彼得的信念 - 教師本
+      start_date: 21/02/2026
+      end_date: 27/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch9.pdf'
+      target: zh/2026-01-hant-cc/09
+      title: 聖工的中心 - 教師本
+      start_date: 28/02/2026
+      end_date: 06/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch10.pdf'
+      target: zh/2026-01-hant-cc/10
+      title: 我們和他們 - 教師本
+      start_date: 07/03/2026
+      end_date: 13/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch11.pdf'
+      target: zh/2026-01-hant-cc/11
+      title: 信念+價值觀=行動 - 教師本
+      start_date: 14/03/2026
+      end_date: 20/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch12.pdf'
+      target: zh/2026-01-hant-cc/12
+      title: 抱一絲希望 - 教師本
+      start_date: 21/03/2026
+      end_date: 27/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q1/CC_2026_Q1_T_TC_Ch13.pdf'
+      target: zh/2026-01-hant-cc/13
+      title: 沉着穩定的少數派 - 教師本
+      start_date: 28/03/2026
+      end_date: 03/04/2026
