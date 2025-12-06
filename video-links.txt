@@ -2,6 +2,24 @@ yt-dlp "https://www.youtube.com/watch?v=mF1IFh1y1EY" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=QmuqfgWg0Jo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/her/es-2025-04-11.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=TaXgzBR8mEo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/365/365-en-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=GO3UhRq-ngg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=3ggqOdEUcQo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=5lUWcTCvpVI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-04-inv-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=269mlPKtvpc" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=EH_zeAiQhKo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=WWn3lPibgQ4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=HtKgdZLn56o" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=BRvgCKBNdK4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2025-04-11.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=dDXFVHtauS0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2025-04-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=2d84PxB4O7Y" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2025-04-11.mp4"
@@ -14,10 +32,24 @@ yt-dlp "https://www.youtube.com/watch?v=A3Tr-p2u21I" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=iPok4hKdPFo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/jm/de-jm-2025-04-11.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=XPNfjEONscg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/af/de-af-2025-04-11.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=5nL5-ILg3m8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/zau/ru-zau-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=hgRSBsTDxPM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=Spq51yy8SZI" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=NRQXzk7ckx4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=oQ2epvQMlys" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=21Xx9DPcgHQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "uk/uk-2025-04-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=C_3IbtSx1VA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2025-04-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=sx51_eXCxmw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2025-04-11.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=Iu53Ly8F_xo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "in/hope/in-hope-2025-04-11.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=SDfr_c3EJ3k" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/apl/pt-apl-2025-04-11.mp4"
