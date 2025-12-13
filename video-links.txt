@@ -4,7 +4,17 @@ yt-dlp "https://www.youtube.com/watch?v=Vdx3piqOyaY" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=-EDHWCB0lJA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2025-04-12.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=IeypetqFDw4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2025-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=dHixLBbBCw8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2025-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=psJb9em4a0E" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/viva/es-2025-04-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=6YNCgvm0OLM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/her/es-2025-04-12.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=ttJh8AN2Esk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/inv/es-2025-04-inv-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=QSGGzojDQm8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2025-04-12.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=gSjJEbo984o" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "pt/inv/pt-inv-2025-04-12.mp4"
 
