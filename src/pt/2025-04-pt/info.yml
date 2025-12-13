@@ -1,0 +1,22 @@
+---
+  title: "Lições de Fé de Josué"
+  description: "O livro de Josué marca a transição da liderança de Moisés para a de Josué. Começa com a história da entrada de Israel na Terra Prometida e termina com o seu estabelecimento nessa terra."
+  human_date: "Outubro · Novembro · Dezembro 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#7F586D"
+  color_primary_dark: "#5F384D"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Barna Magyarosi"
+    - name: Direção-Geral
+      value: "António Carvalho"
+    - name: Direção de Redação
+      value: "Lara Figueiredo"
+    - name: Tradução e Revisão
+      value: "Redação Publicadora SerVir"
+    - name: Projeto Gráfico
+      value: "Sara Calado"
+    - name: Capa e Diagramação
+      value: "André Carrolo Fernandes"

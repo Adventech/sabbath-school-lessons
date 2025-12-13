@@ -4,5 +4,6 @@
    human_date: "Vierde kwartaal van 2025"
    start_date: "27/09/2025"
    end_date: "27/12/2025"
-   color_primary: "#A14F03"
-   color_primary_dark: "#7D2E00"
+   color_primary: "#2C4D7B"
+   color_primary_dark: "#162D4E"
+   splash: true

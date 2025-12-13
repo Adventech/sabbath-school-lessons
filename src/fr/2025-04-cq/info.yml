@@ -1,0 +1,26 @@
+---
+  title: "Le livre de Josué"
+  description: "L’histoire de Josué et de sa génération traite à la fois d’une fin et d’un commencement. Après quarante ans d’errance difficile dans le désert, Israël était enfin rentré chez lui. Il y avait de quoi se réjouir! Cependant, la conquête de Canaan était aussi le commencement d’une nouvelle aventure, d’un voyage vers l’inconnu dans lequel les Israélites devaient embrasser la mission que Dieu leur avait confiée: être des porteurs de lumière pour le monde. Ils étaient enfin prêts à recevoir ce que Dieu leur avait promis tant d’années auparavant!"
+  human_date: "Octobre · Novembre · Décembre 2025"
+  start_date: "28/09/2025"
+  end_date: "27/12/2025"
+  color_primary: "#5B9ACB"
+  color_primary_dark: "#2A6089"
+  splash: true
+  credits:
+    - name: Contributeur principal
+      value: "David Guerrero"
+    - name: Rédacteur en chef
+      value: "Joe Reeves"
+    - name: Rédactrice en chef adjointe
+      value: "Paige J. Swanson"
+    - name: Directeur du Département de l’École du sabbat
+      value: "Jim Howard"
+    - name: Directeur adjoint de l’École du sabbat
+      value: "Daniel Ebenezer"
+    - name: Traduction et édition française
+      value: "Monique Lemay"
+    - name: Révision
+      value: "Francine Schweitzer"
+    - name: Mise en page
+      value: "Jaime Gori"

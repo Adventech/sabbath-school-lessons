@@ -1,0 +1,18 @@
+---
+  title: "Josva – Hva er tro?"
+  description: "Josvas bok markerer overgangen fra Moses til Josva. Den begynner med historien om Israels innreise i det lovede landet og ender med at de bosetter seg der."
+  human_date: "October · November · Desember 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Originaltittel
+      value: "Lessons of Faith From Joshua"
+    - name: Studieforfatter
+      value: "Barna Magyarosi"
+    - name: Redaktør
+      value: "Clifford R. Goldstein"
+    - name: Oversetter
+      value: "Egil Fredheim"

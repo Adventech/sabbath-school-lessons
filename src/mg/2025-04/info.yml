@@ -1,0 +1,20 @@
+---
+  title: "Lesona momban'ny finoana ao amin'ny bokin'i Josoa"
+  description: "Ny bokin'i Josoa no manamarika ny fialana tamin'ny fitarihan'i Mosesy ho amin'ny fitarihan'i Josoa. Manomboka amin'ny tantaran'ny nidiran'ny Isiraely tao amin'ny Tany Nampanantenaina izany ary mifarana amin'ny fonenan'izy ireo tao amin'io tany io."
+  human_date: "Oktobra . Novambra . Desambra 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Barna Magyarosi"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Scheidweiler"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"

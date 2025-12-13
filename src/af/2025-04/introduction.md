@@ -1,0 +1,23 @@
+### Die Boek Josua: ’n Tweede Kans
+
+Die boek Josua dui op ’n verandering van leierskap, van Moses na Josua s’n. Dit begin waar Israel die Beloofde Land betree en eindig waar die volk hulle klaar daar gevestig het.
+
+Josua het inderdaad groot skoene gehad om te vul. Hy moes immers by Moses — ja Moses van alle mense! — oorneem. Dit was net die begin van die uitdaging waarvoor dié nuwe leier gestel is. Josua moes iets doen wat Moses nooit kon regkry nie: om die volk ná 40 jaar se rondswerf in die woestyn oor die Jordaanrivier tot in Kanaän te neem, ter vervulling van die belofte wat God aan hul voorvaders gemaak het.
+
+Let op die Here se bevel aan Josua: “‘Moses, my dienskneg, is dood. Daarom, maak nou gereed om hierdie Jordaan oor te steek, jy en hierdie hele volk, na die land wat Ek aan hulle, aan die Israeliete, gaan gee’” (Jos. 1:2, AFR20).
+
+Hier is die deurslaggewende gedeelte in hierdie bevel: julle sal Kanaän binnegaan, “‘die land wat Ek [YHWH] aan hulle, aan die Israeliete, gaan gee’” (AFR20).
+
+So Josua het nie nodig gehad om dit man-alleen te vermag nie. Nee hy sou dit slegs deur die mag en krag van die Here, deur Sý leiding kon vermag; deur die bewerking van die God wat al ’n geslag tevore die volk in Kanaän sou bring, as hulle net hulle deel van die verbondooreenkoms wou nakom. Ongelukkig het hulle versuim om dit te doen. Gevolglik moes hulle die vrug van hul ongehoorsaamheid pluk.
+
+Hier is die wrede werklikheid: in die voorafgaande 40 jaar het Israel met die negatiewe kant van die verbond te kampe gehad. Vanweë hul rebellie teen God het die hele volgroeide geslag wat tydens die uittog uit Egipteland sy wonderdade beleef het, met die uitsondering van Kaleb en Josua, in die woestyn omgekom. Vier van Moses se vyf boeke boekstaaf wat buite die Beloofde Land met hulle gebeur het: ’n permanente woestynbestaan vir daardie geslag. Nou, onder die leierskap van Josua, kom die tweede geslag voor die groot uitdaging te staan: om [uiteindelik] Kanaän in besit te neem.
+
+Let op Moses se woorde aan Josua, toe dié bejaarde Godsman nog geleef het: “Moses het vir Josua geroep en hy het voor al die Israeliete vir Josua gesê: ‘Jy moet sterk en dapper wees, want dit is jý wat saam met hierdie volk moet gaan na die land wat die Here belowe het om vir hulle voorvaders te gee, jý moet vir hulle die land gee, dit sal hulle land wees. Dit is die Here self wat voor jou gaan, Hy self sal by jou wees, Hy sal jou help en Hy sal jou nie alleen los nie. Jy moenie bang wees nie, jy moenie skrik nie’” (Deut. 31:7 en 8, ABA).
+
+God se beloftes aan die patriarge van ouds, en later aan Moses, was dus op die punt om bewaarheid te word. ’n Gees van afwagting — ja, ’n opgewondenheid — het onder die mense geheers. ’n Nuwe era het aangebreek vir die volk wat so lank sonder heenkome en in vervreemding geleef het. Die Here het reeds hul ouers uit slawerny bevry. So, Hy is ’n betroubare God en daarom kon die volk nou peil trek op sy belofte aangaande die Beloofde Land.
+
+“Josua het hoofsaaklik ten doel om ’n beskrywing te gee van hoe Israel die Beloofde Land binnegegaan, in besit geneem, en onder die [twaalf] stamme verdeel het. Hierdie doelwit is die raamwerk waarbinne dié boek se boodskap oorgedra word, naamlik dat God getrou is en sy belofte aan Abraham oor die Beloofde Land nakom. Die boek beklemtoon God se getrouheid aan sy verbondsbeloftes (Jos. 21:43-45)” (Andrews Bible Commentary [Andrews University Press, 2020], bl. 365).
+
+Die boek Josua is meer as drieduisend jaar gelede geskryf. Nietemin sal ons hierdie kwartaal tesame tot ’n belangrik slotsom kom: dat wanneer dit by geestelike uitdagings kom, die hedendaagse wêreld nie juis veel van die antieke wêreld verskil nie. Al het hulle met ander tipe uitdagings as ons te kampe gehad, het ons nietemin ook ons eie uitdagings — veral die geestelike soort wat ons veiligheid, geloof en die volvoering van die sending wat God aan sy kinders toevertrou het, bedreig. Josua se lewe dien ongetwyfeld as inspirasie: dat ons kan glo in God se beloftes rakende die tydstip in die wêreldgeskiedenis waar ons ons tans bevind, en dat ons net soos Josua deur die krag van die Here in ons [Godgegewe] roeping kan slaag.
+
+_Barna Magyarosi dien tans as die uitvoerende sekretaris van die Inter-Europese Divisie en ook as voorsitter van daardie divisie se Bybelnavorsingskomitee. Hy begin sy kerkbediening as ’n leraar en as ’n departementshoof in die Suid-Transsilvaniese Konferensie in Roemenië. Later is hy ook ’n teologielektor en die president van die Adventus-universiteit te Romenië._
