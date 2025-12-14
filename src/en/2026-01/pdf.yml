@@ -1,0 +1,58 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-Intro.pdf
+      title: Introduction
+      target: en/2026-01/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-01.pdf
+      target: en/2026-01/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-02.pdf
+      target: en/2026-01/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-03.pdf
+      target: en/2026-01/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-04.pdf
+      target: en/2026-01/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-05.pdf
+      target: en/2026-01/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-06.pdf
+      target: en/2026-01/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-07.pdf
+      target: en/2026-01/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-08.pdf
+      target: en/2026-01/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-09.pdf
+      target: en/2026-01/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-10.pdf
+      target: en/2026-01/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-11.pdf
+      target: en/2026-01/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-12.pdf
+      target: en/2026-01/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-13.pdf
+      target: en/2026-01/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-01.pdf
+      target: en/2026-01/01
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-02.pdf
+      target: en/2026-01/02
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-03.pdf
+      target: en/2026-01/03
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-04.pdf
+      target: en/2026-01/04
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-05.pdf
+      target: en/2026-01/05
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-06.pdf
+      target: en/2026-01/06
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-07.pdf
+      target: en/2026-01/07
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-08.pdf
+      target: en/2026-01/08
+      title: Talking Points Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-TP-09.pdf
+      target: en/2026-01/09
+      title: Talking Points Outline
