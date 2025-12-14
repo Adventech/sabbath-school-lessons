@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   27/03/2025
+date:   27/03/2026
 ---
 
 ### Participating In The Mission Of Jesus

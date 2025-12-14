@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   20/02/2025
+date:   20/02/2026
 ---
 
 ### The Preeminence Of Christ

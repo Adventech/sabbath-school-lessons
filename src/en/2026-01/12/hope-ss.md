@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   20/03/2025
+date:   20/03/2026
 ---
 
 ### Living With Each Other

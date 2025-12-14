@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   30/01/2025
+date:   30/01/2026
 ---
 
 ### Shining As Lights In The World

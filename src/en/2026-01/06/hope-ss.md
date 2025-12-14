@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   06/02/2025
+date:   06/02/2026
 ---
 
 ### Confidence Only In Christ

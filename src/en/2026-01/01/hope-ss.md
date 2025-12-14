@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   02/01/2025
+date:   02/01/2026
 ---
 
 ### Persecuted But Not Forsaken

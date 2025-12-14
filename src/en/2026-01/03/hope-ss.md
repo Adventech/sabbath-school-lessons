@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   16/01/2025
+date:   16/01/2026
 ---
 
 ### Life And Death

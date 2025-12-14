@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   13/02/2025
+date:   13/02/2026
 ---
 
 ### Living As Citizens Of A Heavenly Kingdom

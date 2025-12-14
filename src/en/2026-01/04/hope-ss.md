@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   23/01/2025
+date:   23/01/2026
 ---
 
 ### Unity In Christ

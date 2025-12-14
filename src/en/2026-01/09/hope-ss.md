@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   27/02/2025
+date:   27/02/2026
 ---
 
 ### Reconciliation And Hope

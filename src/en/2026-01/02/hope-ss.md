@@ -1,6 +1,6 @@
 ---
 title:  Hope Sabbath School Outline
-date:   09/01/2025
+date:   09/01/2026
 ---
 
 ### Reasons For Thanksgiving And Prayer
