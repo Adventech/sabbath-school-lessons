@@ -35,6 +35,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2025-04-11.mp4
           target: es/2025-04/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2025-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2025-04-12.mp4
+          target: es/2025-04/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2025-04-12.webp
     - artist: Escrito Está
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-01.mp4
@@ -70,6 +73,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-11.mp4
           target: es/2025-04/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-12.mp4
+          target: es/2025-04/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2025-04-12.webp
     - artist: Pastor Alejandro Bullon
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-04-01.mp4
@@ -105,6 +111,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-04-11.mp4
           target: es/2025-04/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-04-12.mp4
+          target: es/2025-04/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2025-04-12.webp
     - artist: Pastor Daniel Herrera
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-01.mp4
@@ -140,3 +149,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-11.mp4
           target: es/2025-04/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-12.mp4
+          target: es/2025-04/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2025-04-12.webp
