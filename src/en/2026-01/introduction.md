@@ -1,0 +1,21 @@
+### Introduction
+
+#### Uniting Heaven and Earth
+
+Think of the hardest job you’ve ever done. What made it hard? Was it the expectations or the time allotted for the work or both? Was it your attitude toward the task? Or perhaps it was the people you worked with? Or maybe it just seemed like an impossibility to ever succeed?
+
+Consider the purpose of the plan of salvation: uniting heaven and earth. Sound impossible? Humanly speaking, it certainly is. Nevertheless, just before ascending to heaven, Jesus gave the apostles a seemingly impossible assignment: “Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you” (Matt. 28:19, 20, NKJV).
+
+Jesus sent Paul to the Gentiles to accomplish this seemingly impossible task: “ ‘To open their eyes, in order to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in Me’ ” (Acts 26:18, NKJV).
+
+Some might throw up their hands when given jobs like that. However, we should not overlook the promises Jesus gave on both these occasions. To the apostles, He added, “And, lo, I am with you always, even unto the end of the world” (Matt. 28:20). And to Paul, Jesus said, “I have appeared to you for this purpose, to make you a minister and a witness both of the things which you have seen and of the things which I will yet reveal to you” (Acts 26:16, NKJV).
+
+In short, Jesus gives humanly impossible tasks so we will rely on Him, rather than on ourselves, to accomplish them. He never gives us a job without supplying the power to do it. “As the will of man co-operates with the will of God, it becomes omnipotent. Whatever is to be done at His command may be accomplished in His strength. All His biddings are enablings.”—Ellen G. White, Christ’s Object Lessons, p. 333.
+
+Amazingly, by the time Paul wrote to the Colossians, the gospel had been “preached to every creature under heaven” (Col. 1:23, NKJV). Of course, not all accepted it. But if we look carefully at the commissions He gave to the apostles (Matt. 28:18–20) and to the apostle Paul, Jesus never promised all would become disciples or all would be converted. The gospel is to be “preached in all the world as a witness to all the nations, and then the end will come” (Matt. 24:14, NKJV, emphasis supplied). What does that witness look like? How exactly is it to be accomplished?
+
+This quarter we’ll study Paul’s epistles to the Philippians and to the Colossians. They have important similarities. Above all, they reveal Christ, the only One able to unite heaven and earth. He is the ladder Jacob saw stretching from earth to heaven (Gen. 28:12; compare John 1:51). As the Son of man and the Son of God, He redeems us from sin, and He intercedes for us.
+
+In studying these letters, we will see both these aspects of Jesus. We’ll consider some of the most sublime statements found anywhere about Christ’s divinity and how He gave it all up to save us. We’ll see Paul wrestling from prison with problems in one church he raised up (Philippi) and in one that he himself never even visited (Colossae). The connections Paul established throughout the “world church” of that time enabled him, even from a Roman prison, to respond to challenges. He knew his time was short, and he did all he could to draw the church closer to heaven and to each other. In so doing, he shows us how God’s church today can unite with heaven to fulfill the last-day commission of Revelation 14, which we know as “the three angels’ messages.”
+
+_Clinton Wahlen, PhD, is an associate director of the Biblical Research Institute at the General Conference. His expertise is in the New Testament, hermeneutics, and Adventist history. He has lived and worked in Germany, New Zealand, Russia, the United Kingdom, and the Philippines. He and his wife, Gina, have two grown children, a daughter-in-law, and two grandchildren._
