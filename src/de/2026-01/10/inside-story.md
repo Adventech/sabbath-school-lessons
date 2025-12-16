@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 07/03/2026
+date: 06/03/2026
 ---
 
 ### Risiko: Gefängnis oder Tod

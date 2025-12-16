@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 21/03/2026
+date: 20/03/2026
 ---
 
 ### „Nichts geschieht zufällig.“

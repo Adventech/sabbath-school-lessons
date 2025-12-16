@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 17/01/2026
+date: 16/01/2026
 ---
 
 ### Pfauen zur Rettung!

@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 21/02/2026
+date: 20/02/2026
 ---
 
 ### Zwei Arbeitsstellen wegen des Glaubens verloren

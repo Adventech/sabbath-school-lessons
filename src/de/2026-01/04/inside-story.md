@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 24/01/2026
+date: 23/01/2026
 ---
 
 ### 20 Schilling für Gott

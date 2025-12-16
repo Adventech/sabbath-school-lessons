@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 07/02/2026
+date: 06/02/2026
 ---
 
 ### Unerwarteter Gottesdienstbesuch

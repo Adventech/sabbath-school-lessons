@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 14/02/2026
+date: 13/02/2026
 ---
 
 ### Ein reicher Adventist werden

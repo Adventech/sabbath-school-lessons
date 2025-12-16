@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 14/03/2026
+date: 13/03/2026
 ---
 
 ### Das Ultimatum

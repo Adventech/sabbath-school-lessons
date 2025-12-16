@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 28/03/2026
+date: 27/03/2026
 ---
 
 ### Eine gestohlene Bibel führt zu einer Gemeindegründung

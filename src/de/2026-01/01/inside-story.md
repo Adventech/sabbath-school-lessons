@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 03/01/2026
+date: 02/01/2026
 ---
 
 ### Investition in die Sabbatschulgaben

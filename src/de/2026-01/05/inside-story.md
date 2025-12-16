@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 31/01/2026
+date: 30/01/2026
 ---
 
 ### Keine teuflischen Fesseln
