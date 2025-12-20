@@ -26,6 +26,8 @@ date:   19/12/2025
     -   In welchen Situationen des Lebens sind wir vielleicht geneigt,
         Gott zu verleugnen (z.B. im Freundeskreis, im Kreis von
         Arbeitskollegen, etc.)?
+    -   WIe kann Treue zum festen Bestandteil von unserem Charakter
+        werden? Vgl. **Gal. 5,22**
 
 **Josua 23,1-5; 2. Korinther 10,3-5; Epheser 6,11-18**
 
@@ -123,7 +125,7 @@ date:   19/12/2025
     -   Worauf begründen sich diese Aufforderungen? (Vers 8, lies auch
         Verse 9 und 10)
     -   Was bedeutet der Ausdruck "sich anhängen" im biblischen Kontext
-        (vgl. 1 Mose 2,24)? Was sagt es über die Art der Beziehung zur
+        (vgl. 1 Mose 2,24)? Was sagt es über die Art der Beziehung zu
         Gott, zu der Josua das Volk aufruft?
     -   Vers 11 (ELB): "So achtet um eures Lebens willen genau darauf,
         den HERRN, euren Gott, zu lieben!" Was bedeutet dieser Aufruf im
