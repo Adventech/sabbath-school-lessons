@@ -1,2 +1,11 @@
 ---
-  audio: []
+  audio:
+    - artist: Escuela Sabática en Audio
+      target: daily
+      tracks:
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/10/LECCION-1-SABADO.mp3
+          target: es/2026-01/01/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/10/LECCION-1-DOMINGO.mp3
+          target: es/2026-01/01/02
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2025/10/LECCION-1-LUNES.mp3
+          target: es/2026-01/01/03
