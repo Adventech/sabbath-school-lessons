@@ -1,0 +1,19 @@
+### Sameining himins og jarðar
+
+Hugsaðu um erfiðasta verkið sem þú hefur gert. Hvað gerði það svo erfitt? Voru það væntingar eða tímatakmörk, eða hvort tveggja? Var það afstaða þín til verksins eða e.t.v. fólkið sem þú áttir að vinna með? Eða kannski virtust engar líkur á að það tækist?
+
+Hugleiddu tilganginn með frelsunaráforminu: Að sameina himin og jörð. Hvernig hljómar það? Mannlega talað er það vissulega ógerlegt. Samt sem áður fól Jesús postulunum verkefni sem virtist vera ómögulegt rétt áður en hann fór til himins: „Farið því og gerið allar þjóðir að lærisveinum, skírið þá í nafni föður og sonar og Heilags anda og kennið þeim að halda allt það sem ég hef boðið yður“ (Matt 28. 19, 20).
+
+Jesús sendi Pál til heiðingjanna til að framkvæma ætlunarverk sem virtist vera ómögulegt: „Þú átt að opna augu þeirra og snúa þeim frá myrkri til ljóss, frá valdi Satans til Guðs, til þess að þeir trúi á mig og öðlist fyrirgefningu syndanna og arf með þeim sem helgaðir eru“ (Post 26.18).
+
+Sumir kynnu að kasta upp höndum sínum ef þeim væri falin slík verkefni. En við ættum ekki að gleyma fyrirheitunum sem Jesús gaf í bæði skiptin. Við postulana sagði hann: „Sjá, ég er með yður alla daga allt til enda veraldar“ (Matt 28.20). Og við Pál sagði Jesús: „Ég birtist þér til þess að þú þjónir mér og segir frá því að þú hefur séð mig bæði nú og síðar er ég mun birtast þér“ (Post 26.16).
+
+Í stuttu máli þá felur Jesús manninum verkefni sem eru manninum ofviða svo að við getum reitt okkur á hann fremur en okkur sjálf til að inna þau af hendi. Hann felur okkur aldrei verk að vinna án þess að sjá okkur fyrir mætti til að framkvæma þau. „Þegar maðurinn samstarfar með vilja Guðs verður hann almáttugur. Við getum gert allt í mætti hans ef við gerum það samkvæmt fyrirmælum hans. Öll fyrirmæli hans eru aflvakar“ (COL, bls. 333).
+
+Það er eftirtektarvert að þegar Páll ritaði Kólossubréfið hafði fagnaðarerindið verið boðað „öllu sem skapað er í heiminum“ (Kól 1.23). Auðvitað höfðu ekki allir tekið við því. En ef við lítum á fyrirmæli Jesú til lærisveinanna (Matt 28.18-20), og Páls postula sjáum við að Jesús lofaði því aldrei að allir myndu verða lærisveinar og iðrast synda sinna. „Fagnaðarerindið um ríkið verður prédikað um alla heimsbyggðina til þess að allar þjóðir fái að heyra það. Og þá mun endirinn koma“ (Matt 24.14). Hvernig lítur sá vitnisburður út? Hvernig mun það gerast?
+
+Þenna ársfjórðung munum við rannsaka bréf Páls til Filippí- og Kólossumanna. Þau hafa mikilvægar hliðstæður. Fyrst og fremst opinbera þau Krist, þann einasta sem getur sameinað himin og jörð. Hann er stiginn sem Jakob sá sem náði frá jörð til himins (1Mós 28.12; sbr. Jóh 1.51). Sem mannssonur endurleysir hann okkur frá syndinni; sem Guðssonur er hann meðalgöngumaður okkar.
+
+Þegar við rannsökum þessi bréf munum við sjá báðar þessar hliðar Jesú. Við munum virða fyrir okkur sumar háleitustu yfirlýsingarnar sem finnast um guðdóm Krists og hvernig hann lagði guðdóm sinn til hliðar til að frelsa okkur. Við munum sjá hvernig fanginn Páll glímdi við vandamál eins safnaðarins sem hann hafði stofnað (í Filippí) og annars sem hann hafði aldrei heimsótt (í Kólossu). Þau tengsl sem Páll hafði stofnað til „um allan heim“ þess tíma gerðu honum kleift að bregðast við áskorunum jafnvel þegar hann var fangi í Róm. Hann vissi að hann hefði nauman tíma og hann gerði allt sem í hans valdi stóð til að draga söfnuðinn nær himninum og hver öðrum. Með því sýndi hann okkur hvernig söfnuður Guðs í dag getur sameinast himninum til að uppfylla fyrirmælin í Opb 14 sem við þekkjum sem boðskapi englanna þriggja.
+
+_Clinton Wahlen, Ph.D., er aðstoðarstjórnandi Biblíurannsóknastofnunar aðalsamtakanna. Sérgrein hans er Nýja testamentið, túlkunarfræði og saga aðventista. Hann hefur búið og unnið í Þýskalandi, Nýja Sjálandi, Rússlandi, Bretaveldi og Filippseyjum. Hann og eiginkona hans, Gína, eiga tvö uppkomin börn, tengdadóttur og tvö barnabörn._
