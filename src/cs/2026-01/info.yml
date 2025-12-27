@@ -1,0 +1,18 @@
+---
+  title: "Spojení nebe a země"
+  description: "Vzpomeň si na nejtěžší práci, jakou jsi kdy musel udělat. Co ti ji ztěžovalo? Byla to očekávání nebo málo času na práci? Byl to tvůj postoj? Nebo lidé, se kterými jsi musel spolupracovat? Nebo se ti jen zdálo, že je to nad tvé síly?"
+  human_date: "leden · únor · březen 2026"
+  start_date: "27/12/2025"
+  end_date: "27/03/2026"
+  color_primary: "#39785A"
+  color_primary_dark: "#296448"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Clinton Wahlen"
+    - name: Šéfredaktor
+      value: "Clifford R. Goldstein"
+    - name: Audio verze lekcí
+      value: "ElevenLabs"
+    - name: Dodatečné otázky k diskuzi
+      value: "Vlastimil Fürst"
