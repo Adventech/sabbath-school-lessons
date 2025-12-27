@@ -4,5 +4,6 @@
   human_date: "1ኛ ሩብ ዓመት 2026"
   start_date: "27/12/2025"
   end_date: "27/03/2026"
-  color_primary: "#7D7D7D"
-  color_primary_dark: "#333333"
+  color_primary: "#2E4161"
+  color_primary_dark: "#1E2C44"
+  splash: true
