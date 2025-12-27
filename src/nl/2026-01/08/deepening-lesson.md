@@ -15,7 +15,6 @@ Op allerlei manieren wijst Paulus op de verhevenheid van Christus. Hij laat zien
 
 De gemeente te Kolosse bestond voornamelijk uit christenen van heidense afkomst. Zij hadden te maken met dwaalleraars.
 
-
 ## Ik bestudeer
 
 Paulus gebruikt in vers 12-20 opvallend vaak afgeleide vormen van het Griekse woord pas (heel, geheel, alle, allen). Daarmee duidt hij op de reikwijdte van Christus' betekenis voor de schepping. Paulus geeft aan dat God alleen door Jezus alles op aarde en in de hemel met zichzelf wilde verzoenen (vers 19, 20). De dwaalleraars waar Paulus voor waarschuwde beweerden, dat engelen konden optreden als bemiddelaar tussen God en mensen, in plaats van dat Christus de enige was die een dergelijke bemiddelende positie innam. Het gevaar bestond dat geloof in zelfverlossing in de plaats kwam van geloof in de verlossing door Christus, een zelfverlossing via zelfvernedering en engelenverering (vgl. Kolossenzen 2:18).
@@ -44,7 +43,6 @@ In Kolossenzen 1:17 staat dat alles in Christus bestaat.
 
 `- Waar is Christus op dit moment dus onder andere mee bezig?`
 
-
 # Ik pas toe
 
 Christus is verheven boven de wereld, en daarmee ook boven de geestelijke wereld. Hij is oppermachtig, de unieke Zoon van God.
@@ -63,7 +61,8 @@ Het is goed te weten dat Christus de wereld ook in standhoudt.
 
 `- Waarom is het, wanneer we dat beseffen, toch goed Christus te vragen of Hij voor ons wil zorgen en ons wil beschermen?`
 
-
 ## Ik bid ...
+
 Heer, dank U voor alles wat U in het verleden gedaan hebt, vandaag doet en in de toekomst nog gaat doen. Help mij altijd op U te vertrouwen, niet alleen wanneer het goed gaat, maar ook bij tegenslagen, en U in mijn leven op de eerste plaats te stellen.
+
 Amen.

@@ -3,7 +3,6 @@ title: Verdieping - Alleen vertrouwen hebben in Christus
 date: 06/02/2026
 ---
 
-
 ## Filippenzen 3:1-16
 
 ## IJsbrekervraag
@@ -35,7 +34,6 @@ Paulus heeft het twee keer over het kennen van Christus (vers 8 en 10), het hebb
 
 `* Naar welke ervaringen verlangt Paulus?`
 
-
 ## Ik pas toe
 
 Als christen heb je een en ander voor op anderen.
@@ -63,7 +61,6 @@ Het is goed je te laten dopen.
 Het is goed naar je naaste om te zien en naar vermogen te helpen.
 
 `- Als je dat allemaal gedaan hebt, waarom heb je Christus dan nog nodig?`
-
 
 ## Ik bid ...
 Heer, leer mij om meer en meer op uw kracht in mijn leven te vertrouwen. Behoed mij voor overwerktheid, een vals schuldgevoel en angst niet goed genoeg te zijn. Maak van mij een blije en ontspannen christen, en leid mij naar anderen die ik de weg naar U mag wijzen.

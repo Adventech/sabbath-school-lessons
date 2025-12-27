@@ -48,7 +48,6 @@ In vers 16 somt Paulus zaken op waarvoor hij waarschuwt.
 
 `Wat kunnen we doen om te voorkomen dat geloofsmomenten zoals de sabbat, het avondmaal, erediensten en andere geestelijke bijeenkomsten betekenisloos of oppervlakkig worden?`
 
-
 Kolossenzen 2:7
 Laat u in Hem wortelen en bouw op Hem voort; houd vast aan het geloof dat u geleerd is en wees vervuld van dankbaarheid.
 

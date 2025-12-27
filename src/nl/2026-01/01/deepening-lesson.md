@@ -49,7 +49,6 @@ Let op dat de apostel hier telkens begint met iets negatiefs: we zijn slechts ee
 
 `Wat is het probleem met 'de zichtbare dingen'?`
 
-
 ## Ik pas toe
 
 `Wat kan er vandaag toe leiden dat mensen het evangelie niet op waarde schatten?`

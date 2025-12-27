@@ -47,10 +47,10 @@ Christus heeft zichzelf opgeofferd voor de mensheid door zijn plaatsvervangende 
 
 `Wat zou jij willen opofferen om op de nieuwe aarde te komen?`
 
-"Laat de Heer uw vreugde blijven. Ik zeg het unog eens: wees verheugd"
-Filippenzen 4:4
-
+"Laat de Heer uw vreugde blijven. Ik zeg het unog eens: wees verheugd" Filippenzen 4:4
 
 ## Ik bid ...
+
 Heer, leer mij goed om te gaan met de mensen om mij heen, in het besef dat het hier op aarde geen paradijs is. Wakker tegelijk in mij het verlangen naar een betere wereld aan. En dank U, dat deze wereld er ook echt gaat komen, en ik daar deel van uit mag maken.
+
 Amen.
