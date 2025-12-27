@@ -4,8 +4,8 @@
   human_date: "Ianuarie · Februarie · Martie 2026"
   start_date: "27/12/2025"
   end_date: "27/03/2026"
-  color_primary: "#C24F49"
-  color_primary_dark: "#8C302B"
+  color_primary: "#A34E70"
+  color_primary_dark: "#813151"
   splash: true
   credits:
     - name: Autor
