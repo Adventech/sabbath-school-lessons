@@ -1,2 +1,12 @@
 ---
-  video: []
+  video:
+    - artist: Adventismo Vivo
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2026-01-01.mp4
+          target: pt/2026-01/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2026-01-01.webp
+    - artist: Adventistas Lago Sul
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-01-01.mp4
+          target: pt/2026-01/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-01-01.webp
