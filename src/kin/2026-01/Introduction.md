@@ -1,0 +1,23 @@
+# Kunga Ubumwe kw'Ijuru N'Isi
+
+Tekereza ku murimo utoroshye kurusha iyindi yose wigeze ukora. Ni iki cyatumaga uwo murimo utoroha? Ese byaterwaga n'ibyo abantu babaga biteze kuri uwo murimo, cyangwa igihe uwo murimo wari kumara, cyangwa byombi? Ese yaba ari imyifatire yawe kur'icyo gikorwa? Cyangwa se wenda ni abantu mwakoranaga? Cyangwa se birashoboka ko byasaga n'aho bidashoboka ko umuntu yagira icyo ageraho?
+
+Reka turebe intego y'inama y'agakiza: kunga ubumwe kw'ijuru n'isi. Mbese, ibyo bisa nk'ibyari gushoboka? Mu buryo bwa muntu, nta gushidikanya ko bitari gushoboka. Icyakora, mbere gato y'uko Yesu azamuka akajya mu ijuru, yasigiye intumwa ze inshingano yasaga n'idashoboka. Yarazibwiye ati: «Nuko mugende muhindure abantu bo mu mahanga yose abigishwa, mubabatiza mu izina rya Data wa twese n'Umwana n'Umwuka Wera: mubigisha kwitondera ibyo nababwiye byose» (Matayo 28:19, 20).
+
+Yesu yohereje Pawulo kujya mu Banyamahanga gusohoza uwo murimo wasaga nk'aho udashoboka: "kugira ngo ubahumurire amaso, na bo bahindukire bave mu mwijima bajye mu mucyo, bave no mu butware bwa Satani bajye ku Mana, bahereko bababarirwe ibyaha byabo, baraganwe n'abejejwe no kunyizera" (Ibyakozwe n'Intumwa 26:18).
+
+Bamwe bashobora kumanika amaboko baramutse bahawe umurimo nk'uwo. Nyamara, ntidukwiriye kwirengagiza amasezerano Yesu yatanze mur'ibyo bihe byombi. Ku bigishwa, yarongeye arababwira ati, "Kandi dore ndi kumwe namwe iminsi yose, kugeza ku mperuka y'isi" (Matayo 28:20). No kuri Pawulo, Yesu yaramubwiye ati: "kuko igitumye nkubonekera, ari ukugira ngo ngutoranye nkugire umukozi wanjye n'umugabo wo guhamya ibyo ubonye n'ibyo nzakubonekerana" (Ibyakozwe n'Intumwa 26:16).
+
+Muri make, Yesu atanga inshingano zisa nk'izidashobokera abantu kugira ngo tumwishingikirizeho, aho kwiyishingikirizaho twebwe ubwacu, kugira ngo tubashe gusohoza izo nshingano. Ntajya aduha umurimo ngo abure no kuduha ubushobozi bwo kuwukora. "Iyo ubushake bw'umuntu bukoranye n'ubushake bw'Imana, bushobora byose.
+
+**"INZANDIKO ZANDIKIWE ABAFILIPI N'ABAKOLOSAYI ZIHISHURA KRISTO,WE WENYINE USHOBORA KUNGA IJURU N'ISI."**
+
+Icyo itegetse ko gikorwa cyose, gikorwa mu mbaraga zayo. Ibyo isabye byose birashoboka." - Ellen G. White, _Imigani ya Kristo_, p. 201 (2024).
+
+Igitangaje, mu gihe Pawulo yandikiraga Abakolosayi, ubutumwa bwiza bwari "bwabwirijwe mu baremwe bose bari munsi y'ijuru" (Abakolosayi 1:23). Birumvikana, siko bose babwemeye. Ariko iyo dusuzumye neza iby'inshingano [Yesu] yahaye intumwa (Matayo 28:18-20), n'iyo yahaye Pawulo, Yesu ntiyigeze asezerana ko abantu bose bazahinduka abigishwa cyangwa ko bose bazihana. Ubutumwa bwiza bugomba "kwigishwa mu isi yose, ngo bube ubuhamya bwo guhamiriza amahanga yose: ni bwo imperuka izaherako ize" (Matayo 24:14). Ubwo buhamya se bwaba buteye bute? Ni buryo ki bushobora gusohozwa uko bisabwa?
+
+Iki gihembwe tugiye kwiga inzandiko Pawulo yandikiye Abafilipi n'Abakolosayi. Zifitanye amasano akomeye. Kurenza ibindi byose, zihishura Kristo, We wenyine ushobora kunga ijuru n'isi. Ni We rwego Yakobo yabonye rurambuye ruva ku isi rukagera kw'ijuru (Itangiriro 28:12; hagereranye na Yohana 1:51). Nk'Umwana w'umuntu akaba n'Umwana w'Imana, atubatura mu cyaha, kandi akatuvuganira.
+
+Mu gihe tuzaba dusuzuma izi nzandiko, tuzabona iyo mico yombi ya Yesu. Tuzasuzuma amwe mu magambo meza cyane kurusha ayandi aboneka ahantu hose yerekeranye n'ubumana bwa Kristo n'ukuntu yatanze byose kugira ngo adukize. Tuzabona Pawulo ahanganye n'ingorane zo muri gereza arwana n'ibibazo byo mu itorero rimwe yashinze (itorero ry'i Filipi) no mu rindi we ubwe atigeze asura (Kolosayi). Amasano Pawulo yashyizeho ahantu hose mu bagize "itorero ryo ku isi hose" ryo muri icyo gihe, yatumye ashobora guhangana n'ingorane, ndetse n'igihe yari afungiye muri gereza y'i Roma. Yari azi ko igihe cye cyari kigufi, kandi yakoze ibishoboka byose kugira ngo afashe itorero kwegera ijuru no kurushaho kunga ubumwe. Mu kubigenza atyo, atugaragariza ukuntu itorero ry'Imana muri iki gihe rishobora kunga ubumwe n'ijuru kugira ngo risohoze inshingano yo mu minsi y'imperuka ivugwa mu Ibyahishuwe 14, iyo tuzi ko ari "ubutumwa bw'abamarayika batatu."
+
+_Clinton Wahlen, Ph.D., ni umuyobozi wungirije w'Ikigo cy'Ubushakashatsi kuri Bibiliya mu Nteko Nkuru Rusange. Ubumenyi bwe bwibanda ku Isezerano Rishya, Gusobanura Ibyanditswe, n'Amateka y'Abadiventisiti. Yabaye mu Budage, muri Nouvelle-Zélande, mu Burusiya, mu Bwongereza no muri Filipine. We n'umugore we Gina bafite abana babiri bakuze, umukazana n'abuzukuru babiri._
