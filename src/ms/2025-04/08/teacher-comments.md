@@ -1,0 +1,62 @@
+---
+title:  Panduan Guru
+date:   21/11/2025
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+**Ayat Kunci:** Ibrani 13:7
+
+**Tumpuan Kajian:** Bilangan. 13:30–32; Yosua. 14:6–14; Lukas 18:1–5; Yosua 19:49–51; 2 Korintus 3:18; Roma 12:1, 2
+
+Yosua dan Kaleb menjalani kehidupan yang sangat mencabar. Pada usia muda, mereka hidup sebagai hamba di Mesir. Ketika mereka memasuki usia dewasa, mereka menyaksikan perbuatan-perbuatan dahsyat dari Tuhan dalam peristiwa Keluaran. Ketika usia pertengahan, mereka mengembara di padang belantara bersama generasi yang dihukum, iaitu generasi yang pernah cuba membunuh mereka kerana mempertahankan iman dan menentang ketidakpercayaan. Akhirnya, pada usia tua, mereka menyeberangi Sungai Yordan untuk memiliki tanah perjanjian. Kehidupan mereka merangkumi peristiwa-peristiwa yang tercatat dalam keseluruhan Pentateukh, kecuali Kitab Kejadian. Semua pengalaman ini membentuk watak dua hamba Tuhan yang luar biasa ini. Mereka pernah melalui kehidupan dalam perhambaan dan pembebasan, kekecewaan dan pengharapan, penangguhan dan penggenapan.
+
+Sepanjang minggu ini, kita berpeluang untuk merenungkan kejayaan rohani Yosua dan Kaleb. Terdapat dua detik penting yang menandakan iman dan komitmen mereka. Yang pertama berlaku ketika kepulangan dua belas pengintai, di mana Yosua dan Kaleb cuba menguatkan hati generasi pertama bangsa Israel agar maju ke hadapan dan memiliki tanah itu, walaupun terdapat ancaman daripada orang Kanaan (Bil. 13:30–33; Bil. 14:5–10). Empat puluh tahun kemudian, dalam peristiwa kedua, Yosua dan Kaleb memilih tanah untuk menjadi milik pusaka mereka. Pilihan mereka yang luar biasa (Yos. 14:6–15) menunjukkan mengapa mereka digambarkan dalam Alkitab sebagai contoh iman, keberanian, kesetiaan, dan ketabahan. Warisan mereka kekal hingga hari ini, dan boleh memberi inspirasi kepada generasi masa kini untuk mempercayai Tuhan Ketika berada di dalam situasi yang paling mencabar.
+
+### Bahagian II: Ulasan
+
+**Perspektif Pada Iman (Bil. 13:25–14:10)**
+
+Dalam Bilangan 13:25–14:10, kesemua 12 pengintai sepakat tentang fakta yang mereka laporkan. Tanah itu sangat subur. Buah-buahan yang mereka bawa pulang membuktikan bahawa negeri itu “mengalirkan susu dan madu”, satu frasa lazim di Timur Dekat purba yang menggambarkan kelimpahan makanan (lihat Bil. 13:27). Ungkapan ini bukanlah kebetulan, kerana ia juga muncul dalam firman Tuhan kepada Musa dan umat Israel tentang Kanaan (Kel. 3:8; Im. 20:24). Sesungguhnya, negeri itu luar biasa. Kata-kata Tuhan itu benar. Mereka semua juga sependapat bahawa bangsa Kanaan memiliki kekuatan ketenteraan dan tinggal di kota-kota besar yang berkubu (Bil. 13:28). Sehingga pada tahap ini, Yosua dan Kaleb masih diam, kerana mereka tidak dapat menafikan apa yang telah mereka lihat.
+
+Perselisihan bermula dalam tafsiran terhadap fakta-fakta tersebut. Kebanyakan pengintai menyimpulkan: “Kita tidak dapat menyerang bangsa itu, kerana mereka lebih kuat daripada kita... Negeri yang kami jelajahi untuk diintai itu ialah negeri yang memakan penduduknya. Semua orang yang kami lihat di situ tinggi-tinggi belaka... Di mata kami sendiri diri kami seperti belalang sahaja dan begitu jugalah di mata mereka.” (Bil. 13:31–33, AVB). Dalam penilaian pesimis ini, sepuluh pengintai turut memesongkan fakta dengan mengatakan bahawa negeri itu “memakan penduduknya.” Dengan ini, mereka bercanggah dengan diri mereka sendiri dan dengan realiti bahawa negeri itu sebenarnya sedang memuntahkan bangsa-bangsa asing (Im. 18:26–29), bukan memakannya. Sebaliknya, tafsiran oleh pihak minoriti—Kaleb dan Yosua—sama sekali berbeza.
+
+Ellen G. White menggambarkan kesan laporan sepuluh pengintai ke atas umat dengan kata-kata: “Ketidakpercayaan mereka telah menyelubungi umat dengan bayangan yang suram dan kuasa Tuhan yang perkasa, yang sering dinyatakan demi bangsa pilihan itu, dilupakan. Umat itu tidak menunggu untuk memperhatikan; mereka tidak mempertimbangkan bahawa Tuhan yang telah membawa mereka sejauh itu pasti akan memberikan tanah itu kepada mereka; mereka tidak mengingati betapa hebatnya Tuhan telah membebaskan mereka daripada penindas mereka, membuka jalan di tengah laut dan membinasakan tentera Firaun yang sedang mengejar mereka. Mereka mengeluarkan Tuhan dari pertimbangan mereka, dan bertindak seolah-olah mereka hanya bergantung kepada kekuatan tentera mereka sendiri.” — Patriarchs and Prophets, ms. 388.
+
+Berbeza dengan ketakutan dan ketidakpercayaan oleh sepuluh pengintai itu, Kaleb menegaskan: “Kita harus maju dan menduduki negeri itu, kerana kita pasti dapat mengalahkannya” (Bil. 13:30, AVB). Seiring dengan seruan positif ini, Yosua, dengan mengoyakkan pakaiannya dalam kesedihan, mengesahkan kembali bahawa mereka tidak perlu takut jika Tuhan menyebelahi mereka (Bil. 14:8–10). Bertentangan langsung dengan laporan yang tidak beriman mengenai negeri itu, Yosua menyatakan bahawa penduduk negeri itu akan menjadi makanan bagi orang Israel, bukan sebaliknya (Bil. 14:9).
+
+**Pilihan yang Betul**
+
+Jika kehidupan terdiri daripada pilihan, maka pilihan juga mencerminkan watak dan menentukan masa depan serta warisan kita. Di penghujung hidup Yosua dan Kaleb, mereka membuat keputusan yang luar biasa mengenai tempat persaraan mereka. Pilihan ini menunjukkan bahawa masa tidak mengubah komitmen mereka sepenuhnya kepada rancangan Tuhan dan bahawa mereka hidup untuk memuliakan Tuhan, bukan diri mereka sendiri.
+
+**Gunung Hebron**
+
+Kaleb meminta kebenaran daripada Yosua untuk mewarisi Gunung Hebron (Yos. 14:12a). Tetapi mengapa Hebron? Benar, tempat itu mempunyai kepentingan sejarah. Hebron juga dikenali sebagai Kiryat-Arba dan merupakan salah satu kawasan yang paling lama didiami yang disebut dalam Alkitab (Kej. 23:1, 2). Tambahan pula, Abraham sendiri pernah tinggal di sana dan dikebumikan bersama Ishak di kawasan itu (Kej. 25:9, 10; Kej. 35:27–29). Namun, ini bukan sebab utama mengapa Kaleb memilih tempat itu. Memandangkan Kaleb berumur 85 tahun, dia mungkin mencari tempat yang mudah diakses. Tetapi akses juga bukanlah sebabnya, kerana dia meminta sebuah gunung! Tiada petunjuk dalam teks yang menyatakan bahawa Gunung Hebron merupakan tempat persaraan yang ideal, dengan peluang pertanian yang baik, infrastruktur yang cemerlang, atau keselamatan yang memadai.
+
+Kaleb sendiri dengan jelas menyatakan sebab pilihannya: “sebab engkau sendiri mendengar pada waktu itu, bahwa di sana ada orang Enak dengan kota-kota yang besar dan berkubu. Mungkin TUHAN menyertai aku, sehingga aku menghalau mereka, seperti yang difirmankan TUHAN” (Yos. 14:12, ITB). Dia menginginkan tempat perlindungan orang raksasa itu! Salah satu orang Enak yang terkenal ialah Goliat dari Gat, satu-satunya tempat di negeri itu di mana keturunan ini masih wujud (Yos. 11:22). Goliat mempunyai ketinggian sekitar 9.5 kaki (2.9 meter). Kaleb mahu menakluk salah satu kawasan yang paling mencabar di negeri itu. Tetapi mengapa Kaleb, pada usia 85 tahun, ingin menawan tempat seperti itu? Hidup bertahun-tahun lamanya sejak peristiwa di Kadesh-Barnea tidak menghapuskan imannya atau cara dia melihat kenyataan dari sudut pandang iman. Kemungkinan besar, permintaannya mempunyai tiga tujuan: untuk mengilhamkan iman dalam generasi yang baru, membuktikan bahawa generasinya terdahulu telah silap, dan meninggikan nama Tuhan. Seorang tua yang percaya kepada kuasa Tuhan boleh menewaskan apa yang pernah menakutkan seluruh bangsa.
+
+**Warisan Yosua**
+
+Begitu juga, pilihan Yosua tidak didorong oleh kepentingan peribadi. Kedua-dua Yosua dan Kaleb memperlihatkan inti sebenar kepimpinan: melayani orang lain dan bukan diri sendiri. Walaupun tidak banyak yang dicatatkan tentang Kaleb, perjalanan Yosua—dari menjadi pembantu Musa (Yos. 1:1) kepada menjadi hamba Yahweh (Yos. 24:29)—adalah cukup jelas. Namun, bagaimanakah Yosua membentuk wataknya sebagai seorang pemimpin?
+
+Pertama, Yosua belajar di bawah bayangan seorang pemimpin agung. Sepanjang kemunculan Yosua dalam Pentateukh, dia berada di bawah autoriti Musa. Contohnya, dalam Keluaran 17:8–13, kemenangan Yosua di medan perang bergantung pada Musa yang mengangkat tongkatnya tinggi-tinggi. Dalam Keluaran 32:17, 18, Yosua dilihat mengikuti Musa ke puncak gunung. Sebagai tanda jelas autoriti Musa ke atas Yosua, Musa mengubah namanya (Bil. 13:16). Masih sangat muda (naar), Ketika Yosua dipilih untuk mengikuti Musa (Kel. 33:11), dan sepanjang kehidupannya sebagai orang dewasa, dia sangat rapat dengan Musa.
+
+Kedua, walaupun pada awalnya sia kurang berpengalaman, namun dia dipilih oleh Tuhan kerana dia seorang yang bersikap rohaniah (Bil. 27:18). Akibatnya, kehidupannya tidak dipacu oleh cita-cita duniawi untuk membesarkan nama sendiri atau kepuasan peribadi. Melihat dari sudut pandang rohani, Yosua hidup demi kemuliaan Tuhan, mengutamakan perkara yang benar-benar penting. Akhirnya, Yosua juga belajar daripada kesilapannya sendiri. Selepas kematian Musa, Yosua masih dalam proses pembelajaran sebagai seorang pemimpin. Hal ini dapat dilihat dalam peristiwa di Ai (Yosua 7) dan peristiwa dengan orang Gibeon (Yosua 9). Hakikatnya, kepimpinan ialah satu perjalanan sepanjang hayat yang memerlukan latihan, pertumbuhan, dan transformasi.
+
+Kehidupan dua tokoh rohani besar ini, Yosua dan Kaleb, mengajar kita sekurang-kurangnya lima pelajaran penting. Pertama, fakta kehidupan kurang penting berbanding cara kita melihatnya. Dalam dunia yang telah jatuh dalam dosa, fakta sering kali menyakitkan, tetapi wahyu ilahi memberikan ‘kaca mata’ yang betul untuk melihatnya dalam perspektif sebenar dan sementara. Kedua, iman tidak mengabaikan fakta; ia hanya menawarkan sudut pemahaman yang berbeza. Ketiga, daripada mengeluh, kita dipanggil untuk percaya dan tunduk kepada rancangan Tuhan yang sentiasa lebih baik daripada rancangan kita. Keempat, berkat diberikan kepada mereka yang sepenuhnya tinggal di dalam Tuhan. Dalam hal kerohanian, ramai orang kehilangan iman mereka seiring masa, kerana kehilangan "kasih yang mula-mula" (Wahyu 2:4). Namun, kehilangan kasih dan iman itu tidak berlaku dalam hidup Yosua dan Kaleb, yang tetap setia dan komited kepada rancangan Tuhan sepanjang hidup mereka. Akhir sekali, kehidupan dalam semua dimensinya harus dijalani mengikut rancangan Tuhan, bukan digerakkan oleh ketamakan dan cita-cita diri yang mementingkan diri. Kehidupan Yosua dan Kaleb adalah contoh nyata kepada kata-kata Paulus dalam 1 Korintus 10:31: “Setiap yang kamu lakukan, baik makan mahupun minum, lakukanlah untuk memuliakan TUHAN.” (AVB).
+
+### Bahagian III: Penerapan Hidup
+
+**Apakah Perspektif Anda?**
+
+Apabila seseorang berpeluang menaiki kapal terbang atau mendaki gunung yang tinggi untuk melihat sebuah bandar dari atas, mereka akan menyedari betapa kecilnya bangunan-bangunan itu kelihatan dari jarak jauh. Namun, apabila mereka berjalan di kota yang sama, mereka pula terasa begitu kecil berbanding bangunan yang besar itu. Apakah yang telah berubah? Hanya perspektif—sudut pandangan daripada mana mereka melihat sesuatu.
+
+Apabila kita berhadapan dengan cabaran hidup, kita boleh melihatnya dari sudut keraguan atau dari sudut iman. Seperti yang pernah dikatakan oleh seseorang: “Keraguan melihat halangan. Iman melihat jalan! Keraguan melihat malam yang gelap, Iman melihat siang! Keraguan takut melangkah. Iman terbang tinggi! Keraguan bertanya, ‘Siapa yang percaya?’ Iman menjawab, ‘Saya!’” —Paul Lee Tan, Encyclopedia of 7700 Illustrations (Garland, TX: Bible Communications, 1996), ms. 404.
+
+Pertimbangkan kisah-kisah berikut dan renungkan peranan keraguan dan iman di dalamnya:
+
+1. Pada usia 100 tahun, Abraham mempercayai janji Tuhan tentang keturunan yang ramai (Kej. 15:1–6; Kej. 17:1–7; Kej. 21:1–7).
+2. Elisa berdoa agar mata hambanya dibuka untuk melihat tentera Tuhan di sekeliling mereka (2 Raja-raja 6:17).
+3. Yesus menerangkan kepada murid-murid-Nya bahawa melalui orang buta itu, pekerjaan Tuhan akan dinyatakan (Yoh. 9:1–7).
+4. Paulus, sebagai seorang tahanan, merayu kepada Raja Agripa dan mahkamahnya agar menjadi seperti dirinya (Kis. 26:28, 29).
+5. Renungkan juga realiti kehidupan anda sendiri yang penuh kesakitan dan cabaran. Bagaimanakah dengan melihat semua perkara ini dari perspektif iman dapat memberikan anda semangat dan keteguhan untuk menghadapinya?

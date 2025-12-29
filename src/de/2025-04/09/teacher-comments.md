@@ -56,13 +56,13 @@ Im biblischen Kontext sind Land und Hoffnung untrennbar miteinander verbunden. D
 
 `1. Was sagt euch persönlich das Bild der „auf Hoffnung Gefangenen“?`
 
-`2. Welche Parallelen seht ihr zwischen der Erfahrung der Exilanten in  Babylon und eurem geistlichen Erleben, insbesondere im Kontext der bevorstehenden Wiederkunft Jesu?`
+`2. Welche Parallelen seht ihr zwischen der Erfahrung der Exilanten in Babylon und eurem geistlichen Erleben, insbesondere im Kontext der bevorstehenden Wiederkunft Jesu?`
 
 **Hoffnung, Liebe und Glaube**
 
 Augustinus von Hippo sagte: „Es gibt keine Liebe ohne Hoffnung, keine Hoffnung ohne Liebe und weder Liebe noch Hoffnung ohne Glauben“ (Augustine of Hippo, The Enchiridion, On Faith, Hope, and Love, Washington, D.C. 1996, S. 9). Diese drei Elemente erscheinen auch gemeinsam in dem Lied von Benjamin Gaither, Jeff Silvey und Kim Williams.
 
-„Ich bin ein Gefangener der Hoffnung,  gebunden durch meinen Glauben,  gekettet an deine Liebe, eingeschlossen in Gnade, ich bin frei zu gehen, aber ich werde es nie tun,  ich bin wunderbar, bereitwillig,  gern ein Gefangener der Hoffnung“  (The Gaither Vocal Band, „Prisoner of Hope‘, 2008).
+„Ich bin ein Gefangener der Hoffnung, gebunden durch meinen Glauben, gekettet an deine Liebe, eingeschlossen in Gnade, ich bin frei zu gehen, aber ich werde es nie tun, ich bin wunderbar, bereitwillig, gern ein Gefangener der Hoffnung“ (The Gaither Vocal Band, „Prisoner of Hope‘, 2008).
 
 `Auf welche Weise seht ihr auf eurer Glaubensreise die Beziehung zwischen Hoffnung, Liebe und Glauben?`
 

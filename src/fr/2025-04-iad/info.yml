@@ -1,0 +1,20 @@
+---
+  title: "Leçons de foi tirées du livre de Josué"
+  description: "Le livre de Josué marque une transition entre le leadership de Moïse et celui de Josué. Il s’ouvre sur le récit d’Israël entrant en Terre promise et se conclut par le peuple installé dans ce pays."
+  human_date: "Octobre · Novembre · Décembre 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#0E3630"
+  color_primary_dark: "#021B17"
+  splash: true
+  credits:
+    - name: Auteur
+      value: "Barna Magyarosi"
+    - name: Rédacteur en chef
+      value: "Clifford R. Goldstein"
+    - name: Rédactrice adjointe IADPA
+      value: "Dina Albicy"
+    - name: Traduction
+      value: "Fay Sainte-Rose, Ana Aurouze"
+    - name: Responsable de publication
+      value: "Lea Alexander Greve"

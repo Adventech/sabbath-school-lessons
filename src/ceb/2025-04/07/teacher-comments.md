@@ -1,0 +1,65 @@
+---
+title:  Komento sa Magtutudlo
+date:  14/11/2025
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto:** Mateo 6:33
+
+**Tutokan sa Pagtuon:** Josue 5:1–7; Exodo 12:6; 1 Corinto 5:7;Josue 8:30–35; Deuteronomio 8:11, 14; Hebreohanon 9:11, 12
+
+Human sa 40 katuig nga paglatagaw latas sa kamingawan, nakaabut ra gayod ang Israel sa Yutang Saad. Sa pagkasiguro, usa kadto ka makapahinam nga panahon samtang ilang gitabok ang Suba sa Jordan ug nagtan-aw sa nagkatuman nga saad sa tinuud nga kinabuhi. Apan, didto sila sa teritoryo sa kaaway gikan karon, ug dagkung mga hagit ang nagpaabut sa unahan niini nga dapit sa panggubatan—halayo ra kaayo sa ilang katakus sa kaugalingong pagbuntog. Busa, panahon na sa pagpangandam. Sa baylo nga magtutok sa mga hinagiban, mga istratehiya, ug sa mga tawo, ilang gikinahanglan ang pagandam sa ilang mga kasingkasing pinaagi sa mga seremonya nga makapahait sa ilang espirituhanong pagpanabut ug pagsukod sa ilang pagkamaunongon ngadto sa Ginoo. Samtang naguswag ang pagpakigaway, kini nga mga tulomanon sa pagbag-o sa tugon gihimo na usab ingon nga nagpadayon nga pahinumdum sa ilang pagkinahanglan sa espirituhanong pagkaandam.
+
+Niini nga semana, atong sublion ang importante nga mga panghitabo panahon sa pagkigaway sa pagdumala ni Jouse sa mga Israelita sa pagtugyan pagusab sa ilang mga kaugalingon ngadto sa Ginoo. Kini nga mga kalihokan nasentro sa mga tulomanon, nga maoy usa ka gamhanang paagi sa pagpasabut sa mga tradisyon ug mithi, paghimo og kahulogan, ug pagpahayag sa mga pagbati. Sa biblikal nga tulomanon, lain nga mahinungdanon kaayo nga bahin mao ang tagna, nga nagtudlo ngadto kang Cristo ug sa mga katinuuran nga nadala pinaagi Kaniya. Sa ubus, atong paladman ang atong pagtagad sa mga tulomanon sa pagtuli ug sa Pasko, nga gibuhat sa Israel human dayon sa ilang pagtabok sa Suba sa Jordan, ug ang pagtukod sa mga halaran diha sa kahulogan sa pagbag-o sa kasabutan diha sa libro ni Josue. Samtang atong sublion kini nga mga seremonya, kita magpamalandong sa ilang kahulogan sa kanhi nga panahon ug ang ilang kalabutan ngadto sa mga nagkinabuhi sa ngilit sa langitnong Canaan.
+
+### Bahin II: Komentaryo
+
+**Ang Gahum sa mga Ritwal**
+
+Ang mga ritwal nagsilbi nga usa ka makahuloganon nga kalabutan sa pagtimaan sa importante nga mga panghitabo sa kinabuhi, bisan sa moderno nga mga panahon. Presente sila sa tibuuk kinabuhi sa usa ka tawo, naglakip sa pamilya, tulunghaan, trabaho, ug sa relihiyoso nga mga kahulogan. Dili kini usa ka sulagma nga gigamit sa Dios ang gahum sa mga ritwal sa pagpasabut sa kinahanglanon nga mga bahin sa Iyang plano ngadto sa katawhan. Kini nga mga tulomanon sa Daang Tugon, nga sa kanunay maglakip og dugo, singot, ug mga luha, nagkulit sa walay katapusan nga mga kamatuuran diha sa mga hunahuna sa katawhan bahin sa kinaiya sa Dios, sa tawhanong pagkadunot, ug sa balaan nga plano sa pagdugtong sa paw-ang nga nahimo sa sala.
+
+**Pagtuli**
+
+Diha sa konteksto sa Josue, ang ritwal sa pagtuli nagsilbi ingon nga usa ka pahinumdum ngadto sa Israel ingon nga tinuud nga pagpaila diha sa sulud sa komunidad sa kasabutan. Ang pagkuha sa panit sa tumoy sa kinatawo sa lalaki nagtudlo sa mahulagwayong paagi sa pagkuha karaan nga kahimtang sa Israel ingon nga mga ulipon ni Faraon (“ang kaulawan sa Ehipto”). Karon, sila adunay kapilian sa pagalagad kang Yahweh, nga nagtawag kanila ngadto sa tibuuk nga pagtugyan. Ang pagtuli sa lalaki, nga naglambigit sa pagkuha sa yamis, gibatasan sukad sa pista sa ikatulo nga milenyo sa nagkalainlaing mga katilingban. Niini nga mga katilingban, ang mao nga tulomanon magtimaan sa usa ka importante nga pagkausab, sama sa usa ka sinugdanan sa pagkahamtong o pagkaminyo, nga walay relihiyoso nga kahulogan. Apan, sa kasabutan sa Dios kang Abraham, ang pagtuli gihimo nga usa ka timaan sa pagtugyan ug pagpaila. Bisan ang dili mga Israelita makapatuli sa pagpaila sa ilang bag-o nga estado ingon nga kabahin sa binhi ni Abraham (Genesis 34:15–24, Exodo 12:48).
+
+Sumala sa pagtan-aw sa Bag-ong Tugon, ang pagtuli maoy usa ka timaan sa pagbulag sa pagkadugtong ngadto sa Judio nga pagkatawo nga dili na tumanon alang sa mga Cristohanon sa bag-o nga paglalang nga giinugurahan ni Jesus (Galacia 6:15, Colosas 2:11–13, Buhat 15). Apan, ang panawagan ni Pablo sa pagtuli sa kasingkasing dili usa ka Cristohanong mugna. Diha na daan sa orihinal nga kahulogan, ang pisikal nga timaan sa pagtuli kinahanglan usa lang ka panggawas nga pagpaila sa usa ka kahimtang sa sulud. (Deuteronomio 30:6). Kini nga pagpasabut gisubli usab sa mga manalagna, sama ni Jeremias, nga naghangyo sa mga namuyo sa Jerusalem: “Magpacircuncidar kamo sa inyong kaugalingon kang Jehova, ug kuhaa ang mga habolhabol sa inyong kasingkasing” (Jeremias 4:4; itandi sa Jeremias 9:25, 26). Busa, gilantaw na sa Daang Tugon ang sanglitanan, ug sa maayong pamatasan, nga bahin sa ritwal. Kon mabulag gikan sa husto nga pagtagad, ang ideya nga ang “kay dili maoy may bili ang pagkamay sirkunsisyon” (1 Corinto 7:19), tinuud na sa Daang Tugon.
+
+Karon, ang mga Adbentista, maingon man sa ubang mga Cristohanon, “nakasabut sa bautismo ingon nga usa ka simbolo sa (paghulagway) pagaambit sa kamatayon, paglubong, ug pagkabanhaw ni Cristo ug usa usab kini ka simbolo sa pagkasakup ngadto sa katawhan sa Dios sa Bag-ong Kasabutan baylo sa sirkunsisyon (Colosas 2:11–12).”—John C. Peckham , God With Us: An Introduction to Adventist Theology (Berrien Springs, MI: Andrews University Press; Biblical Research Institute, 2023), pp. 595, 596. Apan, makapangutana ang usa ka tawo sa katarungan alang sa kausaban. Ang batasan sa pagtuli suud nga nadugtong ngadto sa gisaad nga Mesias, nga magpakita gikan sa Binhi ni
+
+Abraham. Ang timaan nga gibutang diha sa kinatawo ni Abraham kinahanglan magpahinumdum kaniya ug sa iyang mga kaliwatan nga ang buhat sa Dios independente sa ilang kusog sa pagkalalaki. Sa panahon nga si Jesus—ang Binhi sa babaye ug ang Binhi ni Abraham—moabut, ang pisikal nga timaan wala na kinahanglana ug gipulihan pinaagi sa bautismo. Bisan ug ang mga kalainan anaa usab tali sa kahulogan sa duha ka mga tulomanon, ang mga elemento sa simbolo sa pagtuli adunay kalabutan gihapon ngadto sa katawhan sa Dios karon.
+
+**Passover**
+
+Ang tulomanon sa Passover o Pasko gimugna sa gabii sa pagbiya sa Israel sa Ehipto. Ang dugo sa nati nga karnero, nga patyon sa dili pa mosalop ang adlaw, gigamit sa pagtimaan sa mga haligi sa pultahan sa mga Israelita, sa pagsanta sa kamatayon sa kamagulangan (Exodo 12:12, 13). Busa ang Pasko nadugtong ngadto sa kasaysayan sa pagpahigawas sa Israel gikan sa pagkaulipon. Nadugtong usab kini ngadto sa pagsaulog sa agrikultura sa pagtimaan sa pagsugod sa panahon sa ting-ani diin ang katawhan magdala sa nahauna nga mga bunga ngadto sa santuwaryo (Exodo 34:18–27). Ang Pasko dili lang usa ka pagsaulog sa ordinaryo nga kinabuhi, kondili usa ka selebrasyon sa bag-ong kinabuhi nga kinabuhian sa kadagaya ug libre ngadto sa Ginoo. Sa kasingkasing sa ritwal mao ang paghalad sa Nati nga karnero.
+
+Kini nga halad maoy buhat nga simbolo sa duha ka mga kahulogan. Nahauna, nagsimbolo kadto sa pagkaluwas sa mga kamagulangan. Ang nati nga karnero gipatay sa baylo nga ang Israelita nga kamagulangan, nagsilbi ingon nga usa ka halad nga kapuli. Ikaduha, ang tibuuk nga tulomanon nagsilbi ingon nga paghinumdum sa kasinatian sa Exodo, sa panahon nga gipahigawas sila gikan sa pagkaulipon. Ang matag usa ka detalye sa maong seremonya ngadto sa dinalian nga pangandam sa pagbiya: ang unod gisugba imbis nga lat-an, ang mga dahon sa tanum maoy kaonon imbis mga utanon (Exodo 12:8–10), ang mga sinina gisul-ob na andam sa paggikan sa bisan unsa nga gutlo, ug kan-on sa dinalian ang unod (Exodo 12:11). Busa, alang sa ordinaryo nga mga partisipante, ang una nga Pasko maoy usa ka pamatuud sa pagtoo sa milagroso nga pagpahigawas sa duul na nga buhaton sa Dios niadtong gabhiona.
+
+Gimugna ni Jesus ang Katapusang Panihapon panahon sa Iyang katapusang Pasko dinhi sa yuta. Ang Panihapon sa Ginoo maoy nagpuli sa Pasko human sa Iyang pagkamatay. Tungud niana, ang tulomanon sa Panihapon sa Ginoo adunay duha usab ka bahin, ang temporal nga dimensiyon. Samtang nagtawag kini sa atong pagtagad ngadto sa nabuhat sa Dios alang kanato kaniadto, nagtudlo kini kon unsa ang buhaton sa Dios sa umalabot. Diha sa Josue 5, ang katawhan sa Dios diha niini nga sama nga temporal nga kahimtang, tali sa milabay na ug sa umalabot, tali sa pagpahigawas ug sa kapahulayan.
+
+**Mga Halaran**
+
+Ang halaran maoy usa ka mahinungdanon kaayo nga bahin sa sistema sa tulomanon sa Daang Tugon, ug adunay mahinungdanong kalabutan sa kinabuhi sa pagsimba sa kapanahonan sa mga patriarka. Bisan og ang una nga paghisgot sa halaran makita lamang diha sa Genesis 8:20, ang una nga halad maoy nagpasabut sa pagtagana og sinina nga panit alang kang Adan ug Eva (Genesis 3:21). Sama sa pagtuli, ang halad maoy usa ka nabatasan dili lang ngadto sa Israel. Sa pagkatinuud, ang halad maoy sulondan sa rilihiyon sa karaang kalibutan. Apan, sa Israel, ang halad walay tumong sa pagpakaon, pagpahimuut, o pagpahupay sa nasuko nga dios; kondili, gitan-aw kini ingon nga maloloy-on nga paghatag sa Dios ngadto sa tawo aron pagpasaylo sa sala ug pagdala sa Iyang linalang balik ngadto Kaniya.
+
+Kuyog sa pagpasaylo nga aspeto sa mga halad, ang halaran adunay importante nga kalabutan sa relihiyoso nga kasinatian sa katawhan sa Dios kaniadto. Ingon nga buhat sa pagsimba, ang mga halaran gitukod sa pagtimaan sa bag-o nga mga sinugdanan (Genesis 8:20), ug mga dapit sa relihiyoso nga panaw (Genesis 12:7, Genesis 13:18). Gigamit usab sila alang sa pagampo sa pagpataliwala (Job 1:5) ug paghatag og pasalamat (Salmo 26:6, 7). Dugang pa niana, ang mga halaran mahimo nga mga handumonon sa maloloy-ong mga buhat sa Dios. Diha sa Josue, bisan ang usa ka halaran nga walay halad mahimo nga usa ka handumanan sa relihiyoso nga pagpaila sa mga tribo saylo sa Suba sa Jordan (Josue 22:26–28). Diha sa Josue 8, ang halaran nga gitukod didto sa Bukid sa Ebal nagpamatuud sa tugon, pagbag-o sa pagtugyan sa katawhan ngadto sa Ginoo. Ang tanan niini nga mga aspeto nga makaplagan sa naandan nga buhaton sa patriarka palibut sa halaran nadugtong ngadto sa serbisyo sa templo, diin moadto ang mga Israelita aron magsimba, magampo, maghimo og mga panaad, paghinumdum sa maloloy-ong mga buhat sa Dios, magsugid sa ilang mga sala, ug mangita og kapasayloan pinaagi sa ilang mga halad, nga gihiusa sa santuwaryo.
+
+Ang kalbaryo maoy katapusang halaran, diin sa ibabaw niini ang Cordero sa Dios gihalad sa makausa ug alang sa tanan (Hebreohanon 10:10). Maingon sa sistema sa ritwal, ang halad niini maoy hinungdanong punto, magdala og kahingpitan sa plano sa kaluwasan. Karon Iyang ipahayag ang dugo sa bag-o nga tugon atubangan sa Dios, sa pagpataliwala alang sa mahinulsolon nga makasasala (Hebreohanon 7:25). Sa pagsunod sa sulondan ni Jesus, gitawag kita sa paghalad sa atong mga kaugalingon ingon nga buhi nga mga halad, makapahimuut ngadto sa Ginoo (Roma 12:1). Diha kang Cristo, ang halaran sa kamatayon nahimo nga ganghaan ngadto sa kinabuhi.
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+**Mga Tulomanon sa Iglesya Karon**
+
+Ang mga tulomanon nagpadayon pa nga bahin sa komunidad sa Iglesya Adbentista. Ania ang hamubo nga lista sa pipila ka labing makahuloganon nga mga seremonyas nga gibuhat sa inyong lokal nga Iglesya. Palandunga kon sa unsa nga paagi ang matag usa niini nga mga nabatasan nakaimpluwensiya sa imong personal nga espirituhanong panaw.
+
+1. Pagpahinungod sa Kabataan
+2. Bawtismo
+3. Komunyon
+4. Kasal
+5. Paglubong sa patay
+
+**Taliwala sa Anaa na ug Wala pa**
+
+Ang relihiyoso nga mga kasinatian luyo niini nga mga tulomanon nga giton-an niini nga semana nagtudlo ngadto sa usa ka tensiyon nga sagad gitawag og “anaa na ug wala pa,” nga diha sa Josue nagpakita diha sa panaglalis tali sa pagkahigawas ug pahulay. Ang kaluwasan sa Israel maoy kasamtangan, ug dili ikalimod, katinuuran, apan nagpaabut gihapon kini sila sa unahan ngadto sa katapusang katumanan nga sila sa katapusan makapahimulos sa pahulay sa Dios. Diha sa Bag-ong Tugon, kini nga tensiyon tali sa gingharian sa Dios ingon nga usa ka presente, ug umalabot, ang katinuuran makita. Sa pagtan-aw ni Ellen G. White, “ang gingharian sa Dios (pananglitan, ang gingharian sa grasya) natukod na. Bisan pa, may umalabot pa nga eskatolohikal nga kapadayagan sa gingharian (nga mao ang gingharian sa grasya), nga ‘dili pa moabut hangtod sa ikaduhang paganhi ni Cristo’ (GC 347).”—Kwabena Donkor, “Kingdom of God,” The Ellen G. White Encyclopedia (Hagerstown, MD: Review and Herald Publsihing Association, 2013), p. 919.
+
+1. Giunsa nimo pagkasinati sa tensiyon tali sa anaa na ug sa wala pa sa imong espirituhanong panaw uban sa Dios?
+2. Sa unsa nga paagi ang kamatuuran nga ang mga tumotoo sa Daang Tugon nagkinabuhi na niini nga tensiyon makatabang kanimo sa pagsabut sa imong Cristohanong kasinatian ingon nga usa ka nagpadayon nga espirituhanong panaw?

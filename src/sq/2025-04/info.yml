@@ -1,0 +1,20 @@
+---
+  title: "Mësime besimi nga Jozueu"
+  description: "Libri i Jozueut shënon kalimin nga udhëheqja e Moisiut në atë të Jozueut. Fillon me historinë e hyrjes së Izraelit në Tokën e Premtuar dhe përfundon me vendosjen e tyre në atë tokë."
+  human_date: "Tetor · Nëntor · Dhjetor 2025"
+  start_date: "27/09/2025"
+  end_date: "26/12/2025"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Autori
+      value: "Barna Magyarosi"
+    - name: Përkthyesi
+      value: "Trifjol Ngjela"
+    - name: Redaktore
+      value: "Kornelia Gjata"
+    - name: Dizenjues grafik
+      value: "Enea Xhengo"
+    - name: Përgjegjës
+      value: "Gentian Thomollari, ALM Publishing Service"

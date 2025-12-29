@@ -62,9 +62,9 @@ date:   26/12/2025
     Götzen“, sondern lediglich „wir wollen dem Herrn dienen“. Inwiefern
     könnte das etwas über deren Kompromissbereitschaft bzw.
     Halbherzigkeit aussagen?
--   Er ist auch auffällig, dass hier kein Nachsatz folgt, der bestätigen
-    würde, dass Israel die Götzen tatsächlich von sich gab und treu dem
-    Herrn diente. Was wird das bedeuten?
+-   Es ist auch auffällig, dass hier kein Nachsatz folgt, der bestätigen
+    würde, dass Israel die Götzen tatsächlich aufgab und treu dem Herrn
+    diente. Was wird das bedeuten?
 -   Das offene Ende dieser Bundesverhandlung zwischen Josua und Israel
     kann auch als offenes Ende für den Leser gedeutet werden: Jeder muss
     für sich selbst entscheiden, wie seine eigene Geschichte

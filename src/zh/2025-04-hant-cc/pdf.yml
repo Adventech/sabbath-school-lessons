@@ -1,0 +1,132 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch1.pdf'
+      target: zh/2025-04-hant-cc/01
+      title: 以色列的王要來
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch2.pdf'
+      target: zh/2025-04-hant-cc/02
+      title: 法利賽人
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch3.pdf'
+      target: zh/2025-04-hant-cc/03
+      title: 世界的末了
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch4.pdf'
+      target: zh/2025-04-hant-cc/04
+      title: 僕人的僕人
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch5.pdf'
+      target: zh/2025-04-hant-cc/05
+      title: 最後的晚餐
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch6.pdf'
+      target: zh/2025-04-hant-cc/06
+      title: 選擇
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch7.pdf'
+      target: zh/2025-04-hant-cc/07
+      title: 經受火一般的試煉
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch8.pdf'
+      target: zh/2025-04-hant-cc/08
+      title: 髑髏地
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch9.pdf'
+      target: zh/2025-04-hant-cc/09
+      title: 復活的大能
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch10.pdf'
+      target: zh/2025-04-hant-cc/10
+      title: 第一个見証人
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch11.pdf'
+      target: zh/2025-04-hant-cc/11
+      title: 心里火熱
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch12.pdf'
+      target: zh/2025-04-hant-cc/12
+      title: 海邊重逢
+      start_date: 20/12/2025
+      end_date: 26/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_S_TC_Ch13.pdf'
+      target: zh/2025-04-hant-cc/13
+      title: 耶穌升天
+      start_date: 27/12/2025
+      end_date: 02/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch1.pdf'
+      target: zh/2025-04-hant-cc/01
+      title: 教師本
+      start_date: 04/10/2025
+      end_date: 10/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch2.pdf'
+      target: zh/2025-04-hant-cc/02
+      title: 教師本
+      start_date: 11/10/2025
+      end_date: 17/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch3.pdf'
+      target: zh/2025-04-hant-cc/03
+      title: 教師本
+      start_date: 18/10/2025
+      end_date: 24/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch4.pdf'
+      target: zh/2025-04-hant-cc/04
+      title: 教師本
+      start_date: 25/10/2025
+      end_date: 31/10/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch5.pdf'
+      target: zh/2025-04-hant-cc/05
+      title: 教師本
+      start_date: 01/11/2025
+      end_date: 07/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch6.pdf'
+      target: zh/2025-04-hant-cc/06
+      title: 教師本
+      start_date: 08/11/2025
+      end_date: 14/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch7.pdf'
+      target: zh/2025-04-hant-cc/07
+      title: 教師本
+      start_date: 15/11/2025
+      end_date: 21/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch8.pdf'
+      target: zh/2025-04-hant-cc/08
+      title: 教師本
+      start_date: 22/11/2025
+      end_date: 28/11/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch9.pdf'
+      target: zh/2025-04-hant-cc/09
+      title: 教師本
+      start_date: 29/11/2025
+      end_date: 05/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch10.pdf'
+      target: zh/2025-04-hant-cc/10
+      title: 教師本
+      start_date: 06/12/2025
+      end_date: 12/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch11.pdf'
+      target: zh/2025-04-hant-cc/11
+      title: 教師本
+      start_date: 13/12/2025
+      end_date: 19/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch12.pdf'
+      target: zh/2025-04-hant-cc/12
+      title: 教師本
+      start_date: 20/12/2025
+      end_date: 26/12/2025
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2025Q4/CC_2025_Q4_T_TC_Ch13.pdf'
+      target: zh/2025-04-hant-cc/13
+      title: 教師本
+      start_date: 27/12/2025
+      end_date: 02/01/2026

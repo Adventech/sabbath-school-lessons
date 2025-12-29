@@ -11,10 +11,16 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: self-hosted
     steps:
+      - name: Install FFMPEG
+        uses: FedericoCarboni/setup-ffmpeg@v3
+        id: setup-ffmpeg
+        with:
+          ffmpeg-version: release
+          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
         with:
-          ffmpeg: 'true'
+          ffmpeg: 'false'
       - uses: actions/checkout@v2
       - name: Create work dir folder
         run: mkdir ss-video

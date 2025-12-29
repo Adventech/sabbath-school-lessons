@@ -1,0 +1,162 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-INTRODUCTION.pdf'
+      target: zh/2026-01-pp/introduction
+      title: 简介
+      start_date: 03/01/2026
+      end_date: 03/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-INSTRUCTION.pdf'
+      target: zh/2026-01-pp/instruction
+      title: 指引
+      start_date: 03/01/2026
+      end_date: 03/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L01.pdf'
+      target: zh/2026-01-pp/01
+      title: 声音
+      start_date: 03/01/2026
+      end_date: 09/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L02.pdf'
+      target: zh/2026-01-pp/02
+      title: 守门
+      start_date: 10/01/2026
+      end_date: 16/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L03.pdf'
+      target: zh/2026-01-pp/03
+      title: 从先知到囚徒
+      start_date: 17/01/2026
+      end_date: 23/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L04.pdf'
+      target: zh/2026-01-pp/04
+      title: 头脑清醒还是身首异处？
+      start_date: 24/01/2026
+      end_date: 30/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L05.pdf'
+      target: zh/2026-01-pp/05
+      title: 寻找朋友
+      start_date: 31/01/2026
+      end_date: 06/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L06.pdf'
+      target: zh/2026-01-pp/06
+      title: 最好的朋友
+      start_date: 07/02/2026
+      end_date: 13/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L07.pdf'
+      target: zh/2026-01-pp/07
+      title: 我的新邻居
+      start_date: 14/02/2026
+      end_date: 20/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L08.pdf'
+      target: zh/2026-01-pp/08
+      title: 王室得标志
+      start_date: 21/02/2026
+      end_date: 27/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L09.pdf'
+      target: zh/2026-01-pp/09
+      title: 效法耶稣
+      start_date: 28/02/2026
+      end_date: 06/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L10.pdf'
+      target: zh/2026-01-pp/10
+      title: 作好准备
+      start_date: 07/03/2026
+      end_date: 13/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L11.pdf'
+      target: zh/2026-01-pp/11
+      title: 意想不到的仆人
+      start_date: 14/03/2026
+      end_date: 20/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L12.pdf'
+      target: zh/2026-01-pp/12
+      title: 最伟大的朋友
+      start_date: 21/03/2026
+      end_date: 27/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L13.pdf'
+      target: zh/2026-01-pp/13
+      title: 急于宣告
+      start_date: 28/03/2026
+      end_date: 03/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-ACTIVITY.pdf'
+      target: zh/2026-01-pp/activities
+      title: 活动
+      start_date: 03/04/2026
+      end_date: 03/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-PARENTS.pdf'
+      target: zh/2026-01-pp/parents
+      title: 家长的话
+      start_date: 03/04/2026
+      end_date: 03/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-INTRODUCTION-T.pdf'
+      target: zh/2026-01-pp/introduction
+      title: 简介 - 教师本
+      start_date: 03/01/2026
+      end_date: 03/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L01-T.pdf'
+      target: zh/2026-01-pp/01
+      title: 声音 - 教师本
+      start_date: 03/01/2026
+      end_date: 09/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L02-T.pdf'
+      target: zh/2026-01-pp/02
+      title: 守门 - 教师本
+      start_date: 10/01/2026
+      end_date: 16/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L03-T.pdf'
+      target: zh/2026-01-pp/03
+      title: 从先知到囚徒 - 教师本
+      start_date: 17/01/2026
+      end_date: 23/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L04-T.pdf'
+      target: zh/2026-01-pp/04
+      title: 头脑清醒还是身首异处？ - 教师本
+      start_date: 24/01/2026
+      end_date: 30/01/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L05-T.pdf'
+      target: zh/2026-01-pp/05
+      title: 寻找朋友 - 教师本
+      start_date: 31/01/2026
+      end_date: 06/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L06-T.pdf'
+      target: zh/2026-01-pp/06
+      title: 最好的朋友 - 教师本
+      start_date: 07/02/2026
+      end_date: 13/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L07-T.pdf'
+      target: zh/2026-01-pp/07
+      title: 我的新邻居 - 教师本
+      start_date: 14/02/2026
+      end_date: 20/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L08-T.pdf'
+      target: zh/2026-01-pp/08
+      title: 王室得标志 - 教师本
+      start_date: 21/02/2026
+      end_date: 27/02/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L09-T.pdf'
+      target: zh/2026-01-pp/09
+      title: 效法耶稣 - 教师本
+      start_date: 28/02/2026
+      end_date: 06/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L10-T.pdf'
+      target: zh/2026-01-pp/10
+      title: 作好准备 - 教师本
+      start_date: 07/03/2026
+      end_date: 13/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L11-T.pdf'
+      target: zh/2026-01-pp/11
+      title: 意想不到的仆人 - 教师本
+      start_date: 14/03/2026
+      end_date: 20/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L12-T.pdf'
+      target: zh/2026-01-pp/12
+      title: 最伟大的朋友 - 教师本
+      start_date: 21/03/2026
+      end_date: 27/03/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-L13-T.pdf'
+      target: zh/2026-01-pp/13
+      title: 急于宣告 - 教师本
+      start_date: 28/03/2026
+      end_date: 03/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q1/Junior/PP-C-Q1-CH-ACTIVITY-T.pdf'
+      target: zh/2026-01-pp/activities
+      title: 活动 - 教师本
+      start_date: 03/04/2026
+      end_date: 03/04/2026

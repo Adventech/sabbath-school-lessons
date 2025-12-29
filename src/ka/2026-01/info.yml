@@ -4,6 +4,6 @@
   human_date: "იანვარი · თებერვალი · მარტი 2025"
   start_date: "27/12/2025"
   end_date: "27/03/2025"
-  color_primary: "#605045"
-  color_primary_dark: "#4B3C32"
+  color_primary: "#2E4161"
+  color_primary_dark: "#1E2C44"
   splash: true
