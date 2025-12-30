@@ -1,4 +1,4 @@
-# Kunga Ubumwe kw'Ijuru N'Isi
+### Kunga Ubumwe kw'Ijuru N'Isi
 
 Tekereza ku murimo utoroshye kurusha iyindi yose wigeze ukora. Ni iki cyatumaga uwo murimo utoroha? Ese byaterwaga n'ibyo abantu babaga biteze kuri uwo murimo, cyangwa igihe uwo murimo wari kumara, cyangwa byombi? Ese yaba ari imyifatire yawe kur'icyo gikorwa? Cyangwa se wenda ni abantu mwakoranaga? Cyangwa se birashoboka ko byasaga n'aho bidashoboka ko umuntu yagira icyo ageraho?
 
