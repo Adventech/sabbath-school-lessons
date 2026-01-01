@@ -14,35 +14,37 @@ date:   06/02/2026
 -   "Vertrauen auf Christus allein" – klingt das nicht nach einer
     religiösen Floskel? Was meinen wir damit eigentlich? Vertrauen wir
     nicht auch auf Menschen, Institutionen, uns selbst?
--   Warum ist das Thema Glaube und Werke bei uns so oft Thema?
+-   Warum kommt das Thema Glaube und Werke bei uns so oft auf?
 
 **Philipper 3,1-3**
 
 -   Fragen zum Text:
-    -   Welche positiven und negativen Anmerkungen macht Paulus?
-    -   Warum eine dreifache Warnung, was bedeutet das? Was ist der
-        historische Hintergrund?
-    -   In welchem Zusammenhang steht die "Freude im Herrn" zu den
-        Warnungen?
--   Fragen zur Botschaft:
+    -   Dreimal sagt Paulus in Vers 2 "nehmt euch in Acht" – warum diese
+        starke Betonung?
+    -   Welche drei Personengruppen sind hier gemeint? Welchen
+        historischen Hintergrund haben diese Warnungen?
+    -   In welchem Zusammenhang steht die "Freude im Herrn" (Vers 1) zu
+        den Warnungen?
+    -   Was meint Paulus in Vers 3 mit "wir sind die Beschneidung"?
 
-**Phil 3,4–6**
+**Philipper 3,4–6**
 
 -   Fragen zum Text:
     -   Wie würdet ihr den alten Paulus beschreiben?
-    -   Das Gesetz ist gut und gottgegeben. Trotzdem wurde Paulus zu
-        einem Verfolger der Christen. Wie kann er davon reden, dass er
-        "untadelig nach dem Gesetz" gewesen sei?
--   Fragen zur Botschaft:
+    -   Das Gesetz ist gut und gottgegeben. Paulus sollte es als Jude
+        befolgen. Er sagt von sich, dass er "untadelig nach dem Gesetz"
+        gewesen sei. Gehörte zum vollkommenen Befolgen des Gesetzes etwa
+        auch das Verfolgen der Christen? Wie löst ihr diesen scheinbaren
+        Widerspruch auf?
 
 **Philipper 3,7**
 
 -   Fragen zum Text:
-    -   Gab es in deinem Leben einen Moment, wo du Gewinn und Verlust
-        neu bewertet hast?
-    -   Was sind für dich Dinge, die Gewinn sind? Oder Verlust?
+    -   Gab es in deinem Leben Momente, in denen du Gewinn und Verlust
+        für dich neu bewertet hast?
+    -   Was sind für dich heute die Dinge, die Gewinn sind? Was zählst
+        du als Verlust?
     -   Was kann uns die Augen dafür öffnen, was wirklich zählt?
--   Fragen zur Botschaft:
 
 **Philipper 3,8–9**
 
@@ -50,18 +52,18 @@ date:   06/02/2026
     -   Was heißt es "in Christus gefunden zu werden"?
     -   Was stellt Paulus in Vers 9 einander gegenüber?
     -   Was beinhaltet rettender Glaube?
--   Fragen zur Botschaft:
 
 **Philipper 3,10–16**
 
 -   Fragen zum Text:
-    -   Welche Kernaussagen hat dieser Abschnitt?
+    -   Wie geht das praktisch, was in Vers 10–11 aufgezählt wird?
     -   In Vers 12 spricht Paulus von sich als "nicht vollkommen". In
-        Vers 15 nennt er seine Leser "vollkommen". Wie ist das zu
+        Vers 15 nennt er seine Leser aber "vollkommen". Wie ist das zu
         verstehen?
-    -   Wie streckt man sich aus? Wie geht das praktisch?
-    -   Warum sollte man das tun? Genügen nicht Vertrauen und Glaube?
--   Fragen zur Botschaft:
+    -   Wie streckt man sich aus (Vers 13)? Wie geht das praktisch?
+        -   Warum sollte man das tun? Genügen nicht Vertrauen und
+            Glaube, um das Ziel zu erreichen?
+    -   Was nehmt ihr aus den Versen 10–16 für euch als Botschaft mit?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
