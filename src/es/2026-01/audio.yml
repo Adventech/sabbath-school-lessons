@@ -29,3 +29,5 @@
           target: es/2026-01/02/05
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/01/LECCION-2-JUEVES.mp3
           target: es/2026-01/02/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/01/LECCION-2-VIERNES.mp3
+          target: es/2026-01/02/07
