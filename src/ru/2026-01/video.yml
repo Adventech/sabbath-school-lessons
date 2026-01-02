@@ -15,3 +15,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2026-01-01.mp4
           target: ru/2026-01/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bol/ru-bol-2026-01-01.webp
+    - artist: Субботняя школа с Алехандро Буйоном
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2026-01-01.mp4
+          target: ru/2026-01/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2026-01-01.webp
