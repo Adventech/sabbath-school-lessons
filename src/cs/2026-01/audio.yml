@@ -22,3 +22,5 @@
           target: cs/2026-01/02/05
         - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q1/2026_Q1_02-6.mp3
           target: cs/2026-01/02/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q1/2026_Q1_02-7.mp3
+          target: cs/2026-01/02/07
