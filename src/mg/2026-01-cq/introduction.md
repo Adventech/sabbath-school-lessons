@@ -26,8 +26,6 @@ Taranja iankinana aina tokoa ny haifoto-pinoana, izay manome hery ny tanora zoki
 
 I Anil Kanda dia tale mpanampy misahana ny asa fitoriana ny filazantsara any amin'ny Federasiona Afovoan'i Californie, ary mpanentana ny zana-pandaharana Hope at Night ao amin'ny Hope Channel ny tenany. Izy no mpanoratra ny boky mitondra ny lohateny hoe "Apologetics: Rethinking God."
 
-
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **and.** andininy

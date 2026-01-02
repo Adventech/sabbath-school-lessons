@@ -1,13 +1,11 @@
-yt-dlp "https://www.youtube.com/watch?v=V5japT0dLR8" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/insig/af-insig-2025-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=RSckdP6O31g" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/hope/fr-hope-2026-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=ojJC9wkX9N4" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2025-04-12.mp4"
+yt-dlp "https://www.youtube.com/watch?v=kbIbGhQl-JE" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ro/ro-2026-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=5AVQL0DaJzY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2025-04-11.mp4"
+yt-dlp "https://youtu.be/Ld9pVFl7Ots?si=TfZA9IE-2x5mD-zm" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2026-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=S9BoUGNffmg" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2025-04-10.mp4"
+yt-dlp "https://www.youtube.com/watch?v=s7Mofz96M1c" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2026-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=p1KxydgyTbs" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2025-04-05.mp4"
+yt-dlp "https://youtu.be/Ve48Fu9ydLM?si=g-zlMjk1oF4_UzDo" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "hr/hr-2026-01-01.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=wZxf3RyXaaY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2025-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=5SCzxaM9Ffk" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "af/hb/af-hb-2025-04-07.mp4"
+yt-dlp "https://youtu.be/_AERMQOfPOE?si=kL-gzwDp6OboKIt6" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "ilo/ilo-2026-01-01.mp4"

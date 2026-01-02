@@ -1,0 +1,32 @@
+---
+  title: "Student YAQ1. Creation"
+  description: "Year A, Quarter 1"
+  human_date: "January · February · March 2026"
+  start_date: "28/12/2025"
+  end_date: "28/03/2026"
+  color_primary: "#39788D"
+  color_primary_dark: "#1F5A6D"
+  credits:
+    - name: Principal Contributor
+      value: Linda Schaffner
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editor
+      value: Rosanne Peach
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Director
+      value: Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Clinton Wahlen
+    - name: Creative Director
+      value: Meredith Herzel
+    - name: Illustrator
+      value: Hannah Justinen
+    - name: Designer
+      value: Types & Symbols
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Beginner"
+    "order": 850
