@@ -8,6 +8,10 @@
   color_primary_dark: "#6B8755"
   splash: true
   credits:
+    - name: Published by
+      value: "Review and Herald Publishing Association located in Silver Spring, MD, USA. Edited by Sabbath School and Personal Ministries Department of the General Conference of Seventh-day Adventists."
+    - name: Online publication
+      value: "ISSN 3067-963X"
     - name: Principal Contributor
       value: "Anil Kanda"
     - name: Editor

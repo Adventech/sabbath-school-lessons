@@ -43,13 +43,10 @@ The warning against pride in human achievements, introduced in Philippians 3:1�
 
 In Philippians 3:7–9, Paul contrasts his post-conversion life with his pre-converted experiences, as described previously. The terms “gain” and “loss” stand out in this short passage. Verses 7 and 8 are arranged in a concentric order, as follows:
 
-A.	“What things were gain to me” (Phil. 3:7a, NKJV),
-
-B.	“I have counted loss for Christ” (Phil. 3:7b, NKJV).
-
-B’	“I also count all things loss” (Phil. 3:8a, NKJV),
-
-A’	that I may gain Christ” (Phil. 3:8b, NKJV).
+- A. “What things were gain to me” (Phil. 3:7a, NKJV),
+	- B. “I have counted loss for Christ” (Phil. 3:7b, NKJV).
+	- B’ “I also count all things loss” (Phil. 3:8a, NKJV),
+- A’ that I may gain Christ” (Phil. 3:8b, NKJV).
 
 This concentric structure, also known as chiastic structure, emphasizes the radical change in Paul’s mindset. In addition to the term “loss” (from the Greek _zēmia_), Paul also uses its verbal form, “to suffer loss” (from the Greek _zēmioō_), in Philippians 3:8. This accentuation makes the emphasis on the change of his mindset even more remarkable. The items in the sevenfold list of autobiographical boasting are considered as loss in light of “the excellence of the knowledge of Christ Jesus” (Phil. 3:8, NKJV). The knowledge of Christ brought all things in Paul’s early life into the right perspective. Paul turned from confidence in the flesh to confidence in Christ (Phil. 3:8), from a law-focused righteousness to a Christ-centered righteousness, completely dependent on faith in God’s grace (Phil. 3:9).
 
