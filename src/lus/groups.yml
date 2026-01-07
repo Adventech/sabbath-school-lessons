@@ -8,3 +8,6 @@
   pr:
     name: "Primary"
     order: 300
+  cc:
+    name: "Cornerstone Connections"
+    order: 400
