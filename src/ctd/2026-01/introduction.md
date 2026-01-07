@@ -1,0 +1,19 @@
+### Vantung leh Leitung Kipumkhatsak
+
+Na nasep ngeiteng lakpan a haksa pen ngaihsun in. Bangin haksa sak hiam? Nang’ lam-etna hang maw, hun hong kitawm piaklua maw, a nihmah maw? Tua vaipuak tungah nangma lungsim puak maw? Naseppihte hang hizaw maw? A kizo ngeilo ding nasep ahih hang maw leh?
+
+Hotkhiatna’ ngiimna lungngai kik dih ve: Vantung leh leitung ki pumkhatsak hi. A hitheilo ding pi maw? Mihing’ lungsim tawh bel hithei mah e. Zeisu in zong van a kahtoh madeuh in, a piang theilo ding bang ahi vaipuak khat nungzuite nutsiat hi: “Note pai unla mi khempeuh Keima’ nungzui suaksak in; Pa’ min, Tapa’ min, Kha Siangtho’ min tawh tui sungah naphum un. Tua ciangin note tungah ka hong gen thute khempeuh a zuihna ding un nahilh un” (Mate 28: 19, 20).
+
+Tua a piangtheilo ding bang ahi vaipuak namdangte lakah sem ding in Zeisu in Paul sawl hi: “Pasian’teel mite omna mun a amau’ omna ding mun sanah hong omtheihna ding un; Keimah hong upna uh tawh a mawhna uh akimaisak theihna dingin Satan’ khut sung pan Pasian’ khutsungah a heikhia ding leh, khuamial panin khuavak lamah hei in amituh khua a musak ding pa nahi hi hong ci hi” (Sawl. 26: 18).
+
+Pawlkhat bang tuabang nasep pia leng khutlamsa in taisan phial ding uhhi. Bang peuh ahi zongin tuabang munte a ding Zeisu’ kamciam pampaih huailo hi. Sawltakte tung ah Amah in “Hun bei dongin note ahong ompih tawntung ding kahihna phawk un” (Mate 28: 20). Zeisu mahin Paul kiangah “Keima’na sem dingin a hong sawl dingin nang tungah a hong kilang kahi hi” (Sawl. 26:16).
+
+Tomgen leng, Zeisu in mihing a ding a piangtheilo vaipuakte eima’ thatang tawh semlo in; Amah tungah kinga in semin tangtun dingin hong pia hi. Amah in septheih na’ng vang pialo pipi in nasep pia ngeilo hi. “Mihing’ lunggulhna leh Pasian’ lunggulhna a ki gawmkhawm ciangin mongneilo vangliatna hong suak hi. Ama’ hong sawlna peuhmah Ama’ thahatna mahtawh ki tangtun hi. Ama’ thupiak peuhmah lampi honsak hi”—Ellen G. White, Christ’s Object Lessons, p. 333.
+
+A lamdang mahmah khat, Paul in Colossian a gelhlai in lungdamthu pen “leitung khempeuh ah kihilh khin hi” (Col. 1: 23) cihi. Ahihhang mikim in bel sang zolo uhhi. Nung zuite tungah Ama’ thupiakna (Mate 28: 18-20) leh Paul tungah a thupiakna (Sawl. 26:16) entel mahmah lehang; mi khempeuh kikhel ding cilo a, nungzui suak dinguh cih kamciam pialo hi. Lungdamthu pen “mi khempeuh tungah teci ahi dingin leitung khempeuh ah ki hilh ding a, tuakhit ciangin beina hong tung ding hi” (Mate 24: 14). Hih teci koibang hi na sa hiam? Koibang in a tangtung tam maw?
+
+Tu quarter sungin Philippi mite leh Colossae mite tungah Paul’ laikhak kisin ding hihang. Kibatna honpi khatmah nanei uhhi. Tuate khempeuh lakah, vantung leh leitung a ki pumkhat sakthei Christ hong pulak uhhi. Jacob in amuh van leh lei kikal ah a kikhung kahlei pen Amah ahi hi (Pian. 28: 12; John 1: 51).
+
+Hih laikhakte kisinna pan, Zeisu’ lampan ending hihang. Christ in eimah hong gup nading in Ama’ vangliatna khempeuh nusia cih phawk ciiciai ding hihang. Paul in Philippi ah pawlpi khat, Amah’n khatvei beek zong a hawh theihlohna Colosae ah zong pawlpi khat gaalphuh in, amah ahihleh thongsung peuhah na buai mahmah cihte mu ding hihang. Tua laitak mahin Paul in “leitung huam pawlpi” khat Rome thongsung panin gaalphuh leuleu hi. Ama’ hun tomlua mahmah ta cih Paul in theita ahih manin pawlpi leh vantung ama’ hihtheih zahin ki pumkhat sak hi. Tua banah Mangmuhna 14 sunga Pasian’ thupiakna om bangin “vanmi thumte thupuakte” in, van leh lei kipumkhatna ahih lamtak amah’n hong theisak hi.
+
+_Clinton Wahlen, Ph.D., in General Conference; Biblical Research Institute ah associate director ahi hi. Amah in Laisiangthothak, laimal letkhiatna, leh Adventist tangthu ah siam mahmah hi. Amah in Germany, New Zealand, Russia, United Kingdom, leh Philippines ah nasem ngeikhin hi. A zii Gina hi a, a khankhinsa tapa nih, mo khat leh tuu nih neita uhhi._

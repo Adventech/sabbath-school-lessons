@@ -1,0 +1,61 @@
+---
+title:  Panduan Guru
+date:   06/03/2026
+---
+
+### Bahagian 1: Pandangan Keseluruhan
+
+**Ayat Utama:** Kolose 2:16, 17
+
+**Tumpuan Kajian:** Kolose 2
+
+Dalam penutup Kolose 1, Paulus menyatakan hasratnya agar pendengarnya bertumbuh dalam kematangan dalam Kristus (Kol. 1:28). Dalam Kolose 2, beliau menghuraikan idea ini. Kolose 2:1–5 menetapkan asas untuk apa yang berlaku seterusnya. Paulus mahu para pembacanya “terjalin rapat dalam kasih” (Kol. 2:2, AVB, penekanan ditambah), untuk memperoleh “segala kekayaan serta kepastiannya, supaya mereka mengetahui rahsia Tuhan Bapa,” (Kol. 2:2, AVB, penekanan ditambahkan), dan untuk menguatkan iman mereka kepada Kristus (Kol. 2:5). Pendek kata, Paulus mahu para pembacanya bertumbuh dalam iman, dalam pengetahuan tentang misteri Tuhan, dan dalam kasih kepada Kristus dan satu sama lain. Pada dasarnya, Paulus menasihati pendengarnya untuk menjadi “sempurna” dalam Kristus, atau, dengan kata lain, untuk menunjukkan “kematangan” dalam menjalankan iman mereka. Dalam Kolose 2:6-23, Paulus memberikan butiran lanjut tentang bagaimana matlamat ini boleh dicapai.
+
+Pelajaran minggu ini menekankan dua tema utama:
+
+1. Kesempurnaan dalam Kristus bermakna mengenal Dia dan bertumbuh di dalam Dia. Ini melindungi kita daripada disesatkan oleh guru-guru palsu.
+
+2. Kesempurnaan dalam Kristus juga bermakna mempercayai Dia sepenuhnya untuk keselamatan, bukan peraturan. Walau bagaimanapun, adalah penting untuk diperhatikan bahawa Salib menjadikan undang-undang istiadat tidak diperlukan, bukan undang-undang moral. Peristiwa-peristiwa upacara dalam Perjanjian Lama hanyalah satu gambaran tentang pekerjaan dan pengorbanan Kristus yang akan datang. Simbolisme ini berakhir dengan kematian-Nya. Walau bagaimanapun, Hukum Sepuluh, termasuk Sabat hari ketujuh, masih sah kepada orang Kristian.
+
+### Bahagian II: Ulasan
+
+**Ilustrasi**
+
+“Apabila James Garfield, bakal Presiden Amerika Syarikat, menjadi pengetua Kolej Hiram di Ohio, seorang bapa bertanya kepadanya sama ada tempoh persekolahan anaknya boleh dipendekkan supaya dia boleh menamatkan pengajiannya dalam masa yang singkat. ‘Sudah tentu,’ jawab Garfield. ‘Tetapi semuanya bergantung pada apa yang anda mahu anak anda capai. Apabila Tuhan ingin mencipta pokok oak, Dia mengambil masa seratus tahun. Apabila Dia ingin mencipta labu, Dia hanya mengambil masa dua bulan.’ “—Michael P. Green, 1500 Illustrations for Biblical Preaching (Grand Rapids, MI: Baker Books, 2000), hlm. 356.
+
+Paulus berkata, “Tuhan yang telah memulakan suatu pekerjaan yang baik dalam dirimu akan menyudahkannya hingga hari Yesus Kristus.” (Flp. 1:6, AVB). Mengulas tentang perjalanan rohani Daud, Alan Redpath menyatakan idea yang sama: "Pertukaran jiwa adalah keajaiban seketika, pembentukan orang suci adalah tugas seumur hidup."-Alan Redpath, The Making of a Man of God: Lessons from the Life of David (Grand Rapids, MI: Fleming H. Revell, 2013), daripada Prakata.
+
+**Mengenal Kristus dan Bertumbuh di dalam Dia**
+
+Daripada pembacaan Kolose, kita boleh menyimpulkan bahawa Paulus sangat prihatin tentang penyusupan guru palsu ke dalam gereja. Kebimbangan ini mungkin dinyatakan melalui ungkapan, “ betapa beratnya perjuangan yang kulakukan untuk kamu” (Kol. 2:1, ATB). Dalam konteks ini, istilah “perjuangan” mungkin bermaksud “kerisauan” atau “kebimbangan.”—William Arndt et al., A Greek-English Lexicon of the New Testament and Other Early Christian Literature (Chicago: University of Chicago Press, 2000), hlm. 17. Perkataan Yunani yang diterjemahkan "perjuangan" digunakan di tempat lain untuk merujuk kepada perjuangan melawan tentangan manusia atau rohani (cth., 1 Tes. 2:2). Dalam konteks ini, istilah ini digunakan untuk menggambarkan "kerja keras tanpa jemu" rasul — perjuangan yang sengit dan usaha untuk penyebaran, pertumbuhan, dan pengukuhan iman sebagai matlamat misinya.-David J. Williams, Metaphors Paul: Their Context and Character (Grand Rapids, MI: Baker Academic, 1999), hlm. 290.
+
+Istilah "konflik" berasal dari konteks sukan, khususnya pertandingan olahraga. Oleh itu, ia membayangkan tentang usaha yang meletihkan. Maklumat ini menunjukkan bahawa Paulus tidak memandang perkara ajaran sesat ini sebagai hal yang remeh. Kemungkinan besar, melalui konflik atau pergelutannya untuk orang Kolose, niat doa Paulus adalah untuk mereka. Paulus berdoa agar hati mereka dikuatkan supaya mereka tidak disesatkan oleh ajaran sesat. Paulus ingin mereka “terjalin rapat dalam kasih, dan mereka mencapai pengertian penuh dalam segala kekayaan serta kepastiannya, supaya mereka mengetahui rahsia Tuhan Bapa dan Kristus,” (Kolose 2:2, AVB).
+
+Konsep pengetahuan adalah penting dalam Kolose. Sepanjang surat ini, Paulus mahu para pendengarnya mempunyai pengetahuan tentang "kasih karunia Tuhan dalam segala kebenarannya" (Kol. 1:6, AVB); “kehendak-Nya dalam segala kebijaksanaan dan pengertian rohani.” (Kol. 1:9, AVB); “kayanya kemuliaan rahsia itu dalam kalangan orang bukan orang Israel, iaitu Kristus dalam kamu” (Kol. 1:27, AVB); “rahsia Tuhan Bapa dan Kristus” (Kol. 2:2, NKJV). Jadi, secara ringkas, Paulus menunjukkan bahawa penawar kepada ajaran palsu ialah pengetahuan tentang Tuhan dan Kristus (Kol. 2:1-4, 8). Pengetahuan ini datang dari Firman Tuhan, seperti yang dibayangkan oleh Paulus dalam Kolose 3:16: "Biarlah sabda Kristus menetap dalam dirimu dengan segala kekayaan dan kebijaksanaannya. Ajar dan nasihati satu sama lain dengan mazmur, lagu pujian dan nyanyian rohani, serta nyanyikanlah lagu rohani dengan rasa syukur kepada Tuhan dalam hatimu." (AVB).
+
+**Kristus, Satu-satunya Harapan Keselamatan Kita**
+
+Dalam Kolose 2:11-15, Paulus memuji kerja penyelamatan Kristus bagi kita. Dalam Kristus, kita disunat "persunatan tanpa menggunakan tangan" (Kol. 2:11, AVB), yang bermaksud pekerjaan Kristus di dalam hati kita. Kita "dikuburkan bersama-Nya dengan baptisan" dan "dibangkitkan bersama-Nya" (Kol. 2:12, AVB). Dengan kata lain, Tuhan menjadikan kita hidup bersama Kristus dan "mengampunkan segala kesalahanmu" (Kol. 2:13, AVB). Pendek kata, Paulus berkata bahawa Kristus adalah satu-satunya harapan keselamatan kita.
+
+Walau bagaimanapun, beberapa kenyataan Paulus dalam Kolose 2, khususnya Kolose 2:11–23, digunakan oleh ramai orang hari ini untuk mencadangkan bahawa rasul itu bercakap tentang membatalkan Hukum Sepuluh; lebih khusus lagi, ia mengatakan Sabat hari ketujuh tidak lagi sah atau mengikat untuk orang Kristian. Bertentangan dengan tuntutan ini, Kolose 2 bukanlah tentang membatalkan Hukum Sepuluh. Paulus menyiratkan beberapa kali dalam suratnya, baik dalam Kolose dan di tempat lain, bahawa Hukum Sepulu itu sah untuk orang Kristian, seperti yang dilihat dalam ayat-ayat berikut.
+
+Paulus memetik perintah kelima dalam Efesus 6:2, 3, yang keenam, ketujuh, dan kedelapan dalam Roma 13:9, dan yang kesepuluh dalam Roma 7:7 (dan juga dalam Roma 13:9). Dalam Kolose 3:20, dia mengulangi nasihat yang terdapat dalam Efesus 6:1: "Anak-anak, turutlah ibu bapamu!" (AVB). Berdasarkan Efesus 6:1-3, dapat disimpulkan bahawa nasihat, "Anak-anak, turutlah ibu bapamu" (kedua-duanya dalam Efesus 6:1 dan Kol. 3:20), adalah berdasarkan kesahihan perintah kelima (Efesus 6:2, 3; rujuk Kel. 20:12). Dalam semua ayat ini, tersirat bahawa Hukum Sepuluh tetap wajib bagi orang percaya di bawah perjanjian baru. Selain itu, senarai kekejian dan kebajikan dalam Surat-surat Paulus—dan khususnya senarai kekejian dalam Kolose 3:5-9—didorong oleh Hukum Sepuluh (lihat David W. Pao, Colossians & Philemon, Zondervan Exegetical Commentary on the New Testament [Grand Rapids, MI: Zondervan], hlm. 220).
+
+Seorang sarjana bukan Advent mengakui, "Ada sebab yang baik untuk mempercayai ... bahawa Hukum Sepuluh ... masih mengikat kita. Apabila Yesus, sebagai contoh, bercakap tentang 'hukum-hukum Tuhan,' jelas bahawa Dia merujuk kepada Hukum Sepuluh itu (Lukas 18:20). Begitu juga, apabila Paulus merujuk kepada hukum dalam Roma 7:7, dia merujuk kepada Hukum Sepuluh,” —Iain D. Campbell, Opening up Exodus, Opening Up Commentary (Leominster, England: Day One Publications, 2006), hlm. 83.
+
+Mengenai Sabat hari ketujuh, bukti dari Perjanjian Baru menunjukkan bahawa ia mengikat bagi orang percaya di bawah perjanjian baru. Seperti Yesus, Paulus adalah seorang Penjaga Sabat (lihat Lukas 4:16, Kisah 17:2). Dalam Wahyu 14:6, 7, kiasan kepada perintah keempat menggariskan kesahihan Sabat hari ketujuh bagi orang Kristian. Begitu juga, apabila Paulus dan Barnabas memprotes penyembahan berhala, mereka menonjolkan penyembahan kepada "Tuhan yang hidup, yang menjadikan langit, bumi dan laut serta segala yang di dalamnya." (Kis. 14:15 (AVB); lihat Kel. 20:11). Mungkin juga dalam huraiannya tentang keutamaan Kristus dalam Kolose 1:15-20, Paulus merujuk kepada Kejadian 1 dan 2 serta Keluaran 20:8-11 dalam mindanya. Kedua-dua petikan ini berkongsi tema Sabat (lihat John K. McVay, “Colossians,” dalam Ángel Manuel Rodríguez, ed., Andrews Bible Commentary: New Testament [Berrien Springs, MI: Andrews University Press, 2022], hlm. 1745, 1751–1753).
+
+Memandangkan Paulus adalah seorang pemelihara Sabat, dia jelas tidak boleh berhujah untuk pemansuhan Hukum Sepuluh dalam Kolose 2:11–23. Oleh itu, "hukum-hukum bertulis" (Kol. 2:14, AVB) yang dipaku pada salib tidak merujuk kepada hukum moral. Sebaliknya, ia mungkin merujuk kepada undang-undang istiadat atau beberapa jenis nota perjanjian hutang. Begitu juga, Kolose 2:16 tidak membincangkan Sabat mingguan hari ketujuh. Sebaliknya, teks itu mungkin merujuk kepada (1) Sabat upacara, (2) korban yang dipersembahkan semasa perayaan Yahudi, atau, mungkin, (3) memelihara Sabat hari ketujuh untuk tujuan yang tidak benar. Untuk butiran, lihat John K. McVay, “Colossians,” dalam Ángel Manuel Rodríguez, ed., Andrews Bible Commentary: New Testament (Berrien Springs, MI: Andrews University Press, 2022), hlm. 1752, 1753.
+
+### Bahagian III: Penerapan Hidup
+
+Renungkan tema berikut. Kemudian minta ahli kelas anda menjawab soalan di akhir bahagian ini:
+
+Filipi 1:6 sadalah salah satu petikan yang paling dikenali dalam Alkitab. Kita menyukai janji ini: “Aku yakin bahawa Tuhan yang telah memulakan suatu pekerjaan yang baik dalam dirimu akan menyudahkannya hingga hari Yesus Kristus” (AVB). Adalah penting untuk diingati bahawa penyempurnaan dalam Kristus melibatkan mengenal Dia melalui Firman-Nya. Sesungguhnya, tidak ada cara lain untuk tinggal di dalam Dia melainkan Firman-Nya tinggal di dalam kita (Yohanes 15:7). Daripada Firman Tuhan, kita menerima makanan untuk pertumbuhan rohani (1 Petrus 2:2), yang merangkumi pertumbuhan dalam iman (Roma 10:17). Seperti yang dikatakan oleh pemazmur, "Dan mereka yang mengenal nama-Mu akan percaya kepada-Mu" (Mz. 9:10, AVB). Pengetahuan tentang Tuhan dan Firman-Nya menghalang kita daripada disesatkan oleh ajaran palsu.
+
+Pengetahuan yang benar tentang Tuhan secara semula jadi membawa kepada penyerahan dan kesetiaan kepada-Nya. Dalam hal itu, hukum moral memainkan peranan yang penting, kerana ia mengajar kita tentang watak Tuhan dan menerangkan kehendak-Nya kepada kita. Walau bagaimanapun, ada yang mengatakan bahawa undang-undang adalah penghalang kepada injil. Namun, itu adalah jauh dari kebenaran. Malah, sebaliknya adalah bertentangan. Menurut Joe M. Sprinkle, seorang sarjana bukan Adventist, undang-undang moral “adalah pendahulu kepada Injil” kerana ia “menunjukkan kepada Kristus yang merupakan penggenapan hukum.”—Joe Sprinkle, Biblical Law and Its Relevance: A Christian Understanding and Ethical Application for Today of the Mosaic Regulations, dipetik oleh Roy E. Gane, Old Testament Law for Christians: Original Context and Enduring Application (Grand Rapids, MI: Baker Academic, 2017), hlm. 4, nota kaki 2.
+
+**Pertanyaan:**
+
+1. Kongsi ayat Alkitab kegemaran anda dengan kelas. Bagaimanakah ayat ini menyegarkan anda, menguatkan hubungan anda dengan Tuhan, atau melindungi anda daripada ajaran palsu?
+2. Bagaimanakah hukum moral menunjuk kepada Yesus? Bagaimanakah Yesus menjadi penggenapan hukum? Mengapa adalah salah untuk mendakwa bahawa undang-undang moral adalah penghalang kepada injil?
