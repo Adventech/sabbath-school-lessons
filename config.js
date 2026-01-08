@@ -217,6 +217,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "lv": [
+    "LG8",
+    "JTR2024",
     "rt65"
   ],
 
@@ -234,8 +236,8 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "ml": [
-    "malcl-bsi",
-    "mb1910"
+    "mb1910",
+    "malcl-bsi"
   ],
 
   "ms": [
@@ -376,6 +378,7 @@ var BIBLE_PARSER_CONFIG = {
   ],
 
   "vi": [
+    "VIE1925",
     "bpt"
   ],
   "xh": [
