@@ -1,4 +1,4 @@
---- 
+---
 title:  Material Pentru Instructori 
 date:  27/02/2026 
 ---
@@ -19,17 +19,79 @@ Astăzi, aceste scrisori pline de iubire sunt considerate printre cele mai frumo
 
 Biblia indică în mod clar că Dumnezeu a inițiat procesul de împăcare a omenirii cu Sine. Atunci când primii noștri părinți au căzut în păcat, Dumnezeu a venit în grădina Eden ca să-i caute (Geneza 3:9). Pavel spune că, „atunci când eram vrăjmași, am fost împăcați cu Dumnezeu prin moartea Fiului Său” (Romani 5:10). Această învățătură reflectă și sentimentul exprimat de Pavel în Coloseni 1:21,22. Este de remarcat faptul că inițiativa lui Dumnezeu de a realiza împăcarea este o temă dominantă în Romani 5:5-11, așa cum se poate observa și în tabelul de mai jos.
 
-| Romani 5:6 |„pe când eram noi încă fără putere, Hristos, la vremea cuvenită, a murit pentru cei nelegiuiți.” |
-| Romani 5:8 | „pe când eram noi încă păcătoși, Hristos a murit pentru noi.” |
-| Romani 5:10 | „atunci când eram vrăjmași, am fost împăcați cu Dumnezeu, prin moartea Fiului Său.” |
+<table id="table002" class="Basic-Table _idGenTablePara-1">
+  <colgroup><col><col><col></colgroup>
+  <tbody>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Romani 5:6</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„pe când eram noi încă fără putere,</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Hristos, la vremea cuvenită, a murit pentru cei nelegiuiți.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Romani 5:8</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„pe când eram noi încă păcătoși,</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Hristos a murit pentru noi.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Romani 5:10</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„atunci când eram vrăjmași,</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">am fost împăcați cu Dumnezeu, prin moartea Fiului Său.”</p></td>
+    </tr>
+  </tbody>
+</table>
+
 
  Există un paralelism strâns între versetele 6, 8 și 10 (vezi și Efeseni 2:4,5). Când eram încă fără putere, când eram păcătoși și vrăjmași, Hristos a murit pentru noi, împăcându-ne astfel cu Dumnezeu. Pavel abordează această temă și în alte locuri, cu mici variații, după cum se poate observa în tabelul de mai jos.
 
-| Pasaj | Agentul suprem |  Acțiune | Obiectul acțiunii | Beneficiar | Agentul intermediar |
-| 2 Corinteni 5:18 | Dumnezeu | ne-a împăcat | (noi) | cu El | prin Isus Hristos |
-| 2 Corinteni 5:19 | Dumnezeu | împăcând | lumea | cu Sine | în Hristos |
-| Coloseni 1:20 | Dumnezeu | să împace | totul | cu Sine | prin sângele crucii Lui [Hristos] |
-| Efeseni 2:4,5 | Dumnezeu | ne-a iubit, [...] ne-a adus la viață | (pe noi) | | împreună cu Hristos |
+<table id="table003" class="Basic-Table _idGenTablePara-1">
+  <colgroup><col><col><col><col><col><col></colgroup>
+  <tbody>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Pasaj</span></p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Agentul suprem</span></p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Acțiune</span></p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Obiectul acțiunii</span></p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Beneficiar</span></p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Agentul intermediar</span></p></td>
+    </tr>
+
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">2 Corinteni 5:18</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">ne-a împăcat</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">(noi)</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">cu El</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">prin Isus Hristos</p></td>
+    </tr>
+
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">2 Corinteni 5:19</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">împăcând</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">lumea</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">cu Sine</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">în Hristos</p></td>
+    </tr>
+
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Coloseni 1:20</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">să împace</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">totul</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">cu Sine</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">prin sângele crucii Lui [Hristos]</p></td>
+    </tr>
+
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Efeseni 2:4,5</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">ne-a iubit, [...] ne-a adus la viață</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">(pe noi)</p></td>
+      <td class="Basic-Table"></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">împreună cu Hristos</p></td>
+    </tr>
+  </tbody>
+</table>
 
 Dumnezeu este întotdeauna Agentul suprem și Inițiatorul procesului de împăcare. În Galateni 4:4,5, Pavel folosește limbajul aferent adopției pentru a face referire la inițiativa lui Dumnezeu de a ne împăca cu Sine. Așa cum afirmă cu elocvență Ioan, „noi Îl iubim pentru că El ne-a iubit întâi” (1 Ioan 4:19). Împăcarea este posibilă prin moartea lui Hristos (Romani 5:6; 2 Corinteni 5:21; Coloseni 1:20; Efeseni 2:13,16 etc.) și are ca rezultat pacea cu Dumnezeu (Efeseni 2:14-19). Pentru că am fost înfiați de Dumnezeu (Romani 8:15; Galateni 3:26; 4:4-6; 1 Ioan 3:1,2), noul nostru statut, obținut prin credința în Hristos, ne oferă acces la El (Romani 5:2; Efeseni 2:18; 3:12; Evrei 10:19-22).
 
