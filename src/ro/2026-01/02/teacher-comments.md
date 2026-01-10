@@ -19,17 +19,55 @@ Robert A. Emmons împărtășește istoria unei femei cu sindrom post-polio care
 
 O particularitate des întâlnită în epistolele lui Pavel este secțiunea de mulțumire, care funcționează în esență ca un act de rugăciune. Această idee poate fi ilustrată mai clar în tabelul următor.
 
-| Pasaj | Recunoștință și rugăciune |
-| Romani 1:8-10 | „Mai întâi mulțumesc Dumnezeului meu, prin Isus Hristos [...]. Dumnezeu [...] îmi este martor că vă pomenesc neîncetat în rugăciunile mele.” |
-| 1 Corinteni 1:4 | „Mulțumesc Dumnezeului meu totdeauna, cu privire la voi.” |
-| Efeseni 1:15,16 |  „De aceea [...] nu încetez să aduc mulțumiri pentru voi, când vă pomenesc în rugăciunile mele.” |
-| Filipeni 1:3,4 | „Mulțumesc Dumnezeului meu [...]. În toate rugăciunile mele.” |
-| Coloseni 1:3 | „Mulțumim lui Dumnezeu [...] căci ne rugăm neîncetat pentru voi.” |
-| 1 Tesaloniceni 1:2 | „Mulțumim totdeauna lui Dumnezeu pentru voi toți, pe care vă pomenim necurmat în rugăciunile noastre.” |
-| 2 Tesaloniceni 1:3 | „Trebuie să mulțumim totdeauna lui Dumnezeu pentru voi.” |
-| 1 Timotei 1:12 | „Mulțumesc lui Hristos Isus, Domnul nostru.” |
-| 2 Timotei 1:3 | „Mulțumesc lui Dumnezeu [...] că neîntrerupt te pomenesc în rugăciunile mele, zi și noapte.” |
-| Filimon 4 | „Mulțumesc totdeauna Dumnezeului meu ori de câte ori îmi aduc aminte de tine în rugăciunile mele.” |
+<table id="table001" class="Basic-Table _idGenTablePara-1">
+  <colgroup><col><col></colgroup>
+  <tbody>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Pasaj</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Recunoștință și rugăciune</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Romani 1:8–10</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mai întâi mulțumesc Dumnezeului meu, prin Isus Hristos [...]. Dumnezeu [...] îmi este martor că vă pomenesc neîncetat în rugăciunile mele.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">1 Corinteni 1:4</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumesc Dumnezeului meu totdeauna, cu privire la voi.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Efeseni 1:15, 16</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„De aceea [...] nu încetez să aduc mulțumiri pentru voi, când vă pomenesc în rugăciunile mele.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Filipeni 1:3, 4</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumesc Dumnezeului meu [...]. În toate rugăciunile mele.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Coloseni 1:3</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumim lui Dumnezeu [...] căci ne rugăm neîncetat pentru voi.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">1 Tesaloniceni 1:2</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumim totdeauna lui Dumnezeu pentru voi toți, pe care vă pomenim necurmat în rugăciunile noastre.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">2 Tesaloniceni 1:3</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Trebuie să mulțumim totdeauna lui Dumnezeu pentru voi.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">1 Timotei 1:12</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumesc lui Hristos Isus, Domnul nostru.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">2 Timotei 1:3</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumesc lui Dumnezeu [...] că neîntrerupt te pomenesc în rugăciunile mele, zi și noapte.”</p></td>
+    </tr>
+    <tr class="Basic-Table">
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Filimon 4</p></td>
+      <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">„Mulțumesc totdeauna Dumnezeului meu ori de câte ori îmi aduc aminte de tine în rugăciunile mele.”</p></td>
+    </tr>
+  </tbody>
+</table>
 
 Trei observații cheie pot fi făcute după analizarea tabelului de mai sus. În primul rând, la Pavel, mulțumirea este un act de rugăciune, deoarece mulțumirea este în mod constant legată de rugăciune. În al doilea rând, chiar și atunci când secțiunea de mulțumire din anumite scrisori pauline nu menționează termenul „rugăciune”, este important să realizăm că recunoștința este îndreptată către Dumnezeu (2 Tesaloniceni 1:3; 1 Timotei 1:12). În al treilea rând, repetarea termenilor „totdeauna” și „neîncetat/neîntrerupt” sugerează că atât rugăciunea, cât și recunoștința erau componente constante, chiar esențiale, în viața lui Pavel.
 
