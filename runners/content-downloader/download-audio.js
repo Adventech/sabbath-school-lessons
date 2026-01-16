@@ -183,19 +183,15 @@ let downloadUKAudio = async function() {
                 if (existCloudResult.status === 200) {
                     existCloud = true
                 }
-            } catch (e) {
-                console.error(e)
-            }
+            } catch (e) {}
 
             try {
                 if (!existCloud) {
-                    let remoteFileUrl = `${REMOTE_URL}${date.format(DATE_FORMAT)}.mp3`
+                    let remoteFileUrl = `${REMOTE_URL}${date.format(DATE_FORMAT)}_stream/prog_index.m3u8`
                     let exists = await axios.head(remoteFileUrl);
-                    console.log(`${REMOTE_URL}${date.format(DATE_FORMAT)}.mp3`)
                     if (exists.status === 200) {
                         // exist on remote add to download list
-
-                        commands += `curl -C - -L --create-dirs -o audio/uk/${quarter}/${date.format(DATE_FORMAT)}.mp3 "${remoteFileUrl}"\n`
+                        commands += `mkdir -p audio/uk/${quarter}/ && ffmpeg -y -i ${remoteFileUrl} -vn -acodec libmp3lame -ab 192k audio/uk/${quarter}/${date.format(DATE_FORMAT)}.mp3\n`
                     }
                 }
             } catch (e) {}
