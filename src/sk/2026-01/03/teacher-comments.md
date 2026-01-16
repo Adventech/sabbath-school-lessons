@@ -1,72 +1,72 @@
 ---
-title:  Komentáre uèite¾a
+title:  KomentÃ¡re uÄiteÄ¾a
 date:  16/01/2026
 ---
 
-#### Èást I: Souhrn
+#### ÄŒÃ¡st I: Souhrn
 
-K¾úèovı text: Filipskım 1:21
+KÄ¾ÃºÄovÃ½ text: FilipskÃ½m 1:21
 
-Zameranie štúdia: Filipskım 1:19–30, 1 Tesalonickım 4:14–16
+Zameranie Å¡tÃºdia: FilipskÃ½m 1:19â€“30, 1 TesalonickÃ½m 4:14â€“16
 
-Martin Luther King, Jr., raz povedal: „Ak èlovek neobjavil nieèo, za èo by bol ochotnı zomrie, nie je hodnı i.“ — citované v Mark Water, The New Encyclopedia of Christian Quotations (Alresford, Hampshire, Anglicko: John Hunt Publishers Ltd., 2000), s. 404. Pavol vyjadril podobnı názor: „Pre mòa je i Kristus a zomrie je zisk“ (Fil 1:21, NKJV). Nie sú to prázdne slová! Pavol bol skutoène ochotnı zomrie za Krista (Rim 14:8), èo nakoniec aj urobil (2 Tim 4:6–8).
+Martin Luther King, Jr., raz povedal: â€Ak Älovek neobjavil nieÄo, za Äo by bol ochotnÃ½ zomrieÅ¥, nie je hodnÃ½ Å¾iÅ¥.â€œ â€” citovanÃ© v Mark Water, The New Encyclopedia of Christian Quotations (Alresford, Hampshire, Anglicko: John Hunt Publishers Ltd., 2000), s. 404. Pavol vyjadril podobnÃ½ nÃ¡zor: â€Pre mÅˆa je Å¾iÅ¥ Kristus a zomrieÅ¥ je ziskâ€œ (Fil 1:21, NKJV). Nie sÃº to prÃ¡zdne slovÃ¡! Pavol bol skutoÄne ochotnÃ½ zomrieÅ¥ za Krista (Rim 14:8), Äo nakoniec aj urobil (2 Tim 4:6â€“8).
 
-Citujúc alm 44:22, Pavol vyhlásil Pánovi: „Pre teba sme celı deò zabíjaní, sme povaovaní za ovce na zabitie“ (Rim 8:36, NKJV). Preto by nás nemali prekvapi jeho slová v Galaanom 2:20: „Som ukriovanı s Kristom“ (NKJV). Pavol bol ochotnı zomrie za Krista, pretoe sa zaviazal i pre Neho. Pavol pokraèuje: „U neijem ja, ale Kristus ije vo mne; a ivot, ktorı teraz ijem v tele, ijem vo viere v Boieho Syna“ “ (Gal 2:20, NKJV). Pavol teda il a zomrel pre evanjelium.
+CitujÃºc Å½alm 44:22, Pavol vyhlÃ¡sil PÃ¡novi: â€Pre teba sme celÃ½ deÅˆ zabÃ­janÃ­, sme povaÅ¾ovanÃ­ za ovce na zabitieâ€œ (Rim 8:36, NKJV). Preto by nÃ¡s nemali prekvapiÅ¥ jeho slovÃ¡ v GalaÅ¥anom 2:20: â€Som ukriÅ¾ovanÃ½ s Kristomâ€œ (NKJV). Pavol bol ochotnÃ½ zomrieÅ¥ za Krista, pretoÅ¾e sa zaviazal Å¾iÅ¥ pre Neho. Pavol pokraÄuje: â€UÅ¾ neÅ¾ijem ja, ale Kristus Å¾ije vo mne; a Å¾ivot, ktorÃ½ teraz Å¾ijem v tele, Å¾ijem vo viere v BoÅ¾ieho Synaâ€œ â€œ (Gal 2:20, NKJV). Pavol teda Å¾il a zomrel pre evanjelium.
 
-Tento tıdeò sa lekcia zameriava na tri hlavné témy:
+Tento tÃ½Å¾deÅˆ sa lekcia zameriava na tri hlavnÃ© tÃ©my:
 
-1.	Boh nás vyzıva, aby sme ili ivot zameranı na misiu, a dokonca nás volá, aby sme boli ochotní zomrie pre Neho.
+1.	Boh nÃ¡s vyzÃ½va, aby sme Å¾ili Å¾ivot zameranÃ½ na misiu, a dokonca nÃ¡s volÃ¡, aby sme boli ochotnÃ­ zomrieÅ¥ pre Neho.
 
-2.	Smr je prirovnávaná k spánku, ktorého riešením je vzkriesenie tela, nie nesmrte¾nos duše.
+2.	SmrÅ¥ je prirovnÃ¡vanÃ¡ k spÃ¡nku, ktorÃ©ho rieÅ¡enÃ­m je vzkriesenie tela, nie nesmrteÄ¾nosÅ¥ duÅ¡e.
 
-3.	Kristus nás volá k jednote v Jeho Duchu. Pretoe sme všetci zapojení do duchovnej vojny, musíme nielen pouíva správne zbrane, ale aj bojova spoloène v jednote.
+3.	Kristus nÃ¡s volÃ¡ k jednote v Jeho Duchu. PretoÅ¾e sme vÅ¡etci zapojenÃ­ do duchovnej vojny, musÃ­me nielen pouÅ¾Ã­vaÅ¥ sprÃ¡vne zbrane, ale aj bojovaÅ¥ spoloÄne v jednote.
 
-#### Èást II: Komentáø
+#### ÄŒÃ¡st II: KomentÃ¡Å™
 
-**Ilustrácia**
+**IlustrÃ¡cia**
 
-Rozpráva sa príbeh o Johnovi Bradfordovi, ktorı bol upálenı na hranici 1. júla 1555. Bradford „bol kaplánom anglického krá¾a Eduarda VI. a bol jednım z najpopulárnejších kazate¾ov svojej doby. Bol však muèeníkom za svoju vieru. Keï ho viezli do Newgate, aby ho upálili, dostal povolenie prehovori a z voza, v ktorom ho viezli na smr, po celej ceste zo západného Londına do Newgate krièal: „Kristus, Kristus, nikto inı ako Kristus.“ “ — Paul Lee Tan, Encyclopedia of 7,700 Illustrations: Signs of the Times (Garland, TX: Bible Communications, Inc., 1996), s. 787. Rovnako ako Pavol, aj Bradford sa venoval misijnej èinnosti tım, e il a zomrel pre Krista.
+RozprÃ¡va sa prÃ­beh o Johnovi Bradfordovi, ktorÃ½ bol upÃ¡lenÃ½ na hranici 1. jÃºla 1555. Bradford â€bol kaplÃ¡nom anglickÃ©ho krÃ¡Ä¾a Eduarda VI. a bol jednÃ½m z najpopulÃ¡rnejÅ¡Ã­ch kazateÄ¾ov svojej doby. Bol vÅ¡ak muÄenÃ­kom za svoju vieru. KeÄ ho viezli do Newgate, aby ho upÃ¡lili, dostal povolenie prehovoriÅ¥ a z voza, v ktorom ho viezli na smrÅ¥, po celej ceste zo zÃ¡padnÃ©ho LondÃ½na do Newgate kriÄal: â€Kristus, Kristus, nikto inÃ½ ako Kristus.â€œ â€œ â€” Paul Lee Tan, Encyclopedia of 7,700 Illustrations: Signs of the Times (Garland, TX: Bible Communications, Inc., 1996), s. 787. Rovnako ako Pavol, aj Bradford sa venoval misijnej Äinnosti tÃ½m, Å¾e Å¾il a zomrel pre Krista.
 
-**i a zomrie pre Krista**
+**Å½iÅ¥ a zomrieÅ¥ pre Krista**
 
-Pavlov vırok v Filipskım 1:21 je jednım z najpozoruhodnejších vo všetkıch jeho listoch. Jeho ochota i pre Krista – èo znamená znáša nevyhnutné akosti – a dokonca pre Neho zomrie, podèiarkuje nádej vyjadrenú v predchádzajúcom verši: „A verím, e môj ivot prinesie slávu Kristovi, èi u ijem, alebo zomriem“ (Filipskım 1:20, NLT).
+Pavlov vÃ½rok v FilipskÃ½m 1:21 je jednÃ½m z najpozoruhodnejÅ¡Ã­ch vo vÅ¡etkÃ½ch jeho listoch. Jeho ochota Å¾iÅ¥ pre Krista â€“ Äo znamenÃ¡ znÃ¡Å¡aÅ¥ nevyhnutnÃ© Å¥aÅ¾kosti â€“ a dokonca pre Neho zomrieÅ¥, podÄiarkuje nÃ¡dej vyjadrenÃº v predchÃ¡dzajÃºcom verÅ¡i: â€A verÃ­m, Å¾e mÃ´j Å¾ivot prinesie slÃ¡vu Kristovi, Äi uÅ¾ Å¾ijem, alebo zomriemâ€œ (FilipskÃ½m 1:20, NLT).
 
-Záhadnım pojmom je však Pavlovo tvrdenie, e smr je zisk. Èo tım myslí? Ako môe èlovek profitova zo svojej vlastnej smrti? Na základe Pavlovho elania, vyjadreného v Filipskım 1:23, „odís a by s Kristom“ (NKJV), niektorí usúdili, e Pavol potvrdzuje, e bude v prítomnosti Krista ihneï po smrti. Takáto predstava však odporuje jasnému biblickému uèeniu o nesmrte¾nosti duše a smrti ako spánku. Aby sme pochopili, èo Pavol myslel tım, e smr nazval ziskom, je uitoèné preskúma jeho pouitie pojmu „zisk“ (z gréckeho kerdos) a jeho príbuzného slovesa „získa“ (z gréckeho kerdaino) na inıch miestach v jeho spisoch. V Filipskım 3:7, 8 Pavol spomína, e to, èo predtım povaoval za zisk (kerdos), teraz povauje za stratu „kvôli Kristovi“ (Filipskım 3:7, NRSV, dôraz pridanı); to znamená „kvôli neporovnate¾nej hodnote poznania Krista Jeiša“ (Filipskım 3:8, NRSV, dôraz pridanı). Pavol ïalej vysvet¾uje: „Kvôli nemu som utrpel stratu všetkého... aby som získal [kerdaino] Krista“ (Fil 3:8, CSB). Pre Pavla je teda smr ziskom v tom zmysle, e nakoniec získa Krista, keï ho uvidí pri jeho druhom príchode (2 Tim 4:8).
+ZÃ¡hadnÃ½m pojmom je vÅ¡ak Pavlovo tvrdenie, Å¾e smrÅ¥ je zisk. ÄŒo tÃ½m myslÃ­? Ako mÃ´Å¾e Älovek profitovaÅ¥ zo svojej vlastnej smrti? Na zÃ¡klade Pavlovho Å¾elania, vyjadrenÃ©ho v FilipskÃ½m 1:23, â€odÃ­sÅ¥ a byÅ¥ s Kristomâ€œ (NKJV), niektorÃ­ usÃºdili, Å¾e Pavol potvrdzuje, Å¾e bude v prÃ­tomnosti Krista ihneÄ po smrti. TakÃ¡to predstava vÅ¡ak odporuje jasnÃ©mu biblickÃ©mu uÄeniu o nesmrteÄ¾nosti duÅ¡e a smrti ako spÃ¡nku. Aby sme pochopili, Äo Pavol myslel tÃ½m, Å¾e smrÅ¥ nazval ziskom, je uÅ¾itoÄnÃ© preskÃºmaÅ¥ jeho pouÅ¾itie pojmu â€ziskâ€œ (z grÃ©ckeho kerdos) a jeho prÃ­buznÃ©ho slovesa â€zÃ­skaÅ¥â€œ (z grÃ©ckeho kerdaino) na inÃ½ch miestach v jeho spisoch. V FilipskÃ½m 3:7, 8 Pavol spomÃ­na, Å¾e to, Äo predtÃ½m povaÅ¾oval za zisk (kerdos), teraz povaÅ¾uje za stratu â€kvÃ´li Kristoviâ€œ (FilipskÃ½m 3:7, NRSV, dÃ´raz pridanÃ½); to znamenÃ¡ â€kvÃ´li neporovnateÄ¾nej hodnote poznania Krista JeÅ¾iÅ¡aâ€œ (FilipskÃ½m 3:8, NRSV, dÃ´raz pridanÃ½). Pavol Äalej vysvetÄ¾uje: â€KvÃ´li nemu som utrpel stratu vÅ¡etkÃ©ho... aby som zÃ­skal [kerdaino] Kristaâ€œ (Fil 3:8, CSB). Pre Pavla je teda smrÅ¥ ziskom v tom zmysle, Å¾e nakoniec zÃ­ska Krista, keÄ ho uvidÃ­ pri jeho druhom prÃ­chode (2 Tim 4:8).
 
-Je tie moné, e „zisk“ (kerdos) v Filipskım 1:21 má misijnı vıznam. V 1 Korinanom 9:19–23 Pavol pouíva kerdaino ako misijnı termín: „Urobil som sa sluobníkom všetkıch, aby som získal [kerdaino] èo najviac; ... idom som sa stal ako id, aby som získal [kerdaino] idov; tım, ktorí sú pod zákonom, ako pod zákonom, aby som získal [kerdaino] tıch, ktorí sú pod zákonom; tım, ktorí sú bez zákona, ako bez zákona... aby som získal [kerdaino] tıch, ktorí sú bez zákona; slabım som sa stal slabım, aby som získal [kerdaino] slabıch“ (NKJV).
+Je tieÅ¾ moÅ¾nÃ©, Å¾e â€ziskâ€œ (kerdos) v FilipskÃ½m 1:21 mÃ¡ misijnÃ½ vÃ½znam. V 1 KorinÅ¥anom 9:19â€“23 Pavol pouÅ¾Ã­va kerdaino ako misijnÃ½ termÃ­n: â€Urobil som sa sluÅ¾obnÃ­kom vÅ¡etkÃ½ch, aby som zÃ­skal [kerdaino] Äo najviac; ... Å½idom som sa stal ako Å½id, aby som zÃ­skal [kerdaino] Å½idov; tÃ½m, ktorÃ­ sÃº pod zÃ¡konom, ako pod zÃ¡konom, aby som zÃ­skal [kerdaino] tÃ½ch, ktorÃ­ sÃº pod zÃ¡konom; tÃ½m, ktorÃ­ sÃº bez zÃ¡kona, ako bez zÃ¡kona... aby som zÃ­skal [kerdaino] tÃ½ch, ktorÃ­ sÃº bez zÃ¡kona; slabÃ½m som sa stal slabÃ½m, aby som zÃ­skal [kerdaino] slabÃ½châ€œ (NKJV).
 
-V tejto súvislosti je uitoènı nasledujúci komentár k Filipskım 1:21: „[Pavol] sa zaoberá zvelebovaním Krista. Ak jeho Pán povaoval za najlepšie, aby svedèil prostredníctvom ivota a sluby, správne by Ho reprezentoval. Ale smr spravodlivého èloveka môe by tie silnım potvrdením úèinnosti evanjelia milosti. Kontrast medzi jeho smrou a smrou èloveka, ktorı zomrie bez nádeje, by bol tak vıraznı, e jeho vplyv by priniesol zisk pre Kristovo krá¾ovstvo. Srdcia sú dojaté a zmiernené pokojnou istotou a dôverou èloveka, ktorı úplne dôveruje svojmu Bohu, aj v hodine smrti.“ – The SDA Bible Commentary, zväzok 7, s. 147, dôraz pridanı. Pavol veril, e jeho smr bude vyvrcholením jeho misijnej práce (Fi l 2,17; porovnaj s 2 Tim 4,6.7). Pravdepodobne si tie myslel, e obetovaním svojho ivota „povzbudí Filipanov k ïalšej sebaobetavosti alebo... niektorıch podnieti k tomu, aby preskúmali vieru, ktorej sa tak vytrvalo dral.“ —The SDA Bible Commentary, zväzok 7, s. 160.
+V tejto sÃºvislosti je uÅ¾itoÄnÃ½ nasledujÃºci komentÃ¡r k FilipskÃ½m 1:21: â€[Pavol] sa zaoberÃ¡ zvelebovanÃ­m Krista. Ak jeho PÃ¡n povaÅ¾oval za najlepÅ¡ie, aby svedÄil prostrednÃ­ctvom Å¾ivota a sluÅ¾by, sprÃ¡vne by Ho reprezentoval. Ale smrÅ¥ spravodlivÃ©ho Äloveka mÃ´Å¾e byÅ¥ tieÅ¾ silnÃ½m potvrdenÃ­m ÃºÄinnosti evanjelia milosti. Kontrast medzi jeho smrÅ¥ou a smrÅ¥ou Äloveka, ktorÃ½ zomrie bez nÃ¡deje, by bol tak vÃ½raznÃ½, Å¾e jeho vplyv by priniesol zisk pre Kristovo krÃ¡Ä¾ovstvo. Srdcia sÃº dojatÃ© a zmiernenÃ© pokojnou istotou a dÃ´verou Äloveka, ktorÃ½ Ãºplne dÃ´veruje svojmu Bohu, aj v hodine smrti.â€œ â€“ The SDA Bible Commentary, zvÃ¤zok 7, s. 147, dÃ´raz pridanÃ½. Pavol veril, Å¾e jeho smrÅ¥ bude vyvrcholenÃ­m jeho misijnej prÃ¡ce (Fi l 2,17; porovnaj s 2 Tim 4,6.7). Pravdepodobne si tieÅ¾ myslel, Å¾e obetovanÃ­m svojho Å¾ivota â€povzbudÃ­ Filipanov k ÄalÅ¡ej sebaobetavosti alebo... niektorÃ½ch podnieti k tomu, aby preskÃºmali vieru, ktorej sa tak vytrvalo drÅ¾al.â€œ â€”The SDA Bible Commentary, zvÃ¤zok 7, s. 160.
 
-Pavol povaoval smr za zisk, pretoe pri svojom ïalšom vedomom záitku pri vzkriesení uvidí Krista. Zároveò bol Pavol presvedèenı, e medzi svojou smrou a druhım príchodom bude spa v hrobe.
+Pavol povaÅ¾oval smrÅ¥ za zisk, pretoÅ¾e pri svojom ÄalÅ¡om vedomom zÃ¡Å¾itku pri vzkriesenÃ­ uvidÃ­ Krista. ZÃ¡roveÅˆ bol Pavol presvedÄenÃ½, Å¾e medzi svojou smrÅ¥ou a druhÃ½m prÃ­chodom bude spaÅ¥ v hrobe.
 
-**Smr je ako spánok**
+**SmrÅ¥ je ako spÃ¡nok**
 
-Pavol porovnal smr so spánkom (1 Tes 4,14.15), èím naznaèil stav bezvedomia. Táto myšlienka je v súlade s Jeišovım uèením v evanjeliách (Lukáš 8,52.53; Ján 11,11–13). Jednım z jasnıch príkladov je príbeh o vzkriesení Jairovej dcéry. Zaujímavé je, e zatia¾ èo Matúš a Marek spomínajú len to, e ¾udia sa vysmievali Jeišovmu tvrdeniu, e dievèa spí (Mat. 9:24; Marek 5:39, 40), Lukášovo pozorovanie ako lekára je presnejšie: „A oni sa mu vysmievali, vediac, e je màtva“ (Lukáš 8:53, NKJV, dôraz pridanı). Okrem toho kniha Skutky apoštolov, ktorú tie napísal Lukáš, opisuje smr Štefana slovami: „zaspal“ (Skutky 7:60, NKJV). To isté sa hovorí o Dávidovi (Skutky 13:36).
+Pavol porovnal smrÅ¥ so spÃ¡nkom (1 Tes 4,14.15), ÄÃ­m naznaÄil stav bezvedomia. TÃ¡to myÅ¡lienka je v sÃºlade s JeÅ¾iÅ¡ovÃ½m uÄenÃ­m v evanjeliÃ¡ch (LukÃ¡Å¡ 8,52.53; JÃ¡n 11,11â€“13). JednÃ½m z jasnÃ½ch prÃ­kladov je prÃ­beh o vzkriesenÃ­ Jairovej dcÃ©ry. ZaujÃ­mavÃ© je, Å¾e zatiaÄ¾ Äo MatÃºÅ¡ a Marek spomÃ­najÃº len to, Å¾e Ä¾udia sa vysmievali JeÅ¾iÅ¡ovmu tvrdeniu, Å¾e dievÄa spÃ­ (Mat. 9:24; Marek 5:39, 40), LukÃ¡Å¡ovo pozorovanie ako lekÃ¡ra je presnejÅ¡ie: â€A oni sa mu vysmievali, vediac, Å¾e je mÅ•tvaâ€œ (LukÃ¡Å¡ 8:53, NKJV, dÃ´raz pridanÃ½). Okrem toho kniha Skutky apoÅ¡tolov, ktorÃº tieÅ¾ napÃ­sal LukÃ¡Å¡, opisuje smrÅ¥ Å tefana slovami: â€zaspalâ€œ (Skutky 7:60, NKJV). To istÃ© sa hovorÃ­ o DÃ¡vidovi (Skutky 13:36).
 
-V súvislosti so smrou „otcov“ Peter hovorí, e „zaspali“ (2 Pet. 3:4, NKJV). Uèenci diskutujú o tom, èi Peter pod pojmom „otcovia“ myslel predchádzajúcu generáciu kresanov alebo patriarchov, ale toto rozlíšenie je irelevantné. Akoko¾vek to je, smr je opísaná ako stav bezvedomia, podobnı tomu, èo sa deje, keï kadú noc zaspávame. Je tie pozoruhodné, e „mnohé telá svätıch, ktorí zaspali, boli vzkriesené“ pri Jeišovom vzkriesení (Matúš 27:52, NKJV, dôraz pridanı). Tento úryvok z Matúšovho evanjelia je dôleitı nielen preto, e prirovnáva smr k spánku, ale aj preto, e jasne poukazuje na vzkriesenie tela ako liek na smr.
+V sÃºvislosti so smrÅ¥ou â€otcovâ€œ Peter hovorÃ­, Å¾e â€zaspaliâ€œ (2 Pet. 3:4, NKJV). UÄenci diskutujÃº o tom, Äi Peter pod pojmom â€otcoviaâ€œ myslel predchÃ¡dzajÃºcu generÃ¡ciu kresÅ¥anov alebo patriarchov, ale toto rozlÃ­Å¡enie je irelevantnÃ©. AkokoÄ¾vek to je, smrÅ¥ je opÃ­sanÃ¡ ako stav bezvedomia, podobnÃ½ tomu, Äo sa deje, keÄ kaÅ¾dÃº noc zaspÃ¡vame. Je tieÅ¾ pozoruhodnÃ©, Å¾e â€mnohÃ© telÃ¡ svÃ¤tÃ½ch, ktorÃ­ zaspali, boli vzkriesenÃ©â€œ pri JeÅ¾iÅ¡ovom vzkriesenÃ­ (MatÃºÅ¡ 27:52, NKJV, dÃ´raz pridanÃ½). Tento Ãºryvok z MatÃºÅ¡ovho evanjelia je dÃ´leÅ¾itÃ½ nielen preto, Å¾e prirovnÃ¡va smrÅ¥ k spÃ¡nku, ale aj preto, Å¾e jasne poukazuje na vzkriesenie tela ako liek na smrÅ¥.
 
-Ako u bolo spomenuté, Pavlova viera, e smr je prirovnaná k spánku, je hlboko zakorenená v Jeišovom uèení a zhoduje sa s myšlienkou vyjadrenou inımi apoštolmi. Biblia teda nepopisuje smr ako stav vedomia, ako si mnohí myslia.
+Ako uÅ¾ bolo spomenutÃ©, Pavlova viera, Å¾e smrÅ¥ je prirovnanÃ¡ k spÃ¡nku, je hlboko zakorenenÃ¡ v JeÅ¾iÅ¡ovom uÄenÃ­ a zhoduje sa s myÅ¡lienkou vyjadrenou inÃ½mi apoÅ¡tolmi. Biblia teda nepopisuje smrÅ¥ ako stav vedomia, ako si mnohÃ­ myslia.
 
 **Jednota v Kristovi**
 
-Filipskım 1:27 zaèína èas listu (Filipskım 1:27–30), v ktorej Pavol prechádza od diskusie o svojom vlastnom utrpení k utrpeniu svojich poslucháèov v ich práci pre Krista. V Filipskım 1:27 sa objavujú dve k¾úèové témy: ivot podobnı Kristovmu a jednota. Veriaci sú povolaní, aby preukazovali vynikajúce správanie a zostali jednotní napriek tvrdohlavému odporu a utrpeniu, ktorému èelia pre svoju vieru v Krista.
+FilipskÃ½m 1:27 zaÄÃ­na ÄasÅ¥ listu (FilipskÃ½m 1:27â€“30), v ktorej Pavol prechÃ¡dza od diskusie o svojom vlastnom utrpenÃ­ k utrpeniu svojich posluchÃ¡Äov v ich prÃ¡ci pre Krista. V FilipskÃ½m 1:27 sa objavujÃº dve kÄ¾ÃºÄovÃ© tÃ©my: Å¾ivot podobnÃ½ Kristovmu a jednota. Veriaci sÃº povolanÃ­, aby preukazovali vynikajÃºce sprÃ¡vanie a zostali jednotnÃ­ napriek tvrdohlavÃ©mu odporu a utrpeniu, ktorÃ©mu Äelia pre svoju vieru v Krista.
 
-Pavol pouíva dve k¾úèové frázy, aby zdôraznil typ spojenia, ktoré by malo charakterizova vzah medzi veriacimi, a to „jeden duch“ a „jedna myse¾“ (Fil 1,27, NKJV). Tento jazyk spoloèenstva sa tiahne celım listom.
+Pavol pouÅ¾Ã­va dve kÄ¾ÃºÄovÃ© frÃ¡zy, aby zdÃ´raznil typ spojenia, ktorÃ© by malo charakterizovaÅ¥ vzÅ¥ah medzi veriacimi, a to â€jeden duchâ€œ a â€jedna myseÄ¾â€œ (Fil 1,27, NKJV). Tento jazyk spoloÄenstva sa tiahne celÃ½m listom.
 
-V tomto kontexte Pavol potvrdzuje, e Filipania by naplnili jeho rados „tım, e budú ma rovnakú myse¾, rovnakú lásku, budú v plnej zhode a jednej mysle“ (Filipskım 2:2, ESV). V Filipskım 4:1–3 Pavol naznaèuje, e jednota je k¾úèová pre naplnenie misie.
+V tomto kontexte Pavol potvrdzuje, Å¾e Filipania by naplnili jeho radosÅ¥ â€tÃ½m, Å¾e budÃº maÅ¥ rovnakÃº myseÄ¾, rovnakÃº lÃ¡sku, budÃº v plnej zhode a jednej mysleâ€œ (FilipskÃ½m 2:2, ESV). V FilipskÃ½m 4:1â€“3 Pavol naznaÄuje, Å¾e jednota je kÄ¾ÃºÄovÃ¡ pre naplnenie misie.
 
-Filipskım 4:3 uvádza štyri zloené slová, ktoré zaèínajú gréckou èasticou _syn_ („s“ alebo „spolu s“); _syzygos_ („spolupracovník“); _syllambano_ (doslova „bra spolu“); _synathleo_ („bojova spolu s“); a _synergos_ („spolupracovník“). Pavol tak spomína eny, ktoré „spolupracovali“ (NKJV) s ním v evanjeliu, a tie „spolupracovníkov“ (NKJV), ktorí sa všetci podie¾ali na misii.
+FilipskÃ½m 4:3 uvÃ¡dza Å¡tyri zloÅ¾enÃ© slovÃ¡, ktorÃ© zaÄÃ­najÃº grÃ©ckou Äasticou _syn_ (â€sâ€œ alebo â€spolu sâ€œ); _syzygos_ (â€spolupracovnÃ­kâ€œ); _syllambano_ (doslova â€braÅ¥ spoluâ€œ); _synathleo_ (â€bojovaÅ¥ spolu sâ€œ); a _synergos_ (â€spolupracovnÃ­kâ€œ). Pavol tak spomÃ­na Å¾eny, ktorÃ© â€spolupracovaliâ€œ (NKJV) s nÃ­m v evanjeliu, a tieÅ¾ â€spolupracovnÃ­kovâ€œ (NKJV), ktorÃ­ sa vÅ¡etci podieÄ¾ali na misii.
 
-#### Èást III: Aplikace
+#### ÄŒÃ¡st III: Aplikace
 
-Rozmıš¾ajte nad nasledujúcimi témami. Potom poiadajte svojich študentov, aby odpovedali na otázky na konci tejto èasti.
+RozmÃ½Å¡Ä¾ajte nad nasledujÃºcimi tÃ©mami. Potom poÅ¾iadajte svojich Å¡tudentov, aby odpovedali na otÃ¡zky na konci tejto Äasti.
 
-Jeiš povedal: „Uèeník nie je nad svojho uèite¾a, ani sluha nad svojho pána“ (Matúš 10:24, NKJV). Toto uèenie zahàòa okrem iného odmietnutie, utrpenie a dokonca aj muèeníctvo. V Jánovi 15:20 Jeiš hovorí: „Ak prenasledovali mòa, budú prenasledova aj vás“ (NKJV). Ako pracovníci v Kristovej veci máme by pripravení na aké èasy. Biblia odha¾uje, e Satan usilovne pracuje v tomto svete, aby zabránil hlásaniu evanjelia všetkım národom, kmeòom, jazykom a ¾uïom, lebo „vie, e má málo èasu“ (Zjavenie 12:12, NKJV). Boí ¾ud musí tie usilovne pracova.
+JeÅ¾iÅ¡ povedal: â€UÄenÃ­k nie je nad svojho uÄiteÄ¾a, ani sluha nad svojho pÃ¡naâ€œ (MatÃºÅ¡ 10:24, NKJV). Toto uÄenie zahÅ•Åˆa okrem inÃ©ho odmietnutie, utrpenie a dokonca aj muÄenÃ­ctvo. V JÃ¡novi 15:20 JeÅ¾iÅ¡ hovorÃ­: â€Ak prenasledovali mÅˆa, budÃº prenasledovaÅ¥ aj vÃ¡sâ€œ (NKJV). Ako pracovnÃ­ci v Kristovej veci mÃ¡me byÅ¥ pripravenÃ­ na Å¥aÅ¾kÃ© Äasy. Biblia odhaÄ¾uje, Å¾e Satan usilovne pracuje v tomto svete, aby zabrÃ¡nil hlÃ¡saniu evanjelia vÅ¡etkÃ½m nÃ¡rodom, kmeÅˆom, jazykom a Ä¾uÄom, lebo â€vie, Å¾e mÃ¡ mÃ¡lo Äasuâ€œ (Zjavenie 12:12, NKJV). BoÅ¾Ã­ Ä¾ud musÃ­ tieÅ¾ usilovne pracovaÅ¥.
 
-Kristus nás teda vyzıva, aby sme ili pre misiu. A ak zomrieme pri plnení nášho misijného poslania, máme istotu, e budeme spa v hrobe a èaka na vzkriesenie pri druhom príchode. Boh nezabúda na tıch, ktorí zomrú vo vernosti posolstvu tretieho anjela. Je im s¾úbené: „Blahoslavení sú màtvi, ktorí odteraz zomierajú v Pánovi.“ „Áno,“ hovorí Duch, „aby odpoèívali od svojich prác a ich skutky ich nasledovali“ (Zjavenie 14:13, NKJV). Teraz je potrebná vytrvalos (Zjavenie 14:12). Sme povolaní, aby sme vzali svoj krí a nasledovali Krista (Mat. 10:38) a do dòa, keï vymeníme krí za korunu ivota (Zj. 2:10). Medzitım musíme spolupracova proti spoloènému nepriate¾ovi. Pavol hovorí: „Nebojujeme proti telu a krvi, ale... proti duchovnım silám zla“ (Ef. 6:12, NKJV). Zjednotení v Kristovi a odetí Boou zbrojou zvíazíme!
+Kristus nÃ¡s teda vyzÃ½va, aby sme Å¾ili pre misiu. A ak zomrieme pri plnenÃ­ nÃ¡Å¡ho misijnÃ©ho poslania, mÃ¡me istotu, Å¾e budeme spaÅ¥ v hrobe a ÄakaÅ¥ na vzkriesenie pri druhom prÃ­chode. Boh nezabÃºda na tÃ½ch, ktorÃ­ zomrÃº vo vernosti posolstvu tretieho anjela. Je im sÄ¾ÃºbenÃ©: â€BlahoslavenÃ­ sÃº mÅ•tvi, ktorÃ­ odteraz zomierajÃº v PÃ¡novi.â€œ â€Ãno,â€œ hovorÃ­ Duch, â€aby odpoÄÃ­vali od svojich prÃ¡c a ich skutky ich nasledovaliâ€œ (Zjavenie 14:13, NKJV). Teraz je potrebnÃ¡ vytrvalosÅ¥ (Zjavenie 14:12). Sme povolanÃ­, aby sme vzali svoj krÃ­Å¾ a nasledovali Krista (Mat. 10:38) aÅ¾ do dÅˆa, keÄ vymenÃ­me krÃ­Å¾ za korunu Å¾ivota (Zj. 2:10). MedzitÃ½m musÃ­me spolupracovaÅ¥ proti spoloÄnÃ©mu nepriateÄ¾ovi. Pavol hovorÃ­: â€Nebojujeme proti telu a krvi, ale... proti duchovnÃ½m silÃ¡m zlaâ€œ (Ef. 6:12, NKJV). ZjednotenÃ­ v Kristovi a odetÃ­ BoÅ¾ou zbrojou zvÃ­Å¥azÃ­me!
 
-**Otázky:**
+**OtÃ¡zky:**
 
-1.	Spomeòte si na situáciu, keï ste trpeli náboenskım prenasledovaním. Ako utrpenie pre Krista posilnilo vašu vieru?
+1.	SpomeÅˆte si na situÃ¡ciu, keÄ ste trpeli nÃ¡boÅ¾enskÃ½m prenasledovanÃ­m. Ako utrpenie pre Krista posilnilo vaÅ¡u vieru?
 
-2.	K akej misii vás Kristus povolal? Ako plníte túto úlohu pre Neho?
+2.	K akej misii vÃ¡s Kristus povolal? Ako plnÃ­te tÃºto Ãºlohu pre Neho?
