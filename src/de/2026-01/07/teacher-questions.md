@@ -46,5 +46,50 @@ erreichen kann."* (Gerhard Uhlenbruck)
 
 **MONTAG**
 
+**Philipper 3,20-23:** *"Wir aber sind Bürger im Himmel; woher wir auch
+erwarten den Heiland, den Herrn Jesus Christus, 21 der unsern geringen
+Leib verwandeln wird, dass er gleich werde seinem verherrlichten Leibe
+nach der Kraft, mit der er sich alle Dinge untertan machen kann."*
+
+**ZITAT:** *"Die Menschen werden nicht als Staatsbürger geboren sondern
+erst dazu gemacht."* (Baruch de Spinoza)
+
+-   Wodurch wird man Staatsbürger eines bestimmten Staates?
+    -   Wie wird man Bürger des Himmels?
+-   Was bedeutet es, Staatsbürger eines bestimmten Staates zu sein?
+    -   Mit welchen Rechten und Pflichten ist das verbunden? 
+        -   Welche Rechte und Pflichten haben wir als Bürger des
+            Himmels?
+-   Wieso verbindet Paulus unsere himmlische Bürgerschaft mit der
+    Wiederkunft Jesu?
+
+**DIENSTAG**
+
+**Philipper 4,4-7:** *"Freuet euch in dem Herrn allewege, und abermals
+sage ich: Freuet euch! 5 Eure Güte lasst kund sein allen Menschen! Der
+Herr ist nahe! 6 Sorgt euch um nichts, sondern in allen Dingen lasst
+eure Bitten in Gebet und Flehen mit Danksagung vor Gott kundwerden! 7
+Und der Friede Gottes, der höher ist als alle Vernunft, wird eure Herzen
+und Sinne bewahren in Christus Jesus."*
+
+-   In welcher Verbindung steht die Freude mit der Güte einerseits und
+    dem Bewusstsein über die nahe Wiederkunft andererseits?
+-   Gütig sein gegenüber dem anderen: wie äußert sich das?
+
+**ZITAT:** *"Güte bricht einem kein Bein" (Deutsches Sprichwort)*
+
+-   "Sorgt euch um nichts!" Wie sehr gelingt euch das im Alltag?
+-   Welche Sorgen sind eurer Meinung nach notwendig, welche nicht?
+    -   Wann macht man sich übertrieben Sorgen?
+-   Welche Sorgen dürfen (sollen) wir uns als Christen dann überhaupt
+    noch machen?
+
+Der Friede Gottes:
+
+-   Was ist der Friede Gottes?
+-   Worin unterscheiden wir uns (wirklich) von Menschen, die nicht mit
+    Gott unterwegs sind? Denn wir alle leben ja in der gleichen
+    unruhigen und unfriedlichen Welt?
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
