@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-Intro.pdf
+      title: Intshayelelo
+      target: xh/2026-01/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-01.pdf
+      target: xh/2026-01/01
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-02.pdf
+      target: xh/2026-01/02
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-03.pdf
+      target: xh/2026-01/03
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-04.pdf
+      target: xh/2026-01/04
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-05.pdf
+      target: xh/2026-01/05
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-06.pdf
+      target: xh/2026-01/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-07.pdf
+      target: xh/2026-01/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-08.pdf
+      target: xh/2026-01/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-09.pdf
+      target: xh/2026-01/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-10.pdf
+      target: xh/2026-01/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-11.pdf
+      target: xh/2026-01/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-12.pdf
+      target: xh/2026-01/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/xh/2026-01/ABSG-2026-01-XH-13.pdf
+      target: xh/2026-01/13
