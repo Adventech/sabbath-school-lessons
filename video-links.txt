@@ -2,6 +2,8 @@ yt-dlp "https://www.youtube.com/watch?v=Um0mqy4VqFQ" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=5z22wULIbWA" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "tp/tp-en-2026-01-04.mp4"
 
+yt-dlp "https://youtu.be/0GUFQijSPv0?si=HqQCBl4w445eHnKm" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "iiw/iiw-en-2026-01-04.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=EeS-3Z5GIMQ" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/her/es-2026-01-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=ZuohdcT7r5E" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/em/fr-em-2026-01-04.mp4"
@@ -9,6 +11,8 @@ yt-dlp "https://www.youtube.com/watch?v=ZuohdcT7r5E" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=UyS6ZgHKtPw" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/esj/fr-esj-2026-01-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=9HlYBHkHcPM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "fr/ffn/fr-ffn-2026-01-04.mp4"
+
+yt-dlp "https://youtu.be/mEOR-e4H-w0?si=XwWfbKE1W0prArZX" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "es/ee/es-2026-01-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=lvouiluOzAU" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "cs/cs-2026-01-04.mp4"
 
