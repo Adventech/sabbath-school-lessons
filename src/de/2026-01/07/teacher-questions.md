@@ -91,5 +91,52 @@ Der Friede Gottes:
     Gott unterwegs sind? Denn wir alle leben ja in der gleichen
     unruhigen und unfriedlichen Welt?
 
+**MITTWOCH**
+
+**Philipper 4,8.9:** *"Weiter, Brüder und Schwestern: Was wahrhaftig
+ist, was ehrbar, was gerecht, was rein, was liebenswert, was einen guten
+Ruf hat, sei es eine Tugend, sei es ein Lob – darauf seid bedacht! 9 Was
+ihr gelernt und empfangen und gehört und gesehen habt an mir, das tut;
+so wird der Gott des Friedens mit euch sein."*
+
+-   Was meint Paulus, wenn er vorschlägt, auf diese Werte *"**bedacht**
+    zu sein"*?
+
+**ZITAT:** *"Gedanken, die unseren Geist beherrschen, spielen in unserem
+Leben die erste Geige."* (Ernst Ferstl)
+
+Lesen wir Vers 9 einmal so: Paulus ermutigt uns, uns mit guten Dingen zu
+beschäftigen.
+
+-   Welchen Einfluss hat das, womit wir unser Gehirn "füttern" auf
+    unsere Gedanken, auf unser Denken und damit auf unser Leben?
+-   Welche Schlussfolgerungen sollten wir daraus ziehen?
+    -   Von welchen Dingen würdet ihr sagen, dass die Beschäftigung mit
+        ihnen uns negativ beeinflusst und wir sie daher meiden sollten?
+    -   Welche Erfahrungen habt ihr persönlich damit schon gemacht?
+
+**DONNERSTAG**
+
+**Philipper 4,10-19:** ''"Ich bin aber hocherfreut in dem Herrn, dass
+ihr wieder eifrig geworden seid, für mich zu sorgen; ihr wart zwar immer
+darauf bedacht, aber die Zeit hat’s nicht zugelassen. 11 Ich sage das
+nicht, weil ich Mangel leide; denn ich habe gelernt, mir genügen zu
+lassen, wie’s mir auch geht. 12 Ich kann niedrig sein und kann hoch
+sein; mir ist alles und jedes vertraut: beides, satt sein und hungern,
+beides, Überfluss haben und Mangel leiden; 13 ich vermag alles durch
+den, der mich mächtig macht. 14 Doch ihr habt wohl daran getan, dass ihr
+meine Bedrängnis geteilt habt. 15 Denn ihr Philipper wisst auch, dass am
+Anfang meiner Predigt des Evangeliums, als ich auszog aus Makedonien,
+keine Gemeinde mit mir Gemeinschaft gehabt hat im Geben und Nehmen als
+ihr allein. 16 Denn auch nach Thessalonich habt ihr etwas gesandt für
+meinen Bedarf, einmal und danach noch einmal. 17 Nicht, dass ich das
+Geschenk suche, sondern ich suche die Frucht, damit sie euch reichlich
+angerechnet wird. 18 Ich habe aber alles erhalten und habe Überfluss.
+Ich habe in Fülle, nachdem ich durch Epaphroditus empfangen habe, was
+von euch gekommen ist: ein lieblicher Geruch, ein angenehmes Opfer, Gott
+gefällig. 19 Mein Gott aber wird all eurem Mangel abhelfen nach seinem
+Reichtum in Herrlichkeit in Christus Jesus. 20 Gott aber, unserm Vater,
+sei Ehre von Ewigkeit zu Ewigkeit! Amen."'
+
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
