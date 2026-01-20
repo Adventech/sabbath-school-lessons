@@ -15,9 +15,9 @@ let downloadEGWaudio = async function() {
     const parser = new XMLParser({ignoreAttributes : false});
     let quarter = getCurrentQuarter()
     const nextQuarter = getNextQuarter()
-    const podcastQuarter = quarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
-    const podcastQuarterNext = nextQuarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1 Q$3')
-    const LESSON_NUMBER = new RegExp(`(${podcastQuarter}|${podcastQuarterNext})\\s*Lesson\\s*(\\d+)`, 'gm')
+    const podcastQuarter = quarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1-Q$3')
+    const podcastQuarterNext = nextQuarter.replace(/(\d\d\d\d)-(\d)(\d)/g, '$1-Q$3')
+    const LESSON_NUMBER = new RegExp(`(${podcastQuarter}|${podcastQuarterNext})-Lesson-(\\d*)\\.mp3$`, 'gm')
 
     const TIMESTAMPS = /(\d\d?:\d\d(?! Duration))/gm
     let response
@@ -38,7 +38,7 @@ let downloadEGWaudio = async function() {
     for (let episode of rss.rss.channel.item) {
         if (!found) {
             // Identifying the lesson #
-            let lesson = LESSON_NUMBER.exec(episode.title.trim())
+            let lesson = LESSON_NUMBER.exec(episode.enclosure['@_url'].trim())
 
             if (lesson && lesson[1] && lesson[2]) {
                 quarter = lesson[1].replace(/ /gm, '-').replace(/Q/, '0')
@@ -191,7 +191,7 @@ let downloadUKAudio = async function() {
                     let exists = await axios.head(remoteFileUrl);
                     if (exists.status === 200) {
                         // exist on remote add to download list
-                        commands += `mkdir -p audio/uk/${quarter}/ && ffmpeg -y -i ${remoteFileUrl} -vn -acodec libmp3lame -ab 192k audio/uk/${quarter}/${date.format(DATE_FORMAT)}.mp3\n`
+                        commands += `mkdir -p audio/uk/${quarter}/ && ffmpeg -y -i ${remoteFileUrl} -c:a copy audio/uk/${quarter}/${date.format(DATE_FORMAT)}.m4a\n`
                     }
                 }
             } catch (e) {}
@@ -264,7 +264,7 @@ let downloadGermanAudio = async function() {
 
 let run = async function () {
     await downloadEGWaudio();
-    // await downloadUKAudio();
+    await downloadUKAudio();
     await downloadRussianAudio();
     await downloadGermanAudio();
 }
