@@ -18,12 +18,8 @@ jobs:
         with:
           node-version: '12'
           check-latest: true
-      - name: Install FFMPEG
-        uses: FedericoCarboni/setup-ffmpeg@v3
-        id: setup-ffmpeg
-        with:
-          ffmpeg-version: release
-          github-token: ${{ github.server_url == 'https://github.com' && github.token || '' }}
+      - name: Setup FFmpeg
+        uses: AnimMouse/setup-ffmpeg@v1
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
         with:
