@@ -1,4 +1,4 @@
-yt-dlp "https://www.youtube.com/watch?v=H58qfA08pU0" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2026-01-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=6w9Bf1ec3oY" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "en/af/en-af-2026-01-04.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=7_AUhneOOkM" -S vcodec:h264,res:1080,acodec:m4a --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2026-01-04.mp4"
 
