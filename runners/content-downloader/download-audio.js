@@ -130,9 +130,6 @@ let downloadRussianAudio = async function() {
 
         if (!response || (response && response.status !== 200)) {
             try {
-                console.log(`Sleeping for 500ms`)
-                await new Promise(resolve => setTimeout(resolve, 500));
-
                 let remoteUrl = `https://www.adventistfiles.net/documents/ss/${currentQuarter.slice(0, 4)}/${currentQuarter.slice(-1)}/adult/mp3/ss_${currentQuarter.slice(0, 4)}_0${currentQuarter.slice(-1)}_${String(week).padStart(2, '0')}.mp3`
                 let remoteResponse = await axios.head(remoteUrl)
                 if (remoteResponse.status === 200) {
@@ -197,8 +194,6 @@ let downloadUKAudio = async function() {
             } catch (e) {}
 
             date.add(1, 'd')
-            console.log(`Sleeping for 500ms`)
-            await new Promise(resolve => setTimeout(resolve, 500));
         }
         fs.appendFileSync(`${WORKING_DIR}/audio-commands.txt`, commands);
     } catch (e) {
