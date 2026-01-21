@@ -30,3 +30,5 @@ Nasledujúci týždeň sa Alvanovi podarilo ušetriť ďalších 20 šilingov a 
 Niekedy je Alvan v pokušení kúpiť si orechy alebo zmrzlinu, ale pripomína si, že v sobotu musí mať 20 šilingov pre Boha.
 
 „Pripomínam si, že Božie dielo je lepšie ako to, čo chcem ja,“ povedal.
+
+![Alvan Harold](picture4.jpg)
