@@ -54,7 +54,6 @@ Biblia indică în mod clar că Dumnezeu a inițiat procesul de împăcare a ome
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Beneficiar</span></p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text"><span class="Commonly-Used_Bold">Agentul intermediar</span></p></td>
     </tr>
-
     <tr class="Basic-Table">
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">2 Corinteni 5:18</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
@@ -63,7 +62,6 @@ Biblia indică în mod clar că Dumnezeu a inițiat procesul de împăcare a ome
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">cu El</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">prin Isus Hristos</p></td>
     </tr>
-
     <tr class="Basic-Table">
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">2 Corinteni 5:19</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
@@ -72,7 +70,6 @@ Biblia indică în mod clar că Dumnezeu a inițiat procesul de împăcare a ome
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">cu Sine</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">în Hristos</p></td>
     </tr>
-
     <tr class="Basic-Table">
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Coloseni 1:20</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
@@ -81,7 +78,6 @@ Biblia indică în mod clar că Dumnezeu a inițiat procesul de împăcare a ome
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">cu Sine</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">prin sângele crucii Lui [Hristos]</p></td>
     </tr>
-
     <tr class="Basic-Table">
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Efeseni 2:4,5</p></td>
       <td class="Basic-Table"><p class="Contents-Page_Common-for-Teachers_Objectives_Body-Text">Dumnezeu</p></td>
