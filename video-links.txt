@@ -1,13 +1,7 @@
-yt-dlp "https://www.youtube.com/watch?v=6w9Bf1ec3oY" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/af/en-af-2026-01-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=aEURSCVgRzk" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2026-01-05.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=u1YnfI5QZIU" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2026-01-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=pWNo268_Rh8" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "inv/en-2026-01-inv-05.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=LUSFzK24EdM" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2026-01-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=y8xtEd8FT8M" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/af/de-af-2026-01-05.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=7_AUhneOOkM" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2026-01-04.mp4"
-
-yt-dlp "https://youtu.be/PIyrbExOW0I?si=MhCd8OqBhxkJ29Ad" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2026-01-04.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=oAhEy9SG64M" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ilo/ilo-2026-01-04.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=K3boTfIa8oY" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pl/pl-2026-01-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=W9L_MoOAsbI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/bul/es-2026-01-05.mp4"
