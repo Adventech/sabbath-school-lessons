@@ -40,4 +40,6 @@ yt-dlp "https://www.youtube.com/watch?v=oKZAl2bmUWY" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=Ppik9kOPnLI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2026-01-05.mp4"
 
+yt-dlp "https://youtu.be/bIxm65a49kw?si=Nlyb3GGW4ZOJv5-q" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ta/ta-2026-01-05.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=CJnaGbM3bWg" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2026-01-05.mp4"
