@@ -3,24 +3,22 @@ title:  Misijní příběh
 date:   30/01/2026
 ---
 
-#### Žiadne diablove putá
+#### Žádné démonské provazy
 
 _Olivia Fairfax_
 
-Kmeňoví príslušníci lagúny Marovo boli považovaní za najbojovnejších a najkanibalistickejších z kmeňov na Šalamúnových ostrovoch. Uctievali duchov svojich predkov, ktorých lebky boli po smrti uchovávané. Žili v strachu z diabla.
+Kmeny z laguny Marovo byly považovány za nejbojovnější a nejkanibalističtější z kmenů Šalamounových ostrovů. Uctívaly duchy svých předků, jejichž lebky si po smrti uchovávaly. Žily ve strachu z démonů.
 
-Okolo roku 1902 si však marovský náčelník menom Tatagu začal klásť otázku, či sa diabla naozaj musí báť. Rozhodol sa to zistiť a na rybársku výpravu nepripevniť na provu svojej kanoe vinič, ktorý mal podľa tradície upokojovať diabla a zabezpečiť dobrý úlovok. Bez viniča bola rybárska výprava obrovským úspechom. Náčelník Tatagu sa vrátil domov a našiel novonarodeného syna. Chlapcovi dal meno Kata Ragoso, čo znamená „žiadne diablove putá“.
+Ale kolem roku 1902 si náčelník Marova jménem Tatagu začal klást otázku, zda se opravdu musí démonů bát. Rozhodl se to zjistit a při rybářské výpravě nepřipevnil na příď své kánoe lano z liány. Liána měla uklidnit démony a zajistit dobrý úlovek. Ale i bez liány byla rybářská výprava nakonec velkým úspěchem. Náčelník Tatagu se vrátil domů, našel novorozeného syna a pojmenoval ho Kata Ragoso, což znamená „žádné démonské provazy“.
 
-Život Kata Ragosa následne ukazoval Božiu moc transformovať celú komunitu a odstrániť putá, ktoré mal diabol nad ľuďmi.
+Život Kata Ragosa měl v budoucnu odhalit Boží moc proměnit komunitu a odstranit provazy a pouta, které měl ďábel nad lidmi.
 
-Kata Ragoso vyrastal v období, keď nečestní európski obchodníci lákali obyvateľov Šalamúnových ostrovov na svoje lode so zahraničným tovarom, aby ich uniesli ako otrokov. V roku 1914, keď mal Kata Ragoso asi 12 rokov, vplávala do lagúny Marovo malá biela loď s názvom Advent Herald. Posádka sa nesnažila nikoho zlákať ani uniesť. Namiesto toho kapitán Griffiths F. Jones požiadal náčelníka Tatagu o pozemok pre školu.
+Kata Ragoso vyrůstal v době, kdy nepoctiví evropští obchodníci lákali obyvatele Šalamounových ostrovů ke svým lodím na zahraniční zboží, aby je unesli jako otroky. Ale v roce 1914, když bylo Katovi Ragosovi asi 12 let, připlula do laguny Marovo malá bílá loď pojmenovaná "Advent Herald". Posádka se nepokoušela nikoho lákat ani unášet. Místo toho kapitán Griffiths F. Jones požádal náčelníka Tatagu o pozemek pro školu. Následující rok byla v Sasaghaně postavena škola a Kata Ragoso se zapsal jako jeden z prvních 23 studentů. Ve škole přijal Ježíše a v roce 1918 byl mezi prvními deseti obyvateli Šalamounových ostrovů, kteří byli pokřtěni. Poté pracoval jako misijní učitel, překladatel a tiskař. V roce 1935 byl vysvěcen na adventistického duchovního.
 
-Nasledujúci rok bola v Sasaghane postavená škola a Kata Ragoso sa zapísal ako jeden z prvých 23 študentov. V škole prijal Ježiša a stal sa jedným z prvých 10 obyvateľov Šalamúnových ostrovov, ktorí boli pokrstení v roku 1918. Pokračoval v práci ako misijný učiteľ, prekladateľ a operátor tlačiarenského lisu. V roku 1935 bol ordinovaný za adventistického kazateľa.
+Během druhé světové války byl Kata Ragoso pověřen vedením práce adventistů na Šalamounových ostrovech. Když japonská armáda vtrhla na ostrovy, nařídila mu zabíjet lidi s bílou pletí a příslušníky spojeneckých sil. Protože prohlásil, že raději bude poslouchat Boha než člověka, byl vyslýchán, bičován a nakonec odsouzen k smrti zastřelením. Vyšetřující důstojník, který měl silnou averzi vůči Církvi adventistů, nařídil popravčí četě, aby střílela, když napočítá do tří. Napočítal „jedna, dva...“, ale nebyl schopen říct „tři“. Zkoušel to mnohokrát, než to vzdal. Po deseti dnech věznění Kata Ragoso uprchl. Po zbytek války vedl záchranné operace pro spojence, jejichž letadla nebo lodě byly napadeny. Zachránil 27 amerických pilotů a 187 australských a novozélandských vojáků.
 
-Počas druhej svetovej vojny bol Kata Ragoso poverený vedením adventistického diela na Šalamúnových ostrovoch. Keď japonská armáda napadla ostrovy, nariadili mu, aby zabíjal ľudí s bielou pokožkou a príslušníkov spojeneckých síl. Za vyhlásenie, že radšej bude poslúchať Boha než človeka, bol vypočúvaný, bičovaný a mal byť zastrelený. Vyšetrujúci dôstojník, ktorý mal silný odpor k adventistickej cirkvi, prikázal popravčej čate strieľať na povel „tri“. Počítal: „Jedna, dva…“ ale nedokázal povedať „tri“. Skúšal to mnohokrát, než to vzdal.
+Kata Ragoso zemřel v roce 1964 ve věku 62 let, poté co sloužil církvi 37 let. Během té doby viděl, jak se Marovo proměnilo z válčící komunity v milosrdný lid sloužící Bohu.
 
-Po desiatich dňoch vo väzení Kata Ragoso ušiel. Po zvyšok vojny viedol záchranné operácie pre spojeneckých vojakov, ktorých lietadlá alebo lode boli napadnuté. Zachránil 27 amerických pilotov a 187 austrálskych a novozélandských vojakov.
+_Dary třinácté soboty v tomto čtvrtletí půjdou na misijní projekty v Jižní tichomořské divizi, jejíž území zahrnuje Šalamounovy ostrovy. Děkujeme vám, že na březen plánujete štědré dary._
 
-Kata Ragoso zomrel v roku 1964 vo veku 62 rokov po 37 rokoch služby cirkvi. Počas svojho života videl, ako sa Marovo transformovalo z bojovnej komunity na milosrdný ľud, ktorý slúži Bohu.
-
-_Tento štvrťrok sú misijné projekty trinástej soboty realizované v Juho-pacifickej divízii, ktorej územie zahŕňa aj Šalamúnove ostrovy. Ďakujeme, že plánujete štedrý dar v marci._
+![Kata Ragoso](picture5.jpg)
