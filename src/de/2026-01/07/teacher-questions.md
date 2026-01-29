@@ -117,8 +117,8 @@ beschäftigen.
 
 **DONNERSTAG**
 
-**Philipper 4,10-19:** ''"Ich bin aber hocherfreut in dem Herrn, dass
-ihr wieder eifrig geworden seid, für mich zu sorgen; ihr wart zwar immer
+**Philipper 4,10-19:** *"Ich bin aber hocherfreut in dem Herrn, dass ihr
+wieder eifrig geworden seid, für mich zu sorgen; ihr wart zwar immer
 darauf bedacht, aber die Zeit hat’s nicht zugelassen. 11 Ich sage das
 nicht, weil ich Mangel leide; denn ich habe gelernt, mir genügen zu
 lassen, wie’s mir auch geht. 12 Ich kann niedrig sein und kann hoch
@@ -136,7 +136,35 @@ Ich habe in Fülle, nachdem ich durch Epaphroditus empfangen habe, was
 von euch gekommen ist: ein lieblicher Geruch, ein angenehmes Opfer, Gott
 gefällig. 19 Mein Gott aber wird all eurem Mangel abhelfen nach seinem
 Reichtum in Herrlichkeit in Christus Jesus. 20 Gott aber, unserm Vater,
-sei Ehre von Ewigkeit zu Ewigkeit! Amen."'
+sei Ehre von Ewigkeit zu Ewigkeit! Amen."*
+
+**ZITAT:** *"Glück ist nicht die Voraussetzung für Zufriedenheit. Aber
+Zufriedenheit ist die Voraussetzung für Glück."* (Frank Dommenz)
+
+-   Paulus kannte sie beide: gute Zeiten und schlechte Zeiten. Wie ist
+    er damit umgegangen?
+    -   Was sollen wir bedenken oder beachten, wenn es im Leben gerade
+        gut läuft?
+    -   Was sollen wir andererseits bedenken oder beachten, wenn das
+        Leben momentan eine schlechte Phase durchläuft?
+        -   Wie kann/soll uns in beiden Phasen unser Glaube helfen?
+
+**ZITAT:** *"Was wirklich zählt im Leben ist sehr kostbar, aber
+vollkommen kostenlos."* (Helmut Glaßl)
+
+-   Vor allem, wenn es ihnen gut geht, neigen Menschen dazu den Mund
+    etwas zu voll zu nehmen und zu behaupten, dass im Leben ja ohnehin
+    "anderes wirklich zähle." Was denkt ihr? Was zählt im Leben
+    wirklich?
+    -   Welche Teile eures Lebens könnte man euch wegnehmen, ohne dass
+        es euch existentiell erschüttern würde?
+    -   Und welche dürfte man euch unter keinen Umständen wegnehmen?
+-   Inwiefern könnt ihr mit der Haltung des Paulus, der offensichtlich
+    an nichts Irdischem hing, etwas anfangen?
+    -   Ist seine Haltung zu hoch für euch?
+    -   Ist sie erstrebenswert?
+    -   Seht ihr das eher als den Weg an, der Paulus beschieden war?
+        Aber nicht euch beschieden ist?
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
