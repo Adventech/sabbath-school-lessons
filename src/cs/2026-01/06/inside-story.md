@@ -3,34 +3,32 @@ title:  Misijní příběh
 date:   06/02/2026
 ---
 
-#### Nečakaná návšteva kostola
+#### Nečekaná návštěva kostela
 
-Gilbert Fimaka sa jedného nedeľného rána zobudil so silnou túžbou ísť do kostola. Dvadsaťdvaročný zdravotnícky misionár sa o svoju túžbu podelil so spolubývajúcim, ďalším zdravotníckym misionárom. Obaja mladí muži práve končili trojtýždňovú misijnú cestu vo vidieckej Zambii.
+Gilbert Fimaka se v neděli probudil se silnou touhou jít do kostela.
 
-„Rozmýšľam, že by som navštívil nejaký kostol tu,“ povedal Gilbert. „Rád by som sa s nimi podelil o Božie Slovo a tiež im povedal o siedmom dni – sobote.“
+Dvaadvacetiletý zdravotnický misionář se o své touze zmínil svému spolubydlícímu, který byl také zdravotnickým misionářem. Oba mladí muži právě dokončovali třítýdenní misijní cestu po venkovských oblastech Zambie.
 
-Potom sa zasmial. Zasmial sa aj jeho spolubývajúci. Tento nápad sa im zdal absurdný. Ale vo svojom srdci Gilbert túžil ísť. Tak išiel.
+„Přemýšlím, že bych tady navštívil kostel,“ řekl Gilbert. „Rád bych s nimi sdílel Boží slovo a také jim pověděl o sedmém dni, sobotě.“
 
-Keď vstúpil do najbližšieho kostola, cítil sa nervózne. Vedel, že nemôže len tak povedať: „Dnes nie je deň bohoslužby.“
+Pak se zasmál. Jeho spolubydlící se také zasmál. Ten nápad se zdál absurdní. Ale ve svém srdci Gilbert jít chtěl. A tak šel.
 
-Na jeho prekvapenie sa členovia cirkvi rýchlo postarali, aby sa u nich cítil ako doma. Mnohí ho poznali z jeho zdravotníckej práce a srdečne ho privítali. Dokonca mu dali čestné miesto medzi cirkevnými vedúcimi.
+Když vstoupil do nejbližšího kostela, cítil se nervózní. Věděl, že nemůže jen tak říct: „Dnes není ten den uctívání.“
 
-Potom nastal čas na kázeň. Na Gilbertovo prekvapenie bol pozvaný, aby kázal. Cítil sa pokorne, keď sa blížil ku kazateľnici, ale bál sa hovoriť o sobote. Otvoril teda Bibliu v knihe Jób.
+K jeho překvapení ho členové kostela rychle přijali mezi sebe. Mnozí ho poznali z jeho lékařské praxe a vřele ho přivítali. Dokonce mu přidělili čestné místo vedle vedoucích kostela.
 
-Keď hovoril, počul hlas, ktorý mu hovoril: „Hovor o sobote.“ Ignoroval ho a pokračoval v kázaní. Hlas prehovoril druhýkrát. Keď prehovoril tretíkrát, Gilbert otvoril Bibliu v Levitikus 23:3 a prečítal:
+Pak nastal čas kázání. Ke Gilbertově překvapení byl vybídnut, aby kázal. Cítil se pokorně, když přistoupil ke kazatelně, ale bál se mluvit o sobotě. Otevřel tedy Bibli v knize Jób.
 
-„Šesť dní sa bude pracovať, ale siedmy deň je sobota slávnostného odpočinku, sväté zhromaždenie. V tento deň nebudete robiť žiadnu prácu; je to Pánova sobota vo všetkých vašich príbytkoch“ (NKJV).
+Když Gilbert mluvil, uslyšel hlas, který mu řekl: „Mluv o sobotě.“ Ignoroval ho a pokračoval v kázání. Hlas promluvil podruhé.
 
-Potom prečítal Matúša 28:1 a Genesis 2:1–3.
+Když hlas promluvil potřetí, Gilbert si v Bibli nalistoval Leviticus 23,3 a přečetl: „Šest dní se bude pracovat, ale sedmého dne je sobota, den odpočinku, svaté shromáždění: nedělejte žádnou práci. Ve všech vašich příbytcích bude sobota náležet Hospodinu.“. Potom přečetl text z Matouše 28,1 a Genesis 2,1–3.
 
-„Siedmy deň nepripadá na nedeľu, ale na sobotu, takže skutočný deň bohoslužby nie je nedeľa, ale sobota,“ povedal.
+„Sedmý den nepřipadá na neděli, ale na sobotu, takže pravým dnem uctívání není neděle, ale sobota,“ řekl.
 
-Keď skončil kázeň, jeden cirkevný vedúci vstal a oznámil: „Prestanem uctievať Boha v nedeľu ale budem ho uctievať iba v sobotu.“
+Když dokončil kázání, jeden z vedoucích církve vstal a oznámil: „Přestanu zachovávat neděli a budu zachovávat pouze sobotu.“
 
-Keď ľudia odchádzali z kostola, mnohí spolu nahlas hovorili a niektorí plakali. „Nevedeli sme, že uctievame Boha v nesprávny deň,“ povedal jeden. „Odteraz sa budeme klaňať v sobotu,“ dodal iný.
+Když lidé opouštěli kostel, mnozí hlasitě diskutovali. Někteří plakali. „Nevěděli jsme, že chodíme na bohoslužby ve špatný den,“ řekl jeden. „Od teď budeme zachovávat sobotu,“ řekl druhý.
 
-Krátko nato bol vedúci cirkvi pokrstený v cirkvi adventistov siedmeho dňa a mnohí ďalší členovia cirkvi začali študovať Bibliu ako prípravu na krst.
+Krátce nato byl vedoucí toho kostela pokřtěn ve sboru adventistů sedmého dne a mnoho dalších členů z kostela začalo studovat Bibli, aby se připravili na křest.
 
-Tento misijný príbeh znázorňuje cieľ „Misia pre všetkých“ strategického plánu Cirkvi adventistov siedmeho dňa, „Pôjdem“, ktorý hovorí okrem iného:
-
-„Kristus sa stretával s ľuďmi, prejavoval súcit, slúžil potrebám, získaval dôveru a potom pozval ľudí, aby Ho nasledovali. Cieľom je prejaviť úprimný záujem o ľudí, priviesť ich ku Kristovi a pozývať ich, aby sa spojili s Cirkvou adventistov siedmeho dňa ako Kristovi učeníci, ktorí robia učedníkov.“
+_Tento misijní příběh ilustruje jeden z cílů strategického plánu „I Will Go“ (Půjdu) Církve adventistů sedmého dne, který také říká: „Kristus se setkával s lidmi, projevoval soucit, pomáhal jim v nouzi, získával si jejich důvěru a pak je zval, aby ho následovali. Cílem je projevit upřímný zájem o lidi, vést je ke Kristu a pozvat je, aby se připojili k Církvi adventistů sedmého dne jako Kristovi učedníci, kteří získávají další učedníky.“ Více se dočtete na IWillGo.org._
