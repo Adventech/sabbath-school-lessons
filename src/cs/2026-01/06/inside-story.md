@@ -32,3 +32,5 @@ Když lidé opouštěli kostel, mnozí hlasitě diskutovali. Někteří plakali.
 Krátce nato byl vedoucí toho kostela pokřtěn ve sboru adventistů sedmého dne a mnoho dalších členů z kostela začalo studovat Bibli, aby se připravili na křest.
 
 _Tento misijní příběh ilustruje jeden z cílů strategického plánu „I Will Go“ (Půjdu) Církve adventistů sedmého dne, který také říká: „Kristus se setkával s lidmi, projevoval soucit, pomáhal jim v nouzi, získával si jejich důvěru a pak je zval, aby ho následovali. Cílem je projevit upřímný zájem o lidi, vést je ke Kristu a pozvat je, aby se připojili k Církvi adventistů sedmého dne jako Kristovi učedníci, kteří získávají další učedníky.“ Více se dočtete na IWillGo.org._
+
+![Gilbert Fimaka](picture6.jpg)
