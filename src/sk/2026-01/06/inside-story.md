@@ -34,3 +34,5 @@ Krátko nato bol vedúci cirkvi pokrstený v cirkvi adventistov siedmeho dňa a 
 Tento misijný príbeh znázorňuje cieľ „Misia pre všetkých“ strategického plánu Cirkvi adventistov siedmeho dňa, „Pôjdem“, ktorý hovorí okrem iného:
 
 „Kristus sa stretával s ľuďmi, prejavoval súcit, slúžil potrebám, získaval dôveru a potom pozval ľudí, aby Ho nasledovali. Cieľom je prejaviť úprimný záujem o ľudí, priviesť ich ku Kristovi a pozývať ich, aby sa spojili s Cirkvou adventistov siedmeho dňa ako Kristovi učeníci, ktorí robia učedníkov.“
+
+![Gilbert Fimaka](picture6.jpg)
