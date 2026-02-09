@@ -43,3 +43,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2026-01-06.mp4
           target: pt/2026-01-cq/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2026-01-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2026-01-07.mp4
+          target: pt/2026-01-cq/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-inv-2026-01-07.webp
