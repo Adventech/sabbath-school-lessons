@@ -12,3 +12,17 @@
       target: bg/2026-01-cq/05
     - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-06.pdf
       target: bg/2026-01-cq/06
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-07.pdf
+      target: bg/2026-01-cq/07
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-08.pdf
+      target: bg/2026-01-cq/08
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-09.pdf
+      target: bg/2026-01-cq/09
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-10.pdf
+      target: bg/2026-01-cq/10
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-11.pdf
+      target: bg/2026-01-cq/11
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-12.pdf
+      target: bg/2026-01-cq/12
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/bg/2026-01/ABSG-2026-01-BG-CQ-13.pdf
+      target: bg/2026-01-cq/13
