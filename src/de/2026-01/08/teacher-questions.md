@@ -40,8 +40,10 @@ aus sich macht.“* – Jean-Paul Sartre
 
 ### Erstgeborener vor aller Schöpfung
 
-**Kolosser 1,15-17** **Zitat:***„Alles, was wir tun, sollte im Licht
-dessen stehen, der das Zentrum aller Dinge ist.“* – C. S. Lewis
+**Kolosser 1,15-17**
+
+**Zitat:***„Alles, was wir tun, sollte im Licht dessen stehen, der das
+Zentrum aller Dinge ist.“* – C. S. Lewis
 
 -   Wie hilft uns die Erkenntnis, dass Christus das Bild des
     unsichtbaren Gottes und der Schöpfer aller Dinge ist, unser Leben zu
@@ -76,8 +78,10 @@ dessen stehen, der das Zentrum aller Dinge ist.“* – C. S. Lewis
 
 ### Das Haupt des Leibes (der Gemeinde)
 
-**Epheser 1,22; Kolosser 2,10** **Zitat:***„Alleine sind wir schwach, in
-der Gemeinschaft stark.“* – John Donne
+**Epheser 1,22; Kolosser 2,10**
+
+**Zitat:***„Alleine sind wir schwach, in der Gemeinschaft stark.“* –
+John Donne
 
 -   Wie können wir verstehen, dass Christus als das Haupt der Gemeinde
     sowohl Autorität als auch Vollkommenheit für alle Gläubigen
@@ -114,8 +118,10 @@ der Gemeinschaft stark.“* – John Donne
 
 ### Der "Anfang" (und Initiator)
 
-**Kolosser 1,18** **Zitat:***„Wer das Haupt kennt, versteht den ganzen
-Körper.“* – Thomas von Aquin
+**Kolosser 1,18**
+
+**Zitat:***„Wer das Haupt kennt, versteht den ganzen Körper.“* – Thomas
+von Aquin
 
 -   Wie verändert sich unser Blick auf die Gemeinde und auf unser
     eigenes Leben, wenn Christus als das Haupt der Gemeinde anerkannt
@@ -147,8 +153,10 @@ Körper.“* – Thomas von Aquin
 
 ### Um alles zu versöhnen
 
-**Kolosser 1,19-20** **Zitat:***„Frieden beginnt, wo wir das Große in
-Christus erkennen und uns ihm anvertrauen.“* – Dietrich Bonhoeffer
+**Kolosser 1,19-20**
+
+**Zitat:***„Frieden beginnt, wo wir das Große in Christus erkennen und
+uns ihm anvertrauen.“* – Dietrich Bonhoeffer
 
 -   Wie können wir das Bewusstsein, dass Gott alles in Christus versöhnt
     hat, in unserem persönlichen Leben und in der Gemeinschaft praktisch
