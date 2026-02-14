@@ -32,3 +32,5 @@ Rodel sa nesnažil presviedčať Reneho, aby šiel do kostola. Jednoducho sa s n
 _Rene Tucaldo je finančný riaditeľ organizácie 1000 Missionary Movement, ktorej ústredie v Silangu na Filipínach bolo postavené s pomocou darov z Trinástej soboty v roku 1996._
 
 _Viac sa dozviete budúci týždeň._
+
+![Rene Tucaldo](picture7.jpg) 

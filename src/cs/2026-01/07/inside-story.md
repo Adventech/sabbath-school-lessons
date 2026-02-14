@@ -3,32 +3,56 @@ title:  Misijní příběh
 date:   13/02/2026
 ---
 
-#### Stať sa bohatým adventistom
+#### Stát se bohatým adventistou
 
-Malý Rene mal rád všetko, čo sa týkalo adventistov siedmeho dňa. Vo svojej rodnej provincii na Filipínach sa zdalo, že všetci bohatí ľudia sú adventisti. Mali veľké ryžové polia a dobrú životnú úroveň. Rene túžil po podobnom životnom štýle.
+Malý Rene měl rád všechno, co se týkalo adventistů sedmého dne. V jeho rodné provincii na Filipínách se zdálo, že všichni bohatí lidé jsou adventisté. Měli velké rýžové farmy a dobrou životní úroveň. Rene toužil po podobném životním stylu.
 
-Jedného dňa ho niekoľko adventistických detí pozvalo, aby s nimi čítal Bibliu. Potom ho syn zamestnávateľa jeho otca, adventistický pestovateľ ryže, pozval na sobotnú školu a do kostola.
+Jednoho dne ho několik adventistických dětí pozvalo, aby si s nimi četl Bibli. Potom ho syn zaměstnavatele jeho otce, adventistický rýžový farmář, pozval do sobotní školy a do sboru.
 
-Rene po prvýkrát počul o sobote. Znelo to logicky. Zároveň si všimol, že adventistické deti sa dobre obliekajú. Páčilo sa mu, že nenadávajú. Chcel byť ako oni.
+Rene poprvé slyšel o sobotě. Znělo to logicky. Také si všiml, že adventistické děti se dobře oblékaly. Líbilo se mu, že nenadávaly. Chtěl být jako ony.
 
-Keď mal 12 rokov, bol pokrstený a pripojil sa k adventistickej cirkvi.
+Když mu bylo 12 let, nechal se pokřtít a vstoupil do církve adventististů.
 
-Nezbohatol a jeho život sa zdal byť čím ďalej, tým horší. Jeho rodina ním opovrhovala pre jeho vieru a prestala ho podporovať v štúdiu. Bol nútený opustiť školu. Po štyroch rokoch mal toho dosť. V 16 rokoch opustil cirkev a pripojil sa k svojmu otcovi na ryžových poliach adventistického farmára. Čoskoro začal piť, fajčiť, hral hazardné hry a jedol všetky druhy nečistého jedla.
+Jenže ... nestal se bohatým a jeho život se zdál být čím dál horší. Jeho rodina jím kvůli jeho víře opovrhovala a přestala mu platit studium. Byl nucen opustit školu. Po čtyřech letech toho měl dost. V 16 letech opustil církev a připojil se ke svému otci na rýžových polích adventistického farmáře. Brzy začal pít, kouřit, hrát hazardní hry a jíst všechny druhy nečistých potravin.
 
-Prešli dva roky a na dvere zaklopal 17-ročný chlapec Rodel.
+Uplynuly dva roky a jeden sedmnáctiletý hoch, který se jmenoval Rodel, zaklepal na dveře.
 
-„Som misionár,“ povedal matke Reneho. „Môžem vojsť?“ „Aký misionár?“ spýtala sa. „Missionárske hnutie 1000,“ povedal. „Čo to je?“ spýtala sa. „Som misionár adventistov siedmeho dňa,“ povedal. „Ach,“ povedala matka. „Môj syn je adventista, ale odpadol od viery.“ „Kde je?“ „Spí.“
+„Jsem misionář,“ řekl Renově matce. „Mohu vejít?“
 
-Ako ťažko pracujúci farmár bol Rene vyčerpaný. Matka priviedla k nemu Rodela. „Priateľ môj, prečo si prestal byť adventistom?“ spýtal sa Rodel.
+„Jaký typ misionáře?“, zeptala se.
 
-Rene bol prekvapený, ale dal jasne najavo, že sa nechce vrátiť do cirkvi. „Moja rodina ma ako adventistu nenávidela.“
+„Z hnutí 1000 misionářů (1000 Missionary Movement),“ odpověděl.
 
-„Môžem ťa pozvať do kostola?“ „Myslím, že nie. Nemôžem ísť.“
+„Co to je?“ zeptala se.
 
-Rodel odišiel. Ale o rok a pol neskôr, keď mal Rene 20 rokov, sa vrátil. „Priateľ môj, poď so mnou na ryby,“ povedal.
+„Jsem misionář Církve adventistů sedmého dne,“ odpověděl.
 
-Rodel sa nesnažil presviedčať Reneho, aby šiel do kostola. Jednoducho sa s ním spriatelil. Spoločne chodili na ryby. Po nejakej dobe sa Rene sám ocitol späť v kostole počas sobôt.
+„Jo ták..,“ řekla matka. „Můj syn je adventista, ale odpadl od víry.“
 
-_Rene Tucaldo je finančný riaditeľ organizácie 1000 Missionary Movement, ktorej ústredie v Silangu na Filipínach bolo postavené s pomocou darov z Trinástej soboty v roku 1996._
+„Kde je?“
 
-_Viac sa dozviete budúci týždeň._
+„Spí.“
+
+Rene byl jako tvrdě pracující farmář vyčerpaný. Matka k němu Rodela zavedla.
+
+„Příteli, proč jsi přestal být adventistou?“ zeptal se Rodel.
+
+Rene byl překvapený, ale dal jasně najevo, že se do církve nevrátí.
+
+„Moje rodina mě jako adventistu nenáviděla.“
+
+„Můžu tě pozvat do sboru?“
+
+„Myslím, že ne. Nemůžu jít.“
+
+Rodel odešel. Ale o rok a půl později, když bylo Renému 20 let, se vrátil.
+
+„Příteli, pojď se mnou na ryby,“ řekl.
+
+Rodel se nesnažil přesvědčit Reneho, aby chodil do sboru. Prostě se s ním spřátelil. Chodili spolu na ryby. Po nějaké době se Rene v sobotu ocitl zpět ve sboru.
+
+_Rene Tucaldo je finančním ředitelem hnutí 1000 Missionary Movement, jehož sídlo v Silangu na Filipínách bylo postaveno s pomocí sbírky třinácté soboty z roku 1996._
+
+_Více se dozvíte příští týden._
+
+![Rene Tucaldo](picture7.jpg) 
