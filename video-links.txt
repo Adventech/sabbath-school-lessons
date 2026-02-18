@@ -7,3 +7,5 @@ yt-dlp "https://www.youtube.com/watch?v=gqR3-uYU8Iw" -S vcodec:h264,res:1080,aco
 yt-dlp "https://www.youtube.com/watch?v=3Ee081avWWc" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2026-01-08.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=UIr3Ih8UHI4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2026-01-08.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=QZIQ3X3tglw" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ilo/ilo-2026-01-08.mp4"
