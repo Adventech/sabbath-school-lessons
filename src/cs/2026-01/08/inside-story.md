@@ -3,30 +3,30 @@ title:  Misijní příběh
 date:   20/02/2026
 ---
 
-#### Strata dvoch pracovných miest pre vieru
+##### Ztráta dvou zaměstnání kvůli víře
 
-Rodel priviedol Reneho k Ježišovi tým, že s ním chodil na ryby.
+Rodel získal Reneho pro Krista tím, že ho vzal na ryby.
 
-Ellen White hovorí: „Len Kristova metóda prinesie skutočný úspech pri oslovovaní ľudí. Spasiteľ sa stretával s ľuďmi ako ten, kto si želal ich dobro. Prejavoval im súcit, slúžil ich potrebám a získal si ich dôveru. Potom ich vyzval: ‚Nasledujte ma‘ (The Ministry of Healing, s. 143).
+Ellen Whiteová říká: „Pouze Kristova metoda přinese skutečný úspěch v oslovování lidí. Spasitel se stýkal s lidmi jako někdo, kdo jim přeje dobro. Projevoval jim soucit, staral se o jejich potřeby a získal si jejich důvěru. Potom jim řekl: ‚Následuj mě‘“ (_The Ministry of Healing_, str. 143). Rodel uplatňoval Kristovu metodu: trávil čas s Renem, staral se o jeho potřeby a získal si jeho důvěru. Potom Rene následoval Ježíše.
 
-Rodel praktizoval Kristovu metódu: trávil čas s Reneom, slúžil jeho potrebám a získal si jeho dôveru. A potom Rene nasledoval Ježiša.
+Poté, co se Rene vrátil ke Kristu, Rodel se ho zeptal, zda by mohl bydlet v jeho domě. Reneovi rodiče nebyli nadšení z toho, že by mladý adventista sedmého dne bydlel v jejich domě na Filipínách, ale nic neřekli. Rodel také Reneho povzbuzoval, aby se vrátil do školy, a Rene tak učinil.
 
-Keď sa Rene vrátil ku Kristovi, Rodel sa ho spýtal, či by mohol zostať uňho doma. Reneho rodičia neboli nadšení z toho, že mladý adventista siedmeho dňa býva v ich dome na Filipínach, ale nič nepovedali. Rodel tiež povzbudil Reneho, aby sa vrátil do školy, a Rene tak aj urobil.
+„Počkám, až dostuduješ, a pak tě vezmu do Manily, abys se stal misionářem v hnutí 1000 Missionary Movement,“ řekl Rodel.
 
-„Čakám, kým skončíš školu, a potom ťa zoberiem do Manily, aby si sa stal misionárom v Hnutí 1000 misionárov,“ povedal Rodel.
+Rodel sloužil jako misionář v hnutí 1000 Missionary Movement, organizaci, která je součástí Jižní asijsko-pacifické divize Církve adventistů sedmého dne. Právě během této služby se asi před rokem a půl poprvé setkal s Renem.
 
-Rodel predtým slúžil ako misionár v Hnutí 1000 misionárov, ktorá je súčasťou Juho-ázijsko-pacifickej divízie Cirkvi adventistov siedmeho dňa, keď sa pred približne rokom a pol prvýkrát stretol s Reneom.
+Zatímco Rene studoval, Rodel s ním bydlel a pomáhal mu platit studium tím, že spolu pracovali na rýžových polích. Ve 23 letech Rene promoval.
 
-Kým Rene študoval, Rodel býval s ním a pomáhal mu financovať štúdium tým, že spolu pracovali na ryžových poliach. Rene ukončil štúdium keď mal 23 rokov.
+Rodel splnil svůj slib a vzal Reneho do sídla hnutí 1000 Missionary Movement v Silangu, nedaleko filipínského hlavního města Manily.
 
-Rodel dodržal svoj sľub a priviedol Reneho do ústredia Hnutia 1000 misionárov v Silangu, neďaleko filipínskeho hlavného mesta Manily. Ale potom dostal ďalší nápad. Povedal, že Rene by mal pokračovať vo vzdelávaní ešte predtým, než sa stane misionárom. Obaja mladí muži sa zapísali na Filipínsku adventistickú univerzitu v Silangu. Rene študoval účtovníctvo a Rodel teológiu.
+Pak ale dostal jiný nápad. Řekl, že Rene by měl předtím, než se stane misionářem, pokračovat ve studiu. Oba mladí muži se zapsali na Filipínskou Adventistickou univerzitu v Silangu. Rene studoval účetnictví a Rodel teologii.
 
-Rene dokončil štúdium za šesť rokov. Z domu nedostal žiadnu podporu. Počas tohto obdobia sa oženil s Love Jhoie.
+Reneovi trvalo šest let, než studium dokončil. Z domova nedostával žádnou podporu. Během té doby se oženil s Love Jhoie.
 
-Po ukončení štúdia pracoval tri mesiace ako účtovník v spoločnosti. Potom ho prepustili, pretože nepracoval v piatok večer. Rene sa spoliehal na zasľúbenie z Jeremáša 29,11: „‘Lebo ja viem, aké plány mám s vami,’ hovorí Hospodin, ‘plány, aby ste mali prosperitu a nie nešťastie, plány, aby ste mali nádej a budúcnosť’“ (NIV). Modlil sa: „Bože, viem, že máš pre mňa plán.“
+Po absolvování studia pracoval tři měsíce jako účetní v jedné společnosti. Poté byl propuštěn, protože nepracoval v pátek večer. Opřel se o slib z Jeremjáše 29,11: „Já sám přece vím, jak o vás přemýšlím, praví Hospodin. Mám v úmyslu váš prospěch, a ne neštěstí; chci vám dát budoucnost a naději.“. Modlil se: „Bože, vím, že máš pro mě plán.“
 
-Po niekoľkých mesiacoch ho prijala nemocnica ako účtovníka. Ale potom sa dozvedel, že nemôže byť riadnym zamestnancom, pokiaľ nebude pokrstený do denominácie, ktorá vlastní nemocnicu. Dal výpoveď.
+Uplynuly měsíce a jedna nemocnice ho přijala jako účetního. Pak se ale dozvěděl, že se nemůže stát řádným zaměstnancem, pokud se nenechá pokřtít v církvi, která nemocnici vlastní. A tak dal výpověď.
 
-_Rene Tucaldo je finančný riaditeľ Hnutia 1000 misinárov, ktorého ústredie v Silangu na Filipínach bolo postavené s pomocou darov z trinástej soboty v roku 1996._
+_Rene Tucaldo je finančním ředitelem hnutí 1000 Missionary Movement, jehož sídlo v Silangu na Filipínách bylo postaveno s pomocí sbírky třinácté soboty z roku 1996._
 
-_Viac sa dozviete budúci týždeň._
+_Více se dozvíte příští týden._
