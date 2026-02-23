@@ -1,0 +1,132 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch1.pdf'
+      target: zh/2026-02-hant-cc/01
+      title: 愛是恆久忍耐
+      start_date: 04/04/2026
+      end_date: 10/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch2.pdf'
+      target: zh/2026-02-hant-cc/02
+      title: 超乎職業
+      start_date: 11/04/2026
+      end_date: 17/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch3.pdf'
+      target: zh/2026-02-hant-cc/03
+      title: 上帝眼中的同性戀
+      start_date: 18/04/2026
+      end_date: 24/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch4.pdf'
+      target: zh/2026-02-hant-cc/04
+      title: 使徒保羅的工作
+      start_date: 25/04/2026
+      end_date: 01/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch5.pdf'
+      target: zh/2026-02-hant-cc/05
+      title: 在私設法庭上的赤膽忠心
+      start_date: 02/05/2026
+      end_date: 08/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch6.pdf'
+      target: zh/2026-02-hant-cc/06
+      title: 腓利門書
+      start_date: 09/05/2026
+      end_date: 15/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch7.pdf'
+      target: zh/2026-02-hant-cc/07
+      title: 美好的報告
+      start_date: 16/05/2026
+      end_date: 22/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch8.pdf'
+      target: zh/2026-02-hant-cc/08
+      title: 並不分離
+      start_date: 23/05/2026
+      end_date: 29/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch9.pdf'
+      target: zh/2026-02-hant-cc/09
+      title: 孤身一人卻非不堪一擊
+      start_date: 30/05/2026
+      end_date: 05/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch10.pdf'
+      target: zh/2026-02-hant-cc/10
+      title: 愛的力量
+      start_date: 06/06/2026
+      end_date: 12/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch11.pdf'
+      target: zh/2026-02-hant-cc/11
+      title: 流放荒島
+      start_date: 13/06/2026
+      end_date: 19/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch12.pdf'
+      target: zh/2026-02-hant-cc/12
+      title: 永遠忠心
+      start_date: 20/06/2026
+      end_date: 26/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_S_TC_Ch13.pdf'
+      target: zh/2026-02-hant-cc/13
+      title: 勝利的教會
+      start_date: 27/06/2026
+      end_date: 03/07/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch1.pdf'
+      target: zh/2026-02-hant-cc/01
+      title: 愛是恆久忍耐 - 教師本
+      start_date: 04/04/2026
+      end_date: 10/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch2.pdf'
+      target: zh/2026-02-hant-cc/02
+      title: 超乎職業 - 教師本
+      start_date: 11/04/2026
+      end_date: 17/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch3.pdf'
+      target: zh/2026-02-hant-cc/03
+      title: 上帝眼中的同性戀 - 教師本
+      start_date: 18/04/2026
+      end_date: 24/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch4.pdf'
+      target: zh/2026-02-hant-cc/04
+      title: 使徒保羅的工作 - 教師本
+      start_date: 25/04/2026
+      end_date: 01/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch5.pdf'
+      target: zh/2026-02-hant-cc/05
+      title: 在私設法庭上的赤膽忠心 - 教師本
+      start_date: 02/05/2026
+      end_date: 08/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch6.pdf'
+      target: zh/2026-02-hant-cc/06
+      title: 腓利門書 - 教師本
+      start_date: 09/05/2026
+      end_date: 15/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch7.pdf'
+      target: zh/2026-02-hant-cc/07
+      title: 美好的報告 - 教師本
+      start_date: 16/05/2026
+      end_date: 22/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch8.pdf'
+      target: zh/2026-02-hant-cc/08
+      title: 並不分離 - 教師本
+      start_date: 23/05/2026
+      end_date: 29/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch9.pdf'
+      target: zh/2026-02-hant-cc/09
+      title: 孤身一人卻非不堪一擊 - 教師本
+      start_date: 30/05/2026
+      end_date: 05/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch10.pdf'
+      target: zh/2026-02-hant-cc/10
+      title: 愛的力量 - 教師本
+      start_date: 06/06/2026
+      end_date: 12/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch11.pdf'
+      target: zh/2026-02-hant-cc/11
+      title: 流放荒島 - 教師本
+      start_date: 13/06/2026
+      end_date: 19/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch12.pdf'
+      target: zh/2026-02-hant-cc/12
+      title: 永遠忠心 - 教師本
+      start_date: 20/06/2026
+      end_date: 26/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Corner-Stone/2026Q2/CC_2026_Q2_T_TC_Ch13.pdf'
+      target: zh/2026-02-hant-cc/13
+      title: 勝利的教會 - 教師本
+      start_date: 27/06/2026
+      end_date: 03/07/2026

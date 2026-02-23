@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q2/Begin/Begin_A2_Apr_S.pdf'
+      target: zh/2026-02-bg/01
+      title: 海边的早餐
+      start_date: 28/03/2026
+      end_date: 24/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q2/Begin/Begin_A2_May_S.pdf'
+      target: zh/2026-02-bg/02
+      title: 耶稣前往教堂
+      start_date: 25/04/2026
+      end_date: 29/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q2/Begin/Begin_A2_June_S.pdf'
+      target: zh/2026-02-bg/03
+      title: 五饼二鱼
+      start_date: 30/05/2026
+      end_date: 26/06/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q2/Begin/Begin_A2_Apr_T.pdf'
+      target: zh/2026-02-bg/01
+      title: 海边的早餐 - 教师本
+      start_date: 28/03/2026
+      end_date: 24/04/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q2/Begin/Begin_A2_May_T.pdf'
+      target: zh/2026-02-bg/02
+      title: 耶稣前往教堂 - 教师本
+      start_date: 25/04/2026
+      end_date: 29/05/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2026/Q2/Begin/Begin_A2_June_T.pdf'
+      target: zh/2026-02-bg/03
+      title: 五饼二鱼 - 教师本
+      start_date: 30/05/2026
+      end_date: 26/06/2026
