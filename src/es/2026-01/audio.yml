@@ -141,3 +141,9 @@
           target: es/2026-01/10/05
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/01/LECCION-10-JUEVES.mp3
           target: es/2026-01/10/06
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/01/LECCION-10-VIERNES.mp3
+          target: es/2026-01/10/07
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/01/LECCION-11-SABADO.mp3
+          target: es/2026-01/11/01
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/01/LECCION-11-DOMINGO.mp3
+          target: es/2026-01/11/02
