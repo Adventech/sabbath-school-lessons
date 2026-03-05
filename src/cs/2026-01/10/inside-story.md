@@ -3,32 +3,48 @@ title:  Misijní příběh
 date:   06/03/2026
 ---
 
-#### Riziko väzenia alebo smrti
+#### Riziko vězení nebo smrti
 
-Po šiestich mesiacoch chodenia do kostola v sobotu si Reneho zavolal jeho šéf. „Ten druhý účtovník nepracuje tak dobre ako ty,“ povedal. „Môžem vás požiadať o láskavosť? Môžete v sobotu pracovať aspoň jednu hodinu?“
+Po šesti měsících, kdy Rene chodil v sobotu do sboru, si ho zavolal jeho šéf. „Ostatní účetní nepracují tak dobře jako ty,“ řekl. „Můžu tě požádat o laskavost? Mohl bys pracovat alespoň jednu hodinu v sobotu?“
 
-Rene si spomenul, že sa dva roky modlil: „Bože, ak mi dáš príležitosť ísť v sobotu do kostola, budem svätiť sobotu až do smrti.“Pokrútil hlavou: „Nemôžem,“ povedal.
+Rene si vzpomněl, že se dva roky modlil: „Bože, pokud mi dáš šanci chodit v sobotu do sboru, budu dodržovat sobotu jako svatý den, dokud nezemřu.“
 
-„Musíte,“ povedal jeho šéf. „Len jednu hodinu. Kedy máte kostol?“„Od ôsmej do dvanástej.“„Tak potom popoludní. Môžete prísť o jednej.“„Ale je sobota.“„To je v poriadku.“„Ale mne to vadí.“
+Zavrtěl hlavou. „To nemohu,“ řekl.
 
-Reneho šéf sa na neho dlho a uprene pozeral. „Je to na tebe,“ povedal a odišiel.
+„Musíš,“ řekl jeho šéf. „Jen jednu hodinu. Kdy máte bohoslužbu?“
 
-O šesť týždňov neskôr mu dal šéf ultimátum s jemne zahalenou hrozbou. „Aké je tvoje konečné rozhodnutie?“ spýtal sa. „Musíš pracovať túto sobotu. Ak nie, tak neviem, čo urobím.“
+„Od osmi do dvanácti.“
 
-Rene vedel, že pracuje v krajine nepriateľskej voči kresťanstvu. Ľudia nemali právo vyznávať svoju vieru. Počul o ľuďoch, ktorí boli za svoju vieru väznení a vystavení smrti.
+„Tak odpoledne. Můžeš přijít v jednu hodinu.“
 
-Doma plakal: „Pane, zdá sa, že mám veľa problémov. Chceš, aby som tu zomrel?“
+„Ale je sobota.“
 
-O tri dni neskôr šiel Rene na sobotnú bohoslužbu do kostola. Býval v byte v tej istej budove ako jeho kancelária.
+„To nevadí.“
 
-Keď odchádzal z budovy, spolupracovník sa ho spýtal: „Dnes neprídeš?“„Neprídem,“ odpovedal Rene.
+„Mně to vadí.“
 
-Rene mal firemný mobil a vypol ho. Nechcel byť sledovaný, keď išiel do kostola.
+Reneův šéf se na něj dlouze a přísně podíval.
 
-To popoludnie urobil šéf nečakanú návštevu kancelárie. Viackrát volal Reneho, ale nemohol sa mu dovolať.
+„Je to na tobě,“ řekl a odešel.
 
-Neskôr spolupracovník Renemu povedal: „Šéf bol ako diabol. Mal veľmi červené oči, akoby ťa chcel zožrať. Možno ťa chcel poslať do väzenia. Prosím, nedostaň nás tiež do problémov.“
+O šest týdnů později šéf vydal ultimátum s lehce skrytou hrozbou. „Jaké je tvoje konečné rozhodnutí?“ zeptal se. „Tuto sobotu musíš pracovat. Pokud ne, nevím, co udělám.“
 
-_Rene Tucaldo je finančný riaditeľ Hnutia 1000 misionárov, ktorého ústredie v Silangu na Filipínach bolo postavené s pomocou darov z trinástej soboty v roku 1996._
+Rene věděl, že pracuje v zemi nepřátelské vůči křesťanství. Lidé neměli právo vyznávat své náboženství. Slyšel o lidech, kteří byli uvězněni a čelili smrti kvůli své víře.
 
-_Viac sa dozviete budúci týždeň._
+Když přisel domů, tak se rozplakal: „Pane, zdá se, že mám spoustu problémů. Chceš, abych tady zemřel?“
+
+O tři dny později šel Rene v sobotu do sboru. Bydlel v bytě ve stejné budově jako byla jeho kancelář.
+
+Když opouštěl budovu, zeptal se ho kolega: „Ty dnes nepřijdeš?“
+
+„Nepřijdu,“ odpověděl Rene.
+
+Rene měl firemní mobilní telefon a vypnul ho. Nechtěl, aby ho někdo sledoval, když šel do sboru.
+
+To odpoledne jeho šéf nečekaně navštívil kancelář. Opakovaně volal Renemu, ale nemohl se mu dovolat.
+
+Později kolega řekl Renemu: „Šéf byl jako ďábel. Měl velmi červené oči, jako by tě chtěl sežrat. Možná tě chce poslat do vězení. Prosím, nezatahuj nás do potíží.“
+
+_Rene Tucaldo je finančním ředitelem hnutí 1000 Missionary Movement, jehož sídlo v Silangu na Filipínách bylo postaveno s pomocí sbírky třinácté soboty z roku 1996._
+
+_Více se dočtete příští týden._
