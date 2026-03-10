@@ -131,6 +131,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-01-10.mp4
           target: en/2026-01/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-01-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-01-11.mp4
+          target: en/2026-01/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-01-11.webp
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2026-01-01.mp4
