@@ -3,38 +3,32 @@ title:  Misijní příběh
 date:   13/03/2026
 ---
 
-#### Tvárou v tvár ultimátu
+#### Ultimátum
 
-V sobotu, keď sa Rene rozhodol ísť do kostola namiesto do kancelárie, sa po západe slnka vrátil do budovy, kde býval aj pracoval. Spolupracovník mu podal list od šéfa. Bol prepustený.
+V sobotu, kdy se Rene rozhodl jít raději do sboru než do kanceláře, se po západu slunce vrátil do budovy, kde bydlel a pracoval. Kolega mu podal dopis od šéfa. Byl propuštěn.
 
-Rene bol šokovaný. Nevedel, čo bude nasledovať. Ako cudzinec pracujúci v krajine nepriateľskej voči kresťanstvu si kládol otázku, či by dokázal zostať verný Bohu, keby ho poslali do väzenia alebo keby mu hrozila smrť.
+Rene byl v šoku. Nevěděl, co se bude dít dál. Jako cizinec pracující v zemi nepřátelské vůči křesťanství si kladl otázku, zda by dokázal zůstat pevný ve víře v Boha, kdyby byl poslán do vězení nebo čelil smrti.
 
-Modlil sa:„Pane, je toto čas, aby som sa vrátil domov na Filipíny? Ak chceš, aby som tu zomrel, prijímam to. Mnoho ľudí vie, že bojujem za svoju vieru.“
+Modlil se: „Pane, je čas, abych se vrátil domů na Filipíny? Pokud chceš, abych zde zemřel, jsem s tím smířený. Mnoho lidí ví, že bojuji za svou víru.“
 
-Skoro ráno nasledujúceho dňa išiel do kancelárie a napísal šéfovi e-mail:„Vážim si vás,“ napísal. „Ste mojím priateľom a starším bratom. Viem, že sa budeme musieť porozprávať o problémoch, ktoré som spôsobil, keď prídete do kancelárie.“
+Brzy ráno šel do kanceláře a poslal svému šéfovi e-mail. „Vážím si vás,“ napsal. „Jste můj přítel a starší bratr. Vím, že musíme probrat problémy, které jsem způsobil, až přijdete do kanceláře.“
 
-V ten večer prišiel jeho šéf do práce. Vyzeral nahnevane. Rene sa modlil:„Prosím, pomôž. Upokoj môjho šéfa. Ale ak je Tvoja vôľa, aby som zomrel, prijímam to.“
+Ten večer přišel jeho šéf do práce. Vypadal naštvaně. Rene se modlil: „Prosím, pomoz mi. Ať se můj šéf uklidní. Ale pokud je Tvou vůlí, abych zemřel, přijímám to.“
 
-Potom si ho šéf zavolal. Rene sa pokúsil postaviť, ale nedokázal to. Kolená ho neudržali. Mal pocit, akoby zomieral.
+Pak si šéf Reneho zavolal. Rene se pokusil vstát, ale nemohl. Kolena ho neudržela. Cítil se, jako by umíral.
 
-Zo všetkých síl sa zdvihol zo stoličky a zhrbený, neistým krokom, kráčal do šéfovej kancelárie. Keď zdvihol ruku, aby zaklopal na dvere, počul šepot hlasu:„Neboj sa. Ja som pravý Boh. Som verný svojim zasľúbeniam.“
+Ze všech sil se zvedl ze židle a nemotorně, shrbený, došel do kanceláře svého šéfa. Když zvedl ruku, aby zaklepal na dveře, uslyšel hlas, který mu zašeptal: „Neboj se. Já jsem pravý Bůh. Jsem věrný svým slibům.“
 
-O chvíľu otvoril dvere a uvidel prísnu tvár svojho šéfa. Keď vstúpil, hlas zašepkal ešte dvakrát:„Ja som pravý Boh. Som verný svojim zasľúbeniam.“Pri každom opakovaní bol hlas silnejší.
+O chvíli později otevřel dveře a uviděl přísný výraz svého šéfa. Když vešel, hlas mu dvakrát zašeptal: „Já jsem pravý Bůh. Jsem věrný svým slibům.“ S každým opakováním byl hlas hlasitější.
 
-Šéf podal Renemu dva papiere a povedal:„Vyber si jeden.“
+Šéf podal Renemu dva kusy papíru a řekl: „Vyber si jeden.“ Když se Rene tvářil zmateně, šéf řekl: „Jeden je pracovní smlouva. Druhý je letenka.“ Renemu se ulevilo a tiše se pomodlil: „Děkuji, Pane, že to není vězení.“ Vybral si letenku.
 
-Keď Rene nechápal, šéf povedal:„Jeden je pracovná zmluva. Druhý je letenka.“
+Ale šéf řekl: „Nejdřív si přečti smlouvu.“
 
-Rene sa s úľavou v duchu pomodlil:„Ďakujem Ti, Pane, nie je to väzenie.“Vybral si letenku.
+Rene zjistil, že pokud bude v sobotu pracovat jednu hodinu, jeho plat se zdvojnásobí. Znovu si ale vybral letenku. Když přemýšlel, jak ji zaplatí, uslyšel znovu hlas, který říkal: „Já jsem pravý Bůh. Jsem věrný svým slibům.“
 
-Ale šéf povedal:„Najprv si prečítaj zmluvu.“
+Rene se vrátil domů na Filipíny. V letadle se modlil: „Říkáš: ‚Já jsem pravý Bůh. Jsem věrný svým slibům.‘ Jaký je Tvůj slib pro mě?“ Hlas zašeptal: „Neutratíš všechny své peníze, než si najdeš novou práci.“
 
-Rene videl, že jeho plat by sa zdvojnásobil, ak by pracoval jednu hodinu v sobotu. Znovu si vybral letenku. Keď premýšľal, ako ju zaplatí, opäť začul hlas, ktorý hovoril:„Ja som pravý Boh. Som verný svojim zasľúbeniam.“
+_Rene Tucaldo je finančním ředitelem hnutí 1000 Missionary Movement, jehož sídlo v Silangu na Filipínách bylo postaveno s pomocí sbírky třinácté soboty z roku 1996._
 
-Rene sa vrátil domov na Filipíny. V lietadle sa modlil:„Hovoríš: ‘Ja som pravý Boh. Som verný svojim zasľúbeniam.’ Aké je Tvoje zasľúbenie pre mňa?“
-
-Hlas zašepkal:„Nestihneš minúť všetky svoje peniaze, kým si nenájdeš novú prácu.“
-
-_Rene Tucaldo je finančný riaditeľ Hnutia 1000 misionárov, ktorého ústredie v Silangu na Filipínach bolo postavené s pomocou darov z trinástej soboty v roku 1996._
-
-_Pokračovanie príbehu si prečítajte budúci týždeň._
+_Zbytek příběhu si přečtete příští týden._
