@@ -1,0 +1,3 @@
+### Lesson Nokgipani Gimin Kan∙dike Talatani
+
+Clinton Wahlen, PhD, General Conferenceo Biblical Research Institute-ni associate director ong∙enga. Ua Niam Gital Sastroni gimin, hermeneutics, aro Adventist historyko u∙igipa ma∙sigipa ong∙a. Ua Germany, New Zealand, Russia, United Kingdom, aro Philippineso dongbaaha aro kam ka∙baaha. Ua uni jikgipa Gina baksa dal∙gimin dedrang sakgni gnang, namchik saksa aro su∙drang sakgni gnang.

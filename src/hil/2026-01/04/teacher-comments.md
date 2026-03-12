@@ -1,0 +1,68 @@
+---
+title:  Mga Komento Sang Mga Manunudlo
+date:   23/01/2026
+---
+
+### Bahin I: Kabilogan nga Panan-aw
+
+**Sadsaran nga Teksto:** Filipos 2:2
+
+**Sentro Sang Pagtoon:** Fil. 2:1-8
+
+Ang Filipos 2:1-4 nagasugod sa bahin sa diin ginasaysay ni Pablo ang ehemplo ni Cristo tuhoy sa pagpaubus para sa Cristohanon nga pagkabuhi (Fil. 2:1-18). Si Cristo amo ang aton pinakamataas nga sulundan bahin sa pagpanugyan sa Dios, gugma para sa Iya, kag paghiusa upud sa Iya. Sa tion sang Iya pagministerio diri sa duta, ginpalambo ni Cristo ang hapiit nga pagpakigsugilanon sa Amay kag tayuyon nga nagapatalupangud sang ila paghiusa (Juan 5:19; Juan 10:30, 38; Juan 12:45; Juan 14:9, 10; Juan 17:11, 21-24). Subong man, ginpatalupangud ni Jesus ang Iya paghiusa sa Balaan nga Espiritu (Juan 14:16, 26; Juan 15:26; Juan 16:7).
+
+Ang mga miyembro sang Pagka-Dios nagaluntad sing walay katubtuban nga may harmoniya kag mahigugmaon nga relasyon, nga nagahatag sang pagsulundan para sa paghiusa kag gugma nga magalaragway sang relasyon sa tunga sang mga tumuloo. Ginpahayag ni Pablo ang ini nga tema indi lamang sa mga taga-Filipos kondi sa bisan diin man nga duug. Halimbawa, sa panugod sang 1 Corinto, nagpamulong sia, “Ginapakilooy ko sa inyo, mga kauturan, sa ngalan sang aton Ginoong Jesu-Cristo, nga maghilisugut kamo tanan sa inyo nga walay pagbinahinbahin sa inyo, kondi mag-isa kamo ka painoino kag kaisipan” (1 Cor. 1:10; ipaanggid sa Roma 15:5-7; Gal. 3:26-29; Efe. 4:1-6; Col. 3:12-15).
+
+Ang leksyon sa sini nga semana nagapatalupangud sang tatlo ka dalagku nga tema:
+
+1. Ang pagkabuhi sa paghiusa kag pagpakita sang gugma para sa isa kag isa panguna nga Cristohanon nga mga responsibilidad kag ginapaabot nga kinaugali sa tagsa ka sumulunod ni Jesus.
+
+2. Bilang mga Cristohanon, ginatawag kita nga patubuon ang kaangay kay Cristo nga sahi sang panghunahuna. Si Pablo nagapatalupangud kon ano ang nalakip sa kaangay kay Cristo nga panghunahuna.
+
+3. Ang aton limitado nga panghunahuna indi makahangup sing bug-os sa makatalanhaga nga pagpakatawo ni Cristo. Ang ini nga pagpakatawo indi matungkad nga misteryo.
+
+### Bahin II: Komentaryo
+
+**Ilustrasyon**
+
+“Para sa siguridad, ang mga manugtaklad sa bukid nagahigot sang ila kaugalingon sing tingub sa pisi kon magtaklad sa bukid. Sa sina nga paagi, kon ang isa ka manugtaklad madanlog kag mahulog, indi sia mahulog sa iya kamatayon. Mabutong sia sang iban tubtub nga matigayon niya nga makatapak liwat.
+
+“Ang iglesia dapat mangin kaangay man sina. Kon may miyembro nga madanlog kag mahulog, ang iban magabutong sa iya paibabaw tubtub nga makatindug sia liwat. Ginhigtan kita tanan sang Balaan nga Espiritu.”—Michael P. Green, 1500 Illustrations for Biblical Preaching (Grand Rapids, MI: Baker Books, 2000), p. 66.
+
+**Paghiusa kag Gugma**
+
+Sa Filipos 2:1-4, si Pablo nagapalahidlahid nga ang maiyaiyahon nga ambisyon amo ang daku nga kabangdanan sang indi paghiusa sa sulud sang iglesia. Nagpahayag sia, “Dili maghimo sang bisan ano gikan sa pagkamaiyaiyahon nga ambisyon ukon pagpadayawdayaw” (Fil. 2:3). Ang mga pulong nga “ambisyon” kag “pagpadayawdayaw” ginabadbad direkta halin sa Griego nga pulong eritheia kag kenodoxia, pareho ini sila nga tumalagsahon lang sa Bag-ong Katipan. Ang una makita sing pito ka beses, nga halos yara lang gid sa sinulatan ni Pablo (Roma 2:8; 2 Cor. 12:20; Gal. 5:20; Fil. 1:16; Fil. 2:3; Sant. 3:14, 16). Ang ikaduha makita lamang sa sini nga teksto. Sing makagalanyat, ang tinaga eritheia indi makita sa Septuagint, ang Griego nga bersyon sang Daan nga Katipan, kag ang kenodoxia makita sing tatlo lamang ka beses, apang sa ginatawag nga noncanonical nga mga libro. Gani, daw kaangay nga ang paggamit ni Pablo sang sini nga mga pulong sa Filipos 2:3 wala nabase sa Griego nga bersyon sang Daan nga Katipan. Sa pihak nga bahin, ining mga pulong makita sa dumaan nga mga listahan sang mga bisyo, sa sinulatan sang mga pilosopo, agud kondenahon ang pagpaindisanay (tan-awa ang sinulatan ni Gerald F. Hawthorne, Philippians, tom. 43 of Word Biblical Commentary [Dallas: Word, Inc., 2004], p. 87). Indi makatilingala nga ang eritheia makita sa listahan sang mga sala nga nasulat sa 2 Corinto 12:20 kag Galacia 5:20. Sing maathag, si Pablo naggamit sang sini nga mga pulong agud mapatuhuyan ang mga kinaugali nga dapat likawan sang mga Cristohanon.
+
+Ang Filipos 2:1-4 nagapakita nga agud ang paghiusa mangin isa ka realidad sa iglesia, indi lamang likawan ang pagpaindisanay kag pagkamaiyaiyahon nga nagaguba sang harmoniya, kondi nga magpakita man sang Cristohanon nga mga kinaugali nga kinahanglanon para mapalig-on ang pagbatyag sang paghiliutud. Ang duug nga may harmoniya puno sang paglugpay, pagpaumpaw, gugma, paghiliupud, pagpalangga, kag kalooy (Fil. 2:1). Sa sina nga duug, ang katawohan nagahilisugot “sa bug-os nga tagiposoon,” nagahigugma sa isa kag isa, kag nagapangabudlay sing tingub “nga may paghiusa kag isa sing hunahuna” (Fil. 2:2).
+
+Apang, si Pablo wala nagadoso nga mangin pareho ang tanan, kondi nga dapat may paghiusa bisan pa may kinatuhaytuhay ang isa kag isa. Sa pagkondenar sang “maiyaiyahon nga ambisyon” kag “pagpadayawdayaw,” ginapresentar niya ang baliskad nga kinaiya, nga amo ang “pagpaubus sang hunahuna” (Fil 2:3). Ang ini nga panimuut ginpaathag pa gid sa masunod nga dinalan: “Magbilang sa iban nga maayo pa sa inyo kaugalingon” (Fil. 2:3). Ang ini nga panghunahuna tama ka importante sa bagay nga ginsulit ini ni Pablo sa lain naman nga mga pinulungan sa masunod nga bersikulo, “Dili magtamud ang tagsa sa inyo sa iya kaugalingon lamang nga mga butang, kondi man sa mga butang sang iban” (Fil. 2:4). Si Pablo wala nagapangabay sa iya tagpalamati nga sikwayon ang ila kaugalingon nga luyag kondi nga talupangdon ang luyag sang iban nga may maid-id nga pagtamud, sa baylo nga indi ini pagsapakon. Si Jesus amo ang aton Pinakadaku nga Ehemplo sa sini nga bahin. Gani, ginalaygayan ni Pablo ang iya mga tagpalamati nga patuboon ang kaangay kay Cristo nga panghunahuna.
+
+**Kaangay kay Cristo nga Panghunahuna**
+
+Ang Filipos 2:1-8 nagapresentar sang mga tinaga halin sa ginhalinan nga pulong sa Griego phren (ukon phron). Ang ining ginhalinan nga pulong gin-gamit agud mapahayag ang paggamit sa “painoino sang tawo para sa maid-id nga pagplano.”—Johannes P. Louw kag Eugene A. Nida, Greek-English Lexicon of the New Testament: Based on Semantic Domain, ikaduha nga edisyon, tom. 1 (New York: United Bible Societies, 1996), p. 324. Sa sini nga kaundan sang Filipos 2:2, si Pablo nagalaygay sa iya tagpalamati nga “maghunahuna sing parehas [to auto phronēte] paagi sa pag-angkon sang pareho nga gugma, [nga] nahiusa sa espiritu, kag nagahunahuna sang isa ka butang [to hen phronountes]” (badbad sang manunulat). Ang ini nga paghiliusa mangin posible lamang kon “sa mapainubuson nga panghunahuna [tapeinophrosyne] ang tagsa ka tawo magakabig sa iban nga mas importante sang sa ila kaugalingon” (Fil. 2:3, badbad sang manunulat). Ang talipuspusan sang sining pangatarungan nalambot sa masunod nga dinalan: “Hupti ninyo ang ini nga hunahuna [phroneite], nga yara man kay Cristo Jesus” (Fil. 2:5). Si Pablo nagapangabay sa mga taga-Filipos nga mag-angkon sang kaangay kay Cristo nga pamaagi sang panghunahuna, tungud ang ini lamang nga panghunahuna ang makadolot sang kaangay kay Cristo nga pamaagi sang pagbuhat.
+
+Ang mga iskolar nagadebate kon bala ang tinaga nga “ini” sa Filipos 2:5 (“ini nga hunahuna) nagapatuhoy sa pagpaubus nga namitlang sa Filipos 2:1-4 ukon sa pagkalolo ni Jesus, nga nalaragway paagi sa Iya kinaiya nga napahayag sa Filipos 2:6-8. Sa bisan diin man sa sini, si Jesus ang nagatindug bilang talaksan nga dapat sundon. Kaangay sang ginsulat ni Tom Wright, “Ang kada isa dapat magpatuhoy sa isa ka butang magluwas sa ila mga kaugalingon; kag ang ina nga butang amo si Jesu-Cristo mismo, ang Hari, ang Ginoo, kag ang maayong balita nga nagkari agud kuhaon ang kalibutan paagi sa Iya ngalan.”—Wright, Paul for Everyone: The Prison Letters, Ephesians, Philippians, Colossians, and Philemon (London, Society for Promoting Christian Knowledge, 2004), p. 98.
+
+Bilang mga Cristohanon, ginatawag kita agud mapalambo ang isa ka kaangay kay Cristo nga pamaagi sang paghunahuna kag pagbuhat. Si Pablo nagapakigbato nga si Jesus nakahibalo gid sing bug-os kon sin-o Sia (Fil. 2:6), kag apang sing kinabubut-on Iya gin-ula ang Iya kaugalingon (Fil. 2:7) kag niyan ginpaubus sang Iya kaugalingon (Fil. 2:8). Si Pablo nagapaathag nga (1) gin-ula ni Jesus ang Iya kaugalingon “nga nangindagway sang ulipon, nga natawo sa kanggid sang mga tawo” (Fil. 2:7), kag (2) “nagpaubus sia sang iya kaugalingon kag nanginmasinolondon tubtub sa kamatayon” (Fil. 2:8). Sa kabug-osan, si Jesus nangin Alagad (tan-awa ang Mat. 20:28 kag Mar. 10:45) kag ginhalad ang Iya kaugalingon para sa kaluwasan sang iban (tan-awa ang 2 Cor. 8:9; Heb. 12:2) sa pagtuman sa kabubut-on sang Dios (tan-awa ang Mat. 26:39; Roma 5:19). Yadtong may kaangay kay Cristo nga panghunahuna handa nga maghimo sang pareho man sina.
+
+**Ang Indi Matungkad nga Misteryo (Tinago)**
+
+Sa 1 Timoteo 3:16, si Pablo nagahatag sang sumaryo bahin sa misyon ni Jesus. Ang Iya pagpakatawo, kamatayon, pagkabanhaw, pagkayab, kag bisan pa ang pagpatuhoy sa pagbantala sang maayong balita sa mga Gentil kag ang pagliso sang iban sa ila, nalaragway sa pila gid lamang ka pulong. Ang pagministerio ni Jesus sa duta kag ang resulta sini napakita bilang kaundan sang misteryo sang Pagka-Dios.
+
+Ang Griego nga tinaga mysterion (“misteryo”) makita sang 28 ka beses sa Bag-ong Katipan, kalabanan sa sinulatan ni Pablo (21 ka beses). Sa masami, ang ini nga dinalan may importante nga kabug-aton sa sinulatan ni Pablo nga nagapatuhoy kay Cristo. Halimbawa, sa Roma 16:25, ginaangot ni Pablo ang misteryo sa mensahe sang ebanghelyo. Sa amo man, sa Efeso 3:2-13, sulitsulit sia nga nagapamulong sa kaundan sang iya pagministerio sa mga Gentil. Si Pablo nagasiling nga “bangud sang bugna ginpakilala sa akon ang tinago [misteryo]” (Efe. 3:3), sa diin sini “makahantup kamo sang akon paghangup sang tinago [misteryo] ni Cristo” (Efe. 3:4). Ang nagkalainlain nga mga iskolar ang nagauyon nga ang dinalan “ang tinago [misteryo] ni Cristo” sarang mahangup bilang “ang tinago [misteryo], nga amo si Cristo.” Ginapalambo ni Pablo ang ideya sing mas masangkad pa sa Colosas. Nagapamulong sia nahanungud sa “tinago [misteryo] nga nalipdan sa mga katuigan kag mga kaliwatan” (Col. 1:26). Dugang pa, nagapatuhoy sia sa “sining tinago [misteryo] sa tunga sang mga Gentil, nga amo si Cristo sa inyo” (Col. 1:27; tan-awa man ang Col. 2:2; Col. 4:3). Sa Efeso 6:19, si apostol Pablo nagamitlang sang iya buluhaton sa pagbantala “sang tinago [misteryo] sang maayong balita” ukon “ang tinago [misteryo], nga amo ang maayong balita.” Sa Roma 11:25, ang misteryo may kaangtanan sa kamatooran nga ang maayong balita magalambot sa mga Gentil. Dugang pa, si Pablo nagapahangup nga ang bugay sang Dios isa ka misteryo, nga indi gid matungkad (Roma 11:33). Sa pagkamatuud, amo gid man ina! Si Jesus handa nga magbatas “sang cruz, nga nagatamay sang kahuluy-an” (Heb. 12:2). Kaangay sang ginbutang ni Pablo sa Filipos 2:8, si Jesus nagpaubus sang Iya kaugalingon tubtub sa kamatayon, “bisan kamatayon sa cruz.”
+
+### Bahin III: Aplikasyon sa Kabuhi
+
+Pamalandungi ang masunod nga mga tema. Pagkatapos pangabaya ang imo mga upud sa grupo nga sabton ang mga pamangkot sa katapusan sang sini nga seksion:
+
+“Ang bisita sa mental ospital natingala sang iya nahibaloan nga may tatlo lamang ka guwardiya nga nagabantay sa sobra isa ka gatus ka delikado nga mga bilanggo. Ginpamangkot niya ang nagatuytuy sa iya, ‘Wala ka bala mahadluk nga ang ining mga tawo magalandas sa mga guwardiya kag malagyo?’ ‘Wala,’ amo ang sabat. ‘Ang may problema sa panghunahuna wala nagahiusa.’ ”—Michael P. Green, 1500 Illustrations for Biblical Preaching (Grand Rapids, MI: Baker Books, 2000), p. 65. Ang ini nga istorya nagalaragway sang posible nga pagkawasi sang pagtubo sang komunidad tungud lamang sang kakulang sa paghiusa. Ang pagbahinbahin tama kalala nga kondisyon kag dapat nga likawan sang mga Cristohanon bisan ano pa man ang matabo.
+
+Wala na sing mas peligroso pa sa kaayohan sang komunidad sang mga tumuloo sang sa kakulang sang paghiusa. Amo ina kon ngaa si Pablo nagkabalaka gid nahanungud sini kag nagpaathag nga ang pagkabuhi sa paghiusa indi lamang Cristohanon nga kinaiya kondi isa man ka sogo: “Himun-i ninyo ang akon kalipay nga mag-isa kamo sing hunahuna” (Fil. 2;2), kag “Dili magtamud ang tagsa sa inyo sa iya kaugalingon lamang nga mga butang, kondi man sa mga butang sang iban” (Fil. 2:4).
+
+Si Jesus amo ang aton pinakamaayo nga halimbawa sa pag-ulikid para sa kaayohan sang iban. Nangin imol Sia agud nga, paagi sa Iya kapigadohon, mangin manggaranon kita (2 Cor. 8:9). Gani, ang panawagan ni Pablo para sa iya mga manugbasa nga maangkon ang kaangay kay Cristo nga pamaagi sang panghunahuna indi na dapat magapakibot sa aton. Dapat naton sundon ang mga panudlo ni Jesus, nga nagapakita sang pagpaubus kag pagkamatinumanon sa Dios. Bisan pa nga indi naton mahangpan sing bug-os ang kasangkaron sang pagpakatawo ni Cristo, nagakaigo na ang aton nahibaloan agud magkabuhi nga may paghiusa sa isa kag isa.
+
+**Mga Pamangkot:**
+
+1. Ano ang buut silingon sang pag-ulikid sa kaayohan sang iban? Ano ang pipila ka pamaagi nga mapakita naton ang ina nga ideya?
+
+2. Ngaa ang paghiusa sa tunga sang mga tumuloo tama ka importante? Ano ang sarang naton mahimo agud mapauswag ang paghiusa sa sulud sang iglesia?

@@ -31,7 +31,7 @@ This week’s lesson emphasizes three major themes:
 
 In Philippians 3:1–3, Paul introduces a warning against pride in human achievements. The exhortation, “Rejoice in the Lord,” in verse 1 expresses a concept that is often found in the Old Testament, especially in the book of Psalms. A few remarkable examples include: “The king shall have joy in Your strength, O Lord; and in Your salvation how greatly shall he rejoice” (Ps. 21:1, NKJV); “Be glad in the Lord and rejoice, you righteous” (Ps. 32:11, NKJV); “Let the righteous one rejoice in the Lord” (Ps. 64:10, ESV; compare with Ps. 97:12); “Rejoice the soul of Your servant” (Ps. 86:4, NKJV); “For you have made me rejoice, Lord” (Ps. 92:4, CSB); “May my meditation be pleasing to him, for I rejoice in the Lord” (Ps. 104:34, ESV); “The Lord has done great things for us, and we rejoiced” (Ps. 126:3, NRSV). In fact, rejoicing in the Lord is a commandment repeatedly highlighted throughout the book of Deuteronomy (see Deut. 12:7, 12, 18; Deut. 14:26; Deut. 16:11, 15; Deut. 26:11; Deut. 27:7).
 
-In Philippians 3:1–3, the idea of rejoicing occurs twice in some English translations—“rejoice in the Lord” (Phil. 3:1) and “rejoice in Christ Jesus” (Phil. 3:3, NKJV, etc.). However, the original text in Greek uses two different words. In Philippians 3:1, Paul employs the term chairō, which the New Testament frequently portrays happiness and well-being. On the other hand, in Philippians 3:3, Paul uses the term kauchaomai, which the King James Version regularly translates as “boasting,” both in Romans (see Rom. 2:17, 23), and especially in 2 Corinthians, where it is also translated as “glory” or “glorying” (2 Cor. 5:12; 2 Cor. 7:14; 2 Cor. 9:2; 2 Cor. 10:8, 13, 15, 16; 2 Cor. 11:12, 16, 18, 30; 2 Cor. 12:1, 5, 6, 9, 11). The verb kauchaomai conveys a more nuanced sense of exultation than does chairō.
+In Philippians 3:1–3, the idea of rejoicing occurs twice in some English translations—“rejoice in the Lord” (Phil. 3:1) and “rejoice in Christ Jesus” (Phil. 3:3, NKJV, etc.). However, the original text in Greek uses two different words. In Philippians 3:1, Paul employs the term _chairō_, which the New Testament frequently portrays happiness and well-being. On the other hand, in Philippians 3:3, Paul uses the term _kauchaomai_, which the King James Version regularly translates as “boasting,” both in Romans (see Rom. 2:17, 23), and especially in 2 Corinthians, where it is also translated as “glory” or “glorying” (2 Cor. 5:12; 2 Cor. 7:14; 2 Cor. 9:2; 2 Cor. 10:8, 13, 15, 16; 2 Cor. 11:12, 16, 18, 30; 2 Cor. 12:1, 5, 6, 9, 11). The verb _kauchaomai_ conveys a more nuanced sense of exultation than does _chairō_.
 
 Therefore, the original text translated as “rejoice in Christ Jesus” in Philippians 3:3 also could be translated as “boast in Christ Jesus” (as in the NRSV) or “glory in Christ Jesus” (as in the ESV). Paul uses a strong word in order to make it clear that confidence in Christ and reliance on human efforts are mutually exclusive: one thing naturally invalidates the other! In this sense, Paul’s expression is very similar to what he says in Galatians 6:13, 14. Paul reproves those who boast in the flesh (Gal. 6:13) and affirms that the only reason for his boasting is the cross of Christ (Gal. 6:14).
 
@@ -43,15 +43,12 @@ The warning against pride in human achievements, introduced in Philippians 3:1�
 
 In Philippians 3:7–9, Paul contrasts his post-conversion life with his pre-converted experiences, as described previously. The terms “gain” and “loss” stand out in this short passage. Verses 7 and 8 are arranged in a concentric order, as follows:
 
-A.	“What things were gain to me” (Phil. 3:7a, NKJV),
+- A. “What things were gain to me” (Phil. 3:7a, NKJV),
+	- B. “I have counted loss for Christ” (Phil. 3:7b, NKJV).
+	- B’ “I also count all things loss” (Phil. 3:8a, NKJV),
+- A’ that I may gain Christ” (Phil. 3:8b, NKJV).
 
-B.	“I have counted loss for Christ” (Phil. 3:7b, NKJV).
-
-B’	“I also count all things loss” (Phil. 3:8a, NKJV),
-
-A’	that I may gain Christ” (Phil. 3:8b, NKJV).
-
-This concentric structure, also known as chiastic structure, emphasizes the radical change in Paul’s mindset. In addition to the term “loss” (from the Greek zēmia), Paul also uses its verbal form, “to suffer loss” (from the Greek zēmioō), in Philippians 3:8. This accentuation makes the emphasis on the change of his mindset even more remarkable. The items in the sevenfold list of autobiographical boasting are considered as loss in light of “the excellence of the knowledge of Christ Jesus” (Phil. 3:8, NKJV). The knowledge of Christ brought all things in Paul’s early life into the right perspective. Paul turned from confidence in the flesh to confidence in Christ (Phil. 3:8), from a law-focused righteousness to a Christ-centered righteousness, completely dependent on faith in God’s grace (Phil. 3:9).
+This concentric structure, also known as chiastic structure, emphasizes the radical change in Paul’s mindset. In addition to the term “loss” (from the Greek _zēmia_), Paul also uses its verbal form, “to suffer loss” (from the Greek _zēmioō_), in Philippians 3:8. This accentuation makes the emphasis on the change of his mindset even more remarkable. The items in the sevenfold list of autobiographical boasting are considered as loss in light of “the excellence of the knowledge of Christ Jesus” (Phil. 3:8, NKJV). The knowledge of Christ brought all things in Paul’s early life into the right perspective. Paul turned from confidence in the flesh to confidence in Christ (Phil. 3:8), from a law-focused righteousness to a Christ-centered righteousness, completely dependent on faith in God’s grace (Phil. 3:9).
 
 **Knowing Christ Is a Progressive Experience**
 

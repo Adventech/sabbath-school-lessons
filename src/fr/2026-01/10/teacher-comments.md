@@ -1,0 +1,60 @@
+---
+title:  Approfondissement
+date:   06/03/2026
+---
+
+### Ire partie: Aperçu
+
+**Texte clé:** Colossiens 2:16, 17
+
+**Étude contextuelle:** Col 2.
+
+Dans la conclusion de Colossiens 1, Paul exprime son désir que son auditoire croisse en maturité en Christ (Col 1:28). Dans Colossiens 2, il développe cette idée. Colossiens 2:1-5 posent les bases de ce qui suit. Paul veut que ses lecteurs «soient unis dans la charité» (Col 2:2, LSG), qu’ils atteignent «une pleine intelligence pour connaitre le mystère de Dieu» (Col 2:2, LSG; c’est nous qui soulignons), et qu’ils affermissent leur foi en Christ (Col 2:5). En somme, Paul souhaite que ses lecteurs grandissent dans leur foi, dans leur connaissance du mystère de Dieu et dans leur amour pour le Christ et les uns pour les autres. En substance, Paul exhorte son auditoire à être «complets» en Christ, ou, pour utiliser un terme différent, à faire preuve de «maturité» dans l’exercice de leur foi. Dans Colossiens 2:6-23, Paul précise comment atteindre cet objectif.
+
+La leçon de cette semaine met l’accent sur deux thèmes principaux:
+
+1. La perfection en Christ implique le fait de Le connaitre et de croitre en Lui. Ce cheminement nous prémunit contre les faux enseignants.
+2. La perfection en Christ implique également le fait de placer toute notre confiance en Lui pour le salut, et non dans les règles. Il est important de noter que la Croix rend la loi cérémonielle inutile, mais non la loi morale. Les rites cérémoniels de l’Ancien Testament n’étaient que des ombres de l’œuvre et du sacrifice futurs du Christ. Ces types ont pris fin avec Sa mort. Les Dix Commandements, y compris le sabbat du septième jour, demeurent pleinement valables.
+
+### IIe partie: Commentaire
+
+**Illustration**
+
+«Lorsque James Garfield, qui devint plus tard président des États-Unis, était directeur du Hiram College dans l’Ohio, un père lui demanda si le cursus de son fils pouvait être abrégé afin que celui-ci termine ses études plus rapidement. “Certainement”, répondit Garfield. “Mais tout dépend de ce que vous voulez faire de votre garçon. Si Dieu veut faire un chêne, Il prend cent ans. S’Il veut faire une courge, Il n’a besoin que de deux mois.”» (Michael P. Green, 1500 Illustrations for Biblical Preaching, Grand Rapids, MI: Baker Books, 2000, p. 356).
+
+Paul dit: «celui qui a commencé en vous cette bonne œuvre la rendra parfaite pour le jour de Jésus Christ» (Phil 1:6, LSG). Commentant le cheminement spirituel de David, Alan Redpath exprime la même idée: «La conversion d’une âme est le miracle d’un moment, la formation d’un saint est l’œuvre de toute une vie.» (Alan Redpath, The Making of a Man of God: Lessons from the Life of David, Grand Rapids, MI: Fleming H. Revell, 2013, extrait de l’avant-propos).
+
+**Connaitre Christ et croitre en Lui**
+
+La lecture de Colossiens permet de conclure que Paul était très préoccupé par l’infiltration de faux enseignants dans l’Église. Cette inquiétude transparait probablement dans l’expression: «combien est grand le combat que je soutiens pour vous» (Col 2:1, LSG). Dans ce contexte, le terme «combat» évoque sans doute «l’anxiété» ou «la préoccupation». (William Arndt et al., A Greek-English Lexicon of the New Testament and Other Early Christian Literature, Chicago, University of Chicago Press, 2000, p. 17). Le mot grec traduit par «combat» est utilisé ailleurs en référence à une lutte contre une opposition humaine ou spirituelle (par exemple, 1 Thes 2:2). Dans ce contexte, il décrit «l’œuvre infatigable de l’apôtre – une lutte intense pour la propagation, la croissance et l’affermissement de la foi, but de sa mission». (David J. Williams, Paul’s Metaphors: Their Context and Character, Grand Rapids, MI: Baker Academic, 1999, p. 290).
+
+Le terme «combat» provient du domaine sportif, plus précisément des compétitions. Il suggère ainsi un effort acharné. Ces éléments montrent que Paul ne considérait pas la lutte contre les faux enseignements comme une question secondaire. Nous ne devons pas non plus la considérer comme telle. Il est très probable que ce «combat» en faveur des Colossiens désigne la prière fervente de Paul pour eux. Il intercédait afin que leurs cœurs soient affermis, de sorte qu’ils ne soient pas séduits par de faux enseignements. Il souhaitait qu’ils soient «unis dans la charité, et enrichis d’une pleine intelligence pour connaitre le mystère de Dieu, savoir Christ» (Col 2:2, LSG).
+
+Le concept de la connaissance est central dans Colossiens. Tout au long de l’Épitre, Paul désire que son auditoire parvienne à la connaissance de «la grâce de Dieu conformément à la vérité» (Col 1:6, LSG), de «sa volonté, en toute sagesse et intelligence spirituelle» (Col 1:9, LSG), de «la glorieuse richesse de ce mystère parmi les païens, savoir: Christ en vous» (Col 1:27, LSG), et du «mystère de Dieu, savoir Christ» (Col 2:2, LSG). En somme, Paul montre que l’antidote aux faux enseignements réside dans la connaissance de Dieu et du Christ (Col 2:1-4, 8). Cette connaissance découle de la Parole de Dieu, comme il le suggère dans Colossiens 3:16: «Que la parole de Christ habite parmi vous abondamment; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs sous l’inspiration de la grâce» (LSG).
+
+**Le Christ, notre seul espoir de salut**
+
+Dans Colossiens 2:11-15, Paul exalte l’œuvre rédemptrice du Christ pour nous. En Christ, nous avons reçu une circoncision «qui n’est pas faite de main d’homme» (Col 2:11, LSG), c’est-à-dire l’œuvre de Christ dans notre cœur. Nous avons été «ensevelis avec lui par le baptême» et «ressuscités en lui» (Col 2:12, LSG). En d’autres termes, Dieu nous a rendus vivants avec Christ en «nous faisant grâce pour toutes nos offenses» (Col 2:13, LSG). En somme, Paul affirme que Christ est notre unique espoir de salut.
+
+Cependant, certaines déclarations de Paul dans Colossiens 2, en particulier dans Colossiens 2:11-23, sont utilisées par beaucoup aujourd’hui pour suggérer que l’apôtre parle de l’annulation des Dix Commandements; plus précisément, il est avancé que le sabbat du septième jour n’est plus valide ni contraignant pour les chrétiens. Contrairement à cette affirmation, Colossiens 2 ne traite pas de l’abrogation des Dix Commandements. Paul laisse entendre à plusieurs reprises dans ses lettres, dans l’Épitre aux Colossiens comme ailleurs, que les Dix Commandements demeurent valables pour les chrétiens, comme on peut le constater dans les passages suivants.
+
+Paul cite le cinquième commandement dans Éphésiens 6:2, 3, le sixième, le septième et le huitième dans Romains 13:9, et le dixième dans Romains 7:7 (et aussi dans Rm 13:9). Dans Colossiens 3:20, il répète une exhortation que l’on retrouve également dans Éphésiens 6:1: «Enfants, obéissez à vos parents» (LSG). Sur la base d’Éphésiens 6:1-3, on peut conclure que l’exhortation «Enfants, obéissez à vos parents» (présente à la fois dans Eph 6:1 et Col 3:20) repose sur la validité du cinquième commandement (Eph 6:2, 3; cf. Ex 20:12). Dans tous ces passages, il est sous-entendu que les Dix Commandements restent obligatoires pour les croyants sous la nouvelle alliance. Par ailleurs, les listes de vices et de vertus dans les Épitres pauliniennes, en particulier la liste de vices que l’on trouve dans Colossiens 3:5-9, s’inscrivent dans le cadre des dix commandements (voir David W. Pao, Colossians & Philemon, Zondervan Exegetical Commentary on the New Testament [Grand Rapids, MI: Zondervan, 2012], p. 220).
+
+Un érudit non adventiste reconnait ceci: «Il y a de bonnes raisons de croire… que les Dix Commandements… nous sont toujours valables. Quand, par exemple, Jésus parle des “commandements”, il est clair qu’il s’agit des Dix Commandements (Lc 18:20). De même, lorsque Paul parle de la loi dans Romains 7:7, il se réfère aux Dix Commandements.» (Iain D. Campbell, Opening up Exodus, Opening Up Commentary (Leominster, U.K.: Day One Publications, 2006), p. 83).
+
+S’agissant du sabbat du septième jour, le Nouveau Testament montre qu’il demeure en vigueur pour les croyants sous la nouvelle alliance. Tout comme Jésus, Paul observait le sabbat (voir Lc 4:16; Ac 17:2). Dans Apocalypse 14:6, 7, une allusion au quatrième commandement souligne la validité du sabbat du septième jour pour les chrétiens. De même, lorsque Paul et Barnabas protestèrent contre le fait d’être adorés par les idolâtres, ils attirèrent l’attention sur l’adoration du «Dieu vivant, qui a fait le ciel, la terre, la mer, et tout ce qui s’y trouve» (Ac 14:15; voir Ex 20:11). Il est également possible que, dans sa présentation de la prééminence du Christ dans Colossiens 1:15-20, Paul ait à l’esprit Genèse 1 et 2 ainsi qu’Exode 20:8-11. Ces deux passages ont en commun le thème du sabbat (voir John K. McVay, “Colossians,” in Ángel Manuel Rodríguez, ed., Andrews Bible Commentary: New Testament [Berrien Springs, MI: Andrews University Press, 2022], pp. 1745, 1751–1753).
+
+Étant donné que Paul était un observateur du sabbat, il est évident qu’il ne peut plaider en faveur de l’annulation des Dix Commandements dans Colossiens 2:11-23. Ainsi, «l’acte dont les ordonnances nous condamnaient» (Col 2:14, LSG), cloué à la croix, ne fait pas référence à la loi morale. Il peut s’agir d’une allusion à la loi cérémonielle ou à une sorte de certificat de dette. De même, Colossiens 2:16 ne traite pas du sabbat hebdomadaire du septième jour. Le texte fait probablement référence à (1) des sabbats cérémoniels, (2) des sacrifices offerts lors des fêtes juives ou (3) à l’observation du sabbat du septième jour pour de mauvaises raisons. Pour plus de détails, voir John K. McVay, “Colossians,” in Ángel Manuel Rodríguez, ed., Andrews Bible Commentary: New Testament (Berrien Springs, MI: Andrews University Press, 2022), pp. 1752, 1753
+
+### IIIe partie: Application
+
+Méditez sur les thèmes suivants, puis invitez les membres de votre classe à répondre aux questions à la fin de cette section:
+
+Philippiens 1:6 est sans doute l’un des passages les plus connus de la Bible. Nous aimons cette promesse: «celui qui a commencé en vous cette bonne œuvre la rendra parfaite pour le jour de Jésus Christ» (LSG). Il est essentiel de se rappeler que la perfection en Christ implique un processus d’apprentissage à travers Sa Parole. En effet, il est impossible de demeurer en Lui si Ses paroles ne demeurent pas en nous (Jn 15:7). De la Parole de Dieu, nous recevons la nourriture nécessaire à la croissance spirituelle (1 Pi 2:2), y compris à la croissance dans la foi (Rm 10:17). Comme le dit le psalmiste: «Ceux qui connaissent ton nom se confient en toi» (Ps 9:10, LSG). La connaissance de Dieu et de Sa Parole nous prémunit contre les faux enseignements.
+
+La véritable connaissance de Dieu conduit naturellement à la soumission et à la fidélité envers Lui. À cet égard, la loi morale joue un rôle fondamental, car elle nous révèle le caractère de Dieu et Sa volonté. Pourtant, certains affirment que la loi constitue un obstacle à l’Évangile. Or, rien n’est plus faux que cette déclaration. La réalité est tout autre. Selon les propos de Joe M. Sprinkle, un érudit non adventiste, la loi morale «est un prélude à l’Évangile» en ce sens qu’elle «désigne Christ, qui est l’accomplissement de la loi». (Joe Sprinkle, Biblical Law and Its Relevance: A Christian Understanding and Ethical Application for Today of the Mosaic Regulations, cité par Roy E. Gane, Old Testament Law for Christians: Original Context and Enduring Application (Grand Rapids, MI: Baker Academic, 2017), p. 4, note de bas de page 2).
+
+**Questions:**
+
+1. Partagez avec la classe votre texte biblique préféré. De quelle manière ce texte vous a-t-il nourri, fortifié dans votre relation avec Dieu ou protégé des faux enseignements?
+2. Comment la loi morale désigne-t-elle Jésus? En quoi Jésus est-Il l’accomplissement de la loi? Pourquoi est-il erroné d’affirmer que la loi morale constitue un obstacle à l’Évangile?

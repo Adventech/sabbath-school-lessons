@@ -20,3 +20,5 @@ Ellen Whiteová hovorí: „Iba Kristova metóda prinesie skutočný úspech v o
 Dnes je Sun misionárom na plný úväzok. Pracuje ako zástupca riaditeľa organizácie 1000 Missionary Movement, ktorá je súčasťou Južnej ázijsko-tichomorskej divízie Cirkvi adventistov siedmeho dňa. Každoročne vyškolí stovky misionárov v ústredí organizácie, vybudovanej s pomocou 13. sobotnej zbierky z roku 1996 v Silangu na Filipínach. „Byť misionárom je najvyššie povolanie,“ povedal. „Misionári nevyučujú iba Bibliu, ale tiež predstavujú Ježiša vo svojich životoch.“
 
 _Rovnako ako 13. sobotná zbierka z roku 1996 stále rezonuje v Južnej ázijsko-tichomorskej divízii a mimo nej prostredníctvom práce hnutia 1000 Missionary Movement, aj 13. sobotná zbierka tohto štvrťroka môže s Božím požehnaním mať dlhodobý vplyv. Ďakujeme vám za vaše štedré príspevky v túto sobotu._
+
+![Kim Sun](picture13.jpg)

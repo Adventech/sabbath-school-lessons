@@ -1,0 +1,70 @@
+---
+  pdf:
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_00_POUKA_MK.pdf
+      title: Вовед
+      target: mk/2026-01/01
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_01_POUKA_MK.pdf
+      target: mk/2026-01/01
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/01
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_02_POUKA_MK.pdf
+      target: mk/2026-01/02
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/02
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_03_POUKA_MK.pdf
+      target: mk/2026-01/03
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/03
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_04_POUKA_MK.pdf
+      target: mk/2026-01/04
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/04
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_05_POUKA_MK.pdf
+      target: mk/2026-01/05
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/05
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_06_POUKA_MK.pdf
+      target: mk/2026-01/06
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/06
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_07_POUKA_MK.pdf
+      target: mk/2026-01/07
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/07
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_08_POUKA_MK.pdf
+      target: mk/2026-01/08
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/08
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_09_POUKA_MK.pdf
+      target: mk/2026-01/09
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/09
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_10_POUKA_MK.pdf
+      target: mk/2026-01/10
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/10
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_11_POUKA_MK.pdf
+      target: mk/2026-01/11
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/11
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_12_POUKA_MK.pdf
+      target: mk/2026-01/12
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/12
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_13_POUKA_MK.pdf
+      target: mk/2026-01/13
+    - src: https://d2yk1szcs6cy4q.cloudfront.net/pdf/202601/202601_UTRINSKI_POUKA_MK.pdf
+      title: Утрински стихови
+      target: mk/2026-01/13

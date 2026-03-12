@@ -1,0 +1,69 @@
+---
+title:  Komento Dagiti Mannursuro
+date:   02/01/2026
+---
+
+### Paset I: Pakabuklan
+
+**Kangrunaan a Teksto:** Filipos 4:4
+
+**Pakaisentroan ti Adal:** Roma 8:12–39
+
+Ni Pablo ket sinangona dagiti adu a suot ken rigrigat kabayatan nga inwaragawagna ti damag ti Dios maipapan iti pannakaisalakan. Malaksid ken Jesus, adda dagiti manmano a nagibtor iti adu a panagsagsagaba a kas ken Pablo agpaay iti evangelio. Ti listaanna iti rigrigat ket maikari iti naannad a panangkita ken panangutobtayo. Dagitoy a kinarigat ket iramanna, ngem saan a nakedngan iti, rigrigat, panagdandanag, pannakaidadanes, bisin, waw, kinalamolamo, kampilan, pannakababaot, kinaawan pagtaengan, pannakapabain, pannakapadpadakes, dandanag, pannakapaidam, pannaka­sapsaplit, riribok, panagrigrigat, panagpuypuyat, panagayunar, pannakadusa, ladingit, kinapanglaw, pannakaubor, pannakarba ti barangay, masansan a panagpagpagna, dagiti kasasaad a mangam-ames iti biag iti nadumaduma a langa—mabalin a kadagiti karkarayan, kadagiti tulisan (manipud iti bukodna a tattao ken kadagiti Gentil), wenno idiay ciudad, idiay let-ang, idiay baybay, ken dadduma pay. Dagiti sinagrap ni Pablo ket manipud met kadagiti saksakit ken pagkapkapsutanna, kadua iti karit a panangaywan kadagiti ig-glesia. Nalawag unay, kitaentayo met dagiti pannakaibalbaludna (idilig iti, Roma 8:35; 1 Corinto 4:11–13; 2 Corinto 4:8, 9; 2 Corinto 6:4, 5, 9, 10; 2 Corinto 11:23–29; 2 Corinto 12:10; Efeso 4:1). Ti biag ni Pablo ket adayo manipud iti nalaka!
+
+Masapul nga aganges iti nauneg ti maysa tapno maibalikasna ti intero nga immun-una a listaan nga awan sardayna. Adu dagiti kanito nga adu kadatayo ti makasarak kadagiti bagbagitayo a mauppapay maipapan kadagiti adayo a basbassit a bambanag. Nupay kasta, no ti listaan ni Pablo kadagiti panagsagaba ket makapasiddaaw, ti di magaraw a panagtalekna ket ad-adda pay a nakaskasdaaw. Kunana, “Saan, no di ket cadagitoy amin a banbanag agbal-ligitayo, pay a naananay, gapu iti daydiay nagayat cadatayo” (Roma 8:37).
+
+Daytoy adal ita a lawas ket ipaganetgetna dagiti dua a kangrunaan a tema:
+
+1. Dagiti rigrigat ni Pablo agpaay iti evangelio, nangnangruna unay dagiti pannakaibalbaludna.
+2. Dagiti istratehiya ni Pablo iti panangikasaba iti evangelio iti kabebertudan a wagas, uray pay kadagiti makakarit unay a paspasamak.
+
+### Paset II: Komentaryo
+
+**Mangiladawan**
+
+Ni G. Curtis Jones ket ibagana ti maysa nga istoria maipapan iti misionero mediko (medical missionary) a ni Wilfred Grenfell (1865–1940). Idi nadamag no apay nga intalagana ti bagina iti naimpusoan unay kadagiti nacristianoan a misyon, ni Grenfell simmungbat babaen iti sumaganad nga istoria:
+
+“Iti maysa a hospital nga idiay ket maysaak a doktor (resident physician), maysa a babai iti naiyeg iti maysa a rabii a nakabutbuteng a napuoran. . . . ti asawana ket nagawid iti pagtaenganda a nabartek ket imbatona ti maysa a kinki a pagsilawan kenkuana. Dagiti polis ket naayaban ket tiniliwda ti nganngani mausawan nga asawa a lalaki. Ti opisyal ket nagsanggir iti pagiddaanna ken impapilitna a ti pasiente ket ibagana iti polis ti apagisu a napasamak. Imbagana iti babai ti kinapateg ti panangibaga iti sibubukel a kinapudno agsipud ta isu ket addaan laengen iti bassit a gundaway nga agbiag.
+
+“Ti agrigrigat a kararua ket nagwingiwing, a likliklikanna a sangoen ti asawana a lalaki, nga isu a nakatakder iti sakaanan iti pagiddaanna. Kamaudiananna dagiti matana naiturong kadagiti napigsa nga im-ima ti asawana a lalaki, simmaruno nagpangato kadagiti taktakiagna ken kalpasanna kadagiti abagana ken kadagiti matmatana. Nagsabat dagiti panagkitada. Dagiti langa ti panagsagsagaba iti rupa ti babai apagkanito a nagpukaw, kabayatan a ti dungngo ken ayat ti nagparang iti rupa ti babai. Kinitana ti opisyal ken sitatalna a kinunana, ‘Sir, dayta ket maysa laeng a disgrasya,’ ket kalpasanna nagtupak a nagsubli iti punganna, natay. Innayon ni Grenfell, ‘Daytoy ket kas la ti Dios, ket ti Dios ket kasta. Ti ayatna ket makitana ti labes dagiti basbasoltayo.’ ” Ni Curtis Jones iladawanna daytoy a kita ti ayat a kas maysa nga “agsagsagaba nga ayat.”—G. Curtis Jones, 1000 Illustrations for Preaching and Teaching (Nashville, TN: Broadman & Holman Publishers, 1986), p. 55.
+
+Umanamongtayo man wenno saan iti inaramid ti babai, ken mabalin a maaramid iti napigsa unay a panangdagdagup a di umiso ti inaramidna, kaskasdi ti punto ket napigsa unay. Kas iti adu nga ayat nga impaduyakyak ti babai iti istoria ni Grenfell, ti ayat ni Pablo ket inabrasana met ti panagsagaba.
+
+**Agsagsagaba nga Ayat**
+
+Idiay Roma 8:35, ni Pablo ket iyebkasna ti nauneg a pammatalged ti ayat ni Cristo agpaay kenkuana—ken agpaay kadatayo amin—babaen ti maysa a mamagpanunot a saludsod, “Siasino ti mangisinanto cadatayo iti ayat ni Cristo?” Ti ninamnama a sungbat ket nalawag unay, “Awan!” No ti Dios “saan a nangipaidam iti Anacna met laeng” (Roma 8:32), apay koma nga iti aniaman a rigat ket makabalinto a mangisina kadatayo iti ayat ni Cristo? Pinaneknekan ti Dios ti ayatna babaen ti panangitedna kadatayo iti bugbugtong nga Anakna, ken mairaman Kencuana ket dagiti amin a banbanag (Roma 8:32). Saan a kasapulan ni Pablo iti ad-adu pay a pammaneknek iti ayat ti Dios. Uray met datayo.
+
+Ni Pablo ket natalek unay iti ayat ti Dios ta imbagana dayta a naulit-ulit (Roma 8:37, 39). Gapu iti ayat, ni Jesus ket siaanamung unay a nagibtor iti panagsagsagaba ken ipapatay agpaay kadatayo (Juan 13:1, 34; Juan 15:9, 12). Iti met biangna, situtulok ni Pablo a nangibtor iti panagsagaba ken ipapatay agpaay Kenkuana. Kinaagpaysoanna, ti laeng ayat ni Cristo kadatayo ti makapagtaginayon iti pammatitayo kadagiti panawen ti suot.
+
+Idiay Roma 8:35, ni Pablo ilistana dagiti rigrigatna iti pito a kakupin a listaan: ladingit, rigat, pannakaidadanes, bisin, kinalamolamo, ken kampilan. Nalabit, daytoy a panagsasaruno dagiti pito a suot ket isingasingna ti kinaan-anay iti panangkita nga itakderanna ti dagup amin dagiti rigrigat nga inibturan ni Pablo. Kas iti napalabas a paliiw, ti listaan ni Pablo a panagrigrigat ket ad-adu pay ngem daytoy a listaan. Agingga iti dayta a punto, inibturna dagiti amin a ladingit iti daytoy a teksto malaksid iti maikapito nga elemento, ti kampilan. Ti kampilan ket agbalin a maudi a suotna, ket sinangona dayta a nabuyogan iti amin a bileg. Ti di magaraw a talgedna ken Cristo ti namagbalin kenkuana a mangsabat iti patay a nabuyogan iti akin-uneg a talna. Iti kanito ti ipapatayna, ni Pablo ket “kitkitaenna idi ti dakkel a labesna pay, saan nga iti saan a kinasigurado wenno iti buteng, no di ket iti naragsak nga inanama ken siiiliw a pananginanama. Kabayatan a nagtakder iti lugar ti kinamartir nakitana saan a ti gumilgilap a kampilan ti mangpapatay wenno ti nalangto a daga nga iti mabiit mangawat iti darana; timmangad isuna iti nakalma nga asul a langit iti dayta nga aldaw ti tikag idiay trono ti Agnanayon. Ti sasaona ket, O Apo, Sika ti liwliwak ken apagko. Inton ano a maarakopka? Inton ano a makitaka a mismo, nga awan iti maysa a manglidem a bengbeng iti nagbaetan?”—Ellen G. White, The Story of Redemption, pp. 317, 318.
+
+Ni Pablo ket natalged a no makipagsagabatayo kadagiti sinagaba ni Jesus, “makipaggloriatayo met Kencuana” (Roma 8:17). Nakirupak iti nasayaat a pannakidangadang, naturposna ti tarayen, inaywananna ti pammati. Ammona a naisagana ti maysa a balangat ti kinalinteg a maitedto kenkuana idiay panagungar, inton agsubli ni Cristo (kitaen ti 1 Corinto 15:51–55; 2 Timoteo 4:7, 8).
+
+**Dagiti Wagas ni Pablo iti Panangikasaba iti Evangelio**
+
+Gapu kadagiti narigat a paspasamak a kadagita nga inkasaba ni Pablo ti evangelio, masapul nga ipakatna dagiti nainsiriban a wagas a mangipasigurado iti balligi ti trabahona.
+
+Umuna, ni Pablo inggagarana a pinili dagiti napapateg a ciciudad ti kadaanan a lubong nga isu a manipud kadagita ket mabalinna nga ad-adda a nalaklaka a maiwaragawag ti damag ti evangelio. Gapuna, kas pangarigan, ti Corinto ket napili gapu iti nainggundawayan a kasasaad ti lokasyonna. “Maysa a gundaway ngarud iti naidatag agpaay iti pannakaiwaras ti evangelio. Iti kanito a maipasdek idiay Corinto, dayta ket nakasagana a maidanon iti amin a paset ti lubong.”—Ellen G. White, Sketches from the Life of Paul, p. 99. Ni Pablo ket insentrona pay ti trabahona idiay Filipos agsipud ta dayta ket maysa a “kaiimpluwensyaan a sentro dagiti ciudad iti dalanna. . . . Ti nainsiriban a kinapategna iti pakasaritaan ti pagarian ti Roma ti nangaramid iti Filipos a maysa a gagangay a tukad ti panangaskasaba iti maysa a panagivangelio a naisagana tapno dumanon idiay Roma.”—Craig S. Keener, Acts : An Exegetical Commentary, vol. 3 (Grand Rapids, MI: Baker Academic, 2014), pp. 2380, 2381. Kasta met, ti Efeso ket maysa kadagiti kadadakkelan a ciciudad iti Pagarian ti Roma, mangipanpannakkel iti papolasyon nga agarup 250,000 a tattao idi panawen ni Pablo.
+
+Maikadua, ni Pablo ket nangisimpuon iti tiempo a panangsanay kadagiti tattao agpaay iti panagministro a panangaskasaba. Pudno unay, “inaramidna a maysa a paset ti trabahona a mangisuro kadagiti agtutubo a lallaki agpaay iti panagministro ti evangelio. Intugotna ida kadagiti namisioneroan a panagpagpagnana, ket iti kasta nagun-odda ti kapadasan nga iti ud-udina ket namagbalin kadakuada a mangkarga kadagiti akem nga adda pagrebbenganna. Idi naisina kadakuada, kaskasdi a pinagtalinaedna ti pannakaisilpuna iti trabahoda, ken dagiti sursuratna kada Timoteo ken Tito ket pammaneknek no kasano ti kauneg ti tarigagayna agpaay kadagiti balligida.”—Ellen G. White, Gospel Workers, p. 102. No maipapan iti pakaseknan ni Timoteo, ni Pablo innalana isuna saan laeng a tapno agbalin a katrabahoanna no di pay ket kaduana a nagsurat (kitaen ti 2 Corinto 1:1; Filipos 1:1; Colosas 1:1; 1 Tesalonica 1:1; 2 Tesalonica 1:1; ken Filemon 1:1).
+
+Maikatlo, ni Pablo sinurotna “ti-Judio-nga-umuna” a pamay-an (Aramid 13:46; Roma 1:16), kas iti nalawag unay nga imbilin ni Jesus (Lucas 24:47; Aramid 1:8; Aramid 3:25, 26). Daytoy nga aramid ket ilawlawagna no apay a ni Pablo ket inrugina ti namisioneroan nga ar-aramidna idiay maysa a baro a ciudad idiay sinagoga (Aramid 9:20; Aramid 13:5, 14, 46; Aramid 14:1; Aramid 17:1, 2, 17; Aramid 18:4). Iti panangutobna iti bilin a ti trabaho dagiti adalan ket mangrugi koma idiay Jerusalem, kuna ni Ellen G. White, “Sadinoman a nakaikabilan dagiti tattao ti Dios, kadagiti napusek a ciciudad, kadagiti purok, wenno kadagiti nagsasabatan dagiti daldalan ti pagilian, adda misyon iti pagtaengan. . . . Umuna iti amin ket ti trabaho iti pamilya; kalpasanna masapul a sapulenda ti pannakaawis dagiti kaarrubada ken Cristo, ken iyegda iti sangoananda dagiti naindaklan a kinapudno iti daytoy a panawen.”–Ellen G. White, The Advent Review and Sabbath Herald, May 22, 1888, p. 1160.
+
+Maikapat, ni Pablo pinagtaginayonna ti kanayon a pannakisasaona kadagiti ig-iglesia babaen iti panangipatulodna kadagiti sursurat kadakuada. Gapu iti “panangaywanco a sidadanag cadagiti isu-amin nga Iglesia” (2 Corinto 11:28), masansan nga isu ket saan a makapagtalinaed a mabayag kadagiti kabarbaro a nakombertir kadagiti ciciudad a nangasabaanna. Gapuna, inaramatna dagiti sursurat a kas maysa a wagas a mangsalimetmet iti pannakaisilpuna kadagiti ig-iglesia ken panangipaay kadagiti bilbilin kadakuada. Dagiti sursurat ket nagserbi pay a kas maysa a wagas a panangpunno iti kawaw a napataud gapu iti napisikalan a kaawanna (1 Corinto 5:3; Filipos 2:12).
+
+### Paset III: Pakaipakatan iti Biag
+
+Utoben dagiti sumaganad a tema. Kalpasanna, dawatem kadagiti istudyantem a sungbatanda dagiti sumaganad a salsaludsod:
+
+Ti panangikasaba iti evangelio ket mabalin a makakarit kadagiti adu a Cristiano, nangnangruna no dagiti pagalagadan ti kagimongan ket maisupiat iti Sao ti Dios. Iti panaglabas dagiti siglo, dagiti di mabilang a tattao ket sinangoda iti panagsagaba, ken uray pay ipapatay, iti pannakaitungpal ti namisioneroan a trabahoda. Daytoy a kinapaypayso ket pudno idi immuna nga al-aldaw ti nacristianoan a misyon, ket saanto a naiduma iti panagpatinggana (Apocalipsis 14:13). Kabayatan iti panagtultuloytayo iti namisioneroan a trabaho ken panagibtur kadagiti panagsagaba a sumurot iti dayta, adda laeng maymaysa a pwersa a mangtarawidwid kadatayo: ti ayat ni Cristo.
+
+Kaaduan kadagiti Cristiano ket mabigbigda dagiti peggad a nairaman iti panangsurot ken Cristo, ngem masapul met a maawatantayo ti kapatgan a kinapateg ti panangtungpal iti annongen, “ ‘Incayo ngarud, ket pagbalinenyo nga adadalan dagiti amin a nacion’ ” (Mateo 28:19). Narigat ti trabaho, ngem agtalektayo iti panangiwanwan ti Dios iti tunggal addang ti dalan. Nupay mabalin nga agbalin a mangam-ames-biag iti nadumaduma a langa, ti trabaho ket makagunggona. Kuna ni Jesus, “ ‘Agtalgedca agingga ken patay, ket itdecto kenca ti balangat ti biag’ ” (Apocalipsis 2:10).
+
+Iti namisioneroan a trabahona, inaramat ni Pablo dagiti nadumaduma nga istratehiya tapno masigurado ti kinabertudna: (1) Pinilina dagiti napateg a ciciudad a kas makatulong tapno ad-adda a nalaklakana a maiwaras ti damag ti evangelio. (2) Insimpuonna ti panawenna iti panangsanay kadagiti sabsabali. (3) Impangpangrunana ti panangdanon nga umuna kadagiti kaasitgan kenkuana. (4) Kanayon a konektado kadagidiay a nagserbianna. Masapul nga aramatentayo amin dagitoy nga istratehiya kadagiti bukodtayo a namisioneroan a panagtrabaho. Nupay kasta, ammo ni Pablo, a nupay napateg dagiti istratehiya, pulos a dida masukatan ti trabaho ti Espiritu Santo (1 Corinto 12:1–11; Efeso 4:1–6). Masapul a ditay pulos liplipatan daytoy napateg a banag.
+
+**Salsaludsod:**
+
+1. Ania dagiti sumagmamano a karit a sinangom iti panangikasaba iti evangelio?
+
+2. Kasano a naaramatmo dagiti uppat nga immuna a nailista a namisioneroan nga istratehiya ni Pablo, ken ania dagiti bungada?

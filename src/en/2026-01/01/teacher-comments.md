@@ -41,6 +41,10 @@ In Romans 8:35, Paul catalogs his hardships in a sevenfold list: tribulation, di
 
 Paul was confident that if we share in Jesus’ sufferings, we will also “be glorified with Him” (Rom. 8:17, NASB). He fought the good fight, finished the race, and kept the faith. He knew a crown of righteousness would be given to him at the resurrection, when Christ returns (see 1 Cor. 15:51–55; 2 Tim 4:7, 8).
 
+**Clarification**:
+
+_In the Teachers Edition for December 22-January 3, an illustration ran about a woman, severely abused by her husband, but who refused to accuse him before the magistrate. Though this account was meant as an example of “suffering love,”  we realize now that it could easily be misconstrued as somehow implying that the woman did the right thing. We never intended this story, in any way, to promote the idea that a woman facing an abusive situation should, in the name of “suffering love” or in any other name, endure such treatment. We realize that domestic abuse is a terrible problem, and no woman should have to put up with it, especially under the cover of some higher “spiritual principle.” We are sorry for any misunderstanding that this illustration has caused._
+
 **Paul’s Strategies for Preaching the Gospel**
 
 Given the arduous circumstances under which Paul preached the gospel, he needed to employ wise strategies to ensure the success of his work.

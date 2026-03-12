@@ -1,0 +1,28 @@
+---
+  title: "Teacher YAQ1. Creation"
+  description: "Year A, Quarter 1"
+  human_date: "January · February · March 2026"
+  start_date: "28/12/2025"
+  end_date: "28/03/2026"
+  color_primary: "#007EAC"
+  color_primary_dark: "#005B7B"
+  credits:
+    - name: Principal Contributor
+      value: Carolin Schmitz
+    - name: Contributors
+      value: Nina Atcheson, Racquel Markwell
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Director
+      value: Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Daniel Bediako
+    - name: Designers
+      value: Types & Symbols, Megan Betteridge
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Beginner"
+    "order": 850
