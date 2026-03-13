@@ -1,0 +1,21 @@
+### Uvod
+
+"Ja sam s vama u sve vrijeme..."
+
+Sjetite se najtežeg posla koji ste ikad radili. Što ga je činilo teškim? Jesu li to bila visoka očekivanja ili rok za završetak posla, ili oboje? Je li bio u pitanju vaš stav prema dodijeljenom zadatku? Ili možda ljudi s kojima ste radili? Ili vam je jednostavno izgledalo da u tome nikada nećete uspjeti?
+
+Zamislite se nad svrhom plana spasenja - sjedinjenja Neba i Zemlje. Zvuči nemoguće? Ljudski govoreći, i jest. A opet, Isus je, neposredno prije svojeg uzašašća na Nebo, apostolima dao naizgled nemoguć zadatak: “Zato idite i učinite sve narode učenicima mojim! Krstite ih u ime Oca i Sina i Duha Svetoga! Učite ih da vrše sve što sam vam zapovjedio!Ja sam s vama u sve vrijeme do svršetka svijeta.” (Matej 28,19.20)
+
+Isus je i Pavla poslao poganima da obavi naizgled nemoguć zadatak:"Ti ćeš im otvoriti oči i okrenuti ih od tame k svjetlu, od sotonine vlasti k Bogu. Tako da im vjerom u mene grijesi budu oprošteni i da budu primljeni među one koji su sveti zbog vjere u moje ime." (Djela 26,18 - Suvremeni hrvatski prijevod)
+
+Neki bi jednostavno digli ruke kada bi im se ponudio takav posao. Ali Isus je, obraćajući se apostolima, dodao: “Ja sam s vama u sve vrijeme do svršetka svijeta." (Matej 28,20) A Pavlu je rekao: "Jer zato ti se ukazah da te postavim slugom i svjedokom kako onome što si vidio, tako onome što ću ti objaviti.” (Djela 26,16)
+
+Ukratko, Isus nam, ljudski gledano, dodjeljuje nemoguće zadatke kako bismo se umjesto na sebe same, morali osloniti na Njega da bismo ih ostvariti. On nam nikad ne daje posao a da nam ne osigura silu za njegovo obavljanje. “Kad ljudska volja surađuje s Božjom voljom, postaje svemoćna. Neka sve što treba činiti po Njegovoj zapovijedi učini u Njegovoj snazi. Sve Njegove zapovijedi istodobno osposobljavaju da se zapovijed i izvrši." (Ellen G. White, Isusove usporedbe, str. 223; u izvorniku 333)
+
+Zvuči nevjerojatno, ali do trenutka kad je Pavao napisao Poslanicu Kološanima, Radosna vijest je već bila "propovijedana svakom stvorenju pod nebom" (Kološanima 1,23). Naravno, nisu je svi prihvatili. Ali ako pažljivo pogledamo naloge koje je Isus dao ostalim apostolima (Matej 28,18-20) i Pavlu, vidimo da On nikad nije ni obećao da će svi postati učenici ili da će se svi obratiti. "Ova Radosna vijest o kraljevstvu propovijedat će se po svemu svijetu, svim narodima za svjedočanstvo, i tada će doći svršetak." (Matej 24,14) Kakvo je to svjedočanstvo? I kako se točno taj cilj postiže?
+
+Ovog tromjesečja proučavat ćemo Pavlove poslanice Filipljanima i Kološanima. One imaju važne sličnosti. Povrh svega, one otkrivaju Krista koji može sjediniti Nebo i Zemlju. On je prikazan ljestvama koje je Jakov vidio kako se protežu od Zemlje do Neba (Postanak 28,12; usporedi Ivan 1,51). Kao Sin Čovječji On nas izbavlja od grijeha, a kao Sin Božji posreduje za nas.
+
+Proučavajući ove poslanice, sagledat ćemo oba područja Isusovog djelovanja. Razmotrit ćemo neke od najuzvišenijih izjava koje se mogu naći u vezi s Kristovim božanstvom i Njegovim odricanjem od svega da bi nas spasio. Vidjet ćemo Pavla kako se iz zatvora hrva s problemima u jednoj crkvi koju je sam osnovao (u Filipima), i u jednoj koju on osobno čak nikada nije ni posjetio (u Kolosima). Veze koje je Pavao uspostavio u cijeloj “svjetskoj crkvi” onog vremena omogućile su mu da čak i iz rimskog zatvora rješava izazove. Bio je svjestan da je njegovo vrijeme kratko i činio je sve što je mogao kako bi pripadnike Crkve približio Nebu i jedne drugima. On nam na taj način pokazuje kako se Božja Crkva i danas može sjediniti s Nebom da bi ispunila nalog za posljednje vrijeme iz Otkrivenja 14, koji nam je poznat kao "vijest trojice andela".
+
+_Dr. Clinton Wahlen pomoćnik je direktora Instituta za biblijska istraživanja pri Generalnoj konferenciji. Njegovo stručno područje obuhvaća Novi zavjet, hermeneutiku i adventističku povijest. Živio je i radio u Njemačkoj, na Novom Zelandu, u Rusiji, Ujedinjenom Kraljev- stvu i na Filipinima. On i njegova supruga Gina imaju dvoje odrasle djece, snahu i dvoje unučadi._

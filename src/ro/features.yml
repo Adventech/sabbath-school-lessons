@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Ediția pentru Instructori
+    description: Pregătiți-vă pentru a facilita discuția Școlii de Sabat cu Ediția pentru Instructori
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Citate Ellen G. White
+    description: Îmbunătățiți-vă studiul cu citate suplimentare selectate din scrierile lui Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Vești Misionare
+    description: Citiți povești de misiune din întreaga lume
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Ascultați lecția din mers cu versiunea audio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Urmăriți discuția săptămânală a lecțiunii pentru a aprofunda studiul
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Aspect original
+    description: Îmbunătățiți-vă studiul lecției folosind aspectul original de tipărire cu numeroase instrumente de adnotare
+    image: "v1/images/features/feature_original_layout.png"

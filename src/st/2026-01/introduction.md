@@ -1,0 +1,21 @@
+### Ho Hokahanya Leholimo le Lefatše
+
+Ak’u nahane ka mosebetsi o thata-thata oo u kileng oa u etsa. Ke’ng e entseng o be thata? E n’e le litebello, kapa nako e baletsoeng mosebetsi, kapa bobeli ba tsona? Na e bile moea oa hao ka mosebetsi oo? Kapa e bile bato bao u sebelitseng le bona? Kapa mohlomong ho ne ho mpa ho bonahala e le ntho’e ke keng ea khonahala ho hang?
+
+Sheba sepheo sa leano la Toppollo: Ho Kopanya Leholimo le Lefatše. Ho utloahala e le ntho’e ke keng ea etsahala hohang? Ka botho, ehlile ho joalo. Leha ho le joalo, nakoana pele a nyolohela leholimong, Jesu O ile a fa barutuoa mosebetsio neng o bonahala o keke oa etsahala: “E eang ke hona, le rute lichaba tsohle; le ba kolobetse ka lebitso la Ntate le la Mora, le la Moea O Halalelang; ’me le ba rute, ho boloka tsohle tseo ke le laetseng tsona” (Matt. 28:19,20).
+
+Jesu o romme Paulose ho Balichaba ho phethahatsa mosebetsi ona o neng o bonahala o keke oa etsahala: “‘U tle u tutubolle mahlo a bona, hore ba tlohe lefifing ho kena leseling, ba tlohe le matleng a Satane ho sokolohela ho Molimo, ’me ba bone tšoarelo ea libe tsa bona le lefa har’a bahalaleli ka ho lumela ho ’Na’” (Liketso 26:18).
+
+Ba bang ba ka leboha ha ba ka fuoa mosebetsi oa joalo. Empa, ha rea lokela ho tlolisa mahlo tšepiso tse fanoeng ke Jesu maemong ana ka bobeli. Ho Baapotola O ile A re, “’Me bonang, ’Na ke na lona kamehla eohle ho fihlela pheletsong tsa lefatše” (Matt. 28:20). Ha ho Paulose A ile A re, “hobane ke itlhahitse ho uena, hore ke tle ke u bee mohlanka le paki ea litaba tseo u li boning le ea tseo ke tla itsebisa ho uena ka tsona” (Liketso 26:16).
+
+Ka bokhutšoane, Jesu O fana ka mesebetsi eo batho ba kekeng ba e etsa hore ba tsebe ho itšetleha ho Eena, eseng ho rona, ho ka e phethahatsa. Ha ho mohla A re fang mosebetsi A sa re fe matla a ho o etsa. “Ha thato ea motho e sebelisana ’moho le ea Molimo ha e thijoe ke letho. Sohle se lokelang ho etsoa ka taelo ea Hae se ka etsoa ka matla a Hae. Litaelo tsohle tsa Hae li fana ka bokhoni.”—Ellen G. White, Christ’s Object Lessons, leq. 333.
+
+Se makatsang ke hore, nakong eo Paulose a neng a ngolla Bakolose, e ne “e boleletsoe babupuoa bohle ba tlasa leholimo” (Bakol. 1:23). E, ha
+
+se bohle ba ileng ba e amohela, empa ha re shebisisa thomo tseo A ilenng A li fa Baapostola (Matt. 28:18–20), le Moapostola Paulose, ha mohla Jesu A ileng a fana ka tšepiso ea hore batho bohle e tla ba barutuoa, kapa ba sokolohe kaofela. Evangeli e lokela “ho boleloa lefatšeng lohle, e tle e be bopaki ho lichaba tsohle, ’me e tla ba hona bofelo bo hlahang” (Matt. 24:14). E be bopaki boo bo shebahala joang? Hantle-ntle bo lokela ho fihleloa joang?
+
+Kotareng ena re tla ithutang ka Epistole ea Paulose ho Bafilipi le Bakolose. Li na le ntho tsa bohlokoa tse tšoanang. Ka holimo ho tsohle, li senola Kreste, Eena feela ea khonang ho kopanya leholimo le Lefatše. Ke leri eo Jakobo a e boning e tloha lefatšeng e thula leholimong (Gen. 28:12; bapisa le Johanne 1:51). E le Mora motho, O re Lopolla sebeng, e le Mora Molimo, O oa re loanela.
+
+Ka ho ithuta Mangolo ana, re tla bona limelo tsena tsa Jesu ka bobeli ba tsona. Re tla bona tse ling tsa Lipolelo tse babatsehang tse kekeng tsa fumanoa kae kapa kae malebana le Bomolimo ba Kreste le kamoo a bo tlohetseng kaofela ha bona hore A re pholose. Re tla bona ha Paulose a loana le mathata a e ’ngoe ea likereke tseo a li thehileng (Bafilipi), ha a ntse a le chankaneng le eo le ka mohla a sa kang a hata hara eona (Bakolose). Khokahano eo Paulose a e entseng “Kerekeng e ka Lefatše lohle” ea mehleng eo, e ile ea mothusa, hore le ha a se a le chankaneng, a arabele liqholotso. O ne a tseba hore nako ea hae ea fokola, ’me o ile a etsa sohle se matleng a hae ho hulela kereke haufi-ufi le leholimo le ho eona. Ka ho etsa joalo, o re bontša kamoo kereke ea Molimo kajeno e ka hokahanang le leholimo hore e fihlele thomo ea mehla ea bofelo ea Tšenolo 14, eo re e tsebang e le “Molaetsa oa manyeloi a Mararo.”
+
+_Clinton Wahlen, Ph.D., ke Motlatsi oa mookameli oa setsi sa Biblical Research Institute General Conference. Botsebi ba hae bo ho Testamente e Ncha, se boleloang ke molaetsa ho motho, le histori ea Baleti. O phetse le ho sebetsa Geremane, New Zealand, Russia, United Kingdom, le Fillipines. Ba na le bana ba babeli ba baholo le mohats’ae, ngoetsi le litloholo tse peli._

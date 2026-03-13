@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Onderwyser se kommentaar
+    description: Berei voor om Sabbatskool-lesbespreking met hierdie onderwyser se uitgawe te fasiliteer
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White Quotes
+    description: Verbeter jou studie met bykomende geselekteerde aanhalings uit Ellen G. White geskrifte
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Sendingverhaal
+    description: Lees inspirerende sendingverhale van regoor die wêreld
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Oudio
+    description: Luister onderweg na die les met die oudioweergawe
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Kyk na die weeklikse lesbespreking om jou studie te verdiep
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Oorspronklike uitleg
+    description: Verbeter jou studie van die les deur oorspronklike drukuitleg met talle annotasie-nutsmiddels te gebruik
+    image: "v1/images/features/feature_original_layout.png"

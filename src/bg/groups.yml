@@ -1,0 +1,13 @@
+---
+  default:
+    name: "Съботноучилищните"
+    order: 100
+  cq:
+    name: "InVerse"
+    order: 200
+  iv:
+    name: "InVerse"
+    order: 200
+  cc:
+    name: "Уроци за юноши"
+    order: 300

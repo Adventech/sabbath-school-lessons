@@ -1,0 +1,13 @@
+---
+  default:
+    name: "Lição Adultos"
+    order: 100
+  cq:
+    name: "Lição Jovens"
+    order: 200
+  iv:
+    name: "Lição Jovens"
+    order: 200
+  pt:
+    name: "Edição de Portugal"
+    order: 101

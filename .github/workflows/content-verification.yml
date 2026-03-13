@@ -1,0 +1,18 @@
+name: content-verification
+on: [pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+        check-latest: true
+    - name: Ignore Bible tools
+      run: |
+        sed -i -e '/"@Adventech\/bible-tools": "^\(.\..\..\)",/d' package.json
+    - run: npm install
+    - run: node verify.js
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,13 @@
+---
+  default:
+    name: "Edición para Adultos"
+    order: 100
+  cq:
+    name: "InVerse"
+    order: 200
+  iv:
+    name: "InVerse"
+    order: 200
+  jo:
+    name: "InVerse"
+    order: 200

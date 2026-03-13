@@ -1,0 +1,45 @@
+name: deploy-pdf
+on:
+  push:
+    branches:
+      - master
+      - stage
+    paths:
+      - 'deploy-pdf.js'
+      - 'src/**/pdf.yml'
+jobs:
+  deploy-pdf:
+    if: (github.repository == 'Adventech/sabbath-school-lessons')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+      - run: tar xvf deploy-creds.tar
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install
+      - run: mkdir pdf
+      - name: Sync from cloud
+        run: aws s3 sync s3://sabbath-school-pdf`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io pdf --region us-east-1 --no-progress --exclude "*" --include "pdf/*/`node -e 'console.log(require("./deploy-helper.js").getCurrentQuarter())'`*/*.keep" --include "pdf/*/`node -e 'console.log(require("./deploy-helper.js").getNextQuarter())'`*/*.keep"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - run: node deploy-pdf -b ${{ steps.extract_branch.outputs.branch }} -m "gen"
+      - run: rm -r pdf && mkdir pdf
+      - run: test -f curl-config.txt && curl -K curl-config.txt || true
+      - run: node deploy-pdf -b ${{ steps.extract_branch.outputs.branch }} -m "keep"
+      - name: Deploying to cloud
+        run: aws s3 sync ./pdf s3://sabbath-school-pdf`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

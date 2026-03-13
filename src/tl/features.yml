@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Komento ng Guro
+    description: Maghanda upang mapadali ang pagtalakay sa aralin sa Paaralan ng Sabbath kasama ang edisyon ng gurong ito
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White Quotes
+    description: Pagandahin ang iyong pag-aaral gamit ang mga karagdagang napiling panipi mula sa mga sinulat ni Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Kuwento ng Misyon
+    description: Magbasa ng mga kwentong nagbibigay inspirasyon sa misyon mula sa buong mundo
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Makinig sa aralin on the go gamit ang audio na bersyon
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Panoorin ang lingguhang pagtalakay sa aralin upang mapalalim ang iyong pag-aaral
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Orihinal na Layout
+    description: Pahusayin ang iyong pag-aaral ng aralin gamit ang orihinal na layout ng pag-print na may maraming mga tool sa anotasyon
+    image: "v1/images/features/feature_original_layout.png"

@@ -1,0 +1,67 @@
+name: deploy-audio
+on:
+  push:
+    branches:
+      - master
+      - stage
+    paths:
+      - 'deploy-audio.js'
+      - 'src/**/audio.yml'
+jobs:
+  deploy-audio:
+    if: (github.repository == 'Adventech/sabbath-school-lessons')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
+        env:
+          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
+      - run: tar xvf deploy-creds.tar
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install
+      - run: mkdir audio
+      - name: Sync from cloud
+        run: aws s3 sync s3://sabbath-school-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io audio --region us-east-1 --no-progress --exclude "*" --include "audio/*/`node -e 'console.log(require("./deploy-helper.js").getCurrentQuarter())'`*/*.keep" --include "audio/*/`node -e 'console.log(require("./deploy-helper.js").getNextQuarter())'`*/*.keep"
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - run: node deploy-audio -b ${{ steps.extract_branch.outputs.branch }} -m "gen"
+      - run: rm -r audio && mkdir audio
+      - run: test -f curl-config.txt && curl -K curl-config.txt || true
+      - run: node deploy-audio -b ${{ steps.extract_branch.outputs.branch }} -m "keep"
+      - name: Deploying to cloud
+        run: aws s3 sync ./audio s3://sabbath-school-media`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - run: node deploy-audio -b ${{ steps.extract_branch.outputs.branch }}
+      - name: Web deploy
+        run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ steps.extract_branch.outputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Invalidation
+        if: github.ref == 'refs/heads/stage' && hashFiles('invalidation.json') != ''
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID_STAGE }} --invalidation-batch file://invalidation.json | > /dev/null
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID_STAGE }} --invalidation-batch file://invalidation.json | > /dev/null
+      - name: Invalidation
+        if: github.ref == 'refs/heads/master' && hashFiles('invalidation.json') != ''
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID }} --invalidation-batch file://invalidation.json | > /dev/null
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }} --invalidation-batch file://invalidation.json | > /dev/null

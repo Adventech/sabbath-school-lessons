@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Komentari nastavnika
+    description: Pripremite se za olakšavanje rasprave o lekcijama subotnje škole s ovim izdanjem za učitelje
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Citati Ellen G. White
+    description: Unaprijedite svoje proučavanje dodatnim odabranim citatima iz spisa Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Iskustvo
+    description: Čitajte nadahnjujuće misionarske priče iz cijeloga svijeta
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Slušajte lekciju u pokretu uz audio verziju
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Gledajte tjednu raspravu o lekciji kako biste produbili svoje proučavanje
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Izvorni izgled
+    description: Unaprijedite svoje proučavanje lekcije korištenjem originalnog ispisa s brojnim alatima za bilješke
+    image: "v1/images/features/feature_original_layout.png"

@@ -1,0 +1,954 @@
+#!/usr/bin/env node
+
+let donationNotice = {
+  'en': "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "    <div class=\"ss-donation-appeal-title\">\n" +
+    "      <p>We need your help!</p>\n" +
+    "      <div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "    </div>\n" +
+    "    <div class=\"ss-donation-appeal-text\">\n" +
+    "      <p>Dear brothers and sisters, we would like to thank <strong>each</strong> of you for being with us and using the Sabbath School app. As you know, we at Adventech are all volunteers, passionate to be part of the\n" +
+    "        <strong>greatest commission</strong> and that is why our mission is to use technology for His glory!</p>\n" +
+    "      <p>Early on we decided that our application would remain ad-free. We want to continue adding new features and functionality to Sabbath School. For example, this year we plan to add\n" +
+    "        <strong>audio / video</strong> support for the Sabbath School app.</p>\n" +
+    "      <p>We are truly humbled that many of you are generous and have offered to <strong>donate</strong> to our ministry. Every amount counts and we thank you so much for being here for us.</p>\n" +
+    "      <p>You can make donation using the link below:</p>\n" +
+    "      <p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
+    "      <p><em>Adventech team</em></p>\n" +
+    "    </div>\n" +
+    "  </div>",
+  'de': "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "<div class=\"ss-donation-appeal-title\">\n" +
+    "<p>Wir brauchen deine Hilfe!</p>\n" +
+    "<div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "</div>\n" +
+    "<div class=\"ss-donation-appeal-text\">\n" +
+    "<p>Liebe Brüder und Schwestern, wir möchten uns bei <strong>jedem</strong> von euch dafür bedanken, dass ihr dabei seid und die Sabbatschul-App nutzt. Wie ihr wisst, sind wir bei Adventech alle <strong>ehrenamtlich</strong> tätig, leidenschaftlich bestrebt, Teil des <strong>besten Dienstes</strong> zu sein, und deshalb besteht unsere Mission darin, Technologie zu Seiner Ehre zu verwenden!</p>\n" +
+    "<p>Schon früh haben wir entschieden, dass unsere Anwendung werbefrei bleiben soll. Wir wollen der Sabbatschule-App weiterhin neue Funktionen und Features implementieren. Zum Beispiel planen wir dieses Jahr eine <strong>Audio-/Video-Unterstützung</strong> für die Sabbatschule-App einzuführen.</p>\n" +
+    "<p>Wir sind wirklich dankbar, dass viele von euch großzügig sind und angeboten haben, für unseren Dienst zu <strong>spende</strong>. Jeder Betrag zählt, und wir danken euch sehr, dass ihr für uns da seid.</p>\n" +
+    "<p>Ihr könnt über den Link unterhalb eine Spende leisten:</p>\n" +
+    "<p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
+    "<p><em>Adventech-team</em></p>\n" +
+    "</div>\n" +
+    "</div>",
+  "es": "<div style=\"display: none\" class=\"ss-donation-appeal\">\n" +
+    "<div class=\"ss-donation-appeal-title\">\n" +
+    "<p>¡Necesitamos tu ayuda!</p>\n" +
+    "<div class=\"ss-donation-appeal-icon\"></div>\n" +
+    "</div>\n" +
+    "<div class=\"ss-donation-appeal-text\">\n" +
+    "<p>Queridos hermanos y hermanas,</p>\n" +
+    "<p>Les queremos agradecer a <strong>cada uno</strong> de ustedes por utilizar la aplicación de Sabbath School. Como saben, los que colaboramos en Adventech somos todos <strong>voluntarios</strong>, apasionados de ser parte de la <strong>gran comisión</strong> que se nos encomendó, ¡y es por eso que nuestra misión es utilizar la tecnología para honra y gloria de nuestro Dios! Desde el inicio de nuestra aplicación, decidimos que permanecería sin anuncios o comerciales. Deseamos continuar añadiendo nuevas funcionalidades y herramientas a la aplicación de Sabbath School; por ejemplo, este año planeamos agregar soporte de <strong>audio y video</strong> a nuestra aplicación.</p>\n" +
+    "<p>Agradecemos profundamente que muchos han sido generosos y han <strong>donado</strong> a nuestro ministerio. Cada centavo cuenta, y agradecemos mucho que estén aquí para apoyarnos.</p>\n" +
+    "<p>Puede realizar una donación en el siguiente enlace:</p>\n" +
+    "<p><strong><a href=\"https://adventech.io/donate\">adventech.io/donate</a></strong></p>\n" +
+    "<p>Gracias,</p>\n" +
+    "<p><em>Equipo de Adventech</em></p>" +
+    "</div>\n" +
+    "</div>"
+}
+
+let getAdditionalReadingHtml = function(title, text) {
+  return `\n\n---\n\n<div style="display: none" class="ss-donation-appeal">
+<div class="ss-donation-appeal-title">
+<p>${title}</p>
+<div class="ss-donation-appeal-icon"></div>
+</div>
+<div class="ss-donation-appeal-text">
+
+${text}
+</div>
+</div>
+`
+}
+
+let additionalReadingTitles = {
+  "en": {
+    title: "Additional Reading: Selected Quotes from Ellen G. White",
+    final: "Supplemental EGW Notes",
+    pppCopyright: "<small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small>",
+    regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
+  },
+  "mk": {
+    title: "Додаток: Утрински стих",
+    final: "Утрински стих",
+    pppCopyright: "",
+    regex: "---\n+#{2,} Додаток: Утрински стих"
+  },
+  "cs": [
+    {
+      title: "Dodatečné otázky k diskuzi",
+      final: "Dodatečné otázky k diskuzi",
+      pppCopyright: "",
+      regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+    },
+    {
+      title: "Další čtení: Vybrané citace od Ellen Whiteové",
+      final: "Další čtení: Vybrané citace od Ellen Whiteové",
+      pppCopyright: "",
+      regex: "---(\r?\n)+#{2,} Další čtení: Vybrané citace od Ellen Whiteové"
+    }
+  ],
+  "sk": {
+    title: "Dodatečné otázky k diskuzi",
+    final: "Dodatečné otázky k diskuzi",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Dodatečné otázky k diskuzi"
+  },
+  "in": {
+    title: "Bacaan Tambahan: Kutipan dari Ellen G. White",
+    final: "Bacaan Tambahan: Kutipan dari Ellen G. White",
+    pppCopyright: "",
+    regex: "---(\r?\n)+#{2,} Bacaan Tambahan: Kutipan dari Ellen G. White"
+  },
+  "ru": [
+    {
+      title: "Конспект Брюса Камерона",
+      final: "Конспект Брюса Камерона",
+      pppCopyright: "",
+      regex: "#{2,} Конспект Брюса Камерона"
+    },
+    {
+      title: "План Урока",
+      final: "План Урока",
+      pppCopyright: "",
+      regex: "#{2,} План Урока"
+    },
+    {
+      title: "План Светланы Тороповой",
+      final: "План Светланы Тороповой",
+      pppCopyright: "",
+      regex: "#{2,} План Светланы Тороповой"
+    },
+    {
+      title: "Комментарий Татьяны Бахмат",
+      final: "Комментарий Татьяны Бахмат",
+      pppCopyright: "",
+      regex: "#{2,} Комментарий Татьяны Бахмат"
+    },
+    {
+      title: "Виталий Олийник",
+      final: "Виталий Олийник",
+      pppCopyright: "",
+      regex: "#{2,} Виталий Олийник"
+    },
+    {
+      title: "План Виталия Олийника",
+      final: "План Виталия Олийника",
+      pppCopyright: "",
+      regex: "#{2,} План Виталия Олийника"
+    },
+    {
+      title: "Киев 1",
+      final: "Киев 1",
+      pppCopyright: "",
+      regex: "#{2,} Киев 1"
+    },
+    {
+      title: "План-конспект 1 общины г. Киева",
+      final: "План-конспект 1 общины г. Киева",
+      pppCopyright: "",
+      regex: "#{2,} План-конспект 1 общины г. Киева"
+    },
+    {
+      title: "План Сергея Хрибара",
+      final: "План Сергея Хрибара",
+      pppCopyright: "",
+      regex: "#{2,} План Сергея Хрибара"
+    },
+    {
+      title: "Стихи от Александра Конырева",
+      final: "Стихи от Александра Конырева",
+      pppCopyright: "",
+      regex: "#{2,} Стихи от Александра Конырева"
+    },
+    {
+      title: "Перевод А. Турецкий",
+      final: "Перевод А. Турецкий",
+      pppCopyright: "",
+      regex: "#{2,} Перевод А. Турецкий"
+    },
+  ]
+}
+
+let firebase = require("firebase-admin"),
+    glob = require("glob"),
+    yamljs = require("js-yaml"),
+    metaMarked = require("meta-marked"),
+    ent = require('ent'),
+    fs = require("fs-extra"),
+    crypto = require('crypto'),
+    moment = require("moment");
+
+const bibleSearchBCV = require('@Adventech/bible-tools');
+
+const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
+
+let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
+    "Usage: $0 -b [string]")
+    .alias({"b": "branch"})
+    .describe({
+      "b": "branch",
+      "l": "language",
+      "q": "quarter",
+      "v": "api"
+    })
+    .demand(["b"])
+    .argv;
+
+let branch = argv.b,
+    compile_language = argv.l || "*",
+    compile_quarter = argv.q || getCompilationQuarterValue(),
+    target_api = parseInt(argv.v) || 1;
+
+let invalidationList = new Set()
+
+try {
+  if (!argv.l && fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
+    let changedFiles = require('./.github/outputs/all_changed_files.json')
+
+    // if no changes detected then fallback
+    if (changedFiles && changedFiles.length) {
+      // Forcing all resources to be redeployed if any github action or deploy scripts change
+      let deployRelatedChanges = changedFiles.find((f) => /^(\.github\/workflows)|(deploy.*)|(config.js)/.test(f))
+
+      // if no deploy related changes
+      if (!deployRelatedChanges || !deployRelatedChanges.length) {
+        let sourceRelatedChanges = changedFiles.filter(
+            (f) => {
+              // check if the changed file is in src dir and its not audio.yml or video.yml
+              return /^src\//.test(f)
+                && !/audio.yml$/.test(f)
+                && !/video.yml$/.test(f)
+            }
+        ).map(
+            (f) => {
+              let stripped = f.replace(/^src\//g, '')
+
+              let p = getInfoFromPath(f)
+              invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/${p.quarterly}/*`)
+              invalidationList.add(`/api/v${target_api}/${p.language}/quarterlies/index.json`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies%2F${p.quarterly}*`)
+              invalidationList.add(`/api/v${target_api}%2F${p.language}%2Fquarterlies/index.json`)
+
+              return stripped.substring(0, stripped.indexOf('/'))
+            }
+        )
+        let languages = [...new Set(sourceRelatedChanges)]
+
+        // if any languages are in the change list
+        if (languages && languages.length) {
+          compile_language = `+(${languages.join('|')})`
+        } else {
+          // here we assuming the changes are made in src folder but are either audio or video, hence we can abort
+          fs.ensureDirSync("./dist")
+          console.log(`Looks like source changes are targeting audio or video content hence aborting execution`)
+          return
+        }
+      } else {
+        invalidationList.add(`/api/v${target_api}/*`)
+      }
+
+      let invalidationArray = Array.from(invalidationList)
+      let invalidationJSON = {
+        "Paths": {
+          "Quantity": invalidationArray.length,
+          "Items": invalidationArray
+        },
+        "CallerReference": `deploy.js v${target_api} (${Date.now()})`
+      }
+
+      if (invalidationArray.length > 0) {
+        fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
+      }
+    }
+  }
+} catch (e) {
+  console.log(e)
+}
+
+let API_HOST = "https://sabbath-school.adventech.io/api/",
+    API_VERSION = target_api === 1 ? "v1" : "v2",
+    PDF_HOST = "https://sabbath-school-pdf.adventech.io/",
+    SOURCE_DIR = "src/",
+    SOURCE_INFO_FILE = "info.yml",
+    SOURCE_PDF_FILE = "pdf.yml",
+    SOURCE_COVER_FILE = "cover.png",
+    SOURCE_SPLASH_FILE = "splash.png",
+    DIST_DIR = "dist/api/" + API_VERSION + "/",
+    BIBLE_PARSER_CONFIG = require("./config.js"),
+    FIREBASE_DATABASE_LANGUAGES = "/api/" + API_VERSION + "/languages",
+    FIREBASE_DATABASE_QUARTERLIES = "/api/" + API_VERSION + "/quarterlies",
+    FIREBASE_DATABASE_QUARTERLY_INFO = "/api/" + API_VERSION + "/quarterly-info",
+    FIREBASE_DATABASE_LESSONS = "/api/" + API_VERSION + "/lessons",
+    FIREBASE_DATABASE_LESSON_INFO = "/api/" + API_VERSION + "/lesson-info",
+    FIREBASE_DATABASE_DAYS = "/api/" + API_VERSION + "/days",
+    FIREBASE_DATABASE_READ = "/api/" + API_VERSION + "/reads";
+
+let renderer = new metaMarked.noMeta.Renderer();
+
+renderer.codespan = function (text) {
+  return '<code>' + ent.decode(text) + '</code>';
+};
+
+renderer.image = function (href, title, text) {
+  let url = href
+  if (!/^https/.test(href)) {
+    url = `${renderer.options.baseUrl}${href}`
+  }
+  return `<img style="max-width:100%" alt="${text || ''}" src="${url}" />`
+}
+
+let slug = function (input) {
+  return input.toLowerCase().replace(/ /g, "-")
+};
+
+let convertDatesForWeb = function (object) {
+  for (let key in object) {
+    if (object.hasOwnProperty(key)) {
+      if (key === "date" ||
+        key === "start_date" ||
+        key === "end_date") {
+        object[key] = moment(object[key], "DD/MM/YYYY").format("YYYY-MM-DD");
+      }
+    }
+  }
+  return object;
+};
+
+let yamlify = function (json) {
+  return "---\n" + yamljs.dump(json, {lineWidth: -1}) + "\n---";
+};
+
+let db
+if (branch.toLowerCase() === "master") {
+  API_HOST = "https://sabbath-school.adventech.io/api/";
+  PDF_HOST = "https://sabbath-school-pdf.adventech.io/";
+  firebase.initializeApp({
+    databaseURL: "https://blistering-inferno-8720.firebaseio.com",
+    credential: firebase.credential.cert(require('./deploy-creds.json')),
+    databaseAuthVariableOverride: {
+      uid: "deploy"
+    }
+  });
+  db = firebase.database();
+} else if (branch.toLowerCase() === "stage") {
+  API_HOST = "https://sabbath-school-stage.adventech.io/api/";
+  PDF_HOST = "https://sabbath-school-pdf-stage.adventech.io/";
+  firebase.initializeApp({
+    databaseURL: "https://sabbath-school-stage.firebaseio.com",
+    credential: firebase.credential.cert(require('./deploy-creds-stage.json')),
+    databaseAuthVariableOverride: {
+      uid: "deploy"
+    }
+  });
+  db = firebase.database();
+} else {
+  firebase = {
+    app: function () {
+      return {
+        delete: function () {}
+      }
+    }
+  };
+  db = {
+    ref: function () {
+      return {
+        set: function () {},
+        child: function () {
+          return {
+            set: function (a) {},
+            once: function () {}
+          }
+        }
+      }
+    },
+    goOffline: function () {}
+  }
+}
+
+// Processing cover images
+let processCoverImages = function () {
+  console.log('Processing cover images');
+  let files = glob.sync(`images/global/${compile_quarter}/*/cover.png`);
+  for (let i = 0; i < files.length; i++) {
+    try {
+      fs.copySync(files[i], files[i].replace("images/global", DIST_DIR + "images/global"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(files[i], files[i].replace("images/global", "web/static/img/global"));
+      }
+    } catch (e) {}
+  }
+
+  let splash = glob.sync(`images/global/${compile_quarter}/${SOURCE_SPLASH_FILE}`);
+  for (let i = 0; i < splash.length; i++) {
+    try {
+      fs.copySync(splash[i], splash[i].replace("images/global", DIST_DIR + "images/global"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(splash[i], splash[i].replace("images/global", "web/static/img/global"));
+      }
+    } catch (e) {}
+  }
+};
+
+// Processing other images
+let processMiscImages = function () {
+  console.log('Processing misc images');
+  let files = glob.sync("images/misc/*.{png,jpg,jpeg}");
+  for (let i = 0; i < files.length; i++) {
+    try {
+      fs.copySync(files[i], files[i].replace("images/misc", DIST_DIR + "images/misc"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(files[i], files[i].replace("images/misc", "web/static/img/misc"));
+      }
+    } catch (e) {}
+  }
+};
+
+let processFeaturesImages = function () {
+  console.log('Processing features images');
+  let files = glob.sync("images/features/*.{png,jpg,jpeg}");
+  for (let i = 0; i < files.length; i++) {
+    try {
+      fs.copySync(files[i], files[i].replace("images/features", DIST_DIR + "images/features"));
+      if (!/master|stage/i.test(branch)) {
+        fs.copySync(files[i], files[i].replace("images/features", "web/static/img/features"));
+      }
+    } catch (e) {}
+  }
+};
+
+let processAssetImages = function () {
+  console.log('Processing asset images');
+  let assets = glob.sync(`src/${compile_language}/${compile_quarter}/*/*.{png,jpg,jpeg}`);
+  for (let asset of assets) {
+    let info = getInfoFromPath(asset)
+    fs.copySync(asset, `${DIST_DIR}${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/${asset.split("/").pop()}`);
+  }
+};
+
+let getQuarterlyJSON = function (quarterlyPath) {
+  let quarterly = yamljs.load(fs.readFileSync(`${quarterlyPath}info.yml`)),
+      info = getInfoFromPath(quarterlyPath);
+
+  quarterly.lang = info.language;
+  quarterly.id = info.quarterly;
+  quarterly.index = `${info.language}-${info.quarterly}`;
+  quarterly.path = `${info.language}/quarterlies/${info.quarterly}`;
+  quarterly.full_path = `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}`;
+  quarterly.introduction = quarterly.description
+
+  if (fs.pathExistsSync(quarterlyPath + "/introduction.md")) {
+    quarterly.introduction = fs.readFileSync(quarterlyPath + "/introduction.md", "utf-8")
+  }
+
+  if (quarterly.credits) {
+    quarterly.credits = quarterly.credits.filter(item => item.value.length)
+  }
+
+  if (fs.existsSync(`src/${info.language}/features.yml`)) {
+    let quarterly_features = []
+    let features = yamljs.load(fs.readFileSync(`src/${info.language}/features.yml`));
+
+    for (let key of Object.keys(features)) {
+      features[key].image = `${API_HOST}${features[key].image}`
+    }
+
+    if (quarterly.features && quarterly.features.length) {
+      for (let feature of quarterly.features) {
+        if (feature && features[feature]) {
+          quarterly_features.push(features[feature])
+        }
+      }
+    }
+
+    let inside_stories = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/inside-story.md`);
+
+    if (inside_stories.length && features['inside-story']) {
+      quarterly_features.push(features['inside-story'])
+    }
+
+    let teacher_comments = glob.sync(`${quarterlyPath}/+(0|1|2|3|4|5|6|7|8|9)/teacher-comments.md`);
+
+    if (teacher_comments.length && features['teacher-comments']) {
+      quarterly_features.push(features['teacher-comments'])
+    }
+
+    let audio = glob.sync(`${quarterlyPath}/audio.yml`);
+
+    if (audio.length && features['audio']) {
+      quarterly_features.push(features['audio'])
+    }
+
+    let video = glob.sync(`${quarterlyPath}/video.yml`);
+
+    if (video.length && features['video']) {
+      quarterly_features.push(features['video'])
+    }
+
+    let pdf = glob.sync(`${quarterlyPath}/pdf.yml`);
+
+    if (pdf.length && features['original_layout']) {
+      quarterly_features.push(features['original_layout'])
+    }
+
+    quarterly.features = quarterly_features.filter((thing, index) => {
+      const _thing = JSON.stringify(thing);
+      return index === quarterly_features.findIndex(obj => {
+        return JSON.stringify(obj) === _thing;
+      });
+    });
+  }
+  if (fs.existsSync(`src/${info.language}/groups.yml`)) {
+    let groups = yamljs.load(fs.readFileSync(`src/${info.language}/groups.yml`));
+    let quarterly_group = quarterly.index.replace(info.language+'-', '').substring(7).replace(/^-/, '')
+    if (!quarterly_group.length) {
+      quarterly_group = 'default'
+    }
+
+    if (quarterly_group.length && groups[quarterly_group]) {
+      quarterly.quarterly_group = groups[quarterly_group]
+    }
+  }
+
+  if (fs.existsSync(`${quarterlyPath}/${SOURCE_SPLASH_FILE}`)) {
+    fs.copySync(quarterlyPath + "/" + SOURCE_SPLASH_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_SPLASH_FILE);
+    quarterly.splash = quarterly.full_path + "/" + SOURCE_SPLASH_FILE;
+  } else {
+    let tqi = /-(iv|ay)$/.test(info.quarterly) ? info.quarterly.replace(/-(iv|ay)$/, '-cq') : info.quarterly;
+    if (fs.pathExistsSync(`images/global/${tqi}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi}/${SOURCE_SPLASH_FILE}`;
+    } else if (fs.existsSync(`images/global/${info.quarterly.slice(0, 7)}/${SOURCE_SPLASH_FILE}`) && quarterly.splash === true) {
+      quarterly.splash = `${API_HOST}${API_VERSION}/images/global/${tqi.slice(0, 7)}/${SOURCE_SPLASH_FILE}`;
+    }
+  }
+
+  try {
+    fs.lstatSync(quarterlyPath + "/" + SOURCE_COVER_FILE);
+    fs.copySync(quarterlyPath + "/" + SOURCE_COVER_FILE, DIST_DIR + quarterly.path + "/" + SOURCE_COVER_FILE);
+    quarterly.cover = quarterly.full_path + "/" + SOURCE_COVER_FILE;
+  } catch (err) {
+    quarterly.cover = "";
+  }
+  return quarterly
+};
+
+let getLessonJSON = function (lessonPath, pdf, pdfPath) {
+  let lesson = {}, info
+
+  if (pdf && pdfPath) {
+
+    let targetPdf = pdf[0]
+    let id = targetPdf.target.substr(targetPdf.target.lastIndexOf('/')+1)
+    info = getInfoFromPath(`${pdfPath.replace("/"+SOURCE_PDF_FILE, id)}/`);
+    lesson.title = targetPdf.title
+    lesson.start_date = targetPdf.start_date
+    lesson.end_date = targetPdf.end_date
+
+
+  } else if (lessonPath) {
+    try {
+      lesson = yamljs.load(fs.readFileSync(`${lessonPath}info.yml`))
+      info = getInfoFromPath(lessonPath);
+    } catch (err) {
+      console.log(`${lessonPath}info.yml`)
+      console.log(err)
+    }
+  }
+
+  lesson.id = info.lesson;
+  lesson.index = `${info.language}-${info.quarterly}-${info.lesson}`;
+  lesson.path = `${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}`;
+  lesson.full_path = `${API_HOST}${API_VERSION}/${lesson.path}`;
+
+  if (target_api === 2) {
+    lesson.pdfOnly = false
+  }
+
+  let targetQuarterlyIndex = info.quarterly
+
+  let tqi = /-(iv|ay)$/.test(targetQuarterlyIndex) ? targetQuarterlyIndex.replace(/-(iv|ay)$/, '-cq') : targetQuarterlyIndex;
+
+  if (!fs.pathExistsSync(`images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`)) {
+    tqi = info.quarterly.slice(0, 7)
+  }
+
+  lesson.cover = `${API_HOST}${API_VERSION}/images/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`;
+
+  if (!/master|stage/i.test(branch)) {
+    lesson.cover = `/img/global/${tqi}/${info.lesson}/${SOURCE_COVER_FILE}`;
+  }
+
+  // TODO: Optimize to check if file exists instead of try / catch block
+  try {
+    fs.lstatSync(`${lessonPath}/${SOURCE_COVER_FILE}`);
+    fs.copySync(`${lessonPath}/${SOURCE_COVER_FILE}`, `${DIST_DIR}${lesson.path}/${SOURCE_COVER_FILE}`);
+    lesson.cover = `${lesson.full_path}/${SOURCE_COVER_FILE}`;
+  } catch (err) {}
+  return lesson
+};
+
+let getDayJSON = function (dayPath, deep) {
+  let info = getInfoFromPath(dayPath);
+  let _day = metaMarked(fs.readFileSync(dayPath, "utf-8"), {renderer: renderer, baseUrl: `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/`});
+
+  let day = _day.meta;
+  day.id = info.day;
+  day.index = `${info.language}-${info.quarterly}-${info.lesson}-${info.day}`;
+  day.path = `${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/${info.day}`;
+  day.full_path = `${API_HOST}${API_VERSION}/${day.path}`;
+  day.read_path = `${day.path}/read`;
+  day.full_read_path = `${API_HOST}${API_VERSION}/${day.read_path}`;
+
+  return deep ? [day, _day] : day;
+};
+
+let generatePDFId = function (pdf) {
+  return crypto.createHash('sha256').update(pdf['target'] + pdf['src']).digest('hex');
+}
+
+let groupPDFsByTarget = function (pdfs) {
+  return pdfs.reduce(function (r, a) {
+    r[a.target] = r[a.target] || [];
+    r[a.target].push(a);
+    return r;
+  }, Object.create(null))
+}
+
+// Create languages API endpoint
+let languagesAPI = async function () {
+  console.log('Deploying languages API');
+  let languages = [];
+  for (let language of glob.sync("src/*/info.yml")) {
+    languages.push(yamljs.load(fs.readFileSync(language)));
+  }
+
+  // Firebase
+  await db.ref(FIREBASE_DATABASE_LANGUAGES).set(languages);
+  // API
+  fs.outputFileSync(`${DIST_DIR}/languages/index.json`, JSON.stringify(languages));
+};
+
+let quarterliesAPI = async function () {
+  console.log('Deploying quarterlies API');
+  let languages = glob.sync(`src/${compile_language}/`).map(x => x.substring(4, x.length-1));
+
+  for (let language of languages) {
+    let _quarterlies = glob.sync(`src/${language}/${compile_quarter}/`)
+    let quarterlies = []
+
+    if (target_api === 1) {
+      for (let quarterly of _quarterlies) {
+
+        if (fs.pathExistsSync(`${quarterly}/01`)) {
+          quarterlies.push(quarterly)
+        }
+      }
+    } else {
+      quarterlies = _quarterlies
+    }
+
+    quarterlies = quarterlies.sort(function (a, b) {
+      if (a.length === 15) a = a + "_";
+      if (a < b) return -1;
+      if (a > b) return 1;
+      return 0;
+    }).reverse().map(q => getQuarterlyJSON(q));
+
+    if (!quarterlies.length) continue;
+
+    let data = await db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).once("value");
+
+    let existingQuarterlies = data && data.val() || [];
+
+    for (let quarterly of quarterlies) {
+      let replaced = false;
+      for (let i = 0; i < existingQuarterlies.length; i++) {
+        if (existingQuarterlies[i] && quarterly.index === existingQuarterlies[i].index) {
+          existingQuarterlies[i] = quarterly;
+          replaced = true;
+        }
+      }
+      if (!replaced) {
+        existingQuarterlies.unshift(quarterly);
+      }
+    }
+
+    existingQuarterlies = existingQuarterlies.filter(item => item !== null)
+
+    existingQuarterlies = existingQuarterlies.sort(function (a, b) {
+      let s = a.index,
+          d = b.index;
+
+      if (s.length === 10) s += "_";
+      if (d.length === 10) d += "_";
+
+      if (s < d) return -1;
+      if (s > d) return 1;
+
+      return 0;
+    }).reverse();
+
+    // Firebase
+    await db.ref(FIREBASE_DATABASE_QUARTERLIES).child(language).set(existingQuarterlies);
+
+    // API
+    fs.outputFileSync(`${DIST_DIR}/${language}/quarterlies/index.json`, JSON.stringify(existingQuarterlies));
+  }
+};
+
+let quarterlyAPI = async function () {
+  console.log('Deploying quarterly API');
+  let pdfs
+  let quarterlies = glob.sync(`src/${compile_language}/${compile_quarter}/`);
+
+  for (let quarterlyId of quarterlies) {
+    if (target_api === 1) {
+      if (!fs.pathExistsSync(`${quarterlyId}/01`)) {
+        continue
+      }
+    }
+
+    let quarterly = getQuarterlyJSON(quarterlyId),
+        info = getInfoFromPath(quarterlyId),
+        lessons = glob.sync(`${quarterlyId}*/`).map(x => getLessonJSON(x)),
+        pdfPath = `${quarterlyId}/${SOURCE_PDF_FILE}`;
+
+    if (fs.pathExistsSync(pdfPath)) {
+      pdfs = yamljs.load(fs.readFileSync(pdfPath))
+    }
+
+    if (pdfs && !lessons.length) {
+      let grouped_pdfs = groupPDFsByTarget(pdfs.pdf);
+
+      lessons = await Promise.all(lessons.concat(Object.keys(grouped_pdfs).map(
+          async function (x) {
+            grouped_pdfs[x].map(
+                x => {
+                  x.id = generatePDFId(x)
+                  x.src = `${PDF_HOST}pdf/${info.language}/${info.quarterly}/${x.id}/${x.id}.pdf`
+                }
+            )
+            let lesson = getLessonJSON(null, grouped_pdfs[x], pdfPath)
+            lesson['pdfOnly'] = true
+
+            let lessonInfo = {lesson: lesson, days: [], pdfs: grouped_pdfs[x]}
+            await db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.index).set(lessonInfo);
+            // API
+            fs.outputFileSync(`${DIST_DIR}${lesson.path}/index.json`, JSON.stringify(lessonInfo));
+            return lesson
+          }
+      )))
+    }
+
+    // Firebase
+    await db.ref(FIREBASE_DATABASE_QUARTERLY_INFO).child(quarterly.index).set({quarterly: quarterly, lessons: lessons});
+    await db.ref(FIREBASE_DATABASE_LESSONS).child(`${info.language}-${info.quarterly}`).set(lessons);
+
+    // API
+    fs.outputFileSync(`${DIST_DIR}${quarterly.path}/index.json`, JSON.stringify({quarterly: quarterly,lessons: lessons}));
+    fs.outputFileSync(`${DIST_DIR}${quarterly.path}/lessons/index.json`, JSON.stringify(lessons));
+  }
+};
+
+
+let lessonAPI = async function () {
+  console.log('Deploying lesson API');
+  let lessons = glob.sync(`src/${compile_language}/${compile_quarter}/*/`);
+  let pdfs = glob.sync(`src/${compile_language}/${compile_quarter}/${SOURCE_PDF_FILE}`).map(function (pdfPath){
+    let _pdfs = yamljs.load(fs.readFileSync(pdfPath))
+    return groupPDFsByTarget(_pdfs.pdf)
+  });
+
+  if (pdfs.length) {
+    pdfs = Object.assign(...pdfs)
+  }
+
+  for (let lessonId of lessons) {
+    let lesson = getLessonJSON(lessonId),
+      info = getInfoFromPath(lessonId),
+      days = glob.sync(`${lessonId}*.md`).map(x => getDayJSON(x)),
+      pdf = [];
+
+    let lessonInfo = {lesson: lesson, days: days}
+
+    if (target_api === 2) {
+      for (let pdfItem of pdfs[`${info.language}/${info.quarterly}/${info.lesson}`] || []) {
+        pdfItem.id = generatePDFId(pdfItem)
+        pdfItem.src = `${PDF_HOST}pdf/${info.language}/${info.quarterly}/${pdfItem.id}/${pdfItem.id}.pdf`
+        if (!pdfItem.title) { pdfItem.title = lesson.title }
+        if (!pdfItem.start_date) { pdfItem.start_date = lesson.start_date }
+        if (!pdfItem.end_date) { pdfItem.end_date = lesson.end_date }
+        pdf.push(pdfItem)
+      }
+
+      delete pdfs[`${info.language}/${info.quarterly}/${info.lesson}`]
+
+      lessonInfo.pdfs = pdf
+    }
+
+    // Firebase
+    await db.ref(FIREBASE_DATABASE_LESSON_INFO).child(lesson.index).set(lessonInfo);
+    await db.ref(FIREBASE_DATABASE_DAYS).child(`${info.language}-${info.quarterly}-${info.lesson}`).set(days);
+
+    // API
+    fs.outputFileSync(`${DIST_DIR}${lesson.path}/index.json`, JSON.stringify(lessonInfo));
+    fs.outputFileSync(`${DIST_DIR}${lesson.path}/days/index.json`, JSON.stringify(days));
+  }
+};
+
+let dayAPI = async function () {
+  console.log('Deploying day API');
+  let days = glob.sync(`src/${compile_language}/${compile_quarter}/+(0|1|2|3|4|5|6|7|8|9)/*.md`);
+  let dayIndex = 0
+  let prevWeek = null
+
+  for (let dayId of days) {
+
+    let dayJSON = getDayJSON(dayId, true);
+    let day = dayJSON[1],
+        _day = dayJSON[0],
+        info = getInfoFromPath(dayId),
+        read = {},
+        meta = null,
+        resultRead;
+
+    if (prevWeek !== info.lesson) {
+      dayIndex = 0
+    }
+    dayIndex++
+    prevWeek = info.lesson
+
+    try {
+      meta = JSON.parse(JSON.stringify(day.meta));
+      meta.bible = [];
+    } catch (e) {
+      console.error('Error parsing this file: ', dayId);
+    }
+
+    let quarterlyVariant = info.quarterly.substring(info.quarterly.lastIndexOf('-') + 1);
+    let iteratorArray = (BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)]) ? BIBLE_PARSER_CONFIG[(info.language + '-' + quarterlyVariant)] : BIBLE_PARSER_CONFIG[info.language];
+
+    resultRead = day.markdown;
+
+    for (let bibleVersionIterator = 0; bibleVersionIterator < iteratorArray.length; bibleVersionIterator++) {
+      let bibleVersion = iteratorArray[bibleVersionIterator],
+          resultBible = {},
+          language = info.language,
+          bibleCopyright = null;
+
+      resultRead = day.markdown;
+
+      if (additionalReadingTitles[info.language]) {
+
+        let replaceInstance = function (additionalReadingTitlesObject) {
+          let additionalReadingRegex = new RegExp(additionalReadingTitlesObject.regex, "img"),
+              additionalReadingFull = new RegExp(`${additionalReadingTitlesObject.regex}(.*?\n?(?!---))+`, "img")
+
+          if (additionalReadingRegex.test(resultRead)) {
+            let additionalReadingComments = resultRead.match(additionalReadingFull)[0].replace(additionalReadingRegex, "").trim()
+            resultRead = resultRead.replace(additionalReadingFull, "").trim()
+            resultRead += getAdditionalReadingHtml(additionalReadingTitlesObject.final, `${additionalReadingComments}\n\n${additionalReadingTitlesObject.pppCopyright}`)
+          }
+        }
+
+        if (Array.isArray(additionalReadingTitles[info.language])) {
+          for (let additionalReadingTitlesObject of additionalReadingTitles[info.language]) {
+            replaceInstance(additionalReadingTitlesObject)
+          }
+        } else {
+          replaceInstance(additionalReadingTitles[info.language])
+        }
+      }
+
+      if (bibleVersion.version) {
+        language = bibleVersion.lang;
+        bibleCopyright = bibleVersion.copyright;
+        bibleVersion = bibleVersion.version;
+      }
+
+      let result = null;
+      try {
+        result = bibleSearchBCV.search(language, bibleVersion, resultRead);
+      } catch (err) {
+        result = null;
+      }
+      if (!result) continue;
+
+      resultRead = result.output;
+
+      resultBible["name"] = bibleVersion.toUpperCase();
+
+      if (result.verses.length) {
+        resultBible["verses"] = result.verses.reduce(function (result, item) {
+          let key = Object.keys(item)[0];
+          result[key] = item[key];
+
+          if (result[key] && bibleCopyright) {
+            result[key] += bibleCopyright
+          }
+          return result;
+        }, {});
+        meta.bible.push(resultBible);
+      }
+    }
+
+    if (meta.bible.length <= 0) {
+      delete meta.bible;
+    }
+
+    read.id = info.day;
+    read.date = day.meta.date;
+    read.index = info.language + "-" + info.quarterly + "-" + info.lesson + "-" + info.day;
+    read.title = day.meta.title;
+    read.bible = meta.bible;
+
+    if (!read.bible) {
+      read.bible = [{
+        "name": "",
+        "verses": {}
+      }]
+    }
+
+    read.content = metaMarked(resultRead, {renderer: renderer,
+      baseUrl: `${API_HOST}${API_VERSION}/${info.language}/quarterlies/${info.quarterly}/lessons/${info.lesson}/days/`}).html;
+
+    if (donationNotice[info.language] && (/^src\/(en|de|es)\/2020-02(-er|-cq)?\/(07|08|11|13)/img.test(dayId))) {
+      read.content = donationNotice[info.language] + read.content;
+      resultRead = "\n\n" + donationNotice[info.language] + "\n\n" + resultRead;
+    }
+
+    if (/src\/([a-z]{2,3})\/2023-01/img.test(dayId)) {
+      let disclaimer = "<p><small>Disclaimer: Contents of these lessons are not intended to be financial advice but is general commentary based on biblical principles. The reader is encouraged to seek competent professional advice which will suit their particular personal situation.</small></p>"
+      read.content = read.content + disclaimer;
+      resultRead = `\n\n${disclaimer}\n\n${resultRead}`;
+    }
+
+    // Firebase
+    await db.ref(FIREBASE_DATABASE_READ).child(read.index).set(read);
+
+    // API
+    fs.outputFileSync(`${DIST_DIR}${_day.path}/index.json`, JSON.stringify(_day));
+    fs.outputFileSync(`${DIST_DIR}${_day.path}/read/index.json`, JSON.stringify(read));
+  }
+};
+
+((async function () {
+  processCoverImages();
+  processMiscImages();
+  processFeaturesImages();
+  processAssetImages();
+
+  try {
+    await dayAPI();
+    await lessonAPI();
+    await quarterlyAPI();
+    await quarterliesAPI();
+    await languagesAPI();
+  } catch (e) {
+    console.error(e)
+  }
+})()).then(() => {
+  db.goOffline();
+  firebase.app().delete();
+});

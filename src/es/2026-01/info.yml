@@ -1,0 +1,12 @@
+---
+  title: "Uniendo el cielo y la tierra"
+  description: "Piensa en el trabajo más exigente que hayas hecho. ¿Qué lo hizo difícil? ¿Fueron las expectativas, el tiempo asignado, o ambas cosas? ¿Fue tu actitud hacia la tarea? ¿O quizá fueron las personas con las que trabajabas? ¿O tal vez te parecía imposible tener éxito?"
+  human_date: "Enero · Febrero · Marzo 2026"
+  start_date: "27/12/2025"
+  end_date: "27/03/2026"
+  color_primary: "#1B4342"
+  color_primary_dark: "#133433"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Clinton Wahlen"

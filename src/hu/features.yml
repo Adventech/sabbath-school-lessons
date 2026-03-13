@@ -1,0 +1,26 @@
+---
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen White idézetek
+    description: Szemelvények a Prófétaság Lelke írásaiból a naponkénti tanulmányozáshoz
+    image: "v1/images/features/feature_egw.png"
+  audio:
+    name: audio
+    title: Audio
+    description: A heti Bibliatanulmány meghallgatása
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Beszélgetés a heti Bibliatanulmányról
+    image: "v1/images/features/feature_video.png"
+  inside-story:
+    name: inside-story
+    title: Történet
+    description: Inspiráló missziós történetek a világ minden tájáról
+    image: "v1/images/features/feature_inside_story.png"
+  original_layout:
+    name: original-layout
+    title: Eredeti elrendezés
+    description: A nyomtatott kiadvány szerinti elrendezés, saját jegyzetekkel
+    image: "v1/images/features/feature_original_layout.png"

@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+node_modules
+dist
+web/public
+web/content/*
+!web/content/language
+web/static/img/global
+test
+deploy-creds*
+!deploy-creds.tar.gpg
+.vscode
+.markdownlint.json

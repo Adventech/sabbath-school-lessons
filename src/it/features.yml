@@ -1,0 +1,26 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Commenti degli insegnanti
+    description: Preparati a facilitare la discussione delle lezioni della Scuola del Sabato con l'edizione di questa insegnante
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Citazioni di Ellen G. White
+    description: Migliora il tuo studio con ulteriori citazioni selezionate dagli scritti di Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Finestra sulle missioni
+    description: Leggi storie di missioni stimolanti da tutto il mondo
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Ascolta la lezione mentre sei in movimento con la versione audio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Guarda la discussione della lezione settimanale per approfondire il tuo studio
+    image: "v1/images/features/feature_video.png"

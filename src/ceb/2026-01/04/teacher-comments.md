@@ -1,0 +1,68 @@
+---
+title:  Komento sa Magtutudlo
+date:   23/01/2026
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto:** Filipos 2:2
+
+**Tutokan sa Pagtuon:** Filipos 2:1–8
+
+Ang Filipos 2:1–4 nagsugod sa usa ka bahin diin si Pablo naghisgot sa sumbanan ni Cristo sa pagpaubus alang sa Cristohanong kinabuhi (Filipos 2:1–18). Si Cristo mao ang atong labing hataas nga sumbanan sa pagpasakup ngadto sa Dios. Ang gugma alang Kaniya ug pagpakiguban Kaniya. Panahon sa Iyang yutan-ong pagministeryo, nagmatuto si Cristo sa halalum nga pakigsulti sa Amahan ug sa sublisubli nagpasantop sa ilang panaghiusa (Juan 5:19); Juan 10:30, 38; Juan 12:45; Juan 14:9, 10; Juan 17:11, 21–24). Sa sama nga paagi, gipasantop ni Jesus sa Iyang pagkahiusa sa Espiritu Santo (Juan 14:16, 26; Juan 15:26; Juan 16:7).
+
+Ang mga sakup sa Diosnong Kamandoan magpadayon sa walay katapusan diha sa usa ka panagkauyon ug sa mahigugmaon nga relasyon, paghatag og usa ka plano o giya alang sa panaghiusa ug gugma nga kinahanglan maghubit sa mga relasyon taliwala sa mga tumotoo. Gipasantop ni Pablo kini nga tema dili lamang diha sa Filipos kondili sa laing dapit. Pananglitan, sa sinugdanan sa 1 Corinto, nagingon siya, “Apan magahangyo ako kaninyo, mga igsoon, tungod sa ngalan sa atong Ginoong Jesu-Cristo, nga unta kamong tanan magasulti sa mao rang usa ka butang ug nga wala unta kaninyoy mga pagkabahinbahin, kondili mausa unta hinoon kamo diha sa mao rang paagiha sa paghunahuna ug sa mao rang hunahunaa” (1 Corinto 1:10); itandi sa Roma 15:5–7, Galacia 3:26–29, Efeso 4:1–6, Colosas 3:12–15).
+
+Ang leksyon niini nga semana nagpasantop sa tulo ka dagkung mga tema:
+
+1. Ang pagkinabuhi diha sa panaghiusa ug pagpakita og gugma alang sa usag usa maoy patukoranan sa Cristohanong mga katungdanan ug ang gidahum nga pamatasan sa matag usa ka sumusunod ni Jesus.
+
+2. Ingon nga mga Cristohanon, kita gitawag sa pagpalambo sa usa ka matang sa pagpanghunahuna sama kang Cristo. Gipasantop ni Pablo kon unsa ang magsakup sa panghunahuna nga sama kang Cristo.
+
+3. Ang atong mga hunahuna adunay kinutoban ngadto sa bug-os nga pagsabut sa walay kinutoban nga pagpaubus ni Cristo sa pagkahimo nga tawo. Kini nga matang sa pagpaubus maoy dili matugkad nga misteryo.
+
+### Bahin II: Komentaryo
+
+**Ilustrasyon**
+
+“Alang sa hilwas nga mga katarungan, ang mga mokatkat og bungtod maghigtanay og pisi sa pagusa sa ilang mga kaugalingon kon mosaka na sila sa usa ka bungtod. Niana nga paagi, kon matipas ang tiil sa usa kanila ug mahulog, dili siya mahulog ngadto sa iyang kamatayon. Mapugngan siya sa uban hangtod nga mabalik ang iyang mga tiil sa pagkatkat.
+
+“Ang iglesya kinahanglan mahisama niana. Kon ang usa ka sakup madalin-as ug mahulog, pugngan siya sa uban hangtod mabalik siya sa pagbarog. Nahigtan kitang tanan pinaagi sa Espiritu Santo.”—Michael P. Green, 1500 Illustrations for Biblical Preaching (Grand Rapids, MI: Baker Books, 2000), p. 66.
+
+**Panaghiusa ug Gugma**
+
+Sa Filipos 2:1–4, nagsulti si Pablo nga ang hinakog nga mga handum maoy dakung hinungdan sa pagkabahinbahin sulud sa iglesya. Nagingon siya nga, “Ayaw na kamo pagbuhat ug bisan unsa sa tuyo sa pagbahinbahin o sa kawang pagpagarbo” (Filipos 2:3). Ang mga pulong “pagbahinbahin” ug “pagpagarbo” mahubad, sa usag-usa, gikan sa Grego nga mga nombre eritheia ug kenodoxia, kini nga duha nihit kaayo nga gigamit diha sa Bag-ong Tugon. Ang nahauna gigamit kapito, halos sa mga sulat lang gayod ni Pablo (Roma 2:8; 2 Corinto 12:20; Galacia 5:20; Filipos 1:16; Filipos 2:3; Santiago 3:14, 16). Ang ikaduha gigamit kausa lamang. Makasisibut, nga ang pulong erithea dili makita sa Septuagint, ang Grego nga bersiyon sa Daang Tugon, ug ang kenodoxia makita sa tulo ka higayon, apan sa dili-kanonikal nga mga libro. Busa, daw ang paggamit ni Pablo niini nga mga pulong diha sa Filipos 2:3 dili pinasikad sa Grego nga bersiyon sa Daang Tugon. Sa usa ka bahin, ang duha ka mga pulong makita diha sa karaan nga mga lista sa mga bisyo, diha sa mga sinulat sa mga pilosopo, aron pagsaway sa panagtigi (tan-awa kang Gerald F. Hawthrone, Philippians vol. 43 sa Word Biblical Commentary [Dallas: Word Inc., 2004], p. 87. Dili ikatingala, ang eritheia makita diha sa katalogo sa mga sala nga natala diha sa 2 Corinto 12:20 ug Galacia 5:20. Sa tinaw, gigamit ni Pablo kini nga mga pulong aron pagtumbok sa mga batasan nga kinahanglan likayan sa mga Cristohanon.
+
+Ang Filipos 2:1–4 nagpakita nga aron nga ang panaghiusa mahimo nga usa ka katinuuran diha sa iglesya, ang usa ka tawo dili lang maglikay sa pagtigi ug kahakog nga makapaluya sa panaguyon, kondili ang pagbatasan sa Cristohanong mga hiyas kinahanglanon aron pagpalambo sa usa ka kahulogan sa panagkauban. Ang panaghiusa nga kahimtang gihulagway pinaagi sa paglipayay, gugma, ug panagkauban, pagbati, ug kalooy (Filipos 2:1). Niana nga palibut, ang mga tawo “magkasinabtanay,” maghigugmaay sa usag usa, ug “sa samang panghunahuna ug katuyoan.” (Filipos 2:2).
+
+Apan, wala magpasabut si Pablo alang sa pagkapareho, kondili alang sa pagkahiusa diha sa pagkalahilahi. Sa pagsaway sa “hakog nga handum” ug “pagpagarbo,” naghatag siya sa kaatbang nga batasan, nga mao ang “pagpaubos sa hunahuna” (Filipos 2:3). Kini nga panghunahuna gipasabut og dugang sa nagsunod nga tudling: “hinonoa uban sa pagpaubos isipa ang uban ingon nga labi pang maayo kay sa inyong kaugalingon” (Filipos 2:3). Importante kaayo kana nga hunahuna sa pagkaagi nga gisublisubli kini ni Pablo sa nagkalainlaing mga pulong diha sa sunod nga bersikulo, “nga ang matag usa kaninyo magatagad dili lamang sa iyang kaugalingong mga kahimtang, kondili sa mga kahimtang sa uban usab” (Filipos 2:4). Wala magawhag si Pablo sa iyang magbabasa sa pagbiya sa ilang personal nga mga handum kondili sa paghunahuna usab alang sa tinguha sa uban sa halalum nga pagtagad, sa baylo nga manaway. Si Jesus mao ang Labing Hataas nga Sumbanan niini nga bahin. Busa, nagtambag sa mga nagbasa kaniya sa pagpalambo sa panghunahuna nga sama kang Cristo.
+
+**Panghunahuna nga Sama Kang Cristo**
+
+Ang Filipos 2:1–8 naghatag sa mga pulong gikan sa Grego nga phren (o phron). Kini nga lintunganay nga pulong gigamit sa pagpasantop sa paggamit sa “mahunahunaon nga plano sa usa ka tawo”—Johannes P. Louw and Eugene A. Nida, Greek English Lexicon of the New Testament: Based on Semantic Domains, 2nd ed., vol. 1 (New York: United Bible Societies, 1996), p. 324. Niini nga kahulogan diha sa Filipos 2:2, nagtambag si Pablo sa mga nagbasa kaniya sa “paghunahuna sa sama nga butang [ngadto sa auto phronete] pinaagi sa pagbaton sa sama nga panghunahuna [ngadto sa hen phronountes]” (hubad sa magsusulat). Kini nga pagkatakdo posibli lamang kon “uban sa pagkalumo sa panghunahuna [tapeinophrosyne] ang matag usa ka tawo moila sa uban nga labaw pa ka importante sa iyang kaugalingon” (Filipos 2:3, hubad sa magsusulat). Ang pangatapusan niini nga lumbay sa pangatarongan nakaabut diha sa mosunod nga pahayag: “Batoni diha kaninyo kining hunahunaa [phroneite] nga mabatonan ninyo diha kang Cristo Jesus” (Filipos 2:5). Giawhag ni Pablo ang taga Filipos sa pagpalambo sa paagi sa pagpanghunahuna nga sama kang Cristo, tungud kay kini lamang nga panghunahuna ang makahatud ngadto sa paagi sa pagpanghunahuna nga sama kang Cristo.
+
+Naglalis ang mga eskolar kon kini nga pulong “kini” diha sa Filipos 2:5 (kini nga hunahuna) nagpasabut ngadto sa pagpaubus nga gihisgutan diha sa Filipos 2:1–4 o ngadto sa kalumo ni Jesus, sumala sa gipakita sa Iyang pagtagad nga gihulagway diha sa Filipos 2:6–8. Sa bisan hain niini nga kahimtang, si Jesus nagbarog ingon nga sulondan nga sundon. Sa gisulti pa ni Tom Wright, “Ang matag usa kinahanglan magtutok sa usa ka butang nga lain kaysa ilang mga kaugalingon; ug kanang usa ka butang mao si Jesu-Cristo, ang hari, ang Ginoo, ug ang maayong balita nga mianhi sa pagkuha sa kalibutan sa Iyang ngalan.”—Wright, Paul for Everyone: The Prison Letters: Ephesians, Philippians, Colossians, and Philemon (London: Society for Promoting Christian Knowledge, 2004), p. 98.
+
+Ingon nga mga Cristohanon, gitawag kita sa pagpalambo sa pamaagi sa pagpanghunahuna ug pagbuhat sama kang Cristo. Nangatarongan si Pablo nga hingpit nakaamgo si Jesus kon kinsa Siya (Filipos 2:6), apan andam Siya sa pagbasiyo sa Iyang kaugalingon (Filipos 2:7) ug nagpaubos sa Iyang kaugalingon (Filipos 2:8).Gipasabut ni Pablo nga(1) gibasiyo ni Jesus ang Iyang kaugalingon “pinaagi sa pagkuha sa dagway sa usa ka sulogoon,” aron nga, pinaagi sa pagkahimugso diha sa pagkasama sa mga tawo” (Filipos 2:7, Siya (2) nagpaubus sa Iyang kaugalingon “pinaagi sa pagkamatinumanon ngadto sa kamatayon” (Filipos 2:8). Sa kalangkoban nahimo si Jesus nga Sulogoon (tan-awa sa Mateo 20:28 ug Marcos 10:45) ug naghalad sa Iyang kaugalingon alang sa kaluwasan sa uban (tan-awa 2 Corinto 8:9, Hebreohanon 12:2) diha sa pagtuman sa kabubut-on sa Dios (tan-awa Mateo 26:39, Roma 5:19). Kadtong adunay panghunahuna nga sama kang Cristo andam sa pagbuhat sa ingon.
+
+**Usa ka Dili Matugkad nga Misteryo**
+
+Sa 1 Timoteo 3:16, naghatag si Pablo og usa ka sumada sa buluhaton ni Jesus. Ang Iyang pagkahimo nga tawo, pagkamatay, pagkabanhaw, pagkayab ug gani sa usa ka pagpahinungod ngadto sa pagmantala sa ebanghelyo ngadto sa mga Hentil ug ang pagkakabig sa uban kanila, gihulagway uban sa usa ka daw dili katoohan nga pagdaginot sa mga pulong. Ang yutan-ong ministeryo ni Jesus ug ang mga resulta niini gipakita ingon nga ang sulud sa misteryo sa pagkadiosnon.
+
+Ang Grego nga pulong misteryon (“misteryo”) mabasa 28 ka besis diha sa Bag-ong Tugon, kadaghanan sa mga sulat ni Pablo (21 ka besis). Halos sa kanunay, kini nga pulong adunay mahinungdanon sa Cristolohikal nga kabug-aton diha sa mga sinulat ni Pablo. Pananglitan, diha sa Roma 16:25, gidugtong ni Pablo ang misteryo sa mensahe sa ebanghelyo. Sa sama nga paagi, diha sa Efeso 3:2–13, sa sublisubli nagsulti sa misteryo diha sa konteksto sa iyang ministeryo ngadto sa mga Gentil. Si Pablo nagsulti nga “ang misteryo gipahibalo” ngadto kaniya “pinaagi sa pagpadayag” (Efeso 3:3), nga pinaagi niini siya nakahimo sa pagbaton sa labaw ka maayo nga “pagsabut sa misteryo ni Cristo” (Efeso 3:4, nkjv). Nagkauyon ang daghang mga eskolar nga ang mga pulong “ang misteryo ni Cristo” mahimong sabton ingon nga “ang misteryo, nga si Cristo.” Gipalambo ni Pablo kini nga ideya sa dugang pa ka halapad diha sa Colosas. Nagsulti siya bahin sa usa ka “tinago nga nalilong sulod sa mga katuigan ug mga kaliwatan” (Colosas 1:26). Dugang pa, iyang gipasabut “maong tinago alang sa mga Gentil, ang tinago nga si Cristo anaa kaninyo” (Colosas 1:27); tan-awa usab sa Colosas 2:2, Colosas 4:3). Diha sa Efeso 6:19, si apostol Pablo naghisgot sa iyang buluhaton sa pagmantala “sa tinago sa Maayong Balita,” o “ang tinago, nga mao ang ebanghelyo.” Sa Roma 11:25, ang misteryo adunay kalabutan sa kamatuuran nga ang ebanghelyo maabut sa mga Hentil. Dugang pa, nagpasabut si Pablo nga ang grasya sa Dios usa ka misteryo, dili matugkad (Roma 11:33). Tinuud kini! Andam si Jesus nga moantos “sa krus, sa walay pagsapayan sa pagkamakauulaw niini” (Hebreohanon 12:2). Sumala sa pagkasulti ni Pablo diha sa Filipos 2:8, nagpaubus si Jesus sa Iyang kaugalingon bisan ngadto sa kamatayon, “bisan pa sa kamatayon diha sa krus”.
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+Palandunga ang mosunod nga mga tema. Dayon hangyoa ang imong mga tinun-an sa pagtubag sa mga pangutana sa katapusan niini nga bahin:
+
+“Usa ka bisita sa usa ka mental hospital nahibulong sa pagtan-aw nga adunay tulo lang ka mga guwardiya nga nagbantay sa kapin usa ka gatus nga piligroso nga mga pasyente. Iyang gipangutana ang iyang giya, ‘Wala ka ba mahadlok nga lupigon kini nga tulo ka mga guwardiya sa kusog niini nga boangon nga mga tawo dayon manglayas?’ ‘Wala,’ maoy tubag, ‘ang mga boangon dili gayod magkahiusa.’”—Michael P. Green, 1500 Illustrations for Biblical Preaching (Grand Rapids, MI: Baker Books, 2000, p. 65. Kini na sugilanon naghulagway sa kalagmitan alang sa pagtubo nga dili maangkon sa komunidad ingon nga usa ka resulta sa kakulang sa panaghiusa. Ang walay panaghiusa maoy usa ka makalilisang nga kahimtang ug usa ka butang nga likayan sa mga Cristohanon sa tanang panahon.
+
+Wala nay laing butang nga labaw ka mahulgaon sa panglawas sa usa ka komunidad sa mga tumotoo kay sa kakulang sa panaghiusa. Maoy hinungdan nga nabalaka kaayo si Pablo bahin niini ug gipatinaw niya kini nga ang pagkinabuhi diha sa panaghiusa dili lang usa ka Cristohanong hiyas kondili usa usab kini ka sugo: “Hingpita ninyo ang akong kalipay pinaagi sa inyong paggawi nga magkasinabtanay” (Filipos 2:2), ug “nga ang matag usa kaninyo magatagad dili lamang sa iyang kaugalingong mga kahimtang, kondili sa mga kahimtang sa uban usa” (Filipos 2:4).
+
+Si Jesus maoy atong katapusang sumbanan sa pagtagad alang sa mga kahimtang sa uban. Nahimo Siya nga kabus, aron nga pinaagi sa Iyang kakabus, mahimo kitang mga dato (2 Corinto 8:9). Busa, ang tawag ni Pablo sa mga nagbasa kaniya nga dili ikatingala ang pagpalambo sa usa ka panghunahuna nga sama kang Cristo. Atong sundon ang mga tunob sa paglakaw ni Cristo, magbansay sa pagpaubus ug pagtuman ngadto sa Dios. Bisan dili nato masabtan sa hingpit ang kadako sa pagpaubus ni Cristo sa pagkahimo nga tawo, igo na ang atong nahibaloan sa pagkinabuhi diha sa panaghiusa sa usag-usa.
+
+**Mga Pangutana:**
+
+1. Unsay gipasabut sa pagtagad alang sa mga kahimtang sa uban? Unsa nga mga paagi nga atong mabatasan kana?
+
+2. Ngano nga ang panaghiusa taliwala sa mga tumotoo importante kaayo? Unsay atong mabuhat sa pagpalambo sa panaghiusa sulud sa iglesya?

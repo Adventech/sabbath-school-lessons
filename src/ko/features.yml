@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: 교사의 의견
+    description: 이 교사용 버전으로 안식일학교 수업 토론을 진행하도록 준비하세요.
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: 엘렌 화이트 명언
+    description: Ellen G. White 저서에서 추가로 선택된 인용문으로 연구를 강화하세요.
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: 미션스토리
+    description: 전 세계의 감동적인 선교 이야기를 읽어보세요
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: 오디오
+    description: 오디오 버전으로 이동 중에도 강의를 들어보세요
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: 동영상
+    description: 주간 수업 토론을 시청하여 학습을 심화하세요.
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: 원본 레이아웃
+    description: 다양한 주석 도구와 원본 인쇄 레이아웃을 사용하여 수업 학습을 강화하세요.
+    image: "v1/images/features/feature_original_layout.png"

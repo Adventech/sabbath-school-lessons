@@ -1,0 +1,21 @@
+name: content-contribution
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1,7 * * *'
+jobs:
+  contributions:
+    if: (github.repository == 'Adventech/sabbath-school-lessons' && github.ref_name == 'stage')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install
+      - run: node runners/content-contribution.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

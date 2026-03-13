@@ -1,0 +1,37 @@
+name: sync-stage-into-master
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1,7 * * *'
+jobs:
+  sync-stage-into-master:
+    if: (github.repository == 'Adventech/sabbath-school-lessons' && github.ref_name == 'stage')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: stage
+          fetch-depth: 0
+          persist-credentials: false
+          github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          check-latest: true
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install
+      - run: node verify.js
+      - name: Get Status of current ref
+        id: get-status
+        uses: danieldeichfuss/get-status@v0.0.10
+        with:
+          ref: ${{ github.sha }}
+      - name: Merge stage -> master
+        if: ${{steps.get-status.outputs.all-checks-completed == 'true' &&  steps.get-status.outputs.all-checks-passed == 'true'}}
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          from_branch: stage
+          target_branch: master
+          github_token: ${{ secrets.PERSONAL_GH_TOKEN }}

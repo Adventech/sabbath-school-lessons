@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Komentarze nauczycieli
+    description: Przygotuj się do ułatwienia dyskusji na lekcjach Szkoły Sabatu, korzystając z tego wydania dla nauczycieli
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Cytaty Ellen G. White
+    description: Wzbogać swoje studium dodatkowymi wybranymi cytatami z pism Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Historia misji
+    description: Przeczytaj inspirujące historie misyjne z całego świata
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Słuchaj lekcji w podróży dzięki wersji audio
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Wideo
+    description: Obejrzyj cotygodniowe dyskusje na lekcjach, aby pogłębić swoje studium
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Oryginalny układ
+    description: Usprawnij naukę lekcji, korzystając z oryginalnego układu wydruku i licznych narzędzi do adnotacji
+    image: "v1/images/features/feature_original_layout.png"

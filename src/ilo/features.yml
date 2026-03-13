@@ -1,0 +1,31 @@
+---
+  teacher-comments:
+    name: teacher-comments
+    title: Komentaryo Dagiti Mannursuro
+    description: Agsagana a mangpasayaat iti panaglilinnawag iti adalen ti Eskuelaan ti Sabbath babaen iti daytoy nga edision ti mannursuro
+    image: "v1/images/features/feature_teacher_comments.png"
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White Quotes
+    description: Pasayaatem ti panagadalmo babaen kadagiti kanayonan a napili a naadaw manipud kadagiti sinurat ni Ellen G. White
+    image: "v1/images/features/feature_egw.png"
+  inside-story:
+    name: inside-story
+    title: Estoria ti Mision
+    description: Basaen dagiti makaparegta nga estoria ti mision manipud iti intero a lubong
+    image: "v1/images/features/feature_inside_story.png"
+  audio:
+    name: audio
+    title: Audio
+    description: Dumngeg iti leksion bayat ti panagdaliasat babaen ti audio version
+    image: "v1/images/features/feature_audio.png"
+  video:
+    name: video
+    title: Video
+    description: Buyaenyo ti linawas a panaglilinnawag iti leksion tapno ad-adda a naun-uneg ti panagadalyo
+    image: "v1/images/features/feature_video.png"
+  original_layout:
+    name: original-layout
+    title: Orihinal a Layout
+    description: Pasayaatem ti panagadalmo iti adalen babaen ti orihinal a layout ti panagimprenta babaen ti adu nga alikamen ti anotasion
+    image: "v1/images/features/feature_original_layout.png"
