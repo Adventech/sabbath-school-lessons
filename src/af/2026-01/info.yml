@@ -1,7 +1,7 @@
 ---
   title: "Om Hemel en Aarde te verenig: Christus in Filippense en Kolossense"
   description: "Dink aan die moeilikste taak wat jy al ooit moes verrig het. Wat het dit so moeilik gemaak? Was dit die verwagtinge, of die tyd wat tot jou beskikking was, of beide? Was dit jou gesindheid teenoor die taak? Of dalk die mense met wie jy saamgewerk"
-  human_date: "Januarie · Februarie · Maart 2026"
+  human_date: "Januarie Â· Februarie Â· Maart 2026"
   start_date: "27/12/2025"
   end_date: "27/03/2026"
   color_primary: "#2E4161"
@@ -18,3 +18,55 @@
       value: "Lea Alexander Greve"
     - name: Redaksionele Assistent
       value: "Sharon Thomas-Crews"
+
+video:
+  - title: "1. Vervolg maar nie Verworpe nie | Om Hemel en aarde Te verenig"
+    thumbnail: "https://i.ytimg.com/vi/nKZ3oHIg99Q/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: nKZ3oHIg99Q
+  - title: "2. Redes vir Danksegging en Gebed | Om Hemel en aarde Te verenig"
+    thumbnail: "https://i.ytimg.com/vi/JoQkU5aa2-0/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: JoQkU5aa2-0
+  - title: "3. Lewe en Dood | Om Hemel en aarde Te verenig"
+    thumbnail: "https://i.ytimg.com/vi/cbLG9siemfY/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: cbLG9siemfY
+  - title: "4. Eenheid deur Nederigheid | Om Hemel en aarde Te verenig"
+    thumbnail: "https://i.ytimg.com/vi/E1ibOrniAEo/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: E1ibOrniAEo
+  - title: "5. Om te skyn soos ligte in die nag | Om Hemel en aarde Te verenig | Die Woord in Diepte"
+    thumbnail: "https://i.ytimg.com/vi/JD7tFMPB91k/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: JD7tFMPB91k
+  - title: "6. Sekerheid Net in Christus | Om Hemel en aarde Te verenig | Die Woord in Diepte"
+    thumbnail: "https://i.ytimg.com/vi/PcZZe6za-B8/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: PcZZe6za-B8
+  - title: "7. ’n Hemelse burgerskap | Om Hemel en aarde Te verenig | Die Woord in Diepte"
+    thumbnail: "https://i.ytimg.com/vi/nzqZ9PBrkLE/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: nzqZ9PBrkLE
+  - title: "8. Die Opperheerskappy van Christus | Om Hemel en aarde Te verenig | Die Woord in Diepte"
+    thumbnail: "https://i.ytimg.com/vi/v7Phnm1tIRk/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: v7Phnm1tIRk
+  - title: "9. Versoening en Hoop | Om Hemel en aarde Te verenig | Die Woord in Diepte"
+    thumbnail: "https://i.ytimg.com/vi/-ytznRSk8mk/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: -ytznRSk8mk
+  - title: "10. Volmaak in Christus | Om Hemel en aarde Te verenig | Die Woord in Diepte"
+    thumbnail: "https://i.ytimg.com/vi/EyXcCu0Pm2Y/maxresdefault.jpg"
+    src:
+      - type: youtube
+        target: EyXcCu0Pm2Y
