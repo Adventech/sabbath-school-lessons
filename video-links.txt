@@ -84,6 +84,8 @@ yt-dlp "https://youtu.be/Rrwh6Vaztlc?si=MCw3xmhRaYx7fA6m" -S vcodec:h264,res:108
 
 yt-dlp "https://youtu.be/PtbVW6T5D2g?si=wCFyNfXUzVuIqTHi" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/inv/fr-inv-2026-01-08.mp4"
 
+yt-dlp "https://youtu.be/xK367-NEzWM?si=73qkMbjsj1-1MPkh" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/inv/fr-inv-2026-01-09.mp4"
+
 yt-dlp "https://youtu.be/4cCfl_o6bL8?si=Hrx4nCvxc7_ijj9W" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/inv/fr-inv-2026-01-10.mp4"
 
 yt-dlp "https://youtu.be/BhXVSs5QI8w?si=RWHjqXTkTjIDIrI3" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/inv/fr-inv-2026-01-11.mp4"
