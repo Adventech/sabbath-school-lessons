@@ -22,3 +22,5 @@ Mezitím společnost, ve které pracoval v zahraničí, zkrachovala během pande
 _Ústředí hnutí 1000 Missionary Movement  v Silangu na Filipínách bylo postaveno s pomocí sbírky třinácté soboty v roce 1996. Stejně jako je tato sbírka stále cítit v celé Jižní asijsko-pacifické divizi (a dále) díky práci hnutí 1000 Missionary Movement, i sbírka tohoto čtvrtletí může mít dlouhodobý dopad. Děkujeme za vaše štědré dary příští sobotu._
 
 _Podívejte se na krátké youtube video s Renem na https://youtu.be/pifakaeDak8 ._
+
+![Rene Tucaldo](picture12.jpg) 
