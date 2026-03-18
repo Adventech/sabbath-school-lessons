@@ -5,11 +5,9 @@ date:  22/05/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Hebrews 11:1
 
-Key Text: Hebrews 11:1
-
-Study Focus: Hebrews 11, Gen. 15:6, Rev. 14:6.
+**Study Focus:** Hebrews 11, Gen. 15:6, Rev. 14:6.
 
 A story is told of a king who had everything he needed to be happy. Yet, he was anything but happy. So, he decided to travel around the world to search for happiness.
 
@@ -33,8 +31,6 @@ The moral of this story is that happiness is not based on what we have or anythi
 
 #### Part II: Commentary
 
-Part II: Commentary
-
 Introduction: How does the process of faith work? To answer, we will consult three fundamental texts on faith. The first text provides the only biblical definition of “faith” (Heb. 11:1), a definition that will be confirmed by the patriarchs and heroes of faith in the Old Testament (Heb. 11:4–40). The second text provides an explanation of the mechanism of faith through the testimony of Abraham, who is the father of righteousness by faith (Gen. 15:6). The third text is the testimony of “faith” by God’s people (the “saints”) at the time of the end (Rev. 14:12).
 
 The Definition of Faith (Heb. 11:1). Hebrews 11:1 is the only biblical text that defines what faith is (Heb. 11:1). For Paul, the author of Hebrews, faith is made of two components. The first component, “the substance of things hoped for” (Heb. 11:1), refers to the last event of human history, the “Advent,” or the coming of God’s kingdom at the end of time, which is also “the promise” that the “elders” of the Old Testament “did not receive” (Heb. 11:39, NKJV).
@@ -52,8 +48,6 @@ The Faith of the Saints of the End. The most immediate application of the canoni
 Obviously, this confession of faith is also found in the apocalyptic text of Revelation, interpreted as a prophetic reference to the last-day witnesses of biblical truth (Rev. 14:12). In this verse, “the saints” are identified as “those who keep the commandments of God and the faith of Jesus” (NKJV). The law and “the faith of Jesus” mean more than just the concrete action of obedience, along with abstract and spiritual faith. The syntax of the phrase suggests, in fact, that the two actions belong to the same truth, with two possible nuances: the obedience to the law is the faith of Jesus; that is, Jesus’ faith. For, in biblical thought, faith is righteousness (see Gen. 15:6). This reconciliation between “the law of Moses” with the faith in Jesus’ coming characterizes the message of the eschatological Elijah (Mal. 4:4–6) and constitutes the mission of the two witnesses who represent the testimony of the Old and New Testaments (Rev. 11:3–6).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: Below are some strategies to share with your students for building their faith and nurturing their prayer life. Ask for a volunteer to read the Scripture and the principles that follow. Then discuss the principles and questions with your class.
 

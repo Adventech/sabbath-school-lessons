@@ -5,11 +5,9 @@ date:  05/06/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** 1 John 1:9
 
-Key Text: 1 John 1:9
-
-Study Focus: Gen. 3:7, 21; Exod. 34:1–10; 1 John 1:5–10; Isa. 61:10; Hosea 6.
+**Study Focus:** Gen. 3:7, 21; Exod. 34:1–10; 1 John 1:5–10; Isa. 61:10; Hosea 6.
 
 This week’s lesson responds to last week’s examination of the nature of sin. Last week, we considered the hopelessness that our sinful condition generates. This week we will consider God’s response to the human problem of sin.
 
@@ -18,8 +16,6 @@ After humanity fell, God did not remain at a distance in heaven, indifferent to 
 Last week, we learned that, as sinners, we are in a lost condition apart from Christ and, thus, are walking in darkness (1 John 1:6). This week, we will learn how to walk out of darkness into God’s marvelous light (1 John 1:7). Without the mercy of God in Christ Jesus, our sin is unforgivable, and we are slaves to sin and death (Gen. 2:17, Rom. 5:12). In this week’s lesson, we will explore how we stand alive in Christ, amazed at God’s wonderful gift of grace (Exod. 34:1–10). Without this gift, we are like Adam and Eve at the Fall, ashamed of our nakedness (Gen. 3:7). This week, we also will see how God’s grace covers us as it covered a penitent Adam and Eve (Gen. 3:21, Rev. 7:13–17, Matt. 22:12).
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 God’s Call to Repentance (Hosea 6). The Hebrew word shub refers to the physical action to “return.” This verb also expresses the spiritual concept of “repentance.”
 
@@ -35,13 +31,10 @@ In the book of Ecclesiastes, we find the same warning. After having shown the st
 
 God’s Character (Exod. 34:1–10). God is the One who initiates the first move in reconciling us to Himself. He is the One who extends the offer of forgiveness to us. Israel experienced this reality after they worshiped the golden calf (Exod. 32:1–6). This “great sin” separated them from God. No human action or merit could bridge the chasm between heaven and earth. To symbolize this separation, Moses broke the tablets of the law, which he had just gotten from God’s hands (Exod. 32:15, 16). Moses then stood before God and pleaded with Him to forgive the people for their “great sin” (Exod. 32:31–35). To Moses, who asked God to reveal Himself in His glory (Exod. 33:18), God responded by revealing the grace of His forgiveness (Exod. 33:19). The text under consideration, Exodus 34:1–10, is the fulfillment of that promise. The focus and emphasis of God’s declaration in these verses are based on His grace, which is expressed through five words:
 
-•	“Merciful,” from the Hebrew word rekḥem, “womb,” evokes the intimacy of the bond of an expectant mother with the baby in her womb.
-
-•	“Gracious” relates to the idea of something that is given “for free” (kḥinam).
-
-•	“Longsuffering” (lit. “long of nose”) refers to the immense span of God’s patience.
-
-•	“Goodness and truth” together refer to the tension between love and justice.
+- “Merciful,” from the Hebrew word rekḥem, “womb,” evokes the intimacy of the bond of an expectant mother with the baby in her womb.
+- “Gracious” relates to the idea of something that is given “for free” (kḥinam).
+- “Longsuffering” (lit. “long of nose”) refers to the immense span of God’s patience.
+- “Goodness and truth” together refer to the tension between love and justice.
 
 On the day of judgment (Dan. 7:9–15, Dan. 8:14), God’s grace ensures His forgiveness and mercy to His people.
 
@@ -52,8 +45,6 @@ Adam and Eve’s solution to the problem of their nakedness was to cover themsel
 The story in Genesis of the change of garments made by God has typological significance. Figuratively, it points to the future robe of righteousness that God will grant to the saved ones (Rev. 3:5, Rev. 3:18, Rev. 19:8), who will attend the marriage supper of the lamb (Rev. 19:9; compare with Matt. 22:12).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: What is the relationship between love and justice? To begin an exploration of this profound question with your class, ask for a volunteer to read the short reflection on this topic below. Then discuss the following questions.
 

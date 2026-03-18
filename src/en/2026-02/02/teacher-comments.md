@@ -5,19 +5,15 @@ date:  10/04/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** John 17:3
 
-Key Text: John 17:3
-
-Study Focus: Jer. 23:23, 24; Gen. 1:1; Gen. 2:7; Isa. 7:14.
+**Study Focus:** Jer. 23:23, 24; Gen. 1:1; Gen. 2:7; Isa. 7:14.
 
 We cannot fully fathom God in all His glory or majesty. God’s ways and thoughts are beyond our understanding (Isa. 55:9, Rom. 11:33). Indeed, they are as far from our finite comprehension as the heavens are from the earth. And yet, wonder of wonders, the Bible insists that we may, and should, know God (Jer. 9:23, 24).
 
 To the Babylonian king who believed that the gods were unreachable because, as his wise men insisted, their “dwelling is not with flesh” (Dan. 2:11), Daniel responds to the contrary. Although God is in heaven, Daniel declares that God reveals secrets (Dan. 2:28). The Bible conveys, then, a paradoxical message about knowing God: God is both far and near (Jer. 23:23, 24). This dynamic tension is already present in the Creation story, which presents the simultaneity of God’s farness and nearness (compare the divine-human relations within Genesis 1 and 2). Furthermore, the Creator is also the Savior (Gen. 3:15). This basic truth, which we learn in the beginning of the Scriptures, contains an important lesson about our worship response to our powerful and great God: not only did He create us and the universe, He is also the approachable and loving God who came down in human flesh to be “with us” (Isa. 7:14, NLT).
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 “Knowing God.” Implicit in the Hebrew concept of “knowing” is a conjugal metaphor, as exemplified in the phrase “Adam knew Eve his wife; and she conceived” (Gen. 4:1). To know God, essentially, refers to the conjugal, or covenant, relationship we entertain with God. This covenant language (Gen. 17:7, 8) is also reflected in the love language of the Song of Songs (Song of Sol. 2:16). In the New Testament, Paul plays on the paradox of knowing God, which he explains to mean that we are known by Him (Gal. 4:9).
 
@@ -44,8 +40,6 @@ God’s response seems to be filled with irony: because the king of Israel refus
 For Ahaz, the future birth of Immanuel from a virgin is a sign that the throne of David would not be empty, a guarantee that the Davidic line would not be disrupted. For Ahaz, the promise of the future birth of Immanuel was intended as a sign of hope to comfort him in his present circumstances. For us today, the promise of Immanuel, who came and will return, should suffuse and illuminate our present journey from now until the end. As our Savior said: “ ‘I am with you always, even to the end of the age’ ” (Matt. 28:20, NKJV).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: What are the many ways that we may know and respond to God? To explore these topics further, ask for volunteers to read the passages below. Then discuss with your class the questions that follow.
 

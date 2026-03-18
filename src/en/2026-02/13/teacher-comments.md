@@ -5,11 +5,9 @@ date:  26/06/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** 1 John 3:2
 
-Key Text: 1 John 3:2
-
-Study Focus: Psalm 80, Rev. 21:4, Eccles. 3:11.
+**Study Focus:** Psalm 80, Rev. 21:4, Eccles. 3:11.
 
 This week, we conclude our quarter-long reflection on our relationship with God. Our study culminates with the following question: What did we achieve as we studied, pondered, discussed, and diligently sought to develop a right relationship with the Creator, our Savior? Furthermore, what knowledge did we acquire this quarter over those individuals who never knew Him?
 
@@ -18,8 +16,6 @@ To the Pharisees who asked their question about the coming of the kingdom of God
 Yet, we must acknowledge the great, albeit frustrating, paradox at the heart of our longing for God: the more our relationship with God develops, the more our longing for Him is intensified. We may experience, at times, this frustration at the delay in the fulfillment of our desire to see Him face-to-face. In this final lesson, we will embrace both our longing for a more personal knowledge of God and our longing for a deeper intimacy with Him. Specifically, we will seek to understand, as did Jacob, what it means to see God’s face. We also will pray with the Levite Asaph, through Psalm 80, out of this longing to see God face-to-face.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 To See the Face of God: The Experience of Jacob (Gen. 32:22–33:10). When Jacob wrestled with God and saw His face, he did not know His name (Gen. 32:29). But Jacob could at least name the place where God had appeared to him: “Peniel,” which means “the face of God” (Gen. 32:30). Of course, the name “Peniel” does not mean that Jacob identified the place as the literal “face of God.” Rather, for Jacob, the name “Peniel” referred to his personal experience with God.
 
@@ -57,52 +53,41 @@ Conclusion: An important connection exists between Jacob’s experience with the
 
 #### Part III: Life Application
 
-Part III: Life Application
-
 Teacher’s Tip: Discuss the following activities with your class. Encourage class members to implement one or more of these activities in their spiritual walk in the coming week. Ask class members to be prepared to share with the class on the following Sabbath how their experiences drew them closer to Jesus.
 
 Activity 1: See the face of God in your brother or sister (read Matt. 25:35–45).
 
 Train yourself to see the best in someone you struggle to get along with or like. Ask God to help you in this endeavor. As soon as you witness something negative in his or her words or behavior, counter it with the memory of something positive about this person. In this way, work to change your enemy into a friend. Here are some other things you can do in this person’s company or for him or her:
 
-•	Smile.
-
-•	Converse.
-
-•	Associate.
-
-•	Share something positive.
-
-•	Pray for or with this person.
-
-•	Bring this person a gift.
-
-•	Refrain from speaking badly about him or her. Instead, praise this person without exaggerating.
-
-•	Invite him or her to lunch. Find some opinion or taste you share in common and discuss or share it.
-
-•	If he or she has done harm to you, forgive.
+- Smile.
+- Converse.
+- Associate.
+- Share something positive.
+- Pray for or with this person.
+- Bring this person a gift.
+- Refrain from speaking badly about him or her. Instead, praise this person without exaggerating.
+- Invite him or her to lunch. Find some opinion or taste you share in common and discuss or share it.
+- If he or she has done harm to you, forgive.
 
 Activity 2: Pray to God through the words of Asaph.
 
-A.	In your morning prayer, ask God to come into your day, into your words, into your actions, and into your relationships.
+A. In your morning prayer, ask God to come into your day, into your words, into your actions, and into your relationships.
 
-B.	When you suffer, when you are angry because of an injustice, pray for God to come into your heart. Ask Him to establish His kingdom of peace, justice, and love within you.
+B. When you suffer, when you are angry because of an injustice, pray for God to come into your heart. Ask Him to establish His kingdom of peace, justice, and love within you.
 
 Activity 3: Nostalgia for Eden.
 
 Work on nurturing a “homesickness” for Eden:
 
-•	Consider transitioning to a plant-based diet (affirmation of the sacredness of life).
+- Consider transitioning to a plant-based diet (affirmation of the sacredness of life).
+- Prepare a special Sabbath experience. Provide a foretaste of the kingdom of God by doing the following:
 
-•	Prepare a special Sabbath experience. Provide a foretaste of the kingdom of God by doing the following:
+A. Clean and decorate your home with your Sabbath guests in mind.
 
-A.	Clean and decorate your home with your Sabbath guests in mind.
+B. Beautify your home and dining room table with flowers.
 
-B.	Beautify your home and dining room table with flowers.
+C. Serve a tasty and nutritious meal.
 
-C.	Serve a tasty and nutritious meal.
-
-D.	Lead out in a vibrant worship experience.
+D. Lead out in a vibrant worship experience.
 
 `Notes`

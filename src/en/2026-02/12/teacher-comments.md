@@ -5,11 +5,9 @@ date:  19/06/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Isaiah 50:4
 
-Key Text: Isaiah 50:4
-
-Study Focus: Matt. 28:16–20; 1 Pet. 3:8–15, 21, 22.
+**Study Focus:** Matt. 28:16–20; 1 Pet. 3:8–15, 21, 22.
 
 We ended last week with Job’s vision of the Redeemer, who “shall stand at the latter day upon the earth” (Job 19:25). This week, we will learn how to share this extraordinary vision with the people on this earth. For that purpose, we will focus on two important biblical passages.
 
@@ -18,8 +16,6 @@ The first passage is Matthew 28:16–20, in which Jesus charges His ­disciples�
 The second passage is 1 Peter 3:8–18, 21, 22. Here, the apostle urges us to work on the formation of our personal character. He also exhorts us to work within our communities and to learn to love one another, thus preparing ourselves spiritually to share the good news of the gospel with the world. This work aims to foster unity in the church, as well as encourages the resilience of its members in times of persecution. This work also confronts us with our responsibility to Jesus Christ, who died for us and saves us through His resurrection and His intercession in the heavenly sanctuary (Heb. 7:25).
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The Great Commission (Matt. 28:16–18). The resurrection of Jesus (Matt. 28:1–7) constitutes the immediate backdrop to the Great Commission. In this context, three events are reported. The first event is the worship of Jesus by the women (Matt. 28:9) and then the 11 disciples (Matt. 28:16, 17). The second event is when the Roman soldiers who had been guarding Christ’s tomb visit the chief priests (Matt. 28:11–15). The third event is Jesus’ presence throughout the course of the previous two incidents. These three events prepare for and justify the Great Commission. The worship of Jesus anticipates His reference to His divine authority “ ‘in heaven and on earth’ ” (Matt. 28:18, NKJV). The deceptive report to the chief priest by the guards of the tomb prepares for the shift from the exclusive covenant, with Israel as the only recipient, to the universal covenant with “all the nations” (Matt. 28:19, NKJV) of the earth. The actual presence of Jesus, with the women and the disciples, prepares His church for the fulfillment of His promise to be with them “to the end” (Matt. 28:20, NKJV).
 
@@ -48,8 +44,6 @@ The next lines elaborate on the practical application of these qualities. Concre
 Suffering Persecution. Continuing in the same line of thought, Peter considers the case of the one who suffers persecution for his or her faith at the hands of the wicked unbeliever (1 Pet. 3:13, 14). Even then, argues Peter, if you are innocent and you suffer unjustly, you should not return evil for evil for two reasons. First, because the suffering of the righteous is a blessing, God is on your side. Second, because affliction affords you a great opportunity to witness and to defend your faith (1 Pet. 3:15). Peter reasons that it is better to suffer for doing good than to suffer for doing evil (1 Pet. 3:17). The underlying ethical principle of these recommendations is that it is better to suffer as a victim than to cause suffering as an oppressor. To support his argument about the positiveness of suffering, Peter refers to Christ, the Just One, who suffered for the unjust and, through His suffering, brought salvation to the unjust (1 Pet. 3:18). As a result, Christ is exalted and now sits at the right hand of God.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: Divide the class into small groups and assign them one of the following activities. Give them time, as a group, to discuss the activities and questions, and then present their insights to the class. Encourage class members to incorporate the principles of these activities in their own spiritual walk throughout the week. (Please note that some of the following activities are better suited for personal reflection than for group participation and are marked as such.)
 

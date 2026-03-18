@@ -5,11 +5,9 @@ date:  17/04/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Luke 14:11
 
-Key Text: Luke 14:11
-
-Study Focus: Gen. 11:5, Isa. 14:12–14, Num. 12:3, Luke 18:9–14, Ps. 20:7.
+**Study Focus:** Gen. 11:5, Isa. 14:12–14, Num. 12:3, Luke 18:9–14, Ps. 20:7.
 
 Last week, we were confronted with the Lord’s diagnosis of Laodicea’s spiritual malady: “ ‘You say, “I am rich . . . and have need of nothing”—and do not know that you are wretched, miserable, poor, blind, and naked’ ” (Rev. 3:17, NKJV). John, the apocalyptic prophet, denounced the problem of spiritual pride, which is rooted in the focus on “I,” with its emphasis on the ego. The sobering reality is that apart from God, we can do nothing to overcome self. We may be thankful, therefore, that the message of the Bible is all about solving this problem of self, a problem that concerns each and every one of us.
 
@@ -22,8 +20,6 @@ This week we will analyze the sin of pride in order to understand its mechanism 
 3.	In the third step, we will study a number of examples of pride alongside contrasting models of humility: Pharaoh and Moses, Nebuchadnezzar and Daniel, and the Pharisee and the tax collector in Jesus’ parable (Luke 18:9–14). This third section will offer a comparative reflection on pride and humility based on the teaching of biblical wisdom (Prov. 11:2; Prov. 27:1, 2).
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The Pride of Lucifer: The key text concerning the pride of Lucifer is found in Isaiah 14:12–15, framed within the context of Isaiah’s oracle against Babylon (Isa. 14:3–23). It is interesting to note that the language of the oracle against Babylon/Lucifer in this text is reminiscent of the language of the apocalyptic accusation against the church of Laodicea. Both charges concern claims of what “you [Lucifer/Laodicea] have said” (Isa. 14:13, NKJV; compare with Rev. 3:17). As in the letter to the Laodicean church, the oracle of Isaiah against Lucifer emphasizes the first-person perspective (in this case, Lucifer’s), which is repeated five times: “I will ascend,” “I will exalt,” “I will sit,” “I will ascend,” and “I will be like the Most High.” As in the letter to the Laodicean church, the oracle of Isaiah marks an unexpected turning point when it predicts: “Yet you shall be brought down” (Isa. 14:15, NKJV). In both prophecies, the inspired authors describe a scenario of boasting (as indicated by the prideful “I”), which is unequivocally condemned.
 
@@ -50,8 +46,6 @@ Pharaoh versus Moses. In the beginning of the book of Exodus, both men are confr
 On the other hand, when Pharaoh hears about God, he reacts by denying His existence. Unlike Moses, Pharaoh refuses to know Him (Exod. 5:2). Pharaoh cannot acknowledge the existence of God simply because he thinks of himself as God. Consequently, Pharaoh refuses to hear about another deity. Pharaoh reverses the divine injunction to let the Israelites go so that they may keep the Sabbath (Exod. 5:6–9) and, instead, commands Israel to do more work. Moreover, the Lord knew Moses face-to-face (Deut. 34:10), whereas Pharaoh kept rejecting God and refused to humble himself before Him (Exod. 10:3). While Moses was remembered as the humblest person on earth (Num. 12:3), Pharaoh was remembered as the proudest (Exodus 7–10; compare with Neh. 9:10).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip 1: How do we die to self? Equally as important, how do we keep a humble spirit in service to our Maker? To further explore the answers to this topic, read the reflection below and discuss with your class the questions that follow.
 

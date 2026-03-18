@@ -5,11 +5,9 @@ date:  03/04/2026
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Texts: Revelation 3:14–22, John 15:9, Jeremiah 31:3
 
-Study Focus: Rev. 3:14–22.
+**Study Focus:** Rev. 3:14–22.
 
 In this lesson, we will confront the reality of our current spiritual condition as a church. This reality concerns us both corporately, as God’s people, and personally, as individuals. Our analysis of our condition will be conducted in light of the apocalyptic message to the church of the Laodiceans. This message comprises the seventh, and final, letter to the churches in Asia Minor, as found in the book of Revelation. The seven letters, contained in chapters 2 and 3, are prophecies that cover the history of the Christian church, from the period of the early church to the time of the end. God Himself addresses His church in these letters.
 
@@ -32,8 +30,6 @@ Of course, the seven churches of “Asia” do not refer literally to contempora
 The message to the Laodiceans marks, therefore, the crucial moment when the coming of the Lord is the closest: He now knocks at the door of the heart. He awaits our response to His gracious invitation to give Him entrance that He may abide with us (read also Col. 1:27).
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 Introduction: The letter to the church of Laodicea is a prophecy that predicts the spiritual condition of God’s people in the last days and urges them to respond accordingly. The Author of the message is designated by three titles, which refer to human history from the end to the beginning, following the effect-cause-effect sequence that is typically Hebrew. The first title is “the Amen” (Rev. 3:14), the word that concludes Christian prayer and expresses the eschatological hope of the fulfillment of God’s promise of salvation (2 Cor. 1:20). The title “faithful and true witness” refers to God’s presence during the continuous course of human history. “The beginning of the creation of God” refers to the Creator who began history. These titles hearken back to the description of Jesus Christ, as seen in Revelation’s introductory vision of the Son of man, who is portrayed as “the faithful witness” and “the first begotten of the dead” (Rev. 1:5).
 
@@ -62,8 +58,6 @@ The prophet Jeremiah uses the same language when He refers to God’s “everlas
 At this moment, immediately after His words of pastoral exhortation, the Lord’s discourse becomes more personal. So far, God has addressed Laodicea collectively as His people, as the aggregate church of the last days. Now, in verse 20, He suddenly turns to each believer within that church as the unique individual whom He loves personally and with whom He entertains a distinct relationship. It is significant that in the apocalyptic repetition of the number seven, the verb “I love,” in the first person, is followed by seven more verbs that express the Lord’s intense and personal love for each one of us (Rev. 3:19–21): (1) “ ‘I rebuke,’ ” (2) “ ‘I chasten,’ ” (3) “ ‘I stand at the door,’ ” (4) “ ‘[I] knock,’ ” (5) “ ‘I will come in to him,’ ” (6) “ ‘I will dine with him, and he with Me,’ ” and (7) “ ‘I will grant to sit with Me on My throne.’ ”
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: Ask for a volunteer to reread the message to the church of Laodicea in Revelation 3:14–22. Then discuss the following activities and questions with your class.
 

@@ -5,19 +5,15 @@ date:  15/05/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Psalm 62:8
 
-Key Text: Psalm 62:8
-
-Study Focus: 1 Kings 18, 1 Sam. 1:10–17, Matt. 6:5–15, Dan. 9:3–19.
+**Study Focus:** 1 Kings 18, 1 Sam. 1:10–17, Matt. 6:5–15, Dan. 9:3–19.
 
 Prayer is a universal human need. But our cries to God often seem to disappear into a void, unanswered. The book of Psalms is a powerful collection of prayers predicated upon the human hope and longing for divine answers. The prayer of Psalm 62, for instance, begins with human silence, which waits for God’s response (Ps. 62:1, 5), then continues with an appeal to all people to still trust God and pray “at all times” (Ps. 62:8). Finally, the psalm ends with the assurance that God will respond (Ps. 62:11).
 
 Last week, we studied the theology of prayer and reflected on its spiritual significance. This week, we will contemplate the actual experience of prayer, as practiced in the life of diverse biblical characters whose cries to God were heard and answered.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 Introduction. Three biblical characters have been selected to inspire us to pray. The first character is Hannah (1 Sam. 1:6–17), whose prayers begin in anguish and end in joy (1 Sam. 2:1–11). The second is Elijah, whose dramatic prayer of proclamation and silence is a powerful testament to those witnessing the contest between God and Baal on Mount Carmel (1 Kings 18–19:18). The third is Daniel, who entreats the Lord with a prayer of supplication and hope (Dan. 9:3–19).
 
@@ -54,8 +50,6 @@ O Lord, listen and act!” (Dan. 9:19, NKJV).
 Daniel’s prayer concerns the salvation of God’s people. Daniel, with single-minded intensity, hungers for a divine response: “Act! Do not delay!” This earnest prayer, to which the 70-weeks’ prophecy is the response (Dan. 9:24–27), leads to the first coming of Christ. The same earnest longing resonates in the angel’s question “ ‘How long?’ ” (Dan. 8:13). This question will be answered in the vision of the 2,300 evening-mornings, leading to the eschatological day of judgment prior to Jesus’ second coming (Dan. 8:14).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: For this applied section, the class will focus on the prayer model that Jesus proposed in Matthew 6:9–13. Ask for a volunteer to read this passage. Invite your class members to draw from the Savior’s prayer practical counsel or principles for everyday life, as outlined below. Ask students to be ready to share next Sabbath how putting these principles into practice enriched their prayer life.
 

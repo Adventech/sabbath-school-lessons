@@ -5,11 +5,9 @@ date:  01/05/2026
 
 #### Part I: Overview
 
-Part I: Overview
-
 Key Texts: Isaiah 55:11, Psalm 119:105
 
-Study Focus: Psalm 119.
+**Study Focus:** Psalm 119.
 
 In the midst of his prayer, the psalmist compares the Word of God to a lamp, which gives light to his feet (Ps. 119:105). The psalm opens with blessings conferred upon the undefiled who choose to walk in the law of the Lord and who keep His testimonies (Ps. 119:1–3). The psalm also ends with the image of a walker, albeit one who has gone astray and prays for God to find Him (Ps. 119:176).
 
@@ -20,8 +18,6 @@ As we move forward in our sojourn, we shall reflect upon principles for best app
 To get the most out of our study, any text under consideration should be read candidly, with no presuppositions or biases. Rather, we must read with an open mind; and to continue the metaphor of walking, we need to step out in faith and go wherever the Spirit may take us. A candid reading of the biblical text will help us to hear and receive the voice of God speaking to us from His Word. In this way, we will encounter Scripture as meaningful, beautiful, inspired, engaging, and moral.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 Introduction. Six principles of reading the Scriptures are suggested for our consideration in the commentary that follows. The first few (1–3) concern the reader’s attention to the text. The final three (4–6) relate to the reader’s response.
 
@@ -60,8 +56,6 @@ Sad to say, the biblical Word often has been used by people to brutalize and bat
 Thus, humility and a teachable heart are necessary when we read Scripture, lest we turn the divine words of life into words of death. Ethical awareness should also be present, as when we read the NUN stanza of Psalm 119. God’s Word of light (Ps. 119:105) should restrain and shape our words and actions toward others. The word “righteous” (tsedeq) is a technical term that carries the notion of ethical behavior. As such, Psalm 119, in its entirety, could, therefore, be heard as an appeal for moral sensitivity and responsibility, not only in life but also in our reading of the Holy Scriptures.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: The following activities are designed to build your students’ Bible study skills and increase their joy in reading the Bible. Activities 3–5 can be done outside of class. Assign one or more of these activities to class members for the coming week and ask them to come prepared to discuss the results of their research the following Sabbath.
 

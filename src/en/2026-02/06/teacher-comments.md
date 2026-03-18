@@ -5,11 +5,9 @@ date:  08/05/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Psalm 116:1, 2
 
-Key Text: Psalm 116:1, 2
-
-Study Focus: Dan. 2:20–23; Dan. 6:10, 11.
+**Study Focus:** Dan. 2:20–23; Dan. 6:10, 11.
 
 We pray because we know that God hears our voice, and because we also know that He will respond to our prayers (Ps. 116:1, 2). Our prayers are, therefore, essentially a response to God, who took the initiative to bring us back to Himself. How significant, then, that worship in the book of Psalms, which contains the prayers of ancient Israel, is described as a response to God the Creator, who is the Giver of life (Ps. 95:1–6, Ps. 100:1–3). It is through prayer that our spiritual life survives. As Ellen G. White puts it: “Prayer is the breath of the soul.”—Prayer, p. 12.
 
@@ -20,8 +18,6 @@ In chapter 2, Daniel and his three friends entreat the Lord to reveal the meanin
 In chapter 6, Daniel, who serves as the highest governor in the kingdom of Persia, supplicates and thanks God, even though doing so imperils his own life (Dan. 6:10, 11). This particular prayer is not recorded in the book of Daniel, but the chapter situates this prayer within the context of Daniel’s struggles in the royal court.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The Apocalyptic Prayer (Dan. 2:20–23). This humble invocation of praise is the first prayer of the book. The prayer is provoked by an external event. The Babylonian king had dreams that gave him insomnia. Worse, he can’t recall the substance of the dreams. No one among his magicians is capable of responding to the king’s request to reveal his dream and, therefore, to interpret it. Nebuchadnezzar realizes, at this moment, that the Chaldeans are a pack of deceptive charlatans. The king is furious and decides, then, to kill all the wise men in Babylon (Dan. 2:14), including Daniel and his three friends, who respond with prayer to the threat. Though their words of supplication are not recorded, the biblical text tells us that Daniel enlists the help of his three friends to “seek mercies from the God of heaven” (Dan. 2:18, NKJV). In answer to their prayer, God reveals the dream and its interpretation to Daniel in a night vision (Dan. 2:19). Afterward, Daniel blesses the God of heaven in a beautiful prayer of thanksgiving. These prayers of supplication and gratitude share a number of characteristic features, including:
 
@@ -50,8 +46,6 @@ D. Humility. Although the Bible records various physical positions of prayer (st
 E. Hope. Daniel’s routine of prayer three times daily coincided with the schedule of sacrifices in the temple of Jerusalem (1 Chron 23:30, 31). In Babylon, Daniel faced west; that is, in the direction of the Jerusalem temple. During his inaugural prayer for the Jerusalem temple, Solomon alluded to the crucial need for prayer during the exilic time, when the Israelites would not have access to the temple of Jerusalem (1 Kings 8:47–49). The association of the exilic prayer with the temple of Jerusalem was also a gesture of hope that expressed the exile’s longing to return to the Jerusalem on this earth, as well as to inhabit the New Jerusalem of heaven.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: Share with your class members the following personal activities to help them enrich their prayer life. Encourage members to incorporate these attitudes and habits in their prayer life in the coming week. Ask them to come ready to share next Sabbath how these activities grew their faith and drew them closer to Jesus.
 

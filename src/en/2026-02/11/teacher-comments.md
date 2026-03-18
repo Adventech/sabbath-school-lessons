@@ -5,19 +5,15 @@ date:  12/06/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Job 42:5, 6
 
-Key Text: Job 42:5, 6
-
-Study Focus: Gen. 50:20, Rom. 8:28, Job 10:9, Job 13:15, Job 19:23–27, Luke 24:13–35.
+**Study Focus:** Gen. 50:20, Rom. 8:28, Job 10:9, Job 13:15, Job 19:23–27, Luke 24:13–35.
 
 As faithful Christians, we may confidently expect God to protect us from evil and harm, and we certainly have good reason to think He will. After all, God has promised to keep us and bless us (Num. 6:24). And we strive to honor Him in all that we do, so that we do not forfeit this blessing or lay claim to it presumptuously. Yet, we may still get sick and suffer injustice and oppression in this life. At such times, we cry out to God for help.
 
 We are not unique in our supplications to God during the dark times of life. The Bible is full of men and women of God who suffered and cried out for help. The book of Psalms is suffused with the entreaties of pious people who call on God to deliver them from evil (Ps. 71:4, Ps. 97:10). The book of Job, in particular, illustrates this phenomenon. Job is a pious man; and yet, in spite of all his faithfulness, he suffers much tribulation and sorrow. Job does not understand the reason for his suffering. In anguish, he cries out to God in the face of what appears to be great injustice. The case of Job merits our attention for this very reason. Job experiences God’s grace through opposite extremes of happiness and pain. Within the bounds of these two extremes that delineate his challenging conflict, Job learns to hope.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 The Experience of Grace. The book of Job begins with an emphatic note about Job’s great virtues. According to the biblical author, Job is “blameless and upright” (Job 1:1, NKJV). Job also was considered “the greatest of all the people of the East” (Job 1:3, NKJV). Even God testifies to Job’s singularity and uniqueness, saying, “ ‘There is none like him on the earth’ ” (Job 1:8, NKJV). According to all the assessments of Job, he is a perfect man. And yet, at the end of the book, Job, responding to God, confesses that at the time when he was judged as “perfect,” his relationship with God was only at a primitive stage: “ ‘I have heard of You by the hearing of the ear’ ” (Job 42:5, NKJV). Job then adds that “now,” after his experience of suffering, “my eye sees You” (Job 42:5, NKJV). Thus, Job recognizes that there was something important that kept him from seeing God initially.
 
@@ -42,8 +38,6 @@ In this verse, Job does not refer to an existential experience happening in his 
 Echoing again Bildad’s last words (Job 18:21), Job ironically concludes his speech with this warning: “That you may know there is a judgment” (Job 19:29, NKJV). Job’s hope in his resurrection is thus connected with the day of judgment, just as in the book of Daniel (Dan. 12:1–3). Jesus brings this hope to Martha’s mind on the day of Lazarus’s resurrection (John 11:23). And Paul preaches about the blessed hope to those who denied it (1 Cor. 15:12–19). This hope is the last message of the Bible: the only solution to the problem of the world is God’s creation of “a new heaven and a new earth,” wherein “there shall be no more death, nor sorrow” (Rev. 21:1, 4, NKJV).
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: The following questions may be discussed by the class as a whole or in small groups. If you choose to divide the class into small groups, allow enough time to discuss the question, reserving enough time for a presentation of their ideas at the end of class.
 

@@ -5,11 +5,9 @@ date:  29/05/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** Matthew 5:17, 18
 
-Key Text: Matthew 5:17, 18
-
-Study Focus: Ps. 119:93, 94; Eccles. 7:29; Matt. 7:24–29; Rom. 3:20.
+**Study Focus:** Ps. 119:93, 94; Eccles. 7:29; Matt. 7:24–29; Rom. 3:20.
 
 A story is told of twin boys who learned from early childhood that all pleasure was sin. All their actions were restricted by stringent rules: do not read this book, for it is sin; do not eat that food, for it is sin; do not laugh, for it is sin; do not go to that place, for it is sin.
 
@@ -20,8 +18,6 @@ The other brother, however, suffered from the opposite problem. He developed a s
 Was the education the boys received so very wrong? After all, shouldn’t we do our best to avoid sin? What was essentially wrong with their education is that they never learned what sin really was. Nor did they understand why sin was evil; thus, they weren’t equipped to fight against it. In this lesson, we will address what sin is and how to overcome it.
 
 #### Part II: Commentary
-
-Part II: Commentary
 
 **What Is Sin, and Why Is Sin Evil?**
 
@@ -54,8 +50,6 @@ The only passage that discloses the effect of sin on the nature of Adam and Eve 
 The basic lesson we learn from the fall of humanity is simply this: because humans have sinned, they have lost their innate sense of discernment, the capacity to distinguish between good and evil. So, apart from God, we are unable to exercise that judgment successfully. For this reason, God gave us the law and the gospel. We need the law to guide us in the right direction. Likewise, we need the grace of Christ to help us walk with hope and love in that direction.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Teacher’s Tip: Ask for a volunteer to read the reflections on sin below. Permit time for discussion of the related questions that follow or for the sharing of testimonies as indicated below.
 
