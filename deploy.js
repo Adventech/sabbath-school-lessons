@@ -182,7 +182,7 @@ let firebase = require("firebase-admin"),
 
 const bibleSearchBCV = require('@Adventech/bible-tools');
 
-const { getCompilationQuarterValue, getInfoFromPath } = require('./deploy-helper');
+const { getCompilationQuarterValue, getInfoFromPath, generateInvalidations } = require('./deploy-helper');
 
 let argv = require("optimist").usage("Compile & deploy script - DON'T USE IF YOU DON'T KNOW WHAT IT DOES\n" +
     "Usage: $0 -b [string]")
@@ -250,16 +250,11 @@ try {
       }
 
       let invalidationArray = Array.from(invalidationList)
-      let invalidationJSON = {
-        "Paths": {
-          "Quantity": invalidationArray.length,
-          "Items": invalidationArray
-        },
-        "CallerReference": `deploy.js v${target_api} (${Date.now()})`
-      }
 
-      if (invalidationArray.length > 0) {
-        fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
+      const invalidationsJSONs = generateInvalidations(invalidationArray)
+
+      for (const [filename, content] of Object.entries(invalidationsJSONs)) {
+        fs.outputFileSync(filename, JSON.stringify(content))
       }
     }
   }

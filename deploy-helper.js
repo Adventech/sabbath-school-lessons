@@ -54,4 +54,41 @@ let getInfoFromPath = function (path) {
     return info;
 };
 
-module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath, getCurrentQuarterWithOffset }
+const WILDCARD_BATCH_SIZE = 15
+
+let generateInvalidations = function (paths) {
+    if (paths.length > 1000) {
+        return {
+            "invalidation.json": buildInvalidationJson(["/*"]),
+        }
+    }
+
+    const nonWildcard = paths.filter((p) => !p.includes("*"))
+    const wildcard = paths.filter((p) => p.includes("*"))
+
+    const files = {}
+
+    if (nonWildcard.length > 0) {
+        files["invalidation.json"] = buildInvalidationJson(nonWildcard)
+    }
+
+    for (let i = 0; i < wildcard.length; i += WILDCARD_BATCH_SIZE) {
+        const batch = wildcard.slice(i, i + WILDCARD_BATCH_SIZE)
+        const fileIndex = Math.floor(i / WILDCARD_BATCH_SIZE) + 1
+        files[`invalidation-${fileIndex}.json`] = buildInvalidationJson(batch)
+    }
+
+    return files
+}
+
+let buildInvalidationJson = function (items) {
+    return {
+        Paths: {
+            Quantity: items.length,
+            Items: items,
+        },
+        CallerReference: `deploy.js (${Date.now()})`,
+    }
+}
+
+module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath, getCurrentQuarterWithOffset, generateInvalidations }
