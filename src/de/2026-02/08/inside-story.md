@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 23/05/2026
+date: 22/05/2026
 ---
 
 ### Nach Solusi gehen und sich verstecken
