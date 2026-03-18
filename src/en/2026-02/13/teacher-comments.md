@@ -17,7 +17,7 @@ Yet, we must acknowledge the great, albeit frustrating, paradox at the heart of 
 
 #### Part II: Commentary
 
-To See the Face of God: The Experience of Jacob (Gen. 32:22–33:10). When Jacob wrestled with God and saw His face, he did not know His name (Gen. 32:29). But Jacob could at least name the place where God had appeared to him: “Peniel,” which means “the face of God” (Gen. 32:30). Of course, the name “Peniel” does not mean that Jacob identified the place as the literal “face of God.” Rather, for Jacob, the name “Peniel” referred to his personal experience with God.
+**To See the Face of God: The Experience of Jacob (Gen. 32:22–33:10).** When Jacob wrestled with God and saw His face, he did not know His name (Gen. 32:29). But Jacob could at least name the place where God had appeared to him: “Peniel,” which means “the face of God” (Gen. 32:30). Of course, the name “Peniel” does not mean that Jacob identified the place as the literal “face of God.” Rather, for Jacob, the name “Peniel” referred to his personal experience with God.
 
 Moreover, the use of the Hebrew expression panim ’el panim, “face to face,” does not mean that Jacob actually saw the physical face of God. This expression is equivalent to seeing “the form of the Lord” (Num. 12:8, NKJV) and, instead, describes the experience of a direct encounter with God (Deut. 5:4). Jacob associates his salvation with this encounter: “And my life has been preserved” (Gen. 32:30, MEV). The Hebrew verb natsal, “preserve,” refers to divine deliverance from enemies and troubles (1 Sam. 12:21, Prov. 19:19) but also may carry the connotation of spiritual salvation from sin and guilt (Ps. 39:9, Ps. 119:170).
 
@@ -29,33 +29,33 @@ Jacob’s encounter with God has helped him during his encounter with his brothe
 
 For Jesus, the two loves, love for God and love for one another, are related: unless we love our neighbor, we are unable to love God. To see the face of God, we need to learn to see the face of God in our brother or sister. And, on the other hand, to see the face of God in people, we need to have experienced a personal, intimate relationship with God.
 
-To See the Face of God: Asaph’s Prayer (Psalm 80). As we read this lament, let us appropriate its meditation and message to our own experience with God.
+**To See the Face of God: Asaph’s Prayer (Psalm 80).** As we read this lament, let us appropriate its meditation and message to our own experience with God.
 
-Prayer to the Silent God. Asaph, the author of Psalm 80 (see also Psalm 50 and Psalms 73–83), is one of the Levites whom David assigned as worship leader in the tabernacle.
+_**Prayer to the Silent God.**_ Asaph, the author of Psalm 80 (see also Psalm 50 and Psalms 73–83), is one of the Levites whom David assigned as worship leader in the tabernacle.
 
 Asaph’s prayer, which takes place inside the house of God, resonates with profound longing for God and even frustration or bitterness at His silence. The God to whom Asaph addresses his prayer is in the Most Holy Place, “between the cherubim” (Ps. 80:1, NKJV); and yet, He is seemingly reticent and absent.
 
-Application: As did Asaph, God’s people of the time of the end pray to Christ, who stands in the Most Holy Place, preparing His people for the kingdom of God. As did Asaph, God’s people are waiting for their Savior, who is seemingly delayed in His coming and does not appear to respond to their supplication. They experience a “time of trouble” (Dan. 12:1) during God’s silence. Yet, they keep waiting (Dan. 12:12) and praying for His coming, just as the early Christians did, as their greeting suggests: Mara’ na’ thah [“O Lord, come!” Or, the Lord cometh or will come] (1 Cor. 16:22, NKJV).
+**Application:** As did Asaph, God’s people of the time of the end pray to Christ, who stands in the Most Holy Place, preparing His people for the kingdom of God. As did Asaph, God’s people are waiting for their Savior, who is seemingly delayed in His coming and does not appear to respond to their supplication. They experience a “time of trouble” (Dan. 12:1) during God’s silence. Yet, they keep waiting (Dan. 12:12) and praying for His coming, just as the early Christians did, as their greeting suggests: Mara’ na’ thah [“O Lord, come!” Or, the Lord cometh or will come] (1 Cor. 16:22, NKJV).
 
-A Longing. Asaph’s prayer begins with a longing for God’s presence. The poet begs God to come and save His people (Ps. 80:1, 2, 7), who are weeping all the time (Ps. 80:5). Asaph’s longing also is heard in his question ‘ad matay [“How long?”] (Ps. 80:4), the same shout that is uttered from the mouth of the oppressed in many psalms (Ps. 13:2, Ps. 62:3, Ps. 74:10, Ps. 94:3, etc.). The angel in Daniel’s vision also asks this same question to express the longing for God’s eschatological judgment (Dan. 8:13).
+_**A Longing.**_ Asaph’s prayer begins with a longing for God’s presence. The poet begs God to come and save His people (Ps. 80:1, 2, 7), who are weeping all the time (Ps. 80:5). Asaph’s longing also is heard in his question ‘ad matay [“How long?”] (Ps. 80:4), the same shout that is uttered from the mouth of the oppressed in many psalms (Ps. 13:2, Ps. 62:3, Ps. 74:10, Ps. 94:3, etc.). The angel in Daniel’s vision also asks this same question to express the longing for God’s eschatological judgment (Dan. 8:13).
 
-Restore and Return. The refrain of Psalm 80 marks its rhythm three times: in the beginning (Ps. 80:3), in the middle (Ps. 80:7), and at the end (Ps. 80:19). The refrain is as follows: “Restore us . . . ; cause Your face to shine, and we shall be saved!” (Ps. 80:19, NKJV). The call to restore (shub) God’s people echoes the call to God to return (shub).
+**_Restore and Return._** The refrain of Psalm 80 marks its rhythm three times: in the beginning (Ps. 80:3), in the middle (Ps. 80:7), and at the end (Ps. 80:19). The refrain is as follows: “Restore us . . . ; cause Your face to shine, and we shall be saved!” (Ps. 80:19, NKJV). The call to restore (shub) God’s people echoes the call to God to return (shub).
 
-Application: As did Asaph, God’s people long for God and wait for God’s response of judgment and redemption. Also, as did Asaph, they promote repentance (a return to God), which is connected indissolubly to God’s return.
+**Application:** As did Asaph, God’s people long for God and wait for God’s response of judgment and redemption. Also, as did Asaph, they promote repentance (a return to God), which is connected indissolubly to God’s return.
 
-Priestly Blessing. The refrain of Psalm 80 resonates with the priestly blessing: “The Lord make His face shine upon you” (see Num. 6:24–26, NKJV). The parallel of the refrain with the priestly blessing helps us see that God’s salvation is promised in terms of grace (Num. 6:25) and peace (Num. 6:26).
+**_Priestly Blessing._** The refrain of Psalm 80 resonates with the priestly blessing: “The Lord make His face shine upon you” (see Num. 6:24–26, NKJV). The parallel of the refrain with the priestly blessing helps us see that God’s salvation is promised in terms of grace (Num. 6:25) and peace (Num. 6:26).
 
-Application: As Asaph did, we must ask God to “restore” us and shine His face upon us that we may be saved (Ps. 80:19, NKJV).
+**Application:** As Asaph did, we must ask God to “restore” us and shine His face upon us that we may be saved (Ps. 80:19, NKJV).
 
-Application: As Asaph did, God’s people should seek to be a blessing to others, bringing salvation to the world through their testimony.
+**Application:** As Asaph did, God’s people should seek to be a blessing to others, bringing salvation to the world through their testimony.
 
-Conclusion: An important connection exists between Jacob’s experience with the face of God and Asaph’s prayer in which he longs to see the face of God. Our vertical relationship with God depends on the quality of our horizontal relationships with our brothers and sisters in Christ. The religion that makes us long for heaven will not succeed if we fail in our ethical duties and in our relationships with our neighbors. At the same time, we must ever bear in mind that apart from God’s grace, we will not be able to love our neighbor, who is made in the image of God.
+**Conclusion:** An important connection exists between Jacob’s experience with the face of God and Asaph’s prayer in which he longs to see the face of God. Our vertical relationship with God depends on the quality of our horizontal relationships with our brothers and sisters in Christ. The religion that makes us long for heaven will not succeed if we fail in our ethical duties and in our relationships with our neighbors. At the same time, we must ever bear in mind that apart from God’s grace, we will not be able to love our neighbor, who is made in the image of God.
 
 #### Part III: Life Application
 
-Teacher’s Tip: Discuss the following activities with your class. Encourage class members to implement one or more of these activities in their spiritual walk in the coming week. Ask class members to be prepared to share with the class on the following Sabbath how their experiences drew them closer to Jesus.
+**Teacher’s Tip:** Discuss the following activities with your class. Encourage class members to implement one or more of these activities in their spiritual walk in the coming week. Ask class members to be prepared to share with the class on the following Sabbath how their experiences drew them closer to Jesus.
 
-Activity 1: See the face of God in your brother or sister (read Matt. 25:35–45).
+**Activity 1: See the face of God in your brother or sister (read Matt. 25:35–45).**
 
 Train yourself to see the best in someone you struggle to get along with or like. Ask God to help you in this endeavor. As soon as you witness something negative in his or her words or behavior, counter it with the memory of something positive about this person. In this way, work to change your enemy into a friend. Here are some other things you can do in this person’s company or for him or her:
 
@@ -69,13 +69,13 @@ Train yourself to see the best in someone you struggle to get along with or like
 - Invite him or her to lunch. Find some opinion or taste you share in common and discuss or share it.
 - If he or she has done harm to you, forgive.
 
-Activity 2: Pray to God through the words of Asaph.
+**Activity 2: Pray to God through the words of Asaph.**
 
 A. In your morning prayer, ask God to come into your day, into your words, into your actions, and into your relationships.
 
 B. When you suffer, when you are angry because of an injustice, pray for God to come into your heart. Ask Him to establish His kingdom of peace, justice, and love within you.
 
-Activity 3: Nostalgia for Eden.
+**Activity 3: Nostalgia for Eden.**
 
 Work on nurturing a “homesickness” for Eden:
 
