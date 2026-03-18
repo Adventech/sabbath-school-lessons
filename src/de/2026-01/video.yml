@@ -70,6 +70,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2026-01-11.mp4
           target: de/2026-01/11
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2026-01-11.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2026-01-12.mp4
+          target: de/2026-01/12
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/de/ssb/de-ssb-2026-01-12.webp
     - artist: Adventgemeinde Fürstenfeld
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/de/af/de-af-2026-01-01.mp4
