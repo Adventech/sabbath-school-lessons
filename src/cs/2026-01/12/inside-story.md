@@ -3,30 +3,22 @@ title:  Misijní příběh
 date:   20/03/2026
 ---
 
-#### „Nič nie je náhoda“
+#### „Nic není náhoda“
 
-Krátko potom, čo Rene prišiel na Filipíny, dostal ponuku pracovať ako účtovník pre Adventistickú rozvojovú a pomocnú agentúru (ADRA). Po roku a pol v ADRA pracoval osem rokov ako účtovník pre Cavite Mission Cirkvi adventistov siedmeho dňa. Prácu v cirkvi si veľmi obľúbil. Život bol jednoduchý a pohodlný.
+Krátce poté, co Rene přijel na Filipíny, dostal nabídku pracovat jako účetní v Adventistické agentuře pro rozvoj a pomoc (ADRA). Po roce a půl v organizaci ADRA pracoval osm let jako účetní Církve adventistů v misii Cavite. Reneho práce v Církvi adventistů bavila. Život byl jednoduchý a pohodlný. Jako chlapec si myslel, že stát se adventistou je cestou k bohatství. Nyní však neměl touhu být bohatý. Chtěl jen sloužit druhým až do Ježíšova druhého příchodu.
 
-Ako chlapec si myslel, že stať sa adventistom znamená cestu k bohatstvu. Teraz však netúžil byť bohatý. Chcel len slúžiť druhým až do druhého príchodu Ježiša.
+Jednoho dne Rene nečekaně obdržel pozvání, aby nahradil odcházejícího pokladníka hnutí 1000 Missionary Movement, které je součástí Jihoasijsko-pacifické divize Církve adventistú a které každoročně školí stovky misionářů ve svém ústředí v Silangu, městě v misii Cavite.
 
-Jedného dňa Rene nečakane dostal pozvanie nahradiť odchádzajúceho pokladníka Hnutia1000 misionárov, ktoré je súčasťou Južnej ázijsko-pacifickej divízie Cirkvi adventistov siedmeho dňa, ktoré každoročne školí stovky misionárov vo svojom ústredí v meste Silang na území Cavite Mission.
+Rene si říkal, jestli se mu to nezdá. Chtěl být součástí hnutí 1000 Missionary Movement už od té doby, co dal své srdce Kristu díky přátelství s jedním z misionářů z tohoto hnutí.
 
-Rene si kládol otázku, či sa mu to len sníva. Chcel byť súčasťou Hnutia1000 misionárov už od chvíle, keď odovzdal svoje srdce Kristovi prostredníctvom priateľstva s jedným z jeho misionárov.
+Tento misionář, Rodel, nyní pracoval jako ordinovaný pastor na Filipínách a byl by překvapený a potěšený, kdyby se Rene stal pokladníkem. Ale Rene si říkal: „Zvládnu práci pokladníka? Jsem jen obyčejný účetní.“
 
-Ten misionár bol Rodel, ktorý teraz pracoval ako vysvätený pastor na Filipínach. Bol by prekvapený a potešený, keby sa Rene stal pokladníkom. Rene si však kládol otázku:„Zvládnem prácu pokladníka? Som len obyčajný účtovník.“
+Té noci se Renému zdálo, že pracuje v hnutí 1000 Missionary Movement. Poté ho předseda Jihoasijsko-pacifické divize požádal, aby předložil svůj životopis k posouzení pro tuto pozici. Krátce nato divizní výbor schválil jeho kandidaturu a on byl přijat.
 
-V tú noc sa mu snívalo, že pracuje v Hnutí 1000 misionárov. Potom ho prezident Južnej ázijsko-pacifickej divízie požiadal, aby predložil svoj životopis na posúdenie pre túto prácu. Krátko nato, výbor divízie schválil jeho kandidatúru a Rene bol prijatý.
+Rene se neohlížel zpět. Protože byl věrný Bohu, viděl, jak se příbuzní, kteří kdysi pohrdali jeho vírou, připojili k Církvi adventistů. Dva měsíce poté, co se přestěhoval zpět na Filipíny, byli pokřtěni jeho rodiče. „To byl Boží dar pro mě,“ řekl. „Bylo to, jako by Bůh říkal: ‚Protože jsi mi byl věrný, mám pro tebe dar.‘“ Pokřtěny byly také jeho dvě sestry.
 
-Odvtedy sa už neobzeral späť. Keďže bol verný Bohu, videl, ako sa príbuzní, ktorí kedysi jeho vierou pohŕdali, pripojili k adventistickej cirkvi. Dva mesiace po jeho návrate na Filipíny boli jeho rodičia pokrstení.
+Mezitím společnost, ve které pracoval v zahraničí, zkrachovala během pandemie COVID-19. Kdyby přijal zvýšení platu, přišel by o všechno. Dnes, jak říká, vděčí za vše Pánu, který prohlašuje: „Neboť to, co s vámi zamýšlím, znám jen já sám, je výrok Hospodinův, jsou to myšlenky o pokoji, nikoli o zlu: chci vám dát naději do budoucnosti.“ (Jer 29:11). „Nic není náhoda,“ řekl Rene Tucaldo. „Bůh měl pro mě plán.“
 
-„To bol Boží dar pre mňa,“ povedal. „Bolo to akoby mi Boh hovoril: ‘Pretože si mi bol verný, mám pre teba dar.’“Jeho dve sestry boli pokrstené.
+_Ústředí hnutí 1000 Missionary Movement  v Silangu na Filipínách bylo postaveno s pomocí sbírky třinácté soboty v roce 1996. Stejně jako je tato sbírka stále cítit v celé Jižní asijsko-pacifické divizi (a dále) díky práci hnutí 1000 Missionary Movement, i sbírka tohoto čtvrtletí může mít dlouhodobý dopad. Děkujeme za vaše štědré dary příští sobotu._
 
-Medzitým spoločnosť, v ktorej pracoval v zahraničí, počas pandémie COVID-19 skrachovala. Keby bol prijal zvýšený plat, prišiel by o všetko.
-
-Dnes hovorí, že za všetko vďačí Pánovi, ktorý hovorí:„Veď ja poznám zámer, ktorý mám s vami – znie výrok Hospodina –, zámer pokoja, nie nešťastia; chcem vám dať budúcnosť a nádej“ (Jer 29,11).
-
-„Nič nie je náhoda,“ povedal Rene Tucaldo. „Boh mal so mnou plán.“
-
-_Ústredie Hnutia 1000 misionárov v Silangu na Filipínach bolo postavené s pomocou darov z trinástej soboty v roku 1996. Tak ako je tento dar dodnes požehnaním pre Južnú ázijsko-pacifickú divíziu i ďalšie oblasti prostredníctvom práce misijného hnutia 1000 Missionary Movement, aj dar z tohto štvrťroka môže mať dlhodobý dosah._
-
-_Ďakujeme vám za váš štedrý dar budúcu sobotu. Pozrite si krátke video s Renem na YouTube na adrese bit.ly/Rene-1000MM._
+_Podívejte se na krátké youtube video s Renem na https://youtu.be/pifakaeDak8 ._
