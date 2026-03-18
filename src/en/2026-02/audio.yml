@@ -1,0 +1,214 @@
+---
+  audio:
+    - artist: Adult Bible Study Guides
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/002 NINA INTRODUCTION to Quarter.mp3
+          target: en/2026-02/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/003x SS Lesson 28 March 2026.mp3
+          target: en/2026-02/01/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/004x SS Lesson 29 March 2026.mp3
+          target: en/2026-02/01/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/005x SS Lesson 30 March 2026.mp3
+          target: en/2026-02/01/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/006x SS Lesson 31 March 2026.mp3
+          target: en/2026-02/01/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/007x SS Lesson 1 Apreil 2026.mp3
+          target: en/2026-02/01/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/008x SS Lesson 2 April 2026.mp3
+          target: en/2026-02/01/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/009x SS Lesson 3 April 2026.mp3
+          target: en/2026-02/01/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/009xx INSIDE STORY 1 April 2026.mp3
+          target: en/2026-02/01/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/023x SS Lesson 4 April 2026.mp3
+          target: en/2026-02/02/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/024x SS Lesson 5 April 2026.mp3
+          target: en/2026-02/02/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/025x SS Lesson 6 April 2026.mp3
+          target: en/2026-02/02/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/026x SS Lesson 7 April 2026.mp3
+          target: en/2026-02/02/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/027x SS Lesson 8 April 2026.mp3
+          target: en/2026-02/02/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/028x SS Lesson 9 April 2026.mp3
+          target: en/2026-02/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/029x SS Lesson 10 April 2026.mp3
+          target: en/2026-02/02/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/029xx INSIDE STORY 2 April 2026.mp3
+          target: en/2026-02/02/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/033x SS Lesson 11 April 2026.mp3
+          target: en/2026-02/03/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/034x SS Lesson 12 April 2026.mp3
+          target: en/2026-02/03/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/035x SS Lesson 13 April 2026.mp3
+          target: en/2026-02/03/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/036x SS Lesson 14 April 2026.mp3
+          target: en/2026-02/03/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/037x SS Lesson 15 April 2026.mp3
+          target: en/2026-02/03/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/038x SS Lesson 16 April 2026.mp3
+          target: en/2026-02/03/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/039x SS Lesson 17 April 2026.mp3
+          target: en/2026-02/03/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/039xx INSIDE STORY 3 April SYBILLA.mp3
+          target: en/2026-02/03/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/043x SS Lesson 18 April 2026.mp3
+          target: en/2026-02/04/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/044x SS Lesson 19 April 2026.mp3
+          target: en/2026-02/04/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/045x SS Lesson 20 April 2026.mp3
+          target: en/2026-02/04/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/046x SS Lesson 21 April 2026.mp3
+          target: en/2026-02/04/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/047x SS Lesson 22 April 2026.mp3
+          target: en/2026-02/04/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/048x SS Lesson 23 April 2026.mp3
+          target: en/2026-02/04/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/049x SS Lesson 24 April 2026.mp3
+          target: en/2026-02/04/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/049xx INSIDE STORY 4 April 2026.mp3
+          target: en/2026-02/04/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/053x SS Lesson 25 April 2026.mp3
+          target: en/2026-02/05/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/054x SS Lesson 26 April 2026.mp3
+          target: en/2026-02/05/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/055x SS Lesson 27 April 2026.mp3
+          target: en/2026-02/05/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/056x SS Lesson 28 April 2026.mp3
+          target: en/2026-02/05/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/057x SS Lesson 29 April 2026.mp3
+          target: en/2026-02/05/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/058x SS Lesson 30 April 2026.mp3
+          target: en/2026-02/05/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/059x SS Lesson 1 May 2026.mp3
+          target: en/2026-02/05/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/059xx INSIDE STORY 5 May 2026 SYBILLA.mp3
+          target: en/2026-02/05/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/063x SS Lesson 2 May 2026.mp3
+          target: en/2026-02/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/064x SS Lesson 3 May 2026.mp3
+          target: en/2026-02/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/065x SS Lesson 4 May 2026.mp3
+          target: en/2026-02/06/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/066x SS Lesson 5 May 2026.mp3
+          target: en/2026-02/06/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/067x SS Lesson 6 May 2026.mp3
+          target: en/2026-02/06/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/068x SS Lesson 7 May 2026.mp3
+          target: en/2026-02/06/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/069x SS Lesson 8 May 2026.mp3
+          target: en/2026-02/06/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/069xx INSIDE STORY 6 May 2026 SYBILLA.mp3
+          target: en/2026-02/06/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/073x SS Lesson 9 May 2026.mp3
+          target: en/2026-02/07/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/074xx SS Lesson 10 May 2026.mp3
+          target: en/2026-02/07/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/075xx SS Lesson 11 May 2026.mp3
+          target: en/2026-02/07/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/076x SS Lesson 12 May 2026.mp3
+          target: en/2026-02/07/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/077 SS Lesson 13 May 2026.mp3
+          target: en/2026-02/07/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/078 SS Lesson 14 May 2026.mp3
+          target: en/2026-02/07/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/079 SS Lesson15 May 2026.mp3
+          target: en/2026-02/07/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/079xx INSIDE STORY 7 May 2026.mp3
+          target: en/2026-02/07/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/083x SS Lesson 16 May 2026.mp3
+          target: en/2026-02/08/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/084x SS Lesson 17 May 2026.mp3
+          target: en/2026-02/08/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/085x SS Lesson 18 May 2026.mp3
+          target: en/2026-02/08/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/086x SS Lesson 19 May 2026.mp3
+          target: en/2026-02/08/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/087x SS Lesson 20 May 2026.mp3
+          target: en/2026-02/08/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/088x SS Lesson 21 May 2026.mp3
+          target: en/2026-02/08/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/089x SS Lesson 22 May 2026.mp3
+          target: en/2026-02/08/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/089xx INSIDE STORY 8 May 2026.mp3
+          target: en/2026-02/08/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/093 SS Lesson 25 April 2026.mp3
+          target: en/2026-02/09/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/094 SS Lesson 24 May 2026.mp3
+          target: en/2026-02/09/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/095 SS Lesson 25 April 2026.mp3
+          target: en/2026-02/09/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/096 SS Lesson 26 May 2026.mp3
+          target: en/2026-02/09/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/097 SS Lesson 27 May 2026.mp3
+          target: en/2026-02/09/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/098 SS Lesson 28 May 2026.mp3
+          target: en/2026-02/09/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/099 SS Lesson 29 May 2026.mp3
+          target: en/2026-02/09/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/099xx INSIDE STORY 9 May 2026.mp3
+          target: en/2026-02/09/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/103 SS Lesson 30 May 2026.mp3
+          target: en/2026-02/10/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/104 SS Lesson 31 May 2026.mp3
+          target: en/2026-02/10/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/105x SS Lesson 1 June 2026.mp3
+          target: en/2026-02/10/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/106x SS Lesson 2 June 2026.mp3
+          target: en/2026-02/10/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/107x SS Lesson 3 June 2026.mp3
+          target: en/2026-02/10/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/108x SS Lesson 4 June 2026.mp3
+          target: en/2026-02/10/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/109x SS Lesson 5 June 2026.mp3
+          target: en/2026-02/10/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/109xx INSIDE STORY 10 June 2026.mp3
+          target: en/2026-02/10/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/113 SS Lesson 6 June 2026.mp3
+          target: en/2026-02/11/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/114 SS Lesson 7 June 2026.mp3
+          target: en/2026-02/11/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/115 SS Lesson 8 June 2026.mp3
+          target: en/2026-02/11/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/116 SS Lesson 9 June 2026.mp3
+          target: en/2026-02/11/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/117 SS Lesson 10 June 2026.mp3
+          target: en/2026-02/11/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/118 SS Lesson 11 June 2026.mp3
+          target: en/2026-02/11/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/119 SS Lesson 12 June 2026.mp3
+          target: en/2026-02/11/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/119xx INSIDE STORY 11 June 2026.mp3
+          target: en/2026-02/11/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/123x SS Lesson 13 June 2026.mp3
+          target: en/2026-02/12/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/124x SS Lesson 14 June 2026.mp3
+          target: en/2026-02/12/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/125x SS Lesson 14 June 2026.mp3
+          target: en/2026-02/12/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/126x SS Lesson 16 June 2026.mp3
+          target: en/2026-02/12/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/127x SS Lesson 17 June 2026.mp3
+          target: en/2026-02/12/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/128x SS Lesson 18 June 2026.mp3
+          target: en/2026-02/12/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/129x SS Lesson 19 June 2026.mp3
+          target: en/2026-02/12/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/129xx INSIDE STORY 12 June 2026.mp3
+          target: en/2026-02/12/inside-story
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/133 SS Lesson 20 June 2026.mp3
+          target: en/2026-02/13/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/134 SS Lesson 21 June 2026.mp3
+          target: en/2026-02/13/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/135 SS Lesson 22 June 2026.mp3
+          target: en/2026-02/13/03
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/136 SS Lesson 23 June 2026.mp3
+          target: en/2026-02/13/04
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/137 SS Lesson 24 June 2026.mp3
+          target: en/2026-02/13/05
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/138 SS Lesson 25 June 2026.mp3
+          target: en/2026-02/13/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/139 SS Lesson 26 June 2026.mp3
+          target: en/2026-02/13/07
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/139xx INSIDE STORY 13 June 2026.mp3
+          target: en/2026-02/13/inside-story

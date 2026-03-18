@@ -87,7 +87,7 @@ let buildInvalidationJson = function (items) {
             Quantity: items.length,
             Items: items,
         },
-        CallerReference: `deploy.js (${Date.now()})`,
+        CallerReference: `deploy.js (${Date.now()}-${Math.random().toString(36).slice(2, 7)})`,
     }
 }
 
