@@ -6,9 +6,7 @@ Ganz gleich, ob du als Siebenten-Tags-Adventist aufgewachsen oder neu im Glauben
 
 Dieses Thema wirkt sich auf alle anderen Fragen aus. Dein Bild von Gott ist möglicherweise getrübt oder verschwommen; wenn das der Fall ist, bete beim Bibelstudium um mehr Klarheit. Du fragst dich vielleicht, wie du dein Andachtsleben (Gebet und Bibelstudium) auffrischen kannst. Möglicherweise denkst du auch über andere Bereiche nach, die deine Beziehung mit Gott beeinflussen, wie die Rolle von Stolz und Demut, Glaube und Wissen, Sünde und Gottes Gesetz, Reue und Vergebung. Oder du fragst dich, wie du Hindernisse und Rückschläge überwinden und andere auf ihrem Weg mit Gott ermutigen kannst.
 
-Deine Beziehung mit Gott ist deine allerwichtigste Beziehung. Zögere nicht, sie aufzubauen, zu festigen und so stark wie möglich zu machen. Jetzt
-- und nicht irgendwann in der Zukunft - ist die Zeit, an dieser Beziehung
-zu arbeiten, die alles andere beeinflussen wird: deine Ehe (falls du verheiratet bist), dein Elternsein (falls du Kinder hast), deine Freundschaften, deine finanziellen Entscheidungen, deine Freizeit, deine Ambitionen ... und deine ewige Zukunft,
+Deine Beziehung mit Gott ist deine allerwichtigste Beziehung. Zögere nicht, sie aufzubauen, zu festigen und so stark wie möglich zu machen. Jetzt - und nicht irgendwann in der Zukunft - ist die Zeit, an dieser Beziehung zu arbeiten, die alles andere beeinflussen wird: deine Ehe (falls du verheiratet bist), dein Elternsein (falls du Kinder hast), deine Freundschaften, deine finanziellen Entscheidungen, deine Freizeit, deine Ambitionen ... und deine ewige Zukunft,
 
 Da dieses Thema - Gottes Wunsch, eine Beziehung mit der Menschheit zu haben - die gesamte Bibel durchdringt, gibt es viele verschiedene Blickwinkel, Berichte und Bibelstellen, die man auswählen könnte, um dieses wichtige Thema zu vermitteln. Aufgrund der Art des Bibelstudienheftes können wir nur eine begrenzte Anzahl davon betrachten.
 
