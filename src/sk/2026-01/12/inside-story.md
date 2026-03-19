@@ -30,3 +30,5 @@ Dnes hovorí, že za všetko vďačí Pánovi, ktorý hovorí:„Veď ja poznám
 _Ústredie Hnutia 1000 misionárov v Silangu na Filipínach bolo postavené s pomocou darov z trinástej soboty v roku 1996. Tak ako je tento dar dodnes požehnaním pre Južnú ázijsko-pacifickú divíziu i ďalšie oblasti prostredníctvom práce misijného hnutia 1000 Missionary Movement, aj dar z tohto štvrťroka môže mať dlhodobý dosah._
 
 _Ďakujeme vám za váš štedrý dar budúcu sobotu. Pozrite si krátke video s Renem na YouTube na adrese bit.ly/Rene-1000MM._
+
+![Rene Tucaldo](picture12.jpg) 
