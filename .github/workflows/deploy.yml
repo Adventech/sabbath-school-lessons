@@ -64,25 +64,32 @@ jobs:
           AIJ_DIST_ID: ${{ github.ref == 'refs/heads/stage' && secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID_STAGE || secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }}
         run: |
           DISTRIBUTIONS=("$SSPM_DIST_ID" "$AIJ_DIST_ID")
-
+          
           FILES=()
           [ -f invalidation.json ] && FILES+=(invalidation.json)
           for f in $(ls invalidation-*.json 2>/dev/null | sort -V); do
             FILES+=("$f")
           done
-
+          
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "No invalidation files found, skipping."
             exit 0
           fi
-
+          
           for DIST in "${DISTRIBUTIONS[@]}"; do
             echo ">>> Distribution: $DIST"
             for FILE in "${FILES[@]}"; do
               echo "  Invalidating with $FILE..."
-              aws cloudfront create-invalidation \
+              INVALIDATION_ID=$(aws cloudfront create-invalidation \
                 --distribution-id "$DIST" \
-                --invalidation-batch file://"$FILE" > /dev/null
+                --invalidation-batch file://"$FILE" \
+                --query 'Invalidation.Id' \
+                --output text)
+              echo "  Waiting for invalidation $INVALIDATION_ID to complete..."
+              aws cloudfront wait invalidation-completed \
+                --distribution-id "$DIST" \
+                --id "$INVALIDATION_ID"
+              echo "  Done."
             done
           done
   deploy_v2:
@@ -140,25 +147,32 @@ jobs:
           AIJ_DIST_ID: ${{ github.ref == 'refs/heads/stage' && secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID_STAGE || secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }}
         run: |
           DISTRIBUTIONS=("$SSPM_DIST_ID" "$AIJ_DIST_ID")
-
+          
           FILES=()
           [ -f invalidation.json ] && FILES+=(invalidation.json)
           for f in $(ls invalidation-*.json 2>/dev/null | sort -V); do
             FILES+=("$f")
           done
-
+          
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "No invalidation files found, skipping."
             exit 0
           fi
-
+          
           for DIST in "${DISTRIBUTIONS[@]}"; do
             echo ">>> Distribution: $DIST"
             for FILE in "${FILES[@]}"; do
               echo "  Invalidating with $FILE..."
-              aws cloudfront create-invalidation \
+              INVALIDATION_ID=$(aws cloudfront create-invalidation \
                 --distribution-id "$DIST" \
-                --invalidation-batch file://"$FILE" > /dev/null
+                --invalidation-batch file://"$FILE" \
+                --query 'Invalidation.Id' \
+                --output text)
+              echo "  Waiting for invalidation $INVALIDATION_ID to complete..."
+              aws cloudfront wait invalidation-completed \
+                --distribution-id "$DIST" \
+                --id "$INVALIDATION_ID"
+              echo "  Done."
             done
           done
       - name: Running porting to API v3 script
