@@ -6,6 +6,7 @@ date: 12/06/2026
 ### TEIL I: ÜERSICHT
 
 **Schlüsseltext:** Hiob 42,5-6
+
 **Studienschwerpunkt:** 1. Mose 50,20; Römer 8,28; Hiob 10,9; 13,15; 19,23-27; Lukas 24,13-35
 
 Als gläubige Christen können wir zuversichtlich darauf vertrauen, dass Gott uns vor Bösem und Schaden bewahrt, und wir haben allen Grund zu glauben, dass er dies auch tun wird. Schließlich hat Gott versprochen, uns zu behüten und zu segnen (4 Mo 6,24). Wir bemühen uns, ihn in allem zu ehren, was wir tun, damit wir diesen Segen nicht verlieren oder ihn anmaßend für uns beanspruchen. Trotzdem können wir in diesem Leben krank werden und Ungerechtigkeit und Unterdrückung erleiden. In solchen Zeiten bitten wir Gott um Hilfe.

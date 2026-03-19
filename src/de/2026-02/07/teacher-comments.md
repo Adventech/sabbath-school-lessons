@@ -6,6 +6,7 @@ date: 15/05/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Psalm 62,9
+
 **Studienschwerpunkt:** 1. Könige 18; 1. Samuel 1,10-17; Matthäus 6,5-15; Daniel 93-19
 
 Das Gebet ist ein universelles, menschliches Bedürfnis. Aber unsere Bitten an Gott scheinen oft ungehört und unbeantwortet zu verhallen. Das Buch der Psalmen ist eine kraftvolle Sammlung von Gebeten, die auf der Hoffnung und Sehnsucht der Menschen nach göttlichen Antworten beruhen. Das Gebet aus Psalm 62 beispielsweise beginnt mit menschlicher Stille, die auf Gottes Antwort wartet (Ps 62,2.6). Es fährt dann mit einem Aufruf an alle Menschen fort, weiterhin auf Gott zu vertrauen und „allezeit“ zu beten (Ps 62,9). Der Psalm endet schließlich mit der Gewissheit, dass Gott antworten wird (Ps 62,12).
@@ -46,10 +47,8 @@ Daniels Gebet ist keine bloße literarische Übung oder theologische Abhandlung,
 
 Das Gebet endet mit einer letzten Bitte: „Adonai“, „ach, Herr“, die dreimal wiederholt wird. Auf jede Wiederholung folgt ein Verb, um Gottes Aufmerksamkeit zu erregen:
 
-Ach, Herr, höre!
-
-Ach, Herr, sei gnädig!
-
+Ach, Herr, höre!\
+Ach, Herr, sei gnädig!\
 Ach, Herr, merk auf und handle! (Dan 9,19)
 
 Daniels Gebet betrifft die Erlösung des Volkes Gottes. Daniel sehnt sich mit unbeirrbarer Intensität nach einer göttlichen Antwort: „Handle! Zögere nicht!“ Dieses ernsthafte Gebet, auf das die Prophezeiung über die 70 Wochen die Antwort ist (Dan 9,24-27), führt zum ersten Kommen Christi. Die gleiche ernsthafte Sehnsucht schwingt in der Frage des Engels mit: „Wie lange?“ (Dan 8,13). Diese Frage wird in der Vision der 2300 Abende und Morgen beantwortet werden, die zum eschatologischen Tag des Gerichts vor der Wiederkunft Jesu führen (Dan 8,14).

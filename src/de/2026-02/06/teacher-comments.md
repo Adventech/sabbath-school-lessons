@@ -6,6 +6,7 @@ date: 08/05/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Psalm 116,1-2
+
 **Studienschwerpunkt:** Daniel 2,20-23; 6,11-12
 
 Wir beten, weil wir wissen, dass Gott unsere Stimme hört und auf unsere Gebete reagieren wird (Ps 116,1-2). Unsere Gebete sind demzufolge im Wesentlichen eine Antwort auf Gott, der die Initiative ergriffen hat, uns zu sich zurückzubringen. Wie bedeutsam ist es daher, dass die Anbetung im Buch der Psalmen, das die Gebete des alten Volkes Israel enthält, als Antwort an Gott, den Schöpfer und Lebensspender, beschrieben wird (Ps 95,1-6; 100,1-3)! Es ist das Gebet, das unser geistliches Leben erhält. Mit den Worten von Ellen White: „Beten ist das Atmen der Seele“ (Das Gebet, 19),
