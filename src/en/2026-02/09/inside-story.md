@@ -29,4 +29,4 @@ Tarsis couldn’t believe it. He was shaking. The next second, his sister was be
 
 Tarsis, now a 42-year-old military police officer in Recife, Brazil, has been asked why God provided 50 real and not more. He replies, “Because I didn’t help more people. If I had offered to help more people, God would have given me more.” To him, the 50 real made perfect sense: 5 real for tithe, 5 real for offering, and 40 real for his friends.“We do not become poor when we help people,” he said. “God is the One who sustains us. Be faithful.”
 
-_Watch a YouTube video of Tarsis at: bit.ly/Tarsis-IS._
+_Watch a YouTube video of Tarsis at: https://bit.ly/Tarsis-IS._
