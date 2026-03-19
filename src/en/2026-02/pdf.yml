@@ -29,3 +29,42 @@
       target: en/2026-02/12
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-13.pdf
       target: en/2026-02/13
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-01.pdf
+      target: en/2026-02/01
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-02.pdf
+      target: en/2026-02/02
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-03.pdf
+      target: en/2026-02/03
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-04.pdf
+      target: en/2026-02/04
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-05.pdf
+      target: en/2026-02/05
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-06.pdf
+      target: en/2026-02/06
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-07.pdf
+      target: en/2026-02/07
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-08.pdf
+      target: en/2026-02/08
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-09.pdf
+      target: en/2026-02/09
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-10.pdf
+      target: en/2026-02/10
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-11.pdf
+      target: en/2026-02/11
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-12.pdf
+      target: en/2026-02/12
+      title: Hope Sabbath School Outline
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-HSS-13.pdf
+      target: en/2026-02/13
+      title: Hope Sabbath School Outline
