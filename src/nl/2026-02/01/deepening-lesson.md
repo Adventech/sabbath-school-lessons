@@ -17,7 +17,6 @@ In Openbaring 2 en 3 staat de tekst van zeven brieven die de apostel Johannes na
 
 Waarschijnlijk schreef de apostel Johannes het bijbelboek Openbaring rond 95 na Christus in de tijd van de christenvervolging onder keizer Domitianus. Hij verbleef toen op het Griekse eiland Patmos (Openbaring 1:9) in de Egeïsche Zee.
 
-
 ### Ik bestudeer
 
 #### Vers 16:

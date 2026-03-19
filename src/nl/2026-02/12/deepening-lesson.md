@@ -3,7 +3,6 @@ title: Verdieping - Vertel over Hem
 date: 19/06/2026
 ---
 
-
 ## 1 Petrus 3:8-17
 
 ### Ijsbrekervraag
@@ -29,7 +28,6 @@ Hier legt de apostel Petrus eerst uit welke plichten man en vrouw tegenover elka
 
 `Wat is volgens Gods wil de betekenis van lijden?`
 
-
 ### Ik pas toe
 Deze passage laat ons eerst zien dat het belangrijk is, vooral voor mensen die in dienst van God werken, dat zij hun roeping van God goed begrijpen en aanvaarden. Dit besef geeft innerlijke steun en troost, ook in tijden van tegenslag en gevaar. Net als de eerste lezers van de brief van Petrus kunnen zelfs de trouwste dienaren van God door moeilijke omstandigheden verstrooid raken en soms hun thuisland moeten verlaten.
 
@@ -37,7 +35,6 @@ Daarom is het belangrijk dat we inzien: de waarde van een mens hangt niet af van
 
 Maar zelfs als u zou lijden omwille van de gerechtigheid, dan bent u toch gelukkig te prijzen.
 (1 Petrus 3:14)
-
 
 # Ik bid ...
 
@@ -48,4 +45,3 @@ Geef ons, door uw genade, de kracht om de wijze raad uit uw heilige Woord toe te
 Help ons om in vrede en goedheid samen te leven met iedereen die wij onderweg ontmoeten.
 Dit bidden wij in de naam van Jezus.
 Amen.
-

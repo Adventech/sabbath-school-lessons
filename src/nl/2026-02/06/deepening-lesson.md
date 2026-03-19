@@ -8,10 +8,8 @@ date: 08/05/2026
 ### IJsbrekervraag
 `Ken je een situatie waarin je het echt oneens was met een meerdere? Geef je hem of haar dan duidelijk jouw visie, weeg je eerst je woorden, of zeg je niets?`
 
-
 ### Ik verken
 Mozes was door de Heer op de Sinaï (Horeb) geroepen. Hij had in die bijzondere ontmoeting met de Heer instructies gekregen voor de bouw van de tabernakel en uit de hand van God de wet van de tien geboden ontvangen. Het gaat echter fout. Als het hen te lang duurt vervalt het volk in afgoderij, Aäron maakt een gouden stierkalf als godsbeeld (Exodus 32:1-6). De Heer is toornig (Exodus 32:10) en stuurt Mozes terug naar het volk om in te grijpen. De Heer laat Mozes weten dat Hij niet verder met hen mee zal gaan (33:1-3) maar een engel voor hen uit zal sturen.
-
 
 ### Ik bestudeer
 Na alles wat gebeurd is, de ontmoeting met de Heer op de berg en vervolgens het rampzalige gebeuren met het gouden kalf kunnen we ons voorstellen dat Mozes danig van slag is. Hoe nu verder?
@@ -29,7 +27,6 @@ Het is haast komisch dat Mozes naar God toe reageert met: ‘Vergeet toch niet d
 
 - `Wat is de reactie van Mozes als God vervolgens vraagt: ‘Moet ik dan zelf meegaan? En hoe beloont God die reactie van Mozes?’ (vers 17)`
 
-
 # Ik pas toe
 Het is erg onwaarschijnlijk dat je in eenzelfde situatie terecht zult komen als Mozes heeft ervaren. Maar wat kun je leren uit de vrijmoedigheid waarop hij met God sprak? Hoe is dat met jouw gebed? Spreek je misschien, voor je gevoel, met iemand die hoogverheven en ver weg is? Of met een Vader die dichtbij is, of zelfs met God als een vriend (zie Exodus 33:11).
 
@@ -42,8 +39,6 @@ Mozes kreeg de toezegging dat God zou doen wat hij gevraagd had. Wij hebben het 
 Exodus 33:14
 Toen zei hij: ‘Ikzelf zal meegaan om je gerust te stellen.
 
-
 # Ik bid ...
 Vader, dank U voor de mooie voorbeelden in uw Woord van mensen als Abraham, Mozes en anderen die in hun leven vertrouwen in U toonden. Help mij om in mijn omgeving aan anderen ook dat vertrouwen zichtbaar te laten zijn, zodat zij uw kracht in mijn leven herkennen.
 Amen.
-

@@ -9,7 +9,6 @@ date: 17/04/2026
 
 `Wat ligt jou meer: In het centrum van de belangstelling staan, of op de achtergrond bezig zijn?`
 
-
 # Ik verken
 In dit gedeelte vestigt Paulus de aandacht van de Filippenzen op de nederigheid en dienstbaarheid van Christus. Groeien in je relatie met God houdt ook in dat je leert nederig te zijn en je dienstbaar op te stellen, in dienst van God en medemens, en daarin Christus navolgt.
 

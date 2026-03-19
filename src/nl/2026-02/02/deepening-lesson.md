@@ -39,7 +39,6 @@ Ben je angstig, dan is het belangrijk je onder te dompelen in Gods liefde. Want 
 
 - `Hoe kun je Gods liefde voor jou leren ervaren, en hoe kun je verhinderen of bemoeilijken, dat je die liefde ervaart?`
 
-
 1 Johannes 4:18 Er is in de liefde geen vrees, maar de volmaakte liefde drijft de vrees uit.
 
 1 Johannes 4:20 maakt duidelijk dat liefde voor God en medemens een onlosmakelijke eenheid is.
@@ -60,7 +59,6 @@ Jezus zei eens: ‘Als iemand in Mij blijft en Ik in hem, zal hij veel vrucht dr
 `Is Jezus op de een of andere manier met jou verbonden? Zo ja, wat heeft dat jou tot nu toe dan gebracht? En zo niet, hoe ervaar je dan jouw leven zonder Hem?`
 
 `Wat kun je als gemeente betekenen voor mensen die een trauma hebben als gevolg van een nare gebeurtenis in het verleden, en daardoor moeite hebben God te vinden?`
-
 
 # Ik bid ...
 

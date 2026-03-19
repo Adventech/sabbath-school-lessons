@@ -3,7 +3,6 @@ title: Verdieping - Hoe bestudeer ik de Bijbel
 date: 01/05/2026
 ---
 
-
 ## Jesaja 55:1-13
 
 ### IJsbrekervraag
@@ -31,7 +30,6 @@ In **vers 3** wordt het ‘eeuwigdurend verbond’ gerelateerd aan de liefde van
 **Verzen 6 en 7** zijn een oproep tot bekering en merk daarin op dat God belooft dat Hij zich over de bekeerde zal ontfermen (zie vers 7).
 - `Welke garantie wordt er in verzen 10 en 11 gegeven? En welke betrekking heeft dat op het voorgaande in dit hoofdstuk van Jesaja?`
 
-
 # Ik pas toe
 'Voor ieder die dorst heeft', staat er in vers 1, 'koop voedsel zonder geld'. Dorst of honger is een gevoel dat je hebt of niet hebt. `Ervaar jij verlangen naar het woord dat God je wil geven? Of ervaar jij een stem in je, zoals in vers 3, die roept van 'leen mij je oor'? Wat is jouw reactie op die stem?`
 
@@ -41,10 +39,8 @@ In **vers 3** wordt het ‘eeuwigdurend verbond’ gerelateerd aan de liefde van
 
 - **Vers 12** geeft de belofte dat, wanneer je gehoor geeft aan de uitnodiging, je in vrede huiswaarts zult keren en dat bergen en heuvels je zullen begroeten. `Wat houdt dat volgens jou in denk je?`
 
-
 # JESAJA 55:1
 Hierheen! Hier is water, voor ieder die dorst heeft. Kom, ook al heb je geen geld. Koop hier je voedsel en eet. Kom, koop voedsel zonder geld, koop wijn en melk zonder betaling.
-
 
 # Ik bid ...
 Vader in de hemel, dank U voor de belofte van vreugde en vrede in uw woord.

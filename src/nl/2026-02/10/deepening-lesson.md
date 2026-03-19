@@ -27,12 +27,10 @@ Laten we daarom samen deze verzen nader bekijken.
 
 - `En aan welke gebeurtenis uit de Bijbel doen de woorden ‘Hij zal ons herleven’ en ‘Hij zal ons oprichten’ denken?`
 
-
 #### Vers 3
 - `Wat is het verschil tussen ‘wij zullen Hem kennen’ en ‘ernaar jagen om de HEER te kennen’?`
 
 - `Hoe legt het beeld van regen uit wat de terugkeer van de HEER voor zijn volk betekent?`
-
 
 #### Verzen 4–5
 - `Hoe begrijp jij het beeld van liefde als ochtenddauw?`
@@ -68,4 +66,3 @@ Deze passage bevat ook waarschuwingen tegen corrupte leiders.
 ## Ik bid ...
 Heer God, maak in mij ruimte voor echte bekering. Help mij jouw vergeving diep in mijn hart te ontvangen en leer mij die ook te geven aan wie mij iets heeft aangedaan. Dank U dat U herstel mogelijk maakt, door Jezus, door genade alleen. 
 Amen.
-

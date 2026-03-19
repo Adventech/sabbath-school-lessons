@@ -3,6 +3,7 @@
    description: "Of je nu bent opgegroeid als zevendedagsadventist of nieuw bent in het geloof; of je veel of weinig lessen uit Dialoog hebt gelezen; en tenslotte, waar je je ook bevindt op je geestelijke reis: het onderwerp van groeien in een betekenisvolle relatie met G"
    human_date: "Tweede kwartaal van 2026"
    start_date: "28/03/2026"
-   end_date: "12/03/2026"
-   color_primary: "#A14F03"
-   color_primary_dark: "#7D2E00"
+   end_date: "26/06/2025"
+   color_primary: "#485D2E"
+   color_primary_dark: "#30421B"
+   splash: true

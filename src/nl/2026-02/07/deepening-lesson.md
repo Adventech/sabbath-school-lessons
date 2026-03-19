@@ -5,14 +5,11 @@ date: 15/05/2026
 
 # 1 Koningen 19:1-19a
 
-
 # IJsbrekervraag
 `Wat gebeurde er met jou toen jij in je geloofsleven op de top van jouw Karmel stond?`
 
-
 # Ik verken
 Elia had net gestreden met de Baälpriesters. Hij dacht er alleen voor te staan: ‘Ik ben de enige profeet van de HEER die nog over is’. De rest was uitgeroeid door Izebel (1 Koningen 18:4, 22). Hij gaat in zijn eentje de Karmel op en strijdt met vierhonderdvijftig Baälpriesters. Zonder enige angst spreekt Elia het volk toe en vraagt hoelang ze op twee gedachten blijven hinken. Vervolgens richt hij zich tot de tegenstanders en daagt hen uit de door hen uitgekozen stier te laten aansteken door hun god. Dat lukt niet. Ook niet nadat Elia hen honend heeft toegesproken. Dan laat hij zijn offer tot drie keer toe met water overgieten. De HEER reageert met vuur op zijn gebed.
-
 
 # Ik bestudeer
 Wat een moed en een geloofsvertrouwen toont Elia en wat een contrast komen we daarna tegen.
@@ -40,12 +37,10 @@ Lees 1 Koningen 19:7-9a
 Hij stond op, at en dronk, en gesterkt door dat voedsel liep hij veertig dagen en veertig
 nachten, tot hij de Horeb, de berg van God, bereikte.
 
-
 Lees1 Koningen 19:13-19
 - `Welke vraag stelt de HEER opnieuw? Vergelijk dit antwoord met Elia’s eerdere antwoord. Wat valt op?`
 
 - `Welke opdracht geeft God hem? Wat moet hij met Jehu doen? Waarom is dat zo opvallend? Zie 1 Koningen 22:39-40,52-54; 2 Koningen 1:16-18; 3:1; 9:1-3 en kijk naar de titel boven 2 Koningen 10. Wie zalft Jehu uiteindelijk tot koning en wat doet Jehu? Reken uit hoeveel tijd er zit tussen Gods opdracht aan Elia en Jehu’s troonsbestijging! Dat is geen kwestie van maanden, maar van jaren.`
-
 
 # Ik pas toe
 Net als het leven van Elia hoogtepunten en dieptepunten kende, zo vergaat het ons.
@@ -60,7 +55,6 @@ Net als het leven van Elia hoogtepunten en dieptepunten kende, zo vergaat het on
 - `Waarom ligt Gods antwoord op onze nood niet altijd in groots machtsvertoon? Denk aan hoe Elia de manifestatie van God ervaart!`
 
 - `Probeer te beschrijven hoe je dat zijn in Gods tegenwoordigheid gaat invullen en wat je dan gaat doen.`
-
 
 # Ik bid …
 Mijn almachtige Vader in de hemel, ik ben U dankbaar dat er na een nederlaag altijd weer zonneschijn komt. Ik verlang naar die wereld waar we altijd boven op de berg mogen zijn en waar geen tegenslagen meer zijn, maar alleen maar rust en vrede, terwijl we ervan genieten in uw tegenwoordigheid te mogen zijn.

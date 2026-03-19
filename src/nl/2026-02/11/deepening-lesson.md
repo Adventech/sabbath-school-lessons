@@ -8,9 +8,7 @@ date: 12/06/2026
 ### IJsbrekervraag
 `Hoe reageer jij als God niet lijkt te luisteren en je toch om hulp roept?`
 
-
 `Wankelt je geloof door zijn stilte? Of blijf je volhouden omdat je zeker weet dat de Heer op het juiste moment ingrijpt?`
-
 
 ### Ik verken
 De tijdlijn brengt ons naar dezelfde dag, aan de overkant van het Meer van Galilea (Marcus 1:16), in de buurt van Kafarnaüm (1:21; 2:1) of in de omliggende gebieden.
@@ -37,13 +35,9 @@ Dan staat Hij op en handelt:
 
 `Waarom spreekt Jezus tot de zee, terwijl de wind tot bedaren komt?`
 
-
 `Wat is de relatie tussen deze twee natuurkrachten?`
 
-
 `En wat betekent dit voor ons: moeten wij God aanroepen wanneer het stormt in ons leven?`
-
-
 
 # Ik begrijp het
 
@@ -71,11 +65,9 @@ Wanneer mijn leven op zijn kop staat en ik mij afvraag of de Heer slaapt, komt d
 
 Vertrouwen betekent dat ik geloof dat Hij aanwezig is, ook als ik Hem niet direct zie handelen.
 
-
 **Ik bid ...**
 God, U bent sterker dan elke storm in mijn leven.
 Ik roep U aan, want ik weet dat U mij ziet en hoort.
 Dank U dat zelfs de wind en de golven gehoorzamen aan uw woord.
 Heer, in uw vrede vind ik rust.
 Amen.
-

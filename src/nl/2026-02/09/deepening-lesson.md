@@ -8,7 +8,6 @@ date: 29/05/2026
 ### IJsbrekervraag
 `Steun ik nog steeds op mijn eigen inspanningen om rechtvaardig te zijn voor God?`
 
-
 ### Ik verken
 De titel van deze studie is niet toevallig zo gekozen. Ze laat twee dingen zien: er is een geestelijke weg en er is een spanningsveld tussen verschillende geestelijke werkelijkheden. Samen vormen deze drie begrippen een spiegel. Ze maken duidelijk hoe de mens er echt voor staat (de zonde), hoe God daar een oplossing voor geeft (het evangelie) en welke norm Hij heeft gegeven (de wet).
 
@@ -16,11 +15,9 @@ De titel laat zien dat er spanning is, maar ook samenhang, tussen zonde, wet en 
 
 De wet toont onze fouten. De zonde legt onze zwakheid bloot. Het evangelie laat zien dat God, ondanks alles, krachtig genoeg is om te redden (zoals in Richteren 14).
 
-
 ### Ik bestudeer
 In Marcus 9:42 vinden we belangrijke lessen.
 `Wat is zonde? En hoe ernstig is het volgens Gods wet?`
-
 
 Deze tekst geeft een duidelijke waarschuwing. We kunnen anderen negatief beïnvloeden – vooral mensen die geestelijk kwetsbaar zijn. Jezus laat zien dat Hij van zijn volgelingen houdt. Tegelijkertijd verdraagt Hij het niet dat iemand het geloof van zwakkeren beschadigt.
 - `Wat betekent dit voor ons?`
@@ -33,7 +30,6 @@ Hij spreekt een ernstige waarschuwing uit: wie een gelovige laat struikelen, doe
 
 Zijn woorden vragen van ons dat we een oprecht geloof laten zien. We bouwen anderen op in plaats van hen af te breken. Dat geldt in het bijzonder voor wie invloed heeft op anderen.
 
-
 # Ik begrijp
 - Terwijl wij deze les verder bestuderen, vragen wij ons af: Hoe moedig ik het geloof van de zwaksten in mijn gemeenschap aan, hoe bescherm ik het, en hoe versterk ik het? Ook denken wij na: Wat betekent ‘zonde, het evangelie en de wet’ in mijn persoonlijke relatie met God?
 
@@ -43,7 +39,6 @@ Zijn woorden vragen van ons dat we een oprecht geloof laten zien. We bouwen ande
 
 - Romeinen 3:28 laat zien dat God mensen rechtvaardig verklaart door geloof, niet door het naleven van de wet. Dit vers maakt duidelijk dat niemand verlossing kan verdienen door eigen inspanning of religieuze regels. Alleen geloof in Jezus Christus staat centraal in de relatie met God. Dat geloof is de enige weg naar rechtvaardiging.
 
-
 # Ik geloof
 
 **Ik kan duidelijk zeggen:**
@@ -51,8 +46,6 @@ Niemand wordt rechtvaardig voor God door eigen daden of gehoorzaamheid aan relig
 
 `Hoe beïnvloedt dit besef mijn manier van denken en mijn relatie met God?`
 
-
 # Ik bid ...
 Heer, dank U dat U mij niet rechtvaardig verklaart door mijn daden, maar door mijn geloof in Jezus Christus. Geef dat mijn vertrouwen in uw genade elke dag sterker wordt.
 Amen.
-

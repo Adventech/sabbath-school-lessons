@@ -9,7 +9,6 @@ date: 24/04/2026
 
 `Wat zou jij doen als je de kans kreeg de dienst van sabbatmorgen zelf te organiseren? Welk doel zou je daarin willen nastreven? Motiveer je antwoord.`
 
-
 ### Ik verken
 
 Tijdens zijn tweede zendingsreis ontmoette Paulus Timoteüs, over wie de gelovigen een positief getuigenis gaven. Paulus nam hem mee op zijn reizen (Zie Handelingen 16:1-3). Timoteüs zal tijdens die reizen, met Paulus als leermeester, veel ervaring hebben opgedaan in het uitdragen van het evangelie. Als Paulus later in Rome gevangen zit ontvangt Timoteüs van zijn leermeester brieven met bemoedigingen en de nodige aanwijzingen voor zijn taak. Het blijkt uit de tweede brief aan Timoteüs dat Paulus zich ernstig zorgen maakt over de morele ontaarding (zie 2 Timoteüs 3:1-7). De aanbevelingen van Paulus zijn grotendeels daarop gericht.
@@ -26,7 +25,6 @@ Merk op hoe Paulus nogmaals de aandacht richt op de Bijbel (het Oude Testament) 
 Je zou tot op hier de indruk kunnen krijgen dat Paulus zich voornamelijk zorgen maakt om het behoud van het geloof van Timoteüs zelf. Maar dan richt Paulus de aandacht van Timoteüs op het belang van zijn taak in de gemeente.
 `Welke taken noemt Paulus in vers 16 expliciet?`
 
-
 Paulus wijst hiermee Timoteüs op zijn verantwoordelijkheid een goede dienaar van God te zijn in de zorg voor de gemeente, 'goed toegerust voor elk doel'. (vers 17). Daarbij staat het Woord van God, de Bijbel, centraal.
 
 # Ik pas toe
@@ -41,8 +39,6 @@ In 2 Timoteüs 3:14 zegt Paulus: 'blijf bij alles wat je geleerd hebt'. Als je d
 
 - Paulus hield Timoteüs voor dat het inzicht in de Bijbel hem een doel geeft met het oog op de groei en gezondheid van de gemeente en daarbuiten. Bespreek met elkaar hoe je dat ziet met betrekking tot jezelf. `Wat zou je daarin voor jezelf tot doel kunnen stellen met betrekking tot jouw rol in de gemeente, en daarbuiten?`
 
-
 # Ik bid ...
 Trouwe Vader, dank U voor uw Woord dat ons belangrijke richtlijnen geeft voor ons leven. Help ons om die principes ook ten dienste te stellen van onze medemens. 
 Amen!
-
