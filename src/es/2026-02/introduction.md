@@ -1,0 +1,21 @@
+### Creciendo en nuestra relación con Dios
+
+Ya sea que hayas crecido en un hogar adventista o seas nuevo en la fe; que hayas leído muchas o pocas Guías de Estudio de la Biblia, e independientemente de tu desarrollo espiritual actual, el tema de cómo crecer en una relación significativa con Dios es crucial e incide en todo lo demás. Es posible que tu imagen de Dios se haya empañado o distorsionado. Si es así, ora pidiendo a Dios mayor claridad mientras estudias. Quizá te estés preguntando cómo revitalizar tu vida devocional mediante la oración y el estudio de la Biblia, o estés reflexionando acerca de otras áreas que inciden en tu relación con Dios, como el orgullo y la humildad, la fe y el conocimiento, el pecado y la Ley de Dios, el arrepentimiento y el perdón, cómo afrontar desafíos y superar reveses, y cómo animar a otros en su experiencia con Dios.
+
+Tu relación con él es lo más importante. No te demores en construirla, fortalecerla y hacerla tan sólida como sea posible. Este es el momento de trabajar en esta relación, que tendrá un impacto en todo lo demás: tu matrimonio (si eres una persona casada), tu paternidad (si tienes hijos), tus amistades, tus decisiones financieras, el uso de tu tiempo libre, tus aspiraciones y, por supuesto, tu futuro eterno.
+
+Dado que el deseo de Dios de relacionarse con la humanidad está presente en toda la Escritura, hay muchos ángulos, historias y pasajes bíblicos que podrían haberse elegido para analizar este importante tema. No obstante, la naturaleza de la Guía de Estudio de la Biblia solo hace posible elegir un número limitado de ellos.
+
+Sea cual fuere tu relación actual con Dios, estas lecciones están escritas pensando en ti y tienen el propósito de despertar tu amor por Jesús y tu compromiso con él mientras lo buscas nuevamente este trimestre.
+
+Puesto que el tema que analizaremos son las relaciones, esta guía de estudio es un poco diferente de las anteriores. Las lecciones están escritas en un estilo más personal, pues se refieren a un Dios personal que quiere relacionarse personalmente contigo.
+
+Elena G. de White dice que «una vida consecuente en Cristo es un gran milagro» (El Deseado de todas las gentes, p. 380). La Biblia utiliza la metáfora de una carrera para describir el camino de la vida recorrido en compañía de Dios. Nuestra recompensa es una corona imperecedera (1 Cor. 9: 24, 25) y la vida eterna junto a nuestro Dios. Nuestra carrera espiritual es un maratón, no una competición atlética corta enfocada en la velocidad. Puede haber momentos en los que dejemos de correr o incluso caigamos de cara al suelo. Cuando esto sucede, nos levantamos y seguimos adelante. Debemos mantener el rumbo a pesar de las pruebas y las dificultades que inevitablemente sobrevienen (Heb. 12: 4-11). No corremos esta carrera solos, sino que otros corredores que aman a Jesús y su Palabra corren con nosotros. Lo más importante es que Jesús prometió darnos un Entrenador personal: «Y yo rogaré al Padre, para que les dé otro Consolador que esté con ustedes siempre, al Espíritu de verdad, a quien el mundo no puede recibir, porque no lo ve ni lo conoce. Pero ustedes lo conocen, porque está con ustedes y estará en ustedes» (Juan 14: 16, 17).
+
+No corremos solos la carrera de la vida: el Consolador no solo está con nosotros, sino también habita en nosotros para fortalecernos y sostenernos mientras corremos y fijamos nuestra mirada en «Jesús, autor y perfeccionador de la fe» (Heb. 12: 2).
+
+Mientras escribo, oro para que el Espíritu Santo obre en nosotros, individualmente y como iglesia mundial, a fin de que nos acerquemos a Dios como nunca antes, pues nada es más importante que tener una sólida relación con él.
+
+Estudiemos juntos este gran tema para aprender acerca de Dios, amarlo y permanecer en él.
+
+_Nina Atcheson es la directora y editora principal del currículo de Escuela Sabática Vivos en Jesús, de la Asociación General. Vive para inspirar y equipar a otros a fin de que conozcan a Dios profunda y personalmente a través de su Palabra inspirada. Nina y su esposo, Matt, tienen tres hijos adolescentes._
