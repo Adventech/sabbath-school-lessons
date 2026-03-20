@@ -31,8 +31,8 @@ In the book of Ecclesiastes, we find the same warning. After having shown the st
 
 **God’s Character (Exod. 34:1–10).** God is the One who initiates the first move in reconciling us to Himself. He is the One who extends the offer of forgiveness to us. Israel experienced this reality after they worshiped the golden calf (Exod. 32:1–6). This “great sin” separated them from God. No human action or merit could bridge the chasm between heaven and earth. To symbolize this separation, Moses broke the tablets of the law, which he had just gotten from God’s hands (Exod. 32:15, 16). Moses then stood before God and pleaded with Him to forgive the people for their “great sin” (Exod. 32:31–35). To Moses, who asked God to reveal Himself in His glory (Exod. 33:18), God responded by revealing the grace of His forgiveness (Exod. 33:19). The text under consideration, Exodus 34:1–10, is the fulfillment of that promise. The focus and emphasis of God’s declaration in these verses are based on His grace, which is expressed through five words:
 
-- “Merciful,” from the Hebrew word rekḥem, “womb,” evokes the intimacy of the bond of an expectant mother with the baby in her womb.
-- “Gracious” relates to the idea of something that is given “for free” (kḥinam).
+- “Merciful,” from the Hebrew word _rekḥem_, “womb,” evokes the intimacy of the bond of an expectant mother with the baby in her womb.
+- “Gracious” relates to the idea of something that is given “for free” (_kḥinam_).
 - “Longsuffering” (lit. “long of nose”) refers to the immense span of God’s patience.
 - “Goodness and truth” together refer to the tension between love and justice.
 

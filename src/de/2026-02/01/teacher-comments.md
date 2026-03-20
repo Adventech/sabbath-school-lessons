@@ -6,6 +6,7 @@ date: 03/04/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Offenbarung 3,14-22; Johannes 15,9; Jeremia 31,3
+
 **Studienschwerpunkt:** Offenbarung 3,14-22
 
 In dieser Lektion werden wir uns mit der Wirklichkeit unseres gegenwärtigen geistlichen Zustands als Gemeinde auseinandersetzen. Diese Realität betrifft uns sowohl als Gemeinschaft, als Gottes Volk, als auch persönlich, als Individuen. Die Analyse wird im Licht der prophetischen Botschaft an die Gemeinde in Laodizea durchgeführt. Diese Botschaft steht im siebten und letzten der Briefe an die Gemeinden in Kleinasien, wie sie in der Offenbarung zu finden sind. Die sieben Sendschreiben in den Kapiteln 2 und 3 sind Prophezeiungen, die die Geschichte der christlichen Kirche von der Zeit der Urkirche bis zum Ende der Welt umfassen. Gott selbst spricht in diesen Briefen zu seiner Gemeinde.
@@ -89,7 +90,7 @@ In Offenbarung 3,18 richtet Christus einen Appell an uns, der gegen menschliche 
 
 Bitte die Teilnehmer des Bibelgespräches, in diesem Quartal ein Tagebuch zu führen, in dem sie festhalten, wie sie Gottes Liebe in ihrem Leben erfahren haben. Bitte sie, über folgende Fragen nachzudenken und die Antworten zu notieren:
 
-1.Wann wurdest du von Gott zurechtgewiesen?
+1. Wann wurdest du von Gott zurechtgewiesen?
 2. Wann hast du am Fuß des Kreuzes geweint?
 3. Wann hast du gehört, wie Gott an die Tür deines Herzens geklopft hat?
 4. Wann hast du auf seinen Aufruf mit Freude geantwortet?

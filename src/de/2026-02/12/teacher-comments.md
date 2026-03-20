@@ -6,6 +6,7 @@ date: 19/06/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Jesaja 50,4
+
 **Studienschwerpunkt:** Matthäus 28,16-20; 1. Petrus 3,8-15.21-22;
 
 Wir haben letzte Woche mit Hiobs Vision vom Erlöser abgeschlossen, der sich zuletzt „über den Staub erheben“ wird (Hiob 19,25 EB). Diese Woche werden wir erörtern, wie wir diese außergewöhnliche Vision mit den Menschen auf dieser Erde teilen können. Zu diesem Zweck werden wir uns auf zwei wichtige Bibelabschnitte konzentrieren.
@@ -88,6 +89,7 @@ Teile die Gruppe in Kleingruppen auf und weise ihnen eine der folgenden Aufgaben
 2. Nimm dir vor, den Herrn um Hilfe dabei zu bitten, mit deinen Worten und in jeder Form der Kommunikation mit anderen besser umzugehen. Bete: „Herr, bewahre meine Zunge. Inspiriere mein Denken. Mögen die Worte, die aus meinem Herzen und meinem Sinn kommen, dich mit der Hilfe deines Geistes verherrlichen. Amen.“
 
 **Aktivität 6: Lies 1. Petrus 3,15 und beantworte folgende Fragen.**
+
 1. Warum glaubst du an Gott?
 2. Warum bist du Siebenten-Tags-Adventist?
 3. Warum glaubst du nicht an die Unsterblichkeit der Seele?
