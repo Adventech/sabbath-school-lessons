@@ -6,6 +6,7 @@ date: 26/06/2026
 ### TEIL I: ÜERSICHT
 
 **Schlüsseltext:** 1. Johannes 3,2
+
 **Studienschwerpunkt:** Psalm 80; Offenbarung 21,4; Prediger 3,11
 
 Diese Woche schließen wir unsere Vierteljahresbetrachtung über unsere Beziehung zu Gott ab. Unser Studium mündet in die folgende Frage: Was haben wir erreicht, als wir studiert, nachgedacht, diskutiert und aufrichtig versucht haben, eine richtige BeZiehung zum Schöpfer, unserem Erlöser, aufzubauen? Darüber hinaus: Welches Wissen haben wir in diesem Quartal über diejenigen erworben, die ihn nie gekannt haben?

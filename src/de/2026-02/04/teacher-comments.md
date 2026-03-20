@@ -6,6 +6,7 @@ date: 24/04/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Hebräer 4,12
+
 **Studienschwerpunkt:** 2. Timotheus 3,15-17; Johannes 17,17; Epheser 1,13; Psalm 119,11; 1. Korinther 2,14
 
 Die Hauptaufgabe des Wortes Gottes besteht darin, uns geistlich zu nähren, um uns am Leben zu erhalten. Die Israeliten lernten diese wichtige geistliche Lektion, als sie in der Wüste körperlichen Hunger verspürten. Die Deutung des Manna-Wunders durch Mose spiegelt diesen Gedanken wider: „... auf dass er dir kundtäte, dass der Mensch nicht lebt vom Brot allein, sondern von allem, was aus dem Mund des HERRN geht“ (5 Mo 8,3). Jesus war ausgehungert in der Wüste, als er diesen Grundsatz gegenüber dem Teufel äußerte (Mt 4,4). Derselbe Gedanke kommt auch im Brief von Petrus zum Ausdruck, in dem er das Wort Gottes mit der Milch vergleicht, die hungrige Neugeborene nährt und stärkt: „... auf dass ihr durch sie wachset“ (1 Ptr 2,2; vgl. Hbr 5,13). Diese biblischen Beispiele machen uns eine wichtige Voraussetzung bewusst, die wir erfüllen müssen, um die geistliche Nahrung aus dem Wort Gottes aufnehmen zu können. Wir müssen in dem Bewusstsein unserer Not zu dem Wort kommen. Wir müssen hungrig und durstig kommen, sonst werden wir die lebenswichtige Notwendigkeit geistlicher Nahrung nicht zu schätzen wissen. Wir werden wahrscheinlich auch keine Freude daran haben oder davon profitieren

@@ -6,6 +6,7 @@ date: 05/06/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** 1. Johannes 1,9
+
 **Studienschwerpunkt:** 1. Mose 3,7.21; 2. Mose 34,1-10; 1. Johannes 1,5-10; Jesaja 61,10; Hosea 6
 
 Die Lektion dieser Woche knüpft an die Betrachtung über die Natur der Sünde aus der vergangenen Woche an. Dort haben wir uns mit der Hofinungslosigkeit befasst, die unser sündiger Zustand hervorruft. Diese Woche werden wir uns mit Gottes Antwort auf das menschliche Problem der Sünde beschäftigen.

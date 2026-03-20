@@ -6,6 +6,7 @@ date: 29/05/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Matthäus 5,17-18
+
 **Studienschwerpunkt:** Psalm 119,93-94; Prediger 7,29; Matthäus 7,24-29
 
 Es gibt eine Geschichte über Zwillingsjungen, denen von frühester Kindheit an beigebracht wurde, dass jedes Vergnügen eine Sünde sei. Alle ihre Handlungen unterlagen strengen Regeln: Lies dieses Buch nicht, denn es ist Sünde; iss dieses Essen nicht, denn es ist Sünde; lache nicht, denn es ist Sünde; gehe nicht an diesen Ort, denn es ist Sünde.

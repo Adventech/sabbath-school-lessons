@@ -6,6 +6,7 @@ date: 10/04/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Johannes 17,3
+
 **Studienschwerpunkt:** Jeremia 23,23-24; 1. Mose 1,1; 2,7; Jesaja 7,14
 
 Wir können Gott in all seiner Herrlichkeit und Majestät nicht ergründen. Gottes Wege und Gedanken sind für uns unbegreiflich (Jes 55,9; Röm 11,33). Sie sind wirklich so weit von unserem begrenzten Fassungsvermögen entfernt wie der Himmel von der Erde. Und dennoch, welch Wunder, besteht die Bibel darauf, dass wir Gott kennen können und sollen (Jer 9,22-23).
