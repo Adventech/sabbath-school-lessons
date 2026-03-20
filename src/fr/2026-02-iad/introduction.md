@@ -1,0 +1,23 @@
+### Grandir dans sa relation avec Dieu
+
+Que vous ayez grandi dans l’Église adventiste ou que vous soyez encore jeune dans la foi, que vous ayez lu un grand ou un petit nombre de Guides d’étude de la Bible de l’École du sabbat, et finalement où que vous en soyez spirituellement aujourd’hui, la relation avec Dieu est un thème crucial.
+
+Ce sujet affecte tous les autres. L’image que vous avez de Dieu est peut-être ternie ou floue. Si c’est le cas, priez pour avoir l’esprit plus clair quand vous étudiez. Vous vous demandez peut-être comment renouveler un peu votre vie spirituelle (prière et étude de la Bible), ou vous vous posez peut-être des questions sur les domaines qui affectent votre relation avec Dieu: l’orgueil et l’humilité, la foi et la connaissance, le péché et la loi de Dieu, la repentance et le pardon, comment vaincre les places fortes et les contretemps, et comment encourager les autres dans leur marche avec Dieu.
+
+Votre relation avec Dieu est la relation la plus importante de toutes. N’attendez pas pour la construire, la fortifier, la rendre aussi forte que possible. C’est aujourd’hui, et pas «un jour,» qu’il est temps de travailler à cette relation qui affectera tout le reste: votre mariage (si vous êtes concerné), votre parentalité (si vous êtes concerné), vos amitiés, vos décisions en matière d’argent, vos loisirs, vos aspirations… et bien entendu, votre avenir éternel.
+
+Ce thème – le désir de Dieu d’entrer en relation avec l’humanité – traverse toute la Bible. On pourrait donc l’aborder sous une multitude d’angles, en s’appuyant sur bien des récits et des passages bibliques. Toutefois, en raison du format du Guide d’étude de la Bible, nous devons nous limiter à un nombre restreint d’entre eux.
+
+Peu importe où vous en êtes dans votre relation avec Dieu aujourd’hui. C’est à vous que nous avons pensé en rédigeant ces leçons. En définitive, nous souhaitons que ces treize courtes leçons ranimeront votre amour et votre engagement envers Jésus-Christ tandis que vous chercherez de nouveau sa présence ce trimestre.
+
+Puisque la nature de ce thème concerne les relations, ce Guide D’étude de la Bible se lit un peu différemment des précédents. Les leçons sont écrites dans un style plus personnel, car elles parlent d’un Dieu personnel qui veut vous connaître personnellement.
+
+Ellen White dit qu’ «une vie conséquente, en Christ, est un grand miracle» — Ellen G. White, _Jésus-Christ_, Doral, Floride, éditions IADPA, 2018, chap. 44, p. 364. La Bible emploie la métaphore de la course pour décrire le voyage de la vie avec Dieu. Notre récompense? Une couronne impérissable (1 Co 9.24, 25) et la vie éternelle avec notre Dieu. Notre course spirituelle est un marathon, pas un sprint. Il y aura des moments où nous arrêterons de courir, et même où nous mordrons la poussière. C’est inévitable, et quand cela arrivera, il faudra se relever et continuer. Nous devons rester dans la course, malgré les épreuves qui sont inévitables (He 12.4-11). Et nous ne courons pas seuls. D’autres coureurs qui aiment Jésus et sa Parole courent avec nous. Et surtout, Jésus a promis de nous donner une aide: «Je demanderai au Père de vous donner quelqu’un d’autre pour vous venir en aide, afin qu’il soit toujours avec vous: c’est l’Esprit de vérité. Le monde ne peut pas le recevoir, parce qu’il ne peut ni le voir ni le connaître. Mais vous, vous le connaissez, parce qu’il demeure avec vous et qu’il sera toujours en vous» (Jn 14.16, 17, BFC).
+
+D’autres coureurs participent avec nous à cette course de la vie, mais nous avons surtout le Consolateur qui, en plus d’être avec nous, demeure aussi en nous, afin de nous fortifier et de nous soutenir, tandis que nous courons et que nous gardons les yeux fixés sur «Jésus, qui est le pionnier de la foi et qui la porte à son accomplissement» (He 12.2).
+
+Pendant que j’écris, je prie pour que le Saint-Esprit demeure en nous, individuellement et collectivement, en tant qu’Église mondiale, et nous rapproche de Dieu comme jamais auparavant. Car, certainement, il n’y a rien de plus important que d’avoir une relation forte avec Dieu.
+
+Alors étudions ensemble, pour apprendre, aimer et demeurer en lui.
+
+_Nina Atcheson est responsable et rédactrice en chef du programme de l’École du sabbat «Alive in Jesus» [Vivant en Jésus] à la Conférence générale. Son objectif dans la vie est d’inspirer et de préparer d’autres personnes à avoir une connaissance intime et personnelle de Dieu par le biais de sa Parole inspirée. Elle est mariée à Matt, et ils ont trois enfants adolescents._
