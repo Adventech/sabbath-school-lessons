@@ -7,7 +7,7 @@ date: 10/04/2026
 
 ### IJsbrekervraag
 
-`Hoe kun je erachter komen wie God is, als je tot de overtuiging gekomen bent dat Hij bestaat?`
+Hoe kun je erachter komen wie God is, als je tot de overtuiging gekomen bent dat Hij bestaat?
 
 ## Ik verken
 
@@ -27,40 +27,32 @@ Johannes roept in dit gedeelte kinderen van God, dat wil zeggen mensen die op Go
 
 In 1 Johannes 4:6-7 gaat het over het al of niet ‘kennen van God’.
 
-- `Welke andere omschrijving van dit ‘kennen van God’ geeft Johannes in 1 Johannes 2:3-5, en wat is onlosmakelijk hiermee verbonden?`
-
-- `Waarmee associeert Johannes het ‘kennen van God’ in Johannes 17:3?`
-
-- `Wat betekent de uitdrukking ‘uit God geboren’? Vgl. Johannes 1:12, 13.`
+- Welke andere omschrijving van dit ‘kennen van God’ geeft Johannes in 1 Johannes 2:3-5, en wat is onlosmakelijk hiermee verbonden?
+- Waarmee associeert Johannes het ‘kennen van God’ in Johannes 17:3?
+- Wat betekent de uitdrukking ‘uit God geboren’? Vgl. Johannes 1:12, 13.
 
 Het leren kennen van God leidt ertoe dat je ook in aanraking komt met Gods liefde, en vandaaruit leert op jouw beurt anderen onvoorwaardelijk lief te hebben. Wanneer dit een feit geworden is, is Gods liefde bij jou werkelijkheid geworden (zie 1 Johannes 4:12, 17, 18).
 
 Ben je angstig, dan is het belangrijk je onder te dompelen in Gods liefde. Want ‘de volmaakte liefde drijft de vrees uit’ (1 Johannes 4:18).
 
-- `Hoe kun je Gods liefde voor jou leren ervaren, en hoe kun je verhinderen of bemoeilijken, dat je die liefde ervaart?`
+- Hoe kun je Gods liefde voor jou leren ervaren, en hoe kun je verhinderen of bemoeilijken, dat je die liefde ervaart?
 
 1 Johannes 4:18 Er is in de liefde geen vrees, maar de volmaakte liefde drijft de vrees uit.
 
-1 Johannes 4:20 maakt duidelijk dat liefde voor God en medemens een onlosmakelijke eenheid is.
-`Waarom is dat zo?`
+1 Johannes 4:20 maakt duidelijk dat liefde voor God en medemens een onlosmakelijke eenheid is. Waarom is dat zo?
 
 # Ik pas toe
 
-Als je niet bent opgegroeid met de Bijbel, kan het zijn dat je niet in God gelooft.
-Maar als je wel vertrouwd bent met wat er in de Bijbel staat, kun je er nog altijd een verkeerd godsbeeld op nahouden.
-`Zou je God willen leren kennen? Zo ja, waarom, en zo niet, waarom niet?`
+Als je niet bent opgegroeid met de Bijbel, kan het zijn dat je niet in God gelooft. Maar als je wel vertrouwd bent met wat er in de Bijbel staat, kun je er nog altijd een verkeerd godsbeeld op nahouden. Zou je God willen leren kennen? Zo ja, waarom, en zo niet, waarom niet?
 
-God kennen is meer dan weten hoe Hij heet.
-God beter leren kennen is meer dan ontdekken welke namen Hij in de Bijbel allemaal heeft.
-`Wie is God voor jou, en hoe is dat van invloed geweest op jouw omgang met mensen om je heen?`
+God kennen is meer dan weten hoe Hij heet. God beter leren kennen is meer dan ontdekken welke namen Hij in de Bijbel allemaal heeft. Wie is God voor jou, en hoe is dat van invloed geweest op jouw omgang met mensen om je heen?
 
 Jezus zei eens: ‘Als iemand in Mij blijft en Ik in hem, zal hij veel vrucht dragen’ (Johannes 15:5).
 
-`Is Jezus op de een of andere manier met jou verbonden? Zo ja, wat heeft dat jou tot nu toe dan gebracht? En zo niet, hoe ervaar je dan jouw leven zonder Hem?`
+Is Jezus op de een of andere manier met jou verbonden? Zo ja, wat heeft dat jou tot nu toe dan gebracht? En zo niet, hoe ervaar je dan jouw leven zonder Hem?
 
-`Wat kun je als gemeente betekenen voor mensen die een trauma hebben als gevolg van een nare gebeurtenis in het verleden, en daardoor moeite hebben God te vinden?`
+Wat kun je als gemeente betekenen voor mensen die een trauma hebben als gevolg van een nare gebeurtenis in het verleden, en daardoor moeite hebben God te vinden?
 
 # Ik bid ...
 
-Heer Jezus, wat fijn dat U naar de aarde gekomen bent en dat U de liefde van uw Vader aan ons geopenbaard hebt, met woorden en daden. Help ons die liefde door te geven aan de medemensen die U op ons pad stuurt. Maak dat wij voor anderen een brug naar U mogen zijn, en geen hinderpaal. Wees onze reisleider, onze gids op onze levensreis.
-Amen!
+Heer Jezus, wat fijn dat U naar de aarde gekomen bent en dat U de liefde van uw Vader aan ons geopenbaard hebt, met woorden en daden. Help ons die liefde door te geven aan de medemensen die U op ons pad stuurt. Maak dat wij voor anderen een brug naar U mogen zijn, en geen hinderpaal. Wees onze reisleider, onze gids op onze levensreis. Amen!

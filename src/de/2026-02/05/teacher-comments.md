@@ -6,6 +6,7 @@ date: 01/05/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Jesaja 55,11; Psalm 119,105
+
 **Studienschwerpunkt:** Psalm 119
 
 In seinem Gebet vergleicht der Psalmist das Wort Gottes mit einer Leuchte, die seinen Füßen Licht gibt (Ps 119,105). Der Psalm beginnt mit Segnungen für die, die ohne Tadel leben, die sich dafür entscheiden, im Gesetz des Herrn zu wandeln und sich an seine Zeugnisse halten (Ps 119,1-3). Er endet mit dem Bild eines Wanderers, allerdings von einem, der vom Weg abgekommen ist und Gott bittet, ihn zu finden (Ps 119,176).
@@ -14,9 +15,7 @@ In dieser Lektion suchen wir gemeinsam mit dem Psalmisten nach einem tieferen Ve
 
 Während wir unsere Reise fortsetzen, werden wir über Grundsätze nachdenken, wie man am besten an die Heilige Schrift herangeht. Das Bild der Lampe, die nachts einen dunklen Weg erhellt, suggeriert einen langsamen, vorsichtigen Gang, bei dem wir nicht viel weiter sehen können als den einzelnen Schritt, den wir gerade machen. Ein solcher Weg braucht Zeit, denn es geht nur Schritt für Schritt voran. Gleichzeitig ist ein solcher Gang auch ein Abenteuer, das etwas Unbekanntes mit sich bringt: Wir wissen nicht genau, wo wir landen werden oder zu welchen Höhen uns unsere Reise führen wird.
 
-Um das bestmögliche Ergebnis aus unserem Studium zu erzielen, sollte jeder Text offen und ohne Vorurteile oder Voreingenommenheit gelesen werden. Vielmehr sollten wir beim Lesen aufgeschlossen sein und - um bei der Metapher des Gehens zu bleiben
-- im Glauben voranschreiten und gehen, wohin der Geist uns lenkt. Eine unvoreinge-
-nommene Lektüre des Bibeltextes wird uns helfen, die Stimme Gottes zu hören, die aus seinem Wort zu uns spricht. Auf diese Weise werden wir die Heilige Schrift als bedeutungsvoll, schön, inspirierend, fesselnd und moralisch erleben.
+Um das bestmögliche Ergebnis aus unserem Studium zu erzielen, sollte jeder Text offen und ohne Vorurteile oder Voreingenommenheit gelesen werden. Vielmehr sollten wir beim Lesen aufgeschlossen sein und - um bei der Metapher des Gehens zu bleiben - im Glauben voranschreiten und gehen, wohin der Geist uns lenkt. Eine unvoreinge-nommene Lektüre des Bibeltextes wird uns helfen, die Stimme Gottes zu hören, die aus seinem Wort zu uns spricht. Auf diese Weise werden wir die Heilige Schrift als bedeutungsvoll, schön, inspirierend, fesselnd und moralisch erleben.
 
 ### TEIL II: KOMMENTAR
 

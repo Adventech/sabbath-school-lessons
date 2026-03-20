@@ -6,6 +6,7 @@ date: 17/04/2026
 ### TEIL I: ÜBERSICHT
 
 **Schlüsseltext:** Lukas 14,11
+
 **Studienschwerpunkt:** 1. Mose 11,5; Jesaja 14,12-14; 4. Mose 13,3; Lukas 18,9-14; Psalm 20,8
 
 Letzte Woche haben wir die Diagnose des Herrn über die geistliche Krankheit von Laodizea betrachtet: „Du sprichst: Ich bin reich und habe mehr als genug und brauche nichts!, und weißt nicht, dass du elend und jämmerlich bist, arm, blind und bloß“ (Offb 3,17). Johannes, der apokalyptische Prophet, prangerte das Problem des geistlichen Stolzes an, der in der Betonung des „Ich“ und damit des Egos begründet liegt. Die ernüchternde Realität ist, dass wir ohne Gott nichts tun können, um unser Ich zu überwinden. Wir können daher dankbar sein, dass es in der Botschaft der Bibel ganz darum geht, dieses Problem des Selbst zu lösen, ein Problem, das jeden Einzelnen von uns betrifft. Diese Woche werden wir die Sünde des Stolzes untersuchen, um ihren Mechanismus zu verstehen und ihre Gefahr zu erkennen. Wir werden in drei Schritten vorgehen.
@@ -73,20 +74,20 @@ Der Herr schenkt jedem von uns Gaben, sowohl geistliche als auch natürliche, um
 
 Teilt euch in kleine Gruppen auf und weist jeder Gruppe einen der folgenden Gegensätze zwischen Stolz und Demut zu: Kain und Abel, Abraham und Lot, Jakob und Esau, Josef und seine Brüder sowie Daniel und Nebukadnezar. Nehmt euch Zeit, die Gegensätze zu untersuchen und eine kurze Präsentation mit den Ergebnissen vorzubereiten. Teilt eure Gedanken mit der Gruppe.
 
-**Kain und Abel** (1 Mo 4)
+**Kain und Abel** (1 Mo 4)\
 Vergleicht die Bedeutung der Namen Kain und Abel, ihre Wahl der Opfergaben und den Dialog zwischen ihnen.
 
-**Abraham und Lot** (1 Mo 13)
+**Abraham und Lot** (1 Mo 13)\
 Betrachtet die Einstellung der Männer bei ihrer Wahl des Landes.
 
-**Isaak und Ismael** (1 Mo 18)
+**Isaak und Ismael** (1 Mo 18)\
 Vergleicht die Stellen, an denen in der Erzählung gelacht wird. Betrachtet danach Isaaks Bereitschaft, sich opfern zu lassen (1 Mo 22)
 
-**Jakob und Esau** (1 Mo 27)
+**Jakob und Esau** (1 Mo 27)\
 Vergleicht die Haltung der Brüder zum Erstgeburtsrecht und ihre anschließende Begegnung in 1. Mose 33.
 
-**Josef und seine Brüder** (1 Mo 37)
+**Josef und seine Brüder** (1 Mo 37)\
 Vergleicht die Reaktion von Josefs Brüdern auf seine Träume mit ihrer späteren Angst vor Vergeltung (1 Mo 50).
 
-**Nebukadnezar und Daniel** (Dan 1; 3; 4)
+**Nebukadnezar und Daniel** (Dan 1; 3; 4)\
 Betrachtet die Demut Daniels angesichts des königlichen Befehls. Vergleicht auch Nebukadnezars Versuch, die Macht Gottes in Daniel 3 an sich zu reißen, mit seiner Erfahrung tiefster Demütigung in Daniel 4.

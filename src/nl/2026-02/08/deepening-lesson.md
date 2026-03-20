@@ -16,6 +16,7 @@ Deze passage vertelt over de ontmoeting tussen Jezus en een Romeinse hoofdman in
 Kafarnaüm betekent letterlijk ‘dorp van mededogen’. Het was een grensstad, een plaats van doorgang en ontmoeting. In dit verhaal krijgt de stad een symbolische betekenis: hier gaan grenzen open en verschuiven ze. Meteen daarna wekt Jezus de zoon van de weduwe van Naïn tot leven. Samen laten deze verhalen zien dat verlossing geen grenzen kent – niet sociaal, niet religieus en ook niet geografisch.
 
 # Ik bestudeer
+
 De tekst heeft een spiegelstructuur (concentrisch opgebouwd):
 
 - Zieke dienaar (vers 2) ←→ Dienaar genezen (vers 10)
@@ -29,44 +30,44 @@ Centraal in dit verhaal staat de beweging van Jezus naar het huis van de hoofdma
 
 **Waardigheid:** Het woord axios (waardig) komt drie keer terug.
 
--De oudsten noemen de hoofdman “waardig”.
--De hoofdman noemt zichzelf “onwaardig”.
--Jezus gaat niet in op die spanning.
+- De oudsten noemen de hoofdman “waardig”.
+- De hoofdman noemt zichzelf “onwaardig”.
+- Jezus gaat niet in op die spanning.
 
 Jezus kijkt niet naar status. Hij kijkt naar geloof. Daarmee laat Lucas een ironie zien: mensen kunnen God benaderen vanuit hun verdiensten, of vanuit vertrouwen. Maar geloof is wat telt.
 
 # Vragen om te overdenken
-Waarom bewondert Jezus het geloof van de hoofdman?
-Wat zegt dit over wat Gods hart werkelijk raakt?
-En wat zie ik zelf als echt geloof?
 
-Waarom stapt een man met gezag opzij?
-Laat dit nederigheid zien, of een diep besef van wie Jezus is?
-Erken ik Jezus’ gezag echt in mijn leven?
+Waarom bewondert Jezus het geloof van de hoofdman? Wat zegt dit over wat Gods hart werkelijk raakt? En wat zie ik zelf als echt geloof?
+
+Waarom stapt een man met gezag opzij? Laat dit nederigheid zien, of een diep besef van wie Jezus is? Erken ik Jezus’ gezag echt in mijn leven?
 
 De hoofdman hoort niet bij Gods volk, maar Jezus noemt hem een voorbeeld.
- Durf ik geloof te herkennen bij mensen buiten mijn eigen kring?
- Weet ik Gods aanwezigheid te zien op onverwachte plekken?
+
+- Durf ik geloof te herkennen bij mensen buiten mijn eigen kring?
+- Weet ik Gods aanwezigheid te zien op onverwachte plekken?
 
 De hoofdman vertrouwt dat één woord van Jezus genoeg is.
- Vertrouw ik nog steeds op Gods woord?
- Wat betekent voor mij: “Heer, zeg het maar”?
+
+- Vertrouw ik nog steeds op Gods woord?
+- Wat betekent voor mij: “Heer, zeg het maar”?
 
 In een wereld (en soms ook in de kerk) die hunkert naar zichtbare tekenen of bewijzen...
- Kan ik geloven zonder te zien?
- Geef ik God de ruimte te handelen op zijn manier, ook als ik niets zie?
+
+- Kan ik geloven zonder te zien?
+- Geef ik God de ruimte te handelen op zijn manier, ook als ik niets zie?
 
 De hoofdman vraagt niet voor zichzelf, maar voor een ander.
- Voor wie bid en geloof ik vandaag?
- Wordt mijn geloof een gebed voor anderen?
+
+- Voor wie bid en geloof ik vandaag?
+- Wordt mijn geloof een gebed voor anderen?
 
 # Ik pas toe
-Over God: Jezus hoeft niet te bewegen of iemand aan te raken om iets te doen. Zijn woord alleen is genoeg. Hij accepteert echt geloof, ook van mensen van buitenaf. Hij vraagt geen religieuze verbondenheid, maar een hart dat vertrouwt. Over mensen:
-Geloof kan op onverwachte plekken groeien. Het ontstaat uit nederigheid, vertrouwen en soms stilte. De hoofdman heeft macht, maar ziet zichzelf als klein tegenover Jezus.
-Precies in die houding raakt hij God.
+
+Over God: Jezus hoeft niet te bewegen of iemand aan te raken om iets te doen. Zijn woord alleen is genoeg. Hij accepteert echt geloof, ook van mensen van buitenaf. Hij vraagt geen religieuze verbondenheid, maar een hart dat vertrouwt. Over mensen: Geloof kan op onverwachte plekken groeien. Het ontstaat uit nederigheid, vertrouwen en soms stilte. De hoofdman heeft macht, maar ziet zichzelf als klein tegenover Jezus. Precies in die houding raakt hij God.
 
 **Over de gemeenschap:** Grenzen tussen mensen – cultureel, religieus of sociaal – stoppen het Koninkrijk niet. Waar liefde en respect heersen, ontstaan bruggen. De hoofdman houdt van zijn dienaar, van het Joodse volk, en daardoor houden mensen ook van hem.
 
 # Ik bid …
-Heer, leer mij U te vertrouwen, ook als ik niets zie. Geef mij een sterk en eenvoudig geloof dat zich vasthoudt aan uw woord. Open mijn ogen, zodat ik uw aanwezigheid herken, ook bij mensen van wie ik dat niet verwacht. Laat mij, net als de hoofdman, bidden met liefde voor anderen. Laat mijn geloof groeien in nederigheid, ook wanneer ik verantwoordelijkheden draag of macht heb.
-Amen!
+
+Heer, leer mij U te vertrouwen, ook als ik niets zie. Geef mij een sterk en eenvoudig geloof dat zich vasthoudt aan uw woord. Open mijn ogen, zodat ik uw aanwezigheid herken, ook bij mensen van wie ik dat niet verwacht. Laat mij, net als de hoofdman, bidden met liefde voor anderen. Laat mijn geloof groeien in nederigheid, ook wanneer ik verantwoordelijkheden draag of macht heb. Amen!
