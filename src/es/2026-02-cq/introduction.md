@@ -1,0 +1,21 @@
+### Una relación más íntima con Dios
+
+Tanto si te has criado adventista como si eres nuevo en la fe; si has leído muchas lecciones de Inverso como si no; cualquiera que sea el momento espiritual en el que te encuentres hoy, el tema de cómo profundizar tu relación con Dios para que sea más significativa es crucial, porque repercute en todos los demás.
+
+Es posible que tu imagen de Dios se haya visto empañada o difuminada; si es así, ora para obtener mayor claridad mientras estudias. Quizá te preguntes cómo renovar tu vida devocional (la oración y el estudio de la Biblia), o tal vez estés reflexionando sobre otros aspectos que afectan tu relación con Dios, como el papel del orgullo y la humildad; la fe y el conocimiento; el pecado y la ley de Dios; el arrepentimiento y el perdón; cómo superar la adversidad o cómo animar a otros en su caminar con Dios.
+
+Tu relación con Dios es la más importante que tienes. No te demores en construirla, en fortalecerla, en solidificarla tanto como sea posible. Ahora, y no en el futuro, es el momento de trabajar en esta relación, una relación que repercutirá en todo lo demás: en tu matrimonio (si estás casado), en la crianza de tus hijos (si los tienes), en tus amistades, tus decisiones financieras, tu tiempo libre, tus aspiraciones..., y, por supuesto, tu futuro eterno.
+
+Siendo que este importante tema —el deseo de Dios de tener una relación con la humanidad— abarca toda la Biblia, hay muchos ángulos, historias y pasajes bíblicos diferentes que podrían haberse elegido para enseñarlo. Dada la naturaleza de Inverso, solo podemos explorar un número limitado de ellos. De hecho, tener una relación cada vez más íntima con Dios será nuestro estudio por toda la eternidad.
+
+Debido a que la naturaleza de este tema son las relaciones, este trimestre de Inverso es un poco diferente a los anteriores. Las lecciones están escritas en un estilo más personal porque tratan sobre un Dios personal que quiere conocerte personalmente. Sea cual sea tu relación con Dios hoy en día, estas lecciones se escribieron pensando en ti. En última instancia, el deseo es que estas trece lecciones breves y al punto despierten tu amor por Jesús y tu compromiso con él, mientras lo buscas de nuevo este trimestre.
+
+Elena G. de White dice que «una vida consecuente en Cristo es un gran milagro» (El Deseado de todas las gentes, cap. 44, p. 380). La Biblia utiliza la metáfora de una carrera para describir nuestra relación con Dios a lo largo de toda la vida. Nuestra recompensa es una corona imperecedera (ver 1 Corintios 9: 24-25) y la vida eterna con nuestro Dios. Nuestra carrera espiritual es un maratón, no un esprint. A veces, podemos dejar de correr o incluso caernos de bruces. Esto sucede y, cuando ocurre, simplemente nos levantamos y seguimos adelante. Debemos mantener el rumbo, a pesar de las pruebas y las dificultades que sin duda vendrán (ver Hebreos 12: 4-11). Es más, no corremos esta carrera solos; otros corredores que aman a Jesús y su Palabra corren con nosotros. Lo más importante es que Jesús prometió darnos un Ayudador. «Yo le pediré al Padre que les mande otro Defensor, el Espíritu de la verdad, para que esté siempre con ustedes. Los que son del mundo no lo pueden recibir, porque no lo ven ni lo conocen; pero ustedes lo conocen, porque él permanece con ustedes y estará en ustedes» (Juan 14: 16-17).
+
+No corremos la carrera de la vida solos: el Ayudador no solo está con nosotros, sino que mora en nosotros para fortalecernos y sostenernos mientras corremos y fijamos nuestros ojos en «Jesús, el autor y consumador de la fe» (Hebreos 12: 2, RV95).
+
+Mientras escribo, oro para que el Espíritu Santo se mueva sobre nosotros individualmente y como Iglesia mundial para acercarnos a Dios como nunca antes. Porque sin duda no hay nada más importante que tener una relación sólida con Dios.
+
+Así que estudiemos juntos, para aprender, amar y permanecer en él.
+
+_Nina Atcheson es la directora y editora principal del nuevo currículo mundial de la Escuela Sabática Vivos en Jesús, de la Asociación General. Vive para inspirar y capacitar a otros para que conozcan a Dios de manera profunda y personal a través de la Palabra inspirada. Está casada con Matt y tienen tres hijos adolescentes._

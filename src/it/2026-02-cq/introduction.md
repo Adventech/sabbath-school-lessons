@@ -1,0 +1,21 @@
+### Crescere in una relazione con Dio
+
+Che tu sia cresciuto come avventista del settimo giorno o che tu sia nuovo alla fede, che tu abbia letto molte o poche lezioni di inVerse, e infine, a prescindere da dove ti trovi spiritualmente oggi, l’argomento di come crescere in una relazione significativa con Dio è cruciale.
+
+Questo argomento tocca tutti gli altri. L’immagine che hai di Dio potrebbe essersi alterata o offuscata; se le cose stanno così, prega per una chiarezza maggiore mentre studi. Forse ti stai chiedendo come rianimare la tua vita devozionale (preghiera e studio della Bibbia), o potresti considerare altri ambiti che hanno un impatto sulla tua relazione con Dio, come il ruolo dell’orgoglio e dell’umiltà, della fede e della conoscenza, del peccato e della legge di Dio, del ravvedimento e del perdono, come superare capisaldi e ostacoli, e come incoraggiare gli altri nel loro cammino con Dio.
+
+La tua relazione con Dio è la tua singola relazione più importante. Non tardare nel costruirla, nel fortificarla, nel renderla più forte possibile. Adesso — non a un certo punto in futuro — è il momento di lavorare a questa relazione, una relazione che avrà un impatto su tutto il resto: sul tuo matrimonio (se pertinente), sul tuo ruolo genitoriale (se pertinente), sulle tue amicizie, sulle tue decisioni economiche, sul tuo tempo libero, sulle tue aspirazioni... e ovviamente, sul tuo futuro eterno.
+
+Poiché questo argomento — quello del desiderio di Dio di avere una relazione con l’umanità — attraversa l’intera Bibbia, ci sono molti aspetti diversi, storie e brani biblici che potrebbero essere scelti per insegnare questo tema importante. Data la natura di inVerse, possiamo esplorarne solo un numero limitato. Crescere nella nostra relazione con Dio sarà lo studio dell’eternità.
+
+Poiché la natura di questo argomento tratta di relazioni, questo trimestre di inVerse è un po’ diverso da quelli precedenti. Le lezioni sono scritte in uno stile più personale perché trattano di un Dio personale che vuole conoscere te personalmente. Qualunque sia lo stato della tua relazione con Dio oggi, queste lezioni sono state scritte pensando a te. Infine, il desiderio è che queste tredici brevi lezioni concentrate risveglino il tuo amore e il tuo impegno con Gesù Cristo mentre lo cerchi nuovamente questo trimestre.
+
+Ellen G. White dice che «Una vita fedele in Cristo è un grande miracolo». La Bibbia si serve della metafora di una corsa per descrivere la nostra relazione di una vita con Dio. Il nostro premio è una corona incorruttibile (1 Corinzi 9:24, 25) e la vita eterna con il nostro Dio. La nostra corsa spirituale è una maratona, non una corsa breve. A volte potremmo smettere di correre o persino cadere con la faccia a terra. Succede, e quando accade ci alziamo e continuiamo a muoverci. Dobbiamo mantenere la rotta, nonostante le prove e le difficoltà che arriveranno inevitabilmente (Ebrei 12:4-11). Inoltre, non partecipiamo a questa corsa da soli; altri corridori che amano Gesù e la sua Parola corrono con noi. E soprattutto, Gesù ha promesso di darci un aiutante. «e io pregherò il Padre, ed egli vi darà un altro Consolatore perché sia con voi per sempre: lo Spirito della verità, che il mondo non può ricevere perché non lo vede e non lo conosce. Voi lo conoscete, perché dimora con voi, e sarà in voi» (Giovanni 14:16, 17).
+
+Non corriamo la corsa della vita da soli: lo Spirito Santo non solo è con noi, ma dimora in noi per rafforzarci e sostenerci mentre corriamo e mentre fissiamo il nostro sguardo su «Gesù, colui che crea la fede e la rende perfetta» (Ebrei 12:2).
+
+Mentre scrivo, prego che lo Spirito Santo si muova su di noi individualmente e come chiesa mondiale per portarci più vicino a Dio che mai. Perché sicuramente non potrebbe esserci niente di più importante che avere una relazione forte con Dio.
+
+Quindi studiamo insieme per imparare, per amare e per dimorare in lui.
+
+_Nina Atcheson è curriculum manager e caporedattrice del programma «Alive in Jesus» della Scuola del Sabato alla Conferenza Generale. Si dedica a ispirare ed equipaggiare le persone a una conoscenza profonda e personale di Dio attraverso la Parola ispirata di Dio. Atcheson è sposata con Matt, e insieme hanno tre figli adolescenti._
