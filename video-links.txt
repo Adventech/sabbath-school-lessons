@@ -61,3 +61,9 @@ yt-dlp "https://youtu.be/qkqRXPe9VJo?si=y1A5z_JFDSSwhdbf" -S vcodec:h264,res:108
 yt-dlp "https://youtu.be/ORGdLw5NYPI?si=Qrc_UB-wUHCjyPTo" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/af/de-af-2026-01-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=cdIws4J_d2I" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ta/ta-2026-01-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=6ZaWT1pzkS0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ro/ro-2026-01-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=y5x4PMS6Il0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/jm/de-jm-2026-01-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=aS6LJ7MXUyg" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2026-01-13.mp4"
