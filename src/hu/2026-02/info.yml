@@ -4,8 +4,8 @@
   human_date: "Április · Május · Június 2026"
   start_date: "28/03/2026"
   end_date: "27/06/2026"
-  color_primary: "#6B7A99"
-  color_primary_dark: "#1A4068"
+  color_primary: "#1F6055"
+  color_primary_dark: "#083129"
   splash: true
   credits:
     - name: Írta
