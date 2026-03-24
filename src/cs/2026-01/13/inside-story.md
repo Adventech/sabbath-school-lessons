@@ -3,30 +3,30 @@ title:  Misijní příběh
 date:   27/03/2026
 ---
 
-#### Ukradnutá Biblia zakladá zbor
+#### Jak ukradená Bible založila sbor
 
 _David Fletcher_
 
-V roku 2021 vypukli v Papue-Novej Guinei kmeňové boje medzi piatimi dedinami. V jednej z nich, Kemefa, bolo mnoho domov vypálených a majetok vyrabovaný. Zahynulo najmenej 16 ľudí.
+V roce 2021 vypukly v Papui-Nové Guineji kmenové boje mezi pěti vesnicemi. V jedné z nich, v Kemefě, bylo vypáleno mnoho domů a došlo k rabování majetku. Nejméně 16 lidí bylo zabito.
 
-Uprostred konfliktu vnikol jeden z bojovníkov do zboru Cirkvi adventistov siedmeho dňa v Kemefe a ukradol Bibliu. Volal sa Abuni Ane a knihu si odniesol do svojej rodnej dediny Orege.
+Uprostřed konfliktu vnikl jeden z bojovníků do sboru Církve adventistů sedmého dne v Kemefě a ukradl Bibli. Bojovník Abuni Ane odnesl knihu do své rodné vesnice Orege.
 
-Keď sa boje skončili, Abuni začal čítať ukradnutú Bibliu. Ako čítal, dotýkalo sa to jeho srdca.
+Po skončení střetů začal Abuni ukradenou Bibli číst. Když četl, dotklo se to jeho srdce.
 
-Prešlo niekoľko mesiacov a Abuniho dedinu navštívil adventistický pastor Dicks Neheza. Abuni vytiahol ukradnutú Bibliu a vysvetlil mu, čo sa stalo. Vyjadril ľútosť a povedal, že chce činiť pokánie a odovzdať svoj život Bohu.
+Uplynulo několik měsíců a Abuniho vesnici navštívil adventistický pastor. Abuni vytáhl ukradenou Bibli a vysvětlil pastorovi Dicksovi Nehezovi, co se stalo. Vyjádřil lítost a řekl, že chce činit pokání a zasvětit svůj život Bohu.
 
-Pastor spolu s Abunim založili v dedine Orege domáci zbor a zakrátko sa Abuni rozhodol dať sa pokrstiť.
+Pastor a Abuni založili v Orege domácí sbor a brzy se Abuni rozhodl nechat se pokřtít.
 
-Pri svojom krste sa Abuni podelil o svoj príbeh s prítomnými členmi zboru Kemefa, odkiaľ Bibliu ukradol. Poprosil ich o odpustenie a Bibliu odovzdal staršiemu zboru.
+Při svém křtu Abuni sdílel svůj příběh s přítomnými členy církve v Kemefě, odkud Bibli ukradl. Požádal je o odpuštění a Bibli předal staršímu sboru.
 
-Starší, hovoriac v mene celého zboru, Abunimu odpustil a požiadal ho, aby si Bibliu ponechal. Daroval mu aj zborový spevník. Povzbudil ho, aby ďalej čítal Bibliu, spieval chválospevy Bohu a založil zbor v Orege.
+Starší jménem sboru Abunimu odpustil a požádal ho, aby si Bibli nechal. Dal mu také jako dárek sborový zpěvník. Starší ho povzbudil, aby pokračoval ve čtení Bible, zpíval chvály Bohu a založil v Orege sbor.
 
-Abuni sa hneď pustil do práce. Na druhý deň sa spolu s dvoma priateľmi vybral do lesa zbierať drevo na polo-trvalú stavbu zboru. Pastor Neheza priniesol tesárske náradie. V ten istý deň vznikla v Orege zborová stanica s troma zakladajúcimi členmi.
+Abuni se hned pustil do práce. Následující den šel s dvěma přáteli do lesa sbírat dřevo na stavbu polostálé sborové budovy. Pastor Neheza přinesl tesařské nářadí. Téhož dne byla v Orege založena církevní společnost se třemi zakládajícími členy.
 
-Odvtedy sa zbor rozrástol na 18 členov, vrátane ôsmich ľudí, ktorí boli pokrstení počas evanjelizačných stretnutí „PNG for Christ“ v roku 2024.
+Od té doby se sbor rozrostl na 18 členů, včetně osmi lidí, kteří byli pokřtěni během evangelizačních shromáždění „PNG for Christ“ v roce 2024.
 
-Pastor Neheza je ohromený tým, že kmeňové boje a ukradnutá Biblia viedli k vzniku zboru. Pôvodná stavba je dnes už primalá a pripravujú sa plány na výstavbu väčšieho, trvalého zborového domu.
+Pastor Neheza je ohromen tím, že kmenové boje a ukradená Bible vedly k založení sboru. Řekl, že první stavba je nyní příliš malá a že jsou plány na vybudování větší, trvalé budovy.
 
-_Vaše pravidelné misijné dary podporujú zakladanie zborov v Papue-Novej Guinei i po celom svete. Trinásta sobota tohto štvrťroka je určená pre Juhopacifickú divíziu, do ktorej patrí aj Papua-Nová Guinea._
+_Vaše misijní dary podporují zakládání sborů v Papui-Nové Guineji a po celém světě. Sbírka třinácté soboty v tomto čtvrtletí poputuje do Jiho-tichomořské divize, jejíž území zahrnuje Papuu-Novou Guineu. Děkujeme vám za vaše štědré dary v tuto sobotu._
 
-_Ďakujeme vám za váš štedrý dar túto sobotu._
+![Abuni Ane](picture13.jpg) 
