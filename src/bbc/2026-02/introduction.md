@@ -1,0 +1,23 @@
+### Magodang di bagasan Partalian Dohot Debata
+
+Na magodang di tongatonga ni Huria Masehi Advent Hari Ketujuh do ho manang na baru tardidi; naung godang manang otik dope diguruhon ho sian Parsiajaran Sikkola Sabbat tu na Magodang; diujungna, nang beha pe saonari ngolu ni partondionmu, turpuk parsiajaran na mangarangrangi songon dia magodang di bagasan partalian na marparbue dohot Debata i do parsiajaran na arga situtu.
+
+Turpuk on mangarajai nasa pargulmiton ni parngoluon. Olo do gombaran ni Debata di ho holip manang dao situtu, molo i do, martangiangma ho laho mangalului hatorangan na dumenggan uju di na marsiajar ho, na olo do ho nuaeng mangalului dalan laho pahirashon ngolu ni partondionmu (martangiang huhut mangguruhon Bibel), manang mangarajumi angka turpuk na asing na marpangkorhon dipartalianmu dohot Debata, umpamana hagogoon sian ginjang ni roha dohot heserepon, haporseaon dohot parbinotoan, dosa dohot patik ni Debata, hamubaon ni roha dohot hasesaan ni dosa, dalan manaluhon dosa dohot hagaleaon ni partondion, angkup ni i songon dia manogihon dongan tu bagasan partalian dohot Debata.
+
+Partalianmu dohot Debata ido parsaoran na ummangat di bagasan ngolum. Unang sundati laho pajongjongkon i, patoguhon, jala patupahon i asa tung gogo situtu. Saonari – ndada sogot – partingkian na denggan laho mangulahon partalian i, ai partalian i marpangkorhon tu saluhutna: parsaripeonmu (molo adong), dalanmu pagodang dakdanak (molo adong), parsaoranmu, peak ni parhepengonmu, partingkianmu, sangkapmu ... jala i do, ngolum marsogot di banua ginjang.
+
+Hinorhon ni turpuk on – sihol ni Debata asa pajongjongkon partalian dohot jolma – patolhashon nasa na tarsurat di Bibel, adong do godang pangantusion, angka barita, dohot angka ayat di Bibel na denggan dibaon laho patorangkon parsiajaran on. Alai, marningot parange sian Parsiajaran Sikkola Sabbat tu na Magodang, holan otik sian angka na dipillit.
+
+Nang beha pe saonari parange ni partalianmu dohot Debata, angka parsiajaran on disurathon bahen di hamuna. Diujungna, pangaropanna i ma asa diparsiajaran na sampulu tolu na jempek jala na dirimpuhon on margogo pahehehon holong dohot roham tu Jesus Kristus uju ho mulak mangalului Ibana muse di bagasan sakuartal on.
+
+Ala turpuk on marhadomuan dohot partalian, Parsiajaran Sikkola Sabbat tu na Magodang on disurathon mardongan dalan na marasing sian somalna. Saluhut parsiajaran on disurathon jumonok mangihuthon hasolaman alana hita manaringoti Debata jala marsangkap laho mananda Ibana di ngolunta.
+
+Ellen G. White mandok ia “ngolu na manontong di bagasan Kristus sada hahomion bolon do i”—Kerinduan Segala Zaman (1999), jld. 2, hlm. 13. Bibel mamboan gombaran ni parlojongon laho manggombarhon pardalanan ni ngolu raphon Debata. Jambar disi i ma tumpal na so ra salpu (1 Kor. 9: 24, 25) mardongan ngolu sisaleleng ni lelengna dohot Debatanta. Parlojongon partondionta i ma marlojong, ndada lintun. Adong do tingkina hita maradi marlojong manang tahe tartuktuk. Bolas jadi do i, jala di na masa i, hehe jala tongtong marlojong do siulahononta. Tongtongma hita marhaporseaon, molo pe uju ro pangunjunan dohot parungkilon na so tarpasiding (Heb. 12: 4-11). Jala ndada holan hita na marlojong; dohot do marlojong nang nasida na mangkaholongi Jesus dohot HataNa. Na rumingkot disi, marbagabaga do Jesus laho mangalehon pangurupion tu hita. “Jala pangidoonku ma tu Ama i, asa dilehon tu hamu sada Pangondian na asing, asa I mandongani hamu salelengna i. I ma Tondi hasintongan i, na so tarjalo portibi on, ai ndang diida jala ndang ditanda; alai ditanda hamu do Ibana, ai na rap ma Ibana dohot hamu jala di bagasan hamu ma Ibana” (Joh. 14: 16, 17).
+
+Nda sasadasa hita mangalojong parlojongon ni ngolu on – Pangondian ndada holan mandongani hita alai mian di bagasan hita laho patoduhon jala mandongani hita di na marlojong hita jala manatap “ i ma Jesus, na manaonhon parsilangon i, singkat ni las ni roha, tohapna i hian” (Heb. 12: 2).
+
+Di na manurat parsiajaran on ahu, martangiang do ahu anggiat Tondi Parbadia mangolu di bagasan hita ganup marsada-sada jala songon ruas ni huria laho mamboan hita jumonok dohot Debata i ma angka so dung andorang so i. Tutu ndang adong na ummarga sian na pajongjongkon partalian na togu dohot Debata.
+
+Dibahen i, beta hita rap marsiajar, laho mananda, mangkaholongi, jala mian di bagasan Ibana.
+
+_Nina Atcheson i ma sahalak manajer kurikulim dohot editor di senior Kurikulum Sekolah “Sabat Alive in Jesus” di General Conference. Dibolus ibana do ngoluna na laho manogunogu jala patoguhon halak asa mananda Debata dohot denggan dingoluna marhitehite HataNa na disihathon i. Atcheson marhasohotan dohot Matt, jala tu nasida dipalumehon tolu dakdanak._
