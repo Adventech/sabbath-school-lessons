@@ -1,0 +1,23 @@
+### Introduction
+
+Maybe you grew up a Seventh-day Adventist. Or maybe you are new to the faith. Maybe you studied many Adult Bible Study Guides. Or read just a few. Whatever your story is, the topic of how to grow in a relationship with God is for you.
+
+This topic helps us understand better every other topic in the Bible. What is your picture of God today? Do you know and love Him? Or is He a stranger to you? If yes, pray for God to help you understand Him more as you study. Maybe you wonder how to make fresh your prayer time and Bible study. Or maybe you are fighting against pride in your heart. Maybe you wish for more faith and knowledge. Or you want to understand better the relationship between God’s law and sin. Or you want to learn more about the topic of forgiveness. Or maybe you want to learn how to win the fight against sin and disappointments. Or how to encourage other people during their hard times.
+
+Your relationship with God is your most important relationship. Don’t wait to build it. Make it as strong as it can be. The time for you to work on this relationship is now. Not sometime in the future. This relationship will improve every other relationship you have. Your relationship with God will improve your marriage (if you are married). Your relationship with God will improve your relationship with your kids (if you have children). Your relationship with God will improve your friendships. Your relationship with God will also help you make good decisions about money, what you do for fun, and your hopes and dreams. And, of course, your relationship with God will give you hope for a future life with Jesus.
+
+God wants to be in a relationship with you. This topic is so big, it fills the whole Bible! So, we can study this topic in many different ways. We can read different views, stories, and verses in the Bible on this topic. Of course, we can study only a limited number of these ideas and verses this quarter.
+
+Whatever relationship you have with God today, these lessons are written for you. In the end, may these 13 lessons ‘wake up’ your love for Jesus. May these lessons help you to seek Jesus and give your life to Him more fully.
+
+Because this guide is about relationships, these lessons will be a little different than past lessons. The lessons are more personal because they are about a personal God. This personal God wants to know you personally.
+
+Ellen G. White says that “a Christian life that is always loyal to God is a big and power­ful miracle.”—The Desire of Ages, page 407, adapted. The Bible uses the symbol of a race to explain our relationship with God. Most races give a prize or reward to the winners. Our rewards are a crown (1 Corinthians 9:24, 25, ICB) and everlasting life with God. Our spiritual ‘race’ is a long race, and not a short one. At times, we may stop running. Or we may fall flat on our face. When that happens, we just get up and keep moving. We must keep running the ‘race,’ even when we suffer hard times. For sure, troubles will come (Hebrews 12:4–11). The good news is that we don’t run this ‘race’ alone. Other ‘runners’ run with us. These runners are people who love Jesus and the Bible. Most important, Jesus gives us the Helper. The Helper is the Holy Spirit. Jesus promises, “ ‘I will ask the Father, and he will give you another Helper. He will give you this Helper to be with you forever. The Helper is the Spirit of truth. The world cannot accept him because it does not see him or know him. But you know him. He lives with you and he will be in you’ ” (John 14:16, 17, ICB).
+
+Praise God, we do not run life’s ‘race’ alone. The Helper is with us. He lives in us, too. He makes us strong. He helps us as we run. He helps us to keep “looking to Jesus. He is the leader of our faith, and he is the one who makes our faith complete” (Hebrews 12:2, ERV).
+
+As I, Nina Atcheson, write this guide, I pray that the Holy Spirit will touch our hearts as Christians and as a worldwide church. May we come so close to God. Our relationship with Him is the most important thing in our lives.
+
+So, let’s study together. Let’s learn, love, and live in God together, too.
+
+_Nina Atcheson is the editor in charge of the Alive in Jesus Sabbath School lessons at the General Conference. Nina is also the manager of the course of study for Alive in Jesus. Nina loves to help people know more about God in the Bible. Nina is married to Matt. Together they have three teenage children._

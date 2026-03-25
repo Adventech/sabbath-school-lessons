@@ -1,0 +1,23 @@
+### Berkembang dalam Hubungan Dengan Tuhan
+
+Sama ada anda telah membesar sebagai Seventh-day Adventist atau baru dalam agama; sama ada anda telah membaca banyak atau sedikit Panduan Pelajaran Sekolah Sabat Dewasa; dan, akhirnya, tidak kira di mana anda mendapati diri anda secara rohani hari ini, topik bagaimana untuk berkembang dalam hubungan yang bermakna dengan Tuhan adalah penting.
+
+Topik ini memberi kesan kepada semua hal yang lain. Gambaran anda mengenai Tuhan mungkin telah tercemar atau kabur; jika ya, berdoa untuk kejelasan yang lebih besar semasa anda belajar. Anda mungkin tertanya-tanya bagaimana untuk menyegarkan kehidupan ibadah anda (doa dan pembelajaran Alkitab), atau anda mungkin merenungkan bidang lain yang mempengaruhi hubungan anda dengan Tuhan, seperti peranan kesombongan dan kerendahan hati, iman dan pengetahuan, dosa dan hukum Tuhan, pertaubatan dan pengampunan, cara mengatasi benteng dan kemunduran, dan bagaimana untuk mendorong orang lain dalam perjalanan hidup mereka dengan Tuhan.
+
+Hubungan anda dengan Tuhan adalah yang paling penting. Jangan berlengah dalam membinanya, membentenginya, menjadikannya sekuat yang boleh. Sekarang–bukan pada masa hadapan–adalah masa untuk mengusahakan hubungan ini, yang akan memberi kesan kepada segala-galanya: perkahwinan anda (jika berkenaan), keibubapaan anda (jika berkenaan), persahabatan anda, pengurusan kewangan anda, masa lapang anda, aspirasi anda . . . dan, sudah tentu, masa depan anda yang kekal.
+
+Kerana topik ini–iaitu kehendak Tuhan untuk menjalin hubungan dengan manusia–merangkumi seluruh Alkitab, terdapat banyak sudut, cerita, dan petikan Alkitab yang berbeza yang boleh dipilih untuk mengajar topik penting ini. Memandangkan sifat kandungan Panduan Pelajaran Sekolah Sabat Dewasa, kita boleh mengikuti hanya bilangan yang terhad.
+
+Walau apa pun hubungan anda dengan Tuhan hari ini, pelajaran ini ditulis dengan anda dalam ingatan. Akhirnya, hasratnya ialah tiga belas pelajaran pendek dan berfokus ini akan membangkitkan semula kasih sayang dan komitmen anda kepada Yesus Kristus semasa anda mencari Dia semula pada suku tahun ini.
+
+Kerana sifat topik ini adalah mengenai perhubungan, maka pembacaan Panduan Pelajaran Sekolah Sabat Dewasa pada kali adalah sedikit berbeza daripada yang sebelumnya. Pelajaran ditulis dalam gaya yang lebih peribadi kerana ia adalah tentang Tuhan peribadi yang ingin mengenali anda secara peribadi.
+
+Ellen G. White mengatakan bahawa "kehidupan yang konsisten dalam Kristus adalah mukjizat yang besar." - The Desire of Ages, hlm. 407. Alkitab menggunakan metafora perlumbaan untuk menggambarkan perjalanan hidup bersama Tuhan. Upah kita ialah mahkota yang tidak dapat binasa (1 Kor. 9:24, 25) dan hidup kekal bersama Tuhan kita. Perlumbaan rohani kita adalah maraton, bukan larian pecut. Mungkin ada masanya kita berhenti berlari atau jatuh terlentang. Ia akan berlaku, dan apabila ia berlaku, kita hanya bangun dan terus bergerak maju. Kita mesti kekal dalam haluan, walaupun menghadapi ujian dan kesukaran yang pasti datang (Ibr. 12:4-11). Kita bukan berlari dalam perlumbaan ini sendirian; pelari lain yang mengasihi Yesus dan Firman-Nya sedang berlari bersama kita. Yang paling penting, Yesus berjanji untuk memberikan kita Penolong. Aku akan memohon kepada Bapa dan Bapa akan mengurniaimu Penolong yang akan menyertaimu selama-lamanya. "Aku akan memohon kepada Bapa dan Bapa akan mengurniaimu Penolong yang akan menyertaimu selama-lamanya. Penolong itu Roh Kebenaran. Dunia tidak dapat menerima-Nya kerana tidak dapat melihat atau mengenal-Nya. Tetapi kamu mengenal-Nya kerana Dia tetap di dalammu dan akan ada di dalam dirimu" (Yohanes 14:16, 17, AVB).
+
+Kita tidak berlari dalam perlumbaan hidup ini seorang diri–Penolong bukan sahaja bersama kita tetapi diam di dalam kita untuk menguatkan dan mengekalkan kita semasa kita berlari dan ketika kita menumpukan perhatian kepada "Yesus, Pelopor dan Penyempurna iman kita" (Ibr. 12:2, AVB).
+
+Semasa saya menulis, saya berdoa agar Roh Suci akan bergerak ke atas kita secara individu dan sebagai gereja di seluruh dunia untuk mendekatkan kita kepada Tuhan sebagaimana yang tidak pernah berlaku sebelum ini. Kerana pastinya tidak ada yang lebih penting daripada mempunyai hubungan yang kuat dengan Tuhan.
+
+Jadi, marilah kita sama-sama mengkaji, belajar, mengasihi, dan kekal berada di dalam Dia.
+
+_Nina Atcheson ialah pengurus kurikulum dan editor kanan Kurikulum Alive in Jesus Sabbath School di General Conference. Dia hidup untuk memberi inspirasi dan melengkapkan orang lain untuk mengenali Tuhan secara mendalam dan peribadi melalui Firman-Nya yang diilhamkan. Atcheson berkahwin dengan Matt, dan bersama-sama mereka mempunyai tiga anak remaja._
