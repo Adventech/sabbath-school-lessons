@@ -30,3 +30,5 @@ Pastor Neheza je ohromený tým, že kmeňové boje a ukradnutá Biblia viedli k
 _Vaše pravidelné misijné dary podporujú zakladanie zborov v Papue-Novej Guinei i po celom svete. Trinásta sobota tohto štvrťroka je určená pre Juhopacifickú divíziu, do ktorej patrí aj Papua-Nová Guinea._
 
 _Ďakujeme vám za váš štedrý dar túto sobotu._
+
+![Abuni Ane](picture13.jpg) 
