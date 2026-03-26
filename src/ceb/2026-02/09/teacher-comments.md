@@ -1,0 +1,67 @@
+---
+title:  Teacher Comments
+date:   29/05/2026
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto:** Mateo 5:17, 18
+
+**Tutokan sa Pagtuon:** Salmo 119:93, 94; Ecclesiastes 7:29; Mateo 7:24–29; Roma 3:20.
+
+Usa ka sugilanon giasoy mahitungod sa duha ka lalaki nga kaluha kinsa nakahibalo sukad sa ilang pagkabata nga ang tanang kalingawan sala. Ang tanan nila nga mga lihok gibantayan pinaagi sa higpit nga mga tulomanon: ayaw basaha kini nga libro, kay sala kini; ayaw og kaon niana nga pagkaon, kay sala kana; ayaw og katawa, kay sala kana; ayaw pagadto niana nga dapit, kay sala kana.
+
+Pagkadako na niini nga duha ka mga lalaki, nagkabulag ang ilang mga dalan sa kinabuhi. Ang usa nagdako uban sa dakung kahadlok sa ginadili ug dili kaayo mangahas sa paggawas sa iyang balay, sa kahadlok nga basin matakdan sa moral ug pisikal nga mga impluwensiya nga dili maayo. Gani, mahadlok siya moabli sa mga bintana sa iyang lawak, ug dili kaayo mamalit og mga produkto nga gibaligya sa merkado. Sa katapusan, namatay siya nga batanon pa tungud sa iyang naghinobra nga pagpugong sa kaugalingon.
+
+Apan ang iyang igsoon, nagantos sa atbang nga problema. Kusog kaayo ang iyang pagkaibug sa mga butang nga ginadili. Iyang gisulayan ang druga, paginum og mga bino, ug kanunay siya moadto sa mga sugalan ug dili maayo nga mga binuhatan. Naanad siya sa pagkaon sa mga pagkaon nga iyang nahibaloan nga ginadili. Wala usab magdugay nagmasakiton siya hangtod namatay tungud sa pagpatuyang sa kinabuhi.
+
+Sayup ba kaayo ang nadawat nga edukasyon niadtong mga bataa? Kon buut sabton, dili ba kinahanglan atong buhaton ang labing maayo aron paglikay sa sala? Ang sayup nga edukasyon nga ilang nanaway mao nga wala gayud sila makahibalo kon unsa gayod ang sala. Ni nakasabut sila ngano nga daotan ang sala; busa, wala sila mahatagi sa paagi sa pakigaway batok niini. Niini nga leksyon, atong tagdon ang pagsabut kon unsa ang sala ug unsaon nato pagbuntog niini.
+
+### Bahin II: Komentaryo
+
+**Unsa ang Sala, ug Ngano nga Daotan man ang Sala?**
+
+**Napakyas sa Pagila sa Sala.** Kung mapakyas kita sa pagtawag sa sala sa matuud nga ngalan niini, nagdugang kita ngadto sa problema bahin sa sala. Pananglitan, kon mapakyas kita sa pagngalan sa pagpanapaw nga sala, mameligro kita sa pagpagamay sa hulga niini ug, labi pa ka ngil-ad, sa pagisip niini nga normal.
+
+Ang problema sa pagkapakyas sa pagtawag sa sala sa tinuud nga ngalan niini sa partikular popular kaayo sa daghang mga kultura karon. Sa kalibutanong katilingban, tingali atong likayan paggamit ang pulong “sala” tungud sa daghang mga katarungan. Nahauna, ang kalibutanong katilingban tingali maglikay paglitok nga pulong “sala” tungud kay adunay relihiyoso nga mga gipasabut niini. Sa kadaghanang mga tawo, walay ilhon nga sala; nagpasabut lang kini og usa ka butang nga gidili sa Dios o sa rilihiyon. Kadaghanan sa mga tawo nga walay pagtuo sa Dios ug walay pagsubay sa moral nga mga sulondan sa rilihiyon, walay butang nga gitawag og sala. Molitok lang sila og mga sayup, mga krimen, dili maayong mga pamatasan sa katilingban, apan dili sala, busa, walay kalabutan o gani giila nga usa ka pangataki sa ilang mga kagawasan. Apan usa ka mahinungdanon kaayo nga mga sangputanan sa atong pagdumili sa pagila sa sala maoy pagpabilin diha sa pagkawalay kahibalo kon unsay daotan. Busa, alang sa kalibutanong panghunahuna, ang pagpalihok alang sa paglikay gikan sa paghimo og “sayup” dili tungud kay kini dili maayo o daotan; kondili, ang paglikay maoy usa lamang ka sosyal o sibil, nga panghunahuna. Ang sekular nga hunahuna dili moila nga kini mga sala, kay wala man kini mahibalo kung unsa ang gitawag sa Biblia nga “kahadlok bahin sa Dios.”
+
+Sa pagpanaw ni Abraham ngadto sa langyaw nga yuta, nabalaka siya nga tingali masaypan siya sa maayong pagtagad tungud kay ang mga tawo walay kahadlok sa Dios (Genesis 20:11) nga naggahum sa ilang mga kasingkasing. Busa, ang konsepto bahin sa “sala” langyaw ngadto kanila. Tungud lang kay konsepto ngadto kanila, wala magkahulogan, nga kadtong walay pagila sa sala dili responsable alang sa ilang mga sala. Bisan kadtong ignorante sa ilang mga sala dili motoo sa Dios sa Israel, kining sama nga Dios maoy maghukum kanila, ingon ka siguro nga Siya ang maghukum sa Iyang katawhan (Amos 1, 2). Alang niadtong nahibalo nga sila “nakasala” apan nagdumili sa pagila niini sa ingon, apan moingon nga wala sila makasala, nagsaad ang Dios nga Iyang himoan og kaso sila batok kanila (Jeremias 2:35).
+
+Sala Ingon nga Usa ka Pagtuis. Ang Hebreo nga pulong alang sa sala kht’ nagkahulogan sa literal “napakyas pag-igo sa marka.” Ang “sala” gisabut ingon nga usa ka “pagtipas,” o usa ka “pagtuis,” gikan sa orihinal nga “tul-id” nga dalan. Ang Ecclesiastes naghulagway sa tawhanong kahimtang ingon nga makapasubo nga “pagkahiwi”; dili na kini matul-id: “Kadtong baliko dili na matul-id” (Ecclesiastes 1:15). Tungud niini nga katarungan, ang buhat sa “pagpakasala” nadugtong sa problema sa “paghikalimot,” sa pagpasabut ngadto sa usa ka kahimtang kaniadto nga dili na malukat, nawala tungud sa paglabay sa panahon. Busa, ang pagkaanaa sa daghang biblikal nga mga pahayag diin ang manalagna nagawhag sa katawhan sa Dios sa dili paghikalimot, basin mahulog sila ngadto sa sala nga dili makaamgo (Deuteronomio 6:12, Deuteronomio 32:18; itandi sa Santiago 1:24).
+
+**Sala Batok sa Dios.** Sa karaang Israel, ang sala adunay usa ka relihiyoso nga buhat nga adunay direkta nga kalabutan sa Dios, sama, pananglitan, sa pagsimba og diosdios (Deuteronomio 9:16)) o pagkadili-matinumanon ngadto sa Dios (Deuteronomio 1:41). Inhustisya, o dili maayong pagtagad batok sa mga tawo, giila usab nga sala batok sa Dios.
+
+Sa pagsukol ni Jose batok sa unodnong pangibug sa asawa ni Potiphar, nga milingla kaniya sa pakigdulog, iyang giila ang iyang sugyot nga dili lang usa ka salaod ngadto sa iyang bana, kondili usa usab ka sala batok kang Jehova (Genesis 39:9). Sa pagpanapaw ni David kang Batseba ug sa iyang bana, sa pagpapatay niya kang Uria nga Hetihanon, iyang nasabtan sa ulahi nga sa pagbuhat sa ingon, nakasala siya batok kang Jehova (2 Samuel 12:13).
+
+Sa ulahi sa kasaysayan sa Daang Tugon, giatubang sa mga managlagna ang mga nasod ug ang Israel sa pagbuhat sa mga salaod sa pagpangdagmal ug buhat sa dili maayong pamatasan nga nakadaot sa uban (Amos 1:11, Amos 2:6–8). Gani gipalapdan pa gayod ni Miqueias sa pagpasantop ang pagkalabing hataas sa katungdanan sa maayong pamatasan ibabaw sa relihiyoso nga mga tulomanon (Miqueas 6:6–8).
+
+Nagpadayon ang Bag-ong Tugon sa sama nga tudling. Alang kang Jesus, kon makasala kita batok sa atong mga silingan o mapakyas sa pagatiman kanila, ingon og nakasala kita o wala magtagad Kaniya (Mateo 25:45). Alang kang Pablo, kon makasala ikaw batok sa imong mga igsoong lalaki, “nakasala ikaw batok kang Cristo” (1 Corinto 8:12). Bisan kon makasala kita batok sa atong mga kaugalingon sa atong kaugalingong lawas, nakasala kita batok sa Dios. Ang kaatbang tinuud usab: ang unang sala nga nabuhat ni Adan batok sa Dios adunay kalabutan sa iyang kinabuhi ug sa iyang palibut (Genesis 3:17–19). Ang sala maoy hinungdan sa kamatayon alang sa tanang mga tawo (Genesis 2:17), usa ka prinsipyo nga gisubli diha sa Biblia (Proverbio 8:36, Ezequiel 18:4, Roma 5:12). Tungud kay ang atong lawas mao ang templo sa Espiritu Santo, ang pagpakasala batok sa atong lawas mao ang pagpakasala batok sa Dios (1 Corinto 8:18, 19).
+
+**Unsaon Nato Pagpakig-away sa Sala?**
+
+**Kahibalo Bahin sa Sala.** Kita walay mabuhat batok sa sala pinaagi sa atong kaugalingong kusog. Busa, ang unang sulbad ngadto sa problema mao lamang ang pagila sa sala ug pagsabut nga mao gayod kini ang kinaiyahan sa daotan. Tungud niana nga katuyoan, nagkinahanglan kita sa balaod sa Dios. Kay “pinaagi sa kasugoan nagaabut hinoon ang kahibalo mahitungod sa sala” (Roma 3:20). Busa, ang balaod gipanig-ingon sa usa ka “magtutudlo” nga maoy magdala kanato ngadto kang Cristo (Galacia 3:24). Maingon sa magtutudlo panahon sa karaang katilingbang Grego nga maoy magagiya sa bata ngadto sa iyang agalon, ang balaod sa Dios magagiya kanato ngadto kang Cristo. Samtang kita maningkamot niana nga pagpakigbisug uban sa balaod sa pagkamatarong, atong maamgohan kon unsa ka lisud ug pagkawalay-kalauman nato. Busa atong maamgohan nga ang atong kalauman lamang mao ang pagdawat sa grasya sa Dios.
+
+**Ang Dalan ni Adan ug Eva.** Atong tagdon ang pagsugid ni Adan ug Eva sa ilang sala. Sa usa ka bahin, atong masabtan nga ilang naamgohan ang ilang paglapas sa balaod sa Dios tungud kay nanago sila gikan sa presensya sa usa ka matarong nga Dios (Genesis 3:6–10). Sa pikas nga bahin, sa pagsugo sa Dios kanila sa pagpaila sa ilang mga kaugalingon ug dayon pagsugod sa pagsusi kon unsay nahitabo, silang duha mitubag pinaagi sa pagbasol sa Dios uban sa ilang sayup nga nabuhat. Gipahinungod ni Adan ang iyang pagkahubo, nga maoy orihinal nga kahimtang sa pagbuhat sa Dios kaniya (Genesis 2:25), ug dayon ngadto sa babaye, nga gihatag sa Dios ngadto kaniya (Genesis 3:12). Gani gibasol ni Eva ang bitin, nga gibuhat sa Dios (Genesis 3:1, 13).
+
+Ang bugtong pahayag nga nagbutyag sa epekto sa sala diha sa kinaiyahan ni Adan ug Eva makaplagan diha sa Genesis 3:22, 23, diin ang Dios nakamatikod nga si Adan ug Eva sa orihinal sama sa Dios. (Timan-i nga ang Hebreo nga berbo hayah, gihubad nga “nahimong” diha sa Genesis 3:22, kinahanglan hubaron ingon nga “was” diha sa past tense, maingon diha sa Genesis 3:1). Ang komon nga hubad “nahimong” maoy sayup nga sugyot nga ang sala nagtimaan sa paguswag sa ilang kahimtang. Sa dugang pa, kana nga hubad naghatag sa panghunahuna nga husto ang bitin sa iyang pagpasidaan kang Eva nga dili gusto ang Dios kaniya ug kang Adan nga mahimong sama Kaniya (Genesis 3:5). Sa pagkatinuud, gisaway sa Dios ang makapasubo nga katinuuran nga, human sa sala, si Adan ug Eva nawad-an sa ilang pagkasama Kaniya. Ang Dios lamang ang nagila sa tinuud nga negatibo nga epekto sa sala diha kanila. Wala makahimo si Adan ug Eva sa pagkompisal sa sala tungud kay nawad-an sila sa pagkadugtong uban sa Dios. Kung wala pa makasala si Adan ug Eva, ang ilang pagkadugtong uban sa Dios nagtugot kanila sa pagila sa katinuuran sa sala. Sa ilang pagbiya gikan sa presensya sa Dios, nawad-an sila sa ilang katakus sa pagila tali sa maayo ug daotan. Sumala sa gipahayag ni Ellen G. White: “Pinaagi sa pagsagol sa daotan uban sa maayo, ang iyang (Adan) hunahuna nalibug, ang iyang utoknon ug espirituhanong mga gahum namanhod. Dili na siya makahimo pagpasalamat sa maayo nga gihatag sa Dios sa libre.”—Education, p. 25.
+
+Ang nahauna nga leksyon nga atong matun-an gikan sa pagkahulog sa tawo mao lamang kini: tungud kay nakasala ang mga tawo, nawala kanila ang kinaiyahan sa pagsabut, ang katakus sa pagila sa kalainan tali sa maayo ug daotan. Busa, gawas sa Dios, dili kita makahimo sa pagpalihok niana nga hukum sa malampuson. Tungud niini nga katarungan, gihatagan kita sa Dios sa balaod ug ebanghelyo. Atong gikinahanglan ang balaod sa paggiya kanato sa husto nga dalan. Sa sama nga paagi, atong gikinahanglan ang grasya ni Cristo sa pagtabang kanato sa paglakaw uban sa paglaum ug gugma niana nga dalan.
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+**Sugyot sa Magtutudlo:** Paghangyo og usa ka bulontaryo sa pagbasa sa mga pamalandong bahin sa sala sa ubus. Hatagi og panahon alang sa diskusyon sa kadugtong nga mga pangutana nga mosunod o alang sa pagpaambit og mga pamatuud sumala sa gipakita sa ubus.
+
+**Alang sa Pamalandong:** Ang Sala Dili ba Gayod Sala Sukad?
+
+Usa ka Cristohanong lalaki nakapanapaw. Sa pagsukmat sa iyang mga higala kaniya sa iyang pagkadili maunongon, miinsister siya nga dili kadto sala kay nahigugma man siya sa babaye. Tungud kay ang Dios gugma, nangatarongan ang maong tawo nga giuyonan sa Dios ang iyang gibuhat. Sa ulahi, nalambigit na usab kini nga tawo sa laing babaye, ug lain pa gayod nga babaye human niadto. Sa pagsukmat na sa iyang mga higala kaniya niini nga ulahi nga mga kaagi ug gipangutana siya kon giuyonan ba gihapon sa Dios ang iyang nabuhat, mitubag ang tawo nga dili na siya motoo og Dios.
+
+**Alang sa Diskusyon:**
+
+1. Paghunahuna og mga kahimtang sa imong kinabuhi ug sa mga kinabuhi sa imong mga higala o diha sa mga balita, diin gipakamatarong ang sala ug gani gihulagway nga usa ka maayong aksiyon. Unsay epekto niana nga mga paghunahuna o batasan sa moralidad sa katilingban? Ngano nga peligro man kaayo kini nga panghunahuna?
+2. Paghunahuna og mga kahimtang gikan sa Biblia, sa kasaysayan, ug sa presente nga panghitabo diin ang makasusubo sa dili pagila sa pagkatinuud sa sala makahatud sa usa ka tawo ngadto sa iyang dugang nga pagkaalaut?
+3. Unsa nga mga pangatarongan imong gamiton sa pagtabang og usa ka tawo, lalaki o babaye, sa pagatubang o pagila sa katinuuran sa iyang sala?
+
+**Alang sa Pamalandong:** Sala ug Kalipay. Pinasikad sa iyang buhat tali sa mga pamatasan ug kalipay, si Henri Baruk nga sikyatrista nakaingon: “Ang usa ka tawo makakaplag og kalipay sa pagbuhat og maayo ngadto sa uban. Dili kita magmalipayon sa pagpangita sa atong kaugalingong kalipayan. Ang tawo nga mangitag kalipayan dili gayud makakaplag niini” (Henri Baruk, diha sa Shabbat Shalom, December 1996).
+
+1. Hangyoa ang mga sakup sa klase sa paghatag og mga pamatuud bahin sa kalipayan nga ilang nabatonan gikan sa pagbuhat og maayo ngadto sa uban.
+2. Tinguhaa ang pagtabang og usa ka tawo sa pisikal, pinansiyal, o espirituhanong panginahanglan niini nga semana.

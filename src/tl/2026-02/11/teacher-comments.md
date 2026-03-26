@@ -1,0 +1,60 @@
+---
+title:  Komento ng Guro
+date:   12/06/2026
+---
+
+#### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Job 42:5, 6.
+
+**Pokus ng Pag-aaral:** Genesis 50:20, Roma 8:28, Job 10:9, Job 13:15, Job 19:23–27, Lucas 24:13–35
+
+Bilang mga tapat na Kristiyano, maaari tayong magtiwala na iingatan tayo ng Diyos laban sa kasamaan at kapahamakan, at may mabigat tayong dahilan para isipin na gagawin Niya iyon. Sapagkat nangako ang Diyos na iingatan at pagpapalain Niya tayo (Bilang 6:24). Nagsisikap din tayong parangalan Siya sa lahat ng ating ginagawa, upang hindi natin sayangin ang pagpapalang ito o angkinin ito nang padalus-dalos. Gayunman, maaari pa rin tayong magkasakit at dumanas ng kawalang-katarungan at pang-aapi sa buhay na ito. Sa mga panahong gaya nito, tayo ay dumaraing sa Diyos para sa tulong.
+
+Hindi naman natatangi ang ating mga pagsusumamo sa Diyos sa gitna ng madidilim na yugto ng buhay. Puno ang Biblia ng mga lalaki at babaeng maka-Diyos na dumanas ng pagdurusa at tumawag sa Kanya. Ang aklat ng Mga Awit ay hitik sa mga panawagan ng mga banal na humihingi sa Diyos na iligtas sila mula sa kasamaan (Awit 71:4; Awit 97:10). Lalong malinaw ito sa aklat ng Job. Si Job ay isang taong maka-Diyos, at gayunman, sa kabila ng kanyang katapatan, dumaan siya sa matinding kapighatian at dalamhati. Hindi niya nauunawaan ang dahilan ng kanyang pagdurusa. Sa matinding pighati, siya ay dumaraing sa Diyos sa harap ng tila napakalaking kawalang-katarungan. Dapat nating pagtuunan ng pansin ang kaso ni Job sa mismong dahilang ito. Naranasan ni Job ang biyaya ng Diyos sa magkabilang dulo ng ligaya at sakit. Sa pagitan ng dalawang dulong ito na humuhugis sa mahirap niyang tunggalian, si Job ay natutong umasa.
+
+### Ikalawang Bahagi: Komentaryo
+
+**Ang Karanasan ng Biyaya.** Nagsisimula ang aklat ng Job sa isang mariing pahayag tungkol sa dakilang mga birtud ni Job. Ayon sa may-akda ng Biblia, si Job ay “sakdal at matuwid” (Job 1:1). Itinuturing din si Job na “pinakadakila sa lahat ng mga tao sa Silangan” (Job 1:3). Maging ang Diyos ay nagpapatotoo sa pagiging natatangi ni Job, na sinasabi, “Walang gaya niya sa lupa” (Job 1:8). Sa lahat ng pagtataya kay Job, siya ay isang ganap na tao. Gayunman, sa dulo ng aklat, bilang tugon sa Diyos, ipinahahayag ni Job na noong panahong siya ay hinatulang “sakdal,” ang kanyang kaugnayan sa Diyos ay nasa pasimula pa lamang: “Narinig kita sa pakikinig ng tainga, ngunit ngayo'y nakikita Ka ng aking mata” (Job 42:5). Kaya kinikilala ni Job na may isang mahalagang bagay na pumigil sa kanya noon upang tunay na “makita” ang Diyos.
+
+Ano iyon?
+
+Ang masusing pagbasa sa teksto ng Biblia, lalo na ang paulit-ulit na paggamit ng salitang Hebreo na khinam na ang ibig sabihin ay “walang dahilan” o “walang kapalit,” ay tutulong upang malutas ang tanong na ito. Unang lumilitaw ang salitang khinam sa aklat ng Job sa anyo ng tanong nang sumagot si Satanas sa Diyos matapos purihin ng Diyos ang kabanalan ni Job: “Natatakot ba si Job sa Diyos nang walang kapalit [khinam]?” (Job 1:9). Ipinapalagay ni Satanas na labis ang pag-iingat ng Diyos kay Job. Upang patunayan ang kanyang punto, hinamon ni Satanas ang Diyos: Hayaan akong pagbuhatan ng kamay ang lahat ng pag-aari ni Job; iyon ay, salakayin ang “lahat ng pag-aari niya” (Job 1:11). Taya ni Satanas na magkakasala si Job. Pinahintulutan ng Diyos na ang lahat ng ari-arian ni Job ay mapasailalim sa nakapipinsalang kapangyarihan ni Satanas. Isang pagsalakay ng mga Sabeo, isang apoy mula sa langit, at isang malakas na hangin ang puminsala sa kanyang mga pag-aari (Job 1:13–19). Pagkatapos ng pagkawasak, nawala kay Job ang lahat ng meron siya. Nanangis si Job, ngunit hindi siya nagkasala (Job 1:22).
+
+Bilang tugon sa paratang ni Satanas, ginamit ng Diyos ang gayon ding salita, khinam, na ginamit ni Satanas nang sabihin niyang binabakuran ng Diyos si Job. Sinabi ng Panginoon, “Ako'y inudyukan mo laban sa kanya, upang sirain siya nang walang kadahilanan [khinam]” (Job 2:3). Pinagtitibay ni Job ang diwang ito nang gamitin rin niya ang salitang iyon sa kanyang daing sa Diyos tungkol sa kanyang mga sugat, na dumami nang khinam, “walang kadahilanan” (Job 9:17).
+
+Ang salitang khinam, na nagmumula sa salitang khen na nangangahulugang “biyaya,” ay isang mahalagang susing-salita na nagtatakda a sa kapalaran ni Job. Sa isang banda, si Job ay nagdurusa “nang walang dahilan” (khinam). Sa kabilang banda, inaakusahan si Job na naglilingkod sa Diyos dahil sa pansariling pakinabang at pagnanasang umunlad. Ang paratang na ito ni Satanas ay umuugong din sa mga hinala ng mga kaibigan ni Job (Job 34:9; Job 35:3). Sa katunayan, tila sinasang-ayunan pa ito ni Job nang bilangin niya ang kanyang mabubuting gawa (Job 29:12–17; Job 31:1) at inihayag ang kanyang inaasahang gantimpala para sa mga ito (Job 29:18). Ngunit ang kulang sa relasyon ni Job sa Diyos ay ang karanasan ng tunay na biyaya. Kinailangan niyang pagdaanan ang karanasan ng pagdurusang “walang dahilan,” “walang kapalit,” ibig sabihin, nang walang inaasahang pakinabang, upang maunawaan ang hindi karapat-dapat na kaloob na biyaya ng Diyos.
+
+**Ang Suliranin ng Pagdurusa.** Binibigyang-diin ng aklat ng Job na si Satanas ang nagpasimula ng pagdurusa sa sangkatauhan (Job 1:12). Ang Diyos mismo ay nagpapatunay sa pananagutan ni Satanas sa pagdurusa ni Job (Job 2:6). Napakalinaw ng pagkasabi ni Ellen G. White kung sino ang dapat sisihin sa pagdurusa ni Job: “Ipinakita ng kwento ni Job na ang pagdurusa ay ipinataw ni Satanas.”—The Desire of Ages, p. 471. Itinuturo rin ni Jesus na ang kaaway ang sanhi ng pagdurusa (Mateo 13:28). Kung gayon, mali ba si Job nang ipahiwatig niya na ang Diyos ang dahilan ng kanyang paghihirap?
+
+Sa buong aklat, iniuugnay ni Job sa Diyos ang pananagutan sa kaniyang paghihirap (Job 10:3) at Siyang dumurog sa kanya (Job 16:12). Iginiit din ni Job, “Kung hindi Siya iyon, kung gayo'y sino?” (Job 9:24). Gayunman, sa dulo ng aklat, tumutugon ang Diyos sa mga pahayag ni Job sa pamamagitan ng pag-isa-isa ng Kanyang mga gawa ng Paglalang (Job 38; 39). Ang tugon ng Diyos laban sa pahayag ni Job na Siya ang tagapagwasak ay ito: Siya ang Manlalalang. Kaya kapag inilalagay ni Job ang Diyos bilang pinagmulan ng pagdurusa, ang totoo, ipinahahayag niya ang monoteistikong paninindigang iisa lang ang Diyos, iisa ang kapangyarihan, na sa kahuli-hulihan ay may kapamahalaan sa nangyayari sa sangkatauhan. Ipinahayag ng Panginoon sa pamamagitan ni Moises ang diwang ito: “Tingnan ninyo ngayon, ako, samakatuwid ay Ako nga, at walang diyos liban sa akin; Ako'y pumapatay at Ako'y bumubuhay; Ako'y sumusugat at Ako'y nagpapagaling; at walang makakaligtas sa Aking kamay” (Deuteronomio 32:39). Ang paradoks na ito ay humuhubog sa mismong laman at uri ng pananampalataya ni Job.
+
+Gaya ng bantog na sinabi ni Job tungkol sa Panginoon, “Bagaman ako'y patayin Niya, ako'y aasa pa rin sa Kanya” (Job 13:15). Ang Hebreong may pananampalataya ay naniniwalang ang mabuti at maging ang masama ay nagmumula sa kamay ng Diyos (Kawikaan 16:4), sapagkat alam niya ang reyalidad ng kabutihan at biyaya ng Diyos at nagtitiwala siya, anuman ang masasamang kalagayan at pangyayari sa buhay (Genesis 50:20; Roma 8:28).
+
+**Ang Pangitain ng Muling Pagkabuhay.** Kay Bildad na kaibigan ni Job, na halos tuwirang inaakusahan siyang masama (Job 18) at hindi kumikilala sa Diyos at, dahil dito, karapat-dapat na bumaba sa libingan (Job 18:21), tumugon si Job: “Sapagkat nalalaman ko na ang aking Manunubos ay nabubuhay, at sa wakas Siya'y tatayo sa lupa” (Job 19:25). “At pagkatapos na masira nang ganito ang aking balat, gayunma'y makikita ko ang Diyos sa aking laman” (Job 19:26). Sa dalawang talatang ito, pinagtitibay ni Job ang kanyang pananampalataya sa muling pagkabuhay na magaganap sa katapusan ng panahon, kapag “ang aking Manunubos” na “buhay” ngayon “ay tatayo sa lupa” (Job 19:25). Mula sa kanyang naghihirap na katawan, hinugot ni Job ang paradoks ng pag-asa: “Pagkatapos na masira nang ganito ang aking balat, gayunma'y makikita ko ang Diyos sa aking laman” (Job 19:26).
+
+Sa talatang ito, hindi tinutukoy ni Job ang isang karanasang pangkasalukuyan sa kanyang buhay. Hindi rin niya tinutukoy ang personal na pagiging imortal pagkatapos niyang mamatay. Ang pangyayaring binabanggit niya ay kabilang sa isang pandaigdigang kaganapan na may kinalaman sa “lupa,” isang eskatolohikal na pangyayari sa malayong hinaharap, ’akharon, “huli,” o ang kahuli-hulihang araw. Ito ay walang iba kundi ang muling pagkabuhay ng mga patay, kung kailan siya, “sa kanyang laman” (Job 19:26), ay makikita ang Diyos, ang kanyang Manunubos, sa pamamagitan ng sarili niyang mga mata (Job 19:27).
+
+Sa kanyang muling pagtugon sa huling mga salita ni Bildad (Job 18:21), tinapos ni Job ang kanyang pahayag sa pamamagitan ng babalang ito: “upang inyong malaman na may paghuhukom” (Job 19:29). Kaya ang pag-asa ni Job sa kanyang muling pagkabuhay ay nakaugnay sa araw ng paghuhukom, gaya rin sa aklat ni Daniel (Daniel 12:1–3). Ipinaaalala ni Jesus ang pag-asang ito kay Marta sa araw ng muling pagkabuhay ni Lazaro (Juan 11:23). At ipinangaral ni Pablo ang mapalad na pag-asa sa mga tumatanggi dito (1 Corinto 15:12–19). Ito ang huling mensahe ng Biblia: ang kaisa-isang solusyon sa problema ng sanlibutan ay ang paglalang ng Diyos ng “isang bagong langit at isang bagong lupa,” kung saan “hindi na magkakaroon ng kamatayan; hindi na rin magkakaroon pa ng pagdadalamhati, o ng pagtangis man, o ng kirot man” (Apocalipsis 21:1, 4).
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+**Payo para sa Guro:** Ang mga sumusunod na tanong ay maaaring talakayin ng buong klase o sa maliliit na pangkat, depende sa nais ninyo. Kung pipiliin ninyong hatiin ang klase sa maliliit na grupo, ay bigyan sila ng sapat na oras upang talakayin ang tanong at maglaan din ng panahon sa dulo ng klase para sa pagpapakita ng kanilang mga ideya.
+
+Hikayatin din ang mga kasapi ng klase na sa darating na linggo ay makibahagi sa isa o higit pa sa mga ehersisyong nakalista sa seksyong Mga Gawain sa ibaba. Pagkatapos, anyayahan silang ibahagi sa susunod na Sabbath ang kanilang naging karanasan. Paano pinalakas ng gawain ang kanilang pananampalataya? Paano sila nito lalo pang inilapit kay Jesus?
+
+**Mga Tanong Para sa Talakayan:**
+
+- Paano mo aaliwin ang mga taong nagdurusa nang tila walang malinaw na dahilan, gaya ng naranasan ni Job?
+- Paano ka tutugon sa mga nagdududa sa pagkamaka-Diyos at debosyong panrelihiyon ng mga taong maysakit?
+- Hilingan ang mga miyembro na sagutin ang mga sumusunod na tanong: Mananatili bang matatag ang iyong pananampalataya kung hindi pagagalingin ng Diyos ang iyong ipinapanalanging mahal sa buhay? Ipaliwanag.
+- Handa ka bang pasalamatan ang Diyos sa iyong paghihirap (halimbawa, sakit, bagsak sa pagsusulit, at iba pa), kahit ginawa mo na ang iyong makakaya? Talakayin.
+- Sinisisi mo ba ang mga mahihirap sa kanilang kalagayan? Ipaliwanag.
+- Ano ang mga argumento mo laban sa mga nagsasabing nararapat sa iyo ang iyong mga pagkabigo? Ano ang masasabi mo sa ideya na sasagutin ng Diyos ang lahat ng iyong panalangin ayon sa iyong inaasahan at na palaging matagumpay ang buhay ng bayan ng Diyos?
+- Handa ka bang pasalamatan ang Diyos sa iyong paghihirap (halimbawa, sakit, bagsak sa pagsusulit, at iba pa), kahit ginawa mo na ang iyong makakaya? Talakayin.
+
+**Mga Gawain:**
+
+- Sumulat ng sermon o eulohiya na ihahatid sa tabi ng libingan ng isang pumanaw na mahal sa buhay o kaibigan. Ipadala ito sa pamilya ng namatayan upang aliwin sila.
+- Ibahagi ang mga kuwento mula sa sarili mong buhay kung saan naranasan mo ang biyaya ng Diyos sa panahon ng pagdurusa. Matutong magpasalamat sa Diyos para sa hindi kanais-nais at sa mabubuting pangyayari sa buhay.
+- Dalawin ang isang maysakit sa ospital o isang taong may terminal na karamdaman. Anong mga salitang pang-aliw ang iyong ibabahagi sa kanya?

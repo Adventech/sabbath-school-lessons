@@ -1,0 +1,23 @@
+### Lumalago sa Pakikipag-ugnayan sa Diyos
+
+Kung ikaw man ay lumaking isang Seventh-day Adventist o bago pa sa pananampalataya; kung marami man o kaunti ang iyong nabasang Liksyon sa Paaralang Sabado; at higit sa lahat, kahit nasaan ka man sa iyong espiritwal na buhay ngayon, napakahalaga ng paksang may kinalaman sa kung paano tayo lalago sa isang makabuluhang relasyon sa Diyos.
+
+Ang paksang ito ay nakakaapekto sa lahat ng iba pang bagay. Maaaring ang iyong pagtingin sa Diyos ay naging malabo o di-tama; kung gayon, ipanalangin ang higit na kaliwanagan habang nag-aaral ka. Maaaring iniisip mo kung paano mo muling mapapalakas ang iyong debosyonal na buhay (panalangin at pag-aaral ng Bibliya), o baka naman pinag-iisipan mo ang iba pang aspeto na nakakaapekto sa iyong relasyon sa Diyos, tulad ng papel ng kapalaluan at pagpapakumbaba, pananampalataya at kaalaman, kasalanan at batas ng Diyos, pagsisisi at kapatawaran, kung paano malalampasan ang mga hadlang at pagsubok, at kung paano palalakasin ang iba sa kanilang paglalakad kasama ang Diyos.
+
+Ang iyong relasyon sa Diyos ang pinakamahalagang relasyon sa iyong buhay. Huwag ipagpaliban ang pagtatatag nito, pagpapalakas nito, at paggawa nito nang kasing tibay ng maaari. Ngayon—hindi sa hinaharap—ang panahon upang pag-ibayuhin ang relasyong ito, na makakaapekto sa lahat ng iba pa: iyong kasal (kung may-asawa), iyong pagiging magulang (kung may anak), iyong mga pakikipagkaibigan, iyong mga pinansiyal na desisyon, ang iyong mga libangan, ang iyong mga mithiin . . . at siyempre, ang iyong walang hanggang kapalaran.
+
+Dahil ang paksang ito—ang hangarin ng Diyos na makipag-relasyon sa sangkatauhan—ay sumasaklaw sa buong Biblia, maraming anggulo, kwento, at mga talata sa Biblia ang maaaring gamitin upang ituro ang mahalagang paksang ito. Ngunit dahil limitado ang espasyo sa Liksyon sa Paaralang Sabado, maaari lamang tayong magtuon sa ilang piling halimbawa.
+
+Ano man ang kalagayan ng iyong relasyon sa Diyos ngayon, isinulat ang mga liksyong ito para sa iyo. Sa huli, ang layunin ay muling pukawin ang iyong pag-ibig at pagtatalaga kay Jesu-Cristo habang muli mo Siyang hahanapin ngayong tremestreng ito sa pamamagitan ng labing-tatlong maikli at tutok na mga liksyon.
+
+Dahil ang paksa ay tungkol sa mga relasyon, medyo naiiba ang paraan ng pagkakasulat ng Liksyon sa Paaralang Sabado na ito kumpara sa mga nauna. Mas personal ang estilo ng mga aralin dahil tungkol ito sa isang personal na Diyos na nagnanais na makilala ka nang personal.
+
+Sabi ni Ellen G. White, “Ang isang matatag na buhay kay Cristo ay isang dakilang himala.”—The Desire of Ages, p. 407. Ginamit ng Biblia ang metapora ng karera upang ilarawan ang paglalakbay ng buhay kasama ang Diyos. Ang gantimpala natin ay isang di-nasisirang korona (1 Corinto 9:24, 25) at buhay na walang hanggan kasama ang Diyos. Ang ating espiritwal na karera ay isang marathon, hindi isang sprint. May mga pagkakataon na tayo ay humihinto o nahuhulog. Nangyayari ito, at kapag ito ay nangyari, tumayo tayo at magpatuloy. Dapat manatili tayo sa landas sa kabila ng mga pagsubok at paghihirap (Hebreo 12:4-11). At hindi tayo nag-iisa sa karerang ito; kasama natin ang iba pang mananakbo na nagmamahal kay Jesus at sa Kanyang Salita. Pinakamahalaga, ipinangako ni Jesus ang Mang-aaliw. “At hihingin Ko sa Ama, at kayo'y bibigyan Niya ng isa pang Mang-aaliw, upang makasama ninyo Siya magpakailanman. Ito ang Espiritu ng katotohanan na hindi kayang tanggapin ng sanlibutan; sapagkat Siya'y hindi nito nakikita o nakikilala man. Siya'y nakikilala ninyo, sapagkat siya'y nananatiling kasama ninyo at Siya ay mapapasa inyo” (Juan 14:16, 17).
+
+Hindi tayo nag-iisa sa karerang ito—ang Mang-aaliw ay kasama natin at nananahan sa atin upang tayo ay patatagin at pagtagumpayin ang bawat hakbang habang nakatingin kay “Jesus na Siyang nagtatag at nagpasakdal ng ating pananampalataya” (Hebreo 12:2).
+
+Habang sinusulat ko ito, ipinapanalangin ko na ang Banal na Espiritu ay kumilos sa bawat isa sa atin at sa buong iglesya upang ilapit tayo sa Diyos nang higit pa kaysa dati. Wala nang bagay na mas mahalaga kaysa sa matibay na relasyon sa Diyos.
+
+Kaya, sama-sama tayong mag-aral, upang matuto, magmahal, at mana­hanan sa Kanya.
+
+_Si Nina Atcheson ay ang tagapamahala ng kurikulum at senior editor ng Alive in Jesus Sabbath School Curriculum sa General Conference. Siya ay namumuhay upang hikayatin at sanayin ang mga taong kilalanin ang Diyos sa malalim at personal na paraan sa pamamagitan ng Kanyang Salita. Si Atcheson ay kasal kay Matt, at mayroon silang tatlong anak na tin-edyer._
