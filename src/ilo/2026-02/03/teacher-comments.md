@@ -1,0 +1,69 @@
+---
+title:  Komento Dagiti Mannursuro
+date:   17/04/2026
+---
+
+### Paset I: Pakabuklan
+
+**Kangrunaan a Teksto:** Lucas 14:11
+
+**Pakaisentroan ti Adal:** Genesis 11:5; Isaias 14:12–14; Numeros 12:3; Lucas 18:9–14; Salmo 20:7
+
+Idi napan a lawas, naipasangotayo iti panangamiris ti Apo iti naespirituan a sakit ti Laodicea: “ ‘Agsipud ta cunam, ‘Siac nabacnangac . . . ket awan ti pacasapulac iti aniaman”—‘ket dica ammo a sica ti dacsan-gasat ken marigrigat, ken napanglaw, ken bulsec ken lamolamo’ ” (Apocalipsis 3:17). Ni Juan, ti napaltiingan a mammadto, ket kinondenarna ti parikut ti naespiritualan a kinatangsit, nga isu a nairamut iti pannakaisentro ti “siak,” agraman ti panangipaganetget iti panangitan-ok iti bukod a bagi. Ti napeggad a kinapaypayso ket no naisinatayo iti Dios, awan a pulos ti mabalbalinantayo a mangparmek iti bagi. Iti kasta ngarud, mabalintayo iti agyaman ta ti mensahe ti Biblia ket maipapan iti panangrisot iti daytoy parikut ti bagi, maysa a parikut a pakaseknan iti tunggal maysa kadatayo.
+
+Daytoy a lawas intayo amirisen ti basol a kinatangsit tapno maawatan iti mekanismona ken maawatan iti peggadna. Iti dayta a kalat, agtuloytayo iti tallo nga addang.
+
+1. Umuna, intayo suroten ti panangrugi ti kinatangsit idiay langit idi panawen a plinano ni Lucifer nga agawen ti lugar ti Dios (Isaias 14:13).
+2. Sumaruno ket mapantayo iti daga a mangusisa iti aramid dagiti nangbangun iti Babel iti panawen a plinanoda a mangaramid iti nagan agpaay kadagiti bagbagida babaen iti panangbangun iti maysa a torre a dumanon iti langit (Genesis 11:4).
+3. Iti maikatlo nga addang, adalentayo ti adu a pagwadan ti kinatangsit a kadua ti maisupadi nga ulidan ti kinapakumbaba: Faraon ken Moises, Nabucodonosor ken Daniel, ken ti Fariseo ken ti agsingsingir iti buis iti pangngarig ni Jesus (Lucas 18:9–14). Daytoy maikatlo a segkay ket mangipaay iti panamagdilig a panangut-utob iti kinatangsit ken kinapakumbaba a naibatay iti sursuro iti sirib a naibatay iti Biblia (Proverbio 11:2; Proverbio 27:1, 2).
+
+### Paset II: Komentaryo
+
+**Ti Kinatangsit ni Lucifer.** Ti kangrunaan a teksto maipapan iti kinatangsit ni Lucifer ket masarakan idiay Isaias 14:12–15, iti uneg ti lawag ti padto ni Isaias a maibusor iti Babilonia (Isaias 14:3–23). Makapangayangay a paliiwen a ti pagsasao ti padto a maibusor iti Babilonia/Lucifer iti daytoy a teksto ket umas-asping iti pagsasao ti napaltiingan a pammabasol a maibusor iti iglesia ti Laodicea. Dagiti agpadpada a pammabasol ket maipapan kadagiti tuntontonen a “kinuna ni [Lucifer/Laodicea]” (Isaias 14:13; idilig iti Apocalipsis 3:17). Kas iti surat iti iglesia ti Laodicea, ti padto ni Isaias a maibusor ken Lucifer ket ipaganetgetna ti umuna-a-persona a panangkita (iti daytoy a kasasaad, ni Lucifer), nga isu a naulit-ulit iti lima a daras: “agpangatoacto,” “ibayogconto,” “agtugawacto,” “agpangatoacto,” “ipadpadconto ti bagic ken Cangatoan.” Kas iti surat iti iglesia ti Laodicea, ti padto ni Isaias ket addaan iti di napakpakadaan a napateg a punto idi nga ipadtona: “Nupay casta sica maibabacanto” (Isaias 14:15). Kadagitoy dua a padto, dagiti napaltiingan a mannurat ket iladawanda ti maysa a buya ti panagpannakkel (kas impakita ti natangsit unay a “siak”), nga isu nga awan duadua a nakondenar.
+
+Iti daytoy a pakasaritaan iti isip, iturongtayo itan ti imatangtayo iti istoria ti pannakatnag ni Lucifer. Daytoy nga istoria ket napno kadagiti naespiritualan nga ad-adal. Kitaentayo ida iti ponto por ponto:
+
+**Ti nagan a Lucifer:** Ti parikut ni Lucifer ket nalawag iti naganna. Lucifer, nga isu a naggapu iti Latin a lux ferre, “agawit ti silaw,” ket isu ti patarus ti Hebreo a nagan a heylal, “silaw,” nga isu a mangyallangogan iti pannakaipakdaar ti nadiosan a panagdayaw nga, halleluiah. Gapuna, kas iti kayat a saoen ti naganna, isingasingna a ti dakkel a gandat ni Lucifer (dayta ket, ti sinapulna iti pusona [Isaias 14:13]) ket tapno madaydayaw isuna.
+
+**Ti panagpangatona:** Tapno madaydayaw, ni Lucifer sinapulna a ngumato manipud iti ayanna a mapan iti lugar ti Dios, nga isu nga adda sadi ngato. Ti turong nga agpangato ket naulit-ulit iti namin-adu a daras agpaay iti pannakaipaganetget. Umuna, ti kangrunaan a verbo, nga isu a nangiladawan iti tignayna, ‘alah, “agpangato,” ket naaramat a namindua, kas iti immuna ken maudi a verbo ti agsasaganad nga ar-aramid idiay sasao nga “agpangatoacto sadi langit” (Isaias 14:13) ken “agpangatoacto iti rabaw ti cangatoan dagiti ululep” (Isaias 14:14). Daytoy gunay nga agpangato ket mayallangogan manen idiay verbo nga ’arim, “ibayogconto,” nga isu a litiral a kaipapananna iti “panagpangato,” a tudtudoenna ti trono ni Lucifer. Gapuna, ti makaklaat a gandat ni Lucifer a mangingato iti tronona iti “ngato dagiti bitbitwen ti Dios,” ket kayatna a saoen ti kangangatoan a bitbitwen.
+
+**Ti naisangrat a lugar a pagtungpalan:** ni Lucifer pinanggepna a danunen “ti bantay ti gimong.” Ti kapadana a teksto, idiay Ezequiel 28, ket tudtudoenna ti nasantoan a “bantay ti Dios” (Ezekiel 28:16), nga isu nga ayan iti lugar ti templo ti Dios, nga idiay a dagiti tattao ti Dios ket maurnongda tapno daydayawenda ti Dios. Ti Isaias 14:13 ket pudno unay a masinunuo nga ibagana a, daytoy a lugar ket masarakan “cadagiti caadayuan a paspaset ti amianan,” maysa a panangiladawan iti kangatoan a lugar, ti lugar ti Dios a Mismo, nga idiay a pakaidaydayawan ti Dios idiay langit. Isu met laeng a sasao ti naaramat idiay Salmo 48 a mangitudo iti lugar ti templo (Salmo 48:2).
+
+**Ti dakkel a gandat:** Ti teksto madagdagup iti maysa a pannakaipakita ti pudno a gandat ni Lucifer: “ ‘ipadpadconto ti bagic ken Cangatoan’ ” (Isaias 14:14). Dagitoy dagiti maudi a nailanad a sasao ni Lucifer idiay teksto (Isaias 14:14). Daytoy nga istoria ket iparangarangna ti natured a panagtabbaaw ti kinatangsit iti amin a kinatangsitna: agbalin a kas iti Dios. Ti pakadagdagupanna ket ballaagannatayo iti bungana. Ti kinatangsit a panggepna a mangagaw iti kangatoan a lugar idiay langit, ti lugar ti Dios a Mismo, ket pagbalinenna ti mangikut dayta nga agpatingga a “dacsan-gasat ken marigrigat, ken napanglaw, ken bulsec ken lamolamo” (Apocalipsis 3:17), idiay “cauunegan a paspaset ti dariwangwang” (Isaias 14:15).
+
+**Ti kinatangsit ti Babel.** Ti pagsasao a naaramat a mangiladawan iti trabaho dagiti nangbangun iti Babel ket yallangoganna ti pakasaritaan ti Panamarsua, nalawag unay nga ipasimudaagna ti gandat dagiti namangun a mangaddag ken mangilasin kadagiti bagbagida a kas Namarsua. Daytoy a gandat ket siguden a napakpakadaan idiay immun-una a kapitulo dagiti listaan dagiti nasnacion, nga idiay a naiyammo ti panangbangun ni Nimrod iti pagarian ti Babel agraman iti balikas a re’shit, “nangrugian” (Genesis 10:12) wenno “punganay.” Daytoy ket isu met laeng a balikas a mangiyammo iti trabaho ti Dios a Panamarsua (Genesis 1:1).
+
+Kasta met laeng, dagiti namangun iti Torre ti Babel ket ipakpakitada ti isu met laeng a tarigagay a kas ken Nimrod tapno alaenda ti lugar ti Dios. Ti sao ti Dios, wayyomer, ’Elohim, naipatarus a kas “kuna ti Dios,” nga isu a tanda ti rikos ti trabaho ti Dios iti Panamarsua, ket naaramat met ditoy a dagiti agbangbangun ti sarsaritaenna: wayy’omeru, “kinunada” (Genesis 11:3, 4). Ti nadiosan a pannakatungpal ti Panamarsua wayehi, “ket nagadda” (Genesis 1:3), ket itan iladawanna ti nagun-od ti Babel a wattehi, “adda idi cadacuada” (Genesis 11:3). Isu met laeng a sasao a mangitudtudo iti panagplano ti Dios idi pinanggepna a parsuaen ti tao—na‘aseh, “aramidentayo” (Genesis 1:26)—ket agparang manen iti uppat a daras iti panangitudo iti panagplano dagiti agbangbangun: “agaramidtay coma cadagiti ladrillo,” (Genesis 11:3), “gebbaentayo ida a nasayaat” (Genesis 11:3), “mangbangontayo” (Genesis 11:4), ken “aramidentayo” (Genesis 11:4). Uray pay iti gandatda a “pakaidayawantayo” (Genesis 11:4) ket maysa a panangagaw kadagiti kukua ti Dios, ta ti Dios ket Isuna laeng ti mangaramid iti maysa a “dakkel a nagan” (Genesis 12:2) ken Isu laeng iti makaaramid iti maysa a nagan nga agpaay Kenkuana a Mismo (Isaias 63:12, 14; Jeremias 32:20).
+
+Gapuna, dagiti agbangbangun iti Babel ket ik-ikutanda ti isu met laeng a panggep a kas ken Lucifer. Kabayatan a ni Lucifer ket adda iti sangoananda, dagiti agbangbangun kayatda ti agpangato idiay lugar ti Dios, idiay “ruangan ti Dios” (Bab-El). Ti istoria agpatingga iti maisupadi iti nagan ti torre: ti Bab-El (“ti ruangan ti Dios”), ti nagan ti natangsit a panagbangun, ket nagturong iti balal, “pannakaulaw” (kitaen ti Genesis 11:9).
+
+**Ti natangsit ken ti napakumbaba.** Ti Biblia ket saan a naglaun iti narikut a pakasaritaan iti kinatangsit ken kinapakumbaba. Dagiti naimbag a galad ken ruker ket kasayaatan a maawatan iti aramid dagiti tattao, iti panaglabas dagiti paspasamak. Gapuna, idiay Biblia, ti sursuro ti kinatangsit kontra iti kinapakumbaba ket naipakita babaen ti panamagdilig iti napakumbaba ken napalanguad a tattao: Cain vs. Abel, Jacob vs. Esau, Jose vs. dagiti kakabsatna, Faraon vs. Moises, ken Daniel vs. Nabucodonosor. Iti daytoy nga adal, ti laeng pagdumaan ni Faraon ken Moises ti maiparang.
+
+**Faraon Vs. Moises.** Idiay pangrugian ti libro nga Exodo, agpadpada a dagitoy a lallaki ket naipasangoda iti kinaisalsalumina ti Dios. Nupay kasta, agduma unay ti inaramidda iti imatang ti Dios. Ni Moises nagtignay iti Dios babaen ti panagsaludsodna Kenkuana kadagiti dua a salsaludsod. Ti umuna a saludsod ket naisentro iti mismo a bagbagina: “Asinoac?” (Exodo 3:11). Ni Moises mariknana a saan isuna a napateg iti sangoanan ti Dios ken saan a maitutop iti trabaho a mangileppas iti misyon a nakaayabanna nga aramiden. Ti maikadua a saludsod ni Moises ket maipapan iti Dios a Mismo. Kayat ni Moises a maam-ammo Isuna (Exodo 3:13) tapno mabalinna iti sumrek iti pannakikayamet Kenkuana.
+
+Iti sabali a bangir, idi mangngeg ni Faraon ti maipapan iti Dios, linibakna ti kaaddana. Saan a kas ken Moises, ni Faraon nagtukiad a mangammo Kenkuana (Exodo 5:2). Ni Faraon ket dina maawat ti kaadda ti Dios gapu ta pagarupenna nga isu a mismo ket Dios. Kas bungana, ni Faraon nagmadi a dumngeg iti sabali a dios. Ni Faraon baliktadenna ti nadiosan a bilin a bay-anna dagiti Israelitas a mapan tapno masalimetmetanda koma ti Sabado (Exodo 5:6–9) no di ket, binilinna ti Israel a mangaramid iti ad-adu pay a trabaho. Mainayon pay, ti Apo ammona ni Moises iti rupanrupa (Deuteronomio 34:10), idinto a ni Faraon ket nagtultuloy a nangtukiad iti Dios ken nagtukiad a mangipakumbaba iti bagbagina iti sangoanan ti Dios (Exodo 10:3). Kabayatan a ni Moises ket malagip a kas kapapakumbabaan a tao ditoy daga (Numeros 12:3), ni Faraon malagip a kas katatangsitan (Exodo 7–10; idilig iti Nehemias 9:10).
+
+### Paset III: Pakaipakatan iti Biag
+
+**Balakad ti Mannursuro 1:** Kasano ti ipapataytayo iti bukod a bagi? Agpadpada a napateg, kasano iti panamagtalinaedtayo iti maysa a napakumbaba nga espiritu iti panagserbitayo iti Namarsuatayo? Tapno ad-adu pay ti panangsukisoktayo kadagiti sungbat iti daytoy a topiko, basaen dagiti kapanunotan iti baba ken pagiinnadalanyo iti klaseyo dagiti salsaludsod:
+
+**Pagpanpanunotan:** Ti Apo inikkanna iti tunggal maysa kadatayo kadagiti sagsagut, agpadpada a naespirituan ken natural, tapno mabendicionan ti iglesiana. Dagitoy a sagsagut ket mabalin nga iramanda ti panagkanta, panangasaba, panangisuro, panagtulong, kinamanagpadagus, panagivangelio, panagis-istoria, kdp. Daksanggasat laeng, nalaka unay a makapukawtayo ti panangkita iti Nangited kadagiti sagsagut ken nalaka nga itan-oktayo ti tao a kalasugan.
+
+1. Ania dagiti sumagmamano a banbanag a mabalinmo nga aramiden a tumulong iti bagbagim nga agtalinaed a napakumbaba no agserbika iti Apo babaen kadagiti sagsagut nga intedna kenka a mangpadayag Kenkuana?
+2. Ania dagiti peggad ti kinatangsit ken panangitan-ok iti bagi?
+3. Apay a ti kinapakumbaba ket napateg unay no agserbi iti Apo?
+4. Saritaen dagiti sungbatmo kadagiti salsaludsod iti ngato iti lawag ti panangamin ni Pablo: “matayac nga inaldaw-aldaw” (1 Corinto 15:31). Kasano a magun-od tayo daytoy nga “ipapatay” kas isingasing ni Pablo? Apay a daytoy nga “ipapatay” ket napateg unay iti kinapakumbaba ken iti naballigi a panagserbi iti Apo?
+
+**Balakad ti Mannursuro 2:** Bingayem ti klasem iti babassit a bunggoy ken dutokam iti tunggal bunggoy iti maysa kadagiti sumaganad a pagdumaan ti kinatangsit ken kinapakumbaba: Cain vs. Abel, Abraham vs. Lot, Jacob vs. Esau, Jose vs. dagiti kakabsatna, ken Daniel vs. Nabucodonosor. Ikkan ti tunggal bunggoy iti tiempo a mangsukisok kadagiti pagdudumaanda ken mangisagana iti ababa a presentasyon iti bunga ti inadalda. Awisem ida a mangibingay kadagiti kapanunotanda idiay klase.
+
+**Cain vs. Abel** (Genesis 4): Pagdiligen ti kaipapanan ti nagan da Cain ken Abel, ti pilida a daton, ken ti tungtonganda.
+
+**Abraham vs. Lot** (Genesis 13): Utoben dagiti kababalin ti tunggal lalaki iti panangpili iti daga.
+
+**Isaac vs. Ishmael** (Genesis 18): Pagdiligen dagiti paspasamak ti panagkatawa idiay istoria. Iti ud-udina, utoben ti isusuko ni Isaac a maidaton (Genesis 22).
+
+**Jacob vs. Esau** (Genesis 27): Pagdiligen dagiti kababalin dagiti agkabsat maipapan iti kalintegan ti inauna nga anak ken ti sumaruno a panagsabatda idiay Genesis 33.
+
+**Jose vs. dagiti kakabsatna** (Genesis 37): Pagdiligen ti sungbat dagiti kakabsat ni Jose iti tagtagainepna agraman ti panagbutengda nga agibalesto isuna iti ud-udina (Genesis 50).
+
+**Nabucodonosor vs. Daniel** (Daniel 1; Daniel 3; Daniel 4): Utoben ti naparabur a kinapakumbaba ni Daniel iti sangoanan ti bilin ti ari. Pagdiligen met ti gandat ni Nabucodonosor a mangagaw iti turay ti Dios idiay Daniel 3 iti kapadasanna iti panakaipababa idiay Daniel 4.
