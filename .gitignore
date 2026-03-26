@@ -11,3 +11,4 @@ deploy-creds*
 !deploy-creds.tar.gpg
 .vscode
 .markdownlint.json
+package-lock.json
