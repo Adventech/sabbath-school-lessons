@@ -1,0 +1,186 @@
+---
+  audio:
+    - artist: Саботна школа
+      tracks:
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/01.mp3
+          target: mk/2026-02/01/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/02.mp3
+          target: mk/2026-02/01/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/03.mp3
+          target: mk/2026-02/01/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/04.mp3
+          target: mk/2026-02/01/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/05.mp3
+          target: mk/2026-02/01/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/06.mp3
+          target: mk/2026-02/01/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/01/07.mp3
+          target: mk/2026-02/01/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/01.mp3
+          target: mk/2026-02/02/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/02.mp3
+          target: mk/2026-02/02/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/03.mp3
+          target: mk/2026-02/02/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/04.mp3
+          target: mk/2026-02/02/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/05.mp3
+          target: mk/2026-02/02/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/06.mp3
+          target: mk/2026-02/02/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/02/07.mp3
+          target: mk/2026-02/02/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/01.mp3
+          target: mk/2026-02/03/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/02.mp3
+          target: mk/2026-02/03/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/03.mp3
+          target: mk/2026-02/03/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/04.mp3
+          target: mk/2026-02/03/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/05.mp3
+          target: mk/2026-02/03/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/06.mp3
+          target: mk/2026-02/03/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/03/07.mp3
+          target: mk/2026-02/03/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/01.mp3
+          target: mk/2026-02/04/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/02.mp3
+          target: mk/2026-02/04/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/03.mp3
+          target: mk/2026-02/04/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/04.mp3
+          target: mk/2026-02/04/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/05.mp3
+          target: mk/2026-02/04/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/06.mp3
+          target: mk/2026-02/04/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/04/07.mp3
+          target: mk/2026-02/04/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/01.mp3
+          target: mk/2026-02/05/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/02.mp3
+          target: mk/2026-02/05/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/03.mp3
+          target: mk/2026-02/05/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/04.mp3
+          target: mk/2026-02/05/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/05.mp3
+          target: mk/2026-02/05/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/06.mp3
+          target: mk/2026-02/05/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/05/07.mp3
+          target: mk/2026-02/05/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/01.mp3
+          target: mk/2026-02/06/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/02.mp3
+          target: mk/2026-02/06/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/03.mp3
+          target: mk/2026-02/06/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/04.mp3
+          target: mk/2026-02/06/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/05.mp3
+          target: mk/2026-02/06/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/06.mp3
+          target: mk/2026-02/06/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/06/07.mp3
+          target: mk/2026-02/06/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/01.mp3
+          target: mk/2026-02/07/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/02.mp3
+          target: mk/2026-02/07/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/03.mp3
+          target: mk/2026-02/07/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/04.mp3
+          target: mk/2026-02/07/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/05.mp3
+          target: mk/2026-02/07/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/06.mp3
+          target: mk/2026-02/07/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/07/07.mp3
+          target: mk/2026-02/07/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/01.mp3
+          target: mk/2026-02/08/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/02.mp3
+          target: mk/2026-02/08/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/03.mp3
+          target: mk/2026-02/08/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/04.mp3
+          target: mk/2026-02/08/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/05.mp3
+          target: mk/2026-02/08/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/06.mp3
+          target: mk/2026-02/08/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/08/07.mp3
+          target: mk/2026-02/08/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/01.mp3
+          target: mk/2026-02/09/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/02.mp3
+          target: mk/2026-02/09/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/03.mp3
+          target: mk/2026-02/09/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/04.mp3
+          target: mk/2026-02/09/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/05.mp3
+          target: mk/2026-02/09/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/06.mp3
+          target: mk/2026-02/09/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/09/07.mp3
+          target: mk/2026-02/09/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/01.mp3
+          target: mk/2026-02/10/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/02.mp3
+          target: mk/2026-02/10/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/03.mp3
+          target: mk/2026-02/10/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/04.mp3
+          target: mk/2026-02/10/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/05.mp3
+          target: mk/2026-02/10/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/06.mp3
+          target: mk/2026-02/10/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/10/07.mp3
+          target: mk/2026-02/10/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/01.mp3
+          target: mk/2026-02/11/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/02.mp3
+          target: mk/2026-02/11/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/03.mp3
+          target: mk/2026-02/11/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/04.mp3
+          target: mk/2026-02/11/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/05.mp3
+          target: mk/2026-02/11/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/06.mp3
+          target: mk/2026-02/11/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/11/07.mp3
+          target: mk/2026-02/11/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/01.mp3
+          target: mk/2026-02/12/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/02.mp3
+          target: mk/2026-02/12/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/03.mp3
+          target: mk/2026-02/12/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/04.mp3
+          target: mk/2026-02/12/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/05.mp3
+          target: mk/2026-02/12/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/06.mp3
+          target: mk/2026-02/12/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/12/07.mp3
+          target: mk/2026-02/12/07
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/01.mp3
+          target: mk/2026-02/13/01
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/02.mp3
+          target: mk/2026-02/13/02
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/03.mp3
+          target: mk/2026-02/13/03
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/04.mp3
+          target: mk/2026-02/13/04
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/05.mp3
+          target: mk/2026-02/13/05
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/06.mp3
+          target: mk/2026-02/13/06
+        - src: https://d2yk1szcs6cy4q.cloudfront.net/audio/202602/13/07.mp3
+          target: mk/2026-02/13/07
