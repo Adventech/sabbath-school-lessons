@@ -22,56 +22,39 @@ Koa, andeha isika hiara-mandinika, hianatra, ho tia, ary hitoetra ao Aminy.
 
 Nina Atcheson dia tonian-dahatsoratra sy mpitantana ny fandaharam-pampianarana Sekoly Sabata "Velona ao amin'i Jesosy" ao amin'ny Foibe maneran-tany. Ny fiainany dia natokany hampaherezana sy hanofanana ny hafa mba hahafantatra lalina sy manokana an'Andriamanitra amin'ny alalan'ny Teniny. Manambady an'i Matt i Atcheson, ary manan-janaka telo tanora izy ireo.
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
-
 
 **and.** andininy
 
 **b.** boky
 
-
 **DHK** Ny Dia Ho eo amin'i Kristy/Steps to Christ, EGW
-
 
 **ed.** edisiona
 
-
 **EGW** Ellen G. White
-
 
 **Ev** Evangelism, EGW
 
-
 **EW** Early Writings, EGW
-
 
 **FA** Finoana sy Asa/Faith and Works, EGW
 
-
 **FLB** The Faith I Live By, EGW
-
 
 **FK** Ny Fanabeazana Kristianina/Education, EGW
 
-
 **HF** Henoinareo ny Fanoharana/Christ's Object lesson, EGW
-
 
 **HM** Hery Mifanandrina/The Great Controversy, EGW
 
-
 **IFM** Ilay Fitiavana Mandresy/The Desire of Ages, EGW
-
 
 **MM** Mpaminany sy Mpanjaka/Prophets and Kings, EGW
 
-
 **Ms** Manuscript, EGW
 
-
 **пр** nasim-panovana
-
 
 **PM**  Patriarka sy Mpaminany/Patriarch and Prophets, EGW
 
@@ -87,19 +70,16 @@ Nina Atcheson dia tonian-dahatsoratra sy mpitantana ny fandaharam-pampianarana S
 
 **TIK** Talohan'i Kristy
 
-
 **TT** Testamenta Taloha
-
 
 **TV** Testamenta Vaovao
 
-
 **VM** Vavolombelona Mahery/The Acts of the Apostles, EGW
 
-Natontan'ny Trano Pirinty Advantista Soamanandrariny
-BP 1134 Antananarivo 101
-Lalam-pirenena mankany Toamasina (RN2), PK6
-Tel. 037 23 107 18-037 37 107 25-034 86 606 99
+Natontan'ny Trano Pirinty Advantista Soamanandrariny \
+BP 1134 Antananarivo 101 \
+Lalam-pirenena mankany Toamasina (RN2), PK6 \
+Tel. 037 23 107 18-037 37 107 25-034 86 606 99 \
 e.mail <impriad@mea.adventist.mg>
 
 Voatolotra ara-dalána: DL: 839-D/01.26

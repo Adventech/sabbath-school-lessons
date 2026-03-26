@@ -18,7 +18,6 @@ Azo antoka fa tsy misy zava-dehibe ho antsika mihoatra noho ny fananana fifandra
 
 Koa, andeha isika hiara-mandinika, hianatra, ho tia, ary hitoetra ao Aminy.
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **and.** andininy
