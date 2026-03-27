@@ -36,9 +36,9 @@ date:   05/06/2026
 
 **Hosea 6,1-6**
 
--   Diese 6 Verse sind bemerkenswert in vielerlei Hinsicht. Was fällt
-    dir auf? Was ist dir besonders wichtig? Welche Gefühle lösen die
-    gegebenen Bilder und Aussagen aus?
+-   Diese sechs Verse sind bemerkenswert in vielerlei Hinsicht. Was
+    fällt dir auf? Was ist dir besonders wichtig? Welche Gefühle lösen
+    die gegebenen Bilder und Aussagen aus?
 -   Vers 1-2: Welchen Zweck hat es, jemanden zu schlagen, nur um ihn
     dann wieder zu heilen? Welche Absicht verfolgt Gott damit? Worauf
     deutet dieses Bild?
@@ -67,7 +67,7 @@ date:   05/06/2026
 **2. Mose 34,4-10**
 
 -   Was sagen diese Verse über den Zusammenhang zwischen (1) Zehn
-    Gebote, (2) Gottes Gnade, (3) Gottes Gerechtigkeit, (4) Wunder.
+    Gebote, (2) Gottes Gnade, (3) Gottes Gerechtigkeit, (4) Wunder?
 -   Was sagt dir diese Passage über die Tiefe der persönlichen Beziehung
     zwischen Mose und Gott?
 -   Vers 7: Wie ist diese Aussage über die Gerechtigkeit Gottes bis ins
