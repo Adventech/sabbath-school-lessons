@@ -1,0 +1,162 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-Intro.pdf'
+      target: en/2026-02-pp/introduction
+      title: Introduction
+      start_date: 28/03/2026
+      end_date: 28/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-01.pdf'
+      target: en/2026-02-pp/01
+      title: Always There
+      start_date: 28/03/2026
+      end_date: 03/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-02.pdf'
+      target: en/2026-02-pp/02
+      title: Of Equal Value
+      start_date: 04/04/2026
+      end_date: 10/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-03.pdf'
+      target: en/2026-02-pp/03
+      title: Family Squabble
+      start_date: 11/04/2026
+      end_date: 17/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-04.pdf'
+      target: en/2026-02-pp/04
+      title: Mearusing Up
+      start_date: 18/04/2026
+      end_date: 24/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-05.pdf'
+      target: en/2026-02-pp/05
+      title: Love, the Greatest Gift
+      start_date: 25/04/2026
+      end_date: 01/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-06.pdf'
+      target: en/2026-02-pp/06
+      title: Too Good Not to Share
+      start_date: 02/05/2026
+      end_date: 08/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-07.pdf'
+      target: en/2026-02-pp/07
+      title: Mistaken Identity
+      start_date: 09/05/2026
+      end_date: 15/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-08.pdf'
+      target: en/2026-02-pp/08
+      title: A Chain of Grace
+      start_date: 16/05/2026
+      end_date: 22/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-09.pdf'
+      target: en/2026-02-pp/09
+      title: A Key Witness
+      start_date: 23/05/2026
+      end_date: 29/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-10.pdf'
+      target: en/2026-02-pp/10
+      title: A Friend Indeed
+      start_date: 30/05/2026
+      end_date: 05/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-11.pdf'
+      target: en/2026-02-pp/11
+      title: Keep Talking
+      start_date: 06/06/2026
+      end_date: 12/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-12.pdf'
+      target: en/2026-02-pp/12
+      title: Windows to God
+      start_date: 13/06/2026
+      end_date: 19/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-13.pdf'
+      target: en/2026-02-pp/13
+      title: God's Special Messenger
+      start_date: 20/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-Answers.pdf'
+      target: en/2026-02-pp/answers
+      title: Answers
+      start_date: 26/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-PowerTexts.pdf'
+      target: en/2026-02-pp/powertexts
+      title: Power Texts
+      start_date: 26/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-Parents.pdf'
+      target: en/2026-02-pp/parents
+      title: Parents
+      start_date: 26/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-Intro.pdf'
+      target: en/2026-02-pp/introduction
+      title: Introduction
+      start_date: 28/03/2026
+      end_date: 28/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-01.pdf'
+      target: en/2026-02-pp/01
+      title: Teacher
+      start_date: 28/03/2026
+      end_date: 03/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-02.pdf'
+      target: en/2026-02-pp/02
+      title: Teacher
+      start_date: 04/04/2026
+      end_date: 10/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-03.pdf'
+      target: en/2026-02-pp/03
+      title: Teacher
+      start_date: 11/04/2026
+      end_date: 17/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-04.pdf'
+      target: en/2026-02-pp/04
+      title: Teacher
+      start_date: 18/04/2026
+      end_date: 24/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-05.pdf'
+      target: en/2026-02-pp/05
+      title: Teacher
+      start_date: 25/04/2026
+      end_date: 01/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-06.pdf'
+      target: en/2026-02-pp/06
+      title: Teacher
+      start_date: 02/05/2026
+      end_date: 08/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-07.pdf'
+      target: en/2026-02-pp/07
+      title: Teacher
+      start_date: 09/05/2026
+      end_date: 15/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-08.pdf'
+      target: en/2026-02-pp/08
+      title: Teacher
+      start_date: 16/05/2026
+      end_date: 22/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-09.pdf'
+      target: en/2026-02-pp/09
+      title: Teacher
+      start_date: 23/05/2026
+      end_date: 29/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-10.pdf'
+      target: en/2026-02-pp/10
+      title: Teacher
+      start_date: 30/05/2026
+      end_date: 05/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-11.pdf'
+      target: en/2026-02-pp/11
+      title: Teacher
+      start_date: 06/06/2026
+      end_date: 12/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-12.pdf'
+      target: en/2026-02-pp/12
+      title: Teacher
+      start_date: 13/06/2026
+      end_date: 19/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-13.pdf'
+      target: en/2026-02-pp/13
+      title: Teacher
+      start_date: 20/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PP-TE-Parents.pdf'
+      target: en/2026-02-pp/parents
+      title: Teacher
+      start_date: 26/06/2026
+      end_date: 26/06/2026
