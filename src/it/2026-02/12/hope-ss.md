@@ -1,0 +1,36 @@
+---
+title:  Il nocciolo della questione
+date:   19/06/2026
+---
+
+### Condividilo
+
+Il nocciolo della lezione risiede in uno dei pilastri della missione di Gesù: il suo lascito non è solo un messaggio, ma un modo di essere, un way of life. «Andate e fate discepoli» non è un comando operativo, ma un invito identitario: essere discepoli per fare discepoli. In questo senso, la relazione con Dio è sempre anche relazione con gli uomini e i simili, non esiste un cammino spirituale che non diventi anche un cammino umano: la croce stessa, con il suo legno verticale e quello orizzontale, ricorda che la relazione è duplice: verso Dio e verso l’altro, verso l’Alto e verso il mondo.
+
+Eppure, proprio qui nasce una tensione profonda. Se essere discepoli comporta una responsabilità personale e relazionale, questa responsabilità può facilmente trasformarsi in un peso, in un dovere che rischia di schiacciare la spontaneità dell’incontro. È la tensione tra essere e fare: essere radicati in Cristo e, allo stesso tempo, sentirsi chiamati a portare altri verso di lui. Martin Buber ci aiuta a leggere questa ambivalenza quando afferma che «l’uomo diventa Io nel Tu»:<sup>1</sup> se il “fare discepoli” diventa un obiettivo da raggiungere costi quel che costi e dell’altro non vi è alcun interesse se non quello di portarlo a Gesù, senza entrare in una reale relazione, l’altro rischia di essere trasformato in un “esso”, in un destinatario di un progetto spirituale, e non più un “tu” da incontrare. Ma Gesù stesso non ha mai fatto discepoli “applicando un metodo”: li ha incontrati, li ha guardati, li ha chiamati per nome, il suo fare nasceva dal suo essere. Anche Carl Rogers dicendo che «la relazione d’aiuto è autentica solo quando chi aiuta è genuino, senza maschere»,<sup>2</sup> vuole dare sottolineatura a questo concetto. Se ascolto, gentilezza e cura diventano mezzi per ottenere un risultato, la conversione, il ritorno, l’adesione, allora non sono più accoglienza, ma strategia e l’altro lo percepisce, anche senza rendersene conto.
+
+Naturalmente, il dolore per chi si allontana dalla comunità o da chi stava cercando di approcciarlo, dolore che la lezione riconosce ma poi invita a sospendere, trova in Recalcati una lettura più umana e più vera anche un po’ metaforica: «il figlio non appartiene ai genitori: è un soggetto del desiderio, non un oggetto del loro possesso».<sup>3</sup> Quando un figlio si distanzia, non significa che il genitore abbia fallito nella sua testimonianza: è il segno che quel figlio sta cercando la propria strada, la propria forma, e questo movimento non è un giudizio sul mondo adulto. Tuttavia, il dolore che il genitore prova in questo passaggio non va negato né nascosto, perché fa parte del legame e dice quanto quella relazione sia importante. E proprio quel dolore, se viene attraversato con sincerità e non rimosso, può trasformarsi in una forma nuova di cura: una cura che non trattiene, non controlla, ma accompagna; una cura più libera, più matura, capace di amare senza possedere e di restare presente anche quando l’altro prende direzioni diverse. La Scrittura stessa mostra un Dio che soffre per chi si allontana ma non forza mai il ritorno: «ho amato Israele… ma essi si allontanavano da me» (Os 11:1-4). L’altro non sarà un fallimento perché non è rimasto in chiesa, ma sarà un amico che ha bisogno del suo tempo o che ha fatto una scelta diversa, per questo non sarà più un amico? Non necessita più di cure? È chiaro che chiedere di “non provare tristezza” significa chiedere di non essere umani ma la libertà deve essere presente. In questo intreccio complesso tra missione, libertà e amore, la contraddizione non è un ostacolo, ma un invito: ci chiede di ripensare il “fare discepoli” non come un condurre l’altro verso un esito, ma come un accompagnare che nasce dall’essere, come un modo di vivere che non forza, non pretende, non misura il proprio valore sul risultato. Una testimonianza che non nasce dal bisogno di riportare qualcuno indietro, ma dalla capacità, profondamente evangelica, di restare accanto.
+
+Gesù non ha mai chiesto ai suoi di diffondere un’idea astratta o un sistema dottrinale, ma di condividere una vita, la sua vita, quella che prende forma nell’incontro, nella cura, nella prossimità. Il Vangelo non è un contenuto da trasmettere, ma una presenza da incarnare: «da questo tutti sapranno che siete miei discepoli: se avete amore gli uni per gli altri» (Gv 13:35), lo ha affermato Romano Guardini dicendo: «Il cristianesimo non è un’idea, ma un avvenimento: l’incontro con Cristo».<sup>4</sup>
+
+Non vi sono consigli tecnici per approcciare l’altro, né strategie per “entrare in relazione”, perché la relazione evangelica non nasce da un metodo ma da un modo di essere. Gesù non ha mai consegnato ai suoi un manuale di istruzioni su come avvicinare le persone: ha mostrato che ogni incontro autentico nasce da un interesse sincero, non da un secondo fine. La relazione, quando è vera, non è mai strumentale perché non si avvicina qualcuno per portarlo da qualche parte, ma per riconoscerlo nella sua unicità. È per questo che ogni approccio deriva dall’essere, non dal fare. Mi viene in mente che anche Gesù non si avvicina a Zaccheo per convertirlo, ma perché lo vede (doveva essere anche buffo sull’albero!) e lo chiama per nome; non parla alla Samaritana per convincerla, ma per ascoltarla e rivelarle la sua sete più profonda. È da questa qualità dello sguardo che nasce ogni annuncio: quando l’altro percepisce che non è oggetto di un progetto, ma destinatario di una cura, allora la relazione diventa spazio di libertà e, in quello spazio, se vuole, può nascere anche la fede. Ma non perché qualcuno l’ha guidato, bensì perché qualcuno l’ha amato.
+
+L’incontro autentico nasce quando due persone si muovono l’una verso l’altra con disponibilità interiore, apertura e attenzione, e in questo movimento condiviso ciascuno porta la propria storia, le proprie domande e la propria verità, lasciando che l’altro le tocchi e le trasformi. La reciprocità non consiste in una simmetria perfetta, ma in una disposizione profonda a lasciarsi raggiungere: ogni persona che entra nella relazione diventa occasione di rivelazione, perché introduce un elemento nuovo che amplia l’orizzonte dell’altro e lo invita a riconsiderare ciò che credeva già definito. Quando questo scambio avviene, la relazione si dilata e diventa un luogo in cui emergono significati inattesi, intuizioni che non appartengono a uno solo ma che nascono proprio dall’incontro tra due libertà.
+
+### Domande per la Riflettere
+
+Che cosa accade dentro di me quando incontro davvero un’altra persona e mi lascio toccare dalla sua storia, dalle sue domande e dalla sua verità?
+
+In quali momenti ho sperimentato una reciprocità autentica, in cui io e l’altro abbiamo generato insieme qualcosa che da soli non avremmo potuto vedere o comprendere?
+
+Come posso coltivare uno stile di relazione che nasce dal mio essere e non da un obiettivo da raggiungere così che ogni incontro diventi uno spazio di libertà e di rivelazione?
+
+---
+
+<sup>1</sup> M. BUBER, Io e Tu, Adelphi, Milano, 2014.
+
+<sup>2</sup> C.R. ROGERS, Un modo di essere, Giunti, Firenze, 2014.
+
+<sup>3</sup> M. RECALCATI, Il complesso di Telemaco, Feltrinelli, Milano, 2013.
+
+<sup>4</sup> R. GUARDINI, Il Signore, Morcelliana, Brescia, 2005.
