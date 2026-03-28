@@ -1,5 +1,3 @@
-yt-dlp "https://www.youtube.com/watch?v=3gfOYgdM25I" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2026-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=t8rcX1pCanY" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2026-01-13.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=usF4X6fhsYc" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pl/pl-2026-01-13.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=TymxDPlaC68" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/fr-inv-2026-01-13.mp4"
+yt-dlp "https://www.youtube.com/watch?v=IaNQ9ZjQ46E" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "af/insig/af-insig-2026-01-13.mp4"
