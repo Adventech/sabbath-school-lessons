@@ -1,2 +1,7 @@
 ---
-  video: []
+  video:
+    - artist: Diskusi Sekolah Sabat
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2026-02-01.mp4
+          target: in/2026-02/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/in/hope/in-hope-2026-02-01.webp
