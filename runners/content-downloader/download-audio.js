@@ -176,7 +176,7 @@ let downloadUKAudio = async function() {
             let existCloud = false
             try {
                 // check if target exists already
-                let existCloudResult = await axios.head(`${SERVER_URL}/${date.format(DATE_FORMAT)}.mp3`);
+                let existCloudResult = await axios.head(`${SERVER_URL}/${date.format(DATE_FORMAT)}.m4a`);
                 if (existCloudResult.status === 200) {
                     existCloud = true
                 }
