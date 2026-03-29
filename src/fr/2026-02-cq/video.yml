@@ -1,2 +1,6 @@
 ---
-  video: []
+  video:
+    - artist: Entre 2 versets
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-02-01.mp4
+          target: fr/2026-02-cq/01

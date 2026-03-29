@@ -1,4 +1,4 @@
-const { getCompilationQuarterValue, getInfoFromPath } = require('../../deploy-helper')
+const { getCompilationQuarterValueForAudioVideo, getInfoFromPath } = require('../../deploy-helper')
 
 let yamljs  = require("js-yaml"),
     glob    = require("glob"),
@@ -9,7 +9,7 @@ let yamljs  = require("js-yaml"),
 const DATE_FORMAT = "DD/MM/YYYY"
 
 let dailyAudio = async function (lang, title, template, srcFunc, priorCheck, postCheck, insideStoryCheck) {
-    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}/`);
+    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValueForAudioVideo()}/`);
 
     for (let targetQuarter of targetQuarterlies) {
         let quarterlyInfo = getInfoFromPath(targetQuarter)
@@ -169,7 +169,7 @@ let spanishAudio = async function () {
                 "VIERNES"
             ]
 
-            return `https://www.audioescuelasabatica.com/wp-content/uploads/2026/03/LECCION-${week}-${mapping[day-1]}.mp3`
+            return `https://www.audioescuelasabatica.com/wp-content/uploads/2026/04/LECCION-${week}-${mapping[day-1]}.mp3`
         },
         2,
         7

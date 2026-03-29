@@ -1,4 +1,4 @@
-const { getCompilationQuarterValue, getInfoFromPath } = require('../../deploy-helper')
+const { getInfoFromPath, getCompilationQuarterValueForAudioVideo} = require('../../deploy-helper')
 
 let yamljs  = require("js-yaml"),
     glob    = require("glob"),
@@ -12,7 +12,7 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
     let postfix = (!postFix) ? "" : `-${postFix}`
     let priorCheck = 1
     let postCheck = 2
-    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}${postfix}/`);
+    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValueForAudioVideo()}${postfix}/`);
 
     for (let targetQuarter of targetQuarterlies) {
         let quarterlyInfo = getInfoFromPath(targetQuarter)
@@ -749,6 +749,19 @@ let frenchVideo = async function () {
         },
         function (targetDate, targetQuarter, year, week) {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/fr/inv/fr-inv-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        },
+        "cq"
+    )
+
+    await weeklyVideo(
+        "fr",
+        "Entre 2 versets",
+        {
+            artist: "Entre 2 versets",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         },
         "cq"
     )

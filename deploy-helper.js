@@ -1,3 +1,41 @@
+const yaml = require("js-yaml")
+const moment = require("moment")
+const fs = require("fs")
+const path = require("path")
+
+function getCompilationQuarterValueForAudioVideo() {
+    try {
+        const baseDir = "src/en"
+
+        // Get all subdirectories and sort alphabetically, take last 2
+        const folders = fs.readdirSync(baseDir)
+            .filter(f => /\d{4}-\d{2}$/.test(f) && fs.statSync(path.join(baseDir, f)).isDirectory())
+            .sort()
+            .slice(-2)
+
+        const today = moment()
+
+        for (const folder of folders) {
+            const infoPath = path.join(baseDir, folder, "info.yml")
+
+            if (!fs.existsSync(infoPath)) continue
+
+            const info = yaml.load(fs.readFileSync(infoPath, "utf8"))
+
+            const startDate = moment(info.start_date, "DD/MM/YYYY")
+            const endDate = moment(info.end_date, "DD/MM/YYYY")
+
+            if (today.isBetween(startDate, endDate, "day", "[]")) {
+                return folder
+            }
+        }
+
+        return getCompilationQuarterValue(null, true)
+    } catch (e) {
+        return getCompilationQuarterValue(null, true)
+    }
+}
+
 let getCompilationQuarterValue = function (d, strict, includePrevious) {
     d = d || new Date();
     let quarterIndex = (Math.ceil((d.getMonth() + 1) / 3)),
@@ -91,4 +129,4 @@ let buildInvalidationJson = function (items) {
     }
 }
 
-module.exports = { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath, getCurrentQuarterWithOffset, generateInvalidations }
+module.exports = { getCompilationQuarterValueForAudioVideo, getCompilationQuarterValue, getCurrentQuarter, getNextQuarter, getPreviousQuarter, getInfoFromPath, getCurrentQuarterWithOffset, generateInvalidations }
