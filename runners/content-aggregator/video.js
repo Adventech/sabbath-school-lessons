@@ -1,4 +1,4 @@
-const { getCompilationQuarterValue, getInfoFromPath } = require('../../deploy-helper')
+const { getInfoFromPath, getCompilationQuarterValueForAudioVideo} = require('../../deploy-helper')
 
 let yamljs  = require("js-yaml"),
     glob    = require("glob"),
@@ -12,7 +12,7 @@ let weeklyVideo = async function (lang, title, template, srcFunc, postFix) {
     let postfix = (!postFix) ? "" : `-${postFix}`
     let priorCheck = 1
     let postCheck = 2
-    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValue(null, true)}${postfix}/`);
+    let targetQuarterlies = glob.sync(`src/${lang}/${getCompilationQuarterValueForAudioVideo()}${postfix}/`);
 
     for (let targetQuarter of targetQuarterlies) {
         let quarterlyInfo = getInfoFromPath(targetQuarter)

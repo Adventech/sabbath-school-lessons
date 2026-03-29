@@ -1,6 +1,6 @@
 const { XMLParser } = require("fast-xml-parser"),
     axios   = require("axios"),
-    { getCompilationQuarterValue, getCurrentQuarter, getNextQuarter } = require('../../deploy-helper'),
+    { getCompilationQuarterValueForAudioVideo, getCurrentQuarter, getNextQuarter } = require('../../deploy-helper'),
     fs = require("fs-extra"),
     moment  = require("moment"),
     crypto = require("crypto"),
@@ -149,7 +149,9 @@ let downloadRussianAudio = async function() {
 
 let downloadUKAudio = async function() {
     let GITHUB_TOKEN
-    const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
+    const quarter = getCompilationQuarterValueForAudioVideo().replace(/[()|+]/g, '').substring(0, 7)
+
+    console.log(quarter)
     const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/uk/${quarter}`
 
     if (process && process.env && process.env.GITHUB_TOKEN) {
@@ -205,7 +207,7 @@ let downloadGermanAudio = async function() {
     const URL = "https://bogenhofen.podigee.io/feed/mp3"
     const parser = new XMLParser({ignoreAttributes : false});
     const LESSON_NUMBER = /^Q\d\s*-\s*E(\d)./gm
-    const quarter = getCompilationQuarterValue(null, true).replace(/[()|+]/g, '').substring(0, 7)
+    const quarter = getCompilationQuarterValueForAudioVideo().replace(/[()|+]/g, '').substring(0, 7)
     const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/de/${quarter}/de-bh-${quarter}`
     let response
     try {
