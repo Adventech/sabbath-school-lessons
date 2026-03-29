@@ -752,6 +752,19 @@ let frenchVideo = async function () {
         },
         "cq"
     )
+
+    await weeklyVideo(
+        "fr",
+        "Entre 2 versets",
+        {
+            artist: "Entre 2 versets",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        },
+        "cq"
+    )
 }
 
 let germanVideo = async function () {
