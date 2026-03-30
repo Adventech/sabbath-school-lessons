@@ -6,6 +6,7 @@
   end_date: "26/06/2026"
   color_primary: "#0A454E"
   color_primary_dark: "#01373F"
+  splash: true
   credits:
     - name: Umwanditsi W'iki kigisho
       value: "Nina Atcheson"
