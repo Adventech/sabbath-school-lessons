@@ -340,6 +340,30 @@ let spanishVideo = async function () {
 
     await weeklyVideo(
         "es",
+        "Escuela Sabática Like",
+        {
+            artist: "Escuela Sabática Like",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/es/cm/es-cm-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "es",
+        "SUMtv Latino",
+        {
+            artist: "SUMtv Latino",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "es",
         "Juventud Adventista de España",
         {
             artist: "Juventud Adventista de España",
