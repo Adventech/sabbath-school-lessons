@@ -102,7 +102,7 @@ let downloadEGWaudio = async function() {
 let downloadRussianAudio = async function() {
     let commands = `\n`
     let newUrls = []
-    let currentQuarter = getCurrentQuarter()
+    let currentQuarter = getCompilationQuarterValueForAudioVideo()
 
     const SERVER_URL = `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/${currentQuarter}`
 
@@ -130,7 +130,7 @@ let downloadRussianAudio = async function() {
 
         if (!response || (response && response.status !== 200)) {
             try {
-                let remoteUrl = `https://www.adventistfiles.net/documents/ss/${currentQuarter.slice(0, 4)}/${currentQuarter.slice(-1)}/adult/mp3/ss_${currentQuarter.slice(0, 4)}_0${currentQuarter.slice(-1)}_${String(week).padStart(2, '0')}.mp3`
+                let remoteUrl = `https://esd.adventist.org/wp-content/uploads/ss/${currentQuarter.slice(0, 4)}/${currentQuarter.slice(-1)}/adult/mp3/ss_${currentQuarter.slice(0, 4)}_0${currentQuarter.slice(-1)}_${String(week).padStart(2, '0')}.mp3`
                 let remoteResponse = await axios.head(remoteUrl)
                 if (remoteResponse.status === 200) {
                     newUrls.push(`${SERVER_URL}/ru-${currentQuarter}-${String(week).padStart(2, '0')}.mp3`)
