@@ -6,3 +6,13 @@
           target: uk/2026-02/01/01
         - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-03-29.m4a
           target: uk/2026-02/01/02
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-03-30.m4a
+          target: uk/2026-02/01/03
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-03-31.m4a
+          target: uk/2026-02/01/04
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-04-01.m4a
+          target: uk/2026-02/01/05
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-04-02.m4a
+          target: uk/2026-02/01/06
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-04-03.m4a
+          target: uk/2026-02/01/07
