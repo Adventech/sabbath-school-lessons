@@ -1,0 +1,23 @@
+### Sɛnea Yɛne Onyankopɔn Bɛnya Ayɔnkofa: Yɛrenyini Wɔ Yɛne Onyankopɔn Ayɔnkofa Mu
+
+Sɛ ebia woanyini wɔ Memeneda Akwanhwɛfoɔ asafo no mu anaasɛ woyɛ foforɔ wɔ gyidie no mu; sɛ ebia woakenkan Mpanimfoɔ Bible Adesua Nwoma no mu pii anaasɛ kakraa bi; ɛnna ne korakora no, ɛmfa ho ne sɛnea wosi hunu wo ho nnɛ yi wɔ honhom fam no, sɛnea worenyini wɔ wo ne Onyankopɔn ayɔnkofa a ɛte apɔ mu ho asɛmpɔ no yɛ adehia kɛseɛ.
+
+Saa asɛmpɔ yi ka afoforɔ nyinaa. Ebia wo mfoni fa Onyankopɔn ho no ayɛ kusuu anaa ɛso abiri; sɛ ɛte saa a, bɔ mpaeɛ srɛ sɛnea nneɛma mu bɛda hɔ kɛse berɛ a woresua adesua yi. Ebia woredwennwene sɛnea wobɛnya foforɔyɛ wɔ w’ahofama asetena (mpaebɔ ne Biblesua) mu, anaasɛ ebia woredwene afa foforɔ binom a ɛnya nsunsuansoɔ wɔ wo ne Onyankopɔn ntam ayɔnkofa soɔ no ho, te sɛ ahantan ne ahobrɛaseɛ dwumadie, gyidie ne nimdeɛ, bɔne ne Onyankopɔn mmara, adwensakra ne bɔnefakyɛ, sɛnea wɔdi epie akɛseɛ ne akwansideɛ ahoroɔ so nkonim, ne sɛnea wɔhyɛ afoforɔ nkuran wɔ wɔne Onyankopɔn nanteɛ mu.
+
+Ayɔnkofa a wo ne Onyankopɔn wɔ no ne w’ayɔnkofa koro a ɛho hia kyɛn so koraa. Ntwentwɛn wo nan ase sɛ wobɛsiesie, wobɛtintim aseɛ, na wɔahyɛ mu den sɛnea ɛbɛtumi biara. Seesei —ɛnyɛ daakye berɛ bi — ne berɛ a ɛsɛ sɛ woyɛ saa ayɔnkofa yi ho adwuma, ɛno na ɛbɛnya nsunsuansoɔ wɔ biribiara a aka no so: w’awareɛ (sɛ ɛfata a), w’abayɛn (sɛ ɛfata a), w’adamfofa, w’ahomegyeɛ, nea ɛsi w’ani soɔ ... ɛne, ampaara, wo daapem daakye no.
+
+Ɛsiane sɛ saa asɛmpɔ yi — nea ɛfa Onyankopɔn pɛ a Ɔwɔ sɛ Ɔne adasamma bɛnya ayɔnkofa ho no — tene fa Bible no mu nyinaa nti no, ɛwɔ gyinapn ahoroɔ, abasɛm ahoroɔ ne Bible mu akenkansɛm ahoroɔ pii a na anka wɔbɛtumi apaw de akyerɛkyerɛ saa asɛmpɔ titire yi. Sɛ yɛhwɛ sɛnea Mpanimfoɔ Bible Adesua nhyehyɛɛ no teɛ no a, emu kakraa bi pɛ na yɛbɛtumi de adi dwuma.
+
+Sɛnea ayɔnkofa a wo ne Onyankopɔn wɔ no nnɛ yi teɛ biara no, wowɔ adwenem berɛ a wɔtwerɛɛ saa adesua yinom. Ɔpɛ no ne sɛ awieeɛ no, saa adesua ntiantia dumiɛnsa a ɛyɛ pɔtee yinom bɛkanyan wo dɔ ne w’ahofama ma Yesu Kristo no bio berɛ a woresane ahwehwɛ No foforɔ wɔ saa kɔta yi mu no.
+
+Ɛsiane sɛ saa asɛmpɔ yi fa ayɔnkofa ho no nti, nsonsonoeɛ wɔ saa Mpanimfoɔ Bible Adesua yi ne nea atwam no ntam kakra. Wɔatwerɛ adesua yinom wɔ ankorankorɛ kwan so ɛfiri sɛ ɛfa Onyankopɔn no ankasa a Ɔpɛ sɛ Ɔhu w’ankasa no ho.
+
+Ellen G. White ka sɛ “Kristo mu abrabɔ a ɛsisi so wɔ-ano wɔ-ano no yɛ anwanwadeɛ kɛseɛ” DA 407. Bible no de mmirikatuo ho abebudeɛ di dwuma de kyerɛkyerɛ abrabɔ mu akwantuo a yɛne Onyankopɔn wɔ no mu. Yɛn akatua yɛ abotire a ɛntumi nsɛe (1 Kor. 9:24, 25) ne daa nkwa a yɛne yɛn Nyankopɔn bɛtena mu. Yɛn honhom fam mmirika no yɛ nea emu twe, ɛnyɛ tiawa bi Ebia mmerɛ bi wɔ hɔ a yɛbɛgyina pintinn anaasɛ mpo yɛbɛhwe ase ama yɛn anim abutu fam. Ɛtumi ba saa, na sɛ ɛba saa a, ɛno ara ne sɛ yɛasɔre na yɛretoa soɔ. Ɛsɛ sɛ yɛkɔ so ara, ɛmfa ho ne nsɔhwɛ ne ahokyerɛ ahoroɔ a ɛtwa sɛ ɛba no (Heb. 12:4-11). Na ɛnyɛ yɛn nko ara na yɛtu mmirika yi; mmirikatufo foforɔ nso a wɔdɔ Yesu ne N’Asɛm no ne yɛn na ɛtu mmirika nos. Nea ɛkyɛn soɔ ne sɛ, Yesu hyɛɛ bɔ sɛ Ɔbɛma yɛn Okyigyinafoɔ no. “Na Me deɛ, Mɛbisa Agya no, na Wama mo Okyigyinafoɔ foforɔ, na Ɔne mo abɛtena daa, nokorɛ Honhom a wiase ntumi nnye No no, ɛfiri sɛ ɛnhu No, nanso ɛnnim no; na mo deɛ monim No, ɛfiri sɛ Ɔte mo nkyɛn na Ɔbɛtena mo mu” (Yoh. 14:16, 17).
+
+Ɛnyɛ yɛn nko ara na yɛtu abrabɔ mu mmirika no — ɛnyɛ sɛ Okyigyinafoɔ no wɔ yɛn nkyɛn nko, na mmom Ɔte yɛn mu sɛ ɛbɛyɛ a Ɔbɛhyɛ yɛn den na Wakura yɛn mu berɛ a yɛretu mmirika no na yɛde yɛn ani asi Yesu a Ɔyɛ yɛn “gyidie mu kannifoɔ ne ne wiefoɔ” (Heb. 12:2) no so no.
+
+Berɛ a meretwerɛ yi no, merebɔ mpaeɛ sɛ Honhom Kronkron no bɛkɔ yɛn so ankorankorɛ ne sɛ wiase nyinaa asafo no sɛnea Ɔbɛtwe yɛn abɛn Onyankopɔn sene berɛ a atwam biara. Ɛfiri sɛ, ampaara biribiara nni hɔ a ɛho bɛtumi ahia asene sɛ yɛne Onyankopɔn wɔ ayɔnkofa a emu yɛ den.
+
+Enti, momma yɛmmom nsua adeɛ, yɛnhunu adeɛ, yɛnnya ɔdɔ, na yɛntena Ne mu.
+
+_Nina Atcheson yɛ adesua nhyehyɛɛ sohwɛfoɔ ne ɔsamufoɔ panin ma Alive in Jesus Homeda Sukuu Adesua Nhyehyɛɛ a ɛwɔ General Conference no. Ɔbɔ bra sɛ ɔbɛkanyan afoforɔ na wasiesie wɔn ama wɔnam Onyankopɔn Asɛm a ɛfiri ɔsoro home mu no so ahunu No yie sɛ ankorankorɛ. Atcheson kunu ne Matt, na wɔn baanu wɔ mma baasa a wɔyɛ mmabunu._
