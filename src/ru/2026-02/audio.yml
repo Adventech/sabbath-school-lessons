@@ -28,3 +28,5 @@
           target: ru/2026-02/02/05
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/2026-02/ru-2026-02-02.mp3-6.mp3
           target: ru/2026-02/02/06
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/2026-02/ru-2026-02-02.mp3-7.mp3
+          target: ru/2026-02/02/07
