@@ -332,6 +332,22 @@ let russianAudio = async function () {
     )
 }
 
+let xhosaAudio = async function () {
+    await dailyAudio(
+        "xh",
+        "Lukhanyo Makhenyane",
+        {
+            artist: "Lukhanyo Makhenyane",
+            tracks: []
+        },
+        function (targetDate, week, day, targetQuarter) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/audio/xh/${targetQuarter}/${targetQuarter}-${String(week).padStart(2, '0')}-0${day}.mp3`
+        },
+        7,
+        18
+    )
+}
+
 let run = async function () {
     await ellenWhiteAudio();
     await indonesiaAudio();
@@ -344,6 +360,7 @@ let run = async function () {
     await germanAudio();
     await papiamentoAudio();
     await russianAudio();
+    await xhosaAudio();
 }
 
 run().then(() => {
