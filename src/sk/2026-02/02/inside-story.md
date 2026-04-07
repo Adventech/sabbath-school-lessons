@@ -3,44 +3,42 @@ title:  Misijný príbeh
 date:  10/04/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
+#### Odmietnutie lietania v sobotu
 
-#### Odmietol lietať v sobotu
+Podnikateľ Kasereka Maghulu Kavatsi, člen Cirkvi adventistov siedmeho dňa, vybudoval v Konžskej demokratickej republike obchodné impérium, ktoré zahŕňalo poľnohospodárstvo, rybárstvo, odevný priemysel a nákladnú leteckú spoločnosť s názvom Kavatsi Airlines.
 
-Adventistický podnikateľ Kasereka Maghulu Kavatsi vybudoval v Konžskej demokratickej republike obchodné impérium, ktoré zahŕňalo poľnohospodárstvo, rybolov, odevy a nákladnú leteckú spoločnosť Kavatsi Airlines.
+V istom momente si spoločnosť Kavatsi Airlines prenajala lietadlo Boeing 707 od partnera v Keni. Bola to zložitá dohoda, v rámci ktorej si kenský partner prenajal lietadlo od dubajskej spoločnosti a dubajská spoločnosť si ho zase prenajala od vlastníka v Británii. Podľa podmienok prenájmu sa mala spoločnosť Kavatsi Airlines deliť o svoje zisky so subjektmi v Keni, Dubaji a Británii.
 
-V istom čase si Kavatsi Airlines prenajali prúdové lietadlo Boeing 707 od partnera v Keni. Išlo o zložitú dohodu, v ktorej si kenský partner prenajal lietadlo od dubajskej spoločnosti a tá si ho zasa prenajala od majiteľa v Británii. Podľa podmienok prenájmu sa spoločnosť Kavatsi Airlines mala o svoje zisky deliť so subjektmi v Keni, Dubaji a Británii.
+Nákladná doprava prebiehala hladko, až kým nepriaznivé počasie v piatok nezrušilo let. Kenský partner trval na tom, aby lietadlo vzlietlo v sobotu, ale Kasereka to odmietol. „V žiadnom prípade nemôžem lietať v sobotu,“ povedal.
 
-Nákladná preprava prebiehala hladko, až kým zlé počasie nezrušilo piatkový let. Kenský partner trval na tom, aby lietadlo odštartovalo v sobotu, ale Kasereka to odmietol. „V žiadnom prípade nemôžem v sobotu lietať,“ povedal.
+Partner zavolal do Dubaja. „Dali sme tomuto mužovi naše lietadlo a on nechce lietať v sobotu,“ povedal. „Skúste ho presvedčiť. Toto je obchodnú záležitosť.“
 
-Partner zavolal do Dubaja. „Dali sme tomuto mužovi náš prúdový stroj a on v sobotu nechce lietať,“ povedal. „Skúste ho presvedčiť. Je to obchodná záležitosť.“
+Dubajská spoločnosť sa obrátila na Kasereku, ale on sa nedal presvedčiť. Dubajská spoločnosť preto kontaktovala britského majiteľa, bieleho muža, ktorý ovládal svahilčinu. Zavolal Kaserekovi a spýtal sa: „Prečo dnes neletíte?“
 
-Dubajská spoločnosť apelovala na Kasereku, ale ten nezaváhal. Dubajská spoločnosť sa teda spojila s britským majiteľom, belochom, ktorý ovládal svahilčinu. Zavolal Kaserekovi a opýtal sa: „Prečo dnes nelietate?“
+„Som adventista siedmeho dňa,“ odpovedal Kasereka.
 
-„Som adventista siedmeho dňa,“ povedal Kasereka.
-
-„To je nejaká cirkev?“
+„Je to cirkev?“
 
 „Áno, je to cirkev.“
 
-Následne majiteľ kontaktoval ďalších ľudí, ktorí si od Kavatsi Airlines prenajali lietadlá, a pýtal sa na Kasereku. Opísali ho ako dobrého človeka.
+Potom majiteľ kontaktoval ďalších ľudí, ktorí si prenajímali lietadlá spoločnosti Kavatsi Airlines, a opýtal sa na Kasereku. Opisovali ho ako dobrého človeka.
 
 „Je to otázka viery,“ povedali. „Sobota súvisí s jeho vierou.“
 
 Majiteľ nariadil svojim partnerom v Dubaji a Keni, aby ustúpili.
 
-„Je to záležitosť viery, tak ho nechajte tak,“ povedal.
+„Je to otázka viery, tak ho nechajte na pokoji,“ povedal.
 
-Počas štvormesačného prenájmu Kasereka lietal s prúdovým lietadlom každý deň v týždni okrem soboty. Potom lietadlo vrátil.
+Počas štvormesačného prenájmu lietal Kasereka s lietadlom každý deň v týždni okrem soboty. Potom lietadlo vrátil.
 
-O rok neskôr britský majiteľ Kaserekovi zavolal. „Rád by som sa s vami stretol tvárou v tvár,“ povedal. „Chcem prísť k vám domov a vidieť, kde žijete.“
+O rok neskôr zavolal britský majiteľ Kaserekovi. „Rád by som sa s vami stretol osobne,“ povedal. „Chcem prísť k vám domov a pozrieť sa, kde bývate.“
 
-Muž odletel do Konžskej demokratickej republiky a ubytoval sa v Kaserekovom dome pre hostí. „Prišiel som sem s určitým zámerom,“ povedal. „Chcel som zistiť, či nájdem muža, ktorý sa stále drží viery, pre ktorú v sobotu odmietal lietať.“
+Muž priletel do Konžskej demokratickej republiky a ubytoval sa v Kaserekovom penzióne. „Prišiel som sem s určitým zámerom,“ povedal. „Chcel som vedieť, či nájdem človeka, ktorý sa stále drží viery, ktorá ho prinútila odmietnuť lietať v sobotu.“
 
-Potom prišiel s absolútne nečakanou správou.
+Potom prišiel s prekvapivým oznámením.
 
-„Počas tých štyroch mesiacov, čo sme spolu spolupracovali, som nikdy nedosiahol taký veľký zisk,“ povedal. „Kvôli vašej viere vám zadarmo dávam malé lietadlo.“ Daroval Kaserekovi 18-miestne súkromné prúdové lietadlo.
+„Nikdy som nemal taký veľký zisk ako počas tých štyroch mesiacov, čo sme spolu pracovali,“ povedal. „Vďaka vašej viere vám dávam malé lietadlo zadarmo.“ Kaserekovi daroval 18-miestne súkromné lietadlo.
 
-Kasereka bol hlboko dojatý a ohromený.
+Kasereka bol dojatý a ohromený.
 
-„Len slúžim Pánovi,“ odpovedal.
+„Ja len slúžim Pánovi,“ odpovedal.
