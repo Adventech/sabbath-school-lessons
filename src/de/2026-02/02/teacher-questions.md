@@ -10,7 +10,8 @@ date:   10/04/2026
 
 **1. Mose 3, 1-5; Johannes 16, 1-3; 2.Kor. 4, 3-4**
 
--   -   Welches Bild über Gott vermittelt die Schlange im Gespräch mit
+-   Fragen zum Text:
+    -   Welches Bild über Gott vermittelt die Schlange im Gespräch mit
         Eva?
     -   Was war das primäre Ziel Satans als er ein solches Bild über
         Gott zu vermitteln versuchte?
@@ -18,7 +19,6 @@ date:   10/04/2026
         so mit den Nachfolgern Jesu umgehen werden
     -   Über welche Gruppe von Menschen spricht Paulus? In Welchem
         Zustand befinden sich diese Manschen und warum
-
 -   Fragen zur Botschaft:
     -   Welche verfällschten Vorstellungen von Gott kann man heute in
         der Welt antreffen?
@@ -27,10 +27,21 @@ date:   10/04/2026
         ( wie es in der Bibel beschrieben ist) begreifen können? Welche
         Arbeit sollten wir dem Heiligen Gest überlassen?
 
-**Text**
+**3.Mose 20,26; Jesaja 5,16; Hebräer 7,26**
 
 -   Fragen zum Text:
+    -   Wie ist Gott? Was bedeutet "heilig"?
+    -   Was bedeutet "Heligkeit" angewendet auf Gott?
+    -   Wie ist die Heiligkeit Gottes beschrieben im Hebräer Buch?
 -   Fragen zur Botschaft:
+    -   Welche Reaktion wird bei uns ausgelöst, wenn wir begreifen, dass
+        Gott heilig ist?
+    -   Welche Auswirkung hat es auf uns das Verständnis, dass wir auch
+        heilig sein sollen? Wie gehen wir dann mit dem Gruppendruck um?
+    -   Wie gehen wir mit dem natürlichen Instinkt und Bestreben um, uns
+        an die Mehrheit anzupassen (als Kirche und als Person), um ja
+        nicht anders zu sein (heilig) als die grosse Masse (sonst würde
+        man ja auffalen)?
 
 **Text**
 
