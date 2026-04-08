@@ -43,10 +43,19 @@ date:   10/04/2026
         nicht anders zu sein (heilig) als die grosse Masse (sonst würde
         man ja auffalen)?
 
-**Text**
+**1. Johannes 4, 7-10,16**
 
 -   Fragen zum Text:
+    -   Wie ist Gott laut Beschreibung von Johannes?
+    -   Was macht die Liebe Gottes besonders und einzigartig aus
+        menschlicher Betrachtung?
+    -   Wie kann man die Fähigkeit zum Lieben erlangen?
+    -   Was ist das zentrale Merkmal eines Menschen, der Gott erkannt
+        hat?
 -   Fragen zur Botschaft:
+    -   Liebst Du Gott? Woran kann man das erkennen?
+    -   Wie hat deine Liebe zu Gott deine Beziehung zu Menschen
+        verändert?
 
 **Text**
 
