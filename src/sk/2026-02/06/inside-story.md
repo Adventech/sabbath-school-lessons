@@ -3,30 +3,26 @@ title:  Misijný príbeh
 date:  08/05/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
+#### Výmena tradičného odevu za nohavice
 
-#### Vymenil šuku za nohavice
+Pastor povedal Rompasovi, masajskému chlapcovi v Keni, že adventisti siedmeho dňa sú uctievači diabla. Tiež povedal, že adventisti v sobotu vstupujú do kostola chrbtom k vchodu a modlia sa bez oblečenia. 
 
-Onen pastor Rompasovi, masajskému chlapcovi z Keňe, povedal, že adventisti siedmeho dňa sú uctievači diabla. Tvrdil tiež, že adventisti v sobotu vchádzajú do zboru pospiatky a uctievajú Boha bez oblečenia.
+Keď mal Rompas 16 rokov, rozhodol sa zistiť, či pastor hovoril pravdu. Skoro ráno v sobotu vyrazil pešo zo svojej dediny do adventistického kostola vzdialeného niekoľko kilometrov. Skryl sa v kopcoch neďaleko kostola a pozoroval, čo sa bude diať. 
 
-Keď mal 16 rokov, Rompas sa rozhodol zistiť, či ten pastor hovoril pravdu. Skoro v sobotu ráno sa vybral zo svojej dediny k niekoľko míľ vzdialenému adventistickému zboru. Schoval sa v kopcoch blízko budovy a pozoroval ju.
+Netrvalo dlho a prišiel prvý človek. Ten muž nekráčal cúvaním a nebol nahý. Rompasa zaujalo to, že muž mal na sebe pekný oblek a kravatu. Chlapec si želal, aby mal aj on oblek a kravatu. Bol polonahý, mal na sebe len tradičnú masajskú šuku, červenú látku s čiernymi pruhmi. 
 
-Netrvalo dlho a dorazil prvý človek. Ten muž nešiel pospiatky a nebol nahý. Na Rompasa urobilo dojem, že má na sebe pekný oblek a kravatu. Chlapec si želal, aby mal aj on oblek a kravatu. On sám bol polonahý, oblečený len v tradičnej masajskej šuke – červenej látke s čiernymi pruhmi.
+Potom prišiel pastor a ďalší členovia cirkvi. Ani oni nevstúpili do kostola cúvaním a boli pekne oblečení. Potom začal spievať cirkevný zbor. Keď započul slová piesne „Oh Happy Day“, nemohol odolať. Vošiel do kostola, posadil sa do zadného radu a s veľkým záujmom počúval. 
 
-Potom dorazil kazateľ a ďalší členovia zboru. Ani oni nevchádzali do zboru pospiatky a boli vkusne oblečení.
+Po kázni k nemu pristúpil mladý biely muž. Bol to misionár zo Spojených štátov, ktorého nikdy predtým nevidel a už nikdy viac neuvidel. Muž hovoril s pomocou tlmočníka. „Toto sú tvoje nohavice,“ povedal a podal Rompasovi nohavice s mnohými vreckami. 
 
-Potom začal spievať zborový spevácky súbor. Keď sa k Rompasovým ušiam doniesli slová piesne „Ó, šťastný deň“, nemohol odolať. Kráčal k zboru, posadil sa do zadného radu a s veľkým záujmom počúval.
+Rompas bol nadšený! Nikdy predtým nemal nohavice. Obliekol si ich a roztrhol si šuku, aby si z nej urobil opasok. 
 
-Po kázni k nemu pristúpil mladý beloch. Bol to misionár zo Spojených štátov, ktorého nikdy predtým nevidel a už nikdy potom neuvidel. Ten muž hovoril s pomocou tlmočníka. „Toto sú tvoje nohavice,“ povedal a podal Rompasovi nohavice s mnohými vreckami.
+Keď sa vrátil domov, jeho 82 bratov a sestier bolo prekvapených, keď videli masajského chlapca v nohaviciach. Obkolesili ho a spýtali sa: „Čo sa stalo?“ 
 
-Rompas bol nadšený! Nikdy predtým nohavice nevlastnil. Obliekol si ich a roztrhol svoju šuku, aby si z nej urobil opasok, ktorý by ich držal.
+Rompas si v tú noc uložil vzácne nohavice pod posteľ. Obliekol si ich znova až v nasledujúcu sobotu, keď sa vrátil do kostola. Obliekanie si nohavíc každú sobotu priťahovalo pozornosť detí a žien z jeho dediny. Niektorí z nich ho začali nasledovať do kostola. 
 
-Doma bolo jeho 82 bratov a sestier prekvapených, keď videli masajského chlapca v nohaviciach. Obklopili ho a pýtali sa: „Čo sa stalo?“
+Ubehlo niekoľko mesiacov a Rompas a jeho matka v ten istý deň krstom odovzdali svoje srdcia Ježišovi. Prví dvaja členovia takmer 100-člennej rodiny sa stali adventistami siedmeho dňa. Rompas sa po prvýkrát v živote cítil slobodný. Ježiš povedal svojim učeníkom: „‚A poznáte pravdu a pravda vás oslobodí‘“ (Ján 8:32, NKJV). „Pravda ma oslobodila,“ povedal Rompas v rozhovore. 
 
-Ten večer si Rompas svoje vzácne nohavice odložil pod posteľ. Znovu si ich obliekol až ďalšiu sobotu, keď sa vrátil do zboru. To, že nosil nohavice, priťahovalo každú sobotu pozornosť detí a žien z jeho dediny. Niektorí ho začali do zboru následovať.
+_Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky._
 
-Uplynulo niekoľko mesiacov a Rompas i jeho matka odovzdali svoje srdcia Ježišovi a v ten istý deň boli pokrstení. Stali sa tak prvými dvoma členmi z takmer 100-člennej rodiny, ktorí sa stali adventistami siedmeho dňa. Rompas sa prvýkrát v živote cítil slobodný. Ježiš povedal svojim učeníkom: „Poznáte pravdu a pravda vás vyslobodí“ (Ján 8,32).
-
-„Pravda ma oslobodila,“ povedal Rompas v jednom rozhovore.
-
-_Časť tohtoročnej obety na 13. sobotu, známej aj ako štvrťročná misijná obeta, podporí projekty v Keňi a na iných miestach divízie východnej a strednej Afriky. Viac o Rompasovi si prečítate na budúci týždeň a video s ním si môžete pozrieť na YouTube na bit.ly/Rompas-IS._
+_Viac o Rompasovi si prečítajte budúci týždeň a pozrite si video s ním na YouTube na bit.ly/Rompas-IS._
