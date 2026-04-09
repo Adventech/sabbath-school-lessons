@@ -42,3 +42,5 @@ Potom prišiel s prekvapivým oznámením.
 Kasereka bol dojatý a ohromený.
 
 „Ja len slúžim Pánovi,“ odpovedal.
+
+![Kasereka](../01/picture1.jpg) 
