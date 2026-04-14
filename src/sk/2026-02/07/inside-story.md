@@ -3,28 +3,28 @@ title:  Misijný príbeh
 date:  15/05/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
+#### Dávať nádej Masajom
 
-#### Nádej pre Masajov
+Rompas, 16-ročný masajský chlapec z Kene, sa po krste rozhodol, že pôjde do školy. Najviac zo všetkého si prial, aby si mohol sám prečítať Bibliu.
 
-Rompas, šestnásťročný masajský chlapec z Keňe, sa po svojom krste rozhodol začať chodiť do školy. Zo všetkého najviac si prial, aby si mohol sám čítať Bibliu.
+Stretol sa s odporom svojho otca a mnohých z jeho 82 súrodencov, ktorí nevideli žiadnu potrebu, aby masajský chlapec získal vzdelanie. Rompas sa však stal prvým členom vo svojej rodine, ktorý dokončil základnú školu a potom strednú školu. Potom sa rozhodol študovať teológiu na Bugema University, univerzite Cirkvi adventistov siedmeho dňa v Ugande. Potreboval však peniaze.
 
-Musel čeliť odporu svojho otca aj mnohých svojich 82 súrodencov, ktorí nevideli žiaden dôvod, prečo by masajský chlapec mal získať vzdelanie. Rompas sa však stal prvým človekom zo svojej rodiny, ktorý dokončil základnú aj strednú školu. Potom sa rozhodol študovať teológiu na Bugema University, adventistickej univerzite v Ugande. Potreboval však peniaze.
+Jedného večera zvolal svojich bratov a sestry, ktorí rovnako ako on zachovávali sobotu, a požiadal ich, aby sa za neho modlili, aby dostal 7 000 kenských šilingov, aby mohol cestovať do Ugandy a prihlásiť sa na Bugemskú univerzitu. Súrodenci sa modlili, zatiaľ čo Rompas kľačal na podlahe.
 
-Jedného večera zvolal svojich bratov a sestry, ktorí spolu s ním zachovávali sobotu, a požiadal ich, aby sa modlili, aby získal 7 000 kenských šilingov, čo by mu umožnilo odcestovať do Ugandy a požiadať o prijatie na Bugema University. Kým Rompas kľačal na zemi, súrodenci sa modlili. Po poslednom „amen“ sa ozvalo klopanie na dvere. Bol to politik menom Alex, ktorý prišiel navštíviť Rompasovho otca. Politici k nim chodili radi, pretože Rompasova početná rodina predstavovala v období volieb veľa hlasov. Tento politik nebol adventista a položil nezvyčajnú otázku: „Má táto veľká rodina svojho pastora?“
+Po poslednom „amen“ niekto zaklopal na dvere. Bol to politik menom Alex, ktorý prišiel navštíviť Rompasovho otca. Politici ho radi navštevovali, pretože Rompasova veľká rodina predstavovala veľa hlasov v čase volieb. Tento politik nebol adventista a položil nezvyčajnú otázku: „Má táto veľká rodina pastora?“
 
-Rompas bol Alexovi predstavený ako chlapec, ktorému sa v detstve prezývalo „Kazateľ“.
+Rompasa predstavili Alexovi ako chlapca, ktorého v detstve prezývali „Pastor“.
 
-„Čo potrebuješ najviac?“ opýtal sa Alex.
+„Čo najviac potrebuješ?“ spýtal sa Alex.
 
 „Potrebujem získať vysokoškolský titul na Bugema University v Ugande.“
 
-Alex vytiahol z vrecka 15 000 kenských šilingov a dal ich Rompasovi. Bola to viac ako dvojnásobná suma, o ktorú Rompas v modlitbe prosil.
+Alex vytiahol z vrecka 15 000 kenských šilingov a dal ich Rompasovi. Bola to viac ako dvojnásobná suma, o ktorú sa Rompas modlil.
 
-Rompas odcestoval do Ugandy a bol prijatý na štúdium teológie. Potom sa vrátil domov, aby počkal na začiatok vyučovania. V ten istý deň, keď dorazil domov, prišiel Alex na ďalšiu návštevu. Keď sa dozvedel, že Rompas bol prijatý, podal mu balík amerických dolárov. Rompas nikdy predtým americké doláre v ruke nedržal. Suma stačila na zaplatenie troch rokov štúdia na univerzite.
+Rompas odcestoval do Ugandy a bol prijatý na teologický program. Potom sa vrátil domov, aby počkal na začiatok semestra. V ten istý deň, keď prišiel domov, ho Alex opäť navštívil. Keď sa dozvedel, že Rompas bol prijatý, podal mu balík amerických dolárov. Rompas  nikdy predtým nedržal v rukách americké doláre. Bolo to dosť na zaplatenie troch rokov štúdia na univerzite.
 
-Dnes je Rompas Josphat Lekishon adventistickým kazateľom s misijným srdcom. Vďaka jeho úsiliu vzniklo šesť zborov adventistov siedmeho dňa. Otvoril tiež zbor na pozemku svojho otca, ktorý daroval Cirkvi adventistov siedmeho dňa. Každú sobotu sa tam k spoločným bohoslužbám schádza 33 členov rodiny. Zvlášť rád zdieľa radostnú správu o Ježišovom príchode s Masajmi. V masajčine rozdal už viac ako 500 Biblií.
+Dnes je Rompas Josphat Lekishon adventistickým pastorom so srdcom pre misijnú prácu. Vďaka jeho úsiliu sa šesť cirkví stalo adventistickými. Otvoril tiež kostol na pozemku svojho otca, ktorý daroval Adventistickej cirkvi. Každú sobotu sa tam schádza na bohoslužbách tridsaťtri členov rodiny. Obzvlášť rád zdieľa dobrú zvesť o Ježišovom príchode s Masajmi. Rozdal viac ako 500 Biblií v jazyku Masajov.
 
-„Najviac ma teší, keď môžem Masajom dávať Bibliu,“ povedal. „Dáva to nádej tým, ktorí ju stratili.“
+„Najviac ma teší rozdávať Bibliu Masajom,“ povedal. „Je to dávanie nádeje tým, ktorí ju stratili.“
 
-_Časť tohtoročnej obety na 13. sobotu, známej aj ako štvrťročná misijná obeta, podporí projekty v Keňi a na iných miestach divízie východnej a strednej Afriky. Video s Rompasom si môžete pozrieť na YouTube na bit.ly/Rompas-IS._
+_Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky. Pozrite si video o Rompasovi na YouTube na bit.ly/Rompas-IS._
