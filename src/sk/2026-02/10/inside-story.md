@@ -3,30 +3,28 @@ title:  Misijný príbeh
 date:  05/06/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
+#### Hlas prehovoril pri hrnci
 
-#### Hlas pri hrnci s jedlom
+Miriam, 41-ročná matka zo Zambie, sa necítila dobre. Hlava jej išla prasknúť. Celé telo ju bolelo. Myseľ jej napĺňal hlboký smútok.
 
-Miriam, 41-ročná matka zo Zambie, sa necítila dobre. Búšilo jej v hlave. Bolelo ju celé telo. Myseľ jej napĺňal temný smútok.
+S ťažkým srdcom išla na úvodný večer týždenného evanjelizačného stretnutia v Livingstone. Na stretnutí sa spriatelila so ženou z Cirkvi adventistov siedmeho dňa menom Majorie. Miriam jej vyliala bolesť svojho srdca a poprosila o modlitbu. Majorie sa za ňu modlila.
 
-S ťažkým srdcom sa vybrala na otvárací večer týždňových evanjelizačných prednášok v Livingstone. Na stretnutí sa skamarátila s adventistkou menom Majorie. Miriam jej vyliala bolesť svojho srdca a požiadala o modlitbu. Majorie sa za ňu modlila.
+Potom sa stalo niečo nezvyčajné. Nasledujúci deň o 11. hodine Miriam miešala hrniec kukuričnej kaše na ohni pred svojím domom. Podobne ako mnohí Zambijčania aj ona varila vonku, pretože kvôli celonárodnému výpadku elektrickej energie zostalo mnoho domácností bez elektriny. Keď miešala, počula hlas, ktorý jej hovoril: „Choď a teraz hneď si prečítaj Bibliu. Nechaj hrniec a prečítaj si Bibliu.“
 
-Potom sa stalo niečo nezvyčajné. Nasledujúci deň o 11:00 dopoludnia Miriam vonku pred domom na ohni miešala v hrnci kukuričnú kašu. Podobne ako mnoho Zambijčanov varila vonku, pretože pre celonárodný nedostatok elektriny zostalo mnoho domácností bez prúdu. Kým miešala, pocítila hlas, ktorý hovoril: Choď a hneď si čítaj Bibliu. Nechaj hrniec a čítaj Bibliu.
+Miriam nevedela, čo má v Biblii čítať. Vošla do domu, otvorila Bibliu a prečítala si prvú kapitolu, ktorú uvidela. Bola ohromená. Mala pocit, akoby k nej Boh priamo hovoril.
 
-Miriam nevedela, čo má v Biblii čítať. Vošla do domu, otvorila Bibliu a prečítala si prvú kapitolu, ktorú uvidela. Bola ohromená. Mala pocit, akoby k nej Boh hovoril priamo.
+Zavrela Bibliu a vonku dovarila kašu. Potom sa vrátila a prečítala si ďalšiu kapitolu. Zdalo sa jej, akoby jej Boh hovoril: „Vieš, že ťa stále milujem? Ži tak, ako chcem, aby si žila.“
 
-Zavrela Bibliu a vonku dovarila kašu. Potom sa vrátila a prečítala si ďalšiu kapitolu. Zdalo sa, akoby jej Boh hovoril: „Vieš, že ťa stále milujem? Ži tak, ako chcem ja.“
+Radosť zaplavila jej srdce. Bolesti tela zmizli a prešla jej aj bolesť hlavy. Pokľakla a modlila sa: „Odpusť mi, Bože.“
 
-Srdce jej zaplavila radosť. Bolesť tela zmizla a bolesť hlavy ustúpila. Pokľakla a modlila sa: „Odpusť mi, Bože.“
+Miriam sa večer vrátila na evanjelizačné stretnutie. Rozbehla sa k Majorie a povedala jej, čo sa stalo.
 
-Večer sa Miriam vrátila na evanjelizačné prednášky. Pribehla k Majorie a porozprávala jej, čo sa stalo.
-
-Majorie sa do očí natlačili slzy, keď sa dozvedela, že Miriam počula hlas, ktorý jej hovoril, aby si čítala Bibliu o 11:00. Presne v tom čase pocítila doma nutkanie modliť sa za Miriam.
+Majorie sa do očí tisli slzy, keď sa dozvedela, že Miriam počula hlas, ktorý jej o 11. hodine ráno povedal, aby si prečítala Bibliu. Presne v tom čase pocítila nutkanie modliť sa za Miriam doma.
 
 „Nájdi si čas na čítanie Biblie každý deň a nezabúdaj sa neustále modliť,“ povedala Majorie. „Biblia a modlitba sú kľúčom ku všetkému.“
 
-Odvtedy, čo Miriam začala pravidelne čítať Bibliu a modliť sa, uplynulo niekoľko mesiacov. Hlava jej prestala búšiť, telo ju prestalo bolieť. Temný smútok, ktorý predtým napĺňal jej srdce, vystriedala slnečná radosť a vrúcna túžba žiť pre Boha.
+Uplynuli mesiace, odvtedy, čo Miriam začala čítať Bibliu a pravidelne sa modliť. Prestala ju bolieť hlava. Prestalo ju bolieť telo. Temný smútok, ktorý kedysi napĺňal jej srdce, nahradila optimistická nálada a vrúcna túžba žiť pre Boha.
 
-„Biblia ma povzbudila,“ povedala. „Boh pôsobí skrze Bibliu. Ak chce diabol vniesť zmätok, jednoducho sa odvolám na zasľúbenia Biblie a modlím sa.“
+„Biblia ma povzbudila,“ povedala. „Boh pôsobí prostredníctvom Biblie. Ak diabol chce spôsobiť zmätok, jednoducho sa odvolávam na biblické zasľúbenia  a modlím sa.“
 
-_Tento misijný príbeh ilustruje cieľ misie pre všetkých zo strategického plánu Cirkvi adventistov siedmeho dňa „I Will Go“ (Pôjdem), ktorý hovorí: „Kristus sa stretával s ľuďmi, aby im prejavoval súcit a slúžil ich potrebám. Týmto spôsobom si získal ich dôvru a nakoniec ich vyzval: Nasleduj ma. Cieľom je prejaviť o ľudí úprimný záujem, viesť ich ku Kristovi a pozvať ich, aby sa pripojili k Cirkvi adventistov siedmeho dňa ako Kristovi učeníci, ktorí získavajú ďalších učeníkov.“ Viac informácií nájdete na IWillGo.org. Video o Miriam si môžete pozrieť na YouTube na bit.ly/Miriam-IS._
+_Tento misijný príbeh ilustruje cieľ „Misia pre všetkých“ strategického plánu Cirkvi adventistov siedmeho dňa „I Will Go“ (Pôjdem), v ktorom sa okrem iného píše: „Kristus sa stretával s ľuďmi, prejavoval súcit, slúžil ich potrebám, získaval si ich dôveru a potom ich pozval, aby ho nasledovali. Cieľom je prejavovať o ľudí úprimný záujem, viesť ich ku Kristovi a pozývať ich, aby sa spojili s Cirkvou adventistov siedmeho dňa ako Kristovi učeníci, ktorí robia ďalších učeníkov.“ Viac informácií nájdete na stránke IWillGo.org. Pozrite si krátke video s Miriam na YouTube na adrese bit.ly/Miriam-IS._
