@@ -3,34 +3,32 @@ title:  Misijný príbeh
 date:  12/06/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
+#### Najdôležitejšie dielo v živote
 
-#### Najdôležitejšia práca v živote
+Zeth Louis Lekatompessy vypracoval plán, ako priviesť svojich sedem súrodencov a ich rodiny ku Kristovi v tom istom roku, keď bol pokrstený v Indonézii.
 
-Zeth Louis Lekatompessy si v tom istom roku, keď bol v Indonézii pokrstený, pripravil plán, ako priviesť ku Kristovi svojich sedem súrodencov a ich rodiny.
+Plán vyzeral takto: Zeth požiadal svoju manželku, ktorú si vzal krátko pred krstom, aby sa spolu s ním každý deň modlila za jeho príbuzných. On a jeho manželka tiež navštevovali príbuzných a spolu s nimi študovali Bibliu. Potom ich pozval na evanjelizačné stretnutia do kostola adventistov siedmeho dňa na ostrove Ambon, kde žili. Na konci stretnutí bolo pokrstených 13 ľudí, vrátane jeho staršej sestry a dvoch ďalších príbuzných. Neskôr bolo pokrstených ďalších päť bratov a sestier. Zeth mal obrovskú radosť! Rozhodol sa, že privádzať ľudí ku Kristovi je najdôležitejšia práca v živote.
 
-Jeho plán vyzeral nasledovne: Zeth požiadal svoju manželku, s ktorou sa oženil krátko pred krstom, aby sa s ním denne modlila za jeho príbuzných. Spolu s manželkou príbuzných navštevovali a študovali s nimi Bibliu. Potom ich pozval na evanjelizačné prednášky do zboru adventistov siedmeho dňa na ostrove Ambon, kde žili. Na konci týchto prednášok bolo pokrstených 13 ľudí vrátane jeho staršej sestry a dvoch ďalších príbuzných. Neskôr bolo pokrstených ďalších päť bratov a sestier. Zeth sa veľmi tešil! Rozhodol sa, že viesť ľudí ku Kristovi je tá najdôležitejšia práca v živote.
+Nasledujúce dva roky pracoval ako knižný evanjelista, plavil sa medzi ostrovmi, aby predával knihy. Pandémia COVID-19 ukončila jeho prácu.
 
-Nasledujúce dva roky pracoval ako kolportér a plavil sa medzi ostrovmi, aby predával knihy. Pandémia COVID-19 jeho prácu ukončila.
+Keď uvažoval o budúcnosti, pocítil vnuknutie, aby sa stal dobrovoľným  biblickým pracovníkom. Jeho manželka súhlasila a on sa vrátil k plánu, ktorý si vytvoril pre spásu svojich súrodencov. S manželkou si urobili zoznam všetkých ľudí, ktorých poznali, a každý deň sa za nich modlili. So svojimi dvoma malými deťmi navštevovali ľudí zo zoznamu na motorke.
 
-Keď premýšľal o budúcnosti, pocítil vnuknutie stať sa dobrovoľným biblickým pracovníkom. Jeho manželka súhlasila a on sa vrátil k plánu, ktorý si vytvoril pre záchranu svojich súrodencov. S manželkou si spísali zoznam všetkých ľudí, ktorých poznali, a denne sa nad ním modlili. S dvomi malými deťmi potom na motocykli navštevovali ľudí z tohto zoznamu.
-
-Keď prišli k novému domu, Zeth predstavil seba aj svoju rodinu a povedal: „Sme adventisti siedmeho dňa.“
+Keď prišli k novému domu, Zeth predstavil seba a svoju rodinu a povedal: „Sme adventisti siedmeho dňa.“
 
 Majitelia domov sa zvedavo pýtali: „Čo je to adventista?“
 
-„Adventista je niekto, kto uctieva Boha v sobotu,“ odpovedal Zeth.
+„Adventista je niekto, chodí na bohoslužbu  v sobotu,“ odpovedal Zeth.
 
-Nasledovala nevyhnutná otázka: „Čo je to sobota?“
+Ďalšia otázka nevyhnutne znela: „Čo je to sobota?“
 
-Zeth navrhol majiteľom domov, aby si odpoveď vyhľadali na internete.
+Zeth navrhol, aby si majitelia domov vyhľadali odpoveď na internete.
 
-Keď ľudia zistili, že sobotou je siedmy deň týždňa, boli prekvapení a pýtali sa: „Je pravda, že sobota je ten pravý deň uctievania?“
+Keď majitelia domov zistili, že sabat je sobota, boli prekvapení a pýtali sa: „Je pravda, že sobota je skutočný deň uctievania?“
 
-Vtedy Zeth otvoril Bibliu a ponúkol im biblické štúdium.
+Potom Zeth otvoril Bibliu a ponúkol štúdium Biblie.
 
-Počas troch rokov sa zoznam modlitieb rozrástol na 50 mien. Zeth s rodinou zvyčajne navštevovali tri rodiny denne. Kým Zeth odišiel študovať teológiu na univerzitu Klabat, boli pokrstení štyria ľudia zo zoznamu. Počas jeho štúdia na Klabate boli pokrstení ďalší traja a ostatní pokračovali v biblických štúdiách počas jeho neprítomnosti.
+Zoznam modlitebníkov sa za tri roky rozrástol na 50 mien. Zeth a jeho rodina zvyčajne navštevovali tri rodiny denne. Keď Zeth odišiel študovať teológiu na Klabatskú univerzitu, štyria ľudia zo zoznamu už boli pokrstení. Ďalší traja boli pokrstení počas jeho štúdia na Klabatskej univerzite a ostatní pokračovali v štúdiu Biblie aj počas jeho neprítomnosti.
 
-„Štrnásť percent ľudí z môjho zoznamu už bolo pokrstených,“ povedal.
+„Štrnásť percent ľudí z môjho zoznamu bolo pokrstených,“ povedal.
 
-_Ďakujeme vám za dary na 13. sobotu, známe aj ako štvrťročné misijné dary, ktoré pomáhajú ľuďom ako Zeth pripraviť sa na evanjelizačnú službu. Univerzita Klabat, ktorá sa nachádza neďaleko Manada v Indonézii, bola príjemcom darov v minulosti. Dary v tomto štvrťroku pomôžu podobným školám vo Východo-stredoafrickej divízii. Pozrite si video o Zethovi na bit.ly/Zeth-IS._
+_Ďakujeme vám za váš obetný dar trinástej soboty, známy aj ako štvrťročný misijný obetný dar, ktorý pomáha ľuďom ako Zeth pripraviť sa na evanjelizačnú službu. Klabatská univerzita, nachádzajúca sa neďaleko Manada v Indonézii, je už predchádzajúcim príjemcom obetného daru. Obetný dar v tomto štvrťroku pomôže podobným školám v divízii stredovýchodnej Afriky. Pozrite si video so Zethom na YouTube na bit.ly/Zeth-IS._
