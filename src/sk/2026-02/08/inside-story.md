@@ -3,34 +3,32 @@ title:  Misijný príbeh
 date:  22/05/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
+#### Odišla som sa skryť do Solusi
 
-#### Schovať sa na Solusi
+Lindsay nešla na univerzitu Solusi, adventistickú inštitúciu v Zimbabwe, kvôli svojej viere. Nebola adventistka. Nešla tam ani preto, že by tam mala priateľov. Na kampuse nikoho nepoznala. Išla do Solusi, pretože sa nechcela nechať prichytiť pri klamstve.
 
-Lindsay nešla na univerzitu Solusi, adventistickú inštitúciu v Zimbabwe, kvôli svojej viere. Nebola adventistka. Nešla tam ani preto, že by tam mala priateľov. V areáli univerzity nikoho nepoznala. Na Solusi išla preto, lebo nechcela, aby ju pristihli pri lži.
+Keď Lindsay dokončila strednú školu, snívala o štúdiu na univerzite. Ale potom jej rodičia oznámili, že na to nemajú peniaze.
 
-Keď Lindsay končila strednú školu, snívala o štúdiu na univerzite. Jej rodičia jej však oznámili smutnú správu: nemali na to peniaze.
+„Musíš to pochopiť,“ povedala mama. „Sľubujem ti, že pôjdeš na univerzitu, aj keď to bude chvíľu trvať.“
 
-„Musíš to pochopiť,“ povedala matka. „Sľubujem ti, že na univerzitu pôjdeš, aj keď to bude nejaký čas trvať.“
+Matka bola krajčírka a otec predával šaty, záclony a poťahy na pohovky, ktoré ušila. Keď Lindsay dokončila strednú školu, podnikaniu sa nedarilo a jej rodičia sa rozhodli presťahovať do Botswany.
 
-Matka bola krajčírka a otec predával šaty, závesy a poťahy na pohovky, ktoré ušila. Keď však Lindsay skončila strednú školu, ich podniku sa príliš nedarilo a rodičia sa rozhodli presťahovať do Botswany.
+Otec sa ju snažil povzbudiť. „Všetko sa zlepší,“ povedal.
 
-Otec sa ju snažil povzbudiť. „Bude to lepšie,“ hovoril.
-
-Nasledujúcich päť rokov Lindsay pomáhala v rodinnom podniku. Starí priatelia zo Zimbabwe jej volali, aby zistili, ako sa jej darí.
+Lindsay pomáhala v rodinnom podniku nasledujúcich päť rokov. Starí priatelia jej volali zo Zimbabwe, aby sa opýtali, ako sa jej darí.
 
 „Čo sa deje v tvojom živote?“ pýtali sa.
 
-„Študujem, rovnako ako vy,“ odpovedala.
+„Študujem rovnako ako vy,“ odpovedala.
 
-Ako čas plynul, takmer sa vzdala svojho sna o štúdiu na univerzite.
+Postupom času, sa takmer vzdala svojho sna ísť na univerzitu.
 
-Podnikanie matky sa postupne zlepšovalo. Získala viac zákazníkov a otvorila si obchod. Jedného dňa si ona a otec Lindsay zavolali a s úsmevom jej oznámili, že si môže vybrať univerzitu, na ktorej bude pokračovať v štúdiu.
+Mamin podnik sa postupne zlepšoval. Získala viac zákazníkov a otvorila si obchod. Jedného dňa si ju s otcom zavolali a s úsmevom jej oznámili, že si môže vybrať univerzitu, na ktorej bude pokračovať v štúdiu.
 
-Lindsay bola nadšená, ale nebola si istá, kam má ísť. Uvažovala o Zimbabwianskej univerzite, ale tam študovali jej priatelia a ona nechcela, aby sa dozvedeli, že dovtedy neštudovala. Pozerala sa na Midlands State University, ale aj tam boli jej známi. Mala priateľov na každej univerzite okrem jedinej: Solusi. Rozhodla sa teda ísť tam.
+Lindsay bola nadšená, ale nebola si istá, kam má ísť. Zvažovala Univerzitu v Zimbabwe, ale študovali tam jej priatelia a ona nechcela, aby vedeli, že ona sama neštudovala. Zvažovala aj Štátnu univerzitu v Midlands, ale aj tam študovali jej priatelia. Mala priateľov na každej univerzite okrem jednej: Solusi. Tak sa rozhodla ísť tam.
 
-Keď Lindsay prišla, adventistickú cirkev nepoznala. Napriek tomu chodila každú sobotu do zboru a o osem mesiacov neskôr bola pokrstená. Jej rodičia oslavovali jej rozhodnutie žiť pre Ježiša.
+Keď Lindsay prišla, nepoznala Adventistickú cirkev. Chodila však do kostola každú sobotu a o osem mesiacov neskôr sa dala pokrstiť. Rodičia oslávili  jej rozhodnutie žiť pre Ježiša.
 
-Dnes má Lindsay Chikanda 24 rokov a končí prvý rok štúdia. Je pripravená povedať svojim priateľom zo strednej školy pravdu: „Veľmi ma to mrzí, ale nehovorila som vám pravdu. V skutočnosti som neštudovala. Bola som v Botswane, pretože moji rodičia si nemohli dovoliť platiť školné a ja som s nimi pracovala. Potom som však prišla na Solusi a našla som Boha. Nechceli by ste Boha poznať aj vy?“
+Dnes má Lindsay Chikanda 24 rokov a končí prvý ročník štúdia. Je pripravená povedať svojim  priateľom zo strednej školy pravdu: „Je mi to veľmi ľúto, ale nepovedala som vám pravdu. Neštudovala som. V skutočnosti som bola v Botswane, pretože moji rodičia si nemohli dovoliť platiť školné a ja som pracovala s nimi. Ale potom som prišla do Solusi a našla som Boha. Chceli by ste aj vy spoznať Boha?“
 
-_Vaše sobotné misijné obety podporujú adventistické školstvo po celom svete. Ďakujeme vám za vaše misijné dary. Pozrite si krátke video o Lindsay na YouTube na bit.ly/Lindsay-IS._
+_Vaše misijné príspevky zo sobotnej školy podporujú vzdelávanie adventistov siedmeho dňa po celom svete. Ďakujeme za vaše príspevky na misiu. Pozrite si krátke video s Lindsay na YouTube na bit.ly/Lindsay-IS._

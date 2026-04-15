@@ -35,4 +35,6 @@ Iolanda Xavierová, 86-ročná prababička, verí, že nič nie je dôležitejš
 
 „Misia je naozaj dôležitá,“ povedala. „Všetci sme sa narodili z Boha, aby sme boli misionármi.“
 
-_Časť z minuloročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, bola použitá na otvorenie kostola v Adventistickej akadémii v Pernambucu v brazílskom štáte Pernambuco, kde Iolanda žije. Ďakujeme vám za plánovanie štedrej obety na projekty tohto štvrťroka. Pozrite si video s Iolandou na YouTube na bit.ly/Iolanda-IS._
+_Časť z minuloročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, bola použitá na otvorenie kostola v Adventistickej akadémii v Pernambucu v brazílskom štáte Pernambuco, kde Iolanda žije. Ďakujeme vám za plánovanie štedrej obety na projekty tohto štvrťroka. Pozrite si video s Iolandou na YouTube na https://youtu.be/DLoixSojhF4?si=vZjdDEM1oOyuDIVF ._
+
+![Iolanda](picture3.jpg) 
