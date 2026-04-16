@@ -48,3 +48,5 @@
           target: xh/2026-02/06/01
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/xh/2026-02/2026-02-06-02.mp3
           target: xh/2026-02/06/02
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/xh/2026-02/2026-02-06-03.mp3
+          target: xh/2026-02/06/03
