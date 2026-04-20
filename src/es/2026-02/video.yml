@@ -39,6 +39,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2026-02-03.mp4
           target: es/2026-02/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2026-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2026-02-04.mp4
+          target: es/2026-02/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2026-02-04.webp
     - artist: Pastor Daniel Herrera
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2026-02-01.mp4
@@ -64,6 +67,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-02-03.mp4
           target: es/2026-02/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-02-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-02-04.mp4
+          target: es/2026-02/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-02-04.webp
     - artist: Escuela Sabática Like
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/cm/es-cm-2026-02-01.mp4
