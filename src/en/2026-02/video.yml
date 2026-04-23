@@ -56,6 +56,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-02-04.mp4
           target: en/2026-02/04
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-02-04.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-02-05.mp4
+          target: en/2026-02/05
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-02-05.webp
     - artist: Sabbath School Talking Points
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tp/tp-en-2026-02-01.mp4
