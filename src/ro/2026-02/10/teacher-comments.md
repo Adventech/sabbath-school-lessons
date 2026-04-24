@@ -1,0 +1,50 @@
+---
+title:  Material Pentru Instructori
+date:  05/06/2026
+---
+
+### Privire generală
+
+Studiul din această săptămână se leagă de discuția de săptămâna trecută despre natura păcatului, când am avut în vedere lipsa de speranță pe care o generează starea noastră păcătoasă. Săptămâna aceasta vom lua în discuție răspunsul lui Dumnezeu la problema umană a păcatului. După căderea omului, Dumnezeu nu a rămas la distanță, în cer, indiferent la starea noastră nenorocită. La timpul hotărât, Isus, Fiul lui Dumnezeu, a coborât în trup de om pentru a întreprinde o operațiune de salvare. Dumnezeu, în persoana Fiului Său, a murit pentru păcatele noastre. La cruce, Hristos a plătit prețul suprem al dreptății pentru salvarea noastră. De atunci Domnul Isus mijlocește în cer pentru noi, ca să ne asigure locul alături de El în Împărăția Sa. Iar acum, la timpul sfârșitului, mijlocește pentru noi prin Duhul Său, chemându-ne să ne schimbăm căile păcătoase, care duc la moarte, și să acceptăm în schimb darul vieții veșnice. Singura soluție la problema păcatului este să dăm curs chemării lui Dumnezeu la pocăință (Osea 6).
+
+Am învățat că, fiind păcătoși, suntem într-o stare pierdută fără Hristos și astfel umblăm în întuneric (1 Ioan 1:6) și vom învăța cum să ieșim din întuneric la lumina minunată a lui Dumnezeu (1 Ioan 1:7). Fără îndurarea lui Dumnezeu prin Hristos Isus, păcatul nostru este de neiertat și suntem robi ai păcatului și ai morții (Geneza 2:17; Romani 5:12). Vom explora cum rămânem vii în Hristos, uimiți de darul minunat al harului lui Dumnezeu (Exodul 34:1-10). Fără acest dar, suntem ca Adam și Eva la cădere, rușinați de goliciunea noastră (Geneza 3:7). Vom vedea și cum harul lui Dumnezeu ne acoperă așa cum i-a acoperit pe Adam și pe Eva când s-au pocăit (Geneza 3:21; Apocalipsa 7:13-17; Matei 22:12).
+
+### Comentariu 
+
+Chemarea la pocăință adresată de Dumnezeu (Osea 6) – Cuvântul ebraic șub se referă la acțiunea fizică de întoarcere. Acest verb exprimă și conceptul spiritual de pocăință și este un cuvânt-cheie în cartea Osea. Pocăința este o temă majoră pe tot parcursul cărții. Verbul șub se referă la întoarcerea soției profetului Osea, care a ajuns prostituată și s-a îndepărtat de soțul ei (Osea 2:7). Necredincioșia Gomerei față de legământul căsătoriei simbolizează necredincioșia poporului Israel față de Dumnezeu. Așadar șub este folosit și pentru a desemna întoarcerea (pocăința) lui Israel la Dumnezeu (Osea 3:5).
+
+Verbul șub apare și la începutul capitolului 6 (v. 1), unde se referă la pocăința poporului Israel față de Dumnezeu, dar și din nou la sfârșitul capitolului (v. 11). Este un procedeu literar care leagă pocăința poporului Israel de promisiunea întoarcerii lui din exil. Din nou, situația reală a profetului cu soția lui adulteră este folosită ca metaforă pentru a reprezenta situația asemănătoare a lui Israel în raport cu Dumnezeu. În acest pasaj profetul îi amintește lui Israel de starea lui prezentă, în care este sfâșiat din cauza judecății lui Dumnezeu, care rupe Israelul în bucăți (Osea 5:14), așa cum ar face un leu cu prada sa (Osea 5:14). Apoi profetul promite că Dumnezeu va readuce Israelul la viață în a treia zi, ceea ce este o aluzie la învierea spirituală a poporului.
+
+În Orientul Apropiat antic se credea că o persoană putea fi declarată cu adevărat decedată doar după trei zile de descompunere. Referirea la trei zile implică faptul că trezirea era într-adevăr o înviere, ca și cum ar fi fost din morți. Aceeași analogie se aplică în Noul Testament învierii lui Isus Hristos în „a treia zi, după Scripturi” (1 Corinteni 15:4). (De reținut că, în sistemul de calcul evreiesc din vechime, se numărau trei zile chiar dacă a treia zi era doar parțial cuprinsă.) Paralela dintre cele două învieri, a lui Israel și a lui Hristos, nu permite doar o citire tipologică a pasajului care leagă învierea lui Israel (întoarcerea din robie) de învierea lui Hristos. Din perspectiva Noului Testament, paralela conține și lecția spirituală că pocăința ar asigura împlinirea promisiunii că Dumnezeu Își va „învia” poporul, așa cum Dumnezeu Și-a înviat Fiul (vezi 1 Corinteni 15:20; compară cu 1 Corinteni 15:23).
+
+**Umblarea în lumina lui Dumnezeu (1 Ioan 1:5-10)** – În Osea am auzit chemarea lui Dumnezeu la pocăință, la întoarcere la El. În epistola lui Ioan auzim chemarea lui Dumnezeu de a umbla în lumina Lui. Epistola lui Ioan începe cu o referire la „început” (1 Ioan 1:1), o aluzie la evenimentul creației, „cu privire la Cuvântul vieții” (1 Ioan 1:1). Aceeași asociere se găsește în prologul Evangheliei după Ioan, unde ucenicul iubit folosește expresia „la început” (Ioan 1:1), făcând astfel trimitere la primul cuvânt din Geneza, bere’șit, „la început” (Ioan 1:1; compară cu Geneza 1:1). În Evanghelia după Ioan, lumina și viața sunt legate: „În El era viața, și viața era lumina oamenilor” (Ioan 1:4). Tot astfel, în epistola lui, Ioan vorbește despre Dumnezeul vieții (1 Ioan 1:1,2) care este și Dumnezeul luminii (1 Ioan 1:5). Ioan folosește evenimentul cosmic al creației ca argument pentru a ne convinge să umblăm în lumina lui Dumnezeu. Pentru că Dumnezeu, Creatorul și Sursa vieții, este „lumină”, trebuie să umblăm în lumina Lui (1 Ioan 1:7). Acest principiu este important și pentru că, în afara luminii lui Dumnezeu, nu suntem doar în întuneric, incapabili să vedem calea dreaptă, ci suntem și păcătoși și, prin urmare, avem absolută nevoie de curățirea și iertarea lui Hristos (1 Ioan 1:9). Ioan insistă deci asupra faptului că toți păcătuim. Nimeni nu poate afirma altceva (1 Ioan 1:10).
+
+În cartea Eclesiastul găsim același avertisment. După ce arată starea de confuzie care caracterizează căutarea înțelepciunii (Eclesiastul 7:10-18), înțeleptul avertizează că este imposibil ca oamenii să găsească pe cont propriu înțelepciunea (Eclesiastul 7:23). Singura certitudine pe care el a găsit-o în viață este că „Dumnezeu a făcut pe oameni fără prihană, dar ei umblă cu multe șiretenii” (Eclesiastul 7:29). Prin urmare, Eclesiastul subliniază că nimeni de pe pământ nu poate merita mântuirea, pentru că toți suntem păcătoși (Eclesiastul 7:20). Solomon concluzionează că singura ieșire din această situație este prin Dumnezeu (Eclesiastul 7:18).
+
+**Caracterul lui Dumnezeu (Exodul 34:1-10)** – Dumnezeu este Cel care face primul pas în împăcarea noastră cu Sine. El este Cel care ne oferă iertarea. Poporul Israel a experimentat această realitate după ce s-a închinat vițelului de aur (Exodul 32:1-6). Acest „păcat atât de mare” i-a separat pe israeliți de Dumnezeu. Nicio acțiune sau merit omenesc nu putea să treacă peste prăpastia dintre cer și pământ. Pentru a simboliza această separare, Moise a sfărâmat tablele legii pe care tocmai le primise din mâna lui Dumnezeu (Exodul 32:15,16). Apoi Moise a stat înaintea lui Dumnezeu și L-a implorat să ierte poporul pentru păcatul lui foarte mare (Exodul 32:31-35). Dumnezeu i-a răspuns lui Moise, care L-a rugat să i Se descopere în slava Sa (Exodul 33:18), descoperindu-i harul iertării Sale (Exodul 33:19). Pasajul în discuție, Exodul 34:1-10, este împlinirea acelei promisiuni. Accentul declarației lui Dumnezeu din aceste versete cade pe harul Său, care este exprimat prin 5 cuvinte (Exodul 34:6):
+
+• **„Plin de îndurare”**, din cuvântul ebraic rekhem, „pântec”, evocă intimitatea legăturii dintre o mamă însărcinată și copilul din pântecele ei.
+
+• **„Milostiv”** se referă la ideea de ceva oferit „fără plată” (khinam).
+
+• **„Încet la mânie”** (lit. „lung la nas”) se referă la răbdarea imensă a lui Dumnezeu.
+
+• **„Bunătate și credincioșie”** exprimă împreună tensiunea dintre iubire și dreptate.
+
+În ziua judecății (Daniel 7:9-15; Daniel 8:14), harul lui Dumnezeu asigură iertarea și mila Lui pentru poporul Său.
+
+**Haine noi (Geneza 3:21; Apocalipsa 7:13-17)** – Adam și Eva au simțit vulnerabilitatea goliciunii lor pentru că au pierdut veșmântul de lumină original care îi îmbrăca. Acest veșmânt de lumină reflecta înfățișarea divină (vezi Psalmii 8:5; compară cu Psalmii 104:1,2).
+
+Soluția lui Adam și a Evei la problema goliciunii a fost să se acopere singuri, o greșeală pe care Pavel o va denunța mai târziu ca „neprihănire prin fapte” (vezi Galateni 2:16). Procedând astfel, perechea umană lua de fapt locul lui Dumnezeu. Această uzurpare a fost reparată mai târziu, când Dumnezeu a venit să-i îmbrace (Geneza 3:21). Evenimentul în care Dumnezeu i-a îmbrăcat pe Adam și pe Eva este relatat în Geneza 3:7 în termeni care amintesc de fabricarea umană a hainelor. Același verb, la aceeași formă, wayya’asu/waya’as („și-au făcut”/„a făcut”), este folosit în ambele pasaje. Folosirea acestui verb în ambele versete arată că numai Dumnezeu are dreptul și capacitatea de a acoperi păcătoșii. Dumnezeu a întipărit această lecție prin instituirea jertfei, care arăta spre viitoarea jertfă a lui Hristos. Folosirea de către Dumnezeu a pieii unui animal implica faptul că animalul a fost ucis sau jertfit (Leviticul 5:5-10; 7:8). Astfel, haina datorată jertfei, încărcată cu perspectiva ei mesianică, a înlocuit hainele făcute de om.
+
+Relatarea din Geneza despre schimbarea hainelor de către Dumnezeu are o semnificație tipologică. În mod simbolic, ea arată spre viitorul veșmânt al neprihănirii pe care Dumnezeu îl va da celor mântuiți (Apocalipsa 3:5; 3:18; 19:8), care vor participa la ospățul de nuntă al Mielului (Apocalipsa 19:9; compară cu Matei 22:12).
+
+### Aplicație 
+
+**Sugestie pentru instructor:** Care este relația dintre dragoste și dreptate? Pentru a începe explorarea acestei întrebări profunde împreună cu grupa ta de studiu, roagă un membru să citească gândul de mai jos pe această temă! Apoi discutați următoarele întrebări.
+
+**De meditat: Dragostea și dreptatea** – În ebraică, cuvântul țedeq înseamnă „dragoste” sau „dreptate”, în funcție de context.
+
+1. De ce dreptatea fără dragoste nu este dreptate, iar dragostea fără dreptate nu este dragoste?
+
+2. Cere-le membrilor din grupa ta de studiu să găsească exemple din Biblie ori din istorie sau evenimente actuale care ilustrează acest adevăr! Invită-i să-și prezinte concluziile în fața grupei!
