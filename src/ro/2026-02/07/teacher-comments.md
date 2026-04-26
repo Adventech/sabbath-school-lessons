@@ -1,0 +1,58 @@
+---
+title:  Material Pentru Instructori
+date:  15/05/2026
+---
+
+### Privire generală
+
+Rugăciunea este o nevoie umană universală. Dar strigătele noastre către Dumnezeu adesea par să se risipească într-un gol, rămânând fără răspuns. Cartea Psalmii este o colecție remarcabilă de rugăciuni bazate pe speranța și dorința omului de a primi răspunsuri divine. Rugăciunea din Psalmul 62, de exemplu, începe cu tăcerea umană, care așteaptă răspunsul lui Dumnezeu (Psalmii 62:1,5), apoi continuă cu un apel adresat tuturor oamenilor de a se încrede în Dumnezeu și de a se ruga „în orice vreme” (Psalmii 62:8). În final, psalmul transmite asigurarea că Dumnezeu va răspunde (Psalmii 62:11).
+
+Săptămâna trecută am studiat teologia rugăciunii și am reflectat asupra semnificației ei spirituale. În această săptămână vom avea în vedere experiența reală a rugăciunii așa cum s-a manifestat în viața diferitelor personaje biblice ale căror implorări către Dumnezeu au fost auzite și au primit răspuns.
+
+### Comentariu 
+
+Trei personaje biblice au fost selectate pentru a ne inspira să ne rugăm. Primul personaj este Ana (1 Samuel 1:6-17), ale cărei rugăciuni încep cu durere și se termină cu bucurie (1 Samuel 2:1-11). Al doilea este Ilie, a cărui rugăciune dramatică de proclamare și apoi de tăcere a fost o puternică mărturie pentru cei care au asistat la confruntarea dintre Dumnezeu și Baal pe muntele Carmel (1 Regi 18; 19:18). Al treilea este Daniel, care Îl imploră pe Domnul printr-o rugăciune de cerere și de speranță (Daniel 9:3-19).
+
+**Rugăciuni de amărăciune și de bucurie: Ana (1 Samuel 1:6 – 2:11)**
+
+Istoria Anei începe cu relatarea despre un om evlavios (1 Samuel 1:3) cu o genealogie impresionantă (1 Samuel 1:1). Textul face referire și la cei doi fii ai preotului Eli, care sunt prezenți la cortul întâlnirii din Șilo (1 Samuel 1:3). Eli însuși șade pe un scaun la intrarea în cort (1 Samuel 1:9). Dar protagonista neașteptată a istorisirii este Ana, care era sterilă – nu putea avea copii (1 Samuel 1:6). Textul biblic relatează că ea se roagă de două ori (1 Samuel 1:10,11; 2:1-10). Prima dată, ea înalță o rugăciune care izvorăște din „sufletul [ei] amărât” (1 Samuel 1:10). În durerea ei, Îl roagă pe Domnul să-i ofere un răspuns. A doua rugăciune a Anei este o revărsare de bucurie ca reacție la intervenția plină de har a lui Dumnezeu. Textul biblic este saturat de tema rugăciunii: cuvântul în sine și alți termeni asociați, precum „am cerut”, apar de 7 ori în pasaj (1 Samuel 1:10,12,17,20,26,27; 2:1).
+
+**Rugăciunea de amărăciune:** Prima rugăciune a Anei provine din lipsa ei de speranță. Ea este nefericită, nu mănâncă și plânge de durere. Dorința Anei de a avea un copil nu este împlinită, căci Domnul i-a închis pântecele. Sterilitatea o face ținta batjocurii în propria casă; în fiecare an când urca la casa Domnului, Ana era provocată de rivala ei (1 Samuel 1:7). Ca situația să fie și mai nefericită, preotul Eli îi disprețuiește și el rugăciunea. El crede că este beată, pentru că doar buzele i se mișcă atunci când se roagă, vocea nu i se aude (1 Samuel 1:13). Dar amărăciunea Anei se transformă brusc în speranță. Drept urmare, ea mănâncă și nu mai este tristă (1 Samuel 1:18).
+
+Istoria nașterii miraculoase a lui Samuel amintește de matriarhele Sara, Rebeca și Rahela: „Domnul Și-a adus aminte”; „Ana a rămas însărcinată” (1 Samuel 1:19,20; compară cu Geneza 21:1; 30:22).
+
+**Rugăciunea de bucurie:** Istoria Anei culminează cu o nouă rugăciune, plină de bucurie. De data aceasta, Ana nu mai este nefericită și singură. Ea se închină acum la casa Domnului împreună cu soțul și copilul ei, pe care îl aduce înaintea preotului Eli ca împlinire a rugăciunii ei (1 Samuel 1:26,27). A doua rugăciune a Anei, rugăciunea de bucurie, contrastează cu prima ei rugăciune, când era nefericită și se tânguia. Acum, Ana se bucură și Îl slăvește pe Domnul. Această rugăciune, atât profetică, cât și mesianică, trimite cu gândul la rugăciunea de laudă a Mariei (Luca 1:46-55).
+
+**Rugăciuni de proclamare și de tăcere:** Ilie (1 Regi 18; 19:18) În Israel nu plouase de peste trei ani. Profetul Ilie îl provoacă apoi pe regele Ahab la o dispută (1 Regi 18:19). Confruntarea dintre Ilie și profeții lui Baal are loc pe muntele Carmel. Ilie propune ca preoții lui Baal să-și invoce zeul să trimită foc peste jertfa de pe altarul pe care îl construiseră. În același fel, Ilie va cere Domnului să facă același lucru cu jertfa de pe altarul pe care îl construise și el (1 Regi 18:24).
+
+**Rugăciunea profeților lui Baal nu primește răspuns.** Profeții lui Baal se roagă. Își invocă zeul de mai multe ori – „Baale, auzi- ne!” – dar nu primesc niciun răspuns. Se aruncă pe altar, strigă și se automutilează. În zadar. Nu primesc niciun răspuns (1 Regi 18:26,29).
+
+**Rugăciunea lui Ilie este ascultată.** Atunci Ilie toarnă apă peste jertfa închinată lui Dumnezeu și în jurul ei, apoi se roagă (1 Regi 18:33-35). Ca răspuns, se coboară foc din cer și mistuie jertfa, în ciuda faptului că era îmbibată cu apă. Ilie nu aude niciun glas ca răspuns la rugăciunea lui. Revărsarea focului este singurul indiciu că Dumnezeu i-a ascultat rugăciunea.
+
+Ilie îl invită pe rege să se ridice, să mănânce și să bea, pentru că vine ploaia (1 Regi 18:41). Apoi Ilie își trimite slujitorul de șapte ori să verifice dacă se văd semne de ploaie. Când, în cele din urmă, vine, ploaia este atât de puternică încât Ilie trebuie să-l însoțească pe rege pentru ca nu cumva să fie oprit din drum. Din nou, Ilie nu aude glasul lui Dumnezeu care să-i descopere voia Lui; ploaia este dovada că Dumnezeu i-a ascultat rugăciunea.
+
+În ciuda minunii focului din cer și a demonstrației prezenței lui Dumnezeu, Izabela, căreia Ahab îi spusese despre minunea de pe muntele Carmel, refuză în continuare să recunoască suveranitatea lui Dumnezeu. Ea pornește pe urmele lui Ilie, care, pentru prima dată, se teme pentru viața lui. Ilie se roagă lui Dumnezeu și se tânguie cu amar că toți L-au părăsit pe Domnul, cu excepția lui (1 Regi 19:10; compară cu 1 Regi 18:22). Agravată de frică, amărăciunea lui se adâncește și Ilie se teme pentru viața lui în fața amenințărilor cu moartea ale Izabelei (1 Regi 19:3).
+
+Un susur blând și subțire: Ilie fuge de Izabela și se ascunde într‑o peșteră. În acest moment al narațiunii, glasul lui Dumnezeu se face auzit pentru prima dată. Dar vocea divină are un ton ironic: „Ce faci tu aici, Ilie?” (1 Imparati 19:9). Pentru a-și justifica starea de descurajare, Ilie pretinde că el este singurul rămas dintre cei credincioși în Israel ca să Îl apere pe Domnul (1 Regi 19:10). Dumnezeu nu răspunde acestei afirmații, iar când îi răspunde în cele din urmă lui Ilie, glasul Său nu se aude în vântul tare și puternic, nici în cutremur sau în foc (1 Regi 19:11,12). În mod neașteptat, Ilie aude doar „un susur blând și subțire” (1 Regi 19:12). Expresia ebraică qol demamah daqah înseamnă literal „vocea unei tăceri fine”. Doar atunci Ilie înțelege că se află în prezența lui Dumnezeu (1 Regi 19:13). Sunetul senzațional al focului și cel al ploii au fost minuni care au demonstrat puterea lui Dumnezeu. Dar într-o măsură și mai mare decât aceste fenomene sonore, vocea tăcerii lui Dumnezeu se aude ca cea mai evidentă manifestare a prezenței Sale și ca o proclamare răsunătoare a revelației divine.
+
+**O rugăciune stăruitoare și plină de speranță** (Daniel 9:3-19) Rugăciunea lui Daniel nu este un simplu exercițiu literar sau un tratat teologic; ea este expresia unei legături strânse cu Dumnezeu, care este atât departe, cât și aproape. Apropierea lui Dumnezeu este sugerată de modul în care Daniel I se adresează, ca Dumnezeului său personal. Apelativul ’adonai, „Domnul meu”, care exprimă apropierea lui Dumnezeu, este cel mai frecvent titlu divin din rugăciune (Daniel 9:4,7,9,15-17,19 [de trei ori]). Distanța lui Dumnezeu este exprimată prin celălalt nume al Său, ha’elohim, „Dumnezeul”. Totuși, așa cum se poate vedea, Daniel, care Îl descrie pe Dumnezeu ca Dumnezeul „mare și înfricoșat” (Daniel 9:4), Îl identifică și ca Dumnezeul său personal, „m-am rugat Domnului Dumnezeului meu”. Contrastul dintre Dumnezeul credincios (Daniel 9:4) și oamenii păcătoși și necredincioși (Daniel 9:5,6) accentuează distanța dintre Dumnezeu și oameni, prin gravitatea păcatului lor și nevoia de a se apropia de Domnul.
+
+Rugăciunea se încheie cu o implorare: ’adonai, „Doamne”, care se repetă de două ori, de fiecare dată însoțită de un verb menit să atragă atenția lui Dumnezeu: „Ascultă, Doamne! Iartă, Doamne! Ia aminte, Doamne! Lucrează și nu zăbovi!” (Daniel 9:19). Rugăciunea lui Daniel are în vedere mântuirea poporului lui Dumnezeu. Daniel, cu o intensitate profundă, tânjește după un răspuns divin: „Lucrează și nu zăbovi!” Această rugăciune stăruitoare, la care răspunsul este profeția de 70 de săptămâni (Daniel 9:24-27), duce la prima venire a lui Hristos. Aceeași dorință stăruitoare răsună și în întrebarea îngerului: „Până când [...]?” (Daniel 8:13). Această întrebare își va primi răspunsul în viziunea celor 2.300 de seri și dimineți, care duc la ziua escatologică a judecății ce precedă a doua venire a Domnului Isus (Daniel 8:14).
+
+### Aplicație 
+
+Sugestie pentru instructor: La această secțiune practică, grupa se va concentra pe modelul de rugăciune pe care Domnul Isus l-a propus în Matei 6:9-13. Roagă un membru din grupă să citească acest pasaj! Invită-i pe membrii grupei să extragă din rugăciunea Mântuitorului sfaturi practice sau principii pentru viața de zi cu zi, așa cum sunt descrise mai jos! Roagă-i pe membri să fie pregătiți să împărtășească, Sabatul următor, cum aplicarea acestor principii le-a îmbogățit viața de rugăciune!
+
+**Principiul 1 – Tatăl nostru care ești în ceruri:** Când te rogi, conștientizează că Dumnezeu este Tatăl tău, care este aproape de tine, dar Se află totuși în ceruri!
+
+**Principiul 2 – Vie Împărăția Ta:** Când te rogi, gândește-te la Împărăția viitoare a lui Dumnezeu ca la un loc al păcii, dreptății și iubirii! Include această speranță în relațiile tale cu oamenii, atunci când mănânci, bei, lucrezi și te recreezi!
+
+**Principiul 3 – Facă-se voia Ta, precum în cer și pe pământ:** Aplică acest principiu al rugăciunii atunci când iei decizii! Tot ce îți dorești așază pe altarul lui Dumnezeu! Adu această atitudine de supunere desăvârșită, care este o pregustare a cerului, în relațiile tale cu ceilalți, cedând cu smerenie în fața nevoilor lor și prețuindu-i pe alții ca pe tine însuți!
+
+**Principiul 4 – Pâinea noastră cea de toate zilele dă-ne-o nouă astăzi:** Implică-te într-un proiect de caritate pentru a-i binecuvânta și a-i ajuta pe alții! Atunci când mănânci, fii moderat în consum, mulțumindu-I lui Dumnezeu pentru ceea ce ți-a dat și nefiind stăpânit de poftă!
+
+**Principiul 5 – Și ne iartă nouă greșelile noastre, precum și noi iertăm greșiților noștri:** Roagă-L pe Dumnezeu să ierte pe cineva care ți-a făcut rău și apoi să îți dea și ție harul să ierți și tu acea persoană! Viziteaz-o și invit-o la masă! (Nu este neapărat nevoie să îi spui că ai iertat-o, decât dacă Duhul îți deschide o oportunitate și te îndeamnă clar să faci acest lucru. Ideea este să fii plin de iubire și bunătate și să interacționezi fără niciun fel de amărăciune în inima ta.)
+
+**Principiul 6 – Și nu ne duce în ispită:** Roagă-L pe Dumnezeu să te întărească pentru a rezista ispitei! În același timp, cere-I să îți dea puterea de a închide ușa în fața ispitei! Evită să guști, să atingi sau să privești orice lucru care te-ar putea îndepărta de Dumnezeu!
+
+**Principiul 7 – Izbăvește-ne de cel rău:** Roagă-L pe Dumnezeu să te elibereze de o anumită slăbiciune sau înclinație spre rău pe care o ai! Cere-I biruință!
