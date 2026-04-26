@@ -74,3 +74,5 @@
           target: ru/2026-02/05/07
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/2026-02/ru-2026-02-06.mp3-1.mp3
           target: ru/2026-02/06/01
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/ru/2026-02/ru-2026-02-06.mp3-2.mp3
+          target: ru/2026-02/06/02
