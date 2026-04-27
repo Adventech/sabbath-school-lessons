@@ -1,0 +1,58 @@
+---
+title:  Material Pentru Instructori
+date:  29/05/2026
+---
+
+### Privire generală
+
+Se povestește despre doi băieți gemeni care au învățat încă din copilărie că orice plăcere era păcat. Toate acțiunile lor erau restricționate de reguli stricte: nu citi această carte, pentru că este păcat; nu mânca această mâncare, pentru că este păcat; nu râde, pentru că este păcat; nu merge în acel loc, pentru că este păcat! Când au crescut, cei doi băieți au luat-o pe căi diferite. Unul dintre frați a dezvoltat o mare frică de ceea ce era interzis și abia îndrăznea să iasă din casă, de teamă să nu vină în contact cu influențe care să îl întineze moral și fizic. Se temea chiar să deschidă ferestrele din camera lui și nu îndrăznea să mănânce prea mult din produsele vândute în piață. În cele din urmă, a murit de tânăr din pricina unei abstinențe excesive. Celălalt frate însă a avut problema opusă. A dezvoltat o puternică atracție pentru ceea ce era interzis. A încercat droguri, s-a înecat în alcool și a frecventat tot felul de cazinouri și localuri dubioase. A căpătat plăcere gustativă pentru anumite alimente interzise. Nu a trecut mult și tânărul s-a îmbolnăvit și a murit din cauza exceselor.
+
+A fost oare atât de greșită educația pe care au primit-o băieții? La urma urmei, nu ar trebui să facem tot ce putem ca să evităm păcatul? Elementul categoric greșit în educația lor a fost că nu au învățat niciodată ce este cu adevărat păcatul. Nici nu au înțeles de ce păcatul era rău; prin urmare, nu erau echipați să lupte împotriva lui. În acest studiu vom învăța ce este păcatul și cum să-l biruim.
+
+### Comentariu 
+
+**Ce este păcatul și de ce este rău?**
+
+**Incapacitatea de a identifica păcatul:** Când nu identificăm precis păcatul, amplificăm problema lui. De pildă, dacă nu numim adulterul păcat, riscăm să-i minimalizăm gravitatea și, mai rău, să-l normalizăm.
+
+Neidentificarea clară a păcatului este o problemă deosebit de răspândită în multe culturi astăzi. În societatea seculară, e posibil să evităm folosirea termenului „păcat” din mai multe motive. Mai întâi, societatea secularizată poate evita termenul „păcat” pentru că are conotații religioase. Pentru cei mai mulți oameni, păcatul nu există; el presupune ceva interzis de Dumnezeu sau de religie. Pentru cei mai mulți oameni care nu cred în Dumnezeu și nu aderă la standardele morale ale religiei, nu există conceptul de păcat. Ei vorbesc despre greșeli, infracțiuni, abateri etice sau sociale, dar nu despre „păcate”. Din perspectiva lor, o discuție despre păcat este așadar irelevantă sau chiar percepută ca un atac la adresa libertăților lor. Doar că una dintre consecințele grave ale refuzului nostru de a recunoaște păcatul este lipsa de conștientizare a răului. Astfel, pentru mintea seculară, motivația de a nu comite o faptă nu este ideea că fapta aceea este rea sau păcătoasă, ci contează doar considerentele sociale sau civice. Mintea seculară nu știe că păcătuiește, pentru că nu conștientizează ceea ce Biblia numește „frica de Domnul”.
+
+Când a călătorit într-o țară străină, Avraam s-a temut că va fi nedreptățit pentru că oamenii de acolo nu aveau frica de Dumnezeu (Geneza 20:11) care să stăpânească în inima lor. Prin urmare le era străin conceptul de „păcat”. Dar faptul că acest concept le era străin nu înseamnă că aceia care ignoră păcatul nu sunt responsabili pentru păcatele lor. Chiar dacă cei inconștienți de păcatele lor nu cred în Dumnezeul lui Israel, același Dumnezeu îi va judeca, la fel de sigur cum Își va judeca poporul (Amos 1:2). În ce îi privește pe cei care știu că păcătuiesc și refuză totuși să recunoască acest lucru, spunând că nu au păcătuit, Dumnezeu promite că Își va dovedi dreptatea împotriva lor (Ieremia 2:35).
+
+**Păcatul ca distorsiune:** Cuvântul ebraic pentru păcat kht’ înseamnă literal „a rata ținta”. „Păcatul” este înțeles ca o „abatere” sau o „distorsiune” de la calea „dreaptă” originală. Eclesiastul descrie condiția umană drept tragic de strâmbă; aceasta este iremediabilă: „Ce este strâmb nu se poate îndrepta” (Eclesiastul 1:15). Din acest motiv, actul de săvârșire a păcatului este asociat cu problema uitării, făcând referire la o situație din trecut care este iremediabilă, pierdută odată cu trecerea timpului. De aceea există numeroase pasaje biblice în care profetul îndeamnă poporul lui Dumnezeu să nu uite, ca nu cumva să cadă în păcat fără să-și dea seama (Deuteronomul 6:12; 32:18; compară cu Iacov 1:24).
+
+**Păcatul împotriva lui Dumnezeu:** În Israelul antic, păcatul era un act religios care Îl viza direct pe Dumnezeu, cum ar fi idolatria (Deuteronomul 9:16) sau neascultarea de Dumnezeu (Deuteronomul 1:41). Nedreptatea sau abaterile etice împotriva oamenilor erau și ele considerate păcate împotriva lui Dumnezeu. Când a rezistat avansurilor desfrânate ale soției lui Potifar, care încerca să-l ademenească să se culce cu ea, Iosif a identificat propunerea ei nu doar ca pe un rău împotriva soțului ei, ci ca pe un păcat împotriva Domnului (Geneza 39:9). După ce a comis adulter cu Bat-Șeba și a aranjat uciderea soțului ei, Urie Hititul, David a înțeles că a păcătuit împotriva Domnului (2 Samuel 12:13). Mai târziu în istoria Vechiului Testament, profeții au mustrat națiunile și Israelul pentru comiterea unor crime violente și acte neetice care îi vătămau pe alții (Amos 1:11; 2:6-8). Mica a mers chiar până la a sublinia superioritatea datoriei etice față de ritualul religios (Mica 6:6-8).
+
+Noul Testament continuă în aceeași direcție. Pentru Domnul Isus, dacă păcătuim împotriva aproapelui nostru sau nu avem grijă de el, este ca și cum am fi păcătuit împotriva Lui sau L-am fi neglijat pe El (Matei 25:45). În viziunea lui Pavel, atunci când păcătuim împotriva fraților „păcătui[m] împotriva lui Hristos” (1 Corinteni 8:12). Chiar și atunci când păcătuim împotriva noastră înșine, în propriul trup, păcătuim împotriva lui Dumnezeu. Este valabil și reversul: primul păcat comis de om împotriva lui Dumnezeu a avut un impact asupra vieții și mediului omului (Geneza 3:17-19). Păcatul este cauza morții la toți oamenii (Geneza 2:17), un principiu repetat de multe ori în Biblie (Proverbele 8:36; Ezechiel 18:4; Romani 5:12). Deoarece trupul nostru este templul Duhului Sfânt, a păcătui împotriva trupului nostru înseamnă a păcătui împotriva lui Dumnezeu (1 Corinteni 6:18,19).
+
+**Cum putem lupta împotriva păcatului?**
+
+**Conștientizarea păcatului:** Pe cont propriu nu putem face nimic împotriva păcatului. Așadar prima soluție la problemă este pur și simplu să recunoaștem păcatul și să admitem că natura lui este rea. În acest scop avem nevoie de legea lui Dumnezeu. Căci numai „prin Lege vine cunoștința deplină a păcatului” (Romani 3:20). Legea este astfel comparată cu un „îndrumător” care ne va conduce la Hristos (Galateni 3:24). Așa cum îndrumătorul din societatea greacă antică avea rolul de a-l conduce pe copil la maestrul sau învățătorul său, și legea lui Dumnezeu ne va duce la Hristos. Pe măsură ce ne străduim să trăim după legea neprihănirii, vom realiza cât de dificil este și cât de lipsiți de speranță suntem. Atunci vom înțelege că singura noastră speranță este să primim harul lui Dumnezeu.
+
+**Calea lui Adam și a Evei:** Să ne gândim la mărturisirea păcatului făcută de Adam și de Eva! Pe de o parte, putem deduce că și-au dat seama că au călcat legea lui Dumnezeu deoarece s-au ascuns de prezența unui Dumnezeu drept (Geneza 3:6-10). Pe de altă parte, când Dumnezeu le-a cerut să se arate și a început să-Și desfășoare cercetarea cu privire la ce se întâmplase, amândoi au răspuns acuzându-L pe Dumnezeu pentru greșeala lor. Adam a făcut referire la goliciunea lui, care era starea inițială în care Dumnezeu îi crease să existe (Geneza 2:25), și apoi la femeie, care îi fusese dată de Dumnezeu (Geneza 3:12). Eva a dat vina pe șarpe, care fusese creat de Dumnezeu (Geneza 3:1,13).
+
+Singurul pasaj care dezvăluie efectul păcatului asupra naturii lui Adam și a Evei este Geneza 3:22,23, unde Dumnezeu observă că Adam și Eva erau la început asemenea lui Dumnezeu. (De reținut că verbul ebraic hayah, tradus prin „a ajuns” în Geneza 3:22, ar trebui tradus cu „era”, la timpul trecut, la fel ca în Geneza 3:1). Traducerea comună „a ajuns” sugerează în mod greșit că păcatul a adus o îmbunătățire a condiției și statutului oamenilor. În plus, o astfel de traducere dă impresia că șarpele a avut dreptate când a avertizat-o pe Eva că Dumnezeu nu dorea ca ea și Adam să devină ca El (Geneza 3:5). În realitate, Dumnezeu deplânge realitatea tragică că, după păcat, Adam și Eva și-au pierdut asemănarea cu El. Numai Dumnezeu recunoaște așadar adevăratul efect negativ al păcatului asupra lor. Adam și Eva nu au fost în stare să facă o mărturisire a păcatului pentru că își pierduseră legătura cu Dumnezeu. Înainte ca Adam și Eva să păcătuiască, legătura lor cu Dumnezeu le permitea să discearnă realitatea păcatului. De îndată ce s-au depărtat de prezența lui Dumnezeu, și-au pierdut capacitatea de a discerne binele de rău. Ellen G. White afirmă: „Amestecând răul cu binele, mintea omului a devenit confuză, iar puterile sale mintale şi spirituale – amorţite. El nu mai putea să aprecieze binele pe care Dumnezeu îl revărsase din abundenţă” (Educație, p. 25).
+
+Lecția de bază pe care o învățăm din căderea omului este pur și simplu aceasta: pentru că au păcătuit, oamenii și-au pierdut simțul înnăscut al discernământului, capacitatea de a face deosebire între bine și rău. Așadar, despărțiți de Dumnezeu, nu suntem capabili să ne exercităm cu succes acea judecată. Din acest motiv, Dumnezeu ne-a dat legea și Evanghelia. Avem nevoie de lege pentru a ne călăuzi în direcția cea bună. Tot astfel, avem nevoie de harul lui Hristos pentru a ne ajuta să ne îndreptăm cu speranță și iubire în acea direcție.
+
+### Aplicație 
+
+**Sugestie pentru instructor:** Roagă pe cineva să citească următoarele idei despre păcat! Asigură-te că aveți suficient timp pentru discutarea întrebărilor de după sau pentru împărtășirea mărturiilor, după cum este indicat în continuare!
+
+**De meditat: Este vreodată păcatul altceva decât păcat?**
+
+Un creștin a comis adulter. Când prietenii l-au mustrat pentru infidelitatea lui, el a insistat că nu era păcat, pentru că o iubea pe acea femeie. Pentru că Dumnezeu este dragoste, bărbatul a susținut că ceea ce făcuse era aprobat de Dumnezeu. Mai târziu, acest bărbat a avut o relație cu o altă femeie, apoi și cu alte femei. Când prietenii l-au confruntat din nou cu privire la aceste acțiuni și l-au întrebat dacă Dumnezeu încă aproba, bărbatul a răspuns că nu mai credea în Dumnezeu.
+
+**De discutat:**
+
+1. Gândiți-vă la cazuri din viața voastră, a prietenilor sau de la știri, în care păcatul este justificat și chiar prezentat ca o faptă bună! Care este efectul unor astfel de atitudini asupra structurii morale a societății? De ce este acest mod de gândire atât de periculos?
+
+2. Gândiți-vă la cazuri din Biblie, din istorie și la evenimente actuale în care respingerea sau dezincriminarea păcatului unei persoane a făcut-o mai nefericită!
+
+3. Ce argumente ați folosi pentru a ajuta pe cineva să înfrunte realitatea păcatului său?
+
+**De reflectat: Păcatul și fericirea** – Pe baza lucrării sale privind legătura dintre etică și fericire, psihiatrul Henri Baruk a concluzionat: „Omul găsește fericirea făcând bine altora. Nu suntem fericiți atunci când căutăm propria noastră fericire. Omul care caută fericirea nu o va găsi niciodată” (Henri Baruk, în Shabbat Shalom, decembrie 1996).
+
+1. Cere-le membrilor grupei să vorbească despre fericirea pe care au trăit- o făcând bine altora!
+
+2. Faceți planuri ca săptămâna care urmează să ajutați pe cineva aflat în nevoie fizică, financiară sau spirituală!
