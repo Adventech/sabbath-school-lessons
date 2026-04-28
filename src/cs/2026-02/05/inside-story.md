@@ -5,7 +5,7 @@ date:  01/05/2026
 
 #### Krávy dovedly chlapce k sobotě
 
-Rompas se narodil v Keni do masajské kmenové rodiny jednoho otca a devíti matek. Má 82 sourozenců. On sám je v pořadí 62.
+Rompas se narodil v Keni do masajské kmenové rodiny jednoho otce a devíti matek. Má 82 sourozenců. On sám je v pořadí 62.
 
 Když mu bylo 13 let, pásl v buši otcův dobytek a tu si všiml, jakoby zvířata měla vlastní rozum. Stále se pohybovala jedním směrem. Následoval je a ocitl se na venkovním náboženském shromáždění, které vedl misionář ze Spojených států.
 
