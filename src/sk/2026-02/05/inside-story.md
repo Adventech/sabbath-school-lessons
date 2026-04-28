@@ -34,3 +34,5 @@ Týmto chlapec s prezývkou „Pastor“ urobil prvý krok k tomu, aby sa stal a
 _Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky._
 
 _Viac si o Rompasovi prečítate na budúci týždeň a video s ním si môžete pozrieť na YouTube na bit.ly/Rompas-IS._
+
+![Rompas ](picture5.jpg) 
