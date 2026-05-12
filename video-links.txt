@@ -1,1 +1,1 @@
-yt-dlp "https://youtu.be/7mTWxxLBNPQ?si=ycpX3GdzeRhaIrFV" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2026-02-07.mp4"
+yt-dlp "https://youtu.be/MhCBVRow0i8?si=1UYJymmdLgtoeVyc" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ilo/ilo-2026-02-07.mp4"
