@@ -27,4 +27,6 @@ Dnes je Rompas Josphat Lekishon adventistickým pastorom so srdcom pre misijnú 
 
 „Najviac ma teší rozdávať Bibliu Masajom,“ povedal. „Je to dávanie nádeje tým, ktorí ju stratili.“
 
-_Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky. Pozrite si video o Rompasovi na YouTube na bit.ly/Rompas-IS._
+_Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky. Pozrite si video o Rompasovi na YouTube na https://youtu.be/bap3Avkh-5c ._
+
+![Rompas](picture7.jpg) 
