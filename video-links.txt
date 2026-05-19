@@ -1,13 +1,7 @@
-yt-dlp "https://www.youtube.com/watch?v=tkWT2DA9NFQ" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2026-02-08.mp4"
+yt-dlp "https://youtu.be/cMJJPzwM1JM?si=8qO90lNIljtAdZhn" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/bul/es-2026-02-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=f_I7FT1-SQI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "inv/en-2026-02-inv-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=O-namck8Ee4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/ssb/de-ssb-2026-02-08.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=yzv1pUfRs0I" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2026-02-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=kpvg4X2_Nm4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2026-02-08.mp4"
 
-yt-dlp "https://youtu.be/OW3SmkYRUgQ?si=ldyjyrWapYx5j-Vf" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2026-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=hWbzTRjP3YI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ta/ta-2026-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=5WDbYnjF1gA" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2026-02-08.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=ezyeNihefFQ" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/sum/es-sum-2026-02-08.mp4"
+yt-dlp "https://www.youtube.com/watch?v=sB0-9mXuMkQ" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ilo/ilo-2026-02-08.mp4"
