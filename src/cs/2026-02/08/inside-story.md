@@ -34,3 +34,5 @@ Dnes je Lindsay Chikanda 24 let a dokončuje první rok studia. Nyní je připra
 _Vaše misijní dary v rámci sobotní školy podporují vzdělávání od Církve adventistů sedmého dne po celém světě. Děkujeme vám za vaše dary na misijní práci._
 
 _Podívejte se na krátké video s Lindsay na YouTube na adrese https://youtu.be/zLLaqk3Yyh8 ._
+
+![Lindsay](picture8.jpg) 
