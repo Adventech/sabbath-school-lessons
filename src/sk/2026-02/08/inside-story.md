@@ -32,3 +32,5 @@ Keď Lindsay prišla, nepoznala Adventistickú cirkev. Chodila však do kostola 
 Dnes má Lindsay Chikanda 24 rokov a končí prvý ročník štúdia. Je pripravená povedať svojim  priateľom zo strednej školy pravdu: „Je mi to veľmi ľúto, ale nepovedala som vám pravdu. Neštudovala som. V skutočnosti som bola v Botswane, pretože moji rodičia si nemohli dovoliť platiť školné a ja som pracovala s nimi. Ale potom som prišla do Solusi a našla som Boha. Chceli by ste aj vy spoznať Boha?“
 
 _Vaše misijné príspevky zo sobotnej školy podporujú vzdelávanie adventistov siedmeho dňa po celom svete. Ďakujeme za vaše príspevky na misiu. Pozrite si krátke video s Lindsay na YouTube na bit.ly/Lindsay-IS._
+
+![Lindsay](picture8.jpg) 
