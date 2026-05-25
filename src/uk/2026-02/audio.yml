@@ -128,3 +128,5 @@
           target: uk/2026-02/09/06
         - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-05-29.m4a
           target: uk/2026-02/09/07
+        - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/audio/uk/2026-02/2026-05-30.m4a
+          target: uk/2026-02/10/01
