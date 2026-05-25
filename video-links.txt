@@ -49,3 +49,7 @@ yt-dlp "https://youtu.be/50RPP3dJqo0?si=W1JTO7wq_DRQj5Mr" -S vcodec:h264,res:108
 yt-dlp "https://youtu.be/kJ3fXgxlvt4?si=DSLpY9KksD_d-PEw" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/hope/tl-hope-2026-02-09.mp4"
 
 yt-dlp "https://youtu.be/25K9pc6GlFY?si=WiMhQoqjx__SI_b3" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "hr/hr-2026-02-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=BmAz03Tn6DU" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/bul/es-2026-02-09.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=ZlzhFMRwKis" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/bul/ru-bul-2026-02-09.mp4"
