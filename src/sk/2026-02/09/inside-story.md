@@ -30,3 +30,5 @@ Tarsis tomu nemohol uveriť. Triasol sa. O sekundu neskôr stála vedľa neho je
 Tarsisa, dnes 42-ročného dôstojníka vojenskej polície v brazílskom Recife, sa opýtali, prečo mu Boh dal 50 realov a nie viac. Odpovedal: „Pretože som nepomohol viacerým ľuďom. Keby som ponúkol pomoc viacerým ľuďom, Boh by mi dal viac.“ Pre neho malo tých 50 realov dokonalý zmysel: 5 realov na desiatok, 5 realov na obetu a 40 realov pre jeho priateľov. „Keď pomáhame ľuďom, neschudobnieme,“ povedal. „Boh je ten, kto nás živí. Buďte verní.“
 
 _Pozrite si video o Tarsisovi na bit.ly/Tarsis-IS._
+
+![Tarsis Gomes](picture9.jpg)
