@@ -42,7 +42,7 @@ date:   29/05/2026
 -   Wie kommt Johannes darauf, dass Gottes Gebote „nicht schwer“ sind
     (1. Johannes 5,3)? Warum werden sie von manchen oft als Last
     empfunden?
--   **Persönlich:** Wenn ihr an Gottes Gebote denkst: Welche Empfindung
+-   **Persönlich:** Wenn du an Gottes Gebote denkst: Welche Empfindung
     tritt da als erstes zutage? (Schutz, Orientierung, Freiheit – oder
     Druck, Einengung?) Warum?
 
