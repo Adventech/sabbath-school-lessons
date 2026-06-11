@@ -1,0 +1,19 @@
+### Krikščioniškojo gyvenimo ir liudijimo esmė
+
+Laiškų rašymas yra nesenstanti veikla. Mes tiesiog pakeitėme laiškų rašymo būdą. Taip, socialinė žiniasklaida pakeitė popierių. Tačiau iš esmės elektroniniai laiškai ir kitos elektroninių laiškų formos atlieka tą pačią funkciją – jungia žmones, kurie keičiasi informacija, jausmais ir mintimis.
+
+Kodėl žmonės rašo laiškus? Galimas atsakymas, kad jie turi ką pasakyti. Taip buvo ir apaštalo Pauliaus atveju. Nors jis turėjo daug pasakyti, jam ne visada teko galimybė asmeniškai susitikti su tais, su kuriais jis norėjo pasikalbėti.
+
+Todėl jis rašė laiškus, pavyzdžiui, korintiečiams, kuriuose yra keletas giliausių Šventojo Rašto tiesų. Tarp jų: „Mat buvau pasiryžęs tarp jūsų nežinoti nieko kito, tik Jėzų Kristų, ir Tą nukryžiuotą“ (1 Kor 2, 2); „Jūs juk pažįstate mūsų Viešpaties Jėzaus Kristaus malonę ir žinote, jog Jis, būdamas turtingas, dėl jūsų tapo vargdieniu, kad jūs taptumėte turtingi per Jo neturtą“ (2 Kor 8, 9). O nuostabus himnas meilei 1 Korintiečiams 13?
+
+Kita vertus, kiekvienas, skaitantis Pauliaus laiškus korintiečiams, neišvengiamai suglumsta ne tik dėl kai kurių esminių problemų Bažnyčioje, tokių kaip seksualinis amoralumas, bet ir dėl priekabiavimo, kylančio dėl pigaus narių susiskaldymo. Jei manote, kad jūsų bendruomenė turi sudėtingų problemų, pasiruoškite pamatyti ginčų laviną, su kuria Pauliui teko susidurti Korinte. Galbūt jūsų vietinės bendruomenės problemos nėra tokios didelės, kaip įsivaizduojate? Labai tikėtina, kad pamatysite, jog Korinte padėtis buvo daug blogesnė.
+
+Kad ir kokios nerimą keliančios buvo problemos Korinte, laiškai korintiečiams patraukia mūsų dėmesį ne dėl pačių problemų, o dėl nepaprasto Pauliaus požiūrio į jas. Ragindamas Bažnyčios narius ištirti save, savo elgesį ir aplinkinę kultūrą Jėzaus Kristaus Evangelijos šviesoje, jis išaukštino Kryžiaus žinią. Remiantis kitais paties Pauliaus žodžiais, bet koks matas, žemesnis už Evangelijos žinią, laikytinas „anatema“ (Gal 1, 8–9).
+
+Pauliaus laikais Korintas garsėjo savo turtais ir stipria prekyba, visa tai dėka uosto, architektūros, laivų statybos ir keramikos. Miestas buvo svarbus finansų centras. Nepaisant to, jis taip pat buvo žinomas dėl seksualinio amoralumo, religinės kakofonijos (blogas skambėjimas) ir šventyklų, skirtų įvairiems dievams. Iš tiesų, kasdienį gyvenimą Korinte žymėjo akivaizdi stabmeldystė. Šis istorinis ir kultūrinis kontekstas padeda mums suprasti Pauliaus susirūpinimą krikščionimis tame mieste ir, atitinkamai, jo raginimus jiems.
+
+Šį ketvirtį apžvelgsime Pauliaus laiškus korintiečiams. Šiose dviejose nuostabiose Naujojo Testamento knygose apaštalas pateikia Evangelijos žinią kaip krikščioniškojo gyvenimo ir liudijimo esmę, prizmę, per kurią reikia žvelgti į visa kita. Nesvarbu, su kokiais iššūkiais susiduria kiekvienas iš mūsų individualiai ar Bažnyčia apskritai savo kelionėje į dangų, atsakymas į pačius mįslingiausius klausimus mūsų darbe dėl Kristaus yra toks pat, kaip ir korintiečiams – Jėzus Kristus, ir Tas nukryžiuotas! (1 Kor 2, 2)
+
+Jėzus netrukus ateis. Dabar laikas didesnei vienybei Kristuje, atvirumui Šventajai Dvasiai kaip niekad anksčiau, uoliam dvasinių dovanų naudojimui ir gilesniam patyrimui su mūsų prisikėlusiu Viešpačiu. Tai laikas tikrai krikščioniškai tarnystei, įsitraukimui į prievaizdavimą ir misiją, dvasinei kovai su klaidamoksliais ir augimui malone, meile bei bendryste. Tai laikas ištikimybei Kryžiaus žiniai, tvirtai jos laikantis, ir Pauliaus laiškai korintiečiams moko mus būtent to.
+
+_Profesorius ir mokslų daktaras Adenilton Tavares de Aguiar dėsto Naująjį Testamentą Šiaurės Rytų Adventistų Kolegijoje, Kačoeiroje, Bahijoje, Brazilijoje. Jis ten dirba nuo 2010 m._
