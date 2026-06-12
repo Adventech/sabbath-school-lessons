@@ -1,1 +1,3 @@
 yt-dlp "https://www.youtube.com/watch?v=yUa535zVWJ8" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/af/en-af-2026-02-12.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=eInWj-GFvuI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2026-02-12.mp4"
