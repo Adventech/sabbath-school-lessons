@@ -25,11 +25,12 @@ date:   12/06/2026
 
 ##### Geheilt werden (Mo) | Markus 5,21–36.
 
--   Markus wendet in seinem Evangelium gerne die "Sandwich-Technik": Er
-    erzählt eine Geschichte, unterbricht diese mit einer anderen, bevor
-    er die erste wieder fortsetzt. Damit beabsichtigt er, dass wir die
-    beiden Geschichten miteinander vergleichen und im Vergleich daraus
-    lernen. Markus 5,21-43 ist ein Beispiel dieser Sandwich-Technik.
+-   Markus wendet in seinem Evangelium gerne die "Sandwich-Technik" an:
+    Er erzählt eine Geschichte, unterbricht diese mit einer anderen,
+    bevor er die erste wieder fortsetzt. Damit beabsichtigt er, dass wir
+    die beiden Geschichten miteinander vergleichen und im Vergleich
+    daraus lernen. Markus 5,21-43 ist ein Beispiel dieser
+    Sandwich-Technik.
 -   Welche Parallelen und Unterschiede der beiden Situationen fallen
     euch auf? (Zum Beispiel: Not, Ort, Art der Krankheit .chronisch,
     akut., Kontaktversuche, Begegnung .heimlich. offen., Status, 12
