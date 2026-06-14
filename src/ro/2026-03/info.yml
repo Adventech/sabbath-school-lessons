@@ -1,0 +1,22 @@
+---
+  title: "1 și 2 Corinteni"
+  description: "Scrierea de scrisori este o activitate care datează de secole și care nu s-a perimat. S-a schimbat doar modul de scriere. Da, rețelele de socializare au înlocuit hârtia."
+  human_date: "Iulie · August · Septembrie 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#44837B"
+  color_primary_dark: "#306760"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Adenilton Tavares de Aguiar"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Lectură
+      value: "Daniel Brînzan"
+    - name: Redactare
+      value: "Delia-Mirela Buciuman"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Copertă
+      value: "Liliana Dincă"

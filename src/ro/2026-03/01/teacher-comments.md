@@ -1,0 +1,52 @@
+---
+title:  Material Pentru Instructori
+date:  03/07/2026
+---
+
+### Privire generală
+
+O caricatură recentă înfățișează o doamnă mai în vârstă foarte corpolentă, aflată într-un cabinet medical, și un doctor cu o expresie uimită pe chip. Textul de sub caricatură spune: „Domnule doctor, mă identific drept o tânără suplă de 16 ani și mi se pare extrem de ofensator faptul că spuneți că greutatea mea la această vârstă îmi pune sănătatea în pericol.”
+
+Așa cum arată umoristic acest desen, percepția este un element esențial al identității. Celor cărora le e greu să-și definească identitatea le va fi de asemenea greu să-și atingă scopul sau să-și îndeplinească misiunea în viață. Studiul din această săptămână ne prezintă două cărți din Noul Testament axate pe misiune, 1 și 2 Corinteni. Ni se face cunoștință și cu autorul cărților, Pavel, în special în ceea ce privește misiunea și obiectivul lui atunci când s-a adresat corintenilor.
+
+### Teme
+
+1. Contextul cultural și istoric: Vom analiza elementele culturale și istorice relevante pentru studierea epistolelor adresate corintenilor.
+
+2. Strategia: Vom avea în vedere strategia misionară a lui Pavel în Corint în cadrul bisericii creștine timpurii.
+
+3. Identitatea: Merită repetat faptul că celor cărora le este greu să-și definească identitatea le va fi greu și să-și împlinească misiunea. Vom răspunde la următoarele întrebări: (a) De ce s-a identificat Pavel ca apostol? (b) Ce rol joacă identitatea în misiune? (c) Ce fel de identitate avea biserica din Corint? (d) Cum ne putem menține o identitate creștină într-o lume care pune accent pe valori și pe idealuri diferite?
+
+### Comentariu 
+
+**1. Context:** Întâia epistolă a lui Pavel către corinteni este una dintre cele mai lungi epistole din Noul Testament. La fel ca Romani, are 16 capitole, însumând 433 de versete. Este o scrisoare pastorală adresată unei biserici recent înființate, care se confruntă cu probleme importante de natură etică, teologică și interpersonală. Pavel se identifică în mod clar ca autor al acestei prime scrisori adresate corintenilor (1:1), iar în ultimul ei capitol (16:21) menționează semnătura sa scrisă cu propria mână. A doua epistolă către corinteni este mai scurtă (13 capitole, 257 de versete) și conține informații mult mai personale despre apostolul Pavel. Aceasta descrie pe larg înțelegerea apostolului cu privire la propria slujire apostolică. Unii au folosit expresia latină apologia pro vita sua, „în apărarea propriei vieți”, ca o denumire adecvată pentru conținutul și tematica din 2 Corinteni (vezi Leland Ryken și Philip Graham Ryken, „2 Corinthians: Introduction” în The Literary Study Bible: ESV, 2007, p. 1715). În această scrisoare, Pavel își apără lucrarea apostolică în fața unor critici din biserica din Corint și oferă un exemplu cu privire la modul în care viața și slujirea creștină ar trebui trăite.
+
+Corespondența dintre Pavel și tânăra comunitate creștină din Corint constituie un subiect de dezbatere în mediul academic. Cartea 1 Corinteni pare să conțină răspunsuri la întrebări trimise lui Pavel printr- o scrisoare (vezi, de exemplu, 1 Corinteni 7:1) – posibil ca reacția la o scrisoare anterioară pe care apostolul o trimisese și care nu mai există, menționată probabil în 1 Corinteni 5:9. Este posibil ca, după acea primă scrisoare, să fi existat între Pavel și comunitatea creștină din Corint mai multe schimburi de scrisori, indisponibile astăzi.
+
+Se presupune că aceste schimburi au precedat a doua epistolă care face acum parte din canonul biblic. Prima epistolă – 1 Corinteni – a fost scrisă în jurul anului 55 d.H. în Efes (vezi „1 Corinthians” în Andrews Bible Commentary, ed. Ángel Manuel Rodríguez et al., 2022, p. 1613), în timp ce data mai probabilă pentru 2 Corinteni este anul 56 d.H.
+
+**2. Strategie:** Lucrarea lui Pavel în Corint este descrisă în capitolul 18 din Faptele apostolilor. Apostolul slujise acolo mai bine de 18 luni. Orașul antic Corint fusese distrus de romani în 146 î.H. și reconstruit în 44 î.H. de către Iulius Cezar drept colonie romană. În scurt timp a devenit un centru politic și economic important, fiind situat strategic în estul Imperiului Roman. Cele două porturi ale sale, Chencrea (Kenchreai), în est, și Lechaion, în vest, ofereau o legătură terestră sigură între Marea Egee și Marea Ionică. Controlul Corintului asupra celor două porturi și asupra drumului care traversa istmul lat de șase kilometri îi permitea orașului să perceapă taxe atât asupra comerțului nord-sud, cât și asupra celui est-vest (vezi Jerome Murphy-O’Connor, „Corinth”, în The New Interpreter’s Dictionary of the Bible, 2006, vol. 1, p. 732-735).
+
+Orașul oferea mari posibilități economice, iar oportunitățile de ascensiune socială au atras multe naționalități. Pentru că era un oraș relativ tânăr, Corintul era și mai puțin controlat de tradiții vechi și mai deschis ideilor noi. Roma îl desemnase capitala provinciei Ahaia, subliniindu-i astfel importanța politică. Decizia strategică a lui Pavel de a investi mai bine de 18 luni din viața lui de slujire în Corint ne oferă un bun exemplu al planificării atente a activității sale misionare.
+
+Lucrarea lui Pavel în Corint a urmat tiparul cunoscut. A fost găzduit de Aquila și Priscila, doi evrei convertiți la creștinism, alungați din Roma printr-un decret al lui Claudius, care le interzicea tuturor evreilor să locuiască în oraș (Faptele 18:2). Și Aquila și Priscila confecționau corturi (Faptele 18:3). În mod strategic, Pavel vizita mai întâi sinagoga în Sabat (Faptele 18:4) și își concentra prezentarea – când era invitat să citească pasajele săptămânale din Tora – asupra vieții, morții și învierii Domnului Isus (Faptele 18:5).
+
+Arătând adevărata interpretare a unor texte mesianice cunoscute, Pavel reușea să interacționeze cu membrii evrei ai comunității. Interpretarea și predicarea lui Pavel însă creau adesea tensiuni în timpul călătoriilor sale misionare, ceea ce l-a determinat ca, în Corint, să-și reorienteze atenția asupra „temătorilor de Dumnezeu”. Aceștia erau neevrei care rezonau adesea cu învățăturile evreiești, dar care nu erau prozeliți (vezi Matei 23:15). Faptele apostolilor 18:7 relatează că Pavel a predicat în casa lui Iust, un vecin neevreu al sinagogii din Corint. Printre cei convinși de predicarea lui Pavel s-a numărat Crisp, conducătorul sinagogii, împreună cu toată casa lui, precum și cu mulți alții (18:8).
+
+**3. Importanța identității:** Identitatea ne modelează convingerile, perspectiva asupra istoriei și chiar propriul simț al existenței. După experiența lui de pe drumul către Damasc (Faptele 9), identitatea lui Pavel este ancorată în chemarea divină de a-L urma pe Domnul Isus și de a fi apostol (adică un trimis, un mesager) al Domnului Isus. Pavel, alături de coautorul Sosten, își începe prima scrisoare către biserica din Corint afirmând că a fost „chemat să fie apostol al lui Isus Hristos, prin voia lui Dumnezeu” (1 Corinteni 1:1; vezi și 2 Corinteni 1:1). Verbul apostellein, „a trimite”, stă la baza substantivului apostolos, care este rareori folosit în literatura greacă din afara Noului Testament. Folosirea unui cuvânt relativ rar pentru a identifica o activitate esențială în biserica primară este posibil să fi fost o încercare de a comunica importanța slujirii apostolilor, precum și funcția unică a celor trimiși și care, incluzându- l pe Pavel, nu s-a limitat la cei doisprezece, așa cum sugerează Romani 16:7 – „Spuneţi sănătate lui Andronic şi lui Iunia, rudele mele şi tovarăşii mei de temniţă, care sunt cu vază între apostoli.”
+
+Identitatea lui Pavel avea la bază **3 elemente: (1) experiența chemării**, când L-a văzut pe Domnul cel înviat (1 Corinteni 15:8,9; Galateni 1:15,16); **(2) însărcinarea de la Dumnezeu** de a proclama Evanghelia (Galateni 1:1; vezi și Faptele apostolilor 9:15) și (3) **roadele lucrării lui apostolice** , reprezentate de convertiți și de bisericile noi (1 Corinteni 9:2). Faptele apostolilor prezintă mai multe mărturii ale lui Pavel în care își relatează chemarea, însărcinarea și rezultatele, subliniind importanța acestor elemente pentru lucrarea sa. Deși își recunoaște pregătirea academică excelentă la picioarele unor învățați renumiți și apartenența sa la secta strictă a fariseilor, identitatea lui nu se bazează pe prestigiu și pe realizări, ci pe întâlnirea lui cu Isus Hristos.
+
+Identitatea pare să fie o problemă importantă și în biserica din Corint. Pavel reacționează la vestea că există dezbinare și că unii se identifică cu diverși lideri creștini. Pavel le amintește cititorilor că în primul rând sunt urmași ai lui Hristos, nu urmași ai lui Pavel, Apolo sau Petru (1 Corinteni 1:10-12). Argumentul său în favoarea unității se bazează pe Domnul Hristos, Cel care nu poate fi divizat, pe jertfa Sa și pe harul Său mântuitor (1 Corinteni 1:13).
+
+### Aplicație 
+
+Multe companii din zilele noastre investesc timp și bani în crearea unui brand și a unei identități proprii. Cei care le conduc își dau seama că, în lumea competitivă a afacerilor, simplul fapt de a face ceea ce au făcut dintotdeauna nu le va garanta supraviețuirea. Au nevoie de o viziune clară asupra a cine sunt și asupra nevoilor unice pe care le pot împlini. Și Pavel pare să fi cunoscut importanța identității.
+
+1. Explorați în cadrul grupei modul în care Pavel se definește ca apostol! Ce însemna această identitate și ce drept avea el să și-o asume? Cum a influențat apostolatul scopul și misiunea vieții lui?
+
+2. Discutați cum identitatea noastră individuală și comună, de creștini adventiști de ziua a șaptea, ne poate ajuta să descoperim și să împlinim nevoile comunităților noastre!
+
+3. Biserica din Corint era un amestec cultural unic. Cei mai mulți dintre membri nu aveau o moștenire iudaică; nu puteau fi identificați ca o ramură sau o sectă iudaică. Această lipsă a unei identități clare stă la baza multor probleme pe care Pavel le abordează în biserica din Corint. Discutați în cadrul grupei relația dintre identitate și comportament! De ce faptul că știm cine suntem, de unde venim și încotro mergem influențează ceea ce facem și modul în care trăim?
+
+4. În final, cum ne putem conserva identitatea creștină într-o lume care pune accentul pe valori și pe idealuri diferite?
