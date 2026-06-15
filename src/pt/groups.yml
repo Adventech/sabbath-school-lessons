@@ -11,3 +11,10 @@
   pt:
     name: "Edição de Portugal"
     order: 101
+  # Alive in Jesus — Vivos em Jesus
+  yaijbgtgtg:
+    name: "Vivos em Jesus. Berçário — Guia do Professor"
+    order: 850
+  zaijbgsg:
+    name: "Vivos em Jesus. Berçário — Guia do Aluno"
+    order: 851
