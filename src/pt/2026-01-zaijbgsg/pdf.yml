@@ -1,0 +1,76 @@
+pdf:
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-Intro.pdf
+    target: en/2026-01-zaijbgsg/introduction
+    title: "Introduction"
+    start_date: 28/12/2025
+    end_date: 28/12/2025
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-LittleDevotions.pdf
+    target: en/2026-01-zaijbgsg/littledevotions
+    title: "Little Devotions"
+    start_date: 28/12/2025
+    end_date: 28/12/2025
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-01.pdf
+    target: en/2026-01-zaijbgsg/01
+    title: "In the Beginning"
+    start_date: 28/12/2025
+    end_date: 03/01/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-02.pdf
+    target: en/2026-01-zaijbgsg/02
+    title: "God Made the Light"
+    start_date: 04/01/2026
+    end_date: 10/01/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-03.pdf
+    target: en/2026-01-zaijbgsg/03
+    title: "God Made the Sky"
+    start_date: 11/01/2026
+    end_date: 17/01/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-04.pdf
+    target: en/2026-01-zaijbgsg/04
+    title: "God Made the Dry Land"
+    start_date: 18/01/2026
+    end_date: 24/01/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-05.pdf
+    target: en/2026-01-zaijbgsg/05
+    title: "God Made the Plants"
+    start_date: 25/01/2026
+    end_date: 31/01/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-06.pdf
+    target: en/2026-01-zaijbgsg/06
+    title: "God Made the Sun, Moon, and Stars"
+    start_date: 01/02/2026
+    end_date: 07/02/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-07.pdf
+    target: en/2026-01-zaijbgsg/07
+    title: "God Made the Earth"
+    start_date: 08/02/2026
+    end_date: 14/02/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-08.pdf
+    target: en/2026-01-zaijbgsg/08
+    title: "God Made the Fish of the Sea"
+    start_date: 15/02/2026
+    end_date: 21/02/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-09.pdf
+    target: en/2026-01-zaijbgsg/09
+    title: "God Made the Birds of the Sky"
+    start_date: 22/02/2026
+    end_date: 28/02/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-10.pdf
+    target: en/2026-01-zaijbgsg/10
+    title: "God Made the Animals"
+    start_date: 01/03/2026
+    end_date: 07/03/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-11.pdf
+    target: en/2026-01-zaijbgsg/11
+    title: "God Made Adam and Eve"
+    start_date: 08/03/2026
+    end_date: 14/03/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-12.pdf
+    target: en/2026-01-zaijbgsg/12
+    title: "God Made You"
+    start_date: 15/03/2026
+    end_date: 21/03/2026
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-BG-13.pdf
+    target: en/2026-01-zaijbgsg/13
+    title: "God Made the Sabbath"
+    start_date: 22/03/2026
+    end_date: 28/03/2026
