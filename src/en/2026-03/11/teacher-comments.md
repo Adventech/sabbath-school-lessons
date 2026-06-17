@@ -5,15 +5,11 @@ date:  11/09/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** 2 Corinthians 8:9
 
-Key Text: 2 Corinthians 8:9
-
-Study Focus: 2 Corinthians 8–9.
+**Study Focus:** 2 Corinthians 8–9.
 
 **Introduction**
-
-Introduction
 
 A young entrepreneur, Maya, had just launched a small tech startup, focused on community health. Her team was lean, the funding was tight, and the future was uncertain, but they believed deeply in their mission.
 
@@ -27,8 +23,6 @@ This story mirrors the heart of 2 Corinthians 8 and 9: generosity isn’t about
 
 **Lesson Themes**
 
-Lesson Themes
-
 Stewardship lies at the heart of this week’s lesson, which will focus on three important themes found in 2 Corinthians 8 and 9:
 
 1.	Generosity as an Expression of God’s Grace. The Macedonians gave joyfully despite hardship, showing that true giving comes from the heart, not from abundance (2 Cor. 8:1–5).
@@ -39,9 +33,7 @@ Stewardship lies at the heart of this week’s lesson, which will focus on three
 
 #### Part II: Commentary
 
-Part II: Commentary
-
-1. Background: Corinth as a Commercial Hub: The city of Corinth was strategically located on an isthmus, connecting mainland Greece to the Peloponnese. Goods from Europe and Asia passed through, making it a center of trade and wealth. The city was rebuilt by Rome in 44 b.c. and populated with freedmen, merchants, and entrepreneurs, contributing to a strong Roman influence and a diverse economic environment. As noted by New Testament scholar Jerome Murphy-O’Connor, “The first colonists were ex-slaves from Greece, Syria, Judea, and Egypt who had everything to gain. They began by robbing tombs to make a living, but the site had so much economic potential that within fifty years a number of the citizens were millionaires.”—Murphy-O’Connor, “Corinth,” in The New Interpreter’s Dictionary of the Bible, ed. K. Doob Sakenfeld (Nashville, TN: Abingdon, 2006), vol. 1, p. 733.
+**1. Background:** Corinth as a Commercial Hub: The city of Corinth was strategically located on an isthmus, connecting mainland Greece to the Peloponnese. Goods from Europe and Asia passed through, making it a center of trade and wealth. The city was rebuilt by Rome in 44 B.C. and populated with freedmen, merchants, and entrepreneurs, contributing to a strong Roman influence and a diverse economic environment. As noted by New Testament scholar Jerome Murphy-O’Connor, “The first colonists were ex-slaves from Greece, Syria, Judea, and Egypt who had everything to gain. They began by robbing tombs to make a living, but the site had so much economic potential that within fifty years a number of the citizens were millionaires.”—Murphy-O’Connor, “Corinth,” in The New Interpreter’s Dictionary of the Bible, ed. K. Doob Sakenfeld (Nashville, TN: Abingdon, 2006), vol. 1, p. 733.
 
 The most common currencies of Corinth were Roman coins, especially denarii and sesterces, but Greek coins (such as drachmas) were also used. Coins were made of precious metals (silver, bronze, and occasionally, gold), and their value was based on weight and metal content. Trade involved not only coins but also barter and credit systems, especially in larger transactions or among trusted parties. Informal banking was common; money changers and lenders operated in marketplaces or temples, offering loans and currency exchange. Interest rates could be high, and debt could lead to enslavement, especially for the lower class. Temples sometimes functioned as financial centers where people deposited money or secured loans.
 
@@ -49,13 +41,13 @@ A wide gap existed between the rich and poor in Corinth. A well-known proverb, q
 
 Wealthy merchants and landowners lived in luxury, while many ­others—laborers, artisans, and slaves—lived with much less. The early church in Corinth likely included both wealthy patrons and poorer members, which is why issues of equality and generosity (as in 2 Corinthians 8, 9) were so relevant. In Greco-Roman culture, giving was often tied to honor and reciprocity: one gave to gain favor, not out of selfless love. Paul’s call for sacrificial, grace-based giving in 2 Corinthians was in radical opposition to this prevailing practice. He exhorted the Corinthians to give, not for gain or status, but from love, equality, and Christlike generosity.
 
-2. Generosity as an Expression of God’s Grace: Paul begins his focus on stewardship by using the churches in Macedonia as illustrations for generosity, most likely referring to the congregations in Philippi, Thessalonica, and Berea (2 Cor. 8:1–5). The liberal offerings in these churches were not because the members were naturally generous or wealthy. Instead, Paul points to God’s grace at work in them _(2 Cor. 8:1)_. Even in severe trials and poverty, they overflowed in joy and gave generously (2 Cor. 8:3–5).
+**2. Generosity as an Expression of God’s Grace:** Paul begins his focus on stewardship by using the churches in Macedonia as illustrations for generosity, most likely referring to the congregations in Philippi, Thessalonica, and Berea (2 Cor. 8:1–5). The liberal offerings in these churches were not because the members were naturally generous or wealthy. Instead, Paul points to God’s grace at work in them _(2 Cor. 8:1)_. Even in severe trials and poverty, they overflowed in joy and gave generously (2 Cor. 8:3–5).
 
 This backdrop sets the tone for the theme of generosity. Generosity isn’t just a decision to give—it’s a response to divine grace. The Macedonians didn’t give because they were pressured or because giving made them look good. Their giving was voluntary, joyful, and sacrificial, motivated by gratitude and love. This kind of giving doesn’t make sense by worldly standards—it reflects a heart changed and motivated by grace, not economics or obligation. True generosity flows from a life surrendered to God. When people are fully His, their resources naturally follow. Grace reorients our priorities, making giving not just an act of charity but of worship.
 
 Paul calls giving a “grace”—the same word he uses for spiritual gifts and God’s unmerited favor (charis). He’s saying that generosity is not just a duty; it’s a spiritual act, a divine enablement.
 
-3. Christ, the Model of Generosity: Paul’s appeal to the Corinthian believers is based on Christ’s willingness to give Himself for us while we were still estranged from God. For the Christian, generosity is not about wealth. It’s about worship. It’s not about guilt or pressure. It’s about grace. As we experience the undeserved generosity of God in Christ, we are moved to mirror that grace by giving freely, joyfully, and sacrificially.
+**3. Christ, the Model of Generosity:** Paul’s appeal to the Corinthian believers is based on Christ’s willingness to give Himself for us while we were still estranged from God. For the Christian, generosity is not about wealth. It’s about worship. It’s not about guilt or pressure. It’s about grace. As we experience the undeserved generosity of God in Christ, we are moved to mirror that grace by giving freely, joyfully, and sacrificially.
 
 Christ as the model of generosity is one of the most profound themes in 2 Corinthians 8 and 9. Paul doesn’t just teach about giving—he roots it deeply in the gospel. A central verse is 2 Corinthians 8:9, which states: “For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich” (ESV). This verse is the theological anchor of Paul’s appeal.
 
@@ -69,7 +61,7 @@ Paul’s point is clear. Generosity isn’t about money—it’s about self-givi
 
 True generosity is proof of transformed hearts, shaped by the example of Jesus’ sacrificial love. Voluntary and joyful giving reflects Christ (2 Cor. 9:7). Just as Jesus gave Himself willingly and joyfully for our sake (Heb. 12:2), believers are called to give in the same spirit—not out of guilt but out of grace-filled joy. Paul reminds the Corinthians that when we give like Christ, we are not depleted—we are resupplied by God’s grace. The same God who gave us Christ, our greatest gift, is faithful to give us what we need to be generous.
 
-4. Financial Integrity Matters: Beyond the call to generosity, Paul is deeply concerned with how the money, given to support the struggling church in Jerusalem, is handled. In 2 Corinthians 8:18–21, he very transparently explains the system: “With him we are sending the brother who is famous among all the churches for his preaching of the gospel. And not only that, but he has been appointed by the churches to travel with us as we carry out this act of grace that is being ministered by us, for the glory of the Lord himself and to show our good will. We take this course so that no one should blame us about this generous gift that is being administered by us, for we aim at what is honorable not only in the Lord’s sight but also in the sight of man” (ESV).
+**4. Financial Integrity Matters:** Beyond the call to generosity, Paul is deeply concerned with how the money, given to support the struggling church in Jerusalem, is handled. In 2 Corinthians 8:18–21, he very transparently explains the system: “With him we are sending the brother who is famous among all the churches for his preaching of the gospel. And not only that, but he has been appointed by the churches to travel with us as we carry out this act of grace that is being ministered by us, for the glory of the Lord himself and to show our good will. We take this course so that no one should blame us about this generous gift that is being administered by us, for we aim at what is honorable not only in the Lord’s sight but also in the sight of man” (ESV).
 
 Paul makes the case, in 2 Corinthians 8:18–21, that trustworthiness and transparency are two important values in building God’s kingdom. These two qualities ensure that everything is done in a manner that is above reproach. Furthermore, they show accountability before God and people, and, finally, they protect the mission—and Paul himself—from any suspicion of misuse.
 
@@ -80,8 +72,6 @@ One key reason people hesitate to give is a lack of trust—they fear their mone
 Paul understands that financial integrity isn’t just about personal conscience (2 Cor. 8:21)—it’s about public testimony.
 
 #### Part III: Life Application
-
-Part III: Life Application
 
 Discuss with your group the following questions as you consider 2 Corinthians 8 and 9 in light of this week’s lesson. The questions below are designed to encourage personal reflection, group sharing, and practical application, focusing on the key themes of grace, generosity, financial integrity, and Christlike giving.
 

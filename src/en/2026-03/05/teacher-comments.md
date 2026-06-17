@@ -5,15 +5,11 @@ date:  31/07/2026
 
 #### Part I: Overview
 
-Part I: Overview
+**Key Text:** 1 Corinthians 10:31
 
-Key Text: 1 Corinthians 10:31
-
-Study Focus: 1 Corinthians 10.
+**Study Focus:** 1 Corinthians 10.
 
 **Introduction**
-
-Introduction
 
 Imagine a group of hikers setting out on a challenging mountain hike. The trail is known for its breathtaking views, but also for its dangerous cliffs. At the trailhead, they see a warning sign: “CAUTION: Dangerous Cliffs Ahead. Many Have Fallen! Stay on the Marked Path.”
 
@@ -22,8 +18,6 @@ Some hikers take the warning seriously, staying on the marked trail and avoiding
 The Christian life, of course, is much more than a hike. However, the three approaches taken by the hikers can mirror our faith walk. In 1 Corinthians 10, Paul discusses these approaches.
 
 **Lesson Themes**
-
-Lesson Themes
 
 As most biblical authors did, Paul saw idolatry as a very serious sin that stood in opposition to the true worship of God. The issue of worship is central to everyday-life questions, as any alliance with idol worship is a rejection of God’s rulership and serves as an opening for moral and spiritual perversion. Within this context, Paul enlarges on several themes:
 
@@ -37,17 +31,15 @@ As most biblical authors did, Paul saw idolatry as a very serious sin that stood
 
 #### Part II: Commentary
 
-Part II: Commentary
+**1. Background:** Forms of Worship in First-Century A.D. Corinth: The concept of worship was not foreign to the Corinthians. Unlike in many modern Western societies today, worship back then was not a private personal matter. Politics, commerce, and social life were all intertwined with worship. Worship practices in first-century Corinth included sacrifices, feasts, festivals, and processions, as well as sexual rituals in some cults. Corinth was a major Greco-Roman city known for its religious pluralism and devotion to various gods. The city had numerous temples and cults, reflecting its status as a wealthy trade hub, influenced by both Greek and Roman religious traditions.
 
-1. Background: Forms of Worship in First-Century a.d. Corinth: The concept of worship was not foreign to the Corinthians. Unlike in many modern Western societies today, worship back then was not a private personal matter. Politics, commerce, and social life were all intertwined with worship. Worship practices in first-century Corinth included sacrifices, feasts, festivals, and processions, as well as sexual rituals in some cults. Corinth was a major Greco-Roman city known for its religious pluralism and devotion to various gods. The city had numerous temples and cults, reflecting its status as a wealthy trade hub, influenced by both Greek and Roman religious traditions.
-
-Worship in first-century a.d. Corinth took many forms, reflecting the city’s cosmopolitan composition. There were many gods (see section 2 below). While a city often had a preferred deity, individuals could choose which deities they wanted to worship, depending on what benefits they wished to gain. Most people worshiped several gods. Throughout the Roman Empire, good citizens were expected to worship the Roman emperor as well. While there was a degree of freedom in choosing a god, refusal to worship the emperor could bring social and political consequences, as this worship was viewed as a demonstration of loyalty to Rome.
+Worship in first-century A.D. Corinth took many forms, reflecting the city’s cosmopolitan composition. There were many gods (see section 2 below). While a city often had a preferred deity, individuals could choose which deities they wanted to worship, depending on what benefits they wished to gain. Most people worshiped several gods. Throughout the Roman Empire, good citizens were expected to worship the Roman emperor as well. While there was a degree of freedom in choosing a god, refusal to worship the emperor could bring social and political consequences, as this worship was viewed as a demonstration of loyalty to Rome.
 
 Most temples performed blood sacrifices of bulls, goats, or birds that were offered to the gods and were sometimes followed by communal feasts. During these banquets in temples, worshipers ate of the food that had been offered to the deity. There were also large public celebrations involving religious rites, such as the Isthmian Games (which were dedicated to the god Poseidon). These celebrations included processions, feasting, and performances. Some of these worship acts had sexual elements, especially in the worship of the fertility gods. Some scholars believe that Aphrodite’s temple worship involved ritual prostitution (compare with Walter A. Elwell and Barry J. Beitzel, “Corinth,” in Baker Encyclopedia of the Bible [Grand Rapids, MI: Baker, 1988], p. 514).
 
 Although worship was generally very public, there were some religions, such as the cult of Demeter and Persephone, that had secretive initiation rites and worship acts. This exclusivity, which promised spiritual enlightenment not available to ordinary people, was no doubt attractive to a certain class. While the major temples held public worship rituals, many people also practiced private worship, as can be seen in the private shrines with small statues and incense offerings that archaeologists have uncovered in private households.
 
-2. Defining Idolatry: In a world in which idols were everywhere and were treated with respect and devotion as stand-ins for the gods they represented, Paul’s claim in 1 Corinthians 8:4 that “ ‘an idol has no real existence’ ” and that “ ‘there is no God but one’ ” (ESV) must have sounded radical. Paul does not buy into the idea that figurines or objects (for example, idols) can have magical power in and of themselves. He does, however, recognize that some believers, especially those who had newly converted from paganism, might still view their conversion in terms of simply changing gods (or their allegiance to these gods). This attitude could be seen particularly in the issue of eating food that had been offered to idols.
+**2. Defining Idolatry:** In a world in which idols were everywhere and were treated with respect and devotion as stand-ins for the gods they represented, Paul’s claim in 1 Corinthians 8:4 that “ ‘an idol has no real existence’ ” and that “ ‘there is no God but one’ ” (ESV) must have sounded radical. Paul does not buy into the idea that figurines or objects (for example, idols) can have magical power in and of themselves. He does, however, recognize that some believers, especially those who had newly converted from paganism, might still view their conversion in terms of simply changing gods (or their allegiance to these gods). This attitude could be seen particularly in the issue of eating food that had been offered to idols.
 
 In 1 Corinthians 10, Paul explains this new worldview (“ ‘there is no God but one’ ”) while giving a strong warning against idolatry. He uses Israel’s history as an example to emphasize that idolatry is not just about worshiping statues. Idolatry also involves disloyalty to God, as well as the spiritual danger of not showing love and responsibility toward fellow believers.
 
@@ -63,7 +55,7 @@ In 1 Corinthians 10:15–18, Paul points out that just as partaking in the Lord
 
 Believers are called to exclusive devotion to God (1 Cor. 10:21, 22) and cannot drink the cup of the Lord and the cup of demons. Echoing Deuteronomy 32:21, Paul warns of God’s intolerance toward divided loyalty. Paul views idolatry as more than just false worship—it is spiritually dangerous and incompatible with faith in Christ.
 
-3. Developing “Antibodies” Against Idolatry: While Paul calls for complete separation from idolatry, he goes on to explain, in 1 Corinthians 10:23–33, that separation should not result in criticizing and policing the church in order to keep it pure. Individual Christians have both freedom and responsibility, which Paul addresses in the practical concerns about food that may have been dedicated to idols and then, subsequently, made its way to the market.
+**3. Developing “Antibodies” Against Idolatry:** While Paul calls for complete separation from idolatry, he goes on to explain, in 1 Corinthians 10:23–33, that separation should not result in criticizing and policing the church in order to keep it pure. Individual Christians have both freedom and responsibility, which Paul addresses in the practical concerns about food that may have been dedicated to idols and then, subsequently, made its way to the market.
 
 In 1 Corinthians 10:23, 24, the principle of love over liberty is given. Unselfishness, and not clinging to one’s rights, or even one’s ideas of Christian lifestyle, should be made the norm. Even if something is not wrong or forbidden in the Bible, it may not be beneficial for others. Believers should prioritize the spiritual well-being of others over personal freedom.
 
@@ -71,9 +63,7 @@ In the next few verses (1 Cor. 10:25–30), Paul permits eating meat from the m
 
 #### Part III: Life Application
 
-Part III: Life Application
-
-First-century a.d. Corinth was a deeply religious city with a mix of Greek, Roman, and Eastern cults. Worship had many different expressions. Early Christians in Corinth had to navigate these influences while remaining faithful to Christ, which led Paul to address idolatry, moral purity, and Christian freedom in his letters. Based on these themes, discuss the following questions in your class:
+First-century A.D. Corinth was a deeply religious city with a mix of Greek, Roman, and Eastern cults. Worship had many different expressions. Early Christians in Corinth had to navigate these influences while remaining faithful to Christ, which led Paul to address idolatry, moral purity, and Christian freedom in his letters. Based on these themes, discuss the following questions in your class:
 
 1.	Paul reminds the Corinthians of Israel’s past mistakes. Why do you think he does this? What lessons may we also learn from Israel’s experiences?
 
