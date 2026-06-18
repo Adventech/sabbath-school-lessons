@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 18/07/2026
+date: 17/07/2026
 ---
 
 ### Zwei Träume

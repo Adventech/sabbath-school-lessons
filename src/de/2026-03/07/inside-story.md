@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 15/08/2026
+date: 14/08/2026
 ---
 
 ### Treffen mit dem General

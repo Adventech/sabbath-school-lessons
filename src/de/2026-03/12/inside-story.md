@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 19/09/2026
+date: 18/09/2026
 ---
 
 ### Gott segne dich! – Teil 2

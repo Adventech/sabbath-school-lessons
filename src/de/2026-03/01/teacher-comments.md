@@ -1,6 +1,6 @@
 ---
 title: Lehrerteil
-date: 04/07/2026
+date: 03/07/2026
 ---
 
 ### TEIL I: ÜBERSICHT

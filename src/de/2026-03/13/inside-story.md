@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 26/09/2026
+date: 25/09/2026
 ---
 
 ### In einer Bar fing es an

@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 25/07/2026
+date: 24/07/2026
 ---
 
 ### Exklusive Mode für Christus

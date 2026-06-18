@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 29/08/2026
+date: 28/08/2026
 ---
 
 ### Mission beginnt früh

@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 05/09/2026
+date: 04/09/2026
 ---
 
 ### Jakes Gebetsreise

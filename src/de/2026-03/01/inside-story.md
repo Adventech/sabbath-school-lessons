@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 04/07/2026
+date: 03/07/2026
 ---
 
 ### Die Rückkehr des Pioniers

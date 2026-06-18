@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 11/07/2026
+date: 10/07/2026
 ---
 
 ### Eine Berührung, die verändert

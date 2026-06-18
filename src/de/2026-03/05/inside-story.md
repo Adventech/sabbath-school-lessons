@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 01/08/2026
+date: 31/07/2026
 ---
 
 ### Die Davis-Indianer (Teil 1)

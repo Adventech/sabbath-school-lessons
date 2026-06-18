@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 22/08/2026
+date: 21/08/2026
 ---
 
 ### Von Heiligen Geist geführte Begegnungen
