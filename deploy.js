@@ -69,12 +69,20 @@ let additionalReadingTitles = {
     pppCopyright: "<small>The above quotations are taken from <em>Ellen G. White Notes for the Sabbath School Lessons</em>, published by Pacific Press Publishing Association. Used by permission.</small>",
     regex: "---\n+#{2,} Additional Reading: Selected Quotes from Ellen G. White"
   },
-  "mk": {
-    title: "Додаток: Утрински стих",
-    final: "Утрински стих",
-    pppCopyright: "",
-    regex: "---\n+#{2,} Додаток: Утрински стих"
-  },
+  "mk": [
+    {
+      title: "Додаток: Избрани цитати од Елен Вајт",
+      final: "Избрани цитати од Елен Вајт",
+      pppCopyright: "",
+      regex: "---\n+#{2,} Додаток: Избрани цитати од Елен Вајт"
+    },
+    {
+      title: "Додаток: Утрински стих",
+      final: "Утрински стих",
+      pppCopyright: "",
+      regex: "---\n+#{2,} Додаток: Утрински стих"
+    }
+  ],
   "cs": [
     {
       title: "Dodatečné otázky k diskuzi",

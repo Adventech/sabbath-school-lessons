@@ -23,7 +23,7 @@ Then fear set in. He had trouble with the police, and he fled to Germany, where 
 
 Then he learned that he could still become a millionaire. His father, a rock music promoter and club owner, sued a major beverage company for billions of dollars in damages in a copyright infringement lawsuit. His father had trademarked a brand name that the company was using without his consent. He offered Dante 10 percent of the proceeds if he helped with the suit.
 
-At the same time, a friend gave Dante a Bible, and he began to read it. He read, “The blessing of the Lord brings wealth, without painful toil for it” _(Proverbs 10:22, NIV)_. He thought, _If I give God my heart, He will bless me and make me rich_. He decided to give his heart to Jesus.
+At the same time, a friend gave Dante a Bible, and he began to read it. He read, “The blessing of the Lord brings wealth, without painful toil for it” (Proverbs 10:22, NIV). He thought, _If I give God my heart, He will bless me and make me rich_. He decided to give his heart to Jesus.
 
 Today, Dante is rich, but not in the way that the world calculates wealth. “When I was a tattoo artist, I wanted the hole in my heart to be filled,” said Dante, a Seventh-day Adventist pastor in Germany. “I thought I had to be a millionaire for the hole to be filled. But all I needed was Jesus.”
 
