@@ -12,6 +12,8 @@ yt-dlp "https://www.youtube.com/watch?v=2bTfW-mhlJk" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=XjOgpHs_VRs" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/viva/es-2026-02-13.mp4"
 
+yt-dlp "https://www.youtube.com/watch?v=xlA5Tsq79z0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/sum/es-sum-2026-02-13.mp4"
+
 yt-dlp "https://youtu.be/PzoGyKZOhs4?si=gg7T_r9WYc6GVpNR" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pt/lago/pt-lago-2026-02-13.mp4"
 
 yt-dlp "https://www.youtube.com/watch?v=KTJw4WTPXTY" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "fr/ca/fr-ca-inv-2026-02-13.mp4"
@@ -43,3 +45,7 @@ yt-dlp "https://youtu.be/BWbAoplG8-A?si=WnjZ5NahmUkJsVIT" -S vcodec:h264,res:108
 yt-dlp "https://youtu.be/pMaXWoDcEfE?si=oD0znCxWQZjYMmyf" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pt/portugal/ba/pt-ba-2026-02-13.mp4"
 
 yt-dlp "https://youtu.be/WaCA0OCBBF4?si=9zJsx83K4YFEhSh_" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2026-02-13.mp4"
+
+yt-dlp "https://youtu.be/nZ3-75_HawM?si=E6R_CuJfPYg0MaoT" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ta/ta-2026-02-13.mp4"
+
+yt-dlp "https://www.youtube.com/watch?v=4IKmjaDPujM" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "zh/hopetv/zh-hopetv-2026-02-13.mp4"
