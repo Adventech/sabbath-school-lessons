@@ -6,6 +6,7 @@
   end_date: "25/09/2026"
   color_primary: '#304D4B'
   color_primary_dark: '#203937'
+  splash: true
   credits:
     - name: Autor
       value: "Adenilton Tavares de Aguiar"
