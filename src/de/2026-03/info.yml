@@ -1,0 +1,22 @@
+---
+  title: "Die Korintherbriefe"
+  description: "Briefe schreiben ist eine uralte Tätigkeit, die bis heute nicht überholt ist. Wir haben lediglich die Art und Weise geändert, wie Briefe geschrieben werden. Ja, soziale Medien haben das Papier abgelöst. Doch im Wesentlichen erfüllen E-Mails und andere Formen elektronischer Briefe dieselbe Funktion: Sie verbinden Menschen und tauschen Informationen, Gefühle und Gedanken aus."
+  human_date: " Juli · August · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Adenilton Tavares de Aguiar"
+    - name: Herausgeber
+      value: "Clifford R. Goldstein"
+    - name: "Herausgeber der deutschen Ausgabe"
+      value: "Freikirche der Siebenten-Tags-Adventisten , EUD © der deutschen Ausgabe Advent-Verlag GmbH, Lüneburg"
+    - name: Redakteurin
+      value: "Soraya Scheidweiler"
+    - name: Publikationsleiterin
+      value: "Lea Alexander Greve"
+    - name: Redaktionsassistentin
+      value: "Sharon Thomas-Crews"
