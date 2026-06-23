@@ -20,7 +20,6 @@ Ho avy tsy ho ela i Jesosy. Izao no fotoana tokony hananana firaisana bebe kokoa
 
 I Adenilton Tavares de Aguiar, PhD, dia profesora miandraikitra ny fampianarana ny Fanazavana ny Testamenta vaovao any amin'ny Northeast Adventist College any Cachoeira, Bahia, Brésil. Any amin'izany toerana izany no anaovany fanompoana nanomboka tamin'ny taona 2010.
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **ARSH** Adventist Review and Sabbath Herald

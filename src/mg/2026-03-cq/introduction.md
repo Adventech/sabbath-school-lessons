@@ -18,7 +18,6 @@ Inoako fa tsy ho lany fotoana ianao raha handinika ity tantara ity. Mety hanova 
 
 Pasitora mitandrina any Pennsylvanie, Etazonia, i Dee Casper. Manao fanompoana amin'ny maha-talen'ny CORE Evangelism School azy koa izy, programa iray ho fanofanana momba ny fitoriana ny filazantsara sy ny fomba hahatongavana ho mpianatra izany, any amin'ny Federasionan'i Pennsylvanie (www.coreevangelism. com).
 
-
 ### FANAFOHEZAN-TENY AMPIASAINA MANDRITRA NY FIANARANA
 
 **AAA** Any Am-parany Any/Last Day Events, EGW
