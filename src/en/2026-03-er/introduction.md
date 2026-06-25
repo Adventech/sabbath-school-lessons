@@ -1,0 +1,19 @@
+### The Christian Life
+
+People have written letters since ancient times. We continue to write them today. We write and send them in more modern ways. For the most part, emails replace paper, ink, envelopes, and stamps. But however we write letters now, we continue to write them for the same reason people wrote them long ago. We want to connect with other people to exchange information, feelings, and ideas.
+
+Why else do we write letters? We have something to say. Paul had something to say, too. But he often didn’t have the time to talk face-to-face with people. So, he wrote to them.
+
+In Paul’s letters we read some of the most beautiful truths in the Bible. Here are some examples: “While I was with you, I decided to teach you only about Jesus Christ [the Savior]. I taught you about his death on a cross. I wanted to forget everything else” (1 Corinthians 2:2, EASY). Also, “You know that our Lord Jesus Christ is very kind. He was rich, but he made himself poor to help you. So then, because he became poor, you could become rich” (2 Corinthians 8:9, EASY). And what about Paul’s beautiful hymn in 1 Corinthians 13 that praises God’s love?
+
+Sad to say, Paul’s letters may confuse us sometimes. The church members at Corinth made many mistakes. Some members were guilty of sex sins. Also, other members met only in small groups. The different groups argued and fought with each other. If you think your church has problems, get ready for the problems Paul had to solve at Corinth! (Maybe your local church’s problems aren’t as bad now as you thought, right?!) But as bad as things were in Corinth when Paul wrote his letters, things were much worse there in the past.
+
+Even so, Paul’s letters to the Corinthians are exciting to read. What makes them so exciting? The answer is the way Paul solved the problems in the church. Paul asked the church members to look closely at their hearts and their behavior. He asked them to compare their lives and the life around them with the Good News about Jesus. In his letters to the Corinthians, Paul preaches the message of the Cross. If any people preach a different message, Paul wishes for God to punish them (Galatians 1:8, 9)!
+
+In Paul’s day, Corinth was a rich and important city. Corinth was famous for its busy harbor, beautiful buildings, ships and shipbuilders, and pottery. The city was an important business center. But Corinth was also famous for its sex sins and worship of many different gods. Daily life in Corinth was filled with the worship of these false gods. This information about Corinth helps us to understand the problems in the church at Corinth and why Paul wrote the things he did.
+
+This quarter, we will look at Paul’s letters to the Corinthians. In these letters, Paul shares the Good News as the most important part of Christian life. The answer to our problems in life today is the same answer that Paul gave the Corinthians: “Jesus Christ and his death on the cross” (1 Corinthians 2:2, ERV).
+
+Jesus is coming soon! Now more than ever, we need to work together in peace and love. We need the Holy Spirit more than ever before. We need to use our spiritual gifts for God. We need a deep experience with our Lord. Now is the time for us to work for Jesus with all our hearts. We must fight against false teachings. We must grow in the love of Jesus. Our fellowship with each other must grow strong. Hold tight to the Good News about Jesus. Be loyal to the Cross. Paul’s letters to the Corinthians teach us to do just that.
+
+_Adenilton Tavares de Aguiar, PhD, is professor at the Adventist University Center of São Paulo, in Brazil._
