@@ -21,15 +21,16 @@ This week’s lesson introduces two mission-driven books of the New Testament: 1
 
 Beyond an introduction to the background history of the church in Corinth and how it was founded, the lesson will focus on the following issues and themes:
 
-1.	Cultural and Historical Backdrops. We will consider the important cultural and historical backdrops relevant for the study of the epistles to the Corinthians.
+**1. Cultural and Historical Backdrops.** We will consider the important cultural and historical backdrops relevant for the study of the epistles to the Corinthians.
 
-2.	Strategic Ministry. What was Paul’s strategy for ministry in Corinth? In pursuit of the answer to this question, we will consider Paul’s mission strategy in Corinth within the framework of the early Christian church.
+**2. Strategic Ministry.** What was Paul’s strategy for ministry in Corinth? In pursuit of the answer to this question, we will consider Paul’s mission strategy in Corinth within the framework of the early Christian church.
 
-3.	Identity. Identity is key to mission. It bears repeating that entities who struggle to define their identity will also struggle to accomplish their mission. Our discussion of identity will seek to answer the following questions:
-	- Why did Paul identify as an apostle?
-	- What role does identity play in mission?
-	- What kind of identity did the church in Corinth have?
-	- How can we maintain a Christian identity in a world that emphasizes different values and ideals?
+**3. Identity.** Identity is key to mission. It bears repeating that entities who struggle to define their identity will also struggle to accomplish their mission. Our discussion of identity will seek to answer the following questions:
+
+- Why did Paul identify as an apostle?
+- What role does identity play in mission?
+- What kind of identity did the church in Corinth have?
+- How can we maintain a Christian identity in a world that emphasizes different values and ideals?
 
 #### Part II: Commentary
 
@@ -57,10 +58,7 @@ Identity seems also to be an important issue in the newly established Corinthian
 
 Many businesses today spend time and money on the question of branding and self-identity. They realize that, in the competitive business world, just doing what they have always done will not guarantee survival. They need to have a clear vision of who they are and of the unique needs they can meet. Paul, too, seems to have known the importance of identity.
 
-1.	In your group, explore Paul’s self-identification as an apostle. What did this identity mean, and what right did he have to claim this distinction for himself? How did his apostleship affect his life’s purpose and mission?
-
-2.	Ponder and discuss how our individual, and corporate, identity as Seventh-day Adventist Christians can help us discover, and meet, the needs of our communities.
-
-3.	The church at Corinth was a unique cultural blend. Most of the group did not have a Jewish cultural background. They could not be identified as a Jewish offshoot or sect. This lack of a clear identity underlies many of the problems that Paul addresses in the Corinthian church. In your group, discuss the relationship between identity and behavior. Why does knowing who we are, where we come from, and where we are going influence what we do and how we live?
-
-4.	Finally, how can we maintain a Christian identity in a world that emphasizes different values and ideals?
+1. In your group, explore Paul’s self-identification as an apostle. What did this identity mean, and what right did he have to claim this distinction for himself? How did his apostleship affect his life’s purpose and mission?
+2. Ponder and discuss how our individual, and corporate, identity as Seventh-day Adventist Christians can help us discover, and meet, the needs of our communities.
+3. The church at Corinth was a unique cultural blend. Most of the group did not have a Jewish cultural background. They could not be identified as a Jewish offshoot or sect. This lack of a clear identity underlies many of the problems that Paul addresses in the Corinthian church. In your group, discuss the relationship between identity and behavior. Why does knowing who we are, where we come from, and where we are going influence what we do and how we live?
+4. Finally, how can we maintain a Christian identity in a world that emphasizes different values and ideals?

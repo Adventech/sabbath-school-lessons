@@ -23,11 +23,11 @@ In 1 Corinthians 12, Paul uses a different metaphor to emphasize the same truth.
 
 This week’s lesson highlights three important themes:
 
-1.	First Things First. Whatever our gifts or ministry, we are called to focus on Jesus as our Savior, Healer, and, ultimately, as the One who equips us for service to help others (1 Cor. 12:1–3).
+**1. First Things First.** Whatever our gifts or ministry, we are called to focus on Jesus as our Savior, Healer, and, ultimately, as the One who equips us for service to help others (1 Cor. 12:1–3).
 
-2.	One Spirit, Many Gifts. Paul reminds his readers of the fact that all the gifts ultimately have the same origin, for it is God Himself who empowers His church with these gifts to bless and reach the world (1 Cor. 12:4–11).
+**2. One Spirit, Many Gifts.** Paul reminds his readers of the fact that all the gifts ultimately have the same origin, for it is God Himself who empowers His church with these gifts to bless and reach the world (1 Cor. 12:4–11).
 
-3.	 One Body, Many Parts. Paul introduces the metaphor of the body to illustrate the diversity of the gifts within the church and challenges his readers to keep looking at the big picture (1 Cor. 12:12–31).
+**3.  One Body, Many Parts.** Paul introduces the metaphor of the body to illustrate the diversity of the gifts within the church and challenges his readers to keep looking at the big picture (1 Cor. 12:12–31).
 
 #### Part II: Commentary
 
@@ -57,14 +57,9 @@ Note the following example taken from New Testament scholar Philip Ryken regardi
 
 Our human tendency is to put into hierarchical order the gifts that God has given the church as the body of Christ. Paul introduces the metaphor of the body and body parts to help his readers focus on unity and mission. Body parts, he writes, cannot excel on their own. In fact, they cannot survive on their own. The eye needs the eyelid; the head needs the neck; the foot needs the legs; and they all rely on the heart for sufficient oxygen and blood. Using 1 Corinthians 12 as a reference, discuss the following questions in your group:
 
-1.	How can we apply the Pauline body metaphor to our church realities of competing programs and differing priorities?
-
-2.	What would you say to the idea that God wants to see a body, not body parts, in His church?
-
-3.	What does the metaphor of the church, as the body of Christ, say to people living in the twenty-first century?
-
-4.	What would be the best criteria to evaluate spiritual gifts and their importance to the church?
-
-5.	How can we discover our own gifts in the context of the mission of the church?
-
-6.	If possible, which gift would you like to have, and why?
+1. How can we apply the Pauline body metaphor to our church realities of competing programs and differing priorities?
+2. What would you say to the idea that God wants to see a body, not body parts, in His church?
+3. What does the metaphor of the church, as the body of Christ, say to people living in the twenty-first century?
+4. What would be the best criteria to evaluate spiritual gifts and their importance to the church?
+5. How can we discover our own gifts in the context of the mission of the church?
+6. If possible, which gift would you like to have, and why?

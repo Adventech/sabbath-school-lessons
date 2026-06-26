@@ -25,11 +25,11 @@ Paul’s response isn’t just about defending himself. It’s about protecting 
 
 This week, three important themes of 2 Corinthians 10–12 will be highlighted and discussed as we focus on the question of how we should deal with spiritual frauds and false teachers. The themes are as follows:
 
-1.	Defense of Apostolic Authority. Paul begins to defend his ministry, responding to accusations that he is bold in letters but weak in person (2 Cor. 10:1, 2, 10).
+**1. Defense of Apostolic Authority.** Paul begins to defend his ministry, responding to accusations that he is bold in letters but weak in person (2 Cor. 10:1, 2, 10).
 
-2.	The Danger of False Apostles. Paul expresses concern about the fact that the Corinthian church is being led astray from pure devotion to Christ (2 Cor. 11:2, 3).
+**2. The Danger of False Apostles.** Paul expresses concern about the fact that the Corinthian church is being led astray from pure devotion to Christ (2 Cor. 11:2, 3).
 
-3.	Spiritual Warfare. Paul emphasizes that his weapons are not worldly but spiritual, having “divine power to destroy strongholds” (2 Cor. 10:4, ESV).
+**3. Spiritual Warfare.** Paul emphasizes that his weapons are not worldly but spiritual, having “divine power to destroy strongholds” (2 Cor. 10:4, ESV).
 
 #### Part II: Commentary
 
@@ -55,16 +55,10 @@ The phrase “divine power” (ESV), in 2 Corinthians 10:4, highlights the fact
 
 Discuss with your group the questions that follow, keeping in mind all we have learned about 2 Corinthians 10–12.
 
-1.	What are some modern examples of “another Jesus” or “a different gospel” in 2 Corinthians 11:4? How can we recognize when someone is twisting the truth?
-
-2.	In 2 Corinthians 10:7, 10, the Corinthians judged Paul by outward appearance and speech. Why is it dangerous to judge spiritual authority based on charisma, appearance, or speaking skills alone?
-
-3.	What does true spiritual authority look like according to Paul? How is it different from secular leadership?
-
-4.	In 2 Corinthians 10:3–5, Paul talks about demolishing arguments and taking thoughts captive. How can we actively guard our minds and beliefs against false teaching today?
-
-5.	Why do you think Paul chose to highlight his sufferings instead of his spiritual experiences? What does His decision teach us about evaluating leaders?
-
-6.	Why do people sometimes tolerate, or even admire, false teachers? What makes false teaching so appealing?
-
-7.	Have you ever encountered a “false teacher” or a misleading teaching? What happened? How did you discern either one, and what did you learn from the experience?
+1. What are some modern examples of “another Jesus” or “a different gospel” in 2 Corinthians 11:4? How can we recognize when someone is twisting the truth?
+2. In 2 Corinthians 10:7, 10, the Corinthians judged Paul by outward appearance and speech. Why is it dangerous to judge spiritual authority based on charisma, appearance, or speaking skills alone?
+3. What does true spiritual authority look like according to Paul? How is it different from secular leadership?
+4. In 2 Corinthians 10:3–5, Paul talks about demolishing arguments and taking thoughts captive. How can we actively guard our minds and beliefs against false teaching today?
+5. Why do you think Paul chose to highlight his sufferings instead of his spiritual experiences? What does His decision teach us about evaluating leaders?
+6. Why do people sometimes tolerate, or even admire, false teachers? What makes false teaching so appealing?
+7. Have you ever encountered a “false teacher” or a misleading teaching? What happened? How did you discern either one, and what did you learn from the experience?

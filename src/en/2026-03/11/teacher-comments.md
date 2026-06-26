@@ -25,11 +25,9 @@ This story mirrors the heart of 2 Corinthians 8 and 9: generosity isn’t about
 
 Stewardship lies at the heart of this week’s lesson, which will focus on three important themes found in 2 Corinthians 8 and 9:
 
-1.	Generosity as an Expression of God’s Grace. The Macedonians gave joyfully despite hardship, showing that true giving comes from the heart, not from abundance (2 Cor. 8:1–5).
-
-2.	Christ, the Model of Generosity. He gave up His riches to enrich others spiritually.
-
-3.	Financial Integrity Matters. Paul ensures accountability in handling the offering in order to protect everyone involved.
+1. **Generosity as an Expression of God’s Grace.** The Macedonians gave joyfully despite hardship, showing that true giving comes from the heart, not from abundance (2 Cor. 8:1–5).
+2. **Christ, the Model of Generosity.** He gave up His riches to enrich others spiritually.
+3. **Financial Integrity Matters.** Paul ensures accountability in handling the offering in order to protect everyone involved.
 
 #### Part II: Commentary
 
@@ -75,14 +73,9 @@ Paul understands that financial integrity isn’t just about personal conscience
 
 Discuss with your group the following questions as you consider 2 Corinthians 8 and 9 in light of this week’s lesson. The questions below are designed to encourage personal reflection, group sharing, and practical application, focusing on the key themes of grace, generosity, financial integrity, and Christlike giving.
 
-1.	Paul says that giving is a “grace.” How does this notion shift the way we think about generosity?
-
-2.	What are some reasons we hesitate to give, even when we can?
-
-3.	How do you balance wise stewardship with generous giving in your own life?
-
-4.	Read 2 Corinthians 9:6, 7. What does it mean to be a “cheerful” giver, and how can we cultivate this kind of heart?
-
-5.	What does Paul mean by “God loves a cheerful giver”? Why does attitude matter in giving?
-
-6.	What is one practical step you can take this week to give in a way that reflects God’s grace?
+1. Paul says that giving is a “grace.” How does this notion shift the way we think about generosity?
+2. What are some reasons we hesitate to give, even when we can?
+3. How do you balance wise stewardship with generous giving in your own life?
+4. Read 2 Corinthians 9:6, 7. What does it mean to be a “cheerful” giver, and how can we cultivate this kind of heart?
+5. What does Paul mean by “God loves a cheerful giver”? Why does attitude matter in giving?
+6. What is one practical step you can take this week to give in a way that reflects God’s grace?

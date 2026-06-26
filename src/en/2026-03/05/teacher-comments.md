@@ -21,13 +21,13 @@ The Christian life, of course, is much more than a hike. However, the three appr
 
 As most biblical authors did, Paul saw idolatry as a very serious sin that stood in opposition to the true worship of God. The issue of worship is central to everyday-life questions, as any alliance with idol worship is a rejection of God’s rulership and serves as an opening for moral and spiritual perversion. Within this context, Paul enlarges on several themes:
 
-1.	Learning From Israel’s Past. Paul reminds the Corinthians of Israel’s failures in the wilderness—idolatry, sexual immorality, testing God, and grumbling. Their downfall serves as a warning for believers not to repeat the same mistakes.
+**1. Learning From Israel’s Past.** Paul reminds the Corinthians of Israel’s failures in the wilderness—idolatry, sexual immorality, testing God, and grumbling. Their downfall serves as a warning for believers not to repeat the same mistakes.
 
-2.	The Danger of Idolatry. Paul urges believers to flee from idolatry and not to participate in pagan practices, reminding them that worshiping idols is incompatible with worshiping God.
+**2. The Danger of Idolatry.** Paul urges believers to flee from idolatry and not to participate in pagan practices, reminding them that worshiping idols is incompatible with worshiping God.
 
-3.	Christian Freedom and Responsibility (1 Cor. 10:23–30). Paul addresses how believers should use their freedom wisely, especially when it comes to eating food sacrificed to idols. Just because something is allowed doesn’t mean it’s beneficial for everyone.
+**3. Christian Freedom and Responsibility** (1 Cor. 10:23–30). Paul addresses how believers should use their freedom wisely, especially when it comes to eating food sacrificed to idols. Just because something is allowed doesn’t mean it’s beneficial for everyone.
 
-4.	Living for God’s Glory (1 Cor. 10:31–33). Paul sums up his message by encouraging believers to make every decision with God’s glory in mind. Additionally, Paul exhorts them to act in a way that reflects Christ and points others to Him.
+**4. Living for God’s Glory** (1 Cor. 10:31–33). Paul sums up his message by encouraging believers to make every decision with God’s glory in mind. Additionally, Paul exhorts them to act in a way that reflects Christ and points others to Him.
 
 #### Part II: Commentary
 
@@ -65,16 +65,10 @@ In the next few verses (1 Cor. 10:25–30), Paul permits eating meat from the m
 
 First-century A.D. Corinth was a deeply religious city with a mix of Greek, Roman, and Eastern cults. Worship had many different expressions. Early Christians in Corinth had to navigate these influences while remaining faithful to Christ, which led Paul to address idolatry, moral purity, and Christian freedom in his letters. Based on these themes, discuss the following questions in your class:
 
-1.	Paul reminds the Corinthians of Israel’s past mistakes. Why do you think he does this? What lessons may we also learn from Israel’s experiences?
-
-2.	First Corinthians 10:12 warns, “Therefore let anyone who thinks that he stands take heed lest he fall” (ESV). How can we guard against overconfidence in our spiritual walk?
-
-3.	God can provide a way out when we are tempted (1 Cor. 10:13). Have you ever experienced this provision in your life? How does this verse encourage you?
-
-4.	While Paul warns against idolatry, he also outlines principles for identifying and counteracting idolatry. What are some modern forms of idolatry that Christians struggle with today? How can Paul’s advice in regard to idolatry be applied to them?
-
-5.	Paul says, “ ‘All things are lawful,’ but not all things are helpful” (1 Cor. 10:23, ESV). How can we discern between what is beneficial and what is unprofitable in our lives?
-
-6.	In 1 Corinthians 10:31, Paul tells us to do everything for the glory of God. What does doing everything for the glory of God look like in daily life?
-
-7.	Paul emphasizes not causing others to stumble (1 Cor. 10:32, 33). How can we balance our personal freedoms with our responsibility to others?
+1. Paul reminds the Corinthians of Israel’s past mistakes. Why do you think he does this? What lessons may we also learn from Israel’s experiences?
+2. First Corinthians 10:12 warns, “Therefore let anyone who thinks that he stands take heed lest he fall” (ESV). How can we guard against overconfidence in our spiritual walk?
+3. God can provide a way out when we are tempted (1 Cor. 10:13). Have you ever experienced this provision in your life? How does this verse encourage you?
+4. While Paul warns against idolatry, he also outlines principles for identifying and counteracting idolatry. What are some modern forms of idolatry that Christians struggle with today? How can Paul’s advice in regard to idolatry be applied to them?
+5. Paul says, “ ‘All things are lawful,’ but not all things are helpful” (1 Cor. 10:23, ESV). How can we discern between what is beneficial and what is unprofitable in our lives?
+6. In 1 Corinthians 10:31, Paul tells us to do everything for the glory of God. What does doing everything for the glory of God look like in daily life?
+7. Paul emphasizes not causing others to stumble (1 Cor. 10:32, 33). How can we balance our personal freedoms with our responsibility to others?
