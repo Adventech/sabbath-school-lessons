@@ -1,0 +1,28 @@
+---
+  title: "Professor YAQ1. Criação"
+  description: "Ano A, Trimestre 1"
+  human_date: "Janeiro · Fevereiro · Março de 2026"
+  start_date: "28/12/2025"
+  end_date: "28/03/2026"
+  color_primary: "#007EAC"
+  color_primary_dark: "#005B7B"
+  credits:
+    - name: Autora Principal
+      value: Carolin Schmitz
+    - name: Colaboradoras
+      value: Nina Atcheson, Racquel Markwell
+    - name: Gerente de Currículo e Editora Sênior
+      value: Nina Atcheson
+    - name: Assistente Editorial
+      value: Denise Gustafson
+    - name: Diretor Mundial da Escola Sabatina
+      value: Daniel Ebenezer
+    - name: Consultor do Instituto de Pesquisa Bíblica
+      value: Daniel Bediako
+    - name: Designers
+      value: Types & Symbols, Megan Betteridge
+    - name: Revisores
+      value: James e Ida Cavil
+  quarterly_group:
+    "name": "Vivos em Jesus. Berçário"
+    "order": 850
