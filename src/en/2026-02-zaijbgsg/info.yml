@@ -4,8 +4,8 @@
   human_date: "April · May · June 2026"
   start_date: "29/03/2026"
   end_date: "27/06/2026"
-  primary_color: '#6FAACD'
-  primary_color_dark: '#4A83A6'
+  color_primary: '#6FAACD'
+  color_primary_dark: '#4A83A6'
   credits:
     - name: Principal Contributors
       value: Racquel Markwell, Rosanne Peach
