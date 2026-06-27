@@ -23,11 +23,9 @@ Paul describes this kind of love in 1 Corinthians 13—a love that isn’t just 
 
 First Corinthians 13, often called the “Love Chapter,” is one of the most profound passages in the Bible. Paul places love at the center of Christian life, showing that it is superior to spiritual gifts, knowledge, and even faith. This week, we will look at the following three main themes of the Love Chapter:
 
-1.	The Supremacy of Love (1 Cor. 13:1–3).
-
-2.	The Characteristics of Love (1 Cor. 13:4–8).
-
-3.	 The Endurance of Love (1 Cor. 13:8–13).
+1. The Supremacy of Love (1 Cor. 13:1–3).
+2. The Characteristics of Love (1 Cor. 13:4–8).
+3. The Endurance of Love (1 Cor. 13:8–13).
 
 #### Part II: Commentary
 
@@ -59,18 +57,11 @@ This list contrasts with the Corinthians’ behavior. The Corinthians were strug
 
 Paul’s discourse on love in 1 Corinthians 13 emphasizes that love is the foundation of Christian faith and relationships. Love (or _agapē_) is not about emotions, attraction, or personal benefit. Rather, it is a self-giving, enduring, and transformative principle that mirrors God’s love for us. Paul challenges believers to embody this love in their daily lives, making it the highest virtue in both their faith and actions.
 
-1.	Paul says that even great spiritual gifts and acts of sacrifice are meaningless without love. Why do you think love is more important than knowledge, faith, or generosity?
-
-2.	Can you think of examples in which people do “good things” but without love? How does that affect the impact of their actions?
-
-3.	How does 1 Corinthians 13 challenge the way we define success?
-
-4.	Which of the descriptions of love (for example, patience, kindness, not self-seeking) stands out to you the most? Why?
-
-5.	Which of the aforementioned characteristics is the hardest for you to practice in your daily life? How can you grow in that area?
-
-6.	How can you practice _agapē_ love in situations in which you don’t feel like loving (for example, difficult relationships, disagreements, daily frustrations)?
-
-7.	Think about a person in your life who truly exemplifies the kind of love that Paul describes in 1 Corinthians 13. What can you learn from this person?
-
-8.	How does understanding God’s love help us to love others better?
+1. Paul says that even great spiritual gifts and acts of sacrifice are meaningless without love. Why do you think love is more important than knowledge, faith, or generosity?
+2. Can you think of examples in which people do “good things” but without love? How does that affect the impact of their actions?
+3. How does 1 Corinthians 13 challenge the way we define success?
+4. Which of the descriptions of love (for example, patience, kindness, not self-seeking) stands out to you the most? Why?
+5. Which of the aforementioned characteristics is the hardest for you to practice in your daily life? How can you grow in that area?
+6. How can you practice _agapē_ love in situations in which you don’t feel like loving (for example, difficult relationships, disagreements, daily frustrations)?
+7. Think about a person in your life who truly exemplifies the kind of love that Paul describes in 1 Corinthians 13. What can you learn from this person?
+8. How does understanding God’s love help us to love others better?

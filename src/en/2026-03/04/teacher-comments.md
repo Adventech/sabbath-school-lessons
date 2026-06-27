@@ -21,11 +21,11 @@ As we consider the topic of sin in the church and of choices made (or not made) 
 
 This week’s lesson highlights three important themes:
 
-1. The Dangers of Rationalizing Sin. We often disconnect ethical and moral issues from our practice and the choices we make by either ignoring the obvious or stifling our convictions in order to rationalize our behavior. Paul’s message to the Corinthians offers a good example of such behavior and contains a clear indication of how to resolve this situation.
+**1. The Dangers of Rationalizing Sin.** We often disconnect ethical and moral issues from our practice and the choices we make by either ignoring the obvious or stifling our convictions in order to rationalize our behavior. Paul’s message to the Corinthians offers a good example of such behavior and contains a clear indication of how to resolve this situation.
 
-2. The Biblical Basis for Marriage. The biblical concept of marriage is based on Creation theology and should offer the foundation for our reflection on the topic. The incestuous practice referenced in 1 Corinthians 5:1 and the lack of critical reflection on the issue by the Corinthian church community remind us of the reality of the Knowing-Doing Gap within the church.
+**2. The Biblical Basis for Marriage.** The biblical concept of marriage is based on Creation theology and should offer the foundation for our reflection on the topic. The incestuous practice referenced in 1 Corinthians 5:1 and the lack of critical reflection on the issue by the Corinthian church community remind us of the reality of the Knowing-Doing Gap within the church.
 
-3. Conflict Resolution. Conflict resolution among church members should be done within the church and not through the secular legal courts. Resolving conflict within the church offers the opportunity for redemptive justice and underlines the conviction that the church, the body of Christ, is capable of resolving even challenging issues.
+**3. Conflict Resolution.** Conflict resolution among church members should be done within the church and not through the secular legal courts. Resolving conflict within the church offers the opportunity for redemptive justice and underlines the conviction that the church, the body of Christ, is capable of resolving even challenging issues.
 
 #### Part II: Commentary
 
@@ -57,10 +57,7 @@ The church as a united body repeats and echoes Paul’s earlier concerns about f
 
 Tension and conflict in the church are not easy issues to resolve. The texts dealing with the issue of sexual immorality and how the church should resolve this problem offer the modern reader important strategies for resolving sin, tension, and conflict in our faith communities. Consider with your class the following questions:
 
-1.	What would you tell a friend who tells you that he struggles with doing the right thing—even though he knows what he should do?
-
-2.	Does the Knowing-Doing Gap have anything to do with righteousness by works? If so, why? If not, why not?
-
-3.	Why is it so difficult to offer forgiveness to those struggling with sexual sins?
-
-4.	What would be the best strategy to help those struggling with sexual sins?
+1. What would you tell a friend who tells you that he struggles with doing the right thing—even though he knows what he should do?
+2. Does the Knowing-Doing Gap have anything to do with righteousness by works? If so, why? If not, why not?
+3. Why is it so difficult to offer forgiveness to those struggling with sexual sins?
+4. What would be the best strategy to help those struggling with sexual sins?

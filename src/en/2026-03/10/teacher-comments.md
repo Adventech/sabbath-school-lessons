@@ -21,13 +21,10 @@ In 2 Corinthians 3–7, the apostle Paul focuses his message on genuine ministr
 
 This week’s lesson highlights four important themes:
 
-1.	Spiritual Transformation. Ministry leads to changed lives through the Spirit.
-
-2.	Emotional Honesty. True ministry includes vulnerability and openheartedness.
-
-3.	Moral Integrity. Ministers are called to holiness and separation from worldly compromise.
-
-4.	Relational Reconciliation. Ministry seeks restored relationships through truth and grace.
+1. **Spiritual Transformation.** Ministry leads to changed lives through the Spirit.
+2. **Emotional Honesty.** True ministry includes vulnerability and openheartedness.
+3. **Moral Integrity.** Ministers are called to holiness and separation from worldly compromise.
+4. **Relational Reconciliation.** Ministry seeks restored relationships through truth and grace.
 
 #### Part II: Commentary
 
@@ -71,16 +68,10 @@ Paul pleads with the Corinthians to respond now—not just to the gospel but to 
 
 As you consider 2 Corinthians 3–7, discuss the following questions with your group:
 
-1.	In what areas of your life do you feel weak or broken, and how might God be using those places to display His strength?
-
-2.	Do you tend to hide your struggles in ministry, or do you use them to testify of God’s grace? Explain.
-
-3.	What does integrity look like in a culture that often values image over authenticity?
-
-4.	How can we guard against compromising with worldly values in our daily lives and in leadership?
-
-5.	What does Paul’s example teach us about handling broken relationships in ministry?
-
-6.	Why is reconciliation so central to the gospel? How should that affect our approach to conflict?
-
-7.	How can truth and grace work together in healing relationships?
+1. In what areas of your life do you feel weak or broken, and how might God be using those places to display His strength?
+2. Do you tend to hide your struggles in ministry, or do you use them to testify of God’s grace? Explain.
+3. What does integrity look like in a culture that often values image over authenticity?
+4. How can we guard against compromising with worldly values in our daily lives and in leadership?
+5. What does Paul’s example teach us about handling broken relationships in ministry?
+6. Why is reconciliation so central to the gospel? How should that affect our approach to conflict?
+7. How can truth and grace work together in healing relationships?

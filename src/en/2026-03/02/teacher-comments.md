@@ -23,11 +23,11 @@ But the cross meant cruel death, severe punishment, and absolute shame to most p
 
 This week’s lesson highlights a number of important themes, including:
 
-1.	The Message of the Cross. The cross is God’s surprising, and all-encompassing, answer to the sin problem. It is the foundation of the gospel message preached by Paul and the other apostles to a world that had a radically different worldview.
+**1. The Message of the Cross.** The cross is God’s surprising, and all-encompassing, answer to the sin problem. It is the foundation of the gospel message preached by Paul and the other apostles to a world that had a radically different worldview.
 
-2.	True Wisdom. Wisdom was an important element of Greek philosophy and a major topic in distinct philosophical schools. Paul’s use of the term stands in stark contrast to its use in Greek philosophy and connects more easily to the understanding of wisdom in the Old Testament.
+**2. True Wisdom.** Wisdom was an important element of Greek philosophy and a major topic in distinct philosophical schools. Paul’s use of the term stands in stark contrast to its use in Greek philosophy and connects more easily to the understanding of wisdom in the Old Testament.
 
-3.	The Cross: Folly or a Way Home. The cross becomes either a stumbling block or folly to those who hear about it without embracing the One who hung there. Jesus died on the cross in order to offer the world forgiveness, transformative grace, and a way home to the God who invests all to save His fallen creation.
+**3. The Cross: Folly or a Way Home.** The cross becomes either a stumbling block or folly to those who hear about it without embracing the One who hung there. Jesus died on the cross in order to offer the world forgiveness, transformative grace, and a way home to the God who invests all to save His fallen creation.
 
 #### Part II: Commentary
 
@@ -53,12 +53,6 @@ This pronouncement leads Paul to the next important statement: God’s election 
 
 Wisdom and folly are found closely linked in Paul’s opening chapter to the church in Corinth. He helps his readers understand that “human wisdom cannot lead to a true saving knowledge of God, which is only available through the foolishness of the gospel (v. 21).”—“1 Corinthians,” in Andrews Bible Commentary, ed. Ángel Manuel Rodríguez et al. (Berrien Springs, MI: Andrews University Press, 2022), p. 1620. Discuss with your group the following questions as you consider 1 Corinthians 1:17–31:
 
-1.	What could be a stumbling block to our faith, though we have the advantage of being able to look back on nearly two thousand years of church history and the history of biblical interpretation?
-
-2.	What would be the best argument to make to those who consider the gospel message foolish or just a “sedative for the ignorant”?
-
-3.	What aspect, or aspects, of the good news of the Cross would appeal to people in your community, outside the church? What would make accepting the gospel more difficult for them?
-
-`Notes`
-
-Notes
+1. What could be a stumbling block to our faith, though we have the advantage of being able to look back on nearly two thousand years of church history and the history of biblical interpretation?
+2. What would be the best argument to make to those who consider the gospel message foolish or just a “sedative for the ignorant”?
+3. What aspect, or aspects, of the good news of the Cross would appeal to people in your community, outside the church? What would make accepting the gospel more difficult for them?
