@@ -4,9 +4,7 @@
 
 Kirjade kirjutamine on igipõline tegevus, mis ei ole ka praegu ajast ja arust. Oleme lihtsalt vahetanud kirjade kirjutamise viisi. Jah, sotsiaalmeedia asendab paberit. Aga oma olemuselt täidavad meilid ja muul kujul elektronkirjad põhimõtteliselt sama ülesannet: need ühendavad inimesi teabe, tunnete ja mõtete vahetamise kaudu.
 
-Miks inimesed kirju kirjutavad? Ilmselt sellepärast, et neil on midagi öelda.
-Nii oli ka apostel Pauluse puhul. Kuigi tal oli väga palju öelda, ei olnud tal alati
-võimalust rääkida silmast silma nendega, kellega ta rääkida tahtis.
+Miks inimesed kirju kirjutavad? Ilmselt sellepärast, et neil on midagi öelda. Nii oli ka apostel Pauluse puhul. Kuigi tal oli väga palju öelda, ei olnud tal alati võimalust rääkida silmast silma nendega, kellega ta rääkida tahtis.
 
 Niisiis kirjutas ta kirju – näiteks kirju korintlastele, millest leiab mitu sügavat Pühakirja tõde. Nende hulgas on sõnad: „Sest ma otsustasin teada teie keskel ainuüksi Jeesusest Kristusest ja temast kui ristilöödust“ (1Kr 2:2), ja „Te ju teate meie Issanda Jeesuse Kristuse armu, et tema, kuigi ta oli rikas, sai teie pärast vaeseks, et teie saaksite rikkaks tema vaesusest“ (2Kr 8:9). Ja muidugi korint- lastele kirjutatud esimese kirja 13. peatükis leiduv imeline hümn armastusele!
 
@@ -18,8 +16,6 @@ Pauluse-aegne Korintos oli kuulus jõukuse ja elava kaubanduse poolest, mille al
 
 Sellel veerandaastal teeme ülevaate Pauluse kirjadest korintlastele. Neis kahes tähelepanuväärses Uue Testamendi raamatus räägib apostel evangeeliumi sõnumist kui kristliku elu ja tunnistamise põhiolemusest, prillidest, läbi mille tuleb kõige muu üle otsustada. Ükskõik, milliseid raskusi kohtame taevateel isiklikult või kogudusena üldiselt – vastus meie kõige keerukamatele probleemidele Kristuse töös on sama, mis anti korintlastele: „Jeesus Kristus ja tema kui ristilöödu“ (1Kr 2:2)!
 
-Jeesus tuleb varsti. Rohkem kui iial varem on aeg olla ühtsem Kristuses ja avatud Pühale Vaimule; on aeg kasutada hoolsalt vaimuande ja otsida veel sügavamaid kogemusi oma ülestõusnud Issandaga. On aeg teha siiralt kristlikku evangeeliumitööd, olla hoolas majapidaja ja misjonär, pidada vaimulikku sõda valeõpetustega ning kasvada armus, armastuses ja osaduses. On aeg hoida ristisõnumist kõvasti kinni ja olla sellele ustav. Pauluse kirjad korintlas-
-tele õpetavad meid just nii tegema.
+Jeesus tuleb varsti. Rohkem kui iial varem on aeg olla ühtsem Kristuses ja avatud Pühale Vaimule; on aeg kasutada hoolsalt vaimuande ja otsida veel sügavamaid kogemusi oma ülestõusnud Issandaga. On aeg teha siiralt kristlikku evangeeliumitööd, olla hoolas majapidaja ja misjonär, pidada vaimulikku sõda valeõpetustega ning kasvada armus, armastuses ja osaduses. On aeg hoida ristisõnumist kõvasti kinni ja olla sellele ustav. Pauluse kirjad korintlastele õpetavad meid just nii tegema.
 
-Adenilton Tavares de Aguiar, PhD, on Sᾶo Paulos (Brasiilia) asuva Adventülikooli
-Keskuse Teoloogilise Seminari (UNASP) professor Piibli tõlgendamise alal.
+Adenilton Tavares de Aguiar, PhD, on Sᾶo Paulos (Brasiilia) asuva Adventülikooli Keskuse Teoloogilise Seminari (UNASP) professor Piibli tõlgendamise alal.
