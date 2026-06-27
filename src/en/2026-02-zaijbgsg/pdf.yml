@@ -32,7 +32,7 @@
       end_date: 25/04/2026
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-BG-05.pdf'
       target: en/2026-02-zaijbgsg/05
-      title: 'A Little Boy's Lunch'
+      title: A Little Boy's Lunch
       start_date: 26/04/2026
       end_date: 02/05/2026
     - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-BG-06.pdf'
