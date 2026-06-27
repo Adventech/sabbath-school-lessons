@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-kids-parents.pdf'
+      target: en/2026-01-zaijkdsg/introduction
+      title: Introduction
+      start_date: 28/12/2025
+      end_date: 28/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-short-devotions.pdf'
+      target: en/2026-01-zaijkdsg/shortdevotions
+      title: Short Devotions
+      start_date: 28/12/2025
+      end_date: 28/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-01.pdf'
+      target: en/2026-01-zaijkdsg/01
+      title: "A Brand New World"
+      start_date: 28/12/2025
+      end_date: 03/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-02.pdf'
+      target: en/2026-01-zaijkdsg/02
+      title: "Life in God’s Garden"
+      start_date: 04/01/2026
+      end_date: 10/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-03.pdf'
+      target: en/2026-01-zaijkdsg/03
+      title: "The Sabbath"
+      start_date: 11/01/2026
+      end_date: 17/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-04.pdf'
+      target: en/2026-01-zaijkdsg/04
+      title: "Lucifer’s Sad Choice"
+      start_date: 18/01/2026
+      end_date: 24/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-05.pdf'
+      target: en/2026-01-zaijkdsg/05
+      title: "Adam and Eve Choose"
+      start_date: 25/01/2026
+      end_date: 31/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-06.pdf'
+      target: en/2026-01-zaijkdsg/06
+      title: "Cain and Abel"
+      start_date: 01/02/2026
+      end_date: 07/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-07.pdf'
+      target: en/2026-01-zaijkdsg/07
+      title: "Noah Builds an Ark"
+      start_date: 08/02/2026
+      end_date: 14/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-08.pdf'
+      target: en/2026-01-zaijkdsg/08
+      title: "A Rainbow Promise"
+      start_date: 15/02/2026
+      end_date: 21/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-09.pdf'
+      target: en/2026-01-zaijkdsg/09
+      title: "The Tall Tower"
+      start_date: 22/02/2026
+      end_date: 28/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-10.pdf'
+      target: en/2026-01-zaijkdsg/10
+      title: "Abram, Man of Faith"
+      start_date: 01/03/2026
+      end_date: 07/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-11.pdf'
+      target: en/2026-01-zaijkdsg/11
+      title: "Abram Lets Lot Choose"
+      start_date: 08/03/2026
+      end_date: 14/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-12.pdf'
+      target: en/2026-01-zaijkdsg/12
+      title: "A Brave Rescue"
+      start_date: 15/03/2026
+      end_date: 21/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-13.pdf'
+      target: en/2026-01-zaijkdsg/13
+      title: "Baby Isaac"
+      start_date: 22/03/2026
+      end_date: 28/03/2026
