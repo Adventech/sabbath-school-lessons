@@ -1,0 +1,27 @@
+---
+  title: "Teacher YAQ1: My God is Loving"
+  description: "Year A, Quarter 1"
+  human_date: "January · February · March 2026"
+  start_date: "28/12/2025"
+  end_date: "28/03/2026"
+  color_primary: "##5C7981"
+  color_primary_dark: "##40585F"
+  credits:
+    - name: Principal Contributor
+      value: Lanelle Cobbin
+    - name: Contributors
+      value: Jenny Paddison, Carolin Schmitz, Nina Atcheson
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard and Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Daniel Bediako
+    - name: Designer
+      value: Megan Betteridge
+    - name: Copy Editors
+  quarterly_group:
+    "name": "Alive in Jesus. Kindergarten"
+    "order": 849

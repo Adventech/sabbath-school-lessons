@@ -25,7 +25,7 @@
     order: 700
   kd:
     name: "Kindergarten"
-    order: 800
+    order: 899
   bg:
     name: "Beginner"
     order: 900
