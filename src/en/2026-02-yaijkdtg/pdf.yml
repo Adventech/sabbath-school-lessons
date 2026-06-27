@@ -1,0 +1,92 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-teacher.pdf'
+      target: en/2026-02-yaijkdtg/teacher
+      title: Dear Kindergarten Sabbath School Teacher
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-tips.pdf'
+      target: en/2026-02-yaijkdtg/tips
+      title: Tips for Telling Bible Stories in Sabbath School
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-overview.pdf'
+      target: en/2026-02-yaijkdtg/overview
+      title: Kindergarten Quarter 1 Overview
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-crafts.pdf'
+      target: en/2026-02-yaijkdtg/crafts
+      title: Quarterly Crafts
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-cards.pdf'
+      target: en/2026-02-yaijkdtg/cards
+      title: Nature Cards
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-01.pdf'
+      target: en/2026-02-yaijkdtg/01
+      title: Isaac and Rebekah
+      start_date: 29/03/2026
+      end_date: 04/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-02.pdf'
+      target: en/2026-02-yaijkdtg/02
+      title: The Birthright Blessing
+      start_date: 05/04/2026
+      end_date: 11/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-03.pdf'
+      target: en/2026-02-yaijkdtg/03
+      title: Jacob Finds His Savior
+      start_date: 12/04/2026
+      end_date: 18/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-04.pdf'
+      target: en/2026-02-yaijkdtg/04
+      title: Jacob in Haran
+      start_date: 19/04/2026
+      end_date: 25/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-05.pdf'
+      target: en/2026-02-yaijkdtg/05
+      title: Brothers Meet Again
+      start_date: 26/04/2026
+      end_date: 02/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-06.pdf'
+      target: en/2026-02-yaijkdtg/06
+      title: The Dreamer
+      start_date: 03/05/2026
+      end_date: 09/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-07.pdf'
+      target: en/2026-02-yaijkdtg/07
+      title: Sold!
+      start_date: 10/05/2026
+      end_date: 16/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-08.pdf'
+      target: en/2026-02-yaijkdtg/08
+      title: A New Life in Egypt
+      start_date: 17/05/2026
+      end_date: 23/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-09.pdf'
+      target: en/2026-02-yaijkdtg/09
+      title: Miracles in Prison
+      start_date: 24/05/2026
+      end_date: 30/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-10.pdf'
+      target: en/2026-02-yaijkdtg/10
+      title: The New Governor
+      start_date: 31/05/2026
+      end_date: 06/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-11.pdf'
+      target: en/2026-02-yaijkdtg/11
+      title: A Family Reunion!
+      start_date: 07/06/2026
+      end_date: 13/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-12.pdf'
+      target: en/2026-02-yaijkdtg/12
+      title: Shining in Faraway Places
+      start_date: 14/06/2026
+      end_date: 20/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-KD-TG-13.pdf'
+      target: en/2026-02-yaijkdtg/13
+      title: Welcome to the Family
+      start_date: 21/06/2026
+      end_date: 27/06/2026

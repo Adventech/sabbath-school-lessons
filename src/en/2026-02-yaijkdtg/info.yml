@@ -1,0 +1,28 @@
+---
+  title: "Teacher YAQ2: God Is With Me"
+  description: "Year A, Quarter 2"
+  human_date: "April · May · June 2026"
+  start_date: "29/03/2026"
+  end_date: "27/06/2026"
+  color_primary: "#5C7981"
+  color_primary_dark: "#40585F"
+  credits:
+    - name: Contributors
+      value: Carolin Schmitz, Janel Tasker
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editor
+      value: Rosanne Peach
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard and Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Daniel Bediako
+    - name: Designer
+      value: Megan Betteridge
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Kindergarten"
+    "order": 849
