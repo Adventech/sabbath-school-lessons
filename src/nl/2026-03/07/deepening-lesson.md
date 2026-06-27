@@ -48,12 +48,10 @@ De liefde vergaat nooit. Andere gaven – profetie, tongentaal, kennis – zijn 
 
 `Wat betekent het voor mij om deze week bewust naar die zachte stem te zoeken, zodat mijn daden voortkomen uit zijn liefde en niet uit mijn eigen ambitie?`
 
-
 Al sprak ik de talen van alle mensen en die van de engelen had ik de liefde niet, ik zou niet meer zijn dan een dreunende gong of een schelle cimbaal
 1 korinthiers 13:1
 
 Moge onze hemelse Vader in ons werken, zodat wij het goede doen zonder er zelf eer voor te zoeken.
-
 
 ## Ik bid ...
 Abba, Vader vol liefde, vorm ons naar het voorbeeld van Jezus. Hij handelde altijd uit zuivere, belangeloze liefde en erkende U als de bron van al het goede. Leer ons geen erkenning te zoeken voor wat wij doen, maar te leven met dezelfde nederige en onbaatzuchtige houding als Jezus. Laat alles zijn tot eer van U en van Jezus, in de kracht van uw eeuwige liefde. 

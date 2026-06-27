@@ -8,7 +8,6 @@ date: 25/09/2026
 ### IJsbrekervraag
 `Stel je voor dat Paulus vandaag jouw kerk binnenloopt en tegen je zegt: 'Onderzoek jezelf om te zien of je in het geloof bent.' Wat zou er dan als eerste door je heen gaan?`
 
-
 ### Ik verken
 De tweede brief aan de Korintiërs begint met een beschrijving van de moeilijke periode die Paulus en Timoteüs meemaakten in de provincie Asia (waarvan Efeze de hoofdstad was). Paulus legt ook uit waarom hij zijn geplande bezoek aan Korinthe had uitgesteld.
 
@@ -33,8 +32,6 @@ Daarom bidt Paulus voor hen. Hij weet dat gebed de kracht is waardoor gelovigen 
 
 Diezelfde kracht hebben wij vandaag ook: de kracht om voor elkaar te bidden.
 
-
-
 ## Vragen voor gesprek
 `Waarom vraagt Paulus de gelovigen om zichzelf te onderzoeken?`
 
@@ -43,7 +40,6 @@ Diezelfde kracht hebben wij vandaag ook: de kracht om voor elkaar te bidden.
 `Waarom benadrukt Paulus dat zijn derde bezoek anders zal zijn dan de vorige?`
 
 `Wat leert dit hoofdstuk ons over de rol van gebed in het leven van een gemeente?`
-
 
 ## Ik pas toe
 In dit laatste hoofdstuk zien we zowel de vastberadenheid als de tederheid van Paulus. Hij spreekt duidelijke woorden, maar zijn hart blijft gericht op opbouw en herstel.
@@ -74,7 +70,6 @@ De God van liefde en vrede zal met ons zijn: Immanuel: God met ons.
 `Wat kan ik concreet doen om bij te dragen aan vrede en eenheid in mijn kerk?`
 
 `Ben ik bereid om deze woorden van Paulus serieus te nemen in mijn dagelijks leven?`
-
 
 ## Ik bid ...
 Eeuwige Heer, almachtige God,

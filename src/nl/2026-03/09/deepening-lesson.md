@@ -36,7 +36,6 @@ Zelfs in doodsgevaar (vers 8) groeit Paulus’ vertrouwen in God, zoals Abraham 
 
 Ook het gebed van de gemeente is onmisbaar: het geeft volharding en nieuwe moed (vers 11).
 
-
 # Gespreksvragen
 `Uit welke twee richtingen kwam de tegenstand tegen het christendom?`
 
@@ -54,12 +53,10 @@ Ook het gebed van de gemeente is onmisbaar: het geeft volharding en nieuwe moed 
 
 `Hoe helpt het gebed van anderen bij volharding in moeilijke tijden?`
 
-
 # Ik pas toe
 In dit gedeelte worden we uitgenodigd om na te denken over onze relatie met God. Paulus spreekt over een levenswijze die gekenmerkt wordt door eenvoud, oprechtheid en genade (vers 12). De eerste christenen leefden in diepe eenheid met elkaar. Die eenheid begon al op de Pinksterdag: ‘Ze waren allen eensgezind bijeen’ (Handelingen 2:1). Vanuit die verbondenheid groeide ook hun relatie met God. Paulus verwoordt dat treffend: ‘Niet meer ik leef, maar Christus leeft in mij’ (Galaten 2:20). Hij herinnert ons er ook aan dat wij een tempel van de heilige Geest zijn (1 Korintiërs 3:16). Al in het Oude Testament klinkt Gods verlangen om dicht bij zijn volk te zijn (Ezechiël 11:19–20). Wij zijn geschapen naar zijn beeld (Genesis 1:26), met het doel Hem te weerspiegelen (Matteüs 5:48).
 
 Met het oog op de komende week worden we uitgenodigd om dit concreet te maken in ons dagelijks leven. We kunnen ons afvragen: hoe kies ik voor eenvoud en oprechtheid? Hoe draag ik bij aan eenheid? Wat betekent het dat Christus in mij leeft? Hoe stel ik mij open voor de heilige Geest? En welke stap zet ik om dichter bij God te leven?
-
 
 # Ik bid ...
 Hemelse Vader, dank U voor uw Woord en voor de uitnodiging om dicht bij U te leven. Dank U dat U onder ons wilt wonen en ons vormt naar uw beeld. Wilt U ons deze week leiden, zodat wij in eenvoud, eenheid en gehoorzaamheid leven, en Christus zichtbaar wordt in ons.

@@ -64,7 +64,6 @@ Wie de Schrift leest met een open hart, ervaart hoe de Geest het Woord gebruikt 
 
 Daarom blijft de vraag: lees ik de Bijbel alleen, of laat ik God door zijn Geest mijn hart veranderen?
 
-
 ## Ik bid ...
 Heer,
 help mij om een boodschap van vreugde en hoop te brengen aan de mensen om mij heen. Laat uw Geest mijn hart openen, zodat uw Woord in mij leeft en zichtbaar wordt in mijn leven.

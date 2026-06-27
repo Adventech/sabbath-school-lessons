@@ -41,12 +41,10 @@ Tijdens het eerste deel van de reis stelde Paulus vooral al bekende gemeenten op
 - `Wat is de inhoud van zijn boodschap? Denk nog even terug aan wat we hierboven hebben overdacht naar aanleiding van 1 Korintiërs 1:18-2:11.`
 - `Hoe reageren de toehoorders? Wat vind je van de reactie van Paulus hierop?`
 
-
 # Lees 1 Korintiërs 18:8-10
 
 - `Wie komen er ook naar het huis van Titus Justus? Let op hun achtergrond! Je moet niet alle leden van een bevolkingsgroep over één kam scheren!`
 - `Waarvan verzekert de Heer Paulus in een nachtvisioen?`
-
 
 # Handelingen 18:10
 

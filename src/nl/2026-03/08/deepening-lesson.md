@@ -8,7 +8,6 @@ date: 21/08/2026
 ### Ijsbrekervraag
 `Heb je ooit moeite gehad om een bepaalde Bijbelse waarheid te accepteren? Wat heeft je geholpen om je twijfels te overwinnen?`
 
-
 ### Ik verken
 Het onderwerp van de opstanding in 1 Korintiërs 15 staat niet op zichzelf. In zijn eerste brief aan de gelovigen in Korinthe behandelt Paulus verschillende problemen binnen de gemeente. Hij spreekt onder andere over verdeeldheid in de kerk (1:10–4:21) en over drie ernstige misstanden: een ongepaste relatie binnen de gemeente, rechtszaken tussen broeders bij wereldlijke rechtbanken en omgang met prostituees (5:1–6:20).
 

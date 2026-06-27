@@ -37,7 +37,6 @@ We hebben eerst gekeken naar hoe Paulus zijn positie duidelijk maakt. Dat doet h
 
 - `Welke beschrijving geeft hij van andere zogenaamde 'apostelen'? Waarmee vergelijkt hij hen?`
 
-
 # Ik pas toe
 Dit bijbelgedeelte is, samen met alles wat er in de achtergrond meespeelt, een belangrijke les in het omgaan met conflicten.
 
@@ -54,7 +53,6 @@ Dit bijbelgedeelte is, samen met alles wat er in de achtergrond meespeelt, een b
 - `Andersom geldt de vraag ook: van hoeveel waarde acht je als gemeente(lid) de opleiding die predikanten ontvangen?`
 
 - `Iedereen kan als mens van mening verschillen, ook met iemand die ergens voor heeft 'doorgeleerd'. Hoe zorg je voor balans tussen je eigen inzichten en de soms afwijkende inzichten van 'een professional'? Wederzijds respect is de sleutel!`
-
 
 2 Korintiërs 11:14
 Dat is ook geen wonder, want niemand minder dan Satan vermomt zich als een engel van het licht.

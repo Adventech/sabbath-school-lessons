@@ -32,7 +32,6 @@ In dit gedeelte beschrijft de apostel Paulus de geestelijke gaven die in de geme
 
 `Wat zegt dit over verschillen tussen mensen, zoals afkomst of sociale positie?`
 
-
 ### Ik pas toe
 `Paulus herinnert ons eraan dat een lichaam uit veel verschillende delen bestaat. Toch vormen al die delen samen één lichaam (vers 12). Zo is het ook met Christus en zijn gemeente: Christus is het hoofd en de gelovigen zijn de verschillende delen van het lichaam. Dit beeld nodigt ons uit om na te denken: op welke manier kan ik deze week actief bijdragen aan de eenheid binnen het lichaam van Christus, ondanks verschillen in achtergrond of mening?`
 
@@ -46,7 +45,6 @@ In dit gedeelte beschrijft de apostel Paulus de geestelijke gaven die in de geme
 
 1 Korintiërs 12:12
 Een lichaam is een eenheid die uit vele delen bestaat: ondanks hun veelheid vormen al die delen samen een lichaam. Zo is het ook met het lichaam van Christus.
-
 
 ## Ik bid ...
 Onze God en Vader, wij komen tot U met dankbaarheid. Dank U dat wij samen een lichaam mogen vormen in Jezus Christus. Help ons om in eenheid te leven en elkaar te dienen met de gaven die U ons geeft. Schenk ons uw vrede. In de naam van Jezus.

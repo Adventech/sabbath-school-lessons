@@ -15,7 +15,6 @@ In 1 Korintiërs 5-10 stelt Paulus de moraal van de gemeente te Korinthe centraa
 
 Paulus schreef de eerste brief aan de Korintiërs waarschijnlijk in 55 na Christus, vanuit Efeze (1 Korintiërs 16:8), tijdens zijn derde zendingsreis. Aanleiding hiervoor waren punten waarover de Korintiërs hem geschreven hadden (1 Korintiërs 7:1).
 
-
 ### Ik bestudeer
 Paulus richt zich tot de leden van de gemeente te Korinthe. Hij noemt hen niet alleen ‘geheiligd door Christus Jezus’, maar ook ‘geroepen om zijn heiligen te zijn’ (1 Korintiërs 1:2). Dit laatste verwijst naar een bepaalde manier van leven en omgang met anderen. Daarnaast noemt Paulus God de Vader en de Heer Jezus Christus, en goden die als afgod aanbeden worden, maar die geen van alle de benaming God of Heer waardig zijn.
 
@@ -30,7 +29,6 @@ Een gemeente bestaat uit ‘sterken’ en ‘zwakken’ (vergelijk Romeinen 14:1
 Heidens offervlees was vlees dat aan een afgod gewijd was en daarom een offer aan een afgod genoemd werd (vergelijk vers 7). Er waren leden van de gemeente te Korinthe die er kennelijk geen moeite mee hadden dergelijk vlees te eten, ook al waren ze christen geworden. Andere gemeenteleden hadden dat juist wel, omdat ze dat vlees associeerden met hun oude leven.
 
 `Hoe belangrijk is eten voor jou, en wat bepaalt wat je wel of niet eet?`
-
 
 # Ik pas toe
 Als je al wat langer christen bent, heb je voor jezelf keuzes gemaakt in wat je wel of niet doet.
@@ -47,7 +45,6 @@ Onthoud dat iedere gelovige zijn of haar eigen weg met God heeft. Dit betekent o
 
 1 Korintiërs 8:1
 Kennis maakt verwaand, alleen de liefde bouwt op
-
 
 # Ik bid ...
 Heer, leer mij niet alleen te denken aan mijn eigen belang, maar me ook af te vragen of ik anderen in gevaar breng als ik een bepaalde keuze maak. Ik verlang ernaar dat U ook geëerd wordt door hoe wij met elkaar omgaan. 

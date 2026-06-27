@@ -9,11 +9,9 @@ date: 10/07/2026
 
 `Wat komt het eerst in je op als je gevraagd wordt waar het evangelie over gaat?`
 
-
 ### Ik verken
 
 De aanleiding voor het gedeelte van de brief dat wij deze keer behandelen, vinden we in het voorafgaande, de verzen 10-16. Dit zal in de verdieping van volgende week worden behandeld. Deze week richten we onze aandacht op ‘het kruis van Christus’ waar Paulus in vers 17 al op wijst. Kort gezegd berispt Paulus de Korintiërs, omdat zij zich laten leiden door ‘diepzinnige welsprekendheid’, of, zoals een andere vertaling zegt, ‘met wijsheid van woorden’. In verschillende passages van de brief aan de Korintiërs keert Paulus zich tegen hun hoogmoed of trots (3:21; 4:6, 8, 18-19; 5:2, 6).
-
 
 ### Ik bestudeer
 
@@ -35,7 +33,6 @@ De Korintiërs die één met Christus zijn geworden, door het woord van het krui
 1 Korintiërs 1:25
 Want het dwaze van God is wijzer dan de wijsheid van mensen, en het zwakke van God is sterker dan mensen
 
-
 # Ik pas toe
 
 De missie van onze kerk is mensen bekend te maken met de spoedige komst van Christus en zich daarop voor te bereiden. 
@@ -48,7 +45,6 @@ De missie van onze kerk is mensen bekend te maken met de spoedige komst van Chri
 
 - Adventisten menen terecht dat geloof gebaseerd dient te zijn op het Woord van God. Bijbelkennis staat hoog in het vaandel. Wij beroemen ons daar nog wel eens op. 
 `Hoe zou onze houding ten aanzien van ‘andersdenkenden’ echter moeten zijn in het delen van ons gedachtengoed?`
-
 
 # Ik bid ...
 

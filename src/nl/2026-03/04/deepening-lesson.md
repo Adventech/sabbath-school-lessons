@@ -5,13 +5,11 @@ date: 24/07/2026
 
 ## 1 Korintiërs 5:1-13
 
-
 ### IJsbrekervraag
 `Stel dat je naaste buren moslims zijn en trouwe bezoekers van de moskee. Ze vieren het Suikerfeest en nodigen je uit voor een maaltijd. Wat doe je?`
 
 ### Ik verken
 In voorgaande lessen stelde Paulus het probleem van de verdeeldheid in de gemeente aan de orde. Daarin deed hij een beroep op de gemeente voor het bewaren van de eenheid in Christus. Vanaf hoofdstuk 5 richt hij zich op een drietal kwesties die de gemeente ondermijnen: ontucht (5:1-13), het voeren van onderlinge rechtszaken (6:1-11) en prostitutie (6:12-20). Met betrekking tot ontucht had Paulus de gemeente al eerder geschreven (5:9) in een brief die kennelijk verloren is gegaan. In de huidige brief komt hij hier in meer detail op terug.
-
 
 ### Ik bestudeer
 Dat er flinke misstanden zijn binnen de gemeente van Korinthe zal al duidelijk zijn bij het lezen van het eerste vers van hoofdstuk 5.
@@ -35,7 +33,6 @@ De vertrouwelijke omgang met leden die openlijk zondigen dient vermeden te worde
 Doe de oude desem weg en wees als nieuw deeg. U bent immers als ongedesemd brood.
 1 Korintiërs 5:7
 
-
 # Ik pas toe
 De situatie die Paulus hier aanhaalt, is een overduidelijk geval van ontucht. Het is echter niet uitgesloten dat een geval van bijvoorbeeld overspel ook in je eigen gemeente voorkomt.
 
@@ -48,7 +45,6 @@ De situatie die Paulus hier aanhaalt, is een overduidelijk geval van ontucht. He
 In het voorbeeld van Paulus in hoofdstuk 5 is het duidelijk dat het niet de bedoeling is om te gaan met broeders en zusters die over de schreef gaan. In vers 9-10 verduidelijkt hij dit verder. Je hoeft niet als kluizenaar te gaan leven.
 
 - `Toch spreekt hij over een klein beetje zuurdesem dat het hele deeg zuur maakt. Hoe kun je met dit gegeven omgaan zonder in extreem vermijdingsgedrag te vervallen?`
-
 
 # Ik bid ...
 Lieve Vader, dank U dat wij kunnen leven vanuit de genade die U aan ieder mens aanbiedt. Help mij om mensen om mij heen te zien vanuit een liefde zoals Jezus die ook voor hen had, ongeacht hoe zij hun leven leiden. 
