@@ -31,11 +31,9 @@ Paul doesn’t just end his letters; he blesses, reaffirms, and refocuses his re
 
 In this week’s lesson, we will focus on the three key concepts of 2 Corinthians 13:11–14 that can be found in Paul’s concluding words to the Corinthian church:
 
-1.	Grace Is the Starting Point. It is also Jesus’ gift.
-
-2.	Love Is the Sustaining Force. Love is also God’s nature.
-
-3.	Fellowship Is the Relational Outcome. Likewise, fellowship is also the Spirit’s work, which is essential for a healthy Christian community.
+1. **Grace Is the Starting Point.** It is also Jesus’ gift.
+2. **Love Is the Sustaining Force.** Love is also God’s nature.
+3. **Fellowship Is the Relational Outcome.** Likewise, fellowship is also the Spirit’s work, which is essential for a healthy Christian community.
 
 #### Part II: Commentary
 
@@ -67,16 +65,10 @@ In Galatians 5:22–26, Paul describes the fruit of the Spirit as love, peace, a
 
 Discuss with your group the following questions in light of 2 Corinthians 13:11–14:
 
-1.	In 2 Corinthians 13:11, Paul says, “Aim for restoration” (ESV). Why do you think Paul includes this goal as a final exhortation? What might restoration look like in your own relationships or church community?
-
-2.	How is it possible to “be of one mind” (1 Cor. 1:10, NLT) and “live in peace” (Rom. 12:18, NLT) in a church such as the church at Cornith, which had so many conflicts (see 1 Cor. 1:10–13)?
-
-3.	What role does humility play in fostering unity?
-
-4.	In 2 Corinthians 13:12, believers are told to “greet one another with a holy kiss” (ESV). What might be a culturally appropriate way, today, to express this kind of spiritual affection and unity?
-
-5.	In what ways have you received Christ’s grace recently, and how can your experience influence how you respond to difficult people or situations?
-
-6.	Are there relationships in your spiritual community that need healing or strengthening? If so, what are they? More important, what steps can you take toward facilitating that outcome?
-
-7.	Paul ends his letter with joy, comfort, and peace. Which of these divine gifts do you most need right now, and how might you seek it through God’s presence?
+1. In 2 Corinthians 13:11, Paul says, “Aim for restoration” (ESV). Why do you think Paul includes this goal as a final exhortation? What might restoration look like in your own relationships or church community?
+2. How is it possible to “be of one mind” (1 Cor. 1:10, NLT) and “live in peace” (Rom. 12:18, NLT) in a church such as the church at Cornith, which had so many conflicts (see 1 Cor. 1:10–13)?
+3. What role does humility play in fostering unity?
+4. In 2 Corinthians 13:12, believers are told to “greet one another with a holy kiss” (ESV). What might be a culturally appropriate way, today, to express this kind of spiritual affection and unity?
+5. In what ways have you received Christ’s grace recently, and how can your experience influence how you respond to difficult people or situations?
+6. Are there relationships in your spiritual community that need healing or strengthening? If so, what are they? More important, what steps can you take toward facilitating that outcome?
+7. Paul ends his letter with joy, comfort, and peace. Which of these divine gifts do you most need right now, and how might you seek it through God’s presence?
