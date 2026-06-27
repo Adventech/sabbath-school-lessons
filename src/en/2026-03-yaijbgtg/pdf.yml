@@ -1,0 +1,107 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-000.pdf'
+      target: en/2026-03-yaijbgtg/beginnerchild
+      title: "The Beginner Child"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-001.pdf'
+      target: en/2026-03-yaijbgtg/tips
+      title: "Tips for the Beginner Sabbath School Teacher"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-002.pdf'
+      target: en/2026-03-yaijbgtg/beginneroverview
+      title: "Beginner Sabbath School Overview"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-003.pdf'
+      target: en/2026-03-yaijbgtg/quiet
+      title: "A Quiet Moment..."
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-004.pdf'
+      target: en/2026-03-yaijbgtg/ataglance
+      title: "At a Glance"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-005.pdf'
+      target: en/2026-03-yaijbgtg/simple
+      title: "Simple Program Outline"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-006.pdf'
+      target: en/2026-03-yaijbgtg/printedresources
+      title: "Printed Resources"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-007.pdf'
+      target: en/2026-03-yaijbgtg/crafts
+      title: "Crafts"
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-01.pdf'
+      target: en/2026-03-yaijbgtg/01
+      title: 'Baby Moses'
+      start_date: 28/06/2026
+      end_date: 04/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-02.pdf'
+      target: en/2026-03-yaijbgtg/02
+      title: 'A Special Basket Boat'
+      start_date: 05/07/2026
+      end_date: 11/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-03.pdf'
+      target: en/2026-03-yaijbgtg/03
+      title: 'The Fire in the Bush'
+      start_date: 12/07/2026
+      end_date: 18/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-04.pdf'
+      target: en/2026-03-yaijbgtg/04
+      title: 'The Red Sea'
+      start_date: 19/07/2026
+      end_date: 25/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-05.pdf'
+      target: en/2026-03-yaijbgtg/05
+      title: 'The Food and Water Surprise'
+      start_date: 26/07/2026
+      end_date: 01/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-06.pdf'
+      target: en/2026-03-yaijbgtg/06
+      title: 'Cloud and Fire'
+      start_date: 02/08/2026
+      end_date: 08/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-07.pdf'
+      target: en/2026-03-yaijbgtg/07
+      title: God's Special Home
+      start_date: 09/08/2026
+      end_date: 15/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-08.pdf'
+      target: en/2026-03-yaijbgtg/08
+      title: God's Home Is Finished
+      start_date: 16/08/2026
+      end_date: 22/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-09.pdf'
+      target: en/2026-03-yaijbgtg/09
+      title: Joshua and Caleb's Adventure
+      start_date: 23/08/2026
+      end_date: 29/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-10.pdf'
+      target: en/2026-03-yaijbgtg/10
+      title: 'Kind Rahab'
+      start_date: 30/08/2026
+      end_date: 05/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-11.pdf'
+      target: en/2026-03-yaijbgtg/11
+      title: 'The Big, Big River'
+      start_date: 06/09/2026
+      end_date: 12/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-12.pdf'
+      target: en/2026-03-yaijbgtg/12
+      title: 'The Walls of Jericho'
+      start_date: 13/09/2026
+      end_date: 19/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-BG-TG-13.pdf'
+      target: en/2026-03-yaijbgtg/13
+      title: 'A New Home'
+      start_date: 20/09/2026
+      end_date: 26/09/2026
