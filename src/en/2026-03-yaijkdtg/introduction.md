@@ -1,0 +1,1 @@
+These 13 lessons unpack the idea that Jesus is my God through exploring the stories of Jesus born on earth, His baptism, temptation, calling of the disciples, early miracles, Zacchaeus, and Jesus' trip to Capernaum.
