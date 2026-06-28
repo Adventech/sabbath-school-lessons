@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-kids-parents.pdf'
+      target: en/2026-01-zaijprsg/introduction
+      title: Introduction
+      start_date: 28/12/2025
+      end_date: 28/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-short-devotions.pdf'
+      target: en/2026-01-zaijprsg/personaldevotion
+      title: Personal Devotion for the Primary Child
+      start_date: 28/12/2025
+      end_date: 28/12/2025
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-01.pdf'
+      target: en/2026-01-zaijprsg/01
+      title: A New World
+      start_date: 28/12/2025
+      end_date: 03/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-02.pdf'
+      target: en/2026-01-zaijprsg/02
+      title: A Perfect Home
+      start_date: 04/01/2026
+      end_date: 10/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-03.pdf'
+      target: en/2026-01-zaijprsg/03
+      title: The Sabbath
+      start_date: 11/01/2026
+      end_date: 17/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-04.pdf'
+      target: en/2026-01-zaijprsg/04
+      title: What Happened to God’s Beautiful Angel?
+      start_date: 18/01/2026
+      end_date: 24/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-05.pdf'
+      target: en/2026-01-zaijprsg/05
+      title: The Fall and a Promise
+      start_date: 25/01/2026
+      end_date: 31/01/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-06.pdf'
+      target: en/2026-01-zaijprsg/06
+      title: Cain and Abel
+      start_date: 01/02/2026
+      end_date: 07/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-07.pdf'
+      target: en/2026-01-zaijprsg/07
+      title: Noah Builds an Ark
+      start_date: 08/02/2026
+      end_date: 14/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-08.pdf'
+      target: en/2026-01-zaijprsg/08
+      title: A Rainbow Promise
+      start_date: 15/02/2026
+      end_date: 21/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-09.pdf'
+      target: en/2026-01-zaijprsg/09
+      title: The Tower of Babel
+      start_date: 22/02/2026
+      end_date: 28/02/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-10.pdf'
+      target: en/2026-01-zaijprsg/10
+      title: God Leads Abram
+      start_date: 01/03/2026
+      end_date: 07/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-11.pdf'
+      target: en/2026-01-zaijprsg/11
+      title: Abram and Lot
+      start_date: 08/03/2026
+      end_date: 14/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-12.pdf'
+      target: en/2026-01-zaijprsg/12
+      title: Abram Rescues Lot
+      start_date: 15/03/2026
+      end_date: 21/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-01/ABSG-2026-01-EN-PR-13.pdf'
+      target: en/2026-01-zaijprsg/13
+      title: The Promised Baby
+      start_date: 22/03/2026
+      end_date: 28/03/2026

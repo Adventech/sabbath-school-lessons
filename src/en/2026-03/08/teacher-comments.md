@@ -19,13 +19,13 @@ That’s not a bad way to put it, actually—and Paul would probably smile at th
 
 First Corinthians 15 is theologically one of the richest chapters in the New Testament. It focuses primarily on the resurrection of Christ and the resurrection of believers at Jesus’ second coming. This lesson will look at four main themes in this chapter:
 
-1.	The Resurrection of Christ. Paul starts by affirming the historical reality of Christ’s resurrection, citing eyewitnesses (1 Cor. 15:1–11). This affirmation is foundational to the gospel message and essential to Christian faith.
+**1. The Resurrection of Christ.** Paul starts by affirming the historical reality of Christ’s resurrection, citing eyewitnesses (1 Cor. 15:1–11). This affirmation is foundational to the gospel message and essential to Christian faith.
 
-2.	The Resurrection of the Dead. Paul argues that if Christ rose from the dead, then believers also will be raised (1 Cor. 15:12–34). He counters claims that there is no resurrection, explaining their fallacious implications: without bodily resurrection from death and the grave, faith is futile, and believers are still in sin.
+**2. The Resurrection of the Dead.** Paul argues that if Christ rose from the dead, then believers also will be raised (1 Cor. 15:12–34). He counters claims that there is no resurrection, explaining their fallacious implications: without bodily resurrection from death and the grave, faith is futile, and believers are still in sin.
 
-3.	 The Nature of the Resurrection Body. Paul then explains what kind of body the dead will be raised with (1 Cor. 15:35–49). He uses metaphors (such as a seed becoming a plant) to show the transformation from a perishable body to an imperishable, glorified one.
+**3.  The Nature of the Resurrection Body.** Paul then explains what kind of body the dead will be raised with (1 Cor. 15:35–49). He uses metaphors (such as a seed becoming a plant) to show the transformation from a perishable body to an imperishable, glorified one.
 
-4.	 Victory Over Death. The climax of this chapter is a triumphant declaration that death has been defeated through Christ (1 Cor. 15:50–57). “ ‘Death is swallowed up in victory’ ” (1 Cor. 15:54, ESV) is a key line—resurrection transforms human destiny. Paul ends with encouragement (1 Cor. 15:58): because the resurrection is real, believers should stand firm and know their labor in the Lord is not in vain.
+**4.  Victory Over Death.** The climax of this chapter is a triumphant declaration that death has been defeated through Christ (1 Cor. 15:50–57). “ ‘Death is swallowed up in victory’ ” (1 Cor. 15:54, ESV) is a key line—resurrection transforms human destiny. Paul ends with encouragement (1 Cor. 15:58): because the resurrection is real, believers should stand firm and know their labor in the Lord is not in vain.
 
 #### Part II: Commentary
 
@@ -42,11 +42,8 @@ Paul ends the chapter by urging steadfastness and purpose, reminding his audienc
 **2. The Resurrection of Christ:** First Corinthians 15:1–11 is a foundational passage wherein Paul sets the stage for the entire chapter. This section is both personal and theological, as Paul reaffirms the gospel message and emphasizes the resurrection of Jesus as its core. He begins by reminding the Corinthians of the gospel they already know. He’s not introducing something new but reconnecting believers to that from which they were at risk of drifting away. He stresses the notion that belief must be steadfast—not just a brief moment of acceptance but a continual trust. In 1 Corinthians 15:3, 4, we find one of the earliest summaries of Christian beliefs in the New Testament, based on the following four key historical elements:
 
 1. Christ died. His death was not just a martyrdom but for our sins.
-
 2. He was buried. His burial confirms that He truly died.
-
 3. He was raised. His resurrection is the central miracle.
-
 4. All these events happened in accordance with the Scriptures. Thus, Christ’s death, entombment, and resurrection were God’s plan from the beginning.
 
 Christ’s death and resurrection were not opinion or philosophy—these events are actual history, anchored in Scripture and prophecy. The Resurrection was public, physical, and verifiable. In 1 Corinthians 15:9–11, Paul uses his life story as an example of resurrection power at work, demonstrating that the resurrection is not only a doctrine to believe; it’s a transforming power that reshapes lives.
@@ -65,20 +62,12 @@ First Corinthians 15:56 can prove challenging on first reading, with the power o
 
 First Corinthians 15 represents a crucial chapter in Paul’s thinking about the resurrection of believers at the second coming of Christ. The following questions are intended to spark both theological reflection and personal application:
 
-1.	Why does Paul place emphasis on the eyewitnesses to Jesus’ resurrection?
-
-2.	How would you explain the importance of the resurrection to someone questioning the Christian faith?
-
-3.	How does Paul’s personal story (1 Cor. 15:9, 10) add weight to his message?
-
-4.	What are the implications, according to Paul, if there is no resurrection (1 Cor. 15:14–19)?
-
-5.	Are there ways that modern culture reflects similar doubts about the resurrection that the Corinthians had?
-
-6.	How does the resurrection shape your understanding of life, death, and what comes after?
-
-7.	How do the metaphors Paul uses (such as a seed becoming a plant) help you to understand the idea of transformation?
-
-8.	How does this passage encourage you when facing grief or loss?
-
-9.	How can belief in the resurrection give purpose and foster a spirit of perseverance and fortitude in everyday life?
+1. Why does Paul place emphasis on the eyewitnesses to Jesus’ resurrection?
+2. How would you explain the importance of the resurrection to someone questioning the Christian faith?
+3. How does Paul’s personal story (1 Cor. 15:9, 10) add weight to his message?
+4. What are the implications, according to Paul, if there is no resurrection (1 Cor. 15:14–19)?
+5. Are there ways that modern culture reflects similar doubts about the resurrection that the Corinthians had?
+6. How does the resurrection shape your understanding of life, death, and what comes after?
+7. How do the metaphors Paul uses (such as a seed becoming a plant) help you to understand the idea of transformation?
+8. How does this passage encourage you when facing grief or loss?
+9. How can belief in the resurrection give purpose and foster a spirit of perseverance and fortitude in everyday life?

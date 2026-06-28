@@ -23,9 +23,9 @@ Just like those bricks, the church in Corinth—and today—can stand strong onl
 
 In the early church, one of the greatest threats to unity wasn’t ­persecution—it was pride. Two main themes related to this issue can be found in this week’s passages. They can be briefly summarized as follows:
 
-1. The Threat of Personality Cults. In 1 Corinthians, Paul addresses how believers were dividing themselves based on loyalty to different leaders—forming personality cults around Paul, Apollos, and Cephas. These factions turned gifted leadership into a source of division, distracting the church from its true foundation: Christ.
+**1. The Threat of Personality Cults.** In 1 Corinthians, Paul addresses how believers were dividing themselves based on loyalty to different leaders—forming personality cults around Paul, Apollos, and Cephas. These factions turned gifted leadership into a source of division, distracting the church from its true foundation: Christ.
 
-2. The Power of Christlike Servanthood. In contrast, Philippians 2:1–8 offers the antidote: Christlike humility. Paul urges believers to lay down selfish ambition and look not to their own interests, but to the interests of others. He points to Jesus, who, though equal with the Father, took the form of a servant, humbled Himself, and became obedient to death. That is the true model of unity: sacrificial love.
+**2. The Power of Christlike Servanthood.** In contrast, Philippians 2:1–8 offers the antidote: Christlike humility. Paul urges believers to lay down selfish ambition and look not to their own interests, but to the interests of others. He points to Jesus, who, though equal with the Father, took the form of a servant, humbled Himself, and became obedient to death. That is the true model of unity: sacrificial love.
 
 Together, these passages call the church to reject pride and power plays and instead pursue unity through servant-hearted humility, following the example of Christ.
 
@@ -55,12 +55,8 @@ The next section uses the example of Jesus as a model for the church. Church mem
 
 Unity (or the lack thereof) was a major topic in the Corinthian church and is also an ever-present issue within Seventh-day Adventism. Some of us follow our favorite speaker on social media or spend significant time watching videos of our preferred ministry. Often our conflicts involve differences in our understanding of biblical truth, or we encounter personality clashes among the leadership. Paul’s message to the Corinthians reminds us that this conflict is nothing new. Servant leadership is an often-heard phrase; yet, we struggle to apply its principles to ourselves and the way we relate to one another.
 
-1.	How can we avoid the trap of disunity because of factions within the church?
-
-2.	What strategies can we find in Scripture to help us focus on Jesus as the center of our faith and of our church community?
-
-3.	The root of many conflicts is our different understandings of biblical truth. We claim we love truth and are committed to truth. So, how can we relate to others whose understanding of Scripture is distinct from ours? What can we learn from the One who claimed to be “the way, the truth, and the life”?
-
-4.	Why is it so difficult to follow Christ’s example of perfect servanthood?
-
-5.	What biblical strategies and practical steps would help to bring more unity into our churches?
+1. How can we avoid the trap of disunity because of factions within the church?
+2. What strategies can we find in Scripture to help us focus on Jesus as the center of our faith and of our church community?
+3. The root of many conflicts is our different understandings of biblical truth. We claim we love truth and are committed to truth. So, how can we relate to others whose understanding of Scripture is distinct from ours? What can we learn from the One who claimed to be “the way, the truth, and the life”?
+4. Why is it so difficult to follow Christ’s example of perfect servanthood?
+5. What biblical strategies and practical steps would help to bring more unity into our churches?
