@@ -1,0 +1,20 @@
+---
+  title: "1. ve 2. Korintliler"
+  description: "Mektup yazmak, geçerliliğini yitirmemiş köklü bir uğraştır. Biz sadece mektupların yazılma biçimini değiştirdik. Evet, artık kağıdın yerini sosyal medya aldı. Ancak, e-postalar ve diğer elektronik yazışma biçimleri özünde aynı işlevi görüyor: insanları bilgi, duygu ve düşünce alışverişi yoluyla birbirlerine bağlıyorlar."
+  human_date: "Temmuz · Ağustos · Eylül 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Adenilton T. de Aguiar"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Scheidweiler"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
