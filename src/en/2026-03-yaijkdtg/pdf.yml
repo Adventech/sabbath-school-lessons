@@ -1,0 +1,92 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-teacher.pdf'
+      target: en/2026-03-yaijkdtg/teacher
+      title: Dear Kindergarten Sabbath School Teacher
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-tips.pdf'
+      target: en/2026-03-yaijkdtg/tips
+      title: Tips for Telling Bible Stories in Sabbath School
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-overview.pdf'
+      target: en/2026-03-yaijkdtg/overview
+      title: Kindergarten Quarter Overview
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-crafts.pdf'
+      target: en/2026-03-yaijkdtg/crafts
+      title: Quarterly Crafts
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-cards.pdf'
+      target: en/2026-03-yaijkdtg/cards
+      title: Nature Cards
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-01.pdf'
+      target: en/2026-03-yaijkdtg/01
+      title: The Great Promise
+      start_date: 28/06/2026
+      end_date: 04/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-02.pdf'
+      target: en/2026-03-yaijkdtg/02
+      title: The Jesus Gift Arrives
+      start_date: 05/07/2026
+      end_date: 11/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-03.pdf'
+      target: en/2026-03-yaijkdtg/03
+      title: Finding Jesus, the Gift
+      start_date: 12/07/2026
+      end_date: 18/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-04.pdf'
+      target: en/2026-03-yaijkdtg/04
+      title: Guiding and Protecting
+      start_date: 19/07/2026
+      end_date: 25/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-05.pdf'
+      target: en/2026-03-yaijkdtg/05
+      title: Grow, Grow, Grow
+      start_date: 26/07/2026
+      end_date: 01/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-06.pdf'
+      target: en/2026-03-yaijkdtg/06
+      title: At the Jordan River
+      start_date: 02/08/2026
+      end_date: 08/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-07.pdf'
+      target: en/2026-03-yaijkdtg/07
+      title: Tempted in the Desert
+      start_date: 09/08/2026
+      end_date: 15/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-08.pdf'
+      target: en/2026-03-yaijkdtg/08
+      title: Follow Jesus
+      start_date: 16/08/2026
+      end_date: 22/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-09.pdf'
+      target: en/2026-03-yaijkdtg/09
+      title: The Wedding Surprise
+      start_date: 23/08/2026
+      end_date: 29/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-10.pdf'
+      target: en/2026-03-yaijkdtg/10
+      title: Food for Thousands
+      start_date: 30/08/2026
+      end_date: 05/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-11.pdf'
+      target: en/2026-03-yaijkdtg/11
+      title: Jesus the Teacher
+      start_date: 06/09/2026
+      end_date: 12/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-12.pdf'
+      target: en/2026-03-yaijkdtg/12
+      title: The Man in a Tree
+      start_date: 13/09/2026
+      end_date: 19/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-KD-TG-13.pdf'
+      target: en/2026-03-yaijkdtg/13
+      title: Jesus’ Trip to Capernaum
+      start_date: 20/09/2026
+      end_date: 26/09/2026
