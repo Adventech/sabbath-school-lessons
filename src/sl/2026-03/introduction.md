@@ -1,0 +1,19 @@
+### Bistvo krščanskega življenja in pričevanja
+
+Pisanje pisem je starodavna dejavnost, ki še vedno ni zastarela. Spremenili smo le način pisanja pisem. Da, družbena omrežja izpodrinjajo papir. Vendar pa imajo e-pošta in druge oblike elektronskih pisem v bistvu enako vlogo: ljudje z njimi izmenjujejo informacije, občutke in misli ter se tako povezujejo med seboj.
+
+Zakaj ljudje pišejo pisma? Možni odgovor je, da zato, ker imajo kaj povedati. Tako je bilo tudi z apostolom Pavlom. Čeprav je imel toliko povedati, ni imel vedno priložnosti srečati se s tistimi, s katerimi je želel govoriti.
+
+Zato je pisal pisma, na primer Korinčanom, ki vsebujejo nekatere najgloblje svetopisemske resnice. Na primer: »Sklenil sem namreč, da med vami ne bom vedel za nič drugega kakor za Jezusa Kristusa, in sicer križanega,« (1 Kor 2,2) in »Saj vendar poznate milost našega Gospoda Jezusa Kristusa! Bogat je bil, pa je zaradi vas postal ubog, da bi vi obogateli po njegovem uboštvu.« (2 Kor 8,9) Kaj pa čudovita hvalnica ljubezni v 1. Korinčanom 13?
+
+Po drugi strani pa se bo vsak, ki bere Pavlovi pismi Korinčanom, zagotovo tudi zmedel, ne le zaradi nekaterih tehtnih težav znotraj cerkve – spolna nemoralnost – temveč tudi zaradi dlakocepljenja, ki je posledica cenene razklanosti med verniki. Če misliš, da ima tvoja cerkev težave, se pripravi na plaz sporov, s katerimi se je moral Pavel spoprijeti v Korintu. Morda problemi tvoje lokalne cerkve niso tako pomenljivi, kot si predstavljaš. Zelo verjetno boš ugotovil, da so bile stvari v Korintu veliko hujše.
+
+Čeprav so bile težave v Korintu zelo velike in so kalile mir, pismi Korinčanom pritegneta našo pozornost: ne zaradi problemov, marveč zaradi izjemnega načina, kako se Pavel spopada z njimi. Ko vernike cerkve spodbuja, naj ocenijo sebe, svoje vedenje in okoliško kulturo v luči evangelija Jezusa Kristusa, Pavel povzdiguje sporočilo križa. Če uporabimo njegove besede iz drugega pisma, je vsako merilo, ki je nižje od evangeljskega sporočila, treba obravnavati kot »anathema« (prekleto – op. prev.; Gal 1,8.9).
+
+V Pavlovem času je bil Korint znan po svojem bogastvu in močni trgovini, zahvaljujoč svojemu pristanišču, arhitekturi, ladjedelništvu in keramiki. Mesto je bilo pomembno finančno središče. Kljub temu je bilo znano tudi po svoji spolni nemorali, verskih protislovjih in svetiščih, posvečenih različnim bogovom. Dejansko je bilo vsakdanje življenje v Korintu zaznamovano z ostudnim malikovanjem. To zgodovinsko-kulturno ozadje nam pomaga razumeti Pavlovo glavno zaskrbljenost glede kristjanov v tem mestu in posledično tudi njegova opozorila, ki jim jih je namenil.
+
+V tem četrtletju bomo proučevali Pavlovi pismi Korinčanom. V teh dveh izjemnih novozaveznih knjigah apostol predstavlja evangeljsko sporočilo kot bistvo krščanskega življenja in pričevanja, kot lečo, skozi katero je treba presojati vse drugo. Ne glede na izzive, s katerimi se sooča vsak od nas posamezno ali kot cerkev na splošno na naši poti v nebesa, odgovor na najbolj zapletena vprašanja v našem delu za Kristusa je enak kot je bil za Korinčane v Pavlovem času: Jezus Kristus, in sicer križani (1 Kor 2,2).
+
+Jezus bo kmalu prišel. Zdaj je čas za večjo enotnost v Kristusu in za dovzetnost za Svetega Duha kot kdaj koli prej, za marljivo uporabo duhovnih darov in za globljo izkušnjo z našim vstalim Gospodom. Čas je za pristno krščansko služenje, sodelovanje v oskrbništvu in poslanstvu, za duhovni boj proti lažnim naukom ter rast v milosti, ljubezni in občestvu. Zdaj je čas, da se trdno držimo in ostajamo zvesti sporočilu križa, in Pavlovi pismi Korinčanom nas učita prav to.
+
+_Dr. Adenilton Tavares de Aguiar je profesor Nove zaveze na Severovzhodnem adventističnem kolidžu v Cachoeiri, Bahia, v Braziliji, kjer deluje od leta 2010._
