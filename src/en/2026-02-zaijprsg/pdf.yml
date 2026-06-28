@@ -1,0 +1,77 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-kids-parents.pdf'
+      target: en/2026-02-zaijprsg/introduction
+      title: Introduction
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-short-devotions.pdf'
+      target: en/2026-02-zaijprsg/personaldevotion
+      title: Personal Devotion for the Primary Child
+      start_date: 29/03/2026
+      end_date: 29/03/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-01.pdf'
+      target: en/2026-02-zaijprsg/01
+      title: "The Birthright Stew"
+      start_date: 29/03/2026
+      end_date: 04/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-02.pdf'
+      target: en/2026-02-zaijprsg/02
+      title: "Jacob Tricks Isaac"
+      start_date: 05/04/2026
+      end_date: 11/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-03.pdf'
+      target: en/2026-02-zaijprsg/03
+      title: "The Ladder From Heaven"
+      start_date: 12/04/2026
+      end_date: 18/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-04.pdf'
+      target: en/2026-02-zaijprsg/04
+      title: "Jacob Works for Uncle Laban"
+      start_date: 19/04/2026
+      end_date: 25/04/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-05.pdf'
+      target: en/2026-02-zaijprsg/05
+      title: "Jacob and the Midnight Wrestle"
+      start_date: 26/04/2026
+      end_date: 02/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-06.pdf'
+      target: en/2026-02-zaijprsg/06
+      title: "Joseph's Coat and Dreams"
+      start_date: 03/05/2026
+      end_date: 09/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-07.pdf'
+      target: en/2026-02-zaijprsg/07
+      title: "Joseph and His Brothers"
+      start_date: 10/05/2026
+      end_date: 16/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-08.pdf'
+      target: en/2026-02-zaijprsg/08
+      title: "Joseph: A Slave in Egypt"
+      start_date: 17/05/2026
+      end_date: 23/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-09.pdf'
+      target: en/2026-02-zaijprsg/09
+      title: "Joseph: From Prison to Palace"
+      start_date: 24/05/2026
+      end_date: 30/05/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-10.pdf'
+      target: en/2026-02-zaijprsg/10
+      title: "Joseph: Governor of Egypt"
+      start_date: 31/05/2026
+      end_date: 06/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-11.pdf'
+      target: en/2026-02-zaijprsg/11
+      title: "A Family Reunited"
+      start_date: 07/06/2026
+      end_date: 13/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-12.pdf'
+      target: en/2026-02-zaijprsg/12
+      title: "Ruth and Naomi"
+      start_date: 14/06/2026
+      end_date: 20/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-13.pdf'
+      target: en/2026-02-zaijprsg/13
+      title: "Ruth and Boaz"
+      start_date: 21/06/2026
+      end_date: 27/06/2026
