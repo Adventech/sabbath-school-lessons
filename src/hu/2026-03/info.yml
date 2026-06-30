@@ -1,0 +1,44 @@
+---
+  title: "Pál két levele Korinthusba"
+  description: "A keresztényi élet és bizonyságtétel lényege"
+  human_date: "Július · Augusztus · Szeptember 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#1F6055"
+  color_primary_dark: "#083129"
+  splash: true
+  credits:
+    - name: Írta
+      value: "Adenilton T. de Aguiar"
+    - name: Fordította
+      value: "Zarkáné Teremy Krisztina"
+    - name: Korrektor
+      value: "Fürjné Simon Edina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-615-7060-02-9"
+    - name: Az EGW mellékletet fordította
+      value: "Bartha Sándor"
+    - name: Az EGW melléklet kiadója
+      value: "Viaţă şi Sănătate Kiadó, Pantelimon, Románia"
+    - name: Az EGW melléklet kiadás koordinátora
+      value: "Szász Ernő"
+    - name: EGW melléklet korrektúra
+      value: "Czinkotáné Szikszai Katalin"
+    - name: EGW melléklet tördelés
+      value: "Czinkota András"
+    - name: EGW melléklet ISBN
+      value: "978-606-087-823-0"
