@@ -3,30 +3,18 @@ title:  Misijný príbeh
 date:  10/07/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
-
-#### Dotyk, ktorý premieňa
+#### Dotyk, ktorý mení život
 
 _Vyacheslav Demyan_
 
-Fabiola žila v pokojnom prostredí Belo Horizonte v Brazílii, no pokoj bol to posledné, čo cítila. Diagnóza rakoviny prsníka otriasla jej svetom a s pridaným strachom zo šírenia COVID-19 po celej krajine bola smrť bližšie ako kedykoľvek predtým.
+Fabiola žila v pokojnom prostredí brazílskeho mesta Belo Horizonte, no pokoj bol to posledné, čo cítila. Diagnóza rakoviny prsníka otriasla jej svetom a spolu so strachom z COVID-19, ktorý sa šíril po celej krajine, sa smrť zdala byť bližšie ako kedykoľvek predtým. Medzitým sa v meste Salvador rúcal Luisin svet. Zrada rozbila jej 23-ročné manželstvo a ona zistila, že sa od manžela nakazila syfilisom. Okrem toho, jej matke diagnostikovali Alzheimerovu chorobu a bola svedkom toho, ako si suseda vzala život. Táto myšlienka ju prenasledovala – možno by mala urobiť to isté. 
 
-Medzitým sa v meste Salvador rúcal svet Luise. Zrada zničila jej 23-ročné manželstvo a zistila, že sa od svojho manžela nakazila syfilisom. Navyše jej matke diagnostikovali Alzheimerovu chorobu a stala sa svedkom toho, ako si jej susedka vzala život. Táto myšlenka ju prenasledovala – možno by mala urobiť to isté.
+Obidve ženy sa topili vo svojom utrpení. Podobne ako žena, ktorá krvácala 12 rokov v biblickom príbehu z 5. kapitoly Marka, aj Fabiola a Luisa zúfalo túžili po fyzickom, emocionálnom a duchovnom uzdravení. Každá z nich potrebovala aspoň trochu nádeje. Počas dvoch rôznych večerov zasiahol Boh prekvapivo podobným spôsobom. Keď sa Fabiola snažila uniknúť úzkosti sledovaním televízie, jej malý psík jej vyskočil na kolená, náhodou stupil na diaľkový ovládač a prepol kanál na Novo Tempo, brazílsky Hope Channel. Asi 1280 km odtiaľ  urobil Luisin pes to isté. 
 
-Obe ženy sa utápali vo svojom utrpení. Podobne ako žena z biblického príbehu v 5. kapitole Markovho evanjelia, ktorá krvácala 12 rokov, aj Fabiola a Luisa zúfalo túžili po telesnom, citovom a duchovnom uzdravení. Každá z nich potrebovala dotyk nádeje.
+V najtemnejších chvíľach Fabioly a Luisy jedna božsky položená labka na diaľkovom ovládači odhalila lásku Spasiteľa, ktorá im zmenila život. Obidve ženy pocítili, ako ich zaplavila vlna nádeje. 
 
-Počas dvoch rôznych večerov Boh zasiahot prekvapivo podobným spôsobem. Keď sa Fabiola snažila zahnať svoju úzkosť sledovaním televízie, jej malý pes jej skočil do lona, omylom stúpil na diaľkový ovládač a prepol kanál na Novo Tempo, čo je Hope Channel v Brazílii.
+Dnes Fabiola našla nový zmysel života a povzbudzuje ľudí vo svojom okolí tým istým posolstvom útechy, ktoré sama dostala. Posolstvá z Novo Tempo zmenili jej pohľad na svoju chorobu. Rakovinu už nevnímala ako trest, ale ako súčasť niečoho, čo Boh dovolil, aby jej pomohol premeniť sa. Teraz, keď čaká na lekárske vyšetrenia, rozdáva kresťanské knihy, hovorí o Ježišovi a povzbudzuje ľudí vo svojom okolí nádejou, ktorú našla. 
 
-Asi o 800 míľ (cca 1300 km) ďalej urobil pes Luisy to isté. V najtemnejších chvíľach Fabioly a Luisy jedna božsky nasmerovaná labka na diaľkovom ovládači odhalila život meniacu lásku Spasiteľa.
+Luise pomohli programy, ktoré sledovala, uvedomiť si, že bojuje s depresiou. Podarilo sa jej podstúpiť liečbu, ktorá sa stala jej zlomovým bodom a pomohla jej vyjsť z temnoty do svetla Božej lásky. „Bola som tá stratená, špinavá, prázdna dcéra,“ spomína. „Ale po Jeho dotyku už nikdy nechcem opustiť Jeho prítomnosť.“ 
 
-Obe ženy pocítili, ako ich zaplavuje vlna nádeje.
-
-Dnes Fabiola našla nový zmysel života a povzbudzuje ľudí okolo seba rovnakým posolstvom útechy, aké sama prijala. Vysielanie Novo Tempo zmenilo jej pohľad na chorobu. Rakovinu už nevnímala ako trest, ale ako súčasť niečoho, čo Boh dopustil, aby ju pomohol premeniť. Teraz, keď čaká na lekárske vyšetrenia, rozdáva kresťanské knihy, hovorí o Ježišovi a povzbudzuje ľudí okolo seba nádejou, ktorú našla.
-
-Luise sledované programy pomohli uvedomiť si, že bojuje s depresiou. Mohla vyhľadať liečbu, ktorá sa stala jej bodom obratu a pomohla jej vystúpiť z temnoty do svetla Božej lásky.
-
-„Bola som tá stratená, špinavá, prázdna dcéra,“ premýšľa. „Ale [po Jeho dotyku] už nikdy nechcem opustiť Jeho prítomnosť.“
-
-Hope Channel existuje pre ľudí, ako sú Fabiola a Luisa – ľudí, ktorí hľadajú nádej, uzdravenie a Ježiša. Tisíce ďalších čakajú, kým ich niekto osloví. Osemdesiatštyri Hope Channelov po celom svete oslovujú ľudí prostredníctvom obsahu, ktorý mení životy, ponúka biblické štúdiá a spája hľadajúcich s Kristom.
-
-Keď odovzdávate misijné dary počas sobotnej školy alebo zvolíte misiu na svojej obálke s desiatkami, časť týchto darov pomáha financovať dôležitú službu Hope Channelu po celom svete. Ďakujeme za vašu štedrú podporu.
+Hope Channel existuje pre ľudí ako Fabiola a Luisa – pre ľudí, ktorí hľadajú nádej, uzdravenie a Ježiša. Tisíce ľudí čakajú, kým ich oslovíte. Osemdesiatštyri staníc Hope Channel po celom svete oslovujú ľudí prostredníctvom obsahu, ktorý im mení životy, ponúkajú biblické štúdiá a spájajú hľadajúcich s Kristom.
