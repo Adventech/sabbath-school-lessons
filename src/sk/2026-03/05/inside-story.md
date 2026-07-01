@@ -3,24 +3,22 @@ title:  Misijný príbeh
 date:  31/07/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
-
-#### Davisovi indiáni: 1. časť
+#### Davisovi Indiáni: Prvá časť
 
 _Michael W. Campbell_
 
-Ovid Elbert Davis sa narodil v Michigane 3. apríla 1868. V roku 1902 ho k misionárskej práci inšpirovala rada Ellen Whiteovej, a tak absolvoval kazateľský kurz a prijal povolanie pracovať medzi domorodými obyvateľmi Aljašky a potom Britskej Kolumbie.
+Ovid Elbert Davis sa narodil v Michigane 3. apríla 1868. V roku 1902 sa inšpiroval radou Ellen Whiteovej, aby sa stal misionárom, a tak absolvoval kurz pre duchovných a prijal povolanie pracovať medzi domorodými obyvateľmi Aljašky a potom Britskej Kolumbie.
 
-Dňa 19. januára 1906 odhlasoval výbor Generálnej konferencie vyslanie Davisa do Britskej Guyany (Guyany), kde sa nedávno začala adventistická práca. V apríli sa oženil s Carrie Rosleyovou a nasledujúci mesiac manželia odcestovali na svoje nové misijné pole.
+19. januára 1906 Generálna konferencia hlasovala za vyslanie Davisa do Britskej Guyany (Guyana), kde sa nedávno začala adventistická práca. V apríli sa oženil s Carrie Rosleyovou a nasledujúci mesiac sa manželský pár vydal na svoje nové misijné pole.
 
-Počas prvých dvoch rokov v Britskej Guyane Davis distribuoval literatúru. Potom v roku 1910 oznámil založenie nového zboru 160 míľ proti prúdu rieky Barama. Ten sa neskôr stal misijnou stanicou Rio Paruime. V roku 1910 tiež Davis dostal žiadosť od kmeňov hluboko vo vnútrozemí, ktoré nikdy predtým nenavštívil biely človek, s prosbou, aby ich naučil posolstvo o spasení.
+Počas prvých dvoch rokov v Britskej Guyane Davis distribuoval literatúru. Potom, v roku 1910, informoval o založení nového zboru 258 km proti prúdu rieky Barama. Z toho sa neskôr stala misia Rio Paruime. Tiež v roku 1910 dostal Davis žiadosť od kmeňov hlboko vo vnútrozemí, ktoré bieli muži nikdy nenavštívili,  aby im bolo zvestované posolstvo spásy.
 
-Tieto kmene sa o adventistickej práci dozvedeli prostredníctvom kontaktu s domorodými ľuďmi na misijnej stanici Tapagruma Creek. Objavili sa správy, že starého náčelníka navštívila „žiariaca bytosť“, ktorá ich poučila o stvorení, vstupe hriechu na svet, príbehu o zasľúbenom Vykupiteľovi a o druhom príchode Krista. Ukázala im tiež, ako svätiť sobotu ako siedmy deň a ako žiť zdravým spôsobom života. Povedala mu, že príde muž s čiernou knihou a naučí ich viac.
+Tieto kmene sa o adventistickej práci dozvedeli prostredníctvom kontaktu s domorodcami na misii pri potoku Tapagruma. Objavili sa správy, že starého náčelníka navštívila „žiarivá bytosť“, ktorá ich učila o stvorení, o vzniku hriechu, o príbehu sľúbeného Vykupiteľa a o Kristovom druhom príchode. Ukázala im tiež, ako uctievať siedmy deň – sobotu – a žiť zdravým životom. Povedala mu, že príde muž s čiernou knihou a naučí ich viac.
 
-Cesta trvala Davisovi dva mesiace. V jednej správe uviedol, že cestoval 29 dní loďou a ďalších 10 dní hustým lesom.
+Cesta trvala Davisovi dva mesiace. V jednej správe uviedol, že cestoval 29 dní  loďou a ďalších 10 dní hustým lesom.
 
-Davis učil pralesné kmene Božiemu slovu zo svojej „čiernej knihy“ a oznámil založenie troch misijných staníc. Zaznamenal, že 187 ľudí „sa rozhodlo zachovávať Božie prikázania a vieru v Ježiša“. Postavil tri modlitebne a začal nových veriacich vyučovať „bodom našej viery“. Tiež ich naučil spievať pieseň v angličtine: „Niet priateľa, ako je tichý Ježiš“ (v anglickom origináli „There's Not a Friend Like the Lowly Jesus“).
+Davis učil lesné kmene Božie slovo pomocou svojej „čiernej knihy“ a informoval o zriadení troch misijných základní medzi nimi. Poznamenal, že 187 ľudí „sa rozhodlo dodržiavať Božie prikázania a vieru v Ježiša“. Postavil tri kostoly a začal nových veriacich vyučovať „o základoch našej viery“. Naučil ich tiež spievať pieseň v angličtine „There’s Not a Friend Like the Lowly Jesus“ („Niet takého priateľa jak  Ježiš ponížený“).
 
-Davis sa vrátil na druhú návštevu v roku 1911. Tesne pred odchodom si sťažoval na horúčku a srdcové problémy. Posledný záznam v jeho denníku, ktorý dokázal napísať vlastnou rukou, bol: „Pondelok 17. júla – Deň sme strávili ďalším vyučovaním a dávaním mien ľuďom.“ Dávanie nových mien odkazovalo na túžbu nových konvertitov po novom mene, ktoré by symbolizovalo ich odhodlanie nasledovať kresťanského Boha a učiť sa Jeho cestám.
+Davis sa vrátil na druhú návštevu v roku 1911. Tesne pred odchodom sa sťažoval na horúčku a problémy so srdcom. Posledný záznam v jeho denníku, ktorý stihol napísať vlastnou rukou, bol: „Pondelok, 17. júla – Deň sme strávili ďalším vyučovaním a pomenovávaním ľudí.“ Udeľovanie mien súviselo s túžbou nových veriacich po novom mene, ktoré by vyjadrovalo ich odhodlanie nasledovať kresťanského Boha a učiť sa Jeho cestám.
 
-_Tento príbeh bol upravený z biografického článku Michaela Campbella v online Encyklopédii adventistov siedmeho dňa. Zveme vás k návšteve encyclopedia.adventist.org, kde nájdete viac príbehov o adventistických misionároch. Zvyšok tohto príbehu si prečítajte budúci týždeň._
+_Tento príbeh bol upravený na základe biografického článku Michaela Campbella v online Encyklopédii adventistov siedmeho dňa. Pozývame vás navštíviť stránku encyclopedia.adventist.org, kde si môžete prečítať ďalšie príbehy o adventistických misionároch. Pokračovanie tohto príbehu si prečítajte budúci týždeň._
