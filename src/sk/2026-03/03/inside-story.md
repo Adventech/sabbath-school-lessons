@@ -3,30 +3,28 @@ title:  Misijný príbeh
 date:  17/07/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
-
 #### Dva sny
 
-Dante Herrmann mal dva sny: stať sa milionárom alebo tatérom.
+Dante Herrmann mal dva sny: byť milionárom alebo tetovačom.
 
-Všetci sa smiali, keď sa ako dvanásťročný chlapec nadšene podelil o svoj prvý sen. „Ak chceš byť bohatý, musíš pracovať,“ hovorili mu.
+Všetci sa smiali, keď ako 12-ročný chlapec nadšene rozprával o svojom prvom sne. „Ak chceš byť bohatý, musíš pracovať,“ povedali mu.
 
-„Nie, môžem sa stať milionárom bez práce,“ odpovedal Dante.
+„Nie, môžem sa stať milionárom aj bez práce,“ odpovedal Dante.
 
-Bol to snílek, ktorý na uskutočnenie svojho snu potreboval zázrak.
+Bol to snílek, ktorý potreboval zázrak, aby sa jeho sen splnil.
 
-Samotný Dante bol zázrak. Jeho matka sa roky snažila otehotnieť a lekári jej nakoniec povedali, nech to vzdá. Potom sa narodil Dante. Bol však neduživé dieťa a lekári povedali, že na prežitie sa potrebuje presťahovať do tropického podnebia. Jeho rodičia preto opustili svoj domov v Nemecku a odišli žiť na Kanárske ostrovy, španielske súostrovie pri pobreží severozápadnej Afriky.
+Dante sám bol zázrak. Jeho matka sa roky snažila mať dieťa a lekári jej nakoniec povedali, aby to vzdala. Potom sa narodil Dante. Bolo to však chorľavé dieťa a lekári povedali, že sa musí presťahovať do tropického podnebia, aby prežil. Jeho rodičia preto opustili svoj domov v Nemecku a presťahovali sa na Kanárske ostrovy, španielske súostrovie pri pobreží severozápadnej Afriky.
 
-V 16 rokoch nemal Dante k tomu, aby sa stal milionárom alebo tatérom, o nič bližšie. Ako hyperaktívny tínedžer poslúchol radu zúfalých učiteľov, odišiel zo strednej školy a pracoval ako pomocný robotník. Práca však bola ťažká a plat mizerný, a tak začal predávať drogy, najmä kokaín. O rok neskôr uzavrel zmluvu s diablom a ponúkol svoju dušu za drogy, divoký život a rock ‘n’ roll. Zmluvu spečatil tetovaním na ruke.
+V 16 rokoch sa Dante ani o kúsok nepriblížil  k tomu, aby sa stal milionárom alebo tetovačom. Ako hyperaktívny tínedžer poslúchol radu nahnevaných učiteľov a odišiel zo strednej školy, aby pracoval ako údržbár. Práca bola však ťažká a plat nízky, a tak začal obchodovať s drogami, najmä s kokaínom. O rok neskôr uzavrel dohodu s diablom a ponúkol svoju dušu za drogy, divoký život a rock ‘n’ roll. Dohodu spečatil tetovaním na ruke.
 
-Nejaký čas sa Dante cítil šťastný. Nebol síce milionárom, ale peniaze a rozkoš akoby nemali konca. Napriek tomu vo svojom srdci cítil prázdnotu. Videl, že jeho drogy ničia životy, a vnímal vnútorný hlas, ktorý sa pýtal: Myslíš si, že je v poriadku zbohatnúť na úkor druhých?
+Istý čas sa Dante cítil šťastný. Nebol  milionárom, ale peniaze a potešenie sa zdali byť nekonečné. Napriek tomu cítil v srdci prázdnotu. Videl, že jeho drogy ničia životy, a počul vnútorný hlas, ktorý sa ho pýtal: „Myslíš si, že je v poriadku zbohatnúť na úkor iných?“
 
-Potom nastúpil strach. Mal problémy s políciou a utiekol do Nemecka, kam sa jeho matka presťahovala po tom, čo pred niekoľkými rokmi opustila otca. V Nemecku život nebol o nic lepší, a tak Dante o sedem rokov neskôr, keď mal 25 rokov, skončil späť na Kanárskych ostrovoch. Skoncoval s drogami a kamarát ho naučil tetovať. Dante bol rád, že si splnil jeden zo svojich detských snov, a zarábal slušné peniaze, aj keď nie toľko, aby bol bohatý.
+Potom sa ho zmocnil strach. Mal problémy s políciou a utiekol do Nemecka, kam sa presťahovala jeho matka po tom, čo pred pár rokmi opustila otca. V Nemecku nebol život o nič lepší a Dante sa o sedem rokov neskôr, keď mal 25 rokov, vrátil späť na Kanárske ostrovy. Prestal s drogami a jeden priateľ ho naučil, ako sa stať tetovačom. Dante mal radosť, že si splnil jeden zo svojich detských snov, a zarábal dobré peniaze, hoci nie dosť na to, aby bol bohatý.
 
-Potom sa dozvedel, že by sa stále mohl stať milionárom. Jeho otec, hudobný promotér a majiteľ klubov, zažaloval veľkú nápojovú spoločnosť o miliardy dolárov za porušenie autorských práv. Jeho otec si totiž nechal zaregistrovat ochrannú známku na názov značky, ktorú spoločnosť používala bez jeho súhlasu. Ponúkol Dantemu 10 percent z výnosu, ak mu s žalobou pomôže.
+Potom sa dozvedel, že sa stále môže stať milionárom. Jeho otec, promotér rockovej hudby a majiteľ klubu, zažaloval veľkú spoločnosť vyrábajúcu nápoje  o náhradu škody vo výške miliárd dolárov v súdnom spore o porušenie autorských práv. Jeho otec si zaregistroval obchodnú značku, ktorú táto spoločnosť používala bez jeho súhlasu. Ponúkol Dantemu 10 percent z výnosov, ak mu pomôže so súdnym sporom.
 
-V rovnakom čase dal Dantemu kamarát Bibliu a on si v nej začal čítať. Čítal: „Hospodinovo požehnanie obohacuje a neprináša so sebou žiadne trápenie“ (Príslovia 10,22). Pomyslel si: _Ak dám Bohu svoje srdce, požehná mi a urobí ma bohatým_. Rozhodol sa odovzdat svoje srdce Ježišovi.
+Zároveň dal priateľ Dantemu Bibliu a on ju začal čítať. Prečítal si: „Pánovo požehnanie prináša bohatstvo bez namáhavej práce“ (Príslovia 10:22, NIV). Pomyslel si: Ak odovzdám Bohu svoje srdce, On ma požehná a urobí ma bohatým. Rozhodol sa odovzdať svoje srdce Ježišovi.
 
-Dnes je Dante bohatý, ale nie tak, ako bohatstvo počíta svet. „Keď som bol tatérom, chcel som zaplniť prázdnotu vo svojom srdci,“ hovorí Dante, ktorý je teraz kazateľom Církve adventistov siedmeho dňa v Nemecku. „Myslel som si, že na zaplnenie tejto prázdnoty musím byť milionárom. Ale všetko, čo som potreboval, bol Ježiš.“
+Dnes je Dante bohatý, ale nie tak, ako svet meria bohatstvo. „Keď som bol tetovač, chcel som, aby sa prázdnota v mojom srdci zaplnila,“ povedal Dante, pastor Cirkvi adventistov siedmeho dňa v Nemecku. „Myslel som si, že musím byť milionárom, aby sa tá prázdnota zaplnila. Ale všetko, čo som potreboval, bol Ježiš.“
 
-_Tento misijný príbeh ponúka pohľad do zákulisia výsledkov jedného z predchádzajúcich projektov darov 13. soboty. Adventistická vysoká škola v Sagunte v Španielsku dostala časť darov 13. soboty z roku 2019 pre svoje teologické oddelenie, kde Dante Herrmann študoval. V tomto štvrťroku vaše dary opäť pomôžu šíriť evanjelium v Intereurópskej divízii, ktorej súčasťou je aj Španielsko._
+_Tento misijný príbeh ponúka pohľad do zákulisia na výsledky predchádzajúceho projektu „Trinásta sobota“. V Španielsku získala Adventistická vysoká škola v Sagunte časť príspevkov z „Trinástej soboty“ z roku 2019 pre svoje teologické oddelenie, kde študoval Dante Herrmann. V tomto štvrťroku vaše príspevky opäť pomôžu šíriť evanjelium v Intereurópskej divízii, do ktorej patrí aj Španielsko._
