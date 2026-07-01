@@ -3,22 +3,20 @@ title:  Misijný príbeh
 date:  03/07/2026
 ---
 
-_(Text preložený pomocou automatického prekladača)_
-
 #### Návrat priekopníka
 
 _Rick Kajiura_
 
-Nič sa nevyrovná vzrušeniu z návštevy priekopníka Globálnej misie. Ešte vzrušujúcejšie je vidieť ich, ako sa stretávajú so svojou malou skupinou začínajúcich veriacich. Pamätám si, ako som to robil v domácom zbore pri prašnej ceste v horskej dedine v Indonézii a ako som sa tajne vkrádal do malého bytu v paneláku v jednej krajine východnej Európy. Pamätám si na šušťanie modrej plachty pod nohami a nad našimi hlavami v juhovýchodnej Ázii a na to, ako som videl priekopníka vyučovať lekciu sobotnej školy pod stromami na africkom vidieku.
+Nič sa nevyrovná vzrušeniu, ktoré človek zažije pri návšteve priekopníka globálnej misie. Ešte vzrušujúcejšie je vidieť, ako sa stretávajú so svojou malou skupinkou začínajúcich veriacich. Spomínam si, ako som to robil v domácom zbore na prašnej ceste v horskej dedine v Indonézii a ako som sa vkradol do malého bytu v budove z betónových blokov vo východoeurópskej krajine. Spomínam si na šušťanie modrej plachty pod nohami a nad našimi hlavami v juhovýchodnej Ázii a na to, ako som videl priekopníka, ktorý pod stromami na africkom vidieku vyučoval lekciu sobotnej školy.
 
-Napriek tomu zbor, ktorý som navštívil nedávno, bol úplne iný. Priekopníci odišli už pred rokmi. Tentokrát som videl budovu zboru so školou hneď vedľa. Zbor má 125 členov a škola je považovaná za jednu z najlepších v meste.
+Zbor, ktorý som nedávno navštívil, bol však úplne iný. Priekopníci odišli už pred rokmi. Tentoraz som videl cirkevnú budovu a hneď vedľa školu. Zbor má 125 členov a škola je považovaná za jednu z najlepších v meste.
 
-Keď priekopníci dorazili, neboli v tomto meste žiadni adventisti. Začali sa pokúšať predávať knihy, chodili od domu k domu. Snažili sa prenajať miesto na konanie zhromaždení, ale ľudia im prenájom odmietli. Pochopili to; v tomto meste neboli vítaní.
+Keď priekopníci prišli do tohto mesta, neboli tu žiadni adventisti. Začali sa snažiť predávať knihy a chodiť od dverí k dverám. Snažili sa prenajať si priestor na stretnutia, ale ľudia im ho odmietli prenajať. Pochopili, že v tomto meste neboli vítaní.
 
-Namiesto toho dostali pozvanie do blízkeho mestečka. Tam si mohli prenajať sálu a začať pracovať. Netrvalo dlho a založili malú skupinu s piatimi pokrstenými členmi. Potom boli pozvaní do iného mesta a zanedlho mali skupinu s 37 členmi.
+Namiesto toho dostali pozvanie, aby išli do neďalekého mesta. Tam si mohli prenajať sálu a začať pracovať. Zakrátko založili malú skupinu s piatimi pokrstenými členmi. Potom ich pozvali do ďalšieho mesta a čoskoro mali skupinu s 37 členmi.
 
-Trvalo roky, kým boli v hlavnom meste konečne prijatí a dokázali nájsť miesto na zhromaždenia. Založili malú skupinu a čoskoro mali 30 členov. Odvtedy dal tento zbor vzniknúť štyrom „dcérskym zborom“. Z malých skupín v susedných mestách sa tiež stali samostatné zbory a každý z nich založil ďalšie dcérske zbory. Jeden z pôvodných priekopníkov, ktorý pomáhal tieto zbory zakladať, sa vrátil, aby so mnou túto oblasť navštívil. Teraz je riaditeľom Adventistickej misie pre tento región a ukázal mi, ako Boh v priebehu rokov požehnal jeho úsilie.
+Trvalo roky, kým ich konečne prijali v hlavnom meste a kým sa im podarilo nájsť miesto na stretnutia. Založili malú skupinu a čoskoro mali 30 členov. Odvtedy dal tento zbor vzniknúť štyrom „malým zborom“. Malé skupiny v týchto susedných mestách sa tiež rozrástli na plnohodnotné zbory a každý z nich založil ďalšie malé zbory. Jeden z pôvodných priekopníkov, ktorý pomáhal zakladať tieto zbory, sa vrátil, aby spolu so mnou navštívil túto oblasť. Teraz je riaditeľom Adventistickej misie pre tento región a ukázal mi, ako Boh po celé roky požehnával jeho úsilie.
 
-Priekopníci odchádzajú do nezasiahnutých oblastí aj dnes. Priekopníci ako Taguhi a Aghvan pracujú v oblasti s veľmi malým počtem adventistov. Modlite sa, prosím, za misionárov a priekopníkov Globálnej misie, ktorí začínajú novú prácu v okne 10/40, vo veľkých mestách sveta a medzi postkresťanskými ľuďmi. Nech Boh žehná ich prácu pri zdieľaní evanjelia a zakladaní nových skupín veriacich.
+Priekopníci dodnes odchádzajú do nezasiahnutých oblastí. Priekopníci ako Taguhi a Aghvan pôsobia v oblasti, kde je veľmi málo adventistov. Prosím, modlite sa za misionárov a priekopníkov Globálnej misie, ktorí začínajú novú prácu v „okne 10/40“, vo veľkých mestách sveta a medzi postkresťanskými ľuďmi. Nech Boh požehná ich prácu pri zdieľaní evanjelia a zakladaní nových modlitebných skupín.
 
-_Priekopníci Globálnej misie sú laici vysielaní zakladať nové skupiny veriacich v nezasiahnutých oblastiach alebo medzi nezasiahnutými skupinami obyvateľov. Je im vyplácaný malý príspevok a často pracujú v rámci svojej vlastnej kultúry. Zistite viac o priekopníkoch Globálnej misie na: bit.ly/GMPioneers._
+_Priekopníci z Global Mission sú laici vyslaní na zakladanie nových skupín veriacich v nezasiahnutých oblastiach alebo medzi nezasiahnutými etnickými skupinami. Dostávajú malý príspevok a často pracujú vo svojej vlastnej kultúre. Viac informácií o priekopníkoch z Global Mission nájdete na: bit.ly/GMPioneers._
