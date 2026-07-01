@@ -1,0 +1,19 @@
+### Kärnan i det kristna livet och i vittnesbördet
+
+Att skriva brev är en gammal tradition som inte har blivit föråldrad. Vi har bara ändrat sättet att skriva brev. Ja, sociala medier har ersatt papper. Men i grund och botten har e-post och andra former av elektroniska brev i princip samma funktion: de förbinder människor genom att utbyta information, känslor och tankar.
+
+Varför skriver människor brev? Ett möjligt svar är att de har något att säga. Så var det med aposteln Paulus. Även om han hade så många saker att säga, hade han inte alltid möjlighet att träffa dem han ville prata med ansikte mot ansikte.
+
+I stället skrev han brev – till exempel till korinthierna, som innehåller några av Skriftens djupaste sanningar. Bland dem finns: ”Det enda jag ville veta av när jag var hos er, det var Jesus Kristus, den korsfäste Kristus” (1 Kor. 2:2), och ”Ni känner vår Herre Jesu Kristi stora gåva: han, som var rik, blev fattig för er skull, för att ni skulle bli rika genom hans fattigdom” (2 Kor. 8:9). Och vad sägs om den fantastiska hymnen till kärleken i 1 Kor. 13?
+
+Å andra sidan kommer den som läser Paulus brev till korinthierna oundvikligen att bli förvirrad, inte bara på grund av några väsentliga problem inom församlingen – såsom sexuell omoral – utan också på grund av den småaktighet som är resultatet av tarvlig fraktionsbildning bland medlemmarna. Om du tycker att din församling har utmanande problem, förbered dig då på att se den lavin av gräl som Paulus fick hantera i Korinth. Kanske är problemen i din lokala församling inte så stora som du tror? Mycket troligt kommer du att se att situationen i Korinth var mycket värre.
+
+Trots att problemen i Korinth var oroande, fångar breven till korinthierna vår uppmärksamhet, inte på grund av problemen utan på grund av det anmärkningsvärda sätt på vilket Paulus hanterar dem. Genom att uppmana församlingsmedlemmarna att utvärdera sig själva, sitt beteende och den omgivande kulturen i ljuset av Jesus Kristus evangelium, upphöjer han korsets budskap. För att använda Paulus egna ord på ett annat ställe, ska varje norm som är lägre än evangeliets budskap betraktas som en ”förbannelse” (Gal. 1:8, 9).
+
+På Paulus tid var Korinth känt för sin rikedom och omfattande handel, allt tack vare sin hamn, arkitektur, skeppsbyggnad och keramik. Staden var ett viktigt finansiellt centrum. Men den var också känd för sin sexuella omoral, religiösa kakofoni och helgedomar tillägnade olika gudar. Det dagliga livet i Korinth präglades faktiskt av flagrant avgudadyrkan. Denna historisk-kulturella bakgrund hjälper oss att förstå Paulus huvudsakliga oro när det gäller de kristna i den staden och, följaktligen, hans uppmaningar till dem.
+
+Under detta kvartal kommer vi att studera Paulus brev till korinthierna. I dessa två anmärkningsvärda böcker i Nya testamentet presenterar aposteln evangeliets budskap som kärnan i det kristna livet och i vittnesbördet, den lins genom vilken allt annat ska bedömas. Oavsett vilka utmaningar var och en av oss individuellt eller församlingen i allmänhet står inför på vår resa till himlen – så är svaret på de mest gåtfulla frågorna i vårt arbete för Kristus detsamma som för korinthierna: ”Jesus Kristus och honom som korsfäst”! (1 Kor. 2:2, FB).
+
+Jesus kommer snart. Det är dags för ännu mer enhet i Kristus, för en öppenhet för den heliga Anden som aldrig förr, för flitig användning av de andliga gåvorna och för en djupare erfarenhet med vår uppståndne Herre. Det är dags för en äkta kristen verksamhet, engagemang i förvaltarskap och uppdrag, andlig strid mot falska läror och tillväxt i nåd, kärlek och gemenskap. Det är en tid för att hålla fast vid och vara trogen mot budskapet om korset, och Paulus brev till korinthierna lär oss just det.
+
+_**Adenilton Tavares de Aguiar**, PhD, är professor i nytestamentlig tolkning vid Northeast Adventist College i Cachoeira, Bahia, Brasilien, där han har arbetat sedan 2010._

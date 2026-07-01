@@ -1,0 +1,20 @@
+---
+  title: "Le Lettere di Paolo ai Corinzi"
+  description: "Scrivere lettere è un’attività antica che non è del tutto caduta in disuso; abbiamo semplicemente cambiato il modo di farlo. È vero, i social media hanno soppiantato la carta; tuttavia, nella loro essenza, le e-mail e altre forme di corrispondenza elettronica svolgono sostanzialmente la stessa funzione: mettono in contatto le persone attraverso lo scambio di informazioni, sentimenti e pensieri."
+  human_date: "Luglio · Agosto · Settembre 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: '#912F63'
+  color_primary_dark: '#6F214A'
+  splash: true
+  credits:
+    - name: Autore
+      value: "Adenilton Tavares de Aguiar"
+    - name: Coordinamento redazionale
+      value: "Saverio Scuccimarri"
+    - name: Redazione
+      value: "Enza Laterza, Silvia Vadi"
+    - name: Impagionazione
+      value: "Valeria Cesarale"
+    - name: Progetto grafico
+      value: "Chiara Ronconi"

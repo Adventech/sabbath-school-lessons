@@ -1,0 +1,21 @@
+### Umongo Wobomi bobuKristu Nokungqina
+
+Ukubhala iincwadi sisenzo esidala esingephelelwanga. Thina sitshintshe nje indlela iincwadi ezibhalwa ngayo. Ewe, amakhasi onxibelelwano agqithele ngaphaya kwephepha. Noko kunjalo, kumongo wawo, ii-imeyile kwakunye nezinye iindlela zeencwadi zobuxhakaxhaka ngeliphandle zenza kwala msebenzi mnye: ziqhagamshelanisa abantu ngokutshintshiselana ngenkcukacha, iimvakalelo, kwakunye neengcamango.
+
+Kutheni le nto abantu bebhala iincwadi? Impendulo enokubakho yeyokuba banento abafuna ukuyithetha. Kwakunjalo ke nakumpostile uPawulos. Nangona kwakukuninzi ngeyona ndlela afuna ukukuthetha, wayengasoloko enethuba lokujongana ubuso ngobuso kunye nabo wayenqwenela ukuthetha kunye nabo.
+
+Ngoko ke, endaweni yoko waabhala iincwadi-ezifana nezamaKorinte, eziqulathe iinyaniso ezithile ezinzulu zesiBhalo. Phakathi kwazo zezi: “Kuba ndagqiba kwelokuba ndingazi nto phakathi kwenu, ingenguYesu Kristu, naye ke ebethelelwe emnqamlezweni (1 Kor. 2:2), “Kuba niyalwazi ubabalo lweNkosi yethu uYesu Kristu, okokuba yathi, ibisisityebi nje, yaba lihlwempu ngenxa yenu, ukuze nina nibe zizityebi ngobuhlwempu bayo obo” (2 Kor. 8:9). Kwaye kukanjani ngengoma emangalisayo yokuthanda kwi-1 Korinte 13?
+
+Kwelinye icala, nabani ofunda iincwadi zikaPawulos zamaKorinte ngokuqinisekileyo uyakudideka, hayi nje kuphela ngenxa yeengxaki ezibanzi ngaphakathi ebandleni-ezifana ukuziphatha gwenxa kwezesondo-kodwa kanjalo ngenxa yokuchukelana okuqhambuka kwiyantlukwano engento phakathi kwamalungu. Ukuba ucinga ukuba ibandla lakho linemiba engumngeni, zilungiselele ukubona iingxubakaxaka zeembambano uPawulos ekwakufuneka ejamelene nazo eKorinte. Mhlawumbi iingxaki zebandla elikwindawo okuyo azikho mandla njengoko ucinga? Kungenzeka, uyakubona ukuba izinto eKorinte zazimandundu ngeyona ndlela.
+
+Ziphazamisa zinjalo iingxaki zaseKorinte, iincwadi zamaKorinte zitsala ingqalelo yethu, hayi ngenxa yeengxaki koko ngenxa yendlela emangalisayo uPawulos ajamelana nazo ngayo. Ngokukhuthaza amalungu ukuba
+
+aphonononge iziqu zawo, ukuziphatha kwawo, kwakunye nenkcubeko ejikelezileyo ejonge kwigospile kaYesu Kristu, uphakamisa isigidimi soMnqamlezo. Ukusebenzisa amazwi kaPawulos ngokwakhe naphi na, nakowuphina umgangatho ongezantsi kwesigidimi segospile kukubonwa njengento “esingelwe phantsi” (Gal. 1:8, 9).
+
+Ngexesha likaPawulos, iKorinte yayidume ngobutyebi bayo norhwebelwano olumandla, ngexa yezibuko layo, ubugcisa bokwakha, ulwakhiwo lwenqanawa, kwakunye nokubumba ngodongwe. Isixeko esi yayi liziko elibalulekileyo lezezimali. Noko kunjalo, sasikwaziwa ngoburheletyo, intlokoma kwezonqulo, kwakunye neziganga ezinikelwe kwintlaninge yoothixo. Eneneni, ubomi bemihla ngemihla eKorinte babuphawulwe lunqulo-zithixo oluthe dleke. Nemvelaphi ingembali-nkcubeko iyasinceda ukuqonda iinkxalabo ezisemqoka zikaPawulos ngokuphathelele kumaKristu kwesasixeko kwakunye, ngenxa yoko, nezibongozo zakhe kuwo.
+
+Kule kota, sizakuhlola iincwadi zikaPawulos kumaKorinte. Kwezincwadi zimbini zincamisileyo zeTestamente eNtsha, umpostile uzisa isigidimi segospile njengomongo wobomi bobuKristu nokungqina, iliso elizakugwetywa ngayo yonke enye into. Nokuba yeyiphi imicela-mngeni ajamelene nayo umntu ngamnye kuthi okanye njengebandla jikelele ukusinga ezulwini-impendulo kwezona zinto ziyinkohla ekusebenzeleni kwethu uKristu yileyo ifana neyamaKorinte: “uYesu Kristu naye ebethelelwe emnqamlezweni”! (1 Kor. 2:2).
+
+UYesu uyabuya kamsinya. Eli lixesha lobunye ngakumbi kuKristu, lokuvulekela kuMoya oyiNgcwele ngaphezu kunakuqala, lokusebenzisa ngenyameko izipho zakwamoya, kwakunye namava anzulu ngokuthe chatha neNkosi yethu evukileyo. Lixesha lolungiselelo olusulungekileyo lobuKristu, ukuzibandakanya kubugosa novangelo, idabi lakwamoya ngokuchasene neemfundiso ezibubuxoki, nokukhula elubabalweni, uthando, kwakunye nobudlelane. Eli lixesha lokubambelela nkqi nokuthembeka kwisigidimi somnqamlezo, yaye iincwadi zikaPawulos kumaKorinte zisifundisa ukuba senze kanye lo nto.
+
+_UAdenilton Tavares de Aguiar, PhD, yinjinga-lwazi yeTestamente eNtsha eNortheast Adventist College eseCachoeira, eBahia, eBrazil, apho asebenze khona ukususela ngo2010._

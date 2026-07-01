@@ -1,0 +1,20 @@
+---
+  title: "Första och andra Korinthierbreven"
+  description: "Att skriva brev är en gammal tradition som inte har blivit föråldrad. Vi har bara ändrat sättet att skriva brev. Ja, sociala medier har ersatt papper. Men i grund och botten har e-post och andra former av elektroniska brev i princip samma funktion: de förbinder människor genom att utbyta information, känslor och tankar."
+  human_date: "Juli · Augusti · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Huvudförfattare detta kvartal
+      value: "Adenilton Tavares de Aguiar"
+    - name: Internationell redaktör
+      value: "Clifford Goldstein"
+    - name: Svensk chefredaktör
+      value: "Rainer Refsbäck"
+    - name: Översättare och biträdande redaktör
+      value: "Lars Wernersson"
+    - name: Formgivning
+      value: "Vanessa Hansen"
