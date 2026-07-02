@@ -1,5 +1,5 @@
 ---
-title: 'Teacher Comments'
+title:  Коментарі для Вчителів
 date: 10/07/2026
 ---
 
