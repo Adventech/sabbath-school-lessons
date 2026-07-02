@@ -1,6 +1,6 @@
 ---
 title:  Il nocciolo della questione
-date:   17/07/2026
+date:   10/07/2026
 ---
 
 Nel 1883, fu proposto lo studio di 1 Corinzi 1:1-2:3. Il lezionario del 1966 ha dedicato la seconda lezione ai capitoli da 1 a 4, mentre il lezionario del 1998 ha proposto una lezione per lo studio di 1 Corinzi 1:10-17 e 3:1-23 e un’altra per 1 Corinzi 1:18-2:16.

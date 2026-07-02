@@ -1,6 +1,6 @@
 ---
 title:  Il nocciolo della questione
-date:   10/07/2026
+date:   17/07/2026
 ---
 
 La Scuola del Sabato di questa settimana ci propone lo studio dei capitoli 3 e 4 insieme. Nel 1883, la lezione propose lo studio di 1 Corinzi 2:6-16 e dei capitoli 3-4. Nel 1966, i capp. 3 e 4 sono stati studiati insieme ai capp. 1 e 2. Nel 1998, il cap. 3 è stato studiato insieme a 1:10-17 e il cap. 4 insieme al cap. 9.
