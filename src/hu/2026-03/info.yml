@@ -4,8 +4,8 @@
   human_date: "Július · Augusztus · Szeptember 2026"
   start_date: "27/06/2026"
   end_date: "25/09/2026"
-  color_primary: "#1F6055"
-  color_primary_dark: "#083129"
+  color_primary: "#3D1F20"
+  color_primary_dark: "#261213"
   splash: true
   credits:
     - name: Írta
