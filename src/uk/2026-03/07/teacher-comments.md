@@ -1,6 +1,6 @@
 ---
-title:  Teacher Comments
-date:   14/08/2026
+title: 'Teacher Comments'
+date: 14/08/2026
 ---
 
 ### Ми готуємо цей урок.
