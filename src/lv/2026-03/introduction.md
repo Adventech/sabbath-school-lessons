@@ -1,0 +1,19 @@
+### Kristīgās dzīves un liecināšanas būtība
+
+Vēstuļu rakstīšana ir gadsimtiem sena nodarbe, kas vēl joprojām nav novecojusi. Mēs esam tikai mainījuši veidu, kādā vēstules tiek rakstītas. Jā, sociālie mediji ir aizstājuši papīru. Tomēr savā būtībā e-pasti un citi elektronisko vēstuļu veidi pilda to pašu funkciju – tie savieno cilvēkus, apmainoties ar informāciju, jūtām un domām.
+
+Kāpēc cilvēki raksta vēstules? Iespējamā atbilde ir tāda, ka viņiem ir kaut kas, ko teikt. Tā bija arī ar apustuli Pāvilu. Lai gan viņam bija daudz ko sacīt, viņam ne vienmēr bija iespēja būt klātienē ar tiem, ar kuriem viņš vēlējās runāt.
+
+Tāpēc viņš rakstīja vēstules – piemēram, korintiešiem, kurās atrodamas dažas no dziļākajām Svēto Rakstu patiesībām. Tostarp, piemēram: “Jo es jūsu starpā negribēju neko citu zināt kā vien Jēzu Kristu un to pašu krustā sistu” (1. Kor. 2:2), un: “Jo jūs zināt mūsu Kunga Jēzus Kristus žēlastību, ka Viņš, bagāts būdams, ir tapis nabags jūsu dēļ, lai Viņa nabadzība kļūtu jums par bagātību” (2. Kor. 8:9). Un kā ar spēcīgo mīlestības dziesmu 1. Kor. 13. nodaļā?
+
+No otras puses, ikviens, kas lasa Pāvila vēstules korintiešiem, neizbēgami apjūk – ne tikai tāpēc, ka draudzē pastāvēja nopietnas problēmas, piemēram, seksuāla izlaidība, bet arī sīkumainu ķildu dēļ, ko radīja šķelšanās draudzes locekļu vidū nenozīmīgu iemeslu dēļ. Ja tev šķiet, ka tavai draudzei ir izaicinošas problēmas, esi gatavs redzēt strīdu lavīnu, ar kādu Pāvilam nācās saskarties Korintā. Iespējams, tavas vietējās draudzes problēmas nav tik nopietnas, kā tev šķiet. Ļoti iespējams, ka ieraudzīsi – Korintā situācija bija daudz sliktāka.
+
+Lai arī cik satraucošas bijušas problēmas Korintā, vēstules korintiešiem piesaista mūsu uzmanību nevis ar tajā apskatītajām problēmām, bet gan ar to, kādā ievērojamā veidā Pāvils tās risina. Aicinot draudzes locekļus izvērtēt sevi, savu uzvedību un apkārtējo kultūru Jēzus Kristus evaņģēlija gaismā, viņš paaugstina krusta vēsti. Pēc paša Pāvila vārdiem citviet, jebkurš standarts, kas ir zemāks par evaņģēlija vēsti, ir uzskatāms par “nolādētu” (Gal. 1:8, 9).
+
+Pāvila laikā Korinta bija slavena ar savu bagātību un spēcīgo tirdzniecību, pateicoties ostai, arhitektūrai, kuģubūvei un keramikai. Pilsēta bija nozīmīgs finanšu centrs. Tomēr tā bija pazīstama arī ar seksuālu izlaidību, reliģisku sajukumu un svētnīcām, kas veltītas dažādiem dieviem. Ikdienas dzīvi Korintā raksturoja atklāta elkdievība. Šis vēsturiskais un kultūras fons palīdz mums saprast Pāvila galvenās rūpes par kristiešiem šajā pilsētā un līdz ar to arī viņa pamudinājumus viņiem.
+
+Šajā ceturksnī mēs aplūkosim Pāvila vēstules korintiešiem. Šajās divās ievērojamajās Jaunās Derības grāmatās apustulis pasniedz evaņģēlija vēsti kā kristīgās dzīves un liecības būtību – kā prizmu, caur kuru vērtēt visu pārējo. Neatkarīgi no izaicinājumiem, ar kuriem katrs no mums individuāli vai draudze kopumā saskaras savā ceļā uz Debesīm, atbilde uz vissarežģītākajiem jautājumiem mūsu kalpošanā Kristum ir tā pati, kas bija korintiešiem: “Jēzus Kristus un tas pats krustā sists” (1. Kor. 2:2).
+
+Jēzus drīz nāks. Šis ir laiks lielākai vienotībai Kristū, atvērtībai Svētajam Garam kā vēl nekad agrāk, uzticīgai garīgo dāvanu izmantošanai un dziļākai pieredzei ar mūsu augšāmcelto Kungu. Šis ir laiks patiesai kristīgai kalpošanai, iesaistei draudzes pārvaldībā un misijā, garīgai cīņai pret maldu mācībām un izaugsmei žēlastībā, mīlestībā un sadraudzībā. Šis ir laiks turēties stingri un būt uzticīgiem krusta vēstij, un tieši to Pāvila vēstules korintiešiem mums māca darīt.
+
+_Adeniltons Tavaress de Aguiars, PhD, ir Jaunās Derības interpretācijas profesors Ziemeļaustrumu adventistu koledžā Kašojeirā, Baijā, Brazīlijā, kur viņš kalpo kopš 2010. gada._
