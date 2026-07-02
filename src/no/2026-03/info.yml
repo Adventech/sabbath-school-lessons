@@ -1,0 +1,18 @@
+---
+  title: "1. og 2. Korinterbrev"
+  description: "Å skrive brev er en eldgammel aktivitet som likevel ikke er foreldet; vi har bare endret måten vi skriver brev. Ja, sosiale medier har erstattet papiret. Men e-post og andre former for elektroniske brev har egentlig samme funksjon: De knytter mennesker sammen ved å utveksle informasjon, følelser og tanker."
+  human_date: "July · August · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#304465"
+  color_primary_dark: "#032C48"
+  splash: true
+  credits:
+    - name: Originaltittel
+      value: "First and Second Corinthians"
+    - name: Studieforfatter
+      value: "Adenilton T. de Aguiar"
+    - name: Redaktør
+      value: "Clifford R. Goldstein"
+    - name: Oversetter
+      value: "Egil Fredheim"
