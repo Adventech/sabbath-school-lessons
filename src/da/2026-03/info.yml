@@ -1,0 +1,21 @@
+---
+  title: "Første og Andet Korintherbrev"
+  description: "Brevskrivning er en årtusind gammel kunstart, som endnu lever i bedste velgående, selvom konventionerne med årene har ændret sig en hel del. Pen og papir er skiftet ud med digitale medier, men e-mails og andre former for digital kommunikation tjener stadig stort set samme formål, som breve altid har gjort, nemlig at skabe og holde forbindelsen til andre ved at dele informationer, følelser og tanker."
+  human_date: "Juli · August · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: '#212121'
+  color_primary_dark: '#181818'
+  credits:
+    - name: Udgiver
+      value: "Adventistkirken, sabbatsskoleafdelingen"
+    - name: Hovedforfatter
+      value: "Adenilton Tavares de Aguiar"
+    - name: Oversættelse
+      value: "Iben Bidstrup"
+    - name: Korrektur
+      value: "Robert Svendsen"
+    - name: Grafisk opsætning
+      value: "Bente Skov Schledermann"
+    - name: Tryk
+      value: "Øko-Tryk"

@@ -1,0 +1,19 @@
+### Kjarni kristilegs lífernis og vitnisburðar
+
+Bréfaskriftir eru aldagömul hefð sem hefur ekki orðið úrelt. Við höfum einungis breytt því hvernig bréfin eru skrifuð. Samfélagsmiðlar eru komnir í stað pappírs. En í grundvallaratriðum gegna tölvupóstar og önnur rafræn bréf sama hlutverki, sem sé að hafa samband við aðra með því að skiptast á upplýsingum, tilfinningum og hugsunum.
+
+En hvers vegna skrifast menn á? Ein ástæða er að þeir hafa eitthvað sem þeir vilja deila. Þannig var það með Pál postula. Þó svo hann hefði margt að segja hafði hann ekki alltaf tækifæri til að standa augliti til auglitis við þá sem hann vildi tala við.
+
+Þess vegna skrifaði hann bréf - eins og t.d. til Korintumanna - sem innihalda sum af dýpstu sannindum Ritningarinnar. Þar á meðal eru textar eins og þessir: „Þegar ég var með ykkur ásetti ég mér að hafa ekkert í huga annað en Jesú Krist og hann krossfestan“ (1Kor 2.2) og „Þið þekkið náð Drottins vors Jesú Krists. Hann gerðist fátækur ykkar vegna, þótt ríkur væri, til þess að þið auðguðust af fátækt hans“ (2Kor 8.9). Og hvað svo með hinn undurfagra óð kærleikans í 1Kor 13?
+
+Á hinn bóginn mun hver og einn óhjákvæmilega verða ráðvilltur bæði varðandi umtalsverð vandamál innan safnaðarins - eins og t.d. kynferðislegt siðleysi - en einnig vegna smásmugulegra flokkadrátta innan safnaðarins. Ef þú heldur að söfnuður þinn glími við áskoranir búðu þig undir yfirgripsmiklar deilur sem Páll glímdi við í Korintu. Ef til vill eru vandamál safnaðar þíns ekki jafn mikilvæg og þú heldur. Þú munt sennilega sjá að málin voru mikið flóknari í Korintu.
+
+En þrátt fyrir að vandamálin í Korintu hafi verið hræðileg þá vekja bréfin til Korintumanna athygli okkar, ekki vegna vandamálanna heldur vegna þess hvernig Páll tekur á málunum. Með því að hvetja meðlimina til að líta í eigin barm, á hegðun sína og menningarheim í ljósi fagnaðarerindis Jesú Krists, þá upphefur hann boðskap krossins. Páll lýsir því þannig að sérhver staðall sem er lægri en fagnaðarerindið skuli vera „bölvaður“ (Gal 1.8, 9).
+
+Á tíma Páls var Korinta þekkt fyrir auð sinn og verslunarviðskipti vegna þess að hún var hafnarborg en auk þess var hún þekkt fyrir byggingarlist sína, skipasmíðar og leirker. Borgin var mikilvæg fjármálamiðstöð. En hún var einnig þekkt fyrir kynferðislegt siðleysi, trúar rugl og helgiskrín helguð mismunandi guðum. Daglegt líf íbúa Korintu einkenndist af opinskárri hjáguðadýrkun. Þetta menningarbaksvið hjálpar okkur að skilja megin áhyggjur Páls varðandi hina kristnu í borginni og hvatningarorð hans til þeirra.
+
+Þennan ársfjórðung munum við kanna bréf Páls til Korintumanna. Í þessum tveimur ritum í Nýja testamentinu framsetur postulinn fagnaðarerindið sem kjarna kristilegs lífs og vitnisburðar, linsuna sem nota skal til að meta allt annað. Engu máli skiptir hvaða áskorunum við eða söfnuðurinn stöndum andspænis á leið okkar til himins því svarið við mesta vanda sem við mætum í verki okkar fyrir Krist er hið sama og það var fyrir Korintumenn: „Jesús Kristur og hann krossfestur“ (1Kor 2.2).
+
+Jesús kemur skjótt. Það er tími kominn fyrir meiri einingu í Kristi og að vera opnari fyrir heilögum anda en nokkru sinni fyrr, nota andlegar gjafir örlátlega og hafa dýpri reynslu með upprisnum Drottni okkar. Það er kominn tími fyrir ekta kristilega þjónustu, trúmennsku í boðun, andlega baráttu gegn falskenningum og vöxt í náð, kærleika og samfélagi við aðra kristna. Það er kominn tími til að halda fast við boðskap krossins og vera trúföst gagnvart honum, en bréf Páls til Korintu kenna okkur einmitt það.
+
+_Adenilton Tavares de Aguiar, Dr. phil., er prófessor í túlkun Nýja testamentisins við Northeast Adventist College í Cachoeira, Bahía, Brasilíu, þar sem hann hefur starfað síðan 2010._

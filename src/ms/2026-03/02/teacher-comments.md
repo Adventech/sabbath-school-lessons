@@ -1,0 +1,58 @@
+---
+title: Panduan Guru
+date: 10/07/2026
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+Ayat Utama:1 Corinthians 1:18
+
+**Tumpuan Kajian:** 1 Cor. 1:17-31.
+
+**Pengenalan**
+
+Apabila berhadapan dengan nyala api yang menjulang tinggi di tengah-tengah hutan yang sedang terbakar, fikiran pertama seseorang mungkin tidak akan menggunakan lebih banyak api pada situasi yang sudah sangat berbahaya. Walaupun tindakan ini kelihatan bodoh, anggota bomba sering melakukan perkara yang sama. Kebakaran memerlukan oksigen dan bahan api, seperti tumbuh-tumbuhan kering atau struktur mudah terbakar, untuk terus menyala. Jika seseorang boleh memutuskan sama ada bekalan oksigen atau bekalan bahan api, api boleh dikawal. Anggota bomba sering menggunakan teknik ini, yang dikenali sebagai “backfiring,” untuk menghentikan atau mengalihkan arah kebakaran.
+
+Memadamkan api dengan api nampaknya bertentangan dengan akal, atau kelihatan bodoh, apabila berhadapan dengan nyala api yang bergerak pantas, bergerak pantas ke arah bandar atau penempatan. Namun, apabila dilakukan dengan sewajarnya dan berhati-hati, strategi ini boleh membuat perbezaan antara kelangsungan hidup dan kemusnahan oleh api.
+
+Dengan cara yang sama, pengagungan oleh Paulus tentang pengorbanan Kristus di kayu salib bertentangan dengan sentimen pada zamannya. Dalam pengenalan surat pertamanya kepada gereja Korintus, Paulus mengetengahkan sifat kontrabudaya mesej Kristian tentang salib, yang merupakan sesuatu yang kebanyakan daripada kita yang hidup dalam konteks Barat, atau Kristian, akan sukar untuk memahaminya. Kebanyakan daripada kita membesar di dunia di mana salib di gereja atau di ruang awam lain merupakan lambang untuk agama Kristian dan mesej keselamatan.
+
+Tetapi salib bermaksud kematian yang kejam, hukuman yang berat, dan rasa malu yang mutlak bagi kebanyakan orang yang hidup pada abad pertama Masihi di dunia Greco-Rom. Namun, bertentangan dengan pemikiran popular pada masa itu, Paulus mengajar bahawa injil Yesus Kristus adalah kuasa Tuhan kepada mereka yang menerimanya (1 Kor. 1:18).
+
+**Tema Pelajaran**
+
+Pelajaran minggu ini mengetengahkan beberapa tema penting, termasuk:
+
+**1. Pesanan Salib.** Salib adalah jawapan Tuhan yang mengejutkan dan menyeluruh terhadap masalah dosa. Ia adalah asas mesej injil yang disampaikan oleh Paulus dan para rasul lain kepada dunia yang mempunyai pandangan dunia yang sangat berbeza.
+
+**2. Kebijaksanaan Sejati.** Kebijaksanaan merupakan elemen penting dalam falsafah Yunani dan topik utama dalam pelbagai sekolah falsafah. Penggunaan istilah ini oleh Paulus sangat berbeza dengan penggunaannya dalam falsafah Yunani dan lebih mudah dikaitkan dengan pemahaman tentang kebijaksanaan dalam Perjanjian Lama.
+
+**3. Salib: Kebodohan atau Jalan Pulang.** Salib menjadi sama ada batu sandungan atau kebodohan bagi mereka yang mendengarnya tanpa menerima Dia yang tergantung di sana. Yesus mati di kayu salib untuk menawarkan pengampunan, rahmat transformatif, dan jalan pulang kepada Tuhan yang telah memberikan segala-gala untuk menyelamatkan ciptaan-Nya yang jatuh.
+
+### Bahagan II: Ulasan
+
+**1. Latar Belakang:** Konsep kebijaksanaan Helenistik (sofia) dalam zaman Perjanjian Baru menekankan kecerdasan dan pengetahuan teori berbanding kemahiran praktikal. Seorang ahli falsafah ialah “pencinta kebijaksanaan,” seseorang yang memahami dan menyebarkan pengetahuan tentang dunia semula jadi dan pengalaman manusia. Kebenaran boleh disusun ke dalam sistem umum yang boleh membantu menjelaskan dunia. Terdapat beberapa aliran falsafah Yunani yang berbeza, dengan penekanan yang berbeza, pada masa itu, tetapi semuanya tertumpu pada pemerhatian, penaakulan (akal fikiran), logik dan hujah intelektual, walaupun ia tidak terlepas daripada kebimbangan etika.
+
+Enam aliran utama falsafah Yunani-Rom perlu dibezakan, termasuk aliran Pythagoras; aliran Plato dan para pengikutnya; aliran Aristotle; aliran Epicurus yang menekankan ketenangan jiwa sebagai ideal; golongan Sinis (yang menekankan kesederhanaan dan kebebasan daripada konvensi masyarakat); serta aliran Stoik, yang pada zaman peristiwa Perjanjian Baru dikenali sebagai Stoisisme Rom (atau Stoa Akhir) dan menjadi aliran falsafah yang paling berpengaruh pada masa itu. (lihat John T. Fitzgerald, “Greco-Roman Philosophical Schools,” dalam The World of the New Testament, suntingan Joel B. Green dan Lee Martin McDonald [Grand Rapids: Baker Academic, 2013], ms. 135-148).
+
+Dalam Perjanjian Lama, hikmat tidak terhad kepada pengetahuan semata-mata, atau penggabungan pengetahuan ke dalam suatu sistem yang tersusun, tetapi lebih kepada kemampuan seseorang untuk menggunakan pengetahuan dengan betul dalam hubungan yang berkait dengan Tuhan. Oleh itu, pengetahuan ini adalah pemberian Tuhan dan menghasilkan keputusan yang beretika (iaitu “baik,” menggemakan bahasa Penciptaan). Keluaran 31:1–5 menggunakan tiga istilah utama berkaitan hikmat (_ḥokmah_, “hikmat,” _binah_, “pengertian,” dan _da‘at_, “pengetahuan”) untuk menggambarkan kemahiran yang diberikan secara ilahi kepada Bezaleel bagi membina Khemah Suci dan segala peralatannya. Penggunaan istilah-istilah ini dalam konteks tersebut membantu kita memahami bahawa hikmat dalam Perjanjian Lama bersifat praktikal dan melampaui sekadar usaha intelektual semata-mata.
+
+Para penulis Perjanjian Lama menanyakan soalan-soalan besar tentang keadilan Tuhan dan bagaimana manusia dapat memperoleh hikmat sejati, walaupun mereka menyedari bahawa tidak semua soalan kita, mahupun pencarian kita untuk hikmat, akan selalu membawa kepada jawapan yang jelas (contohnya, Amsal 20:24; Ayub 28:20, 21). Sastera hikmat dalam Perjanjian Lama merangkumi kitab Ayub, Amsal, Pengkhutbah, dan hikmat mazmur pilihan (contohnya, Mazmur 37, Mazmur 49, Mazmur 73).
+
+Penemuan sejumlah besar karya sastera hikmat yang penting, yang menekankan pengetahuan dalam tulisan-tulisan daripada komuniti Khirbet Qumran pada abad pertama S.M. (juga dikenali sebagai Gulungan Laut Mati), menonjolkan hakikat bahawa perbincangan tentang hikmat merupakan satu unsur penting dalam wacana intelektual dan falsafah dalam kalangan masyarakat Yahudi sebelum kedatangan Mesias di Palestin. (lihat J. I. Kampen, “Wisdom Literature at Qumran,” in Dictionary of New Testament Background: A Compendium of Contemporary Biblical Scholarship, ed. C. A. Evans and Stanley E. Porter [Downers Grove, IL: InterVarsity Press, 2000], ms. 1263-1268)
+
+**2. Kebodohan dan Kebijaksanaan:** Selepas salam pembukaan, ucapan syukur, dan nasihat kepada kesatuan, Paulus memulakan mesejnya kepada jemaat muda di Korintus dengan memberi tumpuan kepada kebodohan dan hikmat. 1 Korintus 1:18–31 merupakan satu kemuncak retorik dalam Perjanjian Baru. Pernyataan utama Paulus kepada jemaat di Korintus menunjukkan bahawa Injil dianggap sebagai kebodohan bagi sesetengah orang, tetapi bagi yang lain, ia merupakan kuasa penyelamatan daripada Tuhan (1 Kor. 1:18). Paradoks ini sangat penting, kerana ia menunjukkan—dan seperti yang dihuraikan Paulus dalam beberapa fasal seterusnya—bahawa kelemahan manusia sebenarnya menjadi peluang bagi Tuhan untuk menyatakan kekuatan-Nya.
+
+Selebihnya perikop ini mengemukakan beberapa pertentangan antara yang bijaksana dan yang bodoh, antara Tuhan dan dunia, serta antara yang kuat dan yang lemah. Salib, yang merupakan alat penyeksaan dan kematian yang kejam dalam Empayar Rom, telah menjadi sarana melalui mana Tuhan melaksanakan keselamatan. Hujah ini, yang menjadi dasar kepada seluruh pemberitaan Paulus dan gereja Kristian awal, pasti dirasakan bertentangan dengan budaya dan penuh paradoks bagi ramai orang bukan Yahudi yang baru bertobat. “Perkataan tentang salib” (1 Kor. 1:18) merupakan ungkapan ringkas bagi mesej tentang kematian dan kebangkitan Yesus Kristus, yang menawarkan keselamatan kepada mereka yang mendengar dan percaya akan berita itu. Kita dapat membayangkan betapa mesej ini kelihatan sebagai kebodohan bagi pendengar Yunani-Rom: bagaimanakah Tuhan dapat menyelamatkan manusia (dan dunia) melalui kematian seorang pesalah yang disalibkan? Sebaliknya, bagi orang Yahudi, mesej ini dianggap sebagai “batu sandungan” (1 Kor. 1:23; Yunani: _“skandalon”_). Istilah ini, sama ada sebagai batu sandungan atau kebodohan, merujuk secara kiasan kepada sesuatu yang menjadi halangan kepada iman seseorang.
+
+**3. Berita Baik Tentang Salib:** Sejak awal lagi, Paulus berhujah bahawa mesej tentang salib adalah kuasa Tuhan kepada mereka yang diselamatkan. Salib menawarkan orang percaya kunci untuk memahami kebijaksanaan Tuhan dalam menberikan keselamatan kepada mereka yang tidak layak mendapat kebenaran dan tidak akan pernah dapat mencapainya. Salib juga lebih daripada sekadar tanda atau simbol, walaupun orang Yahudi tidak mengenalinya sedemikian, walaupun mereka ingin melihat tanda-tanda ajaib (Mat. 12:38, 39; Markus 8:11, 12; juga 1 Kor. 1:22). Keinginan untuk melihat tanda-tanda dan keajaiban mencerminkan kebutaan rohani yang asas, dan mungkin juga kekerasan hati, oleh mereka yang “menuntut” (bukan “meminta”) tanda-tanda tersebut. Injil tentang Kristus yang disalibkan dan telah bangkit tidak menimbulkan iman dalam kalangan orang Yahudi atau Yunani, tetapi sebaliknya, menjadi “batu sandungan” atau “kebodohan” bagi mereka. Paulus meringkaskan realiti ini dalam 1 Korintus 1:25: “Sebab yang bodoh dari Allah lebih besar hikmatnya dari pada manusia dan yang lemah dari Allah lebih kuat dari pada manusia” (ATB).
+
+Pengisytiharan ini membawa Paulus kepada pernyataan penting seterusnya: Pemilihan Tuhan terhadap mereka yang membentuk gereja di Korintus bukan berdasarkan kebijaksanaan atau kuasa dan pengaruh mereka tetapi semata-mata berdasarkan kedaulatan Tuhan (1 Kor. 1:26-29). Pilihan Tuhan tidak pernah berdasarkan pencapaian, kuasa, atau pengaruh manusia tetapi berlaku sebagai tindak balas pada genggaman kita terhadap tangan Yesus melalui iman. Kadangkala kita boleh memegang seluruh tangan, sementara pada masa lain kita hampir tidak dapat memegang hujung jari kelingking tangan-Nya—namun, yakinlah, kita boleh percaya bahawa kita berada di tengah-tengah rahmat Tuhan. Menurut Paulus, pengetahuan ini tentang hal ini menyelamatkan kita juga daripada bermegah tentang “pencapaian iman” kita sendiri. Dan “Barangsiapa yang bermegah, hendaklah ia bermegah di dalam Tuhan“ (1 Kor. 1:31, ATB, merujuk kepada Yer. 9:23, 24). Menariknya (dan mungkin telah digambarkan lebih awal melalui personifikasi hikmat dalam Amsal 8 dalam Perjanjian Lama), Yesus Kristus ialah hikmat Tuhan yang dipersonifikasikan, serta kebenaran, pengudusan, dan penebusan kita (1 Kor. 1:30).
+
+### Bahagian III: Penerapan
+
+Kebijaksanaan dan kebodohan didapati berkait rapat dalam bab pembukaan surat Paulus kepada gereja di Korintus. Dia membantu pembacanya memahami bahawa “kebijaksanaan manusia tidak dapat membawa kepada pengetahuan penyelamatan yang benar tentang Tuhan, yang hanya tersedia melalui kebodohan Injil (ayat 21).” —"1 Corinthians” in Andrews Bible Commentary, ed. Ángel Manuel Rodríguez et al. (Berrien Springs, MI: Andrews University Press, 2022), hlm. 1620. Bincangkan Bersama kelompok anda soalan berikut semasa anda merenungkan 1 Korintus 1:17-31:
+
+1. Apakah yang boleh menjadi batu sandungan terhadap iman kita, walaupun kita mempunyai kelebihan untuk melihat kembali hampir dua ribu tahun sejarah gereja dan sejarah tafsiran alkitabiah?
+2. Apakah hujah terbaik untuk dikemukakan kepada mereka yang menganggap mesej Injil sebagai bodoh atau hanya “penenang bagi orang yang jahil”?
+3. Apakah aspek daripada Kabar Baik tentang salib yang dapat menyentuh hati orang dalam komuniti anda di luar gereja? Sebaliknya, apakah perkara yang mungkin menjadi halangan bagi mereka untuk menerima Injil?
