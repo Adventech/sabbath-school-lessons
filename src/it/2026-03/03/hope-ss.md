@@ -1,0 +1,64 @@
+---
+title:  Il nocciolo della questione
+date:   10/07/2026
+---
+
+La Scuola del Sabato di questa settimana ci propone lo studio dei capitoli 3 e 4 insieme. Nel 1883, la lezione propose lo studio di 1 Corinzi 2:6-16 e dei capitoli 3-4. Nel 1966, i capp. 3 e 4 sono stati studiati insieme ai capp. 1 e 2. Nel 1998, il cap. 3 è stato studiato insieme a 1:10-17 e il cap. 4 insieme al cap. 9.
+
+### Introduzione
+
+La lezione di questa settimana esplora l’argomento dei gruppi esistenti nella chiesa di Corinto. Questo tema è presente in diversi momenti della lettera, ma è principalmente concentrato nei capitoli 1-4. Rimanendo a quello che ci racconta Paolo, sembra che lui abbia ricevuto un racconto della situazione esistente a Corinto tramite «la gente di Cloe» (1 Co 1:11), che gli hanno riferito che c’erano contesa e divisioni tra i fratelli e le sorelle. Questi gruppi, che si formavano all’interno della chiesa, si strutturavano intorno a una figura di riferimento apostolica: Paolo, Apollo o Cefa. E sembra che ci fosse anche un altro gruppo che forse si vedeva al di sopra e al di fuori di questi tre personaggi e cercava di ancorarsi direttamente a Cristo.
+
+Vediamo un po’ questa dinamica di divisioni in gruppi anche in altri capitoli di questa lettera. Interessante il commento di Sánchez Bosch a questo proposito quando afferma: «È come se la coscienza di gruppo li inducesse a considerare “estranei” quelli che appartenevano a un gruppo diverso, al punto da trascinarli, se valeva la pena, davanti a tribunali pagani (6:1)».<sup>33</sup> Si può intravvedere anche un po’ la divisione esistente tra questi gruppi anche nelle occasioni di condivisioni del pasto, in cui alcuni venivano persino emarginati (cfr. cap. 11).
+
+Il tema centrale in questi capitoli, secondo R.B. Hays, non è più la croce, ma l’appartenenza a Dio (1 Co 3:22,23),<sup>34</sup> a cui io aggiungerei l’unità. Questa sezione parla della chiesa attraverso delle metafore: campo di Dio (v. 9), edificio di Dio (v. 9) e tempio di Dio (vv. 16,17).
+
+### La questione dell’unità
+
+Il filosofo e teologo austriaco Jacob Taubes racconta nell’introduzione del suo libro La teologia politica di San Paolo che, in occasione di un seminario a Heidelberg, lui aveva l’intenzione di sviluppare i capitoli 1-4 di 1 Corinzi,<sup>35</sup> ma poi decise di cambiare rotta e si dedicò alla Lettera ai Romani, quasi come fanno tutti i grandi teologi che, quando vogliono lasciare un testamento teologico che reinterpreti lo status quo, si volgono a quel testo (si veda ad esempio Martin Luther e Karl Barth). Nel caso di Taubes, tuttavia, l’analisi si concentrò su una fetta più ristretta di quel testo, ovvero soltanto sui capp. 9-11. Per ciò che ci riguarda in questo Nocciolo, la cosa importante è la sua affermazione che «l’intero testo [di 1 Corinzi 1-4] ruota e si costruisce attorno» al termine pas, tradotto molto spesso come «tutti/ogni».
+
+Paolo nell’introduzione di 1 Corinzi afferma che, in Cristo, la comunità di Corinto era stata arricchita «in ogni cosa», «in ogni parola» e «in ogni conoscenza» (1:5). In altre parole, loro avevano tutto. Ma quasi come un’allerta, che può diventare profezia, la chiesa di Corinto correva il rischio di considerarsi ricca, arricchita e di non aver bisogno di niente (cfr. Ap 3:17). In realtà, questo rischio era già diventato realtà e ora Paolo, proprio in questi capitoli, cerca di affrontare la questione e di volgere l’attenzione dei Corinzi a ciò che è importante davvero quando si ha tutto di tutto e si rischia la prepotenza. Era necessario che tutti (pas) avessero «un medesimo parlare», «un medesimo pensare» e «un medesimo sentire» (1 Co 1:10).
+
+Su questo non si discute e credo siamo tutti d’accordo. Ciononostante, la domanda è praticamente scontata: come si fa ad avere un medesimo parlare, pensare e sentire? Non sarebbe questo una forma per escludere l’individualità, la personalità e la soggettività? Può il collettivo inglobare l’individuo al punto da non rendere più possibile vederne le differenze, ma soltanto l’uniformità?
+
+Prima di affrontare le questioni citate, è necessario, tuttavia, precisare un punto che può cambiare il modo in cui leggiamo un testo. Non credo di riuscire a sintetizzare meglio questo elemento di quanto abbiano fatto gli autori di Ritratti di Paolo<sup>36</sup> perciò riproduco qui la loro spiegazione riguardo alle società dove prevale l’individualismo e a quelle dove il collettivismo, invece, ha il suo volto:
+
+Individualismo significa, grosso modo, che gli obiettivi personali sono anteposti a quelli del gruppo; all’opposto, il collettivismo vuole che gli obiettivi del gruppo siano naturalmente prioritari rispetto a quelli individuali. L’individualismo americano, in quanto orientamento culturale, era ed è ancora un modo d’essere persona completamente estraneo a qualsiasi contesto del mondo mediterraneo antico, e anche nel mondo contemporaneo si può riscontrarlo soltanto in segmenti sociali ricchi, caratterizzati da mobilità sociale e geografica. Lo sviluppo delle culture individualiste è inoltre avvenuto solo dove i valori dell’Illuminismo hanno permeato la società e dove l’agricoltura è divenuta l’attività di pochissimi. La versione contemporanea del sé individualistico si è affermata abbastanza tardi, e certo nel Mediterraneo del I secolo era ignota (cf. Duby-Braunstein 1988). Sarebbe quindi affatto improprio, per non dire eticamente discutibile, immaginare le persone di quell’epoca e di quei luoghi sulla base dell’esperienza personale euro-americana. Per un’interpretazione storicamente e culturalmente veridica dei modelli collettivisti di personalità, è necessario rivolgersi a modelli nativi, compiutamente esposti nella letteratura retorica, proginnasmatica [preparatoria, ndr.] e fisiognomica che si è vista. Rinunciare a servirsi delle rappresentazioni native degli informatori mediterranei antichi non può che indurre in errori di anacronismo ed etnocentrismo.
+
+### Il problema dei gruppi
+
+Nel capitolo 3, Paolo richiama l’introduzione dove lui aveva già presentato il problema dei diversi gruppi all’interno della comunità (cfr. 1:12). Questa volta, tuttavia, lo fa non soltanto nominando alcuni dei partiti esistenti all’interno della comunità (vengono citati solo quelli di Paolo e di Apollo, mentre spariscono quelli di Cefa e di Cristo), ma qualificandoli. Qualsiasi persona o gruppo che provi a organizzarsi sotto l’autorità di una figura di riferimento all’interno della comunità viene qualificata come carnale, non spirituale, bambina in Cristo, nutrita a latte e non ancora matura.
+
+Purtroppo, era questo il contesto che Paolo aveva trovato all’interno della comunità e non aveva potuto evitarlo. Si adeguò e parlò alle persone nelle situazioni in cui si trovavano. Il fatto che Paolo nomini ora soltanto due gruppi può essere un indizio che questi fossero i due poli di tensione principali all’interno di quell’assemblea. Non ci risulta che Pietro (Cefa) abbia mai visitato quella comunità; può darsi che alcuni si collegassero a lui come fonte di autorità apostolica diretta per il tempo che aveva trascorso insieme a Cristo. Un gruppo che si legasse a Cristo direttamente poteva essere un modo per elevarsi super partes e avere un fondamento diretto in Cristo. Tuttavia, anche quando ci ancoriamo a una figura d’autorità o addirittura nello stesso Cristo, ma ci dividiamo, ci escludiamo e ci allontaniamo, in realtà non abbiamo capito ancora cos’è «stare perfettamente uniti».
+
+### Campo, edificio e tempio in quanto unità
+
+Un po’ come faceva Gesù – con la differenza che lui usava la natura come sottofondo per le sue parabole – Paolo presenta delle immagini, delle metafore della vita urbana per far capire e sviluppare il suo pensiero e aiutare la comunità a comprendere cosa lui intende quando parla di unità in Cristo. Paolo e Apollo non sono altro che servitori, cioè diakonos. Qui vediamo che la parola diacono non aveva ancora assunto il significato funzionale e istituzionale all’interno della comunità. Diacono non era ancora l’incarico che alla fine del primo secolo, all’epoca della memoria (60-90 d.C.), si sviluppò, riferendosi al lavoro dedicato da alcune persone in favore dei poveri, delle vedove e all’organizzazione delle mense (At 6:1-6). Diacono all’epoca del carisma (30-60 d.C.) è chi si mette all’opera, per servire l’altro, avendo o meno un incarico riconosciuto ufficialmente. Nel caso specifico di Paolo e Apollo sono diaconi, servitori, tramite i quali la parola di Gesù e Gesù stesso sono arrivati ai Corinzi.
+
+Per consolidare e rendere più saldo questo importante concetto di diaconia collaborativa, Paolo presenta tre immagini, metafore della vita quotidiana, che hanno l’intento di chiarire e dare concretezza al suo discorso. Ecco le tre metafore: 1) il campo di Dio (1 Co 3:9); 2) l’edificio di Dio (3:9) e 3) il tempio di Dio (3:16). Esiste un elemento attivo che accumuna queste tre immagini. I collaboratori, nel caso specifico Paolo e Apollo, hanno un compito importante da svolgere. Sono gli agricoltori della terra, che contribuiscono piantando o annaffiando. Gli architetti lavorano al progetto di questo edificio e poi lo mettono in opera, dato alcuni ne gettano le fondamenta e altri costruiscono sopra.
+
+Ma come si correlano queste tre immagini con la questione dell’unità? Innanzitutto, da un punto di vista di organicità, si tratta di organismi che nel loro insieme formano un’unica cosa: un campo, un edificio, un tempio. Però, allo stesso tempo, nei dettagli e nello specifico, sono organismi compositi e diversificati. Un campo è composto di grani diversi, di fiori variegati, di una fauna e di una flora ricca. Un edificio, oltre al suo fondamento, è composto da diversi piani, con dettagli edilizi molto vari. Un tempio non è fatto solo di una stanza, ma di diverse aree e di tanti altri oggetti che sono necessari per il servizio lì svolto. Ecco, il primo elemento e l’immagine di unità. A dispetto delle diversità, quando si guarda tutto il complesso, vediamo una medesima cosa.
+
+Il secondo elemento che mette in luce l’unità è l’affermazione di Paolo che lui e Apollo, poco importa chi pianta e chi annaffia, sono la stessa cosa. E cosa sono? Nulla. È sempre Dio che fa crescere (3:6,7). Ma allora non importa come uno pianta e come l’altro annaffia? A questa domanda forse Gesù risponderebbe con la parabola del grano e della zizzania (Mt 13:24-30). «Lasciate che tutti e due crescano insieme fino alla mietitura; e, al tempo della mietitura, dirò ai mietitori: “Cogliete prima la zizzania, e legatela in fasci per bruciarla; ma il grano, raccoglietelo nel mio granaio”». Paolo allo stesso modo, ma con un’immagine diversa, sposta il momento del giudizio. «[…] ciascuno riceverà il proprio premio secondo la propria fatica» (1 Co 3:8) e «il fuoco proverà quale sia l’opera di ciascuno (3:13).
+
+Dunque, la nostra preoccupazione deve essere meno concentrata sulla fatica del lavoratore e sul materiale usato nell’opera di Dio. Meno sull’elemento individuale e più sul fondamento. Questo sì deve essere uno, unico e indiscutibile: Cristo Gesù nostro Signore. Ecco perché Paolo afferma che «nessuno può porre altro fondamento oltre a quello già posto, cioè Cristo Gesù» (3:11). Ecco la nostra unità e la nostra identità.
+
+Alla fine del capitolo 3, il vocabolo greco pas (tutto/ogni) ritorna per due volte (vv. 21,22). Coloro che sono stati arricchiti di «ogni cosa», «ogni parola» e «ogni conoscenza» non hanno bisogno di dividersi in partiti intorno a un uomo. Non è necessario vantarsi degli uomini, apostoli e servitori, poiché «tutto [panta] vi appartiene. Paolo, Apollo Cefa, il mondo, la vita, la morte, le cose presenti, le cose future, tutto [panta] è vostro. E voi siete di Cristo; e Cristo è di Dio» (3:21,22). Ecco l’unità che dobbiamo perseguire e raggiungere.
+
+### Per riflettere
+
+Il teologo Richard B. Hays afferma che esiste un’«urgenza di edificare la chiesa in modo solido»<sup>37</sup> e il sociologo Zygmunt Bauman afferma che viviamo in una società liquida.<sup>38</sup> La chiesa deve essere solida se la nostra società è fluida? Una chiesa solida è in grado di contenere una società liquida? Non siamo, alla fine, fluidi anche noi, per il fatto di vivere in una società fluida e liquida? Non sarebbe una incoerenza provare a costruire una chiesa solida, se come chiesa siamo un insieme di persone fluide radunate?
+
+---
+
+<sup>34</sup> R.B. HAYS, 1 Corinthians, p. 71.
+
+<sup>35</sup> J. TAUBES, La teologia politica di San Paolo, p. 19.
+
+<sup>36</sup> B.J. MALINA, J.H. NEYREY, Rittrati di Paolo, p. 165.
+
+<sup>37</sup> R.B. HAYS, 1 Corinzi, p. 73.
+
+<sup>38</sup> Z. BAUMAN, Modernità liquida.
+
+<sup>39</sup> A.C. THISELTON, 1 Corinthians, pp. 126, 127.
