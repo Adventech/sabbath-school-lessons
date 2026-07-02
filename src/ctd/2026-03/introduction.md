@@ -1,0 +1,19 @@
+### Christian Nundan leh Tecipanna A Thupaipi
+
+Lai kikhak nasep pen sawtvei pi hikhin napi bei ngeilo hi. A lai kikhak dan kikheel suksuk bek hi. Tua hi a, mipi thu kizaksakna (social media) in laidal thuthang (owif;pm) khenggawp ta hi. Bangpeuh hitaleh a thupaipi in email leh khuaphia laikhakna teng zong, a nasepdan uh kibang veve a, theihhuai thu, lungsim leh ngaihsutna tawh kizopna omsak thei veve hi.
+
+Mihing te banghang in lai kikhak hiam? Dawn pakna khat in gennop nei uhhi cih ahihi. Sawltak Paul zong tua mahbang in gen ding tampi nei hinapi’n; a hopihnop mite tawh maitang kimu theilo citciat uhhi.
+
+Tua ahih manin in Corinth mite bangpen laikhak a, tua laikhakte sungah thumaan thuthukpite om hi. Tuate lakah “Note kiangah ka om laitak in singlamteh tungah Zeisu Christ a sihna simloh thudang peuhmah ngaihsut loh dingin ka ngaihsutsa ahihi” (1Cor. 2: 2). “Topa Zeisu zong hau mahmah napi in, Ama’ zawnna tawh note mihau nasuah theihna dingun; note hangin mizawng in hong kibawl” (2 Cor. 8: 9). Tua banah itna a kiphuah lagui khat zong 1 Cor. 13 sungah om hiven.
+
+Thukhat panin zong, Paul’ laikhak a simkha peuhmah pen a lungsim uh buaithei mahmah ding uhhi. Pawlpi sunga buainate; zualzangna, pawlpi mite lakah kithutuahloh na hangin pawl kikhenna cih khawngpeuh om bialbual hi. Nangma pawlpi sungah tua bang peuh omtuak nasakleh; Corinth mite laka kinialna teng Paul in a vensakna teng sim dingin na kithawi khol in. Na pawlpi sunga buaina tepen hong cihtaak lo khathei sop ding hi. Corinth mite lakah suksia mahmah ahihlam namu zaw ding hi.
+
+Corinth mite’ buaina teng in lungsim hong buaisak zo mahmah a, Corinth mite tungah laikhakte in zong lungsim lazo mahmah hi. Amau’ lakah thubuai hang hizawlo a, Paul in a talsik dan teng lungluthuai zaw hi. Pawlpi mite in amau mahmah, a gamtatzia leh a kimkot a mite ngeina teng pen Zeisu’ lungdamthu tawh sittel dingin hanthawn a, Singlamteh thupuak mahmah pahtawi hi. Paul kammal mahmah zatsak lehang, lungdam thu sangin dinmun a niamzaw thupuak khat peuhmah peh “anathema (samsiatna)” (Gal. 1; 8, 9) ahi hi.
+
+Paul’ hunlai in, Corinth khuapen hauhna leh vanzuakna, tembaw khawlna, khut siamna, tembaw lamna leh beelsekna ah minthang mahmah hi. A khuapi mahmah zong sum phualpi khat ahi hi. Tua kawmkal mahah zualzangna, biakna kihelzau ziazua in pasian tuamtuam te biakpiakna taattungte zong om hi. Corinth khua sung nisim nundan pen milim biakna in minthang vangvang hi. Hih taang ngeina pianpih teng hangin; Paul in Christian te a dingin Paul’ ngiimna bulpi leh amau a hanthotna teng zong hong telsak tuam zaw ding hi.
+
+Tu quarter sungteng, Corinth mite tungah Paul’ laikhak teng encian ding hihang. Hih laisiangthothak laibu nihte sungah, Sawltakpa in Christian nundan leh teci panna thu paipi ahi lungdamthu hong piakhia a; tuapen zongin na khempeuh etcianna limlang tawh kibang hi. Vantung lam zuan khualzinna lampi ah eimah mimal ihi a, pawlpi tawh ahi zongin bangpeuh tuak taleng – a dawnna pen ahihleh Corinth mite sungah Christ a dingin nasepna tengmah hong hi ding a: “Singlamteh tungah Zeisu Christ a sihna” (1 Cor. 2: 2) mah hibek hi.
+
+Zeisu hong paibaih ta ding hi. Tuhun pen Christ sungah ki pumkhat semsem ding; nidang sangin Khasiangtho sangzaw semlai ding; kha silpiakte peuhmah kuhkal takin zangsiam ding; a thokik i Topa tawh a thukzaw in kikhawlh ding hun ahi hi. Christian Pasian nasepna citak sep ding hun, kepcinna leh mission nasepna, kamsang zuaute tawh khalam kidonna, hehpihna, itna leh kikhawlhna sungah khantoh ding hun ahi hi. Singlam- teh’ thupuak leh Corinth mite tungah Paul’ laikhakna tawh a thuhilhna te kiptakin letkip hun ahi hi.
+
+_Adenilton Tavares de Aguiar, PhD, in, Brazil gam, Bahia gamkee Cachoeira khua Northeast Adventist College ah Laisiangthothak letkhiatna lamah professor hi a, 2010 kum panin tuni ciang dong sem gige lai hi._
