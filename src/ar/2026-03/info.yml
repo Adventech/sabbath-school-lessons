@@ -1,0 +1,28 @@
+---
+  title: "رِسالَتاكورنثوس الأولى والثانية"
+  description: "إنَّ كتابة الرَّسائل نشاط قديم، لكنَّه ما يزال معروفًا حتَّى اليوم. كلُّ ما في الأمر أنَّنا غيَّرنا الطَّريقة التي تُكتب بها الرَّسائل. صحيحٌ أنَّ وسائل التَّواصل الاجتماعيّ حلَّت"
+  human_date: "يوليو · أغسطس · سبتمبر 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Adenilton T. de Aguiar"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Scheidweiler"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
+    - name: Middle East and North Africa Union Publishing Ministries Director
+      value: "Alexander Clemente"
+    - name: Associate Publishing Ministries Director
+      value: "Ashraf Fawzy"
+    - name: Translation to Arabic
+      value: "Hazem Ezzy"
+    - name: Arabic Layout and Design
+      value: "Joanna Touma"
