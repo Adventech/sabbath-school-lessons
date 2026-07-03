@@ -1,0 +1,60 @@
+---
+title:  Jedinstvo u Hristu
+date:  17/07/2026
+---
+
+**Ključni tekst:** 1. Korinćanima 1,10
+
+**Središte proučavanja:** 1. Korinćanima 1,10–17; 1. Korinćanima 3,18–23; Filibljanima 2,1–8
+
+#### Prvi deo: Opšti pregled
+
+**Uvod:** U jednom malom gradu, grupa dobrovoljaca okupila se da obnovi dom kulture nakon razorne oluje. Temelj je bio snažan, a materijal kvalitetan. Imali su sve što im je bilo potrebno: cigle, malter i alat.
+
+Međutim, čim su radovi otpočeli, izbile su nesuglasice. Jedan tim je insistirao: „Cigle se moraju ređati ovako – tako je efikasnije.“ Drugi su se usprotivili: „Ne, mi smo oduvek radili na ovaj način!“ Neki radnici su odbijali da primaju uputstva od ostalih, govoreći: „Mi slušamo samo vođu svoje grupe.“ Nekolicina je čak i napustila gradilište uz reči: „Ako ta grupa učestvuje u ovome, mi ne želimo da budemo deo toga.“
+
+Do kraja dana, ono što je trebalo da bude čvrst zid, pretvorilo se u neuglednu „zakrpu“ – neke cigle su stajale nakrivo, druge su nedostajale, a čitava struktura bila je nestabilna. Bio bi dovoljan i blag pritisak da se sve sruši. Prolazeći tuda, jedan stari iskusni zidar je odmahnuo glavom i rekao: „Cigla sama za sebe nije ništa drugo do običan kamen. Ali cigle koje se uklapaju jedna uz drugu, spojene malterom – to je zid. To je snaga.“
+
+Baš poput tih cigli, crkva u Korintu – ali i današnja crkva – mogla je da stoji čvrsto samo onda kada je bila ujedinjena u Hristu, koji je njen temelj. Podela slabi telo zajednice. Ali kada ostavimo po strani ponos i sledimo Hristov primer služenja, mi bivamo čvrsto utemeljeni i ostajemo postojani.
+
+**Glavne teme pouke za ovu sedmicu**
+
+U ranoj crkvi, jedna od najvećih pretnji jedinstvu nije bilo progonstvo – bio je to ponos. U odlomcima za ovu sedmicu mogu se pronaći dve glavne teme povezane sa ovim problemom, koje se ukratko mogu sažeti ovako:
+
+**1. Pretnja kultova ličnosti**: U Prvoj poslanici Korinćanima, Pavle se obraća vernicima koji su se međusobno delili na osnovu privrženosti različitim vođama – stvarajući kultove ličnosti oko Pavla, Apola i Kife. Te frakcije su od darovitog vođstva načinile izvor razdora, skrećući pažnju crkve sa njenog istinskog temelja – Isusa Hrista.
+
+**2. Sila hristolikog služenja**: Nasuprot tome, Poslanica Filibljanima (Filibljanima 2,1–8) nudi nam protivotrov – hristoliku poniznost. Pavle usrdno poziva vernike da odbace sebične ambicije i da ne gledaju samo na sopstvenu korist, već i na dobrobit drugih. On ukazuje na Isusa koji je, iako jednak Ocu, uzeo obličje sluge, ponizio samoga sebe i postao poslušan do smrti. To je istinski obrazac jedinstva – ljubav spremna na žrtvu.
+
+Zajedno, ovi odlomci pozivaju crkvu da odbaci gordost i borbu za prevlast i da, umesto toga, teži jedinstvu kroz poniznost i služenje drugima, sledeći primer samoga Isusa Hrista.
+
+#### Drugi deo: Komentar
+
+**1. Kontekst**: Ropstvo je bilo surova stvarnost novozavetnog sveta. Grčka terminologija koja se koristi u Novom zavetu ne pravi jasnu razliku između „sluge“ (na primer, zaposlenog koji pod nadzorom nadređenog obavlja specifične zadatke i za to prima platu) i „roba“. Ispravan prevod grčkog termina *doulos* („sluga, rob“), na primer, mogao bi biti ili „sluga“ ili „rob“, što je zavisilo od konkretnog konteksta. Istoričari procenjuju da je u Rimskom carstvu tokom prvog veka nove ere bilo porobljeno čak dvanaest miliona ljudi – između šesnaest i dvadeset procenata celokupne populacije od najmanje šezdeset miliona stanovnika (S. Skot Barči, „Robovi i ropstvo u Rimskom carstvu“, u: „Svet Novog zaveta“, urednici Džoel B. Grin i Li Martin Mekdonald, str. 170. originala [S. Scott Bartchy, *Slaves and Slavery in the Roman World, in The World of the New Testament*, ed. Joel B. Green and Lee Martin McDonald (Grand Rapids: Baker Academic, 2013), p. 170]).
+
+Robovi su često bili cenjeni članovi šireg domaćinstva i ponekad su zauzimali odgovorne položaje u kući. Za razliku od prakse ropstva u Novom svetu (Americi), ni boja kože ni etničko/rasno poreklo nisu ukazivali na status roba u populaciji Rimskog carstva. Rimsko pravo je pažljivo regulisalo postupanje prema robovima, a mnogi robovi su mogli očekivati da će ih vlasnici osloboditi kasnije u životu. Ipak, ropstvo nije bila humana institucija. Mnogi robovi su užasno patili pod okrutnim gospodarima i trpeli sve moguće vrste zlostavljanja.
+
+Činjenica da nekoliko novozavetnih odlomaka koristi terminologiju i slike povezane sa ropstvom ukazuje na važnost razumevanja ropstva za one koji žele da razumeju kulturološku pozadinu Novog zaveta. „Tri ključne reči u Pavlovom rečniku – ’otkupljenje’, ’opravdanje’ i ’pomirenje’ – direktno se oslanjaju na proces i rezultate oslobađanja iz ropstva“, primećuje S. Skot Barči (S. Skot Barči, „Robovi i ropstvo u Rimskom carstvu“, u: „Svet Novog zaveta“, urednici Džoel B. Grin i Li Martin Mekdonald, str. 176. originala [S. Scott Bartchy, *Slaves and Slavery in the Roman World, in The World of the New Testament*, ed. Joel B. Green and Lee Martin McDonald (Grand Rapids: Baker Academic, 2013), p. 176]). Takva terminologija i koncepti pomogli su čitaocima da razumeju važne teološke pojmove, uključujući i onaj koji opisuje oslobađanje vernika iz ropstva grehu i otuđenosti od Boga.
+
+**2. Kultovi ličnosti – Pretnje jedinstvu**: Pretnje jedinstvu dolaze u mnogo različitih oblika, a Pavle se nekima od njih bavi već na početku svoje poslanice. Davno pre vremena influensera na društvenim mrežama, sportskih superzvezda, pastora megacrkava, superbogatih milijardera ili harizmatičnih svetskih vođa, ljudi su već tada sledili svoje omiljene duhovne vođe. Sleđenje različitih duhovnih vođa u kontekstu crkvene zajednice može dovesti do prepirki, a često rezultira podelama. Te podele mogu da dovedu do stvaranja neprijateljskih grupa koje su u stalnom sukobu. Čini se da je u crkvi u Korintu postojalo nekoliko grupa koje su podržavale različite vođe.
+
+U 1. Korinćanima 1,12 spominje se nekoliko imena. Neki su tvrdili da su sledbenici Apola. Apolo je bio hrišćanin jevrejskog porekla, rodom iz Aleksandrije, „čovjek rječit i silan u knjigama [Svetom pismu – *ESV*]“ (Dela apostolska 18,24). Sigurno je bio vrstan govornik i propovednik koji je impresionirao publiku svojom retorikom i entuzijazmom u propovedanju Isusa Hrista (Dela apostolska 18,25). Apolo je pomogao u izgradnji crkve u Korintu dok je Pavle bio u Efesu (Dela apostolska 19,1); ipak, pre toga, čini se da nije čuo za krštenje Duhom (Dela apostolska 18,25).
+
+Drugi su iskazivali odanost Kifi, što je aramejski oblik imena Petar. Petar je bio prvi od apostola koji je služio nejevrejima (Dela apostolska 10) i, zbog svoje vodeće uloge među apostolima, mnogi su ga smatrali glavnim hrišćanskim vođom ili simbolom pokreta. Treći su tvrdili da slede Pavla. Iako su imali različite pristupe misiji, zanimljivo je primetiti da su se ove vođe svesno trudile da podržavaju, a ne da kritikuju rad onih drugih (vidi, na primer, Petrovu podršku Pavlu u: 2. Petrova 3,15, kao i Pavlovu potvrdu Apolovog rada u: 1. Korinćanima 3,4–7).
+
+Međutim, treba primetiti i da su bili spremni na međusobnu kritiku ako bi to određeno pitanje zahtevalo. Pavlov sukob sa Petrom u vezi sa važnim pitanjem zajedništva sa vernicima koji su bili neznabožačkog porekla, kao i pitanjem važnosti obrednih zakona i opravdanja verom (vidi Galatima 2,11–21) dobar nam je primer za to. Uprkos snažnim vezama koje su povezivale različite vođe rane crkve, neki vernici su ipak uspevali da učenja tih vođa suprotstave jedna drugima kako bi stvorili podelu.
+
+Pavlovo predloženo rešenje nalazi se u 1. Korinćanima 3,18–23. On ističe opasnost od samooobmane kod svojih čitalaca u Korintu. Oni su sebe smatrali „mudrima“, ne razumevajući da se božanska mudrost neobraćenom umu čini kao ludost. Pavle citira dva starozavetna teksta (Jov 5,13 i Psalmi 94,11) kako bi potkrepio svoj argument, a zatim komentariše različite frakcije. Umesto da se upušta u raspravu o tome ko je teološki ispravniji ili dostojniji uzor, Pavle naglašava potrebu svakog člana da zadrži Isusa Hrista u centru svog duhovnog života i da ne dopusti nijednom vođi, ma koliko on bio rečit ili dobar, da zauzme mesto koje pripada Hristu. „Zato niko da se ne hvali čovjekom“ (1. Korinćanima 3,21), sugeriše on, jer „vi ste Hristovi, a Hristos je Božji“ (1. Korinćanima 3,23). Pronalaženje sopstvenog identiteta i prebivališta u Isusu Hristu pomaže nam u izbegavanju podela.
+
+**3. Hristoliko služenje**: Većina nas ne razume adekvatno termin „sluga“ onako kako se taj termin koristi u Novom zavetu. Filibljanima 2,1–8 nudi koristan model služenja u kontekstu jedinstva. Pavle svojim čitaocima naglašava važnost jedinstva. Semantička snaga četiri uslovne rečenice („ako“) u Filibljanima 2,1 zapravo treba da se razume „kao apel zasnovan na izvesnosti (’pošto postoji’) duhovnih stvarnosti izraženih u hrišćanskom životu“ – „Filibljanima poslanica“, u: „Endrjusov biblijski komentar“, urednik A. M. Rodrigez i dr, str. 1730. originala (*Philippians*, in *Andrews Bible Commentary*, ed. A. M. Rodríguez et al. [Berrien Springs, MI: Andrews University Press, 2022], p. 1730). Pavle potom deli svoju ličnu nadu i poručuje vernicima da „jedno mislite, jednu ljubav imate, jedinodušni i jedinomisleni“ (Filibljanima 2,2), što u krajnjoj liniji znači da njegovi čitaoci ne bi trebalo da gledaju sopstvene interese, već da budu usredsređeni na dobrobit drugih (Filibljanima 2,4).
+
+Sledeći odeljak koristi primer Isusa Hrista kao obrazac za crkvu. Članovi crkve treba da oponašaju Isusovo potpuno predanje u međusobnim odnosima. Teolozi se pozivaju na ovaj tekst kako bi opisali Isusa Hrista u Njegovom stanju pre utelovljenja (Filibljanima 2,6.7), tokom Njegovog života na Zemlji (Filibljanima 2,7.8) i Njegovog uzvišenja nakon vaskrsenja (Filibljanima 2,9–11). Isus je postao *doulos* – sluga ili rob. On je „ponizio samoga sebe“ (Filibljanima 2,7; „ispraznio se od sebe – *ESV*) ili se „odrekao svoga ugleda“ (*NKJV*). Dobrovoljno je odlučio da ne koristi svoju moć i božanske atribute kako bi mogao da bude „sluga Božji“ i da spasi ovu planetu koja je bila u pobuni. „Ovo da se misli među vama što je i u Hristu Isusu“ (Filibljanima 2,5; „Takav um neka bude i u vama kakav je bio i u Hristu Isusu“ – NKJV) predstavlja Pavlov podsetnik da i mi treba da oponašamo Njegovu ljubav – ma koliko ona bila nesavršena u ličnosti krhkih i grešnih ljudskih bića – dok gradimo odnose u svojoj zajednici vere.
+
+#### Treći deo: Primena u životu
+
+Jedinstvo (ili nedostatak istog) bilo je glavna tema u korintskoj crkvi, a takođe je i stalno prisutno pitanje unutar Adventističke crkve. Neki od nas prate svoje omiljene govornike na društvenim mrežama ili provode značajno vreme gledajući video-snimke službi koje nam se više dopadaju. Naši konflikti često uključuju razlike u razumevanju biblijske istine ili se suočavamo sa sukobima ličnosti među vođstvom. Pavlova poruka Korinćanima podseća nas da ovi sukobi nisu ništa novo. „Liderstvo kroz služenje“ je fraza koja se često čuje; ipak, mi se često mučimo da te principe primenimo na sebe i na način na koji se odnosimo jedni prema drugima.
+
+1. Kako možemo da izbegnemo zamku nejedinstva koja nastaje usled stvaranja frakcija unutar crkve?
+2. Koje strategije možemo da pronađemo u Svetom pismu koje bi nam pomogle da zadržimo Isusa u centru naše vere i naše crkvene zajednice?
+3. Koren mnogih sukoba je naše različito razumevanje biblijske istine. Mi tvrdimo da volimo istinu i da smo joj posvećeni. Kako onda možemo da se odnosimo prema onima čije se razumevanje Svetog pisma razlikuje od našeg? Šta možemo da naučimo od Onoga koji je za sebe tvrdio da je „put, istina i život“?
+4. Zašto nam je toliko teško da sledimo Hristov primer savršenog služenja?
+5. Koje bi bile biblijske strategije i praktični koraci koji bi pomogli u ostvarivanju većeg jedinstva u našim crkvama?
