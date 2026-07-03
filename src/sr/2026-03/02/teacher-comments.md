@@ -1,0 +1,54 @@
+---
+title:  Poruka krsta
+date:  10/07/2026
+---
+
+**Ključni tekst:** 1. Korinćanima 1,18
+
+**Središte proučavanja:** 1. Korinćanima 1,17–31
+
+#### Prvi deo: Opšti pregled
+
+**Uvod:** Kada se suočite sa gorostasnim zidom plamena usred šumskog požara, vaša prva misao verovatno ne bi bila da na tu ionako ekstremno opasnu situaciju dodate još vatre. Koliko god taj postupak delovao suludo, vatrogasci često čine upravo to. Da bi nastavila da gori, vatri su potrebni kiseonik i gorivo, poput suve vegetacije ili zapaljivih objekata. Ako se prekine dotok kiseonika ili snabdevanje gorivom, požar se može staviti pod kontrolu. Vatrogasci često koriste ovu tehniku, poznatu kao „protivvatra“ („protivpožar“), kako bi zaustavili ili preusmerili stihiju.
+
+Borba protiv vatre vatrom deluje protivno razumu, pa čak i bezumno, onda kada ste suočeni sa brzim vatrenim zidom koji hita ka naselju. Pa ipak, kada se sprovede pravilno i pažljivo, ova strategija može da napravi razliku između opstanka i potpunog uništenja u pepelu.
+
+Na sličan način, Pavlovo uzdizanje Hristove žrtve na krstu išlo je nasuprot opštem senzibilitetu njegovog vremena. U uvodu svoje prve poslanice korintskoj crkvi, Pavle ističe prirodu hrišćanske poruke o krstu kao suprotne kulturi toga doba – nešto što je većini nas koji živimo u zapadnom ili pretežno hrišćanskom okruženju teško da u potpunosti razumemo. Većina nas je odrasla u svetu u kome su krstovi na crkvama ili na javnim mestima postali uobičajeni simbol hrišćanstva i poruke spasenja.
+
+Međutim, za većinu ljudi koji su živeli u grčko-rimskom svetu prvog veka nove ere, krst je značio svirepu smrt, surovu kaznu i apsolutnu sramotu. Ipak, nasuprot tadašnjem opšteprihvaćenom mišljenju, Pavle je poučavao da je jevanđelje Isusa Hrista sila Božja onima koji  ga prihvate (1. Korinćanima 1,18).
+
+**Glavne teme pouke za ovu sedmicu**
+
+Pouka za ovu sedmicu ističe nekoliko važnih tema, uključujući i:
+
+1. **Poruka krsta**. Krst je Božji iznenađujući i sveobuhvatni odgovor na problem greha. On je temelj poruke jevanđelja koju su Pavle i ostali apostoli propovedali ljudima koji su imali radikalno drugačiji pogled na svet.
+2. **Prava mudrost**. Mudrost je bila ključni element grčke filozofije i glavna tema različitih filozofskih škola. Pavlova upotreba ovog termina stoji u oštroj suprotnosti njegovoj upotrebi u grčkoj filozofiji i lakše se povezuje sa razumevanjem mudrosti u Starom zavetu.
+3. **Krst: ludost ili put povratka kući**. Krst postaje ili kamen spoticanja ili ludost onima koji slušaju o njemu, a da nisu prihvatili Onoga koji je na njemu visio. Isus je umro na krstu kako bi svetu ponudio oproštaj, preobražavajuću blagodat i put povratka kući – ka Bogu koji ulaže sve kako bi spasao svoje zalutalo stvorenje.
+
+#### Drugi deo: Komentar
+
+**1. Kontekst**: Helenistički koncept mudrosti (*sofia*) u periodu Novog zaveta uzdizao je inteligenciju i teorijsko znanje iznad praktičnih veština. Filozof je bio „ljubitelj mudrosti“, neko ko razume i širi znanje o materijalnom svetu i o ljudskom iskustvu. Istina se mogla urediti u opšti sistem koji bi pomogao u objašnjavanju sveta. U to vreme postojao je popriličan broj različitih grčkih filozofskih škola sa specifičnim naglascima, ali sve su one bile usredsređene na posmatranje, razum, logiku i intelektualne argumente, iako nisu bile lišene ni etičkih preokupacija.
+
+Treba razlikovati šest glavnih grčko-rimskih filozofskih škola, uključujući: Pitagorinu školu; školu Platona i njegovih naslednika; Aristotelovu peripatetičku školu; Epikurovu školu koja je kao ideal isticala nepomućenost (*ataraxia*); kinike (koji su naglašavali jednostavnost i slobodu od  društvenih konvencija); i školu stoika, koja je u vreme novozavetnih događaja bila poznata kao rimski stoicizam (ili Pozna stoa) i postala najuticajnija filozofska škola toga doba (vidi: Džon T. Ficdžerald, „Grčko-rimske filozofske škole“, u: „Svet Novog zaveta“, urednici: Džoel B. Grin i Li Martin Mekdonald, str. 135–148. originala [John T. Fitzgerald, *Greco-Roman Philosophical Schools, in The World of the New Testament*, ed. Joel B. Green and Lee Martin McDonald (Grand Rapids: Baker Academic, 2013), pp. 135–148]).
+
+U Starom zavetu, mudrost nije ograničena na znanje ili integraciju znanja u koherentan sistem; ona, zapravo, opisuje sposobnost osobe da ispravno koristi znanje koje je u odnosnoj vezi sa Bogom. Ovo znanje je, dakle, bogomdano i rezultira donošenjem etičkih, to jest, „dobrih“ (što odjekuje jezikom Stvaranja) odluka. U odeljku 2. Mojsijeva 31,1–5 upotrebljena su tri ključna termina jezika mudrosti – *ḥokmah* („mudrost“); *binah* („razboritost/inteligencija/razum“); i *da’at* – („znanje“) – kako bi opisala božanski podarenu veštinu koja je bila potrebna umetniku Veseleilu za izradu Šatora od sastanka i njegove opreme. Upotreba ovih termina u ovom specifičnom kontekstu pomaže nam da razumemo da je mudrost u Starom zavetu praktična i da prevazilazi puki intelektualni napor.
+
+Starozavetni autori postavljaju važna pitanja o Božjoj pravdi i načinu na koji ljudi mogu da steknu istinsku mudrost, iako priznaju da sva naša pitanja, kao ni naša potraga za mudrošću, neće uvek dovesti do jasnih odgovora (na primer, Priče Solomunove 20,24; Jov 28,20.21). Mudrosna književnost u Starom zavetu obuhvata: Knjigu o Jovu, Priče Solomonove, Knjigu Propovednika i odabrane mudrosne psalme (recimo, Psalmi 37; 49; i 73).
+
+Otkriće značajnog korpusa mudrosne književnosti koja naglašava znanje među spisima kumranske zajednice (*Khirbet Qumran*) iz prvog veka pre nove ere (poznatih i kao *Svici sa Mrtvog mora*), osvetljava činjenicu da su rasprave o mudrosti bile važan element intelektualnih i filozofskih debata unutar jevrejskih zajednica pre dolaska Mesije u Palestinu (vidi: Dž. I. Kampen, „Mudrosna književnost u Kumranu“, u: „Rečnik novozavetnog konteksta: Zbornik savremenih biblijskih istraživanja“, urednici K. A. Evans i Stenli E. Porter, str. 1263 – 1268. originala [J. I, Kampen, *Wisdom Literature at Qumran, in Dictionary of New Testament Background: A Compendium of Contemporary Biblical Scholarship*, ed. C. A. Evans and Stanley E. Porter (Downers Grove, IL: InterVarsity Press, 2000), pp. 1263–1268]).
+
+**2. Bezumlje i mudrost**: Posle uvodnih pozdrava, izjava zahvalnosti i poziva na jedinstvo, Pavle svoju poruku mladoj crkvi u Korintu započinje usredsređujući se na bezumlje i mudrost. Reči iz 1. Korinćanima 1,18–31 predstavljaju retorički vrhunac Novog zaveta. Pavlova osnovna teza upućena Korinćanima sugeriše da je jevanđelje nekima ludost, dok drugima predstavlja spasonosnu silu Božju (1. Korinćanima 1,18). Ovaj paradoks je značajan jer ukazuje na ono što Pavle ističe u kasnijim poglavljima – ljudska slabost je zapravo prilika da Bog pokaže svoju snagu.
+
+Ostatak odeljka nudi niz kontrasta između mudrog i ludog, Boga i sveta, snažnog i slabog. Krst, instrument svirepog rimskog mučenja i smrti, postao je sredstvo pomoću koga je Bog ostvario spasenje. Ovaj argument, koji leži u osnovi celokupnog propovedanja Pavla i rane hrišćanske crkve, morao je delovati neprirodno i paradoksalno mnogim novim vernicima, obraćenicima iz neznaboštva. „Reč o krstu“ (1. Korinćanima 1,18 – ESV; „Riječ krstova“ – Daničić, Karadžić) predstavlja skraćeni izraz za poruku o smrti i vaskrsenju Isusa Hrista, koja nudi spasenje onima koji su tu reč čuli i u nju poverovali. Tako dobijamo nagoveštaj osećaja bezumlja koji bi u toj poruci lako prepoznao bilo koji grčko-rimski posmatrač – kako bi Bog mogao da spasi ljude (i svet) kroz smrt razapetog, osuđenog prestupnika? Jevreji bi, s druge strane, ovu poruku doživeli kao „kamen spoticanja“ (*ESV*) ili „sablazan“ – grčki *skandalon* („skandal“), kao što je zabeleženo u 1. Korinćanima 1,23. Ova sablazan, s jedne, ili ludost, s druge strane, metaforički se odnosi na prepreku nečijoj veri.
+
+**3. Radosna vest krsta**: Od samog početka, Pavle tvrdi da je poruka krsta sila Božja onima koji bivaju spaseni. Krst vernicima nudi ključ za razumevanje Božje mudrosti koja nudi spasenje onima koji niti zaslužuju pravednost, niti je ikada sami mogu dostići. Krst je, takođe, više od znaka ili simbola, iako ga Jevreji kao takvog ne prepoznaju, uprkos tome što čeznu da vide čudesne znake (Matej 12,38.39; Marko 8,11.12; takođe, 1. Korinćanima 1,22). Želja za posmatranjem znakova i čuda odražava suštinsko duhovno slepilo, pa možda čak i tvrdoću srca onih koji ih „zahtevaju“ (a ne „traže“). Jevanđelje o raspetom i vaskrslom Hristu ne podstiče veru kod Jevreja ili Grka, već im, naprotiv, postaje „sablazan“ (Jevrejima), odnosno „ludost“ (Grcima). Pavle sažima ovu stvarnost u 1. Korinćanima 1,25: „Jer je ludost Božja mudrija od ljudi, i slabost je Božja jača od ljudi.“
+
+Ova objava vodi Pavla do sledeće važne tvrdnje: Božji izbor onih koji čine crkvu u Korintu nije se zasnivao na njihovoj mudrosti, sili ili uticaju, već isključivo na Božjoj suverenosti (1. Korinćanima 1,26–29). Božji izbor se nikada ne temelji na ljudskim dostignućima, moći ili uticaju, već predstavlja Božji odgovor na naše hvatanje za Isusovu ruku putem vere. Mi ponekad možemo da zgrabimo celu ruku, dok drugi put jedva uspevamo da se zadržimo za vrh malog prsta Njegove ruke – ipak, budite uvereni, mi možemo da se pouzdamo u to da smo u samom središtu Božje blagodati. Ovo saznanje nas, prema Pavlu, spasava i od hvalisanja sopstvenim „dostignućima u veri“. Stoga: „Ko se hvali, Gospodom neka se hvali“ (1. Korinćanima 1,31; upućujući na: Jeremija 9,23.24). Zanimljivo (a možda već i nagovešteno kroz personifikaciju mudrosti u osmom poglavlju Priča Solomunovih u Starom zavetu), Isus Hristos je personifikovana mudrost od Boga, naša pravda i osvećenje i iskupljenje (1. Korinćanima 1,30).
+
+#### Treći deo: Primena u životu
+
+Mudrost i ludost tesno su povezane u Pavlovom uvodnom poglavlju prve poslanice crkvi u Korintu. On pomaže svojim čitaocima da razumeju da „ljudska mudrost ne može da dovede do istinskog, spasonosnog poznanja Boga, koje je dostupno samo kroz ’ludost’ jevanđelja (vidi: 1. Korinćanima 1,21)“ – „Prva poslanica Korinćanima“, u: „Endrjusov biblijski komentar“, urednik Anhel Manuel Rodrigez i dr, str. 1620. originala (*1 Corinthians, in Andrews Bible Commentary*, ed. Ángel Manuel Rodríguez et al. [Berrien Springs, MI: Andrews University Press, 2022], p. 1620). Razmotrite sa svojim razredom sledeća pitanja dok razmišljate o tekstu iz 1. Korinćanima 1,17–31:
+
+1. Šta bi danas moglo da predstavlja „kamen spoticanja“ za našu veru, iako smo u prednosti jer možemo da se osvrnemo na skoro dve hiljade godina istorije crkve i istorije biblijskog tumačenja?
+2. Koji bi bio najbolji argument koji bismo mogli da uputimo onima koji poruku jevanđelja smatraju ludošću ili samo „sedativom za neuke“?
+3. Koji aspekt, ili aspekti, radosne vesti o krstu bi privukli one ljude iz vaše društvene zajednice koji su izvan crkve? Šta bi im, s druge strane, otežalo prihvatanje jevanđelja?

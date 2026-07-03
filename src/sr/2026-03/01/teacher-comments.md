@@ -1,0 +1,61 @@
+---
+title:  Pavlova služba u Korintu
+date:  03/07/2026
+---
+
+**Ključni tekst:**  Dela apostolska 18,9.10
+
+**Središte proučavanja:**  1. Korinćanima 1,1-3; Dela apostolska 18,4-10.
+
+#### Prvi deo: Opšti pregled
+
+**Uvod:** Prva lekcija rezimira dugu istoriju Božjeg naroda u Egiptu, koja se proteže od Josifovog vremena, kada je Izrailj doživeo ogroman napredak, sve do njihovog porobljavanja pod okrutnim faraonom, koji je naredio pogubljenje svih muških beba. Međutim, Bog nije pasivan kada sile zla pokušavaju da unište Njegov narod, On tada postaje njihov Spasitelj. Zato je poslao izbavitelja, svog slugu Mojsija, čija je čudesna zaštita pri rođenju dovela do njegovog uključivanja u faraonovu porodicu kao usvojenog sina. Prvih 40 godina Mojsijevog života obeleženo je najboljim obrazovanjem, koje je prvo dobio od svoje majke, a zatim u egipatskim školama. Iako je bio obučen da sedne na presto Egipta i postane veliki vođa, Mojsije se, kroz svoje greške i Božju promisao, našao u Jotorovom domu. Tu se oženio i postao pastir.
+
+Jedna nedavno objavljena karikatura prikazuje veoma krupnu stariju gospođu koja sedi u lekarskoj ordinaciji. Lekar ima zaprepašćen izraz lica. Natpis ispod karikature glasi: „Doktore, ja sebe vidim kao vitku šesnaestogodišnjakinju i smatram duboko uvredljivim to što tvrdite da moja težina u mojim godinama ugrožava moje zdravlje.“
+
+Kao što ova karikatura duhovito pokazuje, način na koji sebe doživljavamo je ključni deo našeg identiteta. Osobe koje se muče da odrede svoj identitet, mučiće se i da ispune svoju svrhu ili misiju u životu.
+
+Pouka za ovu sedmicu uvodi nas u dve misijski usmerene knjige Novog zaveta – Prvu i Drugu poslanicu Korinćanima. Takođe se upoznajemo sa samim autorom, Pavlom, a naročito sa njegovom misijom i svrhom obraćanja Korinćanima.
+
+**Glavne teme pouke za ovu sedmicu**
+
+Pored uvoda u istorijski kontekst crkve u Korintu i način na koji je ona osnovana, ova pouka će se usredsrediti na sledeća pitanja i teme:
+
+1. **Kulturološki i istorijski kontekst**. Razmotrićemo važne kulturološke i istorijske činioce koji imaju značaj za proučavanje poslanica upućenih Korinćanima.
+2. **Strateška služba**. Kakva je bila Pavlova strategija za službu u Korintu? U potrazi za odgovorom na ovo pitanje, razmotrićemo Pavlovu misionsku strategiju u Korintu unutar okvira rane hrišćanske crkve.
+3. **Identitet**. Identitet je ključan za misiju. Vredi ponoviti da će se osobe koji se muče da odrede svoj identitet takođe mučiti da ispune svoju misiju. Naša diskusija o identitetu težiće da odgovori na sledeća pitanja:
+a. Zašto se Pavle predstavljao kao apostol?
+b. Kakvu ulogu identitet igra u misiji?
+c. Kakvu vrstu identiteta je imala crkva u Korintu?
+d. Na koji način možemo da očuvamo hrišćanski identitet u svetu u kome se ističu drugačije vrednosti i ideali?
+
+#### Drugi deo: Komentar
+
+**1. Kontekst**: Prva poslanica Korinćanima je jedna od dužih poslanica u Novom zavetu. Slično Rimljanima poslanici, i ona se sastoji od 16 poglavlja, sa ukupno 433 stiha. To je pastoralno pismo upućeno nedavno osnovanoj crkvi koja se suočava sa značajnim etičkim i teološkim pitanjima, kao i sa problemima u međuljudskim odnosima. Pavle sebe jasno predstavlja kao pisca Prve poslanice Korinćanima (1. Korinćanima 1,1), a u 1. Korinćanima 16,21, on spominje i svojeručan pozdrav. Druga poslanica Korinćanima je kraća (13 poglavlja, sa ukupno 257 stihova) i sadrži mnogo više ličnih podataka o apostolu Pavlu. Ta poslanica sveobuhvatno opisuje apostolovo razumevanje sopstvene apostolske službe. Neki su koristili latinski izraz apologia *pro vita sua* [„odbrana sopstvenog života“], kao prikladan naziv za sadržaj i suštinu Druge poslanice Korinćanima (vidi: Liland Rajken i Filip Grejam Rajken, „Druga poslanica Korinćanima: Uvod“, u: „Studijska Biblija: ESV“, str. 1715. originala [Leland Ryken and Philip Graham Ryken, *2 Corinthians: Introduction in The Literary Study Bible: ESV* (Wheaton, IL: Crossway Bibles, 2007), p. 1715]. U ovoj poslanici, Pavle brani svoju apostolsku službu od pojedinih klevetnika u korintskoj crkvi i daje primer kako bi trebalo živeti hrišćanski život i obavljati službu.
+
+Prepiska između Pavla i mlade crkve u Korintu predmet je naučnih rasprava. Čini se da je Prva poslanica Korinćanima odgovor na neka pitanja koja su Pavlu bila poslata poštom (vidi, na primer, 1. Korinćanima 7,1) – možda kao odgovor na raniju apostolovu poslanicu koja više ne postoji, a koja se verovatno spominje u 1. Korinćanima 5,9. Postoji mogućnost da je posle te prve poslanice bilo još nekoliko razmena pisama između Pavla i hrišćanske zajednice u Korintu koja nam danas više nisu dostupna.
+
+Pretpostavlja se da su te razmene prethodile Drugoj poslanici Korinćanima, koja je sada deo našeg biblijskog kanona. Prva poslanica Korinćanima je napisana oko 55. godine nove ere iz Efesa (uporedi sa: „Prva poslanica Korinćanima“ u „Endrjusov biblijski komentar“, urednik Anhel Manuel Rodrigez i dr, str. 1613. originala [*1 Corinthians in Andrews Bible Commentary*, ed. Angel Manuel Rodriguez et. al. (Berrien Springs, MI: Andrews University Press, 2022), p.1613], dok je za Drugu poslanicu Korinćanima verovatniji datum pisanja 56. godina nove ere.
+
+**2. Strateška služba u Korintu**: Pavlova služba u Korintu opisana je u osamnaestom poglavlju Dela apostolskih. Apostol Pavle je tamo služio više od osamnaest meseci. Rimljani su uništili antički grad Korint 146. godine pre nove ere, a Julije Cezar ga je ponovo izgradio 44. godine pre nove ere kao rimsku koloniju. Korint je ubrzo postao značajan politički i ekonomski centar, strateški smešten u istočnom delu Rimskog carstva. Njegove dve luke, Kenhreja na istoku i Lehaion na zapadu, pružale su bezbednu kopnenu vezu između Egejskog i Jonskog mora. Kontrola nad ove dve luke, kao i nad putem koji je presecao šest kilometara široku prevlaku, omogućila je Korintu da ubira poreze na trgovinu koja se odvijala u pravcima sever-jug i istok-zapad (uporedi sa: Džerom Marfi O’Konor, „Korint“, u: „The New Interpreter’s Biblijski rečnik“, urednik K. Dub Sejkenfeld, tom 1, str. 732–735. originala [Jerome Murphy-O’Connor, *Corinth, in The New Interpreter’s Dictionary of the Bible*, ed. K. Doob Sakenfeld (Nashville: Abingdon, 2006), vol. 1, pp. 732–735].
+
+Grad je nudio velike ekonomske mogućnosti, a prilike za uspon na društvenoj lestvici privlačile su ljude mnogih nacionalnosti. Pošto se radilo o relativno mladom gradu, Korint je bio manje pod uticajem drevnih tradicija i samim tim otvoreniji za nove ideje. Rim je odredio ovaj grad za prestonicu provincije Ahaje, čime je bio posebno naglašen njegov politički značaj. Pavlova strateška odluka da uloži više od osamnaest meseci svoga života u službu u Korintu pruža nam pravi primer njegovog dobro osmišljenog planiranja misije.
+
+Pavlova služba u Korintu pratila je već oprobani obrazac. Ugostili su ga Akila i Priskila, obraćenici u hrišćanstvo iz judaizma koji su bili primorani da napuste Rim na osnovu Klaudijevog dekreta o proterivanju svih Jevreja iz grada (Dela apostolska 18,2). Akila i Priskila  su takođe bili proizvođači šatora (Dela apostolska 18,3). Strateški, Pavle je subotom prvo posećivao sinagogu (Dela apostolska 18,4) i usredsređivao svoje učenje – kada bi bio pozvan da čita sedmične odeljke iz Tore – na život, smrt i vaskrsenje Isusa Hrista (Dela apostolska 18,5).
+
+Prikazujući ispravno tumačenje dobro poznatih mesijanskih tekstova, Pavle je uspevao da angažuje jevrejske članove zajednice na poznatom terenu. Međutim, Pavlovo tumačenje i propovedanje često su izazivali sukobe i napetost tokom njegovih misionarskih putovanja, što ga je u Korintu navelo da preusmeri svoju pažnju na one „koji su se bojali Boga“. To su bili neznabošci koji su često prihvatali jevrejska učenja, ali nisu bili prozeliti (vidi Matej 23,15). Dela apostolska 18,7 izveštavaju da je Pavle propovedao u kući Justa (*Titius Justus*), koji sam nije bio Jevrejin, ali mu se kuća nalazila kraj same sinagoge. Među mnogima koji su bili osvedočeni Pavlovim propovedanjem nalazio se i Krisp, starešina sinagoge, zajedno sa celim svojim domom (Dela apostolska 18,8). 
+
+**3. Značaj identiteta**: Identitet oblikuje naša verovanja, naše razumevanje istorije, kao i naš sopstveni osećaj postojanja. Nakon iskustva na putu za Damask (Dela apostolska 9), Pavlov identitet je usidren u njegovom pozivanju od Boga da sledi Isusa i da bude apostol (to jest, izaslanik i glasnik) Isusa Hrisa. Pavle, zajedno sa svojim koautorom Sostenom, započinje svoju prvu poslanicu korintskoj crkvi tvrdeći da je „voljom Božjom pozvan da bude apostol Isusa Hrista“ (1. Korinćanima 1,1 – *ESV*; uporedi sa: 2. Korinćanima 1,1). Grčki glagol *apostellein*, koji znači „poslati“, predstavlja osnovu imenice *apostolos*, koja se – začudo – retko koristi u grčkoj književnosti izvan Novog zaveta. Upotreba relativno retke reči za označavanje ključne službe u ranoj hrišćanskoj crkvi možda je bila svestan pokušaj da se prenese temeljni značaj službe apostola, kao i jedinstvena funkcija onih koji su poslati, a kojih je, uključujući i Pavla, bilo više od Dvanaestorice, kao što sugeriše stih iz Rimljanima 16,7: „Pozdravite Andronika i Juniju, rodbinu moju, i moje drugare u sužanjstvu, koji su znameniti među apostolima.“
+
+Pavlov identitet je ukorenjen u tri stvari: (1) u iskustvu njegovog pozivanja u službu, prilikom čega je video vaskrslog Gospoda (1. Korinćanima 15,8.9; Galatima 1,15.16); (2) u njegovom ovlašćenju koje je dobio od Boga da propoveda jevanđelje (Galatima 1,1; uporedi sa: Dela apostolska 9,15); i (3) u plodovima njegove apostolske službe, koje predstavljaju obraćenici i nove crkve (1. Korinćanima 9,2). Dela apostolska nude niz Pavlovih svedočanstava koja iznova govore o njegovom pozivu, ovlašćenju i plodovima, naglašavajući važnost ovih elemenata za njegovu službu. Iako on priznaje svoje vrsno obrazovanje „kraj nogu“ poznatih teologa, kao i svoje članstvo u veoma strogoj farisejskoj sekti, njegov identitet nije zasnovan na prestižu i dostignućima, već na njegovom susretu sa Isusom Hristom.
+
+Čini se da je pitanje identiteta takođe bilo važno pitanje u novoosnovanoj korintskoj crkvi. Pavle oštro reaguje na vesti da u zajednici postoji podela u kojoj se ljudi sada snažno svrstavaju uz nekoliko različitih hrišćanskih vođa. Pavle podseća svoju publiku da su oni pre svega Hristovi sledbenici, a ne sledbenici Pavla, Apola ili Petra (1. Korinćanima 1,10-12). Njegova argumentacija u prilog jedinstva crkve zasnovana je na nedeljivom Hristu, na Njegovoj žrtvi i spasonosnoj blagodati (1. Korinćanima 1,13). Pitanju identiteta u korintskoj crkvi vratićemo se detaljnije u nekoj od narednih pouka.
+
+#### Treći deo: Primena u životu
+
+Mnoge kompanije danas troše mnogo vremena i novca na pitanja brendiranja i sopstvenog identiteta. One shvataju da im u konkurentnom poslovnom okruženju jednostavno nastavljanje onoga što su do sada radile ne garantuje opstanak. Potrebno je da imaju jasnu viziju o tome ko su i koje jedinstvene potrebe tržišta mogu da zadovolje. Čini se da je i Pavlu bila dobro poznata važnost identiteta.
+
+1. U svom razredu razgovarajte o Pavlovom doživljavanju sebe kao apostola. Šta je takav identitet značio i kakvo je pravo on imao da to zvanje primeni na sebe? Kako je njegovo apostolstvo uticalo na njegovu životnu svrhu i misiju?
+2. Razmislite i porazgovarajte o tome na koji način naš individualni i zajednički identitet kao adventističkih hrišćana može da nam pomogne da otkrijemo i zadovoljimo potrebe naših zajednica.
+3. Crkva u Korintu je bila jedinstvena kulturna mešavina. Većina vernika nije imala jevrejsko poreklo. Oni nisu mogli da se identifikuju kao jevrejski ogranak ili sekta. Taj nedostatak jasnog identiteta leži u osnovi mnogih problema kojima se Pavle bavi u korintskoj crkvi. U svom razredu razgovarajte o odnosu između identiteta i ponašanja. Zašto poznavanje toga ko smo, odakle dolazimo i kuda idemo utiče na ono što radimo i kako živimo?
+4. Na kraju, kako možemo da očuvamo naš hrišćanski identitet u svetu u kome se naglašavaju neke druge vrednosti i ideali?
