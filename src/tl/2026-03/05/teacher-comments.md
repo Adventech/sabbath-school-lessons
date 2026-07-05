@@ -25,9 +25,9 @@ Gaya ng karamihan sa mga manunulat ng Biblia, itinuring ni Pablo ang idolatriya 
 
 **2. Ang Panganib ng Idolatriya:** Hinimok ni Pablo ang mga mananampalataya na tumakas mula sa idolatriya at huwag makibahagi sa mga paganong gawain, na pinaaalalahanan sila na ang pagsamba sa mga diyus-diyosan ay hindi mapagkakasundo sa pagsamba sa tunay na Diyos.
 
-**3. Kristiyanong Kalayaan at Pananagutan (1 Corinto 10:** 23–30): Tinalakay ni Pablo kung paano dapat gamitin ng mga mananampalataya ang kanilang kalayaan nang may karunungan, lalo na pagdating sa pagkain ng mga pagkaing inihandog sa mga diyus-diyosan. Ang isang bagay na pinahihintulutan ay hindi nangangahulugang kapaki-pakinabang ito para sa lahat.
+**3. Kristiyanong Kalayaan at Pananagutan** (1 Corinto 10: 23–30): Tinalakay ni Pablo kung paano dapat gamitin ng mga mananampalataya ang kanilang kalayaan nang may karunungan, lalo na pagdating sa pagkain ng mga pagkaing inihandog sa mga diyus-diyosan. Ang isang bagay na pinahihintulutan ay hindi nangangahulugang kapaki-pakinabang ito para sa lahat.
 
-**4. Pamumuhay para sa Kaluwalhatian ng Diyos (1 Corinto 10:** 31–33): Ibinuod ni Pablo ang kanyang mensahe sa pamamagitan ng paghimok sa mga mananampalataya na gawin ang bawat desisyon nang may layuning maparangalan ang Diyos. Hinihikayat din niya silang kumilos sa paraang nagpapakita ng karakter ni Cristo at umaakay sa iba patungo sa Kanya.
+**4. Pamumuhay para sa Kaluwalhatian ng Diyos** (1 Corinto 10: 31–33): Ibinuod ni Pablo ang kanyang mensahe sa pamamagitan ng paghimok sa mga mananampalataya na gawin ang bawat desisyon nang may layuning maparangalan ang Diyos. Hinihikayat din niya silang kumilos sa paraang nagpapakita ng karakter ni Cristo at umaakay sa iba patungo sa Kanya.
 
 #### Ikalawang Bahagi: Komentaryo
 

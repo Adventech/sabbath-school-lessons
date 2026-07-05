@@ -13,12 +13,9 @@ date:   25/09/2026
 
 Isipin mong nasa paliparan ka, nagpapaalam sa isang malapit na kaibigan o mahal sa buhay. Gumugol kayo ng makabuluhang oras na magkasama—marahil ay napagdaanan pa ninyo ang ilang pagsubok. Habang ang iyong kaibigan o mahal sa buhay ay papasok na sa security, bigla siyang lumingon upang magsabi ng isang bagay, marahil ilang salita lamang. Ngunit iyon ay isang bagay na tatatak sa iyong alaala, kahit matagal nang nakalipad ang eroplano.
 
-Maaaring iyon ay tulad ng:
-
-“Mag-ingat ka palagi.”
-
-“Ipagpatuloy mo lang ang ginagawa mo.”
-
+Maaaring iyon ay tulad ng:\
+“Mag-ingat ka palagi.”\
+“Ipagpatuloy mo lang ang ginagawa mo.”\
 “Huwag mong kalimutan—naniniwala ako sa’yo.”
 
 Nananatili sa alaala ang mga huling salita. Maaaring maikli lamang ang mga ito, ngunit madalas ay taglay nila ang pinakamatinding damdamin, ang pinakamahalagang paalala, o ang pangunahing mensahe na nais ng nagsasalita na panghawakan mo.
@@ -31,11 +28,11 @@ Hindi lamang basta tinatapos ni Pablo ang kanyang mga sulat—binabasbasan din n
 
 Sa liksyon ngayong linggo, tutuon tayo sa tatlong pangunahing konsepto mula sa 2 Corinto 13:11–14 na matatagpuan sa mga pangwakas na salita ni Pablo para sa iglesya sa Corinto:
 
-Ang biyaya ang panimulang punto. Ito rin ay kaloob ni Jesus.
+**1. Ang biyaya ang panimulang punto.** Ito rin ay kaloob ni Jesus.
 
-Ang pag-ibig ang puwersang nagpapanatili. Ang pag-ibig din ang likas na katangian ng Diyos.
+**2. Ang pag-ibig ang puwersang nagpapanatili.** Ang pag-ibig din ang likas na katangian ng Diyos.
 
-Ang pakikipagkapatiran ay ang bunga ng relasyon. Gayundin, ang pakikipagkapatiran ay gawain ng Espiritu, na mahalaga para sa isang malusog na pamayanang Kristiyano.
+**3. Ang pakikipagkapatiran ay ang bunga ng relasyon.** Gayundin, ang pakikipagkapatiran ay gawain ng Espiritu, na mahalaga para sa isang malusog na pamayanang Kristiyano.
 
 #### Ikalawang Bahagi: Komentaryo
 
@@ -57,7 +54,7 @@ Sa Efeso 6:23–24, nagwakas si Pablo sa mga salitang, “Kapayapaan nawa sa mga
 
 Sa 2 Corinto 13, hindi lamang basta nagtatapos si Pablo—ibinubuod niya ang ebanghelyo. Ang “pag-ibig ng Diyos” ang pinagmumulan ng “biyaya ni Cristo” at ng “pakikisama ng Espiritu”. Tanging sa liham na ito ginamit ni Pablo ang pormula ng Tatlong-Isa “sa wakas ng liham upang itampok ang natatanging papel ng Banal na Trinidad sa gawain ng kaligtasan.”—“2 Corinthians” sa Andrews Bible Commentary, ed. Angel Manuel Rodríguez et al. (Berrien Springs, MI: Andrews University Press, 2022), p. 1685. Ang pag-ibig ay ang nagsisimulang katangian ng Diyos na umaabot sa pamamagitan ng biyaya at nagbubuklod sa mga mananampalataya sa pakikipagkapatiran. Sa pagtatapos ng kanyang liham gamit ang tatluhang pagpapala na ito, pinaaalalahanan ni Pablo ang mga taga-Corinto—isang hati at naguguluhang iglesya—na tanging ang malalim na karanasan sa pag-ibig ng Diyos ang makapanunumbalik sa kanilang pagkakaisa, magpapanatili ng kapayapaan, at magpapatibay sa kanilang pakikipagkapatiran.
 
-**4. Pakikipagkapatiran bilang Bunga ng Relasyon:** Binibigyang-diin ang temang pakikipagkapatiran sa 2 Corinto 13:14 bilang bunga ng gawain ng Espiritu Santo. Sa talatang ito, ang salitang “pakikipagkapatiran” (koinōnia) ay tumutukoy sa pinagsasaluhang pakikibahagi, isang malalim na ugnayan na umiiral hindi lamang sa pagitan ng mga mananampalataya at ng Espiritu, kundi sa mga mananampalataya sa isa’t isa, dahil sa nagbubuklod na presensya ng Espiritu. Ang pangwakas na pagpapalang ito ay nagbubuod sa pinakapuso ng pamayanang Kristiyano: ang Espiritu ang lumilikha at nagpapanatili ng pagkakaisa at lalim ng relasyon sa loob ng iglesya. Ang pamayanang taga-Corinto, na dati ay hati at puno ng alitan, ay hinihikayat ngayon na maranasan ang pagbabalik-loob at pagkakaisa sa pamamagitan ng pakikipagkapatiran na nilikha ng Espiritu.
+**4. Pakikipagkapatiran bilang Bunga ng Relasyon:** Binibigyang-diin ang temang pakikipagkapatiran sa 2 Corinto 13:14 bilang bunga ng gawain ng Espiritu Santo. Sa talatang ito, ang salitang “pakikipagkapatiran” (_koinōnia_) ay tumutukoy sa pinagsasaluhang pakikibahagi, isang malalim na ugnayan na umiiral hindi lamang sa pagitan ng mga mananampalataya at ng Espiritu, kundi sa mga mananampalataya sa isa’t isa, dahil sa nagbubuklod na presensya ng Espiritu. Ang pangwakas na pagpapalang ito ay nagbubuod sa pinakapuso ng pamayanang Kristiyano: ang Espiritu ang lumilikha at nagpapanatili ng pagkakaisa at lalim ng relasyon sa loob ng iglesya. Ang pamayanang taga-Corinto, na dati ay hati at puno ng alitan, ay hinihikayat ngayon na maranasan ang pagbabalik-loob at pagkakaisa sa pamamagitan ng pakikipagkapatiran na nilikha ng Espiritu.
 
 Binanggit din ni Pablo ang tema ng pagkakaisa na pinapalakas ng Espiritu sa iba pang bahagi ng kanyang mga liham. Sa Filipos 2:1–2, hinihikayat niya ang kanyang mga mambabasa: “Kaya nga kung mayroong anumang kasiglahan kay Cristo, kung mayroong anumang kaaliwan ng pag-ibig, kung mayroong anumang pakikisama ng Espiritu, kung mayroong anumang pagkagiliw at habag, ay lubusin ninyo ang aking tuwa sa pagkakaroon ng gayunding pag-iisip, magtaglay ng gayunding pag-ibig, na magkaisa ng diwa, at may isa lamang pag-iisip.” Gayundin, sa Roma 15:5–6, nananalangin si Pablo: “Ngayon, ipagkaloob nawa ng Diyos ng pagtitiis at kaaliwan, na kayo ay magkaisa ng pag-iisip sa isa’t isa ayon kay Cristo Jesus, upang kayo na may isang pag-iisip sa pamamagitan ng isang bibig ay luwalhatiin ninyo ang Diyos at Ama ng ating Panginoong Jesu-Cristo.” Ang pagkakaisa ay bunga ng relasyon na dulot ng Espiritu ng Diyos, na nagpapalago ng pagmamahal at pagsamba.
 

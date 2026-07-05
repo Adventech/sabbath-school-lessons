@@ -21,13 +21,13 @@ Sa 2 Corinto 3–7, itinuon ni apostol Pablo ang kanyang mensahe sa tunay na min
 
 Itinatampok ng aralin ngayong linggo ang apat na mahahalagang tema:
 
-Espirituwal na Pagbabago: Ang ministeryo ay nagdudulot ng mga pagbabagong nagmumula sa Espiritu.
+**1. Espirituwal na Pagbabago:** Ang ministeryo ay nagdudulot ng mga pagbabagong nagmumula sa Espiritu.
 
-Tapat na Damdamin: Ang tunay na ministeryo ay may kasamang kahinaan, katapatan, at bukas na puso.
+**2. Tapat na Damdamin:** Ang tunay na ministeryo ay may kasamang kahinaan, katapatan, at bukas na puso.
 
-Moral na Integridad: Ang mga ministro ay tinatawag sa kabanalan at pag-iwas sa mga makamundong kompromiso.
+**3. Moral na Integridad:** Ang mga ministro ay tinatawag sa kabanalan at pag-iwas sa mga makamundong kompromiso.
 
-Pagpapanumbalik ng Relasyon: Hinahangad ng ministeryo ang mga naayos na relasyon sa pamamagitan ng katotohanan at biyaya.
+**4. Pagpapanumbalik ng Relasyon:** Hinahangad ng ministeryo ang mga naayos na relasyon sa pamamagitan ng katotohanan at biyaya.
 
 #### Ikalawang Bahagi: Komentaryo
 
@@ -37,9 +37,7 @@ Sadyang iniiwasan ni Pablo ang makamundong kahusayan sa pagsasalita o manipulasy
 
 Sa ganitong kalagayan, mahalaga ang mga liham ng rekomendasyon. “Ang ganitong mga liham ay kilala sa mundong Greco-Romano at gumagana sa konteksto ng mga konsepto ng karangalan at kahihiyan sa Mediteraneo. Madalas magdala ang mga manlalakbay ng mga liham ng rekomendasyon na isinulat ng kanilang mga kaibigan upang humiling ng kabutihan o pabor, gaya ng pagtanggap bilang bisita, tulong, o trabaho. Pinupuri ng sumulat ng liham ang manlalakbay at kung baga ay hinihiling sa tatanggap na pagkatiwalaan ang kanyang damdamin tungkol sa pagkatao ng nagdadala ng liham. Nauunawaan ng mga tumatanggap ng ganitong mga liham ang kanilang tungkulin na tratuhin ang nagdadala ng liham sa paraang ituturing nila mismo ang sumulat nito. Karaniwang naglalaman ang mga ganitong liham ng mga elementong matatagpuan din sa iba pang liham ng Graeco-Romano, gaya ng pambungad, pangwakas, at mga pagbati.”—Derek R. Brown at Wendy Widder kasama si E. Tod Twist, “2 Corinthians” sa Lexham Research Commentary, ed. ni John D. Barry (Bellingham, WA: Lexham Press, 2013), mga tala sa 2 Corinto 3:1–3, edisyong digital ng Logos.
 
-Sinasabi ni Pablo na hindi siya dumating na may dalang anumang ganitong mga liham (2 Corinto 3:1), kundi ang kanyang liham ng rekomendasyon ay mababasa sa mismong pag-iral ng iglesya sa Corinto: “Kayo mismo ang aming sulat na nasusulat sa aming mga puso, nakikilala at nababasa ng lahat ng mga tao”
-
-(2 Corinto 3:2). Ang ministeryo sa Corinto ay nangangahulugang paglilingkod na salungat sa agos—partikular, laban sa isang kulturang abala sa kapangyarihan, katayuan, at pansariling pagpapataas. Ipinakita ni Pablo ang isang ministeryong nakadepende sa Espiritu, handang magsakripisyo, at tapat—isang ministeryong mukhang mahina ayon sa pamantayan ng mundo ngunit nagtuturo tungo sa kaluwalhatian ni Cristo.
+Sinasabi ni Pablo na hindi siya dumating na may dalang anumang ganitong mga liham (2 Corinto 3:1), kundi ang kanyang liham ng rekomendasyon ay mababasa sa mismong pag-iral ng iglesya sa Corinto: “Kayo mismo ang aming sulat na nasusulat sa aming mga puso, nakikilala at nababasa ng lahat ng mga tao” (2 Corinto 3:2). Ang ministeryo sa Corinto ay nangangahulugang paglilingkod na salungat sa agos—partikular, laban sa isang kulturang abala sa kapangyarihan, katayuan, at pansariling pagpapataas. Ipinakita ni Pablo ang isang ministeryong nakadepende sa Espiritu, handang magsakripisyo, at tapat—isang ministeryong mukhang mahina ayon sa pamantayan ng mundo ngunit nagtuturo tungo sa kaluwalhatian ni Cristo.
 
 **2. Espirituwal na Pagbabago:** Ang tunay na Kristiyanong ministeryo ay nakaugat sa Espiritu, hindi sa mga kredensyal ng tao, at nagdudulot ito ng mga buhay na binabago ng Espiritu. Ang 2 Corinto 3:1–9 ay sentro sa pananaw ni Pablo tungkol sa tunay na Kristiyanong pamumuno at ministeryo ng ebanghelyo. Ipinagtatanggol ni Pablo ang kanyang ministeryo laban sa mga kritiko sa Corinto na namamangha sa panlabas na kredensyal—mga liham ng rekomendasyon, magarang pananalita, at mga pagpapakitang espirituwal. Tumugon si Pablo, hindi sa pamamagitan ng pagmamayabang kundi sa muling pagbigay-kahulugan sa mismong ministeryo: hindi ito pagtatanghal ng tao, kundi gawaing banal na isinasagawa sa pamamagitan ng Banal na Espiritu.
 
@@ -49,25 +47,11 @@ Ipinahayag ni Pablo na wala siyang kakayahang nagmumula sa sarili; hindi siya is
 
 Sa 2 Corinto 3:7–9, inihahambing ni Pablo ang dalawang uri ng ministeryo: ang ministeryo ng kamatayan at ang ministeryo ng Espiritu.
 
-Lumang Tipan (Kautusan)
-
-Bagong Tipan (Espiritu)
-
-Nakasulat sa bato
-
-Nakasulat sa mga puso
-
-Nagdadala ng paghatol
-
-Nagdadala ng katuwiran
-
-Kaluwalhatiang kumukupas
-
-Kaluwalhatiang lalo pang nahahayag
-
-Naghahatid sa kamatayan
-
-Nagbibigay-buhay
+| Lumang Tipan (Kautusan) | Bagong Tipan (Espiritu) |
+| Nakasulat sa bato | Nakasulat sa mga puso |
+| Nagdadala ng paghatol | Nagdadala ng katuwiran |
+| Kaluwalhatiang kumukupas | Kaluwalhatiang lalo pang nahahayag |
+| Naghahatid sa kamatayan | Nagbibigay-buhay |
 
 Hindi minamaliit ni Pablo ang kautusan o tinatawag itong masama. Totoo, hindi masama ang kautusan (paano ito magiging masama kung ito’y ibinigay ng Diyos!); sa halip, inihahayag nito ang kasalanan at hinahatulan ang masama. Ang Espiritu, sa pamamagitan ni Cristo, ang Siyang nagbabago at nagpapatuwid. Higit pa ang kaluwalhatian ng ministeryo ng Espiritu kaysa sa kaluwalhatian ng mukhang nagningning ni Moises sa Sinai. Ang lahat ng ministeryo ay dapat nakasentro kay Cristo upang akayin ang mga tao tungo sa buhay, katuwiran, at kaluwalhatian ni Cristo (pinalawak pa sa 2 Corinto 3:18). Ang anumang estratehiya na walang Espiritu ay puro ingay lamang.
 

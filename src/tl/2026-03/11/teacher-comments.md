@@ -25,11 +25,11 @@ Ang kuwentong ito ay sumasalamin sa puso ng 2 Corinto 8–9: ang pagiging mapagb
 
 Ang pangangasiwa ay nasa puso ng aralin ngayong linggo na tututok sa tatlong mahahalagang tema na matatagpuan sa 2 Corinto 8–9:
 
-Pagiging Mapagbigay bilang Pagpapahayag ng Biyaya ng Diyos: Masayang nagbigay ang mga taga-Macedonia sa kabila ng kahirapan, na nagpapakita na ang tunay na pagbibigay ay nagmumula sa puso, hindi sa kasaganaan (2 Corinto 8:1–5).
+**1. Pagiging Mapagbigay bilang Pagpapahayag ng Biyaya ng Diyos:** Masayang nagbigay ang mga taga-Macedonia sa kabila ng kahirapan, na nagpapakita na ang tunay na pagbibigay ay nagmumula sa puso, hindi sa kasaganaan (2 Corinto 8:1–5).
 
-Si Cristo, ang Modelo ng Pagiging Mapagbigay: Iniwan Niya ang Kanyang kayamanan upang espirituwal na pagyamanin ang iba.
+**2. Si Cristo, ang Modelo ng Pagiging Mapagbigay:** Iniwan Niya ang Kanyang kayamanan upang espirituwal na pagyamanin ang iba.
 
-Mahalaga ang Pinansyal na Integridad: Tinitiyak ni Pablo ang pananagutan sa pamamahala ng handog upang maprotektahan ang lahat ng kasangkot.
+**3. Mahalaga ang Pinansyal na Integridad:** Tinitiyak ni Pablo ang pananagutan sa pamamahala ng handog upang maprotektahan ang lahat ng kasangkot.
 
 #### Ikalawang Bahagi: Komentaryo
 
