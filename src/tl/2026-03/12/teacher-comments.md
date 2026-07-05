@@ -23,11 +23,11 @@ Ang tugon ni Pablo ay hindi lamang para ipagtanggol ang kanyang sarili. Ito ay t
 
 Sa linggong ito, tatlong mahahalagang tema mula sa 2 Corinto 10–12 ang bibigyang-diin at tatalakayin, habang pinagtutuunan natin ang tanong kung paano natin dapat harapin ang mga espirituwal na manlilinlang at huwad na mga guro. Ang mga tema ay ang mga sumusunod:
 
-Pagtatanggol sa Apostolikong Awtoridad: Sinimulan ni Pablo na ipagtanggol ang kanyang ministeryo bilang tugon sa mga paratang na matapang lamang siya sa mga sulat ngunit mahina kapag kaharap na (2 Corinto 10:1, 2, 10).
+**1. Pagtatanggol sa Apostolikong Awtoridad:** Sinimulan ni Pablo na ipagtanggol ang kanyang ministeryo bilang tugon sa mga paratang na matapang lamang siya sa mga sulat ngunit mahina kapag kaharap na (2 Corinto 10:1, 2, 10).
 
-Ang Panganib ng mga Huwad na Apostol: Ipinahahayag ni Pablo ang kanyang pag-aalala na ang iglesya sa Corinto ay nailalayo mula sa dalisay na debosyon kay Cristo (2 Corinto 11:2–3).
+**2. Ang Panganib ng mga Huwad na Apostol:** Ipinahahayag ni Pablo ang kanyang pag-aalala na ang iglesya sa Corinto ay nailalayo mula sa dalisay na debosyon kay Cristo (2 Corinto 11:2–3).
 
-Espirituwal na Pakikidigma: Binibigyang-diin ni Pablo na ang kanyang mga sandata ay hindi makamundo kundi espirituwal, at may “kapangyarihang makagiba ng mga kuta” (2 Corinto 10:4).
+**3. Espirituwal na Pakikidigma:** Binibigyang-diin ni Pablo na ang kanyang mga sandata ay hindi makamundo kundi espirituwal, at may “kapangyarihang makagiba ng mga kuta” (2 Corinto 10:4).
 
 #### Ikalawang Bahagi: Komentaryo
 

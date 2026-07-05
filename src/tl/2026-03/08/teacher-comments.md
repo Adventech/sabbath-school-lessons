@@ -41,11 +41,11 @@ Tinapos ni Pablo ang kabanata sa pamamagitan ng paghihikayat ng katatagan at lay
 
 **2. Ang Pagkabuhay na Mag-uli ni Cristo:** Ang 1 Corinto 15:1–11 ay isang mahalagang talata kung saan inilalatag ni Pablo ang buong konteksto ng kabanata. Ang bahaging ito ay parehong personal at teolohikal, dahil pinatitibay ni Pablo ang mensahe ng ebanghelyo at binibigyang-diin ang muling pagkabuhay ni Jesus bilang puso nito. Sinimulan niya sa pamamagitan ng pagpapaalala sa mga taga-Corinto tungkol sa ebanghelyong kanilang kilala na. Hindi siya nagdadala ng bago, kundi muling iniuugnay ang mga mananampalataya sa bagay na maaaring malihis sila. Binibigyang-diin niya na ang pananampalataya ay dapat matatag—hindi lamang isang sandaling pagtanggap kundi isang patuloy na pagtitiwala. Sa 1 Corinto 15:3–4, makikita natin ang isa sa pinakamaagang buod ng mga Kristiyanong paniniwala sa Bagong Tipan, batay sa apat na pangunahing makasaysayang elemento:
 
-Si Cristo ay namatay. Hindi lamang ito kamatayan ng isang martir, kundi kamatayan para sa ating mga kasalanan.
+_1. Si Cristo ay namatay._ Hindi lamang ito kamatayan ng isang martir, kundi kamatayan para sa ating mga kasalanan.
 
-Siya ay inilibing. Pinatutunayan ng Kanyang pagkalibing na tunay Siyang namatay.
+_2. Siya ay inilibing._ Pinatutunayan ng Kanyang pagkalibing na tunay Siyang namatay.
 
-Siya ay muling nabuhay. Ang Kanyang muling pagkabuhay ang pinakasentro at pinakamalaking himala.
+_3. Siya ay muling nabuhay._ Ang Kanyang muling pagkabuhay ang pinakasentro at pinakamalaking himala.
 
 Lahat ng pangyayaring ito ay naganap ayon sa Kasulatan. Ibig sabihin, ang kamatayan, paglilibing, at muling pagkabuhay ni Cristo ay bahagi ng plano ng Diyos mula pa sa simula.
 
