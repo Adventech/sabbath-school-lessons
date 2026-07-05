@@ -1,0 +1,65 @@
+---
+title:  Teacher Comments
+date:   07/08/2026
+---
+
+#### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** 1 Corinto 14:1
+
+**Pokus ng Pag-aaral:** 1 Corinto 12.
+
+**Panimula**
+
+Isipin mo ang isang orkestra sa isang marangyang bulwagan ng konsiyerto na handa nang magsimula ng pagtatanghal. Ang mga musikero ay nag-aayos ng tono ng kanilang mga instrumento, at pagkatapos ay itinataas ng konduktor ang kanyang baton. Nagsisimula nang tumugtog ang mga musikero gamit ang kani-kanilang mga instrumento. Ang mga biyolin, selo, trumpeta, plauta, tambol, at iba pang mga instrumento ay magkakasamang lumilikha ng magandang musika habang sinusundan nila ang konduktor.
+
+Ngayon, isipin mo kung biglang sinabi ng biyolinista, “Ayoko nang tumogtog dahil hindi naman ako tumutugtog ng trumpeta. Hindi mahalaga ang aking bahagi.” O paano kung nagpasya ang tumutugtog ng tambol na hampasin ito o kalampagin ang mga simbalo nang sobrang lakas, hanggang sa malunod ang tunog ng iba pang mga instrumento? Ang magandang himig ay magiging isang magulong ingay!
+
+Sa orkestra, walang instrumentong walang silbi. Bawat musikero ay may ambag sa obra maestra. Ngunit kailangang magtulungan ang mga musikero. Kapag tumanggi ang isa na tumugtog, naaapektuhan ang musika. Hindi sila tumutugtog para sa sarili nila, kundi sinusunod nila ang patnubay ng konduktor upang lumikha ng isang bagay na higit kaysa sa kanila.
+
+Sa 1 Corinto 12, gumamit si Pablo ng ibang talinghaga upang bigyang-diin ang parehong katotohanan. Sa iglesya, bawat mananampalataya ay binigyan ng kakaibang espirituwal na kaloob. Ang ilan ay mas kapansin-pansin, samantalang ang iba ay tahimik na gumagawa sa likuran; ngunit ang bawat isa ay mahalaga.
+
+**Mga Tema ng Aralin**
+
+Ang aralin ngayong linggo ay nagbibigay-diin sa tatlong mahahalagang paksa:
+
+**1. Unahin ang Pinakamahalaga:** Anuman ang ating mga kaloob o ministeryo, tayo ay tinawag na ituon ang ating pansin kay Jesus bilang ating Tagapagligtas, Manggagamot, at sa huli, bilang Siya na nagbibigay sa atin ng kakayahan upang maglingkod at tumulong sa iba (1 Corinto 12:1–3).
+
+**2. Iisang Espiritu, Maraming Kaloob:** Ipinapaalala ni Pablo sa mga mambabasa na ang lahat ng kaloob ay nagmumula sa iisang pinagmulan, sapagkat ang Diyos Mismo ang nagbibigay kapangyarihan sa Kanyang iglesya sa pamamagitan ng mga kaloob na ito upang pagpalain at maabot ang sanlibutan (1 Corinto 12:4–11).
+
+**3. Iisang Katawan, Maraming Bahagi:** Ipinakilala ni Pablo ang metapora tungkol sa katawan upang ipakita ang pagkakaiba-iba ng mga kaloob sa loob ng iglesya at hinahamon niya ang mga mambabasa na patuloy na tingnan ang mas malawak na larawan (1 Corinto 12:12–31).
+
+#### Ikalawang Bahagi: Komentaryo
+
+**1. Kasaysayang Pinagmulan ng 1 Corinto 12:** Noong unang siglo sa Corinto, ang mga mistikal na karanasan—gaya ng propesiya at ekstastikong pananalita—ay karaniwan sa mga relihiyong Griyego at Romano. Ang mga karanasang ito ay madalas na iniuugnay sa paniniwala ng banal na pag-aari (divine possession), mga misteryong kulto, at mga orakulo. Ang Orakulo ng Delphi, isa sa pinakatanyag na relihiyosong lugar sa Greece, ay may isang babaeng saserdotisa (Pythia) na pumapasok sa isang tila lutang (trance) na kalagayan, na pinaniniwalaang sinasapian ng diyos na si Apollo. Sa ganitong kalagayan, siya ay bumibigkas ng mga misteryoso at mahirap unawaing pahayag na binibigyang-kahulugan naman ng mga pari.
+
+Ang mga misteryosong kulto tulad ng kina Dionysus (Bacchus), Cybele, at Isis ay may mga ritwal, musika, at masidhing pagsamba na madalas humahantong sa mga kalagayang tila trance, matinding emosyonal na karanasan, at sa paniwalang nakikipag-ugnayan sila sa mga diyos. Sa kulto ni Dionysus, ang mga sumasamba ay sumasayaw at umaawit nang may kasiglahan, naniniwalang sila ay pinupuno ng presensiya ng diyos. Iminumungkahi ng ilang iskolar na ang ilang mga Kristiyano sa Corinto, na naimpluwensiyahan ng ganitong mga tradisyon, ay maaaring iniuugnay ang mga espirituwal na kaloob—tulad ng pagsasalita sa mga wika at propesiya—sa mga kaparehong ekstatikong karanasan. Ang ganitong kaisipan ay malamang na nagdulot ng mga pagkakabahagi sa iglesya sa Corinto, sapagkat may ilan na itinuring ang kanilang mga sarili bilang nasa mas mataas na “espirituwal” na kalagayan batay sa kanilang mga kaloob. Hinamon ni Pablo ang ganitong pananaw sa pamamagitan ng pagbibigay-diin na ang lahat ng kaloob ay nagmumula sa iisang Espiritu (1 Corinto 12:4–11) at ang mga ito’y ibinigay para sa kapakinabangan ng buong iglesya, hindi para sa pansariling karangalan.
+
+**2. Unahin ang Pinakamahalaga:** Ipinakilala ni Pablo ang isang bagong paksa sa 1 Corinto 12:1 sa pamamagitan ng katagang “tungkol naman sa mga espirituwal na kaloob.” Ang mga katulad na pahayag na nagsasaad ng bagong paksa ay matatagpuan din sa 1 Corinto 7:1, 25; 8:1; at 16:1, 12. Ang Griyegong salita na pneumatikōn ay isang pang-uring maramihan na nangangahulugang “espirituwal,” at maaaring tumukoy sa “mga espirituwal na bagay” o “mga espirituwal na tao.” Nabahala ang apostol tungkol sa mga kasapi ng iglesya sa Corinto at sa kanilang hindi balanseng pananaw sa sarili bilang mga “espirituwal” (1 Corinto 14:37). Ayon sa Andrews Bible Commentary, “May panganib—at sa ilang kaso ay katotohanan—na may mga taong nag-aangkin na sila ay may mas mataas na antas ng espirituwalidad sa loob ng komunidad, na nagdudulot ng hindi pagkakapantay-pantay sa mga mananampalataya. Tinanggihan ni Pablo ang ganitong uri ng pag-iisip.”—“1 Corinthians” sa Andrews Bible Commentary, patnugot ni Ángel Manuel Rodríguez at iba pa (Berrien Springs, MI: Andrews University Press, 2022), p. 1642. Sa halip na ituon ang pansin sa mga kaloob, pinaalalahanan ni Pablo ang kanyang mga tagapakinig na dapat silang magalak kapag hinikayat sila ng Espiritu ng Diyos na ipahayag si Jesus bilang kanilang Tagapagligtas (1 Corinto 12:3). Sapagkat walang sinumang tunay na pinangungunahan ng Espiritu ang susumpa kay Jesus. Sa ganitong diwa, ang lahat ng mananampalataya ay “espirituwal” dahil sa pangunahing pagpapahayag ng Kristiyanong pananampalataya na si Jesus ang Panginoon.
+
+**3. Iisang Espiritu, Maraming Kaloob:** Bago ipaliwanag ni Pablo ang iba’t ibang espirituwal na kaloob, nagbigay muna siya ng pahayag sa 1 Corinto 12:4–6 na binabanggit ang lahat ng mga persona ng pagka-Diyos. Binibigyang-diin niya ang pagkakaiba-iba ng mga kaloob na ibinibigay ng Espiritu, pagkakaiba-iba ng mga paglilingkod na ibinibigay ng Panginoon (ibig sabihin, si Jesus), at pagkakaiba-iba ng mga gawain na ibinibigay ng “iisang Diyos na gumagawa ng lahat ng mga bagay sa lahat” (1 Corinto 12:6). Ang pagkakasunod-sunod dito ay Espiritu–Anak–Ama. Kaya’t ang pagkakaisa ng pagka-Diyos ang nagsisilbing huwaran o sukatan kung saan dapat ihambing ng madalas ng nagkakabahaging iglesya sa Corinto ang kanilang sarili.
+
+Pinaaalalahanan ni Pablo ang mga mambabasa na ang unang kaloob na ibinibigay ng Diyos sa lahat ng mananampalataya ay ang pagpapahayag ng pananampalataya na “ ‘Si Jesus ay Panginoon’ ” (1 Corinto 12:2–3). Ang paniniwalang ito ay kaayon ng sinabi ni Jesus sa Juan 6:44: “Walang taong makakalapit sa Akin malibang ilapit siya ng Ama na nagsugo sa Akin.” Bagaman tayo ay binigyan ng kalayaan na pumili, kinakailangan pa ring hilahin tayo ng Espiritu (o ng Ama) upang makagawa ng unang hakbang ng pananampalataya patungo kay Jesus.
+
+Pagkatapos ay ipinagpatuloy ni Pablo ang paglalarawan tungkol sa pagkakaiba-iba ng mga espirituwal na kaloob, gayundin ng mga ministeryo at gawain sa loob ng Kristiyanong pamayanan (1 Corinto 12:4–11). “Ipinaliwanag ni Pablo na ang mga kaloob ng Banal na Espiritu ay ibinibigay para sa kapakinabangan ng buong iglesya (12:7).”— “1 Corinthians” sa Andrews Bible Commentary, p. 1642. Samakatuwid, ang mga kaloob ay hindi tanda ng higit na espirituwal na antas o kahusayan, kundi mga patunay ng biyaya ng Diyos na nagbibigay sa atin ng kakayahang maglingkod sa isa’t isa at sa sanlibutang ating ginagalawan. Ang iba’t ibang kaloob na binanggit sa kabanatang ito (kabilang ang karunungan at kaalaman, pagpapagaling at paggawa ng mga himala, pagsasalita ng propesiya, pagkilala sa mga espiritu, pagsasalita ng iba’t ibang wika, at iba pa) ay pawang ibinigay upang pagpalain ang pamayanan ng mga mananampalataya. Wala sa mga kaloob na ito ang dapat ituring na mas mataas o mas mahalaga kaysa sa iba.
+
+**4. Ang Katawan ni Cristo—Isang Radikal na Kaisipan:** Ang metapora ni Pablo tungkol sa iglesya bilang isang katawan (1 Corinto 12:12–27) ay taliwas sa kultura ng panahong iyon. Sa lipunang Romano, napakahigpit ng pagkakahati ng mga uri ng tao—ang mayayaman at makapangyarihan ay nasa itaas, samantalang ang mahihirap at mga alipin ay nasa ibaba. Ang ideya na ang bawat kasapi ng iglesya—mayaman man o mahirap, alipin man o malaya, lalaki man o babae—ay pare-parehong mahalaga ay isang rebolusyonaryong kaisipan. Binigyang-diin ni Pablo na kay Cristo, ang lahat ng mananampalataya ay magkakaugnay at dapat igalang at pahalagahan ang isa’t isa, tinatanggihan ang herarkiyang itinatag ng sanlibutan.
+
+Tulad ng binanggit ng iskolar ng Bagong Tipan na si Jason Staples: “Pinalalim ni Pablo ang larawang ito higit pa sa karaniwang metapora o paghahambing. Para sa apostol, ang ‘katawan ni Cristo’ ay hindi lamang isang metapora para sa mga indibiduwal na nagkakaisa sa pananampalataya kay Jesus, kundi isang tunay na reyalidad ng pagkakaugnay at pagkakaisa, kung saan ang mga tao, sa pagtanggap ng ‘Espiritu ni Cristo’ (Roma 8:9), ay nagiging kabahagi mismo ni Cristo. Ang mga mananampalataya ay aktuwal na nagiging ‘katawan ni Cristo’ sa pamamagitan ng ‘bautismo sa isang katawan sa pamamagitan ng iisang Espiritu’ (1 Corinto 12:13).”—Staples, “Body of Christ” sa Dictionary of Paul and His Letters (Downers Grove, IL: IVP Academic, 2023), p. 83.
+
+Ang paggamit ng metapora ng katawan ay nagbibigay-diin hindi lamang sa pagkakaisa ng pamayanan, kundi pati na rin sa pakikipagkaisa ng iglesya sa kanyang Panginoon—lalo na’t si Cristo ang ulo ng katawan (Colosas 1:18; Efeso 4:15). Sa ganitong diwa, ang katawan ay hindi lamang tumutukoy sa katawan ng mga mananampalataya, kundi sa katawan mismo ni Cristo; ibig sabihin, ang pangunahing layunin ng metaporang ito ay ipakita ang pagkakaisa ng mga mananampalataya kay Cristo.
+
+Tulad ng inilarawan ni Pablo sa kabanatang ito, nangangahulugan ito na ang pagkakaiba sa lahi, kasarian, at katayuang panlipunan ay walang saysay pagdating sa pagiging kabilang sa katawan ni Cristo. Ang kaisipang ito ay hindi lamang taliwas sa kultura, kundi mapanganib at mapanghimagsik rin sa Greco-Romanong lipunan, kung saan ang katayuan, kapangyarihan, dangal, kahihiyan, at maging ang kasarian ay may napakahalagang papel.
+
+Pansinin ang sumusunod na halimbawa mula sa iskolar ng Bagong Tipan na si Philip Ryken hinggil sa pananaw ng mga tao noong panahon ng unang iglesya tungkol sa herarkiya, katayuan, at kasarian: “Isaalang-alang ang isang panalangin na minsang iniuugnay kay Socrates, kung saan ang isang Griyego ay nagpapasalamat sa Diyos, ‘na ako ay ipinanganak na tao at hindi hayop, na lalaki at hindi babae, at pangatlo, na Griyego at hindi barbaro.’ Karaniwan sa mga paganong Griyego at Romano ang paghamak sa kanilang mga alipin at hindi patas na pagtrato sa mga kababaihan. Sa ilang mga lugar, ipinagbabawal sa mga alipin ang pumasok sa mga paganong templo, habang ang mga kababaihan naman ay itinuturing na parang ari-arian.”—Philip Graham Ryken, Galatians, Reformed Expository Commentary (Phillipsburg, NJ: P&R Publishing, 2005), p. 148. Maliwanag na ang mensahe ni Pablo sa iglesya sa Corinto ay taliwas sa kultura ng kanilang panahon.
+
+#### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+Ang likas na hilig ng tao ay ilagay sa herarkiyang antas ang mga kaloob na ibinigay ng Diyos sa iglesya bilang katawan ni Cristo. Ipinakilala ni Pablo ang metapora ng katawan at mga bahagi nito upang tulungan ang mga mambabasa na ituon ang pansin sa pagkakaisa at misyon. Ipinaliwanag niya na ang mga bahagi ng katawan ay hindi maaaring umunlad nang mag-isa. Sa katunayan, hindi sila mabubuhay nang hiwalay sa isa’t isa. Kailangan ng mata ang talukap; kailangan ng ulo ang leeg; kailangan ng paa ang mga binti; at lahat sila ay umaasa sa puso para sa sapat na dugo at oksiheno (oxygen). Batay sa 1 Corinto 12, talakayin sa inyong grupo ang mga sumusunod na katanungan:
+
+1. Paano natin maiaangkop ang metapora ni Pablo tungkol sa katawan sa kalagayan ng ating iglesya na may mga programang nagtatagisan at magkakaibang mga prayoridad?
+2. Ano ang masasabi mo sa kaisipang nais ng Diyos na makita ang isang katawan, hindi mga hiwa-hiwalay na bahagi ng katawan, sa Kanyang iglesya?
+3. Ano ang sinasabi ng metapora ng iglesya bilang katawan ni Cristo sa mga taong nabubuhay sa ika-21 siglo?
+4. Ano ang magiging pinakamainam na pamantayan sa pagsusuri ng mga espirituwal na kaloob at ng kahalagahan ng mga ito sa iglesya?
+5. Paano natin matutuklasan ang ating sariling mga kaloob sa konteksto ng misyon ng iglesya?
+6. Kung maaari, alin sa mga kaloob ang nais mong taglayin, at bakit?
