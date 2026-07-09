@@ -39,3 +39,7 @@
           target: es/2026-03/03/03
         - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/06/LECCION-3-MARTES.mp3
           target: es/2026-03/03/04
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/06/LECCION-3-MIERCOLES.mp3
+          target: es/2026-03/03/05
+        - src: https://www.audioescuelasabatica.com/wp-content/uploads/2026/06/LECCION-3-JUEVES.mp3
+          target: es/2026-03/03/06
