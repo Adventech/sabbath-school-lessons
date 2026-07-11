@@ -8,3 +8,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2026-03-02.mp4
           target: tl/2026-03/02
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/hope/tl-hope-2026-03-02.webp
+    - artist: Solid Rock Ministries
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2026-03-02.mp4
+          target: tl/2026-03/02
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/tl/srm/tl-srm-2026-03-02.webp
