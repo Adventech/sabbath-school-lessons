@@ -5,3 +5,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-01.mp4
           target: fr/2026-03-cq/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-01.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-03.mp4
+          target: fr/2026-03-cq/03
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-03.webp
