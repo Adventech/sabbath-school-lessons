@@ -1,7 +1,7 @@
-yt-dlp "https://www.youtube.com/watch?v=oPGpOjsp7d8" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/bol/ru-bol-2026-03-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=g0lcMcmE00o" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/cm/es-cm-2026-03-02.mp4" && ffmpeg -i "es/cm/es-cm-2026-03-02.mp4" -to 11:19 -c copy "es/cm/es-cm-2026-03-02.mp4-cut.mp4" && mv "es/cm/es-cm-2026-03-02.mp4" "es/cm/es-cm-2026-03-02.mp4-full.mp4" && mv "es/cm/es-cm-2026-03-02.mp4-cut.mp4" "es/cm/es-cm-2026-03-02.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=NH-hMTGMEb0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ml/ml-2026-03-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=cJO-78Bcfis" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/af/en-af-2026-03-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=BDcIoa8YCcA" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "hu/hope/hu-hope-2026-03-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=Id_OHzBVCPA" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "af/insig/af-insig-2026-03-03.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=jXhm6wJYIBk" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pl/pl-2026-03-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=bFxyBIF8BNI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/cm/es-cm-2026-03-03.mp4" && ffmpeg -i "es/cm/es-cm-2026-03-03.mp4" -to 11:23 -c copy "es/cm/es-cm-2026-03-03.mp4-cut.mp4" && mv "es/cm/es-cm-2026-03-03.mp4" "es/cm/es-cm-2026-03-03.mp4-full.mp4" && mv "es/cm/es-cm-2026-03-03.mp4-cut.mp4" "es/cm/es-cm-2026-03-03.mp4"
