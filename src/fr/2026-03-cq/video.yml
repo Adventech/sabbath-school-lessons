@@ -8,3 +8,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-03.mp4
           target: fr/2026-03-cq/03
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-03.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-04.mp4
+          target: fr/2026-03-cq/04
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ca/fr-ca-inv-2026-03-04.webp
