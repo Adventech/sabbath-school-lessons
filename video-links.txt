@@ -1,9 +1,9 @@
-yt-dlp "https://www.youtube.com/watch?v=9ujDngJgnIA" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ml/ml-2026-03-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=V8UnbbruyHg" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "af/insig/af-insig-2026-03-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=Wz8bX0j7EeY" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ilo/ilo-2026-03-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=IxMMhfbsKO0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tl/srm/tl-srm-2026-03-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=UI4o8IWsli0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pl/pl-2026-03-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=qhiLwfE7IAE" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/cm/es-cm-2026-03-04.mp4" && ffmpeg -i "es/cm/es-cm-2026-03-04.mp4" -to 11:44 -c copy "es/cm/es-cm-2026-03-04.mp4-cut.mp4" && mv "es/cm/es-cm-2026-03-04.mp4" "es/cm/es-cm-2026-03-04.mp4-full.mp4" && mv "es/cm/es-cm-2026-03-04.mp4-cut.mp4" "es/cm/es-cm-2026-03-04.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=2AlkpmWn2x4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2026-03-03.mp4"
+yt-dlp "https://www.youtube.com/watch?v=vUtQCdnVt5E" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/af/en-af-2026-03-05.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=mJAP3qJxjQM" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2026-03-04.mp4"
+yt-dlp "https://www.youtube.com/watch?v=n50jDaYP-Do" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ko/dsn/ko-dsn-2026-03-05.mp4"
