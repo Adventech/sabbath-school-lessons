@@ -3,8 +3,6 @@ title:  Misijní příběh
 date:  31/07/2026
 ---
 
-_(Text přeložený pomocí automatického překladače)_
-
 #### Davisovi indiáni: 1. část
 
 _Michael W. Campbell_
@@ -19,8 +17,10 @@ Tyto kmeny se o adventistické práci dozvěděly prostřednictvím kontaktu s d
 
 Cesta trvala Davisovi dva měsíce. V jedné zprávě uvedl, že cestoval 29 dní lodí a dalších 10 dní hustým lesem.
 
-Davis učil pralesní kmeny Božímu slovu ze své „černé knihy“ a oznámil založení tří misijních stanic. Zaznamenal, že 187 lidí „se rozhodlo zachovávat Boží přikázání a víru v Ježíše“. Postavil tři modlitebny a začal nové věřící vyučovat „bodům naší víry“. Také je naučil zpívat píseň v angličtině: „Není přítele, jako je tichý Ježíš“ (v anglickém originále „There's Not a Friend Like the Lowly Jesus“).
+Davis učil pralesní kmeny Božímu slovu ze své „černé knihy“ a oznámil založení tří misijních stanic. Zaznamenal, že 187 lidí „se rozhodlo zachovávat Boží přikázání a víru v Ježíše“. Postavil tři modlitebny a začal nové věřící vyučovat „bodům naší víry“. Také je naučil zpívat píseň v angličtině: „Není přítele, jako je pokorný Ježíš“ (v anglickém originále „There's Not a Friend Like the Lowly Jesus“).
 
 Davis se vrátil na druhou návštěvu v roce 1911. Těsně před odjezdem si stěžoval na horečku a srdeční potíže. Poslední záznam v jeho deníku, který dokázal napsat vlastní rukou, byl: „Pondělí 17. července – Den jsme strávili dalším vyučováním a dáváním jmen lidem.“ Dávání nových jmen odkazovalo na touhu nových konvertitů po novém jménu, které by symbolizovalo jejich odhodlání následovat křesťanského Boha a učit se Jeho cestám.
 
-_Tento příběh byl upraven z biografického článku Michaela Campbella v online Encyklopedii adventistů sedmého dne. Zveme vás k návštěvě encyklopedie.adventist.org, kde najdete více příběhů o adventistických misionářích. Zbytek tohoto příběhu si přečtěte příští týden._
+_Tento příběh byl převyprávěn z biografického článku Michaela Campbella v online Encyklopedii adventistů sedmého dne. Zveme vás k návštěvě encyklopedie.adventist.org, kde najdete více příběhů o adventistických misionářích._
+
+_Zbytek tohoto příběhu si přečtete příští týden._
