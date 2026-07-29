@@ -138,6 +138,8 @@ let validateContent = async function () {
 
 validateContent().then(async function (){
     if (failMessages.length) {
+        core.setFailed("Ooops! Looks like you have to fix some issues before I can merge this PR");
+
         let pullRequestComment = "Ooops! Looks like you have to fix some issues before I can merge this PR\n"
         pullRequestComment += "||Error description |\n| ----------- | ----------- |"
 
@@ -159,6 +161,5 @@ validateContent().then(async function (){
             }
         });
 
-        core.setFailed("Ooops! Looks like you have to fix some issues before I can merge this PR");
     }
 })
