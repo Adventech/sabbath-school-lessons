@@ -35,3 +35,45 @@
           target: cs/2026-03/02/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_02-7.mp3
           target: cs/2026-03/02/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-1.mp3
+          target: cs/2026-03/03/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-2.mp3
+          target: cs/2026-03/03/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-3.mp3
+          target: cs/2026-03/03/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-4.mp3
+          target: cs/2026-03/03/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-5.mp3
+          target: cs/2026-03/03/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-6.mp3
+          target: cs/2026-03/03/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_03-7.mp3
+          target: cs/2026-03/03/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-1.mp3
+          target: cs/2026-03/04/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-2.mp3
+          target: cs/2026-03/04/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-3.mp3
+          target: cs/2026-03/04/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-4.mp3
+          target: cs/2026-03/04/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-5.mp3
+          target: cs/2026-03/04/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-6.mp3
+          target: cs/2026-03/04/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_04-7.mp3
+          target: cs/2026-03/04/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-1.mp3
+          target: cs/2026-03/05/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-2.mp3
+          target: cs/2026-03/05/02
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-3.mp3
+          target: cs/2026-03/05/03
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-4.mp3
+          target: cs/2026-03/05/04
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-5.mp3
+          target: cs/2026-03/05/05
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-6.mp3
+          target: cs/2026-03/05/06
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_05-7.mp3
+          target: cs/2026-03/05/07
