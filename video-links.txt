@@ -66,4 +66,6 @@ yt-dlp "https://www.youtube.com/watch?v=JczbtGevcaM" -S vcodec:h264,res:1080,aco
 
 yt-dlp "https://www.youtube.com/watch?v=zBiUjvk2rIE" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "it/inv/it-2026-03-inv-06.mp4"
 
+yt-dlp "https://youtu.be/MyTmCKkKdoI?si=EbWx-orMjk_O9JKr" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "af/insig/af-insig-2026-03-06.mp4"
+
 yt-dlp "https://www.youtube.com/watch?v=7G_zwi6g5vw" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ilo/ilo-2026-03-06.mp4"
