@@ -3,7 +3,7 @@ title:  Gesprächsfragen SabbatschulWiki
 date:   14/08/2026
 ---
 
-**EINSTIEG**
+**EINSTIEG (und DONNERSTAG)**
 
 **1.Korinther 13,13:** *"Nun aber bleiben Glaube, Hoffnung, Liebe, diese
 drei; aber die Liebe ist die größte unter ihnen."*
@@ -79,6 +79,7 @@ mich zu rühmen, und hätte der Liebe nicht, so wäre mir’s nichts nütze."*
 
 → Ich schlage vor, dass man hier jede dieser Eigenschaften der Liebe
 einzeln bespricht und herausarbeitet, was sie in der Praxis bedeuten.
+Aus Zeitgründen wird man allerdings Schwerpunkte setzen müssen.
 
 → In welchen Alltagssituationen können diese Eigenschaften zum Tragen
 kommen?
@@ -97,6 +98,51 @@ kommen?
 -   *sie lässt sich nicht erbittern*
 -   *sie rechnet das Böse nicht zu*
 -   *sie freut sich nicht über die Ungerechtigkeit*
+
+→ Ich schlage auch hier vor, dass man jede dieser Nicht-Eigenschaften
+der Liebe einzeln bespricht und herausarbeitet, was sie in der Praxis
+bedeuten. Aus Zeitgründen wird man allerdings auch hier Schwerpunkte
+setzen müssen.
+
+→ In welchen Alltagssituationen können diese Eigenschaften zum Tragen
+kommen?
+
+→ Sprecht auch darüber, was davon euch besonders schwer fällt!
+
+Zusammenfassung von Montag- und Dienstagabschnitt:
+
+-   Wo in dieser Aufzählung (Verse 4-7) wird sichtbar, wie die Liebe als
+    Haltung über Gefühle siegt?
+
+**ZITAT:** *"Gefühle können kommen und gehen. Aber die Liebe nicht."*
+(Erhard Blanck)
+
+-   Welche Rolle spielt in Verbindung mit der Liebe die Beständigkeit?
+
+**MITTWOCH (Ein Portrait von Jesus)**
+
+**ZITAT (Lektion Seite 74):** *"Wenn wir 1.Korinther 13,4-7 lesen, sind
+wir vielleicht frustriert, weil wir erkennen, dass wir mehr oder weniger
+nicht alle diese Eigenschaften der Liebe aufweisen. Tatsächlich hat nur
+Christus alle diese Eigenschaften der Liebe vollkommen offenbart."*
+
+-   Wer von euch ist frustriert, wenn sie/er sich im Spiegel von
+    1.Korinther 13 sieht?
+-   Wie können wir mit dieser Frustration bzw. mit dem Nicht-Erreichen
+    dieses hohen Anspruches umgehen?
+-   Wie kann man trotz des unablässigen Scheiterns an 1.Korinther 13 ein
+    glücklicher Christ sein?
+
+**Johannes 13,1:** *"Vor dem Passafest aber erkannte Jesus, dass seine
+Stunde gekommen war, dass er aus dieser Welt ginge zum Vater. Wie er die
+Seinen geliebt hatte, die in der Welt waren, so liebte er sie bis ans
+Ende."*
+
+-   Was lernen wir von Jesus über das Wesen der Liebe?
+-   Wie hat sich seine Liebe geäußert?
+
+**ZITAT:** *"Unsere Welt braucht Menschen, die die Liebe Jesus darin
+verkörpern."* (Albert Schweitzer)
 
 Weitere Fragen oder Ideen? - du bist herzlich zur Mitarbeit eingeladen:
 https://wiki.sabbatschule.at
