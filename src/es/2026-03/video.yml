@@ -20,6 +20,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2026-03-06.mp4
           target: es/2026-03/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2026-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2026-03-07.mp4
+          target: es/2026-03/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/viva/es-2026-03-07.webp
     - artist: Escrito Está
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2026-03-01.mp4
@@ -40,6 +43,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2026-03-06.mp4
           target: es/2026-03/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2026-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2026-03-07.mp4
+          target: es/2026-03/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/ee/es-2026-03-07.webp
     - artist: Pastor Alejandro Bullon
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/bul/es-2026-03-01.mp4
@@ -80,6 +86,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2026-03-06.mp4
           target: es/2026-03/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2026-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2026-03-07.mp4
+          target: es/2026-03/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/her/es-2026-03-07.webp
     - artist: SUMtv Latino
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-03-01.mp4

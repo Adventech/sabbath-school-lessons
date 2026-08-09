@@ -54,6 +54,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-03-06.mp4
           target: fr/2026-03/06
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-03-06.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-03-07.mp4
+          target: fr/2026-03/07
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/esj/fr-esj-2026-03-07.webp
     - artist: Églises Adventistes du Nord de la France
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-03-02.mp4
