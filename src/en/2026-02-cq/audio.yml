@@ -24,3 +24,7 @@
           target: en/2026-02-cq/10
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/INV_2026_Q2_L11.mp3
           target: en/2026-02-cq/11
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/INV_2026_Q2_L12.mp3
+          target: en/2026-02-cq/12
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-02/INV_2026_Q2_L13.mp3
+          target: en/2026-02-cq/13

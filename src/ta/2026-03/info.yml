@@ -1,0 +1,20 @@
+---
+  title: "கொரிந்தியர் ஒன்றாம், இரண்டாம் நிருபங்கள்"
+  description: "கடிதங்கள் எழுதுவது பழங்கால ஒரு வழக்கம், இப்போதும்கூட அது வழக்கொழிந்து போகவில்லை. நாம் கடிதங்கள் எழுதுகிற முறையைத்தான் மாற்றியிருக்கிறோம். ஆம், காகிதத்தின் இடத்தை சமூக ஊடகங்கள் பிடித்துக்கொண்டன. ஆனாலும், மின்னஞ்சல்களும் பிற மின்னணு கடித வடிவங்களும் அடிப்படையில் அதே வேலையைத்தான் செய்கின்றன; அதாவது, தகவல்கள், உணர்வுகள், எண்ணங்களைப் பகிர்வதன்மூலம் மக்களை இணைக்கின்றன. "
+  human_date: "ஜூலை · ஆகஸ்ட் · செப்டெம்பர் 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: "#605045"
+  color_primary_dark: "#4B3C32"
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Adenilton T. de Aguiar"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Scheidweiler"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"

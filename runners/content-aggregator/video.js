@@ -647,6 +647,19 @@ let italianVideo = async function () {
             return `https://sabbath-school-media-tmp.s3.amazonaws.com/it/it-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
         }
     )
+
+    await weeklyVideo(
+        "it",
+        "Scuola del Sabato InVerse",
+        {
+            artist: "Scuola del Sabato InVerse",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/it/inv/it-${targetQuarter}-inv-${String(week).padStart(2, '0')}.mp4`
+        },
+        "cq"
+    )
 }
 
 let hungarianVideo = async function () {

@@ -804,15 +804,15 @@ let processPortOfChangedFiles = async function () {
                     continue
                 }
 
-                if (/\d-aij-(bg|bb)/.test(changedFile)) {
+                if (/\d-aij-(bg|bb|kd|pr)/.test(changedFile)) {
                     continue
                 }
 
-                if (/\d-0?(sg|tg)-aij-(bg|bb)/.test(changedFile)) {
+                if (/\d-0?(sg|tg)-aij-(bg|bb|kd|pr)/.test(changedFile)) {
                     continue
                 }
 
-                if (/aij(bg|bb)/.test(changedFile)) {
+                if (/aij(bg|bb|kd|pr)/.test(changedFile)) {
                     continue
                 }
 

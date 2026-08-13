@@ -1,0 +1,26 @@
+---
+  title: "1 e 2 Coríntios"
+  description: "Escrever cartas é uma prática antiga que não se tornou obsoleta. Apenas mudamos a forma de escrevê-las. É verdade que as redes sociais substituíram o papel; ainda assim, em essência, e-mails e outras formas de mensagens eletrônicas cumprem a mesma função: conectar pessoas por meio da troca de informações, sentimentos e pensamentos."
+  human_date: "Julho · Agosto · Setembro 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: '#932C2F'
+  color_primary_dark: '#671C1E'
+  splash: true
+  credits:
+    - name: Autor
+      value: "Adenilton T. de Aguiar"
+    - name: Tradutor
+      value: "Matheus Cardoso"
+    - name: Coordenador
+      value: "André Oliveira Santos"
+    - name: Editor
+      value: "Oscar Lopes"
+    - name: Revisoras
+      value: "Adriana Teixeira e Rosemara Santos"
+    - name: Editor de arte
+      value: "Thiago Lobo"
+    - name: Projeto gráfico
+      value: "Eduardo Olszewski"
+    - name: Capa e layout
+      value: "Fábio Fernandes"

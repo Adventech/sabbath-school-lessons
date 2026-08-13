@@ -22,10 +22,10 @@
     order: 600
   pr:
     name: "Primary"
-    order: 700
+    order: 898
   kd:
     name: "Kindergarten"
-    order: 800
+    order: 899
   bg:
     name: "Beginner"
     order: 900

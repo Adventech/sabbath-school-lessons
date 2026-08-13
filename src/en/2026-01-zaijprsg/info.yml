@@ -1,0 +1,34 @@
+---
+  title: "Student YAQ1: My God Is Loving"
+  description: "Year A, Quarter 1"
+  human_date: "January · February · March 2026"
+  start_date: "28/12/2025"
+  end_date: "28/03/2026"
+  color_primary: "#2E3A42"
+  color_primary_dark: "#17252E"
+  credits:
+    - name: Principal Contributors
+      value: Jenny Paddison
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editor
+      value: Rosanne Peach
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard, Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Clinton Wahlen, Frank Hasel
+    - name: Creative Director
+      value: Meredith Herzel
+    - name: Illustrator
+      value: Jo Card
+    - name: Principal Designer
+      value: Types and Symbols
+    - name: Designer
+      value: Megan Betteridge
+    - name: Copy Editors
+      value: James and Ida Cavil
+  quarterly_group:
+    "name": "Alive in Jesus. Primary"
+    "order": 848

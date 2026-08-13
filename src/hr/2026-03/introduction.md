@@ -1,0 +1,19 @@
+### Bit kršćanskog života i svjedočenja
+
+Pisanje pisama prastari je običaj koji još uvijek nije zastario. Promijenili smo samo način na koji se pisma pišu. Da, društveni mediji zamijenili su papir. Međutim, elektronička pošta i drugi oblici elektroničkih pisama u osnovi imaju istu ulogu - povezuju ljude putem razmjene informacija, osjećaja i misli.
+
+Zašto ljudi pišu pisma? Mogući je odgovor da imaju nešto reći. Tako je bilo i s apostolom Pavlom. Premda je imao tako mnogo za reći, nije se uvijek mogao naći licem u lice s onima s kojima je želio razgovarati.
+
+Zato im je, umjesto toga, pisao poslanice kao što su poslanice Korinćanima, koje sadrže neke od najdubljih biblijskih istina. Među njima su: “Jer ne držah zgodnim među vama išta drugo znati osim Isusa Krista, i to razapetoga." (1. Korinćanima 2,2) "Ta, poznato vam je milosrđe Gospodina našega Isusa Krista, kako je radi vas od bogataša postao siromah da vi postanete bogataši njegovim siromaštvom.” (2. Korinćanima 8,9) A što tek reći za vrhunski hvalospjev ljubavi u 1. Korinćanima 13?
+
+S druge strane, svatko tko čita Pavlove poslanice Korinćanima neizbježno će ostati zbunjen, ne samo zbog nekih ozbiljnih problema unutar crkve kao što je spolni nemoral već i zbog sitničarenja nastalog kao posljedica jeftinog strančarenja među vjernicima. Ako mislite da vaša crkva ima problema, pripremite se da vidite lavinu svađa s kojima se Pavao morao suočavati u Korintu. Možda problemi u vašoj mjesnoj crkvi ipak nisu tako veliki kao što mislite. Vrlo vjerojatno ćete se uvjeriti da su prilike u Korintu bile mnogo gore.
+
+Koliko god problemi u Korintu bili uznemirujući, poslanice Korinćanima privlače našu pozornost ne zbog samih problema, već zbog izvanrednog načina na koji se Pavao suočava s njima. Potičući vjernike da preispitaju sebe, svoje ponašanje i okolnu kulturu u svjetlu Evanđelja o Isusu Kristu, on uzdiže poruku o križu. Ako upotrijebimo riječ koju koristi sam Pavao, svako Evanđelje protivno onom koje su primili treba smatrati "prokletim” (Galaćanima 1,8.9).
+
+U Pavlovo vrijeme Korint je bio poznat po svojem bogatstvu i razvijenoj trgovini, a sve zahvaljujući luci, arhitekturi, brodogradnji i keramici. Taj grad bio je važno trgovačko središte. Ali osim toga, bio je poznat i po svojem spolnom nemoralu, vjerskoj zbrci i hramovima posvećenim raznim bogovima. Svakodnevni život u Korintu bio je obilježen neskrivenim idolopoklonstvom. Ta povijesno-kulturna pozadina pomaže nam da razumijemo Pavlove glavne brige u vezi s kršćanima u tom gradu i, u skladu s tim, poticaje koje im on upućuje.
+
+Ovog tromjesečja proučavat ćemo Pavlove poslanice Korinćanima. U tim dvjema izvanrednim novozavjetnim knjigama, apostol prikazuje evanđeosku poruku kao bit kršćanskog života i svjedočenja, kao prizmu kroz koju sve drugo treba promatrati. Bez obzira na izazove s kojima se kao pojedinci ili crkva suočavamo na putu u Nebo - odgovor na najsloženija pitanja u našem radu za Krista isti je kao onaj koji je vrijedio i za Korinćane: “Isus Krist, i to razapeti!” (1. Korinćanima 2,2)
+
+Isus dolazi ubrzo. Ovo je vrijeme za veće jedinstvo u Kristu i veću otvorenost za Duha Svetoga nego ikada prije, za marljivu upotrebu duhovnih darova i mnogo dublje iskustvo s uskrslim Gospodinom. Vrijeme je za istinsku kršćansku službu, za sudjelovanje u upraviteljskoj službi i misiji, za duhovni rat protiv lažnih učenja, za rast u milosti, ljubavi i zajedništvu. Ovo je vrijeme kad se trebamo držati čvrsto i biti vjerni poruci križa, a Pavlove poslanice Korinćanima uče nas upravo tome.
+
+_Dr. Adenilton Tavares de Aguiar, profesor na katedri za tumačenje Novog zavjeta na Sjeveroistočnom adventističkom koledžu u Kashoeu u saveznoj državi Bahiji u Brazilu, gdje služi od 2010. godine._

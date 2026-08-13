@@ -1,0 +1,20 @@
+---
+  title: "1 aro 2 Korinthirangna"
+  description: "1 aro 2 Korinthirangna"
+  human_date: "July · August · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: '#605045'
+  color_primary_dark: '#4B3C32'
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Adenilton T. de Aguiar"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Scheidweiler"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"

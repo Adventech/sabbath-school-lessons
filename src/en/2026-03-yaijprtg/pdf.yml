@@ -1,0 +1,87 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-teacher.pdf'
+      target: en/2026-03-yaijprtg/teacher
+      title: Dear Primary Sabbath School Teacher
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-tips.pdf'
+      target: en/2026-03-yaijprtg/tips
+      title: Tips for Telling Bible Stories in Sabbath School
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-crafts.pdf'
+      target: en/2026-03-yaijprtg/crafts
+      title: Craft Resources
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-cards.pdf'
+      target: en/2026-03-yaijprtg/cards
+      title: Character Cards
+      start_date: 28/06/2026
+      end_date: 28/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-01.pdf'
+      target: en/2026-03-yaijprtg/01
+      title: Two Birth Announcements
+      start_date: 28/06/2026
+      end_date: 04/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-02.pdf'
+      target: en/2026-03-yaijprtg/02
+      title: The Gift of Jesus
+      start_date: 05/07/2026
+      end_date: 11/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-03.pdf'
+      target: en/2026-03-yaijprtg/03
+      title: Worshipping Baby Jesus
+      start_date: 12/07/2026
+      end_date: 18/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-04.pdf'
+      target: en/2026-03-yaijprtg/04
+      title: Keeping Baby Jesus Safe
+      start_date: 19/07/2026
+      end_date: 25/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-05.pdf'
+      target: en/2026-03-yaijprtg/05
+      title: Growing Up in Nazareth
+      start_date: 26/07/2026
+      end_date: 01/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-06.pdf'
+      target: en/2026-03-yaijprtg/06
+      title: At the Jordan River
+      start_date: 02/08/2026
+      end_date: 08/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-07.pdf'
+      target: en/2026-03-yaijprtg/07
+      title: Victory in the Wilderness
+      start_date: 09/08/2026
+      end_date: 15/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-08.pdf'
+      target: en/2026-03-yaijprtg/08
+      title: Called to Follow Jesus
+      start_date: 16/08/2026
+      end_date: 22/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-09.pdf'
+      target: en/2026-03-yaijprtg/09
+      title: No More Grape Juice!
+      start_date: 23/08/2026
+      end_date: 29/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-10.pdf'
+      target: en/2026-03-yaijprtg/10
+      title: Jesus Feeds the Crowds
+      start_date: 30/08/2026
+      end_date: 05/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-11.pdf'
+      target: en/2026-03-yaijprtg/11
+      title: Growing Disciples
+      start_date: 06/09/2026
+      end_date: 12/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-12.pdf'
+      target: en/2026-03-yaijprtg/12
+      title: Zacchaeus
+      start_date: 13/09/2026
+      end_date: 19/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-TG-13.pdf'
+      target: en/2026-03-yaijprtg/13
+      title: Blessings in Capernaum
+      start_date: 20/09/2026
+      end_date: 26/09/2026

@@ -1,0 +1,65 @@
+---
+title:  Mga Komento Sang Mga Manunudlo
+date:   28/08/2026
+---
+
+### Bahin I: Kabilogan nga Panan-aw
+
+**Sadsaran nga Teksto:** 2 Corinto 2:4
+
+**Sentro Sang Pagtoon:** 2 Corinto 1:314; ٢ Corinto 2:1‒17
+
+**Panugod:** Sa gamay nga minuro, may babayi nga ang ngalan ya si Anna nga nagapadalagan sang panaderya. Kada aga, ginapuno niya ang hangin sang kahumot sang bag-o lang naluto nga tinapay kag mainit nga mga panakot. Ang kahumot sini nagalalab-ot sa mga kalsada, nga nagaganyat sa mga tawo. Ang iban nagakakunyag sa pagbakal, samtang ang iban nalipay lamang sa paghaklo sang makapaumpaw nga mga kaamyon samtang nagaagi sila.
+
+Apang, indi tanan nalipay sini. Ang isa ka kaingod, si Ginoong Grayson, padayon sa pagreklamo tungud sang tuman nga kahumot nga iya nahaklo. “Ini nga baho yara bisan diin lang! Indi ko ini malikawan!” kumud niya.
+
+Isa ka adlaw, sang tuman kabaskug ang bagyo sa tigtulugnaw, nadulaan sang kuryente ang minuro. Madamu ang gintugnawan kag nagutuman, apang ang panaderya ni Anna may hurnohan nga ginagamit ang kahoy. Ginbuksan niya ang iya mga ganhaan, nga naghatag sang kainit kag pagkaon sa bisan sin-o nga nagakinahanglan. Ginsunod sang mga tawo ang pamilyar nga kahumot, nga nakahibalo nga nagadul-ong ini sa duug sang kasulhay kag pagkaon.
+
+Bisan si Ginoong Grayson, nga palareklamo anay, naganyat man sa pagkadto sa panaderya. Samtang ginabaton niya ang mainit nga tinapay, natalupangdan niya nga ang amo man nga kahumot nga iya anay ginakaugtan amo na karon ang nagasakdag sa iya.
+
+Ang Cristianismo labaw pa sa sadsaran nga mga pagpati ukon teolohiko nga pagpamalandong. Nagalakip ini sang mga tawo, mga komunidad, kag isa ka Dios nga kaupud naton sa aton pinakamadulum nga mga tion ukon sa putukputukan sang aton pinakamataas nga mga kadalag-an. Sa ikaduha nga sulat sa mga taga-Corinto, madamu kita sang maton-an nahanungud sa kabuhi kag pag-alagad ni Pablo paagi sa iya pagpakig-angot sa iglesia. Matalupangdan naton, sa liwat, nga labaw pa sa aton mga pulong, ang aton mga panimuut kag mga kaangtanan nagapaalinton sang kahumot ni Cristo kag nagaganyat sang kalibutan nga nagahandum sang paglaum.
+
+**Mga Tema Sang Leksyon**
+
+Ang leksyon sini nga semana nagapatalupangud sang pila ka importante nga mga tema, lakip ang masunod:
+
+1. **Ang Lugpay Sang Dios sa Pag-antus:** Ang Dios nagalugpay sa aton sa mga tion sang pag-antus kag nagahatag sa aton sang ikasarang sa paglugpay sa iban (2 Corinto 1:3‒7).
+2. **Pagsalig sa Dios, Indi sa Aton Kaugalingon:** Ang pag-antus nagatudlo sa aton sa pagsalig sa Dios (2 Corinto 1:8‒11).
+3. **Integridad kag Katutum sa Ministerio:** Ang Cristianong ministerio dapat mangin sinsero kag nagapakita sang katutum sang Dios (2 Corinto 1:12‒14, 17‒22).
+4. **Pagpatawad kag Pagpasag-uli:** Ang pag-alagad nga ginatuytuyan sang gugma nagapangita sang pag-uliay, indi sang pagpakamalaut (2 Corinto 2:5‒11).
+5. **Ang Kahumot ni Cristo:** Ang aton mga kabuhi dapat magpalapnag sang mensahe ni Cristo, subong sang mahumot nga kaamyon, bisan pa nga ang iban nagasikway sini (2 Corinto 2:14‒17).
+
+### Bahin II: Komentaryo
+
+1. Maragtason nga Ginhalinan Sang 2 Corinto: Ang nagsulat sang ikaduha nga sulat sa mga taga-Corinto nga si Pablo wala ginpamatukan sing serioso kag ginakilala sang una nga mga amay sang simbahan, lakip si Polycarp (ca. a.d. 155), Irenaeus (ca. a.d. 185), Clement sang Alexandria (ca. a.d. 200), kag Tertullian (ca. a.d. 201). Apang, subong sang ginsambit sang iban, ang 2 Corinto “pat-ud gid nga amo ang sulat ni Pablo nga may labing komplikado nga hugpong sang maragtason, sosyal, kag komunal nga mga elemento sa likod sini.”—Philip Towner, “Corinthians, Second Letter To” sa The New Interpreter’s Dictionary Of The Bible, ed. K. Doob Sakenfeld, (Nashville, TN: Abingdon Press, 2006), tom. 1, p. 744.
+
+Isa sa mga rason sang sining komplikasyon amo ang indi masyado hapsay nga pagsaylo sa tunga sang mga topiko kag ang gulpyada nga mga pagbalhin sa tono. Ang sulat siguro ginsulat sa malawig nga tion, samtang nagapakadto si Pablo sa Macedonia (2 Corinto 2:1‒12) nga nakasugata sang pagbag-o sang mga kondisyon kag ayhan nakakuha sang dugang nga balita halin sa iglesia. Ining mga kondisyon kag mga impormasyon ayhan amo ang nakadugang sa topiko nga daw wala nagasanto sa mga una na nga nasambit.
+
+2. Isa ka Ministerio nga Ginatuytuyan Sang Gugma: Sa 2 Corinto 1–2, ginapadaku ni Pablo ang pila ka panguna nga mga kinaiya sang isa ka pag-alagad nga ginatuytuyan sang gugma. Ang iya personal nga mga inagihan, lakip ang pag-antus, pagpatawad, kag pagkasinsero, nagapakita kon paano ang matuud nga Cristianong pag-alagad pahulagon sang gugma sang Dios, sa baylo sang kaugalingon nga bentaha ukon kahimtangan sa sosyodad. Ang masunod nga mga sub-categories makita sa biblikanhon nga teksto kag puwede matalakay sa inyo grupo sa tion sang eskuwela sabatica:
+A. Kalooy kag Paglipay (2 Corinto 1:3‒7): Ginalaragway ni Pablo ang Dios bilang “Amay sang mga kalooy” kag “Dios sang tanan nga paglipay” (2 Corinto 1:3). Ang kalooy kag paglipay amo gid ang nabaton ni Pablo halin sa Dios sa iya kaugalingon nga mga pagtilaw. Gani, ang apostol nakahimo sang kaangay nga kalooy sa mga tawo sa palibut niya, lakip ang iya mga iglesia. Ang pag-alagad nga ginatuytuyan sang kalooy nagahatag sang paglipay sa iban, subong nga ginapahalipay kita sang Dios sa aton pag-antus (2 Corinto 1:4). Ang pag-alagad indi nahanungud sa gahum ukon pagkontrol kondi ang pag-ambit sa kasakit sang mga tawo kag pagtudlo sa ila kay Cristo. Ginapahanumdum ni Pablo ang mga taga-Corinto nga ang iya kaugalingon nga mga pag-antus nagtugot sa iya nga mas mahangpan kag makaalagad sa iban nga nagaantus (2 Corinto 1:6).
+
+b. Pagsalig sa Dios, Indi sa Kaugalingon (2 Corinto 1:8‒11): Sa sining ikaduha nga bahin sang prologo (ukon seksyon sang panamyaw), ginadumdum ni Pablo ang tion sang yara sia sa idalum sang tuman nga kapipit-an, labaw sa iya masarang, sa bagay nga indi na gani sia gusto nga mabuhi pa (2 Corinto 1:8). Sa baylo nga magsalig sa iya kaugalingon, nagsalig sia sa Dios, nga may ikasarang sa pagbanhaw sang mga patay (2 Corinto 1:9). Ang laragway sang pagkabanhaw ginagamit diri sa pagpakita nga ang Dios makasarang sa paghimo (kag naghimo) sang imposible kon nagasalig kita sa Iya. Ang pag-alagad nga ginatuytuyan sang gugma nasandig sa gahum sang Dios, indi sa ikasarang sang tawo. Ginaagda ni Pablo ang iya mga tagpalamati (kag kita man) nga indi maghulag nga daw yara sa ila ang tanan nga mga sabat kondi, sa baylo, sa pagtudlo sa mga tawo nga magsalig sa Dios, nga nagaluwas sang Iya kaanakan halin sa mga pagtilaw (2 Corinto 1:10).
+
+c. Integridad kag Sinseridad (2 Corinto 1:12‒14): Si Pablo nagapamilit nga ang iya pag-alagad ginhimo nga may pagkabalaan, pagkasinsero, kag pagkahayag, indi paagi sa kalibutanon nga kaalam kondi paagi sa bugay sang Dios (2 Corinto 1:12). Ginapangapinan ni Pablo ang iya kaugalingon batok sa mga panumbungon nga indi sia masaligan kag pagbulubag-o sang hunahuna, nga nagapasalig sa mga taga-Corinto nga wala sia nagapangdaya sang ginbag-o niya ang iya mga plano sa pagpanglakaton (2 Corinto 1:15‒18). Ini nga integridad kag pagkasinsero napasad sa katutum sang Dios kag nangin maathag sa wali ni Pablo nga nasentro kay Cristo, subong sang ginapatuhuyan sa 2 Corinto 1:20: “Kay ang tanan nga saad sang Dios nakakita sang ila Hoo sa iya [halimbawa, Cristo]. Gani paagi sa iya ginamitlang ta ang Kabay pa, sa himaya sang Dios.” Ang pag-alagad nga ginatuytuyan sang gugma wala nagamaniobra ukon nagapangdaya, kondi nagapanghikot nga may pagkatampad kag integridad.
+
+d. Pagkamatutum sa mga Saad Sang Dios (2 Corinto 1:18‒22): Ginahatagan ni Pablo sang pagtamud nga ang mga saad sang Dios pirme gid “Hoo” kay Cristo (2 Corinto 1:20). Ang pag-alagad nga ginatuytuyan sang gugma nagasentro sa katutum sang Dios, indi sa tawohanon nga mga pagbag-o-bag-o. Ang buluhaton sang Balaan nga Espiritu nagalaragway sang tatlo ka panguna nga hilikuton. Ini una nga “ginapalig-on” ang tumuloo (2 Corinto 1:21). Ang berbo nga ginagamit diri yara sa presente nga tion (present tense), nga nagapahangup sang nagapadayon nga epekto. Ikaduha, ang tumuloo “nahaplasan” agud makapaambit sang maayong balita sa kalibutan, subong sang ginahimo sang sacerdote ukon Levita sa Daan nga Katipan. Sa katapusan, ginapat-inan sang Espiritu ang mga tumuloo sa ila mga tagiposoon subong iya sang Dios (2 Corinto 1:22), nga nagapasalig sa ila sang Iya pangako. Ginalaragway ni Pablo ini nga pat-in bilang “garantiya” (ukon una nga bayad, Griego _arrabōn_) (2 Corinto 1:22), agud nga ang tumuloo makasiguro sang pagkamasaligan sang Dios kag sang Iya wala nagabag-o nga mga saad.
+
+e. Pagpatawad kag Pagpasag-uli (2 Corinto 2:5‒11): Ginapangabay ni Pablo ang mga taga-Corinto nga patawaron kag ibalik ang mahinulsulon nga katapo sang iglesia nga nagtuga sang kasakit (2 Corinto 2:6, 7). Ang iglesia nga ginapahulag sang gugma nagapangita sang pag-uliay, indi sang silot ukon pagtimalus. Dayon si Pablo nagapadayon paagi sa pagsiling nga ang indi mapinatawaron nga espiritu nagahatag kay Satanas sang puwesto sa iglesia (2 Corinto 2:11). Sa baylo nga maghupot sang mga aligutgot, ang pag-alagad nga ginatuytuyan sang gugma nagatinguha sa pagpanumbalik sang naguba nga mga kaangtanan nga may grasya kag kalooy.
+
+3. Ang Kahumot ni Cristo (2 Corinto 2:14‒17): Ang mga panimaho nagahatag sang mensahe nga wala ginahambal. Halimbawa, ang mabaho nga mga bagay nagatabog sa aton palayo. Sa pihak nga bahin, ang mahumot nga mga bagay makagalanyat kag nagatandug sang kadadalman sang aton mga emosyon. Ang kahumot sang paborito nga putahe nagapukaw sang aton madugay na nga nalipatan nga mga balatyagon, nga nagapahanumdum sa aton sang puluy-an, pamilya, ukon mga selebrasyon. Ang mga panimaho tama ka importante sa konteksto sang kultura sang biblikanhon nga kalibutan, bangud nga sa masami ini nagaserbe bilang salaming sang personalidad sang tag-iya. Ang sacerdote kag mga hari (subong man ang santuario) ginhaplasan sa Daan nga Katipan, kag ang komposisyon sang lana sa paghaplas nagapakita sang mabaskug nga kaamyon sang kahumot (ipaanggid sa Exodo 30:22‒33), nga nagaunod sang canela (cinnamon), mira, tubo, kag casia. Kinaandan man ang rito sang paghaplas sa pat-ud nga mga tawo ukon mga duug subong iya sang Dios, nga ang kahumot sini karon ginadala nila.
+
+Ginagamit ni Pablo ang metapora sang kahumot sa kaangtanan sa prosesyon sang kadalag-an (nga nagaangot sini sa hunahuna sang iya mga tagpalamati sa kilala nga mga prosesyon sang kadalag-an sang mga Romano). Sa tion sang sining mga kadalag-an, ginpakita ang ebidensya sang kadalag-an. Para kay Pablo, ang iglesia sa Corinto—upud ang tanan nga kaluyahon kag mga hangkat sa sulud—amo ang ebidensya sang kadalag-an sang iya proklamasyon sa atubang sang mga pagtilaw (2 Corinto 2:14). Sing dugang para kay Pablo, ang mga tumuloo “halad nga incienso sang kahumot, nga nagalapta sa tagsa ka duug, amo ang nagaluwas nga ihibalo tuhoy kay Cristo.”— “2 Corinthians” sa Andrews Bible Commentary, ed. Ángel Manuel Rodríguez et al. (Berrien Springs, MI: Andrews University Press, 2022), p. 1665. Ang pag-alagad dapat magaganyat sa mga tawo kay Cristo, subong nga ang matam-is nga kahumot nagapuno sang hulut. Apang, para sa iban, ang ebanghelyo isa ka paglapas, kaangay sang baho sang kamatayon (2 Corinto 2:16).
+
+### Bahin III: Aplikasyon sa Kabuhi
+
+Ang pag-alagad nga ginatuytuyan sang gugma makalab-ot sa mga nagahandum sang paglaum. Ang ini nga sahi sang pag-alagad nagakinahanglan sang kalooy, integridad, pagkasinsero, kag katutum sa mga saad sang Dios. Sa katapusan, ang mga nakasugata kay Jesus kag nabag-o Niya mangin kaangay sang kahumot nga nagaganyat sa iban nga nagapangita sang kaluwasan. Ang una nga mga kapitulo sang ikaduha nga sulat ni Pablo sa mga taga-Corinto nagapakilala sini nga sahi sang pag-alagad, subong sang ginahimo ni Pablo nga kaso para sa iya kaugalingon nga pag-alagad. Base sa 2 Corinto 1‒2, hambali ang masunod nga mga pamangkot sa inyo grupo sa Eskuwela Sabatica:
+
+1. Ngaa ang kalooy kag bugay kinahanglanon para sa pag-alagad nga ginatuytuyan sang gugma? Ano nga mga huwaran ang aton makita sa Kasulatan nga nagalaragway sining mga kinaiya?
+
+2. Madamu sa aton ang indi gusto magsalig sa iban. Ngaa importante nga maton-an ang pagsalig sa isa kag isa sa aton mga simbahan?
+
+3. Si Pablo sulitsulit nga nagapatalupangud sang kahayag kag integridad sa iya pagpakig-angot sa mga iglesia kag mga indibidwal. Ngaa importante gid ang integridad sa aton mga relasyon?
+
+4. Ano ang importansia sang mga saad sang Dios sa imo kabuhi? Paano mo ipaathag sa imo abyan nga indi kapareho sa imo pagtoo nga ang Iya mga saad masaligan?
+
+5. Si Mahatma Gandhi kuno nagsiling, “Ang maluya indi gid makapatawad. Ang pagpatawad amo ang kinaiya sang mabakud.” Ngaa kinahanglanon ang pagpatawad sa aton mga relasyon, sa sulud kag sa gowa sang simbahan?

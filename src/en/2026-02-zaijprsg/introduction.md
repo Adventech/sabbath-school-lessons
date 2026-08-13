@@ -1,0 +1,1 @@
+These 13 programs explore the stories of Isaac, Jacob, Joseph, and Naomi and Ruth while teaching children that no matter what we face, God is with us.

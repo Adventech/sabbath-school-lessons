@@ -1,0 +1,1 @@
+This quarter explores the stories of creation, the fall of Lucifer, Adam and Eve's choice in the Garden of Eden, Cain and Abel, Noah, the Tower of Babel, Abraham, and Baby Isaac.

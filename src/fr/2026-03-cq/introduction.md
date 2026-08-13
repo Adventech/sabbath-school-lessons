@@ -1,0 +1,21 @@
+### Jésus : les dernières scènes de son ministère terrestre
+
+La Bible fait une déclaration incroyable au sujet de Dieu dans 1 Jean 4.8 : Dieu est amour. Elle ne dit pas qu’il possède simplement une certaine quantité d’amour ou que son amour est occasionnel, mais plutôt qu’il est l’incarnation et la source même de tout amour véritable. Dans 1 Corinthiens 13.5, on découvre que l’amour, en raison de sa nature même, n’est pas égocentrique, mais qu’il se focalise sur les autres. Nulle part cet amour « centré sur les autres » n’est plus clairement illustré que dans les dernières scènes du ministère terrestre de Jésus.
+
+Les derniers instants de la vie du Christ ont été marqués par une succession d’émotions fortes. Ces moments témoignent de l’histoire des histoires ; ils contiennent la clé pour découvrir le salut et développer une relation véritable et intime avec notre créateur. C’est aussi un récit qui donne un aperçu profond de l’état d’esprit de Jésus – et de ce sur quoi il s’est focalisé – pendant ses moments les plus difficiles.
+
+Vous ne le croirez peut-être pas au premier abord, mais son attention était tournée vers vous.
+
+Alors qu’il affrontait le rejet de son peuple et des chefs religieux, alors qu’il voyait ses disciples l’abandonner au moment où il avait le plus besoin d’eux, alors qu’il subissait la mort la plus horrible qui soit, alors que l’absence apparente de la présence réconfortante de son Père lui brisait le cœur, Jésus a miraculeusement choisi de se concentrer sur nous : sur vous, sur moi, sur toute l’humanité. C’est vraiment ahurissant !
+
+Dans ce trimestre d’InVerse, nous explorerons les dernières scènes du ministère terrestre de Jésus pour comprendre ce qu’il a fallu pour réaliser la réconciliation et la restauration complètes de l’humanité. Les six premières leçons se penchent sur les dernières actions et les derniers enseignements de Jésus avant son arrestation. Dans Jean 13-17, on trouve une section unique des enseignements de Jésus qui n’est mentionnée nulle part ailleurs dans les Évangiles. Ces chapitres regorgent de promesses et d’enseignements puissants destinés à aider les disciples à traverser leurs heures les plus sombres, et je crois qu’ils ont aussi pour but de nous guider à travers les dernières scènes de l’histoire de la terre. Nous prendrons notre temps pour étudier ces chapitres un par un afin d’en saisir pleinement la profondeur. Les sept leçons restantes se penchent sur le parcours de Jésus, de Gethsémané à la résurrection. Si cette étude est lourde, en revanche, elle est pleine d’espoir, et a le pouvoir de transformer nos vies si nous l’abordons avec un cœur ouvert.
+
+Certains diront sans doute qu’ils connaissent déjà cette histoire. Après tout, tous les chrétiens savent que Jésus est mort pour nous. Que pourrions-nous bien couvrir de plus en treize semaines ? J’ai déjà ressenti la même chose. L’amour de Dieu avait déjà radicalement changé ma vie ; je m’étais converti et j’avais fini par entrer dans le ministère à plein temps. Cependant, après dix ans de vie chrétienne et quatre ans dans le ministère, quelque chose s’est produit qui, encore une fois, a tout changé.
+
+Par une chaude journée d’été de juillet 2014, j’ai entendu un prédicateur raconter l’histoire de la croix d’une manière que je n’avais jamais entendue auparavant. Cela m’a bouleversé, ainsi que tous ceux qui l’ont entendue. Je doute qu’il y ait eu un seul œil sec dans la salle. Ce jour-là, j’ai pris une décision qui a transformé ma vision du ministère : j’ai fait le vœu de ne plus jamais commettre le péché de négliger de partager cette histoire.
+
+Depuis ce jour, j’ai vu cette histoire changer d’innombrables vies. Chaque fois que je l’ai partagée, elle m’a ramené au pied de la croix, comme lorsque je l’ai découverte pour la première fois. Étonnamment, je pleure encore chaque fois que je la raconte.
+
+Je crois que ce parcours en vaudra la peine. Il pourrait même changer votre vie, tout comme il a changé la mienne et celle de tant d’autres personnes au fil des siècles.
+
+_Dee Casper est pasteur en Pennsylvanie, aux États-Unis. Il est aussi directeur de CORE Evangelism School, un programme de formation au discipulat et à l’évangélisation de la Fédération de la Pennsylvanie (www.coreevangelism.com)._

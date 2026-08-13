@@ -1,0 +1,22 @@
+---
+  title: "Kjarni kristilegs lífernis og vitnisburðar"
+  description: "Bréfaskriftir eru aldagömul hefð sem hefur ekki orðið úrelt. Við höfum einungis breytt því hvernig bréfin eru skrifuð. Samfélagsmiðlar eru komnir í stað pappírs. En í grundvallaratriðum gegna tölvupóstar og önnur rafræn bréf sama hlutverki, sem sé að hafa samband við aðra með því að skiptast á upplýsingum, tilfinningum og hugsunum."
+  human_date: "Júlí · Ágúst · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: '#212121'
+  color_primary_dark: '#181818'
+  splash: true
+  credits:
+    - name: Lexíuhöfundur
+      value: "Adenilton Tavares de Aguiar"
+    - name: Þýðing
+      value: "Guðmundur Ólafsson"
+    - name: Prófarkalestur
+      value: "Stefán Stefánsson, Vigdís L. Jack"
+    - name: Hönnun og umbrot
+      value: "Karousel"
+    - name: Myndir
+      value: "Fabio Comparelli, Joseph Pearson, Kelly Sikkema."
+    - name: Prentun
+      value: "Samskipti"

@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_July_S.pdf'
+      target: zh/2026-03-bg/01
+      title: 撒母耳倾听主话
+      start_date: 27/06/2026
+      end_date: 24/07/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_Aug_S.pdf'
+      target: zh/2026-03-bg/02
+      title: 以利亚的食粮
+      start_date: 25/07/2026
+      end_date: 28/08/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_Sept_S.pdf'
+      target: zh/2026-03-bg/03
+      title: 一个新生儿
+      start_date: 29/08/2026
+      end_date: 25/09/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_July_T.pdf'
+      target: zh/2026-03-bg/01
+      title: 撒母耳倾听主话 - 教师本
+      start_date: 27/06/2026
+      end_date: 24/07/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_Aug_T.pdf'
+      target: zh/2026-03-bg/02
+      title: 以利亚的食粮 - 教师本
+      start_date: 25/07/2026
+      end_date: 28/08/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q3/Begin/Begin_A3_Sept_T.pdf'
+      target: zh/2026-03-bg/03
+      title: 一个新生儿 - 教师本
+      start_date: 29/08/2026
+      end_date: 25/09/2026

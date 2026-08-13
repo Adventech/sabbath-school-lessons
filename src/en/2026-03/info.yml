@@ -1,0 +1,20 @@
+---
+  title: "First and Second Corinthians"
+  description: "Writing letters is an age-old activity that has not become obsolete. We’ve merely changed the way that letters are written. Yes, social media superseded paper. However, in their essence, emails and other forms of electronic letters exert basically the same function: they connect people by exchanging information, feelings, and thoughts."
+  human_date: "July · August · September 2026"
+  start_date: "27/06/2026"
+  end_date: "25/09/2026"
+  color_primary: '#605045'
+  color_primary_dark: '#4B3C32'
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "Adenilton T. de Aguiar"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Scheidweiler"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"

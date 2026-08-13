@@ -1,0 +1,32 @@
+---
+  title: "Student YAQ3: Jesus Is My God"
+  description: "Year A, Quarter 3"
+  human_date: "July · August · September 2026"
+  start_date: "28/06/2026"
+  end_date: "26/09/2026"
+  color_primary: "#231C1A"
+  color_primary_dark: "#1B1412"
+  credits:
+    - name: Principal Contributors
+      value: Jenny Paddison
+    - name: Curriculum Manager and Senior Editor
+      value: Nina Atcheson
+    - name: Editor
+      value: Rosanne Peach
+    - name: Editorial Assistant
+      value: Denise Gustafson
+    - name: World Sabbath School Directors
+      value: Jim Howard, Daniel Ebenezer
+    - name: Biblical Research Institute Advisor
+      value: Frank Hasel
+    - name: Creative Director
+      value: Meredith Herzel
+    - name: Illustrator
+      value: Jo Card
+    - name: Designer
+      value: Types and Symbols
+    - name: Copy Editors
+      value: James and Ida Cavil, Meredith Herzel
+  quarterly_group:
+    "name": "Alive in Jesus. Primary"
+    "order": 848

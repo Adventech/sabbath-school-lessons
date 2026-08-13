@@ -1,0 +1,19 @@
+### A essência da vida cristã e do testemunho
+
+Escrever cartas é uma prática antiga que não se tornou obsoleta. Apenas mudamos a forma de escrevê-las. É verdade que as redes sociais substituíram o papel; ainda assim, em essência, e-mails e outras formas de mensagens eletrônicas cumprem a mesma função: conectar pessoas por meio da troca de informações, sentimentos e pensamentos.
+
+Por que as pessoas escrevem cartas? Uma resposta possível: porque têm algo a dizer. Assim foi com o apóstolo Paulo. Embora tivesse muito a comunicar, nem sempre pôde estar face a face com aqueles com quem desejava conversar.
+
+Por isso, escreveu cartas como as dirigidas aos coríntios – que contêm algumas das verdades mais profundas das Escrituras. Entre elas: “Porque decidi nada saber entre vocês, a não ser Jesus Cristo, e este, crucificado” (1Co 2:2); “Pois vocês conhecem a graça do nosso Senhor Jesus Cristo, que, sendo rico, Se fez pobre por amor de vocês, para que, por meio da pobreza Dele, vocês se tornassem ricos” (2Co 8:9). E quanto ao impressionante hino ao amor em 1 Coríntios 13?
+
+Por outro lado, quem lê as cartas de Paulo aos coríntios inevitavelmente se surpreende, não apenas por causa de problemas sérios dentro da igreja – como a imoralidade sexual –, mas também pelas disputas mesquinhas fomentadas por divisões internas. Se você pensa que sua igreja enfrenta questões desafiadoras, prepare-se para ver a avalanche de contendas com que Paulo teve de lidar em Corinto. Talvez os problemas de sua igreja local não sejam tão grandes quanto pareçam. Muito provavelmente, você perceberá que, em Corinto, a situação era bem pior.
+
+Por mais perturbadores que tenham sido os problemas em Corinto, as cartas que Paulo escreveu chamam nossa atenção não por causa deles, mas pela maneira admirável como o apóstolo os enfrentou. Ao exortar a igreja a avaliar a si mesma, sua conduta e a cultura ao redor à luz do evangelho de Jesus Cristo, ele exaltou a mensagem da cruz. Para usar as próprias palavras de Paulo em outra carta, qualquer padrão inferior à mensagem do evangelho deve ser considerado “anátema” (Gl 1:8, 9).
+
+Na época de Paulo, Corinto era conhecida por sua riqueza e forte comércio, graças ao porto local, à arquitetura, à construção naval e à cerâmica. A cidade era um importante centro financeiro. Ao mesmo tempo, era conhecida por sua imoralidade sexual, seu pluralismo religioso e seus santuários dedicados a diversas divindades. De fato, a vida cotidiana em Corinto era marcada por aberta idolatria. Esse pano de fundo histórico-cultural nos ajuda a entender as principais preocupações de Paulo quanto aos cristãos daquela cidade e, consequentemente, suas exortações a eles.
+
+Neste trimestre, percorreremos as cartas de Paulo aos coríntios. Nesses dois notáveis livros do Novo Testamento, o apóstolo apresenta a mensagem do evangelho como a essência da vida cristã e do testemunho – a lente por meio da qual todo o resto deve ser avaliado. Quaisquer que sejam os desafios que cada um de nós, ou a igreja como um todo, enfrente em nossa caminhada rumo ao Céu, a resposta para as questões mais complexas do serviço a Cristo é a mesma de Corinto: “Jesus Cristo, e este, crucificado” (1Co 2:2).
+
+Jesus voltará em breve. Este é um tempo para maior unidade em Cristo, para uma receptividade inigualável ao Espírito Santo, para o uso diligente dos dons espirituais e para uma experiência mais profunda com nosso Senhor ressurreto. É tempo para um ministério cristão autêntico, para comprometimento com a mordomia e a missão, para combate espiritual aos falsos ensinos e para crescimento em graça, amor e comunhão. É tempo de perseverar e de ser fiel à mensagem da cruz – e as cartas de Paulo aos coríntios nos ensinam exatamente isso.
+
+_Adenilton Tavares de Aguiar, PhD, é professor de Teologia – graduação e pós-graduação – no Centro Universitário Adventista de São Paulo (UNASP-EC), onde também exerce a função de coordenador da graduação em Teologia._

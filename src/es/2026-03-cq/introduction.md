@@ -1,0 +1,21 @@
+### Las escenas finales
+
+La Biblia hace una afirmación sorprendente sobre Dios en 1 Juan 4: 8: Dios es amor. No dice simplemente que él posee una cierta cantidad de amor o que ocasionalmente muestra amor, sino que él es la encarnación y la fuente de todo amor verdadero. En 1 Corintios 13: 5, aprendemos que el amor, por su propia naturaleza, no es egocéntrico, sino que coloca su atención en los demás. En ningún lugar se muestra más vívidamente este amor «centrado en los demás» que en las escenas finales de la vida de Jesús en la tierra.
+
+Los últimos momentos de la vida de Cristo estuvieron llenos de emociones encontradas. En ellos se desarrolló la historia más importante de todas y contienen la clave para experimentar la salvación y desarrollar una relación verdadera e íntima con nuestro Creador. También es una narración que ofrece una visión profunda de la mentalidad de Jesús, y de dónde él puso su atención durante sus momentos más difíciles. Tal vez te resulte difícil de creer, pero su atención estaba puesta primeramente en ti.
+
+Mientras soportaba la muerte más espantosa que se pueda imaginar, enfrentaba el rechazo de su pueblo y de los líderes religiosos, veía cómo sus discípulos lo abandonaban en el momento de mayor necesidad e incluso sentía una profunda angustia por la aparente ausencia de la reconfortante presencia de su Padre; Jesús, milagrosamente, decidió poner su atención en nosotros: en ti, en mí, en toda la humanidad. Es realmente asombroso.
+
+Este trimestre, en inVerso, estudiaremos las últimas escenas de la vida de Jesús para comprender todo lo que se necesitó para lograr la reconciliación y restauración completas de la humanidad. Las primeras seis lecciones están dedicadas a las últimas acciones y enseñanzas de Jesús antes de su arresto. En Juan 13-17, encontramos una serie de enseñanzas únicas de Jesús que no se registran en ninguna otra parte de los Evangelios. Estos capítulos están llenos de poderosas promesas y lecciones concebidas para ayudar a los discípulos a superar sus momentos más oscuros, y creo que también tienen como objetivo guiarnos a través de las escenas finales de la historia de la tierra. Dedicaremos tiempo a estudiar estos capítulos uno por uno para comprender plenamente su profundidad. Las siete lecciones restantes giran en torno al viaje de Jesús desde Getsemaní hasta la resurrección. Es un estudio profundo, pero esperanzador, que creo que tiene el poder de transformar nuestras vidas si lo abordamos con el corazón abierto.
+
+Algunos pueden pensar que ya conocen esta historia. Después de todo, todo cristiano sabe que Jesús murió por nosotros. ¿Qué más se puede contar en trece semanas? Yo también pensaba lo mismo. El amor de Dios ya había transformado mi vida de forma radical; me había convertido y, finalmente, me había dedicado al ministerio a tiempo completo. Sin embargo, tras diez años como cristiano y cuatro años en el ministerio, ocurrió algo que volvió a cambiarlo todo.
+
+En un cálido día del verano en julio de 2014, escuché a un predicador compartir la sencilla historia de la cruz de una forma en que nunca antes la había percibido. Me conmovió profundamente, al igual que a todos los que la escucharon. Dudo que hubiera alguien en la sala que no tuviera los ojos llorosos. Ese día, tomé una decisión que transformó mi forma de ver el ministerio: prometí no volver a cometer nunca más el pecado de descuidar compartir esta historia.
+
+En los años transcurridos desde aquel día, he visto cómo esta historia ha cambiado innumerables vidas. Cada vez que la he compartido, me ha llevado de vuelta al pie de la cruz, tal y como lo hice la primera vez que la escuché. Sorprendentemente, sigo llorando cada vez que la cuento.
+
+Creo que este viaje vale la pena. Puede que incluso cambie tu vida, tal y como ha cambiado la mía y la de innumerables personas a lo largo de los siglos.
+
+---
+
+_Dee Casper es pastor en Pensilvania, Estados Unidos. También es director de la Escuela de Evangelismo CORE, un programa de formación en discipulado y evangelismo de la Asociación de Pensilvania (www.coreevangelism.com)._

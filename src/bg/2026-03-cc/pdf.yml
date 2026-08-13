@@ -1,0 +1,137 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-Intro.pdf'
+      target: bg/2026-03-cc/introduction
+      title: Въведение
+      start_date: 27/06/2026
+      end_date: 27/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-01.pdf'
+      target: bg/2026-03-cc/01
+      title: Висока цена за вярата
+      start_date: 27/06/2026
+      end_date: 03/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-02.pdf'
+      target: bg/2026-03-cc/02
+      title: Библията и ти
+      start_date: 04/07/2026
+      end_date: 10/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-03.pdf'
+      target: bg/2026-03-cc/03
+      title: Светлина на света
+      start_date: 11/07/2026
+      end_date: 17/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-04.pdf'
+      target: bg/2026-03-cc/04
+      title: Да отстояваш истината 
+      start_date: 18/07/2026
+      end_date: 24/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-05.pdf'
+      target: bg/2026-03-cc/05
+      title: Велико смирение
+      start_date: 25/07/2026
+      end_date: 31/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-06.pdf'
+      target: bg/2026-03-cc/06
+      title: Да плуваш срещу течението
+      start_date: 01/08/2026
+      end_date: 07/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-07.pdf'
+      target: bg/2026-03-cc/07
+      title: Отдаденост и в моменти на изпитание
+      start_date: 08/08/2026
+      end_date: 14/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-08.pdf'
+      target: bg/2026-03-cc/08
+      title: Двама свидетели
+      start_date: 15/08/2026
+      end_date: 21/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-09.pdf'
+      target: bg/2026-03-cc/09
+      title: Повдигни глава
+      start_date: 22/08/2026
+      end_date: 28/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-10.pdf'
+      target: bg/2026-03-cc/10
+      title: Ти си надарен
+      start_date: 29/08/2026
+      end_date: 04/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-11.pdf'
+      target: bg/2026-03-cc/11
+      title: Последно предупреждение!
+      start_date: 05/09/2026
+      end_date: 11/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-12.pdf'
+      target: bg/2026-03-cc/12
+      title: Време за очистване
+      start_date: 12/09/2026
+      end_date: 18/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-13.pdf'
+      target: bg/2026-03-cc/13
+      title: Заточението на истината
+      start_date: 19/09/2026
+      end_date: 25/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-01.pdf'
+      target: bg/2026-03-cc/01
+      title: Учител
+      start_date: 27/06/2026
+      end_date: 03/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-02.pdf'
+      target: bg/2026-03-cc/02
+      title: Учител
+      start_date: 04/07/2026
+      end_date: 10/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-03.pdf'
+      target: bg/2026-03-cc/03
+      title: Учител
+      start_date: 11/07/2026
+      end_date: 17/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-04.pdf'
+      target: bg/2026-03-cc/04
+      title: Учител
+      start_date: 18/07/2026
+      end_date: 24/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-05.pdf'
+      target: bg/2026-03-cc/05
+      title: Учител
+      start_date: 25/07/2026
+      end_date: 31/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-06.pdf'
+      target: bg/2026-03-cc/06
+      title: Учител
+      start_date: 01/08/2026
+      end_date: 07/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-07.pdf'
+      target: bg/2026-03-cc/07
+      title: Учител
+      start_date: 08/08/2026
+      end_date: 14/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-08.pdf'
+      target: bg/2026-03-cc/08
+      title: Учител
+      start_date: 15/08/2026
+      end_date: 21/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-09.pdf'
+      target: bg/2026-03-cc/09
+      title: Учител
+      start_date: 22/08/2026
+      end_date: 28/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-10.pdf'
+      target: bg/2026-03-cc/10
+      title: Учител
+      start_date: 29/08/2026
+      end_date: 04/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-11.pdf'
+      target: bg/2026-03-cc/11
+      title: Учител
+      start_date: 05/09/2026
+      end_date: 11/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-12.pdf'
+      target: bg/2026-03-cc/12
+      title: Учител
+      start_date: 12/09/2026
+      end_date: 18/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/bg/2026-03/ABSG-2026-03-BG-CC-TE-13.pdf'
+      target: bg/2026-03-cc/13
+      title: Учител
+      start_date: 19/09/2026
+      end_date: 25/09/2026

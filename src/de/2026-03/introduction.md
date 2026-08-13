@@ -1,0 +1,21 @@
+### Einführung
+
+**Der Kern des christlichen Lebens und Zeugnisgebens**
+
+Briefe schreiben ist eine uralte Tätigkeit, die bis heute nicht überholt ist. Wir haben lediglich die Art und Weise geändert, wie Briefe geschrieben werden. Ja, soziale Medien haben das Papier abgelöst. Doch im Wesentlichen erfüllen E-Mails und andere Formen elektronischer Briefe dieselbe Funktion: Sie verbinden Menschen und tauschen Informationen, Gefühle und Gedanken aus.
+
+Warum schreiben Menschen Briefe? Eine mögliche Antwort lautet: weil sie etwas zu sagen haben. So war es auch beim Apostel Paulus. Obwohl er sehr viel zu sagen hatte, hatte er nicht immer die Möglichkeit, jenen persönlich zu begegnen, mit denen er sprechen wollte.
+
+Also schrieb er stattdessen Briefe - wie an die Korinther, die einige der tiefgründigsten Lehren der Heiligen Schrift enthalten. Dazu gehören: „Denn ich hielt es für richtig, unter euch nichts zu wissen als allein Jesus Christus, ihn, den Gekreuzigten“ (1 Kor 2,2), und „Denn ihr kennt die Gnade unseres Herrn Jesus Christus: Obwohl er reich ist, wurde er doch arm um euretwillen, auf dass ihr durch seine Armut reich würdet“ (2 Kor 8,9). Oder das atemberaubende Hohelied der Liebe in 1. Korinther 13.
+
+Wer andererseits die Paulusbriefe an die Korinther liest, wird unweigerlich irritiert sein, und zwar nicht nur wegen einiger wesentlicher Probleme innerhalb der Gemeinde - wie sexueller Unmoral —, sondern auch wegen der Haarspalterei, die aus billigen Parteikämpfen unter den Mitgliedern resultierte. Wenn du meinst, dass deine Gemeinde gravierende Probleme hat, dann mach dich auf die Lawine von Streitigkeiten gefasst, mit der Paulus in Korinth fertigwerden musste. Vielleicht sind die Probleme deiner Ortsgemeinde gar nicht so schwerwiegend, wie du denkst?
+
+So beunruhigend die Probleme in Korinth auch gewesen sein mögen, die Briefe an die Korinther fesseln unsere Aufmerksamkeit, nicht wegen der Probleme, sondern wegen der bemerkenswerten Art und Weise, wie Paulus ihnen begegnet. Indem er die Gemeindemitglieder ermahnt, ihr Verhalten und ihre Kultur im Licht des Evangeliums Jesu Christi zu bewerten, hält er die Botschaft des Kreuzes hoch. Um es mit den Worten von Paulus, die er an anderer Stelle sagte, zu formulieren: Jeder niedrigere Standard als die Botschaft des Evangeliums muss entschieden zurückgewiesen werden (Gal 1,8-9)
+
+Zur Zeit von Paulus war Korinth berühmt für seinen Reichtum und seinen regen Handel, alles dank seines Hafens, seiner Architektur, seines Schiffbaus und seiner Keramik. Die Stadt war ein wichtiges Finanzzentrum. Dennoch war sie auch bekannt für ihre sexuelle Unmoral, das religiöse Durcheinander und Schreine, die verschiedenen Göttern gewidmet waren. Tatsächlich war das tägliche Leben in Korinth unübersehbar von Götzenanbetung geprägt Dieser historisch-kulturelle Hintergrund hilft uns, die Hauptsorgen von Paulus in Bezug auf die Christen in dieser Stadt und folglich seine Ermahnungen an sie zu verstehen.
+
+In diesem Quartal werden wir die Briefe von Paulus an die Korinther untersuchen. In diesen beiden bemerkenswerten Büchern des Neuen Testaments stellt der Apostel die Botschaft des Evangeliums als den Kern des christlichen Lebens und Zeugnisgebens dar, die Linse, durch die alles andere betrachtet werden muss. Ganz gleich, welchen Herausforderungen jeder Einzelne von uns oder die Kirche im Allgemeinen auf ihrer Reise Richtung Himmel gegenübersteht - die Antwort auf die schwierigsten Fragen in unserer Arbeit für Christus ist dieselbe wie für die Korinther: „nur Jesus Christus, und ihn als gekreuzigt“ (1 Kor 2,2 ELB)!
+
+Jesus kommt bald. Jetzt ist die Zeit für mehr Einheit in Christus, für eine nie dagewesene Offenheit für den Heiligen Geist, für den gewissenhaften Einsatz der geistlichen Gaben und für eine tiefere Beziehung mit unserem auferstandenen Herrn. Es ist Zeit für echten christlichen Dienst, für Engagement in Haushalterschaft und Mission, für einen geistlichen Kampf gegen falsche Lehren und für Wachstum in Gnade, Liebe und Gemeinschaft. Jetzt ist die Zeit, an der Botschaft des Kreuzes festzuhalten und ihr treu zu bleiben. Genau das lehren uns die Briefe von Paulus an die Korinther.
+
+_Adenilton Tavares de Aguiar, PhD, ist Professor für Bibelauslegung am Theologischen Seminar der Adventistischen Universität von Säo Paulo (UNASP) in Brasilien._
