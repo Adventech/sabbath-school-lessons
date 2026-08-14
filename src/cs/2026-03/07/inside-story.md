@@ -23,4 +23,4 @@ S generálem jsme zůstali v kontaktu. Často si povídáme a několikrát jsme 
 
 To jsou však jen malé výhody ve srovnání s výsadou sledovat, jak Bůh využívá každou okolnost k uskutečnění svého záměru. Obrátili jsme se na Něj ve své velké nouzi, protože nás brzdily překážky při vykonávání Jeho díla, a když odpověděl na naši modlitbu, spojil nás se samotným účelem naší práce.
 
-_Zemi označujeme za záměrně utajenou, pokud jsme utajili její název, abychom chránili životy a službu pracovníků v první linii, kteří tam působí. Chcete-li se dozvědět více o misijní práci při zakládání sborů pod hlavičkou Globální misie, navštivte stránky bit.ly/GMPioneers._
+_Zemi označujeme za záměrně utajenou, pokud jsme utajili její název, abychom chránili životy a službu pracovníků v první linii, kteří tam působí. Chcete-li se dozvědět více o misijní práci při zakládání sborů pod hlavičkou Globální misie, navštivte stránky https://adventistmission.org/global-mission/church-planting/global-mission-pioneers ._
