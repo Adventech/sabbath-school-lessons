@@ -348,6 +348,10 @@ var BIBLE_PARSER_CONFIG = {
     "tig15"
   ],
 
+  "trp": [
+      "bsi"
+  ],
+
   "th": [
     "th-1971"
   ],
