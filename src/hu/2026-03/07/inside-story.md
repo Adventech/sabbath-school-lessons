@@ -1,6 +1,6 @@
 ---
 title:  Történet
-date: 21/08/2026
+date: 14/08/2026
 ---
 
 #### Menjen a főigazgatóhoz!
@@ -22,4 +22,3 @@ A főigazgatóval tartottuk a kapcsolatot. Gyakran beszélgetünk, és néhánys
 Isten segítségét kértük, mert szolgálatunk végzése közben akadályba ütköztünk, a válasza pedig munkánk igazi céljához segített hozzá.
 
 Akkor hívunk egy országot védett országnak, amikor nem fedjük fel a nevét, hogy ezzel is óvjuk az ott dolgozó misszionáriusok életét és szolgálatát. További információt a globális missziós gyülekezetalapító szolgálatról a következő honlapon találunk: www.bit.ly/GMPioneers
-

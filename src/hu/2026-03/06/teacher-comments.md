@@ -3,79 +3,68 @@ title: Tanítói melléklet
 date: 07/08/2026
 ---
 
-### minden
+### Lelki ajándékok
 
 #### Áttekintés
 
-**Kulcsszöveg: 1Korinthus 10:31**
+**Kulcsszöveg: 1Korinthus 14:1**
 
-**Alapigék:  1Korinthus 10**
+**Alapigék:  1Korinthus 12**
 
-**Bevezetés: Képzelj el egy csapat túrázót, akik egy nehéz hegyi útra indulnak. Tudják, hogy a kilátás lélegzetelállító lesz, ám a sziklás részek veszélyesek. Az ösvény kezdetén figyelmeztető tábla áll: „LEGYEN ÓVATOS! Veszélyes sziklák az úton. Sokan lezuhantak! Maradjon a kijelölt útvonalon!”**
+**Bevezetés: Képzeljünk el egy impozáns koncertteremben egy zenekart, közvetlenül az előadás előtt! A zenészek hangszereiket hangolják, a karmester felemeli pálcáját. A művészek játszani kezdenek, a hegedűk, csellók, trombiták, fuvolák, dobok és egyebek a karmester irányításával gyönyörködtető zenét szólaltatnak meg.**
 
-Egyes túrázók komolyan veszik a figyelmeztetést, az ösvényen maradnak és elkerülik a sziklákat. Mások semmibe veszik a figyelmeztetést, mert izgalmas a szikla peremén állva elkészíteni a legmenőbb szelfit. A harmadik csoport ragaszkodik ahhoz, hogy joga van arra kalandozni, amerre csak a kedve tartja. „Ez a mi túránk. Senkinek semmi köze hozzá, hogy mit csinálunk!” Ám a döntéseik nemcsak rájuk hatnak – ha valamelyikük lezuhan vagy eltéved, bajba sodorja azokat is, akik utána mennek.
+Most tegyük fel, hogy a hegedűs hirtelen megszólal: „Nem játszom tovább, mert nem trombitálok. Az én részem nem fontos.” És mi lenne, ha a dobos vadul püfölné a hangszerét, vagy olyan erősen csapná össze a cintányért, hogy elnyomna minden egyéb hangot? A gyönyörű harmónia káoszba fordulna!
 
-A keresztény élet persze több, mint egy túra. Azonban ez a háromféle magatartás jól szemlélteti hitéletünket. Pál 1Korinthus 10-ben ezekkel a magatartásformákkal foglalkozik.
+Egy zenekarban nincs felesleges hangszer. Minden zenész hozzájárul a remekmű létrejöttéhez, de össze kell dolgozniuk. Ha valaki nem hajlandó játszani, a zene kárára van. A zenészek nem függetlenül játszanak, követik a karmester utasításait, hogy valami nagyszerűt alkossanak.
+
+1Korinthus 12-ben Pál egy másik metaforát használ ugyanennek az igazságnak a szemléltetésére. Az egyházban minden hívő más-más lelki ajándékot kapott. Egyes ajándékok láthatóak, mások csendben a háttérben dolgoznak, de mind fontos.
 
 **A tanulmány témái**
 
-Mint sok bibliai író, Pál is súlyos bűnnek tartotta a bálványimádást, amely ellentétes Isten igaz tiszteletével. Az imádat mindennapi életünk központi kérdése, mivel minden kapcsolat a bálványimádással Isten uralmának elutasítását jelenti, ami ajtót nyit az erkölcsi és lelki elfajulásnak. Pál jó néhány témát e kontextusban dolgoz ki:
+Heti tanulmányunk három fő témát dolgoz fel:
 
-**1.  Izrael múltjának tanulsága. Pál emlékezteti a korinthusiakat Izrael pusztai vándorlásának bűneire – bálványimádás, paráznaság, Isten kísértése és zúgolódás. Bukásuk figyelmeztetés a hívőknek, hogy ne essenek ugyanabba a hibába.**
+**1.  Kezdjük a legfontosabbal! Bármilyen ajándékunk vagy szolgálatunk van, Jézusra kell összpontosítanunk, aki a Szabadítónk, Gyógyítónk, Ő képesít mások szolgálatára (1Kor 12:1-3).**
 
-**2.  A bálványimádás veszélye. Pál óva inti a hívőket, hogy tartózkodjanak a bálványimádástól és ne vegyenek részt pogány szertartásokon; emlékezteti őket, hogy a bálványimádás és Isten imádata nem fér meg egymással.**
+**2.  Egy lélek, sok ajándék. Pál emlékezteti olvasóit, hogy minden ajándék ugyanabból a forrásból származik, mert maga Isten látja el egyházát ezekkel, hogy általuk megáldja és elérje a világot (1Kor 12:4-11).**
 
-**3.  Keresztényi szabadság és felelősség (1Kor 10:23-30). Pál kitér arra is, hogy a keresztények bölcsen éljenek szabadságukkal, főként, amikor bálványoknak áldozott életről van szó. Ami megengedett, az még nem lesz mindenkire jótékony hatással.**
-
-**4.  Isten dicsőségére élni (1Kor 10:31-33). Pál azzal foglalja össze üzenetét, hogy a hívőket ösztönzi: minden döntést Isten dicsőségére hozzanak meg. Buzdítja őket, hogy viselkedésükkel Jézust tükrözzék, hívják fel rá mások figyelmét.**
+**3.  Egy test, sok testrész. Pál a test metaforáját vezeti be, hogy szemléltesse a tagok egyházon belüli sokféleségét. Bátorítja olvasóit, hogy mindig az összképet vegyék figyelembe (1Kor 12:12-31).**
 
 #### Kommentár
 
-**1. Háttér: Istentiszteleti formák a Kr. u. 1. századi Korinthusban. Az imádat fogalma nem volt idegen a korinthusiak számára, sok mai nyugati társadalomtól eltérően nem tekintették magánügynek. A politika, a kereskedelem és a társadalmi élet mind összefonódott vele. Az istentiszteletnek részét képezték áldozatok, lakomák, ünnepek, felvonulások, és bizonyos kultuszokban szexuális rituálék is. Korinthus vallási pluralizmusáról és sok istenéről híres görög-római nagyváros volt. Számos temploma és kultusza jól tükrözte a gazdag kereskedelmi központ státuszát, amire egyaránt hatottak görög és római vallási tradíciók.**
+**1. 1Korinthus 12 történelmi háttere. Az 1. századi Korinthus különféle vallásaiban gyakoriak voltak a misztikus tapasztalatok, a jóslatok és az eksztatikus beszédek. Ezek általában isteni megszállottsághoz, misztériumkultuszokhoz vagy orákulumokhoz társíthatók. A delphoi jósda Görögország egyik leghíresebb vallási helyszíne volt, ahol egy Püthia nevű papnő transzba esett, amikor hitük szerint megszállta Apolló isten. Ebben az állapotban titokzatos üzeneteket közvetített, amiket azután a papok értelmeztek. Más szentélyekben (mint pl. Dodonában) jósoltak, ahol a papok és papnők természeti jelenségek révén kaptak prófétai üzeneteket (szél, a levelek susogása stb.). Ezt isteni kegy vagy bölcsesség jelének tartották, egyes korinthusi hívők pedig így viszonyultak a nyelveken szóláshoz.**
 
-Korinthusban a Kr. u. 1. században az istentisztelet számos formája a település világvárosi sokszínűségéről tanúskodott. Sok istent tiszteltek (lásd az alábbi 2. pontot). Míg a városoknak gyakran volt egy kedvelt istenük, az emberek megválaszthatták, melyik istent akarják imádni, attól függően, hogy ebből milyen hasznot reméltek húzni. A legtöbben több istent is imádtak. A Római Birodalom egész területén elvárták a polgároktól, hogy a római császárt is imádják. Bár viszonylag szabadon választhattak maguknak istent, a császár imádatának megtagadása társadalmi és politikai következményekkel járt, mivel Rómával szembeni hűtlenség bizonyítékának tekintették.
+A misztériumkultuszokhoz – mint a Dionüszosz- (Bacchus), Kübelé- és Ízisz-kultuszhoz – szervesen hozzátartoztak a rituálék – zene, őrjöngő imádat, amely gyakran vezetett transzállapothoz, érzelmi felajzottsághoz. Ilyenkor úgy érezték, hogy kommunikálnak az istenekkel. A Dionüszosz-kultuszban a hívők eksztatikus táncban és kántálásban vettek részt, miközben hitük szerint betöltekeztek istenük jelenlétével. Tudósok szerint némely korinthusi keresztények e hagyományok hatására pl. a nyelveken szólás és a prófétálás ajándékát hasonló tapasztalatnak tekinthették. Ez valószínűleg megoszláshoz vezetett a gyülekezetben, mivel egyes hívők ajándékuk alapján magukat „lelkibbnek” tartották. Pál ezt a nézetet kétségbe vonva hangsúlyozza, hogy minden ajándék ugyanattól a Lélektől származik (1Kor 12:4-11), és az egész egyház javára kell szolgálnia, nem az egyéni státusz növelésére.
 
-A legtöbb templomban bika-, kecske- vagy madáráldozatokat mutattak be az isteneknek, és az áldozatokat néha közösségi vendégség követte. A templomi lakomákon a hívek olyan húsokból ettek, amelyeket előzőleg felajánlottak az istenségnek. Voltak nagy nyilvános ünnepek is, vallási rítusokkal, mint pl. az iszthmoszi játékok (Poszeidon isten tiszteletére). Ezek keretében felvonulásokat, lakomákat és művészi előadásokat rendeztek. Az istentisztelethez szexuális elemek is járultak, főként a termékenység isteneinek tiszteletére. Egyes kutatók szerint az Aphrodité templomában folyó szertartásnak rituális prostitúció is része volt (vö. Walter A. Elwell és Barry J. Beitzel: „Corinth” szócikk, Baker Encyclopedia of the Bible. Grand Rapids, MI, 1988, Baker, 514. o.).
+**2. Kezdjük a legfontosabbal! 1Kor 12:1-ben Pál új témát vezet be: „a lelki ajándékokra nézve…” Hasonló, új témát bevezető szófordulatokat találunk a következő igékben: 1Kor 7:1, 25; 8:1; 16:1, 12. A görög pneumatikōn többes számú melléknév, azt jelenti, hogy „lelki”, de vonatkozhat „lelki dolgokra” vagy „lelki emberekre”. Az apostol aggódik a korinthusi gyülekezet tagjaiért torz énképük miatt, mivel magukat „lelkieknek” állítják be (1Kor 14:37). „Megvolt a veszélye annak, és sok esetben meg is történt, hogy egyesek azt állították: ők magasabb lelki státusszal rendelkeznek a közösségben, ami megoszláshoz vezetett a hívők között. Pál ezt a mentalitást elutasította” („1 Corinth” szócikk, Andrews Bible Commentary. szerk. A. M. Rodríquez, Berrien Springs, MI, 2022, Andrews University Press, 1642. o.). Pál emlékezteti olvasóit: az ajándékokra való összpontosítás helyett örülniük kellene, ha Isten Lelkének indítására Megváltójuknak vallják Jézust (1Kor 12:3). Senki sem átkozhatja Jézust, akit valóban a Szentlélek vezet. Tehát minden hívő „lelki” az alapvető keresztény hitvallás alapján – miszerint Jézus Úr.**
 
-Bár az istentisztelet általában nyilvános volt, egyes kultuszokban, mint Démétérében és Perszephonéében titkos beavatási rítusok és kultikus elemek is voltak. Ez az exkluzivitás, amely a hétköznapi emberek számára elérhetetlen lelki megvilágosodással kecsegtetett, bizonyos rétegek számára kétségkívül vonzó volt. Míg a nagyobb templomokban nyilvános vallási rítusok zajlottak, sokan egyéni istentiszteleteket is tartottak, ahogyan az látható a régészek által feltárt, szobrocskákat és tömjénáldozatokat tartalmazó magánszentélyekben is.
+**3. Egy Lélek, sok ajándék. Mielőtt kitérne a különböző lelki ajándékokra, Pál 1Kor 12:4-6-ban olyan kijelentést tesz, amelybe belefoglalja a Szentháromság minden tagját, és kiemeli a Lélek adta ajándékok sokféleségét, az Úr (Jézus) adta szolgálatok sokféleségét, és azoknak a tevékenységeknek a sokféleségét, amelyeket Isten ad, „aki mindenben és mindenkiben megmutatja erejét” (1Kor 12:6). A felsorolás menete: Lélek – Fiú – Atya. Az Istenség egysége lesz az a minta vagy példa, amelyhez a megosztott korinthusi gyülekezetnek mérnie kell magát.**
 
-**2. A bálványimádás meghatározása. Egy olyan világban, ahol mindenfelé bálványokat látni, amelyeket tisztelettel és áhítattal vettek körül, Pál állítása 1Kor 8:4-ben, hogy „nincs bálvány a világon”, és „Isten sincs senki más, hanem csak egy” radikálisnak hangozhatott. Ő nem gondolta, hogy a szobrocskáknak vagy egyéb tárgyaknak varázsereje lenne. Azonban felismerte, hogy némely hívők, főként a pogányságból újonnan megtértek, megtérésüket csupán régi isteneik egy új istenre cserélésének (vagy más istenhez pártolásnak) fogják fel. Ez főként abban érhető tetten, hogy esznek a bálványoknak felajánlott húsból.**
+Pál emlékezteti olvasóit, hogy az első ajándék, amellyel Isten minden hívőt megajándékozott a hit, hogy „Jézus Úr” (1Kor 12:3). Ez megegyezik azzal, amit Jn 6:44-ben mondott Jézus: „Senki sem jöhet énhozzám, ha az Atya, aki elküldött engem, nem vonzza őt…” Bár szabad választásunk van, a Lélek vagy az Atya késztet az első lépés megtételére Jézus felé.
 
-1Korinthus 10-ben Pál elmagyarázza, mit jelent az új világnézet („Isten sincs senki más, hanem csak egy”), miközben komolyan figyelmeztet a bálványimádás veszélyére. Izrael történelmét hozza fel példának, hogy hangsúlyozza: nem csupán a szobrok imádása bálványimádás, hanem az Isten iránti hűtlenség is. Lelki veszélyt jelent, ha nem szeretettel és felelősséggel viszonyulunk hívő társainkhoz.
+Pál a lelki ajándékok, valamint a keresztény közösségben végezhető szolgálatok és tevékenységek sokféleségének leírásával folytatja (1Kor 12:4-11). „Pál kifejti, hogy a Szentlélek ajándékait az egész egyház javára kapják (12:7)” (i.m. 1642. o). Így az ajándékok nem a lelki kiválóság vagy felsőbbrendűség jelei, hanem Isten kegyelmének bizonyságai, hogy erőt adjanak szolgálni egymásnak és a környező világnak. A fejezetben leírt ajándékok sokszínűsége (lelki táplálás bölcsesség és ismeret által, gyógyítás vagy csodatétel, prófétai beszéd, lelki ítélőképesség, nyelvek és egyéb ajándékok) a hívők közösségét szolgálja. Egyiket sem tarthatjuk előbbre valónak vagy fontosabbnak a másiknál.
 
-Pál kezdésként emlékezteti olvasóit, a zsidók hogyan estek bálványimádásba és szenvedték el Isten ítéletét, miután tanúi voltak az Úr csodálatos szabadításának Egyiptomból. 1Kor 10:1-4-ben felsorolja Izrael áldásait. Felhő formájában isteni vezetést kaptak. Csodálatos módon megszabadultak, amikor a tenger ketté vált, és testi-lelki szükségleteiket naponta kielégítette a manna és a sziklából fakasztott víz (amelyet Pál a továbbiakban Krisztussal azonosít).
+**4. Krisztus teste – radikális gondolat. Pálnak az egyházat testként ábrázoló metaforája (1Kor 12:12-27) idegen volt a kor kultúrája számára. A római társadalmat merev társadalmi és státuszbeli határvonalak jellemezték, a csúcson a gazdagok és a hatalmasok álltak. Forradalmi volt a gondolat, hogy egyaránt értékes az egyház minden tagja – gazdag vagy szegény, rabszolga vagy szabad, férfi vagy nő. Pál rámutat, hogy Krisztusban minden hívő kapcsolatban van egymással, és a világi hierarchiát elutasítva tisztelniük kell egymást.**
 
-Az áldások dacára sok izraelita elbukott. Megharagították Istent bálványimádásukkal, amely vad erkölcstelenséggé fajult (1Kor 10:5-10). A romlás útjára lépve megkísértették Istent. Zúgolódásuk nyílt lázadásba csapott át, és a vesztüket okozta.
+Jason Staples, újszövetségi kutató megjegyzi: „Pál ezt a képet megszokott metaforikus vagy analógiai értelmén túl magasabb szintre emeli. Az apostol számára »Krisztus teste« nem csupán metaforája azoknak, akik Jézusban hit által eggyé lettek, hanem ontológiai és kapcsolati valóság is, amelyben a személyek, akik megkapják »Krisztus Lelkét« (Róm 8:9), beépülnek Krisztusba. A hívők »Krisztus testévé« épülnek fel, amikor »egy Lélek által… mindnyájan egy testté« keresztelkednek meg (1Kor 12:13)” (Jason Staples: „The Body of Christ” szócikk, Dictionary of Paul and His Letters. Downers Grove, IL, ICP Academic, 2023, 83. o.).
 
-Pál ezeket az eseményeket a korinthusi hívekre alkalmazza (1Kor 10:11-13). Izrael történetét figyelmeztetésnek szánja a bálványimádás veszélyeire. Éberségre int. Nem félelmet vagy szorongást akar kelteni, mert Isten győzelmet ad minden kísértő bűn felett.
+A test metafora használata kidomborítja a gyülekezet egységét, mint ahogy az egyház és Ura egységét is, főként annak alapján, hogy Krisztus a test Feje (Kol 1:18; Ef 4:15). Ebben az értelemben a test elsősorban nem a hívők testülete, hanem Krisztus teste; vagyis a metafora elsődlegesen a hívők egységére összpontosít Krisztusban.
 
-Ezután Pál egyenesen megparancsolja: „…kerüljétek a bálványimádást” (1Kor 10:14)! Elmagyarázza, hogy habár a bálványoknak nincs hatalmuk, léteznek gonosz angyalok és az ördög, akiknek az ember közvetett módon hűséget fogad, ha részt vesz a bálványimádásban (1Kor 10:20). Ez teszi lelkileg veszélyessé a bálványimádó lakomákon való részvételt. Pál figyelmezteti a hívőket, hogy nem ihatják egyszerre „az Úrnak poharát” és „az ördögök poharát” (1Kor 10:21), ezzel hangsúlyozza a bálványimádás és a kereszténység összeférhetetlenségét.
+Ezek szerint az etnikai, nemi és szociális különbségek nem akadályozhatják azt, hogy valaki része lehessen Krisztus testének. Ezt az eszmét nemcsak újnak, hanem forradalminak és veszélyesnek is tekintették a görög-római társadalomban, ahol a státusznak, a hatalomnak, a szégyennek, a tiszteletnek és a nemi hovatartozásnak is kimagaslóan fontos szerepe volt.
 
-1Kor 10:15-18-ban Pál kiemeli, hogy amint a Krisztussal való egységet szimbolizálja a részvétel az Úr asztalánál, a bálványáldozati ételek fogyasztása szentségtelen lelki szövetséget hoz létre. Bár bálványistenek nem léteznek, a nekik felajánlott istentiszteleteken részt venni démonokkal jelent közösséget. A bálványimádás nemcsak hamis istenek tisztelete, hanem belebonyolódás a sötét erőkkel való lelki kapcsolatba.
-
-A hívők kizárólag Istenhez legyenek hűségesek (1Kor 10:21-22), nem ihatnak az Úr poharából és az ördögökéből is. 5Móz 32:21 szövegével összhangban Pál figyelmeztet, hogy Isten nem tűr megosztott hűséget. A bálványimádást többnek látja hamis istentiszteletnél – lelki veszélyt jelent, összeegyeztethetetlen Krisztus hitével.
-
-**3. Antitest termelés bálványimádás ellen. Pál a bálványimádástól való teljes elzárkózást szorgalmazza, de 1Kor 10:23-33-ban azzal folytatja, hogy a tisztaság megőrzése érdekében ez az elzárkózás nem vezethet az egyház bírálgatásához és állandó ellenőrzéséhez.**
-
-A keresztény egyénnek egyszerre van szabadsága és felelőssége. Erre utal Pál, amikor felvetődik az étel problémája, amelyről feltételezhető, hogy bálványoknak ajánlották fel, majd utána került a piacra.
-
-1Kor 10:23-24-ben találkozunk az elvvel: a szeretet előbbre való a szabadságnál. Az önzetlenség legyen a mérce, nem a ragaszkodás a jogainkhoz vagy a keresztény életvitelről vallott elképzeléseinkhez. Előfordulhat, hogy valami nem helytelen, vagy nem tiltja a Szentírás, mégsem válik mások javára. A hívők tartsák személyes szabadságuknál fontosabbnak mások lelki jólétét.
-
-A következő néhány versben (1Kor 10:25-30) Pál megengedi a piacon vásárolható húsok fogyasztását, eredetüktől függetlenül. Ám azt tanácsolja: ne egyék meg, ha valaki nyíltan kijelenti, hogy a húst előbb bálványoknak áldozták. Ezt azért rendelte el, nehogy a hitben gyengébb hívők megbotránkozzanak. A hívek szándéka életük minden területén legyen Isten dicsőítése és mások bátorítása, nem elcsüggesztése. Életük küldetése legyen mások megmentése, ne ragaszkodjanak körömszakadtáig saját nézeteikhez és jogaikhoz (1Kor 10:31-33).
+Az újszövetségi teológus, Philip Ryken példája a korai keresztény egyház felfogásáról: „Figyeljük meg az imát, amelyet egyesek Szókratésznak tulajdonítanak, és amelyben egy görög férfi hálát ad Istennek: hogy »embernek születtem, és nem baromnak, aztán férfinak és nem nőnek, harmadszorra pedig görögnek, nem barbárnak«. A pogányok általában megvetették rabszolgáikat, asszonyaikkal pedig durván bántak. Bizonyos településeken a rabszolgák nem léphettek be pogány templomokba, a nőket pedig tulajdonként kezelték” (Philip Graham Ryken, „Galatians” szócikk, Reformed Expository Commentary. Phillipsburg, NJ, 2005, P&R Publishing, 148. o.). Pál üzenete a korinthusi gyülekezethez nyilvánvalóan szemben állt ezzel.
 
 #### Gyakorlati alkalmazás
 
-A Kr. u. 1. századi Korinthus mélyen vallásos város volt, ahol keveredtek a görög, római és keleti kultuszok. Az imádatnak sokféle kifejezése volt. A korinthusi őskeresztényeknek ki kellett védeniük ezeket a befolyásokat, hűnek maradva Krisztushoz. Ezért Pált a leveleiben a bálványimádás, az erkölcsi tisztaság és a keresztényi szabadság kérdésével foglalkozott. E témák alapján beszéljük meg a csoportban a következő kérdéseket:
+Az emberek hajlamosak hierarchiát felállítani az ajándékok között, amelyeket Isten az egyháznak mint Krisztus testének adott. Pál azért vezeti be a test és a testrészek metaforáját, hogy segítsen olvasóinak az egységre és a misszióra összpontosítani. A testrészek – írja – önmagukban nem hasznavehetőek, nem is élhetnek egymás nélkül. A szemnek szüksége van a szemhéjra; a fejnek a nyakra; a lábnak a lábszárra; és minden testrész a szívtől függ, amely oxigént és vért biztosít. Beszéljük meg a csoportban a következő kérdéseket 1Korinthus 12 alapján:
 
-1.  Pál emlékezteti a korinthusiakat Izrael múltbéli hibáira. Mit gondolsz, miért? Milyen tanulságokat vonhatunk le mi is Izrael tapasztalataiból?
+1.  Hogyan alkalmazhatjuk a páli test-metaforát az egyház életére, amelyben versengenek egymással a programok és prioritások?
 
-2.  1Kor 10:12 figyelmeztetése: „Azért, aki azt gondolja, hogy áll, vigyázzon, hogy el ne essék.” Hogyan védekezhetünk a lelki elbizakodottsággal szemben?
+2.  Mit szólsz ahhoz, hogy Isten testet nem pedig testrészeket szeretne látni egyházában?
 
-3.  Isten gondoskodik a menekülésről a kísértésben (1Kor 10:13). Tapasztaltad-e ezt az életed során? Hogyan bátorít ez a bibliavers?
+3.  Mit mond a 21. század emberének az a metafora, hogy az egyház Krisztus teste?
 
-4.  Pál nemcsak figyelmeztet a bálványimádás veszélyére, hanem fel is vázolja a bálványimádás felismerésének és kivédésének elveit. A modern bálványimádás milyen válfajaival küzdenek a mai keresztények? Hogyan alkalmazhatják Pálnak a bálványimádással kapcsolatos tanácsait?
+4.  Mivel lehetne a legjobban felmérni a lelki ajándékokat és fontosságukat az egyházban?
 
-5.  Pál mondja: „Minden szabad, de nem minden használ” (1Kor 10:23). Hogyan dönthetjük el, hogy mi hasznos és mi haszontalan az életünkben?
+5.  Hogyan fedezhetjük fel saját lelki ajándékainkat az egyház missziójának kontextusában?
 
-6.  1Kor 10:31-ben Pál azt mondja, hogy mindent Isten dicsőségére tegyünk. Hogyan valósíthatjuk meg ezt a hétköznapokban?
-
+6.  Ha lehetne, milyen ajándékot választanál, és miért?

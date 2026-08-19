@@ -1,6 +1,6 @@
 ---
 title:  Történet
-date: 25/09/2026
+date: 18/09/2026
 ---
 
 #### Egy kocsmában kezdtük

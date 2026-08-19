@@ -1,6 +1,6 @@
 ---
 title:  Történet
-date: 11/09/2026
+date: 04/09/2026
 ---
 
 #### Jézus ihlette bizonyságtevés – 1. rész
@@ -18,4 +18,3 @@ Koppenhágában is az emberi kapcsolatok jelentik a szolgálat keretét. Rob Mic
 Rob és Bethany nem azzal kezdte, hogy épületet bérelt vagy programot szervezett. Imával kezdték, és egy nagy asztallal, amely körül a szomszédaik kényelmesen elfértek.
 
 Készülj a történet folytatására a jövő héten! A posztkeresztény világban emberek szívét érinteni az egyházunk egyik legnagyobb missziós kihívása. Ha többet szeretnél tudni, látogass el a GMsda.org/refocus oldalra!
-

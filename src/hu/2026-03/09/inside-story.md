@@ -1,6 +1,6 @@
 ---
 title:  Történet
-date: 04/09/2026
+date: 28/08/2026
 ---
 
 #### Jake imával kikövezett útja
@@ -24,4 +24,3 @@ A hónap végén Jake szívét mély hála töltötte be Isten iránt. Azért im
 Alig várja, hogy megkezdje a második imahónapot. Épp csak rálépett erre az útra, és már érzi, hogy Isten ereje lendíti előre.
 
 Ha többet szeretnél megtudni a globális missziós gyülekezetalapító szolgálatról, látogass el a következő oldalra: bit.ly/GMPioneers.
-

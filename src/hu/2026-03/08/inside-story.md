@@ -1,13 +1,13 @@
 ---
 title:  Történet
-date: 28/08/2026
+date: 21/08/2026
 ---
 
 #### Találkozások a Lélek vezetésével
 
 A szerző, a szereplők és a helyszín nevét nem közöljük.
 
-A feleségem és én buzgón imádkoztunk Istenhez, hogy segítsen házi gyülekezetet alapítani abban az országban, ahová azért érkeztünk, hogy bizonyságot tegyünk. Tudtuk, hogy kezdetben csak külföldiek érdeklődnek majd, de bíztunk benne, hogy Isten helybélieket is küld, akiknek a szívében már régóta dolgozik. Időbe telt, de Isten gondoskodott erről is.
+A feleségem és én buzgón imádkoztunk Istenhez, hogy segítsen házi gyülekezetet alapítani abban az országban, ahová azért érkeztünk, hogy bizonyságot tegyünk. Tudtuk, hogy kezdetben csak külföldiek érdeklődnek majd, de bíztunk benne, hogy Isten helybélieket is küld, akiknek a szívében már régóta dolgozik. Időbe telt, de Isten gondoskodott erről is.
 
 Egy nap taxit hívtam, így találkoztam Salmannal. Út közben beszélgettünk, és a vallásra terelődött a szó. Elmondta, hogy 2 éve keresztény lett, amikor vallási kérdéseire az interneten keresett válaszokat.
 
@@ -17,5 +17,4 @@ Salman meghívta Faisalt a házi gyülekezetünkbe, ő pedig örömmel csatlakoz
 
 Kérlek, imádkozzatok, hogy Faisal, Salman és a felesége együtt növekedjenek Jézus szeretetében! Kérjük a Szentlélek vezetését, hogy Istennek minél több gyermekével találkozzunk ebben a nem keresztény országban!
 
-Akkor hívunk egy országot védett országnak, amikor nem fedjük fel a nevét, hogy ezzel is óvjuk az ott dolgozó misszionáriusok életét és szolgálatát. További információt a globális missziós gyülekezetalapító szolgálatról a következő honlapon találunk: www.bit.ly/GMPioneers
-
+Akkor hívunk egy országot védett országnak, amikor nem fedjük fel a nevét, hogy ezzel is óvjuk az ott dolgozó misszionáriusok életét és szolgálatát. További információt a globális missziós gyülekezetalapító szolgálatról a következő honlapon találunk: www.bit.ly/GMPioneers

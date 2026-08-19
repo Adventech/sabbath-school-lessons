@@ -3,83 +3,70 @@ title: Tanítói melléklet
 date: 28/08/2026
 ---
 
-### Krisztus feltámadásának ereje
+### Szolgálat szeretettel
 
 #### Áttekintés
 
-**Kulcsszöveg: 1Korinthus 15:14-17**
+**Kulcsszöveg: 2Korinthus 2:4**
 
-**Alapige:  1Korinthus 15**
+**Alapigék:  2Kor 1:3-14; 2:1-17**
 
-**Bevezetés: Egy kislány figyelte, ahogy a nagymamája tulipánhagymákat ültet a kertben. Zavartan kérdezte: „Nagyi, miért temeted el a teljesen jó hagymákat?” A nagymama felkacagott: „Ezek tulipánok! Most eltemetem őket, és tavasszal, amikor előbújnak, gyönyörűek lesznek.” A lány csodálkozva méregette a hagymákat. „Ezek a csúnya izék meghalnak, aztán szépek lesznek, amikor előjönnek?” „Pontosan!” – válaszolta a nagymama. A kislány egy pillanatra elgondolkozott, majd megszólalt: „Ez lesz velünk is, amikor Jézus feltámaszt a halálból? Úgy értem… szebbek leszünk?”**
+Egy kis faluban Anna egy pékséget vezetett. A levegőt reggelente betöltötte a frissen sült kenyér meg a meleg fűszerek illata, belengte az utcákat, becsalogatva az embereket. Egyesek siettek vásárolni, mások megelégedtek azzal, hogy elhaladva élvezték az ínycsiklandó párát.
 
-Nem is rossz ez a megfogalmazás – és Pál biztosan elmosolyodna a kislány frappáns megjegyzésén. 1Korinthus 15-ben Pál kimondja: a feltámadás valóságos: megtört, földi testünk csodásan átalakul, tökéletes lesz, jobb, mint amit el tudnánk képzelni. A keresztény reménysége, hogy a halál nem a vég, a hívő számára csak várakozási idő, téli álom a nagy átváltozás előtt.
+Azonban ezt nem mindenki értékelte. Egy szomszéd, Mr. Grayson túl erősnek találta az illatot, és állandóan panaszkodott. „Mindenhol csak ezt érzem! Nem lehet tőle szabadulni!” – morogta.
+
+Egy nap hóvihar miatt megszakadt az áramszolgáltatás a faluban. Sokan fáztak és éheztek, de Anna pékségében fával fűtötték a kemencét. Kitárta péksége kapuját, és mindenkit szívesen látott, akinek melegre vagy ételre volt szüksége. Az emberek az orruk után mentek oda, ahol kellemes meleg és finom étel várta őket. Még a morgolódó Mr. Grayson is ott találta magát. Amikor elfogadott egy meleg cipót, rádöbbent, hogy a korábban bosszantónak vélt illat most jól tartja.
+
+A kereszténység több hitelveknél vagy teológiai elmélkedésnél. Emberekkel, közösségekkel és Istennel kapcsolatos, aki velünk van legsötétebb pillanatainkban, de sikereink csúcsain is.  2Korinthus levelében Pálnak a gyülekezettel való kapcsolattartásából sokat megtudhatunk az életéről és a szolgálatáról. Újra és újra rájövünk, hogy magatartásunk és kapcsolataink a szavainknál jóval hatékonyabban közvetítik Krisztus illatát és vonzzák a reménységet sóvárgó világot.
 
 **A tanulmány témái**
 
-1Korinthus 15 teológiai szempontból az Újszövetség egyik leggazdagabb része. Mindenekelőtt Krisztus feltámadására, majd a második adventkor a hívőkére összpontosít. A tanulmány e szakasz négy fő témáját vizsgálja:
+Heti tanulmányunk több fontos témát ölel fel, amelyek a következők:
 
-**1.  Krisztus feltámadása. Pál azzal kezdi, hogy szemtanúkra hivatkozva megerősíti Krisztus feltámadásának történelmei valóságát (1Kor 15:1-11). Ez a kijelentés alapvető az evangélium üzenete és a keresztény hit szempontjából.**
+**1.  Isten vigasza a szenvedésben. Isten megvigasztal a szenvedésben, és segít, hogy mi is vigasztalhassunk (2Kor 1:3-7).**
 
-**2.  A halottak feltámadása. Mivel Krisztus feltámadt a halálból, a hívők is feltámadnak (1Kor 15:12-34). Pál szembeszáll a feltámadást tagadó nézetekkel, és kifejti: a halálból való testi feltámadás nélkül a hit haszontalan, a hívők továbbra is bűnben vannak.**
+**2.  Istenre hagyatkozni, nem magunkban bízni. A szenvedés megtanít Istenre hagyatkozni (2Kor 1:8-11).**
 
-**3.  A feltámadt test. Pál elmagyarázza, milyen testtel támadnak fel a halottak (1Kor 15:35-49). Hasonlattal (a mag meghal, hogy kifejlődhessen a növény) mutatja be a romlandó test átalakulását romolhatatlan és dicsőséges testté.**
+**3.  Tisztaság és hűség a szolgálatban. A keresztény szolgálat legyen őszinte, tükrözze Isten hűségét (2Kor 1:12-14, 17-22).**
 
-**4.  Győzelem a halál felett. A rész csúcspontja az a diadalmas kijelentés, hogy Krisztus legyőzte a halált (1Kor 15: 50-57). Az „Elnyeletett a halál diadalra” (1Kor 15:54, KAR) kulcsmondat: a feltámadás megváltoztatja az emberi sorsot. Pál bátorítóan zárja a fejezetet (1Kor 15:58): mivel a feltámadás valóságos, a hívőknek ki kell tartaniuk abban a tudatban, hogy nem hiába fáradoznak az Úrért.**
+**4.  Megbocsátás és helyreállítás. A szeretetből fakadó szolgálat célja a megbékélés, nem az ítélkezés (2Kor 2:5-11).**
+
+**5.  Krisztus illata. Az életünk terjessze jó illatként Krisztus üzenetét, még akkor is, ha elutasítják (2Kor 2:14-17).**
 
 #### Kommentár
 
-**1. Háttér. 1Korinthus 15 üzenete éles ellentétben áll a Kr. u. 1. századi Korinthus kulturálisan görög, ám filozófiailag sokféle nagyvárosának uralkodó pogány nézeteivel. Pál tanítása a feltámadásról ellentétes a környezete világnézetével.**
+**1. 2Korinthus történelmi háttere. A levél szerzőségét sosem vitatták komolyan. Pált elismerték a szerzőjének a korai egyházatyák is, mint Polikárp (kb. Kr. u. 155), Iréneusz (kb. Kr. u. 185), Alexandriai Kelemen (kb. Kr. u. 200) és Tertullianus (kb. Kr. u. 210). 2Korinthus „minden bizonnyal a legtöbb bonyolult történelmi, szociális és közösségi elemet felvonultató páli levél” (Philip Towner: „Corinthians, Second Letter To” szócikk, The New Interpreter’s Dictionary of the Bible. szerk. K. Doob Sakenfeld, 1. köt. Nashville, TN, 2006, Abingdon Press, 744. o.).**
 
-A görög (főként a platóni) gondolkozás a testet alsóbbrendűnek, sőt a lélek börtönének tartotta. E nézet szerint az üdvösség szabadulást jelentett az anyagi testből, továbbélést a tisztán spirituális, testetlen létben. Pál azonban végig kitart a test feltámadása mellett – nem csupán a lélek folytonosságát hirdeti, hanem azt, hogy a fizikai test átalakul romolhatatlanná. Ez a gondolat radikálisnak hathatott, sőt Korinthus intellektuális berkeiben sokak számára elfogadhatatlan volt.
+Nehézségének egyik oka a témák közötti nem éppen zökkenőmentes váltás és a hangvételbeli hirtelen különbségek. Lehetséges, hogy a levelet hosszabb idő alatt írta Pál, miközben átutazóban volt Macedónián (2Kor 2:1-12), ahol változó körülményekkel találkozott, és közben valószínűleg újabb híreket kapott a gyülekezetről. Az újabb körülmények és információk újabb témákhoz vezettek, amelyeknek látszólag nincs közük az előbb tárgyaltakhoz.
 
-Sok görög hitt a lélek halhatatlanságában, ám a feltámadásban nem. Számukra a test feltámadása inkább visszafejlődésnek, nem szabadulásnak tűnt. Pál az ellenkezőjét állítja. Az embert a Biblia holisztikus szemszögéből nézve egésznek tekinti, nem lelki lénynek, amely test nélkül is létezhet. Számára a feltámadás a végső győzelem, diadal a halál felett – nem a testből való kiszabadulás, hanem az egész ember átváltozása által.
+**2. Szeretetből fakadó szolgálat. 2Korinthus 1-2-ben Pál kiemeli a szeretetből fakadó szolgálat néhány kulcsjellemzőjét. Azt példázzák személyes tapasztalatai, beleértve a szenvedéseket, a megbocsátást és az őszinteséget, hogyan motiválja az igazi keresztény szolgálatot inkább az isteni szeretet, mintsem a személyes nyereség vagy státusz vágya. Az alábbi alpontokat a szentírási szövegből emeltük ki:**
 
-A görög-római pogányságban a túlvilági életről vallott nézetek eltérőnek bizonyultak. Voltak szkeptikus vagy agnosztikus gondolkodók, mások egy árnyékvilágban (pl. Hádész) hittek. Ezzel ellentétben Pál tanítása reményteljes és bizakodó: a feltámadás biztos, dicsőséges és testi, Krisztus feltámadásában gyökerezik, aminek voltak szemtanúi is. A pogány szemlélet gyakran a sors elkerülhetetlenségének érzéséhez vezetett – a halál végleges, vagy nem tudható, milyen a halál utáni élet, és nem hat a mindennapokra.
+a.  Irgalmasság és vigasztalás (2Kor 1:3-7). Pál azt írja Istenről, hogy „az irgalmasság Atyja és minden vigasztalás Istene” (2Kor 1:3). Az irgalmasság (vagy együttérzés) és a vigasztalás pontosan az, amit Pál kapott Istentől a megpróbáltatásai között. Ezért az apostol is irgalommal fordult környezetéhez, így a gyülekezetekhez is. Az irgalmasságból fakadó szolgálat vigasztaló, ahogyan Isten is vigasztal minket a szenvedésben (2Kor 1:4). A szolgálat nem a hatalomról és az irányításról szól, hanem arról, hogy együtt érzünk másokkal fájdalmukban és Krisztushoz vezetjük őket. Pál emlékezteti a korinthusiakat, hogy saját szenvedései révén tudja megérteni és szolgálni a szenvedőket (2Kor 1:6).
 
-A 15. fejezet végét Pál állhatatosságra és céltudatosságra buzdítva zárja, emlékezteti olvasóit, hogy „munkátok nem hiábavaló az Úrban” (1Kor 15:58). A feltámadás értelmet, reményt ad a hűséges életre, motivál. Pál tanítása 1Korinthus 15-ben merészen dacolt a város intellektuális beállítottságával. Az éterben testetlenül lebegő lelkek helyett egy új teremtés képét állítja elénk a megváltottakkal, ahol teljes a győzelem a halál felett.
+b.  Magabízás helyett bizalom Istenben (2Kor 1:8-11). A prológus második részében (a köszöntés részben) Pál felidéz egy időszakot, amikor rendkívüli, erején felüli nyomás alatt volt, sőt az életét is féltette (2Kor 1:8). Ahelyett, hogy magában bízott volna, Istenre hagyatkozott, aki a halottakat is fel tudja támasztani (2Kor 1:9). A feltámadás képét azért használja, hogy kifejezze, Isten a lehetetlenre is képes, ha benne bízunk. A szeretetből fakadó szolgálat Isten erejéből táplálkozik, nem emberi képességből. Pál kéri olvasóit (minket is), hogy ne viselkedjenek úgy, mintha minden kérdésre tudnák a választ, inkább tanácsolják az embereknek, hogy bízzanak Istenben, aki kimenti gyermekeit a bajból (2Kor 1:10).
 
-**2. Krisztus feltámadása. 1Kor 15:1-11 alapvető szövegrész, amelyben Pál bevezeti a fejezetet. Egyszerre személyes és teológiai, mivel Pál megerősíti az evangélium üzenetét, és Jézus feltámadását hangsúlyozza. Azzal kezdi, hogy emlékezteti a korinthusiakat a már ismert evangéliumra. Amit bemutat, nem újdonság, inkább újra összekapcsolja a hívőket azzal, amitől elsodródni látszanak. Nyomatékosítja, hogy a hitnek állhatatosnak kell lennie – az elfogadás nem csupán röpke pillanatra szól, hanem folyamatos bizalom. 1Kor 15:3-4-ben a keresztény hit egyik legkorábbi összefoglalását találjuk, amely négy kulcsfontosságú történelmi elemen alapszik:**
+c.  Tisztaság és őszinteség (2Kor 1:12-14). Pál nyomatékosítja, hogy szolgálatát szentségben, őszinteségben és nyíltan végezte, nem testi bölcsességgel, hanem Isten kegyelmével (2Kor 1:12). Védekezik az olyan vádakkal szemben, hogy nem lenne megbízható vagy állhatatos, és biztosítja a korinthusiakat, hogy nem akarta megtéveszteni őket, amikor útitervén változtatott (2Kor 1:15-18). Tisztasága és őszintesége Isten hűségén alapszik, és nyilvánvaló Pál Krisztus-központú igehirdetésében is, ahogyan 2Kor 1:20 utal rá: „Mert Isten valamennyi ígérete őbenne (Krisztusban) lett igenné, és őbenne lett ámenné az Isten dicsőségére miáltalunk.” A szeretetből fakadó szolgálat nem manipulatív vagy megtévesztő, őszinteség és becsület hajtja.
 
-1.  Krisztus meghalt. Halála nem egyszerű mártírhalál volt, hanem „a mi bűneinkért” történt.
+d.  Hűség Isten ígéreteihez (2Kor 1:18-22). Pál hangsúlyozza, hogy Isten ígérete Krisztusban mindig „igen” (2Kor 1:20). A szeretetből fakadó szolgálat Isten hűségére összpontosít, nem az emberi következetlenségre. A Szentlélek munkája három fő tevékenységből áll. Először is „megerősíti” a hívőt (2Kor 1:21). Az itt használt ige jelen idejű, amely folyamatos ráhatást jelent. Másodszor „felkeni” a hívőt, hogy képes legyen a jó hírt közölni a világgal, ahogyan egy pap vagy lévita tette volna az Ószövetségben. Végül a Lélek „elpecsételi” a hívőt a szívben Isten tulajdonaként (2Kor 1:22), és biztosítja Isten elkötelezettségéről. Pál e pecsétet „zálognak” (vagy foglalónak, görögül arrabón) (2Kor 1:22) mutatja be, tehát a hívő biztos lehet benne, hogy Isten megbízható és ígéreteit megtartja.
 
-2.  Eltemették. Temetése bizonyítja, hogy valóban meghalt.
+e.  Megbocsátás és megbékélés (2Kor 2:5-11). Pál inti a korinthusiakat, hogy bocsássanak meg a bűnbánó gyülekezeti tagnak, aki fájdalmat okozott nekik (2Kor 2:6-7), és béküljenek ki vele. A szeretet által motivált gyülekezet megbékélésre törekszik, nem büntetésre vagy bosszúra. Majd Pál azzal folytatja, hogy az engesztelhetetlen lelkület révén Sátán megvetheti lábát a gyülekezetben (2Kor 2:11). Haragtartás helyett a szeretetből fakadó szolgálat a megromlott kapcsolatokat irgalommal és kegyelemmel igyekszik helyreállítani.
 
-3.  Feltámadt. A központi csoda Jézus feltámadása.
+**3. Krisztus illata (2Kor 2:14-17). Az illat szavak nélkül beszél. A rossz szag taszít. Ezzel ellentétben a jó illat vonzó és mély érzelmeket válthat ki. Egy kedvenc étel illata régen elfeledett érzéseket idézhet meg, emlékeztet az otthonra, a családra vagy ünnepekre. A bibliai világ kulturális kontextusában az illatok fontosak voltak, mivel viselőjük személyiségét idézik. Az Ószövetségben a papokat és a királyokat (akárcsak a szentélyt) felkenték, és a szent kenetolaj valószínűleg átható illatú volt (vö. 2Móz 30:22-33), mivel fahéjat, mirhát és kassziát tartalmazott. Gyakran kentek fel személyeket vagy helyszíneket Istenhez tartozóként, akik később ennek az illatát viselték.**
 
-4.  Mindezek az események „az Írások szerint” történtek. Tehát Krisztus halála, temetése és feltámadása Isten kezdetektől lefektetett terve volt.
+Pál az illat metaforáját a diadalmenettel kapcsolatban használja (olvasói képzeletében a jól ismert római diadalmenetekkel kötve össze). A diadalmenetben a győzelem trófeáit hordozták körül. Pál számára a korinthusi gyülekezet – minden gyengeségével és belső problémáival – bizonyítéka volt annak, hogy a megpróbáltatások ellenére sikerrel hirdette az Igét (2Kor 2:14).
 
-Krisztus halála és feltámadása nem vélemény vagy filozófia – hanem a Szentíráson és a próféciákon alapuló valós történelem. A feltámadás nyilvános, testi és ellenőrizhető volt. 1Kor 15:9-11-ben Pál a saját életét a feltámadás erejének példájaként mutatja be, és ezzel azt bizonyítja, hogy a feltámadás nemcsak tantétel, amit elhiszünk, hanem életet átformáló erő.
-
-**3. A halottak feltámadása. 1Kor 15:35-49-ben Pál egy olyan kérdéssel foglalkozik, amit a görög filozófia hatása alatti korinthusiak valószínűleg feltettek a feltámadással kapcsolatban. „Habár a test feltámadása végig téma volt, a »test« terminusa első ízben ebben a fejezetben jelenik meg, és 15:35-49-ben központi szerepet kap” (Mark Taylor: „1 Corinth” szócikk, The New American Commentary. szerk. E. Ray Clendenen, 28. köt. Nashville, TN, 2014, B&H Publishing, 401. o.).**
-
-Pál a mezőgazdaságból vett metaforát használ a fizikai testet lenéző világnézet megdöntésére. A magnak meg kell „halnia”, hogy új élet születhessen. A feltámadás nem azt jelenti, hogy Isten újrahasznosítja a jelenlegi testet, hanem dicsőségessé változtatja. Isten teremtett világának sokféleségére utalva Pál biztosítja olvasóit, hogy Isten új és hozzánk illő testet ad. Ellentétbe állítja mostani testünket feltámadott testünkkel. Most földi ember (Ádám) képét hordozzuk, de majd a mennyei ember (Krisztus) képét fogjuk hordozni. Ahogyan örököltük Ádám megtört testét, örökölni fogjuk Krisztus feltámadt, megdicsőült testét is. Végül pedig Ádámra kevésbé, Jézusra pedig jobban fogunk hasonlítani a dicsőségben, erőben és Lélekkel teljes életben.
-
-**4. Győzelem a halál felett. Miután bemutatja a feltámadt test természetét, a fejezet második felében Pál végső győzelmet hirdet a halál felett, és ebből fakad a remény. Az 50. versben szereplő „test és vér” a jelen, enyészetnek kitett emberi állapotunkra értendő – nem azért, mert a test rossz lenne, hanem mert át kell változnia.**
-
-Az átváltozás Krisztus eljövetelekor történik, amikor a hívők – halottak és élők – egy szempillantás alatt átváltoznak. Pál ezután a ruha hasonlatával mondja el: „szükség”, hogy testünk „halhatatlanságot öltsön magára”. A feltámadás azt jelenti, hogy halhatatlanságba öltözünk. Nemcsak túléljük a halált, hanem dicsőségesen épek és egészségesek leszünk. Ézs 25:8 és Hós 13:14-ből részlegesen idézve írja, hogy a halál nemcsak megsebesül, hanem „elnyeletik”, Krisztus feltámadása által teljesen megsemmisül. A halál fullánkja olyan, mint a méhé – fájdalmas, de Krisztus eltávolította a mérgét.
-
-1Kor 15:56 első olvasásra nehezen érthetőnek tűnik, amikor a bűn erejét a törvénnyel hozza kapcsolatba. Amint az újszövetséges teológus, Mark Taylor megjegyzi: „Pál nem dolgozza ki a halál, a bűn és a törvény triászának kapcsolatát. A korinthusi hívők kétségkívül »értették ezt a teológiai rövidítést«, mivel korábban már kifejtették előttük. A részleteket más szövegek tartalmazzák és őrzik meg számunkra, főként Róma 5–7. Bár Pál jelen időben csúfolja a halált és hirdet diadalt felette, a végső győzelemre Krisztus visszatértéig várni kell, amikor az övéi feltámadnak (15:23). Más szóval Pál a feltámadás napjának fényében szemléli a halál kudarcát” (Mark Taylor: „1 Corinth” szócikk, The New American Commentary. szerk. E. Ray Clendenen, 28. köt. Nashville, TN, 2014, B&H Publishing, 415. o.). Pál azzal érvel, hogy a törvény leleplezte a bűnt, és rámutatott, hogy az emberiség ítélet alatt van, amivel utal a bűn hatalmára. Krisztus nélkül a bűn halálhoz és ítélethez vezet, Krisztussal a bűn megbocsátást nyer, és megsemmisül a halál fullánkja. A feltámadás nem teológia, hanem ok Isten dicsőítésére, a reményre és a félelem nélküli életre.
+Emellett Pál számára ők „tömjénáldozat voltak, amelynek illata szétterjedve Krisztus megmentő tudománya” („2 Corinth” szócikk, Andrews Bible Commentary. szerk. Ángel Manuel Rodríquez, Barrien Springs, MI, 2022, Andrews University Press, 1665. o.). A szolgálat vonja Krisztushoz az embereket, ahogyan az édes illat betölti a szobát. Azonban egyesek számára az evangélium botránykő, a halál illata (2Kor 2:16).
 
 #### Gyakorlati alkalmazás
 
-1Korinthus 15 meghatározó fejezete Pál gondolatmenetének a hívők feltámadásról, ami Krisztus második adventjekor történik. A következő kérdések teológiai gondolkodásra és egyéni alkalmazásra serkentenek:
+A szeretetből fakadó szolgálat el tudja érni a reménységre sóvárgókat. Ehhez a szolgálathoz együttérzésre, tisztaságra, őszinteségre és Isten ígéreteihez való hűségre van szükség. Végül aki Jézussal találkozott és akit Ő megváltoztatott, az olyan lesz, mint egy illat, amely vonzza az üdvösséget keresőket. A 2Korinthusi levél bevezető részei ezt a szolgálatot mutatják be, miközben Pál saját szolgálatát igazolja. Beszéljük meg a szombatiskolai csoportban a következő kérdéseket 2Korinthus 1-2 alapján:
 
-1.  Miért hangsúlyozza Pál, hogy Jézus feltámadásának voltak szemtanúi?
+1.  Miért nélkülözhetetlen az együttérzés és az irgalom a szeretetből fakadó szolgálathoz? Milyen példákat találunk a Szentírásban ezekre a jellemvonásokra?
 
-2.  Hogyan magyaráznád el a feltámadás fontosságát valakinek, aki kételkedik a keresztény hitben?
+2.  A legtöbb ember nem szeret másoktól függeni. Miért fontos mégis megtanulni egymásra támaszkodni a gyülekezetben?
 
-3.  Hogyan nyomatékosítja Pál személyes története (1Kor 15:9-10) a mondandóját?
+3.  Pál ismételten hangsúlyozza, hogy a gyülekezetekkel és az egyes emberekkel átlátható és erkölcsileg tisztességes volt a kapcsolata. Miért fontos kapcsolatainkban a becsület?
 
-4.  Pál szerint mit vonna maga után, ha nem lenne feltámadás (1Kor 15:14-19)?
+4.  Mennyire fontosak Isten ígéretei az életedben? Hogyan magyaráznád el egy nem vallásos barátodnak, hogy Isten ígéretei szavahihetőek?
 
-5.  A mai kultúra megfogalmaz-e a feltámadással kapcsolatosan a korin­thusiakéhoz hasonló kételyeket?
-
-6.  Hogyan alakítja a feltámadás az életről, a halálról vagy a halál utáni állapotról alkotott nézetedet?
-
-7.  Hogyan segítenek Pál metaforái (pl. a mag) megérteni az átváltozás fogalmát?
-
-8.  Hogyan bátorít ez a szentírási rész, amikor gyászolsz?
-
-9.  Hogyan ad a feltámadásba vetett hit célt, hogyan táplálja bennünk a kitartást és az erőt a mindennapokban?
-
+5.  Mahatma Ghandi mondta: „A gyenge soha nem tud megbocsátani. A megbocsátás az erősek jellemzője.” Kapcsolatainkban miért lényeges a megbocsátás – gyülekezeten belül és kívül?

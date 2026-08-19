@@ -3,67 +3,80 @@ title: Tanítói melléklet
 date: 25/09/2026
 ---
 
-### Hamis tanítók
+### Kegyelem, szeretet és közösség
 
 #### Áttekintés
 
-**Kulcsszöveg: 2Korinthus 10:4**
+**Kulcsszöveg: 2Korinthus 13:14**
 
-**Alapigék: 2Korinthus 10-12**
+**Alapigék: 2Kor 13:11-14**
 
-**Bevezetés: Képzeld el, hogy egy kis csapattal ismeretlen hegységben túrázol. A terep hepehupás, a köd sűrű és az útvonalban sem vagytok biztosak. A semmiből előtűnik egy férfi. A ruhája alapján vadőr, adó-vevője van, sőt térképe is. Megszólít: „Rossz úton haladnak. Kövessenek, tudok egy rövidebb utat!”**
+**Bevezetés: Képzeld el, hogy a repülőtéren vagy, és elbúcsúzol egy közeli barátodtól. Sok szép emlékkel teli időt töltöttetek együtt, még néhány nehézséggel is megbirkóztatok. Még mielőtt a barátod átmenne a biztonsági ellenőrzésen, megfordul, hogy mondjon valamit, valószínűleg csak pár szót. Ám ezekre a szavakra a repülő felszállta után még sokáig emlékszel.**
 
-A csapat tagjai megkönnyebbülten felsóhajtanak és követik. A férfi magabiztosan lépdel, történeteket mesél régi mentőakciókról, úgy tűnik, ismeri a táj minden zegét-zugát. Ám egy óra elteltével az ösvény keskenyebb lesz, veszélyesebb, furcsa. Az egyik társatok előveszi a GPS-t, és rájön, hogy túravezetőtök nem biztonságos helyre vezet. Egyre mélyebbre hatol a vadonban. Az biztos, hogy tökéletesen játszotta a szerepét, a szavai meggyőzőek voltak, de nem túravezető, hanem csaló volt. Tovább követni halálos következményekkel járhat.
+Lehet, hogy valami ilyesmit mond:
 
-Pál ugyanezzel a gonddal küzd 2Korinthus 10-12-ben. Hamis tanítók szivárogtak be a gyülekezetbe, apostoloknak adták ki magukat, a beszédük lenyűgöző és tekintélyt parancsoló volt, de másként prédikáltak Jézusról, és az embereket eltérítették az igazságtól. Pál válasza nem egyszerű védekezés. A gyülekezetet akarja megvédeni, nehogy lelki romlásba döntsék a tévtanítók, akik megjelenésük és beszédük alapján hitelesnek tűnnek, de korántsem azok, akiknek kiadják magukat.
+„Vigyázz magadra!”
+
+„Mindig szakíts időt arra, amit igazán szeretsz!”
+
+„Jusson mindig az eszedbe: sikerülni fog!”
+
+Az utolsó szavak megmaradnak. Lehet, hogy rövidek, de gyakran mély érzelmekkel telítettek, vagy lényegesek, és a beszélő szeretné, ha megjegyeznéd.
+
+Pál apostol is hasonlóképpen fejezi be újtestamentumi leveleit. A tanítással, feddéssel, védekezéssel, bátorítással és hitelvekkel teli fejezetek után nem búcsúzik el csak úgy lazán. Utolsó szavai megfontoltak, és gyakran a kegyelem, a szeretet és a testvériség intenzív kifejezései, ami az evangélium és a keresztény közösség szíve.
+
+Pál a levelei végén áldást mond, nyomatékosít és újra felhívja olvasói figyelmét a leglényegesebbre. Tehát amikor ezeket tanulmányozzuk, főként 2Kor 13:11-14-et, nemcsak udvarias búcsúszavakat olvashatunk. Kihallatszik belőlük Pál szívdobbanásainak visszhangja, és valószínűleg Istené is.
 
 **A tanulmány témái**
 
-A héten 2Korinthus 10-12 három fontos témáját szeretnénk kiemelni és megbeszélni, miközben arra a kérdésre keressük a választ, hogyan bánjunk a lelki csalókkal és hamis tanítókkal. A témák a következőek:
+Heti tanulmányunkban 2Kor 13:11-14 három kulcsfogalmára összpontosítunk, vagyis Pál a korinthusi gyülekezethez intézett befejező szavaira.
 
-**1.  Az apostoli tekintély védelme. Pál megvédi szolgálatát, és válaszol olyan vádakra, hogy leveleiben kemény, de amikor személyesen megjelenik, akkor gyenge (2Kor 10:1, 2, 10).**
+**1. A kiindulópont a kegyelem, egyben Jézus ajándéka.**
 
-**2.  A hamis apostolok veszélye. Pál kifejezi aggodalmát, hogy a korin­thusi gyülekezetet eltérítik a Krisztus iránti tiszta hűségtől (2Kor 11:2-3).**
+**2. A szeretet a megtartó erő. A szeretet Isten természete.**
 
-**3.  Lelki küzdelem. Pál hangsúlyozza, hogy fegyverei nem világiak, hanem lelkiek: „Isten szerint erősek erősségek lerombolására” (2Kor 10:4).**
+**3. A kapcsolatok testvéri közösséget építenek. A közösség is a Szentlélek munkája, amely nélkülözhetetlen az egészséges keresztény gyülekezethez.**
 
 #### Kommentár
 
-**1. Háttér: Nyilvános szónoklat a Kr. u. 1. századi Korinthusban. Az 1. században a korinthusi gyülekezet fiatal, sokszínű közösség volt egy gazdag, erkölcstelen és filozófikus beállítottságú görög városban. Jelentős kikötője révén vallási eszmék, tanítók és filozófiai trendek áradatát vonzotta. Ebben a környezetben a népszerű görög tanítók, főként retorikusok, filozófusok és szofisták részéről megszokott volt, hogy előadásaikért, magánóráikért vagy mentorálásért magas díjakat szabtak ki tehetős hallgatóiknak. A tanító értékét gyakran a tandíja határozta meg. Prótagorasz szépen megkérte leckéi árát, Iszokratész elit iskolát vezetett, ahol a diákok tandíjként jelentős összegeket fizettek be. A státusz rendkívül sokat számított, Gorgiasz és más tanítók cikornyás nyilvános beszédeket mondtak, hogy vonzzák a jól fizető hallgatókat. Még Dión Khrüszosztomosz is bírálta az ilyen közéleti személyiségeket: „Olyanok, mint valami színészek a színpadon, de nem az igazságért, hanem ezüstért és tapsért játszanak” (Beszédek, 32.11).**
+**1. Háttér: Levélírói gyakorlat. Az újszövetségi korban a levélírás a kommunikáció elterjedt és fontos formája volt, főként a görög-római világban, ahol a filozófusok, tanítómesterek és uralkodók gyakran írtak leveleket, amelyeknek megszabott szerkezetük volt: köszöntés, hálaadás, tárgyalás, befejezés. Pál átvette ezt a keretet, de átitatta mély teológiai és lelkipásztori tartalommal. Általában egy írnoknak (amanuensis) mondta tollba a leveleit, majd elküldte egy megbízható emberrel, mint Timótheus vagy Fébé.**
 
-A szónoki tehetséget gyakran társították a férfiassággal és az érett férfikor méltóságával. „Minden férfi, aki az 1. századi római korban vezetői tisztségre vágyott, egyfolytában ki volt téve felügyelői és riválisai ellenőrző bírálatának” (Jennifer Larson: „Paul’s Masculinity” c. cikke, Journal of Biblical Literature. 123. köt. 1. szám. 2004, 87. o.).
+Pál köszöntéseiben vegyültek a zsidó és a görög elemek („kegyelem és békesség”), befejezései többek egyszerű búcsúzásnál – kiérezhető belőlük gondoskodása, lelki prioritásai és a címzettel meglévő kapcsolata. 1Kor 16:19-24-ben a következőkkel zárja a levelet: üdvözletek más gyülekezettől, saját kezű aláírás, hogy a levelet hitelesítse, komoly figyelmeztetés azoknak, akik nem szeretik Krisztust, szívből jövő áldás, amelyben hangsúlyt kap a kegyelem és a korinthusiak iránti kitartó szeretete.
 
-Ennek fényében Pált természetesen támadták a korinthusi hamis tanítók. Ezek a zsidó-keresztény térítők, akiket Pál gúnyosan „fő-fő apostoloknak” nevez (2Kor 11:5; 12:11), szónoki fogyatékosságaiért, szenvedéseiért és azért is támadták, hogy nem fogadott el fizetséget – viselkedése és személye görög mérce szerint jelentéktelenséget sugallt. A hamis tanítók törvényközpontúbb, cselekedetekre alapuló evangéliumot hirdettek, kérkedtek spirituális tapasztalataikkal és tekintélyüket növelő ajánlólevelekkel rendelkeztek. Befolyásuk az evangélium tisztaságát fenyegette, mivel a gyülekezetet arra ösztökélte, hogy a vezetőket a világi siker, nem a krisztusi alázat alapján ítélje meg. Pál szándékosan szembeszállt ezzel a befolyással, amikor sátorkészítőként dolgozott (ApCsel 18:3) és anyagi ellenszolgáltatás nélkül prédikált (2Kor 11:7-9), habár egyesek ezt a gyengeség jelének vették. Pál emlékezteti a korinthusiakat, hogy tőle eltérően a hamis tanítók „leigázzák” és „kihasználják” őket (2Kor 11:20).
+2Kor 13:11-13 gyengédebb: buzdítás örömre, egységre és békességre, majd a csúcspont az isteni Szentháromság erővel teli áldása: „Az Úr Jézus Krisztus kegyelme, az Isten szeretete és a Szentlélek közössége legyen mindnyájatokkal” (2Kor 13:13)! E zárszavak gyönyörűen mutatják a tanítás és a személyes kapcsolat egyedi összefonódását, amivel utolsó szavai kegyelemre, szeretetre és közösségre épülő, maradandó lelki bátorítást fejeznek ki.
 
-**2. Az apostoli tekintély védelme. 2Korinthus 10-11-ben Pál szenvedélyesen védelmezi apostoli tekintélyét és szolgálatát a bírálat és hamis tanítás ellen. 2Korinthus 10-ben felel a vádra, miszerint „levelei ugyan súlyosak és kemények, de testi megjelenése erőtlen, és beszéde silány” (2Kor 10:10). Kifejti, hogy tekintélye egyenesen Krisztustól származik, nem saját erejéből vagy bölcsességéből. Nyomatékosítja, hogy nem büszkeségből dicsekszik, „hanem annak a mércének a mértéke szerint, amelyet Isten osztott ki nekünk, hogy hozzátok is eljussunk” (2Kor 10:13). Nem dicsekszik semmivel, ami meghaladná küldetésének lényegét, és nem is hasonlítja magát másokhoz. Tekintélyét Isten akarata határozza meg, és bármilyen elismerést kap, abból a célból kapja, hogy az evangéliumot az Isten által kijelölt területeken hirdesse (2Kor 10:15-16). Egyesek talán szerénynek tartják személyét, de levelei küldetése komolyságáról tanúskodnak, és ha szükséges, képes határozottan is fellépni (2Kor 10:11).**
+**2. A kegyelem kiindulópontja. 2Kor 13:11-13-ban Pál levelét erőteljes és teológiailag gazdag áldással zárja, nagy hangsúlyt fektetve a kegyelem témájára. Az áldást így kezdi: „az Úr Jézus Krisztus kegyelme”, és ezzel a kegyelmet a keresztényi élet alapvető elemévé emeli. Ez a kegyelem, amelynek kifejezése Krisztus önfeláldozása volt (ahogyan azt korábban 2Kor 8:9-ben is láttuk), teszi lehetővé a gondokkal teli korinthusi gyülekezetben a helyreállítást, az egységet és a békét.**
 
-2Korinthus 11-ben Pál elmondja, hogy „féltő szeretettel” ragaszkodik a korinthusiakhoz, mély, védelmező szeretettel. Ezért aggódik, hogy félrevezethetik őket a hamis tanítók (2Kor 11:2-3), akik „az igazság szolgáinak adják ki magukat” (2Kor 11:15), valójában azonban megtévesztőek és veszélyesek. Pál figyelmezteti a korinthusiakat, hogy az ilyenek hasonlóak Sátánhoz, aki „világosság angyalának” (2Kor 11:14) álcázza magát. 2Kor 11:3-ban pedig a kígyót említi, aki ravaszságával megcsalta Évát. A tanításaik elferdítik az evangéliumot. Éberségre és jó ítélőképességre buzdítja a hívőket: jusson eszükbe, hogy az ő szolgálata tisztességen és Krisztus igazságán alapszik, szöges ellentétben az álnok munkások hamisságával (2Kor 11:13).
+Pál döntésében, hogy nem dorgálással, hanem kegyelemmel búcsúzik, lelkipásztori szíve mutatkozik meg. Például a Római (Róm 16:20), a Galata (Gal 6:18) és a Filippi (Fil 4:23) levelét mind hasonló könyörgéssel zárja, Krisztus kegyelmének fenntartó jelenlétét kéri. 2Kor 13:11-13-ban a kegyelmet szeretet majd közösség követi, és olyan szerkezetet hoz létre, amely magába sűríti az Isten és ember közötti kapcsolat egész palettáját. Pál számára a kegyelem nem csupán egy teológiai fogalom, hanem élő erő, amely a híveket Istennel és egymással köti össze. Ezért használja következetesen végszóként leveleiben az apostol, hogy emlékeztesse a gyülekezetet: a kegyelem menti meg, tartja fenn és erősíti a keresztény közösséget.
 
-**3. A hamis apostolok veszélye. 2Korinthus 11-ben Pál kivédi a hamis apostolok jelentette veszélyt, olyan témákat érintve, mint a féltő szeretet, az evangélium elferdítése és a lelki vezetők álnoksága. Kezdésként kifejezi a korinthusiak miatti mély aggodalmát, mivel fél, hogy eltérítik őket a Krisztus iránti őszinte odaadástól (2Kor 11:2-3). Óva inti őket azoktól, akik más Jézust vagy evangéliumot hirdetnek. Kérleli őket, maradjanak hűek az eredetileg kapott tanításhoz (2Kor 11:4). Leleplezi a hamis apostolokat, megtévesztő munkásoknak írja le őket, akik Krisztus hű képviselőinek álcázzák magukat (2Kor 11:13). Azt is fontosnak tartja hozzátenni, hogy Sátán világosság angyalaként tetszeleg (2Kor 11:14).**
+**3. A szeretet megtartó ereje. Pál egységre és békére szólítva zárja levelét (2Kor 13:11-13), és ez az Újszövetség egyik leggazdagabb áldásmondásában csúcsosodik ki. A szövegrész egyik központi témája a szeretet mint Isten természetének kifejeződése. 2Kor 13:13-ban Pál „Isten szereteté”-t a kegyelem és a közösség mellé sorolva a hívő Istennel való tapasztalatának kulcselemévé teszi. Ez nem valami meghatározhatatlan érzelem, hanem a lényege Isten lényének, aki a keresztény közösség üdvösségének és életének Forrása. Ez a szeretet indokolja 2Kor 13:11 intéseit, ahol Pál a hívőket arra bátorítja, hogy törekedjenek megbékélésre, vigasztalják egymást, értsenek egyet és éljenek békében. Ezeknek a felhívásoknak csak akkor lehet eleget tenni, ha a gyülekezeti tagok először meggyökereznek az Istentől eredő odaadó, megbékélésre hajlandó szeretetben.**
 
-Éles ellentétet állít fel, amikor szarkasztikus stílusban átveszi ellenfelei hangvételét, kifigurázza botorságukat és dicsekvésüket, majd felsorolja saját szenvedéseit, amelyeket Krisztusért állt ki (2Kor 11:21-30). Ezzel a módszerrel leleplezi a hamis tanítók megtévesztő természetét, rámutat, hogy önreklámozásuk éles ellentétben áll az őszinte áldozatvállalással és gyengeséggel, amit Pál szándékosan felvállal a szolgálatában. Továbbá 2Korinthus 12-ben beszámol egy mennyei látomásáról, amelyet jelentéktelennek tüntet fel, mert nem hajlandó dicsekedni (2Kor 12:1-6). „…tövis adatott a testembe” – mondja, hogy el ne bizakodjék és bemutathassa: Isten ereje a gyengeségben válik tökéletessé (2Kor 12: 7-10). Emlékezteti a korinthusiakat, hogy az igazi apostolok jegyeit viseli béketűrés, jelek, csodák és erők által (2Kor 12:12). Ellentétbe állítja önzetlen indítékait a hamis tanítókéval. Kifejezi mély vágyát, hogy a gyülekezet hasznára legyen, ne a terhére – ezzel is kimutatja, hogy valóban és odaadóan törődik velük, lelki jólétükkel (2Kor 12:14-18).
+Levelei befejezésénél Pál következetesen kiemeli a megbékélés témáját. Róm 15:30-ban a gyülekezetet kéri „a Lélek szeretetére”, hogy közösen imádkozzanak érte, és ezzel bemutatja, hogy a szeretet a motiváló erő a lelki feladatokban is.
 
-**4. Lelki küzdelem. 2Kor 10:4-ben Pál kiemeli, hogy a harcot, amelyben részt vesz, nem földi fegyverekkel vívják, hanem lelkiekkel, amelyek „Isten szerint erősek erősségek lerombolására”. Ez a vers domborítja ki a lelki küzdelem fogalmát, amelyben az ellenség nem földi, hanem lelki – a sötétség és megtévesztés erői, amelyek az evangélium igazságának aláásására törekednek. Pál nem fizikai harcra, földi tusakodásra gondol. A hívők egy láthatatlan küzdelem résztvevői, miközben egymásnak ellentmondó ideológiájú és hamis tanításokkal teli világban Isten igaz­sága szerint próbálnak élni. 2Kor 11:13-ban felhívja a figyelmet a hamis apostolokra és tanításaikra, akik megfogalmazása szerint „álnok munkások, akik Krisztus apostolainak adják ki magukat”, akik elferdítik az evangéliumot és félrevezetnek. E hamis tanítók az „erősségek”, amelyeket Pál lerombolni szándékozik. Félrevezető érveik és tanításaik olyanok, mint az erődítmények, amelyek ellenállva Krisztus igazságának az embereket lelki rabságban tartják.**
+Ef 6:23-24-ben Pál ezt írja: „Békesség a testvéreknek és szeretet, hittel együtt az Atya Istentől és az Úr Jézus Krisztustól!” Majd hozzáfűzi: „A kegyelem legyen mindazokkal, akik el nem múló szeretettel szeretik a mi Urunkat, Jézus Krisztust.” Az itt említett szeretet isteni eredetű, de mint válasz: emberi – Isten szeretetének a tükröződése, amelyet a hívő adományként kaphat. Hasonlóképpen 1Thessz 3:12-ben Pál így könyörög: „Titeket pedig gyarapítson az Úr és tegyen bőségessé az egymás és a mindenki iránti szeretetben, mint ahogy mi is vagyunk irántatok.” Újra összeköti a lelkipásztori munkában és a gyülekezet bizonyságtevésében megnyilvánuló szeretetet.
 
-Az „Isten szerint erősek” szókapcsolat arra utal, hogy a lelki fegyverek ereje Istentől származik és hatásos, mert összhangban vannak isteni tekintélyével és céljaival. Amikor az ellenséges erősségek lerombolásáról beszél, Pál a mélyen a köztudatba ivódott érvekre, ideológiákra és gondolati sémákra utal, amelyek szemben állnak Isten igazságával. Szolgálatának kontextusában a lerombolás szembeszállás a hamis apostolokkal és tanításaikkal, amelyek „más Jézust” és „más evangéliumot” hirdetnek (2Kor 11:4). A hamis apostolok manipulálnak és megtévesztenek. Pál rámutat, hogy a hamis tanok lelki erődítményeket hoznak létre a hívők elméjében. Az „erősségeket” metaforikusan érti – olyan gondolati sémák és világnézetek metaforái, amelyek lelki elnyomást eredményeznek, és az embert a bűn és tévelygés bilincseiben tartják.
+2Korinthus 13-ban Pál nemcsak egyszerűen búcsúzik, hanem összefoglalja az evangéliumot: „Isten szeretete” a forrása Krisztus kegyelmének és a Szentlélek közösségének. Pál egyedül ebben a levelében használja a három személyű egy Isten formulát „az epilógusban, hogy ezzel kiemelje az Istenség különálló szerepeit az üdvösség munkájában” („2 Corinth” szócikk, Andrews Bible Commentary. szerk. Ángel Manuel Rodríquez, Berrien Springs, MI, 2022, Andrews University Press, 1685. o.).
+
+**4. A közösség a kapcsolatokban megmutatkozó eredmény. A közösség témáját 2Kor 13:14 a Szentlélek munkájának eredményeként emeli ki, amit az emberi kapcsolatok területén elért. A szövegben a „közösség” (koinónia) közös részvételre utal, mély kapcsolati kötődésre nemcsak a Lélek és a hívők, hanem a hívők között is, a Lélek egyesítő erejének köszönhetően. A záró áldás összefoglalja a keresztény közösség szívét-lelkét: a Lélek az, aki a gyülekezetben létrehozza és fenntartja az egységet és a kapcsolatok mélységét. Buzdítja a korinthusi gyülekezetet, amit korábban megosztottság és rivalizálás jellemzett, hogy tapasztalják a megbékélést és összhangot a Lélek által.**
+
+Pál máshol is utal a Lélek által teremtett egységre. Fil 2:1-2-ben bátorítja olvasóit: „Ha azért van Krisztusban vigasztalás, ha van szeretetteljes bátorítás, ha van Lélekben való közösség, ha van irgalom és könyörületesség, teljesítsétek be az én örömömet, hogy egyetértetek, egyazon szeretetben ugyanarra törekedtek.” Róm 15:5-6-ban hasonlóan imádkozik: „Az állhatatosság és a vigasztalás Istene pedig adja nektek, hogy teljes egyetértés legyen közöttetek Jézus Krisztus szerint, hogy egy szívvel, egy szájjal dicsőítsétek Istent, a mi Urunk Krisztusnak Atyját.” Az egyetértés Isten Lelkének a kapcsolatok terén elért eredménye, amely kölcsönös szeretetre és Isten dicsőítésére indít.
+
+Gal 5:22-26-ban Pál bemutatja a Lélek gyümölcseit: szeretet, béke és gyöngédség – ezek mind a közösségi élethez szükséges kapcsolati tényezők. Így 2Kor 13:13-ban nem általános vagy szokványos búcsúáldást mond; előrevetíti a képet, amelybe csak a Lélek képes életet lehelni: megbékélt, kegyelemmel teljes, szerető közösség, amelyet isteni ihletettségű testvéri kötelék tart össze.
+
+„A kegyelem, a szeretet és a közösség az ember számára nem természetes, ám ezek a három isteni személy ajándékaként áramlanak az egyházba. Ezek az ajándékok gyógyíthatják meg a korinthusi gyülekezetet, felkészítve a keresztény reménység valóra válására az Úr visszajövetelekor” („2 Corinth”, Andrews Bible Commentary. szerk. Ángel Manuel Rodríquez, Berrien Springs, MI, 2022, Andrews University Press, 1685. o.).
 
 #### Gyakorlati alkalmazás
 
-Beszéljük meg a következő kérdéseket a csoportban, figyelembe véve mindazt, amit 2Korinthus 10-12-ben tanultunk!
+Beszéljük meg a csoportban a következő kérdéseket 2Kor 13:11-13 alapján:
 
-1.  Pál apostol az adakozást „kegyelemnek” nevezi. Hogyan változik meg ettől a nagylelkűségről alkotott fogalmunk?
+1.  2Kor 13:11-ben Pál azt mondja: „jussatok egy értelemre”. Vajon miért veszi be ezt a célt a végső intések sorába? Hogyan valósulhat ez meg a kapcsolataidban vagy a gyülekezeti közösségben?
 
-2.  Milyen modern példákat találunk a 2Kor 11:4-ben megemlített „más Jézusra” vagy „más evangéliumra”? Hogyan ismerhetjük fel, amikor valaki elferdíti az igazságot?
+2.  Hogyan lehet „egy értelmen és azonos véleményen” lenni (1Kor 1:10), és hogyan lehet a „békességben éljetek” tanácsot megfogadni (Róm 12:18) egy olyan gyülekezetben (mint amilyen a korinthusi), ahol annyi a konfliktus (lásd 1Kor 1:10-13)?
 
-3.  2Kor 10:7, 10-ben a korinthusiak külső megjelenése és beszéde alapján ítélték meg Pált. Miért veszélyes a lelki tekintélyt csupán a karizma, a megjelenés vagy a beszédkészség alapján megítélni?
+3.  Mi az alázat szerepe az egység elősegítésében?
 
-4.  Pál szerint milyen a lelki tekintély? Miben különbözik a világi vezetés tekintélyétől?
+4.  2Kor 13:12-ben a hívőket arra utasítják, hogy „Köszöntsétek egymást szent csókkal.” Ma kulturálisan mi a megfelelő módja annak, hogy kifejezzük ezt a lelki kötődést és egységet?
 
-5.  2Kor 10:3-5-ben Pál okoskodások lerombolásáról és gondolatok rabul ejtéséről beszél. Ma hogyan tudjuk aktívan megvédeni az elménket és hitelveinket a hamis tanításoktól?
+5.  Hogyan tapasztaltad Krisztus kegyelmét az elmúlt napokban? Ez miként hat arra, ahogyan a nehezen kezelhető emberekkel vagy helyzetekben viselkedsz?
 
-6.  Lelki tapasztalatai helyett Pál vajon miért taglalta inkább a szenvedéseit? Döntése mit árul el a tanítók értékeléséről?
-
-7.  Az emberek néha miért tűrik meg, sőt csodálják a hamis tanítókat? Mi teszi a hamis tant olyan vonzóvá?
-
-8.  Találkoztál valaha „hamis tanítóval” vagy félrevezető tanítással? Mi történt? Hogyan ismerted fel mindkettőt, és mit tanultál a tapasztalatodból?
-
+6.  Vannak-e olyan kapcsolatok vallási közösségedben, amelyek gyógyulásra vagy megerősítésre szorulnak? Ha igen, melyek ezek? Milyen lépéseket tehetsz ennek megkönnyítése érdekében?

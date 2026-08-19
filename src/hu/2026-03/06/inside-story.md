@@ -1,6 +1,6 @@
 ---
 title:  Történet
-date: 14/08/2026
+date: 07/08/2026
 ---
 
 #### Davis indiánjai – 2. rész
@@ -18,4 +18,3 @@ Davis halálát követően az indiánok minden szombaton összegyűltek a sírj�
 Guyanában az 54 ágyas Georgetowni Adventista Kórházat Davisről nevezték el. 1956-ban a Roraima-hegyi Misszió a Kamarang vidékén levő Paruimai Davis Indián Szakképző Iskolával egészült ki. Az 1980-as évek első felében a jelentések szerint 1500 adventista volt „Davis indiánjai” között.
 
 A történet az Encyclopedia of Seventh-day Adventists egyik életrajzi cikkének összefoglalása. További információ a www.encyclopedia.adventist.org oldalon található.
-

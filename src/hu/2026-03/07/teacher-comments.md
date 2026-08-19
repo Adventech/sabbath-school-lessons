@@ -3,69 +3,74 @@ title: Tanítói melléklet
 date: 14/08/2026
 ---
 
-### Lelki ajándékok
+### A szeretet
 
 #### Áttekintés
 
-**Kulcsszöveg: 1Korinthus 14:1**
+**Kulcsszöveg: 1Korinthus 13:13**
 
-**Alapigék:  1Korinthus 12**
+**Alapigék:  1Kor 13:1-13**
 
-**Bevezetés: Képzeljünk el egy impozáns koncertteremben egy zenekart, közvetlenül az előadás előtt! A zenészek hangszereiket hangolják, a karmester felemeli pálcáját. A művészek játszani kezdenek, a hegedűk, csellók, trombiták, fuvolák, dobok és egyebek a karmester irányításával gyönyörködtető zenét szólaltatnak meg.**
+**Bevezetés: Anna idős nagymamájával él. A barátai gyakran hívják szórakozni, de inkább otthon marad, főz, takarít és felolvas a nagymamájának, aki a demencia miatt néha nem emlékszik unokája nevére.**
 
-Most tegyük fel, hogy a hegedűs hirtelen megszólal: „Nem játszom tovább, mert nem trombitálok. Az én részem nem fontos.” És mi lenne, ha a dobos vadul püfölné a hangszerét, vagy olyan erősen csapná össze a cintányért, hogy elnyomna minden egyéb hangot? A gyönyörű harmónia káoszba fordulna!
+Egy este a nagymama ingerülten ráripakodott a lányra, felejtve a kedvességet. Anna ahelyett, hogy megsértődött, vagy faképnél hagyta volna, gyöngéden megfogta a kezét, és így szólt: „Nagyi, nyugodj meg, nincs semmi baj! Szeretlek.” Akkor is törődik vele, ha nem kap érte hálát.
 
-Egy zenekarban nincs felesleges hangszer. Minden zenész hozzájárul a remekmű létrejöttéhez, de össze kell dolgozniuk. Ha valaki nem hajlandó játszani, a zene kárára van. A zenészek nem függetlenül játszanak, követik a karmester utasításait, hogy valami nagyszerűt alkossanak.
+Anna nem elismerésért vagy jutalomért segít. Nem számít dicséretre. Egyszerűen csak szeret – türelmesen, kedvesen, irigység, büszkeség vagy neheztelés nélkül. Szeretete kitartó a nehézségek ellenére.
 
-1Korinthus 12-ben Pál egy másik metaforát használ ugyanennek az igaz­ságnak a szemléltetésére. Az egyházban minden hívő más-más lelki ajándékot kapott. Egyes ajándékok láthatóak, mások csendben a háttérben dolgoznak, de mind fontos.
+Pál ilyen szeretetről ír 1Korinthus 13-ban – ami nemcsak szavakban vagy érzésekben jelentkezik, hanem napi döntésekben, hogy az ember önzetlen, megbocsátó és állhatatos lesz. Ez Isten irántunk való szeretetét tükrözi, amely soha nem múlik el.
 
 **A tanulmány témái**
 
-Heti tanulmányunk három fő témát dolgoz fel:
+1Korinthus 13-at gyakran nevezik „szeretetfejezetnek”, ez a Biblia egyik legmélyebb értelmű szövege. Pál a keresztényi élet középpontjába helyezi a szeretetet, ezzel magasabb rendűnek mutatja be a lelki ajándékoknál, tudásnál, sőt a hitnél is. A héten három fő témát vizsgálunk meg:
 
-**1.  Kezdjük a legfontosabbal! Bármilyen ajándékunk vagy szolgálatunk van, Jézusra kell összpontosítanunk, aki a Szabadítónk, Gyógyítónk, Ő képesít mások szolgálatára (1Kor 12:1-3).**
+**1. A szeretet felsőbbrendűsége (1Kor 13:1-3)**
 
-**2.  Egy lélek, sok ajándék. Pál emlékezteti olvasóit, hogy minden ajándék ugyanabból a forrásból származik, mert maga Isten látja el egyházát ezekkel, hogy általuk megáldja és elérje a világot (1Kor 12:4-11).**
+**2. A szeretet jellemzői (1Kor 13:4-8)**
 
-**3.  Egy test, sok testrész. Pál a test metaforáját vezeti be, hogy szemléltesse a tagok egyházon belüli sokféleségét. Bátorítja olvasóit, hogy mindig az összképet vegyék figyelembe (1Kor 12:12-31).**
+**3. A szeretet maradandósága (1Kor 13:8-13)**
 
 #### Kommentár
 
-**1. 1Korinthus 12 történelmi háttere. Az 1. századi Korinthus különféle vallásaiban gyakoriak voltak a misztikus tapasztalatok, a jóslatok és az eksztatikus beszédek. Ezek általában isteni megszállottsághoz, misztériumkultuszokhoz vagy orákulumokhoz társíthatók. A delphoi jósda Görögország egyik leghíresebb vallási helyszíne volt, ahol egy Püthia nevű papnő transzba esett, amikor hitük szerint megszállta Apolló isten. Ebben az állapotban titokzatos üzeneteket közvetített, amiket azután a papok értelmeztek. Más szentélyekben (mint pl. Dodonában) jósoltak, ahol a papok és papnők természeti jelenségek révén kaptak prófétai üzeneteket (szél, a levelek susogása stb.). Ezt isteni kegy vagy bölcsesség jelének tartották, egyes korinthusi hívők pedig így viszonyultak a nyelveken szóláshoz.**
+**1. Háttér: A szeretet a Kr. u. 1. századi görög írásokban és filozófiában. A szeretet a görög-római filozófiában és irodalomban széles körben vitatott fogalom és a zsidó gondolkodásnak is fontos része volt. Azonban az, hogy mit értettek ezalatt, nagy eltéréseket mutatott. A római költők (pl. Ovidius az Ars Amatoria című művében) a szeretetről inkább mesteri törekvésként szólnak, amelybe manipuláció és csábítás is belefonódik. Inkább a szépséget, a vágyat és a hódítást társították hozzá, mintsem az önzetlenséget.**
 
-A misztériumkultuszokhoz – mint a Dionüszosz- (Bacchus), Kübelé- és Ízisz-kultuszhoz – szervesen hozzátartoztak a rituálék – zene, őrjöngő imádat, amely gyakran vezetett transzállapothoz, érzelmi felajzottsághoz. Ilyenkor úgy érezték, hogy kommunikálnak az istenekkel. A Dionüszosz-kultuszban a hívők eksztatikus táncban és kántálásban vettek részt, miközben hitük szerint betöltekeztek istenük jelenlétével. Tudósok szerint némely korinthusi keresztények e hagyományok hatására pl. a nyelveken szólás és a prófétálás ajándékát hasonló tapasztalatnak tekinthették. Ez valószínűleg megoszláshoz vezetett a gyülekezetben, mivel egyes hívők ajándékuk alapján magukat „lelkibbnek” tartották. Pál ezt a nézetet kétségbe vonva hangsúlyozza, hogy minden ajándék ugyanattól a Lélektől származik (1Kor 12:4-11), és az egész egyház javára kell szolgálnia, nem az egyéni státusz növelésére.
+Az ókori görögöknek és rómaiaknak sok szavuk volt a szeretetre, és mindegyik más aspektusát világította meg az emberi kapcsolatoknak: az erós szó általában a szenvedélyes, romantikus vagy szexuális vágy hajtotta szerelmet jelölte. Gyakran tekintették erős vágynak vagy sötét erőnek is, amely irracionalitáshoz vezethet. Platón Symposium című munkájában azonban úgy tárgyalja, mint ami az egyént a fizikai vonzalomtól egy felsőbbrendű isteni szépséghez vezetheti el. A philia a barátság vagy a testvéri szeretet jelölése, és két egyenlő fél kapcsolatára utaltak vele. Arisztotelész Nikomakhoszi etikájában elengedhetetlennek tartotta a philiát az erényes, kiteljesedett élethez, főként a kölcsönös jóakaraton alapuló barátságok esetében. A storgé a családtagok közötti szeretetet jelöli, mint amilyen a szülők és gyermekeik köteléke. A szeretet e formája szerintük ösztönös és védelmező.
 
-**2. Kezdjük a legfontosabbal! 1Kor 12:1-ben Pál új témát vezet be: „a lelki ajándékokra nézve…” Hasonló, új témát bevezető szófordulatokat találunk a következő igékben: 1Kor 7:1, 25; 8:1; 16:1, 12. A görög pneumatikōn többes számú melléknév, azt jelenti, hogy „lelki”, de vonatkozhat „lelki dolgokra” vagy „lelki emberekre”. Az apostol aggódik a korinthusi gyülekezet tagjaiért torz énképük miatt, mivel magukat „lelkieknek” állítják be (1Kor 14:37). „Megvolt a veszélye annak, és sok esetben meg is történt, hogy egyesek azt állították: ők magasabb lelki státusszal rendelkeznek a közösségben, ami megoszláshoz vezetett a hívők között. Pál ezt a mentalitást elutasította” („1 Corinth” szócikk, Andrews Bible Commentary. szerk. A. M. Rodríquez, Berrien Springs, MI, 2022, Andrews University Press, 1642. o.). Pál emlékezteti olvasóit: az ajándékokra való összpontosítás helyett örülniük kellene, ha Isten Lelkének indítására Megváltójuknak vallják Jézust (1Kor 12:3). Senki sem átkozhatja Jézust, akit valóban a Szentlélek vezet. Tehát minden hívő „lelki” az alapvető keresztény hitvallás alapján – miszerint Jézus Úr.**
+Végül pedig az agapé az önzetlen, feltétel nélküli szeretetet jelentette. Habár a terminus a keresztény kor előtt is létezett, a görög filozófiai szövegekben nem kapott hangsúlyt. Pál írásai, főként 1Korinthus 13 szóhasználata, ezt a szeretetet emelik ki.
 
-**3. Egy Lélek, sok ajándék. Mielőtt kitérne a különböző lelki ajándékokra, Pál 1Kor 12:4-6-ban olyan kijelentést tesz, amelybe belefoglalja a Szentháromság minden tagját, és kiemeli a Lélek adta ajándékok sokféleségét, az Úr (Jézus) adta szolgálatok sokféleségét, és azoknak a tevékenységeknek a sokféleségét, amelyeket Isten ad, „aki mindenben és mindenkiben megmutatja erejét” (1Kor 12:6). A felsorolás menete: Lélek – Fiú – Atya. Az Istenség egysége lesz az a minta vagy példa, amelyhez a megosztott korinthusi gyülekezetnek mérnie kell magát.**
+A zsidó gondolkodásban a szeretet szorosan kötődik a szövetségi kapcsolatokhoz, legyen az Isten és Izrael vagy egyének közötti kötelék. A zsidó írások a következő szeretettípusokat hangsúlyozták: 1) Isten állhatatos szeretete (hesed), amely szövetségi szeretetét jellemezte: hűséges, irgalmas és állhatatos (pl. Zsolt 136:2 refrénje: „Mert kegyelme örökké tart”); 2) a felebarát szeretete, ahogyan 3Móz 19:18 parancsolatában találjuk („szeresd felebarátodat, mint magadat”) elv, ezt később Jézus is megerősítette (Mk 12:31); és 3) szeretet a családban, a házasságban, amint A példabeszédek könyve és az Énekek éneke megjeleníti.
 
-Pál emlékezteti olvasóit, hogy az első ajándék, amellyel Isten minden hívőt megajándékozott a hit, hogy „Jézus Úr” (1Kor 12:3). Ez megegyezik azzal, amit Jn 6:44-ben mondott Jézus: „Senki sem jöhet énhozzám, ha az Atya, aki elküldött engem, nem vonzza őt…” Bár szabad választásunk van, a Lélek vagy az Atya késztet az első lépés megtételére Jézus felé.
+Az 1. századra a zsidó tanítók, pl. a farizeusok a törvény betartására fektették a hangsúlyt az Isten iránti szeretet kifejezéseként (5Móz 6:5). 1Korinthus 13-ban Pál leírása a szeretetről forradalminak számított. A görög-római világ versenyszellemű, státusz adta szeretetétől vagy némely zsidó tanító legalizmusától eltérően Pál szerint az agapé a legfőbb erény, nagyszerűbb a tudásnál, a hatalomnál vagy éppen a lelki ajándékoknál. Míg az erós saját személyes beteljesedésre vágyott, 1Korinthus 13 szeretete áldozatkész. Az önzés szöges ellentéteként ez a szeretet felülemelkedett a puszta érzelmeken, állhatatos és tettre kész. Életstílust képviselt, türelmet, kedvességet és alázatosságot igényelt.
 
-Pál a lelki ajándékok, valamint a keresztény közösségben végezhető szolgálatok és tevékenységek sokféleségének leírásával folytatja (1Kor 12:4-11). „Pál kifejti, hogy a Szentlélek ajándékait az egész egyház javára kapják (12:7)” (i.m. 1642. o). Így az ajándékok nem a lelki kiválóság vagy felsőbbrendűség jelei, hanem Isten kegyelmének bizonyságai, hogy erőt adjanak szolgálni egymásnak és a környező világnak. A fejezetben leírt ajándékok sokszínűsége (lelki táplálás bölcsesség és ismeret által, gyógyítás vagy csodatétel, prófétai beszéd, lelki ítélőképesség, nyelvek és egyéb ajándékok) a hívők közösségét szolgálja. Egyiket sem tarthatjuk előbbre valónak vagy fontosabbnak a másiknál.
+Pál szeretetfogalma inkább Isten szövetségi hesed-jével azonosítható, mint a görög filozófia eszményeivel; túlszárnyalta a tradicionális zsidó nézeteket azzal, hogy határozottan kijelentette: a keresztény etika alapja nem a Tóra, hanem a szeretet.
 
-**4. Krisztus teste – radikális gondolat. Pálnak az egyházat testként ábrázoló metaforája (1Kor 12:12-27) idegen volt a kor kultúrája számára. A római társadalmat merev társadalmi és státuszbeli határvonalak jellemezték, a csúcson a gazdagok és a hatalmasok álltak. Forradalmi volt a gondolat, hogy egyaránt értékes az egyház minden tagja – gazdag vagy szegény, rabszolga vagy szabad, férfi vagy nő. Pál rámutat, hogy Krisztusban minden hívő kapcsolatban van egymással, és a világi hierarchiát elutasítva tisztelniük kell egymást.**
+**2. A szeretet felsőbbrendűsége (1Kor 13:1-3). 1Korinthus 13. fejezetében Pál azt hangsúlyozza, hogy a szeretet nagyobb minden ajándéknál vagy képességnél, tudásnál, hatalomnál vagy még a hitnél is. Pál nem érzelemnek, hanem kedves, önzetlen és állhatatos magatartásnak írja le. Ez a fajta szeretet (agapé) a keresztény élet központi része. Nem csupán eszme, hanem cselekvésre felhívás – arra ösztönzi a hívőket, hogy minden kapcsolatukban és helyzetben Isten szeretetét tükrözzék.**
 
-Jason Staples, újszövetségi kutató megjegyzi: „Pál ezt a képet megszokott metaforikus vagy analógiai értelmén túl magasabb szintre emeli. Az apostol számára »Krisztus teste« nem csupán metaforája azoknak, akik Jézusban hit által eggyé lettek, hanem ontológiai és kapcsolati valóság is, amelyben a személyek, akik megkapják »Krisztus Lelkét« (Róm 8:9), beépülnek Krisztusba. A hívők »Krisztus testévé« épülnek fel, amikor »egy Lélek által… mindnyájan egy testté« keresztelkednek meg (1Kor 12:13)” (Jason Staples: „The Body of Christ” szócikk, Dictionary of Paul and His Letters. Downers Grove, IL, ICP Academic, 2023, 83. o.).
+1904-ben Ellen G. White a következő kijelentést tette: „Az Úr azt kívánja, hogy hívjam fel népe figyelmét 1Korinthus 13-ra. Olvassátok el ezt a részt mindennap, nyerjetek belőle vigaszt és erőt! Tudjátok meg belőle, milyen értékesnek tartja Isten a megszentelt, mennyben fogant szeretetet, és a lecke, amelyet tanít, érjen célt a szívetekben! Tanuljátok meg, hogy a krisztusi szeretet mennyei eredetű, és nélküle minden más képesség értéktelen” (The Advent Review and Herald, 1904. július 21.)!
 
-A test metafora használata kidomborítja a gyülekezet egységét, mint ahogy az egyház és Ura egységét is, főként annak alapján, hogy Krisztus a test Feje (Kol 1:18; Ef 4:15). Ebben az értelemben a test elsősorban nem a hívők testülete, hanem Krisztus teste; vagyis a metafora elsődlegesen a hívők egységére összpontosít Krisztusban.
+Pál először is hangsúlyozza: szeretet nélkül még a legcsodálatraméltóbb lelki ajándékok és vallási cselekedetek is értelmetlenek. Három példát sorol fel. 1) „emberek vagy angyalok nyelvén” szólni szeretet nélkül olyan, „mint a zengő érc vagy a pengő cimbalom” (1Kor 13:1). 2) Szeretet nélkül a prófétai hatalommal, ismerettel vagy hittel felruházott ember „semmi” (1Kor 13:2). 3) A szélsőségesen nagylelkű tettekből és áldozatból semmi haszna az adományozónak, ha nem a szeretet indítja (1Kor 13:3). Mivel az Isten szeretet (1Jn 4:8), „Istent csak szeretet által lehet teljesen megismerni… Szeretet nélkül nem ismerhetjük meg Őt, és nélküle semmik vagyunk” („1 Corinth” szócikk, Andrews Bible Commentary, szerk. Ángel Manuel Rodríguez, Berrien Springs, MI, 2022, Andrews University Press, 1643. o.). A rész kiemeli, hogy a lelki ajándékoknak és vallási buzgalomnak szeretetben kell gyökereznie, hogy igazán értelmet nyerjen.
 
-Ezek szerint az etnikai, nemi és szociális különbségek nem akadályozhatják azt, hogy valaki része lehessen Krisztus testének. Ezt az eszmét nemcsak újnak, hanem forradalminak és veszélyesnek is tekintették a görög-római társadalomban, ahol a státusznak, a hatalomnak, a szégyennek, a tiszteletnek és a nemi hovatartozásnak is kimagaslóan fontos szerepe volt.
+**3. A szeretet jellemzői (1Kor 13:4-8). A következő versekben Pál a szeretet természetét taglalja. Ez nemcsak érzelem, hanem aktív életforma. Érdekes, hogy Pál nem mellékneveket használ a szeretet természetének meghatározására, hanem igéket. Összesen 16 igét, ebből 9 negatív értéket hordoz, 7 pedig pozitívat vagy építő jellegűt. A következő táblázat ezekre ad rálátást (az Andrews Bible Commentary 1644. oldalán található táblázat alapján):**
 
-Az újszövetségi teológus, Philip Ryken példája a korai keresztény egyház felfogásáról: „Figyeljük meg az imát, amelyet egyesek Szókratésznak tulajdonítanak, és amelyben egy görög férfi hálát ad Istennek: hogy »embernek születtem, és nem baromnak, aztán férfinak és nem nőnek, harmadszorra pedig görögnek, nem barbárnak«. A pogányok általában megvetették rabszolgáikat, asszonyaikkal pedig durván bántak. Bizonyos településeken a rabszolgák nem léphettek be pogány templomokba, a nőket pedig tulajdonként kezelték” (Philip Graham Ryken, „Galatians” szócikk, Reformed Expository Commentary. Phillipsburg, NJ, 2005, P&R Publishing, 148. o.). Pál üzenete a korinthusi gyülekezethez nyilvánvalóan szemben állt ezzel.
+A lista ellentétben állt a korinthusiak viselkedésével, akik büszkeséggel, megosztottsággal és a lelki ajándékok tekintetében versengéssel küzdöttek. Pál arra kéri őket, hogy igazodjanak a szeretet magasztosabb mércéjéhez. Ellen White is ír erről: „A jellemvonás, amelyet Krisztus a legnagyobbra értékel az emberben a tiszta szívből fakadó jótékonyság (szeretet). Ez a keresztény fáján termő gyümölcs” (16. kézirat, 1892).
+
+**4. A szeretet maradandósága (1Kor 13:8-13). Pál azt a következtetést vonja le, hogy a szeretet örök, míg a lelki ajándékok mulandóak. „A szeretet soha nem fogy el” írja 1Kor 13:8-ban, de az ajándékok (prófétálás, nyelvek, ismeret) elmúlnak. Ezekre csak a tökéletességet nélkülöző földi állapotunkban van szükség, és amikor majd teljes ismeretre jutunk Isten jelenlétében, haszontalanokká válnak. 1Kor 13:12-ben emlékezteti olvasóit, hogy az ember a legjobb esetben is csupán „homályosan” lát. Ellentétbe állítja ezt a bizonyossággal, hogy Isten országában „színről színre” fogunk látni. Jelenlegi felfogásunkat Pál ahhoz hasonlítja, amikor egy tükörben elmosódott képet látunk. Az örökkévalóságban teljesen megismerjük Istent, és Ő is egészen ismer minket. A hit, a remény és a szeretet hármas erénye közül csak a szeretet marad meg, mivel a szeretet „a legnagyobb” mind között. Míg a hit és a remény alapvetően fontos mostani életünkben, a szeretet az egyedüli, amely megmarad az örökkévalóságon át.**
 
 #### Gyakorlati alkalmazás
 
-Az emberek hajlamosak hierarchiát felállítani az ajándékok között, amelyeket Isten az egyháznak mint Krisztus testének adott. Pál azért vezeti be a test és a testrészek metaforáját, hogy segítsen olvasóinak az egységre és a misszióra összpontosítani. A testrészek – írja – önmagukban nem hasznavehetőek, nem is élhetnek egymás nélkül. A szemnek szüksége van a szemhéjra; a fejnek a nyakra; a lábnak a lábszárra; és minden testrész a szívtől függ, amely oxigént és vért biztosít. Beszéljük meg a csoportban a következő kérdéseket 1Korinthus 12 alapján:
+1Korinthus 13 himnusza kiemeli, hogy a szeretet a keresztény hit és kapcsolatok alapja. A szeretet (agapē) nem az érzelmekről, vonzalomról vagy egyéni haszonról szól, inkább önfeláldozó, maradandó és átformáló életelv, amely tükrözi Isten szeretetét irántunk. Pál felszólítja a hívőket, hogy ez öltsön testet napi életünkben, legyen ez hitünk és tetteink legfőbb erénye.
 
-1.  Hogyan alkalmazhatjuk a páli test-metaforát az egyház életére, amelyben versengenek egymással a programok és prioritások?
+1.  Pál szerint szeretet nélkül még a legnagyszerűbb lelki ajándékok és önfeláldozó tettek is értelmetlenek. Mit gondolsz, a szeretet miért fontosabb a tudásnál, a hitnél vagy a nagylelkűségnél?
 
-2.  Mit szólsz ahhoz, hogy Isten testet nem pedig testrészeket szeretne látni egyházában?
+2.  Tudsz-e példát mondani olyan esetekre, amikor az emberek „jó dolgokat” tesznek, de szeretet nélkül? Hogyan befolyásolja ez tetteik hatását?
 
-3.  Mit mond a 21. század emberének az a metafora, hogy az egyház Krisztus teste?
+3.  Hogyan kérdőjelezi meg 1Korinthus 13 a siker általánosan elfogadott meghatározását?
 
-4.  Mivel lehetne a legjobban felmérni a lelki ajándékokat és fontosságukat az egyházban?
+4.  A szeretet jellemzői közül melyik ragadta meg a legjobban a figyelmedet? Miért?
 
-5.  Hogyan fedezhetjük fel saját lelki ajándékainkat az egyház missziójának kontextusában?
+5.  A fenti jellemzők közül melyik naponkénti gyakorlása esik a leginkább nehezedre? Hogyan fejlődhetnél ezen a téren?
 
-6.  Ha lehetne, milyen ajándékot választanál, és miért?
+6.  Hogyan gyakorolhatod az agapé szeretetet olyan helyzetekben, amikor nincs kedved szeretni (feszült kapcsolatok, nézetkülönbségek, apró bosszúságok)?
 
+7.  Gondolj valakire, aki igazán megtestesíti azt a szeretetet, amelyet Pál 1Korinthus 13-ban leírt! Mit tanulhatsz tőle?
+
+8.  Hogyan lehetünk képesek jobban szeretni másokat, ha megismerjük Isten szeretetét?
