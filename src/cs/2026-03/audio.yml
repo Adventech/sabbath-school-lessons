@@ -147,3 +147,5 @@
           target: cs/2026-03/10/06
         - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_10-7.mp3
           target: cs/2026-03/10/07
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q3/2026_Q3_11-1.mp3
+          target: cs/2026-03/11/01
