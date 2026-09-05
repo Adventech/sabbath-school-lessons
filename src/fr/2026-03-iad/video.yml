@@ -23,6 +23,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-03-10.mp4
           target: fr/2026-03-iad/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-03-11.mp4
+          target: fr/2026-03-iad/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/em/fr-em-2026-03-11.webp
     - artist: An Ti Kozé
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/hope/fr-hope-2026-03-01.mp4
@@ -110,3 +113,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-03-10.mp4
           target: fr/2026-03-iad/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-03-11.mp4
+          target: fr/2026-03-iad/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/fr/ffn/fr-ffn-2026-03-11.webp
