@@ -3,7 +3,7 @@ title:  Misijní příběh
 date:  11/09/2026
 ---
 
-#### ŽEHNEJ vám! 1. část
+#### (BLESS) Žehnej vám! 1. část
 
 _Oddělení adventistické misie_
 
