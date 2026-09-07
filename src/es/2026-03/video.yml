@@ -166,6 +166,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-03-10.mp4
           target: es/2026-03/10
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-03-10.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-03-11.mp4
+          target: es/2026-03/11
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/es/sum/es-sum-2026-03-11.webp
     - artist: Escuela Sabática Like
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/es/cm/es-cm-2026-03-01.mp4
