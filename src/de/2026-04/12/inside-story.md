@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 19/12/2026
+date: 18/12/2026
 ---
 
 ### Dämonen und Tod (Teil 2)

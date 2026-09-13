@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 05/12/2026
+date: 04/12/2026
 ---
 
 ### Liebe Grüße aus Finnland: Die Mission von Elsa Luukkanen

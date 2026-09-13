@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 17/10/2026
+date: 16/10/2026
 ---
 
 ### … zum adventistischen Leiter

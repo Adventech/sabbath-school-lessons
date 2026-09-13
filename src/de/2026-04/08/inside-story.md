@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 21/11/2026
+date: 20/11/2026
 ---
 
 ### Die Flamme entzünden: Elmer E. Andross und der Aufstieg des Adventismus in England

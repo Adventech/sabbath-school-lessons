@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 24/10/2026
+date: 23/10/2026
 ---
 
 ### Eine Schule für Berta

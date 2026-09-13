@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 14/11/2026
+date: 13/11/2026
 ---
 
 ### Gott an erster Stelle (Teil 2)

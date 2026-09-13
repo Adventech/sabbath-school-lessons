@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 28/11/2026
+date: 27/11/2026
 ---
 
 ### Endlich Missionarin!

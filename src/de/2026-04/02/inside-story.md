@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 10/10/2026
+date: 09/10/2026
 ---
 
 ### Vom Drogendealer …

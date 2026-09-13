@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 31/10/2026
+date: 30/10/2026
 ---
 
 ### Von Verzweiflung zur Bestimmung: Albin Močnik und die Anfänge der Adventisten in Kroatien

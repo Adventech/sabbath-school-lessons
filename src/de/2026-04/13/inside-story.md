@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 26/12/2026
+date: 25/12/2026
 ---
 
 ### Wo bist du Gott?

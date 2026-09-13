@@ -1,6 +1,6 @@
 ---
 title: Mit Gott erlebt
-date: 03/10/2026
+date: 02/10/2026
 ---
 
 ### Erweckte Herzen: Die Anfänge der Adventisten in Polen
