@@ -43,17 +43,13 @@ Gott offenbarte seinen Willen auf verschiedene Weise und sorgte dabei sowohl fü
 
 **c. Engelsboten:** Engel, die Offenbarungen überbrachten (Dan 10,11; Lk 2,8–14).
 
-**d. Das Werfen eines Loses:** Gottes Führung bei der Entscheidungsfindung
-
-(4 Mo 26,55; Apg 1,21–26).
+**d. Das Werfen eines Loses:** Gottes Führung bei der Entscheidungsfindung (4 Mo 26,55; Apg 1,21–26).
 
 **e. Urim und Tummim:** göttliches Urteil durch den Hohepriester (2 Mo 28,30).
 
 **f. Göttliche Rede:** Gottes direkte Worte, die später schriftlich festgehalten wurden (2 Mo 20,3–17).
 
-**g. Zeichen und Wunder:** Taten, die Gottes Macht offenbarten und für künftige
-
-Generationen überliefert wurden (2 Mo 7–14).
+**g. Zeichen und Wunder:** Taten, die Gottes Macht offenbarten und für künftige Generationen überliefert wurden (2 Mo 7–14).
 
 **h. Jesus Christus:** die größte Offenbarung; sein Leben und seine Lehren, wie sie in der Heiligen Schrift überliefert sind.
 

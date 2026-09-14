@@ -5,7 +5,9 @@ date: 25/12/2026
 
 ### TEIL I: ÜBERSICHT
 **Schlüsseltext:** 2. Chronik 20,20
-**Studienschwerpunkt:** 1. Korinther 2,2; Johannes 1,1–5; 2. Timotheus 3,16–17; 4,1–5; Jesaja 40,1–5; Johannes 17,20–23; 1. Korinther 1,10–13 Einführung
+**Studienschwerpunkt:** 1. Korinther 2,2; Johannes 1,1–5; 2. Timotheus 3,16–17; 4,1–5; Jesaja 40,1–5; Johannes 17,20–23; 1. Korinther 1,10–13
+
+**Einführung**
 
 Im Schlusswort seiner Dissertation über Ellen White stellt Roy Graham fest, dass Ellen Whites „Rolle und Stellung … im Adventismus nach wie vor von zentraler Bedeutung [sind]. Die besondere Qualität ihres Wirkens zeigt sich nach wie vor sowohl in dem, was sie zu Lebzeiten erreicht hat, als auch in der Richtung, in die sie ihre Denomination durch ihre Schriften gelenkt hat. Ihr Anliegen war es, die Entstehung einer konservativen, aber fortschrittlichen, nicht-sektiererischen christlichen Bewegung zu fördern, die ein alternatives ökumenisches Konzept bietet – ein versöhntes Volk in einer internationalen Gemeinschaft, vereint in Zielsetzung und Dienst an der Welt. Ihre Motivation würde darin bestehen, Gottes Liebe zu zeigen, die sich in Christus offenbart und letztendlich in der Parusie und im Eschaton zeigt. Eine solche Eschatologie wäre ihre Daseinsberechtigung und ihr universelles Banner“ (Roy Graham, Ellen White: Co-Founder of the Seventh-day Adventist Church, 1985, S. 429–430). Diese letzte Studienanleitung bietet eine gute Gelegenheit, über die zentrale Rolle und Stellung von Ellen White innerhalb der Kirche nachzudenken und darüber, wie jedes einzelne Mitglied zu ihrem Werk steht.
 
