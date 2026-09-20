@@ -1,0 +1,71 @@
+---
+title:  Komento Dagiti Mannursuro
+date:   23/10/2026
+---
+
+**Kangrunaan a Teksto:** 1 Corinto 12:4–6
+
+**Pakaisentroan ti Adal:** Mateo 16:13–16; Efeso 2:20; Apocalipsis 22:6; Lucas 2:36–39; Aramid 21:9; Efeso 6:10–18.
+
+**Pauna:** Ti tema iti adal daytoy a lawas ket kadawyan laeng a sarunoenna ti adal idi napan a lawas, ngem tamingenna ti kababalin dagiti mammadto iti Baro a Testamento, nga isu a nagkurri a kas pinapigsa ti Espiritu a babaunen ken nangipaay iti pannnakaidalan, pannakapabileg, ken panangpatigmaan iti immuna nga iglesia. Ti akem dagitoy a mammadto ket tapno ipakdaarda ti mensahe ti Dios, no dadduma iparangarangda dagiti masakbayan a paspasamak, ngem ti kangrunaan ket panangpapigsa kadagiti mamati ken panangayab kadakuada iti panagmatmatalek. Saan a kas kadagiti mammadto iti Daan a Testamento, nga iti turayda ket pamuon iti naintulagan a pannakikayamet ti Israel iti Dios, dagiti mammadto iti Baro a Testamento ket nagtrabahoda iti uneg ti komonidad ti iglesia, nakitinnulongda iti sursuro dagiti apostol ken intudoda ni Cristo a kas namimpinsan a paltiing ti pagayatan ti Dios. Kas iti panangitan-ok dagiti mammadto iti Baro a Testamento ken Cristo a kas Misias, kasta met iti inaramid ni Ellen G. White.
+
+### Paset II: Komentario
+
+**1. Ni Jesus ti kadakkelan a mammadto.**
+
+Ni Jesu-Cristo ket Isu ti namimpinsan a mammadto, tapawanna amin dagidiay immay sakbay Kenkuana. Saan a kas kadagiti mammadto iti Daan a Testamento nga isu a nangisao iti sao ti Dios, ni Jesus ket Isu ti Sao a nagbalin a lasag (Juan 1:14). Isu ket saanna laeng nga impakdaar ti nadiosan a kinapudno; Isu iti pudno. Ni Jesus ket binigbigna ti naimpadtoan nga akemna, a kunana, “ ‘Awan ti mammadto nga awanan dayawna no di laeng idiay ilina ken idiay balayna’ ” (Mateo 13:57), nga ipagpaganetgetna ti pannakatukiadna, iti laksid ti turayna.
+
+Ni Juan Bautista ket iniggamanna met ti maysa a naisalsalumina a naimpadtoan nga akem. Nabigbig isuna a kas maysa a mammadto (Mateo 11:9), isu ket nagtignay ken nagsao a kas kadagiti mammadto idiay Daan a Testamento, nga inayabanna dagiti tattao iti panagbabawi ken insaganana ti dalan agpaay iti Misias (Isaias 40:3; Mateo 3:3). Nupay kasta, ni Juan ket naisalsalumina. Isu iti rangtay iti nagbaetan ti daan ken iti baro a tultulag, ti maudi a mammadto iti daan a panawen ken ti immun-una iti baro a panawen. Isu ket nagtakder “idiay napateg a paset ti panawen” ken “iti ngarab ti panawen ti pannakatungpal.”—Christiopher Rowland, “Prophets, Prophecy,” in Dictionary of Jesus and the Gospels, 2nd ed., Joel B. Green et al. (Downers Grove, IL; Nottingham, England: IVP Academic; IVP, 2013), p. 707.
+
+Ni Juan laeng ti nangilasin ken Cristo kas “Kordero ti Dios” (Juan 1:29). Ni Jesus pinadayawanna ni Juan a kas kadadakkelan kadagidiay a naiyanak kadagiti babbai (Mateo 11:11), ngem imbagana met a ti kababassitan idiay pagarian ti langit ket dakdakkelto, a mangipakpakita iti baro a makabalbaliw a pannakabalin ti tulag (Juan 3:30).
+
+**2. Dagiti apostoles ken mammadto iti Baro a Testamento ket agpadpadada nga addaan iti isu met laeng a pannakabalin a kas kadagiti mammadto iti Daan a Testamento.**
+
+Ti Baro a Testamento ket pasingkedanna ti panagtultuloy ti naimpadtoan a sagut, nga ipadpadana ti turay dagiti apostoles ken dagiti mammadto iti Baro a Testamento kadagidiay a kabatogda iti Daan a Testamento. Idiay Efeso 3:5, ni Pablo isuratna a ti palimed ni Cristo ket “isu a cadagidi sabsabali a caputotan saan a naipacaammo cadagiti annac dagiti tattao, cas iti pannacaipalti-ingna ita cadagiti sasanto nga apostol ken mammadto babaen ti Espiritu.” Iti umas-asping unay, ti Efeso 2:20 ket iladawanna ti iglesia a kas “nabangon iti rabaw ti cimiento dagiti apostol ken dagiti mammadto, ket ni Cristo Jesus met laeng ti bato a nangnangrona ti iking.” Kas ilawlawag ni Daniel B. Wallace dagitoy a pakasarakan ket itudoda iti isu met laeng a bunggoy dagiti mammadto nga isu a, kadua dagiti apostoles, binukelda ti pamuon ti iglesia (Daniel B. Wallace, Greek Grammar Beyond the Basics: An Exegetical Syntax of the New Testament [Grand Rapids, MI: Zondervan, 1996], p. 286).
+
+Dagiti iskolar ket pagdidibatianda no ti naimpadtoan a sagut ket nagtultuloy iti labes ti panawen ti kinaapostol. Dagiti cessationists ket patienda a nagpatingga dayta idi nalpas ti pannakabukel ti Biblia, kabayatan a dagiti continuationists—pakairamanan dagiti adu a charismatic ken Pentecostals—ket ibagada a ti naimpadtoan a sagut ket agtultuloy ita nga aldaw. Dagiti Seventh-day Adventists ket alaenda ti maysa a mangibabaet a panangkita, pasingkedanda a ti naimpadtoan a sagut agtultuloy ngem agtalinaed a nababbaba ngem ti Sursurat, nga isu nga agserbi a kas namimpinsan a turay. Gapuna, naaluadda maipapan iti panagtultuloy dagiti amin a sagsagut iti wagas a panangilawlawag dagiti bunggoy dagiti charismatic.
+
+**3. Iti Baro a Testamento, ti sagut ti padto ket nagkurri a kas patigmaan ken pammabileg, mangitudtudo ken Cristo.**
+
+Ti yuumay ni Cristo ket binalbaliwanna ti kababalin ti padto. Kabayatan a dagiti mammadto iti Daan a Testamento ket pinadpadaananda ti Misias, dagiti mammadto iti Baro a Testamento ket insentroda ti mensaheda iti biag, ipapatay, panagungar, ken panagsubli ni Jesus. Ti Apocalipsis 19:10 ipakdaarna a “ti pammanecnec ken Jesus isu ti espiritu ti pammadto,” isu a ni Cristo ti sentro dagiti amin a naimpadtoan nga ar-aramid.
+
+Kas iti paliiw ni Rino Fisichella, dagiti mammadto iti Baro a Testamento ket nagsaoda iti biang ni Jesus, a pinagbalinda dagiti Sasaona a sibibiag ken asideg agpaay iti iglesia (Rino Fisichella, “Prophecy,” in Dictionary of Fundamental Theology, René Latourelle and Fisichella, eds., [New York: Crossroad Publishing Company, 1994], p. 794). Ti akemda ket tapno mangbalakad, mangpabileg, ken mamalaing iti komonidad, a kas imbaskag ni Pablo idiay 1 Corinto 14:3: “Ngem, ti agipadto agsao cadagiti tattao a maipaay a mamalaing, mamagbaga ken mangliwliwa.”
+
+Ni Ekkehardt Mueller ipaganetgetna a dagiti mammadto iti Baro a Testamento ket nakasentroda nga “ad-adda pay ken Jesus, ti Biagna, dagiti Sasaona, ken dagiti ar-aramidna ngem iti panangisentro dagiti mammadto iti Daan a Testamento iti Misias.”—“The Prophetic Voice in the New Testament: An Overview,” in Alberto R. Timm and Dwain Esmond, eds., The Gift of Prophecy in Scripture and History (Silver Spring, MD: Review and Herald Publishing Association, 2015), pp. 55, 56. Ti trabahoda ket tapno pagbalinenda ti mensahe ni Cristo a mayataday, a guyuguyenda ti iglesia nga agtalinaed a matalek ken napnoan namnama a mangpadpadaan iti panagsublina.
+
+**4. Ti naimpadtoan a sagut ket naipaduyakyak met kadagiti babbai a kas met kadagiti lallaki.**
+
+Ti Baro a Testamento ket ipaganetgetna a ti naimpadtoan a sagut ket naited nga agpadpada kadagiti lallaki ken babbai. Idiay Aramid 2:17, 18, ni Pedro, iti panangadawna iti Joel 2:28, 29, ket ipakdaarna: “ ‘Dagiti annacyo a lallaki ken babbai agipadtodanto. . . . Wen, ken cadagiti adipenco a lallaki ken babbai, cadagita nga aldaw ibuyatconto ti Espirituc, ket agipadtodanto.’ ” Daytoy agpadpada a pannakaibokbok kadagiti lallaki ken babbai ket nalawag a natungpal iti immuna nga iglesia.
+
+Dagiti babbai, a kas ken Anna (Lucas 2:36–38) ken dagiti uppat a babbai nga annak ni Felipe (Aramid 21:9), ket nabigbigda a kas mammadto, nga addaanda kadagiti napateg nga akem iti pannakaiwaragawag ti mensahe ti Dios. Ti pannakairamanda ket ipaganetgetna ti saan a panangidumduma ti Espiritu Santo a panangiwaras kadagiti sagsagut, a pinabilegna nga agpadpada dagiti lallaki ken babbai nga agserbi a kas babaunen ti kinapudno ti Dios.
+
+**5. Ti Baro a Testamento ket ballaagannatayo a maibusor kadagiti ulbod a mammadto.**
+
+Kadua dagiti pannakapasingked ti pudno a padto, ti Baro a Testamento ket ipaayna dagiti napigsa a ballaag a maibusor kadagiti ulbod a mammadto. Idiay Mateo 7:15, ni Jesus iballaagna, “ ‘Agaluadcayo cadagiti naulbod a mammadto nga umayda cadacayo a nacacawes a cas la carnero, ngem iti unegda loboda a narawet.’ ” Dagiti ulbod a mammadto ket nangipaay iti napaypayso a peggad iti immuna nga iglesia, a nangiturong iti pannakayaw-awan dagiti mamati babaen kadagiti makaallilaw a sursuro.
+
+Ti 1 Juan 4:1 ket guyugoyenna dagiti Cristiano a “suutenyo dagiti espiritu, no nagtaudda iti Dios; ta adu dagiti saan a pudno a mammadto a rimmuar ditoy lubong.” Ti pudno a padto ket maitunos iti Sao ti Dios, itudona ni Cristo, ken paglaingenna ti iglesia, kabayatan a dagiti ulbod a mammadto ket parang-ayenda dagiti mamagsisina a doktrina ken bukod a pagimbagan. Naayaban dagiti namati iti pannakaawat [panangilasin], a mangisigurado nga amin a naimpadtoan a mensahe ket maitunos iti Sursurat ken naisentro ken Cristo.
+
+**6. Ti naimpadtoan a sagut ni Ellen G. White ket nagkurri nga umas-asping unay kadagiti mammadto iti Baro a Testamento nga isu ket nakasentro ken Cristo.**
+
+Iti balabala ti adal iti Viernes, epektibo nga isalaysay bassit, agpaay iti klase, ti naisentro ken Cristo, naisentro iti krus a turong dagiti sursuratna, manipud kadagiti immuna a tawtawen agingga iti naud-udi. Daytoy a salaysay ket tumulong a mangpatibker no kasano iti panagkurrina a kas mammadto kalpasan ti panawen ti Biblia iti panangkita ti Baro a Testamento ken intan-okna ni Cristo. Nanipud pay 1851, impaganetgetna ti kinapateg ti “panagtaeng iti pannakaikari ni Jesus, ti ayatna, dagiti pakaikarianna, ken iti dakkel nga asina.”—Ellen G. White, Early Writings, p. 73. Napalabas dagiti adu a tawtawen, idi 1857, isu nagpakaasi kadagiti agtutubo: “No ni Cristo ket Isu kadatayo ti namnama ti dayag, matakuatantayo ti awan pakaipadisanna a pannakaay-ayo Kenkuana a ti kararua ket maawis.”—Testimonies for the Church, vol. 1, p. 162.
+
+Idi 1869, ti immuna a panangisentrona ken Cristo ket nagpatingga iti “The Sufferings of Christ,” maysa a bassit a polieto a naipablaak ken kalpasanna ket nairaman iti Testimonies for the Church, volume 2, pages 200–215. Iti makatignay unay ken napigsa unay a pagsasao a mabalinna nga usaren, ni Ellen G. White inladawanna ti biag, rigrigat, ken ipapatay ni Cristo a kas maysa a mangabbong kadagiti basbasoltayo. Ti dadagsenna ket “alaentayo koma ti nalawlawa ken naun-uneg a panangkita” iti naaramidan ni Cristo agpaay kadatayo ken “maparegta koma, maitag-ay, ken maparagsak iti tema ti ayat ti Ama ken ti Anak iti tao.”—Ellen G. White, Testimonies for the Church, vol. 2, p. 215.
+
+Kalpasan ti General Conference Session idiay Minneapolis idi 1888, nadamag ken Ellen G. White no ania ti kapanunotanna kadagiti mensahe ti pannakaisalakan a naiparang. Isu simmungbat, “Apay, iparparangko dayta kadakayo iti napalabas nga 45 a tawtawenen—ti di mapadisan a panangawis ni Cristo.”—Sermons and Talks, vol. 1, p. 116. Dagitoy a “di mapadisan a panangawis” ket masarakan kadagiti makasubbot nga ar-aramid, nadiosan a kababalin, ken persona ni Cristo. Adu dagiti sasao iti pakaikarian ni Cristo ken pannakaisalakan Kenkuana a masarakan iti amin a sursurat ni Ellen G. White kadagitoy uppat a pulo a tawtawen ken agingga iti panagpatingga ti biagna (kitaen, kas pangarigan, Ellen G. White, Gospel Workers, pp. 156–162).
+
+**Adalen Pay:** Kitaen ni Peter M. van Bemmelen, “ ‘The Matchless Charms of Christ’ ”: Theological Significance of This Phrase in Ellen White’s Writings,” in Daniel Heinz et al., Christ, Salvation, and the Eschaton: Essays in Honor of Hans K. LaRondelle (Berrien Springs, MI: Old Testament Department, Seventh-day Adventist Theological Seminary, 2009), pp. 231–240.
+
+### Paset III: Panangipakat iti Biag
+
+Dagiti sumaganad a salsalsudsod a maipakat iti biag, naadaw manipud iti komentario iti ngato, ket naipaayda a mangpabaknang iti panagiinnadal ti klaseyo. Mangpili kadakuada, ken manipud kadagiti saludsod iti adal. Pilien dagiti salsaludsod a kaimbagan a mangidalan iti klaseyo iti adda kaipapananna a panagut-utob.
+
+1. Ni Jesus ket saan laeng a mammadto. Isu ti Sao a nagbalin a lasag (Juan 1:14). Kasano a daytoy a kinapudno ti Biblia ket sukogenna ti pannakaawattayo iti turayna ita nga aldaw?
+2. Ni Juan a Mammautisar ket binigbigna ni Jesus a kas “Kordero ti Dios” (Juan 1:29). Kasano a ti panangbigbig ken Cristo ken iti Kinasiasinona ket balbaliwanna no kasano ti panagbiagtayo ken iti panangibingaytayo iti pammatitayo?
+3. Ti Efeso 2:20 ket iladawanna ti iglesia a kas naibangon iti pamuon dagiti apostoles ken dagiti mammadto, a ni Cristo ti bato a kas pasuli. Kasano koma nga impluensiaan daytoy a kapanunotan ti panangkitatayo iti Baro a Testamento ken iti turayna?
+4. Dagiti nadumaduma a bunggoy dagiti Cristiano ket agdidibateda no ti naimpadtoan a sagut ket agtultuloy. Kasano ti panangiladawam iti takder dagiti Adventista?
+5. Ni Pablo kunana a ti padto ket naisangrat a mamalaing, mamagbaga, ken mangliwliwa (1 Corinto 14:3). Kasano a maipakattayo daytoy a prinsipio kadagiti komonidad ti iglesiatayo ken iti inaldaw a pannakilangentayo?
+6. Dagiti babbai, kas ken Anna (Lucas 2:36–38) ken dagiti uppat a babbai nga anak ni Felipe (Aramid 21:9), ket nabigbigda kas mammadto. Kasanotayo a tulongan ken paregtaen dagiti lallaki ken babbai a mangaramat kadagiti naespirituan a sagutda ita nga aldaw?
+7. Ni Jesus imballaagna nga umay dagiti ulbod a mammadto a nakakawes a kas la karnero (Mateo 7:15). Ania dagiti kabaroanan a pagarigan dagiti sursuro nga agparang a maitunos iti Biblia ngem mangiturong kadagiti tattao iti pannakayaw-awan?
+8. Ni Ellen G. White impaganetgetna “ti di mapadisan a panangawis ni Cristo.” Ania iti kayatna a saoen iti daytoy a sasao? Dayta ket, ania dagiti “di mapadisan a panangawis ni Cristo”? Kasano a ti panangisentrom iti imatangmo kadakuada ket iyun-unegna ti pammatim?
+9. Ni Ellen G. White ket pabilgenna ti nalawlawa ken naun-uneg a panangkita iti panangabbong ni Cristo. Kasano ti idadakkeltayo iti pannakaawat ken panangapresiar iti naaramidan ni Cristo agpaay kadatayo?
+10. Ti naimpadtoan nga akem ni Ellen G. White ket kankanayon a naisentro iti panangitag-ay ken Jesus. Kasano a maidilig ti panangipaganetgetna ken Cristo iti panangkita ken panangaramattayo kadagiti sursuratna ita nga aldaw?
