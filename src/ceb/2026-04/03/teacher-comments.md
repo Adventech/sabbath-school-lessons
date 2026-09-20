@@ -1,0 +1,68 @@
+---
+title:  Komento sa Magtutudlo
+date:   16/10/2026
+---
+
+### Bahin I: Kinatibuk-ang Panglantaw
+
+**Dugokan nga Teksto:** 2 Cronicas 20:20.
+
+**Tutokan sa Pagtuon:** Santiago 5:17, 18; 1 Hari 19:1–16; 1 Hari 22:1–13; Exodo 15:20; 2 Hari 22:11–14; Jeremias 14:1-15.
+
+**Introduksiyon**
+
+Sa milabay nga semana atong gitun-an ang tawag ngadto sa pagpanagna; ang leksyon niini nga semana naghulagway sa mga kinaiyahan sa gasa sa tagna sa Daang Tugon ingon nga usa ka pagpasabut sa ministeryo ni Ellen G. White sa pagpanagna. Ang mga balasahon sa tagna sa Daang Tugon nagsakop sa usa ka bahin nga tukma sa tibuuk Bag-ong Tugon. Ang ilang mga mensahe tukma sa panahon ug makahuloganon alang sa ilang nagkalainlaing mga naminaw. Adunay daghan nga atong matun-an gikan sa kasinatian sa mga propeta sa Daang Tugon sa ilang mga ministeryo ug sa unsa nga paagi kini nga mga kasinatian makatabang kanato sa pagsabut sa ilang mga ministeryo ug sa unsa nga paagi kini nga mga kasinatian makatabang kanato sa pagsabut sa ministeryo sa pagpanagna ni Ellen G. White.
+
+### Bahin II: Komentaryo
+
+**1. Bisan og ang mga propeta nakasinati og usa ka ekstraordinaryo nga gasa, tawhanon gihapon sila.**
+
+Ang matagnaong tradisyon sa panagna nagsugod kang Moises sa Daang Tugon, ang ulohang tuburan sa biblikal nga propesiya. Si Moises nagbuhat ingon nga direkta nga tigpamaba sa Dios, sa pagpataliwala sa tugon tali kang Yahweh ug sa Israel ug nagpataliwala alang sa katawhan (Exodo 33:11, Deuteronomio 34:10). Ang iyang talagsaong kadugtongan sa Dios, sa pakigsulti “nawong-ug-nawong,” nagpahimutang sa sulondan alang sa awtoridad sa pagpanagna. Nagsunod kang Moises, gihimo nga pormal ni Samuel ang buhatan sa pagpanagna, sa pagsulay sa kapanahonan sa mga maghuhukom ug sa monarkiya. Ingon nga maghuhukom ug propeta, nagalagad si Samuel ingon nga tigpamaba sa Dios ngadto sa mga hari, nga mahinumduman ilabina sa pagdihog kang Saulo ug David (1 Samuel 9:15–17, 1 Samuel 16:1–13), nagpalig-on sa buluhaton sa pagpanagna ingon nga usa ka nagamando ug nagasaway nga tingog ngadto sa mga hari sa Israel.
+
+Gipaila ni Elias ang katungdanan sa piskal sa kasabutan. Dili sama kang Moises, nga sagad nagpataliwala alang Israel. Direkta nga nakigatubang si Elias sa nasod ug sa mga pangulo niini, pagsumbong kanila sa dili pagkamatinumanon ngadto sa tugon o kasabutan. Ang iyang hagit didto sa ibabaw sa bukid sa Carmel, “ ‘Hangtud kanus-a ba nga magakiangkiang kamo sa taliwala sa duha ka daplin? Kong si Jehova Dios man, sumunod kamo kaniya” (1 Hari 18:21), naghulagway sa iyang buhat sa pagpahamtang og silot. Gilangkob si Elias ang mga mensahe sa paghukum uban sa paglaum, pagtawag sa Israel ngadto sa paghinulsol ug pagbalik ngadto kang Yahweh. Busa, iyang gipaila ang usa ka bag-ong panahon nga nagpahimutang sa entablado alang sa tanang mga manalagna human kaniya nga naghatud sa matagnaong mensahe ngadto sa mga hari ug ngadto sa katawhan (tanawa kang Willem A. VanGemeren, Interpreting the Prophetic Word (Grand Rapids, MI: Zondervan, 1990), pp. 28–38).
+
+Bisan pa sa ilang balaang pagbulot-an, ang pagkatawhanon sa mga propeta makita. Si Moises nagduhaduha sa iyang mga katakus sa pagpanulti (Exodo 4:10), naguul si Saul sa kapakyasan (1 Samuel 15:35), ug si Elias naluya gani bisan sa paghandum alang sa kamatayon tungud sa mga hulga ni Jezebel (1 Hari 19:4). Kini nga mga pakigbisug nagpakita nga ang mga propeta bisan pa sa ilang pagkatinawag, mga tawhanon gihapon nga adunay kahadlok, pagduhaduha, ug kasamok sa pagbati. Kini nga hunahuna nagpahinumdum kanato sa grasya sa Dios sa paggamit og kasarangan nga mga tawo sa paghatag sa dili kasarangan nga mga mensahe.
+
+**2. Mga Profeta sa Daang Tugon nagbuhat sumala sa usa ka espesipiko nga sulondan.**
+
+Ang Deuteronomio 18:15–19 naglagda sa buluhaton sa usa ka manalagna, sa pagpasantop sa ilang buluhaton ingon nga pinili sa Dios nga mensahero. Ang usa ka matuud nga propeta direkta nga tawagon ni Yahweh, dili pinaagi sa personal nga handum. Kini nga balaang pagtawag mahinungdanon kaayo, tungud kay ang buluhaton sa propeta mao ang pagsulti sa mga pulong sa Dios, dili ang iyang kaugalingon. Daghang mga propeta sama kang Moises, Isaias, Jeremias, ug Amos, sa sugod midumili sa ilang tawag, nagbati sa pagkadili takus o sa kahadlok nga dili tuohan. Apan, gipugos sila sa pagsulti, sagad maghulagway sa pulong sa Dios ingon nga dili madumilian nga puwersa (Jeremias 20:9).
+
+Ang matuud nga propeta magagikan sulod sa komunidad sa tugon, “gikan sa imong taliwala, sa imong mga igsoon” (Deuteronomio 18:15), sa pagsiguro sa usa ka kadugtongan ngadto sa katawhan sa Dios. Bisan og makahimo ang Dios pakigsulti pinaagi kang bisan kinsa, sama sa asno ni Balaam (Numeros 22:28–30). Sa kasagaran magtudlo Siya og mga propeta sulod sa Iyang matinumanong komunidad. Ang mga propeta nagabuhat ingon nga mga mensahero, sa pagpahibalo sa mga sugo sa Dios sa walay pagdugang og personal nga mga opinyon. Ang pulong mensahero nga labing maayo nga makakuha niini nga buluhaton, ingon nga mga propeta nga maghatud sa awtoritatibo nga pulong, pagpaabut niini nga tumanon (tanawa kang Eric J. Tully, Reading the Prophets as Christian Scripture: A Literary, Canonical, and Theological Introduction, pp. 56–62).
+
+Alang sa Dugang Pagtuon: Basaha kang J. Young, My Servants the Prophets (Grand Rapids, MI: Wm. B. Eerdmans Publishing Company, 1952), pp. 20–37.
+
+**3. Tuohi ang matuud nga mga manalagna ug ilha sila gikan sa mini nga mga manalagna. Ang Daang Tugon naghatag og tinaw nga giya alang sa pagila sa matuud nga mga propeta gikan sa mga mini. Ang usa ka matuud nga mensahe sa propeta kinahanglan matuman (Deuteronomio 18:21, 22) ug masubay sa mga sugo sa Dios, magpalambo sa eksklusibo nga pagsimba kang Yahweh (Deuteronomio 13:1–5). Bisan kon ang usa ka timaan o kahibulungan matuman, ang manalagna mini kong magagiya siya sa katawhan ngadto sa pagsimba og mga diosdios o magpahilayo gikan sa tugon sa Dios. Ang tinuud nga mga propeta dili gayud mosukwahi sa Pulong sa Dios; ang ilang personal nga mga kinabuhi magpakita sa pagkabalaan ug dungog. Ang mini nga mga propeta, agig pagtandi, gihukman alang sa immoral nga pamatasan o panglihok (Jeremias 23:14).**
+
+Ang matuud nga mga manalagna sagad nagatubang og pagsupak ug pagsalikway, samtang ang ilang mga mensahe nagbadlong sa sala ug nagpasidaan sa paghukum, dili sama sa mini nga mga manalagna nga nagtanyag og paglipay apan malimbongon nga mga pulong (Jeremias 6:14). Ang awtoridad sa matuud nga manalagna mapamatud-an pinaagi sa natuman nga mga tagna, pagunong ngadto sa balaod sa Dios, moral nga kadungganan, uyon sa naguna nga gipadayag, ug pagkaandam sa pagsulti sa malisud nga mga kamatuuran, bisan kon dili kini popular.
+
+**4. Ang kababayehan nagbuhat sa usa ka mahinungdanong pagpakita sa gasa sa tagna sa Daang Tugon.**
+
+Si Hulda nagpakita sa mahinungdanong buluhaton sa kababayehan sa Daang Tugon nga tagna. Panahon ni Hari Josia, sa diha nga ang “basahon sa kasugoan” nakaplagan sulod sa templo, nangita si Josia sa balaan nga giya. Nangonsulta siya kang Hulda, bisan og si Jeremias aktibo nianang panahona (2 Cronicas 34:22). Kini nga pagpili nagpahayag sa awtoridad ug respeto nga gikuptan ni Hulda ingon nga usa ka matuud nga manalagna ni Yahweh. Ang iyang mensahe, nga gipasabut diha sa duha ka mga orakulo, nagpahibalo sa paghukum ug paglaum. Iyang gipamatud-an nga ang mga tunglo gikan sa Deuteronomio 28 ipahamtang sa Juda tungud sa nagpadayon nga pagsimba og mga diosdios (2 Cronicas 34:24, 25). Sa gihapon, gipasaligan ni Hulda si Josia nga ang iyang pagpaubus ug paghinulsol magluwas kaniya gikan sa pagsaksi sa umalabot nga katalagman (2 Cronicas 34:26–28).
+
+Ang buluhaton ni Hulda nagpakita kon sa unsa nga paagi ang babaye nga mga manalagna gipiyalan sa awtoritatibo, balaang mga mensahe nga naggiya sa mga pangulo sa nasod. Bisan og ang iyang tagna wala magpaila og bag-o nga doktrina sa mga kamatuuran, nagpahinungod kini ngadto sa diha nang daan nga Kasulatan sa kasamtangan nga kahimtang, sa pagpalig-on pagusab sa mga prinsipyo sa hukum sa tugon ug kalooy. Ang panigingnan ni Hulda nagpakita sa gitahud nga buluhaton nga makuptan sa mga babaye sa pagpasa sa pagpanagna sa Daang Tugon, sa pagalagad ingon nga mahinungdanong mga mensahero sa kamatuuran sa Dios.
+
+**5. Ang kasinatian ni Ellen G. White sa gasa sa pagpanagna adunay daghang mga kasusama sa mga manalagna sa Daang Tugon.**
+
+Ang kasinatian ni Ellen G. White bahin sa gasa sa pagpanagna nagpaambit sa mga pagkasusama sa mga manalagna sa Daang Tugon. Sa iyang ikaduhang panan-awon niadtong Disyembre 1844, iyang nakita ang mga pagsulay ug pagsupak nga iyang atubangon ug sa unang pagsupak sa tawag. Apan, ang mga pulong “Ipahibalo ngadto sa uban kong unsa ang akong gipadayag kanimo” naglanog sa iyang hunahuna.—Ellen G. White, Spiritual Gifts, vol. 2, p. 36. Mahinay ug maulawon, nalisang si Ellen sa iyang pagpahat sa iyang mga panan-awon sa publiko. Nangayo siya og pagampo ug pagpadasig gikan sa mga higala, sa iyang pagbati sa hilabihan ka bug-at nga katungdanan.
+
+Panahon sa usa ka katiguman sa pagampo, iyang giasoy pagusab ang usa ka makapausab nga kasinatian: “Samtang ako nagampo, gilibutan ako sa mabaga nga panganod nga gikatag, usa ka dakung kahayag, sama sa usa ka bola nga kalayo, nagpadulong kanako, sa pagtugdon niini kanako, nakuhaan ako og kusog. Akong gibati nga diha ako sa presensya ni Jesus ug sa mga manulunda. Sa makausa pa, gisubli kini, ‘Ipahibalo ngadto sa uban ang akong gipadayag kanimo.’ “—Ellen G. White, Spiritual Gifts, vol. 2, p. 37. Bisan og dako ang iyang pagkadasig niini nga kasinatian, nagpakilooy siya alang sa pagkamapainubsanon, sa kahadlok nga magpataas sa kaugalingon, ug gipasaligan siya nga pasakitan siya og balatian kong matumaw ang garbo. Niini nga gutlo nalig-on ang iyang pagtugyan ngadto sa tawag.
+
+Sulod sa iyang taas nga ministeryo, gihulagway ni Ellen G. White ang iyang kaugalingon ingon nga usa ka “mensahera,” sa pagpasantop sa iyang buluhaton diha sa pagpahibalo sa mga mensahe sa Dios kaysa pagkupot og usa ka specific nga buhatan. Niadtong 1903, nagsulat siya: “Gikan sa tuig 1844 hangtod sa presente nga panahon nakadawat ako og mga mensahe gikan sa Ginoo ug akong nahatag sila ngadto sa Iyang katawhan. Mao kini ang akong buluhaton—sa paghatag ngadto sa katawohan sa kahayag nga gihatag sa Ginoo kanako. Gisugo ako sa pagdawat ug pagpahibalo sa Iyang mga mensahe. Dili ako magpakita atubangan sa katawhan ingon nga naghupot sa bisan unsa nga katungdanan kay niana nga usa ka mensahera uban sa usa ka mensahe.”—Testimonies for the Church, vol. 8, p. 237.
+
+Bisan pa sa iyang labaw pa sa kasarangan nga gasa, nagpabilin si Ellen G. White sa pagkaamgo sa halalum nga pagbati sa iyang pagkatawhanon. Ang iyang mga pakigbisug nagpakita sa salamin sa biblikal nga mga propeta nga nagatubang sa kahadlok, pagduhaduha, ug pagantos sa ilang mga ministeryo. Sa kanunay iyang gisalikway ang pagpataas sa kaugalingon, kondili sa pagtutok lamang sa matinumanong paghatud sa mga mensahe sa Dios, bisan kon sila nagdala og pagsaway o kalisdanan.
+
+Sa Daang Tugon ug sa kasinatian ni Ellen G. White, ang gasa sa pagpanagna maoy usa ka dungganong tawag, sagad inubanan sa personal nga mga pagsulay ug halalum nga pagpaubus. Bisan og gipili alang sa labaw pa sa kasarangan nga buluhaton, kini nga mga mensahero nagpabilin nga tawo, nagsalig sa kusog sa Dios sa pagtuman sa ilang balaan nga pagkatinawag.
+
+### Bahin III: Kagamitan sa Kinabuhi
+
+Ang mosunod nga mga pangutana, gikuha gikan sa komentaryo sa ibabaw, gihatag aron pagpalambo sa diskusyon sa imong klase. Pagpili gikan kanila, ug gikan niana nga anaa sa leksyon, sa labing maayo nga makapasalmot sa imong klase diha sa makahuloganong pagpamalandong.
+
+1. Ang mga propeta magtawag sa katawhan sa pagbalik ngadto sa pagkamatinumanon panahon sa espirituhanong pagkunhod. Unsa ang pipila ka mga bahin karon diin ang matagnaong mga tingog gikinahanglan?
+2. Unsaon nato pagpalambo og usa ka kasingkasing nga maminaw ug motubag, ngadto sa mensahe sa Dios, imbis nga mosupak niini, sama sa gibuhat sa daghan sa Israel?
+3. Unsa ang personal nga leksyon atong makuha gikan sa mga kinabuhi sa mga propeta, bahin sa paglahutay, sa pagtoo, ug pagtuman ngadto sa tawag sa Dios?
+4. Gigamit sa Dios ang mga tawo nga dili hingpit sa pagdala sa Iyang balaan nga buluhaton. Sa unsang paagi kini nga kamatuuran makaapekto sa atong pagtanaw sa atong mga kaluyahon ug mga limitasyon sa pagalagad?
+5. Daghang mga propeta nga sa pagsugod midumili sa ilang tawag, apan gipugos sila sa Dios sa pagsulti. Nakasinati ka ba og pagbati nga gitawag ikaw sa pagbuhat sa usa ka butang apan nagalang-alang? Unsay nakatabang kanimo sa pagpadayon sa unahan?
+6. Ang mini nga mga manalagna sa Daang Tugon sagad mosulti sa mga tawo kung unsay ilang gusto madunggan kong unsay ilang gikinahanglan madunggan (Jeremias 6:14). Unsaon nato pagsiguro nga atong gipangita ang kamatuuran imbis nianang mga mensahe nga makapalipay?
+7. Unsaon nato, sama sa gibuhat ni Hulda, paggamit ang Pulong sa Dios ngadto sa atong presente nga kahimtang ug paggiya sa uban ngadto sa kamatuuran?
+8. Si Ellen G. White, sa nahauna nagdumili sa iyang tawag, maingon sa gihimo ni Moises ug Jeremias. Nagbati ka ba sukad nga gimandoan ka sa Dios sa pagbuhat og usa ka butang gawas sa imong hayahay nga kahimtang? Giunsa nimo pagtubag?
+9. Giila ni Ellen G. White ang iyang kaugalingon ingon nga usa ka mensahera kaysa ingon og usa ka propeta, nagtutok sa paghatud og paghatag sa mga mensahe sa Dios imbis nga magangkon og usa ka titulo alang sa iyang kaugalingon. Sa unsa nga mga paagi nga siya isipon nga usa ka mensahera? Unsay atong makat-onan gikan sa iyang pagtagad sa pagpaubus diha sa ministeryo?
