@@ -1,0 +1,22 @@
+---
+  title: "O Dom de Profecia"
+  description: "Os neurocientistas começaram a compreender a admirável facilidade que os bebés humanos possuem para a aquisição da linguagem. Aos seis meses, um bebé consegue compreender os sons que compõem as palavras inglesas, ou palavras de qualquer uma das mais de sete mil línguas faladas no mundo. Se exposto a uma segunda língua, pode igualmente adquiri-la. Durante este período, abre-se uma misteriosa porta mental que permite aos bebés distinguir os cerca de quarenta sons que geralmente constituem a língua materna dos oitocentos sons diferentes que conseguem percecionar ao nascer. Mas há uma condição: É preciso que alguém lhes fale. Poderíamos chamar-lhe lições de voz para recém-nascidos."
+  human_date: "Outubro · Novembro · Dezembro 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#007C77"
+  color_primary_dark: "#00514E"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Ellen G. White Estate®"
+    - name: Direção-Geral
+      value: "António Carvalho"
+    - name: Direção de Redação
+      value: "Lara Figueiredo"
+    - name: Tradução e Revisão
+      value: "Redação Publicadora SerVir"
+    - name: Projeto Gráfico
+      value: "Arte Publicadora SerVir"
+    - name: Capa e Diagramação
+      value: "André Carrolo Fernandes"
