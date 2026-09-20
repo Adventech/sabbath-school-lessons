@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Oct_S.pdf'
+      target: zh/2026-04-bg/01
+      title: 耶稣医治一个小女孩
+      start_date: 26/09/2026
+      end_date: 30/10/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Nov_S.pdf'
+      target: zh/2026-04-bg/02
+      title: 好牧人
+      start_date: 31/10/2026
+      end_date: 27/11/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Dec_S.pdf'
+      target: zh/2026-04-bg/03
+      title: 小耶稣诞生
+      start_date: 28/11/2026
+      end_date: 25/12/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Oct_T.pdf'
+      target: zh/2026-04-bg/01
+      title: 耶稣医治一个小女孩 - 教师本
+      start_date: 26/09/2026
+      end_date: 30/10/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Nov_T.pdf'
+      target: zh/2026-04-bg/02
+      title: 好牧人 - 教师本
+      start_date: 31/10/2026
+      end_date: 27/11/2026
+    - src: 'https://cms.sdabible.site/storage/magazine/documentPdf/Children-Sabbath-School-Lesson/2024/Q4/Begin/Begin_A4_Dec_T.pdf'
+      target: zh/2026-04-bg/03
+      title: 小耶稣诞生 - 教师本
+      start_date: 28/11/2026
+      end_date: 25/12/2026
