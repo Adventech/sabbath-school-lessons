@@ -38,6 +38,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2026-03-12.mp4
           target: pt/2026-03/12
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2026-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2026-03-13.mp4
+          target: pt/2026-03/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/vivo/pt-vivo-2026-03-13.webp
     - artist: Adventistas Lago Sul
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-03-01.mp4
@@ -73,3 +76,6 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-03-12.mp4
           target: pt/2026-03/12
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-03-12.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-03-13.mp4
+          target: pt/2026-03/13
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/pt/lago/pt-lago-2026-03-13.webp

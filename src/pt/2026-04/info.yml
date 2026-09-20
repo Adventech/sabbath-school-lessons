@@ -1,0 +1,30 @@
+---
+  title: "O dom de profecia"
+  description: "Os neurocientistas estão começando a compreender a extraordinária facilidade que os bebês têm para aprender a se comunicar. Aos seis meses de idade, um bebê já consegue reconhecer os sons que formam as palavras do seu idioma – ou de qualquer outro entre os mais de 7 mil idiomas falados no mundo. Se for exposto a uma segunda língua, poderá aprendê-la também."
+  human_date: "Outubro · Novembro · Dezembro 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#B26A29"
+  color_primary_dark: "#994F0D"
+  splash: true
+  credits:
+    - name: Autores
+      value: "Depositários do Patrimônio Literário de Ellen G. White"
+    - name: Tradutor
+      value: "Matheus Cardoso"
+    - name: Coordenação Editorial
+      value: "André Oliveira Santos"
+    - name: Editores
+      value: "Oscar Lopes e André Oliveira Santos"
+    - name: Revisoras
+      value: "Esther Fernandes, Rosemara Santos e Adriana Teixeira"
+    - name: Editor De Arte
+      value: "Thiago Lobo"
+    - name: Projeto Gráfico
+      value: "Eduardo Olszewski"
+    - name: Capa E Layout
+      value: "Fábio Fernandes"
+    - name: Ilustração De Capa
+      value: "Thiago Lobo"
+    - name: Ilustrações Internas
+      value: "Andrei Vieira"

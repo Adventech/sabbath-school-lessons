@@ -1,0 +1,79 @@
+---
+title:  Komento ng Guro
+date:   20/11/2026
+---
+
+### Unang Bahagi: Pangkalahatang-ideya
+
+**Susing Talata:** Lucas 24:27
+
+**Pokus ng Pag-aaral:** Mateo 5:17–48; 1 Corinto 16:20; Mateo 4:1–11; Lucas 10:25–28; Lucas 24:25–27, 44–49
+
+**Panimula**
+
+Ang wastong pagpapaliwanag ng Kasulatan at ng mga sulatin ni Ellen G. White ay nangangailangan ng maingat na pagsasaalang-alang sa konteksto, layunin, at sa gumagabay na gawain ng Banal na Espiritu. Sa Lucas 24:27, ang salitang “ipinaliwanag” (Griyego diermēneuō) ay nangangahulugang ipaliwanag, bigyang-kahulugan, o ipaliwanag nang malinaw—tulad ng ginawa ni Jesus nang linawin Niya ang mga Kasulatan sa ilang alagad sa daan patungong Emaus. Ipinapakita ng kahulugang ito ang kahalagahan ng tamang pag-unawa at tamang pagpapahayag ng mga mensahe ng Diyos, sa halip na ipilit sa mga ito ang ating sariling mga palagay. Sa parehong paraan, ang pagbibigay-kahulugan sa mga sulatin ni Ellen G. White ay nangangailangan ng pagsusuri sa kanyang mga salita ayon sa kanilang makasaysayan at pampanitikang konteksto, habang tinitiyak na ang mga ito ay nakaayon sa biblikal na pundasyon na kanyang itinaguyod. Kaya ang araling ito ay angkop na lumilipat mula sa mga prinsipyo ng pagbibigay-kahulugan sa Biblia patungo sa pagbibigay-kahulugan sa mga sulatin ni Ellen G. White.
+
+### Ikalawang Bahagi: Komentaryo
+
+**1. Ang tamang pag-unawa sa Biblia ay nangangailangan ng tamang mga prinsipyo ng pagbibigay-kahulugan.**
+
+Ang sumusunod na sampung prinsipyo ay tumutulong upang ipaliwanag kung paano dapat bigyang-kahulugan ang Kasulatan at kung paano maririnig ang tinig ng Diyos sa pamamagitan ng Kanyang Salita (ang sampung prinsipyong ito ay hinango mula kay Richard M. Davidson,, “Interpreting Scripture: An Hermeneutical ‘Decalogue,’ ” Journal of the Adventist Theological Society 4, no. 2 [1993]: pp. 95–114).
+
+Ang Biblia Lamang: Ang Biblia ang pinakamataas na awtoridad sa pananampalataya at pamumuhay (2 Timoteo 3:16). Ang lahat ng doktrina at paniniwala ay dapat subukin ayon sa Kasulatan, na nakatataas sa tradisyon, katuwiran ng tao, at karanasan. Bagaman may pangkalahatang kapahayagan sa kalikasan at sa propesiya, ang Kasulatan ang nananatiling panghuling pamantayan, na tumutulong upang maiwasan ang hiwa-hiwalay na interpretasyon at labis na pag-asa sa mga kredo.
+
+Ang Kabuuan ng Kasulatan: Ang buong Kasulatan ang dapat maging batayan ng pananampalataya, hindi lamang ang piling mga talata. Nagkakaroon ng maling interpretasyon kapag ang mga talata ay inihihiwalay sa kanilang konteksto, tulad ng sinadyang maling paggamit ni Satanas sa Kasulatan noong tuksuhin niya si Jesus (Mateo 4:6). Dapat isaalang-alang ng mga mananampalataya ang kabuuang larawan ng Biblia upang maiwasan ang pagbaluktot ng kahulugan.
+
+Ang Analohiya (Pagkakatugma) ng Kasulatan: Ang Kasulatan ay may panloob na pagkakaisa, at dapat itong maging pamantayan sa pagbibigay-kahulugan sa sarili nito: ang Kasulatan ang nagpapaliwanag sa Kasulatan (Isaias 8:20). Dapat hayaang ituwid ng Kasulatan ang ating mga pagkiling habang patuloy nating inihahambing ang mga talata sa mas malawak na mensahe ng Biblia.
+
+Espirituwal na Pag-unawa: Ang pag-unawa sa Kasulatan ay nangangailangan ng patnubay ng Banal na Espiritu (1 Corinto 2:11–14). Ang pag-aaral na may panalangin ay nagpapalago ng pagpapakumbaba at pagiging bukás sa liwanag ng Diyos. Kaya’t manalangin para sa patnubay ng Banal na Espiritu sa tuwing mag-aaral at magbubulay-bulay ka sa Biblia.
+
+Teksto at Pagsasalin: Dahil ang pagsasalin ay may kasamang interpretasyon, ang pag-aaral ng mga orihinal na wika o paghahambing ng iba’t ibang salin ay makatutulong upang lalong maunawaan ang kahulugan. Para sa masusing pag-aaral, mas mainam ang mga salin na mas malapit sa orihinal na wika ng Biblia.
+
+Historikal na Konteksto: Ang bawat talata ay may historikal at kultural na kalagayan. Ang pag-unawa sa konteksto ng may-akda at ng kanyang mga mambabasa ay nagpapalalim sa interpretasyon. Kapag pinag-aaralan ang isang aklat ng Biblia, sikaping maunawaan ang mga sumusunod: ang may-akda, petsa, mga mambabasa, sitwasyong tinutugunan ng aklat, kultura, politika, at heograpiya. Makakatulong dito ang mga komentaryo at ensiklopedya ng Biblia.
+
+Pampanitikang Konteksto: Ang pagkilala sa uri ng panitikan at sa lugar ng talata sa agaran at mas malawak na konteksto nito ay tumutulong upang matuklasan ang kahulugan. Ang pampanitikang konteksto ay ang mga salitang nasa unahan at kasunod ng isang talata.
+
+“Ang konteksto ng isang pangungusap ay ang talata nito; ang konteksto ng isang talata ay ang mga talatang nauuna at sumusunod dito; at ang konteksto ng isang kabanata ay ang mga kabanatang nakapaligid dito. Sa huli, ang buong aklat kung saan matatagpuan ang isang talata ang siyang kumokontrol na konteksto nito.”—William W. Klein et al., Introduction to Biblical Interpretation, ika-3 ed. (Grand Rapids, MI: Zondervan, 2017), p. 294.
+
+Pagsusuring Gramatikal at Sintaktikal: Ang pag-aaral ng estruktura at kahulugan ng mga salita sa kanilang konteksto ay nagpapakita ng mahahalagang detalye para sa tamang interpretasyon. Kaya’t ang pagsusuri sa gramatika at pag-aaral ng mga salita ay makatutulong sa pag-unawa sa isang talata ng Biblia.
+
+Pagsusuring Teolohikal: Dapat tuklasin ng mga tagapagpaliwanag kung ano ang ipinapahayag ng isang talata tungkol sa Diyos at kung paano ito kaugnay ng mas malawak na mga tema ng teolohiya. Kasama rito ang pagbibigay-kahulugan sa talata ayon sa mas malaking konteksto ng Tipan kung saan ito kabilang, at sa huli, ayon sa buong kanon ng Biblia na binubuo ng 66 aklat. Dapat ding tukuyin ng tagapagpaliwanag kung paano nauugnay ang talata kay Cristo. Ano ang sinasabi nito tungkol sa Kanya?
+
+Praktikal na Aplikasyon: Sa huli, dapat ilapat ang mga prinsipyo ng teksto sa pang-araw-araw na buhay, at tuklasin ang mga walang hanggang katotohanan na gumagabay sa pananampalataya at personal na pamumuhay.
+
+**Para sa Karagdagang Pag-aaral:** Richard M. Davidson, “Biblical Interpretation,” sa Handbook of Seventh-day Adventist Theology, ed. Raoul Dederen (Hagerstown, MD: Review and Herald Publishing Association, 2000), pp. 58–104; at Juan C. Peckham, God With Us: An Introduction to Adventist Theology (Berrien Springs, MI: Andrews University Press; Biblical Research Institute, 2023), pp. 331–342.
+
+**2. Ang mga sulatin ni Ellen G. White ay nangangailangan din ng tamang mga prinsipyo ng pagpapaliwanag.**
+
+Talakayin ang mga sumusunod na panuntunan para sa tamang pagpapaliwanag ng mga sinulat ni Ellen G. White (ang walong panuntunan ay kinuha mula kay Michael W. Campbell at Jud S. Lake, The Pocket Ellen G. White Dictionary (Nampa, Idaho: Pacific Press Publishing Association, 2018), pp. 21–30).
+
+Una, Pag-aralan ang Biblia. Hindi kailanman nilayon ni Ellen G. White na palitan ng kaniyang mga isinulat ang Biblia. Sa halip, binigyang-diin niya na ang Biblia ang pinakamataas na pinagmumulan ng kapahayagan ng Diyos. Inilarawan niya ang kanyang mga sulatin bilang inspiradong aplikasyon ng mga prinsipyong biblikal, tulad ng ginawa ng mga propeta sa Biblia na nagpapaliwanag ng Kasulatan para sa kanilang mga tagapakinig. Kaya’t dapat unahin ng mga mambabasa ang pag-aaral ng Biblia, at basahin ang kanyang mga sulatin ayon sa liwanag ng Kasulatan—hindi ang kabaligtaran..
+
+Pangalawa, tingnan ang lahat na makukuhang impormasyon tungkol sa paksa. Para makuha ang kabuuang pananaw ni Ellen G. White sa isang paksa, kailangan na suriin ang kanyang mga pananalita nang matindi sa halip na umasa sa mga hiwa-hiwalay na sinipi. Ang website ng Ellen G. White Estate (https://egwwritings.org) ay nagbibigay ng isang masasaliksik na database ng kanyang mga sinulat, para hayaan ang mga nagsasaliksik na tuklasin ang kanyang mga sinulat. Gayunman, napakahalaga ng konteksto. Ang mga pahayag ay dapat basahin sa loob ng kanilang pampanitikang kalagayan upang maiwasan ang maling interpretasyon—na siyang magdadala sa atin sa susunod na gabay.
+
+Pangatlo, suriin ang mga salita ayon sa kanilang konteksto sa panitikan. Ang kahulugan ng mga isinulat ni Ellen G. White ay pinakamahusay na nauunawaan sa pamamagitan ng pagsusuri sa mga talata, kabanata, at aklat na nakapaligid sa mga ito. Ang pagkuha ng mga pahayag sa labas ng konteksto ay nagbabaluktot sa kaniyang mensahe, isang bagay na madalas niyang binigyang-babala. “Ang daloy ng kaisipan ni Ellen White, tulad ng sa sinumang organisadong manunulat, ay isang serye ng magkakaugnay na ideya na inayos niya upang maipahayag ang isang konsepto. Ang komunikasyong ito ay may lohikal na daloy kung saan ang isang kaisipan ay likás na humahantong sa susunod. Sa ganitong paraan siya nakipag-usap tulad ng karamihan sa mga tao—sa pamamagitan ng isang serye ng piling mga ideya na magkakaugnay sa isang lohikal na balangkas. Kaya ang bawat pangungusap na kaniyang isinulat ay dapat maunawaan sa liwanag ng iba pang mga ideyang ipinahayag sa konteksto, na siyang daloy ng kaniyang kaisipan.”—Jud Lake, Ellen White Under Fire: Identifying the Mistakes of Her Critics (Nampa, ID: Pacific Press Publishing Association, 2010), p. 182.
+
+Ikaapat, suriin ang mga pahayag ayon sa kanilang historikal na konteksto. Ang mga isinulat ni Ellen G. White ay dapat maunawaan sa loob ng mas malawak na historikal na balangkas ng ikalabinsiyam na siglo, kabilang ang mahahalagang kilusang pampolitika, panlipunan, at panrelihiyon. Ang mga elementong kontekstuwal gaya ng mga digmaan, mga repormang panlipunan, at pag-unlad ng iglesya ay nakaimpluwensiya sa kaniyang mga mensahe. Ang panahon, lugar, at mga kalagayan sa kasaysayan ng Seventh-day Adventist Church ay nagkaroon din ng mahalagang papel sa kaniyang mga payo. Hinimok niya ang mga mambabasa na isaalang-alang ang makasaysayang kalagayan kapag binibigyang-kahulugan ang kaniyang mga pahayag. May ilang biograpikal at makasaysayang sanggunian na tumutulong upang mailagay sa konteksto ang kaniyang gawain, kabilang ang The Ellen G. White Encyclopedia and George Knight’s Ellen White’s World (Hagerstown, MD: Review and Herald Publishing Association, 1998).
+
+Ikalima, tukuyin ang mga pinagbabatayang prinsipyo. Mahalagang makilala ang pagkakaiba sa pagitan ng mga pangkalahatang prinsipyong walang hanggan at ng mga aplikasyon na nakatali sa isang partikular na panahon. Halimbawa, minsang nagpayo si Ellen G. White na ang mga lalaki ay huwag mag-ahit sa araw ng Sabbath, isang payo na may kaugnayan sa panahong ang pag-aahit ay nangangailangan ng mas maraming oras at paggawa. Ang prinsipyong nasa likod ng pahayag na ito—ang pag-iwas sa hindi kinakailangang gawain sa Sabbath—ay nananatiling mahalaga, ngunit maaaring iba na ang partikular na paraan ng pagsasagawa nito sa kasalukuyang panahon. Ang pagtukoy sa mga prinsipyong walang hanggan sa kanyang mga isinulat ay nagbibigay-daan sa makabuluhang aplikasyon ng mga ito sa makabagong konteksto.
+
+Ikaanim, iwasan ang mga labis na interpretasyon. Binibigyang-diin ng mga sulatin ni Ellen G. White ang balanse; gayunman, ipinapakita ng kasaysayan na may ilang nagbigay-kahulugan sa kanyang mga payo sa paraang labis o sukdulan. Halimbawa, ang kanyang payo tungkol sa paglilimita sa pagkain ng itlog ay may kaugnayan sa mga alalahanin sa kalusugan noong kanyang panahon; ngunit may ilang nagbigay-kahulugan dito na para bang ito ay isang pangkalahatang pagbabawal sa lahat ng pagkakataon. Paulit-ulit siyang nagbabala laban sa ganitong mahigpit at legalistikong interpretasyon, sapagkat ang ganitong mga labis na pagtingin ay nagbabaluktot sa kanyang tunay na layunin at maling kumakatawan sa katotohanan.
+
+Ikapito, unawain na ang inspirasyon ay hindi pasalitang idinidikta. Hindi inangkin ni Ellen G. White na ang bawat salita na kanyang isinulat ay idinikta ng Diyos; kaya’t, hindi niya tinanggap ang isipan ng pasalitang-pagdidikta. Sa halip, binigyang-diin niya na ang inspirasyon ay gumagawa sa pamamagitan ng pagpapahayag ng tao, katulad ng paraan ng mga manunulat ng Biblia na naglahad ng mga banal na katotohanan gamit ang kanilang sariling mga salita. Ang isang masyadong mahigpit na pananaw tungkol sa inspirasyon ay madalas magbunga ng maling interpretasyon—maaaring sa pamamagitan ng pagtaas sa kaniyang mga sulatin bilang ganap at di-nagbabagong awtoridad, o sa pamamagitan naman ng paggamit ng mga di-pagkakatugma upang siraan ang kaniyang mga mensahe.
+
+Pangwalo, panatilihin ang isang espirituwal na pananaw. Ang pagpapaliwanag sa mga isinulat ni Ellen G. White ay nangangailangan ng panalangin, pagpapakumbaba, at bukás na isipan. Pinapayuhan ni George R. Knight ang mga mambabasa na hanapin ang patnubay ng Banal na Espiritu at iwasan na hayaang ang personal na mga pagkiling ang magdikta sa interpretasyon. Si Ellen G. White mismo ay nagbabala laban sa mapagdudang saloobin, na nagsasabing ang mga taong nais magduda ay palaging makakahanap ng dahilan upang gawin ito. Ang kaniyang mga sulatin ay hindi dapat gamitin bilang kasangkapan upang hatulan ang iba, kundi bilang personal na gabay para sa espirituwal na paglago.
+
+Sa pagsunod sa walong prinsipyong ito, maaaring basahin ng mga mambabasa ang mga isinulat ni Ellen G. White nang may kalinawan, pag-unawa, at balanse, upang matiyak na ang kanyang mga mensahe ay binibigyang-kahulugan nang naaayon sa Kasulatan at sa tamang konteksto.
+
+**Para sa Paragdagang pag-aaral:** George R. Knight, Reading Ellen White: How to Understand and Apply Her Writings (Hagerstown, MD: Review and Herald Publishing Association, 1997); George R. Knight, Ellen White’s World (Hagerstown, MD: Review and Herald Publishing Association, 1998); Denis Fortin and Jerry Moon, eds., The Ellen G. White Encyclopedia, 2nd ed. (Hagerstown, MD: Review and Herald, 2013).
+
+### Ikatlong Bahagi: Aplikasyon sa Buhay
+
+Ang mga sumusunod na tanong tungkol sa praktikal na aplikasyon sa buhay ay mula sa komentaryo sa itaas at inihanda upang makatulong sa pagpapalalim ng talakayan sa inyong klase. Pumili ng mga tanong mula rito, pati na rin mula sa mga nasa aralin, na sa tingin ninyo ay pinakamakatutulong upang mahikayat ang inyong klase na magbahagi at magnilay.
+
+1. Paano natin masisiguro na ang ating mga paniniwala at gawain ay nakabatay sa Kasulatan at hindi lamang sa tradisyon, katuwiran ng tao, o personal na karanasan? May naiisip ba kayong mga paniniwala na mas nakasalig sa tradisyon kaysa sa malinaw na turo ng Biblia?
+2. Paano nakatutulong ang pag-asa sa kabuuan ng Kasulatan upang maiwasan ang maling pag-unawa at maling paggamit ng mga indibidwal na talata? Ano ang kahulugan ng pahayag na ito: “Ang isang tekstong walang konteksto ay nagiging dahilan ng maling paggamit nito” (“A text without a context is a pretext”)?
+3. Paano lumalalim ang iyong pag-unawa sa isang talata kapag tinitingnan ito ayon sa liwanag ni Cristo at ng buong kanon ng Kasulatan? May naiisip ka bang talata sa Lumang Tipan na nagkakaroon ng mas malinaw o bagong kahulugan kapag tiningnan sa liwanag ng buhay at ministeryo ni Jesus?
+4. Bakit mahalagang pag-aralan ang lahat ng pahayag ni Ellen G. White tungkol sa isang paksa, sa halip na umasa lamang sa iilang sipi o hiwalay na mga pahayag?
+5. Paano nakatutulong ang kaalaman tungkol sa historikal na kalagayan ng panahon ni Ellen G. White upang mas maunawaan ang kahulugan ng kanyang mga mensahe? May maibibigay ka bang halimbawa ng isang pahayag na mas nagiging malinaw kapag naunawaan sa konteksto ng ika-labinsiyam na siglo? Kung oo, ibahagi at ipaliwanag.
+6. Nagbabala si Ellen G. White laban sa maling interpretasyon at labis na aplikasyon ng kanyang mga payo (tingnan ang Ellen G. White, Selected Messages, aklat 1, pp. 43–45; at Selected Messages, book 3, pp. 81–83). May naiisip ka bang halimbawa kung saan ang maling paggamit ng kanyang mga isinulat ay nagdulot ng hindi kinakailangang mga paghihigpit o pabigat sa mga tao? Kung mayroon, ano iyon? Paano tayo makakahanap ng balanse at nakasentro kay Cristo na paraan ng pag-unawa?
