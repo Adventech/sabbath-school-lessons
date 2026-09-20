@@ -1,0 +1,19 @@
+### Dar preroštva
+
+Nevroznanstveniki šele začenjajo razumevati osupljivo sposobnost dojenčkov za učenje jezika. Pri starosti šest mesecev dojenček lahko razume glasove, ki tvorijo besede njegove materinščine. Če je izpostavljen drugemu jeziku, se lahko nauči tudi tega. V tem obdobju se odprejo skrivnostna vrata uma, ki malčku omogočajo razlikovati med približno 40 zvoki, ki običajno tvorijo materni jezik, in približno 800 različnimi zvoki, ki jih zaznajo ob rojstvu. Vendar obstaja en pogoj: z dojenčki je treba govoriti. To bi lahko imenovali »zvočni pouk za novorojenčke«.
+
+Čemu bi nas Bog ustvaril s čudovito sposobnostjo za prepoznavanje govora in učenja jezika, če se nikoli ni nameraval pogovarjati z nami? Vprašanje je seveda retorično, saj Sveto pismo pravi: »Velikokrat in na veliko načinov je Bog nekoč govoril očetom po prerokih, v teh dneh poslednjega časa pa nam je spregovoril po Sinu. Njega je postavil za dediča vsega in po njem je tudi ustvaril svetove.« (Heb 1,1.2)
+
+Ko je greh uničil občestvo, ki sta ga Adam in Eva imela z Bogom, si Bog ni umil rok in padlega para ni prepustil samouničenju. Šel ju je iskat. Adama je vprašal: »Kje si?« (1 Mz 3,9) Prerokoval jima je o rojstvu tistega, ki bo svet rešil greha (1 Mz 3,15). Vse od svojega začetka v Edenu je prerokovanje povzdigovalo Jezusa in grešnika usmerjalo nanj, ki je bil njuno edino upanje.
+
+To tromesečje bomo proučevali o daru preroštva, ki je genialni Božji izum za posredovanje njegove volje in načrtov padlemu človeštvu, ki z njim ni več moglo komunicirati iz oči v oči. Ta posebni dar Svetega Duha je še posebej poudarjen v 1 Kor 12, 1 Kor 14, Ef 4 in Rim 12. Véliki razdeljevalec tega in vseh drugih duhovnih darov je Sveti Duh, »ki deli vsakemu posebej, kakor hoče« (1 Kor 12,11). V zgodovini so duhovno obdarjeni govorniki posredovali božanska sporočila, da bi obnovili naš odnos z Bogom – kakor je naredil Bog v Edenu po človekovem padcu v greh.
+
+V tem tromesečju bomo proučevali o tem, kako Bog pokliče preroke in kako lahko preverimo njihovo avtentičnost. Ogledali si bomo podobnosti in razlike med staro- in novozaveznimi preroki ter spoznali, kako sta v njihovem življenju delovala razodetje in navdihnjenje. Nekateri preroki so govorili, drugi pisali; nekateri so delali oboje. Proučili bomo te in druge načine božanskega diskurza, njihove posledice in blagoslove, ki izvirajo iz poslušnosti sporočilom, ki so jih posredovali preroki.
+
+Bog dar preroštva uporablja za pet ključnih namenov: 1. Za razodetje sebe, svoje resnice in volje padlemu človeštvu. 2. Za vpogled in nasvet glede pomembnih dogodkov. 3. Da bi opremil Kristusovo telo – cerkev – za poslanstvo. 4. Za duhovno spodbudo svojim sledilcem. 5. Da bi prebudil grešnike in jih povabil k spokorjenju. Poleg tega je »duh preroštva« eno od dveh razpoznavnih znamenj Božje cerkve ostanka na koncu časa (Raz 12,17; Raz 19,10).
+
+Bog je tako predan temu, da izgubljene varno pripelje domov, da je dar preroštva zagotovil tudi za zadnje dni (Jl 2,28-31). Adventisti sedmega dne imamo dobre razloge, da verujemo, da je Ellen White, soustanoviteljica naše cerkve, imela preroški dar. Zaradi tega bomo poleg proučevanja daru preroštva v Svetem pismu vsak petek raziskali dinamiko njene poklicanosti v preroško službo. Kot cerkvi nam je bil dan ta čudoviti dar. Kako ga lahko kar najbolje uporabimo?
+
+Da, že od otroštva smo vajeni, da nam nekdo nekaj govori. Kako pomembno je torej, da prisluhnemo temu, kar nam sporočajo Božji preroki!
+
+_Te svetopisemske nauke je napisala ekipa sodelavcev z Ustanove za zapuščino Ellen White v Silver Springu v Marylandu. S širitvijo preroške službe in spisov Ellen White po svetu Ustanova za zapuščino Ellen White podpira poslanstvo Krščanske adventistične cerkve, ki je povzdigniti Jezusa Kristusa in njegovo besedo._
