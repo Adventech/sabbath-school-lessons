@@ -1,0 +1,20 @@
+---
+  title: "Profetoimisen lahja"
+  description: "Neurotieteilijät ovat alkaneet ymmärtää ihmisvauvojen uskomattoman hyvää kykyä oppia kieltä. Kuuden kuukauden ikäinen vauva voi ymmärtää äänteitä minkä tahansa yli 7 000 puhutun kielen sanoista. Jos vauva altistuu kuulemaan toista kieltä, hän voi oppia myös sen. Tänä aikana ihmismieleen aukeaa arvoituksellinen ovi. Vauvat voivat erottaa noin 40 ääntä, joista äidinkieli yleensä koostuu, niistä 800 erilaisesta äänestä, jotka vastasyntynyt pystyy erottamaan. Tälle on kuitenkin olemassa yksi ehto: vauvoille pitää puhua. Voidaan varmaankin sanoa, että kyse on vastasyntyneiden äänenmuodostuksen oppitunneista."
+  human_date: "Lokakuu · Marraskuu · Joulukuu 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: Principal Contributor
+      value: "he Ellen G. White Estate"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Associate Editor
+      value: "Soraya Homayouni"
+    - name: Publication Manager
+      value: "Lea Alexander Greve"
+    - name: Editorial Assistant
+      value: "Sharon Thomas-Crews"
