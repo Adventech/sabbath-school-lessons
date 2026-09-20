@@ -1,0 +1,19 @@
+### Pranašystės dovana
+
+Neuromokslininkai pradėjo suprasti nuostabų kūdikių gebėjimą išmokti kalbą. 6 mėnesių kūdikis gali suprasti garsus, sudarančius angliškus žodžius arba bet kuriuos kitus iš daugiau nei 7000 kalbų. Jei kūdikis girdi kitą kalbą, jis gali išmokti ir pastarąją. Šiuo laikotarpiu atsiveria paslaptingos psichologinės durys, kada kūdikiai atskiria maždaug 40 garsų, paprastai sudarančių gimtąją kalbą, nuo 800 kitų garsų, kuriuos jie gali suvokti gimimo metu. Tačiau yra vienas keblumas – kūdikiams būtina kalbėti. Šį užsiėmimą galima pavadinti balso pamokomis naujagimiams.
+
+Kodėl Dievas sukūrė mus su šiuo nuostabiu gebėjimu atpažinti kalbą ir pastarąją išmokti, jei Jis neketintų su mumis kalbėtis? Žinoma, klausimas retorinis, nes Biblijoje parašyta: „Daugel kartų ir įvairiais būdais praeityje Dievas yra kalbėjęs mūsų protėviams per pranašus, o dabar dienų pabaigoje Jis prabilo į mus per Sūnų, kurį paskyrė visatos paveldėtoju ir per kurį sutvėrė pasaulius“ (Hbr 1, 1–2).
+
+Kai nuodėmė sugriovė Adomo ir Ievos bendrystę su Dievu, Jis nenusisuko ir nepaliko puolusios poros susinaikinimui. Jis atėjo jų ieškoti, klausdamas Adomo: „Kur tu?“ (Pr 3, 9) Jis toliau pranašavo apie To, kuris išgelbės pasaulį nuo nuodėmės, gimimą (Pr 3, 15). Nuo pat pradžių, Edene po nuopuolio, pranašystė išaukštino Jėzų ir nurodė nusidėjėliams Jį, jų vienintelę viltį.
+
+Šį ketvirtį tyrinėsime pranašystės dovaną – išradingą Dievo sumanymą, skirtą Jo valiai ir mokymui perduoti puolusiems žmonėms, kurie nebegali su Juo bendrauti tiesiogiai. Ši ypatinga Šventosios Dvasios dovana yra aiškiai paminėta 1 Korintiečiams 12; 1 Korintiečiams 14, 1; Efeziečiams 4 ir Romiečiams 12. Šventoji Dvasia yra didžioji šios ir visų kitų dvasinių dovanų dalintoja, dalijanti „kiekvienam atskirai, kaip Jai patinka“ (1 Kor 12, 11). Visais amžiais dvasiškai apdovanotieji perdavė dangaus žinias, kad atkurtų ir atnaujintų mūsų santykius su Dievu, kaip Dievas tai darė Edene po nuopuolio.
+
+Tyrinėsime, kaip Dievas pašaukia pranašus ir kaip galime juos išmėginti. Pamatysime Senojo ir Naujojo Testamento pranašų panašumus ir skirtumus, taip pat praktiškai sužinosime, kaip apreiškimas ir įkvėpimas veikia pranašų gyvenime. Vieni pranašai kalbėjo, kiti rašė; kai kurie ir rašė, ir kalbėjo. Ištirsime šiuos ir kitus dangaus kalbėjimo būdus, jų padarinius ir palaiminimus, kuriuos lemia šių pranašų perteikta žinia. Dievas naudoja pranašystės dovaną penkiems esminiams tikslams: 1. Apreikšti save, savo tiesą ir savo valią puolusiai žmonijai. 2. Suteikti įžvalgų ir patarimų, susijusių su svarbiais įvykiais. 3. Aprūpinti Kristaus kūną – Bažnyčią – misijai. 4. Suteikti dvasinį padrąsinimą savo sekėjams. 5. Pažadinti nusidėjėlius ir paraginti juos atgailauti. Be to, „pranašystės dvasia“ yra viena iš dviejų skiriamųjų Dievo likučio paskutiniaisiais laikais savybių (Apr 12, 17; Apr 19, 10).
+
+Dievas taip pasišventęs saugiai parvesti pražuvusiuosius namo, kad pranašystės dovana yra numatyta ir paskutinėms dienoms (Jl 3, 1–4). Septintosios dienos adventistai tiki – ir ne be reikalo – kad viena iš bažnyčios įkūrėjų E. Vait patyrė šiuolaikinę pranašystės dovanos apraišką.
+
+Štai kodėl, kartu su pranašystės dovanos tyrinėjimu Šventajame Rašte, kiekvieną penktadienį gilinsimės į E. Vait pašaukimą pranašiškai tarnystei. Mums kaip Bažnyčiai buvo suteikta ši nuostabi dovana. Kaip geriausiai ją panaudoti?
+
+Taip, nuo kūdikystės esame sukurti, kad mums kalbėtų. Todėl itin svarbu, kad įsiklausytume į tai, ką mums sako Dievo pranašai!
+
+_Šį Biblijos tyrinėjimą parengė E. Vait paveldo skyriaus tarnautojai Silver Spring mieste, Merilando valstijoje. Pristatydami E. Vait pranašišką tarnystę ir dalindamiesi jos raštais visame pasaulyje, šie tarnautojai remia Septintosios dienos adventistų Bažnyčios misiją išaukštinant Jėzų Kristų ir Jo Žodį._
