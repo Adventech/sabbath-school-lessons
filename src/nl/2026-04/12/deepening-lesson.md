@@ -3,7 +3,6 @@ title: Verdieping
 date: 18/12/2026
 ---
 
-
 # Profetische openbaringen voor de eindtijd
 
 ## Handelingen 2:1-21
@@ -49,7 +48,6 @@ Wat betekent dat voor ons?
 **◆ De tijd waarin wij leven (2:17–21)**
 Wat zegt deze tekst over de tijd tussen Pinksteren en Jezus’ terugkomst?
 
-
 ## Ik pas toe
 Petrus spreekt in Handelingen 2 over de eindtijd. Hij gebruikt beelden van tekenen, verandering en Gods ingrijpen (Handelingen 2:17–20). Het is een serieuze en beslissende tijd. Tegelijk laat deze boodschap zien dat wij nu leven tussen Pinksteren en de terugkomst van Jezus.
 
@@ -62,7 +60,6 @@ De heilige Geest maakt die eenheid mogelijk en geeft ieder een taak. In 1 Korint
 Dat brengt het dichtbij: hoe gaan wij om met verschillen in onze gemeente of groep? Welke gaven herken jij bij jezelf, en gebruik je die ook?
 
 Samen geven wij vorm aan Gods werk. 'Wij zijn medewerkers van God...' (1 Korintiërs 3:9). Daarom is de vraag: wat kunnen wij concreet doen om meer één te zijn en samen het evangelie te delen?
-
 
 ### Ik bid ...
 Heer God,

@@ -56,7 +56,6 @@ Sla het beleg voor de stad, werp een belegeringswal op, maak een bestormingsdam,
 `Wat zegt dit beeld over de onontkoombaarheid van Gods oordeel?`
 `En wat laat het zien over de roeping en gehoorzaamheid van de profeet?`
 
-
 # Ik pas toe
 
 `Sommige profetieën zijn voorwaardelijk, andere niet. Geldt dat hier ook? Is deze aankondiging nog voorwaardelijk, of laat Ezechiël 4 zien dat het beleg niet meer afgewend wordt? En hoe past een genadige God in zo'n boodschap van oordeel?`

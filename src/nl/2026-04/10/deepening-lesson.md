@@ -3,7 +3,6 @@ title: Verdieping
 date: 04/12/2026
 ---
 
-
 # Profetische autoriteit en relevantie
 
 ## Exodus 4:1-17
@@ -11,7 +10,6 @@ date: 04/12/2026
 ### IJsbrekervraag
 
 Wanneer voelde jij dat je iets moest doen, maar dacht je: dit is niets voor mij of ik stel het liever uit?
-
 
 ### Ik verken
 
@@ -32,25 +30,20 @@ Daar bouwt hij een rustig leven op als herder, ver weg van zijn verleden.
 Maar op een gewone dag, terwijl hij voor zijn kudde zorgt, spreekt God hem aan.
 Hij krijgt een opdracht die voor hem veel te groot lijkt.
 
-
 ### Ik bestudeer
 
 Mozes krijgt een belangrijke opdracht.
 Hij moet het volk bevrijden uit de onderdrukking in Egypte.
 
-
 #### 1. Waarom denkt Mozes dat mensen hem niet zullen geloven?
 - Heeft dat met zijn verleden te maken?
 - Met zijn positie tussen Israël en Egypte?
 
-
 #### 2. Hoe reageert God op zijn eerste bezwaar? Waarom geeft Hij tekenen?
-
 
 #### 3. Wat zegt Mozes' tweede bezwaar over hem?
 - Is dit alleen praktisch of ook geestelijk?
 - Waar ligt zijn focus?
-
 
 #### 4. Lees de verzen 11-12.
 - Wat zegt God over Mozes' beperking?
@@ -58,17 +51,14 @@ Hij moet het volk bevrijden uit de onderdrukking in Egypte.
 - Wat is het verschil tussen twijfel en weifeling?
 - Wanneer wordt twijfel een probleem?
 
-
 #### 5. Hoe zie je in dit verhaal iets terug van hoe God ook in het Nieuwe Testament werkt?
 *(Zie: Handelingen 1:8; Matteüs 28:20)*
-
 
 #### 6. Welke van Mozes' bezwaren herken jij het meest?
 - Angst voor mensen?
 - Het liever niet willen?
 
 Mozes voelt zich onzeker en ongeschikt, maar God gebruikt hem toch als leider van zijn volk. Niet omdat Mozes alles kan, maar omdat God met hem is.
-
 
 ## Ik pas toe
 
@@ -99,7 +89,6 @@ Mozes laat zien dat we eerlijk mogen zijn tegenover God.
 God roept geen perfecte mensen.
 Hij roept mensen die Hem leren vertrouwen en maakt hen geschikt.
 - Wat is één kleine stap die jij deze week kunt zetten om meer op God te vertrouwen?
-
 
 ## Ik bid ...
 Heer, dank U voor uw grote liefde. U kent onze grenzen en onze angsten. Help ons te zien wat U in ons ziet en ontdek het goede dat U in ons legt.
