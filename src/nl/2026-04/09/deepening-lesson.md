@@ -3,11 +3,9 @@ title: Verdieping
 date: 27/11/2026
 ---
 
-
 # De profeten beproeven
 
 ## Deuteronomium 13:1-5
-
 
 ### IJsbrekervraag
 
@@ -15,21 +13,19 @@ Welke invloeden kunnen jou bij God vandaan trekken?
 
 Wat helpt jou om daartegen sterk te blijven?
 
-
 ### Ik verken
 
-Christenen noemen Deuteronomium vaak de 'herhaling van de wet'. 
-Die naam komt uit het Grieks (Deuteronomion). 
-Het boek zelf is in het Hebreeuws geschreven, in een Hebreeuwse context. 
-Daarom is het goed om het zo te lezen. 
-De Hebreeuwse naam is Devarim ('woorden'), naar het eerste woord van het boek. 
-Het wordt ook 'Mishné Torah' genoemd, wat 'herhaling van de wet' betekent. 
+Christenen noemen Deuteronomium vaak de 'herhaling van de wet'.
+Die naam komt uit het Grieks (Deuteronomion).
+Het boek zelf is in het Hebreeuws geschreven, in een Hebreeuwse context.
+Daarom is het goed om het zo te lezen.
+De Hebreeuwse naam is Devarim ('woorden'), naar het eerste woord van het boek.
+Het wordt ook 'Mishné Torah' genoemd, wat 'herhaling van de wet' betekent.
 Het boek herhaalt wetten en gebeurtenissen uit Exodus, Leviticus en Numeri en past ze toe op een nieuwe generatie.
 
-Volgens de traditie is Mozes de belangrijkste spreker en schrijver. 
-Sommige geleerden denken dat de tekst later is samengesteld of bewerkt. 
+Volgens de traditie is Mozes de belangrijkste spreker en schrijver.
+Sommige geleerden denken dat de tekst later is samengesteld of bewerkt.
 Hoe het ook precies gegaan is, de Bijbel laat zien dat Gods woord zorgvuldig is doorgegeven. Zijn Geest werkte niet alleen in het spreken, maar ook in het bewaren van de tekst.
-
 
 ### Ik bestudeer
 
@@ -39,8 +35,6 @@ Hoe het ook precies gegaan is, de Bijbel laat zien dat Gods woord zorgvuldig is 
 - Daarna gaat het over een profeet of dromer. Hij kan een teken of wonder aankondigen. Soms gebeurt dat zelfs echt, en dat maakt het overtuigend.
 - Maar de vraag is niet alleen: klopt het teken? De belangrijkste vraag is: waar leidt het toe? Leidt het tot trouw aan God, of trekt het ons juist van Hem af?
 - Daar ligt het echte gevaar. Niet in indrukwekkende tekenen, maar in een hart dat zich laat wegtrekken van de HEER.
-
-
 
 ## Ik pas toe
 
@@ -53,7 +47,6 @@ Hoe het ook precies gegaan is, de Bijbel laat zien dat Gods woord zorgvuldig is 
 
 **Deuteronomium 13:5
 Blijf de HEER, uw God (...) dien alleen Hem en blijf Hem toegedaan.**
-
 
 ## Ik bid ...
 Heer, onze Vader, help ons om Uw gezag te erkennen.
