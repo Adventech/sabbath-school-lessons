@@ -1,0 +1,59 @@
+---
+title:  Pandan Guru
+date:   09/10/2026
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+**Ayat Utama:** Yesaya 6:8
+
+**Tumpuan Kajian:** Kej 15:6, Gal. 3:6–9, 1 Raja-raja 18:19–39, Yes. 53:1–12, Dan. 2:44–48, Markus 1:2–5, Mat. 11:1–5.
+
+**Pengenalan**
+
+Panggilan nabi alkitabiah merupakan satu panggilan ilahi di mana Tuhan secara langsung melantik seseorang untuk berfirman bagi pihak-Nya, selalunya melalui pengalaman wahyu seperti penglihatan, mimpi, atau suara yang boleh didengar. Panggilan ini biasanya melibatkan tugasan untuk mengisytiharkan mesej Tuhan, untuk mendepani dosa, dan untuk membimbing umat-Nya, kadangkala dengan kos peribadi yang tinggi, seperti yang dilihat dalam kehidupan para nabi seperti Musa, Yesaya, dan Yeremia. Pelajaran minggu ini memberi tumpuan terhadap panggilan kenabian dalam pelbagai latar belakang sejarah dan bagaimana mesej para nabi secara amnya membincangkan tema penghakiman, keselamatan, dan pemulihan. Perbincangan ini memuncak dalam panggilan Ellen G. White sebagai manifestasi keinginan Tuhan untuk terus berkomunikasi dengan umat-Nya dalam dunia yang berdosa.
+
+### Bahagian II: Ulasan
+
+**1. Tuhan memilih para nabi untuk menjadi jurucakap-Nya.**
+
+Seorang sarjana Perjanjian Lama, Willem A. VanGemeren, berjaya menggambarkan sifat ilahi pada panggilan kenabian dan misinya untuk menyampaikan mesej Tuhan apabila beliau mentakrifkan seorang nabi Perjanjian Lama sebagai “seorang Israel, yang dipanggil oleh Tuhan, dan diberi kuasa oleh Roh[,] yang berkhidmat sebagai jurucakap Tuhan[,] yang telah menerima kuasa dan wahyu daripada Tuhan[,] yang merupakan gembala yang baik atas kawanan Tuhan[,] yang menunjukkan Firman dan misi Tuhan melalui tanda-tanda.”—VanGemeren, Interpreting the Prophetic Word (Grand Rapids, MI: Zondervan, 1990), hlm. 32. Beberapa ciri definisi ini menonjol. Pertama, Tuhan memberi kepada nabi wahyu ilahi, dan Roh memberi kuasa kepada nabi untuk menyampaikan wahyu tersebut. Kedua, nabi berfungsi sebagai gembala atas umat Israel, memelihara, membimbing, menegur, dan membetulkan mereka. Akhirnya, tanda-tanda seperti mukjizat, peristiwa khas, dan pengajaran objek mengesahkan kelayakan ilahi pada seroang nabi.
+
+Panggilan kenabian merupakan saat yang mengubah hidup seroang nabi. Ia tiba secara tidak dijangka, dengan kekuatan dan kuasa, tetapi “tidak dialami sebagai peluang yang telah lama dinanti-nantikan oleh nabi untuk mencapai pengetahuan yang sebaliknya tersembunyi. Dia tidak merebut saat itu, dia dikuasai oleh saat itu. Perkataan yang diungkapkan tidak ditawarkan sebagai sesuatu yang mungkin atau mungkin tidak sesuai dengan budi bicaranya, tetapi didorong dengan kuat dan mendadak ke atasnya.”—Abraham J. Heschel, The Prophets, Bahagian 2 (New York: Harper & Row Publishers, 1962), hlm. 224. “Aku dipenuhi dengan kuasa,” kata Mikha, “dengan Roh TUHAN, dan dengan keadilan dan keperkasaan, untuk menyatakan kepada Yakub pelanggarannya dan kepada Israel dosanya” (Mikha 3:8).
+
+Dalam banyak kitab nubuatan, para penulis menyatakan bahawa "firman TUHAN telah datang" kepada mereka (Hosea 1:1, Yunus 1:1, Yer. 1:11, ESV; lihat juga Yoel 1:1), atau bahawa "tangan TUHAN ada di atas" mereka (Yeh. 1:3, Yeh. 3:22, ESV), dan memperkenalkan atau mengakhiri ramalan mereka dengan berkata "demikianlah firman TUHAN" (Amos 1:3, Obad 1:1, Hag. 1:7; lihat juga Zakharia 12:1, Yes. 7:7). Formula nubuatan yang berulang ini meninggalkan kesan yang jelas bahawa para pelihat tidak ragu-ragu bahawa mereka sedang menyampaikan firman Tuhan. "Firman" atau wahyu nubuatan ini sering membawa mesej penghakiman, seperti yang diisytiharkan oleh Yehezkiel: TUHAN "berfirman kepadaku: 'Hai anak manusia, berdirilah dengan kakimu, dan Aku akan berbicara dengan engkau.' Ketika Dia berbicara kepadaku, Roh itu masuk ke dalamku dan menegakkan aku, dan aku mendengar Dia berbicara kepadaku" (Yeh. 2:1, 2). Kemudian, TUHAN berfirman, "Dan engkau harus menyampaikan firman-Ku kepada mereka, baik mereka mendengar atau tidak, sebab mereka adalah kaum pemberontak" (Yeh. 2:7).
+
+**2. Para nabi menyampaikan pesan Tuhan kepada khalayak dalam situasi sejarah tertentu.**
+
+Para nabi "dipilih oleh Tuhan untuk menerima mesej-Nya dan kemudian mengumumkannya kepada khalayak ramai dalam suatu situasi sejarah tertentu."—Eric J. Tully, Reading the Prophets as Christian Scripture: A Literary, Canonical, and Theological Introduction (Grand Rapids, MI: Baker Academic, 2022), hlm. 58. Contohnya, setiap nabi dalam pelajaran ini mengalami kurniaan kenabian mereka dalam situasi sejarah tertentu.
+
+Seruan Tuhan kepada Abraham (Kej. 12:1) berlaku selepas bahasa dikelirukan, dalam Kejadian 11, apabila paganisme, penyembahan berhala, dan peperangan telah menang. Menariknya, kali pertama istilah nabi muncul dalam Kitab Suci digunakan terhadap Abraham (Kej. 20:7), yang bertindak sebagai pengantara. Elia melayani semasa krisis rohani yang besar di kerajaan Israel utara, semasa pemerintahan raja Ahab dan Ahazia. Elia bergemuruh menentang penyembahan Baal dan menyeru Israel untuk bertaubat. Yesaya bernubuat semasa pemerintahan empat raja Yehuda, pada abad kesembilan S.M., apabila cabaran besar adalah kebangkitan empayar Asyur yang berupa ancaman terbesar terhadap Yehuda pada masa ini. Daniel memainkan peranan penting di dalam kerajaan Babylon dan Persia. Yohanes Pembaptis mengumumkan kedatangan Mesias pada abad pertama. Pada zaman pasca-alkitabiah, Ellen G. White menerima penglihatannya yang pertama di Amerika sebelum perang saudara terjadi dan selepas kekecewaan Millerite.
+
+**3. Pesanan nubuatan terdiri daripada penghakiman, keselamatan, dan pemulihan.**
+
+Pesanan nubuatan dalam Perjanjian Lama sering berkisar tentang tiga tema utama: penghakiman, keselamatan, dan pemulihan. Tema-tema ini saling berkaitan dan membentuk teras pelayanan para nabi, yang menangani hubungan perjanjian antara Tuhan dan umat-Nya. Para nabi secara konsisten memanggil Israel dan Yehuda kembali kepada kewajipan mereka terhadap perjanjian mereka itu dengan Tuhan, memberi amaran kepada mereka tentang akibat pemberontakan, penyembahan berhala, dan ketidakadilan sosial mereka. Penghakiman digambarkan sebagai tindak balas ilahi terhadap pelanggaran perjanjian itu (Ulangan 28). Disebalik amaran yang disampaikan, para nabi menawarkan harapan, menunjukkan kesediaan Tuhan untuk menyelamatkan umat sisa-Nya yang akan bertaubat. Keselamatan sering melibatkan campur tangan Tuhan untuk menyelamatkan umat-Nya daripada musuh mereka atau daripada keadaan yang mengerikan. Pemulihan melibatkan kepulangan orang buangan ke tanah air mereka, pembangunan semula Yerusalem dan bait suci, dan pembaharuan rohani dalam hubungan umat dengan Tuhan, yang akhirnya memuncak dengan kedatangan Mesias.
+
+**4. Penglihatan sulung Ellen G. White adalah permulaan panggilan nubuatannya dan membawa harapan dan galakan kepada orang percaya yang keliru selepas kekecewaan itu.**
+
+Pada bulan Disember 1844, Ellen G. White menerima penglihatannya yang pertama dalam konteks sejarah kekecewaan Millerite. Ia merupakan masa peralihan apabila pengikut William Miller berada dalam kekecewaan dan kekacauan. Ellen muncul di tempat kejadian dengan mesej harapan dan galakan. Semasa berdoa bersama sekumpulan wanita pengikut Millerite yang kecewa, dia merasa dikelilingi oleh cahaya. Dalam fikirannya, terungkap satu babak di mana dia melihat "orang Advent" mengembara di jalan sempit menuju syurga, dengan cahaya yang besar di belakang mereka dan Yesus di hadapan mereka. Jika mereka terus memandang Yesus, mereka akan kekal di jalan itu, maju ke hadapan. Apabila sesetengah orang mengalihkan pandangan mereka daripada Yesus, mereka akan jatuh dari jalan itu ke dunia gelap yang di bawah (lihat Ellen G. White, Early Writings, ms. 13–15). Penglihatan itu mengejutkannya dan merupakan satu kuasa yang tidak dapat dikawalnya. Seperti para nabi alkitabiah sebelum dia, dia "terpesona oleh kejadian itu."
+
+Beberapa tema muncul daripada penglihatan pertama ini, yang merupakan asas terhadap pelayanan kenabian Ellen pada masa hadapan. Pertama, ia menunjukkan semangat sepanjang hayatnya untuk kedatangan Yesus yang kedua kali. Kedua, para pengikut Seventh-day Adventist tidak seharusnya melupakan tempat mereka dalam sejarah kenabian. Ketiga, semua orang Kristian, terutamanya penganut Advent, mesti menumpukan hidup mereka kepada Yesus sebagai Tuhan dan Penyelamat (lihat George Knight, A Brief History of Seventh-day Adventists, edisi ke-2 [Hagerstown, MD: Review and Herald, 2004], ms. 35, 36).
+
+Ellen menggelarnya sebagai "penglihatannya yang pertama," kerana pengangkutan syurgawinya menjadi pengalaman yang berulang. Oleh itu, identiti kenabiannya terbentuk di sekitar frasa yang sering digunakan, "Tuhan telah menunjukkan kepadaku," "Aku melihat," atau "Aku dibawa pergi dalam penglihatan," yang menyampaikan kesedaran diri dan kewibawaan kenabiannya. Wahyu penglihatannya ini membawa keselesaan dan penghiburan kepada kumpulan penganut setia yang bertaburan dan tertekan yang telah melalui pengalaman Millerite. Dia dipanggil untuk mengembara dan berkongsi penglihatannya dengan pelbagai kumpulan Millerite yang tersebar di seluruh Maine dan, kemudian, di bahagian lain di New England. Akhirnya, dia meletakkan wahyu-wahyu ini, dan banyak lagi yang akan datang, secara bertulis untuk diedarkan di kalangan para pengikut yang sedang membangun yang akhirnya akan menjadi anggota Seventh-day Adventist.
+
+**Untuk Kajian Lanjut:** Lihat Zoltán Szalos-Farkas, The Rise and Development of Seventh-day Adventist Spirituality: The Impact of the Charismatic Guidance of Ellen G. White. Doctoral Dissertation Series (Cernica, Romania: Editura Institutului Teologic Adventist, 2005), vol. 1, hlm. 56–61.
+
+### Bahagian III: Penerapan
+
+Soalan-soalan Penerapan Hidup berikut, yang diambil daripada ulasan di atas, diberikan untuk memperkayakan perbincangan di dalam kelas anda. Pilih mana-mana di antara soalan-soalan tersebut, dan daripada soalan-soalan dalam pelajaran, soalan-soalan yang paling sesuai untuk melibatkan kelas anda dalam refleksi yang bermakna.
+
+1. Para nabi tidak mencari panggilan mereka tetapi terpengaruh olehnya. Bagaimanakah anda membayangkan perasaan para nabi semasa pengalaman ini? Bagaimanakah ini mencabar perspektif kita tentang panggilan Tuhan dalam kehidupan kita sendiri?
+2. Pesanan setiap nabi dibentuk oleh cabaran sejarah pada zamannya. Bagaimanakah dengan memahami konteks sejarah nubuatan alkitabiah boleh membantu kita menerapkan pengajarannya pada hari ini?
+3. Para nabi memberi amaran bahawa melanggar perjanjian akan membawa kepada penghakiman (Ulangan 28). Bagaimanakah prinsip ini terpakai terhadap kesetiaan peribadi dan komuniti hari ini?
+4. Walaupun terdapat pesanan penghakiman terhadap mereka, para nabi sentiasa menunjuk pada harapan dan keselamatan. Bagaimanakah kita boleh berpegang pada harapan semasa mengalami percubaan dan rasa bersalah secara peribadi?
+5. Bagaimanakah kita boleh menjadi utusan keadilan dan belas kasihan Tuhan dalam dunia yang bergelut dengan kedua-duanya keadaan yang ekstrem?
+6. Penglihatan pertama Ellen G. White menekankan untuk terus memandang pada Yesus. Bagaimanakah kita dapat terus fokus secara rohani kepada Kristus di tengah-tengah gangguan hidup?
+7. Salah satu tema utama visinya ialah kepentingan dalam mengingati tempat kita di dalam sejarah kenabian. Bagaimanakah pemahaman tentang di mana kita berada dalam rancangan Tuhan akan membentuk cara kita hidup hari ini?
+8. Pelayanan kenabian Ellen G. White berterusan sepanjang hayatnya. Bagaimanakah kita dapat membezakan dan bertindak balas terhadap bimbingan Tuhan yang berterusan dalam perjalanan rohani peribadi kita?
+9. Bagaimanakah dengan mengetahui bahawa Tuhan menggunakan orang biasa untuk tujuan yang luar biasa akan mendorongkan iman anda?
+10. Bagaimanakah kita dapat mengimbangi tema penghakiman, keselamatan, dan pemulihan dalam berkongsi injil dengan orang lain?

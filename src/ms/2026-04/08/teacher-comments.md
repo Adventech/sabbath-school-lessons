@@ -1,0 +1,77 @@
+---
+title:  Pandan Guru
+date:   20/11/2026
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+**Ayat Utama:** Lukas 24:27
+
+**Tumpuan Kajian:** Mat. 5:17–48; 1 Kor. 16:20; Mat. 4:1–11; Lukas 10:25–28; Lukas 24:25–27, 44–49.
+
+**Pengenalan**
+
+Mentafsir Kitab Suci dan tulisan Ellen G. White memerlukan perhatian yang teliti terhadap konteks, tujuan penulisan, serta bimbingan Roh Suci. Dalam Lukas 24:27 (ESV), perkataan Yunani diermēneuō bermaksud menjelaskan, mentafsir atau menghuraikan, sebagaimana yang dilakukan oleh Yesus ketika Dia menerangkan Kitab Suci kepada dua orang murid semasa dalam perjalanan ke Emaus. Maksud ini menekankan pentingnya memahami dan menyampaikan mesej Tuhan dengan tepat, tanpa memaksakan andaian atau pendapat peribadi ke dalamnya. Begitu juga, mentafsir tulisan-tulisan Ellen G. White memerlukan kita meneliti kata-katanya dalam konteks sejarah dan kesusasteraannya, sambil memastikan tafsirannya selaras dengan asas Alkitab yang sentiasa dipegang olehnya. Oleh itu, pelajaran ini bergerak secara teratur daripada prinsip-prinsip mentafsir Kitab Suci kepada prinsip-prinsip mentafsir tulisan-tulisan Ellen G. White.
+
+### Bahagian II: Ulasan
+
+**1. Pemahaman yang Betul terhadap Alkitab Memerlukan Prinsip Tafsiran yang Betul**
+
+Sepuluh prinsip berikut membantu menjelaskan cara mentafsir Kitab Suci dengan betul supaya kita dapat mendengar suara Tuhan melalui firman-Nya. (Sepuluh prinsip ini diambil daripada Richard M. Davidson, “Interpreting Scripture: An Hermeneutical ‘Decalogue,’” Journal of the Adventist Theological Society 4, no. 2 [1993], hlm. 95–114.)
+
+**Alkitab Sahaja:** Alkitab ialah autoriti tertinggi dalam hal iman dan amalan (2 Tim. 3:16). Semua doktrin dan kepercayaan hendaklah diuji berdasarkan Kitab Suci, yang mempunyai kuasa mengatasi tradisi, akal dan pengalaman. Walaupun terdapat penyataan umum melalui alam semula jadi dan penyataan melalui para nabi, Alkitab tetap menjadi piawaian yang terakhir. Prinsip ini membantu kita mengelakkan tafsiran yang bersifat terasing serta kebergantungan yang berlebihan terhadap pengakuan iman atau kepercayaan.
+
+**Keseluruhan Kitab Suci:** Seluruh Kitab Suci hendaklah menjadi asas terhadfap iman, bukan hanya beberapa petikan tertentu. Salah tafsir sering berlaku apabila sesuatu ayat diambil di luar konteksnya, seperti yang dilakukan oleh Iblis ketika sengaja memutarbelitkan Kitab Suci semasa mencobai Yesus (Mat. 4:6). Oleh itu, orang percaya perlu mempertimbangkan keseluruhan ajaran Alkitab supaya tidak berlaku penyelewengan terhadap maksud firman Tuhan.
+
+**Analogi (Keselarasan) Kitab Suci:** Kitab Suci mempunyai keselarasan dalaman dan hendaklah menjadi asas bagi pentafsirannya sendiri. Dengan kata lain, Kitab Suci mentafsir Kitab Suci (Yes. 8:20). Pembaca perlu membenarkan Kitab Suci membetulkan prasangka atau kecenderungan peribadi mereka dengan sentiasa membandingkan setiap petikan dengan keseluruhan mesej Alkitab.
+
+**Kepekaan Rohani:** Memahami Kitab Suci memerlukan bimbingan Roh Suci (1 Kor. 2:11–14). Pengkajian yang disertai doa akan memupuk kerendahan hati dan membuka hati terhadap penyataan ilahi. Oleh itu, setiap kali kita mengkaji dan merenungkan Alkitab, kita hendaklah berdoa memohon bimbingan Roh Suci.
+
+**Teks dan Terjemahan:** Oleh sebab setiap terjemahan melibatkan proses pentafsiran, mempelajari bahasa asal Alkitab atau membandingkan beberapa terjemahan dapat membantu memperdalam pemahaman kita. Untuk pengkajian yang teliti, terjemahan yang lebih hampir terhadap bahasa asal Alkitab adalah lebih sesuai digunakan.
+
+**Konteks Sejarah:** Setiap petikan Alkitab mempunyai latar belakang sejarah dan budaya. Memahami keadaan penulis serta pembaca asal akan memperkayakan pentafsiran kita. Apabila mengkaji sesebuah kitab dalam Alkitab, usahakan untuk memahami latar belakang seperti penulisnya, tarikh penulisannya, pembaca asal, keadaan yang mendorong penulisan kitab tersebut, budaya, politik dan geografinya. Ulasan Alkitab dan ensiklopedia Alkitab dapat membantu dalam semua aspek ini.
+
+**Konteks Kesusasteraan:** Memahami jenis penulisan serta kedudukan sesuatu petikan dalam konteks terdekat dan konteks yang lebih luas membantu kita menemukan maksudnya. Konteks kesusasteraan merujuk pada perkataan atau ayat yang muncul sebelum dan selepas sesuatu petikan. “Konteks bagi satu ayat ialah perenggannya; konteks bagi satu perenggan ialah rangkaian perenggan sebelum dan selepasnya; dan konteks bagi satu bab ialah bab-bab di sekelilingnya. Akhirnya, keseluruhan kitab di mana sesuatu ayat itu berada merupakan konteks yang paling menentukan maksudnya.” — William W. Klein et al., Introduction to Biblical Interpretation, 3rd ed. (Grand Rapids, MI: Zondervan, 2017), hlm. 294.
+
+**Analisis Tatabahasa dan Sintaksis:** Mengkaji struktur ayat serta makna perkataan dalam konteksnya akan membantu kita memahami perincian yang penting untuk mendapatkan pentafsiran yang tepat. Oleh itu, analisis tatabahasa dan kajian perkataan merupakan alat yang berguna dalam memahami sesuatu petikan Alkitab.
+
+**Analisis Teologi:** Pentafsir hendaklah menyelidiki apakah yang dinyatakan oleh sesuatu petikan tentang Tuhan serta bagaimana petikan itu berkaitan dengan tema-tema teologi yang lebih luas. Analisis teologi melibatkan pentafsiran sesuatu petikan dalam konteks kesusasteraan yang lebih besar di dalam kitab Perjanjian di mana petikan itu berada, dan akhirnya shubungan dengan keseluruhan kanun Alkitab yang terdiri daripada 66 buah kitab. Pentafsir juga perlu menentukan hubungan petikan tersebut dengan Kristus. Apakah yang dinyatakan oleh petikan itu tentang Dia?
+
+**Penerapan Praktikal:** Akhir sekali, prinsip-prinsip yang terkandung dalam sesuatu petikan hendaklah diterapkan dalam kehidupan seharian. Pentafsir perlu mengenal pasti kebenaran yang bersifat kekal, yang dapat membimbing iman dan tingkah laku setiap orang percaya.
+
+**Cadangan Kajian Seterusnya:** Richard M. Davidson, “Biblical Interpretation,” dalam Handbook of Seventh-day Adventist Theology, disunting oleh Raoul Dederen (Hagerstown, MD: Review and Herald Publishing Association, 2000), hlm. 58–104; dan John C. Peckham, God With Us: An Introduction to Adventist Theology (Berrien Springs, MI: Andrews University Press; Biblical Research Institute, 2023), hlm. 331–342.
+
+**2. Tulisan Ellen G. White Juga Memerlukan Prinsip Tafsiran yang Betul**
+
+Bincangkan lapan garis panduan berikut untuk mentafsir tulisan Ellen G. White dengan betul. (Lapan garis panduan ini diambil daripada Michael W. Campbell dan Jud S. Lake, The Pocket Ellen G. White Dictionary [Nampa, Idaho: Pacific Press Publishing Association, 2018], hlm. 21–30.)
+
+**Pertama, kaji Alkitab.** Ellen G. White tidak pernah bermaksud supaya tulisannya menggantikan Alkitab. Sebaliknya, dia sentiasa menegaskan bahawa Alkitab ialah sumber utama penyataan Tuhan. Dia menggambarkan tulisannya sebagai penerapan prinsip Alkitab yang diinspirasikan, sama seperti para nabi Alkitab yang mentafsirkan Kitab Suci kepada para pendengar mereka. Oleh itu, pembaca hendaklah mengutamakan pengkajian Alkitab terlebih dahulu, kemudian membaca tulisan Ellen G. White sehubungan dengan terang Alkitab, dan bukan sebaliknya.
+
+**Kedua, perhatikan semua maklumat yang berkaitan dengan sesuatu topik.** Untuk memahami pandangan Ellen G. White secara menyeluruh tentang sesuatu perkara, seseorang perlu meneliti semua kenyataannya mengenai topik tersebut, dan bukan bergantung pada beberapa petikan yang dipilih secara berasingan. Laman web Ellen G. White Estate ([https://egwwritings.org](https://egwwritings.org)) menyediakan pangkalan data yang boleh dicari untuk mengakses tulisannya, sekali gus membantu para penyelidik mengkaji keseluruhan ajarannya. Walau bagaimanapun, konteks tetap amat penting. Setiap kenyataan hendaklah dibaca dalam konteks kesusasteraannya bagi mengelakkan salah tafsir. Perkara ini membawa kita kepada garis panduan yang seterusnya.
+
+**Ketiga, sila teliti setiap kenyataan dalam konteks kesusasteraannya.** Maksud sesuatu kenyataan Ellen G. White paling baik difahami dengan meneliti perenggan, bab dan buku yang disekitarnya. Mengambil sesuatu kenyataan di luar konteks akan memesongkan mesej yang ingin disampaikannya, iaitu satu perkara yang sering dia tegur. Dia memberi amaran agar seseorang tidak mengasingkan sesuatu ayat semata-mata untuk menyokong pendapat peribadi, tanpa mempertimbangkan keseluruhan ajarannya. “Arus pemikiran Ellen White, seperti mana-mana penulis yang tersusun, terdiri daripada rangkaian idea yang saling berkaitan dan disusun untuk menyampaikan sesuatu konsep tertentu. Penyampaian ini melibatkan aliran logik, di mana satu pemikiran membawa secara semula jadi kepada pemikiran yang berikutnya. Dengan cara ini dia berkomunikasi sebagaimana kebanyakan orang berkomunikasi, iaitu melalui satu siri idea yang dipilih dan dihubungkan dalam satu pola yang logik. Oleh itu, setiap ayat yang ditulisnya mesti difahami berdasarkan idea-idea lain yang dinyatakan dalam konteks tersebut, iaitu aliran pemikirannya.” — Jud Lake, Ellen White Under Fire: Identifying the Mistakes of Her Critics (Nampa, ID: Pacific Press Publishing Association, 2010), hlm. 182.
+
+**Keempat, sila buat analisis pada setiap kenyataan dalam konteks sejarahnya.** Tulisan Ellen G. White perlu difahami dalam rangka sejarah abad kesembilan belas, termasuk perkembangan politik, sosial dan agama yang berlaku pada masa itu. Unsur-unsur seperti peperangan, pembaharuan sosial dan perkembangan gereja telah mempengaruhi mesejnya. Masa, tempat dan keadaan dalam sejarah Seventh-day Adventist juga memainkan peranan penting dalam nasihat yang diberikannya. Beliau sendiri menggalakkan pembaca supaya mengambil kira latar belakang sejarah ketika mentafsirkan kenyataannya. Beberapa sumber biografi dan sejarah yang membantu memahami konteks ini termasuk The Ellen G. White Encyclopedia dan George Knight, Ellen White’s World (Hagerstown, MD: Review and Herald Publishing Association, 1998).
+
+**Kelima, sila kenal pasti prinsip-prinsip yang mendasarinya.** Adalah penting untuk membezakan antara prinsip yang bersifat sejagat dengan penerapan yang terikat kepada masa tertentu. Sebagai contoh, Ellen G. White pernah menasihati agar kaum lelaki tidak bercukur pada hari Sabat. Nasihat itu berkaitan dengan keadaan pada zamannya apabila bercukur memerlukan banyak kerja. Prinsip di sebalik nasihat tersebut ialah mengelakkan pekerjaan yang tidak perlu pada hari Sabat. Prinsip itu tetap relevan, walaupun cara penerapannya mungkin berbeza pada masa kini. Dengan mengenal pasti prinsip-prinsip yang kekal dalam tulisan-tulisannya, kita dapat menerapkannya secara bermakna dalam kehidupan masa kini.
+
+**Keenam, elakkan tafsiran yang melampau.** Tulisan Ellen G. White sentiasa menekankan keseimbangan. Namun, sejarah menunjukkan bahawa sebahagian orang telah menerapkan nasihatnya secara melampau. Sebagai contoh, nasihat beliau supaya mengehadkan pengambilan telur diberikan berdasarkan keadaan kesihatan pada waktu itu, tetapi ada yang mentafsirkannya sebagai larangan mutlak untuk semua orang pada setiap masa. Ellen G. White berulang kali memberi amaran terhadap tafsiran yang terlalu kaku dan bersifat legalistik kerana pendekatan sedemikian memesongkan maksud sebenar pada mesejnya serta memberikan gambaran yang salah terhadap kebenaran.
+
+**Ketujuh, sila fahami bahawa inspirasi bukanlah imlak secara kata demi kata.** Ellen G. White tidak pernah mendakwa bahawa setiap perkataan yang digunakannya dalam penulisannya ditentukan oleh Tuhan. Oleh itu, dia menolak konsep inspirasi secara imlak kata demi kata. Sebaliknya, dia menjelaskan bahawa inspirasi bekerja melalui ungkapan manusia, sama seperti para penulis Alkitab yang menyampaikan kebenaran ilahi menggunakan bahasa dan gaya penulisan mereka sendiri. Pandangan yang terlalu kaku tentang inspirasi sering membawa terhadap salah tafsir, sama ada dengan meninggikan tulisannya sebagai autoriti mutlak yang tidak boleh difahami dalam konteksnya, ataupun menggunakan perbezaan tertentu untuk menolak mesejnya.
+
+**Kelapan, kekalkan sikap rohani.** Mentafsir tulisan Ellen G. White memerlukan doa, kerendahan hati dan fikiran yang terbuka. George R. Knight menasihati para pembaca supaya sentiasa memohon bimbingan Roh Suci dan tidak membiarkan prasangka peribadi menguasai pentafsiran mereka. Ellen G. White sendiri memberi amaran terhadap sikap yang suka meragui. Dia menyatakan bahawa mereka yang memang ingin meragui akan sentiasa mencari alasan untuk terus meragui. Tulisan-tulisannya tidak sepatutnya digunakan sebagai alat untuk menghakimi orang lain, tetapi sebagai panduan peribadi bagi pertumbuhan rohani.
+
+Dengan mengikuti lapan prinsip ini, maka para pembaca dapat mendekati tulisan Ellen G. White dengan lebih jelas, lebih memahami maksudnya dan mengekalkan keseimbangan dalam pentafsiran. Dengan demikian, mesejnya akan dapat difahami secara selaras dengan Alkitab serta konteks asal penulisannya.
+
+**Cadangan Kajian Seterusnya:** George R. Knight, Reading Ellen White: How to Understand and Apply Her Writings (Hagerstown, MD: Review and Herald Publishing Association, 1997); George R. Knight, Ellen White’s World (Hagerstown, MD: Review and Herald Publishing Association, 1998); Denis Fortin dan Jerry Moon, penyunting, The Ellen G. White Encyclopedia, edisi ke-2 (Hagerstown, MD: Review and Herald Publishing Association, 2013).
+
+### Bahagian III: Penerapan
+
+Soalan penerapan hidup berikut, yang diambil daripada ulasan di atas, disediakan untuk memperkayakan perbincangan dalam kelas anda. Sila pilih soalan-soalan yang paling sesuai, sama ada daripada senarai di bawah atau daripada pelajaran ini, bagi menggalakkan perbincangan yang bermakna dan mendalam.
+
+1. Bagaimanakah kita dapat memastikan bahawa kepercayaan dan amalan kita berasaskan Kitab Suci, bukannya tradisi, akal atau pengalaman peribadi? Bolehkah anda memikirkan beberapa kepercayaan yang diamalkan secara meluas tetapi lebih bergantung kepada tradisi daripada ajaran Alkitab?
+2. Bagaimanakah bergantung pada “keseluruhan Kitab Suci” dapat melindungi kita daripada salah memahami dan salah menerapkan sesuatu petikan Alkitab? Apakah maksud pernyataan berikut: “Sesuatu petikan tanpa konteks hanyalah alasan untuk menyokong tafsiran yang salah”?
+3. Bagaimanakah melihat sesuatu ayat sehubungan dengan Kristus dan keseluruhan kanun Kitab Suci dapat memperdalam pemahaman anda? Bolehkah anda memikirkan satu petikan dalam Perjanjian Lama yang memperoleh makna yang lebih mendalam apabila dilihat melalui kehidupan dan pelayanan Yesus?
+4. Mengapakah penting untuk mengkaji semua kenyataan Ellen G. White mengenai sesuatu topik dan bukannya bergantung kepada suatu petikan yang diambil secara berasingan?
+5. Bagaimanakah dengan memahami latar belakang sejarah pada zaman Ellen G. White dapat membantu menjelaskan maksud pada mesejnya? Bolehkah anda mengenal pasti satu kenyataan yang lebih mudah difahami apabila dilihat dalam konteks abad kesembilan belas? Jika ya, kongsikan dan jelaskan.
+6. Ellen G. White memberi amaran terhadap salah tafsir dan penerapan nasihatnya secara melampau (lihat Ellen G. White, Selected Messages, Book 1, hlm. 43–45; dan Selected Messages, Book 3, hlm. 81–83). Bolehkah anda memikirkan satu keadaan apabila salah penerapan terhadap tulisannya telah membawa kepada sekatan atau beban yang tidak semestnya berlaku? Jika ya, apakah contohnya? Bagaimanakah kita dapat menemukan pendekatan yang seimbang dan berpusatkan pada Kristus?
