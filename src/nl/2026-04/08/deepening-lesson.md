@@ -3,7 +3,6 @@ title: Verdieping
 date: 20/11/2026
 ---
 
-
 # Profetische geschriften interpreteren
 
 ## Matteüs 5:17-26
@@ -12,11 +11,9 @@ date: 20/11/2026
 
 Wanneer heb je ontdekt dat een 'klein' woord of gebaar een conflict erger maakte, óf juist de weg naar verzoening opende?
 
-
 ### Ik verken
 
 Matteüs 5:17-26 is een sleutelgedeelte voor het begrijpen van Jezus' houding ten opzichte van de wet en de profeten. Hij spreekt niet over afschaffing, maar over vervulling. Daarmee laat Hij zien dat de Schrift één geheel vormt dat naar Hem wijst (vergelijk met Lucas 24:27). Deze woorden staan aan het begin van de Bergrede (Matteüs 5-7) en bepalen de toon van wat volgt. Jezus verdiept de wet en richt zich niet alleen op het uiterlijke gedrag, maar vooral op het hart. Zijn verwijzingen naar de tempel, de rechtbank en het Sanhedrin plaatsen zijn oproep tot verzoening in een concrete, historische context. Deze passage nodigt uit tot een zorgvuldige lezing, waarin duidelijk wordt dat ware gerechtigheid begint in het innerlijk van de mens.
-
 
 ### Ik bestudeer
 
@@ -44,8 +41,6 @@ Zijn woorden staan dus midden in de religieuze en sociale werkelijkheid van zijn
 
 `Jezus introduceert geen nieuwe leer, maar laat de diepere bedoeling van de geboden zien. Hoe zie je dat terug in deze tekst?`
 
-
-
 ## Ik pas toe
 
 Deze tekst nodigt uit om stil te staan bij je eigen houding.
@@ -68,7 +63,6 @@ De vorm verandert, maar de betekenis blijft: elkaar met liefde ontvangen.
 Tot slot gaat het er niet alleen om dat je deze boodschap begrijpt, maar ook dat je haar toepast.
 
 `Welke concrete stap kun jij deze week zetten richting verzoening, eerlijke communicatie of een liefdevolle houding in je omgeving?`
-
 
 ### Ik bid ...
 Heer Jezus, U hebt de Wet en de Profeten vervuld.

@@ -3,7 +3,6 @@ title: Verdieping
 date: 25/12/2026
 ---
 
-
 # Zegeningen uit het profetische woord
 
 **Jesaja 40:1-11**
@@ -21,7 +20,6 @@ Hij begint niet met verwijten, maar met troost.
 Hij zegt dat de tijd van straf voorbij is en dat Hij herstel zal geven.
 Hij ontkent het verleden niet, maar opent een nieuwe toekomst.
 Een toekomst die rust op zijn genade en trouw.
-
 
 # Ik bestudeer
 Lees Jesaja 40:1-11 aandachtig.
@@ -43,7 +41,6 @@ Lees Jesaja 40:1-11 aandachtig.
 
 **Let op de lijn:** God troost, roept tot verandering, wijst op wat blijft en komt zelf dichtbij. Deze woorden wijzen vooruit naar Jezus, die een nieuwe weg opent voor iedereen.
 
-
 ## Ik pas toe
 * Deze tekst nodigt ons uit om na te denken over onze relatie met God. Welke gevoelens
 van angst, ontmoediging of schuld vind jij moeilijk om bij God te brengen?
@@ -56,10 +53,8 @@ vertrouwen op Gods blijvende woord?
 * God is als een herder: Hij leidt, beschermt en kent ons (Psalm 23; Johannes 10:11). Wat
 betekent het voor jou dat God jouw herder is?
 
-
 **Laat elke vallei verhoogd worden en elke berg en heuvel verlaagd,laat ruig land vlak worden en rotsige hellingen rustige dalen.
 Jesaja 40:4**
-
 
 ## Ik bid ...
 Heer, uw woord blijft, ook als alles verandert. Help mij om naar U te luisteren, op U te vertrouwen en uw weg te volgen. U wilt het goede voor mijn leven. Daarom richt ik mijn ogen op uw beloften. Amen.
