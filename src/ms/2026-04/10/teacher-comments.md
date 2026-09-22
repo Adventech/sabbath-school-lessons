@@ -1,0 +1,70 @@
+---
+title:  Pandan Guru
+date:   04/12/2026
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+**Ayat Utama:** Ibrani 4:12
+
+**Tumpuan Kajian:** Kel. 4:10–16, Luk. 8:22–25, Yoh. 3:1–10, Kisah 16:25–34, 1 Kor. 5:1–5, Luk. 7:28.
+
+**Pengenalan**
+
+Autoriti nubuat dalam Alkitab berasaskan penyataan langsung daripada Tuhan, dan para nabi dalam Alkitab berperanan sebagai utusan-Nya untuk menyampaikan kehendak-Nya. Ibrani 4:12 menegaskan kuasa dan kata muktamad Alkitab dengan menyatakan bahawa “Sebab firman Tuhan hidup dan kuat dan lebih tajam dari pada pedang bermata dua manapun,” (ATB) sehingga mampu menembusi hati serta menghakimi fikiran dan niat manusia. Ayat ini menekankan bahawa kanon Alkitab mempunyai kedudukan yang unik dan berkuasa sebagai penyataan Tuhan yang muktamad, yang menjadi panduan bagi iman dan ajaran untuk semua generasi.
+
+Peranan kenabian Ellen G. White perlu difahami berdasarkan autoriti muktamad Alkitab ini. Sebagai tulisan selepas kanon Alkitab, tulisan beliau tidak menambah atau menggantikan Alkitab, tetapi membantu menjelaskan serta menerapkan prinsip-prinsip Alkitab dalam kehidupan. Seperti nabi-nabi bukan kanonik yang lain sepanjang sejarah, peranan beliau adalah untuk menasihati, menguatkan, dan membimbing gereja, sambil sentiasa mengarahkan umat Tuhan kembali kepada autoriti tertinggi Alkitab. Pelajaran yang sangat penting ini akan membantu para pelajar memahami dengan lebih jelas hubungan yang sebenar antara tulisan Ellen G. White dengan autoriti muktamad Alkitab.
+
+### Bahagian II: Ulasan
+
+**1. Kanon Alkitab ialah kumpulan kitab (Kejadian hingga Wahyu) yang diilhamkan oleh Tuhan dan oleh itu mempunyai autoriti serta menjadi standard bagi iman Kristian.**
+
+Kanon Alkitab terdiri daripada 66 buah kitab yang ditulis oleh sekurang-kurangnya empat puluh orang penulis dalam tempoh kira-kira seribu lima ratus tahun. Istilah kanon berasal daripada perkataan Ibrani qaneh dan perkataan Yunani kanon, yang bermaksud “batang pengukur.” Lama-kelamaan, istilah ini membawa maksud peraturan atau standardan, dan akhirnya digunakan untuk merujuk kepada Kitab Suci Kristian sebagai ukuran yang digunakan untuk menilai semua tulisan keagamaan yang lain. Kanon Alkitab merujuk kepada kumpulan kitab, dari Kejadian hingga Wahyu, yang diilhamkan oleh Tuhan, mempunyai autoriti, dan menjadi standard bagi iman serta amalan hidup orang Kristian. Umat Kristian percaya bahawa kanon Alkitab telah lengkap dan ditutup, yang bermaksud tiada lagi tulisan lain boleh ditambahkan kepadanya. Oleh itu, Alkitab ialah penyataan Tuhan yang lengkap dan muktamad tentang kehendak-Nya bagi manusia serta menjadi autoriti tertinggi bagi iman dan ajaran Kristian (2 Timotius 3:16, 17).
+
+**2. Para nabi dalam Alkitab boleh dibahagikan kepada dua kumpulan utama: nabi dalam kanon dan nabi di luar kanon.**
+
+Para penulis kitab-kitab dalam kanon Alkitab yang diilhamkan oleh Tuhan dikenali sebagai nabi kanonik atau nabi penulis. Namun, Alkitab juga menyebut beberapa orang nabi yang tidak menyumbang kepada kanon Alkitab. Nabi-nabi di luar kanonik ini termasuk Miriam, Debora, Hulda, Elia, Elisa, dan Nuh dalam Perjanjian Lama, serta Yohanes Pembaptis, Agabus, Silas, Hana, dan empat orang anak perempuan Filipus dalam Perjanjian Baharu. Walaupun mesej yang mereka sampaikan juga diilhamkan oleh Tuhan (2 Raja-Raja 17:13, Kisah Para Rasul 9:10, Kisah Para Rasul 13:2, Kisah Para Rasul 21:11), tulisan mereka tidak dimasukkan ke dalam kanon Alkitab, atau tiada tulidan mereka yang wujud semama Alkitab dikanonkan.
+
+Perbezaan antara nabi dalam kanon dan nabi di luar kanon paling mudah difahami melalui skop dan fungsi. Skop merujuk kepada keluasan autoriti seorang nabi di luar kanon. Mesej yang mereka sampaikan biasanya ditujukan kepada individu tertentu atau untuk suatu masa tertentu. Contohnya, pelayanan Natan tertumpu kepada Raja Daud dan Raja Salomo, apabila beliau menyampaikan mesej Tuhan kepada mereka pada saat-saat penting dalam pemerintahan mereka (2 Samuel 12, 2 Samuel 7, 1 Raja-Raja 1). Sebaliknya, tulisan para nabi dalam kanon ditujukan kepada semua generasi dan terus mempunyai autoriti bagi semua orang percaya sepanjang zaman.
+
+Fungsi pula merujuk kepada peranan nabi di luar kanon dalam hubungannya dengan Alkitab. Mesej mereka tidak memperkenalkan ajaran baharu, tetapi menerapkan, menjelaskan, atau menegaskan kebenaran yang telah dinyatakan dalam Firman Tuhan. Contoh yang jelas ialah Hulda, yang dirujuk oleh Raja Yosia dan bukannya nabi Yeremia yang hidup pada zaman yang sama (yang tulisannya menjadi sebahagian daripada kanon Alkitab). Nubuat Hulda mengandungi dua penyataan daripada Tuhan: pertama, amaran bahawa Israel akan menerima hukuman seperti yang dinyatakan dalam Ulangan 28 kerana penyembahan berhala (2 Tawarikh 34:24, 25); kedua, janji bahawa Yosia akan meninggal dunia dengan damai kerana dia telah bertaubat (2 Tawarikh 34:26–28). Walaupun penyataan itu merupakan berita baharu bagi Yosia, mesej tersebut hanya mengukuhkan apa yang telah dinyatakan dalam Kitab Taurat (2 Tawarikh 34:14), iaitu bahawa ketidaktaatan membawa hukuman manakala pertaubatan membawa berkat.
+
+Berbeza dengan nabi di luar kanon, tulisan para nabi kanon tidak terhad dari segi skop mahupun fungsi. Tulisan mereka merupakan penyataan Tuhan yang tidak bercela untuk seluruh umat manusia dan “bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan dan untuk mendidik orang dalam kebenaran.” (2 Tim. 3:16, ATB). Wahyu 22:18, 19 memberi amaran supaya tidak menambah atau mengurangkan Firman Tuhan, sekali gus menegaskan bahawa kanon Alkitab telah lengkap. Oleh itu, kanon Alkitab yang telah ditutup kekal menjadi ukuran tertinggi untuk menguji setiap ajaran (Yes. 8:20), supaya semua tulisan keagamaan, sama ada diilhamkan atau tidak, dinilai berdasarkan standard ilahi yang terdapat dalam Alkitab.
+
+**3. Ellen G. White Berfungsi sebagai Manifestasi Kurnia Kenabian Pascakanonik dan Oleh Itu Tertakluk pada Alkitab.**
+
+Kurnia nubuat yang benar selepas zaman Alkitab tidak mencabar atau mengurangkan autoriti kanon Alkitab. Sebaliknya, kurnia itu tunduk pada Alkitab untuk diuji dan dinilai, sentiasa selaras dengannya. Seperti nabi-nabi bukan kanonik dalam Alkitab, kurnia ini tidak memperkenalkan ajaran baharu, tetapi mengukuhkan penyataan yang telah Tuhan diberikan.
+
+Ahli teologi Gereja Seventh-day Adventist, Frank Holbrook, menjelaskan hubungan antara kurnia nubuat selepas zaman Alkitab dengan Alkitab seperti berikut:
+
+“Bermula dengan Musa (abad ke-15 S.M.), wahyu daripada Tuhan mula dicatatkan. Sepanjang berabad-abad berikutnya, nabi-nabi lain mencatatkan mesej yang Tuhan percayakan kepada mereka mengikut kehendak-Nya bagi membantu umat-Nya memahami kehendak-Nya dengan lebih jelas. Akhirnya, Tuhan memilih untuk memberikan wahyu-Nya yang paling agung melalui Anak-Nya. Yesus Kristus telah memberikan kepada manusia wahyu tentang Tuhan yang paling lengkap yang dapat diterima oleh manusia (Yohanes 1:18). Perjanjian Baharu ialah kesaksian dan interpretasi para rasul yang diilhamkan oleh Tuhan mengenai Yesus Kristus dan ajaran-Nya. Kehidupan Yesus serta penyataan-Nya adalah unik dan tidak akan berulang, begitu juga kesaksian para rasul tentang-Nya.
+
+Oleh sebab kehidupan Yesus di dunia dan interpretasi para rasul mengenainya merupakan penyataan Tuhan yang paling lengkap, maka tiada fungsi kurnia nubuat (sebagai salah satu kurnia Roh) selepas zaman Perjanjian Baharu yang boleh menyamai, mengatasi, atau menambah penyataan yang unik itu. Sebaliknya, setiap dakwaan memiliki kurnia nubuat mesti diuji berdasarkan Alkitab (1 Tesalonika 5:19–21; 1 Yohanes 4:1–3; Matius 7:15–20).” — Frank Holbrook, "The Biblical Basis for a Modern Prophet."
+
+Di dalam https://www.adventistbiblicalresearch.org/materials/the-biblical-basis-for-a-modern-prophet/.
+
+Gereja Seventh-day Adventist memahami peranan kenabian Ellen G. White berdasarkan prinsip ini. Sebagai seorang nabi bukan kanonik selepas zaman Alkitab, beliau tidak mengubah atau mencabar kanon Alkitab yang telah lengkap, tetapi mengiktirafnya sebagai autoriti yang tertinggi. Seperti nabi-nabi bukan kanonik sebelum beliau, ilham yang diterima Ellen G. White datang daripada Tuhan, sama seperti para penulis Alkitab, tetapi autoriti tulisan beliau tetap berada di bawah autoriti Alkitab. Tujuan beliau ialah meninggikan, menjelaskan, dan menerapkan kebenaran Alkitab, sambil sentiasa mengarahkan orang percaya kembali kepada Firman Tuhan sebagai standard yang tertinggi.
+
+Seperti nabi-nabi di luar kanon yang telah disebutkan, pelayanan kenabian Ellen G. White juga mempunyai skop yang terhad. Pelayanan beliau ditujukan terutamanya kepada anggota Gereja Seventh-day Adventist, bukan kepada seluruh masyarakat Kristian. J. N. Andrews menegaskan bahawa kurnia yang dimiliki Ellen G. White bukanlah ukuran untuk menilai kehidupan rohani orang Kristian di luar gereja ini, tetapi mempunyai autoriti bagi mereka yang menerima terang yang Tuhan berikan melaluinya. Namun begitu, beberapa buah buku beliau, seperti Jalan Menuju Yesus dan Kemenangan Akhir, telah memberi kesan yang lebih luas kerana mengandungi pandangan teologi yang bermanfaat kepada ramai orang di luar Gereja Seventh-day Adventist. Fokus utama pelayanan beliau ialah menyediakan gereja untuk melaksanakan misinya dan bersedia menyambut kedatangan Kristus yang kedua kali. Oleh itu, pelayanan beliau juga berkaitan dengan keperluan pada zamannya.
+
+Kurnia nubuat Ellen G. White juga terhad dari segi fungsinya. Sebagai seorang nabi di luar kanon selepas zaman Alkitab, tulisan beliau, walaupun diinspirasikan oleh Tuhan, tidak mempunyai autoriti kanonik yang sama seperti Alkitab. Pelayanan kenabiannya ditentukan oleh kedudukannya dalam sejarah, iaitu selepas kanon Alkitab ditutup. Oleh itu, tugas beliau bukan untuk memperkenalkan ajaran baharu, tetapi untuk membawa orang percaya kembali pada Alkitab, meninggikan ajarannya, dan menerapkan prinsip-prinsipnya dalam kehidupan. Pelayanan beliau bertujuan membimbing, memberi amaran, dan menguatkan gereja sambil mempertahankan prinsip sola Scriptura, iaitu Alkitab sebagai autoriti tertinggi dalam iman dan amalan hidup. (Untuk penjelasan lanjut tentang fungsi kurnia nubuat selepas zaman Alkitab dan pelayanan Ellen G. White, lihat John C. Peckham, God With Us, hlm. 609–614.)
+
+Kenyataan berikut menggambarkan dengan jelas sikap dan pendirian teologi Ellen G. White terhadap Alkitab: “Jika Firman Tuhan diterima sebagai makanan bagi jiwa dan diperlakukan dengan hormat serta penuh penghargaan, maka tidak perlulah begitu banyak kesaksian diberikan berulang kali. Pernyataan Alkitab yang sederhana akan diterima dan dipatuhi. Prinsip-prinsipnya yang hidup adalah seperti daun pada pokok kehidupan yang membawa kesembuhan kepada bangsa-bangsa. Firman Tuhan yang hidup bukan sekadar ditulis, tetapi juga disampaikan. Alkitab ialah suara Tuhan yang berbicara kepada kita, sama seperti jika kita mendengarnya dengan telinga kita sendiri. Jika kita benar-benar menyedari hakikat ini, betapa hormatnya kita ketika membuka Firman Tuhan, dan betapa bersungguh-sungguhnya kita akan menyelidiki ajaran-Nya. Membaca dan merenungkan Alkitab seharusnya dianggap sebagai pertemuan dengan Tuhan Yang Mahakuasa.” — Ellen G. White, Testimonies for the Church, jilid 6, hlm. 393.
+
+**Untuk Kajian Lanjut:** Lihat Jud Lake, Ellen White Under Fire, khususnya perbincangan tentang pendirian para perintis Gereja Seventh-day Adventist mengenai autoriti muktamad Alkitab (hlm. 132–143) serta hubungan antara tulisan Ellen G. White dengan kanon Alkitab dari segi skop dan fungsinya (hlm. 151–162).
+
+### Bahagian III: Penerapan
+
+Soalan-soalan penerapan berikut, yang diambil daripada ulasan di atas, disediakan untuk memperkayakan perbincangan dalam kelas anda. Pilih soalan yang paling sesuai daripada senarai di bawah atau daripada pelajaran ini untuk membantu kelas anda membuat renungan yang lebih mendalam.
+
+1. Bagaimanakah pemahaman Alkitab tentang kanon yang telah lengkap dapat membantu anda menilai dakwaan tentang nubuat moden, sama ada di dalam atau di luar Gereja Seventh-day Adventist?
+2. Bagaimanakah anda dapat memastikan bahawa kepercayaan dan keputusan yang anda buat selaras dengan kanon Alkitab, dan bukan dipengaruhi oleh budaya atau pilihan peribadi?
+3. Apakah langkah-langkah praktikal yang boleh anda ambil untuk menguatkan keyakinan anda terhadap autoriti dan ilham Alkitab?
+4. Bagaimanakah anda dapat memastikan bahawa iman dan amalan hidup anda benar-benar berasaskan Alkitab, sambil tetap menghargai bimbingan para pemimpin rohani atau suara nubuat selepas zaman Alkitab?
+5. Jika nabi-nabi bukan kanonik menjelaskan dan mengukuhkan kebenaran Alkitab tanpa memperkenalkan ajaran baharu, bagaimanakah prinsip ini sepatutnya membimbing guru-guru dan pemimpin-pemimpin rohani pada masa kini?
+6. Apakah yang akan anda lakukan jika seseorang mendakwa telah menerima “wahyu baharu” daripada Tuhan? Prinsip-prinsip Alkitab yang manakah harus anda gunakan untuk menilai dakwaan tersebut?
+7. Apakah maksud bahawa kurnia nubuat pada zaman moden “berada di bawah autoriti Alkitab”? Bagaimanakah prinsip ini membantu kita menilai dakwaan tentang penyataan ilahi pada masa kini?
+8. Jika tulisan Ellen G. White berfungsi untuk meninggikan, menjelaskan, dan menerapkan kebenaran Alkitab, bagaimanakah tulisan beliau seharusnya digunakan dalam hubungannya dengan Alkitab? Pernahkah anda melihat keadaan di mana ada orang meletakkan tulisan beliau lebih tinggi daripada Alkitab?
+9. Bagaimanakah anda dapat berkongsi tulisan Ellen G. White dengan orang di luar Gereja Seventh-day Adventist dengan cara yang sesuai, sambil memastikan Alkitab tetap menjadi asas yang utama?
+10. Apakah antara salah faham yang sering timbul tentang tulisan Ellen G. White, dan bagaimanakah anda dapat memastikan bahawa pemahaman anda tentang tulisan beliau sentiasa berasaskan Alkitab?
+11. Bagaimanakah anda dapat mengutamakan pembelajaran Alkitab secara langsung berbanding buku-buku renungan, ulasan Alkitab, malah tulisan Ellen G. White, sambil pada masa yang sama tetap memperoleh manfaat daripada bahan-bahan tersebut?

@@ -1,0 +1,72 @@
+---
+title:  Pandan Guru
+date:   25/12/2026
+---
+
+### Bahagian I: Pandangan Keseluruhan
+
+**Ayat Utama:** 2 Tawarikh 20:20
+
+**Tumpuan Kajian:** 1 Kor. 2:2; Yoh. 1:1–5; 2 Tim. 3:16, 17; 2 Tim. 4:1–5; Yes. 40:1–5; Yoh. 17:20–23; 1 Kor. 1:10–13.
+
+**Pengenalan**
+
+Dalam kesimpulan disertasinya tentang Ellen G. White, Roy Graham menyatakan bahawa peranan dan kedudukan Ellen G. White dalam Gereja Seventh-day Adventist masih lagi sangat penting. Nilai sebenar hasil kerjanya masih jelas kelihatan, baik melalui apa yang telah dicapai semasa hayatnya mahupun melalui hala tuju yang ditunjukkannya kepada gereja melalui tulisan-tulisannya. Hasrat beliau adalah untuk melihat perkembangan satu gerakan Kristian yang berpegang teguh pada kebenaran tetapi terus maju, tidak bersifat mazhab, dan menawarkan satu pilihan yang berbeza daripada konsep ekumenikal—iaitu satu umat yang telah diperdamaikan dalam satu tubuh antarabangsa, bersatu dalam tujuan dan pelayanan kepada dunia. Dorongan mereka ialah kasih Tuhan yang dinyatakan melalui Kristus dan akhirnya akan dinyatakan sepenuhnya pada kedatangan Kristus yang kedua kali dan pada akhir zaman. Harapan akhir zaman inilah yang menjadi tujuan utama kewujudan mereka dan panji yang menyatukan mereka di seluruh dunia.—Graham, Ellen White: Co-Founder of the Seventh-day Adventist Church (New York: Peter Lang Publishing Inc., 1985), hlm. 429, 430. Pelajaran terakhir ini merupakan masa yang sesuai untuk kita merenungkan semula peranan dan kedudukan penting Ellen G. White dalam gereja serta bagaimana setiap anggota berhubung dengan pelayanan beliau.
+
+Apabila anda melihat dan mengalami sendiri manfaat kurnia nubuatan dalam Kitab Suci, bersedialah untuk membimbing kelas anda membincangkan berkat daripada kurnia nubuatan selepas zaman Alkitab, sebagaimana yang dinyatakan melalui pelayanan Ellen G. White.
+
+### Bahagian II: Ulasan
+
+**1. Nubuatan dalam Kitab Suci meninggikan Kristus dan membawa kita semakin mendalami Alkitab.**
+
+Kristus dengan jelas memberitahu murid-murid-Nya bahawa Perjanjian Lama memberikan kesaksian tentang diri-Nya: “Lalu Ia menjelaskan kepada mereka apa yang tertulis tentang Dia dalam seluruh Kitab Suci, mulai dari kitab-kitab Musa dan segala kitab nabi-nabi.” (Luk. 24:27, ATB; lihat juga Luk. 24:44). Nubuatan dalam Perjanjian Lama membawa kita kepada Kristus dalam beberapa cara, iaitu dengan menubuatkan kedatangan-Nya, menyatakan peranan-Nya sebagai Mesias, dan menunjukkan keperluan manusia akan penebusan. Melalui nubuatan-nubuatan khusus tentang kelahiran, kehidupan, penderitaan, kematian, dan kebangkitan Mesias, para nabi dalam Perjanjian Lama telah menunjuk kepada Yesus sebagai penggenapan rancangan penebusan Tuhan.
+
+Dengan menjadi pengesahan ilahi terhadap autoriti, keaslian, dan tujuannya, nubuatan membawa kita pada Alkitab. Nubuatan-nubuatan Alkitab, yang sering diberikan lama sebelum penggenapannya, menunjukkan bahawa Tuhan berdaulat atas sejarah dan mempunyai rancangan bagi manusia. Apabila nubuatan-nubuatan itu digenapi, seperti nubuatan tentang Mesias yang digenapi dalam Yesus Kristus, hal itu mengesahkan bahawa Alkitab ialah Firman Tuhan yang diilhamkan. Oleh sebab Kristus ialah “inti nubuatan” (lihat J. Barton Payne, Encyclopedia of Biblical Prophecy: The Complete Guide to Scriptural Predictions and Their Fulfillment [Eugene, OR: Wipf & Stock Publishers, 2020], hlm. 7), peribadi-Nya dan karya penebusan-Nya ialah kunci untuk memahami semua nubuatan dalam Kitab Suci. Dengan menyatakan kehendak Tuhan dan menunjuk kepada Kristus, nubuatan membawa manusia kepada-Nya sebagai “bintang fajar yang bersinar” (Why. 22:16, AVB) dan pada Alkitab sebagai sumber utama kebenaran dan pengharapan.
+
+**2. Nubuatan membimbing kita kepada kebenaran dan membawa penghiburan.**
+
+Nubuatan membimbing kita kepada kebenaran dengan menyatakan rancangan ilahi Tuhan, menegaskan kedaulatan-Nya atas sejarah, dan menunjuk kepada penggenapan terakhir semua janji-Nya. Nubuatan dalam Alkitab menyatakan kebenaran tentang sifat Tuhan, tujuan-Nya bagi manusia, dan kemenangan muktamad-Nya ke atas Syaitan melalui Kristus. Nubuatan dalam Alkitab juga mengesahkan autoriti Kitab Suci kerana nubuatan yang telah digenapi membuktikan bahawa Tuhan sentiasa setia kepada firman-Nya. Selain itu, nubuatan menjelaskan kebenaran moral dan rohani Tuhan serta memanggil manusia untuk bertaubat dan bertumbuh dalam iman (lihat Louis F. Were, The Moral Purpose of Prophecy [Sarasota, FL: First Impressions, 1998]). Akhirnya, nubuatan membawa penghiburan dengan memberikan pengharapan dan keyakinan bahawa Tuhan menguasai masa depan.
+
+**3. Nubuatan membawa kesatuan kepada gereja.**
+
+Dalam Efesus 2:20, Paulus menulis bahawa gereja “yang dibangun di atas dasar para rasul dan para nabi, dengan Kristus Yesus sebagai batu penjuru” (ATB). Petikan ini menonjolkan kesatuan gereja dengan menggambarkannya sebagai satu bangunan yang dibina di atas satu dasar yang sama. Dengan merujuk kepada para rasul dan para nabi sebagai dasar gereja, Paulus menekankan bahawa mereka membawa mesej yang sama, iaitu rancangan penebusan Tuhan yang telah digenapi dalam Kristus. Dasar yang sama ini menjadi asas bagi semua orang percaya, melangkaui perbezaan budaya, kedudukan sosial, dan bangsa, serta memupuk kesatuan dengan memusatkan gereja kepada kesaksian para rasul dan para nabi yang menyatakan tujuan Tuhan bagi manusia.
+
+Kristus sebagai “batu penjuru” menunjukkan peranan-Nya yang sangat penting dalam menyatukan seluruh bangunan itu. Dalam seni bina zaman dahulu, batu penjuru digunakan untuk menyelaraskan dan menyokong asas bangunan supaya keseluruhan struktur menjadi kukuh dan stabil. Begitu juga, Kristus menyatukan gereja dengan menghimpunkan anggota yang berbeza menjadi satu keluarga rohani. Tanpa Kristus, asas itu tidak akan mempunyai kesatuan yang kukuh. Namun, dengan Dia sebagai batu penjuru, gereja tetap teguh dan bersatu. Oleh itu, apabila mesej nubuatan berpusat kepada Kristus, ia akan membawa kesatuan kepada gereja.
+
+**4. Berkat daripada pelayanan nubuatan Ellen G. White hanya dapat dialami apabila kita “merasai,” atau mengalami sendiri, tulisan-tulisan beliau; iaitu dengan membaca dan menerapkannya dalam kehidupan.**
+
+Bincangkan tujuh berkat berikut yang diperoleh daripada membaca dan menerapkan tulisan Ellen G. White. Selepas membincangkan berkat-berkat ini, minta ahli kelas menyenaraikan berkat lain yang mereka peroleh hasil daripada membaca dan menerapkan tulisan beliau dalam kehidupan mereka.
+
+**Kehidupan Rohani yang Bertumbuh dan Diperbaharui:** Membaca tulisan Ellen G. White membantu membina kehidupan rohani yang lebih bertumbuh dan memberikan keyakinan yang lebih teguh dengan membawa pembaca lebih dekat kepada Kristus. Tulisan beliau menekankan pentingnya hubungan peribadi dengan Tuhan serta menggalakkan orang percaya membina kebiasaan berdoa, mengkaji Alkitab, dan bergantung kepada Roh Suci. Ramai yang membaca buku seperti Steps to Christ atau The Desire of Ages mendapati kehidupan rohani mereka diperbaharui kerana mereka memperoleh gambaran yang lebih jelas tentang kasih Tuhan dan rancangan-Nya untuk hidup mereka.
+
+**Panduan Praktikal untuk Kehidupan Seharian:** Selain memperbaharui kehidupan rohani, tulisan Ellen G. White juga memberikan hikmat yang praktikal untuk menghadapi kehidupan seharian. Nasihat beliau merangkumi pelbagai bidang seperti kesihatan, kehidupan keluarga, pendidikan, etika kerja, dan pembentukan watak. Beliau menyampaikan prinsip-prinsip Alkitab dengan cara yang mudah difahami dan mudah diamalkan, sekali gus membantu pembaca membuat keputusan yang selaras dengan kehendak Tuhan. Dengan mengikuti panduan praktikal dalam tulisan beliau, orang percaya dapat membina gaya hidup yang lebih sihat, keluarga yang lebih kukuh, dan tujuan hidup yang lebih jelas dalam tanggungjawab harian mereka.
+
+**Pemahaman Nubuatan dan Pengertian yang Lebih Mendalam tentang Konflik Kosmik Antara Kristus dan Syaitan:** Salah satu manfaat yang paling besar daripada membaca tulisan Ellen G. White ialah pemahaman nubuatan yang diberikannya tentang tema-tema Alkitab, sejarah, dan peristiwa-peristiwa akhir zaman. Tulisan beliau menjadi satu sudut pandang yang membantu pembaca memahami sejarah dan Kitab Suci dengan lebih mendalam, sekali gus menjelaskan konsep-konsep teologi yang sukar serta kaitannya dengan kehidupan pada hari ini. Sebagai contoh, siri lima buah buku Conflict of the Ages memberikan gambaran menyeluruh tentang konflik kosmik antara kebaikan dan kejahatan, yang menguatkan iman kepada rancangan penebusan Tuhan yang muktamad.
+
+**Persediaan Menyambut Kedatangan Kristus:** Tulisan Ellen G. White menanamkan rasa kesegeraan dan kesediaan untuk menyambut kedatangan Kristus yang kedua kali. Beliau mengingatkan orang percaya bahawa kehidupan Kristian ialah satu perjalanan persediaan, yang memanggil mereka untuk hidup dengan penuh pengharapan, kesetiaan, dan kewaspadaan. Beliau menegaskan bahawa kesiapsiagaan untuk menyambut Kristus bukanlah berdasarkan ketakutan atau sekadar pematuhan luaran, tetapi lahir daripada hubungan peribadi yang mendalam dengan Yesus yang mengubah hati. Tulisan beliau menggalakkan orang percaya supaya hidup dengan tujuan yang jelas dan membuat pilihan setiap hari yang mencerminkan pengharapan mereka terhadap kedatangan Kristus.
+
+**Semangat Misi dan Pelayanan:** Satu lagi manfaat besar daripada membaca tulisan Ellen G. White ialah tulisan beliau membangkitkan semangat untuk melaksanakan misi dan melayani orang lain. Beliau sentiasa menggesa orang percaya supaya tidak hidup dengan iman yang hanya mementingkan diri sendiri, tetapi aktif menyebarkan “Injil yang kekal” (Why. 14:6, ATB). Tulisan beliau menekankan bahawa kehidupan Kristian bukan sekadar tentang keselamatan peribadi, tetapi juga tentang mengambil bahagian dalam pekerjaan Tuhan untuk menjangkau orang lain. Buku-buku beliau seperti The Ministry of Healing dan Christian Service memberikan panduan praktikal tentang cara melayani orang lain dengan berkesan, sama ada melalui pelayanan kesihatan, penginjilan peribadi, ataupun perbuatan kasih. Tulisan beliau membangkitkan rasa tanggungjawab untuk mengangkat martabat manusia dan menggalakkan orang percaya menggunakan bakat serta sumber yang mereka miliki demi kemuliaan Tuhan.
+
+**Kasih kepada Kitab Suci:** Tulisan Ellen G. White menanamkan kasih yang mendalam terhadap Alkitab dengan sentiasa mengarahkan pembaca kembali kepada Firman Tuhan sebagai autoriti yang tertinggi. Beliau tidak pernah mempersembahkan mesej-mesejnya sebagai pengganti Alkitab, tetapi sebagai panduan untuk memahami dan menerapkan kebenarannya dengan lebih baik. Buku-buku beliau seperti Education dan Christ's Object Lessons menjelaskan tema-tema Alkitab dengan lebih terang dan mendalam, sekali gus menjadikan Alkitab lebih mudah difahami dan lebih menarik untuk dipelajari. Beliau menggalakkan pembelajaran Alkitab setiap hari, menggesa orang percaya supaya merenungkan Firman Tuhan, menyimpan janji-janji-Nya dalam hati, dan hidup menurut prinsip-prinsip-Nya. Ramai yang membaca tulisan beliau mengalami semangat yang diperbaharui untuk mengkaji Alkitab serta menemui sukacita dalam ajarannya dan kekuatan dalam janji-janjinya.
+
+**Kesatuan dalam Gereja:** Akhir sekali, tulisan Ellen G. White membawa kesatuan kepada Gereja Seventh-day Adventist pada hari ini dengan menyediakan satu kerangka teologi yang menyatukan, meneguhkan kebenaran Alkitab, dan membimbing anggota dalam iman serta amalan. Nasihat beliau tentang doktrin, gaya hidup, dan misi membantu mengekalkan keselarasan dalam kalangan anggota daripada pelbagai budaya dan latar belakang, sekali gus membentuk identiti yang dikongsi bersama oleh umat Advent di seluruh dunia. Tulisan beliau menggalakkan tujuan bersama dan kesatuan rohani dengan menekankan kehidupan yang berpusat kepada Kristus, tema Konflik Kosmik, dan misi gereja. Sebagai suara nubuatan, beliau terus menjadi rujukan yang menyatukan gereja dengan menggalakkan kesetiaan kepada Kitab Suci dan misi gereja di seluruh dunia.
+
+**Untuk Kajian Lanjut:** Lihat Gerhard Pfandl, The Gift of Prophecy: The Role of Ellen White in God’s Remnant Church, hlm. 106–114 (lihat juga https://egwwritings.org/read?panels=p13965.704&index=0, untuk senarai lain tentang berkat daripada membaca tulisan Ellen G. White; lihat juga Graham, Ellen White: Co-Founder of the Seventh-day Adventist Church, hlm. 414–430.
+
+### Bahagian III: Penerapan
+
+Soalan-soalan penerapan kehidupan berikut, yang diambil daripada ulasan di atas, disediakan untuk memperkayakan perbincangan kelas anda. Pilih soalan yang paling sesuai daripada senarai ini dan daripada pelajaran minggu ini untuk menggalakkan renungan yang lebih bermakna dalam kalangan ahli kelas.
+
+1. Bagaimanakah nubuatan telah membantu anda memahami dengan lebih mendalam peranan Kristus dalam Alkitab dan dalam kehidupan anda?
+2. Dalam cara apakah nubuatan yang telah digenapi telah menguatkan iman anda terhadap autoriti Kitab Suci?
+3. Bagaimanakah nubuatan memberikan bimbingan dan keyakinan kepada anda ketika menghadapi masa yang tidak menentu?
+4. Apakah nubuatan dalam Alkitab tentang Kristus yang paling memberi kesan kepada perjalanan iman anda?
+5. Bagaimanakah mesej nubuatan membantu menyatukan gereja yang terdiri daripada pelbagai budaya dan latar belakang?
+6. Dalam cara apakah tulisan Ellen G. White telah menggalakkan pertumbuhan rohani dan hubungan peribadi anda dengan Tuhan?
+7. Bagaimanakah pembacaan tulisan Ellen G. White telah mempengaruhi keputusan harian dan cara hidup anda?
+8. Apakah pandangan daripada tulisan Ellen G. White yang telah membantu anda mengembangkan semangat yang lebih besar terhadap misi dan pelayanan?
+9. Bagaimanakah anda boleh memupuk kasih yang lebih mendalam terhadap Kitab Suci melalui bimbingan daripada tulisan Ellen G. White?
+10. Bagaimanakah tulisan Ellen G. White membangkitkan rasa kesegeraan dan kesiapsiagaan untuk menyambut kedatangan Kristus yang kedua kali?
+11. Bagaimanakah mesej-mesej nubuatan membentuk nilai dan keutamaan hidup anda?
+12. Bagaimanakah anda boleh membantu memupuk kesatuan dalam gereja anda dengan menerapkan prinsip-prinsip yang terdapat dalam nasihat Ellen G. White yang diilhamkan?
+13. Bagaimanakah anda menggambarkan peranan dan kedudukan Ellen G. White dalam Gereja Seventh-day Adventist pada hari ini? Apakah tempat Ellen G. White dalam gereja tempatan anda? Adakah tulisan beliau diberikan penekanan yang mencukupi atau digunakan secara berlebihan? Bincangkan.
