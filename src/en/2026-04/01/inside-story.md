@@ -19,4 +19,4 @@ But perhaps the most remarkable story remains that of those early ­missionaries
 
 When Poland celebrated the centennial of Adventist work in 1988, the small group meeting in the Lach family home had become a vibrant national church. Their courage and conviction remind us that the gospel’s light shines brightest in dark places, kindled by faith, fanned by love, and carried by those willing to go.
 
-_Adapted from the Encyclopedia of Seventh-day Adventists, available at encyclopedia.adventist.org._
+_Adapted from the Encyclopedia of Seventh-day Adventists, available at https://encyclopedia.adventist.org._
