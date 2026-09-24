@@ -1,0 +1,23 @@
+### Introducció
+
+#### El do de profecia
+
+Els neurocientífics han començat a entendre la meravellosa facilitat dels infants humans per a l'adquisició del llenguatge. Als sis mesos, un nadó pot comprendre els sons que componen les paraules angleses, o les paraules de qualsevol de les altres més de 7.000 llengües parlades. Si s'exposa a una segona llengua, també pot adquirir-la. Durant aquest període s'obre una misteriosa porta mental que permet als infants distingir els quaranta sons aproximats que generalment formen una llengua materna d'entre els 800 sons diferents que poden percebre en néixer. Però hi ha una condició: cal parlar als nadons. En podríem dir lliçons de veu per a nounats.
+
+Per què Déu ens crearia amb aquesta meravellosa capacitat de reconeixement de la parla i d'adquisició del llenguatge si mai no hagués tingut la intenció de parlar-nos? La pregunta és retòrica, és clar, perquè la Bíblia declara: «Déu, que en diverses ocasions i de diverses maneres va parlar antigament als pares pels profetes, en aquests darrers dies ens ha parlat pel seu Fill, a qui ha constituït hereu de totes les coses, i per mitjà del qual també va fer l'univers» (Heb. 1:1, 2).
+
+Quan el pecat va destrossar la comunió d'Adam i Eva amb Déu, ell no se'n va rentar les mans ni va abandonar la parella caiguda a la seva pròpia destrucció. Els va anar a buscar tots dos i va preguntar a Adam: «On ets?» (Gèn. 3:9). Tot seguit va profetitzar sobre el naixement d'Aquell que salvaria el món del pecat (Gèn. 3:15). Des del seu inici, allà mateix a l'Edèn després de la Caiguda, la profecia ha exalçat Jesús i ha assenyalat els pecadors cap a ell, la seva única esperança.
+
+Aquest trimestre estudiarem el do de profecia, la innovació genial de Déu per comunicar la seva voluntat i el seu camí als éssers humans caiguts, que ja no poden tenir comunió cara a cara amb ell. Aquest do especial de l'Esperit Sant és mencionat de manera destacada a 1 Corintis 12, 1 Corintis 14, Efesis 4 i Romans 12. L'Esperit Sant és el gran dispensador d'aquest i de tots els altres dons espirituals, «repartint a cadascú en particular tal com ell vol» (1 Cor. 12:11). Al llarg del temps, portaveus dotats espiritualment han transmès missatges divins per restaurar i renovar la nostra relació amb Déu, tal com Déu va fer a l'Edèn després de la Caiguda.
+
+Aprendrem com Déu crida els profetes i com en podem comprovar l'autenticitat. Veurem les similituds i les diferències entre els profetes de l'Antic i del Nou Testament, i també adquirirem una comprensió pràctica de com funcionen la revelació i la inspiració en les seves vides. Mentre que alguns profetes van parlar, d'altres van escriure; alguns van fer totes dues coses. Examinarem aquestes i altres formes de discurs diví, les seves implicacions i les benediccions d'obeir els missatges que aquests profetes van transmetre.
+
+Déu utilitza el do de profecia amb cinc propòsits crucials: (1) revelar-se ell mateix, la seva veritat i la seva voluntat per a la humanitat caiguda; (2) donar comprensió i consell respecte a esdeveniments i fets importants; (3) equipar el cos de Crist —l'església— per a la missió; (4) proporcionar encoratjament espiritual als seus seguidors; (5) despertar els pecadors i cridar-los al penediment. A més, «l'esperit de profecia» és un dels dos trets distintius de l'església romanent de Déu del temps de la fi (Apoc. 12:17, Apoc. 19:10).
+
+Tant s'ha compromès Déu a guiar els perduts sans i estalvis cap a casa que el do de profecia també és proporcionat per als darrers dies (Joel 2:28-31). Els Adventistes del Setè Dia creiem —amb molt bones raons— que Ellen G. White, cofundadora de l'església, va exercir una manifestació moderna del do profètic.
+
+És per això que, juntament amb el nostre estudi del do de profecia a les Escriptures, cada divendres explorarem la dinàmica de la crida d'Ellen G. White al ministeri profètic. Nosaltres, com a església, hem rebut aquest do meravellós. Com el podem utilitzar de la millor manera?
+
+Sí, des de la infantesa hem estat dissenyats perquè ens parlin. Que important és, doncs, que escoltem el que ens diuen els profetes de Déu!
+
+_Aquesta Guia d'Estudi Bíblic de l'Escola Sabatina per a Adults ha estat elaborada per l'equip ministerial de l'oficina del White Estate, a Silver Spring, Maryland. En compartir el ministeri profètic i els escrits d'Ellen White arreu del món, l'Ellen G. White Estate, Inc., dona suport a la missió de l'Església Adventista del Setè Dia d'exalçar Jesucrist i la seva Paraula._
