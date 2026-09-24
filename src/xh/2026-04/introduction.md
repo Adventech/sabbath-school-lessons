@@ -1,0 +1,23 @@
+### Introduction
+
+#### Isipho Sesiprofeto
+
+Oososayensi abajongene nemithambo-luvo baqalile ukuqonda ummangaliso wesipho sokuzuza ulwimi kwiintsana zabantu. Ngeenyanga ezintandathu, usana luyakwazi ukuqonda izandi ezenza amagama esiNgesi, okanye nakoluphi kwiilwimi ezingama-7000 ukudlula ezithethwayo. Xa bebekwe esichengeni solwimi lwesibini, bangalubamba nalo olo lwimi. Ngeli xesha, ucango lwengqondo oluyimfihlakalo luyavuleka, luzivumele iintsana ukuba zahlule ama-40 okanye kufuphi apho ezandi eziye zenze ulwimi lwenkobe kuma-800 ezandi ezahlukeneyo ezinokuziqonda ekuzalweni. Phofu ikho into enye ebambayo: abantwana kufuneka kuthethiwe nabo. Ungade uthi zizifundo zelizwi kwabasanda kuzalwa.
+
+Kunokuba kutheni uThixo esidale nesakhono esibaluleke kangaka sokukwazi ukuqonda nokubamba intetho ukuba ebengajonge ukuthetha nathi? Ngumbuzo oziphendulayo lo, kuba kaloku iBhayibhile ithi, “UThixo wayethethile nje kudala ngeendawo ezininzi, nangeendlela ezininzi, koobawo ngabo abaprofeti, uthethe ngale mihla yokugqibela kuthi ngoNyana; awammisayo wayindlalifa yeento zonke, awathi kwangaye wayenza indalo yonke” (Heb. 1:1, 2).
+
+Sathi isono sakukuchitha ukuthetha kuka-Adam noEva noThixo, uThixo akazange ahlambe izandla ngabo abashiye ababini abawileyo ukuba bazitshabalalise. Waya weza kubafuna bobabini, ebuza uAdam, “ ‘Uphi?’ ” (Gen. 3:9). Waqhubeka waprofeta ngokuzalwa kwaLowo wayeza kusindisa ihlabathi esonweni (Gen. 3:15). Kususela ekungeneni kwaso, kwalapho e-Eden emva kokuWa, isiprofeto siye samphakamisa uYesu saza sakhombisa aboni kuYe, ithemba labo ekuphela kwalo.
+
+Kule kota siza kufunda ngesipho sokuprofeta, indlela entsha yobulumko bukaThixo yokudlulisela intando nendlela yaKhe kuluntu oluwileyo, olungasakwazi ukuthetha naYe ubuso ngobuso. Esi sipho sisodwa sikaMoya Oyingcwele sikhankanywe ngokucacileyo ku-1 Korinte 12, 1 Korinte 14, Efese 4, nomaRoma 12. UMoya Oyingcwwele unguMabi Omkhulu waso kunye nezinye izipho zasemoyeni, “esabela elowo nalowo ngabanye ngokwentando yaKhe” (1 Kor. 12:11). Kulo lonke ixesha, izithethi ezinesipho sikamoya zigqithise izigidimi zikaThixo ukubuyisela nokwenza ngokutsha ubudlelwane bethu noThixo, kanye njengoko uThixo wenza e-Eden emva kokuWa.
+
+Siza kufunda ngendlela uThixo abiza ngayo abaprofeti nokuba singakuvavanya njani ukuqiniseka kobunyaniso babo. Siza kubona ukufana nokwahluka phakathi kwabaprofeti beTestamente eNdala nabeTestamente eNtsha, kwanokuba sifumane ukuqonda okusebenzayo ngendlela isityhilelo nempefumlelo ezisebenza ngayo ebomini bethu. Njengoko abanye abaprofeti bathetha, abanye babhala; abanye bakwenza kokubini. Siya kuhlola ezi kunye nezinye iintlobo zentetho zikaThixo, into eziyithethayo, neentsikelelo zokuzithobela ezi zigidimi zizisiweyo kuthi.
+
+UThixo usisebenzisela isipho sesiprofeto iinjongo ezintlanu ezibalulekileyo: 1. Ukuzityhila ngokwaKhe, nenyaniso yaKhe, nentando yaKhe kuluntu oluwileyo. 2. Ukunika imbono necebiso ngokubhekisele kwiziganeko ezibalulekileyo nezinto ezenzekayo. 3. Ukuxhobisa umzimba kaKristu—ibandla—lilungele umsebenzi. 4. Ukunika inkuthazo yasemoyeni kubalandeli baKhe. 5. Ukuvusa aboni nokubabizela enguqukweni. Ukongeza, umoya wokuprofeta” lolunye lweempawu ezimbini ezibonisa ibandla likaThixo lesisalela lexesha lesiphelo (IsiTy. 12:17, IsiTy. 19:10).
+
+Wafaka kangako uThixo ukubagcina abalahlekileyo bekhuselekile ekhaya kangangokuba isipho sesiprofeto sinikelwe nayo imihla yokugqibela (Yoweli 2:28-31). AmaSeventh-day Adventists akholelwa—ngezizathu ezilunge kakhulu—ukuba uEllen G. White, owayengumncedi ekusekweni kwebandla, wasebenzisa ukubonakalaliswa kwangoku kwesipho sokuprofeta.
+
+Yiyo le nto, kunye nokufunda kwethu ngesipho sokuprofeta esiBhalweni, ngoLwesihlanu ngamnye, siza kuhlola amandla aqhuba ubizelo lukaEllen G. White kulungiselelo lobuprofeti. Thina, njengebandla, sinikwe esi sipho simangalisayo. Sisisebenzisa ngeyona Ndlela ilunge kangakanani?
+
+Ewe, ukususela ebusaneni ukubheka phambili, siye salungiselwa ukuba kuthethwe nathi. Kubaluleke njani, ke ngoko, ukuba sikuphulaphule oko abaprofeti bakaThixo basixelela kona!
+
+_Esi Sikhokelo Sesifundo seBhayibhile Sabadala senziwe liqela lolungiselelo lweofisi ye White Estate, eSilver Spring, Maryland. Mgokwabelana ngolungiselelo lokuprofeta nemibhalo yakhe uEllen White, iEllen G. White Estate, Inc., ixhasa umsebenzi othunywe iSeventh-day Adventist Church ekuphakamiseni uYesu Kristu ne Lizwi laKhe._
