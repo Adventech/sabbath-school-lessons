@@ -1,0 +1,21 @@
+### Isipho SeSiprofetho
+
+Ososayensi bemizwa nengqondo (neuroscientists) sebeqalile ukuqonda indlela emangalisayo yezingane yokufunda ulimi. Ezinyangeni eziyisithupha, ingane iqonda imisindo equkethe ulimi lwesiNgisi, noma amagama anoma yiluphi ulimi ezilimini ezevile ku-7,000 ezikhulunywayo. Uma kukhona olunye ulimi lwesibili ezibhekene nalo, zingalufunda nalo. Kulesisikhathi umnyango ofihlakele engqondweni uyavuleka, wenze izingane zikwazi ukwehlukanisa imisindo elinganiselwa ku-40 eyenza ulimi lwendabuko phakathi kwemisindo engu-800 eziyiqondayo ekuzalweni kwazo. Kodwa kunempica: izingane kumele kukhulunywe nazo. Ungakubiza ngezifundo zamazwi ezinganeni.
+
+Kungani uNkulunkulu asidala nalokhu kuhlakanipha kokuzwa kanye nokuthola ulimi uma wayengaqondile ukuba akhulume kithi na? Umbuzo buciko lo—ngokuba iBhayibheli lithi, “UNkulunkulu esekhulumile endulo kokhokho ngabaprofethi ngamathuba amaningi nangezindlela eziningi, ekugcineni kwale mihla ukhulume kithina ngeNdodana ayimise ibe yindlalifa yakho konke, adala ngayo futhi izwe” (Heb. 1:1, 2, NKJV).
+
+Ngenkathi isono sihliphiza ukuxhumana kuka-Adamu no-Eva noNkulunkulu, Yena akazange ageze Izandla abashiyele ukuba babhubhe. Weza ezobacinga bobabili, ebuza ku-Adamu, “ ‘Ukuphi na?’ ” (Gen. 3:9, NKJV). Waqhubeka nokuprofetha ngokuzalwa kwaLowo owayezosindisa izwe esonweni (Gen. 3:15). Kusukela ekusungulweni kwaso, khona lapho e-Eden emuva koKuwa, isiprofetho siphakamisa uJesu futhi sibhekisa izoni kuYena, ongukuphela kwethemba lazo.
+
+Kulonyangantathu sizofunda Isipho sesiprofetho, indlela enobuhlakani yokukhuluma intando Yakhe kanye nendlela kwisintu esiwileyo, esingasakwazi ukukhuluma Naye ubuso nobuso. Lesisipho esikhethekile sikaMoya Ongcwele sibalulwa Ku-1 Korinte 12, 1 Korinte 14, Efesu 4, no-Roma 12. UMoya Ongcwele unguMnikezi Omkhulu walokhu kanye nazo ezinye izipho zikamoya, “ebabela yilowo nalowo ngokwakhe njengokuthanda kwakhe” (1 Kor. 12:11, NKJV). Kuso sonke isikhathi, izikhulumi eziphiwe kwezikamoya zethule Imibiko yezulu ukubuyisela kanye nokuvuselela ubudlelwane bethu noNkulunkulu, njengalokhu uNkulunkulu enza e-Eden emuva nje kokungena kwesono.
+
+Sizofunda indlela uNkulunkulu abiza ngayo abaprofethi nangendlela esingahlola ngayo ubuqiniso babo. Sizobona ukufana kanye nokwehluka phakathi kwabaprofethi beTestamente Elidala nabeTestamente Elisha, futhi sizuze ukuqonda okusebenzayo bendlela isambulo nokuphefumulelwa okusebenza ngayo ezimpilweni zabo. Nanjengoba abanye abaprofethi babekhuluma, abanye bebhala; abanye babenza kokubili. Sizohlola lokhu kanye nezinye izindlela zokudlulisa umbiko ongcwele, imithelela yako, kanye nezibusiso zokulalela Imibiko eyethulwa yilaba baprofethi.
+
+UNkulunkulu usebenzisa Isipho sesiprofetho ngezinhloso ezinhlanu ezisemqoka: 1. Ukwembula Yena, iqiniso Lakhe, kanye nentando Yakhe ngesintu esiwileyo. 2. Ukwembula kanye nokweluleka mayelana nezigameko nezehlo ezibalulekile. 3. Ukuhlomisa umzimba kaKristu—ibandla—ngomsebenzi. 4. Ukuhlinzeka ngenkuthazo yezikamoya kubalandeli Bakhe. 5. Ukuqwashisa izoni kanye nokuzibizela ekuphendukeni. Phezu kwalokhu, “umoya wesiprofetho” ungenye yezimpawu ezimbili eziphawula ibandla likaNkulunkulu lensali esikhathini sokugcina (Samb. 12:17, Samb. 19:10).
+
+UNkulunkulu uzimisele kakhulu ekuholeni abalahlekile babuyele ekhaya kangangokuba Isipho sesiprofetho sihlinzekelwe nasezinsukwini zokugcina (Joweli 2:28-31). AmaSeventh-day Adventist akholwa—ngezizathu ezifanele—ukuthi u-Ellen G. White, omunye wabasunguli bebandla, wabonakalisa Isipho sesiprofetho sesikhathi samanje.
+
+Yingakho, ngokuhambisana nesifundo sethu sesipho sesiprofetho Ezibhalweni, njalo ngoLwesihlanu sizo buka okuphathelene nobizo lobuprofethi luka-Ellen G. White. Thina, njengebandla, sinikeziwe lesisipho esimangalisayo. Sisisebenzisa kanjani na?
+
+Yebo, ukusukela ekuqaleni kuye phambili, sakhelwe ukuba kukhulunywe kithi. Kubaluleke kakhulu, ke, ukuthi silalele lokho abaprofethi bakaNkulunkulu abasitshela kona!
+
+_Lesisifundo Sabantu Abadala sihlelwe yithimba lehhovisi le-White Estate, e-Silver Spring, Maryland. Ngokwabelana ngomsebenzi wokuprofetha ka-Ellen G. White kanye nemibhalo yakhe emhlabeni wonke, i-Ellen G. White Estate, Inc., iphasa umsebenzi weBandla i-Seventhday Adventist ekuphakamiseni uJesu Kristu kanye nezwi Lakhe._

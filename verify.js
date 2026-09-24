@@ -34,6 +34,18 @@ let validateContent = async function () {
         let doc = null
         try {
             doc = yamljs.load(fs.readFileSync(`${quarterly}/info.yml`));
+
+            if (!doc.description
+                || !doc.title
+                || !doc.description
+                || !doc.human_date
+                || !doc.start_date
+                || !doc.end_date
+                || !doc.color_primary
+                || !doc.color_primary_dark
+            ) {
+                fail(`Critical error. Can not parse the quarterly info: \`${quarterly}\`/info.yml. Missing one of the required properties (title, description, human_date, start_date, end_date, color_primary or color_primary_dark`);
+            }
         } catch (e) {
             e = e.toString().replace(/\n/g, '<br>');
             fail(`Critical error. Can not parse the quarterly info: \`${quarterly}\`/info.yml. Error: \`${e}\``);

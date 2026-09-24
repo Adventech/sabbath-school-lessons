@@ -1,0 +1,20 @@
+---
+  title: "El do de profecia"
+  description: "Els neurocientífics han començat a entendre la meravellosa facilitat dels infants humans per a l'adquisició del llenguatge. Als sis mesos, un nadó pot comprendre els sons que componen les paraules angleses, o les paraules de qualsevol de les altres més de 7.000 llengües parlades. Si s'exposa a una segona llengua, també pot adquirir-la. Durant aquest període s'obre una misteriosa porta mental que permet als infants distingir els quaranta sons aproximats que generalment formen una llengua materna d'entre els 800 sons diferents que poden percebre en néixer. Però hi ha una condició: cal parlar als nadons. En podríem dir lliçons de veu per a nounats."
+  human_date: "Octubre · Novembre · Desembre 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#54292F"
+  color_primary_dark: "#3E1E22"
+  splash: true
+  credits:
+    - name: Col·laborador principal
+      value: "The Ellen G. White Estate"
+    - name: Editor
+      value: "Clifford R. Goldstein"
+    - name: Editora associada
+      value: "Soraya Scheidweiler"
+    - name: Directora de publicació
+      value: "Lea Alexander Greve"
+    - name: Assistent editorial
+      value: "Sharon Thomas-Crews"
