@@ -1,0 +1,19 @@
+#### Dar proroštva
+
+Neuroznanstvenici su počeli razumijevati čudesnu sposobnost ljudske novorođenčadi za učenje jezika. Sa šest mjeseci dijete može razumjeti glasove od kojih se sastoje riječi iz bilo kojeg od sedam tisuća govornih jezika. Ako je izloženo drugom jeziku, može usvojiti i njega. Tijekom tog razdoblja otvaraju se tajanstvena vrata uma omogućavajući dojenčetu da razlikuje četrdesetak glasova od kojih se uglavnom sastoji njegov materinski jezik, između osamstotinjak drugih zvukova koje može opaziti pri rođenju. Međutim, postoji jedno ograničenje novorođenčadi se mora govoriti. Možete to nazvati glasovnim vježbama za novorođenčad.
+
+Zašto bi nas Bog stvorio s tom zadivljujućom sposobnošću prepoznavanja govora i učenja jezika ako nam se nikada nije namjeravao obratiti? Pitanje je, naravno, retoričko, jer Biblija objavljuje: "Bog koji je nekoć u mnogo navrata i na mnogo načina govorio ocima po prorocima, na kraju, to jest u ovo vrijeme, govorio nam je po Sinu, koga je postavio baštinikom svega i po kome je stvorio svijet." (Hebrejima 1,1.2)
+
+Kada je grijeh razorio zajedništvo Adama i Eve s Bogom, On nije digao ruke od njih niti ih je ostavio da unište sami sebe. Došao ih je potražiti, pozvavši Adama: “Gdje si?” (Postanak 3,9) Zatim je izrekao proročanstvo o rođenju Onoga koji će spasiti svijet od grijeha (Postanak 3,15). Tako je proroštvo od samog početka upravo tu, u Edenu nakon pada, uzdizalo Isusa i ukazivalo grešnicima na Njega ― njihovu jedinu nadu.
+
+Ovog ćemo tromjesečja proučavati dar proroštva, Božji mudro osmišljen način da priopći svoju volju i ukaže na svoje putove palim ljudima koji više ne mogu razgovarati s Njim licem u lice. Taj posebni dar Duha Svetoga posebno se ističe u 1. Korinćanima 12; 1. Korinćanima 14; Efežanima 4 i Rimljanima 12. Duh Sveti, Veliki Davatelj tog i svih drugih duhovnih darova, “razdjeljuje ih svakome kako hoće” (1. Korinćanima 12,11). Tijekom vremena nadahnuti glasnici prenosili su božanske poruke kako bi popravili i obnovili naš odnos s Bogom, baš kao što je Bog učinio u Edenu nakon pada.
+
+Saznat ćemo kako Bog poziva proroke i kako možemo provjeriti njihovu autentičnost. Sagledat ćemo sličnosti i razlike između starozavjetnih i novozavjetnih proroka, i steći praktično razumijevanje uloge koju su otkrivenje i nadahnuće imali u njihovom životu. Dok su neki proroci govorili, neki su pisali, a neki su činili i jedno i drugo. Proučit ćemo te i druge načine božanskog obraćanja ljudima, njihovo značenje i blagoslove koji proizlaze iz poslušnosti porukama koje su ti proroci prenosili.
+
+Bog koristi dar proroštva radi pet ključnih ciljeva: 1. Da otkrije sebe, svoju istinu i svoju volju palom čovječanstvu. 2. Da pruži uvide i savjete u vezi s važnim prilikama i zbivanjima. 3. Da opremi Kristovo tijelo — Crkvu - za misiju. 4. Da pruži duhovno ohrabrenje svojim sljedbenicima. 5. Da osvijesti grešnike i pozove ih na pokajanje. Osim toga, "duh proroštva" jedan je od dva prepoznatljiva obilježja Božje crkve ostatka posljednjeg vremena (Otkrivenje 12,17; 19,10).
+
+Bog je toliko posvećen sigurnom vođenju izgubljenih kući da je dar proroštva osigurao i za posljednje dane (Joel 2,28-31). Adventisti sedmoga dana vjeruju s puno vrlo dobrih razloga da se u službi Ellen G. White, jednog od suosnivača Crkve, proročki dar očitovao na suvremen način.
+
+Zato ćemo, usporedo s proučavanjem dara proroštva u Svetom pismu, svakog petka istraživati okolnosti i ciljeve pozivanja Ellen G. White u proročku službu. Nama kao Crkvi dan je taj predivni dar. Kako ga na najbolji način možemo upotrijebiti?
+
+Da, od najranijeg djetinjstva pa nadalje, “programirani” smo za to da nam se govori. Koliko je onda bitno da slušamo što nam Božji proroci kažu!
