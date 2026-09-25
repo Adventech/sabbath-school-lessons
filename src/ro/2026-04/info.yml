@@ -4,8 +4,8 @@
   human_date: "Octombrie · Noiembrie · Decembrie 2026"
   start_date: "26/09/2026"
   end_date: "25/12/2026"
-  color_primary: "#A56751"
-  color_primary_dark: "#87503D"
+  color_primary: "#723893"
+  color_primary_dark: "#4F1073"
   splash: true
   credits:
     - name: Autor
