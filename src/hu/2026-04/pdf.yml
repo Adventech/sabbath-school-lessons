@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-Intro.pdf
+      title: Bevezetés
+      target: hu/2026-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-01.pdf
+      target: hu/2026-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-02.pdf
+      target: hu/2026-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-03.pdf
+      target: hu/2026-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-04.pdf
+      target: hu/2026-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-05.pdf
+      target: hu/2026-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-06.pdf
+      target: hu/2026-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-07.pdf
+      target: hu/2026-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-08.pdf
+      target: hu/2026-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-09.pdf
+      target: hu/2026-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-10.pdf
+      target: hu/2026-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-11.pdf
+      target: hu/2026-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-12.pdf
+      target: hu/2026-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/hu/2026-04/ABSG-2026-04-HU-13.pdf
+      target: hu/2026-04/13

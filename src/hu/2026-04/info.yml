@@ -4,8 +4,8 @@
   human_date: "Október · November · December 2026"
   start_date: "26/09/2026"
   end_date: "25/12/2026"
-  color_primary: "#3D1F20"
-  color_primary_dark: "#261213"
+  color_primary: "#723893"
+  color_primary_dark: "#4F1073"
   splash: true
   credits:
     - name: Írták
