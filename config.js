@@ -392,7 +392,11 @@ var BIBLE_PARSER_CONFIG = {
   "zu": [
     "zul59"
   ],
-  "tw": ["asw"]
+  "tw": ["asw"],
+  "kz": ["kk2010"],
+  "ky": ["kyrohc"],
+  "tg": ["km92"],
+  "uz": ["uzmk"],
 };
 
 module.exports = BIBLE_PARSER_CONFIG;
