@@ -21,4 +21,4 @@ As president, Močnik gave the Adventist faith a public voice in a hostile polit
 
 Močnik’s legacy was carved through hardship and relentless faith. From the moment he chose life on a bridge in Bremerhaven to his bold witness across Croatia and beyond, Albin Močnik became a pioneer of hope. His story is a testimony to the transformative power of the gospel and the courage of those who carry it to new frontiers.
 
-_Adapted from the Encyclopedia of Seventh-day Adventists, available at encyclopedia.adventist.org._
+_Adapted from the Encyclopedia of Seventh-day Adventists, available at https://encyclopedia.adventist.org._
