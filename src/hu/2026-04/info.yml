@@ -1,0 +1,44 @@
+---
+  title: "A prófétaság ajándéka"
+  description: "Isten úgy teremtett bennünket, hogy pólyáskorunktól kezdve szóljanak hozzánk. Mennyire fontos tehát, hogy hallgassunk arra, amit Isten prófétái mondanak nekünk!"
+  human_date: "Október · November · December 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#3D1F20"
+  color_primary_dark: "#261213"
+  splash: true
+  credits:
+    - name: Írták
+      value: "Az Ellen G. White Intézet munkatársai"
+    - name: Fordította
+      value: "Zarkáné Teremy Krisztina"
+    - name: Korrektor
+      value: "Fürjné Simon Edina"
+    - name: Felelős kiadó
+      value: "Ócsai Tamás"
+    - name: Felelős szerkesztő
+      value: "Zarkáné Teremy Krisztina"
+    - name: Kiadja
+      value: "Hetednapi Adventista Egyház"
+    - name: Ügyintézés
+      value: "Dr. Tokics Imréné"
+    - name: Nyomdai előkészítés
+      value: "Ecsedi Gabriella"
+    - name: Nyomdai munkálatok
+      value: "Szőllősy Műhely, Debrecen"
+    - name: Felelős vezető
+      value: "Szőllősy Botond"
+    - name: ISBN
+      value: "978-615-7060-03-6"
+    - name: Az EGW mellékletet fordította
+      value: "Bartha Sándor"
+    - name: Az EGW melléklet kiadója
+      value: "Viaţă şi Sănătate Kiadó, Pantelimon, Románia"
+    - name: Az EGW melléklet kiadás koordinátora
+      value: "Szász Ernő"
+    - name: EGW melléklet korrektúra
+      value: "Czinkotáné Szikszai Katalin"
+    - name: EGW melléklet tördelés
+      value: "Czinkota András"
+    - name: EGW melléklet ISBN
+      value: "978-606-087-823-0"
