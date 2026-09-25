@@ -1,0 +1,22 @@
+---
+  title: "Darul Profeției"
+  description: "Experții în neuroștiințe au început să înțeleagă capacitatea uimitoare a bebelușilor de a învăța diferite limbi. La șase luni, un bebeluș poate înțelege sunete care alcătuiesc cuvinte din oricare dintre cele peste 7.000 de limbi vorbite."
+  human_date: "Octombrie · Noiembrie · Decembrie 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#A56751"
+  color_primary_dark: "#87503D"
+  splash: true
+  credits:
+    - name: Autor
+      value: "Patrimoniul Ellen G. White (Ellen G. White Estate)"
+    - name: Traducere
+      value: "Loredana-Andreea Weiss"
+    - name: Lectură
+      value: "Daniel Brînzan"
+    - name: Redactare
+      value: "Delia-Mirela Buciuman"
+    - name: Grafică și Tehnoredactare
+      value: "Irina Toncu"
+    - name: Copertă
+      value: "Liliana Dincă"
