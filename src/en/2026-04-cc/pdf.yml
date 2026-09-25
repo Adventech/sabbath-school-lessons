@@ -1,0 +1,142 @@
+---
+  pdf:
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-Intro.pdf'
+      target: en/2026-04-cc/introduction
+      title: Introduction
+      start_date: 26/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-01.pdf'
+      target: en/2026-04-cc/01
+      title: Know God, Know Yourself
+      start_date: 26/06/2026
+      end_date: 02/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-02.pdf'
+      target: en/2026-04-cc/02
+      title: Shut Door. Open Books.
+      start_date: 03/07/2026
+      end_date: 09/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-03.pdf'
+      target: en/2026-04-cc/03
+      title: The SINdrome
+      start_date: 10/07/2026
+      end_date: 16/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-04.pdf'
+      target: en/2026-04-cc/04
+      title: Good Over Evil
+      start_date: 17/07/2026
+      end_date: 23/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-05.pdf'
+      target: en/2026-04-cc/05
+      title: The Deadly Lie
+      start_date: 24/07/2026
+      end_date: 30/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-06.pdf'
+      target: en/2026-04-cc/06
+      title: True Power
+      start_date: 31/07/2026
+      end_date: 06/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-07.pdf'
+      target: en/2026-04-cc/07
+      title: The World’s Worst Terrorist
+      start_date: 07/08/2026
+      end_date: 13/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-08.pdf'
+      target: en/2026-04-cc/08
+      title: Discovering Daily Disciplines
+      start_date: 14/08/2026
+      end_date: 20/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-09.pdf'
+      target: en/2026-04-cc/09
+      title: Run for Your Life
+      start_date: 21/08/2026
+      end_date: 27/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-10.pdf'
+      target: en/2026-04-cc/10
+      title: The Time of Trouble
+      start_date: 28/08/2026
+      end_date: 03/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-11.pdf'
+      target: en/2026-04-cc/11
+      title: The End of the World as We Know It
+      start_date: 04/09/2026
+      end_date: 10/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-12.pdf'
+      target: en/2026-04-cc/12
+      title: Wiping the Slate Clean
+      start_date: 11/09/2026
+      end_date: 17/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-13.pdf'
+      target: en/2026-04-cc/13
+      title: Earth’s Makeover
+      start_date: 18/09/2026
+      end_date: 24/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-Intro.pdf'
+      target: en/2026-04-cc/introduction
+      title: Teacher
+      start_date: 26/06/2026
+      end_date: 26/06/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-01.pdf'
+      target: en/2026-04-cc/01
+      title: Teacher
+      start_date: 26/06/2026
+      end_date: 02/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-02.pdf'
+      target: en/2026-04-cc/02
+      title: Teacher
+      start_date: 03/07/2026
+      end_date: 09/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-03.pdf'
+      target: en/2026-04-cc/03
+      title: Teacher
+      start_date: 10/07/2026
+      end_date: 16/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-04.pdf'
+      target: en/2026-04-cc/04
+      title: Teacher
+      start_date: 17/07/2026
+      end_date: 23/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-05.pdf'
+      target: en/2026-04-cc/05
+      title: Teacher
+      start_date: 24/07/2026
+      end_date: 30/07/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-06.pdf'
+      target: en/2026-04-cc/06
+      title: Teacher
+      start_date: 31/07/2026
+      end_date: 06/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-07.pdf'
+      target: en/2026-04-cc/07
+      title: Teacher
+      start_date: 07/08/2026
+      end_date: 13/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-08.pdf'
+      target: en/2026-04-cc/08
+      title: Teacher
+      start_date: 14/08/2026
+      end_date: 20/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-09.pdf'
+      target: en/2026-04-cc/09
+      title: Teacher
+      start_date: 21/08/2026
+      end_date: 27/08/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-10.pdf'
+      target: en/2026-04-cc/10
+      title: Teacher
+      start_date: 28/08/2026
+      end_date: 03/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-11.pdf'
+      target: en/2026-04-cc/11
+      title: Teacher
+      start_date: 04/09/2026
+      end_date: 10/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-12.pdf'
+      target: en/2026-04-cc/12
+      title: Teacher
+      start_date: 11/09/2026
+      end_date: 17/09/2026
+    - src: 'https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-04/ABSG-2026-04-EN-CC-TG-13.pdf'
+      target: en/2026-04-cc/13
+      title: Teacher
+      start_date: 18/09/2026
+      end_date: 24/09/2026
