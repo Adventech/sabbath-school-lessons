@@ -19,4 +19,4 @@ Elsa returned to Finland, and, in the late 1960s, she launched the Adventist Wel
 
 By the time of her death in 1996, Elsa had led more than 700 people to Christ and helped establish multiple churches. Honored in 1975 during International Women’s Year, she remained a bold, tireless voice for mission, undeterred by hardship, war, or poverty.
 
-_Adapted from the Encyclopedia of Seventh-day Adventists, available at encyclopedia.adventist.org_
+_Adapted from the Encyclopedia of Seventh-day Adventists, available at https://encyclopedia.adventist.org_

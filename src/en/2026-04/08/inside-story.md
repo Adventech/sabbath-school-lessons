@@ -19,4 +19,4 @@ In 1908, illness forced his family’s return to the United States, but Andross�
 
 Elmer E. Andross was more than an administrator. He was a pioneer with a pastor’s heart. His years in England testify to the power of faith, sacrifice, and vision to shape history. Through him, the Adventist flame burned bright across Britain’s shores, and it continues to shine to this day.
 
-_Adapted from the Encyclopedia of Seventh-day Adventists, available at encyclopedia.adventist.org._
+_Adapted from the Encyclopedia of Seventh-day Adventists, available at https://encyclopedia.adventist.org._
