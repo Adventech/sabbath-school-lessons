@@ -162,10 +162,10 @@ let downloadUKAudio = async function() {
     }
 
     try {
-        let e = `2758c920be4b2529b79601a58fa5ad8f7af30b591b14b635a12e6d04220a5d817858c0b203f575e8685c71435ab5c9bdc5c8ef9840b23e6eca2118e130ec7bba|88045e891be09256e3d5cd40df5159e6`
-        const key = crypto.scryptSync(GITHUB_TOKEN, 'salt', 24)
+        let e = `2758c920be4b2529b79601a58fa5ad8f7af30b591b14b635a12e6d04220a5d817858c0b203f575e8685c71435ab5c9bdc5c8ef9840b23e6eca2118e130ec7bba|88045e891be09256e3d5cd40df5159e6|f3a1c9e8b6d4a27f5e0c8b3d9a6f1e4c`
         const DATE_FORMAT = "YYYY-MM-DD"
-        const [enc, iv] = e.split("|");
+        const [enc, iv, salt] = e.split("|");
+        const key = crypto.scryptSync(GITHUB_TOKEN, Buffer.from(salt, 'hex'), 24)
         const decipher = crypto.createDecipheriv(algorithm, key, Buffer.from(iv, "hex"));
         const REMOTE_URL = decipher.update(enc, 'hex', 'utf8') + decipher.final('utf8');
 
