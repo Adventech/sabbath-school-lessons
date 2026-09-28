@@ -340,6 +340,18 @@ let spanishVideo = async function () {
 
     await weeklyVideo(
         "es",
+        "Nuevo Tiempo Chile",
+        {
+            artist: "Nuevo Tiempo Chile",
+            clips: []
+        },
+        function (targetDate, targetQuarter, year, week) {
+            return `https://sabbath-school-media-tmp.s3.amazonaws.com/es/hope/es-${targetQuarter}-${String(week).padStart(2, '0')}.mp4`
+        }
+    )
+
+    await weeklyVideo(
+        "es",
         "Escuela Sabática Like",
         {
             artist: "Escuela Sabática Like",
