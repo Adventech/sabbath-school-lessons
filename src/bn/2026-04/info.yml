@@ -1,0 +1,20 @@
+---
+  title: "ভাববাণীর বর"
+  description: "ভাববাণীর বর"
+  human_date: "অক্টোবর · নভেম্বর · ডিসেম্বর 2026"
+  start_date: "26/09/2026"
+  end_date: "25/12/2026"
+  color_primary: "#5A2C32"
+  color_primary_dark: "#541B23"
+  splash: true
+  credits:
+    - name: রচয়িতা
+      value: "ঈলেন জি. হোয়াইট এস্টেট"
+    - name: বঙ্গানুবাদ
+      value: "মিল্টন সরকার"
+    - name: সম্পাদনা
+      value: "রুবেন কিস্কু, সমীর সমদ্দার"
+    - name: প্রকাশক
+      value: "রুবেন কিস্কু"
+    - name: সার্বিক সহযোগিতা
+      value: "প্রভাতী বৈদ্য"
