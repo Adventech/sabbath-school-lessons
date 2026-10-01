@@ -1,7 +1,16 @@
 ---
   audio:
+    - artist: Průvodce studiem Bible - Úvod
+      tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q4/2026_Q4-uvod.mp3
+          title: Úvod
+          target: cs/2026-04/01
     - artist: Průvodce studiem Bible
       tracks:
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q4/2026_Q4_01-1.mp3
+          target: cs/2026-04/01/01
+        - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q4/2026_Q4_01-2.mp3
+          target: cs/2026-04/01/02
         - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q4/2026_Q4_01-3.mp3
           target: cs/2026-04/01/03
         - src: https://radvanice.casd.cz/sobotniskola/audio/2026_Q4/2026_Q4_01-4.mp3
