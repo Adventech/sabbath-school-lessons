@@ -1,0 +1,20 @@
+---
+title:  Ka Jingïathuhkhanna Kaba Jia Shisha
+date:   20/11/2026
+---
+
+### Ka Jingpynmeh ïa Ka Ding
+
+Ha kaba kut jong ka spah snem kaba khatkhyndai, ka Balang Adventist ka la iakynduh ïa ki jingduhnong kiba khraw: ki nongsdang kiba nyngkong ki la khlad noh, ki jingkhyllem ha ki jinghikai ki la buh jingma ïa ka jingiatylli, bad ki jingtei jong ki tnat treikam ki la duh noh ha ka ding. Hynrei na kane ka jingkhihwin ka la mih ka pateng thymmai jong ki nongialam ki ban rah ïa ka khubor shakhmat da ka jingsngewtynnat kaba thymmai. Hapdeng jong ki la don u Elmer Ellsworth Andross.
+
+La kha ïa u Andross ha u snem 1868 ha Minnesota, u la angnud ïa ka spah bad ka nam ha ka sAiñ pyrthei, wat ha kaba u la pynkhreh ruh ban ioh ïa ka kam ha ka kam Aiñ. Hynrei ki jingthmu jong u ki la shah pynthut ha ka jingkhot ba kynja Blei ban iasoh bad ka jingshakri gospel. Da kaba aiti ïa ka jingangnud pyrthei, u la jied ïa ka jingim jong u mishoneri bad u la pdiang ïa ka jingkhot kaba shlur ha ka snem 1899: ban rah ïa ka khubor Adventist sha England. Ka la long ka duna ha ka liang ka pisa tyngka. Ka Foreign Mission Board kam shym la lah ban ai jingkular ïa ka jingkyrshan, hynrei u Andross bad ka tnga jong u, ka Sophie, ki la mih shabar da ka jingngeit bad ki la poi sha Liverpool kaba dap da ka jingkyrmen.
+
+Kata ka jingkyrmen ka la sei soh shen. Ha Liverpool, u Andross u la iarap ban sdang ïa ka Balang thymmai kaba shongshit kaba don kumba 40 ngut ki dkhot. Ha ka snem 1900, u la ialap ha Midlands, bad shen hadien kata, ha Birmingham. Ha kaba kut jong u bnai Jylliew, ki la don 16 ngut ki nongsumar Sabbaton kiba thymmai, bad ka jingsngewtynnat ka la nang kiew. Ha u bnai Lber, wat hapdeng ka jinglong ka suinbneng kaba khlem sangeh jong ka ri Bilat, u Andross u la iathuh da ka jingkmen, “Kumba laiphew ngut ki briew ki la kular ban sumar ïa ka Sabbaton... Ngam pat ju iohi ïa ki briew kiba i kumba ki kham sngewbha ïa ka jingshisha... Hooid ki angel ki la pynkhreh ïa ka lynti ha khmat jong ngi.”
+
+Ha ka snem 1902, u Andross u la shah thung kum u president jong ka North England Conference. Hapoh ka jingialam jong u, ka jingdon ki dkhot ha North England ka la nang kiew haduh ar shah, bad ka jingdon ki balang ka la nang kiew na ka hynñiew sha ka khat hynñiew tylli.
+
+Ha ka snem 1905, la thung ïa u ban ialam ïa ka jingialang jong ka British Union Conference. Kum u president jong ka seng, u Andross u la pynbha shibun ïa ka jingdonkam pisa jong ka seng haduh ba u la lah ban pynbna ba, lada ka jingkiew ka dang iai bteng, shen kin ym donkam ïa ka jingkyrshan pisa na ka General Conference. U la seng ïa ka jaka treikam jong ka Stanborough Park ha ka snem 1907 bad u la kyrshan ïa ka jingshna ïa ki jaka shon kot, jaka hikai, bad ki jaka trei ïa ka koit ka khiah, baroh ki long kiba donkam na ka bynta ka jingdon jong ka mishon kaba neh. Ha ka jinglong president jong u kaba lai snem, ka British Union ka la iohi ïa ka jingkiew jong ki dkhot da 42 percent, bad ka jingdon jong ki balang ba la organise ruh ka la nang kiew, na ka 31 sha ka 52.
+
+Ha ka snem 1908, ka jingpang ka la pynbor ïa ka iing ka sem jong u ban leit phai noh sha ri America, hynrei ka pateng jong u Andross ha England ka la neh. Kaei kaba la sdang ha ki ïingjaiñ bad ki hall ba la shim ram ka la san sha ka jingïaid lynti kaba la buh ryntih, kaba thymmai bad ka jingseng ïa ka balang kaba don ka jingmut mishon kaba la pynkhreh ban ïakynduh ïa ka spah snem kaba arphew.
+
+U Elmer E. Andross u la long kham palat ban ïa u nongpyniaid. U la long u nongsdang uba don ka dohnud jong u pastor. Ki snem jong u ha England ki sakhi ïa ka bor jong ka jingngeit, ka jingaiti bad ka jingthmu ban pynwan dur ïa ka histori. Lyngba jong u, ka ding Adventist ka la thang phyrnai kylleng ki rud duriaw jong ka ri Bilat, bad ka dang iai bteng haduh kine ki sngi.

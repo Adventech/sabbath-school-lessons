@@ -20,3 +20,8 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2026-04-01.mp4
           target: en/2026-04/01
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/iiw/iiw-en-2026-04-01.webp
+    - artist: Amazing Facts Study Hour
+      clips:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-04-01.mp4
+          target: en/2026-04/01
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/en/af/en-af-2026-04-01.webp
