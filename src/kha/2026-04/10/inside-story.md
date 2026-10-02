@@ -1,0 +1,20 @@
+---
+title:  Ka Jingïathuhkhanna Kaba Jia Shisha
+date:   04/12/2026
+---
+
+### Sha Finland Da Ka Jingieit: Ka Kam Mission Jong Ka Elsa Luukkanen
+
+La kha ïa ka Elsa Luukkanen ha ka 20 tarik u Naiwieng 1916 ha Sortavala, Finland bad ka la heh la san ha ka jingduk. Ha ka rta kaba 16 snem, hadien ba ka la leit sha ki jingiaseng pynshit jong ki Adventist, la pynbaptis ïa ka— ka rai kaba la pynduh ïa ka, shipor, ïa ka iing bad ka kam jong ka namar ka jingrakhe ïa ka Sabbaton jong ka. Hynrei, wat hapdeng ka jingshah kyntait bad jingeh, ka la ieng skhem, bad ka jingleit jong ka kum ka nongkhring mynsiem ka la sdang.
+
+Ha ka rta kaba 17 snem, ka Elsa ka la ialam ïa u briew ba nyngkong jong ka sha U Khrist. Ha ka rta kaba 19 snem, ka la ialap. Ka kam kren kaba kongsan kaba nyngkong eh jong ka ka la wan ha ka por Esther ba ka leit jngoh ïa ka Laukaa, ha kaba ki nongshong shnong ki la pynbna ïa ka kum ka nongkren ha ka sngi Good Friday.
+
+Da ka jingkyrshan jong uwei u dkhot balang, ka Elsa ka la pule ha ka skul mishon Adventist Toivonlinna. Nangta ka la trei kum ka leatrature evangelist shuwa ban long ka nongtrei Baibl. Haba la khie ka thma bah ba-ar bad la khot ïa ki shynrang, ka Elsa bad u para nongtrei Baibl u Aiño Varma Lehtoluoto ki la rah ïa ka gospel kylleng ka ri Finland, da kaba pynlong ïa ki jingiaseng ialap ha ki shnong kum ha Joensuu, Pieksämäki, bad Varkaus.
+
+Wat hapdeng ka por thma bad jingia pyrshah, teng teng wat la khanglad ban leit sha ki jaka ki ïing hall paidbah, ka Elsa ka la iai bteng. Ki jingiaseng jong ka ki khring ïa ki paidbah kiba bun, bad ka jingialap kaba ktah mynsiem jong ka, kaba bunsien ryngkat bad ka jingrwai bad ka jingtem guitar, ka la pynkhih ïa kiba bun ki dohnud. Ha Joensuu, ka jingdon jong ki Adventist ka la roi na ka san ngut sha ka 150 ngut tang hapoh ar snem, kaba la pynlong ïa ka balang kaba thymmai. Kiwei pat ki balang ki la bud shen ha kiwei pat ki nongbah. Uwei u paralok jong ka u la batai ïa ka kum “ka nongialap kaba dap da u mynsiem, ka nongkren kaba tbit bha kaba pynkhih ïa ki dohnud bad ki jingmut jingpyrkhat sha U Blei.”
+
+Hadien ka thma, ka jingktah jong ka ka la nang kiew. Ha Helsinki ha ka snem 1957, ka la ialap haduh lai sien ha ka shisngi ha ki paidbah kiba la dap lut, kaba la pynlong ïa ka jingpynbaptis ïa ki 80 ngut. Ka jingtrei jong ka ka la long kaba khlem sangeh haduh katta katta ba ka jingialang ka la kyrpad ïa ka ban shim shuti. Hynrei na ka bynta ka Elsa, ka jingjahthait ka mut ka mishon kaba kham bun. Hajan ka Aiño, ka la leit jngoh ïa ki shnong jong ki nongwan buhai shnong na Finland ha America Sepngi, ka la ialap, ka la rwai bad ka la kyrshan ïa lade lyngba ka jingshna bad suh jaiñ. Ka la khot ïa ka “ka jingialap ha ka por shuti.”
+
+Ka Elsa ka la leit phai biang sha Finland, bad, ha kaba kut jong ki snem 1960, ka la seng ïa ka Adventist Welfare Society, da kaba sam da ki phew hajar tylli ki jAiñkup blanket bad ki jAiñphong ha kylleng ki jaka baduk jong ka Europe Mihngi. Ka bad u Aiño ki la lum pisa bad ki la suh jaiñ ban tei ïa ka iingmane bad ka welfare center ba thymmai ha Kajaani. “Ngam lah ban shu ialap,” ka la ong shisien. “Kum ka kmie kaba kynja mynsiem, nga la hap ban wad ïing na ka bynta ki khun jong nga.” Ka Elsa Luukkanen ka la shem bad tei ïa kita ki iing ha kylleng ka ri Finland, da kaba iehnoh shadien ïa ka pateng jong ka jingdon jingem jong ka jingsngewlem bad ka jingshitrhem ha ka jingialap gospel kaba ym lah ban khang.
+
+Ha ka por ba ka iap ha ka snem 1996, ka Elsa ka la ialam palat 700 ngut ki briew sha U Khrist bad ka la iarap ban seng bun tylli ki balang. La pynkup burom ïa ka ha ka snem 1975 ha ka snem jong ki kynthei ha ka pyrthei, ka la sah kum ka sur kaba shlur, kaba khlem sangeh na ka bynta ka mishon, kaba khlem shah pynthut ha ki jingeh, ka thma, ne ka jingduk.
