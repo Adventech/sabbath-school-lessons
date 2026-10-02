@@ -6,6 +6,7 @@
   end_date: "25/12/2026"
   color_primary: "#54292F"
   color_primary_dark: "#3E1E22"
+  splash: true
   credits:
     - name: Umwanditsi W'iki kigisho
       value: "The Ellen G. White Estate"
