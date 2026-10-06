@@ -16,4 +16,4 @@ God is so invested in guiding the lost safely home that He provides the gift of 
 
 From infancy onward, we have been wired to be spoken to. How important, then, that we listen to what God’s prophets tell us!
 
-_This inVerse Study Guide was produced by the ministry team of the White Estate office, in Silver Spring, Maryland (www.WhiteEstate.org). By sharing Ellen White’s prophetic ministry and writings throughout the world (www.EGWWritings.org), the Ellen G. White Estate, Inc., supports the mission of the Seventh-day Adventist Church in uplifting Jesus Christ and His Word._
+_This inVerse Study Guide was produced by the ministry team of the White Estate office, in Silver Spring, Maryland (https://whiteestate.org). By sharing Ellen White’s prophetic ministry and writings throughout the world (www.EGWWritings.org), the Ellen G. White Estate, Inc., supports the mission of the Seventh-day Adventist Church in uplifting Jesus Christ and His Word._
