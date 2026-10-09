@@ -3,15 +3,13 @@ title:  Misijní příběh
 date:  09/10/2026
 ---
 
-_(Text přeložený pomocí automatického překladače)_
-
 #### Od drogového dealera . . .
 
 _Misijní redaktor_
 
-Matthew a Martin byli Markovými nejlepšími přáteli. Když se ve škole strhla rvačka, na vině byli vždy titíž tři teenageři: Matthew, Martin a Marek. Dnes je Matthew po smrti, Martin strávil sedm let ve vězení a Marek je bývalý drogový dealer, který slouží jako jeden z vedoucích Církve adventistů sedmého dne v Polsku. Co se stalo?
+Matouš a Martin byli Markovými nejlepšími přáteli. Když se ve škole strhla rvačka, na vině byli vždy titíž tři teenageři: Matouš, Martin a Marek. Dnes už je Matouš po smrti, Martin strávil sedm let ve vězení a Marek je bývalý drogový dealer, který slouží jako jeden z vedoucích Církve adventistů sedmého dne v Polsku. Co se stalo?
 
-Marek vyrůstal v křesťanské rodině v jižním Polsku. V osmnácti letech se mu však život zhroutil, když ho opustila dívka. Rozhodl se modlit: „Bože, chci ji zpátky.“ Nic se nestalo. Pak se modlil: „Bože, už se nechci znovu probudit.“ Stále se nic nedělo.
+Marek vyrůstal v křesťanské rodině v jižním Polsku. V osmnácti letech se mu však život zhroutil, když ho opustila dívka. Rozhodl se modlit: „Bože, chci ji zpátky.“ Nic se ale nestalo. Pak se modlil: „Bože, už se nechci znovu probudit.“ Stále se nic nedělo.
 
 Marek se přestal modlit a stal se ateistou. Začal brát drogy. Potom se jeho kamarád Martin rozhodl drogy prodávat a nabídl Markovi, aby se k němu přidal. Marek byl brzy úspěšný jak v prodeji drog, tak v jejich užívání.
 
@@ -19,7 +17,7 @@ Uplynuly dva roky a Marek nemohl najít nikoho, kdo by s ním šel na velký sil
 
 V tu noc se přistihl, jak v babiččině domě hledí na obraz Ježíše. Pomyslel si: _I když v Boha nevěřím, Ježíš skutečně žil_. Vzpomněl si, jak jako chlapec četl Bibli.
 
-O několik dní později Marek navštívil věštkyni, která mu slíbila odhalit budoucnost. Zamíchala karty a varovala před koncem světa. Ohromený Marek se zeptal, kdy nastane konec světa. Řekla, že přesně za rok.
+O několik dní později Marek navštívil ženu, která mu slíbila odhalit jeho budoucnost. Zamíchala karty a varovala před koncem světa. Ohromený Marek se zeptal, kdy nastane konec světa. Řekla, že přesně za rok.
 
 Marek začal číst knihu Zjevení v naději, že se dozví, jak svět skončí, ale ničemu nerozuměl. Když se však obrátil k evangeliím, s úžasem zjistil, že Ježíš má království, kde lidé budou šťastní a budou žít navěky.
 
