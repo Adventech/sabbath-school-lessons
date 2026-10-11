@@ -38,7 +38,7 @@ date:   16/10/2026
 -   Fragen zur Botschaft:
     -   Was bewundert ihr an wahren Propheten?
 
-''' 1.Samusel 8,4-7
+**1.Samuel 8,4-7**
 
 -   Fragen zum Text:
     -   Welche private Meinung hat Samule zur Situation?
