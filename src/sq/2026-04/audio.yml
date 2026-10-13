@@ -1,0 +1,6 @@
+---
+  audio:
+    - artist: Sabbath School
+      tracks:
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/sq/2026-04/ABSG-2026-04-SQ-03.mp3
+          target: sq/2026-04/03/01
