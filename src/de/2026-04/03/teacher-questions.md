@@ -43,7 +43,7 @@ date:   16/10/2026
 -   Fragen zum Text:
     -   Welche private Meinung hat Samule zur Situation?
     -   Welche Reaktion zeigt Samuel?
-    -   Wie agiert Samule danach? Wie versucht er auch später, König
+    -   Wie agiert Samuel danach? Wie versucht er auch später, König
         Saul zu unterstützen?
 -   Fragen zur Botschaft:
     -   Welche Rollen hatten die Propheten auszufüllen? (sie hatten mit
