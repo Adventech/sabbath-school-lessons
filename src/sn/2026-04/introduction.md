@@ -1,0 +1,21 @@
+#### Chipo cheChiporofita
+
+Nyanzvi dzezveurapi hwetsinga dzemuviri dzavana dzave kutanga kunzwisisa kugona kunoshamisa kwevana vadiki pakudzidza mutauro. Kana mwana ava nemwedzi mitanhatu, anogona kunzwisisa manzwi anoumba mazwi eChirungu, kana mazwi emumwe wemimwe mitauro anodarika 7,000 inotaurwa munyika. Kana mwana achigara achinzwa mutauro wechipiri, anogonawo kudzidza mutauro iwoyo. Panguva iyi, zvinoita sokuti suo risinganzwisisiki remupfungwa rinovhurika, richibvumira vana kusiyanisa manzwi anenge makumi mana anowanzoumba mutauro waamai kubva pamanwi mazana masere avanokwanisa kunzwa pakuzvarwa. Asi pane chinhu chimwe chakakosha: vana vanofanira kutaurirwa. Tingati izvi zvidzidzo zvenzwi kuvana vachangoberekwa.
+
+Sei Mwari akatisika tiine kugona kunoshamisa uku kwekunzwa nekuziva matauriro uye kudzidza mitauro kana Aisamboda kutaura nesu? Mubvunzo uyu haudi mhinduro, nokuti Bhaibheri rinotaura richiti, “Mwari, uyo wakataura kare kumadzibaba navaporofita panguva zhinji nenzira zhinji, pamazuva ano okupedzisira akataura kwatiri noMwanakomana, waakagadza kuti ave mugari wenhaka yezvinhu zvose, waakasikawo nyika naye” (VaHebheru 1:1, 2, NKJV).
+
+Chivi chakaputsa kudyidzana kwaAdhamu naEvha naMwari, Mwari haana kungovasiya kuti vaparare vari voga. Akauya achivatsvaga vose vari vaviri, achibvunza Adhamu kuti, “Uri kupi?” (Gen. 3:9, NKJV). Akazoenderera mberi achiporofita nezvekuzvarwa kweUyo aizoponesa nyika kubva muchivi (Gen. 3:15). Kubva pakutanga kwacho, ipapo muEdeni mushure meKuwa, chiporofita chakasimudzira Jesu uye chakanongedzera vatadzi kwaari, tariro yavo yoga.
+
+Muchikamu chino chegore tichadzidza nezvechipo chechiporofita, nzira yaMwari yekuzivisa kuda Kwake nenzira Yake kuvanhu vakawira muchivi, avo vasingachakwanisi kudyidzana Naye chiso nechiso. Chipo ichi chakakosha cheMweya Mutsvene chinotaurwa zvakajeka muna 1 VaKorinde 12, 1 VaKorinde 14, VaEfeso 4, na VaRoma 12. Mweya Mutsvene ndiye mugoveri Mukuru wechipo ichi pamwe nezvimwe zvipo zvose zvemweya, “achigovera mumwe nomumwe sezvaanoda” (1 VaKorinde 12:11, NKJV). Kubvira kare, vakapiwa zvipo zvemweya vakasvitsa mashoko aMwari kuti vadzore uye vavandudze hukama hwedu naMwari, sezvakaitwa naMwari muEdeni mushure mekuputsika.
+
+Tichadzidza kuti Mwari anodana sei vaporofita uye kuti tingayedza sei chokwadi chebasa ravo. Tichaona kufanana nekusiyana kuripo pakati pevaporofita veTestamende Yekare neveTestamende Itsva, uyewo tichawana kunzwisisa kunoshanda pamusoro pekuti kuratidzwa nekufemerwa zvinoshanda sei muupenyu hwavo. Vamwe vaporofita vakataura, vamwe vakanyora; vamwe vakaita zvose zviri zviviri. Tichaongorora nzira idzi nedzimwe nzira dzekutaura kwaMwari, zvadzinoreva, uye maropafadzo ekuteerera mashoko akasvitswa nevaporofita .
+
+Mwari anoshandisa chipo chechiporofita pazvinangwa zvikuru zvishanu: Kuzviratidza Iye pachake, chokwadi Chake, uye kuda Kwake kuvanhu vakawira muchivi. Kupa kunzwisisa nezano pamusoro pezviitiko nezvinhu zvakakosha. Kugadzirira muviri waKristu—kereke—kuti uite basa remishoni. Kupa kurudziro yemweya kuvateveri Vake. Kumutsa vatadzi uye kuvadanira kukutendeuka. Pamusoro pezvo, “mweya wechiporofita” ndechimwe chezviratidzo zviviri zvinozivisa kereke yaMwari yakasara yemunguva yokupedzisira (Zvakazarurwa 12:17; Zvakazarurwa 19:10).
+
+Mwari akazvipira zvikuru pakutungamirira vakarasika kuti vasvike kumusha vakachengeteka, zvekuti chipo chechiporofita chakapiwawo kumazuva okupedzisira (Joere 2:28–31). MaSeventh-day Adventist anotenda—nezvikonzero zvakanaka kwazvo—kuti Ellen G. White, mumwe wevakatanga kereke, akaratidza kushanda kwechipo chechiporofita munguva yanhasi.
+
+Ndosaka, pamwe chete nekudzidza kwedu chipo chechiporofita muMagwaro, Chishanu chega chega tichaongorora zvakadzama kudanwa kwaEllen G. White kubasa reuporofita. Isu, sekereke, takapiwa chipo ichi chinoshamisa. Tingachishandisa sei nenzira yakanakisisa?
+
+Hongu, kubva paucheche zvichienda mberi, takasikwa tine kugona kwekuti titaurirwe. Saka zvakakosha sei kuti titeerere zvinotaurwa kwatiri nevaporofita vaMwari!
+
+Bhuku iri reAdult Bible Study Guide rakagadzirwa neboka rebasa reWhite Estate office, kuSilver Spring, Maryland. Nokugovera basa nezvinyorwa zvechiporofita zvaEllen White pasi rose, Ellen G. White Estate, Inc., inotsigira basa reSeventh-day Adventist Church mukusimudzira Jesu Kristu neShoko Rake.
