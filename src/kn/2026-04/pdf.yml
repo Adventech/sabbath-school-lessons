@@ -1,0 +1,31 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-Intro.pdf
+      target: kn/2026-04/01
+      title: ಪರಿಚಯ
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-01.pdf
+      target: kn/2026-04/01
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-02.pdf
+      target: kn/2026-04/02
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-03.pdf
+      target: kn/2026-04/03
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-04.pdf
+      target: kn/2026-04/04
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-05.pdf
+      target: kn/2026-04/05
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-06.pdf
+      target: kn/2026-04/06
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-07.pdf
+      target: kn/2026-04/07
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-08.pdf
+      target: kn/2026-04/08
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-09.pdf
+      target: kn/2026-04/09
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-10.pdf
+      target: kn/2026-04/10
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-11.pdf
+      target: kn/2026-04/11
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-12.pdf
+      target: kn/2026-04/12
+    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/kn/2026-04/ABSG-2026-04-KN-13.pdf
+      target: kn/2026-04/13
