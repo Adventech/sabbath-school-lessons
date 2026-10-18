@@ -5,3 +5,6 @@
   cq:
     name: "Lesona Tanora Zokiny"
     order: 200
+  cc:
+    name: "Lesona Zatovo"
+    order: 300
