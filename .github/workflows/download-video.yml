@@ -11,6 +11,10 @@ jobs:
     if: (github.repository == 'Adventech/sabbath-school-lessons')
     runs-on: self-hosted
     steps:
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Install FFMPEG
         uses: FedericoCarboni/setup-ffmpeg@v3
         id: setup-ffmpeg
