@@ -3,15 +3,13 @@ title:  Misijní příběh
 date:  06/11/2026
 ---
 
-_(Text přeložený pomocí automatického překladače)_
-
 #### „Bůh je na prvním místě“: 1. část
 
-_Gina Wahlenová_
+_Gina Wahlen_
 
-Naum se musel postavit za svou víru již v útlém věku sedmi let. V Jugoslávii byla školní docházka povinná každou sobotu. Ačkoli byl Naum ještě malý, byl rozhodnutý v sobotu do školy nechodit. Když zameškal dvě soboty po sobě, musel tento prvňáček předstoupit před zvláštní komisi zřízenou k jeho výslechu.
+Naum se musel postavit za svou víru již v útlém věku sedmi let. V Jugoslávii byla školní docházka povinná také každou sobotu. Ačkoli byl Naum ještě malý, byl rozhodnutý v sobotu do školy nechodit. Když zameškal dvě soboty po sobě, musel tento prvňáček předstoupit před zvláštní komisi zřízenou k jeho výslechu.
 
-Skupina pěti úředníků přišla do jeho třídy a poslala všechny děti pryč – ve třídě zůstal jen Naum.
+Skupina pěti úředníků přišla do jeho třídy a poslala všechny děti pryč, kromě Nauma.
 
 Sedmiletý chlapec stál osamocen a statečně čelil řediteli školy, dvěma učitelům a dvěma uniformovaným policistům – z nichž jeden byl krajským velitelem tajné policie.
 
@@ -19,9 +17,9 @@ Sedmiletý chlapec stál osamocen a statečně čelil řediteli školy, dvěma u
 
 „Protože věřím v Boha a podle čtvrtého přikázání Jeho zákona nemám být v Jeho sobotu ve škole. Proto budu každou sobotu ve sboru, a ne ve škole,“ odpověděl Naum.
 
-„Budeš vyloučen ze školy a už nikdy nedostaneš možnost získat vzdělání!“ zpražil ho muž pohledem.
+„Budeš vyloučen ze školy a už nikdy nedostaneš možnost získat vzdělání!“, probodl ho muž pohledem.
 
-Naumova odpověď přišla bez váhání: „Stejně budu ve sboru, protože Bůh je v mém životě na prvním místě.“
+Naumova odpověď přišla bez váhání: „Stejně budu ve sboru, protože Bůh je v mém životě na prvním místě.“.
 
 „A co vlastně v tom vašem sboru děláte?“ pokračoval vyšetřovatel.
 
@@ -41,7 +39,7 @@ Naum spěchal domů, aby rodičům vyprávěl, co se stalo. Nebyli překvapeni: 
 
 Od komise žádné rozhodnutí nepřišlo, a tak Naum pokračoval ve školní docházce – s výjimkou sobot.
 
-Po dokončení základní školy však Naumovi kvůli jeho pevnému rozhodnutí světit sobotu nebylo dovoleno pokračovat ve vzdělávání. V patnácti letech proto začal na plný úvazek pracovat se svým otcem na jejich rodinném hospodářství.
+Po dokončení základní školy však Naumovi kvůli jeho pevnému rozhodnutí světit sobotu nebylo dovoleno pokračovat ve vzdělávání. V patnácti letech proto začal na plný úvazek pracovat se svým otcem na jejich statku.
 
 Bůh měl však s Naumem jiné plány.
 
