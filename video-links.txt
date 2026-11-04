@@ -1,23 +1,5 @@
-yt-dlp "https://www.youtube.com/watch?v=-pIgVznqjB4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/hopess/en-hopess-2026-04-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=Pdj7b4bMePI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "tp/tp-en-2026-04-06.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=BrWzdThOo9s" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "inv/en-2026-04-inv-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=rxhb8EVQ_b0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/af/en-af-2026-04-05.mp4"
 
-yt-dlp "https://www.youtube.com/watch?v=spefFAG4Xgw" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/hope/es-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=WxDWuC66wCY" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/bul/es-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=1Ax5HAnzTn8" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "es/sum/es-sum-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=G4R9YD_mI7w" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "pt/vivo/pt-vivo-inv-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=_FfKO2SGnG4" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ru/cdp/ru-cdp-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=hxoclLuX5Ts" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ta/ta-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=HUcovP51S-w" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "de/af/de-af-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=Za7uwIh9bzI" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "ro/ro-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=lmc97JEaLwQ" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "hr/hr-2026-04-06.mp4"
-
-yt-dlp "https://www.youtube.com/watch?v=DqnwO6F44c8" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "it/inv/it-2026-04-inv-06.mp4"
+yt-dlp "https://www.youtube.com/watch?v=2rxGliZC1l0" -S vcodec:h264,res:1080,acodec:libmp3lame --merge-output-format mp4 --no-overwrites --write-thumbnail --output "en/af/en-af-2026-04-04.mp4"
