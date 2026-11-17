@@ -43,6 +43,9 @@
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2026-04-07.mp4
           target: ru/2026-04/07
           thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2026-04-07.webp
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2026-04-08.mp4
+          target: ru/2026-04/08
+          thumbnail: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/bul/ru-bul-2026-04-08.webp
     - artist: Изучаем Библию с Виталием Олийником
       clips:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/ru/cdp/ru-cdp-2026-04-02.mp4
