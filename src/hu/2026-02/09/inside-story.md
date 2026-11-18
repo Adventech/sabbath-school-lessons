@@ -17,5 +17,5 @@ Számolta az embereket. 1-2-3. A bankjegy ottmaradt. Tarsis mély lélegzetet ve
 
 Tarsis most 42 éves, rendőrként dolgozik a brazíliai Recife városában. Azt vallja, teljesen logikus volt ez a történet: 5 real tized, 5 real adomány, 40 real ajándék a barátoknak. „Ha több barátomnak ígértem volna segítséget, többet kaptam volna Istentől. Nem leszünk szegényebbek azzal, ha segítünk az embereknek. Isten gondoskodik rólunk. Legyetek hűségesek!”
 
-YouTube videó Tarsisról itt: bit.ly/Tarsis-IS
+YouTube videó Tarsisról itt: https://bit.ly/Tarsis-IS
 

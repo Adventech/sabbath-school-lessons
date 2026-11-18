@@ -19,4 +19,4 @@ Trvalo roky, kým ich konečne prijali v hlavnom meste a kým sa im podarilo ná
 
 Priekopníci dodnes odchádzajú do nezasiahnutých oblastí. Priekopníci ako Taguhi a Aghvan pôsobia v oblasti, kde je veľmi málo adventistov. Prosím, modlite sa za misionárov a priekopníkov Globálnej misie, ktorí začínajú novú prácu v „okne 10/40“, vo veľkých mestách sveta a medzi postkresťanskými ľuďmi. Nech Boh požehná ich prácu pri zdieľaní evanjelia a zakladaní nových modlitebných skupín.
 
-_Priekopníci z Global Mission sú laici vyslaní na zakladanie nových skupín veriacich v nezasiahnutých oblastiach alebo medzi nezasiahnutými etnickými skupinami. Dostávajú malý príspevok a často pracujú vo svojej vlastnej kultúre. Viac informácií o priekopníkoch z Global Mission nájdete na: bit.ly/GMPioneers._
+_Priekopníci z Global Mission sú laici vyslaní na zakladanie nových skupín veriacich v nezasiahnutých oblastiach alebo medzi nezasiahnutými etnickými skupinami. Dostávajú malý príspevok a často pracujú vo svojej vlastnej kultúre. Viac informácií o priekopníkoch z Global Mission nájdete na: https://bit.ly/GMPioneers._

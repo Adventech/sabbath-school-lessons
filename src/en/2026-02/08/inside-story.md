@@ -31,4 +31,4 @@ When Lindsay arrived, she was unfamiliar with the Adventist Church. But she went
 
 Today, Lindsay Chikanda is 24 and finishing her first year of studies. She is ready to tell her high-school friends the truth, saying, “I’m so sorry, but I didn’t tell you the truth. I wasn’t studying. I actually was in Botswana because my parents couldn’t afford to pay my tuition, and I was working with them. But then I came to Solusi, and I found God. Would you like to know God, too?”
 
-_Your Sabbath School mission offerings support Seventh-day Adventist education around the world. Thank you for giving for mission. Watch a short YouTube video of Lindsay at bit.ly/Lindsay-IS._
+_Your Sabbath School mission offerings support Seventh-day Adventist education around the world. Thank you for giving for mission. Watch a short YouTube video of Lindsay at https://bit.ly/Lindsay-IS._

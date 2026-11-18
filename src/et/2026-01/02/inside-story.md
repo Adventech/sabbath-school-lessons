@@ -31,4 +31,4 @@ Evangeeliumi jagades külastab Oscar pühapäeviti mitut kogudust. Keenias on ko
 
 Seitse inimest võttis sealsamas vastu „Prohvetikuulutamise Hääle“ Piibli avastamise õppetükid. Teised olid ettevaatlikud, aga nõustusid hiljem õppetükke võtma. Täna õpib 43 selle koguduse inimest Oscariga koos Piiblit. „Päris hea jumalateenistuse kohta, kus mulle sõna ei antud,“ ütles Oscar naeratusega.
 
-Oscar on kümme aastat tegutsenud Globaalmisjoni teerajajana, juhtinud 120 inimest ristimiseni ja rajanud kaks kogudust. Peagi loodab ta avada kolmanda koguduse. Rohkem saad teada veebilehelt: bit.ly/GMPioneers.
+Oscar on kümme aastat tegutsenud Globaalmisjoni teerajajana, juhtinud 120 inimest ristimiseni ja rajanud kaks kogudust. Peagi loodab ta avada kolmanda koguduse. Rohkem saad teada veebilehelt: https://bit.ly/GMPioneers.

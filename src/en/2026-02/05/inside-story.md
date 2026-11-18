@@ -31,4 +31,4 @@ Then he thought, I wonder if this might be a message from the Lord. Let me find 
 
 With that, the boy nicknamed “Pastor” took a first step toward becoming an Adventist pastor. Today, he knows the truth and is teaching it to others in Kenya.
 
-_Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will support projects in Kenya and elsewhere in the East-Central Africa Division. Read more about Rompas next week, and watch a YouTube video of him at bit.ly/Rompas-IS._
+_Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will support projects in Kenya and elsewhere in the East-Central Africa Division. Read more about Rompas next week, and watch a YouTube video of him at https://bit.ly/Rompas-IS._

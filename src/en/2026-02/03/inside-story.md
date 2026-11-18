@@ -35,4 +35,4 @@ Iolanda Xavier, an 86-year-old great-grandmother, believes that nothing is more 
 
 “Mission is really important,” she said. “All of us were born of God to be missionaries.”
 
-_Part of last quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, went to open a church at Pernambuco Adventist Academy in Brazil’s state of Pernambuco, where Iolanda lives. Thank you for planning a generous offering for this quarter’s projects. Watch a YouTube video of Iolanda at bit.ly/Iolanda-IS._
+_Part of last quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, went to open a church at Pernambuco Adventist Academy in Brazil’s state of Pernambuco, where Iolanda lives. Thank you for planning a generous offering for this quarter’s projects. Watch a YouTube video of Iolanda at https://bit.ly/Iolanda-IS._

@@ -15,5 +15,5 @@ Miriam aznap este is elment az evangelizációra. Odaszaladt Marjorie-hez, és e
 
 „Találjatok időt minden nap a Biblia olvasására, és ne felejtsetek el mindig imádkozni! – biztat mindenkit Marjorie. – A Biblia és az ima mindennek a kulcsa!” Miriam hónapok óta rendszeresen olvassa a Bibliát és imádkozik. A feje már nem lüktet, testében nem érez fájdalmat. A szívét betöltő sötétséget felváltotta a derűs öröm és a buzgó vágy, hogy Istenért éljen. „A Biblia bátorít! Ha Sátán újra zavart akar okozni, rögtön a Biblia ígéreteire hivatkozom és imádkozom” – mondja.
 
-Egy rövid YouTube videó Miriamról itt: bit.ly/Miriam-IS
+Egy rövid YouTube videó Miriamról itt: https://bit.ly/Miriam-IS
 

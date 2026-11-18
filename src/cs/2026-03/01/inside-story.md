@@ -19,4 +19,4 @@ Trvalo roky, než byli v hlavním městě konečně přijati a dokázali najít 
 
 Průkopníci odcházejí do neoslovených oblastí i dnes. Průkopníci jako Taguhi a Aghvan pracují v oblasti s velmi malým počtem adventistů. Modlete se prosím za misionáře a průkopníky Globální misie, kteří začínají novou práci v okně 10/40, ve velkých městech světa a mezi postkřesťanskými lidmi. Kéž Bůh žehná jejich práci při sdílení evangelia a zakládání nových skupin věřících.
 
-_Průkopníci Globální misie jsou laici vysílaní zakládat nové skupiny věřících v dosud neoslovených oblastech nebo mezi neoslovenými skupinami obyvatel. Je jim vyplácen malý příspěvek a často pracují v rámci své vlastní kultury. Zjistěte více o průkopnících Globální misie na anglicky psaných stránkách: bit.ly/GMPioneers._
+_Průkopníci Globální misie jsou laici vysílaní zakládat nové skupiny věřících v dosud neoslovených oblastech nebo mezi neoslovenými skupinami obyvatel. Je jim vyplácen malý příspěvek a často pracují v rámci své vlastní kultury. Zjistěte více o průkopnících Globální misie na anglicky psaných stránkách: https://bit.ly/GMPioneers._

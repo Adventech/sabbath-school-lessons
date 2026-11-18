@@ -31,4 +31,4 @@ Kolme aastaga kasvas palvenimekiri 50 nimeni. Zeth ja ta pereliikmed külastasid
 
 „Neliteist protsenti mu nimekirjast on ristitud,“ ütles Zeth.
 
-_Täname sind su kolmeteistkümnenda hingamispäeva annetuse eest, mida tuntakse ka veerandaasta misjoniprojekti annetuse nime all. See aitab Zethi-taolisi inimesi valmistuda evangeeliumitööks. Klabati ülikool, mis asub Indoneesias Manado lähedal, on eelmise sellise annetuse saaja. Selle veerandaasta annetus aitab sarnaseid koole Ida- ja Kesk-Aafrika divisjonis. Vaata YouTube’i videot Zethist aadressil bit.ly/Zeth-IS._
+_Täname sind su kolmeteistkümnenda hingamispäeva annetuse eest, mida tuntakse ka veerandaasta misjoniprojekti annetuse nime all. See aitab Zethi-taolisi inimesi valmistuda evangeeliumitööks. Klabati ülikool, mis asub Indoneesias Manado lähedal, on eelmise sellise annetuse saaja. Selle veerandaasta annetus aitab sarnaseid koole Ida- ja Kesk-Aafrika divisjonis. Vaata YouTube’i videot Zethist aadressil https://bit.ly/Zeth-IS._

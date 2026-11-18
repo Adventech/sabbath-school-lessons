@@ -31,4 +31,4 @@ Zoznam modlitebníkov sa za tri roky rozrástol na 50 mien. Zeth a jeho rodina z
 
 „Štrnásť percent ľudí z môjho zoznamu bolo pokrstených,“ povedal.
 
-_Ďakujeme vám za váš obetný dar trinástej soboty, známy aj ako štvrťročný misijný obetný dar, ktorý pomáha ľuďom ako Zeth pripraviť sa na evanjelizačnú službu. Klabatská univerzita, nachádzajúca sa neďaleko Manada v Indonézii, je už predchádzajúcim príjemcom obetného daru. Obetný dar v tomto štvrťroku pomôže podobným školám v divízii stredovýchodnej Afriky. Pozrite si video so Zethom na YouTube na bit.ly/Zeth-IS._
+_Ďakujeme vám za váš obetný dar trinástej soboty, známy aj ako štvrťročný misijný obetný dar, ktorý pomáha ľuďom ako Zeth pripraviť sa na evanjelizačnú službu. Klabatská univerzita, nachádzajúca sa neďaleko Manada v Indonézii, je už predchádzajúcim príjemcom obetného daru. Obetný dar v tomto štvrťroku pomôže podobným školám v divízii stredovýchodnej Afriky. Pozrite si video so Zethom na YouTube na https://bit.ly/Zeth-IS._

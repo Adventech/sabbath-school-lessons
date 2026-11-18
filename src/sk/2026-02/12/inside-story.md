@@ -29,4 +29,4 @@ Dnes Zeth študuje teológiu na Klabatskej univerzite v nádeji, že sa naučí,
 
 „Modlite sa za mňa a moju rodinu,“ povedal. „Modlite sa, aby som po skončení štúdia mohol priviesť viac duší do Božieho kráľovstva.“
 
-_Ďakujeme vám za vašu obetu trinástej soboty, známu aj ako štvrťročná misijná obeta, ktorá pomáha ľuďom ako Zeth pripraviť sa na evanjelizačnú službu. Univerzita Klabat, nachádzajúca sa neďaleko Manada v Indonézii, je predchádzajúcim príjemcom obiet. Obeta v tomto štvrťroku pomôže podobným školám v divízii stredovýchodnej Afriky. Pozrite si video so Zethom na YouTube na bit.ly/Zeth-IS._
+_Ďakujeme vám za vašu obetu trinástej soboty, známu aj ako štvrťročná misijná obeta, ktorá pomáha ľuďom ako Zeth pripraviť sa na evanjelizačnú službu. Univerzita Klabat, nachádzajúca sa neďaleko Manada v Indonézii, je predchádzajúcim príjemcom obiet. Obeta v tomto štvrťroku pomôže podobným školám v divízii stredovýchodnej Afriky. Pozrite si video so Zethom na YouTube na https://bit.ly/Zeth-IS._

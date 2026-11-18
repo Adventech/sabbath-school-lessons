@@ -23,4 +23,4 @@ Samal päeval hiljem saatis mees sõnumi, et on meie elamisload kiiremini valmis
 
 Aga need on väikesed eelised eesõiguse kõrval vaadata, kuidas Jumal kasutab iga olukorda, et oma eesmärki ellu viia. Olime Tema poole pöördunud oma suure vajadusega, sest takistused raskendasid meil Tema töö tegemist, ja meie palvele vastates aitas Ta meil paremini täita meie töö eesmärki.
 
-Me nimetame oma riiki varjatuks, kuna hoidume seal teenivate eesliinitöötajate elu ja tegevuse kaitsmiseks selle nime välja ütlemast. Globaalmisjoni koguduste rajamise kohta saad rohkem teada veebilehelt bit.ly/GMPioneers.
+Me nimetame oma riiki varjatuks, kuna hoidume seal teenivate eesliinitöötajate elu ja tegevuse kaitsmiseks selle nime välja ütlemast. Globaalmisjoni koguduste rajamise kohta saad rohkem teada veebilehelt https://bit.ly/GMPioneers.

@@ -35,4 +35,4 @@ Oscara na bohoslužbu, ale keď sa dozvedel, že je adventista, zakázal mu preh
 
 Sedem ľudí okamžite prijalo lekcie „Objavy Biblie“. Ostatní boli spočiatku opatrní, ale neskôr súhlasili. Dnes študuje Bibliu s Oscarom 43 ľudí z cirkvi. „Nie je to zlé na stretnutie, kde mi nebolo dovolené hovoriť,“ povedal s úsmevom.
 
-_Oscar pracuje ako priekopník programu Globálnej misie už 10 rokov, priviedol ku krstu 120 ľudí a založil dva kostoly. Dúfa, že čoskoro otvorí tretí kostol. Viac o priekopníkoch Globálnej misie sa dozviete na bit.ly/GMPioneers._
+_Oscar pracuje ako priekopník programu Globálnej misie už 10 rokov, priviedol ku krstu 120 ľudí a založil dva kostoly. Dúfa, že čoskoro otvorí tretí kostol. Viac o priekopníkoch Globálnej misie sa dozviete na https://bit.ly/GMPioneers._
