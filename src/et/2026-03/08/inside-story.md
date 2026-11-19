@@ -21,4 +21,4 @@ Pärast kaht aastat vaikimist ja palvetamist otsustasid Salman ja Faisal rääki
 
 Palun palveta, et Faisali ning Salmani ja tema naise sõprus Jeesusega kasvaks jätkuvalt ning et minu naine ja mina kogeksime veel rohkem Vaimust juhitud kohtumisi selles riigis olevate Jumala lastega.
 
-Me nimetame oma riiki varjatuks, kuna hoidume seal teenivate eesliinitöötajate elu ja tegevuse kaitsmiseks selle nime välja ütlemast. Globaalmisjoni koguduste rajamise kohta saad rohkem teada veebilehelt bit.ly/GMPioneers.
+Me nimetame oma riiki varjatuks, kuna hoidume seal teenivate eesliinitöötajate elu ja tegevuse kaitsmiseks selle nime välja ütlemast. Globaalmisjoni koguduste rajamise kohta saad rohkem teada veebilehelt https://bit.ly/GMPioneers.

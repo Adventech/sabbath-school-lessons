@@ -31,4 +31,4 @@ The prayer list grew to 50 names over three years. Zeth and his family usually v
 
 “Fourteen percent of my list has been baptized,” he said.
 
-_Thank you for your Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, that is helping people like Zeth prepare for gospel ministry. Klabat University, located near Manado, Indonesia, is a previous offering recipient. This quarter’s offering will help similar schools in the East-Central Africa Division. Watch a YouTube video of Zeth at bit.ly/Zeth-IS._
+_Thank you for your Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, that is helping people like Zeth prepare for gospel ministry. Klabat University, located near Manado, Indonesia, is a previous offering recipient. This quarter’s offering will help similar schools in the East-Central Africa Division. Watch a YouTube video of Zeth at https://bit.ly/Zeth-IS._

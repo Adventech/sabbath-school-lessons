@@ -25,4 +25,4 @@ Today, Rompas Josphat Lekishon is an Adventist pastor with a heart for mission. 
 
 “The thing I love the most is giving the Bible to the Maasai people,” he said. “It is giving hope to the hopeless.”
 
-_Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will support projects in Kenya and elsewhere in the East-Central Africa Division. Watch a YouTube video of Rompas at bit.ly/Rompas-IS._
+_Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will support projects in Kenya and elsewhere in the East-Central Africa Division. Watch a YouTube video of Rompas at https://bit.ly/Rompas-IS._

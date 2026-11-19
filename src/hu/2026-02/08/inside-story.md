@@ -13,5 +13,5 @@ Egyszer az édesapja mosolyogva közölte vele, hogy most már választhat, mely
 
 Amikor Lindsay elkezdte a tanulmányait, még senkit sem ismert az egyetemen. Minden szombaton elment a gyülekezetbe, és nyolc hónappal később meg is keresztelkedett. A szülei örömmel fogadták a döntését, hogy Jézusért szeretne élni. Jelenleg Lindsay Chikanda 24 éves, és már elvégezte az első évet az egyetemen. Most kész elmondani az igazságot a barátainak: „Nagyon sajnálom, de nem voltam őszinte veled. Eddig nem tanultam. Valójában Botswanában éltünk, hogy a szüleimmel pénzt gyűjtsünk a tanulmányaimra. Aztán beiratkoztam a Solusira, és megtaláltam Istent. Te is szeretnéd megismerni Istent?”
 
-Rövid YouTube videó Lindsayről itt: bit.ly/Lindsay-IS
+Rövid YouTube videó Lindsayről itt: https://bit.ly/Lindsay-IS
 

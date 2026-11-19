@@ -25,4 +25,4 @@ As Jake completed the first month of his prayer journey, he was overcome with a 
 
 As Jake prepares to step into the second month of his prayer journey, his heart is filled with amazement and anticipation. He knows that his journey has only begun, and he feels the strength of God leading him forward.
 
-_To learn about the church-planting ministry of Global Mission pioneers, visit bit.ly/GMPioneers._
+_To learn about the church-planting ministry of Global Mission pioneers, visit https://bit.ly/GMPioneers._

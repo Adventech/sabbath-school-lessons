@@ -27,4 +27,4 @@ Several months passed, and Rompas and his mother gave their hearts to Jesus in b
 
 “The truth has set me free,” Rompas said in an interview.
 
-_Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will support projects in Kenya and elsewhere in the East-Central Africa Division. Read more about Rompas next week, and watch a YouTube video of him at bit.ly/Rompas-IS._
+_Part of this quarter’s Thirteenth Sabbath Offering, also known as the Quarterly Mission Project Offering, will support projects in Kenya and elsewhere in the East-Central Africa Division. Read more about Rompas next week, and watch a YouTube video of him at https://bit.ly/Rompas-IS._

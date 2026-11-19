@@ -19,4 +19,4 @@ It took years before they finally were accepted in the main city and were able t
 
 Pioneers still are going to unreached areas today. Pioneers such as Taguhi and Aghvan are working in an area with very few Adventists. Please pray for missionaries and Global Mission pioneers as they start new work in the 10/40 Window, the large cities of the world, and among post-Christian people. May God bless their work as they share the gospel and start new worshiping groups.
 
-_Global Mission pioneers are laypeople sent to start new groups of believers in unreached areas or among unreached people groups. They are paid a small stipend and often work within their own culture. Learn more about Global Mission pioneers: bit.ly/GMPioneers._
+_Global Mission pioneers are laypeople sent to start new groups of believers in unreached areas or among unreached people groups. They are paid a small stipend and often work within their own culture. Learn more about Global Mission pioneers: https://bit.ly/GMPioneers._

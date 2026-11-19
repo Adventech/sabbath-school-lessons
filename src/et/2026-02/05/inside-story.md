@@ -33,4 +33,4 @@ Siis ta mõtles: „Aga mis siis, kui see on sõnum Issandalt? Mul tuleb selgust
 
 Nii astus poiss, kelle hüüdnimeks oli „pastor“, esimese sammu adventpastoriks saamise teel. Praegu tunneb ta tõde ja õpetab seda Keenias teistele.
 
-_Osa selle veerandaasta kolmeteistkümnenda hingamispäeva annetusest, mida tuntakse ka veerandaasta misjoniprojekti annetuse nime all, toetab Keenias ning mujal Ida- ja Kesk-Aafrika divisjonis kavandatavaid projekte. Loe Rompasest edasi järgmisel nädalal ja vaata temast YouTube’i videot aadressil bit.ly/Rompas-IS._
+_Osa selle veerandaasta kolmeteistkümnenda hingamispäeva annetusest, mida tuntakse ka veerandaasta misjoniprojekti annetuse nime all, toetab Keenias ning mujal Ida- ja Kesk-Aafrika divisjonis kavandatavaid projekte. Loe Rompasest edasi järgmisel nädalal ja vaata temast YouTube’i videot aadressil https://bit.ly/Rompas-IS._

@@ -10,6 +10,7 @@ _Meno zakladateľa zboru bolo zmenené a oblasť, kde pracuje, bola utajená, ab
 Jake, zakladateľ zboru, vedel, že je  jedna vec, ktorú nesmie vynechať vo svojom každodennom živote, keď teraz s manželkou žijú v krajine, kde je málo kresťanov, a to modlitba. Rozhodol sa, že si každý mesiac zapíše všetky svoje modlitebné prosby a uvidí, ako na ne Boh odpovie.
 
 Jake a skupina členov v jeho novozakladanom zbore mali každý na starosti duchovné sprevádzanie jedného alebo dvoch nových návštevníkov. Skupina sa stretávala každý deň v týždni, aby sa modlila za týchto nových veriacich, a jeden deň si vyhradili na pôst.
+
 Počas jedného zhromaždenia domáceho zboru predstavil jeden člen Jakea Omarovi, kuchárovi, ktorý objavil Ježiša už pred mnohými rokmi. Vedený Duchom Svätým nadviazal Jake s Omarom rozhovor a čoskoro si obaja muži sľúbili, že sa stretnú.
 
 O niekoľko dní neskôr Omar navštívil Jakea a podelil sa o svoje svedectvo o tom, ako našiel Ježiša prostredníctvom Biblie. Posledných 15 rokov prežíval svoju vieru opatrne a vyhýbal sa prílišnému kontaktu s ostatnými veriacimi, aby neriskoval svoj život. Jeho rodina ani priatelia nevedeli o jeho presvedčení. Jake pozorne počúval, keď Omar vyjadril svoju túžbu byť pokrstený.
@@ -24,4 +25,4 @@ Keď Jake dokončil prvý mesiac svojej modlitebnej cesty, premohol ho hlboký o
 
 Keď sa Jake pripravuje na vstup do druhého mesiaca svojej modlitebnej cesty, jeho srdce je naplnené úžasom a očakávaním. Vie, že jeho cesta sa len začala, a cíti Božiu silu, ktorá ho vedie vpred.
 
-_Ak sa chcete dozvedieť viac o misijnej službe Globálnej misie zameranej na zakladanie zborov, navštívte bit.ly/GMPioneers._
+_Ak sa chcete dozvedieť viac o misijnej službe Globálnej misie zameranej na zakladanie zborov, navštívte https://bit.ly/GMPioneers._
