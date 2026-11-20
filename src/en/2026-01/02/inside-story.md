@@ -31,4 +31,4 @@ In sharing the gospel, Oscar also goes from church to church on Sundays. In Keny
 
 Seven people accepted the Voice of Prophecy Discovery Bible lessons on the spot. Others were wary but later agreed to take the lessons. Today, 43 people from the church are studying the Bible with Oscar. “Not bad for a meeting where I wasn’t allowed to speak,” he said with a smile.
 
-_Oscar has worked as a Global Mission pioneer for 10 years, leading 120 people to baptism and planting two churches. He hopes to open a third church soon. Learn more about Global Mission pioneers at bit.ly/GMPioneers._
+_Oscar has worked as a Global Mission pioneer for 10 years, leading 120 people to baptism and planting two churches. He hopes to open a third church soon. Learn more about Global Mission pioneers at https://bit.ly/GMPioneers._

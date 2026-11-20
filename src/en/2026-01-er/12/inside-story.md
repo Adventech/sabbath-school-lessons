@@ -17,6 +17,6 @@ Rene is very happy with his decision to accept the job and trust in God. God con
 
 In the meantime, the company where Rene worked in the Middle East went out of business during the COVID-19 pandemic. If Rene accepted more money and not the plane ticket home, he would have lost everything. Today, Rene says that he owes all his success to the Lord. “ ‘I know what I have planned for you,' says the Lord. 'I have good plans for you. I don’t plan to hurt you. I plan to give you hope and a good future’ ” (Jeremiah 29:11, ICB). Rene Tucaldo says, “Nothing happens because of chance. God had a plan for me.”
 
-Rene Tucaldo is the accounting manager for the 1000 Missionary Movement, in Silang, Philippines. The headquarters were built with the help of a 13th Sabbath Offering, in 1996. Watch Rene’s story on YouTube at: bit.ly/Rene-1000MM.
+Rene Tucaldo is the accounting manager for the 1000 Missionary Movement, in Silang, Philippines. The headquarters were built with the help of a 13th Sabbath Offering, in 1996. Watch Rene’s story on YouTube at: https://bit.ly/Rene-1000MM.
 
 _Provided by the General Conference Office of Adventist Mission, which uses Sabbath School mission offerings to spread the gospel worldwide. Read new stories daily at www.AdventistMission.org._

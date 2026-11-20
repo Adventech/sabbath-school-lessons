@@ -17,7 +17,7 @@ Iolanda Xavier, a 86 éves nagymama hiszi, hogy semmi sem fontosabb annál, hogy
 
 „A misszió rendkívül fontos – vallja Iolanda. – Mindannyian Istentől születtünk misszionáriusnak.”
 
-YouTube videó Iolandáról itt: bit.ly/Iolanda-IS
+YouTube videó Iolandáról itt: https://bit.ly/Iolanda-IS
 
 
 

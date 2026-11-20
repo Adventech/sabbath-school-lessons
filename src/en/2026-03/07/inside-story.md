@@ -23,4 +23,4 @@ The general and I have kept in touch. We talk often and have met several times. 
 
 But those are small benefits next to the privilege of watching God use every circumstance to accomplish His purpose. We had approached Him with our great need because we were blocked by the challenges of doing His work, and in answering our prayer, He connected us to the very purpose of our work.
 
-_We call a country veiled when we have withheld its name to protect the lives and ministry of frontline workers serving there. To learn about Global Mission’s church-planting ministry, visit bit.ly/GMPioneers._
+_We call a country veiled when we have withheld its name to protect the lives and ministry of frontline workers serving there. To learn about Global Mission’s church-planting ministry, visit https://bit.ly/GMPioneers._

@@ -29,4 +29,4 @@ Palvetav Tarsis trügis julgelt järjekorda vahele ja astus rahaautomaadi juurde
 
 Tarsise käest, kes on nüüd 42-aastane sõjaväepolitsei ohvitser Recifes, Brasiilias, on küsitud, miks andis Jumal 50 reaali ja mitte rohkem. Ta vastab: „Selle­pärast, et ma ei aidanud rohkem inimesi. Kui oleksin pakkunud abi rohkematele, oleks Jumalgi mulle rohkem andnud.“ Tema jaoks oli 50 reaali täiesti loogiline: 5 reaali kümniseks, 5 reaali annetusteks ja 40 reaali sõprade eest. „Me ei muutu vaeseks, kui inimesi aitame,“ ütles ta. „Jumal peab meid ülal. Ole ustav.“
 
-_Vaata YouTube’i videot Tarsisest aadressil bit.ly/Tarsis-IS._
+_Vaata YouTube’i videot Tarsisest aadressil https://bit.ly/Tarsis-IS._

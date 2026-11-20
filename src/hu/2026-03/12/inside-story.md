@@ -23,4 +23,4 @@ Most szombatonként tízen gyűlnek össze az új épületben, sokan 12 km-es t�
 
 Leenus újabb evangelizációs sorozatot tervez. „Az emberek így megtudják, hol gyűlünk össze – magyarázza. – Az új épület meggyőzi őket arról, hogy Isten az új gyülekezettel van.”
 
-Imádkozzunk a globális missziós úttörőkért, akik Leenushoz hasonlóan még érintetlen területeken alapítanak gyülekezetet szerte a világon! Többet is megtudhatsz a globális missziós úttörőkről a bit.ly/GMPoineers oldalon.
+Imádkozzunk a globális missziós úttörőkért, akik Leenushoz hasonlóan még érintetlen területeken alapítanak gyülekezetet szerte a világon! Többet is megtudhatsz a globális missziós úttörőkről a https://bit.ly/GMPoineers oldalon.

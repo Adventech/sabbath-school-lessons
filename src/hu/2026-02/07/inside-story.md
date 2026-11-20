@@ -11,5 +11,5 @@ Az egyik este összehívta azokat a testvéreit, akik megtartották a szombatot,
 
 Jelenleg Rompas Josphat Lekishon missziós lelkületű, adventista lelkipásztor. Erőfeszítései nyomán hat keresztény gyülekezet lett hetednapi adventista, a saját családjuk birtokán még egy gyülekezet működik 33 taggal; a maszáj embereknek eddig 500 Bibliát ajándékozott. „A legjobban azt szeretem, amikor Bibliát adhatok a maszájok kezébe. Olyan ez, mintha reményt adnék a reményvesztetteknek” – nyilatkozta.
 
-YouTube videó Rompasról itt: bit.ly/Rompas-IS
+YouTube videó Rompasról itt: https://bit.ly/Rompas-IS
 

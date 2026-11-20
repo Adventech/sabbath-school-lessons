@@ -21,4 +21,4 @@ After two years of silence and prayer, Salman and Faisal decided to tell their f
 
 Please pray that Faisal and Salman and his wife will continue to grow in their relationships with Jesus and that my wife and I will experience many more Spirit-led encounters with God’s children in this closed country.
 
-_We call a country veiled when we have withheld its name to protect the lives and ministry of frontline workers serving there. To learn about Global Mission’s church-planting ministry, visit bit.ly/GMPioneers._
+_We call a country veiled when we have withheld its name to protect the lives and ministry of frontline workers serving there. To learn about Global Mission’s church-planting ministry, visit https://bit.ly/GMPioneers._

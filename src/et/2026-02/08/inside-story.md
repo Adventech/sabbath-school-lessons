@@ -33,4 +33,4 @@ Kui Lindsay kohale jõudis, polnud adventkogudus talle üldse tuttav. Aga ta kä
 
 Praegu on Lindsay 24-aastane ja lõpetab oma esimest ülikooliaastat. Ta on valmis rääkima oma keskkooliaegsetele sõpradele tõtt: „Palun vabandust, aga ma ei rääkinud teile tõtt. Ma ei õppinud kuskil. Tegelikult olin Botswanas, sest mu vanematel ei olnud võimalik mu õppemaksu eest tasuda, ja nii töötasin ma koos nendega. Aga siis tulin ma Solusisse ja leidsin Jumala. Kas teiegi tahate Jumalat tundma õppida?“
 
-_Sinu hingamispäevakooli annetus toetab seitsmenda päeva adventistide haridust maailma eri paigus. Täname, et annetad misjoni heaks. Vaata lühikest YouTube’i videot Lindsayst aadressil bit.ly/Lindsay-IS._
+_Sinu hingamispäevakooli annetus toetab seitsmenda päeva adventistide haridust maailma eri paigus. Täname, et annetad misjoni heaks. Vaata lühikest YouTube’i videot Lindsayst aadressil https://bit.ly/Lindsay-IS._

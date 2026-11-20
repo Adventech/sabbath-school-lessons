@@ -25,4 +25,4 @@ Ubehlo niekoľko mesiacov a Rompas a jeho matka v ten istý deň krstom odovzdal
 
 _Časť tohtoročnej obety trinástej sobotnej, známej aj ako štvrťročná misijná obeta, podporí projekty v Keni a inde v divízii stredovýchodnej Afriky._
 
-_Viac o Rompasovi si prečítajte budúci týždeň a pozrite si video s ním na YouTube na bit.ly/Rompas-IS._
+_Viac o Rompasovi si prečítajte budúci týždeň a pozrite si video s ním na YouTube na https://bit.ly/Rompas-IS._

@@ -27,4 +27,4 @@ Leenus was tempted to feel discouraged, but he soon realized God had a plan. “
 
 Leenus prayed about having a church and, eventually, God helped him acquire land and people to help build the structure. Now, 10 members meet every week on Sabbath in the brand-new church. Some come from as far as 12 kilometers (7.5 miles) away. Leenus plans to hold evangelistic meetings in the community. He believes having a new church has helped people feel God is with the church plant. “They can see that God is doing something for us. He is expanding us and helping us grow.”
 
-Please pray for Global Mission pioneers who, like Leenus, have accepted the challenge of planting churches among unreached people groups around the world. Learn more about Global Mission pioneers: bit.ly/GMPioneers.
+Please pray for Global Mission pioneers who, like Leenus, have accepted the challenge of planting churches among unreached people groups around the world. Learn more about Global Mission pioneers: https://bit.ly/GMPioneers.

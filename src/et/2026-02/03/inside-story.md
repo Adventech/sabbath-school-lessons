@@ -37,4 +37,4 @@ Aasta hiljem ema ristiti ja ta ühines adventkogudusega.
 
 „Misjonitöö on päriselt tähtis,“ ütles ta. „Kõik me sündisime selleks, et olla Jumala misjonärid.“
 
-_Osa möödunud veerandaasta kolmeteistkümnenda hingamispäeva annetusest, mida tuntakse ka veerandaasta misjoniprojekti annetusena, läks selleks, et avada kirik Pernambucano Adventakadeemias – Brasiilias Pernambuco osariigis, kus Iolanda elab. Täname, et kavatsed selle veerandaasta projektide jaoks heldelt annetada. Vaata YouTube’ist videot Iolandast aadressil bit.ly/Iolanda—IS._
+_Osa möödunud veerandaasta kolmeteistkümnenda hingamispäeva annetusest, mida tuntakse ka veerandaasta misjoniprojekti annetusena, läks selleks, et avada kirik Pernambucano Adventakadeemias – Brasiilias Pernambuco osariigis, kus Iolanda elab. Täname, et kavatsed selle veerandaasta projektide jaoks heldelt annetada. Vaata YouTube’ist videot Iolandast aadressil https://bit.ly/Iolanda—IS._

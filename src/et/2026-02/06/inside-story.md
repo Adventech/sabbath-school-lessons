@@ -27,4 +27,4 @@ Rompas pani hinnalised püksid sel ööl voodi alla. Ta kandis neid alles siis, 
 
 Möödus mõni kuu ning Rompas ja tema ema andsid ühel ja samal päeval ristimise kaudu oma südame Jeesusele. Kaks esimest liiget peaaegu 100-liikmelisest perekonnast olid saanud seitsmenda päeva adventistideks. Rompas tundis esimest korda elus ennast vabana. Jeesus ütles oma jüngritele: „[Te] tunnetate tõde, ja tõde vabastab teid“ (Jh 8:32). „Tõde on mind vabaks teinud,“ ütles ta usutluses.
 
-Osa selle veerandaasta kolmeteistkümnenda hingamispäeva annetusest, mida tuntakse ka veerandaasta misjoniprojekti annetuse nime all, toetab Keenias ning mujal Ida- ja Kesk-Aafrika divisjonis kavandatavaid projekte. Loe Rompasest edasi järgmisel nädalal ja vaata temast YouTube’i videot aadressil bit.ly/Rompas-IS.
+Osa selle veerandaasta kolmeteistkümnenda hingamispäeva annetusest, mida tuntakse ka veerandaasta misjoniprojekti annetuse nime all, toetab Keenias ning mujal Ida- ja Kesk-Aafrika divisjonis kavandatavaid projekte. Loe Rompasest edasi järgmisel nädalal ja vaata temast YouTube’i videot aadressil https://bit.ly/Rompas-IS.

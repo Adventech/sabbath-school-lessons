@@ -27,7 +27,7 @@ En partageant l’Évangile, Oscar va aussi d’Église en Église le dimanche. 
 
 Sept personnes acceptèrent immédiatement les leçons bibliques de La Découverte de la Voix de la Prophétie. D’autres étaient méfiants, mais avaient ensuite accepté de prendre les leçons. Aujourd’hui, 43 personnes de l’Église étudient la Bible avec Oscar. «Pas mal pour une réunion où je n’avais pas le droit de parler», dit-il en souriant.
 
-_Oscar a travaillé en tant que pionnier de la mission mondiale pendant 10 ans, menant 120 personnes au baptême et à l’implantation de deux Églises. Il espère ouvrir bientôt une troisième Église. Apprenez-en plus sur les pionniers de la mission mondiale à bit.ly/GMPioneers._
+_Oscar a travaillé en tant que pionnier de la mission mondiale pendant 10 ans, menant 120 personnes au baptême et à l’implantation de deux Églises. Il espère ouvrir bientôt une troisième Église. Apprenez-en plus sur les pionniers de la mission mondiale à https://bit.ly/GMPioneers._
 
 ---
 

@@ -31,4 +31,4 @@ Při šíření evangelia Oscar také v neděli chodí od kostela ke kostelu. V 
 
 Sedm lidí přijalo biblické lekce "Objevování Bible" od "Voice of Prophecy" na místě. Ostatní byli opatrní, ale později souhlasili, že se lekcí zúčastní. Dnes studuje Bibli s Oscarem 43 lidí z kostela. „To není špatné na schůzku, kde jsem nemohl mluvit,“ řekl s úsměvem.
 
-_Oscar pracuje jako průkopník Globálni Misie již 10 let, vedl 120 lidí ke křtu a založil dva sbory. Doufá, že brzy otevře třetí sbor. Více informací o průkopnících Globálni Misie najdete na bit.ly/GMPioneers._
+_Oscar pracuje jako průkopník Globálni Misie již 10 let, vedl 120 lidí ke křtu a založil dva sbory. Doufá, že brzy otevře třetí sbor. Více informací o průkopnících Globálni Misie najdete na https://bit.ly/GMPioneers._

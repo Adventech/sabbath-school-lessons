@@ -13,4 +13,4 @@ Zeth elismeri, hogy mindeközben a családja kihívásokkal küzd. Egy pénteken
 
 Otthon Zeth és a felesége hálát adtak Istennek, majd kinyitották a borítékot. Abban egy akkora összeg volt, amiből néhány hónapig fedezni tudták a költségeiket. Akik kételkednek abban, hogyan lehet így megélni, azoknak Zeth elmondja a tapasztalatát, majd hozzáfűzi: „Tapasztalatok százait tudnám elmondani Isten gondviseléséről, ez egy közülük.” Jelenleg Zeth a Klabat Egyetemen tanul teológiát abban a reményben, hogy sokkal alaposabb bibliaórákat tud majd adni. Beszélt arról is, hogy Isten még mindig fedezi a család kiadásait. Tanulmányai befejeztével kész lelkészként vagy bibliamunkásként szolgálni, vagy bármilyen pozícióban, amivel Isten megbízza. „Imádkozzatok a családomért, hogy amikor majd végzek a tanulmányaimmal, még több embert vezethessek Isten országába!”
 
-YouTube videó Zethről itt: bit.ly/Zeth-IS.
+YouTube videó Zethről itt: https://bit.ly/Zeth-IS.
